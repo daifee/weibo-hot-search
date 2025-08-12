@@ -1,0 +1,410 @@
+{
+  "runTime": 1755006764431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 604472,
+        "num": 1096715,
+        "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
+        "onboard_time": 1755000083,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465266,
+        "num": 465266,
+        "word": "19岁遇害女大学生亲友发声",
+        "onboard_time": 1755002845,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27771,
+        "num": 394652,
+        "word": "一起相约成都世运会",
+        "onboard_time": 1754993483,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359201,
+        "num": 359201,
+        "word": "快递费要涨了",
+        "onboard_time": 1754996665,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355059,
+        "num": 355059,
+        "word": "孙怡说结婚离婚都是过程",
+        "onboard_time": 1754999304,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1505071,
+        "num": 344516,
+        "word": "警方通报19岁女生景区遭杀害",
+        "onboard_time": 1754995403,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 332106,
+        "num": 332106,
+        "word": "花少邀请了张晚意好几次",
+        "onboard_time": 1755001706,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253700,
+        "num": 316225,
+        "word": "刘骏直播",
+        "onboard_time": 1754999004,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311455,
+        "num": 311455,
+        "word": "花少7这是香妃扎堆了",
+        "onboard_time": 1755005308,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179383,
+        "num": 310367,
+        "word": "女子剖腹产3天晒陪护全睡着",
+        "onboard_time": 1755001824,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9576740,
+        "num": 9576740,
+        "word": "19岁女大学生景区内遭捅多刀身亡",
+        "onboard_time": 1754992222,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1042413,
+        "num": 299663,
+        "word": "被捅女生朋友发声",
+        "onboard_time": 1755003926,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799956,
+        "num": 294051,
+        "word": "19岁女生遭杀害男子有精神疾病史",
+        "onboard_time": 1754995764,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 471017,
+        "num": 292376,
+        "word": "孙怡离婚后去再见爱人不敢说话",
+        "onboard_time": 1755004525,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332704,
+        "num": 285267,
+        "word": "33岁女老师二胎难产去世",
+        "onboard_time": 1754973864,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321337,
+        "num": 279858,
+        "word": "南昌景区持剪刀伤人男子被刑拘",
+        "onboard_time": 1754994143,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279622,
+        "num": 279622,
+        "word": "周一请假和周五请假是不一样的",
+        "onboard_time": 1754998943,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249203,
+        "num": 249203,
+        "word": "王晶称银河酷娱是一星公司",
+        "onboard_time": 1755001284,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245416,
+        "num": 245416,
+        "word": "婚内强奸案 性同意",
+        "onboard_time": 1754985863,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120600,
+        "num": 244570,
+        "word": "师姐称景区遇害女生阳光开朗",
+        "onboard_time": 1755005065,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516560,
+        "num": 242631,
+        "word": "杨洋 不喜欢我我就少出现",
+        "onboard_time": 1754993182,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109307,
+        "num": 238758,
+        "word": "警方通报抚顺一客车侧翻4人死亡",
+        "onboard_time": 1755005425,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 375147,
+        "num": 236146,
+        "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
+        "onboard_time": 1754987182,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235519,
+        "num": 235519,
+        "word": "樊振东巴黎四分之一决赛含金量还在上升",
+        "onboard_time": 1755002185,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234300,
+        "num": 234300,
+        "word": "白鹿瘦成啥样了",
+        "onboard_time": 1754980823,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193364,
+        "num": 193364,
+        "word": "肖战小学时期",
+        "onboard_time": 1754998283,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190367,
+        "num": 190367,
+        "word": "贺峻霖差点猜对0个人",
+        "onboard_time": 1755005126,
+        "rank": 26,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 114894,
+        "num": 187697,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186102,
+        "num": 186102,
+        "word": "IVE预告烧千纸鹤争议",
+        "onboard_time": 1755004946,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182867,
+        "num": 182867,
+        "word": "敖瑞鹏p掉了鼻毛",
+        "onboard_time": 1754989943,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177730,
+        "num": 177730,
+        "word": "特朗普希望中国将大豆订单增加3倍",
+        "onboard_time": 1755000864,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171351,
+        "num": 171351,
+        "word": "邓紫棋称投资AI公司已赚10倍",
+        "onboard_time": 1755005485,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169258,
+        "num": 169258,
+        "word": "刘骏回应被叫果骏王",
+        "onboard_time": 1755004766,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163204,
+        "num": 163204,
+        "word": "凡人修仙传第二季",
+        "onboard_time": 1754989581,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160765,
+        "num": 160765,
+        "word": "利剑玫瑰等20部重点作品版权保护预警",
+        "onboard_time": 1755005666,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154927,
+        "num": 154927,
+        "word": "男童苍山走失已3天父亲发声",
+        "onboard_time": 1755002544,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150775,
+        "num": 153588,
+        "word": "AG拥抱过去的自己",
+        "onboard_time": 1755005425,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152279,
+        "num": 152279,
+        "word": "麦当劳奶昔",
+        "onboard_time": 1755006207,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149958,
+        "num": 149958,
+        "word": "王者荣耀",
+        "onboard_time": 1754998103,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30626,
+        "num": 148366,
+        "word": "南昌景区遇害者系外交学院大一女生",
+        "onboard_time": 1755006147,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147403,
+        "num": 147403,
+        "word": "上海机场取消进航站楼人身行李安检",
+        "onboard_time": 1754994982,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139759,
+        "num": 139759,
+        "word": "生理性喜欢是一件很可怕的事",
+        "onboard_time": 1754992703,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132395,
+        "num": 132395,
+        "word": "流星雨",
+        "onboard_time": 1755001706,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130448,
+        "num": 130448,
+        "word": "女子上迪如厕排队超时崩溃大哭",
+        "onboard_time": 1754985801,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124322,
+        "num": 124322,
+        "word": "当地回应景区行凶嫌犯有精神疾病史",
+        "onboard_time": 1755006627,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121410,
+        "num": 121410,
+        "word": "小猫也需要上猫猫技能课",
+        "onboard_time": 1755006566,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120778,
+        "num": 120778,
+        "word": "女老师难产离世丈夫发声",
+        "onboard_time": 1755006506,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120574,
+        "num": 120574,
+        "word": "网红抗癌博主小浩的小迷妹离世",
+        "onboard_time": 1755002606,
+        "rank": 47,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 117537,
+        "num": 117537,
+        "word": "小米汽车回应提前支付尾款",
+        "onboard_time": 1755002965,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117404,
+        "num": 117404,
+        "word": "张杰签售会",
+        "onboard_time": 1755006627,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉通电话#"
+    }
+  }
+}
