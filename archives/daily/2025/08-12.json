@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1755009981242,
+  "endTime": 1755012628825,
   "band_list": [
     {
       "raw_hot": 14536025,
@@ -9,6 +9,14 @@
       "onboard_time": 1754992222,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3239202,
+      "num": 212452,
+      "word": "赵露思 之前有个艺人高速倒车",
+      "onboard_time": 1755010045,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2086194,
@@ -275,11 +283,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 847501,
+      "num": 847501,
+      "word": "男子因女友穿裙子出门对其殴打强奸",
+      "onboard_time": 1755008846,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 838859,
       "num": 1134217,
       "word": "女子带四个娃坐高铁被要求补3张票",
       "onboard_time": 1754983342,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 834829,
+      "num": 286049,
+      "word": "66岁男子与情人发生关系后猝死",
+      "onboard_time": 1755008665,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -352,14 +376,6 @@
       "word": "朱令骨灰今日安葬",
       "onboard_time": 1754987542,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 653655,
-      "num": 286049,
-      "word": "66岁男子与情人发生关系后猝死",
-      "onboard_time": 1755008665,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -465,14 +481,6 @@
       "onboard_time": 1754928321,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 544378,
-      "num": 544378,
-      "word": "男子因女友穿裙子出门对其殴打强奸",
-      "onboard_time": 1755008846,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 536235,
@@ -659,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 413084,
+      "num": 160089,
+      "word": "中方决定不同捷克总统进行任何交往",
+      "onboard_time": 1755012204,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 406959,
       "num": 431869,
       "word": "警方通报南昌景区伤人事件",
@@ -705,6 +721,14 @@
       "onboard_time": 1754968340,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362714,
+      "num": 362714,
+      "word": "郭麒麟为拍戏拒绝接班德云社",
+      "onboard_time": 1755008966,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 362656,
@@ -851,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297788,
+      "num": 297788,
+      "word": "三亚7199元一晚的酒店虫子成群",
+      "onboard_time": 1755009506,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294143,
       "num": 267037,
       "word": "肖战小学时期",
@@ -865,14 +897,6 @@
       "onboard_time": 1754954358,
       "rank": 14,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 288842,
-      "num": 288842,
-      "word": "郭麒麟为拍戏拒绝接班德云社",
-      "onboard_time": 1755008966,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 288364,
@@ -1187,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209764,
+      "num": 209764,
+      "word": "陶白白纹身",
+      "onboard_time": 1755009564,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 208457,
       "num": 208457,
       "word": "生万物业内口碑",
@@ -1296,6 +1328,14 @@
       "word": "展轩 天空给山装了电风扇",
       "onboard_time": 1754973504,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195411,
+      "num": 195411,
+      "word": "罗渽民直播",
+      "onboard_time": 1755011546,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1531,6 +1571,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180150,
+      "num": 180150,
+      "word": "女老师难产离世丈夫发声",
+      "onboard_time": 1755006506,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179737,
+      "num": 158151,
+      "word": "微信式恋爱",
+      "onboard_time": 1755011003,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179535,
       "num": 179535,
       "word": "2026乒乓球亚洲杯时间确定",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1754927002,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 171004,
+      "num": 212775,
+      "word": "不是谁弱谁苦谁闹谁拍谁就有理",
+      "onboard_time": 1755011243,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170163,
@@ -2075,14 +2139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142332,
-      "num": 142332,
-      "word": "陶白白纹身",
-      "onboard_time": 1755009564,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 142154,
       "num": 142154,
       "word": "追剧戒断反应",
@@ -2129,14 +2185,6 @@
       "onboard_time": 1754959883,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 140323,
-      "num": 140323,
-      "word": "女老师难产离世丈夫发声",
-      "onboard_time": 1755006506,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140164,
@@ -2217,6 +2265,14 @@
       "onboard_time": 1754984061,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137160,
+      "num": 137160,
+      "word": "流星雨",
+      "onboard_time": 1755001706,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136942,
@@ -2331,28 +2387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132395,
-      "num": 132395,
-      "word": "流星雨",
-      "onboard_time": 1755001706,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132146,
       "num": 132146,
       "word": "张本智和与父母庆祝夺冠",
       "onboard_time": 1754957842,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131539,
-      "num": 136525,
-      "word": "三亚7199元一晚的酒店虫子成群",
-      "onboard_time": 1755009506,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131004,
@@ -2883,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108125,
+      "num": 108125,
+      "word": "一条录了三年多的求婚视频",
+      "onboard_time": 1755012383,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108035,
       "num": 108035,
       "word": "恒大被取消上市地位",
@@ -2969,6 +3017,14 @@
       "onboard_time": 1754993662,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102366,
+      "num": 102366,
+      "word": "小优女友回应",
+      "onboard_time": 1755012443,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 102044,
@@ -3083,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96812,
+      "num": 96812,
+      "word": "外国人来了成都也喊雄起",
+      "onboard_time": 1755011546,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95643,
       "num": 95643,
       "word": "papi酱你们谁要再见啊",
@@ -3120,6 +3184,14 @@
       "word": "TWS韩振吃蛋挞被韩网审判",
       "onboard_time": 1754915663,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92229,
+      "num": 92229,
+      "word": "刘耀文对接三问时代峰峻",
+      "onboard_time": 1755010586,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -3193,6 +3265,14 @@
       "onboard_time": 1754947694,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82555,
+      "num": 212734,
+      "word": "韩国前第一夫人被拘押",
+      "onboard_time": 1755011965,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82259,
@@ -3563,6 +3643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31372,
+      "num": 161089,
+      "word": "婚内强奸案男方曾窃听女方日常",
+      "onboard_time": 1755010883,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30658,
       "num": 181154,
       "word": "如厕被误杀工人家属获施工方补偿",
@@ -3609,6 +3697,14 @@
       "onboard_time": 1754938574,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20320,
+      "num": 97491,
+      "word": "马库斯一行计划11月去日本",
+      "onboard_time": 1755010945,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17591,
@@ -3713,6 +3809,9 @@
     },
     {
       "word": "#习近平同巴西总统卢拉通电话#"
+    },
+    {
+      "word": "#植树造林改善生态任重而道远#"
     }
   ]
 }
