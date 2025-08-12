@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755023972028,
+  "endTime": 1755024834521,
   "band_list": [
     {
       "raw_hot": 2756344,
@@ -219,6 +219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117589,
+      "num": 117589,
+      "word": "朋友圈全部开放幸福感很高吗",
+      "onboard_time": 1755019817,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117354,
       "num": 117354,
       "word": "IVE预告烧千纸鹤争议",
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78895,
+      "num": 78895,
+      "word": "赵露思说现在只想要自由",
+      "onboard_time": 1755022276,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75522,
       "num": 79602,
       "word": "快递费要涨了",
@@ -403,28 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65858,
-      "num": 65858,
-      "word": "朋友圈全部开放幸福感很高吗",
-      "onboard_time": 1755019817,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 59080,
       "num": 51519,
       "word": "第一次见到这么漂亮的三层房车",
       "onboard_time": 1755017840,
       "rank": 41,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 54853,
-      "num": 54853,
-      "word": "赵露思说现在只想要自由",
-      "onboard_time": 1755022276,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 53218,
@@ -483,7 +483,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 28620,
+      "raw_hot": 29085,
       "num": 35262,
       "word": "中国游客讲述在巴西深夜乘大巴被劫",
       "onboard_time": 1755023295,
@@ -497,6 +497,14 @@
       "onboard_time": 1755010586,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15129,
+      "num": 74491,
+      "word": "多项贷款贴息来了",
+      "onboard_time": 1755024075,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
