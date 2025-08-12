@@ -1,0 +1,410 @@
+{
+  "runTime": 1754997867216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14536025,
+        "num": 14536025,
+        "word": "19岁女大学生景区内遭捅多刀身亡",
+        "onboard_time": 1754992222,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603726,
+        "num": 603726,
+        "word": "19岁女生遭杀害男子有精神疾病史",
+        "onboard_time": 1754995764,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 35705,
+        "num": 518126,
+        "word": "一起相约成都世运会",
+        "onboard_time": 1754993483,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497926,
+        "num": 497926,
+        "word": "南昌景区持剪刀伤人男子被刑拘",
+        "onboard_time": 1754994143,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372132,
+        "num": 372132,
+        "word": "家长网上发视频质疑校服质量被拘留",
+        "onboard_time": 1754994623,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300655,
+        "num": 300655,
+        "word": "上海机场取消进航站楼人身行李安检",
+        "onboard_time": 1754994982,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284035,
+        "num": 284035,
+        "word": "警方通报19岁女生景区遭杀害",
+        "onboard_time": 1754995403,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1395057,
+        "num": 283857,
+        "word": "杨洋 不喜欢我我就少出现",
+        "onboard_time": 1754993182,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609899,
+        "num": 283474,
+        "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
+        "onboard_time": 1754987182,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318275,
+        "num": 282991,
+        "word": "白鹿瘦成啥样了",
+        "onboard_time": 1754980823,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 988130,
+        "num": 282411,
+        "word": "婚内强奸案 性同意",
+        "onboard_time": 1754985863,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416654,
+        "num": 282219,
+        "word": "生理性喜欢是一件很可怕的事",
+        "onboard_time": 1754992703,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301484,
+        "num": 281803,
+        "word": "敖瑞鹏p掉了鼻毛",
+        "onboard_time": 1754989943,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233249,
+        "num": 281349,
+        "word": "林俊杰官宣音乐节",
+        "onboard_time": 1754994323,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203720,
+        "num": 280998,
+        "word": "张晚意录完花少晒黑了好几个度",
+        "onboard_time": 1754991562,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162518,
+        "num": 280538,
+        "word": "凡人修仙传第二季",
+        "onboard_time": 1754989581,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161909,
+        "num": 280247,
+        "word": "管乐直播自己收拾屋子",
+        "onboard_time": 1754997084,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147771,
+        "num": 279628,
+        "word": "认不出蔡康永了",
+        "onboard_time": 1754993542,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69907,
+        "num": 279264,
+        "word": "京东震骨补贴",
+        "onboard_time": 1754994082,
+        "rank": 18,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 243260,
+        "num": 278840,
+        "word": "当地回应女大学生景区疑被男子捅死",
+        "onboard_time": 1754992582,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315800,
+        "num": 278382,
+        "word": "警方通报南昌景区伤人事件",
+        "onboard_time": 1754993662,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 309097,
+        "num": 278230,
+        "word": "管乐 抱歉让大家看到杂乱的屋子",
+        "onboard_time": 1754986762,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277817,
+        "num": 277817,
+        "word": "王楚钦说一天打三场真受不了",
+        "onboard_time": 1754993601,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276696,
+        "num": 276696,
+        "word": "快递费要涨了",
+        "onboard_time": 1754996665,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230150,
+        "num": 230150,
+        "word": "33岁女老师二胎难产去世",
+        "onboard_time": 1754973864,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229655,
+        "num": 229655,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205134,
+        "num": 205134,
+        "word": "李承铉给张远道歉",
+        "onboard_time": 1754990663,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151287,
+        "num": 195226,
+        "word": "王玉雯不语只一味地撑伞",
+        "onboard_time": 1754997324,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146905,
+        "num": 193932,
+        "word": "时代少年团线上见真香",
+        "onboard_time": 1754997263,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51578,
+        "num": 193438,
+        "word": "环球影城招募退休员工时薪30元",
+        "onboard_time": 1754996484,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192976,
+        "num": 192976,
+        "word": "浪浪山宣发 傅首尔",
+        "onboard_time": 1754984902,
+        "rank": 30,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 182345,
+        "num": 182345,
+        "word": "婚后出轨生子不等于重婚罪",
+        "onboard_time": 1754977761,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165930,
+        "num": 165930,
+        "word": "女子上迪如厕排队超时崩溃大哭",
+        "onboard_time": 1754985801,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159416,
+        "num": 159416,
+        "word": "iPhone17Pro长得像充电宝",
+        "onboard_time": 1754972784,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158524,
+        "num": 158524,
+        "word": "南昌八大山人",
+        "onboard_time": 1754992103,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136077,
+        "num": 136077,
+        "word": "李乃文老婆",
+        "onboard_time": 1754981122,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130361,
+        "num": 130361,
+        "word": "易烊千玺演唱会抢票乐子",
+        "onboard_time": 1754996844,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127820,
+        "num": 127820,
+        "word": "康师傅方便面上半年少卖3.5亿",
+        "onboard_time": 1754990602,
+        "rank": 37,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 1270,
+        "num": 126896,
+        "word": "真正决定一个人能走多远的能力",
+        "onboard_time": 1754997084,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126800,
+        "num": 126800,
+        "word": "周也刘亦菲幻视段誉王语嫣",
+        "onboard_time": 1754994682,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126041,
+        "num": 126041,
+        "word": "国乒最新16人参赛名单",
+        "onboard_time": 1754995043,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124947,
+        "num": 124947,
+        "word": "维吾尔族人结婚竟然要2个月",
+        "onboard_time": 1754994143,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122426,
+        "num": 122426,
+        "word": "利剑玫瑰删减剧情炸裂",
+        "onboard_time": 1754986281,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119959,
+        "num": 119959,
+        "word": "女子带四个娃坐高铁被要求补3张票",
+        "onboard_time": 1754983342,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60992,
+        "num": 119358,
+        "word": "男子毒杀未成年儿女前想先杀妻子",
+        "onboard_time": 1754996484,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118866,
+        "num": 118866,
+        "word": "迪丽热巴邓妍S级向导",
+        "onboard_time": 1754997561,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117198,
+        "num": 117198,
+        "word": "张康乐别看晋江了",
+        "onboard_time": 1754989462,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114270,
+        "num": 114270,
+        "word": "广东男篮中锋徐昕申请交易",
+        "onboard_time": 1754997743,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110067,
+        "num": 110067,
+        "word": "一咪一人一起yue",
+        "onboard_time": 1754996844,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109414,
+        "num": 109414,
+        "word": "湿粉 米酵菌酸中毒",
+        "onboard_time": 1754997804,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉通电话#"
+    }
+  }
+}
