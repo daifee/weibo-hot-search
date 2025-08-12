@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754997867216,
+  "endTime": 1754998811571,
   "band_list": [
     {
       "raw_hot": 14536025,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1436160,
+      "num": 509768,
+      "word": "杨洋 不喜欢我我就少出现",
+      "onboard_time": 1754993182,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1414228,
       "num": 362796,
       "word": "外交学院",
@@ -57,14 +65,6 @@
       "onboard_time": 1754980823,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1395057,
-      "num": 509768,
-      "word": "杨洋 不喜欢我我就少出现",
-      "onboard_time": 1754993182,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1367452,
@@ -145,6 +145,14 @@
       "onboard_time": 1754965820,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1087700,
+      "num": 603726,
+      "word": "19岁女生遭杀害男子有精神疾病史",
+      "onboard_time": 1754995764,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1076342,
@@ -339,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 603726,
-      "num": 603726,
-      "word": "19岁女生遭杀害男子有精神疾病史",
-      "onboard_time": 1754995764,
-      "rank": 1,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 598152,
       "num": 430607,
       "word": "生理性喜欢是一件很可怕的事",
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476982,
+      "num": 1076317,
+      "word": "家长网上发视频质疑校服质量被拘留",
+      "onboard_time": 1754994623,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475351,
       "num": 475351,
       "word": "韩国人以为沈佳润是财阀千金",
@@ -595,19 +603,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 372132,
-      "num": 372132,
-      "word": "家长网上发视频质疑校服质量被拘留",
-      "onboard_time": 1754994623,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 362764,
       "num": 362764,
       "word": "苍山失联男孩夏令营清空社交账号",
       "onboard_time": 1754968340,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362656,
+      "num": 362656,
+      "word": "上海机场取消进航站楼人身行李安检",
+      "onboard_time": 1754994982,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -648,6 +656,14 @@
       "word": "女子上迪如厕排队超时崩溃大哭",
       "onboard_time": 1754985801,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332001,
+      "num": 332001,
+      "word": "快递费要涨了",
+      "onboard_time": 1754996665,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -715,14 +731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 300655,
-      "num": 300655,
-      "word": "上海机场取消进航站楼人身行李安检",
-      "onboard_time": 1754994982,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293739,
       "num": 293739,
       "word": "25岁确诊抑郁症的睡前躯体化",
@@ -785,14 +793,6 @@
       "onboard_time": 1754993601,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276696,
-      "num": 276696,
-      "word": "快递费要涨了",
-      "onboard_time": 1754996665,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275379,
@@ -867,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242061,
+      "num": 242061,
+      "word": "王者荣耀",
+      "onboard_time": 1754998103,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238883,
       "num": 280946,
       "word": "张艺凡刚出新手村就遇顶级魅魔",
@@ -897,6 +905,14 @@
       "onboard_time": 1754969302,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229560,
+      "num": 279628,
+      "word": "认不出蔡康永了",
+      "onboard_time": 1754993542,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 226545,
@@ -939,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222666,
+      "num": 280247,
+      "word": "管乐直播自己收拾屋子",
+      "onboard_time": 1754997084,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215635,
       "num": 214033,
       "word": "印度男子载亡妻尸体求救无人相助",
@@ -968,14 +992,6 @@
       "word": "李乃文老婆杨婷",
       "onboard_time": 1754981122,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 212026,
-      "num": 279628,
-      "word": "认不出蔡康永了",
-      "onboard_time": 1754993542,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1123,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189245,
+      "num": 189245,
+      "word": "鞠婧祎美少女黛",
+      "onboard_time": 1754998223,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189139,
       "num": 189139,
       "word": "王楚钦霸气歪嘴",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1754927062,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188716,
+      "num": 188716,
+      "word": "战至巅峰",
+      "onboard_time": 1754998103,
+      "rank": 26,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 188651,
@@ -1251,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179999,
+      "num": 179999,
+      "word": "肖战小学时期",
+      "onboard_time": 1754998283,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179535,
       "num": 179535,
       "word": "2026乒乓球亚洲杯时间确定",
@@ -1313,6 +1353,14 @@
       "onboard_time": 1754901862,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172802,
+      "num": 195226,
+      "word": "王玉雯不语只一味地撑伞",
+      "onboard_time": 1754997324,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 172521,
@@ -1411,14 +1459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161909,
-      "num": 280247,
-      "word": "管乐直播自己收拾屋子",
-      "onboard_time": 1754997084,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160901,
       "num": 160901,
       "word": "王星越不收礼物更不收孩子",
@@ -1513,14 +1553,6 @@
       "onboard_time": 1754992523,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151287,
-      "num": 195226,
-      "word": "王玉雯不语只一味地撑伞",
-      "onboard_time": 1754997324,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 151055,
@@ -1665,6 +1697,22 @@
       "onboard_time": 1754966180,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144327,
+      "num": 144327,
+      "word": "RIIZE空降",
+      "onboard_time": 1754998522,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143688,
+      "num": 143688,
+      "word": "迪丽热巴邓妍S级向导",
+      "onboard_time": 1754997561,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 142514,
@@ -2091,20 +2139,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118866,
-      "num": 118866,
-      "word": "迪丽热巴邓妍S级向导",
-      "onboard_time": 1754997561,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118639,
       "num": 201225,
       "word": "重庆一爱心冰柜的矿泉水遭哄抢",
       "onboard_time": 1754982082,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118396,
+      "num": 118396,
+      "word": "瓦手抢ID活动开启",
+      "onboard_time": 1754998463,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 118308,
@@ -2305,6 +2353,14 @@
       "onboard_time": 1754965642,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107505,
+      "num": 107505,
+      "word": "张本智和WTT胜场数第一",
+      "onboard_time": 1754996844,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 106718,
@@ -2643,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76439,
+      "num": 199279,
+      "word": "健胃消食片 消食健胃片",
+      "onboard_time": 1754998223,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 75629,
       "num": 75629,
       "word": "一看就是江浙沪人最喜欢吃的菜",
@@ -2745,6 +2809,14 @@
       "onboard_time": 1754955500,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58717,
+      "num": 143855,
+      "word": "心动8史上最实用的一款恋综",
+      "onboard_time": 1754995645,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 57962,
@@ -2896,6 +2968,14 @@
       "word": "台7岁女童火化前舌头咽喉消失",
       "onboard_time": 1754937015,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30658,
+      "num": 181154,
+      "word": "如厕被误杀工人家属获施工方补偿",
+      "onboard_time": 1754998403,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
