@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754974195337,
+  "endTime": 1754976410314,
   "band_list": [
     {
       "raw_hot": 1811709,
@@ -9,6 +9,14 @@
       "onboard_time": 1754958862,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1672276,
+      "num": 371883,
+      "word": "33岁女老师二胎难产去世",
+      "onboard_time": 1754973864,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1574519,
@@ -259,12 +267,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413999,
-      "num": 413999,
+      "raw_hot": 442639,
+      "num": 370368,
+      "word": "怀孕后才知道妈妈漏尿多年",
+      "onboard_time": 1754973203,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 423935,
+      "num": 423935,
       "word": "中国人开始提老祖宗了那你基本完了",
       "onboard_time": 1754971403,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 394654,
+      "num": 554972,
+      "word": "小米门锁误识外卖员人脸开锁成功",
+      "onboard_time": 1754971463,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393741,
@@ -283,20 +307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337099,
-      "num": 337099,
-      "word": "33岁女老师二胎难产去世",
-      "onboard_time": 1754973864,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332646,
       "num": 332646,
       "word": "爱马仕继承人150亿美元股票不翼而飞",
       "onboard_time": 1754968882,
       "rank": 42,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 328651,
+      "num": 328651,
+      "word": "田曦薇虞书欣 女明星之间的友情",
+      "onboard_time": 1754974584,
+      "rank": 15,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 327288,
@@ -323,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308125,
+      "num": 308125,
+      "word": "打水仗感染食脑虫男童去世",
+      "onboard_time": 1754973144,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307021,
       "num": 307021,
       "word": "王一博和嬛嬛都是标准发缝发量优秀",
@@ -339,28 +371,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 293646,
-      "num": 554972,
-      "word": "小米门锁误识外卖员人脸开锁成功",
-      "onboard_time": 1754971463,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288364,
       "num": 288364,
       "word": "赵露思说当初签银河酷娱是不想红",
       "onboard_time": 1754924305,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286818,
-      "num": 286818,
-      "word": "打水仗感染食脑虫男童去世",
-      "onboard_time": 1754973144,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275379,
@@ -395,16 +411,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 251158,
-      "num": 251158,
-      "word": "怀孕后才知道妈妈漏尿多年",
-      "onboard_time": 1754973203,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248862,
-      "num": 248862,
+      "num": 403019,
       "word": "王楚钦9冠孙颖莎12冠",
       "onboard_time": 1754971102,
       "rank": 21,
@@ -433,6 +441,14 @@
       "onboard_time": 1754969302,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226545,
+      "num": 204552,
+      "word": "他两第一部仙侠剧就遇上了横店大雪",
+      "onboard_time": 1754974524,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 226535,
@@ -465,6 +481,14 @@
       "onboard_time": 1754968942,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214074,
+      "num": 214074,
+      "word": "iPhone17Pro长得像充电宝",
+      "onboard_time": 1754972784,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 214016,
@@ -603,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185759,
+      "num": 185759,
+      "word": "成都偶遇赵露思魏笑买果汁",
+      "onboard_time": 1754975663,
+      "rank": 22,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 184501,
       "num": 184501,
       "word": "沈梦辰成功追星王力宏",
@@ -611,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183661,
-      "num": 183661,
-      "word": "iPhone17Pro长得像充电宝",
-      "onboard_time": 1754972784,
-      "rank": 32,
-      "category": "数码"
+      "raw_hot": 181505,
+      "num": 181505,
+      "word": "KPL",
+      "onboard_time": 1754975423,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 181229,
@@ -699,12 +731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166698,
+      "num": 166698,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1754975003,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165082,
       "num": 165082,
       "word": "女子闪婚后一个月遭三次家暴",
       "onboard_time": 1754969782,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164055,
+      "num": 164055,
+      "word": "刘宇宁没想到身高能这么用",
+      "onboard_time": 1754974343,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 160901,
@@ -769,6 +817,14 @@
       "onboard_time": 1754969663,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156150,
+      "num": 156150,
+      "word": "网红郭聪明时隔两年暴瘦露面",
+      "onboard_time": 1754974584,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 151055,
@@ -849,6 +905,14 @@
       "onboard_time": 1754971882,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142154,
+      "num": 142154,
+      "word": "追剧戒断反应",
+      "onboard_time": 1754975183,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 141878,
@@ -947,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131004,
+      "num": 131004,
+      "word": "菜菜妈妈另一个李焕英",
+      "onboard_time": 1754975063,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130707,
       "num": 130707,
       "word": "为什么现在裸辞的人越来越多了",
@@ -985,6 +1057,14 @@
       "onboard_time": 1754961861,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126135,
+      "num": 126135,
+      "word": "张萌关晓彤梦回梅花红桃",
+      "onboard_time": 1754975302,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 123811,
@@ -1057,6 +1137,22 @@
       "onboard_time": 1754911763,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113902,
+      "num": 151782,
+      "word": "朱一龙吴磊回忆初次见面这段",
+      "onboard_time": 1754976083,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 112983,
+      "num": 112983,
+      "word": "当狗狗发现早上晚起了半小时",
+      "onboard_time": 1754974284,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112710,
@@ -1339,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79821,
+      "num": 130790,
+      "word": "翁虹25年后再扮猫妖",
+      "onboard_time": 1754976144,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78680,
       "num": 162872,
       "word": "仅17岁的董事长任职未满一年",
@@ -1441,6 +1545,14 @@
       "onboard_time": 1754965161,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41850,
+      "num": 130561,
+      "word": "范现国称暴利不是商业文明",
+      "onboard_time": 1754974884,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36602,
