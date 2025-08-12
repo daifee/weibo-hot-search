@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755006764431,
+  "endTime": 1755008917996,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -483,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1053363,
+      "num": 465266,
+      "word": "19岁遇害女大学生亲友发声",
+      "onboard_time": 1755002845,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1051504,
       "num": 1051504,
       "word": "汪苏泷张碧晨参加东方风云榜",
@@ -536,6 +544,14 @@
       "word": "台7岁女童火化前舌头咽喉不见了",
       "onboard_time": 1754926522,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 971551,
+      "num": 1155448,
+      "word": "吃鸡蛋事件 剧本",
+      "onboard_time": 1755006866,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -1524,7 +1540,7 @@
     },
     {
       "raw_hot": 471017,
-      "num": 320732,
+      "num": 380780,
       "word": "孙怡离婚后去再见爱人不敢说话",
       "onboard_time": 1755004525,
       "rank": 13,
@@ -1561,14 +1577,6 @@
       "onboard_time": 1754889203,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 465266,
-      "num": 465266,
-      "word": "19岁遇害女大学生亲友发声",
-      "onboard_time": 1755002845,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 463505,
@@ -1793,6 +1801,14 @@
       "onboard_time": 1754783118,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417469,
+      "num": 417469,
+      "word": "花少7这是香妃扎堆了",
+      "onboard_time": 1755005308,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 417182,
@@ -2211,6 +2227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 325475,
+      "num": 325475,
+      "word": "当地回应景区行凶嫌犯有精神疾病史",
+      "onboard_time": 1755006627,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325056,
       "num": 325056,
       "word": "i miss you",
@@ -2281,14 +2305,6 @@
       "onboard_time": 1754911763,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311455,
-      "num": 311455,
-      "word": "花少7这是香妃扎堆了",
-      "onboard_time": 1755005308,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 308731,
@@ -2739,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255120,
+      "num": 255120,
+      "word": "孙怡不去浪姐的原因",
+      "onboard_time": 1755007524,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254020,
       "num": 254020,
       "word": "中美斯德哥尔摩经贸会谈联合声明",
@@ -2867,6 +2891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 237605,
+      "num": 168195,
+      "word": "意识到这些很贵的人都不年轻了",
+      "onboard_time": 1755007886,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237322,
       "num": 237322,
       "word": "献鱼定档",
@@ -2953,6 +2985,14 @@
       "onboard_time": 1754917461,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 230541,
+      "num": 166797,
+      "word": "全英语交流无非就这500句",
+      "onboard_time": 1755008066,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 230103,
@@ -3827,6 +3867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192117,
+      "num": 192117,
+      "word": "成都蓉城3比0曼谷联",
+      "onboard_time": 1755008487,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191892,
       "num": 191892,
       "word": "孙颖莎3比1石洵瑶",
@@ -4027,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186288,
+      "num": 186288,
+      "word": "66岁男子与情人发生关系后猝死",
+      "onboard_time": 1755008665,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186190,
       "num": 186190,
       "word": "陈星旭怎么J成这样",
@@ -4129,6 +4185,14 @@
       "onboard_time": 1754890401,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182837,
+      "num": 170850,
+      "word": "马琳找王楚钦要签名",
+      "onboard_time": 1755007166,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 182713,
@@ -4313,6 +4377,14 @@
       "onboard_time": 1754822181,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176761,
+      "num": 176761,
+      "word": "利剑玫瑰收视率",
+      "onboard_time": 1755008606,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 176645,
@@ -4659,12 +4731,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 166473,
+      "num": 166473,
+      "word": "小优",
+      "onboard_time": 1755006866,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166273,
       "num": 179771,
       "word": "俩男一女拉扯这45秒好刺激",
       "onboard_time": 1754890281,
       "rank": 29,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 165991,
+      "num": 165991,
+      "word": "林俊杰张艺兴双厨欢喜",
+      "onboard_time": 1755008247,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 165740,
@@ -4697,6 +4785,14 @@
       "onboard_time": 1754969782,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164995,
+      "num": 164995,
+      "word": "麦当劳奶昔",
+      "onboard_time": 1755006207,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 164710,
@@ -5051,6 +5147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 156149,
+      "num": 200459,
+      "word": "郑某峰涉嫌猥亵儿童已被批捕待起诉",
+      "onboard_time": 1755007286,
+      "rank": 19,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 156096,
       "num": 156096,
       "word": "董宇辉走后东方甄选股价暴涨229%",
@@ -5195,14 +5299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152279,
-      "num": 152279,
-      "word": "麦当劳奶昔",
-      "onboard_time": 1755006207,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 152184,
       "num": 152184,
       "word": "女大学生在景区疑被男子捅伤致死",
@@ -5304,6 +5400,14 @@
       "word": "男子疑将660万彩票丢进洗衣机",
       "onboard_time": 1754836523,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149897,
+      "num": 282296,
+      "word": "律师谈杀害女生男子有精神疾病史",
+      "onboard_time": 1755008247,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5513,6 +5617,14 @@
       "onboard_time": 1754904743,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146820,
+      "num": 146820,
+      "word": "孙颖莎登机差点迟到",
+      "onboard_time": 1755008308,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 146638,
@@ -6291,6 +6403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133024,
+      "num": 133024,
+      "word": "男子因女友穿裙子出门对其殴打强奸",
+      "onboard_time": 1755008846,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132914,
       "num": 132914,
       "word": "43岁香港男星杨尚斌去世",
@@ -6329,6 +6449,14 @@
       "onboard_time": 1754905644,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132441,
+      "num": 132441,
+      "word": "韩安冉计划生七个孩子",
+      "onboard_time": 1755008846,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 132437,
@@ -6867,19 +6995,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124322,
-      "num": 124322,
-      "word": "当地回应景区行凶嫌犯有精神疾病史",
-      "onboard_time": 1755006627,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124111,
       "num": 124111,
       "word": "群殴在澳留学生肇事者已被全部抓获",
       "onboard_time": 1754786060,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123964,
+      "num": 123964,
+      "word": "百果园水果贵了16%",
+      "onboard_time": 1755007286,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -6889,6 +7017,14 @@
       "onboard_time": 1754995043,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123575,
+      "num": 123575,
+      "word": "顾客自带8200元茅台被餐厅调包",
+      "onboard_time": 1755008846,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123507,
@@ -9377,6 +9513,14 @@
       "onboard_time": 1754753783,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61493,
+      "num": 203847,
+      "word": "肖战旷野松弛感谁懂",
+      "onboard_time": 1755007465,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 61269,
