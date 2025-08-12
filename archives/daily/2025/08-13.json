@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755038627960,
+  "endTime": 1755041151175,
   "band_list": [
     {
       "raw_hot": 2756344,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1297966,
-      "num": 1297966,
+      "raw_hot": 1334731,
+      "num": 1334731,
       "word": "维达",
       "onboard_time": 1755013284,
       "rank": 0,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 593140,
-      "num": 375520,
+      "num": 586957,
       "word": "中方决定不同捷克总统进行任何交往",
       "onboard_time": 1755012204,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 567481,
+      "num": 217509,
+      "word": "66岁男子与情人发生关系后猝死",
+      "onboard_time": 1755008665,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 555524,
@@ -59,19 +67,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 466349,
-      "num": 466349,
+      "raw_hot": 474651,
+      "num": 474651,
       "word": "男子因女友穿裙子出门对其殴打强奸",
       "onboard_time": 1755008846,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 430863,
-      "num": 205647,
-      "word": "66岁男子与情人发生关系后猝死",
-      "onboard_time": 1755008665,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -107,12 +107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256000,
-      "num": 256000,
+      "raw_hot": 261968,
+      "num": 261968,
       "word": "郭麒麟为拍戏拒绝接班德云社",
       "onboard_time": 1755008966,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230171,
+      "num": 230171,
+      "word": "三亚7199元一晚的酒店虫子成群",
+      "onboard_time": 1755009506,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227588,
@@ -121,14 +129,6 @@
       "onboard_time": 1755005308,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227256,
-      "num": 227256,
-      "word": "三亚7199元一晚的酒店虫子成群",
-      "onboard_time": 1755009506,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223828,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217145,
+      "num": 217145,
+      "word": "韩国前第一夫人被拘押",
+      "onboard_time": 1755011965,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199917,
       "num": 147344,
       "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
@@ -161,6 +169,30 @@
       "onboard_time": 1755011003,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197513,
+      "num": 218645,
+      "word": "郑某峰涉嫌猥亵儿童已被批捕待起诉",
+      "onboard_time": 1755007286,
+      "rank": 8,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 177114,
+      "num": 177114,
+      "word": "第一次见到这么漂亮的三层房车",
+      "onboard_time": 1755017840,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 174066,
+      "num": 174066,
+      "word": "顾客自带8200元茅台被餐厅调包",
+      "onboard_time": 1755008846,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169848,
@@ -187,20 +219,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149139,
+      "num": 149139,
+      "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
+      "onboard_time": 1755000083,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140240,
-      "num": 90493,
+      "num": 109193,
       "word": "杨洋这两年有意淡出观众视野",
       "onboard_time": 1755017599,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133382,
-      "num": 133382,
-      "word": "韩国前第一夫人被拘押",
-      "onboard_time": 1755011965,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 129072,
@@ -211,12 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126898,
-      "num": 118433,
-      "word": "第一次见到这么漂亮的三层房车",
-      "onboard_time": 1755017840,
-      "rank": 41,
-      "category": "休闲"
+      "raw_hot": 124818,
+      "num": 114771,
+      "word": "又一抗癌博主去世年仅32岁",
+      "onboard_time": 1755038296,
+      "rank": 48,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 123205,
@@ -243,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117678,
+      "num": 106040,
+      "word": "赵露思称原本有个工作是跟CardiB录歌",
+      "onboard_time": 1755040760,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117354,
       "num": 117354,
       "word": "IVE预告烧千纸鹤争议",
@@ -259,11 +299,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 113657,
+      "num": 217855,
+      "word": "警方再通报宝妈遛娃遭多人配合偷手机",
+      "onboard_time": 1755020657,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112561,
       "num": 112561,
       "word": "不是谁弱谁苦谁闹谁拍谁就有理",
       "onboard_time": 1755011243,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111423,
+      "num": 111423,
+      "word": "女子剖腹产3天晒陪护全睡着",
+      "onboard_time": 1755001824,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -273,14 +329,6 @@
       "onboard_time": 1755008846,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 107459,
-      "num": 107459,
-      "word": "顾客自带8200元茅台被餐厅调包",
-      "onboard_time": 1755008846,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105595,
@@ -299,19 +347,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96453,
+      "num": 96453,
+      "word": "中方回应特朗普让中国增加大豆订单",
+      "onboard_time": 1755009685,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95638,
       "num": 95638,
       "word": "33岁女老师二胎难产去世",
       "onboard_time": 1754973864,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93850,
-      "num": 93850,
-      "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
-      "onboard_time": 1755000083,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -337,6 +385,14 @@
       "onboard_time": 1755016821,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87322,
+      "num": 87322,
+      "word": "中国游客讲述在巴西深夜乘大巴被劫",
+      "onboard_time": 1755023295,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84715,
@@ -403,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73441,
+      "num": 73441,
+      "word": "卫健委回应湖北一地二孩最高补贴28万",
+      "onboard_time": 1755035235,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71440,
       "num": 79598,
       "word": "凡人修仙传第二季",
@@ -411,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70970,
-      "num": 94608,
-      "word": "中方回应特朗普让中国增加大豆订单",
-      "onboard_time": 1755009685,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 71232,
+      "num": 71232,
+      "word": "包文婧称做医美因对自己不自信",
+      "onboard_time": 1755040700,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 69959,
@@ -427,44 +491,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63174,
-      "num": 63174,
-      "word": "女子剖腹产3天晒陪护全睡着",
-      "onboard_time": 1755001824,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60170,
-      "num": 60170,
-      "word": "警方再通报宝妈遛娃遭多人配合偷手机",
-      "onboard_time": 1755020657,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51733,
-      "num": 507094,
+      "raw_hot": 53538,
+      "num": 527860,
       "word": "个人单笔5万元以下消费可享贴息",
       "onboard_time": 1754988143,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 48846,
-      "num": 48846,
-      "word": "卫健委回应湖北一地二孩最高补贴28万",
-      "onboard_time": 1755035235,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46932,
-      "num": 46932,
+      "raw_hot": 53332,
+      "num": 68050,
       "word": "受害人回应在地铁口遭陌生男子强吻",
       "onboard_time": 1755018498,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52062,
+      "num": 68036,
+      "word": "田曦薇魔童降世",
+      "onboard_time": 1755040760,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 47856,
+      "num": 68034,
+      "word": "食脑虫在我国哪些水域有分布",
+      "onboard_time": 1755030974,
+      "rank": 48,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 47579,
+      "num": 68014,
+      "word": "黄子韬转让1公司50%股权",
+      "onboard_time": 1755036194,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 46629,
@@ -475,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46567,
-      "num": 46567,
-      "word": "中国游客讲述在巴西深夜乘大巴被劫",
-      "onboard_time": 1755023295,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 45938,
+      "num": 67992,
+      "word": "撒贝宁和谢娜何止是熟",
+      "onboard_time": 1755026175,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 45796,
@@ -491,36 +555,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 42972,
+      "num": 67914,
+      "word": "实探8岁走失男童涉事夏令营",
+      "onboard_time": 1755029054,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35231,
       "num": 39334,
       "word": "假如各专业都有自己的学士服",
       "onboard_time": 1755020478,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 31873,
-      "num": 46399,
-      "word": "食脑虫在我国哪些水域有分布",
-      "onboard_time": 1755030974,
-      "rank": 48,
-      "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 28057,
-      "num": 46340,
-      "word": "黄子韬转让1公司50%股权",
-      "onboard_time": 1755036194,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 26292,
-      "num": 46316,
-      "word": "实探8岁走失男童涉事夏令营",
-      "onboard_time": 1755029054,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25277,
@@ -539,28 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23730,
-      "num": 46252,
-      "word": "撒贝宁和谢娜何止是熟",
-      "onboard_time": 1755026175,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 22198,
       "num": 35245,
       "word": "刘耀文对接三问时代峰峻",
       "onboard_time": 1755010586,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21250,
-      "num": 46240,
-      "word": "又一抗癌博主去世年仅32岁",
-      "onboard_time": 1755038296,
-      "rank": 48,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 19591,
