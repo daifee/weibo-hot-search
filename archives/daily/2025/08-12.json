@@ -1,7 +1,15 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754976410314,
+  "endTime": 1754977452283,
   "band_list": [
+    {
+      "raw_hot": 2086194,
+      "num": 401424,
+      "word": "33岁女老师二胎难产去世",
+      "onboard_time": 1754973864,
+      "rank": 17,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1811709,
       "num": 1811709,
@@ -9,14 +17,6 @@
       "onboard_time": 1754958862,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1672276,
-      "num": 371883,
-      "word": "33岁女老师二胎难产去世",
-      "onboard_time": 1754973864,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1574519,
@@ -171,6 +171,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 569885,
+      "num": 569885,
+      "word": "田曦薇虞书欣 女明星之间的友情",
+      "onboard_time": 1754974584,
+      "rank": 15,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 567760,
       "num": 567760,
       "word": "不上班后才看清的真实现状",
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471636,
+      "num": 394680,
+      "word": "怀孕后才知道妈妈漏尿多年",
+      "onboard_time": 1754973203,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467769,
       "num": 467769,
       "word": "台风杨柳预计明日登陆我国",
@@ -267,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 442639,
-      "num": 370368,
-      "word": "怀孕后才知道妈妈漏尿多年",
-      "onboard_time": 1754973203,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 426048,
+      "num": 554972,
+      "word": "小米门锁误识外卖员人脸开锁成功",
+      "onboard_time": 1754971463,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 423935,
@@ -283,20 +299,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 394654,
-      "num": 554972,
-      "word": "小米门锁误识外卖员人脸开锁成功",
-      "onboard_time": 1754971463,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 393741,
       "num": 332910,
       "word": "霉霉新专辑TS12",
       "onboard_time": 1754971162,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 378344,
+      "num": 378344,
+      "word": "iPhone17Pro长得像充电宝",
+      "onboard_time": 1754972784,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 362764,
@@ -307,20 +323,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 354293,
+      "num": 354293,
+      "word": "打水仗感染食脑虫男童去世",
+      "onboard_time": 1754973144,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332646,
       "num": 332646,
       "word": "爱马仕继承人150亿美元股票不翼而飞",
       "onboard_time": 1754968882,
       "rank": 42,
       "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 328651,
-      "num": 328651,
-      "word": "田曦薇虞书欣 女明星之间的友情",
-      "onboard_time": 1754974584,
-      "rank": 15,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 327288,
@@ -347,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308125,
-      "num": 308125,
-      "word": "打水仗感染食脑虫男童去世",
-      "onboard_time": 1754973144,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307021,
       "num": 307021,
       "word": "王一博和嬛嬛都是标准发缝发量优秀",
@@ -376,6 +384,22 @@
       "word": "赵露思说当初签银河酷娱是不想红",
       "onboard_time": 1754924305,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284734,
+      "num": 422519,
+      "word": "王楚钦9冠孙颖莎12冠",
+      "onboard_time": 1754971102,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278974,
+      "num": 278974,
+      "word": "李乃文和老婆牵手外出",
+      "onboard_time": 1754976982,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -411,14 +435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 248862,
-      "num": 403019,
-      "word": "王楚钦9冠孙颖莎12冠",
-      "onboard_time": 1754971102,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 238883,
       "num": 280946,
       "word": "张艺凡刚出新手村就遇顶级魅魔",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 226545,
-      "num": 204552,
+      "num": 209540,
       "word": "他两第一部仙侠剧就遇上了横店大雪",
       "onboard_time": 1754974524,
       "rank": 20,
@@ -481,14 +497,6 @@
       "onboard_time": 1754968942,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214074,
-      "num": 214074,
-      "word": "iPhone17Pro长得像充电宝",
-      "onboard_time": 1754972784,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 214016,
@@ -563,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195721,
+      "num": 195721,
+      "word": "成都偶遇赵露思魏笑买果汁",
+      "onboard_time": 1754975663,
+      "rank": 22,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 195425,
       "num": 195425,
       "word": "展轩 天空给山装了电风扇",
@@ -625,14 +641,6 @@
       "onboard_time": 1754973442,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185759,
-      "num": 185759,
-      "word": "成都偶遇赵露思魏笑买果汁",
-      "onboard_time": 1754975663,
-      "rank": 22,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 184501,
@@ -707,6 +715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172044,
+      "num": 172044,
+      "word": "刘宇宁没想到身高能这么用",
+      "onboard_time": 1754974343,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171758,
       "num": 171758,
       "word": "世运会",
@@ -745,14 +761,6 @@
       "onboard_time": 1754969782,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164055,
-      "num": 164055,
-      "word": "刘宇宁没想到身高能这么用",
-      "onboard_time": 1754974343,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 160901,
@@ -883,6 +891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 148019,
+      "num": 148019,
+      "word": "00后做二次元手工高中时赚了上万",
+      "onboard_time": 1754977283,
+      "rank": 32,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 146415,
       "num": 159294,
       "word": "虎扑女神大赛投票",
@@ -892,11 +908,19 @@
     },
     {
       "raw_hot": 144644,
-      "num": 144644,
+      "num": 411784,
       "word": "特朗普称俄乌都必须让出领土",
       "onboard_time": 1754966180,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142514,
+      "num": 142514,
+      "word": "成都AG回归KPL六周年",
+      "onboard_time": 1754977104,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 142403,
@@ -923,12 +947,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141313,
+      "num": 141313,
+      "word": "扎克伯格砸超1亿美元买下整条街",
+      "onboard_time": 1754976622,
+      "rank": 34,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 140803,
       "num": 140803,
       "word": "调整对原产于美国进口商品加征关税措施",
       "onboard_time": 1754959883,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140788,
+      "num": 140788,
+      "word": "印度男子将亡妻绑摩托上被拦截",
+      "onboard_time": 1754977104,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137794,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1754972062,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118951,
+      "num": 130790,
+      "word": "翁虹25年后再扮猫妖",
+      "onboard_time": 1754976144,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 115229,
@@ -1435,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79821,
-      "num": 130790,
-      "word": "翁虹25年后再扮猫妖",
-      "onboard_time": 1754976144,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78680,
       "num": 162872,
       "word": "仅17岁的董事长任职未满一年",
@@ -1515,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58262,
+      "num": 140787,
+      "word": "上海警方通报外卖员摸前台女孩脸",
+      "onboard_time": 1754977283,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 57962,
       "num": 57962,
       "word": "喻言草原藏服大片",
@@ -1548,10 +1596,26 @@
     },
     {
       "raw_hot": 41850,
-      "num": 130561,
+      "num": 140759,
       "word": "范现国称暴利不是商业文明",
       "onboard_time": 1754974884,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41190,
+      "num": 337583,
+      "word": "鹤岗一高档小区售价近百万",
+      "onboard_time": 1754976741,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40473,
+      "num": 140772,
+      "word": "大妈逆行被绊倒身亡家属索赔顺行者",
+      "onboard_time": 1754977342,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1603,12 +1667,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25708,
+      "num": 173314,
+      "word": "弱势群体花上千块雇保镖壮胆",
+      "onboard_time": 1754976683,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21113,
       "num": 21113,
       "word": "王楚钦祝贺张本智和",
       "onboard_time": 1754938574,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17591,
+      "num": 336976,
+      "word": "张艺兴说约定是写给EXO的",
+      "onboard_time": 1754976803,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 16536,
