@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754965544332,
+  "endTime": 1754969077758,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -121,6 +121,14 @@
       "onboard_time": 1754810061,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1517924,
+      "num": 1517924,
+      "word": "赵露思根本没有开通朋友圈",
+      "onboard_time": 1754966242,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1501087,
@@ -305,6 +313,14 @@
       "onboard_time": 1754909783,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1130663,
+      "num": 793124,
+      "word": "尼坤胖成黄磊了",
+      "onboard_time": 1754965820,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1109692,
@@ -755,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642554,
+      "num": 642554,
+      "word": "外卖员接神秘猪脚饭订单果断举报",
+      "onboard_time": 1754963660,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 640214,
       "num": 640214,
       "word": "37岁游客为救溺水一家三口牺牲",
@@ -1027,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499421,
+      "num": 363328,
+      "word": "徐冬冬尹子维定居杭州",
+      "onboard_time": 1754967441,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496718,
       "num": 496718,
       "word": "37岁发现自己断崖式衰老了",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1754913023,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463433,
+      "num": 463433,
+      "word": "台风杨柳预计明日登陆我国",
+      "onboard_time": 1754964621,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 460580,
@@ -1715,6 +1755,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 307021,
+      "num": 307021,
+      "word": "王一博和嬛嬛都是标准发缝发量优秀",
+      "onboard_time": 1754964502,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306316,
       "num": 306316,
       "word": "王楚钦孙颖莎领衔冲冠",
@@ -1769,14 +1817,6 @@
       "onboard_time": 1754876181,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298041,
-      "num": 298041,
-      "word": "外卖员接神秘猪脚饭订单果断举报",
-      "onboard_time": 1754963660,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297463,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1754801661,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266566,
+      "num": 266566,
+      "word": "婚内强奸案今日开庭",
+      "onboard_time": 1754966542,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262084,
@@ -2369,6 +2417,14 @@
       "onboard_time": 1754885483,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213870,
+      "num": 213870,
+      "word": "因涉嫌猥亵儿童被同监室男子打断肋骨",
+      "onboard_time": 1754968401,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213779,
@@ -2939,6 +2995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188651,
+      "num": 188651,
+      "word": "鉴别天然矿泉水要看清成分表",
+      "onboard_time": 1754966481,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188544,
       "num": 188544,
       "word": "卖地摊火锅32元一斤猪肉保证久煮不老",
@@ -3184,14 +3248,6 @@
       "word": "带你看清武大图书馆事件每个细节",
       "onboard_time": 1754882362,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177066,
-      "num": 447205,
-      "word": "台风杨柳预计明日登陆我国",
-      "onboard_time": 1754964621,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3627,6 +3683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159820,
+      "num": 159820,
+      "word": "日本麦当劳店员让老人滚出去",
+      "onboard_time": 1754966481,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 159719,
       "num": 159719,
       "word": "时代少年团cha了粟米摇",
@@ -3689,6 +3753,14 @@
       "onboard_time": 1754800882,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157727,
+      "num": 157727,
+      "word": "逆水寒",
+      "onboard_time": 1754837965,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 157328,
@@ -3801,14 +3873,6 @@
       "onboard_time": 1754887583,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154049,
-      "num": 154049,
-      "word": "逆水寒",
-      "onboard_time": 1754837965,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 153985,
@@ -3945,6 +4009,14 @@
       "onboard_time": 1754962341,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149544,
+      "num": 159670,
+      "word": "大冰和丁真好温暖的2分53秒",
+      "onboard_time": 1754968102,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 149480,
@@ -4091,6 +4163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146415,
+      "num": 159294,
+      "word": "虎扑女神大赛投票",
+      "onboard_time": 1754966000,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145801,
       "num": 145801,
       "word": "感统失调",
@@ -4145,6 +4225,14 @@
       "onboard_time": 1754888183,
       "rank": 41,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 144644,
+      "num": 144644,
+      "word": "特朗普称俄乌都必须让出领土",
+      "onboard_time": 1754966180,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144439,
@@ -4491,6 +4579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135855,
+      "num": 135855,
+      "word": "邹阳当爸爸了",
+      "onboard_time": 1754968461,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135328,
       "num": 135328,
       "word": "横滨赛男单四强国乒仅剩王楚钦",
@@ -4835,6 +4931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129814,
+      "num": 158653,
+      "word": "电影731揭开活体实验真相",
+      "onboard_time": 1754968161,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129643,
       "num": 129643,
       "word": "严浩翔向Vansdaddy道歉",
@@ -5155,20 +5259,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121686,
-      "num": 121686,
-      "word": "王一博和嬛嬛都是标准发缝发量优秀",
-      "onboard_time": 1754964502,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121558,
       "num": 127230,
       "word": "这是唯一生活在中国的大象种类",
       "onboard_time": 1754961921,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121483,
+      "num": 121483,
+      "word": "民警从淤泥里拔出一个大爷",
+      "onboard_time": 1754966781,
+      "rank": 35,
+      "category": "正能量"
     },
     {
       "raw_hot": 121295,
@@ -5195,12 +5299,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120752,
+      "num": 120752,
+      "word": "美国蒙大拿州机场2架飞机相撞",
+      "onboard_time": 1754968702,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120711,
       "num": 257966,
       "word": "小鹏汽车被曝私自使用车主5000积分",
       "onboard_time": 1754791040,
       "rank": 29,
       "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 120375,
+      "num": 120375,
+      "word": "爱马仕继承人150亿美元股票不翼而飞",
+      "onboard_time": 1754968882,
+      "rank": 42,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 120231,
@@ -5265,6 +5385,14 @@
       "onboard_time": 1754798662,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119422,
+      "num": 119422,
+      "word": "发现朋友圈没有了生活痕迹",
+      "onboard_time": 1754968942,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 119275,
@@ -5827,6 +5955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110071,
+      "num": 120778,
+      "word": "范现国称高端矿泉水不应超2元",
+      "onboard_time": 1754967680,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110065,
       "num": 110065,
       "word": "女孩街头遭男子殴打警方称系父女",
@@ -5841,6 +5977,14 @@
       "onboard_time": 1754895922,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109991,
+      "num": 109991,
+      "word": "沈梦辰成功追星王力宏",
+      "onboard_time": 1754968882,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 109975,
@@ -5947,6 +6091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108881,
+      "num": 120950,
+      "word": "中科院博士青岛崂山开民宿年入400万",
+      "onboard_time": 1754969001,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108851,
       "num": 108851,
       "word": "黄金创3个月最大跌幅",
@@ -5969,6 +6121,14 @@
       "onboard_time": 1754790561,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108716,
+      "num": 108716,
+      "word": "沈阳19岁男子驾车撞人被刑拘",
+      "onboard_time": 1754965642,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108474,
@@ -6867,6 +7027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80026,
+      "num": 218582,
+      "word": "苍山失联男孩夏令营清空社交账号",
+      "onboard_time": 1754968340,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79926,
       "num": 85307,
       "word": "权志龙 再吵我可要下班了",
@@ -7187,6 +7355,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 56362,
+      "num": 121275,
+      "word": "狗狗陪睡同岗不同酬",
+      "onboard_time": 1754968582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56225,
       "num": 56225,
       "word": "宋亚轩十分像从前",
@@ -7249,6 +7425,14 @@
       "onboard_time": 1754799621,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 51445,
+      "num": 121321,
+      "word": "婚内强奸案事发时正处离婚冷静期",
+      "onboard_time": 1754968582,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51066,
@@ -7545,6 +7729,14 @@
       "onboard_time": 1754806100,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36602,
+      "num": 157854,
+      "word": "被王浩文拐走15年男孩回家了",
+      "onboard_time": 1754967680,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36545,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754969077758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1517924,
+        "num": 1517924,
+        "word": "赵露思根本没有开通朋友圈",
+        "onboard_time": 1754966242,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1100731,
+        "num": 1100731,
+        "word": "iPhone17Pro最新外观曝光",
+        "onboard_time": 1754958862,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 51353,
+        "num": 853714,
+        "word": "网警双管齐下治理直播乱象",
+        "onboard_time": 1754955500,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1130663,
+        "num": 793124,
+        "word": "尼坤胖成黄磊了",
+        "onboard_time": 1754965820,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720709,
+        "num": 720709,
+        "word": "C罗向乔治娜求婚成功",
+        "onboard_time": 1754954660,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642554,
+        "num": 642554,
+        "word": "外卖员接神秘猪脚饭订单果断举报",
+        "onboard_time": 1754963660,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473725,
+        "num": 473725,
+        "word": "中美再次暂停实施24%关税90天",
+        "onboard_time": 1754957781,
+        "rank": 6,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 463433,
+        "num": 463433,
+        "word": "台风杨柳预计明日登陆我国",
+        "onboard_time": 1754964621,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383660,
+        "num": 383660,
+        "word": "泰国发现一女尸被锁链锁住脖子",
+        "onboard_time": 1754922385,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307000,
+        "num": 366852,
+        "word": "沈玉琳确诊白血病后再发文",
+        "onboard_time": 1754963841,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639751,
+        "num": 364684,
+        "word": "鸡蛋事件男子同意和妻子离婚",
+        "onboard_time": 1754961382,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499421,
+        "num": 363328,
+        "word": "徐冬冬尹子维定居杭州",
+        "onboard_time": 1754967441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361624,
+        "num": 361624,
+        "word": "沈阳警方通报车辆撞人事件",
+        "onboard_time": 1754959281,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 329402,
+        "num": 329402,
+        "word": "台7岁女童火化前舌头咽喉不见了",
+        "onboard_time": 1754926522,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311857,
+        "num": 311857,
+        "word": "张小婉称家中蟑螂疑是快递运来",
+        "onboard_time": 1754959400,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307021,
+        "num": 307021,
+        "word": "王一博和嬛嬛都是标准发缝发量优秀",
+        "onboard_time": 1754964502,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266566,
+        "num": 266566,
+        "word": "婚内强奸案今日开庭",
+        "onboard_time": 1754966542,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254800,
+        "num": 254800,
+        "word": "丈夫生下私生女妻子告重婚罪被驳回",
+        "onboard_time": 1754922925,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183200,
+        "num": 225559,
+        "word": "那年徐志胜还没贴假发片",
+        "onboard_time": 1754962820,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80026,
+        "num": 218582,
+        "word": "苍山失联男孩夏令营清空社交账号",
+        "onboard_time": 1754968340,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217084,
+        "num": 217084,
+        "word": "25岁确诊抑郁症的睡前躯体化",
+        "onboard_time": 1754954358,
+        "rank": 20,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 213870,
+        "num": 213870,
+        "word": "因涉嫌猥亵儿童被同监室男子打断肋骨",
+        "onboard_time": 1754968401,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208711,
+        "num": 208711,
+        "word": "女子让螳螂吃掉颈后肉瘊子",
+        "onboard_time": 1754951775,
+        "rank": 22,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 188651,
+        "num": 188651,
+        "word": "鉴别天然矿泉水要看清成分表",
+        "onboard_time": 1754966481,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179327,
+        "num": 179327,
+        "word": "网红万洁曝育儿嫂凌晨粗暴翻身婴儿",
+        "onboard_time": 1754929461,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159820,
+        "num": 159820,
+        "word": "日本麦当劳店员让老人滚出去",
+        "onboard_time": 1754966481,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149544,
+        "num": 159670,
+        "word": "大冰和丁真好温暖的2分53秒",
+        "onboard_time": 1754968102,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146415,
+        "num": 159294,
+        "word": "虎扑女神大赛投票",
+        "onboard_time": 1754966000,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129814,
+        "num": 158653,
+        "word": "电影731揭开活体实验真相",
+        "onboard_time": 1754968161,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36602,
+        "num": 157854,
+        "word": "被王浩文拐走15年男孩回家了",
+        "onboard_time": 1754967680,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157727,
+        "num": 157727,
+        "word": "逆水寒",
+        "onboard_time": 1754968281,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144644,
+        "num": 144644,
+        "word": "特朗普称俄乌都必须让出领土",
+        "onboard_time": 1754966180,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136387,
+        "num": 136387,
+        "word": "特朗普宣布首都进入紧急状态",
+        "onboard_time": 1754925564,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135855,
+        "num": 135855,
+        "word": "邹阳当爸爸了",
+        "onboard_time": 1754968461,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121800,
+        "num": 121800,
+        "word": "AirPods将迎实时翻译功能",
+        "onboard_time": 1754964081,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121483,
+        "num": 121483,
+        "word": "民警从淤泥里拔出一个大爷",
+        "onboard_time": 1754966781,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 51445,
+        "num": 121321,
+        "word": "婚内强奸案事发时正处离婚冷静期",
+        "onboard_time": 1754968582,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56362,
+        "num": 121275,
+        "word": "狗狗陪睡同岗不同酬",
+        "onboard_time": 1754968582,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108881,
+        "num": 120950,
+        "word": "中科院博士青岛崂山开民宿年入400万",
+        "onboard_time": 1754969001,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110071,
+        "num": 120778,
+        "word": "范现国称高端矿泉水不应超2元",
+        "onboard_time": 1754967680,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120752,
+        "num": 120752,
+        "word": "美国蒙大拿州机场2架飞机相撞",
+        "onboard_time": 1754968702,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120376,
+        "num": 120376,
+        "word": "没认识我媳妇前她生活深不可测",
+        "onboard_time": 1754957842,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120375,
+        "num": 120375,
+        "word": "爱马仕继承人150亿美元股票不翼而飞",
+        "onboard_time": 1754968882,
+        "rank": 42,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 119422,
+        "num": 119422,
+        "word": "发现朋友圈没有了生活痕迹",
+        "onboard_time": 1754968942,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109991,
+        "num": 109991,
+        "word": "沈梦辰成功追星王力宏",
+        "onboard_time": 1754968882,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108716,
+        "num": 108716,
+        "word": "沈阳19岁男子驾车撞人被刑拘",
+        "onboard_time": 1754965642,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108604,
+        "num": 108604,
+        "word": "中美斯德哥尔摩经贸会谈联合声明",
+        "onboard_time": 1754957722,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108398,
+        "num": 108398,
+        "word": "王楚钦霸气歪嘴",
+        "onboard_time": 1754958441,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104259,
+        "num": 104259,
+        "word": "张艺凡刚出新手村就遇顶级魅魔",
+        "onboard_time": 1754953097,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100816,
+        "num": 100816,
+        "word": "菲方不要挑战中方的坚定决心",
+        "onboard_time": 1754917885,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}
