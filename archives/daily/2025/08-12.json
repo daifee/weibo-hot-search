@@ -1,10 +1,10 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754994630021,
+  "endTime": 1754995627129,
   "band_list": [
     {
-      "raw_hot": 3820104,
-      "num": 3820104,
+      "raw_hot": 9908269,
+      "num": 9908269,
       "word": "19岁女大学生景区内遭捅多刀身亡",
       "onboard_time": 1754992222,
       "rank": 0,
@@ -120,6 +120,14 @@
       "word": "赵露思直播喊话银河酷娱",
       "onboard_time": 1754923885,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1145830,
+      "num": 509768,
+      "word": "杨洋 不喜欢我我就少出现",
+      "onboard_time": 1754993182,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -265,14 +273,6 @@
       "onboard_time": 1754990243,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 758343,
-      "num": 509768,
-      "word": "杨洋 不喜欢我我就少出现",
-      "onboard_time": 1754993182,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 722881,
@@ -547,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 406959,
+      "num": 431869,
+      "word": "警方通报南昌景区伤人事件",
+      "onboard_time": 1754993662,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 393741,
       "num": 332910,
       "word": "霉霉新专辑TS12",
@@ -569,6 +577,14 @@
       "onboard_time": 1754983822,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388265,
+      "num": 402644,
+      "word": "南昌景区持剪刀伤人男子被刑拘",
+      "onboard_time": 1754994143,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362764,
@@ -675,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 306788,
+      "num": 306788,
+      "word": "林俊杰官宣音乐节",
+      "onboard_time": 1754994323,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 293739,
       "num": 293739,
       "word": "25岁确诊抑郁症的睡前躯体化",
@@ -763,6 +787,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 263167,
+      "num": 263167,
+      "word": "张晚意录完花少晒黑了好几个度",
+      "onboard_time": 1754991562,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255215,
       "num": 255215,
       "word": "王楚钦vs张本智和",
@@ -787,20 +819,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241775,
+      "num": 241775,
+      "word": "家长网上发视频质疑校服质量被拘留",
+      "onboard_time": 1754994623,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238883,
       "num": 280946,
       "word": "张艺凡刚出新手村就遇顶级魅魔",
       "onboard_time": 1754953097,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 235392,
-      "num": 431869,
-      "word": "警方通报南昌景区伤人事件",
-      "onboard_time": 1754993662,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 234985,
@@ -841,14 +873,6 @@
       "onboard_time": 1754912186,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226303,
-      "num": 226303,
-      "word": "张晚意录完花少晒黑了好几个度",
-      "onboard_time": 1754991562,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 224739,
@@ -931,28 +955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207846,
-      "num": 207846,
-      "word": "林俊杰官宣音乐节",
-      "onboard_time": 1754994323,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 206678,
       "num": 206678,
       "word": "周涛我不想努力了",
       "onboard_time": 1754971882,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204864,
-      "num": 204864,
-      "word": "南昌景区持剪刀伤人男子被刑拘",
-      "onboard_time": 1754994143,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202533,
@@ -1067,6 +1075,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189381,
+      "num": 189381,
+      "word": "周也刘亦菲幻视段誉王语嫣",
+      "onboard_time": 1754994682,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189212,
+      "num": 189212,
+      "word": "王楚钦说一天打三场真受不了",
+      "onboard_time": 1754993601,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189139,
       "num": 189139,
       "word": "王楚钦霸气歪嘴",
@@ -1155,6 +1179,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 184512,
+      "num": 184512,
+      "word": "上海机场取消进航站楼人身行李安检",
+      "onboard_time": 1754994982,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184501,
       "num": 184501,
       "word": "沈梦辰成功追星王力宏",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1754913023,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180568,
+      "num": 189275,
+      "word": "警方通报19岁女生景区遭杀害",
+      "onboard_time": 1754995403,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 179535,
@@ -1411,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157375,
+      "num": 157375,
+      "word": "国乒最新16人参赛名单",
+      "onboard_time": 1754995043,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157076,
       "num": 157076,
       "word": "ZB1将延长活动不解散",
@@ -1539,14 +1587,6 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 147226,
-      "num": 147226,
-      "word": "王楚钦说一天打三场真受不了",
-      "onboard_time": 1754993601,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146983,
       "num": 146983,
       "word": "被同事宠坏了怎么办",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1754966000,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146216,
+      "num": 146216,
+      "word": "康师傅上半年少卖了11个亿",
+      "onboard_time": 1754995282,
+      "rank": 39,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 145696,
@@ -1635,12 +1683,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140164,
+      "num": 140164,
+      "word": "流水的娱乐圈 铁打的杨幂",
+      "onboard_time": 1754994923,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140040,
       "num": 140040,
       "word": "全红婵晒了好多合照",
       "onboard_time": 1754991803,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139685,
+      "num": 139685,
+      "word": "维吾尔族人结婚竟然要2个月",
+      "onboard_time": 1754994143,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138162,
@@ -1883,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123746,
+      "num": 123746,
+      "word": "给老公做一根20年的香肠",
+      "onboard_time": 1754995043,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123269,
       "num": 133420,
       "word": "狗狗陪睡同岗不同酬",
@@ -2099,12 +2171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110100,
-      "num": 110100,
-      "word": "维吾尔族人结婚竟然要2个月",
-      "onboard_time": 1754994143,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 110348,
+      "num": 141254,
+      "word": "高志凯对印媒狂夸印度",
+      "onboard_time": 1754994323,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110071,
@@ -2499,14 +2571,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 74291,
-      "num": 141254,
-      "word": "高志凯对印媒狂夸印度",
-      "onboard_time": 1754994323,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74218,
       "num": 74218,
       "word": "温哥华超市偶遇王祖贤",
@@ -2521,6 +2585,22 @@
       "onboard_time": 1754917643,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71085,
+      "num": 249315,
+      "word": "8岁男童在大理苍山走失已3天",
+      "onboard_time": 1754994682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69246,
+      "num": 140261,
+      "word": "打工人的夜生活从按下开机键开始",
+      "onboard_time": 1754992762,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 68747,
@@ -2619,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54252,
+      "num": 270778,
+      "word": "京东震骨补贴",
+      "onboard_time": 1754994082,
+      "rank": 18,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 49269,
       "num": 337232,
       "word": "婚内强奸案性行为同意成争议焦点",
@@ -2651,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39963,
+      "num": 186219,
+      "word": "吉林一地免费老年卡限时乘公交",
+      "onboard_time": 1754994682,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38192,
       "num": 143881,
       "word": "印度 抵制美货",
@@ -2659,20 +2755,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37066,
-      "num": 270778,
-      "word": "京东震骨补贴",
-      "onboard_time": 1754994082,
-      "rank": 18,
-      "category": "财经,汽车"
-    },
-    {
       "raw_hot": 36602,
       "num": 157854,
       "word": "被王浩文拐走15年男孩回家了",
       "onboard_time": 1754967680,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35622,
+      "num": 518956,
+      "word": "一起相约成都世运会",
+      "onboard_time": 1754993483,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 35531,
@@ -2705,14 +2801,6 @@
       "onboard_time": 1754937015,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30754,
-      "num": 518956,
-      "word": "一起相约成都世运会",
-      "onboard_time": 1754993483,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 30197,
@@ -2793,6 +2881,14 @@
       "onboard_time": 1754943194,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10261,
+      "num": 147258,
+      "word": "很多人是接不住真诚这种频率的",
+      "onboard_time": 1754995524,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 6596,

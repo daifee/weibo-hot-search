@@ -1,0 +1,410 @@
+{
+  "runTime": 1754995627129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9908269,
+        "num": 9908269,
+        "word": "19岁女大学生景区内遭捅多刀身亡",
+        "onboard_time": 1754992222,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406959,
+        "num": 406959,
+        "word": "警方通报南昌景区伤人事件",
+        "onboard_time": 1754993662,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 35622,
+        "num": 406014,
+        "word": "一起相约成都世运会",
+        "onboard_time": 1754993483,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1145830,
+        "num": 405139,
+        "word": "杨洋 不喜欢我我就少出现",
+        "onboard_time": 1754993182,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 753064,
+        "num": 404409,
+        "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
+        "onboard_time": 1754987182,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388265,
+        "num": 402644,
+        "word": "南昌景区持剪刀伤人男子被刑拘",
+        "onboard_time": 1754994143,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949241,
+        "num": 402246,
+        "word": "婚内强奸案 性同意",
+        "onboard_time": 1754985863,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439490,
+        "num": 401004,
+        "word": "当地回应女大学生景区疑被男子捅死",
+        "onboard_time": 1754992582,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407816,
+        "num": 399486,
+        "word": "管乐 抱歉让大家看到杂乱的屋子",
+        "onboard_time": 1754986762,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398859,
+        "num": 398859,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484676,
+        "num": 385676,
+        "word": "生理性喜欢是一件很可怕的事",
+        "onboard_time": 1754992703,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405447,
+        "num": 379622,
+        "word": "敖瑞鹏p掉了鼻毛",
+        "onboard_time": 1754989943,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366235,
+        "num": 366235,
+        "word": "李承铉给张远道歉",
+        "onboard_time": 1754990663,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311983,
+        "num": 311983,
+        "word": "南昌八大山人",
+        "onboard_time": 1754992103,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306788,
+        "num": 306788,
+        "word": "林俊杰官宣音乐节",
+        "onboard_time": 1754994323,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278204,
+        "num": 278204,
+        "word": "白鹿瘦成啥样了",
+        "onboard_time": 1754980823,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273737,
+        "num": 273737,
+        "word": "婚后出轨生子不等于重婚罪",
+        "onboard_time": 1754977761,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263167,
+        "num": 263167,
+        "word": "张晚意录完花少晒黑了好几个度",
+        "onboard_time": 1754991562,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54252,
+        "num": 254746,
+        "word": "京东震骨补贴",
+        "onboard_time": 1754994082,
+        "rank": 18,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 71085,
+        "num": 249315,
+        "word": "8岁男童在大理苍山走失已3天",
+        "onboard_time": 1754994682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266597,
+        "num": 249037,
+        "word": "浪浪山宣发 傅首尔",
+        "onboard_time": 1754984902,
+        "rank": 20,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 248607,
+        "num": 248607,
+        "word": "凡人修仙传第二季",
+        "onboard_time": 1754989581,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241775,
+        "num": 241775,
+        "word": "家长网上发视频质疑校服质量被拘留",
+        "onboard_time": 1754994623,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240132,
+        "num": 240132,
+        "word": "康师傅方便面上半年少卖3.5亿",
+        "onboard_time": 1754990602,
+        "rank": 23,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 229631,
+        "num": 229631,
+        "word": "iPhone17Pro长得像充电宝",
+        "onboard_time": 1754972784,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207932,
+        "num": 207932,
+        "word": "李乃文老婆",
+        "onboard_time": 1754981122,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189381,
+        "num": 189381,
+        "word": "周也刘亦菲幻视段誉王语嫣",
+        "onboard_time": 1754994682,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180568,
+        "num": 189275,
+        "word": "警方通报19岁女生景区遭杀害",
+        "onboard_time": 1754995403,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 189212,
+        "num": 189212,
+        "word": "王楚钦说一天打三场真受不了",
+        "onboard_time": 1754993601,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39963,
+        "num": 186219,
+        "word": "吉林一地免费老年卡限时乘公交",
+        "onboard_time": 1754994682,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184512,
+        "num": 184512,
+        "word": "上海机场取消进航站楼人身行李安检",
+        "onboard_time": 1754994982,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184109,
+        "num": 184109,
+        "word": "女子带四个娃坐高铁被要求补3张票",
+        "onboard_time": 1754983342,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173733,
+        "num": 173733,
+        "word": "33岁女老师二胎难产去世",
+        "onboard_time": 1754973864,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168455,
+        "num": 168455,
+        "word": "女子上迪如厕排队超时崩溃大哭",
+        "onboard_time": 1754985801,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166757,
+        "num": 166757,
+        "word": "认不出蔡康永了",
+        "onboard_time": 1754993542,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157545,
+        "num": 157545,
+        "word": "北京暴雨",
+        "onboard_time": 1754985022,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157375,
+        "num": 157375,
+        "word": "国乒最新16人参赛名单",
+        "onboard_time": 1754995043,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148336,
+        "num": 148336,
+        "word": "利剑玫瑰删减剧情炸裂",
+        "onboard_time": 1754986281,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10261,
+        "num": 147258,
+        "word": "很多人是接不住真诚这种频率的",
+        "onboard_time": 1754995524,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146216,
+        "num": 146216,
+        "word": "康师傅上半年少卖了11个亿",
+        "onboard_time": 1754995282,
+        "rank": 39,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 140729,
+        "num": 140729,
+        "word": "张康乐别看晋江了",
+        "onboard_time": 1754989462,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69246,
+        "num": 140261,
+        "word": "打工人的夜生活从按下开机键开始",
+        "onboard_time": 1754992762,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140164,
+        "num": 140164,
+        "word": "流水的娱乐圈 铁打的杨幂",
+        "onboard_time": 1754994923,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139685,
+        "num": 139685,
+        "word": "维吾尔族人结婚竟然要2个月",
+        "onboard_time": 1754994143,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138520,
+        "num": 138520,
+        "word": "马柏全肌肉",
+        "onboard_time": 1754993483,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135309,
+        "num": 135309,
+        "word": "倪妮欣赏樊振东",
+        "onboard_time": 1754992283,
+        "rank": 45,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 128139,
+        "num": 128139,
+        "word": "失踪男孩夏令营内均为自闭症儿童",
+        "onboard_time": 1754991142,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124996,
+        "num": 124996,
+        "word": "歪嘴战神",
+        "onboard_time": 1754991442,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110348,
+        "num": 124010,
+        "word": "高志凯对印媒狂夸印度",
+        "onboard_time": 1754994323,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123746,
+        "num": 123746,
+        "word": "给老公做一根20年的香肠",
+        "onboard_time": 1754995043,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉通电话#"
+    }
+  }
+}

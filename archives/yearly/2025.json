@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1754994630021,
+  "endTime": 1754995627129,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1753840103,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9908269,
+      "num": 9908269,
+      "word": "19岁女大学生景区内遭捅多刀身亡",
+      "onboard_time": 1754992222,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9884168,
@@ -2392,14 +2400,6 @@
       "word": "星星疑被剃去头发腿上有红斑",
       "onboard_time": 1736237304,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3968193,
-      "num": 3968193,
-      "word": "杨少华去世",
-      "onboard_time": 1752055762,
-      "rank": 0,
       "category": "艺人"
     }
   ],
