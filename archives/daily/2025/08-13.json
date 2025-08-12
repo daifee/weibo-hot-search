@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755037561448,
+  "endTime": 1755038627960,
   "band_list": [
     {
       "raw_hot": 2756344,
@@ -211,6 +211,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126898,
+      "num": 118433,
+      "word": "第一次见到这么漂亮的三层房车",
+      "onboard_time": 1755017840,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 123205,
+      "num": 123205,
+      "word": "孙怡离婚后去再见爱人不敢说话",
+      "onboard_time": 1755004525,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122637,
       "num": 122637,
       "word": "全英语交流无非就这500句",
@@ -273,14 +289,6 @@
       "onboard_time": 1755007886,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101422,
-      "num": 101422,
-      "word": "孙怡离婚后去再见爱人不敢说话",
-      "onboard_time": 1755004525,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 98774,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76691,
-      "num": 76691,
-      "word": "第一次见到这么漂亮的三层房车",
-      "onboard_time": 1755017840,
-      "rank": 41,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 75522,
       "num": 79602,
       "word": "快递费要涨了",
@@ -435,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60170,
+      "num": 60170,
+      "word": "警方再通报宝妈遛娃遭多人配合偷手机",
+      "onboard_time": 1755020657,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51733,
       "num": 507094,
       "word": "个人单笔5万元以下消费可享贴息",
       "onboard_time": 1754988143,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48846,
+      "num": 48846,
+      "word": "卫健委回应湖北一地二孩最高补贴28万",
+      "onboard_time": 1755035235,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46932,
@@ -459,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46499,
-      "num": 46499,
-      "word": "警方再通报宝妈遛娃遭多人配合偷手机",
-      "onboard_time": 1755020657,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 46567,
+      "num": 46567,
+      "word": "中国游客讲述在巴西深夜乘大巴被劫",
+      "onboard_time": 1755023295,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 45796,
@@ -475,14 +491,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 38493,
-      "num": 38493,
-      "word": "中国游客讲述在巴西深夜乘大巴被劫",
-      "onboard_time": 1755023295,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 35231,
       "num": 39334,
       "word": "假如各专业都有自己的学士服",
@@ -491,11 +499,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 32171,
-      "num": 32171,
-      "word": "卫健委回应湖北一地二孩最高补贴28万",
-      "onboard_time": 1755035235,
-      "rank": 27,
+      "raw_hot": 31873,
+      "num": 46399,
+      "word": "食脑虫在我国哪些水域有分布",
+      "onboard_time": 1755030974,
+      "rank": 48,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 28057,
+      "num": 46340,
+      "word": "黄子韬转让1公司50%股权",
+      "onboard_time": 1755036194,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26292,
+      "num": 46316,
+      "word": "实探8岁走失男童涉事夏令营",
+      "onboard_time": 1755029054,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -515,28 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24401,
-      "num": 29974,
-      "word": "食脑虫在我国哪些水域有分布",
-      "onboard_time": 1755030974,
-      "rank": 48,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 23730,
-      "num": 23567,
+      "num": 46252,
       "word": "撒贝宁和谢娜何止是熟",
       "onboard_time": 1755026175,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23484,
-      "num": 29925,
-      "word": "实探8岁走失男童涉事夏令营",
-      "onboard_time": 1755029054,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22198,
@@ -547,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20364,
-      "num": 29856,
-      "word": "黄子韬转让1公司50%股权",
-      "onboard_time": 1755036194,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 21250,
+      "num": 46240,
+      "word": "又一抗癌博主去世年仅32岁",
+      "onboard_time": 1755038296,
+      "rank": 48,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 19591,
