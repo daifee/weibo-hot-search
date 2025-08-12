@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755041151175,
+  "endTime": 1755042041447,
   "band_list": [
     {
       "raw_hot": 2756344,
@@ -35,19 +35,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 593140,
-      "num": 586957,
+      "raw_hot": 737359,
+      "num": 737359,
       "word": "中方决定不同捷克总统进行任何交往",
       "onboard_time": 1755012204,
       "rank": 12,
       "category": "国际时政"
     },
     {
-      "raw_hot": 567481,
-      "num": 217509,
+      "raw_hot": 652637,
+      "num": 238144,
       "word": "66岁男子与情人发生关系后猝死",
       "onboard_time": 1755008665,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 556402,
+      "num": 556402,
+      "word": "男子因女友穿裙子出门对其殴打强奸",
+      "onboard_time": 1755008846,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -67,20 +75,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 474651,
-      "num": 474651,
-      "word": "男子因女友穿裙子出门对其殴打强奸",
-      "onboard_time": 1755008846,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 335191,
       "num": 335191,
       "word": "19岁佟某某代表不了00后",
       "onboard_time": 1755012924,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314631,
+      "num": 236341,
+      "word": "赵露思称原本有个工作是跟CardiB录歌",
+      "onboard_time": 1755040760,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 290133,
+      "num": 290133,
+      "word": "郭麒麟为拍戏拒绝接班德云社",
+      "onboard_time": 1755008966,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 274504,
@@ -107,20 +123,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261968,
-      "num": 261968,
-      "word": "郭麒麟为拍戏拒绝接班德云社",
-      "onboard_time": 1755008966,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 258245,
+      "num": 258245,
+      "word": "韩国前第一夫人被拘押",
+      "onboard_time": 1755011965,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 230171,
-      "num": 230171,
+      "raw_hot": 246760,
+      "num": 246760,
       "word": "三亚7199元一晚的酒店虫子成群",
       "onboard_time": 1755009506,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244484,
+      "num": 244484,
+      "word": "郑某峰涉嫌猥亵儿童已被批捕待起诉",
+      "onboard_time": 1755007286,
+      "rank": 8,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 227588,
@@ -147,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217145,
-      "num": 217145,
-      "word": "韩国前第一夫人被拘押",
-      "onboard_time": 1755011965,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 199917,
       "num": 147344,
       "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
@@ -171,28 +187,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197513,
-      "num": 218645,
-      "word": "郑某峰涉嫌猥亵儿童已被批捕待起诉",
-      "onboard_time": 1755007286,
-      "rank": 8,
-      "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 177114,
-      "num": 177114,
-      "word": "第一次见到这么漂亮的三层房车",
-      "onboard_time": 1755017840,
-      "rank": 41,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 174066,
-      "num": 174066,
+      "raw_hot": 190125,
+      "num": 190125,
       "word": "顾客自带8200元茅台被餐厅调包",
       "onboard_time": 1755008846,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177687,
+      "num": 177687,
+      "word": "第一次见到这么漂亮的三层房车",
+      "onboard_time": 1755017840,
+      "rank": 41,
+      "category": "休闲"
     },
     {
       "raw_hot": 169848,
@@ -201,6 +209,22 @@
       "onboard_time": 1755001284,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157860,
+      "num": 157860,
+      "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
+      "onboard_time": 1755000083,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152074,
+      "num": 152074,
+      "word": "又一抗癌博主去世年仅32岁",
+      "onboard_time": 1755038296,
+      "rank": 48,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 150112,
@@ -219,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149139,
-      "num": 149139,
-      "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
-      "onboard_time": 1755000083,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140240,
       "num": 109193,
       "word": "杨洋这两年有意淡出观众视野",
@@ -235,27 +251,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137127,
+      "num": 153497,
+      "word": "孙怡离婚后去再见爱人不敢说话",
+      "onboard_time": 1755004525,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131252,
+      "num": 217855,
+      "word": "警方再通报宝妈遛娃遭多人配合偷手机",
+      "onboard_time": 1755020657,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129687,
+      "num": 129687,
+      "word": "缺觉的人全身炎症水平会升高",
+      "onboard_time": 1755016821,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 129072,
       "num": 147396,
       "word": "马思纯找张若昀王安宇算是找对人了",
       "onboard_time": 1755013764,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 124818,
-      "num": 114771,
-      "word": "又一抗癌博主去世年仅32岁",
-      "onboard_time": 1755038296,
-      "rank": 48,
-      "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 123205,
-      "num": 123205,
-      "word": "孙怡离婚后去再见爱人不敢说话",
-      "onboard_time": 1755004525,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -275,12 +299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117678,
-      "num": 106040,
-      "word": "赵露思称原本有个工作是跟CardiB录歌",
-      "onboard_time": 1755040760,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 118118,
+      "num": 118118,
+      "word": "女子剖腹产3天晒陪护全睡着",
+      "onboard_time": 1755001824,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117354,
@@ -299,14 +323,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 113657,
-      "num": 217855,
-      "word": "警方再通报宝妈遛娃遭多人配合偷手机",
-      "onboard_time": 1755020657,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112561,
       "num": 112561,
       "word": "不是谁弱谁苦谁闹谁拍谁就有理",
@@ -315,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111423,
-      "num": 111423,
-      "word": "女子剖腹产3天晒陪护全睡着",
-      "onboard_time": 1755001824,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 110438,
+      "num": 110438,
+      "word": "田曦薇魔童降世",
+      "onboard_time": 1755040760,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 107960,
@@ -339,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102983,
+      "num": 102983,
+      "word": "中方回应特朗普让中国增加大豆订单",
+      "onboard_time": 1755009685,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98774,
       "num": 98774,
       "word": "遇害女生家长求助",
@@ -347,20 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96453,
-      "num": 96453,
-      "word": "中方回应特朗普让中国增加大豆订单",
-      "onboard_time": 1755009685,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 95638,
       "num": 95638,
       "word": "33岁女老师二胎难产去世",
       "onboard_time": 1754973864,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92781,
+      "num": 92781,
+      "word": "包文婧称做医美因对自己不自信",
+      "onboard_time": 1755040700,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 92426,
@@ -377,14 +401,6 @@
       "onboard_time": 1755022276,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89391,
-      "num": 89391,
-      "word": "缺觉的人全身炎症水平会升高",
-      "onboard_time": 1755016821,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 87322,
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78693,
+      "num": 238548,
+      "word": "卫健委回应湖北一地二孩最高补贴28万",
+      "onboard_time": 1755035235,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75522,
       "num": 79602,
       "word": "快递费要涨了",
@@ -459,28 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73441,
-      "num": 73441,
-      "word": "卫健委回应湖北一地二孩最高补贴28万",
-      "onboard_time": 1755035235,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71440,
       "num": 79598,
       "word": "凡人修仙传第二季",
       "onboard_time": 1754989581,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71232,
-      "num": 71232,
-      "word": "包文婧称做医美因对自己不自信",
-      "onboard_time": 1755040700,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 69959,
@@ -491,12 +499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53538,
-      "num": 527860,
+      "raw_hot": 57177,
+      "num": 557666,
       "word": "个人单笔5万元以下消费可享贴息",
       "onboard_time": 1754988143,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55800,
+      "num": 55800,
+      "word": "当地回应先进事迹写炒菜多放辣椒",
+      "onboard_time": 1755041780,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53332,
@@ -507,15 +523,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52062,
-      "num": 68036,
-      "word": "田曦薇魔童降世",
-      "onboard_time": 1755040760,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 47856,
+      "raw_hot": 52465,
       "num": 68034,
       "word": "食脑虫在我国哪些水域有分布",
       "onboard_time": 1755030974,
@@ -523,7 +531,15 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 47579,
+      "raw_hot": 52331,
+      "num": 67914,
+      "word": "实探8岁走失男童涉事夏令营",
+      "onboard_time": 1755029054,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51492,
       "num": 68014,
       "word": "黄子韬转让1公司50%股权",
       "onboard_time": 1755036194,
@@ -531,20 +547,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46629,
-      "num": 79597,
-      "word": "樊振东巴黎四分之一决赛含金量还在上升",
-      "onboard_time": 1755002185,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 45938,
+      "raw_hot": 48617,
       "num": 67992,
       "word": "撒贝宁和谢娜何止是熟",
       "onboard_time": 1755026175,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48582,
+      "num": 48582,
+      "word": "遇害女大学生当日与朋友去景区游玩",
+      "onboard_time": 1755041719,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47869,
+      "num": 79597,
+      "word": "樊振东巴黎四分之一决赛含金量还在上升",
+      "onboard_time": 1755002185,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 45796,
@@ -553,14 +577,6 @@
       "onboard_time": 1755006207,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 42972,
-      "num": 67914,
-      "word": "实探8岁走失男童涉事夏令营",
-      "onboard_time": 1755029054,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35231,

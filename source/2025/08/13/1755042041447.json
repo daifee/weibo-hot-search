@@ -1,0 +1,410 @@
+{
+  "runTime": 1755042041447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1239229,
+        "num": 1239229,
+        "word": "维达",
+        "onboard_time": 1755013284,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 737359,
+        "num": 737359,
+        "word": "中方决定不同捷克总统进行任何交往",
+        "onboard_time": 1755012204,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57177,
+        "num": 557666,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 556402,
+        "num": 556402,
+        "word": "男子因女友穿裙子出门对其殴打强奸",
+        "onboard_time": 1755008846,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490394,
+        "num": 490394,
+        "word": "吃鸡蛋事件 剧本",
+        "onboard_time": 1755006866,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290133,
+        "num": 290133,
+        "word": "郭麒麟为拍戏拒绝接班德云社",
+        "onboard_time": 1755008966,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258245,
+        "num": 258245,
+        "word": "韩国前第一夫人被拘押",
+        "onboard_time": 1755011965,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246760,
+        "num": 246760,
+        "word": "三亚7199元一晚的酒店虫子成群",
+        "onboard_time": 1755009506,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244484,
+        "num": 244484,
+        "word": "郑某峰涉嫌猥亵儿童已被批捕待起诉",
+        "onboard_time": 1755007286,
+        "rank": 8,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 78693,
+        "num": 238548,
+        "word": "卫健委回应湖北一地二孩最高补贴28万",
+        "onboard_time": 1755035235,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652637,
+        "num": 238144,
+        "word": "66岁男子与情人发生关系后猝死",
+        "onboard_time": 1755008665,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314631,
+        "num": 236341,
+        "word": "赵露思称原本有个工作是跟CardiB录歌",
+        "onboard_time": 1755040760,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233830,
+        "num": 233830,
+        "word": "19岁佟某某代表不了00后",
+        "onboard_time": 1755012924,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190125,
+        "num": 190125,
+        "word": "顾客自带8200元茅台被餐厅调包",
+        "onboard_time": 1755008846,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177687,
+        "num": 177687,
+        "word": "第一次见到这么漂亮的三层房车",
+        "onboard_time": 1755017840,
+        "rank": 14,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 157860,
+        "num": 157860,
+        "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
+        "onboard_time": 1755000083,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154358,
+        "num": 154358,
+        "word": "花少7这是香妃扎堆了",
+        "onboard_time": 1755005308,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146137,
+        "num": 154185,
+        "word": "郭德纲力挺郭麒麟接班",
+        "onboard_time": 1755016281,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137127,
+        "num": 153497,
+        "word": "孙怡离婚后去再见爱人不敢说话",
+        "onboard_time": 1755004525,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131157,
+        "num": 152836,
+        "word": "王晶称银河酷娱是一星公司",
+        "onboard_time": 1755001284,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1084295,
+        "num": 152371,
+        "word": "赵露思 之前有个艺人高速倒车",
+        "onboard_time": 1755010045,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152074,
+        "num": 152074,
+        "word": "又一抗癌博主去世年仅32岁",
+        "onboard_time": 1755038296,
+        "rank": 21,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 146893,
+        "num": 146893,
+        "word": "同学称遇害女生本应有美好前程",
+        "onboard_time": 1755014482,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131252,
+        "num": 131252,
+        "word": "警方再通报宝妈遛娃遭多人配合偷手机",
+        "onboard_time": 1755020657,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129687,
+        "num": 129687,
+        "word": "缺觉的人全身炎症水平会升高",
+        "onboard_time": 1755016821,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118118,
+        "num": 118118,
+        "word": "女子剖腹产3天晒陪护全睡着",
+        "onboard_time": 1755001824,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110438,
+        "num": 110438,
+        "word": "田曦薇魔童降世",
+        "onboard_time": 1755040760,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108714,
+        "num": 108714,
+        "word": "不是谁弱谁苦谁闹谁拍谁就有理",
+        "onboard_time": 1755011243,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107411,
+        "num": 107411,
+        "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
+        "onboard_time": 1754987182,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102983,
+        "num": 102983,
+        "word": "中方回应特朗普让中国增加大豆订单",
+        "onboard_time": 1755009685,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92781,
+        "num": 92781,
+        "word": "包文婧称做医美因对自己不自信",
+        "onboard_time": 1755040700,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88773,
+        "num": 88773,
+        "word": "杨洋这两年有意淡出观众视野",
+        "onboard_time": 1755017599,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81845,
+        "num": 81845,
+        "word": "韩安冉计划生七个孩子",
+        "onboard_time": 1755008846,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 79048,
+        "num": 79048,
+        "word": "中国游客讲述在巴西深夜乘大巴被劫",
+        "onboard_time": 1755023295,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73276,
+        "num": 73276,
+        "word": "孙怡不去浪姐的原因",
+        "onboard_time": 1755007524,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64417,
+        "num": 64417,
+        "word": "意识到这些很贵的人都不年轻了",
+        "onboard_time": 1755007886,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82795,
+        "num": 61136,
+        "word": "杨洋 不喜欢我我就少出现",
+        "onboard_time": 1754993182,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55800,
+        "num": 55800,
+        "word": "当地回应先进事迹写炒菜多放辣椒",
+        "onboard_time": 1755041780,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53869,
+        "num": 53869,
+        "word": "利剑玫瑰收视率",
+        "onboard_time": 1755008606,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52465,
+        "num": 52465,
+        "word": "食脑虫在我国哪些水域有分布",
+        "onboard_time": 1755030974,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 52331,
+        "num": 52331,
+        "word": "实探8岁走失男童涉事夏令营",
+        "onboard_time": 1755029054,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51492,
+        "num": 51492,
+        "word": "黄子韬转让1公司50%股权",
+        "onboard_time": 1755036194,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50831,
+        "num": 50831,
+        "word": "微信式恋爱",
+        "onboard_time": 1755011003,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50069,
+        "num": 50069,
+        "word": "受害人回应在地铁口遭陌生男子强吻",
+        "onboard_time": 1755018498,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48617,
+        "num": 48617,
+        "word": "撒贝宁和谢娜何止是熟",
+        "onboard_time": 1755026175,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48582,
+        "num": 48582,
+        "word": "遇害女大学生当日与朋友去景区游玩",
+        "onboard_time": 1755041719,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47869,
+        "num": 47869,
+        "word": "樊振东巴黎四分之一决赛含金量还在上升",
+        "onboard_time": 1755002185,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47826,
+        "num": 47826,
+        "word": "邓紫棋称投资AI公司已赚10倍",
+        "onboard_time": 1755005485,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47012,
+        "num": 47820,
+        "word": "南昌景区持剪刀伤人男子被刑拘",
+        "onboard_time": 1754994143,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36739,
+        "num": 47814,
+        "word": "快递费要涨了",
+        "onboard_time": 1754996665,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树造林改善生态任重而道远#"
+    }
+  }
+}
