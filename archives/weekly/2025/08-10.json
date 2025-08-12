@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754964141741,
+  "endTime": 1754965544332,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -57,6 +57,14 @@
       "onboard_time": 1754834303,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1811709,
+      "num": 1811709,
+      "word": "iPhone17Pro最新外观曝光",
+      "onboard_time": 1754958862,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 1701905,
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1403707,
-      "num": 1403707,
-      "word": "iPhone17Pro最新外观曝光",
-      "onboard_time": 1754958862,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1399825,
       "num": 1399825,
       "word": "日本麦当劳乱象",
@@ -233,6 +233,14 @@
       "onboard_time": 1754792421,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1240728,
+      "num": 1240728,
+      "word": "孙颖莎代言维达",
+      "onboard_time": 1754964861,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1211113,
@@ -313,6 +321,14 @@
       "onboard_time": 1754801961,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1075502,
+      "num": 446536,
+      "word": "鸡蛋事件男子同意和妻子离婚",
+      "onboard_time": 1754961382,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1068856,
@@ -483,14 +499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 805634,
-      "num": 263806,
-      "word": "鸡蛋事件男子同意和妻子离婚",
-      "onboard_time": 1754961382,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 804734,
       "num": 804734,
       "word": "真的建议朋友圈一定要趁早发",
@@ -643,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 722881,
+      "num": 722881,
+      "word": "中美再次暂停实施24%关税90天",
+      "onboard_time": 1754957781,
+      "rank": 4,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 713411,
       "num": 713411,
       "word": "撒贝宁保送北大的真实原因",
@@ -779,14 +795,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 624063,
-      "num": 624063,
-      "word": "中美再次暂停实施24%关税90天",
-      "onboard_time": 1754957781,
-      "rank": 4,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 623301,
       "num": 520972,
       "word": "赵露思说当初签银河酷娱是不想红",
@@ -809,6 +817,14 @@
       "onboard_time": 1754803700,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 595587,
+      "num": 595587,
+      "word": "沈阳警方通报车辆撞人事件",
+      "onboard_time": 1754959281,
+      "rank": 6,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 588047,
@@ -963,16 +979,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 522668,
-      "num": 522668,
-      "word": "沈阳警方通报车辆撞人事件",
-      "onboard_time": 1754959281,
-      "rank": 6,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 518601,
-      "num": 259593,
+      "num": 398545,
       "word": "鸡蛋事件男子发文道歉",
       "onboard_time": 1754960302,
       "rank": 12,
@@ -1203,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 450657,
+      "num": 450657,
+      "word": "赵露思解释绿茶事件",
+      "onboard_time": 1754956700,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448222,
       "num": 927406,
       "word": "枭起青壤",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1754817442,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445726,
+      "num": 445726,
+      "word": "沈玉琳确诊白血病后再发文",
+      "onboard_time": 1754963841,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 445616,
@@ -1361,14 +1385,6 @@
       "onboard_time": 1754892082,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 400552,
-      "num": 400552,
-      "word": "赵露思解释绿茶事件",
-      "onboard_time": 1754956700,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 399228,
@@ -1611,6 +1627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327288,
+      "num": 327288,
+      "word": "赵露思称拍戏遥遥无期",
+      "onboard_time": 1754961322,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326235,
       "num": 326235,
       "word": "AG战胜狼队",
@@ -1747,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298041,
+      "num": 298041,
+      "word": "外卖员接神秘猪脚饭订单果断举报",
+      "onboard_time": 1754963660,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297463,
       "num": 297463,
       "word": "妻子嫂子景德镇批发式购物狂买2000元",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1754796321,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293739,
+      "num": 293739,
+      "word": "25岁确诊抑郁症的睡前躯体化",
+      "onboard_time": 1754954358,
+      "rank": 14,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 293278,
@@ -1793,14 +1833,6 @@
       "onboard_time": 1754782937,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 289359,
-      "num": 254330,
-      "word": "25岁确诊抑郁症的睡前躯体化",
-      "onboard_time": 1754954358,
-      "rank": 14,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 286734,
@@ -2084,7 +2116,7 @@
     },
     {
       "raw_hot": 238883,
-      "num": 238883,
+      "num": 280946,
       "word": "张艺凡刚出新手村就遇顶级魅魔",
       "onboard_time": 1754953097,
       "rank": 24,
@@ -2145,6 +2177,14 @@
       "onboard_time": 1754915482,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231948,
+      "num": 231948,
+      "word": "女子让螳螂吃掉颈后肉瘊子",
+      "onboard_time": 1754951775,
+      "rank": 36,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 231913,
@@ -2329,14 +2369,6 @@
       "onboard_time": 1754885483,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215009,
-      "num": 195383,
-      "word": "女子让螳螂吃掉颈后肉瘊子",
-      "onboard_time": 1754951775,
-      "rank": 36,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 213779,
@@ -2579,14 +2611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200388,
-      "num": 200388,
-      "word": "赵露思称拍戏遥遥无期",
-      "onboard_time": 1754961322,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200316,
       "num": 200316,
       "word": "燥候尚公主",
@@ -2665,6 +2689,14 @@
       "onboard_time": 1754941214,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197662,
+      "num": 269852,
+      "word": "那年徐志胜还没贴假发片",
+      "onboard_time": 1754962820,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 197637,
@@ -3091,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178901,
+      "num": 178901,
+      "word": "8岁儿子遇妈妈生理期误解哭崩了",
+      "onboard_time": 1754965161,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178644,
       "num": 328006,
       "word": "女孩30秒海姆立克救回被卡女子",
@@ -3144,6 +3184,14 @@
       "word": "带你看清武大图书馆事件每个细节",
       "onboard_time": 1754882362,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177066,
+      "num": 447205,
+      "word": "台风杨柳预计明日登陆我国",
+      "onboard_time": 1754964621,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3747,14 +3795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154151,
-      "num": 154151,
-      "word": "沈玉琳确诊白血病后再发文",
-      "onboard_time": 1754963841,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154107,
       "num": 154107,
       "word": "A股",
@@ -3899,6 +3939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149660,
+      "num": 149660,
+      "word": "景德镇一瓷杯摊位疑被游客踢倒",
+      "onboard_time": 1754962341,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149480,
       "num": 149480,
       "word": "黄金把瑞士坑惨了",
@@ -3953,6 +4001,14 @@
       "onboard_time": 1754924784,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148342,
+      "num": 148342,
+      "word": "AirPods将迎实时翻译功能",
+      "onboard_time": 1754964081,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 148286,
@@ -4203,14 +4259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141400,
-      "num": 141400,
-      "word": "那年徐志胜还没贴假发片",
-      "onboard_time": 1754962820,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141172,
       "num": 141172,
       "word": "余承恩你不乘哦",
@@ -4433,6 +4481,14 @@
       "onboard_time": 1754920283,
       "rank": 44,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 135873,
+      "num": 135873,
+      "word": "微博奇迹之夜 投票",
+      "onboard_time": 1754965101,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 135328,
@@ -4899,14 +4955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127539,
-      "num": 127539,
-      "word": "景德镇一瓷杯摊位疑被游客踢倒",
-      "onboard_time": 1754962341,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127388,
       "num": 127388,
       "word": "曹曦文女儿12岁近照",
@@ -4920,14 +4968,6 @@
       "word": "婚内强奸案男方家属跪求女方谅解",
       "onboard_time": 1754921364,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127161,
-      "num": 127161,
-      "word": "外卖员接神秘猪脚饭订单果断举报",
-      "onboard_time": 1754963660,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -4969,6 +5009,14 @@
       "onboard_time": 1754905403,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126212,
+      "num": 126212,
+      "word": "关税",
+      "onboard_time": 1754961861,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126199,
@@ -5105,6 +5153,14 @@
       "onboard_time": 1754839462,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121686,
+      "num": 121686,
+      "word": "王一博和嬛嬛都是标准发缝发量优秀",
+      "onboard_time": 1754964502,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121558,
@@ -5667,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111706,
+      "num": 111706,
+      "word": "C罗订婚戒指超百万美元",
+      "onboard_time": 1754965281,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111531,
       "num": 111531,
       "word": "龚俊演我看帅哥秀腹肌",
@@ -5761,6 +5825,14 @@
       "onboard_time": 1754833043,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110065,
+      "num": 110065,
+      "word": "女孩街头遭男子殴打警方称系父女",
+      "onboard_time": 1754962279,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110054,
@@ -5873,6 +5945,14 @@
       "onboard_time": 1754815522,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108851,
+      "num": 108851,
+      "word": "黄金创3个月最大跌幅",
+      "onboard_time": 1754960961,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 108795,
@@ -6219,14 +6299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101494,
-      "num": 101494,
-      "word": "黄金创3个月最大跌幅",
-      "onboard_time": 1754960961,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 101214,
       "num": 101214,
       "word": "聋猫突然看到人的反应",
@@ -6323,6 +6395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98867,
+      "num": 98867,
+      "word": "第14个世界大象日",
+      "onboard_time": 1754965101,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98667,
       "num": 98667,
       "word": "爸爸印的名片再也没发出去过",
@@ -6355,6 +6435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97677,
+      "num": 97677,
+      "word": "恋与深空逐浪心动",
+      "onboard_time": 1754963722,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97515,
       "num": 97515,
       "word": "养了4年的仓鼠每天还坚持跑步",
@@ -6369,14 +6457,6 @@
       "onboard_time": 1754751804,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 96771,
-      "num": 96771,
-      "word": "AirPods将迎实时翻译功能",
-      "onboard_time": 1754964081,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 96664,
@@ -7075,6 +7155,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 58910,
+      "num": 1252014,
+      "word": "网警双管齐下治理直播乱象",
+      "onboard_time": 1754955500,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57962,
       "num": 57962,
       "word": "喻言草原藏服大片",
@@ -7123,6 +7211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54550,
+      "num": 148437,
+      "word": "刘晓庆人生观",
+      "onboard_time": 1754965161,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53661,
       "num": 105796,
       "word": "沈腾没去披哥去乘风破浪了",
@@ -7153,14 +7249,6 @@
       "onboard_time": 1754799621,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 51629,
-      "num": 910147,
-      "word": "网警双管齐下治理直播乱象",
-      "onboard_time": 1754955500,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51066,
