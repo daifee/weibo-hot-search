@@ -1,7 +1,15 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754991859646,
+  "endTime": 1754994630021,
   "band_list": [
+    {
+      "raw_hot": 3820104,
+      "num": 3820104,
+      "word": "19岁女大学生景区内遭捅多刀身亡",
+      "onboard_time": 1754992222,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2086194,
       "num": 515720,
@@ -81,6 +89,14 @@
       "onboard_time": 1754971762,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1276274,
+      "num": 1153528,
+      "word": "婚内强奸案 性同意",
+      "onboard_time": 1754985863,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1249962,
@@ -195,14 +211,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 959554,
-      "num": 1153528,
-      "word": "婚内强奸案 性同意",
-      "onboard_time": 1754985863,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 956075,
       "num": 803468,
       "word": "泰国发现一女尸被锁链锁住脖子",
@@ -257,6 +265,14 @@
       "onboard_time": 1754990243,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 758343,
+      "num": 509768,
+      "word": "杨洋 不喜欢我我就少出现",
+      "onboard_time": 1754993182,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 722881,
@@ -321,6 +337,14 @@
       "onboard_time": 1754970863,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 598152,
+      "num": 430607,
+      "word": "生理性喜欢是一件很可怕的事",
+      "onboard_time": 1754992703,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 595587,
@@ -395,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514831,
+      "num": 429990,
+      "word": "敖瑞鹏p掉了鼻毛",
+      "onboard_time": 1754989943,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510716,
       "num": 290838,
       "word": "很体面但工资不高的工作",
@@ -417,6 +449,22 @@
       "onboard_time": 1754981183,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 494595,
+      "num": 494595,
+      "word": "李承铉给张远道歉",
+      "onboard_time": 1754990663,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 488295,
+      "num": 488295,
+      "word": "当地回应女大学生景区疑被男子捅死",
+      "onboard_time": 1754992582,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 478774,
@@ -475,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 426750,
+      "num": 426750,
+      "word": "南昌八大山人",
+      "onboard_time": 1754992103,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426048,
       "num": 554972,
       "word": "小米门锁误识外卖员人脸开锁成功",
@@ -515,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367614,
-      "num": 347501,
-      "word": "敖瑞鹏p掉了鼻毛",
-      "onboard_time": 1754989943,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362764,
       "num": 362764,
       "word": "苍山失联男孩夏令营清空社交账号",
@@ -531,20 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355327,
+      "num": 355327,
+      "word": "凡人修仙传第二季",
+      "onboard_time": 1754989581,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354293,
       "num": 354293,
       "word": "打水仗感染食脑虫男童去世",
       "onboard_time": 1754973144,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342844,
-      "num": 342844,
-      "word": "李承铉给张远道歉",
-      "onboard_time": 1754990663,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 335269,
@@ -699,6 +747,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265639,
+      "num": 265639,
+      "word": "康师傅方便面上半年少卖3.5亿",
+      "onboard_time": 1754990602,
+      "rank": 42,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 264039,
+      "num": 264039,
+      "word": "倪妮欣赏樊振东",
+      "onboard_time": 1754992283,
+      "rank": 21,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 255215,
       "num": 255215,
       "word": "王楚钦vs张本智和",
@@ -731,20 +795,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235392,
+      "num": 431869,
+      "word": "警方通报南昌景区伤人事件",
+      "onboard_time": 1754993662,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 234985,
       "num": 234985,
       "word": "妇联回应女孩不回家遭父亲当街殴打",
       "onboard_time": 1754978482,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232225,
-      "num": 261801,
-      "word": "凡人修仙传第二季",
-      "onboard_time": 1754989581,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 231948,
@@ -777,6 +841,14 @@
       "onboard_time": 1754912186,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226303,
+      "num": 226303,
+      "word": "张晚意录完花少晒黑了好几个度",
+      "onboard_time": 1754991562,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 224739,
@@ -835,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212026,
+      "num": 212026,
+      "word": "认不出蔡康永了",
+      "onboard_time": 1754993542,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211265,
       "num": 211265,
       "word": "同事称婚内强奸案双方恩爱和睦",
@@ -851,12 +931,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207846,
+      "num": 207846,
+      "word": "林俊杰官宣音乐节",
+      "onboard_time": 1754994323,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206678,
       "num": 206678,
       "word": "周涛我不想努力了",
       "onboard_time": 1754971882,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204864,
+      "num": 204864,
+      "word": "南昌景区持剪刀伤人男子被刑拘",
+      "onboard_time": 1754994143,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202533,
@@ -936,6 +1032,14 @@
       "word": "展轩 天空给山装了电风扇",
       "onboard_time": 1754973504,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193563,
+      "num": 193563,
+      "word": "马柏全肌肉",
+      "onboard_time": 1754993483,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1227,12 +1331,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163088,
-      "num": 163088,
-      "word": "张晚意录完花少晒黑了好几个度",
-      "onboard_time": 1754991562,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 164710,
+      "num": 329854,
+      "word": "失踪男孩夏令营内均为自闭症儿童",
+      "onboard_time": 1754991142,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163864,
+      "num": 141247,
+      "word": "张康乐直播",
+      "onboard_time": 1754993243,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 162894,
@@ -1323,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152184,
+      "num": 152184,
+      "word": "女大学生在景区疑被男子捅伤致死",
+      "onboard_time": 1754992523,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151055,
       "num": 151055,
       "word": "再见爱人",
@@ -1387,14 +1507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149306,
-      "num": 149306,
-      "word": "康师傅方便面上半年少卖3.5亿",
-      "onboard_time": 1754990602,
-      "rank": 42,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 148915,
       "num": 148915,
       "word": "台风",
@@ -1425,6 +1537,14 @@
       "onboard_time": 1754977283,
       "rank": 32,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 147226,
+      "num": 147226,
+      "word": "王楚钦说一天打三场真受不了",
+      "onboard_time": 1754993601,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 146983,
@@ -1635,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132437,
+      "num": 132437,
+      "word": "TVB港剧里的徐冬冬",
+      "onboard_time": 1754993842,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132146,
       "num": 132146,
       "word": "张本智和与父母庆祝夺冠",
@@ -1827,6 +1955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120436,
+      "num": 120436,
+      "word": "RAIN金泰熙互动好甜",
+      "onboard_time": 1754993122,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118951,
       "num": 130790,
       "word": "翁虹25年后再扮猫妖",
@@ -1849,6 +1985,14 @@
       "onboard_time": 1754979561,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117872,
+      "num": 117872,
+      "word": "爸妈感受到了灵珠和魔丸的区别",
+      "onboard_time": 1754993842,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 117214,
@@ -1955,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110100,
+      "num": 110100,
+      "word": "维吾尔族人结婚竟然要2个月",
+      "onboard_time": 1754994143,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110071,
       "num": 137268,
       "word": "范现国称高端矿泉水不应超2元",
@@ -2057,6 +2209,14 @@
       "onboard_time": 1754910807,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102970,
+      "num": 102970,
+      "word": "杨幂生万物魔童降世",
+      "onboard_time": 1754993662,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 102044,
@@ -2339,6 +2499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 74291,
+      "num": 141254,
+      "word": "高志凯对印媒狂夸印度",
+      "onboard_time": 1754994323,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74218,
       "num": 74218,
       "word": "温哥华超市偶遇王祖贤",
@@ -2368,14 +2536,6 @@
       "word": "农村家庭开始正视女儿养老",
       "onboard_time": 1754979684,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63670,
-      "num": 329854,
-      "word": "失踪男孩夏令营内均为自闭症儿童",
-      "onboard_time": 1754991142,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2417,6 +2577,14 @@
       "onboard_time": 1754931080,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57052,
+      "num": 194306,
+      "word": "鸡蛋事件男方同意离婚不要财产",
+      "onboard_time": 1754992883,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57018,
@@ -2483,6 +2651,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38192,
+      "num": 143881,
+      "word": "印度 抵制美货",
+      "onboard_time": 1754993483,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 37066,
+      "num": 270778,
+      "word": "京东震骨补贴",
+      "onboard_time": 1754994082,
+      "rank": 18,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 36602,
       "num": 157854,
       "word": "被王浩文拐走15年男孩回家了",
@@ -2521,6 +2705,14 @@
       "onboard_time": 1754937015,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30754,
+      "num": 518956,
+      "word": "一起相约成都世运会",
+      "onboard_time": 1754993483,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 30197,
