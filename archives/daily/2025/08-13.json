@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755020657908,
+  "endTime": 1755023972028,
   "band_list": [
     {
       "raw_hot": 2756344,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140240,
+      "num": 90493,
+      "word": "杨洋这两年有意淡出观众视野",
+      "onboard_time": 1755017599,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133382,
       "num": 133382,
       "word": "韩国前第一夫人被拘押",
@@ -201,14 +209,6 @@
       "onboard_time": 1755013764,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122871,
-      "num": 90493,
-      "word": "杨洋这两年有意淡出观众视野",
-      "onboard_time": 1755017599,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 122637,
@@ -403,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65858,
+      "num": 65858,
+      "word": "朋友圈全部开放幸福感很高吗",
+      "onboard_time": 1755019817,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 59080,
       "num": 51519,
       "word": "第一次见到这么漂亮的三层房车",
       "onboard_time": 1755017840,
       "rank": 41,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 54853,
+      "num": 54853,
+      "word": "赵露思说现在只想要自由",
+      "onboard_time": 1755022276,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 53218,
@@ -427,14 +443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48088,
-      "num": 48088,
-      "word": "朋友圈全部开放幸福感很高吗",
-      "onboard_time": 1755019817,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 46932,
       "num": 46932,
       "word": "受害人回应在地铁口遭陌生男子强吻",
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46499,
+      "num": 46499,
+      "word": "警方再通报宝妈遛娃遭多人配合偷手机",
+      "onboard_time": 1755020657,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45796,
       "num": 79595,
       "word": "麦当劳奶昔",
@@ -465,6 +481,22 @@
       "onboard_time": 1755020478,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28620,
+      "num": 35262,
+      "word": "中国游客讲述在巴西深夜乘大巴被劫",
+      "onboard_time": 1755023295,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22198,
+      "num": 35245,
+      "word": "刘耀文对接三问时代峰峻",
+      "onboard_time": 1755010586,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
