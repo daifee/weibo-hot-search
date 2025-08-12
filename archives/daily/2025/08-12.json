@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754977452283,
+  "endTime": 1754980807933,
   "band_list": [
     {
       "raw_hot": 2086194,
@@ -27,12 +27,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1400180,
+      "num": 1400180,
+      "word": "婚后出轨生子不等于重婚罪",
+      "onboard_time": 1754977761,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1296218,
       "num": 1296218,
       "word": "C罗向乔治娜求婚成功",
       "onboard_time": 1754954660,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1292540,
+      "num": 1292540,
+      "word": "iPhone17Pro长得像充电宝",
+      "onboard_time": 1754972784,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 1287570,
@@ -83,12 +99,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1003740,
+      "num": 336339,
+      "word": "李乃文和老婆牵手外出",
+      "onboard_time": 1754976982,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 975484,
       "num": 859733,
       "word": "台7岁女童火化前舌头咽喉不见了",
       "onboard_time": 1754926522,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 969295,
+      "num": 969295,
+      "word": "蔡康永怎么老成这样了",
+      "onboard_time": 1754978303,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 960736,
+      "num": 960736,
+      "word": "河北蔚县地震",
+      "onboard_time": 1754979441,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 956075,
@@ -105,6 +145,14 @@
       "onboard_time": 1754959400,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 861329,
+      "num": 861329,
+      "word": "印度男子将亡妻绑摩托上被拦截",
+      "onboard_time": 1754977104,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 821426,
@@ -129,6 +177,14 @@
       "onboard_time": 1754957781,
       "rank": 4,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 722026,
+      "num": 722026,
+      "word": "金饰克价已跌到千元以内",
+      "onboard_time": 1754978244,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 704939,
@@ -307,14 +363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 378344,
-      "num": 378344,
-      "word": "iPhone17Pro长得像充电宝",
-      "onboard_time": 1754972784,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 362764,
       "num": 362764,
       "word": "苍山失联男孩夏令营清空社交账号",
@@ -329,6 +377,14 @@
       "onboard_time": 1754973144,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335269,
+      "num": 335269,
+      "word": "河北蔚县发生3.1级地震",
+      "onboard_time": 1754979801,
+      "rank": 12,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 332646,
@@ -387,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286459,
+      "num": 337785,
+      "word": "疑似印度裔男女在加拿大湖泊里搓澡",
+      "onboard_time": 1754979924,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 284734,
       "num": 422519,
       "word": "王楚钦9冠孙颖莎12冠",
       "onboard_time": 1754971102,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 278974,
-      "num": 278974,
-      "word": "李乃文和老婆牵手外出",
-      "onboard_time": 1754976982,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 275379,
@@ -443,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 234985,
+      "num": 234985,
+      "word": "妇联回应女孩不回家遭父亲当街殴打",
+      "onboard_time": 1754978482,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231948,
       "num": 231948,
       "word": "女子让螳螂吃掉颈后肉瘊子",
@@ -457,6 +521,14 @@
       "onboard_time": 1754969302,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229096,
+      "num": 229096,
+      "word": "王晶谈梅艳芳赵文卓分手原因",
+      "onboard_time": 1754978244,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 226545,
@@ -499,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214033,
+      "num": 214033,
+      "word": "印度男子载亡妻尸体求救无人相助",
+      "onboard_time": 1754978902,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214016,
       "num": 337462,
       "word": "电影731揭开活体实验真相",
@@ -523,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208457,
+      "num": 208457,
+      "word": "生万物业内口碑",
+      "onboard_time": 1754979621,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206678,
       "num": 206678,
       "word": "周涛我不想努力了",
@@ -545,6 +633,14 @@
       "onboard_time": 1754973803,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200457,
+      "num": 200457,
+      "word": "酒店老板回应陪睡狗爆火",
+      "onboard_time": 1754978842,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197776,
@@ -691,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174016,
+      "num": 174016,
+      "word": "上海警方通报外卖员摸前台女孩脸",
+      "onboard_time": 1754977283,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 173903,
       "num": 173903,
       "word": "王赫野实体专辑配置公开",
@@ -731,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171661,
+      "num": 171661,
+      "word": "张萌探班吃了关晓彤彩椒碗",
+      "onboard_time": 1754979323,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171109,
       "num": 290937,
       "word": "特朗普或派兵出国扫毒",
@@ -755,12 +867,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166120,
+      "num": 166120,
+      "word": "花花是等比例长大的吧",
+      "onboard_time": 1754979621,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165082,
       "num": 165082,
       "word": "女子闪婚后一个月遭三次家暴",
       "onboard_time": 1754969782,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163606,
+      "num": 163606,
+      "word": "张本智和透露战胜王楚钦秘诀",
+      "onboard_time": 1754980103,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 160901,
@@ -899,12 +1027,28 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 146936,
+      "num": 146936,
+      "word": "777777靓号携号转网受限",
+      "onboard_time": 1754978543,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146415,
       "num": 159294,
       "word": "虎扑女神大赛投票",
       "onboard_time": 1754966000,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145696,
+      "num": 145696,
+      "word": "露营算是被我玩儿明白了",
+      "onboard_time": 1754980223,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 144644,
@@ -955,6 +1099,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 141291,
+      "num": 337583,
+      "word": "鹤岗一高档小区售价近百万",
+      "onboard_time": 1754976741,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140803,
       "num": 140803,
       "word": "调整对原产于美国进口商品加征关税措施",
@@ -963,20 +1115,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 140788,
-      "num": 140788,
-      "word": "印度男子将亡妻绑摩托上被拦截",
-      "onboard_time": 1754977104,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 137794,
       "num": 137794,
       "word": "恋与深空开门",
       "onboard_time": 1754961081,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137662,
+      "num": 137662,
+      "word": "刘浩存 蛋糕抹手心",
+      "onboard_time": 1754977463,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 137430,
@@ -1041,6 +1193,14 @@
       "onboard_time": 1754969602,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133524,
+      "num": 133524,
+      "word": "你的降临 原创剧本",
+      "onboard_time": 1754980042,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 132146,
@@ -1115,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123649,
+      "num": 123649,
+      "word": "张萌说关晓彤三年前演21三年后演18岁",
+      "onboard_time": 1754980762,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123269,
       "num": 133420,
       "word": "狗狗陪睡同岗不同酬",
@@ -1171,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117214,
+      "num": 117214,
+      "word": "我们的宿舍下期预告",
+      "onboard_time": 1754980283,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115229,
       "num": 115229,
       "word": "老人端面手指浸汤争执后店员持刀",
@@ -1219,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111910,
+      "num": 111910,
+      "word": "九头身裁判跳舞",
+      "onboard_time": 1754980042,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111706,
       "num": 111706,
       "word": "C罗订婚戒指超百万美元",
@@ -1259,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108872,
+      "num": 108872,
+      "word": "鬼鬼生日cos小燕子",
+      "onboard_time": 1754980522,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108851,
       "num": 108851,
       "word": "黄金创3个月最大跌幅",
@@ -1289,6 +1481,14 @@
       "onboard_time": 1754963780,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104727,
+      "num": 121457,
+      "word": "胖东来货车司机休息室曝光",
+      "onboard_time": 1754979561,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104182,
@@ -1411,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92020,
+      "num": 157049,
+      "word": "内娱第一个明星摆摊综艺来了",
+      "onboard_time": 1754979862,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90076,
       "num": 90076,
       "word": "刘轩丞第一个杂志封面",
@@ -1531,6 +1739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 68045,
+      "num": 130111,
+      "word": "农村家庭开始正视女儿养老",
+      "onboard_time": 1754979684,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62948,
       "num": 62948,
       "word": "恋与深空",
@@ -1553,14 +1769,6 @@
       "onboard_time": 1754955500,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58262,
-      "num": 140787,
-      "word": "上海警方通报外卖员摸前台女孩脸",
-      "onboard_time": 1754977283,
-      "rank": 36,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 57962,
@@ -1600,14 +1808,6 @@
       "word": "范现国称暴利不是商业文明",
       "onboard_time": 1754974884,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41190,
-      "num": 337583,
-      "word": "鹤岗一高档小区售价近百万",
-      "onboard_time": 1754976741,
-      "rank": 17,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1754980807933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1400180,
+        "num": 1400180,
+        "word": "婚后出轨生子不等于重婚罪",
+        "onboard_time": 1754977761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1292540,
+        "num": 1292540,
+        "word": "iPhone17Pro长得像充电宝",
+        "onboard_time": 1754972784,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29927,
+        "num": 995213,
+        "word": "网警双管齐下治理直播乱象",
+        "onboard_time": 1754955500,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 969295,
+        "num": 969295,
+        "word": "蔡康永怎么老成这样了",
+        "onboard_time": 1754978303,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 960736,
+        "num": 960736,
+        "word": "河北蔚县地震",
+        "onboard_time": 1754979441,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 861329,
+        "num": 861329,
+        "word": "印度男子将亡妻绑摩托上被拦截",
+        "onboard_time": 1754977104,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 722026,
+        "num": 722026,
+        "word": "金饰克价已跌到千元以内",
+        "onboard_time": 1754978244,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 509799,
+        "num": 509799,
+        "word": "那英 内娱通讯录",
+        "onboard_time": 1754971762,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388782,
+        "num": 388782,
+        "word": "田曦薇虞书欣 女明星之间的友情",
+        "onboard_time": 1754974584,
+        "rank": 8,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 286459,
+        "num": 337785,
+        "word": "疑似印度裔男女在加拿大湖泊里搓澡",
+        "onboard_time": 1754979924,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1322952,
+        "num": 337078,
+        "word": "33岁女老师二胎难产去世",
+        "onboard_time": 1754973864,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1003740,
+        "num": 336339,
+        "word": "李乃文和老婆牵手外出",
+        "onboard_time": 1754976982,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335269,
+        "num": 335269,
+        "word": "河北蔚县发生3.1级地震",
+        "onboard_time": 1754979801,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 276973,
+        "num": 276973,
+        "word": "怀孕后才知道妈妈漏尿多年",
+        "onboard_time": 1754973203,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248505,
+        "num": 248505,
+        "word": "因涉嫌猥亵儿童被同监室男子打断肋骨",
+        "onboard_time": 1754968401,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246172,
+        "num": 246172,
+        "word": "打水仗感染食脑虫男童去世",
+        "onboard_time": 1754973144,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244352,
+        "num": 244352,
+        "word": "尼坤胖成黄磊了",
+        "onboard_time": 1754965820,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234985,
+        "num": 234985,
+        "word": "妇联回应女孩不回家遭父亲当街殴打",
+        "onboard_time": 1754978482,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231204,
+        "num": 231204,
+        "word": "赵露思称公司让按3比7赔钱",
+        "onboard_time": 1754971522,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229096,
+        "num": 229096,
+        "word": "王晶谈梅艳芳赵文卓分手原因",
+        "onboard_time": 1754978244,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214033,
+        "num": 214033,
+        "word": "印度男子载亡妻尸体求救无人相助",
+        "onboard_time": 1754978902,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208457,
+        "num": 208457,
+        "word": "生万物业内口碑",
+        "onboard_time": 1754979621,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200457,
+        "num": 200457,
+        "word": "酒店老板回应陪睡狗爆火",
+        "onboard_time": 1754978842,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183052,
+        "num": 183052,
+        "word": "小米门锁误识外卖员人脸开锁成功",
+        "onboard_time": 1754971463,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174016,
+        "num": 174016,
+        "word": "上海警方通报外卖员摸前台女孩脸",
+        "onboard_time": 1754977283,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 171661,
+        "num": 171661,
+        "word": "张萌探班吃了关晓彤彩椒碗",
+        "onboard_time": 1754979323,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171224,
+        "num": 171224,
+        "word": "C罗向乔治娜求婚成功",
+        "onboard_time": 1754954660,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166120,
+        "num": 166120,
+        "word": "花花是等比例长大的吧",
+        "onboard_time": 1754979621,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163606,
+        "num": 163606,
+        "word": "张本智和透露战胜王楚钦秘诀",
+        "onboard_time": 1754980103,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92020,
+        "num": 157049,
+        "word": "内娱第一个明星摆摊综艺来了",
+        "onboard_time": 1754979862,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154475,
+        "num": 154475,
+        "word": "成都偶遇赵露思魏笑买果汁",
+        "onboard_time": 1754975663,
+        "rank": 30,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 146936,
+        "num": 146936,
+        "word": "777777靓号携号转网受限",
+        "onboard_time": 1754978543,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145696,
+        "num": 145696,
+        "word": "露营算是被我玩儿明白了",
+        "onboard_time": 1754980223,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145209,
+        "num": 145209,
+        "word": "不上班后才看清的真实现状",
+        "onboard_time": 1754970204,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141291,
+        "num": 141291,
+        "word": "鹤岗一高档小区售价近百万",
+        "onboard_time": 1754976741,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137662,
+        "num": 137662,
+        "word": "刘浩存 蛋糕抹手心",
+        "onboard_time": 1754977463,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123988,
+        "num": 135001,
+        "word": "王楚钦9冠孙颖莎12冠",
+        "onboard_time": 1754971102,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133524,
+        "num": 133524,
+        "word": "你的降临 原创剧本",
+        "onboard_time": 1754980042,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68045,
+        "num": 130111,
+        "word": "农村家庭开始正视女儿养老",
+        "onboard_time": 1754979684,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128926,
+        "num": 128926,
+        "word": "iPhone17Pro最新外观曝光",
+        "onboard_time": 1754958862,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128354,
+        "num": 128354,
+        "word": "中国人开始提老祖宗了那你基本完了",
+        "onboard_time": 1754971403,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123649,
+        "num": 123649,
+        "word": "张萌说关晓彤三年前演21三年后演18岁",
+        "onboard_time": 1754980762,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104727,
+        "num": 121457,
+        "word": "胖东来货车司机休息室曝光",
+        "onboard_time": 1754979561,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121427,
+        "num": 121427,
+        "word": "林瀚晚晚婉拒再见爱人",
+        "onboard_time": 1754971882,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118518,
+        "num": 118518,
+        "word": "时代少年团上海场 神图无望",
+        "onboard_time": 1754973562,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117214,
+        "num": 117214,
+        "word": "我们的宿舍下期预告",
+        "onboard_time": 1754980283,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115316,
+        "num": 115316,
+        "word": "刘亦菲也会闯祸",
+        "onboard_time": 1754970863,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111910,
+        "num": 111910,
+        "word": "九头身裁判跳舞",
+        "onboard_time": 1754980042,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109313,
+        "num": 109313,
+        "word": "易烊千玺演唱会 谁抢到了",
+        "onboard_time": 1754969782,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108872,
+        "num": 108872,
+        "word": "鬼鬼生日cos小燕子",
+        "onboard_time": 1754980522,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}
