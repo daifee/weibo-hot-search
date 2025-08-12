@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755019562371,
+  "endTime": 1755020657908,
   "band_list": [
     {
       "raw_hot": 2756344,
@@ -171,20 +171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150112,
+      "num": 144651,
+      "word": "南昌景区持剪刀伤人男子被刑拘",
+      "onboard_time": 1754994143,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149795,
       "num": 149795,
       "word": "利剑玫瑰收视率",
       "onboard_time": 1755008606,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144651,
-      "num": 144651,
-      "word": "南昌景区持剪刀伤人男子被刑拘",
-      "onboard_time": 1754994143,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133382,
@@ -201,6 +201,14 @@
       "onboard_time": 1755013764,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122871,
+      "num": 90493,
+      "word": "杨洋这两年有意淡出观众视野",
+      "onboard_time": 1755017599,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 122637,
@@ -299,14 +307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 89961,
-      "num": 89961,
-      "word": "杨洋这两年有意淡出观众视野",
-      "onboard_time": 1755017599,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89391,
       "num": 89391,
       "word": "缺觉的人全身炎症水平会升高",
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59080,
+      "num": 51519,
+      "word": "第一次见到这么漂亮的三层房车",
+      "onboard_time": 1755017840,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 53218,
       "num": 53218,
       "word": "女子剖腹产3天晒陪护全睡着",
@@ -419,12 +427,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49466,
-      "num": 49466,
-      "word": "第一次见到这么漂亮的三层房车",
-      "onboard_time": 1755017840,
-      "rank": 41,
-      "category": "休闲"
+      "raw_hot": 48088,
+      "num": 48088,
+      "word": "朋友圈全部开放幸福感很高吗",
+      "onboard_time": 1755019817,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 46932,
@@ -449,6 +457,14 @@
       "onboard_time": 1755006207,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 35231,
+      "num": 39334,
+      "word": "假如各专业都有自己的学士服",
+      "onboard_time": 1755020478,
+      "rank": 45,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
