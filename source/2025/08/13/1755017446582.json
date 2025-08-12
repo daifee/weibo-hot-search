@@ -1,0 +1,410 @@
+{
+  "runTime": 1755017446582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219653,
+        "num": 1219653,
+        "word": "维达",
+        "onboard_time": 1755013284,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700097,
+        "num": 700097,
+        "word": "吃鸡蛋事件 剧本",
+        "onboard_time": 1755006866,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49735,
+        "num": 413303,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412397,
+        "num": 412397,
+        "word": "男子因女友穿裙子出门对其殴打强奸",
+        "onboard_time": 1755008846,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331416,
+        "num": 331416,
+        "word": "19岁佟某某代表不了00后",
+        "onboard_time": 1755012924,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245360,
+        "num": 245360,
+        "word": "郭麒麟为拍戏拒绝接班德云社",
+        "onboard_time": 1755008966,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198140,
+        "num": 198140,
+        "word": "花少7这是香妃扎堆了",
+        "onboard_time": 1755005308,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190810,
+        "num": 190810,
+        "word": "当地回应景区行凶嫌犯有精神疾病史",
+        "onboard_time": 1755006627,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186471,
+        "num": 186471,
+        "word": "三亚7199元一晚的酒店虫子成群",
+        "onboard_time": 1755009506,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555524,
+        "num": 185306,
+        "word": "男子强吻陌生女子被鉴定精神病障碍",
+        "onboard_time": 1755012743,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1495980,
+        "num": 183467,
+        "word": "19岁女大学生景区内遭捅多刀身亡",
+        "onboard_time": 1754992222,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516509,
+        "num": 181560,
+        "word": "中方决定不同捷克总统进行任何交往",
+        "onboard_time": 1755012204,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 498224,
+        "num": 178863,
+        "word": "被捅女生朋友发声",
+        "onboard_time": 1755003926,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417602,
+        "num": 174840,
+        "word": "66岁男子与情人发生关系后猝死",
+        "onboard_time": 1755008665,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273645,
+        "num": 172927,
+        "word": "警方通报19岁女生景区遭杀害",
+        "onboard_time": 1754995403,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 171837,
+        "num": 171837,
+        "word": "同学称遇害女生本应有美好前程",
+        "onboard_time": 1755014482,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148028,
+        "num": 148028,
+        "word": "王晶称银河酷娱是一星公司",
+        "onboard_time": 1755001284,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130319,
+        "num": 147659,
+        "word": "利剑玫瑰收视率",
+        "onboard_time": 1755008606,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129072,
+        "num": 147396,
+        "word": "马思纯找张若昀王安宇算是找对人了",
+        "onboard_time": 1755013764,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120076,
+        "num": 146844,
+        "word": "郭德纲力挺郭麒麟接班",
+        "onboard_time": 1755016281,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166569,
+        "num": 146408,
+        "word": "微信式恋爱",
+        "onboard_time": 1755011003,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2525837,
+        "num": 145862,
+        "word": "赵露思 之前有个艺人高速倒车",
+        "onboard_time": 1755010045,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267108,
+        "num": 145712,
+        "word": "杨洋 不喜欢我我就少出现",
+        "onboard_time": 1754993182,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145348,
+        "num": 145348,
+        "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
+        "onboard_time": 1754987182,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134102,
+        "num": 134102,
+        "word": "南昌景区持剪刀伤人男子被刑拘",
+        "onboard_time": 1754994143,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133382,
+        "num": 133382,
+        "word": "韩国前第一夫人被拘押",
+        "onboard_time": 1755011965,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117354,
+        "num": 117354,
+        "word": "IVE预告烧千纸鹤争议",
+        "onboard_time": 1755004946,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116319,
+        "num": 116319,
+        "word": "全英语交流无非就这500句",
+        "onboard_time": 1755008066,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105595,
+        "num": 105595,
+        "word": "意识到这些很贵的人都不年轻了",
+        "onboard_time": 1755007886,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88406,
+        "num": 97638,
+        "word": "孙怡离婚后去再见爱人不敢说话",
+        "onboard_time": 1755004525,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93816,
+        "num": 93816,
+        "word": "顾客自带8200元茅台被餐厅调包",
+        "onboard_time": 1755008846,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93466,
+        "num": 93466,
+        "word": "不是谁弱谁苦谁闹谁拍谁就有理",
+        "onboard_time": 1755011243,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89391,
+        "num": 89391,
+        "word": "缺觉的人全身炎症水平会升高",
+        "onboard_time": 1755016821,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88923,
+        "num": 88923,
+        "word": "遇害女生家长求助",
+        "onboard_time": 1755014242,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88801,
+        "num": 88801,
+        "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
+        "onboard_time": 1755000083,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88086,
+        "num": 88086,
+        "word": "陶白白纹身",
+        "onboard_time": 1755009564,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 68883,
+        "num": 87705,
+        "word": "深圳一公司拿100万鼓励员工减重",
+        "onboard_time": 1755016281,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87643,
+        "num": 87643,
+        "word": "韩安冉计划生七个孩子",
+        "onboard_time": 1755008846,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84534,
+        "num": 84534,
+        "word": "白鹿瘦成啥样了",
+        "onboard_time": 1754980823,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83694,
+        "num": 83694,
+        "word": "33岁女老师二胎难产去世",
+        "onboard_time": 1754973864,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77064,
+        "num": 77064,
+        "word": "周一请假和周五请假是不一样的",
+        "onboard_time": 1754998943,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76911,
+        "num": 76911,
+        "word": "邓紫棋称投资AI公司已赚10倍",
+        "onboard_time": 1755005485,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74046,
+        "num": 74046,
+        "word": "陈奕恒好萌",
+        "onboard_time": 1755016999,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73983,
+        "num": 73983,
+        "word": "流星雨",
+        "onboard_time": 1755001706,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72597,
+        "num": 72597,
+        "word": "肖战小学时期",
+        "onboard_time": 1754998283,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72338,
+        "num": 72338,
+        "word": "孙怡不去浪姐的原因",
+        "onboard_time": 1755007524,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68498,
+        "num": 68498,
+        "word": "快递费要涨了",
+        "onboard_time": 1754996665,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67562,
+        "num": 67562,
+        "word": "丞磊晒与周也地库合照",
+        "onboard_time": 1755013643,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66995,
+        "num": 66995,
+        "word": "凡人修仙传第二季",
+        "onboard_time": 1754989581,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46629,
+        "num": 62312,
+        "word": "樊振东巴黎四分之一决赛含金量还在上升",
+        "onboard_time": 1755002185,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树造林改善生态任重而道远#"
+    }
+  }
+}

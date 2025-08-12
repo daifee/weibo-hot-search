@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755016504502,
+  "endTime": 1755017446582,
   "band_list": [
     {
       "raw_hot": 2756344,
@@ -43,6 +43,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 555524,
+      "num": 355297,
+      "word": "男子强吻陌生女子被鉴定精神病障碍",
+      "onboard_time": 1755012743,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 498224,
+      "num": 202131,
+      "word": "被捅女生朋友发声",
+      "onboard_time": 1755003926,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466349,
       "num": 466349,
       "word": "男子因女友穿裙子出门对其殴打强奸",
@@ -59,22 +75,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 427911,
-      "num": 202131,
-      "word": "被捅女生朋友发声",
-      "onboard_time": 1755003926,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 355297,
-      "num": 355297,
-      "word": "男子强吻陌生女子被鉴定精神病障碍",
-      "onboard_time": 1755012743,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 335191,
       "num": 335191,
       "word": "19岁佟某某代表不了00后",
@@ -83,20 +83,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262353,
-      "num": 147428,
-      "word": "杨洋 不喜欢我我就少出现",
-      "onboard_time": 1754993182,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 259111,
+      "raw_hot": 273645,
       "num": 198790,
       "word": "警方通报19岁女生景区遭杀害",
       "onboard_time": 1754995403,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 267108,
+      "num": 147428,
+      "word": "杨洋 不喜欢我我就少出现",
+      "onboard_time": 1754993182,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 256000,
@@ -147,20 +147,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171837,
+      "num": 171837,
+      "word": "同学称遇害女生本应有美好前程",
+      "onboard_time": 1755014482,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169848,
       "num": 169848,
       "word": "王晶称银河酷娱是一星公司",
       "onboard_time": 1755001284,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152783,
-      "num": 152783,
-      "word": "同学称遇害女生本应有美好前程",
-      "onboard_time": 1755014482,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149795,
@@ -179,12 +179,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131262,
-      "num": 131262,
+      "raw_hot": 133382,
+      "num": 133382,
       "word": "韩国前第一夫人被拘押",
       "onboard_time": 1755011965,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129072,
+      "num": 147396,
+      "word": "马思纯找张若昀王安宇算是找对人了",
+      "onboard_time": 1755013764,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 122637,
@@ -195,8 +203,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 116331,
-      "num": 116331,
+      "raw_hot": 120076,
+      "num": 146844,
+      "word": "郭德纲力挺郭麒麟接班",
+      "onboard_time": 1755016281,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117354,
+      "num": 117354,
       "word": "IVE预告烧千纸鹤争议",
       "onboard_time": 1755004946,
       "rank": 26,
@@ -219,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111179,
-      "num": 126867,
-      "word": "马思纯找张若昀王安宇算是找对人了",
-      "onboard_time": 1755013764,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107960,
       "num": 107960,
       "word": "韩安冉计划生七个孩子",
@@ -243,16 +251,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104528,
-      "num": 110074,
-      "word": "郭德纲力挺郭麒麟接班",
-      "onboard_time": 1755016281,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 103892,
-      "num": 103892,
+      "raw_hot": 105595,
+      "num": 105595,
       "word": "意识到这些很贵的人都不年轻了",
       "onboard_time": 1755007886,
       "rank": 33,
@@ -297,6 +297,14 @@
       "onboard_time": 1754980823,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 89391,
+      "num": 89391,
+      "word": "缺觉的人全身炎症水平会升高",
+      "onboard_time": 1755016821,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84715,
@@ -347,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74046,
+      "num": 74046,
+      "word": "陈奕恒好萌",
+      "onboard_time": 1755016999,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73689,
       "num": 79600,
       "word": "丞磊晒与周也地库合照",
@@ -371,7 +387,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 56756,
+      "raw_hot": 68883,
       "num": 108561,
       "word": "深圳一公司拿100万鼓励员工减重",
       "onboard_time": 1755016281,
@@ -387,7 +403,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 46607,
+      "raw_hot": 46629,
       "num": 79597,
       "word": "樊振东巴黎四分之一决赛含金量还在上升",
       "onboard_time": 1755002185,
