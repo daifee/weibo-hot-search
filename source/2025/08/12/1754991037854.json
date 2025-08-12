@@ -1,0 +1,410 @@
+{
+  "runTime": 1754991037854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1047262,
+        "num": 1167561,
+        "word": "王者开庭",
+        "onboard_time": 1754983462,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 690763,
+        "num": 690763,
+        "word": "婚内强奸案 性同意",
+        "onboard_time": 1754985863,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12228,
+        "num": 599750,
+        "word": "网警双管齐下治理直播乱象",
+        "onboard_time": 1754955500,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1367452,
+        "num": 597966,
+        "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
+        "onboard_time": 1754987182,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1020268,
+        "num": 597423,
+        "word": "管乐 抱歉让大家看到杂乱的屋子",
+        "onboard_time": 1754986762,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581948,
+        "num": 581948,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575953,
+        "num": 575953,
+        "word": "女子带四个娃坐高铁被要求补3张票",
+        "onboard_time": 1754983342,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491313,
+        "num": 491313,
+        "word": "北京暴雨",
+        "onboard_time": 1754985022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407211,
+        "num": 407211,
+        "word": "白鹿瘦成啥样了",
+        "onboard_time": 1754980823,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353373,
+        "num": 353373,
+        "word": "iPhone17Pro长得像充电宝",
+        "onboard_time": 1754972784,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1414228,
+        "num": 352913,
+        "word": "外交学院",
+        "onboard_time": 1754986642,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999427,
+        "num": 346656,
+        "word": "婚后出轨生子不等于重婚罪",
+        "onboard_time": 1754977761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550139,
+        "num": 341674,
+        "word": "李乃文老婆",
+        "onboard_time": 1754981122,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245793,
+        "num": 340785,
+        "word": "朱令父母发讣告悼念亡女",
+        "onboard_time": 1754990243,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 675295,
+        "num": 334327,
+        "word": "朱令骨灰今日安葬",
+        "onboard_time": 1754987542,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284369,
+        "num": 333672,
+        "word": "利剑玫瑰删减剧情炸裂",
+        "onboard_time": 1754986281,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272063,
+        "num": 327155,
+        "word": "凡人修仙传大结局",
+        "onboard_time": 1754983822,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325965,
+        "num": 325965,
+        "word": "33岁女老师二胎难产去世",
+        "onboard_time": 1754973864,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171147,
+        "num": 313571,
+        "word": "田曦薇密室铁坦许凯密室地毯",
+        "onboard_time": 1754990723,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150352,
+        "num": 313072,
+        "word": "父亲给儿女喂农药致死生母望重判",
+        "onboard_time": 1754989163,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 789637,
+        "num": 313055,
+        "word": "浪浪山宣发 傅首尔",
+        "onboard_time": 1754984902,
+        "rank": 20,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 313039,
+        "num": 313039,
+        "word": "张本智和说医疗暂停又不是不能用",
+        "onboard_time": 1754981183,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242705,
+        "num": 291005,
+        "word": "张萌说关晓彤三年前演21三年后演18岁",
+        "onboard_time": 1754980762,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286085,
+        "num": 286085,
+        "word": "女子上迪如厕排队超时崩溃大哭",
+        "onboard_time": 1754985801,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241710,
+        "num": 241710,
+        "word": "敖瑞鹏p掉了鼻毛",
+        "onboard_time": 1754989943,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213560,
+        "num": 213560,
+        "word": "阿迪达斯就新鞋抄袭道歉",
+        "onboard_time": 1754986762,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211960,
+        "num": 211960,
+        "word": "凡人修仙传第二季",
+        "onboard_time": 1754989581,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196807,
+        "num": 196807,
+        "word": "鞠婧祎张云龙 室子之争向来如此",
+        "onboard_time": 1754990961,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150688,
+        "num": 193588,
+        "word": "陶白白花期",
+        "onboard_time": 1754987843,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82259,
+        "num": 193202,
+        "word": "婚内强奸案一审未当庭宣判",
+        "onboard_time": 1754990183,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193126,
+        "num": 193126,
+        "word": "张康乐别看晋江了",
+        "onboard_time": 1754989462,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190011,
+        "num": 190011,
+        "word": "李承铉给张远道歉",
+        "onboard_time": 1754990663,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188880,
+        "num": 188880,
+        "word": "贝克汉姆夫妇未出席大儿子婚礼",
+        "onboard_time": 1754983880,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184462,
+        "num": 184462,
+        "word": "瘦不下来是因为没吃过颜值红利",
+        "onboard_time": 1754989223,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176239,
+        "num": 176239,
+        "word": "王楚钦外国乒男队要提升狼性气质",
+        "onboard_time": 1754988384,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173840,
+        "num": 173840,
+        "word": "12306回应女子带4娃坐高铁拒绝补票",
+        "onboard_time": 1754985682,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172895,
+        "num": 172895,
+        "word": "杨幂 幂羊羊",
+        "onboard_time": 1754989283,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171479,
+        "num": 171479,
+        "word": "离婚后妈妈给女儿改名琉璃若水",
+        "onboard_time": 1754985143,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77255,
+        "num": 166882,
+        "word": "93岁老人8个子女无人愿赡养",
+        "onboard_time": 1754990723,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93357,
+        "num": 165824,
+        "word": "美国宣布俾路支解放军为恐怖组织",
+        "onboard_time": 1754988683,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165734,
+        "num": 165734,
+        "word": "王者荣耀匹配机制",
+        "onboard_time": 1754987723,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97623,
+        "num": 162603,
+        "word": "为什么女性比男性容易思维反刍",
+        "onboard_time": 1754989762,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 161957,
+        "num": 161957,
+        "word": "人民网评东极岛",
+        "onboard_time": 1754984243,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134193,
+        "num": 134193,
+        "word": "长期游泳后才悟出的人生道理",
+        "onboard_time": 1754987364,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129331,
+        "num": 129331,
+        "word": "高考数学143分独臂少年考上公务员",
+        "onboard_time": 1754981481,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128617,
+        "num": 128617,
+        "word": "罗永浩",
+        "onboard_time": 1754988083,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124938,
+        "num": 124938,
+        "word": "裸辞后才意识到原来人生真的会突然改变",
+        "onboard_time": 1754984483,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124601,
+        "num": 124601,
+        "word": "狗狗叼回一只小萌猫竟是保护动物",
+        "onboard_time": 1754987483,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118639,
+        "num": 118639,
+        "word": "印度男子载亡妻尸体求救无人相助",
+        "onboard_time": 1754978902,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115122,
+        "num": 115122,
+        "word": "疑似印度裔男女在加拿大湖泊里搓澡",
+        "onboard_time": 1754979924,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉通电话#"
+    }
+  }
+}
