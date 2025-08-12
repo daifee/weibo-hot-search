@@ -1,0 +1,410 @@
+{
+  "runTime": 1755004211655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1648219,
+        "num": 1648219,
+        "word": "警方通报19岁女生景区遭杀害",
+        "onboard_time": 1754995403,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 594415,
+        "num": 594415,
+        "word": "家长网上发视频质疑校服质量被拘留",
+        "onboard_time": 1754994623,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30381,
+        "num": 555714,
+        "word": "一起相约成都世运会",
+        "onboard_time": 1754993483,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536235,
+        "num": 536235,
+        "word": "孙怡说结婚离婚都是过程",
+        "onboard_time": 1754999304,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461721,
+        "num": 461721,
+        "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
+        "onboard_time": 1755000083,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444110,
+        "num": 444110,
+        "word": "快递费要涨了",
+        "onboard_time": 1754996665,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303673,
+        "num": 303673,
+        "word": "王者荣耀",
+        "onboard_time": 1754998103,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299313,
+        "num": 299313,
+        "word": "王晶称银河酷娱是一星公司",
+        "onboard_time": 1755001284,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287884,
+        "num": 287884,
+        "word": "花少邀请了张晚意好几次",
+        "onboard_time": 1755001706,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270361,
+        "num": 270361,
+        "word": "刘骏直播",
+        "onboard_time": 1754999004,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11498523,
+        "num": 11498523,
+        "word": "19岁女大学生景区内遭捅多刀身亡",
+        "onboard_time": 1754992222,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738888,
+        "num": 269458,
+        "word": "19岁女生遭杀害男子有精神疾病史",
+        "onboard_time": 1754995764,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 407857,
+        "num": 269294,
+        "word": "婚内强奸案 性同意",
+        "onboard_time": 1754985863,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404023,
+        "num": 268552,
+        "word": "周一请假和周五请假是不一样的",
+        "onboard_time": 1754998943,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373426,
+        "num": 268155,
+        "word": "33岁女老师二胎难产去世",
+        "onboard_time": 1754973864,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349311,
+        "num": 267973,
+        "word": "南昌景区持剪刀伤人男子被刑拘",
+        "onboard_time": 1754994143,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29493,
+        "num": 267459,
+        "word": "GT新成员闪现保时捷中心",
+        "onboard_time": 1755000445,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 294143,
+        "num": 267037,
+        "word": "肖战小学时期",
+        "onboard_time": 1754998283,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31856,
+        "num": 266244,
+        "word": "胡兵官宣首个百张时尚面孔团",
+        "onboard_time": 1755000383,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 51410,
+        "num": 265758,
+        "word": "芭莎大片解码和平皮肤",
+        "onboard_time": 1755000445,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265752,
+        "num": 265752,
+        "word": "19岁遇害女大学生亲友发声",
+        "onboard_time": 1755002845,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804394,
+        "num": 265036,
+        "word": "杨洋 不喜欢我我就少出现",
+        "onboard_time": 1754993182,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404296,
+        "num": 264335,
+        "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
+        "onboard_time": 1754987182,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262956,
+        "num": 262956,
+        "word": "白鹿瘦成啥样了",
+        "onboard_time": 1754980823,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262489,
+        "num": 262489,
+        "word": "上海机场取消进航站楼人身行李安检",
+        "onboard_time": 1754994982,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256274,
+        "num": 256274,
+        "word": "女子剖腹产3天晒陪护全睡着",
+        "onboard_time": 1755001824,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221725,
+        "num": 221725,
+        "word": "樊振东巴黎四分之一决赛含金量还在上升",
+        "onboard_time": 1755002185,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165448,
+        "num": 212686,
+        "word": "管乐直播自己收拾屋子",
+        "onboard_time": 1754997084,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156451,
+        "num": 205791,
+        "word": "凡人修仙传第二季",
+        "onboard_time": 1754989581,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150263,
+        "num": 205706,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205700,
+        "num": 205700,
+        "word": "成都世运会",
+        "onboard_time": 1755003987,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178930,
+        "num": 178930,
+        "word": "敖瑞鹏p掉了鼻毛",
+        "onboard_time": 1754989943,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166662,
+        "num": 166662,
+        "word": "女子被风水师骗936万元投湖自杀",
+        "onboard_time": 1755002123,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164050,
+        "num": 164050,
+        "word": "特朗普希望中国将大豆订单增加3倍",
+        "onboard_time": 1755000864,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155192,
+        "num": 155192,
+        "word": "被捅女生朋友发声",
+        "onboard_time": 1755003926,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153073,
+        "num": 153073,
+        "word": "海淀小孩锐评三年级英语",
+        "onboard_time": 1755003807,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152172,
+        "num": 152172,
+        "word": "李乃文老婆",
+        "onboard_time": 1754981122,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145120,
+        "num": 145120,
+        "word": "张成教练谈张本智和医疗暂停",
+        "onboard_time": 1755003926,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52336,
+        "num": 142479,
+        "word": "湖北一地二孩最高补贴28万三孩35万",
+        "onboard_time": 1755003866,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45963,
+        "num": 140646,
+        "word": "医院外请专家做手术后被投诉",
+        "onboard_time": 1755003687,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139973,
+        "num": 139973,
+        "word": "生理性喜欢是一件很可怕的事",
+        "onboard_time": 1754992703,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139455,
+        "num": 139455,
+        "word": "战至巅峰",
+        "onboard_time": 1754998103,
+        "rank": 41,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 137449,
+        "num": 137449,
+        "word": "女子上迪如厕排队超时崩溃大哭",
+        "onboard_time": 1754985801,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133112,
+        "num": 133112,
+        "word": "林俊杰官宣音乐节",
+        "onboard_time": 1754994323,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106686,
+        "num": 132771,
+        "word": "男童苍山走失已3天父亲发声",
+        "onboard_time": 1755002544,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132704,
+        "num": 132704,
+        "word": "网红抗癌博主小浩的小迷妹离世",
+        "onboard_time": 1755002606,
+        "rank": 45,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 131124,
+        "num": 131124,
+        "word": "流星雨",
+        "onboard_time": 1755001706,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129844,
+        "num": 129844,
+        "word": "43岁香港男星杨尚斌去世",
+        "onboard_time": 1755001584,
+        "rank": 47,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 123996,
+        "num": 123996,
+        "word": "李承铉给张远道歉",
+        "onboard_time": 1754990663,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121551,
+        "num": 121551,
+        "word": "对丞磊是美术生有了实感",
+        "onboard_time": 1755003146,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉通电话#"
+    }
+  }
+}

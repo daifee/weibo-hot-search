@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1755003293011,
+  "endTime": 1755004211655,
   "band_list": [
     {
       "raw_hot": 14536025,
@@ -35,6 +35,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1648219,
+      "num": 1648219,
+      "word": "警方通报19岁女生景区遭杀害",
+      "onboard_time": 1754995403,
+      "rank": 27,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1574519,
       "num": 1517924,
       "word": "赵露思根本没有开通朋友圈",
@@ -49,14 +57,6 @@
       "onboard_time": 1754993182,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1418814,
-      "num": 1418814,
-      "word": "警方通报19岁女生景区遭杀害",
-      "onboard_time": 1754995403,
-      "rank": 27,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1414228,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594415,
+      "num": 1076317,
+      "word": "家长网上发视频质疑校服质量被拘留",
+      "onboard_time": 1754994623,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571698,
       "num": 571698,
       "word": "疑似印度裔男女在加拿大湖泊里搓澡",
@@ -419,16 +427,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 538926,
-      "num": 1076317,
-      "word": "家长网上发视频质疑校服质量被拘留",
-      "onboard_time": 1754994623,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 534776,
-      "num": 534776,
+      "raw_hot": 536235,
+      "num": 536235,
       "word": "孙怡说结婚离婚都是过程",
       "onboard_time": 1754999304,
       "rank": 3,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461721,
+      "num": 461721,
+      "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
+      "onboard_time": 1755000083,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450657,
       "num": 450657,
       "word": "赵露思解释绿茶事件",
@@ -553,6 +561,14 @@
       "onboard_time": 1754963841,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444110,
+      "num": 444110,
+      "word": "快递费要涨了",
+      "onboard_time": 1754996665,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426905,
@@ -587,14 +603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 408094,
-      "num": 408094,
-      "word": "快递费要涨了",
-      "onboard_time": 1754996665,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 406959,
       "num": 431869,
       "word": "警方通报南昌景区伤人事件",
@@ -603,12 +611,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 399177,
-      "num": 399177,
-      "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
-      "onboard_time": 1755000083,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 404023,
+      "num": 268552,
+      "word": "周一请假和周五请假是不一样的",
+      "onboard_time": 1754998943,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 393741,
@@ -633,14 +641,6 @@
       "onboard_time": 1754983822,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 367511,
-      "num": 208910,
-      "word": "周一请假和周五请假是不一样的",
-      "onboard_time": 1754998943,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 362764,
@@ -763,12 +763,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 301229,
-      "num": 301229,
+      "raw_hot": 303673,
+      "num": 303673,
       "word": "王者荣耀",
       "onboard_time": 1754998103,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299313,
+      "num": 299313,
+      "word": "王晶称银河酷娱是一星公司",
+      "onboard_time": 1755001284,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294143,
+      "num": 267037,
+      "word": "肖战小学时期",
+      "onboard_time": 1754998283,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 293739,
@@ -779,20 +795,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 293362,
-      "num": 204966,
-      "word": "肖战小学时期",
-      "onboard_time": 1754998283,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288364,
       "num": 288364,
       "word": "赵露思说当初签银河酷娱是不想红",
       "onboard_time": 1754924305,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287884,
+      "num": 287884,
+      "word": "花少邀请了张晚意好几次",
+      "onboard_time": 1755001706,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 284734,
@@ -843,6 +859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 270361,
+      "num": 270361,
+      "word": "刘骏直播",
+      "onboard_time": 1754999004,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269617,
       "num": 269617,
       "word": "昊恺质问UZI",
@@ -857,6 +881,14 @@
       "onboard_time": 1754980103,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265752,
+      "num": 265752,
+      "word": "19岁遇害女大学生亲友发声",
+      "onboard_time": 1755002845,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265639,
@@ -883,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256274,
+      "num": 256274,
+      "word": "女子剖腹产3天晒陪护全睡着",
+      "onboard_time": 1755001824,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255215,
       "num": 255215,
       "word": "王楚钦vs张本智和",
@@ -907,28 +947,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 247258,
-      "num": 247258,
-      "word": "王晶称银河酷娱是一星公司",
-      "onboard_time": 1755001284,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238883,
       "num": 280946,
       "word": "张艺凡刚出新手村就遇顶级魅魔",
       "onboard_time": 1754953097,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 235447,
-      "num": 235447,
-      "word": "花少邀请了张晚意好几次",
-      "onboard_time": 1755001706,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 234985,
@@ -979,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224745,
-      "num": 224745,
-      "word": "刘骏直播",
-      "onboard_time": 1754999004,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224739,
       "num": 224739,
       "word": "大理苍山失联男孩最新消息",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1754997084,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221725,
+      "num": 221725,
+      "word": "樊振东巴黎四分之一决赛含金量还在上升",
+      "onboard_time": 1755002185,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 215635,
@@ -1075,20 +1099,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205700,
+      "num": 205700,
+      "word": "成都世运会",
+      "onboard_time": 1755003987,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202533,
       "num": 202533,
       "word": "战至巅峰官宣魔王挑战队",
       "onboard_time": 1754973084,
       "rank": 26,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 202153,
-      "num": 202153,
-      "word": "女子剖腹产3天晒陪护全睡着",
-      "onboard_time": 1755001824,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200632,
@@ -1363,14 +1387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176979,
-      "num": 176979,
-      "word": "樊振东巴黎四分之一决赛含金量还在上升",
-      "onboard_time": 1755002185,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176645,
       "num": 193076,
       "word": "花花是等比例长大的吧",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1754975003,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166662,
+      "num": 166662,
+      "word": "女子被风水师骗936万元投湖自杀",
+      "onboard_time": 1755002123,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165834,
@@ -1611,11 +1635,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 153880,
-      "num": 153880,
-      "word": "女子被风水师骗936万元投湖自杀",
-      "onboard_time": 1755002123,
-      "rank": 33,
+      "raw_hot": 155192,
+      "num": 155192,
+      "word": "被捅女生朋友发声",
+      "onboard_time": 1755003926,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1625,6 +1649,14 @@
       "onboard_time": 1754979862,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153073,
+      "num": 153073,
+      "word": "海淀小孩锐评三年级英语",
+      "onboard_time": 1755003807,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 152184,
@@ -1779,6 +1811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145120,
+      "num": 145120,
+      "word": "张成教练谈张本智和医疗暂停",
+      "onboard_time": 1755003926,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144644,
       "num": 411784,
       "word": "特朗普称俄乌都必须让出领土",
@@ -1873,14 +1913,6 @@
       "onboard_time": 1754991803,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139688,
-      "num": 246423,
-      "word": "19岁遇害女大学生亲友发声",
-      "onboard_time": 1755002845,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139685,
@@ -2019,6 +2051,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 132704,
+      "num": 138893,
+      "word": "网红抗癌博主小浩的小迷妹离世",
+      "onboard_time": 1755002606,
+      "rank": 38,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 132437,
       "num": 132437,
       "word": "TVB港剧里的徐冬冬",
@@ -2033,6 +2073,14 @@
       "onboard_time": 1754957842,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131124,
+      "num": 131124,
+      "word": "流星雨",
+      "onboard_time": 1755001706,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131004,
@@ -2195,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121551,
+      "num": 121551,
+      "word": "对丞磊是美术生有了实感",
+      "onboard_time": 1755003146,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121483,
       "num": 121483,
       "word": "民警从淤泥里拔出一个大爷",
@@ -2249,14 +2305,6 @@
       "onboard_time": 1754993122,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120418,
-      "num": 138893,
-      "word": "网红抗癌博主小浩的小迷妹离世",
-      "onboard_time": 1755002606,
-      "rank": 38,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 118951,
@@ -2345,14 +2393,6 @@
       "onboard_time": 1754999004,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114076,
-      "num": 110839,
-      "word": "对丞磊是美术生有了实感",
-      "onboard_time": 1755003146,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 113902,
@@ -2529,6 +2569,14 @@
       "onboard_time": 1754991084,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106686,
+      "num": 132771,
+      "word": "男童苍山走失已3天父亲发声",
+      "onboard_time": 1755002544,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106294,
@@ -3027,6 +3075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52336,
+      "num": 142479,
+      "word": "湖北一地二孩最高补贴28万三孩35万",
+      "onboard_time": 1755003866,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51578,
       "num": 193438,
       "word": "环球影城招募退休员工时薪30元",
@@ -3035,8 +3091,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50995,
-      "num": 221697,
+      "raw_hot": 51410,
+      "num": 265758,
       "word": "芭莎大片解码和平皮肤",
       "onboard_time": 1755000445,
       "rank": 17,
@@ -3057,6 +3113,14 @@
       "onboard_time": 1754987062,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45963,
+      "num": 140646,
+      "word": "医院外请专家做手术后被投诉",
+      "onboard_time": 1755003687,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41850,
@@ -3100,7 +3164,7 @@
     },
     {
       "raw_hot": 35705,
-      "num": 535569,
+      "num": 555714,
       "word": "一起相约成都世运会",
       "onboard_time": 1754993483,
       "rank": 2,
@@ -3124,7 +3188,7 @@
     },
     {
       "raw_hot": 34711,
-      "num": 219628,
+      "num": 266244,
       "word": "胡兵官宣首个百张时尚面孔团",
       "onboard_time": 1755000383,
       "rank": 18,
@@ -3163,8 +3227,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26257,
-      "num": 216309,
+      "raw_hot": 29493,
+      "num": 267459,
       "word": "GT新成员闪现保时捷中心",
       "onboard_time": 1755000445,
       "rank": 19,
