@@ -1,0 +1,410 @@
+{
+  "runTime": 1754984522040,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1631566,
+        "num": 1631566,
+        "word": "婚后出轨生子不等于重婚罪",
+        "onboard_time": 1754977761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1314280,
+        "num": 1314280,
+        "word": "白鹿瘦成啥样了",
+        "onboard_time": 1754980823,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22162,
+        "num": 971112,
+        "word": "国际青年日",
+        "onboard_time": 1754969363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690563,
+        "num": 690563,
+        "word": "张萌说关晓彤三年前演21三年后演18岁",
+        "onboard_time": 1754980762,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658793,
+        "num": 658793,
+        "word": "金饰克价已跌到千元以内",
+        "onboard_time": 1754978244,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 593961,
+        "num": 593961,
+        "word": "iPhone17Pro长得像充电宝",
+        "onboard_time": 1754972784,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 491613,
+        "num": 491613,
+        "word": "蔡康永怎么老成这样了",
+        "onboard_time": 1754978303,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471480,
+        "num": 471480,
+        "word": "女子带四个娃坐高铁被要求补3张票",
+        "onboard_time": 1754983342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447460,
+        "num": 447460,
+        "word": "疑似印度裔男女在加拿大湖泊里搓澡",
+        "onboard_time": 1754979924,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 441048,
+        "num": 441048,
+        "word": "印度男子将亡妻绑摩托上被拦截",
+        "onboard_time": 1754977104,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 868080,
+        "num": 423876,
+        "word": "李乃文老婆",
+        "onboard_time": 1754981122,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699195,
+        "num": 412547,
+        "word": "33岁女老师二胎难产去世",
+        "onboard_time": 1754973864,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397586,
+        "num": 397586,
+        "word": "河北蔚县地震",
+        "onboard_time": 1754979441,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 269479,
+        "num": 269479,
+        "word": "张本智和透露战胜王楚钦秘诀",
+        "onboard_time": 1754980103,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239756,
+        "num": 239756,
+        "word": "王者开庭",
+        "onboard_time": 1754983462,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410268,
+        "num": 239732,
+        "word": "李乃文和老婆牵手外出",
+        "onboard_time": 1754976982,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233728,
+        "num": 233728,
+        "word": "王晶谈梅艳芳赵文卓分手原因",
+        "onboard_time": 1754978244,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191960,
+        "num": 191960,
+        "word": "怀孕后才知道妈妈漏尿多年",
+        "onboard_time": 1754973203,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191377,
+        "num": 191377,
+        "word": "凡人修仙传大结局",
+        "onboard_time": 1754983822,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159654,
+        "num": 189227,
+        "word": "花花是等比例长大的吧",
+        "onboard_time": 1754979621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189220,
+        "num": 189220,
+        "word": "张本智和说医疗暂停又不是不能用",
+        "onboard_time": 1754981183,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186513,
+        "num": 186513,
+        "word": "田曦薇虞书欣 女明星之间的友情",
+        "onboard_time": 1754974584,
+        "rank": 21,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 174156,
+        "num": 174156,
+        "word": "高考数学143分独臂少年考上公务员",
+        "onboard_time": 1754981481,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171669,
+        "num": 171669,
+        "word": "印度男子载亡妻尸体求救无人相助",
+        "onboard_time": 1754978902,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167529,
+        "num": 167529,
+        "word": "贝克汉姆夫妇未出席大儿子婚礼",
+        "onboard_time": 1754983880,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151737,
+        "num": 151737,
+        "word": "打水仗感染食脑虫男童去世",
+        "onboard_time": 1754973144,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147770,
+        "num": 147770,
+        "word": "那英 内娱通讯录",
+        "onboard_time": 1754971762,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143048,
+        "num": 143048,
+        "word": "普通话倒欠国家二级",
+        "onboard_time": 1754982563,
+        "rank": 27,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 140652,
+        "num": 140652,
+        "word": "papi和维嘉互说对方病很重",
+        "onboard_time": 1754981843,
+        "rank": 28,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 131454,
+        "num": 137416,
+        "word": "张萌探班吃了关晓彤彩椒碗",
+        "onboard_time": 1754979323,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157684,
+        "num": 137396,
+        "word": "裸辞后才意识到原来人生真的会突然改变",
+        "onboard_time": 1754984483,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137230,
+        "num": 137230,
+        "word": "全是桃花坞养出来的百灵鸟",
+        "onboard_time": 1754984061,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135315,
+        "num": 135315,
+        "word": "台风",
+        "onboard_time": 1754983342,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130151,
+        "num": 130151,
+        "word": "谁懂男相女生的痛",
+        "onboard_time": 1754982862,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125039,
+        "num": 129473,
+        "word": "内娱第一个明星摆摊综艺来了",
+        "onboard_time": 1754979862,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129415,
+        "num": 129415,
+        "word": "寒武纪涨近14%",
+        "onboard_time": 1754982563,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127360,
+        "num": 127360,
+        "word": "男子因车窗贴了膜被关进鳄鱼恶魔岛",
+        "onboard_time": 1754982742,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123155,
+        "num": 123155,
+        "word": "赵露思称公司让按3比7赔钱",
+        "onboard_time": 1754971522,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25189,
+        "num": 119919,
+        "word": "周涛我不想努力了",
+        "onboard_time": 1754971882,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75391,
+        "num": 119101,
+        "word": "旭旭宝宝想生四胎",
+        "onboard_time": 1754981362,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118639,
+        "num": 118639,
+        "word": "重庆一爱心冰柜的矿泉水遭哄抢",
+        "onboard_time": 1754982082,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113012,
+        "num": 113012,
+        "word": "尼坤胖成黄磊了",
+        "onboard_time": 1754965820,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105379,
+        "num": 105379,
+        "word": "南昌水煮",
+        "onboard_time": 1754982082,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102969,
+        "num": 102969,
+        "word": "小米门锁误识外卖员人脸开锁成功",
+        "onboard_time": 1754971463,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102003,
+        "num": 102003,
+        "word": "777777靓号携号转网受限",
+        "onboard_time": 1754978543,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97799,
+        "num": 97799,
+        "word": "酒店老板回应陪睡狗爆火",
+        "onboard_time": 1754978842,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97169,
+        "num": 97169,
+        "word": "人生不过3万天他们相爱22630天",
+        "onboard_time": 1754983703,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96867,
+        "num": 96867,
+        "word": "人民网评东极岛",
+        "onboard_time": 1754984243,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96740,
+        "num": 96740,
+        "word": "上海警方通报外卖员摸前台女孩脸",
+        "onboard_time": 1754977283,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 95968,
+        "num": 95968,
+        "word": "浪浪山小妖怪",
+        "onboard_time": 1754975003,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉通电话#"
+    }
+  }
+}
