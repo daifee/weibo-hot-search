@@ -1,0 +1,410 @@
+{
+  "runTime": 1755009981242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1324291,
+        "num": 1324291,
+        "word": "吃鸡蛋事件 剧本",
+        "onboard_time": 1755006866,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544378,
+        "num": 544378,
+        "word": "男子因女友穿裙子出门对其殴打强奸",
+        "onboard_time": 1755008846,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25821,
+        "num": 500983,
+        "word": "一起相约成都世运会",
+        "onboard_time": 1754993483,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481366,
+        "num": 481366,
+        "word": "花少7这是香妃扎堆了",
+        "onboard_time": 1755005308,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381277,
+        "num": 381277,
+        "word": "孙怡离婚后去再见爱人不敢说话",
+        "onboard_time": 1755004525,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 777135,
+        "num": 380567,
+        "word": "19岁遇害女大学生亲友发声",
+        "onboard_time": 1755002845,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375064,
+        "num": 375064,
+        "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
+        "onboard_time": 1755000083,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318899,
+        "num": 318899,
+        "word": "当地回应景区行凶嫌犯有精神疾病史",
+        "onboard_time": 1755006627,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288842,
+        "num": 288842,
+        "word": "郭麒麟为拍戏拒绝接班德云社",
+        "onboard_time": 1755008966,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243051,
+        "num": 288447,
+        "word": "快递费要涨了",
+        "onboard_time": 1754996665,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8056411,
+        "num": 8056411,
+        "word": "19岁女大学生景区内遭捅多刀身亡",
+        "onboard_time": 1754992222,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817481,
+        "num": 286632,
+        "word": "被捅女生朋友发声",
+        "onboard_time": 1755003926,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653655,
+        "num": 286049,
+        "word": "66岁男子与情人发生关系后猝死",
+        "onboard_time": 1755008665,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611348,
+        "num": 284818,
+        "word": "警方通报19岁女生景区遭杀害",
+        "onboard_time": 1754995403,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 461648,
+        "num": 284174,
+        "word": "19岁女生遭杀害男子有精神疾病史",
+        "onboard_time": 1754995764,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 283271,
+        "num": 283271,
+        "word": "南昌景区持剪刀伤人男子被刑拘",
+        "onboard_time": 1754994143,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255694,
+        "num": 255694,
+        "word": "韩安冉计划生七个孩子",
+        "onboard_time": 1755008846,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 253955,
+        "num": 253955,
+        "word": "全英语交流无非就这500句",
+        "onboard_time": 1755008066,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228543,
+        "num": 228543,
+        "word": "利剑玫瑰收视率",
+        "onboard_time": 1755008606,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65400,
+        "num": 227489,
+        "word": "肖战旷野松弛感谁懂",
+        "onboard_time": 1755007465,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404012,
+        "num": 227403,
+        "word": "杨洋 不喜欢我我就少出现",
+        "onboard_time": 1754993182,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313200,
+        "num": 226078,
+        "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
+        "onboard_time": 1754987182,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242532,
+        "num": 224590,
+        "word": "33岁女老师二胎难产去世",
+        "onboard_time": 1754973864,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224295,
+        "num": 224295,
+        "word": "意识到这些很贵的人都不年轻了",
+        "onboard_time": 1755007886,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219047,
+        "num": 219047,
+        "word": "周一请假和周五请假是不一样的",
+        "onboard_time": 1754998943,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217325,
+        "num": 217325,
+        "word": "孙怡不去浪姐的原因",
+        "onboard_time": 1755007524,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185304,
+        "num": 185304,
+        "word": "律师谈杀害女生男子有精神疾病史",
+        "onboard_time": 1755008247,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178329,
+        "num": 178329,
+        "word": "白鹿瘦成啥样了",
+        "onboard_time": 1754980823,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149076,
+        "num": 173365,
+        "word": "郑某峰涉嫌猥亵儿童已被批捕待起诉",
+        "onboard_time": 1755007286,
+        "rank": 28,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 144535,
+        "num": 171111,
+        "word": "花少邀请了张晚意好几次",
+        "onboard_time": 1755001706,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170163,
+        "num": 170163,
+        "word": "麦当劳奶昔",
+        "onboard_time": 1755006207,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142983,
+        "num": 142983,
+        "word": "马琳找王楚钦要签名",
+        "onboard_time": 1755007166,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114312,
+        "num": 142518,
+        "word": "中方回应特朗普让中国增加大豆订单",
+        "onboard_time": 1755009685,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142332,
+        "num": 142332,
+        "word": "陶白白纹身",
+        "onboard_time": 1755009564,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141486,
+        "num": 141486,
+        "word": "8种皮肤问题怎么改善",
+        "onboard_time": 1755009805,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140738,
+        "num": 140738,
+        "word": "IVE预告烧千纸鹤争议",
+        "onboard_time": 1755004946,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140323,
+        "num": 140323,
+        "word": "女老师难产离世丈夫发声",
+        "onboard_time": 1755006506,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135649,
+        "num": 139093,
+        "word": "刘骏直播",
+        "onboard_time": 1754999004,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139084,
+        "num": 139084,
+        "word": "顾客自带8200元茅台被餐厅调包",
+        "onboard_time": 1755008846,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138454,
+        "num": 138454,
+        "word": "肖战小学时期",
+        "onboard_time": 1754998283,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138386,
+        "num": 138386,
+        "word": "邓紫棋称投资AI公司已赚10倍",
+        "onboard_time": 1755005485,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137189,
+        "num": 137189,
+        "word": "凡人修仙传第二季",
+        "onboard_time": 1754989581,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131539,
+        "num": 136525,
+        "word": "三亚7199元一晚的酒店虫子成群",
+        "onboard_time": 1755009506,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136379,
+        "num": 136379,
+        "word": "周也丞磊直播异地恋情侣既视感",
+        "onboard_time": 1755009805,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58070,
+        "num": 135370,
+        "word": "网友称考上大学父母嫌远不给路费",
+        "onboard_time": 1755009085,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134759,
+        "num": 134759,
+        "word": "林允也开始养生了",
+        "onboard_time": 1755009747,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132687,
+        "num": 132687,
+        "word": "婚内强奸案 性同意",
+        "onboard_time": 1754985863,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117718,
+        "num": 132552,
+        "word": "成都蓉城3比0曼谷联",
+        "onboard_time": 1755008487,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132445,
+        "num": 132445,
+        "word": "李乃文老婆",
+        "onboard_time": 1754981122,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132324,
+        "num": 132324,
+        "word": "林俊杰张艺兴双厨欢喜",
+        "onboard_time": 1755008247,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉通电话#"
+    }
+  }
+}
