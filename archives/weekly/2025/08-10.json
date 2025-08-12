@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1754980807933,
+  "endTime": 1754981631555,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2086194,
-      "num": 401424,
+      "num": 411473,
       "word": "33岁女老师二胎难产去世",
       "onboard_time": 1754973864,
       "rank": 17,
@@ -81,6 +81,14 @@
       "onboard_time": 1754822181,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1695449,
+      "num": 1695449,
+      "word": "婚后出轨生子不等于重婚罪",
+      "onboard_time": 1754977761,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1687846,
@@ -193,14 +201,6 @@
       "onboard_time": 1754911045,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1400180,
-      "num": 1400180,
-      "word": "婚后出轨生子不等于重婚罪",
-      "onboard_time": 1754977761,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1399825,
@@ -395,12 +395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1067560,
+      "num": 1067560,
+      "word": "印度男子将亡妻绑摩托上被拦截",
+      "onboard_time": 1754977104,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1051504,
       "num": 1051504,
       "word": "汪苏泷张碧晨参加东方风云榜",
       "onboard_time": 1754900662,
       "rank": 15,
       "category": "音乐,演出"
+    },
+    {
+      "raw_hot": 1027406,
+      "num": 1027406,
+      "word": "金饰克价已跌到千元以内",
+      "onboard_time": 1754978244,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 1008982,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 1003740,
-      "num": 336339,
+      "num": 406516,
       "word": "李乃文和老婆牵手外出",
       "onboard_time": 1754976982,
       "rank": 21,
@@ -497,14 +513,6 @@
       "onboard_time": 1754959400,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 861329,
-      "num": 861329,
-      "word": "印度男子将亡妻绑摩托上被拦截",
-      "onboard_time": 1754977104,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 857937,
@@ -747,14 +755,6 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 722026,
-      "num": 722026,
-      "word": "金饰克价已跌到千元以内",
-      "onboard_time": 1754978244,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 713411,
       "num": 713411,
       "word": "撒贝宁保送北大的真实原因",
@@ -931,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605741,
+      "num": 605741,
+      "word": "白鹿瘦成啥样了",
+      "onboard_time": 1754980823,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 599187,
       "num": 286971,
       "word": "唐香玉 是卫生巾又怎样",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1754970204,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 563166,
+      "num": 563166,
+      "word": "疑似印度裔男女在加拿大湖泊里搓澡",
+      "onboard_time": 1754979924,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 562801,
@@ -2083,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 286459,
-      "num": 337785,
-      "word": "疑似印度裔男女在加拿大湖泊里搓澡",
-      "onboard_time": 1754979924,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 286301,
       "num": 286301,
       "word": "院长回应规培生等禁入职工餐厅吃饭",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1754813482,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279171,
+      "num": 279171,
+      "word": "王晶谈梅艳芳赵文卓分手原因",
+      "onboard_time": 1754978244,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 278645,
@@ -2483,14 +2499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229096,
-      "num": 229096,
-      "word": "王晶谈梅艳芳赵文卓分手原因",
-      "onboard_time": 1754978244,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228412,
       "num": 148503,
       "word": "王楚钦神仙球把曹巍看激动了",
@@ -2667,7 +2675,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214033,
+      "raw_hot": 215635,
       "num": 214033,
       "word": "印度男子载亡妻尸体求救无人相助",
       "onboard_time": 1754978902,
@@ -2705,6 +2713,14 @@
       "onboard_time": 1754892082,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213406,
+      "num": 213406,
+      "word": "李乃文老婆杨婷",
+      "onboard_time": 1754981122,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 211701,
@@ -3491,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182388,
+      "num": 182388,
+      "word": "张萌探班吃了关晓彤彩椒碗",
+      "onboard_time": 1754979323,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182305,
       "num": 182305,
       "word": "粉丝让李荣浩冒充家长签字",
@@ -3579,6 +3603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178440,
+      "num": 178440,
+      "word": "张本智和透露战胜王楚钦秘诀",
+      "onboard_time": 1754980103,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178298,
       "num": 178298,
       "word": "JDG首次确认败者组",
@@ -3641,6 +3673,14 @@
       "onboard_time": 1754822181,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176645,
+      "num": 176645,
+      "word": "花花是等比例长大的吧",
+      "onboard_time": 1754979621,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176242,
@@ -3755,6 +3795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 172314,
+      "num": 162666,
+      "word": "张萌说关晓彤三年前演21三年后演18岁",
+      "onboard_time": 1754980762,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172105,
       "num": 172105,
       "word": "小鹏汽车回应私自用车主5000积分",
@@ -3777,14 +3825,6 @@
       "onboard_time": 1754973743,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171661,
-      "num": 171661,
-      "word": "张萌探班吃了关晓彤彩椒碗",
-      "onboard_time": 1754979323,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 171109,
@@ -3947,14 +3987,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 166120,
-      "num": 166120,
-      "word": "花花是等比例长大的吧",
-      "onboard_time": 1754979621,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165740,
       "num": 165740,
       "word": "JDG战胜FPX",
@@ -4019,20 +4051,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 163606,
-      "num": 163606,
-      "word": "张本智和透露战胜王楚钦秘诀",
-      "onboard_time": 1754980103,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162916,
       "num": 162916,
       "word": "百果园去年净利润亏3亿",
       "onboard_time": 1754820441,
       "rank": 25,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 162894,
+      "num": 162894,
+      "word": "777777靓号携号转网受限",
+      "onboard_time": 1754978543,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162301,
@@ -4667,12 +4699,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 146936,
-      "num": 146936,
-      "word": "777777靓号携号转网受限",
-      "onboard_time": 1754978543,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 146983,
+      "num": 146983,
+      "word": "被同事宠坏了怎么办",
+      "onboard_time": 1754981541,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 146883,
@@ -4824,6 +4856,14 @@
       "word": "孙颖莎说没有想的这么轻松",
       "onboard_time": 1754823622,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143137,
+      "num": 143137,
+      "word": "张本智和说医疗暂停又不是不能用",
+      "onboard_time": 1754981183,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -5193,6 +5233,14 @@
       "onboard_time": 1754968461,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135673,
+      "num": 157049,
+      "word": "内娱第一个明星摆摊综艺来了",
+      "onboard_time": 1754979862,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 135328,
@@ -5851,14 +5899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123649,
-      "num": 123649,
-      "word": "张萌说关晓彤三年前演21三年后演18岁",
-      "onboard_time": 1754980762,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123507,
       "num": 123507,
       "word": "贵州一民宿房间内装了2个摄像头",
@@ -6129,6 +6169,14 @@
       "onboard_time": 1754892442,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118308,
+      "num": 121457,
+      "word": "胖东来货车司机休息室曝光",
+      "onboard_time": 1754979561,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118163,
@@ -6531,6 +6579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111913,
+      "num": 111913,
+      "word": "旭旭宝宝想生四胎",
+      "onboard_time": 1754981362,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111910,
       "num": 111910,
       "word": "九头身裁判跳舞",
@@ -6553,6 +6609,14 @@
       "onboard_time": 1754965281,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111671,
+      "num": 111671,
+      "word": "鬼鬼生日cos小燕子",
+      "onboard_time": 1754980522,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 111531,
@@ -6777,14 +6841,6 @@
       "onboard_time": 1754815522,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108872,
-      "num": 108872,
-      "word": "鬼鬼生日cos小燕子",
-      "onboard_time": 1754980522,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 108851,
@@ -7057,14 +7113,6 @@
       "onboard_time": 1754812342,
       "rank": 48,
       "category": "体育,演出"
-    },
-    {
-      "raw_hot": 104727,
-      "num": 121457,
-      "word": "胖东来货车司机休息室曝光",
-      "onboard_time": 1754979561,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104619,
@@ -7457,14 +7505,6 @@
       "onboard_time": 1754748624,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92020,
-      "num": 157049,
-      "word": "内娱第一个明星摆摊综艺来了",
-      "onboard_time": 1754979862,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 91835,
@@ -8123,6 +8163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54384,
+      "num": 129838,
+      "word": "上海地铁回应男子辱骂乘客乡下人滚",
+      "onboard_time": 1754980882,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53661,
       "num": 105796,
       "word": "沈腾没去披哥去乘风破浪了",
@@ -8280,6 +8328,14 @@
       "word": "日本麦当劳道歉",
       "onboard_time": 1754897544,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43639,
+      "num": 130142,
+      "word": "高考数学143分独臂少年考上公务员",
+      "onboard_time": 1754981481,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
