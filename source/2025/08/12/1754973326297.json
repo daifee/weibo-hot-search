@@ -1,0 +1,410 @@
+{
+  "runTime": 1754973326297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1137183,
+        "num": 1181949,
+        "word": "因涉嫌猥亵儿童被同监室男子打断肋骨",
+        "onboard_time": 1754968401,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 988560,
+        "num": 988560,
+        "word": "那英 内娱通讯录",
+        "onboard_time": 1754971762,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51091,
+        "num": 940867,
+        "word": "网警双管齐下治理直播乱象",
+        "onboard_time": 1754955500,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933595,
+        "num": 933595,
+        "word": "iPhone17Pro最新外观曝光",
+        "onboard_time": 1754958862,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 633492,
+        "num": 633492,
+        "word": "C罗向乔治娜求婚成功",
+        "onboard_time": 1754954660,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1180351,
+        "num": 631903,
+        "word": "赵露思根本没有开通朋友圈",
+        "onboard_time": 1754966242,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700963,
+        "num": 631857,
+        "word": "尼坤胖成黄磊了",
+        "onboard_time": 1754965820,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628951,
+        "num": 628951,
+        "word": "林瀚晚晚婉拒再见爱人",
+        "onboard_time": 1754971882,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525717,
+        "num": 525717,
+        "word": "不上班后才看清的真实现状",
+        "onboard_time": 1754970204,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362764,
+        "num": 362764,
+        "word": "苍山失联男孩夏令营清空社交账号",
+        "onboard_time": 1754968340,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628809,
+        "num": 361017,
+        "word": "刘亦菲也会闯祸",
+        "onboard_time": 1754970863,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524791,
+        "num": 355302,
+        "word": "易烊千玺演唱会 谁抢到了",
+        "onboard_time": 1754969782,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 501781,
+        "num": 353316,
+        "word": "赵露思称公司让按3比7赔钱",
+        "onboard_time": 1754971522,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497595,
+        "num": 347914,
+        "word": "鸡蛋事件男子同意和妻子离婚",
+        "onboard_time": 1754961382,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325115,
+        "num": 345445,
+        "word": "中美再次暂停实施24%关税90天",
+        "onboard_time": 1754957781,
+        "rank": 14,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 175872,
+        "num": 337462,
+        "word": "电影731揭开活体实验真相",
+        "onboard_time": 1754968161,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 393741,
+        "num": 332910,
+        "word": "霉霉新专辑TS12",
+        "onboard_time": 1754971162,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332646,
+        "num": 332646,
+        "word": "爱马仕继承人150亿美元股票不翼而飞",
+        "onboard_time": 1754968882,
+        "rank": 17,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 322962,
+        "num": 322962,
+        "word": "婚内强奸案今日开庭",
+        "onboard_time": 1754966542,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286256,
+        "num": 286256,
+        "word": "外卖员接神秘猪脚饭订单果断举报",
+        "onboard_time": 1754963660,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330201,
+        "num": 281040,
+        "word": "中国人开始提老祖宗了那你基本完了",
+        "onboard_time": 1754971403,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248862,
+        "num": 248862,
+        "word": "王楚钦9冠孙颖莎12冠",
+        "onboard_time": 1754971102,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237797,
+        "num": 237797,
+        "word": "沈阳警方通报车辆撞人事件",
+        "onboard_time": 1754959281,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 223685,
+        "num": 223685,
+        "word": "发现朋友圈没有了生活痕迹",
+        "onboard_time": 1754968942,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206678,
+        "num": 206678,
+        "word": "周涛我不想努力了",
+        "onboard_time": 1754971882,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190811,
+        "num": 204445,
+        "word": "小米门锁误识外卖员人脸开锁成功",
+        "onboard_time": 1754971463,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202533,
+        "num": 202533,
+        "word": "战至巅峰官宣魔王挑战队",
+        "onboard_time": 1754973084,
+        "rank": 26,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 195098,
+        "num": 195098,
+        "word": "台风杨柳预计明日登陆我国",
+        "onboard_time": 1754964621,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191295,
+        "num": 191295,
+        "word": "陈数 梦中情师",
+        "onboard_time": 1754972665,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119749,
+        "num": 190801,
+        "word": "许凯田曦薇浴桶吻戏",
+        "onboard_time": 1754972423,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190448,
+        "num": 190448,
+        "word": "台7岁女童火化前舌头咽喉不见了",
+        "onboard_time": 1754926522,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188497,
+        "num": 188497,
+        "word": "中科院博士青岛崂山开民宿年入400万",
+        "onboard_time": 1754969001,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183661,
+        "num": 183661,
+        "word": "iPhone17Pro长得像充电宝",
+        "onboard_time": 1754972784,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182882,
+        "num": 182882,
+        "word": "泰国发现一女尸被锁链锁住脖子",
+        "onboard_time": 1754922385,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174560,
+        "num": 174560,
+        "word": "因为一条路买了一套房",
+        "onboard_time": 1754969842,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173903,
+        "num": 173903,
+        "word": "王赫野实体专辑配置公开",
+        "onboard_time": 1754973084,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172261,
+        "num": 172261,
+        "word": "打水仗感染食脑虫男童去世",
+        "onboard_time": 1754973144,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165082,
+        "num": 165082,
+        "word": "女子闪婚后一个月遭三次家暴",
+        "onboard_time": 1754969782,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78680,
+        "num": 162872,
+        "word": "仅17岁的董事长任职未满一年",
+        "onboard_time": 1754972242,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150625,
+        "num": 161959,
+        "word": "教培机构 贩卖焦虑",
+        "onboard_time": 1754972183,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161264,
+        "num": 161264,
+        "word": "张小婉称家中蟑螂疑是快递运来",
+        "onboard_time": 1754959400,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153143,
+        "num": 153143,
+        "word": "易烊千玺北京站座位图",
+        "onboard_time": 1754969302,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150508,
+        "num": 150508,
+        "word": "恋爱式友情",
+        "onboard_time": 1754969602,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142734,
+        "num": 142734,
+        "word": "怀孕后才知道妈妈漏尿多年",
+        "onboard_time": 1754973203,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120748,
+        "num": 142445,
+        "word": "宝妈母婴室哺乳遭大爷拉帘",
+        "onboard_time": 1754972062,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142403,
+        "num": 142403,
+        "word": "余宇涵录节目掉海里了",
+        "onboard_time": 1754971882,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137430,
+        "num": 137430,
+        "word": "王者荣耀周边别太离谱了",
+        "onboard_time": 1754971882,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135830,
+        "num": 135830,
+        "word": "女子让螳螂吃掉颈后肉瘊子",
+        "onboard_time": 1754951775,
+        "rank": 47,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 135269,
+        "num": 135269,
+        "word": "iPhone17或全系标配eSIM卡",
+        "onboard_time": 1754969963,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133933,
+        "num": 133933,
+        "word": "恋与深空登顶",
+        "onboard_time": 1754969602,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与人民在一起#"
+    }
+  }
+}

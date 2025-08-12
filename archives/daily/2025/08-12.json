@@ -1,6 +1,6 @@
 {
   "startTime": 1754930181881,
-  "endTime": 1754969833094,
+  "endTime": 1754973326297,
   "band_list": [
     {
       "raw_hot": 1811709,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1137183,
+      "num": 1181949,
+      "word": "因涉嫌猥亵儿童被同监室男子打断肋骨",
+      "onboard_time": 1754968401,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1130663,
       "num": 1102649,
       "word": "尼坤胖成黄磊了",
@@ -57,6 +65,14 @@
       "onboard_time": 1754961382,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 988560,
+      "num": 988560,
+      "word": "那英 内娱通讯录",
+      "onboard_time": 1754971762,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 975484,
@@ -115,6 +131,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 628951,
+      "num": 628951,
+      "word": "林瀚晚晚婉拒再见爱人",
+      "onboard_time": 1754971882,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 628809,
+      "num": 361017,
+      "word": "刘亦菲也会闯祸",
+      "onboard_time": 1754970863,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595587,
       "num": 595587,
       "word": "沈阳警方通报车辆撞人事件",
@@ -139,6 +171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525717,
+      "num": 525717,
+      "word": "不上班后才看清的真实现状",
+      "onboard_time": 1754970204,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 524791,
+      "num": 355302,
+      "word": "易烊千玺演唱会 谁抢到了",
+      "onboard_time": 1754969782,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 518601,
       "num": 398545,
       "word": "鸡蛋事件男子发文道歉",
@@ -153,6 +201,14 @@
       "onboard_time": 1754924245,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 501781,
+      "num": 353316,
+      "word": "赵露思称公司让按3比7赔钱",
+      "onboard_time": 1754971522,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 499421,
@@ -203,12 +259,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393741,
+      "num": 332910,
+      "word": "霉霉新专辑TS12",
+      "onboard_time": 1754971162,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 362764,
+      "num": 362764,
+      "word": "苍山失联男孩夏令营清空社交账号",
+      "onboard_time": 1754968340,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332646,
+      "num": 332646,
+      "word": "爱马仕继承人150亿美元股票不翼而飞",
+      "onboard_time": 1754968882,
+      "rank": 42,
+      "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 330201,
+      "num": 281040,
+      "word": "中国人开始提老祖宗了那你基本完了",
+      "onboard_time": 1754971403,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327288,
       "num": 327288,
       "word": "赵露思称拍戏遥遥无期",
       "onboard_time": 1754961322,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322962,
+      "num": 322962,
+      "word": "婚内强奸案今日开庭",
+      "onboard_time": 1754966542,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321549,
@@ -219,28 +315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317664,
-      "num": 317664,
-      "word": "因涉嫌猥亵儿童被同监室男子打断肋骨",
-      "onboard_time": 1754968401,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307021,
       "num": 307021,
       "word": "王一博和嬛嬛都是标准发缝发量优秀",
       "onboard_time": 1754964502,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 304824,
-      "num": 304824,
-      "word": "婚内强奸案今日开庭",
-      "onboard_time": 1754966542,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293739,
@@ -275,14 +355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 255825,
-      "num": 229901,
-      "word": "苍山失联男孩夏令营清空社交账号",
-      "onboard_time": 1754968340,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255215,
       "num": 255215,
       "word": "王楚钦vs张本智和",
@@ -297,6 +369,14 @@
       "onboard_time": 1754957722,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 248862,
+      "num": 248862,
+      "word": "王楚钦9冠孙颖莎12冠",
+      "onboard_time": 1754971102,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 238883,
@@ -323,14 +403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 228655,
-      "num": 228655,
-      "word": "爱马仕继承人150亿美元股票不翼而飞",
-      "onboard_time": 1754968882,
-      "rank": 42,
-      "category": "海外新闻,财经"
-    },
-    {
       "raw_hot": 226535,
       "num": 226535,
       "word": "sana回应与权志龙恋爱传闻",
@@ -353,6 +425,30 @@
       "onboard_time": 1754954358,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223685,
+      "num": 223685,
+      "word": "发现朋友圈没有了生活痕迹",
+      "onboard_time": 1754968942,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 206678,
+      "num": 206678,
+      "word": "周涛我不想努力了",
+      "onboard_time": 1754971882,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202533,
+      "num": 202533,
+      "word": "战至巅峰官宣魔王挑战队",
+      "onboard_time": 1754973084,
+      "rank": 26,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 197776,
@@ -384,6 +480,22 @@
       "word": "中科院博士青岛崂山开民宿年入400万",
       "onboard_time": 1754969001,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191295,
+      "num": 191295,
+      "word": "陈数 梦中情师",
+      "onboard_time": 1754972665,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190811,
+      "num": 204445,
+      "word": "小米门锁误识外卖员人脸开锁成功",
+      "onboard_time": 1754971463,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -427,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183661,
+      "num": 183661,
+      "word": "iPhone17Pro长得像充电宝",
+      "onboard_time": 1754972784,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181229,
       "num": 181229,
       "word": "张馨予妈妈给她睡了扁头",
@@ -451,6 +571,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175872,
+      "num": 337462,
+      "word": "电影731揭开活体实验真相",
+      "onboard_time": 1754968161,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 174560,
+      "num": 174560,
+      "word": "因为一条路买了一套房",
+      "onboard_time": 1754969842,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 173903,
+      "num": 173903,
+      "word": "王赫野实体专辑配置公开",
+      "onboard_time": 1754973084,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173015,
       "num": 173015,
       "word": "许昕说陈幸同又不是外协的",
@@ -465,6 +609,14 @@
       "onboard_time": 1754901862,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172261,
+      "num": 172261,
+      "word": "打水仗感染食脑虫男童去世",
+      "onboard_time": 1754973144,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171109,
@@ -483,20 +635,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165082,
+      "num": 165082,
+      "word": "女子闪婚后一个月遭三次家暴",
+      "onboard_time": 1754969782,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160901,
       "num": 160901,
       "word": "王星越不收礼物更不收孩子",
       "onboard_time": 1754933836,
       "rank": 38,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 160568,
-      "num": 160568,
-      "word": "发现朋友圈没有了生活痕迹",
-      "onboard_time": 1754968942,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 159820,
@@ -513,14 +665,6 @@
       "onboard_time": 1754929042,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158931,
-      "num": 181351,
-      "word": "电影731揭开活体实验真相",
-      "onboard_time": 1754968161,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 157727,
@@ -553,6 +697,22 @@
       "onboard_time": 1754921183,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150625,
+      "num": 161959,
+      "word": "教培机构 贩卖焦虑",
+      "onboard_time": 1754972183,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150508,
+      "num": 150508,
+      "word": "恋爱式友情",
+      "onboard_time": 1754969602,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 149660,
@@ -603,6 +763,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142734,
+      "num": 142734,
+      "word": "怀孕后才知道妈妈漏尿多年",
+      "onboard_time": 1754973203,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142403,
+      "num": 142403,
+      "word": "余宇涵录节目掉海里了",
+      "onboard_time": 1754971882,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141878,
       "num": 141878,
       "word": "没认识我媳妇前她生活深不可测",
@@ -624,6 +800,14 @@
       "word": "恋与深空开门",
       "onboard_time": 1754961081,
       "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 137430,
+      "num": 137430,
+      "word": "王者荣耀周边别太离谱了",
+      "onboard_time": 1754971882,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -659,20 +843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132580,
-      "num": 132580,
+      "raw_hot": 135269,
+      "num": 135269,
+      "word": "iPhone17或全系标配eSIM卡",
+      "onboard_time": 1754969963,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 133933,
+      "num": 133933,
       "word": "恋与深空登顶",
       "onboard_time": 1754969602,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132273,
-      "num": 132273,
-      "word": "恋爱式友情",
-      "onboard_time": 1754969602,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 132146,
@@ -681,14 +865,6 @@
       "onboard_time": 1754957842,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130855,
-      "num": 130855,
-      "word": "易烊千玺演唱会 谁抢到了",
-      "onboard_time": 1754969782,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 130707,
@@ -769,6 +945,22 @@
       "onboard_time": 1754968702,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120748,
+      "num": 142445,
+      "word": "宝妈母婴室哺乳遭大爷拉帘",
+      "onboard_time": 1754972062,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119749,
+      "num": 190801,
+      "word": "许凯田曦薇浴桶吻戏",
+      "onboard_time": 1754972423,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 115229,
@@ -1059,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78680,
+      "num": 162872,
+      "word": "仅17岁的董事长任职未满一年",
+      "onboard_time": 1754972242,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78658,
       "num": 78658,
       "word": "苍山失联男童参加的夏令营一周3800元",
@@ -1113,14 +1313,6 @@
       "onboard_time": 1754910506,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60016,
-      "num": 132739,
-      "word": "女子闪婚后一个月遭三次家暴",
-      "onboard_time": 1754969782,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58910,
