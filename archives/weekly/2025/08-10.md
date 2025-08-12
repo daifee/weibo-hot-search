@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/10 00:32:08 ~ 2025/08/13 03:38:02
+本榜单时间：2025/08/10 00:32:08 ~ 2025/08/13 04:30:37
 </p>
 </blockquote>
 <p>
@@ -8139,6 +8139,12 @@ GT新成员闪现保时捷中心（热度：29493）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E6%8E%A28%E5%B2%81%E8%B5%B0%E5%A4%B1%E7%94%B7%E7%AB%A5%E6%B6%89%E4%BA%8B%E5%A4%8F%E4%BB%A4%E8%90%A5%23" target="weibo">
+实探8岁走失男童涉事夏令营（热度：18325）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%AF%B419%E5%8F%B7%E5%B0%8F%E6%80%AA%E7%89%A9%E5%8F%AB%E6%94%BE%E9%9D%92%E6%9D%BE%23" target="weibo">
 汪苏泷说19号小怪物叫放青松（热度：17985）
 </a>
@@ -8225,6 +8231,12 @@ GT新成员闪现保时捷中心（热度：29493）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9C%E5%AE%B6%E5%AE%A3%E5%B8%83%E5%85%A5%E9%A9%BB%E4%BA%AC%E4%B8%9C%23" target="weibo">
 宜家宣布入驻京东（热度：14622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E8%A2%AB%E6%8C%87%E6%96%87%E5%8C%96%E6%8C%AA%E7%94%A8%23" target="weibo">
+阿迪达斯被指文化挪用（热度：14322）
 </a>
 </li>
 
