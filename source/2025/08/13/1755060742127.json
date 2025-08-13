@@ -1,0 +1,410 @@
+{
+  "runTime": 1755060742127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3236702,
+        "num": 3236702,
+        "word": "赵露思 苹果汁价格",
+        "onboard_time": 1755058763,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715169,
+        "num": 715169,
+        "word": "苹果折叠屏",
+        "onboard_time": 1755057742,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 16634,
+        "num": 713065,
+        "word": "紧急预拨1.7亿元支持7省市救灾",
+        "onboard_time": 1754999663,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1659111,
+        "num": 711727,
+        "word": "房东税来了",
+        "onboard_time": 1755050421,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 720999,
+        "num": 706716,
+        "word": "男子烧衣泄愤致母亲死亡",
+        "onboard_time": 1755054923,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1237662,
+        "num": 702625,
+        "word": "赵露思闺蜜回应助农",
+        "onboard_time": 1755054923,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702501,
+        "num": 702501,
+        "word": "何广智 冠军",
+        "onboard_time": 1755057502,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599847,
+        "num": 599847,
+        "word": "美国驱逐舰非法闯入中国黄岩岛领海",
+        "onboard_time": 1755056542,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 578881,
+        "num": 578881,
+        "word": "W盛典 迪丽热巴",
+        "onboard_time": 1755057201,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 520625,
+        "num": 520625,
+        "word": "吃鸡蛋事件 剧本",
+        "onboard_time": 1755006866,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1158434,
+        "num": 461132,
+        "word": "吴谨言约饭于正坦白结婚",
+        "onboard_time": 1755058822,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608960,
+        "num": 457806,
+        "word": "杜江霍思燕一家四口同框",
+        "onboard_time": 1755050241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401034,
+        "num": 401034,
+        "word": "男子结婚22年发现俩儿子都不是亲生",
+        "onboard_time": 1755057682,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330588,
+        "num": 330588,
+        "word": "时代少年团 输给你的朋友很丢人吗",
+        "onboard_time": 1755055822,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294978,
+        "num": 294978,
+        "word": "宋仲基时隔9年回归爱情剧",
+        "onboard_time": 1755060024,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250192,
+        "num": 250192,
+        "word": "NIKE起诉陈冠希索赔90万",
+        "onboard_time": 1755052641,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232511,
+        "num": 232511,
+        "word": "南部战区回应美舰非法闯入黄岩岛领海",
+        "onboard_time": 1755054923,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68095,
+        "num": 232142,
+        "word": "奥迪E5竞品是谁",
+        "onboard_time": 1755056902,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 231998,
+        "num": 231998,
+        "word": "郭麒麟婉拒郭德纲",
+        "onboard_time": 1755051381,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85250,
+        "num": 226628,
+        "word": "旧手机换菜刀靠谱吗",
+        "onboard_time": 1755059544,
+        "rank": 19,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 226034,
+        "num": 226034,
+        "word": "方圆脸瘦20斤变化",
+        "onboard_time": 1755059723,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 217589,
+        "num": 217589,
+        "word": "男子打捞手机意外吸出百发子弹",
+        "onboard_time": 1755059723,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217426,
+        "num": 217426,
+        "word": "钟丽缇女儿Jaden膝盖手术",
+        "onboard_time": 1755058223,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205652,
+        "num": 205652,
+        "word": "奔驰CEO警告没有燃油车的后果",
+        "onboard_time": 1755058642,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201356,
+        "num": 201356,
+        "word": "第一次不想抽到隐藏款",
+        "onboard_time": 1755060084,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192751,
+        "num": 192751,
+        "word": "洛川苹果",
+        "onboard_time": 1755056781,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118973,
+        "num": 178178,
+        "word": "抗战胜利80周年",
+        "onboard_time": 1755055401,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177225,
+        "num": 177225,
+        "word": "广州空姐公寓楼",
+        "onboard_time": 1755052882,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174544,
+        "num": 174544,
+        "word": "印度女子在拥挤车厢呼吸困难被起哄",
+        "onboard_time": 1755055582,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171247,
+        "num": 171247,
+        "word": "刘轩丞刘骏村里唯二大学生",
+        "onboard_time": 1755059123,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190244,
+        "num": 170998,
+        "word": "男子因女友穿裙子出门对其殴打强奸",
+        "onboard_time": 1755008846,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170164,
+        "num": 170164,
+        "word": "A股慢牛已成共识",
+        "onboard_time": 1755060324,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168704,
+        "num": 168704,
+        "word": "日本一女子36岁成外婆",
+        "onboard_time": 1755051081,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162842,
+        "num": 162842,
+        "word": "西安地铁回应实时显示车厢拥挤情况",
+        "onboard_time": 1755059783,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161445,
+        "num": 161445,
+        "word": "国家烟草局一原副局长被判15年",
+        "onboard_time": 1755051261,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160457,
+        "num": 160457,
+        "word": "阴阳师魔卡少女樱",
+        "onboard_time": 1755058161,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52778,
+        "num": 157068,
+        "word": "欧盟26国声明支持乌克兰入盟",
+        "onboard_time": 1755049941,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153691,
+        "num": 153691,
+        "word": "桐心薇泯",
+        "onboard_time": 1755057443,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119644,
+        "num": 151674,
+        "word": "个人消费贷款贴息",
+        "onboard_time": 1755060445,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 99535,
+        "num": 151442,
+        "word": "刘骏不愧是播音主持专业的",
+        "onboard_time": 1755060084,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151362,
+        "num": 151362,
+        "word": "杨洋回应饰演宋焰后消失两年",
+        "onboard_time": 1755042862,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146113,
+        "num": 146113,
+        "word": "立邦创始人吴清亮去世",
+        "onboard_time": 1755060564,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141271,
+        "num": 141271,
+        "word": "FPX暂停与milkyway合作",
+        "onboard_time": 1755053663,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116484,
+        "num": 138917,
+        "word": "李维嘉回应被传洁癖",
+        "onboard_time": 1755059483,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138267,
+        "num": 138267,
+        "word": "医院外请专家做手术被举报",
+        "onboard_time": 1755057682,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135826,
+        "num": 135826,
+        "word": "花少3和花少5旅行的氛围也很好",
+        "onboard_time": 1755049042,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95125,
+        "num": 134405,
+        "word": "细菌战幸存者说腿上的肉一洗就掉渣",
+        "onboard_time": 1755052460,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134311,
+        "num": 134311,
+        "word": "网剧乱码迷局开播",
+        "onboard_time": 1755060683,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133547,
+        "num": 133547,
+        "word": "张成教练说医疗暂停影响了王楚钦",
+        "onboard_time": 1755060564,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129036,
+        "num": 129036,
+        "word": "姐姐妹妹抓娃娃",
+        "onboard_time": 1755053302,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从两山理念与实践看中国与世界#"
+    }
+  }
+}
