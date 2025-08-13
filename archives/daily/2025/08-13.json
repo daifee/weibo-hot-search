@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755093232429,
+  "endTime": 1755095288260,
   "band_list": [
     {
       "raw_hot": 10266956,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 970150,
+      "num": 743947,
+      "word": "杨幂演技",
+      "onboard_time": 1755091165,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 958249,
       "num": 958249,
       "word": "男子转账3500元备注彩礼要求返还被驳回",
@@ -243,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 900588,
-      "num": 743947,
-      "word": "杨幂演技",
-      "onboard_time": 1755091165,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 889136,
+      "num": 333556,
+      "word": "李行亮父女共用一张脸",
+      "onboard_time": 1755094224,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 852755,
@@ -273,6 +281,14 @@
       "onboard_time": 1755080423,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 797280,
+      "num": 370014,
+      "word": "Aaaaapple品牌报警",
+      "onboard_time": 1755092186,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 778455,
@@ -395,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 613980,
+      "num": 613980,
+      "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
+      "onboard_time": 1755091825,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 608186,
       "num": 484134,
       "word": "女子出差遭老板性侵被认定为工伤",
@@ -451,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 549257,
-      "num": 549257,
-      "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
-      "onboard_time": 1755091825,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 525890,
       "num": 525890,
       "word": "郭麒麟婉拒郭德纲",
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 512911,
+      "num": 512911,
+      "word": "高三男生被邻居驾车撞伤一年后身亡",
+      "onboard_time": 1755091585,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510075,
       "num": 452004,
       "word": "被耐克起诉后陈冠希发文",
@@ -505,14 +529,6 @@
       "onboard_time": 1755003926,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 494399,
-      "num": 370014,
-      "word": "Aaaaapple品牌报警",
-      "onboard_time": 1755092186,
-      "rank": 32,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 479298,
@@ -720,14 +736,6 @@
       "word": "吃鸡蛋事件妇联称已初步掌握经过",
       "onboard_time": 1755049821,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321257,
-      "num": 321257,
-      "word": "高三男生被邻居驾车撞伤一年后身亡",
-      "onboard_time": 1755091585,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1091,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221926,
+      "num": 221926,
+      "word": "亚朵酒店被曝疑现别人用过的牙签",
+      "onboard_time": 1755093684,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220797,
       "num": 199648,
       "word": "W盛典好多人啊",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1755070582,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214542,
+      "num": 214542,
+      "word": "月亮",
+      "onboard_time": 1755094464,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 212160,
@@ -1161,6 +1185,14 @@
       "onboard_time": 1755081923,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 205844,
+      "num": 205844,
+      "word": "杨幂坐收cvb实绩了",
+      "onboard_time": 1755095065,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 204889,
@@ -1299,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195675,
+      "num": 228963,
+      "word": "95后记者在加沙被打死",
+      "onboard_time": 1755091464,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 194955,
       "num": 204650,
       "word": "花少7国际排面拉满",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1755077425,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189667,
+      "num": 189667,
+      "word": "藏在朋友之间的微妙恶意",
+      "onboard_time": 1755094105,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189038,
@@ -1523,6 +1571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 173844,
+      "num": 173844,
+      "word": "菲律宾前选美皇后沉尸大海",
+      "onboard_time": 1755091945,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 173737,
       "num": 173737,
       "word": "学会这些饮品做法就不用出去买了",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1755077485,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 172505,
+      "num": 172505,
+      "word": "早睡1小时或能变瘦变开心",
+      "onboard_time": 1755094944,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171682,
@@ -1611,12 +1675,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 168106,
-      "num": 168106,
-      "word": "菲律宾前选美皇后沉尸大海",
-      "onboard_time": 1755091945,
-      "rank": 34,
-      "category": "海外新闻"
+      "raw_hot": 166812,
+      "num": 173910,
+      "word": "充电宝3C认证新规8月15日实施",
+      "onboard_time": 1755086785,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166680,
@@ -1641,14 +1705,6 @@
       "onboard_time": 1755056242,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163605,
-      "num": 163605,
-      "word": "95后记者在加沙被打死",
-      "onboard_time": 1755091464,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 162907,
@@ -1769,14 +1825,6 @@
       "onboard_time": 1755067882,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154006,
-      "num": 173910,
-      "word": "充电宝3C认证新规8月15日实施",
-      "onboard_time": 1755086785,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152112,
@@ -2267,6 +2315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 128873,
+      "num": 128873,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1755094224,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128785,
       "num": 128785,
       "word": "王楚钦成外协冲击主要目标",
@@ -2329,6 +2385,14 @@
       "onboard_time": 1755063743,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124371,
+      "num": 124371,
+      "word": "生万物质感",
+      "onboard_time": 1755094043,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 124362,
@@ -2643,6 +2707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110428,
+      "num": 110428,
+      "word": "周也小比就是什么都比",
+      "onboard_time": 1755095126,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110129,
       "num": 110129,
       "word": "张俊跟杜华说自己之前是乐华的",
@@ -2721,6 +2793,14 @@
       "onboard_time": 1755045503,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 106915,
+      "num": 106915,
+      "word": "台风登陆前厦门现世纪晚霞",
+      "onboard_time": 1755094163,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106404,
@@ -2809,6 +2889,14 @@
       "onboard_time": 1755050062,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101708,
+      "num": 101708,
+      "word": "肖战版的竹石力量感爆满",
+      "onboard_time": 1755094285,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 101221,
@@ -2945,6 +3033,14 @@
       "onboard_time": 1755049941,
       "rank": 48,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 96357,
+      "num": 96357,
+      "word": "小猫会觉得小猫摸起来软软的吗",
+      "onboard_time": 1755094163,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 95991,
@@ -3224,6 +3320,14 @@
       "word": "深圳一公司拿100万鼓励员工减重",
       "onboard_time": 1755016281,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68548,
+      "num": 239295,
+      "word": "妈妈带两孩子避雨称遭保安驱赶",
+      "onboard_time": 1755093684,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
