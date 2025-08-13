@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755123972095,
+  "endTime": 1755124958157,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -147,6 +147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190480,
+      "num": 190480,
+      "word": "终于有人吐槽现在的婚礼流程了",
+      "onboard_time": 1755110235,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186030,
       "num": 173592,
       "word": "生万物",
@@ -171,12 +179,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 159425,
-      "num": 159425,
-      "word": "终于有人吐槽现在的婚礼流程了",
-      "onboard_time": 1755110235,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 166128,
+      "num": 166128,
+      "word": "19岁女生被刺死亲属几天都睡不着觉",
+      "onboard_time": 1755099384,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148080,
@@ -211,20 +219,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137592,
+      "num": 137592,
+      "word": "金建希在看守所每餐餐标约9元人民币",
+      "onboard_time": 1755102862,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 135813,
+      "num": 135813,
+      "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
+      "onboard_time": 1755091825,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131269,
       "num": 175438,
       "word": "菲律宾前选美皇后沉尸大海",
       "onboard_time": 1755091945,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 129986,
-      "num": 129986,
-      "word": "19岁女生被刺死亲属几天都睡不着觉",
-      "onboard_time": 1755099384,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125121,
@@ -267,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120675,
-      "num": 120675,
-      "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
-      "onboard_time": 1755091825,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117156,
       "num": 168930,
       "word": "普京将和特朗普一对一会晤",
@@ -297,14 +305,6 @@
       "onboard_time": 1755092186,
       "rank": 27,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 107346,
-      "num": 107346,
-      "word": "金建希在看守所每餐餐标约9元人民币",
-      "onboard_time": 1755102862,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107329,
@@ -475,6 +475,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 56377,
+      "num": 48358,
+      "word": "天猫娃哈哈旗舰店改名引出售猜测",
+      "onboard_time": 1755122955,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50583,
       "num": 75960,
       "word": "腾讯总市值达7000亿美元",
@@ -499,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38154,
-      "num": 36732,
-      "word": "天猫娃哈哈旗舰店改名引出售猜测",
-      "onboard_time": 1755122955,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 39601,
+      "num": 42207,
+      "word": "朝鲜82岁播音员李春姬再当班",
+      "onboard_time": 1755092604,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37664,
@@ -531,16 +539,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34320,
-      "num": 42207,
-      "word": "朝鲜82岁播音员李春姬再当班",
-      "onboard_time": 1755092604,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 22790,
-      "num": 26396,
+      "raw_hot": 27647,
+      "num": 32761,
       "word": "研究生终于迎来了迷你暑假",
       "onboard_time": 1755113115,
       "rank": 35,
@@ -585,6 +585,14 @@
       "onboard_time": 1755119894,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12989,
+      "num": 32746,
+      "word": "太原晋祠火爆景区开中门迎客",
+      "onboard_time": 1755123976,
+      "rank": 49,
+      "category": "旅游"
     }
   ],
   "hotgov_list": [
