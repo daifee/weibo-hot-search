@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755111103455,
+  "endTime": 1755112939302,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -5043,6 +5043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 621705,
+      "num": 621705,
+      "word": "eStar兮然",
+      "onboard_time": 1755110235,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 620696,
       "num": 620696,
       "word": "杨幂裤脚",
@@ -5961,14 +5969,6 @@
       "onboard_time": 1755012743,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 554995,
-      "num": 554995,
-      "word": "eStar兮然",
-      "onboard_time": 1755110235,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 554434,
@@ -41219,6 +41219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55647,
+      "num": 55647,
+      "word": "终于有人吐槽现在的婚礼流程了",
+      "onboard_time": 1755110235,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55595,
       "num": 176321,
       "word": "莫迪称印度将成为世界第三大经济体",
@@ -41753,14 +41761,6 @@
       "onboard_time": 1754090837,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 50437,
-      "num": 50437,
-      "word": "终于有人吐槽现在的婚礼流程了",
-      "onboard_time": 1755110235,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 50326,
