@@ -1,0 +1,410 @@
+{
+  "runTime": 1755052074336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 832934,
+        "num": 1133269,
+        "word": "吃鸡蛋事件 剧本",
+        "onboard_time": 1755006866,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473375,
+        "num": 473375,
+        "word": "杨洋回应饰演宋焰后消失两年",
+        "onboard_time": 1755042862,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31262,
+        "num": 429252,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2610173,
+        "num": 415799,
+        "word": "房东税来了",
+        "onboard_time": 1755050421,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 601306,
+        "num": 407851,
+        "word": "女子出差遭老板性侵被认定为工伤",
+        "onboard_time": 1755046942,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389560,
+        "num": 389560,
+        "word": "乒乓球暂停制度持续引争议",
+        "onboard_time": 1755046523,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376682,
+        "num": 376682,
+        "word": "韩国前总统尹锡悦妻子金建希被捕",
+        "onboard_time": 1755049881,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314622,
+        "num": 314622,
+        "word": "今天国际左撇子日",
+        "onboard_time": 1755051022,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230952,
+        "num": 314105,
+        "word": "披哥三公淘汰",
+        "onboard_time": 1755044782,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191629,
+        "num": 313244,
+        "word": "国家烟草局一原副局长被判15年",
+        "onboard_time": 1755051261,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1133116,
+        "num": 312732,
+        "word": "杜江霍思燕一家四口同框",
+        "onboard_time": 1755050241,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554230,
+        "num": 311368,
+        "word": "遇害女大学生当日与朋友去景区游玩",
+        "onboard_time": 1755041719,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488145,
+        "num": 310469,
+        "word": "男子因女友穿裙子出门对其殴打强奸",
+        "onboard_time": 1755008846,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309933,
+        "num": 309933,
+        "word": "日本一女子36岁成外婆",
+        "onboard_time": 1755051081,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 284334,
+        "num": 284334,
+        "word": "顾客自带8200元茅台被餐厅调包",
+        "onboard_time": 1755008846,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262198,
+        "num": 262198,
+        "word": "吃鸡蛋事件妇联称已初步掌握经过",
+        "onboard_time": 1755049821,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261056,
+        "num": 261056,
+        "word": "第11号台风杨柳预计今日登陆",
+        "onboard_time": 1755050002,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234485,
+        "num": 234485,
+        "word": "66岁男子与情人发生关系后猝死",
+        "onboard_time": 1755008665,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225996,
+        "num": 225996,
+        "word": "田曦薇魔童降世",
+        "onboard_time": 1755040760,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184912,
+        "num": 225892,
+        "word": "郭麒麟为拍戏拒绝接班德云社",
+        "onboard_time": 1755008966,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1846161,
+        "num": 224711,
+        "word": "赵露思 之前有个艺人高速倒车",
+        "onboard_time": 1755010045,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252775,
+        "num": 224261,
+        "word": "轻断食的好处不仅是减重",
+        "onboard_time": 1755049941,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 245031,
+        "num": 223150,
+        "word": "花少3和花少5旅行的氛围也很好",
+        "onboard_time": 1755049042,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222552,
+        "num": 222552,
+        "word": "王楚钦孙颖莎左手右手的合作",
+        "onboard_time": 1755049581,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209681,
+        "num": 209681,
+        "word": "包文婧称做医美因对自己不自信",
+        "onboard_time": 1755040700,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209505,
+        "num": 209505,
+        "word": "与女同事暧昧被发现补偿其夫6万",
+        "onboard_time": 1755043522,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203571,
+        "num": 203571,
+        "word": "移动崩了",
+        "onboard_time": 1755049403,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161299,
+        "num": 161299,
+        "word": "郭麒麟婉拒郭德纲",
+        "onboard_time": 1755051381,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158442,
+        "num": 158442,
+        "word": "权志龙涉嫌违反版权法",
+        "onboard_time": 1755050181,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132154,
+        "num": 156232,
+        "word": "丞磊周也cp感",
+        "onboard_time": 1755051261,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190712,
+        "num": 156136,
+        "word": "维达",
+        "onboard_time": 1755013284,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179902,
+        "num": 155955,
+        "word": "赵露思称原本有个工作是跟CardiB录歌",
+        "onboard_time": 1755040760,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155194,
+        "num": 155194,
+        "word": "女子丢包被索要5万是摆拍",
+        "onboard_time": 1755049881,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145582,
+        "num": 145582,
+        "word": "欧盟26国声明支持乌克兰入盟",
+        "onboard_time": 1755049941,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128785,
+        "num": 128785,
+        "word": "王楚钦成外协冲击主要目标",
+        "onboard_time": 1755051500,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125786,
+        "num": 125786,
+        "word": "管乐回应张小婉家里有蟑螂",
+        "onboard_time": 1755050241,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124362,
+        "num": 124362,
+        "word": "国安部提醒警惕旧手机置换风险",
+        "onboard_time": 1755049881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123806,
+        "num": 123806,
+        "word": "沪指创2021年12月以来新高",
+        "onboard_time": 1755051261,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119465,
+        "num": 119465,
+        "word": "又一抗癌博主去世年仅32岁",
+        "onboard_time": 1755038296,
+        "rank": 38,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 118554,
+        "num": 118554,
+        "word": "微信式恋爱",
+        "onboard_time": 1755011003,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113466,
+        "num": 113466,
+        "word": "韩国前第一夫人被拘押",
+        "onboard_time": 1755011965,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107409,
+        "num": 107409,
+        "word": "三亚7199元一晚的酒店虫子成群",
+        "onboard_time": 1755009506,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103440,
+        "num": 103440,
+        "word": "花少7这是香妃扎堆了",
+        "onboard_time": 1755005308,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102348,
+        "num": 102348,
+        "word": "韩安冉计划生七个孩子",
+        "onboard_time": 1755008846,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100113,
+        "num": 100113,
+        "word": "羊水栓塞抢救时的用血量",
+        "onboard_time": 1755042921,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90597,
+        "num": 90597,
+        "word": "脱友2 冠军",
+        "onboard_time": 1755043641,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90057,
+        "num": 90057,
+        "word": "魔道祖师 华莱士",
+        "onboard_time": 1755045503,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88999,
+        "num": 88999,
+        "word": "日本九州暴雨中国游客滞留火车站",
+        "onboard_time": 1755050062,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86236,
+        "num": 86236,
+        "word": "江苏省饭",
+        "onboard_time": 1755049941,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82897,
+        "num": 82897,
+        "word": "阴阳师",
+        "onboard_time": 1755049460,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树造林改善生态任重而道远#"
+    }
+  }
+}
