@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755060742127,
+  "endTime": 1755062887034,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1779,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1185308,
+      "num": 1185308,
+      "word": "苹果折叠屏",
+      "onboard_time": 1755057742,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1178937,
       "num": 1188629,
       "word": "秦岭失联约半个月的驴友找到了",
@@ -2688,6 +2696,14 @@
       "word": "棣欣引力",
       "onboard_time": 1754526382,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 913883,
+      "num": 456259,
+      "word": "赵露思陷假助农风波",
+      "onboard_time": 1755062843,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -3851,14 +3867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 715169,
-      "num": 715169,
-      "word": "苹果折叠屏",
-      "onboard_time": 1755057742,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 714926,
       "num": 714926,
       "word": "邱党3比2林诗栋",
@@ -3889,6 +3897,14 @@
       "onboard_time": 1754476764,
       "rank": 30,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 711689,
+      "num": 453485,
+      "word": "梓渝 泥潭大家都听了嘛",
+      "onboard_time": 1755061582,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 709915,
@@ -6643,6 +6659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473287,
+      "num": 374457,
+      "word": "李沁为了花少去上了化妆课",
+      "onboard_time": 1755062004,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471662,
       "num": 471662,
       "word": "奔驰车逼停摩托双方均不接受调解",
@@ -7457,6 +7481,14 @@
       "onboard_time": 1754834663,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 419028,
+      "num": 373762,
+      "word": "宋仲基时隔9年回归爱情剧",
+      "onboard_time": 1755060024,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 418891,
@@ -8403,6 +8435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373739,
+      "num": 373739,
+      "word": "方圆脸瘦20斤变化",
+      "onboard_time": 1755059723,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 372698,
       "num": 823049,
       "word": "为保八路军孩子她交出了自己孩子",
@@ -8497,6 +8537,14 @@
       "onboard_time": 1754879420,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 364405,
+      "num": 364405,
+      "word": "第一次不想抽到隐藏款",
+      "onboard_time": 1755060084,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 364251,
@@ -10267,14 +10315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294978,
-      "num": 294978,
-      "word": "宋仲基时隔9年回归爱情剧",
-      "onboard_time": 1755060024,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294606,
       "num": 294606,
       "word": "张艺兴 还是要读书啊不然不识字",
@@ -10353,6 +10393,14 @@
       "onboard_time": 1754823862,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292141,
+      "num": 376240,
+      "word": "金建希出庭时念了句中国古诗",
+      "onboard_time": 1755061103,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 291999,
@@ -12363,6 +12411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237518,
+      "num": 208039,
+      "word": "RIIZE助农",
+      "onboard_time": 1755062062,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237322,
       "num": 237322,
       "word": "献鱼定档",
@@ -13009,14 +13065,6 @@
       "onboard_time": 1754722163,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 226034,
-      "num": 226034,
-      "word": "方圆脸瘦20斤变化",
-      "onboard_time": 1755059723,
-      "rank": 20,
-      "category": "运动健身"
     },
     {
       "raw_hot": 225653,
@@ -15163,14 +15211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201356,
-      "num": 201356,
-      "word": "第一次不想抽到隐藏款",
-      "onboard_time": 1755060084,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201334,
       "num": 167215,
       "word": "吴彤说酒吧歌手怎么了",
@@ -15889,6 +15929,14 @@
       "onboard_time": 1754149106,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196214,
+      "num": 196214,
+      "word": "西安地铁回应实时显示车厢拥挤情况",
+      "onboard_time": 1755059783,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196151,
@@ -19011,6 +19059,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 172102,
+      "num": 172102,
+      "word": "雪山失联 20万寻活人5万寻遗体",
+      "onboard_time": 1755062243,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172099,
       "num": 172099,
       "word": "光与夜之恋 萧逸",
@@ -20355,14 +20411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162842,
-      "num": 162842,
-      "word": "西安地铁回应实时显示车厢拥挤情况",
-      "onboard_time": 1755059783,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162814,
       "num": 159231,
       "word": "网红万千惠患心脏早搏",
@@ -20481,6 +20529,14 @@
       "onboard_time": 1754636182,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162225,
+      "num": 162225,
+      "word": "女子出差遭老板性侵获赔110万",
+      "onboard_time": 1755062303,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162183,
@@ -21281,6 +21337,14 @@
       "onboard_time": 1754232626,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157551,
+      "num": 157551,
+      "word": "徐佳莹方回应婚变",
+      "onboard_time": 1755061282,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 157550,
@@ -26571,6 +26635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133389,
+      "num": 133389,
+      "word": "到底谁在吃现在的麻辣烫",
+      "onboard_time": 1755060743,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133360,
       "num": 137178,
       "word": "李兰迪敖瑞鹏 人鬼情未了",
@@ -27777,6 +27849,14 @@
       "onboard_time": 1754297304,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128700,
+      "num": 128700,
+      "word": "胡先煦田嘉瑞根本没喝中药",
+      "onboard_time": 1755062243,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 128617,
@@ -30091,6 +30171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119513,
+      "num": 162298,
+      "word": "卫健委回应女子称孕7周遭医院误诊",
+      "onboard_time": 1755060803,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119480,
       "num": 119480,
       "word": "蔡徐坤手捧茉莉花",
@@ -30161,6 +30249,14 @@
       "onboard_time": 1754356822,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119309,
+      "num": 123320,
+      "word": "管乐大飞脚给苏晓彤一巴掌",
+      "onboard_time": 1755061524,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 119275,
@@ -31073,6 +31169,14 @@
       "onboard_time": 1754148267,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115318,
+      "num": 115318,
+      "word": "沈星回演奏的原因",
+      "onboard_time": 1755062843,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 115281,
@@ -32161,6 +32265,14 @@
       "onboard_time": 1754825481,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 111279,
+      "num": 111279,
+      "word": "731为冻伤实验把活人手冻得只剩骨头",
+      "onboard_time": 1755062182,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111266,
@@ -35139,6 +35251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95190,
+      "num": 117861,
+      "word": "精神病史不是免罪金牌",
+      "onboard_time": 1755061643,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95150,
       "num": 95150,
       "word": "不能只爱她的有趣漂亮",
@@ -35657,6 +35777,14 @@
       "onboard_time": 1753975523,
       "rank": 30,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 91684,
+      "num": 162260,
+      "word": "东极渔民及后代为东极岛发声",
+      "onboard_time": 1755061823,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 91603,
@@ -40417,6 +40545,14 @@
       "onboard_time": 1755012743,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39000,
+      "num": 117736,
+      "word": "杨洋减重20斤",
+      "onboard_time": 1755061643,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 38945,
