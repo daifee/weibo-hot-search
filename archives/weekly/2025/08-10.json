@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755092493123,
+  "endTime": 1755093232429,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -145,6 +145,14 @@
       "onboard_time": 1754977761,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1943930,
+      "num": 1943930,
+      "word": "美国惊现触手兔子专家警告远离",
+      "onboard_time": 1755091464,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1883883,
@@ -523,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1161810,
-      "num": 1185889,
-      "word": "美国惊现触手兔子专家警告远离",
-      "onboard_time": 1755091464,
-      "rank": 0,
-      "category": "海外新闻"
+      "raw_hot": 1174369,
+      "num": 1174369,
+      "word": "生万物收视率",
+      "onboard_time": 1755088764,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1158434,
@@ -707,14 +715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1027385,
-      "num": 1027385,
-      "word": "生万物收视率",
-      "onboard_time": 1755088764,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1020268,
       "num": 597423,
       "word": "管乐 抱歉让大家看到杂乱的屋子",
@@ -841,6 +841,14 @@
       "onboard_time": 1754825003,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 900588,
+      "num": 743947,
+      "word": "杨幂演技",
+      "onboard_time": 1755091165,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 878359,
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 654122,
-      "num": 331913,
+      "num": 341052,
       "word": "嗯哼妹妹长这么大了",
       "onboard_time": 1755076644,
       "rank": 17,
@@ -1683,20 +1691,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549257,
+      "num": 549257,
+      "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
+      "onboard_time": 1755091825,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548264,
       "num": 548264,
       "word": "张本智和 谁教你的庆祝动作",
       "onboard_time": 1754884704,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 547688,
-      "num": 547688,
-      "word": "杨幂演技",
-      "onboard_time": 1755091165,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 546669,
@@ -1913,6 +1921,14 @@
       "onboard_time": 1754990663,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494399,
+      "num": 370014,
+      "word": "Aaaaapple品牌报警",
+      "onboard_time": 1755092186,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 490776,
@@ -2953,6 +2969,14 @@
       "onboard_time": 1754823023,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321257,
+      "num": 321257,
+      "word": "高三男生被邻居驾车撞伤一年后身亡",
+      "onboard_time": 1755091585,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 320371,
@@ -4843,6 +4867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197708,
+      "num": 197708,
+      "word": "登陆少年 海口",
+      "onboard_time": 1755092304,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197662,
       "num": 269852,
       "word": "那年徐志胜还没贴假发片",
@@ -4995,14 +5027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 195000,
-      "num": 195000,
-      "word": "高三男生被邻居驾车撞伤一年后身亡",
-      "onboard_time": 1755091585,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194955,
       "num": 204650,
       "word": "花少7国际排面拉满",
@@ -5033,14 +5057,6 @@
       "onboard_time": 1754829922,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194513,
-      "num": 182413,
-      "word": "登陆少年 海口",
-      "onboard_time": 1755092304,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 194397,
@@ -5899,6 +5915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174907,
+      "num": 174907,
+      "word": "孔雪儿新剧白月光be美学",
+      "onboard_time": 1755092365,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174577,
       "num": 174577,
       "word": "解放军警告驱离美国驱逐舰",
@@ -5947,6 +5971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173737,
+      "num": 173737,
+      "word": "学会这些饮品做法就不用出去买了",
+      "onboard_time": 1755091524,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173485,
       "num": 173485,
       "word": "128GB手机该退出历史了吗",
@@ -5961,14 +5993,6 @@
       "onboard_time": 1754884942,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173307,
-      "num": 173307,
-      "word": "学会这些饮品做法就不用出去买了",
-      "onboard_time": 1755091524,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 173245,
@@ -6043,6 +6067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171682,
+      "num": 171682,
+      "word": "偶遇王鸥孟湛东坐地铁",
+      "onboard_time": 1755090264,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171351,
       "num": 175957,
       "word": "邓紫棋称投资AI公司已赚10倍",
@@ -6073,6 +6105,14 @@
       "onboard_time": 1754927002,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170996,
+      "num": 170996,
+      "word": "网信公安严打自媒体发布不实信息",
+      "onboard_time": 1755091285,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 170957,
@@ -6217,6 +6257,14 @@
       "onboard_time": 1754880560,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168106,
+      "num": 168106,
+      "word": "菲律宾前选美皇后沉尸大海",
+      "onboard_time": 1755091945,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 167499,
@@ -6403,12 +6451,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 163436,
-      "num": 188531,
-      "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
-      "onboard_time": 1755091825,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 163605,
+      "num": 163605,
+      "word": "95后记者在加沙被打死",
+      "onboard_time": 1755091464,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162916,
@@ -6699,14 +6747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157457,
-      "num": 157457,
-      "word": "95后记者在加沙被打死",
-      "onboard_time": 1755091464,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 157375,
       "num": 157375,
       "word": "国乒最新16人参赛名单",
@@ -6891,6 +6931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154006,
+      "num": 173910,
+      "word": "充电宝3C认证新规8月15日实施",
+      "onboard_time": 1755086785,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153985,
       "num": 153985,
       "word": "肖珏一集吃了三回醋",
@@ -7049,22 +7097,6 @@
       "onboard_time": 1755084383,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151447,
-      "num": 151447,
-      "word": "偶遇王鸥孟湛东坐地铁",
-      "onboard_time": 1755090264,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 151312,
-      "num": 151312,
-      "word": "Aaaaapple品牌报警",
-      "onboard_time": 1755092186,
-      "rank": 32,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 151081,
@@ -7475,14 +7507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145528,
-      "num": 145528,
-      "word": "充电宝3C认证新规8月15日实施",
-      "onboard_time": 1755086785,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145352,
       "num": 145352,
       "word": "李晟让小说里的清冷女主有脸了",
@@ -7579,14 +7603,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 143690,
-      "num": 143690,
-      "word": "菲律宾前选美皇后沉尸大海",
-      "onboard_time": 1755091945,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 143688,
       "num": 143688,
       "word": "迪丽热巴邓妍S级向导",
@@ -7673,6 +7689,14 @@
       "onboard_time": 1754971882,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142374,
+      "num": 142374,
+      "word": "朝鲜82岁播音员李春姬再当班",
+      "onboard_time": 1755092604,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142179,
@@ -8417,14 +8441,6 @@
       "onboard_time": 1754923705,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 133845,
-      "num": 133845,
-      "word": "网信公安严打自媒体发布不实信息",
-      "onboard_time": 1755091285,
-      "rank": 38,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 133673,
@@ -9515,6 +9531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120359,
+      "num": 120359,
+      "word": "周也丞磊你们真拍了",
+      "onboard_time": 1755088645,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120231,
       "num": 186974,
       "word": "警方回应7岁小孩在苍山走失",
@@ -9729,14 +9753,6 @@
       "onboard_time": 1755071963,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118185,
-      "num": 118185,
-      "word": "周也丞磊你们真拍了",
-      "onboard_time": 1755088645,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 118163,
@@ -11651,12 +11667,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94369,
+      "num": 171262,
+      "word": "陈卓璇回应是我站的不够高吗",
+      "onboard_time": 1755091464,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94334,
       "num": 94334,
       "word": "天气太热小兔子躲在洞里吃葡萄",
       "onboard_time": 1754879000,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94328,
+      "num": 94328,
+      "word": "男网红直播打老婆说不打白不打",
+      "onboard_time": 1755086963,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94298,
@@ -12161,6 +12193,14 @@
       "onboard_time": 1754868439,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80299,
+      "num": 270821,
+      "word": "男子分手后索回1.8万转账被驳回",
+      "onboard_time": 1755091585,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79926,
@@ -12728,14 +12768,6 @@
       "word": "上海地铁回应男子辱骂乘客乡下人滚",
       "onboard_time": 1754980882,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54102,
-      "num": 176127,
-      "word": "男子分手后索回1.8万转账被驳回",
-      "onboard_time": 1755091585,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
