@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755062887034,
+  "endTime": 1755063949196,
   "band_list": [
     {
       "raw_hot": 3639651,
@@ -33,6 +33,14 @@
       "onboard_time": 1754992222,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2050519,
+      "num": 2050519,
+      "word": "赵露思陷假助农风波",
+      "onboard_time": 1755062843,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1602988,
@@ -72,14 +80,6 @@
       "word": "杜江霍思燕一家四口同框",
       "onboard_time": 1755050241,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 913883,
-      "num": 456259,
-      "word": "赵露思陷假助农风波",
-      "onboard_time": 1755062843,
-      "rank": 5,
       "category": "艺人"
     },
     {
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 657968,
+      "num": 384110,
+      "word": "李沁为了花少去上了化妆课",
+      "onboard_time": 1755062004,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652637,
       "num": 277082,
       "word": "66岁男子与情人发生关系后猝死",
@@ -219,14 +227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 473287,
-      "num": 374457,
-      "word": "李沁为了花少去上了化妆课",
-      "onboard_time": 1755062004,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 460785,
       "num": 460785,
       "word": "广州空姐村",
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408876,
+      "num": 368034,
+      "word": "黄旭熙拍短剧了",
+      "onboard_time": 1755063203,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403925,
       "num": 403925,
       "word": "时代少年团 输给你的朋友很丢人吗",
@@ -275,15 +283,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 376682,
-      "num": 376682,
-      "word": "韩国前总统尹锡悦妻子金建希被捕",
-      "onboard_time": 1755049881,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 373739,
+      "raw_hot": 389139,
       "num": 373739,
       "word": "方圆脸瘦20斤变化",
       "onboard_time": 1755059723,
@@ -291,12 +291,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 364405,
-      "num": 364405,
+      "raw_hot": 388381,
+      "num": 388381,
       "word": "第一次不想抽到隐藏款",
       "onboard_time": 1755060084,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 376682,
+      "num": 376682,
+      "word": "韩国前总统尹锡悦妻子金建希被捕",
+      "onboard_time": 1755049881,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 354470,
@@ -371,20 +379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302133,
+      "num": 376240,
+      "word": "金建希出庭时念了句中国古诗",
+      "onboard_time": 1755061103,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302001,
       "num": 302001,
       "word": "田曦薇魔童降世",
       "onboard_time": 1755040760,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292141,
-      "num": 376240,
-      "word": "金建希出庭时念了句中国古诗",
-      "onboard_time": 1755061103,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 290133,
@@ -417,6 +425,14 @@
       "onboard_time": 1754995403,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 272409,
+      "num": 379827,
+      "word": "男子打捞手机意外吸出百发子弹",
+      "onboard_time": 1755059723,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 267108,
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232582,
+      "num": 232582,
+      "word": "女子出差遭老板性侵获赔110万",
+      "onboard_time": 1755062303,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230596,
       "num": 230596,
       "word": "阴阳师魔卡少女樱",
@@ -560,14 +584,6 @@
       "word": "当地回应景区行凶嫌犯有精神疾病史",
       "onboard_time": 1755006627,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217589,
-      "num": 217589,
-      "word": "男子打捞手机意外吸出百发子弹",
-      "onboard_time": 1755059723,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -651,6 +667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 194060,
+      "num": 194060,
+      "word": "雪山失联 20万寻活人5万寻遗体",
+      "onboard_time": 1755062243,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193665,
       "num": 193665,
       "word": "陈飞宇也演上三生三世了",
@@ -715,10 +739,10 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 172102,
-      "num": 172102,
-      "word": "雪山失联 20万寻活人5万寻遗体",
-      "onboard_time": 1755062243,
+      "raw_hot": 172225,
+      "num": 172225,
+      "word": "女子称怀双胎索要80万男方报警",
+      "onboard_time": 1755062962,
       "rank": 25,
       "category": "民生新闻"
     },
@@ -763,12 +787,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162225,
-      "num": 162225,
-      "word": "女子出差遭老板性侵获赔110万",
-      "onboard_time": 1755062303,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 160651,
+      "num": 160651,
+      "word": "徐佳莹方回应婚变",
+      "onboard_time": 1755061282,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 158856,
@@ -785,14 +809,6 @@
       "onboard_time": 1755000083,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157551,
-      "num": 157551,
-      "word": "徐佳莹方回应婚变",
-      "onboard_time": 1755061282,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 157033,
@@ -841,6 +857,14 @@
       "onboard_time": 1755038296,
       "rank": 48,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 150214,
+      "num": 150214,
+      "word": "丞磊成周也微博铁粉",
+      "onboard_time": 1755063142,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150112,
@@ -905,6 +929,22 @@
       "onboard_time": 1755043641,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142435,
+      "num": 142435,
+      "word": "暑期中国有3部二战片日本有7部",
+      "onboard_time": 1755062962,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 142139,
+      "num": 142139,
+      "word": "731为冻伤实验把活人手冻得只剩骨头",
+      "onboard_time": 1755062182,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141521,
@@ -1051,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125472,
+      "num": 125472,
+      "word": "曝杨幂刘诗诗唐嫣热巴出席W盛典",
+      "onboard_time": 1755063743,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124362,
       "num": 124362,
       "word": "国安部提醒警惕旧手机置换风险",
@@ -1083,6 +1131,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122051,
+      "num": 122051,
+      "word": "苹果新版头显还值得等吗",
+      "onboard_time": 1755063022,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 120786,
+      "num": 162298,
+      "word": "卫健委回应女子称孕7周遭医院误诊",
+      "onboard_time": 1755060803,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120539,
       "num": 147487,
       "word": "数十架中资公司飞机被扣俄罗斯",
@@ -1097,14 +1161,6 @@
       "onboard_time": 1755060445,
       "rank": 38,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 119513,
-      "num": 162298,
-      "word": "卫健委回应女子称孕7周遭医院误诊",
-      "onboard_time": 1755060803,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119309,
@@ -1131,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117721,
+      "num": 117721,
+      "word": "沈星回演奏的原因",
+      "onboard_time": 1755062843,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117354,
       "num": 117354,
       "word": "IVE预告烧千纸鹤争议",
@@ -1147,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115318,
-      "num": 115318,
-      "word": "沈星回演奏的原因",
-      "onboard_time": 1755062843,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114790,
       "num": 314873,
       "word": "奥迪E5竞品是谁",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1755009564,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 112896,
+      "num": 302354,
+      "word": "iPhone无感录音",
+      "onboard_time": 1755063563,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 112561,
@@ -1195,12 +1259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111279,
-      "num": 111279,
-      "word": "731为冻伤实验把活人手冻得只剩骨头",
-      "onboard_time": 1755062182,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 110129,
+      "num": 110129,
+      "word": "张俊跟杜华说自己之前是乐华的",
+      "onboard_time": 1755063622,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 110061,
@@ -1235,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104904,
+      "num": 104904,
+      "word": "生育损伤",
+      "onboard_time": 1755063142,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102983,
       "num": 102983,
       "word": "中方回应特朗普让中国增加大豆订单",
@@ -1249,6 +1321,22 @@
       "onboard_time": 1755050062,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100913,
+      "num": 100913,
+      "word": "台风杨柳或2次登陆我国",
+      "onboard_time": 1755063442,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99944,
+      "num": 99944,
+      "word": "汪苏泷南京",
+      "onboard_time": 1755063861,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 99535,
@@ -1553,6 +1641,14 @@
       "onboard_time": 1755050421,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39371,
+      "num": 320408,
+      "word": "华莱士魔道祖师动画联名抬上来了",
+      "onboard_time": 1755063622,
+      "rank": 16,
+      "category": "美食,动漫"
     },
     {
       "raw_hot": 39000,

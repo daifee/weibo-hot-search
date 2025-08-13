@@ -1,0 +1,410 @@
+{
+  "runTime": 1755063949196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2050519,
+        "num": 2050519,
+        "word": "赵露思陷假助农风波",
+        "onboard_time": 1755062843,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1020211,
+        "num": 1020211,
+        "word": "苹果折叠屏",
+        "onboard_time": 1755057742,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11263,
+        "num": 660821,
+        "word": "紧急预拨1.7亿元支持7省市救灾",
+        "onboard_time": 1754999663,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441800,
+        "num": 441800,
+        "word": "男子烧衣泄愤致母亲死亡",
+        "onboard_time": 1755054923,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388381,
+        "num": 388381,
+        "word": "第一次不想抽到隐藏款",
+        "onboard_time": 1755060084,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1947760,
+        "num": 384583,
+        "word": "赵露思 苹果汁价格",
+        "onboard_time": 1755058763,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657968,
+        "num": 384110,
+        "word": "李沁为了花少去上了化妆课",
+        "onboard_time": 1755062004,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568920,
+        "num": 383796,
+        "word": "梓渝 泥潭大家都听了嘛",
+        "onboard_time": 1755061582,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 380013,
+        "num": 380013,
+        "word": "美国驱逐舰非法闯入中国黄岩岛领海",
+        "onboard_time": 1755056542,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272409,
+        "num": 379827,
+        "word": "男子打捞手机意外吸出百发子弹",
+        "onboard_time": 1755059723,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830984,
+        "num": 372154,
+        "word": "吴谨言约饭于正坦白结婚",
+        "onboard_time": 1755058822,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408876,
+        "num": 368034,
+        "word": "黄旭熙拍短剧了",
+        "onboard_time": 1755063203,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389139,
+        "num": 364935,
+        "word": "方圆脸瘦20斤变化",
+        "onboard_time": 1755059723,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 385010,
+        "num": 359768,
+        "word": "宋仲基时隔9年回归爱情剧",
+        "onboard_time": 1755060024,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381648,
+        "num": 356261,
+        "word": "何广智 冠军",
+        "onboard_time": 1755057502,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354359,
+        "num": 354359,
+        "word": "W盛典 迪丽热巴",
+        "onboard_time": 1755057201,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39371,
+        "num": 320408,
+        "word": "华莱士魔道祖师动画联名抬上来了",
+        "onboard_time": 1755063622,
+        "rank": 16,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 306132,
+        "num": 306132,
+        "word": "男子结婚22年发现俩儿子都不是亲生",
+        "onboard_time": 1755057682,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231663,
+        "num": 303032,
+        "word": "吃鸡蛋事件 剧本",
+        "onboard_time": 1755006866,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112896,
+        "num": 302354,
+        "word": "iPhone无感录音",
+        "onboard_time": 1755063563,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 353686,
+        "num": 302322,
+        "word": "杜江霍思燕一家四口同框",
+        "onboard_time": 1755050241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302133,
+        "num": 302133,
+        "word": "金建希出庭时念了句中国古诗",
+        "onboard_time": 1755061103,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232582,
+        "num": 232582,
+        "word": "女子出差遭老板性侵获赔110万",
+        "onboard_time": 1755062303,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194060,
+        "num": 194060,
+        "word": "雪山失联 20万寻活人5万寻遗体",
+        "onboard_time": 1755062243,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183049,
+        "num": 183049,
+        "word": "奔驰CEO警告没有燃油车的后果",
+        "onboard_time": 1755058642,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172225,
+        "num": 172225,
+        "word": "女子称怀双胎索要80万男方报警",
+        "onboard_time": 1755062962,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164419,
+        "num": 164419,
+        "word": "钟丽缇女儿Jaden膝盖手术",
+        "onboard_time": 1755058223,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160651,
+        "num": 160651,
+        "word": "徐佳莹方回应婚变",
+        "onboard_time": 1755061282,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150214,
+        "num": 150214,
+        "word": "丞磊成周也微博铁粉",
+        "onboard_time": 1755063142,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149607,
+        "num": 149607,
+        "word": "西安地铁回应实时显示车厢拥挤情况",
+        "onboard_time": 1755059783,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142435,
+        "num": 142435,
+        "word": "暑期中国有3部二战片日本有7部",
+        "onboard_time": 1755062962,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142139,
+        "num": 142139,
+        "word": "731为冻伤实验把活人手冻得只剩骨头",
+        "onboard_time": 1755062182,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1241353,
+        "num": 140074,
+        "word": "房东税来了",
+        "onboard_time": 1755050421,
+        "rank": 32,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 132081,
+        "num": 132081,
+        "word": "洛川苹果",
+        "onboard_time": 1755056781,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125472,
+        "num": 125472,
+        "word": "曝杨幂刘诗诗唐嫣热巴出席W盛典",
+        "onboard_time": 1755063743,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122604,
+        "num": 122604,
+        "word": "时代少年团 输给你的朋友很丢人吗",
+        "onboard_time": 1755055822,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122051,
+        "num": 122051,
+        "word": "苹果新版头显还值得等吗",
+        "onboard_time": 1755063022,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121316,
+        "num": 121316,
+        "word": "RIIZE助农",
+        "onboard_time": 1755062062,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120786,
+        "num": 120786,
+        "word": "卫健委回应女子称孕7周遭医院误诊",
+        "onboard_time": 1755060803,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119367,
+        "num": 119367,
+        "word": "到底谁在吃现在的麻辣烫",
+        "onboard_time": 1755060743,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117721,
+        "num": 117721,
+        "word": "沈星回演奏的原因",
+        "onboard_time": 1755062843,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112391,
+        "num": 112391,
+        "word": "郭麒麟婉拒郭德纲",
+        "onboard_time": 1755051381,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110129,
+        "num": 110129,
+        "word": "张俊跟杜华说自己之前是乐华的",
+        "onboard_time": 1755063622,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60712,
+        "num": 109452,
+        "word": "东极渔民及后代为东极岛发声",
+        "onboard_time": 1755061823,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108931,
+        "num": 108931,
+        "word": "第11号台风杨柳预计今日登陆",
+        "onboard_time": 1755050002,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108874,
+        "num": 108874,
+        "word": "印度女子在拥挤车厢呼吸困难被起哄",
+        "onboard_time": 1755055582,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105056,
+        "num": 105056,
+        "word": "NIKE起诉陈冠希索赔90万",
+        "onboard_time": 1755052641,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104904,
+        "num": 104904,
+        "word": "生育损伤",
+        "onboard_time": 1755063142,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100913,
+        "num": 100913,
+        "word": "台风杨柳或2次登陆我国",
+        "onboard_time": 1755063442,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99944,
+        "num": 99944,
+        "word": "汪苏泷南京",
+        "onboard_time": 1755063861,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#从两山理念与实践看中国与世界#"
+    }
+  }
+}

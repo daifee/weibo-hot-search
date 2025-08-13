@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755062887034,
+  "endTime": 1755063949196,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -81,6 +81,14 @@
       "onboard_time": 1754973864,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2050519,
+      "num": 2050519,
+      "word": "赵露思陷假助农风波",
+      "onboard_time": 1755062843,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1981853,
@@ -659,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 913883,
-      "num": 456259,
-      "word": "赵露思陷假助农风波",
-      "onboard_time": 1755062843,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 909235,
       "num": 708818,
       "word": "生育损伤",
@@ -1129,6 +1129,14 @@
       "onboard_time": 1754839103,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 657968,
+      "num": 384110,
+      "word": "李沁为了花少去上了化妆课",
+      "onboard_time": 1755062004,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 653827,
@@ -1731,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 473287,
-      "num": 374457,
-      "word": "李沁为了花少去上了化妆课",
-      "onboard_time": 1755062004,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 471636,
       "num": 394680,
       "word": "怀孕后才知道妈妈漏尿多年",
@@ -2075,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408876,
+      "num": 368034,
+      "word": "黄旭熙拍短剧了",
+      "onboard_time": 1755063203,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407728,
       "num": 346996,
       "word": "陶白白回应疑似鹿角新恋情",
@@ -2187,12 +2195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389139,
+      "num": 373739,
+      "word": "方圆脸瘦20斤变化",
+      "onboard_time": 1755059723,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 388890,
       "num": 821516,
       "word": "巴勒斯坦的球王贝利被以军炸死",
       "onboard_time": 1754902343,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 388381,
+      "num": 388381,
+      "word": "第一次不想抽到隐藏款",
+      "onboard_time": 1755060084,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 387320,
@@ -2259,14 +2283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373739,
-      "num": 373739,
-      "word": "方圆脸瘦20斤变化",
-      "onboard_time": 1755059723,
-      "rank": 20,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 369517,
       "num": 369517,
       "word": "张本智和vs贾哈",
@@ -2297,14 +2313,6 @@
       "onboard_time": 1754879420,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 364405,
-      "num": 364405,
-      "word": "第一次不想抽到隐藏款",
-      "onboard_time": 1755060084,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 364251,
@@ -2763,6 +2771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302133,
+      "num": 376240,
+      "word": "金建希出庭时念了句中国古诗",
+      "onboard_time": 1755061103,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302001,
       "num": 302001,
       "word": "田曦薇魔童降世",
@@ -2841,14 +2857,6 @@
       "onboard_time": 1754823862,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292141,
-      "num": 376240,
-      "word": "金建希出庭时念了句中国古诗",
-      "onboard_time": 1755061103,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 290927,
@@ -3000,6 +3008,14 @@
       "word": "同学称遇害女生本应有美好前程",
       "onboard_time": 1755014482,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272409,
+      "num": 379827,
+      "word": "男子打捞手机意外吸出百发子弹",
+      "onboard_time": 1755059723,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -3435,6 +3451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232582,
+      "num": 232582,
+      "word": "女子出差遭老板性侵获赔110万",
+      "onboard_time": 1755062303,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232071,
       "num": 232071,
       "word": "张本智和陈幸同冠军合影",
@@ -3705,14 +3729,6 @@
       "onboard_time": 1754829382,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217589,
-      "num": 217589,
-      "word": "男子打捞手机意外吸出百发子弹",
-      "onboard_time": 1755059723,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217160,
@@ -4409,6 +4425,14 @@
       "onboard_time": 1754892321,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194060,
+      "num": 194060,
+      "word": "雪山失联 20万寻活人5万寻遗体",
+      "onboard_time": 1755062243,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193683,
@@ -5211,6 +5235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172225,
+      "num": 172225,
+      "word": "女子称怀双胎索要80万男方报警",
+      "onboard_time": 1755062962,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172141,
       "num": 172141,
       "word": "长期游泳后才悟出的人生道理",
@@ -5225,14 +5257,6 @@
       "onboard_time": 1754793800,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 172102,
-      "num": 172102,
-      "word": "雪山失联 20万寻活人5万寻遗体",
-      "onboard_time": 1755062243,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172044,
@@ -5603,14 +5627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162225,
-      "num": 162225,
-      "word": "女子出差遭老板性侵获赔110万",
-      "onboard_time": 1755062303,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162113,
       "num": 165146,
       "word": "巴勒斯坦男子拍下自己被枪杀瞬间",
@@ -5697,6 +5713,14 @@
       "onboard_time": 1755005666,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160651,
+      "num": 160651,
+      "word": "徐佳莹方回应婚变",
+      "onboard_time": 1755061282,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 160253,
@@ -5809,14 +5833,6 @@
       "onboard_time": 1754837965,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157551,
-      "num": 157551,
-      "word": "徐佳莹方回应婚变",
-      "onboard_time": 1755061282,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 157375,
@@ -6177,6 +6193,14 @@
       "onboard_time": 1754989163,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150214,
+      "num": 150214,
+      "word": "丞磊成周也微博铁粉",
+      "onboard_time": 1755063142,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150094,
@@ -6635,6 +6659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142435,
+      "num": 142435,
+      "word": "暑期中国有3部二战片日本有7部",
+      "onboard_time": 1755062962,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142403,
       "num": 142403,
       "word": "余宇涵录节目掉海里了",
@@ -6665,6 +6697,14 @@
       "onboard_time": 1754975183,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142139,
+      "num": 142139,
+      "word": "731为冻伤实验把活人手冻得只剩骨头",
+      "onboard_time": 1755062182,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142133,
@@ -7891,6 +7931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125472,
+      "num": 125472,
+      "word": "曝杨幂刘诗诗唐嫣热巴出席W盛典",
+      "onboard_time": 1755063743,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125460,
       "num": 125460,
       "word": "穿越火线",
@@ -8075,6 +8123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122051,
+      "num": 122051,
+      "word": "苹果新版头显还值得等吗",
+      "onboard_time": 1755063022,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121558,
       "num": 127230,
       "word": "这是唯一生活在中国的大象种类",
@@ -8137,6 +8193,14 @@
       "onboard_time": 1754835624,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120786,
+      "num": 162298,
+      "word": "卫健委回应女子称孕7周遭医院误诊",
+      "onboard_time": 1755060803,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120752,
@@ -8249,14 +8313,6 @@
       "onboard_time": 1754810601,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119513,
-      "num": 162298,
-      "word": "卫健委回应女子称孕7周遭医院误诊",
-      "onboard_time": 1755060803,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119471,
@@ -8427,6 +8483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117721,
+      "num": 117721,
+      "word": "沈星回演奏的原因",
+      "onboard_time": 1755062843,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117650,
       "num": 117650,
       "word": "钟薛高晒46页判决书",
@@ -8577,14 +8641,6 @@
       "onboard_time": 1754842582,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115318,
-      "num": 115318,
-      "word": "沈星回演奏的原因",
-      "onboard_time": 1755062843,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 115229,
@@ -8795,6 +8851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112896,
+      "num": 302354,
+      "word": "iPhone无感录音",
+      "onboard_time": 1755063563,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112872,
       "num": 112872,
       "word": "朱正廷的含金量还在上升",
@@ -8971,14 +9035,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 111279,
-      "num": 111279,
-      "word": "731为冻伤实验把活人手冻得只剩骨头",
-      "onboard_time": 1755062182,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111118,
       "num": 111118,
       "word": "时代少年团上海站有中控",
@@ -9049,6 +9105,14 @@
       "onboard_time": 1754908522,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110129,
+      "num": 110129,
+      "word": "张俊跟杜华说自己之前是乐华的",
+      "onboard_time": 1755063622,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 110085,
@@ -9707,6 +9771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100913,
+      "num": 100913,
+      "word": "台风杨柳或2次登陆我国",
+      "onboard_time": 1755063442,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100848,
       "num": 100848,
       "word": "孙红雷跳进黄河发现根本不用洗",
@@ -9737,6 +9809,14 @@
       "onboard_time": 1754887403,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 99944,
+      "num": 99944,
+      "word": "汪苏泷南京",
+      "onboard_time": 1755063861,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 99834,
@@ -11345,6 +11425,14 @@
       "onboard_time": 1754912064,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39371,
+      "num": 320408,
+      "word": "华莱士魔道祖师动画联名抬上来了",
+      "onboard_time": 1755063622,
+      "rank": 16,
+      "category": "美食,动漫"
     },
     {
       "raw_hot": 39228,
