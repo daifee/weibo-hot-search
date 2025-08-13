@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755127570077,
+  "endTime": 1755128432263,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -9,6 +9,14 @@
       "onboard_time": 1755097165,
       "rank": 0,
       "category": "艺人,舆论监督"
+    },
+    {
+      "raw_hot": 1557291,
+      "num": 788792,
+      "word": "赵露思讲被殴打过程",
+      "onboard_time": 1755103939,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1510456,
@@ -20,23 +28,15 @@
     },
     {
       "raw_hot": 1262820,
-      "num": 136317,
+      "num": 166333,
       "word": "赵露思后援会发文",
       "onboard_time": 1755097584,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 1139728,
-      "num": 788792,
-      "word": "赵露思讲被殴打过程",
-      "onboard_time": 1755103939,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 958586,
-      "num": 214407,
+      "num": 219164,
       "word": "胸贴 危害",
       "onboard_time": 1755096145,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1755095845,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 667436,
+      "num": 667436,
+      "word": "22岁存款200万决定提前退休",
+      "onboard_time": 1755125177,
+      "rank": 7,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 636797,
@@ -68,15 +76,23 @@
     },
     {
       "raw_hot": 459252,
-      "num": 204516,
+      "num": 228681,
       "word": "杨幂演技",
       "onboard_time": 1755091165,
       "rank": 6,
       "category": "剧集"
     },
     {
+      "raw_hot": 455809,
+      "num": 455809,
+      "word": "终于有人吐槽现在的婚礼流程了",
+      "onboard_time": 1755110235,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 429169,
-      "num": 214046,
+      "num": 215751,
       "word": "美国惊现触手兔子专家警告远离",
       "onboard_time": 1755091464,
       "rank": 11,
@@ -91,20 +107,20 @@
       "category": "电竞,游戏"
     },
     {
-      "raw_hot": 369074,
-      "num": 369074,
-      "word": "终于有人吐槽现在的婚礼流程了",
-      "onboard_time": 1755110235,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 333855,
       "num": 215868,
       "word": "陶白白自曝收入",
       "onboard_time": 1755083725,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 288819,
+      "num": 288819,
+      "word": "19岁女生被刺死亲属几天都睡不着觉",
+      "onboard_time": 1755099384,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286932,
@@ -123,28 +139,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242078,
-      "num": 242078,
-      "word": "19岁女生被刺死亲属几天都睡不着觉",
-      "onboard_time": 1755099384,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220941,
-      "num": 220941,
-      "word": "22岁存款200万决定提前退休",
-      "onboard_time": 1755125177,
-      "rank": 7,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 214206,
-      "num": 214206,
+      "raw_hot": 235048,
+      "num": 235048,
       "word": "李嘉诚这次嗅到了危险",
       "onboard_time": 1755084145,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 229018,
+      "num": 229018,
+      "word": "男子转账3500元备注彩礼要求返还被驳回",
+      "onboard_time": 1755087623,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214438,
+      "num": 214438,
+      "word": "杨柳",
+      "onboard_time": 1755128421,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213326,
@@ -153,14 +169,6 @@
       "onboard_time": 1755110235,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 212658,
-      "num": 212658,
-      "word": "男子转账3500元备注彩礼要求返还被驳回",
-      "onboard_time": 1755087623,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209651,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 186030,
-      "num": 173592,
+      "num": 177065,
       "word": "生万物",
       "onboard_time": 1755085404,
       "rank": 14,
@@ -259,8 +267,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124396,
+      "num": 124396,
+      "word": "95后记者在加沙被打死",
+      "onboard_time": 1755091464,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124126,
-      "num": 124126,
+      "num": 168430,
       "word": "杨幂坐收cvb实绩了",
       "onboard_time": 1755095065,
       "rank": 22,
@@ -273,14 +289,6 @@
       "onboard_time": 1755086424,
       "rank": 23,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 121749,
-      "num": 121749,
-      "word": "95后记者在加沙被打死",
-      "onboard_time": 1755091464,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121568,
@@ -315,6 +323,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 108817,
+      "num": 108817,
+      "word": "欧洲超级杯",
+      "onboard_time": 1755127759,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107329,
       "num": 107329,
       "word": "欧豪内娱回南天里的艳阳天",
@@ -323,12 +339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106181,
+      "num": 106181,
+      "word": "天猫娃哈哈旗舰店改名引出售猜测",
+      "onboard_time": 1755122955,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103397,
       "num": 103397,
       "word": "歌手2025评分3.8分",
       "onboard_time": 1755089184,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101156,
+      "num": 101156,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1755128120,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 100448,
@@ -355,11 +387,35 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 96011,
+      "num": 96011,
+      "word": "这6类食物才是真正的便秘救星",
+      "onboard_time": 1755127940,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95341,
+      "num": 95341,
+      "word": "南极惊现一具冰封66年遗骸",
+      "onboard_time": 1755070041,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93907,
       "num": 93907,
       "word": "卫健局回应酒店残留用过的安全套",
       "onboard_time": 1755097645,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93154,
+      "num": 93154,
+      "word": "辅导员强奸醉酒女学生获刑3年半",
+      "onboard_time": 1755085104,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -411,36 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85460,
-      "num": 85460,
-      "word": "辅导员强奸醉酒女学生获刑3年半",
-      "onboard_time": 1755085104,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84256,
-      "num": 84256,
-      "word": "天猫娃哈哈旗舰店改名引出售猜测",
-      "onboard_time": 1755122955,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81875,
       "num": 81875,
       "word": "于斌晒和王一博聊天记录",
       "onboard_time": 1755081203,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78893,
-      "num": 78893,
-      "word": "南极惊现一具冰封66年遗骸",
-      "onboard_time": 1755070041,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 77739,
@@ -459,6 +491,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74129,
+      "num": 75966,
+      "word": "早睡1小时或能变瘦变开心",
+      "onboard_time": 1755094944,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73078,
+      "num": 73078,
+      "word": "朝鲜82岁播音员李春姬再当班",
+      "onboard_time": 1755092604,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 69839,
       "num": 69839,
       "word": "安静公主回应卖惨",
@@ -475,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67669,
-      "num": 75966,
-      "word": "早睡1小时或能变瘦变开心",
-      "onboard_time": 1755094944,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 67637,
       "num": 75966,
       "word": "特教乱象害死苍山夏令营8岁男童",
@@ -491,12 +531,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 55993,
-      "num": 66085,
-      "word": "朝鲜82岁播音员李春姬再当班",
-      "onboard_time": 1755092604,
-      "rank": 47,
-      "category": "海外新闻"
+      "raw_hot": 58204,
+      "num": 65948,
+      "word": "Ailee与崔时勋婚前同居一年",
+      "onboard_time": 1755126198,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 56522,
+      "num": 58204,
+      "word": "她们直到去世也没等到道歉",
+      "onboard_time": 1755128120,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51753,
@@ -515,12 +563,12 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 45210,
-      "num": 65948,
-      "word": "Ailee与崔时勋婚前同居一年",
-      "onboard_time": 1755126198,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 45520,
+      "num": 98192,
+      "word": "生万物爱奇艺热度破6500",
+      "onboard_time": 1755128001,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 42914,
@@ -537,6 +585,14 @@
       "onboard_time": 1755076644,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39540,
+      "num": 98062,
+      "word": "老人给外人10万照顾老伴儿子急了",
+      "onboard_time": 1755128060,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37664,

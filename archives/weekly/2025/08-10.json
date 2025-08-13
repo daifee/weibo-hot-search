@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755127570077,
+  "endTime": 1755128432263,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -273,6 +273,14 @@
       "onboard_time": 1754895322,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1557291,
+      "num": 788792,
+      "word": "赵露思讲被殴打过程",
+      "onboard_time": 1755103939,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1553722,
@@ -617,14 +625,6 @@
       "onboard_time": 1754751205,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1139728,
-      "num": 788792,
-      "word": "赵露思讲被殴打过程",
-      "onboard_time": 1755103939,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1137183,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1754883862,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 667436,
+      "num": 667436,
+      "word": "22岁存款200万决定提前退休",
+      "onboard_time": 1755125177,
+      "rank": 7,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 662409,
@@ -2259,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455809,
+      "num": 455809,
+      "word": "终于有人吐槽现在的婚礼流程了",
+      "onboard_time": 1755110235,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 452425,
       "num": 267283,
       "word": "怪不得医生会反复套话",
@@ -2769,14 +2785,6 @@
       "onboard_time": 1754882362,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 369074,
-      "num": 369074,
-      "word": "终于有人吐槽现在的婚礼流程了",
-      "onboard_time": 1755110235,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 368000,
@@ -3387,6 +3395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 288819,
+      "num": 288819,
+      "word": "19岁女生被刺死亲属几天都睡不着觉",
+      "onboard_time": 1755099384,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286932,
       "num": 177133,
       "word": "Aaaaapple品牌严正声明",
@@ -3955,14 +3971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242078,
-      "num": 242078,
-      "word": "19岁女生被刺死亲属几天都睡不着觉",
-      "onboard_time": 1755099384,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241482,
       "num": 241482,
       "word": "分手尽量安排在周末",
@@ -4315,14 +4323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 220941,
-      "num": 220941,
-      "word": "22岁存款200万决定提前退休",
-      "onboard_time": 1755125177,
-      "rank": 7,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 220797,
       "num": 199648,
       "word": "W盛典好多人啊",
@@ -4440,6 +4440,14 @@
       "word": "买到被洪水泡过的饮料女子发声",
       "onboard_time": 1755070582,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214438,
+      "num": 214438,
+      "word": "杨柳",
+      "onboard_time": 1755128421,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -10987,6 +10995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108817,
+      "num": 108817,
+      "word": "欧洲超级杯",
+      "onboard_time": 1755127759,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108795,
       "num": 108795,
       "word": "没有然然和章阿姨相认的镜头",
@@ -11265,6 +11281,14 @@
       "onboard_time": 1754805921,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106181,
+      "num": 106181,
+      "word": "天猫娃哈哈旗舰店改名引出售猜测",
+      "onboard_time": 1755122955,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106160,
@@ -11569,6 +11593,14 @@
       "onboard_time": 1754876961,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101156,
+      "num": 101156,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1755128120,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 101069,
@@ -11929,6 +11961,14 @@
       "onboard_time": 1755094163,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96011,
+      "num": 96011,
+      "word": "这6类食物才是真正的便秘救星",
+      "onboard_time": 1755127940,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95991,
@@ -12513,14 +12553,6 @@
       "onboard_time": 1754920764,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 84256,
-      "num": 84256,
-      "word": "天猫娃哈哈旗舰店改名引出售猜测",
-      "onboard_time": 1755122955,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84042,
@@ -13115,6 +13147,14 @@
       "category": "民生新闻,母婴育儿"
     },
     {
+      "raw_hot": 58204,
+      "num": 65948,
+      "word": "Ailee与崔时勋婚前同居一年",
+      "onboard_time": 1755126198,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58070,
       "num": 135370,
       "word": "网友称考上大学父母嫌远不给路费",
@@ -13161,6 +13201,14 @@
       "onboard_time": 1755076943,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56522,
+      "num": 58204,
+      "word": "她们直到去世也没等到道歉",
+      "onboard_time": 1755128120,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56262,
@@ -13507,12 +13555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45210,
-      "num": 65948,
-      "word": "Ailee与崔时勋婚前同居一年",
-      "onboard_time": 1755126198,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 45520,
+      "num": 98192,
+      "word": "生万物爱奇艺热度破6500",
+      "onboard_time": 1755128001,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 44868,
@@ -13681,6 +13729,14 @@
       "onboard_time": 1754851816,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 39540,
+      "num": 98062,
+      "word": "老人给外人10万照顾老伴儿子急了",
+      "onboard_time": 1755128060,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39375,
