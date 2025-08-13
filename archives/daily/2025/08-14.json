@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755103583578,
+  "endTime": 1755105714259,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -41,6 +41,14 @@
       "onboard_time": 1755095845,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 788792,
+      "num": 788792,
+      "word": "赵露思讲被殴打过程",
+      "onboard_time": 1755103939,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 636797,
@@ -96,6 +104,14 @@
       "word": "高三男生被邻居驾车撞伤一年后身亡",
       "onboard_time": 1755091585,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193572,
+      "num": 193572,
+      "word": "台风杨柳最新路径",
+      "onboard_time": 1755101602,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -219,6 +235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117156,
+      "num": 168930,
+      "word": "普京将和特朗普一对一会晤",
+      "onboard_time": 1755102740,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 115254,
+      "num": 115254,
+      "word": "南京震感",
+      "onboard_time": 1755103763,
+      "rank": 17,
+      "category": "民生新闻,民生新闻"
+    },
+    {
       "raw_hot": 109933,
       "num": 109933,
       "word": "Aaaaapple品牌报警",
@@ -241,14 +273,6 @@
       "onboard_time": 1755089184,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102611,
-      "num": 102611,
-      "word": "台风杨柳最新路径",
-      "onboard_time": 1755101602,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100448,
@@ -275,20 +299,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 96976,
+      "num": 96976,
+      "word": "金建希在看守所每餐餐标约9元人民币",
+      "onboard_time": 1755102862,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93907,
       "num": 93907,
       "word": "卫健局回应酒店残留用过的安全套",
       "onboard_time": 1755097645,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93324,
-      "num": 168930,
-      "word": "普京将和特朗普一对一会晤",
-      "onboard_time": 1755102740,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 92828,
@@ -312,6 +336,14 @@
       "word": "传播虚假警情通报者被严厉处罚",
       "onboard_time": 1755099026,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90137,
+      "num": 90137,
+      "word": "吃鸡蛋致女方崩溃事发地仍成谜",
+      "onboard_time": 1755100945,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -363,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75352,
-      "num": 75963,
-      "word": "吃鸡蛋致女方崩溃事发地仍成谜",
-      "onboard_time": 1755100945,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75079,
       "num": 75970,
       "word": "5岁姐姐因糖尿病昏迷妹妹也确诊",
@@ -403,20 +427,44 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 67597,
-      "num": 67597,
-      "word": "金建希在看守所每餐餐标约9元人民币",
-      "onboard_time": 1755102862,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 50583,
       "num": 75960,
       "word": "腾讯总市值达7000亿美元",
       "onboard_time": 1755097944,
       "rank": 49,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 42914,
+      "num": 65374,
+      "word": "提名演唱会的神级现场",
+      "onboard_time": 1755105438,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 40355,
+      "num": 65367,
+      "word": "嗯哼妹妹长这么大了",
+      "onboard_time": 1755076644,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37664,
+      "num": 65356,
+      "word": "定风波",
+      "onboard_time": 1755103101,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24105,
+      "num": 135456,
+      "word": "菲前选美皇后被塞车内沉尸大海",
+      "onboard_time": 1755104061,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15617,

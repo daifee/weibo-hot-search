@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755103583578,
+  "endTime": 1755105714259,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1754984902,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 788792,
+      "num": 788792,
+      "word": "赵露思讲被殴打过程",
+      "onboard_time": 1755103939,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 786462,
@@ -5193,6 +5201,14 @@
       "onboard_time": 1755056122,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193572,
+      "num": 193572,
+      "word": "台风杨柳最新路径",
+      "onboard_time": 1755101602,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193567,
@@ -10051,6 +10067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117156,
+      "num": 168930,
+      "word": "普京将和特朗普一对一会晤",
+      "onboard_time": 1755102740,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116958,
       "num": 116958,
       "word": "龚俊版黛玉葬花",
@@ -10153,6 +10177,14 @@
       "onboard_time": 1754842582,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115254,
+      "num": 115254,
+      "word": "南京震感",
+      "onboard_time": 1755103763,
+      "rank": 17,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 115229,
@@ -11363,14 +11395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102611,
-      "num": 102611,
-      "word": "台风杨柳最新路径",
-      "onboard_time": 1755101602,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102557,
       "num": 102557,
       "word": "罗小黑战记",
@@ -11787,6 +11811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96976,
+      "num": 96976,
+      "word": "金建希在看守所每餐餐标约9元人民币",
+      "onboard_time": 1755102862,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96902,
       "num": 96902,
       "word": "当地回应先进事迹写炒菜多放辣椒",
@@ -12035,14 +12067,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93324,
-      "num": 168930,
-      "word": "普京将和特朗普一对一会晤",
-      "onboard_time": 1755102740,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93177,
       "num": 94304,
       "word": "QQ月活超5亿",
@@ -12185,6 +12209,14 @@
       "onboard_time": 1754869459,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90137,
+      "num": 90137,
+      "word": "吃鸡蛋致女方崩溃事发地仍成谜",
+      "onboard_time": 1755100945,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89792,
@@ -12675,14 +12707,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 75352,
-      "num": 75963,
-      "word": "吃鸡蛋致女方崩溃事发地仍成谜",
-      "onboard_time": 1755100945,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74218,
       "num": 74218,
       "word": "温哥华超市偶遇王祖贤",
@@ -12841,14 +12865,6 @@
       "onboard_time": 1755100104,
       "rank": 47,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 67597,
-      "num": 67597,
-      "word": "金建希在看守所每餐餐标约9元人民币",
-      "onboard_time": 1755102862,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 65923,
@@ -13483,6 +13499,14 @@
       "category": "美食,动漫"
     },
     {
+      "raw_hot": 42914,
+      "num": 65374,
+      "word": "提名演唱会的神级现场",
+      "onboard_time": 1755105438,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 42524,
       "num": 110453,
       "word": "机场偶遇霍思燕杜江一家四口",
@@ -13641,6 +13665,14 @@
       "onboard_time": 1754993483,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37664,
+      "num": 65356,
+      "word": "定风波",
+      "onboard_time": 1755103101,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 37463,
@@ -14153,6 +14185,14 @@
       "onboard_time": 1754920283,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24105,
+      "num": 135456,
+      "word": "菲前选美皇后被塞车内沉尸大海",
+      "onboard_time": 1755104061,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23884,

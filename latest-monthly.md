@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/14 00:46:23
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/14 01:21:54
 </p>
 </blockquote>
 <p>
@@ -2675,6 +2675,12 @@ Aaaaapple品牌报警（热度：797280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%80%86%E5%A4%A9%E8%A8%80%E8%AE%BA%23" target="weibo">
 美国驻华大使馆逆天言论（热度：788961）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%AE%B2%E8%A2%AB%E6%AE%B4%E6%89%93%E8%BF%87%E7%A8%8B%23" target="weibo">
+赵露思讲被殴打过程（热度：788792）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ shanks（热度：420901）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%BE%88%E5%A5%BD%23" target="weibo">
 于正说赵露思很好（热度：412331）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A524%E5%B2%81%E5%BF%AB%E9%80%92%E5%91%98%E6%8C%81%E5%88%80%E5%88%92%E4%BC%A4%E4%B8%A4%E4%B8%9A%E4%B8%BB%23" target="weibo">
-警方通报24岁快递员持刀划伤两业主（热度：411579）
 </a>
 </li>
 
