@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/14 00:30:02 ~ 2025/08/14 03:22:19
+本榜单时间：2025/08/14 00:30:02 ~ 2025/08/14 03:38:25
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@ BLG蜜月期结束了（热度：92364）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%90%90%E6%A7%BD%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A9%9A%E7%A4%BC%E6%B5%81%E7%A8%8B%E4%BA%86%23" target="weibo">
+终于有人吐槽现在的婚礼流程了（热度：73405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E5%8D%96%E6%83%A8%23" target="weibo">
 安静公主回应卖惨（热度：69839）
 </a>
@@ -353,12 +359,6 @@ BLG蜜月期结束了（热度：92364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%95%99%E4%B9%B1%E8%B1%A1%E5%AE%B3%E6%AD%BB%E8%8B%8D%E5%B1%B1%E5%A4%8F%E4%BB%A4%E8%90%A58%E5%B2%81%E7%94%B7%E7%AB%A5%23" target="weibo">
 特教乱象害死苍山夏令营8岁男童（热度：67637）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%90%90%E6%A7%BD%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A9%9A%E7%A4%BC%E6%B5%81%E7%A8%8B%E4%BA%86%23" target="weibo">
-终于有人吐槽现在的婚礼流程了（热度：55647）
 </a>
 </li>
 
