@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755117829125,
+  "endTime": 1755120351289,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -467,6 +467,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 64773,
+      "num": 64773,
+      "word": "19岁女生被刺死亲属几天都睡不着觉",
+      "onboard_time": 1755099384,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50583,
       "num": 75960,
       "word": "腾讯总市值达7000亿美元",
@@ -523,14 +531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 31726,
-      "num": 32229,
-      "word": "19岁女生被刺死亲属几天都睡不着觉",
-      "onboard_time": 1755099384,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22790,
       "num": 22790,
       "word": "研究生终于迎来了迷你暑假",
@@ -547,12 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16851,
+      "raw_hot": 18872,
       "num": 58791,
       "word": "房东抄电表时救下突发脑梗租客",
       "onboard_time": 1755116414,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 16465,
+      "num": 24309,
+      "word": "世运会奖牌里的彩蛋太有爱了",
+      "onboard_time": 1755115815,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 15617,
@@ -563,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10104,
-      "num": 20048,
-      "word": "世运会奖牌里的彩蛋太有爱了",
-      "onboard_time": 1755115815,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 13395,
+      "num": 20915,
+      "word": "穆祉丞barabam挑战",
+      "onboard_time": 1755119894,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
