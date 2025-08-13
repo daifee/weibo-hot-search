@@ -1,0 +1,410 @@
+{
+  "runTime": 1755074220406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3181418,
+        "num": 3181418,
+        "word": "官方辟谣赵露思助农公司获助农大使",
+        "onboard_time": 1755072743,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1637287,
+        "num": 1637287,
+        "word": "南极惊现一具冰封66年遗骸",
+        "onboard_time": 1755070041,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29913,
+        "num": 936407,
+        "word": "网警守护家的安全",
+        "onboard_time": 1755064582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610645,
+        "num": 610645,
+        "word": "陕西 冰雹苹果",
+        "onboard_time": 1755067103,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587109,
+        "num": 587109,
+        "word": "黄旭熙拍短剧了",
+        "onboard_time": 1755063203,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538338,
+        "num": 538338,
+        "word": "李在明就韩国出现反华集会下达指示",
+        "onboard_time": 1755072862,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328681,
+        "num": 328681,
+        "word": "被耐克起诉后陈冠希发文",
+        "onboard_time": 1755068782,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318663,
+        "num": 318663,
+        "word": "中国恒大退市",
+        "onboard_time": 1755068542,
+        "rank": 7,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 231059,
+        "num": 231059,
+        "word": "狂魔哥开团Faker和Uzi",
+        "onboard_time": 1755066681,
+        "rank": 8,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 45165,
+        "num": 230281,
+        "word": "台风杨柳将再次登陆闽粤沿海",
+        "onboard_time": 1755073641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810434,
+        "num": 229373,
+        "word": "陈慧琳曾痛失双胞胎爱女",
+        "onboard_time": 1755068663,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624058,
+        "num": 228667,
+        "word": "体制内辞职一年后的真实感受",
+        "onboard_time": 1755069802,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276719,
+        "num": 227812,
+        "word": "吴谨言约饭于正坦白结婚",
+        "onboard_time": 1755058822,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227334,
+        "num": 227334,
+        "word": "迪丽热巴蝴蝶丝袜",
+        "onboard_time": 1755068481,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216760,
+        "num": 216760,
+        "word": "被摸脸前台女孩与外卖员互相认识",
+        "onboard_time": 1755064043,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199596,
+        "num": 199596,
+        "word": "梓渝窗边咬青提",
+        "onboard_time": 1755071302,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199302,
+        "num": 199302,
+        "word": "iPhone无感录音",
+        "onboard_time": 1755063563,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193884,
+        "num": 193884,
+        "word": "好讨厌二三十块叫一杯奶茶钱",
+        "onboard_time": 1755072262,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192626,
+        "num": 192626,
+        "word": "李沁为了花少去上了化妆课",
+        "onboard_time": 1755062004,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47158,
+        "num": 191204,
+        "word": "美团免单又来了",
+        "onboard_time": 1755072564,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190715,
+        "num": 190715,
+        "word": "真正带领华语乐坛的人出现了",
+        "onboard_time": 1755072683,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188604,
+        "num": 188604,
+        "word": "敦煌鸣沙山遇上梦幻流星雨",
+        "onboard_time": 1755071603,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180606,
+        "num": 180606,
+        "word": "A股一年涨1000点",
+        "onboard_time": 1755073463,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175649,
+        "num": 175649,
+        "word": "周也丞磊沙发吻",
+        "onboard_time": 1755069922,
+        "rank": 23,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 165808,
+        "num": 165808,
+        "word": "陈德容承认自己怪过王珞丹",
+        "onboard_time": 1755063981,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37480,
+        "num": 152495,
+        "word": "路边树干折断致过路人被砸身亡",
+        "onboard_time": 1755073942,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151311,
+        "num": 151311,
+        "word": "梓渝 泥潭大家都听了嘛",
+        "onboard_time": 1755061582,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148631,
+        "num": 148631,
+        "word": "买到被洪水泡过的饮料女子发声",
+        "onboard_time": 1755070582,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122186,
+        "num": 144481,
+        "word": "曹骏明制公子",
+        "onboard_time": 1755070163,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36147,
+        "num": 141153,
+        "word": "当地回应高峰禁止老年人免费乘车",
+        "onboard_time": 1755073942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140538,
+        "num": 140538,
+        "word": "一直对孕期激素没概念直到怀孕",
+        "onboard_time": 1755070762,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 128036,
+        "num": 128036,
+        "word": "朱梓骁每年生日张翰都在",
+        "onboard_time": 1755073822,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126494,
+        "num": 126494,
+        "word": "南昌",
+        "onboard_time": 1755067342,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124354,
+        "num": 124354,
+        "word": "美国驱逐舰非法闯入中国黄岩岛领海",
+        "onboard_time": 1755056542,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121826,
+        "num": 121826,
+        "word": "女子凌晨跳河自杀男友怕担责不报警",
+        "onboard_time": 1755069144,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119813,
+        "num": 119813,
+        "word": "今年暑期档 细糠",
+        "onboard_time": 1755074064,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116819,
+        "num": 116819,
+        "word": "W盛典 迪丽热巴",
+        "onboard_time": 1755057201,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46501,
+        "num": 115322,
+        "word": "麻辣烫外卖吃出百洁布",
+        "onboard_time": 1755073102,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75131,
+        "num": 115154,
+        "word": "育儿补贴被母婴商家偷走了吗",
+        "onboard_time": 1755073641,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82188,
+        "num": 115126,
+        "word": "中央纪委披露多个家族式腐败案",
+        "onboard_time": 1755074123,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115118,
+        "num": 115118,
+        "word": "减肥成功的人意志力有多强",
+        "onboard_time": 1755072083,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114788,
+        "num": 114788,
+        "word": "T1冠军皮肤",
+        "onboard_time": 1755070884,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114713,
+        "num": 114713,
+        "word": "安宥真素颜大片",
+        "onboard_time": 1755074003,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112683,
+        "num": 112683,
+        "word": "李梦 我的衣服不丑只是小众",
+        "onboard_time": 1755072926,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108054,
+        "num": 108054,
+        "word": "2万亿和3674点都回来了",
+        "onboard_time": 1755070582,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107917,
+        "num": 107917,
+        "word": "10月龄女婴误吞水宝宝医生开腹取出",
+        "onboard_time": 1755071963,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105493,
+        "num": 105493,
+        "word": "一漫展有coser被扯假发后持刀伤人",
+        "onboard_time": 1755074183,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105477,
+        "num": 105477,
+        "word": "W盛典好多人啊",
+        "onboard_time": 1755074183,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102700,
+        "num": 102700,
+        "word": "韩国爱宝乐园遭炸弹威胁",
+        "onboard_time": 1755071903,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58311,
+        "num": 102474,
+        "word": "多地宣布针对带娃难发钱",
+        "onboard_time": 1755072143,
+        "rank": 49,
+        "category": "民生新闻,母婴育儿"
+      }
+    ],
+    "hotgov": {
+      "word": "#从两山理念与实践看中国与世界#"
+    }
+  }
+}
