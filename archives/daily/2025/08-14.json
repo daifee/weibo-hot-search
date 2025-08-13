@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755105714259,
+  "endTime": 1755106810901,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -35,20 +35,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 835788,
+      "num": 788792,
+      "word": "赵露思讲被殴打过程",
+      "onboard_time": 1755103939,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 816758,
       "num": 816758,
       "word": "男童遗体距走失处直线距离1公里",
       "onboard_time": 1755095845,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 788792,
-      "num": 788792,
-      "word": "赵露思讲被殴打过程",
-      "onboard_time": 1755103939,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 636797,
@@ -107,8 +107,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193572,
-      "num": 193572,
+      "raw_hot": 197094,
+      "num": 197094,
       "word": "台风杨柳最新路径",
       "onboard_time": 1755101602,
       "rank": 36,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105389,
+      "num": 105389,
+      "word": "金建希在看守所每餐餐标约9元人民币",
+      "onboard_time": 1755102862,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103397,
       "num": 103397,
       "word": "歌手2025评分3.8分",
@@ -297,14 +305,6 @@
       "onboard_time": 1755099804,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 96976,
-      "num": 96976,
-      "word": "金建希在看守所每餐餐标约9元人民币",
-      "onboard_time": 1755102862,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 93907,
@@ -459,12 +459,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24105,
+      "raw_hot": 36920,
       "num": 135456,
       "word": "菲前选美皇后被塞车内沉尸大海",
       "onboard_time": 1755104061,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 34320,
+      "num": 42207,
+      "word": "朝鲜82岁播音员李春姬再当班",
+      "onboard_time": 1755092604,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22585,
+      "num": 112545,
+      "word": "福建各地多措并举防御台风杨柳",
+      "onboard_time": 1755106337,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15617,
