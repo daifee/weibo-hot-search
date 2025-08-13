@@ -1,0 +1,410 @@
+{
+  "runTime": 1755070980169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1465675,
+        "num": 1465675,
+        "word": "银河酷娱否认殴打辱骂赵露思",
+        "onboard_time": 1755070463,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 925883,
+        "num": 925883,
+        "word": "陕西 冰雹苹果",
+        "onboard_time": 1755067103,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25908,
+        "num": 661436,
+        "word": "网警守护家的安全",
+        "onboard_time": 1755064582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 937658,
+        "num": 648539,
+        "word": "黄旭熙拍短剧了",
+        "onboard_time": 1755063203,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488161,
+        "num": 488161,
+        "word": "iPhone无感录音",
+        "onboard_time": 1755063563,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 455519,
+        "num": 455519,
+        "word": "被摸脸前台女孩与外卖员互相认识",
+        "onboard_time": 1755064043,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510075,
+        "num": 452004,
+        "word": "被耐克起诉后陈冠希发文",
+        "onboard_time": 1755068782,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401241,
+        "num": 401241,
+        "word": "南极惊现一具冰封66年遗骸",
+        "onboard_time": 1755070041,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173554,
+        "num": 400918,
+        "word": "美国驱逐舰非法闯入中国黄岩岛领海",
+        "onboard_time": 1755056542,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138218,
+        "num": 400906,
+        "word": "高中老师点外卖遇自己的学生送餐",
+        "onboard_time": 1755064403,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2738485,
+        "num": 400902,
+        "word": "赵露思陷假助农风波",
+        "onboard_time": 1755062843,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400897,
+        "num": 400897,
+        "word": "狂魔哥开团Faker和Uzi",
+        "onboard_time": 1755066681,
+        "rank": 11,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 955286,
+        "num": 393827,
+        "word": "陈慧琳曾痛失双胞胎爱女",
+        "onboard_time": 1755068663,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790973,
+        "num": 388705,
+        "word": "香港部分公务员拒用内地饮用水",
+        "onboard_time": 1755066561,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381859,
+        "num": 381859,
+        "word": "中国恒大退市",
+        "onboard_time": 1755068542,
+        "rank": 14,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 368569,
+        "num": 368569,
+        "word": "吴谨言约饭于正坦白结婚",
+        "onboard_time": 1755058822,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346662,
+        "num": 346662,
+        "word": "陈德容承认自己怪过王珞丹",
+        "onboard_time": 1755063981,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306588,
+        "num": 306588,
+        "word": "雪山失联 20万寻活人5万寻遗体",
+        "onboard_time": 1755062243,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304861,
+        "num": 304861,
+        "word": "体制内辞职一年后的真实感受",
+        "onboard_time": 1755069802,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109851,
+        "num": 299269,
+        "word": "周也丞磊沙发吻",
+        "onboard_time": 1755069922,
+        "rank": 19,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 297527,
+        "num": 297527,
+        "word": "李沁为了花少去上了化妆课",
+        "onboard_time": 1755062004,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271160,
+        "num": 271160,
+        "word": "迪丽热巴蝴蝶丝袜",
+        "onboard_time": 1755068481,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4865,
+        "num": 270692,
+        "word": "奥迪E5",
+        "onboard_time": 1755066802,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 270661,
+        "num": 270661,
+        "word": "女子称怀双胎索要80万男方报警",
+        "onboard_time": 1755062962,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224164,
+        "num": 224164,
+        "word": "梓渝 泥潭大家都听了嘛",
+        "onboard_time": 1755061582,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212160,
+        "num": 212160,
+        "word": "曹骏明制公子",
+        "onboard_time": 1755070163,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206627,
+        "num": 206627,
+        "word": "南昌",
+        "onboard_time": 1755067342,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152241,
+        "num": 205140,
+        "word": "第11号台风杨柳预计今日登陆",
+        "onboard_time": 1755050002,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194955,
+        "num": 204650,
+        "word": "花少7国际排面拉满",
+        "onboard_time": 1755069144,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204421,
+        "num": 204421,
+        "word": "梓渝新歌热度13亿",
+        "onboard_time": 1755066561,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201133,
+        "num": 201133,
+        "word": "林彦俊见面造型投票",
+        "onboard_time": 1755070463,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198136,
+        "num": 198136,
+        "word": "杨幂给生万物做了个微综",
+        "onboard_time": 1755070341,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189981,
+        "num": 189981,
+        "word": "一直对孕期激素没概念直到怀孕",
+        "onboard_time": 1755070762,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 189880,
+        "num": 189880,
+        "word": "势界",
+        "onboard_time": 1755065242,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 188947,
+        "num": 188947,
+        "word": "W盛典 迪丽热巴",
+        "onboard_time": 1755057201,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170731,
+        "num": 170731,
+        "word": "杜江霍思燕一家四口同框",
+        "onboard_time": 1755050241,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169653,
+        "num": 169653,
+        "word": "女子凌晨跳河自杀男友怕担责不报警",
+        "onboard_time": 1755069144,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61939,
+        "num": 165310,
+        "word": "18岁女孩凌晨失联尸体在河道被发现",
+        "onboard_time": 1755070041,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32858,
+        "num": 164976,
+        "word": "阿里北杯搂宋雨琦的腰",
+        "onboard_time": 1755070341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30725,
+        "num": 164829,
+        "word": "广东祖孙3人被杀嫌犯鉴定为精神分裂",
+        "onboard_time": 1755070524,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164829,
+        "num": 164828,
+        "word": "苹果折叠屏",
+        "onboard_time": 1755057742,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152112,
+        "num": 152112,
+        "word": "爹娘趁我不在替我娶回crush",
+        "onboard_time": 1755069863,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144131,
+        "num": 144131,
+        "word": "体重掉得越慢减脂效率越高",
+        "onboard_time": 1755066742,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141813,
+        "num": 141813,
+        "word": "男子烧衣泄愤致母亲死亡",
+        "onboard_time": 1755054923,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137582,
+        "num": 137582,
+        "word": "T1冠军皮肤",
+        "onboard_time": 1755070884,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134896,
+        "num": 134896,
+        "word": "买到被洪水泡过的饮料女子发声",
+        "onboard_time": 1755070582,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134495,
+        "num": 134495,
+        "word": "赵牧辰说有正在接触的人",
+        "onboard_time": 1755069922,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131379,
+        "num": 132807,
+        "word": "刘亦菲将出席W盛典活动",
+        "onboard_time": 1755069501,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132043,
+        "num": 132043,
+        "word": "2万亿和3674点都回来了",
+        "onboard_time": 1755070582,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116136,
+        "num": 131969,
+        "word": "中方将欧盟两家银行列入反制清单",
+        "onboard_time": 1755066921,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#从两山理念与实践看中国与世界#"
+    }
+  }
+}

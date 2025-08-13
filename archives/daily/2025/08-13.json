@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755070108424,
+  "endTime": 1755070980169,
   "band_list": [
     {
       "raw_hot": 3639651,
@@ -16,6 +16,14 @@
       "word": "赵露思 之前有个艺人高速倒车",
       "onboard_time": 1755010045,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2738485,
+      "num": 2451704,
+      "word": "赵露思陷假助农风波",
+      "onboard_time": 1755062843,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -35,18 +43,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2451704,
-      "num": 2451704,
-      "word": "赵露思陷假助农风波",
-      "onboard_time": 1755062843,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1602988,
       "num": 1349609,
       "word": "赵露思闺蜜回应助农",
       "onboard_time": 1755054923,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1465675,
+      "num": 1465675,
+      "word": "银河酷娱否认殴打辱骂赵露思",
+      "onboard_time": 1755070463,
       "rank": 0,
       "category": "艺人"
     },
@@ -89,6 +97,22 @@
       "onboard_time": 1755050241,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 955286,
+      "num": 415482,
+      "word": "陈慧琳曾痛失双胞胎爱女",
+      "onboard_time": 1755068663,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 925883,
+      "num": 925883,
+      "word": "陕西 冰雹苹果",
+      "onboard_time": 1755067103,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 915074,
@@ -145,14 +169,6 @@
       "onboard_time": 1755012204,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 713185,
-      "num": 713185,
-      "word": "陕西 冰雹苹果",
-      "onboard_time": 1755067103,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 711689,
@@ -227,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 571837,
-      "num": 415482,
-      "word": "陈慧琳曾痛失双胞胎爱女",
-      "onboard_time": 1755068663,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 555524,
       "num": 355297,
       "word": "男子强吻陌生女子被鉴定精神病障碍",
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 510075,
+      "num": 452004,
+      "word": "被耐克起诉后陈冠希发文",
+      "onboard_time": 1755068782,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498224,
       "num": 202131,
       "word": "被捅女生朋友发声",
@@ -305,14 +321,6 @@
       "onboard_time": 1755046523,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 434122,
-      "num": 434122,
-      "word": "被耐克起诉后陈冠希发文",
-      "onboard_time": 1755068782,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 430051,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401241,
+      "num": 401241,
+      "word": "南极惊现一具冰封66年遗骸",
+      "onboard_time": 1755070041,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 401034,
       "num": 401034,
       "word": "男子结婚22年发现俩儿子都不是亲生",
@@ -377,6 +393,14 @@
       "onboard_time": 1755060084,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 381859,
+      "num": 381859,
+      "word": "中国恒大退市",
+      "onboard_time": 1755068542,
+      "rank": 16,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 376682,
@@ -419,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333631,
-      "num": 333631,
-      "word": "中国恒大退市",
-      "onboard_time": 1755068542,
-      "rank": 16,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 318393,
       "num": 318393,
       "word": "FPX暂停与milkyway合作",
@@ -467,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304861,
+      "num": 304861,
+      "word": "体制内辞职一年后的真实感受",
+      "onboard_time": 1755069802,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302133,
       "num": 376240,
       "word": "金建希出庭时念了句中国古诗",
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 274511,
-      "num": 202369,
+      "num": 271160,
       "word": "迪丽热巴蝴蝶丝袜",
       "onboard_time": 1755068481,
       "rank": 26,
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 227187,
-      "num": 199896,
+      "num": 204421,
       "word": "梓渝新歌热度13亿",
       "onboard_time": 1755066561,
       "rank": 30,
@@ -691,12 +715,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212160,
+      "num": 212160,
+      "word": "曹骏明制公子",
+      "onboard_time": 1755070163,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209361,
       "num": 209361,
       "word": "奔驰CEO警告没有燃油车的后果",
       "onboard_time": 1755058642,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 206627,
+      "num": 206627,
+      "word": "南昌",
+      "onboard_time": 1755067342,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204889,
@@ -708,7 +748,7 @@
     },
     {
       "raw_hot": 204342,
-      "num": 204342,
+      "num": 400906,
       "word": "高中老师点外卖遇自己的学生送餐",
       "onboard_time": 1755064403,
       "rank": 26,
@@ -737,6 +777,14 @@
       "onboard_time": 1755055582,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201133,
+      "num": 201133,
+      "word": "林彦俊见面造型投票",
+      "onboard_time": 1755070463,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 200629,
@@ -771,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198136,
+      "num": 198136,
+      "word": "杨幂给生万物做了个微综",
+      "onboard_time": 1755070341,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197991,
       "num": 197991,
       "word": "洛川苹果",
@@ -793,6 +849,14 @@
       "onboard_time": 1755059783,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194955,
+      "num": 204650,
+      "word": "花少7国际排面拉满",
+      "onboard_time": 1755069144,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 194944,
@@ -827,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189981,
+      "num": 189981,
+      "word": "一直对孕期激素没概念直到怀孕",
+      "onboard_time": 1755070762,
+      "rank": 32,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 189911,
       "num": 189911,
       "word": "吴宣仪把节目组电线拔了",
@@ -841,14 +913,6 @@
       "onboard_time": 1755056242,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184799,
-      "num": 184799,
-      "word": "花少7国际排面拉满",
-      "onboard_time": 1755069144,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 184469,
@@ -915,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169653,
+      "num": 169653,
+      "word": "女子凌晨跳河自杀男友怕担责不报警",
+      "onboard_time": 1755069144,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168676,
       "num": 152694,
       "word": "猫咬人后主人将其放生",
@@ -947,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165620,
-      "num": 165620,
-      "word": "体制内辞职一年后的真实感受",
-      "onboard_time": 1755069802,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162907,
       "num": 190963,
       "word": "W年度光影盛典阵容",
@@ -969,14 +1033,6 @@
       "onboard_time": 1755061282,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160309,
-      "num": 160309,
-      "word": "南昌",
-      "onboard_time": 1755067342,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158856,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1755067882,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152112,
+      "num": 152112,
+      "word": "爹娘趁我不在替我娶回crush",
+      "onboard_time": 1755069863,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 152074,
@@ -1139,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144131,
+      "num": 144131,
+      "word": "体重掉得越慢减脂效率越高",
+      "onboard_time": 1755066742,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142435,
       "num": 142435,
       "word": "暑期中国有3部二战片日本有7部",
@@ -1153,14 +1225,6 @@
       "onboard_time": 1755055461,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140479,
-      "num": 140479,
-      "word": "体重掉得越慢减脂效率越高",
-      "onboard_time": 1755066742,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140240,
@@ -1195,6 +1259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137582,
+      "num": 137582,
+      "word": "T1冠军皮肤",
+      "onboard_time": 1755070884,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137127,
       "num": 153497,
       "word": "孙怡离婚后去再见爱人不敢说话",
@@ -1209,6 +1281,22 @@
       "onboard_time": 1755058161,
       "rank": 47,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 134896,
+      "num": 134896,
+      "word": "买到被洪水泡过的饮料女子发声",
+      "onboard_time": 1755070582,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134495,
+      "num": 134495,
+      "word": "赵牧辰说有正在接触的人",
+      "onboard_time": 1755069922,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 134311,
@@ -1257,6 +1345,14 @@
       "onboard_time": 1755051261,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132043,
+      "num": 132043,
+      "word": "2万亿和3674点都回来了",
+      "onboard_time": 1755070582,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 131252,
@@ -1331,28 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127509,
-      "num": 127509,
-      "word": "南极惊现一具冰封66年遗骸",
-      "onboard_time": 1755070041,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 126810,
       "num": 126810,
       "word": "A股成交额再突破2万亿",
       "onboard_time": 1755070041,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 126541,
-      "num": 126541,
-      "word": "赵牧辰说有正在接触的人",
-      "onboard_time": 1755069922,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 125786,
@@ -1561,6 +1641,14 @@
       "onboard_time": 1755056363,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109851,
+      "num": 299269,
+      "word": "周也丞磊沙发吻",
+      "onboard_time": 1755069922,
+      "rank": 28,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 109773,
@@ -1891,6 +1979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 61939,
+      "num": 165310,
+      "word": "18岁女孩凌晨失联尸体在河道被发现",
+      "onboard_time": 1755070041,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57177,
       "num": 646199,
       "word": "个人单笔5万元以下消费可享贴息",
@@ -1963,14 +2059,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 44411,
-      "num": 143418,
-      "word": "女子凌晨跳河自杀男友怕担责不报警",
-      "onboard_time": 1755069144,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43158,
       "num": 344538,
       "word": "华莱士魔道祖师动画联名抬上来了",
@@ -2003,20 +2091,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29295,
-      "num": 152212,
-      "word": "18岁女孩凌晨失联尸体在河道被发现",
-      "onboard_time": 1755070041,
-      "rank": 36,
+      "raw_hot": 32858,
+      "num": 164976,
+      "word": "阿里北杯搂宋雨琦的腰",
+      "onboard_time": 1755070341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30725,
+      "num": 164829,
+      "word": "广东祖孙3人被杀嫌犯鉴定为精神分裂",
+      "onboard_time": 1755070524,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25650,
-      "num": 200372,
-      "word": "周也丞磊沙发吻",
-      "onboard_time": 1755069922,
-      "rank": 28,
-      "category": "剧集,作品衍生"
+      "raw_hot": 25908,
+      "num": 1018825,
+      "word": "网警守护家的安全",
+      "onboard_time": 1755064582,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25277,
@@ -2032,14 +2128,6 @@
       "word": "酒店回应7199一晚虫子扎堆",
       "onboard_time": 1755026055,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22859,
-      "num": 1018825,
-      "word": "网警守护家的安全",
-      "onboard_time": 1755064582,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
