@@ -1,0 +1,410 @@
+{
+  "runTime": 1755111103455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 610035,
+        "num": 610035,
+        "word": "官方称助农大使称号证书是真的",
+        "onboard_time": 1755097165,
+        "rank": 0,
+        "category": "艺人,舆论监督"
+      },
+      {
+        "raw_hot": 554995,
+        "num": 554995,
+        "word": "eStar兮然",
+        "onboard_time": 1755110235,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10102,
+        "num": 494126,
+        "word": "卫星互联网低轨08组卫星发射成功",
+        "onboard_time": 1755075503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453878,
+        "num": 453878,
+        "word": "赵露思讲被殴打过程",
+        "onboard_time": 1755103939,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393964,
+        "num": 393964,
+        "word": "花海",
+        "onboard_time": 1755110235,
+        "rank": 4,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 130349,
+        "num": 285545,
+        "word": "男童遗体距走失处直线距离1公里",
+        "onboard_time": 1755095845,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213326,
+        "num": 213326,
+        "word": "eStar",
+        "onboard_time": 1755110235,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96853,
+        "num": 96853,
+        "word": "盱眙地震",
+        "onboard_time": 1755102921,
+        "rank": 7,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 94400,
+        "num": 94400,
+        "word": "陶白白自曝收入",
+        "onboard_time": 1755083725,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93952,
+        "num": 93952,
+        "word": "金建希在看守所每餐餐标约9元人民币",
+        "onboard_time": 1755102862,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174589,
+        "num": 93855,
+        "word": "胸贴 危害",
+        "onboard_time": 1755096145,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93617,
+        "num": 93617,
+        "word": "美国惊现触手兔子专家警告远离",
+        "onboard_time": 1755091464,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81075,
+        "num": 81075,
+        "word": "台风杨柳最新路径",
+        "onboard_time": 1755101602,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80847,
+        "num": 80847,
+        "word": "普京将和特朗普一对一会晤",
+        "onboard_time": 1755102740,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78242,
+        "num": 78242,
+        "word": "生万物",
+        "onboard_time": 1755085404,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73461,
+        "num": 73461,
+        "word": "男子转账3500元备注彩礼要求返还被驳回",
+        "onboard_time": 1755087623,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73428,
+        "num": 73428,
+        "word": "南京震感",
+        "onboard_time": 1755103763,
+        "rank": 16,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 69839,
+        "num": 69839,
+        "word": "安静公主回应卖惨",
+        "onboard_time": 1755107297,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 68609,
+        "num": 68609,
+        "word": "杨幂演技",
+        "onboard_time": 1755091165,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63995,
+        "num": 63995,
+        "word": "李嘉诚这次嗅到了危险",
+        "onboard_time": 1755084145,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 202085,
+        "num": 58816,
+        "word": "赵露思后援会发文",
+        "onboard_time": 1755097584,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50437,
+        "num": 50437,
+        "word": "终于有人吐槽现在的婚礼流程了",
+        "onboard_time": 1755110235,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45385,
+        "num": 45385,
+        "word": "高三男生被邻居驾车撞伤一年后身亡",
+        "onboard_time": 1755091585,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45355,
+        "num": 45355,
+        "word": "Aaaaapple品牌严正声明",
+        "onboard_time": 1755101542,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45245,
+        "num": 45245,
+        "word": "歌手2025评分3.8分",
+        "onboard_time": 1755089184,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42414,
+        "num": 42414,
+        "word": "印度聋哑女孩距警察20米处遭轮奸",
+        "onboard_time": 1755080423,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39920,
+        "num": 39920,
+        "word": "亚朵酒店被曝疑现别人用过的牙签",
+        "onboard_time": 1755093684,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39362,
+        "num": 39362,
+        "word": "南极惊现一具冰封66年遗骸",
+        "onboard_time": 1755070041,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36880,
+        "num": 36880,
+        "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
+        "onboard_time": 1755091825,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33761,
+        "num": 36718,
+        "word": "杨幂坐收cvb实绩了",
+        "onboard_time": 1755095065,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36700,
+        "num": 36700,
+        "word": "台风",
+        "onboard_time": 1755093985,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35769,
+        "num": 35769,
+        "word": "菲律宾前选美皇后沉尸大海",
+        "onboard_time": 1755091945,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34557,
+        "num": 34557,
+        "word": "下河电鱼身亡4名同伴赔偿13.5万",
+        "onboard_time": 1755109216,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31675,
+        "num": 31675,
+        "word": "19岁女生被刺死亲属几天都睡不着觉",
+        "onboard_time": 1755099384,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31365,
+        "num": 31365,
+        "word": "艾滋甲乙丙肝一张身份证可全国追查",
+        "onboard_time": 1755086424,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 29902,
+        "num": 29902,
+        "word": "95后记者在加沙被打死",
+        "onboard_time": 1755091464,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28650,
+        "num": 29899,
+        "word": "AL战胜BLG",
+        "onboard_time": 1755097165,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28375,
+        "num": 29895,
+        "word": "藏在朋友之间的微妙恶意",
+        "onboard_time": 1755094105,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27260,
+        "num": 29887,
+        "word": "吃鸡蛋致女方崩溃事发地仍成谜",
+        "onboard_time": 1755100945,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26831,
+        "num": 29884,
+        "word": "突然get到了吴昕的美",
+        "onboard_time": 1755084863,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26521,
+        "num": 29877,
+        "word": "李行亮父女共用一张脸",
+        "onboard_time": 1755094224,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26440,
+        "num": 29870,
+        "word": "原来月薪过万一直都在被误解",
+        "onboard_time": 1755074483,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25472,
+        "num": 29864,
+        "word": "Aaaaapple品牌报警",
+        "onboard_time": 1755092186,
+        "rank": 42,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 25254,
+        "num": 29862,
+        "word": "BLG蜜月期结束了",
+        "onboard_time": 1755101962,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24308,
+        "num": 29858,
+        "word": "于斌晒和王一博聊天记录",
+        "onboard_time": 1755081203,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23897,
+        "num": 29849,
+        "word": "辅导员强奸醉酒女学生获刑3年半",
+        "onboard_time": 1755085104,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23633,
+        "num": 29844,
+        "word": "充电宝3C认证新规8月15日实施",
+        "onboard_time": 1755086785,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21917,
+        "num": 29839,
+        "word": "周润发 法拉利老了还是法拉利",
+        "onboard_time": 1755101363,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19512,
+        "num": 29836,
+        "word": "早睡1小时或能变瘦变开心",
+        "onboard_time": 1755094944,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15040,
+        "num": 29827,
+        "word": "腾讯总市值达7000亿美元",
+        "onboard_time": 1755097944,
+        "rank": 49,
+        "category": "互联网,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念改变中国影响世界#"
+    }
+  }
+}
