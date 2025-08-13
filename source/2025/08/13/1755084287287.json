@@ -1,0 +1,410 @@
+{
+  "runTime": 1755084287287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1804037,
+        "num": 1804037,
+        "word": "张碧晨方道歉",
+        "onboard_time": 1755082703,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 641991,
+        "num": 641991,
+        "word": "南极惊现一具冰封66年遗骸",
+        "onboard_time": 1755070041,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2824,
+        "num": 587886,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584490,
+        "num": 584490,
+        "word": "赵露思助农公司获大使证书是假的",
+        "onboard_time": 1755082462,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 287222,
+        "num": 287222,
+        "word": "追问助农可不可以使用假公章",
+        "onboard_time": 1755082282,
+        "rank": 4,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 267184,
+        "num": 267184,
+        "word": "李在明就韩国出现反华集会下达指示",
+        "onboard_time": 1755072862,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309665,
+        "num": 265561,
+        "word": "陈卓璇说长迪丽热巴这样会笑醒",
+        "onboard_time": 1755082823,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284403,
+        "num": 264906,
+        "word": "网传跟CardiB录歌的是朴彩英",
+        "onboard_time": 1755081862,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263775,
+        "num": 263775,
+        "word": "女孩出嫁戴上了20斤重银头饰",
+        "onboard_time": 1755081682,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255095,
+        "num": 255095,
+        "word": "熬夜 疲惫臭",
+        "onboard_time": 1755075922,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 797867,
+        "num": 251878,
+        "word": "印度聋哑女孩距警察20米处遭轮奸",
+        "onboard_time": 1755080423,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 441181,
+        "num": 251017,
+        "word": "于斌晒和王一博聊天记录",
+        "onboard_time": 1755081203,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415240,
+        "num": 247051,
+        "word": "陶白白自曝收入",
+        "onboard_time": 1755083725,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 378193,
+        "num": 243538,
+        "word": "嗯哼妹妹长这么大了",
+        "onboard_time": 1755076644,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336961,
+        "num": 239291,
+        "word": "原来月薪过万一直都在被误解",
+        "onboard_time": 1755074483,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238659,
+        "num": 238659,
+        "word": "陈慧琳曾痛失双胞胎爱女",
+        "onboard_time": 1755068663,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404240,
+        "num": 236835,
+        "word": "于斌王一博聊天记录",
+        "onboard_time": 1755082703,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232298,
+        "num": 232298,
+        "word": "19岁女生遭杀害手机丢失家属盼归还",
+        "onboard_time": 1755081985,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210140,
+        "num": 210140,
+        "word": "请回答1988团建",
+        "onboard_time": 1755077186,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195395,
+        "num": 195395,
+        "word": "16岁男生遭多人欺辱殴打被逼学狗叫",
+        "onboard_time": 1755082042,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171878,
+        "num": 171878,
+        "word": "梓渝势界杂志销售额",
+        "onboard_time": 1755081923,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170946,
+        "num": 170946,
+        "word": "周杰伦最高记录是26亿",
+        "onboard_time": 1755083484,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169784,
+        "num": 169784,
+        "word": "BLACKPINK怎么做到瞬间退场的",
+        "onboard_time": 1755078144,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166688,
+        "num": 166688,
+        "word": "陕西 冰雹苹果",
+        "onboard_time": 1755067103,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162220,
+        "num": 162220,
+        "word": "张艺兴回应林俊杰",
+        "onboard_time": 1755082584,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147621,
+        "num": 147621,
+        "word": "张予曦直播",
+        "onboard_time": 1755082943,
+        "rank": 25,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 141755,
+        "num": 141755,
+        "word": "生他养他的人都成了他的仇人",
+        "onboard_time": 1755083064,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137128,
+        "num": 137128,
+        "word": "体制内辞职一年后的真实感受",
+        "onboard_time": 1755069802,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135984,
+        "num": 135984,
+        "word": "宋丹丹孙子都这么大了",
+        "onboard_time": 1755077964,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25119,
+        "num": 134797,
+        "word": "增加女厕所总共分几步",
+        "onboard_time": 1755082883,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43884,
+        "num": 134699,
+        "word": "远洋船长公海遇害案家属发声",
+        "onboard_time": 1755082764,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153475,
+        "num": 134698,
+        "word": "早田希娜张本美和医疗暂停风波真相",
+        "onboard_time": 1755083603,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134696,
+        "num": 134696,
+        "word": "严浩翔开庭带上你的破弹幕",
+        "onboard_time": 1755080062,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134178,
+        "num": 134178,
+        "word": "业主说拖欠物业费可打折太不公平",
+        "onboard_time": 1755081203,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7228390,
+        "num": 7228390,
+        "word": "赵露思 钱江媒体好意思叫媒体吗",
+        "onboard_time": 1755075742,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129287,
+        "num": 129287,
+        "word": "在恋与深空当妈",
+        "onboard_time": 1755082282,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123915,
+        "num": 123915,
+        "word": "13岁男孩偷开路边货车撞伤人",
+        "onboard_time": 1755078384,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114669,
+        "num": 114669,
+        "word": "江山为聘",
+        "onboard_time": 1755081263,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90724,
+        "num": 112979,
+        "word": "利剑玫瑰微博涨分豆瓣锁分",
+        "onboard_time": 1755083663,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96553,
+        "num": 112784,
+        "word": "樊振东变天线宝宝",
+        "onboard_time": 1755083784,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112757,
+        "num": 112757,
+        "word": "128GB手机该退出历史了吗",
+        "onboard_time": 1755077485,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108676,
+        "num": 108676,
+        "word": "李嘉诚这次嗅到了危险",
+        "onboard_time": 1755084145,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108271,
+        "num": 108271,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1755080303,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106728,
+        "num": 106728,
+        "word": "李一桐的包比我简历还丰富",
+        "onboard_time": 1755077664,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101694,
+        "num": 101694,
+        "word": "张静初未拿到硕士文凭",
+        "onboard_time": 1755075622,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101368,
+        "num": 101368,
+        "word": "杨幂生万物包场一万座",
+        "onboard_time": 1755081502,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99344,
+        "num": 99344,
+        "word": "杨洋这点隐私全给大家伙看了",
+        "onboard_time": 1755079104,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98927,
+        "num": 98927,
+        "word": "印度一女子坐摩天轮时不慎掉出",
+        "onboard_time": 1755075982,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98088,
+        "num": 98088,
+        "word": "卫星互联网低轨08组卫星发射成功",
+        "onboard_time": 1755075503,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95991,
+        "num": 95991,
+        "word": "苏醒此刻对张远只剩满屏的问号",
+        "onboard_time": 1755082342,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记要求正确处理这对关系#"
+    }
+  }
+}
