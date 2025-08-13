@@ -1,0 +1,410 @@
+{
+  "runTime": 1755078286969,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10266956,
+        "num": 10266956,
+        "word": "赵露思 钱江媒体好意思叫媒体吗",
+        "onboard_time": 1755075742,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002416,
+        "num": 1002416,
+        "word": "南极惊现一具冰封66年遗骸",
+        "onboard_time": 1755070041,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22574,
+        "num": 730067,
+        "word": "网警守护家的安全",
+        "onboard_time": 1755064582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503522,
+        "num": 503522,
+        "word": "李在明就韩国出现反华集会下达指示",
+        "onboard_time": 1755072862,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333331,
+        "num": 333331,
+        "word": "陕西 冰雹苹果",
+        "onboard_time": 1755067103,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2101861,
+        "num": 333169,
+        "word": "赵露思 免得我把你那些全抖出来",
+        "onboard_time": 1755074243,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396031,
+        "num": 333081,
+        "word": "黄旭熙拍短剧了",
+        "onboard_time": 1755063203,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340362,
+        "num": 332919,
+        "word": "张静初未拿到硕士文凭",
+        "onboard_time": 1755075622,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126847,
+        "num": 332645,
+        "word": "卫星互联网低轨08组卫星发射成功",
+        "onboard_time": 1755075503,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109431,
+        "num": 332495,
+        "word": "多方回应女孩疑似被抓上无牌车遇害",
+        "onboard_time": 1755074724,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 774609,
+        "num": 332222,
+        "word": "原来月薪过万一直都在被误解",
+        "onboard_time": 1755074483,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436137,
+        "num": 332095,
+        "word": "陈慧琳曾痛失双胞胎爱女",
+        "onboard_time": 1755068663,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398211,
+        "num": 331913,
+        "word": "嗯哼妹妹长这么大了",
+        "onboard_time": 1755076644,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331837,
+        "num": 331837,
+        "word": "请回答1988团建",
+        "onboard_time": 1755077186,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268065,
+        "num": 268065,
+        "word": "梓渝电子刊价格",
+        "onboard_time": 1755076943,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239806,
+        "num": 239806,
+        "word": "好讨厌二三十块叫一杯奶茶钱",
+        "onboard_time": 1755072262,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233594,
+        "num": 233594,
+        "word": "吴谨言约饭于正坦白结婚",
+        "onboard_time": 1755058822,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213305,
+        "num": 213305,
+        "word": "李一桐的包比我简历还丰富",
+        "onboard_time": 1755077664,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191740,
+        "num": 191740,
+        "word": "熬夜 疲惫臭",
+        "onboard_time": 1755075922,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 191186,
+        "num": 191186,
+        "word": "李秀满从哪里找来5个老公姐",
+        "onboard_time": 1755077125,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189708,
+        "num": 189708,
+        "word": "杨洋凡人修仙传开分7.5",
+        "onboard_time": 1755077425,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34957,
+        "num": 176694,
+        "word": "王一博Q你解锁新旅途",
+        "onboard_time": 1755078024,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173485,
+        "num": 173485,
+        "word": "128GB手机该退出历史了吗",
+        "onboard_time": 1755077485,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170350,
+        "num": 170350,
+        "word": "买到被洪水泡过的饮料女子发声",
+        "onboard_time": 1755070582,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162375,
+        "num": 162375,
+        "word": "张本智和立flag剑指世界第一",
+        "onboard_time": 1755075443,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158102,
+        "num": 158102,
+        "word": "阚清子和老公牵手散步",
+        "onboard_time": 1755077904,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146551,
+        "num": 146551,
+        "word": "W盛典好多人啊",
+        "onboard_time": 1755074183,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143880,
+        "num": 143880,
+        "word": "迪丽热巴蝴蝶丝袜",
+        "onboard_time": 1755068481,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143457,
+        "num": 143457,
+        "word": "体制内辞职一年后的真实感受",
+        "onboard_time": 1755069802,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98919,
+        "num": 141867,
+        "word": "美国驱逐舰非法闯入中国黄岩岛领海",
+        "onboard_time": 1755056542,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141676,
+        "num": 141676,
+        "word": "印度一女子坐摩天轮时不慎掉出",
+        "onboard_time": 1755075982,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141051,
+        "num": 141051,
+        "word": "梓渝 泥潭大家都听了嘛",
+        "onboard_time": 1755061582,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136706,
+        "num": 136706,
+        "word": "杨幂工作室去哪里进修了",
+        "onboard_time": 1755076705,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133756,
+        "num": 133756,
+        "word": "李梦 我的衣服不丑只是小众",
+        "onboard_time": 1755072926,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131523,
+        "num": 131523,
+        "word": "BLACKPINK怎么做到瞬间退场的",
+        "onboard_time": 1755078144,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131485,
+        "num": 131485,
+        "word": "宋丹丹孙子都这么大了",
+        "onboard_time": 1755077964,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123676,
+        "num": 123676,
+        "word": "iPhone无感录音",
+        "onboard_time": 1755063563,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117239,
+        "num": 117239,
+        "word": "浪浪山小妖怪",
+        "onboard_time": 1755077664,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49097,
+        "num": 113696,
+        "word": "肖战藏海传成国产剧出海标杆",
+        "onboard_time": 1755078144,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113123,
+        "num": 113123,
+        "word": "朱梓骁每年生日张翰都在",
+        "onboard_time": 1755073822,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112828,
+        "num": 112828,
+        "word": "周也丞磊新剧正片播放量登顶",
+        "onboard_time": 1755077964,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109897,
+        "num": 109897,
+        "word": "被耐克起诉后陈冠希发文",
+        "onboard_time": 1755068782,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108896,
+        "num": 108896,
+        "word": "育儿补贴被母婴商家偷走了吗",
+        "onboard_time": 1755073641,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107961,
+        "num": 107961,
+        "word": "特效师累了 让明星飞一会儿吧",
+        "onboard_time": 1755078084,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33220,
+        "num": 106715,
+        "word": "消费贷累计30万可省利息3000元",
+        "onboard_time": 1755077485,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106404,
+        "num": 106404,
+        "word": "内娱短剧男演员现象级爆火",
+        "onboard_time": 1755077964,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105626,
+        "num": 105626,
+        "word": "走失男童涉事夏令营主理人回应",
+        "onboard_time": 1755075684,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101514,
+        "num": 101514,
+        "word": "中国恒大退市",
+        "onboard_time": 1755068542,
+        "rank": 47,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 99489,
+        "num": 99489,
+        "word": "A股一年涨1000点",
+        "onboard_time": 1755073463,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98318,
+        "num": 98318,
+        "word": "喜单冠军 哪怕是小北呢",
+        "onboard_time": 1755078263,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从两山理念与实践看中国与世界#"
+    }
+  }
+}

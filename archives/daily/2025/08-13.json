@@ -1,10 +1,10 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755077472578,
+  "endTime": 1755078286969,
   "band_list": [
     {
-      "raw_hot": 10008037,
-      "num": 10008037,
+      "raw_hot": 10266956,
+      "num": 10266956,
       "word": "赵露思 钱江媒体好意思叫媒体吗",
       "onboard_time": 1755075742,
       "rank": 0,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 778455,
-      "num": 214239,
+      "num": 332222,
       "word": "原来月薪过万一直都在被误解",
       "onboard_time": 1755074483,
       "rank": 30,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398211,
+      "num": 331913,
+      "word": "嗯哼妹妹长这么大了",
+      "onboard_time": 1755076644,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389139,
       "num": 373739,
       "word": "方圆脸瘦20斤变化",
@@ -505,6 +513,14 @@
       "onboard_time": 1755049821,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331837,
+      "num": 331837,
+      "word": "请回答1988团建",
+      "onboard_time": 1755077186,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 318393,
@@ -611,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268065,
+      "num": 268065,
+      "word": "梓渝电子刊价格",
+      "onboard_time": 1755076943,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 267108,
       "num": 147428,
       "word": "杨洋 不喜欢我我就少出现",
@@ -619,16 +643,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265817,
-      "num": 213789,
-      "word": "请回答1988团建",
-      "onboard_time": 1755077186,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 261588,
-      "num": 213741,
+      "num": 239806,
       "word": "好讨厌二三十块叫一杯奶茶钱",
       "onboard_time": 1755072262,
       "rank": 17,
@@ -705,14 +721,6 @@
       "onboard_time": 1755007286,
       "rank": 8,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 241380,
-      "num": 213418,
-      "word": "梓渝电子刊价格",
-      "onboard_time": 1755076943,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 237518,
@@ -817,6 +825,14 @@
       "onboard_time": 1755070582,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213305,
+      "num": 213305,
+      "word": "李一桐的包比我简历还丰富",
+      "onboard_time": 1755077664,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 212160,
@@ -987,6 +1003,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191740,
+      "num": 191740,
+      "word": "熬夜 疲惫臭",
+      "onboard_time": 1755075922,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 191186,
+      "num": 191186,
+      "word": "李秀满从哪里找来5个老公姐",
+      "onboard_time": 1755077125,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189987,
       "num": 215416,
       "word": "权志龙涉嫌违反版权法",
@@ -1011,12 +1043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189352,
-      "num": 189352,
-      "word": "熬夜 疲惫臭",
-      "onboard_time": 1755075922,
-      "rank": 22,
-      "category": "科学科普"
+      "raw_hot": 189708,
+      "num": 189708,
+      "word": "杨洋凡人修仙传开分7.5",
+      "onboard_time": 1755077425,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 188604,
@@ -1083,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176145,
-      "num": 213073,
-      "word": "嗯哼妹妹长这么大了",
-      "onboard_time": 1755076644,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175649,
       "num": 299269,
       "word": "周也丞磊沙发吻",
@@ -1108,19 +1132,19 @@
     },
     {
       "raw_hot": 173966,
-      "num": 214626,
+      "num": 332645,
       "word": "卫星互联网低轨08组卫星发射成功",
       "onboard_time": 1755075503,
       "rank": 9,
       "category": "国内时政"
     },
     {
-      "raw_hot": 172222,
-      "num": 172222,
-      "word": "杨洋凡人修仙传开分7.5",
-      "onboard_time": 1755077425,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 173485,
+      "num": 173485,
+      "word": "128GB手机该退出历史了吗",
+      "onboard_time": 1755077485,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 171247,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1755075982,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 158102,
+      "num": 158102,
+      "word": "阚清子和老公牵手散步",
+      "onboard_time": 1755077904,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 157860,
@@ -1451,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140316,
-      "num": 140316,
-      "word": "李秀满从哪里找来5个老公姐",
-      "onboard_time": 1755077125,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 140240,
       "num": 109193,
       "word": "杨洋这两年有意淡出观众视野",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1755004525,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136706,
+      "num": 140066,
+      "word": "杨幂工作室去哪里进修了",
+      "onboard_time": 1755076705,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 135444,
@@ -1611,6 +1643,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131523,
+      "num": 131523,
+      "word": "BLACKPINK怎么做到瞬间退场的",
+      "onboard_time": 1755078144,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 131485,
+      "num": 131485,
+      "word": "宋丹丹孙子都这么大了",
+      "onboard_time": 1755077964,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131252,
       "num": 217855,
       "word": "警方再通报宝妈遛娃遭多人配合偷手机",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1755016821,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 129608,
-      "num": 140066,
-      "word": "杨幂工作室去哪里进修了",
-      "onboard_time": 1755076705,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 129072,
@@ -1867,6 +1907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117239,
+      "num": 117239,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1755077664,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116484,
       "num": 165507,
       "word": "李维嘉回应被传洁癖",
@@ -1905,6 +1953,14 @@
       "onboard_time": 1755071903,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112828,
+      "num": 112828,
+      "word": "周也丞磊新剧正片播放量登顶",
+      "onboard_time": 1755077964,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 112561,
@@ -1971,6 +2027,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109431,
+      "num": 332495,
+      "word": "多方回应女孩疑似被抓上无牌车遇害",
+      "onboard_time": 1755074724,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107961,
+      "num": 107961,
+      "word": "特效师累了 让明星飞一会儿吧",
+      "onboard_time": 1755078084,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107738,
       "num": 107738,
       "word": "生育损伤",
@@ -1985,6 +2057,22 @@
       "onboard_time": 1755045503,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 106404,
+      "num": 106404,
+      "word": "内娱短剧男演员现象级爆火",
+      "onboard_time": 1755077964,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105626,
+      "num": 158477,
+      "word": "走失男童涉事夏令营主理人回应",
+      "onboard_time": 1755075684,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105595,
@@ -2075,12 +2163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97286,
-      "num": 158477,
-      "word": "走失男童涉事夏令营主理人回应",
-      "onboard_time": 1755075684,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 98318,
+      "num": 98318,
+      "word": "喜单冠军 哪怕是小北呢",
+      "onboard_time": 1755078263,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 96902,
@@ -2137,14 +2225,6 @@
       "onboard_time": 1754980823,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 91989,
-      "num": 150064,
-      "word": "多方回应女孩疑似被抓上无牌车遇害",
-      "onboard_time": 1755074724,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91684,
@@ -2427,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49097,
+      "num": 113696,
+      "word": "肖战藏海传成国产剧出海标杆",
+      "onboard_time": 1755078144,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48617,
       "num": 67992,
       "word": "撒贝宁和谢娜何止是熟",
@@ -2505,6 +2593,22 @@
       "onboard_time": 1755020478,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 34957,
+      "num": 176694,
+      "word": "王一博Q你解锁新旅途",
+      "onboard_time": 1755078024,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33220,
+      "num": 106715,
+      "word": "消费贷累计30万可省利息3000元",
+      "onboard_time": 1755077485,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32858,
