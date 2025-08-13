@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755090672126,
+  "endTime": 1755092493123,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1907,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1161810,
+      "num": 1185889,
+      "word": "美国惊现触手兔子专家警告远离",
+      "onboard_time": 1755091464,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1158434,
       "num": 461132,
       "word": "吴谨言约饭于正坦白结婚",
@@ -2347,6 +2355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1027385,
+      "num": 1027385,
+      "word": "生万物收视率",
+      "onboard_time": 1755088764,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1024663,
       "num": 1024663,
       "word": "胖东来为有犯罪前科人员留20个岗位",
@@ -2681,6 +2697,14 @@
       "onboard_time": 1754979441,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 958249,
+      "num": 958249,
+      "word": "男子转账3500元备注彩礼要求返还被驳回",
+      "onboard_time": 1755087623,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 955406,
@@ -3035,14 +3059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 861346,
-      "num": 861346,
-      "word": "生万物收视率",
-      "onboard_time": 1755088764,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 859146,
       "num": 859146,
       "word": "再见爱人 王浩信",
@@ -3184,14 +3200,6 @@
       "word": "66岁男子与情人发生关系后猝死",
       "onboard_time": 1755008665,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 834526,
-      "num": 834526,
-      "word": "男子转账3500元备注彩礼要求返还被驳回",
-      "onboard_time": 1755087623,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -5939,6 +5947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 547688,
+      "num": 547688,
+      "word": "杨幂演技",
+      "onboard_time": 1755091165,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 546669,
       "num": 546669,
       "word": "黄岩岛",
@@ -6867,6 +6883,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 476646,
+      "num": 394107,
+      "word": "歌手2025评分3.8分",
+      "onboard_time": 1755089184,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476184,
       "num": 476184,
       "word": "黄子韬公司被限消",
@@ -7497,6 +7521,14 @@
       "onboard_time": 1754536341,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436228,
+      "num": 365454,
+      "word": "赵露思称有人操控舆论搞她",
+      "onboard_time": 1755092424,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 434976,
@@ -8249,14 +8281,6 @@
       "onboard_time": 1754651361,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 394107,
-      "num": 394107,
-      "word": "歌手2025评分3.8分",
-      "onboard_time": 1755089184,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 394074,
@@ -16715,6 +16739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195000,
+      "num": 195000,
+      "word": "高三男生被邻居驾车撞伤一年后身亡",
+      "onboard_time": 1755091585,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194955,
       "num": 204650,
       "word": "花少7国际排面拉满",
@@ -16777,6 +16809,14 @@
       "onboard_time": 1754829922,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194513,
+      "num": 182413,
+      "word": "登陆少年 海口",
+      "onboard_time": 1755092304,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 194476,
@@ -18251,6 +18291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184030,
+      "num": 184030,
+      "word": "生万物热度",
+      "onboard_time": 1755089845,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183961,
       "num": 183961,
       "word": "武汉大学何时能还无辜学生清白",
@@ -19585,6 +19633,14 @@
       "onboard_time": 1754375303,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 173307,
+      "num": 173307,
+      "word": "学会这些饮品做法就不用出去买了",
+      "onboard_time": 1755091524,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 173247,
@@ -21123,6 +21179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163436,
+      "num": 188531,
+      "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
+      "onboard_time": 1755091825,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163312,
       "num": 163312,
       "word": "尹锡悦拒捕细节曝光",
@@ -22185,6 +22249,14 @@
       "onboard_time": 1754057724,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157457,
+      "num": 157457,
+      "word": "95后记者在加沙被打死",
+      "onboard_time": 1755091464,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157375,
@@ -23347,6 +23419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151447,
+      "num": 151447,
+      "word": "偶遇王鸥孟湛东坐地铁",
+      "onboard_time": 1755090264,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151393,
       "num": 151393,
       "word": "GPT5",
@@ -23361,6 +23441,14 @@
       "onboard_time": 1754369545,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151312,
+      "num": 151312,
+      "word": "Aaaaapple品牌报警",
+      "onboard_time": 1755092186,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 151198,
@@ -24419,14 +24507,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 146418,
-      "num": 146418,
-      "word": "生万物热度",
-      "onboard_time": 1755089845,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146415,
       "num": 159294,
       "word": "虎扑女神大赛投票",
@@ -24625,6 +24705,14 @@
       "onboard_time": 1754230223,
       "rank": 38,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 145528,
+      "num": 145528,
+      "word": "充电宝3C认证新规8月15日实施",
+      "onboard_time": 1755086785,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145502,
@@ -24929,6 +25017,14 @@
       "onboard_time": 1754563044,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143690,
+      "num": 143690,
+      "word": "菲律宾前选美皇后沉尸大海",
+      "onboard_time": 1755091945,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143688,
@@ -26899,6 +26995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135956,
+      "num": 135956,
+      "word": "女版Faker火了",
+      "onboard_time": 1755090503,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135902,
       "num": 135902,
       "word": "迪丽热巴打拐剧登上了人民日报",
@@ -27529,6 +27633,14 @@
       "onboard_time": 1754923705,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133845,
+      "num": 133845,
+      "word": "网信公安严打自媒体发布不实信息",
+      "onboard_time": 1755091285,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 133817,
@@ -28521,14 +28633,6 @@
       "onboard_time": 1754648360,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130197,
-      "num": 130197,
-      "word": "充电宝3C认证新规8月15日实施",
-      "onboard_time": 1755086785,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130151,
@@ -31675,6 +31779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118629,
+      "num": 118629,
+      "word": "樊振东回复周冠宇",
+      "onboard_time": 1755089184,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118627,
       "num": 118627,
       "word": "周深若梦现场像仙侠片",
@@ -32451,6 +32563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115021,
+      "num": 115021,
+      "word": "生万物收视率破2",
+      "onboard_time": 1755091464,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114971,
       "num": 290062,
       "word": "82岁老人跳河勇救98岁老人",
@@ -32665,6 +32785,14 @@
       "onboard_time": 1754997743,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114245,
+      "num": 192488,
+      "word": "不到1元的防晒霜你敢涂吗",
+      "onboard_time": 1755090084,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 114225,
@@ -33411,14 +33539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111829,
-      "num": 111829,
-      "word": "偶遇王鸥孟湛东坐地铁",
-      "onboard_time": 1755090264,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111729,
       "num": 111729,
       "word": "北京立秋自带烤炉进站",
@@ -33723,6 +33843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110539,
+      "num": 110539,
+      "word": "BLG对战AL",
+      "onboard_time": 1755090503,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110476,
       "num": 110476,
       "word": "出现这6种症状可能是心梗前兆",
@@ -33825,6 +33953,14 @@
       "onboard_time": 1755063622,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110112,
+      "num": 110112,
+      "word": "黑车司机患重度鼾症追尾致7死1伤",
+      "onboard_time": 1755090385,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110092,
@@ -34755,14 +34891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105635,
-      "num": 105635,
-      "word": "BLG对战AL",
-      "onboard_time": 1755090503,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 105626,
       "num": 158477,
       "word": "走失男童涉事夏令营主理人回应",
@@ -35193,14 +35321,6 @@
       "onboard_time": 1754178439,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103680,
-      "num": 103680,
-      "word": "樊振东回复周冠宇",
-      "onboard_time": 1755089184,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 103625,
@@ -36617,14 +36737,6 @@
       "onboard_time": 1754612182,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96111,
-      "num": 96111,
-      "word": "黑车司机患重度鼾症追尾致7死1伤",
-      "onboard_time": 1755090385,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96058,
@@ -38361,14 +38473,6 @@
       "onboard_time": 1754319986,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83102,
-      "num": 106991,
-      "word": "女版Faker火了",
-      "onboard_time": 1755090503,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 83098,
@@ -40811,6 +40915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54102,
+      "num": 176127,
+      "word": "男子分手后索回1.8万转账被驳回",
+      "onboard_time": 1755091585,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54071,
       "num": 130015,
       "word": "这周六有30多场演唱会",
@@ -41787,6 +41899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 43615,
+      "num": 123151,
+      "word": "多名未成年主播急求MCN脱身办法",
+      "onboard_time": 1755091705,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43269,
       "num": 53754,
       "word": "第一次见这么混血的语言系统",
@@ -42505,14 +42625,6 @@
       "onboard_time": 1754915843,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36528,
-      "num": 192488,
-      "word": "不到1元的防晒霜你敢涂吗",
-      "onboard_time": 1755090084,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 36449,
