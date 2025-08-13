@@ -1,7 +1,15 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755096398686,
+  "endTime": 1755098749342,
   "band_list": [
+    {
+      "raw_hot": 13629920,
+      "num": 13629920,
+      "word": "官方称助农大使称号证书是真的",
+      "onboard_time": 1755097165,
+      "rank": 0,
+      "category": "民生新闻,艺人"
+    },
     {
       "raw_hot": 10266956,
       "num": 10266956,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2021132,
+      "num": 272123,
+      "word": "赵露思后援会发文",
+      "onboard_time": 1755097584,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1943930,
       "num": 1943930,
       "word": "美国惊现触手兔子专家警告远离",
@@ -139,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1356336,
+      "num": 360628,
+      "word": "胸贴 危害",
+      "onboard_time": 1755096145,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1334731,
       "num": 1334731,
       "word": "维达",
@@ -153,6 +177,14 @@
       "onboard_time": 1755063203,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1265412,
+      "num": 1265412,
+      "word": "男童遗体距走失处直线距离1公里",
+      "onboard_time": 1755095845,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1185308,
@@ -411,6 +443,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 626769,
+      "num": 626769,
+      "word": "亚朵酒店被曝疑现别人用过的牙签",
+      "onboard_time": 1755093684,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626572,
       "num": 304861,
       "word": "体制内辞职一年后的真实感受",
@@ -531,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493203,
+      "num": 493203,
+      "word": "AL战胜BLG",
+      "onboard_time": 1755097165,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 479298,
       "num": 479298,
       "word": "南部战区回应美舰非法闯入黄岩岛领海",
@@ -553,6 +601,14 @@
       "onboard_time": 1755052882,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458331,
+      "num": 458331,
+      "word": "月亮",
+      "onboard_time": 1755094464,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 456860,
@@ -609,14 +665,6 @@
       "onboard_time": 1755060024,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 417244,
-      "num": 417244,
-      "word": "亚朵酒店被曝疑现别人用过的牙签",
-      "onboard_time": 1755093684,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 409641,
@@ -705,14 +753,6 @@
       "onboard_time": 1755085284,
       "rank": 13,
       "category": "民生新闻,演出"
-    },
-    {
-      "raw_hot": 357058,
-      "num": 357058,
-      "word": "月亮",
-      "onboard_time": 1755094464,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 354470,
@@ -929,14 +969,6 @@
       "onboard_time": 1754993182,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264544,
-      "num": 410753,
-      "word": "男童遗体距走失处直线距离1公里",
-      "onboard_time": 1755095845,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261588,
@@ -1971,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146178,
+      "num": 146178,
+      "word": "官方称确给苹果汁公司发过证书",
+      "onboard_time": 1755097345,
+      "rank": 27,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 146113,
       "num": 146113,
       "word": "立邦创始人吴清亮去世",
@@ -2283,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130326,
+      "num": 130326,
+      "word": "刘耀文我本是上单今晚来打野",
+      "onboard_time": 1755098126,
+      "rank": 28,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 129980,
       "num": 129980,
       "word": "万妮达一周末看了16部短剧",
@@ -2411,6 +2459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124566,
+      "num": 361460,
+      "word": "93岁弟弟看望98岁哥哥这一幕看哭了",
+      "onboard_time": 1755097645,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124523,
       "num": 124523,
       "word": "周也小比就是什么都比",
@@ -2497,6 +2553,14 @@
       "onboard_time": 1755063022,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121929,
+      "num": 121929,
+      "word": "卫健局回应酒店残留用过的安全套",
+      "onboard_time": 1755097645,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121692,
@@ -2611,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117860,
+      "num": 117860,
+      "word": "BLG对战AL",
+      "onboard_time": 1755090503,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117721,
       "num": 117721,
       "word": "沈星回演奏的原因",
@@ -2705,14 +2777,6 @@
       "onboard_time": 1755071903,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 113092,
-      "num": 113092,
-      "word": "BLG对战AL",
-      "onboard_time": 1755090503,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 112828,
@@ -2827,6 +2891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107911,
+      "num": 356355,
+      "word": "大理走失男童遇难初步排除刑事案件",
+      "onboard_time": 1755095906,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107738,
       "num": 107738,
       "word": "生育损伤",
@@ -2872,14 +2944,6 @@
       "word": "走失男童涉事夏令营主理人回应",
       "onboard_time": 1755075684,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105624,
-      "num": 356355,
-      "word": "大理走失男童遇难初步排除刑事案件",
-      "onboard_time": 1755095906,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3043,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98586,
+      "num": 98586,
+      "word": "5名未成年开车上高速去吃小吃",
+      "onboard_time": 1755094105,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98537,
       "num": 98537,
       "word": "这美甲可以留着可以给巨人戴",
@@ -3115,6 +3187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95973,
+      "num": 95973,
+      "word": "腾讯总市值达7000亿美元",
+      "onboard_time": 1755097944,
+      "rank": 44,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 95638,
       "num": 95638,
       "word": "33岁女老师二胎难产去世",
@@ -3179,14 +3259,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 93515,
-      "num": 93515,
-      "word": "5名未成年开车上高速去吃小吃",
-      "onboard_time": 1755094105,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93177,
       "num": 94304,
       "word": "QQ月活超5亿",
@@ -3224,6 +3296,14 @@
       "word": "赵露思说现在只想要自由",
       "onboard_time": 1755022276,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87765,
+      "num": 94005,
+      "word": "张泽禹 听说今天我过节",
+      "onboard_time": 1755097046,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -3313,6 +3393,14 @@
       "onboard_time": 1755091585,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79720,
+      "num": 93971,
+      "word": "马嘉祺星钥卡到底在谁手里",
+      "onboard_time": 1755096564,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 79603,
@@ -3457,6 +3545,14 @@
       "onboard_time": 1755073942,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56176,
+      "num": 107948,
+      "word": "美国芯片暗藏追踪器",
+      "onboard_time": 1755098064,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54967,
@@ -3609,6 +3705,14 @@
       "onboard_time": 1755050421,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42057,
+      "num": 278945,
+      "word": "大理失踪男童遗体在山涧里被发现",
+      "onboard_time": 1755098064,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39000,

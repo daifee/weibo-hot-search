@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1755096398686,
+  "endTime": 1755098749342,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -505,6 +505,14 @@
       "onboard_time": 1750676308,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 13629920,
+      "num": 13629920,
+      "word": "官方称助农大使称号证书是真的",
+      "onboard_time": 1755097165,
+      "rank": 0,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 13594592,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1752833960,
       "rank": 10,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 4038610,
-      "num": 4038610,
-      "word": "外交部回应美国对华征收104%关税",
-      "onboard_time": 1744184001,
-      "rank": 21,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
