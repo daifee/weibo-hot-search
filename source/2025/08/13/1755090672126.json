@@ -1,0 +1,410 @@
+{
+  "runTime": 1755090672126,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2857774,
+        "num": 2857774,
+        "word": "大理苍山失踪8岁男童不幸遇难",
+        "onboard_time": 1755087324,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2530654,
+        "num": 2530654,
+        "word": "市监局介入调查赵露思假助农风波",
+        "onboard_time": 1755085824,
+        "rank": 1,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 28168,
+        "num": 1231974,
+        "word": "卫星互联网低轨08组卫星发射成功",
+        "onboard_time": 1755075503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 861346,
+        "num": 861346,
+        "word": "生万物收视率",
+        "onboard_time": 1755088764,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 818464,
+        "num": 818464,
+        "word": "男子转账3500元备注彩礼要求返还被驳回",
+        "onboard_time": 1755087623,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806572,
+        "num": 806572,
+        "word": "陶白白自曝收入",
+        "onboard_time": 1755083725,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 534626,
+        "num": 534626,
+        "word": "李嘉诚这次嗅到了危险",
+        "onboard_time": 1755084145,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 500327,
+        "num": 500327,
+        "word": "生万物",
+        "onboard_time": 1755085404,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480493,
+        "num": 480493,
+        "word": "南极惊现一具冰封66年遗骸",
+        "onboard_time": 1755070041,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 459127,
+        "num": 459127,
+        "word": "艾滋甲乙丙肝一张身份证可全国追查",
+        "onboard_time": 1755086424,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 2086410,
+        "num": 443027,
+        "word": "赵露思代言续约了",
+        "onboard_time": 1755084503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394107,
+        "num": 394107,
+        "word": "歌手2025评分3.8分",
+        "onboard_time": 1755089184,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374667,
+        "num": 374667,
+        "word": "印度聋哑女孩距警察20米处遭轮奸",
+        "onboard_time": 1755080423,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 358802,
+        "num": 358802,
+        "word": "原来月薪过万一直都在被误解",
+        "onboard_time": 1755074483,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299122,
+        "num": 299122,
+        "word": "嗯哼妹妹长这么大了",
+        "onboard_time": 1755076644,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271093,
+        "num": 271093,
+        "word": "3人用外挂抢时代少年团门票牟利10万",
+        "onboard_time": 1755085284,
+        "rank": 15,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 227960,
+        "num": 227960,
+        "word": "宋亚轩刘耀文说进时代峰峻是人生转折",
+        "onboard_time": 1755087442,
+        "rank": 16,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 214121,
+        "num": 214121,
+        "word": "于斌晒和王一博聊天记录",
+        "onboard_time": 1755081203,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194397,
+        "num": 194397,
+        "word": "广东蚊子 抗药性",
+        "onboard_time": 1755088824,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36528,
+        "num": 192488,
+        "word": "不到1元的防晒霜你敢涂吗",
+        "onboard_time": 1755090084,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 272489,
+        "num": 192086,
+        "word": "追问助农可不可以使用假公章",
+        "onboard_time": 1755082282,
+        "rank": 20,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 191462,
+        "num": 191462,
+        "word": "辅导员强奸醉酒女学生获刑3年半",
+        "onboard_time": 1755085104,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187113,
+        "num": 187113,
+        "word": "突然get到了吴昕的美",
+        "onboard_time": 1755084863,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158194,
+        "num": 158194,
+        "word": "女孩出嫁戴上了20斤重银头饰",
+        "onboard_time": 1755081682,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151514,
+        "num": 151514,
+        "word": "杨柳是今年来登陆我国最强台风",
+        "onboard_time": 1755084383,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146418,
+        "num": 146418,
+        "word": "生万物热度",
+        "onboard_time": 1755089845,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141977,
+        "num": 141977,
+        "word": "网传跟CardiB录歌的是朴彩英",
+        "onboard_time": 1755081862,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124290,
+        "num": 141515,
+        "word": "杨幂宁绣绣48小时极限结婚",
+        "onboard_time": 1755090205,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121337,
+        "num": 140328,
+        "word": "周杰伦最高记录是26亿",
+        "onboard_time": 1755083484,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18765,
+        "num": 139332,
+        "word": "男孩野外玩水后看到小人跳舞",
+        "onboard_time": 1755090084,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48198,
+        "num": 137561,
+        "word": "台风杨柳将再次登陆后深入内陆",
+        "onboard_time": 1755090444,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151182,
+        "num": 136985,
+        "word": "16岁男生遭多人欺辱殴打被逼学狗叫",
+        "onboard_time": 1755082042,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135967,
+        "num": 135967,
+        "word": "李在明就韩国出现反华集会下达指示",
+        "onboard_time": 1755072862,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114225,
+        "num": 114225,
+        "word": "小孩姐一口英文帮妈卖了1200个手电筒",
+        "onboard_time": 1755086424,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113292,
+        "num": 113292,
+        "word": "张碧晨方因演唱会延期道歉",
+        "onboard_time": 1755082703,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111829,
+        "num": 111829,
+        "word": "偶遇王鸥孟湛东坐地铁",
+        "onboard_time": 1755090264,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110340,
+        "num": 110340,
+        "word": "陈卓璇说长迪丽热巴这样会笑醒",
+        "onboard_time": 1755082823,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107925,
+        "num": 107925,
+        "word": "周也丞磊你们真拍了",
+        "onboard_time": 1755088645,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83102,
+        "num": 106991,
+        "word": "女版Faker火了",
+        "onboard_time": 1755090503,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106409,
+        "num": 106409,
+        "word": "充电宝3C认证新规8月15日实施",
+        "onboard_time": 1755086785,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105798,
+        "num": 105798,
+        "word": "张艺兴回应林俊杰",
+        "onboard_time": 1755082584,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105635,
+        "num": 105635,
+        "word": "BLG对战AL",
+        "onboard_time": 1755090503,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103680,
+        "num": 103680,
+        "word": "樊振东回复周冠宇",
+        "onboard_time": 1755089184,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102786,
+        "num": 102786,
+        "word": "虞书欣将参加W盛典",
+        "onboard_time": 1755084503,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99090,
+        "num": 99090,
+        "word": "请回答1988团建",
+        "onboard_time": 1755077186,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96883,
+        "num": 96883,
+        "word": "早田希娜张本美和医疗暂停风波真相",
+        "onboard_time": 1755083603,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96111,
+        "num": 96111,
+        "word": "黑车司机患重度鼾症追尾致7死1伤",
+        "onboard_time": 1755090385,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94489,
+        "num": 94489,
+        "word": "1人因打车支付报警扬言袭警被拘",
+        "onboard_time": 1755086424,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93604,
+        "num": 93604,
+        "word": "歌手山田信夫去世",
+        "onboard_time": 1755085404,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93247,
+        "num": 93247,
+        "word": "梓渝势界杂志销售额",
+        "onboard_time": 1755081923,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念改变中国影响世界#"
+    }
+  }
+}
