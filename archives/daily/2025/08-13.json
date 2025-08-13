@@ -1,10 +1,10 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755052074336,
+  "endTime": 1755056376379,
   "band_list": [
     {
       "raw_hot": 2756344,
-      "num": 224711,
+      "num": 257862,
       "word": "赵露思 之前有个艺人高速倒车",
       "onboard_time": 1755010045,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2610173,
-      "num": 483248,
+      "num": 601984,
       "word": "房东税来了",
       "onboard_time": 1755050421,
       "rank": 4,
@@ -36,10 +36,18 @@
     },
     {
       "raw_hot": 1133116,
-      "num": 312732,
+      "num": 383983,
       "word": "杜江霍思燕一家四口同框",
       "onboard_time": 1755050241,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 992984,
+      "num": 1158877,
+      "word": "赵露思闺蜜回应助农",
+      "onboard_time": 1755054923,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -91,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572527,
+      "num": 572527,
+      "word": "NIKE起诉陈冠希索赔90万",
+      "onboard_time": 1755052641,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555524,
       "num": 355297,
       "word": "男子强吻陌生女子被鉴定精神病障碍",
@@ -107,11 +123,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 503714,
+      "num": 463173,
+      "word": "郭麒麟婉拒郭德纲",
+      "onboard_time": 1755051381,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498224,
       "num": 202131,
       "word": "被捅女生朋友发声",
       "onboard_time": 1755003926,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465541,
+      "num": 465541,
+      "word": "南部战区回应美舰非法闯入黄岩岛领海",
+      "onboard_time": 1755054923,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 460785,
+      "num": 460785,
+      "word": "广州空姐村",
+      "onboard_time": 1755052882,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -121,6 +161,22 @@
       "onboard_time": 1755046523,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 427731,
+      "num": 427731,
+      "word": "国家烟草局一原副局长被判15年",
+      "onboard_time": 1755051261,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 412240,
+      "num": 412240,
+      "word": "男子烧衣泄愤致母亲死亡",
+      "onboard_time": 1755054923,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376682,
@@ -139,12 +195,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346373,
+      "num": 346373,
+      "word": "日本一女子36岁成外婆",
+      "onboard_time": 1755051081,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 335191,
       "num": 335191,
       "word": "19岁佟某某代表不了00后",
       "onboard_time": 1755012924,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335054,
+      "num": 335054,
+      "word": "吃鸡蛋事件妇联称已初步掌握经过",
+      "onboard_time": 1755049821,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318393,
+      "num": 318393,
+      "word": "FPX暂停与milkyway合作",
+      "onboard_time": 1755053663,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 314631,
@@ -169,14 +249,6 @@
       "onboard_time": 1755008846,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309933,
-      "num": 309933,
-      "word": "日本一女子36岁成外婆",
-      "onboard_time": 1755051081,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 309262,
@@ -235,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262198,
-      "num": 282902,
-      "word": "吃鸡蛋事件妇联称已初步掌握经过",
-      "onboard_time": 1755049821,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 261156,
+      "num": 261156,
+      "word": "官方通报三亚一酒店虫子成群",
+      "onboard_time": 1755054080,
+      "rank": 16,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 261056,
@@ -249,6 +321,14 @@
       "onboard_time": 1755050002,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259558,
+      "num": 259558,
+      "word": "王楚钦孙颖莎左手右手的合作",
+      "onboard_time": 1755049581,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 258245,
@@ -291,6 +371,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 230195,
+      "num": 230195,
+      "word": "细菌战幸存者说腿上的肉一洗就掉渣",
+      "onboard_time": 1755052460,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227588,
       "num": 227588,
       "word": "花少7这是香妃扎堆了",
@@ -307,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222552,
-      "num": 222552,
-      "word": "王楚钦孙颖莎左手右手的合作",
-      "onboard_time": 1755049581,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218633,
       "num": 218633,
       "word": "当地回应景区行凶嫌犯有精神疾病史",
@@ -323,12 +403,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205600,
+      "num": 258195,
+      "word": "姐姐妹妹抓娃娃",
+      "onboard_time": 1755053302,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203922,
       "num": 203922,
       "word": "移动崩了",
       "onboard_time": 1755049403,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 201837,
+      "num": 257887,
+      "word": "毕雯珺狂夸张予曦太厉害",
+      "onboard_time": 1755055582,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200025,
+      "num": 200025,
+      "word": "今年看到最嘶哈的翻面吻",
+      "onboard_time": 1755054681,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 199917,
@@ -347,12 +451,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191629,
-      "num": 313244,
-      "word": "国家烟草局一原副局长被判15年",
-      "onboard_time": 1755051261,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 195123,
+      "num": 195123,
+      "word": "时代少年团 输给你的朋友很丢人吗",
+      "onboard_time": 1755055822,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194944,
+      "num": 194944,
+      "word": "沪指破3674.4点",
+      "onboard_time": 1755055342,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 194863,
+      "num": 194863,
+      "word": "印度女子在拥挤车厢呼吸困难被起哄",
+      "onboard_time": 1755055582,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 189987,
@@ -360,6 +480,14 @@
       "word": "权志龙涉嫌违反版权法",
       "onboard_time": 1755050181,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184469,
+      "num": 184469,
+      "word": "嗯哼一人推3个行李箱",
+      "onboard_time": 1755052522,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -371,6 +499,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 174577,
+      "num": 174577,
+      "word": "解放军警告驱离美国驱逐舰",
+      "onboard_time": 1755055582,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 169848,
       "num": 169848,
       "word": "王晶称银河酷娱是一星公司",
@@ -379,11 +515,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161299,
-      "num": 161299,
-      "word": "郭麒麟婉拒郭德纲",
-      "onboard_time": 1755051381,
-      "rank": 27,
+      "raw_hot": 166485,
+      "num": 166485,
+      "word": "奇文",
+      "onboard_time": 1755053541,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -393,6 +529,14 @@
       "onboard_time": 1755000083,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156357,
+      "num": 156357,
+      "word": "古人的包包有多惊艳",
+      "onboard_time": 1755054261,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 155194,
@@ -435,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148380,
+      "num": 148380,
+      "word": "曝iPhone18系列A20芯片革新架构",
+      "onboard_time": 1755051261,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145582,
       "num": 145582,
       "word": "欧盟26国声明支持乌克兰入盟",
@@ -451,11 +603,43 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144981,
+      "num": 144981,
+      "word": "全厂停工停产一天集体观看731",
+      "onboard_time": 1755052522,
+      "rank": 41,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 141552,
+      "num": 141552,
+      "word": "当代左撇子真实上班现状",
+      "onboard_time": 1755056242,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141521,
+      "num": 141521,
+      "word": "你这婚礼直接去夜市办吧",
+      "onboard_time": 1755055461,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140240,
       "num": 109193,
       "word": "杨洋这两年有意淡出观众视野",
       "onboard_time": 1755017599,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138699,
+      "num": 138699,
+      "word": "陈飞宇也演上三生三世了",
+      "onboard_time": 1755056122,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -499,12 +683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128913,
+      "num": 145718,
+      "word": "中国企业飞机被扣俄罗斯",
+      "onboard_time": 1755055282,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128785,
       "num": 128785,
       "word": "王楚钦成外协冲击主要目标",
       "onboard_time": 1755051500,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127554,
+      "num": 127554,
+      "word": "蓝盈莹新剧一句话没说但很苦",
+      "onboard_time": 1755056242,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 125786,
@@ -529,6 +729,14 @@
       "onboard_time": 1755051261,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123414,
+      "num": 123414,
+      "word": "抗战胜利80周年",
+      "onboard_time": 1755055401,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122637,
@@ -587,12 +795,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 111848,
+      "num": 111848,
+      "word": "遇到crush的顶级反面教材",
+      "onboard_time": 1755056002,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110061,
       "num": 110061,
       "word": "韩安冉计划生七个孩子",
       "onboard_time": 1755008846,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 110045,
+      "num": 110045,
+      "word": "张予曦财阀千金即视感",
+      "onboard_time": 1755056363,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 106916,
@@ -739,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75632,
+      "num": 147487,
+      "word": "数十架中资公司飞机被扣俄罗斯",
+      "onboard_time": 1755056122,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75522,
       "num": 79602,
       "word": "快递费要涨了",
@@ -787,8 +1019,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64746,
+      "num": 145936,
+      "word": "婚内强奸案男方否认强奸称自己无罪",
+      "onboard_time": 1755055282,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62694,
+      "num": 147896,
+      "word": "19岁女生遇害同学称大家都很难过",
+      "onboard_time": 1755056183,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57177,
-      "num": 557666,
+      "num": 604717,
       "word": "个人单笔5万元以下消费可享贴息",
       "onboard_time": 1754988143,
       "rank": 2,
