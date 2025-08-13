@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/14 06:42:38
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/14 07:26:10
 </p>
 </blockquote>
 <p>
@@ -1551,6 +1551,12 @@ FRED斐登 鞠婧祎（热度：1214542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%AE%B2%E8%A2%AB%E6%AE%B4%E6%89%93%E8%BF%87%E7%A8%8B%23" target="weibo">
+赵露思讲被殴打过程（热度：1139728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%B6%89%E5%AB%8C%E7%8C%A5%E4%BA%B5%E5%84%BF%E7%AB%A5%E8%A2%AB%E5%90%8C%E7%9B%91%E5%AE%A4%E7%94%B7%E5%AD%90%E6%89%93%E6%96%AD%E8%82%8B%E9%AA%A8%23" target="weibo">
 因涉嫌猥亵儿童被同监室男子打断肋骨（热度：1137183）
 </a>
@@ -2441,12 +2447,6 @@ TF四代 超载（热度：867979）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%E8%81%9A%E9%A4%90%23" target="weibo">
 樊振东莫雷加德聚餐（热度：838471）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%AE%B2%E8%A2%AB%E6%AE%B4%E6%89%93%E8%BF%87%E7%A8%8B%23" target="weibo">
-赵露思讲被殴打过程（热度：835788）
 </a>
 </li>
 
