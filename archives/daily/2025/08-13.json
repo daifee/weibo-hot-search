@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755063949196,
+  "endTime": 1755067212347,
   "band_list": [
     {
       "raw_hot": 3639651,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2050519,
-      "num": 2050519,
+      "raw_hot": 2451704,
+      "num": 2451704,
       "word": "赵露思陷假助农风波",
       "onboard_time": 1755062843,
       "rank": 5,
@@ -57,6 +57,14 @@
       "onboard_time": 1755013284,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1276224,
+      "num": 537446,
+      "word": "黄旭熙拍短剧了",
+      "onboard_time": 1755063203,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1185308,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 657968,
-      "num": 384110,
+      "num": 454698,
       "word": "李沁为了花少去上了化妆课",
       "onboard_time": 1755062004,
       "rank": 14,
@@ -177,6 +185,14 @@
       "onboard_time": 1755046942,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 597127,
+      "num": 597127,
+      "word": "iPhone无感录音",
+      "onboard_time": 1755063563,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 572527,
@@ -211,11 +227,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515732,
+      "num": 493870,
+      "word": "陈德容承认自己怪过王珞丹",
+      "onboard_time": 1755063981,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498224,
       "num": 202131,
       "word": "被捅女生朋友发声",
       "onboard_time": 1755003926,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495335,
+      "num": 495335,
+      "word": "女子称怀双胎索要80万男方报警",
+      "onboard_time": 1755062962,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -259,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408876,
-      "num": 368034,
-      "word": "黄旭熙拍短剧了",
-      "onboard_time": 1755063203,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 403925,
       "num": 403925,
       "word": "时代少年团 输给你的朋友很丢人吗",
@@ -280,6 +304,14 @@
       "word": "男子结婚22年发现俩儿子都不是亲生",
       "onboard_time": 1755057682,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397473,
+      "num": 397473,
+      "word": "香港部分公务员拒用内地饮用水",
+      "onboard_time": 1755066561,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -376,6 +408,14 @@
       "word": "与女同事暧昧被发现补偿其夫6万",
       "onboard_time": 1755043522,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305747,
+      "num": 457059,
+      "word": "被摸脸前台女孩与外卖员互相认识",
+      "onboard_time": 1755064043,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -481,6 +521,14 @@
       "onboard_time": 1755049941,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 249572,
+      "num": 314440,
+      "word": "雪山失联 20万寻活人5万寻遗体",
+      "onboard_time": 1755062243,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247122,
@@ -603,6 +651,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 203501,
+      "num": 152989,
+      "word": "梓渝新歌热度13亿",
+      "onboard_time": 1755066561,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 202881,
+      "num": 152981,
+      "word": "势界",
+      "onboard_time": 1755065242,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 201837,
       "num": 257887,
       "word": "毕雯珺狂夸张予曦太厉害",
@@ -667,14 +731,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 194060,
-      "num": 194060,
-      "word": "雪山失联 20万寻活人5万寻遗体",
-      "onboard_time": 1755062243,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193665,
       "num": 193665,
       "word": "陈飞宇也演上三生三世了",
@@ -697,6 +753,14 @@
       "onboard_time": 1755050181,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189911,
+      "num": 189911,
+      "word": "吴宣仪把节目组电线拔了",
+      "onboard_time": 1755064523,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 185861,
@@ -723,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178792,
+      "num": 178792,
+      "word": "高中老师点外卖遇自己的学生送餐",
+      "onboard_time": 1755064403,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177687,
       "num": 177687,
       "word": "第一次见到这么漂亮的三层房车",
@@ -737,14 +809,6 @@
       "onboard_time": 1755055582,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 172225,
-      "num": 172225,
-      "word": "女子称怀双胎索要80万男方报警",
-      "onboard_time": 1755062962,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171247,
@@ -769,6 +833,14 @@
       "onboard_time": 1755001284,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168676,
+      "num": 152694,
+      "word": "猫咬人后主人将其放生",
+      "onboard_time": 1755064103,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 166485,
@@ -851,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153106,
+      "num": 308320,
+      "word": "狂魔哥开团Faker和Uzi",
+      "onboard_time": 1755066681,
+      "rank": 19,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 152074,
       "num": 172795,
       "word": "又一抗癌博主去世年仅32岁",
@@ -883,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149603,
+      "num": 149603,
+      "word": "中方将欧盟两家银行列入反制清单",
+      "onboard_time": 1755066921,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148794,
       "num": 148794,
       "word": "iPhone18Fold或明年发布",
@@ -905,6 +993,14 @@
       "onboard_time": 1755053663,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147001,
+      "num": 147001,
+      "word": "731为冻伤实验把活人手冻得只剩骨头",
+      "onboard_time": 1755062182,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146113,
@@ -939,12 +1035,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142139,
-      "num": 142139,
-      "word": "731为冻伤实验把活人手冻得只剩骨头",
-      "onboard_time": 1755062182,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 142161,
+      "num": 142161,
+      "word": "W年度光影盛典阵容",
+      "onboard_time": 1755067103,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141521,
@@ -961,6 +1057,14 @@
       "onboard_time": 1755017599,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139323,
+      "num": 139323,
+      "word": "李晟设计专业的DNA动了",
+      "onboard_time": 1755064882,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 138314,
@@ -1001,6 +1105,14 @@
       "onboard_time": 1755060683,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134033,
+      "num": 134033,
+      "word": "许凯田曦薇脖子传球",
+      "onboard_time": 1755066022,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 133547,
@@ -1080,6 +1192,14 @@
       "word": "胡先煦田嘉瑞根本没喝中药",
       "onboard_time": 1755062243,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127635,
+      "num": 127635,
+      "word": "李艺彤马吟吟恋综女嘉宾出场",
+      "onboard_time": 1755066802,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1227,20 +1347,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 112896,
-      "num": 302354,
-      "word": "iPhone无感录音",
-      "onboard_time": 1755063563,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 112561,
       "num": 112561,
       "word": "不是谁弱谁苦谁闹谁拍谁就有理",
       "onboard_time": 1755011243,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112440,
+      "num": 112440,
+      "word": "白鹿配白鹿太灵了",
+      "onboard_time": 1755064403,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 112265,
@@ -1283,6 +1403,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109773,
+      "num": 109773,
+      "word": "32岁男子在梅里雪山失联20天",
+      "onboard_time": 1755066022,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108345,
+      "num": 108345,
+      "word": "体重掉得越慢减脂效率越高",
+      "onboard_time": 1755066742,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107738,
+      "num": 107738,
+      "word": "生育损伤",
+      "onboard_time": 1755063142,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106916,
       "num": 106916,
       "word": "魔道祖师 华莱士",
@@ -1299,12 +1443,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104904,
-      "num": 104904,
-      "word": "生育损伤",
-      "onboard_time": 1755063142,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 105378,
+      "num": 105378,
+      "word": "陕西 冰雹苹果",
+      "onboard_time": 1755067103,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104942,
+      "num": 104942,
+      "word": "00后的八菜一汤",
+      "onboard_time": 1755066503,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 102983,
@@ -1563,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64325,
+      "num": 305220,
+      "word": "奥迪E5",
+      "onboard_time": 1755066802,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57177,
       "num": 646199,
       "word": "个人单笔5万元以下消费可享贴息",
@@ -1644,7 +1804,7 @@
     },
     {
       "raw_hot": 39371,
-      "num": 320408,
+      "num": 344538,
       "word": "华莱士魔道祖师动画联名抬上来了",
       "onboard_time": 1755063622,
       "rank": 16,
@@ -1683,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22859,
+      "num": 550809,
+      "word": "网警守护家的安全",
+      "onboard_time": 1755064582,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22198,
       "num": 35245,
       "word": "刘耀文对接三问时代峰峻",
@@ -1697,6 +1865,14 @@
       "onboard_time": 1755020836,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17356,
+      "num": 344839,
+      "word": "岚图知音拒绝电动毛坯房",
+      "onboard_time": 1755065061,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 16634,
