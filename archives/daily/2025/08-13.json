@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755078286969,
+  "endTime": 1755081046700,
   "band_list": [
     {
       "raw_hot": 10266956,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654122,
+      "num": 331913,
+      "word": "嗯哼妹妹长这么大了",
+      "onboard_time": 1755076644,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 652637,
       "num": 277082,
       "word": "66岁男子与情人发生关系后猝死",
@@ -435,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 398211,
-      "num": 331913,
-      "word": "嗯哼妹妹长这么大了",
-      "onboard_time": 1755076644,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 389139,
       "num": 373739,
       "word": "方圆脸瘦20斤变化",
@@ -457,6 +457,14 @@
       "onboard_time": 1755060084,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 386768,
+      "num": 386768,
+      "word": "请回答1988团建",
+      "onboard_time": 1755077186,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 381859,
@@ -499,6 +507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 345113,
+      "num": 345113,
+      "word": "熬夜 疲惫臭",
+      "onboard_time": 1755075922,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 335191,
       "num": 335191,
       "word": "19岁佟某某代表不了00后",
@@ -515,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 331837,
-      "num": 331837,
-      "word": "请回答1988团建",
-      "onboard_time": 1755077186,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 320371,
+      "num": 320371,
+      "word": "BLACKPINK怎么做到瞬间退场的",
+      "onboard_time": 1755078144,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 318393,
@@ -593,6 +609,14 @@
       "onboard_time": 1755044782,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277946,
+      "num": 301276,
+      "word": "印度一女子坐摩天轮时不慎掉出",
+      "onboard_time": 1755075982,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 274511,
@@ -723,6 +747,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 244464,
+      "num": 244464,
+      "word": "李一桐的包比我简历还丰富",
+      "onboard_time": 1755077664,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237518,
       "num": 208039,
       "word": "RIIZE助农",
@@ -819,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214887,
+      "num": 308057,
+      "word": "印度聋哑女孩距警察20米处遭轮奸",
+      "onboard_time": 1755080423,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214758,
       "num": 214758,
       "word": "买到被洪水泡过的饮料女子发声",
@@ -827,20 +867,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213305,
-      "num": 213305,
-      "word": "李一桐的包比我简历还丰富",
-      "onboard_time": 1755077664,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212160,
       "num": 212160,
       "word": "曹骏明制公子",
       "onboard_time": 1755070163,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210708,
+      "num": 210708,
+      "word": "宋丹丹孙子都这么大了",
+      "onboard_time": 1755077964,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209441,
+      "num": 244673,
+      "word": "13岁男孩偷开路边货车撞伤人",
+      "onboard_time": 1755078384,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209361,
@@ -889,6 +937,14 @@
       "onboard_time": 1755065242,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 202589,
+      "num": 202589,
+      "word": "严浩翔开庭带上你的破弹幕",
+      "onboard_time": 1755080062,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 201837,
@@ -1003,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191740,
-      "num": 191740,
-      "word": "熬夜 疲惫臭",
-      "onboard_time": 1755075922,
-      "rank": 22,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 191186,
       "num": 191186,
       "word": "李秀满从哪里找来5个老公姐",
@@ -1097,6 +1145,22 @@
       "onboard_time": 1755073463,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178769,
+      "num": 178769,
+      "word": "这样看演唱会省下好几万",
+      "onboard_time": 1755079344,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 177908,
+      "num": 177908,
+      "word": "台风杨柳",
+      "onboard_time": 1755080903,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177687,
@@ -1203,6 +1267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 166680,
+      "num": 166680,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1755080303,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166485,
       "num": 166485,
       "word": "奇文",
@@ -1227,11 +1299,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161089,
+      "num": 161089,
+      "word": "周冠宇樊振东合影",
+      "onboard_time": 1755079403,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160651,
       "num": 160651,
       "word": "徐佳莹方回应婚变",
       "onboard_time": 1755061282,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159587,
+      "num": 159587,
+      "word": "阚清子和老公牵手散步",
+      "onboard_time": 1755077904,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1249,22 +1337,6 @@
       "onboard_time": 1755057443,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158368,
-      "num": 158368,
-      "word": "印度一女子坐摩天轮时不慎掉出",
-      "onboard_time": 1755075982,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 158102,
-      "num": 158102,
-      "word": "阚清子和老公牵手散步",
-      "onboard_time": 1755077904,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 157860,
@@ -1427,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146354,
+      "num": 146354,
+      "word": "喜单冠军 哪怕是小北呢",
+      "onboard_time": 1755078263,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146113,
       "num": 146113,
       "word": "立邦创始人吴清亮去世",
@@ -1523,12 +1603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138308,
+      "num": 138308,
+      "word": "杨洋这点隐私全给大家伙看了",
+      "onboard_time": 1755079104,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138059,
       "num": 138059,
       "word": "A股",
       "onboard_time": 1755053841,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137659,
+      "num": 137659,
+      "word": "宋妍霏预制恶剪",
+      "onboard_time": 1755080244,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 137582,
@@ -1561,6 +1657,14 @@
       "onboard_time": 1755058161,
       "rank": 47,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 135386,
+      "num": 135386,
+      "word": "梓渝势界销售额破千万",
+      "onboard_time": 1755080843,
+      "rank": 34,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 135085,
@@ -1643,20 +1747,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 131523,
-      "num": 131523,
-      "word": "BLACKPINK怎么做到瞬间退场的",
-      "onboard_time": 1755078144,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 131485,
-      "num": 131485,
-      "word": "宋丹丹孙子都这么大了",
-      "onboard_time": 1755077964,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 131983,
+      "num": 160156,
+      "word": "花少7官宣排面",
+      "onboard_time": 1755079704,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 131252,
@@ -1819,6 +1915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121624,
+      "num": 121624,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1755077664,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121579,
       "num": 121579,
       "word": "上班我有三点低",
@@ -1907,20 +2011,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 117239,
-      "num": 117239,
-      "word": "浪浪山小妖怪",
-      "onboard_time": 1755077664,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116484,
       "num": 165507,
       "word": "李维嘉回应被传洁癖",
       "onboard_time": 1755059483,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116245,
+      "num": 116245,
+      "word": "云南吃菌子要签昏前协议",
+      "onboard_time": 1755080903,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115792,
+      "num": 115792,
+      "word": "4000年前为啥在墙里藏了好多玉",
+      "onboard_time": 1755079463,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115118,
@@ -2003,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110070,
+      "num": 332495,
+      "word": "多方回应女孩疑似被抓上无牌车遇害",
+      "onboard_time": 1755074724,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110061,
       "num": 110061,
       "word": "韩安冉计划生七个孩子",
@@ -2024,14 +2144,6 @@
       "word": "32岁男子在梅里雪山失联20天",
       "onboard_time": 1755066022,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109431,
-      "num": 332495,
-      "word": "多方回应女孩疑似被抓上无牌车遇害",
-      "onboard_time": 1755074724,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2067,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105867,
+      "num": 105867,
+      "word": "腾讯二季度经营利润692亿",
+      "onboard_time": 1755080602,
+      "rank": 47,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 105626,
       "num": 158477,
       "word": "走失男童涉事夏令营主理人回应",
@@ -2091,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105307,
+      "num": 110576,
+      "word": "求凡人修仙传补拍那10集",
+      "onboard_time": 1755079583,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104942,
       "num": 104942,
       "word": "00后的八菜一汤",
@@ -2105,6 +2233,14 @@
       "onboard_time": 1755009685,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102854,
+      "num": 102854,
+      "word": "蓝盈莹生万物武装到牙齿了",
+      "onboard_time": 1755078744,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 102242,
@@ -2161,14 +2297,6 @@
       "onboard_time": 1755014242,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98318,
-      "num": 98318,
-      "word": "喜单冠军 哪怕是小北呢",
-      "onboard_time": 1755078263,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 96902,
@@ -2555,6 +2683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 44033,
+      "num": 203199,
+      "word": "王一博Q你解锁新旅途",
+      "onboard_time": 1755078024,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43158,
       "num": 344538,
       "word": "华莱士魔道祖师动画联名抬上来了",
@@ -2595,14 +2731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34957,
-      "num": 176694,
-      "word": "王一博Q你解锁新旅途",
-      "onboard_time": 1755078024,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33220,
       "num": 106715,
       "word": "消费贷累计30万可省利息3000元",
@@ -2617,6 +2745,22 @@
       "onboard_time": 1755070341,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32742,
+      "num": 116606,
+      "word": "JDG对战TES",
+      "onboard_time": 1755080303,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 30951,
+      "num": 116295,
+      "word": "妈妈辅导孩子作业被气到脑出血",
+      "onboard_time": 1755080484,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30725,
@@ -2665,6 +2809,14 @@
       "onboard_time": 1755010586,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19965,
+      "num": 159732,
+      "word": "失地外嫁女通过支持起诉拿回收益权",
+      "onboard_time": 1755079282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19591,
