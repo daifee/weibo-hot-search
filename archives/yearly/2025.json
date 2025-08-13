@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1755075097261,
+  "endTime": 1755077472578,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1023,6 +1023,14 @@
       "num": 10019281,
       "word": "于正问赵露思我怎么着你了",
       "onboard_time": 1735784479,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10008037,
+      "num": 10008037,
+      "word": "赵露思 钱江媒体好意思叫媒体吗",
+      "onboard_time": 1755075742,
       "rank": 0,
       "category": "艺人"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744184001,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 4022283,
-      "num": 1571832,
-      "word": "星星疑被剃去头发腿上有红斑",
-      "onboard_time": 1736237304,
-      "rank": 3,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
