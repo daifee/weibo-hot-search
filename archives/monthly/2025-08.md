@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/13 18:30:46
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/13 18:47:48
 </p>
 </blockquote>
 <p>
@@ -4005,6 +4005,12 @@ TOP 海口（热度：614711）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%81%8B%E5%93%91%E5%A5%B3%E5%AD%A9%E8%B7%9D%E8%AD%A6%E5%AF%9F20%E7%B1%B3%E5%A4%84%E9%81%AD%E8%BD%AE%E5%A5%B8%23" target="weibo">
+印度聋哑女孩距警察20米处遭轮奸（热度：583897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E6%9B%9D%E9%9A%94%E7%AA%97%E5%81%B7%E6%8B%8D%E5%A5%B3%E7%94%9F%E6%B4%97%E6%BE%A1%23" target="weibo">
 外卖员被曝隔窗偷拍女生洗澡（热度：583396）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Pro或存储翻倍（热度：402879）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E5%A4%A9%E8%A6%81%E5%9C%A8%E5%8D%97%E5%8C%97%E6%96%B9%E6%8D%A2%E7%8F%AD%E4%BA%86%23" target="weibo">
 高温天要在南北方换班了（热度：401739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%A7%92%E8%AE%A4%E6%9D%8E%E6%98%80%E9%94%90%23" target="weibo">
-孟子义秒认李昀锐（热度：401549）
 </a>
 </li>
 

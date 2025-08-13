@@ -1,0 +1,410 @@
+{
+  "runTime": 1755082068341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7316092,
+        "num": 7316092,
+        "word": "赵露思 钱江媒体好意思叫媒体吗",
+        "onboard_time": 1755075742,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710481,
+        "num": 710481,
+        "word": "南极惊现一具冰封66年遗骸",
+        "onboard_time": 1755070041,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20177,
+        "num": 407470,
+        "word": "网警守护家的安全",
+        "onboard_time": 1755064582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346952,
+        "num": 346952,
+        "word": "李在明就韩国出现反华集会下达指示",
+        "onboard_time": 1755072862,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331026,
+        "num": 331026,
+        "word": "熬夜 疲惫臭",
+        "onboard_time": 1755075922,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 301295,
+        "num": 301295,
+        "word": "请回答1988团建",
+        "onboard_time": 1755077186,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258069,
+        "num": 258069,
+        "word": "BLACKPINK怎么做到瞬间退场的",
+        "onboard_time": 1755078144,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249421,
+        "num": 249421,
+        "word": "陕西 冰雹苹果",
+        "onboard_time": 1755067103,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219083,
+        "num": 219083,
+        "word": "13岁男孩偷开路边货车撞伤人",
+        "onboard_time": 1755078384,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218352,
+        "num": 218352,
+        "word": "网传跟CardiB录歌的是朴彩英",
+        "onboard_time": 1755081862,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1478393,
+        "num": 218305,
+        "word": "赵露思 免得我把你那些全抖出来",
+        "onboard_time": 1755074243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583897,
+        "num": 214657,
+        "word": "印度聋哑女孩距警察20米处遭轮奸",
+        "onboard_time": 1755080423,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 557702,
+        "num": 212811,
+        "word": "嗯哼妹妹长这么大了",
+        "onboard_time": 1755076644,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480113,
+        "num": 207769,
+        "word": "原来月薪过万一直都在被误解",
+        "onboard_time": 1755074483,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270064,
+        "num": 204803,
+        "word": "于斌晒和王一博聊天记录",
+        "onboard_time": 1755081203,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51694,
+        "num": 202953,
+        "word": "1880亿元超长期特别国债补助资金下达",
+        "onboard_time": 1755081563,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201934,
+        "num": 201934,
+        "word": "印度一女子坐摩天轮时不慎掉出",
+        "onboard_time": 1755075982,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 252114,
+        "num": 197489,
+        "word": "陈慧琳曾痛失双胞胎爱女",
+        "onboard_time": 1755068663,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34147,
+        "num": 185583,
+        "word": "王一博Q你解锁新旅途",
+        "onboard_time": 1755078024,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206009,
+        "num": 185077,
+        "word": "梓渝势界杂志销售额",
+        "onboard_time": 1755081923,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183555,
+        "num": 183555,
+        "word": "台风杨柳",
+        "onboard_time": 1755080903,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177145,
+        "num": 177145,
+        "word": "女孩出嫁戴上了20斤重银头饰",
+        "onboard_time": 1755081682,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175960,
+        "num": 175960,
+        "word": "张静初未拿到硕士文凭",
+        "onboard_time": 1755075622,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172843,
+        "num": 172843,
+        "word": "李一桐的包比我简历还丰富",
+        "onboard_time": 1755077664,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169585,
+        "num": 169585,
+        "word": "宋丹丹孙子都这么大了",
+        "onboard_time": 1755077964,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157138,
+        "num": 157138,
+        "word": "严浩翔开庭带上你的破弹幕",
+        "onboard_time": 1755080062,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147488,
+        "num": 147488,
+        "word": "128GB手机该退出历史了吗",
+        "onboard_time": 1755077485,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142426,
+        "num": 142426,
+        "word": "梓渝势界销售额破千万",
+        "onboard_time": 1755080843,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 132416,
+        "num": 132416,
+        "word": "云南吃菌子要签昏前协议",
+        "onboard_time": 1755080903,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123931,
+        "num": 130396,
+        "word": "江山为聘",
+        "onboard_time": 1755081263,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130320,
+        "num": 130320,
+        "word": "业主说拖欠物业费可打折太不公平",
+        "onboard_time": 1755081203,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126974,
+        "num": 126974,
+        "word": "周冠宇樊振东合影",
+        "onboard_time": 1755079403,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123636,
+        "num": 123636,
+        "word": "杨洋这点隐私全给大家伙看了",
+        "onboard_time": 1755079104,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49989,
+        "num": 120580,
+        "word": "19岁女生遭杀害手机丢失家属盼归还",
+        "onboard_time": 1755081985,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120438,
+        "num": 120438,
+        "word": "张本智和立flag剑指世界第一",
+        "onboard_time": 1755075443,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118286,
+        "num": 118286,
+        "word": "卫星互联网低轨08组卫星发射成功",
+        "onboard_time": 1755075503,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115917,
+        "num": 115917,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1755080303,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113690,
+        "num": 113690,
+        "word": "浪浪山小妖怪",
+        "onboard_time": 1755077664,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112869,
+        "num": 112869,
+        "word": "花少7官宣排面",
+        "onboard_time": 1755079704,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109813,
+        "num": 109813,
+        "word": "这样看演唱会省下好几万",
+        "onboard_time": 1755079344,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109482,
+        "num": 109482,
+        "word": "喜单冠军 哪怕是小北呢",
+        "onboard_time": 1755078263,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108941,
+        "num": 108941,
+        "word": "杨幂生万物包场一万座",
+        "onboard_time": 1755081502,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101447,
+        "num": 101447,
+        "word": "迪丽热巴蝴蝶丝袜",
+        "onboard_time": 1755068481,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99283,
+        "num": 99283,
+        "word": "16岁男生遭多人欺辱殴打被逼学狗叫",
+        "onboard_time": 1755082042,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98537,
+        "num": 98537,
+        "word": "这美甲可以留着可以给巨人戴",
+        "onboard_time": 1755081623,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 97023,
+        "num": 97023,
+        "word": "战至巅峰第二个破8000万微博指数综艺",
+        "onboard_time": 1755081743,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96599,
+        "num": 96599,
+        "word": "体制内辞职一年后的真实感受",
+        "onboard_time": 1755069802,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96200,
+        "num": 96200,
+        "word": "阚清子和老公牵手散步",
+        "onboard_time": 1755077904,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95316,
+        "num": 95316,
+        "word": "菌子虐我千百遍我待菌子如初恋",
+        "onboard_time": 1755081923,
+        "rank": 48,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 94607,
+        "num": 94607,
+        "word": "港股集体沸腾",
+        "onboard_time": 1755078984,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#从两山理念与实践看中国与世界#"
+    }
+  }
+}

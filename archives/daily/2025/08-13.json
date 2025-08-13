@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755081046700,
+  "endTime": 1755082068341,
   "band_list": [
     {
       "raw_hot": 10266956,
@@ -305,6 +305,14 @@
       "onboard_time": 1755064043,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583897,
+      "num": 308057,
+      "word": "印度聋哑女孩距警察20米处遭轮奸",
+      "onboard_time": 1755080423,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 572527,
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270064,
+      "num": 204803,
+      "word": "于斌晒和王一博聊天记录",
+      "onboard_time": 1755081203,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268065,
       "num": 268065,
       "word": "梓渝电子刊价格",
@@ -843,6 +859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219083,
+      "num": 244673,
+      "word": "13岁男孩偷开路边货车撞伤人",
+      "onboard_time": 1755078384,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218633,
       "num": 218633,
       "word": "当地回应景区行凶嫌犯有精神疾病史",
@@ -851,12 +875,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214887,
-      "num": 308057,
-      "word": "印度聋哑女孩距警察20米处遭轮奸",
-      "onboard_time": 1755080423,
-      "rank": 7,
-      "category": "海外新闻"
+      "raw_hot": 218352,
+      "num": 218352,
+      "word": "网传跟CardiB录歌的是朴彩英",
+      "onboard_time": 1755081862,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 214758,
@@ -883,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209441,
-      "num": 244673,
-      "word": "13岁男孩偷开路边货车撞伤人",
-      "onboard_time": 1755078384,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209361,
       "num": 209361,
       "word": "奔驰CEO警告没有燃油车的后果",
@@ -905,6 +921,14 @@
       "onboard_time": 1755067342,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206009,
+      "num": 185077,
+      "word": "梓渝势界杂志销售额",
+      "onboard_time": 1755081923,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 204889,
@@ -1131,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183555,
+      "num": 183555,
+      "word": "台风杨柳",
+      "onboard_time": 1755080903,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181814,
       "num": 313237,
       "word": "宋亚轩看似耍帅实则没招了",
@@ -1155,20 +1187,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177908,
-      "num": 177908,
-      "word": "台风杨柳",
-      "onboard_time": 1755080903,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177687,
       "num": 177687,
       "word": "第一次见到这么漂亮的三层房车",
       "onboard_time": 1755017840,
       "rank": 41,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 177145,
+      "num": 177145,
+      "word": "女孩出嫁戴上了20斤重银头饰",
+      "onboard_time": 1755081682,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176545,
@@ -1547,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142426,
+      "num": 142426,
+      "word": "梓渝势界销售额破千万",
+      "onboard_time": 1755080843,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 141521,
       "num": 141521,
       "word": "你这婚礼直接去夜市办吧",
@@ -1659,14 +1699,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 135386,
-      "num": 135386,
-      "word": "梓渝势界销售额破千万",
-      "onboard_time": 1755080843,
-      "rank": 34,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 135085,
       "num": 135085,
       "word": "中央纪委披露多个家族式腐败案",
@@ -1731,6 +1763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132416,
+      "num": 132416,
+      "word": "云南吃菌子要签昏前协议",
+      "onboard_time": 1755080903,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132154,
       "num": 156232,
       "word": "丞磊周也cp感",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1755067222,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130320,
+      "num": 130320,
+      "word": "业主说拖欠物业费可打折太不公平",
+      "onboard_time": 1755081203,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129980,
@@ -1865,6 +1913,14 @@
       "onboard_time": 1755049881,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123931,
+      "num": 130396,
+      "word": "江山为聘",
+      "onboard_time": 1755081263,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 123806,
@@ -2019,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116245,
-      "num": 116245,
-      "word": "云南吃菌子要签昏前协议",
-      "onboard_time": 1755080903,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115792,
       "num": 115792,
       "word": "4000年前为啥在墙里藏了好多玉",
@@ -2145,6 +2193,14 @@
       "onboard_time": 1755066022,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108941,
+      "num": 108941,
+      "word": "杨幂生万物包场一万座",
+      "onboard_time": 1755081502,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 107961,
@@ -2291,12 +2347,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99283,
+      "num": 99283,
+      "word": "16岁男生遭多人欺辱殴打被逼学狗叫",
+      "onboard_time": 1755082042,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98774,
       "num": 98774,
       "word": "遇害女生家长求助",
       "onboard_time": 1755014242,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98537,
+      "num": 98537,
+      "word": "这美甲可以留着可以给巨人戴",
+      "onboard_time": 1755081623,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 97023,
+      "num": 97023,
+      "word": "战至巅峰第二个破8000万微博指数综艺",
+      "onboard_time": 1755081743,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 96902,
@@ -2331,12 +2411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95316,
+      "num": 95316,
+      "word": "菌子虐我千百遍我待菌子如初恋",
+      "onboard_time": 1755081923,
+      "rank": 48,
+      "category": "美食,休闲"
+    },
+    {
       "raw_hot": 95190,
       "num": 117861,
       "word": "精神病史不是免罪金牌",
       "onboard_time": 1755061643,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94607,
+      "num": 94607,
+      "word": "港股集体沸腾",
+      "onboard_time": 1755078984,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 93569,
@@ -2627,12 +2723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51694,
+      "num": 202953,
+      "word": "1880亿元超长期特别国债补助资金下达",
+      "onboard_time": 1755081563,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51492,
       "num": 68014,
       "word": "黄子韬转让1公司50%股权",
       "onboard_time": 1755036194,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49989,
+      "num": 120580,
+      "word": "19岁女生遭杀害手机丢失家属盼归还",
+      "onboard_time": 1755081985,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49097,
