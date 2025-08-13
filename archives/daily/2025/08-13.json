@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755056376379,
+  "endTime": 1755057317394,
   "band_list": [
     {
       "raw_hot": 2756344,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2610173,
-      "num": 601984,
+      "num": 639423,
       "word": "房东税来了",
       "onboard_time": 1755050421,
       "rank": 4,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1349609,
+      "num": 1349609,
+      "word": "赵露思闺蜜回应助农",
+      "onboard_time": 1755054923,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1334731,
       "num": 1334731,
       "word": "维达",
@@ -36,18 +44,10 @@
     },
     {
       "raw_hot": 1133116,
-      "num": 383983,
+      "num": 399704,
       "word": "杜江霍思燕一家四口同框",
       "onboard_time": 1755050241,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 992984,
-      "num": 1158877,
-      "word": "赵露思闺蜜回应助农",
-      "onboard_time": 1755054923,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 628725,
+      "num": 628725,
+      "word": "男子烧衣泄愤致母亲死亡",
+      "onboard_time": 1755054923,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 608186,
       "num": 484134,
       "word": "女子出差遭老板性侵被认定为工伤",
@@ -123,8 +131,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 503714,
-      "num": 463173,
+      "raw_hot": 525890,
+      "num": 525890,
       "word": "郭麒麟婉拒郭德纲",
       "onboard_time": 1755051381,
       "rank": 27,
@@ -139,8 +147,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 465541,
-      "num": 465541,
+      "raw_hot": 479298,
+      "num": 479298,
       "word": "南部战区回应美舰非法闯入黄岩岛领海",
       "onboard_time": 1755054923,
       "rank": 5,
@@ -171,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 412240,
-      "num": 412240,
-      "word": "男子烧衣泄愤致母亲死亡",
-      "onboard_time": 1755054923,
+      "raw_hot": 408130,
+      "num": 408130,
+      "word": "美国驱逐舰非法闯入中国黄岩岛领海",
+      "onboard_time": 1755056542,
       "rank": 9,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 376682,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264863,
+      "num": 264863,
+      "word": "时代少年团 输给你的朋友很丢人吗",
+      "onboard_time": 1755055822,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261156,
       "num": 261156,
       "word": "官方通报三亚一酒店虫子成群",
@@ -347,6 +363,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 247122,
+      "num": 258195,
+      "word": "姐姐妹妹抓娃娃",
+      "onboard_time": 1755053302,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246760,
       "num": 246760,
       "word": "三亚7199元一晚的酒店虫子成群",
@@ -369,6 +393,14 @@
       "onboard_time": 1755007286,
       "rank": 8,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 242221,
+      "num": 242221,
+      "word": "W盛典 迪丽热巴",
+      "onboard_time": 1755057201,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230195,
@@ -403,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205600,
-      "num": 258195,
-      "word": "姐姐妹妹抓娃娃",
-      "onboard_time": 1755053302,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203922,
       "num": 203922,
       "word": "移动崩了",
@@ -425,6 +449,14 @@
       "onboard_time": 1755055582,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200629,
+      "num": 200629,
+      "word": "印度女子在拥挤车厢呼吸困难被起哄",
+      "onboard_time": 1755055582,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 200025,
@@ -451,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195123,
-      "num": 195123,
-      "word": "时代少年团 输给你的朋友很丢人吗",
-      "onboard_time": 1755055822,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194944,
       "num": 194944,
       "word": "沪指破3674.4点",
@@ -467,12 +491,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 194863,
-      "num": 194863,
-      "word": "印度女子在拥挤车厢呼吸困难被起哄",
-      "onboard_time": 1755055582,
-      "rank": 26,
-      "category": "海外新闻"
+      "raw_hot": 193665,
+      "num": 193665,
+      "word": "陈飞宇也演上三生三世了",
+      "onboard_time": 1755056122,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 189987,
@@ -481,6 +505,14 @@
       "onboard_time": 1755050181,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185861,
+      "num": 185861,
+      "word": "当代左撇子真实上班现状",
+      "onboard_time": 1755056242,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 184469,
@@ -523,12 +555,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165991,
+      "num": 165991,
+      "word": "蓝盈莹新剧一句话没说但很苦",
+      "onboard_time": 1755056242,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159771,
+      "num": 159771,
+      "word": "洛川苹果",
+      "onboard_time": 1755056781,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157860,
       "num": 157860,
       "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
       "onboard_time": 1755000083,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157033,
+      "num": 157033,
+      "word": "横店大雪押宝剧",
+      "onboard_time": 1755057021,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156528,
+      "num": 156528,
+      "word": "全厂停工停产一天集体观看731",
+      "onboard_time": 1755052522,
+      "rank": 41,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 156357,
@@ -587,6 +651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 147407,
+      "num": 147407,
+      "word": "多银行宣布9月起实施贴息",
+      "onboard_time": 1755053663,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145582,
       "num": 145582,
       "word": "欧盟26国声明支持乌克兰入盟",
@@ -601,22 +673,6 @@
       "onboard_time": 1755043641,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144981,
-      "num": 144981,
-      "word": "全厂停工停产一天集体观看731",
-      "onboard_time": 1755052522,
-      "rank": 41,
-      "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 141552,
-      "num": 141552,
-      "word": "当代左撇子真实上班现状",
-      "onboard_time": 1755056242,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 141521,
@@ -635,12 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138699,
-      "num": 138699,
-      "word": "陈飞宇也演上三生三世了",
-      "onboard_time": 1755056122,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 138059,
+      "num": 138059,
+      "word": "A股",
+      "onboard_time": 1755053841,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 137127,
@@ -665,6 +721,14 @@
       "onboard_time": 1755020657,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129980,
+      "num": 129980,
+      "word": "万妮达一周末看了16部短剧",
+      "onboard_time": 1755057142,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 129687,
@@ -697,14 +761,6 @@
       "onboard_time": 1755051500,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127554,
-      "num": 127554,
-      "word": "蓝盈莹新剧一句话没说但很苦",
-      "onboard_time": 1755056242,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 125786,
@@ -747,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120539,
+      "num": 147487,
+      "word": "数十架中资公司飞机被扣俄罗斯",
+      "onboard_time": 1755056122,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118710,
       "num": 118710,
       "word": "朋友圈全部开放幸福感很高吗",
@@ -769,6 +833,14 @@
       "onboard_time": 1755004946,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114790,
+      "num": 223841,
+      "word": "奥迪E5竞品是谁",
+      "onboard_time": 1755056902,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 114691,
@@ -963,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75632,
-      "num": 147487,
-      "word": "数十架中资公司飞机被扣俄罗斯",
-      "onboard_time": 1755056122,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75522,
       "num": 79602,
       "word": "快递费要涨了",
@@ -1011,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71234,
+      "num": 147896,
+      "word": "19岁女生遇害同学称大家都很难过",
+      "onboard_time": 1755056183,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69959,
       "num": 108561,
       "word": "深圳一公司拿100万鼓励员工减重",
@@ -1027,20 +1099,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62694,
-      "num": 147896,
-      "word": "19岁女生遇害同学称大家都很难过",
-      "onboard_time": 1755056183,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57177,
-      "num": 604717,
+      "num": 646199,
       "word": "个人单笔5万元以下消费可享贴息",
       "onboard_time": 1754988143,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 54967,
+      "num": 145816,
+      "word": "95后女生任浙大博士生导师",
+      "onboard_time": 1755056482,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53332,

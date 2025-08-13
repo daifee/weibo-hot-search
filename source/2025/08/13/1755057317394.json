@@ -1,0 +1,410 @@
+{
+  "runTime": 1755057317394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1349609,
+        "num": 1349609,
+        "word": "赵露思闺蜜回应助农",
+        "onboard_time": 1755054923,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666771,
+        "num": 666771,
+        "word": "吃鸡蛋事件 剧本",
+        "onboard_time": 1755006866,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17623,
+        "num": 646199,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1976479,
+        "num": 639423,
+        "word": "房东税来了",
+        "onboard_time": 1755050421,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 628725,
+        "num": 628725,
+        "word": "男子烧衣泄愤致母亲死亡",
+        "onboard_time": 1755054923,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535631,
+        "num": 535631,
+        "word": "NIKE起诉陈冠希索赔90万",
+        "onboard_time": 1755052641,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525890,
+        "num": 525890,
+        "word": "郭麒麟婉拒郭德纲",
+        "onboard_time": 1755051381,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479298,
+        "num": 479298,
+        "word": "南部战区回应美舰非法闯入黄岩岛领海",
+        "onboard_time": 1755054923,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 442782,
+        "num": 442782,
+        "word": "广州空姐村",
+        "onboard_time": 1755052882,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408130,
+        "num": 408130,
+        "word": "美国驱逐舰非法闯入中国黄岩岛领海",
+        "onboard_time": 1755056542,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 740252,
+        "num": 399704,
+        "word": "杜江霍思燕一家四口同框",
+        "onboard_time": 1755050241,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334134,
+        "num": 334134,
+        "word": "吃鸡蛋事件妇联称已初步掌握经过",
+        "onboard_time": 1755049821,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330625,
+        "num": 330625,
+        "word": "日本一女子36岁成外婆",
+        "onboard_time": 1755051081,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 306709,
+        "num": 306709,
+        "word": "国家烟草局一原副局长被判15年",
+        "onboard_time": 1755051261,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274644,
+        "num": 274644,
+        "word": "FPX暂停与milkyway合作",
+        "onboard_time": 1755053663,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267677,
+        "num": 267677,
+        "word": "杨洋回应饰演宋焰后消失两年",
+        "onboard_time": 1755042862,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264863,
+        "num": 264863,
+        "word": "时代少年团 输给你的朋友很丢人吗",
+        "onboard_time": 1755055822,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247122,
+        "num": 247122,
+        "word": "姐姐妹妹抓娃娃",
+        "onboard_time": 1755053302,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242221,
+        "num": 242221,
+        "word": "W盛典 迪丽热巴",
+        "onboard_time": 1755057201,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114790,
+        "num": 223841,
+        "word": "奥迪E5竞品是谁",
+        "onboard_time": 1755056902,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1395457,
+        "num": 223681,
+        "word": "赵露思 之前有个艺人高速倒车",
+        "onboard_time": 1755010045,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221286,
+        "num": 221286,
+        "word": "韩国前总统尹锡悦妻子金建希被捕",
+        "onboard_time": 1755049881,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215486,
+        "num": 215486,
+        "word": "王楚钦孙颖莎左手右手的合作",
+        "onboard_time": 1755049581,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203730,
+        "num": 203730,
+        "word": "第11号台风杨柳预计今日登陆",
+        "onboard_time": 1755050002,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200629,
+        "num": 200629,
+        "word": "印度女子在拥挤车厢呼吸困难被起哄",
+        "onboard_time": 1755055582,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193665,
+        "num": 193665,
+        "word": "陈飞宇也演上三生三世了",
+        "onboard_time": 1755056122,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185861,
+        "num": 185861,
+        "word": "当代左撇子真实上班现状",
+        "onboard_time": 1755056242,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183677,
+        "num": 183677,
+        "word": "细菌战幸存者说腿上的肉一洗就掉渣",
+        "onboard_time": 1755052460,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166888,
+        "num": 166888,
+        "word": "官方通报三亚一酒店虫子成群",
+        "onboard_time": 1755054080,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 165991,
+        "num": 165991,
+        "word": "蓝盈莹新剧一句话没说但很苦",
+        "onboard_time": 1755056242,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179768,
+        "num": 164002,
+        "word": "男子因女友穿裙子出门对其殴打强奸",
+        "onboard_time": 1755008846,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159771,
+        "num": 159771,
+        "word": "洛川苹果",
+        "onboard_time": 1755056781,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157033,
+        "num": 157033,
+        "word": "横店大雪押宝剧",
+        "onboard_time": 1755057021,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156528,
+        "num": 156528,
+        "word": "全厂停工停产一天集体观看731",
+        "onboard_time": 1755052522,
+        "rank": 33,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 153321,
+        "num": 153321,
+        "word": "嗯哼一人推3个行李箱",
+        "onboard_time": 1755052522,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152561,
+        "num": 152561,
+        "word": "花少3和花少5旅行的氛围也很好",
+        "onboard_time": 1755049042,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147407,
+        "num": 147407,
+        "word": "多银行宣布9月起实施贴息",
+        "onboard_time": 1755053663,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54967,
+        "num": 145816,
+        "word": "95后女生任浙大博士生导师",
+        "onboard_time": 1755056482,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71234,
+        "num": 145347,
+        "word": "19岁女生遇害同学称大家都很难过",
+        "onboard_time": 1755056183,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120539,
+        "num": 145264,
+        "word": "数十架中资公司飞机被扣俄罗斯",
+        "onboard_time": 1755056122,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145264,
+        "num": 145263,
+        "word": "解放军警告驱离美国驱逐舰",
+        "onboard_time": 1755055582,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141203,
+        "num": 141203,
+        "word": "今年看到最嘶哈的翻面吻",
+        "onboard_time": 1755054681,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144098,
+        "num": 140360,
+        "word": "女子出差遭老板性侵被认定为工伤",
+        "onboard_time": 1755046942,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138365,
+        "num": 138365,
+        "word": "奇文",
+        "onboard_time": 1755053541,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94152,
+        "num": 138109,
+        "word": "中国企业飞机被扣俄罗斯",
+        "onboard_time": 1755055282,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138059,
+        "num": 138059,
+        "word": "A股",
+        "onboard_time": 1755053841,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136929,
+        "num": 136929,
+        "word": "轻断食的好处不仅是减重",
+        "onboard_time": 1755049941,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129980,
+        "num": 129980,
+        "word": "万妮达一周末看了16部短剧",
+        "onboard_time": 1755057142,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121338,
+        "num": 121338,
+        "word": "权志龙涉嫌违反版权法",
+        "onboard_time": 1755050181,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120479,
+        "num": 120479,
+        "word": "古人的包包有多惊艳",
+        "onboard_time": 1755054261,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树造林改善生态任重而道远#"
+    }
+  }
+}
