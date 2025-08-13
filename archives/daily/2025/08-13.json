@@ -1,6 +1,6 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755042041447,
+  "endTime": 1755050658584,
   "band_list": [
     {
       "raw_hot": 2756344,
@@ -27,11 +27,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 815176,
-      "num": 815176,
+      "raw_hot": 852755,
+      "num": 1136440,
       "word": "吃鸡蛋事件 剧本",
       "onboard_time": 1755006866,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 765494,
+      "num": 281827,
+      "word": "遇害女大学生当日与朋友去景区游玩",
+      "onboard_time": 1755041719,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 753693,
+      "num": 556402,
+      "word": "男子因女友穿裙子出门对其殴打强奸",
+      "onboard_time": 1755008846,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -44,19 +60,27 @@
     },
     {
       "raw_hot": 652637,
-      "num": 238144,
+      "num": 277082,
       "word": "66岁男子与情人发生关系后猝死",
       "onboard_time": 1755008665,
       "rank": 13,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 556402,
-      "num": 556402,
-      "word": "男子因女友穿裙子出门对其殴打强奸",
-      "onboard_time": 1755008846,
+      "raw_hot": 608186,
+      "num": 484134,
+      "word": "女子出差遭老板性侵被认定为工伤",
+      "onboard_time": 1755046942,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 572732,
+      "num": 483248,
+      "word": "房东税来了",
+      "onboard_time": 1755050421,
+      "rank": 4,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 555524,
@@ -67,12 +91,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551530,
+      "num": 551530,
+      "word": "杨洋回应饰演宋焰后消失两年",
+      "onboard_time": 1755042862,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 498224,
       "num": 202131,
       "word": "被捅女生朋友发声",
       "onboard_time": 1755003926,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459903,
+      "num": 279721,
+      "word": "杜江霍思燕一家四口同框",
+      "onboard_time": 1755050241,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 456860,
+      "num": 456860,
+      "word": "乒乓球暂停制度持续引争议",
+      "onboard_time": 1755046523,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 354470,
+      "num": 278433,
+      "word": "包文婧称做医美因对自己不自信",
+      "onboard_time": 1755040700,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 335191,
@@ -91,12 +147,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310587,
+      "num": 310587,
+      "word": "顾客自带8200元茅台被餐厅调包",
+      "onboard_time": 1755008846,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309262,
+      "num": 277905,
+      "word": "与女同事暧昧被发现补偿其夫6万",
+      "onboard_time": 1755043522,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302001,
+      "num": 302001,
+      "word": "田曦薇魔童降世",
+      "onboard_time": 1755040760,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290133,
       "num": 290133,
       "word": "郭麒麟为拍戏拒绝接班德云社",
       "onboard_time": 1755008966,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283217,
+      "num": 283217,
+      "word": "披哥三公淘汰",
+      "onboard_time": 1755044782,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 274504,
@@ -131,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247054,
+      "num": 211074,
+      "word": "轻断食的好处不仅是减重",
+      "onboard_time": 1755049941,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 246760,
       "num": 246760,
       "word": "三亚7199元一晚的酒店虫子成群",
@@ -145,6 +241,14 @@
       "onboard_time": 1755007286,
       "rank": 8,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 232691,
+      "num": 232691,
+      "word": "韩国前总统尹锡悦妻子金建希被捕",
+      "onboard_time": 1755049881,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 227588,
@@ -171,6 +275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203922,
+      "num": 203922,
+      "word": "移动崩了",
+      "onboard_time": 1755049403,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 201025,
+      "num": 201025,
+      "word": "王楚钦孙颖莎左手右手的合作",
+      "onboard_time": 1755049581,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199917,
       "num": 147344,
       "word": "谢娜家双胞胎婴儿车给了撒贝宁家用",
@@ -187,12 +307,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190125,
-      "num": 190125,
-      "word": "顾客自带8200元茅台被餐厅调包",
-      "onboard_time": 1755008846,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 189987,
+      "num": 215416,
+      "word": "权志龙涉嫌违反版权法",
+      "onboard_time": 1755050181,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183397,
+      "num": 183397,
+      "word": "花少3和花少5旅行的氛围也很好",
+      "onboard_time": 1755049042,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 177687,
@@ -201,6 +329,14 @@
       "onboard_time": 1755017840,
       "rank": 41,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 177328,
+      "num": 177328,
+      "word": "第11号台风杨柳预计今日登陆",
+      "onboard_time": 1755050002,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169848,
@@ -219,8 +355,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154719,
+      "num": 154719,
+      "word": "阴阳师",
+      "onboard_time": 1755049460,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152074,
-      "num": 152074,
+      "num": 172795,
       "word": "又一抗癌博主去世年仅32岁",
       "onboard_time": 1755038296,
       "rank": 48,
@@ -243,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145338,
+      "num": 174583,
+      "word": "脱友2 冠军",
+      "onboard_time": 1755043641,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140240,
       "num": 109193,
       "word": "杨洋这两年有意淡出观众视野",
@@ -251,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137731,
+      "num": 137731,
+      "word": "欧盟26国声明支持乌克兰入盟",
+      "onboard_time": 1755049941,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137127,
       "num": 153497,
       "word": "孙怡离婚后去再见爱人不敢说话",
       "onboard_time": 1755004525,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136540,
+      "num": 136540,
+      "word": "女子丢包被索要5万是摆拍",
+      "onboard_time": 1755049881,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131252,
@@ -281,6 +449,14 @@
       "onboard_time": 1755013764,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126884,
+      "num": 282902,
+      "word": "吃鸡蛋事件妇联称已初步掌握经过",
+      "onboard_time": 1755049821,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122637,
@@ -331,20 +507,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110438,
-      "num": 110438,
-      "word": "田曦薇魔童降世",
-      "onboard_time": 1755040760,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 112265,
+      "num": 112265,
+      "word": "羊水栓塞抢救时的用血量",
+      "onboard_time": 1755042921,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 107960,
-      "num": 107960,
+      "raw_hot": 110061,
+      "num": 110061,
       "word": "韩安冉计划生七个孩子",
       "onboard_time": 1755008846,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 108548,
+      "num": 108548,
+      "word": "国安部提醒警惕旧手机置换风险",
+      "onboard_time": 1755049881,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106916,
+      "num": 106916,
+      "word": "魔道祖师 华莱士",
+      "onboard_time": 1755045503,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 105595,
@@ -363,6 +555,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102242,
+      "num": 102242,
+      "word": "日本九州暴雨中国游客滞留火车站",
+      "onboard_time": 1755050062,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99516,
+      "num": 99516,
+      "word": "管乐回应张小婉家里有蟑螂",
+      "onboard_time": 1755050241,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98774,
       "num": 98774,
       "word": "遇害女生家长求助",
@@ -371,20 +579,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96902,
+      "num": 96902,
+      "word": "当地回应先进事迹写炒菜多放辣椒",
+      "onboard_time": 1755041780,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96527,
+      "num": 96527,
+      "word": "考编人有属于自己的音乐节",
+      "onboard_time": 1755045143,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 96421,
+      "num": 96421,
+      "word": "美国财政状况严重失衡",
+      "onboard_time": 1755049941,
+      "rank": 48,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 95638,
       "num": 95638,
       "word": "33岁女老师二胎难产去世",
       "onboard_time": 1754973864,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92781,
-      "num": 92781,
-      "word": "包文婧称做医美因对自己不自信",
-      "onboard_time": 1755040700,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 92426,
@@ -507,14 +731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 55800,
-      "num": 55800,
-      "word": "当地回应先进事迹写炒菜多放辣椒",
-      "onboard_time": 1755041780,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53332,
       "num": 68050,
       "word": "受害人回应在地铁口遭陌生男子强吻",
@@ -555,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48582,
-      "num": 48582,
-      "word": "遇害女大学生当日与朋友去景区游玩",
-      "onboard_time": 1755041719,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47869,
       "num": 79597,
       "word": "樊振东巴黎四分之一决赛含金量还在上升",
@@ -577,6 +785,14 @@
       "onboard_time": 1755006207,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 42524,
+      "num": 110453,
+      "word": "机场偶遇霍思燕杜江一家四口",
+      "onboard_time": 1755050421,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 35231,
