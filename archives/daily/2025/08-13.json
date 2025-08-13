@@ -1,7 +1,15 @@
 {
   "startTime": 1755016504502,
-  "endTime": 1755057317394,
+  "endTime": 1755059817926,
   "band_list": [
+    {
+      "raw_hot": 3639651,
+      "num": 3639651,
+      "word": "赵露思 苹果汁价格",
+      "onboard_time": 1755058763,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2756344,
       "num": 257862,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 2610173,
-      "num": 639423,
+      "num": 757079,
       "word": "房东税来了",
       "onboard_time": 1755050421,
       "rank": 4,
@@ -27,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1349609,
+      "raw_hot": 1602988,
       "num": 1349609,
       "word": "赵露思闺蜜回应助农",
       "onboard_time": 1755054923,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1133116,
-      "num": 399704,
+      "num": 455610,
       "word": "杜江霍思燕一家四口同框",
       "onboard_time": 1755050241,
       "rank": 12,
@@ -56,6 +64,14 @@
       "word": "吃鸡蛋事件 剧本",
       "onboard_time": 1755006866,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 848265,
+      "num": 754559,
+      "word": "男子烧衣泄愤致母亲死亡",
+      "onboard_time": 1755054923,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -75,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 742685,
+      "num": 742685,
+      "word": "何广智 冠军",
+      "onboard_time": 1755057502,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 737359,
       "num": 737359,
       "word": "中方决定不同捷克总统进行任何交往",
@@ -83,19 +107,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 692901,
+      "num": 692901,
+      "word": "W盛典 迪丽热巴",
+      "onboard_time": 1755057201,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 687523,
+      "num": 687523,
+      "word": "美国驱逐舰非法闯入中国黄岩岛领海",
+      "onboard_time": 1755056542,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 652637,
       "num": 277082,
       "word": "66岁男子与情人发生关系后猝死",
       "onboard_time": 1755008665,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 628725,
-      "num": 628725,
-      "word": "男子烧衣泄愤致母亲死亡",
-      "onboard_time": 1755054923,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -113,6 +145,22 @@
       "onboard_time": 1755052641,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 558759,
+      "num": 437999,
+      "word": "吴谨言约饭于正坦白结婚",
+      "onboard_time": 1755058822,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 557686,
+      "num": 557686,
+      "word": "苹果折叠屏",
+      "onboard_time": 1755057742,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 555524,
@@ -179,12 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408130,
-      "num": 408130,
-      "word": "美国驱逐舰非法闯入中国黄岩岛领海",
-      "onboard_time": 1755056542,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 403925,
+      "num": 403925,
+      "word": "时代少年团 输给你的朋友很丢人吗",
+      "onboard_time": 1755055822,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 376682,
@@ -251,6 +299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 313109,
+      "num": 313109,
+      "word": "男子结婚22年发现俩儿子都不是亲生",
+      "onboard_time": 1755057682,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310587,
       "num": 310587,
       "word": "顾客自带8200元茅台被餐厅调包",
@@ -313,14 +369,6 @@
       "onboard_time": 1754993182,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264863,
-      "num": 264863,
-      "word": "时代少年团 输给你的朋友很丢人吗",
-      "onboard_time": 1755055822,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 261156,
@@ -395,12 +443,12 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 242221,
-      "num": 242221,
-      "word": "W盛典 迪丽热巴",
-      "onboard_time": 1755057201,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 230596,
+      "num": 230596,
+      "word": "阴阳师魔卡少女樱",
+      "onboard_time": 1755058161,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 230195,
@@ -419,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227255,
+      "num": 227255,
+      "word": "钟丽缇女儿Jaden膝盖手术",
+      "onboard_time": 1755058223,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223828,
       "num": 223828,
       "word": "郭德纲力挺郭麒麟接班",
@@ -427,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223514,
+      "num": 223514,
+      "word": "广州空姐公寓楼",
+      "onboard_time": 1755052882,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218633,
       "num": 218633,
       "word": "当地回应景区行凶嫌犯有精神疾病史",
       "onboard_time": 1755006627,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209361,
+      "num": 209361,
+      "word": "奔驰CEO警告没有燃油车的后果",
+      "onboard_time": 1755058642,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 203922,
@@ -475,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197991,
+      "num": 197991,
+      "word": "洛川苹果",
+      "onboard_time": 1755056781,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197849,
       "num": 197849,
       "word": "微信式恋爱",
@@ -499,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193236,
+      "num": 193236,
+      "word": "医院外请专家做手术被举报",
+      "onboard_time": 1755057682,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189987,
       "num": 215416,
       "word": "权志龙涉嫌违反版权法",
@@ -521,6 +609,14 @@
       "onboard_time": 1755052522,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181814,
+      "num": 313237,
+      "word": "宋亚轩看似耍帅实则没招了",
+      "onboard_time": 1755058883,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 177687,
@@ -563,12 +659,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159771,
-      "num": 159771,
-      "word": "洛川苹果",
-      "onboard_time": 1755056781,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 165145,
+      "num": 165145,
+      "word": "刘轩丞刘骏村里唯二大学生",
+      "onboard_time": 1755059123,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158856,
+      "num": 158856,
+      "word": "桐心薇泯",
+      "onboard_time": 1755057443,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 157860,
@@ -619,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152604,
+      "num": 152604,
+      "word": "西安地铁回应实时显示车厢拥挤情况",
+      "onboard_time": 1755059783,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152074,
       "num": 172795,
       "word": "又一抗癌博主去世年仅32岁",
@@ -641,6 +753,14 @@
       "onboard_time": 1755008606,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148794,
+      "num": 148794,
+      "word": "iPhone18Fold或明年发布",
+      "onboard_time": 1755059182,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 148380,
@@ -691,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138314,
+      "num": 138314,
+      "word": "杨幂新剧竹马变妹夫",
+      "onboard_time": 1755058344,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138059,
       "num": 138059,
       "word": "A股",
@@ -705,6 +833,14 @@
       "onboard_time": 1755004525,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135444,
+      "num": 140928,
+      "word": "丞磊演三折叠晋江纯爱男主",
+      "onboard_time": 1755058161,
+      "rank": 47,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 132154,
@@ -788,7 +924,7 @@
     },
     {
       "raw_hot": 123414,
-      "num": 123414,
+      "num": 459246,
       "word": "抗战胜利80周年",
       "onboard_time": 1755055401,
       "rank": 47,
@@ -836,7 +972,7 @@
     },
     {
       "raw_hot": 114790,
-      "num": 223841,
+      "num": 314873,
       "word": "奥迪E5竞品是谁",
       "onboard_time": 1755056902,
       "rank": 19,
@@ -987,6 +1123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86417,
+      "num": 201467,
+      "word": "丞磊镜头下的女演员",
+      "onboard_time": 1755058642,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86236,
       "num": 86236,
       "word": "江苏省饭",
@@ -1065,6 +1209,22 @@
       "onboard_time": 1755013643,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73089,
+      "num": 313128,
+      "word": "旧手机换菜刀靠谱吗",
+      "onboard_time": 1755059544,
+      "rank": 19,
+      "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 72963,
+      "num": 166362,
+      "word": "提名内娱人品比较好的明星",
+      "onboard_time": 1755058883,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 71440,
@@ -1179,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41019,
+      "num": 165507,
+      "word": "李维嘉回应被传洁癖",
+      "onboard_time": 1755059483,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35231,
       "num": 39334,
       "word": "假如各专业都有自己的学士服",
@@ -1227,6 +1395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14469,
+      "num": 769377,
+      "word": "紧急预拨1.7亿元支持7省市救灾",
+      "onboard_time": 1754999663,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14322,
       "num": 17214,
       "word": "阿迪达斯被指文化挪用",
@@ -1238,6 +1414,9 @@
   "hotgov_list": [
     {
       "word": "#植树造林改善生态任重而道远#"
+    },
+    {
+      "word": "#从两山理念与实践看中国与世界#"
     }
   ]
 }
