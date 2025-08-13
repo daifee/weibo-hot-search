@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755095288260,
+  "endTime": 1755096398686,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -852,7 +852,7 @@
     },
     {
       "raw_hot": 889136,
-      "num": 333556,
+      "num": 394092,
       "word": "李行亮父女共用一张脸",
       "onboard_time": 1755094224,
       "rank": 11,
@@ -1012,7 +1012,7 @@
     },
     {
       "raw_hot": 797280,
-      "num": 370014,
+      "num": 389032,
       "word": "Aaaaapple品牌报警",
       "onboard_time": 1755092186,
       "rank": 32,
@@ -1068,7 +1068,7 @@
     },
     {
       "raw_hot": 778455,
-      "num": 358802,
+      "num": 383077,
       "word": "原来月薪过万一直都在被误解",
       "onboard_time": 1755074483,
       "rank": 30,
@@ -1355,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 655018,
+      "num": 655018,
+      "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
+      "onboard_time": 1755091825,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 654122,
       "num": 341052,
       "word": "嗯哼妹妹长这么大了",
@@ -1481,14 +1489,6 @@
       "onboard_time": 1754924305,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 613980,
-      "num": 613980,
-      "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
-      "onboard_time": 1755091825,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 608186,
@@ -1683,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 553417,
+      "num": 553417,
+      "word": "高三男生被邻居驾车撞伤一年后身亡",
+      "onboard_time": 1755091585,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 552307,
       "num": 552307,
       "word": "网红万洁曝育儿嫂凌晨粗暴翻身婴儿",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1754875700,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 512911,
-      "num": 512911,
-      "word": "高三男生被邻居驾车撞伤一年后身亡",
-      "onboard_time": 1755091585,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 510716,
@@ -2403,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417244,
+      "num": 417244,
+      "word": "亚朵酒店被曝疑现别人用过的牙签",
+      "onboard_time": 1755093684,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417182,
       "num": 417182,
       "word": "墨镜大爷救人后又被一群人救了",
@@ -2777,6 +2785,14 @@
       "onboard_time": 1754755343,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357058,
+      "num": 357058,
+      "word": "月亮",
+      "onboard_time": 1754918303,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 356205,
@@ -3467,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272431,
+      "num": 356673,
+      "word": "杨幂坐收cvb实绩了",
+      "onboard_time": 1755095065,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272409,
       "num": 379827,
       "word": "男子打捞手机意外吸出百发子弹",
@@ -3553,6 +3577,14 @@
       "onboard_time": 1754990602,
       "rank": 42,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 264544,
+      "num": 410753,
+      "word": "男童遗体距走失处直线距离1公里",
+      "onboard_time": 1755095845,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264039,
@@ -3721,6 +3753,14 @@
       "onboard_time": 1755082042,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250210,
+      "num": 250210,
+      "word": "95后记者在加沙被打死",
+      "onboard_time": 1755091464,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 249536,
@@ -4187,14 +4227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221926,
-      "num": 221926,
-      "word": "亚朵酒店被曝疑现别人用过的牙签",
-      "onboard_time": 1755093684,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220797,
       "num": 199648,
       "word": "W盛典好多人啊",
@@ -4313,14 +4345,6 @@
       "onboard_time": 1755070582,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214542,
-      "num": 214542,
-      "word": "月亮",
-      "onboard_time": 1754918303,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 214016,
@@ -4529,14 +4553,6 @@
       "onboard_time": 1755081923,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 205844,
-      "num": 205844,
-      "word": "杨幂坐收cvb实绩了",
-      "onboard_time": 1755095065,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 205700,
@@ -5033,14 +5049,6 @@
       "onboard_time": 1754894482,
       "rank": 49,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 195675,
-      "num": 228963,
-      "word": "95后记者在加沙被打死",
-      "onboard_time": 1755091464,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 195425,
@@ -6793,6 +6801,14 @@
       "onboard_time": 1754800882,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157927,
+      "num": 239295,
+      "word": "妈妈带两孩子避雨称遭保安驱赶",
+      "onboard_time": 1755093684,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157727,
@@ -9123,6 +9139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 126636,
+      "num": 126636,
+      "word": "5岁姐姐因糖尿病昏迷妹妹也确诊",
+      "onboard_time": 1755095784,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126620,
       "num": 126620,
       "word": "禾你珏配",
@@ -9265,6 +9289,14 @@
       "onboard_time": 1754987483,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124523,
+      "num": 124523,
+      "word": "周也小比就是什么都比",
+      "onboard_time": 1755095126,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 124371,
@@ -9417,6 +9449,14 @@
       "onboard_time": 1754986943,
       "rank": 43,
       "category": "互联网,音乐"
+    },
+    {
+      "raw_hot": 122729,
+      "num": 122729,
+      "word": "LGDNBW卡视野成功翻盘",
+      "onboard_time": 1755095784,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 122717,
@@ -10091,6 +10131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114395,
+      "num": 114395,
+      "word": "为了气爹的话被娘听进去了",
+      "onboard_time": 1755095665,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114379,
       "num": 344715,
       "word": "未牵绳大狗扑向1岁宝宝",
@@ -10233,6 +10281,14 @@
       "onboard_time": 1754813542,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113092,
+      "num": 113092,
+      "word": "BLG对战AL",
+      "onboard_time": 1755090503,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 113029,
@@ -10483,6 +10539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110716,
+      "num": 110716,
+      "word": "人生是一场巨大的错过",
+      "onboard_time": 1755095784,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110701,
       "num": 110701,
       "word": "莫雷加德谈对阵王楚钦",
@@ -10491,28 +10555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110539,
-      "num": 110539,
-      "word": "BLG对战AL",
-      "onboard_time": 1755090503,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 110476,
       "num": 110476,
       "word": "出现这6种症状可能是心梗前兆",
       "onboard_time": 1754899463,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110428,
-      "num": 110428,
-      "word": "周也小比就是什么都比",
-      "onboard_time": 1755095126,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 110348,
@@ -11051,6 +11099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105624,
+      "num": 356355,
+      "word": "大理走失男童遇难初步排除刑事案件",
+      "onboard_time": 1755095906,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105607,
       "num": 105607,
       "word": "长时间坐着究竟有多危险",
@@ -11273,6 +11329,14 @@
       "onboard_time": 1754800401,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101665,
+      "num": 101665,
+      "word": "皇马回应樊振东周冠宇助威",
+      "onboard_time": 1755096206,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 101569,
@@ -11817,6 +11881,14 @@
       "onboard_time": 1755074302,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 93515,
+      "num": 93515,
+      "word": "5名未成年开车上高速去吃小吃",
+      "onboard_time": 1755094105,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93357,
@@ -12545,14 +12617,6 @@
       "onboard_time": 1754955500,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 68548,
-      "num": 239295,
-      "word": "妈妈带两孩子避雨称遭保安驱赶",
-      "onboard_time": 1755093684,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68045,
