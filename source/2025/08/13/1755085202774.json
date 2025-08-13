@@ -1,0 +1,410 @@
+{
+  "runTime": 1755085202774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2026947,
+        "num": 2026947,
+        "word": "赵露思代言续约了",
+        "onboard_time": 1755084503,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625413,
+        "num": 625413,
+        "word": "南极惊现一具冰封66年遗骸",
+        "onboard_time": 1755070041,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 4035,
+        "num": 452073,
+        "word": "个人单笔5万元以下消费可享贴息",
+        "onboard_time": 1754988143,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1450183,
+        "num": 450203,
+        "word": "张碧晨方因演唱会延期道歉",
+        "onboard_time": 1755082703,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 446729,
+        "num": 446729,
+        "word": "追问助农可不可以使用假公章",
+        "onboard_time": 1755082282,
+        "rank": 4,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 283346,
+        "num": 283346,
+        "word": "女孩出嫁戴上了20斤重银头饰",
+        "onboard_time": 1755081682,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1063403,
+        "num": 282145,
+        "word": "赵露思手机聊天记录",
+        "onboard_time": 1755082462,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 705810,
+        "num": 280752,
+        "word": "陶白白自曝收入",
+        "onboard_time": 1755083725,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278067,
+        "num": 278067,
+        "word": "李在明就韩国出现反华集会下达指示",
+        "onboard_time": 1755072862,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250244,
+        "num": 250244,
+        "word": "16岁男生遭多人欺辱殴打被逼学狗叫",
+        "onboard_time": 1755082042,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804013,
+        "num": 249857,
+        "word": "印度聋哑女孩距警察20米处遭轮奸",
+        "onboard_time": 1755080423,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 406010,
+        "num": 246294,
+        "word": "于斌晒和王一博聊天记录",
+        "onboard_time": 1755081203,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325947,
+        "num": 242819,
+        "word": "原来月薪过万一直都在被误解",
+        "onboard_time": 1755074483,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315869,
+        "num": 239464,
+        "word": "嗯哼妹妹长这么大了",
+        "onboard_time": 1755076644,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286874,
+        "num": 235924,
+        "word": "网传跟CardiB录歌的是朴彩英",
+        "onboard_time": 1755081862,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264311,
+        "num": 233839,
+        "word": "陈卓璇说长迪丽热巴这样会笑醒",
+        "onboard_time": 1755082823,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231440,
+        "num": 231440,
+        "word": "熬夜 疲惫臭",
+        "onboard_time": 1755075922,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 231040,
+        "num": 231040,
+        "word": "陈慧琳曾痛失双胞胎爱女",
+        "onboard_time": 1755068663,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225350,
+        "num": 225350,
+        "word": "李嘉诚这次嗅到了危险",
+        "onboard_time": 1755084145,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 205750,
+        "num": 205750,
+        "word": "19岁女生遭杀害手机丢失家属盼归还",
+        "onboard_time": 1755081985,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195808,
+        "num": 195808,
+        "word": "虞书欣将参加W盛典",
+        "onboard_time": 1755084503,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189038,
+        "num": 189038,
+        "word": "周杰伦最高记录是26亿",
+        "onboard_time": 1755083484,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188326,
+        "num": 188326,
+        "word": "请回答1988团建",
+        "onboard_time": 1755077186,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178569,
+        "num": 178569,
+        "word": "光与夜之恋全新农场系统",
+        "onboard_time": 1755084324,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162034,
+        "num": 162034,
+        "word": "梓渝势界杂志销售额",
+        "onboard_time": 1755081923,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144488,
+        "num": 144488,
+        "word": "业主说拖欠物业费可打折太不公平",
+        "onboard_time": 1755081203,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140765,
+        "num": 140765,
+        "word": "利剑玫瑰微博涨分豆瓣锁分",
+        "onboard_time": 1755083663,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140039,
+        "num": 140039,
+        "word": "陕西 冰雹苹果",
+        "onboard_time": 1755067103,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140032,
+        "num": 140032,
+        "word": "张艺兴回应林俊杰",
+        "onboard_time": 1755082584,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133290,
+        "num": 133290,
+        "word": "BLACKPINK怎么做到瞬间退场的",
+        "onboard_time": 1755078144,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243473,
+        "num": 131350,
+        "word": "辅导员强奸醉酒女学生获刑3年半",
+        "onboard_time": 1755085104,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160114,
+        "num": 130413,
+        "word": "早田希娜张本美和医疗暂停风波真相",
+        "onboard_time": 1755083603,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129276,
+        "num": 129276,
+        "word": "白雨露夺得世运会台球首金",
+        "onboard_time": 1755084324,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128261,
+        "num": 128261,
+        "word": "严浩翔开庭带上你的破弹幕",
+        "onboard_time": 1755080062,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111940,
+        "num": 111940,
+        "word": "宋丹丹孙子都这么大了",
+        "onboard_time": 1755077964,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110926,
+        "num": 110926,
+        "word": "江山为聘",
+        "onboard_time": 1755081263,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104935,
+        "num": 104935,
+        "word": "这一秒过火",
+        "onboard_time": 1755084803,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103915,
+        "num": 103915,
+        "word": "体制内辞职一年后的真实感受",
+        "onboard_time": 1755069802,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30683,
+        "num": 99861,
+        "word": "90花群像录",
+        "onboard_time": 1755084985,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39854,
+        "num": 96936,
+        "word": "突然get到了吴昕的美",
+        "onboard_time": 1755084863,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96504,
+        "num": 96504,
+        "word": "国漫五大亿级名场面",
+        "onboard_time": 1755084683,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96279,
+        "num": 96279,
+        "word": "13岁男孩偷开路边货车撞伤人",
+        "onboard_time": 1755078384,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95805,
+        "num": 95805,
+        "word": "樊振东变天线宝宝",
+        "onboard_time": 1755083784,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94641,
+        "num": 94641,
+        "word": "张远为了披荆斩棘啃黄瓜",
+        "onboard_time": 1755085104,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94484,
+        "num": 94484,
+        "word": "卫星互联网低轨08组卫星发射成功",
+        "onboard_time": 1755075503,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93117,
+        "num": 93117,
+        "word": "杨幂生万物包场一万座",
+        "onboard_time": 1755081502,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90114,
+        "num": 90114,
+        "word": "杨洋这点隐私全给大家伙看了",
+        "onboard_time": 1755079104,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89777,
+        "num": 89777,
+        "word": "孙颖莎配合的项目信任是第一位",
+        "onboard_time": 1755085164,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87247,
+        "num": 87247,
+        "word": "杨柳是今年来登陆我国最强台风",
+        "onboard_time": 1755084383,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86406,
+        "num": 86406,
+        "word": "李一桐的包比我简历还丰富",
+        "onboard_time": 1755077664,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记要求正确处理这对关系#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755084287287,
+  "endTime": 1755085202774,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -603,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2026947,
+      "num": 2026947,
+      "word": "赵露思代言续约了",
+      "onboard_time": 1755084503,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1987832,
       "num": 1987832,
       "word": "社保",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1754720063,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1450183,
+      "num": 450203,
+      "word": "张碧晨方因演唱会延期道歉",
+      "onboard_time": 1755082703,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1440178,
@@ -2185,6 +2201,14 @@
       "onboard_time": 1754977104,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1063403,
+      "num": 282145,
+      "word": "赵露思手机聊天记录",
+      "onboard_time": 1755082462,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1057657,
@@ -3331,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804013,
+      "num": 308057,
+      "word": "印度聋哑女孩距警察20米处遭轮奸",
+      "onboard_time": 1755080423,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 802576,
       "num": 315099,
       "word": "恋人剧组",
@@ -3353,14 +3385,6 @@
       "onboard_time": 1754215703,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 797867,
-      "num": 308057,
-      "word": "印度聋哑女孩距警察20米处遭轮奸",
-      "onboard_time": 1755080423,
-      "rank": 7,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 796829,
@@ -4049,6 +4073,14 @@
       "onboard_time": 1754657483,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 705810,
+      "num": 280752,
+      "word": "陶白白自曝收入",
+      "onboard_time": 1755083725,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 704939,
@@ -7219,6 +7251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446729,
+      "num": 446729,
+      "word": "追问助农可不可以使用假公章",
+      "onboard_time": 1755082282,
+      "rank": 4,
+      "category": "舆论监督,艺人"
+    },
+    {
       "raw_hot": 446366,
       "num": 446366,
       "word": "26岁男子勒死73岁情人水泥埋尸",
@@ -7737,14 +7777,6 @@
       "onboard_time": 1754133024,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 415240,
-      "num": 247051,
-      "word": "陶白白自曝收入",
-      "onboard_time": 1755083725,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 414592,
@@ -10803,12 +10835,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 287222,
-      "num": 287222,
-      "word": "追问助农可不可以使用假公章",
-      "onboard_time": 1755082282,
-      "rank": 4,
-      "category": "舆论监督,艺人"
+      "raw_hot": 286874,
+      "num": 264906,
+      "word": "网传跟CardiB录歌的是朴彩英",
+      "onboard_time": 1755081862,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 286734,
@@ -10899,14 +10931,6 @@
       "category": "游戏,民生新闻"
     },
     {
-      "raw_hot": 284403,
-      "num": 264906,
-      "word": "网传跟CardiB录歌的是朴彩英",
-      "onboard_time": 1755081862,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 284050,
       "num": 254860,
       "word": "孔雪儿新剧妆造必有高人指点",
@@ -10929,6 +10953,14 @@
       "onboard_time": 1754461403,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283346,
+      "num": 283346,
+      "word": "女孩出嫁戴上了20斤重银头饰",
+      "onboard_time": 1755081682,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283217,
@@ -11635,14 +11667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263775,
-      "num": 263775,
-      "word": "女孩出嫁戴上了20斤重银头饰",
-      "onboard_time": 1755081682,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263492,
       "num": 263492,
       "word": "司马懿相柳皮肤爆料",
@@ -12203,6 +12227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250244,
+      "num": 250244,
+      "word": "16岁男生遭多人欺辱殴打被逼学狗叫",
+      "onboard_time": 1755082042,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250136,
       "num": 250136,
       "word": "住酒店闻到异味竟是一条恶臭内裤",
@@ -12497,6 +12529,14 @@
       "onboard_time": 1754142091,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243473,
+      "num": 131350,
+      "word": "辅导员强奸醉酒女学生获刑3年半",
+      "onboard_time": 1755085104,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243447,
@@ -13449,6 +13489,14 @@
       "onboard_time": 1754451924,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225350,
+      "num": 225350,
+      "word": "李嘉诚这次嗅到了危险",
+      "onboard_time": 1755084145,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 225182,
@@ -16475,6 +16523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195808,
+      "num": 195808,
+      "word": "虞书欣将参加W盛典",
+      "onboard_time": 1755084503,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195792,
       "num": 195792,
       "word": "CORTIS出道曲MV",
@@ -16561,14 +16617,6 @@
       "onboard_time": 1755011546,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195395,
-      "num": 195395,
-      "word": "16岁男生遭多人欺辱殴打被逼学狗叫",
-      "onboard_time": 1755082042,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195393,
@@ -17409,6 +17457,14 @@
       "onboard_time": 1754361381,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189038,
+      "num": 189038,
+      "word": "周杰伦最高记录是26亿",
+      "onboard_time": 1755083484,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 188909,
@@ -18787,6 +18843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178569,
+      "num": 178569,
+      "word": "光与夜之恋全新农场系统",
+      "onboard_time": 1755084324,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178542,
       "num": 178542,
       "word": "沈玉琳发文",
@@ -19825,14 +19889,6 @@
       "onboard_time": 1754833403,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170946,
-      "num": 170946,
-      "word": "周杰伦最高记录是26亿",
-      "onboard_time": 1755083484,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 170858,
@@ -21571,6 +21627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160114,
+      "num": 134698,
+      "word": "早田希娜张本美和医疗暂停风波真相",
+      "onboard_time": 1755083603,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160024,
       "num": 160024,
       "word": "江油被殴打孩子的聋哑人母亲晕倒",
@@ -22705,14 +22769,6 @@
       "onboard_time": 1754382745,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153475,
-      "num": 134698,
-      "word": "早田希娜张本美和医疗暂停风波真相",
-      "onboard_time": 1755083603,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 153428,
@@ -24659,6 +24715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144488,
+      "num": 144488,
+      "word": "业主说拖欠物业费可打折太不公平",
+      "onboard_time": 1755081203,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144465,
       "num": 144465,
       "word": "校方回应韦东奕已晋升北大长聘副教授",
@@ -25545,6 +25609,14 @@
       "onboard_time": 1754107701,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 140765,
+      "num": 140765,
+      "word": "利剑玫瑰微博涨分豆瓣锁分",
+      "onboard_time": 1755083663,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 140748,
@@ -27211,14 +27283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134178,
-      "num": 134178,
-      "word": "业主说拖欠物业费可打折太不公平",
-      "onboard_time": 1755081203,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134175,
       "num": 134175,
       "word": "冰雹苹果",
@@ -28609,6 +28673,14 @@
       "onboard_time": 1754196445,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129276,
+      "num": 129276,
+      "word": "白雨露夺得世运会台球首金",
+      "onboard_time": 1755084324,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 129224,
@@ -33995,14 +34067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108676,
-      "num": 108676,
-      "word": "李嘉诚这次嗅到了危险",
-      "onboard_time": 1755084145,
-      "rank": 41,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 108669,
       "num": 108669,
       "word": "伊涅芙大改造",
@@ -34673,6 +34737,14 @@
       "onboard_time": 1755066503,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 104935,
+      "num": 104935,
+      "word": "这一秒过火",
+      "onboard_time": 1755084803,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 104921,
@@ -36283,6 +36355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96504,
+      "num": 96504,
+      "word": "国漫五大亿级名场面",
+      "onboard_time": 1755084683,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 96421,
       "num": 96421,
       "word": "美国财政状况严重失衡",
@@ -36553,6 +36633,14 @@
       "onboard_time": 1754799262,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94641,
+      "num": 94641,
+      "word": "张远为了披荆斩棘啃黄瓜",
+      "onboard_time": 1755085104,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 94636,
@@ -37131,14 +37219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90724,
-      "num": 112979,
-      "word": "利剑玫瑰微博涨分豆瓣锁分",
-      "onboard_time": 1755083663,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90658,
       "num": 90658,
       "word": "肖战表演状态有多细腻",
@@ -37233,6 +37313,14 @@
       "onboard_time": 1754842284,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89777,
+      "num": 89777,
+      "word": "孙颖莎配合的项目信任是第一位",
+      "onboard_time": 1755085164,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 89723,
@@ -37537,6 +37625,14 @@
       "onboard_time": 1754496743,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 87247,
+      "num": 87247,
+      "word": "杨柳是今年来登陆我国最强台风",
+      "onboard_time": 1755084383,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87241,
@@ -41843,6 +41939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39854,
+      "num": 96936,
+      "word": "突然get到了吴昕的美",
+      "onboard_time": 1755084863,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39745,
       "num": 237517,
       "word": "14岁少女被殴打案仍有三大疑问",
@@ -42705,6 +42809,14 @@
       "onboard_time": 1755070524,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30683,
+      "num": 99861,
+      "word": "90花群像录",
+      "onboard_time": 1755084985,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 30658,
