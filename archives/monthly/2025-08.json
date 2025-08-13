@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755068050571,
+  "endTime": 1755070108424,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 3239202,
-      "num": 325791,
+      "num": 419508,
       "word": "赵露思 之前有个艺人高速倒车",
       "onboard_time": 1755010045,
       "rank": 11,
@@ -1556,7 +1556,7 @@
     },
     {
       "raw_hot": 1276224,
-      "num": 1018080,
+      "num": 1167937,
       "word": "黄旭熙拍短剧了",
       "onboard_time": 1755063203,
       "rank": 11,
@@ -2713,6 +2713,14 @@
       "onboard_time": 1754526382,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 915074,
+      "num": 424357,
+      "word": "香港部分公务员拒用内地饮用水",
+      "onboard_time": 1755066561,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 913750,
@@ -3899,6 +3907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 713185,
+      "num": 713185,
+      "word": "陕西 冰雹苹果",
+      "onboard_time": 1755067103,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 712492,
       "num": 712492,
       "word": "南京照相馆上映日本网民跳脚",
@@ -3961,14 +3977,6 @@
       "onboard_time": 1754484922,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 704288,
-      "num": 397473,
-      "word": "香港部分公务员拒用内地饮用水",
-      "onboard_time": 1755066561,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 703936,
@@ -4241,6 +4249,14 @@
       "onboard_time": 1754294543,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 674762,
+      "num": 1099600,
+      "word": "iPhone无感录音",
+      "onboard_time": 1755063563,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 673842,
@@ -4747,14 +4763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 622505,
-      "num": 1099600,
-      "word": "iPhone无感录音",
-      "onboard_time": 1755063563,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 621845,
       "num": 621845,
       "word": "笔试17分进复审",
@@ -5147,6 +5155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 589444,
+      "num": 589444,
+      "word": "被摸脸前台女孩与外卖员互相认识",
+      "onboard_time": 1755064043,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589411,
       "num": 589411,
       "word": "女子吐槽1万7的月子餐像预制菜",
@@ -5377,6 +5393,14 @@
       "onboard_time": 1754811620,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 571837,
+      "num": 415482,
+      "word": "陈慧琳曾痛失双胞胎爱女",
+      "onboard_time": 1755068663,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 571698,
@@ -7275,6 +7299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 434122,
+      "num": 434122,
+      "word": "被耐克起诉后陈冠希发文",
+      "onboard_time": 1755068782,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432635,
       "num": 432635,
       "word": "一个亿有多少",
@@ -7304,6 +7336,14 @@
       "word": "胖东来新店招1千人200个给退伍军人",
       "onboard_time": 1754630544,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430051,
+      "num": 430051,
+      "word": "雪山失联 20万寻活人5万寻遗体",
+      "onboard_time": 1755062243,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -7665,6 +7705,14 @@
       "onboard_time": 1754541443,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 409641,
+      "num": 409641,
+      "word": "狂魔哥开团Faker和Uzi",
+      "onboard_time": 1755066681,
+      "rank": 19,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 409460,
@@ -9251,6 +9299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 333631,
+      "num": 333631,
+      "word": "中国恒大退市",
+      "onboard_time": 1755068542,
+      "rank": 16,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 333540,
       "num": 333540,
       "word": "中国队男子200米自由泳接力银牌",
@@ -9273,14 +9329,6 @@
       "onboard_time": 1754269521,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333369,
-      "num": 457059,
-      "word": "被摸脸前台女孩与外卖员互相认识",
-      "onboard_time": 1755064043,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 332646,
@@ -9843,14 +9891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311839,
-      "num": 314440,
-      "word": "雪山失联 20万寻活人5万寻遗体",
-      "onboard_time": 1755062243,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 311497,
       "num": 311497,
       "word": "女子哭诉扶老人反被诬陷让人寒心",
@@ -10169,14 +10209,6 @@
       "onboard_time": 1754460681,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 301102,
-      "num": 308320,
-      "word": "狂魔哥开团Faker和Uzi",
-      "onboard_time": 1755066681,
-      "rank": 19,
-      "category": "电竞,游戏"
     },
     {
       "raw_hot": 301028,
@@ -10945,6 +10977,14 @@
       "onboard_time": 1754228605,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 274511,
+      "num": 202369,
+      "word": "迪丽热巴蝴蝶丝袜",
+      "onboard_time": 1755068481,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 274504,
@@ -13043,6 +13083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227187,
+      "num": 199896,
+      "word": "梓渝新歌热度13亿",
+      "onboard_time": 1755066561,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227107,
       "num": 227107,
       "word": "日本考虑限制75岁以上老人ATM机取款",
@@ -14819,6 +14867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204889,
+      "num": 204889,
+      "word": "刘宇宁一米九大长条子",
+      "onboard_time": 1755069082,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204588,
       "num": 204588,
       "word": "王安宇现场cue了花少",
@@ -14969,14 +15025,6 @@
       "onboard_time": 1754739142,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203501,
-      "num": 199322,
-      "word": "梓渝新歌热度13亿",
-      "onboard_time": 1755066561,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 203495,
@@ -15608,6 +15656,14 @@
       "word": "TF四代Monday",
       "onboard_time": 1754731043,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198976,
+      "num": 204444,
+      "word": "刘亦菲将出席W盛典活动",
+      "onboard_time": 1755069501,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -16465,14 +16521,6 @@
       "onboard_time": 1754662406,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193341,
-      "num": 193341,
-      "word": "陕西 冰雹苹果",
-      "onboard_time": 1755067103,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193314,
@@ -17585,6 +17633,14 @@
       "onboard_time": 1754303064,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184799,
+      "num": 184799,
+      "word": "花少7国际排面拉满",
+      "onboard_time": 1755069144,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 184786,
@@ -20139,6 +20195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165620,
+      "num": 165620,
+      "word": "体制内辞职一年后的真实感受",
+      "onboard_time": 1755069802,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165599,
       "num": 302939,
       "word": "老人摔倒无人敢扶外卖小哥出手了",
@@ -21017,6 +21081,14 @@
       "onboard_time": 1754020582,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160309,
+      "num": 160309,
+      "word": "南昌",
+      "onboard_time": 1755067342,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160296,
@@ -24979,6 +25051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140479,
+      "num": 140479,
+      "word": "体重掉得越慢减脂效率越高",
+      "onboard_time": 1755066742,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140441,
       "num": 140441,
       "word": "许光汉说我已经一年没有工作了",
@@ -25593,14 +25673,6 @@
       "onboard_time": 1754235264,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137920,
-      "num": 137920,
-      "word": "南昌",
-      "onboard_time": 1755067342,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137902,
@@ -26521,6 +26593,14 @@
       "onboard_time": 1754389225,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134175,
+      "num": 134175,
+      "word": "冰雹苹果",
+      "onboard_time": 1755068181,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134129,
@@ -28300,7 +28380,7 @@
     },
     {
       "raw_hot": 127635,
-      "num": 127635,
+      "num": 150707,
       "word": "李艺彤马吟吟恋综女嘉宾出场",
       "onboard_time": 1755066802,
       "rank": 42,
@@ -28361,6 +28441,14 @@
       "onboard_time": 1753972286,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127509,
+      "num": 127509,
+      "word": "南极惊现一具冰封66年遗骸",
+      "onboard_time": 1755070041,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127474,
@@ -28539,6 +28627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126810,
+      "num": 126810,
+      "word": "A股成交额再突破2万亿",
+      "onboard_time": 1755070041,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126786,
       "num": 126786,
       "word": "小哥送完这单基本告别外卖行业了",
@@ -28609,6 +28705,14 @@
       "onboard_time": 1754375123,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126541,
+      "num": 126541,
+      "word": "赵牧辰说有正在接触的人",
+      "onboard_time": 1755069922,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 126535,
@@ -29051,14 +29155,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 124619,
-      "num": 124619,
-      "word": "体重掉得越慢减脂效率越高",
-      "onboard_time": 1755066742,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 124601,
       "num": 124601,
       "word": "狗狗叼回一只小萌猫竟是保护动物",
@@ -29257,6 +29353,14 @@
       "onboard_time": 1754031381,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 123702,
+      "num": 123702,
+      "word": "有个情绪稳定的搭子真的很重要",
+      "onboard_time": 1755068363,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 123661,
@@ -34499,6 +34603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101221,
+      "num": 425983,
+      "word": "台风杨柳登陆台湾沿海",
+      "onboard_time": 1755068363,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101214,
       "num": 101214,
       "word": "聋猫突然看到人的反应",
@@ -36611,6 +36723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86850,
+      "num": 146118,
+      "word": "方形西瓜卖2999元一个",
+      "onboard_time": 1755069144,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86485,
       "num": 86485,
       "word": "余承恩发了朝雪录主创合照",
@@ -37273,6 +37393,14 @@
       "onboard_time": 1754305401,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 80855,
+      "num": 201370,
+      "word": "尹锡悦夫妇双被捕对韩国意味着啥",
+      "onboard_time": 1755068481,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80825,
@@ -40347,6 +40475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44411,
+      "num": 143418,
+      "word": "女子凌晨跳河自杀男友怕担责不报警",
+      "onboard_time": 1755069144,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44201,
       "num": 228658,
       "word": "找到我和时团的共同点了",
@@ -41731,6 +41867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29295,
+      "num": 152212,
+      "word": "18岁女孩凌晨失联尸体在河道被发现",
+      "onboard_time": 1755070041,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29224,
       "num": 36758,
       "word": "鹿晗gogogo出发喽",
@@ -41993,6 +42137,14 @@
       "onboard_time": 1754763976,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25650,
+      "num": 200372,
+      "word": "周也丞磊沙发吻",
+      "onboard_time": 1755069922,
+      "rank": 28,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 25586,
