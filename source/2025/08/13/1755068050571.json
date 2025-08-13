@@ -1,0 +1,410 @@
+{
+  "runTime": 1755068050571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 622505,
+        "num": 1099600,
+        "word": "iPhone无感录音",
+        "onboard_time": 1755063563,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2134577,
+        "num": 1086415,
+        "word": "赵露思陷假助农风波",
+        "onboard_time": 1755062843,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20349,
+        "num": 1018825,
+        "word": "网警守护家的安全",
+        "onboard_time": 1755064582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1018080,
+        "num": 1018080,
+        "word": "黄旭熙拍短剧了",
+        "onboard_time": 1755063203,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522985,
+        "num": 522985,
+        "word": "女子称怀双胎索要80万男方报警",
+        "onboard_time": 1755062962,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359624,
+        "num": 359624,
+        "word": "苹果折叠屏",
+        "onboard_time": 1755057742,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 512444,
+        "num": 351870,
+        "word": "陈德容承认自己怪过王珞丹",
+        "onboard_time": 1755063981,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236976,
+        "num": 338892,
+        "word": "美国驱逐舰非法闯入中国黄岩岛领海",
+        "onboard_time": 1755056542,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333369,
+        "num": 333369,
+        "word": "被摸脸前台女孩与外卖员互相认识",
+        "onboard_time": 1755064043,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391290,
+        "num": 333302,
+        "word": "李沁为了花少去上了化妆课",
+        "onboard_time": 1755062004,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704288,
+        "num": 330358,
+        "word": "香港部分公务员拒用内地饮用水",
+        "onboard_time": 1755066561,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654804,
+        "num": 325791,
+        "word": "赵露思 之前有个艺人高速倒车",
+        "onboard_time": 1755010045,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532050,
+        "num": 325521,
+        "word": "吴谨言约饭于正坦白结婚",
+        "onboard_time": 1755058822,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336762,
+        "num": 321110,
+        "word": "梓渝 泥潭大家都听了嘛",
+        "onboard_time": 1755061582,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320572,
+        "num": 320572,
+        "word": "W盛典 迪丽热巴",
+        "onboard_time": 1755057201,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311839,
+        "num": 311839,
+        "word": "雪山失联 20万寻活人5万寻遗体",
+        "onboard_time": 1755062243,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16229,
+        "num": 305910,
+        "word": "岚图知音拒绝电动毛坯房",
+        "onboard_time": 1755065061,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 301102,
+        "num": 301102,
+        "word": "狂魔哥开团Faker和Uzi",
+        "onboard_time": 1755066681,
+        "rank": 17,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 262639,
+        "num": 262639,
+        "word": "杜江霍思燕一家四口同框",
+        "onboard_time": 1755050241,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255561,
+        "num": 255561,
+        "word": "男子烧衣泄愤致母亲死亡",
+        "onboard_time": 1755054923,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254898,
+        "num": 254898,
+        "word": "宋仲基时隔9年回归爱情剧",
+        "onboard_time": 1755060024,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245740,
+        "num": 245740,
+        "word": "方圆脸瘦20斤变化",
+        "onboard_time": 1755059723,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 46664,
+        "num": 224831,
+        "word": "奥迪E5",
+        "onboard_time": 1755066802,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43158,
+        "num": 224480,
+        "word": "华莱士魔道祖师动画联名抬上来了",
+        "onboard_time": 1755063622,
+        "rank": 23,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 224174,
+        "num": 224174,
+        "word": "第一次不想抽到隐藏款",
+        "onboard_time": 1755060084,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204342,
+        "num": 204342,
+        "word": "高中老师点外卖遇自己的学生送餐",
+        "onboard_time": 1755064403,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199322,
+        "num": 199322,
+        "word": "梓渝新歌热度13亿",
+        "onboard_time": 1755066561,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193341,
+        "num": 193341,
+        "word": "陕西 冰雹苹果",
+        "onboard_time": 1755067103,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168473,
+        "num": 191303,
+        "word": "中方将欧盟两家银行列入反制清单",
+        "onboard_time": 1755066921,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162907,
+        "num": 190963,
+        "word": "W年度光影盛典阵容",
+        "onboard_time": 1755067103,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190931,
+        "num": 190931,
+        "word": "势界",
+        "onboard_time": 1755065242,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 181568,
+        "num": 181568,
+        "word": "金建希出庭时念了句中国古诗",
+        "onboard_time": 1755061103,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176545,
+        "num": 176545,
+        "word": "台风",
+        "onboard_time": 1755067940,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154038,
+        "num": 154038,
+        "word": "一代人有一代人的时尚大包",
+        "onboard_time": 1755067882,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150723,
+        "num": 150723,
+        "word": "吴宣仪把节目组电线拔了",
+        "onboard_time": 1755064523,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150353,
+        "num": 150353,
+        "word": "星穹铁道3.5",
+        "onboard_time": 1755067700,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146063,
+        "num": 146063,
+        "word": "何广智 冠军",
+        "onboard_time": 1755057502,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145370,
+        "num": 145370,
+        "word": "第11号台风杨柳预计今日登陆",
+        "onboard_time": 1755050002,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142284,
+        "num": 142284,
+        "word": "猫咬人后主人将其放生",
+        "onboard_time": 1755064103,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137920,
+        "num": 137920,
+        "word": "南昌",
+        "onboard_time": 1755067342,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134614,
+        "num": 134614,
+        "word": "731为冻伤实验把活人手冻得只剩骨头",
+        "onboard_time": 1755062182,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130737,
+        "num": 130737,
+        "word": "曝徐佳莹比尔贾婚变",
+        "onboard_time": 1755067222,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124619,
+        "num": 124619,
+        "word": "体重掉得越慢减脂效率越高",
+        "onboard_time": 1755066742,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119702,
+        "num": 119702,
+        "word": "男子打捞手机意外吸出百发子弹",
+        "onboard_time": 1755059723,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118465,
+        "num": 118465,
+        "word": "男子结婚22年发现俩儿子都不是亲生",
+        "onboard_time": 1755057682,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117559,
+        "num": 117559,
+        "word": "李艺彤马吟吟恋综女嘉宾出场",
+        "onboard_time": 1755066802,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115188,
+        "num": 115188,
+        "word": "李晟设计专业的DNA动了",
+        "onboard_time": 1755064882,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106959,
+        "num": 106959,
+        "word": "生育损伤",
+        "onboard_time": 1755063142,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103912,
+        "num": 103912,
+        "word": "女子出差遭老板性侵获赔110万",
+        "onboard_time": 1755062303,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103289,
+        "num": 103289,
+        "word": "32岁男子在梅里雪山失联20天",
+        "onboard_time": 1755066022,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从两山理念与实践看中国与世界#"
+    }
+  }
+}
