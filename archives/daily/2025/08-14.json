@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755182790112,
+  "endTime": 1755185385473,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -57,6 +57,14 @@
       "onboard_time": 1755175582,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1613905,
+      "num": 1613905,
+      "word": "社保断缴一次这些待遇全部取消",
+      "onboard_time": 1755181285,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1557291,
@@ -193,14 +201,6 @@
       "onboard_time": 1755175463,
       "rank": 22,
       "category": "剧集,剧集"
-    },
-    {
-      "raw_hot": 960253,
-      "num": 960253,
-      "word": "社保断缴一次这些待遇全部取消",
-      "onboard_time": 1755181285,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 958586,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635061,
+      "num": 635061,
+      "word": "天才女友 合诗雨",
+      "onboard_time": 1755181524,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 621705,
       "num": 621705,
       "word": "eStar兮然",
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476748,
+      "num": 476748,
+      "word": "王玉雯刘昊然张新成的故事越来越完整",
+      "onboard_time": 1755181705,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 476668,
       "num": 476668,
       "word": "王一博香奈儿活动生图",
@@ -537,6 +553,14 @@
       "onboard_time": 1755110235,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 451904,
+      "num": 338616,
+      "word": "杨超越才发现照片里的虫子",
+      "onboard_time": 1755183083,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 449210,
@@ -593,6 +617,14 @@
       "onboard_time": 1755110235,
       "rank": 4,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 392299,
+      "num": 330109,
+      "word": "韩美娟赤木刚宪穿婚服合照",
+      "onboard_time": 1755180024,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 388505,
@@ -707,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322818,
-      "num": 322818,
-      "word": "天才女友 合诗雨",
-      "onboard_time": 1755181524,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 322185,
       "num": 322185,
       "word": "0713大哥不好惹二哥更是惹不起",
@@ -747,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309022,
+      "num": 309022,
+      "word": "史上第一部没破亿硬发海报的电影",
+      "onboard_time": 1755179663,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306210,
       "num": 278053,
       "word": "杨幂秦海璐你俩根本没喝中药",
@@ -769,14 +801,6 @@
       "onboard_time": 1755141802,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291888,
-      "num": 291888,
-      "word": "王玉雯刘昊然张新成的故事越来越完整",
-      "onboard_time": 1755181705,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 289598,
@@ -811,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282635,
-      "num": 269723,
-      "word": "韩美娟赤木刚宪穿婚服合照",
-      "onboard_time": 1755180024,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 276965,
       "num": 276965,
       "word": "白敬亭提名全球流媒体奖最佳男主",
@@ -833,14 +849,6 @@
       "onboard_time": 1755167604,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269576,
-      "num": 269576,
-      "word": "史上第一部没破亿硬发海报的电影",
-      "onboard_time": 1755179663,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 268299,
@@ -1211,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195320,
+      "num": 195320,
+      "word": "胖东来招刑释人员面试题曝光",
+      "onboard_time": 1755183804,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194969,
       "num": 194969,
       "word": "管乐用脚把张小婉举起来",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1755175703,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190745,
+      "num": 190745,
+      "word": "男宝星球2排名",
+      "onboard_time": 1755184463,
+      "rank": 26,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 190586,
@@ -1539,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166058,
+      "num": 166058,
+      "word": "贺鑫隆第九",
+      "onboard_time": 1755184883,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165115,
       "num": 165115,
       "word": "如果四点下班真的太幸福了",
@@ -1555,12 +1587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163300,
+      "num": 163300,
+      "word": "WB战胜AG",
+      "onboard_time": 1755183804,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162742,
       "num": 162742,
       "word": "赵立坚发了邓为",
       "onboard_time": 1755143483,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162718,
+      "num": 238109,
+      "word": "领导手拿表格公共场合考核环卫工",
+      "onboard_time": 1755183685,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162282,
@@ -1707,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154547,
+      "num": 154547,
+      "word": "生万物热度破9000了",
+      "onboard_time": 1755184344,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153641,
       "num": 153641,
       "word": "每年近300万印度人进入加拿大",
@@ -1763,6 +1819,22 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 149264,
+      "num": 149264,
+      "word": "蓝盈莹倪大红新剧对呸",
+      "onboard_time": 1755184463,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148706,
+      "num": 148706,
+      "word": "肖战有口皆碑",
+      "onboard_time": 1755184043,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148080,
       "num": 148080,
       "word": "月亮",
@@ -1793,6 +1865,14 @@
       "onboard_time": 1755170361,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 145721,
+      "num": 145721,
+      "word": "嫡谋",
+      "onboard_time": 1755184826,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 144982,
@@ -1969,6 +2049,14 @@
       "onboard_time": 1755135680,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132249,
+      "num": 132249,
+      "word": "绣绣娘去世",
+      "onboard_time": 1755183744,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 131645,
@@ -2267,6 +2355,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120466,
+      "num": 120466,
+      "word": "长白山导游科普张起灵",
+      "onboard_time": 1755182724,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 119915,
+      "num": 113326,
+      "word": "像紫蔷薇盛开的虞书欣",
+      "onboard_time": 1755184403,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119562,
       "num": 119562,
       "word": "吃饭时不要和戴牙套的人交流",
@@ -2371,6 +2475,14 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 115172,
+      "num": 115172,
+      "word": "一诺伽罗水晶团四杀",
+      "onboard_time": 1755184103,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115021,
       "num": 115021,
       "word": "女子伤口似发霉听网友劝连夜就医",
@@ -2409,14 +2521,6 @@
       "onboard_time": 1755157283,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 112142,
-      "num": 112142,
-      "word": "长白山导游科普张起灵",
-      "onboard_time": 1755182724,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 111660,
@@ -2561,6 +2665,14 @@
       "onboard_time": 1755099862,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106534,
+      "num": 106534,
+      "word": "iPhone17发布会邀请函曝光",
+      "onboard_time": 1755183083,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 106282,
@@ -2851,6 +2963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94635,
+      "num": 204965,
+      "word": "赴美前夕普京发声",
+      "onboard_time": 1755179063,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93907,
       "num": 93907,
       "word": "卫健局回应酒店残留用过的安全套",
@@ -2979,14 +3099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83858,
-      "num": 204965,
-      "word": "赴美前夕普京发声",
-      "onboard_time": 1755179063,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 83102,
       "num": 83102,
       "word": "美联储9月或降息50个基点",
@@ -3015,6 +3127,14 @@
       "num": 177741,
       "word": "高圆圆吧唧就给了闺蜜一口",
       "onboard_time": 1755148943,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80255,
+      "num": 167741,
+      "word": "黄雅莉好真诚的分享欲",
+      "onboard_time": 1755182844,
       "rank": 29,
       "category": "艺人"
     },
@@ -3259,6 +3379,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 50505,
+      "num": 120507,
+      "word": "多所高校明确不非升即走",
+      "onboard_time": 1755183685,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50183,
       "num": 757021,
       "word": "电商助农福建在行动",
@@ -3355,6 +3483,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38952,
+      "num": 132999,
+      "word": "余鹏翔承认国务院参事身份造假",
+      "onboard_time": 1755185003,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38209,
+      "num": 132551,
+      "word": "原北京军区司令员李新良逝世",
+      "onboard_time": 1755185305,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37902,
       "num": 188838,
       "word": "声乐高手在郑州唱响黄河",
@@ -3433,6 +3577,14 @@
       "onboard_time": 1755123976,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 31264,
+      "num": 731428,
+      "word": "2025世界人形机器人运动会",
+      "onboard_time": 1755174202,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31098,
@@ -3556,6 +3708,9 @@
     },
     {
       "word": "#绿水青山瞰我家#"
+    },
+    {
+      "word": "#绿水青山可以成为金山银山#"
     }
   ]
 }
