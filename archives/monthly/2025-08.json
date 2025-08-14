@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755167419983,
+  "endTime": 1755168489848,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -729,6 +729,14 @@
       "onboard_time": 1754384963,
       "rank": 1,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 1923008,
+      "num": 1923008,
+      "word": "7k7k 4399",
+      "onboard_time": 1755165862,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1907214,
@@ -2444,7 +2452,7 @@
     },
     {
       "raw_hot": 1032678,
-      "num": 221738,
+      "num": 238351,
       "word": "医生说B罩杯以下可以不穿内衣",
       "onboard_time": 1755147264,
       "rank": 20,
@@ -2505,6 +2513,14 @@
       "onboard_time": 1754986762,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1017340,
+      "num": 1017340,
+      "word": "两只蝴蝶下载2亿多次作者挣了5000",
+      "onboard_time": 1755164060,
+      "rank": 25,
+      "category": "音乐,民生新闻"
     },
     {
       "raw_hot": 1016515,
@@ -2737,14 +2753,6 @@
       "onboard_time": 1754387664,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 972746,
-      "num": 972746,
-      "word": "两只蝴蝶下载2亿多次作者挣了5000",
-      "onboard_time": 1755164060,
-      "rank": 25,
-      "category": "音乐,民生新闻"
     },
     {
       "raw_hot": 970993,
@@ -3169,14 +3177,6 @@
       "onboard_time": 1754794821,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 877463,
-      "num": 877463,
-      "word": "7k7k 4399",
-      "onboard_time": 1755165862,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 875304,
@@ -9387,6 +9387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366043,
+      "num": 366043,
+      "word": "成毅法修散打cha",
+      "onboard_time": 1755165204,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 365948,
       "num": 210390,
       "word": "单依纯哭了",
@@ -9827,6 +9835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346400,
+      "num": 285064,
+      "word": "马思纯解释不当导游的原因",
+      "onboard_time": 1755164601,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346373,
       "num": 346373,
       "word": "日本一女子36岁成外婆",
@@ -10121,14 +10137,6 @@
       "onboard_time": 1754269521,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333168,
-      "num": 333168,
-      "word": "成毅法修散打cha",
-      "onboard_time": 1755165204,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 332646,
@@ -11273,6 +11281,14 @@
       "onboard_time": 1754354903,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 295382,
+      "num": 295382,
+      "word": "四六级",
+      "onboard_time": 1755166943,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 295322,
@@ -12443,6 +12459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261763,
+      "num": 261763,
+      "word": "管乐帮董璇带娃",
+      "onboard_time": 1755164783,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261589,
       "num": 261589,
       "word": "李乃文的第一批受害人出现了",
@@ -12537,14 +12561,6 @@
       "onboard_time": 1754744422,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 260503,
-      "num": 260503,
-      "word": "管乐帮董璇带娃",
-      "onboard_time": 1755164783,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 260216,
@@ -13795,6 +13811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232739,
+      "num": 232739,
+      "word": "郭德纲说已经卑微到看郭麒麟脸色",
+      "onboard_time": 1755166881,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232582,
       "num": 232582,
       "word": "女子出差遭老板性侵获赔110万",
@@ -14081,6 +14105,14 @@
       "onboard_time": 1754051542,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228143,
+      "num": 285612,
+      "word": "追授尹春燕北京市优秀共产党员",
+      "onboard_time": 1755167604,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228084,
@@ -15467,6 +15499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209698,
+      "num": 209698,
+      "word": "王青这谁看了受得了",
+      "onboard_time": 1755167363,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209663,
       "num": 282494,
       "word": "陈奕迅说我不缺钱",
@@ -15721,14 +15761,6 @@
       "onboard_time": 1754278403,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207759,
-      "num": 207759,
-      "word": "马思纯解释不当导游的原因",
-      "onboard_time": 1755164601,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 207692,
@@ -16153,6 +16185,14 @@
       "onboard_time": 1754887944,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204221,
+      "num": 204221,
+      "word": "周翊然官宣首登音乐节",
+      "onboard_time": 1755167904,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 204065,
@@ -18067,6 +18107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192241,
+      "num": 192241,
+      "word": "孙颖莎吃玉米笑的好甜",
+      "onboard_time": 1755166162,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192214,
       "num": 192214,
       "word": "好消息是crush坏消息他禁欲",
@@ -19379,6 +19427,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 182689,
+      "num": 182689,
+      "word": "杨幂说会为女儿成为更好的人",
+      "onboard_time": 1755168143,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182615,
       "num": 182615,
       "word": "王安宇的粉丝真的吃得很好",
@@ -19555,14 +19611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181344,
-      "num": 181344,
-      "word": "孙颖莎吃玉米笑的好甜",
-      "onboard_time": 1755166162,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181249,
       "num": 181249,
       "word": "李诞欣赏周星驰但不想认识他",
@@ -19729,6 +19777,14 @@
       "onboard_time": 1754645243,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180196,
+      "num": 349339,
+      "word": "菲律宾执意侵闯中国黄岩岛附近海域",
+      "onboard_time": 1755165744,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180170,
@@ -20707,14 +20763,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 173063,
-      "num": 173063,
-      "word": "四六级",
-      "onboard_time": 1755166943,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 173015,
       "num": 173015,
       "word": "许昕说陈幸同又不是外协的",
@@ -21019,6 +21067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171332,
+      "num": 134919,
+      "word": "延安果农发声力挺赵露思",
+      "onboard_time": 1755165744,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171311,
       "num": 171311,
       "word": "建议每一位普通人都尽早用上AI",
@@ -21201,6 +21257,14 @@
       "onboard_time": 1754228665,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 170181,
+      "num": 170181,
+      "word": "宋祖儿 大自然体验官",
+      "onboard_time": 1755167724,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 170175,
@@ -21985,14 +22049,6 @@
       "onboard_time": 1754129484,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 165343,
-      "num": 349339,
-      "word": "菲律宾执意侵闯中国黄岩岛附近海域",
-      "onboard_time": 1755165744,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 165170,
@@ -27547,14 +27603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138914,
-      "num": 134919,
-      "word": "延安果农发声力挺赵露思",
-      "onboard_time": 1755165744,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138887,
       "num": 138887,
       "word": "易烊千玺 反PUA进行曲",
@@ -31779,6 +31827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123852,
+      "num": 123852,
+      "word": "张艺凡叫戚薇小戚戚哥哥",
+      "onboard_time": 1755168143,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123817,
       "num": 123817,
       "word": "亮证逼迫让路车主证后身份必须追问",
@@ -34123,14 +34179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115787,
-      "num": 115787,
-      "word": "王青这谁看了受得了",
-      "onboard_time": 1755167363,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115680,
       "num": 142449,
       "word": "以色列女兵自拍时被火箭弹击中",
@@ -35489,6 +35537,14 @@
       "onboard_time": 1754792780,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111099,
+      "num": 111099,
+      "word": "腾讯视频付费会员数增至1.14亿",
+      "onboard_time": 1755164722,
+      "rank": 48,
+      "category": "互联网,剧集"
     },
     {
       "raw_hot": 111075,
@@ -37249,14 +37305,6 @@
       "onboard_time": 1754117602,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103592,
-      "num": 103592,
-      "word": "腾讯视频付费会员数增至1.14亿",
-      "onboard_time": 1755164722,
-      "rank": 48,
-      "category": "互联网,剧集"
     },
     {
       "raw_hot": 103478,
@@ -39451,6 +39499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92644,
+      "num": 151332,
+      "word": "飞机邻座狂改代码的奶奶",
+      "onboard_time": 1755167243,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92638,
       "num": 92638,
       "word": "虞书欣cha了jump",
@@ -39697,6 +39753,14 @@
       "onboard_time": 1754398285,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90638,
+      "num": 131669,
+      "word": "管乐回应董璇",
+      "onboard_time": 1755167062,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 90565,
@@ -41051,6 +41115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78867,
+      "num": 254437,
+      "word": "周立人刻意隐瞒事实延误受害人救治",
+      "onboard_time": 1755167542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78818,
       "num": 78818,
       "word": "馆方回应情侣在少儿阅读区亲热",
@@ -41433,14 +41505,6 @@
       "onboard_time": 1754700560,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 74722,
-      "num": 111047,
-      "word": "管乐回应董璇",
-      "onboard_time": 1755167062,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 74614,
@@ -43107,12 +43171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55717,
-      "num": 118050,
-      "word": "飞机邻座狂改代码的奶奶",
-      "onboard_time": 1755167243,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 55964,
+      "num": 176123,
+      "word": "又一个星二代发歌了",
+      "onboard_time": 1755168262,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 55712,
@@ -43233,14 +43297,6 @@
       "onboard_time": 1754437401,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 54764,
-      "num": 118971,
-      "word": "郭德纲说已经卑微到看郭麒麟脸色",
-      "onboard_time": 1755166881,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 54693,
@@ -43468,7 +43524,7 @@
     },
     {
       "raw_hot": 52645,
-      "num": 207368,
+      "num": 258043,
       "word": "这场世纪同框太难得了",
       "onboard_time": 1755164362,
       "rank": 22,
@@ -45233,6 +45289,14 @@
       "onboard_time": 1754551883,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35541,
+      "num": 190863,
+      "word": "特普会将聚焦停火",
+      "onboard_time": 1755167542,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35377,
@@ -47423,6 +47487,14 @@
       "num": 1159186,
       "word": "运20超燃重装空投画面",
       "onboard_time": 1754278043,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4977,
+      "num": 1088102,
+      "word": "全国医保码用户超12亿",
+      "onboard_time": 1755141202,
       "rank": 2,
       "category": "民生新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755167419983,
+  "endTime": 1755168489848,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -33,6 +33,14 @@
       "onboard_time": 1755154402,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1923008,
+      "num": 1923008,
+      "word": "7k7k 4399",
+      "onboard_time": 1755165862,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1557291,
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 1032678,
-      "num": 221738,
+      "num": 238351,
       "word": "医生说B罩杯以下可以不穿内衣",
       "onboard_time": 1755147264,
       "rank": 20,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 1017340,
+      "num": 1017340,
+      "word": "两只蝴蝶下载2亿多次作者挣了5000",
+      "onboard_time": 1755164060,
+      "rank": 25,
+      "category": "音乐,民生新闻"
     },
     {
       "raw_hot": 1005906,
@@ -121,14 +137,6 @@
       "onboard_time": 1755150443,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 972746,
-      "num": 972746,
-      "word": "两只蝴蝶下载2亿多次作者挣了5000",
-      "onboard_time": 1755164060,
-      "rank": 25,
-      "category": "音乐,民生新闻"
     },
     {
       "raw_hot": 958586,
@@ -153,14 +161,6 @@
       "onboard_time": 1755133522,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 877463,
-      "num": 877463,
-      "word": "7k7k 4399",
-      "onboard_time": 1755165862,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 871288,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366043,
+      "num": 366043,
+      "word": "成毅法修散打cha",
+      "onboard_time": 1755165204,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 348052,
       "num": 415542,
       "word": "教师选调拟录取多名10分以下考生",
@@ -483,20 +491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346400,
+      "num": 285064,
+      "word": "马思纯解释不当导游的原因",
+      "onboard_time": 1755164601,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333855,
       "num": 215868,
       "word": "陶白白自曝收入",
       "onboard_time": 1755083725,
       "rank": 7,
       "category": "网红"
-    },
-    {
-      "raw_hot": 333168,
-      "num": 333168,
-      "word": "成毅法修散打cha",
-      "onboard_time": 1755165204,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 330838,
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295382,
+      "num": 295382,
+      "word": "四六级",
+      "onboard_time": 1755166943,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 292091,
       "num": 292091,
       "word": "终于有不互捅不救三界的仙偶",
@@ -595,8 +611,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260503,
-      "num": 260503,
+      "raw_hot": 261763,
+      "num": 261763,
       "word": "管乐帮董璇带娃",
       "onboard_time": 1755164783,
       "rank": 16,
@@ -675,6 +691,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 232739,
+      "num": 232739,
+      "word": "郭德纲说已经卑微到看郭麒麟脸色",
+      "onboard_time": 1755166881,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231395,
       "num": 231395,
       "word": "利剑玫瑰穿帮镜头",
@@ -688,6 +712,14 @@
       "word": "男子转账3500元备注彩礼要求返还被驳回",
       "onboard_time": 1755087623,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228143,
+      "num": 285612,
+      "word": "追授尹春燕北京市优秀共产党员",
+      "onboard_time": 1755167604,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -747,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209698,
+      "num": 209698,
+      "word": "王青这谁看了受得了",
+      "onboard_time": 1755167363,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209651,
       "num": 209651,
       "word": "高三男生被邻居驾车撞伤一年后身亡",
@@ -763,12 +803,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207759,
-      "num": 207759,
-      "word": "马思纯解释不当导游的原因",
-      "onboard_time": 1755164601,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 206772,
+      "num": 206772,
+      "word": "浪浪山",
+      "onboard_time": 1755167782,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 204739,
@@ -777,6 +817,14 @@
       "onboard_time": 1755133223,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204221,
+      "num": 204221,
+      "word": "周翊然官宣首登音乐节",
+      "onboard_time": 1755167904,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 204050,
@@ -907,6 +955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192241,
+      "num": 192241,
+      "word": "孙颖莎吃玉米笑的好甜",
+      "onboard_time": 1755166162,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192214,
       "num": 192214,
       "word": "好消息是crush坏消息他禁欲",
@@ -971,12 +1027,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181344,
-      "num": 181344,
-      "word": "孙颖莎吃玉米笑的好甜",
-      "onboard_time": 1755166162,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 182689,
+      "num": 182689,
+      "word": "杨幂说会为女儿成为更好的人",
+      "onboard_time": 1755168143,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180196,
+      "num": 349339,
+      "word": "菲律宾执意侵闯中国黄岩岛附近海域",
+      "onboard_time": 1755165744,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180170,
@@ -1027,14 +1091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173063,
-      "num": 173063,
-      "word": "四六级",
-      "onboard_time": 1755166943,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 172887,
       "num": 299091,
       "word": "周立人曾承认投毒但不承认是为杀人",
@@ -1059,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171332,
+      "num": 134919,
+      "word": "延安果农发声力挺赵露思",
+      "onboard_time": 1755165744,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171311,
       "num": 171311,
       "word": "建议每一位普通人都尽早用上AI",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1755153803,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170181,
+      "num": 170181,
+      "word": "宋祖儿 大自然体验官",
+      "onboard_time": 1755167724,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 169874,
@@ -1105,14 +1177,6 @@
       "onboard_time": 1755131002,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165343,
-      "num": 349339,
-      "word": "菲律宾执意侵闯中国黄岩岛附近海域",
-      "onboard_time": 1755165744,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 165115,
@@ -1283,6 +1347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147948,
+      "num": 147948,
+      "word": "锦月如歌",
+      "onboard_time": 1755167782,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146299,
       "num": 146299,
       "word": "山西一景区演员被马拖行",
@@ -1353,14 +1425,6 @@
       "onboard_time": 1755144563,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138914,
-      "num": 134919,
-      "word": "延安果农发声力挺赵露思",
-      "onboard_time": 1755165744,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 136440,
@@ -1555,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123852,
+      "num": 123852,
+      "word": "张艺凡叫戚薇小戚戚哥哥",
+      "onboard_time": 1755168143,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123531,
       "num": 123531,
       "word": "纪委回应网传贪官挖出327枚比特币",
@@ -1699,14 +1771,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 115787,
-      "num": 115787,
-      "word": "王青这谁看了受得了",
-      "onboard_time": 1755167363,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115254,
       "num": 115254,
       "word": "南京震感",
@@ -1777,6 +1841,14 @@
       "onboard_time": 1755141382,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111099,
+      "num": 111099,
+      "word": "腾讯视频付费会员数增至1.14亿",
+      "onboard_time": 1755164722,
+      "rank": 48,
+      "category": "互联网,剧集"
     },
     {
       "raw_hot": 110637,
@@ -1921,14 +1993,6 @@
       "onboard_time": 1755143663,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103592,
-      "num": 103592,
-      "word": "腾讯视频付费会员数增至1.14亿",
-      "onboard_time": 1755164722,
-      "rank": 48,
-      "category": "互联网,剧集"
     },
     {
       "raw_hot": 103478,
@@ -2123,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92644,
+      "num": 151332,
+      "word": "飞机邻座狂改代码的奶奶",
+      "onboard_time": 1755167243,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92364,
       "num": 87967,
       "word": "BLG蜜月期结束了",
@@ -2145,6 +2217,14 @@
       "onboard_time": 1755099026,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90638,
+      "num": 131669,
+      "word": "管乐回应董璇",
+      "onboard_time": 1755167062,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 90281,
@@ -2243,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78867,
+      "num": 254437,
+      "word": "周立人刻意隐瞒事实延误受害人救治",
+      "onboard_time": 1755167542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77739,
       "num": 77739,
       "word": "93岁弟弟看望98岁哥哥这一幕看哭了",
@@ -2273,14 +2361,6 @@
       "onboard_time": 1755149723,
       "rank": 18,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 74722,
-      "num": 111047,
-      "word": "管乐回应董璇",
-      "onboard_time": 1755167062,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 74129,
@@ -2403,12 +2483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55717,
-      "num": 118050,
-      "word": "飞机邻座狂改代码的奶奶",
-      "onboard_time": 1755167243,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 55964,
+      "num": 176123,
+      "word": "又一个星二代发歌了",
+      "onboard_time": 1755168262,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 55047,
@@ -2417,14 +2497,6 @@
       "onboard_time": 1755141863,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54764,
-      "num": 118971,
-      "word": "郭德纲说已经卑微到看郭麒麟脸色",
-      "onboard_time": 1755166881,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 54033,
@@ -2436,7 +2508,7 @@
     },
     {
       "raw_hot": 52645,
-      "num": 207368,
+      "num": 258043,
       "word": "这场世纪同框太难得了",
       "onboard_time": 1755164362,
       "rank": 22,
@@ -2563,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35541,
+      "num": 190863,
+      "word": "特普会将聚焦停火",
+      "onboard_time": 1755167542,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34557,
       "num": 65872,
       "word": "下河电鱼身亡4名同伴赔偿13.5万",
@@ -2673,6 +2753,14 @@
       "onboard_time": 1755119894,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4977,
+      "num": 1088102,
+      "word": "全国医保码用户超12亿",
+      "onboard_time": 1755141202,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
