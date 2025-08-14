@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755150358154,
+  "endTime": 1755153630138,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -16,6 +16,14 @@
       "word": "男子称买避孕药付款失败被撞破出轨",
       "onboard_time": 1755132861,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2058121,
+      "num": 2058121,
+      "word": "女儿调座椅压死儿子家长索赔车企",
+      "onboard_time": 1755151403,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1755142522,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1041219,
+      "num": 1041219,
+      "word": "黄子韬说听泉赏宝掉钱眼里了",
+      "onboard_time": 1755150263,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 979263,
@@ -137,6 +153,14 @@
       "onboard_time": 1755125177,
       "rank": 7,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 738723,
+      "num": 738723,
+      "word": "9.9元咖啡正在杀死独立店",
+      "onboard_time": 1755150443,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 736235,
@@ -235,6 +259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482573,
+      "num": 482573,
+      "word": "P人永远不懂J人的行李箱",
+      "onboard_time": 1755149543,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 464613,
+      "num": 464613,
+      "word": "鹿晗 谁哭下次别来了啊",
+      "onboard_time": 1755148883,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 459252,
       "num": 228681,
       "word": "杨幂演技",
@@ -273,14 +313,6 @@
       "onboard_time": 1755110235,
       "rank": 4,
       "category": "电竞,游戏"
-    },
-    {
-      "raw_hot": 387374,
-      "num": 387374,
-      "word": "鹿晗 谁哭下次别来了啊",
-      "onboard_time": 1755148883,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 370719,
@@ -339,20 +371,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 311920,
-      "num": 311920,
-      "word": "P人永远不懂J人的行李箱",
-      "onboard_time": 1755149543,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 306210,
       "num": 278053,
       "word": "杨幂秦海璐你俩根本没喝中药",
       "onboard_time": 1755144743,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302056,
+      "num": 302056,
+      "word": "花儿与少年",
+      "onboard_time": 1755151043,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 292091,
@@ -459,14 +491,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 221122,
-      "num": 221122,
-      "word": "黄子韬说听泉赏宝掉钱眼里了",
-      "onboard_time": 1755150263,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220921,
       "num": 882737,
       "word": "台风杨柳在福建沿海登陆",
@@ -481,6 +505,14 @@
       "onboard_time": 1755144022,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 215542,
+      "num": 215542,
+      "word": "杨幂把生活物资留给焦俊艳",
+      "onboard_time": 1755152543,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 214438,
@@ -603,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195199,
+      "num": 195199,
+      "word": "黄景瑜新签的艺人包洪瑜",
+      "onboard_time": 1755153322,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194234,
       "num": 194234,
       "word": "账号自称军嫂暴露敏感信息被处置",
@@ -651,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187352,
+      "num": 187352,
+      "word": "连亏15年的博主称快回本了",
+      "onboard_time": 1755153142,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185459,
       "num": 185459,
       "word": "许凯被田曦薇调成啥样了",
@@ -691,12 +739,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176515,
+      "num": 174645,
+      "word": "管乐用脚把张小婉举起来",
+      "onboard_time": 1755152843,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175206,
+      "num": 216080,
+      "word": "杨柳来了深圳红暴了",
+      "onboard_time": 1755149483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171990,
       "num": 171990,
       "word": "印度聋哑女孩距警察20米处遭轮奸",
       "onboard_time": 1755080423,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171311,
+      "num": 171311,
+      "word": "建议每一位普通人都尽早用上AI",
+      "onboard_time": 1755153142,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 169874,
@@ -763,6 +835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159924,
+      "num": 159924,
+      "word": "长期焦虑 身体炎症",
+      "onboard_time": 1755153023,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 159151,
       "num": 159151,
       "word": "华裔女生参加毕业典礼被印度人包围了",
@@ -777,6 +857,14 @@
       "onboard_time": 1755149303,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158701,
+      "num": 158701,
+      "word": "小栗旬韩孝周新剧",
+      "onboard_time": 1755150802,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 155588,
@@ -827,12 +915,28 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 148616,
+      "num": 162050,
+      "word": "NewJeans成员出庭",
+      "onboard_time": 1755153204,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148080,
       "num": 148080,
       "word": "月亮",
       "onboard_time": 1755094464,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146299,
+      "num": 146299,
+      "word": "山西一景区演员被马拖行",
+      "onboard_time": 1755151463,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144637,
@@ -865,6 +969,14 @@
       "onboard_time": 1755144563,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138358,
+      "num": 138358,
+      "word": "26岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755153383,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135826,
@@ -955,6 +1067,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126871,
+      "num": 126871,
+      "word": "公司开除了所有抽烟的员工",
+      "onboard_time": 1755150142,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 125424,
+      "num": 125424,
+      "word": "樊振东德甲首战",
+      "onboard_time": 1755152723,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125121,
       "num": 125121,
       "word": "台风",
@@ -987,6 +1115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122994,
+      "num": 122994,
+      "word": "文华奖公示拟进入终评提名名单",
+      "onboard_time": 1755153562,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 122607,
+      "num": 122607,
+      "word": "微信聊天可引用部分文字了",
+      "onboard_time": 1755153322,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122549,
       "num": 122549,
       "word": "艾滋甲乙丙肝一张身份证可全国追查",
@@ -1003,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121630,
+      "num": 121630,
+      "word": "腾讯游戏一分钟赚45万",
+      "onboard_time": 1755151763,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121568,
       "num": 121568,
       "word": "大理失踪男童遗体在山涧里被发现",
       "onboard_time": 1755098064,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119562,
+      "num": 119562,
+      "word": "吃饭时不要和戴牙套的人交流",
+      "onboard_time": 1755152122,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 118796,
@@ -1043,12 +1203,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115889,
-      "num": 115889,
-      "word": "公司开除了所有抽烟的员工",
-      "onboard_time": 1755150142,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 116267,
+      "num": 170134,
+      "word": "吉利汽车上半年营收首破1500亿",
+      "onboard_time": 1755151463,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 115254,
@@ -1065,6 +1225,14 @@
       "onboard_time": 1755130521,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114551,
+      "num": 188932,
+      "word": "iPhone长按的隐藏功能",
+      "onboard_time": 1755153082,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 111660,
@@ -1475,6 +1643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73203,
+      "num": 376249,
+      "word": "日本警方回应中国游客被列车撞击身亡",
+      "onboard_time": 1755150202,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73078,
       "num": 73078,
       "word": "朝鲜82岁播音员李春姬再当班",
@@ -1523,14 +1699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58297,
-      "num": 108166,
-      "word": "日本警方回应中国游客被列车撞击身亡",
-      "onboard_time": 1755150202,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 58204,
       "num": 65948,
       "word": "Ailee与崔时勋婚前同居一年",
@@ -1568,14 +1736,6 @@
       "word": "6000多买的遮阳帽起泡不予维修",
       "onboard_time": 1755141741,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44933,
-      "num": 216080,
-      "word": "杨柳来了深圳红暴了",
-      "onboard_time": 1755149483,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1667,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21578,
+      "num": 127819,
+      "word": "那英左右脑互搏",
+      "onboard_time": 1755152962,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18872,
       "num": 58791,
       "word": "房东抄电表时救下突发脑梗租客",
@@ -1697,6 +1865,14 @@
       "onboard_time": 1755119894,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9151,
+      "num": 127949,
+      "word": "进城帮子女带娃的老漂族",
+      "onboard_time": 1755153204,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

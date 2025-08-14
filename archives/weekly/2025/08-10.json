@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755150358154,
+  "endTime": 1755153630138,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -160,6 +160,14 @@
       "word": "33岁女老师二胎难产去世",
       "onboard_time": 1754973864,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2058121,
+      "num": 2058121,
+      "word": "女儿调座椅压死儿子家长索赔车企",
+      "onboard_time": 1755151403,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -779,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1041219,
+      "num": 1041219,
+      "word": "黄子韬说听泉赏宝掉钱眼里了",
+      "onboard_time": 1755150263,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1027406,
       "num": 1027406,
       "word": "金饰克价已跌到千元以内",
@@ -1280,6 +1296,14 @@
       "word": "百果园价格",
       "onboard_time": 1754801061,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 738723,
+      "num": 738723,
+      "word": "9.9元咖啡正在杀死独立店",
+      "onboard_time": 1755150443,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -2219,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482573,
+      "num": 482573,
+      "word": "P人永远不懂J人的行李箱",
+      "onboard_time": 1755149543,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 481813,
       "num": 481813,
       "word": "警方通报女子带娃遛弯遭多人打配合偷走手机",
@@ -2353,6 +2385,14 @@
       "onboard_time": 1754889203,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 464613,
+      "num": 464613,
+      "word": "鹿晗 谁哭下次别来了啊",
+      "onboard_time": 1755148883,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 463505,
@@ -2849,14 +2889,6 @@
       "onboard_time": 1755060084,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 387374,
-      "num": 387374,
-      "word": "鹿晗 谁哭下次别来了啊",
-      "onboard_time": 1755148883,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 387320,
@@ -3395,14 +3427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311920,
-      "num": 311920,
-      "word": "P人永远不懂J人的行李箱",
-      "onboard_time": 1755149543,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 310587,
       "num": 310587,
       "word": "顾客自带8200元茅台被餐厅调包",
@@ -3537,6 +3561,14 @@
       "onboard_time": 1755061103,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 302056,
+      "num": 302056,
+      "word": "花儿与少年",
+      "onboard_time": 1755151043,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 302001,
@@ -4619,14 +4651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221122,
-      "num": 221122,
-      "word": "黄子韬说听泉赏宝掉钱眼里了",
-      "onboard_time": 1755150263,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220921,
       "num": 882737,
       "word": "台风杨柳在福建沿海登陆",
@@ -4753,6 +4777,14 @@
       "onboard_time": 1754978902,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 215542,
+      "num": 215542,
+      "word": "杨幂把生活物资留给焦俊艳",
+      "onboard_time": 1755152543,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 214758,
@@ -5587,6 +5619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195199,
+      "num": 195199,
+      "word": "黄景瑜新签的艺人包洪瑜",
+      "onboard_time": 1755153322,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195133,
       "num": 195133,
       "word": "陈浚铭被闭麦",
@@ -6024,6 +6064,14 @@
       "word": "百果园",
       "onboard_time": 1754802680,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187352,
+      "num": 187352,
+      "word": "连亏15年的博主称快回本了",
+      "onboard_time": 1755153142,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -6515,6 +6563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176515,
+      "num": 174645,
+      "word": "管乐用脚把张小婉举起来",
+      "onboard_time": 1755152843,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176242,
       "num": 753494,
       "word": "女子把袋装饺子倒进塑料袋按散装称",
@@ -6569,6 +6625,14 @@
       "onboard_time": 1754796620,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175206,
+      "num": 216080,
+      "word": "杨柳来了深圳红暴了",
+      "onboard_time": 1755149483,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174907,
@@ -6753,6 +6817,14 @@
       "onboard_time": 1755005485,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171311,
+      "num": 171311,
+      "word": "建议每一位普通人都尽早用上AI",
+      "onboard_time": 1755153142,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 171247,
@@ -7347,6 +7419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159924,
+      "num": 159924,
+      "word": "长期焦虑 身体炎症",
+      "onboard_time": 1755153023,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 159820,
       "num": 159820,
       "word": "日本麦当劳店员让老人滚出去",
@@ -7433,6 +7513,14 @@
       "onboard_time": 1754897663,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158701,
+      "num": 158701,
+      "word": "小栗旬韩孝周新剧",
+      "onboard_time": 1755150802,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 158654,
@@ -8035,6 +8123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148616,
+      "num": 162050,
+      "word": "NewJeans成员出庭",
+      "onboard_time": 1755153204,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148533,
       "num": 148897,
       "word": "中国救人者和英国被救者后代拥抱",
@@ -8241,6 +8337,14 @@
       "onboard_time": 1755078263,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146299,
+      "num": 146299,
+      "word": "山西一景区演员被马拖行",
+      "onboard_time": 1755151463,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146216,
@@ -8825,6 +8929,14 @@
       "onboard_time": 1754913683,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 138358,
+      "num": 138358,
+      "word": "26岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755153383,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138314,
@@ -9971,6 +10083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126871,
+      "num": 126871,
+      "word": "公司开除了所有抽烟的员工",
+      "onboard_time": 1755150142,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126824,
       "num": 126824,
       "word": "乔治娜好大的钻戒",
@@ -10113,6 +10233,14 @@
       "onboard_time": 1754908341,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125424,
+      "num": 125424,
+      "word": "樊振东德甲首战",
+      "onboard_time": 1755152723,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 125190,
@@ -10315,6 +10443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122994,
+      "num": 122994,
+      "word": "文华奖公示拟进入终评提名名单",
+      "onboard_time": 1755153562,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 122824,
       "num": 122824,
       "word": "QQ音乐扑淘商城 秒删",
@@ -10337,6 +10473,14 @@
       "onboard_time": 1754909303,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122607,
+      "num": 122607,
+      "word": "微信聊天可引用部分文字了",
+      "onboard_time": 1755153322,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 122407,
@@ -10369,6 +10513,14 @@
       "onboard_time": 1755073523,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121630,
+      "num": 121630,
+      "word": "腾讯游戏一分钟赚45万",
+      "onboard_time": 1755151763,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 121579,
@@ -10577,6 +10729,14 @@
       "onboard_time": 1754810601,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119562,
+      "num": 119562,
+      "word": "吃饭时不要和戴牙套的人交流",
+      "onboard_time": 1755152122,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 119471,
@@ -10923,6 +11083,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 116267,
+      "num": 170134,
+      "word": "吉利汽车上半年营收首破1500亿",
+      "onboard_time": 1755151463,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116059,
       "num": 125512,
       "word": "日本男女杀室友后与尸体同住一年多",
@@ -10945,14 +11113,6 @@
       "onboard_time": 1754802923,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115889,
-      "num": 115889,
-      "word": "公司开除了所有抽烟的员工",
-      "onboard_time": 1755150142,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 115792,
@@ -11081,6 +11241,14 @@
       "onboard_time": 1754838264,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114551,
+      "num": 188932,
+      "word": "iPhone长按的隐藏功能",
+      "onboard_time": 1755153082,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 114395,
@@ -13779,6 +13947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73203,
+      "num": 376249,
+      "word": "日本警方回应中国游客被列车撞击身亡",
+      "onboard_time": 1755150202,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 72963,
       "num": 166362,
       "word": "提名内娱人品比较好的明星",
@@ -14129,14 +14305,6 @@
       "onboard_time": 1755072143,
       "rank": 49,
       "category": "民生新闻,母婴育儿"
-    },
-    {
-      "raw_hot": 58297,
-      "num": 108166,
-      "word": "日本警方回应中国游客被列车撞击身亡",
-      "onboard_time": 1755150202,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 58204,
@@ -14552,14 +14720,6 @@
       "word": "女子回应进店避雨顺手刮中100万",
       "onboard_time": 1754909121,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44933,
-      "num": 216080,
-      "word": "杨柳来了深圳红暴了",
-      "onboard_time": 1755149483,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -15395,6 +15555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21578,
+      "num": 127819,
+      "word": "那英左右脑互搏",
+      "onboard_time": 1755152962,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21113,
       "num": 21113,
       "word": "王楚钦祝贺张本智和",
@@ -15673,6 +15841,14 @@
       "onboard_time": 1754995524,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 9151,
+      "num": 127949,
+      "word": "进城帮子女带娃的老漂族",
+      "onboard_time": 1755153204,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6596,
