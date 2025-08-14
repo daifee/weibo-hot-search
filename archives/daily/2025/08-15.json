@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755213941912,
+  "endTime": 1755214819045,
   "band_list": [
     {
       "raw_hot": 1251394,
@@ -8,6 +8,14 @@
       "word": "社保断缴一次这些待遇全部取消",
       "onboard_time": 1755181285,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 705951,
+      "num": 251385,
+      "word": "女儿压死儿子事件第一责任在父母",
+      "onboard_time": 1755210134,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -19,6 +27,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 581768,
+      "num": 581768,
+      "word": "中纪委明确公职人员禁止6类副业",
+      "onboard_time": 1755183564,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573262,
       "num": 254585,
       "word": "杨超越才发现照片里的虫子",
@@ -27,19 +43,35 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 534053,
-      "num": 534053,
-      "word": "中纪委明确公职人员禁止6类副业",
-      "onboard_time": 1755183564,
+      "raw_hot": 548986,
+      "num": 251234,
+      "word": "女儿调座椅压死儿子家长岂能甩锅",
+      "onboard_time": 1755175943,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 488921,
+      "num": 488921,
+      "word": "女子带5孩续面老板不同意和解",
+      "onboard_time": 1755214099,
       "rank": 3,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 530364,
-      "num": 204376,
-      "word": "女儿调座椅压死儿子家长岂能甩锅",
-      "onboard_time": 1755175943,
-      "rank": 17,
+      "raw_hot": 461819,
+      "num": 461819,
+      "word": "日本战败投降80周年",
+      "onboard_time": 1755212717,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 439126,
+      "num": 439126,
+      "word": "高铁去泡面化",
+      "onboard_time": 1755214219,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -59,20 +91,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 389135,
-      "num": 193694,
-      "word": "女儿压死儿子事件第一责任在父母",
-      "onboard_time": 1755210134,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369876,
       "num": 369876,
       "word": "店家回应3女子带4孩多次续面",
       "onboard_time": 1755187103,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352198,
+      "num": 245598,
+      "word": "果然老破小住久了副作用就来了",
+      "onboard_time": 1755214219,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 347399,
@@ -83,8 +115,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 337283,
-      "num": 191265,
+      "raw_hot": 337337,
+      "num": 241894,
       "word": "黄一鸣回应怀孕时没公布",
       "onboard_time": 1755198854,
       "rank": 30,
@@ -115,12 +147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287878,
-      "num": 287878,
-      "word": "日本战败投降80周年",
-      "onboard_time": 1755212717,
-      "rank": 4,
-      "category": "国内时政"
+      "raw_hot": 298898,
+      "num": 225105,
+      "word": "于正证实赵嘉敏被换角",
+      "onboard_time": 1755214159,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 266340,
@@ -187,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182130,
+      "num": 182130,
+      "word": "4种早餐被列入高脂名单",
+      "onboard_time": 1755178704,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 180453,
       "num": 180453,
       "word": "有人为领生育补贴迁户至湖北天门",
@@ -211,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164903,
-      "num": 164903,
-      "word": "4种早餐被列入高脂名单",
-      "onboard_time": 1755178704,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 158473,
       "num": 158473,
       "word": "郭德纲说已经卑微到看郭麒麟脸色",
@@ -239,6 +271,14 @@
       "num": 152907,
       "word": "金银错",
       "onboard_time": 1755186082,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138168,
+      "num": 138168,
+      "word": "李昀锐王楚然 金银错",
+      "onboard_time": 1755214039,
       "rank": 24,
       "category": "剧集"
     },
@@ -273,6 +313,14 @@
       "onboard_time": 1755184826,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124953,
+      "num": 124953,
+      "word": "2岁半就没有穿衣自由了",
+      "onboard_time": 1755214579,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 112261,
@@ -315,12 +363,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 102926,
+      "num": 195320,
+      "word": "Milkyway报警",
+      "onboard_time": 1755213799,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101700,
       "num": 101700,
       "word": "刘忻这个视频的退出键在哪里",
       "onboard_time": 1755187882,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94998,
+      "num": 94998,
+      "word": "男子杀害祖孙3人被鉴定为精神分裂",
+      "onboard_time": 1755202215,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94557,
@@ -347,12 +411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90199,
+      "num": 90199,
+      "word": "上千艳照寄给公职人员5人被判刑",
+      "onboard_time": 1755203174,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88505,
       "num": 88505,
       "word": "钱学森力学手稿",
       "onboard_time": 1755187042,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 85488,
+      "num": 85488,
+      "word": "原来歌曲恭喜恭喜是庆祝抗战胜利",
+      "onboard_time": 1755194357,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85297,
@@ -371,20 +451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 79870,
-      "num": 79870,
-      "word": "男子杀害祖孙3人被鉴定为精神分裂",
-      "onboard_time": 1755202215,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78919,
-      "num": 97601,
-      "word": "Milkyway报警",
-      "onboard_time": 1755213799,
-      "rank": 19,
-      "category": "电竞"
+      "raw_hot": 80894,
+      "num": 80894,
+      "word": "张新成和陈星旭当年的北舞双子星",
+      "onboard_time": 1755214159,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 78879,
@@ -401,14 +473,6 @@
       "onboard_time": 1755171503,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 75465,
-      "num": 75465,
-      "word": "上千艳照寄给公职人员5人被判刑",
-      "onboard_time": 1755203174,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74178,
@@ -433,6 +497,14 @@
       "onboard_time": 1755186382,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72712,
+      "num": 72712,
+      "word": "80年前庆祝抗战胜利的画面",
+      "onboard_time": 1755214699,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72634,
@@ -467,6 +539,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 68352,
+      "num": 68352,
+      "word": "杨幂焦俊艳大学同学",
+      "onboard_time": 1755214279,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65926,
+      "num": 251472,
+      "word": "12306回应高铁站停售传统泡面",
+      "onboard_time": 1755214219,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61860,
       "num": 83525,
       "word": "WB战胜AG",
@@ -483,12 +571,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58550,
-      "num": 58550,
-      "word": "原来歌曲恭喜恭喜是庆祝抗战胜利",
-      "onboard_time": 1755194357,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 59992,
+      "num": 59992,
+      "word": "爸妈感受到灵珠和魔丸的区别了",
+      "onboard_time": 1755214579,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 55872,
+      "num": 55872,
+      "word": "请记住杭州地铁6号受降站的由来",
+      "onboard_time": 1755193277,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52056,
+      "num": 52056,
+      "word": "河南 基孔肯雅热传播风险区",
+      "onboard_time": 1755191957,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51304,
@@ -497,22 +601,6 @@
       "onboard_time": 1755197835,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50897,
-      "num": 51378,
-      "word": "河南 基孔肯雅热传播风险区",
-      "onboard_time": 1755191957,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49640,
-      "num": 49640,
-      "word": "请记住杭州地铁6号受降站的由来",
-      "onboard_time": 1755193277,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48797,
@@ -528,6 +616,14 @@
       "word": "笔试1分也能当初中老师是糊弄谁",
       "onboard_time": 1755199334,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46172,
+      "num": 532069,
+      "word": "2025世界人形机器人运动会",
+      "onboard_time": 1755174202,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -553,14 +649,6 @@
       "onboard_time": 1755182724,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42150,
-      "num": 405293,
-      "word": "2025世界人形机器人运动会",
-      "onboard_time": 1755174202,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41407,
