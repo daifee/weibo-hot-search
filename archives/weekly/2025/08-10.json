@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755179607347,
+  "endTime": 1755181638911,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -507,6 +507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1326480,
+      "num": 339799,
+      "word": "女儿调座椅压死儿子家长岂能甩锅",
+      "onboard_time": 1755175943,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1324291,
       "num": 1324291,
       "word": "吃鸡蛋事件 剧本",
@@ -553,6 +561,14 @@
       "onboard_time": 1754971762,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1277614,
+      "num": 1277614,
+      "word": "封大脚 梁宽植",
+      "onboard_time": 1755177264,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1276274,
@@ -1003,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 936357,
-      "num": 936357,
-      "word": "封大脚 梁宽植",
-      "onboard_time": 1755177264,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 932202,
       "num": 1149152,
       "word": "幂姐回宫",
@@ -1176,6 +1184,14 @@
       "word": "女子带四个娃坐高铁被要求补3张票",
       "onboard_time": 1754983342,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 836671,
+      "num": 836671,
+      "word": "公职人员禁止干6类副业",
+      "onboard_time": 1755180864,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2217,6 +2233,14 @@
       "onboard_time": 1755051381,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525745,
+      "num": 525745,
+      "word": "生万物 纯爱番",
+      "onboard_time": 1755179006,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 524791,
@@ -3595,6 +3619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 325984,
+      "num": 325984,
+      "word": "社保断缴一次这些待遇全部取消",
+      "onboard_time": 1755181285,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325475,
       "num": 325475,
       "word": "当地回应景区行凶嫌犯有精神疾病史",
@@ -3651,6 +3683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 320370,
+      "num": 280315,
+      "word": "4种早餐被列入高脂名单",
+      "onboard_time": 1755178704,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 319614,
       "num": 319614,
       "word": "12306回应女子带4娃坐高铁拒绝补票",
@@ -3673,14 +3713,6 @@
       "onboard_time": 1755053663,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 317962,
-      "num": 317962,
-      "word": "女儿调座椅压死儿子家长岂能甩锅",
-      "onboard_time": 1755175943,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316384,
@@ -4003,6 +4035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 289598,
+      "num": 289598,
+      "word": "iPhone17Pro四大升级",
+      "onboard_time": 1755175646,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 288819,
       "num": 288819,
       "word": "19岁女生被刺死亲属几天都睡不着觉",
@@ -4233,14 +4273,6 @@
       "onboard_time": 1755167604,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271700,
-      "num": 271700,
-      "word": "生万物 纯爱番",
-      "onboard_time": 1755179006,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 271391,
@@ -4515,6 +4547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250934,
+      "num": 250934,
+      "word": "韩美娟赤木刚宪穿婚服合照",
+      "onboard_time": 1755180024,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 250244,
       "num": 250244,
       "word": "16岁男生遭多人欺辱殴打被逼学狗叫",
@@ -4561,14 +4601,6 @@
       "onboard_time": 1754987723,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 247588,
-      "num": 247588,
-      "word": "4种早餐被列入高脂名单",
-      "onboard_time": 1755178704,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 247122,
@@ -4675,14 +4707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241715,
-      "num": 241715,
-      "word": "iPhone17Pro四大升级",
-      "onboard_time": 1755175646,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 241482,
       "num": 241482,
       "word": "分手尽量安排在周末",
@@ -4729,6 +4753,14 @@
       "onboard_time": 1754801241,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 237608,
+      "num": 237608,
+      "word": "史上第一部没破亿硬发海报的电影",
+      "onboard_time": 1755179663,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 237605,
@@ -5163,6 +5195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217758,
+      "num": 217758,
+      "word": "鞠婧祎 奇遇值前十唯一女艺人",
+      "onboard_time": 1755181104,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217160,
       "num": 217160,
       "word": "英伟达同意向美国政府上贡15%收入",
@@ -5585,6 +5625,14 @@
       "onboard_time": 1754830342,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203192,
+      "num": 203192,
+      "word": "张智霖被袁咏仪忽悠来的披哥",
+      "onboard_time": 1755181285,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 203170,
@@ -6161,6 +6209,14 @@
       "onboard_time": 1754829922,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194472,
+      "num": 194472,
+      "word": "刘宇宁和女明星呆米同行的第5年",
+      "onboard_time": 1755181345,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 194397,
@@ -7033,6 +7089,14 @@
       "onboard_time": 1755084324,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178414,
+      "num": 178414,
+      "word": "张若昀大张伟胡先煦一起过生日",
+      "onboard_time": 1755181405,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 178298,
@@ -8403,6 +8467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155675,
+      "num": 213415,
+      "word": "刘学义这瓜过不去了",
+      "onboard_time": 1755179305,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155588,
       "num": 155588,
       "word": "父母不让远嫁的12年婚姻生活",
@@ -8561,6 +8633,14 @@
       "onboard_time": 1755156563,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153257,
+      "num": 153257,
+      "word": "谁懂王一博这鞠躬的含金量",
+      "onboard_time": 1755181524,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 153073,
@@ -9329,14 +9409,6 @@
       "onboard_time": 1754823622,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142542,
-      "num": 213415,
-      "word": "刘学义这瓜过不去了",
-      "onboard_time": 1755179305,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 142514,
@@ -10507,6 +10579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131213,
+      "num": 131213,
+      "word": "生万物八集办了八件人生大事",
+      "onboard_time": 1755179484,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131193,
       "num": 131193,
       "word": "王楚钦超级神仙球来了",
@@ -10537,6 +10617,14 @@
       "onboard_time": 1755175405,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130777,
+      "num": 130777,
+      "word": "这种防晒霜根本不防晒",
+      "onboard_time": 1755181285,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 130737,
@@ -11419,6 +11507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 121909,
+      "num": 121909,
+      "word": "天才女友 合诗雨",
+      "onboard_time": 1755181524,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121796,
       "num": 155124,
       "word": "笔试1分当初中老师简直误人子弟",
@@ -11921,14 +12017,6 @@
       "onboard_time": 1755090503,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117803,
-      "num": 117803,
-      "word": "生万物八集办了八件人生大事",
-      "onboard_time": 1755179484,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 117783,
@@ -13545,6 +13633,14 @@
       "onboard_time": 1755170422,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104808,
+      "num": 104808,
+      "word": "苏芒为法国婆家做中餐",
+      "onboard_time": 1755180923,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 104798,
@@ -16171,6 +16267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43384,
+      "num": 129491,
+      "word": "因背调打过官司被不予录用",
+      "onboard_time": 1755180565,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43158,
       "num": 344538,
       "word": "华莱士魔道祖师动画联名抬上来了",
@@ -16272,6 +16376,14 @@
       "word": "敲墙工人进错房门砸错墙",
       "onboard_time": 1754885723,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40191,
+      "num": 129415,
+      "word": "游客认为曹操有头痛带布洛芬祭奠",
+      "onboard_time": 1755180565,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
