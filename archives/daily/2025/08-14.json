@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755176191846,
+  "endTime": 1755177138238,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -9,6 +9,14 @@
       "onboard_time": 1755097165,
       "rank": 0,
       "category": "艺人,舆论监督"
+    },
+    {
+      "raw_hot": 2523362,
+      "num": 378570,
+      "word": "邱泽许玮甯宝宝出生",
+      "onboard_time": 1755175463,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2423723,
@@ -99,14 +107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1057376,
-      "num": 351802,
-      "word": "邱泽许玮甯宝宝出生",
-      "onboard_time": 1755175463,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1056276,
       "num": 1137272,
       "word": "顾客误将日料套餐当自助餐消费4302元",
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 891432,
-      "num": 653454,
+      "num": 665183,
       "word": "郭德纲说已经卑微到看郭麒麟脸色",
       "onboard_time": 1755166881,
       "rank": 38,
@@ -211,19 +211,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 826500,
+      "num": 376216,
+      "word": "内娱女明星没有丑的",
+      "onboard_time": 1755170963,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 825444,
       "num": 825444,
       "word": "郑爽影视剧出品方被执行565万",
       "onboard_time": 1755144805,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 825142,
-      "num": 317796,
-      "word": "内娱女明星没有丑的",
-      "onboard_time": 1755170963,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616763,
+      "num": 616763,
+      "word": "男朋友用几十块的鼠标怎么办",
+      "onboard_time": 1755171503,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 594908,
       "num": 594908,
       "word": "周立人故意杀人案二审宣判",
@@ -363,20 +371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 587838,
+      "num": 587838,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1755170602,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 571031,
       "num": 571031,
       "word": "全玻璃iPhone",
       "onboard_time": 1755170182,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 529464,
-      "num": 529464,
-      "word": "男朋友用几十块的鼠标怎么办",
-      "onboard_time": 1755171503,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 524100,
@@ -459,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 443937,
+      "num": 443937,
+      "word": "生万物",
+      "onboard_time": 1755085404,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429169,
       "num": 215751,
       "word": "美国惊现触手兔子专家警告远离",
@@ -473,6 +489,14 @@
       "onboard_time": 1755170122,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423917,
+      "num": 423917,
+      "word": "赵今麦魏大勋牵手散步路透",
+      "onboard_time": 1755175463,
+      "rank": 22,
+      "category": "剧集,剧集"
     },
     {
       "raw_hot": 394840,
@@ -507,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 383528,
-      "num": 383528,
-      "word": "生万物",
-      "onboard_time": 1755085404,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 381530,
       "num": 381530,
       "word": "赵嘉敏疑似被天才女友换角",
@@ -523,20 +539,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379052,
+      "num": 379052,
+      "word": "木苏里 人还是不能没有头发",
+      "onboard_time": 1755171262,
+      "rank": 30,
+      "category": "读书作家,动漫"
+    },
+    {
       "raw_hot": 378421,
       "num": 378421,
       "word": "巴基斯坦宣布成立陆军火箭部队司令部",
       "onboard_time": 1755161543,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 377073,
-      "num": 377073,
-      "word": "中国男篮vs韩国男篮",
-      "onboard_time": 1755170602,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 374000,
@@ -563,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369071,
-      "num": 369071,
-      "word": "木苏里 人还是不能没有头发",
-      "onboard_time": 1755171262,
-      "rank": 30,
-      "category": "读书作家,动漫"
-    },
-    {
       "raw_hot": 366043,
       "num": 366043,
       "word": "成毅法修散打cha",
@@ -593,6 +601,14 @@
       "onboard_time": 1755156382,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344402,
+      "num": 344402,
+      "word": "阚清子能穿进去的衣服不多了",
+      "onboard_time": 1755174805,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 333855,
@@ -691,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283302,
+      "num": 283302,
+      "word": "王一博香奈儿活动生图",
+      "onboard_time": 1755176183,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276965,
       "num": 276965,
       "word": "白敬亭提名全球流媒体奖最佳男主",
@@ -705,6 +729,14 @@
       "onboard_time": 1755167604,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271400,
+      "num": 271400,
+      "word": "印度洋上空现10个神秘黑暗空洞",
+      "onboard_time": 1755176244,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 268299,
@@ -771,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245108,
+      "num": 243747,
+      "word": "日本人因南京大屠杀史料羞愧愤怒",
+      "onboard_time": 1755175582,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 239611,
       "num": 239611,
       "word": "Gemini",
@@ -827,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220405,
+      "num": 220405,
+      "word": "糖尿病前期的5个症状",
+      "onboard_time": 1755174563,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 218181,
       "num": 218181,
       "word": "韩国男性热衷去日本相亲",
@@ -867,12 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209985,
-      "num": 209985,
-      "word": "阚清子能穿进去的衣服不多了",
-      "onboard_time": 1755174805,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 209825,
+      "num": 209825,
+      "word": "胡明轩状态",
+      "onboard_time": 1755176304,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 209698,
@@ -971,12 +1019,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200596,
-      "num": 200596,
-      "word": "赵今麦魏大勋牵手散步路透",
-      "onboard_time": 1755175463,
-      "rank": 22,
-      "category": "剧集,剧集"
+      "raw_hot": 200761,
+      "num": 200761,
+      "word": "iPhone17Pro四大升级",
+      "onboard_time": 1755175646,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 200112,
@@ -1115,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190586,
+      "num": 190586,
+      "word": "杨幂生万物首日全端播放量登顶",
+      "onboard_time": 1755176663,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189257,
       "num": 189257,
       "word": "杨幂给惠英红剧组送了咖啡",
@@ -1145,6 +1201,22 @@
       "onboard_time": 1755148403,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184223,
+      "num": 184223,
+      "word": "深渊",
+      "onboard_time": 1755174083,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183846,
+      "num": 183846,
+      "word": "女儿调座椅压死儿子家长岂能甩锅",
+      "onboard_time": 1755175943,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183667,
@@ -1339,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162712,
-      "num": 162712,
-      "word": "糖尿病前期的5个症状",
-      "onboard_time": 1755174563,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 162282,
       "num": 162282,
       "word": "A股两市超4600股下跌",
@@ -1491,6 +1555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 149886,
+      "num": 149886,
+      "word": "田曦薇抱张艺凡的狗给戚薇拍照",
+      "onboard_time": 1755174443,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149686,
       "num": 206074,
       "word": "北大辟谣易继明违规招生",
@@ -1545,14 +1617,6 @@
       "onboard_time": 1755147864,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144257,
-      "num": 144257,
-      "word": "日本人因南京大屠杀史料羞愧愤怒",
-      "onboard_time": 1755175582,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 144221,
@@ -1619,6 +1683,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138206,
+      "num": 138206,
+      "word": "减肥其实是旺自己的开始",
+      "onboard_time": 1755171443,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 136922,
+      "num": 155540,
+      "word": "吴谨言回应粉丝",
+      "onboard_time": 1755175105,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136811,
       "num": 136811,
       "word": "刘耀文集体责任感好强",
@@ -1633,14 +1713,6 @@
       "onboard_time": 1755155963,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135998,
-      "num": 135998,
-      "word": "iPhone17Pro四大升级",
-      "onboard_time": 1755175646,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 135826,
@@ -1731,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130595,
-      "num": 130595,
-      "word": "深渊",
-      "onboard_time": 1755174083,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130304,
       "num": 130304,
       "word": "突然意识到我频繁做美甲不是因为爱美",
@@ -1777,14 +1841,6 @@
       "onboard_time": 1755133461,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127003,
-      "num": 127003,
-      "word": "女儿调座椅压死儿子家长岂能甩锅",
-      "onboard_time": 1755175943,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126871,
@@ -1939,20 +1995,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120299,
-      "num": 120299,
-      "word": "减肥其实是旺自己的开始",
-      "onboard_time": 1755171443,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 119776,
-      "num": 119776,
-      "word": "田曦薇抱张艺凡的狗给戚薇拍照",
-      "onboard_time": 1755174443,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 120480,
+      "num": 210236,
+      "word": "4399 绿色背景怎么了",
+      "onboard_time": 1755175343,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 119562,
@@ -1969,6 +2017,14 @@
       "onboard_time": 1755171382,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119165,
+      "num": 119165,
+      "word": "辞职 甩班费",
+      "onboard_time": 1755176724,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118796,
@@ -1995,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117768,
+      "num": 117768,
+      "word": "王俊杰还是太全面了",
+      "onboard_time": 1755174202,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117327,
       "num": 205205,
       "word": "罗马仕招聘一岗位年薪60万元起",
@@ -2019,20 +2083,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 116567,
-      "num": 155540,
-      "word": "吴谨言回应粉丝",
-      "onboard_time": 1755175105,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116267,
       "num": 170134,
       "word": "吉利汽车上半年营收首破1500亿",
       "onboard_time": 1755151463,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 115521,
+      "num": 115521,
+      "word": "A股港股两大信号",
+      "onboard_time": 1755176544,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 115254,
@@ -2571,14 +2635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90109,
-      "num": 210236,
-      "word": "4399 绿色背景怎么了",
-      "onboard_time": 1755175343,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 88115,
       "num": 88115,
       "word": "弈星守夜人皮肤",
@@ -2627,6 +2683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84071,
+      "num": 371712,
+      "word": "香奈儿蔚蓝之夜明星阵容",
+      "onboard_time": 1755173602,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 83102,
       "num": 83102,
       "word": "美联储9月或降息50个基点",
@@ -2657,14 +2721,6 @@
       "onboard_time": 1755148943,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80769,
-      "num": 336098,
-      "word": "香奈儿蔚蓝之夜明星阵容",
-      "onboard_time": 1755173602,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 78867,
@@ -2731,20 +2787,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71539,
+      "num": 167491,
+      "word": "比亚迪全地形赛车场开业",
+      "onboard_time": 1755173783,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 71513,
       "num": 144219,
       "word": "生万物爱奇艺热度破6500",
       "onboard_time": 1755128001,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70818,
-      "num": 146018,
-      "word": "比亚迪全地形赛车场开业",
-      "onboard_time": 1755173783,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 69839,
@@ -2979,6 +3035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36771,
+      "num": 767586,
+      "word": "2025中国AI盛典",
+      "onboard_time": 1755097524,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36424,
       "num": 125887,
       "word": "游客起冲突喷防狼喷雾致多人不适",
@@ -3041,14 +3105,6 @@
       "onboard_time": 1755165744,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25872,
-      "num": 767586,
-      "word": "2025中国AI盛典",
-      "onboard_time": 1755097524,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25079,

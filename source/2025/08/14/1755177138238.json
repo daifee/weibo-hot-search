@@ -1,0 +1,410 @@
+{
+  "runTime": 1755177138238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1314103,
+        "num": 1314103,
+        "word": "7k7k 4399",
+        "onboard_time": 1755165862,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 768909,
+        "num": 768909,
+        "word": "硕士宿舍投毒意图杀害两名室友",
+        "onboard_time": 1755169882,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36771,
+        "num": 680039,
+        "word": "2025中国AI盛典",
+        "onboard_time": 1755097524,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 665183,
+        "num": 665183,
+        "word": "郭德纲说已经卑微到看郭麒麟脸色",
+        "onboard_time": 1755166881,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616763,
+        "num": 616763,
+        "word": "男朋友用几十块的鼠标怎么办",
+        "onboard_time": 1755171503,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 587838,
+        "num": 587838,
+        "word": "中国男篮vs韩国男篮",
+        "onboard_time": 1755170602,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512420,
+        "num": 512420,
+        "word": "全玻璃iPhone",
+        "onboard_time": 1755170182,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 443937,
+        "num": 443937,
+        "word": "生万物",
+        "onboard_time": 1755168504,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423917,
+        "num": 423917,
+        "word": "赵今麦魏大勋牵手散步路透",
+        "onboard_time": 1755175463,
+        "rank": 8,
+        "category": "剧集,剧集"
+      },
+      {
+        "raw_hot": 379052,
+        "num": 379052,
+        "word": "木苏里 人还是不能没有头发",
+        "onboard_time": 1755171262,
+        "rank": 9,
+        "category": "读书作家,动漫"
+      },
+      {
+        "raw_hot": 2523362,
+        "num": 378570,
+        "word": "邱泽许玮甯宝宝出生",
+        "onboard_time": 1755175463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826500,
+        "num": 376216,
+        "word": "内娱女明星没有丑的",
+        "onboard_time": 1755170963,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785482,
+        "num": 373963,
+        "word": "女儿调座椅压死儿子家长索赔车企",
+        "onboard_time": 1755151403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84071,
+        "num": 371712,
+        "word": "香奈儿蔚蓝之夜明星阵容",
+        "onboard_time": 1755173602,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 370376,
+        "num": 370376,
+        "word": "终于看到艺人全员长嘴的综艺了",
+        "onboard_time": 1755170122,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344402,
+        "num": 344402,
+        "word": "阚清子能穿进去的衣服不多了",
+        "onboard_time": 1755174805,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283302,
+        "num": 283302,
+        "word": "王一博香奈儿活动生图",
+        "onboard_time": 1755176183,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271400,
+        "num": 271400,
+        "word": "印度洋上空现10个神秘黑暗空洞",
+        "onboard_time": 1755176244,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245362,
+        "num": 245362,
+        "word": "张本智和和国乒交手记录",
+        "onboard_time": 1755170242,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244756,
+        "num": 244756,
+        "word": "两只蝴蝶下载2亿多次作者挣了5000",
+        "onboard_time": 1755164060,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 861900,
+        "num": 244247,
+        "word": "浪浪山",
+        "onboard_time": 1755167782,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245108,
+        "num": 243747,
+        "word": "日本人因南京大屠杀史料羞愧愤怒",
+        "onboard_time": 1755175582,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242915,
+        "num": 242915,
+        "word": "建议一天一换内裤的原因",
+        "onboard_time": 1755154883,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220405,
+        "num": 220405,
+        "word": "糖尿病前期的5个症状",
+        "onboard_time": 1755174563,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219176,
+        "num": 219176,
+        "word": "尹春燕遗体被找到",
+        "onboard_time": 1755159143,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209825,
+        "num": 209825,
+        "word": "胡明轩状态",
+        "onboard_time": 1755176304,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200761,
+        "num": 200761,
+        "word": "iPhone17Pro四大升级",
+        "onboard_time": 1755175646,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197940,
+        "num": 197940,
+        "word": "又一个星二代发歌了",
+        "onboard_time": 1755168262,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190586,
+        "num": 190586,
+        "word": "杨幂生万物首日全端播放量登顶",
+        "onboard_time": 1755176663,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184223,
+        "num": 184223,
+        "word": "深渊",
+        "onboard_time": 1755174083,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183846,
+        "num": 183846,
+        "word": "女儿调座椅压死儿子家长岂能甩锅",
+        "onboard_time": 1755175943,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168154,
+        "num": 168154,
+        "word": "杨超越绿色系九宫格",
+        "onboard_time": 1755170602,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71539,
+        "num": 167491,
+        "word": "比亚迪全地形赛车场开业",
+        "onboard_time": 1755173783,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167425,
+        "num": 167425,
+        "word": "肖战连拍十个大夜戏",
+        "onboard_time": 1755175703,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165912,
+        "num": 165912,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150423,
+        "num": 150423,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755153383,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149886,
+        "num": 149886,
+        "word": "田曦薇抱张艺凡的狗给戚薇拍照",
+        "onboard_time": 1755174443,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145311,
+        "num": 145311,
+        "word": "莫把民情都当作舆情",
+        "onboard_time": 1755172041,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142399,
+        "num": 142399,
+        "word": "鞠婧祎早期男粉",
+        "onboard_time": 1755171202,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138206,
+        "num": 138206,
+        "word": "减肥其实是旺自己的开始",
+        "onboard_time": 1755171443,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136922,
+        "num": 136922,
+        "word": "吴谨言回应粉丝",
+        "onboard_time": 1755175105,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130217,
+        "num": 130217,
+        "word": "四六级",
+        "onboard_time": 1755166943,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124267,
+        "num": 124267,
+        "word": "杨幂说会为女儿成为更好的人",
+        "onboard_time": 1755168143,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120480,
+        "num": 120480,
+        "word": "4399 绿色背景怎么了",
+        "onboard_time": 1755175343,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119165,
+        "num": 119165,
+        "word": "辞职 甩班费",
+        "onboard_time": 1755176724,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117768,
+        "num": 117768,
+        "word": "王俊杰还是太全面了",
+        "onboard_time": 1755174202,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115521,
+        "num": 115521,
+        "word": "A股港股两大信号",
+        "onboard_time": 1755176544,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114296,
+        "num": 114296,
+        "word": "假labubu占领伦敦礼品摊",
+        "onboard_time": 1755170361,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109406,
+        "num": 109406,
+        "word": "周立人故意杀人案二审宣判",
+        "onboard_time": 1755160763,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107990,
+        "num": 107990,
+        "word": "追授尹春燕北京市优秀共产党员",
+        "onboard_time": 1755167604,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
