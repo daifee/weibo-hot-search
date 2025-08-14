@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755147199237,
+  "endTime": 1755149376924,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 1056276,
-      "num": 1056276,
+      "num": 1137272,
       "word": "顾客误将日料套餐当自助餐消费4302元",
       "onboard_time": 1755142522,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 973286,
+      "num": 204065,
+      "word": "医生说B罩杯以下可以不穿内衣",
+      "onboard_time": 1755147264,
+      "rank": 20,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 958586,
@@ -115,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 805594,
+      "num": 805594,
+      "word": "郑爽影视剧出品方被执行565万",
+      "onboard_time": 1755144805,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794911,
       "num": 1119948,
       "word": "22岁存款200万决定提前退休",
       "onboard_time": 1755125177,
       "rank": 7,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 736235,
+      "num": 537158,
+      "word": "沸羊羊娶了美羊羊揍了喜羊羊",
+      "onboard_time": 1755145525,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 721002,
@@ -179,12 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 537158,
-      "num": 537158,
-      "word": "沸羊羊娶了美羊羊揍了喜羊羊",
-      "onboard_time": 1755145525,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 587573,
+      "num": 587573,
+      "word": "女子带5孩点一碗面多次免费续面",
+      "onboard_time": 1755144684,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 508868,
@@ -249,14 +273,6 @@
       "onboard_time": 1755110235,
       "rank": 4,
       "category": "电竞,游戏"
-    },
-    {
-      "raw_hot": 388576,
-      "num": 388576,
-      "word": "郑爽影视剧出品方被执行565万",
-      "onboard_time": 1755144805,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 370719,
@@ -371,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248521,
-      "num": 248521,
-      "word": "女子带5孩点一碗面多次免费续面",
-      "onboard_time": 1755144684,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248262,
       "num": 248262,
       "word": "生万物",
@@ -435,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218181,
+      "num": 218181,
+      "word": "韩国男性热衷去日本相亲",
+      "onboard_time": 1755144022,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214438,
       "num": 214438,
       "word": "杨柳",
@@ -473,6 +489,14 @@
       "onboard_time": 1755138021,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205646,
+      "num": 205646,
+      "word": "鹿晗 谁哭下次别来了啊",
+      "onboard_time": 1755148883,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 204739,
@@ -539,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196069,
+      "num": 196069,
+      "word": "热烈网播定档",
+      "onboard_time": 1755148642,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194234,
       "num": 194234,
       "word": "账号自称军嫂暴露敏感信息被处置",
@@ -577,6 +609,30 @@
       "onboard_time": 1755141022,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191655,
+      "num": 191655,
+      "word": "杨幂新剧婆婆基础公公就不基础",
+      "onboard_time": 1755147083,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189257,
+      "num": 189257,
+      "word": "杨幂给惠英红剧组送了咖啡",
+      "onboard_time": 1755148403,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185459,
+      "num": 185459,
+      "word": "许凯被田曦薇调成啥样了",
+      "onboard_time": 1755148403,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 183312,
@@ -659,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162665,
+      "num": 162665,
+      "word": "如果四点下班真的太幸福了",
+      "onboard_time": 1755145045,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161287,
       "num": 161287,
       "word": "教育局通报学校给学生发百万奖金违规",
@@ -683,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157882,
+      "num": 157882,
+      "word": "女子肺结节AI预警查出癌症",
+      "onboard_time": 1755147745,
+      "rank": 35,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 155588,
       "num": 155588,
       "word": "父母不让远嫁的12年婚姻生活",
@@ -692,7 +764,7 @@
     },
     {
       "raw_hot": 154889,
-      "num": 154889,
+      "num": 295408,
       "word": "万元幼犬被顺风车司机丢弃派出所",
       "onboard_time": 1755142463,
       "rank": 44,
@@ -739,12 +811,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147930,
-      "num": 147930,
-      "word": "如果四点下班真的太幸福了",
-      "onboard_time": 1755145045,
+      "raw_hot": 144637,
+      "num": 144637,
+      "word": "金瀚周峻纬新剧一身大佬味",
+      "onboard_time": 1755147864,
       "rank": 38,
-      "category": "情感"
+      "category": "剧集"
     },
     {
       "raw_hot": 144221,
@@ -771,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135826,
+      "num": 189452,
+      "word": "宝格丽蜕变经典塑新生",
+      "onboard_time": 1755148943,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 135017,
       "num": 169887,
       "word": "披荆斩棘5淘汰",
@@ -785,6 +865,14 @@
       "onboard_time": 1755140602,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 133914,
+      "num": 189316,
+      "word": "二刷凡人修仙传走不出来了",
+      "onboard_time": 1755148943,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 132449,
@@ -811,6 +899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129240,
+      "num": 129240,
+      "word": "twice 抢票",
+      "onboard_time": 1755147144,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128609,
       "num": 128609,
       "word": "男童走失遇难夏令营被立案调查",
@@ -825,14 +921,6 @@
       "onboard_time": 1755133461,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126608,
-      "num": 126608,
-      "word": "韩国男性热衷去日本相亲",
-      "onboard_time": 1755144022,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 125121,
@@ -915,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116242,
+      "num": 116242,
+      "word": "戚薇发型基础穿搭就不基础",
+      "onboard_time": 1755149303,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115254,
       "num": 115254,
       "word": "南京震感",
@@ -931,20 +1027,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113260,
-      "num": 113260,
-      "word": "twice 抢票",
-      "onboard_time": 1755147144,
+      "raw_hot": 113875,
+      "num": 113875,
+      "word": "披荆斩棘",
+      "onboard_time": 1755149183,
       "rank": 46,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 112139,
-      "num": 124534,
-      "word": "杨幂新剧婆婆基础公公就不基础",
-      "onboard_time": 1755147083,
-      "rank": 39,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 111660,
@@ -953,6 +1041,14 @@
       "onboard_time": 1755134122,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111398,
+      "num": 205205,
+      "word": "罗马仕招聘一岗位年薪60万元起",
+      "onboard_time": 1755147444,
+      "rank": 19,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 111122,
@@ -1064,6 +1160,14 @@
       "word": "身份证能加电子水印了",
       "onboard_time": 1755143663,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103478,
+      "num": 103478,
+      "word": "男子趁母亲病重擅自转走40万存款",
+      "onboard_time": 1755148704,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1457,6 +1561,14 @@
       "onboard_time": 1755127519,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 25079,
+      "num": 189276,
+      "word": "盗墓赚300元赔2000还坐牢",
+      "onboard_time": 1755147745,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22585,
