@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755207643739,
+  "endTime": 1755210382100,
   "band_list": [
     {
       "raw_hot": 1251394,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125596,
+      "num": 92337,
+      "word": "黄一鸣回应怀孕时没公布",
+      "onboard_time": 1755198854,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112261,
       "num": 112261,
       "word": "张元英预告造型",
@@ -331,14 +339,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 88458,
-      "num": 45783,
-      "word": "黄一鸣回应怀孕时没公布",
-      "onboard_time": 1755198854,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85297,
       "num": 85297,
       "word": "两只蝴蝶下载2亿多次作者挣了5000",
@@ -411,6 +411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 66226,
+      "num": 66226,
+      "word": "攀登者管静被落石砸中遇难",
+      "onboard_time": 1755204074,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61860,
       "num": 83525,
       "word": "WB战胜AG",
@@ -419,12 +427,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 51715,
-      "num": 51715,
-      "word": "攀登者管静被落石砸中遇难",
-      "onboard_time": 1755204074,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 60244,
+      "num": 60244,
+      "word": "李智勋道歉",
+      "onboard_time": 1755204974,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 51304,
@@ -499,27 +507,35 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30129,
+      "num": 30129,
+      "word": "男子杀害祖孙3人被鉴定为精神分裂",
+      "onboard_time": 1755202215,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29845,
+      "num": 29845,
+      "word": "上千艳照寄给公职人员5人被判刑",
+      "onboard_time": 1755203174,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29299,
+      "num": 29299,
+      "word": "俄美总统会晤后将举行联合记者会",
+      "onboard_time": 1755196035,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28199,
       "num": 518734,
       "word": "丝路万里一路向前",
       "onboard_time": 1755185544,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27879,
-      "num": 27879,
-      "word": "李智勋道歉",
-      "onboard_time": 1755204974,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 26222,
-      "num": 26222,
-      "word": "男子杀害祖孙3人被鉴定为精神分裂",
-      "onboard_time": 1755202215,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -531,19 +547,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25186,
-      "num": 25186,
-      "word": "俄美总统会晤后将举行联合记者会",
-      "onboard_time": 1755196035,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 24003,
       "num": 64896,
       "word": "平凡日常里记得好好爱自己",
       "onboard_time": 1755193636,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23325,
+      "num": 190823,
+      "word": "2025世界人形机器人运动会",
+      "onboard_time": 1755174202,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -563,15 +579,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19675,
-      "num": 19675,
-      "word": "上千艳照寄给公职人员5人被判刑",
-      "onboard_time": 1755203174,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19242,
+      "raw_hot": 20153,
       "num": 59427,
       "word": "笔试1分也能当初中老师是糊弄谁",
       "onboard_time": 1755199334,
@@ -587,11 +595,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18511,
-      "num": 96063,
-      "word": "2025世界人形机器人运动会",
-      "onboard_time": 1755174202,
-      "rank": 2,
+      "raw_hot": 17560,
+      "num": 29233,
+      "word": "女儿压死儿子事件第一责任在父母",
+      "onboard_time": 1755210134,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -601,6 +609,14 @@
       "onboard_time": 1755193456,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14165,
+      "num": 92688,
+      "word": "管某登顶乔戈里峰遇难为意外事件",
+      "onboard_time": 1755209296,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13608,
