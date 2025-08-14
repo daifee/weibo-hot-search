@@ -1,0 +1,410 @@
+{
+  "runTime": 1755143840676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 932202,
+        "num": 1149152,
+        "word": "幂姐回宫",
+        "onboard_time": 1755140602,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 810804,
+        "num": 810804,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45400,
+        "num": 737079,
+        "word": "她们直到去世也没等到道歉",
+        "onboard_time": 1755128120,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668851,
+        "num": 668851,
+        "word": "警方介入男子当儿子面残忍杀害前妻",
+        "onboard_time": 1755138261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497967,
+        "num": 497967,
+        "word": "团伙引诱男性发生关系留下抓痕报警",
+        "onboard_time": 1755141262,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700984,
+        "num": 485894,
+        "word": "吴昕当年出道被喊小赫本",
+        "onboard_time": 1755138201,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464441,
+        "num": 464441,
+        "word": "顾客误将日料套餐当自助餐消费4302元",
+        "onboard_time": 1755142522,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463616,
+        "num": 463616,
+        "word": "王者荣耀新皮肤",
+        "onboard_time": 1755140602,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329207,
+        "num": 329207,
+        "word": "老奶奶说日本鬼子害我一辈子",
+        "onboard_time": 1755131364,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260898,
+        "num": 319934,
+        "word": "男生带五粮液上高铁被拦当场喝完",
+        "onboard_time": 1755141863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1377711,
+        "num": 319689,
+        "word": "男子称买避孕药付款失败被撞破出轨",
+        "onboard_time": 1755132861,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 736106,
+        "num": 319687,
+        "word": "网友韩国偶遇王安宇",
+        "onboard_time": 1755140243,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319362,
+        "num": 319362,
+        "word": "5岁女童凌晨梦游被找到时站在湖边",
+        "onboard_time": 1755133522,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293431,
+        "num": 293431,
+        "word": "22岁存款200万决定提前退休",
+        "onboard_time": 1755125177,
+        "rank": 13,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 292091,
+        "num": 292091,
+        "word": "终于有不互捅不救三界的仙偶",
+        "onboard_time": 1755141802,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247350,
+        "num": 247350,
+        "word": "抹黑军队形象自媒体被处置",
+        "onboard_time": 1755137900,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238889,
+        "num": 238889,
+        "word": "慰安妇制度受害奶奶的笑令人心痛",
+        "onboard_time": 1755129440,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229855,
+        "num": 229855,
+        "word": "建议大家保持微胖身材",
+        "onboard_time": 1755142764,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194335,
+        "num": 219190,
+        "word": "白敬亭提名全球流媒体奖最佳男主",
+        "onboard_time": 1755141981,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189449,
+        "num": 214313,
+        "word": "生万物",
+        "onboard_time": 1755143603,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 721002,
+        "num": 213756,
+        "word": "傅首尔 浪浪山小妖怪",
+        "onboard_time": 1755140543,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212351,
+        "num": 212351,
+        "word": "00后整顿职场被辞退",
+        "onboard_time": 1755134122,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202797,
+        "num": 202797,
+        "word": "邢菲被低估的90花",
+        "onboard_time": 1755142882,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192214,
+        "num": 192214,
+        "word": "好消息是crush坏消息他禁欲",
+        "onboard_time": 1755142463,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171122,
+        "num": 171122,
+        "word": "求婚王珞丹男子被曝曾骚扰迪丽热巴",
+        "onboard_time": 1755143363,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167413,
+        "num": 167413,
+        "word": "锤娜丽莎抗住了李川没逃过颜安",
+        "onboard_time": 1755140301,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165110,
+        "num": 165110,
+        "word": "广东特大暴雨即将来袭",
+        "onboard_time": 1755133223,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159554,
+        "num": 159554,
+        "word": "Gemini",
+        "onboard_time": 1755129020,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158255,
+        "num": 158255,
+        "word": "中国游客在日本网红地被列车撞身亡",
+        "onboard_time": 1755130222,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154889,
+        "num": 154889,
+        "word": "万元幼犬被顺风车司机丢弃派出所",
+        "onboard_time": 1755142463,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140874,
+        "num": 140874,
+        "word": "原来麻辣烫很适合减肥吃",
+        "onboard_time": 1755135621,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139797,
+        "num": 139797,
+        "word": "最想对18岁的自己说什么",
+        "onboard_time": 1755141022,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139130,
+        "num": 139130,
+        "word": "终于有人吐槽现在的婚礼流程了",
+        "onboard_time": 1755110235,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134257,
+        "num": 134257,
+        "word": "赵立坚发了邓为",
+        "onboard_time": 1755143483,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134212,
+        "num": 134212,
+        "word": "每年近300万印度人进入加拿大",
+        "onboard_time": 1755138021,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130122,
+        "num": 130122,
+        "word": "一部剧统一我和我爸审美",
+        "onboard_time": 1755141502,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129514,
+        "num": 129514,
+        "word": "北京大学法学院情况说明",
+        "onboard_time": 1755135621,
+        "rank": 36,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 126543,
+        "num": 126543,
+        "word": "父母不让远嫁的12年婚姻生活",
+        "onboard_time": 1755141443,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36424,
+        "num": 125887,
+        "word": "游客起冲突喷防狼喷雾致多人不适",
+        "onboard_time": 1755143003,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65808,
+        "num": 125744,
+        "word": "业主投诉小区有超200家无证民宿",
+        "onboard_time": 1755143003,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125638,
+        "num": 125638,
+        "word": "第五人格",
+        "onboard_time": 1755141981,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118432,
+        "num": 118432,
+        "word": "神二十乘组要第三次出舱了",
+        "onboard_time": 1755142223,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 113919,
+        "num": 113919,
+        "word": "eStar兮然",
+        "onboard_time": 1755110235,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109520,
+        "num": 109520,
+        "word": "浪浪山到底在哪儿",
+        "onboard_time": 1755143183,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109207,
+        "num": 109207,
+        "word": "披荆斩棘5淘汰",
+        "onboard_time": 1755142223,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106690,
+        "num": 106690,
+        "word": "账号自称军嫂暴露敏感信息被处置",
+        "onboard_time": 1755143603,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105939,
+        "num": 105939,
+        "word": "沪指突破3700点关口",
+        "onboard_time": 1755140243,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104628,
+        "num": 104628,
+        "word": "身份证能加电子水印了",
+        "onboard_time": 1755143663,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103211,
+        "num": 103211,
+        "word": "建议在大学一定要去谈恋爱",
+        "onboard_time": 1755142700,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98893,
+        "num": 98893,
+        "word": "王楚钦看报纸",
+        "onboard_time": 1755142162,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念提出20年#"
+    }
+  }
+}
