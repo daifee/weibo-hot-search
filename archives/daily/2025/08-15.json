@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755211442435,
+  "endTime": 1755213941912,
   "band_list": [
     {
       "raw_hot": 1251394,
@@ -27,11 +27,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 515206,
-      "num": 515206,
+      "raw_hot": 534053,
+      "num": 534053,
       "word": "中纪委明确公职人员禁止6类副业",
       "onboard_time": 1755183564,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 530364,
+      "num": 204376,
+      "word": "女儿调座椅压死儿子家长岂能甩锅",
+      "onboard_time": 1755175943,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -51,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 389135,
+      "num": 193694,
+      "word": "女儿压死儿子事件第一责任在父母",
+      "onboard_time": 1755210134,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369876,
       "num": 369876,
       "word": "店家回应3女子带4孩多次续面",
@@ -65,6 +81,14 @@
       "onboard_time": 1755181705,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 337283,
+      "num": 191265,
+      "word": "黄一鸣回应怀孕时没公布",
+      "onboard_time": 1755198854,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 331367,
@@ -91,12 +115,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283791,
-      "num": 199288,
-      "word": "女儿调座椅压死儿子家长岂能甩锅",
-      "onboard_time": 1755175943,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 287878,
+      "num": 287878,
+      "word": "日本战败投降80周年",
+      "onboard_time": 1755212717,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 266340,
+      "num": 266340,
+      "word": "80年前的今天日本投降",
+      "onboard_time": 1755189740,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 255014,
@@ -155,12 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188946,
-      "num": 188946,
-      "word": "80年前的今天日本投降",
-      "onboard_time": 1755189740,
-      "rank": 13,
-      "category": "国内时政"
+      "raw_hot": 180453,
+      "num": 180453,
+      "word": "有人为领生育补贴迁户至湖北天门",
+      "onboard_time": 1755185544,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179564,
@@ -169,14 +201,6 @@
       "onboard_time": 1755180024,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 177697,
-      "num": 106408,
-      "word": "黄一鸣回应怀孕时没公布",
-      "onboard_time": 1755198854,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 167154,
@@ -195,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158473,
+      "num": 158473,
+      "word": "郭德纲说已经卑微到看郭麒麟脸色",
+      "onboard_time": 1755166881,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157805,
       "num": 157805,
       "word": "生万物 纯爱番",
@@ -209,14 +241,6 @@
       "onboard_time": 1755186082,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138109,
-      "num": 138109,
-      "word": "郭德纲说已经卑微到看郭麒麟脸色",
-      "onboard_time": 1755166881,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 133167,
@@ -249,14 +273,6 @@
       "onboard_time": 1755184826,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125558,
-      "num": 125558,
-      "word": "有人为领生育补贴迁户至湖北天门",
-      "onboard_time": 1755185544,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112261,
@@ -355,12 +371,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79870,
+      "num": 79870,
+      "word": "男子杀害祖孙3人被鉴定为精神分裂",
+      "onboard_time": 1755202215,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78919,
+      "num": 97601,
+      "word": "Milkyway报警",
+      "onboard_time": 1755213799,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 78879,
+      "num": 78879,
+      "word": "攀登者管静被落石砸中遇难",
+      "onboard_time": 1755204074,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77410,
       "num": 84971,
       "word": "男朋友用几十块的鼠标怎么办",
       "onboard_time": 1755171503,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75465,
+      "num": 75465,
+      "word": "上千艳照寄给公职人员5人被判刑",
+      "onboard_time": 1755203174,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74178,
@@ -379,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72864,
+      "num": 72864,
+      "word": "洪灾损失千万金店店内监控首曝光",
+      "onboard_time": 1755186382,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72634,
       "num": 84253,
       "word": "糖尿病前期的5个症状",
@@ -392,14 +448,6 @@
       "word": "文创店售卖处女证被批低俗",
       "onboard_time": 1755189320,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70941,
-      "num": 70941,
-      "word": "攀登者管静被落石砸中遇难",
-      "onboard_time": 1755204074,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -435,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58550,
+      "num": 58550,
+      "word": "原来歌曲恭喜恭喜是庆祝抗战胜利",
+      "onboard_time": 1755194357,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51304,
       "num": 51304,
       "word": "邢菲演技",
@@ -443,12 +499,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50897,
+      "num": 51378,
+      "word": "河南 基孔肯雅热传播风险区",
+      "onboard_time": 1755191957,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49640,
+      "num": 49640,
+      "word": "请记住杭州地铁6号受降站的由来",
+      "onboard_time": 1755193277,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48797,
       "num": 83082,
       "word": "央行明日开展5000亿元买断式逆回购",
       "onboard_time": 1755184583,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 47649,
+      "num": 59427,
+      "word": "笔试1分也能当初中老师是糊弄谁",
+      "onboard_time": 1755199334,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44464,
+      "num": 44464,
+      "word": "俄美总统会晤后将举行联合记者会",
+      "onboard_time": 1755196035,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43575,
@@ -467,11 +555,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41493,
-      "num": 51379,
-      "word": "洪灾损失千万金店店内监控首曝光",
-      "onboard_time": 1755186382,
-      "rank": 48,
+      "raw_hot": 42150,
+      "num": 405293,
+      "word": "2025世界人形机器人运动会",
+      "onboard_time": 1755174202,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -483,66 +571,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39749,
-      "num": 51378,
-      "word": "河南 基孔肯雅热传播风险区",
-      "onboard_time": 1755191957,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39277,
-      "num": 39277,
-      "word": "上千艳照寄给公职人员5人被判刑",
-      "onboard_time": 1755203174,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38753,
-      "num": 38753,
-      "word": "男子杀害祖孙3人被鉴定为精神分裂",
-      "onboard_time": 1755202215,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37934,
-      "num": 46517,
-      "word": "请记住杭州地铁6号受降站的由来",
-      "onboard_time": 1755193277,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35951,
-      "num": 35950,
-      "word": "俄美总统会晤后将举行联合记者会",
-      "onboard_time": 1755196035,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 31175,
-      "num": 31175,
-      "word": "原来歌曲恭喜恭喜是庆祝抗战胜利",
-      "onboard_time": 1755194357,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 28199,
       "num": 518734,
       "word": "丝路万里一路向前",
       "onboard_time": 1755185544,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27524,
-      "num": 262356,
-      "word": "2025世界人形机器人运动会",
-      "onboard_time": 1755174202,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -555,27 +587,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25138,
-      "num": 32485,
-      "word": "女儿压死儿子事件第一责任在父母",
-      "onboard_time": 1755210134,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24003,
       "num": 64896,
       "word": "平凡日常里记得好好爱自己",
       "onboard_time": 1755193636,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23951,
-      "num": 59427,
-      "word": "笔试1分也能当初中老师是糊弄谁",
-      "onboard_time": 1755199334,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
