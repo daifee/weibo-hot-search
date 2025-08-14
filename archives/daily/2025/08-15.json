@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755192281412,
+  "endTime": 1755193422777,
   "band_list": [
     {
       "raw_hot": 1251394,
@@ -379,6 +379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 72085,
+      "num": 72085,
+      "word": "文创店售卖处女证被批低俗",
+      "onboard_time": 1755189320,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70239,
       "num": 83892,
       "word": "00后女生减40斤公司奖励2万",
@@ -393,14 +401,6 @@
       "onboard_time": 1755176183,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 64266,
-      "num": 71302,
-      "word": "文创店售卖处女证被批低俗",
-      "onboard_time": 1755189320,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61860,
@@ -443,11 +443,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41407,
+      "num": 46551,
+      "word": "生万物第七集好哭",
+      "onboard_time": 1755192857,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39749,
       "num": 51378,
       "word": "河南 基孔肯雅热传播风险区",
       "onboard_time": 1755191957,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37934,
+      "num": 46517,
+      "word": "请记住杭州地铁6号受降站的由来",
+      "onboard_time": 1755193277,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
