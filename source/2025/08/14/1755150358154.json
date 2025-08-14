@@ -1,0 +1,410 @@
+{
+  "runTime": 1755150358154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 837664,
+        "num": 1134026,
+        "word": "顾客误将日料套餐当自助餐消费4302元",
+        "onboard_time": 1755142522,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 825444,
+        "num": 825444,
+        "word": "郑爽影视剧出品方被执行565万",
+        "onboard_time": 1755144805,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50184,
+        "num": 683072,
+        "word": "台风杨柳在福建沿海登陆",
+        "onboard_time": 1755133223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668053,
+        "num": 668053,
+        "word": "女子带5孩点一碗面多次免费续面",
+        "onboard_time": 1755144684,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485268,
+        "num": 485268,
+        "word": "王一博起诉莆田鞋",
+        "onboard_time": 1755144863,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398450,
+        "num": 398450,
+        "word": "建议大家保持微胖身材",
+        "onboard_time": 1755142764,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 387374,
+        "num": 387374,
+        "word": "鹿晗 谁哭下次别来了啊",
+        "onboard_time": 1755148883,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 323424,
+        "num": 323424,
+        "word": "团伙引诱男性发生关系留下抓痕报警",
+        "onboard_time": 1755141262,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311920,
+        "num": 311920,
+        "word": "P人永远不懂J人的行李箱",
+        "onboard_time": 1755149543,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208485,
+        "num": 306797,
+        "word": "杨洋谈这两年的沉潜与成长",
+        "onboard_time": 1755144982,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860903,
+        "num": 300482,
+        "word": "男子称买避孕药付款失败被撞破出轨",
+        "onboard_time": 1755132861,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589703,
+        "num": 284619,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348118,
+        "num": 278943,
+        "word": "求婚王珞丹男子被曝曾骚扰迪丽热巴",
+        "onboard_time": 1755143363,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326463,
+        "num": 262449,
+        "word": "李沁 眉姐姐穿搭",
+        "onboard_time": 1755144142,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258383,
+        "num": 258383,
+        "word": "女子肺结节AI预警查出癌症",
+        "onboard_time": 1755147745,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 227780,
+        "num": 227780,
+        "word": "王者荣耀新皮肤",
+        "onboard_time": 1755140602,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221122,
+        "num": 221122,
+        "word": "黄子韬说听泉赏宝掉钱眼里了",
+        "onboard_time": 1755150263,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45330,
+        "num": 218880,
+        "word": "宝格丽蜕变经典塑新生",
+        "onboard_time": 1755148943,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 75031,
+        "num": 217226,
+        "word": "腾讯视频爆剧",
+        "onboard_time": 1755149723,
+        "rank": 18,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 44933,
+        "num": 216080,
+        "word": "杨柳来了深圳红暴了",
+        "onboard_time": 1755149483,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 979263,
+        "num": 214024,
+        "word": "医生说B罩杯以下可以不穿内衣",
+        "onboard_time": 1755147264,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 212045,
+        "num": 212045,
+        "word": "男生带五粮液上高铁被拦当场喝完",
+        "onboard_time": 1755141863,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315249,
+        "num": 208629,
+        "word": "沸羊羊娶了美羊羊揍了喜羊羊",
+        "onboard_time": 1755145525,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203872,
+        "num": 203872,
+        "word": "傅首尔 浪浪山小妖怪",
+        "onboard_time": 1755140543,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200943,
+        "num": 200943,
+        "word": "杨幂新剧婆婆基础公公就不基础",
+        "onboard_time": 1755147083,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197802,
+        "num": 197802,
+        "word": "幂姐回宫",
+        "onboard_time": 1755140602,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188140,
+        "num": 188140,
+        "word": "慰安妇制度受害奶奶的笑令人心痛",
+        "onboard_time": 1755129440,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184410,
+        "num": 184410,
+        "word": "四六级查分时间",
+        "onboard_time": 1755144863,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182601,
+        "num": 182601,
+        "word": "韩国男性热衷去日本相亲",
+        "onboard_time": 1755144022,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80885,
+        "num": 177741,
+        "word": "高圆圆吧唧就给了闺蜜一口",
+        "onboard_time": 1755148943,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141425,
+        "num": 174776,
+        "word": "万元幼犬被顺风车司机丢弃派出所",
+        "onboard_time": 1755142463,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173983,
+        "num": 173983,
+        "word": "老奶奶说日本鬼子害我一辈子",
+        "onboard_time": 1755131364,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165115,
+        "num": 165115,
+        "word": "如果四点下班真的太幸福了",
+        "onboard_time": 1755145045,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159059,
+        "num": 159059,
+        "word": "戚薇发型基础穿搭就不基础",
+        "onboard_time": 1755149303,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157524,
+        "num": 157524,
+        "word": "网友韩国偶遇王安宇",
+        "onboard_time": 1755140243,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148016,
+        "num": 148016,
+        "word": "热烈网播定档",
+        "onboard_time": 1755148642,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146605,
+        "num": 146605,
+        "word": "许凯被田曦薇调成啥样了",
+        "onboard_time": 1755148403,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144130,
+        "num": 144130,
+        "word": "Lisa坂口健太郎微电影",
+        "onboard_time": 1755146244,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140424,
+        "num": 140424,
+        "word": "生万物",
+        "onboard_time": 1755143603,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82524,
+        "num": 139176,
+        "word": "于正宣传子夜归cp",
+        "onboard_time": 1755149423,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138911,
+        "num": 138911,
+        "word": "金瀚周峻纬新剧一身大佬味",
+        "onboard_time": 1755147864,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126969,
+        "num": 126969,
+        "word": "披荆斩棘",
+        "onboard_time": 1755149183,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117327,
+        "num": 117327,
+        "word": "罗马仕招聘一岗位年薪60万元起",
+        "onboard_time": 1755147444,
+        "rank": 42,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 115889,
+        "num": 115889,
+        "word": "公司开除了所有抽烟的员工",
+        "onboard_time": 1755150142,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108665,
+        "num": 108665,
+        "word": "樊振东8月27日亮相德甲季前发布会",
+        "onboard_time": 1755150321,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58297,
+        "num": 108166,
+        "word": "日本警方回应中国游客被列车撞击身亡",
+        "onboard_time": 1755150202,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108157,
+        "num": 108157,
+        "word": "twice 抢票",
+        "onboard_time": 1755147144,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106489,
+        "num": 106489,
+        "word": "杨幂给惠英红剧组送了咖啡",
+        "onboard_time": 1755148403,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106019,
+        "num": 106019,
+        "word": "龚俊从全世界的梗路过",
+        "onboard_time": 1755149784,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105698,
+        "num": 105698,
+        "word": "教育局通报学校给学生发百万奖金违规",
+        "onboard_time": 1755145164,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念提出20年#"
+    }
+  }
+}
