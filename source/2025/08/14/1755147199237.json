@@ -1,0 +1,410 @@
+{
+  "runTime": 1755147199237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1274255,
+        "num": 1274255,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1056276,
+        "num": 1056276,
+        "word": "顾客误将日料套餐当自助餐消费4302元",
+        "onboard_time": 1755142522,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58862,
+        "num": 859497,
+        "word": "台风杨柳在福建沿海登陆",
+        "onboard_time": 1755133223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 777790,
+        "num": 777790,
+        "word": "求婚王珞丹男子被曝曾骚扰迪丽热巴",
+        "onboard_time": 1755143363,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637824,
+        "num": 637824,
+        "word": "建议大家保持微胖身材",
+        "onboard_time": 1755142764,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 618599,
+        "num": 618599,
+        "word": "王一博起诉莆田鞋",
+        "onboard_time": 1755144863,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537158,
+        "num": 537158,
+        "word": "沸羊羊娶了美羊羊揍了喜羊羊",
+        "onboard_time": 1755145525,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464042,
+        "num": 464042,
+        "word": "团伙引诱男性发生关系留下抓痕报警",
+        "onboard_time": 1755141262,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458597,
+        "num": 458597,
+        "word": "幂姐回宫",
+        "onboard_time": 1755140602,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87774,
+        "num": 404441,
+        "word": "日料店回应顾客误当自助餐消费4302元",
+        "onboard_time": 1755146064,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1069684,
+        "num": 403228,
+        "word": "男子称买避孕药付款失败被撞破出轨",
+        "onboard_time": 1755132861,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388576,
+        "num": 388576,
+        "word": "郑爽影视剧出品方被执行565万",
+        "onboard_time": 1755144805,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369659,
+        "num": 369659,
+        "word": "男生带五粮液上高铁被拦当场喝完",
+        "onboard_time": 1755141863,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352947,
+        "num": 352947,
+        "word": "王者荣耀新皮肤",
+        "onboard_time": 1755140602,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 336700,
+        "num": 336700,
+        "word": "李沁 眉姐姐穿搭",
+        "onboard_time": 1755144142,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328476,
+        "num": 328476,
+        "word": "吴昕当年出道被喊小赫本",
+        "onboard_time": 1755138201,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318319,
+        "num": 318319,
+        "word": "网友韩国偶遇王安宇",
+        "onboard_time": 1755140243,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271176,
+        "num": 271176,
+        "word": "警方介入男子当儿子面残忍杀害前妻",
+        "onboard_time": 1755138261,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260239,
+        "num": 260239,
+        "word": "慰安妇制度受害奶奶的笑令人心痛",
+        "onboard_time": 1755129440,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99429,
+        "num": 258447,
+        "word": "官方通报男子直播家暴残疾人妻子",
+        "onboard_time": 1755145884,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444605,
+        "num": 258083,
+        "word": "傅首尔 浪浪山小妖怪",
+        "onboard_time": 1755140543,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306210,
+        "num": 257988,
+        "word": "杨幂秦海璐你俩根本没喝中药",
+        "onboard_time": 1755144743,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256798,
+        "num": 256798,
+        "word": "老奶奶说日本鬼子害我一辈子",
+        "onboard_time": 1755131364,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248521,
+        "num": 248521,
+        "word": "女子带5孩点一碗面多次免费续面",
+        "onboard_time": 1755144684,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246227,
+        "num": 246227,
+        "word": "杨洋谈这两年的沉潜与成长",
+        "onboard_time": 1755144982,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220501,
+        "num": 220501,
+        "word": "生万物",
+        "onboard_time": 1755143603,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203719,
+        "num": 203719,
+        "word": "Lisa坂口健太郎微电影",
+        "onboard_time": 1755146244,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198817,
+        "num": 198817,
+        "word": "白敬亭提名全球流媒体奖最佳男主",
+        "onboard_time": 1755141981,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75577,
+        "num": 190286,
+        "word": "爆胎测试还得高管亲自上",
+        "onboard_time": 1755144624,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188356,
+        "num": 188356,
+        "word": "四六级查分时间",
+        "onboard_time": 1755144863,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181924,
+        "num": 181924,
+        "word": "22岁存款200万决定提前退休",
+        "onboard_time": 1755125177,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 176055,
+        "num": 176055,
+        "word": "账号自称军嫂暴露敏感信息被处置",
+        "onboard_time": 1755143603,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162263,
+        "num": 162263,
+        "word": "00后整顿职场被辞退",
+        "onboard_time": 1755134122,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161287,
+        "num": 161287,
+        "word": "教育局通报学校给学生发百万奖金违规",
+        "onboard_time": 1755145164,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157078,
+        "num": 157078,
+        "word": "赵立坚发了邓为",
+        "onboard_time": 1755143483,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147930,
+        "num": 147930,
+        "word": "如果四点下班真的太幸福了",
+        "onboard_time": 1755145045,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142557,
+        "num": 142557,
+        "word": "中国游客在日本网红地被列车撞身亡",
+        "onboard_time": 1755130222,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133763,
+        "num": 133763,
+        "word": "终于有不互捅不救三界的仙偶",
+        "onboard_time": 1755141802,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125226,
+        "num": 125226,
+        "word": "万元幼犬被顺风车司机丢弃派出所",
+        "onboard_time": 1755142463,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112139,
+        "num": 124534,
+        "word": "杨幂新剧婆婆基础公公就不基础",
+        "onboard_time": 1755147083,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123939,
+        "num": 123939,
+        "word": "献鱼OST阵容",
+        "onboard_time": 1755144443,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121316,
+        "num": 121316,
+        "word": "我宣布这个不亚于图书馆30秒",
+        "onboard_time": 1755144563,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120107,
+        "num": 120107,
+        "word": "邢菲被低估的90花",
+        "onboard_time": 1755142882,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118487,
+        "num": 118487,
+        "word": "韩国男性热衷去日本相亲",
+        "onboard_time": 1755144022,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118020,
+        "num": 118020,
+        "word": "Gemini",
+        "onboard_time": 1755129020,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115688,
+        "num": 115688,
+        "word": "84岁老人和保姆结婚4个子女全不知",
+        "onboard_time": 1755145045,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113260,
+        "num": 113260,
+        "word": "twice 抢票",
+        "onboard_time": 1755147144,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110541,
+        "num": 110541,
+        "word": "锤娜丽莎抗住了李川没逃过颜安",
+        "onboard_time": 1755140301,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107124,
+        "num": 107124,
+        "word": "5岁女童凌晨梦游被找到时站在湖边",
+        "onboard_time": 1755133522,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104798,
+        "num": 104798,
+        "word": "身份证能加电子水印了",
+        "onboard_time": 1755143663,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念提出20年#"
+    }
+  }
+}
