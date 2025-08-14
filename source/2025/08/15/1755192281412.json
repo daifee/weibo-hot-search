@@ -1,0 +1,410 @@
+{
+  "runTime": 1755192281412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 743712,
+        "num": 743712,
+        "word": "社保断缴一次这些待遇全部取消",
+        "onboard_time": 1755181285,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479769,
+        "num": 479769,
+        "word": "日本人因南京大屠杀史料羞愧愤怒",
+        "onboard_time": 1755175582,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23388,
+        "num": 383290,
+        "word": "丝路万里一路向前",
+        "onboard_time": 1755185544,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369876,
+        "num": 369876,
+        "word": "店家回应3女子带4孩多次续面",
+        "onboard_time": 1755187103,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326499,
+        "num": 326499,
+        "word": "日军慰安妇制度受害幸存者只剩7人",
+        "onboard_time": 1755188123,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244873,
+        "num": 244873,
+        "word": "史上第一部没破亿硬发海报的电影",
+        "onboard_time": 1755179663,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240174,
+        "num": 240174,
+        "word": "7k7k 4399",
+        "onboard_time": 1755165862,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237813,
+        "num": 237813,
+        "word": "中纪委明确公职人员禁止6类副业",
+        "onboard_time": 1755183564,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176018,
+        "num": 176018,
+        "word": "天才女友 合诗雨",
+        "onboard_time": 1755181524,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163731,
+        "num": 163731,
+        "word": "湘大投毒凶手曾在宿舍磨刀用喷枪烤物",
+        "onboard_time": 1755185963,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324484,
+        "num": 160385,
+        "word": "杨超越才发现照片里的虫子",
+        "onboard_time": 1755183083,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228325,
+        "num": 157157,
+        "word": "女儿调座椅压死儿子家长岂能甩锅",
+        "onboard_time": 1755175943,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224796,
+        "num": 155965,
+        "word": "邱泽许玮甯宝宝出生",
+        "onboard_time": 1755175463,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153524,
+        "num": 153524,
+        "word": "封大脚 梁宽植",
+        "onboard_time": 1755177264,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141366,
+        "num": 141366,
+        "word": "韩美娟赤木刚宪穿婚服合照",
+        "onboard_time": 1755180024,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133148,
+        "num": 133148,
+        "word": "生万物",
+        "onboard_time": 1755168504,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129087,
+        "num": 129087,
+        "word": "王玉雯刘昊然张新成的故事越来越完整",
+        "onboard_time": 1755181705,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126471,
+        "num": 126471,
+        "word": "印度洋上空现10个神秘黑暗空洞",
+        "onboard_time": 1755176244,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124891,
+        "num": 124891,
+        "word": "内娱女明星没有丑的",
+        "onboard_time": 1755170963,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101528,
+        "num": 101528,
+        "word": "生万物 纯爱番",
+        "onboard_time": 1755179006,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94845,
+        "num": 94845,
+        "word": "4种早餐被列入高脂名单",
+        "onboard_time": 1755178704,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92283,
+        "num": 92283,
+        "word": "80年前的今天日本投降",
+        "onboard_time": 1755189740,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92020,
+        "num": 92020,
+        "word": "金银错",
+        "onboard_time": 1755186082,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90172,
+        "num": 90172,
+        "word": "赵今麦魏大勋牵手散步路透",
+        "onboard_time": 1755175463,
+        "rank": 23,
+        "category": "剧集,剧集"
+      },
+      {
+        "raw_hot": 83124,
+        "num": 83124,
+        "word": "浪浪山",
+        "onboard_time": 1755167782,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82863,
+        "num": 82863,
+        "word": "郭德纲说已经卑微到看郭麒麟脸色",
+        "onboard_time": 1755166881,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81849,
+        "num": 81849,
+        "word": "许昕和张本智和的八败之交",
+        "onboard_time": 1755186022,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76189,
+        "num": 76189,
+        "word": "张元英预告造型",
+        "onboard_time": 1755186563,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72468,
+        "num": 72468,
+        "word": "iPhone17Pro四大升级",
+        "onboard_time": 1755175646,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68091,
+        "num": 68091,
+        "word": "公职人员禁止干6类副业",
+        "onboard_time": 1755180864,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67494,
+        "num": 67494,
+        "word": "建议一天一换内裤的原因",
+        "onboard_time": 1755154883,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66081,
+        "num": 66081,
+        "word": "迪丽热巴相约下一个角色旅程",
+        "onboard_time": 1755188243,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65465,
+        "num": 65465,
+        "word": "有人为领生育补贴迁户至湖北天门",
+        "onboard_time": 1755185544,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62339,
+        "num": 62339,
+        "word": "嫡谋",
+        "onboard_time": 1755184826,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58543,
+        "num": 58543,
+        "word": "刘忻这个视频的退出键在哪里",
+        "onboard_time": 1755187882,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57993,
+        "num": 57993,
+        "word": "文创店售卖处女证被批低俗",
+        "onboard_time": 1755189320,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55523,
+        "num": 55523,
+        "word": "胖东来招刑释人员面试题曝光",
+        "onboard_time": 1755183804,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20438,
+        "num": 54773,
+        "word": "她们对日军暴行的控诉字字血泪",
+        "onboard_time": 1755192197,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54519,
+        "num": 54519,
+        "word": "两只蝴蝶下载2亿多次作者挣了5000",
+        "onboard_time": 1755164060,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 52078,
+        "num": 52078,
+        "word": "男宝星球2排名",
+        "onboard_time": 1755184463,
+        "rank": 39,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 51899,
+        "num": 51899,
+        "word": "糖尿病前期的5个症状",
+        "onboard_time": 1755174563,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51384,
+        "num": 51384,
+        "word": "钱学森力学手稿",
+        "onboard_time": 1755187042,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 51042,
+        "num": 51384,
+        "word": "谁懂王一博这鞠躬的含金量",
+        "onboard_time": 1755181524,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50591,
+        "num": 51384,
+        "word": "女儿调座椅压死儿子家长索赔车企",
+        "onboard_time": 1755151403,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48797,
+        "num": 51382,
+        "word": "央行明日开展5000亿元买断式逆回购",
+        "onboard_time": 1755184583,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43856,
+        "num": 51381,
+        "word": "肖战有口皆碑",
+        "onboard_time": 1755184043,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43575,
+        "num": 51380,
+        "word": "恩利唱主题曲伊能静庾澄庆反应",
+        "onboard_time": 1755190758,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42890,
+        "num": 51379,
+        "word": "罗幂欧",
+        "onboard_time": 1755182724,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41493,
+        "num": 51379,
+        "word": "洪灾损失千万金店店内监控首曝光",
+        "onboard_time": 1755186382,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39749,
+        "num": 51378,
+        "word": "河南 基孔肯雅热传播风险区",
+        "onboard_time": 1755191957,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山可以成为金山银山#"
+    }
+  }
+}

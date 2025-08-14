@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755190201854,
+  "endTime": 1755192281412,
   "band_list": [
     {
       "raw_hot": 1251394,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 369876,
+      "num": 369876,
+      "word": "店家回应3女子带4孩多次续面",
+      "onboard_time": 1755187103,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347399,
       "num": 347399,
       "word": "王玉雯刘昊然张新成的故事越来越完整",
@@ -67,8 +75,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 319112,
-      "num": 319112,
+      "raw_hot": 326499,
+      "num": 326499,
       "word": "日军慰安妇制度受害幸存者只剩7人",
       "onboard_time": 1755188123,
       "rank": 8,
@@ -81,14 +89,6 @@
       "onboard_time": 1755177264,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303602,
-      "num": 303602,
-      "word": "店家回应3女子带4孩多次续面",
-      "onboard_time": 1755187103,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255014,
@@ -105,6 +105,14 @@
       "onboard_time": 1755181524,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228325,
+      "num": 199288,
+      "word": "女儿调座椅压死儿子家长岂能甩锅",
+      "onboard_time": 1755175943,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225096,
@@ -129,14 +137,6 @@
       "onboard_time": 1755168504,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199288,
-      "num": 199288,
-      "word": "女儿调座椅压死儿子家长岂能甩锅",
-      "onboard_time": 1755175943,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197797,
@@ -411,12 +411,44 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 36967,
+      "raw_hot": 48797,
       "num": 83082,
       "word": "央行明日开展5000亿元买断式逆回购",
       "onboard_time": 1755184583,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 43575,
+      "num": 51380,
+      "word": "恩利唱主题曲伊能静庾澄庆反应",
+      "onboard_time": 1755190758,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 42890,
+      "num": 51379,
+      "word": "罗幂欧",
+      "onboard_time": 1755182724,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41493,
+      "num": 51379,
+      "word": "洪灾损失千万金店店内监控首曝光",
+      "onboard_time": 1755186382,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39749,
+      "num": 51378,
+      "word": "河南 基孔肯雅热传播风险区",
+      "onboard_time": 1755191957,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28199,
@@ -425,6 +457,14 @@
       "onboard_time": 1755185544,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20438,
+      "num": 54773,
+      "word": "她们对日军暴行的控诉字字血泪",
+      "onboard_time": 1755192197,
+      "rank": 37,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
