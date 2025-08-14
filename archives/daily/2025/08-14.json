@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755154481858,
+  "endTime": 1755156496603,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -25,6 +25,14 @@
       "onboard_time": 1755132861,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1677461,
+      "num": 1677461,
+      "word": "黄子韬训斥徐艺洋露腿",
+      "onboard_time": 1755154402,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1557291,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1032678,
-      "num": 214024,
+      "num": 221738,
       "word": "医生说B罩杯以下可以不穿内衣",
       "onboard_time": 1755147264,
       "rank": 20,
@@ -113,6 +121,14 @@
       "onboard_time": 1755133522,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 876200,
+      "num": 876200,
+      "word": "黄景瑜新签的艺人包洪瑜",
+      "onboard_time": 1755153322,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 871288,
@@ -260,11 +276,19 @@
     },
     {
       "raw_hot": 496425,
-      "num": 394561,
+      "num": 417611,
       "word": "杨幂把生活物资留给焦俊艳",
       "onboard_time": 1755152543,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 490095,
+      "num": 490095,
+      "word": "长期焦虑 身体炎症",
+      "onboard_time": 1755153023,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 482573,
@@ -299,20 +323,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 449633,
-      "num": 449633,
-      "word": "黄景瑜新签的艺人包洪瑜",
-      "onboard_time": 1755153322,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 429169,
       "num": 215751,
       "word": "美国惊现触手兔子专家警告远离",
       "onboard_time": 1755091464,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 423561,
+      "num": 423561,
+      "word": "26岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755153383,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 394840,
@@ -363,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325109,
+      "num": 325109,
+      "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
+      "onboard_time": 1755154102,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 318414,
       "num": 277521,
       "word": "中国黄岩岛",
@@ -393,14 +425,6 @@
       "onboard_time": 1755144743,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304281,
-      "num": 304281,
-      "word": "长期焦虑 身体炎症",
-      "onboard_time": 1755153023,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 302056,
@@ -467,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248658,
+      "num": 248658,
+      "word": "四六级查分时间",
+      "onboard_time": 1755144863,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 248262,
       "num": 248262,
       "word": "生万物",
@@ -499,6 +531,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 230809,
+      "num": 221532,
+      "word": "建议一天一换内裤的原因",
+      "onboard_time": 1755154883,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 229018,
       "num": 229018,
       "word": "男子转账3500元备注彩礼要求返还被驳回",
@@ -507,16 +547,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225777,
-      "num": 225777,
-      "word": "四六级查分时间",
-      "onboard_time": 1755144863,
-      "rank": 24,
-      "category": "教育"
+      "raw_hot": 221368,
+      "num": 221368,
+      "word": "这就是朋友和好朋友的区别",
+      "onboard_time": 1755155303,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 220921,
-      "num": 1002798,
+      "num": 1179543,
       "word": "台风杨柳在福建沿海登陆",
       "onboard_time": 1755133223,
       "rank": 9,
@@ -561,14 +601,6 @@
       "onboard_time": 1755129623,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211298,
-      "num": 211298,
-      "word": "26岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1755153383,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 209651,
@@ -747,12 +779,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183667,
+      "num": 183667,
+      "word": "万千惠用母乳救助了14个早产儿",
+      "onboard_time": 1755155482,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183312,
       "num": 183312,
       "word": "第五人格",
       "onboard_time": 1755141981,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180170,
+      "num": 398334,
+      "word": "女子拿100万加盟咖啡店半年亏200万",
+      "onboard_time": 1755153803,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179945,
@@ -835,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166766,
+      "num": 166766,
+      "word": "杨幂喊话姚晨这爹你也熟",
+      "onboard_time": 1755155062,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166473,
       "num": 166473,
       "word": "关晓彤李昀锐打高尔夫路透",
@@ -907,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157124,
-      "num": 157124,
-      "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
-      "onboard_time": 1755154102,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 155588,
       "num": 155588,
       "word": "父母不让远嫁的12年婚姻生活",
@@ -961,6 +1009,22 @@
       "onboard_time": 1755135621,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 150211,
+      "num": 150211,
+      "word": "时代少年团抽卡抽出纠缠宿命感",
+      "onboard_time": 1755156263,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 150086,
+      "num": 168813,
+      "word": "涨了5毛钱后康师傅饮料少卖7亿",
+      "onboard_time": 1755154342,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149686,
@@ -1011,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140600,
-      "num": 398334,
-      "word": "女子拿100万加盟咖啡店半年亏200万",
-      "onboard_time": 1755153803,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139681,
       "num": 139681,
       "word": "我宣布这个不亚于图书馆30秒",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1755148943,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 135462,
+      "num": 135462,
+      "word": "真的建议大家要多发朋友圈",
+      "onboard_time": 1755156083,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 135017,
@@ -1081,14 +1145,6 @@
       "onboard_time": 1755091945,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 129995,
-      "num": 129995,
-      "word": "黄子韬训斥徐艺洋露腿",
-      "onboard_time": 1755154402,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 129240,
@@ -1227,14 +1283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120663,
-      "num": 120663,
-      "word": "涨了5毛钱后康师傅饮料少卖7亿",
-      "onboard_time": 1755154342,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119562,
       "num": 119562,
       "word": "吃饭时不要和戴牙套的人交流",
@@ -1251,12 +1299,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118370,
+      "num": 118370,
+      "word": "韩国生育率下降对孩子的影响",
+      "onboard_time": 1755156263,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118346,
       "num": 139911,
       "word": "在密室大逃脱看到女性互助之光",
       "onboard_time": 1755144383,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117783,
+      "num": 117783,
+      "word": "张康乐顶着帅脸搞男绿茶勾当",
+      "onboard_time": 1755155482,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 117327,
@@ -1283,6 +1347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 115689,
+      "num": 115689,
+      "word": "教师选调拟录取多名10分以下考生",
+      "onboard_time": 1755156382,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115254,
       "num": 115254,
       "word": "南京震感",
@@ -1297,6 +1369,14 @@
       "onboard_time": 1755130521,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114745,
+      "num": 114745,
+      "word": "迪丽热巴向所有打拐警察致敬",
+      "onboard_time": 1755155963,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 111660,
@@ -1337,6 +1417,14 @@
       "onboard_time": 1755137120,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110222,
+      "num": 110222,
+      "word": "这是蒲巴甲还是王力宏",
+      "onboard_time": 1755155784,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 110036,
@@ -1401,6 +1489,14 @@
       "onboard_time": 1755122955,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106064,
+      "num": 106064,
+      "word": "天才女友",
+      "onboard_time": 1755154644,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 106019,
@@ -1723,6 +1819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 72063,
+      "num": 222330,
+      "word": "香港黑雨警告破纪录",
+      "onboard_time": 1755154942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71513,
       "num": 144219,
       "word": "生万物爱奇艺热度破6500",
@@ -1759,6 +1863,14 @@
       "num": 125744,
       "word": "业主投诉小区有超200家无证民宿",
       "onboard_time": 1755143003,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63535,
+      "num": 113896,
+      "word": "落马官员用政府服务器挖比特币不实",
+      "onboard_time": 1755156443,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -1803,12 +1915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43553,
+      "num": 222595,
+      "word": "残疾少年在录取通知书送达前病逝",
+      "onboard_time": 1755155722,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42914,
       "num": 65374,
       "word": "提名演唱会的神级现场",
       "onboard_time": 1755105438,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42182,
+      "num": 104000,
+      "word": "男子直播家暴残疾人妻子系谣言",
+      "onboard_time": 1755156382,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40355,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1755156496603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2121645,
+        "num": 2121645,
+        "word": "女儿调座椅压死儿子家长索赔车企",
+        "onboard_time": 1755151403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1677461,
+        "num": 1677461,
+        "word": "黄子韬训斥徐艺洋露腿",
+        "onboard_time": 1755154402,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38330,
+        "num": 1179543,
+        "word": "台风杨柳在福建沿海登陆",
+        "onboard_time": 1755133223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 953559,
+        "num": 953559,
+        "word": "9.9元咖啡正在杀死独立店",
+        "onboard_time": 1755150443,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876200,
+        "num": 876200,
+        "word": "黄景瑜新签的艺人包洪瑜",
+        "onboard_time": 1755153322,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490095,
+        "num": 490095,
+        "word": "长期焦虑 身体炎症",
+        "onboard_time": 1755153023,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 569659,
+        "num": 474969,
+        "word": "黄子韬说听泉赏宝掉钱眼里了",
+        "onboard_time": 1755150263,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423561,
+        "num": 423561,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755153383,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 417611,
+        "num": 417611,
+        "word": "杨幂把生活物资留给焦俊艳",
+        "onboard_time": 1755152543,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348648,
+        "num": 348648,
+        "word": "P人永远不懂J人的行李箱",
+        "onboard_time": 1755149543,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388365,
+        "num": 348574,
+        "word": "男子称买避孕药付款失败被撞破出轨",
+        "onboard_time": 1755132861,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325109,
+        "num": 325109,
+        "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
+        "onboard_time": 1755154102,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294592,
+        "num": 294592,
+        "word": "女子带5孩点一碗面多次免费续面",
+        "onboard_time": 1755144684,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282729,
+        "num": 282729,
+        "word": "顾客误将日料套餐当自助餐消费4302元",
+        "onboard_time": 1755142522,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265076,
+        "num": 265076,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248658,
+        "num": 248658,
+        "word": "四六级查分时间",
+        "onboard_time": 1755144863,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258802,
+        "num": 240570,
+        "word": "鹿晗 谁哭下次别来了啊",
+        "onboard_time": 1755148883,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222669,
+        "num": 222669,
+        "word": "郑爽影视剧出品方被执行565万",
+        "onboard_time": 1755144805,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43553,
+        "num": 222595,
+        "word": "残疾少年在录取通知书送达前病逝",
+        "onboard_time": 1755155722,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72063,
+        "num": 222330,
+        "word": "香港黑雨警告破纪录",
+        "onboard_time": 1755154942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 828999,
+        "num": 221738,
+        "word": "医生说B罩杯以下可以不穿内衣",
+        "onboard_time": 1755147264,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 230809,
+        "num": 221532,
+        "word": "建议一天一换内裤的原因",
+        "onboard_time": 1755154883,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221368,
+        "num": 221368,
+        "word": "这就是朋友和好朋友的区别",
+        "onboard_time": 1755155303,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201895,
+        "num": 201895,
+        "word": "王一博起诉莆田鞋",
+        "onboard_time": 1755144863,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198972,
+        "num": 198972,
+        "word": "花儿与少年",
+        "onboard_time": 1755151043,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183667,
+        "num": 183667,
+        "word": "万千惠用母乳救助了14个早产儿",
+        "onboard_time": 1755155482,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180170,
+        "num": 180170,
+        "word": "女子拿100万加盟咖啡店半年亏200万",
+        "onboard_time": 1755153803,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178515,
+        "num": 178515,
+        "word": "NewJeans成员出庭",
+        "onboard_time": 1755153204,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175910,
+        "num": 175910,
+        "word": "建议大家保持微胖身材",
+        "onboard_time": 1755142764,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150086,
+        "num": 168813,
+        "word": "涨了5毛钱后康师傅饮料少卖7亿",
+        "onboard_time": 1755154342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166766,
+        "num": 166766,
+        "word": "杨幂喊话姚晨这爹你也熟",
+        "onboard_time": 1755155062,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150211,
+        "num": 150211,
+        "word": "时代少年团抽卡抽出纠缠宿命感",
+        "onboard_time": 1755156263,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144704,
+        "num": 144704,
+        "word": "iPhone长按的隐藏功能",
+        "onboard_time": 1755153082,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135462,
+        "num": 135462,
+        "word": "真的建议大家要多发朋友圈",
+        "onboard_time": 1755156083,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122676,
+        "num": 122676,
+        "word": "管乐用脚把张小婉举起来",
+        "onboard_time": 1755152843,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118370,
+        "num": 118370,
+        "word": "韩国生育率下降对孩子的影响",
+        "onboard_time": 1755156263,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117783,
+        "num": 117783,
+        "word": "张康乐顶着帅脸搞男绿茶勾当",
+        "onboard_time": 1755155482,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115689,
+        "num": 115689,
+        "word": "教师选调拟录取多名10分以下考生",
+        "onboard_time": 1755156382,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114745,
+        "num": 114745,
+        "word": "迪丽热巴向所有打拐警察致敬",
+        "onboard_time": 1755155963,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63535,
+        "num": 113896,
+        "word": "落马官员用政府服务器挖比特币不实",
+        "onboard_time": 1755156443,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113092,
+        "num": 113092,
+        "word": "傅首尔 浪浪山小妖怪",
+        "onboard_time": 1755140543,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111538,
+        "num": 111538,
+        "word": "王者荣耀新皮肤",
+        "onboard_time": 1755140602,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110650,
+        "num": 110650,
+        "word": "微信聊天可引用部分文字了",
+        "onboard_time": 1755153322,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110222,
+        "num": 110222,
+        "word": "这是蒲巴甲还是王力宏",
+        "onboard_time": 1755155784,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109996,
+        "num": 109996,
+        "word": "求婚王珞丹男子被曝曾骚扰迪丽热巴",
+        "onboard_time": 1755143363,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107337,
+        "num": 107337,
+        "word": "团伙引诱男性发生关系留下抓痕报警",
+        "onboard_time": 1755141262,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104013,
+        "num": 106513,
+        "word": "生万物",
+        "onboard_time": 1755143603,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106064,
+        "num": 106064,
+        "word": "天才女友",
+        "onboard_time": 1755154644,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104731,
+        "num": 104731,
+        "word": "建议每一位普通人都尽早用上AI",
+        "onboard_time": 1755153142,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42182,
+        "num": 104000,
+        "word": "男子直播家暴残疾人妻子系谣言",
+        "onboard_time": 1755156382,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念提出20年#"
+    }
+  }
+}
