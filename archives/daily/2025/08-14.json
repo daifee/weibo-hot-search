@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755143840676,
+  "endTime": 1755146282350,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2330012,
-      "num": 338268,
+      "num": 370601,
       "word": "男子称买避孕药付款失败被撞破出轨",
       "onboard_time": 1755132861,
       "rank": 10,
@@ -35,12 +35,28 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 1340693,
+      "num": 1340693,
+      "word": "女子备孕10年生下宝宝患尿毒症",
+      "onboard_time": 1755142402,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1262820,
       "num": 166333,
       "word": "赵露思后援会发文",
       "onboard_time": 1755097584,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1028938,
+      "num": 1028938,
+      "word": "顾客误将日料套餐当自助餐消费4302元",
+      "onboard_time": 1755142522,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 958586,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 828319,
-      "num": 336821,
+      "num": 370421,
       "word": "网友韩国偶遇王安宇",
       "onboard_time": 1755140243,
       "rank": 11,
@@ -91,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 810804,
-      "num": 810804,
-      "word": "女子备孕10年生下宝宝患尿毒症",
-      "onboard_time": 1755142402,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 813458,
+      "num": 813458,
+      "word": "求婚王珞丹男子被曝曾骚扰迪丽热巴",
+      "onboard_time": 1755143363,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 794911,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 721002,
-      "num": 233224,
+      "num": 266458,
       "word": "傅首尔 浪浪山小妖怪",
       "onboard_time": 1755140543,
       "rank": 20,
@@ -171,12 +187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 464441,
-      "num": 464441,
-      "word": "顾客误将日料套餐当自助餐消费4302元",
-      "onboard_time": 1755142522,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 482178,
+      "num": 482178,
+      "word": "建议大家保持微胖身材",
+      "onboard_time": 1755142764,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 459252,
@@ -217,6 +233,30 @@
       "onboard_time": 1755110235,
       "rank": 4,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 370719,
+      "num": 370719,
+      "word": "李沁 眉姐姐穿搭",
+      "onboard_time": 1755144142,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 369894,
+      "num": 369894,
+      "word": "男生带五粮液上高铁被拦当场喝完",
+      "onboard_time": 1755141863,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354233,
+      "num": 354233,
+      "word": "王一博起诉莆田鞋",
+      "onboard_time": 1755144863,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 333855,
@@ -283,12 +323,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260898,
-      "num": 319934,
-      "word": "男生带五粮液上高铁被拦当场喝完",
-      "onboard_time": 1755141863,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 279281,
+      "num": 279281,
+      "word": "郑爽影视剧出品方被执行565万",
+      "onboard_time": 1755144805,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 278053,
+      "num": 278053,
+      "word": "杨幂秦海璐你俩根本没喝中药",
+      "onboard_time": 1755144743,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 276965,
+      "num": 276965,
+      "word": "白敬亭提名全球流媒体奖最佳男主",
+      "onboard_time": 1755141981,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 257257,
@@ -307,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248262,
+      "num": 248262,
+      "word": "生万物",
+      "onboard_time": 1755085404,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239611,
       "num": 239611,
       "word": "Gemini",
@@ -323,14 +387,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 229855,
-      "num": 229855,
-      "word": "建议大家保持微胖身材",
-      "onboard_time": 1755142764,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 229018,
       "num": 229018,
       "word": "男子转账3500元备注彩礼要求返还被驳回",
@@ -339,8 +395,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226224,
+      "num": 226224,
+      "word": "沸羊羊娶了美羊羊揍了喜羊羊",
+      "onboard_time": 1755145525,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225777,
+      "num": 225777,
+      "word": "四六级查分时间",
+      "onboard_time": 1755144863,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 220921,
-      "num": 295319,
+      "num": 882737,
       "word": "台风杨柳在福建沿海登陆",
       "onboard_time": 1755133223,
       "rank": 9,
@@ -353,6 +425,14 @@
       "onboard_time": 1755128421,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213511,
+      "num": 213511,
+      "word": "杨洋谈这两年的沉潜与成长",
+      "onboard_time": 1755144982,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 213326,
@@ -443,12 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194335,
-      "num": 236623,
-      "word": "白敬亭提名全球流媒体奖最佳男主",
-      "onboard_time": 1755141981,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 194234,
+      "num": 194234,
+      "word": "账号自称军嫂暴露敏感信息被处置",
+      "onboard_time": 1755143603,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193095,
@@ -481,14 +561,6 @@
       "onboard_time": 1755141022,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189449,
-      "num": 214313,
-      "word": "生万物",
-      "onboard_time": 1755085404,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 183312,
@@ -531,14 +603,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171122,
-      "num": 171122,
-      "word": "求婚王珞丹男子被曝曾骚扰迪丽热巴",
-      "onboard_time": 1755143363,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169874,
       "num": 169874,
       "word": "神二十乘组要第三次出舱了",
@@ -571,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162742,
+      "num": 162742,
+      "word": "赵立坚发了邓为",
+      "onboard_time": 1755143483,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160811,
       "num": 214449,
       "word": "金建希在看守所每餐餐标约9元人民币",
@@ -584,6 +656,22 @@
       "word": "华裔女生参加毕业典礼被印度人包围了",
       "onboard_time": 1755135801,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157636,
+      "num": 157636,
+      "word": "女子带5孩点一碗面多次免费续面",
+      "onboard_time": 1755144684,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156641,
+      "num": 156641,
+      "word": "教育局通报学校给学生发百万奖金违规",
+      "onboard_time": 1755145164,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -659,6 +747,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141064,
+      "num": 141064,
+      "word": "如果四点下班真的太幸福了",
+      "onboard_time": 1755145045,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 139681,
+      "num": 139681,
+      "word": "我宣布这个不亚于图书馆30秒",
+      "onboard_time": 1755144563,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135017,
       "num": 169887,
       "word": "披荆斩棘5淘汰",
@@ -667,12 +771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134257,
-      "num": 134257,
-      "word": "赵立坚发了邓为",
-      "onboard_time": 1755143483,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 134308,
+      "num": 134308,
+      "word": "731部队罪行重要铁证曝光",
+      "onboard_time": 1755140602,
+      "rank": 42,
+      "category": "正能量"
     },
     {
       "raw_hot": 132449,
@@ -681,6 +785,14 @@
       "onboard_time": 1755135680,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131482,
+      "num": 131482,
+      "word": "84岁老人和保姆结婚4个子女全不知",
+      "onboard_time": 1755145045,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131269,
@@ -707,12 +819,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126608,
+      "num": 126608,
+      "word": "韩国男性热衷去日本相亲",
+      "onboard_time": 1755144022,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125121,
       "num": 125121,
       "word": "台风",
       "onboard_time": 1755093985,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124923,
+      "num": 124923,
+      "word": "献鱼OST阵容",
+      "onboard_time": 1755144443,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 124396,
@@ -753,6 +881,30 @@
       "onboard_time": 1755098064,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119352,
+      "num": 119352,
+      "word": "Lisa坂口健太郎微电影",
+      "onboard_time": 1755146244,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 118796,
+      "num": 118796,
+      "word": "建议在大学一定要去谈恋爱",
+      "onboard_time": 1755142700,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118346,
+      "num": 139911,
+      "word": "在密室大逃脱看到女性互助之光",
+      "onboard_time": 1755144383,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 117156,
@@ -867,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106690,
-      "num": 106690,
-      "word": "账号自称军嫂暴露敏感信息被处置",
-      "onboard_time": 1755143603,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106181,
       "num": 106181,
       "word": "天猫娃哈哈旗舰店改名引出售猜测",
@@ -889,14 +1033,6 @@
       "onboard_time": 1755140243,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 105777,
-      "num": 105777,
-      "word": "建议在大学一定要去谈恋爱",
-      "onboard_time": 1755142700,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 105135,
@@ -1139,6 +1275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 72093,
+      "num": 194612,
+      "word": "爆胎测试还得高管亲自上",
+      "onboard_time": 1755144624,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 71513,
       "num": 144219,
       "word": "生万物爱奇艺热度破6500",
@@ -1195,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51872,
+      "num": 266592,
+      "word": "官方通报男子直播家暴残疾人妻子",
+      "onboard_time": 1755145884,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51753,
       "num": 66057,
       "word": "研究生终于迎来了迷你暑假",
@@ -1216,6 +1368,14 @@
       "word": "6000多买的遮阳帽起泡不予维修",
       "onboard_time": 1755141741,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43362,
+      "num": 157678,
+      "word": "日料店回应顾客误当自助餐消费4302元",
+      "onboard_time": 1755146064,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
