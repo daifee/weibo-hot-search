@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755193422777,
+  "endTime": 1755196739174,
   "band_list": [
     {
       "raw_hot": 1251394,
@@ -467,11 +467,51 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30072,
+      "num": 30072,
+      "word": "原来歌曲恭喜恭喜是庆祝抗战胜利",
+      "onboard_time": 1755194357,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28199,
       "num": 518734,
       "word": "丝路万里一路向前",
       "onboard_time": 1755185544,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25307,
+      "num": 25307,
+      "word": "NBA球星库里还有三天抵达重庆",
+      "onboard_time": 1755194056,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24003,
+      "num": 64896,
+      "word": "平凡日常里记得好好爱自己",
+      "onboard_time": 1755193636,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22910,
+      "num": 22910,
+      "word": "俄美总统会晤后将举行联合记者会",
+      "onboard_time": 1755196035,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21767,
+      "num": 22906,
+      "word": "高校需重视校园矛盾避免悲剧重演",
+      "onboard_time": 1755195736,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
