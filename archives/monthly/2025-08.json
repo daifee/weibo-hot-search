@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755168489848,
+  "endTime": 1755170657244,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2171835,
+      "num": 2171835,
+      "word": "7k7k 4399",
+      "onboard_time": 1755165862,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 2152958,
       "num": 2152958,
       "word": "汪苏泷婉拒了王源提议",
@@ -729,14 +737,6 @@
       "onboard_time": 1754384963,
       "rank": 1,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 1923008,
-      "num": 1923008,
-      "word": "7k7k 4399",
-      "onboard_time": 1755165862,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 1907214,
@@ -5667,6 +5667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 592396,
+      "num": 288928,
+      "word": "郭德纲说已经卑微到看郭麒麟脸色",
+      "onboard_time": 1755166881,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591023,
       "num": 591023,
       "word": "丁肇忠去世",
@@ -6569,6 +6577,14 @@
       "onboard_time": 1755157343,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 524038,
+      "num": 524038,
+      "word": "浪浪山",
+      "onboard_time": 1754148089,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 523770,
@@ -8939,6 +8955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386683,
+      "num": 386683,
+      "word": "四六级",
+      "onboard_time": 1755166943,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 386551,
       "num": 262676,
       "word": "侯明昊后台换衣被直播了",
@@ -9411,6 +9435,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 365380,
+      "num": 365380,
+      "word": "马思纯解释不当导游的原因",
+      "onboard_time": 1755164601,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365344,
       "num": 262974,
       "word": "lemon 复仇味",
@@ -9832,14 +9864,6 @@
       "word": "刘惜君 帮唱",
       "onboard_time": 1754383825,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 346400,
-      "num": 285064,
-      "word": "马思纯解释不当导游的原因",
-      "onboard_time": 1755164601,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -11283,14 +11307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 295382,
-      "num": 295382,
-      "word": "四六级",
-      "onboard_time": 1755166943,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 295322,
       "num": 295322,
       "word": "阿姨吹一周空调严重呼吸衰竭",
@@ -11539,6 +11555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287019,
+      "num": 287019,
+      "word": "披荆斩棘直播",
+      "onboard_time": 1755165681,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286932,
       "num": 177133,
       "word": "Aaaaapple品牌严正声明",
@@ -11729,14 +11753,6 @@
       "onboard_time": 1754279484,
       "rank": 22,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 279562,
-      "num": 279562,
-      "word": "披荆斩棘直播",
-      "onboard_time": 1755165681,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 279381,
@@ -12049,6 +12065,14 @@
       "onboard_time": 1754388384,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 271983,
+      "num": 285612,
+      "word": "追授尹春燕北京市优秀共产党员",
+      "onboard_time": 1755167604,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271842,
@@ -13739,14 +13763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233919,
-      "num": 214239,
-      "word": "浪浪山",
-      "onboard_time": 1754148089,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 233870,
       "num": 272107,
       "word": "蔡徐坤新歌MV",
@@ -13809,14 +13825,6 @@
       "onboard_time": 1754808920,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232739,
-      "num": 232739,
-      "word": "郭德纲说已经卑微到看郭麒麟脸色",
-      "onboard_time": 1755166881,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 232582,
@@ -13963,6 +13971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229928,
+      "num": 229928,
+      "word": "又一个星二代发歌了",
+      "onboard_time": 1755168262,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 229772,
       "num": 229772,
       "word": "公主抱 祁煜",
@@ -14105,14 +14121,6 @@
       "onboard_time": 1754051542,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228143,
-      "num": 285612,
-      "word": "追授尹春燕北京市优秀共产党员",
-      "onboard_time": 1755167604,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228084,
@@ -16115,6 +16123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204849,
+      "num": 204849,
+      "word": "孟子义行走的红玫瑰",
+      "onboard_time": 1755169642,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204739,
       "num": 204739,
       "word": "广东特大暴雨即将来袭",
@@ -16345,6 +16361,14 @@
       "onboard_time": 1754821642,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202923,
+      "num": 202923,
+      "word": "杨幂说会为女儿成为更好的人",
+      "onboard_time": 1755168143,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 202881,
@@ -18083,6 +18107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192305,
+      "num": 192305,
+      "word": "终于看到艺人全员长嘴的综艺了",
+      "onboard_time": 1755170122,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192293,
       "num": 192293,
       "word": "狼队第五人格",
@@ -19425,14 +19457,6 @@
       "onboard_time": 1754817621,
       "rank": 25,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 182689,
-      "num": 182689,
-      "word": "杨幂说会为女儿成为更好的人",
-      "onboard_time": 1755168143,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 182615,
@@ -22547,6 +22571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162282,
+      "num": 162282,
+      "word": "A股两市超4600股下跌",
+      "onboard_time": 1755170302,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162256,
       "num": 258949,
       "word": "台风杨柳最强可达台风级",
@@ -23385,6 +23417,14 @@
       "onboard_time": 1754113042,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158257,
+      "num": 144361,
+      "word": "张本智和和国乒交手记录",
+      "onboard_time": 1755170242,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 158219,
@@ -26307,6 +26347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144070,
+      "num": 144070,
+      "word": "刘学义直播",
+      "onboard_time": 1755170422,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144052,
       "num": 144052,
       "word": "连云港队泰州队违规违纪被处罚",
@@ -26353,6 +26401,14 @@
       "onboard_time": 1754563044,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143760,
+      "num": 143760,
+      "word": "建议孕期少吃水果",
+      "onboard_time": 1755169163,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143688,
@@ -26593,6 +26649,14 @@
       "onboard_time": 1754005760,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142624,
+      "num": 289596,
+      "word": "硕士宿舍投毒意图杀害两名室友",
+      "onboard_time": 1755169882,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142581,
@@ -27105,6 +27169,14 @@
       "onboard_time": 1754756962,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140915,
+      "num": 140915,
+      "word": "全玻璃iPhone",
+      "onboard_time": 1755170182,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 140851,
@@ -28209,6 +28281,14 @@
       "onboard_time": 1754562863,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 136811,
+      "num": 136811,
+      "word": "刘耀文集体责任感好强",
+      "onboard_time": 1755170242,
+      "rank": 35,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 136772,
@@ -32443,6 +32523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121976,
+      "num": 121976,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1755170602,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121965,
       "num": 121965,
       "word": "大熊猫丫丫25岁生日",
@@ -34755,6 +34843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113507,
+      "num": 113507,
+      "word": "杨超越绿色系九宫格",
+      "onboard_time": 1755170602,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113501,
       "num": 113501,
       "word": "好标致的小猫小狗",
@@ -37035,6 +37131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104841,
+      "num": 104841,
+      "word": "最痛的bg拥抱是咬进骨血里的",
+      "onboard_time": 1755170422,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104798,
       "num": 104798,
       "word": "身份证能加电子水印了",
@@ -39003,6 +39107,14 @@
       "category": "美食,休闲"
     },
     {
+      "raw_hot": 95314,
+      "num": 145121,
+      "word": "管乐回应董璇",
+      "onboard_time": 1755167062,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95190,
       "num": 117861,
       "word": "精神病史不是免罪金牌",
@@ -39753,14 +39865,6 @@
       "onboard_time": 1754398285,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90638,
-      "num": 131669,
-      "word": "管乐回应董璇",
-      "onboard_time": 1755167062,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 90565,
@@ -42763,6 +42867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59724,
+      "num": 113806,
+      "word": "周立人被宣判被害人好友激动落泪",
+      "onboard_time": 1755169461,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59508,
       "num": 165888,
       "word": "北京发洪水蓝色预警",
@@ -43169,14 +43281,6 @@
       "onboard_time": 1754550143,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55964,
-      "num": 176123,
-      "word": "又一个星二代发歌了",
-      "onboard_time": 1755168262,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 55712,
@@ -45371,6 +45475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34903,
+      "num": 144384,
+      "word": "太原一公交候车棚倒塌1人受伤送医",
+      "onboard_time": 1755169343,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34865,
       "num": 26569,
       "word": "王楚钦张本智和颁奖",
@@ -45497,6 +45609,14 @@
       "onboard_time": 1754652861,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33228,
+      "num": 115222,
+      "word": "特朗普又威胁普京",
+      "onboard_time": 1755169521,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33220,
@@ -47011,6 +47131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16961,
+      "num": 725867,
+      "word": "2025中国AI盛典",
+      "onboard_time": 1755097524,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16858,
       "num": 377511,
       "word": "谢霆锋高空直播",
@@ -47666,6 +47794,9 @@
     },
     {
       "word": "#两山理念提出20年#"
+    },
+    {
+      "word": "#绿水青山瞰我家#"
     }
   ]
 }
