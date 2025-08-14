@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755157348556,
+  "endTime": 1755160611235,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1331831,
+      "num": 1331831,
+      "word": "建议一天一换内裤的原因",
+      "onboard_time": 1755154883,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1262820,
       "num": 166333,
       "word": "赵露思后援会发文",
@@ -97,6 +105,14 @@
       "onboard_time": 1755153322,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 992008,
+      "num": 992008,
+      "word": "尹春燕遗体被找到",
+      "onboard_time": 1755159143,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 986437,
@@ -169,6 +185,14 @@
       "onboard_time": 1755143363,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 807986,
+      "num": 541385,
+      "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
+      "onboard_time": 1755154102,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 794911,
@@ -267,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 541385,
-      "num": 541385,
-      "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
-      "onboard_time": 1755154102,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 508868,
       "num": 508868,
       "word": "王者荣耀新皮肤",
@@ -363,6 +379,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 388174,
+      "num": 388174,
+      "word": "沈梦瑶cha了刀马刀马",
+      "onboard_time": 1755159442,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370719,
       "num": 370719,
       "word": "李沁 眉姐姐穿搭",
@@ -377,6 +401,14 @@
       "onboard_time": 1755141863,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350712,
+      "num": 219965,
+      "word": "王橹杰网易云",
+      "onboard_time": 1755158543,
+      "rank": 22,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 333855,
@@ -408,6 +440,14 @@
       "word": "慰安妇制度受害奶奶的笑令人心痛",
       "onboard_time": 1755129440,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314487,
+      "num": 415542,
+      "word": "教师选调拟录取多名10分以下考生",
+      "onboard_time": 1755156382,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -457,14 +497,6 @@
       "onboard_time": 1755101542,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286348,
-      "num": 286348,
-      "word": "建议一天一换内裤的原因",
-      "onboard_time": 1755154883,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 276965,
@@ -539,12 +571,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 233574,
+      "num": 233574,
+      "word": "请内娱女团宣发朝这个标准看齐",
+      "onboard_time": 1755156803,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229018,
       "num": 229018,
       "word": "男子转账3500元备注彩礼要求返还被驳回",
       "onboard_time": 1755087623,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225198,
+      "num": 225198,
+      "word": "0713大哥不好惹二哥更是惹不起",
+      "onboard_time": 1755159862,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 221368,
@@ -563,11 +611,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218709,
+      "num": 218709,
+      "word": "英国一航班因婴儿哭闹引发斗殴",
+      "onboard_time": 1755157343,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 218181,
       "num": 218181,
       "word": "韩国男性热衷去日本相亲",
       "onboard_time": 1755144022,
       "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 216513,
+      "num": 216513,
+      "word": "韩国生育率下降对孩子的影响",
+      "onboard_time": 1755156263,
+      "rank": 35,
       "category": "海外新闻"
     },
     {
@@ -691,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 197573,
+      "num": 223880,
+      "word": "杨幂下一条微博就这么发",
+      "onboard_time": 1755159143,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197094,
       "num": 197094,
       "word": "台风杨柳最新路径",
@@ -763,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189576,
+      "num": 223169,
+      "word": "大牙离婚",
+      "onboard_time": 1755157044,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189257,
       "num": 189257,
       "word": "杨幂给惠英红剧组送了咖啡",
@@ -776,14 +856,6 @@
       "word": "连亏15年的博主称快回本了",
       "onboard_time": 1755153142,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186709,
-      "num": 415542,
-      "word": "教师选调拟录取多名10分以下考生",
-      "onboard_time": 1755156382,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -841,6 +913,14 @@
       "onboard_time": 1755141502,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175522,
+      "num": 175522,
+      "word": "涨了5毛钱后康师傅饮料少卖7亿",
+      "onboard_time": 1755154342,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175206,
@@ -907,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167210,
-      "num": 167210,
-      "word": "请内娱女团宣发朝这个标准看齐",
-      "onboard_time": 1755156803,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166473,
       "num": 166473,
       "word": "关晓彤李昀锐打高尔夫路透",
@@ -971,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159118,
+      "num": 159118,
+      "word": "85花总能播一部剧立马回血",
+      "onboard_time": 1755158003,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159059,
       "num": 159059,
       "word": "戚薇发型基础穿搭就不基础",
@@ -985,14 +1065,6 @@
       "onboard_time": 1755150802,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158292,
-      "num": 168813,
-      "word": "涨了5毛钱后康师傅饮料少卖7亿",
-      "onboard_time": 1755154342,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155917,
@@ -1083,14 +1155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145095,
-      "num": 145095,
-      "word": "韩国生育率下降对孩子的影响",
-      "onboard_time": 1755156263,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 144637,
       "num": 144637,
       "word": "金瀚周峻纬新剧一身大佬味",
@@ -1115,12 +1179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142036,
+      "num": 142036,
+      "word": "郁可唯爆咳哮喘发作",
+      "onboard_time": 1755159682,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141988,
       "num": 222595,
       "word": "残疾少年在录取通知书送达前病逝",
       "onboard_time": 1755155722,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140624,
+      "num": 140624,
+      "word": "238斤到97斤的20年减肥血泪史",
+      "onboard_time": 1755156861,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 139681,
@@ -1177,6 +1257,14 @@
       "onboard_time": 1755135680,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131645,
+      "num": 131645,
+      "word": "阚清子说能穿进去的衣服不多了",
+      "onboard_time": 1755157223,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131482,
@@ -1243,12 +1331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126009,
-      "num": 126009,
-      "word": "大牙离婚",
-      "onboard_time": 1755157044,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 126326,
+      "num": 126326,
+      "word": "俄罗斯托夫市中心发生强烈爆炸",
+      "onboard_time": 1755158304,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125424,
@@ -1347,20 +1435,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119845,
+      "num": 119845,
+      "word": "南宁一区发现8例基孔肯雅热病例",
+      "onboard_time": 1755158723,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119562,
       "num": 119562,
       "word": "吃饭时不要和戴牙套的人交流",
       "onboard_time": 1755152122,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118995,
-      "num": 118995,
-      "word": "238斤到97斤的20年减肥血泪史",
-      "onboard_time": 1755156861,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 118796,
@@ -1427,12 +1515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113308,
+      "num": 142076,
+      "word": "格陵兰岛三百万年冰川轰然倒塌",
+      "onboard_time": 1755157283,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 111660,
       "num": 111660,
       "word": "金建希接受被捕后首次调查",
       "onboard_time": 1755134122,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111655,
+      "num": 111655,
+      "word": "张晚意不是洋气是羊气",
+      "onboard_time": 1755160343,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 111122,
@@ -1444,7 +1548,7 @@
     },
     {
       "raw_hot": 110637,
-      "num": 737079,
+      "num": 1033521,
       "word": "她们直到去世也没等到道歉",
       "onboard_time": 1755128120,
       "rank": 45,
@@ -1489,6 +1593,14 @@
       "onboard_time": 1755092186,
       "rank": 27,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 109929,
+      "num": 140748,
+      "word": "利剑玫瑰穿帮镜头",
+      "onboard_time": 1755160523,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 109520,
@@ -1595,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103458,
+      "num": 103458,
+      "word": "巴黎合伙人",
+      "onboard_time": 1755159382,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103397,
       "num": 103397,
       "word": "歌手2025评分3.8分",
@@ -1697,6 +1817,14 @@
       "onboard_time": 1755070041,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 95093,
+      "num": 141291,
+      "word": "C罗随队抵达中国香港",
+      "onboard_time": 1755160102,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 93907,
@@ -1939,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57092,
+      "num": 222068,
+      "word": "贾冰好油",
+      "onboard_time": 1755157162,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55047,
       "num": 150405,
       "word": "医生持弓箭射杀流浪猫引公愤",
@@ -1971,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43794,
+      "num": 224557,
+      "word": "广东已有多地发布暴雨预警",
+      "onboard_time": 1755158963,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42914,
       "num": 65374,
       "word": "提名演唱会的神级现场",
@@ -1993,6 +2137,14 @@
       "onboard_time": 1755076644,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37902,
+      "num": 188838,
+      "word": "声乐高手在郑州唱响黄河",
+      "onboard_time": 1755159263,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 37664,
@@ -2019,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36399,
+      "num": 187727,
+      "word": "柯达35亿元债务目前无法偿付",
+      "onboard_time": 1755160343,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34557,
       "num": 65872,
       "word": "下河电鱼身亡4名同伴赔偿13.5万",
@@ -2027,28 +2187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33753,
-      "num": 205767,
-      "word": "贾冰好油",
-      "onboard_time": 1755157162,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32361,
       "num": 65846,
       "word": "太原晋祠火爆景区开中门迎客",
       "onboard_time": 1755123976,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 32198,
-      "num": 142076,
-      "word": "格陵兰岛三百万年冰川轰然倒塌",
-      "onboard_time": 1755157283,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 31098,
