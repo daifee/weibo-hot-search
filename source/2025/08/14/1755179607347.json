@@ -1,0 +1,410 @@
+{
+  "runTime": 1755179607347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1736936,
+        "num": 1736936,
+        "word": "日本人因南京大屠杀史料羞愧愤怒",
+        "onboard_time": 1755175582,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1179693,
+        "num": 1179693,
+        "word": "7k7k 4399",
+        "onboard_time": 1755165862,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26767,
+        "num": 999043,
+        "word": "2025中国AI盛典",
+        "onboard_time": 1755097524,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965841,
+        "num": 965841,
+        "word": "赵今麦魏大勋牵手散步路透",
+        "onboard_time": 1755175463,
+        "rank": 3,
+        "category": "剧集,剧集"
+      },
+      {
+        "raw_hot": 936357,
+        "num": 936357,
+        "word": "封大脚 梁宽植",
+        "onboard_time": 1755177264,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 693382,
+        "num": 693382,
+        "word": "印度洋上空现10个神秘黑暗空洞",
+        "onboard_time": 1755176244,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 517454,
+        "num": 517454,
+        "word": "硕士宿舍投毒意图杀害两名室友",
+        "onboard_time": 1755169882,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504097,
+        "num": 504097,
+        "word": "郭德纲说已经卑微到看郭麒麟脸色",
+        "onboard_time": 1755166881,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476668,
+        "num": 476668,
+        "word": "王一博香奈儿活动生图",
+        "onboard_time": 1755176183,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67312,
+        "num": 473564,
+        "word": "中国人民抗战胜利80周年",
+        "onboard_time": 1755178584,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1845084,
+        "num": 468447,
+        "word": "邱泽许玮甯宝宝出生",
+        "onboard_time": 1755175463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702614,
+        "num": 463859,
+        "word": "内娱女明星没有丑的",
+        "onboard_time": 1755170963,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589488,
+        "num": 455450,
+        "word": "女儿调座椅压死儿子家长索赔车企",
+        "onboard_time": 1755151403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477207,
+        "num": 454189,
+        "word": "阚清子能穿进去的衣服不多了",
+        "onboard_time": 1755174805,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448745,
+        "num": 448745,
+        "word": "男朋友用几十块的鼠标怎么办",
+        "onboard_time": 1755171503,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 394307,
+        "num": 394307,
+        "word": "糖尿病前期的5个症状",
+        "onboard_time": 1755174563,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 386554,
+        "num": 386554,
+        "word": "生万物",
+        "onboard_time": 1755168504,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317962,
+        "num": 317962,
+        "word": "女儿调座椅压死儿子家长岂能甩锅",
+        "onboard_time": 1755175943,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308974,
+        "num": 308974,
+        "word": "中国男篮vs韩国男篮",
+        "onboard_time": 1755170602,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271700,
+        "num": 271700,
+        "word": "生万物 纯爱番",
+        "onboard_time": 1755179006,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577463,
+        "num": 269603,
+        "word": "浪浪山",
+        "onboard_time": 1755167782,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247588,
+        "num": 247588,
+        "word": "4种早餐被列入高脂名单",
+        "onboard_time": 1755178704,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240487,
+        "num": 240487,
+        "word": "建议一天一换内裤的原因",
+        "onboard_time": 1755154883,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238444,
+        "num": 238444,
+        "word": "全玻璃iPhone",
+        "onboard_time": 1755170182,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237390,
+        "num": 237390,
+        "word": "iPhone17Pro四大升级",
+        "onboard_time": 1755175646,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186556,
+        "num": 237055,
+        "word": "两只蝴蝶下载2亿多次作者挣了5000",
+        "onboard_time": 1755164060,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183797,
+        "num": 225355,
+        "word": "王一博亮相CHANEL蔚蓝之夜活动",
+        "onboard_time": 1755178885,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171215,
+        "num": 222126,
+        "word": "中国男篮时隔10年再进四强",
+        "onboard_time": 1755177384,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142542,
+        "num": 213415,
+        "word": "刘学义这瓜过不去了",
+        "onboard_time": 1755179305,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53297,
+        "num": 204965,
+        "word": "赴美前夕普京发声",
+        "onboard_time": 1755179063,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204166,
+        "num": 204166,
+        "word": "木苏里 人还是不能没有头发",
+        "onboard_time": 1755171262,
+        "rank": 30,
+        "category": "读书作家,动漫"
+      },
+      {
+        "raw_hot": 178306,
+        "num": 178306,
+        "word": "终于看到艺人全员长嘴的综艺了",
+        "onboard_time": 1755170122,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177972,
+        "num": 177972,
+        "word": "男宝星球2",
+        "onboard_time": 1755178885,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176080,
+        "num": 176080,
+        "word": "杨超越绿色系九宫格",
+        "onboard_time": 1755170602,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172741,
+        "num": 172741,
+        "word": "深渊",
+        "onboard_time": 1755174083,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160784,
+        "num": 160784,
+        "word": "原来聊天真的可以产生依赖感情",
+        "onboard_time": 1755178762,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150084,
+        "num": 150084,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755153383,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148613,
+        "num": 148613,
+        "word": "尹春燕遗体被找到",
+        "onboard_time": 1755159143,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139693,
+        "num": 139693,
+        "word": "胡明轩状态",
+        "onboard_time": 1755176304,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129522,
+        "num": 129522,
+        "word": "杨幂生万物首日全端播放量登顶",
+        "onboard_time": 1755176663,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123876,
+        "num": 123876,
+        "word": "女儿调座椅压死儿子不是谁闹谁有理",
+        "onboard_time": 1755177804,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123097,
+        "num": 123097,
+        "word": "绣绣大脚太好嗑了",
+        "onboard_time": 1755179244,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121796,
+        "num": 121796,
+        "word": "笔试1分当初中老师简直误人子弟",
+        "onboard_time": 1755177804,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121267,
+        "num": 121267,
+        "word": "两年了丞磊还是那么能打",
+        "onboard_time": 1755178105,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18366,
+        "num": 118908,
+        "word": "普特会的五大看点",
+        "onboard_time": 1755179484,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121360,
+        "num": 118466,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117803,
+        "num": 117803,
+        "word": "生万物八集办了八件人生大事",
+        "onboard_time": 1755179484,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92491,
+        "num": 116338,
+        "word": "香奈儿蔚蓝之夜明星阵容",
+        "onboard_time": 1755173602,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 116115,
+        "num": 116115,
+        "word": "A股港股两大信号",
+        "onboard_time": 1755176544,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114557,
+        "num": 114557,
+        "word": "张本智和和国乒交手记录",
+        "onboard_time": 1755170242,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
