@@ -1,0 +1,410 @@
+{
+  "runTime": 1755167419983,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1268700,
+        "num": 1268700,
+        "word": "女儿调座椅压死儿子家长索赔车企",
+        "onboard_time": 1755151403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 972746,
+        "num": 972746,
+        "word": "两只蝴蝶下载2亿多次作者挣了5000",
+        "onboard_time": 1755164060,
+        "rank": 1,
+        "category": "音乐,民生新闻"
+      },
+      {
+        "raw_hot": 22405,
+        "num": 905204,
+        "word": "台风杨柳在福建沿海登陆",
+        "onboard_time": 1755133223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877463,
+        "num": 877463,
+        "word": "7k7k 4399",
+        "onboard_time": 1755165862,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 740798,
+        "num": 740798,
+        "word": "尹春燕遗体被找到",
+        "onboard_time": 1755159143,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442992,
+        "num": 442992,
+        "word": "杨幂下一条微博就这么发",
+        "onboard_time": 1755159143,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382908,
+        "num": 382908,
+        "word": "英国一航班因婴儿哭闹引发斗殴",
+        "onboard_time": 1755157343,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 381530,
+        "num": 381530,
+        "word": "赵嘉敏疑似被天才女友换角",
+        "onboard_time": 1755163102,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378421,
+        "num": 378421,
+        "word": "巴基斯坦宣布成立陆军火箭部队司令部",
+        "onboard_time": 1755161543,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165343,
+        "num": 349339,
+        "word": "菲律宾执意侵闯中国黄岩岛附近海域",
+        "onboard_time": 1755165744,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514119,
+        "num": 346977,
+        "word": "建议一天一换内裤的原因",
+        "onboard_time": 1755154883,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 333168,
+        "num": 333168,
+        "word": "成毅法修散打cha",
+        "onboard_time": 1755165204,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312810,
+        "num": 312810,
+        "word": "周立人故意杀人案二审宣判",
+        "onboard_time": 1755160763,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311944,
+        "num": 311944,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755153383,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279562,
+        "num": 279562,
+        "word": "披荆斩棘直播",
+        "onboard_time": 1755165681,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268348,
+        "num": 268348,
+        "word": "9.9元咖啡正在杀死独立店",
+        "onboard_time": 1755150443,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260503,
+        "num": 260503,
+        "word": "管乐帮董璇带娃",
+        "onboard_time": 1755164783,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245190,
+        "num": 245190,
+        "word": "0713大哥不好惹二哥更是惹不起",
+        "onboard_time": 1755159862,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207759,
+        "num": 207759,
+        "word": "马思纯解释不当导游的原因",
+        "onboard_time": 1755164601,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8705,
+        "num": 207368,
+        "word": "这场世纪同框太难得了",
+        "onboard_time": 1755164362,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 680030,
+        "num": 207368,
+        "word": "医生说B罩杯以下可以不穿内衣",
+        "onboard_time": 1755147264,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 210905,
+        "num": 207368,
+        "word": "王橹杰网易云",
+        "onboard_time": 1755158543,
+        "rank": 21,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 207366,
+        "num": 207366,
+        "word": "男子称买避孕药付款失败被撞破出轨",
+        "onboard_time": 1755132861,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197415,
+        "num": 197415,
+        "word": "韩国生育率下降对孩子的影响",
+        "onboard_time": 1755156263,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191242,
+        "num": 191242,
+        "word": "黄子韬说听泉赏宝掉钱眼里了",
+        "onboard_time": 1755150263,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182666,
+        "num": 182666,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182512,
+        "num": 182512,
+        "word": "小酒窝模仿白鹿大笑",
+        "onboard_time": 1755161784,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181344,
+        "num": 181344,
+        "word": "孙颖莎吃玉米笑的好甜",
+        "onboard_time": 1755166162,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87215,
+        "num": 174968,
+        "word": "俄方公布普京与特朗普会谈开始时间",
+        "onboard_time": 1755165744,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120883,
+        "num": 173912,
+        "word": "武汉一高校拟将闲置公厕改成宿舍",
+        "onboard_time": 1755165681,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173063,
+        "num": 173063,
+        "word": "四六级",
+        "onboard_time": 1755166943,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158641,
+        "num": 158641,
+        "word": "黄一鸣说庆幸把孩子生下来",
+        "onboard_time": 1755162622,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144263,
+        "num": 144263,
+        "word": "教师选调拟录取多名10分以下考生",
+        "onboard_time": 1755156382,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142869,
+        "num": 142869,
+        "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
+        "onboard_time": 1755154102,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135462,
+        "num": 135462,
+        "word": "披荆斩棘",
+        "onboard_time": 1755149183,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138914,
+        "num": 134919,
+        "word": "延安果农发声力挺赵露思",
+        "onboard_time": 1755165744,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125293,
+        "num": 125293,
+        "word": "张凌赫嘴里炒蚊子了",
+        "onboard_time": 1755162622,
+        "rank": 36,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 120858,
+        "num": 120858,
+        "word": "时代峰峻回应上海不让包店应援",
+        "onboard_time": 1755166523,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54764,
+        "num": 118971,
+        "word": "郭德纲说已经卑微到看郭麒麟脸色",
+        "onboard_time": 1755166881,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55717,
+        "num": 118050,
+        "word": "飞机邻座狂改代码的奶奶",
+        "onboard_time": 1755167243,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117581,
+        "num": 117581,
+        "word": "涨了5毛钱后康师傅饮料少卖7亿",
+        "onboard_time": 1755154342,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117314,
+        "num": 117314,
+        "word": "苏新皓教新世代跳舞全是人情世故",
+        "onboard_time": 1755166702,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115787,
+        "num": 115787,
+        "word": "王青这谁看了受得了",
+        "onboard_time": 1755167363,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114619,
+        "num": 114619,
+        "word": "周立人曾承认投毒但不承认是为杀人",
+        "onboard_time": 1755163701,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28417,
+        "num": 114283,
+        "word": "俄遭袭击多居民楼受损伤亡正在核实",
+        "onboard_time": 1755165744,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114280,
+        "num": 114280,
+        "word": "湘潭大学宿舍投毒案时间线",
+        "onboard_time": 1755163943,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74722,
+        "num": 111047,
+        "word": "管乐回应董璇",
+        "onboard_time": 1755167062,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109293,
+        "num": 109293,
+        "word": "长期焦虑 身体炎症",
+        "onboard_time": 1755153023,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103592,
+        "num": 103592,
+        "word": "腾讯视频付费会员数增至1.14亿",
+        "onboard_time": 1755164722,
+        "rank": 48,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 102477,
+        "num": 102477,
+        "word": "突然意识到我频繁做美甲不是因为爱美",
+        "onboard_time": 1755160163,
+        "rank": 49,
+        "category": "情感,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念提出20年#"
+    }
+  }
+}
