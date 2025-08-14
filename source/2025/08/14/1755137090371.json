@@ -1,0 +1,410 @@
+{
+  "runTime": 1755137090371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 749677,
+        "num": 1119948,
+        "word": "22岁存款200万决定提前退休",
+        "onboard_time": 1755125177,
+        "rank": 0,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 573465,
+        "num": 573465,
+        "word": "5岁女童凌晨梦游被找到时站在湖边",
+        "onboard_time": 1755133522,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11965,
+        "num": 566296,
+        "word": "卫星互联网低轨08组卫星发射成功",
+        "onboard_time": 1755075503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559356,
+        "num": 559356,
+        "word": "老奶奶说日本鬼子害我一辈子",
+        "onboard_time": 1755131364,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505626,
+        "num": 505626,
+        "word": "中国游客在日本网红地被列车撞身亡",
+        "onboard_time": 1755130222,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337819,
+        "num": 337819,
+        "word": "终于有人吐槽现在的婚礼流程了",
+        "onboard_time": 1755110235,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314776,
+        "num": 314776,
+        "word": "男童遗体距走失处直线距离1公里",
+        "onboard_time": 1755095845,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200009,
+        "num": 310289,
+        "word": "望京偶遇马嘉祺",
+        "onboard_time": 1755131300,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164896,
+        "num": 303302,
+        "word": "杨幂坐收cvb实绩了",
+        "onboard_time": 1755095065,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185918,
+        "num": 295319,
+        "word": "台风杨柳在福建沿海登陆",
+        "onboard_time": 1755133223,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2330012,
+        "num": 292083,
+        "word": "男子称买避孕药付款失败被撞破出轨",
+        "onboard_time": 1755132861,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335949,
+        "num": 283654,
+        "word": "胸贴 危害",
+        "onboard_time": 1755096145,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 318414,
+        "num": 277521,
+        "word": "中国黄岩岛",
+        "onboard_time": 1755132142,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273777,
+        "num": 273777,
+        "word": "北京大学法学院情况说明",
+        "onboard_time": 1755135621,
+        "rank": 13,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 273188,
+        "num": 273188,
+        "word": "慰安妇制度受害奶奶的笑令人心痛",
+        "onboard_time": 1755129440,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236677,
+        "num": 236677,
+        "word": "Gemini",
+        "onboard_time": 1755129020,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220034,
+        "num": 220034,
+        "word": "eStar兮然",
+        "onboard_time": 1755110235,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192536,
+        "num": 192536,
+        "word": "美国惊现触手兔子专家警告远离",
+        "onboard_time": 1755091464,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188667,
+        "num": 188667,
+        "word": "何杜娟生女",
+        "onboard_time": 1755134841,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145903,
+        "num": 182701,
+        "word": "吴磊比耶拍照",
+        "onboard_time": 1755129623,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304877,
+        "num": 181397,
+        "word": "00后整顿职场被辞退",
+        "onboard_time": 1755134122,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179945,
+        "num": 179945,
+        "word": "老人给外人10万照顾老伴儿子急了",
+        "onboard_time": 1755128060,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176822,
+        "num": 176822,
+        "word": "eStarPro 已找到兮然",
+        "onboard_time": 1755128840,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168688,
+        "num": 168688,
+        "word": "王者西施织梦人新皮肤",
+        "onboard_time": 1755135561,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166473,
+        "num": 166473,
+        "word": "关晓彤李昀锐打高尔夫路透",
+        "onboard_time": 1755131002,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157194,
+        "num": 157194,
+        "word": "广东特大暴雨即将来袭",
+        "onboard_time": 1755133223,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152824,
+        "num": 152824,
+        "word": "华裔女生参加毕业典礼被印度人包围了",
+        "onboard_time": 1755135801,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152202,
+        "num": 152202,
+        "word": "李行亮父女共用一张脸",
+        "onboard_time": 1755094224,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101306,
+        "num": 146859,
+        "word": "杨幂演技",
+        "onboard_time": 1755091165,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71513,
+        "num": 144219,
+        "word": "生万物爱奇艺热度破6500",
+        "onboard_time": 1755128001,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142108,
+        "num": 142108,
+        "word": "花海",
+        "onboard_time": 1755110235,
+        "rank": 30,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 132449,
+        "num": 132449,
+        "word": "世运会中国稳稳金牌第一",
+        "onboard_time": 1755135680,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119271,
+        "num": 119271,
+        "word": "霉霉新专辑封面公开",
+        "onboard_time": 1755133461,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115021,
+        "num": 115021,
+        "word": "女子伤口似发霉听网友劝连夜就医",
+        "onboard_time": 1755130521,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111660,
+        "num": 111660,
+        "word": "金建希接受被捕后首次调查",
+        "onboard_time": 1755134122,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106724,
+        "num": 106724,
+        "word": "亚朵酒店被曝疑现别人用过的牙签",
+        "onboard_time": 1755093684,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102866,
+        "num": 102866,
+        "word": "金建希将换囚服拍大头照",
+        "onboard_time": 1755133403,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102096,
+        "num": 102096,
+        "word": "原来麻辣烫很适合减肥吃",
+        "onboard_time": 1755135621,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100443,
+        "num": 100443,
+        "word": "她们直到去世也没等到道歉",
+        "onboard_time": 1755128120,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51003,
+        "num": 98891,
+        "word": "生万物首播评价",
+        "onboard_time": 1755136762,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98593,
+        "num": 98593,
+        "word": "中印混血男生称上学被歧视",
+        "onboard_time": 1755130461,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98509,
+        "num": 98509,
+        "word": "台风杨柳最新路径",
+        "onboard_time": 1755101602,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98307,
+        "num": 98307,
+        "word": "她们在凋零但真相不能忘",
+        "onboard_time": 1755133162,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93797,
+        "num": 93797,
+        "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
+        "onboard_time": 1755091825,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88115,
+        "num": 88115,
+        "word": "弈星守夜人皮肤",
+        "onboard_time": 1755135621,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87403,
+        "num": 87403,
+        "word": "中国海军迈向无人机母舰时代",
+        "onboard_time": 1755136102,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 85015,
+        "num": 85015,
+        "word": "王者荣耀诡秘之主联动皮肤",
+        "onboard_time": 1755132322,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83102,
+        "num": 83102,
+        "word": "美联储9月或降息50个基点",
+        "onboard_time": 1755133882,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81368,
+        "num": 81368,
+        "word": "杨柳",
+        "onboard_time": 1755128421,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80709,
+        "num": 80709,
+        "word": "男子转账3500元备注彩礼要求返还被驳回",
+        "onboard_time": 1755087623,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念改变中国影响世界#"
+    }
+  }
+}

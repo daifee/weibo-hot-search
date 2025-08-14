@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755128432263,
+  "endTime": 1755137090371,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -497,6 +497,14 @@
       "onboard_time": 1754324061,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2330012,
+      "num": 292083,
+      "word": "男子称买避孕药付款失败被撞破出轨",
+      "onboard_time": 1755132861,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2314857,
@@ -3779,6 +3787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 749677,
+      "num": 1119948,
+      "word": "22岁存款200万决定提前退休",
+      "onboard_time": 1755125177,
+      "rank": 7,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 748805,
       "num": 748805,
       "word": "银行职员夫妻回应下班偷偷送外卖",
@@ -4529,14 +4545,6 @@
       "onboard_time": 1754723722,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 667436,
-      "num": 667436,
-      "word": "22岁存款200万决定提前退休",
-      "onboard_time": 1755125177,
-      "rank": 7,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 667329,
@@ -5643,6 +5651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 573465,
+      "num": 573465,
+      "word": "5岁女童凌晨梦游被找到时站在湖边",
+      "onboard_time": 1755133522,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573244,
       "num": 350151,
       "word": "李心艾产女",
@@ -5921,6 +5937,14 @@
       "onboard_time": 1754882242,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 559356,
+      "num": 559356,
+      "word": "老奶奶说日本鬼子害我一辈子",
+      "onboard_time": 1755131364,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559338,
@@ -6553,6 +6577,14 @@
       "onboard_time": 1754270781,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 505626,
+      "num": 505626,
+      "word": "中国游客在日本网红地被列车撞身亡",
+      "onboard_time": 1755130222,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 505142,
@@ -10179,6 +10211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318414,
+      "num": 277521,
+      "word": "中国黄岩岛",
+      "onboard_time": 1755132142,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 318393,
       "num": 318393,
       "word": "FPX暂停与milkyway合作",
@@ -10513,6 +10553,14 @@
       "onboard_time": 1754198125,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304877,
+      "num": 181397,
+      "word": "00后整顿职场被辞退",
+      "onboard_time": 1755134122,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 304774,
@@ -11491,6 +11539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 273777,
+      "num": 273777,
+      "word": "北京大学法学院情况说明",
+      "onboard_time": 1755135621,
+      "rank": 13,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 273547,
       "num": 324246,
       "word": "张元英宫脇咲良再现七年前名次",
@@ -11521,6 +11577,14 @@
       "onboard_time": 1754444300,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 273188,
+      "num": 273188,
+      "word": "慰安妇制度受害奶奶的笑令人心痛",
+      "onboard_time": 1755129440,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273136,
@@ -13089,6 +13153,14 @@
       "onboard_time": 1754123662,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236677,
+      "num": 236677,
+      "word": "Gemini",
+      "onboard_time": 1755129020,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 236278,
@@ -16203,6 +16275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200009,
+      "num": 310289,
+      "word": "望京偶遇马嘉祺",
+      "onboard_time": 1755131300,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199951,
       "num": 196369,
       "word": "周深唱了两首贾玲电影的代表曲",
@@ -17819,6 +17899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188667,
+      "num": 188667,
+      "word": "何杜娟生女",
+      "onboard_time": 1755134841,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188651,
       "num": 188651,
       "word": "鉴别天然矿泉水要看清成分表",
@@ -18209,6 +18297,14 @@
       "onboard_time": 1754989283,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185918,
+      "num": 295319,
+      "word": "台风杨柳在福建沿海登陆",
+      "onboard_time": 1755133223,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185886,
@@ -19011,6 +19107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179945,
+      "num": 179945,
+      "word": "老人给外人10万照顾老伴儿子急了",
+      "onboard_time": 1755128060,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179897,
       "num": 179897,
       "word": "王力宏单手徒手摘隐形眼镜",
@@ -19377,6 +19481,14 @@
       "onboard_time": 1754469983,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176822,
+      "num": 176822,
+      "word": "eStarPro 已找到兮然",
+      "onboard_time": 1755128840,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 176711,
@@ -20619,6 +20731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168688,
+      "num": 168688,
+      "word": "王者西施织梦人新皮肤",
+      "onboard_time": 1755135561,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168676,
       "num": 152694,
       "word": "猫咬人后主人将其放生",
@@ -20969,6 +21089,14 @@
       "onboard_time": 1755006866,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166473,
+      "num": 166473,
+      "word": "关晓彤李昀锐打高尔夫路透",
+      "onboard_time": 1755131002,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 166273,
@@ -22531,6 +22659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157194,
+      "num": 157194,
+      "word": "广东特大暴雨即将来袭",
+      "onboard_time": 1755133223,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157166,
       "num": 187550,
       "word": "39岁男子发布涉释永信谣言被刑拘",
@@ -23321,6 +23457,14 @@
       "onboard_time": 1754570723,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152824,
+      "num": 152824,
+      "word": "华裔女生参加毕业典礼被印度人包围了",
+      "onboard_time": 1755135801,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152818,
@@ -24849,6 +24993,14 @@
       "onboard_time": 1754544564,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145903,
+      "num": 182701,
+      "word": "吴磊比耶拍照",
+      "onboard_time": 1755129623,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 145895,
@@ -28201,6 +28353,14 @@
       "onboard_time": 1754131164,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132449,
+      "num": 132449,
+      "word": "世运会中国稳稳金牌第一",
+      "onboard_time": 1755135680,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 132446,
@@ -31859,6 +32019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119271,
+      "num": 119271,
+      "word": "霉霉新专辑封面公开",
+      "onboard_time": 1755133461,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 119231,
       "num": 119231,
       "word": "被天山雪莲硬控30秒",
@@ -32883,6 +33051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115021,
+      "num": 115021,
+      "word": "女子伤口似发霉听网友劝连夜就医",
+      "onboard_time": 1755130521,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114971,
       "num": 290062,
       "word": "82岁老人跳河勇救98岁老人",
@@ -33905,6 +34081,14 @@
       "onboard_time": 1754980522,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111660,
+      "num": 111660,
+      "word": "金建希接受被捕后首次调查",
+      "onboard_time": 1755134122,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111591,
@@ -35827,6 +36011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102866,
+      "num": 102866,
+      "word": "金建希将换囚服拍大头照",
+      "onboard_time": 1755133403,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102854,
       "num": 102854,
       "word": "蓝盈莹生万物武装到牙齿了",
@@ -35969,6 +36161,14 @@
       "onboard_time": 1754840842,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102096,
+      "num": 102096,
+      "word": "原来麻辣烫很适合减肥吃",
+      "onboard_time": 1755135621,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 102060,
@@ -36296,6 +36496,14 @@
       "word": "重婚须以夫妻名义共同生活",
       "onboard_time": 1755075684,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100443,
+      "num": 100443,
+      "word": "她们直到去世也没等到道歉",
+      "onboard_time": 1755128120,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -36635,6 +36843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98593,
+      "num": 98593,
+      "word": "中印混血男生称上学被歧视",
+      "onboard_time": 1755130461,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98554,
       "num": 195899,
       "word": "女子忘拔电蚊香液把家给烧光",
@@ -36681,6 +36897,14 @@
       "onboard_time": 1754272462,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98307,
+      "num": 98307,
+      "word": "她们在凋零但真相不能忘",
+      "onboard_time": 1755133162,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98178,
@@ -38315,6 +38539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88115,
+      "num": 88115,
+      "word": "弈星守夜人皮肤",
+      "onboard_time": 1755135621,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 87901,
       "num": 156355,
       "word": "过气偶像为什么扎堆团播",
@@ -38393,6 +38625,14 @@
       "onboard_time": 1755012084,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 87403,
+      "num": 87403,
+      "word": "中国海军迈向无人机母舰时代",
+      "onboard_time": 1755136102,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 87371,
@@ -38731,6 +38971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85015,
+      "num": 85015,
+      "word": "王者荣耀诡秘之主联动皮肤",
+      "onboard_time": 1755132322,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84896,
       "num": 84896,
       "word": "改掉这些习惯后肚子变小了",
@@ -38953,6 +39201,14 @@
       "onboard_time": 1754319986,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83102,
+      "num": 83102,
+      "word": "美联储9月或降息50个基点",
+      "onboard_time": 1755133882,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 83098,
@@ -39873,6 +40129,14 @@
       "onboard_time": 1753979541,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71513,
+      "num": 144219,
+      "word": "生万物爱奇艺热度破6500",
+      "onboard_time": 1755128001,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 71404,
@@ -41187,14 +41451,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 56522,
-      "num": 58204,
-      "word": "她们直到去世也没等到道歉",
-      "onboard_time": 1755128120,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56385,
       "num": 164902,
       "word": "决定带智力障碍妹妹逃婚的姐姐",
@@ -41779,6 +42035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51003,
+      "num": 98891,
+      "word": "生万物首播评价",
+      "onboard_time": 1755136762,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50983,
       "num": 137393,
       "word": "央视曝光假农业达人表演式带货圈钱",
@@ -42289,14 +42553,6 @@
       "onboard_time": 1754306482,
       "rank": 16,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 45520,
-      "num": 98192,
-      "word": "生万物爱奇艺热度破6500",
-      "onboard_time": 1755128001,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 45384,
@@ -42857,14 +43113,6 @@
       "onboard_time": 1754851816,
       "rank": 42,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 39540,
-      "num": 98062,
-      "word": "老人给外人10万照顾老伴儿子急了",
-      "onboard_time": 1755128060,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39435,
