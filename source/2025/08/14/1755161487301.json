@@ -1,0 +1,410 @@
+{
+  "runTime": 1755161487301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1417548,
+        "num": 1417548,
+        "word": "女儿调座椅压死儿子家长索赔车企",
+        "onboard_time": 1755151403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 853671,
+        "num": 853671,
+        "word": "尹春燕遗体被找到",
+        "onboard_time": 1755159143,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50183,
+        "num": 507015,
+        "word": "电商助农福建在行动",
+        "onboard_time": 1755161002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1093692,
+        "num": 477743,
+        "word": "建议一天一换内裤的原因",
+        "onboard_time": 1755154883,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 416778,
+        "num": 416778,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755153383,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 348052,
+        "num": 348052,
+        "word": "教师选调拟录取多名10分以下考生",
+        "onboard_time": 1755156382,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334119,
+        "num": 334119,
+        "word": "长期焦虑 身体炎症",
+        "onboard_time": 1755153023,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322185,
+        "num": 322185,
+        "word": "0713大哥不好惹二哥更是惹不起",
+        "onboard_time": 1755159862,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290109,
+        "num": 322067,
+        "word": "杨幂下一条微博就这么发",
+        "onboard_time": 1755159143,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186062,
+        "num": 319361,
+        "word": "周立人故意杀人案二审宣判",
+        "onboard_time": 1755160763,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1474691,
+        "num": 316809,
+        "word": "黄子韬训斥徐艺洋露腿",
+        "onboard_time": 1755154402,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626989,
+        "num": 313586,
+        "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
+        "onboard_time": 1755154102,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 598553,
+        "num": 310697,
+        "word": "黄景瑜新签的艺人包洪瑜",
+        "onboard_time": 1755153322,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309637,
+        "num": 309637,
+        "word": "男子称买避孕药付款失败被撞破出轨",
+        "onboard_time": 1755132861,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301361,
+        "num": 301361,
+        "word": "9.9元咖啡正在杀死独立店",
+        "onboard_time": 1755150443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245220,
+        "num": 245220,
+        "word": "沈梦瑶cha了刀马刀马",
+        "onboard_time": 1755159442,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236263,
+        "num": 236263,
+        "word": "英国一航班因婴儿哭闹引发斗殴",
+        "onboard_time": 1755157343,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 235642,
+        "num": 235642,
+        "word": "请内娱女团宣发朝这个标准看齐",
+        "onboard_time": 1755156803,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200112,
+        "num": 200112,
+        "word": "大牙离婚",
+        "onboard_time": 1755157044,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149964,
+        "num": 198793,
+        "word": "利剑玫瑰穿帮镜头",
+        "onboard_time": 1755160523,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 680072,
+        "num": 192245,
+        "word": "医生说B罩杯以下可以不穿内衣",
+        "onboard_time": 1755147264,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 369392,
+        "num": 189211,
+        "word": "黄子韬说听泉赏宝掉钱眼里了",
+        "onboard_time": 1755150263,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231313,
+        "num": 185185,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360416,
+        "num": 179337,
+        "word": "王橹杰网易云",
+        "onboard_time": 1755158543,
+        "rank": 23,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 233211,
+        "num": 174487,
+        "word": "韩国生育率下降对孩子的影响",
+        "onboard_time": 1755156263,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172379,
+        "num": 172379,
+        "word": "女子带5孩点一碗面多次免费续面",
+        "onboard_time": 1755144684,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131398,
+        "num": 154534,
+        "word": "郑爽影视剧出品方被执行565万",
+        "onboard_time": 1755144805,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154411,
+        "num": 154411,
+        "word": "真的建议大家要多发朋友圈",
+        "onboard_time": 1755156083,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31260,
+        "num": 145898,
+        "word": "声乐高手在郑州唱响黄河",
+        "onboard_time": 1755159263,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58785,
+        "num": 145339,
+        "word": "柯达35亿元债务目前无法偿付",
+        "onboard_time": 1755160343,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40748,
+        "num": 144992,
+        "word": "贾冰好油",
+        "onboard_time": 1755157162,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144982,
+        "num": 144982,
+        "word": "无房员工入职即住海景房",
+        "onboard_time": 1755161362,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136511,
+        "num": 136511,
+        "word": "鹿晗 谁哭下次别来了啊",
+        "onboard_time": 1755148883,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134721,
+        "num": 134721,
+        "word": "涨了5毛钱后康师傅饮料少卖7亿",
+        "onboard_time": 1755154342,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130304,
+        "num": 130304,
+        "word": "突然意识到我频繁做美甲不是因为爱美",
+        "onboard_time": 1755160163,
+        "rank": 34,
+        "category": "情感,美妆"
+      },
+      {
+        "raw_hot": 130266,
+        "num": 130266,
+        "word": "P人永远不懂J人的行李箱",
+        "onboard_time": 1755149543,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128659,
+        "num": 128659,
+        "word": "离了国乒谁还逗我笑",
+        "onboard_time": 1755161362,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127299,
+        "num": 127299,
+        "word": "238斤到97斤的20年减肥血泪史",
+        "onboard_time": 1755156861,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 64710,
+        "num": 120941,
+        "word": "杨幂采欧豪 说白了白说了",
+        "onboard_time": 1755161362,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120451,
+        "num": 120451,
+        "word": "85花总能播一部剧立马回血",
+        "onboard_time": 1755158003,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118848,
+        "num": 118848,
+        "word": "这就是朋友和好朋友的区别",
+        "onboard_time": 1755155303,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117697,
+        "num": 117697,
+        "word": "顾客误将日料套餐当自助餐消费4302元",
+        "onboard_time": 1755142522,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116871,
+        "num": 116871,
+        "word": "生万物",
+        "onboard_time": 1755143603,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114828,
+        "num": 114828,
+        "word": "C罗随队抵达中国香港",
+        "onboard_time": 1755160102,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111517,
+        "num": 111517,
+        "word": "贺刚演狄仁杰终于放过成毅了",
+        "onboard_time": 1755161183,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27061,
+        "num": 111387,
+        "word": "她们直到去世也没等到道歉",
+        "onboard_time": 1755128120,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111285,
+        "num": 111285,
+        "word": "王一博起诉莆田鞋",
+        "onboard_time": 1755144863,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109948,
+        "num": 109948,
+        "word": "郁可唯爆咳哮喘发作",
+        "onboard_time": 1755159682,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101841,
+        "num": 101841,
+        "word": "汪苏泷青岛站点歌大转盘",
+        "onboard_time": 1755161243,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97085,
+        "num": 97085,
+        "word": "阚清子说能穿进去的衣服不多了",
+        "onboard_time": 1755157223,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念提出20年#"
+    }
+  }
+}

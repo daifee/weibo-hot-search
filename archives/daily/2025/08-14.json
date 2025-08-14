@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755160611235,
+  "endTime": 1755161487301,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -403,12 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350712,
+      "raw_hot": 360416,
       "num": 219965,
       "word": "王橹杰网易云",
       "onboard_time": 1755158543,
       "rank": 22,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 348052,
+      "num": 415542,
+      "word": "教师选调拟录取多名10分以下考生",
+      "onboard_time": 1755156382,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333855,
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322185,
+      "num": 322185,
+      "word": "0713大哥不好惹二哥更是惹不起",
+      "onboard_time": 1755159862,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318414,
       "num": 277521,
       "word": "中国黄岩岛",
@@ -440,14 +456,6 @@
       "word": "慰安妇制度受害奶奶的笑令人心痛",
       "onboard_time": 1755129440,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314487,
-      "num": 415542,
-      "word": "教师选调拟录取多名10分以下考生",
-      "onboard_time": 1755156382,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -479,6 +487,14 @@
       "num": 292091,
       "word": "终于有不互捅不救三界的仙偶",
       "onboard_time": 1755141802,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 290109,
+      "num": 322067,
+      "word": "杨幂下一条微博就这么发",
+      "onboard_time": 1755159143,
       "rank": 16,
       "category": "剧集"
     },
@@ -563,6 +579,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 236263,
+      "num": 236263,
+      "word": "英国一航班因婴儿哭闹引发斗殴",
+      "onboard_time": 1755157343,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 235642,
+      "num": 235642,
+      "word": "请内娱女团宣发朝这个标准看齐",
+      "onboard_time": 1755156803,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235048,
       "num": 235048,
       "word": "李嘉诚这次嗅到了危险",
@@ -571,12 +603,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 233574,
-      "num": 233574,
-      "word": "请内娱女团宣发朝这个标准看齐",
-      "onboard_time": 1755156803,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 233211,
+      "num": 216513,
+      "word": "韩国生育率下降对孩子的影响",
+      "onboard_time": 1755156263,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 229018,
@@ -585,14 +617,6 @@
       "onboard_time": 1755087623,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225198,
-      "num": 225198,
-      "word": "0713大哥不好惹二哥更是惹不起",
-      "onboard_time": 1755159862,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 221368,
@@ -611,27 +635,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218709,
-      "num": 218709,
-      "word": "英国一航班因婴儿哭闹引发斗殴",
-      "onboard_time": 1755157343,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 218181,
       "num": 218181,
       "word": "韩国男性热衷去日本相亲",
       "onboard_time": 1755144022,
       "rank": 45,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 216513,
-      "num": 216513,
-      "word": "韩国生育率下降对孩子的影响",
-      "onboard_time": 1755156263,
-      "rank": 35,
       "category": "海外新闻"
     },
     {
@@ -723,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200112,
+      "num": 223169,
+      "word": "大牙离婚",
+      "onboard_time": 1755157044,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200009,
       "num": 310289,
       "word": "望京偶遇马嘉祺",
@@ -753,14 +769,6 @@
       "onboard_time": 1755153082,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 197573,
-      "num": 223880,
-      "word": "杨幂下一条微博就这么发",
-      "onboard_time": 1755159143,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 197094,
@@ -835,14 +843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189576,
-      "num": 223169,
-      "word": "大牙离婚",
-      "onboard_time": 1755157044,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189257,
       "num": 189257,
       "word": "杨幂给惠英红剧组送了咖啡",
@@ -856,6 +856,14 @@
       "word": "连亏15年的博主称快回本了",
       "onboard_time": 1755153142,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186062,
+      "num": 319361,
+      "word": "周立人故意杀人案二审宣判",
+      "onboard_time": 1755160763,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1131,6 +1139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 149964,
+      "num": 198793,
+      "word": "利剑玫瑰穿帮镜头",
+      "onboard_time": 1755160523,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149686,
       "num": 206074,
       "word": "北大辟谣易继明违规招生",
@@ -1151,6 +1167,14 @@
       "num": 146299,
       "word": "山西一景区演员被马拖行",
       "onboard_time": 1755151463,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144982,
+      "num": 144982,
+      "word": "无房员工入职即住海景房",
+      "onboard_time": 1755161362,
       "rank": 31,
       "category": "民生新闻"
     },
@@ -1291,12 +1315,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130304,
+      "num": 130304,
+      "word": "突然意识到我频繁做美甲不是因为爱美",
+      "onboard_time": 1755160163,
+      "rank": 34,
+      "category": "情感,美妆"
+    },
+    {
       "raw_hot": 129240,
       "num": 129240,
       "word": "twice 抢票",
       "onboard_time": 1755147144,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128659,
+      "num": 128659,
+      "word": "离了国乒谁还逗我笑",
+      "onboard_time": 1755161362,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 128609,
@@ -1515,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114828,
+      "num": 141291,
+      "word": "C罗随队抵达中国香港",
+      "onboard_time": 1755160102,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113308,
       "num": 142076,
       "word": "格陵兰岛三百万年冰川轰然倒塌",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1755160343,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111517,
+      "num": 111517,
+      "word": "贺刚演狄仁杰终于放过成毅了",
+      "onboard_time": 1755161183,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 111122,
@@ -1593,14 +1649,6 @@
       "onboard_time": 1755092186,
       "rank": 27,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 109929,
-      "num": 140748,
-      "word": "利剑玫瑰穿帮镜头",
-      "onboard_time": 1755160523,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 109520,
@@ -1731,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101841,
+      "num": 101841,
+      "word": "汪苏泷青岛站点歌大转盘",
+      "onboard_time": 1755161243,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101156,
       "num": 101156,
       "word": "崩坏星穹铁道",
@@ -1817,14 +1873,6 @@
       "onboard_time": 1755070041,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 95093,
-      "num": 141291,
-      "word": "C罗随队抵达中国香港",
-      "onboard_time": 1755160102,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 93907,
@@ -2051,11 +2099,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64710,
+      "num": 120941,
+      "word": "杨幂采欧豪 说白了白说了",
+      "onboard_time": 1755161362,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63535,
       "num": 113896,
       "word": "落马官员用政府服务器挖比特币不实",
       "onboard_time": 1755156443,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58785,
+      "num": 187727,
+      "word": "柯达35亿元债务目前无法偿付",
+      "onboard_time": 1755160343,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2097,6 +2161,14 @@
       "onboard_time": 1755097944,
       "rank": 49,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 50183,
+      "num": 507015,
+      "word": "电商助农福建在行动",
+      "onboard_time": 1755161002,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49276,
@@ -2168,14 +2240,6 @@
       "word": "游客起冲突喷防狼喷雾致多人不适",
       "onboard_time": 1755143003,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36399,
-      "num": 187727,
-      "word": "柯达35亿元债务目前无法偿付",
-      "onboard_time": 1755160343,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
