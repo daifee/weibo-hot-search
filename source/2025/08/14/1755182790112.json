@@ -1,0 +1,410 @@
+{
+  "runTime": 1755182790112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1277544,
+        "num": 1277544,
+        "word": "日本人因南京大屠杀史料羞愧愤怒",
+        "onboard_time": 1755175582,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1060082,
+        "num": 1060082,
+        "word": "公职人员禁止干6类副业",
+        "onboard_time": 1755180864,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23894,
+        "num": 1044643,
+        "word": "2025中国AI盛典",
+        "onboard_time": 1755097524,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1040096,
+        "num": 1040096,
+        "word": "封大脚 梁宽植",
+        "onboard_time": 1755177264,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 960253,
+        "num": 960253,
+        "word": "社保断缴一次这些待遇全部取消",
+        "onboard_time": 1755181285,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760431,
+        "num": 760431,
+        "word": "赵今麦魏大勋牵手散步路透",
+        "onboard_time": 1755175463,
+        "rank": 5,
+        "category": "剧集,剧集"
+      },
+      {
+        "raw_hot": 755972,
+        "num": 755972,
+        "word": "7k7k 4399",
+        "onboard_time": 1755165862,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 489295,
+        "num": 489295,
+        "word": "印度洋上空现10个神秘黑暗空洞",
+        "onboard_time": 1755176244,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 450819,
+        "num": 450819,
+        "word": "生万物 纯爱番",
+        "onboard_time": 1755179006,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328494,
+        "num": 328494,
+        "word": "郭德纲说已经卑微到看郭麒麟脸色",
+        "onboard_time": 1755166881,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1187675,
+        "num": 327420,
+        "word": "邱泽许玮甯宝宝出生",
+        "onboard_time": 1755175463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 867762,
+        "num": 326252,
+        "word": "女儿调座椅压死儿子家长岂能甩锅",
+        "onboard_time": 1755175943,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477467,
+        "num": 324406,
+        "word": "内娱女明星没有丑的",
+        "onboard_time": 1755170963,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380151,
+        "num": 322923,
+        "word": "女儿调座椅压死儿子家长索赔车企",
+        "onboard_time": 1755151403,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322818,
+        "num": 322818,
+        "word": "天才女友 合诗雨",
+        "onboard_time": 1755181524,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301206,
+        "num": 301206,
+        "word": "王一博香奈儿活动生图",
+        "onboard_time": 1755176183,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 291888,
+        "num": 291888,
+        "word": "王玉雯刘昊然张新成的故事越来越完整",
+        "onboard_time": 1755181705,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286798,
+        "num": 286798,
+        "word": "生万物",
+        "onboard_time": 1755168504,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282517,
+        "num": 282517,
+        "word": "iPhone17Pro四大升级",
+        "onboard_time": 1755175646,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 278004,
+        "num": 278004,
+        "word": "硕士宿舍投毒意图杀害两名室友",
+        "onboard_time": 1755169882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350666,
+        "num": 276450,
+        "word": "4种早餐被列入高脂名单",
+        "onboard_time": 1755178704,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304945,
+        "num": 273914,
+        "word": "浪浪山",
+        "onboard_time": 1755167782,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286549,
+        "num": 273497,
+        "word": "阚清子能穿进去的衣服不多了",
+        "onboard_time": 1755174805,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282635,
+        "num": 269723,
+        "word": "韩美娟赤木刚宪穿婚服合照",
+        "onboard_time": 1755180024,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 269576,
+        "num": 269576,
+        "word": "史上第一部没破亿硬发海报的电影",
+        "onboard_time": 1755179663,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235760,
+        "num": 235760,
+        "word": "男朋友用几十块的鼠标怎么办",
+        "onboard_time": 1755171503,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137498,
+        "num": 212410,
+        "word": "中国男篮vs韩国男篮",
+        "onboard_time": 1755170602,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126728,
+        "num": 207106,
+        "word": "中国男篮时隔10年再进四强",
+        "onboard_time": 1755177384,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83858,
+        "num": 204471,
+        "word": "赴美前夕普京发声",
+        "onboard_time": 1755179063,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202830,
+        "num": 202830,
+        "word": "张若昀大张伟胡先煦一起过生日",
+        "onboard_time": 1755181405,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218503,
+        "num": 202435,
+        "word": "建议一天一换内裤的原因",
+        "onboard_time": 1755154883,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197841,
+        "num": 197841,
+        "word": "谁懂王一博这鞠躬的含金量",
+        "onboard_time": 1755181524,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192394,
+        "num": 192394,
+        "word": "迪丽热巴每一个女孩都不仅是玫瑰",
+        "onboard_time": 1755181825,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190841,
+        "num": 190841,
+        "word": "糖尿病前期的5个症状",
+        "onboard_time": 1755174563,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182828,
+        "num": 182828,
+        "word": "蓝盈莹一个眼神银子就活了",
+        "onboard_time": 1755182004,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159261,
+        "num": 159261,
+        "word": "两只蝴蝶下载2亿多次作者挣了5000",
+        "onboard_time": 1755164060,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152961,
+        "num": 152961,
+        "word": "刘宇宁和女明星呆米同行的第5年",
+        "onboard_time": 1755181345,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143951,
+        "num": 143951,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755153383,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143204,
+        "num": 143204,
+        "word": "杨超越绿色系九宫格",
+        "onboard_time": 1755170602,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126286,
+        "num": 139980,
+        "word": "赵睿发布会上哽咽",
+        "onboard_time": 1755181884,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139472,
+        "num": 139472,
+        "word": "张智霖被袁咏仪忽悠来的披哥",
+        "onboard_time": 1755181285,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139039,
+        "num": 139039,
+        "word": "这种防晒霜根本不防晒",
+        "onboard_time": 1755181285,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 131030,
+        "num": 131030,
+        "word": "鞠婧祎 奇遇值前十唯一女艺人",
+        "onboard_time": 1755181104,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126657,
+        "num": 126657,
+        "word": "罗幂欧",
+        "onboard_time": 1755182724,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112812,
+        "num": 112812,
+        "word": "原来聊天真的可以产生依赖感情",
+        "onboard_time": 1755178762,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112142,
+        "num": 112142,
+        "word": "长白山导游科普张起灵",
+        "onboard_time": 1755182724,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 111046,
+        "num": 111046,
+        "word": "PEL",
+        "onboard_time": 1755182665,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110234,
+        "num": 110234,
+        "word": "生万物八集办了八件人生大事",
+        "onboard_time": 1755179484,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104647,
+        "num": 104647,
+        "word": "尹春燕遗体被找到",
+        "onboard_time": 1755159143,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79125,
+        "num": 100613,
+        "word": "澳大利亚男篮晋级亚洲杯四强",
+        "onboard_time": 1755182724,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
