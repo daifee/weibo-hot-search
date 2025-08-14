@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755170657244,
+  "endTime": 1755171593287,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -3107,6 +3107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 891432,
+      "num": 288928,
+      "word": "郭德纲说已经卑微到看郭麒麟脸色",
+      "onboard_time": 1755166881,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 891081,
       "num": 555625,
       "word": "赵露思让商家不要再找她了",
@@ -5083,6 +5091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 634987,
+      "num": 634987,
+      "word": "浪浪山",
+      "onboard_time": 1754148089,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 634496,
       "num": 2339614,
       "word": "公办民办幼儿园均可享受免保教费",
@@ -5665,14 +5681,6 @@
       "onboard_time": 1754455824,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 592396,
-      "num": 288928,
-      "word": "郭德纲说已经卑微到看郭麒麟脸色",
-      "onboard_time": 1755166881,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 591023,
@@ -6579,14 +6587,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 524038,
-      "num": 524038,
-      "word": "浪浪山",
-      "onboard_time": 1754148089,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 523770,
       "num": 239462,
       "word": "赵露思穿鲨蜂服",
@@ -6897,6 +6897,14 @@
       "onboard_time": 1754967441,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498659,
+      "num": 498659,
+      "word": "硕士宿舍投毒意图杀害两名室友",
+      "onboard_time": 1755169882,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497967,
@@ -8875,6 +8883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388505,
+      "num": 388505,
+      "word": "四六级",
+      "onboard_time": 1755166943,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 388381,
       "num": 388381,
       "word": "第一次不想抽到隐藏款",
@@ -8953,14 +8969,6 @@
       "onboard_time": 1755077186,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386683,
-      "num": 386683,
-      "word": "四六级",
-      "onboard_time": 1755166943,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 386551,
@@ -13451,6 +13459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240387,
+      "num": 240387,
+      "word": "终于看到艺人全员长嘴的综艺了",
+      "onboard_time": 1755170122,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240276,
       "num": 301181,
       "word": "张馨予公司名叫捷捷高",
@@ -17115,6 +17131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197995,
+      "num": 194423,
+      "word": "谁家三个人结两次婚",
+      "onboard_time": 1755170781,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197991,
       "num": 197991,
       "word": "洛川苹果",
@@ -17497,6 +17521,14 @@
       "onboard_time": 1755148642,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196065,
+      "num": 196065,
+      "word": "全玻璃iPhone",
+      "onboard_time": 1755170182,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 196063,
@@ -18105,14 +18137,6 @@
       "onboard_time": 1754969001,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192305,
-      "num": 192305,
-      "word": "终于看到艺人全员长嘴的综艺了",
-      "onboard_time": 1755170122,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 192293,
@@ -19027,6 +19051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185961,
+      "num": 185961,
+      "word": "杨超越绿色系九宫格",
+      "onboard_time": 1755170602,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185886,
       "num": 185886,
       "word": "理想i8 乘龙卡车",
@@ -19779,6 +19811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 180315,
+      "num": 180315,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1755170602,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180211,
       "num": 180211,
       "word": "小鬼王琳凯到底给多少人写了歌",
@@ -19873,6 +19913,14 @@
       "onboard_time": 1754720304,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179815,
+      "num": 127391,
+      "word": "木苏里 人还是不能没有头发",
+      "onboard_time": 1755171262,
+      "rank": 30,
+      "category": "读书作家,动漫"
     },
     {
       "raw_hot": 179740,
@@ -21659,6 +21707,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 168076,
+      "num": 144361,
+      "word": "张本智和和国乒交手记录",
+      "onboard_time": 1755170242,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167974,
       "num": 167974,
       "word": "女主播拉黑榜一大哥被采取强制措施",
@@ -23417,14 +23473,6 @@
       "onboard_time": 1754113042,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158257,
-      "num": 144361,
-      "word": "张本智和和国乒交手记录",
-      "onboard_time": 1755170242,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 158219,
@@ -26651,14 +26699,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 142624,
-      "num": 289596,
-      "word": "硕士宿舍投毒意图杀害两名室友",
-      "onboard_time": 1755169882,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142581,
       "num": 145509,
       "word": "教授论文称汉谟拉比与商汤是同一人",
@@ -27169,14 +27209,6 @@
       "onboard_time": 1754756962,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140915,
-      "num": 140915,
-      "word": "全玻璃iPhone",
-      "onboard_time": 1755170182,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 140851,
@@ -28745,6 +28777,14 @@
       "onboard_time": 1754227946,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134942,
+      "num": 134942,
+      "word": "内娱女明星没有丑的",
+      "onboard_time": 1755170963,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 134930,
@@ -32523,14 +32563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121976,
-      "num": 121976,
-      "word": "中国男篮vs韩国男篮",
-      "onboard_time": 1755170602,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121965,
       "num": 121965,
       "word": "大熊猫丫丫25岁生日",
@@ -33083,6 +33115,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 120299,
+      "num": 120299,
+      "word": "减肥其实是旺自己的开始",
+      "onboard_time": 1755171443,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120292,
       "num": 247495,
       "word": "在宿舍猝死的58岁高三老师",
@@ -33329,6 +33369,14 @@
       "onboard_time": 1754799860,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119265,
+      "num": 119265,
+      "word": "盛李豪255环",
+      "onboard_time": 1755171382,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 119231,
@@ -34779,6 +34827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113855,
+      "num": 113855,
+      "word": "背娃送外卖妈妈答应公婆不再嫁人",
+      "onboard_time": 1755170662,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113769,
       "num": 204712,
       "word": "谢谢你们用生命拼来家国安宁",
@@ -34841,14 +34897,6 @@
       "onboard_time": 1754118202,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113507,
-      "num": 113507,
-      "word": "杨超越绿色系九宫格",
-      "onboard_time": 1755170602,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 113501,
@@ -34953,6 +35001,14 @@
       "onboard_time": 1753976181,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113133,
+      "num": 113133,
+      "word": "男朋友用几十块的鼠标怎么办",
+      "onboard_time": 1755171503,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 113118,
@@ -36115,6 +36171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109704,
+      "num": 109704,
+      "word": "童双 夜煞",
+      "onboard_time": 1755171443,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109572,
       "num": 109572,
       "word": "交警回应车辆景区逆行加塞挑衅",
@@ -36801,6 +36865,14 @@
       "onboard_time": 1754963602,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106282,
+      "num": 106282,
+      "word": "元气森林音乐节",
+      "onboard_time": 1755170662,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 106279,
@@ -45811,6 +45883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31278,
+      "num": 114044,
+      "word": "鞠婧祎早期男粉",
+      "onboard_time": 1755171202,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31107,
       "num": 97171,
       "word": "警方回应川藏线上有人摔酒瓶扎胎",
@@ -46289,6 +46369,14 @@
       "onboard_time": 1754329397,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25872,
+      "num": 725867,
+      "word": "2025中国AI盛典",
+      "onboard_time": 1755097524,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25867,
@@ -47129,14 +47217,6 @@
       "onboard_time": 1754173817,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16961,
-      "num": 725867,
-      "word": "2025中国AI盛典",
-      "onboard_time": 1755097524,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16858,

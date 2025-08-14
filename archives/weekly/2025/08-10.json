@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755170657244,
+  "endTime": 1755171593287,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -1011,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 891432,
+      "num": 288928,
+      "word": "郭德纲说已经卑微到看郭麒麟脸色",
+      "onboard_time": 1755166881,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 890202,
       "num": 1142432,
       "word": "5岁女童凌晨梦游被找到时站在湖边",
@@ -1715,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 634987,
+      "num": 634987,
+      "word": "浪浪山",
+      "onboard_time": 1755167782,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 633944,
       "num": 633944,
       "word": "李嘉诚这次嗅到了危险",
@@ -1865,14 +1881,6 @@
       "onboard_time": 1754994623,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 592396,
-      "num": 288928,
-      "word": "郭德纲说已经卑微到看郭麒麟脸色",
-      "onboard_time": 1755166881,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 589444,
@@ -2147,14 +2155,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 524038,
-      "num": 524038,
-      "word": "浪浪山",
-      "onboard_time": 1755167782,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 522985,
       "num": 522985,
       "word": "女子称怀双胎索要80万男方报警",
@@ -2265,6 +2265,14 @@
       "onboard_time": 1754967441,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498659,
+      "num": 498659,
+      "word": "硕士宿舍投毒意图杀害两名室友",
+      "onboard_time": 1755169882,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497967,
@@ -3011,6 +3019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 388505,
+      "num": 388505,
+      "word": "四六级",
+      "onboard_time": 1755166943,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 388381,
       "num": 388381,
       "word": "第一次不想抽到隐藏款",
@@ -3041,14 +3057,6 @@
       "onboard_time": 1755077186,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386683,
-      "num": 386683,
-      "word": "四六级",
-      "onboard_time": 1755166943,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 385670,
@@ -4531,6 +4539,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 240387,
+      "num": 240387,
+      "word": "终于看到艺人全员长嘴的综艺了",
+      "onboard_time": 1755170122,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240053,
       "num": 240053,
       "word": "全红婵练瘦了",
@@ -5731,6 +5747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197995,
+      "num": 194423,
+      "word": "谁家三个人结两次婚",
+      "onboard_time": 1755170781,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197991,
       "num": 197991,
       "word": "洛川苹果",
@@ -5865,6 +5889,14 @@
       "onboard_time": 1755148642,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196065,
+      "num": 196065,
+      "word": "全玻璃iPhone",
+      "onboard_time": 1755170182,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 196063,
@@ -6105,14 +6137,6 @@
       "onboard_time": 1754969001,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192305,
-      "num": 192305,
-      "word": "终于看到艺人全员长嘴的综艺了",
-      "onboard_time": 1755170122,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 192241,
@@ -6491,6 +6515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185961,
+      "num": 185961,
+      "word": "杨超越绿色系九宫格",
+      "onboard_time": 1755170602,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185861,
       "num": 185861,
       "word": "当代左撇子真实上班现状",
@@ -6723,6 +6755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180315,
+      "num": 180315,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1755170602,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180196,
       "num": 349339,
       "word": "菲律宾执意侵闯中国黄岩岛附近海域",
@@ -6769,6 +6809,14 @@
       "onboard_time": 1755128060,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179815,
+      "num": 127391,
+      "word": "木苏里 人还是不能没有头发",
+      "onboard_time": 1755171262,
+      "rank": 30,
+      "category": "读书作家,动漫"
     },
     {
       "raw_hot": 179535,
@@ -7419,6 +7467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168076,
+      "num": 144361,
+      "word": "张本智和和国乒交手记录",
+      "onboard_time": 1755170242,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167499,
       "num": 167499,
       "word": "郭品超乡村走秀走出巴黎风",
@@ -7985,14 +8041,6 @@
       "onboard_time": 1754800882,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158257,
-      "num": 144361,
-      "word": "张本智和和国乒交手记录",
-      "onboard_time": 1755170242,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 157927,
@@ -9051,14 +9099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142624,
-      "num": 289596,
-      "word": "硕士宿舍投毒意图杀害两名室友",
-      "onboard_time": 1755169882,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142514,
       "num": 142514,
       "word": "成都AG回归KPL六周年",
@@ -9233,14 +9273,6 @@
       "onboard_time": 1754756962,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140915,
-      "num": 140915,
-      "word": "全玻璃iPhone",
-      "onboard_time": 1755170182,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 140837,
@@ -9793,6 +9825,14 @@
       "onboard_time": 1755142223,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134942,
+      "num": 134942,
+      "word": "内娱女明星没有丑的",
+      "onboard_time": 1755170963,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 134923,
@@ -11091,14 +11131,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 121976,
-      "num": 121976,
-      "word": "中国男篮vs韩国男篮",
-      "onboard_time": 1755170602,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121743,
       "num": 121743,
       "word": "交警回应两辆警车违停被贴罚单",
@@ -11299,6 +11331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120299,
+      "num": 120299,
+      "word": "减肥其实是旺自己的开始",
+      "onboard_time": 1755171443,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120231,
       "num": 186974,
       "word": "警方回应7岁小孩在苍山走失",
@@ -11393,6 +11433,14 @@
       "onboard_time": 1754799860,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119265,
+      "num": 119265,
+      "word": "盛李豪255环",
+      "onboard_time": 1755171382,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 119059,
@@ -12019,20 +12067,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113855,
+      "num": 113855,
+      "word": "背娃送外卖妈妈答应公婆不再嫁人",
+      "onboard_time": 1755170662,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113766,
       "num": 113766,
       "word": "纸嫁衣动画化官宣",
       "onboard_time": 1754815701,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 113507,
-      "num": 113507,
-      "word": "杨超越绿色系九宫格",
-      "onboard_time": 1755170602,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 113393,
@@ -12065,6 +12113,14 @@
       "onboard_time": 1754813542,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113133,
+      "num": 113133,
+      "word": "男朋友用几十块的鼠标怎么办",
+      "onboard_time": 1755171503,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 113029,
@@ -12555,6 +12611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109704,
+      "num": 109704,
+      "word": "童双 夜煞",
+      "onboard_time": 1755171443,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109520,
       "num": 109520,
       "word": "浪浪山到底在哪儿",
@@ -12953,6 +13017,14 @@
       "onboard_time": 1754963602,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106282,
+      "num": 106282,
+      "word": "元气森林音乐节",
+      "onboard_time": 1755170662,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 106279,
@@ -16195,6 +16267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31278,
+      "num": 114044,
+      "word": "鞠婧祎早期男粉",
+      "onboard_time": 1755171202,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31098,
       "num": 65824,
       "word": "再过几年正常人变小众文化了",
@@ -16369,6 +16449,14 @@
       "onboard_time": 1754853195,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25872,
+      "num": 725867,
+      "word": "2025中国AI盛典",
+      "onboard_time": 1755097524,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25867,
@@ -16664,14 +16752,6 @@
       "word": "店主回应顾客试穿4条裤子染血渍",
       "onboard_time": 1754856314,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16961,
-      "num": 725867,
-      "word": "2025中国AI盛典",
-      "onboard_time": 1755097524,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

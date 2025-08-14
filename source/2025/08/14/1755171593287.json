@@ -1,0 +1,410 @@
+{
+  "runTime": 1755171593287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1791559,
+        "num": 1791559,
+        "word": "7k7k 4399",
+        "onboard_time": 1755165862,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 847959,
+        "num": 847959,
+        "word": "女儿调座椅压死儿子家长索赔车企",
+        "onboard_time": 1755151403,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25872,
+        "num": 697033,
+        "word": "2025中国AI盛典",
+        "onboard_time": 1755097524,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634987,
+        "num": 634987,
+        "word": "浪浪山",
+        "onboard_time": 1755167782,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 498659,
+        "num": 498659,
+        "word": "硕士宿舍投毒意图杀害两名室友",
+        "onboard_time": 1755169882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448893,
+        "num": 448893,
+        "word": "两只蝴蝶下载2亿多次作者挣了5000",
+        "onboard_time": 1755164060,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 415130,
+        "num": 415130,
+        "word": "尹春燕遗体被找到",
+        "onboard_time": 1755159143,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388505,
+        "num": 388505,
+        "word": "四六级",
+        "onboard_time": 1755166943,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 313478,
+        "num": 313478,
+        "word": "生万物",
+        "onboard_time": 1755168504,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241503,
+        "num": 241503,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755153383,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 891432,
+        "num": 241124,
+        "word": "郭德纲说已经卑微到看郭麒麟脸色",
+        "onboard_time": 1755166881,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280731,
+        "num": 241102,
+        "word": "马思纯解释不当导游的原因",
+        "onboard_time": 1755164601,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240387,
+        "num": 240387,
+        "word": "终于看到艺人全员长嘴的综艺了",
+        "onboard_time": 1755170122,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231035,
+        "num": 231035,
+        "word": "建议一天一换内裤的原因",
+        "onboard_time": 1755154883,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218789,
+        "num": 218789,
+        "word": "又一个星二代发歌了",
+        "onboard_time": 1755168262,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216459,
+        "num": 216459,
+        "word": "追授尹春燕北京市优秀共产党员",
+        "onboard_time": 1755167604,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215112,
+        "num": 215112,
+        "word": "披荆斩棘直播",
+        "onboard_time": 1755165681,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203904,
+        "num": 203904,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196065,
+        "num": 196065,
+        "word": "全玻璃iPhone",
+        "onboard_time": 1755170182,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195455,
+        "num": 195455,
+        "word": "成毅法修散打cha",
+        "onboard_time": 1755165204,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197995,
+        "num": 194423,
+        "word": "谁家三个人结两次婚",
+        "onboard_time": 1755170781,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186572,
+        "num": 186572,
+        "word": "管乐帮董璇带娃",
+        "onboard_time": 1755164783,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185961,
+        "num": 185961,
+        "word": "杨超越绿色系九宫格",
+        "onboard_time": 1755170602,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180315,
+        "num": 180315,
+        "word": "中国男篮vs韩国男篮",
+        "onboard_time": 1755170602,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170374,
+        "num": 170374,
+        "word": "9.9元咖啡正在杀死独立店",
+        "onboard_time": 1755150443,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152536,
+        "num": 152536,
+        "word": "王青这谁看了受得了",
+        "onboard_time": 1755167363,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150877,
+        "num": 150877,
+        "word": "杨幂说会为女儿成为更好的人",
+        "onboard_time": 1755168143,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149454,
+        "num": 149454,
+        "word": "孙颖莎吃玉米笑的好甜",
+        "onboard_time": 1755166162,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134942,
+        "num": 134942,
+        "word": "内娱女明星没有丑的",
+        "onboard_time": 1755170963,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128289,
+        "num": 128289,
+        "word": "建议孕期少吃水果",
+        "onboard_time": 1755169163,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179815,
+        "num": 127391,
+        "word": "木苏里 人还是不能没有头发",
+        "onboard_time": 1755171262,
+        "rank": 30,
+        "category": "读书作家,动漫"
+      },
+      {
+        "raw_hot": 168076,
+        "num": 126800,
+        "word": "张本智和和国乒交手记录",
+        "onboard_time": 1755170242,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135147,
+        "num": 126423,
+        "word": "杨幂下一条微博就这么发",
+        "onboard_time": 1755159143,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123804,
+        "num": 123804,
+        "word": "刘学义直播",
+        "onboard_time": 1755170422,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123194,
+        "num": 123194,
+        "word": "刘耀文集体责任感好强",
+        "onboard_time": 1755170242,
+        "rank": 34,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 81327,
+        "num": 120706,
+        "word": "张艺凡叫戚薇小戚戚哥哥",
+        "onboard_time": 1755168143,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120299,
+        "num": 120299,
+        "word": "减肥其实是旺自己的开始",
+        "onboard_time": 1755171443,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119265,
+        "num": 119265,
+        "word": "盛李豪255环",
+        "onboard_time": 1755171382,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114389,
+        "num": 114389,
+        "word": "A股两市超4600股下跌",
+        "onboard_time": 1755170302,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31278,
+        "num": 114044,
+        "word": "鞠婧祎早期男粉",
+        "onboard_time": 1755171202,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113872,
+        "num": 113872,
+        "word": "0713大哥不好惹二哥更是惹不起",
+        "onboard_time": 1755159862,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113855,
+        "num": 113855,
+        "word": "背娃送外卖妈妈答应公婆不再嫁人",
+        "onboard_time": 1755170662,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113133,
+        "num": 113133,
+        "word": "男朋友用几十块的鼠标怎么办",
+        "onboard_time": 1755171503,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110978,
+        "num": 110978,
+        "word": "孟子义行走的红玫瑰",
+        "onboard_time": 1755169642,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109704,
+        "num": 109704,
+        "word": "童双 夜煞",
+        "onboard_time": 1755171443,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108901,
+        "num": 108901,
+        "word": "小酒窝模仿白鹿大笑",
+        "onboard_time": 1755161784,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108000,
+        "num": 108000,
+        "word": "男子称买避孕药付款失败被撞破出轨",
+        "onboard_time": 1755132861,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107279,
+        "num": 107279,
+        "word": "宋祖儿 大自然体验官",
+        "onboard_time": 1755167724,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106282,
+        "num": 106282,
+        "word": "元气森林音乐节",
+        "onboard_time": 1755170662,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99909,
+        "num": 99909,
+        "word": "周立人故意杀人案二审宣判",
+        "onboard_time": 1755160763,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
