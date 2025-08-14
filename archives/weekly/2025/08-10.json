@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755156496603,
+  "endTime": 1755157348556,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 2330012,
-      "num": 403228,
+      "num": 413604,
       "word": "男子称买避孕药付款失败被撞破出轨",
       "onboard_time": 1755132861,
       "rank": 10,
@@ -169,6 +169,14 @@
       "onboard_time": 1754973864,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2001897,
+      "num": 1677461,
+      "word": "黄子韬训斥徐艺洋露腿",
+      "onboard_time": 1755154402,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 1981853,
@@ -232,14 +240,6 @@
       "word": "关晓彤瘦了十几斤",
       "onboard_time": 1754801901,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1677461,
-      "num": 1677461,
-      "word": "黄子韬训斥徐艺洋露腿",
-      "onboard_time": 1755154402,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -835,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1005906,
+      "num": 876200,
+      "word": "黄景瑜新签的艺人包洪瑜",
+      "onboard_time": 1755153322,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1003740,
       "num": 515596,
       "word": "李乃文和老婆牵手外出",
@@ -993,14 +1001,6 @@
       "onboard_time": 1754794821,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 876200,
-      "num": 876200,
-      "word": "黄景瑜新签的艺人包洪瑜",
-      "onboard_time": 1755153322,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 871820,
@@ -1587,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 653119,
+      "num": 653119,
+      "word": "26岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755153383,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 647303,
       "num": 647303,
       "word": "女子嫌私教课太贵让小孩哥教游泳",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1754916203,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 646610,
+      "num": 646610,
+      "word": "长期焦虑 身体炎症",
+      "onboard_time": 1755153023,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 644619,
@@ -2011,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541385,
+      "num": 541385,
+      "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
+      "onboard_time": 1755154102,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 536235,
       "num": 536235,
       "word": "孙怡说结婚离婚都是过程",
@@ -2196,7 +2220,7 @@
     },
     {
       "raw_hot": 496425,
-      "num": 417611,
+      "num": 417675,
       "word": "杨幂把生活物资留给焦俊艳",
       "onboard_time": 1755152543,
       "rank": 16,
@@ -2241,14 +2265,6 @@
       "onboard_time": 1754808861,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 490095,
-      "num": 490095,
-      "word": "长期焦虑 身体炎症",
-      "onboard_time": 1755153023,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 489109,
@@ -2697,14 +2713,6 @@
       "onboard_time": 1754971403,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 423561,
-      "num": 423561,
-      "word": "26岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1755153383,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 421818,
@@ -3331,14 +3339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325109,
-      "num": 325109,
-      "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
-      "onboard_time": 1755154102,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 325056,
       "num": 325056,
       "word": "i miss you",
@@ -3753,6 +3753,14 @@
       "onboard_time": 1754804061,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286348,
+      "num": 286348,
+      "word": "建议一天一换内裤的原因",
+      "onboard_time": 1755154883,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 286301,
@@ -4505,14 +4513,6 @@
       "onboard_time": 1754917461,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 230809,
-      "num": 221532,
-      "word": "建议一天一换内裤的原因",
-      "onboard_time": 1755154883,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 230596,
@@ -5883,6 +5883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192145,
+      "num": 212292,
+      "word": "时代少年团抽卡抽出纠缠宿命感",
+      "onboard_time": 1755156263,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192117,
       "num": 192117,
       "word": "成都蓉城3比0曼谷联",
@@ -6161,6 +6169,14 @@
       "onboard_time": 1754984483,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186709,
+      "num": 415542,
+      "word": "教师选调拟录取多名10分以下考生",
+      "onboard_time": 1755156382,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186602,
@@ -7123,12 +7139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167424,
+      "num": 167424,
+      "word": "杨幂喊话姚晨这爹你也熟",
+      "onboard_time": 1755155062,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167242,
       "num": 167242,
       "word": "杨泽琪曾在缅甸园区见过王阳阳",
       "onboard_time": 1754910628,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167210,
+      "num": 167210,
+      "word": "请内娱女团宣发朝这个标准看齐",
+      "onboard_time": 1755156803,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 166933,
@@ -7145,14 +7177,6 @@
       "onboard_time": 1755086785,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166766,
-      "num": 166766,
-      "word": "杨幂喊话姚晨这爹你也熟",
-      "onboard_time": 1755155062,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 166715,
@@ -7659,6 +7683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158292,
+      "num": 168813,
+      "word": "涨了5毛钱后康师傅饮料少卖7亿",
+      "onboard_time": 1755154342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157927,
       "num": 239295,
       "word": "妈妈带两孩子避雨称遭保安驱赶",
@@ -7793,6 +7825,14 @@
       "onboard_time": 1754912006,
       "rank": 47,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 155917,
+      "num": 155917,
+      "word": "真的建议大家要多发朋友圈",
+      "onboard_time": 1755156083,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 155588,
@@ -7937,6 +7977,14 @@
       "onboard_time": 1754829743,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153306,
+      "num": 153306,
+      "word": "忘川风华录手游",
+      "onboard_time": 1755156563,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 153073,
@@ -8139,27 +8187,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 150211,
-      "num": 150211,
-      "word": "时代少年团抽卡抽出纠缠宿命感",
-      "onboard_time": 1755156263,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150094,
       "num": 150094,
       "word": "男子疑将660万彩票丢进洗衣机",
       "onboard_time": 1754836523,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150086,
-      "num": 168813,
-      "word": "涨了5毛钱后康师傅饮料少卖7亿",
-      "onboard_time": 1755154342,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -8547,6 +8579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145095,
+      "num": 145095,
+      "word": "韩国生育率下降对孩子的影响",
+      "onboard_time": 1755156263,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 144974,
       "num": 144974,
       "word": "陈幸同回应夺冠",
@@ -8753,6 +8793,14 @@
       "onboard_time": 1754878940,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 141988,
+      "num": 222595,
+      "word": "残疾少年在录取通知书送达前病逝",
+      "onboard_time": 1755155722,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141878,
@@ -9227,6 +9275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136440,
+      "num": 142978,
+      "word": "迪丽热巴向所有打拐警察致敬",
+      "onboard_time": 1755155963,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136379,
       "num": 136379,
       "word": "周也丞磊直播异地恋情侣既视感",
@@ -9289,14 +9345,6 @@
       "onboard_time": 1755148943,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 135462,
-      "num": 135462,
-      "word": "真的建议大家要多发朋友圈",
-      "onboard_time": 1755156083,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 135444,
@@ -9753,6 +9801,14 @@
       "onboard_time": 1754807001,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131324,
+      "num": 131324,
+      "word": "左航 给大家整两张头像用用",
+      "onboard_time": 1755156983,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131310,
@@ -10305,6 +10361,14 @@
       "onboard_time": 1754816361,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126009,
+      "num": 126009,
+      "word": "大牙离婚",
+      "onboard_time": 1755157044,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 125874,
@@ -10907,6 +10971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118995,
+      "num": 118995,
+      "word": "238斤到97斤的20年减肥血泪史",
+      "onboard_time": 1755156861,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 118951,
       "num": 130790,
       "word": "翁虹25年后再扮猫妖",
@@ -11009,14 +11081,6 @@
       "onboard_time": 1754998463,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 118370,
-      "num": 118370,
-      "word": "韩国生育率下降对孩子的影响",
-      "onboard_time": 1755156263,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 118346,
@@ -11259,14 +11323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115689,
-      "num": 115689,
-      "word": "教师选调拟录取多名10分以下考生",
-      "onboard_time": 1755156382,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115671,
       "num": 115671,
       "word": "谁家男主全年无休啊",
@@ -11369,14 +11425,6 @@
       "onboard_time": 1755056902,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 114745,
-      "num": 114745,
-      "word": "迪丽热巴向所有打拐警察致敬",
-      "onboard_time": 1755155963,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 114679,
@@ -12585,6 +12633,14 @@
       "onboard_time": 1754891002,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104875,
+      "num": 142003,
+      "word": "2岁弟弟被5岁姐姐调座椅误压身亡",
+      "onboard_time": 1755156563,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104798,
@@ -14947,14 +15003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43553,
-      "num": 222595,
-      "word": "残疾少年在录取通知书送达前病逝",
-      "onboard_time": 1755155722,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43158,
       "num": 344538,
       "word": "华莱士魔道祖师动画联名抬上来了",
@@ -15323,6 +15371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33753,
+      "num": 205767,
+      "word": "贾冰好油",
+      "onboard_time": 1755157162,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33730,
       "num": 140002,
       "word": "合金首饰 高毒性重金属超标",
@@ -15393,6 +15449,14 @@
       "onboard_time": 1755123976,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 32198,
+      "num": 142076,
+      "word": "格陵兰岛三百万年冰川轰然倒塌",
+      "onboard_time": 1755157283,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31767,
@@ -15721,6 +15785,14 @@
       "onboard_time": 1754905522,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23344,
+      "num": 161409,
+      "word": "官方通报黑臭河水流入农灌区",
+      "onboard_time": 1755156743,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 22585,

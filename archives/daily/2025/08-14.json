@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755156496603,
+  "endTime": 1755157348556,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -20,14 +20,14 @@
     },
     {
       "raw_hot": 2330012,
-      "num": 403228,
+      "num": 413604,
       "word": "男子称买避孕药付款失败被撞破出轨",
       "onboard_time": 1755132861,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1677461,
+      "raw_hot": 2001897,
       "num": 1677461,
       "word": "黄子韬训斥徐艺洋露腿",
       "onboard_time": 1755154402,
@@ -91,6 +91,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 1005906,
+      "num": 876200,
+      "word": "黄景瑜新签的艺人包洪瑜",
+      "onboard_time": 1755153322,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 986437,
       "num": 986437,
       "word": "9.9元咖啡正在杀死独立店",
@@ -121,14 +129,6 @@
       "onboard_time": 1755133522,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 876200,
-      "num": 876200,
-      "word": "黄景瑜新签的艺人包洪瑜",
-      "onboard_time": 1755153322,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 871288,
@@ -211,6 +211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 653119,
+      "num": 653119,
+      "word": "26岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755153383,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 646610,
+      "num": 646610,
+      "word": "长期焦虑 身体炎症",
+      "onboard_time": 1755153023,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 637824,
       "num": 637824,
       "word": "建议大家保持微胖身材",
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541385,
+      "num": 541385,
+      "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
+      "onboard_time": 1755154102,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 508868,
       "num": 508868,
       "word": "王者荣耀新皮肤",
@@ -276,19 +300,11 @@
     },
     {
       "raw_hot": 496425,
-      "num": 417611,
+      "num": 417675,
       "word": "杨幂把生活物资留给焦俊艳",
       "onboard_time": 1755152543,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 490095,
-      "num": 490095,
-      "word": "长期焦虑 身体炎症",
-      "onboard_time": 1755153023,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 482573,
@@ -329,14 +345,6 @@
       "onboard_time": 1755091464,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 423561,
-      "num": 423561,
-      "word": "26岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1755153383,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 394840,
@@ -385,14 +393,6 @@
       "onboard_time": 1755137900,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 325109,
-      "num": 325109,
-      "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
-      "onboard_time": 1755154102,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 318414,
@@ -457,6 +457,14 @@
       "onboard_time": 1755101542,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286348,
+      "num": 286348,
+      "word": "建议一天一换内裤的原因",
+      "onboard_time": 1755154883,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 276965,
@@ -529,14 +537,6 @@
       "onboard_time": 1755084145,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 230809,
-      "num": 221532,
-      "word": "建议一天一换内裤的原因",
-      "onboard_time": 1755154883,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 229018,
@@ -747,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192145,
+      "num": 212292,
+      "word": "时代少年团抽卡抽出纠缠宿命感",
+      "onboard_time": 1755156263,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192015,
       "num": 239656,
       "word": "最想对18岁的自己说什么",
@@ -768,6 +776,14 @@
       "word": "连亏15年的博主称快回本了",
       "onboard_time": 1755153142,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186709,
+      "num": 415542,
+      "word": "教师选调拟录取多名10分以下考生",
+      "onboard_time": 1755156382,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -883,12 +899,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166766,
-      "num": 166766,
+      "raw_hot": 167424,
+      "num": 167424,
       "word": "杨幂喊话姚晨这爹你也熟",
       "onboard_time": 1755155062,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167210,
+      "num": 167210,
+      "word": "请内娱女团宣发朝这个标准看齐",
+      "onboard_time": 1755156803,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 166473,
@@ -963,6 +987,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158292,
+      "num": 168813,
+      "word": "涨了5毛钱后康师傅饮料少卖7亿",
+      "onboard_time": 1755154342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155917,
+      "num": 155917,
+      "word": "真的建议大家要多发朋友圈",
+      "onboard_time": 1755156083,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155588,
       "num": 155588,
       "word": "父母不让远嫁的12年婚姻生活",
@@ -985,6 +1025,14 @@
       "onboard_time": 1755138021,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 153306,
+      "num": 153306,
+      "word": "忘川风华录手游",
+      "onboard_time": 1755156563,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 152202,
@@ -1011,22 +1059,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 150211,
-      "num": 150211,
-      "word": "时代少年团抽卡抽出纠缠宿命感",
-      "onboard_time": 1755156263,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 150086,
-      "num": 168813,
-      "word": "涨了5毛钱后康师傅饮料少卖7亿",
-      "onboard_time": 1755154342,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149686,
       "num": 206074,
       "word": "北大辟谣易继明违规招生",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1755151463,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145095,
+      "num": 145095,
+      "word": "韩国生育率下降对孩子的影响",
+      "onboard_time": 1755156263,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 144637,
@@ -1075,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141988,
+      "num": 222595,
+      "word": "残疾少年在录取通知书送达前病逝",
+      "onboard_time": 1755155722,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139681,
       "num": 139681,
       "word": "我宣布这个不亚于图书馆30秒",
@@ -1083,20 +1131,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136440,
+      "num": 142978,
+      "word": "迪丽热巴向所有打拐警察致敬",
+      "onboard_time": 1755155963,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135826,
       "num": 218880,
       "word": "宝格丽蜕变经典塑新生",
       "onboard_time": 1755148943,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 135462,
-      "num": 135462,
-      "word": "真的建议大家要多发朋友圈",
-      "onboard_time": 1755156083,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 135017,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1755145045,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131324,
+      "num": 131324,
+      "word": "左航 给大家整两张头像用用",
+      "onboard_time": 1755156983,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 131269,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1755150142,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126009,
+      "num": 126009,
+      "word": "大牙离婚",
+      "onboard_time": 1755157044,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 125424,
@@ -1291,20 +1355,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118995,
+      "num": 118995,
+      "word": "238斤到97斤的20年减肥血泪史",
+      "onboard_time": 1755156861,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 118796,
       "num": 118796,
       "word": "建议在大学一定要去谈恋爱",
       "onboard_time": 1755142700,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118370,
-      "num": 118370,
-      "word": "韩国生育率下降对孩子的影响",
-      "onboard_time": 1755156263,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 118346,
@@ -1347,14 +1411,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 115689,
-      "num": 115689,
-      "word": "教师选调拟录取多名10分以下考生",
-      "onboard_time": 1755156382,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115254,
       "num": 115254,
       "word": "南京震感",
@@ -1369,14 +1425,6 @@
       "onboard_time": 1755130521,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114745,
-      "num": 114745,
-      "word": "迪丽热巴向所有打拐警察致敬",
-      "onboard_time": 1755155963,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 111660,
@@ -1520,6 +1568,14 @@
       "word": "她们在凋零但真相不能忘",
       "onboard_time": 1755133162,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104875,
+      "num": 142003,
+      "word": "2岁弟弟被5岁姐姐调座椅误压身亡",
+      "onboard_time": 1755156563,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1915,14 +1971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43553,
-      "num": 222595,
-      "word": "残疾少年在录取通知书送达前病逝",
-      "onboard_time": 1755155722,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42914,
       "num": 65374,
       "word": "提名演唱会的神级现场",
@@ -1979,12 +2027,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33753,
+      "num": 205767,
+      "word": "贾冰好油",
+      "onboard_time": 1755157162,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32361,
       "num": 65846,
       "word": "太原晋祠火爆景区开中门迎客",
       "onboard_time": 1755123976,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 32198,
+      "num": 142076,
+      "word": "格陵兰岛三百万年冰川轰然倒塌",
+      "onboard_time": 1755157283,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31098,
@@ -2009,6 +2073,14 @@
       "onboard_time": 1755153683,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23344,
+      "num": 161409,
+      "word": "官方通报黑臭河水流入农灌区",
+      "onboard_time": 1755156743,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 22585,

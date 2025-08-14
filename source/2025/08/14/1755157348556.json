@@ -1,0 +1,410 @@
+{
+  "runTime": 1755157348556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2206242,
+        "num": 2206242,
+        "word": "女儿调座椅压死儿子家长索赔车企",
+        "onboard_time": 1755151403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729993,
+        "num": 729993,
+        "word": "9.9元咖啡正在杀死独立店",
+        "onboard_time": 1755150443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39412,
+        "num": 661874,
+        "word": "台风杨柳在福建沿海登陆",
+        "onboard_time": 1755133223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653119,
+        "num": 653119,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755153383,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 646610,
+        "num": 646610,
+        "word": "长期焦虑 身体炎症",
+        "onboard_time": 1755153023,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2001897,
+        "num": 628716,
+        "word": "黄子韬训斥徐艺洋露腿",
+        "onboard_time": 1755154402,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1005906,
+        "num": 621142,
+        "word": "黄景瑜新签的艺人包洪瑜",
+        "onboard_time": 1755153322,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541385,
+        "num": 541385,
+        "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
+        "onboard_time": 1755154102,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 417675,
+        "num": 417675,
+        "word": "杨幂把生活物资留给焦俊艳",
+        "onboard_time": 1755152543,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186709,
+        "num": 415542,
+        "word": "教师选调拟录取多名10分以下考生",
+        "onboard_time": 1755156382,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529557,
+        "num": 414973,
+        "word": "黄子韬说听泉赏宝掉钱眼里了",
+        "onboard_time": 1755150263,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413604,
+        "num": 413604,
+        "word": "男子称买避孕药付款失败被撞破出轨",
+        "onboard_time": 1755132861,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299698,
+        "num": 299698,
+        "word": "女子带5孩点一碗面多次免费续面",
+        "onboard_time": 1755144684,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290481,
+        "num": 290481,
+        "word": "P人永远不懂J人的行李箱",
+        "onboard_time": 1755149543,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286348,
+        "num": 286348,
+        "word": "建议一天一换内裤的原因",
+        "onboard_time": 1755154883,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281587,
+        "num": 281587,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254545,
+        "num": 254545,
+        "word": "顾客误将日料套餐当自助餐消费4302元",
+        "onboard_time": 1755142522,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219198,
+        "num": 219198,
+        "word": "这就是朋友和好朋友的区别",
+        "onboard_time": 1755155303,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213388,
+        "num": 213388,
+        "word": "郑爽影视剧出品方被执行565万",
+        "onboard_time": 1755144805,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192145,
+        "num": 212292,
+        "word": "时代少年团抽卡抽出纠缠宿命感",
+        "onboard_time": 1755156263,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 932343,
+        "num": 210682,
+        "word": "医生说B罩杯以下可以不穿内衣",
+        "onboard_time": 1755147264,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 268298,
+        "num": 207388,
+        "word": "鹿晗 谁哭下次别来了啊",
+        "onboard_time": 1755148883,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33753,
+        "num": 205767,
+        "word": "贾冰好油",
+        "onboard_time": 1755157162,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204588,
+        "num": 204588,
+        "word": "四六级查分时间",
+        "onboard_time": 1755144863,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182628,
+        "num": 182628,
+        "word": "王一博起诉莆田鞋",
+        "onboard_time": 1755144863,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176701,
+        "num": 176701,
+        "word": "NewJeans成员出庭",
+        "onboard_time": 1755153204,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174740,
+        "num": 174740,
+        "word": "花儿与少年",
+        "onboard_time": 1755151043,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167424,
+        "num": 167424,
+        "word": "杨幂喊话姚晨这爹你也熟",
+        "onboard_time": 1755155062,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167210,
+        "num": 167210,
+        "word": "请内娱女团宣发朝这个标准看齐",
+        "onboard_time": 1755156803,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23344,
+        "num": 161409,
+        "word": "官方通报黑臭河水流入农灌区",
+        "onboard_time": 1755156743,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 160440,
+        "num": 160440,
+        "word": "万千惠用母乳救助了14个早产儿",
+        "onboard_time": 1755155482,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158292,
+        "num": 158292,
+        "word": "涨了5毛钱后康师傅饮料少卖7亿",
+        "onboard_time": 1755154342,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155958,
+        "num": 155958,
+        "word": "建议大家保持微胖身材",
+        "onboard_time": 1755142764,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155917,
+        "num": 155917,
+        "word": "真的建议大家要多发朋友圈",
+        "onboard_time": 1755156083,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153306,
+        "num": 153306,
+        "word": "忘川风华录手游",
+        "onboard_time": 1755156563,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152140,
+        "num": 152140,
+        "word": "女子拿100万加盟咖啡店半年亏200万",
+        "onboard_time": 1755153803,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145095,
+        "num": 145095,
+        "word": "韩国生育率下降对孩子的影响",
+        "onboard_time": 1755156263,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136440,
+        "num": 142978,
+        "word": "迪丽热巴向所有打拐警察致敬",
+        "onboard_time": 1755155963,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32198,
+        "num": 142076,
+        "word": "格陵兰岛三百万年冰川轰然倒塌",
+        "onboard_time": 1755157283,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104875,
+        "num": 142003,
+        "word": "2岁弟弟被5岁姐姐调座椅误压身亡",
+        "onboard_time": 1755156563,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141988,
+        "num": 141988,
+        "word": "残疾少年在录取通知书送达前病逝",
+        "onboard_time": 1755155722,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132525,
+        "num": 132525,
+        "word": "iPhone长按的隐藏功能",
+        "onboard_time": 1755153082,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131324,
+        "num": 131324,
+        "word": "左航 给大家整两张头像用用",
+        "onboard_time": 1755156983,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126558,
+        "num": 126558,
+        "word": "生万物",
+        "onboard_time": 1755143603,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126009,
+        "num": 126009,
+        "word": "大牙离婚",
+        "onboard_time": 1755157044,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121225,
+        "num": 121225,
+        "word": "傅首尔 浪浪山小妖怪",
+        "onboard_time": 1755140543,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118995,
+        "num": 118995,
+        "word": "238斤到97斤的20年减肥血泪史",
+        "onboard_time": 1755156861,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 118778,
+        "num": 118778,
+        "word": "王者荣耀新皮肤",
+        "onboard_time": 1755140602,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109016,
+        "num": 109016,
+        "word": "微信聊天可引用部分文字了",
+        "onboard_time": 1755153322,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108334,
+        "num": 108334,
+        "word": "这是蒲巴甲还是王力宏",
+        "onboard_time": 1755155784,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念提出20年#"
+    }
+  }
+}
