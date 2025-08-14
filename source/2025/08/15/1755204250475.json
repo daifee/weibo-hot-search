@@ -1,0 +1,410 @@
+{
+  "runTime": 1755204250475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 169342,
+        "num": 169342,
+        "word": "社保断缴一次这些待遇全部取消",
+        "onboard_time": 1755181285,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87639,
+        "num": 87639,
+        "word": "店家回应3女子带4孩多次续面",
+        "onboard_time": 1755187103,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17969,
+        "num": 67780,
+        "word": "2025世界人形机器人运动会",
+        "onboard_time": 1755174202,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59132,
+        "num": 59132,
+        "word": "80年前的今天日本投降",
+        "onboard_time": 1755189740,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58061,
+        "num": 58061,
+        "word": "日军慰安妇制度受害幸存者只剩7人",
+        "onboard_time": 1755188123,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53253,
+        "num": 53253,
+        "word": "中纪委明确公职人员禁止6类副业",
+        "onboard_time": 1755183564,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50154,
+        "num": 50154,
+        "word": "日本人因南京大屠杀史料羞愧愤怒",
+        "onboard_time": 1755175582,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46878,
+        "num": 46878,
+        "word": "史上第一部没破亿硬发海报的电影",
+        "onboard_time": 1755179663,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43673,
+        "num": 43673,
+        "word": "邢菲演技",
+        "onboard_time": 1755197835,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39061,
+        "num": 39061,
+        "word": "印度洋上空现10个神秘黑暗空洞",
+        "onboard_time": 1755176244,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88458,
+        "num": 37111,
+        "word": "黄一鸣回应怀孕时没公布",
+        "onboard_time": 1755198854,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56695,
+        "num": 36186,
+        "word": "女儿调座椅压死儿子家长岂能甩锅",
+        "onboard_time": 1755175943,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48913,
+        "num": 35820,
+        "word": "杨超越才发现照片里的虫子",
+        "onboard_time": 1755183083,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34083,
+        "num": 34083,
+        "word": "韩美娟赤木刚宪穿婚服合照",
+        "onboard_time": 1755180024,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31627,
+        "num": 31627,
+        "word": "7k7k 4399",
+        "onboard_time": 1755165862,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29498,
+        "num": 29498,
+        "word": "内娱女明星没有丑的",
+        "onboard_time": 1755170963,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29249,
+        "num": 29249,
+        "word": "生万物",
+        "onboard_time": 1755168504,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29051,
+        "num": 29051,
+        "word": "封大脚 梁宽植",
+        "onboard_time": 1755177264,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27981,
+        "num": 27981,
+        "word": "邱泽许玮甯宝宝出生",
+        "onboard_time": 1755175463,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26980,
+        "num": 26980,
+        "word": "有人为领生育补贴迁户至湖北天门",
+        "onboard_time": 1755185544,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26562,
+        "num": 26562,
+        "word": "生万物 纯爱番",
+        "onboard_time": 1755179006,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26132,
+        "num": 26132,
+        "word": "天才女友 合诗雨",
+        "onboard_time": 1755181524,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24754,
+        "num": 24754,
+        "word": "王玉雯刘昊然张新成的故事越来越完整",
+        "onboard_time": 1755181705,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23519,
+        "num": 23519,
+        "word": "4种早餐被列入高脂名单",
+        "onboard_time": 1755178704,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23285,
+        "num": 23285,
+        "word": "浪浪山",
+        "onboard_time": 1755167782,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20093,
+        "num": 20093,
+        "word": "郭德纲说已经卑微到看郭麒麟脸色",
+        "onboard_time": 1755166881,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19411,
+        "num": 19411,
+        "word": "许昕和张本智和的八败之交",
+        "onboard_time": 1755186022,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18986,
+        "num": 18986,
+        "word": "原来歌曲恭喜恭喜是庆祝抗战胜利",
+        "onboard_time": 1755194357,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18530,
+        "num": 18530,
+        "word": "iPhone17Pro四大升级",
+        "onboard_time": 1755175646,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18134,
+        "num": 18134,
+        "word": "湘大投毒凶手曾在宿舍磨刀用喷枪烤物",
+        "onboard_time": 1755185963,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18017,
+        "num": 18017,
+        "word": "男子杀害祖孙3人被鉴定为精神分裂",
+        "onboard_time": 1755202215,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17826,
+        "num": 17826,
+        "word": "俄美总统会晤后将举行联合记者会",
+        "onboard_time": 1755196035,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17522,
+        "num": 17522,
+        "word": "两只蝴蝶下载2亿多次作者挣了5000",
+        "onboard_time": 1755164060,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17482,
+        "num": 17482,
+        "word": "糖尿病前期的5个症状",
+        "onboard_time": 1755174563,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 9476,
+        "num": 17379,
+        "word": "攀登者管静被落石砸中遇难",
+        "onboard_time": 1755204074,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17327,
+        "num": 17327,
+        "word": "建议一天一换内裤的原因",
+        "onboard_time": 1755154883,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16631,
+        "num": 16631,
+        "word": "请记住杭州地铁6号受降站的由来",
+        "onboard_time": 1755193277,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16527,
+        "num": 16527,
+        "word": "笔试1分也能当初中老师是糊弄谁",
+        "onboard_time": 1755199334,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16374,
+        "num": 16374,
+        "word": "河南 基孔肯雅热传播风险区",
+        "onboard_time": 1755191957,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15794,
+        "num": 15794,
+        "word": "洪灾损失千万金店店内监控首曝光",
+        "onboard_time": 1755186382,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15693,
+        "num": 15693,
+        "word": "上千艳照寄给公职人员5人被判刑",
+        "onboard_time": 1755203174,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15690,
+        "num": 15690,
+        "word": "有一种内耗叫过度准备",
+        "onboard_time": 1755187702,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15427,
+        "num": 15427,
+        "word": "赵今麦魏大勋牵手散步路透",
+        "onboard_time": 1755175463,
+        "rank": 42,
+        "category": "剧集,剧集"
+      },
+      {
+        "raw_hot": 15000,
+        "num": 15000,
+        "word": "平凡日常里记得好好爱自己",
+        "onboard_time": 1755193636,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15296,
+        "num": 14993,
+        "word": "迪丽热巴相约下一个角色旅程",
+        "onboard_time": 1755188243,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14844,
+        "num": 14844,
+        "word": "高校需重视校园矛盾避免悲剧重演",
+        "onboard_time": 1755195736,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14819,
+        "num": 14819,
+        "word": "文创店售卖处女证被批低俗",
+        "onboard_time": 1755189320,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14584,
+        "num": 14584,
+        "word": "公职人员禁止干6类副业",
+        "onboard_time": 1755180864,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13905,
+        "num": 14582,
+        "word": "张元英预告造型",
+        "onboard_time": 1755186563,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13814,
+        "num": 14582,
+        "word": "星穹铁道海瑟音",
+        "onboard_time": 1755193456,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山可以成为金山银山#"
+    }
+  }
+}
