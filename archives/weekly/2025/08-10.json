@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755199330653,
+  "endTime": 1755200204517,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -17011,6 +17011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 35112,
+      "num": 35112,
+      "word": "邢菲演技",
+      "onboard_time": 1755197835,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34956,
       "num": 194071,
       "word": "发布12字评论被拘5日当事男子发声",
@@ -17065,14 +17073,6 @@
       "onboard_time": 1755109216,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33834,
-      "num": 33834,
-      "word": "邢菲演技",
-      "onboard_time": 1755197835,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 33791,
@@ -17169,6 +17169,14 @@
       "onboard_time": 1754778616,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31421,
+      "num": 31421,
+      "word": "黄一鸣回应怀孕时没公布",
+      "onboard_time": 1755198854,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 31401,
@@ -17489,14 +17497,6 @@
       "onboard_time": 1755147745,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25013,
-      "num": 24237,
-      "word": "黄一鸣回应怀孕时没公布",
-      "onboard_time": 1755198854,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 24888,
@@ -17881,6 +17881,14 @@
       "onboard_time": 1755119894,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12692,
+      "num": 59427,
+      "word": "笔试1分也能当初中老师是糊弄谁",
+      "onboard_time": 1755199334,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11780,
