@@ -1,6 +1,6 @@
 {
   "startTime": 1755102602111,
-  "endTime": 1755153630138,
+  "endTime": 1755154481858,
   "band_list": [
     {
       "raw_hot": 8930699,
@@ -11,19 +11,19 @@
       "category": "艺人,舆论监督"
     },
     {
+      "raw_hot": 2423723,
+      "num": 2423723,
+      "word": "女儿调座椅压死儿子家长索赔车企",
+      "onboard_time": 1755151403,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2330012,
       "num": 403228,
       "word": "男子称买避孕药付款失败被撞破出轨",
       "onboard_time": 1755132861,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2058121,
-      "num": 2058121,
-      "word": "女儿调座椅压死儿子家长索赔车企",
-      "onboard_time": 1755151403,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1076837,
+      "num": 1076837,
+      "word": "黄子韬说听泉赏宝掉钱眼里了",
+      "onboard_time": 1755150263,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1056276,
       "num": 1137272,
       "word": "顾客误将日料套餐当自助餐消费4302元",
@@ -67,20 +75,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1041219,
-      "num": 1041219,
-      "word": "黄子韬说听泉赏宝掉钱眼里了",
-      "onboard_time": 1755150263,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 979263,
+      "raw_hot": 1032678,
       "num": 214024,
       "word": "医生说B罩杯以下可以不穿内衣",
       "onboard_time": 1755147264,
       "rank": 20,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 986437,
+      "num": 986437,
+      "word": "9.9元咖啡正在杀死独立店",
+      "onboard_time": 1755150443,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 958586,
@@ -153,14 +161,6 @@
       "onboard_time": 1755125177,
       "rank": 7,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 738723,
-      "num": 738723,
-      "word": "9.9元咖啡正在杀死独立店",
-      "onboard_time": 1755150443,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 736235,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 496425,
+      "num": 394561,
+      "word": "杨幂把生活物资留给焦俊艳",
+      "onboard_time": 1755152543,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482573,
       "num": 482573,
       "word": "P人永远不懂J人的行李箱",
@@ -289,6 +297,14 @@
       "onboard_time": 1755110235,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 449633,
+      "num": 449633,
+      "word": "黄景瑜新签的艺人包洪瑜",
+      "onboard_time": 1755153322,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 429169,
@@ -377,6 +393,14 @@
       "onboard_time": 1755144743,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 304281,
+      "num": 304281,
+      "word": "长期焦虑 身体炎症",
+      "onboard_time": 1755153023,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 302056,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 220921,
-      "num": 882737,
+      "num": 1002798,
       "word": "台风杨柳在福建沿海登陆",
       "onboard_time": 1755133223,
       "rank": 9,
@@ -507,12 +531,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 215542,
-      "num": 215542,
-      "word": "杨幂把生活物资留给焦俊艳",
-      "onboard_time": 1755152543,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 215182,
+      "num": 215182,
+      "word": "NewJeans成员出庭",
+      "onboard_time": 1755153204,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 214438,
@@ -537,6 +561,14 @@
       "onboard_time": 1755129623,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211298,
+      "num": 211298,
+      "word": "26岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755153383,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209651,
@@ -619,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197584,
+      "num": 197584,
+      "word": "iPhone长按的隐藏功能",
+      "onboard_time": 1755153082,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 197094,
       "num": 197094,
       "word": "台风杨柳最新路径",
@@ -635,12 +675,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195199,
-      "num": 195199,
-      "word": "黄景瑜新签的艺人包洪瑜",
-      "onboard_time": 1755153322,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 194969,
+      "num": 194969,
+      "word": "管乐用脚把张小婉举起来",
+      "onboard_time": 1755152843,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 194234,
@@ -739,20 +779,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176515,
-      "num": 174645,
-      "word": "管乐用脚把张小婉举起来",
-      "onboard_time": 1755152843,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175206,
       "num": 216080,
       "word": "杨柳来了深圳红暴了",
       "onboard_time": 1755149483,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172579,
+      "num": 172579,
+      "word": "刘宇宁玩游戏像开挂",
+      "onboard_time": 1755152843,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 171990,
@@ -769,6 +809,14 @@
       "onboard_time": 1755153142,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 170890,
+      "num": 170890,
+      "word": "谢娜上音综帮唱素人",
+      "onboard_time": 1755153803,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 169874,
@@ -835,14 +883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 159924,
-      "num": 159924,
-      "word": "长期焦虑 身体炎症",
-      "onboard_time": 1755153023,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 159151,
       "num": 159151,
       "word": "华裔女生参加毕业典礼被印度人包围了",
@@ -865,6 +905,14 @@
       "onboard_time": 1755150802,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157124,
+      "num": 157124,
+      "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
+      "onboard_time": 1755154102,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155588,
@@ -899,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151601,
+      "num": 376249,
+      "word": "日本警方回应中国游客被列车撞击身亡",
+      "onboard_time": 1755150202,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150356,
       "num": 150356,
       "word": "原来麻辣烫很适合减肥吃",
@@ -913,14 +969,6 @@
       "onboard_time": 1755137184,
       "rank": 22,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 148616,
-      "num": 162050,
-      "word": "NewJeans成员出庭",
-      "onboard_time": 1755153204,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 148080,
@@ -963,20 +1011,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140600,
+      "num": 398334,
+      "word": "女子拿100万加盟咖啡店半年亏200万",
+      "onboard_time": 1755153803,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139681,
       "num": 139681,
       "word": "我宣布这个不亚于图书馆30秒",
       "onboard_time": 1755144563,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138358,
-      "num": 138358,
-      "word": "26岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1755153383,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 135826,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1755091945,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129995,
+      "num": 129995,
+      "word": "黄子韬训斥徐艺洋露腿",
+      "onboard_time": 1755154402,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 129240,
@@ -1115,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123531,
+      "num": 123531,
+      "word": "纪委回应网传贪官挖出327枚比特币",
+      "onboard_time": 1755154102,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122994,
       "num": 122994,
       "word": "文华奖公示拟进入终评提名名单",
@@ -1160,6 +1224,14 @@
       "word": "大理失踪男童遗体在山涧里被发现",
       "onboard_time": 1755098064,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120663,
+      "num": 120663,
+      "word": "涨了5毛钱后康师傅饮料少卖7亿",
+      "onboard_time": 1755154342,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1225,14 +1297,6 @@
       "onboard_time": 1755130521,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114551,
-      "num": 188932,
-      "word": "iPhone长按的隐藏功能",
-      "onboard_time": 1755153082,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 111660,
@@ -1515,6 +1579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91726,
+      "num": 127949,
+      "word": "进城帮子女带娃的老漂族",
+      "onboard_time": 1755153204,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91631,
       "num": 91631,
       "word": "传播虚假警情通报者被严厉处罚",
@@ -1641,14 +1713,6 @@
       "onboard_time": 1755094944,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 73203,
-      "num": 376249,
-      "word": "日本警方回应中国游客被列车撞击身亡",
-      "onboard_time": 1755150202,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 73078,
@@ -1811,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23953,
+      "num": 126766,
+      "word": "企业抓阄决定员工去留",
+      "onboard_time": 1755153683,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22585,
       "num": 112545,
       "word": "福建各地多措并举防御台风杨柳",
@@ -1865,14 +1937,6 @@
       "onboard_time": 1755119894,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9151,
-      "num": 127949,
-      "word": "进城帮子女带娃的老漂族",
-      "onboard_time": 1755153204,
-      "rank": 38,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

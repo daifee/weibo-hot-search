@@ -1,0 +1,410 @@
+{
+  "runTime": 1755154481858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2423723,
+        "num": 2423723,
+        "word": "女儿调座椅压死儿子家长索赔车企",
+        "onboard_time": 1755151403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1076837,
+        "num": 1076837,
+        "word": "黄子韬说听泉赏宝掉钱眼里了",
+        "onboard_time": 1755150263,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43121,
+        "num": 1002798,
+        "word": "台风杨柳在福建沿海登陆",
+        "onboard_time": 1755133223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 986437,
+        "num": 986437,
+        "word": "9.9元咖啡正在杀死独立店",
+        "onboard_time": 1755150443,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470480,
+        "num": 470480,
+        "word": "顾客误将日料套餐当自助餐消费4302元",
+        "onboard_time": 1755142522,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449633,
+        "num": 449633,
+        "word": "黄景瑜新签的艺人包洪瑜",
+        "onboard_time": 1755153322,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449622,
+        "num": 449622,
+        "word": "P人永远不懂J人的行李箱",
+        "onboard_time": 1755149543,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431911,
+        "num": 431911,
+        "word": "鹿晗 谁哭下次别来了啊",
+        "onboard_time": 1755148883,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 424125,
+        "num": 424125,
+        "word": "女子带5孩点一碗面多次免费续面",
+        "onboard_time": 1755144684,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140600,
+        "num": 398334,
+        "word": "女子拿100万加盟咖啡店半年亏200万",
+        "onboard_time": 1755153803,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521228,
+        "num": 398201,
+        "word": "男子称买避孕药付款失败被撞破出轨",
+        "onboard_time": 1755132861,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496425,
+        "num": 394561,
+        "word": "杨幂把生活物资留给焦俊艳",
+        "onboard_time": 1755152543,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389295,
+        "num": 389295,
+        "word": "郑爽影视剧出品方被执行565万",
+        "onboard_time": 1755144805,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333640,
+        "num": 333640,
+        "word": "女子备孕10年生下宝宝患尿毒症",
+        "onboard_time": 1755142402,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318613,
+        "num": 318613,
+        "word": "王一博起诉莆田鞋",
+        "onboard_time": 1755144863,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304281,
+        "num": 304281,
+        "word": "长期焦虑 身体炎症",
+        "onboard_time": 1755153023,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286059,
+        "num": 286059,
+        "word": "花儿与少年",
+        "onboard_time": 1755151043,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275266,
+        "num": 275266,
+        "word": "建议大家保持微胖身材",
+        "onboard_time": 1755142764,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215182,
+        "num": 215182,
+        "word": "NewJeans成员出庭",
+        "onboard_time": 1755153204,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211298,
+        "num": 211298,
+        "word": "26岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755153383,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1032678,
+        "num": 210027,
+        "word": "医生说B罩杯以下可以不穿内衣",
+        "onboard_time": 1755147264,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 197584,
+        "num": 197584,
+        "word": "iPhone长按的隐藏功能",
+        "onboard_time": 1755153082,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196738,
+        "num": 196738,
+        "word": "团伙引诱男性发生关系留下抓痕报警",
+        "onboard_time": 1755141262,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194969,
+        "num": 194969,
+        "word": "管乐用脚把张小婉举起来",
+        "onboard_time": 1755152843,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177579,
+        "num": 177579,
+        "word": "求婚王珞丹男子被曝曾骚扰迪丽热巴",
+        "onboard_time": 1755143363,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172579,
+        "num": 172579,
+        "word": "刘宇宁玩游戏像开挂",
+        "onboard_time": 1755152843,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170890,
+        "num": 170890,
+        "word": "谢娜上音综帮唱素人",
+        "onboard_time": 1755153803,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82386,
+        "num": 158024,
+        "word": "吉利汽车上半年营收首破1500亿",
+        "onboard_time": 1755151463,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157124,
+        "num": 157124,
+        "word": "不堪病痛折磨92岁丈夫勒死91岁妻子",
+        "onboard_time": 1755154102,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156590,
+        "num": 156590,
+        "word": "王者荣耀新皮肤",
+        "onboard_time": 1755140602,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151601,
+        "num": 151601,
+        "word": "日本警方回应中国游客被列车撞击身亡",
+        "onboard_time": 1755150202,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147585,
+        "num": 147585,
+        "word": "建议每一位普通人都尽早用上AI",
+        "onboard_time": 1755153142,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147110,
+        "num": 147110,
+        "word": "连亏15年的博主称快回本了",
+        "onboard_time": 1755153142,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145993,
+        "num": 145993,
+        "word": "杨柳来了深圳红暴了",
+        "onboard_time": 1755149483,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142156,
+        "num": 142156,
+        "word": "山西一景区演员被马拖行",
+        "onboard_time": 1755151463,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139473,
+        "num": 139473,
+        "word": "小栗旬韩孝周新剧",
+        "onboard_time": 1755150802,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138993,
+        "num": 138993,
+        "word": "杨幂新剧婆婆基础公公就不基础",
+        "onboard_time": 1755147083,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132364,
+        "num": 132364,
+        "word": "李沁 眉姐姐穿搭",
+        "onboard_time": 1755144142,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129995,
+        "num": 129995,
+        "word": "黄子韬训斥徐艺洋露腿",
+        "onboard_time": 1755154402,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23953,
+        "num": 126766,
+        "word": "企业抓阄决定员工去留",
+        "onboard_time": 1755153683,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124352,
+        "num": 124352,
+        "word": "四六级查分时间",
+        "onboard_time": 1755144863,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123531,
+        "num": 123531,
+        "word": "纪委回应网传贪官挖出327枚比特币",
+        "onboard_time": 1755154102,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124273,
+        "num": 122648,
+        "word": "傅首尔 浪浪山小妖怪",
+        "onboard_time": 1755140543,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120948,
+        "num": 120948,
+        "word": "生万物",
+        "onboard_time": 1755143603,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120663,
+        "num": 120663,
+        "word": "涨了5毛钱后康师傅饮料少卖7亿",
+        "onboard_time": 1755154342,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119750,
+        "num": 119750,
+        "word": "杨洋谈这两年的沉潜与成长",
+        "onboard_time": 1755144982,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117055,
+        "num": 117055,
+        "word": "男生带五粮液上高铁被拦当场喝完",
+        "onboard_time": 1755141863,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91726,
+        "num": 116278,
+        "word": "进城帮子女带娃的老漂族",
+        "onboard_time": 1755153204,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116253,
+        "num": 116253,
+        "word": "文华奖公示拟进入终评提名名单",
+        "onboard_time": 1755153562,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 112823,
+        "num": 112823,
+        "word": "公司开除了所有抽烟的员工",
+        "onboard_time": 1755150142,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念提出20年#"
+    }
+  }
+}
