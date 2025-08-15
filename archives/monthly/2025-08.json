@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755233505013,
+  "endTime": 1755235684593,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -987,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1673791,
+      "num": 562404,
+      "word": "董洁潘粤明儿子基因彩票",
+      "onboard_time": 1755231923,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1659191,
       "num": 1659191,
       "word": "虞书欣疑似解约华策",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1755219502,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1486835,
-      "num": 562404,
-      "word": "董洁潘粤明儿子基因彩票",
-      "onboard_time": 1755231923,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1481731,
@@ -2083,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1159323,
+      "num": 1173015,
+      "word": "香港偶遇angelababy小海绵",
+      "onboard_time": 1755231923,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1158434,
       "num": 461132,
       "word": "吴谨言约饭于正坦白结婚",
@@ -2291,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1094097,
+      "num": 339900,
+      "word": "梅婷生了个小梅婷",
+      "onboard_time": 1755233303,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1087927,
       "num": 461639,
       "word": "李诞抖音评论区",
@@ -2320,14 +2336,6 @@
       "word": "于正说可以和赵露思合伙开面馆",
       "onboard_time": 1754221643,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1081347,
-      "num": 1173015,
-      "word": "香港偶遇angelababy小海绵",
-      "onboard_time": 1755231923,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2696,6 +2704,14 @@
       "word": "老人携带不明液体上公交遭拒",
       "onboard_time": 1754459183,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1002050,
+      "num": 1160328,
+      "word": "大暴雨特大暴雨要来了",
+      "onboard_time": 1755229825,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -4115,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 754098,
+      "num": 754098,
+      "word": "迪丽热巴千字长文",
+      "onboard_time": 1755227423,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 752567,
       "num": 752567,
       "word": "20岁女子遭已婚男友纠缠跳楼身亡",
@@ -5027,14 +5051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 661752,
-      "num": 661752,
-      "word": "迪丽热巴千字长文",
-      "onboard_time": 1755227423,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 661707,
       "num": 478487,
       "word": "郑钧说老婆下死命令支持陈楚生",
@@ -5113,6 +5129,14 @@
       "onboard_time": 1754711421,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655896,
+      "num": 655896,
+      "word": "四大名著 翻拍",
+      "onboard_time": 1755233783,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 655510,
@@ -5867,6 +5891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 596806,
+      "num": 390316,
+      "word": "黄子韬回应婚礼时间",
+      "onboard_time": 1755232162,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596323,
       "num": 547203,
       "word": "果茶 含糖量",
@@ -5961,14 +5993,6 @@
       "onboard_time": 1754484264,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 589639,
-      "num": 589639,
-      "word": "大暴雨特大暴雨要来了",
-      "onboard_time": 1755229825,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 589444,
@@ -9259,14 +9283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 390316,
-      "num": 390316,
-      "word": "黄子韬回应婚礼时间",
-      "onboard_time": 1755232162,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 390147,
       "num": 390147,
       "word": "凡人修仙传大结局",
@@ -10481,6 +10497,14 @@
       "onboard_time": 1754703921,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339478,
+      "num": 339478,
+      "word": "一年级也该火个邢菲了",
+      "onboard_time": 1755234383,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 339381,
@@ -13083,6 +13107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261309,
+      "num": 261309,
+      "word": "你搞说唱读什么大学",
+      "onboard_time": 1755235042,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261210,
       "num": 261210,
       "word": "WTT横滨站抽签仪式",
@@ -13609,6 +13641,14 @@
       "onboard_time": 1754623342,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249797,
+      "num": 249797,
+      "word": "继女要求继承600万遗产遭亲生子拒绝",
+      "onboard_time": 1755234143,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249594,
@@ -14217,14 +14257,6 @@
       "onboard_time": 1754417056,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236837,
-      "num": 236837,
-      "word": "梅婷生了个小梅婷",
-      "onboard_time": 1755233303,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 236744,
@@ -15040,6 +15072,14 @@
       "word": "广州空姐公寓楼",
       "onboard_time": 1755052882,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223335,
+      "num": 223335,
+      "word": "山东泰安失踪10岁女孩已找到",
+      "onboard_time": 1755234443,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -16393,6 +16433,14 @@
       "onboard_time": 1754885602,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 207656,
+      "num": 207656,
+      "word": "儿子上大学第一个月要1万生活费",
+      "onboard_time": 1755234502,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207638,
@@ -18675,6 +18723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193355,
+      "num": 259526,
+      "word": "官方回应男童被带去冒名顶替打疫苗",
+      "onboard_time": 1755234083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193314,
       "num": 208260,
       "word": "上海一百年老洋房1.5亿元起拍",
@@ -19729,6 +19785,14 @@
       "onboard_time": 1754921303,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186172,
+      "num": 186172,
+      "word": "江山为聘开机",
+      "onboard_time": 1755234024,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 186148,
@@ -21059,6 +21123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176905,
+      "num": 176905,
+      "word": "刘浩存不嫌弃我还搂我",
+      "onboard_time": 1755232644,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176855,
       "num": 155415,
       "word": "林孝埈每一步都会走向更好的自己",
@@ -21963,6 +22035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 171273,
+      "num": 171273,
+      "word": "披荆斩棘5一公",
+      "onboard_time": 1755235582,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171247,
       "num": 171247,
       "word": "刘轩丞刘骏村里唯二大学生",
@@ -22041,6 +22121,14 @@
       "onboard_time": 1755153803,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170882,
+      "num": 170882,
+      "word": "96年女生已经是博导了",
+      "onboard_time": 1755233185,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 170858,
@@ -22817,6 +22905,14 @@
       "onboard_time": 1755131002,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166365,
+      "num": 166365,
+      "word": "开天",
+      "onboard_time": 1755235342,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 166273,
@@ -24259,6 +24355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158711,
+      "num": 158711,
+      "word": "有戏开机",
+      "onboard_time": 1755234143,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158701,
       "num": 158701,
       "word": "小栗旬韩孝周新剧",
@@ -25385,6 +25489,14 @@
       "onboard_time": 1754548102,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 153118,
+      "num": 157621,
+      "word": "中餐厅全员轮岗",
+      "onboard_time": 1755235042,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 153073,
@@ -28089,6 +28201,14 @@
       "onboard_time": 1755083064,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141742,
+      "num": 157659,
+      "word": "万妮达回应说唱武则天",
+      "onboard_time": 1755234443,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 141736,
@@ -38763,6 +38883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104160,
+      "num": 170975,
+      "word": "北京有雷阵雨局地伴7级大风",
+      "onboard_time": 1755234203,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104126,
       "num": 104126,
       "word": "林一被攻击了钓鱼佬最薄弱的地方",
@@ -39049,14 +39177,6 @@
       "onboard_time": 1755078744,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102847,
-      "num": 161400,
-      "word": "刘浩存不嫌弃我还搂我",
-      "onboard_time": 1755232644,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 102765,
@@ -40665,6 +40785,14 @@
       "onboard_time": 1754183482,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95104,
+      "num": 150809,
+      "word": "A股半日缩量1038亿上涨",
+      "onboard_time": 1755234324,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 95092,
@@ -43393,6 +43521,14 @@
       "onboard_time": 1754321184,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73564,
+      "num": 260415,
+      "word": "家电升配是智商税吗",
+      "onboard_time": 1755233482,
+      "rank": 42,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 73544,
@@ -48705,14 +48841,6 @@
       "onboard_time": 1754248995,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21421,
-      "num": 154151,
-      "word": "家电升配是智商税吗",
-      "onboard_time": 1755233482,
-      "rank": 42,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 21151,

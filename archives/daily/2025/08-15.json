@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755233505013,
+  "endTime": 1755235684593,
   "band_list": [
     {
       "raw_hot": 1713591,
@@ -11,20 +11,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1673791,
+      "num": 562404,
+      "word": "董洁潘粤明儿子基因彩票",
+      "onboard_time": 1755231923,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1487527,
       "num": 1487527,
       "word": "老板说无法接受一碗面管一家人饱",
       "onboard_time": 1755219502,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1486835,
-      "num": 562404,
-      "word": "董洁潘粤明儿子基因彩票",
-      "onboard_time": 1755231923,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1251394,
@@ -35,11 +35,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1081347,
+      "raw_hot": 1159323,
       "num": 1173015,
       "word": "香港偶遇angelababy小海绵",
       "onboard_time": 1755231923,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1094097,
+      "num": 339900,
+      "word": "梅婷生了个小梅婷",
+      "onboard_time": 1755233303,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -48,6 +56,14 @@
       "word": "部分人员不愿到农村任教消极考试",
       "onboard_time": 1755224540,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1002050,
+      "num": 1160328,
+      "word": "大暴雨特大暴雨要来了",
+      "onboard_time": 1755229825,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -115,6 +131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 754098,
+      "num": 754098,
+      "word": "迪丽热巴千字长文",
+      "onboard_time": 1755227423,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 708942,
       "num": 525272,
       "word": "邱泽许玮甯儿子已满月",
@@ -163,11 +187,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 661752,
-      "num": 661752,
-      "word": "迪丽热巴千字长文",
-      "onboard_time": 1755227423,
-      "rank": 16,
+      "raw_hot": 655896,
+      "num": 655896,
+      "word": "四大名著 翻拍",
+      "onboard_time": 1755233783,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -179,12 +203,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 589639,
-      "num": 589639,
-      "word": "大暴雨特大暴雨要来了",
-      "onboard_time": 1755229825,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 596806,
+      "num": 390316,
+      "word": "黄子韬回应婚礼时间",
+      "onboard_time": 1755232162,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 581768,
@@ -299,14 +323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 390316,
-      "num": 390316,
-      "word": "黄子韬回应婚礼时间",
-      "onboard_time": 1755232162,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 369876,
       "num": 369876,
       "word": "店家回应3女子带4孩多次续面",
@@ -337,6 +353,14 @@
       "onboard_time": 1755181705,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 339478,
+      "num": 339478,
+      "word": "一年级也该火个邢菲了",
+      "onboard_time": 1755234383,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 337337,
@@ -427,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 261309,
+      "num": 261309,
+      "word": "你搞说唱读什么大学",
+      "onboard_time": 1755235042,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255014,
       "num": 255014,
       "word": "公职人员禁止干6类副业",
@@ -441,6 +473,14 @@
       "onboard_time": 1755181524,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249797,
+      "num": 249797,
+      "word": "继女要求继承600万遗产遭亲生子拒绝",
+      "onboard_time": 1755234143,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249154,
@@ -459,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236837,
-      "num": 236837,
-      "word": "梅婷生了个小梅婷",
-      "onboard_time": 1755233303,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232411,
       "num": 297385,
       "word": "8月15日中国人必须铭记",
@@ -483,12 +515,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 223335,
+      "num": 223335,
+      "word": "山东泰安失踪10岁女孩已找到",
+      "onboard_time": 1755234443,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218995,
       "num": 218995,
       "word": "赵今麦魏大勋牵手散步路透",
       "onboard_time": 1755175463,
       "rank": 14,
       "category": "剧集,剧集"
+    },
+    {
+      "raw_hot": 207656,
+      "num": 207656,
+      "word": "儿子上大学第一个月要1万生活费",
+      "onboard_time": 1755234502,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203393,
@@ -547,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193355,
+      "num": 259526,
+      "word": "官方回应男童被带去冒名顶替打疫苗",
+      "onboard_time": 1755234083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192541,
       "num": 192541,
       "word": "twice抢票",
@@ -568,6 +624,14 @@
       "word": "献鱼暑期档唯一仙偶",
       "onboard_time": 1755231442,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186172,
+      "num": 186172,
+      "word": "江山为聘开机",
+      "onboard_time": 1755234024,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -619,6 +683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 176905,
+      "num": 176905,
+      "word": "刘浩存不嫌弃我还搂我",
+      "onboard_time": 1755232644,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175913,
       "num": 175913,
       "word": "官方通报教师选调拟录10分以下考生",
@@ -633,6 +705,22 @@
       "onboard_time": 1755230601,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171273,
+      "num": 171273,
+      "word": "披荆斩棘5一公",
+      "onboard_time": 1755235582,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170882,
+      "num": 170882,
+      "word": "96年女生已经是博导了",
+      "onboard_time": 1755233185,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 170794,
@@ -657,6 +745,14 @@
       "onboard_time": 1755188243,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166365,
+      "num": 166365,
+      "word": "开天",
+      "onboard_time": 1755235342,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 165479,
@@ -715,6 +811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158711,
+      "num": 158711,
+      "word": "有戏开机",
+      "onboard_time": 1755234143,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158473,
       "num": 158473,
       "word": "郭德纲说已经卑微到看郭麒麟脸色",
@@ -753,6 +857,14 @@
       "onboard_time": 1755222023,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153118,
+      "num": 157621,
+      "word": "中餐厅全员轮岗",
+      "onboard_time": 1755235042,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 152907,
@@ -817,6 +929,14 @@
       "onboard_time": 1755232583,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141742,
+      "num": 157659,
+      "word": "万妮达回应说唱武则天",
+      "onboard_time": 1755234443,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 140008,
@@ -1019,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104160,
+      "num": 170975,
+      "word": "北京有雷阵雨局地伴7级大风",
+      "onboard_time": 1755234203,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103155,
       "num": 103155,
       "word": "iPhone17Pro四大升级",
@@ -1033,14 +1161,6 @@
       "onboard_time": 1755213799,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 102847,
-      "num": 161400,
-      "word": "刘浩存不嫌弃我还搂我",
-      "onboard_time": 1755232644,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 102161,
@@ -1065,6 +1185,14 @@
       "onboard_time": 1755217221,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95104,
+      "num": 150809,
+      "word": "A股半日缩量1038亿上涨",
+      "onboard_time": 1755234324,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 94998,
@@ -1217,6 +1345,14 @@
       "onboard_time": 1755184883,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73564,
+      "num": 260415,
+      "word": "家电升配是智商税吗",
+      "onboard_time": 1755233482,
+      "rank": 42,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 73375,
@@ -1457,14 +1593,6 @@
       "onboard_time": 1755195736,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21421,
-      "num": 154151,
-      "word": "家电升配是智商税吗",
-      "onboard_time": 1755233482,
-      "rank": 42,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 20438,
