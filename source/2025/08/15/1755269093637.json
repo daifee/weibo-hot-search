@@ -1,0 +1,410 @@
+{
+  "runTime": 1755269093637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294533,
+        "num": 1294533,
+        "word": "iPhone相册原来这么好用",
+        "onboard_time": 1755265105,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1190729,
+        "num": 1190729,
+        "word": "魔尊重楼扮演者去演短剧了",
+        "onboard_time": 1755262402,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2843,
+        "num": 1077456,
+        "word": "7月国民经济保持稳中有进发展态势",
+        "onboard_time": 1755226162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1019463,
+        "num": 1019463,
+        "word": "苏苏好惨",
+        "onboard_time": 1755260843,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502717,
+        "num": 502717,
+        "word": "脂包骨身材是最差体质",
+        "onboard_time": 1755264624,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1482083,
+        "num": 469242,
+        "word": "董某莹成绩单造假",
+        "onboard_time": 1755249203,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656010,
+        "num": 460878,
+        "word": "不二之臣",
+        "onboard_time": 1755260242,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416117,
+        "num": 416117,
+        "word": "朱一龙说自己是个长期主义者",
+        "onboard_time": 1755264863,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 373208,
+        "num": 373208,
+        "word": "孙颖莎你说嘴巴嘟嘟",
+        "onboard_time": 1755264624,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361480,
+        "num": 361480,
+        "word": "中日友好医院党委书记更换",
+        "onboard_time": 1755267444,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541398,
+        "num": 359916,
+        "word": "中日友好医院副院长等多人被处理",
+        "onboard_time": 1755250642,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396866,
+        "num": 347257,
+        "word": "杨幂说俺俩现在cp名老多了",
+        "onboard_time": 1755262523,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536381,
+        "num": 335893,
+        "word": "鹿晗唇钉",
+        "onboard_time": 1755262402,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 513680,
+        "num": 328106,
+        "word": "女子遭前夫杀害11岁孩子当场吓傻",
+        "onboard_time": 1755259343,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323457,
+        "num": 323457,
+        "word": "协和4加4毕业生统一开展3年规培",
+        "onboard_time": 1755257662,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306720,
+        "num": 306720,
+        "word": "卫健委最新通报肖某董某莹事件",
+        "onboard_time": 1755248962,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300181,
+        "num": 300181,
+        "word": "邻居称张靓颖粉丝打卡就走了",
+        "onboard_time": 1755267803,
+        "rank": 16,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 263357,
+        "num": 263357,
+        "word": "免费续面 无限续面",
+        "onboard_time": 1755250283,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254763,
+        "num": 254763,
+        "word": "杨幂回复于正了",
+        "onboard_time": 1755256821,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46556,
+        "num": 252170,
+        "word": "特朗普普京会晤最新细节曝光",
+        "onboard_time": 1755268284,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 267112,
+        "num": 251949,
+        "word": "经常熬夜多吃3类食物",
+        "onboard_time": 1755267504,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251515,
+        "num": 251515,
+        "word": "周深 泡泡玛特",
+        "onboard_time": 1755252801,
+        "rank": 21,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 174886,
+        "num": 174886,
+        "word": "日本战败投降后竟曾留下一支伏兵",
+        "onboard_time": 1755260121,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208278,
+        "num": 168484,
+        "word": "绣绣怀孕",
+        "onboard_time": 1755246503,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157608,
+        "num": 157608,
+        "word": "鹿晗season4亚洲巡演",
+        "onboard_time": 1755268464,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153237,
+        "num": 153237,
+        "word": "美国百人卖淫集团头目被捕",
+        "onboard_time": 1755254363,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153212,
+        "num": 153212,
+        "word": "张远孩子和王铮亮至少相差50岁",
+        "onboard_time": 1755254720,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120542,
+        "num": 144037,
+        "word": "大暴雨特大暴雨要来了",
+        "onboard_time": 1755229825,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119083,
+        "num": 143722,
+        "word": "女子贪污700万打赏男主播只剩800元",
+        "onboard_time": 1755262821,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47700,
+        "num": 143694,
+        "word": "特朗普将以最高礼遇接待普京",
+        "onboard_time": 1755268284,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143688,
+        "num": 143688,
+        "word": "特朗普与普京会晤前再发威胁",
+        "onboard_time": 1755266483,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137083,
+        "num": 137083,
+        "word": "晚晚自曝爱上林瀚的理由",
+        "onboard_time": 1755263724,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133237,
+        "num": 133237,
+        "word": "没有婆媳矛盾全是公媳battle",
+        "onboard_time": 1755267324,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126561,
+        "num": 126561,
+        "word": "小胖镜野核力挽狂澜",
+        "onboard_time": 1755268405,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126472,
+        "num": 126472,
+        "word": "央视记者直击普京特朗普会晤",
+        "onboard_time": 1755264624,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124474,
+        "num": 124474,
+        "word": "浪浪山小妖怪票房超8亿",
+        "onboard_time": 1755266124,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121636,
+        "num": 121636,
+        "word": "特朗普称与普京会晤不是为乌谈判",
+        "onboard_time": 1755265885,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117191,
+        "num": 117191,
+        "word": "张远一出声内娱地位还是稳",
+        "onboard_time": 1755264443,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111180,
+        "num": 111180,
+        "word": "BIGBANG合体庆祝出道19周年",
+        "onboard_time": 1755262161,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107662,
+        "num": 107662,
+        "word": "孙颖莎上目线攻击",
+        "onboard_time": 1755267984,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97648,
+        "num": 102546,
+        "word": "新一代智己LS6现场惊呼杀疯了",
+        "onboard_time": 1755269064,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102482,
+        "num": 102482,
+        "word": "新疆阿勒泰阿禾公路星河璀璨",
+        "onboard_time": 1755267384,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 100073,
+        "num": 100073,
+        "word": "2岁男童走失3天3夜在丛林中被找到",
+        "onboard_time": 1755247462,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97650,
+        "num": 97650,
+        "word": "有被王星越震惊到",
+        "onboard_time": 1755268884,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95896,
+        "num": 95896,
+        "word": "深圳一垃圾焚烧厂成网红打卡地",
+        "onboard_time": 1755260182,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90769,
+        "num": 90769,
+        "word": "孟子义私下经常夸周也好看",
+        "onboard_time": 1755267024,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88608,
+        "num": 88608,
+        "word": "BLG对战WBG",
+        "onboard_time": 1755266843,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87480,
+        "num": 87480,
+        "word": "蔡卓宜回应不扣裤子",
+        "onboard_time": 1755244642,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86680,
+        "num": 86680,
+        "word": "KPL",
+        "onboard_time": 1755267744,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84410,
+        "num": 84410,
+        "word": "特朗普普京会晤议程曝光",
+        "onboard_time": 1755268704,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对生态保护的嘱托#"
+    }
+  }
+}
