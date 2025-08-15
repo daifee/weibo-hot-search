@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755300330715,
+  "endTime": 1755301202364,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -2339,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 607052,
+      "num": 929784,
+      "word": "普京特朗普一对一会晤改三对三",
+      "onboard_time": 1755282736,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 604472,
       "num": 1096715,
       "word": "420斤男孩瘦20斤后姥姥心疼拒治疗",
@@ -2409,6 +2417,14 @@
       "onboard_time": 1754994623,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590269,
+      "num": 590269,
+      "word": "四六级查分",
+      "onboard_time": 1755299718,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 589444,
@@ -2555,6 +2571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 566245,
+      "num": 566245,
+      "word": "续面老板回应店面700余条差评",
+      "onboard_time": 1755269363,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 562801,
       "num": 420241,
       "word": "瞧瞧黄磊把宋丹丹毒成什么样了",
@@ -2577,14 +2601,6 @@
       "onboard_time": 1754882242,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 559586,
-      "num": 819134,
-      "word": "普京特朗普一对一会晤改三对三",
-      "onboard_time": 1755282736,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 557809,
@@ -2907,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 502517,
+      "num": 502517,
+      "word": "贺峻霖四级成绩",
+      "onboard_time": 1755300798,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500403,
       "num": 500403,
       "word": "火车学生票新优惠",
@@ -2953,14 +2977,6 @@
       "onboard_time": 1755179663,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 497174,
-      "num": 497174,
-      "word": "续面老板回应店面700余条差评",
-      "onboard_time": 1755269363,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 496718,
@@ -3715,14 +3731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 410926,
-      "num": 410926,
-      "word": "四六级查分",
-      "onboard_time": 1755299718,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 409641,
       "num": 409641,
       "word": "狂魔哥开团Faker和Uzi",
@@ -4211,6 +4219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 360022,
+      "num": 360022,
+      "word": "一楼住户趁夜砌墙将大堂据为己有",
+      "onboard_time": 1755273683,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 360002,
       "num": 353630,
       "word": "张远回应至上励合不解散",
@@ -4249,14 +4265,6 @@
       "onboard_time": 1754827401,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 356069,
-      "num": 356069,
-      "word": "一楼住户趁夜砌墙将大堂据为己有",
-      "onboard_time": 1755273683,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 355327,
@@ -4707,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311665,
+      "num": 311665,
+      "word": "美俄元首联合发布会",
+      "onboard_time": 1755299836,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 310587,
       "num": 310587,
       "word": "顾客自带8200元茅台被餐厅调包",
@@ -5011,6 +5027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 289432,
+      "num": 251006,
+      "word": "马思纯 姐只是一味不懂",
+      "onboard_time": 1755287714,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288819,
       "num": 288819,
       "word": "19岁女生被刺死亲属几天都睡不着觉",
@@ -5137,6 +5161,14 @@
       "onboard_time": 1755258442,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 280082,
+      "num": 249576,
+      "word": "肖战坐我旁边",
+      "onboard_time": 1755299778,
+      "rank": 23,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 279480,
@@ -5587,6 +5619,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 252054,
+      "num": 252054,
+      "word": "六级",
+      "onboard_time": 1755299718,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 252002,
       "num": 252002,
       "word": "AL对战iG",
@@ -5687,14 +5727,6 @@
       "num": 306797,
       "word": "杨洋谈这两年的沉潜与成长",
       "onboard_time": 1755144982,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 245751,
-      "num": 245751,
-      "word": "马思纯 姐只是一味不懂",
-      "onboard_time": 1755287714,
       "rank": 25,
       "category": "艺人"
     },
@@ -7331,14 +7363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197049,
-      "num": 197049,
-      "word": "六级",
-      "onboard_time": 1755299718,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 197040,
       "num": 197040,
       "word": "鹿角 以后我会擦亮眼睛",
@@ -8259,6 +8283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184831,
+      "num": 205213,
+      "word": "四级",
+      "onboard_time": 1755300497,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184786,
       "num": 184786,
       "word": "向鹏2比4张本智和",
@@ -8321,6 +8353,14 @@
       "onboard_time": 1755178885,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183707,
+      "num": 213410,
+      "word": "绣绣孕肚",
+      "onboard_time": 1755299537,
+      "rank": 17,
+      "category": "剧集,运动健身"
     },
     {
       "raw_hot": 183667,
@@ -10203,6 +10243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157844,
+      "num": 157844,
+      "word": "王心凌跳了15年没跳的舞",
+      "onboard_time": 1755299596,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157727,
       "num": 157727,
       "word": "逆水寒",
@@ -10633,14 +10681,6 @@
       "onboard_time": 1754925024,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152638,
-      "num": 152638,
-      "word": "肖战坐我旁边",
-      "onboard_time": 1755299778,
-      "rank": 23,
-      "category": "艺人,音乐"
     },
     {
       "raw_hot": 152483,
@@ -11089,6 +11129,14 @@
       "onboard_time": 1754870900,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148263,
+      "num": 277370,
+      "word": "市监回应电梯施工人员名单现多位明星",
+      "onboard_time": 1755299177,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 148190,
@@ -14355,14 +14403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120661,
-      "num": 277370,
-      "word": "市监回应电梯施工人员名单现多位明星",
-      "onboard_time": 1755299177,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 120600,
       "num": 244570,
       "word": "师姐称景区遇害女生阳光开朗",
@@ -16275,14 +16315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107790,
-      "num": 117619,
-      "word": "王心凌跳了15年没跳的舞",
-      "onboard_time": 1755299596,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 107679,
       "num": 107679,
       "word": "可以缓解焦虑情绪的小事",
@@ -17425,14 +17457,6 @@
       "onboard_time": 1754805501,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97468,
-      "num": 213410,
-      "word": "绣绣孕肚",
-      "onboard_time": 1755299537,
-      "rank": 17,
-      "category": "剧集,运动健身"
     },
     {
       "raw_hot": 97169,
@@ -18619,6 +18643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79668,
+      "num": 223112,
+      "word": "俄称美俄总统会谈进展非常顺利",
+      "onboard_time": 1755299117,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79255,
       "num": 159717,
       "word": "高铁急着去泡面化不如先把盒饭降价",
@@ -18699,6 +18731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78282,
+      "num": 78282,
+      "word": "中方回应反对启动快速恢复制裁",
+      "onboard_time": 1755299537,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77880,
       "num": 77880,
       "word": "医生回应将患者红包存入住院费",
@@ -18745,6 +18785,14 @@
       "onboard_time": 1754891301,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75871,
+      "num": 75871,
+      "word": "奥沙利文沙特连轰两杆147",
+      "onboard_time": 1755300918,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 75728,
@@ -18971,20 +19019,20 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 69893,
+      "num": 69893,
+      "word": "iPhone17ProMax曝料",
+      "onboard_time": 1755300738,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 69839,
       "num": 69839,
       "word": "安静公主回应卖惨",
       "onboard_time": 1755107297,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 69286,
-      "num": 223112,
-      "word": "俄称美俄总统会谈进展非常顺利",
-      "onboard_time": 1755299117,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 69246,
@@ -19113,14 +19161,6 @@
       "onboard_time": 1754745264,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64872,
-      "num": 64872,
-      "word": "中方回应反对启动快速恢复制裁",
-      "onboard_time": 1755299537,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64746,
@@ -19489,14 +19529,6 @@
       "onboard_time": 1755193277,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55576,
-      "num": 202838,
-      "word": "美俄元首联合发布会",
-      "onboard_time": 1755299836,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55369,
@@ -19963,6 +19995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45146,
+      "num": 249424,
+      "word": "罗马仕新款充电宝已有3C标",
+      "onboard_time": 1755300798,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44868,
       "num": 136428,
       "word": "夫妻相约减肥大半年共瘦近100斤",
@@ -20416,6 +20456,14 @@
       "word": "游客起冲突喷防狼喷雾致多人不适",
       "onboard_time": 1755143003,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36369,
+      "num": 251439,
+      "word": "普京特朗普未达成协议",
+      "onboard_time": 1755300497,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
