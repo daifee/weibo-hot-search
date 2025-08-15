@@ -1,0 +1,410 @@
+{
+  "runTime": 1755253711725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1987424,
+        "num": 1987424,
+        "word": "卫健委最新通报肖某董某莹事件",
+        "onboard_time": 1755248962,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1659238,
+        "num": 1659238,
+        "word": "董某莹成绩单造假",
+        "onboard_time": 1755249203,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7788,
+        "num": 1606736,
+        "word": "12小时寻找北京的抗战印记",
+        "onboard_time": 1755253462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1581760,
+        "num": 1581760,
+        "word": "免费续面 无限续面",
+        "onboard_time": 1755250283,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1376136,
+        "num": 1376136,
+        "word": "董某莹姑姑为其伪造成绩单提供便利",
+        "onboard_time": 1755250343,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1338071,
+        "num": 1338071,
+        "word": "明星抑郁症不挂号挂热搜",
+        "onboard_time": 1755246564,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531884,
+        "num": 531884,
+        "word": "中日友好医院副院长等多人被处理",
+        "onboard_time": 1755250642,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531397,
+        "num": 531397,
+        "word": "周深 泡泡玛特",
+        "onboard_time": 1755252801,
+        "rank": 7,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 531073,
+        "num": 531073,
+        "word": "大暴雨特大暴雨要来了",
+        "onboard_time": 1755229825,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305494,
+        "num": 505833,
+        "word": "增加学位论文答辩后第2年再次查重",
+        "onboard_time": 1755252202,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481765,
+        "num": 481765,
+        "word": "绣绣怀孕",
+        "onboard_time": 1755246503,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399056,
+        "num": 399056,
+        "word": "自称奥运冠军未婚妻网红涉诈骗上亿",
+        "onboard_time": 1755249682,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381876,
+        "num": 381876,
+        "word": "2岁男童走失3天3夜在丛林中被找到",
+        "onboard_time": 1755247462,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307806,
+        "num": 307806,
+        "word": "沈佳润韩国偶遇沈阳粉丝",
+        "onboard_time": 1755243382,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70501,
+        "num": 299292,
+        "word": "拼多多把快递送进想不到的地方",
+        "onboard_time": 1755252083,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291657,
+        "num": 291657,
+        "word": "董洁潘粤明儿子基因彩票",
+        "onboard_time": 1755231923,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272889,
+        "num": 272889,
+        "word": "女子称40万卡地亚手镯被小孩捡走",
+        "onboard_time": 1755245003,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55040,
+        "num": 241536,
+        "word": "国产模型让马斯克难辨真假",
+        "onboard_time": 1755251242,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236661,
+        "num": 236661,
+        "word": "吉克隽逸内衣外穿",
+        "onboard_time": 1755243922,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232884,
+        "num": 232884,
+        "word": "梓渝青岛音乐节演出",
+        "onboard_time": 1755248303,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 471136,
+        "num": 231781,
+        "word": "蔡卓宜回应不扣裤子",
+        "onboard_time": 1755244642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222480,
+        "num": 222480,
+        "word": "吉训明任协和医学院院校长",
+        "onboard_time": 1755251183,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8330,
+        "num": 217059,
+        "word": "7月国民经济保持稳中有进发展态势",
+        "onboard_time": 1755226162,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216890,
+        "num": 216890,
+        "word": "续面当事顾客说共消费140元",
+        "onboard_time": 1755251843,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208854,
+        "num": 208854,
+        "word": "炫神 Theshy",
+        "onboard_time": 1755252265,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196651,
+        "num": 196651,
+        "word": "梓渝4刊1歌3场音乐节",
+        "onboard_time": 1755252443,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151975,
+        "num": 191868,
+        "word": "热巴利剑玫瑰开分6.9",
+        "onboard_time": 1755249922,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143087,
+        "num": 191838,
+        "word": "生万物",
+        "onboard_time": 1755247101,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191837,
+        "num": 191837,
+        "word": "刘诗诗真的太瘦了",
+        "onboard_time": 1755244942,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58905,
+        "num": 181744,
+        "word": "王铮亮情商",
+        "onboard_time": 1755249682,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175511,
+        "num": 175511,
+        "word": "Tim离岛",
+        "onboard_time": 1755247042,
+        "rank": 30,
+        "category": "数码,网红"
+      },
+      {
+        "raw_hot": 168868,
+        "num": 168868,
+        "word": "烤肠界的番位",
+        "onboard_time": 1755248123,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163196,
+        "num": 163196,
+        "word": "梅婷生了个小梅婷",
+        "onboard_time": 1755233303,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162080,
+        "num": 162080,
+        "word": "川航 矿泉水浇头事件",
+        "onboard_time": 1755249141,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156868,
+        "num": 156868,
+        "word": "北京偶遇刘宇宁",
+        "onboard_time": 1755249682,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140843,
+        "num": 140843,
+        "word": "许玮甯生娃后出演话剧",
+        "onboard_time": 1755253342,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138667,
+        "num": 138667,
+        "word": "于正艾特杨幂说剧好看",
+        "onboard_time": 1755252683,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134262,
+        "num": 134262,
+        "word": "香港偶遇angelababy小海绵",
+        "onboard_time": 1755231923,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14814,
+        "num": 131890,
+        "word": "妈祖都震不住的两个魔童",
+        "onboard_time": 1755253282,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131728,
+        "num": 131728,
+        "word": "夏东海 我已经上山当土匪了",
+        "onboard_time": 1755252265,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130524,
+        "num": 130524,
+        "word": "AL对战iG",
+        "onboard_time": 1755251603,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127172,
+        "num": 127172,
+        "word": "李昀锐王楚然互相拯救二番的咖位",
+        "onboard_time": 1755250583,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124093,
+        "num": 124093,
+        "word": "鞠婧祎 让女孩子伤心的事我做不到",
+        "onboard_time": 1755249742,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117663,
+        "num": 117663,
+        "word": "杨幂 不存在所谓的不做就不错",
+        "onboard_time": 1755252323,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115332,
+        "num": 115332,
+        "word": "男子被前女友10万卖到边境",
+        "onboard_time": 1755237443,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113793,
+        "num": 113793,
+        "word": "肖某董某莹事件5家机构19人被问责",
+        "onboard_time": 1755251542,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110906,
+        "num": 110906,
+        "word": "沈佳润美美桑内快成东北省歌了",
+        "onboard_time": 1755253402,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108553,
+        "num": 108553,
+        "word": "苏醒给王栎鑫道歉",
+        "onboard_time": 1755237862,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107007,
+        "num": 107007,
+        "word": "影石创始人撒钱犒劳团队",
+        "onboard_time": 1755250163,
+        "rank": 48,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 106772,
+        "num": 106772,
+        "word": "W盛典 CP复活",
+        "onboard_time": 1755250882,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记弘扬伟大抗战精神的故事#"
+    }
+  }
+}
