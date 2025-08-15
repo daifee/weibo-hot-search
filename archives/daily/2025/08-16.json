@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755297842038,
+  "endTime": 1755300330715,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 559586,
+      "num": 819134,
+      "word": "普京特朗普一对一会晤改三对三",
+      "onboard_time": 1755282736,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 482642,
       "num": 194910,
       "word": "马嘉祺",
@@ -107,19 +115,27 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 422106,
-      "num": 422106,
-      "word": "普京特朗普一对一会晤改三对三",
-      "onboard_time": 1755282736,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 410926,
+      "num": 410926,
+      "word": "四六级查分",
+      "onboard_time": 1755299718,
+      "rank": 1,
+      "category": "教育"
     },
     {
-      "raw_hot": 365929,
-      "num": 365929,
+      "raw_hot": 409361,
+      "num": 409361,
       "word": "续面老板回应店面700余条差评",
       "onboard_time": 1755269363,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356069,
+      "num": 356069,
+      "word": "一楼住户趁夜砌墙将大堂据为己有",
+      "onboard_time": 1755273683,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -136,6 +152,14 @@
       "word": "特朗普将与普京1V1对话",
       "onboard_time": 1755272362,
       "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 316206,
+      "num": 316206,
+      "word": "普京特朗普小范围会谈结束",
+      "onboard_time": 1755297136,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -171,14 +195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 276393,
-      "num": 276393,
-      "word": "一楼住户趁夜砌墙将大堂据为己有",
-      "onboard_time": 1755273683,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265265,
       "num": 265265,
       "word": "不二之臣",
@@ -187,8 +203,32 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214254,
-      "num": 214254,
+      "raw_hot": 245751,
+      "num": 245751,
+      "word": "马思纯 姐只是一味不懂",
+      "onboard_time": 1755287714,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233595,
+      "num": 233595,
+      "word": "特朗普机场迎接普京",
+      "onboard_time": 1755286334,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 224125,
+      "num": 224125,
+      "word": "央视记者直击普京特朗普会晤",
+      "onboard_time": 1755264624,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 222691,
+      "num": 222691,
       "word": "美俄元首会晤",
       "onboard_time": 1755275720,
       "rank": 36,
@@ -211,12 +251,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 197049,
+      "num": 197049,
+      "word": "六级",
+      "onboard_time": 1755299718,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188593,
       "num": 188593,
       "word": "重庆一女童街头被阿拉斯加犬咬伤",
       "onboard_time": 1755275422,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186605,
+      "num": 115943,
+      "word": "四六级",
+      "onboard_time": 1755299537,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 185646,
@@ -267,20 +323,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152638,
+      "num": 152638,
+      "word": "肖战坐我旁边",
+      "onboard_time": 1755299778,
+      "rank": 23,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 151121,
       "num": 151121,
       "word": "谢霆锋刘德华竟现电梯施工人员名单",
       "onboard_time": 1755272721,
       "rank": 28,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 145795,
-      "num": 133109,
-      "word": "马思纯 姐只是一味不懂",
-      "onboard_time": 1755287714,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 136691,
@@ -331,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120661,
+      "num": 277370,
+      "word": "市监回应电梯施工人员名单现多位明星",
+      "onboard_time": 1755299177,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 120569,
       "num": 120569,
       "word": "封大脚发现绣绣秘密",
@@ -339,11 +403,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108103,
-      "num": 108103,
-      "word": "特朗普机场迎接普京",
-      "onboard_time": 1755286334,
-      "rank": 9,
+      "raw_hot": 107790,
+      "num": 117619,
+      "word": "王心凌跳了15年没跳的舞",
+      "onboard_time": 1755299596,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 99550,
+      "num": 121816,
+      "word": "特朗普抵达安克雷奇",
+      "onboard_time": 1755282556,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -355,12 +427,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 98193,
-      "num": 98193,
-      "word": "央视记者直击普京特朗普会晤",
-      "onboard_time": 1755264624,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 97468,
+      "num": 213410,
+      "word": "绣绣孕肚",
+      "onboard_time": 1755299537,
+      "rank": 17,
+      "category": "剧集,运动健身"
     },
     {
       "raw_hot": 92363,
@@ -459,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74592,
+      "num": 74592,
+      "word": "利物浦4比2伯恩茅斯",
+      "onboard_time": 1755300018,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73344,
       "num": 89141,
       "word": "BIGBANG合体庆祝出道19周年",
@@ -483,12 +563,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69286,
+      "num": 223112,
+      "word": "俄称美俄总统会谈进展非常顺利",
+      "onboard_time": 1755299117,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69082,
       "num": 89106,
       "word": "协和4加4毕业生统一开展3年规培",
       "onboard_time": 1755257662,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64872,
+      "num": 64872,
+      "word": "中方回应反对启动快速恢复制裁",
+      "onboard_time": 1755299537,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62785,
@@ -499,11 +595,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62570,
-      "num": 134352,
-      "word": "普京特朗普小范围会谈结束",
-      "onboard_time": 1755297136,
-      "rank": 9,
+      "raw_hot": 55576,
+      "num": 202838,
+      "word": "美俄元首联合发布会",
+      "onboard_time": 1755299836,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -512,14 +608,6 @@
       "word": "俄美总统阿拉斯加会面",
       "onboard_time": 1755286395,
       "rank": 21,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 53053,
-      "num": 121816,
-      "word": "特朗普抵达安克雷奇",
-      "onboard_time": 1755282556,
-      "rank": 13,
       "category": "国际时政"
     },
     {

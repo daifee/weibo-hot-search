@@ -1,0 +1,410 @@
+{
+  "runTime": 1755300330715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 559586,
+        "num": 819134,
+        "word": "普京特朗普一对一会晤改三对三",
+        "onboard_time": 1755282736,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 410926,
+        "num": 410926,
+        "word": "四六级查分",
+        "onboard_time": 1755299718,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1724,
+        "num": 409811,
+        "word": "7月国民经济保持稳中有进发展态势",
+        "onboard_time": 1755226162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409361,
+        "num": 409361,
+        "word": "续面老板回应店面700余条差评",
+        "onboard_time": 1755269363,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356069,
+        "num": 356069,
+        "word": "一楼住户趁夜砌墙将大堂据为己有",
+        "onboard_time": 1755273683,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316206,
+        "num": 316206,
+        "word": "普京特朗普小范围会谈结束",
+        "onboard_time": 1755297136,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297480,
+        "num": 297480,
+        "word": "女子5次试管后终怀孕却确诊肝癌",
+        "onboard_time": 1755269844,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224227,
+        "num": 286407,
+        "word": "宁绣绣封大脚圆房",
+        "onboard_time": 1755270925,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120661,
+        "num": 277370,
+        "word": "市监回应电梯施工人员名单现多位明星",
+        "onboard_time": 1755299177,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155692,
+        "num": 267959,
+        "word": "魔尊重楼扮演者去演短剧了",
+        "onboard_time": 1755262402,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1216504,
+        "num": 247094,
+        "word": "男子买避孕药出轨曝光涉事店员已休假",
+        "onboard_time": 1755269544,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245751,
+        "num": 245751,
+        "word": "马思纯 姐只是一味不懂",
+        "onboard_time": 1755287714,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233595,
+        "num": 233595,
+        "word": "特朗普机场迎接普京",
+        "onboard_time": 1755286334,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224125,
+        "num": 224125,
+        "word": "央视记者直击普京特朗普会晤",
+        "onboard_time": 1755264624,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69286,
+        "num": 223112,
+        "word": "俄称美俄总统会谈进展非常顺利",
+        "onboard_time": 1755299117,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222691,
+        "num": 222691,
+        "word": "美俄元首会晤",
+        "onboard_time": 1755275720,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105320,
+        "num": 218049,
+        "word": "生万物央八破3最快剧集第三位",
+        "onboard_time": 1755273561,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97468,
+        "num": 213410,
+        "word": "绣绣孕肚",
+        "onboard_time": 1755299537,
+        "rank": 17,
+        "category": "剧集,运动健身"
+      },
+      {
+        "raw_hot": 77227,
+        "num": 205567,
+        "word": "苏苏好惨",
+        "onboard_time": 1755260843,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55576,
+        "num": 202838,
+        "word": "美俄元首联合发布会",
+        "onboard_time": 1755299836,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197049,
+        "num": 197049,
+        "word": "六级",
+        "onboard_time": 1755299718,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179591,
+        "num": 179591,
+        "word": "重庆一女童街头被阿拉斯加犬咬伤",
+        "onboard_time": 1755275422,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162716,
+        "num": 162716,
+        "word": "蜜雪冰城未开封奶茶惊现蟑螂",
+        "onboard_time": 1755270203,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152638,
+        "num": 152638,
+        "word": "肖战坐我旁边",
+        "onboard_time": 1755299778,
+        "rank": 23,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 144232,
+        "num": 144232,
+        "word": "董某莹成绩单造假",
+        "onboard_time": 1755249203,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139761,
+        "num": 139761,
+        "word": "居民存款减少1.11万亿去哪了",
+        "onboard_time": 1755270023,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117936,
+        "num": 117936,
+        "word": "企业加班通知走红 所有人涨薪25%",
+        "onboard_time": 1755274222,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107790,
+        "num": 117619,
+        "word": "王心凌跳了15年没跳的舞",
+        "onboard_time": 1755299596,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55545,
+        "num": 116981,
+        "word": "封大脚发现绣绣秘密",
+        "onboard_time": 1755270984,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52118,
+        "num": 116777,
+        "word": "不二之臣",
+        "onboard_time": 1755260242,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186605,
+        "num": 115943,
+        "word": "四六级",
+        "onboard_time": 1755299537,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115751,
+        "num": 115751,
+        "word": "普京特朗普开始会晤",
+        "onboard_time": 1755286815,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99550,
+        "num": 99550,
+        "word": "特朗普抵达安克雷奇",
+        "onboard_time": 1755282556,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89663,
+        "num": 89663,
+        "word": "谢霆锋刘德华竟现电梯施工人员名单",
+        "onboard_time": 1755272721,
+        "rank": 33,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 86092,
+        "num": 86092,
+        "word": "中日友好医院党委书记更换",
+        "onboard_time": 1755267444,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85885,
+        "num": 85885,
+        "word": "脂包骨身材是最差体质",
+        "onboard_time": 1755264624,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 84927,
+        "num": 84927,
+        "word": "恒大前行政总裁夏海钧被曝藏身加州",
+        "onboard_time": 1755269363,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74592,
+        "num": 74592,
+        "word": "利物浦4比2伯恩茅斯",
+        "onboard_time": 1755300018,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70409,
+        "num": 70409,
+        "word": "美国百人卖淫集团头目被捕",
+        "onboard_time": 1755254363,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66268,
+        "num": 66268,
+        "word": "协和4加4毕业生统一开展3年规培",
+        "onboard_time": 1755257662,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66229,
+        "num": 66229,
+        "word": "经常熬夜多吃3类食物",
+        "onboard_time": 1755267504,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66117,
+        "num": 66117,
+        "word": "张真源生日快乐超级无敌可爱浩翔小宝贝",
+        "onboard_time": 1755277640,
+        "rank": 41,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 66075,
+        "num": 66075,
+        "word": "法国小伙家人因侵华日军2死1疯",
+        "onboard_time": 1755269363,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64872,
+        "num": 64872,
+        "word": "中方回应反对启动快速恢复制裁",
+        "onboard_time": 1755299537,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61716,
+        "num": 61716,
+        "word": "四六级查分入口",
+        "onboard_time": 1755274283,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54408,
+        "num": 54408,
+        "word": "俄美总统阿拉斯加会面",
+        "onboard_time": 1755286395,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48592,
+        "num": 48592,
+        "word": "邻居称张靓颖粉丝打卡就走了",
+        "onboard_time": 1755267803,
+        "rank": 46,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 48241,
+        "num": 48241,
+        "word": "iPhone相册原来这么好用",
+        "onboard_time": 1755265105,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44820,
+        "num": 44820,
+        "word": "普京抵达美国",
+        "onboard_time": 1755273022,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43717,
+        "num": 43717,
+        "word": "越野跑大神误食毒蘑菇去世",
+        "onboard_time": 1755272662,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记弘扬伟大抗战精神的故事#"
+    }
+  }
+}
