@@ -1,0 +1,410 @@
+{
+  "runTime": 1755268003686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1240176,
+        "num": 1240176,
+        "word": "魔尊重楼扮演者去演短剧了",
+        "onboard_time": 1755262402,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1081507,
+        "num": 1081507,
+        "word": "iPhone相册原来这么好用",
+        "onboard_time": 1755265105,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2846,
+        "num": 1032185,
+        "word": "7月国民经济保持稳中有进发展态势",
+        "onboard_time": 1755226162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1093483,
+        "num": 1006790,
+        "word": "苏苏好惨",
+        "onboard_time": 1755260843,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116733,
+        "num": 942724,
+        "word": "特朗普与普京会晤前再发威胁",
+        "onboard_time": 1755266483,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1799459,
+        "num": 925882,
+        "word": "董某莹成绩单造假",
+        "onboard_time": 1755249203,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 883026,
+        "num": 883026,
+        "word": "不二之臣",
+        "onboard_time": 1755260242,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529032,
+        "num": 529032,
+        "word": "杨幂说俺俩现在cp名老多了",
+        "onboard_time": 1755262523,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486089,
+        "num": 486089,
+        "word": "孙颖莎你说嘴巴嘟嘟",
+        "onboard_time": 1755264624,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103643,
+        "num": 481932,
+        "word": "中日友好医院党委书记更换",
+        "onboard_time": 1755267444,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722202,
+        "num": 461224,
+        "word": "鹿晗唇钉",
+        "onboard_time": 1755262402,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 608063,
+        "num": 452092,
+        "word": "女子遭前夫杀害11岁孩子当场吓傻",
+        "onboard_time": 1755259343,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522527,
+        "num": 429170,
+        "word": "中日友好医院副院长等多人被处理",
+        "onboard_time": 1755250642,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521106,
+        "num": 411555,
+        "word": "朱一龙说自己是个长期主义者",
+        "onboard_time": 1755264863,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 405566,
+        "num": 405566,
+        "word": "协和4加4毕业生统一开展3年规培",
+        "onboard_time": 1755257662,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338018,
+        "num": 338018,
+        "word": "脂包骨身材是最差体质",
+        "onboard_time": 1755264624,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 328029,
+        "num": 328029,
+        "word": "周深 泡泡玛特",
+        "onboard_time": 1755252801,
+        "rank": 16,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 327964,
+        "num": 327964,
+        "word": "免费续面 无限续面",
+        "onboard_time": 1755250283,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305587,
+        "num": 305587,
+        "word": "杨幂回复于正了",
+        "onboard_time": 1755256821,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51052,
+        "num": 289348,
+        "word": "直击美俄元首会谈",
+        "onboard_time": 1755266483,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 287715,
+        "num": 287715,
+        "word": "卫健委最新通报肖某董某莹事件",
+        "onboard_time": 1755248962,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264522,
+        "num": 264522,
+        "word": "日本战败投降后竟曾留下一支伏兵",
+        "onboard_time": 1755260121,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249823,
+        "num": 249823,
+        "word": "经常熬夜多吃3类食物",
+        "onboard_time": 1755267504,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243781,
+        "num": 243781,
+        "word": "绣绣怀孕",
+        "onboard_time": 1755246503,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220694,
+        "num": 220694,
+        "word": "邻居称张靓颖粉丝打卡就走了",
+        "onboard_time": 1755267803,
+        "rank": 24,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 197828,
+        "num": 197828,
+        "word": "BLG对战WBG",
+        "onboard_time": 1755266843,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192349,
+        "num": 192349,
+        "word": "大暴雨特大暴雨要来了",
+        "onboard_time": 1755229825,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189498,
+        "num": 189498,
+        "word": "美国百人卖淫集团头目被捕",
+        "onboard_time": 1755254363,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186383,
+        "num": 186383,
+        "word": "张远孩子和王铮亮至少相差50岁",
+        "onboard_time": 1755254720,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129508,
+        "num": 177473,
+        "word": "深圳一垃圾焚烧厂成网红打卡地",
+        "onboard_time": 1755260182,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176099,
+        "num": 176099,
+        "word": "没有婆媳矛盾全是公媳battle",
+        "onboard_time": 1755267324,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171466,
+        "num": 171466,
+        "word": "晚晚自曝爱上林瀚的理由",
+        "onboard_time": 1755263724,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150970,
+        "num": 150970,
+        "word": "央视记者直击普京特朗普会晤",
+        "onboard_time": 1755264624,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144512,
+        "num": 144512,
+        "word": "捕风追影",
+        "onboard_time": 1755266664,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138351,
+        "num": 138351,
+        "word": "张远一出声内娱地位还是稳",
+        "onboard_time": 1755264443,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135920,
+        "num": 135920,
+        "word": "BIGBANG合体庆祝出道19周年",
+        "onboard_time": 1755262161,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133951,
+        "num": 133951,
+        "word": "浪浪山小妖怪票房超8亿",
+        "onboard_time": 1755266124,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130405,
+        "num": 130405,
+        "word": "狼队对战TTG",
+        "onboard_time": 1755266242,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117180,
+        "num": 117180,
+        "word": "今天星期五",
+        "onboard_time": 1755266904,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50724,
+        "num": 117068,
+        "word": "孟子义私下经常夸周也好看",
+        "onboard_time": 1755267024,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116965,
+        "num": 116965,
+        "word": "特朗普称与普京会晤不是为乌谈判",
+        "onboard_time": 1755265885,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115446,
+        "num": 115446,
+        "word": "KPL",
+        "onboard_time": 1755267744,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114198,
+        "num": 114198,
+        "word": "鹿晗机车服",
+        "onboard_time": 1755258442,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113596,
+        "num": 113596,
+        "word": "浙BA",
+        "onboard_time": 1755264262,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109072,
+        "num": 109072,
+        "word": "中日友好医院旗下多家公司被吊注销",
+        "onboard_time": 1755263244,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106447,
+        "num": 106447,
+        "word": "女子贪污700万打赏男主播只剩800元",
+        "onboard_time": 1755262821,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102417,
+        "num": 102417,
+        "word": "2岁男童走失3天3夜在丛林中被找到",
+        "onboard_time": 1755247462,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98941,
+        "num": 98941,
+        "word": "KBG单日两鸡",
+        "onboard_time": 1755267984,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95819,
+        "num": 95819,
+        "word": "浪浪山票房超越铃芽之旅",
+        "onboard_time": 1755265762,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95519,
+        "num": 95519,
+        "word": "孙颖莎上目线攻击",
+        "onboard_time": 1755267984,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对生态保护的嘱托#"
+    }
+  }
+}
