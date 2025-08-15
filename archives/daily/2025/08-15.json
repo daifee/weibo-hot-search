@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755263250275,
+  "endTime": 1755264998025,
   "band_list": [
     {
       "raw_hot": 8493340,
@@ -131,6 +131,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 969179,
+      "num": 969179,
+      "word": "苏苏好惨",
+      "onboard_time": 1755260843,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 933124,
       "num": 933124,
       "word": "多次拒绝剧组取景的家有多好看",
@@ -203,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 786040,
+      "num": 738690,
+      "word": "女子遭前夫杀害11岁孩子当场吓傻",
+      "onboard_time": 1755259343,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 771357,
       "num": 771357,
       "word": "江西最强钉子户已搬离",
@@ -241,22 +257,6 @@
       "onboard_time": 1755237862,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 738690,
-      "num": 738690,
-      "word": "女子遭前夫杀害11岁孩子当场吓傻",
-      "onboard_time": 1755259343,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 735216,
-      "num": 430466,
-      "word": "苏苏好惨",
-      "onboard_time": 1755260843,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 708942,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451648,
+      "num": 222074,
+      "word": "鹿晗唇钉",
+      "onboard_time": 1755262402,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 443281,
       "num": 443281,
       "word": "2岁男童走失3天3夜在丛林中被找到",
@@ -601,6 +609,14 @@
       "onboard_time": 1755254720,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382752,
+      "num": 213942,
+      "word": "魔尊重楼扮演者去演短剧了",
+      "onboard_time": 1755262402,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 369876,
@@ -723,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303383,
-      "num": 222074,
-      "word": "鹿晗唇钉",
-      "onboard_time": 1755262402,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 299535,
       "num": 299535,
       "word": "王楚钦点赞王皓",
@@ -785,14 +793,6 @@
       "onboard_time": 1755258442,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 280237,
-      "num": 213942,
-      "word": "魔尊重楼扮演者去演短剧了",
-      "onboard_time": 1755262402,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 279480,
@@ -859,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254142,
+      "num": 254142,
+      "word": "协和4加4毕业生统一开展3年规培",
+      "onboard_time": 1755257662,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253208,
       "num": 253208,
       "word": "天才女友 合诗雨",
@@ -867,20 +875,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 252337,
-      "num": 252337,
-      "word": "协和4加4毕业生统一开展3年规培",
-      "onboard_time": 1755257662,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252002,
       "num": 252002,
       "word": "AL对战iG",
       "onboard_time": 1755251603,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 249979,
+      "num": 249979,
+      "word": "日本战败投降后竟曾留下一支伏兵",
+      "onboard_time": 1755260121,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 249154,
@@ -913,6 +921,14 @@
       "onboard_time": 1755214219,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233313,
+      "num": 187193,
+      "word": "杨幂说俺俩现在cp名老多了",
+      "onboard_time": 1755262523,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 232411,
@@ -1131,20 +1147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195282,
+      "num": 195282,
+      "word": "孙颖莎你说嘴巴嘟嘟",
+      "onboard_time": 1755264624,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194769,
       "num": 194769,
       "word": "人上班是为了啥",
       "onboard_time": 1755229883,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194636,
-      "num": 194636,
-      "word": "日本战败投降后竟曾留下一支伏兵",
-      "onboard_time": 1755260121,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 193355,
@@ -1169,6 +1185,14 @@
       "onboard_time": 1755260182,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186415,
+      "num": 186415,
+      "word": "晚晚自曝爱上林瀚的理由",
+      "onboard_time": 1755263724,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 186299,
@@ -1475,6 +1499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163909,
+      "num": 163909,
+      "word": "王曼昱说体力方面还可以",
+      "onboard_time": 1755264143,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163281,
       "num": 163281,
       "word": "橙色版iPhone17Pro机模",
@@ -1707,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151586,
+      "num": 151586,
+      "word": "张远一出声内娱地位还是稳",
+      "onboard_time": 1755264443,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151564,
       "num": 151564,
       "word": "长城证券涨停",
@@ -1907,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141369,
+      "num": 141369,
+      "word": "父母用过的冰箱长什么样",
+      "onboard_time": 1755259343,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140008,
       "num": 140008,
       "word": "感觉心型脸是比鹅蛋脸更好品的存在",
@@ -2011,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133444,
+      "num": 133444,
+      "word": "脂包骨身材是最差体质",
+      "onboard_time": 1755264624,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 133167,
       "num": 133167,
       "word": "胖东来招刑释人员面试题曝光",
@@ -2033,6 +2089,14 @@
       "onboard_time": 1755236723,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 130121,
+      "num": 130121,
+      "word": "深圳博物馆 抽象",
+      "onboard_time": 1755264743,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 129637,
@@ -2171,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123537,
+      "num": 123537,
+      "word": "浙BA",
+      "onboard_time": 1755264262,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123254,
       "num": 123254,
       "word": "卫健委通报肖某董某莹事件最新情况",
@@ -2251,6 +2323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115083,
+      "num": 115083,
+      "word": "中日友好医院旗下多家公司被吊注销",
+      "onboard_time": 1755263244,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114757,
       "num": 114757,
       "word": "T1对战HLE",
@@ -2299,12 +2379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113473,
-      "num": 113473,
-      "word": "父母用过的冰箱长什么样",
-      "onboard_time": 1755259343,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 113730,
+      "num": 119053,
+      "word": "央视记者直击普京特朗普会晤",
+      "onboard_time": 1755264624,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113238,
@@ -2337,6 +2417,14 @@
       "onboard_time": 1755250762,
       "rank": 49,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 111471,
+      "num": 111471,
+      "word": "苹果正式入驻小红书",
+      "onboard_time": 1755264143,
+      "rank": 40,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 110903,
@@ -2507,6 +2595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101783,
+      "num": 101783,
+      "word": "朱一龙说自己是个长期主义者",
+      "onboard_time": 1755264863,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101700,
       "num": 101700,
       "word": "刘忻这个视频的退出键在哪里",
@@ -2595,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95164,
+      "num": 95164,
+      "word": "王曼昱首轮对阵万远",
+      "onboard_time": 1755263362,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95104,
       "num": 150809,
       "word": "A股半日缩量1038亿上涨",
@@ -2651,6 +2755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93687,
+      "num": 93687,
+      "word": "樊振东带领俱乐部冲击欧冠四连冠",
+      "onboard_time": 1755262042,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93569,
       "num": 93569,
       "word": "龚俊在花少抠成啥样了",
@@ -2673,14 +2785,6 @@
       "onboard_time": 1755249682,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91569,
-      "num": 91569,
-      "word": "樊振东带领俱乐部冲击欧冠四连冠",
-      "onboard_time": 1755262042,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 90199,
@@ -2721,6 +2825,14 @@
       "onboard_time": 1755194357,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85412,
+      "num": 111688,
+      "word": "炫神喊话iG",
+      "onboard_time": 1755263963,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 85297,
