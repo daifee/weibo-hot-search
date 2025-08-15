@@ -1,0 +1,410 @@
+{
+  "runTime": 1755236718317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1068541,
+        "num": 1170966,
+        "word": "大暴雨特大暴雨要来了",
+        "onboard_time": 1755229825,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703182,
+        "num": 703182,
+        "word": "迪丽热巴千字长文",
+        "onboard_time": 1755227423,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20777,
+        "num": 597179,
+        "word": "丝路万里一路向前",
+        "onboard_time": 1755185544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 596147,
+        "num": 596147,
+        "word": "四大名著 翻拍",
+        "onboard_time": 1755233783,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588407,
+        "num": 588407,
+        "word": "高铁去泡面化",
+        "onboard_time": 1755214219,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569672,
+        "num": 569672,
+        "word": "老板说无法接受一碗面管一家人饱",
+        "onboard_time": 1755219502,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343136,
+        "num": 343136,
+        "word": "日本小学生问侵华日军是人吗",
+        "onboard_time": 1755224840,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328300,
+        "num": 328300,
+        "word": "霍建华首部短剧搏忆定档",
+        "onboard_time": 1755230061,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309199,
+        "num": 309199,
+        "word": "一年级也该火个邢菲了",
+        "onboard_time": 1755234383,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197973,
+        "num": 308496,
+        "word": "山东泰安失踪10岁女孩已找到",
+        "onboard_time": 1755234443,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1420351,
+        "num": 307261,
+        "word": "董洁潘粤明儿子基因彩票",
+        "onboard_time": 1755231923,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1015432,
+        "num": 305424,
+        "word": "香港偶遇angelababy小海绵",
+        "onboard_time": 1755231923,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 955891,
+        "num": 303634,
+        "word": "梅婷生了个小梅婷",
+        "onboard_time": 1755233303,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464860,
+        "num": 300801,
+        "word": "黄子韬回应婚礼时间",
+        "onboard_time": 1755232162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300471,
+        "num": 300471,
+        "word": "日本战败投降80周年",
+        "onboard_time": 1755212717,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254235,
+        "num": 254235,
+        "word": "江西最强钉子户已搬离",
+        "onboard_time": 1755227661,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252123,
+        "num": 252123,
+        "word": "珠峰顶首位倒立20秒女子遇难",
+        "onboard_time": 1755227602,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252110,
+        "num": 252110,
+        "word": "继女要求继承600万遗产遭亲生子拒绝",
+        "onboard_time": 1755234143,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239310,
+        "num": 239310,
+        "word": "张雅琪工作留痕的重要性",
+        "onboard_time": 1755227901,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67362,
+        "num": 215821,
+        "word": "家电升配是智商税吗",
+        "onboard_time": 1755233482,
+        "rank": 19,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 325048,
+        "num": 212877,
+        "word": "朋友圈几乎全员92是什么概念",
+        "onboard_time": 1755218002,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 249469,
+        "num": 208068,
+        "word": "王子文儿子都这么大了",
+        "onboard_time": 1755236363,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200450,
+        "num": 200450,
+        "word": "董璇连发66个哈庆祝小酒窝暑假将结束",
+        "onboard_time": 1755226461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198152,
+        "num": 198152,
+        "word": "王俊凯机场牛仔套装",
+        "onboard_time": 1755236542,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195967,
+        "num": 195967,
+        "word": "披荆斩棘5一公",
+        "onboard_time": 1755235582,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184071,
+        "num": 184071,
+        "word": "部分人员不愿到农村任教消极考试",
+        "onboard_time": 1755224540,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181336,
+        "num": 181336,
+        "word": "于正说某大导家的女艺人都被换了",
+        "onboard_time": 1755229281,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170678,
+        "num": 170678,
+        "word": "中餐厅全员轮岗",
+        "onboard_time": 1755235042,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170146,
+        "num": 170146,
+        "word": "官方回应男童被带去冒名顶替打疫苗",
+        "onboard_time": 1755234083,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162720,
+        "num": 162720,
+        "word": "盗墓笔记",
+        "onboard_time": 1755235163,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 189783,
+        "num": 160853,
+        "word": "食贫道怒骂日本拜鬼",
+        "onboard_time": 1755228141,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158599,
+        "num": 158599,
+        "word": "吴磊让A市总裁有脸了",
+        "onboard_time": 1755236542,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157537,
+        "num": 157537,
+        "word": "闺蜜俩发现富二代男友竟是同一人",
+        "onboard_time": 1755235942,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148375,
+        "num": 157407,
+        "word": "有戏开机",
+        "onboard_time": 1755234143,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157318,
+        "num": 157318,
+        "word": "儿子上大学第一个月要1万生活费",
+        "onboard_time": 1755234502,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150616,
+        "num": 150616,
+        "word": "男子翻出20年前麦当劳兑换券获回应",
+        "onboard_time": 1755235883,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150542,
+        "num": 150542,
+        "word": "8月15日中国人必须铭记",
+        "onboard_time": 1755224840,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148935,
+        "num": 148935,
+        "word": "日本失业男子为泄愤囚禁母亲和妹妹",
+        "onboard_time": 1755233004,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148340,
+        "num": 148340,
+        "word": "刘浩存不嫌弃我还搂我",
+        "onboard_time": 1755232644,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147905,
+        "num": 147905,
+        "word": "学生优惠票使用不再限于寒暑假",
+        "onboard_time": 1755228503,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144608,
+        "num": 144608,
+        "word": "嫁给神你无需自卑",
+        "onboard_time": 1755236601,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144194,
+        "num": 144194,
+        "word": "生万物",
+        "onboard_time": 1755218601,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141642,
+        "num": 141642,
+        "word": "江山为聘开机",
+        "onboard_time": 1755234024,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125846,
+        "num": 139585,
+        "word": "开天",
+        "onboard_time": 1755235342,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137634,
+        "num": 137634,
+        "word": "96年女生已经是博导了",
+        "onboard_time": 1755233185,
+        "rank": 44,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 95384,
+        "num": 131452,
+        "word": "小北想火成labubu",
+        "onboard_time": 1755235702,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128722,
+        "num": 128722,
+        "word": "黑神话悟空",
+        "onboard_time": 1755235764,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126871,
+        "num": 126871,
+        "word": "石破茂向靖国神社供奉祭祀费",
+        "onboard_time": 1755222380,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123036,
+        "num": 123036,
+        "word": "二婚妻子转走110万还起诉分房产",
+        "onboard_time": 1755230782,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111227,
+        "num": 119350,
+        "word": "黑神话 DLC",
+        "onboard_time": 1755229402,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山可以成为金山银山#"
+    }
+  }
+}

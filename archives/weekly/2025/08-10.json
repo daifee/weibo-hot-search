@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755235684593,
+  "endTime": 1755236718317,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -859,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1068541,
+      "num": 1170966,
+      "word": "大暴雨特大暴雨要来了",
+      "onboard_time": 1755229825,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1067560,
       "num": 1067560,
       "word": "印度男子将亡妻绑摩托上被拦截",
@@ -985,14 +993,6 @@
       "onboard_time": 1754976982,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1002050,
-      "num": 1160328,
-      "word": "大暴雨特大暴雨要来了",
-      "onboard_time": 1755229825,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 986437,
@@ -4955,6 +4955,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 252110,
+      "num": 252110,
+      "word": "继女要求继承600万遗产遭亲生子拒绝",
+      "onboard_time": 1755234143,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250973,
       "num": 210825,
       "word": "许昕称赞王楚钦一个人在一档",
@@ -4979,18 +4987,18 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 249797,
-      "num": 249797,
-      "word": "继女要求继承600万遗产遭亲生子拒绝",
-      "onboard_time": 1755234143,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 249536,
       "num": 249536,
       "word": "TWS韩振吃蛋挞被韩网审判",
       "onboard_time": 1754915663,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 249469,
+      "num": 208068,
+      "word": "王子文儿子都这么大了",
+      "onboard_time": 1755236363,
       "rank": 21,
       "category": "艺人"
     },
@@ -5500,7 +5508,7 @@
     },
     {
       "raw_hot": 223335,
-      "num": 223335,
+      "num": 308496,
       "word": "山东泰安失踪10岁女孩已找到",
       "onboard_time": 1755234443,
       "rank": 25,
@@ -6419,6 +6427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198152,
+      "num": 198152,
+      "word": "王俊凯机场牛仔套装",
+      "onboard_time": 1755236542,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198136,
       "num": 198136,
       "word": "杨幂给生万物做了个微综",
@@ -6617,6 +6633,14 @@
       "onboard_time": 1755231321,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195967,
+      "num": 195967,
+      "word": "披荆斩棘5一公",
+      "onboard_time": 1755235582,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 195814,
@@ -8147,14 +8171,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 171273,
-      "num": 171273,
-      "word": "披荆斩棘5一公",
-      "onboard_time": 1755235582,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171247,
       "num": 171247,
       "word": "刘轩丞刘骏村里唯二大学生",
@@ -8233,6 +8249,14 @@
       "onboard_time": 1755223941,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170678,
+      "num": 170678,
+      "word": "中餐厅全员轮岗",
+      "onboard_time": 1755235042,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 170391,
@@ -8699,6 +8723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162720,
+      "num": 162720,
+      "word": "盗墓笔记",
+      "onboard_time": 1755235163,
+      "rank": 29,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 162718,
       "num": 238109,
       "word": "领导手拿表格公共场合考核环卫工",
@@ -9059,6 +9091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158599,
+      "num": 158599,
+      "word": "吴磊让A市总裁有脸了",
+      "onboard_time": 1755236542,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158547,
       "num": 158547,
       "word": "锦月如歌",
@@ -9097,6 +9137,14 @@
       "onboard_time": 1754837965,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157537,
+      "num": 157537,
+      "word": "闺蜜俩发现富二代男友竟是同一人",
+      "onboard_time": 1755235942,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157375,
@@ -9435,14 +9483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153118,
-      "num": 157621,
-      "word": "中餐厅全员轮岗",
-      "onboard_time": 1755235042,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153073,
       "num": 153073,
       "word": "海淀小孩锐评三年级英语",
@@ -9624,6 +9664,14 @@
       "word": "教培机构 贩卖焦虑",
       "onboard_time": 1754972183,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150616,
+      "num": 150616,
+      "word": "男子翻出20年前麦当劳兑换券获回应",
+      "onboard_time": 1755235883,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -10152,6 +10200,14 @@
       "word": "金瀚周峻纬新剧一身大佬味",
       "onboard_time": 1755147864,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144608,
+      "num": 144608,
+      "word": "嫁给神你无需自卑",
+      "onboard_time": 1755236601,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -11817,6 +11873,14 @@
       "onboard_time": 1754755162,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128722,
+      "num": 128722,
+      "word": "黑神话悟空",
+      "onboard_time": 1755235764,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 128700,
@@ -15521,6 +15585,14 @@
       "onboard_time": 1755162144,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95384,
+      "num": 131452,
+      "word": "小北想火成labubu",
+      "onboard_time": 1755235702,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 95316,
