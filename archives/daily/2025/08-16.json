@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755286629855,
+  "endTime": 1755289777246,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -243,6 +243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175062,
+      "num": 175062,
+      "word": "普京特朗普一对一会晤改三对三",
+      "onboard_time": 1755282736,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160903,
       "num": 160903,
       "word": "经常熬夜多吃3类食物",
@@ -265,14 +273,6 @@
       "onboard_time": 1755272721,
       "rank": 28,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 146442,
-      "num": 84122,
-      "word": "普京特朗普一对一会晤改三对三",
-      "onboard_time": 1755282736,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136691,
@@ -321,6 +321,14 @@
       "onboard_time": 1755270984,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113753,
+      "num": 113753,
+      "word": "普京特朗普开始会晤",
+      "onboard_time": 1755286815,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98306,
@@ -451,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69111,
+      "num": 83624,
+      "word": "特朗普机场迎接普京",
+      "onboard_time": 1755286334,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69082,
       "num": 89106,
       "word": "协和4加4毕业生统一开展3年规培",
@@ -473,6 +489,14 @@
       "onboard_time": 1755274102,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55168,
+      "num": 55168,
+      "word": "俄美总统阿拉斯加会面",
+      "onboard_time": 1755286395,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53053,
@@ -499,12 +523,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 42053,
-      "num": 83624,
-      "word": "特朗普机场迎接普京",
-      "onboard_time": 1755286334,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 43011,
+      "num": 43011,
+      "word": "马思纯 姐只是一味不懂",
+      "onboard_time": 1755287714,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 41208,
@@ -539,12 +563,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 14531,
-      "num": 49423,
-      "word": "俄美总统阿拉斯加会面",
-      "onboard_time": 1755286395,
-      "rank": 21,
-      "category": "国际时政"
+      "raw_hot": 21089,
+      "num": 21089,
+      "word": "分享一个无痛早睡的办法",
+      "onboard_time": 1755285675,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 11949,
