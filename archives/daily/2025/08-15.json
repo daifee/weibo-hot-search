@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755264998025,
+  "endTime": 1755265688099,
   "band_list": [
     {
       "raw_hot": 8493340,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1116227,
+      "num": 1116227,
+      "word": "苏苏好惨",
+      "onboard_time": 1755260843,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1110498,
       "num": 332926,
       "word": "孕妇被退回人贩子仍将其二次贩卖",
@@ -129,14 +137,6 @@
       "onboard_time": 1755252801,
       "rank": 7,
       "category": "艺人,休闲"
-    },
-    {
-      "raw_hot": 969179,
-      "num": 969179,
-      "word": "苏苏好惨",
-      "onboard_time": 1755260843,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 933124,
@@ -248,6 +248,14 @@
       "word": "迪丽热巴千字长文",
       "onboard_time": 1755227423,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 740605,
+      "num": 334528,
+      "word": "魔尊重楼扮演者去演短剧了",
+      "onboard_time": 1755262402,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 576513,
+      "num": 315008,
+      "word": "鹿晗唇钉",
+      "onboard_time": 1755262402,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 573262,
       "num": 254585,
       "word": "杨超越才发现照片里的虫子",
@@ -489,14 +505,6 @@
       "onboard_time": 1755239422,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 451648,
-      "num": 222074,
-      "word": "鹿晗唇钉",
-      "onboard_time": 1755262402,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 443281,
@@ -611,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 382752,
-      "num": 213942,
-      "word": "魔尊重楼扮演者去演短剧了",
-      "onboard_time": 1755262402,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 369876,
       "num": 369876,
       "word": "店家回应3女子带4孩多次续面",
@@ -633,6 +633,22 @@
       "onboard_time": 1755216560,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 359678,
+      "num": 278243,
+      "word": "孙颖莎你说嘴巴嘟嘟",
+      "onboard_time": 1755264624,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 350840,
+      "num": 350840,
+      "word": "协和4加4毕业生统一开展3年规培",
+      "onboard_time": 1755257662,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349076,
@@ -673,6 +689,14 @@
       "onboard_time": 1755198854,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335031,
+      "num": 335031,
+      "word": "日本战败投降后竟曾留下一支伏兵",
+      "onboard_time": 1755260121,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 333675,
@@ -859,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254142,
-      "num": 254142,
-      "word": "协和4加4毕业生统一开展3年规培",
-      "onboard_time": 1755257662,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 253208,
       "num": 253208,
       "word": "天才女友 合诗雨",
@@ -881,14 +897,6 @@
       "onboard_time": 1755251603,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 249979,
-      "num": 249979,
-      "word": "日本战败投降后竟曾留下一支伏兵",
-      "onboard_time": 1755260121,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 249154,
@@ -907,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246650,
+      "num": 226792,
+      "word": "杨幂说俺俩现在cp名老多了",
+      "onboard_time": 1755262523,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245282,
       "num": 245282,
       "word": "男子被前女友10万卖到边境",
@@ -921,14 +937,6 @@
       "onboard_time": 1755214219,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233313,
-      "num": 187193,
-      "word": "杨幂说俺俩现在cp名老多了",
-      "onboard_time": 1755262523,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 232411,
@@ -1147,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195282,
-      "num": 195282,
-      "word": "孙颖莎你说嘴巴嘟嘟",
-      "onboard_time": 1755264624,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194769,
       "num": 194769,
       "word": "人上班是为了啥",
@@ -1185,6 +1185,22 @@
       "onboard_time": 1755260182,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190646,
+      "num": 154907,
+      "word": "林高远首轮对阵西蒙高茨",
+      "onboard_time": 1755265524,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187164,
+      "num": 325526,
+      "word": "iPhone相册原来这么好用",
+      "onboard_time": 1755265105,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 186415,
@@ -1283,6 +1299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180303,
+      "num": 176384,
+      "word": "张远一出声内娱地位还是稳",
+      "onboard_time": 1755264443,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179564,
       "num": 179564,
       "word": "韩美娟赤木刚宪穿婚服合照",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1755243382,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178001,
+      "num": 178001,
+      "word": "脂包骨身材是最差体质",
+      "onboard_time": 1755264624,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 177793,
@@ -1547,6 +1579,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161285,
+      "num": 161285,
+      "word": "朱一龙说自己是个长期主义者",
+      "onboard_time": 1755264863,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 160801,
+      "num": 140520,
+      "word": "梁靖崑首轮对阵阿拉米安",
+      "onboard_time": 1755265524,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160225,
       "num": 479653,
       "word": "网红多肉饱饱被强执",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1755235942,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157473,
+      "num": 157473,
+      "word": "镇海神素Suk",
+      "onboard_time": 1755265524,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 156008,
@@ -1737,14 +1793,6 @@
       "onboard_time": 1755227720,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151586,
-      "num": 151586,
-      "word": "张远一出声内娱地位还是稳",
-      "onboard_time": 1755264443,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 151564,
@@ -2035,6 +2083,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 135401,
+      "num": 135401,
+      "word": "张真源对战职业选手心率反降",
+      "onboard_time": 1755265286,
+      "rank": 36,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 135191,
       "num": 135191,
       "word": "JDG对战UUG",
@@ -2057,14 +2113,6 @@
       "onboard_time": 1755223941,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 133444,
-      "num": 133444,
-      "word": "脂包骨身材是最差体质",
-      "onboard_time": 1755264624,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 133167,
@@ -2171,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126829,
+      "num": 149239,
+      "word": "中日友好医院旗下多家公司被吊注销",
+      "onboard_time": 1755263244,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126449,
       "num": 126449,
       "word": "鹿晗我们的明天电疗版",
@@ -2259,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121170,
+      "num": 121170,
+      "word": "央视记者直击普京特朗普会晤",
+      "onboard_time": 1755264624,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120578,
       "num": 268722,
       "word": "金溪之眼屋主曾称没想到公路会绕路",
@@ -2315,20 +2379,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115807,
+      "num": 115807,
+      "word": "苹果正式入驻小红书",
+      "onboard_time": 1755264143,
+      "rank": 40,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 115269,
       "num": 115269,
       "word": "侵华老兵不愿父亲祭祀在靖国神社",
       "onboard_time": 1755259103,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115083,
-      "num": 115083,
-      "word": "中日友好医院旗下多家公司被吊注销",
-      "onboard_time": 1755263244,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114757,
@@ -2379,14 +2443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113730,
-      "num": 119053,
-      "word": "央视记者直击普京特朗普会晤",
-      "onboard_time": 1755264624,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113238,
       "num": 113238,
       "word": "代号鸢",
@@ -2417,14 +2473,6 @@
       "onboard_time": 1755250762,
       "rank": 49,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 111471,
-      "num": 111471,
-      "word": "苹果正式入驻小红书",
-      "onboard_time": 1755264143,
-      "rank": 40,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 110903,
@@ -2595,14 +2643,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101783,
-      "num": 101783,
-      "word": "朱一龙说自己是个长期主义者",
-      "onboard_time": 1755264863,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 101700,
       "num": 101700,
       "word": "刘忻这个视频的退出键在哪里",
@@ -2617,6 +2657,14 @@
       "onboard_time": 1755257902,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101122,
+      "num": 101122,
+      "word": "T1战胜HLE",
+      "onboard_time": 1755265345,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 100194,
@@ -3361,6 +3409,14 @@
       "onboard_time": 1755192497,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11045,
+      "num": 152651,
+      "word": "外交部亚洲司向日方提出严正交涉",
+      "onboard_time": 1755265583,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9901,
