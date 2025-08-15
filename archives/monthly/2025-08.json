@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755254761004,
+  "endTime": 1755256983104,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -105,6 +105,14 @@
       "onboard_time": 1754657483,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8493340,
+      "num": 9743340,
+      "word": "董某莹成绩单造假",
+      "onboard_time": 1755249203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8011833,
@@ -337,14 +345,6 @@
       "onboard_time": 1754135424,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2866256,
-      "num": 2866256,
-      "word": "董某莹成绩单造假",
-      "onboard_time": 1755249203,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2845925,
@@ -9235,6 +9235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403547,
+      "num": 403547,
+      "word": "张远孩子和王铮亮至少相差50岁",
+      "onboard_time": 1755254720,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403177,
       "num": 403177,
       "word": "张本智和王皓握手",
@@ -11067,6 +11075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 329362,
+      "num": 329362,
+      "word": "iG打野",
+      "onboard_time": 1755255201,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 328828,
       "num": 559816,
       "word": "警方通报因纠纷快递员划伤2人",
@@ -12307,6 +12323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 289986,
+      "num": 289986,
+      "word": "月薪5千的请反复观看",
+      "onboard_time": 1755253882,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 289598,
       "num": 289598,
       "word": "iPhone17Pro四大升级",
@@ -13171,6 +13195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266440,
+      "num": 266440,
+      "word": "炫神 Theshy",
+      "onboard_time": 1755252265,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266407,
       "num": 266407,
       "word": "上海将开展入户调查",
@@ -13825,6 +13857,14 @@
       "onboard_time": 1754440403,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252002,
+      "num": 252002,
+      "word": "AL对战iG",
+      "onboard_time": 1755251603,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 251925,
@@ -14779,12 +14819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232111,
-      "num": 232111,
-      "word": "月薪5千的请反复观看",
-      "onboard_time": 1755253882,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 232194,
+      "num": 232194,
+      "word": "美国百人卖淫集团头目被捕",
+      "onboard_time": 1755254363,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 232071,
@@ -15825,14 +15865,6 @@
       "onboard_time": 1754483723,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217064,
-      "num": 217064,
-      "word": "炫神 Theshy",
-      "onboard_time": 1755252265,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 216973,
@@ -21651,6 +21683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176467,
+      "num": 176467,
+      "word": "夏东海 我已经上山当土匪了",
+      "onboard_time": 1755252265,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176389,
       "num": 176389,
       "word": "要不SM把陆婷玉收了吧",
@@ -25579,6 +25619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155240,
+      "num": 155240,
+      "word": "吃狗粮瘦15斤",
+      "onboard_time": 1755255502,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155212,
       "num": 155212,
       "word": "时代少年团上海站错票将禁购三年",
@@ -26465,6 +26513,14 @@
       "onboard_time": 1754374824,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 151564,
+      "num": 151564,
+      "word": "长城证券涨停",
+      "onboard_time": 1755256763,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 151559,
@@ -28107,6 +28163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144603,
+      "num": 144603,
+      "word": "RW荣都开门红",
+      "onboard_time": 1755256283,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144585,
       "num": 144585,
       "word": "亮证姐事件巧合为何这么多",
@@ -28523,14 +28587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142779,
-      "num": 142779,
-      "word": "美国百人卖淫集团头目被捕",
-      "onboard_time": 1755254363,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 142762,
       "num": 142762,
       "word": "体制内爱好红黑榜",
@@ -28651,12 +28707,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142351,
+      "num": 176100,
+      "word": "周柯宇190视角看海直播",
+      "onboard_time": 1755256103,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142284,
       "num": 239755,
       "word": "北京93岁老英雄坚持走路撤离",
       "onboard_time": 1754628384,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142277,
+      "num": 142277,
+      "word": "JDG伞兵独狼MVP",
+      "onboard_time": 1755256222,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 142216,
@@ -29409,6 +29481,14 @@
       "onboard_time": 1754381664,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139599,
+      "num": 175816,
+      "word": "爱奇艺 生万物固屏",
+      "onboard_time": 1755254301,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 139588,
@@ -30251,14 +30331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136832,
-      "num": 136832,
-      "word": "夏东海 我已经上山当土匪了",
-      "onboard_time": 1755252265,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136811,
       "num": 136811,
       "word": "刘耀文集体责任感好强",
@@ -30691,6 +30763,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 135191,
+      "num": 135191,
+      "word": "JDG对战UUG",
+      "onboard_time": 1755256462,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135180,
       "num": 135180,
       "word": "zb1卖玉米",
@@ -30833,6 +30913,14 @@
       "onboard_time": 1754231486,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134745,
+      "num": 136155,
+      "word": "杨幂回复于正了",
+      "onboard_time": 1755256821,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 134729,
@@ -31417,14 +31505,6 @@
       "onboard_time": 1754619680,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132948,
-      "num": 132948,
-      "word": "爱奇艺 生万物固屏",
-      "onboard_time": 1755254301,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 132914,
@@ -32113,14 +32193,6 @@
       "onboard_time": 1754551283,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130524,
-      "num": 130524,
-      "word": "AL对战iG",
-      "onboard_time": 1755251603,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 130521,
@@ -36035,6 +36107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118001,
+      "num": 270096,
+      "word": "女子喝奶茶窒息被小孩姐救回",
+      "onboard_time": 1755254962,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117967,
       "num": 117967,
       "word": "搬家后才知道环境对人的影响",
@@ -37219,14 +37299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113585,
-      "num": 133249,
-      "word": "张远孩子和王铮亮至少相差50岁",
-      "onboard_time": 1755254720,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113583,
       "num": 113583,
       "word": "狼队致歉声明",
@@ -37313,6 +37385,14 @@
       "onboard_time": 1754624903,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113238,
+      "num": 113238,
+      "word": "代号鸢",
+      "onboard_time": 1755256881,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 113208,
@@ -44347,6 +44427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75671,
+      "num": 137415,
+      "word": "长征十号首次系留点火试验成功",
+      "onboard_time": 1755255622,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75629,
       "num": 75629,
       "word": "一看就是江浙沪人最喜欢吃的菜",
@@ -48915,6 +49003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31444,
+      "num": 175170,
+      "word": "官方回应金溪之眼是否会拆除",
+      "onboard_time": 1755255684,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31401,
       "num": 31401,
       "word": "朱志鑫张泽禹非酋兄弟",
@@ -49683,6 +49779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24309,
+      "num": 227124,
+      "word": "4加4其他学生入学资格未发现违规",
+      "onboard_time": 1755256642,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24256,
       "num": 24256,
       "word": "疑因孩子顶座起冲突警方已介入",
@@ -50424,6 +50528,14 @@
       "word": "全国鸡蛋价格下降",
       "onboard_time": 1754809882,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16014,
+      "num": 135391,
+      "word": "老铺黄金8月将涨价",
+      "onboard_time": 1755256583,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
