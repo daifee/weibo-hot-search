@@ -1,0 +1,410 @@
+{
+  "runTime": 1755233505013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1081347,
+        "num": 1173015,
+        "word": "香港偶遇angelababy小海绵",
+        "onboard_time": 1755231923,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1016413,
+        "num": 1016413,
+        "word": "高铁去泡面化",
+        "onboard_time": 1755214219,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23105,
+        "num": 706927,
+        "word": "丝路万里一路向前",
+        "onboard_time": 1755185544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 682087,
+        "num": 682087,
+        "word": "霍建华首部短剧搏忆定档",
+        "onboard_time": 1755230061,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 645626,
+        "num": 645626,
+        "word": "江西最强钉子户已搬离",
+        "onboard_time": 1755227661,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1257872,
+        "num": 627319,
+        "word": "老板说无法接受一碗面管一家人饱",
+        "onboard_time": 1755219502,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652416,
+        "num": 627285,
+        "word": "迪丽热巴千字长文",
+        "onboard_time": 1755227423,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 595335,
+        "num": 595335,
+        "word": "日本战败投降80周年",
+        "onboard_time": 1755212717,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 589639,
+        "num": 589639,
+        "word": "大暴雨特大暴雨要来了",
+        "onboard_time": 1755229825,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512963,
+        "num": 562524,
+        "word": "珠峰顶首位倒立20秒女子遇难",
+        "onboard_time": 1755227602,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1486835,
+        "num": 562404,
+        "word": "董洁潘粤明儿子基因彩票",
+        "onboard_time": 1755231923,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610994,
+        "num": 558082,
+        "word": "董璇连发66个哈庆祝小酒窝暑假将结束",
+        "onboard_time": 1755226461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551236,
+        "num": 551236,
+        "word": "日本小学生问侵华日军是人吗",
+        "onboard_time": 1755224840,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420734,
+        "num": 420734,
+        "word": "张雅琪工作留痕的重要性",
+        "onboard_time": 1755227901,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400497,
+        "num": 400497,
+        "word": "学生优惠票使用不再限于寒暑假",
+        "onboard_time": 1755228503,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390316,
+        "num": 390316,
+        "word": "黄子韬回应婚礼时间",
+        "onboard_time": 1755232162,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387700,
+        "num": 387700,
+        "word": "部分人员不愿到农村任教消极考试",
+        "onboard_time": 1755224540,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350875,
+        "num": 350875,
+        "word": "邱泽许玮甯儿子已满月",
+        "onboard_time": 1755227001,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329177,
+        "num": 329177,
+        "word": "秦海璐说杨幂极聪明的一个人",
+        "onboard_time": 1755227300,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166476,
+        "num": 277148,
+        "word": "华为新平板电脑价格真香",
+        "onboard_time": 1755229883,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 412943,
+        "num": 271588,
+        "word": "朋友圈几乎全员92是什么概念",
+        "onboard_time": 1755218002,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250132,
+        "num": 250132,
+        "word": "于正说某大导家的女艺人都被换了",
+        "onboard_time": 1755229281,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236837,
+        "num": 236837,
+        "word": "梅婷生了个小梅婷",
+        "onboard_time": 1755233303,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229069,
+        "num": 229069,
+        "word": "吴谨言江山为聘出妆",
+        "onboard_time": 1755230123,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215118,
+        "num": 215118,
+        "word": "石破茂向靖国神社供奉祭祀费",
+        "onboard_time": 1755222380,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200961,
+        "num": 200961,
+        "word": "女儿压死儿子事件第一责任在父母",
+        "onboard_time": 1755210134,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192541,
+        "num": 192541,
+        "word": "twice抢票",
+        "onboard_time": 1755232403,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192435,
+        "num": 192435,
+        "word": "网红猪坚强负债50万搞爱好",
+        "onboard_time": 1755225382,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 187434,
+        "num": 187434,
+        "word": "人上班是为了啥",
+        "onboard_time": 1755229883,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167725,
+        "num": 186438,
+        "word": "丰崎爱生丈夫去世",
+        "onboard_time": 1755231321,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249154,
+        "num": 186272,
+        "word": "食贫道怒骂日本拜鬼",
+        "onboard_time": 1755228141,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185746,
+        "num": 185746,
+        "word": "27岁孕妇被骗泰缅边境19天后获救",
+        "onboard_time": 1755227661,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183724,
+        "num": 183724,
+        "word": "8月15日中国人必须铭记",
+        "onboard_time": 1755224840,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182227,
+        "num": 182227,
+        "word": "动车组学生优惠票一等座也将适用",
+        "onboard_time": 1755228503,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178250,
+        "num": 178250,
+        "word": "二婚妻子转走110万还起诉分房产",
+        "onboard_time": 1755230782,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170794,
+        "num": 170794,
+        "word": "日本失业男子为泄愤囚禁母亲和妹妹",
+        "onboard_time": 1755233004,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166132,
+        "num": 166132,
+        "word": "生万物",
+        "onboard_time": 1755218601,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64191,
+        "num": 162289,
+        "word": "大爷娶小16岁妻子结婚当日脑梗",
+        "onboard_time": 1755233363,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102847,
+        "num": 161400,
+        "word": "刘浩存不嫌弃我还搂我",
+        "onboard_time": 1755232644,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160647,
+        "num": 160647,
+        "word": "宋亚轩好一个复制粘贴",
+        "onboard_time": 1755232464,
+        "rank": 39,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 157154,
+        "num": 157154,
+        "word": "7岁男孩补习班坠亡警方不予立案",
+        "onboard_time": 1755230061,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156004,
+        "num": 156004,
+        "word": "黑神话 DLC",
+        "onboard_time": 1755229402,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21421,
+        "num": 154151,
+        "word": "家电升配是智商税吗",
+        "onboard_time": 1755233482,
+        "rank": 42,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 154111,
+        "num": 154111,
+        "word": "以为是周也结果是丞磊",
+        "onboard_time": 1755230601,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151924,
+        "num": 151924,
+        "word": "汪顺被自己确诊为卡皮巴拉",
+        "onboard_time": 1755227720,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149646,
+        "num": 149646,
+        "word": "尚雯婕法语",
+        "onboard_time": 1755232883,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146033,
+        "num": 146033,
+        "word": "张雅琪穿睡衣去花少二面",
+        "onboard_time": 1755218722,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67364,
+        "num": 144977,
+        "word": "日本不能再次走上同样的道路",
+        "onboard_time": 1755230424,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144329,
+        "num": 144329,
+        "word": "眼睛没有对方眼袋大",
+        "onboard_time": 1755231864,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142402,
+        "num": 142402,
+        "word": "Milkyway爆料人销号跑路",
+        "onboard_time": 1755232583,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山可以成为金山银山#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755232644894,
+  "endTime": 1755233505013,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1291,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1486835,
+      "num": 562404,
+      "word": "董洁潘粤明儿子基因彩票",
+      "onboard_time": 1755231923,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1481731,
       "num": 372015,
       "word": "胸贴 危害",
@@ -2312,6 +2320,14 @@
       "word": "于正说可以和赵露思合伙开面馆",
       "onboard_time": 1754221643,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1081347,
+      "num": 1173015,
+      "word": "香港偶遇angelababy小海绵",
+      "onboard_time": 1755231923,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -5947,6 +5963,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 589639,
+      "num": 589639,
+      "word": "大暴雨特大暴雨要来了",
+      "onboard_time": 1755229825,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589444,
       "num": 589444,
       "word": "被摸脸前台女孩与外卖员互相认识",
@@ -6513,14 +6537,6 @@
       "onboard_time": 1755012743,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 555216,
-      "num": 555216,
-      "word": "香港偶遇angelababy小海绵",
-      "onboard_time": 1755231923,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 554434,
@@ -7721,14 +7737,6 @@
       "onboard_time": 1754837245,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 472116,
-      "num": 472116,
-      "word": "董洁潘粤明儿子基因彩票",
-      "onboard_time": 1755231923,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 471662,
@@ -9251,6 +9259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390316,
+      "num": 390316,
+      "word": "黄子韬回应婚礼时间",
+      "onboard_time": 1755232162,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390147,
       "num": 390147,
       "word": "凡人修仙传大结局",
@@ -9785,14 +9801,6 @@
       "onboard_time": 1755144142,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 370369,
-      "num": 370369,
-      "word": "大暴雨特大暴雨要来了",
-      "onboard_time": 1755229825,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 370316,
@@ -13627,6 +13635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249154,
+      "num": 245061,
+      "word": "食贫道怒骂日本拜鬼",
+      "onboard_time": 1755228141,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 248924,
       "num": 248924,
       "word": "何杜娟生女",
@@ -13825,14 +13841,6 @@
       "onboard_time": 1754487985,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245061,
-      "num": 245061,
-      "word": "食贫道怒骂日本拜鬼",
-      "onboard_time": 1755228141,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 245031,
@@ -14209,6 +14217,14 @@
       "onboard_time": 1754417056,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236837,
+      "num": 236837,
+      "word": "梅婷生了个小梅婷",
+      "onboard_time": 1755233303,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 236744,
@@ -15577,14 +15593,6 @@
       "onboard_time": 1754978902,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 215460,
-      "num": 215460,
-      "word": "黄子韬回应婚礼时间",
-      "onboard_time": 1755232162,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 215430,
@@ -18779,6 +18787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192541,
+      "num": 192541,
+      "word": "twice抢票",
+      "onboard_time": 1755232403,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192527,
       "num": 192527,
       "word": "KPL年度总决赛鸟巢表演嘉宾",
@@ -19841,14 +19857,6 @@
       "onboard_time": 1754472084,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185654,
-      "num": 185654,
-      "word": "twice抢票",
-      "onboard_time": 1755232403,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 185566,
@@ -22049,6 +22057,14 @@
       "onboard_time": 1754717060,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170794,
+      "num": 170794,
+      "word": "日本失业男子为泄愤囚禁母亲和妹妹",
+      "onboard_time": 1755233004,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 170764,
@@ -25675,6 +25691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151924,
+      "num": 151924,
+      "word": "汪顺被自己确诊为卡皮巴拉",
+      "onboard_time": 1755227720,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151857,
       "num": 165572,
       "word": "官方调查男子发布12字评论被拘",
@@ -26105,6 +26129,14 @@
       "onboard_time": 1754962341,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149646,
+      "num": 149646,
+      "word": "尚雯婕法语",
+      "onboard_time": 1755232883,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 149607,
@@ -27369,6 +27401,14 @@
       "onboard_time": 1754215345,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144329,
+      "num": 245164,
+      "word": "眼睛没有对方眼袋大",
+      "onboard_time": 1755231864,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 144327,
@@ -33507,14 +33547,6 @@
       "category": "互联网,音乐"
     },
     {
-      "raw_hot": 122802,
-      "num": 122802,
-      "word": "汪顺被自己确诊为卡皮巴拉",
-      "onboard_time": 1755227720,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122763,
       "num": 122763,
       "word": "阴阳师魔卡少女樱联动",
@@ -35345,14 +35377,6 @@
       "onboard_time": 1754304682,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116746,
-      "num": 245164,
-      "word": "眼睛没有对方眼袋大",
-      "onboard_time": 1755231864,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 116668,
@@ -39025,6 +39049,14 @@
       "onboard_time": 1755078744,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102847,
+      "num": 161400,
+      "word": "刘浩存不嫌弃我还搂我",
+      "onboard_time": 1755232644,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 102765,
@@ -43907,6 +43939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67364,
+      "num": 261647,
+      "word": "日本不能再次走上同样的道路",
+      "onboard_time": 1755230424,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67312,
       "num": 473564,
       "word": "中国人民抗战胜利80周年",
@@ -44211,6 +44251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64191,
+      "num": 162289,
+      "word": "大爷娶小16岁妻子结婚当日脑梗",
+      "onboard_time": 1755233363,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64108,
       "num": 64108,
       "word": "秦海璐嫂子爆改犁地小生",
@@ -44297,14 +44345,6 @@
       "onboard_time": 1754164396,
       "rank": 15,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 63167,
-      "num": 261647,
-      "word": "日本不能再次走上同样的道路",
-      "onboard_time": 1755230424,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 63159,
@@ -48665,6 +48705,14 @@
       "onboard_time": 1754248995,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21421,
+      "num": 154151,
+      "word": "家电升配是智商税吗",
+      "onboard_time": 1755233482,
+      "rank": 42,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 21151,
