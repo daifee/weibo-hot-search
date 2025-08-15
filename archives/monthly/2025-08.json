@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755275608946,
+  "endTime": 1755276534869,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -3667,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 837823,
+      "num": 308039,
+      "word": "张真源",
+      "onboard_time": 1755275720,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 834842,
       "num": 454650,
       "word": "孙俪没档期 邓超会戴假发去当替身",
@@ -4449,6 +4457,14 @@
       "onboard_time": 1754453964,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 732994,
+      "num": 290999,
+      "word": "刘耀文",
+      "onboard_time": 1755275481,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 732670,
@@ -5409,6 +5425,14 @@
       "onboard_time": 1755243922,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 648956,
+      "num": 270407,
+      "word": "严浩翔",
+      "onboard_time": 1755276080,
+      "rank": 14,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 647577,
@@ -8377,6 +8401,14 @@
       "onboard_time": 1753974683,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 455932,
+      "num": 269145,
+      "word": "贺峻霖",
+      "onboard_time": 1755276140,
+      "rank": 16,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 455809,
@@ -11547,6 +11579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 320178,
+      "num": 194910,
+      "word": "马嘉祺",
+      "onboard_time": 1755276140,
+      "rank": 20,
+      "category": "艺人,演出"
+    },
+    {
       "raw_hot": 319897,
       "num": 229009,
       "word": "内场第一排跟坐易烊千玺怀里有啥区别",
@@ -11641,6 +11681,14 @@
       "onboard_time": 1754569344,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 316187,
+      "num": 353399,
+      "word": "普京乘坐专机前往美国阿拉斯加州",
+      "onboard_time": 1755273022,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 315958,
@@ -11785,6 +11833,14 @@
       "onboard_time": 1755008846,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310480,
+      "num": 310480,
+      "word": "生万物央八破3最快剧集第三位",
+      "onboard_time": 1755273561,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 310473,
@@ -14939,14 +14995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234198,
-      "num": 180629,
-      "word": "刘耀文",
-      "onboard_time": 1755275481,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233870,
       "num": 272107,
       "word": "蔡徐坤新歌MV",
@@ -15873,14 +15921,6 @@
       "onboard_time": 1754003779,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219997,
-      "num": 219997,
-      "word": "生万物央八破3最快剧集第三位",
-      "onboard_time": 1755273561,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 219825,
@@ -25459,14 +25499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158183,
-      "num": 353399,
-      "word": "普京乘坐专机前往美国阿拉斯加州",
-      "onboard_time": 1755273022,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 158105,
       "num": 158105,
       "word": "王楚钦WTT赛事冠军30座",
@@ -27033,6 +27065,14 @@
       "onboard_time": 1754104102,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151121,
+      "num": 151121,
+      "word": "谢霆锋刘德华竟现电梯施工人员名单",
+      "onboard_time": 1755272721,
+      "rank": 28,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 151081,
@@ -28777,6 +28817,14 @@
       "onboard_time": 1755142162,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143807,
+      "num": 143807,
+      "word": "一楼住户趁夜砌墙将大堂据为己有",
+      "onboard_time": 1755273683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143761,
@@ -33619,6 +33667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127644,
+      "num": 127643,
+      "word": "企业加班通知走红 所有人涨薪25%",
+      "onboard_time": 1755274222,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127635,
       "num": 150707,
       "word": "李艺彤马吟吟恋综女嘉宾出场",
@@ -35241,14 +35297,6 @@
       "onboard_time": 1754403503,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122548,
-      "num": 122548,
-      "word": "企业加班通知走红 所有人涨薪25%",
-      "onboard_time": 1755274222,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122428,
@@ -37027,14 +37075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116691,
-      "num": 116691,
-      "word": "谢霆锋刘德华竟现电梯施工人员名单",
-      "onboard_time": 1755272721,
-      "rank": 28,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 116668,
       "num": 116668,
       "word": "苹果在美投入将增至6000亿美元",
@@ -38457,14 +38497,6 @@
       "onboard_time": 1754291722,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112064,
-      "num": 112064,
-      "word": "一楼住户趁夜砌墙将大堂据为己有",
-      "onboard_time": 1755273683,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112062,
@@ -43963,6 +43995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87349,
+      "num": 87349,
+      "word": "重庆一女童街头被阿拉斯加犬咬伤",
+      "onboard_time": 1755275422,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87322,
       "num": 87322,
       "word": "中国游客讲述在巴西深夜乘大巴被劫",
@@ -44993,6 +45033,14 @@
       "onboard_time": 1754489243,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79051,
+      "num": 79051,
+      "word": "美俄元首会晤",
+      "onboard_time": 1755275720,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78879,
@@ -46425,14 +46473,6 @@
       "onboard_time": 1754605218,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 63694,
-      "num": 84094,
-      "word": "重庆一女童街头被阿拉斯加犬咬伤",
-      "onboard_time": 1755275422,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63634,
