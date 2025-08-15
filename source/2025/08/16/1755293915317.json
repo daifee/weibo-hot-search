@@ -1,0 +1,410 @@
+{
+  "runTime": 1755293915317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 291904,
+        "num": 291904,
+        "word": "男子买避孕药出轨曝光涉事店员已休假",
+        "onboard_time": 1755269544,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208921,
+        "num": 208921,
+        "word": "普京特朗普一对一会晤改三对三",
+        "onboard_time": 1755282736,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1151,
+        "num": 142489,
+        "word": "7月国民经济保持稳中有进发展态势",
+        "onboard_time": 1755226162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107327,
+        "num": 107327,
+        "word": "一楼住户趁夜砌墙将大堂据为己有",
+        "onboard_time": 1755273683,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81731,
+        "num": 81731,
+        "word": "重庆一女童街头被阿拉斯加犬咬伤",
+        "onboard_time": 1755275422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79999,
+        "num": 79999,
+        "word": "普京特朗普开始会晤",
+        "onboard_time": 1755286815,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73350,
+        "num": 73350,
+        "word": "普京抵达美国",
+        "onboard_time": 1755273022,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68160,
+        "num": 68160,
+        "word": "美俄元首会晤",
+        "onboard_time": 1755275720,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64633,
+        "num": 67677,
+        "word": "魔尊重楼扮演者去演短剧了",
+        "onboard_time": 1755262402,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39244,
+        "num": 67502,
+        "word": "宁绣绣封大脚圆房",
+        "onboard_time": 1755270925,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150890,
+        "num": 66744,
+        "word": "宋亚轩",
+        "onboard_time": 1755276140,
+        "rank": 10,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 93390,
+        "num": 65998,
+        "word": "马思纯 姐只是一味不懂",
+        "onboard_time": 1755287714,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97174,
+        "num": 65842,
+        "word": "张真源",
+        "onboard_time": 1755275720,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65366,
+        "num": 65366,
+        "word": "续面老板回应店面700余条差评",
+        "onboard_time": 1755269363,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55697,
+        "num": 55697,
+        "word": "特朗普机场迎接普京",
+        "onboard_time": 1755286334,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52296,
+        "num": 52296,
+        "word": "蜜雪冰城未开封奶茶惊现蟑螂",
+        "onboard_time": 1755270203,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49746,
+        "num": 49746,
+        "word": "严浩翔",
+        "onboard_time": 1755276080,
+        "rank": 16,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 48294,
+        "num": 48294,
+        "word": "董某莹成绩单造假",
+        "onboard_time": 1755249203,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31274,
+        "num": 47483,
+        "word": "苏苏好惨",
+        "onboard_time": 1755260843,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31182,
+        "num": 47103,
+        "word": "生万物央八破3最快剧集第三位",
+        "onboard_time": 1755273561,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48445,
+        "num": 47069,
+        "word": "贺峻霖",
+        "onboard_time": 1755276140,
+        "rank": 20,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 46889,
+        "num": 46889,
+        "word": "女子5次试管后终怀孕却确诊肝癌",
+        "onboard_time": 1755269844,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40773,
+        "num": 40773,
+        "word": "刘耀文",
+        "onboard_time": 1755275481,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34805,
+        "num": 34805,
+        "word": "居民存款减少1.11万亿去哪了",
+        "onboard_time": 1755270023,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33492,
+        "num": 33492,
+        "word": "大司命黑皮男神",
+        "onboard_time": 1755281295,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32579,
+        "num": 32579,
+        "word": "谢霆锋刘德华竟现电梯施工人员名单",
+        "onboard_time": 1755272721,
+        "rank": 25,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 19374,
+        "num": 32534,
+        "word": "杨幂回复于正了",
+        "onboard_time": 1755256821,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10235,
+        "num": 32483,
+        "word": "国台办驳赖清德散播错误二战史观",
+        "onboard_time": 1755293774,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19349,
+        "num": 32332,
+        "word": "邻居称张靓颖粉丝打卡就走了",
+        "onboard_time": 1755267803,
+        "rank": 28,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 18864,
+        "num": 32285,
+        "word": "周深 泡泡玛特",
+        "onboard_time": 1755252801,
+        "rank": 29,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 32236,
+        "num": 32236,
+        "word": "俄美总统阿拉斯加会面",
+        "onboard_time": 1755286395,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29766,
+        "num": 29766,
+        "word": "被体制内大佬的工作留痕震撼到了",
+        "onboard_time": 1755269724,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28967,
+        "num": 28967,
+        "word": "企业加班通知走红 所有人涨薪25%",
+        "onboard_time": 1755274222,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28960,
+        "num": 28960,
+        "word": "iPhone相册原来这么好用",
+        "onboard_time": 1755265105,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28629,
+        "num": 28629,
+        "word": "央视记者直击普京特朗普会晤",
+        "onboard_time": 1755264624,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28112,
+        "num": 28112,
+        "word": "恒大前行政总裁夏海钧被曝藏身加州",
+        "onboard_time": 1755269363,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26960,
+        "num": 26960,
+        "word": "经常熬夜多吃3类食物",
+        "onboard_time": 1755267504,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25862,
+        "num": 25862,
+        "word": "法国小伙家人因侵华日军2死1疯",
+        "onboard_time": 1755269363,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25838,
+        "num": 25838,
+        "word": "美国百人卖淫集团头目被捕",
+        "onboard_time": 1755254363,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25397,
+        "num": 25397,
+        "word": "马嘉祺",
+        "onboard_time": 1755276140,
+        "rank": 39,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 24877,
+        "num": 24877,
+        "word": "脂包骨身材是最差体质",
+        "onboard_time": 1755264624,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 23898,
+        "num": 23898,
+        "word": "特朗普将与普京1V1对话",
+        "onboard_time": 1755272362,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23437,
+        "num": 23437,
+        "word": "中日友好医院党委书记更换",
+        "onboard_time": 1755267444,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22697,
+        "num": 22697,
+        "word": "协和4加4毕业生统一开展3年规培",
+        "onboard_time": 1755257662,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22080,
+        "num": 22080,
+        "word": "张真源生日快乐超级无敌可爱浩翔小宝贝",
+        "onboard_time": 1755277640,
+        "rank": 44,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 21993,
+        "num": 21993,
+        "word": "美俄会谈地数百特工入驻",
+        "onboard_time": 1755279138,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21766,
+        "num": 21766,
+        "word": "越野跑大神误食毒蘑菇去世",
+        "onboard_time": 1755272662,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18897,
+        "num": 18897,
+        "word": "特朗普将以最高礼遇接待普京",
+        "onboard_time": 1755268284,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17826,
+        "num": 18895,
+        "word": "封大脚发现绣绣秘密",
+        "onboard_time": 1755270984,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17040,
+        "num": 18894,
+        "word": "不二之臣",
+        "onboard_time": 1755260242,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记弘扬伟大抗战精神的故事#"
+    }
+  }
+}
