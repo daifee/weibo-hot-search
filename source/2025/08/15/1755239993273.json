@@ -1,0 +1,410 @@
+{
+  "runTime": 1755239993273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516060,
+        "num": 1516060,
+        "word": "大暴雨特大暴雨要来了",
+        "onboard_time": 1755229825,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739860,
+        "num": 739860,
+        "word": "苏醒给王栎鑫道歉",
+        "onboard_time": 1755237862,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13833,
+        "num": 620475,
+        "word": "丝路万里一路向前",
+        "onboard_time": 1755185544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572999,
+        "num": 572999,
+        "word": "继女要求继承600万遗产遭亲生子拒绝",
+        "onboard_time": 1755234143,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527601,
+        "num": 527601,
+        "word": "嫁给神你无需自卑",
+        "onboard_time": 1755236601,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446352,
+        "num": 446352,
+        "word": "高铁去泡面化",
+        "onboard_time": 1755214219,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496738,
+        "num": 422569,
+        "word": "迪丽热巴千字长文",
+        "onboard_time": 1755227423,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472461,
+        "num": 387963,
+        "word": "四大名著 翻拍",
+        "onboard_time": 1755233783,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333675,
+        "num": 333675,
+        "word": "山东泰安失踪10岁女孩已找到",
+        "onboard_time": 1755234443,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311040,
+        "num": 311040,
+        "word": "火车学生票新优惠",
+        "onboard_time": 1755236961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923134,
+        "num": 310827,
+        "word": "董洁潘粤明儿子基因彩票",
+        "onboard_time": 1755231923,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684983,
+        "num": 310623,
+        "word": "王子文儿子都这么大了",
+        "onboard_time": 1755236363,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580656,
+        "num": 310246,
+        "word": "梅婷生了个小梅婷",
+        "onboard_time": 1755233303,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577894,
+        "num": 309844,
+        "word": "香港偶遇angelababy小海绵",
+        "onboard_time": 1755231923,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410991,
+        "num": 309268,
+        "word": "男子吃粉强行搂抱19岁女店员",
+        "onboard_time": 1755238043,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317309,
+        "num": 309043,
+        "word": "老板说无法接受一碗面管一家人饱",
+        "onboard_time": 1755219502,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308891,
+        "num": 308891,
+        "word": "赖声川被观众质问为何使用吸毒艺人",
+        "onboard_time": 1755239362,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303879,
+        "num": 303879,
+        "word": "日本小学生问侵华日军是人吗",
+        "onboard_time": 1755224840,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 286326,
+        "num": 286326,
+        "word": "日本战败投降80周年",
+        "onboard_time": 1755212717,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 286232,
+        "num": 286232,
+        "word": "孕妇被退回人贩子仍将其二次贩卖",
+        "onboard_time": 1755238462,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107641,
+        "num": 236010,
+        "word": "小朋友你看这是今天的中国",
+        "onboard_time": 1755239182,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307129,
+        "num": 235181,
+        "word": "朋友圈几乎全员92是什么概念",
+        "onboard_time": 1755218002,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232126,
+        "num": 232126,
+        "word": "男子被前女友10万卖到边境",
+        "onboard_time": 1755237443,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228261,
+        "num": 228261,
+        "word": "孟鹤堂当爸爸了",
+        "onboard_time": 1755239422,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223447,
+        "num": 223447,
+        "word": "黄子韬回应婚礼时间",
+        "onboard_time": 1755232162,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185457,
+        "num": 185457,
+        "word": "霍建华首部短剧搏忆定档",
+        "onboard_time": 1755230061,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182553,
+        "num": 182553,
+        "word": "山西在午睡这块还是太权威了",
+        "onboard_time": 1755239182,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170434,
+        "num": 170434,
+        "word": "一年级也该火个邢菲了",
+        "onboard_time": 1755234383,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157758,
+        "num": 157758,
+        "word": "吴磊让A市总裁有脸了",
+        "onboard_time": 1755236542,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151982,
+        "num": 155065,
+        "word": "吴宣仪有戏路透",
+        "onboard_time": 1755238824,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154435,
+        "num": 154435,
+        "word": "闺蜜俩发现富二代男友竟是同一人",
+        "onboard_time": 1755235942,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20556,
+        "num": 146900,
+        "word": "国际超模胡兵与人形机器人同台走秀",
+        "onboard_time": 1755237982,
+        "rank": 31,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 146447,
+        "num": 146447,
+        "word": "减肥期为什么一定要吃晚饭",
+        "onboard_time": 1755238642,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142873,
+        "num": 142873,
+        "word": "8月15日中国人必须铭记",
+        "onboard_time": 1755224840,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142854,
+        "num": 142854,
+        "word": "食贫道怒骂日本拜鬼",
+        "onboard_time": 1755228141,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142650,
+        "num": 142650,
+        "word": "男子翻出20年前麦当劳兑换券获回应",
+        "onboard_time": 1755235883,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137718,
+        "num": 137718,
+        "word": "披荆斩棘5一公",
+        "onboard_time": 1755235582,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137187,
+        "num": 137187,
+        "word": "盗墓笔记",
+        "onboard_time": 1755235163,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 134672,
+        "num": 134672,
+        "word": "石破茂向靖国神社供奉祭祀费",
+        "onboard_time": 1755222380,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94637,
+        "num": 134511,
+        "word": "国网守护绿水青山20载",
+        "onboard_time": 1755237683,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134472,
+        "num": 134472,
+        "word": "珠峰顶首位倒立20秒女子遇难",
+        "onboard_time": 1755227602,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131406,
+        "num": 131406,
+        "word": "王楚钦点赞王皓",
+        "onboard_time": 1755239602,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128291,
+        "num": 128291,
+        "word": "小北 我失心疯了",
+        "onboard_time": 1755239722,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125142,
+        "num": 125142,
+        "word": "章子怡有白发了",
+        "onboard_time": 1755236782,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119752,
+        "num": 119752,
+        "word": "江西最强钉子户已搬离",
+        "onboard_time": 1755227661,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114677,
+        "num": 114677,
+        "word": "你好星期六超前探班呢",
+        "onboard_time": 1755239483,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113372,
+        "num": 113372,
+        "word": "张雅琪工作留痕的重要性",
+        "onboard_time": 1755227901,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110399,
+        "num": 110399,
+        "word": "日本失业男子为泄愤囚禁母亲和妹妹",
+        "onboard_time": 1755233004,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108623,
+        "num": 108623,
+        "word": "谁碰上孙颖莎才是误闯天家",
+        "onboard_time": 1755239722,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108751,
+        "num": 107756,
+        "word": "女子用塑料袋洗杯子效果惊人",
+        "onboard_time": 1755236303,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山可以成为金山银山#"
+    }
+  }
+}
