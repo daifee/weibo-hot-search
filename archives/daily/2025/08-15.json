@@ -1,10 +1,10 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755250160232,
+  "endTime": 1755250969089,
   "band_list": [
     {
-      "raw_hot": 2973352,
-      "num": 2973352,
+      "raw_hot": 2988874,
+      "num": 2988874,
       "word": "卫健委最新通报肖某董某莹事件",
       "onboard_time": 1755248962,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1755246564,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1822906,
+      "num": 1822906,
+      "word": "董某莹成绩单造假",
+      "onboard_time": 1755249203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1713591,
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443281,
+      "num": 443281,
+      "word": "2岁男童走失3天3夜在丛林中被找到",
+      "onboard_time": 1755247462,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442704,
       "num": 414299,
       "word": "刘诗诗真的太瘦了",
@@ -435,28 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433490,
-      "num": 433490,
-      "word": "2岁男童走失3天3夜在丛林中被找到",
-      "onboard_time": 1755247462,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 416762,
       "num": 254242,
       "word": "邱泽许玮甯宝宝出生",
       "onboard_time": 1755175463,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415559,
-      "num": 415559,
-      "word": "董某莹成绩单造假",
-      "onboard_time": 1755249203,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 415363,
@@ -715,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244016,
+      "num": 244016,
+      "word": "自称奥运冠军未婚妻网红涉诈骗上亿",
+      "onboard_time": 1755249682,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243307,
       "num": 251472,
       "word": "12306回应高铁站停售传统泡面",
@@ -739,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227073,
+      "num": 227073,
+      "word": "免费续面 无限续面",
+      "onboard_time": 1755250283,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226793,
       "num": 237011,
       "word": "大学教授收废品赚300亿",
@@ -753,6 +769,14 @@
       "onboard_time": 1755176244,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 219616,
+      "num": 219616,
+      "word": "川航 矿泉水浇头事件",
+      "onboard_time": 1755249141,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218995,
@@ -779,12 +803,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205370,
-      "num": 205370,
-      "word": "川航 矿泉水浇头事件",
-      "onboard_time": 1755249141,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 205176,
+      "num": 205176,
+      "word": "热巴利剑玫瑰开分6.9",
+      "onboard_time": 1755249922,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 203393,
@@ -792,6 +816,14 @@
       "word": "二婚妻子转走110万还起诉分房产",
       "onboard_time": 1755230782,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202339,
+      "num": 222270,
+      "word": "中日友好医院副院长等多人被处理",
+      "onboard_time": 1755250642,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -851,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196749,
+      "num": 196749,
+      "word": "小北把岳云鹏说到离席",
+      "onboard_time": 1755249742,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196209,
       "num": 196209,
       "word": "内娱女明星没有丑的",
@@ -888,6 +928,14 @@
       "word": "官方回应男童被带去冒名顶替打疫苗",
       "onboard_time": 1755234083,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192988,
+      "num": 913043,
+      "word": "董某莹姑姑为其伪造成绩单提供便利",
+      "onboard_time": 1755250343,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1043,20 +1091,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 175001,
-      "num": 175000,
-      "word": "小北把岳云鹏说到离席",
-      "onboard_time": 1755249742,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172970,
       "num": 172970,
       "word": "以为是周也结果是丞磊",
       "onboard_time": 1755230601,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172267,
+      "num": 172267,
+      "word": "烤肠界的番位",
+      "onboard_time": 1755248123,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 171522,
+      "num": 171522,
+      "word": "影石创始人撒钱犒劳团队",
+      "onboard_time": 1755250163,
+      "rank": 32,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 170882,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1755235042,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170585,
+      "num": 175001,
+      "word": "北京偶遇刘宇宁",
+      "onboard_time": 1755249682,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 169146,
@@ -1171,14 +1235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161223,
-      "num": 161223,
-      "word": "热巴利剑玫瑰开分6.9",
-      "onboard_time": 1755249922,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159755,
       "num": 159755,
       "word": "丁禹兮红色抹额路透",
@@ -1219,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158205,
-      "num": 158205,
-      "word": "烤肠界的番位",
-      "onboard_time": 1755248123,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 158105,
       "num": 158105,
       "word": "王楚钦WTT赛事冠军30座",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1755217281,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155671,
+      "num": 155671,
+      "word": "时团集卡有自己的误闯天家",
+      "onboard_time": 1755249981,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 154993,
@@ -1371,12 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147731,
-      "num": 147731,
-      "word": "时团集卡有自己的误闯天家",
-      "onboard_time": 1755249981,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "33七夕限定照公开",
+      "onboard_time": 1755250521,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 147473,
@@ -1409,14 +1465,6 @@
       "onboard_time": 1755245063,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 145811,
-      "num": 175001,
-      "word": "北京偶遇刘宇宁",
-      "onboard_time": 1755249682,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 145059,
@@ -1561,14 +1609,6 @@
       "onboard_time": 1755243082,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131129,
-      "num": 217835,
-      "word": "自称奥运冠军未婚妻网红涉诈骗上亿",
-      "onboard_time": 1755249682,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 130445,
@@ -1755,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111837,
+      "num": 111837,
+      "word": "明日方舟澪绝美插画",
+      "onboard_time": 1755250762,
+      "rank": 49,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 110903,
       "num": 110903,
       "word": "男宝星球2排名",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1755234203,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104108,
+      "num": 224478,
+      "word": "李昀锐王楚然互相拯救二番的咖位",
+      "onboard_time": 1755250583,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 103155,
@@ -2001,6 +2057,14 @@
       "onboard_time": 1755183744,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91923,
+      "num": 152667,
+      "word": "打车拒系安全带截瘫索赔150万",
+      "onboard_time": 1755249682,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90199,
@@ -2251,6 +2315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57824,
+      "num": 147520,
+      "word": "W盛典 CP复活",
+      "onboard_time": 1755250882,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 56127,
       "num": 116059,
       "word": "内鱼开门献鱼来了",
@@ -2347,6 +2419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37396,
+      "num": 1835097,
+      "word": "谁还没被抗战馆的故事打动过",
+      "onboard_time": 1755248483,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32280,
       "num": 187220,
       "word": "想要李乃文同款小助理",
@@ -2377,22 +2457,6 @@
       "onboard_time": 1755246741,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29788,
-      "num": 152667,
-      "word": "打车拒系安全带截瘫索赔150万",
-      "onboard_time": 1755249682,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29519,
-      "num": 1198022,
-      "word": "谁还没被抗战馆的故事打动过",
-      "onboard_time": 1755248483,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29190,
@@ -2497,6 +2561,9 @@
     },
     {
       "word": "#两山理念提出20年#"
+    },
+    {
+      "word": "#习近平总书记弘扬伟大抗战精神的故事#"
     }
   ]
 }
