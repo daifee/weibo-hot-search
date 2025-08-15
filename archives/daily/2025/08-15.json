@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755256983104,
+  "endTime": 1755257934225,
   "band_list": [
     {
       "raw_hot": 8493340,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 879489,
+      "num": 879489,
+      "word": "周深 泡泡玛特",
+      "onboard_time": 1755252801,
+      "rank": 7,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 874853,
       "num": 407720,
       "word": "女儿压死儿子事件第一责任在父母",
@@ -241,14 +249,6 @@
       "onboard_time": 1755216261,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 698234,
-      "num": 698234,
-      "word": "周深 泡泡玛特",
-      "onboard_time": 1755252801,
-      "rank": 7,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 693889,
@@ -635,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 330459,
+      "num": 289986,
+      "word": "月薪5千的请反复观看",
+      "onboard_time": 1755253882,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329362,
       "num": 329362,
       "word": "iG打野",
@@ -649,6 +657,14 @@
       "onboard_time": 1755188123,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 313494,
+      "num": 232194,
+      "word": "美国百人卖淫集团头目被捕",
+      "onboard_time": 1755254363,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 309974,
@@ -683,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298744,
+      "num": 188999,
+      "word": "杨幂回复于正了",
+      "onboard_time": 1755256821,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295494,
       "num": 295494,
       "word": "吴谨言江山为聘出妆",
@@ -697,14 +721,6 @@
       "onboard_time": 1755214039,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289986,
-      "num": 289986,
-      "word": "月薪5千的请反复观看",
-      "onboard_time": 1755253882,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 284189,
@@ -825,14 +841,6 @@
       "onboard_time": 1755224840,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 232194,
-      "num": 232194,
-      "word": "美国百人卖淫集团头目被捕",
-      "onboard_time": 1755254363,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 229776,
@@ -1147,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177793,
+      "num": 177793,
+      "word": "AL战胜iG",
+      "onboard_time": 1755257362,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177281,
       "num": 177281,
       "word": "小北 我失心疯了",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1755221002,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175550,
+      "num": 175550,
+      "word": "梓渝极具辨识度的嗓音",
+      "onboard_time": 1755257483,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 175366,
@@ -1595,6 +1619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147221,
+      "num": 147221,
+      "word": "协和4加4毕业生统一开展3年规培",
+      "onboard_time": 1755257662,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146614,
       "num": 146614,
       "word": "终于知道微信更新在哪了",
@@ -1617,6 +1649,14 @@
       "onboard_time": 1755245063,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146036,
+      "num": 270096,
+      "word": "女子喝奶茶窒息被小孩姐救回",
+      "onboard_time": 1755254962,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145059,
@@ -1649,6 +1689,14 @@
       "onboard_time": 1755231864,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144264,
+      "num": 144264,
+      "word": "UUG战胜JDG",
+      "onboard_time": 1755257302,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 143731,
@@ -1801,14 +1849,6 @@
       "onboard_time": 1755256462,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134745,
-      "num": 136155,
-      "word": "杨幂回复于正了",
-      "onboard_time": 1755256821,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 134564,
@@ -1985,14 +2025,6 @@
       "onboard_time": 1755224600,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118001,
-      "num": 270096,
-      "word": "女子喝奶茶窒息被小孩姐救回",
-      "onboard_time": 1755254962,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117032,
@@ -2235,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101436,
+      "num": 101436,
+      "word": "上午工作 下午就要摸鱼",
+      "onboard_time": 1755257902,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100194,
       "num": 178561,
       "word": "吴宣仪跳完这支舞还回来当女团吗",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1755245782,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95604,
+      "num": 95604,
+      "word": "云南古法玫瑰醋饮",
+      "onboard_time": 1755256161,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 95384,
@@ -2376,6 +2424,14 @@
       "word": "市监所介入3女带4孩续面事件",
       "onboard_time": 1755244882,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87385,
+      "num": 227124,
+      "word": "4加4其他学生入学资格未发现违规",
+      "onboard_time": 1755256642,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2547,6 +2603,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 69177,
+      "num": 111383,
+      "word": "多肉饱饱被曝伪造母亲死期",
+      "onboard_time": 1755257182,
+      "rank": 39,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 68352,
       "num": 68352,
       "word": "杨幂焦俊艳大学同学",
@@ -2707,6 +2771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43286,
+      "num": 147231,
+      "word": "前兽医称公园长期给海豚注射镇静药",
+      "onboard_time": 1755257483,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 42890,
       "num": 51379,
       "word": "罗幂欧",
@@ -2737,6 +2809,14 @@
       "onboard_time": 1755231442,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32088,
+      "num": 1606736,
+      "word": "12小时寻找北京的抗战印记",
+      "onboard_time": 1755253462,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31991,
@@ -2801,22 +2881,6 @@
       "onboard_time": 1755194056,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25295,
-      "num": 1606736,
-      "word": "12小时寻找北京的抗战印记",
-      "onboard_time": 1755253462,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24309,
-      "num": 227124,
-      "word": "4加4其他学生入学资格未发现违规",
-      "onboard_time": 1755256642,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24003,
@@ -2899,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9901,
+      "num": 111587,
+      "word": "主理人为什么开始给顾客立规矩了",
+      "onboard_time": 1755257782,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 8330,
       "num": 217059,
       "word": "7月国民经济保持稳中有进发展态势",
@@ -2916,6 +2988,9 @@
     },
     {
       "word": "#习近平总书记弘扬伟大抗战精神的故事#"
+    },
+    {
+      "word": "#总书记对生态保护的嘱托#"
     }
   ]
 }
