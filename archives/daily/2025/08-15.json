@@ -1,7 +1,15 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755214819045,
+  "endTime": 1755223514733,
   "band_list": [
+    {
+      "raw_hot": 1713591,
+      "num": 1713591,
+      "word": "高铁去泡面化",
+      "onboard_time": 1755214219,
+      "rank": 5,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1251394,
       "num": 1251394,
@@ -11,11 +19,51 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 705951,
-      "num": 251385,
+      "raw_hot": 882892,
+      "num": 882892,
+      "word": "老板说无法接受一碗面管一家人饱",
+      "onboard_time": 1755219502,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 844995,
+      "num": 844995,
+      "word": "张雅琪穿睡衣去花少二面",
+      "onboard_time": 1755218722,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 839115,
+      "num": 358185,
       "word": "女儿压死儿子事件第一责任在父母",
       "onboard_time": 1755210134,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 761105,
+      "num": 761105,
+      "word": "日本战败投降80周年",
+      "onboard_time": 1755212717,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 701287,
+      "num": 701287,
+      "word": "日方有诚意同中方往来应拿出行动",
+      "onboard_time": 1755216261,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 687604,
+      "num": 687604,
+      "word": "酷似溥仪男子收到横店邀约",
+      "onboard_time": 1755217583,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -59,20 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 461819,
-      "num": 461819,
-      "word": "日本战败投降80周年",
-      "onboard_time": 1755212717,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 439126,
-      "num": 439126,
-      "word": "高铁去泡面化",
+      "raw_hot": 443006,
+      "num": 357590,
+      "word": "果然老破小住久了副作用就来了",
       "onboard_time": 1755214219,
-      "rank": 5,
-      "category": "民生新闻"
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 416762,
@@ -91,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 407970,
+      "num": 407970,
+      "word": "龙梅子因资金断裂取消演唱会",
+      "onboard_time": 1755219142,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 369876,
       "num": 369876,
       "word": "店家回应3女子带4孩多次续面",
@@ -99,12 +147,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 352198,
-      "num": 245598,
-      "word": "果然老破小住久了副作用就来了",
-      "onboard_time": 1755214219,
-      "rank": 13,
-      "category": "幽默"
+      "raw_hot": 367637,
+      "num": 367637,
+      "word": "韩国星巴克禁止携带大型工作设备",
+      "onboard_time": 1755216560,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 363939,
+      "num": 363939,
+      "word": "石破茂向靖国神社供奉祭祀费",
+      "onboard_time": 1755222380,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 349076,
+      "num": 349076,
+      "word": "偶遇肖战看舞台剧",
+      "onboard_time": 1755220341,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 347399,
@@ -139,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 313392,
+      "num": 313392,
+      "word": "刘律力挺张雅琪",
+      "onboard_time": 1755222321,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305415,
       "num": 305415,
       "word": "封大脚 梁宽植",
@@ -155,12 +227,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295106,
+      "num": 295106,
+      "word": "李昀锐王楚然 金银错",
+      "onboard_time": 1755214039,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 284189,
+      "num": 284189,
+      "word": "生万物",
+      "onboard_time": 1755168504,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266340,
       "num": 266340,
       "word": "80年前的今天日本投降",
       "onboard_time": 1755189740,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260511,
+      "num": 260511,
+      "word": "日本石破内阁成员参拜靖国神社",
+      "onboard_time": 1755222321,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 255014,
@@ -179,6 +275,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231776,
+      "num": 222784,
+      "word": "朋友圈几乎全员92是什么概念",
+      "onboard_time": 1755218002,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 226276,
+      "num": 251472,
+      "word": "12306回应高铁站停售传统泡面",
+      "onboard_time": 1755214219,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225096,
       "num": 225096,
       "word": "印度洋上空现10个神秘黑暗空洞",
@@ -193,14 +305,6 @@
       "onboard_time": 1755175463,
       "rank": 14,
       "category": "剧集,剧集"
-    },
-    {
-      "raw_hot": 201991,
-      "num": 201991,
-      "word": "生万物",
-      "onboard_time": 1755168504,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 197797,
@@ -243,11 +347,35 @@
       "category": "网红"
     },
     {
+      "raw_hot": 179550,
+      "num": 179550,
+      "word": "亚航一客机在韩国降错机场",
+      "onboard_time": 1755220222,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 167154,
       "num": 167154,
       "word": "迪丽热巴相约下一个角色旅程",
       "onboard_time": 1755188243,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164466,
+      "num": 164466,
+      "word": "官方通报教师选调拟录10分以下考生",
+      "onboard_time": 1755221002,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159755,
+      "num": 159755,
+      "word": "丁禹兮红色抹额路透",
+      "onboard_time": 1755222140,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -267,6 +395,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156008,
+      "num": 156008,
+      "word": "浪浪山小妖怪",
+      "onboard_time": 1755217281,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154379,
+      "num": 154379,
+      "word": "迟蓬夸杨幂",
+      "onboard_time": 1755222023,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152907,
       "num": 152907,
       "word": "金银错",
@@ -275,12 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138168,
-      "num": 138168,
-      "word": "李昀锐王楚然 金银错",
-      "onboard_time": 1755214039,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 144790,
+      "num": 144790,
+      "word": "80年前庆祝抗战胜利的画面",
+      "onboard_time": 1755214699,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133167,
@@ -323,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113384,
+      "num": 113384,
+      "word": "邻居送的花被73岁大爷变成丝瓜盆栽",
+      "onboard_time": 1755219262,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112261,
       "num": 112261,
       "word": "张元英预告造型",
@@ -339,12 +491,44 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 108473,
+      "num": 108473,
+      "word": "日本终战诏书只字未提投降",
+      "onboard_time": 1755223282,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 108173,
+      "num": 108173,
+      "word": "何与包上恩 嫡谋",
+      "onboard_time": 1755221480,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107971,
       "num": 107971,
       "word": "建议一天一换内裤的原因",
       "onboard_time": 1755154883,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107293,
+      "num": 107293,
+      "word": "超市BGM其实是抗战胜利之歌",
+      "onboard_time": 1755215659,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 105719,
+      "num": 105719,
+      "word": "于正为赵嘉敏发声",
+      "onboard_time": 1755216801,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 105572,
@@ -371,12 +555,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102161,
+      "num": 102161,
+      "word": "日方应深刻反省历史罪责",
+      "onboard_time": 1755222621,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101700,
       "num": 101700,
       "word": "刘忻这个视频的退出键在哪里",
       "onboard_time": 1755187882,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98445,
+      "num": 98445,
+      "word": "38岁浙大微生物学博士因病去世",
+      "onboard_time": 1755217221,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96672,
+      "num": 100430,
+      "word": "王一博被拉着和大家打招呼",
+      "onboard_time": 1755222261,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 94998,
@@ -395,12 +603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94359,
+      "num": 94359,
+      "word": "睡够8小时还很累多半是这个原因",
+      "onboard_time": 1755216621,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 93952,
       "num": 93952,
       "word": "谁懂王一博这鞠躬的含金量",
       "onboard_time": 1755181524,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93569,
+      "num": 93569,
+      "word": "龚俊在花少抠成啥样了",
+      "onboard_time": 1755214941,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 92518,
@@ -427,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 87061,
+      "num": 91730,
+      "word": "孙颖莎林诗栋将出席瑞典大满贯抽签",
+      "onboard_time": 1755222081,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85488,
       "num": 85488,
       "word": "原来歌曲恭喜恭喜是庆祝抗战胜利",
@@ -449,6 +681,14 @@
       "onboard_time": 1755187702,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81966,
+      "num": 90549,
+      "word": "郭晶晶霍启刚拉萨高反",
+      "onboard_time": 1755223460,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 80894,
@@ -499,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72712,
-      "num": 72712,
-      "word": "80年前庆祝抗战胜利的画面",
-      "onboard_time": 1755214699,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 72634,
       "num": 84253,
       "word": "糖尿病前期的5个症状",
@@ -545,14 +777,6 @@
       "onboard_time": 1755214279,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65926,
-      "num": 251472,
-      "word": "12306回应高铁站停售传统泡面",
-      "onboard_time": 1755214219,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61860,
@@ -660,7 +884,7 @@
     },
     {
       "raw_hot": 28199,
-      "num": 518734,
+      "num": 852046,
       "word": "丝路万里一路向前",
       "onboard_time": 1755185544,
       "rank": 2,
@@ -673,6 +897,14 @@
       "onboard_time": 1755194056,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24617,
+      "num": 106422,
+      "word": "85花长红的原因",
+      "onboard_time": 1755223101,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24003,
