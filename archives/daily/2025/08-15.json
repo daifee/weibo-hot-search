@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755242794651,
+  "endTime": 1755243672608,
   "band_list": [
     {
       "raw_hot": 1713591,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 640372,
+      "num": 640372,
+      "word": "多次拒绝剧组取景的家有多好看",
+      "onboard_time": 1755240861,
+      "rank": 20,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 621502,
       "num": 309268,
       "word": "男子吃粉强行搂抱19岁女店员",
@@ -395,14 +403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 388955,
-      "num": 261412,
-      "word": "多次拒绝剧组取景的家有多好看",
-      "onboard_time": 1755240861,
-      "rank": 20,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 369876,
       "num": 369876,
       "word": "店家回应3女子带4孩多次续面",
@@ -433,6 +433,14 @@
       "onboard_time": 1755181705,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 340463,
+      "num": 340463,
+      "word": "豪车靠租资产靠P网红多肉饱饱爆雷",
+      "onboard_time": 1755241942,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 339478,
@@ -491,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299535,
+      "num": 299535,
+      "word": "王楚钦点赞王皓",
+      "onboard_time": 1755239602,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298898,
       "num": 225105,
       "word": "于正证实赵嘉敏被换角",
@@ -537,22 +553,6 @@
       "onboard_time": 1755229281,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278250,
-      "num": 278250,
-      "word": "王楚钦点赞王皓",
-      "onboard_time": 1755239602,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 276844,
-      "num": 255636,
-      "word": "豪车靠租资产靠P网红多肉饱饱爆雷",
-      "onboard_time": 1755241942,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 266340,
@@ -667,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198559,
+      "num": 198559,
+      "word": "华为云晰柔光屏到底强在哪",
+      "onboard_time": 1755242663,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198152,
       "num": 198152,
       "word": "王俊凯机场牛仔套装",
@@ -779,6 +787,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183106,
+      "num": 183106,
+      "word": "欧豪 85花翻身仗必备僚机",
+      "onboard_time": 1755241221,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182746,
+      "num": 182746,
+      "word": "网传长剧改革",
+      "onboard_time": 1755242902,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182553,
       "num": 182553,
       "word": "山西在午睡这块还是太权威了",
@@ -827,6 +851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178102,
+      "num": 181866,
+      "word": "陈昊宇直播",
+      "onboard_time": 1755243382,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177281,
       "num": 177281,
       "word": "小北 我失心疯了",
@@ -841,6 +873,14 @@
       "onboard_time": 1755232644,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176302,
+      "num": 176302,
+      "word": "一个聋哑人嫁给了一个无法比手语的人",
+      "onboard_time": 1755242063,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175913,
@@ -864,14 +904,6 @@
       "word": "以为是周也结果是丞磊",
       "onboard_time": 1755230601,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 171353,
-      "num": 155829,
-      "word": "欧豪 85花翻身仗必备僚机",
-      "onboard_time": 1755241221,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -907,12 +939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168497,
-      "num": 168497,
-      "word": "一个聋哑人嫁给了一个无法比手语的人",
-      "onboard_time": 1755242063,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 169146,
+      "num": 169146,
+      "word": "利剑玫瑰",
+      "onboard_time": 1755243382,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 167154,
@@ -1043,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155804,
+      "num": 155804,
+      "word": "沈佳润韩国偶遇沈阳粉丝",
+      "onboard_time": 1755243382,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154742,
       "num": 154742,
       "word": "熬夜出现这3个表现是危险信号",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1755222023,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154001,
+      "num": 266365,
+      "word": "国防部要求菲方立即停止侵权挑衅言行",
+      "onboard_time": 1755242483,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 152907,
@@ -1227,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131570,
+      "num": 131570,
+      "word": "苦尽缸来遇见俺",
+      "onboard_time": 1755243082,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130445,
       "num": 156113,
       "word": "小鹏P7创24小时耐力测试新纪录",
@@ -1331,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114233,
+      "num": 268121,
+      "word": "侵华日军说把人体实验当成兴趣",
+      "onboard_time": 1755241702,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114213,
       "num": 114213,
       "word": "邻居送的花被73岁大爷变成丝瓜盆栽",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1755240802,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112649,
+      "num": 112649,
+      "word": "证券板块集体爆发",
+      "onboard_time": 1755243443,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 112261,
@@ -1412,7 +1484,7 @@
     },
     {
       "raw_hot": 107293,
-      "num": 107293,
+      "num": 600521,
       "word": "超市BGM其实是抗战胜利之歌",
       "onboard_time": 1755215659,
       "rank": 38,
@@ -1505,14 +1577,6 @@
       "onboard_time": 1755217221,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97876,
-      "num": 153123,
-      "word": "华为云晰柔光屏到底强在哪",
-      "onboard_time": 1755242663,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 96246,
@@ -1683,14 +1747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 76049,
-      "num": 268121,
-      "word": "侵华日军说把人体实验当成兴趣",
-      "onboard_time": 1755241702,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74178,
       "num": 84768,
       "word": "贺鑫隆第九",
@@ -1803,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61296,
+      "num": 129672,
+      "word": "缅怀抗战先烈",
+      "onboard_time": 1755243622,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60244,
       "num": 60244,
       "word": "李智勋道歉",
@@ -1817,6 +1881,14 @@
       "onboard_time": 1755214579,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 56127,
+      "num": 116059,
+      "word": "内鱼开门献鱼来了",
+      "onboard_time": 1755243622,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 55872,
@@ -1907,12 +1979,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38038,
-      "num": 266365,
-      "word": "国防部要求菲方立即停止侵权挑衅言行",
-      "onboard_time": 1755242483,
-      "rank": 17,
-      "category": "军事"
+      "raw_hot": 35339,
+      "num": 252541,
+      "word": "外墙脱落致21岁女主播死亡后续",
+      "onboard_time": 1755243082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32280,

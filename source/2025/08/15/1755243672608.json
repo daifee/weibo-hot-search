@@ -1,0 +1,410 @@
+{
+  "runTime": 1755243672608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1199223,
+        "num": 1199223,
+        "word": "大暴雨特大暴雨要来了",
+        "onboard_time": 1755229825,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640372,
+        "num": 640372,
+        "word": "多次拒绝剧组取景的家有多好看",
+        "onboard_time": 1755240861,
+        "rank": 1,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 21971,
+        "num": 600521,
+        "word": "超市BGM其实是抗战胜利之歌",
+        "onboard_time": 1755215659,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572712,
+        "num": 572712,
+        "word": "苏醒给王栎鑫道歉",
+        "onboard_time": 1755237862,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528609,
+        "num": 528609,
+        "word": "赖声川被观众质问为何使用吸毒艺人",
+        "onboard_time": 1755239362,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428694,
+        "num": 428694,
+        "word": "火车学生票新优惠",
+        "onboard_time": 1755236961,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358754,
+        "num": 358754,
+        "word": "迪丽热巴千字长文",
+        "onboard_time": 1755227423,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340463,
+        "num": 340463,
+        "word": "豪车靠租资产靠P网红多肉饱饱爆雷",
+        "onboard_time": 1755241942,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299535,
+        "num": 299535,
+        "word": "王楚钦点赞王皓",
+        "onboard_time": 1755239602,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263095,
+        "num": 263095,
+        "word": "高铁去泡面化",
+        "onboard_time": 1755214219,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933885,
+        "num": 262758,
+        "word": "孕妇被退回人贩子仍将其二次贩卖",
+        "onboard_time": 1755238462,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657062,
+        "num": 261427,
+        "word": "董洁潘粤明儿子基因彩票",
+        "onboard_time": 1755231923,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458023,
+        "num": 260799,
+        "word": "男子吃粉强行搂抱19岁女店员",
+        "onboard_time": 1755238043,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424088,
+        "num": 259049,
+        "word": "王子文儿子都这么大了",
+        "onboard_time": 1755236363,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114233,
+        "num": 258461,
+        "word": "侵华日军说把人体实验当成兴趣",
+        "onboard_time": 1755241702,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368815,
+        "num": 257065,
+        "word": "梅婷生了个小梅婷",
+        "onboard_time": 1755233303,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360795,
+        "num": 255517,
+        "word": "孟鹤堂当爸爸了",
+        "onboard_time": 1755239422,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345046,
+        "num": 254558,
+        "word": "香港偶遇angelababy小海绵",
+        "onboard_time": 1755231923,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67726,
+        "num": 253276,
+        "word": "华为MatePadAir一眼就粉上",
+        "onboard_time": 1755241762,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35339,
+        "num": 252541,
+        "word": "外墙脱落致21岁女主播死亡后续",
+        "onboard_time": 1755243082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252081,
+        "num": 252081,
+        "word": "嫁给神你无需自卑",
+        "onboard_time": 1755236601,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245825,
+        "num": 245825,
+        "word": "继女要求继承600万遗产遭亲生子拒绝",
+        "onboard_time": 1755234143,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244753,
+        "num": 244753,
+        "word": "董璇小酒窝妈妈基础女儿就不基础",
+        "onboard_time": 1755240263,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200939,
+        "num": 200939,
+        "word": "日本战败投降80周年",
+        "onboard_time": 1755212717,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198559,
+        "num": 198559,
+        "word": "华为云晰柔光屏到底强在哪",
+        "onboard_time": 1755242663,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183106,
+        "num": 183106,
+        "word": "欧豪 85花翻身仗必备僚机",
+        "onboard_time": 1755241221,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182746,
+        "num": 182746,
+        "word": "网传长剧改革",
+        "onboard_time": 1755242902,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154001,
+        "num": 182585,
+        "word": "国防部要求菲方立即停止侵权挑衅言行",
+        "onboard_time": 1755242483,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 178102,
+        "num": 181866,
+        "word": "陈昊宇直播",
+        "onboard_time": 1755243382,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196026,
+        "num": 181005,
+        "word": "朋友圈几乎全员92是什么概念",
+        "onboard_time": 1755218002,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189575,
+        "num": 180239,
+        "word": "男子被前女友10万卖到边境",
+        "onboard_time": 1755237443,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180072,
+        "num": 180072,
+        "word": "杨幂欧豪 俺爹俺娘俺出生了",
+        "onboard_time": 1755240142,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179268,
+        "num": 179268,
+        "word": "大学教授收废品赚300亿",
+        "onboard_time": 1755240562,
+        "rank": 32,
+        "category": "财经,情感"
+      },
+      {
+        "raw_hot": 176302,
+        "num": 176302,
+        "word": "一个聋哑人嫁给了一个无法比手语的人",
+        "onboard_time": 1755242063,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169146,
+        "num": 169146,
+        "word": "利剑玫瑰",
+        "onboard_time": 1755243382,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166902,
+        "num": 166902,
+        "word": "四大名著 翻拍",
+        "onboard_time": 1755233783,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155804,
+        "num": 155804,
+        "word": "沈佳润韩国偶遇沈阳粉丝",
+        "onboard_time": 1755243382,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131570,
+        "num": 131570,
+        "word": "苦尽缸来遇见俺",
+        "onboard_time": 1755243082,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61296,
+        "num": 129672,
+        "word": "缅怀抗战先烈",
+        "onboard_time": 1755243622,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85923,
+        "num": 128835,
+        "word": "希腊最帅王子不当贵族当明星",
+        "onboard_time": 1755242721,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128134,
+        "num": 128134,
+        "word": "日本小学生问侵华日军是人吗",
+        "onboard_time": 1755224840,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118932,
+        "num": 118932,
+        "word": "石破茂向靖国神社供奉祭祀费",
+        "onboard_time": 1755222380,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118912,
+        "num": 118912,
+        "word": "减肥期为什么一定要吃晚饭",
+        "onboard_time": 1755238642,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56127,
+        "num": 116059,
+        "word": "内鱼开门献鱼来了",
+        "onboard_time": 1755243622,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99386,
+        "num": 115977,
+        "word": "原来爱在喜欢的人面前真的是动词",
+        "onboard_time": 1755242422,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115908,
+        "num": 115908,
+        "word": "老板说无法接受一碗面管一家人饱",
+        "onboard_time": 1755219502,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113106,
+        "num": 113106,
+        "word": "8月15日中国人必须铭记",
+        "onboard_time": 1755224840,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112649,
+        "num": 112649,
+        "word": "证券板块集体爆发",
+        "onboard_time": 1755243443,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110073,
+        "num": 110073,
+        "word": "小北 我失心疯了",
+        "onboard_time": 1755239722,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109861,
+        "num": 109861,
+        "word": "A股",
+        "onboard_time": 1755240562,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#两山理念提出20年#"
+    }
+  }
+}
