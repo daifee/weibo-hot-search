@@ -1,0 +1,410 @@
+{
+  "runTime": 1755224978468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1645998,
+        "num": 1645998,
+        "word": "高铁去泡面化",
+        "onboard_time": 1755214219,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1405099,
+        "num": 1405099,
+        "word": "老板说无法接受一碗面管一家人饱",
+        "onboard_time": 1755219502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21725,
+        "num": 1002037,
+        "word": "丝路万里一路向前",
+        "onboard_time": 1755185544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 865499,
+        "num": 865499,
+        "word": "石破茂向靖国神社供奉祭祀费",
+        "onboard_time": 1755222380,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 790912,
+        "num": 790912,
+        "word": "张雅琪穿睡衣去花少二面",
+        "onboard_time": 1755218722,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596808,
+        "num": 596808,
+        "word": "日本战败投降80周年",
+        "onboard_time": 1755212717,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 549660,
+        "num": 549660,
+        "word": "刘律力挺张雅琪",
+        "onboard_time": 1755222321,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459911,
+        "num": 459911,
+        "word": "日本石破内阁成员参拜靖国神社",
+        "onboard_time": 1755222321,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 453617,
+        "num": 453617,
+        "word": "酷似溥仪男子收到横店邀约",
+        "onboard_time": 1755217583,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399029,
+        "num": 399029,
+        "word": "日方有诚意同中方往来应拿出行动",
+        "onboard_time": 1755216261,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 874853,
+        "num": 398688,
+        "word": "女儿压死儿子事件第一责任在父母",
+        "onboard_time": 1755210134,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486448,
+        "num": 396522,
+        "word": "果然老破小住久了副作用就来了",
+        "onboard_time": 1755214219,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388510,
+        "num": 388510,
+        "word": "龙梅子因资金断裂取消演唱会",
+        "onboard_time": 1755219142,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321688,
+        "num": 321688,
+        "word": "偶遇肖战看舞台剧",
+        "onboard_time": 1755220341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310274,
+        "num": 310274,
+        "word": "日本人因南京大屠杀史料羞愧愤怒",
+        "onboard_time": 1755175582,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185697,
+        "num": 297385,
+        "word": "8月15日中国人必须铭记",
+        "onboard_time": 1755224840,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287022,
+        "num": 287022,
+        "word": "韩国星巴克禁止携带大型工作设备",
+        "onboard_time": 1755216560,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257425,
+        "num": 257425,
+        "word": "李昀锐王楚然 金银错",
+        "onboard_time": 1755214039,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243307,
+        "num": 243307,
+        "word": "12306回应高铁站停售传统泡面",
+        "onboard_time": 1755214219,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218393,
+        "num": 239962,
+        "word": "生万物",
+        "onboard_time": 1755218601,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237910,
+        "num": 237910,
+        "word": "朋友圈几乎全员92是什么概念",
+        "onboard_time": 1755218002,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225156,
+        "num": 225156,
+        "word": "日本小学生问侵华日军是人吗",
+        "onboard_time": 1755224840,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209783,
+        "num": 209783,
+        "word": "杨超越才发现照片里的虫子",
+        "onboard_time": 1755183083,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185110,
+        "num": 185110,
+        "word": "80年前的今天日本投降",
+        "onboard_time": 1755189740,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185106,
+        "num": 185106,
+        "word": "部分人员不愿到农村任教消极考试",
+        "onboard_time": 1755224540,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175913,
+        "num": 175913,
+        "word": "官方通报教师选调拟录10分以下考生",
+        "onboard_time": 1755221002,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145059,
+        "num": 175759,
+        "word": "何与包上恩 嫡谋",
+        "onboard_time": 1755221480,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121865,
+        "num": 174656,
+        "word": "迟蓬夸杨幂",
+        "onboard_time": 1755222023,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111830,
+        "num": 173520,
+        "word": "天才女友 合诗雨",
+        "onboard_time": 1755181524,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109656,
+        "num": 172196,
+        "word": "浪浪山小妖怪",
+        "onboard_time": 1755217281,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171302,
+        "num": 171302,
+        "word": "中纪委明确公职人员禁止6类副业",
+        "onboard_time": 1755183564,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170694,
+        "num": 170694,
+        "word": "印高官称14亿人小便就可让巴发洪水",
+        "onboard_time": 1755223941,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166204,
+        "num": 166204,
+        "word": "日军慰安妇制度受害幸存者只剩7人",
+        "onboard_time": 1755188123,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164701,
+        "num": 164701,
+        "word": "被80多年前悲壮抗战画面深深刺痛了",
+        "onboard_time": 1755224840,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162160,
+        "num": 162160,
+        "word": "80年前庆祝抗战胜利的画面",
+        "onboard_time": 1755214699,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155701,
+        "num": 155701,
+        "word": "亚航一客机在韩国降错机场",
+        "onboard_time": 1755220222,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152022,
+        "num": 152022,
+        "word": "男童被人带去冒名顶替打疫苗",
+        "onboard_time": 1755224781,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139588,
+        "num": 139588,
+        "word": "郭晶晶霍启刚拉萨高反",
+        "onboard_time": 1755223460,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136332,
+        "num": 136332,
+        "word": "日本战犯痛哭流涕跪地认罪",
+        "onboard_time": 1755224900,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133942,
+        "num": 133942,
+        "word": "日本投降日当天的报纸",
+        "onboard_time": 1755223941,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114213,
+        "num": 114213,
+        "word": "邻居送的花被73岁大爷变成丝瓜盆栽",
+        "onboard_time": 1755219262,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108767,
+        "num": 108767,
+        "word": "黄一鸣回应怀孕时没公布",
+        "onboard_time": 1755198854,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108712,
+        "num": 108712,
+        "word": "王玉雯刘昊然张新成的故事越来越完整",
+        "onboard_time": 1755181705,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108324,
+        "num": 108324,
+        "word": "王一博被拉着和大家打招呼",
+        "onboard_time": 1755222261,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107617,
+        "num": 107617,
+        "word": "85花长红的原因",
+        "onboard_time": 1755223101,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107104,
+        "num": 107104,
+        "word": "于正为赵嘉敏发声",
+        "onboard_time": 1755216801,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106842,
+        "num": 106842,
+        "word": "橙色版iPhone17Pro机模",
+        "onboard_time": 1755224481,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103925,
+        "num": 103925,
+        "word": "樊振东确认参加欧冠联赛",
+        "onboard_time": 1755224600,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100374,
+        "num": 100374,
+        "word": "女子带5孩续面老板不同意和解",
+        "onboard_time": 1755214099,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92765,
+        "num": 98118,
+        "word": "人体漂流",
+        "onboard_time": 1755224961,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山可以成为金山银山#"
+    }
+  }
+}
