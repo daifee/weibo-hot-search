@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755262356361,
+  "endTime": 1755263250275,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1331,6 +1331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1490703,
+      "num": 1490703,
+      "word": "不二之臣",
+      "onboard_time": 1754487924,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1487527,
       "num": 1487527,
       "word": "老板说无法接受一碗面管一家人饱",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1755082703,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1440178,
-      "num": 1440178,
-      "word": "不二之臣",
-      "onboard_time": 1754487924,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 1438775,
@@ -4363,6 +4363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 738690,
+      "num": 738690,
+      "word": "女子遭前夫杀害11岁孩子当场吓傻",
+      "onboard_time": 1755259343,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 738652,
       "num": 338326,
       "word": "亲生和亲自生的区别",
@@ -4392,6 +4400,14 @@
       "word": "沸羊羊娶了美羊羊揍了喜羊羊",
       "onboard_time": 1755145525,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 735216,
+      "num": 430466,
+      "word": "苏苏好惨",
+      "onboard_time": 1755260843,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -6259,14 +6275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582293,
-      "num": 582293,
-      "word": "女子遭前夫杀害11岁孩子当场吓傻",
-      "onboard_time": 1755259343,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 581768,
       "num": 581768,
       "word": "中纪委明确公职人员禁止6类副业",
@@ -6321,6 +6329,14 @@
       "onboard_time": 1754158756,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 577551,
+      "num": 550353,
+      "word": "杨幂回复于正了",
+      "onboard_time": 1755256821,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 577017,
@@ -6761,14 +6777,6 @@
       "onboard_time": 1755042862,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 550353,
-      "num": 550353,
-      "word": "杨幂回复于正了",
-      "onboard_time": 1755256821,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 549946,
@@ -8491,6 +8499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 443134,
+      "num": 384420,
+      "word": "肖某董某莹事件不涉及犯罪",
+      "onboard_time": 1755257963,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 442979,
       "num": 442979,
       "word": "吴艳妮光速夺冠",
@@ -8673,14 +8689,6 @@
       "onboard_time": 1754630544,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 430466,
-      "num": 430466,
-      "word": "苏苏好惨",
-      "onboard_time": 1755260843,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 430051,
@@ -9761,14 +9769,6 @@
       "onboard_time": 1754878581,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384420,
-      "num": 384420,
-      "word": "肖某董某莹事件不涉及犯罪",
-      "onboard_time": 1755257963,
-      "rank": 7,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 384320,
@@ -11875,6 +11875,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 303383,
+      "num": 222074,
+      "word": "鹿晗唇钉",
+      "onboard_time": 1755262402,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 303221,
       "num": 303221,
       "word": "早春晴朗 开机",
@@ -12643,6 +12651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 280237,
+      "num": 213942,
+      "word": "魔尊重楼扮演者去演短剧了",
+      "onboard_time": 1755262402,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279826,
       "num": 279826,
       "word": "白马寺每天提供60多桶水供游客饮用",
@@ -12921,6 +12937,14 @@
       "onboard_time": 1754643502,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273350,
+      "num": 209163,
+      "word": "BIGBANG合体庆祝出道19周年",
+      "onboard_time": 1755262161,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 273321,
@@ -17595,6 +17619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202310,
+      "num": 202310,
+      "word": "王青签了许魏洲前经纪人李昊",
+      "onboard_time": 1755260182,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202271,
       "num": 158296,
       "word": "12岁女孩因不良用眼习惯捉出几十条虫",
@@ -17825,14 +17857,6 @@
       "onboard_time": 1754549902,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 201201,
-      "num": 201201,
-      "word": "BIGBANG合体庆祝出道19周年",
-      "onboard_time": 1755262161,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 201133,
@@ -18097,6 +18121,14 @@
       "onboard_time": 1754884942,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199570,
+      "num": 199570,
+      "word": "孙颖莎首轮对阵高达",
+      "onboard_time": 1755262644,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 199565,
@@ -18505,6 +18537,14 @@
       "onboard_time": 1754453662,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196896,
+      "num": 196896,
+      "word": "朱珠扛住了顶光",
+      "onboard_time": 1755262462,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 196877,
@@ -18985,6 +19025,14 @@
       "onboard_time": 1754372182,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194636,
+      "num": 194636,
+      "word": "日本战败投降后竟曾留下一支伏兵",
+      "onboard_time": 1755260121,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194527,
@@ -19521,6 +19569,14 @@
       "onboard_time": 1754824221,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191672,
+      "num": 191672,
+      "word": "深圳一垃圾焚烧厂成网红打卡地",
+      "onboard_time": 1755260182,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191660,
@@ -21339,14 +21395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179511,
-      "num": 179511,
-      "word": "日本战败投降后竟曾留下一支伏兵",
-      "onboard_time": 1755260121,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 179411,
       "num": 179411,
       "word": "IG对战WBG",
@@ -22705,6 +22753,14 @@
       "onboard_time": 1755091285,
       "rank": 38,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 170992,
+      "num": 170992,
+      "word": "WTT抽签",
+      "onboard_time": 1755262462,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 170971,
@@ -26043,14 +26099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153765,
-      "num": 153765,
-      "word": "王青签了许魏洲前经纪人李昊",
-      "onboard_time": 1755260182,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153726,
       "num": 153726,
       "word": "北京符合条件家庭五环外购房不限套数",
@@ -26377,6 +26425,14 @@
       "onboard_time": 1754721862,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152401,
+      "num": 152401,
+      "word": "靠窗工位收费",
+      "onboard_time": 1755258082,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152399,
@@ -33187,14 +33243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127731,
-      "num": 127731,
-      "word": "深圳一垃圾焚烧厂成网红打卡地",
-      "onboard_time": 1755260182,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127705,
       "num": 127705,
       "word": "迪丽热巴利剑玫瑰收视率破2.4%",
@@ -33328,6 +33376,14 @@
       "word": "赵奕欢你的权威我后知后觉",
       "onboard_time": 1754371102,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127391,
+      "num": 127391,
+      "word": "周也回应与鞠婧祎认识",
+      "onboard_time": 1755261743,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -34171,14 +34227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124446,
-      "num": 124446,
-      "word": "靠窗工位收费",
-      "onboard_time": 1755258082,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124371,
       "num": 124371,
       "word": "杨洋带双瞳鼠跳个舞",
@@ -34385,6 +34433,14 @@
       "onboard_time": 1754480241,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123727,
+      "num": 123727,
+      "word": "肖某发明的多个专利已失效",
+      "onboard_time": 1755259282,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123719,
@@ -36907,6 +36963,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 115269,
+      "num": 115269,
+      "word": "侵华老兵不愿父亲祭祀在靖国神社",
+      "onboard_time": 1755259103,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115254,
       "num": 115254,
       "word": "南京震感",
@@ -37339,14 +37403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113968,
-      "num": 113968,
-      "word": "肖某发明的多个专利已失效",
-      "onboard_time": 1755259282,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113960,
       "num": 113960,
       "word": "周也赏味期小比",
@@ -37585,14 +37641,6 @@
       "onboard_time": 1753976181,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113160,
-      "num": 113160,
-      "word": "侵华老兵不愿父亲祭祀在靖国神社",
-      "onboard_time": 1755259103,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113118,
@@ -38803,6 +38851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109641,
+      "num": 109641,
+      "word": "绿水青山在中国乡村具象化了",
+      "onboard_time": 1755258382,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109572,
       "num": 109572,
       "word": "交警回应车辆景区逆行加塞挑衅",
@@ -39281,6 +39337,14 @@
       "onboard_time": 1754618242,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107679,
+      "num": 107679,
+      "word": "可以缓解焦虑情绪的小事",
+      "onboard_time": 1755259882,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 107631,
@@ -40225,14 +40289,6 @@
       "onboard_time": 1754117602,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103546,
-      "num": 103546,
-      "word": "绿水青山在中国乡村具象化了",
-      "onboard_time": 1755258382,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103478,
@@ -41251,6 +41307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98830,
+      "num": 98830,
+      "word": "苏新皓在披哥5收获超多夸奖",
+      "onboard_time": 1755263122,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98827,
       "num": 98827,
       "word": "当小猫和88岁外婆第一次单独相处",
@@ -41489,6 +41553,14 @@
       "onboard_time": 1754359522,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97700,
+      "num": 97700,
+      "word": "网友首尔偶遇徐明浩",
+      "onboard_time": 1755263184,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 97695,
@@ -44889,14 +44961,6 @@
       "onboard_time": 1754390303,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 73451,
-      "num": 108070,
-      "word": "周也回应与鞠婧祎认识",
-      "onboard_time": 1755261743,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 73167,
@@ -49576,6 +49640,14 @@
       "word": "内蒙古枪击案二审维持原判",
       "onboard_time": 1754484143,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29054,
+      "num": 167071,
+      "word": "罗翔解读精神病人不负刑责是误解",
+      "onboard_time": 1755262883,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

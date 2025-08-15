@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755262356361,
+  "endTime": 1755263250275,
   "band_list": [
     {
       "raw_hot": 8493340,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1490703,
+      "num": 1490703,
+      "word": "不二之臣",
+      "onboard_time": 1755260242,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1487527,
       "num": 1487527,
       "word": "老板说无法接受一碗面管一家人饱",
@@ -113,14 +121,6 @@
       "onboard_time": 1755224540,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1005523,
-      "num": 1005523,
-      "word": "不二之臣",
-      "onboard_time": 1755260242,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 997255,
@@ -243,6 +243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 738690,
+      "num": 738690,
+      "word": "女子遭前夫杀害11岁孩子当场吓傻",
+      "onboard_time": 1755259343,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 735216,
+      "num": 430466,
+      "word": "苏苏好惨",
+      "onboard_time": 1755260843,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 708942,
       "num": 525272,
       "word": "邱泽许玮甯儿子已满月",
@@ -355,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582293,
-      "num": 582293,
-      "word": "女子遭前夫杀害11岁孩子当场吓傻",
-      "onboard_time": 1755259343,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 581768,
       "num": 581768,
       "word": "中纪委明确公职人员禁止6类副业",
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 577551,
+      "num": 550353,
+      "word": "杨幂回复于正了",
+      "onboard_time": 1755256821,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 573262,
       "num": 254585,
       "word": "杨超越才发现照片里的虫子",
@@ -393,14 +409,6 @@
       "onboard_time": 1755234143,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 550353,
-      "num": 550353,
-      "word": "杨幂回复于正了",
-      "onboard_time": 1755256821,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 549660,
@@ -491,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443134,
+      "num": 384420,
+      "word": "肖某董某莹事件不涉及犯罪",
+      "onboard_time": 1755257963,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 442704,
       "num": 414299,
       "word": "刘诗诗真的太瘦了",
@@ -521,14 +537,6 @@
       "onboard_time": 1755249682,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 430466,
-      "num": 430466,
-      "word": "苏苏好惨",
-      "onboard_time": 1755260843,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 416762,
@@ -593,14 +601,6 @@
       "onboard_time": 1755254720,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 384420,
-      "num": 384420,
-      "word": "肖某董某莹事件不涉及犯罪",
-      "onboard_time": 1755257963,
-      "rank": 7,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 369876,
@@ -723,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303383,
+      "num": 222074,
+      "word": "鹿晗唇钉",
+      "onboard_time": 1755262402,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 299535,
       "num": 299535,
       "word": "王楚钦点赞王皓",
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297426,
+      "num": 284189,
+      "word": "生万物",
+      "onboard_time": 1755168504,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295494,
       "num": 295494,
       "word": "吴谨言江山为聘出妆",
@@ -752,14 +768,6 @@
       "word": "李昀锐王楚然 金银错",
       "onboard_time": 1755214039,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 284189,
-      "num": 284189,
-      "word": "生万物",
-      "onboard_time": 1755168504,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -779,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 280237,
+      "num": 213942,
+      "word": "魔尊重楼扮演者去演短剧了",
+      "onboard_time": 1755262402,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279480,
       "num": 279480,
       "word": "男童被人带去冒名顶替打疫苗",
@@ -793,6 +809,14 @@
       "onboard_time": 1755229281,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273350,
+      "num": 209163,
+      "word": "BIGBANG合体庆祝出道19周年",
+      "onboard_time": 1755262161,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 266440,
@@ -987,12 +1011,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201201,
-      "num": 201201,
-      "word": "BIGBANG合体庆祝出道19周年",
-      "onboard_time": 1755262161,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 202310,
+      "num": 202310,
+      "word": "王青签了许魏洲前经纪人李昊",
+      "onboard_time": 1755260182,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 200459,
@@ -1001,6 +1025,14 @@
       "onboard_time": 1755249742,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199570,
+      "num": 199570,
+      "word": "孙颖莎首轮对阵高达",
+      "onboard_time": 1755262644,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 198559,
@@ -1051,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196896,
+      "num": 196896,
+      "word": "朱珠扛住了顶光",
+      "onboard_time": 1755262462,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196749,
       "num": 196749,
       "word": "小北把岳云鹏说到离席",
@@ -1099,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194636,
+      "num": 194636,
+      "word": "日本战败投降后竟曾留下一支伏兵",
+      "onboard_time": 1755260121,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 193355,
       "num": 259526,
       "word": "官方回应男童被带去冒名顶替打疫苗",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1755232403,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191672,
+      "num": 191672,
+      "word": "深圳一垃圾焚烧厂成网红打卡地",
+      "onboard_time": 1755260182,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186299,
@@ -1219,14 +1275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 179511,
-      "num": 179511,
-      "word": "日本战败投降后竟曾留下一支伏兵",
-      "onboard_time": 1755260121,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 178102,
       "num": 181866,
       "word": "陈昊宇直播",
@@ -1329,6 +1377,14 @@
       "onboard_time": 1755250163,
       "rank": 32,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 170992,
+      "num": 170992,
+      "word": "WTT抽签",
+      "onboard_time": 1755262462,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 170882,
@@ -1603,14 +1659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 153765,
-      "num": 153765,
-      "word": "王青签了许魏洲前经纪人李昊",
-      "onboard_time": 1755260182,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152907,
       "num": 152907,
       "word": "金银错",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1755227541,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 152401,
+      "num": 152401,
+      "word": "靠窗工位收费",
+      "onboard_time": 1755258082,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151982,
@@ -2027,12 +2083,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 127731,
-      "num": 127731,
-      "word": "深圳一垃圾焚烧厂成网红打卡地",
-      "onboard_time": 1755260182,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 127391,
+      "num": 127391,
+      "word": "周也回应与鞠婧祎认识",
+      "onboard_time": 1755261743,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 127389,
@@ -2091,20 +2147,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124446,
-      "num": 124446,
-      "word": "靠窗工位收费",
-      "onboard_time": 1755258082,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124247,
       "num": 236010,
       "word": "小朋友你看这是今天的中国",
       "onboard_time": 1755239182,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123727,
+      "num": 123727,
+      "word": "肖某发明的多个专利已失效",
+      "onboard_time": 1755259282,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123623,
@@ -2187,6 +2243,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115269,
+      "num": 115269,
+      "word": "侵华老兵不愿父亲祭祀在靖国神社",
+      "onboard_time": 1755259103,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 114757,
+      "num": 114757,
+      "word": "T1对战HLE",
+      "onboard_time": 1755260723,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114677,
       "num": 114677,
       "word": "你好星期六超前探班呢",
@@ -2219,14 +2291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113968,
-      "num": 113968,
-      "word": "肖某发明的多个专利已失效",
-      "onboard_time": 1755259282,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113793,
       "num": 113793,
       "word": "肖某董某莹事件5家机构19人被问责",
@@ -2249,14 +2313,6 @@
       "onboard_time": 1755256881,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113160,
-      "num": 113160,
-      "word": "侵华老兵不愿父亲祭祀在靖国神社",
-      "onboard_time": 1755259103,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 112649,
@@ -2289,6 +2345,14 @@
       "onboard_time": 1755184463,
       "rank": 31,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 109641,
+      "num": 109641,
+      "word": "绿水青山在中国乡村具象化了",
+      "onboard_time": 1755258382,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109214,
@@ -2347,6 +2411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107679,
+      "num": 107679,
+      "word": "可以缓解焦虑情绪的小事",
+      "onboard_time": 1755259882,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107617,
       "num": 107617,
       "word": "85花长红的原因",
@@ -2400,14 +2472,6 @@
       "word": "北京有雷阵雨局地伴7级大风",
       "onboard_time": 1755234203,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103546,
-      "num": 103546,
-      "word": "绿水青山在中国乡村具象化了",
-      "onboard_time": 1755258382,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -2475,12 +2539,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98830,
+      "num": 98830,
+      "word": "苏新皓在披哥5收获超多夸奖",
+      "onboard_time": 1755263122,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98445,
       "num": 98445,
       "word": "38岁浙大微生物学博士因病去世",
       "onboard_time": 1755217221,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97700,
+      "num": 97700,
+      "word": "网友首尔偶遇徐明浩",
+      "onboard_time": 1755263184,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 96246,
@@ -2737,14 +2817,6 @@
       "onboard_time": 1755233482,
       "rank": 42,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 73451,
-      "num": 108070,
-      "word": "周也回应与鞠婧祎认识",
-      "onboard_time": 1755261743,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 73375,
@@ -3064,6 +3136,14 @@
       "word": "广东一学校食堂有老鼠舔餐盘",
       "onboard_time": 1755246081,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29054,
+      "num": 167071,
+      "word": "罗翔解读精神病人不负刑责是误解",
+      "onboard_time": 1755262883,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
