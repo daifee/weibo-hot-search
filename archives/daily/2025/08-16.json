@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755283109742,
+  "endTime": 1755283931002,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 126364,
-      "num": 72355,
+      "num": 78243,
       "word": "大司命黑皮男神",
       "onboard_time": 1755281295,
       "rank": 23,
@@ -459,11 +459,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53053,
+      "num": 121816,
+      "word": "特朗普抵达安克雷奇",
+      "onboard_time": 1755282556,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51040,
       "num": 213889,
       "word": "美俄会谈地数百特工入驻",
       "onboard_time": 1755279138,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50947,
+      "num": 50947,
+      "word": "普京专机进入美国领空",
+      "onboard_time": 1755273022,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47166,
+      "num": 84122,
+      "word": "普京特朗普一对一会晤改三对三",
+      "onboard_time": 1755282736,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -483,27 +507,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30883,
-      "num": 33699,
-      "word": "普京专机进入美国领空",
-      "onboard_time": 1755273022,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 28803,
-      "num": 73077,
-      "word": "普京特朗普一对一会晤改三对三",
-      "onboard_time": 1755282736,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 24898,
-      "num": 78904,
-      "word": "特朗普抵达安克雷奇",
-      "onboard_time": 1755282556,
-      "rank": 13,
+      "raw_hot": 24823,
+      "num": 124385,
+      "word": "俄外长等已率先抵达阿拉斯加",
+      "onboard_time": 1755282915,
+      "rank": 28,
       "category": "国际时政"
     },
     {
@@ -515,11 +523,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18572,
-      "num": 51876,
-      "word": "俄外长等已率先抵达阿拉斯加",
-      "onboard_time": 1755282915,
-      "rank": 28,
+      "raw_hot": 7914,
+      "num": 34861,
+      "word": "先期抵美的俄代表团赴会谈地点",
+      "onboard_time": 1755283875,
+      "rank": 36,
       "category": "国际时政"
     },
     {
