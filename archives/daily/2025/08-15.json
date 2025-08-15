@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755253711725,
+  "endTime": 1755254761004,
   "band_list": [
     {
       "raw_hot": 2988874,
@@ -8,6 +8,14 @@
       "word": "卫健委最新通报肖某董某莹事件",
       "onboard_time": 1755248962,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2866256,
+      "num": 2866256,
+      "word": "董某莹成绩单造假",
+      "onboard_time": 1755249203,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -19,11 +27,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1822906,
-      "num": 1822906,
-      "word": "董某莹成绩单造假",
-      "onboard_time": 1755249203,
-      "rank": 9,
+      "raw_hot": 1754179,
+      "num": 1754179,
+      "word": "免费续面 无限续面",
+      "onboard_time": 1755250283,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -41,14 +49,6 @@
       "onboard_time": 1755231923,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1581760,
-      "num": 1581760,
-      "word": "免费续面 无限续面",
-      "onboard_time": 1755250283,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1516060,
@@ -243,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 698234,
+      "num": 698234,
+      "word": "周深 泡泡玛特",
+      "onboard_time": 1755252801,
+      "rank": 7,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 693889,
       "num": 693889,
       "word": "网红猪坚强负债50万搞爱好",
@@ -305,6 +313,14 @@
       "onboard_time": 1755243922,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 630368,
+      "num": 630368,
+      "word": "增加学位论文答辩后第2年再次查重",
+      "onboard_time": 1755252202,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 621502,
@@ -385,14 +401,6 @@
       "onboard_time": 1755250642,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531397,
-      "num": 531397,
-      "word": "周深 泡泡玛特",
-      "onboard_time": 1755252801,
-      "rank": 7,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 527601,
@@ -483,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432028,
+      "num": 432028,
+      "word": "自称奥运冠军未婚妻网红涉诈骗上亿",
+      "onboard_time": 1755249682,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416762,
       "num": 254242,
       "word": "邱泽许玮甯宝宝出生",
@@ -537,14 +553,6 @@
       "onboard_time": 1755219142,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 399056,
-      "num": 399056,
-      "word": "自称奥运冠军未婚妻网红涉诈骗上亿",
-      "onboard_time": 1755249682,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 369876,
@@ -633,14 +641,6 @@
       "onboard_time": 1755240263,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305494,
-      "num": 505833,
-      "word": "增加学位论文答辩后第2年再次查重",
-      "onboard_time": 1755252202,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305415,
@@ -755,6 +755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 247208,
+      "num": 247208,
+      "word": "吉训明任协和医学院院校长",
+      "onboard_time": 1755251183,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245282,
       "num": 245282,
       "word": "男子被前女友10万卖到边境",
@@ -779,12 +787,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232111,
+      "num": 232111,
+      "word": "月薪5千的请反复观看",
+      "onboard_time": 1755253882,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229776,
       "num": 229776,
       "word": "张晚意  差点把花少录成跑男",
       "onboard_time": 1755245603,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229396,
+      "num": 229396,
+      "word": "续面当事顾客说共消费140元",
+      "onboard_time": 1755251843,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226793,
@@ -801,14 +825,6 @@
       "onboard_time": 1755176244,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 222480,
-      "num": 222480,
-      "word": "吉训明任协和医学院院校长",
-      "onboard_time": 1755251183,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219616,
@@ -835,16 +851,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216890,
-      "num": 216890,
-      "word": "续面当事顾客说共消费140元",
-      "onboard_time": 1755251843,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208854,
-      "num": 208854,
+      "raw_hot": 217064,
+      "num": 217064,
       "word": "炫神 Theshy",
       "onboard_time": 1755252265,
       "rank": 24,
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 205176,
-      "num": 205176,
+      "num": 217865,
       "word": "热巴利剑玫瑰开分6.9",
       "onboard_time": 1755249922,
       "rank": 34,
@@ -1139,6 +1147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 174344,
+      "num": 219108,
+      "word": "蒲熠星丝滑融入时代少年团",
+      "onboard_time": 1755254002,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172970,
       "num": 172970,
       "word": "以为是周也结果是丞磊",
@@ -1259,6 +1275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 163235,
+      "num": 163235,
+      "word": "买洗衣机前需要知道的冷知识",
+      "onboard_time": 1755253942,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 162720,
       "num": 162720,
       "word": "盗墓笔记",
@@ -1283,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160225,
+      "num": 479653,
+      "word": "网红多肉饱饱被强执",
+      "onboard_time": 1755253762,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159755,
       "num": 159755,
       "word": "丁禹兮红色抹额路透",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1755224961,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 158802,
+      "num": 218076,
+      "word": "王楚然青花瓷成精了",
+      "onboard_time": 1755254062,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 158711,
@@ -1459,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151220,
+      "num": 217300,
+      "word": "沈佳润美美桑内快成东北省歌了",
+      "onboard_time": 1755253402,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150616,
       "num": 150616,
       "word": "男子翻出20年前麦当劳兑换券获回应",
@@ -1571,20 +1619,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142863,
+      "num": 163255,
+      "word": "许玮甯生娃后出演话剧",
+      "onboard_time": 1755253342,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 142779,
+      "num": 142779,
+      "word": "美国百人卖淫集团头目被捕",
+      "onboard_time": 1755254363,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141742,
       "num": 157659,
       "word": "万妮达回应说唱武则天",
       "onboard_time": 1755234443,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140843,
-      "num": 140843,
-      "word": "许玮甯生娃后出演话剧",
-      "onboard_time": 1755253342,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 140008,
@@ -1611,11 +1667,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139330,
+      "num": 139330,
+      "word": "刘忻脖子上戴了一圈手表",
+      "onboard_time": 1755253703,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138667,
       "num": 138667,
       "word": "于正艾特杨幂说剧好看",
       "onboard_time": 1755252683,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136832,
+      "num": 136832,
+      "word": "夏东海 我已经上山当土匪了",
+      "onboard_time": 1755252265,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1651,6 +1723,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 134564,
+      "num": 131435,
+      "word": "杨幂 不存在所谓的不做就不错",
+      "onboard_time": 1755252323,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133942,
       "num": 133942,
       "word": "日本投降日当天的报纸",
@@ -1667,11 +1747,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131728,
-      "num": 131728,
-      "word": "夏东海 我已经上山当土匪了",
-      "onboard_time": 1755252265,
-      "rank": 39,
+      "raw_hot": 132948,
+      "num": 132948,
+      "word": "爱奇艺 生万物固屏",
+      "onboard_time": 1755254301,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1705,6 +1785,14 @@
       "onboard_time": 1755186022,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129405,
+      "num": 205534,
+      "word": "谢霆锋刘嘉玲吃饭能讲究也能随意",
+      "onboard_time": 1755254062,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 128722,
@@ -1827,20 +1915,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117663,
-      "num": 117663,
-      "word": "杨幂 不存在所谓的不做就不错",
-      "onboard_time": 1755252323,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117032,
       "num": 120796,
       "word": "献鱼",
       "onboard_time": 1755228683,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116589,
+      "num": 116589,
+      "word": "贴这么低是给猫看的吗",
+      "onboard_time": 1755254541,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115954,
+      "num": 115954,
+      "word": "孙颖莎赶车",
+      "onboard_time": 1755254421,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 114677,
@@ -1883,6 +1979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113585,
+      "num": 133249,
+      "word": "张远孩子和王铮亮至少相差50岁",
+      "onboard_time": 1755254720,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112649,
       "num": 112649,
       "word": "证券板块集体爆发",
@@ -1905,14 +2009,6 @@
       "onboard_time": 1755250762,
       "rank": 49,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 110906,
-      "num": 110906,
-      "word": "沈佳润美美桑内快成东北省歌了",
-      "onboard_time": 1755253402,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 110903,
@@ -2395,6 +2491,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63127,
+      "num": 139515,
+      "word": "邓超 我试图唤起他们一点点亲情",
+      "onboard_time": 1755253882,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 62811,
+      "num": 241536,
+      "word": "国产模型让马斯克难辨真假",
+      "onboard_time": 1755251242,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 61860,
       "num": 83525,
       "word": "WB战胜AG",
@@ -2441,14 +2553,6 @@
       "onboard_time": 1755193277,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55040,
-      "num": 241536,
-      "word": "国产模型让马斯克难辨真假",
-      "onboard_time": 1755251242,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 53668,
@@ -2603,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25295,
+      "num": 1606736,
+      "word": "12小时寻找北京的抗战印记",
+      "onboard_time": 1755253462,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24003,
       "num": 64896,
       "word": "平凡日常里记得好好爱自己",
@@ -2680,14 +2792,6 @@
       "word": "7月国民经济保持稳中有进发展态势",
       "onboard_time": 1755226162,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7788,
-      "num": 1606736,
-      "word": "12小时寻找北京的抗战印记",
-      "onboard_time": 1755253462,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
