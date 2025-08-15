@@ -1,6 +1,6 @@
 {
   "startTime": 1755189324428,
-  "endTime": 1755239993273,
+  "endTime": 1755240836184,
   "band_list": [
     {
       "raw_hot": 1713591,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 621502,
+      "num": 309268,
+      "word": "男子吃粉强行搂抱19岁女店员",
+      "onboard_time": 1755238043,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 599717,
       "num": 599717,
       "word": "日本人因南京大屠杀史料羞愧愤怒",
@@ -307,6 +315,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436667,
+      "num": 280042,
+      "word": "孟鹤堂当爸爸了",
+      "onboard_time": 1755239422,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 422934,
+      "num": 359145,
+      "word": "赖声川被观众质问为何使用吸毒艺人",
+      "onboard_time": 1755239362,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 419811,
+      "num": 286232,
+      "word": "孕妇被退回人贩子仍将其二次贩卖",
+      "onboard_time": 1755238462,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416762,
       "num": 254242,
       "word": "邱泽许玮甯宝宝出生",
@@ -336,14 +368,6 @@
       "word": "动车组学生优惠票一等座也将适用",
       "onboard_time": 1755228503,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 410991,
-      "num": 309268,
-      "word": "男子吃粉强行搂抱19岁女店员",
-      "onboard_time": 1755238043,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -435,20 +459,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 311040,
-      "num": 311040,
+      "raw_hot": 321814,
+      "num": 321814,
       "word": "火车学生票新优惠",
       "onboard_time": 1755236961,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308891,
-      "num": 308891,
-      "word": "赖声川被观众质问为何使用吸毒艺人",
-      "onboard_time": 1755239362,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 305415,
@@ -481,14 +497,6 @@
       "onboard_time": 1755214039,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286232,
-      "num": 286232,
-      "word": "孕妇被退回人贩子仍将其二次贩卖",
-      "onboard_time": 1755238462,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284189,
@@ -563,28 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232411,
-      "num": 297385,
-      "word": "8月15日中国人必须铭记",
-      "onboard_time": 1755224840,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 232126,
-      "num": 232126,
+      "raw_hot": 232923,
+      "num": 232923,
       "word": "男子被前女友10万卖到边境",
       "onboard_time": 1755237443,
       "rank": 22,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228261,
-      "num": 228261,
-      "word": "孟鹤堂当爸爸了",
-      "onboard_time": 1755239422,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 232411,
+      "num": 297385,
+      "word": "8月15日中国人必须铭记",
+      "onboard_time": 1755224840,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 225096,
@@ -617,6 +617,14 @@
       "onboard_time": 1755230782,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201436,
+      "num": 201436,
+      "word": "董璇小酒窝妈妈基础女儿就不基础",
+      "onboard_time": 1755240263,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 198152,
@@ -681,6 +689,14 @@
       "onboard_time": 1755229883,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194693,
+      "num": 194693,
+      "word": "王楚钦点赞王皓",
+      "onboard_time": 1755239602,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 193355,
@@ -779,6 +795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 177281,
+      "num": 177281,
+      "word": "小北 我失心疯了",
+      "onboard_time": 1755239722,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176905,
       "num": 176905,
       "word": "刘浩存不嫌弃我还搂我",
@@ -793,6 +817,14 @@
       "onboard_time": 1755221002,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175366,
+      "num": 175366,
+      "word": "A股",
+      "onboard_time": 1755240562,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 172970,
@@ -840,6 +872,14 @@
       "word": "迪丽热巴相约下一个角色旅程",
       "onboard_time": 1755188243,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166381,
+      "num": 166381,
+      "word": "杨幂欧豪 俺爹俺娘俺出生了",
+      "onboard_time": 1755240142,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -948,7 +988,7 @@
     },
     {
       "raw_hot": 157537,
-      "num": 157537,
+      "num": 295992,
       "word": "闺蜜俩发现富二代男友竟是同一人",
       "onboard_time": 1755235942,
       "rank": 32,
@@ -1009,6 +1049,14 @@
       "onboard_time": 1755227720,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151282,
+      "num": 172834,
+      "word": "生万物 女子众生相",
+      "onboard_time": 1755240201,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 150616,
@@ -1099,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138657,
+      "num": 237011,
+      "word": "大学教授收废品赚300亿",
+      "onboard_time": 1755240562,
+      "rank": 22,
+      "category": "财经,情感"
+    },
+    {
       "raw_hot": 136332,
       "num": 136332,
       "word": "日本战犯痛哭流涕跪地认罪",
@@ -1131,12 +1187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131406,
-      "num": 131406,
-      "word": "王楚钦点赞王皓",
-      "onboard_time": 1755239602,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 130445,
+      "num": 130445,
+      "word": "小鹏P7创24小时耐力测试新纪录",
+      "onboard_time": 1755236723,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 129583,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1755167782,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 128291,
-      "num": 128291,
-      "word": "小北 我失心疯了",
-      "onboard_time": 1755239722,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 127389,
@@ -1243,6 +1291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114162,
+      "num": 114162,
+      "word": "许凯是田曦薇的人形逗猫棒",
+      "onboard_time": 1755240802,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112471,
+      "num": 236010,
+      "word": "小朋友你看这是今天的中国",
+      "onboard_time": 1755239182,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112261,
       "num": 112261,
       "word": "张元英预告造型",
@@ -1297,14 +1361,6 @@
       "onboard_time": 1755154883,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 107641,
-      "num": 236010,
-      "word": "小朋友你看这是今天的中国",
-      "onboard_time": 1755239182,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107617,
@@ -1387,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96246,
+      "num": 134511,
+      "word": "国网守护绿水青山20载",
+      "onboard_time": 1755237683,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95384,
       "num": 131452,
       "word": "小北想火成labubu",
@@ -1417,14 +1481,6 @@
       "onboard_time": 1755229702,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94637,
-      "num": 134511,
-      "word": "国网守护绿水青山20载",
-      "onboard_time": 1755237683,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94557,
@@ -1683,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53668,
+      "num": 124907,
+      "word": "杨洋 轻舟已过万重山",
+      "onboard_time": 1755240024,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52056,
       "num": 52056,
       "word": "河南 基孔肯雅热传播风险区",
@@ -1771,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31074,
+      "num": 146900,
+      "word": "国际超模胡兵与人形机器人同台走秀",
+      "onboard_time": 1755237982,
+      "rank": 31,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 29047,
       "num": 137536,
       "word": "中国细菌战受害者至今未获道歉",
@@ -1803,20 +1875,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22316,
+      "num": 125036,
+      "word": "两男孩强迫留守儿童借网贷",
+      "onboard_time": 1755240322,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21767,
       "num": 22906,
       "word": "高校需重视校园矛盾避免悲剧重演",
       "onboard_time": 1755195736,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20556,
-      "num": 146900,
-      "word": "国际超模胡兵与人形机器人同台走秀",
-      "onboard_time": 1755237982,
-      "rank": 31,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 20438,
