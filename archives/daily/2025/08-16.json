@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755327010714,
+  "endTime": 1755329060458,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1626828,
-      "num": 456792,
+      "num": 524010,
       "word": "岳云鹏帮女艺人挡酒被换掉",
       "onboard_time": 1755322882,
       "rank": 44,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1440508,
+      "num": 454659,
+      "word": "黄一鸣自曝公开孩子父亲的原因",
+      "onboard_time": 1755325642,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1380015,
       "num": 1380015,
       "word": "金智源确诊白血病",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1352036,
-      "num": 302960,
+      "num": 414439,
       "word": "贺峻霖晒白发严浩翔",
       "onboard_time": 1755321201,
       "rank": 11,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1265061,
-      "num": 357962,
+      "num": 441545,
       "word": "朋友圈跳赞",
       "onboard_time": 1755316940,
       "rank": 18,
@@ -81,14 +89,6 @@
       "onboard_time": 1755318562,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1236357,
-      "num": 196804,
-      "word": "黄一鸣自曝公开孩子父亲的原因",
-      "onboard_time": 1755325642,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1189926,
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 844241,
-      "num": 287109,
+      "num": 412835,
       "word": "张维伊想当父亲是因为缺创作素材",
       "onboard_time": 1755320241,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 822596,
+      "num": 1131615,
+      "word": "iPhone充电坏习惯",
+      "onboard_time": 1755326482,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 804364,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 570708,
-      "num": 255449,
+      "num": 470490,
       "word": "王嘉尔食物中毒",
       "onboard_time": 1755321321,
       "rank": 24,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 485786,
-      "num": 196615,
+      "num": 453713,
       "word": "董璇张维伊曾达成一致不要二胎",
       "onboard_time": 1755324862,
       "rank": 20,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 447174,
-      "num": 196581,
+      "num": 343447,
       "word": "花少第一次行李没超重",
       "onboard_time": 1755323661,
       "rank": 17,
@@ -356,11 +364,19 @@
     },
     {
       "raw_hot": 446830,
-      "num": 446830,
+      "num": 478339,
       "word": "人民日报评肖某董某莹事件处置",
       "onboard_time": 1755323302,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441545,
+      "num": 441544,
+      "word": "向太谈两次从黑社会手里救梅艳芳",
+      "onboard_time": 1755327203,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 428430,
@@ -436,11 +452,19 @@
     },
     {
       "raw_hot": 350777,
-      "num": 196344,
+      "num": 249714,
       "word": "周扬青一句话在场男人都沉默了",
       "onboard_time": 1755324862,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350721,
+      "num": 458489,
+      "word": "沈佳润美美桑内传到郑秀妍了",
+      "onboard_time": 1755325942,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 330095,
@@ -499,8 +523,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310411,
+      "num": 310411,
+      "word": "吻婴儿月嫂道歉称宝宝太可爱没忍住",
+      "onboard_time": 1755324560,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309552,
-      "num": 357146,
+      "num": 413442,
       "word": "康如 樊振东",
       "onboard_time": 1755316940,
       "rank": 16,
@@ -547,14 +579,6 @@
       "category": "艺人,音乐"
     },
     {
-      "raw_hot": 286446,
-      "num": 196423,
-      "word": "沈佳润美美桑内传到郑秀妍了",
-      "onboard_time": 1755325942,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284969,
       "num": 249562,
       "word": "太湖湾音乐节阵容",
@@ -571,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269310,
-      "num": 196301,
-      "word": "吻婴儿月嫂道歉称宝宝太可爱没忍住",
-      "onboard_time": 1755324560,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 265821,
+      "num": 265821,
+      "word": "韦雪和前男友打架",
+      "onboard_time": 1755328283,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 265265,
@@ -627,12 +651,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 249187,
-      "num": 196188,
-      "word": "iPhone充电坏习惯",
-      "onboard_time": 1755326482,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 247095,
+      "num": 247095,
+      "word": "偶遇俞灏明王晓晨旅游",
+      "onboard_time": 1755326904,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 244471,
@@ -667,12 +691,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233806,
+      "num": 233806,
+      "word": "严浩翔喊丁程鑫哥哥",
+      "onboard_time": 1755328341,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233595,
       "num": 233595,
       "word": "特朗普机场迎接普京",
       "onboard_time": 1755286334,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 233388,
+      "num": 455192,
+      "word": "官方通报杭州地铁一乘客充电宝自燃",
+      "onboard_time": 1755325282,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 224125,
@@ -697,6 +737,14 @@
       "onboard_time": 1755275720,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 219476,
+      "num": 219476,
+      "word": "梓渝三本杂志销售额",
+      "onboard_time": 1755327864,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 216468,
@@ -939,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176720,
+      "num": 176720,
+      "word": "一级演员陈佩华逝世",
+      "onboard_time": 1755327442,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175462,
       "num": 175462,
       "word": "开始懂了陈小春为什么总唱第一句",
@@ -947,12 +1003,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175096,
+      "num": 175096,
+      "word": "离职第一件事给自己交社保",
+      "onboard_time": 1755327683,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174991,
       "num": 566956,
       "word": "男孩掰断艺术品监控被播放12年",
       "onboard_time": 1755306501,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174322,
+      "num": 174322,
+      "word": "陈奕恒紫色满天星",
+      "onboard_time": 1755327683,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 174129,
+      "num": 174129,
+      "word": "在尿都控制不住的年纪却控制了全场",
+      "onboard_time": 1755327561,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 172828,
@@ -995,20 +1075,20 @@
       "category": "幽默,运动健身"
     },
     {
+      "raw_hot": 167663,
+      "num": 167663,
+      "word": "杨洋创造了真正的漫剧双赢",
+      "onboard_time": 1755328102,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167584,
       "num": 167584,
       "word": "R1SE睡觉也在开演唱会",
       "onboard_time": 1755319281,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167359,
-      "num": 196375,
-      "word": "官方通报杭州地铁一乘客充电宝自燃",
-      "onboard_time": 1755325282,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 166019,
@@ -1065,6 +1145,14 @@
       "onboard_time": 1755305720,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159321,
+      "num": 159321,
+      "word": "内娱舅舅舅妈的时代来了",
+      "onboard_time": 1755328882,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 158927,
@@ -1211,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148412,
+      "num": 148412,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1755328402,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148263,
       "num": 277370,
       "word": "市监回应电梯施工人员名单现多位明星",
@@ -1227,11 +1323,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146404,
-      "num": 146404,
-      "word": "偶遇俞灏明王晓晨旅游",
+      "raw_hot": 146505,
+      "num": 150806,
+      "word": "咘咘越长越漂亮",
       "onboard_time": 1755326904,
-      "rank": 43,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1249,6 +1345,14 @@
       "onboard_time": 1755314960,
       "rank": 38,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 145227,
+      "num": 145227,
+      "word": "丁程鑫跳了扫腿舞",
+      "onboard_time": 1755328942,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 143369,
@@ -1377,6 +1481,14 @@
       "onboard_time": 1755286815,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129902,
+      "num": 146535,
+      "word": "演员郑国霖回应在景区打工",
+      "onboard_time": 1755327743,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 128457,
@@ -1523,6 +1635,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118745,
+      "num": 175257,
+      "word": "杨靖宇将军雕像前祭品被人嬉笑拿走",
+      "onboard_time": 1755327803,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117838,
+      "num": 221354,
+      "word": "香奈儿的蓝",
+      "onboard_time": 1755323182,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117223,
       "num": 117223,
       "word": "时代少年团什么时候二开",
@@ -1600,6 +1728,14 @@
       "word": "感动中国2024年度人物",
       "onboard_time": 1755315802,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103187,
+      "num": 175418,
+      "word": "杭州地铁起火的充电宝已被拿走调查",
+      "onboard_time": 1755328162,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1755,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79980,
+      "num": 153640,
+      "word": "美国女孩被中国种草了",
+      "onboard_time": 1755326542,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79668,
       "num": 223112,
       "word": "俄称美俄总统会谈进展非常顺利",
@@ -1769,6 +1913,14 @@
       "onboard_time": 1755299537,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77011,
+      "num": 164616,
+      "word": "小海绵一出生就是顶流待遇",
+      "onboard_time": 1755328942,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 76661,
@@ -1891,11 +2043,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48876,
-      "num": 199728,
-      "word": "香奈儿的蓝",
-      "onboard_time": 1755323182,
-      "rank": 11,
+      "raw_hot": 48561,
+      "num": 441857,
+      "word": "龚俊若也共赴天然植愈之旅",
+      "onboard_time": 1755327982,
+      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -1939,20 +2091,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40012,
+      "num": 162756,
+      "word": "田曦薇早期素人直播",
+      "onboard_time": 1755329003,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39085,
       "num": 51853,
       "word": "黄子弘凡把浪浪山搬到演唱会",
       "onboard_time": 1755279557,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36927,
-      "num": 150806,
-      "word": "咘咘越长越漂亮",
-      "onboard_time": 1755326904,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 33053,
@@ -1980,7 +2132,7 @@
     },
     {
       "raw_hot": 29589,
-      "num": 240465,
+      "num": 536338,
       "word": "烽火里的山东记忆",
       "onboard_time": 1755314483,
       "rank": 20,
@@ -2009,14 +2161,6 @@
       "onboard_time": 1755285675,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18913,
-      "num": 149710,
-      "word": "美国女孩被中国种草了",
-      "onboard_time": 1755326542,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11949,

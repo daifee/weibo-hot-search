@@ -1,0 +1,410 @@
+{
+  "runTime": 1755329060458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 822596,
+        "num": 1131615,
+        "word": "iPhone充电坏习惯",
+        "onboard_time": 1755326482,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 605180,
+        "num": 605180,
+        "word": "韩立结婴",
+        "onboard_time": 1755314123,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 11301,
+        "num": 536338,
+        "word": "烽火里的山东记忆",
+        "onboard_time": 1755314483,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1148691,
+        "num": 524010,
+        "word": "岳云鹏帮女艺人挡酒被换掉",
+        "onboard_time": 1755322882,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487341,
+        "num": 487341,
+        "word": "金智源确诊白血病",
+        "onboard_time": 1755303440,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400953,
+        "num": 478339,
+        "word": "人民日报评肖某董某莹事件处置",
+        "onboard_time": 1755323302,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470490,
+        "num": 470490,
+        "word": "王嘉尔食物中毒",
+        "onboard_time": 1755321321,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 463504,
+        "num": 463504,
+        "word": "贺峻霖四级成绩",
+        "onboard_time": 1755300798,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350721,
+        "num": 458489,
+        "word": "沈佳润美美桑内传到郑秀妍了",
+        "onboard_time": 1755325942,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233388,
+        "num": 455192,
+        "word": "官方通报杭州地铁一乘客充电宝自燃",
+        "onboard_time": 1755325282,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1440508,
+        "num": 454659,
+        "word": "黄一鸣自曝公开孩子父亲的原因",
+        "onboard_time": 1755325642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453713,
+        "num": 453713,
+        "word": "董璇张维伊曾达成一致不要二胎",
+        "onboard_time": 1755324862,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48561,
+        "num": 441857,
+        "word": "龚俊若也共赴天然植愈之旅",
+        "onboard_time": 1755327982,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352364,
+        "num": 441552,
+        "word": "飞行学员被曝出轨10余名女子",
+        "onboard_time": 1755312141,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342782,
+        "num": 441545,
+        "word": "朋友圈跳赞",
+        "onboard_time": 1755316940,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 441545,
+        "num": 441544,
+        "word": "向太谈两次从黑社会手里救梅艳芳",
+        "onboard_time": 1755327203,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414439,
+        "num": 414439,
+        "word": "贺峻霖晒白发严浩翔",
+        "onboard_time": 1755321201,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203534,
+        "num": 413442,
+        "word": "康如 樊振东",
+        "onboard_time": 1755316940,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22261,
+        "num": 412962,
+        "word": "神二十乘组圆满完成第三次出舱",
+        "onboard_time": 1755271464,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142727,
+        "num": 412876,
+        "word": "王楚钦将参加北大新生考试",
+        "onboard_time": 1755317841,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412835,
+        "num": 412835,
+        "word": "张维伊想当父亲是因为缺创作素材",
+        "onboard_time": 1755320241,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343447,
+        "num": 343447,
+        "word": "花少第一次行李没超重",
+        "onboard_time": 1755323661,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310411,
+        "num": 310411,
+        "word": "吻婴儿月嫂道歉称宝宝太可爱没忍住",
+        "onboard_time": 1755324560,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265821,
+        "num": 265821,
+        "word": "韦雪和前男友打架",
+        "onboard_time": 1755328283,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261353,
+        "num": 261353,
+        "word": "杨幂说孩子就这两天出生",
+        "onboard_time": 1755319882,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249714,
+        "num": 249714,
+        "word": "周扬青一句话在场男人都沉默了",
+        "onboard_time": 1755324862,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247095,
+        "num": 247095,
+        "word": "偶遇俞灏明王晓晨旅游",
+        "onboard_time": 1755326904,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233806,
+        "num": 233806,
+        "word": "严浩翔喊丁程鑫哥哥",
+        "onboard_time": 1755328341,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117838,
+        "num": 221354,
+        "word": "香奈儿的蓝",
+        "onboard_time": 1755323182,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219476,
+        "num": 219476,
+        "word": "梓渝三本杂志销售额",
+        "onboard_time": 1755327864,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198259,
+        "num": 198259,
+        "word": "生万物破万",
+        "onboard_time": 1755318562,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176720,
+        "num": 176720,
+        "word": "一级演员陈佩华逝世",
+        "onboard_time": 1755327442,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103187,
+        "num": 175418,
+        "word": "杭州地铁起火的充电宝已被拿走调查",
+        "onboard_time": 1755328162,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118745,
+        "num": 175257,
+        "word": "杨靖宇将军雕像前祭品被人嬉笑拿走",
+        "onboard_time": 1755327803,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175096,
+        "num": 175096,
+        "word": "离职第一件事给自己交社保",
+        "onboard_time": 1755327683,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90978,
+        "num": 174352,
+        "word": "王楚钦 路易威登",
+        "onboard_time": 1755320902,
+        "rank": 35,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 181738,
+        "num": 174337,
+        "word": "那英 综艺蝗虫",
+        "onboard_time": 1755316100,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174322,
+        "num": 174322,
+        "word": "陈奕恒紫色满天星",
+        "onboard_time": 1755327683,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174129,
+        "num": 174129,
+        "word": "在尿都控制不住的年纪却控制了全场",
+        "onboard_time": 1755327561,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167663,
+        "num": 167663,
+        "word": "杨洋创造了真正的漫剧双赢",
+        "onboard_time": 1755328102,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77011,
+        "num": 164616,
+        "word": "小海绵一出生就是顶流待遇",
+        "onboard_time": 1755328942,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40012,
+        "num": 162756,
+        "word": "田曦薇早期素人直播",
+        "onboard_time": 1755329003,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162026,
+        "num": 162026,
+        "word": "千万别被网上的独居精致生活骗了",
+        "onboard_time": 1755315921,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159321,
+        "num": 159321,
+        "word": "内娱舅舅舅妈的时代来了",
+        "onboard_time": 1755328882,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79980,
+        "num": 153640,
+        "word": "美国女孩被中国种草了",
+        "onboard_time": 1755326542,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148412,
+        "num": 148412,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1755328402,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129902,
+        "num": 146535,
+        "word": "演员郑国霖回应在景区打工",
+        "onboard_time": 1755327743,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146505,
+        "num": 146505,
+        "word": "咘咘越长越漂亮",
+        "onboard_time": 1755326904,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145227,
+        "num": 145227,
+        "word": "丁程鑫跳了扫腿舞",
+        "onboard_time": 1755328942,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143119,
+        "num": 143119,
+        "word": "普京说俄永远记得俄美曾共对敌人",
+        "onboard_time": 1755310821,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
