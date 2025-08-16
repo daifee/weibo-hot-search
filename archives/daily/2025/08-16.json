@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755351826855,
+  "endTime": 1755354194316,
   "band_list": [
     {
       "raw_hot": 2671492,
@@ -57,6 +57,14 @@
       "onboard_time": 1755332300,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1607224,
+      "num": 1607224,
+      "word": "苏苏怀孕了",
+      "onboard_time": 1755350124,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 1590892,
@@ -121,14 +129,6 @@
       "onboard_time": 1755321201,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1281688,
-      "num": 1281688,
-      "word": "苏苏怀孕了",
-      "onboard_time": 1755350124,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 1268895,
@@ -235,6 +235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 913226,
+      "num": 681210,
+      "word": "某工地用活犬祭祀",
+      "onboard_time": 1755348504,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 877459,
       "num": 877459,
       "word": "33岁确诊胃癌前身体发出的信号",
@@ -323,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 741872,
-      "num": 681210,
-      "word": "某工地用活犬祭祀",
-      "onboard_time": 1755348504,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 732994,
       "num": 290999,
       "word": "刘耀文",
@@ -409,6 +409,14 @@
       "onboard_time": 1755343342,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 621255,
+      "num": 621255,
+      "word": "内娱4张权威脸同框了",
+      "onboard_time": 1755348563,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 609773,
@@ -643,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437028,
+      "num": 437028,
+      "word": "台湾老百姓都清清楚楚看在眼里",
+      "onboard_time": 1755350064,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 428430,
       "num": 404631,
       "word": "租了半年房发现灯罩里有摄像头",
@@ -681,14 +697,6 @@
       "onboard_time": 1755331342,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 405518,
-      "num": 366250,
-      "word": "内娱4张权威脸同框了",
-      "onboard_time": 1755348563,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 402370,
@@ -883,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 310710,
+      "num": 310710,
+      "word": "谢娜是乐华的第一个签约艺人",
+      "onboard_time": 1755351506,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310480,
       "num": 310480,
       "word": "生万物央八破3最快剧集第三位",
@@ -977,6 +993,14 @@
       "onboard_time": 1755328341,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280525,
+      "num": 280525,
+      "word": "苍山遇难7岁男童妈妈称将追责到底",
+      "onboard_time": 1755350545,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277299,
@@ -1203,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222128,
+      "num": 222128,
+      "word": "大屏上的张予曦",
+      "onboard_time": 1755351746,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 219476,
       "num": 219476,
       "word": "梓渝三本杂志销售额",
@@ -1264,6 +1296,14 @@
       "word": "冯建宇红丝绒西装",
       "onboard_time": 1755342200,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 208514,
+      "num": 208514,
+      "word": "陈昊宇白裙",
+      "onboard_time": 1755353304,
+      "rank": 26,
       "category": "演出"
     },
     {
@@ -1361,14 +1401,6 @@
       "onboard_time": 1755259343,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200884,
-      "num": 200884,
-      "word": "谢娜是乐华的第一个签约艺人",
-      "onboard_time": 1755351506,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 200760,
@@ -1529,14 +1561,6 @@
       "onboard_time": 1755312801,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 188204,
-      "num": 188204,
-      "word": "大屏上的张予曦",
-      "onboard_time": 1755351746,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 187261,
@@ -1795,14 +1819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172022,
-      "num": 227010,
-      "word": "苍山遇难7岁男童妈妈称将追责到底",
-      "onboard_time": 1755350545,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171456,
       "num": 171456,
       "word": "啤酒节塌架事故被提级调查",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1755331942,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168898,
+      "num": 168898,
+      "word": "马思纯晒合照",
+      "onboard_time": 1755351985,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 168376,
@@ -1937,6 +1961,14 @@
       "onboard_time": 1755317722,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163899,
+      "num": 458356,
+      "word": "美国B2轰炸机飞过普京有何深意",
+      "onboard_time": 1755351086,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163834,
@@ -2219,20 +2251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150256,
+      "num": 146724,
+      "word": "杨幂俺在天牛庙村等你",
+      "onboard_time": 1755353245,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150211,
       "num": 150211,
       "word": "20岁确诊糖尿病前身体发出的信号",
       "onboard_time": 1755333323,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 149718,
-      "num": 229712,
-      "word": "台湾老百姓都清清楚楚看在眼里",
-      "onboard_time": 1755350064,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 149698,
@@ -2571,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131692,
+      "num": 131692,
+      "word": "献鱼",
+      "onboard_time": 1755349703,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131000,
       "num": 131000,
       "word": "宋亚轩上海站联排花絮",
@@ -2723,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123715,
+      "num": 123715,
+      "word": "姑姑霸占侄女房子居住近10年",
+      "onboard_time": 1755349045,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123417,
       "num": 191013,
       "word": "全国多地物业费大跳水",
@@ -2760,6 +2808,14 @@
       "word": "一念江南暂定9月11日开机",
       "onboard_time": 1755334643,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121104,
+      "num": 121104,
+      "word": "生万物三家三线三故事",
+      "onboard_time": 1755352645,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -3035,6 +3091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102457,
+      "num": 102457,
+      "word": "苏超苏州1比1泰州",
+      "onboard_time": 1755352285,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102088,
       "num": 109196,
       "word": "再看马龙樊振东王楚钦夺冠仍觉热血",
@@ -3047,6 +3111,14 @@
       "num": 168432,
       "word": "张泉灵反对倪萍催董璇生二胎",
       "onboard_time": 1755325341,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100556,
+      "num": 147955,
+      "word": "周也别听孟子义说的也是恶评",
+      "onboard_time": 1755353545,
       "rank": 39,
       "category": "综艺"
     },
@@ -3073,6 +3145,14 @@
       "onboard_time": 1755282556,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98661,
+      "num": 98661,
+      "word": "卫健局回应水果刀插入3岁女童颅脑",
+      "onboard_time": 1755352945,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98306,
@@ -3329,6 +3409,14 @@
       "onboard_time": 1755349345,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63580,
+      "num": 146726,
+      "word": "大部分人生气不是因为脾气差",
+      "onboard_time": 1755354145,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 63471,
@@ -3635,6 +3723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 6699,
+      "num": 750549,
+      "word": "在太行山上",
+      "onboard_time": 1755354023,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2669,
       "num": 671418,
       "word": "7月国民经济保持稳中有进发展态势",
@@ -3661,6 +3757,9 @@
     },
     {
       "word": "#重温总书记对生态文明建设的嘱托#"
+    },
+    {
+      "word": "#一起共谱绿水青山曲#"
     }
   ]
 }
