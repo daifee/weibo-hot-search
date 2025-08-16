@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755351144318,
+  "endTime": 1755351826855,
   "band_list": [
     {
       "raw_hot": 2671492,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1869134,
-      "num": 547554,
+      "num": 663056,
       "word": "小海绵一出生就是顶流待遇",
       "onboard_time": 1755328942,
       "rank": 40,
@@ -123,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1281688,
+      "num": 1281688,
+      "word": "苏苏怀孕了",
+      "onboard_time": 1755350124,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1268895,
+      "num": 1268895,
+      "word": "苏超常州vs镇江",
+      "onboard_time": 1755350185,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1265061,
       "num": 441545,
       "word": "朋友圈跳赞",
@@ -159,6 +175,14 @@
       "num": 543227,
       "word": "当事人回应买避孕药被发现出轨",
       "onboard_time": 1755342322,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1106742,
+      "num": 1106742,
+      "word": "山东地震",
+      "onboard_time": 1755350185,
       "rank": 5,
       "category": "民生新闻"
     },
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 815168,
-      "num": 575634,
+      "num": 681292,
       "word": "沈月泰国红毯",
       "onboard_time": 1755346944,
       "rank": 14,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 796713,
-      "num": 551699,
+      "num": 784053,
       "word": "李沁的睡姿",
       "onboard_time": 1755346342,
       "rank": 15,
@@ -299,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 741872,
+      "num": 681210,
+      "word": "某工地用活犬祭祀",
+      "onboard_time": 1755348504,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 732994,
       "num": 290999,
       "word": "刘耀文",
@@ -315,20 +347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 686495,
-      "num": 507519,
-      "word": "苏苏怀孕了",
-      "onboard_time": 1755350124,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 682504,
       "num": 682504,
       "word": "宋亚轩 敬山水",
       "onboard_time": 1755315682,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 682207,
+      "num": 682207,
+      "word": "范曾女儿回应家父被迫离家",
+      "onboard_time": 1755346823,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 678368,
@@ -371,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 635436,
+      "num": 635436,
+      "word": "苏超",
+      "onboard_time": 1755343342,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 609773,
       "num": 609773,
       "word": "魔尊重楼扮演者去演短剧了",
@@ -385,22 +425,6 @@
       "onboard_time": 1755282736,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 602569,
-      "num": 602569,
-      "word": "山东地震",
-      "onboard_time": 1755350185,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 592524,
-      "num": 476805,
-      "word": "某工地用活犬祭祀",
-      "onboard_time": 1755348504,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 590269,
@@ -449,14 +473,6 @@
       "onboard_time": 1755328283,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 553838,
-      "num": 553838,
-      "word": "范曾女儿回应家父被迫离家",
-      "onboard_time": 1755346823,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 551368,
@@ -635,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 426021,
-      "num": 426021,
-      "word": "苏超",
-      "onboard_time": 1755343342,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 420208,
       "num": 348323,
       "word": "毕雯珺在泰国也帅了",
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 405518,
-      "num": 340037,
+      "num": 366250,
       "word": "内娱4张权威脸同框了",
       "onboard_time": 1755348563,
       "rank": 30,
@@ -707,12 +715,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 395519,
+      "num": 681404,
+      "word": "乘客吐槽高铁邻座400斤男子致拥挤",
+      "onboard_time": 1755347243,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392522,
       "num": 348267,
       "word": "美国连体双胞胎姐妹其中一人疑生子",
       "onboard_time": 1755338182,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 385129,
+      "num": 385129,
+      "word": "苏超第九轮常州队vs镇江队",
+      "onboard_time": 1755346463,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 382089,
@@ -732,19 +756,11 @@
     },
     {
       "raw_hot": 378267,
-      "num": 235354,
+      "num": 250741,
       "word": "严浩翔直播",
       "onboard_time": 1755346582,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371357,
-      "num": 371357,
-      "word": "苏超常州vs镇江",
-      "onboard_time": 1755350185,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 360022,
@@ -905,14 +921,6 @@
       "onboard_time": 1755269724,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 303051,
-      "num": 552777,
-      "word": "乘客吐槽高铁邻座400斤男子致拥挤",
-      "onboard_time": 1755347243,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 298895,
@@ -1187,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222340,
+      "num": 222340,
+      "word": "苏超无锡vs徐州",
+      "onboard_time": 1755351506,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219476,
       "num": 219476,
       "word": "梓渝三本杂志销售额",
@@ -1339,20 +1355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203017,
-      "num": 203017,
-      "word": "苏超第九轮常州队vs镇江队",
-      "onboard_time": 1755346763,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201089,
       "num": 201089,
       "word": "女子遭前夫杀害11岁孩子当场吓傻",
       "onboard_time": 1755259343,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200884,
+      "num": 200884,
+      "word": "谢娜是乐华的第一个签约艺人",
+      "onboard_time": 1755351506,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 200760,
@@ -1411,6 +1427,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195759,
+      "num": 195759,
+      "word": "谢娜给张子墨亿点小小的主持震撼",
+      "onboard_time": 1755350485,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195694,
+      "num": 195694,
+      "word": "华晨宇音乐节银发大屏直拍",
+      "onboard_time": 1755350905,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195131,
       "num": 195131,
       "word": "周震南原来是柯淳的偶像",
@@ -1427,18 +1459,18 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 194231,
-      "num": 194231,
-      "word": "华晨宇音乐节银发大屏直拍",
-      "onboard_time": 1755350965,
-      "rank": 41,
-      "category": "演出"
+      "raw_hot": 193481,
+      "num": 193481,
+      "word": "俄乌冲突将以牺牲乌克兰利益结束",
+      "onboard_time": 1755350845,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192977,
       "num": 197542,
       "word": "胡明轩三分",
-      "onboard_time": 1755349765,
+      "onboard_time": 1755349764,
       "rank": 37,
       "category": "体育"
     },
@@ -1449,14 +1481,6 @@
       "onboard_time": 1755345863,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192164,
-      "num": 192164,
-      "word": "谢娜给张子墨亿点小小的主持震撼",
-      "onboard_time": 1755350485,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 191296,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1755312801,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188204,
+      "num": 188204,
+      "word": "大屏上的张予曦",
+      "onboard_time": 1755351746,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 187261,
@@ -1763,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172022,
+      "num": 227010,
+      "word": "苍山遇难7岁男童妈妈称将追责到底",
+      "onboard_time": 1755350545,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171456,
       "num": 171456,
       "word": "啤酒节塌架事故被提级调查",
@@ -1867,14 +1907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165418,
-      "num": 165418,
-      "word": "俄乌冲突将以牺牲乌克兰利益结束",
-      "onboard_time": 1755350845,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 165352,
       "num": 165352,
       "word": "减肥1斤可抵物业费30元",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1755343822,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163255,
+      "num": 163255,
+      "word": "廖三宁12分",
+      "onboard_time": 1755351626,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 163127,
@@ -2086,7 +2126,7 @@
       "raw_hot": 156018,
       "num": 156018,
       "word": "欧洲领导人联合声明",
-      "onboard_time": 1755349404,
+      "onboard_time": 1755349285,
       "rank": 48,
       "category": "国际时政"
     },
@@ -2190,7 +2230,7 @@
       "raw_hot": 149718,
       "num": 229712,
       "word": "台湾老百姓都清清楚楚看在眼里",
-      "onboard_time": 1755350485,
+      "onboard_time": 1755350064,
       "rank": 27,
       "category": "国内时政"
     },
@@ -3203,14 +3243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 77995,
-      "num": 227010,
-      "word": "苍山遇难7岁男童妈妈称将追责到底",
-      "onboard_time": 1755350545,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77257,
       "num": 181329,
       "word": "亮证女处罚书审核人被问责",
@@ -3348,11 +3380,19 @@
     },
     {
       "raw_hot": 58830,
-      "num": 344438,
+      "num": 370333,
       "word": "尹浩宇皮肤状态",
       "onboard_time": 1755348083,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 56495,
+      "num": 197460,
+      "word": "多银行回应存取款超5万是否需登记",
+      "onboard_time": 1755350725,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55168,
@@ -3369,6 +3409,14 @@
       "onboard_time": 1755336142,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55056,
+      "num": 197421,
+      "word": "房主任说不让她摸新人被子的是公公",
+      "onboard_time": 1755350064,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 52616,
@@ -3451,14 +3499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41300,
-      "num": 197421,
-      "word": "房主任说不让她摸新人被子的是公公",
-      "onboard_time": 1755350064,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 41208,
       "num": 88743,
       "word": "中日友好医院副院长等多人被处理",
@@ -3491,14 +3531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36469,
-      "num": 197460,
-      "word": "多银行回应存取款超5万是否需登记",
-      "onboard_time": 1755350725,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33053,
       "num": 180983,
       "word": "动画梳理协和4加4调查结果",
@@ -3508,7 +3540,7 @@
     },
     {
       "raw_hot": 32504,
-      "num": 1170031,
+      "num": 1274169,
       "word": "神二十乘组圆满完成第三次出舱",
       "onboard_time": 1755271464,
       "rank": 2,

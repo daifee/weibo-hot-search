@@ -1,0 +1,410 @@
+{
+  "runTime": 1755351826855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1411480,
+        "num": 1411480,
+        "word": "中国男篮晋级亚洲杯决赛",
+        "onboard_time": 1755348925,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1281688,
+        "num": 1281688,
+        "word": "苏苏怀孕了",
+        "onboard_time": 1755350125,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4811,
+        "num": 1274169,
+        "word": "神二十乘组圆满完成第三次出舱",
+        "onboard_time": 1755271464,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1268895,
+        "num": 1268895,
+        "word": "苏超常州vs镇江",
+        "onboard_time": 1755350785,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1206201,
+        "num": 1206201,
+        "word": "你好星期六",
+        "onboard_time": 1755346643,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1106742,
+        "num": 1106742,
+        "word": "山东地震",
+        "onboard_time": 1755350364,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788147,
+        "num": 788147,
+        "word": "张凌赫友情出演生万物",
+        "onboard_time": 1755344544,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 784053,
+        "num": 784053,
+        "word": "李沁的睡姿",
+        "onboard_time": 1755346343,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682207,
+        "num": 682207,
+        "word": "范曾女儿回应家父被迫离家",
+        "onboard_time": 1755346824,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395519,
+        "num": 681404,
+        "word": "乘客吐槽高铁邻座400斤男子致拥挤",
+        "onboard_time": 1755347243,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 750051,
+        "num": 681292,
+        "word": "沈月泰国红毯",
+        "onboard_time": 1755346944,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 741872,
+        "num": 681210,
+        "word": "某工地用活犬祭祀",
+        "onboard_time": 1755348504,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681091,
+        "num": 681091,
+        "word": "微博文化交流之夜",
+        "onboard_time": 1755334102,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 678739,
+        "num": 678739,
+        "word": "李若彤被泰国海关质疑年龄",
+        "onboard_time": 1755340941,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663056,
+        "num": 663056,
+        "word": "小海绵一出生就是顶流待遇",
+        "onboard_time": 1755328942,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635436,
+        "num": 635436,
+        "word": "苏超",
+        "onboard_time": 1755343343,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456281,
+        "num": 456281,
+        "word": "中国男篮vs新西兰男篮",
+        "onboard_time": 1755342142,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416358,
+        "num": 416358,
+        "word": "33岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755342500,
+        "rank": 17,
+        "category": "健康医疗,休闲"
+      },
+      {
+        "raw_hot": 385129,
+        "num": 385129,
+        "word": "苏超第九轮常州队vs镇江队",
+        "onboard_time": 1755346463,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55081,
+        "num": 370333,
+        "word": "尹浩宇皮肤状态",
+        "onboard_time": 1755348083,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 387134,
+        "num": 366250,
+        "word": "内娱4张权威脸同框了",
+        "onboard_time": 1755348745,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357577,
+        "num": 357577,
+        "word": "朋友圈三天可见 置顶特别长",
+        "onboard_time": 1755339443,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 267965,
+        "num": 267965,
+        "word": "谢娜 王一博师姐",
+        "onboard_time": 1755346703,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262152,
+        "num": 262152,
+        "word": "李世民扮演者称演员要养家糊口",
+        "onboard_time": 1755340825,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250741,
+        "num": 250741,
+        "word": "严浩翔直播",
+        "onboard_time": 1755346582,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247017,
+        "num": 247017,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1755350125,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235510,
+        "num": 235510,
+        "word": "Son 刘轩丞",
+        "onboard_time": 1755345503,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147594,
+        "num": 224497,
+        "word": "台湾老百姓都清清楚楚看在眼里",
+        "onboard_time": 1755350064,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186999,
+        "num": 222975,
+        "word": "张艺兴祝孙红雷顺心顺意",
+        "onboard_time": 1755347843,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172022,
+        "num": 222854,
+        "word": "苍山遇难7岁男童妈妈称将追责到底",
+        "onboard_time": 1755350545,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222846,
+        "num": 222846,
+        "word": "美国连体双胞胎姐妹其中一人疑生子",
+        "onboard_time": 1755338244,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 222340,
+        "num": 222340,
+        "word": "苏超无锡vs徐州",
+        "onboard_time": 1755351506,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208942,
+        "num": 208942,
+        "word": "生万物",
+        "onboard_time": 1755344363,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200884,
+        "num": 200884,
+        "word": "谢娜是乐华的第一个签约艺人",
+        "onboard_time": 1755351506,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196504,
+        "num": 196504,
+        "word": "邓为 中暑",
+        "onboard_time": 1755341783,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195759,
+        "num": 195759,
+        "word": "谢娜给张子墨亿点小小的主持震撼",
+        "onboard_time": 1755350545,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195694,
+        "num": 195694,
+        "word": "华晨宇音乐节银发大屏直拍",
+        "onboard_time": 1755350905,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193481,
+        "num": 193481,
+        "word": "俄乌冲突将以牺牲乌克兰利益结束",
+        "onboard_time": 1755350845,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55056,
+        "num": 190401,
+        "word": "房主任说不让她摸新人被子的是公公",
+        "onboard_time": 1755350064,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 56495,
+        "num": 188438,
+        "word": "多银行回应存取款超5万是否需登记",
+        "onboard_time": 1755350725,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188204,
+        "num": 188204,
+        "word": "大屏上的张予曦",
+        "onboard_time": 1755351746,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176905,
+        "num": 176905,
+        "word": "你好星期六预告",
+        "onboard_time": 1755349463,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163255,
+        "num": 163255,
+        "word": "廖三宁12分",
+        "onboard_time": 1755351626,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160561,
+        "num": 160561,
+        "word": "亚洲杯",
+        "onboard_time": 1755345142,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145085,
+        "num": 145085,
+        "word": "经常视奸自己的朋友圈",
+        "onboard_time": 1755345443,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140382,
+        "num": 140382,
+        "word": "欧洲领导人联合声明",
+        "onboard_time": 1755349285,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139867,
+        "num": 139867,
+        "word": "胡明轩三分",
+        "onboard_time": 1755349764,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137510,
+        "num": 137510,
+        "word": "赵睿喜极而泣",
+        "onboard_time": 1755349404,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135327,
+        "num": 135327,
+        "word": "微信支付宝免提现手续费教程",
+        "onboard_time": 1755337823,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135109,
+        "num": 135109,
+        "word": "水果刀插入3岁女童颅脑",
+        "onboard_time": 1755332300,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以实际行动促进民营经济健康发展#"
+    }
+  }
+}
