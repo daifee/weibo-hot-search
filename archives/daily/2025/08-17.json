@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755383093574,
+  "endTime": 1755384127364,
   "band_list": [
     {
       "raw_hot": 1063937,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84306,
+      "num": 84306,
+      "word": "姑姑霸占侄女房子居住近10年",
+      "onboard_time": 1755349045,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83815,
       "num": 196701,
       "word": "上海一奶茶店天花板掉落致1死",
@@ -377,6 +385,14 @@
       "onboard_time": 1755357323,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80508,
+      "num": 80508,
+      "word": "特朗普提议泽连斯基达成协议",
+      "onboard_time": 1755378314,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80173,
@@ -427,24 +443,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 69992,
-      "num": 69992,
-      "word": "特朗普提议泽连斯基达成协议",
-      "onboard_time": 1755378314,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 64743,
-      "num": 64743,
-      "word": "姑姑霸占侄女房子居住近10年",
-      "onboard_time": 1755349045,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60971,
-      "num": 66767,
+      "raw_hot": 70067,
+      "num": 70067,
       "word": "半年流失14万人峨眉山怎么了",
       "onboard_time": 1755340521,
       "rank": 45,
@@ -459,7 +459,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52007,
+      "raw_hot": 52892,
       "num": 85121,
       "word": "李世民扮演者称演员要养家糊口",
       "onboard_time": 1755340825,
@@ -523,8 +523,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37176,
-      "num": 37176,
+      "raw_hot": 38733,
+      "num": 38733,
       "word": "卫健局回应水果刀插入3岁女童颅脑",
       "onboard_time": 1755352945,
       "rank": 32,
@@ -555,8 +555,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 28748,
-      "num": 28748,
+      "raw_hot": 31403,
+      "num": 31403,
       "word": "房主任自曝嫁给前夫原因",
       "onboard_time": 1755340760,
       "rank": 49,
@@ -579,12 +579,28 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 25180,
+      "num": 25180,
+      "word": "男子吃外卖后上吐下泻险瘫痪",
+      "onboard_time": 1755357143,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23867,
       "num": 34673,
       "word": "蒲熠星新歌",
       "onboard_time": 1755371596,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23648,
+      "num": 23648,
+      "word": "普通家庭对女儿最好的托举",
+      "onboard_time": 1755343041,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 23149,
@@ -603,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23042,
+      "num": 23042,
+      "word": "恋综上看到了男生的喜欢真的很明显",
+      "onboard_time": 1755348504,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22690,
       "num": 34664,
       "word": "银魂",
@@ -619,12 +643,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20901,
-      "num": 20901,
-      "word": "男子吃外卖后上吐下泻险瘫痪",
-      "onboard_time": 1755357143,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 21457,
+      "num": 21457,
+      "word": "张维伊对董璇说咱们有酒窝就够了",
+      "onboard_time": 1755335900,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 20315,
@@ -635,28 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19837,
-      "num": 19837,
-      "word": "普通家庭对女儿最好的托举",
-      "onboard_time": 1755343041,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 19095,
       "num": 19095,
       "word": "亚洲杯",
       "onboard_time": 1755345142,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18912,
-      "num": 18912,
-      "word": "恋综上看到了男生的喜欢真的很明显",
-      "onboard_time": 1755348504,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 17121,
