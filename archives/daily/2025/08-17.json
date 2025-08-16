@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755384127364,
+  "endTime": 1755386658521,
   "band_list": [
     {
       "raw_hot": 1063937,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231105,
+      "num": 231105,
+      "word": "俄乌冲突将以牺牲乌克兰利益结束",
+      "onboard_time": 1755350845,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218160,
       "num": 218160,
       "word": "iG对战TES",
@@ -153,14 +161,6 @@
       "onboard_time": 1755340941,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215276,
-      "num": 215276,
-      "word": "俄乌冲突将以牺牲乌克兰利益结束",
-      "onboard_time": 1755350845,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 211268,
@@ -193,6 +193,14 @@
       "onboard_time": 1755359183,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151409,
+      "num": 151409,
+      "word": "姑姑霸占侄女房子居住近10年",
+      "onboard_time": 1755349045,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150078,
@@ -275,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120562,
+      "num": 120562,
+      "word": "半年流失14万人峨眉山怎么了",
+      "onboard_time": 1755340521,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117370,
       "num": 197802,
       "word": "杨幂再不好过如今也好过了",
@@ -299,6 +315,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106198,
+      "num": 106198,
+      "word": "李世民扮演者称演员要养家糊口",
+      "onboard_time": 1755340825,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102156,
+      "num": 197509,
+      "word": "台湾老百姓都清清楚楚看在眼里",
+      "onboard_time": 1755350064,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98074,
       "num": 196842,
       "word": "微信加密方法",
@@ -313,14 +345,6 @@
       "onboard_time": 1755361522,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91530,
-      "num": 197509,
-      "word": "台湾老百姓都清清楚楚看在眼里",
-      "onboard_time": 1755350064,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 90230,
@@ -352,14 +376,6 @@
       "word": "女子2年日服10粒牛黄解毒片中毒",
       "onboard_time": 1755356784,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84306,
-      "num": 84306,
-      "word": "姑姑霸占侄女房子居住近10年",
-      "onboard_time": 1755349045,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72523,
+      "num": 68529,
+      "word": "卫健局回应水果刀插入3岁女童颅脑",
+      "onboard_time": 1755352945,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71398,
       "num": 85637,
       "word": "好朋友的朋友不是你的朋友",
@@ -443,11 +467,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 70067,
-      "num": 70067,
-      "word": "半年流失14万人峨眉山怎么了",
-      "onboard_time": 1755340521,
-      "rank": 45,
+      "raw_hot": 58331,
+      "num": 58331,
+      "word": "未过本科线退2万涉事高中被立案调查",
+      "onboard_time": 1755385457,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -459,11 +483,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52892,
-      "num": 85121,
-      "word": "李世民扮演者称演员要养家糊口",
-      "onboard_time": 1755340825,
-      "rank": 42,
+      "raw_hot": 48623,
+      "num": 48623,
+      "word": "房主任自曝嫁给前夫原因",
+      "onboard_time": 1755340760,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -507,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41294,
+      "num": 41294,
+      "word": "恋综上看到了男生的喜欢真的很明显",
+      "onboard_time": 1755348504,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40179,
       "num": 45726,
       "word": "狼队vs曼城",
@@ -523,12 +555,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38733,
-      "num": 38733,
-      "word": "卫健局回应水果刀插入3岁女童颅脑",
-      "onboard_time": 1755352945,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 37448,
+      "num": 37448,
+      "word": "LPL",
+      "onboard_time": 1755386357,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 36541,
@@ -539,8 +571,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33676,
-      "num": 34646,
+      "raw_hot": 35824,
+      "num": 37142,
+      "word": "男子吃外卖后上吐下泻险瘫痪",
+      "onboard_time": 1755357143,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34123,
+      "num": 37142,
       "word": "感动中国",
       "onboard_time": 1755358345,
       "rank": 48,
@@ -555,12 +595,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 31403,
-      "num": 31403,
-      "word": "房主任自曝嫁给前夫原因",
-      "onboard_time": 1755340760,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 32626,
+      "num": 37140,
+      "word": "普通家庭对女儿最好的托举",
+      "onboard_time": 1755343041,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 30941,
+      "num": 37138,
+      "word": "张晚意又是你",
+      "onboard_time": 1755348623,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 28645,
@@ -579,28 +627,12 @@
       "category": "互联网,体育"
     },
     {
-      "raw_hot": 25180,
-      "num": 25180,
-      "word": "男子吃外卖后上吐下泻险瘫痪",
-      "onboard_time": 1755357143,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23867,
       "num": 34673,
       "word": "蒲熠星新歌",
       "onboard_time": 1755371596,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23648,
-      "num": 23648,
-      "word": "普通家庭对女儿最好的托举",
-      "onboard_time": 1755343041,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 23149,
@@ -617,14 +649,6 @@
       "onboard_time": 1755378074,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23042,
-      "num": 23042,
-      "word": "恋综上看到了男生的喜欢真的很明显",
-      "onboard_time": 1755348504,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 22690,

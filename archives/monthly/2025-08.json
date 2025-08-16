@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755384127364,
+  "endTime": 1755386658521,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -29083,6 +29083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151409,
+      "num": 489889,
+      "word": "姑姑霸占侄女房子居住近10年",
+      "onboard_time": 1755349045,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151393,
       "num": 151393,
       "word": "GPT5",
@@ -29433,14 +29441,6 @@
       "onboard_time": 1754209103,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 149833,
-      "num": 489889,
-      "word": "姑姑霸占侄女房子居住近10年",
-      "onboard_time": 1755349045,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149735,
@@ -50275,6 +50275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58331,
+      "num": 58331,
+      "word": "未过本科线退2万涉事高中被立案调查",
+      "onboard_time": 1755385457,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58311,
       "num": 102474,
       "word": "多地宣布针对带娃难发钱",
@@ -52707,6 +52715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37448,
+      "num": 37448,
+      "word": "LPL",
+      "onboard_time": 1755386357,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 37444,
       "num": 63011,
       "word": "谢霆锋杭州演唱会",
@@ -53337,6 +53353,14 @@
       "onboard_time": 1754587396,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32626,
+      "num": 37140,
+      "word": "普通家庭对女儿最好的托举",
+      "onboard_time": 1755343041,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 32577,
@@ -54369,14 +54393,6 @@
       "onboard_time": 1753986315,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23648,
-      "num": 23648,
-      "word": "普通家庭对女儿最好的托举",
-      "onboard_time": 1755343041,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 23625,
