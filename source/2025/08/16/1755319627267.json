@@ -1,0 +1,410 @@
+{
+  "runTime": 1755319627267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640026,
+        "num": 1640026,
+        "word": "贺峻霖四级成绩",
+        "onboard_time": 1755300798,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1201460,
+        "num": 1201460,
+        "word": "韩立结婴",
+        "onboard_time": 1755314123,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 24280,
+        "num": 1170031,
+        "word": "神二十乘组圆满完成第三次出舱",
+        "onboard_time": 1755271464,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154852,
+        "num": 1154852,
+        "word": "生万物破万",
+        "onboard_time": 1755318562,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 811363,
+        "num": 811363,
+        "word": "B站崩了",
+        "onboard_time": 1755314301,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 375267,
+        "num": 796040,
+        "word": "王楚钦将参加北大新生考试",
+        "onboard_time": 1755317841,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 850934,
+        "num": 795676,
+        "word": "那英 综艺蝗虫",
+        "onboard_time": 1755316100,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 795307,
+        "num": 795307,
+        "word": "金智源确诊白血病",
+        "onboard_time": 1755303440,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386404,
+        "num": 386404,
+        "word": "凡人修仙传",
+        "onboard_time": 1755314422,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 365359,
+        "num": 365359,
+        "word": "广东100%的蚊子出现抗药性",
+        "onboard_time": 1755311840,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 919351,
+        "num": 364289,
+        "word": "飞行学员被曝出轨10余名女子",
+        "onboard_time": 1755312141,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678368,
+        "num": 363600,
+        "word": "千万别被网上的独居精致生活骗了",
+        "onboard_time": 1755315921,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 655193,
+        "num": 362242,
+        "word": "李沁说在张若昀婚礼把妆化费要回来了",
+        "onboard_time": 1755307460,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631168,
+        "num": 361467,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1755315682,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534735,
+        "num": 359719,
+        "word": "梓渝杂志",
+        "onboard_time": 1755318622,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 472512,
+        "num": 358807,
+        "word": "渝光同行照亮回家路",
+        "onboard_time": 1755318562,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422650,
+        "num": 357962,
+        "word": "朋友圈跳赞",
+        "onboard_time": 1755316940,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202028,
+        "num": 357146,
+        "word": "康如 樊振东",
+        "onboard_time": 1755316940,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148300,
+        "num": 355209,
+        "word": "朱雨玲谈樊振东征战德甲",
+        "onboard_time": 1755317422,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38647,
+        "num": 354497,
+        "word": "看屏千遍不如见龚俊一面",
+        "onboard_time": 1755315381,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353648,
+        "num": 353648,
+        "word": "梓渝登人民交通杂志封面",
+        "onboard_time": 1755317301,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328258,
+        "num": 328258,
+        "word": "普京说俄永远记得俄美曾共对敌人",
+        "onboard_time": 1755310821,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276993,
+        "num": 276993,
+        "word": "生万物",
+        "onboard_time": 1755310579,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264641,
+        "num": 264641,
+        "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
+        "onboard_time": 1755318143,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249562,
+        "num": 249562,
+        "word": "太湖湾音乐节阵容",
+        "onboard_time": 1755315321,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241223,
+        "num": 241223,
+        "word": "你好星期六有自己的歌王之战",
+        "onboard_time": 1755312562,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208127,
+        "num": 208127,
+        "word": "献鱼开播",
+        "onboard_time": 1755317422,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137913,
+        "num": 201041,
+        "word": "蜜雪冰城未开封奶茶惊现蟑螂",
+        "onboard_time": 1755270203,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123100,
+        "num": 200785,
+        "word": "男子为提前3年退休篡改人事档案",
+        "onboard_time": 1755319402,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118483,
+        "num": 200764,
+        "word": "美俄元首会晤仓促记者蒙了",
+        "onboard_time": 1755312801,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200760,
+        "num": 200760,
+        "word": "以闪亮之名",
+        "onboard_time": 1755318922,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203002,
+        "num": 200748,
+        "word": "普京特朗普未达成协议",
+        "onboard_time": 1755300497,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200131,
+        "num": 200131,
+        "word": "花儿与少年7",
+        "onboard_time": 1755318622,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197442,
+        "num": 197442,
+        "word": "男子买避孕药出轨曝光涉事店员已休假",
+        "onboard_time": 1755269544,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182749,
+        "num": 182749,
+        "word": "国色芳华的顾问竟然是00后",
+        "onboard_time": 1755318262,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169287,
+        "num": 169287,
+        "word": "来战",
+        "onboard_time": 1755318981,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167584,
+        "num": 167584,
+        "word": "R1SE睡觉也在开演唱会",
+        "onboard_time": 1755319281,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157687,
+        "num": 157687,
+        "word": "肖战坐我旁边",
+        "onboard_time": 1755299778,
+        "rank": 37,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 156655,
+        "num": 156655,
+        "word": "蔡文静把米白色穿得好权威",
+        "onboard_time": 1755319162,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119682,
+        "num": 154620,
+        "word": "刘晓艳说四六级是求职硬通货",
+        "onboard_time": 1755318800,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153790,
+        "num": 153790,
+        "word": "韩立结婴特效",
+        "onboard_time": 1755318922,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139841,
+        "num": 139841,
+        "word": "男子入室抢劫拍业主裸照并杀人",
+        "onboard_time": 1755315741,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68580,
+        "num": 135915,
+        "word": "在下悟空是也要进组拍戏了",
+        "onboard_time": 1755314123,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134902,
+        "num": 134902,
+        "word": "暧昧了21集的crush是杀父仇人",
+        "onboard_time": 1755319522,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134768,
+        "num": 134768,
+        "word": "女子将饮酒后的男友踹下河致其溺亡",
+        "onboard_time": 1755312861,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132502,
+        "num": 132502,
+        "word": "生万物娘好好一窝",
+        "onboard_time": 1755318081,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128254,
+        "num": 128254,
+        "word": "丁禹兮 范思哲",
+        "onboard_time": 1755313461,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125017,
+        "num": 125017,
+        "word": "十二点之后表演不算上春晚",
+        "onboard_time": 1755311482,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108628,
+        "num": 120382,
+        "word": "四六级查分",
+        "onboard_time": 1755299718,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104938,
+        "num": 118298,
+        "word": "男孩掰断艺术品监控被播放12年",
+        "onboard_time": 1755306501,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}

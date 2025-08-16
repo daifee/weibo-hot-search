@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755318768373,
+  "endTime": 1755319627267,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -9,6 +9,14 @@
       "onboard_time": 1755269544,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1640026,
+      "num": 1640026,
+      "word": "贺峻霖四级成绩",
+      "onboard_time": 1755300798,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1590892,
@@ -24,14 +32,6 @@
       "word": "张真源",
       "onboard_time": 1755275720,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1521082,
-      "num": 1423239,
-      "word": "贺峻霖四级成绩",
-      "onboard_time": 1755300798,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1154852,
+      "num": 1154852,
+      "word": "生万物破万",
+      "onboard_time": 1755318562,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 979413,
       "num": 206282,
       "word": "宋亚轩",
@@ -83,7 +91,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 834707,
+      "raw_hot": 850934,
       "num": 834707,
       "word": "那英 综艺蝗虫",
       "onboard_time": 1755316100,
@@ -121,6 +129,14 @@
       "onboard_time": 1755315682,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 678368,
+      "num": 557414,
+      "word": "千万别被网上的独居精致生活骗了",
+      "onboard_time": 1755315921,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 664328,
@@ -179,20 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 557414,
-      "num": 557414,
-      "word": "千万别被网上的独居精致生活骗了",
-      "onboard_time": 1755315921,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 538505,
       "num": 270946,
       "word": "敬我的女儿魔童降世",
       "onboard_time": 1755303920,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 534735,
+      "num": 359719,
+      "word": "梓渝杂志",
+      "onboard_time": 1755318622,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 522852,
@@ -227,6 +243,14 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 472512,
+      "num": 431114,
+      "word": "渝光同行照亮回家路",
+      "onboard_time": 1755318562,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472445,
       "num": 472445,
       "word": "居民存款减少1.11万亿去哪了",
@@ -259,20 +283,20 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 431114,
-      "num": 431114,
-      "word": "渝光同行照亮回家路",
-      "onboard_time": 1755318562,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428430,
       "num": 404631,
       "word": "租了半年房发现灯罩里有摄像头",
       "onboard_time": 1755305720,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422650,
+      "num": 357962,
+      "word": "朋友圈跳赞",
+      "onboard_time": 1755316940,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 419569,
@@ -305,6 +329,14 @@
       "onboard_time": 1755311840,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375267,
+      "num": 796040,
+      "word": "王楚钦将参加北大新生考试",
+      "onboard_time": 1755317841,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 360022,
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 298170,
-      "num": 229435,
+      "num": 276993,
       "word": "生万物",
       "onboard_time": 1755310579,
       "rank": 24,
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 284969,
-      "num": 228426,
+      "num": 249562,
       "word": "太湖湾音乐节阵容",
       "onboard_time": 1755315321,
       "rank": 22,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 284247,
-      "num": 284247,
+      "num": 357146,
       "word": "康如 樊振东",
       "onboard_time": 1755316940,
       "rank": 16,
@@ -443,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264641,
+      "num": 264641,
+      "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
+      "onboard_time": 1755318143,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262847,
       "num": 262847,
       "word": "登陆少年演唱会官宣海口",
@@ -457,14 +497,6 @@
       "onboard_time": 1755311482,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252621,
-      "num": 252621,
-      "word": "王楚钦将参加北大新生考试",
-      "onboard_time": 1755317841,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 252054,
@@ -507,14 +539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 238276,
-      "num": 238276,
-      "word": "朋友圈跳赞",
-      "onboard_time": 1755316940,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 233595,
       "num": 233595,
       "word": "特朗普机场迎接普京",
@@ -555,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215746,
-      "num": 215746,
-      "word": "梓渝杂志",
-      "onboard_time": 1755318622,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 214731,
       "num": 271334,
       "word": "新华社记者直击美俄总统会晤现场",
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 213450,
-      "num": 213450,
+      "num": 355209,
       "word": "朱雨玲谈樊振东征战德甲",
       "onboard_time": 1755317422,
       "rank": 25,
@@ -619,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200760,
+      "num": 200760,
+      "word": "以闪亮之名",
+      "onboard_time": 1755318922,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200377,
       "num": 200377,
       "word": "脂包骨身材是最差体质",
@@ -627,12 +651,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 190054,
-      "num": 190054,
-      "word": "生万物破万",
-      "onboard_time": 1755318562,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 200131,
+      "num": 200131,
+      "word": "花儿与少年7",
+      "onboard_time": 1755318622,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 188593,
@@ -747,20 +771,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174129,
-      "num": 174129,
-      "word": "花儿与少年7",
-      "onboard_time": 1755318622,
+      "raw_hot": 169287,
+      "num": 169287,
+      "word": "来战",
+      "onboard_time": 1755318981,
       "rank": 35,
-      "category": "综艺"
+      "category": "剧集"
     },
     {
-      "raw_hot": 170650,
-      "num": 170650,
-      "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
-      "onboard_time": 1755318143,
+      "raw_hot": 167584,
+      "num": 167584,
+      "word": "R1SE睡觉也在开演唱会",
+      "onboard_time": 1755319281,
       "rank": 36,
-      "category": "民生新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 164314,
@@ -851,12 +875,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156655,
+      "num": 156655,
+      "word": "蔡文静把米白色穿得好权威",
+      "onboard_time": 1755319162,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155321,
       "num": 155321,
       "word": "朱一龙说自己是个长期主义者",
       "onboard_time": 1755264863,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153790,
+      "num": 153790,
+      "word": "韩立结婴特效",
+      "onboard_time": 1755318922,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 151121,
@@ -979,6 +1019,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 134902,
+      "num": 134902,
+      "word": "暧昧了21集的crush是杀父仇人",
+      "onboard_time": 1755319522,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134674,
       "num": 134674,
       "word": "雷军送2000份玄戒O1芯片",
@@ -1036,7 +1084,7 @@
     },
     {
       "raw_hot": 125581,
-      "num": 125581,
+      "num": 135915,
       "word": "在下悟空是也要进组拍戏了",
       "onboard_time": 1755314123,
       "rank": 46,
@@ -1065,6 +1113,14 @@
       "onboard_time": 1755315140,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123100,
+      "num": 200785,
+      "word": "男子为提前3年退休篡改人事档案",
+      "onboard_time": 1755319402,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120647,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1755312622,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119682,
+      "num": 154620,
+      "word": "刘晓艳说四六级是求职硬通货",
+      "onboard_time": 1755318800,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 115970,
@@ -1404,7 +1468,7 @@
     },
     {
       "raw_hot": 46824,
-      "num": 235575,
+      "num": 354497,
       "word": "看屏千遍不如见龚俊一面",
       "onboard_time": 1755315381,
       "rank": 19,
@@ -1468,7 +1532,7 @@
     },
     {
       "raw_hot": 26861,
-      "num": 1076494,
+      "num": 1170031,
       "word": "神二十乘组圆满完成第三次出舱",
       "onboard_time": 1755271464,
       "rank": 2,
@@ -1532,6 +1596,9 @@
     },
     {
       "word": "#跟着总书记走进抗战纪念地#"
+    },
+    {
+      "word": "#一步一履只为大江换新颜#"
     }
   ]
 }
