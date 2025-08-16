@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755355279136,
+  "endTime": 1755357932933,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1561808,
+      "num": 1561808,
+      "word": "常州终于进球了",
+      "onboard_time": 1755354684,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1561612,
       "num": 423581,
       "word": "黄奕女儿被网友抗议出道",
@@ -2201,14 +2209,6 @@
       "onboard_time": 1754215345,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1208910,
-      "num": 1208910,
-      "word": "常州终于进球了",
-      "onboard_time": 1755354684,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1207299,
@@ -5971,6 +5971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632778,
+      "num": 488841,
+      "word": "谢娜是乐华的第一个签约艺人",
+      "onboard_time": 1755351506,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 632334,
       "num": 632334,
       "word": "男子还原奔驰女司机亮证逼迫让路过程",
@@ -6569,14 +6577,6 @@
       "onboard_time": 1754455824,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 591528,
-      "num": 488841,
-      "word": "谢娜是乐华的第一个签约艺人",
-      "onboard_time": 1755351506,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 591023,
@@ -9579,6 +9579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422874,
+      "num": 422874,
+      "word": "12306回应高铁遇体型宽大邻座乘客",
+      "onboard_time": 1755354923,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422515,
       "num": 422515,
       "word": "多伦多市中心几乎全是印度人",
@@ -11753,6 +11761,14 @@
       "onboard_time": 1755198854,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337256,
+      "num": 337256,
+      "word": "郑钦文获颁感动中国年度人物",
+      "onboard_time": 1755355944,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 336712,
@@ -15457,6 +15473,14 @@
       "onboard_time": 1755077664,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244382,
+      "num": 199431,
+      "word": "孟子义我拿奖啦",
+      "onboard_time": 1755356303,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 244311,
@@ -21195,6 +21219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190793,
+      "num": 190793,
+      "word": "常州苏超首胜",
+      "onboard_time": 1755356664,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190745,
       "num": 190745,
       "word": "男宝星球2排名",
@@ -23515,6 +23547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176790,
+      "num": 176790,
+      "word": "张杰新疆唱九妹",
+      "onboard_time": 1755357203,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176720,
       "num": 176720,
       "word": "一级演员陈佩华逝世",
@@ -24273,6 +24313,14 @@
       "onboard_time": 1755152843,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172579,
+      "num": 172579,
+      "word": "卫健局回应水果刀插入3岁女童颅脑",
+      "onboard_time": 1755352945,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172569,
@@ -26267,6 +26315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162508,
+      "num": 162508,
+      "word": "谁给陶喆捅了这么大的篓子",
+      "onboard_time": 1755355944,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162458,
       "num": 162458,
       "word": "女村支书因出场方式太特别走红",
@@ -26987,6 +27043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159316,
+      "num": 159316,
+      "word": "郭士强功不可没",
+      "onboard_time": 1755356484,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159308,
       "num": 159308,
       "word": "育儿补贴被母婴商家偷走了吗",
@@ -27145,14 +27209,6 @@
       "onboard_time": 1755254062,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158724,
-      "num": 158724,
-      "word": "卫健局回应水果刀插入3岁女童颅脑",
-      "onboard_time": 1755352945,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158711,
@@ -29299,6 +29355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149833,
+      "num": 489889,
+      "word": "姑姑霸占侄女房子居住近10年",
+      "onboard_time": 1755349045,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149735,
       "num": 204361,
       "word": "钟镇涛女儿小小年纪杀疯了",
@@ -29889,6 +29953,14 @@
       "onboard_time": 1754560943,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147760,
+      "num": 147760,
+      "word": "GAI 首位体育场说唱歌手",
+      "onboard_time": 1755357383,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 147754,
@@ -30793,14 +30865,6 @@
       "onboard_time": 1754998522,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144320,
-      "num": 144320,
-      "word": "12306回应高铁遇体型宽大邻座乘客",
-      "onboard_time": 1755354923,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144312,
@@ -32491,12 +32555,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138587,
+      "num": 138587,
+      "word": "微信加密方法",
+      "onboard_time": 1755356542,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138531,
       "num": 138531,
       "word": "没有然然和章阿姨相认的镜头",
       "onboard_time": 1754751924,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138521,
+      "num": 138521,
+      "word": "赵连平进球",
+      "onboard_time": 1755356902,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 138467,
@@ -32689,6 +32769,14 @@
       "onboard_time": 1754235264,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137918,
+      "num": 137918,
+      "word": "赵睿关键三分球点燃全场",
+      "onboard_time": 1755357263,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 137902,
@@ -33401,14 +33489,6 @@
       "onboard_time": 1755148943,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 135824,
-      "num": 489889,
-      "word": "姑姑霸占侄女房子居住近10年",
-      "onboard_time": 1755349045,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135695,
@@ -35225,6 +35305,14 @@
       "onboard_time": 1754648360,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130165,
+      "num": 130165,
+      "word": "苏超排名",
+      "onboard_time": 1755357023,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 130151,
@@ -41497,6 +41585,14 @@
       "onboard_time": 1754100561,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111053,
+      "num": 111053,
+      "word": "范曾 徐萌",
+      "onboard_time": 1755356484,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111050,
@@ -49371,6 +49467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63637,
+      "num": 976738,
+      "word": "西藏在长大我也在长大",
+      "onboard_time": 1755355165,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63634,
       "num": 175127,
       "word": "小时候自以为是大圣长大后却发现",
@@ -49745,6 +49849,14 @@
       "onboard_time": 1755204974,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60171,
+      "num": 141044,
+      "word": "女子2年日服10粒牛黄解毒片中毒",
+      "onboard_time": 1755356784,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60129,
@@ -51032,6 +51144,14 @@
       "word": "官方回应7岁学生校外补习时坠亡",
       "onboard_time": 1754508734,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49132,
+      "num": 325243,
+      "word": "荣成车祸重伤女孩离世父亲发声",
+      "onboard_time": 1755357323,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -52409,6 +52529,14 @@
       "onboard_time": 1754903123,
       "rank": 19,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 37003,
+      "num": 139244,
+      "word": "男子吃外卖后上吐下泻险瘫痪",
+      "onboard_time": 1755357143,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36950,
@@ -54936,14 +55064,6 @@
       "word": "男子吐槽网购2斤鸡肉干1斤都是罐",
       "onboard_time": 1754479944,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12708,
-      "num": 976738,
-      "word": "西藏在长大我也在长大",
-      "onboard_time": 1755355165,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
