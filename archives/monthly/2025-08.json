@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755358802726,
+  "endTime": 1755361840317,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -3691,6 +3691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 874511,
+      "num": 912855,
+      "word": "12306回应高铁遇体型宽大邻座乘客",
+      "onboard_time": 1755354923,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 871820,
       "num": 871820,
       "word": "张小婉称家中蟑螂疑是快递运来",
@@ -7171,6 +7179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 559510,
+      "num": 559510,
+      "word": "iPhone一定要关掉的6个设置",
+      "onboard_time": 1755358824,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 559338,
       "num": 350624,
       "word": "利剑玫瑰评论异常",
@@ -8473,14 +8489,6 @@
       "onboard_time": 1753964123,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 477887,
-      "num": 477887,
-      "word": "12306回应高铁遇体型宽大邻座乘客",
-      "onboard_time": 1755354923,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 477621,
@@ -10377,6 +10385,14 @@
       "onboard_time": 1754983822,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 389752,
+      "num": 313787,
+      "word": "孟子义我拿奖啦",
+      "onboard_time": 1755356303,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 389139,
@@ -12545,14 +12561,6 @@
       "onboard_time": 1754115022,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 313787,
-      "num": 313787,
-      "word": "孟子义我拿奖啦",
-      "onboard_time": 1755356303,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 313494,
@@ -14745,6 +14753,14 @@
       "onboard_time": 1754226863,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 259187,
+      "num": 220281,
+      "word": "GAI 首位体育场说唱歌手",
+      "onboard_time": 1755357383,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 259126,
@@ -17011,14 +17027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220281,
-      "num": 220281,
-      "word": "GAI 首位体育场说唱歌手",
-      "onboard_time": 1755357383,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 220220,
       "num": 220220,
       "word": "八月对我好一点",
@@ -17161,6 +17169,14 @@
       "onboard_time": 1754790381,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218160,
+      "num": 218160,
+      "word": "iG对战TES",
+      "onboard_time": 1755359843,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 218156,
@@ -23521,6 +23537,14 @@
       "onboard_time": 1754105181,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176911,
+      "num": 176911,
+      "word": "普京返俄美国出动F35护航",
+      "onboard_time": 1755358703,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176905,
@@ -32339,6 +32363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139287,
+      "num": 139287,
+      "word": "PP欧阳娜娜都好美",
+      "onboard_time": 1755359183,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139281,
       "num": 139281,
       "word": "灵笼2内核的境界",
@@ -36204,7 +36236,7 @@
     },
     {
       "raw_hot": 127557,
-      "num": 127557,
+      "num": 131612,
       "word": "张艺兴唱了人鱼的眼泪",
       "onboard_time": 1755358345,
       "rank": 36,
@@ -43915,14 +43947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 102516,
-      "num": 102516,
-      "word": "普京返俄美国出动F35护航",
-      "onboard_time": 1755358703,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 102482,
       "num": 102482,
       "word": "新疆阿勒泰阿禾公路星河璀璨",
@@ -45129,6 +45153,14 @@
       "onboard_time": 1755137962,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97574,
+      "num": 131535,
+      "word": "生万物全员喊人加入俺门",
+      "onboard_time": 1755361161,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 97531,
@@ -46587,6 +46619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90230,
+      "num": 218116,
+      "word": "山东临朐地震",
+      "onboard_time": 1755360682,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90199,
       "num": 90199,
       "word": "上千艳照寄给公职人员5人被判刑",
@@ -46736,6 +46776,14 @@
       "word": "王艺迪4比2陈熠",
       "onboard_time": 1754793741,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89261,
+      "num": 131476,
+      "word": "赵睿一直在哭",
+      "onboard_time": 1755361222,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -46940,7 +46988,7 @@
     },
     {
       "raw_hot": 87638,
-      "num": 126882,
+      "num": 131594,
       "word": "泰国和短剧可以有多适配",
       "onboard_time": 1755358463,
       "rank": 37,
@@ -47105,6 +47153,22 @@
       "onboard_time": 1755069144,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86769,
+      "num": 131379,
+      "word": "中国男篮十年后重回决赛",
+      "onboard_time": 1755361522,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86682,
+      "num": 131409,
+      "word": "庞众望获颁感动中国年度人物",
+      "onboard_time": 1755360922,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 86485,
@@ -47819,6 +47883,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 81631,
+      "num": 364420,
+      "word": "荣成车祸重伤女孩离世父亲发声",
+      "onboard_time": 1755357323,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81547,
       "num": 81547,
       "word": "Doinb谈LPL下路现状",
@@ -48353,6 +48425,14 @@
       "onboard_time": 1754608158,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76201,
+      "num": 131009,
+      "word": "毕雯珺白西装花衬衫look",
+      "onboard_time": 1755361761,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 76050,
@@ -48952,14 +49032,6 @@
       "word": "粉红色版长江是中国人的浪漫",
       "onboard_time": 1754474905,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69797,
-      "num": 364420,
-      "word": "荣成车祸重伤女孩离世父亲发声",
-      "onboard_time": 1755357323,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
