@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755365973577,
+  "endTime": 1755369271352,
   "band_list": [
     {
       "raw_hot": 914588,
@@ -17,6 +17,14 @@
       "onboard_time": 1755354923,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 754282,
+      "num": 754282,
+      "word": "藏头诗",
+      "onboard_time": 1755367456,
+      "rank": 0,
+      "category": "读书作家"
     },
     {
       "raw_hot": 686137,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 285700,
-      "num": 197144,
+      "num": 277877,
       "word": "iPhone17Pro放弃钛金属原因",
       "onboard_time": 1755362001,
       "rank": 38,
@@ -483,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40179,
+      "num": 45726,
+      "word": "狼队vs曼城",
+      "onboard_time": 1755368356,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39960,
       "num": 197299,
       "word": "泰国和短剧可以有多适配",
@@ -497,6 +513,30 @@
       "onboard_time": 1755357982,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28655,
+      "num": 45434,
+      "word": "电影捕风追影",
+      "onboard_time": 1755369019,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 27784,
+      "num": 45393,
+      "word": "直播吧崩了",
+      "onboard_time": 1755366917,
+      "rank": 46,
+      "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 27118,
+      "num": 45351,
+      "word": "刘亦菲这段话救我千万次于水火",
+      "onboard_time": 1755347544,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

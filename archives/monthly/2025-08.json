@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755365973577,
+  "endTime": 1755369271352,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -4601,6 +4601,14 @@
       "onboard_time": 1754026042,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 754282,
+      "num": 754282,
+      "word": "藏头诗",
+      "onboard_time": 1755367456,
+      "rank": 0,
+      "category": "读书作家"
     },
     {
       "raw_hot": 754098,
@@ -13564,7 +13572,7 @@
     },
     {
       "raw_hot": 285700,
-      "num": 197144,
+      "num": 277877,
       "word": "iPhone17Pro放弃钛金属原因",
       "onboard_time": 1755362001,
       "rank": 38,
@@ -52411,6 +52419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40179,
+      "num": 45726,
+      "word": "狼队vs曼城",
+      "onboard_time": 1755368356,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40105,
       "num": 149836,
       "word": "别克至境L7",
@@ -53811,6 +53827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28655,
+      "num": 45434,
+      "word": "电影捕风追影",
+      "onboard_time": 1755369019,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28602,
       "num": 196923,
       "word": "男子行车时天降剪刀直扎车头",
@@ -53913,6 +53937,14 @@
       "onboard_time": 1754073017,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27784,
+      "num": 45393,
+      "word": "直播吧崩了",
+      "onboard_time": 1755366917,
+      "rank": 46,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 27476,
