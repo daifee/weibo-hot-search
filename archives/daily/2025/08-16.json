@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755348613050,
+  "endTime": 1755349497333,
   "band_list": [
     {
       "raw_hot": 2671492,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1366635,
+      "num": 1366635,
+      "word": "中国男篮vs新西兰男篮",
+      "onboard_time": 1755342142,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1352036,
       "num": 414439,
       "word": "贺峻霖晒白发严浩翔",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1092129,
-      "num": 392678,
+      "num": 958763,
       "word": "张凌赫友情出演生万物",
       "onboard_time": 1755344544,
       "rank": 3,
@@ -163,12 +171,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 979012,
+      "num": 979012,
+      "word": "中国男篮晋级亚洲杯决赛",
+      "onboard_time": 1755348925,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 964843,
       "num": 964843,
       "word": "B站崩了",
       "onboard_time": 1755314301,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 949865,
+      "num": 850169,
+      "word": "你好星期六",
+      "onboard_time": 1755346643,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 931674,
@@ -185,6 +209,14 @@
       "onboard_time": 1755314422,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 877459,
+      "num": 877459,
+      "word": "33岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755342500,
+      "rank": 32,
+      "category": "健康医疗,休闲"
     },
     {
       "raw_hot": 850934,
@@ -235,8 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 776757,
-      "num": 273681,
+      "raw_hot": 776874,
+      "num": 776874,
       "word": "李若彤被泰国海关质疑年龄",
       "onboard_time": 1755340941,
       "rank": 38,
@@ -265,14 +297,6 @@
       "onboard_time": 1755319882,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 701713,
-      "num": 271785,
-      "word": "你好星期六",
-      "onboard_time": 1755346643,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 682504,
@@ -307,14 +331,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 653955,
-      "num": 653955,
-      "word": "33岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1755342500,
-      "rank": 32,
-      "category": "健康医疗,休闲"
-    },
-    {
       "raw_hot": 648956,
       "num": 270407,
       "word": "严浩翔",
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 639682,
+      "num": 292792,
+      "word": "沈月泰国红毯",
+      "onboard_time": 1755346944,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 609773,
       "num": 609773,
       "word": "魔尊重楼扮演者去演短剧了",
@@ -345,6 +369,14 @@
       "onboard_time": 1755282736,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 596338,
+      "num": 283554,
+      "word": "李沁的睡姿",
+      "onboard_time": 1755346343,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 590269,
@@ -451,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520266,
+      "num": 520266,
+      "word": "亚洲杯",
+      "onboard_time": 1755345142,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 502786,
       "num": 297876,
       "word": "田曦薇早期素人直播",
@@ -521,14 +561,6 @@
       "onboard_time": 1755317301,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 469758,
-      "num": 264200,
-      "word": "沈月泰国红毯",
-      "onboard_time": 1755346944,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 465245,
@@ -603,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 411963,
-      "num": 263334,
-      "word": "李沁的睡姿",
-      "onboard_time": 1755346343,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 402370,
       "num": 264641,
       "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
@@ -660,19 +684,11 @@
     },
     {
       "raw_hot": 378267,
-      "num": 230277,
+      "num": 235354,
       "word": "严浩翔直播",
       "onboard_time": 1755346582,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362536,
-      "num": 362536,
-      "word": "中国男篮vs新西兰男篮",
-      "onboard_time": 1755342142,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 360022,
@@ -681,6 +697,14 @@
       "onboard_time": 1755273683,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352339,
+      "num": 236257,
+      "word": "谢娜 王一博师姐",
+      "onboard_time": 1755346703,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 352194,
@@ -772,7 +796,7 @@
     },
     {
       "raw_hot": 316148,
-      "num": 219291,
+      "num": 231415,
       "word": "张淼怡青岛音乐节造型",
       "onboard_time": 1755344902,
       "rank": 22,
@@ -827,12 +851,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303029,
-      "num": 215149,
-      "word": "谢娜 王一博师姐",
-      "onboard_time": 1755346703,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 306691,
+      "num": 306691,
+      "word": "苏超",
+      "onboard_time": 1755343343,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 298895,
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 269869,
-      "num": 185231,
+      "num": 230236,
       "word": "Son 刘轩丞",
       "onboard_time": 1755345503,
       "rank": 30,
@@ -947,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 262620,
+      "num": 262620,
+      "word": "范曾女儿回应家父被迫离家",
+      "onboard_time": 1755346824,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260731,
       "num": 260731,
       "word": "十二点之后表演不算上春晚",
@@ -961,6 +993,14 @@
       "onboard_time": 1755320902,
       "rank": 18,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 253848,
+      "num": 253848,
+      "word": "经常视奸自己的朋友圈",
+      "onboard_time": 1755345443,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 252054,
@@ -1011,28 +1051,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 241604,
-      "num": 241604,
-      "word": "经常视奸自己的朋友圈",
-      "onboard_time": 1755345443,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 241533,
       "num": 274537,
       "word": "特朗普暂时收回对俄威胁",
       "onboard_time": 1755313342,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 238259,
-      "num": 238259,
-      "word": "苏超",
-      "onboard_time": 1755343343,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 233854,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1755286334,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 229332,
+      "num": 229332,
+      "word": "乘客吐槽高铁邻座400斤男子致拥挤",
+      "onboard_time": 1755347243,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229252,
@@ -1091,12 +1123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222858,
+      "num": 222858,
+      "word": "某工地用活犬祭祀",
+      "onboard_time": 1755348504,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222691,
       "num": 222691,
       "word": "美俄元首会晤",
       "onboard_time": 1755275720,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 220454,
+      "num": 220454,
+      "word": "内娱4张权威脸同框了",
+      "onboard_time": 1755348745,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 219476,
@@ -1123,16 +1171,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 214106,
-      "num": 214106,
-      "word": "范曾女儿回应家父被迫离家",
-      "onboard_time": 1755346824,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214031,
-      "num": 184483,
+      "num": 206748,
       "word": "张艺兴祝孙红雷顺心顺意",
       "onboard_time": 1755347843,
       "rank": 33,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1755336023,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205028,
+      "num": 205028,
+      "word": "严浩翔让Rapeter直通总决赛",
+      "onboard_time": 1755349164,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 204897,
@@ -1339,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189116,
-      "num": 189116,
-      "word": "乘客吐槽高铁邻座400斤男子致拥挤",
-      "onboard_time": 1755347243,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188924,
       "num": 188924,
       "word": "对接称刘亦菲不去W盛典",
@@ -1443,12 +1483,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 184188,
-      "num": 184188,
-      "word": "某工地用活犬祭祀",
-      "onboard_time": 1755348504,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 184754,
+      "num": 184754,
+      "word": "丞磊你以前剧宣可不这样",
+      "onboard_time": 1755347903,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 183707,
@@ -1481,14 +1521,6 @@
       "onboard_time": 1755341722,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 182843,
-      "num": 166815,
-      "word": "丞磊你以前剧宣可不这样",
-      "onboard_time": 1755347903,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 181689,
@@ -1531,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179781,
+      "num": 174147,
+      "word": "恋综上看到了男生的喜欢真的很明显",
+      "onboard_time": 1755348504,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179279,
       "num": 179279,
       "word": "特朗普给特普会打满分",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1755327442,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175528,
+      "num": 175528,
+      "word": "荣成车祸进ICU小孩不幸去世",
+      "onboard_time": 1755347963,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175462,
@@ -1723,20 +1771,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165753,
-      "num": 165753,
-      "word": "亚洲杯",
-      "onboard_time": 1755345142,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165352,
       "num": 165352,
       "word": "减肥1斤可抵物业费30元",
       "onboard_time": 1755330743,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164389,
+      "num": 164389,
+      "word": "张晚意又是你",
+      "onboard_time": 1755348623,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 164314,
@@ -1809,6 +1857,14 @@
       "onboard_time": 1755267504,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160571,
+      "num": 160571,
+      "word": "你好星期六预告",
+      "onboard_time": 1755349463,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 160393,
@@ -1955,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154439,
+      "num": 154439,
+      "word": "中国男篮全民皆兵",
+      "onboard_time": 1755349404,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154262,
       "num": 207729,
       "word": "崩坏星穹铁道",
@@ -2057,6 +2121,14 @@
       "onboard_time": 1755299177,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 148011,
+      "num": 148011,
+      "word": "上海一奶茶店天花板掉落致1死",
+      "onboard_time": 1755347724,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147593,
@@ -2187,14 +2259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139561,
-      "num": 139561,
-      "word": "恋综上看到了男生的喜欢真的很明显",
-      "onboard_time": 1755348504,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139331,
       "num": 139331,
       "word": "谢娜时隔八年再唱天下",
@@ -2204,19 +2268,11 @@
     },
     {
       "raw_hot": 139143,
-      "num": 139143,
+      "num": 232057,
       "word": "中方回应日本政要参拜靖国神社",
       "onboard_time": 1755343702,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 138251,
-      "num": 138251,
-      "word": "上海一奶茶店天花板掉落致1死",
-      "onboard_time": 1755347724,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137393,
@@ -2617,14 +2673,6 @@
       "onboard_time": 1755335183,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119089,
-      "num": 171299,
-      "word": "荣成车祸进ICU小孩不幸去世",
-      "onboard_time": 1755347963,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118907,
@@ -3123,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68861,
+      "num": 176207,
+      "word": "女子被诱导屏幕共享吓到发抖",
+      "onboard_time": 1755349345,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63471,
       "num": 348363,
       "word": "面膜男孩刘轩丞",
@@ -3185,6 +3241,14 @@
       "onboard_time": 1755336142,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54900,
+      "num": 239426,
+      "word": "尹浩宇皮肤状态",
+      "onboard_time": 1755348083,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 52616,
@@ -3275,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40782,
+      "num": 221151,
+      "word": "范曾家宅被贴封条人去楼空",
+      "onboard_time": 1755348504,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39085,
       "num": 51853,
       "word": "黄子弘凡把浪浪山搬到演唱会",
@@ -3289,14 +3361,6 @@
       "onboard_time": 1755329242,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34680,
-      "num": 237587,
-      "word": "尹浩宇皮肤状态",
-      "onboard_time": 1755348083,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 33053,
@@ -3371,20 +3435,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20913,
+      "num": 161700,
+      "word": "赵睿喜极而泣",
+      "onboard_time": 1755349404,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20205,
+      "num": 238083,
+      "word": "自闭症男孩殒命涉事独立营未备案",
+      "onboard_time": 1755348745,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11949,
       "num": 49803,
       "word": "直击美俄元首会谈",
       "onboard_time": 1755266483,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10322,
-      "num": 168703,
-      "word": "范曾家宅被贴封条人去楼空",
-      "onboard_time": 1755348504,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10235,

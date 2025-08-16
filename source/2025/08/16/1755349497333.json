@@ -1,0 +1,410 @@
+{
+  "runTime": 1755349497333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1366635,
+        "num": 1366635,
+        "word": "中国男篮vs新西兰男篮",
+        "onboard_time": 1755342142,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1126646,
+        "num": 1126646,
+        "word": "微博文化交流之夜",
+        "onboard_time": 1755334102,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 5330,
+        "num": 1051950,
+        "word": "神二十乘组圆满完成第三次出舱",
+        "onboard_time": 1755271464,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 979012,
+        "num": 979012,
+        "word": "中国男篮晋级亚洲杯决赛",
+        "onboard_time": 1755348925,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 958763,
+        "num": 958763,
+        "word": "张凌赫友情出演生万物",
+        "onboard_time": 1755344544,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 877459,
+        "num": 877459,
+        "word": "33岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755342500,
+        "rank": 5,
+        "category": "健康医疗,休闲"
+      },
+      {
+        "raw_hot": 949865,
+        "num": 850169,
+        "word": "你好星期六",
+        "onboard_time": 1755346643,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 776874,
+        "num": 776874,
+        "word": "李若彤被泰国海关质疑年龄",
+        "onboard_time": 1755340941,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520266,
+        "num": 520266,
+        "word": "亚洲杯",
+        "onboard_time": 1755345142,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306691,
+        "num": 306691,
+        "word": "苏超",
+        "onboard_time": 1755343343,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 675989,
+        "num": 302224,
+        "word": "小海绵一出生就是顶流待遇",
+        "onboard_time": 1755328942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639682,
+        "num": 292792,
+        "word": "沈月泰国红毯",
+        "onboard_time": 1755346944,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 596338,
+        "num": 283554,
+        "word": "李沁的睡姿",
+        "onboard_time": 1755346343,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421833,
+        "num": 276860,
+        "word": "朋友圈三天可见 置顶特别长",
+        "onboard_time": 1755339443,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 412109,
+        "num": 269211,
+        "word": "李世民扮演者称演员要养家糊口",
+        "onboard_time": 1755340825,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262620,
+        "num": 262620,
+        "word": "范曾女儿回应家父被迫离家",
+        "onboard_time": 1755346824,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253848,
+        "num": 253848,
+        "word": "经常视奸自己的朋友圈",
+        "onboard_time": 1755345443,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239642,
+        "num": 239642,
+        "word": "微信支付宝免提现手续费教程",
+        "onboard_time": 1755337823,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54900,
+        "num": 239426,
+        "word": "尹浩宇皮肤状态",
+        "onboard_time": 1755348083,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20205,
+        "num": 238083,
+        "word": "自闭症男孩殒命涉事独立营未备案",
+        "onboard_time": 1755348745,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352339,
+        "num": 236257,
+        "word": "谢娜 王一博师姐",
+        "onboard_time": 1755346703,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314757,
+        "num": 235354,
+        "word": "严浩翔直播",
+        "onboard_time": 1755346582,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269015,
+        "num": 233576,
+        "word": "邓为 中暑",
+        "onboard_time": 1755341783,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72295,
+        "num": 232057,
+        "word": "中方回应日本政要参拜靖国神社",
+        "onboard_time": 1755343702,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264488,
+        "num": 231415,
+        "word": "张淼怡青岛音乐节造型",
+        "onboard_time": 1755344902,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240611,
+        "num": 230236,
+        "word": "Son 刘轩丞",
+        "onboard_time": 1755345503,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229332,
+        "num": 229332,
+        "word": "乘客吐槽高铁邻座400斤男子致拥挤",
+        "onboard_time": 1755347243,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225640,
+        "num": 225640,
+        "word": "生万物",
+        "onboard_time": 1755344363,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222858,
+        "num": 222858,
+        "word": "某工地用活犬祭祀",
+        "onboard_time": 1755348504,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40782,
+        "num": 221151,
+        "word": "范曾家宅被贴封条人去楼空",
+        "onboard_time": 1755348504,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220454,
+        "num": 220454,
+        "word": "内娱4张权威脸同框了",
+        "onboard_time": 1755348745,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206748,
+        "num": 206748,
+        "word": "张艺兴祝孙红雷顺心顺意",
+        "onboard_time": 1755347843,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217427,
+        "num": 206312,
+        "word": "美国连体双胞胎姐妹其中一人疑生子",
+        "onboard_time": 1755338244,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205028,
+        "num": 205028,
+        "word": "严浩翔让Rapeter直通总决赛",
+        "onboard_time": 1755349164,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193054,
+        "num": 193054,
+        "word": "刘轩丞红毯",
+        "onboard_time": 1755340941,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189486,
+        "num": 189486,
+        "word": "张予曦毕雯珺一起走红毯了",
+        "onboard_time": 1755346944,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184754,
+        "num": 184754,
+        "word": "丞磊你以前剧宣可不这样",
+        "onboard_time": 1755347903,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68861,
+        "num": 176207,
+        "word": "女子被诱导屏幕共享吓到发抖",
+        "onboard_time": 1755349345,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175528,
+        "num": 175528,
+        "word": "荣成车祸进ICU小孩不幸去世",
+        "onboard_time": 1755347963,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174151,
+        "num": 174151,
+        "word": "水果刀插入3岁女童颅脑",
+        "onboard_time": 1755332300,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179781,
+        "num": 174147,
+        "word": "恋综上看到了男生的喜欢真的很明显",
+        "onboard_time": 1755348504,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179710,
+        "num": 173732,
+        "word": "迪丽热巴说现在学习以后总会用到",
+        "onboard_time": 1755345984,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172871,
+        "num": 172871,
+        "word": "中央广播电视总台发布电影台标",
+        "onboard_time": 1755341961,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164389,
+        "num": 164389,
+        "word": "张晚意又是你",
+        "onboard_time": 1755348623,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20913,
+        "num": 161700,
+        "word": "赵睿喜极而泣",
+        "onboard_time": 1755349404,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160571,
+        "num": 160571,
+        "word": "你好星期六预告",
+        "onboard_time": 1755349463,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159646,
+        "num": 159646,
+        "word": "半年流失14万人峨眉山怎么了",
+        "onboard_time": 1755340521,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156930,
+        "num": 156930,
+        "word": "宋轶新中式千金",
+        "onboard_time": 1755345863,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154439,
+        "num": 154439,
+        "word": "中国男篮全民皆兵",
+        "onboard_time": 1755349404,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148011,
+        "num": 148011,
+        "word": "上海一奶茶店天花板掉落致1死",
+        "onboard_time": 1755347724,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以实际行动促进民营经济健康发展#"
+    }
+  }
+}

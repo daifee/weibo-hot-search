@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755348613050,
+  "endTime": 1755349497333,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1667,6 +1667,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1366635,
+      "num": 1366635,
+      "word": "中国男篮vs新西兰男篮",
+      "onboard_time": 1755342142,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1364527,
       "num": 1364527,
       "word": "警方通报14岁女孩校外被殴打",
@@ -2524,7 +2532,7 @@
     },
     {
       "raw_hot": 1092129,
-      "num": 392678,
+      "num": 958763,
       "word": "张凌赫友情出演生万物",
       "onboard_time": 1755344544,
       "rank": 3,
@@ -3067,6 +3075,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 979012,
+      "num": 979012,
+      "word": "中国男篮晋级亚洲杯决赛",
+      "onboard_time": 1755348925,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 975918,
       "num": 1027258,
       "word": "赵露思意外生病是自己赔钱",
@@ -3601,6 +3617,14 @@
       "onboard_time": 1754794821,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 877459,
+      "num": 877459,
+      "word": "33岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755342500,
+      "rank": 32,
+      "category": "健康医疗,休闲"
     },
     {
       "raw_hot": 875304,
@@ -4339,8 +4363,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 776757,
-      "num": 273681,
+      "raw_hot": 776874,
+      "num": 776874,
       "word": "李若彤被泰国海关质疑年龄",
       "onboard_time": 1755340941,
       "rank": 38,
@@ -5611,14 +5635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 653955,
-      "num": 653955,
-      "word": "33岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1755342500,
-      "rank": 32,
-      "category": "健康医疗,休闲"
-    },
-    {
       "raw_hot": 653827,
       "num": 653827,
       "word": "赵今麦领衔主演无可替代",
@@ -5801,6 +5817,14 @@
       "onboard_time": 1754803463,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 639682,
+      "num": 292792,
+      "word": "沈月泰国红毯",
+      "onboard_time": 1755346944,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 639289,
@@ -6393,6 +6417,14 @@
       "onboard_time": 1755232162,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596338,
+      "num": 283554,
+      "word": "李沁的睡姿",
+      "onboard_time": 1755346343,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 596323,
@@ -7659,6 +7691,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 520266,
+      "num": 520266,
+      "word": "亚洲杯",
+      "onboard_time": 1755345142,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 520239,
       "num": 520239,
       "word": "单依纯主持",
@@ -8561,14 +8601,6 @@
       "onboard_time": 1755317301,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 469758,
-      "num": 264200,
-      "word": "沈月泰国红毯",
-      "onboard_time": 1755346944,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 469295,
@@ -9675,14 +9707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411963,
-      "num": 263334,
-      "word": "李沁的睡姿",
-      "onboard_time": 1755346343,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 411579,
       "num": 411579,
       "word": "警方通报24岁快递员持刀划伤两业主",
@@ -10628,7 +10652,7 @@
     },
     {
       "raw_hot": 378267,
-      "num": 230277,
+      "num": 235354,
       "word": "严浩翔直播",
       "onboard_time": 1755346582,
       "rank": 20,
@@ -11003,14 +11027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362536,
-      "num": 362536,
-      "word": "中国男篮vs新西兰男篮",
-      "onboard_time": 1755342142,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 362440,
       "num": 362440,
       "word": "生娃能领7笔钱",
@@ -11273,6 +11289,14 @@
       "onboard_time": 1754562022,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 352339,
+      "num": 236257,
+      "word": "谢娜 王一博师姐",
+      "onboard_time": 1755346703,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 352194,
@@ -12324,7 +12348,7 @@
     },
     {
       "raw_hot": 316148,
-      "num": 219291,
+      "num": 231415,
       "word": "张淼怡青岛音乐节造型",
       "onboard_time": 1755344902,
       "rank": 22,
@@ -12659,6 +12683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306691,
+      "num": 417926,
+      "word": "苏超",
+      "onboard_time": 1754131882,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306316,
       "num": 306316,
       "word": "王楚钦孙颖莎领衔冲冠",
@@ -12753,14 +12785,6 @@
       "onboard_time": 1754870782,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303029,
-      "num": 215149,
-      "word": "谢娜 王一博师姐",
-      "onboard_time": 1755346703,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 302858,
@@ -13555,14 +13579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282224,
-      "num": 417926,
-      "word": "苏超",
-      "onboard_time": 1754131882,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 281911,
       "num": 281911,
       "word": "鹿晗机车服",
@@ -14020,7 +14036,7 @@
     },
     {
       "raw_hot": 269869,
-      "num": 185231,
+      "num": 230236,
       "word": "Son 刘轩丞",
       "onboard_time": 1755345503,
       "rank": 30,
@@ -14401,6 +14417,14 @@
       "onboard_time": 1755306981,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 262620,
+      "num": 262620,
+      "word": "范曾女儿回应家父被迫离家",
+      "onboard_time": 1755346824,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262222,
@@ -14849,6 +14873,14 @@
       "onboard_time": 1754957722,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 253848,
+      "num": 253848,
+      "word": "经常视奸自己的朋友圈",
+      "onboard_time": 1755345443,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 253781,
@@ -15465,14 +15497,6 @@
       "onboard_time": 1754485643,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241604,
-      "num": 241604,
-      "word": "经常视奸自己的朋友圈",
-      "onboard_time": 1755345443,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 241559,
@@ -16131,6 +16155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229332,
+      "num": 229332,
+      "word": "乘客吐槽高铁邻座400斤男子致拥挤",
+      "onboard_time": 1755347243,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229252,
       "num": 184736,
       "word": "迪丽热巴说现在学习以后总会用到",
@@ -16651,6 +16683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222858,
+      "num": 222858,
+      "word": "某工地用活犬祭祀",
+      "onboard_time": 1755348504,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222850,
       "num": 222850,
       "word": "宝马设计主管加入小米",
@@ -16824,6 +16864,14 @@
       "word": "purplekiss解散",
       "onboard_time": 1754279484,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220454,
+      "num": 220454,
+      "word": "内娱4张权威脸同框了",
+      "onboard_time": 1755348745,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -17339,16 +17387,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214106,
-      "num": 214106,
-      "word": "范曾女儿回应家父被迫离家",
-      "onboard_time": 1755346824,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214031,
-      "num": 184483,
+      "num": 206748,
       "word": "张艺兴祝孙红雷顺心顺意",
       "onboard_time": 1755347843,
       "rank": 33,
@@ -18441,6 +18481,14 @@
       "onboard_time": 1754735182,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205028,
+      "num": 205028,
+      "word": "严浩翔让Rapeter直通总决赛",
+      "onboard_time": 1755349164,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 204992,
@@ -21235,14 +21283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189116,
-      "num": 189116,
-      "word": "乘客吐槽高铁邻座400斤男子致拥挤",
-      "onboard_time": 1755347243,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189059,
       "num": 189059,
       "word": "易烊千玺北京演唱会海报",
@@ -22051,6 +22091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184754,
+      "num": 184754,
+      "word": "丞磊你以前剧宣可不这样",
+      "onboard_time": 1755347903,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184664,
       "num": 184664,
       "word": "iPhone17或9月9日发布",
@@ -22137,14 +22185,6 @@
       "onboard_time": 1755270383,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184188,
-      "num": 184188,
-      "word": "某工地用活犬祭祀",
-      "onboard_time": 1755348504,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184030,
@@ -22321,14 +22361,6 @@
       "onboard_time": 1754028802,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182843,
-      "num": 166815,
-      "word": "丞磊你以前剧宣可不这样",
-      "onboard_time": 1755347903,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 182837,
@@ -22864,6 +22896,14 @@
       "word": "王力宏单手徒手摘隐形眼镜",
       "onboard_time": 1754720304,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179781,
+      "num": 174147,
+      "word": "恋综上看到了男生的喜欢真的很明显",
+      "onboard_time": 1755348504,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -23537,6 +23577,14 @@
       "onboard_time": 1755257483,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175528,
+      "num": 175528,
+      "word": "荣成车祸进ICU小孩不幸去世",
+      "onboard_time": 1755347963,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175522,
@@ -25379,14 +25427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165753,
-      "num": 165753,
-      "word": "亚洲杯",
-      "onboard_time": 1755345142,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165740,
       "num": 165740,
       "word": "JDG战胜FPX",
@@ -25617,6 +25657,14 @@
       "onboard_time": 1754194227,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164389,
+      "num": 164389,
+      "word": "张晚意又是你",
+      "onboard_time": 1755348623,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 164380,
@@ -27915,6 +27963,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 154439,
+      "num": 154439,
+      "word": "中国男篮全民皆兵",
+      "onboard_time": 1755349404,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154379,
       "num": 174656,
       "word": "迟蓬夸杨幂",
@@ -29577,6 +29633,14 @@
       "onboard_time": 1754977283,
       "rank": 32,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 148011,
+      "num": 148011,
+      "word": "上海一奶茶店天花板掉落致1死",
+      "onboard_time": 1755347724,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148008,
@@ -31891,14 +31955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139561,
-      "num": 139561,
-      "word": "恋综上看到了男生的喜欢真的很明显",
-      "onboard_time": 1755348504,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139557,
       "num": 139557,
       "word": "DC漫威都得叫他一声前辈",
@@ -32036,7 +32092,7 @@
     },
     {
       "raw_hot": 139143,
-      "num": 139143,
+      "num": 232057,
       "word": "中方回应日本政要参拜靖国神社",
       "onboard_time": 1755343702,
       "rank": 44,
@@ -32313,14 +32369,6 @@
       "onboard_time": 1754722702,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138251,
-      "num": 138251,
-      "word": "上海一奶茶店天花板掉落致1死",
-      "onboard_time": 1755347724,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138224,
@@ -38585,14 +38633,6 @@
       "onboard_time": 1754554823,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119089,
-      "num": 171299,
-      "word": "荣成车祸进ICU小孩不幸去世",
-      "onboard_time": 1755347963,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119083,
@@ -48563,6 +48603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68861,
+      "num": 176207,
+      "word": "女子被诱导屏幕共享吓到发抖",
+      "onboard_time": 1755349345,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68747,
       "num": 68747,
       "word": "不要盲目补气血",
@@ -50025,6 +50073,14 @@
       "onboard_time": 1754750005,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54900,
+      "num": 239426,
+      "word": "尹浩宇皮肤状态",
+      "onboard_time": 1755348083,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 54811,
@@ -51643,6 +51699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40782,
+      "num": 221151,
+      "word": "范曾家宅被贴封条人去楼空",
+      "onboard_time": 1755348504,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40656,
       "num": 40656,
       "word": "淮安队打破苏超两个神话",
@@ -52393,14 +52457,6 @@
       "onboard_time": 1755000383,
       "rank": 18,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 34680,
-      "num": 237587,
-      "word": "尹浩宇皮肤状态",
-      "onboard_time": 1755348083,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 34633,
@@ -53915,6 +53971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20913,
+      "num": 161700,
+      "word": "赵睿喜极而泣",
+      "onboard_time": 1755349404,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20864,
       "num": 23530,
       "word": "微博就是我的朋友圈",
@@ -53944,6 +54008,14 @@
       "word": "马库斯一行计划11月去日本",
       "onboard_time": 1755010945,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20205,
+      "num": 238083,
+      "word": "自闭症男孩殒命涉事独立营未备案",
+      "onboard_time": 1755348745,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -54680,14 +54752,6 @@
       "word": "马库斯在中国驻法大使馆捐赠照片",
       "onboard_time": 1754422695,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10322,
-      "num": 168703,
-      "word": "范曾家宅被贴封条人去楼空",
-      "onboard_time": 1755348504,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
