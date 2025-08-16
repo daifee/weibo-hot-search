@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755361840317,
+  "endTime": 1755362724015,
   "band_list": [
     {
       "raw_hot": 874511,
@@ -11,20 +11,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 686137,
+      "num": 686137,
+      "word": "iPhone一定要关掉的6个设置",
+      "onboard_time": 1755358824,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 676162,
       "num": 676162,
       "word": "苏苏怀孕了",
       "onboard_time": 1755350125,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 559510,
-      "num": 559510,
-      "word": "iPhone一定要关掉的6个设置",
-      "onboard_time": 1755358824,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 511430,
@@ -83,7 +83,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273019,
+      "raw_hot": 277619,
       "num": 216849,
       "word": "张凌赫友情出演生万物",
       "onboard_time": 1755344544,
@@ -91,7 +91,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267761,
+      "raw_hot": 273058,
       "num": 216436,
       "word": "沈月泰国红毯",
       "onboard_time": 1755346944,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 216713,
-      "num": 165821,
+      "num": 198824,
       "word": "李若彤被泰国海关质疑年龄",
       "onboard_time": 1755340941,
       "rank": 20,
@@ -139,32 +139,40 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209734,
-      "num": 158623,
-      "word": "内娱4张权威脸同框了",
-      "onboard_time": 1755348745,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 176911,
-      "num": 176911,
+      "raw_hot": 211268,
+      "num": 211268,
       "word": "普京返俄美国出动F35护航",
       "onboard_time": 1755358703,
       "rank": 18,
       "category": "国际时政"
     },
     {
+      "raw_hot": 209734,
+      "num": 198977,
+      "word": "内娱4张权威脸同框了",
+      "onboard_time": 1755348745,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169302,
-      "num": 169302,
+      "num": 199184,
       "word": "中国男篮晋级亚洲杯决赛",
       "onboard_time": 1755348925,
       "rank": 19,
       "category": "体育"
     },
     {
+      "raw_hot": 154936,
+      "num": 198800,
+      "word": "PP欧阳娜娜都好美",
+      "onboard_time": 1755359183,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150078,
-      "num": 150078,
+      "num": 198533,
       "word": "水果刀插入3岁女童颅脑",
       "onboard_time": 1755332300,
       "rank": 22,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 149863,
-      "num": 149863,
+      "num": 198400,
       "word": "张晚意 猜猜第五张图里有什么",
       "onboard_time": 1755358644,
       "rank": 23,
@@ -180,55 +188,71 @@
     },
     {
       "raw_hot": 144612,
-      "num": 144612,
+      "num": 197679,
       "word": "郑钦文获颁感动中国年度人物",
       "onboard_time": 1755355944,
       "rank": 24,
       "category": "体育"
     },
     {
-      "raw_hot": 139287,
-      "num": 139287,
-      "word": "PP欧阳娜娜都好美",
-      "onboard_time": 1755359183,
-      "rank": 25,
+      "raw_hot": 143705,
+      "num": 198694,
+      "word": "张予曦给泰娱亿点震撼",
+      "onboard_time": 1755362182,
+      "rank": 23,
       "category": "演出"
     },
     {
-      "raw_hot": 134817,
-      "num": 134817,
-      "word": "张予曦毕雯珺闪耀泰兰德",
-      "onboard_time": 1755347784,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 134357,
-      "num": 134357,
+      "raw_hot": 139069,
+      "num": 198440,
       "word": "生万物",
       "onboard_time": 1755344363,
       "rank": 28,
       "category": "剧集"
     },
     {
-      "raw_hot": 133752,
-      "num": 133752,
+      "raw_hot": 135337,
+      "num": 199067,
       "word": "美国连体双胞胎姐妹其中一人疑生子",
       "onboard_time": 1755338244,
       "rank": 29,
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134817,
+      "num": 198087,
+      "word": "张予曦毕雯珺闪耀泰兰德",
+      "onboard_time": 1755347784,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 133594,
+      "num": 198196,
+      "word": "生万物全员喊人加入俺门",
+      "onboard_time": 1755361161,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131849,
-      "num": 131849,
+      "num": 197987,
       "word": "于文文戴眼镜完全主人级别",
       "onboard_time": 1755358101,
       "rank": 30,
       "category": "演出"
     },
     {
+      "raw_hot": 120624,
+      "num": 198186,
+      "word": "赵睿一直在哭",
+      "onboard_time": 1755361222,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117370,
-      "num": 131827,
+      "num": 197802,
       "word": "杨幂再不好过如今也好过了",
       "onboard_time": 1755354804,
       "rank": 31,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 114068,
-      "num": 131765,
+      "num": 197389,
       "word": "献鱼",
       "onboard_time": 1755349703,
       "rank": 32,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 110178,
-      "num": 131612,
+      "num": 197201,
       "word": "张艺兴唱了人鱼的眼泪",
       "onboard_time": 1755358345,
       "rank": 35,
@@ -252,23 +276,23 @@
     },
     {
       "raw_hot": 98074,
-      "num": 131732,
+      "num": 196842,
       "word": "微信加密方法",
       "onboard_time": 1755356542,
       "rank": 33,
       "category": "互联网"
     },
     {
-      "raw_hot": 97574,
-      "num": 131535,
-      "word": "生万物全员喊人加入俺门",
-      "onboard_time": 1755361161,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 93828,
+      "num": 197625,
+      "word": "中国男篮十年后重回决赛",
+      "onboard_time": 1755361522,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 91530,
-      "num": 131666,
+      "num": 197509,
       "word": "台湾老百姓都清清楚楚看在眼里",
       "onboard_time": 1755350064,
       "rank": 34,
@@ -283,24 +307,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89261,
-      "num": 131476,
-      "word": "赵睿一直在哭",
-      "onboard_time": 1755361222,
+      "raw_hot": 88567,
+      "num": 197144,
+      "word": "iPhone17Pro放弃钛金属原因",
+      "onboard_time": 1755362001,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 86769,
-      "num": 131379,
-      "word": "中国男篮十年后重回决赛",
-      "onboard_time": 1755361522,
-      "rank": 40,
-      "category": "体育"
+      "category": "数码"
     },
     {
       "raw_hot": 86682,
-      "num": 131409,
+      "num": 196853,
       "word": "庞众望获颁感动中国年度人物",
       "onboard_time": 1755360922,
       "rank": 39,
@@ -308,15 +324,23 @@
     },
     {
       "raw_hot": 86337,
-      "num": 131310,
+      "num": 196085,
       "word": "乘客吐槽高铁邻座400斤男子致拥挤",
       "onboard_time": 1755347243,
       "rank": 41,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86222,
+      "num": 196965,
+      "word": "女子2年日服10粒牛黄解毒片中毒",
+      "onboard_time": 1755356784,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83815,
-      "num": 131291,
+      "num": 196701,
       "word": "上海一奶茶店天花板掉落致1死",
       "onboard_time": 1755347724,
       "rank": 42,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 82641,
-      "num": 131227,
+      "num": 196445,
       "word": "33岁确诊胃癌前身体发出的信号",
       "onboard_time": 1755342500,
       "rank": 43,
@@ -340,47 +364,47 @@
     },
     {
       "raw_hot": 80173,
-      "num": 131142,
+      "num": 196182,
       "word": "苏超排名",
       "onboard_time": 1755357023,
       "rank": 45,
       "category": "体育"
     },
     {
-      "raw_hot": 80014,
-      "num": 131089,
-      "word": "女子2年日服10粒牛黄解毒片中毒",
-      "onboard_time": 1755356784,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77464,
-      "num": 131045,
-      "word": "郭士强功不可没",
-      "onboard_time": 1755356484,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 76201,
-      "num": 131009,
+      "raw_hot": 78710,
+      "num": 196581,
       "word": "毕雯珺白西装花衬衫look",
       "onboard_time": 1755361761,
       "rank": 48,
       "category": "演出"
     },
     {
+      "raw_hot": 77464,
+      "num": 195969,
+      "word": "郭士强功不可没",
+      "onboard_time": 1755356484,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75146,
-      "num": 130948,
+      "num": 196248,
       "word": "马思纯晒合照",
       "onboard_time": 1755351985,
       "rank": 49,
       "category": "综艺"
     },
     {
+      "raw_hot": 70946,
+      "num": 196367,
+      "word": "袁一琦蓝玫瑰花海麦架",
+      "onboard_time": 1755362481,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 45898,
-      "num": 585826,
+      "num": 646237,
       "word": "西藏在长大我也在长大",
       "onboard_time": 1755355165,
       "rank": 2,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 39960,
-      "num": 131594,
+      "num": 197299,
       "word": "泰国和短剧可以有多适配",
       "onboard_time": 1755358463,
       "rank": 36,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#一起共谱绿水青山曲#"
+    },
+    {
+      "word": "#跟着总书记走进抗战纪念地#"
     }
   ]
 }
