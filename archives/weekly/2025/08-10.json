@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755301202364,
+  "endTime": 1755309557056,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1521082,
+      "num": 502517,
+      "word": "贺峻霖四级成绩",
+      "onboard_time": 1755300798,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1516060,
       "num": 1516060,
       "word": "大暴雨特大暴雨要来了",
@@ -561,6 +569,14 @@
       "onboard_time": 1754874381,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1380015,
+      "num": 1380015,
+      "word": "金智源确诊白血病",
+      "onboard_time": 1755303440,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1376136,
@@ -1089,6 +1105,14 @@
       "onboard_time": 1754976982,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1000939,
+      "num": 263680,
+      "word": "李沁说在张若昀婚礼把妆化费要回来了",
+      "onboard_time": 1755307460,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 997255,
@@ -1793,6 +1817,14 @@
       "onboard_time": 1754777055,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 729752,
+      "num": 263484,
+      "word": "87岁著名书画家被娇妻卷走20亿",
+      "onboard_time": 1755301518,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 728755,
@@ -2923,12 +2955,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 502517,
-      "num": 502517,
-      "word": "贺峻霖四级成绩",
-      "onboard_time": 1755300798,
-      "rank": 4,
-      "category": "艺人"
+      "raw_hot": 505518,
+      "num": 263347,
+      "word": "敬我的女儿魔童降世",
+      "onboard_time": 1755303920,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 500403,
@@ -2953,6 +2985,14 @@
       "onboard_time": 1754967441,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498633,
+      "num": 498633,
+      "word": "特朗普迎接普京旁边放美军F22",
+      "onboard_time": 1755303619,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 497967,
@@ -3048,6 +3088,14 @@
       "word": "女子带5孩续面老板不同意和解",
       "onboard_time": 1755214099,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 488693,
+      "num": 488693,
+      "word": "普京特朗普未达成协议",
+      "onboard_time": 1755300497,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3857,6 +3905,14 @@
       "onboard_time": 1754878280,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396858,
+      "num": 361754,
+      "word": "杨幂说与欧豪合作是封神之战",
+      "onboard_time": 1755303019,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 394840,
@@ -5283,6 +5339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274064,
+      "num": 263063,
+      "word": "贾静雯晒咘咘10岁庆生照",
+      "onboard_time": 1755305661,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273350,
       "num": 209163,
       "word": "BIGBANG合体庆祝出道19周年",
@@ -5435,6 +5499,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 265204,
+      "num": 262958,
+      "word": "暴瘦10多斤女孩爬楼两次晕倒",
+      "onboard_time": 1755307041,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264039,
       "num": 264039,
       "word": "倪妮欣赏樊振东",
@@ -5449,6 +5521,14 @@
       "onboard_time": 1754991562,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262847,
+      "num": 262847,
+      "word": "登陆少年演唱会官宣海口",
+      "onboard_time": 1755306981,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 262084,
@@ -6211,6 +6291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223820,
+      "num": 223820,
+      "word": "居民存款搬家现象显现",
+      "onboard_time": 1755302359,
+      "rank": 18,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 223721,
       "num": 199596,
       "word": "梓渝窗边咬青提",
@@ -6553,6 +6641,14 @@
       "onboard_time": 1754882181,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210488,
+      "num": 210488,
+      "word": "租了半年房发现灯罩里有摄像头",
+      "onboard_time": 1755305720,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210344,
@@ -8171,6 +8267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186279,
+      "num": 263759,
+      "word": "特朗普称与普京很多问题达成一致",
+      "onboard_time": 1755308002,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186271,
       "num": 186271,
       "word": "献鱼暑期档唯一仙偶",
@@ -8641,6 +8745,14 @@
       "onboard_time": 1754969482,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179279,
+      "num": 179279,
+      "word": "特朗普给特普会打满分",
+      "onboard_time": 1755307222,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178939,
@@ -9411,6 +9523,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169489,
+      "num": 169489,
+      "word": "男孩掰断艺术品监控被播放12年",
+      "onboard_time": 1755306501,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169352,
+      "num": 169352,
+      "word": "新华社记者直击美俄总统会晤现场",
+      "onboard_time": 1755309261,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169146,
       "num": 169146,
       "word": "利剑玫瑰",
@@ -9705,6 +9833,14 @@
       "onboard_time": 1754890043,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164314,
+      "num": 164314,
+      "word": "范曾",
+      "onboard_time": 1755306201,
+      "rank": 28,
+      "category": "读书作家"
     },
     {
       "raw_hot": 164192,
@@ -10059,6 +10195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 159628,
+      "num": 159628,
+      "word": "普京记者会讲话全文",
+      "onboard_time": 1755305720,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159589,
       "num": 188743,
       "word": "Uzi微博上线了",
@@ -10345,6 +10489,14 @@
       "onboard_time": 1754819002,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156812,
+      "num": 156812,
+      "word": "男孩目睹母亲被害患应激性心理障碍",
+      "onboard_time": 1755305001,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156528,
@@ -10897,6 +11049,14 @@
       "onboard_time": 1754987843,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150657,
+      "num": 150657,
+      "word": "普京走红毯时B2飞过头顶",
+      "onboard_time": 1755307821,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150625,
@@ -11651,6 +11811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143369,
+      "num": 143369,
+      "word": "严浩翔刘耀文21比成12了",
+      "onboard_time": 1755301518,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143306,
       "num": 143306,
       "word": "水晶宫vs利物浦",
@@ -11803,6 +11971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141907,
+      "num": 141907,
+      "word": "普京对记者做鬼脸",
+      "onboard_time": 1755305779,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141889,
       "num": 141889,
       "word": "神二十乘组圆满完成第三次出舱",
@@ -11945,6 +12121,14 @@
       "onboard_time": 1754835563,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140688,
+      "num": 159647,
+      "word": "TOP 袋鼠妈妈",
+      "onboard_time": 1755307881,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 140624,
@@ -13731,6 +13915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126357,
+      "num": 126357,
+      "word": "iPhone17ProMax曝料",
+      "onboard_time": 1755300738,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 126326,
       "num": 126326,
       "word": "俄罗斯托夫市中心发生强烈爆炸",
@@ -14067,6 +14259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123678,
+      "num": 123678,
+      "word": "欧豪演技",
+      "onboard_time": 1755308841,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123623,
       "num": 123623,
       "word": "张极被人一头撞屁股上",
@@ -14243,6 +14443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121711,
+      "num": 121711,
+      "word": "只有近视眼才懂张予曦",
+      "onboard_time": 1755303799,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121692,
       "num": 121692,
       "word": "体制内的微信沟通礼仪",
@@ -14403,6 +14611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120647,
+      "num": 120647,
+      "word": "6岁小孩哥表演水花消失术",
+      "onboard_time": 1755307941,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120600,
       "num": 244570,
       "word": "师姐称景区遇害女生阳光开朗",
@@ -14441,6 +14657,14 @@
       "onboard_time": 1755182724,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 120459,
+      "num": 120459,
+      "word": "西安交警通报车辆被开上树",
+      "onboard_time": 1755303500,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120440,
@@ -15019,6 +15243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115970,
+      "num": 115970,
+      "word": "外国幼崽对沈月又亲又抱",
+      "onboard_time": 1755304821,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115954,
       "num": 115954,
       "word": "孙颖莎赶车",
@@ -15049,6 +15281,14 @@
       "onboard_time": 1755079463,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115679,
+      "num": 115679,
+      "word": "曝iPhone17Pro仍保留SIM卡槽",
+      "onboard_time": 1755307702,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 115671,
@@ -15697,6 +15937,14 @@
       "onboard_time": 1754836342,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111423,
+      "num": 111423,
+      "word": "深圳苹果新店开业有人连夜排队",
+      "onboard_time": 1755307640,
+      "rank": 46,
+      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 111314,
@@ -17347,6 +17595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98552,
+      "num": 98552,
+      "word": "孙颖莎连说2次想有更好表现",
+      "onboard_time": 1755306140,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98537,
       "num": 98537,
       "word": "这美甲可以留着可以给巨人戴",
@@ -17465,6 +17721,14 @@
       "onboard_time": 1754983703,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97149,
+      "num": 492224,
+      "word": "网警提醒小心指尖上的陷阱",
+      "onboard_time": 1755305541,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97066,
@@ -19019,14 +19283,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 69893,
-      "num": 69893,
-      "word": "iPhone17ProMax曝料",
-      "onboard_time": 1755300738,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 69839,
       "num": 69839,
       "word": "安静公主回应卖惨",
@@ -20456,14 +20712,6 @@
       "word": "游客起冲突喷防狼喷雾致多人不适",
       "onboard_time": 1755143003,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36369,
-      "num": 251439,
-      "word": "普京特朗普未达成协议",
-      "onboard_time": 1755300497,
-      "rank": 9,
       "category": "民生新闻"
     },
     {

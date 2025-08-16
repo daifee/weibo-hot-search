@@ -1,0 +1,410 @@
+{
+  "runTime": 1755309557056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1380015,
+        "num": 1380015,
+        "word": "金智源确诊白血病",
+        "onboard_time": 1755303440,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498633,
+        "num": 498633,
+        "word": "特朗普迎接普京旁边放美军F22",
+        "onboard_time": 1755303619,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97149,
+        "num": 492224,
+        "word": "网警提醒小心指尖上的陷阱",
+        "onboard_time": 1755305541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1521082,
+        "num": 491870,
+        "word": "贺峻霖四级成绩",
+        "onboard_time": 1755300798,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488693,
+        "num": 488693,
+        "word": "普京特朗普未达成协议",
+        "onboard_time": 1755300497,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363456,
+        "num": 363456,
+        "word": "居民存款减少1.11万亿去哪了",
+        "onboard_time": 1755270023,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 396858,
+        "num": 361754,
+        "word": "杨幂说与欧豪合作是封神之战",
+        "onboard_time": 1755303019,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349309,
+        "num": 349309,
+        "word": "普京特朗普一对一会晤改三对三",
+        "onboard_time": 1755282736,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263832,
+        "num": 263832,
+        "word": "美俄元首联合发布会",
+        "onboard_time": 1755299836,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186279,
+        "num": 263759,
+        "word": "特朗普称与普京很多问题达成一致",
+        "onboard_time": 1755308002,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1000939,
+        "num": 263680,
+        "word": "李沁说在张若昀婚礼把妆化费要回来了",
+        "onboard_time": 1755307460,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729752,
+        "num": 263484,
+        "word": "87岁著名书画家被娇妻卷走20亿",
+        "onboard_time": 1755301518,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505518,
+        "num": 263347,
+        "word": "敬我的女儿魔童降世",
+        "onboard_time": 1755303920,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307462,
+        "num": 263255,
+        "word": "续面老板回应店面700余条差评",
+        "onboard_time": 1755269363,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274064,
+        "num": 263063,
+        "word": "贾静雯晒咘咘10岁庆生照",
+        "onboard_time": 1755305661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265204,
+        "num": 262958,
+        "word": "暴瘦10多斤女孩爬楼两次晕倒",
+        "onboard_time": 1755307041,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262847,
+        "num": 262847,
+        "word": "登陆少年演唱会官宣海口",
+        "onboard_time": 1755306981,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246556,
+        "num": 246556,
+        "word": "肖战坐我旁边",
+        "onboard_time": 1755299778,
+        "rank": 17,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 223820,
+        "num": 223820,
+        "word": "居民存款搬家现象显现",
+        "onboard_time": 1755302359,
+        "rank": 18,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 215258,
+        "num": 215258,
+        "word": "四六级查分",
+        "onboard_time": 1755299718,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 434120,
+        "num": 213483,
+        "word": "男子买避孕药出轨曝光涉事店员已休假",
+        "onboard_time": 1755269544,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210488,
+        "num": 210488,
+        "word": "租了半年房发现灯罩里有摄像头",
+        "onboard_time": 1755305720,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194578,
+        "num": 194578,
+        "word": "蜜雪冰城未开封奶茶惊现蟑螂",
+        "onboard_time": 1755270203,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182368,
+        "num": 182368,
+        "word": "六级",
+        "onboard_time": 1755299718,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179279,
+        "num": 179279,
+        "word": "特朗普给特普会打满分",
+        "onboard_time": 1755307222,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169489,
+        "num": 169489,
+        "word": "男孩掰断艺术品监控被播放12年",
+        "onboard_time": 1755306501,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169352,
+        "num": 169352,
+        "word": "新华社记者直击美俄总统会晤现场",
+        "onboard_time": 1755309261,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168801,
+        "num": 168801,
+        "word": "宁绣绣封大脚圆房",
+        "onboard_time": 1755270925,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164314,
+        "num": 164314,
+        "word": "范曾",
+        "onboard_time": 1755306201,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 140688,
+        "num": 159647,
+        "word": "TOP 袋鼠妈妈",
+        "onboard_time": 1755307881,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159628,
+        "num": 159628,
+        "word": "普京记者会讲话全文",
+        "onboard_time": 1755305720,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157554,
+        "num": 157554,
+        "word": "董某莹成绩单造假",
+        "onboard_time": 1755249203,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156812,
+        "num": 156812,
+        "word": "男孩目睹母亲被害患应激性心理障碍",
+        "onboard_time": 1755305001,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152753,
+        "num": 152753,
+        "word": "女子5次试管后终怀孕却确诊肝癌",
+        "onboard_time": 1755269844,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150657,
+        "num": 150657,
+        "word": "普京走红毯时B2飞过头顶",
+        "onboard_time": 1755307821,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143369,
+        "num": 143369,
+        "word": "严浩翔刘耀文21比成12了",
+        "onboard_time": 1755301518,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141907,
+        "num": 141907,
+        "word": "普京对记者做鬼脸",
+        "onboard_time": 1755305779,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134110,
+        "num": 134110,
+        "word": "特朗普机场迎接普京",
+        "onboard_time": 1755286334,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129283,
+        "num": 129283,
+        "word": "魔尊重楼扮演者去演短剧了",
+        "onboard_time": 1755262402,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126357,
+        "num": 126357,
+        "word": "iPhone17ProMax曝料",
+        "onboard_time": 1755300738,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123678,
+        "num": 123678,
+        "word": "欧豪演技",
+        "onboard_time": 1755308841,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121711,
+        "num": 121711,
+        "word": "只有近视眼才懂张予曦",
+        "onboard_time": 1755303799,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120647,
+        "num": 120647,
+        "word": "6岁小孩哥表演水花消失术",
+        "onboard_time": 1755307941,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120459,
+        "num": 120459,
+        "word": "西安交警通报车辆被开上树",
+        "onboard_time": 1755303500,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115970,
+        "num": 115970,
+        "word": "外国幼崽对沈月又亲又抱",
+        "onboard_time": 1755304821,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115679,
+        "num": 115679,
+        "word": "曝iPhone17Pro仍保留SIM卡槽",
+        "onboard_time": 1755307702,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111423,
+        "num": 111423,
+        "word": "深圳苹果新店开业有人连夜排队",
+        "onboard_time": 1755307640,
+        "rank": 46,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 102051,
+        "num": 102051,
+        "word": "经常熬夜多吃3类食物",
+        "onboard_time": 1755267504,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102008,
+        "num": 102008,
+        "word": "企业加班通知走红 所有人涨薪25%",
+        "onboard_time": 1755274222,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98552,
+        "num": 98552,
+        "word": "孙颖莎连说2次想有更好表现",
+        "onboard_time": 1755306140,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对生态保护的嘱托#"
+    }
+  }
+}
