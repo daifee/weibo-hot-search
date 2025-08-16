@@ -1,0 +1,410 @@
+{
+  "runTime": 1755327010714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 750571,
+        "num": 1120091,
+        "word": "韩立结婴",
+        "onboard_time": 1755314123,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 639630,
+        "num": 639630,
+        "word": "贺峻霖四级成绩",
+        "onboard_time": 1755300798,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32504,
+        "num": 463352,
+        "word": "神二十乘组圆满完成第三次出舱",
+        "onboard_time": 1755271464,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1512675,
+        "num": 456792,
+        "word": "岳云鹏帮女艺人挡酒被换掉",
+        "onboard_time": 1755322882,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446830,
+        "num": 446830,
+        "word": "人民日报评肖某董某莹事件处置",
+        "onboard_time": 1755323302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219810,
+        "num": 219810,
+        "word": "普京说俄永远记得俄美曾共对敌人",
+        "onboard_time": 1755310821,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 559906,
+        "num": 216603,
+        "word": "金智源确诊白血病",
+        "onboard_time": 1755303440,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198609,
+        "num": 198609,
+        "word": "王楚钦将参加北大新生考试",
+        "onboard_time": 1755317841,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196875,
+        "num": 196875,
+        "word": "康如 樊振东",
+        "onboard_time": 1755316940,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46397,
+        "num": 196863,
+        "word": "香奈儿的蓝",
+        "onboard_time": 1755323182,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52616,
+        "num": 196833,
+        "word": "他们这样守护山水林田湖草沙",
+        "onboard_time": 1755326542,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1236357,
+        "num": 196804,
+        "word": "黄一鸣自曝公开孩子父亲的原因",
+        "onboard_time": 1755325642,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686647,
+        "num": 196750,
+        "word": "张维伊想当父亲是因为缺创作素材",
+        "onboard_time": 1755320241,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556938,
+        "num": 196726,
+        "word": "王嘉尔食物中毒",
+        "onboard_time": 1755321321,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 576884,
+        "num": 196693,
+        "word": "贺峻霖晒白发严浩翔",
+        "onboard_time": 1755321201,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534423,
+        "num": 196650,
+        "word": "朋友圈跳赞",
+        "onboard_time": 1755316940,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426550,
+        "num": 196615,
+        "word": "飞行学员被曝出轨10余名女子",
+        "onboard_time": 1755312141,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485786,
+        "num": 196615,
+        "word": "董璇张维伊曾达成一致不要二胎",
+        "onboard_time": 1755324862,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377454,
+        "num": 196581,
+        "word": "花少第一次行李没超重",
+        "onboard_time": 1755323661,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28146,
+        "num": 196531,
+        "word": "长痛短痛轮到哥哥们做选择了",
+        "onboard_time": 1755324381,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365972,
+        "num": 196488,
+        "word": "生万物破万",
+        "onboard_time": 1755318562,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318702,
+        "num": 196458,
+        "word": "杨幂说孩子就这两天出生",
+        "onboard_time": 1755319882,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286446,
+        "num": 196423,
+        "word": "沈佳润美美桑内传到郑秀妍了",
+        "onboard_time": 1755325942,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283227,
+        "num": 196417,
+        "word": "千万别被网上的独居精致生活骗了",
+        "onboard_time": 1755315921,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167359,
+        "num": 196375,
+        "word": "官方通报杭州地铁一乘客充电宝自燃",
+        "onboard_time": 1755325282,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 270760,
+        "num": 196344,
+        "word": "周扬青一句话在场男人都沉默了",
+        "onboard_time": 1755324862,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269310,
+        "num": 196301,
+        "word": "吻婴儿月嫂道歉称宝宝太可爱没忍住",
+        "onboard_time": 1755324560,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267837,
+        "num": 196263,
+        "word": "那英 综艺蝗虫",
+        "onboard_time": 1755316100,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124400,
+        "num": 196248,
+        "word": "王楚钦 路易威登",
+        "onboard_time": 1755320902,
+        "rank": 28,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 171990,
+        "num": 196207,
+        "word": "张晚意晕车实录",
+        "onboard_time": 1755324741,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249187,
+        "num": 196188,
+        "word": "iPhone充电坏习惯",
+        "onboard_time": 1755326482,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196159,
+        "num": 196159,
+        "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
+        "onboard_time": 1755318143,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176580,
+        "num": 176580,
+        "word": "梓渝杂志",
+        "onboard_time": 1755318622,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172828,
+        "num": 172828,
+        "word": "李现带着角色皮肤出组了",
+        "onboard_time": 1755325761,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170969,
+        "num": 170969,
+        "word": "迪丽热巴说我们是利剑也是玫瑰",
+        "onboard_time": 1755326183,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168107,
+        "num": 168107,
+        "word": "马嘉祺 生日快乐浩翔",
+        "onboard_time": 1755322641,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166019,
+        "num": 166019,
+        "word": "张纪中两个儿子发生争执",
+        "onboard_time": 1755325701,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154161,
+        "num": 154161,
+        "word": "宋亚轩 祝你一直做了不起的严浩翔",
+        "onboard_time": 1755321922,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36927,
+        "num": 150806,
+        "word": "咘咘越长越漂亮",
+        "onboard_time": 1755326904,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18913,
+        "num": 149710,
+        "word": "美国女孩被中国种草了",
+        "onboard_time": 1755326542,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148631,
+        "num": 148631,
+        "word": "开始懂了陈小春为什么总唱第一句",
+        "onboard_time": 1755323483,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147681,
+        "num": 147681,
+        "word": "肖战长得很帅还香香的男生",
+        "onboard_time": 1755323122,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148127,
+        "num": 147270,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1755315682,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146404,
+        "num": 146404,
+        "word": "偶遇俞灏明王晓晨旅游",
+        "onboard_time": 1755326904,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145759,
+        "num": 145759,
+        "word": "马思纯共情力",
+        "onboard_time": 1755326784,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135831,
+        "num": 135831,
+        "word": "比补觉更有效的休息方法",
+        "onboard_time": 1755324801,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135662,
+        "num": 135662,
+        "word": "严浩翔打火机生日转场",
+        "onboard_time": 1755324862,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106092,
+        "num": 135502,
+        "word": "广东100%的蚊子出现抗药性",
+        "onboard_time": 1755311840,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135354,
+        "num": 135354,
+        "word": "唐香玉五年没亲过嘴了",
+        "onboard_time": 1755323003,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135037,
+        "num": 135037,
+        "word": "减肥成功后就这样发朋友圈",
+        "onboard_time": 1755326962,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}

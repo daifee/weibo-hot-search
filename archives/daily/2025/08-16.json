@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755326189780,
+  "endTime": 1755327010714,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1626828,
-      "num": 388807,
+      "num": 456792,
       "word": "岳云鹏帮女艺人挡酒被换掉",
       "onboard_time": 1755322882,
       "rank": 44,
@@ -81,6 +81,14 @@
       "onboard_time": 1755318562,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1236357,
+      "num": 196804,
+      "word": "黄一鸣自曝公开孩子父亲的原因",
+      "onboard_time": 1755325642,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1189926,
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485786,
+      "num": 196615,
+      "word": "董璇张维伊曾达成一致不要二胎",
+      "onboard_time": 1755324862,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 482642,
       "num": 194910,
       "word": "马嘉祺",
@@ -332,11 +348,19 @@
     },
     {
       "raw_hot": 447174,
-      "num": 194021,
+      "num": 196581,
       "word": "花少第一次行李没超重",
       "onboard_time": 1755323661,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446830,
+      "num": 446830,
+      "word": "人民日报评肖某董某莹事件处置",
+      "onboard_time": 1755323302,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 428430,
@@ -363,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 413465,
-      "num": 190901,
-      "word": "董璇张维伊曾达成一致不要二胎",
-      "onboard_time": 1755324862,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 402370,
       "num": 264641,
       "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
@@ -393,14 +409,6 @@
       "onboard_time": 1755312021,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 381050,
-      "num": 381050,
-      "word": "人民日报评肖某董某莹事件处置",
-      "onboard_time": 1755323302,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 379548,
@@ -428,19 +436,11 @@
     },
     {
       "raw_hot": 350777,
-      "num": 189412,
+      "num": 196344,
       "word": "周扬青一句话在场男人都沉默了",
       "onboard_time": 1755324862,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340945,
-      "num": 188424,
-      "word": "黄一鸣自曝公开孩子父亲的原因",
-      "onboard_time": 1755325642,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 330095,
@@ -547,6 +547,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 286446,
+      "num": 196423,
+      "word": "沈佳润美美桑内传到郑秀妍了",
+      "onboard_time": 1755325942,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284969,
       "num": 249562,
       "word": "太湖湾音乐节阵容",
@@ -561,6 +569,14 @@
       "onboard_time": 1755305661,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269310,
+      "num": 196301,
+      "word": "吻婴儿月嫂道歉称宝宝太可爱没忍住",
+      "onboard_time": 1755324560,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265265,
@@ -609,6 +625,14 @@
       "onboard_time": 1755299718,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 249187,
+      "num": 196188,
+      "word": "iPhone充电坏习惯",
+      "onboard_time": 1755326482,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 244471,
@@ -705,14 +729,6 @@
       "onboard_time": 1755318081,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208374,
-      "num": 184090,
-      "word": "吻婴儿月嫂道歉称宝宝太可爱没忍住",
-      "onboard_time": 1755324560,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204897,
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 180618,
-      "num": 180618,
+      "num": 196207,
       "word": "张晚意晕车实录",
       "onboard_time": 1755324741,
       "rank": 32,
@@ -939,6 +955,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172828,
+      "num": 172828,
+      "word": "李现带着角色皮肤出组了",
+      "onboard_time": 1755325761,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170969,
+      "num": 170969,
+      "word": "迪丽热巴说我们是利剑也是玫瑰",
+      "onboard_time": 1755326183,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169287,
       "num": 169287,
       "word": "来战",
@@ -955,14 +987,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 168241,
-      "num": 168241,
-      "word": "沈佳润美美桑内传到郑秀妍了",
-      "onboard_time": 1755325942,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168053,
       "num": 168053,
       "word": "最适合东北人的健身操出现了",
@@ -977,6 +1001,22 @@
       "onboard_time": 1755319281,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167359,
+      "num": 196375,
+      "word": "官方通报杭州地铁一乘客充电宝自燃",
+      "onboard_time": 1755325282,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 166019,
+      "num": 169148,
+      "word": "张纪中两个儿子发生争执",
+      "onboard_time": 1755325701,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 164314,
@@ -1187,6 +1227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146404,
+      "num": 146404,
+      "word": "偶遇俞灏明王晓晨旅游",
+      "onboard_time": 1755326904,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145759,
+      "num": 145759,
+      "word": "马思纯共情力",
+      "onboard_time": 1755326784,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145539,
       "num": 145539,
       "word": "周深 云南白药",
@@ -1209,14 +1265,6 @@
       "onboard_time": 1755305779,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141178,
-      "num": 141178,
-      "word": "李现带着角色皮肤出组了",
-      "onboard_time": 1755325761,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 140898,
@@ -1283,6 +1331,30 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 135831,
+      "num": 135831,
+      "word": "比补觉更有效的休息方法",
+      "onboard_time": 1755324801,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135354,
+      "num": 135354,
+      "word": "唐香玉五年没亲过嘴了",
+      "onboard_time": 1755323003,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135037,
+      "num": 135037,
+      "word": "减肥成功后就这样发朋友圈",
+      "onboard_time": 1755326962,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134902,
       "num": 134902,
       "word": "暧昧了21集的crush是杀父仇人",
@@ -1297,14 +1369,6 @@
       "onboard_time": 1755310042,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 132848,
-      "num": 183431,
-      "word": "官方通报杭州地铁一乘客充电宝自燃",
-      "onboard_time": 1755325282,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 131727,
@@ -1803,6 +1867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52616,
+      "num": 196833,
+      "word": "他们这样守护山水林田湖草沙",
+      "onboard_time": 1755326542,
+      "rank": 10,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 51040,
       "num": 213889,
       "word": "美俄会谈地数百特工入驻",
@@ -1875,11 +1947,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36927,
+      "num": 150806,
+      "word": "咘咘越长越漂亮",
+      "onboard_time": 1755326904,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33053,
       "num": 180983,
       "word": "动画梳理协和4加4调查结果",
       "onboard_time": 1755320241,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32504,
+      "num": 1170031,
+      "word": "神二十乘组圆满完成第三次出舱",
+      "onboard_time": 1755271464,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1891,14 +1979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 29944,
-      "num": 1170031,
-      "word": "神二十乘组圆满完成第三次出舱",
-      "onboard_time": 1755271464,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29589,
       "num": 240465,
       "word": "烽火里的山东记忆",
@@ -1907,16 +1987,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28706,
-      "num": 169148,
-      "word": "张纪中两个儿子发生争执",
-      "onboard_time": 1755325701,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27238,
-      "num": 192174,
+      "raw_hot": 28146,
+      "num": 196531,
       "word": "长痛短痛轮到哥哥们做选择了",
       "onboard_time": 1755324381,
       "rank": 19,
@@ -1937,6 +2009,14 @@
       "onboard_time": 1755285675,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18913,
+      "num": 149710,
+      "word": "美国女孩被中国种草了",
+      "onboard_time": 1755326542,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11949,
