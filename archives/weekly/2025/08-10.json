@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755321958706,
+  "endTime": 1755322992152,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -603,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1352036,
+      "num": 302960,
+      "word": "贺峻霖晒白发严浩翔",
+      "onboard_time": 1755321201,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1342165,
       "num": 599388,
       "word": "第一次见粉丝塌房",
@@ -968,14 +976,6 @@
       "word": "梅婷生了个小梅婷",
       "onboard_time": 1755233303,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1087706,
-      "num": 260110,
-      "word": "贺峻霖晒白发严浩翔",
-      "onboard_time": 1755321201,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1499,6 +1499,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 844241,
+      "num": 287109,
+      "word": "张维伊想当父亲是因为缺创作素材",
+      "onboard_time": 1755320241,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 844223,
       "num": 620568,
       "word": "陈奕迅演唱会疑出现焦虑症躯体化",
@@ -1955,6 +1963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 717221,
+      "num": 276323,
+      "word": "杨幂说孩子就这两天出生",
+      "onboard_time": 1755319882,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 713411,
       "num": 713411,
       "word": "撒贝宁保送北大的真实原因",
@@ -2089,14 +2105,6 @@
       "onboard_time": 1755183083,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 679231,
-      "num": 257576,
-      "word": "杨幂说孩子就这两天出生",
-      "onboard_time": 1755319882,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 678368,
@@ -2617,14 +2625,6 @@
       "onboard_time": 1755256821,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 576289,
-      "num": 255154,
-      "word": "张维伊想当父亲是因为缺创作素材",
-      "onboard_time": 1755320241,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 573695,
@@ -3835,6 +3835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 421983,
+      "num": 255449,
+      "word": "王嘉尔食物中毒",
+      "onboard_time": 1755321321,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 421818,
       "num": 269420,
       "word": "生理性厌恶的7个躯体信号",
@@ -4795,6 +4803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324905,
+      "num": 191032,
+      "word": "宋亚轩 祝你一直做了不起的严浩翔",
+      "onboard_time": 1755321922,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324721,
       "num": 324721,
       "word": "恋综史上最尴尬的2分半",
@@ -4993,6 +5009,14 @@
       "onboard_time": 1755082823,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309552,
+      "num": 357146,
+      "word": "康如 樊振东",
+      "onboard_time": 1755316940,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 309262,
@@ -5352,14 +5376,6 @@
       "word": "王楚钦9冠孙颖莎12冠",
       "onboard_time": 1754971102,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 284247,
-      "num": 357146,
-      "word": "康如 樊振东",
-      "onboard_time": 1755316940,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -6473,14 +6489,6 @@
       "onboard_time": 1755240562,
       "rank": 22,
       "category": "财经,情感"
-    },
-    {
-      "raw_hot": 226554,
-      "num": 226554,
-      "word": "王嘉尔食物中毒",
-      "onboard_time": 1755321321,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 226545,
@@ -8267,6 +8275,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191055,
+      "num": 191055,
+      "word": "周一周五基础周六就不基础",
+      "onboard_time": 1755322821,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 190913,
+      "num": 190913,
+      "word": "马嘉祺 生日快乐浩翔",
+      "onboard_time": 1755322641,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190745,
       "num": 190745,
       "word": "男宝星球2排名",
@@ -9955,6 +9979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168053,
+      "num": 168053,
+      "word": "最适合东北人的健身操出现了",
+      "onboard_time": 1755322103,
+      "rank": 31,
+      "category": "幽默,运动健身"
+    },
+    {
       "raw_hot": 167584,
       "num": 167584,
       "word": "R1SE睡觉也在开演唱会",
@@ -10683,6 +10715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158855,
+      "num": 158855,
+      "word": "这一刻对张真源的高情商有了实感",
+      "onboard_time": 1755322162,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158832,
       "num": 158832,
       "word": "卢昱晓在车后窗追晚霞",
@@ -11201,6 +11241,14 @@
       "onboard_time": 1754979862,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153523,
+      "num": 153523,
+      "word": "缺4种营养素会大把掉头发",
+      "onboard_time": 1755322462,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153410,
@@ -12569,6 +12617,14 @@
       "onboard_time": 1755076283,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140835,
+      "num": 140835,
+      "word": "献鱼特效",
+      "onboard_time": 1755322283,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 140803,
@@ -14579,6 +14635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125353,
+      "num": 125353,
+      "word": "糯米团子孙颖莎",
+      "onboard_time": 1755322402,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125293,
       "num": 188007,
       "word": "张凌赫嘴里炒蚊子了",
@@ -14641,6 +14705,14 @@
       "onboard_time": 1754836404,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124661,
+      "num": 124661,
+      "word": "岳云鹏帮女艺人挡酒被换掉",
+      "onboard_time": 1755322882,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 124601,
@@ -14825,6 +14897,14 @@
       "onboard_time": 1754898742,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 123417,
+      "num": 191013,
+      "word": "全国多地物业费大跳水",
+      "onboard_time": 1755321562,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123414,
@@ -15411,6 +15491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118907,
+      "num": 118907,
+      "word": "演员秦杨肺腺癌0期后又突然失明",
+      "onboard_time": 1755322821,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118881,
       "num": 118881,
       "word": "舆情应对唯上不唯实是一种向上甩锅",
@@ -15665,6 +15753,14 @@
       "onboard_time": 1755166702,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117223,
+      "num": 117223,
+      "word": "时代少年团什么时候二开",
+      "onboard_time": 1755321802,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 117214,
@@ -16235,14 +16331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 113072,
-      "num": 113072,
-      "word": "宋亚轩 祝你一直做了不起的严浩翔",
-      "onboard_time": 1755321922,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113029,
       "num": 113029,
       "word": "这就是钢厂",
@@ -16265,14 +16353,6 @@
       "onboard_time": 1754974284,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112929,
-      "num": 112929,
-      "word": "全国多地物业费大跳水",
-      "onboard_time": 1755321562,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112872,
@@ -16401,14 +16481,6 @@
       "onboard_time": 1754900062,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112157,
-      "num": 112157,
-      "word": "时代少年团什么时候二开",
-      "onboard_time": 1755321802,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 111913,
@@ -17572,7 +17644,7 @@
     },
     {
       "raw_hot": 104831,
-      "num": 183132,
+      "num": 190939,
       "word": "感动中国2024年度人物",
       "onboard_time": 1755315802,
       "rank": 29,
@@ -19355,6 +19427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84162,
+      "num": 140743,
+      "word": "谁才是真的国漫之光",
+      "onboard_time": 1755322521,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 84042,
       "num": 84042,
       "word": "重庆一干部经常上班时间外出打牌",
@@ -20433,6 +20513,14 @@
       "onboard_time": 1755193277,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55380,
+      "num": 140705,
+      "word": "奥地利偶遇俞灏明王晓晨",
+      "onboard_time": 1755322462,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 55369,

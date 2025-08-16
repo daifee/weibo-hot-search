@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755321958706,
+  "endTime": 1755322992152,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1352036,
+      "num": 302960,
+      "word": "贺峻霖晒白发严浩翔",
+      "onboard_time": 1755321201,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1265061,
       "num": 357962,
       "word": "朋友圈跳赞",
@@ -73,14 +81,6 @@
       "onboard_time": 1755307460,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1087706,
-      "num": 260110,
-      "word": "贺峻霖晒白发严浩翔",
-      "onboard_time": 1755321201,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 979413,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 844241,
+      "num": 287109,
+      "word": "张维伊想当父亲是因为缺创作素材",
+      "onboard_time": 1755320241,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 804364,
       "num": 804364,
       "word": "蜜雪冰城未开封奶茶惊现蟑螂",
@@ -139,19 +147,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 717221,
+      "num": 276323,
+      "word": "杨幂说孩子就这两天出生",
+      "onboard_time": 1755319882,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 682504,
       "num": 682504,
       "word": "宋亚轩 敬山水",
       "onboard_time": 1755315682,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 679231,
-      "num": 257576,
-      "word": "杨幂说孩子就这两天出生",
-      "onboard_time": 1755319882,
-      "rank": 14,
       "category": "剧集"
     },
     {
@@ -209,14 +217,6 @@
       "onboard_time": 1755249203,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 576289,
-      "num": 255154,
-      "word": "张维伊想当父亲是因为缺创作素材",
-      "onboard_time": 1755320241,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 566245,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421983,
+      "num": 255449,
+      "word": "王嘉尔食物中毒",
+      "onboard_time": 1755321321,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 419569,
       "num": 418683,
       "word": "普京说俄永远记得俄美曾共对敌人",
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324905,
+      "num": 191032,
+      "word": "宋亚轩 祝你一直做了不起的严浩翔",
+      "onboard_time": 1755321922,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316206,
       "num": 316206,
       "word": "普京特朗普小范围会谈结束",
@@ -433,6 +449,14 @@
       "onboard_time": 1755273561,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309552,
+      "num": 357146,
+      "word": "康如 樊振东",
+      "onboard_time": 1755316940,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 308912,
@@ -481,14 +505,6 @@
       "onboard_time": 1755315321,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 284247,
-      "num": 357146,
-      "word": "康如 樊振东",
-      "onboard_time": 1755316940,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 283880,
@@ -585,14 +601,6 @@
       "onboard_time": 1755286334,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 226554,
-      "num": 226554,
-      "word": "王嘉尔食物中毒",
-      "onboard_time": 1755321321,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 224125,
@@ -705,6 +713,22 @@
       "onboard_time": 1755318622,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191055,
+      "num": 191055,
+      "word": "周一周五基础周六就不基础",
+      "onboard_time": 1755322821,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 190913,
+      "num": 190913,
+      "word": "马嘉祺 生日快乐浩翔",
+      "onboard_time": 1755322641,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 188593,
@@ -851,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168053,
+      "num": 168053,
+      "word": "最适合东北人的健身操出现了",
+      "onboard_time": 1755322103,
+      "rank": 31,
+      "category": "幽默,运动健身"
+    },
+    {
       "raw_hot": 167584,
       "num": 167584,
       "word": "R1SE睡觉也在开演唱会",
@@ -912,6 +944,14 @@
       "word": "陆虎袜子里穿了鞋垫",
       "onboard_time": 1755314902,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158855,
+      "num": 158855,
+      "word": "这一刻对张真源的高情商有了实感",
+      "onboard_time": 1755322162,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -977,6 +1017,14 @@
       "onboard_time": 1755318922,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 153523,
+      "num": 153523,
+      "word": "缺4种营养素会大把掉头发",
+      "onboard_time": 1755322462,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151121,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1755305779,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140835,
+      "num": 140835,
+      "word": "献鱼特效",
+      "onboard_time": 1755322283,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 139331,
@@ -1187,6 +1243,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125353,
+      "num": 125353,
+      "word": "糯米团子孙颖莎",
+      "onboard_time": 1755322402,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124661,
+      "num": 124661,
+      "word": "岳云鹏帮女艺人挡酒被换掉",
+      "onboard_time": 1755322882,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123417,
+      "num": 191013,
+      "word": "全国多地物业费大跳水",
+      "onboard_time": 1755321562,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123338,
       "num": 123338,
       "word": "微博奇遇记",
@@ -1243,6 +1323,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 118907,
+      "num": 118907,
+      "word": "演员秦杨肺腺癌0期后又突然失明",
+      "onboard_time": 1755322821,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117223,
+      "num": 117223,
+      "word": "时代少年团什么时候二开",
+      "onboard_time": 1755321802,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 116164,
+      "num": 116164,
+      "word": "披荆斩棘",
+      "onboard_time": 1755322521,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115970,
       "num": 115970,
       "word": "外国幼崽对沈月又亲又抱",
@@ -1265,30 +1369,6 @@
       "onboard_time": 1755316700,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 113072,
-      "num": 113072,
-      "word": "宋亚轩 祝你一直做了不起的严浩翔",
-      "onboard_time": 1755321922,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 112929,
-      "num": 112929,
-      "word": "全国多地物业费大跳水",
-      "onboard_time": 1755321562,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112157,
-      "num": 112157,
-      "word": "时代少年团什么时候二开",
-      "onboard_time": 1755321802,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 111423,
@@ -1324,7 +1404,7 @@
     },
     {
       "raw_hot": 104831,
-      "num": 183132,
+      "num": 190939,
       "word": "感动中国2024年度人物",
       "onboard_time": 1755315802,
       "rank": 29,
@@ -1451,6 +1531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84162,
+      "num": 140743,
+      "word": "谁才是真的国漫之光",
+      "onboard_time": 1755322521,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 84121,
       "num": 84121,
       "word": "免费续面 无限续面",
@@ -1571,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55380,
+      "num": 140705,
+      "word": "奥地利偶遇俞灏明王晓晨",
+      "onboard_time": 1755322462,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55168,
       "num": 55168,
       "word": "俄美总统阿拉斯加会面",
@@ -1667,7 +1763,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26861,
+      "raw_hot": 27955,
       "num": 1170031,
       "word": "神二十乘组圆满完成第三次出舱",
       "onboard_time": 1755271464,

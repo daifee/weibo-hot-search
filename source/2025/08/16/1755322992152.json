@@ -1,0 +1,410 @@
+{
+  "runTime": 1755322992152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 970224,
+        "num": 1155235,
+        "word": "生万物破万",
+        "onboard_time": 1755318562,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 890226,
+        "num": 890226,
+        "word": "韩立结婴",
+        "onboard_time": 1755314123,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 27955,
+        "num": 849973,
+        "word": "神二十乘组圆满完成第三次出舱",
+        "onboard_time": 1755271464,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 847210,
+        "num": 847210,
+        "word": "贺峻霖四级成绩",
+        "onboard_time": 1755300798,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394188,
+        "num": 394188,
+        "word": "王楚钦将参加北大新生考试",
+        "onboard_time": 1755317841,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355945,
+        "num": 355945,
+        "word": "B站崩了",
+        "onboard_time": 1755314301,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 636885,
+        "num": 345824,
+        "word": "金智源确诊白血病",
+        "onboard_time": 1755303440,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469579,
+        "num": 336443,
+        "word": "那英 综艺蝗虫",
+        "onboard_time": 1755316100,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309552,
+        "num": 309552,
+        "word": "康如 樊振东",
+        "onboard_time": 1755316940,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308515,
+        "num": 308515,
+        "word": "普京说俄永远记得俄美曾共对敌人",
+        "onboard_time": 1755310821,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1352036,
+        "num": 302960,
+        "word": "贺峻霖晒白发严浩翔",
+        "onboard_time": 1755321201,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014434,
+        "num": 298564,
+        "word": "朋友圈跳赞",
+        "onboard_time": 1755316940,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 844241,
+        "num": 287109,
+        "word": "张维伊想当父亲是因为缺创作素材",
+        "onboard_time": 1755320241,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717221,
+        "num": 276323,
+        "word": "杨幂说孩子就这两天出生",
+        "onboard_time": 1755319882,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 622142,
+        "num": 273026,
+        "word": "飞行学员被曝出轨10余名女子",
+        "onboard_time": 1755312141,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499814,
+        "num": 257954,
+        "word": "千万别被网上的独居精致生活骗了",
+        "onboard_time": 1755315921,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421983,
+        "num": 255449,
+        "word": "王嘉尔食物中毒",
+        "onboard_time": 1755321321,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 417360,
+        "num": 242048,
+        "word": "梓渝杂志",
+        "onboard_time": 1755318622,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238240,
+        "num": 238240,
+        "word": "王楚钦 路易威登",
+        "onboard_time": 1755320902,
+        "rank": 18,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 205471,
+        "num": 205471,
+        "word": "广东100%的蚊子出现抗药性",
+        "onboard_time": 1755311840,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379935,
+        "num": 204602,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1755315682,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365899,
+        "num": 203956,
+        "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
+        "onboard_time": 1755318143,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333986,
+        "num": 203949,
+        "word": "李沁说在张若昀婚礼把妆化费要回来了",
+        "onboard_time": 1755307460,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201815,
+        "num": 201815,
+        "word": "献鱼开播",
+        "onboard_time": 1755317422,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191055,
+        "num": 191055,
+        "word": "周一周五基础周六就不基础",
+        "onboard_time": 1755322821,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324905,
+        "num": 191032,
+        "word": "宋亚轩 祝你一直做了不起的严浩翔",
+        "onboard_time": 1755321922,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123417,
+        "num": 191013,
+        "word": "全国多地物业费大跳水",
+        "onboard_time": 1755321562,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94617,
+        "num": 190960,
+        "word": "男子为提前3年退休篡改人事档案",
+        "onboard_time": 1755319402,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76485,
+        "num": 190939,
+        "word": "感动中国2024年度人物",
+        "onboard_time": 1755315802,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190913,
+        "num": 190913,
+        "word": "马嘉祺 生日快乐浩翔",
+        "onboard_time": 1755322641,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186645,
+        "num": 186645,
+        "word": "生万物",
+        "onboard_time": 1755310579,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168053,
+        "num": 168053,
+        "word": "最适合东北人的健身操出现了",
+        "onboard_time": 1755322103,
+        "rank": 31,
+        "category": "幽默,运动健身"
+      },
+      {
+        "raw_hot": 162469,
+        "num": 162469,
+        "word": "光与夜之恋",
+        "onboard_time": 1755321143,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158855,
+        "num": 158855,
+        "word": "这一刻对张真源的高情商有了实感",
+        "onboard_time": 1755322162,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154925,
+        "num": 154925,
+        "word": "生万物爱奇艺第二快破万剧",
+        "onboard_time": 1755321321,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153523,
+        "num": 153523,
+        "word": "缺4种营养素会大把掉头发",
+        "onboard_time": 1755322462,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152714,
+        "num": 152714,
+        "word": "花儿与少年7",
+        "onboard_time": 1755318622,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140835,
+        "num": 140835,
+        "word": "献鱼特效",
+        "onboard_time": 1755322283,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84162,
+        "num": 140743,
+        "word": "谁才是真的国漫之光",
+        "onboard_time": 1755322521,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 55380,
+        "num": 140705,
+        "word": "奥地利偶遇俞灏明王晓晨",
+        "onboard_time": 1755322462,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140704,
+        "num": 140704,
+        "word": "凡人修仙传",
+        "onboard_time": 1755314422,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134360,
+        "num": 134360,
+        "word": "男子买避孕药出轨曝光涉事店员已休假",
+        "onboard_time": 1755269544,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132925,
+        "num": 132925,
+        "word": "第一次在脱口秀听到侍寝话题",
+        "onboard_time": 1755320483,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125353,
+        "num": 125353,
+        "word": "糯米团子孙颖莎",
+        "onboard_time": 1755322402,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124661,
+        "num": 124661,
+        "word": "岳云鹏帮女艺人挡酒被换掉",
+        "onboard_time": 1755322882,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118907,
+        "num": 118907,
+        "word": "演员秦杨肺腺癌0期后又突然失明",
+        "onboard_time": 1755322821,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117223,
+        "num": 117223,
+        "word": "时代少年团什么时候二开",
+        "onboard_time": 1755321802,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116164,
+        "num": 116164,
+        "word": "披荆斩棘",
+        "onboard_time": 1755322521,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115148,
+        "num": 115148,
+        "word": "普京特朗普未达成协议",
+        "onboard_time": 1755300497,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90165,
+        "num": 114927,
+        "word": "刘晓艳说四六级是求职硬通货",
+        "onboard_time": 1755318800,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}
