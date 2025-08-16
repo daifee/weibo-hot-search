@@ -1,0 +1,410 @@
+{
+  "runTime": 1755339959974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1631553,
+        "num": 1631553,
+        "word": "微博文化交流之夜",
+        "onboard_time": 1755334102,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 375106,
+        "num": 375106,
+        "word": "微信支付宝免提现手续费教程",
+        "onboard_time": 1755337823,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 5079,
+        "num": 359513,
+        "word": "神二十乘组圆满完成第三次出舱",
+        "onboard_time": 1755271464,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 551368,
+        "num": 355652,
+        "word": "展轩 我在",
+        "onboard_time": 1755337402,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 351709,
+        "num": 351709,
+        "word": "自闭症男孩遇难生前衣服脱光疑失温",
+        "onboard_time": 1755333084,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316191,
+        "num": 316191,
+        "word": "iPhone充电坏习惯",
+        "onboard_time": 1755326482,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 537705,
+        "num": 315580,
+        "word": "张维伊对董璇说咱们有酒窝就够了",
+        "onboard_time": 1755335900,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394772,
+        "num": 315118,
+        "word": "岳云鹏帮女艺人挡酒被换掉",
+        "onboard_time": 1755322882,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334949,
+        "num": 314716,
+        "word": "沈月红裙大波浪",
+        "onboard_time": 1755335482,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159091,
+        "num": 314027,
+        "word": "山东一面包车坠海6人遇难",
+        "onboard_time": 1755333202,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1016728,
+        "num": 313254,
+        "word": "水果刀插入3岁女童颅脑",
+        "onboard_time": 1755332300,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1011630,
+        "num": 313019,
+        "word": "小海绵一出生就是顶流待遇",
+        "onboard_time": 1755328942,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342058,
+        "num": 311983,
+        "word": "美国连体双胞胎姐妹其中一人疑生子",
+        "onboard_time": 1755338244,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50963,
+        "num": 311595,
+        "word": "面膜男孩刘轩丞",
+        "onboard_time": 1755338602,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332656,
+        "num": 310650,
+        "word": "绣绣第一个孩子流产了",
+        "onboard_time": 1755329723,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158897,
+        "num": 310026,
+        "word": "大同地震",
+        "onboard_time": 1755334643,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310022,
+        "num": 310022,
+        "word": "亮证女事件六名公职人员被处理",
+        "onboard_time": 1755331342,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283934,
+        "num": 283934,
+        "word": "黄一鸣自曝公开孩子父亲的原因",
+        "onboard_time": 1755325642,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263914,
+        "num": 263914,
+        "word": "主人欠钱3岁狸花猫被500元拍卖",
+        "onboard_time": 1755331222,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134015,
+        "num": 257165,
+        "word": "朋友圈三天可见 置顶特别长",
+        "onboard_time": 1755339443,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254081,
+        "num": 254081,
+        "word": "无予伦毕",
+        "onboard_time": 1755334042,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237190,
+        "num": 237190,
+        "word": "田曦薇早期素人直播",
+        "onboard_time": 1755329003,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212545,
+        "num": 212545,
+        "word": "中高度近视者建议全天佩戴框架眼镜",
+        "onboard_time": 1755335122,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204369,
+        "num": 204369,
+        "word": "毕雯珺在泰国也帅了",
+        "onboard_time": 1755339023,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193323,
+        "num": 193323,
+        "word": "李沁米饭屠夫",
+        "onboard_time": 1755338842,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168168,
+        "num": 168168,
+        "word": "女主把男主的血当布洛芬用",
+        "onboard_time": 1755336023,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80998,
+        "num": 168162,
+        "word": "航空公司回应飞行学员被指出轨多人",
+        "onboard_time": 1755337402,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96456,
+        "num": 168131,
+        "word": "谷爱凌训练时发生意外",
+        "onboard_time": 1755331942,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93696,
+        "num": 168108,
+        "word": "大同3.8级地震",
+        "onboard_time": 1755336263,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38568,
+        "num": 168077,
+        "word": "这届花少华为Pura80太抢眼",
+        "onboard_time": 1755338722,
+        "rank": 29,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 168056,
+        "num": 168056,
+        "word": "房主任回应面相太凶",
+        "onboard_time": 1755339500,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 162948,
+        "num": 162948,
+        "word": "秦昊点赞段奕宏演的很差",
+        "onboard_time": 1755337701,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129365,
+        "num": 129365,
+        "word": "韩立结婴",
+        "onboard_time": 1755314123,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 128890,
+        "num": 128890,
+        "word": "张远被刘彰贴脸开大",
+        "onboard_time": 1755339202,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127686,
+        "num": 127686,
+        "word": "贺峻霖晒白发严浩翔",
+        "onboard_time": 1755321201,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123634,
+        "num": 123634,
+        "word": "刘轩丞烫钻黑西装深V造型",
+        "onboard_time": 1755336622,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26372,
+        "num": 122560,
+        "word": "地铁充电宝自燃当事人称有3C标",
+        "onboard_time": 1755339683,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44447,
+        "num": 122251,
+        "word": "好有古早言情味的短剧出现了",
+        "onboard_time": 1755339562,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69807,
+        "num": 122245,
+        "word": "开渔季来了",
+        "onboard_time": 1755339861,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122243,
+        "num": 122243,
+        "word": "宋轶杨柳细腰具像化",
+        "onboard_time": 1755334762,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122086,
+        "num": 122086,
+        "word": "吻婴儿月嫂道歉称宝宝太可爱没忍住",
+        "onboard_time": 1755324560,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119913,
+        "num": 119913,
+        "word": "冯建宇文化交流之夜出图",
+        "onboard_time": 1755338421,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115048,
+        "num": 115048,
+        "word": "女网红上海街头劝禁烟被禁言",
+        "onboard_time": 1755337643,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114816,
+        "num": 114816,
+        "word": "金智源确诊白血病",
+        "onboard_time": 1755303440,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114643,
+        "num": 114643,
+        "word": "奶茶杯控",
+        "onboard_time": 1755339922,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114511,
+        "num": 114511,
+        "word": "贺峻霖四级成绩",
+        "onboard_time": 1755300798,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51217,
+        "num": 108731,
+        "word": "绿水青山就是金山银山理念提出20年",
+        "onboard_time": 1755333562,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107352,
+        "num": 107352,
+        "word": "周也泼水有孟子义当年那味了",
+        "onboard_time": 1755336622,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105176,
+        "num": 105176,
+        "word": "宝宝差点让爸爸过上好日子了",
+        "onboard_time": 1755339922,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105068,
+        "num": 105068,
+        "word": "生万物破万",
+        "onboard_time": 1755318562,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#以实际行动促进民营经济健康发展#"
+    }
+  }
+}
