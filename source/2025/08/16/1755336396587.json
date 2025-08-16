@@ -1,0 +1,410 @@
+{
+  "runTime": 1755336396587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1606158,
+        "num": 1606158,
+        "word": "微博文化交流之夜",
+        "onboard_time": 1755334102,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 584017,
+        "num": 584017,
+        "word": "大同地震",
+        "onboard_time": 1755334643,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19199,
+        "num": 506432,
+        "word": "烽火里的山东记忆",
+        "onboard_time": 1755314483,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637201,
+        "num": 493220,
+        "word": "绣绣第一个孩子流产了",
+        "onboard_time": 1755329723,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477106,
+        "num": 477106,
+        "word": "iPhone充电坏习惯",
+        "onboard_time": 1755326482,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 385113,
+        "num": 385113,
+        "word": "自闭症男孩遇难生前衣服脱光疑失温",
+        "onboard_time": 1755333084,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525743,
+        "num": 384818,
+        "word": "岳云鹏帮女艺人挡酒被换掉",
+        "onboard_time": 1755322882,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377774,
+        "num": 377774,
+        "word": "亮证女事件六名公职人员被处理",
+        "onboard_time": 1755331342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292624,
+        "num": 292624,
+        "word": "无予伦毕",
+        "onboard_time": 1755334042,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266728,
+        "num": 266728,
+        "word": "山东一面包车坠海6人遇难",
+        "onboard_time": 1755333202,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1618348,
+        "num": 265797,
+        "word": "水果刀插入3岁女童颅脑",
+        "onboard_time": 1755332300,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1434981,
+        "num": 262930,
+        "word": "小海绵一出生就是顶流待遇",
+        "onboard_time": 1755328942,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551056,
+        "num": 259469,
+        "word": "主人欠钱3岁狸花猫被500元拍卖",
+        "onboard_time": 1755331222,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502786,
+        "num": 255702,
+        "word": "田曦薇早期素人直播",
+        "onboard_time": 1755329003,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331176,
+        "num": 251304,
+        "word": "黄一鸣自曝公开孩子父亲的原因",
+        "onboard_time": 1755325642,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226637,
+        "num": 248008,
+        "word": "孩童头部刺入小刀被送医",
+        "onboard_time": 1755332242,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166067,
+        "num": 245081,
+        "word": "医院回应女童颅脑被水果刀插入",
+        "onboard_time": 1755334883,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244535,
+        "num": 244535,
+        "word": "金智源确诊白血病",
+        "onboard_time": 1755303440,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229627,
+        "num": 229627,
+        "word": "韦雪和前男友打架",
+        "onboard_time": 1755328283,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 94574,
+        "num": 213184,
+        "word": "特朗普致电挪威财长说想要诺奖",
+        "onboard_time": 1755334883,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211847,
+        "num": 211847,
+        "word": "沈月红裙大波浪",
+        "onboard_time": 1755335482,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207519,
+        "num": 207519,
+        "word": "张桂源腹肌",
+        "onboard_time": 1755335542,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60967,
+        "num": 206128,
+        "word": "这届患者是懂送锦旗的",
+        "onboard_time": 1755331523,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205192,
+        "num": 205192,
+        "word": "韩立结婴",
+        "onboard_time": 1755314123,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197868,
+        "num": 197868,
+        "word": "哇唧唧哇新人美谁懂",
+        "onboard_time": 1755335482,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196277,
+        "num": 196277,
+        "word": "贺峻霖晒白发严浩翔",
+        "onboard_time": 1755321201,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194993,
+        "num": 194993,
+        "word": "宋轶杨柳细腰具像化",
+        "onboard_time": 1755334762,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190176,
+        "num": 190176,
+        "word": "飞行学员被曝出轨10余名女子",
+        "onboard_time": 1755312141,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181407,
+        "num": 181407,
+        "word": "女主把男主的血当布洛芬用",
+        "onboard_time": 1755336023,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180337,
+        "num": 180337,
+        "word": "张维伊对董璇说咱们有酒窝就够了",
+        "onboard_time": 1755335900,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165352,
+        "num": 165352,
+        "word": "减肥1斤可抵物业费30元",
+        "onboard_time": 1755330743,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155517,
+        "num": 155517,
+        "word": "中高度近视者建议全天佩戴框架眼镜",
+        "onboard_time": 1755335122,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154166,
+        "num": 154166,
+        "word": "暮色回响",
+        "onboard_time": 1755336023,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151307,
+        "num": 151307,
+        "word": "贺峻霖四级成绩",
+        "onboard_time": 1755300798,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150211,
+        "num": 150211,
+        "word": "20岁确诊糖尿病前身体发出的信号",
+        "onboard_time": 1755333323,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149698,
+        "num": 149698,
+        "word": "建议过了25岁都去做个肠胃镜",
+        "onboard_time": 1755333382,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144611,
+        "num": 144611,
+        "word": "向太谈两次从黑社会手里救梅艳芳",
+        "onboard_time": 1755327203,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143131,
+        "num": 143131,
+        "word": "谷爱凌训练时发生意外",
+        "onboard_time": 1755331942,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47167,
+        "num": 140415,
+        "word": "我化妆就那英这样",
+        "onboard_time": 1755336142,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140325,
+        "num": 140325,
+        "word": "吻婴儿月嫂道歉称宝宝太可爱没忍住",
+        "onboard_time": 1755324560,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136636,
+        "num": 136636,
+        "word": "绿水青山就是金山银山理念提出20年",
+        "onboard_time": 1755333562,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133734,
+        "num": 133734,
+        "word": "生万物破万",
+        "onboard_time": 1755318562,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122516,
+        "num": 122516,
+        "word": "一念江南暂定9月11日开机",
+        "onboard_time": 1755334643,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119121,
+        "num": 119121,
+        "word": "张函瑞咬领带",
+        "onboard_time": 1755335183,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119109,
+        "num": 119109,
+        "word": "马思纯以为张晚意哭了",
+        "onboard_time": 1755332543,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114240,
+        "num": 114240,
+        "word": "EDGM送滔搏进年总",
+        "onboard_time": 1755334883,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113629,
+        "num": 113629,
+        "word": "沈佳润美美桑内传到郑秀妍了",
+        "onboard_time": 1755325942,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112138,
+        "num": 112138,
+        "word": "4个动作让眼睛越来越好看",
+        "onboard_time": 1755335423,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 111197,
+        "num": 111197,
+        "word": "大同3.8级地震",
+        "onboard_time": 1755336263,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111042,
+        "num": 111042,
+        "word": "董璇张维伊商量二胎计划",
+        "onboard_time": 1755333803,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}
