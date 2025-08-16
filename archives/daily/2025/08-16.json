@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755344248871,
+  "endTime": 1755348613050,
   "band_list": [
     {
       "raw_hot": 2671492,
@@ -131,6 +131,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1155817,
+      "num": 543227,
+      "word": "当事人回应买避孕药被发现出轨",
+      "onboard_time": 1755342322,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1092129,
+      "num": 392678,
+      "word": "张凌赫友情出演生万物",
+      "onboard_time": 1755344544,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1074301,
       "num": 1171888,
       "word": "iPhone充电坏习惯",
@@ -219,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 776757,
+      "num": 273681,
+      "word": "李若彤被泰国海关质疑年龄",
+      "onboard_time": 1755340941,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 765128,
       "num": 271137,
       "word": "87岁著名书画家被娇妻卷走20亿",
@@ -241,6 +265,14 @@
       "onboard_time": 1755319882,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 701713,
+      "num": 271785,
+      "word": "你好星期六",
+      "onboard_time": 1755346643,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 682504,
@@ -273,6 +305,14 @@
       "onboard_time": 1755265105,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 653955,
+      "num": 653955,
+      "word": "33岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755342500,
+      "rank": 32,
+      "category": "健康医疗,休闲"
     },
     {
       "raw_hot": 648956,
@@ -387,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543227,
-      "num": 543227,
-      "word": "当事人回应买避孕药被发现出轨",
-      "onboard_time": 1755342322,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 538505,
       "num": 270946,
       "word": "敬我的女儿魔童降世",
@@ -491,6 +523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 469758,
+      "num": 264200,
+      "word": "沈月泰国红毯",
+      "onboard_time": 1755346944,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 465245,
       "num": 465245,
       "word": "自闭症男孩遇难生前衣服脱光疑失温",
@@ -563,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411963,
+      "num": 263334,
+      "word": "李沁的睡姿",
+      "onboard_time": 1755346343,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402370,
       "num": 264641,
       "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
@@ -609,6 +657,22 @@
       "onboard_time": 1755311840,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378267,
+      "num": 230277,
+      "word": "严浩翔直播",
+      "onboard_time": 1755346582,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362536,
+      "num": 362536,
+      "word": "中国男篮vs新西兰男篮",
+      "onboard_time": 1755342142,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 360022,
@@ -707,6 +771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 316148,
+      "num": 219291,
+      "word": "张淼怡青岛音乐节造型",
+      "onboard_time": 1755344902,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 311665,
       "num": 311665,
       "word": "美俄元首联合发布会",
@@ -753,6 +825,14 @@
       "onboard_time": 1755269724,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303029,
+      "num": 215149,
+      "word": "谢娜 王一博师姐",
+      "onboard_time": 1755346703,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 298895,
@@ -819,6 +899,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 269869,
+      "num": 185231,
+      "word": "Son 刘轩丞",
+      "onboard_time": 1755345503,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 269298,
+      "num": 269298,
+      "word": "中央广播电视总台发布电影台标",
+      "onboard_time": 1755341961,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266728,
       "num": 348592,
       "word": "山东一面包车坠海6人遇难",
@@ -851,14 +947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 260750,
-      "num": 260750,
-      "word": "李若彤被泰国海关质疑年龄",
-      "onboard_time": 1755340941,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260731,
       "num": 260731,
       "word": "十二点之后表演不算上春晚",
@@ -873,14 +961,6 @@
       "onboard_time": 1755320902,
       "rank": 18,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 253570,
-      "num": 261410,
-      "word": "中央广播电视总台发布电影台标",
-      "onboard_time": 1755341961,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252054,
@@ -923,12 +1003,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 242049,
+      "num": 201716,
+      "word": "张予曦毕雯珺一起走红毯了",
+      "onboard_time": 1755346944,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 241604,
+      "num": 241604,
+      "word": "经常视奸自己的朋友圈",
+      "onboard_time": 1755345443,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241533,
       "num": 274537,
       "word": "特朗普暂时收回对俄威胁",
       "onboard_time": 1755313342,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 238259,
+      "num": 238259,
+      "word": "苏超",
+      "onboard_time": 1755343343,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 233854,
@@ -945,6 +1049,14 @@
       "onboard_time": 1755286334,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 229252,
+      "num": 184736,
+      "word": "迪丽热巴说现在学习以后总会用到",
+      "onboard_time": 1755345984,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 226637,
@@ -1011,6 +1123,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 214106,
+      "num": 214106,
+      "word": "范曾女儿回应家父被迫离家",
+      "onboard_time": 1755346824,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214031,
+      "num": 184483,
+      "word": "张艺兴祝孙红雷顺心顺意",
+      "onboard_time": 1755347843,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213450,
       "num": 355209,
       "word": "朱雨玲谈樊振东征战德甲",
@@ -1033,14 +1161,6 @@
       "onboard_time": 1755343643,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209077,
-      "num": 209077,
-      "word": "苏超",
-      "onboard_time": 1755343343,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 208721,
@@ -1195,6 +1315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192631,
+      "num": 179000,
+      "word": "宋轶新中式千金",
+      "onboard_time": 1755345863,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191055,
       "num": 191055,
       "word": "周一周五基础周六就不基础",
@@ -1209,6 +1337,14 @@
       "onboard_time": 1755322641,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189116,
+      "num": 189116,
+      "word": "乘客吐槽高铁邻座400斤男子致拥挤",
+      "onboard_time": 1755347243,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188924,
@@ -1233,6 +1369,14 @@
       "onboard_time": 1755312801,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187261,
+      "num": 167336,
+      "word": "张予曦毕雯珺闪耀泰兰德",
+      "onboard_time": 1755347784,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 187167,
@@ -1283,12 +1427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185512,
+      "num": 185512,
+      "word": "银魂",
+      "onboard_time": 1755347903,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 184831,
       "num": 205213,
       "word": "四级",
       "onboard_time": 1755300497,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 184188,
+      "num": 184188,
+      "word": "某工地用活犬祭祀",
+      "onboard_time": 1755348504,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183707,
@@ -1315,14 +1475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183137,
-      "num": 259736,
-      "word": "中国男篮vs新西兰男篮",
-      "onboard_time": 1755342142,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183067,
       "num": 183067,
       "word": "斗破苍穹",
@@ -1331,12 +1483,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 182275,
-      "num": 182275,
-      "word": "33岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1755342500,
-      "rank": 32,
-      "category": "健康医疗,休闲"
+      "raw_hot": 182843,
+      "num": 166815,
+      "word": "丞磊你以前剧宣可不这样",
+      "onboard_time": 1755347903,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 181689,
@@ -1467,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171456,
+      "num": 171456,
+      "word": "啤酒节塌架事故被提级调查",
+      "onboard_time": 1755344963,
+      "rank": 36,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 170969,
       "num": 170969,
       "word": "迪丽热巴说我们是利剑也是玫瑰",
@@ -1563,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165753,
+      "num": 165753,
+      "word": "亚洲杯",
+      "onboard_time": 1755345142,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165352,
       "num": 165352,
       "word": "减肥1斤可抵物业费30元",
@@ -1611,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162929,
+      "num": 162929,
+      "word": "正确戴眼镜或能减缓近视发展",
+      "onboard_time": 1755345503,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162104,
       "num": 239051,
       "word": "成毅讲述夏天里的活力中国",
@@ -1636,7 +1812,7 @@
     },
     {
       "raw_hot": 160393,
-      "num": 183657,
+      "num": 268910,
       "word": "半年流失14万人峨眉山怎么了",
       "onboard_time": 1755340521,
       "rank": 27,
@@ -1939,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143252,
+      "num": 143252,
+      "word": "穿搭要显贵跟着华流学",
+      "onboard_time": 1755348383,
+      "rank": 45,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 142861,
       "num": 260123,
       "word": "社保是生存底线不是可选附加项",
@@ -1963,6 +2147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141292,
+      "num": 141292,
+      "word": "建议大家千万不要一边做一边怀疑",
+      "onboard_time": 1755345382,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140898,
       "num": 140898,
       "word": "陆虎找撒贝宁签名",
@@ -1979,12 +2171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140293,
+      "num": 140293,
+      "word": "全红婵升级当姑姑了",
+      "onboard_time": 1755347843,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140142,
       "num": 140705,
       "word": "奥地利偶遇俞灏明王晓晨",
       "onboard_time": 1755322462,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139561,
+      "num": 139561,
+      "word": "恋综上看到了男生的喜欢真的很明显",
+      "onboard_time": 1755348504,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 139331,
@@ -2001,6 +2209,14 @@
       "onboard_time": 1755343702,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138251,
+      "num": 138251,
+      "word": "上海一奶茶店天花板掉落致1死",
+      "onboard_time": 1755347724,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137393,
@@ -2401,6 +2617,14 @@
       "onboard_time": 1755335183,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119089,
+      "num": 171299,
+      "word": "荣成车祸进ICU小孩不幸去世",
+      "onboard_time": 1755347963,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118907,
@@ -2939,6 +3163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59540,
+      "num": 169311,
+      "word": "刘亦菲这段话救我千万次于水火",
+      "onboard_time": 1755347544,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55168,
       "num": 55168,
       "word": "俄美总统阿拉斯加会面",
@@ -3059,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34680,
+      "num": 237587,
+      "word": "尹浩宇皮肤状态",
+      "onboard_time": 1755348083,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33053,
       "num": 180983,
       "word": "动画梳理协和4加4调查结果",
@@ -3139,6 +3379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 10322,
+      "num": 168703,
+      "word": "范曾家宅被贴封条人去楼空",
+      "onboard_time": 1755348504,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10235,
       "num": 32483,
       "word": "国台办驳赖清德散播错误二战史观",
@@ -3178,6 +3426,9 @@
     },
     {
       "word": "#以实际行动促进民营经济健康发展#"
+    },
+    {
+      "word": "#重温总书记对生态文明建设的嘱托#"
     }
   ]
 }
