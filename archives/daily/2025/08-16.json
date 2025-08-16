@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755354194316,
+  "endTime": 1755355279136,
   "band_list": [
     {
       "raw_hot": 2671492,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1208910,
+      "num": 1208910,
+      "word": "常州终于进球了",
+      "onboard_time": 1755354684,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1189926,
       "num": 721739,
       "word": "李沁说在张若昀婚礼把妆化费要回来了",
@@ -283,20 +291,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 813583,
+      "num": 813583,
+      "word": "李沁的睡姿",
+      "onboard_time": 1755346342,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 804364,
       "num": 804364,
       "word": "蜜雪冰城未开封奶茶惊现蟑螂",
       "onboard_time": 1755270203,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 796713,
-      "num": 784053,
-      "word": "李沁的睡姿",
-      "onboard_time": 1755346342,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 787727,
@@ -329,6 +337,14 @@
       "onboard_time": 1755301518,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 757510,
+      "num": 621255,
+      "word": "内娱4张权威脸同框了",
+      "onboard_time": 1755348563,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 732994,
@@ -411,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 621255,
-      "num": 621255,
-      "word": "内娱4张权威脸同框了",
-      "onboard_time": 1755348563,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 609773,
       "num": 609773,
       "word": "魔尊重楼扮演者去演短剧了",
@@ -433,6 +441,14 @@
       "onboard_time": 1755282736,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 591528,
+      "num": 488841,
+      "word": "谢娜是乐华的第一个签约艺人",
+      "onboard_time": 1755351506,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 590269,
@@ -667,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427396,
+      "num": 427396,
+      "word": "苍山遇难7岁男童妈妈称将追责到底",
+      "onboard_time": 1755350545,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420208,
       "num": 348323,
       "word": "毕雯珺在泰国也帅了",
@@ -891,14 +915,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 310710,
-      "num": 310710,
-      "word": "谢娜是乐华的第一个签约艺人",
-      "onboard_time": 1755351506,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310480,
       "num": 310480,
       "word": "生万物央八破3最快剧集第三位",
@@ -993,14 +1009,6 @@
       "onboard_time": 1755328341,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280525,
-      "num": 280525,
-      "word": "苍山遇难7岁男童妈妈称将追责到底",
-      "onboard_time": 1755350545,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 277299,
@@ -1147,6 +1155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239519,
+      "num": 458356,
+      "word": "美国B2轰炸机飞过普京有何深意",
+      "onboard_time": 1755351086,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 233854,
       "num": 233854,
       "word": "中高度近视者建议全天佩戴框架眼镜",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1755332242,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225815,
+      "num": 225815,
+      "word": "俄乌冲突将以牺牲乌克兰利益结束",
+      "onboard_time": 1755350845,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 224125,
@@ -1232,6 +1256,14 @@
       "word": "大屏上的张予曦",
       "onboard_time": 1755351746,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 221669,
+      "num": 221669,
+      "word": "青岛音乐节",
+      "onboard_time": 1755350005,
+      "rank": 35,
       "category": "演出"
     },
     {
@@ -1371,14 +1403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204515,
-      "num": 201430,
-      "word": "青岛音乐节",
-      "onboard_time": 1755350005,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 204397,
       "num": 204397,
       "word": "国色芳华的顾问竟然是00后",
@@ -1459,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196514,
+      "num": 196514,
+      "word": "马思纯晒合照",
+      "onboard_time": 1755351985,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195759,
       "num": 195759,
       "word": "谢娜给张子墨亿点小小的主持震撼",
@@ -1491,12 +1523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193481,
-      "num": 193481,
-      "word": "俄乌冲突将以牺牲乌克兰利益结束",
-      "onboard_time": 1755350845,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 194815,
+      "num": 194815,
+      "word": "杨幂再不好过如今也好过了",
+      "onboard_time": 1755354804,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 192977,
@@ -1859,14 +1891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168898,
-      "num": 168898,
-      "word": "马思纯晒合照",
-      "onboard_time": 1755351985,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168376,
       "num": 168376,
       "word": "KPL梦之队全员白衬衫",
@@ -1961,14 +1985,6 @@
       "onboard_time": 1755317722,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163899,
-      "num": 458356,
-      "word": "美国B2轰炸机飞过普京有何深意",
-      "onboard_time": 1755351086,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 163834,
@@ -2081,6 +2097,14 @@
       "onboard_time": 1755322162,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158724,
+      "num": 158724,
+      "word": "卫健局回应水果刀插入3岁女童颅脑",
+      "onboard_time": 1755352945,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158660,
@@ -2251,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150305,
+      "num": 150305,
+      "word": "献鱼",
+      "onboard_time": 1755349703,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150256,
       "num": 146724,
       "word": "杨幂俺在天牛庙村等你",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1755343643,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144320,
+      "num": 144320,
+      "word": "12306回应高铁遇体型宽大邻座乘客",
+      "onboard_time": 1755354923,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143369,
@@ -2547,6 +2587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135824,
+      "num": 489889,
+      "word": "姑姑霸占侄女房子居住近10年",
+      "onboard_time": 1755349045,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135354,
       "num": 135354,
       "word": "唐香玉五年没亲过嘴了",
@@ -2587,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133677,
+      "num": 146726,
+      "word": "大部分人生气不是因为脾气差",
+      "onboard_time": 1755354145,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133221,
       "num": 133221,
       "word": "刷牙多年竟全刷错了",
@@ -2601,14 +2657,6 @@
       "onboard_time": 1755286815,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131692,
-      "num": 131692,
-      "word": "献鱼",
-      "onboard_time": 1755349703,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 131000,
@@ -2763,14 +2811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123715,
-      "num": 123715,
-      "word": "姑姑霸占侄女房子居住近10年",
-      "onboard_time": 1755349045,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123417,
       "num": 191013,
       "word": "全国多地物业费大跳水",
@@ -2795,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123002,
+      "num": 147955,
+      "word": "周也别听孟子义说的也是恶评",
+      "onboard_time": 1755353545,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122736,
       "num": 122736,
       "word": "奇文 推手游戏",
@@ -2809,6 +2857,14 @@
       "onboard_time": 1755334643,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121582,
+      "num": 121582,
+      "word": "广西一村发现拳头大小动物脚印",
+      "onboard_time": 1755355044,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121104,
@@ -3115,14 +3171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100556,
-      "num": 147955,
-      "word": "周也别听孟子义说的也是恶评",
-      "onboard_time": 1755353545,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100114,
       "num": 100114,
       "word": "孙颖莎王曼昱陈熠马琳瑞满同框",
@@ -3145,14 +3193,6 @@
       "onboard_time": 1755282556,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 98661,
-      "num": 98661,
-      "word": "卫健局回应水果刀插入3岁女童颅脑",
-      "onboard_time": 1755352945,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98306,
@@ -3411,14 +3451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63580,
-      "num": 146726,
-      "word": "大部分人生气不是因为脾气差",
-      "onboard_time": 1755354145,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 63471,
       "num": 348363,
       "word": "面膜男孩刘轩丞",
@@ -3529,6 +3561,14 @@
       "onboard_time": 1755273022,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50499,
+      "num": 482962,
+      "word": "光耀太行",
+      "onboard_time": 1755354504,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48561,
@@ -3691,11 +3731,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20716,
+      "num": 141849,
+      "word": "村民挖菜窖挖出千年青铜器",
+      "onboard_time": 1755355224,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20205,
       "num": 238083,
       "word": "自闭症男孩殒命涉事独立营未备案",
       "onboard_time": 1755348745,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12708,
+      "num": 976738,
+      "word": "西藏在长大我也在长大",
+      "onboard_time": 1755355165,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1755355279136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1400054,
+        "num": 1400054,
+        "word": "苏苏怀孕了",
+        "onboard_time": 1755350125,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1208910,
+        "num": 1208910,
+        "word": "常州终于进球了",
+        "onboard_time": 1755354684,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12708,
+        "num": 976738,
+        "word": "西藏在长大我也在长大",
+        "onboard_time": 1755355165,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813583,
+        "num": 813583,
+        "word": "李沁的睡姿",
+        "onboard_time": 1755346343,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 773456,
+        "num": 773456,
+        "word": "山东地震",
+        "onboard_time": 1755350364,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621161,
+        "num": 621161,
+        "word": "中国男篮晋级亚洲杯决赛",
+        "onboard_time": 1755348925,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 757510,
+        "num": 595198,
+        "word": "内娱4张权威脸同框了",
+        "onboard_time": 1755348745,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636289,
+        "num": 579771,
+        "word": "你好星期六",
+        "onboard_time": 1755346643,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490750,
+        "num": 490750,
+        "word": "苏超常州vs镇江",
+        "onboard_time": 1755350785,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135824,
+        "num": 489889,
+        "word": "姑姑霸占侄女房子居住近10年",
+        "onboard_time": 1755349045,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591528,
+        "num": 488841,
+        "word": "谢娜是乐华的第一个签约艺人",
+        "onboard_time": 1755351506,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583855,
+        "num": 486569,
+        "word": "小海绵一出生就是顶流待遇",
+        "onboard_time": 1755328942,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528596,
+        "num": 485846,
+        "word": "张凌赫友情出演生万物",
+        "onboard_time": 1755344544,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496920,
+        "num": 483402,
+        "word": "李若彤被泰国海关质疑年龄",
+        "onboard_time": 1755340941,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50499,
+        "num": 482962,
+        "word": "光耀太行",
+        "onboard_time": 1755354504,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481784,
+        "num": 481784,
+        "word": "沈月泰国红毯",
+        "onboard_time": 1755346944,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 427396,
+        "num": 427396,
+        "word": "苍山遇难7岁男童妈妈称将追责到底",
+        "onboard_time": 1755350545,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413832,
+        "num": 413832,
+        "word": "范曾女儿回应家父被迫离家",
+        "onboard_time": 1755346824,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766692,
+        "num": 403183,
+        "word": "某工地用活犬祭祀",
+        "onboard_time": 1755348504,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381231,
+        "num": 381231,
+        "word": "朋友圈三天可见 置顶特别长",
+        "onboard_time": 1755339443,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 448014,
+        "num": 380972,
+        "word": "微博文化交流之夜",
+        "onboard_time": 1755334102,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 380654,
+        "num": 380654,
+        "word": "台湾老百姓都清清楚楚看在眼里",
+        "onboard_time": 1755350064,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 313994,
+        "num": 313994,
+        "word": "水果刀插入3岁女童颅脑",
+        "onboard_time": 1755332300,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276189,
+        "num": 276189,
+        "word": "乘客吐槽高铁邻座400斤男子致拥挤",
+        "onboard_time": 1755347243,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239519,
+        "num": 239519,
+        "word": "美国B2轰炸机飞过普京有何深意",
+        "onboard_time": 1755351086,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228033,
+        "num": 228033,
+        "word": "生万物",
+        "onboard_time": 1755344363,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225815,
+        "num": 225815,
+        "word": "俄乌冲突将以牺牲乌克兰利益结束",
+        "onboard_time": 1755350845,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221669,
+        "num": 221669,
+        "word": "青岛音乐节",
+        "onboard_time": 1755350005,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210554,
+        "num": 210554,
+        "word": "美国连体双胞胎姐妹其中一人疑生子",
+        "onboard_time": 1755338244,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202132,
+        "num": 202132,
+        "word": "大屏上的张予曦",
+        "onboard_time": 1755351746,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201212,
+        "num": 201212,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1755350125,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196514,
+        "num": 196514,
+        "word": "马思纯晒合照",
+        "onboard_time": 1755351985,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194815,
+        "num": 194815,
+        "word": "杨幂再不好过如今也好过了",
+        "onboard_time": 1755354804,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193887,
+        "num": 193887,
+        "word": "邓为 中暑",
+        "onboard_time": 1755341783,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181135,
+        "num": 181135,
+        "word": "33岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755342500,
+        "rank": 34,
+        "category": "健康医疗,休闲"
+      },
+      {
+        "raw_hot": 177927,
+        "num": 177927,
+        "word": "谢娜 王一博师姐",
+        "onboard_time": 1755346703,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158724,
+        "num": 158724,
+        "word": "卫健局回应水果刀插入3岁女童颅脑",
+        "onboard_time": 1755352945,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150305,
+        "num": 150305,
+        "word": "献鱼",
+        "onboard_time": 1755349703,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148178,
+        "num": 148178,
+        "word": "冯建宇唱rap",
+        "onboard_time": 1755350125,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133677,
+        "num": 145899,
+        "word": "大部分人生气不是因为脾气差",
+        "onboard_time": 1755354145,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144320,
+        "num": 144320,
+        "word": "12306回应高铁遇体型宽大邻座乘客",
+        "onboard_time": 1755354923,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143176,
+        "num": 143176,
+        "word": "陈昊宇白裙",
+        "onboard_time": 1755353304,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20716,
+        "num": 141849,
+        "word": "村民挖菜窖挖出千年青铜器",
+        "onboard_time": 1755355224,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141569,
+        "num": 141569,
+        "word": "苏超",
+        "onboard_time": 1755343343,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140260,
+        "num": 140260,
+        "word": "严浩翔直播",
+        "onboard_time": 1755346582,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139635,
+        "num": 139635,
+        "word": "李世民扮演者称演员要养家糊口",
+        "onboard_time": 1755340825,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129470,
+        "num": 129470,
+        "word": "Son 刘轩丞",
+        "onboard_time": 1755345503,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123002,
+        "num": 123002,
+        "word": "周也别听孟子义说的也是恶评",
+        "onboard_time": 1755353545,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121582,
+        "num": 121582,
+        "word": "广西一村发现拳头大小动物脚印",
+        "onboard_time": 1755355044,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118190,
+        "num": 118190,
+        "word": "欧洲领导人联合声明",
+        "onboard_time": 1755349285,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起共谱绿水青山曲#"
+    }
+  }
+}
