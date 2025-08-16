@@ -1,0 +1,410 @@
+{
+  "runTime": 1755314480644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010944,
+        "num": 1161751,
+        "word": "金智源确诊白血病",
+        "onboard_time": 1755303440,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392789,
+        "num": 392789,
+        "word": "韩立结婴",
+        "onboard_time": 1755314123,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 77318,
+        "num": 381213,
+        "word": "网警提醒小心指尖上的陷阱",
+        "onboard_time": 1755305541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1303911,
+        "num": 381148,
+        "word": "贺峻霖四级成绩",
+        "onboard_time": 1755300798,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379353,
+        "num": 379353,
+        "word": "特朗普迎接普京旁边放美军F22",
+        "onboard_time": 1755303619,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277420,
+        "num": 277420,
+        "word": "居民存款减少1.11万亿去哪了",
+        "onboard_time": 1755270023,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 984363,
+        "num": 277084,
+        "word": "李沁说在张若昀婚礼把妆化费要回来了",
+        "onboard_time": 1755307460,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209456,
+        "num": 275859,
+        "word": "蜜雪冰城未开封奶茶惊现蟑螂",
+        "onboard_time": 1755270203,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382089,
+        "num": 275711,
+        "word": "长风起官宣杀青",
+        "onboard_time": 1755312021,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72211,
+        "num": 274537,
+        "word": "特朗普暂时收回对俄威胁",
+        "onboard_time": 1755313342,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1058595,
+        "num": 273717,
+        "word": "飞行学员被曝出轨10余名女子",
+        "onboard_time": 1755312141,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428430,
+        "num": 272742,
+        "word": "租了半年房发现灯罩里有摄像头",
+        "onboard_time": 1755305720,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243337,
+        "num": 272385,
+        "word": "俄罗斯记者们在美国睡大通铺",
+        "onboard_time": 1755311721,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 419569,
+        "num": 271034,
+        "word": "普京说俄永远记得俄美曾共对敌人",
+        "onboard_time": 1755310821,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270805,
+        "num": 270805,
+        "word": "普京特朗普未达成协议",
+        "onboard_time": 1755300497,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365195,
+        "num": 270708,
+        "word": "你好星期六有自己的歌王之战",
+        "onboard_time": 1755312562,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267853,
+        "num": 267853,
+        "word": "普京特朗普一对一会晤改三对三",
+        "onboard_time": 1755282736,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177269,
+        "num": 261820,
+        "word": "广东100%的蚊子出现抗药性",
+        "onboard_time": 1755311840,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257963,
+        "num": 257963,
+        "word": "肖战坐我旁边",
+        "onboard_time": 1755299778,
+        "rank": 18,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 94887,
+        "num": 250802,
+        "word": "坚定维护医疗行业的纯洁性",
+        "onboard_time": 1755313581,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326144,
+        "num": 247901,
+        "word": "男子买避孕药出轨曝光涉事店员已休假",
+        "onboard_time": 1755269544,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244471,
+        "num": 244471,
+        "word": "子夜归OST阵容",
+        "onboard_time": 1755310940,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240700,
+        "num": 240700,
+        "word": "凡人修仙传",
+        "onboard_time": 1755314422,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 213828,
+        "num": 213828,
+        "word": "丁禹兮 范思哲",
+        "onboard_time": 1755313461,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208459,
+        "num": 208459,
+        "word": "暴瘦10多斤女孩爬楼两次晕倒",
+        "onboard_time": 1755307041,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204897,
+        "num": 204897,
+        "word": "新说唱为严浩翔庆生",
+        "onboard_time": 1755313461,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203735,
+        "num": 203735,
+        "word": "十二点之后表演不算上春晚",
+        "onboard_time": 1755311482,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164000,
+        "num": 187848,
+        "word": "四六级查分",
+        "onboard_time": 1755299718,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133054,
+        "num": 187483,
+        "word": "六级",
+        "onboard_time": 1755299718,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35196,
+        "num": 187399,
+        "word": "美方调B2到阿拉斯加秀肌肉施压俄方",
+        "onboard_time": 1755313701,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187382,
+        "num": 187382,
+        "word": "美俄元首会晤仓促记者蒙了",
+        "onboard_time": 1755312801,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181388,
+        "num": 181388,
+        "word": "人民日报专访迪丽热巴完整版",
+        "onboard_time": 1755313461,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186661,
+        "num": 181349,
+        "word": "续面老板疑似翻车",
+        "onboard_time": 1755313221,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180584,
+        "num": 180584,
+        "word": "女子将饮酒后的男友踹下河致其溺亡",
+        "onboard_time": 1755312861,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180306,
+        "num": 180306,
+        "word": "B站崩了",
+        "onboard_time": 1755314301,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171725,
+        "num": 171725,
+        "word": "杨幂说与欧豪合作是封神之战",
+        "onboard_time": 1755303019,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157518,
+        "num": 157518,
+        "word": "第五人格",
+        "onboard_time": 1755312982,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152291,
+        "num": 152291,
+        "word": "只有近视眼才懂张予曦",
+        "onboard_time": 1755303799,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149491,
+        "num": 149491,
+        "word": "素素绣绣时隔8年的callback",
+        "onboard_time": 1755313282,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98270,
+        "num": 143089,
+        "word": "张国伟回应卖号传闻",
+        "onboard_time": 1755314181,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139815,
+        "num": 139815,
+        "word": "美俄元首联合发布会",
+        "onboard_time": 1755299836,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137301,
+        "num": 137301,
+        "word": "谁家男主在亲爸婚礼撒纸钱啊",
+        "onboard_time": 1755313041,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135933,
+        "num": 135933,
+        "word": "漫画偷偷藏不住完结",
+        "onboard_time": 1755312801,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134605,
+        "num": 134605,
+        "word": "敬我的女儿魔童降世",
+        "onboard_time": 1755303920,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132480,
+        "num": 132480,
+        "word": "婆婆专业户年轻时候也是大美人",
+        "onboard_time": 1755313761,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123995,
+        "num": 123995,
+        "word": "特朗普称与普京很多问题达成一致",
+        "onboard_time": 1755308002,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121926,
+        "num": 121926,
+        "word": "在下悟空是也要进组拍戏了",
+        "onboard_time": 1755314123,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119599,
+        "num": 119599,
+        "word": "贾静雯晒咘咘10岁庆生照",
+        "onboard_time": 1755305661,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96583,
+        "num": 118752,
+        "word": "女子5次试管后终怀孕却确诊肝癌",
+        "onboard_time": 1755269844,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74856,
+        "num": 118485,
+        "word": "中国队女排世锦赛14人名单",
+        "onboard_time": 1755311962,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对生态保护的嘱托#"
+    }
+  }
+}

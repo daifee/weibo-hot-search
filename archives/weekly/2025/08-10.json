@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755310987832,
+  "endTime": 1755314480644,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -1008,6 +1008,14 @@
       "word": "公职人员禁止干6类副业",
       "onboard_time": 1755180864,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1058595,
+      "num": 273717,
+      "word": "飞行学员被曝出轨10余名女子",
+      "onboard_time": 1755312141,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -3611,6 +3619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428430,
+      "num": 272742,
+      "word": "租了半年房发现灯罩里有摄像头",
+      "onboard_time": 1755305720,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 427781,
       "num": 427781,
       "word": "演唱会迟到被汪苏泷抓个正着",
@@ -3705,6 +3721,14 @@
       "onboard_time": 1754883923,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 419569,
+      "num": 271034,
+      "word": "普京说俄永远记得俄美曾共对敌人",
+      "onboard_time": 1755310821,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 419540,
@@ -3947,6 +3971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 392789,
+      "num": 392789,
+      "word": "韩立结婴",
+      "onboard_time": 1755314123,
+      "rank": 1,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 392299,
       "num": 340738,
       "word": "韩美娟赤木刚宪穿婚服合照",
@@ -4067,12 +4099,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 382081,
-      "num": 270629,
-      "word": "租了半年房发现灯罩里有摄像头",
-      "onboard_time": 1755305720,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 382089,
+      "num": 275711,
+      "word": "长风起官宣杀青",
+      "onboard_time": 1755312021,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 381859,
@@ -4224,6 +4256,14 @@
       "word": "马思纯解释不当导游的原因",
       "onboard_time": 1755164601,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 365195,
+      "num": 270708,
+      "word": "你好星期六有自己的歌王之战",
+      "onboard_time": 1755312562,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -5859,6 +5899,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 244471,
+      "num": 244471,
+      "word": "子夜归OST阵容",
+      "onboard_time": 1755310940,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244464,
       "num": 244464,
       "word": "李一桐的包比我简历还丰富",
@@ -5889,6 +5937,14 @@
       "onboard_time": 1755085104,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243337,
+      "num": 272385,
+      "word": "俄罗斯记者们在美国睡大通铺",
+      "onboard_time": 1755311721,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 243307,
@@ -5937,6 +5993,14 @@
       "onboard_time": 1754915962,
       "rank": 26,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 240700,
+      "num": 240700,
+      "word": "凡人修仙传",
+      "onboard_time": 1754973442,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 240053,
@@ -6579,6 +6643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213828,
+      "num": 213828,
+      "word": "丁禹兮 范思哲",
+      "onboard_time": 1755313461,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213779,
       "num": 213779,
       "word": "魏哲鸣霸总感溢出屏幕了",
@@ -6859,6 +6931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204897,
+      "num": 204897,
+      "word": "新说唱为严浩翔庆生",
+      "onboard_time": 1755313461,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204889,
       "num": 204889,
       "word": "刘宇宁一米九大长条子",
@@ -6945,6 +7025,14 @@
       "onboard_time": 1754885962,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203735,
+      "num": 203735,
+      "word": "十二点之后表演不算上春晚",
+      "onboard_time": 1755311482,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 203719,
@@ -7867,14 +7955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192291,
-      "num": 192291,
-      "word": "子夜归OST阵容",
-      "onboard_time": 1755310940,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192241,
       "num": 192241,
       "word": "孙颖莎吃玉米笑的好甜",
@@ -8211,6 +8291,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 187382,
+      "num": 187382,
+      "word": "美俄元首会晤仓促记者蒙了",
+      "onboard_time": 1755312801,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 187360,
       "num": 187360,
       "word": "百果园",
@@ -8243,6 +8331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186661,
+      "num": 181349,
+      "word": "续面老板疑似翻车",
+      "onboard_time": 1755313221,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186602,
       "num": 186602,
       "word": "早春晴朗男主85生",
@@ -8257,14 +8353,6 @@
       "onboard_time": 1755005425,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186565,
-      "num": 186565,
-      "word": "凡人修仙传",
-      "onboard_time": 1754973442,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 186497,
@@ -8643,12 +8731,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181388,
+      "num": 181388,
+      "word": "人民日报专访迪丽热巴完整版",
+      "onboard_time": 1755313461,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180606,
       "num": 180606,
       "word": "A股一年涨1000点",
       "onboard_time": 1755073463,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180584,
+      "num": 180584,
+      "word": "女子将饮酒后的男友踹下河致其溺亡",
+      "onboard_time": 1755312861,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180530,
@@ -8681,6 +8785,14 @@
       "onboard_time": 1755229883,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 180306,
+      "num": 180306,
+      "word": "B站崩了",
+      "onboard_time": 1755314301,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 180303,
@@ -8905,6 +9017,14 @@
       "onboard_time": 1755239722,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177269,
+      "num": 261820,
+      "word": "广东100%的蚊子出现抗药性",
+      "onboard_time": 1755311840,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177046,
@@ -10875,6 +10995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152291,
+      "num": 152291,
+      "word": "只有近视眼才懂张予曦",
+      "onboard_time": 1755303799,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152184,
       "num": 152184,
       "word": "女大学生在景区疑被男子捅伤致死",
@@ -11185,6 +11313,14 @@
       "onboard_time": 1754968102,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149491,
+      "num": 149491,
+      "word": "素素绣绣时隔8年的callback",
+      "onboard_time": 1755313282,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 149480,
@@ -12491,6 +12627,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 137301,
+      "num": 137301,
+      "word": "谁家男主在亲爸婚礼撒纸钱啊",
+      "onboard_time": 1755313041,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137242,
       "num": 137242,
       "word": "许凯田曦薇子夜归人咪情未了",
@@ -12657,6 +12801,14 @@
       "onboard_time": 1755090503,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135933,
+      "num": 135933,
+      "word": "漫画偷偷藏不住完结",
+      "onboard_time": 1755312801,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 135902,
@@ -13097,6 +13249,14 @@
       "onboard_time": 1754905644,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132480,
+      "num": 132480,
+      "word": "婆婆专业户年轻时候也是大美人",
+      "onboard_time": 1755313761,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 132449,
@@ -14419,14 +14579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122615,
-      "num": 122615,
-      "word": "普京说俄永远记得俄美曾共对敌人",
-      "onboard_time": 1755310821,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122607,
       "num": 122607,
       "word": "微信聊天可引用部分文字了",
@@ -14459,6 +14611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 121926,
+      "num": 121926,
+      "word": "在下悟空是也要进组拍戏了",
+      "onboard_time": 1755314123,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 121796,
       "num": 155124,
       "word": "笔试1分当初中老师简直误人子弟",
@@ -14473,14 +14633,6 @@
       "onboard_time": 1755138201,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121711,
-      "num": 121711,
-      "word": "只有近视眼才懂张予曦",
-      "onboard_time": 1755303799,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 121692,
@@ -17667,6 +17819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 98270,
+      "num": 143089,
+      "word": "张国伟回应卖号传闻",
+      "onboard_time": 1755314181,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98156,
       "num": 98156,
       "word": "梓渝半个月连宣四本杂志",
@@ -18032,6 +18192,14 @@
       "word": "男子杀害祖孙3人被鉴定为精神分裂",
       "onboard_time": 1755202215,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94887,
+      "num": 250802,
+      "word": "坚定维护医疗行业的纯洁性",
+      "onboard_time": 1755313581,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -19155,6 +19323,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 74856,
+      "num": 118485,
+      "word": "中国队女排世锦赛14人名单",
+      "onboard_time": 1755311962,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74592,
       "num": 74592,
       "word": "利物浦4比2伯恩茅斯",
@@ -19241,6 +19417,14 @@
       "onboard_time": 1754839164,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72211,
+      "num": 274537,
+      "word": "特朗普暂时收回对俄威胁",
+      "onboard_time": 1755313342,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72085,
@@ -20793,6 +20977,14 @@
       "onboard_time": 1755020478,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35196,
+      "num": 187399,
+      "word": "美方调B2到阿拉斯加秀肌肉施压俄方",
+      "onboard_time": 1755313701,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34956,
