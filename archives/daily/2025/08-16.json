@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755314480644,
+  "endTime": 1755315257212,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -9,6 +9,14 @@
       "onboard_time": 1755269544,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1590892,
+      "num": 1590892,
+      "word": "韩立结婴",
+      "onboard_time": 1755314123,
+      "rank": 1,
+      "category": "动漫"
     },
     {
       "raw_hot": 1576105,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1521082,
-      "num": 502517,
+      "num": 921485,
       "word": "贺峻霖四级成绩",
       "onboard_time": 1755300798,
       "rank": 4,
@@ -35,20 +43,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1189926,
-      "num": 311562,
-      "word": "李沁说在张若昀婚礼把妆化费要回来了",
-      "onboard_time": 1755307460,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1058595,
-      "num": 273717,
+      "raw_hot": 1264146,
+      "num": 431967,
       "word": "飞行学员被曝出轨10余名女子",
       "onboard_time": 1755312141,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1189926,
+      "num": 590891,
+      "word": "李沁说在张若昀婚礼把妆化费要回来了",
+      "onboard_time": 1755307460,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 979413,
@@ -57,6 +65,14 @@
       "onboard_time": 1755276140,
       "rank": 13,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 919708,
+      "num": 919708,
+      "word": "凡人修仙传",
+      "onboard_time": 1755314422,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 804364,
@@ -131,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 584329,
+      "num": 584329,
+      "word": "B站崩了",
+      "onboard_time": 1755314301,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 566245,
       "num": 566245,
       "word": "续面老板回应店面700余条差评",
@@ -145,6 +169,14 @@
       "onboard_time": 1755303920,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 522852,
+      "num": 522852,
+      "word": "你好星期六有自己的歌王之战",
+      "onboard_time": 1755312562,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 498633,
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 428430,
-      "num": 272742,
+      "num": 404631,
       "word": "租了半年房发现灯罩里有摄像头",
       "onboard_time": 1755305720,
       "rank": 21,
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 419569,
-      "num": 271034,
+      "num": 418683,
       "word": "普京说俄永远记得俄美曾共对敌人",
       "onboard_time": 1755310821,
       "rank": 40,
@@ -219,28 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392789,
-      "num": 392789,
-      "word": "韩立结婴",
-      "onboard_time": 1755314123,
-      "rank": 1,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 382089,
-      "num": 275711,
+      "num": 310569,
       "word": "长风起官宣杀青",
       "onboard_time": 1755312021,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 365195,
-      "num": 270708,
-      "word": "你好星期六有自己的歌王之战",
-      "onboard_time": 1755312562,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 360022,
@@ -331,20 +347,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286816,
+      "num": 286816,
+      "word": "肖战坐我旁边",
+      "onboard_time": 1755299778,
+      "rank": 23,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 283880,
       "num": 270183,
       "word": "贾静雯晒咘咘10岁庆生照",
       "onboard_time": 1755305661,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280082,
-      "num": 270105,
-      "word": "肖战坐我旁边",
-      "onboard_time": 1755299778,
-      "rank": 23,
-      "category": "艺人,音乐"
     },
     {
       "raw_hot": 265265,
@@ -363,12 +379,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 260731,
+      "num": 260731,
+      "word": "十二点之后表演不算上春晚",
+      "onboard_time": 1755311482,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252054,
       "num": 252054,
       "word": "六级",
       "onboard_time": 1755299718,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 249448,
+      "num": 444106,
+      "word": "广东100%的蚊子出现抗药性",
+      "onboard_time": 1755311840,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244471,
@@ -395,12 +427,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 240700,
-      "num": 240700,
-      "word": "凡人修仙传",
-      "onboard_time": 1755314422,
-      "rank": 22,
-      "category": "动漫"
+      "raw_hot": 241533,
+      "num": 274537,
+      "word": "特朗普暂时收回对俄威胁",
+      "onboard_time": 1755313342,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 233595,
@@ -435,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 216468,
+      "num": 239231,
+      "word": "丁禹兮 范思哲",
+      "onboard_time": 1755313461,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214731,
       "num": 271334,
       "word": "新华社记者直击美俄总统会晤现场",
@@ -443,28 +483,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 213828,
-      "num": 213828,
-      "word": "丁禹兮 范思哲",
-      "onboard_time": 1755313461,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204897,
       "num": 204897,
       "word": "新说唱为严浩翔庆生",
       "onboard_time": 1755313461,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203735,
-      "num": 203735,
-      "word": "十二点之后表演不算上春晚",
-      "onboard_time": 1755311482,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 201089,
@@ -499,12 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187382,
-      "num": 187382,
+      "raw_hot": 188431,
+      "num": 239291,
       "word": "美俄元首会晤仓促记者蒙了",
       "onboard_time": 1755312801,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187167,
+      "num": 187167,
+      "word": "女子将饮酒后的男友踹下河致其溺亡",
+      "onboard_time": 1755312861,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186661,
@@ -563,22 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180584,
-      "num": 180584,
-      "word": "女子将饮酒后的男友踹下河致其溺亡",
-      "onboard_time": 1755312861,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180306,
-      "num": 180306,
-      "word": "B站崩了",
-      "onboard_time": 1755314301,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 179279,
       "num": 179279,
       "word": "特朗普给特普会打满分",
@@ -603,14 +619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177269,
-      "num": 261820,
-      "word": "广东100%的蚊子出现抗药性",
-      "onboard_time": 1755311840,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174991,
       "num": 174991,
       "word": "男孩掰断艺术品监控被播放12年",
@@ -627,6 +635,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 162104,
+      "num": 239051,
+      "word": "成毅讲述夏天里的活力中国",
+      "onboard_time": 1755314601,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160903,
       "num": 160903,
       "word": "经常熬夜多吃3类食物",
@@ -635,12 +651,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159825,
+      "num": 159825,
+      "word": "只有近视眼才懂张予曦",
+      "onboard_time": 1755303799,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159628,
       "num": 159628,
       "word": "普京记者会讲话全文",
       "onboard_time": 1755305720,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158927,
+      "num": 158927,
+      "word": "陆虎袜子里穿了鞋垫",
+      "onboard_time": 1755314902,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158660,
+      "num": 158660,
+      "word": "婆婆专业户年轻时候也是大美人",
+      "onboard_time": 1755313761,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 157844,
@@ -675,14 +715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152291,
-      "num": 152291,
-      "word": "只有近视眼才懂张予曦",
-      "onboard_time": 1755303799,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151121,
       "num": 151121,
       "word": "谢霆锋刘德华竟现电梯施工人员名单",
@@ -715,12 +747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148473,
+      "num": 250802,
+      "word": "坚定维护医疗行业的纯洁性",
+      "onboard_time": 1755313581,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148263,
       "num": 277370,
       "word": "市监回应电梯施工人员名单现多位明星",
       "onboard_time": 1755299177,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 145539,
+      "num": 145539,
+      "word": "周深 云南白药",
+      "onboard_time": 1755314960,
+      "rank": 38,
+      "category": "艺人,健康医疗"
     },
     {
       "raw_hot": 143369,
@@ -771,14 +819,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 132480,
-      "num": 132480,
-      "word": "婆婆专业户年轻时候也是大美人",
-      "onboard_time": 1755313761,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131727,
       "num": 131727,
       "word": "普京特朗普开始会晤",
@@ -827,6 +867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125581,
+      "num": 125581,
+      "word": "在下悟空是也要进组拍戏了",
+      "onboard_time": 1755314123,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 125538,
       "num": 189720,
       "word": "恒大前行政总裁夏海钧被曝藏身加州",
@@ -843,12 +891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121926,
-      "num": 121926,
-      "word": "在下悟空是也要进组拍戏了",
-      "onboard_time": 1755314123,
-      "rank": 46,
-      "category": "网红"
+      "raw_hot": 123338,
+      "num": 123338,
+      "word": "微博奇遇记",
+      "onboard_time": 1755315140,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 120647,
@@ -873,6 +921,14 @@
       "onboard_time": 1755303500,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120178,
+      "num": 120178,
+      "word": "网友釜山偶遇王安宇了",
+      "onboard_time": 1755312622,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 115970,
@@ -913,6 +969,14 @@
       "onboard_time": 1755310220,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102088,
+      "num": 109196,
+      "word": "再看马龙樊振东王楚钦夺冠仍觉热血",
+      "onboard_time": 1755315082,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 99550,
@@ -960,14 +1024,6 @@
       "word": "中日友好医院党委书记更换",
       "onboard_time": 1755267444,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94887,
-      "num": 250802,
-      "word": "坚定维护医疗行业的纯洁性",
-      "onboard_time": 1755313581,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1107,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72211,
-      "num": 274537,
-      "word": "特朗普暂时收回对俄威胁",
-      "onboard_time": 1755313342,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 72064,
       "num": 84106,
       "word": "卫健委最新通报肖某董某莹事件",
@@ -1171,6 +1219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45908,
+      "num": 238946,
+      "word": "美方调B2到阿拉斯加秀肌肉施压俄方",
+      "onboard_time": 1755313701,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45146,
       "num": 249424,
       "word": "罗马仕新款充电宝已有3C标",
@@ -1203,20 +1259,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35196,
-      "num": 187399,
-      "word": "美方调B2到阿拉斯加秀肌肉施压俄方",
-      "onboard_time": 1755313701,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30721,
       "num": 124385,
       "word": "俄外长等已率先抵达阿拉斯加",
       "onboard_time": 1755282915,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29589,
+      "num": 240465,
+      "word": "烽火里的山东记忆",
+      "onboard_time": 1755314483,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26861,
+      "num": 922101,
+      "word": "神二十乘组圆满完成第三次出舱",
+      "onboard_time": 1755271464,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21727,
@@ -1273,6 +1337,9 @@
     },
     {
       "word": "#习近平总书记弘扬伟大抗战精神的故事#"
+    },
+    {
+      "word": "#跟着总书记走进抗战纪念地#"
     }
   ]
 }
