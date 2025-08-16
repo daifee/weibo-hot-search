@@ -1,0 +1,410 @@
+{
+  "runTime": 1755376037868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 332764,
+        "num": 332764,
+        "word": "藏头诗",
+        "onboard_time": 1755367456,
+        "rank": 0,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 144234,
+        "num": 144234,
+        "word": "张予曦给泰娱亿点震撼",
+        "onboard_time": 1755362182,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13591,
+        "num": 88845,
+        "word": "西藏在长大我也在长大",
+        "onboard_time": 1755355165,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60657,
+        "num": 60657,
+        "word": "iPhone17Pro放弃钛金属原因",
+        "onboard_time": 1755362001,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 54366,
+        "num": 54366,
+        "word": "苏苏怀孕了",
+        "onboard_time": 1755350125,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45606,
+        "num": 54237,
+        "word": "12306回应高铁遇体型宽大邻座乘客",
+        "onboard_time": 1755354923,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54152,
+        "num": 54152,
+        "word": "俄乌冲突将以牺牲乌克兰利益结束",
+        "onboard_time": 1755350845,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45384,
+        "num": 45384,
+        "word": "李沁的睡姿",
+        "onboard_time": 1755346343,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43151,
+        "num": 43151,
+        "word": "内娱4张权威脸同框了",
+        "onboard_time": 1755348745,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37490,
+        "num": 37490,
+        "word": "iPhone一定要关掉的6个设置",
+        "onboard_time": 1755358824,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 68134,
+        "num": 37060,
+        "word": "朋友圈三天可见 置顶特别长",
+        "onboard_time": 1755339443,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39541,
+        "num": 36503,
+        "word": "谢娜是乐华的第一个签约艺人",
+        "onboard_time": 1755351506,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35399,
+        "num": 35399,
+        "word": "展轩刘轩丞一起进场",
+        "onboard_time": 1755363741,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32049,
+        "num": 33585,
+        "word": "山东地震",
+        "onboard_time": 1755350364,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32567,
+        "num": 33260,
+        "word": "庞众望获颁感动中国年度人物",
+        "onboard_time": 1755360922,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 33064,
+        "num": 33064,
+        "word": "普京返俄美国出动F35护航",
+        "onboard_time": 1755358703,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30319,
+        "num": 30319,
+        "word": "献鱼",
+        "onboard_time": 1755349703,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29619,
+        "num": 29619,
+        "word": "美国连体双胞胎姐妹其中一人疑生子",
+        "onboard_time": 1755338244,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28527,
+        "num": 28527,
+        "word": "台湾老百姓都清清楚楚看在眼里",
+        "onboard_time": 1755350064,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24835,
+        "num": 24835,
+        "word": "张凌赫友情出演生万物",
+        "onboard_time": 1755344544,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27611,
+        "num": 24770,
+        "word": "水果刀插入3岁女童颅脑",
+        "onboard_time": 1755332300,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24573,
+        "num": 24573,
+        "word": "生万物",
+        "onboard_time": 1755344363,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24200,
+        "num": 24200,
+        "word": "姑姑霸占侄女房子居住近10年",
+        "onboard_time": 1755349045,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23982,
+        "num": 23982,
+        "word": "小海绵一出生就是顶流待遇",
+        "onboard_time": 1755328942,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23393,
+        "num": 23393,
+        "word": "生万物全员喊人加入俺门",
+        "onboard_time": 1755361161,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22874,
+        "num": 22874,
+        "word": "感动中国",
+        "onboard_time": 1755358345,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22658,
+        "num": 22658,
+        "word": "中国男篮晋级亚洲杯决赛",
+        "onboard_time": 1755348925,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21864,
+        "num": 21864,
+        "word": "微博文化交流之夜",
+        "onboard_time": 1755334102,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21299,
+        "num": 21299,
+        "word": "中国男篮十年后重回决赛",
+        "onboard_time": 1755361522,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20316,
+        "num": 20316,
+        "word": "沈月泰国红毯",
+        "onboard_time": 1755346944,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20051,
+        "num": 20051,
+        "word": "半年流失14万人峨眉山怎么了",
+        "onboard_time": 1755340521,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19551,
+        "num": 19551,
+        "word": "赵睿一直在哭",
+        "onboard_time": 1755361222,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19370,
+        "num": 19370,
+        "word": "卫健局回应水果刀插入3岁女童颅脑",
+        "onboard_time": 1755352945,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10512,
+        "num": 19245,
+        "word": "新疆有多大祖国的爱就有多大",
+        "onboard_time": 1755375914,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19240,
+        "num": 19240,
+        "word": "常州终于进球了",
+        "onboard_time": 1755354684,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19293,
+        "num": 19193,
+        "word": "杨幂再不好过如今也好过了",
+        "onboard_time": 1755354804,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18860,
+        "num": 18860,
+        "word": "33岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755342500,
+        "rank": 36,
+        "category": "健康医疗,休闲"
+      },
+      {
+        "raw_hot": 18752,
+        "num": 18752,
+        "word": "乘客吐槽高铁邻座400斤男子致拥挤",
+        "onboard_time": 1755347243,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18466,
+        "num": 18466,
+        "word": "电影捕风追影",
+        "onboard_time": 1755369019,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18259,
+        "num": 18466,
+        "word": "狼队vs曼城",
+        "onboard_time": 1755368356,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17556,
+        "num": 18465,
+        "word": "上海一奶茶店天花板掉落致1死",
+        "onboard_time": 1755347724,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17474,
+        "num": 18465,
+        "word": "PP欧阳娜娜都好美",
+        "onboard_time": 1755359183,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17151,
+        "num": 18464,
+        "word": "郑钦文获颁感动中国年度人物",
+        "onboard_time": 1755355944,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17043,
+        "num": 18463,
+        "word": "iG对战TES",
+        "onboard_time": 1755359843,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17121,
+        "num": 18463,
+        "word": "郑钦文在没人知道的地方努力",
+        "onboard_time": 1755359303,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16690,
+        "num": 18462,
+        "word": "李世民扮演者称演员要养家糊口",
+        "onboard_time": 1755340825,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16656,
+        "num": 18461,
+        "word": "李若彤被泰国海关质疑年龄",
+        "onboard_time": 1755340941,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16565,
+        "num": 18461,
+        "word": "华晨宇音乐节银发大屏直拍",
+        "onboard_time": 1755350905,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16449,
+        "num": 18460,
+        "word": "银魂",
+        "onboard_time": 1755347903,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16525,
+        "num": 18459,
+        "word": "亚洲杯",
+        "onboard_time": 1755345142,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
