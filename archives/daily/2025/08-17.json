@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755380303084,
+  "endTime": 1755383093574,
   "band_list": [
     {
       "raw_hot": 1063937,
@@ -427,6 +427,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69992,
+      "num": 69992,
+      "word": "特朗普提议泽连斯基达成协议",
+      "onboard_time": 1755378314,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 64743,
+      "num": 64743,
+      "word": "姑姑霸占侄女房子居住近10年",
+      "onboard_time": 1755349045,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60971,
+      "num": 66767,
+      "word": "半年流失14万人峨眉山怎么了",
+      "onboard_time": 1755340521,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56258,
       "num": 85210,
       "word": "郑钦文回应获颁感动中国年度人物",
@@ -475,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42351,
-      "num": 66767,
-      "word": "半年流失14万人峨眉山怎么了",
-      "onboard_time": 1755340521,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42310,
       "num": 84748,
       "word": "张淼怡青岛音乐节造型",
@@ -507,12 +523,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37176,
+      "num": 37176,
+      "word": "卫健局回应水果刀插入3岁女童颅脑",
+      "onboard_time": 1755352945,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36541,
       "num": 135094,
       "word": "谁是在泰国最火爆的精神搭子",
       "onboard_time": 1755357982,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33676,
+      "num": 34646,
+      "word": "感动中国",
+      "onboard_time": 1755358345,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33371,
@@ -523,12 +555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30637,
-      "num": 39198,
-      "word": "特朗普提议泽连斯基达成协议",
-      "onboard_time": 1755378314,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 28748,
+      "num": 28748,
+      "word": "房主任自曝嫁给前夫原因",
+      "onboard_time": 1755340760,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 28645,
@@ -547,28 +579,28 @@
       "category": "互联网,体育"
     },
     {
-      "raw_hot": 26363,
-      "num": 34655,
-      "word": "姑姑霸占侄女房子居住近10年",
-      "onboard_time": 1755349045,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26089,
-      "num": 34646,
-      "word": "感动中国",
-      "onboard_time": 1755358345,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23867,
       "num": 34673,
       "word": "蒲熠星新歌",
       "onboard_time": 1755371596,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23149,
+      "num": 23149,
+      "word": "中国男篮太热血了",
+      "onboard_time": 1755377294,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23055,
+      "num": 23055,
+      "word": "赵睿24分",
+      "onboard_time": 1755378074,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 22690,
@@ -579,20 +611,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 22061,
-      "num": 22061,
-      "word": "卫健局回应水果刀插入3岁女童颅脑",
-      "onboard_time": 1755352945,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21460,
       "num": 34662,
       "word": "袁一琦唱跳舞台好稳",
       "onboard_time": 1755370756,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20901,
+      "num": 20901,
+      "word": "男子吃外卖后上吐下泻险瘫痪",
+      "onboard_time": 1755357143,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20315,
@@ -603,20 +635,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18717,
-      "num": 18717,
-      "word": "赵睿24分",
-      "onboard_time": 1755378074,
-      "rank": 36,
+      "raw_hot": 19837,
+      "num": 19837,
+      "word": "普通家庭对女儿最好的托举",
+      "onboard_time": 1755343041,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 19095,
+      "num": 19095,
+      "word": "亚洲杯",
+      "onboard_time": 1755345142,
+      "rank": 49,
       "category": "体育"
     },
     {
-      "raw_hot": 18496,
-      "num": 18496,
-      "word": "中国男篮太热血了",
-      "onboard_time": 1755377294,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 18912,
+      "num": 18912,
+      "word": "恋综上看到了男生的喜欢真的很明显",
+      "onboard_time": 1755348504,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 17121,
@@ -635,28 +675,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16727,
-      "num": 18459,
-      "word": "亚洲杯",
-      "onboard_time": 1755345142,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 16388,
       "num": 16976,
       "word": "喀什女孩告白祖国的话好暖心",
       "onboard_time": 1755376994,
       "rank": 44,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 16069,
-      "num": 16974,
-      "word": "房主任自曝嫁给前夫原因",
-      "onboard_time": 1755340760,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 11777,
