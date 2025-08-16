@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755329060458,
+  "endTime": 1755329905366,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2563,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1074301,
+      "num": 1171888,
+      "word": "iPhone充电坏习惯",
+      "onboard_time": 1755326482,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1072484,
       "num": 1072484,
       "word": "删了的QQ空间说说复活了",
@@ -3897,14 +3905,6 @@
       "onboard_time": 1754093900,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 822596,
-      "num": 1131615,
-      "word": "iPhone充电坏习惯",
-      "onboard_time": 1755326482,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 822325,
@@ -6875,6 +6875,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 562414,
+      "num": 329699,
+      "word": "韦雪和前男友打架",
+      "onboard_time": 1755328283,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 562181,
       "num": 389472,
       "word": "男子被枪杀地80米外有十几人在干活",
@@ -7081,6 +7089,14 @@
       "onboard_time": 1754564424,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 548004,
+      "num": 441544,
+      "word": "向太谈两次从黑社会手里救梅艳芳",
+      "onboard_time": 1755327203,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 546669,
@@ -8963,14 +8979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441545,
-      "num": 441544,
-      "word": "向太谈两次从黑社会手里救梅艳芳",
-      "onboard_time": 1755327203,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 441295,
       "num": 295847,
       "word": "赵露思直播拍商务",
@@ -9345,6 +9353,14 @@
       "onboard_time": 1754021241,
       "rank": 38,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 419787,
+      "num": 304345,
+      "word": "小海绵一出生就是顶流待遇",
+      "onboard_time": 1755328942,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 419569,
@@ -11067,20 +11083,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350860,
+      "num": 458489,
+      "word": "沈佳润美美桑内传到郑秀妍了",
+      "onboard_time": 1755325942,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350777,
       "num": 249714,
       "word": "周扬青一句话在场男人都沉默了",
       "onboard_time": 1755324862,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350721,
-      "num": 458489,
-      "word": "沈佳润美美桑内传到郑秀妍了",
-      "onboard_time": 1755325942,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 350666,
@@ -12875,6 +12891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292334,
+      "num": 207114,
+      "word": "绣绣第一个孩子流产了",
+      "onboard_time": 1755329723,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292322,
       "num": 292322,
       "word": "张晋心脏做了支架",
@@ -13235,6 +13259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283076,
+      "num": 239631,
+      "word": "严浩翔喊丁程鑫哥哥",
+      "onboard_time": 1755328341,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282896,
       "num": 335167,
       "word": "782万元彩票大奖无人兑奖已作废",
@@ -13385,6 +13417,14 @@
       "onboard_time": 1754143530,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277299,
+      "num": 455192,
+      "word": "官方通报杭州地铁一乘客充电宝自燃",
+      "onboard_time": 1755325282,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 276965,
@@ -13961,14 +14001,6 @@
       "onboard_time": 1754562803,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 265821,
-      "num": 265821,
-      "word": "韦雪和前男友打架",
-      "onboard_time": 1755328283,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 265639,
@@ -15531,14 +15563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233806,
-      "num": 233806,
-      "word": "严浩翔喊丁程鑫哥哥",
-      "onboard_time": 1755328341,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233700,
       "num": 233700,
       "word": "网传歌手总决赛帮唱和独唱歌单",
@@ -15553,14 +15577,6 @@
       "onboard_time": 1755286334,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 233388,
-      "num": 455192,
-      "word": "官方通报杭州地铁一乘客充电宝自燃",
-      "onboard_time": 1755325282,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 233227,
@@ -17779,6 +17795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206867,
+      "num": 206867,
+      "word": "丁程鑫跳了扫腿舞",
+      "onboard_time": 1755328942,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206863,
       "num": 206863,
       "word": "鞠婧祎周也什么时候认识的",
@@ -19281,6 +19305,14 @@
       "onboard_time": 1755153082,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 197542,
+      "num": 207166,
+      "word": "内娱舅舅舅妈的时代来了",
+      "onboard_time": 1755328882,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 197441,
@@ -21705,6 +21737,14 @@
       "onboard_time": 1754302703,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 183390,
+      "num": 183390,
+      "word": "陈都灵人间芭乐",
+      "onboard_time": 1755329183,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 183359,
@@ -24203,6 +24243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169288,
+      "num": 169288,
+      "word": "倪萍要给董璇介绍专家咨询高龄生产",
+      "onboard_time": 1755329123,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169287,
       "num": 169287,
       "word": "来战",
@@ -26083,14 +26131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159321,
-      "num": 159321,
-      "word": "内娱舅舅舅妈的时代来了",
-      "onboard_time": 1755328882,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159308,
       "num": 159308,
       "word": "育儿补贴被母婴商家偷走了吗",
@@ -27201,6 +27241,14 @@
       "onboard_time": 1754533941,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154714,
+      "num": 154714,
+      "word": "张雅琪划桨李沁你就操心吧",
+      "onboard_time": 1755329603,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 154610,
@@ -29563,14 +29611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145227,
-      "num": 145227,
-      "word": "丁程鑫跳了扫腿舞",
-      "onboard_time": 1755328942,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145120,
       "num": 145120,
       "word": "张成教练谈张本智和医疗暂停",
@@ -30257,6 +30297,14 @@
       "onboard_time": 1754463263,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142412,
+      "num": 142412,
+      "word": "杨博文告白粉丝",
+      "onboard_time": 1755329061,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 142403,
@@ -32315,6 +32363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135686,
+      "num": 176985,
+      "word": "田曦薇早期素人直播",
+      "onboard_time": 1755329003,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135668,
       "num": 135668,
       "word": "黄子韬卸任公司执行董事职务",
@@ -32601,6 +32657,14 @@
       "onboard_time": 1754209344,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134786,
+      "num": 212957,
+      "word": "三伏天就剩2天了",
+      "onboard_time": 1755329123,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134778,
@@ -33177,6 +33241,14 @@
       "onboard_time": 1754536100,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133221,
+      "num": 133221,
+      "word": "刷牙多年竟全刷错了",
+      "onboard_time": 1755329723,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133132,
@@ -34193,6 +34265,14 @@
       "onboard_time": 1754225605,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129853,
+      "num": 305929,
+      "word": "杭州地铁起火的充电宝已被拿走调查",
+      "onboard_time": 1755328162,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129820,
@@ -39419,6 +39499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113261,
+      "num": 177458,
+      "word": "常州又把36计玩出了新花样",
+      "onboard_time": 1755329363,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113238,
       "num": 113238,
       "word": "代号鸢",
@@ -42283,14 +42371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 103187,
-      "num": 175418,
-      "word": "杭州地铁起火的充电宝已被拿走调查",
-      "onboard_time": 1755328162,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103184,
       "num": 103184,
       "word": "张艺兴成都演唱会",
@@ -43105,6 +43185,14 @@
       "onboard_time": 1754285843,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99566,
+      "num": 153640,
+      "word": "美国女孩被中国种草了",
+      "onboard_time": 1755326542,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99563,
@@ -46411,14 +46499,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 79980,
-      "num": 153640,
-      "word": "美国女孩被中国种草了",
-      "onboard_time": 1755326542,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 79720,
       "num": 93971,
       "word": "马嘉祺星钥卡到底在谁手里",
@@ -46745,14 +46825,6 @@
       "onboard_time": 1754552483,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77011,
-      "num": 164616,
-      "word": "小海绵一出生就是顶流待遇",
-      "onboard_time": 1755328942,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 76900,
@@ -50595,14 +50667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40012,
-      "num": 162756,
-      "word": "田曦薇早期素人直播",
-      "onboard_time": 1755329003,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39969,
       "num": 149827,
       "word": "汉谟拉比与商汤是同一人 作者发声",
@@ -50865,6 +50929,14 @@
       "onboard_time": 1754840962,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37424,
+      "num": 176906,
+      "word": "男子当儿子面杀前妻曾说离婚就杀你",
+      "onboard_time": 1755329242,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37396,

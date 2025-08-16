@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755329060458,
+  "endTime": 1755329905366,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1074301,
+      "num": 1171888,
+      "word": "iPhone充电坏习惯",
+      "onboard_time": 1755326482,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 979413,
       "num": 206282,
       "word": "宋亚轩",
@@ -137,14 +145,6 @@
       "onboard_time": 1755320241,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 822596,
-      "num": 1131615,
-      "word": "iPhone充电坏习惯",
-      "onboard_time": 1755326482,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 804364,
@@ -259,6 +259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 562414,
+      "num": 329699,
+      "word": "韦雪和前男友打架",
+      "onboard_time": 1755328283,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 548004,
+      "num": 441544,
+      "word": "向太谈两次从黑社会手里救梅艳芳",
+      "onboard_time": 1755327203,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538505,
       "num": 270946,
       "word": "敬我的女儿魔童降世",
@@ -371,20 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 441545,
-      "num": 441544,
-      "word": "向太谈两次从黑社会手里救梅艳芳",
-      "onboard_time": 1755327203,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428430,
       "num": 404631,
       "word": "租了半年房发现灯罩里有摄像头",
       "onboard_time": 1755305720,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419787,
+      "num": 304345,
+      "word": "小海绵一出生就是顶流待遇",
+      "onboard_time": 1755328942,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 419569,
@@ -451,20 +467,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350860,
+      "num": 458489,
+      "word": "沈佳润美美桑内传到郑秀妍了",
+      "onboard_time": 1755325942,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350777,
       "num": 249714,
       "word": "周扬青一句话在场男人都沉默了",
       "onboard_time": 1755324862,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350721,
-      "num": 458489,
-      "word": "沈佳润美美桑内传到郑秀妍了",
-      "onboard_time": 1755325942,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 330095,
@@ -563,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292334,
+      "num": 207114,
+      "word": "绣绣第一个孩子流产了",
+      "onboard_time": 1755329723,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289432,
       "num": 251006,
       "word": "马思纯 姐只是一味不懂",
@@ -595,12 +619,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265821,
-      "num": 265821,
-      "word": "韦雪和前男友打架",
-      "onboard_time": 1755328283,
-      "rank": 23,
-      "category": "网红"
+      "raw_hot": 283076,
+      "num": 239631,
+      "word": "严浩翔喊丁程鑫哥哥",
+      "onboard_time": 1755328341,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 277299,
+      "num": 455192,
+      "word": "官方通报杭州地铁一乘客充电宝自燃",
+      "onboard_time": 1755325282,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 265265,
@@ -691,28 +723,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 233806,
-      "num": 233806,
-      "word": "严浩翔喊丁程鑫哥哥",
-      "onboard_time": 1755328341,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233595,
       "num": 233595,
       "word": "特朗普机场迎接普京",
       "onboard_time": 1755286334,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 233388,
-      "num": 455192,
-      "word": "官方通报杭州地铁一乘客充电宝自燃",
-      "onboard_time": 1755325282,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 224125,
@@ -779,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206867,
+      "num": 206867,
+      "word": "丁程鑫跳了扫腿舞",
+      "onboard_time": 1755328942,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204897,
       "num": 204897,
       "word": "新说唱为严浩翔庆生",
@@ -833,6 +857,14 @@
       "onboard_time": 1755318622,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197542,
+      "num": 207166,
+      "word": "内娱舅舅舅妈的时代来了",
+      "onboard_time": 1755328882,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 191055,
@@ -921,6 +953,14 @@
       "onboard_time": 1755299537,
       "rank": 17,
       "category": "剧集,运动健身"
+    },
+    {
+      "raw_hot": 183390,
+      "num": 183390,
+      "word": "陈都灵人间芭乐",
+      "onboard_time": 1755329183,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 181483,
@@ -1051,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169288,
+      "num": 169288,
+      "word": "倪萍要给董璇介绍专家咨询高龄生产",
+      "onboard_time": 1755329123,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169287,
       "num": 169287,
       "word": "来战",
@@ -1147,14 +1195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 159321,
-      "num": 159321,
-      "word": "内娱舅舅舅妈的时代来了",
-      "onboard_time": 1755328882,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158927,
       "num": 158927,
       "word": "陆虎袜子里穿了鞋垫",
@@ -1235,12 +1275,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154714,
+      "num": 154714,
+      "word": "张雅琪划桨李沁你就操心吧",
+      "onboard_time": 1755329603,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154610,
       "num": 154610,
       "word": "李一桐穿旗袍妈妈级别",
       "onboard_time": 1755324683,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154262,
+      "num": 207729,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1755328402,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 153790,
@@ -1299,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148412,
-      "num": 148412,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1755328402,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 148263,
       "num": 277370,
       "word": "市监回应电梯施工人员名单现多位明星",
@@ -1347,20 +1395,20 @@
       "category": "艺人,健康医疗"
     },
     {
-      "raw_hot": 145227,
-      "num": 145227,
-      "word": "丁程鑫跳了扫腿舞",
-      "onboard_time": 1755328942,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143369,
       "num": 143369,
       "word": "严浩翔刘耀文21比成12了",
       "onboard_time": 1755301518,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142412,
+      "num": 142412,
+      "word": "杨博文告白粉丝",
+      "onboard_time": 1755329061,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 141907,
@@ -1443,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135686,
+      "num": 176985,
+      "word": "田曦薇早期素人直播",
+      "onboard_time": 1755329003,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135354,
       "num": 135354,
       "word": "唐香玉五年没亲过嘴了",
@@ -1467,12 +1523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134786,
+      "num": 212957,
+      "word": "三伏天就剩2天了",
+      "onboard_time": 1755329123,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134674,
       "num": 134674,
       "word": "雷军送2000份玄戒O1芯片",
       "onboard_time": 1755310042,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 133221,
+      "num": 133221,
+      "word": "刷牙多年竟全刷错了",
+      "onboard_time": 1755329723,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131727,
@@ -1489,6 +1561,14 @@
       "onboard_time": 1755327743,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129853,
+      "num": 305929,
+      "word": "杭州地铁起火的充电宝已被拿走调查",
+      "onboard_time": 1755328162,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128457,
@@ -1691,6 +1771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113261,
+      "num": 177458,
+      "word": "常州又把36计玩出了新花样",
+      "onboard_time": 1755329363,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111423,
       "num": 111423,
       "word": "深圳苹果新店开业有人连夜排队",
@@ -1731,14 +1819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103187,
-      "num": 175418,
-      "word": "杭州地铁起火的充电宝已被拿走调查",
-      "onboard_time": 1755328162,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102640,
       "num": 157469,
       "word": "于正晒合照为吴谨言庆生",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1755325341,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99566,
+      "num": 153640,
+      "word": "美国女孩被中国种草了",
+      "onboard_time": 1755326542,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99550,
@@ -1891,14 +1979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79980,
-      "num": 153640,
-      "word": "美国女孩被中国种草了",
-      "onboard_time": 1755326542,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 79668,
       "num": 223112,
       "word": "俄称美俄总统会谈进展非常顺利",
@@ -1913,14 +1993,6 @@
       "onboard_time": 1755299537,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 77011,
-      "num": 164616,
-      "word": "小海绵一出生就是顶流待遇",
-      "onboard_time": 1755328942,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 76661,
@@ -2091,20 +2163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40012,
-      "num": 162756,
-      "word": "田曦薇早期素人直播",
-      "onboard_time": 1755329003,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39085,
       "num": 51853,
       "word": "黄子弘凡把浪浪山搬到演唱会",
       "onboard_time": 1755279557,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37424,
+      "num": 176906,
+      "word": "男子当儿子面杀前妻曾说离婚就杀你",
+      "onboard_time": 1755329242,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33053,
