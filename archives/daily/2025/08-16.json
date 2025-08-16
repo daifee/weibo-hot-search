@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755322992152,
+  "endTime": 1755326189780,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -17,6 +17,14 @@
       "onboard_time": 1755300798,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1626828,
+      "num": 388807,
+      "word": "岳云鹏帮女艺人挡酒被换掉",
+      "onboard_time": 1755322882,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 1590892,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 570708,
+      "num": 255449,
+      "word": "王嘉尔食物中毒",
+      "onboard_time": 1755321321,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 566245,
       "num": 566245,
       "word": "续面老板回应店面700余条差评",
@@ -315,20 +331,20 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 447174,
+      "num": 194021,
+      "word": "花少第一次行李没超重",
+      "onboard_time": 1755323661,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 428430,
       "num": 404631,
       "word": "租了半年房发现灯罩里有摄像头",
       "onboard_time": 1755305720,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 421983,
-      "num": 255449,
-      "word": "王嘉尔食物中毒",
-      "onboard_time": 1755321321,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 419569,
@@ -345,6 +361,14 @@
       "onboard_time": 1755317841,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413465,
+      "num": 190901,
+      "word": "董璇张维伊曾达成一致不要二胎",
+      "onboard_time": 1755324862,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 402370,
@@ -371,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381050,
+      "num": 381050,
+      "word": "人民日报评肖某董某莹事件处置",
+      "onboard_time": 1755323302,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379548,
       "num": 826319,
       "word": "广东100%的蚊子出现抗药性",
@@ -393,6 +425,22 @@
       "onboard_time": 1755270925,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350777,
+      "num": 189412,
+      "word": "周扬青一句话在场男人都沉默了",
+      "onboard_time": 1755324862,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 340945,
+      "num": 188424,
+      "word": "黄一鸣自曝公开孩子父亲的原因",
+      "onboard_time": 1755325642,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 330095,
@@ -659,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208374,
+      "num": 184090,
+      "word": "吻婴儿月嫂道歉称宝宝太可爱没忍住",
+      "onboard_time": 1755324560,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204897,
       "num": 204897,
       "word": "新说唱为严浩翔庆生",
@@ -819,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180618,
+      "num": 180618,
+      "word": "张晚意晕车实录",
+      "onboard_time": 1755324741,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180596,
       "num": 180596,
       "word": "黄景瑜也逃不过对188的真香",
@@ -843,12 +907,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 177739,
+      "num": 177739,
+      "word": "严浩翔打火机生日转场",
+      "onboard_time": 1755324862,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177377,
       "num": 177377,
       "word": "鹿晗唇钉",
       "onboard_time": 1755262402,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175462,
+      "num": 175462,
+      "word": "开始懂了陈小春为什么总唱第一句",
+      "onboard_time": 1755323483,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 174991,
@@ -873,6 +953,14 @@
       "onboard_time": 1755321201,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168241,
+      "num": 168241,
+      "word": "沈佳润美美桑内传到郑秀妍了",
+      "onboard_time": 1755325942,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 168053,
@@ -979,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157458,
+      "num": 157458,
+      "word": "肖战长得很帅还香香的男生",
+      "onboard_time": 1755323122,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156812,
       "num": 156812,
       "word": "男孩目睹母亲被害患应激性心理障碍",
@@ -1009,6 +1105,14 @@
       "onboard_time": 1755264863,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154610,
+      "num": 154610,
+      "word": "李一桐穿旗袍妈妈级别",
+      "onboard_time": 1755324683,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 153790,
@@ -1107,12 +1211,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141178,
+      "num": 141178,
+      "word": "李现带着角色皮肤出组了",
+      "onboard_time": 1755325761,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140898,
+      "num": 140898,
+      "word": "陆虎找撒贝宁签名",
+      "onboard_time": 1755325942,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140835,
       "num": 140835,
       "word": "献鱼特效",
       "onboard_time": 1755322283,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140142,
+      "num": 140705,
+      "word": "奥地利偶遇俞灏明王晓晨",
+      "onboard_time": 1755322462,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 139331,
@@ -1169,6 +1297,14 @@
       "onboard_time": 1755310042,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132848,
+      "num": 183431,
+      "word": "官方通报杭州地铁一乘客充电宝自燃",
+      "onboard_time": 1755325282,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 131727,
@@ -1249,14 +1385,6 @@
       "onboard_time": 1755322402,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124661,
-      "num": 124661,
-      "word": "岳云鹏帮女艺人挡酒被换掉",
-      "onboard_time": 1755322882,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 123417,
@@ -1425,6 +1553,14 @@
       "onboard_time": 1755315082,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101210,
+      "num": 168432,
+      "word": "张泉灵反对倪萍催董璇生二胎",
+      "onboard_time": 1755325341,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 99550,
@@ -1659,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55380,
-      "num": 140705,
-      "word": "奥地利偶遇俞灏明王晓晨",
-      "onboard_time": 1755322462,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 55168,
       "num": 55168,
       "word": "俄美总统阿拉斯加会面",
@@ -1689,6 +1817,14 @@
       "onboard_time": 1755273022,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48876,
+      "num": 199728,
+      "word": "香奈儿的蓝",
+      "onboard_time": 1755323182,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 46824,
@@ -1755,6 +1891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29944,
+      "num": 1170031,
+      "word": "神二十乘组圆满完成第三次出舱",
+      "onboard_time": 1755271464,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29589,
       "num": 240465,
       "word": "烽火里的山东记忆",
@@ -1763,12 +1907,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27955,
-      "num": 1170031,
-      "word": "神二十乘组圆满完成第三次出舱",
-      "onboard_time": 1755271464,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 28706,
+      "num": 169148,
+      "word": "张纪中两个儿子发生争执",
+      "onboard_time": 1755325701,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27238,
+      "num": 192174,
+      "word": "长痛短痛轮到哥哥们做选择了",
+      "onboard_time": 1755324381,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 21727,

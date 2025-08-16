@@ -1,0 +1,410 @@
+{
+  "runTime": 1755326189780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 810501,
+        "num": 1129680,
+        "word": "韩立结婴",
+        "onboard_time": 1755314123,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 656746,
+        "num": 656746,
+        "word": "贺峻霖四级成绩",
+        "onboard_time": 1755300798,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29944,
+        "num": 392428,
+        "word": "神二十乘组圆满完成第三次出舱",
+        "onboard_time": 1755271464,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1626828,
+        "num": 388807,
+        "word": "岳云鹏帮女艺人挡酒被换掉",
+        "onboard_time": 1755322882,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381050,
+        "num": 381050,
+        "word": "人民日报评肖某董某莹事件处置",
+        "onboard_time": 1755323302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244816,
+        "num": 244816,
+        "word": "王楚钦将参加北大新生考试",
+        "onboard_time": 1755317841,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610825,
+        "num": 236234,
+        "word": "金智源确诊白血病",
+        "onboard_time": 1755303440,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570708,
+        "num": 234577,
+        "word": "王嘉尔食物中毒",
+        "onboard_time": 1755321321,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225228,
+        "num": 225228,
+        "word": "普京说俄永远记得俄美曾共对敌人",
+        "onboard_time": 1755310821,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200978,
+        "num": 200978,
+        "word": "康如 樊振东",
+        "onboard_time": 1755316940,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 815854,
+        "num": 200266,
+        "word": "张维伊想当父亲是因为缺创作素材",
+        "onboard_time": 1755320241,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48876,
+        "num": 199728,
+        "word": "香奈儿的蓝",
+        "onboard_time": 1755323182,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672398,
+        "num": 198389,
+        "word": "朋友圈跳赞",
+        "onboard_time": 1755316940,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 670181,
+        "num": 197825,
+        "word": "贺峻霖晒白发严浩翔",
+        "onboard_time": 1755321201,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515110,
+        "num": 196841,
+        "word": "飞行学员被曝出轨10余名女子",
+        "onboard_time": 1755312141,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70467,
+        "num": 195957,
+        "word": "男子为提前3年退休篡改人事档案",
+        "onboard_time": 1755319402,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464768,
+        "num": 194893,
+        "word": "生万物破万",
+        "onboard_time": 1755318562,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447174,
+        "num": 194021,
+        "word": "花少第一次行李没超重",
+        "onboard_time": 1755323661,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371730,
+        "num": 193307,
+        "word": "千万别被网上的独居精致生活骗了",
+        "onboard_time": 1755315921,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27238,
+        "num": 192174,
+        "word": "长痛短痛轮到哥哥们做选择了",
+        "onboard_time": 1755324381,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413465,
+        "num": 190901,
+        "word": "董璇张维伊曾达成一致不要二胎",
+        "onboard_time": 1755324862,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401721,
+        "num": 190619,
+        "word": "杨幂说孩子就这两天出生",
+        "onboard_time": 1755319882,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350777,
+        "num": 189412,
+        "word": "周扬青一句话在场男人都沉默了",
+        "onboard_time": 1755324862,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340945,
+        "num": 188424,
+        "word": "黄一鸣自曝公开孩子父亲的原因",
+        "onboard_time": 1755325642,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154326,
+        "num": 187423,
+        "word": "王楚钦 路易威登",
+        "onboard_time": 1755320902,
+        "rank": 24,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 277041,
+        "num": 186980,
+        "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
+        "onboard_time": 1755318143,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272862,
+        "num": 186152,
+        "word": "那英 综艺蝗虫",
+        "onboard_time": 1755316100,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240604,
+        "num": 185218,
+        "word": "梓渝杂志",
+        "onboard_time": 1755318622,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208374,
+        "num": 184090,
+        "word": "吻婴儿月嫂道歉称宝宝太可爱没忍住",
+        "onboard_time": 1755324560,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132848,
+        "num": 183431,
+        "word": "官方通报杭州地铁一乘客充电宝自燃",
+        "onboard_time": 1755325282,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 182637,
+        "num": 182637,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1755315682,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182562,
+        "num": 182562,
+        "word": "马嘉祺 生日快乐浩翔",
+        "onboard_time": 1755322641,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180618,
+        "num": 180618,
+        "word": "张晚意晕车实录",
+        "onboard_time": 1755324741,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177739,
+        "num": 177739,
+        "word": "严浩翔打火机生日转场",
+        "onboard_time": 1755324862,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128426,
+        "num": 176732,
+        "word": "广东100%的蚊子出现抗药性",
+        "onboard_time": 1755311840,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176397,
+        "num": 176397,
+        "word": "宋亚轩 祝你一直做了不起的严浩翔",
+        "onboard_time": 1755321922,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175462,
+        "num": 175462,
+        "word": "开始懂了陈小春为什么总唱第一句",
+        "onboard_time": 1755323483,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110685,
+        "num": 170067,
+        "word": "全国多地物业费大跳水",
+        "onboard_time": 1755321562,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28706,
+        "num": 169148,
+        "word": "张纪中两个儿子发生争执",
+        "onboard_time": 1755325701,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101210,
+        "num": 168432,
+        "word": "张泉灵反对倪萍催董璇生二胎",
+        "onboard_time": 1755325341,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168241,
+        "num": 168241,
+        "word": "沈佳润美美桑内传到郑秀妍了",
+        "onboard_time": 1755325942,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164749,
+        "num": 164749,
+        "word": "B站崩了",
+        "onboard_time": 1755314301,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157458,
+        "num": 157458,
+        "word": "肖战长得很帅还香香的男生",
+        "onboard_time": 1755323122,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154610,
+        "num": 154610,
+        "word": "李一桐穿旗袍妈妈级别",
+        "onboard_time": 1755324683,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146643,
+        "num": 146643,
+        "word": "周一周五基础周六就不基础",
+        "onboard_time": 1755322821,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143157,
+        "num": 143157,
+        "word": "李沁说在张若昀婚礼把妆化费要回来了",
+        "onboard_time": 1755307460,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141178,
+        "num": 141178,
+        "word": "李现带着角色皮肤出组了",
+        "onboard_time": 1755325761,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140898,
+        "num": 140898,
+        "word": "陆虎找撒贝宁签名",
+        "onboard_time": 1755325942,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140597,
+        "num": 140597,
+        "word": "生万物",
+        "onboard_time": 1755310579,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140142,
+        "num": 140142,
+        "word": "奥地利偶遇俞灏明王晓晨",
+        "onboard_time": 1755322462,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
