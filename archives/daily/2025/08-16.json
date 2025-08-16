@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755315257212,
+  "endTime": 1755318768373,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1521082,
-      "num": 921485,
+      "num": 1423239,
       "word": "贺峻霖四级成绩",
       "onboard_time": 1755300798,
       "rank": 4,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1264146,
-      "num": 431967,
+      "num": 563833,
       "word": "飞行学员被曝出轨10余名女子",
       "onboard_time": 1755312141,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1189926,
-      "num": 590891,
+      "num": 721739,
       "word": "李沁说在张若昀婚礼把妆化费要回来了",
       "onboard_time": 1755307460,
       "rank": 10,
@@ -67,12 +67,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 964843,
+      "num": 964843,
+      "word": "B站崩了",
+      "onboard_time": 1755314301,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 919708,
       "num": 919708,
       "word": "凡人修仙传",
       "onboard_time": 1755314422,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 834707,
+      "num": 834707,
+      "word": "那英 综艺蝗虫",
+      "onboard_time": 1755316100,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 804364,
@@ -97,6 +113,14 @@
       "onboard_time": 1755275481,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 682504,
+      "num": 682504,
+      "word": "宋亚轩 敬山水",
+      "onboard_time": 1755315682,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 664328,
@@ -147,20 +171,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 584329,
-      "num": 584329,
-      "word": "B站崩了",
-      "onboard_time": 1755314301,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 566245,
       "num": 566245,
       "word": "续面老板回应店面700余条差评",
       "onboard_time": 1755269363,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557414,
+      "num": 557414,
+      "word": "千万别被网上的独居精致生活骗了",
+      "onboard_time": 1755315921,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 538505,
@@ -219,12 +243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469990,
+      "num": 469990,
+      "word": "梓渝登人民交通杂志封面",
+      "onboard_time": 1755317301,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 455932,
       "num": 269145,
       "word": "贺峻霖",
       "onboard_time": 1755276140,
       "rank": 16,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 431114,
+      "num": 431114,
+      "word": "渝光同行照亮回家路",
+      "onboard_time": 1755318562,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 428430,
@@ -257,6 +297,14 @@
       "onboard_time": 1755312021,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379548,
+      "num": 826319,
+      "word": "广东100%的蚊子出现抗药性",
+      "onboard_time": 1755311840,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360022,
@@ -339,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298170,
+      "num": 229435,
+      "word": "生万物",
+      "onboard_time": 1755310579,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289432,
       "num": 251006,
       "word": "马思纯 姐只是一味不懂",
@@ -353,6 +409,22 @@
       "onboard_time": 1755299778,
       "rank": 23,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 284969,
+      "num": 228426,
+      "word": "太湖湾音乐节阵容",
+      "onboard_time": 1755315321,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 284247,
+      "num": 284247,
+      "word": "康如 樊振东",
+      "onboard_time": 1755316940,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 283880,
@@ -387,20 +459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252621,
+      "num": 252621,
+      "word": "王楚钦将参加北大新生考试",
+      "onboard_time": 1755317841,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252054,
       "num": 252054,
       "word": "六级",
       "onboard_time": 1755299718,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 249448,
-      "num": 444106,
-      "word": "广东100%的蚊子出现抗药性",
-      "onboard_time": 1755311840,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244471,
@@ -433,6 +505,14 @@
       "onboard_time": 1755313342,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 238276,
+      "num": 238276,
+      "word": "朋友圈跳赞",
+      "onboard_time": 1755316940,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 233595,
@@ -475,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215746,
+      "num": 215746,
+      "word": "梓渝杂志",
+      "onboard_time": 1755318622,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214731,
       "num": 271334,
       "word": "新华社记者直击美俄总统会晤现场",
@@ -483,12 +571,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213450,
+      "num": 213450,
+      "word": "朱雨玲谈樊振东征战德甲",
+      "onboard_time": 1755317422,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212888,
+      "num": 212888,
+      "word": "生万物娘好好一窝",
+      "onboard_time": 1755318081,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208489,
+      "num": 208489,
+      "word": "献鱼开播",
+      "onboard_time": 1755317422,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204897,
       "num": 204897,
       "word": "新说唱为严浩翔庆生",
       "onboard_time": 1755313461,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204397,
+      "num": 204397,
+      "word": "国色芳华的顾问竟然是00后",
+      "onboard_time": 1755318262,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 201089,
@@ -507,11 +627,11 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 189433,
-      "num": 189433,
-      "word": "生万物",
-      "onboard_time": 1755310579,
-      "rank": 24,
+      "raw_hot": 190054,
+      "num": 190054,
+      "word": "生万物破万",
+      "onboard_time": 1755318562,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -620,10 +740,26 @@
     },
     {
       "raw_hot": 174991,
-      "num": 174991,
+      "num": 566956,
       "word": "男孩掰断艺术品监控被播放12年",
       "onboard_time": 1755306501,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174129,
+      "num": 174129,
+      "word": "花儿与少年7",
+      "onboard_time": 1755318622,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170650,
+      "num": 170650,
+      "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
+      "onboard_time": 1755318143,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -633,6 +769,14 @@
       "onboard_time": 1755306201,
       "rank": 28,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 163912,
+      "num": 163912,
+      "word": "国王与乞丐的含金量还在上升",
+      "onboard_time": 1755317722,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 162104,
@@ -763,6 +907,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 147593,
+      "num": 147593,
+      "word": "男子入室抢劫拍业主裸照并杀人",
+      "onboard_time": 1755315741,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145539,
       "num": 145539,
       "word": "周深 云南白药",
@@ -787,6 +939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139331,
+      "num": 139331,
+      "word": "谢娜时隔八年再唱天下",
+      "onboard_time": 1755316700,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137301,
       "num": 137301,
       "word": "谁家男主在亲爸婚礼撒纸钱啊",
@@ -801,6 +961,14 @@
       "onboard_time": 1755273022,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136614,
+      "num": 136614,
+      "word": "韩立进入胶带期",
+      "onboard_time": 1755317062,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 135933,
@@ -945,6 +1113,14 @@
       "onboard_time": 1755307702,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 115409,
+      "num": 128454,
+      "word": "半导体巨头突然暴跌",
+      "onboard_time": 1755316700,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 111423,
@@ -1187,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62864,
+      "num": 163924,
+      "word": "那英我一激动就删好友",
+      "onboard_time": 1755318323,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62785,
       "num": 84089,
       "word": "喜剧之王单口季",
@@ -1217,6 +1401,14 @@
       "onboard_time": 1755273022,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46824,
+      "num": 235575,
+      "word": "看屏千遍不如见龚俊一面",
+      "onboard_time": 1755315381,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 45908,
@@ -1276,7 +1468,7 @@
     },
     {
       "raw_hot": 26861,
-      "num": 922101,
+      "num": 1076494,
       "word": "神二十乘组圆满完成第三次出舱",
       "onboard_time": 1755271464,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755315257212,
+  "endTime": 1755318768373,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 1521082,
-      "num": 921485,
+      "num": 1423239,
       "word": "贺峻霖四级成绩",
       "onboard_time": 1755300798,
       "rank": 4,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 1264146,
-      "num": 431967,
+      "num": 563833,
       "word": "飞行学员被曝出轨10余名女子",
       "onboard_time": 1755312141,
       "rank": 10,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 1189926,
-      "num": 590891,
+      "num": 721739,
       "word": "李沁说在张若昀婚礼把妆化费要回来了",
       "onboard_time": 1755307460,
       "rank": 10,
@@ -1195,6 +1195,14 @@
       "category": "剧集,剧集"
     },
     {
+      "raw_hot": 964843,
+      "num": 964843,
+      "word": "B站崩了",
+      "onboard_time": 1755314301,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 963163,
       "num": 963163,
       "word": "麦琳称录完再见爱人过得不好",
@@ -1489,6 +1497,14 @@
       "onboard_time": 1755008665,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 834707,
+      "num": 834707,
+      "word": "那英 综艺蝗虫",
+      "onboard_time": 1755316100,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 829498,
@@ -2035,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 682504,
+      "num": 682504,
+      "word": "宋亚轩 敬山水",
+      "onboard_time": 1755315682,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 681662,
       "num": 347776,
       "word": "杨超越才发现照片里的虫子",
@@ -2523,14 +2547,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 584329,
-      "num": 584329,
-      "word": "B站崩了",
-      "onboard_time": 1755314301,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 581768,
       "num": 581768,
       "word": "中纪委明确公职人员禁止6类副业",
@@ -2673,6 +2689,14 @@
       "onboard_time": 1754826082,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557414,
+      "num": 557414,
+      "word": "千万别被网上的独居精致生活骗了",
+      "onboard_time": 1755315921,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 555524,
@@ -3315,6 +3339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469990,
+      "num": 469990,
+      "word": "梓渝登人民交通杂志封面",
+      "onboard_time": 1755317301,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 468320,
       "num": 468320,
       "word": "郭麒麟为拍戏拒绝接班德云社",
@@ -3633,6 +3665,14 @@
       "onboard_time": 1754754563,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 431114,
+      "num": 431114,
+      "word": "渝光同行照亮回家路",
+      "onboard_time": 1755318562,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 430051,
@@ -4145,6 +4185,14 @@
       "onboard_time": 1755163102,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379548,
+      "num": 826319,
+      "word": "广东100%的蚊子出现抗药性",
+      "onboard_time": 1755311840,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379052,
@@ -5227,11 +5275,27 @@
       "category": "时尚,财经"
     },
     {
+      "raw_hot": 284969,
+      "num": 228426,
+      "word": "太湖湾音乐节阵容",
+      "onboard_time": 1755315321,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 284734,
       "num": 422519,
       "word": "王楚钦9冠孙颖莎12冠",
       "onboard_time": 1754971102,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 284247,
+      "num": 284247,
+      "word": "康如 樊振东",
+      "onboard_time": 1755316940,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -5771,6 +5835,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 252621,
+      "num": 252621,
+      "word": "王楚钦将参加北大新生考试",
+      "onboard_time": 1755317841,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252054,
       "num": 252054,
       "word": "六级",
@@ -5817,14 +5889,6 @@
       "onboard_time": 1754915663,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249448,
-      "num": 444106,
-      "word": "广东100%的蚊子出现抗药性",
-      "onboard_time": 1755311840,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249154,
@@ -6073,6 +6137,14 @@
       "onboard_time": 1754801241,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238276,
+      "num": 238276,
+      "word": "朋友圈跳赞",
+      "onboard_time": 1755316940,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 237605,
@@ -6627,6 +6699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215746,
+      "num": 215746,
+      "word": "梓渝杂志",
+      "onboard_time": 1755318622,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215635,
       "num": 214033,
       "word": "印度男子载亡妻尸体求救无人相助",
@@ -6699,6 +6779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213450,
+      "num": 213450,
+      "word": "朱雨玲谈樊振东征战德甲",
+      "onboard_time": 1755317422,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213406,
       "num": 213406,
       "word": "李乃文老婆杨婷",
@@ -6729,6 +6817,14 @@
       "onboard_time": 1755129623,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212888,
+      "num": 212888,
+      "word": "生万物娘好好一窝",
+      "onboard_time": 1755318081,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 212160,
@@ -6841,6 +6937,14 @@
       "onboard_time": 1754791822,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208489,
+      "num": 208489,
+      "word": "献鱼开播",
+      "onboard_time": 1755317422,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 208457,
@@ -6993,6 +7097,14 @@
       "onboard_time": 1755133223,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204397,
+      "num": 204397,
+      "word": "国色芳华的顾问竟然是00后",
+      "onboard_time": 1755318262,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 204342,
@@ -8123,6 +8235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190054,
+      "num": 190054,
+      "word": "生万物破万",
+      "onboard_time": 1755318562,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189987,
       "num": 215416,
       "word": "权志龙涉嫌违反版权法",
@@ -9204,7 +9324,7 @@
     },
     {
       "raw_hot": 174991,
-      "num": 174991,
+      "num": 566956,
       "word": "男孩掰断艺术品监控被播放12年",
       "onboard_time": 1755306501,
       "rank": 25,
@@ -9257,6 +9377,14 @@
       "onboard_time": 1755261201,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174129,
+      "num": 174129,
+      "word": "花儿与少年7",
+      "onboard_time": 1755318622,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 174016,
@@ -9561,6 +9689,14 @@
       "onboard_time": 1755235042,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170650,
+      "num": 170650,
+      "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
+      "onboard_time": 1755318143,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170585,
@@ -9985,6 +10121,14 @@
       "onboard_time": 1754869400,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163912,
+      "num": 163912,
+      "word": "国王与乞丐的含金量还在上升",
+      "onboard_time": 1755317722,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 163909,
@@ -11555,6 +11699,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 147593,
+      "num": 147593,
+      "word": "男子入室抢劫拍业主裸照并杀人",
+      "onboard_time": 1755315741,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147584,
       "num": 147584,
       "word": "澳大利亚宣布将承认巴勒斯坦国",
@@ -12180,7 +12332,7 @@
     },
     {
       "raw_hot": 141889,
-      "num": 922101,
+      "num": 1076494,
       "word": "神二十乘组圆满完成第三次出舱",
       "onboard_time": 1755271464,
       "rank": 39,
@@ -12441,6 +12593,14 @@
       "onboard_time": 1755231801,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139331,
+      "num": 139331,
+      "word": "谢娜时隔八年再唱天下",
+      "onboard_time": 1755316700,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 139330,
@@ -12768,6 +12928,14 @@
       "word": "国漫cp天花板果然名不虚传",
       "onboard_time": 1754797640,
       "rank": 36,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 136614,
+      "num": 136614,
+      "word": "韩立进入胶带期",
+      "onboard_time": 1755317062,
+      "rank": 46,
       "category": "动漫"
     },
     {
@@ -15553,6 +15721,14 @@
       "onboard_time": 1754842582,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115409,
+      "num": 128454,
+      "word": "半导体巨头突然暴跌",
+      "onboard_time": 1755316700,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 115269,
@@ -19795,6 +19971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62864,
+      "num": 163924,
+      "word": "那英我一激动就删好友",
+      "onboard_time": 1755318323,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62811,
       "num": 241536,
       "word": "国产模型让马斯克难辨真假",
@@ -20481,6 +20665,14 @@
       "onboard_time": 1754829382,
       "rank": 19,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 46824,
+      "num": 235575,
+      "word": "看屏千遍不如见龚俊一面",
+      "onboard_time": 1755315381,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 46683,
