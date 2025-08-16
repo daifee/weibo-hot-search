@@ -1,10 +1,18 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755339959974,
+  "endTime": 1755340979916,
   "band_list": [
     {
+      "raw_hot": 2671492,
+      "num": 2671492,
+      "word": "微博文化交流之夜",
+      "onboard_time": 1755334102,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1869134,
-      "num": 313019,
+      "num": 348460,
       "word": "小海绵一出生就是顶流待遇",
       "onboard_time": 1755328942,
       "rank": 40,
@@ -25,14 +33,6 @@
       "onboard_time": 1755300798,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1631553,
-      "num": 1631553,
-      "word": "微博文化交流之夜",
-      "onboard_time": 1755334102,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 1626828,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551055,
+      "num": 363672,
+      "word": "张维伊对董璇说咱们有酒窝就够了",
+      "onboard_time": 1755335900,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548004,
       "num": 441544,
       "word": "向太谈两次从黑社会手里救梅艳芳",
@@ -345,14 +353,6 @@
       "onboard_time": 1755303920,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 537705,
-      "num": 315580,
-      "word": "张维伊对董璇说咱们有酒窝就够了",
-      "onboard_time": 1755335900,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 534735,
@@ -385,6 +385,14 @@
       "onboard_time": 1755303619,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 493217,
+      "num": 493217,
+      "word": "微信支付宝免提现手续费教程",
+      "onboard_time": 1755337823,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 488693,
@@ -483,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420208,
+      "num": 348323,
+      "word": "毕雯珺在泰国也帅了",
+      "onboard_time": 1755339023,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 419569,
       "num": 418683,
       "word": "普京说俄永远记得俄美曾共对敌人",
@@ -531,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 392522,
+      "num": 348267,
+      "word": "美国连体双胞胎姐妹其中一人疑生子",
+      "onboard_time": 1755338244,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 382089,
       "num": 310569,
       "word": "长风起官宣杀青",
@@ -547,20 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 375106,
-      "num": 375106,
-      "word": "微信支付宝免提现手续费教程",
-      "onboard_time": 1755337823,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 360022,
       "num": 360022,
       "word": "一楼住户趁夜砌墙将大堂据为己有",
       "onboard_time": 1755273683,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352256,
+      "num": 348217,
+      "word": "朋友圈三天可见 置顶特别长",
+      "onboard_time": 1755339443,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 352194,
@@ -593,14 +617,6 @@
       "onboard_time": 1755329902,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342058,
-      "num": 311983,
-      "word": "美国连体双胞胎姐妹其中一人疑生子",
-      "onboard_time": 1755338244,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 334949,
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 266728,
-      "num": 314027,
+      "num": 348592,
       "word": "山东一面包车坠海6人遇难",
       "onboard_time": 1755333202,
       "rank": 8,
@@ -859,12 +875,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233854,
+      "num": 233854,
+      "word": "中高度近视者建议全天佩戴框架眼镜",
+      "onboard_time": 1755335122,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 233595,
       "num": 233595,
       "word": "特朗普机场迎接普京",
       "onboard_time": 1755286334,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 232194,
+      "num": 232194,
+      "word": "李世民扮演者称演员要养家糊口",
+      "onboard_time": 1755340825,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 226637,
@@ -899,14 +931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 222106,
-      "num": 212545,
-      "word": "中高度近视者建议全天佩戴框架眼镜",
-      "onboard_time": 1755335122,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 219476,
       "num": 219476,
       "word": "梓渝三本杂志销售额",
@@ -921,6 +945,14 @@
       "onboard_time": 1755313461,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216267,
+      "num": 216267,
+      "word": "李沁米饭屠夫",
+      "onboard_time": 1755338842,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 214731,
@@ -1003,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204369,
-      "num": 204369,
-      "word": "毕雯珺在泰国也帅了",
-      "onboard_time": 1755339023,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203795,
       "num": 203795,
       "word": "生万物爱奇艺第二快破万剧",
@@ -1083,14 +1107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193323,
-      "num": 193323,
-      "word": "李沁米饭屠夫",
-      "onboard_time": 1755338842,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191055,
       "num": 191055,
       "word": "周一周五基础周六就不基础",
@@ -1155,6 +1171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185890,
+      "num": 185890,
+      "word": "刘轩丞红毯",
+      "onboard_time": 1755340941,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185646,
       "num": 185646,
       "word": "杨幂回复于正了",
@@ -1184,6 +1208,14 @@
       "word": "陈都灵人间芭乐",
       "onboard_time": 1755329183,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182978,
+      "num": 182978,
+      "word": "对接称刘亦菲不去W盛典",
+      "onboard_time": 1755340582,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1595,6 +1627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153992,
+      "num": 153992,
+      "word": "奶茶杯控",
+      "onboard_time": 1755339922,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153790,
       "num": 153790,
       "word": "韩立结婴特效",
@@ -1787,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137141,
+      "num": 348535,
+      "word": "开渔季来了",
+      "onboard_time": 1755339861,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136691,
       "num": 136691,
       "word": "普京抵达美国",
@@ -1883,14 +1931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134015,
-      "num": 257165,
-      "word": "朋友圈三天可见 置顶特别长",
-      "onboard_time": 1755339443,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 133221,
       "num": 133221,
       "word": "刷牙多年竟全刷错了",
@@ -1971,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126554,
+      "num": 126554,
+      "word": "女网红上海街头劝禁烟被禁言",
+      "onboard_time": 1755337643,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126364,
       "num": 78243,
       "word": "大司命黑皮男神",
@@ -2043,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122736,
+      "num": 122736,
+      "word": "奇文 推手游戏",
+      "onboard_time": 1755340760,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122516,
       "num": 122516,
       "word": "一念江南暂定9月11日开机",
@@ -2075,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120202,
+      "num": 120202,
+      "word": "给女孩子普及一下什么是远嫁",
+      "onboard_time": 1755338542,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120178,
       "num": 120178,
       "word": "网友釜山偶遇王安宇了",
@@ -2089,6 +2153,14 @@
       "onboard_time": 1755338421,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119778,
+      "num": 183657,
+      "word": "半年流失14万人峨眉山怎么了",
+      "onboard_time": 1755340521,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119682,
@@ -2121,6 +2193,14 @@
       "onboard_time": 1755327803,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118717,
+      "num": 118717,
+      "word": "文俊辉限定掉落回忆碎片",
+      "onboard_time": 1755340223,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 117838,
@@ -2169,22 +2249,6 @@
       "onboard_time": 1755316700,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 115048,
-      "num": 115048,
-      "word": "女网红上海街头劝禁烟被禁言",
-      "onboard_time": 1755337643,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114643,
-      "num": 114643,
-      "word": "奶茶杯控",
-      "onboard_time": 1755339922,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 114240,
@@ -2283,6 +2347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106452,
+      "num": 183077,
+      "word": "航空公司回应飞行学员被指出轨多人",
+      "onboard_time": 1755337402,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106054,
       "num": 106054,
       "word": "那英爱姐无需遮遮掩掩",
@@ -2291,8 +2363,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105176,
-      "num": 105176,
+      "raw_hot": 105625,
+      "num": 114422,
       "word": "宝宝差点让爸爸过上好日子了",
       "onboard_time": 1755339922,
       "rank": 48,
@@ -2467,6 +2539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84973,
+      "num": 122560,
+      "word": "地铁充电宝自燃当事人称有3C标",
+      "onboard_time": 1755339683,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84162,
       "num": 140743,
       "word": "谁才是真的国漫之光",
@@ -2480,14 +2560,6 @@
       "word": "免费续面 无限续面",
       "onboard_time": 1755250283,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80998,
-      "num": 168162,
-      "word": "航空公司回应飞行学员被指出轨多人",
-      "onboard_time": 1755337402,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2587,14 +2659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 69807,
-      "num": 122245,
-      "word": "开渔季来了",
-      "onboard_time": 1755339861,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69082,
       "num": 89106,
       "word": "协和4加4毕业生统一开展3年规培",
@@ -2635,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 59741,
+      "num": 348363,
+      "word": "面膜男孩刘轩丞",
+      "onboard_time": 1755338602,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 55168,
       "num": 55168,
       "word": "俄美总统阿拉斯加会面",
@@ -2667,14 +2739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 50963,
-      "num": 311595,
-      "word": "面膜男孩刘轩丞",
-      "onboard_time": 1755338602,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 50947,
       "num": 50947,
       "word": "普京专机进入美国领空",
@@ -2689,6 +2753,14 @@
       "onboard_time": 1755327982,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 48285,
+      "num": 183021,
+      "word": "这届花少华为Pura80太抢眼",
+      "onboard_time": 1755338722,
+      "rank": 29,
+      "category": "综艺,数码"
     },
     {
       "raw_hot": 46824,
@@ -2747,12 +2819,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38568,
-      "num": 168077,
-      "word": "这届花少华为Pura80太抢眼",
-      "onboard_time": 1755338722,
-      "rank": 29,
-      "category": "综艺,数码"
+      "raw_hot": 38787,
+      "num": 126567,
+      "word": "房主任自曝嫁给前夫原因",
+      "onboard_time": 1755340760,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 37424,
@@ -2803,20 +2875,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26372,
-      "num": 122560,
-      "word": "地铁充电宝自燃当事人称有3C标",
-      "onboard_time": 1755339683,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24163,
       "num": 201129,
       "word": "当地称砌墙占200平大堂业主有产权",
       "onboard_time": 1755336742,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23429,
+      "num": 126748,
+      "word": "李若彤被泰国海关质疑年龄",
+      "onboard_time": 1755340941,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 23272,
