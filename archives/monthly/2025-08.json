@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755364926895,
+  "endTime": 1755365973577,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -3499,6 +3499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 914588,
+      "num": 914588,
+      "word": "张予曦给泰娱亿点震撼",
+      "onboard_time": 1755362182,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 913750,
       "num": 913750,
       "word": "民警上门未发现违法违规程序失当",
@@ -5273,14 +5281,6 @@
       "onboard_time": 1754307202,
       "rank": 20,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 688107,
-      "num": 688107,
-      "word": "张予曦给泰娱亿点震撼",
-      "onboard_time": 1755362182,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 688073,
@@ -13563,6 +13563,14 @@
       "category": "时尚,财经"
     },
     {
+      "raw_hot": 285700,
+      "num": 197144,
+      "word": "iPhone17Pro放弃钛金属原因",
+      "onboard_time": 1755362001,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 285246,
       "num": 285246,
       "word": "秀才直播催中老年粉丝刷礼物",
@@ -15569,14 +15577,6 @@
       "onboard_time": 1755311721,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 243334,
-      "num": 197144,
-      "word": "iPhone17Pro放弃钛金属原因",
-      "onboard_time": 1755362001,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 243307,
@@ -38363,6 +38363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121150,
+      "num": 198186,
+      "word": "赵睿一直在哭",
+      "onboard_time": 1755361222,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121118,
       "num": 121118,
       "word": "内娱女明星的解约困境",
@@ -38585,14 +38593,6 @@
       "onboard_time": 1754721143,
       "rank": 37,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 120624,
-      "num": 198186,
-      "word": "赵睿一直在哭",
-      "onboard_time": 1755361222,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 120601,
@@ -48907,6 +48907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 71398,
+      "num": 85637,
+      "word": "好朋友的朋友不是你的朋友",
+      "onboard_time": 1755362721,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71292,
       "num": 141496,
       "word": "加沙人抢食物被烫却什么都拿不到",
@@ -48985,14 +48993,6 @@
       "onboard_time": 1754616802,
       "rank": 49,
       "category": "军事"
-    },
-    {
-      "raw_hot": 70742,
-      "num": 85637,
-      "word": "好朋友的朋友不是你的朋友",
-      "onboard_time": 1755362721,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 70734,
