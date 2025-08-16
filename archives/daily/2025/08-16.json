@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755340979916,
+  "endTime": 1755343256578,
   "band_list": [
     {
       "raw_hot": 2671492,
@@ -203,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720325,
+      "num": 720325,
+      "word": "微信支付宝免提现手续费教程",
+      "onboard_time": 1755337823,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 717221,
       "num": 276323,
       "word": "杨幂说孩子就这两天出生",
       "onboard_time": 1755319882,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 709546,
+      "num": 709546,
+      "word": "刘轩丞红毯",
+      "onboard_time": 1755340941,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 682504,
@@ -257,6 +273,14 @@
       "onboard_time": 1755334643,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 645643,
+      "num": 348217,
+      "word": "朋友圈三天可见 置顶特别长",
+      "onboard_time": 1755339443,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 609773,
@@ -387,14 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 493217,
-      "num": 493217,
-      "word": "微信支付宝免提现手续费教程",
-      "onboard_time": 1755337823,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 488693,
       "num": 488693,
       "word": "普京特朗普未达成协议",
@@ -417,6 +433,14 @@
       "onboard_time": 1755276140,
       "rank": 20,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 473272,
+      "num": 267826,
+      "word": "李世民扮演者称演员要养家糊口",
+      "onboard_time": 1755340825,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 472512,
@@ -523,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403839,
+      "num": 259131,
+      "word": "邓为 中暑",
+      "onboard_time": 1755341783,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402370,
       "num": 264641,
       "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
@@ -577,14 +609,6 @@
       "onboard_time": 1755273683,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352256,
-      "num": 348217,
-      "word": "朋友圈三天可见 置顶特别长",
-      "onboard_time": 1755339443,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 352194,
@@ -819,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259893,
+      "num": 259893,
+      "word": "奶茶杯控",
+      "onboard_time": 1755339922,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254149,
       "num": 254149,
       "word": "王楚钦 路易威登",
@@ -891,14 +923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 232194,
-      "num": 232194,
-      "word": "李世民扮演者称演员要养家糊口",
-      "onboard_time": 1755340825,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226637,
       "num": 248008,
       "word": "孩童头部刺入小刀被送医",
@@ -921,6 +945,14 @@
       "onboard_time": 1755302359,
       "rank": 18,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 223606,
+      "num": 223606,
+      "word": "李沁米饭屠夫",
+      "onboard_time": 1755338842,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 222691,
@@ -947,20 +979,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216267,
-      "num": 216267,
-      "word": "李沁米饭屠夫",
-      "onboard_time": 1755338842,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214731,
       "num": 271334,
       "word": "新华社记者直击美俄总统会晤现场",
       "onboard_time": 1755309261,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 213764,
+      "num": 271378,
+      "word": "当事人回应买避孕药被发现出轨",
+      "onboard_time": 1755342322,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213450,
@@ -977,6 +1009,14 @@
       "onboard_time": 1755318081,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208721,
+      "num": 208721,
+      "word": "冯建宇红丝绒西装",
+      "onboard_time": 1755342200,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 207519,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1755321321,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201287,
+      "num": 201287,
+      "word": "李若彤被泰国海关质疑年龄",
+      "onboard_time": 1755340941,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 201089,
@@ -1123,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188924,
+      "num": 188924,
+      "word": "对接称刘亦菲不去W盛典",
+      "onboard_time": 1755340582,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188593,
       "num": 188593,
       "word": "重庆一女童街头被阿拉斯加犬咬伤",
@@ -1171,14 +1227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185890,
-      "num": 185890,
-      "word": "刘轩丞红毯",
-      "onboard_time": 1755340941,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 185646,
       "num": 185646,
       "word": "杨幂回复于正了",
@@ -1211,12 +1259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182978,
-      "num": 182978,
-      "word": "对接称刘亦菲不去W盛典",
-      "onboard_time": 1755340582,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 183067,
+      "num": 183067,
+      "word": "斗破苍穹",
+      "onboard_time": 1755341722,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 182275,
+      "num": 182275,
+      "word": "33岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755342500,
+      "rank": 32,
+      "category": "健康医疗,休闲"
     },
     {
       "raw_hot": 181689,
@@ -1435,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165354,
+      "num": 165354,
+      "word": "房主任自曝嫁给前夫原因",
+      "onboard_time": 1755340760,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165352,
       "num": 165352,
       "word": "减肥1斤可抵物业费30元",
@@ -1475,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162863,
+      "num": 162863,
+      "word": "广东湛江开渔好美好震撼",
+      "onboard_time": 1755343162,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162104,
       "num": 239051,
       "word": "成毅讲述夏天里的活力中国",
@@ -1489,6 +1561,14 @@
       "onboard_time": 1755336622,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161161,
+      "num": 161161,
+      "word": "时代少年团祝严浩翔生日快乐",
+      "onboard_time": 1755341302,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 160903,
@@ -1545,6 +1625,14 @@
       "onboard_time": 1755336622,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158230,
+      "num": 158230,
+      "word": "奇文",
+      "onboard_time": 1755342742,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 157844,
@@ -1627,12 +1715,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153992,
-      "num": 153992,
-      "word": "奶茶杯控",
-      "onboard_time": 1755339922,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 154234,
+      "num": 154234,
+      "word": "周六五顿打工人的精神氮泵",
+      "onboard_time": 1755342500,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 153790,
@@ -1643,12 +1731,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 153661,
+      "num": 258806,
+      "word": "中央广播电视总台发布电影台标",
+      "onboard_time": 1755341961,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153523,
       "num": 153523,
       "word": "缺4种营养素会大把掉头发",
       "onboard_time": 1755322462,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153286,
+      "num": 183657,
+      "word": "半年流失14万人峨眉山怎么了",
+      "onboard_time": 1755340521,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151121,
@@ -1753,6 +1857,14 @@
       "onboard_time": 1755314960,
       "rank": 38,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 145512,
+      "num": 145512,
+      "word": "杨桂",
+      "onboard_time": 1755342441,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 143369,
@@ -1947,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131000,
+      "num": 131000,
+      "word": "宋亚轩上海站联排花絮",
+      "onboard_time": 1755342622,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130865,
       "num": 130865,
       "word": "汪涵10岁儿子香港看阿森纳",
@@ -1979,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128963,
+      "num": 128963,
+      "word": "喜欢微醺的人有福了",
+      "onboard_time": 1755342382,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 128890,
       "num": 128890,
       "word": "张远被刘彰贴脸开大",
@@ -2009,6 +2137,14 @@
       "onboard_time": 1755274222,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126739,
+      "num": 126739,
+      "word": "唐嫣祝粉丝二十岁生日快乐",
+      "onboard_time": 1755342982,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 126554,
@@ -2153,14 +2289,6 @@
       "onboard_time": 1755338421,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119778,
-      "num": 183657,
-      "word": "半年流失14万人峨眉山怎么了",
-      "onboard_time": 1755340521,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119682,
@@ -2539,6 +2667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87469,
+      "num": 259736,
+      "word": "中国男篮vs新西兰男篮",
+      "onboard_time": 1755342142,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84973,
       "num": 122560,
       "word": "地铁充电宝自燃当事人称有3C标",
@@ -2569,6 +2705,14 @@
       "onboard_time": 1755272662,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79963,
+      "num": 158824,
+      "word": "丁禹兮还是忘不了十个勤天",
+      "onboard_time": 1755342142,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 79668,
@@ -2667,6 +2811,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63471,
+      "num": 348363,
+      "word": "面膜男孩刘轩丞",
+      "onboard_time": 1755338602,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 63225,
+      "num": 191862,
+      "word": "社保是生存底线不是可选附加项",
+      "onboard_time": 1755343102,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62864,
       "num": 163924,
       "word": "那英我一激动就删好友",
@@ -2697,14 +2857,6 @@
       "onboard_time": 1755331523,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59741,
-      "num": 348363,
-      "word": "面膜男孩刘轩丞",
-      "onboard_time": 1755338602,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 55168,
@@ -2819,14 +2971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38787,
-      "num": 126567,
-      "word": "房主任自曝嫁给前夫原因",
-      "onboard_time": 1755340760,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37424,
       "num": 176906,
       "word": "男子当儿子面杀前妻曾说离婚就杀你",
@@ -2881,14 +3025,6 @@
       "onboard_time": 1755336742,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23429,
-      "num": 126748,
-      "word": "李若彤被泰国海关质疑年龄",
-      "onboard_time": 1755340941,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 23272,
