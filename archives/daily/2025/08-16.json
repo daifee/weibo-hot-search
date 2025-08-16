@@ -1,7 +1,15 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755329905366,
+  "endTime": 1755333158370,
   "band_list": [
+    {
+      "raw_hot": 1869134,
+      "num": 304345,
+      "word": "小海绵一出生就是顶流待遇",
+      "onboard_time": 1755328942,
+      "rank": 40,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1641966,
       "num": 1641966,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1626828,
-      "num": 524010,
+      "num": 668641,
       "word": "岳云鹏帮女艺人挡酒被换掉",
       "onboard_time": 1755322882,
       "rank": 44,
@@ -49,6 +57,14 @@
       "onboard_time": 1755325642,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1414686,
+      "num": 1414686,
+      "word": "亮证女司机丈夫被处分",
+      "onboard_time": 1755330864,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1380015,
@@ -193,6 +209,14 @@
       "onboard_time": 1755315921,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 675416,
+      "num": 675416,
+      "word": "绣绣第一个孩子流产了",
+      "onboard_time": 1755329723,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 664328,
@@ -363,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 456116,
+      "num": 297876,
+      "word": "田曦薇早期素人直播",
+      "onboard_time": 1755329003,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455932,
       "num": 269145,
       "word": "贺峻霖",
@@ -393,14 +425,6 @@
       "onboard_time": 1755305720,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419787,
-      "num": 304345,
-      "word": "小海绵一出生就是顶流待遇",
-      "onboard_time": 1755328942,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 419569,
@@ -443,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380645,
+      "num": 380645,
+      "word": "亮证女事件六名公职人员被处理",
+      "onboard_time": 1755331342,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379548,
       "num": 826319,
       "word": "广东100%的蚊子出现抗药性",
@@ -483,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344127,
+      "num": 344127,
+      "word": "女司机亮证逼迫让路事件多人被问责",
+      "onboard_time": 1755329902,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330095,
       "num": 330095,
       "word": "特朗普将与普京1V1对话",
@@ -496,6 +536,14 @@
       "word": "暴瘦10多斤女孩爬楼两次晕倒",
       "onboard_time": 1755307041,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325862,
+      "num": 282393,
+      "word": "主人欠钱3岁狸花猫被500元拍卖",
+      "onboard_time": 1755331222,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -571,19 +619,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298895,
+      "num": 298895,
+      "word": "亮证女司机丈夫行政执法证注销",
+      "onboard_time": 1755331403,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 298170,
       "num": 276993,
       "word": "生万物",
       "onboard_time": 1755310579,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 292334,
-      "num": 207114,
-      "word": "绣绣第一个孩子流产了",
-      "onboard_time": 1755329723,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -689,6 +737,14 @@
       "onboard_time": 1755326904,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245835,
+      "num": 245835,
+      "word": "水果刀插入3岁女童颅脑",
+      "onboard_time": 1755332300,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244471,
@@ -809,6 +865,22 @@
       "onboard_time": 1755313461,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204869,
+      "num": 204869,
+      "word": "找到周杰伦嘻哈空姐的来源了",
+      "onboard_time": 1755332242,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204526,
+      "num": 204526,
+      "word": "王橹杰泪痣",
+      "onboard_time": 1755332003,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 204397,
@@ -963,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181689,
+      "num": 212957,
+      "word": "三伏天就剩2天了",
+      "onboard_time": 1755329123,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181483,
       "num": 181483,
       "word": "邻居称张靓颖粉丝打卡就走了",
@@ -1107,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168952,
+      "num": 168952,
+      "word": "谷爱凌训练时发生意外",
+      "onboard_time": 1755331942,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168376,
       "num": 168376,
       "word": "KPL梦之队全员白衬衫",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1755317722,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163127,
+      "num": 163127,
+      "word": "陶白白变拼多多了",
+      "onboard_time": 1755330802,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 162104,
@@ -1219,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158087,
+      "num": 158087,
+      "word": "孩童头部刺入小刀被送医",
+      "onboard_time": 1755332242,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157844,
       "num": 157844,
       "word": "王心凌跳了15年没跳的舞",
@@ -1241,6 +1345,14 @@
       "onboard_time": 1755323122,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156893,
+      "num": 156893,
+      "word": "减肥1斤可抵物业费30元",
+      "onboard_time": 1755330743,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156812,
@@ -1419,6 +1531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141195,
+      "num": 183698,
+      "word": "马思纯以为张晚意哭了",
+      "onboard_time": 1755332543,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140898,
       "num": 140898,
       "word": "陆虎找撒贝宁签名",
@@ -1491,14 +1611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135686,
-      "num": 176985,
-      "word": "田曦薇早期素人直播",
-      "onboard_time": 1755329003,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135354,
       "num": 135354,
       "word": "唐香玉五年没亲过嘴了",
@@ -1523,20 +1635,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134786,
-      "num": 212957,
-      "word": "三伏天就剩2天了",
-      "onboard_time": 1755329123,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134674,
       "num": 134674,
       "word": "雷军送2000份玄戒O1芯片",
       "onboard_time": 1755310042,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134063,
+      "num": 134063,
+      "word": "陈数 优雅在泡面面前不值一提",
+      "onboard_time": 1755331284,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 133221,
@@ -1553,6 +1665,22 @@
       "onboard_time": 1755286815,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130865,
+      "num": 130865,
+      "word": "汪涵10岁儿子香港看阿森纳",
+      "onboard_time": 1755332484,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130235,
+      "num": 130235,
+      "word": "白血病这3大诱因每一个都要远离",
+      "onboard_time": 1755330802,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129902,
@@ -1995,6 +2123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77257,
+      "num": 181329,
+      "word": "亮证女处罚书审核人被问责",
+      "onboard_time": 1755332661,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76661,
       "num": 88872,
       "word": "绣绣怀孕",
@@ -2083,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61527,
+      "num": 130279,
+      "word": "祝绪丹40%微黑鸡翅",
+      "onboard_time": 1755333023,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55168,
       "num": 55168,
       "word": "俄美总统阿拉斯加会面",
@@ -2155,6 +2299,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 44668,
+      "num": 284383,
+      "word": "这届患者是懂送锦旗的",
+      "onboard_time": 1755331523,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41208,
       "num": 88743,
       "word": "中日友好医院副院长等多人被处理",
@@ -2204,7 +2356,7 @@
     },
     {
       "raw_hot": 29589,
-      "num": 536338,
+      "num": 684473,
       "word": "烽火里的山东记忆",
       "onboard_time": 1755314483,
       "rank": 20,
@@ -2217,6 +2369,14 @@
       "onboard_time": 1755324381,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24976,
+      "num": 163751,
+      "word": "自闭症男孩遇难生前衣服脱光疑失温",
+      "onboard_time": 1755333084,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21727,
