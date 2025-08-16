@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755349497333,
+  "endTime": 1755351144318,
   "band_list": [
     {
       "raw_hot": 2671492,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1869134,
-      "num": 348460,
+      "num": 547554,
       "word": "小海绵一出生就是顶流待遇",
       "onboard_time": 1755328942,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1759613,
+      "num": 1759613,
+      "word": "中国男篮晋级亚洲杯决赛",
+      "onboard_time": 1755348924,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1641966,
@@ -65,6 +73,14 @@
       "onboard_time": 1755275720,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1451664,
+      "num": 1451664,
+      "word": "你好星期六",
+      "onboard_time": 1755346643,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1440508,
@@ -150,7 +166,7 @@
       "raw_hot": 1092129,
       "num": 958763,
       "word": "张凌赫友情出演生万物",
-      "onboard_time": 1755344544,
+      "onboard_time": 1755344543,
       "rank": 3,
       "category": "剧集"
     },
@@ -171,14 +187,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 979012,
-      "num": 979012,
-      "word": "中国男篮晋级亚洲杯决赛",
-      "onboard_time": 1755348925,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 964843,
       "num": 964843,
       "word": "B站崩了",
@@ -187,16 +195,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 949865,
-      "num": 850169,
-      "word": "你好星期六",
-      "onboard_time": 1755346643,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 931674,
-      "num": 348217,
+      "num": 443856,
       "word": "朋友圈三天可见 置顶特别长",
       "onboard_time": 1755339443,
       "rank": 19,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 815168,
+      "num": 575634,
+      "word": "沈月泰国红毯",
+      "onboard_time": 1755346944,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 813762,
       "num": 709546,
       "word": "刘轩丞红毯",
@@ -249,6 +257,14 @@
       "onboard_time": 1755270203,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 796713,
+      "num": 551699,
+      "word": "李沁的睡姿",
+      "onboard_time": 1755346342,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 787727,
@@ -295,6 +311,14 @@
       "num": 276323,
       "word": "杨幂说孩子就这两天出生",
       "onboard_time": 1755319882,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 686495,
+      "num": 507519,
+      "word": "苏苏怀孕了",
+      "onboard_time": 1755350124,
       "rank": 14,
       "category": "剧集"
     },
@@ -347,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 639682,
-      "num": 292792,
-      "word": "沈月泰国红毯",
-      "onboard_time": 1755346944,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 609773,
       "num": 609773,
       "word": "魔尊重楼扮演者去演短剧了",
@@ -371,12 +387,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 596338,
-      "num": 283554,
-      "word": "李沁的睡姿",
-      "onboard_time": 1755346343,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 602569,
+      "num": 602569,
+      "word": "山东地震",
+      "onboard_time": 1755350185,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 592524,
+      "num": 476805,
+      "word": "某工地用活犬祭祀",
+      "onboard_time": 1755348504,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 590269,
@@ -414,7 +438,7 @@
       "raw_hot": 563043,
       "num": 307745,
       "word": "邓为 中暑",
-      "onboard_time": 1755341783,
+      "onboard_time": 1755341782,
       "rank": 13,
       "category": "剧集"
     },
@@ -425,6 +449,14 @@
       "onboard_time": 1755328283,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 553838,
+      "num": 553838,
+      "word": "范曾女儿回应家父被迫离家",
+      "onboard_time": 1755346823,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 551368,
@@ -603,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 426021,
+      "num": 426021,
+      "word": "苏超",
+      "onboard_time": 1755343342,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420208,
       "num": 348323,
       "word": "毕雯珺在泰国也帅了",
@@ -635,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405518,
+      "num": 340037,
+      "word": "内娱4张权威脸同框了",
+      "onboard_time": 1755348563,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402370,
       "num": 264641,
       "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
@@ -662,7 +710,7 @@
       "raw_hot": 392522,
       "num": 348267,
       "word": "美国连体双胞胎姐妹其中一人疑生子",
-      "onboard_time": 1755338244,
+      "onboard_time": 1755338182,
       "rank": 12,
       "category": "海外新闻"
     },
@@ -691,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371357,
+      "num": 371357,
+      "word": "苏超常州vs镇江",
+      "onboard_time": 1755350185,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360022,
       "num": 360022,
       "word": "一楼住户趁夜砌墙将大堂据为己有",
@@ -700,7 +756,7 @@
     },
     {
       "raw_hot": 352339,
-      "num": 236257,
+      "num": 332408,
       "word": "谢娜 王一博师姐",
       "onboard_time": 1755346703,
       "rank": 23,
@@ -851,12 +907,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 306691,
-      "num": 306691,
-      "word": "苏超",
-      "onboard_time": 1755343343,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 303051,
+      "num": 552777,
+      "word": "乘客吐槽高铁邻座400斤男子致拥挤",
+      "onboard_time": 1755347243,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298895,
@@ -924,7 +980,7 @@
     },
     {
       "raw_hot": 269869,
-      "num": 230236,
+      "num": 245699,
       "word": "Son 刘轩丞",
       "onboard_time": 1755345503,
       "rank": 30,
@@ -971,20 +1027,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 262620,
-      "num": 262620,
-      "word": "范曾女儿回应家父被迫离家",
-      "onboard_time": 1755346824,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260731,
       "num": 260731,
       "word": "十二点之后表演不算上春晚",
       "onboard_time": 1755311482,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258160,
+      "num": 258160,
+      "word": "敖瑞鹏直播",
+      "onboard_time": 1755350124,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 254149,
@@ -1075,14 +1131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 229332,
-      "num": 229332,
-      "word": "乘客吐槽高铁邻座400斤男子致拥挤",
-      "onboard_time": 1755347243,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229252,
       "num": 184736,
       "word": "迪丽热巴说现在学习以后总会用到",
@@ -1123,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222858,
-      "num": 222858,
-      "word": "某工地用活犬祭祀",
-      "onboard_time": 1755348504,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222691,
       "num": 222691,
       "word": "美俄元首会晤",
@@ -1139,12 +1179,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 220454,
-      "num": 220454,
-      "word": "内娱4张权威脸同框了",
-      "onboard_time": 1755348745,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 222617,
+      "num": 222617,
+      "word": "你好星期六预告",
+      "onboard_time": 1755349463,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 219476,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1755327864,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217530,
+      "num": 227419,
+      "word": "张艺兴祝孙红雷顺心顺意",
+      "onboard_time": 1755347843,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 216468,
@@ -1169,14 +1217,6 @@
       "onboard_time": 1755309261,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 214031,
-      "num": 206748,
-      "word": "张艺兴祝孙红雷顺心顺意",
-      "onboard_time": 1755347843,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 213450,
@@ -1275,6 +1315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204515,
+      "num": 201430,
+      "word": "青岛音乐节",
+      "onboard_time": 1755350005,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204397,
       "num": 204397,
       "word": "国色芳华的顾问竟然是00后",
@@ -1289,6 +1337,14 @@
       "onboard_time": 1755321321,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203017,
+      "num": 203017,
+      "word": "苏超第九轮常州队vs镇江队",
+      "onboard_time": 1755346763,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 201089,
@@ -1339,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197418,
+      "num": 197418,
+      "word": "冯建宇唱rap",
+      "onboard_time": 1755350005,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196710,
       "num": 196710,
       "word": "暮色回响",
@@ -1363,12 +1427,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194231,
+      "num": 194231,
+      "word": "华晨宇音乐节银发大屏直拍",
+      "onboard_time": 1755350965,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192977,
+      "num": 197542,
+      "word": "胡明轩三分",
+      "onboard_time": 1755349765,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192631,
       "num": 179000,
       "word": "宋轶新中式千金",
       "onboard_time": 1755345863,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192164,
+      "num": 192164,
+      "word": "谢娜给张子墨亿点小小的主持震撼",
+      "onboard_time": 1755350485,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191296,
+      "num": 191296,
+      "word": "赵睿喜极而泣",
+      "onboard_time": 1755349404,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 191055,
@@ -1457,6 +1553,14 @@
       "onboard_time": 1755321143,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185888,
+      "num": 185888,
+      "word": "恋综上看到了男生的喜欢真的很明显",
+      "onboard_time": 1755348504,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 185646,
@@ -1561,14 +1665,6 @@
       "onboard_time": 1755321263,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179781,
-      "num": 174147,
-      "word": "恋综上看到了男生的喜欢真的很明显",
-      "onboard_time": 1755348504,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 179279,
@@ -1771,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165418,
+      "num": 165418,
+      "word": "俄乌冲突将以牺牲乌克兰利益结束",
+      "onboard_time": 1755350845,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165352,
       "num": 165352,
       "word": "减肥1斤可抵物业费30元",
@@ -1857,14 +1961,6 @@
       "onboard_time": 1755267504,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 160571,
-      "num": 160571,
-      "word": "你好星期六预告",
-      "onboard_time": 1755349463,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 160393,
@@ -1987,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156018,
+      "num": 156018,
+      "word": "欧洲领导人联合声明",
+      "onboard_time": 1755349404,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155321,
       "num": 155321,
       "word": "朱一龙说自己是个长期主义者",
@@ -2003,20 +2107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154653,
+      "num": 154653,
+      "word": "中国男篮全民皆兵",
+      "onboard_time": 1755349404,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154610,
       "num": 154610,
       "word": "李一桐穿旗袍妈妈级别",
       "onboard_time": 1755324683,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154439,
-      "num": 154439,
-      "word": "中国男篮全民皆兵",
-      "onboard_time": 1755349404,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 154262,
@@ -2081,6 +2185,14 @@
       "onboard_time": 1755333323,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149718,
+      "num": 229712,
+      "word": "台湾老百姓都清清楚楚看在眼里",
+      "onboard_time": 1755350485,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149698,
@@ -3091,6 +3203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77995,
+      "num": 227010,
+      "word": "苍山遇难7岁男童妈妈称将追责到底",
+      "onboard_time": 1755350545,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77257,
       "num": 181329,
       "word": "亮证女处罚书审核人被问责",
@@ -3227,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58830,
+      "num": 344438,
+      "word": "尹浩宇皮肤状态",
+      "onboard_time": 1755348083,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 55168,
       "num": 55168,
       "word": "俄美总统阿拉斯加会面",
@@ -3241,14 +3369,6 @@
       "onboard_time": 1755336142,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54900,
-      "num": 239426,
-      "word": "尹浩宇皮肤状态",
-      "onboard_time": 1755348083,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 52616,
@@ -3331,6 +3451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41300,
+      "num": 197421,
+      "word": "房主任说不让她摸新人被子的是公公",
+      "onboard_time": 1755350064,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 41208,
       "num": 88743,
       "word": "中日友好医院副院长等多人被处理",
@@ -3359,6 +3487,14 @@
       "num": 176906,
       "word": "男子当儿子面杀前妻曾说离婚就杀你",
       "onboard_time": 1755329242,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36469,
+      "num": 197460,
+      "word": "多银行回应存取款超5万是否需登记",
+      "onboard_time": 1755350725,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -3433,14 +3569,6 @@
       "onboard_time": 1755285675,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 20913,
-      "num": 161700,
-      "word": "赵睿喜极而泣",
-      "onboard_time": 1755349404,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 20205,
