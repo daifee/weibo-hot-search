@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755343256578,
+  "endTime": 1755344248871,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -1347,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 931674,
+      "num": 348217,
+      "word": "朋友圈三天可见 置顶特别长",
+      "onboard_time": 1755339443,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 925883,
       "num": 925883,
       "word": "陕西 冰雹苹果",
@@ -1643,6 +1651,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 813762,
+      "num": 709546,
+      "word": "刘轩丞红毯",
+      "onboard_time": 1755340941,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 813591,
       "num": 813591,
       "word": "霍建华首部短剧搏忆定档",
@@ -1747,6 +1763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 787727,
+      "num": 787727,
+      "word": "微信支付宝免提现手续费教程",
+      "onboard_time": 1755337823,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 786462,
       "num": 340785,
       "word": "朱令父母发讣告悼念亡女",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1754889863,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 783475,
+      "num": 319349,
+      "word": "李世民扮演者称演员要养家糊口",
+      "onboard_time": 1755340825,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 782615,
@@ -2019,14 +2051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 720325,
-      "num": 720325,
-      "word": "微信支付宝免提现手续费教程",
-      "onboard_time": 1755337823,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 717221,
       "num": 276323,
       "word": "杨幂说孩子就这两天出生",
@@ -2049,14 +2073,6 @@
       "onboard_time": 1755061582,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 709546,
-      "num": 709546,
-      "word": "刘轩丞红毯",
-      "onboard_time": 1755340941,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 708942,
@@ -2385,14 +2401,6 @@
       "onboard_time": 1755153023,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 645643,
-      "num": 348217,
-      "word": "朋友圈三天可见 置顶特别长",
-      "onboard_time": 1755339443,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 644619,
@@ -2811,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 563043,
+      "num": 307745,
+      "word": "邓为 中暑",
+      "onboard_time": 1755341783,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 562801,
       "num": 420241,
       "word": "瞧瞧黄磊把宋丹丹毒成什么样了",
@@ -2969,6 +2985,14 @@
       "onboard_time": 1755264624,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 543227,
+      "num": 543227,
+      "word": "当事人回应买避孕药被发现出轨",
+      "onboard_time": 1755342322,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 542893,
@@ -3513,14 +3537,6 @@
       "onboard_time": 1754837245,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 473272,
-      "num": 267826,
-      "word": "李世民扮演者称演员要养家糊口",
-      "onboard_time": 1755340825,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 472512,
@@ -4217,14 +4233,6 @@
       "onboard_time": 1755055822,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 403839,
-      "num": 259131,
-      "word": "邓为 中暑",
-      "onboard_time": 1755341783,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 403547,
@@ -5009,6 +5017,14 @@
       "onboard_time": 1755255201,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 329053,
+      "num": 329053,
+      "word": "奶茶杯控",
+      "onboard_time": 1755339922,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 328273,
@@ -6099,6 +6115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260750,
+      "num": 260750,
+      "word": "李若彤被泰国海关质疑年龄",
+      "onboard_time": 1755340941,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260731,
       "num": 260731,
       "word": "十二点之后表演不算上春晚",
@@ -6113,14 +6137,6 @@
       "onboard_time": 1754885362,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259893,
-      "num": 259893,
-      "word": "奶茶杯控",
-      "onboard_time": 1755339922,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 259664,
@@ -6225,6 +6241,14 @@
       "onboard_time": 1754957722,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 253570,
+      "num": 261410,
+      "word": "中央广播电视总台发布电影台标",
+      "onboard_time": 1755341961,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252775,
@@ -7187,14 +7211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213764,
-      "num": 271378,
-      "word": "当事人回应买避孕药被发现出轨",
-      "onboard_time": 1755342322,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213760,
       "num": 213760,
       "word": "围殴中国留学生的肇事者均被保释",
@@ -7299,6 +7315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210229,
+      "num": 210229,
+      "word": "严浩翔生日直播上班",
+      "onboard_time": 1755343643,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209825,
       "num": 209825,
       "word": "胡明轩状态",
@@ -7355,6 +7379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209077,
+      "num": 209077,
+      "word": "苏超",
+      "onboard_time": 1755343343,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208826,
       "num": 208826,
       "word": "陈熠vs王艺迪",
@@ -7377,6 +7409,14 @@
       "onboard_time": 1754979621,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208413,
+      "num": 208413,
+      "word": "房主任自曝嫁给前夫原因",
+      "onboard_time": 1755340760,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 208371,
@@ -7825,14 +7865,6 @@
       "onboard_time": 1754884163,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201287,
-      "num": 201287,
-      "word": "李若彤被泰国海关质疑年龄",
-      "onboard_time": 1755340941,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 201133,
@@ -8401,6 +8433,14 @@
       "onboard_time": 1754807061,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195131,
+      "num": 195131,
+      "word": "周震南原来是柯淳的偶像",
+      "onboard_time": 1755343343,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 194993,
@@ -9067,6 +9107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 186349,
+      "num": 186349,
+      "word": "时代少年团祝严浩翔生日快乐",
+      "onboard_time": 1755341302,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186299,
       "num": 186299,
       "word": "27岁孕妇被骗泰缅边境19天后获救",
@@ -9315,6 +9363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183336,
+      "num": 193287,
+      "word": "广东湛江开渔好美好震撼",
+      "onboard_time": 1755343162,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183312,
       "num": 183312,
       "word": "第五人格",
@@ -9337,6 +9393,14 @@
       "onboard_time": 1754890401,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183137,
+      "num": 259736,
+      "word": "中国男篮vs新西兰男篮",
+      "onboard_time": 1755342142,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 183106,
@@ -10659,6 +10723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166522,
+      "num": 166522,
+      "word": "萧亚轩内娱顶级逆应援",
+      "onboard_time": 1755343403,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166492,
       "num": 166492,
       "word": "原来焦虑抑郁的人承受力这么强",
@@ -10761,14 +10833,6 @@
       "onboard_time": 1755230061,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165354,
-      "num": 165354,
-      "word": "房主任自曝嫁给前夫原因",
-      "onboard_time": 1755340760,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 165352,
@@ -10891,6 +10955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163834,
+      "num": 163834,
+      "word": "邝玲玲微博文化交流之夜路透",
+      "onboard_time": 1755343822,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163611,
       "num": 163611,
       "word": "事业单位面试邪修大佬在民间",
@@ -10960,14 +11032,6 @@
       "word": "777777靓号携号转网受限",
       "onboard_time": 1754978543,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162863,
-      "num": 162863,
-      "word": "广东湛江开渔好美好震撼",
-      "onboard_time": 1755343162,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -11107,14 +11171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161161,
-      "num": 161161,
-      "word": "时代少年团祝严浩翔生日快乐",
-      "onboard_time": 1755341302,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161131,
       "num": 161131,
       "word": "领事馆通报中国留学生在澳遭围殴",
@@ -11209,6 +11265,22 @@
       "onboard_time": 1755061282,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160393,
+      "num": 183657,
+      "word": "半年流失14万人峨眉山怎么了",
+      "onboard_time": 1755340521,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160309,
+      "num": 160309,
+      "word": "黄景瑜这一次更是daddy级别的",
+      "onboard_time": 1755343822,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 160253,
@@ -11923,14 +11995,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 153661,
-      "num": 258806,
-      "word": "中央广播电视总台发布电影台标",
-      "onboard_time": 1755341961,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153641,
       "num": 153641,
       "word": "每年近300万印度人进入加拿大",
@@ -11993,14 +12057,6 @@
       "onboard_time": 1755156563,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153286,
-      "num": 183657,
-      "word": "半年流失14万人峨眉山怎么了",
-      "onboard_time": 1755340521,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153073,
@@ -12891,6 +12947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145109,
+      "num": 145109,
+      "word": "微博文化交流之夜名场面",
+      "onboard_time": 1755343643,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145059,
       "num": 175759,
       "word": "何与包上恩 嫡谋",
@@ -13153,6 +13217,14 @@
       "onboard_time": 1755253342,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142861,
+      "num": 260123,
+      "word": "社保是生存底线不是可选附加项",
+      "onboard_time": 1755343102,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142514,
@@ -13619,6 +13691,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 139143,
+      "num": 139143,
+      "word": "中方回应日本政要参拜靖国神社",
+      "onboard_time": 1755343702,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139039,
       "num": 139039,
       "word": "这种防晒霜根本不防晒",
@@ -14033,6 +14113,14 @@
       "onboard_time": 1755312801,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 135923,
+      "num": 135923,
+      "word": "陶喆来了西安也得晕碳",
+      "onboard_time": 1755344063,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 135902,
@@ -15177,6 +15265,14 @@
       "onboard_time": 1754883923,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127932,
+      "num": 127932,
+      "word": "苏超泰州vs苏州",
+      "onboard_time": 1755343581,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 127837,
@@ -20299,14 +20395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87469,
-      "num": 259736,
-      "word": "中国男篮vs新西兰男篮",
-      "onboard_time": 1755342142,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87431,
       "num": 133354,
       "word": "缅怀抗战先烈",
@@ -21385,14 +21473,6 @@
       "onboard_time": 1755163943,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63225,
-      "num": 191862,
-      "word": "社保是生存底线不是可选附加项",
-      "onboard_time": 1755343102,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 63127,
