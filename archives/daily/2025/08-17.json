@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755372071631,
+  "endTime": 1755373008203,
   "band_list": [
     {
       "raw_hot": 1063937,
@@ -539,12 +539,28 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 24849,
+      "num": 34655,
+      "word": "姑姑霸占侄女房子居住近10年",
+      "onboard_time": 1755349045,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23867,
       "num": 34673,
       "word": "蒲熠星新歌",
       "onboard_time": 1755371596,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23287,
+      "num": 34646,
+      "word": "感动中国",
+      "onboard_time": 1755358345,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22690,
@@ -555,14 +571,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 22143,
-      "num": 34655,
-      "word": "姑姑霸占侄女房子居住近10年",
-      "onboard_time": 1755349045,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21460,
       "num": 34662,
       "word": "袁一琦唱跳舞台好稳",
@@ -571,12 +579,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21398,
-      "num": 34646,
-      "word": "感动中国",
-      "onboard_time": 1755358345,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 20315,
+      "num": 30774,
+      "word": "常州队1比0镇江队",
+      "onboard_time": 1755359542,
+      "rank": 44,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
