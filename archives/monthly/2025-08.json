@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755362724015,
+  "endTime": 1755364926895,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -5273,6 +5273,14 @@
       "onboard_time": 1754307202,
       "rank": 20,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 688107,
+      "num": 688107,
+      "word": "张予曦给泰娱亿点震撼",
+      "onboard_time": 1755362182,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 688073,
@@ -15561,6 +15569,14 @@
       "onboard_time": 1755311721,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 243334,
+      "num": 197144,
+      "word": "iPhone17Pro放弃钛金属原因",
+      "onboard_time": 1755362001,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 243307,
@@ -31027,14 +31043,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 143705,
-      "num": 198694,
-      "word": "张予曦给泰娱亿点震撼",
-      "onboard_time": 1755362182,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 143688,
       "num": 143688,
       "word": "迪丽热巴邓妍S级向导",
@@ -34505,6 +34513,14 @@
       "onboard_time": 1754923044,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132864,
+      "num": 114750,
+      "word": "展轩刘轩丞一起进场",
+      "onboard_time": 1755363741,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 132838,
@@ -46875,14 +46891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 88567,
-      "num": 197144,
-      "word": "iPhone17Pro放弃钛金属原因",
-      "onboard_time": 1755362001,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 88531,
       "num": 110087,
       "word": "第一次见王者图标后脑勺",
@@ -48979,6 +48987,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 70742,
+      "num": 85637,
+      "word": "好朋友的朋友不是你的朋友",
+      "onboard_time": 1755362721,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70734,
       "num": 261945,
       "word": "华为MatePadAir一眼就粉上",
@@ -50457,6 +50473,14 @@
       "onboard_time": 1755073942,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56258,
+      "num": 85210,
+      "word": "郑钦文回应获颁感动中国年度人物",
+      "onboard_time": 1755363800,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 56245,
@@ -51977,6 +52001,14 @@
       "onboard_time": 1755180565,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43381,
+      "num": 84990,
+      "word": "放弃减肥执念后反而瘦了",
+      "onboard_time": 1755364818,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 43286,
