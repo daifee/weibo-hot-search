@@ -1,6 +1,6 @@
 {
   "startTime": 1755275608946,
-  "endTime": 1755309557056,
+  "endTime": 1755310987832,
   "band_list": [
     {
       "raw_hot": 1641966,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1000939,
-      "num": 263680,
+      "raw_hot": 1189926,
+      "num": 311562,
       "word": "李沁说在张若昀婚礼把妆化费要回来了",
       "onboard_time": 1755307460,
       "rank": 10,
@@ -59,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 765128,
+      "num": 271137,
+      "word": "87岁著名书画家被娇妻卷走20亿",
+      "onboard_time": 1755301518,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 732994,
       "num": 290999,
       "word": "刘耀文",
       "onboard_time": 1755275481,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 729752,
-      "num": 263484,
-      "word": "87岁著名书画家被娇妻卷走20亿",
-      "onboard_time": 1755301518,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 664328,
@@ -131,8 +131,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 505518,
-      "num": 263347,
+      "raw_hot": 538505,
+      "num": 270946,
       "word": "敬我的女儿魔童降世",
       "onboard_time": 1755303920,
       "rank": 12,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382081,
+      "num": 270629,
+      "word": "租了半年房发现灯罩里有摄像头",
+      "onboard_time": 1755305720,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 360022,
       "num": 360022,
       "word": "一楼住户趁夜砌墙将大堂据为己有",
@@ -217,6 +225,14 @@
       "onboard_time": 1755272362,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 328273,
+      "num": 270494,
+      "word": "暴瘦10多斤女孩爬楼两次晕倒",
+      "onboard_time": 1755307041,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316206,
@@ -275,20 +291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280082,
-      "num": 249576,
-      "word": "肖战坐我旁边",
-      "onboard_time": 1755299778,
-      "rank": 23,
-      "category": "艺人,音乐"
-    },
-    {
-      "raw_hot": 274064,
-      "num": 263063,
+      "raw_hot": 283880,
+      "num": 270183,
       "word": "贾静雯晒咘咘10岁庆生照",
       "onboard_time": 1755305661,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280082,
+      "num": 270105,
+      "word": "肖战坐我旁边",
+      "onboard_time": 1755299778,
+      "rank": 23,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 265265,
@@ -297,14 +313,6 @@
       "onboard_time": 1755260242,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265204,
-      "num": 262958,
-      "word": "暴瘦10多斤女孩爬楼两次晕倒",
-      "onboard_time": 1755307041,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262847,
@@ -321,6 +329,14 @@
       "onboard_time": 1755299718,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 243100,
+      "num": 263759,
+      "word": "特朗普称与普京很多问题达成一致",
+      "onboard_time": 1755308002,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 233595,
@@ -355,12 +371,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210488,
-      "num": 210488,
-      "word": "租了半年房发现灯罩里有摄像头",
-      "onboard_time": 1755305720,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 214731,
+      "num": 271334,
+      "word": "新华社记者直击美俄总统会晤现场",
+      "onboard_time": 1755309261,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 201089,
@@ -379,6 +395,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 192291,
+      "num": 192291,
+      "word": "子夜归OST阵容",
+      "onboard_time": 1755310940,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189433,
+      "num": 189433,
+      "word": "生万物",
+      "onboard_time": 1755310579,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188593,
       "num": 188593,
       "word": "重庆一女童街头被阿拉斯加犬咬伤",
@@ -393,14 +425,6 @@
       "onboard_time": 1755299537,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 186279,
-      "num": 263759,
-      "word": "特朗普称与普京很多问题达成一致",
-      "onboard_time": 1755308002,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 185646,
@@ -459,20 +483,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169489,
-      "num": 169489,
+      "raw_hot": 174991,
+      "num": 174991,
       "word": "男孩掰断艺术品监控被播放12年",
       "onboard_time": 1755306501,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169352,
-      "num": 169352,
-      "word": "新华社记者直击美俄总统会晤现场",
-      "onboard_time": 1755309261,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164314,
@@ -539,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150378,
+      "num": 159647,
+      "word": "TOP 袋鼠妈妈",
+      "onboard_time": 1755307881,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148263,
       "num": 277370,
       "word": "市监回应电梯施工人员名单现多位明星",
@@ -563,20 +587,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 140688,
-      "num": 159647,
-      "word": "TOP 袋鼠妈妈",
-      "onboard_time": 1755307881,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136691,
       "num": 136691,
       "word": "普京抵达美国",
       "onboard_time": 1755273022,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134674,
+      "num": 134674,
+      "word": "雷军送2000份玄戒O1芯片",
+      "onboard_time": 1755310042,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 131727,
@@ -593,6 +617,14 @@
       "onboard_time": 1755252801,
       "rank": 24,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 128367,
+      "num": 128367,
+      "word": "吕妍二胎",
+      "onboard_time": 1755310042,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 127644,
@@ -627,12 +659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123678,
-      "num": 123678,
+      "raw_hot": 125500,
+      "num": 125500,
       "word": "欧豪演技",
       "onboard_time": 1755308841,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122615,
+      "num": 122615,
+      "word": "普京说俄永远记得俄美曾共对敌人",
+      "onboard_time": 1755310821,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121711,
@@ -691,6 +731,22 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 109819,
+      "num": 109819,
+      "word": "孙颖莎连说2次想有更好表现",
+      "onboard_time": 1755306140,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102640,
+      "num": 157469,
+      "word": "于正晒合照为吴谨言庆生",
+      "onboard_time": 1755310220,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99550,
       "num": 121816,
       "word": "特朗普抵达安克雷奇",
@@ -699,20 +755,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 98552,
-      "num": 98552,
-      "word": "孙颖莎连说2次想有更好表现",
-      "onboard_time": 1755306140,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98306,
       "num": 98306,
       "word": "四六级查分入口",
       "onboard_time": 1755274283,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 97656,
+      "num": 97656,
+      "word": "95后一家三口一个月的真实开销",
+      "onboard_time": 1755308482,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 97149,
