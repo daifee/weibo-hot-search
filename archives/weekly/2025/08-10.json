@@ -1,6 +1,6 @@
 {
   "startTime": 1754757128274,
-  "endTime": 1755319627267,
+  "endTime": 1755321958706,
   "band_list": [
     {
       "raw_hot": 16798389,
@@ -739,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1265061,
+      "num": 357962,
+      "word": "朋友圈跳赞",
+      "onboard_time": 1755316940,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1264146,
       "num": 563833,
       "word": "飞行学员被曝出轨10余名女子",
@@ -761,6 +769,14 @@
       "onboard_time": 1754981122,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1249682,
+      "num": 1249682,
+      "word": "生万物破万",
+      "onboard_time": 1755318562,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 1240728,
@@ -841,14 +857,6 @@
       "onboard_time": 1755058822,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1154852,
-      "num": 1154852,
-      "word": "生万物破万",
-      "onboard_time": 1755318562,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 1153882,
@@ -960,6 +968,14 @@
       "word": "梅婷生了个小梅婷",
       "onboard_time": 1755233303,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1087706,
+      "num": 260110,
+      "word": "贺峻霖晒白发严浩翔",
+      "onboard_time": 1755321201,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2075,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 679231,
+      "num": 257576,
+      "word": "杨幂说孩子就这两天出生",
+      "onboard_time": 1755319882,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 678368,
       "num": 557414,
       "word": "千万别被网上的独居精致生活骗了",
@@ -2593,6 +2617,14 @@
       "onboard_time": 1755256821,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 576289,
+      "num": 255154,
+      "word": "张维伊想当父亲是因为缺创作素材",
+      "onboard_time": 1755320241,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 573695,
@@ -3803,14 +3835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 422650,
-      "num": 357962,
-      "word": "朋友圈跳赞",
-      "onboard_time": 1755316940,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 421818,
       "num": 269420,
       "word": "生理性厌恶的7个躯体信号",
@@ -3857,6 +3881,14 @@
       "onboard_time": 1754874920,
       "rank": 4,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 414867,
+      "num": 796040,
+      "word": "王楚钦将参加北大新生考试",
+      "onboard_time": 1755317841,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 414244,
@@ -4001,6 +4033,14 @@
       "onboard_time": 1754892082,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 402370,
+      "num": 264641,
+      "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
+      "onboard_time": 1755318143,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401034,
@@ -4265,14 +4305,6 @@
       "onboard_time": 1755085284,
       "rank": 13,
       "category": "民生新闻,演出"
-    },
-    {
-      "raw_hot": 375267,
-      "num": 796040,
-      "word": "王楚钦将参加北大新生考试",
-      "onboard_time": 1755317841,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 375127,
@@ -5667,14 +5699,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 264641,
-      "num": 264641,
-      "word": "金牌月嫂多次嘴对嘴亲孩子引宝妈不满",
-      "onboard_time": 1755318143,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 264039,
       "num": 264039,
       "word": "倪妮欣赏樊振东",
@@ -5689,6 +5713,14 @@
       "onboard_time": 1754991562,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262966,
+      "num": 242196,
+      "word": "献鱼开播",
+      "onboard_time": 1755317422,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 262847,
@@ -5857,6 +5889,14 @@
       "onboard_time": 1755260002,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254149,
+      "num": 254149,
+      "word": "王楚钦 路易威登",
+      "onboard_time": 1755320902,
+      "rank": 18,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 254020,
@@ -6435,6 +6475,14 @@
       "category": "财经,情感"
     },
     {
+      "raw_hot": 226554,
+      "num": 226554,
+      "word": "王嘉尔食物中毒",
+      "onboard_time": 1755321321,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 226545,
       "num": 209540,
       "word": "他两第一部仙侠剧就遇上了横店大雪",
@@ -6955,14 +7003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208489,
-      "num": 208489,
-      "word": "献鱼开播",
-      "onboard_time": 1755317422,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208457,
       "num": 208457,
       "word": "生万物业内口碑",
@@ -7185,6 +7225,14 @@
       "onboard_time": 1754885962,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203795,
+      "num": 203795,
+      "word": "生万物爱奇艺第二快破万剧",
+      "onboard_time": 1755321321,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 203719,
@@ -8603,6 +8651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186075,
+      "num": 186075,
+      "word": "光与夜之恋",
+      "onboard_time": 1754892442,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186005,
       "num": 186005,
       "word": "杨幂 幂羊羊",
@@ -8921,6 +8977,14 @@
       "onboard_time": 1755073463,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180596,
+      "num": 180596,
+      "word": "黄景瑜也逃不过对188的真香",
+      "onboard_time": 1755321263,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 180530,
@@ -9865,6 +9929,14 @@
       "onboard_time": 1755066921,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168376,
+      "num": 168376,
+      "word": "KPL梦之队全员白衬衫",
+      "onboard_time": 1755321201,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 168333,
@@ -10833,6 +10905,14 @@
       "onboard_time": 1755305001,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156726,
+      "num": 156726,
+      "word": "第一次在脱口秀听到侍寝话题",
+      "onboard_time": 1755320483,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 156655,
@@ -15220,7 +15300,7 @@
     },
     {
       "raw_hot": 119682,
-      "num": 154620,
+      "num": 183456,
       "word": "刘晓艳说四六级是求职硬通货",
       "onboard_time": 1755318800,
       "rank": 39,
@@ -15409,14 +15489,6 @@
       "onboard_time": 1754829081,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 118497,
-      "num": 118497,
-      "word": "光与夜之恋",
-      "onboard_time": 1754892442,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 118415,
@@ -16163,6 +16235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113072,
+      "num": 113072,
+      "word": "宋亚轩 祝你一直做了不起的严浩翔",
+      "onboard_time": 1755321922,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113029,
       "num": 113029,
       "word": "这就是钢厂",
@@ -16185,6 +16265,14 @@
       "onboard_time": 1754974284,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112929,
+      "num": 112929,
+      "word": "全国多地物业费大跳水",
+      "onboard_time": 1755321562,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112872,
@@ -16315,6 +16403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112157,
+      "num": 112157,
+      "word": "时代少年团什么时候二开",
+      "onboard_time": 1755321802,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111913,
       "num": 119101,
       "word": "旭旭宝宝想生四胎",
@@ -16433,6 +16529,14 @@
       "onboard_time": 1754825481,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 111181,
+      "num": 111181,
+      "word": "第一次在狗身上看到权衡利弊",
+      "onboard_time": 1755319702,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 111122,
@@ -16737,6 +16841,14 @@
       "onboard_time": 1755258382,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109569,
+      "num": 109569,
+      "word": "有精致的衣服不穿",
+      "onboard_time": 1755321862,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 109520,
@@ -17457,6 +17569,14 @@
       "onboard_time": 1755170422,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104831,
+      "num": 183132,
+      "word": "感动中国2024年度人物",
+      "onboard_time": 1755315802,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104808,
@@ -21376,6 +21496,14 @@
       "word": "消费贷累计30万可省利息3000元",
       "onboard_time": 1755077485,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33053,
+      "num": 180983,
+      "word": "动画梳理协和4加4调查结果",
+      "onboard_time": 1755320241,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
