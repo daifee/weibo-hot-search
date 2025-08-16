@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755370088272,
+  "endTime": 1755372071631,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -54569,6 +54569,14 @@
       "onboard_time": 1754248995,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21460,
+      "num": 34662,
+      "word": "袁一琦唱跳舞台好稳",
+      "onboard_time": 1755370756,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 21151,
