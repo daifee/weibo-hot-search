@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755386658521,
+  "endTime": 1755387526505,
   "band_list": [
     {
       "raw_hot": 1063937,
@@ -75,6 +75,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 329584,
+      "num": 877802,
+      "word": "难怪现在奶茶三分糖都很甜",
+      "onboard_time": 1755387258,
+      "rank": 0,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 311492,
       "num": 217255,
       "word": "小海绵一出生就是顶流待遇",
@@ -97,6 +105,14 @@
       "onboard_time": 1755362001,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 285329,
+      "num": 285329,
+      "word": "俄乌冲突将以牺牲乌克兰利益结束",
+      "onboard_time": 1755350845,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 284137,
@@ -139,14 +155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 231105,
-      "num": 231105,
-      "word": "俄乌冲突将以牺牲乌克兰利益结束",
-      "onboard_time": 1755350845,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 218160,
       "num": 218160,
       "word": "iG对战TES",
@@ -187,20 +195,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168621,
+      "num": 168621,
+      "word": "姑姑霸占侄女房子居住近10年",
+      "onboard_time": 1755349045,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154936,
       "num": 198800,
       "word": "PP欧阳娜娜都好美",
       "onboard_time": 1755359183,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151409,
-      "num": 151409,
-      "word": "姑姑霸占侄女房子居住近10年",
-      "onboard_time": 1755349045,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150078,
@@ -251,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134673,
+      "num": 134673,
+      "word": "半年流失14万人峨眉山怎么了",
+      "onboard_time": 1755340521,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133594,
       "num": 198196,
       "word": "生万物全员喊人加入俺门",
@@ -283,12 +299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120562,
-      "num": 120562,
-      "word": "半年流失14万人峨眉山怎么了",
-      "onboard_time": 1755340521,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 118485,
+      "num": 118485,
+      "word": "李世民扮演者称演员要养家糊口",
+      "onboard_time": 1755340825,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 117370,
@@ -299,12 +315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116882,
+      "num": 131199,
+      "word": "荣成车祸重伤女孩离世父亲发声",
+      "onboard_time": 1755357323,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114068,
       "num": 197389,
       "word": "献鱼",
       "onboard_time": 1755349703,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113282,
+      "num": 197509,
+      "word": "台湾老百姓都清清楚楚看在眼里",
+      "onboard_time": 1755350064,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110178,
@@ -315,20 +347,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106198,
-      "num": 106198,
-      "word": "李世民扮演者称演员要养家糊口",
-      "onboard_time": 1755340825,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 102156,
-      "num": 197509,
-      "word": "台湾老百姓都清清楚楚看在眼里",
-      "onboard_time": 1755350064,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 106826,
+      "num": 106826,
+      "word": "范曾",
+      "onboard_time": 1755386957,
+      "rank": 14,
+      "category": "读书作家"
     },
     {
       "raw_hot": 98074,
@@ -352,6 +376,14 @@
       "word": "山东临朐地震",
       "onboard_time": 1755360682,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87449,
+      "num": 80063,
+      "word": "卫健局回应水果刀插入3岁女童颅脑",
+      "onboard_time": 1755352945,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -387,20 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82887,
+      "num": 82887,
+      "word": "稻米节",
+      "onboard_time": 1755386897,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 82641,
       "num": 196445,
       "word": "33岁确诊胃癌前身体发出的信号",
       "onboard_time": 1755342500,
       "rank": 43,
       "category": "健康医疗,休闲"
-    },
-    {
-      "raw_hot": 81631,
-      "num": 131199,
-      "word": "荣成车祸重伤女孩离世父亲发声",
-      "onboard_time": 1755357323,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80508,
@@ -443,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72523,
-      "num": 68529,
-      "word": "卫健局回应水果刀插入3岁女童颅脑",
-      "onboard_time": 1755352945,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 73887,
+      "num": 62335,
+      "word": "小猫突然把小狗的脑袋扶正了",
+      "onboard_time": 1755386957,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 71398,
@@ -467,12 +499,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 58331,
-      "num": 58331,
+      "raw_hot": 65093,
+      "num": 62299,
       "word": "未过本科线退2万涉事高中被立案调查",
       "onboard_time": 1755385457,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62155,
+      "num": 62155,
+      "word": "谷爱凌发文称因人为事故受伤",
+      "onboard_time": 1755387078,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61547,
+      "num": 61547,
+      "word": "常州书记市长送花祝贺常州队",
+      "onboard_time": 1755387436,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 56258,
@@ -483,12 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48623,
-      "num": 48623,
+      "raw_hot": 52664,
+      "num": 52664,
       "word": "房主任自曝嫁给前夫原因",
       "onboard_time": 1755340760,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46474,
+      "num": 46474,
+      "word": "孙颖莎展现顶尖运动员的魅力和号召力",
+      "onboard_time": 1755386957,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 45898,
@@ -497,6 +553,14 @@
       "onboard_time": 1755355165,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45046,
+      "num": 45046,
+      "word": "LPL",
+      "onboard_time": 1755386357,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 43381,
@@ -523,12 +587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42710,
+      "num": 42710,
+      "word": "特朗普称暂不针对中国购买俄油加征关税",
+      "onboard_time": 1755387017,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42310,
       "num": 84748,
       "word": "张淼怡青岛音乐节造型",
       "onboard_time": 1755344902,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41836,
+      "num": 41836,
+      "word": "男子吃外卖后上吐下泻险瘫痪",
+      "onboard_time": 1755357143,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41294,
@@ -555,12 +635,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37448,
-      "num": 37448,
-      "word": "LPL",
-      "onboard_time": 1755386357,
-      "rank": 38,
-      "category": "电竞"
+      "raw_hot": 39952,
+      "num": 39952,
+      "word": "余承东再回应遥遥领先",
+      "onboard_time": 1755386957,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 36541,
@@ -569,14 +649,6 @@
       "onboard_time": 1755357982,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35824,
-      "num": 37142,
-      "word": "男子吃外卖后上吐下泻险瘫痪",
-      "onboard_time": 1755357143,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34123,

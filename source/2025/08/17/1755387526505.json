@@ -1,0 +1,410 @@
+{
+  "runTime": 1755387526505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 329584,
+        "num": 877802,
+        "word": "难怪现在奶茶三分糖都很甜",
+        "onboard_time": 1755387258,
+        "rank": 0,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 300377,
+        "num": 300377,
+        "word": "张予曦给泰娱亿点震撼",
+        "onboard_time": 1755362182,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37285,
+        "num": 292009,
+        "word": "西藏在长大我也在长大",
+        "onboard_time": 1755355165,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285329,
+        "num": 285329,
+        "word": "俄乌冲突将以牺牲乌克兰利益结束",
+        "onboard_time": 1755350845,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215817,
+        "num": 215817,
+        "word": "12306回应高铁遇体型宽大邻座乘客",
+        "onboard_time": 1755354923,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168621,
+        "num": 168621,
+        "word": "姑姑霸占侄女房子居住近10年",
+        "onboard_time": 1755349045,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154478,
+        "num": 154478,
+        "word": "内娱4张权威脸同框了",
+        "onboard_time": 1755348745,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149218,
+        "num": 149218,
+        "word": "iPhone17Pro放弃钛金属原因",
+        "onboard_time": 1755362001,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134673,
+        "num": 134673,
+        "word": "半年流失14万人峨眉山怎么了",
+        "onboard_time": 1755340521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118485,
+        "num": 118485,
+        "word": "李世民扮演者称演员要养家糊口",
+        "onboard_time": 1755340825,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612620,
+        "num": 118004,
+        "word": "藏头诗",
+        "onboard_time": 1755367456,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 238162,
+        "num": 117994,
+        "word": "朋友圈三天可见 置顶特别长",
+        "onboard_time": 1755339443,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116882,
+        "num": 116882,
+        "word": "荣成车祸重伤女孩离世父亲发声",
+        "onboard_time": 1755357323,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113282,
+        "num": 113282,
+        "word": "台湾老百姓都清清楚楚看在眼里",
+        "onboard_time": 1755350064,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106826,
+        "num": 106826,
+        "word": "范曾",
+        "onboard_time": 1755386957,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 92649,
+        "num": 92649,
+        "word": "美国连体双胞胎姐妹其中一人疑生子",
+        "onboard_time": 1755338244,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89998,
+        "num": 89998,
+        "word": "普京返俄美国出动F35护航",
+        "onboard_time": 1755358703,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84444,
+        "num": 84444,
+        "word": "谢娜是乐华的第一个签约艺人",
+        "onboard_time": 1755351506,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82887,
+        "num": 82887,
+        "word": "稻米节",
+        "onboard_time": 1755386897,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81487,
+        "num": 81487,
+        "word": "小海绵一出生就是顶流待遇",
+        "onboard_time": 1755328942,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87449,
+        "num": 80063,
+        "word": "卫健局回应水果刀插入3岁女童颅脑",
+        "onboard_time": 1755352945,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85792,
+        "num": 78618,
+        "word": "水果刀插入3岁女童颅脑",
+        "onboard_time": 1755332300,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76464,
+        "num": 76464,
+        "word": "女子2年日服10粒牛黄解毒片中毒",
+        "onboard_time": 1755356784,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75711,
+        "num": 75711,
+        "word": "山东地震",
+        "onboard_time": 1755350364,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74917,
+        "num": 74917,
+        "word": "常州终于进球了",
+        "onboard_time": 1755354684,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67136,
+        "num": 67136,
+        "word": "苏苏怀孕了",
+        "onboard_time": 1755350125,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65265,
+        "num": 65265,
+        "word": "乘客吐槽高铁邻座400斤男子致拥挤",
+        "onboard_time": 1755347243,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63899,
+        "num": 63899,
+        "word": "李沁的睡姿",
+        "onboard_time": 1755346343,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63724,
+        "num": 63724,
+        "word": "杨幂再不好过如今也好过了",
+        "onboard_time": 1755354804,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59122,
+        "num": 62484,
+        "word": "展轩刘轩丞一起进场",
+        "onboard_time": 1755363741,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73887,
+        "num": 62335,
+        "word": "小猫突然把小狗的脑袋扶正了",
+        "onboard_time": 1755386957,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65093,
+        "num": 62299,
+        "word": "未过本科线退2万涉事高中被立案调查",
+        "onboard_time": 1755385457,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62155,
+        "num": 62155,
+        "word": "谷爱凌发文称因人为事故受伤",
+        "onboard_time": 1755387078,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62020,
+        "num": 62020,
+        "word": "特朗普提议泽连斯基达成协议",
+        "onboard_time": 1755378314,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61547,
+        "num": 61547,
+        "word": "常州书记市长送花祝贺常州队",
+        "onboard_time": 1755387436,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55327,
+        "num": 55327,
+        "word": "张凌赫友情出演生万物",
+        "onboard_time": 1755344544,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52664,
+        "num": 52664,
+        "word": "房主任自曝嫁给前夫原因",
+        "onboard_time": 1755340760,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49552,
+        "num": 49552,
+        "word": "李若彤被泰国海关质疑年龄",
+        "onboard_time": 1755340941,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47380,
+        "num": 47380,
+        "word": "中国男篮晋级亚洲杯决赛",
+        "onboard_time": 1755348925,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46474,
+        "num": 46474,
+        "word": "孙颖莎展现顶尖运动员的魅力和号召力",
+        "onboard_time": 1755386957,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45046,
+        "num": 45046,
+        "word": "LPL",
+        "onboard_time": 1755386357,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43719,
+        "num": 43719,
+        "word": "33岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755342500,
+        "rank": 41,
+        "category": "健康医疗,休闲"
+      },
+      {
+        "raw_hot": 43316,
+        "num": 43316,
+        "word": "生万物全员喊人加入俺门",
+        "onboard_time": 1755361161,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43110,
+        "num": 43110,
+        "word": "献鱼",
+        "onboard_time": 1755349703,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42710,
+        "num": 42710,
+        "word": "特朗普称暂不针对中国购买俄油加征关税",
+        "onboard_time": 1755387017,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41836,
+        "num": 41836,
+        "word": "男子吃外卖后上吐下泻险瘫痪",
+        "onboard_time": 1755357143,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40680,
+        "num": 40680,
+        "word": "庞众望获颁感动中国年度人物",
+        "onboard_time": 1755360922,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 40646,
+        "num": 40646,
+        "word": "沈月泰国红毯",
+        "onboard_time": 1755346944,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39952,
+        "num": 39952,
+        "word": "余承东再回应遥遥领先",
+        "onboard_time": 1755386957,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38104,
+        "num": 38104,
+        "word": "上海一奶茶店天花板掉落致1死",
+        "onboard_time": 1755347724,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起共谱绿水青山曲#"
+    }
+  }
+}
