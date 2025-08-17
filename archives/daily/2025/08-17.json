@@ -1,7 +1,15 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755387526505,
+  "endTime": 1755396663743,
   "band_list": [
+    {
+      "raw_hot": 1812521,
+      "num": 1812521,
+      "word": "外卖小哥发现带血枕头报警救人",
+      "onboard_time": 1755388339,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1063937,
       "num": 1063937,
@@ -27,12 +35,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 867210,
+      "num": 877802,
+      "word": "难怪现在奶茶三分糖都很甜",
+      "onboard_time": 1755387258,
+      "rank": 0,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 686137,
       "num": 686137,
       "word": "iPhone一定要关掉的6个设置",
       "onboard_time": 1755358824,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 679055,
+      "num": 679055,
+      "word": "苏苏被逐出费家",
+      "onboard_time": 1755395841,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 676162,
@@ -43,12 +67,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 580800,
+      "num": 580800,
+      "word": "台风母体来了",
+      "onboard_time": 1755392180,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 559756,
+      "num": 372672,
+      "word": "梓渝话筒颜色换了",
+      "onboard_time": 1755395841,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 511430,
       "num": 511430,
       "word": "李沁的睡姿",
       "onboard_time": 1755346343,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494982,
+      "num": 425077,
+      "word": "徐萌 范曾",
+      "onboard_time": 1755392961,
+      "rank": 8,
+      "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 454745,
+      "num": 454745,
+      "word": "肖战脸一出来就疯狂尖叫",
+      "onboard_time": 1755393741,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 449445,
@@ -59,12 +115,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449165,
+      "num": 449165,
+      "word": "韩国人说投壶是韩国的",
+      "onboard_time": 1755394160,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 447704,
+      "num": 447704,
+      "word": "盗墓笔记",
+      "onboard_time": 1755387858,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389752,
       "num": 286024,
       "word": "孟子义我拿奖啦",
       "onboard_time": 1755356303,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375482,
+      "num": 375482,
+      "word": "抗战胜利80周年大会第二次演练完成",
+      "onboard_time": 1755388278,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 339179,
@@ -75,20 +155,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 329584,
-      "num": 877802,
-      "word": "难怪现在奶茶三分糖都很甜",
-      "onboard_time": 1755387258,
-      "rank": 0,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 311492,
       "num": 217255,
       "word": "小海绵一出生就是顶流待遇",
       "onboard_time": 1755328942,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295072,
+      "num": 295072,
+      "word": "江山为聘开机",
+      "onboard_time": 1755395841,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 287461,
@@ -139,6 +219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 260469,
+      "num": 250995,
+      "word": "范曾被传遭娇妻卷走20亿女儿发声",
+      "onboard_time": 1755389840,
+      "rank": 15,
+      "category": "民生新闻,读书作家"
+    },
+    {
       "raw_hot": 259187,
       "num": 215964,
       "word": "GAI 首位体育场说唱歌手",
@@ -147,12 +235,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 254126,
+      "num": 254126,
+      "word": "21岁女主播应邀见大哥被强吻",
+      "onboard_time": 1755394521,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239197,
       "num": 215674,
       "word": "微博文化交流之夜",
       "onboard_time": 1755334102,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 223847,
+      "num": 223847,
+      "word": "全村人都知道了绣绣是清白的",
+      "onboard_time": 1755387559,
+      "rank": 16,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 218160,
@@ -187,6 +291,54 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206521,
+      "num": 206521,
+      "word": "约4万人参加演练及现场保障",
+      "onboard_time": 1755388339,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 192987,
+      "num": 192987,
+      "word": "谷爱凌发文称因人为事故受伤",
+      "onboard_time": 1755387078,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188635,
+      "num": 188635,
+      "word": "女子翻入围栏欺负小老虎",
+      "onboard_time": 1755393920,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188286,
+      "num": 188286,
+      "word": "韩网民称古代太监被韩国人垄断",
+      "onboard_time": 1755395659,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 188187,
+      "num": 188187,
+      "word": "网友吐槽苏州火车站厕所",
+      "onboard_time": 1755395361,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171011,
+      "num": 171011,
+      "word": "梓渝彩排音乐节",
+      "onboard_time": 1755395841,
+      "rank": 23,
+      "category": "演出,音乐"
+    },
+    {
       "raw_hot": 169302,
       "num": 199184,
       "word": "中国男篮晋级亚洲杯决赛",
@@ -203,12 +355,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167918,
+      "num": 167918,
+      "word": "邝玲玲微博泰国年度最具热度艺人",
+      "onboard_time": 1755395900,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 156869,
+      "num": 156869,
+      "word": "小酒窝模仿白鹿大笑",
+      "onboard_time": 1755389840,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154936,
       "num": 198800,
       "word": "PP欧阳娜娜都好美",
       "onboard_time": 1755359183,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151846,
+      "num": 151846,
+      "word": "女装退货率",
+      "onboard_time": 1755394880,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 150078,
@@ -291,6 +467,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127427,
+      "num": 127427,
+      "word": "陈哲远江山为聘开机出妆",
+      "onboard_time": 1755396141,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123455,
+      "num": 123455,
+      "word": "沈月泰国年度海外最受欢迎中国女演员",
+      "onboard_time": 1755395841,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 121711,
+      "num": 121711,
+      "word": "迈阿密国际vs洛杉矶银河",
+      "onboard_time": 1755396501,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121150,
       "num": 198186,
       "word": "赵睿一直在哭",
@@ -305,6 +505,14 @@
       "onboard_time": 1755340825,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117471,
+      "num": 117471,
+      "word": "宁绣绣直接把苏苏接走",
+      "onboard_time": 1755396020,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 117370,
@@ -323,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115096,
+      "num": 115096,
+      "word": "张晚意和谁都能整两口",
+      "onboard_time": 1755395900,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114068,
       "num": 197389,
       "word": "献鱼",
       "onboard_time": 1755349703,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113542,
+      "num": 113542,
+      "word": "作家梁晓声再谈孙颖莎",
+      "onboard_time": 1755396560,
+      "rank": 37,
+      "category": "体育,读书作家"
     },
     {
       "raw_hot": 113282,
@@ -355,12 +579,36 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 102102,
+      "num": 102102,
+      "word": "杰伦布朗说科比是历史第一",
+      "onboard_time": 1755395960,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100566,
+      "num": 100566,
+      "word": "全球首个治疗脂肪肝的减重药来了",
+      "onboard_time": 1755393321,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98074,
       "num": 196842,
       "word": "微信加密方法",
       "onboard_time": 1755356542,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94006,
+      "num": 94006,
+      "word": "游客带木质黑金古刀cos张起灵被拦",
+      "onboard_time": 1755393560,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93828,
@@ -379,12 +627,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90091,
+      "num": 90091,
+      "word": "长白山景区回应游客带木刀被扣",
+      "onboard_time": 1755393741,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89816,
+      "num": 89816,
+      "word": "突然就不想和朋友联系了",
+      "onboard_time": 1755389419,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87449,
       "num": 80063,
       "word": "卫健局回应水果刀插入3岁女童颅脑",
       "onboard_time": 1755352945,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87261,
+      "num": 87261,
+      "word": "常州书记市长送花祝贺常州队",
+      "onboard_time": 1755387436,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 86682,
@@ -435,12 +707,36 @@
       "category": "健康医疗,休闲"
     },
     {
+      "raw_hot": 81143,
+      "num": 81143,
+      "word": "小猫突然把小狗的脑袋扶正了",
+      "onboard_time": 1755386957,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 80883,
+      "num": 80883,
+      "word": "冯建宇生日会官宣",
+      "onboard_time": 1755396441,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80508,
       "num": 80508,
       "word": "特朗普提议泽连斯基达成协议",
       "onboard_time": 1755378314,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80415,
+      "num": 80415,
+      "word": "毕雯珺你是不是想牵手",
+      "onboard_time": 1755395960,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 80173,
@@ -467,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76434,
+      "num": 124245,
+      "word": "范曾持股公司近1个月直播收入超百万",
+      "onboard_time": 1755391820,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75146,
       "num": 196248,
       "word": "马思纯晒合照",
@@ -475,12 +779,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73887,
-      "num": 62335,
-      "word": "小猫突然把小狗的脑袋扶正了",
-      "onboard_time": 1755386957,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 72305,
+      "num": 128220,
+      "word": "杨幂的人生真的好精彩",
+      "onboard_time": 1755395781,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 71398,
@@ -505,22 +809,6 @@
       "onboard_time": 1755385457,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62155,
-      "num": 62155,
-      "word": "谷爱凌发文称因人为事故受伤",
-      "onboard_time": 1755387078,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61547,
-      "num": 61547,
-      "word": "常州书记市长送花祝贺常州队",
-      "onboard_time": 1755387436,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 56258,
@@ -548,7 +836,7 @@
     },
     {
       "raw_hot": 45898,
-      "num": 646237,
+      "num": 768177,
       "word": "西藏在长大我也在长大",
       "onboard_time": 1755355165,
       "rank": 2,
