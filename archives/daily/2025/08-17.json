@@ -1,7 +1,15 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755438324831,
+  "endTime": 1755440626491,
   "band_list": [
+    {
+      "raw_hot": 2318358,
+      "num": 2318358,
+      "word": "茉莉奶白被砸身亡店员系17岁男生",
+      "onboard_time": 1755438864,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2033517,
       "num": 565242,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1008611,
-      "num": 729346,
+      "num": 906157,
       "word": "戚薇大方承认医美过度",
       "onboard_time": 1755434663,
       "rank": 37,
@@ -129,6 +137,14 @@
       "onboard_time": 1755387258,
       "rank": 0,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 846618,
+      "num": 561794,
+      "word": "虞书欣方持续取证中",
+      "onboard_time": 1755437963,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 837404,
@@ -243,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668780,
+      "num": 668780,
+      "word": "曝王楚钦因档期取消金九拍摄",
+      "onboard_time": 1755437484,
+      "rank": 35,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 655458,
       "num": 332030,
       "word": "穿外裤不能上床真的有必要吗",
@@ -265,6 +289,14 @@
       "onboard_time": 1755430581,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 638463,
+      "num": 638463,
+      "word": "上海新增一所世界500强大学",
+      "onboard_time": 1755437544,
+      "rank": 14,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 628646,
@@ -419,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469734,
-      "num": 469734,
-      "word": "上海新增一所世界500强大学",
-      "onboard_time": 1755437544,
-      "rank": 14,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 463876,
       "num": 463876,
       "word": "机场拦截的充电宝成抢手货",
@@ -475,12 +499,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 447533,
+      "num": 250663,
+      "word": "从表兄妹结婚后胎儿患罕见遗传病",
+      "onboard_time": 1755437364,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442909,
       "num": 442909,
       "word": "沈腾也确诊白磷型人格",
       "onboard_time": 1755397881,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436166,
+      "num": 436166,
+      "word": "苏州火车站女厕标识被指易误解为男厕",
+      "onboard_time": 1755433343,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423633,
+      "num": 423633,
+      "word": "鹿晗陈赫唱了慢慢",
+      "onboard_time": 1755438864,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 415273,
@@ -529,6 +577,14 @@
       "onboard_time": 1755423742,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384579,
+      "num": 355260,
+      "word": "生万物热度",
+      "onboard_time": 1755436345,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 377049,
@@ -603,14 +659,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 340001,
-      "num": 340001,
-      "word": "曝王楚钦因档期取消金九拍摄",
-      "onboard_time": 1755437484,
-      "rank": 35,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 339179,
       "num": 217658,
       "word": "朋友圈三天可见 置顶特别长",
@@ -659,14 +707,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 322124,
-      "num": 250663,
-      "word": "从表兄妹结婚后胎儿患罕见遗传病",
-      "onboard_time": 1755437364,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320142,
       "num": 390502,
       "word": "作家梁晓声再谈孙颖莎",
@@ -689,14 +729,6 @@
       "onboard_time": 1755328942,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308881,
-      "num": 400047,
-      "word": "苏州火车站女厕标识被指易误解为男厕",
-      "onboard_time": 1755433343,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302667,
@@ -729,6 +761,14 @@
       "onboard_time": 1755431903,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295302,
+      "num": 177428,
+      "word": "何超云疑似分手",
+      "onboard_time": 1755439644,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 294019,
@@ -859,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266154,
-      "num": 266154,
-      "word": "生万物热度",
-      "onboard_time": 1755436345,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260487,
       "num": 260487,
       "word": "TOP登陆少年体重",
@@ -889,14 +921,6 @@
       "onboard_time": 1755357383,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 258060,
-      "num": 258060,
-      "word": "虞书欣方持续取证中",
-      "onboard_time": 1755437963,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 249946,
@@ -1003,6 +1027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210054,
+      "num": 176654,
+      "word": "杨幂欧豪合照",
+      "onboard_time": 1755439524,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209734,
       "num": 198977,
       "word": "内娱4张权威脸同框了",
@@ -1043,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203819,
+      "num": 185814,
+      "word": "李连杰称面对死亡已非常淡然",
+      "onboard_time": 1755436705,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202371,
       "num": 210236,
       "word": "天若有情",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1755425243,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198024,
+      "num": 175985,
+      "word": "捕风追影",
+      "onboard_time": 1755439524,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 197986,
@@ -1180,7 +1228,7 @@
     },
     {
       "raw_hot": 189181,
-      "num": 801439,
+      "num": 962278,
       "word": "中国世遗8分钟视频纯享版",
       "onboard_time": 1755398422,
       "rank": 27,
@@ -1251,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181947,
+      "num": 175416,
+      "word": "黄子弘凡合肥演唱会",
+      "onboard_time": 1755440546,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181688,
       "num": 181688,
       "word": "一年一部年代剧",
@@ -1267,12 +1323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178467,
-      "num": 185814,
-      "word": "李连杰称面对死亡已非常淡然",
-      "onboard_time": 1755436705,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 178391,
+      "num": 178391,
+      "word": "库里 重庆",
+      "onboard_time": 1755439164,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 176344,
@@ -1515,6 +1571,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 161954,
+      "num": 161954,
+      "word": "苏超南京3比2盐城",
+      "onboard_time": 1755439404,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161112,
       "num": 233400,
       "word": "Swatch在中国市场已卖不动",
@@ -1529,6 +1593,14 @@
       "onboard_time": 1755397641,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 160809,
+      "num": 160809,
+      "word": "胡先煦生日收到一块砖",
+      "onboard_time": 1755440185,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 160678,
@@ -1755,6 +1827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 149371,
+      "num": 149371,
+      "word": "伊朗男篮亚洲杯季军",
+      "onboard_time": 1755439524,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148766,
       "num": 254106,
       "word": "应急管理部赴内蒙古山洪现场",
@@ -1859,12 +1939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143170,
+      "num": 143170,
+      "word": "吴宣仪偷亲翟潇闻路透",
+      "onboard_time": 1755438384,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142167,
       "num": 142167,
       "word": "陈奕恒鼻梁贴",
       "onboard_time": 1755415702,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141725,
+      "num": 143233,
+      "word": "13人露营遇山洪唯一获救女孩刚高考",
+      "onboard_time": 1755440064,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141026,
@@ -1907,6 +2003,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 139221,
+      "num": 139221,
+      "word": "陈楚生草莓音乐节",
+      "onboard_time": 1755439284,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139204,
       "num": 139204,
       "word": "终于在音乐节看到了劲舞男团",
@@ -1929,6 +2033,14 @@
       "onboard_time": 1755420323,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138580,
+      "num": 138580,
+      "word": "张杰终于完整唱了记得",
+      "onboard_time": 1755440546,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 138417,
@@ -2155,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131116,
+      "num": 131116,
+      "word": "男童被人贩拐走下药心脏功能受损",
+      "onboard_time": 1755438864,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130712,
       "num": 130712,
       "word": "人人人长白山人人人",
@@ -2275,6 +2395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124382,
+      "num": 124382,
+      "word": "邓超现场拿篮球要陈佩斯签名",
+      "onboard_time": 1755439524,
+      "rank": 45,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 123487,
       "num": 123487,
       "word": "抵债猫",
@@ -2345,6 +2473,14 @@
       "onboard_time": 1755361222,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120896,
+      "num": 120896,
+      "word": "李宇春离观众好近",
+      "onboard_time": 1755440365,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 119956,
@@ -2641,6 +2777,14 @@
       "onboard_time": 1755419421,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106064,
+      "num": 161024,
+      "word": "阅兵演练复制粘贴夜间限定版",
+      "onboard_time": 1755438984,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106058,
@@ -3227,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76663,
+      "num": 143350,
+      "word": "下班送外卖4小时月入最高近5千",
+      "onboard_time": 1755439464,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76619,
       "num": 116689,
       "word": "男子私配钥匙14次潜入女子家中偷拍",
@@ -3379,12 +3531,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54010,
+      "num": 150796,
+      "word": "发现血枕头骑手婉拒1000元感谢费",
+      "onboard_time": 1755440605,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52788,
       "num": 196133,
       "word": "庞博朱广权科技男团",
       "onboard_time": 1755427402,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52749,
+      "num": 144700,
+      "word": "家长图书馆甩手放娃馆员崩溃",
+      "onboard_time": 1755440064,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52664,
@@ -3433,6 +3601,14 @@
       "onboard_time": 1755386357,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44907,
+      "num": 149415,
+      "word": "求职要求双休遭侮辱当事人发声",
+      "onboard_time": 1755440426,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44796,
