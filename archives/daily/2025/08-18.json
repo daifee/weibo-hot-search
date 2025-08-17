@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755469550995,
+  "endTime": 1755470629012,
   "band_list": [
     {
       "raw_hot": 2242447,
@@ -179,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179767,
+      "num": 179767,
+      "word": "马天宇养了三四百只鸡",
+      "onboard_time": 1755460875,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174065,
       "num": 141460,
       "word": "李连杰称面对死亡已非常淡然",
@@ -265,14 +273,6 @@
       "onboard_time": 1755432082,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 131663,
-      "num": 131663,
-      "word": "马天宇养了三四百只鸡",
-      "onboard_time": 1755460875,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 130830,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51792,
+      "num": 51792,
+      "word": "高铁上小孩吵闹女子却遭家长反怼",
+      "onboard_time": 1755458595,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47704,
       "num": 129077,
       "word": "特朗普说在俄罗斯问题上取得重大进展",
@@ -579,12 +587,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38257,
-      "num": 38257,
-      "word": "高铁上小孩吵闹女子却遭家长反怼",
-      "onboard_time": 1755458595,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 31290,
+      "num": 31290,
+      "word": "钟美美闯关 可以慢但是不能菜",
+      "onboard_time": 1755469155,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 25997,
@@ -619,12 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16676,
-      "num": 26108,
-      "word": "钟美美闯关 可以慢但是不能菜",
-      "onboard_time": 1755469155,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 19417,
+      "num": 31269,
+      "word": "2025世界人形机器人运动会",
+      "onboard_time": 1755467294,
+      "rank": 49,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 13546,
