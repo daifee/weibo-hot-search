@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755466774133,
+  "endTime": 1755469550995,
   "band_list": [
     {
       "raw_hot": 2242447,
@@ -267,6 +267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 131663,
+      "num": 131663,
+      "word": "马天宇养了三四百只鸡",
+      "onboard_time": 1755460875,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130830,
       "num": 130830,
       "word": "玛莎 谢谢北京",
@@ -377,14 +385,6 @@
       "onboard_time": 1755453137,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90556,
-      "num": 90556,
-      "word": "马天宇养了三四百只鸡",
-      "onboard_time": 1755460875,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 89974,
@@ -579,8 +579,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31723,
-      "num": 27497,
+      "raw_hot": 38257,
+      "num": 38257,
       "word": "高铁上小孩吵闹女子却遭家长反怼",
       "onboard_time": 1755458595,
       "rank": 37,
@@ -617,6 +617,14 @@
       "onboard_time": 1755456615,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16676,
+      "num": 26108,
+      "word": "钟美美闯关 可以慢但是不能菜",
+      "onboard_time": 1755469155,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 13546,
