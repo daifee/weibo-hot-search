@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755473145118,
+  "endTime": 1755474023404,
   "band_list": [
     {
       "raw_hot": 2703584,
@@ -763,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344339,
+      "num": 344339,
+      "word": "坐高铁遇400斤邻座12306不该甩锅",
+      "onboard_time": 1755441265,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340007,
       "num": 239609,
       "word": "从140斤瘦到103斤的真实变化",
@@ -865,14 +873,6 @@
       "onboard_time": 1755432983,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301050,
-      "num": 301050,
-      "word": "坐高铁遇400斤邻座12306不该甩锅",
-      "onboard_time": 1755441265,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297098,
@@ -1003,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270388,
+      "num": 175583,
+      "word": "梓渝褪黑素上线",
+      "onboard_time": 1755472998,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 269693,
       "num": 269693,
       "word": "21岁女主播应邀见大哥被强吻",
@@ -1043,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 257643,
+      "num": 257643,
+      "word": "李连杰称面对死亡已非常淡然",
+      "onboard_time": 1755436705,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249946,
       "num": 249946,
       "word": "iPhone可以很富士",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1755427162,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 242535,
+      "num": 179767,
+      "word": "马天宇养了三四百只鸡",
+      "onboard_time": 1755460875,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 239827,
@@ -1139,6 +1163,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 222639,
+      "num": 188273,
+      "word": "果然婆婆基础公公就不基础",
+      "onboard_time": 1755436885,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220412,
       "num": 220412,
       "word": "明天出伏了",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1755359843,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 216824,
-      "num": 216824,
-      "word": "李连杰称面对死亡已非常淡然",
-      "onboard_time": 1755436705,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 216713,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1755358703,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209961,
+      "num": 162074,
+      "word": "王一珩电话",
+      "onboard_time": 1755472639,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 209734,
@@ -1297,14 +1329,6 @@
       "onboard_time": 1755425243,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198465,
-      "num": 71198,
-      "word": "梓渝褪黑素上线",
-      "onboard_time": 1755472998,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 198024,
@@ -1427,14 +1451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190084,
-      "num": 179767,
-      "word": "马天宇养了三四百只鸡",
-      "onboard_time": 1755460875,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189181,
       "num": 962278,
       "word": "中国世遗8分钟视频纯享版",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1755393920,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188273,
-      "num": 188273,
-      "word": "果然婆婆基础公公就不基础",
-      "onboard_time": 1755436885,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 188033,
@@ -2316,7 +2324,7 @@
     },
     {
       "raw_hot": 138457,
-      "num": 71149,
+      "num": 82917,
       "word": "新西兰主帅说中国队篮板很顽强",
       "onboard_time": 1755473118,
       "rank": 34,
@@ -2388,7 +2396,7 @@
     },
     {
       "raw_hot": 136316,
-      "num": 100652,
+      "num": 122218,
       "word": "郭艾伦解说男篮亚洲杯决赛",
       "onboard_time": 1755472639,
       "rank": 21,
@@ -3163,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103715,
+      "num": 103715,
+      "word": "胡明轩",
+      "onboard_time": 1755473659,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103625,
       "num": 103625,
       "word": "成都世运会中国36金17银11铜",
@@ -3355,6 +3371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97887,
+      "num": 97887,
+      "word": "高铁上小孩吵闹女子却遭家长反怼",
+      "onboard_time": 1755458595,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97529,
       "num": 100231,
       "word": "罗永浩再提董宇辉离职前曾借钱交首付",
@@ -3483,6 +3507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93003,
+      "num": 93003,
+      "word": "男子杀妻后报警谎称其自杀",
+      "onboard_time": 1755450079,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91707,
       "num": 91707,
       "word": "胡明轩半场15分",
@@ -3553,6 +3585,14 @@
       "onboard_time": 1755417683,
       "rank": 16,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 89282,
+      "num": 103835,
+      "word": "胡明轩错失绝杀",
+      "onboard_time": 1755472998,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 88682,
@@ -3635,14 +3675,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 86415,
-      "num": 86415,
-      "word": "王一珩电话",
-      "onboard_time": 1755472639,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86337,
       "num": 196085,
       "word": "乘客吐槽高铁邻座400斤男子致拥挤",
@@ -3664,14 +3696,6 @@
       "word": "多次续面女顾客将告面馆老板",
       "onboard_time": 1755401902,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84508,
-      "num": 84508,
-      "word": "高铁上小孩吵闹女子却遭家长反怼",
-      "onboard_time": 1755458595,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3771,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78805,
+      "num": 78805,
+      "word": "皮肤科医生解读戚薇打肉毒打僵了",
+      "onboard_time": 1755471137,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78710,
       "num": 196581,
       "word": "毕雯珺白西装花衬衫look",
@@ -3785,14 +3817,6 @@
       "onboard_time": 1755415162,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78523,
-      "num": 89280,
-      "word": "男子杀妻后报警谎称其自杀",
-      "onboard_time": 1755450079,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77811,
@@ -3891,20 +3915,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71233,
-      "num": 71233,
-      "word": "皮肤科医生解读戚薇打肉毒打僵了",
-      "onboard_time": 1755471137,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70946,
       "num": 196367,
       "word": "袁一琦蓝玫瑰花海麦架",
       "onboard_time": 1755362481,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70509,
+      "num": 70509,
+      "word": "非银存款大增1.39万亿",
+      "onboard_time": 1755473659,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 68687,
+      "num": 68687,
+      "word": "王俊杰哭了",
+      "onboard_time": 1755473839,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 68447,
@@ -3921,6 +3953,22 @@
       "onboard_time": 1755403103,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67068,
+      "num": 67068,
+      "word": "严浩翔shake",
+      "onboard_time": 1755473118,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 66324,
+      "num": 156954,
+      "word": "Swatch中国官网已找不到眯眯眼照片",
+      "onboard_time": 1755472758,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65379,
@@ -3945,6 +3993,22 @@
       "onboard_time": 1755398062,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63880,
+      "num": 63880,
+      "word": "有些猫你只有抚养权没有使用权",
+      "onboard_time": 1755473659,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 63387,
+      "num": 63387,
+      "word": "美国首都华盛顿爆发大规模抗议",
+      "onboard_time": 1755473659,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61976,
@@ -4067,14 +4131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51761,
-      "num": 51761,
-      "word": "胡明轩错失绝杀",
-      "onboard_time": 1755472998,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51357,
       "num": 184559,
       "word": "下周热热热加雨雨雨",
@@ -4153,14 +4209,6 @@
       "onboard_time": 1755425542,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 44467,
-      "num": 44467,
-      "word": "严浩翔shake",
-      "onboard_time": 1755473118,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 43381,
@@ -4473,14 +4521,6 @@
       "onboard_time": 1755377294,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23125,
-      "num": 146346,
-      "word": "Swatch中国官网已找不到眯眯眼照片",
-      "onboard_time": 1755472758,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23055,

@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755473145118,
+  "endTime": 1755474023404,
   "band_list": [
     {
       "raw_hot": 2242447,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 413249,
-      "num": 308349,
+      "num": 340800,
       "word": "戚薇大方承认医美过度",
       "onboard_time": 1755434663,
       "rank": 7,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344339,
+      "num": 344339,
+      "word": "坐高铁遇400斤邻座12306不该甩锅",
+      "onboard_time": 1755441265,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325968,
       "num": 202889,
       "word": "刘宇宁 咱们家粉不是入坑是中奖",
@@ -131,8 +139,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 293324,
-      "num": 293324,
+      "raw_hot": 304163,
+      "num": 304163,
       "word": "1750瓶茅台一原所有人已被执行死刑",
       "onboard_time": 1755441805,
       "rank": 8,
@@ -147,12 +155,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241739,
-      "num": 241739,
-      "word": "坐高铁遇400斤邻座12306不该甩锅",
-      "onboard_time": 1755441265,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 270388,
+      "num": 175583,
+      "word": "梓渝褪黑素上线",
+      "onboard_time": 1755472998,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 257643,
+      "num": 257643,
+      "word": "李连杰称面对死亡已非常淡然",
+      "onboard_time": 1755436705,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242535,
+      "num": 179767,
+      "word": "马天宇养了三四百只鸡",
+      "onboard_time": 1755460875,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 233394,
@@ -171,11 +195,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204630,
-      "num": 204630,
-      "word": "李连杰称面对死亡已非常淡然",
-      "onboard_time": 1755436705,
-      "rank": 22,
+      "raw_hot": 222639,
+      "num": 163660,
+      "word": "果然婆婆基础公公就不基础",
+      "onboard_time": 1755436885,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209961,
+      "num": 162074,
+      "word": "王一珩电话",
+      "onboard_time": 1755472639,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -185,22 +217,6 @@
       "onboard_time": 1755438864,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198465,
-      "num": 71198,
-      "word": "梓渝褪黑素上线",
-      "onboard_time": 1755472998,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 190084,
-      "num": 179767,
-      "word": "马天宇养了三四百只鸡",
-      "onboard_time": 1755460875,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 168221,
@@ -227,12 +243,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 160954,
-      "num": 145367,
-      "word": "果然婆婆基础公公就不基础",
-      "onboard_time": 1755436885,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 162971,
+      "num": 144189,
+      "word": "从表兄妹结婚后胎儿患罕见遗传病",
+      "onboard_time": 1755437364,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160183,
@@ -241,14 +257,6 @@
       "onboard_time": 1755455115,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155236,
-      "num": 144189,
-      "word": "从表兄妹结婚后胎儿患罕见遗传病",
-      "onboard_time": 1755437364,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149724,
@@ -283,8 +291,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138698,
+      "num": 127685,
+      "word": "减肥时早睡可能比跑步更管用",
+      "onboard_time": 1755441086,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 138457,
-      "num": 71149,
+      "num": 82917,
       "word": "新西兰主帅说中国队篮板很顽强",
       "onboard_time": 1755473118,
       "rank": 34,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 136316,
-      "num": 100652,
+      "num": 122218,
       "word": "郭艾伦解说男篮亚洲杯决赛",
       "onboard_time": 1755472639,
       "rank": 21,
@@ -321,14 +337,6 @@
       "onboard_time": 1755426442,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123835,
-      "num": 117196,
-      "word": "减肥时早睡可能比跑步更管用",
-      "onboard_time": 1755441086,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 119529,
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103715,
+      "num": 103715,
+      "word": "胡明轩",
+      "onboard_time": 1755473659,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102075,
       "num": 117589,
       "word": "邓超gogogo出发篮球职业圈了",
@@ -403,12 +419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97887,
+      "num": 97887,
+      "word": "高铁上小孩吵闹女子却遭家长反怼",
+      "onboard_time": 1755458595,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97274,
       "num": 97274,
       "word": "中国男篮拼到最后一秒",
       "onboard_time": 1755455235,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93003,
+      "num": 93003,
+      "word": "男子杀妻后报警谎称其自杀",
+      "onboard_time": 1755450079,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91707,
@@ -425,6 +457,14 @@
       "onboard_time": 1755446904,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89282,
+      "num": 103835,
+      "word": "胡明轩错失绝杀",
+      "onboard_time": 1755472998,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 88663,
@@ -451,22 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86415,
-      "num": 86415,
-      "word": "王一珩电话",
-      "onboard_time": 1755472639,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 84508,
-      "num": 84508,
-      "word": "高铁上小孩吵闹女子却遭家长反怼",
-      "onboard_time": 1755458595,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80987,
       "num": 80987,
       "word": "一诺创下的常规赛MVP次数的记录",
@@ -491,20 +515,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78805,
+      "num": 78805,
+      "word": "皮肤科医生解读戚薇打肉毒打僵了",
+      "onboard_time": 1755471137,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78733,
       "num": 78733,
       "word": "生万物热度",
       "onboard_time": 1755436345,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78523,
-      "num": 89280,
-      "word": "男子杀妻后报警谎称其自杀",
-      "onboard_time": 1755450079,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78435,
@@ -539,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75918,
+      "num": 75918,
+      "word": "小鹿的备孕方式还是太超前了",
+      "onboard_time": 1755432983,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73987,
       "num": 73987,
       "word": "何超云疑似分手",
@@ -563,12 +595,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71233,
-      "num": 71233,
-      "word": "皮肤科医生解读戚薇打肉毒打僵了",
-      "onboard_time": 1755471137,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 70509,
+      "num": 70509,
+      "word": "非银存款大增1.39万亿",
+      "onboard_time": 1755473659,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 68687,
+      "num": 68687,
+      "word": "王俊杰哭了",
+      "onboard_time": 1755473839,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67068,
+      "num": 67068,
+      "word": "严浩翔shake",
+      "onboard_time": 1755473118,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 66324,
+      "num": 156954,
+      "word": "Swatch中国官网已找不到眯眯眼照片",
+      "onboard_time": 1755472758,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65379,
@@ -577,6 +633,22 @@
       "onboard_time": 1755449060,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63880,
+      "num": 63880,
+      "word": "有些猫你只有抚养权没有使用权",
+      "onboard_time": 1755473659,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 63387,
+      "num": 63387,
+      "word": "美国首都华盛顿爆发大规模抗议",
+      "onboard_time": 1755473659,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61976,
@@ -611,22 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51904,
-      "num": 51904,
-      "word": "小鹿的备孕方式还是太超前了",
-      "onboard_time": 1755432983,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 51761,
-      "num": 51761,
-      "word": "胡明轩错失绝杀",
-      "onboard_time": 1755472998,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47704,
       "num": 129077,
       "word": "特朗普说在俄罗斯问题上取得重大进展",
@@ -641,14 +697,6 @@
       "onboard_time": 1755450439,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44467,
-      "num": 44467,
-      "word": "严浩翔shake",
-      "onboard_time": 1755473118,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 41815,
@@ -689,14 +737,6 @@
       "onboard_time": 1755456376,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23125,
-      "num": 146346,
-      "word": "Swatch中国官网已找不到眯眯眼照片",
-      "onboard_time": 1755472758,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22047,
