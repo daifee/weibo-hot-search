@@ -1,7 +1,15 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755413484248,
+  "endTime": 1755415497564,
   "band_list": [
+    {
+      "raw_hot": 2033517,
+      "num": 449957,
+      "word": "王晶曝张柏芝谢霆锋离婚原因",
+      "onboard_time": 1755412282,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1835081,
       "num": 549140,
@@ -17,14 +25,6 @@
       "onboard_time": 1755388339,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1492354,
-      "num": 332205,
-      "word": "王晶曝张柏芝谢霆锋离婚原因",
-      "onboard_time": 1755412282,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1155488,
@@ -75,6 +75,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 785515,
+      "num": 363716,
+      "word": "孙一宁在韩国买衣服被店员翻白眼",
+      "onboard_time": 1755413903,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 724129,
       "num": 724129,
       "word": "江山为聘开机",
@@ -115,12 +123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 675699,
+      "num": 675699,
+      "word": "蜜雪冰橙 蜜雪冰城",
+      "onboard_time": 1755409642,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 674579,
       "num": 674579,
       "word": "绣绣的头发再也梳不回去了",
       "onboard_time": 1755402982,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655458,
+      "num": 332030,
+      "word": "穿外裤不能上床真的有必要吗",
+      "onboard_time": 1755411142,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 628646,
@@ -131,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 622470,
+      "num": 354828,
+      "word": "张元英上海",
+      "onboard_time": 1755412642,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606343,
       "num": 425077,
       "word": "徐萌 范曾",
@@ -139,7 +171,7 @@
       "category": "民生新闻,读书作家"
     },
     {
-      "raw_hot": 583607,
+      "raw_hot": 585532,
       "num": 583607,
       "word": "小杨哥老婆复出了",
       "onboard_time": 1755409281,
@@ -195,14 +227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 514879,
-      "num": 332030,
-      "word": "穿外裤不能上床真的有必要吗",
-      "onboard_time": 1755411142,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 511430,
       "num": 511430,
       "word": "李沁的睡姿",
@@ -219,14 +243,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 508004,
-      "num": 508004,
-      "word": "蜜雪冰橙 蜜雪冰城",
-      "onboard_time": 1755409642,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 502740,
       "num": 502740,
       "word": "普京开条件",
@@ -241,6 +257,14 @@
       "onboard_time": 1755393741,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 451734,
+      "num": 282722,
+      "word": "管乐和前任拍分手拍立得",
+      "onboard_time": 1755413122,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 449445,
@@ -273,6 +297,14 @@
       "onboard_time": 1755395659,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 400036,
+      "num": 400036,
+      "word": "机场拦截的充电宝成抢手货",
+      "onboard_time": 1755411922,
+      "rank": 9,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 398442,
@@ -369,6 +401,14 @@
       "onboard_time": 1755403521,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 325033,
+      "num": 325033,
+      "word": "与辉同行回应董宇辉年收入传闻",
+      "onboard_time": 1755413061,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 320142,
@@ -515,11 +555,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 254121,
-      "num": 254121,
-      "word": "张元英上海",
-      "onboard_time": 1755412642,
-      "rank": 43,
+      "raw_hot": 258350,
+      "num": 258350,
+      "word": "李连杰生病住院",
+      "onboard_time": 1755411981,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -537,14 +577,6 @@
       "onboard_time": 1755334102,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 224959,
-      "num": 224959,
-      "word": "李连杰生病住院",
-      "onboard_time": 1755411981,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 223847,
@@ -707,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185384,
-      "num": 332342,
-      "word": "机场拦截的充电宝成抢手货",
-      "onboard_time": 1755411922,
-      "rank": 9,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 181688,
       "num": 181688,
       "word": "一年一部年代剧",
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 171162,
-      "num": 158766,
+      "num": 159489,
       "word": "献鱼编剧",
       "onboard_time": 1755411621,
       "rank": 25,
@@ -793,6 +817,14 @@
       "onboard_time": 1755395841,
       "rank": 23,
       "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 170270,
+      "num": 159547,
+      "word": "孙怡参观马天宇的农场",
+      "onboard_time": 1755412162,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 169302,
@@ -843,6 +875,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 159840,
+      "num": 159840,
+      "word": "机场充电宝一吨9000元",
+      "onboard_time": 1755409761,
+      "rank": 33,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 159414,
       "num": 159414,
       "word": "浪浪山小妖怪收到大圣毫毛后",
@@ -891,20 +931,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 153106,
-      "num": 223722,
-      "word": "与辉同行回应董宇辉年收入传闻",
-      "onboard_time": 1755413061,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 151649,
       "num": 151649,
       "word": "痛经用药建议",
       "onboard_time": 1755399382,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151070,
+      "num": 151070,
+      "word": "撒贝宁 原来央视主持人现实中长这样",
+      "onboard_time": 1755414621,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 150405,
@@ -921,14 +961,6 @@
       "onboard_time": 1755332300,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149949,
-      "num": 149949,
-      "word": "机场充电宝一吨9000元",
-      "onboard_time": 1755409761,
-      "rank": 33,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 149863,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1755355944,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144065,
-      "num": 144065,
-      "word": "孙怡参观马天宇的农场",
-      "onboard_time": 1755412162,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 140926,
@@ -1219,12 +1243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128971,
+      "num": 128971,
+      "word": "撒贝宁 马丽都出来沈腾呢",
+      "onboard_time": 1755414982,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128525,
       "num": 128525,
       "word": "游客带木质黑金古刀cos张起灵被拦",
       "onboard_time": 1755393560,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127943,
+      "num": 127943,
+      "word": "金九",
+      "onboard_time": 1755415162,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 127903,
@@ -1291,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119621,
+      "num": 119621,
+      "word": "被易烊千玺百万直拍钓成翘嘴了",
+      "onboard_time": 1755415103,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119327,
       "num": 119327,
       "word": "周也见到孟子义一套撒娇卖萌",
@@ -1347,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117383,
+      "num": 117383,
+      "word": "巴西选手赞王楚钦发球最佳",
+      "onboard_time": 1755414683,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117370,
       "num": 197802,
       "word": "杨幂再不好过如今也好过了",
@@ -1379,12 +1435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115535,
+      "num": 323682,
+      "word": "儿童安全坐垫碰撞瞬间人被甩飞",
+      "onboard_time": 1755412221,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115096,
       "num": 115096,
       "word": "张晚意和谁都能整两口",
       "onboard_time": 1755395900,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113850,
+      "num": 113850,
+      "word": "柯淳说找老婆会找圈外的",
+      "onboard_time": 1755414382,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 113282,
@@ -1427,14 +1499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 108457,
-      "num": 114981,
-      "word": "管乐和前任拍分手拍立得",
-      "onboard_time": 1755413122,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107670,
       "num": 107670,
       "word": "疑似机器人报复人类",
@@ -1457,6 +1521,38 @@
       "onboard_time": 1755386957,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 105542,
+      "num": 105542,
+      "word": "孙怡也是过上向往的生活了",
+      "onboard_time": 1755414262,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103785,
+      "num": 103785,
+      "word": "杨幂今年三个角色的共通点",
+      "onboard_time": 1755415342,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103220,
+      "num": 103220,
+      "word": "孙颖莎训练时可爱尖叫",
+      "onboard_time": 1755414083,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102979,
+      "num": 102979,
+      "word": "在假装上班公司6成人真在工作",
+      "onboard_time": 1755414621,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102102,
@@ -1499,12 +1595,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98129,
+      "num": 98129,
+      "word": "原来人可以这样对抗虚无",
+      "onboard_time": 1755415103,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98074,
       "num": 196842,
       "word": "微信加密方法",
       "onboard_time": 1755356542,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 98070,
+      "num": 98070,
+      "word": "只要你保持九点之前睡觉",
+      "onboard_time": 1755415342,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 97386,
+      "num": 97386,
+      "word": "大英博物馆中国馆旁开韩国文化展",
+      "onboard_time": 1755411621,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97286,
@@ -1521,6 +1641,14 @@
       "onboard_time": 1755412162,
       "rank": 42,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 96925,
+      "num": 129917,
+      "word": "陈赫艾欧尼亚第一辅助",
+      "onboard_time": 1755414443,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 93828,
@@ -1601,6 +1729,14 @@
       "onboard_time": 1755387436,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86861,
+      "num": 86861,
+      "word": "陈浚铭猫耳",
+      "onboard_time": 1755413840,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 86682,
@@ -1801,6 +1937,14 @@
       "onboard_time": 1755409342,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60804,
+      "num": 104400,
+      "word": "TheShy与Rookie的羁绊",
+      "onboard_time": 1755415162,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 60578,
