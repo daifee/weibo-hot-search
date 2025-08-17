@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755429711077,
+  "endTime": 1755430669931,
   "band_list": [
     {
       "raw_hot": 2033517,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 954570,
-      "num": 264292,
+      "num": 325069,
       "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
       "onboard_time": 1755426202,
       "rank": 39,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 834886,
-      "num": 273544,
+      "num": 304378,
       "word": "一家三口被害  嫌犯精神分裂",
       "onboard_time": 1755420621,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 831200,
+      "num": 1132992,
+      "word": "马天宇 啥也不会只会哭",
+      "onboard_time": 1755427643,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 815257,
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 642640,
+      "num": 642640,
+      "word": "刘宇宁直播",
+      "onboard_time": 1755430581,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628646,
       "num": 328409,
       "word": "沈月 我也很久没被人亲了",
@@ -225,14 +241,6 @@
       "onboard_time": 1755392961,
       "rank": 8,
       "category": "民生新闻,读书作家"
-    },
-    {
-      "raw_hot": 595840,
-      "num": 595840,
-      "word": "马天宇 啥也不会只会哭",
-      "onboard_time": 1755427643,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 587468,
@@ -411,6 +419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 408958,
+      "num": 321202,
+      "word": "孙怡 结婚得到的要比我赚钱幸福得多",
+      "onboard_time": 1755429743,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398442,
       "num": 398442,
       "word": "杨幂这段没有一句台词",
@@ -545,6 +561,14 @@
       "onboard_time": 1755395361,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319512,
+      "num": 319512,
+      "word": "微信号真的会透露很多隐私",
+      "onboard_time": 1755426442,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 311492,
@@ -713,6 +737,14 @@
       "onboard_time": 1755416002,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 247881,
+      "num": 339432,
+      "word": "扔掉8千枚比特币的程序员放弃寻找",
+      "onboard_time": 1755427162,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 239827,
@@ -915,16 +947,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189315,
-      "num": 189315,
-      "word": "微信号真的会透露很多隐私",
-      "onboard_time": 1755426442,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189181,
-      "num": 514493,
+      "num": 660777,
       "word": "中国世遗8分钟视频纯享版",
       "onboard_time": 1755398422,
       "rank": 27,
@@ -937,6 +961,14 @@
       "onboard_time": 1755393920,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188621,
+      "num": 334504,
+      "word": "九三阅兵演练现场",
+      "onboard_time": 1755429801,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188033,
@@ -977,14 +1009,6 @@
       "onboard_time": 1755404360,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176515,
-      "num": 184611,
-      "word": "扔掉8千枚比特币的程序员放弃寻找",
-      "onboard_time": 1755427162,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 176344,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1755404182,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171397,
+      "num": 171397,
+      "word": "此沙彼沙",
+      "onboard_time": 1755429743,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 171258,
@@ -1219,6 +1251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158450,
+      "num": 158450,
+      "word": "银子嫁给宁学祥",
+      "onboard_time": 1755429382,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157800,
       "num": 212237,
       "word": "喜剧之王单口季2",
@@ -1273,6 +1313,14 @@
       "onboard_time": 1755405383,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153047,
+      "num": 153047,
+      "word": "女子求职要求双休遭言语侮辱",
+      "onboard_time": 1755426563,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152345,
@@ -1355,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147771,
+      "num": 147771,
+      "word": "王曼昱vs万远",
+      "onboard_time": 1755430224,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147327,
       "num": 135924,
       "word": "张凌赫王楚然鼻炎受害者联盟",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1755407542,
       "rank": 31,
       "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 145752,
+      "num": 145752,
+      "word": "周一请假和周五请假真不是一个感觉",
+      "onboard_time": 1755424823,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 145381,
@@ -1507,14 +1571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138271,
-      "num": 138271,
-      "word": "银子嫁给宁学祥",
-      "onboard_time": 1755429382,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138221,
       "num": 138221,
       "word": "黄子韬这次是黄了个小逃",
@@ -1593,14 +1649,6 @@
       "onboard_time": 1755338244,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 134972,
-      "num": 134972,
-      "word": "周一请假和周五请假真不是一个感觉",
-      "onboard_time": 1755424823,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 134817,
@@ -1779,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127421,
+      "num": 127421,
+      "word": "外网评论韩立结婴",
+      "onboard_time": 1755429202,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126464,
       "num": 126464,
       "word": "只有龚俊一直在睁眼",
@@ -1875,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120218,
+      "num": 120218,
+      "word": "人人人长白山人人人",
+      "onboard_time": 1755429022,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119508,
       "num": 119508,
       "word": "郝蕾被萧亚轩托举香奈儿感动到大哭",
@@ -1961,14 +2025,6 @@
       "onboard_time": 1755354804,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117255,
-      "num": 117255,
-      "word": "女子求职要求双休遭言语侮辱",
-      "onboard_time": 1755426563,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116932,
@@ -2099,20 +2155,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 108868,
-      "num": 108868,
-      "word": "外网评论韩立结婴",
-      "onboard_time": 1755429202,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108545,
       "num": 108545,
       "word": "婴猴意外离世金丝猴妈妈轻抚告别",
       "onboard_time": 1755416423,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107909,
+      "num": 107909,
+      "word": "暑期档最后一部能撑场子的电影",
+      "onboard_time": 1755429861,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 107670,
@@ -2193,14 +2249,6 @@
       "onboard_time": 1755414621,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102401,
-      "num": 102401,
-      "word": "人人人长白山人人人",
-      "onboard_time": 1755429022,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 102102,
@@ -2307,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98740,
+      "num": 98740,
+      "word": "拉宏桑00后的精神状态",
+      "onboard_time": 1755430042,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98435,
       "num": 98435,
       "word": "WBG对战AL",
@@ -2388,7 +2444,7 @@
     },
     {
       "raw_hot": 96342,
-      "num": 96342,
+      "num": 146003,
       "word": "李沁马达加斯加plog",
       "onboard_time": 1755427042,
       "rank": 45,
@@ -2563,6 +2619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86881,
+      "num": 86881,
+      "word": "敬没抢到票的我",
+      "onboard_time": 1755427104,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86861,
       "num": 86861,
       "word": "陈浚铭猫耳",
@@ -2577,14 +2641,6 @@
       "onboard_time": 1755360922,
       "rank": 39,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 86625,
-      "num": 86625,
-      "word": "敬没抢到票的我",
-      "onboard_time": 1755427104,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 86337,
@@ -2764,7 +2820,7 @@
     },
     {
       "raw_hot": 71328,
-      "num": 140514,
+      "num": 145794,
       "word": "女明星牧场初舞台",
       "onboard_time": 1755428842,
       "rank": 27,
@@ -2852,7 +2908,7 @@
     },
     {
       "raw_hot": 52788,
-      "num": 183602,
+      "num": 196133,
       "word": "庞博朱广权科技男团",
       "onboard_time": 1755427402,
       "rank": 44,
