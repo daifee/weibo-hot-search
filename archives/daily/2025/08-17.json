@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755420383105,
+  "endTime": 1755422805122,
   "band_list": [
     {
       "raw_hot": 2033517,
@@ -57,6 +57,14 @@
       "onboard_time": 1755397701,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 917994,
+      "num": 1146879,
+      "word": "当当网创始人李国庆大婚",
+      "onboard_time": 1755420922,
+      "rank": 0,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 914588,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632352,
+      "num": 321424,
+      "word": "男子杀妻后欲网购冰柜藏匿尸体",
+      "onboard_time": 1755419602,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 628646,
       "num": 328409,
       "word": "沈月 我也很久没被人亲了",
@@ -177,6 +193,14 @@
       "onboard_time": 1755392961,
       "rank": 8,
       "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 587468,
+      "num": 289135,
+      "word": "梓渝音乐节",
+      "onboard_time": 1755419721,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 585532,
@@ -336,6 +360,14 @@
       "word": "孟子义我拿奖啦",
       "onboard_time": 1755356303,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 389092,
+      "num": 389092,
+      "word": "张雅琪也没躲过张晚意的嘴",
+      "onboard_time": 1755419182,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -619,11 +651,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 227648,
-      "num": 227648,
-      "word": "男子杀妻后欲网购冰柜藏匿尸体",
-      "onboard_time": 1755419602,
-      "rank": 16,
+      "raw_hot": 228085,
+      "num": 293235,
+      "word": "兄弟俩花400万买到2套抵押房",
+      "onboard_time": 1755420683,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -755,20 +787,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193766,
-      "num": 193766,
-      "word": "梓渝音乐节",
-      "onboard_time": 1755419721,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 192987,
       "num": 192987,
       "word": "谷爱凌发文称因人为事故受伤",
       "onboard_time": 1755387078,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192115,
+      "num": 192115,
+      "word": "李国庆婚礼",
+      "onboard_time": 1755422062,
+      "rank": 14,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 190241,
@@ -780,7 +812,7 @@
     },
     {
       "raw_hot": 189181,
-      "num": 262030,
+      "num": 491516,
       "word": "中国世遗8分钟视频纯享版",
       "onboard_time": 1755398422,
       "rank": 27,
@@ -819,12 +851,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180155,
-      "num": 180155,
-      "word": "张雅琪也没躲过张晚意的嘴",
-      "onboard_time": 1755419182,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 180266,
+      "num": 180266,
+      "word": "一家三口被害  嫌犯精神分裂",
+      "onboard_time": 1755420621,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176344,
@@ -889,6 +921,14 @@
       "onboard_time": 1755411562,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173395,
+      "num": 181159,
+      "word": "生万物云合",
+      "onboard_time": 1755421102,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 173333,
@@ -963,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166462,
+      "num": 166462,
+      "word": "辛云来录个hi6我要笑两天",
+      "onboard_time": 1755421822,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166451,
       "num": 166451,
       "word": "内蒙古乌拉特后旗山洪已造成8人遇难4人失联",
@@ -1019,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158195,
+      "num": 158195,
+      "word": "青岛音乐节",
+      "onboard_time": 1755422301,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157800,
       "num": 212237,
       "word": "喜剧之王单口季2",
@@ -1032,6 +1088,14 @@
       "word": "小酒窝模仿白鹿大笑",
       "onboard_time": 1755389840,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155897,
+      "num": 155897,
+      "word": "张元英说上海最好吃的是北京烤鸭",
+      "onboard_time": 1755419121,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1057,6 +1121,14 @@
       "onboard_time": 1755405383,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152345,
+      "num": 152345,
+      "word": "徐艺真自己当老板了",
+      "onboard_time": 1755420323,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 151720,
@@ -1152,6 +1224,14 @@
       "word": "看生万物三天俺被腌入味了",
       "onboard_time": 1755405081,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146110,
+      "num": 146110,
+      "word": "献鱼人生镜头",
+      "onboard_time": 1755420742,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1315,6 +1395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136410,
+      "num": 136410,
+      "word": "人在腹中睡祸从天上来",
+      "onboard_time": 1755420323,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136089,
       "num": 136089,
       "word": "于文文回应粉丝穿婚纱看演唱会",
@@ -1353,6 +1441,14 @@
       "onboard_time": 1755413002,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134689,
+      "num": 134689,
+      "word": "时代少年团默契训练",
+      "onboard_time": 1755421701,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 134673,
@@ -1473,6 +1569,14 @@
       "onboard_time": 1755418282,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127583,
+      "num": 127583,
+      "word": "Jiejie回应离开iG",
+      "onboard_time": 1755422423,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 127427,
@@ -1603,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117519,
+      "num": 117519,
+      "word": "Capper演唱会上泣不成声",
+      "onboard_time": 1755421343,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117471,
       "num": 117471,
       "word": "宁绣绣直接把苏苏接走",
@@ -1723,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110798,
+      "num": 110798,
+      "word": "戚薇早期真的美到没边",
+      "onboard_time": 1755422601,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110178,
       "num": 197201,
       "word": "张艺兴唱了人鱼的眼泪",
@@ -1737,6 +1857,14 @@
       "onboard_time": 1755416423,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107735,
+      "num": 107735,
+      "word": "女主一句话让男主倾家荡产",
+      "onboard_time": 1755422543,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 107670,
@@ -1787,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105105,
+      "num": 105105,
+      "word": "陈星旭已撒娇求放过",
+      "onboard_time": 1755422423,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103625,
       "num": 103625,
       "word": "成都世运会中国36金17银11铜",
@@ -1819,12 +1955,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102049,
+      "num": 102049,
+      "word": "4岁女儿水泥台踩脚印获父母硬核批注",
+      "onboard_time": 1755422783,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101766,
       "num": 101766,
       "word": "巴基斯坦暴雨2天内344人死亡",
       "onboard_time": 1755420143,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101174,
+      "num": 101174,
+      "word": "GEN战胜HLE",
+      "onboard_time": 1755422783,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 100566,
@@ -1899,6 +2051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97529,
+      "num": 100231,
+      "word": "罗永浩再提董宇辉离职前曾借钱交首付",
+      "onboard_time": 1755422122,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 97386,
       "num": 97386,
       "word": "大英博物馆中国馆旁开韩国文化展",
@@ -1931,14 +2091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96724,
-      "num": 96724,
-      "word": "人在腹中睡祸从天上来",
-      "onboard_time": 1755420323,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95073,
       "num": 95073,
       "word": "苏新皓嘴上不语眼里都是渴望",
@@ -1961,6 +2113,14 @@
       "onboard_time": 1755361522,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90768,
+      "num": 179836,
+      "word": "爆红法拍狸花猫性格很好",
+      "onboard_time": 1755421282,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90628,
@@ -1993,6 +2153,14 @@
       "onboard_time": 1755389419,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89460,
+      "num": 228424,
+      "word": "合作伙伴夸鸿蒙听劝",
+      "onboard_time": 1755417683,
+      "rank": 16,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 88682,
@@ -2059,20 +2227,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86223,
+      "num": 105025,
+      "word": "中国队36金17银11铜收官",
+      "onboard_time": 1755421102,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86222,
       "num": 196965,
       "word": "女子2年日服10粒牛黄解毒片中毒",
       "onboard_time": 1755356784,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86122,
-      "num": 119903,
-      "word": "张元英说上海最好吃的是北京烤鸭",
-      "onboard_time": 1755419121,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 86118,
@@ -2209,6 +2377,14 @@
       "onboard_time": 1755351985,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74983,
+      "num": 116665,
+      "word": "李乃文助理 徐志胜兼职",
+      "onboard_time": 1755421822,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 71398,
@@ -2395,12 +2571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41202,
-      "num": 101002,
-      "word": "徐艺真自己当老板了",
-      "onboard_time": 1755420323,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 40370,
+      "num": 116689,
+      "word": "男子私配钥匙14次潜入女子家中偷拍",
+      "onboard_time": 1755422362,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40179,
@@ -2441,6 +2617,14 @@
       "onboard_time": 1755357982,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35688,
+      "num": 152655,
+      "word": "退役军犬蹭着训导员不肯走",
+      "onboard_time": 1755422482,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35049,
@@ -2521,14 +2705,6 @@
       "onboard_time": 1755343041,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 32446,
-      "num": 228424,
-      "word": "合作伙伴夸鸿蒙听劝",
-      "onboard_time": 1755417683,
-      "rank": 16,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 30941,
