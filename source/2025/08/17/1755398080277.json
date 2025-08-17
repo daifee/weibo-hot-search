@@ -1,0 +1,410 @@
+{
+  "runTime": 1755398080277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1657499,
+        "num": 1657499,
+        "word": "外卖小哥发现带血枕头报警救人",
+        "onboard_time": 1755388339,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 805794,
+        "num": 805794,
+        "word": "难怪现在奶茶三分糖都很甜",
+        "onboard_time": 1755387258,
+        "rank": 1,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 40415,
+        "num": 754415,
+        "word": "西藏在长大我也在长大",
+        "onboard_time": 1755355165,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724129,
+        "num": 724129,
+        "word": "江山为聘开机",
+        "onboard_time": 1755395841,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613918,
+        "num": 613918,
+        "word": "苏苏被逐出费家",
+        "onboard_time": 1755395841,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508685,
+        "num": 508685,
+        "word": "韩国人说投壶是韩国的",
+        "onboard_time": 1755394160,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 455171,
+        "num": 455171,
+        "word": "肖战脸一出来就疯狂尖叫",
+        "onboard_time": 1755393741,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 434493,
+        "num": 434493,
+        "word": "台风母体来了",
+        "onboard_time": 1755392180,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384991,
+        "num": 384991,
+        "word": "盗墓笔记",
+        "onboard_time": 1755387858,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320142,
+        "num": 320142,
+        "word": "作家梁晓声再谈孙颖莎",
+        "onboard_time": 1755396560,
+        "rank": 9,
+        "category": "体育,读书作家"
+      },
+      {
+        "raw_hot": 606343,
+        "num": 320108,
+        "word": "徐萌 范曾",
+        "onboard_time": 1755392961,
+        "rank": 10,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 421314,
+        "num": 320088,
+        "word": "藏头诗",
+        "onboard_time": 1755367456,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 417044,
+        "num": 320072,
+        "word": "梓渝话筒颜色换了",
+        "onboard_time": 1755395841,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320057,
+        "num": 320057,
+        "word": "网友吐槽苏州火车站厕所",
+        "onboard_time": 1755395361,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305460,
+        "num": 305460,
+        "word": "抗战胜利80周年大会第二次演练完成",
+        "onboard_time": 1755388278,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298083,
+        "num": 298083,
+        "word": "韩网民称古代太监被韩国人垄断",
+        "onboard_time": 1755395659,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269693,
+        "num": 269693,
+        "word": "21岁女主播应邀见大哥被强吻",
+        "onboard_time": 1755394521,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215278,
+        "num": 215278,
+        "word": "女装退货率",
+        "onboard_time": 1755394880,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157800,
+        "num": 212237,
+        "word": "喜剧之王单口季2",
+        "onboard_time": 1755396739,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146947,
+        "num": 210236,
+        "word": "天若有情",
+        "onboard_time": 1755396501,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209585,
+        "num": 209585,
+        "word": "蜜雪冰城回应出现蜜雪冰橙",
+        "onboard_time": 1755397223,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169373,
+        "num": 169373,
+        "word": "罗永浩曝董宇辉年收入二三十亿",
+        "onboard_time": 1755397701,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168252,
+        "num": 168252,
+        "word": "全村人都知道了绣绣是清白的",
+        "onboard_time": 1755387559,
+        "rank": 22,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 147444,
+        "num": 147444,
+        "word": "约4万人参加演练及现场保障",
+        "onboard_time": 1755388339,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144851,
+        "num": 144851,
+        "word": "女子翻入围栏欺负小老虎",
+        "onboard_time": 1755393920,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54960,
+        "num": 139980,
+        "word": "特朗普称美准备为乌提供安全保障",
+        "onboard_time": 1755397760,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137918,
+        "num": 137918,
+        "word": "12306回应高铁遇体型宽大邻座乘客",
+        "onboard_time": 1755354923,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132298,
+        "num": 132298,
+        "word": "小酒窝模仿白鹿大笑",
+        "onboard_time": 1755389840,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128664,
+        "num": 128664,
+        "word": "邝玲玲微博泰国年度最具热度艺人",
+        "onboard_time": 1755395900,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118429,
+        "num": 128584,
+        "word": "孟子义问单依纯给李白加词李白ok吗",
+        "onboard_time": 1755397459,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136816,
+        "num": 128576,
+        "word": "谷爱凌发文称因人为事故受伤",
+        "onboard_time": 1755387078,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128525,
+        "num": 128525,
+        "word": "游客带木质黑金古刀cos张起灵被拦",
+        "onboard_time": 1755393560,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117810,
+        "num": 117810,
+        "word": "沈月泰国年度海外最受欢迎中国女演员",
+        "onboard_time": 1755395841,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113362,
+        "num": 113362,
+        "word": "减肥其实是越减越轻松的",
+        "onboard_time": 1755397041,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112143,
+        "num": 112143,
+        "word": "杨幂的人生真的好精彩",
+        "onboard_time": 1755395781,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64467,
+        "num": 111821,
+        "word": "严浩翔回复贺峻霖继续向前冲",
+        "onboard_time": 1755398062,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111561,
+        "num": 111561,
+        "word": "张晚意和谁都能整两口",
+        "onboard_time": 1755395900,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105845,
+        "num": 105845,
+        "word": "宁绣绣直接把苏苏接走",
+        "onboard_time": 1755396020,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103971,
+        "num": 103971,
+        "word": "内娱4张权威脸同框了",
+        "onboard_time": 1755348745,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101528,
+        "num": 101528,
+        "word": "陈哲远江山为聘开机出妆",
+        "onboard_time": 1755396141,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101426,
+        "num": 101426,
+        "word": "沈腾也确诊白磷型人格",
+        "onboard_time": 1755397881,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99660,
+        "num": 99660,
+        "word": "俄乌冲突将以牺牲乌克兰利益结束",
+        "onboard_time": 1755350845,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89308,
+        "num": 89308,
+        "word": "长白山景区回应游客带木刀被扣",
+        "onboard_time": 1755393741,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87919,
+        "num": 87919,
+        "word": "人类被大虾玩弄于鼓掌之中",
+        "onboard_time": 1755397580,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87475,
+        "num": 87475,
+        "word": "林一卢昱晓折月亮椅子吻",
+        "onboard_time": 1755397459,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83844,
+        "num": 83844,
+        "word": "毕雯珺你是不是想牵手",
+        "onboard_time": 1755395960,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83384,
+        "num": 83384,
+        "word": "只有将太阳关掉你才能发现",
+        "onboard_time": 1755397580,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 81496,
+        "num": 81496,
+        "word": "减肥30斤带来的杀伤力",
+        "onboard_time": 1755397159,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76700,
+        "num": 76700,
+        "word": "37岁每天坚持运动一小时后的变化",
+        "onboard_time": 1755397641,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 76098,
+        "num": 76098,
+        "word": "伦敦偶遇朱一龙逛美术馆",
+        "onboard_time": 1755398000,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起共谱绿水青山曲#"
+    }
+  }
+}
