@@ -1,0 +1,410 @@
+{
+  "runTime": 1755403722335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1276500,
+        "num": 1276500,
+        "word": "外卖小哥发现带血枕头报警救人",
+        "onboard_time": 1755388339,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528911,
+        "num": 528911,
+        "word": "江山为聘开机",
+        "onboard_time": 1755395841,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30825,
+        "num": 522504,
+        "word": "网警发布防范指南不让科技偷走隐私",
+        "onboard_time": 1755400761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522248,
+        "num": 522248,
+        "word": "男子在机场用马桶冲走223枚鸟蛋",
+        "onboard_time": 1755400640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 898719,
+        "num": 485304,
+        "word": "罗永浩曝董宇辉年收入二三十亿",
+        "onboard_time": 1755397701,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 442909,
+        "num": 442909,
+        "word": "沈腾也确诊白磷型人格",
+        "onboard_time": 1755397881,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423527,
+        "num": 423527,
+        "word": "续面女顾客称和面馆老板不再和解",
+        "onboard_time": 1755401061,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360842,
+        "num": 360842,
+        "word": "难怪现在奶茶三分糖都很甜",
+        "onboard_time": 1755387258,
+        "rank": 7,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 346231,
+        "num": 346231,
+        "word": "韩网民称古代太监被韩国人垄断",
+        "onboard_time": 1755395659,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 341360,
+        "num": 341360,
+        "word": "杨幂这段没有一句台词",
+        "onboard_time": 1755400700,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278468,
+        "num": 278468,
+        "word": "绣绣的头发再也梳不回去了",
+        "onboard_time": 1755402982,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271067,
+        "num": 271067,
+        "word": "藏头诗",
+        "onboard_time": 1755367456,
+        "rank": 11,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 265572,
+        "num": 265572,
+        "word": "肖战脸一出来就疯狂尖叫",
+        "onboard_time": 1755393741,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264745,
+        "num": 264745,
+        "word": "梓渝彩排现场图",
+        "onboard_time": 1755402681,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189181,
+        "num": 262030,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261864,
+        "num": 261864,
+        "word": "古剑pv",
+        "onboard_time": 1755401300,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251430,
+        "num": 251430,
+        "word": "肖宇梁时隔4年半进组了",
+        "onboard_time": 1755400341,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238961,
+        "num": 238961,
+        "word": "苏苏被逐出费家",
+        "onboard_time": 1755395841,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223730,
+        "num": 223730,
+        "word": "梓渝话筒颜色换了",
+        "onboard_time": 1755395841,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189919,
+        "num": 189919,
+        "word": "龙门石窟",
+        "onboard_time": 1755398661,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 204790,
+        "num": 188374,
+        "word": "易烊千玺抢票",
+        "onboard_time": 1755403461,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193901,
+        "num": 187693,
+        "word": "BTS直播",
+        "onboard_time": 1755401180,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178571,
+        "num": 178571,
+        "word": "网友吐槽苏州火车站厕所",
+        "onboard_time": 1755395361,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176710,
+        "num": 176710,
+        "word": "作家梁晓声再谈孙颖莎",
+        "onboard_time": 1755396560,
+        "rank": 23,
+        "category": "体育,读书作家"
+      },
+      {
+        "raw_hot": 176080,
+        "num": 176080,
+        "word": "徐如蓝高社会化水平的魅力",
+        "onboard_time": 1755402921,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174213,
+        "num": 174213,
+        "word": "美俄会晤机密文件疑泄露",
+        "onboard_time": 1755400040,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170574,
+        "num": 170574,
+        "word": "天若有情",
+        "onboard_time": 1755396501,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166922,
+        "num": 166922,
+        "word": "蜜雪冰城回应出现蜜雪冰橙",
+        "onboard_time": 1755397223,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160224,
+        "num": 160224,
+        "word": "西湖醋鱼全责",
+        "onboard_time": 1755401061,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156550,
+        "num": 156550,
+        "word": "37岁每天坚持运动一小时后的变化",
+        "onboard_time": 1755397641,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20643,
+        "num": 148943,
+        "word": "内蒙古一地山洪8人遇难",
+        "onboard_time": 1755403521,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 40808,
+        "num": 147655,
+        "word": "一文梳理范曾徐萌事件",
+        "onboard_time": 1755401841,
+        "rank": 31,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 147537,
+        "num": 147537,
+        "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
+        "onboard_time": 1755398961,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156006,
+        "num": 147231,
+        "word": "徐萌 范曾",
+        "onboard_time": 1755392961,
+        "rank": 33,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 145381,
+        "num": 145381,
+        "word": "JackeyLove回应输给iG",
+        "onboard_time": 1755402681,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138178,
+        "num": 138178,
+        "word": "古剑单机新作首曝",
+        "onboard_time": 1755402860,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132997,
+        "num": 132997,
+        "word": "21岁女主播应邀见大哥被强吻",
+        "onboard_time": 1755394521,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131854,
+        "num": 131854,
+        "word": "台风母体来了",
+        "onboard_time": 1755392180,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33207,
+        "num": 131238,
+        "word": "逃出电诈园男子靠吃蚯蚓活命",
+        "onboard_time": 1755402860,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67967,
+        "num": 131221,
+        "word": "张予曦吃夜宵",
+        "onboard_time": 1755403103,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131213,
+        "num": 131213,
+        "word": "10岁孩子溺亡家长起诉其4名同伴",
+        "onboard_time": 1755403461,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126785,
+        "num": 126785,
+        "word": "于文文回应粉丝穿婚纱看演唱会",
+        "onboard_time": 1755399860,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126155,
+        "num": 126155,
+        "word": "痛经用药建议",
+        "onboard_time": 1755399382,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123736,
+        "num": 123736,
+        "word": "披哥和浪姐合体了",
+        "onboard_time": 1755400281,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122799,
+        "num": 122799,
+        "word": "盗墓笔记",
+        "onboard_time": 1755387858,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121143,
+        "num": 121143,
+        "word": "二十五岁是什么感觉",
+        "onboard_time": 1755402261,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117360,
+        "num": 117360,
+        "word": "宜家海报 海鸥屎",
+        "onboard_time": 1755402801,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116078,
+        "num": 116078,
+        "word": "苏醒三个舞台用了三种音色",
+        "onboard_time": 1755403161,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108607,
+        "num": 108607,
+        "word": "人为了欲望能做到什么程度",
+        "onboard_time": 1755398661,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107004,
+        "num": 107004,
+        "word": "吴谨言陈哲远海报",
+        "onboard_time": 1755401660,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起共谱绿水青山曲#"
+    }
+  }
+}

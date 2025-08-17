@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755403130983,
+  "endTime": 1755403722335,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -9339,6 +9339,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 442909,
+      "num": 442909,
+      "word": "沈腾也确诊白磷型人格",
+      "onboard_time": 1755397881,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442704,
       "num": 414299,
       "word": "刘诗诗真的太瘦了",
@@ -9697,6 +9705,14 @@
       "onboard_time": 1754280444,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 423527,
+      "num": 423527,
+      "word": "续面女顾客称和面馆老板不再和解",
+      "onboard_time": 1755401061,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 423269,
@@ -10243,14 +10259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 401656,
-      "num": 401656,
-      "word": "续面女顾客称和面馆老板不再和解",
-      "onboard_time": 1755401061,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 401549,
       "num": 307712,
       "word": "孟子义秒认李昀锐",
@@ -10513,14 +10521,6 @@
       "onboard_time": 1754983880,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 390470,
-      "num": 390470,
-      "word": "沈腾也确诊白磷型人格",
-      "onboard_time": 1755397881,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 390147,
@@ -13971,6 +13971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278468,
+      "num": 278468,
+      "word": "绣绣的头发再也梳不回去了",
+      "onboard_time": 1755402982,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278197,
       "num": 274842,
       "word": "陈奕迅因压力过大患上焦虑症",
@@ -14641,6 +14649,14 @@
       "onboard_time": 1754197463,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 264745,
+      "num": 264745,
+      "word": "梓渝彩排现场图",
+      "onboard_time": 1755402681,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 264441,
@@ -15329,6 +15345,14 @@
       "onboard_time": 1754059703,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251430,
+      "num": 251430,
+      "word": "肖宇梁时隔4年半进组了",
+      "onboard_time": 1755400341,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 250973,
@@ -17139,14 +17163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221772,
-      "num": 221772,
-      "word": "肖宇梁时隔4年半进组了",
-      "onboard_time": 1755400341,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 221753,
       "num": 221753,
       "word": "看完易烊千玺演唱会有1.4了",
@@ -18827,14 +18843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205700,
-      "num": 201622,
-      "word": "梓渝彩排现场图",
-      "onboard_time": 1755402681,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 205581,
       "num": 205581,
       "word": "没人说95花搭95花这么配啊",
@@ -18961,6 +18969,14 @@
       "onboard_time": 1755169642,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204790,
+      "num": 188374,
+      "word": "易烊千玺抢票",
+      "onboard_time": 1753978583,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 204739,
@@ -21011,6 +21027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193901,
+      "num": 187693,
+      "word": "BTS直播",
+      "onboard_time": 1755401180,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193855,
       "num": 193855,
       "word": "IVE舞台飞麦",
@@ -21795,6 +21819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189181,
+      "num": 262030,
+      "word": "中国世遗8分钟视频纯享版",
+      "onboard_time": 1755398422,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189173,
       "num": 214515,
       "word": "吴艳妮女子100米栏全国冠军",
@@ -22097,14 +22129,6 @@
       "onboard_time": 1754315545,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187372,
-      "num": 187372,
-      "word": "绣绣的头发再也梳不回去了",
-      "onboard_time": 1755402982,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 187360,
@@ -24027,6 +24051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176080,
+      "num": 176080,
+      "word": "徐如蓝高社会化水平的魅力",
+      "onboard_time": 1755402921,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176079,
       "num": 176079,
       "word": "韩昊霖真的长成了张若昀",
@@ -24217,14 +24249,6 @@
       "onboard_time": 1754352382,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175121,
-      "num": 175121,
-      "word": "中国世遗8分钟视频纯享版",
-      "onboard_time": 1755398422,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175096,
@@ -24865,14 +24889,6 @@
       "onboard_time": 1754729663,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171543,
-      "num": 171543,
-      "word": "BTS直播",
-      "onboard_time": 1755401180,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 171522,
@@ -30435,6 +30451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147537,
+      "num": 147537,
+      "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
+      "onboard_time": 1755398961,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147473,
       "num": 147473,
       "word": "电影浪浪山小妖怪",
@@ -30977,6 +31001,14 @@
       "onboard_time": 1754559924,
       "rank": 34,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 145381,
+      "num": 145381,
+      "word": "JackeyLove回应输给iG",
+      "onboard_time": 1755402681,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 145352,
@@ -33243,14 +33275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 137701,
-      "num": 137701,
-      "word": "JackeyLove回应输给iG",
-      "onboard_time": 1755402681,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 137673,
       "num": 137673,
       "word": "战至巅峰脱口秀联盟组团对抗",
@@ -34699,14 +34723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133622,
-      "num": 133622,
-      "word": "徐如蓝高社会化水平的魅力",
-      "onboard_time": 1755402921,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133611,
       "num": 133611,
       "word": "三宝房子车子票子都给前妻了",
@@ -35449,6 +35465,14 @@
       "onboard_time": 1755179484,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131213,
+      "num": 131213,
+      "word": "10岁孩子溺亡家长起诉其4名同伴",
+      "onboard_time": 1755403461,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131193,
@@ -38803,6 +38827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121143,
+      "num": 121143,
+      "word": "二十五岁是什么感觉",
+      "onboard_time": 1755402261,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121118,
       "num": 121118,
       "word": "内娱女明星的解约困境",
@@ -40131,6 +40163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117360,
+      "num": 117360,
+      "word": "宜家海报 海鸥屎",
+      "onboard_time": 1755402801,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117357,
       "num": 117357,
       "word": "Lovecd确诊双向情感障碍",
@@ -40483,12 +40523,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 116100,
-      "num": 116100,
-      "word": "二十五岁是什么感觉",
-      "onboard_time": 1755402261,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 116078,
+      "num": 116078,
+      "word": "苏醒三个舞台用了三种音色",
+      "onboard_time": 1755403161,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 116069,
@@ -46163,14 +46203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95681,
-      "num": 124601,
-      "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
-      "onboard_time": 1755398961,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95656,
       "num": 95656,
       "word": "Fly再吃找人弄你",
@@ -48267,14 +48299,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 83326,
-      "num": 83326,
-      "word": "易烊千玺抢票",
-      "onboard_time": 1753978583,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 83234,
       "num": 479976,
       "word": "AI起号乱象调查",
@@ -49889,6 +49913,14 @@
       "onboard_time": 1754979684,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67967,
+      "num": 136093,
+      "word": "张予曦吃夜宵",
+      "onboard_time": 1755403103,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 67942,
@@ -53163,14 +53195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39568,
-      "num": 136093,
-      "word": "张予曦吃夜宵",
-      "onboard_time": 1755403103,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39561,
       "num": 62526,
       "word": "孙颖莎说今天回去要多吃一点",
@@ -53923,6 +53947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33207,
+      "num": 135937,
+      "word": "逃出电诈园男子靠吃蚯蚓活命",
+      "onboard_time": 1755402860,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33114,
       "num": 150311,
       "word": "男子健身房充87万用到300年后",
@@ -54203,6 +54235,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 30825,
+      "num": 614536,
+      "word": "网警发布防范指南不让科技偷走隐私",
+      "onboard_time": 1755400761,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30725,
       "num": 164829,
       "word": "广东祖孙3人被杀嫌犯鉴定为精神分裂",
@@ -54377,14 +54417,6 @@
       "onboard_time": 1754269883,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 29701,
-      "num": 614536,
-      "word": "网警发布防范指南不让科技偷走隐私",
-      "onboard_time": 1755400761,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29589,
@@ -54736,14 +54768,6 @@
       "word": "72岁老人放羊遭黑熊袭击进ICU",
       "onboard_time": 1754485282,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25990,
-      "num": 135937,
-      "word": "逃出电诈园男子靠吃蚯蚓活命",
-      "onboard_time": 1755402860,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -55385,6 +55409,14 @@
       "onboard_time": 1755355224,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20643,
+      "num": 148943,
+      "word": "内蒙古一地山洪8人遇难",
+      "onboard_time": 1755403521,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 20511,

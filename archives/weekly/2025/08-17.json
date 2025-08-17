@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755403130983,
+  "endTime": 1755403722335,
   "band_list": [
     {
       "raw_hot": 1812521,
@@ -155,6 +155,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442909,
+      "num": 442909,
+      "word": "沈腾也确诊白磷型人格",
+      "onboard_time": 1755397881,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 423527,
+      "num": 423527,
+      "word": "续面女顾客称和面馆老板不再和解",
+      "onboard_time": 1755401061,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411643,
       "num": 411643,
       "word": "韩网民称古代太监被韩国人垄断",
@@ -163,28 +179,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 401656,
-      "num": 401656,
-      "word": "续面女顾客称和面馆老板不再和解",
-      "onboard_time": 1755401061,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 398442,
       "num": 398442,
       "word": "杨幂这段没有一句台词",
       "onboard_time": 1755400700,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 390470,
-      "num": 390470,
-      "word": "沈腾也确诊白磷型人格",
-      "onboard_time": 1755397881,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 389752,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278468,
+      "num": 278468,
+      "word": "绣绣的头发再也梳不回去了",
+      "onboard_time": 1755402982,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277619,
       "num": 216849,
       "word": "张凌赫友情出演生万物",
@@ -299,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264745,
+      "num": 264745,
+      "word": "梓渝彩排现场图",
+      "onboard_time": 1755402681,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 260469,
       "num": 250995,
       "word": "范曾被传遭娇妻卷走20亿女儿发声",
@@ -315,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251430,
+      "num": 251430,
+      "word": "肖宇梁时隔4年半进组了",
+      "onboard_time": 1755400341,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239197,
       "num": 215674,
       "word": "微博文化交流之夜",
@@ -329,14 +353,6 @@
       "onboard_time": 1755387559,
       "rank": 16,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 221772,
-      "num": 221772,
-      "word": "肖宇梁时隔4年半进组了",
-      "onboard_time": 1755400341,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 218160,
@@ -395,11 +411,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205700,
-      "num": 201622,
-      "word": "梓渝彩排现场图",
-      "onboard_time": 1755402681,
-      "rank": 21,
+      "raw_hot": 204790,
+      "num": 188374,
+      "word": "易烊千玺抢票",
+      "onboard_time": 1755403461,
+      "rank": 20,
       "category": "演出"
     },
     {
@@ -427,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193901,
+      "num": 187693,
+      "word": "BTS直播",
+      "onboard_time": 1755401180,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192987,
       "num": 192987,
       "word": "谷爱凌发文称因人为事故受伤",
@@ -443,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189181,
+      "num": 262030,
+      "word": "中国世遗8分钟视频纯享版",
+      "onboard_time": 1755398422,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188635,
       "num": 188635,
       "word": "女子翻入围栏欺负小老虎",
@@ -451,28 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187372,
-      "num": 187372,
-      "word": "绣绣的头发再也梳不回去了",
-      "onboard_time": 1755402982,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 175121,
-      "num": 175121,
-      "word": "中国世遗8分钟视频纯享版",
-      "onboard_time": 1755398422,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171543,
-      "num": 171543,
-      "word": "BTS直播",
-      "onboard_time": 1755401180,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 176080,
+      "num": 176080,
+      "word": "徐如蓝高社会化水平的魅力",
+      "onboard_time": 1755402921,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 171011,
@@ -563,12 +579,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147537,
+      "num": 147537,
+      "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
+      "onboard_time": 1755398961,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146973,
       "num": 146973,
       "word": "古剑单机新作首曝",
       "onboard_time": 1755402860,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145381,
+      "num": 145381,
+      "word": "JackeyLove回应输给iG",
+      "onboard_time": 1755402681,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 144612,
@@ -601,14 +633,6 @@
       "onboard_time": 1755401660,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137701,
-      "num": 137701,
-      "word": "JackeyLove回应输给iG",
-      "onboard_time": 1755402681,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 137119,
@@ -651,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133622,
-      "num": 133622,
-      "word": "徐如蓝高社会化水平的魅力",
-      "onboard_time": 1755402921,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133594,
       "num": 198196,
       "word": "生万物全员喊人加入俺门",
@@ -689,6 +705,14 @@
       "onboard_time": 1755358101,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131213,
+      "num": 131213,
+      "word": "10岁孩子溺亡家长起诉其4名同伴",
+      "onboard_time": 1755403461,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128525,
@@ -739,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121143,
+      "num": 121143,
+      "word": "二十五岁是什么感觉",
+      "onboard_time": 1755402261,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118485,
       "num": 118485,
       "word": "李世民扮演者称演员要养家糊口",
@@ -779,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117360,
+      "num": 117360,
+      "word": "宜家海报 海鸥屎",
+      "onboard_time": 1755402801,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116882,
       "num": 131199,
       "word": "荣成车祸重伤女孩离世父亲发声",
@@ -787,12 +827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116100,
-      "num": 116100,
-      "word": "二十五岁是什么感觉",
-      "onboard_time": 1755402261,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 116078,
+      "num": 116078,
+      "word": "苏醒三个舞台用了三种音色",
+      "onboard_time": 1755403161,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 115096,
@@ -865,14 +905,6 @@
       "onboard_time": 1755356542,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 95681,
-      "num": 124601,
-      "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
-      "onboard_time": 1755398961,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93828,
@@ -1107,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67967,
+      "num": 136093,
+      "word": "张予曦吃夜宵",
+      "onboard_time": 1755403103,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65093,
       "num": 62299,
       "word": "未过本科线退2万涉事高中被立案调查",
@@ -1259,14 +1299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 39568,
-      "num": 136093,
-      "word": "张予曦吃夜宵",
-      "onboard_time": 1755403103,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36541,
       "num": 135094,
       "word": "谁是在泰国最火爆的精神搭子",
@@ -1291,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33207,
+      "num": 135937,
+      "word": "逃出电诈园男子靠吃蚯蚓活命",
+      "onboard_time": 1755402860,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32626,
       "num": 37140,
       "word": "普通家庭对女儿最好的托举",
@@ -1307,7 +1347,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29701,
+      "raw_hot": 30825,
       "num": 614536,
       "word": "网警发布防范指南不让科技偷走隐私",
       "onboard_time": 1755400761,
@@ -1329,14 +1369,6 @@
       "onboard_time": 1755366917,
       "rank": 46,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 25990,
-      "num": 135937,
-      "word": "逃出电诈园男子靠吃蚯蚓活命",
-      "onboard_time": 1755402860,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23867,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1755335900,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20643,
+      "num": 148943,
+      "word": "内蒙古一地山洪8人遇难",
+      "onboard_time": 1755403521,
+      "rank": 30,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 20315,
