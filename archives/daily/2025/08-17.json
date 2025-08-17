@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755419611733,
+  "endTime": 1755420383105,
   "band_list": [
     {
       "raw_hot": 2033517,
@@ -41,6 +41,14 @@
       "onboard_time": 1755367456,
       "rank": 0,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 1001740,
+      "num": 1160278,
+      "word": "iG官宣JieJie离队",
+      "onboard_time": 1755419182,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 984659,
@@ -171,14 +179,6 @@
       "category": "民生新闻,读书作家"
     },
     {
-      "raw_hot": 588811,
-      "num": 588811,
-      "word": "iG官宣JieJie离队",
-      "onboard_time": 1755419182,
-      "rank": 1,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 585532,
       "num": 583607,
       "word": "小杨哥老婆复出了",
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415273,
+      "num": 313705,
+      "word": "3种邪修秒睡法",
+      "onboard_time": 1755415881,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 411643,
       "num": 411643,
       "word": "韩网民称古代太监被韩国人垄断",
@@ -355,14 +363,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 351104,
-      "num": 313705,
-      "word": "3种邪修秒睡法",
-      "onboard_time": 1755415881,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 347166,
       "num": 347166,
       "word": "古剑pv",
@@ -401,6 +401,14 @@
       "onboard_time": 1755411262,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334973,
+      "num": 334973,
+      "word": "金九",
+      "onboard_time": 1755415162,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 334567,
@@ -457,6 +465,14 @@
       "onboard_time": 1755400341,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 297098,
+      "num": 269907,
+      "word": "欧阳娜娜我认真搞音乐的女儿回来了",
+      "onboard_time": 1755418342,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 294019,
@@ -579,8 +595,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 247864,
-      "num": 247864,
+      "raw_hot": 249946,
+      "num": 249946,
       "word": "iPhone可以很富士",
       "onboard_time": 1755416002,
       "rank": 32,
@@ -601,6 +617,14 @@
       "onboard_time": 1755334102,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 227648,
+      "num": 227648,
+      "word": "男子杀妻后欲网购冰柜藏匿尸体",
+      "onboard_time": 1755419602,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223847,
@@ -643,14 +667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 215076,
-      "num": 215076,
-      "word": "金九",
-      "onboard_time": 1755415162,
-      "rank": 31,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 211268,
       "num": 211268,
       "word": "普京返俄美国出动F35护航",
@@ -673,6 +689,14 @@
       "onboard_time": 1755397223,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208338,
+      "num": 208338,
+      "word": "不听劝买了别人都不要的一楼",
+      "onboard_time": 1755417144,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 206521,
@@ -707,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196849,
-      "num": 196849,
-      "word": "欧阳娜娜我认真搞音乐的女儿回来了",
-      "onboard_time": 1755418342,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 196391,
       "num": 191512,
       "word": "苏新皓体重",
@@ -739,20 +755,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193766,
+      "num": 193766,
+      "word": "梓渝音乐节",
+      "onboard_time": 1755419721,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192987,
       "num": 192987,
       "word": "谷爱凌发文称因人为事故受伤",
       "onboard_time": 1755387078,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191906,
-      "num": 191906,
-      "word": "不听劝买了别人都不要的一楼",
-      "onboard_time": 1755417144,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 190241,
@@ -803,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180155,
+      "num": 180155,
+      "word": "张雅琪也没躲过张晚意的嘴",
+      "onboard_time": 1755419182,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176344,
       "num": 176344,
       "word": "锦月如歌",
@@ -825,6 +849,14 @@
       "onboard_time": 1755415103,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175059,
+      "num": 175059,
+      "word": "中国队金牌榜奖牌榜第1",
+      "onboard_time": 1755419902,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 174486,
@@ -945,6 +977,14 @@
       "onboard_time": 1755402801,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162096,
+      "num": 315995,
+      "word": "内蒙古乌拉特后旗山洪已致9人遇难",
+      "onboard_time": 1755418762,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 160903,
@@ -1323,12 +1363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134280,
+      "num": 134280,
+      "word": "2024年美国侵犯人权报告",
+      "onboard_time": 1755419421,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133594,
       "num": 198196,
       "word": "生万物全员喊人加入俺门",
       "onboard_time": 1755361161,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133530,
+      "num": 133530,
+      "word": "明天出伏了",
+      "onboard_time": 1755416483,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133492,
@@ -1547,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117562,
-      "num": 117562,
-      "word": "2024年美国侵犯人权报告",
-      "onboard_time": 1755419421,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 117471,
       "num": 117471,
       "word": "宁绣绣直接把苏苏接走",
@@ -1627,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113914,
+      "num": 113914,
+      "word": "王橹杰卖萌",
+      "onboard_time": 1755419783,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113282,
       "num": 197509,
       "word": "台湾老百姓都清清楚楚看在眼里",
@@ -1675,6 +1731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108545,
+      "num": 108545,
+      "word": "婴猴意外离世金丝猴妈妈轻抚告别",
+      "onboard_time": 1755416423,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107670,
       "num": 107670,
       "word": "疑似机器人报复人类",
@@ -1689,14 +1753,6 @@
       "onboard_time": 1755413242,
       "rank": 47,
       "category": "数码,游戏"
-    },
-    {
-      "raw_hot": 107138,
-      "num": 122540,
-      "word": "明天出伏了",
-      "onboard_time": 1755416483,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106826,
@@ -1715,14 +1771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106108,
-      "num": 315995,
-      "word": "内蒙古乌拉特后旗山洪已致9人遇难",
-      "onboard_time": 1755418762,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 106058,
       "num": 106057,
       "word": "你们洗的照片真的被全世界看见了",
@@ -1739,12 +1787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103561,
-      "num": 106058,
-      "word": "婴猴意外离世金丝猴妈妈轻抚告别",
-      "onboard_time": 1755416423,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 103625,
+      "num": 103625,
+      "word": "成都世运会中国36金17银11铜",
+      "onboard_time": 1755419661,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 103220,
@@ -1771,12 +1819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101299,
-      "num": 119872,
-      "word": "张雅琪也没躲过张晚意的嘴",
-      "onboard_time": 1755419182,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 101766,
+      "num": 101766,
+      "word": "巴基斯坦暴雨2天内344人死亡",
+      "onboard_time": 1755420143,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100566,
@@ -1880,6 +1928,30 @@
       "word": "陈赫艾欧尼亚第一辅助",
       "onboard_time": 1755414443,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96724,
+      "num": 96724,
+      "word": "人在腹中睡祸从天上来",
+      "onboard_time": 1755420323,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95073,
+      "num": 95073,
+      "word": "苏新皓嘴上不语眼里都是渴望",
+      "onboard_time": 1755420022,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94975,
+      "num": 94975,
+      "word": "那英去年守国门今年闯国门",
+      "onboard_time": 1755420323,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1993,6 +2065,14 @@
       "onboard_time": 1755356784,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86122,
+      "num": 119903,
+      "word": "张元英说上海最好吃的是北京烤鸭",
+      "onboard_time": 1755419121,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 86118,
@@ -2315,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41202,
+      "num": 101002,
+      "word": "徐艺真自己当老板了",
+      "onboard_time": 1755420323,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40179,
       "num": 45726,
       "word": "狼队vs曼城",
@@ -2353,6 +2441,14 @@
       "onboard_time": 1755357982,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35049,
+      "num": 119861,
+      "word": "200平大堂被业主砌砖墙现已拆除",
+      "onboard_time": 1755419483,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34123,
@@ -2419,14 +2515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32668,
-      "num": 119903,
-      "word": "张元英说上海最好吃的是北京烤鸭",
-      "onboard_time": 1755419121,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32626,
       "num": 37140,
       "word": "普通家庭对女儿最好的托举",
@@ -2435,20 +2523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 32069,
-      "num": 203211,
+      "raw_hot": 32446,
+      "num": 228424,
       "word": "合作伙伴夸鸿蒙听劝",
       "onboard_time": 1755417683,
       "rank": 16,
       "category": "互联网,数码"
-    },
-    {
-      "raw_hot": 31658,
-      "num": 119861,
-      "word": "200平大堂被业主砌砖墙现已拆除",
-      "onboard_time": 1755419483,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30941,
