@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755415497564,
+  "endTime": 1755416340646,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 2033517,
-      "num": 449957,
+      "num": 473487,
       "word": "王晶曝张柏芝谢霆锋离婚原因",
       "onboard_time": 1755412282,
       "rank": 10,
@@ -4428,7 +4428,7 @@
     },
     {
       "raw_hot": 785515,
-      "num": 363716,
+      "num": 409914,
       "word": "孙一宁在韩国买衣服被店员翻白眼",
       "onboard_time": 1755413903,
       "rank": 6,
@@ -5987,6 +5987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645492,
+      "num": 382656,
+      "word": "张元英上海",
+      "onboard_time": 1755412642,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644772,
       "num": 341805,
       "word": "汪苏泷腹肌",
@@ -6289,14 +6297,6 @@
       "onboard_time": 1754549243,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 622470,
-      "num": 354828,
-      "word": "张元英上海",
-      "onboard_time": 1755412642,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 621845,
@@ -9003,6 +9003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463876,
+      "num": 463876,
+      "word": "机场拦截的充电宝成抢手货",
+      "onboard_time": 1755411922,
+      "rank": 9,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 463708,
       "num": 725541,
       "word": "美宣布对台湾地区征收20%关税",
@@ -9211,6 +9219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453743,
+      "num": 282722,
+      "word": "管乐和前任拍分手拍立得",
+      "onboard_time": 1755413122,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453401,
       "num": 453401,
       "word": "网红秀才疑似借壳复出",
@@ -9233,14 +9249,6 @@
       "onboard_time": 1754892562,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 451734,
-      "num": 282722,
-      "word": "管乐和前任拍分手拍立得",
-      "onboard_time": 1755413122,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 451418,
@@ -10417,14 +10425,6 @@
       "onboard_time": 1754228784,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 400036,
-      "num": 400036,
-      "word": "机场拦截的充电宝成抢手货",
-      "onboard_time": 1755411922,
-      "rank": 9,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 399762,
@@ -14707,6 +14707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 267540,
+      "num": 258350,
+      "word": "李连杰生病住院",
+      "onboard_time": 1755411981,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267539,
       "num": 267539,
       "word": "李云霄 龙骨焚箱",
@@ -15249,14 +15257,6 @@
       "onboard_time": 1755147745,
       "rank": 35,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 258350,
-      "num": 258350,
-      "word": "李连杰生病住院",
-      "onboard_time": 1755411981,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 258245,
@@ -23035,6 +23035,14 @@
       "category": "剧集,运动健身"
     },
     {
+      "raw_hot": 183674,
+      "num": 183674,
+      "word": "猫狗双家庭需要注意什么",
+      "onboard_time": 1755415761,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183667,
       "num": 183667,
       "word": "万千惠用母乳救助了14个早产儿",
@@ -24507,6 +24515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175120,
+      "num": 154803,
+      "word": "被易烊千玺百万直拍钓成翘嘴了",
+      "onboard_time": 1755415103,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175096,
       "num": 175096,
       "word": "离职第一件事给自己交社保",
@@ -24633,6 +24649,14 @@
       "onboard_time": 1754106561,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 174173,
+      "num": 152654,
+      "word": "杨幂今年三个角色的共通点",
+      "onboard_time": 1755415342,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 174129,
@@ -24777,6 +24801,14 @@
       "onboard_time": 1754884942,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173333,
+      "num": 159547,
+      "word": "孙怡参观马天宇的农场",
+      "onboard_time": 1755412162,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 173316,
@@ -25465,14 +25497,6 @@
       "onboard_time": 1754808260,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 170270,
-      "num": 159547,
-      "word": "孙怡参观马天宇的农场",
-      "onboard_time": 1755412162,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 170252,
@@ -27561,6 +27585,14 @@
       "onboard_time": 1754750485,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160249,
+      "num": 323682,
+      "word": "儿童安全坐垫碰撞瞬间人被甩飞",
+      "onboard_time": 1755412221,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160225,
@@ -30739,6 +30771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147861,
+      "num": 147861,
+      "word": "金九",
+      "onboard_time": 1755415162,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 147829,
       "num": 147829,
       "word": "王一博出发上海了",
@@ -32259,6 +32299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142167,
+      "num": 142167,
+      "word": "陈奕恒鼻梁贴",
+      "onboard_time": 1755415702,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142163,
       "num": 142163,
       "word": "万妮达疑似被短剧做局",
@@ -33211,6 +33259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139245,
+      "num": 139245,
+      "word": "iPhone可以很富士",
+      "onboard_time": 1755416002,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139230,
       "num": 139230,
       "word": "周也左位战神",
@@ -33601,6 +33657,14 @@
       "onboard_time": 1754982742,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 138149,
+      "num": 138149,
+      "word": "那英基础陈数不基础",
+      "onboard_time": 1755415642,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 138133,
@@ -37059,14 +37123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127943,
-      "num": 127943,
-      "word": "金九",
-      "onboard_time": 1755415162,
-      "rank": 31,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 127932,
       "num": 127932,
       "word": "苏超泰州vs苏州",
@@ -38161,6 +38217,14 @@
       "onboard_time": 1754478804,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124700,
+      "num": 124700,
+      "word": "TOP上完披哥叫饭团了",
+      "onboard_time": 1755416181,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 124651,
@@ -39931,14 +39995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119621,
-      "num": 119621,
-      "word": "被易烊千玺百万直拍钓成翘嘴了",
-      "onboard_time": 1755415103,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 119574,
       "num": 119574,
       "word": "威廉因逃兵役再道歉",
@@ -39969,6 +40025,14 @@
       "onboard_time": 1754301023,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119480,
+      "num": 119480,
+      "word": "柯淳说找老婆会找圈外的",
+      "onboard_time": 1755414382,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 119471,
@@ -40028,7 +40092,7 @@
     },
     {
       "raw_hot": 119327,
-      "num": 119327,
+      "num": 142224,
       "word": "周也见到孟子义一套撒娇卖萌",
       "onboard_time": 1755411381,
       "rank": 37,
@@ -41251,12 +41315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115535,
-      "num": 323682,
-      "word": "儿童安全坐垫碰撞瞬间人被甩飞",
-      "onboard_time": 1755412221,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 115523,
+      "num": 115523,
+      "word": "樊振东人缘超好",
+      "onboard_time": 1755416062,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 115409,
@@ -41809,14 +41873,6 @@
       "onboard_time": 1755170662,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113850,
-      "num": 113850,
-      "word": "柯淳说找老婆会找圈外的",
-      "onboard_time": 1755414382,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 113793,
@@ -44627,6 +44683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104755,
+      "num": 159821,
+      "word": "3种邪修秒睡法",
+      "onboard_time": 1755415881,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104749,
       "num": 104749,
       "word": "全红婵分享训练合照",
@@ -44891,14 +44955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103785,
-      "num": 103785,
-      "word": "杨幂今年三个角色的共通点",
-      "onboard_time": 1755415342,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103781,
       "num": 103781,
       "word": "为什么大人可以玩手机小孩却不行",
@@ -45043,6 +45099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103172,
+      "num": 103172,
+      "word": "在假装上班公司6成人真在工作",
+      "onboard_time": 1755414621,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103109,
       "num": 131244,
       "word": "铃兰爸",
@@ -45055,14 +45119,6 @@
       "num": 102997,
       "word": "女子疑在八一南昌起义纪念塔跳辣舞",
       "onboard_time": 1754726901,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102979,
-      "num": 102979,
-      "word": "在假装上班公司6成人真在工作",
-      "onboard_time": 1755414621,
       "rank": 42,
       "category": "民生新闻"
     },
@@ -45883,6 +45939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99627,
+      "num": 99627,
+      "word": "王影璐献鱼随地大小睡",
+      "onboard_time": 1755415642,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99608,
       "num": 99608,
       "word": "王楚钦连续两板反拍神防守",
@@ -45968,6 +46032,14 @@
       "word": "胖东来货车司机休息室有独立淋浴间",
       "onboard_time": 1754982922,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99280,
+      "num": 99280,
+      "word": "女子左手打伞右手扶车撞上奥迪",
+      "onboard_time": 1755415761,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -49619,6 +49691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78546,
+      "num": 119719,
+      "word": "TheShy与Rookie的羁绊",
+      "onboard_time": 1755415162,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78470,
       "num": 155041,
       "word": "女登山者登顶乔戈里峰下撤途中遇难",
@@ -51425,14 +51505,6 @@
       "onboard_time": 1754066600,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 60804,
-      "num": 104400,
-      "word": "TheShy与Rookie的羁绊",
-      "onboard_time": 1755415162,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 60743,
@@ -54665,6 +54737,14 @@
       "onboard_time": 1755409342,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33830,
+      "num": 96058,
+      "word": "范曾说过从不在意外界评论",
+      "onboard_time": 1755416062,
+      "rank": 49,
+      "category": "民生新闻,读书作家"
     },
     {
       "raw_hot": 33807,

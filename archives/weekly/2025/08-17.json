@@ -1,10 +1,10 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755415497564,
+  "endTime": 1755416340646,
   "band_list": [
     {
       "raw_hot": 2033517,
-      "num": 449957,
+      "num": 473487,
       "word": "王晶曝张柏芝谢霆锋离婚原因",
       "onboard_time": 1755412282,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 785515,
-      "num": 363716,
+      "num": 409914,
       "word": "孙一宁在韩国买衣服被店员翻白眼",
       "onboard_time": 1755413903,
       "rank": 6,
@@ -147,20 +147,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 645492,
+      "num": 382656,
+      "word": "张元英上海",
+      "onboard_time": 1755412642,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628646,
       "num": 328409,
       "word": "沈月 我也很久没被人亲了",
       "onboard_time": 1755405621,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 622470,
-      "num": 354828,
-      "word": "张元英上海",
-      "onboard_time": 1755412642,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 606343,
@@ -251,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 463876,
+      "num": 463876,
+      "word": "机场拦截的充电宝成抢手货",
+      "onboard_time": 1755411922,
+      "rank": 9,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 455171,
       "num": 455171,
       "word": "肖战脸一出来就疯狂尖叫",
@@ -259,7 +267,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 451734,
+      "raw_hot": 453743,
       "num": 282722,
       "word": "管乐和前任拍分手拍立得",
       "onboard_time": 1755413122,
@@ -297,14 +305,6 @@
       "onboard_time": 1755395659,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 400036,
-      "num": 400036,
-      "word": "机场拦截的充电宝成抢手货",
-      "onboard_time": 1755411922,
-      "rank": 9,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 398442,
@@ -531,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267540,
+      "num": 258350,
+      "word": "李连杰生病住院",
+      "onboard_time": 1755411981,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260487,
       "num": 260487,
       "word": "TOP登陆少年体重",
@@ -553,14 +561,6 @@
       "onboard_time": 1755357383,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 258350,
-      "num": 258350,
-      "word": "李连杰生病住院",
-      "onboard_time": 1755411981,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 239827,
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183674,
+      "num": 183674,
+      "word": "猫狗双家庭需要注意什么",
+      "onboard_time": 1755415761,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181688,
       "num": 181688,
       "word": "一年一部年代剧",
@@ -763,6 +771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175120,
+      "num": 154803,
+      "word": "被易烊千玺百万直拍钓成翘嘴了",
+      "onboard_time": 1755415103,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 174173,
+      "num": 152654,
+      "word": "杨幂今年三个角色的共通点",
+      "onboard_time": 1755415342,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173961,
       "num": 173961,
       "word": "于适带领中国青少年骑射队夺冠",
@@ -777,6 +801,14 @@
       "onboard_time": 1755411562,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173333,
+      "num": 159547,
+      "word": "孙怡参观马天宇的农场",
+      "onboard_time": 1755412162,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 171458,
@@ -817,14 +849,6 @@
       "onboard_time": 1755395841,
       "rank": 23,
       "category": "演出,音乐"
-    },
-    {
-      "raw_hot": 170270,
-      "num": 159547,
-      "word": "孙怡参观马天宇的农场",
-      "onboard_time": 1755412162,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 169302,
@@ -873,6 +897,14 @@
       "onboard_time": 1755397641,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 160249,
+      "num": 323682,
+      "word": "儿童安全坐垫碰撞瞬间人被甩飞",
+      "onboard_time": 1755412221,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159840,
@@ -987,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147861,
+      "num": 147861,
+      "word": "金九",
+      "onboard_time": 1755415162,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 147327,
       "num": 135924,
       "word": "张凌赫王楚然鼻炎受害者联盟",
@@ -1043,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142167,
+      "num": 142167,
+      "word": "陈奕恒鼻梁贴",
+      "onboard_time": 1755415702,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140926,
       "num": 140926,
       "word": "突然好轻松一点也不焦虑了",
@@ -1067,6 +1115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 139245,
+      "num": 139245,
+      "word": "iPhone可以很富士",
+      "onboard_time": 1755416002,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139069,
       "num": 198440,
       "word": "生万物",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1755401660,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138149,
+      "num": 138149,
+      "word": "那英基础陈数不基础",
+      "onboard_time": 1755415642,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 137907,
@@ -1259,14 +1323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127943,
-      "num": 127943,
-      "word": "金九",
-      "onboard_time": 1755415162,
-      "rank": 31,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 127903,
       "num": 127903,
       "word": "心脏原来是长条形的",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1755396141,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124700,
+      "num": 124700,
+      "word": "TOP上完披哥叫饭团了",
+      "onboard_time": 1755416181,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 124586,
@@ -1331,16 +1395,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119621,
-      "num": 119621,
-      "word": "被易烊千玺百万直拍钓成翘嘴了",
-      "onboard_time": 1755415103,
-      "rank": 32,
-      "category": "演出"
+      "raw_hot": 119480,
+      "num": 119480,
+      "word": "柯淳说找老婆会找圈外的",
+      "onboard_time": 1755414382,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 119327,
-      "num": 119327,
+      "num": 142224,
       "word": "周也见到孟子义一套撒娇卖萌",
       "onboard_time": 1755411381,
       "rank": 37,
@@ -1435,12 +1499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115535,
-      "num": 323682,
-      "word": "儿童安全坐垫碰撞瞬间人被甩飞",
-      "onboard_time": 1755412221,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 115523,
+      "num": 115523,
+      "word": "樊振东人缘超好",
+      "onboard_time": 1755416062,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 115096,
@@ -1449,14 +1513,6 @@
       "onboard_time": 1755395900,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113850,
-      "num": 113850,
-      "word": "柯淳说找老婆会找圈外的",
-      "onboard_time": 1755414382,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 113282,
@@ -1531,12 +1587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103785,
-      "num": 103785,
-      "word": "杨幂今年三个角色的共通点",
-      "onboard_time": 1755415342,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 104755,
+      "num": 159821,
+      "word": "3种邪修秒睡法",
+      "onboard_time": 1755415881,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 103220,
@@ -1547,8 +1603,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102979,
-      "num": 102979,
+      "raw_hot": 103172,
+      "num": 103172,
       "word": "在假装上班公司6成人真在工作",
       "onboard_time": 1755414621,
       "rank": 42,
@@ -1585,6 +1641,22 @@
       "onboard_time": 1755407843,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99627,
+      "num": 99627,
+      "word": "王影璐献鱼随地大小睡",
+      "onboard_time": 1755415642,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99280,
+      "num": 99280,
+      "word": "女子左手打伞右手扶车撞上奥迪",
+      "onboard_time": 1755415761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99010,
@@ -1859,6 +1931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78546,
+      "num": 119719,
+      "word": "TheShy与Rookie的羁绊",
+      "onboard_time": 1755415162,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77464,
       "num": 195969,
       "word": "郭士强功不可没",
@@ -1937,14 +2017,6 @@
       "onboard_time": 1755409342,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60804,
-      "num": 104400,
-      "word": "TheShy与Rookie的羁绊",
-      "onboard_time": 1755415162,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 60578,
@@ -2137,6 +2209,14 @@
       "onboard_time": 1755409342,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33830,
+      "num": 96058,
+      "word": "范曾说过从不在意外界评论",
+      "onboard_time": 1755416062,
+      "rank": 49,
+      "category": "民生新闻,读书作家"
     },
     {
       "raw_hot": 33416,
