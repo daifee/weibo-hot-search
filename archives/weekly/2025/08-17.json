@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755412660744,
+  "endTime": 1755413484248,
   "band_list": [
     {
       "raw_hot": 1835081,
@@ -17,6 +17,14 @@
       "onboard_time": 1755388339,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1492354,
+      "num": 332205,
+      "word": "王晶曝张柏芝谢霆锋离婚原因",
+      "onboard_time": 1755412282,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1155488,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514879,
+      "num": 332030,
+      "word": "穿外裤不能上床真的有必要吗",
+      "onboard_time": 1755411142,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 511430,
       "num": 511430,
       "word": "李沁的睡姿",
@@ -249,14 +265,6 @@
       "onboard_time": 1755397881,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 437572,
-      "num": 332205,
-      "word": "王晶曝张柏芝谢霆锋离婚原因",
-      "onboard_time": 1755412282,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 411643,
@@ -339,6 +347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 335526,
+      "num": 340615,
+      "word": "黄誉博向郑伟道歉",
+      "onboard_time": 1755411262,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334567,
       "num": 334567,
       "word": "梓渝彩排现场图",
@@ -353,14 +369,6 @@
       "onboard_time": 1755403521,
       "rank": 30,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 332030,
-      "num": 332030,
-      "word": "穿外裤不能上床真的有必要吗",
-      "onboard_time": 1755411142,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 320142,
@@ -387,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307414,
-      "num": 340615,
-      "word": "黄誉博向郑伟道歉",
-      "onboard_time": 1755411262,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302667,
       "num": 302667,
       "word": "肖宇梁时隔4年半进组了",
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 294019,
-      "num": 294019,
+      "num": 295310,
       "word": "12306回应苏州火车站女厕标识易误解",
       "onboard_time": 1755410481,
       "rank": 13,
@@ -515,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 254121,
+      "num": 254121,
+      "word": "张元英上海",
+      "onboard_time": 1755412642,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239827,
       "num": 239827,
       "word": "生万物 万物生",
@@ -529,6 +537,14 @@
       "onboard_time": 1755334102,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 224959,
+      "num": 224959,
+      "word": "李连杰生病住院",
+      "onboard_time": 1755411981,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 223847,
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 196391,
-      "num": 139475,
+      "num": 191512,
       "word": "苏新皓体重",
       "onboard_time": 1755412402,
       "rank": 21,
@@ -667,14 +683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189743,
-      "num": 138936,
-      "word": "李连杰生病住院",
-      "onboard_time": 1755411981,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189181,
       "num": 262030,
       "word": "中国世遗8分钟视频纯享版",
@@ -697,6 +705,14 @@
       "onboard_time": 1755404902,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185384,
+      "num": 332342,
+      "word": "机场拦截的充电宝成抢手货",
+      "onboard_time": 1755411922,
+      "rank": 9,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 181688,
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 171162,
-      "num": 138069,
+      "num": 158766,
       "word": "献鱼编剧",
       "onboard_time": 1755411621,
       "rank": 25,
@@ -859,12 +875,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154314,
+      "num": 154314,
+      "word": "信阳衡水高中被立案调查",
+      "onboard_time": 1755412702,
+      "rank": 27,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 154306,
       "num": 166731,
       "word": "当kpop遇上tpop",
       "onboard_time": 1755405383,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153106,
+      "num": 223722,
+      "word": "与辉同行回应董宇辉年收入传闻",
+      "onboard_time": 1755413061,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 151649,
@@ -891,12 +923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149949,
+      "num": 149949,
+      "word": "机场充电宝一吨9000元",
+      "onboard_time": 1755409761,
+      "rank": 33,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 149863,
       "num": 198400,
       "word": "张晚意 猜猜第五张图里有什么",
       "onboard_time": 1755358644,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149435,
+      "num": 153269,
+      "word": "每一辆风云X3都是全lv高定",
+      "onboard_time": 1755412462,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 148766,
@@ -955,20 +1003,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145294,
-      "num": 136804,
-      "word": "每一辆风云X3都是全lv高定",
-      "onboard_time": 1755412462,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 144612,
       "num": 197679,
       "word": "郑钦文获颁感动中国年度人物",
       "onboard_time": 1755355944,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144065,
+      "num": 144065,
+      "word": "孙怡参观马天宇的农场",
+      "onboard_time": 1755412162,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 140926,
@@ -1075,14 +1123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135379,
-      "num": 135379,
-      "word": "机场充电宝一吨9000元",
-      "onboard_time": 1755409761,
-      "rank": 33,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 135337,
       "num": 199067,
       "word": "美国连体双胞胎姐妹其中一人疑生子",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1755347784,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134692,
+      "num": 134692,
+      "word": "龚俊晒地球团合照",
+      "onboard_time": 1755413002,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 134673,
@@ -1124,7 +1172,7 @@
     },
     {
       "raw_hot": 133346,
-      "num": 133346,
+      "num": 224817,
       "word": "不查学生证等学生出行优惠来了",
       "onboard_time": 1755410481,
       "rank": 34,
@@ -1145,6 +1193,14 @@
       "onboard_time": 1755358101,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131468,
+      "num": 114806,
+      "word": "龚俊花少地球两模两样",
+      "onboard_time": 1755413301,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 130086,
@@ -1195,12 +1251,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124049,
-      "num": 332342,
-      "word": "机场拦截的充电宝成抢手货",
-      "onboard_time": 1755411922,
-      "rank": 9,
-      "category": "民生新闻,数码"
+      "raw_hot": 123487,
+      "num": 123487,
+      "word": "抵债猫",
+      "onboard_time": 1755408922,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 123455,
@@ -1371,12 +1427,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 108514,
-      "num": 108514,
-      "word": "张元英上海",
-      "onboard_time": 1755412642,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 108457,
+      "num": 114981,
+      "word": "管乐和前任拍分手拍立得",
+      "onboard_time": 1755413122,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107670,
+      "num": 107670,
+      "word": "疑似机器人报复人类",
+      "onboard_time": 1755411621,
+      "rank": 45,
+      "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 107536,
+      "num": 107536,
+      "word": "iPhone下载的第一个游戏",
+      "onboard_time": 1755413242,
+      "rank": 47,
+      "category": "数码,游戏"
     },
     {
       "raw_hot": 106826,
@@ -1385,22 +1457,6 @@
       "onboard_time": 1755386957,
       "rank": 14,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 106762,
-      "num": 106762,
-      "word": "抵债猫",
-      "onboard_time": 1755408922,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 104081,
-      "num": 104081,
-      "word": "疑似机器人报复人类",
-      "onboard_time": 1755411621,
-      "rank": 45,
-      "category": "幽默,互联网"
     },
     {
       "raw_hot": 102102,
@@ -1435,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99010,
+      "num": 99010,
+      "word": "男子请育儿假陪幼女看病3天后遭开除",
+      "onboard_time": 1755411862,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98074,
       "num": 196842,
       "word": "微信加密方法",
@@ -1452,27 +1516,11 @@
     },
     {
       "raw_hot": 97058,
-      "num": 108535,
+      "num": 113434,
       "word": "养猫后看见啥都想给它做玩具",
       "onboard_time": 1755412162,
       "rank": 42,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 96298,
-      "num": 96298,
-      "word": "男子请育儿假陪幼女看病3天后遭开除",
-      "onboard_time": 1755411862,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96275,
-      "num": 112268,
-      "word": "孙怡参观马天宇的农场",
-      "onboard_time": 1755412162,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 93828,
@@ -1748,7 +1796,7 @@
     },
     {
       "raw_hot": 61093,
-      "num": 139974,
+      "num": 224188,
       "word": "花少脆皮团爆改铁皮团",
       "onboard_time": 1755409342,
       "rank": 30,
@@ -1801,6 +1849,14 @@
       "onboard_time": 1755386957,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46082,
+      "num": 223827,
+      "word": "范曾失联疑云别成家庭罗生门",
+      "onboard_time": 1755412642,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45898,
@@ -1932,11 +1988,19 @@
     },
     {
       "raw_hot": 33937,
-      "num": 136216,
+      "num": 152567,
       "word": "马群耀欧阳娜娜合作舞台",
       "onboard_time": 1755409342,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33416,
+      "num": 152807,
+      "word": "律师解读范曾20亿藏品所有权归属",
+      "onboard_time": 1755412582,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33371,
@@ -2003,14 +2067,6 @@
       "category": "互联网,体育"
     },
     {
-      "raw_hot": 25451,
-      "num": 115065,
-      "word": "范曾失联疑云别成家庭罗生门",
-      "onboard_time": 1755412642,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23867,
       "num": 34673,
       "word": "蒲熠星新歌",
@@ -2065,14 +2121,6 @@
       "onboard_time": 1755335900,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21168,
-      "num": 136653,
-      "word": "律师解读范曾20亿藏品所有权归属",
-      "onboard_time": 1755412582,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20315,

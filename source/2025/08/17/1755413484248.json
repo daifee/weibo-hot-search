@@ -1,0 +1,410 @@
+{
+  "runTime": 1755413484248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072171,
+        "num": 1171547,
+        "word": "微信转账记得加一个动作",
+        "onboard_time": 1755406700,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 476418,
+        "num": 476418,
+        "word": "小杨哥老婆复出了",
+        "onboard_time": 1755409281,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21695,
+        "num": 401816,
+        "word": "成都世运会今日闭幕",
+        "onboard_time": 1755388758,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1531794,
+        "num": 399502,
+        "word": "戚薇说打肉毒打僵了",
+        "onboard_time": 1755406880,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351578,
+        "num": 351578,
+        "word": "难怪现在奶茶三分糖都很甜",
+        "onboard_time": 1755387258,
+        "rank": 4,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 328523,
+        "num": 328523,
+        "word": "外卖小哥发现带血枕头报警救人",
+        "onboard_time": 1755388339,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1492354,
+        "num": 325840,
+        "word": "王晶曝张柏芝谢霆锋离婚原因",
+        "onboard_time": 1755412282,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335526,
+        "num": 315124,
+        "word": "黄誉博向郑伟道歉",
+        "onboard_time": 1755411262,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303577,
+        "num": 303577,
+        "word": "普京开条件",
+        "onboard_time": 1755406042,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238891,
+        "num": 295310,
+        "word": "12306回应苏州火车站女厕标识易误解",
+        "onboard_time": 1755410481,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514879,
+        "num": 292933,
+        "word": "穿外裤不能上床真的有必要吗",
+        "onboard_time": 1755411142,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289485,
+        "num": 289485,
+        "word": "沈月 我也很久没被人亲了",
+        "onboard_time": 1755405621,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254121,
+        "num": 254121,
+        "word": "张元英上海",
+        "onboard_time": 1755412642,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237612,
+        "num": 237612,
+        "word": "TOP登陆少年体重",
+        "onboard_time": 1755408863,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224959,
+        "num": 224959,
+        "word": "李连杰生病住院",
+        "onboard_time": 1755411981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126721,
+        "num": 224817,
+        "word": "不查学生证等学生出行优惠来了",
+        "onboard_time": 1755410481,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185384,
+        "num": 224543,
+        "word": "机场拦截的充电宝成抢手货",
+        "onboard_time": 1755411922,
+        "rank": 16,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 169249,
+        "num": 224459,
+        "word": "续面女顾客称和面馆老板不再和解",
+        "onboard_time": 1755401061,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48921,
+        "num": 224188,
+        "word": "花少脆皮团爆改铁皮团",
+        "onboard_time": 1755409342,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46082,
+        "num": 223827,
+        "word": "范曾失联疑云别成家庭罗生门",
+        "onboard_time": 1755412642,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153106,
+        "num": 223722,
+        "word": "与辉同行回应董宇辉年收入传闻",
+        "onboard_time": 1755413061,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223528,
+        "num": 223528,
+        "word": "我家那闺女",
+        "onboard_time": 1755409701,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283633,
+        "num": 211823,
+        "word": "从140斤瘦到103斤的真实变化",
+        "onboard_time": 1755406700,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 191512,
+        "num": 191512,
+        "word": "苏新皓体重",
+        "onboard_time": 1755412402,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169386,
+        "num": 169386,
+        "word": "张若昀唐艺昕云南采菌子",
+        "onboard_time": 1755404061,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161829,
+        "num": 161829,
+        "word": "蜜雪冰橙 蜜雪冰城",
+        "onboard_time": 1755409642,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158766,
+        "num": 158766,
+        "word": "献鱼编剧",
+        "onboard_time": 1755411621,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154314,
+        "num": 154314,
+        "word": "信阳衡水高中被立案调查",
+        "onboard_time": 1755412702,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 149435,
+        "num": 153269,
+        "word": "每一辆风云X3都是全lv高定",
+        "onboard_time": 1755412462,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33416,
+        "num": 152807,
+        "word": "律师解读范曾20亿藏品所有权归属",
+        "onboard_time": 1755412582,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21373,
+        "num": 152567,
+        "word": "马群耀欧阳娜娜合作舞台",
+        "onboard_time": 1755409342,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152466,
+        "num": 152466,
+        "word": "花少开播把半个内娱的综艺喊过来了",
+        "onboard_time": 1755405081,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149949,
+        "num": 149949,
+        "word": "机场充电宝一吨9000元",
+        "onboard_time": 1755409761,
+        "rank": 32,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 144065,
+        "num": 144065,
+        "word": "孙怡参观马天宇的农场",
+        "onboard_time": 1755412162,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134692,
+        "num": 134692,
+        "word": "龚俊晒地球团合照",
+        "onboard_time": 1755413002,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123487,
+        "num": 123487,
+        "word": "抵债猫",
+        "onboard_time": 1755408922,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119531,
+        "num": 119531,
+        "word": "生万物 万物生",
+        "onboard_time": 1755406162,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118865,
+        "num": 118865,
+        "word": "绣绣的头发再也梳不回去了",
+        "onboard_time": 1755402982,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118511,
+        "num": 118511,
+        "word": "张凌赫王楚然鼻炎受害者联盟",
+        "onboard_time": 1755409822,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108457,
+        "num": 114981,
+        "word": "管乐和前任拍分手拍立得",
+        "onboard_time": 1755413122,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131468,
+        "num": 114806,
+        "word": "龚俊花少地球两模两样",
+        "onboard_time": 1755413301,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113642,
+        "num": 113642,
+        "word": "10岁孩子溺亡家长起诉其4名同伴",
+        "onboard_time": 1755403461,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74946,
+        "num": 113434,
+        "word": "养猫后看见啥都想给它做玩具",
+        "onboard_time": 1755412162,
+        "rank": 42,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 113387,
+        "num": 113387,
+        "word": "建议微信学一下QQ这些功能",
+        "onboard_time": 1755408020,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110888,
+        "num": 110888,
+        "word": "周也见到孟子义一套撒娇卖萌",
+        "onboard_time": 1755411381,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110836,
+        "num": 110836,
+        "word": "男子在机场用马桶冲走223枚鸟蛋",
+        "onboard_time": 1755400640,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107670,
+        "num": 107670,
+        "word": "疑似机器人报复人类",
+        "onboard_time": 1755411621,
+        "rank": 46,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 107536,
+        "num": 107536,
+        "word": "iPhone下载的第一个游戏",
+        "onboard_time": 1755413242,
+        "rank": 47,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 104669,
+        "num": 104669,
+        "word": "哈佛蔬菜汤 中产麻辣烫",
+        "onboard_time": 1755410782,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99010,
+        "num": 99010,
+        "word": "男子请育儿假陪幼女看病3天后遭开除",
+        "onboard_time": 1755411862,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}
