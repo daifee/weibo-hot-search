@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755455764371,
+  "endTime": 1755456593545,
   "band_list": [
     {
       "raw_hot": 2242447,
@@ -211,20 +211,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160183,
+      "num": 160183,
+      "word": "一分惜败",
+      "onboard_time": 1755455115,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155236,
       "num": 144189,
       "word": "从表兄妹结婚后胎儿患罕见遗传病",
       "onboard_time": 1755437364,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151637,
-      "num": 151637,
-      "word": "一分惜败",
-      "onboard_time": 1755455115,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 149724,
@@ -355,6 +355,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97274,
+      "num": 97274,
+      "word": "中国男篮拼到最后一秒",
+      "onboard_time": 1755455235,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96797,
+      "num": 70568,
+      "word": "中国男篮 意难平",
+      "onboard_time": 1755455356,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91707,
       "num": 91707,
       "word": "胡明轩半场15分",
@@ -385,6 +401,14 @@
       "onboard_time": 1755433343,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87566,
+      "num": 61471,
+      "word": "王俊杰太强了",
+      "onboard_time": 1755454937,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 80987,
@@ -440,14 +464,6 @@
       "word": "吴艳妮客串拉拉队队长",
       "onboard_time": 1755447562,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 75850,
-      "num": 61471,
-      "word": "王俊杰太强了",
-      "onboard_time": 1755454937,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -515,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55141,
-      "num": 55141,
-      "word": "中国男篮拼到最后一秒",
-      "onboard_time": 1755455235,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47704,
       "num": 129077,
       "word": "特朗普说在俄罗斯问题上取得重大进展",
@@ -537,14 +545,6 @@
       "onboard_time": 1755450439,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44921,
-      "num": 44921,
-      "word": "中国男篮 意难平",
-      "onboard_time": 1755455356,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 41815,
@@ -569,6 +569,14 @@
       "onboard_time": 1755451998,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25997,
+      "num": 29043,
+      "word": "孟子义唱歌人在前面唱调在后面追",
+      "onboard_time": 1755456376,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 4164,
