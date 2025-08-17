@@ -1,0 +1,410 @@
+{
+  "runTime": 1755445234897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1299466,
+        "num": 1299466,
+        "word": "虞书欣方持续取证中",
+        "onboard_time": 1755437963,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851414,
+        "num": 851414,
+        "word": "曝王楚钦因档期取消金九拍摄",
+        "onboard_time": 1755437484,
+        "rank": 1,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 4438,
+        "num": 628121,
+        "word": "中国队世运会夺金时刻好燃",
+        "onboard_time": 1755392360,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622077,
+        "num": 622077,
+        "word": "十个勤天直播",
+        "onboard_time": 1755440724,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596139,
+        "num": 596139,
+        "word": "不敢想九三阅兵会有多震撼",
+        "onboard_time": 1755440905,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412730,
+        "num": 412730,
+        "word": "1750瓶茅台一原所有人已被执行死刑",
+        "onboard_time": 1755441805,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607300,
+        "num": 362374,
+        "word": "戚薇大方承认医美过度",
+        "onboard_time": 1755434663,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596117,
+        "num": 359801,
+        "word": "孙怡 结婚得到的要比我赚钱幸福得多",
+        "onboard_time": 1755429743,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301050,
+        "num": 301050,
+        "word": "坐高铁遇400斤邻座12306不该甩锅",
+        "onboard_time": 1755441265,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281498,
+        "num": 281498,
+        "word": "上海新增一所世界500强大学",
+        "onboard_time": 1755437544,
+        "rank": 9,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 1494853,
+        "num": 280326,
+        "word": "褪黑素",
+        "onboard_time": 1755443484,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42938,
+        "num": 279347,
+        "word": "东华大学晋级全球大学500强",
+        "onboard_time": 1755444444,
+        "rank": 11,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 380167,
+        "num": 277658,
+        "word": "鹿晗陈赫唱了慢慢",
+        "onboard_time": 1755438864,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344489,
+        "num": 275125,
+        "word": "花少7首播收视率",
+        "onboard_time": 1755442463,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341055,
+        "num": 274286,
+        "word": "马頔道歉",
+        "onboard_time": 1755445102,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 273018,
+        "num": 273018,
+        "word": "九三阅兵演练现场",
+        "onboard_time": 1755429801,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318034,
+        "num": 240293,
+        "word": "刘宇宁 咱们家粉不是入坑是中奖",
+        "onboard_time": 1755443843,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204377,
+        "num": 204377,
+        "word": "苏州火车站女厕标识被指易误解为男厕",
+        "onboard_time": 1755433343,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192495,
+        "num": 192495,
+        "word": "微信号真的会透露很多隐私",
+        "onboard_time": 1755426442,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126811,
+        "num": 192273,
+        "word": "库里 重庆",
+        "onboard_time": 1755439164,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304170,
+        "num": 191917,
+        "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+        "onboard_time": 1755426202,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253523,
+        "num": 191123,
+        "word": "刘宇宁直播",
+        "onboard_time": 1755430581,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247133,
+        "num": 190837,
+        "word": "何超云疑似分手",
+        "onboard_time": 1755439644,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243166,
+        "num": 190251,
+        "word": "从表兄妹结婚后胎儿患罕见遗传病",
+        "onboard_time": 1755437364,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234221,
+        "num": 189635,
+        "word": "韩安冉小女儿从出生到现在经常生病",
+        "onboard_time": 1755432082,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 233797,
+        "num": 189157,
+        "word": "减肥时早睡可能比跑步更管用",
+        "onboard_time": 1755441086,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 226112,
+        "num": 188757,
+        "word": "生万物热度",
+        "onboard_time": 1755436345,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202081,
+        "num": 188478,
+        "word": "小男孩认错爸爸阴差阳错拼出一个家",
+        "onboard_time": 1755443123,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188170,
+        "num": 188170,
+        "word": "生万物",
+        "onboard_time": 1755431842,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184954,
+        "num": 184954,
+        "word": "李连杰称面对死亡已非常淡然",
+        "onboard_time": 1755436705,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1831688,
+        "num": 180541,
+        "word": "茉莉奶白被砸身亡店员系17岁男生",
+        "onboard_time": 1755438864,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475544,
+        "num": 173059,
+        "word": "多女性用棉密码病变速度让医生震惊",
+        "onboard_time": 1755441265,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159343,
+        "num": 159343,
+        "word": "虞书欣双麻花辫抹胸造型",
+        "onboard_time": 1755431002,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155654,
+        "num": 155654,
+        "word": "等枝桠成繁花",
+        "onboard_time": 1755443843,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154621,
+        "num": 154621,
+        "word": "五月天演唱会上偶遇李现",
+        "onboard_time": 1755435082,
+        "rank": 34,
+        "category": "演出,作品衍生"
+      },
+      {
+        "raw_hot": 148961,
+        "num": 148961,
+        "word": "马天宇 啥也不会只会哭",
+        "onboard_time": 1755427643,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142391,
+        "num": 142391,
+        "word": "梓渝新歌",
+        "onboard_time": 1755435983,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123982,
+        "num": 123982,
+        "word": "女子要求双休获回复漂亮可天天休",
+        "onboard_time": 1755441086,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121588,
+        "num": 121588,
+        "word": "黄子弘凡这是真魅魔吧",
+        "onboard_time": 1755444323,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48752,
+        "num": 120505,
+        "word": "台湾网红馆长洗脑神曲",
+        "onboard_time": 1755444564,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120244,
+        "num": 120244,
+        "word": "日本战犯被16张照片打脸",
+        "onboard_time": 1755443783,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119321,
+        "num": 119321,
+        "word": "13人露营遇山洪唯一获救女孩刚高考",
+        "onboard_time": 1755440064,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119180,
+        "num": 119180,
+        "word": "玛莎 谢谢北京",
+        "onboard_time": 1755443723,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118782,
+        "num": 118782,
+        "word": "3女子买房避暑被树砸致1死2伤",
+        "onboard_time": 1755431723,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114443,
+        "num": 114443,
+        "word": "肖战余烬共生曲",
+        "onboard_time": 1755434962,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111747,
+        "num": 111747,
+        "word": "谢娜家风就是女儿一定要被宠爱着长大",
+        "onboard_time": 1755443663,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111066,
+        "num": 111066,
+        "word": "让酒",
+        "onboard_time": 1755441746,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107634,
+        "num": 107634,
+        "word": "生万物预告",
+        "onboard_time": 1755441865,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105045,
+        "num": 105045,
+        "word": "孙颖莎嚼嚼嚼",
+        "onboard_time": 1755444323,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99958,
+        "num": 99958,
+        "word": "吴宣仪偷亲翟潇闻路透",
+        "onboard_time": 1755438384,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#参观这座纪念馆习近平问了68个问题#"
+    }
+  }
+}
