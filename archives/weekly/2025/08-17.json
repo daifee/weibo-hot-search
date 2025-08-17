@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755409448148,
+  "endTime": 1755412660744,
   "band_list": [
     {
       "raw_hot": 1835081,
@@ -17,6 +17,14 @@
       "onboard_time": 1755388339,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1155488,
+      "num": 1184878,
+      "word": "微信转账记得加一个动作",
+      "onboard_time": 1755406700,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1063937,
@@ -123,6 +131,14 @@
       "category": "民生新闻,读书作家"
     },
     {
+      "raw_hot": 583607,
+      "num": 583607,
+      "word": "小杨哥老婆复出了",
+      "onboard_time": 1755409281,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 580800,
       "num": 580800,
       "word": "台风母体来了",
@@ -187,6 +203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 508004,
+      "num": 508004,
+      "word": "蜜雪冰橙 蜜雪冰城",
+      "onboard_time": 1755409642,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 502740,
       "num": 502740,
       "word": "普京开条件",
@@ -211,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 449313,
-      "num": 449313,
-      "word": "微信转账记得加一个动作",
-      "onboard_time": 1755406700,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 447704,
       "num": 447704,
       "word": "盗墓笔记",
@@ -233,6 +249,14 @@
       "onboard_time": 1755397881,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437572,
+      "num": 332205,
+      "word": "王晶曝张柏芝谢霆锋离婚原因",
+      "onboard_time": 1755412282,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 411643,
@@ -331,6 +355,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 332030,
+      "num": 332030,
+      "word": "穿外裤不能上床真的有必要吗",
+      "onboard_time": 1755411142,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 320142,
       "num": 390502,
       "word": "作家梁晓声再谈孙颖莎",
@@ -355,12 +387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307414,
+      "num": 340615,
+      "word": "黄誉博向郑伟道歉",
+      "onboard_time": 1755411262,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302667,
       "num": 302667,
       "word": "肖宇梁时隔4年半进组了",
       "onboard_time": 1755400341,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 294019,
+      "num": 294019,
+      "word": "12306回应苏州火车站女厕标识易误解",
+      "onboard_time": 1755410481,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287461,
@@ -411,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281393,
+      "num": 281393,
+      "word": "我家那闺女",
+      "onboard_time": 1755409701,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277619,
       "num": 216849,
       "word": "张凌赫友情出演生万物",
@@ -433,6 +489,14 @@
       "onboard_time": 1755394521,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260487,
+      "num": 260487,
+      "word": "TOP登陆少年体重",
+      "onboard_time": 1755408863,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 260469,
@@ -563,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196391,
+      "num": 139475,
+      "word": "苏新皓体重",
+      "onboard_time": 1755412402,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194020,
       "num": 194020,
       "word": "周震南喊话龙丹妮说就剩六个",
@@ -593,6 +665,14 @@
       "onboard_time": 1755400040,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189743,
+      "num": 138936,
+      "word": "李连杰生病住院",
+      "onboard_time": 1755411981,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 189181,
@@ -651,6 +731,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 173475,
+      "num": 138679,
+      "word": "贺峻霖分享一次小作业",
+      "onboard_time": 1755411562,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171458,
       "num": 171458,
       "word": "南京二手房遇冷房东选择下架出租",
@@ -659,11 +747,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171258,
+      "num": 138170,
+      "word": "宋亚轩问上海会下雨吗",
+      "onboard_time": 1755411862,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171239,
       "num": 197389,
       "word": "献鱼",
       "onboard_time": 1755349703,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171162,
+      "num": 138069,
+      "word": "献鱼编剧",
+      "onboard_time": 1755411621,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -803,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147327,
+      "num": 135924,
+      "word": "张凌赫王楚然鼻炎受害者联盟",
+      "onboard_time": 1755409822,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146973,
       "num": 146973,
       "word": "古剑单机新作首曝",
@@ -833,6 +945,22 @@
       "onboard_time": 1755402681,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145301,
+      "num": 135707,
+      "word": "以后男女主醉酒暧昧都这么拍",
+      "onboard_time": 1755411862,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145294,
+      "num": 136804,
+      "word": "每一辆风云X3都是全lv高定",
+      "onboard_time": 1755412462,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 144612,
@@ -947,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135379,
+      "num": 135379,
+      "word": "机场充电宝一吨9000元",
+      "onboard_time": 1755409761,
+      "rank": 33,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 135337,
       "num": 199067,
       "word": "美国连体双胞胎姐妹其中一人疑生子",
@@ -985,6 +1121,14 @@
       "onboard_time": 1755404781,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133346,
+      "num": 133346,
+      "word": "不查学生证等学生出行优惠来了",
+      "onboard_time": 1755410481,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132864,
@@ -1051,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124049,
+      "num": 332342,
+      "word": "机场拦截的充电宝成抢手货",
+      "onboard_time": 1755411922,
+      "rank": 9,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 123455,
       "num": 123455,
       "word": "沈月泰国年度海外最受欢迎中国女演员",
@@ -1081,6 +1233,14 @@
       "onboard_time": 1755361222,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119327,
+      "num": 119327,
+      "word": "周也见到孟子义一套撒娇卖萌",
+      "onboard_time": 1755411381,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 118485,
@@ -1171,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114328,
-      "num": 114328,
-      "word": "小杨哥老婆复出了",
-      "onboard_time": 1755409281,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 113282,
       "num": 197509,
       "word": "台湾老百姓都清清楚楚看在眼里",
@@ -1203,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111951,
+      "num": 111951,
+      "word": "哈佛蔬菜汤 中产麻辣烫",
+      "onboard_time": 1755410782,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 110178,
       "num": 197201,
       "word": "张艺兴唱了人鱼的眼泪",
@@ -1211,12 +1371,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108514,
+      "num": 108514,
+      "word": "张元英上海",
+      "onboard_time": 1755412642,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106826,
       "num": 106826,
       "word": "范曾",
       "onboard_time": 1755386957,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 106762,
+      "num": 106762,
+      "word": "抵债猫",
+      "onboard_time": 1755408922,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 104081,
+      "num": 104081,
+      "word": "疑似机器人报复人类",
+      "onboard_time": 1755411621,
+      "rank": 45,
+      "category": "幽默,互联网"
     },
     {
       "raw_hot": 102102,
@@ -1267,12 +1451,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95468,
-      "num": 95468,
-      "word": "抵债猫",
-      "onboard_time": 1755408922,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 97058,
+      "num": 108535,
+      "word": "养猫后看见啥都想给它做玩具",
+      "onboard_time": 1755412162,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 96298,
+      "num": 96298,
+      "word": "男子请育儿假陪幼女看病3天后遭开除",
+      "onboard_time": 1755411862,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96275,
+      "num": 112268,
+      "word": "孙怡参观马天宇的农场",
+      "onboard_time": 1755412162,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 93828,
@@ -1281,6 +1481,14 @@
       "onboard_time": 1755361522,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90628,
+      "num": 90628,
+      "word": "狸花猫被法拍有510人报名争抢",
+      "onboard_time": 1755410121,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90230,
@@ -1377,14 +1585,6 @@
       "onboard_time": 1755401902,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85955,
-      "num": 128096,
-      "word": "TOP登陆少年体重",
-      "onboard_time": 1755408863,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 83844,
@@ -1545,6 +1745,14 @@
       "onboard_time": 1755398062,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61093,
+      "num": 139974,
+      "word": "花少脆皮团爆改铁皮团",
+      "onboard_time": 1755409342,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 60578,
@@ -1724,7 +1932,7 @@
     },
     {
       "raw_hot": 33937,
-      "num": 134170,
+      "num": 136216,
       "word": "马群耀欧阳娜娜合作舞台",
       "onboard_time": 1755409342,
       "rank": 33,
@@ -1795,6 +2003,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 25451,
+      "num": 115065,
+      "word": "范曾失联疑云别成家庭罗生门",
+      "onboard_time": 1755412642,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23867,
       "num": 34673,
       "word": "蒲熠星新歌",
@@ -1817,14 +2033,6 @@
       "onboard_time": 1755378074,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22739,
-      "num": 136756,
-      "word": "花少脆皮团爆改铁皮团",
-      "onboard_time": 1755409342,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 22690,
@@ -1857,6 +2065,14 @@
       "onboard_time": 1755335900,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21168,
+      "num": 136653,
+      "word": "律师解读范曾20亿藏品所有权归属",
+      "onboard_time": 1755412582,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20315,
