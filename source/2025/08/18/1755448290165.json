@@ -1,0 +1,410 @@
+{
+  "runTime": 1755448290165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1748529,
+        "num": 1748529,
+        "word": "马頔道歉",
+        "onboard_time": 1755445102,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1444498,
+        "num": 1444498,
+        "word": "中国男篮vs澳大利亚男篮",
+        "onboard_time": 1755445343,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4164,
+        "num": 950102,
+        "word": "中国队世运会夺金时刻好燃",
+        "onboard_time": 1755392360,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 876963,
+        "num": 876963,
+        "word": "虞书欣方持续取证中",
+        "onboard_time": 1755437963,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390496,
+        "num": 390496,
+        "word": "曝王楚钦因档期取消金九拍摄",
+        "onboard_time": 1755437484,
+        "rank": 4,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 321174,
+        "num": 321174,
+        "word": "不敢想九三阅兵会有多震撼",
+        "onboard_time": 1755440905,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449137,
+        "num": 317587,
+        "word": "孙怡 结婚得到的要比我赚钱幸福得多",
+        "onboard_time": 1755429743,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413249,
+        "num": 308349,
+        "word": "戚薇大方承认医美过度",
+        "onboard_time": 1755434663,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293324,
+        "num": 293324,
+        "word": "1750瓶茅台一原所有人已被执行死刑",
+        "onboard_time": 1755441805,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222293,
+        "num": 222293,
+        "word": "坐高铁遇400斤邻座12306不该甩锅",
+        "onboard_time": 1755441265,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2242447,
+        "num": 219005,
+        "word": "褪黑素",
+        "onboard_time": 1755443484,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 914023,
+        "num": 217334,
+        "word": "女童头上插刀系妈妈不慎刺入",
+        "onboard_time": 1755446183,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701770,
+        "num": 211478,
+        "word": "梓渝新歌",
+        "onboard_time": 1755435983,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141148,
+        "num": 210113,
+        "word": "普京特朗普有说有笑视频走红",
+        "onboard_time": 1755446240,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325968,
+        "num": 202889,
+        "word": "刘宇宁 咱们家粉不是入坑是中奖",
+        "onboard_time": 1755443843,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233394,
+        "num": 201133,
+        "word": "花少7首播收视率",
+        "onboard_time": 1755442463,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198745,
+        "num": 198745,
+        "word": "鹿晗陈赫唱了慢慢",
+        "onboard_time": 1755438864,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226559,
+        "num": 189601,
+        "word": "梓渝事业粉狂喜",
+        "onboard_time": 1755447263,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149724,
+        "num": 149724,
+        "word": "上海新增一所世界500强大学",
+        "onboard_time": 1755437544,
+        "rank": 18,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 149048,
+        "num": 149048,
+        "word": "九三阅兵演练现场",
+        "onboard_time": 1755429801,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168221,
+        "num": 146054,
+        "word": "十个勤天直播",
+        "onboard_time": 1755440724,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155236,
+        "num": 144189,
+        "word": "从表兄妹结婚后胎儿患罕见遗传病",
+        "onboard_time": 1755437364,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141460,
+        "num": 141460,
+        "word": "李连杰称面对死亡已非常淡然",
+        "onboard_time": 1755436705,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139960,
+        "num": 139960,
+        "word": "小男孩认错爸爸阴差阳错拼出一个家",
+        "onboard_time": 1755443123,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137483,
+        "num": 137483,
+        "word": "韩安冉小女儿从出生到现在经常生病",
+        "onboard_time": 1755432082,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130830,
+        "num": 130830,
+        "word": "玛莎 谢谢北京",
+        "onboard_time": 1755443723,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125206,
+        "num": 125206,
+        "word": "微信号真的会透露很多隐私",
+        "onboard_time": 1755426442,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119529,
+        "num": 119529,
+        "word": "虞书欣双麻花辫抹胸造型",
+        "onboard_time": 1755431002,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119161,
+        "num": 119161,
+        "word": "台湾网红馆长洗脑神曲",
+        "onboard_time": 1755444564,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102075,
+        "num": 117589,
+        "word": "邓超gogogo出发篮球职业圈了",
+        "onboard_time": 1755446183,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 652689,
+        "num": 117561,
+        "word": "茉莉奶白被砸身亡店员系17岁男生",
+        "onboard_time": 1755438864,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112401,
+        "num": 117451,
+        "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+        "onboard_time": 1755426202,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117365,
+        "num": 117365,
+        "word": "五月天演唱会上偶遇李现",
+        "onboard_time": 1755435082,
+        "rank": 32,
+        "category": "演出,作品衍生"
+      },
+      {
+        "raw_hot": 272315,
+        "num": 117327,
+        "word": "多女性用棉密码病变速度让医生震惊",
+        "onboard_time": 1755441265,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117196,
+        "num": 117196,
+        "word": "减肥时早睡可能比跑步更管用",
+        "onboard_time": 1755441086,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 105352,
+        "num": 105352,
+        "word": "生万物",
+        "onboard_time": 1755431842,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97946,
+        "num": 97946,
+        "word": "曼联vs阿森纳",
+        "onboard_time": 1755443303,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89974,
+        "num": 89974,
+        "word": "脑梗前手指会出现这3个症状",
+        "onboard_time": 1755446904,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88663,
+        "num": 88663,
+        "word": "肖战余烬共生曲",
+        "onboard_time": 1755434962,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88391,
+        "num": 88391,
+        "word": "苏州火车站女厕标识被指易误解为男厕",
+        "onboard_time": 1755433343,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80987,
+        "num": 80987,
+        "word": "一诺创下的常规赛MVP次数的记录",
+        "onboard_time": 1755444744,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79599,
+        "num": 79599,
+        "word": "女子要求双休获回复漂亮可天天休",
+        "onboard_time": 1755441086,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78733,
+        "num": 78733,
+        "word": "生万物热度",
+        "onboard_time": 1755436345,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78435,
+        "num": 78435,
+        "word": "马天宇 啥也不会只会哭",
+        "onboard_time": 1755427643,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76425,
+        "num": 76425,
+        "word": "喻言对方正在跳舞中舞台",
+        "onboard_time": 1755448161,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76135,
+        "num": 76135,
+        "word": "让酒",
+        "onboard_time": 1755441746,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76019,
+        "num": 76019,
+        "word": "吴艳妮客串拉拉队队长",
+        "onboard_time": 1755447562,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73987,
+        "num": 73987,
+        "word": "何超云疑似分手",
+        "onboard_time": 1755439644,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73804,
+        "num": 73804,
+        "word": "生万物预告",
+        "onboard_time": 1755441865,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73092,
+        "num": 73092,
+        "word": "刘宇宁直播",
+        "onboard_time": 1755430581,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#论坚持全面深化改革#"
+    }
+  }
+}

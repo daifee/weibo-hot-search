@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755445234897,
+  "endTime": 1755448290165,
   "band_list": [
     {
       "raw_hot": 2703584,
@@ -17,6 +17,14 @@
       "onboard_time": 1755440724,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2242447,
+      "num": 302799,
+      "word": "褪黑素",
+      "onboard_time": 1755443484,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2033517,
@@ -51,12 +59,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1494853,
-      "num": 302799,
-      "word": "褪黑素",
-      "onboard_time": 1755443484,
-      "rank": 10,
-      "category": "健康医疗"
+      "raw_hot": 1748529,
+      "num": 1748529,
+      "word": "马頔道歉",
+      "onboard_time": 1755445102,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1444498,
+      "num": 1444498,
+      "word": "中国男篮vs澳大利亚男篮",
+      "onboard_time": 1755445343,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1299466,
@@ -137,6 +153,14 @@
       "onboard_time": 1755362182,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 914023,
+      "num": 217334,
+      "word": "女童头上插刀系妈妈不慎刺入",
+      "onboard_time": 1755446183,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 907764,
@@ -225,6 +249,14 @@
       "onboard_time": 1755395841,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 701770,
+      "num": 376812,
+      "word": "梓渝新歌",
+      "onboard_time": 1755435983,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 701163,
@@ -369,14 +401,6 @@
       "onboard_time": 1755392180,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 579696,
-      "num": 376812,
-      "word": "梓渝新歌",
-      "onboard_time": 1755435983,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 573761,
@@ -707,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341055,
-      "num": 274286,
-      "word": "马頔道歉",
-      "onboard_time": 1755445102,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 340007,
       "num": 239609,
       "word": "从140斤瘦到103斤的真实变化",
@@ -763,6 +779,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 325968,
+      "num": 240293,
+      "word": "刘宇宁 咱们家粉不是入坑是中奖",
+      "onboard_time": 1755443843,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325033,
       "num": 325033,
       "word": "与辉同行回应董宇辉年收入传闻",
@@ -785,14 +809,6 @@
       "onboard_time": 1755395361,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318034,
-      "num": 240293,
-      "word": "刘宇宁 咱们家粉不是入坑是中奖",
-      "onboard_time": 1755443843,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 311492,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1755441086,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 226559,
+      "num": 189601,
+      "word": "梓渝事业粉狂喜",
+      "onboard_time": 1755447263,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 225472,
@@ -2139,6 +2163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141148,
+      "num": 210113,
+      "word": "普京特朗普有说有笑视频走红",
+      "onboard_time": 1755446240,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141026,
       "num": 141026,
       "word": "胡歌刘诗诗袁弘送李国立餐馆花篮",
@@ -2691,6 +2723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119161,
+      "num": 120505,
+      "word": "台湾网红馆长洗脑神曲",
+      "onboard_time": 1755444564,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118485,
       "num": 118485,
       "word": "李世民扮演者称演员要养家糊口",
@@ -3059,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102075,
+      "num": 117589,
+      "word": "邓超gogogo出发篮球职业圈了",
+      "onboard_time": 1755446183,
+      "rank": 29,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 101766,
       "num": 101766,
       "word": "巴基斯坦暴雨2天内344人死亡",
@@ -3363,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89974,
+      "num": 89974,
+      "word": "脑梗前手指会出现这3个症状",
+      "onboard_time": 1755446904,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 89816,
       "num": 89816,
       "word": "突然就不想和朋友联系了",
@@ -3531,6 +3587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80987,
+      "num": 80987,
+      "word": "一诺创下的常规赛MVP次数的记录",
+      "onboard_time": 1755444744,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80883,
       "num": 80883,
       "word": "冯建宇生日会官宣",
@@ -3611,12 +3675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76425,
+      "num": 76425,
+      "word": "喻言对方正在跳舞中舞台",
+      "onboard_time": 1755448161,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76098,
       "num": 76098,
       "word": "伦敦偶遇朱一龙逛美术馆",
       "onboard_time": 1755398000,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76019,
+      "num": 76019,
+      "word": "吴艳妮客串拉拉队队长",
+      "onboard_time": 1755447562,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 75146,
@@ -3792,14 +3872,6 @@
       "word": "下周热热热加雨雨雨",
       "onboard_time": 1755438023,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48752,
-      "num": 120505,
-      "word": "台湾网红馆长洗脑神曲",
-      "onboard_time": 1755444564,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -4228,7 +4300,7 @@
     },
     {
       "raw_hot": 4438,
-      "num": 726258,
+      "num": 950102,
       "word": "中国队世运会夺金时刻好燃",
       "onboard_time": 1755392360,
       "rank": 2,
