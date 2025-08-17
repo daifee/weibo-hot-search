@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755430669931,
+  "endTime": 1755435065398,
   "band_list": [
     {
       "raw_hot": 2033517,
@@ -17,6 +17,14 @@
       "onboard_time": 1755406880,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1827682,
+      "num": 1827682,
+      "word": "孙怡 结婚得到的要比我赚钱幸福得多",
+      "onboard_time": 1755429743,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1812521,
@@ -81,6 +89,14 @@
       "onboard_time": 1755362182,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 907764,
+      "num": 907764,
+      "word": "九三阅兵演练现场",
+      "onboard_time": 1755429801,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 874511,
@@ -235,6 +251,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612039,
+      "num": 612039,
+      "word": "3女子买房避暑被树砸致1死2伤",
+      "onboard_time": 1755431723,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 607679,
+      "num": 246976,
+      "word": "虞书欣双麻花辫抹胸造型",
+      "onboard_time": 1755431002,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606343,
       "num": 425077,
       "word": "徐萌 范曾",
@@ -289,6 +321,14 @@
       "onboard_time": 1755401061,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531669,
+      "num": 240858,
+      "word": "韩安冉小女儿从出生到现在经常生病",
+      "onboard_time": 1755432082,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 528121,
@@ -371,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451334,
+      "num": 236065,
+      "word": "音乐博主辟谣梓渝假唱",
+      "onboard_time": 1755432922,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 449445,
       "num": 287152,
       "word": "谢娜是乐华的第一个签约艺人",
@@ -419,14 +467,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 408958,
-      "num": 321202,
-      "word": "孙怡 结婚得到的要比我赚钱幸福得多",
-      "onboard_time": 1755429743,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 398442,
       "num": 398442,
       "word": "杨幂这段没有一句台词",
@@ -473,6 +513,14 @@
       "onboard_time": 1755421102,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358646,
+      "num": 319512,
+      "word": "微信号真的会透露很多隐私",
+      "onboard_time": 1755426442,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 352363,
@@ -563,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319512,
-      "num": 319512,
-      "word": "微信号真的会透露很多隐私",
-      "onboard_time": 1755426442,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 311492,
       "num": 217255,
       "word": "小海绵一出生就是顶流待遇",
@@ -579,12 +619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308533,
+      "num": 308533,
+      "word": "中国军人的脚步声太齐了",
+      "onboard_time": 1755431903,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 302667,
       "num": 302667,
       "word": "肖宇梁时隔4年半进组了",
       "onboard_time": 1755400341,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 301309,
+      "num": 229120,
+      "word": "小鹿的备孕方式还是太超前了",
+      "onboard_time": 1755432983,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 297098,
@@ -771,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227437,
+      "num": 227437,
+      "word": "生万物",
+      "onboard_time": 1755344363,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223847,
       "num": 223847,
       "word": "全村人都知道了绣绣是清白的",
@@ -875,12 +939,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199523,
+      "num": 186799,
+      "word": "孙怡送马天宇一辆三轮车",
+      "onboard_time": 1755431002,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199267,
       "num": 227565,
       "word": "感觉陈星旭一来大家整个都活过来",
       "onboard_time": 1755425243,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197986,
+      "num": 197986,
+      "word": "听说鹿晗邀请你来演唱会",
+      "onboard_time": 1755434003,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 197096,
@@ -907,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195180,
+      "num": 195180,
+      "word": "周也这个挑眉有权谋味儿了",
+      "onboard_time": 1755433943,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194020,
       "num": 194020,
       "word": "周震南喊话龙丹妮说就剩六个",
@@ -929,6 +1017,14 @@
       "onboard_time": 1755387078,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192244,
+      "num": 200241,
+      "word": "毛不易把演唱会搬到音乐节",
+      "onboard_time": 1755434122,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 192115,
@@ -961,14 +1057,6 @@
       "onboard_time": 1755393920,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188621,
-      "num": 334504,
-      "word": "九三阅兵演练现场",
-      "onboard_time": 1755429801,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 188033,
@@ -1075,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173481,
+      "num": 173481,
+      "word": "苏超",
+      "onboard_time": 1755431903,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173475,
       "num": 138679,
       "word": "贺峻霖分享一次小作业",
@@ -1097,6 +1193,14 @@
       "onboard_time": 1755412162,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172361,
+      "num": 174084,
+      "word": "aespa音乐节舞台",
+      "onboard_time": 1755433762,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 171458,
@@ -1251,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159148,
+      "num": 159148,
+      "word": "钱天一vs桥本帆乃香",
+      "onboard_time": 1755434423,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158450,
       "num": 158450,
       "word": "银子嫁给宁学祥",
@@ -1281,6 +1393,14 @@
       "onboard_time": 1755421822,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155325,
+      "num": 155325,
+      "word": "许魏洲回应披哥一公淘汰",
+      "onboard_time": 1755434543,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 155256,
@@ -1347,6 +1467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 151542,
+      "num": 151542,
+      "word": "章若楠就这样穿着人字拖出现了",
+      "onboard_time": 1755432082,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151070,
       "num": 151070,
       "word": "撒贝宁 原来央视主持人现实中长这样",
@@ -1401,6 +1529,14 @@
       "onboard_time": 1755409281,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148715,
+      "num": 148715,
+      "word": "封大脚让人感觉像三伏天喝了碗凉水",
+      "onboard_time": 1755434962,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 147771,
@@ -1539,14 +1675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139069,
-      "num": 198440,
-      "word": "生万物",
-      "onboard_time": 1755344363,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138989,
       "num": 138989,
       "word": "祖宗别宠了女主是反派",
@@ -1659,6 +1787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134772,
+      "num": 165291,
+      "word": "第一次那么想看别人的手机",
+      "onboard_time": 1755433403,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134712,
       "num": 134712,
       "word": "仙逆",
@@ -1739,6 +1875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132072,
+      "num": 132072,
+      "word": "胡歌刘诗诗袁弘送李国立餐馆花篮",
+      "onboard_time": 1755433343,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131994,
       "num": 131994,
       "word": "李连杰患甲亢",
@@ -1761,6 +1905,14 @@
       "onboard_time": 1755413301,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130712,
+      "num": 130712,
+      "word": "人人人长白山人人人",
+      "onboard_time": 1755429022,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 130086,
@@ -1793,6 +1945,14 @@
       "onboard_time": 1755393560,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127940,
+      "num": 127940,
+      "word": "戚薇大方承认医美过度",
+      "onboard_time": 1755434663,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 127903,
@@ -1843,6 +2003,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125667,
+      "num": 125667,
+      "word": "盗墓笔记直播",
+      "onboard_time": 1755431422,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 125614,
+      "num": 125614,
+      "word": "方便面3年少卖40亿包",
+      "onboard_time": 1755433762,
+      "rank": 39,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 124700,
       "num": 124700,
       "word": "TOP上完披哥叫饭团了",
@@ -1859,6 +2035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123706,
+      "num": 123706,
+      "word": "肖战余烬共生曲",
+      "onboard_time": 1755434962,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123487,
       "num": 123487,
       "word": "抵债猫",
@@ -1873,6 +2057,22 @@
       "onboard_time": 1755395841,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122877,
+      "num": 122877,
+      "word": "张子枫说广东凉茶可以代替冰美式",
+      "onboard_time": 1755434663,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122867,
+      "num": 122867,
+      "word": "12岁自闭症男孩大理洱海走失",
+      "onboard_time": 1755432144,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122596,
@@ -1896,6 +2096,14 @@
       "word": "苏辙后人 俄罗斯外籍院士",
       "onboard_time": 1755401902,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122125,
+      "num": 122125,
+      "word": "苏州火车站女厕标识被指易误解为男厕",
+      "onboard_time": 1755433343,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1931,12 +2139,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120218,
-      "num": 120218,
-      "word": "人人人长白山人人人",
-      "onboard_time": 1755429022,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 119956,
+      "num": 119956,
+      "word": "王曼昱这球太能防了",
+      "onboard_time": 1755434782,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119710,
+      "num": 122870,
+      "word": "张雅琪邪修做饭就是快",
+      "onboard_time": 1755432744,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119614,
+      "num": 119614,
+      "word": "苏超南京vs盐城",
+      "onboard_time": 1755432862,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 119508,
@@ -2043,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116177,
+      "num": 251027,
+      "word": "新西兰警方回应收到中式锦旗",
+      "onboard_time": 1755432744,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116078,
       "num": 116078,
       "word": "苏醒三个舞台用了三种音色",
@@ -2083,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113340,
+      "num": 113340,
+      "word": "TES对战BLG",
+      "onboard_time": 1755430764,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113282,
       "num": 197509,
       "word": "台湾老百姓都清清楚楚看在眼里",
@@ -2097,6 +2337,14 @@
       "onboard_time": 1755408442,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113214,
+      "num": 113214,
+      "word": "八一七稻米节",
+      "onboard_time": 1755430822,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 113194,
@@ -2225,6 +2473,14 @@
       "onboard_time": 1755422423,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103784,
+      "num": 161303,
+      "word": "林高远止步欧洲大满贯首轮",
+      "onboard_time": 1755434903,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 103625,
@@ -2883,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58773,
+      "num": 210900,
+      "word": "苏超现场网速第一友谊第十四",
+      "onboard_time": 1755434062,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56588,
       "num": 154292,
       "word": "陈飞宇贵公子走进泰兰德",
@@ -3169,6 +3433,14 @@
       "onboard_time": 1755343041,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31112,
+      "num": 207551,
+      "word": "林诗栋3比0林文政",
+      "onboard_time": 1755434723,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 30941,
