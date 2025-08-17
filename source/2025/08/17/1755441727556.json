@@ -1,0 +1,410 @@
+{
+  "runTime": 1755441727556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2703584,
+        "num": 2703584,
+        "word": "茉莉奶白被砸身亡店员系17岁男生",
+        "onboard_time": 1755438864,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2503015,
+        "num": 2503015,
+        "word": "十个勤天直播",
+        "onboard_time": 1755440724,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29353,
+        "num": 1642947,
+        "word": "中国队金牌榜奖牌榜第1",
+        "onboard_time": 1755419902,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1093447,
+        "num": 1093447,
+        "word": "曝王楚钦因档期取消金九拍摄",
+        "onboard_time": 1755437484,
+        "rank": 3,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 1009361,
+        "num": 1009361,
+        "word": "孙怡 结婚得到的要比我赚钱幸福得多",
+        "onboard_time": 1755429743,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635091,
+        "num": 635091,
+        "word": "上海新增一所世界500强大学",
+        "onboard_time": 1755437544,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 909975,
+        "num": 621500,
+        "word": "虞书欣方持续取证中",
+        "onboard_time": 1755437963,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6920,
+        "num": 599915,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 909743,
+        "num": 576462,
+        "word": "戚薇大方承认医美过度",
+        "onboard_time": 1755434663,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221102,
+        "num": 558911,
+        "word": "不敢想九三阅兵会有多震撼",
+        "onboard_time": 1755440905,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 540089,
+        "num": 540089,
+        "word": "鹿晗陈赫唱了慢慢",
+        "onboard_time": 1755438864,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 432150,
+        "num": 432150,
+        "word": "生万物热度",
+        "onboard_time": 1755436345,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412499,
+        "num": 412499,
+        "word": "苏州火车站女厕标识被指易误解为男厕",
+        "onboard_time": 1755433343,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404570,
+        "num": 404570,
+        "word": "何超云疑似分手",
+        "onboard_time": 1755439644,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393408,
+        "num": 393408,
+        "word": "九三阅兵演练现场",
+        "onboard_time": 1755429801,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 531726,
+        "num": 367839,
+        "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+        "onboard_time": 1755426202,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342079,
+        "num": 342079,
+        "word": "梓渝新歌",
+        "onboard_time": 1755435983,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317832,
+        "num": 317832,
+        "word": "韩安冉小女儿从出生到现在经常生病",
+        "onboard_time": 1755432082,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 302753,
+        "num": 302753,
+        "word": "3女子买房避暑被树砸致1死2伤",
+        "onboard_time": 1755431723,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272636,
+        "num": 299436,
+        "word": "微信号真的会透露很多隐私",
+        "onboard_time": 1755426442,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442335,
+        "num": 298756,
+        "word": "从表兄妹结婚后胎儿患罕见遗传病",
+        "onboard_time": 1755437364,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296452,
+        "num": 296452,
+        "word": "马天宇 啥也不会只会哭",
+        "onboard_time": 1755427643,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276820,
+        "num": 276820,
+        "word": "刘宇宁直播",
+        "onboard_time": 1755430581,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273987,
+        "num": 273987,
+        "word": "生万物",
+        "onboard_time": 1755431842,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225472,
+        "num": 225472,
+        "word": "库里 重庆",
+        "onboard_time": 1755439164,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224598,
+        "num": 224598,
+        "word": "KPL季后赛",
+        "onboard_time": 1755440724,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216824,
+        "num": 216824,
+        "word": "李连杰称面对死亡已非常淡然",
+        "onboard_time": 1755436705,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211648,
+        "num": 211648,
+        "word": "张杰终于完整唱了记得",
+        "onboard_time": 1755440546,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208491,
+        "num": 208491,
+        "word": "肖战余烬共生曲",
+        "onboard_time": 1755434962,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207200,
+        "num": 207200,
+        "word": "黄子弘凡合肥演唱会",
+        "onboard_time": 1755440546,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204216,
+        "num": 204216,
+        "word": "林高远止步欧洲大满贯首轮",
+        "onboard_time": 1755434903,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201409,
+        "num": 201409,
+        "word": "虞书欣双麻花辫抹胸造型",
+        "onboard_time": 1755431002,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201090,
+        "num": 201090,
+        "word": "姚基金慈善赛",
+        "onboard_time": 1755440965,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194032,
+        "num": 194032,
+        "word": "PEL",
+        "onboard_time": 1755441024,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175193,
+        "num": 175193,
+        "word": "衰老有两个关键年龄段",
+        "onboard_time": 1755441146,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168329,
+        "num": 168329,
+        "word": "13人露营遇山洪唯一获救女孩刚高考",
+        "onboard_time": 1755440064,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162382,
+        "num": 162382,
+        "word": "李宇春离观众好近",
+        "onboard_time": 1755440365,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93476,
+        "num": 155385,
+        "word": "坐高铁遇400斤邻座12306不该甩锅",
+        "onboard_time": 1755441265,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42078,
+        "num": 151020,
+        "word": "法拍狸花猫身价狂涨或千人竞拍",
+        "onboard_time": 1755440666,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111002,
+        "num": 150392,
+        "word": "多女性用棉密码病变速度让医生震惊",
+        "onboard_time": 1755441265,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150375,
+        "num": 150375,
+        "word": "女子要求双休获回复漂亮可天天休",
+        "onboard_time": 1755441086,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146358,
+        "num": 146358,
+        "word": "吴宣仪偷亲翟潇闻路透",
+        "onboard_time": 1755438384,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144243,
+        "num": 144243,
+        "word": "减肥时早睡可能比跑步更管用",
+        "onboard_time": 1755441086,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 140684,
+        "num": 140684,
+        "word": "苏超",
+        "onboard_time": 1755431903,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137599,
+        "num": 137599,
+        "word": "伊朗男篮亚洲杯季军",
+        "onboard_time": 1755439524,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247999,
+        "num": 136697,
+        "word": "杨幂欧豪合照",
+        "onboard_time": 1755439524,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134712,
+        "num": 134712,
+        "word": "苏超现场观赛球迷新纪录60633人",
+        "onboard_time": 1755440844,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133297,
+        "num": 133297,
+        "word": "姚明轻拍邓超头",
+        "onboard_time": 1755437424,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 126340,
+        "num": 126340,
+        "word": "微信转账记得加一个动作",
+        "onboard_time": 1755406700,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125669,
+        "num": 125669,
+        "word": "中国军人的脚步声太齐了",
+        "onboard_time": 1755431903,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#使绿水青山产生巨大效益#"
+    }
+  }
+}

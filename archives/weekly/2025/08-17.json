@@ -1,14 +1,22 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755440626491,
+  "endTime": 1755441727556,
   "band_list": [
     {
-      "raw_hot": 2318358,
-      "num": 2318358,
+      "raw_hot": 2703584,
+      "num": 2703584,
       "word": "茉莉奶白被砸身亡店员系17岁男生",
       "onboard_time": 1755438864,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2503015,
+      "num": 2503015,
+      "word": "十个勤天直播",
+      "onboard_time": 1755440724,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2033517,
@@ -49,6 +57,14 @@
       "onboard_time": 1755406700,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1093447,
+      "num": 1093447,
+      "word": "曝王楚钦因档期取消金九拍摄",
+      "onboard_time": 1755437484,
+      "rank": 35,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 1063937,
@@ -107,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 909975,
+      "num": 621500,
+      "word": "虞书欣方持续取证中",
+      "onboard_time": 1755437963,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 907764,
       "num": 907764,
       "word": "九三阅兵演练现场",
@@ -137,14 +161,6 @@
       "onboard_time": 1755387258,
       "rank": 0,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 846618,
-      "num": 561794,
-      "word": "虞书欣方持续取证中",
-      "onboard_time": 1755437963,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 837404,
@@ -257,14 +273,6 @@
       "onboard_time": 1755402982,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 668780,
-      "num": 668780,
-      "word": "曝王楚钦因档期取消金九拍摄",
-      "onboard_time": 1755437484,
-      "rank": 35,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 655458,
@@ -387,6 +395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 540089,
+      "num": 540089,
+      "word": "鹿晗陈赫唱了慢慢",
+      "onboard_time": 1755438864,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 536499,
       "num": 536499,
       "word": "续面女顾客称和面馆老板不再和解",
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 447533,
-      "num": 250663,
+      "num": 298756,
       "word": "从表兄妹结婚后胎儿患罕见遗传病",
       "onboard_time": 1755437364,
       "rank": 25,
@@ -523,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 423633,
-      "num": 423633,
-      "word": "鹿晗陈赫唱了慢慢",
-      "onboard_time": 1755438864,
-      "rank": 8,
-      "category": "演出"
+      "raw_hot": 432150,
+      "num": 432150,
+      "word": "生万物热度",
+      "onboard_time": 1755436345,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 415273,
@@ -555,6 +571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 404570,
+      "num": 404570,
+      "word": "何超云疑似分手",
+      "onboard_time": 1755439644,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398442,
       "num": 398442,
       "word": "杨幂这段没有一句台词",
@@ -577,14 +601,6 @@
       "onboard_time": 1755423742,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 384579,
-      "num": 355260,
-      "word": "生万物热度",
-      "onboard_time": 1755436345,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 377049,
@@ -763,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295302,
-      "num": 177428,
-      "word": "何超云疑似分手",
-      "onboard_time": 1755439644,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 294019,
       "num": 295310,
       "word": "12306回应苏州火车站女厕标识易误解",
@@ -931,6 +939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 247999,
+      "num": 176654,
+      "word": "杨幂欧豪合照",
+      "onboard_time": 1755439524,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247881,
       "num": 339432,
       "word": "扔掉8千枚比特币的程序员放弃寻找",
@@ -971,12 +987,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225472,
+      "num": 225472,
+      "word": "库里 重庆",
+      "onboard_time": 1755439164,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224598,
+      "num": 224598,
+      "word": "KPL季后赛",
+      "onboard_time": 1755440724,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223847,
       "num": 223847,
       "word": "全村人都知道了绣绣是清白的",
       "onboard_time": 1755387559,
       "rank": 16,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 221102,
+      "num": 558911,
+      "word": "不敢想九三阅兵会有多震撼",
+      "onboard_time": 1755440905,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 220412,
@@ -993,6 +1033,14 @@
       "onboard_time": 1755359843,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 216824,
+      "num": 216824,
+      "word": "李连杰称面对死亡已非常淡然",
+      "onboard_time": 1755436705,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 216713,
@@ -1019,20 +1067,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211648,
+      "num": 211648,
+      "word": "张杰终于完整唱了记得",
+      "onboard_time": 1755440546,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211268,
       "num": 211268,
       "word": "普京返俄美国出动F35护航",
       "onboard_time": 1755358703,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 210054,
-      "num": 176654,
-      "word": "杨幂欧豪合照",
-      "onboard_time": 1755439524,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 209734,
@@ -1059,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207200,
+      "num": 207200,
+      "word": "黄子弘凡合肥演唱会",
+      "onboard_time": 1755440546,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206521,
       "num": 206521,
       "word": "约4万人参加演练及现场保障",
@@ -1075,20 +1131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203819,
-      "num": 185814,
-      "word": "李连杰称面对死亡已非常淡然",
-      "onboard_time": 1755436705,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202371,
       "num": 210236,
       "word": "天若有情",
       "onboard_time": 1755396501,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201090,
+      "num": 201090,
+      "word": "姚基金慈善赛",
+      "onboard_time": 1755440965,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 199523,
@@ -1169,6 +1225,14 @@
       "onboard_time": 1755433943,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194032,
+      "num": 194032,
+      "word": "PEL",
+      "onboard_time": 1755441024,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 194020,
@@ -1299,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181947,
-      "num": 175416,
-      "word": "黄子弘凡合肥演唱会",
-      "onboard_time": 1755440546,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 181688,
       "num": 181688,
       "word": "一年一部年代剧",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1755432144,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178391,
-      "num": 178391,
-      "word": "库里 重庆",
-      "onboard_time": 1755439164,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 176344,
@@ -1347,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175193,
+      "num": 175193,
+      "word": "衰老有两个关键年龄段",
+      "onboard_time": 1755441146,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175120,
       "num": 154803,
       "word": "被易烊千玺百万直拍钓成翘嘴了",
@@ -1356,7 +1412,7 @@
     },
     {
       "raw_hot": 175059,
-      "num": 175059,
+      "num": 1642947,
       "word": "中国队金牌榜奖牌榜第1",
       "onboard_time": 1755419902,
       "rank": 21,
@@ -1507,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168329,
+      "num": 168329,
+      "word": "13人露营遇山洪唯一获救女孩刚高考",
+      "onboard_time": 1755440064,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167918,
       "num": 167918,
       "word": "邝玲玲微博泰国年度最具热度艺人",
@@ -1561,6 +1625,14 @@
       "onboard_time": 1755432082,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162382,
+      "num": 162382,
+      "word": "李宇春离观众好近",
+      "onboard_time": 1755440365,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 162096,
@@ -1787,6 +1859,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150375,
+      "num": 150375,
+      "word": "女子要求双休获回复漂亮可天天休",
+      "onboard_time": 1755441086,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150249,
       "num": 150249,
       "word": "JDG常规赛A1收官",
@@ -1875,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146358,
+      "num": 146358,
+      "word": "吴宣仪偷亲翟潇闻路透",
+      "onboard_time": 1755438384,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146305,
       "num": 151599,
       "word": "陈星旭 左右为男",
@@ -1939,12 +2027,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143170,
-      "num": 143170,
-      "word": "吴宣仪偷亲翟潇闻路透",
-      "onboard_time": 1755438384,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 144243,
+      "num": 144243,
+      "word": "减肥时早睡可能比跑步更管用",
+      "onboard_time": 1755441086,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 142167,
@@ -1953,14 +2041,6 @@
       "onboard_time": 1755415702,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141725,
-      "num": 143233,
-      "word": "13人露营遇山洪唯一获救女孩刚高考",
-      "onboard_time": 1755440064,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141026,
@@ -2033,14 +2113,6 @@
       "onboard_time": 1755420323,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138580,
-      "num": 138580,
-      "word": "张杰终于完整唱了记得",
-      "onboard_time": 1755440546,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 138417,
@@ -2161,6 +2233,14 @@
       "onboard_time": 1755428121,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 134712,
+      "num": 134712,
+      "word": "苏超现场观赛球迷新纪录60633人",
+      "onboard_time": 1755440844,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 134692,
@@ -2475,14 +2555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120896,
-      "num": 120896,
-      "word": "李宇春离观众好近",
-      "onboard_time": 1755440365,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 119956,
       "num": 119956,
       "word": "王曼昱这球太能防了",
@@ -2713,6 +2785,14 @@
       "onboard_time": 1755417262,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111002,
+      "num": 150392,
+      "word": "多女性用棉密码病变速度让医生震惊",
+      "onboard_time": 1755441265,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110798,
@@ -3105,6 +3185,14 @@
       "onboard_time": 1755426262,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93476,
+      "num": 155385,
+      "word": "坐高铁遇400斤邻座12306不该甩锅",
+      "onboard_time": 1755441265,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91485,
@@ -3665,6 +3753,14 @@
       "onboard_time": 1755344902,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42078,
+      "num": 151020,
+      "word": "法拍狸花猫身价狂涨或千人竞拍",
+      "onboard_time": 1755440666,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41836,
