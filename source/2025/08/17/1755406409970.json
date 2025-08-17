@@ -1,0 +1,410 @@
+{
+  "runTime": 1755406409970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027121,
+        "num": 1164339,
+        "word": "外卖小哥发现带血枕头报警救人",
+        "onboard_time": 1755388339,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 665192,
+        "num": 665192,
+        "word": "绣绣的头发再也梳不回去了",
+        "onboard_time": 1755402982,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16570,
+        "num": 650129,
+        "word": "成都世运会今日闭幕",
+        "onboard_time": 1755388758,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 645357,
+        "num": 645357,
+        "word": "男子在机场用马桶冲走223枚鸟蛋",
+        "onboard_time": 1755400640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486369,
+        "num": 486369,
+        "word": "续面女顾客称和面馆老板不再和解",
+        "onboard_time": 1755401061,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479554,
+        "num": 479554,
+        "word": "难怪现在奶茶三分糖都很甜",
+        "onboard_time": 1755387258,
+        "rank": 5,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 438803,
+        "num": 438803,
+        "word": "张若昀唐艺昕云南采菌子",
+        "onboard_time": 1755404061,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414700,
+        "num": 414700,
+        "word": "10岁孩子溺亡家长起诉其4名同伴",
+        "onboard_time": 1755403461,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377049,
+        "num": 377049,
+        "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
+        "onboard_time": 1755398961,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351038,
+        "num": 351038,
+        "word": "江山为聘开机",
+        "onboard_time": 1755395841,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 768134,
+        "num": 345155,
+        "word": "罗永浩曝董宇辉年收入二三十亿",
+        "onboard_time": 1755397701,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 332269,
+        "num": 332269,
+        "word": "内蒙古一地山洪8人遇难",
+        "onboard_time": 1755403521,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 5051,
+        "num": 319501,
+        "word": "喀什女孩告白祖国的话好暖心",
+        "onboard_time": 1755376994,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311047,
+        "num": 311047,
+        "word": "龙门石窟",
+        "onboard_time": 1755398661,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 306507,
+        "num": 306507,
+        "word": "梓渝彩排现场图",
+        "onboard_time": 1755402681,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285260,
+        "num": 285260,
+        "word": "韩网民称古代太监被韩国人垄断",
+        "onboard_time": 1755395659,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 277665,
+        "num": 277665,
+        "word": "肖宇梁时隔4年半进组了",
+        "onboard_time": 1755400341,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273148,
+        "num": 273148,
+        "word": "易烊千玺抢票",
+        "onboard_time": 1755403461,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257486,
+        "num": 257486,
+        "word": "沈腾也确诊白磷型人格",
+        "onboard_time": 1755397881,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255934,
+        "num": 255934,
+        "word": "范曾继子发布父亲看展照片",
+        "onboard_time": 1755405443,
+        "rank": 19,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 286430,
+        "num": 255678,
+        "word": "花少开播把半个内娱的综艺喊过来了",
+        "onboard_time": 1755405081,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244727,
+        "num": 244727,
+        "word": "沈月 我也很久没被人亲了",
+        "onboard_time": 1755405621,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242401,
+        "num": 242401,
+        "word": "藏头诗",
+        "onboard_time": 1755367456,
+        "rank": 22,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 226137,
+        "num": 226137,
+        "word": "杨幂这段没有一句台词",
+        "onboard_time": 1755400700,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197096,
+        "num": 197096,
+        "word": "西湖醋鱼全责",
+        "onboard_time": 1755401061,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196915,
+        "num": 196915,
+        "word": "严浩翔叫自己严shark",
+        "onboard_time": 1755405742,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187730,
+        "num": 187730,
+        "word": "肖战脸一出来就疯狂尖叫",
+        "onboard_time": 1755393741,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180455,
+        "num": 180455,
+        "word": "轻微智障的5个表现",
+        "onboard_time": 1755405742,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178696,
+        "num": 178696,
+        "word": "心动8男六首次约会就1V5",
+        "onboard_time": 1755404423,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154306,
+        "num": 166731,
+        "word": "当kpop遇上tpop",
+        "onboard_time": 1755405383,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166451,
+        "num": 166451,
+        "word": "内蒙古乌拉特后旗山洪已造成8人遇难4人失联",
+        "onboard_time": 1755406042,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162712,
+        "num": 162712,
+        "word": "生万物 万物生",
+        "onboard_time": 1755406162,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26912,
+        "num": 161766,
+        "word": "网警发布防范指南不让科技偷走隐私",
+        "onboard_time": 1755400761,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160936,
+        "num": 160936,
+        "word": "南京二手房遇冷房东选择下架出租",
+        "onboard_time": 1755404182,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159481,
+        "num": 159481,
+        "word": "宜家海报 海鸥屎",
+        "onboard_time": 1755402801,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154914,
+        "num": 154914,
+        "word": "普京开条件",
+        "onboard_time": 1755406042,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60578,
+        "num": 154596,
+        "word": "外卖小哥回应发现血枕头",
+        "onboard_time": 1755405261,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56588,
+        "num": 154292,
+        "word": "陈飞宇贵公子走进泰兰德",
+        "onboard_time": 1755406101,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39314,
+        "num": 153995,
+        "word": "江苏2男生当着老人面抢走两条烟",
+        "onboard_time": 1755405682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21849,
+        "num": 153540,
+        "word": "曾黎直播种菜",
+        "onboard_time": 1755405981,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153262,
+        "num": 153262,
+        "word": "香奈儿从童星到爽文大女主",
+        "onboard_time": 1755404902,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147349,
+        "num": 147349,
+        "word": "一年一部年代剧",
+        "onboard_time": 1755404360,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140926,
+        "num": 140926,
+        "word": "突然好轻松一点也不焦虑了",
+        "onboard_time": 1755405020,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137907,
+        "num": 137907,
+        "word": "秦海璐吐槽费左氏催生",
+        "onboard_time": 1755405922,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133200,
+        "num": 133200,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129981,
+        "num": 129981,
+        "word": "看生万物三天俺被腌入味了",
+        "onboard_time": 1755405081,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130693,
+        "num": 129616,
+        "word": "BTS直播",
+        "onboard_time": 1755401180,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125754,
+        "num": 125754,
+        "word": "26岁日本男子下山时被棕熊拖走",
+        "onboard_time": 1755404002,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125555,
+        "num": 125555,
+        "word": "梓渝话筒颜色换了",
+        "onboard_time": 1755395841,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124387,
+        "num": 124387,
+        "word": "苏苏被逐出费家",
+        "onboard_time": 1755395841,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}
