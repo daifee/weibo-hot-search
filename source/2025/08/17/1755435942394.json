@@ -1,0 +1,410 @@
+{
+  "runTime": 1755435942394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1384285,
+        "num": 1384285,
+        "word": "孙怡 结婚得到的要比我赚钱幸福得多",
+        "onboard_time": 1755429743,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685897,
+        "num": 685897,
+        "word": "3女子买房避暑被树砸致1死2伤",
+        "onboard_time": 1755431723,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8929,
+        "num": 599025,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 568615,
+        "num": 568615,
+        "word": "九三阅兵演练现场",
+        "onboard_time": 1755429801,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 441789,
+        "num": 441789,
+        "word": "林高远止步欧洲大满贯首轮",
+        "onboard_time": 1755434903,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394966,
+        "num": 394966,
+        "word": "刘宇宁直播",
+        "onboard_time": 1755430581,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334213,
+        "num": 334213,
+        "word": "中国军人的脚步声太齐了",
+        "onboard_time": 1755431903,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287875,
+        "num": 287875,
+        "word": "TES对战BLG",
+        "onboard_time": 1755430764,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 277424,
+        "num": 277424,
+        "word": "生万物",
+        "onboard_time": 1755431842,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277008,
+        "num": 277008,
+        "word": "金九",
+        "onboard_time": 1755415162,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 543821,
+        "num": 276006,
+        "word": "虞书欣双麻花辫抹胸造型",
+        "onboard_time": 1755431002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525354,
+        "num": 273636,
+        "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+        "onboard_time": 1755426202,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525237,
+        "num": 269599,
+        "word": "韩安冉小女儿从出生到现在经常生病",
+        "onboard_time": 1755432082,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 393435,
+        "num": 266495,
+        "word": "音乐博主辟谣梓渝假唱",
+        "onboard_time": 1755432922,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303976,
+        "num": 261005,
+        "word": "微信号真的会透露很多隐私",
+        "onboard_time": 1755426442,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293813,
+        "num": 259623,
+        "word": "小鹿的备孕方式还是太超前了",
+        "onboard_time": 1755432983,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257413,
+        "num": 257413,
+        "word": "戚薇大方承认医美过度",
+        "onboard_time": 1755434663,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238692,
+        "num": 238692,
+        "word": "肖战余烬共生曲",
+        "onboard_time": 1755434962,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61353,
+        "num": 238594,
+        "word": "苏超现场网速第一友谊第十四",
+        "onboard_time": 1755434062,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103347,
+        "num": 238473,
+        "word": "12岁自闭症男孩大理洱海走失",
+        "onboard_time": 1755432144,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671292,
+        "num": 238285,
+        "word": "马天宇 啥也不会只会哭",
+        "onboard_time": 1755427643,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236069,
+        "num": 238014,
+        "word": "iPhone千万别删的自带软件",
+        "onboard_time": 1755423263,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237983,
+        "num": 237983,
+        "word": "新西兰警方回应收到中式锦旗",
+        "onboard_time": 1755432744,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201741,
+        "num": 201741,
+        "word": "微信转账记得加一个动作",
+        "onboard_time": 1755406700,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199297,
+        "num": 199297,
+        "word": "封大脚让人感觉像三伏天喝了碗凉水",
+        "onboard_time": 1755434962,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192250,
+        "num": 192250,
+        "word": "世运闭幕式",
+        "onboard_time": 1755435144,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184087,
+        "num": 184087,
+        "word": "男子杀妻后欲网购冰柜藏匿尸体",
+        "onboard_time": 1755419602,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174818,
+        "num": 174818,
+        "word": "张子枫说广东凉茶可以代替冰美式",
+        "onboard_time": 1755434663,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162953,
+        "num": 162953,
+        "word": "章若楠就这样穿着人字拖出现了",
+        "onboard_time": 1755432082,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151441,
+        "num": 151441,
+        "word": "当当网创始人李国庆大婚",
+        "onboard_time": 1755420922,
+        "rank": 29,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 150249,
+        "num": 150249,
+        "word": "JDG常规赛A1收官",
+        "onboard_time": 1755435501,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144853,
+        "num": 144853,
+        "word": "苏超",
+        "onboard_time": 1755431903,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140755,
+        "num": 140755,
+        "word": "aespa音乐节舞台",
+        "onboard_time": 1755433762,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136329,
+        "num": 136329,
+        "word": "胡歌刘诗诗袁弘送李国立餐馆花篮",
+        "onboard_time": 1755433343,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132336,
+        "num": 132336,
+        "word": "苏超南通vs连云港",
+        "onboard_time": 1755435564,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129510,
+        "num": 129510,
+        "word": "五月天演唱会上偶遇李现",
+        "onboard_time": 1755435082,
+        "rank": 35,
+        "category": "演出,作品衍生"
+      },
+      {
+        "raw_hot": 128149,
+        "num": 128149,
+        "word": "钱天一vs桥本帆乃香",
+        "onboard_time": 1755434423,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125689,
+        "num": 125689,
+        "word": "刘宇宁 丹东野生代言人上线",
+        "onboard_time": 1755425002,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124254,
+        "num": 124254,
+        "word": "孙怡送马天宇一辆三轮车",
+        "onboard_time": 1755431002,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120341,
+        "num": 120341,
+        "word": "苏州火车站女厕标识被指易误解为男厕",
+        "onboard_time": 1755433343,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119804,
+        "num": 119804,
+        "word": "许魏洲回应披哥一公淘汰",
+        "onboard_time": 1755434543,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118130,
+        "num": 118130,
+        "word": "苏超南京vs盐城",
+        "onboard_time": 1755432862,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118012,
+        "num": 118012,
+        "word": "陈飞宇祝大家焦财进宝",
+        "onboard_time": 1755435262,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115343,
+        "num": 115343,
+        "word": "王曼昱这球太能防了",
+        "onboard_time": 1755434782,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114085,
+        "num": 114085,
+        "word": "听说鹿晗邀请你来演唱会",
+        "onboard_time": 1755434003,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112305,
+        "num": 112305,
+        "word": "方便面3年少卖40亿包",
+        "onboard_time": 1755433762,
+        "rank": 45,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 107898,
+        "num": 107898,
+        "word": "人人人长白山人人人",
+        "onboard_time": 1755429022,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107384,
+        "num": 107384,
+        "word": "孙一宁在韩国买衣服被店员翻白眼",
+        "onboard_time": 1755413903,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104317,
+        "num": 104317,
+        "word": "毛不易把演唱会搬到音乐节",
+        "onboard_time": 1755434122,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101637,
+        "num": 101637,
+        "word": "苏超盐城2比1南京",
+        "onboard_time": 1755435622,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#使绿水青山产生巨大效益#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755435065398,
+  "endTime": 1755435942394,
   "band_list": [
     {
       "raw_hot": 2033517,
@@ -187,6 +187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 685897,
+      "num": 685897,
+      "word": "3女子买房避暑被树砸致1死2伤",
+      "onboard_time": 1755431723,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 679055,
       "num": 679055,
       "word": "苏苏被逐出费家",
@@ -251,16 +259,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 612039,
-      "num": 612039,
-      "word": "3女子买房避暑被树砸致1死2伤",
-      "onboard_time": 1755431723,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 607679,
-      "num": 246976,
+      "num": 276006,
       "word": "虞书欣双麻花辫抹胸造型",
       "onboard_time": 1755431002,
       "rank": 10,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 531669,
-      "num": 240858,
+      "num": 269599,
       "word": "韩安冉小女儿从出生到现在经常生病",
       "onboard_time": 1755432082,
       "rank": 12,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 451334,
-      "num": 236065,
+      "num": 266495,
       "word": "音乐博主辟谣梓渝假唱",
       "onboard_time": 1755432922,
       "rank": 13,
@@ -441,6 +441,14 @@
       "onboard_time": 1755397881,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441789,
+      "num": 441789,
+      "word": "林高远止步欧洲大满贯首轮",
+      "onboard_time": 1755434903,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 415273,
@@ -579,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 334213,
+      "num": 334213,
+      "word": "中国军人的脚步声太齐了",
+      "onboard_time": 1755431903,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 332269,
       "num": 342272,
       "word": "内蒙古一地山洪8人遇难",
@@ -619,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308533,
-      "num": 308533,
-      "word": "中国军人的脚步声太齐了",
-      "onboard_time": 1755431903,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 302667,
       "num": 302667,
       "word": "肖宇梁时隔4年半进组了",
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 301309,
-      "num": 229120,
+      "num": 259623,
       "word": "小鹿的备孕方式还是太超前了",
       "onboard_time": 1755432983,
       "rank": 15,
@@ -657,6 +665,14 @@
       "onboard_time": 1755410481,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287875,
+      "num": 287875,
+      "word": "TES对战BLG",
+      "onboard_time": 1755430764,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 287461,
@@ -720,6 +736,14 @@
       "word": "张凌赫友情出演生万物",
       "onboard_time": 1755344544,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277424,
+      "num": 277424,
+      "word": "生万物",
+      "onboard_time": 1755344363,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -787,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 257413,
+      "num": 257413,
+      "word": "戚薇大方承认医美过度",
+      "onboard_time": 1755434663,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249946,
       "num": 249946,
       "word": "iPhone可以很富士",
@@ -819,19 +851,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238692,
+      "num": 238692,
+      "word": "肖战余烬共生曲",
+      "onboard_time": 1755434962,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237983,
+      "num": 251027,
+      "word": "新西兰警方回应收到中式锦旗",
+      "onboard_time": 1755432744,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 234087,
       "num": 234087,
       "word": "这竟然是杨幂孙绍龙",
       "onboard_time": 1755424343,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 227437,
-      "num": 227437,
-      "word": "生万物",
-      "onboard_time": 1755344363,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -947,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199297,
+      "num": 199297,
+      "word": "封大脚让人感觉像三伏天喝了碗凉水",
+      "onboard_time": 1755434962,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199267,
       "num": 227565,
       "word": "感觉陈星旭一来大家整个都活过来",
@@ -1016,6 +1064,14 @@
       "word": "谷爱凌发文称因人为事故受伤",
       "onboard_time": 1755387078,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192250,
+      "num": 192250,
+      "word": "世运闭幕式",
+      "onboard_time": 1755435144,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1129,6 +1185,14 @@
       "onboard_time": 1755419902,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174818,
+      "num": 174818,
+      "word": "张子枫说广东凉茶可以代替冰美式",
+      "onboard_time": 1755434663,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 174486,
@@ -1299,6 +1363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162953,
+      "num": 162953,
+      "word": "章若楠就这样穿着人字拖出现了",
+      "onboard_time": 1755432082,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162096,
       "num": 315995,
       "word": "内蒙古乌拉特后旗山洪已致9人遇难",
@@ -1467,14 +1539,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 151542,
-      "num": 151542,
-      "word": "章若楠就这样穿着人字拖出现了",
-      "onboard_time": 1755432082,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151070,
       "num": 151070,
       "word": "撒贝宁 原来央视主持人现实中长这样",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1755407780,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 150249,
+      "num": 150249,
+      "word": "JDG常规赛A1收官",
+      "onboard_time": 1755435501,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 150078,
@@ -1529,14 +1601,6 @@
       "onboard_time": 1755409281,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148715,
-      "num": 148715,
-      "word": "封大脚让人感觉像三伏天喝了碗凉水",
-      "onboard_time": 1755434962,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 147771,
@@ -1755,6 +1819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136329,
+      "num": 136329,
+      "word": "胡歌刘诗诗袁弘送李国立餐馆花篮",
+      "onboard_time": 1755433343,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136089,
       "num": 136089,
       "word": "于文文回应粉丝穿婚纱看演唱会",
@@ -1875,12 +1947,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 132072,
-      "num": 132072,
-      "word": "胡歌刘诗诗袁弘送李国立餐馆花篮",
-      "onboard_time": 1755433343,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 132336,
+      "num": 132336,
+      "word": "苏超南通vs连云港",
+      "onboard_time": 1755435564,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 131994,
@@ -1931,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129510,
+      "num": 129510,
+      "word": "五月天演唱会上偶遇李现",
+      "onboard_time": 1755435082,
+      "rank": 35,
+      "category": "演出,作品衍生"
+    },
+    {
       "raw_hot": 128971,
       "num": 128971,
       "word": "撒贝宁 马丽都出来沈腾呢",
@@ -1945,14 +2025,6 @@
       "onboard_time": 1755393560,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127940,
-      "num": 127940,
-      "word": "戚薇大方承认医美过度",
-      "onboard_time": 1755434663,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 127903,
@@ -2035,14 +2107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123706,
-      "num": 123706,
-      "word": "肖战余烬共生曲",
-      "onboard_time": 1755434962,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123487,
       "num": 123487,
       "word": "抵债猫",
@@ -2059,16 +2123,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122877,
-      "num": 122877,
-      "word": "张子枫说广东凉茶可以代替冰美式",
-      "onboard_time": 1755434663,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122867,
-      "num": 122867,
+      "num": 238473,
       "word": "12岁自闭症男孩大理洱海走失",
       "onboard_time": 1755432144,
       "rank": 43,
@@ -2203,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118012,
+      "num": 118012,
+      "word": "陈飞宇祝大家焦财进宝",
+      "onboard_time": 1755435262,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117693,
       "num": 136870,
       "word": "全场的消费由刘宇宁买单",
@@ -2267,14 +2331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116177,
-      "num": 251027,
-      "word": "新西兰警方回应收到中式锦旗",
-      "onboard_time": 1755432744,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 116078,
       "num": 116078,
       "word": "苏醒三个舞台用了三种音色",
@@ -2313,14 +2369,6 @@
       "onboard_time": 1755425901,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113340,
-      "num": 113340,
-      "word": "TES对战BLG",
-      "onboard_time": 1755430764,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 113282,
@@ -2475,14 +2523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103784,
-      "num": 161303,
-      "word": "林高远止步欧洲大满贯首轮",
-      "onboard_time": 1755434903,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103625,
       "num": 103625,
       "word": "成都世运会中国36金17银11铜",
@@ -2521,6 +2561,14 @@
       "onboard_time": 1755420143,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101637,
+      "num": 101637,
+      "word": "苏超盐城2比1南京",
+      "onboard_time": 1755435622,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101174,
@@ -3123,6 +3171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61353,
+      "num": 238594,
+      "word": "苏超现场网速第一友谊第十四",
+      "onboard_time": 1755434062,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61093,
       "num": 224188,
       "word": "花少脆皮团爆改铁皮团",
@@ -3137,14 +3193,6 @@
       "onboard_time": 1755405261,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58773,
-      "num": 210900,
-      "word": "苏超现场网速第一友谊第十四",
-      "onboard_time": 1755434062,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 56588,
