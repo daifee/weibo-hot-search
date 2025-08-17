@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755406409970,
+  "endTime": 1755408423356,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2425,6 +2425,14 @@
       "onboard_time": 1754040142,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1139549,
+      "num": 549140,
+      "word": "戚薇说打肉毒打僵了",
+      "onboard_time": 1755406880,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1137183,
@@ -6459,6 +6467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 605931,
+      "num": 328409,
+      "word": "沈月 我也很久没被人亲了",
+      "onboard_time": 1755405621,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605244,
       "num": 605244,
       "word": "红牛 王一博",
@@ -7459,6 +7475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547801,
+      "num": 325106,
+      "word": "轻微智障的5个表现",
+      "onboard_time": 1755405742,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 546669,
       "num": 546669,
       "word": "黄岩岛",
@@ -7707,6 +7731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 528121,
+      "num": 476475,
+      "word": "张若昀唐艺昕云南采菌子",
+      "onboard_time": 1755404061,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527601,
       "num": 527601,
       "word": "嫁给神你无需自卑",
@@ -7904,6 +7936,14 @@
       "word": "14岁女孩遭殴打两人被送学校矫正",
       "onboard_time": 1754271980,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 519344,
+      "num": 519344,
+      "word": "10岁孩子溺亡家长起诉其4名同伴",
+      "onboard_time": 1755403461,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -9451,14 +9491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438803,
-      "num": 438803,
-      "word": "张若昀唐艺昕云南采菌子",
-      "onboard_time": 1755404061,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437752,
       "num": 500743,
       "word": "21岁小伙被骗至缅甸近1年经常挨打",
@@ -9897,14 +9929,6 @@
       "onboard_time": 1755317841,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 414700,
-      "num": 414700,
-      "word": "10岁孩子溺亡家长起诉其4名同伴",
-      "onboard_time": 1755403461,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 414592,
@@ -12035,6 +12059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335046,
+      "num": 335046,
+      "word": "范曾继子发布父亲看展照片",
+      "onboard_time": 1755405443,
+      "rank": 45,
+      "category": "民生新闻,读书作家"
+    },
+    {
       "raw_hot": 335031,
       "num": 335031,
       "word": "日本战败投降后竟曾留下一支伏兵",
@@ -12281,6 +12313,14 @@
       "onboard_time": 1754013982,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 329671,
+      "num": 329671,
+      "word": "普京开条件",
+      "onboard_time": 1755406042,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 329362,
@@ -12657,6 +12697,14 @@
       "onboard_time": 1755053663,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 317445,
+      "num": 317445,
+      "word": "微信转账记得加一个动作",
+      "onboard_time": 1755406700,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 317010,
@@ -15219,14 +15267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255934,
-      "num": 255934,
-      "word": "范曾继子发布父亲看展照片",
-      "onboard_time": 1755405443,
-      "rank": 45,
-      "category": "民生新闻,读书作家"
-    },
-    {
       "raw_hot": 255864,
       "num": 255864,
       "word": "毛不易私下向李雪琴打听李诞八卦",
@@ -15763,14 +15803,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 244727,
-      "num": 244727,
-      "word": "沈月 我也很久没被人亲了",
-      "onboard_time": 1755405621,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244562,
       "num": 244562,
       "word": "ACT对战GW",
@@ -16016,6 +16048,14 @@
       "word": "封大脚发现绣绣秘密",
       "onboard_time": 1755270984,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 239827,
+      "num": 239827,
+      "word": "生万物 万物生",
+      "onboard_time": 1755406162,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -16497,6 +16537,14 @@
       "onboard_time": 1754699000,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230660,
+      "num": 230660,
+      "word": "从140斤瘦到103斤的真实变化",
+      "onboard_time": 1755406700,
+      "rank": 16,
+      "category": "运动健身"
     },
     {
       "raw_hot": 230596,
@@ -23395,14 +23443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180455,
-      "num": 180455,
-      "word": "轻微智障的5个表现",
-      "onboard_time": 1755405742,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 180453,
       "num": 180453,
       "word": "有人为领生育补贴迁户至湖北天门",
@@ -24521,6 +24561,14 @@
       "onboard_time": 1755075503,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173961,
+      "num": 173961,
+      "word": "于适带领中国青少年骑射队夺冠",
+      "onboard_time": 1755406942,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 173903,
@@ -26763,14 +26811,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 162712,
-      "num": 162712,
-      "word": "生万物 万物生",
-      "onboard_time": 1755406162,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162664,
       "num": 198400,
       "word": "张晚意 猜猜第五张图里有什么",
@@ -27561,6 +27601,14 @@
       "onboard_time": 1754193087,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159414,
+      "num": 159414,
+      "word": "浪浪山小妖怪收到大圣毫毛后",
+      "onboard_time": 1755407721,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 159316,
@@ -28633,14 +28681,6 @@
       "onboard_time": 1755002544,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154914,
-      "num": 154914,
-      "word": "普京开条件",
-      "onboard_time": 1755406042,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 154889,
@@ -29769,6 +29809,14 @@
       "onboard_time": 1754144669,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150405,
+      "num": 150405,
+      "word": "去新疆的100个理由",
+      "onboard_time": 1755407780,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 150378,
@@ -32865,6 +32913,14 @@
       "onboard_time": 1754052501,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139467,
+      "num": 139467,
+      "word": "范曾4段婚姻多个子女或引继承问题",
+      "onboard_time": 1755407542,
+      "rank": 31,
+      "category": "民生新闻,读书作家"
     },
     {
       "raw_hot": 139443,
@@ -40539,6 +40595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116713,
+      "num": 116713,
+      "word": "周震南喊话龙丹妮说就剩六个",
+      "onboard_time": 1755408262,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116668,
       "num": 116668,
       "word": "苹果在美投入将增至6000亿美元",
@@ -41329,6 +41393,14 @@
       "onboard_time": 1755240802,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114049,
+      "num": 114049,
+      "word": "全场的消费由刘宇宁买单",
+      "onboard_time": 1755408142,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 114047,
@@ -43105,6 +43177,14 @@
       "onboard_time": 1754836705,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 109059,
+      "num": 109059,
+      "word": "建议微信学一下QQ这些功能",
+      "onboard_time": 1755408020,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 108961,
@@ -45323,6 +45403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100189,
+      "num": 100189,
+      "word": "花少预告放弃了冲突剪辑",
+      "onboard_time": 1755406641,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100188,
       "num": 100188,
       "word": "太阳大到出地铁以为上天堂了",
@@ -45385,6 +45473,14 @@
       "onboard_time": 1754376322,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99797,
+      "num": 99797,
+      "word": "张真源期待见面",
+      "onboard_time": 1755407843,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 99783,
@@ -45984,6 +46080,14 @@
       "word": "石洵瑶3比2伊藤美诚",
       "onboard_time": 1754718262,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97286,
+      "num": 97286,
+      "word": "UFC319",
+      "onboard_time": 1755408020,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -47625,6 +47729,14 @@
       "onboard_time": 1753979660,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 88682,
+      "num": 99868,
+      "word": "李钟硕拿我手机自拍",
+      "onboard_time": 1755407181,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 88568,
@@ -54139,6 +54251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 33328,
+      "num": 650129,
+      "word": "成都世运会今日闭幕",
+      "onboard_time": 1755388758,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33228,
       "num": 115222,
       "word": "特朗普又威胁普京",
@@ -56009,14 +56129,6 @@
       "onboard_time": 1754999663,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16570,
-      "num": 650129,
-      "word": "成都世运会今日闭幕",
-      "onboard_time": 1755388758,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 16536,

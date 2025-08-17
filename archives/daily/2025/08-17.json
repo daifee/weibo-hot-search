@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755406409970,
+  "endTime": 1755408423356,
   "band_list": [
     {
       "raw_hot": 1812521,
@@ -9,6 +9,14 @@
       "onboard_time": 1755388339,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1139549,
+      "num": 549140,
+      "word": "戚薇说打肉毒打僵了",
+      "onboard_time": 1755406880,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1063937,
@@ -107,6 +115,14 @@
       "category": "民生新闻,读书作家"
     },
     {
+      "raw_hot": 605931,
+      "num": 328409,
+      "word": "沈月 我也很久没被人亲了",
+      "onboard_time": 1755405621,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580800,
       "num": 580800,
       "word": "台风母体来了",
@@ -123,11 +139,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 547801,
+      "num": 325106,
+      "word": "轻微智障的5个表现",
+      "onboard_time": 1755405742,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 536499,
       "num": 536499,
       "word": "续面女顾客称和面馆老板不再和解",
       "onboard_time": 1755401061,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528121,
+      "num": 476475,
+      "word": "张若昀唐艺昕云南采菌子",
+      "onboard_time": 1755404061,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 519344,
+      "num": 519344,
+      "word": "10岁孩子溺亡家长起诉其4名同伴",
+      "onboard_time": 1755403461,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -177,22 +217,6 @@
       "onboard_time": 1755397881,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 438803,
-      "num": 438803,
-      "word": "张若昀唐艺昕云南采菌子",
-      "onboard_time": 1755404061,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 414700,
-      "num": 414700,
-      "word": "10岁孩子溺亡家长起诉其4名同伴",
-      "onboard_time": 1755403461,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 411643,
@@ -259,6 +283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 335046,
+      "num": 335046,
+      "word": "范曾继子发布父亲看展照片",
+      "onboard_time": 1755405443,
+      "rank": 45,
+      "category": "民生新闻,读书作家"
+    },
+    {
       "raw_hot": 334567,
       "num": 334567,
       "word": "梓渝彩排现场图",
@@ -275,6 +307,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 329671,
+      "num": 329671,
+      "word": "普京开条件",
+      "onboard_time": 1755406042,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 320142,
       "num": 390502,
       "word": "作家梁晓声再谈孙颖莎",
@@ -289,6 +329,14 @@
       "onboard_time": 1755395361,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317445,
+      "num": 317445,
+      "word": "微信转账记得加一个动作",
+      "onboard_time": 1755406700,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 311492,
@@ -395,20 +443,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 255934,
-      "num": 255934,
-      "word": "范曾继子发布父亲看展照片",
-      "onboard_time": 1755405443,
-      "rank": 45,
-      "category": "民生新闻,读书作家"
-    },
-    {
-      "raw_hot": 244727,
-      "num": 244727,
-      "word": "沈月 我也很久没被人亲了",
-      "onboard_time": 1755405621,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 239827,
+      "num": 239827,
+      "word": "生万物 万物生",
+      "onboard_time": 1755406162,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 239197,
@@ -417,6 +457,14 @@
       "onboard_time": 1755334102,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230660,
+      "num": 230660,
+      "word": "从140斤瘦到103斤的真实变化",
+      "onboard_time": 1755406700,
+      "rank": 16,
+      "category": "运动健身"
     },
     {
       "raw_hot": 223847,
@@ -571,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180455,
-      "num": 180455,
-      "word": "轻微智障的5个表现",
-      "onboard_time": 1755405742,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 176080,
       "num": 176080,
       "word": "徐如蓝高社会化水平的魅力",
@@ -587,12 +627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173961,
+      "num": 173961,
+      "word": "于适带领中国青少年骑射队夺冠",
+      "onboard_time": 1755406942,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 171458,
       "num": 171458,
       "word": "南京二手房遇冷房东选择下架出租",
       "onboard_time": 1755404182,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171239,
+      "num": 197389,
+      "word": "献鱼",
+      "onboard_time": 1755349703,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 171011,
@@ -643,20 +699,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162712,
-      "num": 162712,
-      "word": "生万物 万物生",
-      "onboard_time": 1755406162,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160903,
       "num": 160903,
       "word": "37岁每天坚持运动一小时后的变化",
       "onboard_time": 1755397641,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 159414,
+      "num": 159414,
+      "word": "浪浪山小妖怪收到大圣毫毛后",
+      "onboard_time": 1755407721,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 157800,
@@ -683,14 +739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154914,
-      "num": 154914,
-      "word": "普京开条件",
-      "onboard_time": 1755406042,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 154306,
       "num": 166731,
       "word": "当kpop遇上tpop",
@@ -705,6 +753,14 @@
       "onboard_time": 1755399382,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 150405,
+      "num": 150405,
+      "word": "去新疆的100个理由",
+      "onboard_time": 1755407780,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 150078,
@@ -769,6 +825,14 @@
       "onboard_time": 1755400281,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139467,
+      "num": 139467,
+      "word": "范曾4段婚姻多个子女或引继承问题",
+      "onboard_time": 1755407542,
+      "rank": 31,
+      "category": "民生新闻,读书作家"
     },
     {
       "raw_hot": 139069,
@@ -1019,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116713,
+      "num": 116713,
+      "word": "周震南喊话龙丹妮说就剩六个",
+      "onboard_time": 1755408262,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116078,
       "num": 116078,
       "word": "苏醒三个舞台用了三种音色",
@@ -1035,12 +1107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114068,
-      "num": 197389,
-      "word": "献鱼",
-      "onboard_time": 1755349703,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 114049,
+      "num": 114049,
+      "word": "全场的消费由刘宇宁买单",
+      "onboard_time": 1755408142,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 113282,
@@ -1067,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109059,
+      "num": 109059,
+      "word": "建议微信学一下QQ这些功能",
+      "onboard_time": 1755408020,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106826,
       "num": 106826,
       "word": "范曾",
@@ -1091,12 +1171,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100189,
+      "num": 100189,
+      "word": "花少预告放弃了冲突剪辑",
+      "onboard_time": 1755406641,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99797,
+      "num": 99797,
+      "word": "张真源期待见面",
+      "onboard_time": 1755407843,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98074,
       "num": 196842,
       "word": "微信加密方法",
       "onboard_time": 1755356542,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 97286,
+      "num": 97286,
+      "word": "UFC319",
+      "onboard_time": 1755408020,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 93828,
@@ -1129,6 +1233,14 @@
       "onboard_time": 1755389419,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88682,
+      "num": 99868,
+      "word": "李钟硕拿我手机自拍",
+      "onboard_time": 1755407181,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 87919,
@@ -1539,6 +1651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33328,
+      "num": 650129,
+      "word": "成都世运会今日闭幕",
+      "onboard_time": 1755388758,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33207,
       "num": 135937,
       "word": "逃出电诈园男子靠吃蚯蚓活命",
@@ -1673,14 +1793,6 @@
       "onboard_time": 1755350905,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 16570,
-      "num": 650129,
-      "word": "成都世运会今日闭幕",
-      "onboard_time": 1755388758,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 16388,
