@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755452477545,
+  "endTime": 1755455764371,
   "band_list": [
     {
       "raw_hot": 2703584,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1793971,
+      "num": 1793971,
+      "word": "中国男篮vs澳大利亚男篮",
+      "onboard_time": 1755445343,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1748529,
       "num": 1748529,
       "word": "马頔道歉",
@@ -67,10 +75,10 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1549596,
-      "num": 1549596,
-      "word": "中国男篮vs澳大利亚男篮",
-      "onboard_time": 1755445343,
+      "raw_hot": 1437512,
+      "num": 1437512,
+      "word": "中国男篮亚军",
+      "onboard_time": 1755454937,
       "rank": 1,
       "category": "体育"
     },
@@ -105,6 +113,14 @@
       "onboard_time": 1755367456,
       "rank": 0,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 1049334,
+      "num": 1049334,
+      "word": "胡明轩超神",
+      "onboard_time": 1755453198,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1008611,
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385725,
+      "num": 385725,
+      "word": "中国男篮",
+      "onboard_time": 1755455176,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377049,
       "num": 377049,
       "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
@@ -680,6 +704,14 @@
       "word": "中国队36金17银11铜收官",
       "onboard_time": 1755421102,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 363194,
+      "num": 363194,
+      "word": "中国男篮想证明自己",
+      "onboard_time": 1755448161,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -817,14 +849,6 @@
       "onboard_time": 1755328942,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306813,
-      "num": 306813,
-      "word": "中国男篮想证明自己",
-      "onboard_time": 1755448161,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 302667,
@@ -1977,6 +2001,14 @@
       "onboard_time": 1755399382,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151637,
+      "num": 151637,
+      "word": "一分惜败",
+      "onboard_time": 1755455115,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 151070,
@@ -3403,6 +3435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 91707,
+      "num": 91707,
+      "word": "胡明轩半场15分",
+      "onboard_time": 1755453137,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91485,
       "num": 91485,
       "word": "发明斜刘海气泡的真是天才",
@@ -3731,6 +3771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75850,
+      "num": 61471,
+      "word": "王俊杰太强了",
+      "onboard_time": 1755454937,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75146,
       "num": 196248,
       "word": "马思纯晒合照",
@@ -3811,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61976,
+      "num": 61976,
+      "word": "中国男篮亚洲杯决赛见",
+      "onboard_time": 1755453257,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61353,
       "num": 252956,
       "word": "苏超现场网速第一友谊第十四",
@@ -3881,6 +3937,14 @@
       "onboard_time": 1755438265,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55141,
+      "num": 55141,
+      "word": "中国男篮拼到最后一秒",
+      "onboard_time": 1755455235,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 54960,
@@ -3979,6 +4043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44921,
+      "num": 44921,
+      "word": "中国男篮 意难平",
+      "onboard_time": 1755455356,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44907,
       "num": 149415,
       "word": "求职要求双休遭侮辱当事人发声",
@@ -4065,6 +4137,14 @@
       "onboard_time": 1755357143,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41815,
+      "num": 41815,
+      "word": "曼联0比1阿森纳",
+      "onboard_time": 1755453557,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 41294,
@@ -4380,7 +4460,7 @@
     },
     {
       "raw_hot": 4438,
-      "num": 950102,
+      "num": 1228193,
       "word": "中国队世运会夺金时刻好燃",
       "onboard_time": 1755392360,
       "rank": 2,
