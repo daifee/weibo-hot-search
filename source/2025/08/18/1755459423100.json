@@ -1,0 +1,410 @@
+{
+  "runTime": 1755459423100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 470358,
+        "num": 470358,
+        "word": "中国男篮亚军",
+        "onboard_time": 1755454937,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172495,
+        "num": 172495,
+        "word": "马頔道歉",
+        "onboard_time": 1755445102,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1296,
+        "num": 126172,
+        "word": "中国队世运会夺金时刻好燃",
+        "onboard_time": 1755392360,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110768,
+        "num": 110768,
+        "word": "虞书欣方持续取证中",
+        "onboard_time": 1755437963,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110578,
+        "num": 110578,
+        "word": "胡明轩超神",
+        "onboard_time": 1755453198,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84769,
+        "num": 84769,
+        "word": "中国男篮",
+        "onboard_time": 1755455176,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79600,
+        "num": 79600,
+        "word": "中国男篮 意难平",
+        "onboard_time": 1755455356,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72095,
+        "num": 72095,
+        "word": "戚薇大方承认医美过度",
+        "onboard_time": 1755434663,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66630,
+        "num": 66630,
+        "word": "中国男篮vs澳大利亚男篮",
+        "onboard_time": 1755445343,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55258,
+        "num": 55258,
+        "word": "孙怡 结婚得到的要比我赚钱幸福得多",
+        "onboard_time": 1755429743,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127724,
+        "num": 55082,
+        "word": "褪黑素",
+        "onboard_time": 1755443484,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63982,
+        "num": 55030,
+        "word": "女童头上插刀系妈妈不慎刺入",
+        "onboard_time": 1755446183,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52959,
+        "num": 52959,
+        "word": "一分惜败",
+        "onboard_time": 1755455115,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38760,
+        "num": 38760,
+        "word": "鹿晗对不起这得发",
+        "onboard_time": 1755448400,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38592,
+        "num": 38592,
+        "word": "中国男篮拼到最后一秒",
+        "onboard_time": 1755455235,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36985,
+        "num": 36985,
+        "word": "李连杰称面对死亡已非常淡然",
+        "onboard_time": 1755436705,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35867,
+        "num": 35867,
+        "word": "1750瓶茅台一原所有人已被执行死刑",
+        "onboard_time": 1755441805,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35752,
+        "num": 35752,
+        "word": "不敢想九三阅兵会有多震撼",
+        "onboard_time": 1755440905,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31855,
+        "num": 31855,
+        "word": "普京特朗普有说有笑视频走红",
+        "onboard_time": 1755446240,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29166,
+        "num": 29166,
+        "word": "苏苏文典先婚后爱",
+        "onboard_time": 1755448641,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37289,
+        "num": 28506,
+        "word": "王俊杰太强了",
+        "onboard_time": 1755454937,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32487,
+        "num": 28488,
+        "word": "从表兄妹结婚后胎儿患罕见遗传病",
+        "onboard_time": 1755437364,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27704,
+        "num": 27704,
+        "word": "坐高铁遇400斤邻座12306不该甩锅",
+        "onboard_time": 1755441265,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24489,
+        "num": 24489,
+        "word": "玛莎 谢谢北京",
+        "onboard_time": 1755443723,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24325,
+        "num": 24325,
+        "word": "韩安冉小女儿从出生到现在经常生病",
+        "onboard_time": 1755432082,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24178,
+        "num": 24178,
+        "word": "胡明轩半场15分",
+        "onboard_time": 1755453137,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24024,
+        "num": 24024,
+        "word": "何超云疑似分手",
+        "onboard_time": 1755439644,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23677,
+        "num": 24024,
+        "word": "曼联0比1阿森纳",
+        "onboard_time": 1755453557,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23157,
+        "num": 24024,
+        "word": "五月天演唱会上偶遇李现",
+        "onboard_time": 1755435082,
+        "rank": 28,
+        "category": "演出,作品衍生"
+      },
+      {
+        "raw_hot": 22962,
+        "num": 24024,
+        "word": "中国男篮想证明自己",
+        "onboard_time": 1755448161,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77375,
+        "num": 24024,
+        "word": "茉莉奶白被砸身亡店员系17岁男生",
+        "onboard_time": 1755438864,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27921,
+        "num": 24024,
+        "word": "多女性用棉密码病变速度让医生震惊",
+        "onboard_time": 1755441265,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22335,
+        "num": 24024,
+        "word": "梓渝事业粉狂喜",
+        "onboard_time": 1755447263,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21012,
+        "num": 24024,
+        "word": "曝王楚钦因档期取消金九拍摄",
+        "onboard_time": 1755437484,
+        "rank": 33,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 21003,
+        "num": 24024,
+        "word": "男子杀妻后报警谎称其自杀",
+        "onboard_time": 1755450079,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20748,
+        "num": 24024,
+        "word": "虞书欣双麻花辫抹胸造型",
+        "onboard_time": 1755431002,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20707,
+        "num": 24024,
+        "word": "黄牛代排队买麦当劳奶昔叫价88元",
+        "onboard_time": 1755456615,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19556,
+        "num": 24023,
+        "word": "高铁上小孩吵闹女子却遭家长反怼",
+        "onboard_time": 1755458595,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19428,
+        "num": 24023,
+        "word": "脑梗前手指会出现这3个症状",
+        "onboard_time": 1755446904,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19001,
+        "num": 24023,
+        "word": "刘宇宁 咱们家粉不是入坑是中奖",
+        "onboard_time": 1755443843,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18935,
+        "num": 24023,
+        "word": "九三阅兵演练现场",
+        "onboard_time": 1755429801,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18643,
+        "num": 24023,
+        "word": "生万物热度",
+        "onboard_time": 1755436345,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18466,
+        "num": 24023,
+        "word": "减肥时早睡可能比跑步更管用",
+        "onboard_time": 1755441086,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 18122,
+        "num": 24023,
+        "word": "特朗普说在俄罗斯问题上取得重大进展",
+        "onboard_time": 1755448580,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17926,
+        "num": 24023,
+        "word": "生万物",
+        "onboard_time": 1755431842,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17543,
+        "num": 24023,
+        "word": "花少7首播收视率",
+        "onboard_time": 1755442463,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17333,
+        "num": 24023,
+        "word": "上海新增一所世界500强大学",
+        "onboard_time": 1755437544,
+        "rank": 46,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 17181,
+        "num": 24023,
+        "word": "子夜归",
+        "onboard_time": 1755450439,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17162,
+        "num": 24023,
+        "word": "梓渝新歌",
+        "onboard_time": 1755435983,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17141,
+        "num": 24022,
+        "word": "肖战余烬共生曲",
+        "onboard_time": 1755434962,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#参观这座纪念馆习近平问了68个问题#"
+    }
+  }
+}
