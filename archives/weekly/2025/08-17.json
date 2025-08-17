@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755403722335,
+  "endTime": 1755405629737,
   "band_list": [
     {
       "raw_hot": 1812521,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 701163,
+      "num": 701163,
+      "word": "男子在机场用马桶冲走223枚鸟蛋",
+      "onboard_time": 1755400640,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 686137,
       "num": 686137,
       "word": "iPhone一定要关掉的6个设置",
@@ -83,20 +91,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 674579,
+      "num": 674579,
+      "word": "绣绣的头发再也梳不回去了",
+      "onboard_time": 1755402982,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 606343,
       "num": 425077,
       "word": "徐萌 范曾",
       "onboard_time": 1755392961,
       "rank": 8,
       "category": "民生新闻,读书作家"
-    },
-    {
-      "raw_hot": 585950,
-      "num": 585950,
-      "word": "男子在机场用马桶冲走223枚鸟蛋",
-      "onboard_time": 1755400640,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 580800,
@@ -113,6 +121,14 @@
       "onboard_time": 1755395841,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 536499,
+      "num": 536499,
+      "word": "续面女顾客称和面馆老板不再和解",
+      "onboard_time": 1755401061,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 511430,
@@ -163,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423527,
-      "num": 423527,
-      "word": "续面女顾客称和面馆老板不再和解",
-      "onboard_time": 1755401061,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 411643,
       "num": 411643,
       "word": "韩网民称古代太监被韩国人垄断",
@@ -203,6 +211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 352363,
+      "num": 352363,
+      "word": "龙门石窟",
+      "onboard_time": 1755398661,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 347166,
       "num": 347166,
       "word": "古剑pv",
@@ -217,6 +233,14 @@
       "onboard_time": 1755339443,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 334567,
+      "num": 334567,
+      "word": "梓渝彩排现场图",
+      "onboard_time": 1755402681,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 320142,
@@ -235,12 +259,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313903,
+      "num": 336649,
+      "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
+      "onboard_time": 1755398961,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311492,
       "num": 217255,
       "word": "小海绵一出生就是顶流待遇",
       "onboard_time": 1755328942,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306886,
+      "num": 342272,
+      "word": "内蒙古一地山洪8人遇难",
+      "onboard_time": 1755403521,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 303660,
+      "num": 303660,
+      "word": "10岁孩子溺亡家长起诉其4名同伴",
+      "onboard_time": 1755403461,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302667,
+      "num": 302667,
+      "word": "肖宇梁时隔4年半进组了",
+      "onboard_time": 1755400341,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 287461,
@@ -275,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278468,
-      "num": 278468,
-      "word": "绣绣的头发再也梳不回去了",
-      "onboard_time": 1755402982,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 281514,
+      "num": 281514,
+      "word": "易烊千玺抢票",
+      "onboard_time": 1755403461,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 277619,
@@ -307,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264745,
-      "num": 264745,
-      "word": "梓渝彩排现场图",
-      "onboard_time": 1755402681,
-      "rank": 21,
-      "category": "演出"
+      "raw_hot": 265144,
+      "num": 265144,
+      "word": "张若昀唐艺昕云南采菌子",
+      "onboard_time": 1755404061,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 260469,
@@ -329,14 +385,6 @@
       "onboard_time": 1755357383,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 251430,
-      "num": 251430,
-      "word": "肖宇梁时隔4年半进组了",
-      "onboard_time": 1755400341,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 239197,
@@ -369,6 +417,14 @@
       "onboard_time": 1755340941,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215798,
+      "num": 215798,
+      "word": "心动8男六首次约会就1V5",
+      "onboard_time": 1755404423,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 215278,
@@ -411,28 +467,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204790,
-      "num": 188374,
-      "word": "易烊千玺抢票",
-      "onboard_time": 1755403461,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 202371,
       "num": 210236,
       "word": "天若有情",
       "onboard_time": 1755396501,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199723,
-      "num": 199723,
-      "word": "龙门石窟",
-      "onboard_time": 1755398661,
-      "rank": 22,
-      "category": "旅游"
     },
     {
       "raw_hot": 195592,
@@ -483,12 +523,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188033,
+      "num": 188033,
+      "word": "香奈儿从童星到爽文大女主",
+      "onboard_time": 1755404902,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181688,
+      "num": 181688,
+      "word": "一年一部年代剧",
+      "onboard_time": 1755404360,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177945,
+      "num": 177945,
+      "word": "花少开播把半个内娱的综艺喊过来了",
+      "onboard_time": 1755405081,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176080,
       "num": 176080,
       "word": "徐如蓝高社会化水平的魅力",
       "onboard_time": 1755402921,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171458,
+      "num": 171458,
+      "word": "南京二手房遇冷房东选择下架出租",
+      "onboard_time": 1755404182,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171011,
@@ -521,6 +593,14 @@
       "onboard_time": 1755395900,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165695,
+      "num": 155477,
+      "word": "宜家海报 海鸥屎",
+      "onboard_time": 1755402801,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 160903,
@@ -579,20 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147537,
-      "num": 147537,
-      "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
-      "onboard_time": 1755398961,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146973,
       "num": 146973,
       "word": "古剑单机新作首曝",
       "onboard_time": 1755402860,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146408,
+      "num": 154266,
+      "word": "看生万物三天俺被腌入味了",
+      "onboard_time": 1755405081,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 145381,
@@ -627,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138989,
+      "num": 138989,
+      "word": "祖宗别宠了女主是反派",
+      "onboard_time": 1755403943,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138417,
       "num": 138417,
       "word": "吴谨言陈哲远海报",
@@ -641,6 +729,22 @@
       "onboard_time": 1755401601,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136935,
+      "num": 136935,
+      "word": "26岁日本男子下山时被棕熊拖走",
+      "onboard_time": 1755404002,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 136089,
+      "num": 136089,
+      "word": "于文文回应粉丝穿婚纱看演唱会",
+      "onboard_time": 1755399860,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 135889,
@@ -683,19 +787,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133492,
+      "num": 140174,
+      "word": "花儿与少年同心季观后感",
+      "onboard_time": 1755404781,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132864,
       "num": 114750,
       "word": "展轩刘轩丞一起进场",
       "onboard_time": 1755363741,
       "rank": 15,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 132367,
-      "num": 132367,
-      "word": "于文文回应粉丝穿婚纱看演唱会",
-      "onboard_time": 1755399860,
-      "rank": 43,
       "category": "演出"
     },
     {
@@ -707,12 +811,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131213,
-      "num": 131213,
-      "word": "10岁孩子溺亡家长起诉其4名同伴",
-      "onboard_time": 1755403461,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 131743,
+      "num": 131743,
+      "word": "突然好轻松一点也不焦虑了",
+      "onboard_time": 1755405020,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 128525,
@@ -723,12 +827,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127903,
+      "num": 127903,
+      "word": "心脏原来是长条形的",
+      "onboard_time": 1755404661,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 127427,
       "num": 127427,
       "word": "陈哲远江山为聘开机出妆",
       "onboard_time": 1755396141,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125510,
+      "num": 125510,
+      "word": "范曾继子发布父亲看展照片",
+      "onboard_time": 1755405443,
+      "rank": 45,
+      "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 124586,
+      "num": 124586,
+      "word": "二十五岁是什么感觉",
+      "onboard_time": 1755402261,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 123455,
@@ -763,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121143,
-      "num": 121143,
-      "word": "二十五岁是什么感觉",
-      "onboard_time": 1755402261,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118485,
       "num": 118485,
       "word": "李世民扮演者称演员要养家糊口",
@@ -785,6 +905,14 @@
       "onboard_time": 1755397459,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118358,
+      "num": 118358,
+      "word": "盗墓笔记十年之约",
+      "onboard_time": 1755404002,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 117471,
@@ -811,12 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117360,
-      "num": 117360,
-      "word": "宜家海报 海鸥屎",
-      "onboard_time": 1755402801,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 116932,
+      "num": 116932,
+      "word": "中餐厅",
+      "onboard_time": 1755404602,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 116882,
@@ -881,6 +1009,14 @@
       "onboard_time": 1755386957,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 103938,
+      "num": 136245,
+      "word": "当kpop遇上tpop",
+      "onboard_time": 1755405383,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 102102,
@@ -1179,6 +1315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54390,
+      "num": 159420,
+      "word": "外卖小哥回应发现血枕头",
+      "onboard_time": 1755405261,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52664,
       "num": 52664,
       "word": "房主任自曝嫁给前夫原因",
@@ -1331,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32695,
+      "num": 679344,
+      "word": "网警发布防范指南不让科技偷走隐私",
+      "onboard_time": 1755400761,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32626,
       "num": 37140,
       "word": "普通家庭对女儿最好的托举",
@@ -1345,14 +1497,6 @@
       "onboard_time": 1755348623,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30825,
-      "num": 614536,
-      "word": "网警发布防范指南不让科技偷走隐私",
-      "onboard_time": 1755400761,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28645,
@@ -1417,14 +1561,6 @@
       "onboard_time": 1755335900,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20643,
-      "num": 148943,
-      "word": "内蒙古一地山洪8人遇难",
-      "onboard_time": 1755403521,
-      "rank": 30,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 20315,

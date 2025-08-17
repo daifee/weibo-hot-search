@@ -1,0 +1,410 @@
+{
+  "runTime": 1755405629737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1187688,
+        "num": 1190030,
+        "word": "外卖小哥发现带血枕头报警救人",
+        "onboard_time": 1755388339,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701163,
+        "num": 701163,
+        "word": "男子在机场用马桶冲走223枚鸟蛋",
+        "onboard_time": 1755400640,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32695,
+        "num": 679344,
+        "word": "网警发布防范指南不让科技偷走隐私",
+        "onboard_time": 1755400761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674579,
+        "num": 674579,
+        "word": "绣绣的头发再也梳不回去了",
+        "onboard_time": 1755402982,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536499,
+        "num": 536499,
+        "word": "续面女顾客称和面馆老板不再和解",
+        "onboard_time": 1755401061,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 831927,
+        "num": 503883,
+        "word": "罗永浩曝董宇辉年收入二三十亿",
+        "onboard_time": 1755397701,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 371802,
+        "num": 371802,
+        "word": "江山为聘开机",
+        "onboard_time": 1755395841,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352363,
+        "num": 352363,
+        "word": "龙门石窟",
+        "onboard_time": 1755398661,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 346204,
+        "num": 346204,
+        "word": "难怪现在奶茶三分糖都很甜",
+        "onboard_time": 1755387258,
+        "rank": 8,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 306886,
+        "num": 342272,
+        "word": "内蒙古一地山洪8人遇难",
+        "onboard_time": 1755403521,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 340517,
+        "num": 340517,
+        "word": "韩网民称古代太监被韩国人垄断",
+        "onboard_time": 1755395659,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313903,
+        "num": 336649,
+        "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
+        "onboard_time": 1755398961,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334567,
+        "num": 334567,
+        "word": "梓渝彩排现场图",
+        "onboard_time": 1755402681,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331713,
+        "num": 331713,
+        "word": "沈腾也确诊白磷型人格",
+        "onboard_time": 1755397881,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303660,
+        "num": 303660,
+        "word": "10岁孩子溺亡家长起诉其4名同伴",
+        "onboard_time": 1755403461,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302667,
+        "num": 302667,
+        "word": "肖宇梁时隔4年半进组了",
+        "onboard_time": 1755400341,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289431,
+        "num": 289431,
+        "word": "杨幂这段没有一句台词",
+        "onboard_time": 1755400700,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281514,
+        "num": 281514,
+        "word": "易烊千玺抢票",
+        "onboard_time": 1755403461,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278595,
+        "num": 278595,
+        "word": "藏头诗",
+        "onboard_time": 1755367456,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 265144,
+        "num": 265144,
+        "word": "张若昀唐艺昕云南采菌子",
+        "onboard_time": 1755404061,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229505,
+        "num": 229505,
+        "word": "肖战脸一出来就疯狂尖叫",
+        "onboard_time": 1755393741,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215798,
+        "num": 215798,
+        "word": "心动8男六首次约会就1V5",
+        "onboard_time": 1755404423,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194491,
+        "num": 194491,
+        "word": "西湖醋鱼全责",
+        "onboard_time": 1755401061,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188033,
+        "num": 188033,
+        "word": "香奈儿从童星到爽文大女主",
+        "onboard_time": 1755404902,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181688,
+        "num": 181688,
+        "word": "一年一部年代剧",
+        "onboard_time": 1755404360,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177945,
+        "num": 177945,
+        "word": "花少开播把半个内娱的综艺喊过来了",
+        "onboard_time": 1755405081,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171458,
+        "num": 171458,
+        "word": "南京二手房遇冷房东选择下架出租",
+        "onboard_time": 1755404182,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54390,
+        "num": 159420,
+        "word": "外卖小哥回应发现血枕头",
+        "onboard_time": 1755405261,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159062,
+        "num": 159062,
+        "word": "BTS直播",
+        "onboard_time": 1755401180,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143742,
+        "num": 155550,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165695,
+        "num": 155477,
+        "word": "宜家海报 海鸥屎",
+        "onboard_time": 1755402801,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146408,
+        "num": 154266,
+        "word": "看生万物三天俺被腌入味了",
+        "onboard_time": 1755405081,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153767,
+        "num": 153767,
+        "word": "苏苏被逐出费家",
+        "onboard_time": 1755395841,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147733,
+        "num": 147733,
+        "word": "古剑pv",
+        "onboard_time": 1755401300,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141970,
+        "num": 141970,
+        "word": "美俄会晤机密文件疑泄露",
+        "onboard_time": 1755400040,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133492,
+        "num": 140174,
+        "word": "花儿与少年同心季观后感",
+        "onboard_time": 1755404781,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138989,
+        "num": 138989,
+        "word": "祖宗别宠了女主是反派",
+        "onboard_time": 1755403943,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139401,
+        "num": 138559,
+        "word": "梓渝话筒颜色换了",
+        "onboard_time": 1755395841,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136935,
+        "num": 136935,
+        "word": "26岁日本男子下山时被棕熊拖走",
+        "onboard_time": 1755404002,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103938,
+        "num": 136245,
+        "word": "当kpop遇上tpop",
+        "onboard_time": 1755405383,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136089,
+        "num": 136089,
+        "word": "于文文回应粉丝穿婚纱看演唱会",
+        "onboard_time": 1755399860,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131743,
+        "num": 131743,
+        "word": "突然好轻松一点也不焦虑了",
+        "onboard_time": 1755405020,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136443,
+        "num": 130312,
+        "word": "37岁每天坚持运动一小时后的变化",
+        "onboard_time": 1755397641,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127903,
+        "num": 127903,
+        "word": "心脏原来是长条形的",
+        "onboard_time": 1755404661,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126740,
+        "num": 126740,
+        "word": "蜜雪冰城回应出现蜜雪冰橙",
+        "onboard_time": 1755397223,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125510,
+        "num": 125510,
+        "word": "范曾继子发布父亲看展照片",
+        "onboard_time": 1755405443,
+        "rank": 45,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 124586,
+        "num": 124586,
+        "word": "二十五岁是什么感觉",
+        "onboard_time": 1755402261,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118358,
+        "num": 118358,
+        "word": "盗墓笔记十年之约",
+        "onboard_time": 1755404002,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116932,
+        "num": 116932,
+        "word": "中餐厅",
+        "onboard_time": 1755404602,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115849,
+        "num": 115849,
+        "word": "天若有情",
+        "onboard_time": 1755396501,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
