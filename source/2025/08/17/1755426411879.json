@@ -1,0 +1,410 @@
+{
+  "runTime": 1755426411879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 815257,
+        "num": 1130441,
+        "word": "兄弟俩花400万买到2套抵押房",
+        "onboard_time": 1755420683,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474569,
+        "num": 474569,
+        "word": "微信转账记得加一个动作",
+        "onboard_time": 1755406700,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24483,
+        "num": 385339,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378469,
+        "num": 378469,
+        "word": "金九",
+        "onboard_time": 1755415162,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 357068,
+        "num": 357068,
+        "word": "张维伊精准错过董璇每个需要他的时刻",
+        "onboard_time": 1755423742,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665285,
+        "num": 347224,
+        "word": "当当网创始人李国庆大婚",
+        "onboard_time": 1755420922,
+        "rank": 5,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 336109,
+        "num": 336109,
+        "word": "张雅琪也没躲过张晚意的嘴",
+        "onboard_time": 1755419182,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329747,
+        "num": 329747,
+        "word": "iPhone千万别删的自带软件",
+        "onboard_time": 1755423263,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 307595,
+        "num": 307595,
+        "word": "中国队36金17银11铜收官",
+        "onboard_time": 1755421102,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253882,
+        "num": 253882,
+        "word": "iG官宣JieJie离队",
+        "onboard_time": 1755419182,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 834886,
+        "num": 252031,
+        "word": "一家三口被害  嫌犯精神分裂",
+        "onboard_time": 1755420621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595210,
+        "num": 248048,
+        "word": "男子杀妻后欲网购冰柜藏匿尸体",
+        "onboard_time": 1755419602,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421768,
+        "num": 239331,
+        "word": "孙一宁在韩国买衣服被店员翻白眼",
+        "onboard_time": 1755413903,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414164,
+        "num": 233545,
+        "word": "梓渝回应话筒颜色换了",
+        "onboard_time": 1755423742,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231147,
+        "num": 231147,
+        "word": "这竟然是杨幂孙绍龙",
+        "onboard_time": 1755424343,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204565,
+        "num": 230663,
+        "word": "4岁女儿水泥台踩脚印获父母硬核批注",
+        "onboard_time": 1755422783,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202191,
+        "num": 229623,
+        "word": "张元英上海",
+        "onboard_time": 1755412642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199267,
+        "num": 227565,
+        "word": "感觉陈星旭一来大家整个都活过来",
+        "onboard_time": 1755425243,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170229,
+        "num": 226416,
+        "word": "蜜雪冰橙 蜜雪冰城",
+        "onboard_time": 1755409642,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68447,
+        "num": 224401,
+        "word": "猛士M817价格太香了",
+        "onboard_time": 1755425061,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 272742,
+        "num": 223653,
+        "word": "杨幂接机听取娘声一片",
+        "onboard_time": 1755425362,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223001,
+        "num": 223001,
+        "word": "古剑",
+        "onboard_time": 1755425182,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180171,
+        "num": 180171,
+        "word": "梓渝音乐节",
+        "onboard_time": 1755419721,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172044,
+        "num": 172044,
+        "word": "刘宇宁 丹东野生代言人上线",
+        "onboard_time": 1755425002,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149613,
+        "num": 149613,
+        "word": "李乃文助理 徐志胜兼职",
+        "onboard_time": 1755421822,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141450,
+        "num": 141450,
+        "word": "Swatch在中国市场已卖不动",
+        "onboard_time": 1755423802,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116923,
+        "num": 116923,
+        "word": "5个症状可能是胃癌征兆",
+        "onboard_time": 1755425061,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113738,
+        "num": 113738,
+        "word": "许魏洲发文告别披荆斩棘",
+        "onboard_time": 1755425901,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115912,
+        "num": 112458,
+        "word": "Jiejie回应离开iG",
+        "onboard_time": 1755422423,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60629,
+        "num": 111172,
+        "word": "游戏劝退班22天收费上万元",
+        "onboard_time": 1755424941,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35921,
+        "num": 110501,
+        "word": "90后小伙着急救人的样子真帅",
+        "onboard_time": 1755426141,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 110382,
+        "num": 110382,
+        "word": "徐艺真自己当老板了",
+        "onboard_time": 1755420323,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112816,
+        "num": 110352,
+        "word": "张元英说上海最好吃的是北京烤鸭",
+        "onboard_time": 1755419121,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110253,
+        "num": 110253,
+        "word": "生万物云合",
+        "onboard_time": 1755421102,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109870,
+        "num": 109870,
+        "word": "人在腹中睡祸从天上来",
+        "onboard_time": 1755420323,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100180,
+        "num": 100180,
+        "word": "穿外裤不能上床真的有必要吗",
+        "onboard_time": 1755411142,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99223,
+        "num": 99223,
+        "word": "张桂源托腮wink",
+        "onboard_time": 1755425781,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98804,
+        "num": 98804,
+        "word": "高寒演了一条蛇但狗里狗气的",
+        "onboard_time": 1755423443,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44564,
+        "num": 98507,
+        "word": "五角大楼旁披萨销量又升高了",
+        "onboard_time": 1755425542,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61616,
+        "num": 97659,
+        "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+        "onboard_time": 1755426202,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95236,
+        "num": 97249,
+        "word": "周一请假和周五请假真不是一个感觉",
+        "onboard_time": 1755424823,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95587,
+        "num": 96787,
+        "word": "李连杰生病住院",
+        "onboard_time": 1755411981,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96191,
+        "num": 96191,
+        "word": "网友质疑范曾失联家人为何不报警",
+        "onboard_time": 1755423623,
+        "rank": 42,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 93486,
+        "num": 93486,
+        "word": "试验二十八号B星02星发射成功",
+        "onboard_time": 1755426262,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90729,
+        "num": 90729,
+        "word": "欧阳娜娜我认真搞音乐的女儿回来了",
+        "onboard_time": 1755418342,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89680,
+        "num": 89680,
+        "word": "从140斤瘦到103斤的真实变化",
+        "onboard_time": 1755406700,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 87416,
+        "num": 87416,
+        "word": "不听劝买了别人都不要的一楼",
+        "onboard_time": 1755417144,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86047,
+        "num": 86047,
+        "word": "机场拦截的充电宝成抢手货",
+        "onboard_time": 1755411922,
+        "rank": 47,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 77811,
+        "num": 77811,
+        "word": "山东人吃虾已经nextlevel",
+        "onboard_time": 1755425901,
+        "rank": 48,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 77171,
+        "num": 77171,
+        "word": "3种邪修秒睡法",
+        "onboard_time": 1755415881,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}

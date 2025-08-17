@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755423624056,
+  "endTime": 1755426411879,
   "band_list": [
     {
       "raw_hot": 2033517,
@@ -96,6 +96,22 @@
       "word": "男子杀妻后欲网购冰柜藏匿尸体",
       "onboard_time": 1755419602,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 834886,
+      "num": 252031,
+      "word": "一家三口被害  嫌犯精神分裂",
+      "onboard_time": 1755420621,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 815257,
+      "num": 1130441,
+      "word": "兄弟俩花400万买到2套抵押房",
+      "onboard_time": 1755420683,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -347,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 414164,
+      "num": 233545,
+      "word": "梓渝回应话筒颜色换了",
+      "onboard_time": 1755423742,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 411643,
       "num": 411643,
       "word": "韩网民称古代太监被韩国人垄断",
@@ -371,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378469,
+      "num": 378469,
+      "word": "金九",
+      "onboard_time": 1755415162,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 377049,
       "num": 377049,
       "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
@@ -387,12 +419,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 372150,
-      "num": 372150,
-      "word": "金九",
-      "onboard_time": 1755415162,
-      "rank": 31,
-      "category": "艺人,时尚"
+      "raw_hot": 357068,
+      "num": 357068,
+      "word": "张维伊精准错过董璇每个需要他的时刻",
+      "onboard_time": 1755423742,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 352363,
@@ -435,14 +467,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 336796,
-      "num": 381716,
-      "word": "兄弟俩花400万买到2套抵押房",
-      "onboard_time": 1755420683,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 335526,
       "num": 340615,
       "word": "黄誉博向郑伟道歉",
@@ -465,6 +489,14 @@
       "onboard_time": 1755403521,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 329747,
+      "num": 329747,
+      "word": "iPhone千万别删的自带软件",
+      "onboard_time": 1755423263,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 325033,
@@ -497,6 +529,14 @@
       "onboard_time": 1755328942,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307595,
+      "num": 307595,
+      "word": "中国队36金17银11铜收官",
+      "onboard_time": 1755421102,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 302667,
@@ -595,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 272742,
+      "num": 223653,
+      "word": "杨幂接机听取娘声一片",
+      "onboard_time": 1755425362,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269693,
       "num": 269693,
       "word": "21岁女主播应邀见大哥被强吻",
@@ -609,14 +657,6 @@
       "onboard_time": 1755411981,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262044,
-      "num": 210979,
-      "word": "一家三口被害  嫌犯精神分裂",
-      "onboard_time": 1755420621,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260487,
@@ -667,12 +707,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 231147,
+      "num": 231147,
+      "word": "这竟然是杨幂孙绍龙",
+      "onboard_time": 1755424343,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223847,
       "num": 223847,
       "word": "全村人都知道了绣绣是清白的",
       "onboard_time": 1755387559,
       "rank": 16,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 223001,
+      "num": 223001,
+      "word": "古剑",
+      "onboard_time": 1755425182,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 218160,
@@ -747,11 +803,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204565,
+      "num": 230663,
+      "word": "4岁女儿水泥台踩脚印获父母硬核批注",
+      "onboard_time": 1755422783,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202371,
       "num": 210236,
       "word": "天若有情",
       "onboard_time": 1755396501,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199267,
+      "num": 227565,
+      "word": "感觉陈星旭一来大家整个都活过来",
+      "onboard_time": 1755425243,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -944,6 +1016,14 @@
       "word": "孙怡参观马天宇的农场",
       "onboard_time": 1755412162,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172044,
+      "num": 172044,
+      "word": "刘宇宁 丹东野生代言人上线",
+      "onboard_time": 1755425002,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1219,14 +1299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148601,
-      "num": 173892,
-      "word": "中国队36金17银11铜收官",
-      "onboard_time": 1755421102,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147327,
       "num": 135924,
       "word": "张凌赫王楚然鼻炎受害者联盟",
@@ -1297,6 +1369,14 @@
       "onboard_time": 1755415702,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141450,
+      "num": 141450,
+      "word": "Swatch在中国市场已卖不动",
+      "onboard_time": 1755423802,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140926,
@@ -1643,14 +1723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124353,
-      "num": 124353,
-      "word": "4岁女儿水泥台踩脚印获父母硬核批注",
-      "onboard_time": 1755422783,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123487,
       "num": 123487,
       "word": "抵债猫",
@@ -1803,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116923,
+      "num": 116923,
+      "word": "5个症状可能是胃癌征兆",
+      "onboard_time": 1755425061,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116882,
       "num": 131199,
       "word": "荣成车祸重伤女孩离世父亲发声",
@@ -1841,6 +1921,14 @@
       "onboard_time": 1755419783,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113738,
+      "num": 113738,
+      "word": "许魏洲发文告别披荆斩棘",
+      "onboard_time": 1755425901,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 113282,
@@ -2059,12 +2147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99223,
+      "num": 99223,
+      "word": "张桂源托腮wink",
+      "onboard_time": 1755425781,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99010,
       "num": 99010,
       "word": "男子请育儿假陪幼女看病3天后遭开除",
       "onboard_time": 1755411862,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98804,
+      "num": 98804,
+      "word": "高寒演了一条蛇但狗里狗气的",
+      "onboard_time": 1755423443,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 98129,
@@ -2115,14 +2219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97249,
-      "num": 97249,
-      "word": "高寒演了一条蛇但狗里狗气的",
-      "onboard_time": 1755423443,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97058,
       "num": 113434,
       "word": "养猫后看见啥都想给它做玩具",
@@ -2139,12 +2235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96191,
+      "num": 96191,
+      "word": "网友质疑范曾失联家人为何不报警",
+      "onboard_time": 1755423623,
+      "rank": 42,
+      "category": "民生新闻,读书作家"
+    },
+    {
       "raw_hot": 95277,
       "num": 95277,
       "word": "原来摇头才是最能减肥的",
       "onboard_time": 1755423144,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 95236,
+      "num": 97249,
+      "word": "周一请假和周五请假真不是一个感觉",
+      "onboard_time": 1755424823,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 95073,
@@ -2177,6 +2289,14 @@
       "onboard_time": 1755421282,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93486,
+      "num": 93486,
+      "word": "试验二十八号B星02星发射成功",
+      "onboard_time": 1755426262,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90628,
@@ -2379,14 +2499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80139,
-      "num": 173223,
-      "word": "iPhone千万别删的自带软件",
-      "onboard_time": 1755423263,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 78710,
       "num": 196581,
       "word": "毕雯珺白西装花衬衫look",
@@ -2401,6 +2513,14 @@
       "onboard_time": 1755415162,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77811,
+      "num": 77811,
+      "word": "山东人吃虾已经nextlevel",
+      "onboard_time": 1755425901,
+      "rank": 48,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 77464,
@@ -2459,6 +2579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 68447,
+      "num": 224401,
+      "word": "猛士M817价格太香了",
+      "onboard_time": 1755425061,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67967,
       "num": 136093,
       "word": "张予曦吃夜宵",
@@ -2483,12 +2611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61616,
+      "num": 97659,
+      "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+      "onboard_time": 1755426202,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61093,
       "num": 224188,
       "word": "花少脆皮团爆改铁皮团",
       "onboard_time": 1755409342,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60629,
+      "num": 111172,
+      "word": "游戏劝退班22天收费上万元",
+      "onboard_time": 1755424941,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60578,
@@ -2569,6 +2713,14 @@
       "onboard_time": 1755401841,
       "rank": 19,
       "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 44564,
+      "num": 98507,
+      "word": "五角大楼旁披萨销量又升高了",
+      "onboard_time": 1755425542,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 43381,
@@ -2665,6 +2817,14 @@
       "onboard_time": 1755357982,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35921,
+      "num": 110501,
+      "word": "90后小伙着急救人的样子真帅",
+      "onboard_time": 1755426141,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 35688,
