@@ -1,0 +1,410 @@
+{
+  "runTime": 1755409448148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 752669,
+        "num": 1120427,
+        "word": "外卖小哥发现带血枕头报警救人",
+        "onboard_time": 1755388339,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578466,
+        "num": 578466,
+        "word": "难怪现在奶茶三分糖都很甜",
+        "onboard_time": 1755387258,
+        "rank": 1,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 32140,
+        "num": 503190,
+        "word": "成都世运会今日闭幕",
+        "onboard_time": 1755388758,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1835081,
+        "num": 503135,
+        "word": "戚薇说打肉毒打僵了",
+        "onboard_time": 1755406880,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502740,
+        "num": 502740,
+        "word": "普京开条件",
+        "onboard_time": 1755406042,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 463969,
+        "num": 463969,
+        "word": "张若昀唐艺昕云南采菌子",
+        "onboard_time": 1755404061,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449313,
+        "num": 449313,
+        "word": "微信转账记得加一个动作",
+        "onboard_time": 1755406700,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440293,
+        "num": 440293,
+        "word": "绣绣的头发再也梳不回去了",
+        "onboard_time": 1755402982,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393596,
+        "num": 393596,
+        "word": "10岁孩子溺亡家长起诉其4名同伴",
+        "onboard_time": 1755403461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264167,
+        "num": 264167,
+        "word": "男子在机场用马桶冲走223枚鸟蛋",
+        "onboard_time": 1755400640,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628646,
+        "num": 261089,
+        "word": "沈月 我也很久没被人亲了",
+        "onboard_time": 1755405621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148766,
+        "num": 254106,
+        "word": "应急管理部赴内蒙古山洪现场",
+        "onboard_time": 1755409281,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346343,
+        "num": 247477,
+        "word": "范曾继子发布父亲看展照片",
+        "onboard_time": 1755405443,
+        "rank": 12,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 340007,
+        "num": 239609,
+        "word": "从140斤瘦到103斤的真实变化",
+        "onboard_time": 1755406700,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 311824,
+        "num": 237531,
+        "word": "续面女顾客称和面馆老板不再和解",
+        "onboard_time": 1755401061,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233036,
+        "num": 233036,
+        "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
+        "onboard_time": 1755398961,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207035,
+        "num": 207035,
+        "word": "易烊千玺抢票",
+        "onboard_time": 1755403461,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203030,
+        "num": 203030,
+        "word": "江山为聘开机",
+        "onboard_time": 1755395841,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202576,
+        "num": 202576,
+        "word": "生万物 万物生",
+        "onboard_time": 1755406162,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185676,
+        "num": 200571,
+        "word": "梓渝彩排现场图",
+        "onboard_time": 1755402681,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200306,
+        "num": 200306,
+        "word": "花少开播把半个内娱的综艺喊过来了",
+        "onboard_time": 1755405081,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194020,
+        "num": 194020,
+        "word": "周震南喊话龙丹妮说就剩六个",
+        "onboard_time": 1755408262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176344,
+        "num": 176344,
+        "word": "锦月如歌",
+        "onboard_time": 1755408562,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163687,
+        "num": 163687,
+        "word": "献鱼",
+        "onboard_time": 1755407061,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153342,
+        "num": 153342,
+        "word": "肖宇梁时隔4年半进组了",
+        "onboard_time": 1755400341,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145880,
+        "num": 145880,
+        "word": "范曾4段婚姻多个子女或引继承问题",
+        "onboard_time": 1755407542,
+        "rank": 25,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 142637,
+        "num": 142637,
+        "word": "内蒙古一地山洪8人遇难",
+        "onboard_time": 1755403521,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 139480,
+        "num": 139480,
+        "word": "小杨哥老婆近照",
+        "onboard_time": 1755408801,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 137066,
+        "num": 137066,
+        "word": "时代少年团奇遇主题",
+        "onboard_time": 1755408682,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117693,
+        "num": 136870,
+        "word": "全场的消费由刘宇宁买单",
+        "onboard_time": 1755408142,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22739,
+        "num": 136756,
+        "word": "花少脆皮团爆改铁皮团",
+        "onboard_time": 1755409342,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136737,
+        "num": 136737,
+        "word": "建议微信学一下QQ这些功能",
+        "onboard_time": 1755408020,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135711,
+        "num": 135711,
+        "word": "韩网民称古代太监被韩国人垄断",
+        "onboard_time": 1755395659,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33937,
+        "num": 134170,
+        "word": "马群耀欧阳娜娜合作舞台",
+        "onboard_time": 1755409342,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134070,
+        "num": 134070,
+        "word": "龙门石窟",
+        "onboard_time": 1755398661,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 25522,
+        "num": 130641,
+        "word": "陈飞宇贵公子走进泰兰德",
+        "onboard_time": 1755406101,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130086,
+        "num": 130086,
+        "word": "龚俊防水防盗防路透",
+        "onboard_time": 1755409042,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129538,
+        "num": 129538,
+        "word": "撒贝宁 差点就回今日说法了",
+        "onboard_time": 1755409042,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85955,
+        "num": 128096,
+        "word": "TOP登陆少年体重",
+        "onboard_time": 1755408863,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126904,
+        "num": 126904,
+        "word": "浪浪山小妖怪收到大圣毫毛后",
+        "onboard_time": 1755407721,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126317,
+        "num": 126317,
+        "word": "藏头诗",
+        "onboard_time": 1755367456,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 126156,
+        "num": 126156,
+        "word": "南京二手房遇冷房东选择下架出租",
+        "onboard_time": 1755404182,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114328,
+        "num": 114328,
+        "word": "小杨哥老婆复出了",
+        "onboard_time": 1755409281,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113243,
+        "num": 113243,
+        "word": "普京的和平条件如图",
+        "onboard_time": 1755408442,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105462,
+        "num": 105462,
+        "word": "宜家海报 海鸥屎",
+        "onboard_time": 1755402801,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95468,
+        "num": 95468,
+        "word": "抵债猫",
+        "onboard_time": 1755408922,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93068,
+        "num": 93068,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78939,
+        "num": 92989,
+        "word": "26岁日本男子下山时被棕熊拖走",
+        "onboard_time": 1755404002,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74916,
+        "num": 92720,
+        "word": "古剑pv",
+        "onboard_time": 1755401300,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73029,
+        "num": 92183,
+        "word": "内蒙古乌拉特后旗山洪已造成8人遇难4人失联",
+        "onboard_time": 1755406042,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755408423356,
+  "endTime": 1755409448148,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -881,6 +881,14 @@
       "onboard_time": 1754113223,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1835081,
+      "num": 549140,
+      "word": "戚薇说打肉毒打僵了",
+      "onboard_time": 1755406880,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1821383,
@@ -2425,14 +2433,6 @@
       "onboard_time": 1754040142,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1139549,
-      "num": 549140,
-      "word": "戚薇说打肉毒打僵了",
-      "onboard_time": 1755406880,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1137183,
@@ -6139,6 +6139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628646,
+      "num": 328409,
+      "word": "沈月 我也很久没被人亲了",
+      "onboard_time": 1755405621,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 626769,
       "num": 626769,
       "word": "亚朵酒店被曝疑现别人用过的牙签",
@@ -6465,14 +6473,6 @@
       "onboard_time": 1754410164,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 605931,
-      "num": 328409,
-      "word": "沈月 我也很久没被人亲了",
-      "onboard_time": 1755405621,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 605244,
@@ -8171,6 +8171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502740,
+      "num": 502740,
+      "word": "普京开条件",
+      "onboard_time": 1755406042,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 501704,
       "num": 501704,
       "word": "警方证实女子酒店所喝矿泉水是咸的",
@@ -9193,6 +9201,14 @@
       "onboard_time": 1754411661,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 449313,
+      "num": 449313,
+      "word": "微信转账记得加一个动作",
+      "onboard_time": 1755406700,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 449210,
@@ -11779,6 +11795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 346343,
+      "num": 335046,
+      "word": "范曾继子发布父亲看展照片",
+      "onboard_time": 1755405443,
+      "rank": 45,
+      "category": "民生新闻,读书作家"
+    },
+    {
       "raw_hot": 346198,
       "num": 291138,
       "word": "93年月入4000元上下班的一天",
@@ -11905,6 +11929,14 @@
       "onboard_time": 1754235683,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340007,
+      "num": 239609,
+      "word": "从140斤瘦到103斤的真实变化",
+      "onboard_time": 1755406700,
+      "rank": 16,
+      "category": "运动健身"
     },
     {
       "raw_hot": 339965,
@@ -12057,14 +12089,6 @@
       "onboard_time": 1755049821,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 335046,
-      "num": 335046,
-      "word": "范曾继子发布父亲看展照片",
-      "onboard_time": 1755405443,
-      "rank": 45,
-      "category": "民生新闻,读书作家"
     },
     {
       "raw_hot": 335031,
@@ -12313,14 +12337,6 @@
       "onboard_time": 1754013982,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 329671,
-      "num": 329671,
-      "word": "普京开条件",
-      "onboard_time": 1755406042,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 329362,
@@ -12697,14 +12713,6 @@
       "onboard_time": 1755053663,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 317445,
-      "num": 317445,
-      "word": "微信转账记得加一个动作",
-      "onboard_time": 1755406700,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 317010,
@@ -16537,14 +16545,6 @@
       "onboard_time": 1754699000,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230660,
-      "num": 230660,
-      "word": "从140斤瘦到103斤的真实变化",
-      "onboard_time": 1755406700,
-      "rank": 16,
-      "category": "运动健身"
     },
     {
       "raw_hot": 230596,
@@ -21128,6 +21128,14 @@
       "word": "时团粉丝发长文感谢爆米花",
       "onboard_time": 1754716282,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194020,
+      "num": 194020,
+      "word": "周震南喊话龙丹妮说就剩六个",
+      "onboard_time": 1755408262,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -30259,6 +30267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148766,
+      "num": 254106,
+      "word": "应急管理部赴内蒙古山洪现场",
+      "onboard_time": 1755409281,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148717,
       "num": 148717,
       "word": "谁给张凌赫做的图",
@@ -31073,6 +31089,14 @@
       "onboard_time": 1754300183,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145880,
+      "num": 145880,
+      "word": "范曾4段婚姻多个子女或引继承问题",
+      "onboard_time": 1755407542,
+      "rank": 31,
+      "category": "民生新闻,读书作家"
     },
     {
       "raw_hot": 145801,
@@ -32915,12 +32939,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139467,
-      "num": 139467,
-      "word": "范曾4段婚姻多个子女或引继承问题",
-      "onboard_time": 1755407542,
-      "rank": 31,
-      "category": "民生新闻,读书作家"
+      "raw_hot": 139480,
+      "num": 139480,
+      "word": "小杨哥老婆近照",
+      "onboard_time": 1755408801,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 139443,
@@ -33755,6 +33779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137066,
+      "num": 137066,
+      "word": "时代少年团奇遇主题",
+      "onboard_time": 1755408682,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137054,
       "num": 137054,
       "word": "周也丞磊熟到手说牵就牵",
@@ -33833,6 +33865,14 @@
       "onboard_time": 1754873301,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136737,
+      "num": 136737,
+      "word": "建议微信学一下QQ这些功能",
+      "onboard_time": 1755408020,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 136719,
@@ -36099,6 +36139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130086,
+      "num": 130086,
+      "word": "龚俊防水防盗防路透",
+      "onboard_time": 1755409042,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130077,
       "num": 130077,
       "word": "白举纲抱住陈楚生就不撒手",
@@ -36241,6 +36289,14 @@
       "onboard_time": 1754614582,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129538,
+      "num": 129538,
+      "word": "撒贝宁 差点就回今日说法了",
+      "onboard_time": 1755409042,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 129502,
@@ -40315,6 +40371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117693,
+      "num": 136870,
+      "word": "全场的消费由刘宇宁买单",
+      "onboard_time": 1755408142,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117679,
       "num": 163879,
       "word": "合肥一永辉超市蛋挞上现活蟑螂",
@@ -40593,14 +40657,6 @@
       "onboard_time": 1754304682,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116713,
-      "num": 116713,
-      "word": "周震南喊话龙丹妮说就剩六个",
-      "onboard_time": 1755408262,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 116668,
@@ -41275,6 +41331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114328,
+      "num": 114328,
+      "word": "小杨哥老婆复出了",
+      "onboard_time": 1755409281,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 114312,
       "num": 142518,
       "word": "中方回应特朗普让中国增加大豆订单",
@@ -41393,14 +41457,6 @@
       "onboard_time": 1755240802,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114049,
-      "num": 114049,
-      "word": "全场的消费由刘宇宁买单",
-      "onboard_time": 1755408142,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 114047,
@@ -41673,6 +41729,14 @@
       "onboard_time": 1755329363,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113243,
+      "num": 113243,
+      "word": "普京的和平条件如图",
+      "onboard_time": 1755408442,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113238,
@@ -43177,14 +43241,6 @@
       "onboard_time": 1754836705,
       "rank": 49,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 109059,
-      "num": 109059,
-      "word": "建议微信学一下QQ这些功能",
-      "onboard_time": 1755408020,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 108961,
@@ -46539,6 +46595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95468,
+      "num": 95468,
+      "word": "抵债猫",
+      "onboard_time": 1755408922,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95453,
       "num": 95453,
       "word": "无畏太乙真人好有画面",
@@ -48153,6 +48217,14 @@
       "onboard_time": 1754269163,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85955,
+      "num": 128096,
+      "word": "TOP登陆少年体重",
+      "onboard_time": 1755408863,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 85907,
@@ -54187,6 +54259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33937,
+      "num": 134170,
+      "word": "马群耀欧阳娜娜合作舞台",
+      "onboard_time": 1755409342,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33807,
       "num": 92943,
       "word": "李佳薇VCR",
@@ -55521,6 +55601,14 @@
       "onboard_time": 1754650881,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 22739,
+      "num": 136756,
+      "word": "花少脆皮团爆改铁皮团",
+      "onboard_time": 1755409342,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 22585,
