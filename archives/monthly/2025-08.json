@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755470629012,
+  "endTime": 1755473145118,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1411,6 +1411,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 1545027,
+      "num": 1545027,
+      "word": "中国男篮亚军",
+      "onboard_time": 1755454937,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1540939,
       "num": 1540939,
       "word": "恋人",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1754916741,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1437512,
-      "num": 1437512,
-      "word": "中国男篮亚军",
-      "onboard_time": 1755454937,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1436160,
@@ -20851,6 +20851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198465,
+      "num": 71198,
+      "word": "梓渝褪黑素上线",
+      "onboard_time": 1755472998,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198314,
       "num": 198314,
       "word": "香奈儿简直是女王",
@@ -22617,6 +22625,14 @@
       "onboard_time": 1754755282,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190084,
+      "num": 179767,
+      "word": "马天宇养了三四百只鸡",
+      "onboard_time": 1755460875,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 190064,
@@ -24448,14 +24464,6 @@
       "word": "王力宏单手徒手摘隐形眼镜",
       "onboard_time": 1754720304,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 179767,
-      "num": 179767,
-      "word": "马天宇养了三四百只鸡",
-      "onboard_time": 1755460875,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -34643,6 +34651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 138457,
+      "num": 71149,
+      "word": "新西兰主帅说中国队篮板很顽强",
+      "onboard_time": 1755473118,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138436,
       "num": 138436,
       "word": "被易烊千玺的动手能力硬控了",
@@ -35417,6 +35433,14 @@
       "onboard_time": 1755224900,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136316,
+      "num": 100652,
+      "word": "郭艾伦解说男篮亚洲杯决赛",
+      "onboard_time": 1755472639,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 136274,
@@ -50108,7 +50132,7 @@
     },
     {
       "raw_hot": 87566,
-      "num": 61471,
+      "num": 78558,
       "word": "王俊杰太强了",
       "onboard_time": 1755454937,
       "rank": 20,
@@ -50328,6 +50352,14 @@
       "word": "丞磊镜头下的女演员",
       "onboard_time": 1755058642,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86415,
+      "num": 86415,
+      "word": "王一珩电话",
+      "onboard_time": 1755472639,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -50673,6 +50705,14 @@
       "onboard_time": 1754791461,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84508,
+      "num": 84508,
+      "word": "高铁上小孩吵闹女子却遭家长反怼",
+      "onboard_time": 1755458595,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84410,
@@ -51251,6 +51291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80077,
+      "num": 80077,
+      "word": "亚洲杯决赛",
+      "onboard_time": 1755472577,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80029,
       "num": 80029,
       "word": "GPT5向所有免费用户开放",
@@ -51425,6 +51473,14 @@
       "onboard_time": 1755415162,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78523,
+      "num": 89280,
+      "word": "男子杀妻后报警谎称其自杀",
+      "onboard_time": 1755450079,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78470,
@@ -52185,6 +52241,14 @@
       "onboard_time": 1755056183,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71233,
+      "num": 71233,
+      "word": "皮肤科医生解读戚薇打肉毒打僵了",
+      "onboard_time": 1755471137,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 71095,
@@ -53299,14 +53363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 60938,
-      "num": 89280,
-      "word": "男子杀妻后报警谎称其自杀",
-      "onboard_time": 1755450079,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60902,
       "num": 149671,
       "word": "许光汉将于明日退伍",
@@ -53641,6 +53697,14 @@
       "onboard_time": 1754177420,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58103,
+      "num": 58103,
+      "word": "钟美美闯关 可以慢但是不能菜",
+      "onboard_time": 1755469155,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 58070,
@@ -54435,12 +54499,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51792,
-      "num": 51792,
-      "word": "高铁上小孩吵闹女子却遭家长反怼",
-      "onboard_time": 1755458595,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 51761,
+      "num": 51761,
+      "word": "胡明轩错失绝杀",
+      "onboard_time": 1755472998,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 51753,
@@ -55379,6 +55443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44467,
+      "num": 44467,
+      "word": "严浩翔shake",
+      "onboard_time": 1755473118,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 44464,
       "num": 44464,
       "word": "俄美总统会晤后将举行联合记者会",
@@ -56201,6 +56273,14 @@
       "onboard_time": 1754091619,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 37661,
+      "num": 37661,
+      "word": "苏超常州镇江扬州套圈了",
+      "onboard_time": 1755472998,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 37579,
@@ -57065,14 +57145,6 @@
       "onboard_time": 1755010883,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31290,
-      "num": 31290,
-      "word": "钟美美闯关 可以慢但是不能菜",
-      "onboard_time": 1755469155,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 31112,
@@ -58073,6 +58145,14 @@
       "onboard_time": 1755377294,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23125,
+      "num": 146346,
+      "word": "Swatch中国官网已找不到眯眯眼照片",
+      "onboard_time": 1755472758,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23055,
