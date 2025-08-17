@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755463349406,
+  "endTime": 1755465883545,
   "band_list": [
     {
       "raw_hot": 2703584,
@@ -3483,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90556,
+      "num": 90556,
+      "word": "马天宇养了三四百只鸡",
+      "onboard_time": 1755460875,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90230,
       "num": 218116,
       "word": "山东临朐地震",
@@ -3961,14 +3969,6 @@
       "onboard_time": 1755397760,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 54402,
-      "num": 49115,
-      "word": "马天宇养了三四百只鸡",
-      "onboard_time": 1755460875,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 54010,
@@ -4497,6 +4497,14 @@
       "onboard_time": 1755376994,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 13546,
+      "num": 18730,
+      "word": "乌拉特后旗回应山洪事发地非景点",
+      "onboard_time": 1755459494,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11777,
