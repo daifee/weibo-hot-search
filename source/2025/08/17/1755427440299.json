@@ -1,0 +1,410 @@
+{
+  "runTime": 1755427440299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 695724,
+        "num": 1111315,
+        "word": "兄弟俩花400万买到2套抵押房",
+        "onboard_time": 1755420683,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538436,
+        "num": 538436,
+        "word": "iPhone千万别删的自带软件",
+        "onboard_time": 1755423263,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23101,
+        "num": 509767,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 508535,
+        "num": 508535,
+        "word": "微信转账记得加一个动作",
+        "onboard_time": 1755406700,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399075,
+        "num": 399075,
+        "word": "金九",
+        "onboard_time": 1755415162,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 577579,
+        "num": 398733,
+        "word": "当当网创始人李国庆大婚",
+        "onboard_time": 1755420922,
+        "rank": 5,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 386007,
+        "num": 386007,
+        "word": "张维伊精准错过董璇每个需要他的时刻",
+        "onboard_time": 1755423742,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367635,
+        "num": 367635,
+        "word": "中国队36金17银11铜收官",
+        "onboard_time": 1755421102,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286244,
+        "num": 286244,
+        "word": "张雅琪也没躲过张晚意的嘴",
+        "onboard_time": 1755419182,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273669,
+        "num": 273669,
+        "word": "古剑",
+        "onboard_time": 1755425182,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 706310,
+        "num": 273544,
+        "word": "一家三口被害  嫌犯精神分裂",
+        "onboard_time": 1755420621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429642,
+        "num": 269861,
+        "word": "男子杀妻后欲网购冰柜藏匿尸体",
+        "onboard_time": 1755419602,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374844,
+        "num": 266925,
+        "word": "孙一宁在韩国买衣服被店员翻白眼",
+        "onboard_time": 1755413903,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356468,
+        "num": 266391,
+        "word": "梓渝回应话筒颜色换了",
+        "onboard_time": 1755423742,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264292,
+        "num": 264292,
+        "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+        "onboard_time": 1755426202,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234087,
+        "num": 234087,
+        "word": "这竟然是杨幂孙绍龙",
+        "onboard_time": 1755424343,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189398,
+        "num": 234026,
+        "word": "4岁女儿水泥台踩脚印获父母硬核批注",
+        "onboard_time": 1755422783,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172856,
+        "num": 233786,
+        "word": "张元英上海",
+        "onboard_time": 1755412642,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161112,
+        "num": 233400,
+        "word": "Swatch在中国市场已卖不动",
+        "onboard_time": 1755423802,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62851,
+        "num": 233178,
+        "word": "猛士M817价格太香了",
+        "onboard_time": 1755425061,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 233097,
+        "num": 233097,
+        "word": "iG官宣JieJie离队",
+        "onboard_time": 1755419182,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205401,
+        "num": 205401,
+        "word": "杨幂接机听取娘声一片",
+        "onboard_time": 1755425362,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165603,
+        "num": 165603,
+        "word": "刘宇宁 丹东野生代言人上线",
+        "onboard_time": 1755425002,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165565,
+        "num": 165565,
+        "word": "5个症状可能是胃癌征兆",
+        "onboard_time": 1755425061,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147179,
+        "num": 147179,
+        "word": "感觉陈星旭一来大家整个都活过来",
+        "onboard_time": 1755425243,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143931,
+        "num": 143931,
+        "word": "蜜雪冰橙 蜜雪冰城",
+        "onboard_time": 1755409642,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142972,
+        "num": 142972,
+        "word": "李乃文助理 徐志胜兼职",
+        "onboard_time": 1755421822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131994,
+        "num": 131994,
+        "word": "李连杰患甲亢",
+        "onboard_time": 1755427162,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125890,
+        "num": 125890,
+        "word": "梓渝音乐节",
+        "onboard_time": 1755419721,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121988,
+        "num": 121988,
+        "word": "球迷手绘樊振东神图",
+        "onboard_time": 1755427343,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38189,
+        "num": 116726,
+        "word": "扔掉8千枚比特币的程序员放弃寻找",
+        "onboard_time": 1755427162,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127825,
+        "num": 115513,
+        "word": "微信号真的会透露很多隐私",
+        "onboard_time": 1755426442,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113333,
+        "num": 113333,
+        "word": "Jiejie回应离开iG",
+        "onboard_time": 1755422423,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113194,
+        "num": 113194,
+        "word": "代号鸢",
+        "onboard_time": 1755427104,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112416,
+        "num": 112416,
+        "word": "明天出伏了",
+        "onboard_time": 1755416483,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104689,
+        "num": 104689,
+        "word": "徐艺真自己当老板了",
+        "onboard_time": 1755420323,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102856,
+        "num": 102856,
+        "word": "张元英说上海最好吃的是北京烤鸭",
+        "onboard_time": 1755419121,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100790,
+        "num": 100790,
+        "word": "游戏劝退班22天收费上万元",
+        "onboard_time": 1755424941,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27700,
+        "num": 100162,
+        "word": "高铁 大体型邻座",
+        "onboard_time": 1755426743,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53685,
+        "num": 100158,
+        "word": "女子求职要求双休遭言语侮辱",
+        "onboard_time": 1755426563,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97515,
+        "num": 100155,
+        "word": "许魏洲发文告别披荆斩棘",
+        "onboard_time": 1755425901,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100155,
+        "num": 100154,
+        "word": "周一请假和周五请假真不是一个感觉",
+        "onboard_time": 1755424823,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98435,
+        "num": 98435,
+        "word": "WBG对战AL",
+        "onboard_time": 1755426862,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97260,
+        "num": 97260,
+        "word": "人在腹中睡祸从天上来",
+        "onboard_time": 1755420323,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31484,
+        "num": 96726,
+        "word": "庞博朱广权科技男团",
+        "onboard_time": 1755427402,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96342,
+        "num": 96342,
+        "word": "李沁马达加斯加plog",
+        "onboard_time": 1755427042,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86625,
+        "num": 86625,
+        "word": "敬没抢到票的我",
+        "onboard_time": 1755427104,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84478,
+        "num": 84478,
+        "word": "从140斤瘦到103斤的真实变化",
+        "onboard_time": 1755406700,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 84117,
+        "num": 84117,
+        "word": "生万物云合",
+        "onboard_time": 1755421102,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83726,
+        "num": 83726,
+        "word": "李连杰生病住院",
+        "onboard_time": 1755411981,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}

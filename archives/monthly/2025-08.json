@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755426411879,
+  "endTime": 1755427440299,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -4020,7 +4020,7 @@
     },
     {
       "raw_hot": 834886,
-      "num": 252031,
+      "num": 273544,
       "word": "一家三口被害  嫌犯精神分裂",
       "onboard_time": 1755420621,
       "rank": 18,
@@ -7699,6 +7699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 538436,
+      "num": 538436,
+      "word": "iPhone千万别删的自带软件",
+      "onboard_time": 1755423263,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 537361,
       "num": 381185,
       "word": "披哥史上第一位女主持人",
@@ -10108,7 +10116,7 @@
     },
     {
       "raw_hot": 414164,
-      "num": 233545,
+      "num": 266391,
       "word": "梓渝回应话筒颜色换了",
       "onboard_time": 1755423742,
       "rank": 13,
@@ -10523,6 +10531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399075,
+      "num": 399075,
+      "word": "金九",
+      "onboard_time": 1755415162,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 398936,
       "num": 398936,
       "word": "女子遛狗未拴绳被轧后失控发飙",
@@ -10891,6 +10907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386007,
+      "num": 386007,
+      "word": "张维伊精准错过董璇每个需要他的时刻",
+      "onboard_time": 1755423742,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385914,
       "num": 385914,
       "word": "FPX.ZQ对战GW",
@@ -11097,14 +11121,6 @@
       "onboard_time": 1755171262,
       "rank": 30,
       "category": "读书作家,动漫"
-    },
-    {
-      "raw_hot": 378469,
-      "num": 378469,
-      "word": "金九",
-      "onboard_time": 1755415162,
-      "rank": 31,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 378448,
@@ -11385,6 +11401,14 @@
       "onboard_time": 1755216560,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 367635,
+      "num": 367635,
+      "word": "中国队36金17银11铜收官",
+      "onboard_time": 1755421102,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 366838,
@@ -11681,14 +11705,6 @@
       "onboard_time": 1754707521,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 357068,
-      "num": 357068,
-      "word": "张维伊精准错过董璇每个需要他的时刻",
-      "onboard_time": 1755423742,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 356205,
@@ -12499,14 +12515,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 329747,
-      "num": 329747,
-      "word": "iPhone千万别删的自带软件",
-      "onboard_time": 1755423263,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 329362,
       "num": 329362,
       "word": "iG打野",
@@ -13249,14 +13257,6 @@
       "onboard_time": 1754232085,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 307595,
-      "num": 307595,
-      "word": "中国队36金17银11铜收官",
-      "onboard_time": 1755421102,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 307322,
@@ -14507,6 +14507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 273669,
+      "num": 273669,
+      "word": "古剑",
+      "onboard_time": 1755425182,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273547,
       "num": 324246,
       "word": "张元英宫脇咲良再现七年前名次",
@@ -15009,6 +15017,14 @@
       "onboard_time": 1754115921,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264292,
+      "num": 264292,
+      "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+      "onboard_time": 1755426202,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 264271,
@@ -16595,6 +16611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234087,
+      "num": 234087,
+      "word": "这竟然是杨幂孙绍龙",
+      "onboard_time": 1755424343,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233870,
       "num": 272107,
       "word": "蔡徐坤新歌MV",
@@ -16760,14 +16784,6 @@
       "word": "利剑玫瑰穿帮镜头",
       "onboard_time": 1755160523,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 231147,
-      "num": 231147,
-      "word": "这竟然是杨幂孙绍龙",
-      "onboard_time": 1755424343,
-      "rank": 14,
       "category": "剧集"
     },
     {
@@ -17409,14 +17425,6 @@
       "onboard_time": 1754668582,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 223001,
-      "num": 223001,
-      "word": "古剑",
-      "onboard_time": 1755425182,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 222879,
@@ -19380,7 +19388,7 @@
     },
     {
       "raw_hot": 204565,
-      "num": 230663,
+      "num": 234026,
       "word": "4岁女儿水泥台踩脚印获父母硬核批注",
       "onboard_time": 1755422783,
       "rank": 47,
@@ -22236,7 +22244,7 @@
     },
     {
       "raw_hot": 189181,
-      "num": 491516,
+      "num": 509767,
       "word": "中国世遗8分钟视频纯享版",
       "onboard_time": 1755398422,
       "rank": 27,
@@ -26635,6 +26643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165565,
+      "num": 165565,
+      "word": "5个症状可能是胃癌征兆",
+      "onboard_time": 1755425061,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165505,
       "num": 165505,
       "word": "每次发工资同事都假装不着急",
@@ -27561,6 +27577,14 @@
       "onboard_time": 1754279723,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161112,
+      "num": 233400,
+      "word": "Swatch在中国市场已卖不动",
+      "onboard_time": 1755423802,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161104,
@@ -32899,14 +32923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141450,
-      "num": 141450,
-      "word": "Swatch在中国市场已卖不动",
-      "onboard_time": 1755423802,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141380,
       "num": 141380,
       "word": "王者架空短剧定档",
@@ -36075,6 +36091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131994,
+      "num": 131994,
+      "word": "李连杰患甲亢",
+      "onboard_time": 1755427162,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131990,
       "num": 131990,
       "word": "百万女网红遭AI换脸盗图造谣",
@@ -37489,6 +37513,14 @@
       "onboard_time": 1754816961,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 127825,
+      "num": 115513,
+      "word": "微信号真的会透露很多隐私",
+      "onboard_time": 1755426442,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 127813,
@@ -39523,6 +39555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 121988,
+      "num": 121988,
+      "word": "球迷手绘樊振东神图",
+      "onboard_time": 1755427343,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121986,
       "num": 121986,
       "word": "TOP披荆斩棘完形填空",
@@ -41297,14 +41337,6 @@
       "onboard_time": 1754466443,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 116923,
-      "num": 116923,
-      "word": "5个症状可能是胃癌征兆",
-      "onboard_time": 1755425061,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 116899,
@@ -46139,6 +46171,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 100790,
+      "num": 111172,
+      "word": "游戏劝退班22天收费上万元",
+      "onboard_time": 1755424941,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100774,
       "num": 166939,
       "word": "邓超小花陪唱",
@@ -46321,6 +46361,14 @@
       "onboard_time": 1754385322,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100155,
+      "num": 100154,
+      "word": "周一请假和周五请假真不是一个感觉",
+      "onboard_time": 1755424823,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 100114,
@@ -46737,6 +46785,14 @@
       "onboard_time": 1755217221,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98435,
+      "num": 98435,
+      "word": "WBG对战AL",
+      "onboard_time": 1755426862,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 98410,
@@ -47323,6 +47379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96342,
+      "num": 96342,
+      "word": "李沁马达加斯加plog",
+      "onboard_time": 1755427042,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96320,
       "num": 91244,
       "word": "ALin回应念肖战微博改名热搜",
@@ -47585,14 +47649,6 @@
       "onboard_time": 1755423144,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 95236,
-      "num": 97249,
-      "word": "周一请假和周五请假真不是一个感觉",
-      "onboard_time": 1755424823,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 95190,
@@ -49145,6 +49201,14 @@
       "onboard_time": 1755360922,
       "rank": 39,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 86625,
+      "num": 86625,
+      "word": "敬没抢到票的我",
+      "onboard_time": 1755427104,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 86485,
@@ -51260,7 +51324,7 @@
     },
     {
       "raw_hot": 68447,
-      "num": 224401,
+      "num": 233178,
       "word": "猛士M817价格太香了",
       "onboard_time": 1755425061,
       "rank": 19,
@@ -51955,14 +52019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61616,
-      "num": 97659,
-      "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
-      "onboard_time": 1755426202,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61527,
       "num": 130279,
       "word": "祝绪丹40%微黑鸡翅",
@@ -52129,14 +52185,6 @@
       "onboard_time": 1754193926,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 60629,
-      "num": 111172,
-      "word": "游戏劝退班22天收费上万元",
-      "onboard_time": 1755424941,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60578,
@@ -52945,6 +52993,14 @@
       "onboard_time": 1754261237,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53685,
+      "num": 100158,
+      "word": "女子求职要求双休遭言语侮辱",
+      "onboard_time": 1755426563,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53668,
@@ -54803,6 +54859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38189,
+      "num": 116726,
+      "word": "扔掉8千枚比特币的程序员放弃寻找",
+      "onboard_time": 1755427162,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 38143,
       "num": 143427,
       "word": "男子商场抢金饰20分钟被抓",
@@ -55691,6 +55755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31484,
+      "num": 96726,
+      "word": "庞博朱广权科技男团",
+      "onboard_time": 1755427402,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31444,
       "num": 175170,
       "word": "官方回应金溪之眼是否会拆除",
@@ -56201,6 +56273,14 @@
       "onboard_time": 1755366917,
       "rank": 46,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 27700,
+      "num": 100162,
+      "word": "高铁 大体型邻座",
+      "onboard_time": 1755426743,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27476,

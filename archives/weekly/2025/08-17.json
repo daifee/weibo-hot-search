@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755426411879,
+  "endTime": 1755427440299,
   "band_list": [
     {
       "raw_hot": 2033517,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 834886,
-      "num": 252031,
+      "num": 273544,
       "word": "一家三口被害  嫌犯精神分裂",
       "onboard_time": 1755420621,
       "rank": 18,
@@ -251,6 +251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 538436,
+      "num": 538436,
+      "word": "iPhone千万别删的自带软件",
+      "onboard_time": 1755423263,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 536499,
       "num": 536499,
       "word": "续面女顾客称和面馆老板不再和解",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 414164,
-      "num": 233545,
+      "num": 266391,
       "word": "梓渝回应话筒颜色换了",
       "onboard_time": 1755423742,
       "rank": 13,
@@ -377,6 +385,14 @@
       "onboard_time": 1755395659,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 399075,
+      "num": 399075,
+      "word": "金九",
+      "onboard_time": 1755415162,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 398442,
@@ -395,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378469,
-      "num": 378469,
-      "word": "金九",
-      "onboard_time": 1755415162,
-      "rank": 31,
-      "category": "艺人,时尚"
+      "raw_hot": 386007,
+      "num": 386007,
+      "word": "张维伊精准错过董璇每个需要他的时刻",
+      "onboard_time": 1755423742,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 377049,
@@ -419,12 +435,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 357068,
-      "num": 357068,
-      "word": "张维伊精准错过董璇每个需要他的时刻",
-      "onboard_time": 1755423742,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 367635,
+      "num": 367635,
+      "word": "中国队36金17银11铜收官",
+      "onboard_time": 1755421102,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 352363,
@@ -491,14 +507,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 329747,
-      "num": 329747,
-      "word": "iPhone千万别删的自带软件",
-      "onboard_time": 1755423263,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 325033,
       "num": 325033,
       "word": "与辉同行回应董宇辉年收入传闻",
@@ -529,14 +537,6 @@
       "onboard_time": 1755328942,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307595,
-      "num": 307595,
-      "word": "中国队36金17银11铜收官",
-      "onboard_time": 1755421102,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 302667,
@@ -627,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273669,
+      "num": 273669,
+      "word": "古剑",
+      "onboard_time": 1755425182,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273058,
       "num": 216436,
       "word": "沈月泰国红毯",
@@ -656,6 +664,14 @@
       "word": "李连杰生病住院",
       "onboard_time": 1755411981,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264292,
+      "num": 264292,
+      "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+      "onboard_time": 1755426202,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -707,8 +723,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 231147,
-      "num": 231147,
+      "raw_hot": 234087,
+      "num": 234087,
       "word": "这竟然是杨幂孙绍龙",
       "onboard_time": 1755424343,
       "rank": 14,
@@ -721,14 +737,6 @@
       "onboard_time": 1755387559,
       "rank": 16,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 223001,
-      "num": 223001,
-      "word": "古剑",
-      "onboard_time": 1755425182,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 218160,
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 204565,
-      "num": 230663,
+      "num": 234026,
       "word": "4岁女儿水泥台踩脚印获父母硬核批注",
       "onboard_time": 1755422783,
       "rank": 47,
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 189181,
-      "num": 491516,
+      "num": 509767,
       "word": "中国世遗8分钟视频纯享版",
       "onboard_time": 1755398422,
       "rank": 27,
@@ -1115,12 +1123,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165565,
+      "num": 165565,
+      "word": "5个症状可能是胃癌征兆",
+      "onboard_time": 1755425061,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162096,
       "num": 315995,
       "word": "内蒙古乌拉特后旗山洪已致9人遇难",
       "onboard_time": 1755418762,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 161112,
+      "num": 233400,
+      "word": "Swatch在中国市场已卖不动",
+      "onboard_time": 1755423802,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160903,
@@ -1371,14 +1395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141450,
-      "num": 141450,
-      "word": "Swatch在中国市场已卖不动",
-      "onboard_time": 1755423802,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140926,
       "num": 140926,
       "word": "突然好轻松一点也不焦虑了",
@@ -1619,6 +1635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131994,
+      "num": 131994,
+      "word": "李连杰患甲亢",
+      "onboard_time": 1755427162,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131849,
       "num": 197987,
       "word": "于文文戴眼镜完全主人级别",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1755404661,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 127825,
+      "num": 115513,
+      "word": "微信号真的会透露很多隐私",
+      "onboard_time": 1755426442,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 127658,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1755401902,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121988,
+      "num": 121988,
+      "word": "球迷手绘樊振东神图",
+      "onboard_time": 1755427343,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 121973,
@@ -1875,14 +1915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116923,
-      "num": 116923,
-      "word": "5个症状可能是胃癌征兆",
-      "onboard_time": 1755425061,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 116882,
       "num": 131199,
       "word": "荣成车祸重伤女孩离世父亲发声",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1755408442,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113194,
+      "num": 113194,
+      "word": "代号鸢",
+      "onboard_time": 1755427104,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 112849,
@@ -2107,6 +2147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100790,
+      "num": 111172,
+      "word": "游戏劝退班22天收费上万元",
+      "onboard_time": 1755424941,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100566,
       "num": 100566,
       "word": "全球首个治疗脂肪肝的减重药来了",
@@ -2121,6 +2169,14 @@
       "onboard_time": 1755406641,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100155,
+      "num": 100154,
+      "word": "周一请假和周五请假真不是一个感觉",
+      "onboard_time": 1755424823,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 99797,
@@ -2169,6 +2225,14 @@
       "onboard_time": 1755423443,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98435,
+      "num": 98435,
+      "word": "WBG对战AL",
+      "onboard_time": 1755426862,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 98129,
@@ -2235,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96342,
+      "num": 96342,
+      "word": "李沁马达加斯加plog",
+      "onboard_time": 1755427042,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96191,
       "num": 96191,
       "word": "网友质疑范曾失联家人为何不报警",
@@ -2249,14 +2321,6 @@
       "onboard_time": 1755423144,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 95236,
-      "num": 97249,
-      "word": "周一请假和周五请假真不是一个感觉",
-      "onboard_time": 1755424823,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 95073,
@@ -2393,6 +2457,14 @@
       "onboard_time": 1755360922,
       "rank": 39,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 86625,
+      "num": 86625,
+      "word": "敬没抢到票的我",
+      "onboard_time": 1755427104,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 86337,
@@ -2580,7 +2652,7 @@
     },
     {
       "raw_hot": 68447,
-      "num": 224401,
+      "num": 233178,
       "word": "猛士M817价格太香了",
       "onboard_time": 1755425061,
       "rank": 19,
@@ -2611,28 +2683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61616,
-      "num": 97659,
-      "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
-      "onboard_time": 1755426202,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61093,
       "num": 224188,
       "word": "花少脆皮团爆改铁皮团",
       "onboard_time": 1755409342,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60629,
-      "num": 111172,
-      "word": "游戏劝退班22天收费上万元",
-      "onboard_time": 1755424941,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60578,
@@ -2665,6 +2721,14 @@
       "onboard_time": 1755397760,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53685,
+      "num": 100158,
+      "word": "女子求职要求双休遭言语侮辱",
+      "onboard_time": 1755426563,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52664,
@@ -2811,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38189,
+      "num": 116726,
+      "word": "扔掉8千枚比特币的程序员放弃寻找",
+      "onboard_time": 1755427162,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 36541,
       "num": 135094,
       "word": "谁是在泰国最火爆的精神搭子",
@@ -2915,6 +2987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31484,
+      "num": 96726,
+      "word": "庞博朱广权科技男团",
+      "onboard_time": 1755427402,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30941,
       "num": 37138,
       "word": "张晚意又是你",
@@ -2937,6 +3017,14 @@
       "onboard_time": 1755366917,
       "rank": 46,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 27700,
+      "num": 100162,
+      "word": "高铁 大体型邻座",
+      "onboard_time": 1755426743,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23867,
