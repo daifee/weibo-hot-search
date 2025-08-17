@@ -1,0 +1,410 @@
+{
+  "runTime": 1755419611733,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 742801,
+        "num": 1118848,
+        "word": "微信转账记得加一个动作",
+        "onboard_time": 1755406700,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 588811,
+        "num": 588811,
+        "word": "iG官宣JieJie离队",
+        "onboard_time": 1755419182,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21120,
+        "num": 566791,
+        "word": "成都世运会今日闭幕",
+        "onboard_time": 1755388758,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1336097,
+        "num": 565242,
+        "word": "王晶曝张柏芝谢霆锋离婚原因",
+        "onboard_time": 1755412282,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555422,
+        "num": 555422,
+        "word": "孙一宁在韩国买衣服被店员翻白眼",
+        "onboard_time": 1755413903,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485685,
+        "num": 485685,
+        "word": "蜜雪冰橙 蜜雪冰城",
+        "onboard_time": 1755409642,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429419,
+        "num": 429419,
+        "word": "张元英上海",
+        "onboard_time": 1755412642,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361509,
+        "num": 361509,
+        "word": "管乐和前任拍分手拍立得",
+        "onboard_time": 1755413122,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340374,
+        "num": 340374,
+        "word": "机场拦截的充电宝成抢手货",
+        "onboard_time": 1755411922,
+        "rank": 8,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 106108,
+        "num": 315995,
+        "word": "内蒙古乌拉特后旗山洪已致9人遇难",
+        "onboard_time": 1755418762,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 352500,
+        "num": 315290,
+        "word": "穿外裤不能上床真的有必要吗",
+        "onboard_time": 1755411142,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351104,
+        "num": 313705,
+        "word": "3种邪修秒睡法",
+        "onboard_time": 1755415881,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305024,
+        "num": 305024,
+        "word": "梓渝彩排现场图",
+        "onboard_time": 1755402681,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251077,
+        "num": 251077,
+        "word": "与辉同行回应董宇辉年收入传闻",
+        "onboard_time": 1755413061,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247864,
+        "num": 247864,
+        "word": "iPhone可以很富士",
+        "onboard_time": 1755416002,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215076,
+        "num": 215076,
+        "word": "金九",
+        "onboard_time": 1755415162,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 32069,
+        "num": 203211,
+        "word": "合作伙伴夸鸿蒙听劝",
+        "onboard_time": 1755417683,
+        "rank": 16,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 196849,
+        "num": 196849,
+        "word": "欧阳娜娜我认真搞音乐的女儿回来了",
+        "onboard_time": 1755418342,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191906,
+        "num": 191906,
+        "word": "不听劝买了别人都不要的一楼",
+        "onboard_time": 1755417144,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174486,
+        "num": 174486,
+        "word": "谢娜看补菜像李湘看王诗龄",
+        "onboard_time": 1755418103,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167408,
+        "num": 167408,
+        "word": "从140斤瘦到103斤的真实变化",
+        "onboard_time": 1755406700,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 163922,
+        "num": 163922,
+        "word": "李连杰生病住院",
+        "onboard_time": 1755411981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161974,
+        "num": 161974,
+        "word": "难怪现在奶茶三分糖都很甜",
+        "onboard_time": 1755387258,
+        "rank": 22,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 151720,
+        "num": 151720,
+        "word": "生万物天牛庙村不养怂人",
+        "onboard_time": 1755418523,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135348,
+        "num": 150829,
+        "word": "12306回应苏州火车站女厕标识易误解",
+        "onboard_time": 1755410481,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38260,
+        "num": 150157,
+        "word": "外卖小哥回应发现血枕头",
+        "onboard_time": 1755405261,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149984,
+        "num": 149984,
+        "word": "柯淳说找老婆会找圈外的",
+        "onboard_time": 1755414382,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139546,
+        "num": 139546,
+        "word": "王玉雯干坏事时候不嫌麻烦",
+        "onboard_time": 1755417923,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139204,
+        "num": 139204,
+        "word": "终于在音乐节看到了劲舞男团",
+        "onboard_time": 1755418462,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109019,
+        "num": 138666,
+        "word": "儿童安全坐垫碰撞瞬间人被甩飞",
+        "onboard_time": 1755412221,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138221,
+        "num": 138221,
+        "word": "黄子韬这次是黄了个小逃",
+        "onboard_time": 1755418701,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127658,
+        "num": 127658,
+        "word": "江山为聘",
+        "onboard_time": 1755418282,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133371,
+        "num": 127514,
+        "word": "沈月 我也很久没被人亲了",
+        "onboard_time": 1755405621,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126464,
+        "num": 126464,
+        "word": "只有龚俊一直在睁眼",
+        "onboard_time": 1755418942,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107138,
+        "num": 122540,
+        "word": "明天出伏了",
+        "onboard_time": 1755416483,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121973,
+        "num": 121973,
+        "word": "时尚芭莎九月刊封面",
+        "onboard_time": 1755416423,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 120202,
+        "num": 120202,
+        "word": "那英基础陈数不基础",
+        "onboard_time": 1755415642,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32668,
+        "num": 119903,
+        "word": "张元英说上海最好吃的是北京烤鸭",
+        "onboard_time": 1755419121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101299,
+        "num": 119872,
+        "word": "张雅琪也没躲过张晚意的嘴",
+        "onboard_time": 1755419182,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31658,
+        "num": 119861,
+        "word": "200平大堂被业主砌砖墙现已拆除",
+        "onboard_time": 1755419483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119853,
+        "num": 119853,
+        "word": "杨幂今年三个角色的共通点",
+        "onboard_time": 1755415342,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119508,
+        "num": 119508,
+        "word": "郝蕾被萧亚轩托举香奈儿感动到大哭",
+        "onboard_time": 1755417381,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119496,
+        "num": 119496,
+        "word": "普京开条件",
+        "onboard_time": 1755406042,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117562,
+        "num": 117562,
+        "word": "2024年美国侵犯人权报告",
+        "onboard_time": 1755419421,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112538,
+        "num": 112538,
+        "word": "陈奕恒鼻梁贴",
+        "onboard_time": 1755415702,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111829,
+        "num": 111829,
+        "word": "洪欣晒合照为儿子庆生",
+        "onboard_time": 1755417262,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110050,
+        "num": 110050,
+        "word": "TOP上完披哥叫饭团了",
+        "onboard_time": 1755416181,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106401,
+        "num": 106401,
+        "word": "迟早把一杯不够起送的奶茶店炸掉",
+        "onboard_time": 1755419421,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103561,
+        "num": 106058,
+        "word": "婴猴意外离世金丝猴妈妈轻抚告别",
+        "onboard_time": 1755416423,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106058,
+        "num": 106057,
+        "word": "你们洗的照片真的被全世界看见了",
+        "onboard_time": 1755417262,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}

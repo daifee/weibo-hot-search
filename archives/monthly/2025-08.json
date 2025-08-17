@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755416340646,
+  "endTime": 1755419611733,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 2033517,
-      "num": 473487,
+      "num": 565242,
       "word": "王晶曝张柏芝谢霆锋离婚原因",
       "onboard_time": 1755412282,
       "rank": 10,
@@ -4428,7 +4428,7 @@
     },
     {
       "raw_hot": 785515,
-      "num": 409914,
+      "num": 555422,
       "word": "孙一宁在韩国买衣服被店员翻白眼",
       "onboard_time": 1755413903,
       "rank": 6,
@@ -5988,7 +5988,7 @@
     },
     {
       "raw_hot": 645492,
-      "num": 382656,
+      "num": 429419,
       "word": "张元英上海",
       "onboard_time": 1755412642,
       "rank": 43,
@@ -6793,6 +6793,14 @@
       "onboard_time": 1754039180,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 588811,
+      "num": 588811,
+      "word": "iG官宣JieJie离队",
+      "onboard_time": 1755419182,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 588095,
@@ -9220,7 +9228,7 @@
     },
     {
       "raw_hot": 453743,
-      "num": 282722,
+      "num": 361509,
       "word": "管乐和前任拍分手拍立得",
       "onboard_time": 1755413122,
       "rank": 39,
@@ -11745,6 +11753,14 @@
       "onboard_time": 1754546666,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351104,
+      "num": 313705,
+      "word": "3种邪修秒睡法",
+      "onboard_time": 1755415881,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 350860,
@@ -15731,6 +15747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247864,
+      "num": 247864,
+      "word": "iPhone可以很富士",
+      "onboard_time": 1755416002,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 247208,
       "num": 247208,
       "word": "吉训明任协和医学院院校长",
@@ -17921,6 +17945,14 @@
       "onboard_time": 1754306963,
       "rank": 22,
       "category": "互联网,音乐"
+    },
+    {
+      "raw_hot": 215076,
+      "num": 215076,
+      "word": "金九",
+      "onboard_time": 1755415162,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 215071,
@@ -20579,6 +20611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196849,
+      "num": 196849,
+      "word": "欧阳娜娜我认真搞音乐的女儿回来了",
+      "onboard_time": 1755418342,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196807,
       "num": 196807,
       "word": "鞠婧祎张云龙 室子之争向来如此",
@@ -21673,6 +21713,14 @@
       "onboard_time": 1754399243,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191906,
+      "num": 191906,
+      "word": "不听劝买了别人都不要的一楼",
+      "onboard_time": 1755417144,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 191892,
@@ -24609,6 +24657,14 @@
       "onboard_time": 1754969842,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174486,
+      "num": 174486,
+      "word": "谢娜看补菜像李湘看王诗龄",
+      "onboard_time": 1755418103,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 174417,
@@ -29715,6 +29771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151720,
+      "num": 151720,
+      "word": "生万物天牛庙村不养怂人",
+      "onboard_time": 1755418523,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151710,
       "num": 151710,
       "word": "袁咏仪回应王栎鑫",
@@ -30145,6 +30209,14 @@
       "onboard_time": 1754382384,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149984,
+      "num": 149984,
+      "word": "柯淳说找老婆会找圈外的",
+      "onboard_time": 1755414382,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 149886,
@@ -30769,14 +30841,6 @@
       "onboard_time": 1754806462,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147861,
-      "num": 147861,
-      "word": "金九",
-      "onboard_time": 1755415162,
-      "rank": 31,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 147829,
@@ -33155,6 +33219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 139546,
+      "num": 139546,
+      "word": "王玉雯干坏事时候不嫌麻烦",
+      "onboard_time": 1755417923,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139541,
       "num": 139541,
       "word": "演员谈恋爱会影响cp感吗",
@@ -33259,14 +33331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139245,
-      "num": 139245,
-      "word": "iPhone可以很富士",
-      "onboard_time": 1755416002,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 139230,
       "num": 139230,
       "word": "周也左位战神",
@@ -33281,6 +33345,14 @@
       "onboard_time": 1754349198,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139204,
+      "num": 139204,
+      "word": "终于在音乐节看到了劲舞男团",
+      "onboard_time": 1755418462,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 139148,
@@ -33617,6 +33689,14 @@
       "onboard_time": 1754066240,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138221,
+      "num": 138221,
+      "word": "黄子韬这次是黄了个小逃",
+      "onboard_time": 1755418701,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 138214,
@@ -37227,6 +37307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127658,
+      "num": 130396,
+      "word": "江山为聘",
+      "onboard_time": 1755081263,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127644,
       "num": 127643,
       "word": "企业加班通知走红 所有人涨薪25%",
@@ -37729,6 +37817,14 @@
       "onboard_time": 1754621842,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126464,
+      "num": 126464,
+      "word": "只有龚俊一直在睁眼",
+      "onboard_time": 1755418942,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 126449,
@@ -38433,14 +38529,6 @@
       "onboard_time": 1755137900,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123931,
-      "num": 130396,
-      "word": "江山为聘",
-      "onboard_time": 1755081263,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 123876,
@@ -39177,6 +39265,14 @@
       "onboard_time": 1754562503,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121973,
+      "num": 121973,
+      "word": "时尚芭莎九月刊封面",
+      "onboard_time": 1755416423,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 121965,
@@ -40019,20 +40115,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119508,
+      "num": 119508,
+      "word": "郝蕾被萧亚轩托举香奈儿感动到大哭",
+      "onboard_time": 1755417381,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119480,
       "num": 119480,
       "word": "蔡徐坤手捧茉莉花",
       "onboard_time": 1754301023,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 119480,
-      "num": 119480,
-      "word": "柯淳说找老婆会找圈外的",
-      "onboard_time": 1755414382,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 119471,
@@ -40721,6 +40817,14 @@
       "onboard_time": 1754803822,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117562,
+      "num": 117562,
+      "word": "2024年美国侵犯人权报告",
+      "onboard_time": 1755419421,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117501,
@@ -42619,6 +42723,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 111829,
+      "num": 111829,
+      "word": "洪欣晒合照为儿子庆生",
+      "onboard_time": 1755417262,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111729,
       "num": 111729,
       "word": "北京立秋自带烤炉进站",
@@ -44083,6 +44195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107138,
+      "num": 122540,
+      "word": "明天出伏了",
+      "onboard_time": 1755416483,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107104,
       "num": 107104,
       "word": "于正为赵嘉敏发声",
@@ -44251,6 +44371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106401,
+      "num": 106401,
+      "word": "迟早把一杯不够起送的奶茶店炸掉",
+      "onboard_time": 1755419421,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106310,
       "num": 106310,
       "word": "周洁琼好高清的一张脸",
@@ -44337,6 +44465,22 @@
       "onboard_time": 1754123183,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106108,
+      "num": 315995,
+      "word": "内蒙古乌拉特后旗山洪已致9人遇难",
+      "onboard_time": 1755418762,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 106058,
+      "num": 106057,
+      "word": "你们洗的照片真的被全世界看见了",
+      "onboard_time": 1755417262,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 106054,
@@ -44683,14 +44827,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 104755,
-      "num": 159821,
-      "word": "3种邪修秒睡法",
-      "onboard_time": 1755415881,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 104749,
       "num": 104749,
       "word": "全红婵分享训练合照",
@@ -44977,6 +45113,14 @@
       "onboard_time": 1755268284,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103561,
+      "num": 106058,
+      "word": "婴猴意外离世金丝猴妈妈轻抚告别",
+      "onboard_time": 1755416423,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 103478,
@@ -45553,6 +45697,14 @@
       "onboard_time": 1754651723,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 101299,
+      "num": 119872,
+      "word": "张雅琪也没躲过张晚意的嘴",
+      "onboard_time": 1755419182,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 101245,
@@ -54947,6 +55099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32668,
+      "num": 119903,
+      "word": "张元英说上海最好吃的是北京烤鸭",
+      "onboard_time": 1755419121,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32658,
       "num": 62165,
       "word": "陈熠回应第一次参加冠军赛",
@@ -55043,6 +55203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32069,
+      "num": 203211,
+      "word": "合作伙伴夸鸿蒙听劝",
+      "onboard_time": 1755417683,
+      "rank": 16,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 32042,
       "num": 178020,
       "word": "俄称俄美元首将讨论乌长期和平方案",
@@ -55065,6 +55233,14 @@
       "onboard_time": 1754778616,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31658,
+      "num": 119861,
+      "word": "200平大堂被业主砌砖墙现已拆除",
+      "onboard_time": 1755419483,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31444,
