@@ -1,0 +1,410 @@
+{
+  "runTime": 1755423624056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 888460,
+        "num": 1142153,
+        "word": "当当网创始人李国庆大婚",
+        "onboard_time": 1755420922,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 484391,
+        "num": 484391,
+        "word": "张雅琪也没躲过张晚意的嘴",
+        "onboard_time": 1755419182,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25883,
+        "num": 450291,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 429192,
+        "num": 429192,
+        "word": "微信转账记得加一个动作",
+        "onboard_time": 1755406700,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424449,
+        "num": 424449,
+        "word": "iG官宣JieJie离队",
+        "onboard_time": 1755419182,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 336796,
+        "num": 381716,
+        "word": "兄弟俩花400万买到2套抵押房",
+        "onboard_time": 1755420683,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372150,
+        "num": 372150,
+        "word": "金九",
+        "onboard_time": 1755415162,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 354258,
+        "num": 354258,
+        "word": "孙一宁在韩国买衣服被店员翻白眼",
+        "onboard_time": 1755413903,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251823,
+        "num": 251823,
+        "word": "张元英上海",
+        "onboard_time": 1755412642,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225094,
+        "num": 225094,
+        "word": "蜜雪冰橙 蜜雪冰城",
+        "onboard_time": 1755409642,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 837404,
+        "num": 220668,
+        "word": "男子杀妻后欲网购冰柜藏匿尸体",
+        "onboard_time": 1755419602,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529982,
+        "num": 217306,
+        "word": "梓渝音乐节",
+        "onboard_time": 1755419721,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262044,
+        "num": 210979,
+        "word": "一家三口被害  嫌犯精神分裂",
+        "onboard_time": 1755420621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201002,
+        "num": 201002,
+        "word": "欧阳娜娜我认真搞音乐的女儿回来了",
+        "onboard_time": 1755418342,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196525,
+        "num": 196525,
+        "word": "3种邪修秒睡法",
+        "onboard_time": 1755415881,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173957,
+        "num": 173957,
+        "word": "青岛音乐节",
+        "onboard_time": 1755422301,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148601,
+        "num": 173892,
+        "word": "中国队36金17银11铜收官",
+        "onboard_time": 1755421102,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34764,
+        "num": 173580,
+        "word": "退役军犬蹭着训导员不肯走",
+        "onboard_time": 1755422482,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179190,
+        "num": 173480,
+        "word": "穿外裤不能上床真的有必要吗",
+        "onboard_time": 1755411142,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80139,
+        "num": 173223,
+        "word": "iPhone千万别删的自带软件",
+        "onboard_time": 1755423263,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173187,
+        "num": 173187,
+        "word": "生万物云合",
+        "onboard_time": 1755421102,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171703,
+        "num": 171703,
+        "word": "不听劝买了别人都不要的一楼",
+        "onboard_time": 1755417144,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160036,
+        "num": 160036,
+        "word": "张元英说上海最好吃的是北京烤鸭",
+        "onboard_time": 1755419121,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129725,
+        "num": 156320,
+        "word": "内蒙古乌拉特后旗山洪已致9人遇难",
+        "onboard_time": 1755418762,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 155370,
+        "num": 155370,
+        "word": "李乃文助理 徐志胜兼职",
+        "onboard_time": 1755421822,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150393,
+        "num": 150393,
+        "word": "iPhone可以很富士",
+        "onboard_time": 1755416002,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142395,
+        "num": 142395,
+        "word": "徐艺真自己当老板了",
+        "onboard_time": 1755420323,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138953,
+        "num": 138953,
+        "word": "人在腹中睡祸从天上来",
+        "onboard_time": 1755420323,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133064,
+        "num": 133064,
+        "word": "女主一句话让男主倾家荡产",
+        "onboard_time": 1755422543,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124353,
+        "num": 124353,
+        "word": "4岁女儿水泥台踩脚印获父母硬核批注",
+        "onboard_time": 1755422783,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155256,
+        "num": 124223,
+        "word": "和死对头吵架突然亲我一口",
+        "onboard_time": 1755423502,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126146,
+        "num": 123922,
+        "word": "李连杰生病住院",
+        "onboard_time": 1755411981,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122501,
+        "num": 122501,
+        "word": "孙颖莎何卓佳开心到模糊",
+        "onboard_time": 1755422963,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117112,
+        "num": 117112,
+        "word": "Jiejie回应离开iG",
+        "onboard_time": 1755422423,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136847,
+        "num": 117040,
+        "word": "管乐和前任拍分手拍立得",
+        "onboard_time": 1755413122,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116805,
+        "num": 116805,
+        "word": "从140斤瘦到103斤的真实变化",
+        "onboard_time": 1755406700,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113919,
+        "num": 113919,
+        "word": "与辉同行回应董宇辉年收入传闻",
+        "onboard_time": 1755413061,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112849,
+        "num": 112849,
+        "word": "贺峻霖导演和编剧的小作业",
+        "onboard_time": 1755423263,
+        "rank": 37,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 102317,
+        "num": 102317,
+        "word": "戚薇早期真的美到没边",
+        "onboard_time": 1755422601,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101219,
+        "num": 101219,
+        "word": "沈月 我也很久没被人亲了",
+        "onboard_time": 1755405621,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101150,
+        "num": 101150,
+        "word": "机场拦截的充电宝成抢手货",
+        "onboard_time": 1755411922,
+        "rank": 40,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 97493,
+        "num": 97493,
+        "word": "李国庆婚礼",
+        "onboard_time": 1755422062,
+        "rank": 41,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 97249,
+        "num": 97249,
+        "word": "高寒演了一条蛇但狗里狗气的",
+        "onboard_time": 1755423443,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76619,
+        "num": 95900,
+        "word": "男子私配钥匙14次潜入女子家中偷拍",
+        "onboard_time": 1755422362,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95277,
+        "num": 95277,
+        "word": "原来摇头才是最能减肥的",
+        "onboard_time": 1755423144,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 93586,
+        "num": 93586,
+        "word": "爆红法拍狸花猫性格很好",
+        "onboard_time": 1755421282,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92895,
+        "num": 92895,
+        "word": "陈星旭已撒娇求放过",
+        "onboard_time": 1755422423,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91587,
+        "num": 91587,
+        "word": "明天出伏了",
+        "onboard_time": 1755416483,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90594,
+        "num": 90594,
+        "word": "2024年美国侵犯人权报告",
+        "onboard_time": 1755419421,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89537,
+        "num": 89537,
+        "word": "难怪现在奶茶三分糖都很甜",
+        "onboard_time": 1755387258,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}

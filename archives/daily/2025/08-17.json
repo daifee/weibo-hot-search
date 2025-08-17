@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755422805122,
+  "endTime": 1755423624056,
   "band_list": [
     {
       "raw_hot": 2033517,
@@ -91,6 +91,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 837404,
+      "num": 321424,
+      "word": "男子杀妻后欲网购冰柜藏匿尸体",
+      "onboard_time": 1755419602,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 785515,
       "num": 555422,
       "word": "孙一宁在韩国买衣服被店员翻白眼",
@@ -169,14 +177,6 @@
       "onboard_time": 1755412642,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 632352,
-      "num": 321424,
-      "word": "男子杀妻后欲网购冰柜藏匿尸体",
-      "onboard_time": 1755419602,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 628646,
@@ -283,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 484391,
+      "num": 484391,
+      "word": "张雅琪也没躲过张晚意的嘴",
+      "onboard_time": 1755419182,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463876,
       "num": 463876,
       "word": "机场拦截的充电宝成抢手货",
@@ -363,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389092,
-      "num": 389092,
-      "word": "张雅琪也没躲过张晚意的嘴",
-      "onboard_time": 1755419182,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 377049,
       "num": 377049,
       "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
@@ -385,6 +385,14 @@
       "onboard_time": 1755388278,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 372150,
+      "num": 372150,
+      "word": "金九",
+      "onboard_time": 1755415162,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 352363,
@@ -427,20 +435,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 336796,
+      "num": 381716,
+      "word": "兄弟俩花400万买到2套抵押房",
+      "onboard_time": 1755420683,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335526,
       "num": 340615,
       "word": "黄誉博向郑伟道歉",
       "onboard_time": 1755411262,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334973,
-      "num": 334973,
-      "word": "金九",
-      "onboard_time": 1755415162,
-      "rank": 31,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 334567,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262044,
+      "num": 210979,
+      "word": "一家三口被害  嫌犯精神分裂",
+      "onboard_time": 1755420621,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260487,
       "num": 260487,
       "word": "TOP登陆少年体重",
@@ -649,14 +665,6 @@
       "onboard_time": 1755334102,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 228085,
-      "num": 293235,
-      "word": "兄弟俩花400万买到2套抵押房",
-      "onboard_time": 1755420683,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223847,
@@ -851,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180266,
-      "num": 180266,
-      "word": "一家三口被害  嫌犯精神分裂",
-      "onboard_time": 1755420621,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176344,
       "num": 176344,
       "word": "锦月如歌",
@@ -913,6 +913,14 @@
       "onboard_time": 1755406942,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 173957,
+      "num": 173957,
+      "word": "青岛音乐节",
+      "onboard_time": 1755422301,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 173475,
@@ -1051,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160036,
+      "num": 160036,
+      "word": "张元英说上海最好吃的是北京烤鸭",
+      "onboard_time": 1755419121,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159840,
       "num": 159840,
       "word": "机场充电宝一吨9000元",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1755407721,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158195,
-      "num": 158195,
-      "word": "青岛音乐节",
-      "onboard_time": 1755422301,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 157800,
@@ -1091,12 +1099,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155897,
-      "num": 155897,
-      "word": "张元英说上海最好吃的是北京烤鸭",
-      "onboard_time": 1755419121,
-      "rank": 37,
+      "raw_hot": 155370,
+      "num": 155370,
+      "word": "李乃文助理 徐志胜兼职",
+      "onboard_time": 1755421822,
+      "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155256,
+      "num": 124223,
+      "word": "和死对头吵架突然亲我一口",
+      "onboard_time": 1755423502,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 154936,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1755409281,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148601,
+      "num": 173892,
+      "word": "中国队36金17银11铜收官",
+      "onboard_time": 1755421102,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 147327,
@@ -1331,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138953,
+      "num": 138953,
+      "word": "人在腹中睡祸从天上来",
+      "onboard_time": 1755420323,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138417,
       "num": 138417,
       "word": "吴谨言陈哲远海报",
@@ -1393,14 +1425,6 @@
       "onboard_time": 1755408020,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 136410,
-      "num": 136410,
-      "word": "人在腹中睡祸从天上来",
-      "onboard_time": 1755420323,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 136089,
@@ -1497,6 +1521,14 @@
       "onboard_time": 1755410481,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133064,
+      "num": 133064,
+      "word": "女主一句话让男主倾家荡产",
+      "onboard_time": 1755422543,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 132864,
@@ -1611,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124353,
+      "num": 124353,
+      "word": "4岁女儿水泥台踩脚印获父母硬核批注",
+      "onboard_time": 1755422783,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123487,
       "num": 123487,
       "word": "抵债猫",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1755395841,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122501,
+      "num": 122501,
+      "word": "孙颖莎何卓佳开心到模糊",
+      "onboard_time": 1755422963,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 122457,
@@ -1811,6 +1859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112849,
+      "num": 112849,
+      "word": "贺峻霖导演和编剧的小作业",
+      "onboard_time": 1755423263,
+      "rank": 37,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 112143,
       "num": 128220,
       "word": "杨幂的人生真的好精彩",
@@ -1857,14 +1913,6 @@
       "onboard_time": 1755416423,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107735,
-      "num": 107735,
-      "word": "女主一句话让男主倾家荡产",
-      "onboard_time": 1755422543,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 107670,
@@ -1953,14 +2001,6 @@
       "onboard_time": 1755395960,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102049,
-      "num": 102049,
-      "word": "4岁女儿水泥台踩脚印获父母硬核批注",
-      "onboard_time": 1755422783,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101766,
@@ -2075,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97249,
+      "num": 97249,
+      "word": "高寒演了一条蛇但狗里狗气的",
+      "onboard_time": 1755423443,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97058,
       "num": 113434,
       "word": "养猫后看见啥都想给它做玩具",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1755414443,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95277,
+      "num": 95277,
+      "word": "原来摇头才是最能减肥的",
+      "onboard_time": 1755423144,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 95073,
@@ -2115,7 +2171,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90768,
+      "raw_hot": 93586,
       "num": 179836,
       "word": "爆红法拍狸花猫性格很好",
       "onboard_time": 1755421282,
@@ -2227,14 +2283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86223,
-      "num": 105025,
-      "word": "中国队36金17银11铜收官",
-      "onboard_time": 1755421102,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86222,
       "num": 196965,
       "word": "女子2年日服10粒牛黄解毒片中毒",
@@ -2331,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80139,
+      "num": 173223,
+      "word": "iPhone千万别删的自带软件",
+      "onboard_time": 1755423263,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78710,
       "num": 196581,
       "word": "毕雯珺白西装花衬衫look",
@@ -2355,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76619,
+      "num": 116689,
+      "word": "男子私配钥匙14次潜入女子家中偷拍",
+      "onboard_time": 1755422362,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76434,
       "num": 124245,
       "word": "范曾持股公司近1个月直播收入超百万",
@@ -2377,14 +2441,6 @@
       "onboard_time": 1755351985,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74983,
-      "num": 116665,
-      "word": "李乃文助理 徐志胜兼职",
-      "onboard_time": 1755421822,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 71398,
@@ -2571,14 +2627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40370,
-      "num": 116689,
-      "word": "男子私配钥匙14次潜入女子家中偷拍",
-      "onboard_time": 1755422362,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40179,
       "num": 45726,
       "word": "狼队vs曼城",
@@ -2620,7 +2668,7 @@
     },
     {
       "raw_hot": 35688,
-      "num": 152655,
+      "num": 173580,
       "word": "退役军犬蹭着训导员不肯走",
       "onboard_time": 1755422482,
       "rank": 27,
