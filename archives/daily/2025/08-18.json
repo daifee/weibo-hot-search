@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755459423100,
+  "endTime": 1755462533096,
   "band_list": [
     {
       "raw_hot": 2242447,
@@ -571,6 +571,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36132,
+      "num": 36132,
+      "word": "马天宇养了三四百只鸡",
+      "onboard_time": 1755460875,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31723,
+      "num": 27497,
+      "word": "高铁上小孩吵闹女子却遭家长反怼",
+      "onboard_time": 1755458595,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25997,
       "num": 29043,
       "word": "孟子义唱歌人在前面唱调在后面追",
@@ -603,12 +619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19556,
-      "num": 24023,
-      "word": "高铁上小孩吵闹女子却遭家长反怼",
-      "onboard_time": 1755458595,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 10216,
+      "num": 20354,
+      "word": "阅兵演练点是点线是线面是面",
+      "onboard_time": 1755462374,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 4164,
