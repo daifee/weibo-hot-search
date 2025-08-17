@@ -1,0 +1,410 @@
+{
+  "runTime": 1755403130983,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1269366,
+        "num": 1269366,
+        "word": "外卖小哥发现带血枕头报警救人",
+        "onboard_time": 1755388339,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 984659,
+        "num": 984659,
+        "word": "罗永浩曝董宇辉年收入二三十亿",
+        "onboard_time": 1755397701,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29701,
+        "num": 614536,
+        "word": "网警发布防范指南不让科技偷走隐私",
+        "onboard_time": 1755400761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585950,
+        "num": 585950,
+        "word": "男子在机场用马桶冲走223枚鸟蛋",
+        "onboard_time": 1755400640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543858,
+        "num": 543858,
+        "word": "江山为聘开机",
+        "onboard_time": 1755395841,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411643,
+        "num": 411643,
+        "word": "韩网民称古代太监被韩国人垄断",
+        "onboard_time": 1755395659,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 401656,
+        "num": 401656,
+        "word": "续面女顾客称和面馆老板不再和解",
+        "onboard_time": 1755401061,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398442,
+        "num": 398442,
+        "word": "杨幂这段没有一句台词",
+        "onboard_time": 1755400700,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395829,
+        "num": 395829,
+        "word": "难怪现在奶茶三分糖都很甜",
+        "onboard_time": 1755387258,
+        "rank": 8,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 201399,
+        "num": 390502,
+        "word": "作家梁晓声再谈孙颖莎",
+        "onboard_time": 1755396560,
+        "rank": 9,
+        "category": "体育,读书作家"
+      },
+      {
+        "raw_hot": 390470,
+        "num": 390470,
+        "word": "沈腾也确诊白磷型人格",
+        "onboard_time": 1755397881,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347166,
+        "num": 347166,
+        "word": "古剑pv",
+        "onboard_time": 1755401300,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 312000,
+        "num": 312000,
+        "word": "藏头诗",
+        "onboard_time": 1755367456,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 275261,
+        "num": 275261,
+        "word": "肖战脸一出来就疯狂尖叫",
+        "onboard_time": 1755393741,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267694,
+        "num": 267694,
+        "word": "苏苏被逐出费家",
+        "onboard_time": 1755395841,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190241,
+        "num": 244602,
+        "word": "美俄会晤机密文件疑泄露",
+        "onboard_time": 1755400040,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235104,
+        "num": 235104,
+        "word": "梓渝话筒颜色换了",
+        "onboard_time": 1755395841,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221772,
+        "num": 221772,
+        "word": "肖宇梁时隔4年半进组了",
+        "onboard_time": 1755400341,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215334,
+        "num": 215334,
+        "word": "网友吐槽苏州火车站厕所",
+        "onboard_time": 1755395361,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44796,
+        "num": 206224,
+        "word": "一文梳理范曾徐萌事件",
+        "onboard_time": 1755401841,
+        "rank": 19,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 202371,
+        "num": 202371,
+        "word": "天若有情",
+        "onboard_time": 1755396501,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205700,
+        "num": 201622,
+        "word": "梓渝彩排现场图",
+        "onboard_time": 1755402681,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199723,
+        "num": 199723,
+        "word": "龙门石窟",
+        "onboard_time": 1755398661,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 195592,
+        "num": 195592,
+        "word": "西湖醋鱼全责",
+        "onboard_time": 1755401061,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192429,
+        "num": 192429,
+        "word": "蜜雪冰城回应出现蜜雪冰橙",
+        "onboard_time": 1755397223,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187372,
+        "num": 187372,
+        "word": "绣绣的头发再也梳不回去了",
+        "onboard_time": 1755402982,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186028,
+        "num": 186028,
+        "word": "徐萌 范曾",
+        "onboard_time": 1755392961,
+        "rank": 26,
+        "category": "民生新闻,读书作家"
+      },
+      {
+        "raw_hot": 175121,
+        "num": 175121,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171543,
+        "num": 171543,
+        "word": "BTS直播",
+        "onboard_time": 1755401180,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160903,
+        "num": 160903,
+        "word": "37岁每天坚持运动一小时后的变化",
+        "onboard_time": 1755397641,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 154224,
+        "num": 154224,
+        "word": "台风母体来了",
+        "onboard_time": 1755392180,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151649,
+        "num": 151649,
+        "word": "痛经用药建议",
+        "onboard_time": 1755399382,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150634,
+        "num": 150634,
+        "word": "21岁女主播应邀见大哥被强吻",
+        "onboard_time": 1755394521,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146973,
+        "num": 146973,
+        "word": "古剑单机新作首曝",
+        "onboard_time": 1755402860,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139819,
+        "num": 139819,
+        "word": "披哥和浪姐合体了",
+        "onboard_time": 1755400281,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138417,
+        "num": 138417,
+        "word": "吴谨言陈哲远海报",
+        "onboard_time": 1755401660,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137701,
+        "num": 137701,
+        "word": "JackeyLove回应输给iG",
+        "onboard_time": 1755402681,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137119,
+        "num": 137119,
+        "word": "徕芬CEO怒怼前员工",
+        "onboard_time": 1755401601,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39568,
+        "num": 136093,
+        "word": "张予曦吃夜宵",
+        "onboard_time": 1755403103,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25990,
+        "num": 135937,
+        "word": "逃出电诈园男子靠吃蚯蚓活命",
+        "onboard_time": 1755402860,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135889,
+        "num": 135889,
+        "word": "人为了欲望能做到什么程度",
+        "onboard_time": 1755398661,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134098,
+        "num": 134098,
+        "word": "盗墓笔记",
+        "onboard_time": 1755387858,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133622,
+        "num": 133622,
+        "word": "徐如蓝高社会化水平的魅力",
+        "onboard_time": 1755402921,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132367,
+        "num": 132367,
+        "word": "于文文回应粉丝穿婚纱看演唱会",
+        "onboard_time": 1755399860,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95681,
+        "num": 124601,
+        "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
+        "onboard_time": 1755398961,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122457,
+        "num": 122457,
+        "word": "苏辙后人 俄罗斯外籍院士",
+        "onboard_time": 1755401902,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86118,
+        "num": 118123,
+        "word": "多次续面女顾客将告面馆老板",
+        "onboard_time": 1755401902,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117458,
+        "num": 117458,
+        "word": "减肥其实是越减越轻松的",
+        "onboard_time": 1755397041,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116100,
+        "num": 116100,
+        "word": "二十五岁是什么感觉",
+        "onboard_time": 1755402261,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115028,
+        "num": 115028,
+        "word": "韩国人说投壶是韩国的",
+        "onboard_time": 1755394160,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一起共谱绿水青山曲#"
+    }
+  }
+}

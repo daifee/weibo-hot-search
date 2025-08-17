@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755398080277,
+  "endTime": 1755403130983,
   "band_list": [
     {
       "raw_hot": 1812521,
@@ -17,6 +17,14 @@
       "onboard_time": 1755367456,
       "rank": 0,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 984659,
+      "num": 984659,
+      "word": "罗永浩曝董宇辉年收入二三十亿",
+      "onboard_time": 1755397701,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 914588,
@@ -83,6 +91,14 @@
       "category": "民生新闻,读书作家"
     },
     {
+      "raw_hot": 585950,
+      "num": 585950,
+      "word": "男子在机场用马桶冲走223枚鸟蛋",
+      "onboard_time": 1755400640,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580800,
       "num": 580800,
       "word": "台风母体来了",
@@ -139,6 +155,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411643,
+      "num": 411643,
+      "word": "韩网民称古代太监被韩国人垄断",
+      "onboard_time": 1755395659,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 401656,
+      "num": 401656,
+      "word": "续面女顾客称和面馆老板不再和解",
+      "onboard_time": 1755401061,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398442,
+      "num": 398442,
+      "word": "杨幂这段没有一句台词",
+      "onboard_time": 1755400700,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 390470,
+      "num": 390470,
+      "word": "沈腾也确诊白磷型人格",
+      "onboard_time": 1755397881,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389752,
       "num": 286024,
       "word": "孟子义我拿奖啦",
@@ -155,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 347166,
+      "num": 347166,
+      "word": "古剑pv",
+      "onboard_time": 1755401300,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 339179,
       "num": 217658,
       "word": "朋友圈三天可见 置顶特别长",
@@ -164,7 +220,7 @@
     },
     {
       "raw_hot": 320142,
-      "num": 320142,
+      "num": 390502,
       "word": "作家梁晓声再谈孙颖莎",
       "onboard_time": 1755396560,
       "rank": 37,
@@ -185,14 +241,6 @@
       "onboard_time": 1755328942,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298083,
-      "num": 298083,
-      "word": "韩网民称古代太监被韩国人垄断",
-      "onboard_time": 1755395659,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 287461,
@@ -283,6 +331,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 221772,
+      "num": 221772,
+      "word": "肖宇梁时隔4年半进组了",
+      "onboard_time": 1755400341,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218160,
       "num": 218160,
       "word": "iG对战TES",
@@ -339,12 +395,52 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205700,
+      "num": 201622,
+      "word": "梓渝彩排现场图",
+      "onboard_time": 1755402681,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 202371,
+      "num": 210236,
+      "word": "天若有情",
+      "onboard_time": 1755396501,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199723,
+      "num": 199723,
+      "word": "龙门石窟",
+      "onboard_time": 1755398661,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 195592,
+      "num": 195592,
+      "word": "西湖醋鱼全责",
+      "onboard_time": 1755401061,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192987,
       "num": 192987,
       "word": "谷爱凌发文称因人为事故受伤",
       "onboard_time": 1755387078,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190241,
+      "num": 244602,
+      "word": "美俄会晤机密文件疑泄露",
+      "onboard_time": 1755400040,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188635,
@@ -355,20 +451,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187372,
+      "num": 187372,
+      "word": "绣绣的头发再也梳不回去了",
+      "onboard_time": 1755402982,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175121,
+      "num": 175121,
+      "word": "中国世遗8分钟视频纯享版",
+      "onboard_time": 1755398422,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171543,
+      "num": 171543,
+      "word": "BTS直播",
+      "onboard_time": 1755401180,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171011,
       "num": 171011,
       "word": "梓渝彩排音乐节",
       "onboard_time": 1755395841,
       "rank": 23,
       "category": "演出,音乐"
-    },
-    {
-      "raw_hot": 169373,
-      "num": 169373,
-      "word": "罗永浩曝董宇辉年收入二三十亿",
-      "onboard_time": 1755397701,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 169302,
@@ -395,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160903,
+      "num": 160903,
+      "word": "37岁每天坚持运动一小时后的变化",
+      "onboard_time": 1755397641,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 157800,
       "num": 212237,
       "word": "喜剧之王单口季2",
@@ -419,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151649,
+      "num": 151649,
+      "word": "痛经用药建议",
+      "onboard_time": 1755399382,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 150078,
       "num": 198533,
       "word": "水果刀插入3岁女童颅脑",
@@ -435,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146947,
-      "num": 210236,
-      "word": "天若有情",
-      "onboard_time": 1755396501,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 146973,
+      "num": 146973,
+      "word": "古剑单机新作首曝",
+      "onboard_time": 1755402860,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 144612,
@@ -451,12 +579,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139819,
+      "num": 139819,
+      "word": "披哥和浪姐合体了",
+      "onboard_time": 1755400281,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139069,
       "num": 198440,
       "word": "生万物",
       "onboard_time": 1755344363,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138417,
+      "num": 138417,
+      "word": "吴谨言陈哲远海报",
+      "onboard_time": 1755401660,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137701,
+      "num": 137701,
+      "word": "JackeyLove回应输给iG",
+      "onboard_time": 1755402681,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 137119,
+      "num": 137119,
+      "word": "徕芬CEO怒怼前员工",
+      "onboard_time": 1755401601,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 135889,
+      "num": 135889,
+      "word": "人为了欲望能做到什么程度",
+      "onboard_time": 1755398661,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 135337,
@@ -483,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133622,
+      "num": 133622,
+      "word": "徐如蓝高社会化水平的魅力",
+      "onboard_time": 1755402921,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133594,
       "num": 198196,
       "word": "生万物全员喊人加入俺门",
@@ -496,6 +672,14 @@
       "word": "展轩刘轩丞一起进场",
       "onboard_time": 1755363741,
       "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 132367,
+      "num": 132367,
+      "word": "于文文回应粉丝穿婚纱看演唱会",
+      "onboard_time": 1755399860,
+      "rank": 43,
       "category": "演出"
     },
     {
@@ -529,6 +713,14 @@
       "onboard_time": 1755395841,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122457,
+      "num": 122457,
+      "word": "苏辙后人 俄罗斯外籍院士",
+      "onboard_time": 1755401902,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121711,
@@ -571,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117458,
+      "num": 117458,
+      "word": "减肥其实是越减越轻松的",
+      "onboard_time": 1755397041,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117370,
       "num": 197802,
       "word": "杨幂再不好过如今也好过了",
@@ -587,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116100,
+      "num": 116100,
+      "word": "二十五岁是什么感觉",
+      "onboard_time": 1755402261,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115096,
       "num": 115096,
       "word": "张晚意和谁都能整两口",
@@ -601,14 +809,6 @@
       "onboard_time": 1755349703,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113362,
-      "num": 113362,
-      "word": "减肥其实是越减越轻松的",
-      "onboard_time": 1755397041,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 113282,
@@ -651,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101426,
-      "num": 101426,
-      "word": "沈腾也确诊白磷型人格",
-      "onboard_time": 1755397881,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100566,
       "num": 100566,
       "word": "全球首个治疗脂肪肝的减重药来了",
@@ -673,6 +865,14 @@
       "onboard_time": 1755356542,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 95681,
+      "num": 124601,
+      "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
+      "onboard_time": 1755398961,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93828,
@@ -759,6 +959,14 @@
       "num": 196965,
       "word": "女子2年日服10粒牛黄解毒片中毒",
       "onboard_time": 1755356784,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86118,
+      "num": 118123,
+      "word": "多次续面女顾客将告面馆老板",
+      "onboard_time": 1755401902,
       "rank": 46,
       "category": "民生新闻"
     },
@@ -857,14 +1065,6 @@
       "onboard_time": 1755356484,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76700,
-      "num": 76700,
-      "word": "37岁每天坚持运动一小时后的变化",
-      "onboard_time": 1755397641,
-      "rank": 48,
-      "category": "运动健身"
     },
     {
       "raw_hot": 76434,
@@ -971,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44796,
+      "num": 206224,
+      "word": "一文梳理范曾徐萌事件",
+      "onboard_time": 1755401841,
+      "rank": 19,
+      "category": "民生新闻,读书作家"
+    },
+    {
       "raw_hot": 43381,
       "num": 84990,
       "word": "放弃减肥执念后反而瘦了",
@@ -1051,6 +1259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 39568,
+      "num": 136093,
+      "word": "张予曦吃夜宵",
+      "onboard_time": 1755403103,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36541,
       "num": 135094,
       "word": "谁是在泰国最火爆的精神搭子",
@@ -1091,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29701,
+      "num": 614536,
+      "word": "网警发布防范指南不让科技偷走隐私",
+      "onboard_time": 1755400761,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28645,
       "num": 45351,
       "word": "刘亦菲这段话救我千万次于水火",
@@ -1105,6 +1329,14 @@
       "onboard_time": 1755366917,
       "rank": 46,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 25990,
+      "num": 135937,
+      "word": "逃出电诈园男子靠吃蚯蚓活命",
+      "onboard_time": 1755402860,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23867,
