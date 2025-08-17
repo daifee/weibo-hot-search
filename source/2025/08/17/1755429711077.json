@@ -1,0 +1,410 @@
+{
+  "runTime": 1755429711077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 835878,
+        "num": 1133740,
+        "word": "iPhone千万别删的自带软件",
+        "onboard_time": 1755423263,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 595840,
+        "num": 595840,
+        "word": "马天宇 啥也不会只会哭",
+        "onboard_time": 1755427643,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24135,
+        "num": 514493,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 506294,
+        "num": 506294,
+        "word": "金九",
+        "onboard_time": 1755415162,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 381033,
+        "num": 381033,
+        "word": "微信转账记得加一个动作",
+        "onboard_time": 1755406700,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352356,
+        "num": 352356,
+        "word": "兄弟俩花400万买到2套抵押房",
+        "onboard_time": 1755420683,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354162,
+        "num": 343423,
+        "word": "张维伊精准错过董璇每个需要他的时刻",
+        "onboard_time": 1755423742,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255842,
+        "num": 255842,
+        "word": "中国队36金17银11铜收官",
+        "onboard_time": 1755421102,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228537,
+        "num": 228537,
+        "word": "张雅琪也没躲过张晚意的嘴",
+        "onboard_time": 1755419182,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220412,
+        "num": 220412,
+        "word": "明天出伏了",
+        "onboard_time": 1755416483,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 954570,
+        "num": 219416,
+        "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+        "onboard_time": 1755426202,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395764,
+        "num": 212736,
+        "word": "一家三口被害  嫌犯精神分裂",
+        "onboard_time": 1755420621,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334065,
+        "num": 204925,
+        "word": "孙一宁在韩国买衣服被店员翻白眼",
+        "onboard_time": 1755413903,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247773,
+        "num": 203378,
+        "word": "男子杀妻后欲网购冰柜藏匿尸体",
+        "onboard_time": 1755419602,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240233,
+        "num": 198334,
+        "word": "梓渝回应话筒颜色换了",
+        "onboard_time": 1755423742,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193143,
+        "num": 193143,
+        "word": "这竟然是杨幂孙绍龙",
+        "onboard_time": 1755424343,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189315,
+        "num": 189315,
+        "word": "微信号真的会透露很多隐私",
+        "onboard_time": 1755426442,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176515,
+        "num": 184611,
+        "word": "扔掉8千枚比特币的程序员放弃寻找",
+        "onboard_time": 1755427162,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183737,
+        "num": 183737,
+        "word": "刘宇宁 丹东野生代言人上线",
+        "onboard_time": 1755425002,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52788,
+        "num": 183602,
+        "word": "庞博朱广权科技男团",
+        "onboard_time": 1755427402,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362284,
+        "num": 183592,
+        "word": "当当网创始人李国庆大婚",
+        "onboard_time": 1755420922,
+        "rank": 20,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 183541,
+        "num": 183541,
+        "word": "5个症状可能是胃癌征兆",
+        "onboard_time": 1755425061,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174112,
+        "num": 174112,
+        "word": "杨幂接机听取娘声一片",
+        "onboard_time": 1755425362,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155049,
+        "num": 155049,
+        "word": "Swatch在中国市场已卖不动",
+        "onboard_time": 1755423802,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151931,
+        "num": 151931,
+        "word": "iG官宣JieJie离队",
+        "onboard_time": 1755419182,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146305,
+        "num": 151599,
+        "word": "陈星旭 左右为男",
+        "onboard_time": 1755428962,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151587,
+        "num": 151587,
+        "word": "4岁女儿水泥台踩脚印获父母硬核批注",
+        "onboard_time": 1755422783,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71328,
+        "num": 140514,
+        "word": "女明星牧场初舞台",
+        "onboard_time": 1755428842,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42731,
+        "num": 138809,
+        "word": "猛士M817价格太香了",
+        "onboard_time": 1755425061,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 35995,
+        "num": 138334,
+        "word": "73岁老人扛80斤特产辗转千里看儿孙",
+        "onboard_time": 1755428482,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138271,
+        "num": 138271,
+        "word": "银子嫁给宁学祥",
+        "onboard_time": 1755429382,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134972,
+        "num": 134972,
+        "word": "周一请假和周五请假真不是一个感觉",
+        "onboard_time": 1755424823,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134712,
+        "num": 134712,
+        "word": "仙逆",
+        "onboard_time": 1755428121,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133863,
+        "num": 133863,
+        "word": "古剑",
+        "onboard_time": 1755425182,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128814,
+        "num": 128814,
+        "word": "李连杰患甲亢",
+        "onboard_time": 1755427162,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124994,
+        "num": 124994,
+        "word": "张元英上海",
+        "onboard_time": 1755412642,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122596,
+        "num": 122596,
+        "word": "新西兰一警局收到中式锦旗",
+        "onboard_time": 1755428062,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117255,
+        "num": 117255,
+        "word": "女子求职要求双休遭言语侮辱",
+        "onboard_time": 1755426563,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108868,
+        "num": 108868,
+        "word": "外网评论韩立结婴",
+        "onboard_time": 1755429202,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102401,
+        "num": 102401,
+        "word": "人人人长白山人人人",
+        "onboard_time": 1755429022,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100642,
+        "num": 100642,
+        "word": "经常说4句口头禅说明心态很负面",
+        "onboard_time": 1755429502,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97279,
+        "num": 97279,
+        "word": "周也丞磊这一抱神图出现了",
+        "onboard_time": 1755427882,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95009,
+        "num": 95009,
+        "word": "蜜雪冰橙 蜜雪冰城",
+        "onboard_time": 1755409642,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94926,
+        "num": 94926,
+        "word": "pandakill原班人马回归",
+        "onboard_time": 1755429562,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91485,
+        "num": 91485,
+        "word": "发明斜刘海气泡的真是天才",
+        "onboard_time": 1755428062,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91275,
+        "num": 91275,
+        "word": "PEL夏季赛第五周冠军争夺战",
+        "onboard_time": 1755428722,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88064,
+        "num": 88064,
+        "word": "Jiejie回应离开iG",
+        "onboard_time": 1755422423,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87250,
+        "num": 87250,
+        "word": "邓紫棋演唱会再现金鱼嘴飞吻",
+        "onboard_time": 1755429562,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85030,
+        "num": 85030,
+        "word": "李乃文助理 徐志胜兼职",
+        "onboard_time": 1755421822,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84100,
+        "num": 84100,
+        "word": "敬没抢到票的我",
+        "onboard_time": 1755427104,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#使绿水青山产生巨大效益#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755427440299,
+  "endTime": 1755429711077,
   "band_list": [
     {
       "raw_hot": 2033517,
@@ -59,6 +59,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 954570,
+      "num": 264292,
+      "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+      "onboard_time": 1755426202,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 917994,
       "num": 1146879,
       "word": "当当网创始人李国庆大婚",
@@ -97,6 +105,14 @@
       "onboard_time": 1755419602,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 835878,
+      "num": 1133740,
+      "word": "iPhone千万别删的自带软件",
+      "onboard_time": 1755423263,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 834886,
@@ -211,6 +227,14 @@
       "category": "民生新闻,读书作家"
     },
     {
+      "raw_hot": 595840,
+      "num": 595840,
+      "word": "马天宇 啥也不会只会哭",
+      "onboard_time": 1755427643,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587468,
       "num": 289135,
       "word": "梓渝音乐节",
@@ -251,14 +275,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 538436,
-      "num": 538436,
-      "word": "iPhone千万别删的自带软件",
-      "onboard_time": 1755423263,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 536499,
       "num": 536499,
       "word": "续面女顾客称和面馆老板不再和解",
@@ -297,6 +313,14 @@
       "onboard_time": 1755394160,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 506294,
+      "num": 506294,
+      "word": "金九",
+      "onboard_time": 1755415162,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 502740,
@@ -385,14 +409,6 @@
       "onboard_time": 1755395659,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 399075,
-      "num": 399075,
-      "word": "金九",
-      "onboard_time": 1755415162,
-      "rank": 31,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 398442,
@@ -667,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264292,
-      "num": 264292,
-      "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
-      "onboard_time": 1755426202,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260487,
       "num": 260487,
       "word": "TOP登陆少年体重",
@@ -737,6 +745,14 @@
       "onboard_time": 1755387559,
       "rank": 16,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 220412,
+      "num": 220412,
+      "word": "明天出伏了",
+      "onboard_time": 1755416483,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218160,
@@ -899,8 +915,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189315,
+      "num": 189315,
+      "word": "微信号真的会透露很多隐私",
+      "onboard_time": 1755426442,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189181,
-      "num": 509767,
+      "num": 514493,
       "word": "中国世遗8分钟视频纯享版",
       "onboard_time": 1755398422,
       "rank": 27,
@@ -923,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183737,
+      "num": 183737,
+      "word": "刘宇宁 丹东野生代言人上线",
+      "onboard_time": 1755425002,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183674,
       "num": 183674,
       "word": "猫狗双家庭需要注意什么",
@@ -931,12 +963,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183541,
+      "num": 183541,
+      "word": "5个症状可能是胃癌征兆",
+      "onboard_time": 1755425061,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181688,
       "num": 181688,
       "word": "一年一部年代剧",
       "onboard_time": 1755404360,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176515,
+      "num": 184611,
+      "word": "扔掉8千枚比特币的程序员放弃寻找",
+      "onboard_time": 1755427162,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 176344,
@@ -1027,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172044,
-      "num": 172044,
-      "word": "刘宇宁 丹东野生代言人上线",
-      "onboard_time": 1755425002,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171458,
       "num": 171458,
       "word": "南京二手房遇冷房东选择下架出租",
@@ -1121,14 +1161,6 @@
       "onboard_time": 1755402801,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165565,
-      "num": 165565,
-      "word": "5个症状可能是胃癌征兆",
-      "onboard_time": 1755425061,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 162096,
@@ -1347,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146305,
+      "num": 151599,
+      "word": "陈星旭 左右为男",
+      "onboard_time": 1755428962,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146110,
       "num": 146110,
       "word": "献鱼人生镜头",
@@ -1467,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138271,
+      "num": 138271,
+      "word": "银子嫁给宁学祥",
+      "onboard_time": 1755429382,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138221,
       "num": 138221,
       "word": "黄子韬这次是黄了个小逃",
@@ -1547,12 +1595,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134972,
+      "num": 134972,
+      "word": "周一请假和周五请假真不是一个感觉",
+      "onboard_time": 1755424823,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134817,
       "num": 198087,
       "word": "张予曦毕雯珺闪耀泰兰德",
       "onboard_time": 1755347784,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134712,
+      "num": 134712,
+      "word": "仙逆",
+      "onboard_time": 1755428121,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 134692,
@@ -1593,14 +1657,6 @@
       "onboard_time": 1755361161,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133530,
-      "num": 133530,
-      "word": "明天出伏了",
-      "onboard_time": 1755416483,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133492,
@@ -1699,14 +1755,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 127825,
-      "num": 115513,
-      "word": "微信号真的会透露很多隐私",
-      "onboard_time": 1755426442,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127658,
       "num": 127658,
       "word": "江山为聘",
@@ -1769,6 +1817,14 @@
       "onboard_time": 1755395841,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122596,
+      "num": 122596,
+      "word": "新西兰一警局收到中式锦旗",
+      "onboard_time": 1755428062,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 122501,
@@ -1907,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117255,
+      "num": 117255,
+      "word": "女子求职要求双休遭言语侮辱",
+      "onboard_time": 1755426563,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116932,
       "num": 116932,
       "word": "中餐厅",
@@ -2035,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108868,
+      "num": 108868,
+      "word": "外网评论韩立结婴",
+      "onboard_time": 1755429202,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108545,
       "num": 108545,
       "word": "婴猴意外离世金丝猴妈妈轻抚告别",
@@ -2123,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102401,
+      "num": 102401,
+      "word": "人人人长白山人人人",
+      "onboard_time": 1755429022,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102102,
       "num": 102102,
       "word": "杰伦布朗说科比是历史第一",
@@ -2155,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100642,
+      "num": 100642,
+      "word": "经常说4句口头禅说明心态很负面",
+      "onboard_time": 1755429502,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100566,
       "num": 100566,
       "word": "全球首个治疗脂肪肝的减重药来了",
@@ -2169,14 +2257,6 @@
       "onboard_time": 1755406641,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100155,
-      "num": 100154,
-      "word": "周一请假和周五请假真不是一个感觉",
-      "onboard_time": 1755424823,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 99797,
@@ -2283,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97279,
+      "num": 97279,
+      "word": "周也丞磊这一抱神图出现了",
+      "onboard_time": 1755427882,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97058,
       "num": 113434,
       "word": "养猫后看见啥都想给它做玩具",
@@ -2339,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94926,
+      "num": 94926,
+      "word": "pandakill原班人马回归",
+      "onboard_time": 1755429562,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93828,
       "num": 197625,
       "word": "中国男篮十年后重回决赛",
@@ -2361,6 +2457,22 @@
       "onboard_time": 1755426262,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91485,
+      "num": 91485,
+      "word": "发明斜刘海气泡的真是天才",
+      "onboard_time": 1755428062,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91275,
+      "num": 91275,
+      "word": "PEL夏季赛第五周冠军争夺战",
+      "onboard_time": 1755428722,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 90628,
@@ -2441,6 +2553,14 @@
       "onboard_time": 1755387436,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87250,
+      "num": 87250,
+      "word": "邓紫棋演唱会再现金鱼嘴飞吻",
+      "onboard_time": 1755429562,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 86861,
@@ -2643,6 +2763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71328,
+      "num": 140514,
+      "word": "女明星牧场初舞台",
+      "onboard_time": 1755428842,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70946,
       "num": 196367,
       "word": "袁一琦蓝玫瑰花海麦架",
@@ -2723,12 +2851,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 53685,
-      "num": 100158,
-      "word": "女子求职要求双休遭言语侮辱",
-      "onboard_time": 1755426563,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 52788,
+      "num": 183602,
+      "word": "庞博朱广权科技男团",
+      "onboard_time": 1755427402,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 52664,
@@ -2875,20 +3003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38189,
-      "num": 116726,
-      "word": "扔掉8千枚比特币的程序员放弃寻找",
-      "onboard_time": 1755427162,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 36541,
       "num": 135094,
       "word": "谁是在泰国最火爆的精神搭子",
       "onboard_time": 1755357982,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35995,
+      "num": 138334,
+      "word": "73岁老人扛80斤特产辗转千里看儿孙",
+      "onboard_time": 1755428482,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35921,
@@ -2985,14 +3113,6 @@
       "onboard_time": 1755343041,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31484,
-      "num": 96726,
-      "word": "庞博朱广权科技男团",
-      "onboard_time": 1755427402,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 30941,
@@ -3140,6 +3260,9 @@
     },
     {
       "word": "#一步一履只为大江换新颜#"
+    },
+    {
+      "word": "#使绿水青山产生巨大效益#"
     }
   ]
 }
