@@ -1,0 +1,410 @@
+{
+  "runTime": 1755438324831,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1233266,
+        "num": 1233266,
+        "word": "孙怡 结婚得到的要比我赚钱幸福得多",
+        "onboard_time": 1755429743,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680187,
+        "num": 680187,
+        "word": "3女子买房避暑被树砸致1死2伤",
+        "onboard_time": 1755431723,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6052,
+        "num": 603977,
+        "word": "中国世遗8分钟视频纯享版",
+        "onboard_time": 1755398422,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1008611,
+        "num": 598081,
+        "word": "戚薇大方承认医美过度",
+        "onboard_time": 1755434663,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576677,
+        "num": 576677,
+        "word": "林高远止步欧洲大满贯首轮",
+        "onboard_time": 1755434903,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469734,
+        "num": 469734,
+        "word": "上海新增一所世界500强大学",
+        "onboard_time": 1755437544,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 573761,
+        "num": 465963,
+        "word": "生万物",
+        "onboard_time": 1755431842,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457315,
+        "num": 457315,
+        "word": "刘宇宁直播",
+        "onboard_time": 1755430581,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365694,
+        "num": 365694,
+        "word": "九三阅兵演练现场",
+        "onboard_time": 1755429801,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 340001,
+        "num": 340001,
+        "word": "曝王楚钦因档期取消金九拍摄",
+        "onboard_time": 1755437484,
+        "rank": 9,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 564081,
+        "num": 333692,
+        "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
+        "onboard_time": 1755426202,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486195,
+        "num": 326882,
+        "word": "梓渝新歌",
+        "onboard_time": 1755435983,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 454125,
+        "num": 316739,
+        "word": "韩安冉小女儿从出生到现在经常生病",
+        "onboard_time": 1755432082,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 353385,
+        "num": 314087,
+        "word": "虞书欣双麻花辫抹胸造型",
+        "onboard_time": 1755431002,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308881,
+        "num": 308881,
+        "word": "苏州火车站女厕标识被指易误解为男厕",
+        "onboard_time": 1755433343,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331476,
+        "num": 307020,
+        "word": "肖战余烬共生曲",
+        "onboard_time": 1755434962,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301324,
+        "num": 301324,
+        "word": "微信号真的会透露很多隐私",
+        "onboard_time": 1755426442,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295877,
+        "num": 295877,
+        "word": "苏超",
+        "onboard_time": 1755431903,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266154,
+        "num": 266154,
+        "word": "生万物热度",
+        "onboard_time": 1755436345,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258060,
+        "num": 258060,
+        "word": "虞书欣方持续取证中",
+        "onboard_time": 1755437963,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493368,
+        "num": 256766,
+        "word": "马天宇 啥也不会只会哭",
+        "onboard_time": 1755427643,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322124,
+        "num": 250663,
+        "word": "从表兄妹结婚后胎儿患罕见遗传病",
+        "onboard_time": 1755437364,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242410,
+        "num": 242410,
+        "word": "中国军人的脚步声太齐了",
+        "onboard_time": 1755431903,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235779,
+        "num": 235779,
+        "word": "向鹏1比3奥恰洛夫",
+        "onboard_time": 1755436945,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59470,
+        "num": 213936,
+        "word": "苏超现场网速第一友谊第十四",
+        "onboard_time": 1755434062,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199292,
+        "num": 199292,
+        "word": "新西兰警方回应收到中式锦旗",
+        "onboard_time": 1755432744,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189428,
+        "num": 189428,
+        "word": "金九",
+        "onboard_time": 1755415162,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 178467,
+        "num": 185814,
+        "word": "李连杰称面对死亡已非常淡然",
+        "onboard_time": 1755436705,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51357,
+        "num": 184559,
+        "word": "下周热热热加雨雨雨",
+        "onboard_time": 1755438023,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26688,
+        "num": 184404,
+        "word": "棉密码超百位受害者陷维权困局",
+        "onboard_time": 1755437484,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 184370,
+        "num": 184370,
+        "word": "TES对战BLG",
+        "onboard_time": 1755430764,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182905,
+        "num": 182905,
+        "word": "TES战胜BLG",
+        "onboard_time": 1755437004,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182446,
+        "num": 182446,
+        "word": "苏超南京vs盐城",
+        "onboard_time": 1755432862,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171753,
+        "num": 171753,
+        "word": "果然婆婆基础公公就不基础",
+        "onboard_time": 1755436885,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169899,
+        "num": 169899,
+        "word": "iPhone千万别删的自带软件",
+        "onboard_time": 1755423263,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168833,
+        "num": 168833,
+        "word": "苏超南通vs连云港",
+        "onboard_time": 1755435564,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166720,
+        "num": 166720,
+        "word": "姚明轻拍邓超头",
+        "onboard_time": 1755437424,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 165836,
+        "num": 165836,
+        "word": "苏超南京2比2盐城",
+        "onboard_time": 1755437904,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154200,
+        "num": 160529,
+        "word": "小鹿的备孕方式还是太超前了",
+        "onboard_time": 1755432983,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67173,
+        "num": 158570,
+        "word": "洱海走失的12岁自闭症男孩已确认找回",
+        "onboard_time": 1755437183,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157742,
+        "num": 157742,
+        "word": "余茵教科书级别的饭撒",
+        "onboard_time": 1755436283,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55969,
+        "num": 155877,
+        "word": "杨幂欧豪一起升万wow",
+        "onboard_time": 1755438265,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155521,
+        "num": 155521,
+        "word": "微信转账记得加一个动作",
+        "onboard_time": 1755406700,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152145,
+        "num": 152145,
+        "word": "12岁自闭症男孩大理洱海走失",
+        "onboard_time": 1755432144,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151975,
+        "num": 151975,
+        "word": "封大脚让人感觉像三伏天喝了碗凉水",
+        "onboard_time": 1755434962,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150551,
+        "num": 150551,
+        "word": "麦当劳奶昔2杯二手平台卖150元",
+        "onboard_time": 1755438083,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149295,
+        "num": 149295,
+        "word": "音乐博主辟谣梓渝假唱",
+        "onboard_time": 1755432922,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140546,
+        "num": 140546,
+        "word": "张子枫说广东凉茶可以代替冰美式",
+        "onboard_time": 1755434663,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138393,
+        "num": 138393,
+        "word": "王心凌北京演唱会嘉宾是周深",
+        "onboard_time": 1755436103,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135996,
+        "num": 135996,
+        "word": "胡歌刘诗诗袁弘送李国立餐馆花篮",
+        "onboard_time": 1755433343,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一履只为大江换新颜#"
+    }
+  }
+}

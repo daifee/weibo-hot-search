@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755437639786,
+  "endTime": 1755438324831,
   "band_list": [
     {
       "raw_hot": 2033517,
@@ -49,6 +49,14 @@
       "onboard_time": 1755367456,
       "rank": 0,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 1008611,
+      "num": 729346,
+      "word": "戚薇大方承认医美过度",
+      "onboard_time": 1755434663,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 1001740,
@@ -168,14 +176,6 @@
       "word": "孙一宁在韩国买衣服被店员翻白眼",
       "onboard_time": 1755413903,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 729346,
-      "num": 729346,
-      "word": "戚薇大方承认医美过度",
-      "onboard_time": 1755434663,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -323,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 573761,
+      "num": 465963,
+      "word": "生万物",
+      "onboard_time": 1755344363,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559756,
       "num": 372672,
       "word": "梓渝话筒颜色换了",
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469734,
+      "num": 469734,
+      "word": "上海新增一所世界500强大学",
+      "onboard_time": 1755437544,
+      "rank": 14,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 463876,
       "num": 463876,
       "word": "机场拦截的充电宝成抢手货",
@@ -491,14 +507,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 406469,
-      "num": 406469,
-      "word": "生万物",
-      "onboard_time": 1755344363,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 398442,
       "num": 398442,
       "word": "杨幂这段没有一句台词",
@@ -545,14 +553,6 @@
       "onboard_time": 1755421102,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 361800,
-      "num": 361800,
-      "word": "上海新增一所世界500强大学",
-      "onboard_time": 1755437544,
-      "rank": 14,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 358646,
@@ -603,6 +603,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 340001,
+      "num": 340001,
+      "word": "曝王楚钦因档期取消金九拍摄",
+      "onboard_time": 1755437484,
+      "rank": 35,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 339179,
       "num": 217658,
       "word": "朋友圈三天可见 置顶特别长",
@@ -651,6 +659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 322124,
+      "num": 250663,
+      "word": "从表兄妹结婚后胎儿患罕见遗传病",
+      "onboard_time": 1755437364,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320142,
       "num": 390502,
       "word": "作家梁晓声再谈孙颖莎",
@@ -675,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308881,
+      "num": 400047,
+      "word": "苏州火车站女厕标识被指易误解为男厕",
+      "onboard_time": 1755433343,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302667,
       "num": 302667,
       "word": "肖宇梁时隔4年半进组了",
@@ -697,6 +721,14 @@
       "onboard_time": 1755418342,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 295877,
+      "num": 295877,
+      "word": "苏超",
+      "onboard_time": 1755431903,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 294019,
@@ -827,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266154,
+      "num": 266154,
+      "word": "生万物热度",
+      "onboard_time": 1755436345,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260487,
       "num": 260487,
       "word": "TOP登陆少年体重",
@@ -851,6 +891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 258060,
+      "num": 258060,
+      "word": "虞书欣方持续取证中",
+      "onboard_time": 1755437963,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249946,
       "num": 249946,
       "word": "iPhone可以很富士",
@@ -865,14 +913,6 @@
       "onboard_time": 1755427162,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 246319,
-      "num": 246319,
-      "word": "生万物热度",
-      "onboard_time": 1755436345,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 239827,
@@ -1011,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202067,
-      "num": 202067,
-      "word": "从表兄妹结婚后胎儿患罕见遗传病",
-      "onboard_time": 1755437364,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199523,
       "num": 186799,
       "word": "孙怡送马天宇一辆三轮车",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1755425243,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199084,
-      "num": 400047,
-      "word": "苏州火车站女厕标识被指易误解为男厕",
-      "onboard_time": 1755433343,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197986,
@@ -1219,6 +1243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182446,
+      "num": 182446,
+      "word": "苏超南京vs盐城",
+      "onboard_time": 1755432862,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181688,
       "num": 181688,
       "word": "一年一部年代剧",
@@ -1227,20 +1259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180984,
-      "num": 180984,
-      "word": "苏超",
-      "onboard_time": 1755431903,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178703,
       "num": 238473,
       "word": "12岁自闭症男孩大理洱海走失",
       "onboard_time": 1755432144,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178467,
+      "num": 185814,
+      "word": "李连杰称面对死亡已非常淡然",
+      "onboard_time": 1755436705,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 176344,
@@ -1313,14 +1345,6 @@
       "onboard_time": 1755422301,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173552,
-      "num": 173552,
-      "word": "曝王楚钦因档期取消金九拍摄",
-      "onboard_time": 1755437484,
-      "rank": 35,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 173475,
@@ -1411,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168833,
+      "num": 168833,
+      "word": "苏超南通vs连云港",
+      "onboard_time": 1755435564,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168621,
       "num": 168621,
       "word": "姑姑霸占侄女房子居住近10年",
@@ -1427,6 +1459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166720,
+      "num": 166720,
+      "word": "姚明轻拍邓超头",
+      "onboard_time": 1755437424,
+      "rank": 41,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 166462,
       "num": 166462,
       "word": "辛云来录个hi6我要笑两天",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1755406042,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165836,
+      "num": 165836,
+      "word": "苏超南京2比2盐城",
+      "onboard_time": 1755437904,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 165695,
@@ -1651,20 +1699,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150551,
+      "num": 150551,
+      "word": "麦当劳奶昔2杯二手平台卖150元",
+      "onboard_time": 1755438083,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150405,
       "num": 150405,
       "word": "去新疆的100个理由",
       "onboard_time": 1755407780,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 150395,
-      "num": 150395,
-      "word": "姚明轻拍邓超头",
-      "onboard_time": 1755437424,
-      "rank": 41,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 150249,
@@ -2083,14 +2131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 132336,
-      "num": 132336,
-      "word": "苏超南通vs连云港",
-      "onboard_time": 1755435564,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131994,
       "num": 131994,
       "word": "李连杰患甲亢",
@@ -2321,14 +2361,6 @@
       "onboard_time": 1755432744,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119614,
-      "num": 119614,
-      "word": "苏超南京vs盐城",
-      "onboard_time": 1755432862,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 119508,
@@ -3228,7 +3260,7 @@
     },
     {
       "raw_hot": 73327,
-      "num": 157967,
+      "num": 158570,
       "word": "洱海走失的12岁自闭症男孩已确认找回",
       "onboard_time": 1755437183,
       "rank": 39,
@@ -3331,6 +3363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55969,
+      "num": 155877,
+      "word": "杨幂欧豪一起升万wow",
+      "onboard_time": 1755438265,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54960,
       "num": 139980,
       "word": "特朗普称美准备为乌提供安全保障",
@@ -3353,6 +3393,14 @@
       "onboard_time": 1755340760,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51357,
+      "num": 184559,
+      "word": "下周热热热加雨雨雨",
+      "onboard_time": 1755438023,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46474,
@@ -3644,7 +3692,7 @@
     },
     {
       "raw_hot": 27530,
-      "num": 178959,
+      "num": 184404,
       "word": "棉密码超百位受害者陷维权困局",
       "onboard_time": 1755437484,
       "rank": 32,
