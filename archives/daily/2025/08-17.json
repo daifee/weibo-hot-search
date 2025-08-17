@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755441727556,
+  "endTime": 1755444355149,
   "band_list": [
     {
       "raw_hot": 2703584,
@@ -75,6 +75,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 1033074,
+      "num": 1165291,
+      "word": "虞书欣方持续取证中",
+      "onboard_time": 1755437963,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1008611,
       "num": 906157,
       "word": "戚薇大方承认医美过度",
@@ -121,14 +129,6 @@
       "onboard_time": 1755362182,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 909975,
-      "num": 621500,
-      "word": "虞书欣方持续取证中",
-      "onboard_time": 1755437963,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 907764,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624005,
+      "num": 624005,
+      "word": "不敢想九三阅兵会有多震撼",
+      "onboard_time": 1755440905,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 607679,
       "num": 367552,
       "word": "虞书欣双麻花辫抹胸造型",
@@ -467,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466245,
+      "num": 302799,
+      "word": "褪黑素",
+      "onboard_time": 1755443484,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 463876,
       "num": 463876,
       "word": "机场拦截的充电宝成抢手货",
       "onboard_time": 1755411922,
       "rank": 9,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 456991,
+      "num": 178171,
+      "word": "多女性用棉密码病变速度让医生震惊",
+      "onboard_time": 1755441265,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 455171,
@@ -577,6 +601,14 @@
       "onboard_time": 1755439644,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404107,
+      "num": 404107,
+      "word": "1750瓶茅台一原所有人已被执行死刑",
+      "onboard_time": 1755441805,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 398442,
@@ -955,6 +987,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 247311,
+      "num": 247311,
+      "word": "花少7首播收视率",
+      "onboard_time": 1755442463,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243852,
+      "num": 243852,
+      "word": "坐高铁遇400斤邻座12306不该甩锅",
+      "onboard_time": 1755441265,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239827,
       "num": 239827,
       "word": "生万物 万物生",
@@ -1011,14 +1059,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 221102,
-      "num": 558911,
-      "word": "不敢想九三阅兵会有多震撼",
-      "onboard_time": 1755440905,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 220412,
       "num": 220412,
       "word": "明天出伏了",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1755394880,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213951,
+      "num": 213951,
+      "word": "减肥时早睡可能比跑步更管用",
+      "onboard_time": 1755441086,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 211648,
@@ -1145,6 +1193,14 @@
       "onboard_time": 1755440965,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200057,
+      "num": 200057,
+      "word": "刘宇宁 咱们家粉不是入坑是中奖",
+      "onboard_time": 1755443843,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 199523,
@@ -1377,6 +1433,22 @@
       "onboard_time": 1755432144,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178329,
+      "num": 178329,
+      "word": "小男孩认错爸爸阴差阳错拼出一个家",
+      "onboard_time": 1755443123,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177004,
+      "num": 177004,
+      "word": "曼联vs阿森纳",
+      "onboard_time": 1755443303,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 176344,
@@ -1619,6 +1691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164679,
+      "num": 164679,
+      "word": "等枝桠成繁花",
+      "onboard_time": 1755443843,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162953,
       "num": 162953,
       "word": "章若楠就这样穿着人字拖出现了",
@@ -1777,6 +1857,14 @@
       "onboard_time": 1755423502,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155041,
+      "num": 155041,
+      "word": "五月天演唱会上偶遇李现",
+      "onboard_time": 1755435082,
+      "rank": 35,
+      "category": "演出,作品衍生"
     },
     {
       "raw_hot": 154936,
@@ -2027,19 +2115,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144243,
-      "num": 144243,
-      "word": "减肥时早睡可能比跑步更管用",
-      "onboard_time": 1755441086,
-      "rank": 42,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 142167,
       "num": 142167,
       "word": "陈奕恒鼻梁贴",
       "onboard_time": 1755415702,
       "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 141645,
+      "num": 141645,
+      "word": "玛莎 谢谢北京",
+      "onboard_time": 1755443723,
+      "rank": 40,
       "category": "演出"
     },
     {
@@ -2137,14 +2225,6 @@
       "onboard_time": 1755415642,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138018,
-      "num": 138018,
-      "word": "五月天演唱会上偶遇李现",
-      "onboard_time": 1755435082,
-      "rank": 35,
-      "category": "演出,作品衍生"
     },
     {
       "raw_hot": 137907,
@@ -2619,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117975,
+      "num": 117975,
+      "word": "马桶纸应该光滑的一面朝下",
+      "onboard_time": 1755441086,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 117693,
       "num": 136870,
       "word": "全场的消费由刘宇宁买单",
@@ -2723,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113287,
+      "num": 214116,
+      "word": "日本战犯被16张照片打脸",
+      "onboard_time": 1755443783,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113282,
       "num": 197509,
       "word": "台湾老百姓都清清楚楚看在眼里",
@@ -2737,6 +2833,14 @@
       "onboard_time": 1755408442,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113218,
+      "num": 113218,
+      "word": "生万物预告",
+      "onboard_time": 1755441865,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 113214,
@@ -2787,14 +2891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111002,
-      "num": 150392,
-      "word": "多女性用棉密码病变速度让医生震惊",
-      "onboard_time": 1755441265,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110798,
       "num": 110798,
       "word": "戚薇早期真的美到没边",
@@ -2827,6 +2923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107828,
+      "num": 107828,
+      "word": "黄子弘凡这是真魅魔吧",
+      "onboard_time": 1755444323,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107670,
       "num": 107670,
       "word": "疑似机器人报复人类",
@@ -2857,6 +2961,14 @@
       "onboard_time": 1755419421,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106278,
+      "num": 106278,
+      "word": "孙颖莎嚼嚼嚼",
+      "onboard_time": 1755444323,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 106064,
@@ -3185,14 +3297,6 @@
       "onboard_time": 1755426262,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 93476,
-      "num": 155385,
-      "word": "坐高铁遇400斤邻座12306不该甩锅",
-      "onboard_time": 1755441265,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91485,
@@ -3585,6 +3689,22 @@
       "onboard_time": 1755405261,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59083,
+      "num": 142458,
+      "word": "25楼丢血枕头求救当事人发声",
+      "onboard_time": 1755443245,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58918,
+      "num": 142023,
+      "word": "谢娜家风就是女儿一定要被宠爱着长大",
+      "onboard_time": 1755443663,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 56588,
@@ -4073,6 +4193,14 @@
       "onboard_time": 1755375914,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 3270,
+      "num": 726258,
+      "word": "中国队世运会夺金时刻好燃",
+      "onboard_time": 1755392360,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -4087,6 +4215,9 @@
     },
     {
       "word": "#使绿水青山产生巨大效益#"
+    },
+    {
+      "word": "#论坚持全面深化改革#"
     }
   ]
 }
