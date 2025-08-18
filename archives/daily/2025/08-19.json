@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755545945188,
+  "endTime": 1755548851840,
   "band_list": [
     {
       "raw_hot": 762995,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62102,
+      "num": 73063,
+      "word": "银川高级中学通报网传学生虐猫",
+      "onboard_time": 1755536058,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 61933,
       "num": 61933,
       "word": "封四太坏了",
@@ -425,14 +433,6 @@
       "onboard_time": 1755515902,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49987,
-      "num": 73063,
-      "word": "银川高级中学通报网传学生虐猫",
-      "onboard_time": 1755536058,
-      "rank": 38,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 43383,
@@ -537,6 +537,14 @@
       "onboard_time": 1755499462,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13184,
+      "num": 37249,
+      "word": "女子帮网恋男友买20万元黄金",
+      "onboard_time": 1755547694,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

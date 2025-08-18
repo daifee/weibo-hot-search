@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755545945188,
+  "endTime": 1755548851840,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -56219,6 +56219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62102,
+      "num": 73063,
+      "word": "银川高级中学通报网传学生虐猫",
+      "onboard_time": 1755536058,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 62064,
       "num": 325624,
       "word": "8系新人打脸霸总",
@@ -57873,14 +57881,6 @@
       "onboard_time": 1754638582,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49987,
-      "num": 73063,
-      "word": "银川高级中学通报网传学生虐猫",
-      "onboard_time": 1755536058,
-      "rank": 38,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 49878,
@@ -62481,6 +62481,14 @@
       "onboard_time": 1754165954,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13184,
+      "num": 37249,
+      "word": "女子帮网恋男友买20万元黄金",
+      "onboard_time": 1755547694,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13129,
