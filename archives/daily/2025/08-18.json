@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755516281283,
+  "endTime": 1755517214817,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -387,6 +387,14 @@
       "category": "艺人,网红"
     },
     {
+      "raw_hot": 541219,
+      "num": 541219,
+      "word": "续面事件老板发声道歉网友毫不买账",
+      "onboard_time": 1755513682,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530372,
       "num": 530372,
       "word": "一家三口被害案凶手被判死刑",
@@ -419,20 +427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492135,
-      "num": 492135,
-      "word": "续面事件老板发声道歉网友毫不买账",
-      "onboard_time": 1755513682,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 489005,
       "num": 247830,
       "word": "田曦薇赖伟明晒同款炒饭",
       "onboard_time": 1755502463,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488536,
+      "num": 488536,
+      "word": "王伟忠因为藏海传去探访郑晓龙",
+      "onboard_time": 1755514641,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 474694,
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409423,
+      "num": 455626,
+      "word": "王影璐瘦成啥样了",
+      "onboard_time": 1755513742,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403528,
       "num": 321371,
       "word": "签售姐Viper 跑路",
@@ -563,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 335876,
-      "num": 455626,
-      "word": "王影璐瘦成啥样了",
-      "onboard_time": 1755513742,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334250,
       "num": 341054,
       "word": "九三阅兵倒计时半个月",
@@ -585,14 +593,6 @@
       "onboard_time": 1755491063,
       "rank": 11,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 329202,
-      "num": 451891,
-      "word": "王伟忠因为藏海传去探访郑晓龙",
-      "onboard_time": 1755514641,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 327978,
@@ -641,6 +641,14 @@
       "onboard_time": 1755475040,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 314589,
+      "num": 449582,
+      "word": "时代少年团 素颜",
+      "onboard_time": 1755512781,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 313951,
@@ -705,14 +713,6 @@
       "onboard_time": 1755487883,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287848,
-      "num": 449582,
-      "word": "时代少年团 素颜",
-      "onboard_time": 1755512781,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 285139,
@@ -985,6 +985,14 @@
       "onboard_time": 1755450439,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205798,
+      "num": 448405,
+      "word": "孩子身高水涨船高传统标准迎挑战",
+      "onboard_time": 1755515720,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203012,
@@ -1267,6 +1275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174668,
+      "num": 174668,
+      "word": "杨幂拍生万物住简陋招待所",
+      "onboard_time": 1755515902,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174274,
       "num": 174274,
       "word": "杨幂曾用我的微博发自拍",
@@ -1435,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161120,
+      "num": 312355,
+      "word": "中国医生救回身首离断患者",
+      "onboard_time": 1755512062,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 160509,
       "num": 160509,
       "word": "中国男篮这块银牌含金量足够高",
@@ -1483,14 +1507,6 @@
       "category": "剧集,剧集"
     },
     {
-      "raw_hot": 156282,
-      "num": 156282,
-      "word": "杨幂拍生万物住简陋招待所",
-      "onboard_time": 1755515902,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156138,
       "num": 156138,
       "word": "中国男篮亚洲杯五佳球",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1755504862,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151684,
-      "num": 448405,
-      "word": "孩子身高水涨船高传统标准迎挑战",
-      "onboard_time": 1755515720,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151659,
@@ -1696,6 +1704,14 @@
       "word": "苏苏文典先婚后爱",
       "onboard_time": 1755448641,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140875,
+      "num": 140875,
+      "word": "跟陈飞宇的手有点暧昧了",
+      "onboard_time": 1755516682,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1876,11 +1892,19 @@
     },
     {
       "raw_hot": 132192,
-      "num": 147590,
+      "num": 298014,
       "word": "谷爱凌成为2026冬奥火炬手",
       "onboard_time": 1755513861,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132163,
+      "num": 138912,
+      "word": "这田曦薇也太美了",
+      "onboard_time": 1755515842,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 131990,
@@ -2027,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125740,
+      "num": 100949,
+      "word": "昆明夫妻旅游回家看到客厅爬满蛇",
+      "onboard_time": 1755516620,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125206,
       "num": 125206,
       "word": "微信号真的会透露很多隐私",
@@ -2067,20 +2099,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120497,
-      "num": 138912,
-      "word": "这田曦薇也太美了",
-      "onboard_time": 1755515842,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120034,
       "num": 199439,
       "word": "杨幂宁绣绣首条百万点赞视频",
       "onboard_time": 1755481219,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119820,
+      "num": 119820,
+      "word": "有没有体面过七夕的办法",
+      "onboard_time": 1755516500,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 119529,
@@ -2243,6 +2275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110743,
+      "num": 110743,
+      "word": "朴彩英再现APT名场面",
+      "onboard_time": 1755516381,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 110713,
+      "num": 110713,
+      "word": "子夜归热度",
+      "onboard_time": 1755516860,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109902,
       "num": 109902,
       "word": "绣绣收留苏苏",
@@ -2275,6 +2323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108715,
+      "num": 112644,
+      "word": "护士获刑被开除医院仍缴社保等14万",
+      "onboard_time": 1755513022,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108458,
       "num": 108458,
       "word": "成都暴雨",
@@ -2305,14 +2361,6 @@
       "onboard_time": 1755448400,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 107040,
-      "num": 112644,
-      "word": "护士获刑被开除医院仍缴社保等14万",
-      "onboard_time": 1755513022,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106991,
@@ -2435,8 +2483,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98729,
-      "num": 98729,
+      "raw_hot": 98960,
+      "num": 98960,
       "word": "时隔一年周深回大莲花了",
       "onboard_time": 1755515961,
       "rank": 46,
@@ -2480,6 +2528,14 @@
       "word": "中国男篮拼到最后一秒",
       "onboard_time": 1755455235,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96863,
+      "num": 96863,
+      "word": "陈幸同3比0杜凯琹",
+      "onboard_time": 1755517160,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2601,14 +2657,6 @@
       "onboard_time": 1755454937,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83372,
-      "num": 312355,
-      "word": "中国医生救回身首离断患者",
-      "onboard_time": 1755512062,
-      "rank": 19,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 80987,
@@ -3153,6 +3201,14 @@
       "onboard_time": 1755511282,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23082,
+      "num": 123875,
+      "word": "500元法拍猫寄养宠物店将参与竞拍",
+      "onboard_time": 1755516742,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22958,
