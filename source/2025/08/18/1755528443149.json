@@ -1,0 +1,410 @@
+{
+  "runTime": 1755528443149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2010192,
+        "num": 2010192,
+        "word": "妈妈意外去世孩子疑和遗体呆了几天",
+        "onboard_time": 1755525385,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1426477,
+        "num": 1426477,
+        "word": "iG战胜BLG",
+        "onboard_time": 1755526463,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52568,
+        "num": 1174827,
+        "word": "想看阅兵的心到达了顶峰",
+        "onboard_time": 1755499462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1111911,
+        "num": 1111911,
+        "word": "辛巴退出直播行业",
+        "onboard_time": 1755522923,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1062859,
+        "num": 1062859,
+        "word": "万妮达与男友合照",
+        "onboard_time": 1755523643,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419640,
+        "num": 419640,
+        "word": "iG起诉炫神",
+        "onboard_time": 1755514822,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 676893,
+        "num": 412991,
+        "word": "田曦薇否认与赖伟明恋情",
+        "onboard_time": 1755517343,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384718,
+        "num": 384718,
+        "word": "乃万发长文倾诉委屈",
+        "onboard_time": 1755517640,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345716,
+        "num": 345716,
+        "word": "孩子脱鞋138cm补票后家长投诉退票",
+        "onboard_time": 1755510803,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202129,
+        "num": 202129,
+        "word": "债市崩了",
+        "onboard_time": 1755527664,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 750549,
+        "num": 200558,
+        "word": "网友涌入七匹狼直播间刷续面事件",
+        "onboard_time": 1755520883,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571771,
+        "num": 200347,
+        "word": "女孩被同班男生送回家途中杀害",
+        "onboard_time": 1755507023,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570739,
+        "num": 200064,
+        "word": "王星越10万红包",
+        "onboard_time": 1755523403,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198726,
+        "num": 198726,
+        "word": "男子与儿认亲2年后又一儿子找来",
+        "onboard_time": 1755520402,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473594,
+        "num": 198713,
+        "word": "真的建议不要喝点外卖送的饮料",
+        "onboard_time": 1755509421,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371068,
+        "num": 197503,
+        "word": "生万物",
+        "onboard_time": 1755527244,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363444,
+        "num": 197177,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1755506302,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355558,
+        "num": 196614,
+        "word": "子夜归 李沛恩",
+        "onboard_time": 1755517761,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345692,
+        "num": 195665,
+        "word": "三岁的猫坐了两年牢",
+        "onboard_time": 1755520041,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165955,
+        "num": 195227,
+        "word": "奥迪E5预售23.59万",
+        "onboard_time": 1755525144,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 343643,
+        "num": 194481,
+        "word": "张晋血管堵塞80%",
+        "onboard_time": 1755511221,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268836,
+        "num": 193469,
+        "word": "费文典 跑男",
+        "onboard_time": 1755526042,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266498,
+        "num": 192881,
+        "word": "续面事件老板发声道歉网友毫不买账",
+        "onboard_time": 1755513682,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223188,
+        "num": 192281,
+        "word": "封四太坏了",
+        "onboard_time": 1755525863,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111590,
+        "num": 191475,
+        "word": "非特殊工种限制招聘性别或涉嫌违规",
+        "onboard_time": 1755527064,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222489,
+        "num": 190905,
+        "word": "王伟忠因为藏海传去探访郑晓龙",
+        "onboard_time": 1755514641,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190334,
+        "num": 190334,
+        "word": "F勒布伦瑞满一轮游",
+        "onboard_time": 1755527603,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44375,
+        "num": 190333,
+        "word": "法拍狸花猫引超21万次围观",
+        "onboard_time": 1755526824,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174540,
+        "num": 190223,
+        "word": "辽GM8297司机承认是故意的",
+        "onboard_time": 1755512242,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 203625,
+        "num": 190160,
+        "word": "男子被女友骗至缅甸电诈园被打尿血",
+        "onboard_time": 1755518123,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200475,
+        "num": 190106,
+        "word": "虞书欣小林老师杀青文",
+        "onboard_time": 1755527844,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190046,
+        "num": 190046,
+        "word": "孙一宁因喝酒进医院",
+        "onboard_time": 1755520101,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184083,
+        "num": 184083,
+        "word": "Wei采访",
+        "onboard_time": 1755527664,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183756,
+        "num": 183756,
+        "word": "辛巴将公司交给了初瑞雪",
+        "onboard_time": 1755527123,
+        "rank": 33,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 176178,
+        "num": 176178,
+        "word": "杨洋好权威的一张脸",
+        "onboard_time": 1755527363,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171105,
+        "num": 171105,
+        "word": "子夜归开播",
+        "onboard_time": 1755512422,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162737,
+        "num": 162737,
+        "word": "王玉雯 避雷陈星旭这个摄影师",
+        "onboard_time": 1755502102,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155950,
+        "num": 159548,
+        "word": "九尾做点啥能让自己开心",
+        "onboard_time": 1755527123,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158793,
+        "num": 158793,
+        "word": "中国人自己的老花有多美",
+        "onboard_time": 1755520283,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154442,
+        "num": 154442,
+        "word": "人社局回应胖东来保安保洁招聘争议",
+        "onboard_time": 1755523882,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153629,
+        "num": 153629,
+        "word": "刻薄是真刻薄好看也是真好看",
+        "onboard_time": 1755526164,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152016,
+        "num": 152016,
+        "word": "震撼视角看世运会闭幕式焰火",
+        "onboard_time": 1755527603,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134642,
+        "num": 134642,
+        "word": "张雨绮这是真的出图路透",
+        "onboard_time": 1755528142,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131890,
+        "num": 131890,
+        "word": "为什么你总是深受情伤",
+        "onboard_time": 1755527844,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130820,
+        "num": 130820,
+        "word": "王皓 上岸先斩意中人",
+        "onboard_time": 1755495981,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124967,
+        "num": 124967,
+        "word": "邪修出图就是快",
+        "onboard_time": 1755524844,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122505,
+        "num": 122505,
+        "word": "生万物三集演满七情跌宕",
+        "onboard_time": 1755525623,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117876,
+        "num": 117876,
+        "word": "iG翻盘BLG",
+        "onboard_time": 1755519861,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113254,
+        "num": 113254,
+        "word": "孙颖莎vs高达",
+        "onboard_time": 1755520283,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112977,
+        "num": 112977,
+        "word": "A股创造了多个历史",
+        "onboard_time": 1755526405,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}

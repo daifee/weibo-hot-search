@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755527340042,
+  "endTime": 1755528443149,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1912633,
-      "num": 1912633,
+      "raw_hot": 2010192,
+      "num": 2010192,
       "word": "妈妈意外去世孩子疑和遗体呆了几天",
       "onboard_time": 1755525385,
       "rank": 0,
@@ -299,6 +299,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 1062859,
+      "num": 1062859,
+      "word": "万妮达与男友合照",
+      "onboard_time": 1755523643,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1062371,
       "num": 678056,
       "word": "孙丞潇 我只有金莎一个美女",
@@ -313,14 +321,6 @@
       "onboard_time": 1755453198,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1042733,
-      "num": 1042733,
-      "word": "万妮达与男友合照",
-      "onboard_time": 1755523643,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1029790,
@@ -1731,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268836,
+      "num": 200914,
+      "word": "费文典 跑男",
+      "onboard_time": 1755526042,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267540,
       "num": 258350,
       "word": "李连杰生病住院",
@@ -2035,6 +2043,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 223188,
+      "num": 192281,
+      "word": "封四太坏了",
+      "onboard_time": 1755525863,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222639,
       "num": 188273,
       "word": "果然婆婆基础公公就不基础",
@@ -2251,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202129,
+      "num": 202129,
+      "word": "债市崩了",
+      "onboard_time": 1755527664,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 202081,
       "num": 188478,
       "word": "小男孩认错爸爸阴差阳错拼出一个家",
@@ -2275,11 +2299,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200914,
-      "num": 200914,
-      "word": "费文典 跑男",
-      "onboard_time": 1755526042,
-      "rank": 25,
+      "raw_hot": 200475,
+      "num": 190106,
+      "word": "虞书欣小林老师杀青文",
+      "onboard_time": 1755527844,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -2539,6 +2563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190334,
+      "num": 190334,
+      "word": "F勒布伦瑞满一轮游",
+      "onboard_time": 1755527603,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190241,
       "num": 244602,
       "word": "美俄会晤机密文件疑泄露",
@@ -2643,14 +2675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185400,
-      "num": 185400,
-      "word": "封四太坏了",
-      "onboard_time": 1755525863,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184742,
       "num": 184742,
       "word": "第一次见天崩开局的综艺首录",
@@ -2667,12 +2691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184083,
+      "num": 184083,
+      "word": "Wei采访",
+      "onboard_time": 1755527664,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183980,
       "num": 183980,
       "word": "柯南七夕告别场是99不88",
       "onboard_time": 1755490163,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 183756,
+      "num": 183756,
+      "word": "辛巴将公司交给了初瑞雪",
+      "onboard_time": 1755527123,
+      "rank": 39,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 183737,
@@ -2793,6 +2833,14 @@
       "onboard_time": 1755408562,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176178,
+      "num": 176178,
+      "word": "杨洋好权威的一张脸",
+      "onboard_time": 1755527363,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176080,
@@ -3555,6 +3603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152016,
+      "num": 152016,
+      "word": "震撼视角看世运会闭幕式焰火",
+      "onboard_time": 1755527603,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151720,
       "num": 151720,
       "word": "生万物天牛庙村不养怂人",
@@ -4307,6 +4363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134642,
+      "num": 134642,
+      "word": "张雨绮这是真的出图路透",
+      "onboard_time": 1755528142,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134620,
       "num": 134620,
       "word": "马天宇节目中回应耍大牌",
@@ -4361,14 +4425,6 @@
       "onboard_time": 1755404781,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133464,
-      "num": 133464,
-      "word": "辛巴将公司交给了初瑞雪",
-      "onboard_time": 1755527123,
-      "rank": 39,
-      "category": "网红,互联网"
     },
     {
       "raw_hot": 133434,
@@ -4441,6 +4497,14 @@
       "onboard_time": 1755505761,
       "rank": 41,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 131890,
+      "num": 131890,
+      "word": "为什么你总是深受情伤",
+      "onboard_time": 1755527844,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 131888,
@@ -5283,6 +5347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112977,
+      "num": 112977,
+      "word": "A股创造了多个历史",
+      "onboard_time": 1755526405,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112849,
       "num": 112849,
       "word": "贺峻霖导演和编剧的小作业",
@@ -5345,6 +5417,14 @@
       "onboard_time": 1755443663,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111590,
+      "num": 287798,
+      "word": "非特殊工种限制招聘性别或涉嫌违规",
+      "onboard_time": 1755527064,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111268,
@@ -5673,14 +5753,6 @@
       "onboard_time": 1755419661,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103428,
-      "num": 103428,
-      "word": "A股创造了多个历史",
-      "onboard_time": 1755526405,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 103220,
@@ -6041,14 +6113,6 @@
       "onboard_time": 1755420022,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95043,
-      "num": 287798,
-      "word": "非特殊工种限制招聘性别或涉嫌违规",
-      "onboard_time": 1755527064,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94975,
@@ -7065,6 +7129,14 @@
       "onboard_time": 1755425542,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 44375,
+      "num": 190333,
+      "word": "法拍狸花猫引超21万次围观",
+      "onboard_time": 1755526824,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43381,
