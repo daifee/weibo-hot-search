@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755506285217,
+  "endTime": 1755507137223,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1409,6 +1409,14 @@
       "onboard_time": 1754890343,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1548515,
+      "num": 678002,
+      "word": "滕泽文 帮我问问于正",
+      "onboard_time": 1755504803,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1548403,
@@ -4707,14 +4715,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 786581,
-      "num": 579185,
-      "word": "滕泽文 帮我问问于正",
-      "onboard_time": 1755504803,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 786462,
       "num": 340785,
       "word": "朱令父母发讣告悼念亡女",
@@ -5369,6 +5369,14 @@
       "onboard_time": 1754469023,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 719797,
+      "num": 543588,
+      "word": "杨幂北电宿舍四人组",
+      "onboard_time": 1755504322,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 719151,
@@ -6787,6 +6795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 617282,
+      "num": 617282,
+      "word": "律师称女孩卖男友不构成人口拐卖",
+      "onboard_time": 1755502224,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616763,
       "num": 616763,
       "word": "男朋友用几十块的鼠标怎么办",
@@ -7347,14 +7363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 581730,
-      "num": 581730,
-      "word": "律师称女孩卖男友不构成人口拐卖",
-      "onboard_time": 1755502224,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 581467,
       "num": 478391,
       "word": "外甥拦门致舅妈情夫跳楼伤残赔18.5万",
@@ -7585,14 +7593,6 @@
       "onboard_time": 1754974584,
       "rank": 15,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 569610,
-      "num": 520928,
-      "word": "杨幂北电宿舍四人组",
-      "onboard_time": 1755504322,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 569459,
@@ -9641,6 +9641,14 @@
       "onboard_time": 1754828783,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458934,
+      "num": 458934,
+      "word": "滕泽文疑似被雪藏",
+      "onboard_time": 1755505342,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 458813,
@@ -12299,6 +12307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 357109,
+      "num": 196828,
+      "word": "于正说没有雪藏滕泽文",
+      "onboard_time": 1755506722,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356497,
       "num": 356497,
       "word": "肖战余烬共生曲",
@@ -12553,6 +12569,14 @@
       "onboard_time": 1755401300,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 346971,
+      "num": 557644,
+      "word": "女子只顾聊天婴儿车掉进鱼塘",
+      "onboard_time": 1755501863,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346373,
@@ -13707,6 +13731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 313951,
+      "num": 222036,
+      "word": "棉密码卫生巾 癌症",
+      "onboard_time": 1755504862,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 313494,
       "num": 232194,
       "word": "美国百人卖淫集团头目被捕",
@@ -14153,6 +14185,14 @@
       "onboard_time": 1754803641,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300959,
+      "num": 300959,
+      "word": "意大利母亲为护媳杀子分尸",
+      "onboard_time": 1755501142,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 300897,
@@ -14675,14 +14715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287625,
-      "num": 184765,
-      "word": "滕泽文疑似被雪藏",
-      "onboard_time": 1755505342,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287437,
       "num": 403429,
       "word": "韩国全民放10天高温假",
@@ -14785,6 +14817,14 @@
       "onboard_time": 1755362001,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 285350,
+      "num": 191727,
+      "word": "签售姐Viper 跑路",
+      "onboard_time": 1755500901,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 285329,
@@ -16299,14 +16339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254910,
-      "num": 254910,
-      "word": "意大利母亲为护媳杀子分尸",
-      "onboard_time": 1755501142,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 254828,
       "num": 254828,
       "word": "白鲨队史CFPL第四冠",
@@ -17329,14 +17361,6 @@
       "onboard_time": 1754882422,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237131,
-      "num": 557644,
-      "word": "女子只顾聊天婴儿车掉进鱼塘",
-      "onboard_time": 1755501863,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237101,
@@ -18481,14 +18505,6 @@
       "onboard_time": 1754887825,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 222036,
-      "num": 222036,
-      "word": "棉密码卫生巾 癌症",
-      "onboard_time": 1755504862,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 221753,
@@ -21036,7 +21052,7 @@
     },
     {
       "raw_hot": 201228,
-      "num": 186498,
+      "num": 196520,
       "word": "别笑陈梦也过不了第二关",
       "onboard_time": 1755503483,
       "rank": 22,
@@ -21625,6 +21641,14 @@
       "onboard_time": 1755434003,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197931,
+      "num": 197931,
+      "word": "独居最大的坏处已经出现了",
+      "onboard_time": 1755506302,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 197868,
@@ -25299,6 +25323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179438,
+      "num": 179438,
+      "word": "骑手因用手机按电梯被老人推搡",
+      "onboard_time": 1755505703,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179411,
       "num": 179411,
       "word": "IG对战WBG",
@@ -25841,14 +25873,6 @@
       "onboard_time": 1754651301,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 176358,
-      "num": 176358,
-      "word": "签售姐Viper 跑路",
-      "onboard_time": 1755500901,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 176338,
@@ -28441,6 +28465,14 @@
       "onboard_time": 1754123662,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163968,
+      "num": 148232,
+      "word": "胡先煦生日收到了自己的痛衣",
+      "onboard_time": 1755506485,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 163912,
@@ -32947,12 +32979,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147496,
+      "num": 147496,
+      "word": "宋亚轩 雨天",
+      "onboard_time": 1755507023,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147473,
       "num": 147473,
       "word": "电影浪浪山小妖怪",
       "onboard_time": 1755248904,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147434,
+      "num": 138371,
+      "word": "张予曦不会删前任好友",
+      "onboard_time": 1755506061,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 147407,
@@ -33424,6 +33472,14 @@
       "word": "丁程鑫这手速快的像开了倍速",
       "onboard_time": 1754544564,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145940,
+      "num": 133137,
+      "word": "原来也有邪恶栀子花救不了的场",
+      "onboard_time": 1755506485,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -35755,6 +35811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138396,
+      "num": 138396,
+      "word": "一诺Cat捕鱼高手",
+      "onboard_time": 1755506302,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138395,
       "num": 138395,
       "word": "晚上睡不着小心是腿的毛病",
@@ -35913,6 +35977,14 @@
       "onboard_time": 1754544683,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138079,
+      "num": 220190,
+      "word": "胖东来保洁保安到手工资近9000元",
+      "onboard_time": 1755502282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138014,
@@ -36899,14 +36971,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 135214,
-      "num": 220190,
-      "word": "胖东来保洁保安到手工资近9000元",
-      "onboard_time": 1755502282,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135191,
       "num": 135191,
       "word": "JDG对战UUG",
@@ -37649,6 +37713,14 @@
       "onboard_time": 1754124502,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 133434,
+      "num": 133434,
+      "word": "九三阅兵准备工作",
+      "onboard_time": 1755505402,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133432,
@@ -38883,14 +38955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129801,
-      "num": 129801,
-      "word": "骑手因用手机按电梯被老人推搡",
-      "onboard_time": 1755505703,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129687,
       "num": 129687,
       "word": "缺觉的人全身炎症水平会升高",
@@ -39084,7 +39148,7 @@
     },
     {
       "raw_hot": 129247,
-      "num": 129247,
+      "num": 131814,
       "word": "中方乐见俄美双方保持接触",
       "onboard_time": 1755504383,
       "rank": 43,
@@ -40059,14 +40123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126681,
-      "num": 126681,
-      "word": "九三阅兵准备工作",
-      "onboard_time": 1755505402,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 126657,
       "num": 126657,
       "word": "罗幂欧",
@@ -40240,6 +40296,14 @@
       "word": "韩国网友称沈阳市以小沈阳命名",
       "onboard_time": 1754957661,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126288,
+      "num": 126288,
+      "word": "那英不是高情商而是真诚",
+      "onboard_time": 1755506002,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -41305,6 +41369,14 @@
       "onboard_time": 1754562022,
       "rank": 43,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 123250,
+      "num": 123250,
+      "word": "追星人手机内存到底多少才够",
+      "onboard_time": 1755505881,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 123129,
@@ -44667,14 +44739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113379,
-      "num": 113379,
-      "word": "追星人手机内存到底多少才够",
-      "onboard_time": 1755505881,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 113337,
       "num": 113337,
       "word": "第一次当妈妈的真实感受",
@@ -45212,7 +45276,7 @@
     },
     {
       "raw_hot": 112080,
-      "num": 112080,
+      "num": 123036,
       "word": "中国男篮结束小考准备大考",
       "onboard_time": 1755506243,
       "rank": 48,
@@ -45225,6 +45289,14 @@
       "onboard_time": 1754226084,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112049,
+      "num": 123565,
+      "word": "A股成交再突破2万亿",
+      "onboard_time": 1755506902,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 112027,
@@ -46281,6 +46353,14 @@
       "onboard_time": 1754289561,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109251,
+      "num": 134556,
+      "word": "欧尼熊回应可心新恋情",
+      "onboard_time": 1755506902,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 109214,
@@ -48065,14 +48145,6 @@
       "onboard_time": 1754500937,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102913,
-      "num": 137705,
-      "word": "张予曦不会删前任好友",
-      "onboard_time": 1755506061,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 102894,
@@ -53692,7 +53764,7 @@
     },
     {
       "raw_hot": 71514,
-      "num": 188164,
+      "num": 197352,
       "word": "长大后才真正听懂张韶涵",
       "onboard_time": 1755504502,
       "rank": 18,
@@ -54235,6 +54307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67296,
+      "num": 178180,
+      "word": "女性农民工困在母职里",
+      "onboard_time": 1755505942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67102,
       "num": 232984,
       "word": "荣耀平板在CJ现场成电子鸡蛋",
@@ -54657,14 +54737,6 @@
       "onboard_time": 1755338602,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 63460,
-      "num": 178180,
-      "word": "女性农民工困在母职里",
-      "onboard_time": 1755505942,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63387,
@@ -58188,7 +58260,7 @@
     },
     {
       "raw_hot": 36206,
-      "num": 187769,
+      "num": 197692,
       "word": "全智贤还是太全面了",
       "onboard_time": 1755504683,
       "rank": 19,
@@ -61143,6 +61215,14 @@
       "num": 1088102,
       "word": "全国医保码用户超12亿",
       "onboard_time": 1755141202,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4490,
+      "num": 733427,
+      "word": "人民日报详解载人登月过程",
+      "onboard_time": 1755477802,
       "rank": 2,
       "category": "民生新闻"
     },

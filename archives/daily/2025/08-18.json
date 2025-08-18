@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755506285217,
+  "endTime": 1755507137223,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -49,6 +49,14 @@
       "onboard_time": 1755445102,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1548515,
+      "num": 678002,
+      "word": "滕泽文 帮我问问于正",
+      "onboard_time": 1755504803,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1545027,
@@ -179,20 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 786581,
-      "num": 579185,
-      "word": "滕泽文 帮我问问于正",
-      "onboard_time": 1755504803,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 736713,
       "num": 736713,
       "word": "日本出土多具头骨有钻孔锯切痕迹",
       "onboard_time": 1755496281,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 719797,
+      "num": 543588,
+      "word": "杨幂北电宿舍四人组",
+      "onboard_time": 1755504322,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 713191,
@@ -267,6 +275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 617282,
+      "num": 617282,
+      "word": "律师称女孩卖男友不构成人口拐卖",
+      "onboard_time": 1755502224,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 609551,
       "num": 530223,
       "word": "赵丽颖问李维嘉再见爱人有你吗",
@@ -283,27 +299,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 581730,
-      "num": 581730,
-      "word": "律师称女孩卖男友不构成人口拐卖",
-      "onboard_time": 1755502224,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 575945,
       "num": 551295,
       "word": "大冰问谁是单依纯",
       "onboard_time": 1755488303,
       "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 569610,
-      "num": 520928,
-      "word": "杨幂北电宿舍四人组",
-      "onboard_time": 1755504322,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -361,6 +361,14 @@
       "onboard_time": 1755483801,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458934,
+      "num": 458934,
+      "word": "滕泽文疑似被雪藏",
+      "onboard_time": 1755505342,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 449137,
@@ -435,6 +443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357109,
+      "num": 196828,
+      "word": "于正说没有雪藏滕泽文",
+      "onboard_time": 1755506722,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 346971,
+      "num": 557644,
+      "word": "女子只顾聊天婴儿车掉进鱼塘",
+      "onboard_time": 1755501863,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344339,
       "num": 344339,
       "word": "坐高铁遇400斤邻座12306不该甩锅",
@@ -499,12 +523,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 313951,
+      "num": 222036,
+      "word": "棉密码卫生巾 癌症",
+      "onboard_time": 1755504862,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 304163,
       "num": 304163,
       "word": "1750瓶茅台一原所有人已被执行死刑",
       "onboard_time": 1755441805,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300959,
+      "num": 300959,
+      "word": "意大利母亲为护媳杀子分尸",
+      "onboard_time": 1755501142,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 300897,
@@ -539,11 +579,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 287625,
-      "num": 184765,
-      "word": "滕泽文疑似被雪藏",
-      "onboard_time": 1755505342,
-      "rank": 25,
+      "raw_hot": 285350,
+      "num": 191727,
+      "word": "签售姐Viper 跑路",
+      "onboard_time": 1755500901,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -577,14 +617,6 @@
       "onboard_time": 1755436705,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 254910,
-      "num": 254910,
-      "word": "意大利母亲为护媳杀子分尸",
-      "onboard_time": 1755501142,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 251800,
@@ -675,14 +707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 237131,
-      "num": 557644,
-      "word": "女子只顾聊天婴儿车掉进鱼塘",
-      "onboard_time": 1755501863,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236270,
       "num": 236270,
       "word": "一觉睡醒成龙电影倒退20年",
@@ -745,14 +769,6 @@
       "onboard_time": 1755436885,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222036,
-      "num": 222036,
-      "word": "棉密码卫生巾 癌症",
-      "onboard_time": 1755504862,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 219403,
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 201228,
-      "num": 186498,
+      "num": 196520,
       "word": "别笑陈梦也过不了第二关",
       "onboard_time": 1755503483,
       "rank": 22,
@@ -889,6 +905,14 @@
       "onboard_time": 1755496043,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197931,
+      "num": 197931,
+      "word": "独居最大的坏处已经出现了",
+      "onboard_time": 1755506302,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 197335,
@@ -1027,6 +1051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179438,
+      "num": 179438,
+      "word": "骑手因用手机按电梯被老人推搡",
+      "onboard_time": 1755505703,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179042,
       "num": 179042,
       "word": "爸爸当家",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1755494663,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176358,
-      "num": 176358,
-      "word": "签售姐Viper 跑路",
-      "onboard_time": 1755500901,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 175825,
@@ -1161,6 +1185,14 @@
       "onboard_time": 1755499402,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163968,
+      "num": 148232,
+      "word": "胡先煦生日收到了自己的痛衣",
+      "onboard_time": 1755506485,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 163257,
@@ -1331,6 +1363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147496,
+      "num": 147496,
+      "word": "宋亚轩 雨天",
+      "onboard_time": 1755507023,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 147434,
+      "num": 138371,
+      "word": "张予曦不会删前任好友",
+      "onboard_time": 1755506061,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146744,
       "num": 146744,
       "word": "刘美含我还是绝望的直女",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1755499462,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145940,
+      "num": 133137,
+      "word": "原来也有邪恶栀子花救不了的场",
+      "onboard_time": 1755506485,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 145669,
@@ -1443,6 +1499,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138396,
+      "num": 138396,
+      "word": "一诺Cat捕鱼高手",
+      "onboard_time": 1755506302,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 138079,
+      "num": 220190,
+      "word": "胖东来保洁保安到手工资近9000元",
+      "onboard_time": 1755502282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137734,
       "num": 137734,
       "word": "蔡少芬回应张晋心脏病发作",
@@ -1475,20 +1547,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135214,
-      "num": 220190,
-      "word": "胖东来保洁保安到手工资近9000元",
-      "onboard_time": 1755502282,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133756,
       "num": 180371,
       "word": "等我瘦下来我也胡说八道",
       "onboard_time": 1755489503,
       "rank": 39,
       "category": "运动健身,休闲"
+    },
+    {
+      "raw_hot": 133434,
+      "num": 133434,
+      "word": "九三阅兵准备工作",
+      "onboard_time": 1755505402,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131990,
@@ -1531,14 +1603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129801,
-      "num": 129801,
-      "word": "骑手因用手机按电梯被老人推搡",
-      "onboard_time": 1755505703,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129632,
       "num": 129632,
       "word": "一代人有一代人的育儿方式",
@@ -1548,7 +1612,7 @@
     },
     {
       "raw_hot": 129247,
-      "num": 129247,
+      "num": 131814,
       "word": "中方乐见俄美双方保持接触",
       "onboard_time": 1755504383,
       "rank": 43,
@@ -1587,12 +1651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126681,
-      "num": 126681,
-      "word": "九三阅兵准备工作",
-      "onboard_time": 1755505402,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 126288,
+      "num": 126288,
+      "word": "那英不是高情商而是真诚",
+      "onboard_time": 1755506002,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 125206,
@@ -1609,6 +1673,14 @@
       "onboard_time": 1755496824,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123250,
+      "num": 123250,
+      "word": "追星人手机内存到底多少才够",
+      "onboard_time": 1755505881,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 120034,
@@ -1699,14 +1771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 113379,
-      "num": 113379,
-      "word": "追星人手机内存到底多少才够",
-      "onboard_time": 1755505881,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112401,
       "num": 117451,
       "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
@@ -1716,11 +1780,19 @@
     },
     {
       "raw_hot": 112080,
-      "num": 112080,
+      "num": 123036,
       "word": "中国男篮结束小考准备大考",
       "onboard_time": 1755506243,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112049,
+      "num": 123565,
+      "word": "A股成交再突破2万亿",
+      "onboard_time": 1755506902,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 111816,
@@ -1753,6 +1825,14 @@
       "onboard_time": 1755480261,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109251,
+      "num": 134556,
+      "word": "欧尼熊回应可心新恋情",
+      "onboard_time": 1755506902,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 108744,
@@ -1873,14 +1953,6 @@
       "onboard_time": 1755473659,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102913,
-      "num": 137705,
-      "word": "张予曦不会删前任好友",
-      "onboard_time": 1755506061,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 102075,
@@ -2164,7 +2236,7 @@
     },
     {
       "raw_hot": 71514,
-      "num": 188164,
+      "num": 197352,
       "word": "长大后才真正听懂张韶涵",
       "onboard_time": 1755504502,
       "rank": 18,
@@ -2227,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67296,
+      "num": 178180,
+      "word": "女性农民工困在母职里",
+      "onboard_time": 1755505942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67068,
       "num": 67068,
       "word": "严浩翔shake",
@@ -2257,14 +2337,6 @@
       "onboard_time": 1755473659,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63460,
-      "num": 178180,
-      "word": "女性农民工困在母职里",
-      "onboard_time": 1755505942,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63387,
@@ -2300,7 +2372,7 @@
     },
     {
       "raw_hot": 59497,
-      "num": 57996,
+      "num": 132688,
       "word": "日本战犯被16张照片打脸",
       "onboard_time": 1755443783,
       "rank": 49,
@@ -2460,7 +2532,7 @@
     },
     {
       "raw_hot": 36206,
-      "num": 187769,
+      "num": 197692,
       "word": "全智贤还是太全面了",
       "onboard_time": 1755504683,
       "rank": 19,
@@ -2585,6 +2657,14 @@
       "onboard_time": 1755392360,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4490,
+      "num": 733427,
+      "word": "人民日报详解载人登月过程",
+      "onboard_time": 1755477802,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

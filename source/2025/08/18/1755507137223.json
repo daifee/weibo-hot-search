@@ -1,0 +1,410 @@
+{
+  "runTime": 1755507137223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 973630,
+        "num": 1155780,
+        "word": "王皓 上岸先斩意中人",
+        "onboard_time": 1755495981,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 930115,
+        "num": 930115,
+        "word": "日本多地发生中国公民遇袭",
+        "onboard_time": 1755500480,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 4490,
+        "num": 733427,
+        "word": "人民日报详解载人登月过程",
+        "onboard_time": 1755477802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1548515,
+        "num": 678002,
+        "word": "滕泽文 帮我问问于正",
+        "onboard_time": 1755504803,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617282,
+        "num": 617282,
+        "word": "律师称女孩卖男友不构成人口拐卖",
+        "onboard_time": 1755502224,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566156,
+        "num": 566156,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1755489743,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1363337,
+        "num": 566128,
+        "word": "王玉雯 避雷陈星旭这个摄影师",
+        "onboard_time": 1755502102,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719797,
+        "num": 543588,
+        "word": "杨幂北电宿舍四人组",
+        "onboard_time": 1755504322,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665220,
+        "num": 538704,
+        "word": "女子卖掉男友后安排10天旅游",
+        "onboard_time": 1755487764,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346971,
+        "num": 525383,
+        "word": "女子只顾聊天婴儿车掉进鱼塘",
+        "onboard_time": 1755501863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583944,
+        "num": 511649,
+        "word": "孙丞潇 我只有金莎一个美女",
+        "onboard_time": 1755502343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499388,
+        "num": 499388,
+        "word": "这跟亲了有什么区别",
+        "onboard_time": 1755496522,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494421,
+        "num": 494421,
+        "word": "赵丽颖问李维嘉再见爱人有你吗",
+        "onboard_time": 1755502463,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458934,
+        "num": 458934,
+        "word": "滕泽文疑似被雪藏",
+        "onboard_time": 1755505342,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300959,
+        "num": 300959,
+        "word": "意大利母亲为护媳杀子分尸",
+        "onboard_time": 1755501142,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 273823,
+        "num": 273823,
+        "word": "19岁小伙被17岁女友10万卖到缅甸",
+        "onboard_time": 1755485243,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197931,
+        "num": 197931,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1755506302,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165642,
+        "num": 197806,
+        "word": "成人机票520元儿童却要1150元",
+        "onboard_time": 1755491424,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32520,
+        "num": 197692,
+        "word": "全智贤还是太全面了",
+        "onboard_time": 1755504683,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54997,
+        "num": 197352,
+        "word": "长大后才真正听懂张韶涵",
+        "onboard_time": 1755504502,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431458,
+        "num": 197146,
+        "word": "王楚然的字",
+        "onboard_time": 1755496103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404062,
+        "num": 197006,
+        "word": "田曦薇赖伟明晒同款炒饭",
+        "onboard_time": 1755502463,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357109,
+        "num": 196828,
+        "word": "于正说没有雪藏滕泽文",
+        "onboard_time": 1755506722,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313951,
+        "num": 196698,
+        "word": "棉密码卫生巾 癌症",
+        "onboard_time": 1755504862,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196520,
+        "num": 196520,
+        "word": "别笑陈梦也过不了第二关",
+        "onboard_time": 1755503483,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285350,
+        "num": 191727,
+        "word": "签售姐Viper 跑路",
+        "onboard_time": 1755500901,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284032,
+        "num": 190022,
+        "word": "章昊门牙掉了",
+        "onboard_time": 1755495802,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179438,
+        "num": 179438,
+        "word": "骑手因用手机按电梯被老人推搡",
+        "onboard_time": 1755505703,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150786,
+        "num": 150786,
+        "word": "日本出土多具头骨有钻孔锯切痕迹",
+        "onboard_time": 1755496281,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67296,
+        "num": 150058,
+        "word": "女性农民工困在母职里",
+        "onboard_time": 1755505942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270830,
+        "num": 149167,
+        "word": "金钟国官宣结婚",
+        "onboard_time": 1755482481,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192188,
+        "num": 148858,
+        "word": "田曦薇发了108张武祯",
+        "onboard_time": 1755503182,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163968,
+        "num": 148232,
+        "word": "胡先煦生日收到了自己的痛衣",
+        "onboard_time": 1755506485,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147496,
+        "num": 147496,
+        "word": "宋亚轩 雨天",
+        "onboard_time": 1755507023,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138396,
+        "num": 138396,
+        "word": "一诺Cat捕鱼高手",
+        "onboard_time": 1755506302,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147434,
+        "num": 138371,
+        "word": "张予曦不会删前任好友",
+        "onboard_time": 1755506061,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138079,
+        "num": 138079,
+        "word": "胖东来保洁保安到手工资近9000元",
+        "onboard_time": 1755502282,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137730,
+        "num": 137730,
+        "word": "朋友圈点赞洁癖",
+        "onboard_time": 1755499043,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109251,
+        "num": 134556,
+        "word": "欧尼熊回应可心新恋情",
+        "onboard_time": 1755506902,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133434,
+        "num": 133434,
+        "word": "九三阅兵准备工作",
+        "onboard_time": 1755505402,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145940,
+        "num": 133137,
+        "word": "原来也有邪恶栀子花救不了的场",
+        "onboard_time": 1755506485,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4538,
+        "num": 132688,
+        "word": "日本战犯被16张照片打脸",
+        "onboard_time": 1755443783,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135547,
+        "num": 132368,
+        "word": "演员张翰被冻结165万股权",
+        "onboard_time": 1755487283,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108206,
+        "num": 131814,
+        "word": "中方乐见俄美双方保持接触",
+        "onboard_time": 1755504383,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131667,
+        "num": 131667,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1755504862,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126288,
+        "num": 126288,
+        "word": "那英不是高情商而是真诚",
+        "onboard_time": 1755506002,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125899,
+        "num": 125899,
+        "word": "胖东来招保洁要求25岁以下本科学历",
+        "onboard_time": 1755500182,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112049,
+        "num": 123565,
+        "word": "A股成交再突破2万亿",
+        "onboard_time": 1755506902,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123250,
+        "num": 123250,
+        "word": "追星人手机内存到底多少才够",
+        "onboard_time": 1755505881,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106870,
+        "num": 123036,
+        "word": "中国男篮结束小考准备大考",
+        "onboard_time": 1755506243,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#论坚持全面深化改革#"
+    }
+  }
+}
