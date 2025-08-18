@@ -1,0 +1,410 @@
+{
+  "runTime": 1755514127614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1466667,
+        "num": 1466667,
+        "word": "孩子脱鞋138cm补票后家长投诉退票",
+        "onboard_time": 1755510803,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524034,
+        "num": 524034,
+        "word": "子夜归开播",
+        "onboard_time": 1755512422,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17248,
+        "num": 467384,
+        "word": "人民日报详解载人登月过程",
+        "onboard_time": 1755477802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564203,
+        "num": 451273,
+        "word": "田曦薇直播辟谣恋情传闻",
+        "onboard_time": 1755512661,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433658,
+        "num": 433658,
+        "word": "日本多地发生中国公民遇袭",
+        "onboard_time": 1755500480,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 426459,
+        "num": 426459,
+        "word": "印度女留学生吐槽韩餐肉太多",
+        "onboard_time": 1755511402,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327978,
+        "num": 327978,
+        "word": "央视曝AI克隆声音乱象",
+        "onboard_time": 1755507622,
+        "rank": 6,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 321371,
+        "num": 321371,
+        "word": "签售姐Viper 跑路",
+        "onboard_time": 1755500901,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269872,
+        "num": 269872,
+        "word": "孙丞潇 我只有金莎一个美女",
+        "onboard_time": 1755502343,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173585,
+        "num": 173585,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1755489743,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1333263,
+        "num": 172960,
+        "word": "张晋血管堵塞80%",
+        "onboard_time": 1755511221,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1332681,
+        "num": 171290,
+        "word": "女孩被同班男生送回家途中杀害",
+        "onboard_time": 1755507023,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781267,
+        "num": 169863,
+        "word": "滕泽文 帮我问问于正",
+        "onboard_time": 1755504803,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697632,
+        "num": 168484,
+        "word": "真的建议不要喝点外卖送的饮料",
+        "onboard_time": 1755509421,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 603156,
+        "num": 167938,
+        "word": "王玉雯 避雷陈星旭这个摄影师",
+        "onboard_time": 1755502102,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531838,
+        "num": 166434,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1755506302,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 524935,
+        "num": 164599,
+        "word": "王楚然的字",
+        "onboard_time": 1755496103,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270862,
+        "num": 163519,
+        "word": "辽GM8297司机承认是故意的",
+        "onboard_time": 1755512242,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 74533,
+        "num": 162729,
+        "word": "大货车司机一个转向灯避免悲剧",
+        "onboard_time": 1755513321,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239324,
+        "num": 161136,
+        "word": "管乐离开王皓越来越好了",
+        "onboard_time": 1755510803,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214808,
+        "num": 160340,
+        "word": "时代少年团 素颜",
+        "onboard_time": 1755512781,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201047,
+        "num": 158933,
+        "word": "外卖大战 配送慢",
+        "onboard_time": 1755506722,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199351,
+        "num": 156964,
+        "word": "滕泽文疑似被雪藏",
+        "onboard_time": 1755505342,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196740,
+        "num": 156336,
+        "word": "梓渝上课录歌vlog",
+        "onboard_time": 1755510862,
+        "rank": 23,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 687393,
+        "num": 154110,
+        "word": "王皓 上岸先斩意中人",
+        "onboard_time": 1755495981,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192757,
+        "num": 153601,
+        "word": "虞书欣陈靖可杀青视频",
+        "onboard_time": 1755513381,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152472,
+        "num": 152472,
+        "word": "这跟亲了有什么区别",
+        "onboard_time": 1755496522,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152753,
+        "num": 150766,
+        "word": "于正说没有雪藏滕泽文",
+        "onboard_time": 1755506722,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132145,
+        "num": 148645,
+        "word": "续面事件老板发声道歉网友毫不买账",
+        "onboard_time": 1755513682,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123573,
+        "num": 147884,
+        "word": "女孩卖男友案近期将开庭审理",
+        "onboard_time": 1755512123,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147789,
+        "num": 147789,
+        "word": "田曦薇赖伟明晒同款炒饭",
+        "onboard_time": 1755502463,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121548,
+        "num": 147590,
+        "word": "谷爱凌成为2026冬奥火炬手",
+        "onboard_time": 1755513861,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147476,
+        "num": 147476,
+        "word": "子夜归",
+        "onboard_time": 1755492624,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138939,
+        "num": 146762,
+        "word": "张若昀穿搭基础脸就不基础",
+        "onboard_time": 1755513022,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146760,
+        "num": 146760,
+        "word": "金钟国官宣结婚",
+        "onboard_time": 1755482481,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142979,
+        "num": 142979,
+        "word": "意大利母亲为护媳杀子分尸",
+        "onboard_time": 1755501142,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137468,
+        "num": 137468,
+        "word": "王影璐瘦成啥样了",
+        "onboard_time": 1755513742,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131122,
+        "num": 131122,
+        "word": "21岁小伙靠扛楼10个月挣15万",
+        "onboard_time": 1755509002,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120311,
+        "num": 120311,
+        "word": "骑手因用手机按电梯被老人推搡",
+        "onboard_time": 1755505703,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145614,
+        "num": 118685,
+        "word": "金钟国 尹恩惠",
+        "onboard_time": 1755494842,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115901,
+        "num": 115901,
+        "word": "发现朋友圈记录生活新功能",
+        "onboard_time": 1755513921,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112840,
+        "num": 112840,
+        "word": "莫雷加德请张本智和吃寿司",
+        "onboard_time": 1755509902,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111214,
+        "num": 111214,
+        "word": "杨幂北电宿舍四人组",
+        "onboard_time": 1755504322,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94061,
+        "num": 111042,
+        "word": "怎么小狗也喜欢霸王茶姬",
+        "onboard_time": 1755512362,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110990,
+        "num": 110990,
+        "word": "A股刷新多个历史纪录",
+        "onboard_time": 1755511824,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108896,
+        "num": 108896,
+        "word": "赵丽颖问李维嘉再见爱人有你吗",
+        "onboard_time": 1755502463,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104705,
+        "num": 104705,
+        "word": "卫生巾再也经不起塌房了",
+        "onboard_time": 1755510382,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 102299,
+        "num": 102299,
+        "word": "护士获刑被开除医院仍缴社保等14万",
+        "onboard_time": 1755513022,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95717,
+        "num": 95717,
+        "word": "送个外卖就当上爸爸了",
+        "onboard_time": 1755514101,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85097,
+        "num": 95672,
+        "word": "iPhone17e配置曝光",
+        "onboard_time": 1755508943,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#论坚持全面深化改革#"
+    }
+  }
+}
