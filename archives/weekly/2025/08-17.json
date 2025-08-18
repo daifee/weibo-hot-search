@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755539062161,
+  "endTime": 1755542355032,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -4995,6 +4995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123010,
+      "num": 55754,
+      "word": "不要相信晚上十一点半之后的大脑",
+      "onboard_time": 1755538276,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122596,
       "num": 122596,
       "word": "新西兰一警局收到中式锦旗",
@@ -5425,6 +5433,14 @@
       "onboard_time": 1755498022,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113498,
+      "num": 55501,
+      "word": "特朗普泽连斯基白宫会晤",
+      "onboard_time": 1755539358,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113282,
@@ -7259,20 +7275,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49730,
+      "num": 49730,
+      "word": "银川高级中学通报网传学生虐猫",
+      "onboard_time": 1755536058,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 48643,
       "num": 274245,
       "word": "TOP登陆少年溢出满屏青春感",
       "onboard_time": 1755493463,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48548,
-      "num": 48548,
-      "word": "银川高级中学通报网传学生虐猫",
-      "onboard_time": 1755536058,
-      "rank": 38,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 47704,
@@ -7523,14 +7539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39613,
-      "num": 39613,
-      "word": "不要相信晚上十一点半之后的大脑",
-      "onboard_time": 1755538276,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 39314,
       "num": 153995,
       "word": "江苏2男生当着老人面抢走两条烟",
@@ -7731,6 +7739,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 28710,
+      "num": 28710,
+      "word": "湖南卫视连发20条丞磊",
+      "onboard_time": 1755539597,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28645,
       "num": 45351,
       "word": "刘亦菲这段话救我千万次于水火",
@@ -7787,11 +7803,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 25563,
+      "num": 117648,
+      "word": "欧洲领导人将与泽连斯基一同赴美",
+      "onboard_time": 1755537977,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25105,
       "num": 209635,
       "word": "美政府持续向华盛顿增兵",
       "onboard_time": 1755495081,
       "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 24675,
+      "num": 27451,
+      "word": "美国国务卿称俄乌达成和平协议前路漫长",
+      "onboard_time": 1755539536,
+      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -7867,6 +7899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22436,
+      "num": 27444,
+      "word": "人生要大胆往前走",
+      "onboard_time": 1755533301,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22047,
       "num": 22047,
       "word": "FIBA亚洲杯",
@@ -7923,14 +7963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21081,
-      "num": 117648,
-      "word": "欧洲领导人将与泽连斯基一同赴美",
-      "onboard_time": 1755537977,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20707,
       "num": 24024,
       "word": "黄牛代排队买麦当劳奶昔叫价88元",
@@ -7961,6 +7993,14 @@
       "onboard_time": 1755467294,
       "rank": 49,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 19401,
+      "num": 27441,
+      "word": "光遇",
+      "onboard_time": 1755535880,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 19095,
