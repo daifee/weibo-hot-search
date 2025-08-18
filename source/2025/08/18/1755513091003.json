@@ -1,0 +1,410 @@
+{
+  "runTime": 1755513091003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 854349,
+        "num": 1136695,
+        "word": "孩子脱鞋138cm补票后家长投诉退票",
+        "onboard_time": 1755510803,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376113,
+        "num": 376113,
+        "word": "日本多地发生中国公民遇袭",
+        "onboard_time": 1755500480,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17618,
+        "num": 365776,
+        "word": "人民日报详解载人登月过程",
+        "onboard_time": 1755477802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1365271,
+        "num": 353267,
+        "word": "张晋血管堵塞80%",
+        "onboard_time": 1755511221,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687503,
+        "num": 333518,
+        "word": "王楚然的字",
+        "onboard_time": 1755496103,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1556222,
+        "num": 319220,
+        "word": "女孩被同班男生送回家途中杀害",
+        "onboard_time": 1755507023,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317530,
+        "num": 317530,
+        "word": "签售姐Viper 跑路",
+        "onboard_time": 1755500901,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837690,
+        "num": 316332,
+        "word": "滕泽文 帮我问问于正",
+        "onboard_time": 1755504803,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642912,
+        "num": 313727,
+        "word": "王玉雯 避雷陈星旭这个摄影师",
+        "onboard_time": 1755502102,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109824,
+        "num": 309525,
+        "word": "女孩卖男友案近期将开庭审理",
+        "onboard_time": 1755512123,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278051,
+        "num": 307419,
+        "word": "印度女留学生吐槽韩餐肉太多",
+        "onboard_time": 1755511402,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 787024,
+        "num": 302575,
+        "word": "真的建议不要喝点外卖送的饮料",
+        "onboard_time": 1755509421,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 639870,
+        "num": 302401,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1755506302,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299514,
+        "num": 299514,
+        "word": "外卖大战 配送慢",
+        "onboard_time": 1755506722,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294787,
+        "num": 294787,
+        "word": "央视曝AI克隆声音乱象",
+        "onboard_time": 1755507622,
+        "rank": 14,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 292432,
+        "num": 292432,
+        "word": "子夜归开播",
+        "onboard_time": 1755512422,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263009,
+        "num": 263009,
+        "word": "滕泽文疑似被雪藏",
+        "onboard_time": 1755505342,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231871,
+        "num": 231871,
+        "word": "梓渝上课录歌vlog",
+        "onboard_time": 1755510862,
+        "rank": 17,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 37147,
+        "num": 228288,
+        "word": "贾冰演了个笨",
+        "onboard_time": 1755509601,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24240,
+        "num": 227448,
+        "word": "泽连斯基这次会穿西装见特朗普吗",
+        "onboard_time": 1755511282,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 742534,
+        "num": 227286,
+        "word": "王皓 上岸先斩意中人",
+        "onboard_time": 1755495981,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226964,
+        "num": 226964,
+        "word": "孙丞潇 我只有金莎一个美女",
+        "onboard_time": 1755502343,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219835,
+        "num": 219835,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1755489743,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199794,
+        "num": 199794,
+        "word": "于正说没有雪藏滕泽文",
+        "onboard_time": 1755506722,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196884,
+        "num": 196884,
+        "word": "田曦薇赖伟明晒同款炒饭",
+        "onboard_time": 1755502463,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209369,
+        "num": 191435,
+        "word": "管乐离开王皓越来越好了",
+        "onboard_time": 1755510803,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185003,
+        "num": 185003,
+        "word": "时代少年团 素颜",
+        "onboard_time": 1755512781,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183502,
+        "num": 183502,
+        "word": "田曦薇直播辟谣恋情传闻",
+        "onboard_time": 1755512661,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178913,
+        "num": 178913,
+        "word": "意大利母亲为护媳杀子分尸",
+        "onboard_time": 1755501142,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150355,
+        "num": 171228,
+        "word": "辽GM8297司机承认是故意的",
+        "onboard_time": 1755512242,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 170271,
+        "num": 170271,
+        "word": "金钟国官宣结婚",
+        "onboard_time": 1755482481,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167298,
+        "num": 167298,
+        "word": "杨幂北电宿舍四人组",
+        "onboard_time": 1755504322,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167192,
+        "num": 167192,
+        "word": "这跟亲了有什么区别",
+        "onboard_time": 1755496522,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160533,
+        "num": 160533,
+        "word": "子夜归",
+        "onboard_time": 1755492624,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143350,
+        "num": 143350,
+        "word": "21岁小伙靠扛楼10个月挣15万",
+        "onboard_time": 1755509002,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138575,
+        "num": 138575,
+        "word": "又是被哄着去健身的一天",
+        "onboard_time": 1755512483,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138227,
+        "num": 138227,
+        "word": "赵丽颖问李维嘉再见爱人有你吗",
+        "onboard_time": 1755502463,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134419,
+        "num": 134419,
+        "word": "莫雷加德请张本智和吃寿司",
+        "onboard_time": 1755509902,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133900,
+        "num": 133900,
+        "word": "张艺兴solo了多少首EXO的歌",
+        "onboard_time": 1755511522,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130182,
+        "num": 130182,
+        "word": "王赫野请武艺全家看演唱会",
+        "onboard_time": 1755512661,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79082,
+        "num": 128303,
+        "word": "陈星旭回应王玉雯",
+        "onboard_time": 1755512841,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128168,
+        "num": 128168,
+        "word": "骑手因用手机按电梯被老人推搡",
+        "onboard_time": 1755505703,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127387,
+        "num": 127387,
+        "word": "金钟国 尹恩惠",
+        "onboard_time": 1755494842,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122136,
+        "num": 122136,
+        "word": "怎么小狗也喜欢霸王茶姬",
+        "onboard_time": 1755512362,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117931,
+        "num": 117931,
+        "word": "东北孩子的成人礼是南下的车票",
+        "onboard_time": 1755511040,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117801,
+        "num": 117801,
+        "word": "张若昀穿搭基础脸就不基础",
+        "onboard_time": 1755513022,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117505,
+        "num": 117505,
+        "word": "A股刷新多个历史纪录",
+        "onboard_time": 1755511824,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113217,
+        "num": 113217,
+        "word": "女子只顾聊天婴儿车掉进鱼塘",
+        "onboard_time": 1755501863,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92958,
+        "num": 112644,
+        "word": "护士获刑被开除医院仍缴社保等14万",
+        "onboard_time": 1755513022,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92066,
+        "num": 112318,
+        "word": "iPhone17e配置曝光",
+        "onboard_time": 1755508943,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#论坚持全面深化改革#"
+    }
+  }
+}

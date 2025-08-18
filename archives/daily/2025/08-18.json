@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755510445667,
+  "endTime": 1755513091003,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -97,6 +97,14 @@
       "onboard_time": 1755475280,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1365271,
+      "num": 353267,
+      "word": "张晋血管堵塞80%",
+      "onboard_time": 1755511221,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1344995,
@@ -201,6 +209,22 @@
       "onboard_time": 1755437963,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 854349,
+      "num": 1136695,
+      "word": "孩子脱鞋138cm补票后家长投诉退票",
+      "onboard_time": 1755510803,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 787024,
+      "num": 302575,
+      "word": "真的建议不要喝点外卖送的饮料",
+      "onboard_time": 1755509421,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 753969,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 403528,
-      "num": 264239,
+      "num": 317530,
       "word": "签售姐Viper 跑路",
       "onboard_time": 1755500901,
       "rank": 31,
@@ -587,8 +611,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 296025,
-      "num": 193291,
+      "raw_hot": 299514,
+      "num": 299514,
       "word": "外卖大战 配送慢",
       "onboard_time": 1755506722,
       "rank": 18,
@@ -611,6 +635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 292432,
+      "num": 292432,
+      "word": "子夜归开播",
+      "onboard_time": 1755512422,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287890,
       "num": 287890,
       "word": "洱海12岁走失自闭症儿童已找到",
@@ -625,6 +657,14 @@
       "onboard_time": 1755494482,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278051,
+      "num": 307419,
+      "word": "印度女留学生吐槽韩餐肉太多",
+      "onboard_time": 1755511402,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 272315,
@@ -779,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231871,
+      "num": 231871,
+      "word": "梓渝上课录歌vlog",
+      "onboard_time": 1755510862,
+      "rank": 17,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 228900,
       "num": 144141,
       "word": "子夜归直播",
@@ -851,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209369,
+      "num": 191435,
+      "word": "管乐离开王皓越来越好了",
+      "onboard_time": 1755510803,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208626,
       "num": 217080,
       "word": "与晋长安没播刘宇宁先安排售后",
@@ -905,14 +961,6 @@
       "onboard_time": 1755488783,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 200398,
-      "num": 192701,
-      "word": "真的建议不要喝点外卖送的饮料",
-      "onboard_time": 1755509421,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 200100,
@@ -1075,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185003,
+      "num": 185003,
+      "word": "时代少年团 素颜",
+      "onboard_time": 1755512781,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184367,
       "num": 184367,
       "word": "内娱艺人宣传红黑榜",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1755490163,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 183502,
+      "num": 183502,
+      "word": "田曦薇直播辟谣恋情传闻",
+      "onboard_time": 1755512661,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 182851,
@@ -1403,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150355,
+      "num": 171228,
+      "word": "辽GM8297司机承认是故意的",
+      "onboard_time": 1755512242,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 150112,
       "num": 150112,
       "word": "中俄合拍谍战电影来了",
@@ -1515,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143350,
+      "num": 143350,
+      "word": "21岁小伙靠扛楼10个月挣15万",
+      "onboard_time": 1755509002,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143003,
       "num": 143003,
       "word": "丁程鑫宋亚轩 泪桥",
@@ -1587,6 +1667,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 138575,
+      "num": 138575,
+      "word": "又是被哄着去健身的一天",
+      "onboard_time": 1755512483,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138556,
       "num": 138556,
       "word": "边伯贤 不喜欢我就不要买票",
@@ -1643,14 +1731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136503,
-      "num": 136503,
-      "word": "21岁小伙靠扛楼10个月挣15万",
-      "onboard_time": 1755509002,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136440,
       "num": 143029,
       "word": "李想回应理想乘龙对撞测试",
@@ -1681,6 +1761,14 @@
       "onboard_time": 1755507921,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133900,
+      "num": 133900,
+      "word": "张艺兴solo了多少首EXO的歌",
+      "onboard_time": 1755511522,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 133756,
@@ -1753,6 +1841,14 @@
       "onboard_time": 1755495022,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130182,
+      "num": 130182,
+      "word": "王赫野请武艺全家看演唱会",
+      "onboard_time": 1755512661,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 129632,
@@ -1851,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122136,
+      "num": 122136,
+      "word": "怎么小狗也喜欢霸王茶姬",
+      "onboard_time": 1755512362,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120034,
       "num": 199439,
       "word": "杨幂宁绣绣首条百万点赞视频",
@@ -1881,6 +1985,30 @@
       "onboard_time": 1755488004,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 117931,
+      "num": 117931,
+      "word": "东北孩子的成人礼是南下的车票",
+      "onboard_time": 1755511040,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117801,
+      "num": 117801,
+      "word": "张若昀穿搭基础脸就不基础",
+      "onboard_time": 1755513022,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117505,
+      "num": 117505,
+      "word": "A股刷新多个历史纪录",
+      "onboard_time": 1755511824,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 117365,
@@ -2001,6 +2129,14 @@
       "onboard_time": 1755480261,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109824,
+      "num": 309525,
+      "word": "女孩卖男友案近期将开庭审理",
+      "onboard_time": 1755512123,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109310,
@@ -2219,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92958,
+      "num": 112644,
+      "word": "护士获刑被开除医院仍缴社保等14万",
+      "onboard_time": 1755513022,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92850,
       "num": 270837,
       "word": "马云正式向虚假医疗广告宣战",
@@ -2337,6 +2481,14 @@
       "onboard_time": 1755441086,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79082,
+      "num": 128303,
+      "word": "陈星旭回应王玉雯",
+      "onboard_time": 1755512841,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 78805,
@@ -2732,7 +2884,7 @@
     },
     {
       "raw_hot": 38987,
-      "num": 192040,
+      "num": 228288,
       "word": "贾冰演了个笨",
       "onboard_time": 1755509601,
       "rank": 19,
@@ -2809,6 +2961,14 @@
       "onboard_time": 1755501382,
       "rank": 38,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 24240,
+      "num": 227448,
+      "word": "泽连斯基这次会穿西装见特朗普吗",
+      "onboard_time": 1755511282,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22958,
