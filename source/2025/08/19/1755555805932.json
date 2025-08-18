@@ -1,0 +1,410 @@
+{
+  "runTime": 1755555805932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 187040,
+        "num": 384943,
+        "word": "特朗普泽连斯基白宫会晤",
+        "onboard_time": 1755539358,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111691,
+        "num": 111691,
+        "word": "银川高级中学通报网传学生虐猫",
+        "onboard_time": 1755536058,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 9281,
+        "num": 108064,
+        "word": "想看阅兵的心到达了顶峰",
+        "onboard_time": 1755499462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106039,
+        "num": 106039,
+        "word": "男孩因与哥哥打架被父亲扔在国道上",
+        "onboard_time": 1755549556,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95162,
+        "num": 95162,
+        "word": "孩子脱鞋138cm补票后家长投诉退票",
+        "onboard_time": 1755510803,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89727,
+        "num": 89727,
+        "word": "女子扶摔倒环卫工反被对方责骂",
+        "onboard_time": 1755531142,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83544,
+        "num": 83544,
+        "word": "生万物第20集封神",
+        "onboard_time": 1755530004,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82063,
+        "num": 82063,
+        "word": "辛巴退出直播行业",
+        "onboard_time": 1755522923,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80516,
+        "num": 80516,
+        "word": "山东一企业被控传销冻结近亿元资金",
+        "onboard_time": 1755532883,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 65449,
+        "num": 65449,
+        "word": "男子与儿认亲2年后又一儿子找来",
+        "onboard_time": 1755520402,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128542,
+        "num": 64439,
+        "word": "不要相信晚上十一点半之后的大脑",
+        "onboard_time": 1755538276,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62182,
+        "num": 62182,
+        "word": "万妮达与男友合照",
+        "onboard_time": 1755523643,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56987,
+        "num": 56987,
+        "word": "ELK亮小丑",
+        "onboard_time": 1755528923,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52977,
+        "num": 52977,
+        "word": "王皓管乐能共苦不能同甘",
+        "onboard_time": 1755532823,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48609,
+        "num": 48609,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1755506302,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47994,
+        "num": 47994,
+        "word": "重启人生的藏族女孩抱着记者哭了",
+        "onboard_time": 1755534621,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 41856,
+        "num": 41856,
+        "word": "辽GM8297司机承认是故意的",
+        "onboard_time": 1755512242,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 41722,
+        "num": 41722,
+        "word": "田曦薇否认与赖伟明恋情",
+        "onboard_time": 1755517343,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38523,
+        "num": 38523,
+        "word": "乃万发长文倾诉委屈",
+        "onboard_time": 1755517640,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37857,
+        "num": 37857,
+        "word": "警方通报海口世纪大桥碰撞事故",
+        "onboard_time": 1755531502,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 64050,
+        "num": 37388,
+        "word": "婚后13天发现妻子双子宫只有一个肾",
+        "onboard_time": 1755528503,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43696,
+        "num": 37026,
+        "word": "孙一宁因喝酒进医院",
+        "onboard_time": 1755520101,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36555,
+        "num": 36555,
+        "word": "iG战胜BLG",
+        "onboard_time": 1755526463,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31437,
+        "num": 31437,
+        "word": "我国刑法尚无拐卖男性罪名",
+        "onboard_time": 1755530302,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31267,
+        "num": 31267,
+        "word": "男子被女友骗至缅甸电诈园被打尿血",
+        "onboard_time": 1755518123,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29882,
+        "num": 29882,
+        "word": "张晋血管堵塞80%",
+        "onboard_time": 1755511221,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29826,
+        "num": 29826,
+        "word": "蛋蛋 辛巴",
+        "onboard_time": 1755530124,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29471,
+        "num": 29471,
+        "word": "董璇女儿小酒窝去香港参加比赛",
+        "onboard_time": 1755528443,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28397,
+        "num": 28397,
+        "word": "三岁的猫坐了两年牢",
+        "onboard_time": 1755520041,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28247,
+        "num": 28247,
+        "word": "院方回应女子被误诊绝症服药3月",
+        "onboard_time": 1755535338,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27427,
+        "num": 27427,
+        "word": "王星越10万红包",
+        "onboard_time": 1755523403,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26757,
+        "num": 26757,
+        "word": "债市崩了",
+        "onboard_time": 1755527664,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26292,
+        "num": 26292,
+        "word": "真的建议不要喝点外卖送的饮料",
+        "onboard_time": 1755509421,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25289,
+        "num": 25289,
+        "word": "奥迪E5预售23.59万",
+        "onboard_time": 1755525144,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25053,
+        "num": 25053,
+        "word": "成都女子被误诊绝症服药3月",
+        "onboard_time": 1755529282,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24781,
+        "num": 24781,
+        "word": "薛小婉称整容不影响备孕",
+        "onboard_time": 1755554774,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24357,
+        "num": 24357,
+        "word": "哈马斯已同意新加沙停火提议",
+        "onboard_time": 1755532282,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23496,
+        "num": 23496,
+        "word": "iG起诉炫神",
+        "onboard_time": 1755514822,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21947,
+        "num": 21947,
+        "word": "微信转账记得多加一个动作",
+        "onboard_time": 1755544454,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 21931,
+        "num": 21931,
+        "word": "美国国务卿称俄乌达成和平协议前路漫长",
+        "onboard_time": 1755539536,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21804,
+        "num": 21804,
+        "word": "虞书欣小林老师杀青文",
+        "onboard_time": 1755527844,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21311,
+        "num": 21803,
+        "word": "王玉雯 避雷陈星旭这个摄影师",
+        "onboard_time": 1755502102,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21231,
+        "num": 21787,
+        "word": "杨幂拍生万物住简陋招待所",
+        "onboard_time": 1755515902,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19650,
+        "num": 21772,
+        "word": "姐姐当家",
+        "onboard_time": 1755533841,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19498,
+        "num": 21764,
+        "word": "子夜归开播",
+        "onboard_time": 1755512422,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19064,
+        "num": 21753,
+        "word": "RNG",
+        "onboard_time": 1755531023,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17475,
+        "num": 21743,
+        "word": "00后一天收2面锦旗四处炫耀",
+        "onboard_time": 1755552854,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17166,
+        "num": 21734,
+        "word": "生万物",
+        "onboard_time": 1755527244,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16513,
+        "num": 21729,
+        "word": "6种又甜又低糖的水果",
+        "onboard_time": 1755544454,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16431,
+        "num": 21707,
+        "word": "子夜归 李沛恩",
+        "onboard_time": 1755517761,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
