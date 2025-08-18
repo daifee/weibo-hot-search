@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755500197171,
+  "endTime": 1755502203385,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1105989,
-      "num": 739952,
+      "num": 876556,
       "word": "王楚然的字",
       "onboard_time": 1755496103,
       "rank": 3,
@@ -155,8 +155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 725834,
-      "num": 725834,
+      "raw_hot": 736713,
+      "num": 736713,
       "word": "日本出土多具头骨有钻孔锯切痕迹",
       "onboard_time": 1755496281,
       "rank": 5,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 706632,
-      "num": 413399,
+      "num": 427830,
       "word": "章昊门牙掉了",
       "onboard_time": 1755495802,
       "rank": 36,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 642024,
-      "num": 262320,
+      "num": 270448,
       "word": "妈妈给2岁儿子筹备生日当晚母子被杀",
       "onboard_time": 1755491665,
       "rank": 22,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493466,
+      "num": 493466,
+      "word": "这跟亲了有什么区别",
+      "onboard_time": 1755496522,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474694,
       "num": 474694,
       "word": "高铁奶茶",
@@ -297,6 +305,14 @@
       "onboard_time": 1755494062,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437887,
+      "num": 437887,
+      "word": "日本多地发生中国公民遇袭",
+      "onboard_time": 1755500480,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 433651,
@@ -379,6 +395,14 @@
       "category": "艺人,艺人"
     },
     {
+      "raw_hot": 326532,
+      "num": 326532,
+      "word": "Viper",
+      "onboard_time": 1755500901,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 325968,
       "num": 202889,
       "word": "刘宇宁 咱们家粉不是入坑是中奖",
@@ -441,6 +465,14 @@
       "onboard_time": 1755492206,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293887,
+      "num": 359778,
+      "word": "泽连斯基称当时不该放弃克里米亚",
+      "onboard_time": 1755499522,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 287890,
@@ -521,6 +553,14 @@
       "onboard_time": 1755491303,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244017,
+      "num": 244017,
+      "word": "朋友圈点赞洁癖",
+      "onboard_time": 1755499043,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 241453,
@@ -643,14 +683,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 210815,
-      "num": 210815,
-      "word": "这跟亲了有什么区别",
-      "onboard_time": 1755496522,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210071,
       "num": 203753,
       "word": "王心凌说周深三高",
@@ -729,6 +761,14 @@
       "onboard_time": 1755494062,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198947,
+      "num": 198947,
+      "word": "微信上这三个设置尽量关闭",
+      "onboard_time": 1755502163,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 198745,
@@ -875,6 +915,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178825,
+      "num": 178825,
+      "word": "胖东来招保洁要求25岁以下本科学历",
+      "onboard_time": 1755500182,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178530,
+      "num": 178530,
+      "word": "意大利母亲为护媳杀子分尸",
+      "onboard_time": 1755501142,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178278,
+      "num": 178278,
+      "word": "陈星旭综艺史上最无公害嘉宾",
+      "onboard_time": 1755500722,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178243,
       "num": 171853,
       "word": "北大数学系女博主带团进山找菌王",
@@ -961,14 +1025,6 @@
       "onboard_time": 1755486983,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 166788,
-      "num": 166788,
-      "word": "朋友圈点赞洁癖",
-      "onboard_time": 1755499043,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 165808,
@@ -1083,12 +1139,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154456,
+      "num": 154456,
+      "word": "抑郁焦虑和双相的区别",
+      "onboard_time": 1755499402,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153244,
       "num": 153244,
       "word": "时空中的绘旅人",
       "onboard_time": 1755492265,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152461,
+      "num": 152461,
+      "word": "内娱艺人宣传红黑榜",
+      "onboard_time": 1755501923,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 150112,
@@ -1163,14 +1235,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 144590,
-      "num": 359778,
-      "word": "泽连斯基称当时不该放弃克里米亚",
-      "onboard_time": 1755499522,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 141774,
       "num": 100836,
       "word": "苏苏文典先婚后爱",
@@ -1193,6 +1257,22 @@
       "onboard_time": 1755491244,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139180,
+      "num": 139180,
+      "word": "芒果给内娱两代爱豆找到了工作",
+      "onboard_time": 1755500722,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138828,
+      "num": 138828,
+      "word": "女子只顾聊天婴儿车掉进鱼塘",
+      "onboard_time": 1755501863,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138698,
@@ -1259,14 +1339,6 @@
       "category": "运动健身,休闲"
     },
     {
-      "raw_hot": 131883,
-      "num": 131883,
-      "word": "抑郁焦虑和双相的区别",
-      "onboard_time": 1755499402,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131616,
       "num": 131616,
       "word": "这才是点外卖最爽的时刻",
@@ -1297,6 +1369,14 @@
       "onboard_time": 1755495022,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129632,
+      "num": 129632,
+      "word": "一代人有一代人的育儿方式",
+      "onboard_time": 1755501682,
+      "rank": 43,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 129030,
@@ -1403,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115414,
+      "num": 115414,
+      "word": "王玉雯 避雷陈星旭这个摄影师",
+      "onboard_time": 1755502102,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113624,
       "num": 113624,
       "word": "鹿晗把陈赫淋透后秒怂",
@@ -1433,6 +1521,14 @@
       "onboard_time": 1755480261,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108744,
+      "num": 108744,
+      "word": "长期独居生活后遗症",
+      "onboard_time": 1755501623,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 108458,
@@ -1500,7 +1596,7 @@
     },
     {
       "raw_hot": 105873,
-      "num": 127718,
+      "num": 140901,
       "word": "上汽通用回应智驾争议",
       "onboard_time": 1755499882,
       "rank": 37,
@@ -1803,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72639,
+      "num": 143550,
+      "word": "驻日使馆称留学生遭假绑架真诈骗",
+      "onboard_time": 1755502102,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71244,
       "num": 145804,
       "word": "19岁男生被女友10万卖到缅甸",
@@ -1833,6 +1937,14 @@
       "onboard_time": 1755473659,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 69334,
+      "num": 270511,
+      "word": "想看阅兵的心到达了顶峰",
+      "onboard_time": 1755499462,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69241,
@@ -1915,6 +2027,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 60423,
+      "num": 270837,
+      "word": "马云正式向虚假医疗广告宣战",
+      "onboard_time": 1755501443,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60094,
       "num": 89217,
       "word": "美羊羊这羊能处",
@@ -1961,6 +2081,14 @@
       "onboard_time": 1755469155,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56818,
+      "num": 165319,
+      "word": "女子疑被沿街商铺掉落玻璃砸中去世",
+      "onboard_time": 1755500480,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55237,
@@ -2012,7 +2140,7 @@
     },
     {
       "raw_hot": 42822,
-      "num": 205329,
+      "num": 270578,
       "word": "享界S9T首搭六个智慧门",
       "onboard_time": 1755499462,
       "rank": 19,
@@ -2099,20 +2227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25133,
-      "num": 125140,
-      "word": "胖东来招保洁要求25岁以下本科学历",
-      "onboard_time": 1755500182,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25105,
       "num": 209635,
       "word": "美政府持续向华盛顿增兵",
       "onboard_time": 1755495081,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24260,
+      "num": 140353,
+      "word": "江山为聘造型师",
+      "onboard_time": 1755501382,
+      "rank": 38,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 22047,
@@ -2137,6 +2265,14 @@
       "onboard_time": 1755457754,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20718,
+      "num": 140604,
+      "word": "中国男篮目标洛奥",
+      "onboard_time": 1755501682,
+      "rank": 37,
+      "category": "体育,体育"
     },
     {
       "raw_hot": 20707,
