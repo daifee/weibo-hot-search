@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755495065130,
+  "endTime": 1755496060965,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1344995,
-      "num": 439346,
+      "num": 462448,
       "word": "刘涛 不是要下海吗",
       "onboard_time": 1755487883,
       "rank": 10,
@@ -81,6 +81,14 @@
       "onboard_time": 1755489743,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1224513,
+      "num": 465886,
+      "word": "金钟国 尹恩惠",
+      "onboard_time": 1755494842,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1137964,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642024,
+      "num": 262320,
+      "word": "妈妈给2岁儿子筹备生日当晚母子被杀",
+      "onboard_time": 1755491665,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 634516,
       "num": 634516,
       "word": "成人机票520元儿童却要1150元",
@@ -195,28 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569846,
-      "num": 241500,
-      "word": "金钟国 尹恩惠",
-      "onboard_time": 1755494842,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 558097,
-      "num": 248936,
+      "num": 464454,
       "word": "迪迪不畏直播向黄子韬道歉哭了",
       "onboard_time": 1755491184,
       "rank": 15,
       "category": "艺人,网红"
-    },
-    {
-      "raw_hot": 530534,
-      "num": 248863,
-      "word": "妈妈给2岁儿子筹备生日当晚母子被杀",
-      "onboard_time": 1755491665,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 523501,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371928,
+      "num": 371928,
+      "word": "藏民12小时抬驴友下山收费6万",
+      "onboard_time": 1755492984,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363194,
       "num": 363194,
       "word": "中国男篮想证明自己",
@@ -305,6 +313,14 @@
       "onboard_time": 1755441265,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339214,
+      "num": 339214,
+      "word": "那英陈数录完花少还回家吗",
+      "onboard_time": 1755494062,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 334250,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 294554,
-      "num": 236548,
+      "num": 285295,
       "word": "心动的信号",
       "onboard_time": 1755492206,
       "rank": 34,
@@ -393,6 +409,14 @@
       "onboard_time": 1755487883,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285139,
+      "num": 285139,
+      "word": "恋与深空",
+      "onboard_time": 1755494482,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 272315,
@@ -411,14 +435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261374,
-      "num": 235718,
-      "word": "藏民12小时抬驴友下山收费6万",
-      "onboard_time": 1755492984,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257643,
       "num": 257643,
       "word": "李连杰称面对死亡已非常淡然",
@@ -435,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250369,
+      "num": 250369,
+      "word": "叠纸心意",
+      "onboard_time": 1755495502,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 250260,
+      "num": 250260,
+      "word": "世界上怎么会有179的男人",
+      "onboard_time": 1755492804,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250137,
       "num": 248925,
       "word": "鹿晗回头我不信你两眼空空",
@@ -449,14 +481,6 @@
       "onboard_time": 1755491303,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242286,
-      "num": 242286,
-      "word": "恋与深空",
-      "onboard_time": 1755494482,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 241453,
@@ -555,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225360,
-      "num": 225360,
-      "word": "那英陈数录完花少还回家吗",
-      "onboard_time": 1755494062,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222639,
       "num": 163660,
       "word": "果然婆婆基础公公就不基础",
@@ -577,6 +593,14 @@
       "onboard_time": 1755487821,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 218724,
+      "num": 218724,
+      "word": "一定要及时删除微信的登录设备",
+      "onboard_time": 1755492143,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 209882,
@@ -601,6 +625,14 @@
       "onboard_time": 1755450439,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202373,
+      "num": 202373,
+      "word": "微信录音 听到心跳",
+      "onboard_time": 1755491364,
+      "rank": 32,
+      "category": "休闲"
     },
     {
       "raw_hot": 200449,
@@ -643,6 +675,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198313,
+      "num": 198313,
+      "word": "徐明浩压轴官宣音乐节",
+      "onboard_time": 1755496043,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 195724,
+      "num": 222560,
+      "word": "享界S9T预售32.8万起",
+      "onboard_time": 1755495262,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 195545,
       "num": 197031,
       "word": "蓝溪镇更新",
@@ -675,19 +723,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191529,
-      "num": 191529,
-      "word": "一定要及时删除微信的登录设备",
-      "onboard_time": 1755492143,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 189696,
-      "num": 189696,
-      "word": "世界上怎么会有179的男人",
-      "onboard_time": 1755492804,
-      "rank": 38,
+      "raw_hot": 189995,
+      "num": 189995,
+      "word": "我们家子涵上恋综了",
+      "onboard_time": 1755494602,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -723,6 +763,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 184399,
+      "num": 184399,
+      "word": "章昊门牙掉了",
+      "onboard_time": 1755495802,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183980,
       "num": 183980,
       "word": "柯南七夕告别场是99不88",
@@ -739,12 +787,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 180006,
-      "num": 180006,
-      "word": "微信录音 听到心跳",
-      "onboard_time": 1755491364,
-      "rank": 32,
-      "category": "休闲"
+      "raw_hot": 179042,
+      "num": 179042,
+      "word": "爸爸当家",
+      "onboard_time": 1755495685,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178243,
+      "num": 171853,
+      "word": "北大数学系女博主带团进山找菌王",
+      "onboard_time": 1755494663,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175825,
@@ -760,6 +816,30 @@
       "word": "周震南大大方方的裤裙穿搭",
       "onboard_time": 1755492265,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171969,
+      "num": 200453,
+      "word": "国新办发布会介绍阅兵准备工作",
+      "onboard_time": 1755494782,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 171654,
+      "num": 171654,
+      "word": "王皓 上岸先斩意中人",
+      "onboard_time": 1755495981,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170847,
+      "num": 170847,
+      "word": "裴秀智和宋慧乔又约饭了",
+      "onboard_time": 1755495922,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -803,14 +883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165018,
-      "num": 200453,
-      "word": "国新办发布会介绍阅兵准备工作",
-      "onboard_time": 1755494782,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 163257,
       "num": 210113,
       "word": "普京特朗普有说有笑视频走红",
@@ -833,6 +905,14 @@
       "onboard_time": 1755437364,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162155,
+      "num": 162155,
+      "word": "有人自林中坠落",
+      "onboard_time": 1755495323,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 161661,
@@ -915,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151199,
+      "num": 273555,
+      "word": "一家三口被害案凶手被判死刑",
+      "onboard_time": 1755494902,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150112,
       "num": 150112,
       "word": "中俄合拍谍战电影来了",
@@ -955,14 +1043,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 142364,
-      "num": 142364,
-      "word": "北大数学系女博主带团进山找菌王",
-      "onboard_time": 1755494663,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141774,
       "num": 100836,
       "word": "苏苏文典先婚后爱",
@@ -993,14 +1073,6 @@
       "onboard_time": 1755441086,
       "rank": 34,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 138658,
-      "num": 138658,
-      "word": "我们家子涵上恋综了",
-      "onboard_time": 1755494602,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 138457,
@@ -1403,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79940,
+      "num": 469063,
+      "word": "祖孙3人被杀案家属发声希望判死刑",
+      "onboard_time": 1755494965,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79599,
       "num": 79599,
       "word": "女子要求双休获回复漂亮可天天休",
@@ -1651,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55237,
+      "num": 179880,
+      "word": "鹬蚌相争 砸蚌救鸟",
+      "onboard_time": 1755495502,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54406,
       "num": 248874,
       "word": "沪指刷新近十年新高",
@@ -1660,7 +1748,7 @@
     },
     {
       "raw_hot": 48643,
-      "num": 235471,
+      "num": 274245,
       "word": "TOP登陆少年溢出满屏青春感",
       "onboard_time": 1755493463,
       "rank": 18,
@@ -1683,16 +1771,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 45417,
-      "num": 155491,
-      "word": "祖孙3人被杀案家属发声希望判死刑",
-      "onboard_time": 1755494965,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44889,
-      "num": 235113,
+      "num": 284618,
       "word": "看电影偶遇周深",
       "onboard_time": 1755493882,
       "rank": 19,
@@ -1739,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36247,
+      "num": 179355,
+      "word": "俞灏明王晓晨穿情侣装度假",
+      "onboard_time": 1755495981,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33889,
       "num": 180385,
       "word": "男子街头疯狂追撞女友情人车辆",
@@ -1763,12 +1851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25105,
+      "num": 209635,
+      "word": "美政府持续向华盛顿增兵",
+      "onboard_time": 1755495081,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22047,
       "num": 22047,
       "word": "FIBA亚洲杯",
       "onboard_time": 1755457094,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21919,
+      "num": 209504,
+      "word": "白富美把男友卖到缅甸案将开庭",
+      "onboard_time": 1755495081,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21751,
@@ -1793,14 +1897,6 @@
       "onboard_time": 1755467294,
       "rank": 49,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 14569,
-      "num": 180431,
-      "word": "一家三口被害案凶手被判死刑",
-      "onboard_time": 1755494902,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13546,
