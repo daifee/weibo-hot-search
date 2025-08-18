@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755502203385,
+  "endTime": 1755503012593,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1062371,
+      "num": 678056,
+      "word": "孙丞潇 我只有金莎一个美女",
+      "onboard_time": 1755502343,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1049334,
       "num": 1049334,
       "word": "胡明轩超神",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 706632,
-      "num": 427830,
+      "num": 448331,
       "word": "章昊门牙掉了",
       "onboard_time": 1755495802,
       "rank": 36,
@@ -201,6 +209,14 @@
       "onboard_time": 1755487222,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 653063,
+      "num": 653063,
+      "word": "日本多地发生中国公民遇袭",
+      "onboard_time": 1755500480,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 652689,
@@ -259,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 528943,
+      "num": 528943,
+      "word": "这跟亲了有什么区别",
+      "onboard_time": 1755496522,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523501,
       "num": 523501,
       "word": "胖东来招聘900人仅限河南地区人员",
@@ -267,20 +291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522581,
+      "num": 522581,
+      "word": "Viper",
+      "onboard_time": 1755500901,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 517501,
       "num": 517501,
       "word": "澳大利亚全队安慰胡明轩",
       "onboard_time": 1755478581,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 493466,
-      "num": 493466,
-      "word": "这跟亲了有什么区别",
-      "onboard_time": 1755496522,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 474694,
@@ -305,14 +329,6 @@
       "onboard_time": 1755494062,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 437887,
-      "num": 437887,
-      "word": "日本多地发生中国公民遇袭",
-      "onboard_time": 1755500480,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 433651,
@@ -393,14 +409,6 @@
       "onboard_time": 1755491063,
       "rank": 11,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 326532,
-      "num": 326532,
-      "word": "Viper",
-      "onboard_time": 1755500901,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 325968,
@@ -491,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277937,
+      "num": 277937,
+      "word": "王玉雯 避雷陈星旭这个摄影师",
+      "onboard_time": 1755502102,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272315,
       "num": 117327,
       "word": "多女性用棉密码病变速度让医生震惊",
@@ -553,6 +569,14 @@
       "onboard_time": 1755491303,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247830,
+      "num": 247830,
+      "word": "田曦薇赖伟明晒同款炒饭",
+      "onboard_time": 1755502463,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 244017,
@@ -659,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226022,
+      "num": 226022,
+      "word": "意大利母亲为护媳杀子分尸",
+      "onboard_time": 1755501142,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 222639,
       "num": 163660,
       "word": "果然婆婆基础公公就不基础",
@@ -681,6 +713,14 @@
       "onboard_time": 1755492143,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 212016,
+      "num": 212016,
+      "word": "赵丽颖问李维嘉再见爱人有你吗",
+      "onboard_time": 1755502463,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 210071,
@@ -739,6 +779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 200100,
+      "num": 200100,
+      "word": "微信上这三个设置尽量关闭",
+      "onboard_time": 1755502163,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199541,
       "num": 217270,
       "word": "内娱纯正少年帝后味的剧来了",
@@ -763,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198947,
-      "num": 198947,
-      "word": "微信上这三个设置尽量关闭",
-      "onboard_time": 1755502163,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 198745,
       "num": 198745,
       "word": "鹿晗陈赫唱了慢慢",
@@ -788,7 +828,7 @@
     },
     {
       "raw_hot": 197335,
-      "num": 197335,
+      "num": 229559,
       "word": "新WALOVI根本喝不过来",
       "onboard_time": 1755499522,
       "rank": 24,
@@ -883,6 +923,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 184367,
+      "num": 184367,
+      "word": "内娱艺人宣传红黑榜",
+      "onboard_time": 1755501923,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183980,
       "num": 183980,
       "word": "柯南七夕告别场是99不88",
@@ -915,20 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178825,
-      "num": 178825,
+      "raw_hot": 178946,
+      "num": 178946,
       "word": "胖东来招保洁要求25岁以下本科学历",
       "onboard_time": 1755500182,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178530,
-      "num": 178530,
-      "word": "意大利母亲为护媳杀子分尸",
-      "onboard_time": 1755501142,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 178278,
@@ -1035,6 +1075,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165242,
+      "num": 165242,
+      "word": "女子只顾聊天婴儿车掉进鱼塘",
+      "onboard_time": 1755501863,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164483,
+      "num": 164483,
+      "word": "抑郁焦虑和双相的区别",
+      "onboard_time": 1755499402,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163257,
       "num": 210113,
       "word": "普京特朗普有说有笑视频走红",
@@ -1139,28 +1195,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154456,
-      "num": 154456,
-      "word": "抑郁焦虑和双相的区别",
-      "onboard_time": 1755499402,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153244,
       "num": 153244,
       "word": "时空中的绘旅人",
       "onboard_time": 1755492265,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152461,
-      "num": 152461,
-      "word": "内娱艺人宣传红黑榜",
-      "onboard_time": 1755501923,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 150112,
@@ -1235,6 +1275,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 142921,
+      "num": 248241,
+      "word": "律师称女孩卖男友不构成人口拐卖",
+      "onboard_time": 1755502224,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141774,
       "num": 100836,
       "word": "苏苏文典先婚后爱",
@@ -1265,14 +1313,6 @@
       "onboard_time": 1755500722,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138828,
-      "num": 138828,
-      "word": "女子只顾聊天婴儿车掉进鱼塘",
-      "onboard_time": 1755501863,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138698,
@@ -1467,6 +1507,14 @@
       "category": "演出,作品衍生"
     },
     {
+      "raw_hot": 117317,
+      "num": 140604,
+      "word": "中国男篮目标洛奥",
+      "onboard_time": 1755501682,
+      "rank": 37,
+      "category": "体育,体育"
+    },
+    {
       "raw_hot": 116287,
       "num": 148000,
       "word": "特朗普喊话泽连斯基接受现实",
@@ -1483,12 +1531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115414,
-      "num": 115414,
-      "word": "王玉雯 避雷陈星旭这个摄影师",
-      "onboard_time": 1755502102,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 115677,
+      "num": 115677,
+      "word": "金莎 我虽说脸盲但男朋友肯定认得",
+      "onboard_time": 1755502941,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 113624,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1755426202,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111816,
+      "num": 418254,
+      "word": "九三阅兵演练踏出最帅风景线",
+      "onboard_time": 1755498626,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110891,
@@ -1596,7 +1652,7 @@
     },
     {
       "raw_hot": 105873,
-      "num": 140901,
+      "num": 143686,
       "word": "上汽通用回应智驾争议",
       "onboard_time": 1755499882,
       "rank": 37,
@@ -1683,12 +1739,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97556,
+      "num": 523448,
+      "word": "驻日使馆称留学生遭假绑架真诈骗",
+      "onboard_time": 1755502102,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97274,
       "num": 97274,
       "word": "中国男篮拼到最后一秒",
       "onboard_time": 1755455235,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93157,
+      "num": 221645,
+      "word": "第一次见有人质疑刘宇宁身高的",
+      "onboard_time": 1755502343,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 93003,
@@ -1699,11 +1771,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92850,
+      "num": 270837,
+      "word": "马云正式向虚假医疗广告宣战",
+      "onboard_time": 1755501443,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92768,
       "num": 92768,
       "word": "荷花和莲花是清凉界顶流",
       "onboard_time": 1755483022,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92406,
+      "num": 220190,
+      "word": "胖东来保洁保安到手工资近9000元",
+      "onboard_time": 1755502282,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1899,14 +1987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72639,
-      "num": 143550,
-      "word": "驻日使馆称留学生遭假绑架真诈骗",
-      "onboard_time": 1755502102,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71244,
       "num": 145804,
       "word": "19岁男生被女友10万卖到缅甸",
@@ -1971,14 +2051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 66850,
-      "num": 418254,
-      "word": "九三阅兵演练踏出最帅风景线",
-      "onboard_time": 1755498626,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 65915,
       "num": 168526,
       "word": "女子称遭骑手恐吓不敢回家",
@@ -2025,14 +2097,6 @@
       "onboard_time": 1755487582,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 60423,
-      "num": 270837,
-      "word": "马云正式向虚假医疗广告宣战",
-      "onboard_time": 1755501443,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60094,
@@ -2227,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25853,
+      "num": 139637,
+      "word": "法国一车辆因超速被罚95000欧元",
+      "onboard_time": 1755502582,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25105,
       "num": 209635,
       "word": "美政府持续向华盛顿增兵",
@@ -2265,14 +2337,6 @@
       "onboard_time": 1755457754,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20718,
-      "num": 140604,
-      "word": "中国男篮目标洛奥",
-      "onboard_time": 1755501682,
-      "rank": 37,
-      "category": "体育,体育"
     },
     {
       "raw_hot": 20707,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1755503012593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1429047,
+        "num": 1429047,
+        "word": "王皓 上岸先斩意中人",
+        "onboard_time": 1755495981,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 812017,
+        "num": 812017,
+        "word": "女子卖掉男友后安排10天旅游",
+        "onboard_time": 1755487764,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22412,
+        "num": 681632,
+        "word": "绝美焰火点亮成都夜空",
+        "onboard_time": 1755476842,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1062371,
+        "num": 678056,
+        "word": "孙丞潇 我只有金莎一个美女",
+        "onboard_time": 1755502343,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653063,
+        "num": 653063,
+        "word": "日本多地发生中国公民遇袭",
+        "onboard_time": 1755500480,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 565446,
+        "num": 565446,
+        "word": "日本出土多具头骨有钻孔锯切痕迹",
+        "onboard_time": 1755496281,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 787607,
+        "num": 564569,
+        "word": "王楚然的字",
+        "onboard_time": 1755496103,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556267,
+        "num": 556267,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1755489743,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 528943,
+        "num": 528943,
+        "word": "这跟亲了有什么区别",
+        "onboard_time": 1755496522,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97556,
+        "num": 523448,
+        "word": "驻日使馆称留学生遭假绑架真诈骗",
+        "onboard_time": 1755502102,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522581,
+        "num": 522581,
+        "word": "Viper",
+        "onboard_time": 1755500901,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 506061,
+        "num": 506061,
+        "word": "金钟国官宣结婚",
+        "onboard_time": 1755482481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461566,
+        "num": 461566,
+        "word": "19岁小伙被17岁女友10万卖到缅甸",
+        "onboard_time": 1755485243,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448331,
+        "num": 448331,
+        "word": "章昊门牙掉了",
+        "onboard_time": 1755495802,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337352,
+        "num": 337352,
+        "word": "演员张翰被冻结165万股权",
+        "onboard_time": 1755487283,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310760,
+        "num": 310760,
+        "word": "一家三口被害案凶手被判死刑",
+        "onboard_time": 1755494902,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277937,
+        "num": 277937,
+        "word": "王玉雯 避雷陈星旭这个摄影师",
+        "onboard_time": 1755502102,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32962,
+        "num": 262756,
+        "word": "享界S9T首搭六个智慧门",
+        "onboard_time": 1755499462,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92850,
+        "num": 252851,
+        "word": "马云正式向虚假医疗广告宣战",
+        "onboard_time": 1755501443,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142921,
+        "num": 248241,
+        "word": "律师称女孩卖男友不构成人口拐卖",
+        "onboard_time": 1755502224,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247830,
+        "num": 247830,
+        "word": "田曦薇赖伟明晒同款炒饭",
+        "onboard_time": 1755502463,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246230,
+        "num": 246230,
+        "word": "成人机票520元儿童却要1150元",
+        "onboard_time": 1755491424,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 246170,
+        "num": 246170,
+        "word": "杨幂种地吧",
+        "onboard_time": 1755482361,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245022,
+        "num": 245022,
+        "word": "泽连斯基称当时不该放弃克里米亚",
+        "onboard_time": 1755499522,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231591,
+        "num": 231591,
+        "word": "金钟国 尹恩惠",
+        "onboard_time": 1755494842,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90580,
+        "num": 229559,
+        "word": "新WALOVI根本喝不过来",
+        "onboard_time": 1755499522,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228277,
+        "num": 228277,
+        "word": "朋友圈点赞洁癖",
+        "onboard_time": 1755499043,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226022,
+        "num": 226022,
+        "word": "意大利母亲为护媳杀子分尸",
+        "onboard_time": 1755501142,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93157,
+        "num": 221645,
+        "word": "第一次见有人质疑刘宇宁身高的",
+        "onboard_time": 1755502343,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92406,
+        "num": 220190,
+        "word": "胖东来保洁保安到手工资近9000元",
+        "onboard_time": 1755502282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220099,
+        "num": 220099,
+        "word": "那英陈数录完花少还回家吗",
+        "onboard_time": 1755494062,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212016,
+        "num": 212016,
+        "word": "赵丽颖问李维嘉再见爱人有你吗",
+        "onboard_time": 1755502463,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203957,
+        "num": 203957,
+        "word": "妈妈给2岁儿子筹备生日当晚母子被杀",
+        "onboard_time": 1755491665,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200100,
+        "num": 200100,
+        "word": "微信上这三个设置尽量关闭",
+        "onboard_time": 1755502163,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184367,
+        "num": 184367,
+        "word": "内娱艺人宣传红黑榜",
+        "onboard_time": 1755501923,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178946,
+        "num": 178946,
+        "word": "胖东来招保洁要求25岁以下本科学历",
+        "onboard_time": 1755500182,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165242,
+        "num": 165242,
+        "word": "女子只顾聊天婴儿车掉进鱼塘",
+        "onboard_time": 1755501863,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164483,
+        "num": 164483,
+        "word": "抑郁焦虑和双相的区别",
+        "onboard_time": 1755499402,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65279,
+        "num": 143686,
+        "word": "上汽通用回应智驾争议",
+        "onboard_time": 1755499882,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140754,
+        "num": 140754,
+        "word": "刘涛 不是要下海吗",
+        "onboard_time": 1755487883,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25853,
+        "num": 139637,
+        "word": "法国一车辆因超速被罚95000欧元",
+        "onboard_time": 1755502582,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139550,
+        "num": 139550,
+        "word": "藏民12小时抬驴友下山收费6万",
+        "onboard_time": 1755492984,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137541,
+        "num": 137541,
+        "word": "胖东来招聘900人仅限河南地区人员",
+        "onboard_time": 1755490583,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136976,
+        "num": 136976,
+        "word": "陈星旭综艺史上最无公害嘉宾",
+        "onboard_time": 1755500722,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121085,
+        "num": 121085,
+        "word": "特朗普说乌克兰永远不得加入北约",
+        "onboard_time": 1755498626,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119866,
+        "num": 119866,
+        "word": "迪迪不畏直播向黄子韬道歉哭了",
+        "onboard_time": 1755491184,
+        "rank": 45,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 117865,
+        "num": 117865,
+        "word": "裴秀智和宋慧乔又约饭了",
+        "onboard_time": 1755495922,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117317,
+        "num": 117317,
+        "word": "中国男篮目标洛奥",
+        "onboard_time": 1755501682,
+        "rank": 47,
+        "category": "体育,体育"
+      },
+      {
+        "raw_hot": 115677,
+        "num": 115677,
+        "word": "金莎 我虽说脸盲但男朋友肯定认得",
+        "onboard_time": 1755502941,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111816,
+        "num": 111816,
+        "word": "九三阅兵演练踏出最帅风景线",
+        "onboard_time": 1755498626,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与雪域高原上的桃花源#"
+    }
+  }
+}
