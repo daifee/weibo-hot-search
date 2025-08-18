@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/18 23:31:06
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/18 23:45:23
 </p>
 </blockquote>
 <p>
@@ -4311,6 +4311,12 @@ iG起诉炫神（热度：773209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23ELK%E4%BA%AE%E5%B0%8F%E4%B8%91%23" target="weibo">
+ELK亮小丑（热度：699921）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8A%B6%E6%80%81%23" target="weibo">
 孙颖莎状态（热度：697652）
 </a>
@@ -4379,12 +4385,6 @@ W盛典 迪丽热巴（热度：692901）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SNH48%E6%80%BB%E9%80%89%E6%8E%92%E5%90%8D%23" target="weibo">
 SNH48总选排名（热度：690737）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23ELK%E4%BA%AE%E5%B0%8F%E4%B8%91%23" target="weibo">
-ELK亮小丑（热度：690690）
 </a>
 </li>
 
