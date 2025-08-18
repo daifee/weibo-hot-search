@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755531923301,
+  "endTime": 1755534920567,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -5049,6 +5049,14 @@
       "onboard_time": 1755301518,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 762995,
+      "num": 858815,
+      "word": "生万物第20集封神",
+      "onboard_time": 1755530004,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 762900,
@@ -13131,6 +13139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335156,
+      "num": 335156,
+      "word": "女子扶摔倒环卫工反被对方责骂",
+      "onboard_time": 1755531142,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335054,
       "num": 335054,
       "word": "吃鸡蛋事件妇联称已初步掌握经过",
@@ -14177,14 +14193,6 @@
       "onboard_time": 1754843601,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308610,
-      "num": 308610,
-      "word": "生万物第20集封神",
-      "onboard_time": 1755530004,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 308578,
@@ -26747,6 +26755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174460,
+      "num": 174460,
+      "word": "RNG",
+      "onboard_time": 1755531023,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174417,
       "num": 221039,
       "word": "百果园一年闭店近千家",
@@ -37123,14 +37139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136812,
-      "num": 136812,
-      "word": "RNG",
-      "onboard_time": 1755531023,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 136811,
       "num": 136811,
       "word": "刘耀文集体责任感好强",
@@ -40411,6 +40419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128066,
+      "num": 128066,
+      "word": "姐姐当家",
+      "onboard_time": 1755533841,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128065,
       "num": 423253,
       "word": "北京地铁28号线规划方案曝光",
@@ -41963,6 +41979,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 123705,
+      "num": 123705,
+      "word": "王皓管乐能共苦不能同甘",
+      "onboard_time": 1755532823,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123702,
       "num": 123702,
       "word": "有个情绪稳定的搭子真的很重要",
@@ -42481,6 +42505,14 @@
       "onboard_time": 1754403503,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122531,
+      "num": 122531,
+      "word": "警方通报海口世纪大桥碰撞事故",
+      "onboard_time": 1755531502,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 122516,
@@ -48611,6 +48643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105235,
+      "num": 137996,
+      "word": "我国刑法尚无拐卖男性罪名",
+      "onboard_time": 1755530302,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105233,
       "num": 105233,
       "word": "JDG赛季五连胜",
@@ -49329,14 +49369,6 @@
       "onboard_time": 1755242422,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 102553,
-      "num": 102553,
-      "word": "警方通报海口世纪大桥碰撞事故",
-      "onboard_time": 1755531502,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 102546,
@@ -51521,6 +51553,14 @@
       "onboard_time": 1754141971,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 95006,
+      "num": 95006,
+      "word": "法拍狸花猫未经寄养人许可不得拍摄",
+      "onboard_time": 1755530424,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94998,
@@ -54395,6 +54435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77678,
+      "num": 77678,
+      "word": "宋亚轩墨镜怼脸自拍",
+      "onboard_time": 1755533781,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77656,
       "num": 171294,
       "word": "你还在纠结买油车还是电车吗",
@@ -54505,6 +54553,14 @@
       "onboard_time": 1754377569,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76691,
+      "num": 76691,
+      "word": "哈马斯已同意新加沙停火提议",
+      "onboard_time": 1755532282,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76663,
@@ -55161,6 +55217,14 @@
       "onboard_time": 1755241762,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 70707,
+      "num": 76959,
+      "word": "山东一企业被控传销冻结近亿元资金",
+      "onboard_time": 1755532883,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 70687,
@@ -57883,14 +57947,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 48698,
-      "num": 224448,
-      "word": "女子扶摔倒环卫工反被对方责骂",
-      "onboard_time": 1755531142,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48643,
       "num": 274245,
       "word": "TOP登陆少年溢出满屏青春感",
@@ -59145,14 +59201,6 @@
       "onboard_time": 1755451998,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 39710,
-      "num": 137996,
-      "word": "我国刑法尚无拐卖男性罪名",
-      "onboard_time": 1755530302,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39698,
@@ -60521,6 +60569,14 @@
       "onboard_time": 1754799682,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29515,
+      "num": 124394,
+      "word": "重启人生的藏族女孩抱着记者哭了",
+      "onboard_time": 1755534621,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 29493,

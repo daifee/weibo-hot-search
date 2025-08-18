@@ -1,0 +1,410 @@
+{
+  "runTime": 1755534920567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 762995,
+        "num": 858815,
+        "word": "生万物第20集封神",
+        "onboard_time": 1755530004,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506783,
+        "num": 506783,
+        "word": "ELK亮小丑",
+        "onboard_time": 1755528923,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18373,
+        "num": 366818,
+        "word": "想看阅兵的心到达了顶峰",
+        "onboard_time": 1755499462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 520877,
+        "num": 357433,
+        "word": "万妮达与男友合照",
+        "onboard_time": 1755523643,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335156,
+        "num": 335156,
+        "word": "女子扶摔倒环卫工反被对方责骂",
+        "onboard_time": 1755531142,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288006,
+        "num": 288006,
+        "word": "iG战胜BLG",
+        "onboard_time": 1755526463,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 383252,
+        "num": 287453,
+        "word": "田曦薇否认与赖伟明恋情",
+        "onboard_time": 1755517343,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286725,
+        "num": 286725,
+        "word": "辛巴退出直播行业",
+        "onboard_time": 1755522923,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 231966,
+        "num": 231966,
+        "word": "债市崩了",
+        "onboard_time": 1755527664,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174460,
+        "num": 174460,
+        "word": "RNG",
+        "onboard_time": 1755531023,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227536,
+        "num": 174011,
+        "word": "乃万发长文倾诉委屈",
+        "onboard_time": 1755517640,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195308,
+        "num": 170326,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1755506302,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163375,
+        "num": 163375,
+        "word": "成都女子被误诊绝症服药3月",
+        "onboard_time": 1755529282,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157814,
+        "num": 157814,
+        "word": "生万物",
+        "onboard_time": 1755527244,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153673,
+        "num": 153673,
+        "word": "真的建议不要喝点外卖送的饮料",
+        "onboard_time": 1755509421,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150649,
+        "num": 150649,
+        "word": "多邻国崩了",
+        "onboard_time": 1755529404,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148741,
+        "num": 148741,
+        "word": "孩子脱鞋138cm补票后家长投诉退票",
+        "onboard_time": 1755510803,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141887,
+        "num": 141887,
+        "word": "iG起诉炫神",
+        "onboard_time": 1755514822,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138870,
+        "num": 138870,
+        "word": "王星越10万红包",
+        "onboard_time": 1755523403,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128066,
+        "num": 128066,
+        "word": "姐姐当家",
+        "onboard_time": 1755533841,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29515,
+        "num": 124394,
+        "word": "重启人生的藏族女孩抱着记者哭了",
+        "onboard_time": 1755534621,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 148208,
+        "num": 124238,
+        "word": "婚后13天发现妻子双子宫只有一个肾",
+        "onboard_time": 1755528503,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123705,
+        "num": 123705,
+        "word": "王皓管乐能共苦不能同甘",
+        "onboard_time": 1755532823,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122531,
+        "num": 122531,
+        "word": "警方通报海口世纪大桥碰撞事故",
+        "onboard_time": 1755531502,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 121266,
+        "num": 121266,
+        "word": "张晋血管堵塞80%",
+        "onboard_time": 1755511221,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114277,
+        "num": 114277,
+        "word": "董璇女儿小酒窝去香港参加比赛",
+        "onboard_time": 1755528443,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111780,
+        "num": 111780,
+        "word": "虞书欣小林老师杀青文",
+        "onboard_time": 1755527844,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110429,
+        "num": 110429,
+        "word": "子夜归 李沛恩",
+        "onboard_time": 1755517761,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105235,
+        "num": 105235,
+        "word": "我国刑法尚无拐卖男性罪名",
+        "onboard_time": 1755530302,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95006,
+        "num": 95006,
+        "word": "法拍狸花猫未经寄养人许可不得拍摄",
+        "onboard_time": 1755530424,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92838,
+        "num": 92838,
+        "word": "孙一宁因喝酒进医院",
+        "onboard_time": 1755520101,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91416,
+        "num": 91416,
+        "word": "蛋蛋 辛巴",
+        "onboard_time": 1755530124,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 86561,
+        "num": 86561,
+        "word": "A股大涨原因来了",
+        "onboard_time": 1755529042,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74246,
+        "num": 85942,
+        "word": "辽GM8297司机承认是故意的",
+        "onboard_time": 1755512242,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 85519,
+        "num": 85519,
+        "word": "王玉雯 避雷陈星旭这个摄影师",
+        "onboard_time": 1755502102,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85118,
+        "num": 85118,
+        "word": "奥迪E5预售23.59万",
+        "onboard_time": 1755525144,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 83430,
+        "num": 83430,
+        "word": "Wei采访",
+        "onboard_time": 1755527664,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77678,
+        "num": 77678,
+        "word": "宋亚轩墨镜怼脸自拍",
+        "onboard_time": 1755533781,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70707,
+        "num": 76959,
+        "word": "山东一企业被控传销冻结近亿元资金",
+        "onboard_time": 1755532883,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 76691,
+        "num": 76691,
+        "word": "哈马斯已同意新加沙停火提议",
+        "onboard_time": 1755532282,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77533,
+        "num": 76092,
+        "word": "子夜归开播",
+        "onboard_time": 1755512422,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75155,
+        "num": 75155,
+        "word": "三岁的猫坐了两年牢",
+        "onboard_time": 1755520041,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73690,
+        "num": 73690,
+        "word": "男子被女友骗至缅甸电诈园被打尿血",
+        "onboard_time": 1755518123,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66962,
+        "num": 66962,
+        "word": "管泽元 纳尔拍五个都赢不了",
+        "onboard_time": 1755530124,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65685,
+        "num": 65685,
+        "word": "男子与儿认亲2年后又一儿子找来",
+        "onboard_time": 1755520402,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65445,
+        "num": 65445,
+        "word": "Bin 绕后",
+        "onboard_time": 1755528443,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63868,
+        "num": 63868,
+        "word": "王皓 上岸先斩意中人",
+        "onboard_time": 1755495981,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61933,
+        "num": 61933,
+        "word": "封四太坏了",
+        "onboard_time": 1755525863,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59848,
+        "num": 59848,
+        "word": "中国人自己的老花有多美",
+        "onboard_time": 1755520283,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59802,
+        "num": 59802,
+        "word": "哈马斯同意新加沙停火提议",
+        "onboard_time": 1755530482,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
