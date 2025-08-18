@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755474023404,
+  "endTime": 1755483099410,
   "band_list": [
     {
       "raw_hot": 2703584,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2242447,
-      "num": 302799,
+      "num": 328777,
       "word": "褪黑素",
       "onboard_time": 1755443484,
       "rank": 10,
@@ -31,6 +31,14 @@
       "num": 565242,
       "word": "王晶曝张柏芝谢霆锋离婚原因",
       "onboard_time": 1755412282,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1951751,
+      "num": 329973,
+      "word": "金钟国官宣结婚",
+      "onboard_time": 1755482481,
       "rank": 10,
       "category": "艺人"
     },
@@ -83,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1383750,
+      "num": 1383750,
+      "word": "身份证不要直接发给别人",
+      "onboard_time": 1755475280,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1299466,
       "num": 1299466,
       "word": "虞书欣方持续取证中",
@@ -121,6 +137,14 @@
       "onboard_time": 1755453198,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1029790,
+      "num": 583475,
+      "word": "乱买衣服 隐形贫穷",
+      "onboard_time": 1755478462,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1008611,
@@ -265,6 +289,14 @@
       "onboard_time": 1755395841,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 706406,
+      "num": 706406,
+      "word": "19岁男子因被拒借宿杀人被刑拘",
+      "onboard_time": 1755479302,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 701770,
@@ -483,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517501,
+      "num": 517501,
+      "word": "澳大利亚全队安慰胡明轩",
+      "onboard_time": 1755478581,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511430,
       "num": 511430,
       "word": "李沁的睡姿",
@@ -603,12 +643,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433651,
+      "num": 433651,
+      "word": "马天宇养了三四百只鸡",
+      "onboard_time": 1755460875,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432150,
       "num": 432150,
       "word": "生万物热度",
       "onboard_time": 1755436345,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427521,
+      "num": 427521,
+      "word": "抗癌医生黄丹丹去世",
+      "onboard_time": 1755480562,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 415273,
@@ -795,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334811,
+      "num": 334811,
+      "word": "杨幂种地吧",
+      "onboard_time": 1755482361,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334567,
       "num": 334567,
       "word": "梓渝彩排现场图",
@@ -849,6 +913,14 @@
       "onboard_time": 1755395361,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 314967,
+      "num": 314967,
+      "word": "原来城里的名创优品长这样",
+      "onboard_time": 1755475040,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 311492,
@@ -1004,7 +1076,7 @@
     },
     {
       "raw_hot": 270388,
-      "num": 175583,
+      "num": 205258,
       "word": "梓渝褪黑素上线",
       "onboard_time": 1755472998,
       "rank": 32,
@@ -1059,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251800,
+      "num": 212580,
+      "word": "今年第一爆是哪部剧",
+      "onboard_time": 1755475701,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249946,
       "num": 249946,
       "word": "iPhone可以很富士",
@@ -1083,12 +1163,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 242535,
-      "num": 179767,
-      "word": "马天宇养了三四百只鸡",
-      "onboard_time": 1755460875,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 241445,
+      "num": 241445,
+      "word": "王一珩电话",
+      "onboard_time": 1755472639,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 239827,
@@ -1227,12 +1307,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209961,
-      "num": 162074,
-      "word": "王一珩电话",
-      "onboard_time": 1755472639,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 209882,
+      "num": 209882,
+      "word": "欧盟欢迎乌克兰加入",
+      "onboard_time": 1755476241,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209734,
@@ -2363,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137734,
+      "num": 137734,
+      "word": "蔡少芬回应张晋心脏病发作",
+      "onboard_time": 1755475701,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137119,
       "num": 137119,
       "word": "徕芬CEO怒怼前员工",
@@ -2787,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120034,
+      "num": 120034,
+      "word": "杨幂宁绣绣首条百万点赞视频",
+      "onboard_time": 1755481219,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119956,
       "num": 119956,
       "word": "王曼昱这球太能防了",
@@ -2931,6 +3027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116172,
+      "num": 116172,
+      "word": "YG练习室",
+      "onboard_time": 1755478642,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116078,
       "num": 116078,
       "word": "苏醒三个舞台用了三种音色",
@@ -3051,6 +3155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111604,
+      "num": 111604,
+      "word": "赵今麦无可替代高马尾路透",
+      "onboard_time": 1755479961,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111066,
       "num": 111066,
       "word": "让酒",
@@ -3075,12 +3187,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109902,
+      "num": 109902,
+      "word": "绣绣收留苏苏",
+      "onboard_time": 1755480261,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108545,
       "num": 108545,
       "word": "婴猴意外离世金丝猴妈妈轻抚告别",
       "onboard_time": 1755416423,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108458,
+      "num": 108458,
+      "word": "成都暴雨",
+      "onboard_time": 1755474319,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107910,
+      "num": 107910,
+      "word": "孙颖莎女单今晚首战",
+      "onboard_time": 1755482062,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 107909,
@@ -3137,6 +3273,14 @@
       "onboard_time": 1755444323,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106135,
+      "num": 106135,
+      "word": "定价以8结尾比9更狡猾",
+      "onboard_time": 1755481161,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106064,
@@ -3249,6 +3393,14 @@
       "onboard_time": 1755424941,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100661,
+      "num": 100661,
+      "word": "孙颖莎穿队服像穿校服",
+      "onboard_time": 1755481521,
+      "rank": 41,
+      "category": "体育,体育"
     },
     {
       "raw_hot": 100642,
@@ -3515,6 +3667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92768,
+      "num": 92768,
+      "word": "荷花和莲花是清凉界顶流",
+      "onboard_time": 1755483022,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92307,
+      "num": 92307,
+      "word": "高铁上线轻食了",
+      "onboard_time": 1755479122,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91707,
       "num": 91707,
       "word": "胡明轩半场15分",
@@ -3537,6 +3705,14 @@
       "onboard_time": 1755428722,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90874,
+      "num": 156954,
+      "word": "Swatch中国官网已找不到眯眯眼照片",
+      "onboard_time": 1755472758,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90628,
@@ -3577,6 +3753,14 @@
       "onboard_time": 1755389419,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89550,
+      "num": 89550,
+      "word": "视力仅0.02女生上岸985研究生",
+      "onboard_time": 1755483080,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89460,
@@ -3737,6 +3921,14 @@
       "onboard_time": 1755342500,
       "rank": 43,
       "category": "健康医疗,休闲"
+    },
+    {
+      "raw_hot": 82198,
+      "num": 212659,
+      "word": "黑人夫妻逃单老板拦路硬刚",
+      "onboard_time": 1755482300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81496,
@@ -3923,6 +4115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70739,
+      "num": 270866,
+      "word": "为中国航天点赞",
+      "onboard_time": 1755479481,
+      "rank": 15,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 70509,
       "num": 70509,
       "word": "非银存款大增1.39万亿",
@@ -3961,14 +4161,6 @@
       "onboard_time": 1755473118,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 66324,
-      "num": 156954,
-      "word": "Swatch中国官网已找不到眯眯眼照片",
-      "onboard_time": 1755472758,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65379,
@@ -4435,6 +4627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32843,
+      "num": 210908,
+      "word": "一家三口被害案今日开庭",
+      "onboard_time": 1755482842,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32695,
       "num": 679344,
       "word": "网警发布防范指南不让科技偷走隐私",
@@ -4595,6 +4795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20235,
+      "num": 275706,
+      "word": "什么比赛能让姚明坚持18年",
+      "onboard_time": 1755482481,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19417,
       "num": 31269,
       "word": "2025世界人形机器人运动会",
@@ -4609,6 +4817,14 @@
       "onboard_time": 1755345142,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17786,
+      "num": 108892,
+      "word": "泽连斯基再访白宫",
+      "onboard_time": 1755483080,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17121,
