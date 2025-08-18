@@ -1,0 +1,410 @@
+{
+  "runTime": 1755499377264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1907857,
+        "num": 1907857,
+        "word": "王皓 上岸先斩意中人",
+        "onboard_time": 1755495981,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1025821,
+        "num": 1025821,
+        "word": "女子卖掉男友后安排10天旅游",
+        "onboard_time": 1755487764,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18460,
+        "num": 696696,
+        "word": "绝美焰火点亮成都夜空",
+        "onboard_time": 1755476842,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1105989,
+        "num": 696360,
+        "word": "王楚然的字",
+        "onboard_time": 1755496103,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692204,
+        "num": 692204,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1755489743,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 594835,
+        "num": 594835,
+        "word": "日本出土多具头骨有钻孔锯切痕迹",
+        "onboard_time": 1755496281,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 933237,
+        "num": 571349,
+        "word": "金钟国官宣结婚",
+        "onboard_time": 1755482481,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499907,
+        "num": 499907,
+        "word": "一家三口被害案凶手被判死刑",
+        "onboard_time": 1755494902,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445170,
+        "num": 445170,
+        "word": "那英陈数录完花少还回家吗",
+        "onboard_time": 1755494062,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66850,
+        "num": 418254,
+        "word": "九三阅兵演练踏出最帅风景线",
+        "onboard_time": 1755498626,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 706632,
+        "num": 413399,
+        "word": "章昊门牙掉了",
+        "onboard_time": 1755495802,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519313,
+        "num": 409932,
+        "word": "金钟国 尹恩惠",
+        "onboard_time": 1755494842,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406340,
+        "num": 406340,
+        "word": "成人机票520元儿童却要1150元",
+        "onboard_time": 1755491424,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 384655,
+        "num": 384655,
+        "word": "演员张翰被冻结165万股权",
+        "onboard_time": 1755487283,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38002,
+        "num": 373743,
+        "word": "阿里22个品牌联合发布橙意计划",
+        "onboard_time": 1755496882,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367426,
+        "num": 367426,
+        "word": "19岁小伙被17岁女友10万卖到缅甸",
+        "onboard_time": 1755485243,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295540,
+        "num": 295540,
+        "word": "杨幂种地吧",
+        "onboard_time": 1755482361,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255772,
+        "num": 255772,
+        "word": "刘涛 不是要下海吗",
+        "onboard_time": 1755487883,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249276,
+        "num": 249276,
+        "word": "藏民12小时抬驴友下山收费6万",
+        "onboard_time": 1755492984,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42098,
+        "num": 246022,
+        "word": "赵丽颖秋天的第一份舒适",
+        "onboard_time": 1755497422,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 475213,
+        "num": 245910,
+        "word": "妈妈给2岁儿子筹备生日当晚母子被杀",
+        "onboard_time": 1755491665,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242999,
+        "num": 242999,
+        "word": "胖东来招聘900人仅限河南地区人员",
+        "onboard_time": 1755490583,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135032,
+        "num": 215802,
+        "word": "享界S9T预售32.8万起",
+        "onboard_time": 1755495262,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203012,
+        "num": 203012,
+        "word": "俞灏明王晓晨穿情侣装度假",
+        "onboard_time": 1755495981,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189683,
+        "num": 189683,
+        "word": "这跟亲了有什么区别",
+        "onboard_time": 1755496522,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189420,
+        "num": 189420,
+        "word": "灿如繁星官宣杀青",
+        "onboard_time": 1755498323,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182851,
+        "num": 182851,
+        "word": "喜人奇妙夜cos含金量",
+        "onboard_time": 1755498803,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179466,
+        "num": 179466,
+        "word": "迪迪不畏直播向黄子韬道歉哭了",
+        "onboard_time": 1755491184,
+        "rank": 27,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 175287,
+        "num": 175287,
+        "word": "一笙 谢谢关注我的每个人",
+        "onboard_time": 1755498982,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172032,
+        "num": 172032,
+        "word": "一定要及时删除微信的登录设备",
+        "onboard_time": 1755492143,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167903,
+        "num": 167903,
+        "word": "男女主关完灯不亲嘴只断案",
+        "onboard_time": 1755496402,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166628,
+        "num": 166628,
+        "word": "裴秀智和宋慧乔又约饭了",
+        "onboard_time": 1755495922,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153492,
+        "num": 153492,
+        "word": "大冰问谁是单依纯",
+        "onboard_time": 1755488303,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146744,
+        "num": 146744,
+        "word": "刘美含我还是绝望的直女",
+        "onboard_time": 1755497782,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145669,
+        "num": 145669,
+        "word": "华策影视涨超10%",
+        "onboard_time": 1755497903,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138556,
+        "num": 138556,
+        "word": "边伯贤 不喜欢我就不要买票",
+        "onboard_time": 1755498142,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134787,
+        "num": 134787,
+        "word": "国新办发布会介绍阅兵准备工作",
+        "onboard_time": 1755494782,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133367,
+        "num": 133367,
+        "word": "文科硕士的最后一条路也快没了",
+        "onboard_time": 1755488183,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66648,
+        "num": 130983,
+        "word": "王心凌说周深三高",
+        "onboard_time": 1755499282,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61014,
+        "num": 130580,
+        "word": "特朗普说乌克兰永远不得加入北约",
+        "onboard_time": 1755498626,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130521,
+        "num": 130521,
+        "word": "灿如繁星",
+        "onboard_time": 1755498562,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126742,
+        "num": 126742,
+        "word": "世界上怎么会有179的男人",
+        "onboard_time": 1755492804,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126082,
+        "num": 126082,
+        "word": "朋友圈点赞洁癖",
+        "onboard_time": 1755499043,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123348,
+        "num": 123348,
+        "word": "徐如蓝一来男六矮半截",
+        "onboard_time": 1755496824,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115900,
+        "num": 115900,
+        "word": "九三阅兵倒计时半个月",
+        "onboard_time": 1755484041,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113624,
+        "num": 113624,
+        "word": "鹿晗把陈赫淋透后秒怂",
+        "onboard_time": 1755498022,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110891,
+        "num": 110891,
+        "word": "公交车被插队急刹乘客流产索赔8万",
+        "onboard_time": 1755497063,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108380,
+        "num": 108380,
+        "word": "张艺兴 抢票",
+        "onboard_time": 1755497543,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106974,
+        "num": 106974,
+        "word": "最关爱男人的女主出现了",
+        "onboard_time": 1755499344,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106260,
+        "num": 106260,
+        "word": "时差五小时2今日上线",
+        "onboard_time": 1755498444,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与雪域高原上的桃花源#"
+    }
+  }
+}

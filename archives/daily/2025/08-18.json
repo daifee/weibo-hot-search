@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755496060965,
+  "endTime": 1755499377264,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -17,6 +17,14 @@
       "onboard_time": 1755443484,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1907857,
+      "num": 1907857,
+      "word": "王皓 上岸先斩意中人",
+      "onboard_time": 1755495981,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 1904773,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1105989,
+      "num": 696360,
+      "word": "王楚然的字",
+      "onboard_time": 1755496103,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1085781,
       "num": 1085781,
       "word": "19岁小伙被17岁女友10万卖到缅甸",
@@ -145,6 +161,14 @@
       "onboard_time": 1755488183,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 706632,
+      "num": 413399,
+      "word": "章昊门牙掉了",
+      "onboard_time": 1755495802,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 706406,
@@ -195,6 +219,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 594835,
+      "num": 594835,
+      "word": "日本出土多具头骨有钻孔锯切痕迹",
+      "onboard_time": 1755496281,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 593639,
       "num": 423886,
       "word": "RM成员不知道金钟国结婚",
@@ -235,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499907,
+      "num": 499907,
+      "word": "一家三口被害案凶手被判死刑",
+      "onboard_time": 1755494902,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474694,
       "num": 474694,
       "word": "高铁奶茶",
@@ -248,6 +288,14 @@
       "word": "孙怡 结婚得到的要比我赚钱幸福得多",
       "onboard_time": 1755429743,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 445170,
+      "num": 445170,
+      "word": "那英陈数录完花少还回家吗",
+      "onboard_time": 1755494062,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -313,14 +361,6 @@
       "onboard_time": 1755441265,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339214,
-      "num": 339214,
-      "word": "那英陈数录完花少还回家吗",
-      "onboard_time": 1755494062,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 334250,
@@ -627,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203012,
+      "num": 203012,
+      "word": "俞灏明王晓晨穿情侣装度假",
+      "onboard_time": 1755495981,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202373,
       "num": 202373,
       "word": "微信录音 听到心跳",
@@ -731,12 +779,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189683,
+      "num": 189683,
+      "word": "这跟亲了有什么区别",
+      "onboard_time": 1755496522,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189441,
       "num": 189441,
       "word": "邓紫棋临时加歌要求四万人帮她保密",
       "onboard_time": 1755493224,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189420,
+      "num": 189420,
+      "word": "灿如繁星官宣杀青",
+      "onboard_time": 1755498323,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 189419,
@@ -763,20 +827,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 184399,
-      "num": 184399,
-      "word": "章昊门牙掉了",
-      "onboard_time": 1755495802,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183980,
       "num": 183980,
       "word": "柯南七夕告别场是99不88",
       "onboard_time": 1755490163,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 182851,
+      "num": 182851,
+      "word": "喜人奇妙夜cos含金量",
+      "onboard_time": 1755498803,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 180882,
@@ -811,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175287,
+      "num": 175287,
+      "word": "一笙 谢谢关注我的每个人",
+      "onboard_time": 1755498982,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174120,
       "num": 174120,
       "word": "周震南大大方方的裤裙穿搭",
@@ -825,14 +897,6 @@
       "onboard_time": 1755494782,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 171654,
-      "num": 171654,
-      "word": "王皓 上岸先斩意中人",
-      "onboard_time": 1755495981,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 170847,
@@ -857,6 +921,14 @@
       "onboard_time": 1755440724,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167903,
+      "num": 167903,
+      "word": "男女主关完灯不亲嘴只断案",
+      "onboard_time": 1755496402,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 167271,
@@ -995,14 +1067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151199,
-      "num": 273555,
-      "word": "一家三口被害案凶手被判死刑",
-      "onboard_time": 1755494902,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150112,
       "num": 150112,
       "word": "中俄合拍谍战电影来了",
@@ -1033,6 +1097,22 @@
       "onboard_time": 1755492744,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146744,
+      "num": 146744,
+      "word": "刘美含我还是绝望的直女",
+      "onboard_time": 1755497782,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145669,
+      "num": 145669,
+      "word": "华策影视涨超10%",
+      "onboard_time": 1755497903,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 144627,
@@ -1073,6 +1153,14 @@
       "onboard_time": 1755441086,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 138556,
+      "num": 138556,
+      "word": "边伯贤 不喜欢我就不要买票",
+      "onboard_time": 1755498142,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 138457,
@@ -1139,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130521,
+      "num": 130521,
+      "word": "灿如繁星",
+      "onboard_time": 1755498562,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130340,
       "num": 130340,
       "word": "陈哲远真帅得冒烟了",
@@ -1171,12 +1267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126082,
+      "num": 126082,
+      "word": "朋友圈点赞洁癖",
+      "onboard_time": 1755499043,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125206,
       "num": 125206,
       "word": "微信号真的会透露很多隐私",
       "onboard_time": 1755426442,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123348,
+      "num": 123348,
+      "word": "徐如蓝一来男六矮半截",
+      "onboard_time": 1755496824,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 120034,
@@ -1235,12 +1347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113624,
+      "num": 113624,
+      "word": "鹿晗把陈赫淋透后秒怂",
+      "onboard_time": 1755498022,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112401,
       "num": 117451,
       "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
       "onboard_time": 1755426202,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110891,
+      "num": 110891,
+      "word": "公交车被插队急刹乘客流产索赔8万",
+      "onboard_time": 1755497063,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109902,
@@ -1259,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108380,
+      "num": 108380,
+      "word": "张艺兴 抢票",
+      "onboard_time": 1755497543,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107910,
       "num": 107910,
       "word": "孙颖莎女单今晚首战",
@@ -1273,6 +1409,22 @@
       "onboard_time": 1755448400,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106974,
+      "num": 106974,
+      "word": "最关爱男人的女主出现了",
+      "onboard_time": 1755499344,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106260,
+      "num": 106260,
+      "word": "时差五小时2今日上线",
+      "onboard_time": 1755498444,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 106135,
@@ -1635,6 +1787,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 66850,
+      "num": 418254,
+      "word": "九三阅兵演练踏出最帅风景线",
+      "onboard_time": 1755498626,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 66648,
+      "num": 130983,
+      "word": "王心凌说周深三高",
+      "onboard_time": 1755499282,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 65915,
       "num": 168526,
       "word": "女子称遭骑手恐吓不敢回家",
@@ -1673,6 +1841,14 @@
       "onboard_time": 1755453257,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61014,
+      "num": 130580,
+      "word": "特朗普说乌克兰永远不得加入北约",
+      "onboard_time": 1755498626,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60565,
@@ -1779,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42098,
+      "num": 246022,
+      "word": "赵丽颖秋天的第一份舒适",
+      "onboard_time": 1755497422,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41815,
       "num": 41815,
       "word": "曼联0比1阿森纳",
@@ -1811,20 +1995,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38002,
+      "num": 373743,
+      "word": "阿里22个品牌联合发布橙意计划",
+      "onboard_time": 1755496882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37661,
       "num": 37661,
       "word": "苏超常州镇江扬州套圈了",
       "onboard_time": 1755472998,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36247,
-      "num": 179355,
-      "word": "俞灏明王晓晨穿情侣装度假",
-      "onboard_time": 1755495981,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 33889,
