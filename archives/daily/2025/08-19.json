@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755542355032,
+  "endTime": 1755543217182,
   "band_list": [
     {
       "raw_hot": 762995,
@@ -91,6 +91,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170930,
+      "num": 55754,
+      "word": "不要相信晚上十一点半之后的大脑",
+      "onboard_time": 1755538276,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163375,
       "num": 163375,
       "word": "成都女子被误诊绝症服药3月",
@@ -169,14 +177,6 @@
       "onboard_time": 1755533841,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123010,
-      "num": 55754,
-      "word": "不要相信晚上十一点半之后的大脑",
-      "onboard_time": 1755538276,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 122531,
