@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/18 14:42:57
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/18 14:56:37
 </p>
 </blockquote>
 <p>
@@ -3927,6 +3927,12 @@ Aaaaapple品牌报警（热度：797280）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%87%BA%E5%9C%9F%E5%A4%9A%E5%85%B7%E5%A4%B4%E9%AA%A8%E6%9C%89%E9%92%BB%E5%AD%94%E9%94%AF%E5%88%87%E7%97%95%E8%BF%B9%23" target="weibo">
+日本出土多具头骨有钻孔锯切痕迹（热度：725834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E9%80%89%E6%89%8B%E6%9C%B4%E7%BF%94%E5%8E%BB%E4%B8%96%23" target="weibo">
 中国好声音选手朴翔去世（热度：724964）
 </a>
@@ -5327,12 +5333,6 @@ TOP 海口（热度：614711）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AB%8B%E4%BA%BA%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
 周立人故意杀人案二审宣判（热度：594908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%87%BA%E5%9C%9F%E5%A4%9A%E5%85%B7%E5%A4%B4%E9%AA%A8%E6%9C%89%E9%92%BB%E5%AD%94%E9%94%AF%E5%88%87%E7%97%95%E8%BF%B9%23" target="weibo">
-日本出土多具头骨有钻孔锯切痕迹（热度：594835）
 </a>
 </li>
 

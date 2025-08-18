@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755499377264,
+  "endTime": 1755500197171,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1105989,
-      "num": 696360,
+      "num": 739952,
       "word": "王楚然的字",
       "onboard_time": 1755496103,
       "rank": 3,
@@ -353,6 +353,14 @@
       "onboard_time": 1755413903,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 725834,
+      "num": 725834,
+      "word": "日本出土多具头骨有钻孔锯切痕迹",
+      "onboard_time": 1755496281,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 724129,
@@ -539,14 +547,6 @@
       "category": "民生新闻,读书作家"
     },
     {
-      "raw_hot": 594835,
-      "num": 594835,
-      "word": "日本出土多具头骨有钻孔锯切痕迹",
-      "onboard_time": 1755496281,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 593639,
       "num": 423886,
       "word": "RM成员不知道金钟国结婚",
@@ -643,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530372,
+      "num": 530372,
+      "word": "一家三口被害案凶手被判死刑",
+      "onboard_time": 1755494902,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 528121,
       "num": 476475,
       "word": "张若昀唐艺昕云南采菌子",
@@ -705,14 +713,6 @@
       "onboard_time": 1755406042,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 499907,
-      "num": 499907,
-      "word": "一家三口被害案凶手被判死刑",
-      "onboard_time": 1755494902,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 484391,
@@ -1667,6 +1667,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210815,
+      "num": 210815,
+      "word": "这跟亲了有什么区别",
+      "onboard_time": 1755496522,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210071,
+      "num": 203753,
+      "word": "王心凌说周深三高",
+      "onboard_time": 1755499282,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209882,
       "num": 209882,
       "word": "欧盟欢迎乌克兰加入",
@@ -1867,6 +1883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197335,
+      "num": 197335,
+      "word": "新WALOVI根本喝不过来",
+      "onboard_time": 1755499522,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197096,
       "num": 197096,
       "word": "西湖醋鱼全责",
@@ -2009,14 +2033,6 @@
       "onboard_time": 1755494602,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189683,
-      "num": 189683,
-      "word": "这跟亲了有什么区别",
-      "onboard_time": 1755496522,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 189441,
@@ -2457,6 +2473,14 @@
       "onboard_time": 1755486983,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 166788,
+      "num": 166788,
+      "word": "朋友圈点赞洁癖",
+      "onboard_time": 1755499043,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 166720,
@@ -2939,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148386,
+      "num": 148386,
+      "word": "陈飞宇心乱了人也乱了",
+      "onboard_time": 1755499643,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148202,
       "num": 248878,
       "word": "中国男篮让人看到重振的光",
@@ -3019,6 +3051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146043,
+      "num": 146043,
+      "word": "樊振东每一次专研练就强大内在",
+      "onboard_time": 1755499462,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145880,
       "num": 145880,
       "word": "范曾4段婚姻多个子女或引继承问题",
@@ -3073,6 +3113,14 @@
       "onboard_time": 1755355944,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144590,
+      "num": 359778,
+      "word": "泽连斯基称当时不该放弃克里米亚",
+      "onboard_time": 1755499522,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142167,
@@ -3435,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131883,
+      "num": 131883,
+      "word": "抑郁焦虑和双相的区别",
+      "onboard_time": 1755499402,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131849,
       "num": 197987,
       "word": "于文文戴眼镜完全主人级别",
@@ -3539,6 +3595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128087,
+      "num": 130580,
+      "word": "特朗普说乌克兰永远不得加入北约",
+      "onboard_time": 1755498626,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127903,
       "num": 127903,
       "word": "心脏原来是长条形的",
@@ -3593,14 +3657,6 @@
       "onboard_time": 1755418942,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126082,
-      "num": 126082,
-      "word": "朋友圈点赞洁癖",
-      "onboard_time": 1755499043,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 125667,
@@ -4147,6 +4203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106991,
+      "num": 126616,
+      "word": "金莎男友否认带美女出行",
+      "onboard_time": 1755499823,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106974,
       "num": 106974,
       "word": "最关爱男人的女主出现了",
@@ -4209,6 +4273,14 @@
       "onboard_time": 1755417262,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105873,
+      "num": 127718,
+      "word": "上汽通用回应智驾争议",
+      "onboard_time": 1755499882,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 105745,
@@ -5139,14 +5211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 66648,
-      "num": 130983,
-      "word": "王心凌说周深三高",
-      "onboard_time": 1755499282,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 65915,
       "num": 168526,
       "word": "女子称遭骑手恐吓不敢回家",
@@ -5217,14 +5281,6 @@
       "onboard_time": 1755409342,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61014,
-      "num": 130580,
-      "word": "特朗普说乌克兰永远不得加入北约",
-      "onboard_time": 1755498626,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 60578,
@@ -5497,6 +5553,14 @@
       "onboard_time": 1755350125,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42822,
+      "num": 205329,
+      "word": "享界S9T首搭六个智慧门",
+      "onboard_time": 1755499462,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 42710,
@@ -5801,6 +5865,14 @@
       "onboard_time": 1755456376,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25133,
+      "num": 125140,
+      "word": "胖东来招保洁要求25岁以下本科学历",
+      "onboard_time": 1755500182,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25105,
