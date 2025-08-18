@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755507137223,
+  "endTime": 1755509618012,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1548515,
-      "num": 678002,
+      "num": 701174,
       "word": "滕泽文 帮我问问于正",
       "onboard_time": 1755504803,
       "rank": 6,
@@ -91,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1345956,
+      "num": 1345956,
+      "word": "女孩被同班男生送回家途中杀害",
+      "onboard_time": 1755507023,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1344995,
       "num": 462448,
       "word": "刘涛 不是要下海吗",
@@ -104,6 +112,14 @@
       "word": "买房千万不要买挨着公园的",
       "onboard_time": 1755489743,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1233758,
+      "num": 319017,
+      "word": "独居最大的坏处已经出现了",
+      "onboard_time": 1755506302,
+      "rank": 16,
       "category": "幽默"
     },
     {
@@ -184,6 +200,14 @@
       "word": "虞书欣方持续取证中",
       "onboard_time": 1755437963,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 753969,
+      "num": 403528,
+      "word": "于正说没有雪藏滕泽文",
+      "onboard_time": 1755506722,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -411,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403528,
+      "num": 264239,
+      "word": "签售姐Viper 跑路",
+      "onboard_time": 1755500901,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390496,
       "num": 390496,
       "word": "曝王楚钦因档期取消金九拍摄",
@@ -441,14 +473,6 @@
       "onboard_time": 1755448161,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 357109,
-      "num": 196828,
-      "word": "于正说没有雪藏滕泽文",
-      "onboard_time": 1755506722,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 346971,
@@ -489,6 +513,14 @@
       "onboard_time": 1755443843,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324499,
+      "num": 324499,
+      "word": "央视曝AI克隆声音乱象",
+      "onboard_time": 1755507622,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323144,
@@ -577,14 +609,6 @@
       "onboard_time": 1755487883,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 285350,
-      "num": 191727,
-      "word": "签售姐Viper 跑路",
-      "onboard_time": 1755500901,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 285139,
@@ -747,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228900,
+      "num": 144141,
+      "word": "子夜归直播",
+      "onboard_time": 1755508883,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226559,
       "num": 189601,
       "word": "梓渝事业粉狂喜",
@@ -817,6 +849,14 @@
       "onboard_time": 1755489262,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206647,
+      "num": 179438,
+      "word": "骑手因用手机按电梯被老人推搡",
+      "onboard_time": 1755505703,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206297,
@@ -905,14 +945,6 @@
       "onboard_time": 1755496043,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197931,
-      "num": 197931,
-      "word": "独居最大的坏处已经出现了",
-      "onboard_time": 1755506302,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 197335,
@@ -1051,14 +1083,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179438,
-      "num": 179438,
-      "word": "骑手因用手机按电梯被老人推搡",
-      "onboard_time": 1755505703,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179042,
       "num": 179042,
       "word": "爸爸当家",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1755494663,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177863,
+      "num": 143614,
+      "word": "JOY回归",
+      "onboard_time": 1755509301,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 175825,
@@ -1131,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170564,
+      "num": 143313,
+      "word": "生万物33.1%",
+      "onboard_time": 1755508641,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170145,
       "num": 170145,
       "word": "欧豪嘴里没话眼里有戏",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1755496402,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167521,
+      "num": 167521,
+      "word": "王者高级河灯",
+      "onboard_time": 1755509483,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 167271,
@@ -1372,7 +1420,7 @@
     },
     {
       "raw_hot": 147434,
-      "num": 138371,
+      "num": 143279,
       "word": "张予曦不会删前任好友",
       "onboard_time": 1755506061,
       "rank": 38,
@@ -1411,12 +1459,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144970,
+      "num": 144970,
+      "word": "外卖大战 配送慢",
+      "onboard_time": 1755506722,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144627,
       "num": 144627,
       "word": "这届年轻人爱上了奔县旅游",
       "onboard_time": 1755487342,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 144595,
+      "num": 144595,
+      "word": "iPhone17e配置曝光",
+      "onboard_time": 1755508943,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 143576,
+      "num": 143576,
+      "word": "25岁翼装飞行者撞上山壁身亡",
+      "onboard_time": 1755507381,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143003,
+      "num": 143003,
+      "word": "丁程鑫宋亚轩 泪桥",
+      "onboard_time": 1755507622,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 142689,
@@ -1539,12 +1619,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136503,
+      "num": 136503,
+      "word": "21岁小伙靠扛楼10个月挣15万",
+      "onboard_time": 1755509002,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136440,
+      "num": 143029,
+      "word": "李想回应理想乘龙对撞测试",
+      "onboard_time": 1755507921,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 136316,
       "num": 122218,
       "word": "郭艾伦解说男篮亚洲杯决赛",
       "onboard_time": 1755472639,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134520,
+      "num": 134520,
+      "word": "无限暖暖捶打泄密行为",
+      "onboard_time": 1755507921,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 133756,
@@ -1561,6 +1665,14 @@
       "onboard_time": 1755505402,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132659,
+      "num": 132659,
+      "word": "刘耀文严浩翔like i do",
+      "onboard_time": 1755507863,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 131990,
@@ -1611,6 +1723,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 129528,
+      "num": 129528,
+      "word": "真的建议不要喝点外卖送的饮料",
+      "onboard_time": 1755509421,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129247,
       "num": 131814,
       "word": "中方乐见俄美双方保持接触",
@@ -1625,6 +1745,14 @@
       "onboard_time": 1755484402,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128802,
+      "num": 128802,
+      "word": "30岁俄罗斯环球小姐车祸身亡",
+      "onboard_time": 1755508822,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 128408,
@@ -1676,7 +1804,7 @@
     },
     {
       "raw_hot": 123250,
-      "num": 123250,
+      "num": 143095,
       "word": "追星人手机内存到底多少才够",
       "onboard_time": 1755505881,
       "rank": 47,
@@ -1763,6 +1891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 113817,
+      "num": 134556,
+      "word": "欧尼熊回应可心新恋情",
+      "onboard_time": 1755506902,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 113624,
       "num": 113624,
       "word": "鹿晗把陈赫淋透后秒怂",
@@ -1827,12 +1963,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109251,
-      "num": 134556,
-      "word": "欧尼熊回应可心新恋情",
-      "onboard_time": 1755506902,
-      "rank": 38,
-      "category": "网红"
+      "raw_hot": 109310,
+      "num": 109310,
+      "word": "陈星旭地球仅存的一颗灵珠",
+      "onboard_time": 1755509483,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109239,
+      "num": 109239,
+      "word": "无畏吹吹海风",
+      "onboard_time": 1755509421,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 108744,
@@ -2009,6 +2153,14 @@
       "onboard_time": 1755455235,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94711,
+      "num": 114560,
+      "word": "时代少年团粉丝爬上海体育场系谣言",
+      "onboard_time": 1755507863,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 93157,
@@ -2435,6 +2587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 50414,
+      "num": 132699,
+      "word": "小学食堂员工4年侵占40万元肉制品",
+      "onboard_time": 1755508463,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48643,
       "num": 274245,
       "word": "TOP登陆少年溢出满屏青春感",
@@ -2587,6 +2747,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 22131,
+      "num": 133313,
+      "word": "李昀锐喝豆汁",
+      "onboard_time": 1755509301,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22047,
       "num": 22047,
       "word": "FIBA亚洲杯",
@@ -2609,6 +2777,14 @@
       "onboard_time": 1755457754,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21091,
+      "num": 733427,
+      "word": "人民日报详解载人登月过程",
+      "onboard_time": 1755477802,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20707,
@@ -2657,14 +2833,6 @@
       "onboard_time": 1755392360,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 4490,
-      "num": 733427,
-      "word": "人民日报详解载人登月过程",
-      "onboard_time": 1755477802,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
