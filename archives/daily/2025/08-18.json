@@ -1,10 +1,10 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755484561483,
+  "endTime": 1755489923726,
   "band_list": [
     {
       "raw_hot": 4938738,
-      "num": 329973,
+      "num": 3731564,
       "word": "金钟国官宣结婚",
       "onboard_time": 1755482481,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2242447,
-      "num": 328777,
+      "num": 367671,
       "word": "褪黑素",
       "onboard_time": 1755443484,
       "rank": 10,
@@ -59,6 +59,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1292098,
+      "num": 435808,
+      "word": "刘涛 不是要下海吗",
+      "onboard_time": 1755487883,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1085781,
+      "num": 1085781,
+      "word": "19岁小伙被17岁女友10万卖到缅甸",
+      "onboard_time": 1755485243,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1049334,
       "num": 1049334,
       "word": "胡明轩超神",
@@ -73,6 +89,14 @@
       "onboard_time": 1755478462,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1009987,
+      "num": 1009987,
+      "word": "女子卖掉男友后安排10天旅游",
+      "onboard_time": 1755487764,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 914023,
@@ -107,12 +131,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 685338,
+      "num": 685338,
+      "word": "boss直聘崩了",
+      "onboard_time": 1755487222,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 652689,
       "num": 197796,
       "word": "茉莉奶白被砸身亡店员系17岁男生",
       "onboard_time": 1755438864,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 648174,
+      "num": 648174,
+      "word": "演员张翰被冻结165万股权",
+      "onboard_time": 1755487283,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 593639,
+      "num": 423886,
+      "word": "RM成员不知道金钟国结婚",
+      "onboard_time": 1755485183,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 517501,
@@ -123,12 +171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474694,
+      "num": 474694,
+      "word": "高铁奶茶",
+      "onboard_time": 1755483801,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449137,
       "num": 317587,
       "word": "孙怡 结婚得到的要比我赚钱幸福得多",
       "onboard_time": 1755429743,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448333,
+      "num": 448333,
+      "word": "大冰问谁是单依纯",
+      "onboard_time": 1755488303,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 433651,
@@ -179,12 +243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359929,
+      "num": 359929,
+      "word": "文科硕士的最后一条路也快没了",
+      "onboard_time": 1755488183,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344339,
       "num": 344339,
       "word": "坐高铁遇400斤邻座12306不该甩锅",
       "onboard_time": 1755441265,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334250,
+      "num": 334250,
+      "word": "九三阅兵倒计时半个月",
+      "onboard_time": 1755484041,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 325968,
@@ -203,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 318158,
+      "num": 318158,
+      "word": "孙丞潇189视角拍的金莎",
+      "onboard_time": 1755486983,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314967,
       "num": 314967,
       "word": "原来城里的名创优品长这样",
@@ -211,11 +299,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312683,
+      "num": 312683,
+      "word": "A股",
+      "onboard_time": 1755483381,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 304163,
       "num": 304163,
       "word": "1750瓶茅台一原所有人已被执行死刑",
       "onboard_time": 1755441805,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287890,
+      "num": 287890,
+      "word": "洱海12岁走失自闭症儿童已找到",
+      "onboard_time": 1755487883,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -299,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219403,
+      "num": 219403,
+      "word": "iPhone最烦人的5个功能",
+      "onboard_time": 1755487821,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 217048,
+      "num": 217048,
+      "word": "为什么长期不吃晚饭也瘦不下来",
+      "onboard_time": 1755485783,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 209882,
       "num": 209882,
       "word": "欧盟欢迎乌克兰加入",
@@ -307,20 +427,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 206388,
-      "num": 206388,
-      "word": "九三阅兵倒计时半个月",
-      "onboard_time": 1755484041,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 209822,
+      "num": 209822,
+      "word": "买房千万不要买挨着公园的",
+      "onboard_time": 1755489743,
+      "rank": 30,
+      "category": "幽默"
     },
     {
-      "raw_hot": 199573,
-      "num": 208495,
-      "word": "A股",
-      "onboard_time": 1755483381,
-      "rank": 21,
-      "category": "财经"
+      "raw_hot": 208660,
+      "num": 208660,
+      "word": "44万学费的大学录取通知书",
+      "onboard_time": 1755488663,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 200449,
+      "num": 200449,
+      "word": "清凝",
+      "onboard_time": 1755488783,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 199541,
+      "num": 217270,
+      "word": "内娱纯正少年帝后味的剧来了",
+      "onboard_time": 1755488242,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 199485,
@@ -347,12 +483,68 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194689,
+      "num": 194689,
+      "word": "A股市值突破100万亿元大关",
+      "onboard_time": 1755488303,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 191613,
+      "num": 217080,
+      "word": "与晋长安没播刘宇宁先安排售后",
+      "onboard_time": 1755489262,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188828,
+      "num": 188828,
+      "word": "陈睿卸任B站公司法定代表人",
+      "onboard_time": 1755488183,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 184787,
+      "num": 184787,
+      "word": "王者荣耀河灯",
+      "onboard_time": 1755486623,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 180882,
+      "num": 180882,
+      "word": "沪指突破3731.69点",
+      "onboard_time": 1755489083,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 170145,
+      "num": 170145,
+      "word": "欧豪嘴里没话眼里有戏",
+      "onboard_time": 1755489443,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168221,
       "num": 146054,
       "word": "十个勤天直播",
       "onboard_time": 1755440724,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165808,
+      "num": 165808,
+      "word": "这下都知道我推KPL了",
+      "onboard_time": 1755489563,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 163257,
@@ -395,12 +587,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154554,
-      "num": 154554,
+      "raw_hot": 158217,
+      "num": 158217,
       "word": "末伏最后1天",
       "onboard_time": 1755483202,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150112,
+      "num": 150112,
+      "word": "中俄合拍谍战电影来了",
+      "onboard_time": 1755488064,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 149724,
@@ -419,12 +619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 145548,
-      "num": 145548,
-      "word": "高铁奶茶",
-      "onboard_time": 1755483801,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 148082,
+      "num": 148082,
+      "word": "穆祉丞当着姚明面说喜欢足球",
+      "onboard_time": 1755489863,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 141774,
@@ -531,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120715,
+      "num": 180371,
+      "word": "等我瘦下来我也胡说八道",
+      "onboard_time": 1755489503,
+      "rank": 39,
+      "category": "运动健身,休闲"
+    },
+    {
       "raw_hot": 120034,
       "num": 199439,
       "word": "杨幂宁绣绣首条百万点赞视频",
@@ -555,12 +763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118137,
+      "num": 210041,
+      "word": "客运站花3600万建成10年未投入使用",
+      "onboard_time": 1755488004,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 117365,
       "num": 117365,
       "word": "五月天演唱会上偶遇李现",
       "onboard_time": 1755435082,
       "rank": 32,
       "category": "演出,作品衍生"
+    },
+    {
+      "raw_hot": 116287,
+      "num": 148000,
+      "word": "特朗普喊话泽连斯基接受现实",
+      "onboard_time": 1755487883,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116172,
@@ -619,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105745,
+      "num": 218114,
+      "word": "男生被女友10万卖到缅甸姐姐发声",
+      "onboard_time": 1755485662,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105352,
       "num": 105352,
       "word": "生万物",
@@ -633,6 +865,14 @@
       "onboard_time": 1755482602,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103849,
+      "num": 211152,
+      "word": "丞磊新剧跪着但是不服",
+      "onboard_time": 1755489024,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 103715,
@@ -827,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78351,
+      "num": 326008,
+      "word": "奥迪E5预售",
+      "onboard_time": 1755486202,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 76425,
       "num": 76425,
       "word": "喻言对方正在跳舞中舞台",
@@ -963,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60565,
+      "num": 315160,
+      "word": "王老吉时尚芭莎大片首发",
+      "onboard_time": 1755487582,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 60094,
       "num": 89217,
       "word": "美羊羊这羊能处",
@@ -977,6 +1233,14 @@
       "onboard_time": 1755443783,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59113,
+      "num": 213139,
+      "word": "徐静雨说中国男篮站起来了",
+      "onboard_time": 1755489684,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 58695,
@@ -1059,12 +1323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33889,
+      "num": 180385,
+      "word": "男子街头疯狂追撞女友情人车辆",
+      "onboard_time": 1755488962,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25997,
       "num": 29043,
       "word": "孟子义唱歌人在前面唱调在后面追",
       "onboard_time": 1755456376,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25089,
+      "num": 1026656,
+      "word": "绝美焰火点亮成都夜空",
+      "onboard_time": 1755476842,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 22047,
@@ -1137,6 +1417,9 @@
     },
     {
       "word": "#参观这座纪念馆习近平问了68个问题#"
+    },
+    {
+      "word": "#习近平与雪域高原上的桃花源#"
     }
   ]
 }

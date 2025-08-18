@@ -1,0 +1,410 @@
+{
+  "runTime": 1755489923726,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3731564,
+        "num": 3731564,
+        "word": "金钟国官宣结婚",
+        "onboard_time": 1755482481,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1085781,
+        "num": 1085781,
+        "word": "19岁小伙被17岁女友10万卖到缅甸",
+        "onboard_time": 1755485243,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25089,
+        "num": 1026656,
+        "word": "绝美焰火点亮成都夜空",
+        "onboard_time": 1755476842,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1009987,
+        "num": 1009987,
+        "word": "女子卖掉男友后安排10天旅游",
+        "onboard_time": 1755487764,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850051,
+        "num": 850051,
+        "word": "杨幂种地吧",
+        "onboard_time": 1755482361,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685338,
+        "num": 685338,
+        "word": "boss直聘崩了",
+        "onboard_time": 1755487222,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 648174,
+        "num": 648174,
+        "word": "演员张翰被冻结165万股权",
+        "onboard_time": 1755487283,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474694,
+        "num": 474694,
+        "word": "高铁奶茶",
+        "onboard_time": 1755483801,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448333,
+        "num": 448333,
+        "word": "大冰问谁是单依纯",
+        "onboard_time": 1755488303,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441269,
+        "num": 441269,
+        "word": "身份证不要直接发给别人",
+        "onboard_time": 1755475280,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1292098,
+        "num": 435808,
+        "word": "刘涛 不是要下海吗",
+        "onboard_time": 1755487883,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593639,
+        "num": 423886,
+        "word": "RM成员不知道金钟国结婚",
+        "onboard_time": 1755485183,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402893,
+        "num": 402893,
+        "word": "乱买衣服 隐形贫穷",
+        "onboard_time": 1755478462,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367671,
+        "num": 367671,
+        "word": "褪黑素",
+        "onboard_time": 1755443484,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359929,
+        "num": 359929,
+        "word": "文科硕士的最后一条路也快没了",
+        "onboard_time": 1755488183,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334250,
+        "num": 334250,
+        "word": "九三阅兵倒计时半个月",
+        "onboard_time": 1755484041,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78351,
+        "num": 326008,
+        "word": "奥迪E5预售",
+        "onboard_time": 1755486202,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 318158,
+        "num": 318158,
+        "word": "孙丞潇189视角拍的金莎",
+        "onboard_time": 1755486983,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60565,
+        "num": 315160,
+        "word": "王老吉时尚芭莎大片首发",
+        "onboard_time": 1755487582,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 312683,
+        "num": 312683,
+        "word": "A股",
+        "onboard_time": 1755483381,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 287890,
+        "num": 287890,
+        "word": "洱海12岁走失自闭症儿童已找到",
+        "onboard_time": 1755487883,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188873,
+        "num": 230726,
+        "word": "马頔道歉",
+        "onboard_time": 1755445102,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219403,
+        "num": 219403,
+        "word": "iPhone最烦人的5个功能",
+        "onboard_time": 1755487821,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105745,
+        "num": 218114,
+        "word": "男生被女友10万卖到缅甸姐姐发声",
+        "onboard_time": 1755485662,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199541,
+        "num": 217270,
+        "word": "内娱纯正少年帝后味的剧来了",
+        "onboard_time": 1755488242,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191613,
+        "num": 217080,
+        "word": "与晋长安没播刘宇宁先安排售后",
+        "onboard_time": 1755489262,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217048,
+        "num": 217048,
+        "word": "为什么长期不吃晚饭也瘦不下来",
+        "onboard_time": 1755485783,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59113,
+        "num": 213139,
+        "word": "徐静雨说中国男篮站起来了",
+        "onboard_time": 1755489684,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103849,
+        "num": 211152,
+        "word": "丞磊新剧跪着但是不服",
+        "onboard_time": 1755489024,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118137,
+        "num": 210041,
+        "word": "客运站花3600万建成10年未投入使用",
+        "onboard_time": 1755488004,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 209822,
+        "num": 209822,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1755489743,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208660,
+        "num": 208660,
+        "word": "44万学费的大学录取通知书",
+        "onboard_time": 1755488663,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200449,
+        "num": 200449,
+        "word": "清凝",
+        "onboard_time": 1755488783,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 194689,
+        "num": 194689,
+        "word": "A股市值突破100万亿元大关",
+        "onboard_time": 1755488303,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189376,
+        "num": 189376,
+        "word": "戚薇大方承认医美过度",
+        "onboard_time": 1755434663,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188828,
+        "num": 188828,
+        "word": "陈睿卸任B站公司法定代表人",
+        "onboard_time": 1755488183,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184787,
+        "num": 184787,
+        "word": "王者荣耀河灯",
+        "onboard_time": 1755486623,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180882,
+        "num": 180882,
+        "word": "沪指突破3731.69点",
+        "onboard_time": 1755489083,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33889,
+        "num": 180385,
+        "word": "男子街头疯狂追撞女友情人车辆",
+        "onboard_time": 1755488962,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120715,
+        "num": 180371,
+        "word": "等我瘦下来我也胡说八道",
+        "onboard_time": 1755489503,
+        "rank": 39,
+        "category": "运动健身,休闲"
+      },
+      {
+        "raw_hot": 180361,
+        "num": 180361,
+        "word": "今年第一爆是哪部剧",
+        "onboard_time": 1755475701,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170145,
+        "num": 170145,
+        "word": "欧豪嘴里没话眼里有戏",
+        "onboard_time": 1755489443,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166084,
+        "num": 166084,
+        "word": "茉莉奶白被砸身亡店员系17岁男生",
+        "onboard_time": 1755438864,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165808,
+        "num": 165808,
+        "word": "这下都知道我推KPL了",
+        "onboard_time": 1755489563,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162079,
+        "num": 162079,
+        "word": "马天宇养了三四百只鸡",
+        "onboard_time": 1755460875,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158217,
+        "num": 158217,
+        "word": "末伏最后1天",
+        "onboard_time": 1755483202,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93978,
+        "num": 152449,
+        "word": "谷爱凌新身份",
+        "onboard_time": 1755483381,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150112,
+        "num": 150112,
+        "word": "中俄合拍谍战电影来了",
+        "onboard_time": 1755488064,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148082,
+        "num": 148082,
+        "word": "穆祉丞当着姚明面说喜欢足球",
+        "onboard_time": 1755489863,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 116287,
+        "num": 148000,
+        "word": "特朗普喊话泽连斯基接受现实",
+        "onboard_time": 1755487883,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与雪域高原上的桃花源#"
+    }
+  }
+}
