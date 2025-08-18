@@ -1,0 +1,410 @@
+{
+  "runTime": 1755525254809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1483711,
+        "num": 1483711,
+        "word": "辛巴退出直播行业",
+        "onboard_time": 1755522923,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 525225,
+        "num": 525225,
+        "word": "孩子脱鞋138cm补票后家长投诉退票",
+        "onboard_time": 1755510803,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34581,
+        "num": 349903,
+        "word": "想看阅兵的心到达了顶峰",
+        "onboard_time": 1755499462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1136292,
+        "num": 346762,
+        "word": "田曦薇否认与赖伟明恋情",
+        "onboard_time": 1755517343,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332682,
+        "num": 332682,
+        "word": "孙颖莎vs高达",
+        "onboard_time": 1755520283,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1234021,
+        "num": 332623,
+        "word": "网友涌入七匹狼直播间刷续面事件",
+        "onboard_time": 1755520883,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 963340,
+        "num": 332529,
+        "word": "万妮达与男友合照",
+        "onboard_time": 1755523643,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495245,
+        "num": 332503,
+        "word": "子夜归 李沛恩",
+        "onboard_time": 1755517761,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332390,
+        "num": 332390,
+        "word": "男子被女友骗至缅甸电诈园被打尿血",
+        "onboard_time": 1755518123,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213837,
+        "num": 328854,
+        "word": "男子与儿认亲2年后又一儿子找来",
+        "onboard_time": 1755520402,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 976635,
+        "num": 321340,
+        "word": "王星越10万红包",
+        "onboard_time": 1755523403,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606870,
+        "num": 315650,
+        "word": "女孩被同班男生送回家途中杀害",
+        "onboard_time": 1755507023,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491000,
+        "num": 301331,
+        "word": "乃万发长文倾诉委屈",
+        "onboard_time": 1755517640,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566936,
+        "num": 298182,
+        "word": "续面事件老板发声道歉网友毫不买账",
+        "onboard_time": 1755513682,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471012,
+        "num": 285958,
+        "word": "三岁的猫坐了两年牢",
+        "onboard_time": 1755520041,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417876,
+        "num": 276554,
+        "word": "真的建议不要喝点外卖送的饮料",
+        "onboard_time": 1755509421,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349802,
+        "num": 272771,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1755506302,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267300,
+        "num": 267300,
+        "word": "中国人自己的老花有多美",
+        "onboard_time": 1755520283,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259174,
+        "num": 259174,
+        "word": "王伟忠因为藏海传去探访郑晓龙",
+        "onboard_time": 1755514641,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142150,
+        "num": 230759,
+        "word": "人社局回应胖东来保安保洁招聘争议",
+        "onboard_time": 1755523882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511160,
+        "num": 229271,
+        "word": "张晋血管堵塞80%",
+        "onboard_time": 1755511221,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397942,
+        "num": 227223,
+        "word": "孙一宁因喝酒进医院",
+        "onboard_time": 1755520101,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212784,
+        "num": 212784,
+        "word": "王玉雯 避雷陈星旭这个摄影师",
+        "onboard_time": 1755502102,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202954,
+        "num": 202954,
+        "word": "辽GM8297司机承认是故意的",
+        "onboard_time": 1755512242,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 193390,
+        "num": 193390,
+        "word": "子夜归开播",
+        "onboard_time": 1755512422,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193358,
+        "num": 193358,
+        "word": "王皓 上岸先斩意中人",
+        "onboard_time": 1755495981,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189424,
+        "num": 189424,
+        "word": "子夜归热度",
+        "onboard_time": 1755516860,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176121,
+        "num": 176121,
+        "word": "iG起诉炫神",
+        "onboard_time": 1755514822,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170740,
+        "num": 170740,
+        "word": "王影璐瘦成啥样了",
+        "onboard_time": 1755513742,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56442,
+        "num": 168123,
+        "word": "男子面馆用餐拔头发放碗里要3瓶水",
+        "onboard_time": 1755523942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168031,
+        "num": 168031,
+        "word": "生万物全村出击开始团战",
+        "onboard_time": 1755524063,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146271,
+        "num": 146271,
+        "word": "邪修出图就是快",
+        "onboard_time": 1755524844,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145820,
+        "num": 145820,
+        "word": "张晚意你也太会过日子了",
+        "onboard_time": 1755521962,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145427,
+        "num": 145427,
+        "word": "孙颖莎候场笑得好开心",
+        "onboard_time": 1755520822,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140352,
+        "num": 140352,
+        "word": "杨幂拍生万物住简陋招待所",
+        "onboard_time": 1755515902,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12849,
+        "num": 139701,
+        "word": "奥迪E5预售23.59万",
+        "onboard_time": 1755525144,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139233,
+        "num": 139233,
+        "word": "邢菲宁苏苏成了沈眉庄",
+        "onboard_time": 1755520762,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135427,
+        "num": 135427,
+        "word": "王星越说追星女的爱是纯粹的",
+        "onboard_time": 1755524782,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131672,
+        "num": 131672,
+        "word": "李秀满新团顶着美丽的脸玩抽象",
+        "onboard_time": 1755524963,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130231,
+        "num": 130231,
+        "word": "吴艳妮回应被刘畊宏邀请跳操",
+        "onboard_time": 1755524364,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127654,
+        "num": 127654,
+        "word": "觉得压力大可以来看看这张图",
+        "onboard_time": 1755520101,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126021,
+        "num": 126021,
+        "word": "NBA球星来中国一趟什么都想带回家",
+        "onboard_time": 1755521603,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116401,
+        "num": 116401,
+        "word": "蓝盈莹说银子是苦难中开出的花",
+        "onboard_time": 1755521482,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115349,
+        "num": 115349,
+        "word": "穿鞋超标脱鞋达标园方问难道脱鞋玩",
+        "onboard_time": 1755523282,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110873,
+        "num": 110873,
+        "word": "李庚希 颜值T",
+        "onboard_time": 1755524183,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107322,
+        "num": 107322,
+        "word": "印度女留学生吐槽韩餐肉太多",
+        "onboard_time": 1755511402,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105170,
+        "num": 105170,
+        "word": "日本多地发生中国公民遇袭",
+        "onboard_time": 1755500480,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104251,
+        "num": 104251,
+        "word": "中美网友对账的含金量还在上升",
+        "onboard_time": 1755521603,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102375,
+        "num": 102375,
+        "word": "宋妍霏麻辣女教师造型",
+        "onboard_time": 1755522444,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98140,
+        "num": 98140,
+        "word": "微信的隐藏功能",
+        "onboard_time": 1755524963,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
