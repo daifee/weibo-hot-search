@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/18 22:47:23
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/18 23:31:06
 </p>
 </blockquote>
 <p>
@@ -4383,6 +4383,12 @@ SNH48总选排名（热度：690737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23ELK%E4%BA%AE%E5%B0%8F%E4%B8%91%23" target="weibo">
+ELK亮小丑（热度：690690）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E8%AF%B4%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%89%E5%B9%B4%E5%89%8D%E6%BC%9421%E4%B8%89%E5%B9%B4%E5%90%8E%E6%BC%9418%E5%B2%81%23" target="weibo">
 张萌说关晓彤三年前演21三年后演18岁（热度：690563）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy独自带小海绵回香港（热度：571996）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%A4%9C%E5%BD%92%E5%BC%80%E6%92%AD%23" target="weibo">
 子夜归开播（热度：558894）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E8%BF%AA%E4%B8%8D%E7%95%8F%E7%9B%B4%E6%92%AD%E5%90%91%E9%BB%84%E5%AD%90%E9%9F%AC%E9%81%93%E6%AD%89%E5%93%AD%E4%BA%86%23" target="weibo">
-迪迪不畏直播向黄子韬道歉哭了（热度：558097）
 </a>
 </li>
 
