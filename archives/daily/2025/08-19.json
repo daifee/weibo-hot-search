@@ -1,7 +1,15 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755559475557,
+  "endTime": 1755560322204,
   "band_list": [
+    {
+      "raw_hot": 839486,
+      "num": 959387,
+      "word": "续面涉事饭店被大量群众围观",
+      "onboard_time": 1755557897,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 762995,
       "num": 858815,
@@ -27,11 +35,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 398188,
-      "num": 786210,
-      "word": "续面涉事饭店被大量群众围观",
-      "onboard_time": 1755557897,
-      "rank": 0,
+      "raw_hot": 412819,
+      "num": 79101,
+      "word": "网传学生强奸虐杀猫不实",
+      "onboard_time": 1755557958,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -59,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 298161,
+      "num": 160538,
+      "word": "不要相信晚上十一点半之后的大脑",
+      "onboard_time": 1755538276,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288006,
       "num": 288006,
       "word": "iG战胜BLG",
@@ -75,16 +91,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 285204,
-      "num": 133310,
-      "word": "不要相信晚上十一点半之后的大脑",
-      "onboard_time": 1755538276,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 236782,
-      "num": 236782,
+      "raw_hot": 269720,
+      "num": 269720,
       "word": "孩子脱鞋138cm补票后家长投诉退票",
       "onboard_time": 1755510803,
       "rank": 16,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208574,
+      "num": 208574,
+      "word": "男子与儿认亲2年后又一儿子找来",
+      "onboard_time": 1755520402,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195308,
       "num": 170326,
       "word": "独居最大的坏处已经出现了",
@@ -115,12 +131,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190873,
-      "num": 67985,
-      "word": "网传学生强奸虐杀猫不实",
-      "onboard_time": 1755557958,
-      "rank": 30,
+      "raw_hot": 195258,
+      "num": 124238,
+      "word": "婚后13天发现妻子双子宫只有一个肾",
+      "onboard_time": 1755528503,
+      "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177326,
+      "num": 177326,
+      "word": "王皓管乐能共苦不能同甘",
+      "onboard_time": 1755532823,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 174460,
@@ -131,11 +155,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 172865,
-      "num": 172865,
-      "word": "男子与儿认亲2年后又一儿子找来",
-      "onboard_time": 1755520402,
-      "rank": 44,
+      "raw_hot": 164515,
+      "num": 164515,
+      "word": "北京暴雨",
+      "onboard_time": 1755558617,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -155,14 +179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 158582,
-      "num": 135900,
-      "word": "王皓管乐能共苦不能同甘",
-      "onboard_time": 1755532823,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157814,
       "num": 157814,
       "word": "生万物",
@@ -177,14 +193,6 @@
       "onboard_time": 1755509421,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152988,
-      "num": 124238,
-      "word": "婚后13天发现妻子双子宫只有一个肾",
-      "onboard_time": 1755528503,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147022,
@@ -203,20 +211,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139230,
+      "num": 139230,
+      "word": "男孩因与哥哥打架被父亲扔在国道上",
+      "onboard_time": 1755549556,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139091,
+      "num": 139091,
+      "word": "献鱼",
+      "onboard_time": 1755558798,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138870,
       "num": 138870,
       "word": "王星越10万红包",
       "onboard_time": 1755523403,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132782,
-      "num": 132782,
-      "word": "男孩因与哥哥打架被父亲扔在国道上",
-      "onboard_time": 1755549556,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128066,
@@ -251,6 +267,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 114455,
+      "num": 114455,
+      "word": "林永健演技",
+      "onboard_time": 1755557596,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114277,
       "num": 114277,
       "word": "董璇女儿小酒窝去香港参加比赛",
@@ -275,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105689,
+      "num": 105689,
+      "word": "薛小婉称整容不影响备孕",
+      "onboard_time": 1755554774,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 105235,
       "num": 105235,
       "word": "我国刑法尚无拐卖男性罪名",
@@ -291,12 +323,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92838,
-      "num": 92838,
+      "raw_hot": 98631,
+      "num": 98631,
       "word": "孙一宁因喝酒进医院",
       "onboard_time": 1755520101,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 98300,
+      "num": 98300,
+      "word": "辽GM8297司机承认是故意的",
+      "onboard_time": 1755512242,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 91416,
@@ -305,14 +345,6 @@
       "onboard_time": 1755530124,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 89308,
-      "num": 89308,
-      "word": "辽GM8297司机承认是故意的",
-      "onboard_time": 1755512242,
-      "rank": 33,
-      "category": "正能量"
     },
     {
       "raw_hot": 86561,
@@ -347,36 +379,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81543,
-      "num": 81543,
-      "word": "献鱼",
-      "onboard_time": 1755558798,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 80970,
-      "num": 80970,
-      "word": "薛小婉称整容不影响备孕",
-      "onboard_time": 1755554774,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 80183,
       "num": 167034,
       "word": "院方回应女子被误诊绝症服药3月",
       "onboard_time": 1755535338,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79060,
-      "num": 79060,
-      "word": "林永健演技",
-      "onboard_time": 1755557596,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 77678,
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76871,
+      "num": 124394,
+      "word": "重启人生的藏族女孩抱着记者哭了",
+      "onboard_time": 1755534621,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 76691,
       "num": 76691,
       "word": "哈马斯已同意新加沙停火提议",
@@ -411,27 +427,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74614,
-      "num": 124394,
-      "word": "重启人生的藏族女孩抱着记者哭了",
-      "onboard_time": 1755534621,
-      "rank": 20,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 73690,
       "num": 73690,
       "word": "男子被女友骗至缅甸电诈园被打尿血",
       "onboard_time": 1755518123,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71002,
-      "num": 71002,
-      "word": "北京暴雨",
-      "onboard_time": 1755558617,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 65269,
-      "num": 68573,
+      "num": 81257,
       "word": "全世界都在致敬成龙",
       "onboard_time": 1755556395,
       "rank": 48,
@@ -515,20 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34563,
-      "num": 67225,
-      "word": "6种又甜又低糖的水果",
-      "onboard_time": 1755544454,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 30266,
+      "raw_hot": 42199,
       "num": 67212,
       "word": "美国国务卿称俄乌达成和平协议前路漫长",
       "onboard_time": 1755539536,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37123,
+      "num": 67225,
+      "word": "6种又甜又低糖的水果",
+      "onboard_time": 1755544454,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 29569,
@@ -553,6 +553,14 @@
       "onboard_time": 1755543315,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25637,
+      "num": 79359,
+      "word": "特朗普称开始安排普京泽连斯基会晤",
+      "onboard_time": 1755559698,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25563,
@@ -609,6 +617,14 @@
       "onboard_time": 1755547694,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17505,
+      "num": 106775,
+      "word": "特朗普称不再送而是卖武器给乌克兰",
+      "onboard_time": 1755559819,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17475,

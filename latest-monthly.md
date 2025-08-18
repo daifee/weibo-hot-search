@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/19 07:24:35
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/19 07:38:42
 </p>
 </blockquote>
 <p>
@@ -3267,6 +3267,12 @@ TF四代 超载（热度：867979）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E6%B6%89%E4%BA%8B%E9%A5%AD%E5%BA%97%E8%A2%AB%E5%A4%A7%E9%87%8F%E7%BE%A4%E4%BC%97%E5%9B%B4%E8%A7%82%23" target="weibo">
+续面涉事饭店被大量群众围观（热度：839486）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%9B%9B%E4%B8%AA%E5%A8%83%E5%9D%90%E9%AB%98%E9%93%81%E8%A2%AB%E8%A6%81%E6%B1%82%E8%A1%A53%E5%BC%A0%E7%A5%A8%23" target="weibo">
 女子带四个娃坐高铁被要求补3张票（热度：838859）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy独自带小海绵回香港（热度：571996）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%93%E6%B8%9D%E8%AF%9D%E7%AD%92%E9%A2%9C%E8%89%B2%E6%8D%A2%E4%BA%86%23" target="weibo">
 梓渝话筒颜色换了（热度：559756）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E5%89%91%E7%8E%AB%E7%91%B0%E8%AF%84%E8%AE%BA%E5%BC%82%E5%B8%B8%23" target="weibo">
-利剑玫瑰评论异常（热度：559338）
 </a>
 </li>
 
