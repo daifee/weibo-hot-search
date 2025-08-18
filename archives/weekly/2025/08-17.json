@@ -1,7 +1,15 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755483099410,
+  "endTime": 1755484561483,
   "band_list": [
+    {
+      "raw_hot": 4938738,
+      "num": 329973,
+      "word": "金钟国官宣结婚",
+      "onboard_time": 1755482481,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2703584,
       "num": 2703584,
@@ -31,14 +39,6 @@
       "num": 565242,
       "word": "王晶曝张柏芝谢霆锋离婚原因",
       "onboard_time": 1755412282,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1951751,
-      "num": 329973,
-      "word": "金钟国官宣结婚",
-      "onboard_time": 1755482481,
       "rank": 10,
       "category": "艺人"
     },
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1467427,
+      "num": 1467427,
+      "word": "杨幂种地吧",
+      "onboard_time": 1755482361,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1383750,
       "num": 1383750,
       "word": "身份证不要直接发给别人",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1029790,
-      "num": 583475,
+      "num": 712309,
       "word": "乱买衣服 隐形贫穷",
       "onboard_time": 1755478462,
       "rank": 3,
@@ -851,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334811,
-      "num": 334811,
-      "word": "杨幂种地吧",
-      "onboard_time": 1755482361,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334567,
       "num": 334567,
       "word": "梓渝彩排现场图",
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 270388,
-      "num": 205258,
+      "num": 221115,
       "word": "梓渝褪黑素上线",
       "onboard_time": 1755472998,
       "rank": 32,
@@ -1171,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240920,
+      "num": 211284,
+      "word": "谷爱凌新身份",
+      "onboard_time": 1755483381,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239827,
       "num": 239827,
       "word": "生万物 万物生",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1755447263,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226295,
+      "num": 226295,
+      "word": "黑人夫妻逃单老板拦路硬刚",
+      "onboard_time": 1755482300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225472,
@@ -1355,6 +1371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206388,
+      "num": 206388,
+      "word": "九三阅兵倒计时半个月",
+      "onboard_time": 1755484041,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 204565,
       "num": 234026,
       "word": "4岁女儿水泥台踩脚印获父母硬核批注",
@@ -1387,12 +1411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199573,
+      "num": 208495,
+      "word": "A股",
+      "onboard_time": 1755483381,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 199523,
       "num": 186799,
       "word": "孙怡送马天宇一辆三轮车",
       "onboard_time": 1755431002,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199485,
+      "num": 199485,
+      "word": "千帆竞渡开渔大场面超燃",
+      "onboard_time": 1755483381,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199297,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1755412402,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195545,
+      "num": 197031,
+      "word": "蓝溪镇更新",
+      "onboard_time": 1755483501,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 195180,
@@ -1915,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161661,
+      "num": 161661,
+      "word": "养宠物是否需要领养冷静期",
+      "onboard_time": 1755483922,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161112,
       "num": 233400,
       "word": "Swatch在中国市场已卖不动",
@@ -2065,6 +2121,14 @@
       "onboard_time": 1755359183,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154554,
+      "num": 154554,
+      "word": "末伏最后1天",
+      "onboard_time": 1755483202,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154314,
@@ -2283,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145548,
+      "num": 145548,
+      "word": "高铁奶茶",
+      "onboard_time": 1755483801,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145381,
       "num": 145381,
       "word": "JackeyLove回应输给iG",
@@ -2449,6 +2521,14 @@
       "onboard_time": 1755475701,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137286,
+      "num": 137286,
+      "word": "视力仅0.02女生上岸985研究生",
+      "onboard_time": 1755483080,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137119,
@@ -2683,6 +2763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129030,
+      "num": 157903,
+      "word": "种地吧",
+      "onboard_time": 1755484402,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128971,
       "num": 128971,
       "word": "撒贝宁 马丽都出来沈腾呢",
@@ -2697,6 +2785,14 @@
       "onboard_time": 1755393560,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128408,
+      "num": 199531,
+      "word": "赵今麦无可替代高马尾路透",
+      "onboard_time": 1755479961,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 127903,
@@ -2737,6 +2833,14 @@
       "onboard_time": 1755429202,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127288,
+      "num": 127288,
+      "word": "中国男篮兑现站上领奖台诺言",
+      "onboard_time": 1755483440,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 126464,
@@ -2876,7 +2980,7 @@
     },
     {
       "raw_hot": 120034,
-      "num": 120034,
+      "num": 199439,
       "word": "杨幂宁绣绣首条百万点赞视频",
       "onboard_time": 1755481219,
       "rank": 29,
@@ -3028,7 +3132,7 @@
     },
     {
       "raw_hot": 116172,
-      "num": 116172,
+      "num": 146758,
       "word": "YG练习室",
       "onboard_time": 1755478642,
       "rank": 33,
@@ -3153,14 +3257,6 @@
       "onboard_time": 1755443663,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111604,
-      "num": 111604,
-      "word": "赵今麦无可替代高马尾路透",
-      "onboard_time": 1755479961,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 111066,
@@ -3313,6 +3409,14 @@
       "onboard_time": 1755422423,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104618,
+      "num": 104618,
+      "word": "金泰亨开球",
+      "onboard_time": 1755482602,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 103715,
@@ -3755,14 +3859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89550,
-      "num": 89550,
-      "word": "视力仅0.02女生上岸985研究生",
-      "onboard_time": 1755483080,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89460,
       "num": 228424,
       "word": "合作伙伴夸鸿蒙听劝",
@@ -3923,14 +4019,6 @@
       "category": "健康医疗,休闲"
     },
     {
-      "raw_hot": 82198,
-      "num": 212659,
-      "word": "黑人夫妻逃单老板拦路硬刚",
-      "onboard_time": 1755482300,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81496,
       "num": 81496,
       "word": "减肥30斤带来的杀伤力",
@@ -3985,6 +4073,14 @@
       "onboard_time": 1755472577,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79965,
+      "num": 211839,
+      "word": "一家三口被害案今日开庭",
+      "onboard_time": 1755482842,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78805,
@@ -4107,6 +4203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71244,
+      "num": 145804,
+      "word": "19岁男生被女友10万卖到缅甸",
+      "onboard_time": 1755484402,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70946,
       "num": 196367,
       "word": "袁一琦蓝玫瑰花海麦架",
@@ -4121,6 +4225,14 @@
       "onboard_time": 1755479481,
       "rank": 15,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 70678,
+      "num": 327794,
+      "word": "泽连斯基再访白宫",
+      "onboard_time": 1755483080,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70509,
@@ -4251,6 +4363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58695,
+      "num": 145620,
+      "word": "男生在女友读研的学校旁开了家面馆",
+      "onboard_time": 1755484402,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58103,
       "num": 58103,
       "word": "钟美美闯关 可以慢但是不能菜",
@@ -4369,6 +4489,14 @@
       "onboard_time": 1755355165,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45896,
+      "num": 198292,
+      "word": "在法律上精神病不是免责金牌",
+      "onboard_time": 1755484280,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 45046,
@@ -4507,6 +4635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 39797,
+      "num": 275706,
+      "word": "什么比赛能让姚明坚持18年",
+      "onboard_time": 1755482481,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39740,
       "num": 47444,
       "word": "王心凌周深合唱大眠",
@@ -4624,14 +4760,6 @@
       "word": "逃出电诈园男子靠吃蚯蚓活命",
       "onboard_time": 1755402860,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32843,
-      "num": 210908,
-      "word": "一家三口被害案今日开庭",
-      "onboard_time": 1755482842,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -4795,14 +4923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20235,
-      "num": 275706,
-      "word": "什么比赛能让姚明坚持18年",
-      "onboard_time": 1755482481,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19417,
       "num": 31269,
       "word": "2025世界人形机器人运动会",
@@ -4817,14 +4937,6 @@
       "onboard_time": 1755345142,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17786,
-      "num": 108892,
-      "word": "泽连斯基再访白宫",
-      "onboard_time": 1755483080,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17121,
@@ -4883,7 +4995,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 4438,
+      "raw_hot": 6429,
       "num": 1228193,
       "word": "中国队世运会夺金时刻好燃",
       "onboard_time": 1755392360,

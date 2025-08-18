@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1755483099410,
+  "endTime": 1755484561483,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1899,6 +1899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 4938738,
+      "num": 329973,
+      "word": "金钟国官宣结婚",
+      "onboard_time": 1755482481,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4918196,
       "num": 4918196,
       "word": "姚笛 被删",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1742048012,
       "rank": 20,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 4056325,
-      "num": 4056325,
-      "word": "梁靖崑vs雨果",
-      "onboard_time": 1748100024,
-      "rank": 24,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
