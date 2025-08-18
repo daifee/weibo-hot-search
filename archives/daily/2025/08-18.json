@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755509618012,
+  "endTime": 1755510445667,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -51,6 +51,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1720739,
+      "num": 1720739,
+      "word": "女孩被同班男生送回家途中杀害",
+      "onboard_time": 1755507023,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1548515,
       "num": 701174,
       "word": "滕泽文 帮我问问于正",
@@ -89,14 +97,6 @@
       "onboard_time": 1755475280,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1345956,
-      "num": 1345956,
-      "word": "女孩被同班男生送回家途中杀害",
-      "onboard_time": 1755507023,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1344995,
@@ -587,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296025,
+      "num": 193291,
+      "word": "外卖大战 配送慢",
+      "onboard_time": 1755506722,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294554,
       "num": 285295,
       "word": "心动的信号",
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 206647,
-      "num": 179438,
+      "num": 190358,
       "word": "骑手因用手机按电梯被老人推搡",
       "onboard_time": 1755505703,
       "rank": 42,
@@ -897,6 +905,14 @@
       "onboard_time": 1755488783,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 200398,
+      "num": 192701,
+      "word": "真的建议不要喝点外卖送的饮料",
+      "onboard_time": 1755509421,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 200100,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1755494602,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189629,
+      "num": 189629,
+      "word": "JOY回归",
+      "onboard_time": 1755509301,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 189441,
@@ -1115,14 +1139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177863,
-      "num": 143614,
-      "word": "JOY回归",
-      "onboard_time": 1755509301,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 175825,
       "num": 175825,
       "word": "补气血最高效的4种食物",
@@ -1164,7 +1180,7 @@
     },
     {
       "raw_hot": 170564,
-      "num": 143313,
+      "num": 144623,
       "word": "生万物33.1%",
       "onboard_time": 1755508641,
       "rank": 30,
@@ -1219,12 +1235,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167138,
+      "num": 190751,
+      "word": "25岁翼装飞行者撞上山壁身亡",
+      "onboard_time": 1755507381,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165808,
       "num": 165808,
       "word": "这下都知道我推KPL了",
       "onboard_time": 1755489563,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165660,
+      "num": 165660,
+      "word": "央视曝光AI仿冒名人乱象",
+      "onboard_time": 1755510203,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164483,
@@ -1459,14 +1491,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 144970,
-      "num": 144970,
-      "word": "外卖大战 配送慢",
-      "onboard_time": 1755506722,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144627,
       "num": 144627,
       "word": "这届年轻人爱上了奔县旅游",
@@ -1483,12 +1507,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 143576,
-      "num": 143576,
-      "word": "25岁翼装飞行者撞上山壁身亡",
-      "onboard_time": 1755507381,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 144528,
+      "num": 144528,
+      "word": "王影璐你好娇啊",
+      "onboard_time": 1755510143,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 143003,
@@ -1643,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135367,
+      "num": 135367,
+      "word": "莫雷加德请张本智和吃寿司",
+      "onboard_time": 1755509902,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134520,
       "num": 134520,
       "word": "无限暖暖捶打泄密行为",
@@ -1660,7 +1692,7 @@
     },
     {
       "raw_hot": 133434,
-      "num": 133434,
+      "num": 191886,
       "word": "九三阅兵准备工作",
       "onboard_time": 1755505402,
       "rank": 44,
@@ -1681,6 +1713,14 @@
       "onboard_time": 1755505761,
       "rank": 41,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 131888,
+      "num": 118982,
+      "word": "苏醒王栎鑫 自己的兄弟自己骄傲",
+      "onboard_time": 1755510321,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 131616,
@@ -1723,20 +1763,20 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 129528,
-      "num": 129528,
-      "word": "真的建议不要喝点外卖送的饮料",
-      "onboard_time": 1755509421,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129247,
       "num": 131814,
       "word": "中方乐见俄美双方保持接触",
       "onboard_time": 1755504383,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129067,
+      "num": 129067,
+      "word": "医考帮崩了",
+      "onboard_time": 1755509782,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 129030,
@@ -1804,7 +1844,7 @@
     },
     {
       "raw_hot": 123250,
-      "num": 143095,
+      "num": 161560,
       "word": "追星人手机内存到底多少才够",
       "onboard_time": 1755505881,
       "rank": 47,
@@ -2619,6 +2659,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 45696,
+      "num": 117352,
+      "word": "卫生巾再也经不起塌房了",
+      "onboard_time": 1755510382,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 44889,
       "num": 284618,
       "word": "看电影偶遇周深",
@@ -2673,6 +2721,22 @@
       "onboard_time": 1755451998,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39698,
+      "num": 133313,
+      "word": "李昀锐喝豆汁",
+      "onboard_time": 1755509301,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38987,
+      "num": 192040,
+      "word": "贾冰演了个笨",
+      "onboard_time": 1755509601,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 38002,
@@ -2747,12 +2811,20 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 22131,
-      "num": 133313,
-      "word": "李昀锐喝豆汁",
-      "onboard_time": 1755509301,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 22958,
+      "num": 122608,
+      "word": "特朗普为什么对印度翻脸了",
+      "onboard_time": 1755510382,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 22666,
+      "num": 733427,
+      "word": "人民日报详解载人登月过程",
+      "onboard_time": 1755477802,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22047,
@@ -2779,20 +2851,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21091,
-      "num": 733427,
-      "word": "人民日报详解载人登月过程",
-      "onboard_time": 1755477802,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20707,
       "num": 24024,
       "word": "黄牛代排队买麦当劳奶昔叫价88元",
       "onboard_time": 1755456615,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19625,
+      "num": 126331,
+      "word": "战歌一响 李峋登场",
+      "onboard_time": 1755509722,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 19417,

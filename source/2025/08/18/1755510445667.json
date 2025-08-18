@@ -1,0 +1,410 @@
+{
+  "runTime": 1755510445667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1720739,
+        "num": 1720739,
+        "word": "女孩被同班男生送回家途中杀害",
+        "onboard_time": 1755507023,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723495,
+        "num": 723495,
+        "word": "王皓 上岸先斩意中人",
+        "onboard_time": 1755495981,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22666,
+        "num": 506533,
+        "word": "人民日报详解载人登月过程",
+        "onboard_time": 1755477802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1323706,
+        "num": 500408,
+        "word": "滕泽文 帮我问问于正",
+        "onboard_time": 1755504803,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488352,
+        "num": 488352,
+        "word": "日本多地发生中国公民遇袭",
+        "onboard_time": 1755500480,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354110,
+        "num": 354110,
+        "word": "律师称女孩卖男友不构成人口拐卖",
+        "onboard_time": 1755502224,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721058,
+        "num": 345378,
+        "word": "王玉雯 避雷陈星旭这个摄影师",
+        "onboard_time": 1755502102,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619223,
+        "num": 325061,
+        "word": "于正说没有雪藏滕泽文",
+        "onboard_time": 1755506722,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251344,
+        "num": 251344,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1755489743,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194692,
+        "num": 194692,
+        "word": "女子只顾聊天婴儿车掉进鱼塘",
+        "onboard_time": 1755501863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1188231,
+        "num": 194643,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1755506302,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449394,
+        "num": 194217,
+        "word": "王楚然的字",
+        "onboard_time": 1755496103,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390760,
+        "num": 194039,
+        "word": "签售姐Viper 跑路",
+        "onboard_time": 1755500901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382463,
+        "num": 193860,
+        "word": "杨幂北电宿舍四人组",
+        "onboard_time": 1755504322,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334586,
+        "num": 193479,
+        "word": "滕泽文疑似被雪藏",
+        "onboard_time": 1755505342,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296025,
+        "num": 193291,
+        "word": "外卖大战 配送慢",
+        "onboard_time": 1755506722,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241995,
+        "num": 193029,
+        "word": "意大利母亲为护媳杀子分尸",
+        "onboard_time": 1755501142,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200398,
+        "num": 192701,
+        "word": "真的建议不要喝点外卖送的饮料",
+        "onboard_time": 1755509421,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179263,
+        "num": 192516,
+        "word": "央视曝AI克隆声音乱象",
+        "onboard_time": 1755507622,
+        "rank": 18,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 38987,
+        "num": 192040,
+        "word": "贾冰演了个笨",
+        "onboard_time": 1755509601,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100449,
+        "num": 191886,
+        "word": "九三阅兵准备工作",
+        "onboard_time": 1755505402,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278636,
+        "num": 191641,
+        "word": "孙丞潇 我只有金莎一个美女",
+        "onboard_time": 1755502343,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244479,
+        "num": 191200,
+        "word": "赵丽颖问李维嘉再见爱人有你吗",
+        "onboard_time": 1755502463,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223112,
+        "num": 191169,
+        "word": "田曦薇赖伟明晒同款炒饭",
+        "onboard_time": 1755502463,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167138,
+        "num": 190751,
+        "word": "25岁翼装飞行者撞上山壁身亡",
+        "onboard_time": 1755507381,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212802,
+        "num": 190624,
+        "word": "这跟亲了有什么区别",
+        "onboard_time": 1755496522,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190358,
+        "num": 190358,
+        "word": "骑手因用手机按电梯被老人推搡",
+        "onboard_time": 1755505703,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189629,
+        "num": 189629,
+        "word": "JOY回归",
+        "onboard_time": 1755509301,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183987,
+        "num": 183987,
+        "word": "金钟国官宣结婚",
+        "onboard_time": 1755482481,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165660,
+        "num": 165660,
+        "word": "央视曝光AI仿冒名人乱象",
+        "onboard_time": 1755510203,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74527,
+        "num": 161560,
+        "word": "追星人手机内存到底多少才够",
+        "onboard_time": 1755508521,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157769,
+        "num": 157769,
+        "word": "王者高级河灯",
+        "onboard_time": 1755509483,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144623,
+        "num": 144623,
+        "word": "生万物33.1%",
+        "onboard_time": 1755508641,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144528,
+        "num": 144528,
+        "word": "王影璐你好娇啊",
+        "onboard_time": 1755510143,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137255,
+        "num": 137255,
+        "word": "iPhone17e配置曝光",
+        "onboard_time": 1755508943,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135565,
+        "num": 135565,
+        "word": "张予曦不会删前任好友",
+        "onboard_time": 1755506061,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135367,
+        "num": 135367,
+        "word": "莫雷加德请张本智和吃寿司",
+        "onboard_time": 1755509902,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129067,
+        "num": 129067,
+        "word": "医考帮崩了",
+        "onboard_time": 1755509782,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39698,
+        "num": 127128,
+        "word": "李昀锐喝豆汁",
+        "onboard_time": 1755509301,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19625,
+        "num": 126331,
+        "word": "战歌一响 李峋登场",
+        "onboard_time": 1755509722,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22958,
+        "num": 122608,
+        "word": "特朗普为什么对印度翻脸了",
+        "onboard_time": 1755510382,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134660,
+        "num": 122059,
+        "word": "子夜归直播",
+        "onboard_time": 1755508883,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131888,
+        "num": 118982,
+        "word": "苏醒王栎鑫 自己的兄弟自己骄傲",
+        "onboard_time": 1755510321,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45696,
+        "num": 117352,
+        "word": "卫生巾再也经不起塌房了",
+        "onboard_time": 1755510382,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 129229,
+        "num": 115493,
+        "word": "刘耀文严浩翔like i do",
+        "onboard_time": 1755507863,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113635,
+        "num": 113635,
+        "word": "21岁小伙靠扛楼10个月挣15万",
+        "onboard_time": 1755509002,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111921,
+        "num": 111921,
+        "word": "30岁俄罗斯环球小姐车祸身亡",
+        "onboard_time": 1755508822,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108102,
+        "num": 108102,
+        "word": "无畏吹吹海风",
+        "onboard_time": 1755509421,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99594,
+        "num": 99594,
+        "word": "成人机票520元儿童却要1150元",
+        "onboard_time": 1755491424,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 98228,
+        "num": 98228,
+        "word": "李想回应理想乘龙对撞测试",
+        "onboard_time": 1755507921,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#论坚持全面深化改革#"
+    }
+  }
+}

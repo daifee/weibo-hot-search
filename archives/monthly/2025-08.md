@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/18 17:33:38
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/18 17:47:25
 </p>
 </blockquote>
 <p>
@@ -825,6 +825,12 @@ iPhone17Pro最新外观曝光（热度：1811709）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%90%8C%E7%8F%AD%E7%94%B7%E7%94%9F%E9%80%81%E5%9B%9E%E5%AE%B6%E9%80%94%E4%B8%AD%E6%9D%80%E5%AE%B3%23" target="weibo">
+女孩被同班男生送回家途中杀害（热度：1720739）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%85%E6%9D%A5%E5%A5%B3%E5%BC%80%E5%8F%A3%E9%9B%B7%E8%92%82%E5%A8%85%23" target="weibo">
 者来女开口雷蒂娅（热度：1715921）
 </a>
@@ -1403,12 +1409,6 @@ IU宝剑结婚 钟硕那边我去说（热度：1400793）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%99%92%E7%99%BD%E5%8F%91%E4%B8%A5%E6%B5%A9%E7%BF%94%23" target="weibo">
 贺峻霖晒白发严浩翔（热度：1352036）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A2%AB%E5%90%8C%E7%8F%AD%E7%94%B7%E7%94%9F%E9%80%81%E5%9B%9E%E5%AE%B6%E9%80%94%E4%B8%AD%E6%9D%80%E5%AE%B3%23" target="weibo">
-女孩被同班男生送回家途中杀害（热度：1345956）
 </a>
 </li>
 
