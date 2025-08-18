@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755489923726,
+  "endTime": 1755490468974,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1455641,
+      "num": 1455641,
+      "word": "女子卖掉男友后安排10天旅游",
+      "onboard_time": 1755487764,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1383750,
       "num": 1383750,
       "word": "身份证不要直接发给别人",
@@ -59,8 +67,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1292098,
-      "num": 435808,
+      "raw_hot": 1344995,
+      "num": 439346,
       "word": "刘涛 不是要下海吗",
       "onboard_time": 1755487883,
       "rank": 10,
@@ -91,12 +99,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1009987,
-      "num": 1009987,
-      "word": "女子卖掉男友后安排10天旅游",
-      "onboard_time": 1755487764,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 968156,
+      "num": 968156,
+      "word": "演员张翰被冻结165万股权",
+      "onboard_time": 1755487283,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 914023,
@@ -147,19 +155,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 648174,
-      "num": 648174,
-      "word": "演员张翰被冻结165万股权",
-      "onboard_time": 1755487283,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 593639,
       "num": 423886,
       "word": "RM成员不知道金钟国结婚",
       "onboard_time": 1755485183,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 551295,
+      "num": 551295,
+      "word": "大冰问谁是单依纯",
+      "onboard_time": 1755488303,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -179,20 +187,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471364,
+      "num": 471364,
+      "word": "文科硕士的最后一条路也快没了",
+      "onboard_time": 1755488183,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449137,
       "num": 317587,
       "word": "孙怡 结婚得到的要比我赚钱幸福得多",
       "onboard_time": 1755429743,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 448333,
-      "num": 448333,
-      "word": "大冰问谁是单依纯",
-      "onboard_time": 1755488303,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 433651,
@@ -243,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 359929,
-      "num": 359929,
-      "word": "文科硕士的最后一条路也快没了",
-      "onboard_time": 1755488183,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 344339,
       "num": 344339,
       "word": "坐高铁遇400斤邻座12306不该甩锅",
@@ -259,8 +259,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340902,
+      "num": 340902,
+      "word": "买房千万不要买挨着公园的",
+      "onboard_time": 1755489743,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 334250,
-      "num": 334250,
+      "num": 341054,
       "word": "九三阅兵倒计时半个月",
       "onboard_time": 1755484041,
       "rank": 23,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323144,
+      "num": 323144,
+      "word": "A股",
+      "onboard_time": 1755483381,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 321174,
       "num": 321174,
       "word": "不敢想九三阅兵会有多震撼",
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 318158,
-      "num": 318158,
+      "num": 362198,
       "word": "孙丞潇189视角拍的金莎",
       "onboard_time": 1755486983,
       "rank": 17,
@@ -297,14 +313,6 @@
       "onboard_time": 1755475040,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 312683,
-      "num": 312683,
-      "word": "A股",
-      "onboard_time": 1755483381,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 304163,
@@ -371,6 +379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239795,
+      "num": 239795,
+      "word": "为什么长期不吃晚饭也瘦不下来",
+      "onboard_time": 1755485783,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234143,
+      "num": 234143,
+      "word": "44万学费的大学录取通知书",
+      "onboard_time": 1755488663,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 233394,
       "num": 201133,
       "word": "花少7首播收视率",
@@ -411,14 +435,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 217048,
-      "num": 217048,
-      "word": "为什么长期不吃晚饭也瘦不下来",
-      "onboard_time": 1755485783,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 209882,
       "num": 209882,
       "word": "欧盟欢迎乌克兰加入",
@@ -427,20 +443,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209822,
-      "num": 209822,
-      "word": "买房千万不要买挨着公园的",
-      "onboard_time": 1755489743,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 208660,
-      "num": 208660,
-      "word": "44万学费的大学录取通知书",
-      "onboard_time": 1755488663,
-      "rank": 31,
-      "category": "教育"
+      "raw_hot": 208626,
+      "num": 217080,
+      "word": "与晋长安没播刘宇宁先安排售后",
+      "onboard_time": 1755489262,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 200449,
@@ -483,6 +491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 195437,
+      "num": 195437,
+      "word": "王者荣耀河灯",
+      "onboard_time": 1755486623,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194689,
       "num": 194689,
       "word": "A股市值突破100万亿元大关",
@@ -491,12 +507,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 191613,
-      "num": 217080,
-      "word": "与晋长安没播刘宇宁先安排售后",
-      "onboard_time": 1755489262,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 189419,
+      "num": 196664,
+      "word": "穆祉丞当着姚明面说喜欢足球",
+      "onboard_time": 1755489863,
+      "rank": 48,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 188828,
@@ -507,12 +523,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 184787,
-      "num": 184787,
-      "word": "王者荣耀河灯",
-      "onboard_time": 1755486623,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 188669,
+      "num": 188669,
+      "word": "罗小黑战记",
+      "onboard_time": 1755490045,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 183980,
+      "num": 183980,
+      "word": "柯南七夕告别场是99不88",
+      "onboard_time": 1755490163,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 180882,
@@ -521,6 +545,14 @@
       "onboard_time": 1755489083,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173838,
+      "num": 173838,
+      "word": "一觉睡醒成龙电影倒退20年",
+      "onboard_time": 1755490224,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 170145,
@@ -537,6 +569,14 @@
       "onboard_time": 1755440724,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167256,
+      "num": 167256,
+      "word": "罗小黑",
+      "onboard_time": 1755486983,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 165808,
@@ -579,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160509,
+      "num": 160509,
+      "word": "中国男篮这块银牌含金量足够高",
+      "onboard_time": 1755490103,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160183,
       "num": 160183,
       "word": "一分惜败",
@@ -587,12 +635,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159197,
+      "num": 159197,
+      "word": "MTJJ 相信老君放过木头",
+      "onboard_time": 1755487821,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 158217,
       "num": 158217,
       "word": "末伏最后1天",
       "onboard_time": 1755483202,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156138,
+      "num": 156138,
+      "word": "中国男篮亚洲杯五佳球",
+      "onboard_time": 1755490103,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 150112,
@@ -619,12 +683,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 148082,
-      "num": 148082,
-      "word": "穆祉丞当着姚明面说喜欢足球",
-      "onboard_time": 1755489863,
-      "rank": 48,
-      "category": "艺人,体育"
+      "raw_hot": 144627,
+      "num": 144627,
+      "word": "这届年轻人爱上了奔县旅游",
+      "onboard_time": 1755487342,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 141774,
@@ -691,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133756,
+      "num": 180371,
+      "word": "等我瘦下来我也胡说八道",
+      "onboard_time": 1755489503,
+      "rank": 39,
+      "category": "运动健身,休闲"
+    },
+    {
       "raw_hot": 130830,
       "num": 130830,
       "word": "玛莎 谢谢北京",
@@ -729,14 +801,6 @@
       "onboard_time": 1755426442,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120715,
-      "num": 180371,
-      "word": "等我瘦下来我也胡说八道",
-      "onboard_time": 1755489503,
-      "rank": 39,
-      "category": "运动健身,休闲"
     },
     {
       "raw_hot": 120034,
@@ -844,7 +908,7 @@
     },
     {
       "raw_hot": 105745,
-      "num": 218114,
+      "num": 238204,
       "word": "男生被女友10万卖到缅甸姐姐发声",
       "onboard_time": 1755485662,
       "rank": 23,
@@ -1068,7 +1132,7 @@
     },
     {
       "raw_hot": 78351,
-      "num": 326008,
+      "num": 341129,
       "word": "奥迪E5预售",
       "onboard_time": 1755486202,
       "rank": 16,
@@ -1163,6 +1227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69241,
+      "num": 340990,
+      "word": "李宇春下颌线鲨我",
+      "onboard_time": 1755489983,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68687,
       "num": 68687,
       "word": "王俊杰哭了",
@@ -1177,6 +1249,14 @@
       "onboard_time": 1755473118,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 65915,
+      "num": 168526,
+      "word": "女子称遭骑手恐吓不敢回家",
+      "onboard_time": 1755489983,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65379,
@@ -1212,7 +1292,7 @@
     },
     {
       "raw_hot": 60565,
-      "num": 315160,
+      "num": 340971,
       "word": "王老吉时尚芭莎大片首发",
       "onboard_time": 1755487582,
       "rank": 18,
@@ -1340,7 +1420,7 @@
     },
     {
       "raw_hot": 25089,
-      "num": 1026656,
+      "num": 1130189,
       "word": "绝美焰火点亮成都夜空",
       "onboard_time": 1755476842,
       "rank": 2,
