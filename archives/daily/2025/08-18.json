@@ -1,6 +1,6 @@
 {
   "startTime": 1755448290165,
-  "endTime": 1755493055621,
+  "endTime": 1755495065130,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 634516,
+      "num": 634516,
+      "word": "成人机票520元儿童却要1150元",
+      "onboard_time": 1755491424,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 593639,
       "num": 423886,
       "word": "RM成员不知道金钟国结婚",
@@ -185,6 +193,38 @@
       "onboard_time": 1755488303,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 569846,
+      "num": 241500,
+      "word": "金钟国 尹恩惠",
+      "onboard_time": 1755494842,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 558097,
+      "num": 248936,
+      "word": "迪迪不畏直播向黄子韬道歉哭了",
+      "onboard_time": 1755491184,
+      "rank": 15,
+      "category": "艺人,网红"
+    },
+    {
+      "raw_hot": 530534,
+      "num": 248863,
+      "word": "妈妈给2岁儿子筹备生日当晚母子被杀",
+      "onboard_time": 1755491665,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523501,
+      "num": 523501,
+      "word": "胖东来招聘900人仅限河南地区人员",
+      "onboard_time": 1755490583,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 517501,
@@ -227,28 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 423543,
-      "num": 423543,
-      "word": "胖东来招聘900人仅限河南地区人员",
-      "onboard_time": 1755490583,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 413249,
       "num": 379172,
       "word": "戚薇大方承认医美过度",
       "onboard_time": 1755434663,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 397303,
-      "num": 248863,
-      "word": "妈妈给2岁儿子筹备生日当晚母子被杀",
-      "onboard_time": 1755491665,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 390496,
@@ -355,12 +379,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 295968,
-      "num": 248936,
-      "word": "迪迪不畏直播向黄子韬道歉哭了",
-      "onboard_time": 1755491184,
-      "rank": 15,
-      "category": "艺人,网红"
+      "raw_hot": 294554,
+      "num": 236548,
+      "word": "心动的信号",
+      "onboard_time": 1755492206,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 287890,
@@ -385,6 +409,14 @@
       "onboard_time": 1755472998,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261374,
+      "num": 235718,
+      "word": "藏民12小时抬驴友下山收费6万",
+      "onboard_time": 1755492984,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257643,
@@ -417,6 +449,14 @@
       "onboard_time": 1755491303,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242286,
+      "num": 242286,
+      "word": "恋与深空",
+      "onboard_time": 1755494482,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 241453,
@@ -499,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230467,
-      "num": 236281,
-      "word": "成人机票520元儿童却要1150元",
-      "onboard_time": 1755491424,
-      "rank": 27,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 226559,
       "num": 189601,
       "word": "梓渝事业粉狂喜",
@@ -523,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225360,
+      "num": 225360,
+      "word": "那英陈数录完花少还回家吗",
+      "onboard_time": 1755494062,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222639,
       "num": 163660,
       "word": "果然婆婆基础公公就不基础",
@@ -537,14 +577,6 @@
       "onboard_time": 1755487821,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 213344,
-      "num": 213344,
-      "word": "心动的信号",
-      "onboard_time": 1755492206,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 209882,
@@ -595,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199038,
+      "num": 199038,
+      "word": "四代投票",
+      "onboard_time": 1755494062,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198745,
       "num": 198745,
       "word": "鹿晗陈赫唱了慢慢",
@@ -625,6 +665,38 @@
       "onboard_time": 1755488303,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193354,
+      "num": 248912,
+      "word": "央视揭秘机票差价背后的猫腻",
+      "onboard_time": 1755491485,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191529,
+      "num": 191529,
+      "word": "一定要及时删除微信的登录设备",
+      "onboard_time": 1755492143,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 189696,
+      "num": 189696,
+      "word": "世界上怎么会有179的男人",
+      "onboard_time": 1755492804,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189441,
+      "num": 189441,
+      "word": "邓紫棋临时加歌要求四万人帮她保密",
+      "onboard_time": 1755493224,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 189419,
@@ -659,20 +731,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 182409,
-      "num": 182409,
-      "word": "世界上怎么会有179的男人",
-      "onboard_time": 1755492804,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180882,
       "num": 180882,
       "word": "沪指突破3731.69点",
       "onboard_time": 1755489083,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180006,
+      "num": 180006,
+      "word": "微信录音 听到心跳",
+      "onboard_time": 1755491364,
+      "rank": 32,
+      "category": "休闲"
     },
     {
       "raw_hot": 175825,
@@ -689,14 +761,6 @@
       "onboard_time": 1755492265,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170364,
-      "num": 170364,
-      "word": "藏民12小时抬驴友下山收费6万",
-      "onboard_time": 1755492984,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170145,
@@ -737,6 +801,14 @@
       "onboard_time": 1755489563,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165018,
+      "num": 200453,
+      "word": "国新办发布会介绍阅兵准备工作",
+      "onboard_time": 1755494782,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163257,
@@ -787,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160151,
+      "num": 160151,
+      "word": "任敏此沙正缘感",
+      "onboard_time": 1755494003,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159197,
       "num": 159197,
       "word": "MTJJ 相信老君放过木头",
@@ -817,6 +897,14 @@
       "onboard_time": 1755490103,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154731,
+      "num": 154731,
+      "word": "时代少年团二开",
+      "onboard_time": 1755493283,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 153244,
@@ -851,12 +939,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148202,
+      "num": 248878,
+      "word": "中国男篮让人看到重振的光",
+      "onboard_time": 1755492744,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144627,
       "num": 144627,
       "word": "这届年轻人爱上了奔县旅游",
       "onboard_time": 1755487342,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142364,
+      "num": 142364,
+      "word": "北大数学系女博主带团进山找菌王",
+      "onboard_time": 1755494663,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141774,
@@ -889,6 +993,14 @@
       "onboard_time": 1755441086,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 138658,
+      "num": 138658,
+      "word": "我们家子涵上恋综了",
+      "onboard_time": 1755494602,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 138457,
@@ -939,12 +1051,28 @@
       "category": "运动健身,休闲"
     },
     {
+      "raw_hot": 131616,
+      "num": 131616,
+      "word": "这才是点外卖最爽的时刻",
+      "onboard_time": 1755493762,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130830,
       "num": 130830,
       "word": "玛莎 谢谢北京",
       "onboard_time": 1755443723,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130340,
+      "num": 130340,
+      "word": "陈哲远真帅得冒烟了",
+      "onboard_time": 1755495022,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129030,
@@ -1251,22 +1379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83776,
-      "num": 248878,
-      "word": "中国男篮让人看到重振的光",
-      "onboard_time": 1755492744,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 83284,
-      "num": 248912,
-      "word": "央视揭秘机票差价背后的猫腻",
-      "onboard_time": 1755491485,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80987,
       "num": 80987,
       "word": "一诺创下的常规赛MVP次数的记录",
@@ -1523,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58683,
+      "num": 154934,
+      "word": "爸爸带两娃从深圳徒步回长沙",
+      "onboard_time": 1755494062,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58103,
       "num": 58103,
       "word": "钟美美闯关 可以慢但是不能菜",
@@ -1539,6 +1659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48643,
+      "num": 235471,
+      "word": "TOP登陆少年溢出满屏青春感",
+      "onboard_time": 1755493463,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47704,
       "num": 129077,
       "word": "特朗普说在俄罗斯问题上取得重大进展",
@@ -1553,6 +1681,22 @@
       "onboard_time": 1755484280,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 45417,
+      "num": 155491,
+      "word": "祖孙3人被杀案家属发声希望判死刑",
+      "onboard_time": 1755494965,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44889,
+      "num": 235113,
+      "word": "看电影偶遇周深",
+      "onboard_time": 1755493882,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 41815,
@@ -1603,20 +1747,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32411,
+      "num": 1335901,
+      "word": "绝美焰火点亮成都夜空",
+      "onboard_time": 1755476842,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25997,
       "num": 29043,
       "word": "孟子义唱歌人在前面唱调在后面追",
       "onboard_time": 1755456376,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25089,
-      "num": 1335901,
-      "word": "绝美焰火点亮成都夜空",
-      "onboard_time": 1755476842,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 22047,
@@ -1649,6 +1793,14 @@
       "onboard_time": 1755467294,
       "rank": 49,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 14569,
+      "num": 180431,
+      "word": "一家三口被害案凶手被判死刑",
+      "onboard_time": 1755494902,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13546,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1755495065130,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1841117,
+        "num": 1841117,
+        "word": "金钟国官宣结婚",
+        "onboard_time": 1755482481,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1349056,
+        "num": 1349056,
+        "word": "女子卖掉男友后安排10天旅游",
+        "onboard_time": 1755487764,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32411,
+        "num": 1198361,
+        "word": "绝美焰火点亮成都夜空",
+        "onboard_time": 1755476842,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1132026,
+        "num": 1132026,
+        "word": "买房千万不要买挨着公园的",
+        "onboard_time": 1755489743,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 806148,
+        "num": 806148,
+        "word": "演员张翰被冻结165万股权",
+        "onboard_time": 1755487283,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634516,
+        "num": 634516,
+        "word": "成人机票520元儿童却要1150元",
+        "onboard_time": 1755491424,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 523501,
+        "num": 523501,
+        "word": "胖东来招聘900人仅限河南地区人员",
+        "onboard_time": 1755490583,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511035,
+        "num": 511035,
+        "word": "杨幂种地吧",
+        "onboard_time": 1755482361,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380808,
+        "num": 380808,
+        "word": "大冰问谁是单依纯",
+        "onboard_time": 1755488303,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242286,
+        "num": 242286,
+        "word": "恋与深空",
+        "onboard_time": 1755494482,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 569846,
+        "num": 241500,
+        "word": "金钟国 尹恩惠",
+        "onboard_time": 1755494842,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558097,
+        "num": 239648,
+        "word": "迪迪不畏直播向黄子韬道歉哭了",
+        "onboard_time": 1755491184,
+        "rank": 11,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 518119,
+        "num": 238221,
+        "word": "刘涛 不是要下海吗",
+        "onboard_time": 1755487883,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294554,
+        "num": 236548,
+        "word": "心动的信号",
+        "onboard_time": 1755492206,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236381,
+        "num": 236381,
+        "word": "身份证不要直接发给别人",
+        "onboard_time": 1755475280,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277169,
+        "num": 236181,
+        "word": "梓渝王子礼",
+        "onboard_time": 1755490583,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193354,
+        "num": 235972,
+        "word": "央视揭秘机票差价背后的猫腻",
+        "onboard_time": 1755491485,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261374,
+        "num": 235718,
+        "word": "藏民12小时抬驴友下山收费6万",
+        "onboard_time": 1755492984,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48643,
+        "num": 235471,
+        "word": "TOP登陆少年溢出满屏青春感",
+        "onboard_time": 1755493463,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44889,
+        "num": 235113,
+        "word": "看电影偶遇周深",
+        "onboard_time": 1755493882,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234914,
+        "num": 234914,
+        "word": "乱买衣服 隐形贫穷",
+        "onboard_time": 1755478462,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 530534,
+        "num": 234702,
+        "word": "妈妈给2岁儿子筹备生日当晚母子被杀",
+        "onboard_time": 1755491665,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225360,
+        "num": 225360,
+        "word": "那英陈数录完花少还回家吗",
+        "onboard_time": 1755494062,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202648,
+        "num": 202648,
+        "word": "褪黑素",
+        "onboard_time": 1755443484,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165018,
+        "num": 200453,
+        "word": "国新办发布会介绍阅兵准备工作",
+        "onboard_time": 1755494782,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86527,
+        "num": 199195,
+        "word": "抗癌医生黄丹丹去世",
+        "onboard_time": 1755480562,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199038,
+        "num": 199038,
+        "word": "四代投票",
+        "onboard_time": 1755494062,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191529,
+        "num": 191529,
+        "word": "一定要及时删除微信的登录设备",
+        "onboard_time": 1755492143,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189696,
+        "num": 189696,
+        "word": "世界上怎么会有179的男人",
+        "onboard_time": 1755492804,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161226,
+        "num": 189464,
+        "word": "44万学费的大学录取通知书",
+        "onboard_time": 1755488663,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189441,
+        "num": 189441,
+        "word": "邓紫棋临时加歌要求四万人帮她保密",
+        "onboard_time": 1755493224,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14569,
+        "num": 180431,
+        "word": "一家三口被害案凶手被判死刑",
+        "onboard_time": 1755494902,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180006,
+        "num": 180006,
+        "word": "微信录音 听到心跳",
+        "onboard_time": 1755491364,
+        "rank": 32,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 413536,
+        "num": 176823,
+        "word": "文科硕士的最后一条路也快没了",
+        "onboard_time": 1755488183,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162440,
+        "num": 162440,
+        "word": "子夜归",
+        "onboard_time": 1755492624,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160447,
+        "num": 160447,
+        "word": "腾讯发了梓渝网易云新歌",
+        "onboard_time": 1755492143,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160151,
+        "num": 160151,
+        "word": "任敏此沙正缘感",
+        "onboard_time": 1755494003,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156969,
+        "num": 156969,
+        "word": "鹿晗回头我不信你两眼空空",
+        "onboard_time": 1755491665,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45417,
+        "num": 155491,
+        "word": "祖孙3人被杀案家属发声希望判死刑",
+        "onboard_time": 1755494965,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58683,
+        "num": 154934,
+        "word": "爸爸带两娃从深圳徒步回长沙",
+        "onboard_time": 1755494062,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154731,
+        "num": 154731,
+        "word": "时代少年团二开",
+        "onboard_time": 1755493283,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149540,
+        "num": 149540,
+        "word": "九三阅兵倒计时半个月",
+        "onboard_time": 1755484041,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148202,
+        "num": 148202,
+        "word": "中国男篮让人看到重振的光",
+        "onboard_time": 1755492744,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142364,
+        "num": 142364,
+        "word": "北大数学系女博主带团进山找菌王",
+        "onboard_time": 1755494663,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140483,
+        "num": 140483,
+        "word": "王者荣耀河灯",
+        "onboard_time": 1755486623,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138658,
+        "num": 138658,
+        "word": "我们家子涵上恋综了",
+        "onboard_time": 1755494602,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136780,
+        "num": 136780,
+        "word": "网红吐槽火车工作人员站台抽烟",
+        "onboard_time": 1755491303,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131616,
+        "num": 131616,
+        "word": "这才是点外卖最爽的时刻",
+        "onboard_time": 1755493762,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131575,
+        "num": 131575,
+        "word": "红裙子不一定是好嫁可能是逃婚",
+        "onboard_time": 1755490463,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130340,
+        "num": 130340,
+        "word": "陈哲远真帅得冒烟了",
+        "onboard_time": 1755495022,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与雪域高原上的桃花源#"
+    }
+  }
+}
