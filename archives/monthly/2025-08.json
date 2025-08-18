@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755522727587,
+  "endTime": 1755524512762,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2299,12 +2299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1240620,
+      "num": 1240620,
+      "word": "田曦薇否认与赖伟明恋情",
+      "onboard_time": 1755517343,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1240176,
       "num": 1240176,
       "word": "魔尊重楼扮演者去演短剧了",
       "onboard_time": 1755262402,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1239838,
+      "num": 1239838,
+      "word": "网友涌入七匹狼直播间刷续面事件",
+      "onboard_time": 1755520883,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1238686,
@@ -2427,14 +2443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1200534,
-      "num": 1200534,
-      "word": "田曦薇否认与赖伟明恋情",
-      "onboard_time": 1755517343,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1199681,
       "num": 700044,
       "word": "乃万发长文倾诉委屈",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1754899760,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1175573,
+      "num": 1175573,
+      "word": "辛巴退出直播行业",
+      "onboard_time": 1755522923,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1174369,
@@ -5923,14 +5939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 681534,
-      "num": 681534,
-      "word": "网友涌入七匹狼直播间刷续面事件",
-      "onboard_time": 1755520883,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 680527,
       "num": 304142,
       "word": "美国驻华大使馆",
@@ -6100,7 +6108,7 @@
     },
     {
       "raw_hot": 670143,
-      "num": 225133,
+      "num": 242403,
       "word": "孙一宁因喝酒进医院",
       "onboard_time": 1755520101,
       "rank": 21,
@@ -8203,6 +8211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541390,
+      "num": 360578,
+      "word": "万妮达与男友合照",
+      "onboard_time": 1755523643,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541096,
       "num": 423446,
       "word": "朋友圈如果显示机型型号",
@@ -8715,6 +8731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 514459,
+      "num": 491196,
+      "word": "子夜归 李沛恩",
+      "onboard_time": 1755517761,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 514079,
       "num": 514079,
       "word": "武大性骚扰案校方仍未撤处分",
@@ -8817,14 +8841,6 @@
       "onboard_time": 1755415162,
       "rank": 31,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 505970,
-      "num": 491196,
-      "word": "子夜归 李沛恩",
-      "onboard_time": 1755517761,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 505719,
@@ -9033,6 +9049,14 @@
       "onboard_time": 1754990663,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 493744,
+      "num": 296854,
+      "word": "王星越10万红包",
+      "onboard_time": 1755523403,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 493427,
@@ -9929,6 +9953,14 @@
       "onboard_time": 1755393741,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 454852,
+      "num": 341733,
+      "word": "三岁的猫坐了两年牢",
+      "onboard_time": 1755520041,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 454624,
@@ -11803,14 +11835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 381696,
-      "num": 341733,
-      "word": "三岁的猫坐了两年牢",
-      "onboard_time": 1755520041,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 381661,
       "num": 381661,
       "word": "樊振东新身份加入美国职业乒乓联赛",
@@ -13305,6 +13329,14 @@
       "onboard_time": 1754611339,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330989,
+      "num": 371066,
+      "word": "中国人自己的老花有多美",
+      "onboard_time": 1755520283,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330838,
@@ -22636,7 +22668,7 @@
     },
     {
       "raw_hot": 195363,
-      "num": 195363,
+      "num": 227947,
       "word": "男子与儿认亲2年后又一儿子找来",
       "onboard_time": 1755520402,
       "rank": 30,
@@ -32867,6 +32899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148986,
+      "num": 148986,
+      "word": "生万物全村出击开始团战",
+      "onboard_time": 1755524063,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148958,
       "num": 148958,
       "word": "中国游客留学生在澳无端遭殴打",
@@ -33385,6 +33425,14 @@
       "onboard_time": 1754119583,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147372,
+      "num": 147372,
+      "word": "封大脚的爱是扛事不吭声",
+      "onboard_time": 1755523523,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 147338,
@@ -41507,6 +41555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 124053,
+      "num": 124053,
+      "word": "周深杭州抢票",
+      "onboard_time": 1755523583,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124048,
       "num": 157280,
       "word": "北方 白纹伊蚊",
@@ -41697,6 +41753,14 @@
       "onboard_time": 1754484264,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123538,
+      "num": 300922,
+      "word": "穿鞋超标脱鞋达标园方问难道脱鞋玩",
+      "onboard_time": 1755523282,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123537,
@@ -44003,6 +44067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117644,
+      "num": 109642,
+      "word": "特斯拉预热ModelYL",
+      "onboard_time": 1755522685,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117641,
       "num": 117641,
       "word": "东极岛 改编",
@@ -44681,14 +44753,6 @@
       "onboard_time": 1754842582,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115557,
-      "num": 371066,
-      "word": "中国人自己的老花有多美",
-      "onboard_time": 1755520283,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115523,
@@ -46419,6 +46483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110993,
+      "num": 110993,
+      "word": "李庚希 颜值T",
+      "onboard_time": 1755524183,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110992,
       "num": 110992,
       "word": "马斯克称日本今年将减少100万人",
@@ -46899,6 +46971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109766,
+      "num": 109766,
+      "word": "吴艳妮回应被刘畊宏邀请跳操",
+      "onboard_time": 1755524364,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109756,
       "num": 109756,
       "word": "BLACKPINK入围VMA奖项提名",
@@ -47113,6 +47193,14 @@
       "onboard_time": 1754836705,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 109074,
+      "num": 109074,
+      "word": "孙颖莎连扳3局晋级",
+      "onboard_time": 1755523882,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 108961,
@@ -48003,14 +48091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106042,
-      "num": 106042,
-      "word": "特斯拉预热ModelYL",
-      "onboard_time": 1755522685,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 106034,
       "num": 106034,
       "word": "两个女人嘴在挑衅眼在欣赏",
@@ -48857,6 +48937,14 @@
       "onboard_time": 1754993662,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102950,
+      "num": 102950,
+      "word": "好贵的鱼",
+      "onboard_time": 1755521363,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 102926,
@@ -50729,14 +50817,6 @@
       "onboard_time": 1754672299,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96307,
-      "num": 96307,
-      "word": "好贵的鱼",
-      "onboard_time": 1755521363,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 96246,
@@ -54836,7 +54916,7 @@
     },
     {
       "raw_hot": 69334,
-      "num": 270511,
+      "num": 1186857,
       "word": "想看阅兵的心到达了顶峰",
       "onboard_time": 1755499462,
       "rank": 19,
@@ -56187,6 +56267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58335,
+      "num": 246920,
+      "word": "人社局回应胖东来保安保洁招聘争议",
+      "onboard_time": 1755523882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58311,
       "num": 102474,
       "word": "多地宣布针对带娃难发钱",
@@ -57193,6 +57281,14 @@
       "onboard_time": 1755273022,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50875,
+      "num": 169477,
+      "word": "男子面馆用餐拔头发放碗里要3瓶水",
+      "onboard_time": 1755523942,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50819,
