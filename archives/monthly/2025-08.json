@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755525254809,
+  "endTime": 1755527340042,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -827,6 +827,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 1912633,
+      "num": 1912633,
+      "word": "妈妈意外去世孩子疑和遗体呆了几天",
+      "onboard_time": 1755525385,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1907857,
       "num": 1907857,
       "word": "王皓 上岸先斩意中人",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1755096145,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1468823,
+      "num": 1468823,
+      "word": "iG战胜BLG",
+      "onboard_time": 1755526463,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 1467427,
@@ -3107,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1042733,
+      "num": 1042733,
+      "word": "万妮达与男友合照",
+      "onboard_time": 1755523643,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1042413,
       "num": 325301,
       "word": "被捅女生朋友发声",
@@ -3452,7 +3476,7 @@
     },
     {
       "raw_hot": 976635,
-      "num": 321340,
+      "num": 355592,
       "word": "王星越10万红包",
       "onboard_time": 1755523403,
       "rank": 14,
@@ -3593,14 +3617,6 @@
       "onboard_time": 1755314301,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 963340,
-      "num": 360578,
-      "word": "万妮达与男友合照",
-      "onboard_time": 1755523643,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 963163,
@@ -15395,6 +15411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275796,
+      "num": 275796,
+      "word": "BLG对战iG",
+      "onboard_time": 1755519680,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 275658,
       "num": 246329,
       "word": "贾玲股四头肌",
@@ -17827,6 +17851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233305,
+      "num": 328854,
+      "word": "男子与儿认亲2年后又一儿子找来",
+      "onboard_time": 1755520402,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233227,
       "num": 233227,
       "word": "李昀锐看一饭封神吃豪华泡面",
@@ -19473,14 +19505,6 @@
       "onboard_time": 1754972665,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213837,
-      "num": 328854,
-      "word": "男子与儿认亲2年后又一儿子找来",
-      "onboard_time": 1755520402,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213779,
@@ -21427,6 +21451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200914,
+      "num": 200914,
+      "word": "费文典 跑男",
+      "onboard_time": 1755526042,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200784,
       "num": 200784,
       "word": "LadyGaga带Labubu出街",
@@ -22523,6 +22555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 195921,
+      "num": 195921,
+      "word": "刻薄是真刻薄好看也是真好看",
+      "onboard_time": 1755526164,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195814,
       "num": 195814,
       "word": "晚饭吃什么掉秤最快",
@@ -23433,6 +23473,14 @@
       "onboard_time": 1754824221,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191714,
+      "num": 191714,
+      "word": "九尾做点啥能让自己开心",
+      "onboard_time": 1755527123,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 191672,
@@ -24611,6 +24659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 185400,
+      "num": 185400,
+      "word": "封四太坏了",
+      "onboard_time": 1755525863,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185389,
       "num": 185389,
       "word": "大学不教但是真正有用的东西",
@@ -25281,6 +25337,14 @@
       "onboard_time": 1755404360,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181649,
+      "num": 246920,
+      "word": "人社局回应胖东来保安保洁招聘争议",
+      "onboard_time": 1755523882,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181516,
@@ -26635,6 +26699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174145,
+      "num": 281530,
+      "word": "奥迪E5预售23.59万",
+      "onboard_time": 1755525144,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 174129,
       "num": 174129,
       "word": "在尿都控制不住的年纪却控制了全场",
@@ -26697,6 +26769,14 @@
       "onboard_time": 1755406942,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 173910,
+      "num": 192880,
+      "word": "iG翻盘BLG",
+      "onboard_time": 1755519861,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 173903,
@@ -27633,14 +27713,6 @@
       "onboard_time": 1754015301,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169920,
-      "num": 169920,
-      "word": "BLG对战iG",
-      "onboard_time": 1755519680,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 169902,
@@ -35011,14 +35083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142150,
-      "num": 246920,
-      "word": "人社局回应胖东来保安保洁招聘争议",
-      "onboard_time": 1755523882,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142141,
       "num": 142141,
       "word": "网红顾茜茜疑似将回归直播",
@@ -35121,6 +35185,14 @@
       "onboard_time": 1754273302,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141927,
+      "num": 141927,
+      "word": "生万物三集演满七情跌宕",
+      "onboard_time": 1755525623,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 141922,
@@ -38251,6 +38323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133464,
+      "num": 133464,
+      "word": "辛巴将公司交给了初瑞雪",
+      "onboard_time": 1755527123,
+      "rank": 39,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 133454,
       "num": 133454,
       "word": "iPhone17Air电池曝光",
@@ -41083,6 +41163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125977,
+      "num": 125977,
+      "word": "心疼绣绣",
+      "onboard_time": 1755525563,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125961,
       "num": 161472,
       "word": "网传街舞7队长阵容",
@@ -43001,14 +43089,6 @@
       "onboard_time": 1754379443,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 120482,
-      "num": 120482,
-      "word": "iG翻盘BLG",
-      "onboard_time": 1755519861,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 120480,
@@ -48859,6 +48939,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 103428,
+      "num": 103428,
+      "word": "A股创造了多个历史",
+      "onboard_time": 1755526405,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103419,
       "num": 245052,
       "word": "27岁抗日将领被砍下头颅8年后被找到",
@@ -49193,6 +49281,14 @@
       "onboard_time": 1755222621,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102147,
+      "num": 102147,
+      "word": "炫神要和iG死磕到底",
+      "onboard_time": 1755526344,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 102133,
@@ -49681,6 +49777,14 @@
       "onboard_time": 1755162863,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100424,
+      "num": 102284,
+      "word": "周一上班关王力宏现场爆满什么事",
+      "onboard_time": 1755525924,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 100415,
@@ -51208,6 +51312,14 @@
       "word": "男孩校外补习坠亡老师解散家长群",
       "onboard_time": 1754550084,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95043,
+      "num": 287798,
+      "word": "非特殊工种限制招聘性别或涉嫌违规",
+      "onboard_time": 1755527064,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -54956,7 +55068,7 @@
     },
     {
       "raw_hot": 69334,
-      "num": 1186857,
+      "num": 1327159,
       "word": "想看阅兵的心到达了顶峰",
       "onboard_time": 1755499462,
       "rank": 19,
@@ -61985,14 +62097,6 @@
       "onboard_time": 1754479944,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12849,
-      "num": 139701,
-      "word": "奥迪E5预售23.59万",
-      "onboard_time": 1755525144,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 12645,

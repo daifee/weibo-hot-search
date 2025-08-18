@@ -1,0 +1,410 @@
+{
+  "runTime": 1755527340042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1912633,
+        "num": 1912633,
+        "word": "妈妈意外去世孩子疑和遗体呆了几天",
+        "onboard_time": 1755525385,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1468823,
+        "num": 1468823,
+        "word": "iG战胜BLG",
+        "onboard_time": 1755526463,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45198,
+        "num": 1327159,
+        "word": "想看阅兵的心到达了顶峰",
+        "onboard_time": 1755499462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1313046,
+        "num": 1313046,
+        "word": "辛巴退出直播行业",
+        "onboard_time": 1755522923,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1042733,
+        "num": 1042733,
+        "word": "万妮达与男友合照",
+        "onboard_time": 1755523643,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817400,
+        "num": 817400,
+        "word": "网友涌入七匹狼直播间刷续面事件",
+        "onboard_time": 1755520883,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745668,
+        "num": 745668,
+        "word": "田曦薇否认与赖伟明恋情",
+        "onboard_time": 1755517343,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425386,
+        "num": 425386,
+        "word": "iG起诉炫神",
+        "onboard_time": 1755514822,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 415725,
+        "num": 415725,
+        "word": "子夜归 李沛恩",
+        "onboard_time": 1755517761,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366216,
+        "num": 366216,
+        "word": "孩子脱鞋138cm补票后家长投诉退票",
+        "onboard_time": 1755510803,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 663019,
+        "num": 355592,
+        "word": "王星越10万红包",
+        "onboard_time": 1755523403,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490889,
+        "num": 352477,
+        "word": "女孩被同班男生送回家途中杀害",
+        "onboard_time": 1755507023,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438989,
+        "num": 351747,
+        "word": "真的建议不要喝点外卖送的饮料",
+        "onboard_time": 1755509421,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342241,
+        "num": 342241,
+        "word": "乃万发长文倾诉委屈",
+        "onboard_time": 1755517640,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332377,
+        "num": 332377,
+        "word": "续面事件老板发声道歉网友毫不买账",
+        "onboard_time": 1755513682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330855,
+        "num": 330855,
+        "word": "三岁的猫坐了两年牢",
+        "onboard_time": 1755520041,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225191,
+        "num": 320528,
+        "word": "王伟忠因为藏海传去探访郑晓龙",
+        "onboard_time": 1755514641,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314648,
+        "num": 314648,
+        "word": "独居最大的坏处已经出现了",
+        "onboard_time": 1755506302,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95043,
+        "num": 287798,
+        "word": "非特殊工种限制招聘性别或涉嫌违规",
+        "onboard_time": 1755527064,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174145,
+        "num": 281530,
+        "word": "奥迪E5预售23.59万",
+        "onboard_time": 1755525144,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 275796,
+        "num": 275796,
+        "word": "BLG对战iG",
+        "onboard_time": 1755519680,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233305,
+        "num": 233305,
+        "word": "男子与儿认亲2年后又一儿子找来",
+        "onboard_time": 1755520402,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372673,
+        "num": 232580,
+        "word": "张晋血管堵塞80%",
+        "onboard_time": 1755511221,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228174,
+        "num": 228174,
+        "word": "孙一宁因喝酒进医院",
+        "onboard_time": 1755520101,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205423,
+        "num": 205423,
+        "word": "生万物",
+        "onboard_time": 1755527244,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200914,
+        "num": 200914,
+        "word": "费文典 跑男",
+        "onboard_time": 1755526042,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195921,
+        "num": 195921,
+        "word": "刻薄是真刻薄好看也是真好看",
+        "onboard_time": 1755526164,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173910,
+        "num": 192880,
+        "word": "iG翻盘BLG",
+        "onboard_time": 1755519861,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181649,
+        "num": 191962,
+        "word": "人社局回应胖东来保安保洁招聘争议",
+        "onboard_time": 1755523882,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174283,
+        "num": 191747,
+        "word": "辽GM8297司机承认是故意的",
+        "onboard_time": 1755512242,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 191714,
+        "num": 191714,
+        "word": "九尾做点啥能让自己开心",
+        "onboard_time": 1755527123,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185532,
+        "num": 185532,
+        "word": "男子被女友骗至缅甸电诈园被打尿血",
+        "onboard_time": 1755518123,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185400,
+        "num": 185400,
+        "word": "封四太坏了",
+        "onboard_time": 1755525863,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176678,
+        "num": 176678,
+        "word": "子夜归开播",
+        "onboard_time": 1755512422,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170260,
+        "num": 170260,
+        "word": "中国人自己的老花有多美",
+        "onboard_time": 1755520283,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168201,
+        "num": 168201,
+        "word": "王玉雯 避雷陈星旭这个摄影师",
+        "onboard_time": 1755502102,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154870,
+        "num": 154870,
+        "word": "孙颖莎vs高达",
+        "onboard_time": 1755520283,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147798,
+        "num": 147798,
+        "word": "王皓 上岸先斩意中人",
+        "onboard_time": 1755495981,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141927,
+        "num": 141927,
+        "word": "生万物三集演满七情跌宕",
+        "onboard_time": 1755525623,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133464,
+        "num": 133464,
+        "word": "辛巴将公司交给了初瑞雪",
+        "onboard_time": 1755527123,
+        "rank": 39,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 125977,
+        "num": 125977,
+        "word": "心疼绣绣",
+        "onboard_time": 1755525563,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120652,
+        "num": 120652,
+        "word": "杨幂拍生万物住简陋招待所",
+        "onboard_time": 1755515902,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106377,
+        "num": 106377,
+        "word": "马景涛女友称不在乎26岁年龄差",
+        "onboard_time": 1755520822,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105845,
+        "num": 105845,
+        "word": "王影璐瘦成啥样了",
+        "onboard_time": 1755513742,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105600,
+        "num": 105600,
+        "word": "觉得压力大可以来看看这张图",
+        "onboard_time": 1755520101,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103428,
+        "num": 103428,
+        "word": "A股创造了多个历史",
+        "onboard_time": 1755526405,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102517,
+        "num": 102517,
+        "word": "张晚意你也太会过日子了",
+        "onboard_time": 1755521962,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100424,
+        "num": 102284,
+        "word": "周一上班关王力宏现场爆满什么事",
+        "onboard_time": 1755525924,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102147,
+        "num": 102147,
+        "word": "炫神要和iG死磕到底",
+        "onboard_time": 1755526344,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101596,
+        "num": 101596,
+        "word": "邪修出图就是快",
+        "onboard_time": 1755524844,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
