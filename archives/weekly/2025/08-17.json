@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755521823575,
+  "endTime": 1755522727587,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -203,8 +203,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1200534,
+      "num": 1200534,
+      "word": "田曦薇否认与赖伟明恋情",
+      "onboard_time": 1755517343,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1199681,
-      "num": 622070,
+      "num": 700044,
       "word": "乃万发长文倾诉委屈",
       "onboard_time": 1755517640,
       "rank": 3,
@@ -313,14 +321,6 @@
       "onboard_time": 1755397701,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 959373,
-      "num": 1153499,
-      "word": "田曦薇否认与赖伟明恋情",
-      "onboard_time": 1755517343,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 954570,
@@ -555,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 681534,
+      "num": 681534,
+      "word": "网友涌入七匹狼直播间刷续面事件",
+      "onboard_time": 1755520883,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 679055,
       "num": 679055,
       "word": "苏苏被逐出费家",
@@ -587,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 670143,
+      "num": 225133,
+      "word": "孙一宁因喝酒进医院",
+      "onboard_time": 1755520101,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 664378,
       "num": 543438,
       "word": "这跟亲了有什么区别",
@@ -595,12 +611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 662312,
+      "num": 598759,
+      "word": "续面事件老板发声道歉网友毫不买账",
+      "onboard_time": 1755513682,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 655458,
       "num": 332030,
       "word": "穿外裤不能上床真的有必要吗",
       "onboard_time": 1755411142,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 647821,
+      "num": 647821,
+      "word": "孙颖莎vs高达",
+      "onboard_time": 1755520283,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 645492,
@@ -689,14 +721,6 @@
       "onboard_time": 1755392961,
       "rank": 8,
       "category": "民生新闻,读书作家"
-    },
-    {
-      "raw_hot": 598759,
-      "num": 598759,
-      "word": "续面事件老板发声道歉网友毫不买账",
-      "onboard_time": 1755513682,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 593639,
@@ -819,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 525550,
-      "num": 220782,
-      "word": "孙一宁因喝酒进医院",
-      "onboard_time": 1755520101,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 523501,
       "num": 523501,
       "word": "胖东来招聘900人仅限河南地区人员",
@@ -884,7 +900,7 @@
     },
     {
       "raw_hot": 505970,
-      "num": 457238,
+      "num": 491196,
       "word": "子夜归 李沛恩",
       "onboard_time": 1755517761,
       "rank": 6,
@@ -939,20 +955,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 467120,
-      "num": 467120,
-      "word": "孙颖莎vs高达",
-      "onboard_time": 1755520283,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 463876,
       "num": 463876,
       "word": "机场拦截的充电宝成抢手货",
       "onboard_time": 1755411922,
       "rank": 9,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 462527,
+      "num": 462527,
+      "word": "男子被女友骗至缅甸电诈园被打尿血",
+      "onboard_time": 1755518123,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 458934,
@@ -1115,14 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408785,
-      "num": 408785,
-      "word": "男子被女友骗至缅甸电诈园被打尿血",
-      "onboard_time": 1755518123,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404570,
       "num": 404570,
       "word": "何超云疑似分手",
@@ -1177,6 +1185,14 @@
       "onboard_time": 1755455176,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381696,
+      "num": 341733,
+      "word": "三岁的猫坐了两年牢",
+      "onboard_time": 1755520041,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 377049,
@@ -1491,14 +1507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 294964,
-      "num": 294964,
-      "word": "三岁的猫坐了两年牢",
-      "onboard_time": 1755520041,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 294554,
       "num": 285295,
       "word": "心动的信号",
@@ -1747,6 +1755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 249344,
+      "num": 249344,
+      "word": "孙颖莎候场笑得好开心",
+      "onboard_time": 1755520822,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248855,
       "num": 248855,
       "word": "网红吐槽火车工作人员站台抽烟",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1755499043,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243847,
+      "num": 202081,
+      "word": "邢菲宁苏苏成了沈眉庄",
+      "onboard_time": 1755520762,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 241453,
@@ -2139,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202598,
+      "num": 196856,
+      "word": "蓝盈莹说银子是苦难中开出的花",
+      "onboard_time": 1755521482,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202373,
       "num": 202373,
       "word": "微信录音 听到心跳",
@@ -2161,14 +2193,6 @@
       "onboard_time": 1755443123,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201364,
-      "num": 201364,
-      "word": "邢菲宁苏苏成了沈眉庄",
-      "onboard_time": 1755520762,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 201228,
@@ -2337,6 +2361,14 @@
       "onboard_time": 1755486623,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195363,
+      "num": 195363,
+      "word": "男子与儿认亲2年后又一儿子找来",
+      "onboard_time": 1755520402,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195180,
@@ -2513,14 +2545,6 @@
       "onboard_time": 1755404902,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187492,
-      "num": 187492,
-      "word": "孙颖莎候场笑得好开心",
-      "onboard_time": 1755520822,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 186536,
@@ -2771,14 +2795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174112,
-      "num": 364981,
-      "word": "网友涌入七匹狼直播间刷续面事件",
-      "onboard_time": 1755520883,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173961,
       "num": 173961,
       "word": "于适带领中国青少年骑射队夺冠",
@@ -2939,14 +2955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168359,
-      "num": 168359,
-      "word": "男子与儿认亲2年后又一儿子找来",
-      "onboard_time": 1755520402,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168329,
       "num": 168329,
       "word": "13人露营遇山洪唯一获救女孩刚高考",
@@ -3057,6 +3065,14 @@
       "onboard_time": 1755510203,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165430,
+      "num": 165430,
+      "word": "NBA球星来中国一趟什么都想带回家",
+      "onboard_time": 1755521603,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 164679,
@@ -3587,6 +3603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147338,
+      "num": 147338,
+      "word": "文典又跑了",
+      "onboard_time": 1755521662,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147327,
       "num": 135924,
       "word": "张凌赫王楚然鼻炎受害者联盟",
@@ -3608,6 +3632,14 @@
       "word": "刘美含我还是绝望的直女",
       "onboard_time": 1755497782,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146438,
+      "num": 146438,
+      "word": "张晚意你也太会过日子了",
+      "onboard_time": 1755521962,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -4531,14 +4563,6 @@
       "category": "财经,美食"
     },
     {
-      "raw_hot": 124862,
-      "num": 121041,
-      "word": "NBA球星来中国一趟什么都想带回家",
-      "onboard_time": 1755521603,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124700,
       "num": 124700,
       "word": "TOP上完披哥叫饭团了",
@@ -4723,6 +4747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119812,
+      "num": 119812,
+      "word": "宋妍霏麻辣女教师造型",
+      "onboard_time": 1755522444,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119710,
       "num": 122870,
       "word": "张雅琪邪修做饭就是快",
@@ -4753,6 +4785,14 @@
       "onboard_time": 1755444564,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118771,
+      "num": 118771,
+      "word": "展轩新人时期曾帮女导演解围",
+      "onboard_time": 1755522383,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 118485,
@@ -4811,20 +4851,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117818,
-      "num": 117818,
-      "word": "文典又跑了",
-      "onboard_time": 1755521662,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117693,
       "num": 136870,
       "word": "全场的消费由刘宇宁买单",
       "onboard_time": 1755408142,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117545,
+      "num": 121485,
+      "word": "马景涛女友称不在乎26岁年龄差",
+      "onboard_time": 1755520822,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 117519,
@@ -4923,6 +4963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116065,
+      "num": 116065,
+      "word": "田曦薇御姐演爽了",
+      "onboard_time": 1755522562,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115901,
       "num": 115901,
       "word": "发现朋友圈记录生活新功能",
@@ -4937,6 +4985,22 @@
       "onboard_time": 1755502941,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115631,
+      "num": 123799,
+      "word": "大唐不夜城 拍照陷阱",
+      "onboard_time": 1755520943,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115557,
+      "num": 371066,
+      "word": "中国人自己的老花有多美",
+      "onboard_time": 1755520283,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115523,
@@ -5323,6 +5387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106042,
+      "num": 106042,
+      "word": "特斯拉预热ModelYL",
+      "onboard_time": 1755522685,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 105873,
       "num": 143686,
       "word": "上汽通用回应智驾争议",
@@ -5449,14 +5521,6 @@
       "onboard_time": 1755435622,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101368,
-      "num": 101368,
-      "word": "中国人自己的老花有多美",
-      "onboard_time": 1755520283,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101174,
@@ -5697,14 +5761,6 @@
       "onboard_time": 1755517160,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96535,
-      "num": 123799,
-      "word": "大唐不夜城 拍照陷阱",
-      "onboard_time": 1755520943,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96342,
@@ -6347,6 +6403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70422,
+      "num": 127710,
+      "word": "中美网友对账的含金量还在上升",
+      "onboard_time": 1755521603,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69334,
       "num": 270511,
       "word": "想看阅兵的心到达了顶峰",
@@ -6523,14 +6587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58827,
-      "num": 121485,
-      "word": "马景涛女友称不在乎26岁年龄差",
-      "onboard_time": 1755520822,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58695,
       "num": 145620,
       "word": "男生在女友读研的学校旁开了家面馆",
@@ -6627,14 +6683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53234,
-      "num": 121397,
-      "word": "中美网友对账的含金量还在上升",
-      "onboard_time": 1755521603,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 52788,
       "num": 196133,
       "word": "庞博朱广权科技男团",
@@ -6675,6 +6723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50064,
+      "num": 127726,
+      "word": "多部门调查事业编考题重合事件",
+      "onboard_time": 1755522562,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48643,
       "num": 274245,
       "word": "TOP登陆少年溢出满屏青春感",
@@ -6689,6 +6745,14 @@
       "onboard_time": 1755448580,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47119,
+      "num": 192022,
+      "word": "男子诉女方隐瞒疾病获判还8万彩礼",
+      "onboard_time": 1755522084,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46474,
