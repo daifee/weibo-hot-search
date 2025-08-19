@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755631266593,
+  "endTime": 1755632208003,
   "band_list": [
     {
       "raw_hot": 1375053,
@@ -179,20 +179,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192497,
+      "num": 192497,
+      "word": "胡先煦方律师声明",
+      "onboard_time": 1755616164,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185999,
       "num": 158194,
       "word": "封大脚人设",
       "onboard_time": 1755616044,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173799,
-      "num": 173799,
-      "word": "胡先煦方律师声明",
-      "onboard_time": 1755616164,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 168821,
@@ -339,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 85846,
+      "num": 52076,
+      "word": "王晶称很多明星爆火都是资本做局",
+      "onboard_time": 1755629296,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84659,
       "num": 101141,
       "word": "三伏天结束了又好像没结束",
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79178,
+      "num": 65326,
+      "word": "倪妮 下身基础上身就不基础",
+      "onboard_time": 1755624620,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 77319,
       "num": 115420,
       "word": "普通人要对五险一金有概念",
@@ -385,14 +401,6 @@
       "onboard_time": 1755603205,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73024,
-      "num": 65326,
-      "word": "倪妮 下身基础上身就不基础",
-      "onboard_time": 1755624620,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 72236,
@@ -441,14 +449,6 @@
       "onboard_time": 1755600206,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 44376,
-      "num": 35530,
-      "word": "王晶称很多明星爆火都是资本做局",
-      "onboard_time": 1755629296,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 43459,
@@ -515,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23268,
+      "num": 31978,
+      "word": "学校回应20岁女留学生遭诈骗自杀",
+      "onboard_time": 1755630435,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18771,
       "num": 27714,
       "word": "檀健次黑色蕾丝内搭",
@@ -523,12 +531,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 12383,
-      "num": 31978,
-      "word": "学校回应20岁女留学生遭诈骗自杀",
-      "onboard_time": 1755630435,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 13097,
+      "num": 44244,
+      "word": "描绘新时代西藏发展新画卷",
+      "onboard_time": 1755629355,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1917,
