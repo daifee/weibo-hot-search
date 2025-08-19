@@ -1,0 +1,410 @@
+{
+  "runTime": 1755578692441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1516599,
+        "num": 1516599,
+        "word": "于正 我和林心如和好了",
+        "onboard_time": 1755576322,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1005332,
+        "num": 1005332,
+        "word": "老人散步故意肘击训练学生",
+        "onboard_time": 1755571882,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44029,
+        "num": 842195,
+        "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
+        "onboard_time": 1755567081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1801503,
+        "num": 842195,
+        "word": "剧宣 婚闹",
+        "onboard_time": 1755576203,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 795211,
+        "num": 795211,
+        "word": "上海一主理人新店开业当天即闭店",
+        "onboard_time": 1755574221,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495931,
+        "num": 495931,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 5,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 477876,
+        "num": 477876,
+        "word": "男主居然是对女主一见钟情的",
+        "onboard_time": 1755575122,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465271,
+        "num": 465271,
+        "word": "光遇",
+        "onboard_time": 1755576621,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407714,
+        "num": 407714,
+        "word": "主刀医生回应身首离断患者被救回",
+        "onboard_time": 1755567501,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224071,
+        "num": 389205,
+        "word": "三伏天正式结束",
+        "onboard_time": 1755561139,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24899,
+        "num": 389167,
+        "word": "肖战手捧玫瑰神级镜头",
+        "onboard_time": 1755576203,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1213058,
+        "num": 389166,
+        "word": "张元英汗毛",
+        "onboard_time": 1755576683,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389165,
+        "num": 389165,
+        "word": "辛巴只退网未回应卫生巾问题",
+        "onboard_time": 1755568642,
+        "rank": 12,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 52654,
+        "num": 386228,
+        "word": "王俊凯教周也付航打瓦手",
+        "onboard_time": 1755574462,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 385240,
+        "num": 385240,
+        "word": "朋友圈别再直接发视频了",
+        "onboard_time": 1755566181,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329463,
+        "num": 329463,
+        "word": "陈飞宇 一饭封神",
+        "onboard_time": 1755572602,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271924,
+        "num": 271924,
+        "word": "赵丽颖久违的长发",
+        "onboard_time": 1755563241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256962,
+        "num": 256962,
+        "word": "被清华大学的宿舍震惊到了",
+        "onboard_time": 1755564801,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242487,
+        "num": 242487,
+        "word": "刘宇宁7年发表超200首原唱歌曲",
+        "onboard_time": 1755570921,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36545,
+        "num": 225840,
+        "word": "棉密码卫生巾平均退款长达8小时",
+        "onboard_time": 1755578242,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261915,
+        "num": 224357,
+        "word": "血管堵了手脚会有4种表现",
+        "onboard_time": 1755576082,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216641,
+        "num": 216641,
+        "word": "滕泽文上线",
+        "onboard_time": 1755578122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214263,
+        "num": 214263,
+        "word": "那英去前少说话去后说少了",
+        "onboard_time": 1755575782,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204213,
+        "num": 204213,
+        "word": "谁给丞磊递个高干文男主剧本",
+        "onboard_time": 1755577581,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87815,
+        "num": 188554,
+        "word": "十四五体育强国建设成就",
+        "onboard_time": 1755575662,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183711,
+        "num": 183711,
+        "word": "一地招聘研究生月薪三千",
+        "onboard_time": 1755575662,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174864,
+        "num": 174864,
+        "word": "IZNA尹智允退队",
+        "onboard_time": 1755574941,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174766,
+        "num": 174766,
+        "word": "邢菲在内娱舞蹈界的地位",
+        "onboard_time": 1755577703,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157266,
+        "num": 157266,
+        "word": "9月1日开学是星期一",
+        "onboard_time": 1755573501,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 72635,
+        "num": 156545,
+        "word": "内娱小花文房四宝",
+        "onboard_time": 1755578482,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112568,
+        "num": 155986,
+        "word": "山东失联大学生通话录音曝光",
+        "onboard_time": 1755578542,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168718,
+        "num": 155239,
+        "word": "赵雅芝把粉丝送的400封信签名回寄",
+        "onboard_time": 1755563241,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80580,
+        "num": 154699,
+        "word": "特朗普中断多边会晤致电普京",
+        "onboard_time": 1755565642,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154205,
+        "num": 154205,
+        "word": "自行车降价",
+        "onboard_time": 1755569360,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148641,
+        "num": 148641,
+        "word": "生万物宁可金救绣绣这段看哭了",
+        "onboard_time": 1755576621,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141112,
+        "num": 141112,
+        "word": "七匹狼回应续面事件争议",
+        "onboard_time": 1755576443,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138618,
+        "num": 138618,
+        "word": "归队定档",
+        "onboard_time": 1755575122,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89157,
+        "num": 136766,
+        "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
+        "onboard_time": 1755578664,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94066,
+        "num": 135478,
+        "word": "怎么因为啥喜欢肖战的人都有",
+        "onboard_time": 1755578182,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128555,
+        "num": 135219,
+        "word": "续面老板对网友说你吃不起我家面",
+        "onboard_time": 1755578062,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135023,
+        "num": 135023,
+        "word": "姐姐妹妹抓娃娃开播",
+        "onboard_time": 1755578423,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134387,
+        "num": 134387,
+        "word": "中国首部8K拍摄太空电影",
+        "onboard_time": 1755572661,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128278,
+        "num": 128278,
+        "word": "子夜归",
+        "onboard_time": 1755566362,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125759,
+        "num": 125759,
+        "word": "多囊带来的影响远比孕育更复杂",
+        "onboard_time": 1755576082,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125717,
+        "num": 125717,
+        "word": "身首离断患者已脱离呼吸机半月",
+        "onboard_time": 1755570862,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123830,
+        "num": 123830,
+        "word": "时代少年团上海天幕测试",
+        "onboard_time": 1755569480,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118859,
+        "num": 118859,
+        "word": "高速服务区的水有多脏",
+        "onboard_time": 1755571401,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120855,
+        "num": 118847,
+        "word": "阴阳顾客七匹狼面馆关门",
+        "onboard_time": 1755571281,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118346,
+        "num": 118346,
+        "word": "科考队员说在南极睡醒后背全湿了",
+        "onboard_time": 1755577163,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117363,
+        "num": 117363,
+        "word": "原来局部暴雨全景长这样",
+        "onboard_time": 1755571941,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}

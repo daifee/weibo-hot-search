@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755577846708,
+  "endTime": 1755578692441,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -11,12 +11,20 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 1777293,
-      "num": 729335,
+      "raw_hot": 1801503,
+      "num": 842195,
       "word": "剧宣 婚闹",
       "onboard_time": 1755576203,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1516599,
+      "num": 1516599,
+      "word": "于正 我和林心如和好了",
+      "onboard_time": 1755576322,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1442988,
@@ -27,12 +35,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1410768,
-      "num": 1410768,
-      "word": "于正 我和林心如和好了",
-      "onboard_time": 1755576322,
-      "rank": 1,
-      "category": "综艺"
+      "raw_hot": 1213058,
+      "num": 498020,
+      "word": "张元英汗毛",
+      "onboard_time": 1755576683,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1129324,
@@ -51,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 945761,
-      "num": 498020,
-      "word": "张元英汗毛",
-      "onboard_time": 1755576683,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 849953,
       "num": 849953,
       "word": "被清华大学的宿舍震惊到了",
@@ -75,20 +75,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 795211,
+      "num": 795211,
+      "word": "上海一主理人新店开业当天即闭店",
+      "onboard_time": 1755574221,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 762995,
       "num": 858815,
       "word": "生万物第20集封神",
       "onboard_time": 1755530004,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 722639,
-      "num": 722639,
-      "word": "上海一主理人新店开业当天即闭店",
-      "onboard_time": 1755574221,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 713198,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 321210,
-      "num": 321210,
+      "num": 389205,
       "word": "三伏天正式结束",
       "onboard_time": 1755561139,
       "rank": 7,
@@ -379,6 +379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216641,
+      "num": 216641,
+      "word": "滕泽文上线",
+      "onboard_time": 1755578122,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214263,
+      "num": 214263,
+      "word": "那英去前少说话去后说少了",
+      "onboard_time": 1755575782,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212938,
       "num": 212938,
       "word": "一地招聘研究生月薪三千",
@@ -401,6 +417,14 @@
       "onboard_time": 1755567622,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 204213,
+      "num": 204213,
+      "word": "谁给丞磊递个高干文男主剧本",
+      "onboard_time": 1755577581,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198481,
@@ -459,14 +483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193573,
-      "num": 193573,
-      "word": "那英去前少说话去后说少了",
-      "onboard_time": 1755575782,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191819,
       "num": 191819,
       "word": "张新成 我是个比较拧巴的人",
@@ -523,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174766,
+      "num": 174766,
+      "word": "邢菲在内娱舞蹈界的地位",
+      "onboard_time": 1755577703,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174460,
       "num": 174460,
       "word": "RNG",
@@ -563,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162839,
-      "num": 171335,
-      "word": "谁给丞磊递个高干文男主剧本",
-      "onboard_time": 1755577581,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 161793,
       "num": 161793,
       "word": "多囊带来的影响远比孕育更复杂",
@@ -601,6 +617,14 @@
       "onboard_time": 1755527244,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157266,
+      "num": 157266,
+      "word": "9月1日开学是星期一",
+      "onboard_time": 1755573501,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 155751,
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 141953,
-      "num": 141953,
+      "num": 154699,
       "word": "特朗普中断多边会晤致电普京",
       "onboard_time": 1755565642,
       "rank": 30,
@@ -689,6 +713,14 @@
       "onboard_time": 1755514822,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141112,
+      "num": 171140,
+      "word": "七匹狼回应续面事件争议",
+      "onboard_time": 1755576443,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139230,
@@ -731,12 +763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135813,
-      "num": 135813,
-      "word": "9月1日开学是星期一",
-      "onboard_time": 1755573501,
-      "rank": 41,
-      "category": "教育"
+      "raw_hot": 135023,
+      "num": 135023,
+      "word": "姐姐妹妹抓娃娃开播",
+      "onboard_time": 1755578423,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 134313,
@@ -779,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129062,
-      "num": 129062,
-      "word": "邢菲在内娱舞蹈界的地位",
-      "onboard_time": 1755577703,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 128555,
+      "num": 135219,
+      "word": "续面老板对网友说你吃不起我家面",
+      "onboard_time": 1755578062,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128067,
@@ -867,6 +899,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 118346,
+      "num": 118346,
+      "word": "科考队员说在南极睡醒后背全湿了",
+      "onboard_time": 1755577163,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118133,
       "num": 118133,
       "word": "孙颖莎说没拧上",
@@ -881,14 +921,6 @@
       "onboard_time": 1755571521,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115725,
-      "num": 115725,
-      "word": "科考队员说在南极睡醒后背全湿了",
-      "onboard_time": 1755577163,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115436,
@@ -923,11 +955,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112538,
-      "num": 171140,
-      "word": "七匹狼回应续面事件争议",
-      "onboard_time": 1755576443,
-      "rank": 29,
+      "raw_hot": 112568,
+      "num": 155986,
+      "word": "山东失联大学生通话录音曝光",
+      "onboard_time": 1755578542,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1035,6 +1067,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 94066,
+      "num": 135478,
+      "word": "怎么因为啥喜欢肖战的人都有",
+      "onboard_time": 1755578182,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93254,
       "num": 193826,
       "word": "泽连斯基这回穿正装了",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1755560419,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89157,
+      "num": 136766,
+      "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
+      "onboard_time": 1755578664,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86561,
@@ -1195,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72635,
+      "num": 156545,
+      "word": "内娱小花文房四宝",
+      "onboard_time": 1755578482,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68415,
       "num": 141395,
       "word": "职业背债人团伙银行骗贷超2亿",
@@ -1276,7 +1332,7 @@
     },
     {
       "raw_hot": 53108,
-      "num": 810000,
+      "num": 842195,
       "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
       "onboard_time": 1755567081,
       "rank": 2,
@@ -1337,6 +1393,14 @@
       "onboard_time": 1755544454,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 36545,
+      "num": 225840,
+      "word": "棉密码卫生巾平均退款长达8小时",
+      "onboard_time": 1755578242,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33868,
