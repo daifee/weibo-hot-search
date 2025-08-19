@@ -1,0 +1,410 @@
+{
+  "runTime": 1755570021819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2081457,
+        "num": 2081457,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 0,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 849953,
+        "num": 849953,
+        "word": "被清华大学的宿舍震惊到了",
+        "onboard_time": 1755564801,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47608,
+        "num": 648695,
+        "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
+        "onboard_time": 1755567081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529182,
+        "num": 529182,
+        "word": "赵雅芝把粉丝送的400封信签名回寄",
+        "onboard_time": 1755563241,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452904,
+        "num": 452904,
+        "word": "赵丽颖久违的长发",
+        "onboard_time": 1755563241,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311586,
+        "num": 311586,
+        "word": "疑似罗永浩私下聊天被曝光",
+        "onboard_time": 1755562341,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 858502,
+        "num": 310593,
+        "word": "官方通报小米车主逆行超速致4死",
+        "onboard_time": 1755564983,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357471,
+        "num": 309296,
+        "word": "向太透露李连杰病情",
+        "onboard_time": 1755566003,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235737,
+        "num": 307554,
+        "word": "泽连斯基称不再坚持先停火",
+        "onboard_time": 1755561259,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151868,
+        "num": 306042,
+        "word": "美俄乌将举行三边会谈",
+        "onboard_time": 1755561620,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 523048,
+        "num": 304442,
+        "word": "朋友圈别再直接发视频了",
+        "onboard_time": 1755566181,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377767,
+        "num": 303456,
+        "word": "为了养猫考了个公务员",
+        "onboard_time": 1755564801,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302093,
+        "num": 302093,
+        "word": "网传学生强奸虐杀猫不实",
+        "onboard_time": 1755557958,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271265,
+        "num": 271265,
+        "word": "生万物第20集封神",
+        "onboard_time": 1755530004,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257990,
+        "num": 257990,
+        "word": "迪丽热巴出发W盛典机场路透",
+        "onboard_time": 1755564382,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221277,
+        "num": 221277,
+        "word": "主刀医生回应身首离断患者被救回",
+        "onboard_time": 1755567501,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212511,
+        "num": 212511,
+        "word": "三伏天正式结束",
+        "onboard_time": 1755561139,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204933,
+        "num": 211815,
+        "word": "时代少年团上海天幕测试",
+        "onboard_time": 1755569480,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211470,
+        "num": 211470,
+        "word": "背娃送外卖妈妈称不再嫁人不合法",
+        "onboard_time": 1755563302,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116608,
+        "num": 199017,
+        "word": "辛巴只退网未回应卫生巾问题",
+        "onboard_time": 1755568642,
+        "rank": 19,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 228366,
+        "num": 198783,
+        "word": "医生说辛巴的肺95岁了",
+        "onboard_time": 1755560360,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198481,
+        "num": 198481,
+        "word": "管乐谈和前任分手原因",
+        "onboard_time": 1755564443,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182756,
+        "num": 182756,
+        "word": "今天是第8个中国医师节",
+        "onboard_time": 1755564983,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178117,
+        "num": 178117,
+        "word": "万妮达与男友合照",
+        "onboard_time": 1755523643,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176802,
+        "num": 176802,
+        "word": "子夜归",
+        "onboard_time": 1755566362,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170979,
+        "num": 170979,
+        "word": "婚后13天发现妻子双子宫只有一个肾",
+        "onboard_time": 1755528503,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164170,
+        "num": 164170,
+        "word": "关晓彤李昀锐公主抱脸颊吻",
+        "onboard_time": 1755569360,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151311,
+        "num": 151311,
+        "word": "自行车降价",
+        "onboard_time": 1755569360,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145821,
+        "num": 145821,
+        "word": "iPhone C口隐藏用法",
+        "onboard_time": 1755567021,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145568,
+        "num": 145568,
+        "word": "特斯拉ModelYL正式发布",
+        "onboard_time": 1755567622,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145464,
+        "num": 145464,
+        "word": "原来信息茧房这么恐怖",
+        "onboard_time": 1755569480,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143454,
+        "num": 143454,
+        "word": "母亲回应五年级儿子卖奶茶月入4000",
+        "onboard_time": 1755562100,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139162,
+        "num": 139162,
+        "word": "特朗普中断多边会晤致电普京",
+        "onboard_time": 1755565642,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135438,
+        "num": 135438,
+        "word": "广电总局改进电视剧内容审查工作",
+        "onboard_time": 1755568282,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134313,
+        "num": 134313,
+        "word": "美国反对乌克兰加入北约",
+        "onboard_time": 1755564682,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133728,
+        "num": 133728,
+        "word": "7个习惯默默为血管投喂斑块",
+        "onboard_time": 1755569421,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129355,
+        "num": 129355,
+        "word": "医生谢谢你",
+        "onboard_time": 1755568881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122682,
+        "num": 122682,
+        "word": "怎么会有小猫睡成这样",
+        "onboard_time": 1755569360,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119627,
+        "num": 119627,
+        "word": "特斯拉ModelYL内饰图曝光",
+        "onboard_time": 1755563121,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118133,
+        "num": 118133,
+        "word": "孙颖莎说没拧上",
+        "onboard_time": 1755569360,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117199,
+        "num": 117199,
+        "word": "特朗普泽连斯基白宫会晤",
+        "onboard_time": 1755539358,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114872,
+        "num": 114872,
+        "word": "ELK亮小丑",
+        "onboard_time": 1755528923,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113904,
+        "num": 113904,
+        "word": "不要相信晚上十一点半之后的大脑",
+        "onboard_time": 1755538276,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111106,
+        "num": 111106,
+        "word": "孩子脱鞋138cm补票后家长投诉退票",
+        "onboard_time": 1755510803,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109268,
+        "num": 109268,
+        "word": "男孩多年坚持看望已离婚继母",
+        "onboard_time": 1755566421,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108822,
+        "num": 108822,
+        "word": "人民日报专访胖东来董事长于东来",
+        "onboard_time": 1755569300,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106404,
+        "num": 106404,
+        "word": "杨颜 魅族",
+        "onboard_time": 1755569061,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105380,
+        "num": 105380,
+        "word": "46万买到全损车获退一赔三",
+        "onboard_time": 1755563241,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100945,
+        "num": 100945,
+        "word": "北京暴雨",
+        "onboard_time": 1755558617,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97869,
+        "num": 97869,
+        "word": "iG战胜BLG",
+        "onboard_time": 1755526463,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}

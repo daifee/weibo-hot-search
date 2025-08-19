@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755568715066,
+  "endTime": 1755570021819,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 849953,
+      "num": 849953,
+      "word": "被清华大学的宿舍震惊到了",
+      "onboard_time": 1755564801,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 839486,
       "num": 959387,
       "word": "续面涉事饭店被大量群众围观",
@@ -35,11 +43,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 761862,
-      "num": 761862,
-      "word": "被清华大学的宿舍震惊到了",
-      "onboard_time": 1755564801,
-      "rank": 3,
+      "raw_hot": 529182,
+      "num": 529182,
+      "word": "赵雅芝把粉丝送的400封信签名回寄",
+      "onboard_time": 1755563241,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 523048,
+      "num": 304442,
+      "word": "朋友圈别再直接发视频了",
+      "onboard_time": 1755566181,
+      "rank": 14,
       "category": "情感"
     },
     {
@@ -83,14 +99,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 411892,
-      "num": 411892,
-      "word": "赵雅芝把粉丝送的400封信签名回寄",
-      "onboard_time": 1755563241,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 383252,
       "num": 287453,
       "word": "田曦薇否认与赖伟明恋情",
@@ -99,7 +107,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365843,
+      "raw_hot": 377767,
       "num": 307180,
       "word": "为了养猫考了个公务员",
       "onboard_time": 1755564801,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 364588,
-      "num": 300101,
+      "num": 309296,
       "word": "向太透露李连杰病情",
       "onboard_time": 1755566003,
       "rank": 11,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 293733,
-      "num": 293733,
+      "num": 307554,
       "word": "泽连斯基称不再坚持先停火",
       "onboard_time": 1755561259,
       "rank": 13,
@@ -187,16 +195,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268807,
-      "num": 268807,
-      "word": "朋友圈别再直接发视频了",
-      "onboard_time": 1755566181,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 257981,
-      "num": 257981,
+      "raw_hot": 257990,
+      "num": 257990,
       "word": "迪丽热巴出发W盛典机场路透",
       "onboard_time": 1755564382,
       "rank": 16,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 239082,
-      "num": 176878,
+      "num": 198783,
       "word": "医生说辛巴的肺95岁了",
       "onboard_time": 1755560360,
       "rank": 20,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221277,
+      "num": 221277,
+      "word": "主刀医生回应身首离断患者被救回",
+      "onboard_time": 1755567501,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208574,
       "num": 208574,
       "word": "男子与儿认亲2年后又一儿子找来",
@@ -235,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204933,
+      "num": 211815,
+      "word": "时代少年团上海天幕测试",
+      "onboard_time": 1755569480,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204275,
       "num": 175826,
       "word": "特斯拉ModelYL正式发布",
       "onboard_time": 1755567622,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 198481,
+      "num": 198481,
+      "word": "管乐谈和前任分手原因",
+      "onboard_time": 1755564443,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 198259,
@@ -267,8 +291,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182756,
+      "num": 294153,
+      "word": "今天是第8个中国医师节",
+      "onboard_time": 1755564983,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178042,
-      "num": 178042,
+      "num": 306042,
       "word": "美俄乌将举行三边会谈",
       "onboard_time": 1755561620,
       "rank": 19,
@@ -281,6 +313,14 @@
       "onboard_time": 1755532823,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176802,
+      "num": 176802,
+      "word": "子夜归",
+      "onboard_time": 1755566362,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 174460,
@@ -299,28 +339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164170,
+      "num": 164170,
+      "word": "关晓彤李昀锐公主抱脸颊吻",
+      "onboard_time": 1755569360,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163375,
       "num": 163375,
       "word": "成都女子被误诊绝症服药3月",
       "onboard_time": 1755529282,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162850,
-      "num": 162850,
-      "word": "子夜归",
-      "onboard_time": 1755566362,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161513,
-      "num": 161513,
-      "word": "管乐谈和前任分手原因",
-      "onboard_time": 1755564443,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 160438,
@@ -347,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151311,
+      "num": 151311,
+      "word": "自行车降价",
+      "onboard_time": 1755569360,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147022,
       "num": 147022,
       "word": "银川高级中学通报网传学生虐猫",
@@ -355,12 +395,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 146161,
-      "num": 146161,
-      "word": "主刀医生回应身首离断患者被救回",
-      "onboard_time": 1755567501,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 145821,
+      "num": 145821,
+      "word": "iPhone C口隐藏用法",
+      "onboard_time": 1755567021,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 145464,
+      "num": 145464,
+      "word": "原来信息茧房这么恐怖",
+      "onboard_time": 1755569480,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 143399,
@@ -369,14 +417,6 @@
       "onboard_time": 1755563121,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 143254,
-      "num": 143254,
-      "word": "iPhone C口隐藏用法",
-      "onboard_time": 1755567021,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 143217,
@@ -427,6 +467,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135438,
+      "num": 135438,
+      "word": "广电总局改进电视剧内容审查工作",
+      "onboard_time": 1755568282,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134313,
+      "num": 134313,
+      "word": "美国反对乌克兰加入北约",
+      "onboard_time": 1755564682,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 133728,
+      "num": 133728,
+      "word": "7个习惯默默为血管投喂斑块",
+      "onboard_time": 1755569421,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129355,
+      "num": 129355,
+      "word": "医生谢谢你",
+      "onboard_time": 1755568881,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128066,
       "num": 128066,
       "word": "姐姐当家",
@@ -435,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123182,
-      "num": 294153,
-      "word": "今天是第8个中国医师节",
-      "onboard_time": 1755564983,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 122682,
+      "num": 122682,
+      "word": "怎么会有小猫睡成这样",
+      "onboard_time": 1755569360,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 122531,
@@ -467,12 +539,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 116257,
-      "num": 116257,
-      "word": "广电总局改进电视剧内容审查工作",
-      "onboard_time": 1755568282,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 118133,
+      "num": 118133,
+      "word": "孙颖莎说没拧上",
+      "onboard_time": 1755569360,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116608,
+      "num": 199017,
+      "word": "辛巴只退网未回应卫生巾问题",
+      "onboard_time": 1755568642,
+      "rank": 34,
+      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 114455,
@@ -507,6 +587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109268,
+      "num": 109268,
+      "word": "男孩多年坚持看望已离婚继母",
+      "onboard_time": 1755566421,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108822,
+      "num": 108822,
+      "word": "人民日报专访胖东来董事长于东来",
+      "onboard_time": 1755569300,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107593,
       "num": 107593,
       "word": "辛巴第5次宣布退网",
@@ -515,12 +611,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 105992,
-      "num": 105992,
-      "word": "男孩多年坚持看望已离婚继母",
-      "onboard_time": 1755566421,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 106404,
+      "num": 106404,
+      "word": "杨颜 魅族",
+      "onboard_time": 1755569061,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 105689,
@@ -601,14 +697,6 @@
       "onboard_time": 1755529042,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 86016,
-      "num": 86016,
-      "word": "美国反对乌克兰加入北约",
-      "onboard_time": 1755564682,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85681,
@@ -787,7 +875,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44748,
+      "raw_hot": 47608,
       "num": 768866,
       "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
       "onboard_time": 1755567081,
@@ -809,14 +897,6 @@
       "onboard_time": 1755539536,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 38160,
-      "num": 117761,
-      "word": "辛巴只退网未回应卫生巾问题",
-      "onboard_time": 1755568642,
-      "rank": 34,
-      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 37123,
