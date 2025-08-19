@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755603485816,
+  "endTime": 1755607891087,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -59,6 +59,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2491062,
+      "num": 2491062,
+      "word": "孙俪 这是热巴的",
+      "onboard_time": 1755604407,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2242447,
       "num": 367671,
       "word": "褪黑素",
@@ -73,6 +81,14 @@
       "onboard_time": 1755564682,
       "rank": 0,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 2199739,
+      "num": 405873,
+      "word": "幂迪 仙女夫妇",
+      "onboard_time": 1755606567,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2033517,
@@ -395,6 +411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1162133,
+      "num": 1162133,
+      "word": "W红毯 审美高级",
+      "onboard_time": 1755599546,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1155488,
       "num": 1184878,
       "word": "微信转账记得加一个动作",
@@ -433,6 +457,14 @@
       "onboard_time": 1755496103,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1105192,
+      "num": 309356,
+      "word": "周深 太尴尬啦",
+      "onboard_time": 1755605966,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1093447,
@@ -489,6 +521,14 @@
       "onboard_time": 1755453198,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1035185,
+      "num": 288530,
+      "word": "倪妮太敢穿了",
+      "onboard_time": 1755601704,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1034574,
@@ -683,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 824606,
-      "num": 722721,
-      "word": "W红毯 审美高级",
-      "onboard_time": 1755599546,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 815257,
       "num": 1130441,
       "word": "兄弟俩花400万买到2套抵押房",
@@ -737,6 +769,14 @@
       "onboard_time": 1755413903,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 783048,
+      "num": 288263,
+      "word": "W盛典内场",
+      "onboard_time": 1755603987,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 773209,
@@ -915,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 676416,
+      "num": 283517,
+      "word": "刘雯开毯",
+      "onboard_time": 1755601346,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 676162,
       "num": 676162,
       "word": "苏苏怀孕了",
@@ -961,6 +1009,14 @@
       "onboard_time": 1755513682,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 659690,
+      "num": 268332,
+      "word": "杨幂热巴热聊",
+      "onboard_time": 1755606745,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 655458,
@@ -1267,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 535007,
+      "num": 266187,
+      "word": "宋佳虞书欣牵手",
+      "onboard_time": 1755605845,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 533618,
       "num": 242705,
       "word": "迪丽热巴跟龚俊在说什么",
@@ -1289,14 +1353,6 @@
       "onboard_time": 1755563241,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 529042,
-      "num": 230723,
-      "word": "倪妮太敢穿了",
-      "onboard_time": 1755601704,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 528121,
@@ -1563,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 453697,
-      "num": 196649,
-      "word": "刘雯开毯",
-      "onboard_time": 1755601346,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 451334,
       "num": 266495,
       "word": "音乐博主辟谣梓渝假唱",
@@ -1681,6 +1729,14 @@
       "onboard_time": 1755415881,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 414922,
+      "num": 227309,
+      "word": "周也 女明星带狗正常典范",
+      "onboard_time": 1755605486,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 414164,
@@ -2107,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319979,
+      "num": 319979,
+      "word": "中科院员工出轨女子致其流产已离职",
+      "onboard_time": 1755603808,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318158,
       "num": 362198,
       "word": "孙丞潇189视角拍的金莎",
@@ -2289,6 +2353,14 @@
       "onboard_time": 1755561259,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 288231,
+      "num": 288231,
+      "word": "北京晚霞",
+      "onboard_time": 1755603205,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287890,
@@ -3019,6 +3091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217224,
+      "num": 217224,
+      "word": "孙俪高马尾",
+      "onboard_time": 1755604166,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216713,
       "num": 198824,
       "word": "李若彤被泰国海关质疑年龄",
@@ -3161,14 +3241,6 @@
       "onboard_time": 1755417144,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207511,
-      "num": 200693,
-      "word": "北京晚霞",
-      "onboard_time": 1755603205,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207200,
@@ -3603,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193954,
+      "num": 193954,
+      "word": "王俊凯直播",
+      "onboard_time": 1755606985,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193901,
       "num": 187693,
       "word": "BTS直播",
@@ -3827,6 +3907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187764,
+      "num": 187764,
+      "word": "与晋长安定档",
+      "onboard_time": 1755607225,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187300,
       "num": 187300,
       "word": "续面事件老板修改账号名称",
@@ -3971,6 +4059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181757,
+      "num": 170886,
+      "word": "海南偶遇杨超越海边蹦迪",
+      "onboard_time": 1755606627,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181688,
       "num": 181688,
       "word": "一年一部年代剧",
@@ -4009,6 +4105,14 @@
       "onboard_time": 1755597323,
       "rank": 17,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 180202,
+      "num": 219056,
+      "word": "国乒男单已三人出局",
+      "onboard_time": 1755606205,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 179512,
@@ -4385,6 +4489,14 @@
       "onboard_time": 1755412162,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173191,
+      "num": 170818,
+      "word": "CP自动坐一桌",
+      "onboard_time": 1755605245,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 172446,
@@ -6179,6 +6291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 135040,
+      "num": 170827,
+      "word": "刘骏直播",
+      "onboard_time": 1755605906,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135023,
       "num": 135023,
       "word": "姐姐妹妹抓娃娃开播",
@@ -6441,6 +6561,14 @@
       "onboard_time": 1755358101,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131674,
+      "num": 131674,
+      "word": "钱天一0比3桥本帆乃香",
+      "onboard_time": 1755607047,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 131672,
@@ -7033,6 +7161,14 @@
       "onboard_time": 1755416423,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 121829,
+      "num": 171314,
+      "word": "林诗栋3比0阿萨尔",
+      "onboard_time": 1755607586,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 121711,
@@ -9323,6 +9459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74016,
+      "num": 256594,
+      "word": "3人黄河溺水两遇难者遗体找到",
+      "onboard_time": 1755606686,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73327,
       "num": 158570,
       "word": "洱海走失的12岁自闭症男孩已确认找回",
@@ -9667,6 +9811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58541,
+      "num": 289075,
+      "word": "为什么最近一下班就下雨",
+      "onboard_time": 1755606567,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58394,
       "num": 111278,
       "word": "邓超模仿吴艳妮招牌动作",
@@ -9875,6 +10027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48140,
+      "num": 260814,
+      "word": "零跑汽车首次实现半年度盈利",
+      "onboard_time": 1755601526,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47704,
       "num": 129077,
       "word": "特朗普说在俄罗斯问题上取得重大进展",
@@ -10017,14 +10177,6 @@
       "onboard_time": 1755364818,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 43071,
-      "num": 260814,
-      "word": "零跑汽车首次实现半年度盈利",
-      "onboard_time": 1755601526,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 42995,
@@ -10427,6 +10579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32387,
+      "num": 238368,
+      "word": "打工人下班后的赛博回血仪式",
+      "onboard_time": 1755605066,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31112,
       "num": 207551,
       "word": "林诗栋3比0林文政",
@@ -10449,6 +10609,14 @@
       "onboard_time": 1755601827,
       "rank": 39,
       "category": "艺人,网红"
+    },
+    {
+      "raw_hot": 30245,
+      "num": 170920,
+      "word": "合诗雨高中同学发声",
+      "onboard_time": 1755607345,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 29569,

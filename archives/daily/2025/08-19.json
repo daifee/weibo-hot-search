@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755603485816,
+  "endTime": 1755607891087,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -35,12 +35,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2491062,
+      "num": 2491062,
+      "word": "孙俪 这是热巴的",
+      "onboard_time": 1755604407,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2204793,
       "num": 2204793,
       "word": "建议大家别吃自助旋转小火锅",
       "onboard_time": 1755564682,
       "rank": 0,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 2199739,
+      "num": 405873,
+      "word": "幂迪 仙女夫妇",
+      "onboard_time": 1755606567,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1947982,
@@ -147,6 +163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1162133,
+      "num": 1162133,
+      "word": "W红毯 审美高级",
+      "onboard_time": 1755599546,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1150413,
       "num": 940067,
       "word": "续面事件面馆关门附近商户发声",
@@ -163,11 +187,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1105192,
+      "num": 309356,
+      "word": "周深 太尴尬啦",
+      "onboard_time": 1755605966,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1092579,
       "num": 1174812,
       "word": "明星W盛典造型图",
       "onboard_time": 1755584242,
       "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1035185,
+      "num": 288530,
+      "word": "倪妮太敢穿了",
+      "onboard_time": 1755601704,
+      "rank": 27,
       "category": "作品衍生,时尚"
     },
     {
@@ -211,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 824606,
-      "num": 722721,
-      "word": "W红毯 审美高级",
-      "onboard_time": 1755599546,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 809975,
       "num": 477881,
       "word": "续面事件面馆已被打2.1万条差评",
@@ -241,6 +273,14 @@
       "onboard_time": 1755578664,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 783048,
+      "num": 288263,
+      "word": "W盛典内场",
+      "onboard_time": 1755603987,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 762995,
@@ -297,6 +337,22 @@
       "onboard_time": 1755579023,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 676416,
+      "num": 283517,
+      "word": "刘雯开毯",
+      "onboard_time": 1755601346,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 659690,
+      "num": 268332,
+      "word": "杨幂热巴热聊",
+      "onboard_time": 1755606745,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 635089,
@@ -395,6 +451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 535007,
+      "num": 266187,
+      "word": "宋佳虞书欣牵手",
+      "onboard_time": 1755605845,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 533618,
       "num": 242705,
       "word": "迪丽热巴跟龚俊在说什么",
@@ -409,14 +473,6 @@
       "onboard_time": 1755563241,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 529042,
-      "num": 230723,
-      "word": "倪妮太敢穿了",
-      "onboard_time": 1755601704,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 525099,
@@ -523,14 +579,6 @@
       "category": "舆论监督,网红"
     },
     {
-      "raw_hot": 453697,
-      "num": 196649,
-      "word": "刘雯开毯",
-      "onboard_time": 1755601346,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 443539,
       "num": 390403,
       "word": "那英去前少说话去后说少了",
@@ -544,6 +592,14 @@
       "word": "赵今麦的字",
       "onboard_time": 1755595042,
       "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 414922,
+      "num": 227309,
+      "word": "周也 女明星带狗正常典范",
+      "onboard_time": 1755605486,
+      "rank": 25,
       "category": "作品衍生,时尚"
     },
     {
@@ -659,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319979,
+      "num": 319979,
+      "word": "中科院员工出轨女子致其流产已离职",
+      "onboard_time": 1755603808,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312268,
       "num": 312268,
       "word": "背娃送外卖妈妈称不再嫁人不合法",
@@ -721,6 +785,14 @@
       "onboard_time": 1755561259,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 288231,
+      "num": 288231,
+      "word": "北京晚霞",
+      "onboard_time": 1755603205,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288006,
@@ -947,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217224,
+      "num": 217224,
+      "word": "孙俪高马尾",
+      "onboard_time": 1755604166,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215038,
       "num": 215038,
       "word": "北京双彩虹",
@@ -1008,14 +1088,6 @@
       "word": "男子与儿认亲2年后又一儿子找来",
       "onboard_time": 1755520402,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207511,
-      "num": 200693,
-      "word": "北京晚霞",
-      "onboard_time": 1755603205,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1163,6 +1235,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 193954,
+      "num": 193954,
+      "word": "王俊凯直播",
+      "onboard_time": 1755606985,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193815,
       "num": 193815,
       "word": "老Bin烧烤",
@@ -1219,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187764,
+      "num": 187764,
+      "word": "与晋长安定档",
+      "onboard_time": 1755607225,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187300,
       "num": 187300,
       "word": "续面事件老板修改账号名称",
@@ -1251,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183905,
+      "num": 183905,
+      "word": "子夜归",
+      "onboard_time": 1755566362,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182879,
       "num": 182879,
       "word": "中500w彩票冷知识",
@@ -1267,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181757,
+      "num": 170886,
+      "word": "海南偶遇杨超越海边蹦迪",
+      "onboard_time": 1755606627,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180913,
       "num": 180913,
       "word": "无畏契约手游",
@@ -1281,6 +1385,14 @@
       "onboard_time": 1755597323,
       "rank": 17,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 180202,
+      "num": 219056,
+      "word": "国乒男单已三人出局",
+      "onboard_time": 1755606205,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 179512,
@@ -1353,14 +1465,6 @@
       "onboard_time": 1755595584,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176802,
-      "num": 176802,
-      "word": "子夜归",
-      "onboard_time": 1755566362,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 176650,
@@ -1443,12 +1547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173191,
+      "num": 170818,
+      "word": "CP自动坐一桌",
+      "onboard_time": 1755605245,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 172446,
       "num": 172446,
       "word": "小米二季度净利润108亿",
       "onboard_time": 1755599006,
       "rank": 34,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 171567,
+      "num": 170750,
+      "word": "生万物",
+      "onboard_time": 1755527244,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 171038,
@@ -1585,14 +1705,6 @@
       "onboard_time": 1755574402,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157814,
-      "num": 157814,
-      "word": "生万物",
-      "onboard_time": 1755527244,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 157266,
@@ -1971,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135040,
+      "num": 170827,
+      "word": "刘骏直播",
+      "onboard_time": 1755605906,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135023,
       "num": 135023,
       "word": "姐姐妹妹抓娃娃开播",
@@ -2017,6 +2137,14 @@
       "onboard_time": 1755577643,
       "rank": 43,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 131674,
+      "num": 131674,
+      "word": "钱天一0比3桥本帆乃香",
+      "onboard_time": 1755607047,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 131439,
@@ -2185,6 +2313,14 @@
       "onboard_time": 1755531502,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 121829,
+      "num": 171314,
+      "word": "林诗栋3比0阿萨尔",
+      "onboard_time": 1755607586,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 121266,
@@ -2827,6 +2963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74016,
+      "num": 256594,
+      "word": "3人黄河溺水两遇难者遗体找到",
+      "onboard_time": 1755606686,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73690,
       "num": 73690,
       "word": "男子被女友骗至缅甸电诈园被打尿血",
@@ -2955,6 +3099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 58541,
+      "num": 289075,
+      "word": "为什么最近一下班就下雨",
+      "onboard_time": 1755606567,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58394,
       "num": 111278,
       "word": "邓超模仿吴艳妮招牌动作",
@@ -3035,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48140,
+      "num": 260814,
+      "word": "零跑汽车首次实现半年度盈利",
+      "onboard_time": 1755601526,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44921,
       "num": 239434,
       "word": "陈可辛每一帧都是S级的",
@@ -3073,14 +3233,6 @@
       "onboard_time": 1755537257,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43071,
-      "num": 260814,
-      "word": "零跑汽车首次实现半年度盈利",
-      "onboard_time": 1755601526,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 42199,
@@ -3179,12 +3331,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32387,
+      "num": 238368,
+      "word": "打工人下班后的赛博回血仪式",
+      "onboard_time": 1755605066,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30377,
       "num": 149066,
       "word": "大冰回应不认识单依纯",
       "onboard_time": 1755601827,
       "rank": 39,
       "category": "艺人,网红"
+    },
+    {
+      "raw_hot": 30245,
+      "num": 170920,
+      "word": "合诗雨高中同学发声",
+      "onboard_time": 1755607345,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 29569,

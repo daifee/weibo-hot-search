@@ -1,0 +1,410 @@
+{
+  "runTime": 1755607891087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2491062,
+        "num": 2491062,
+        "word": "孙俪 这是热巴的",
+        "onboard_time": 1755604407,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1162133,
+        "num": 1162133,
+        "word": "W红毯 审美高级",
+        "onboard_time": 1755599546,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 7806,
+        "num": 415304,
+        "word": "十四五体育强国建设成就",
+        "onboard_time": 1755575662,
+        "rank": 2,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 2199739,
+        "num": 405873,
+        "word": "幂迪 仙女夫妇",
+        "onboard_time": 1755606567,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 372383,
+        "num": 372383,
+        "word": "闵塔鲨我们和好吧",
+        "onboard_time": 1755598286,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 319979,
+        "num": 319979,
+        "word": "中科院员工出轨女子致其流产已离职",
+        "onboard_time": 1755603808,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1105192,
+        "num": 309356,
+        "word": "周深 太尴尬啦",
+        "onboard_time": 1755605966,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 290386,
+        "num": 290386,
+        "word": "阳光玫瑰 没有葡萄味",
+        "onboard_time": 1755593303,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289330,
+        "num": 289330,
+        "word": "我让你删的文件你怎么删了",
+        "onboard_time": 1755598346,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58541,
+        "num": 289075,
+        "word": "为什么最近一下班就下雨",
+        "onboard_time": 1755606567,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7343811,
+        "num": 7343811,
+        "word": "迪丽热巴 主人级别",
+        "onboard_time": 1755597624,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1035185,
+        "num": 288530,
+        "word": "倪妮太敢穿了",
+        "onboard_time": 1755601704,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 783048,
+        "num": 288263,
+        "word": "W盛典内场",
+        "onboard_time": 1755603987,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 288231,
+        "num": 288231,
+        "word": "北京晚霞",
+        "onboard_time": 1755603205,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676416,
+        "num": 283517,
+        "word": "刘雯开毯",
+        "onboard_time": 1755601346,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 659690,
+        "num": 268332,
+        "word": "杨幂热巴热聊",
+        "onboard_time": 1755606745,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 535007,
+        "num": 266187,
+        "word": "宋佳虞书欣牵手",
+        "onboard_time": 1755605845,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 74016,
+        "num": 256594,
+        "word": "3人黄河溺水两遇难者遗体找到",
+        "onboard_time": 1755606686,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32387,
+        "num": 238368,
+        "word": "打工人下班后的赛博回血仪式",
+        "onboard_time": 1755605066,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235894,
+        "num": 235894,
+        "word": "每天只睡6小时身体的变化",
+        "onboard_time": 1755596063,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1674778,
+        "num": 234525,
+        "word": "杨幂 地母",
+        "onboard_time": 1755593903,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 559065,
+        "num": 233291,
+        "word": "W盛典红毯",
+        "onboard_time": 1755597203,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 486537,
+        "num": 231068,
+        "word": "倪妮背布洛芬走红毯",
+        "onboard_time": 1755600986,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 468285,
+        "num": 230800,
+        "word": "刘诗诗 红发郁金香",
+        "onboard_time": 1755600144,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 437675,
+        "num": 229056,
+        "word": "迪丽热巴跟龚俊在说什么",
+        "onboard_time": 1755602486,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414922,
+        "num": 227309,
+        "word": "周也 女明星带狗正常典范",
+        "onboard_time": 1755605486,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 396536,
+        "num": 225363,
+        "word": "唐嫣 花神降临",
+        "onboard_time": 1755593842,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 377936,
+        "num": 222851,
+        "word": "刘浩存 翡翠塑",
+        "onboard_time": 1755600805,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283312,
+        "num": 221583,
+        "word": "虞书欣W盛典公主裙",
+        "onboard_time": 1755584842,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180202,
+        "num": 219056,
+        "word": "国乒男单已三人出局",
+        "onboard_time": 1755606205,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240571,
+        "num": 218510,
+        "word": "红毯没有王法 只有热巴的想法",
+        "onboard_time": 1755599905,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217224,
+        "num": 217224,
+        "word": "孙俪高马尾",
+        "onboard_time": 1755604166,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213432,
+        "num": 213432,
+        "word": "白敬亭第一个出场",
+        "onboard_time": 1755600206,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193954,
+        "num": 193954,
+        "word": "王俊凯直播",
+        "onboard_time": 1755606985,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189215,
+        "num": 189215,
+        "word": "W盛典 CP复活",
+        "onboard_time": 1755601827,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187764,
+        "num": 187764,
+        "word": "与晋长安定档",
+        "onboard_time": 1755607225,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183905,
+        "num": 183905,
+        "word": "子夜归",
+        "onboard_time": 1755606925,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121829,
+        "num": 171314,
+        "word": "林诗栋3比0阿萨尔",
+        "onboard_time": 1755607586,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170963,
+        "num": 170963,
+        "word": "梁靖崑0比3拉森福斯",
+        "onboard_time": 1755602065,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30245,
+        "num": 170920,
+        "word": "合诗雨高中同学发声",
+        "onboard_time": 1755607345,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181757,
+        "num": 170886,
+        "word": "海南偶遇杨超越海边蹦迪",
+        "onboard_time": 1755606627,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135040,
+        "num": 170827,
+        "word": "刘骏直播",
+        "onboard_time": 1755605906,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173191,
+        "num": 170818,
+        "word": "CP自动坐一桌",
+        "onboard_time": 1755605245,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171567,
+        "num": 170750,
+        "word": "生万物",
+        "onboard_time": 1755606806,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170725,
+        "num": 170725,
+        "word": "明星W盛典造型图",
+        "onboard_time": 1755584242,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143945,
+        "num": 143945,
+        "word": "安居乐烨",
+        "onboard_time": 1755603325,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141670,
+        "num": 141670,
+        "word": "一箭7星成功发射",
+        "onboard_time": 1755599066,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139672,
+        "num": 139672,
+        "word": "合诗雨 我不演了爱谁谁吧",
+        "onboard_time": 1755597808,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131674,
+        "num": 131674,
+        "word": "钱天一0比3桥本帆乃香",
+        "onboard_time": 1755607047,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48140,
+        "num": 130987,
+        "word": "零跑汽车首次实现半年度盈利",
+        "onboard_time": 1755601526,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#描绘新时代西藏发展新画卷#"
+    }
+  }
+}
