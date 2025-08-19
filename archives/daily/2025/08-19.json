@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755610585263,
+  "endTime": 1755611259418,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -9,6 +9,14 @@
       "onboard_time": 1755597624,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3512688,
+      "num": 3512688,
+      "word": "迪丽热巴第二套",
+      "onboard_time": 1755609866,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 3355386,
@@ -59,19 +67,19 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 2201225,
-      "num": 2201225,
-      "word": "迪丽热巴第二套",
-      "onboard_time": 1755609866,
-      "rank": 0,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1947982,
       "num": 387011,
       "word": "迪丽热巴大光明盘发",
       "onboard_time": 1755595403,
       "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1810747,
+      "num": 330373,
+      "word": "W盛典内场",
+      "onboard_time": 1755603987,
+      "rank": 12,
       "category": "作品衍生,时尚"
     },
     {
@@ -81,14 +89,6 @@
       "onboard_time": 1755576203,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1739583,
-      "num": 325243,
-      "word": "W盛典内场",
-      "onboard_time": 1755603987,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1517548,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1434705,
-      "num": 261168,
+      "num": 278599,
       "word": "赵今麦给热巴飞吻",
       "onboard_time": 1755607946,
       "rank": 15,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1035185,
-      "num": 288530,
+      "num": 306905,
       "word": "倪妮太敢穿了",
       "onboard_time": 1755601704,
       "rank": 27,
@@ -331,6 +331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 735988,
+      "num": 303482,
+      "word": "虞书欣取悦姐姐们像呼吸一样简单",
+      "onboard_time": 1755608785,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 713198,
       "num": 713198,
       "word": "光遇",
@@ -345,14 +353,6 @@
       "onboard_time": 1755566181,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 690003,
-      "num": 260387,
-      "word": "虞书欣取悦姐姐们像呼吸一样简单",
-      "onboard_time": 1755608785,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 678185,
@@ -675,12 +675,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 399436,
+      "num": 399436,
+      "word": "中科院员工出轨女子致其流产已离职",
+      "onboard_time": 1755603808,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397262,
       "num": 397262,
       "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
       "onboard_time": 1755590722,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387658,
+      "num": 225175,
+      "word": "梓渝cha刀马刀马",
+      "onboard_time": 1755610107,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 383252,
@@ -721,14 +737,6 @@
       "onboard_time": 1755569480,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 335917,
-      "num": 335917,
-      "word": "中科院员工出轨女子致其流产已离职",
-      "onboard_time": 1755603808,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 335156,
@@ -793,6 +801,14 @@
       "onboard_time": 1755570862,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303922,
+      "num": 203239,
+      "word": "柳智敏 宝格丽",
+      "onboard_time": 1755610286,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 302192,
@@ -923,12 +939,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 255290,
+      "num": 216428,
+      "word": "生万物",
+      "onboard_time": 1755527244,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251045,
       "num": 251045,
       "word": "iPhone17e价格",
       "onboard_time": 1755599006,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 248599,
+      "num": 248599,
+      "word": "何卓佳挑战蒯曼发球成功",
+      "onboard_time": 1755610766,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 248009,
@@ -1035,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225175,
-      "num": 225175,
-      "word": "梓渝cha刀马刀马",
-      "onboard_time": 1755610107,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 223511,
       "num": 184453,
       "word": "田曦薇 王安宇就是最破碎的人",
@@ -1075,14 +1099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216428,
-      "num": 216428,
-      "word": "生万物",
-      "onboard_time": 1755527244,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215038,
       "num": 215038,
       "word": "北京双彩虹",
@@ -1096,6 +1112,14 @@
       "word": "林允 就喜欢假假的自己",
       "onboard_time": 1755593423,
       "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 214385,
+      "num": 203143,
+      "word": "龚俊帅的不知天地为何物了",
+      "onboard_time": 1755611006,
+      "rank": 39,
       "category": "作品衍生,时尚"
     },
     {
@@ -1163,6 +1187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205959,
+      "num": 203138,
+      "word": "热巴这个回眸",
+      "onboard_time": 1755610886,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 205215,
       "num": 205215,
       "word": "余宇涵和库里握手了",
@@ -1193,6 +1225,22 @@
       "onboard_time": 1755603083,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 203125,
+      "num": 203125,
+      "word": "内娱百花齐放",
+      "onboard_time": 1755608125,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 202624,
+      "num": 316194,
+      "word": "韩国第一夫人为李在明买睡衣",
+      "onboard_time": 1755609925,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 201902,
@@ -1243,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198878,
-      "num": 198878,
-      "word": "内娱百花齐放",
-      "onboard_time": 1755608125,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 198481,
       "num": 198481,
       "word": "管乐谈和前任分手原因",
@@ -1273,14 +1313,6 @@
       "onboard_time": 1755588022,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197776,
-      "num": 197776,
-      "word": "柳智敏 宝格丽",
-      "onboard_time": 1755610286,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197766,
@@ -1379,12 +1411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188095,
+      "num": 188095,
+      "word": "2集亲2次告白4次",
+      "onboard_time": 1755609266,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187764,
       "num": 187764,
       "word": "与晋长安定档",
       "onboard_time": 1755607225,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187613,
+      "num": 321973,
+      "word": "日军罪行时隔85年完整曝光",
+      "onboard_time": 1755609625,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 187300,
@@ -1401,14 +1449,6 @@
       "onboard_time": 1755585141,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186378,
-      "num": 259615,
-      "word": "日军罪行时隔85年完整曝光",
-      "onboard_time": 1755609625,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 186347,
@@ -1691,20 +1731,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168311,
-      "num": 168311,
-      "word": "2集亲2次告白4次",
-      "onboard_time": 1755609266,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167290,
       "num": 277189,
       "word": "人民日报专访胖东来董事长于东来",
       "onboard_time": 1755569300,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165840,
+      "num": 165840,
+      "word": "Hang MVP",
+      "onboard_time": 1755610766,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 165402,
@@ -1732,7 +1772,7 @@
     },
     {
       "raw_hot": 164152,
-      "num": 200142,
+      "num": 203327,
       "word": "我国一次送上太空7颗卫星",
       "onboard_time": 1755594862,
       "rank": 29,
@@ -2347,14 +2387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125816,
-      "num": 258724,
-      "word": "韩国第一夫人为李在明买睡衣",
-      "onboard_time": 1755609925,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 125731,
       "num": 125731,
       "word": "王栎鑫张远你俩在干什么",
@@ -2457,6 +2489,14 @@
       "onboard_time": 1755607586,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121375,
+      "num": 243604,
+      "word": "胖东来这样定义企业和员工的关系",
+      "onboard_time": 1755609266,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121266,
@@ -2729,14 +2769,6 @@
       "onboard_time": 1755584542,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108616,
-      "num": 243604,
-      "word": "胖东来这样定义企业和员工的关系",
-      "onboard_time": 1755609266,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108554,
@@ -3673,6 +3705,14 @@
       "onboard_time": 1755587782,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1058,
+      "num": 467635,
+      "word": "闪光60年 致亲爱的西藏",
+      "onboard_time": 1755522923,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -3684,6 +3724,9 @@
     },
     {
       "word": "#描绘新时代西藏发展新画卷#"
+    },
+    {
+      "word": "#西藏工作关系党和国家工作大局#"
     }
   ]
 }
