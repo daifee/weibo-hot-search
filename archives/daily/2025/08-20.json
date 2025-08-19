@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755643316839,
+  "endTime": 1755645863008,
   "band_list": [
     {
       "raw_hot": 1375053,
@@ -19,6 +19,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 842274,
+      "num": 850198,
+      "word": "黑神话",
+      "onboard_time": 1755636554,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 838766,
       "num": 838766,
       "word": "女生在公司用微波炉加热速冻饺子",
@@ -35,12 +43,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 573760,
-      "num": 573760,
-      "word": "黑神话",
-      "onboard_time": 1755636554,
-      "rank": 0,
-      "category": "游戏"
+      "raw_hot": 521673,
+      "num": 521673,
+      "word": "王晶称很多明星爆火都是资本做局",
+      "onboard_time": 1755629296,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 497961,
@@ -51,20 +59,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 400913,
+      "num": 400913,
+      "word": "每天只睡6小时身体的变化",
+      "onboard_time": 1755596063,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 385001,
       "num": 385001,
       "word": "杨超越700度近视",
       "onboard_time": 1755619702,
       "rank": 16,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 376870,
-      "num": 376870,
-      "word": "每天只睡6小时身体的变化",
-      "onboard_time": 1755596063,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 367428,
@@ -89,6 +97,14 @@
       "onboard_time": 1755616584,
       "rank": 7,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 349597,
+      "num": 349597,
+      "word": "一轮游已成为国乒男队常态",
+      "onboard_time": 1755618742,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 310526,
@@ -139,28 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289585,
-      "num": 289585,
-      "word": "一轮游已成为国乒男队常态",
-      "onboard_time": 1755618742,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 276162,
-      "num": 276162,
-      "word": "王晶称很多明星爆火都是资本做局",
-      "onboard_time": 1755629296,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258706,
       "num": 299382,
       "word": "释永信给全国佛教界抹黑",
       "onboard_time": 1755615205,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225164,
+      "num": 225164,
+      "word": "泽连斯基55秒开场白说了8次谢谢",
+      "onboard_time": 1755636013,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223148,
@@ -195,12 +203,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196100,
+      "num": 153638,
+      "word": "任重一家与王阳一家度假",
+      "onboard_time": 1755618923,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192497,
       "num": 192497,
       "word": "胡先煦方律师声明",
       "onboard_time": 1755616164,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189771,
+      "num": 86999,
+      "word": "检验睡没睡够的金标准",
+      "onboard_time": 1755645558,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185999,
@@ -211,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184422,
+      "num": 141097,
+      "word": "男子在离婚冷静期毒杀一双儿女",
+      "onboard_time": 1755613526,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168821,
       "num": 136326,
       "word": "W盛典内场",
@@ -219,20 +251,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 154384,
-      "num": 141097,
-      "word": "男子在离婚冷静期毒杀一双儿女",
-      "onboard_time": 1755613526,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139296,
-      "num": 139296,
-      "word": "任重一家与王阳一家度假",
-      "onboard_time": 1755618923,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 147347,
+      "num": 147347,
+      "word": "韩国第一夫人为李在明买睡衣",
+      "onboard_time": 1755609925,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136676,
@@ -251,6 +275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 133332,
+      "num": 133332,
+      "word": "宋佳演我嗑井柏然刘雯",
+      "onboard_time": 1755645319,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 130318,
       "num": 130318,
       "word": "马嘉祺背头",
@@ -259,20 +291,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127227,
-      "num": 145014,
-      "word": "韩国第一夫人为李在明买睡衣",
-      "onboard_time": 1755609925,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 128774,
+      "num": 116063,
+      "word": "中科院员工出轨女子致其流产已离职",
+      "onboard_time": 1755603808,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 124591,
-      "num": 124591,
-      "word": "泽连斯基55秒开场白说了8次谢谢",
-      "onboard_time": 1755636013,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 117358,
+      "num": 117358,
+      "word": "孙俪喊杨幂绣绣",
+      "onboard_time": 1755645199,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 115897,
@@ -291,12 +323,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 114093,
+      "num": 114093,
+      "word": "倪妮 下身基础上身就不基础",
+      "onboard_time": 1755624620,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 113399,
       "num": 134389,
       "word": "日军罪行时隔85年完整曝光",
       "onboard_time": 1755609625,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113295,
+      "num": 113295,
+      "word": "冯骥杨奇谈黑神话钟馗",
+      "onboard_time": 1755645379,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 112627,
@@ -355,14 +403,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 91758,
-      "num": 91758,
-      "word": "倪妮 下身基础上身就不基础",
-      "onboard_time": 1755624620,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 88932,
       "num": 116753,
       "word": "梓渝cha刀马刀马",
@@ -385,6 +425,14 @@
       "onboard_time": 1755617783,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 82803,
+      "num": 82803,
+      "word": "大学室友不联系了还随礼吗",
+      "onboard_time": 1755645079,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 82623,
@@ -419,20 +467,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72236,
-      "num": 116063,
-      "word": "中科院员工出轨女子致其流产已离职",
-      "onboard_time": 1755603808,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69015,
       "num": 127053,
       "word": "中国足协杯",
       "onboard_time": 1755623598,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65704,
+      "num": 65704,
+      "word": "摆摊月入4K小孩哥自研20多种新品",
+      "onboard_time": 1755616346,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65405,
+      "num": 65405,
+      "word": "学校回应20岁女留学生遭诈骗自杀",
+      "onboard_time": 1755630435,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63152,
@@ -459,6 +515,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51834,
+      "num": 51834,
+      "word": "王曼昱vs迪亚兹",
+      "onboard_time": 1755645799,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50682,
+      "num": 50682,
+      "word": "九三阅兵准备工作答记者问",
+      "onboard_time": 1755645739,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 49330,
+      "num": 49330,
+      "word": "檀健次黑色蕾丝内搭",
+      "onboard_time": 1755629954,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 45620,
       "num": 116396,
       "word": "白敬亭第一个出场",
@@ -475,20 +555,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 43260,
+      "num": 43260,
+      "word": "浪姐团综 团魂这一刻具像化了",
+      "onboard_time": 1755644359,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42432,
       "num": 96113,
       "word": "科隆黑神话之夜直播",
       "onboard_time": 1755619103,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 41562,
-      "num": 41562,
-      "word": "摆摊月入4K小孩哥自研20多种新品",
-      "onboard_time": 1755616346,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40995,
@@ -499,6 +579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 40802,
+      "num": 40802,
+      "word": "导演谈藏海传为什么会火",
+      "onboard_time": 1755637815,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40071,
       "num": 115538,
       "word": "大司命的舞感",
@@ -507,28 +595,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39350,
-      "num": 39350,
-      "word": "学校回应20岁女留学生遭诈骗自杀",
-      "onboard_time": 1755630435,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35309,
       "num": 65254,
       "word": "孙俪状态满40减20",
       "onboard_time": 1755625037,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31410,
-      "num": 38728,
-      "word": "导演谈藏海传为什么会火",
-      "onboard_time": 1755637815,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 27181,
@@ -563,14 +635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23071,
-      "num": 38709,
-      "word": "檀健次黑色蕾丝内搭",
-      "onboard_time": 1755629954,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 17719,
       "num": 25334,
       "word": "张杰 主包什么时候学的新疆舞",
@@ -596,7 +660,7 @@
     },
     {
       "raw_hot": 1917,
-      "num": 444742,
+      "num": 549826,
       "word": "闪光60年 致亲爱的西藏",
       "onboard_time": 1755522923,
       "rank": 2,
