@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755642298585,
+  "endTime": 1755643316839,
   "band_list": [
     {
       "raw_hot": 1375053,
@@ -35,20 +35,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 573760,
+      "num": 573760,
+      "word": "黑神话",
+      "onboard_time": 1755636554,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 497961,
       "num": 362735,
       "word": "孙俪 这是热巴的",
       "onboard_time": 1755604407,
       "rank": 5,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 448357,
-      "num": 448357,
-      "word": "黑神话",
-      "onboard_time": 1755636554,
-      "rank": 0,
-      "category": "游戏"
     },
     {
       "raw_hot": 385001,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276162,
+      "num": 276162,
+      "word": "王晶称很多明星爆火都是资本做局",
+      "onboard_time": 1755629296,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258706,
       "num": 299382,
       "word": "释永信给全国佛教界抹黑",
@@ -161,14 +169,6 @@
       "onboard_time": 1755611906,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214110,
-      "num": 214110,
-      "word": "王晶称很多明星爆火都是资本做局",
-      "onboard_time": 1755629296,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 209208,
@@ -267,20 +267,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124591,
+      "num": 124591,
+      "word": "泽连斯基55秒开场白说了8次谢谢",
+      "onboard_time": 1755636013,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115897,
       "num": 117496,
       "word": "易烊千玺窦靖童合照",
       "onboard_time": 1755616346,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115298,
-      "num": 115298,
-      "word": "泽连斯基55秒开场白说了8次谢谢",
-      "onboard_time": 1755636013,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115127,
@@ -355,6 +355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 91758,
+      "num": 91758,
+      "word": "倪妮 下身基础上身就不基础",
+      "onboard_time": 1755624620,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 88932,
       "num": 116753,
       "word": "梓渝cha刀马刀马",
@@ -385,14 +393,6 @@
       "onboard_time": 1755618865,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79178,
-      "num": 69476,
-      "word": "倪妮 下身基础上身就不基础",
-      "onboard_time": 1755624620,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 77319,
@@ -483,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41562,
+      "num": 41562,
+      "word": "摆摊月入4K小孩哥自研20多种新品",
+      "onboard_time": 1755616346,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40995,
       "num": 115758,
       "word": "宋佳虞书欣牵手",
@@ -499,7 +507,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33963,
+      "raw_hot": 39350,
+      "num": 39350,
+      "word": "学校回应20岁女留学生遭诈骗自杀",
+      "onboard_time": 1755630435,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35309,
       "num": 65254,
       "word": "孙俪状态满40减20",
       "onboard_time": 1755625037,
@@ -507,20 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31988,
-      "num": 31988,
-      "word": "学校回应20岁女留学生遭诈骗自杀",
-      "onboard_time": 1755630435,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29817,
-      "num": 29817,
-      "word": "摆摊月入4K小孩哥自研20多种新品",
-      "onboard_time": 1755616346,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 31410,
+      "num": 38728,
+      "word": "导演谈藏海传为什么会火",
+      "onboard_time": 1755637815,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 27181,
@@ -539,16 +547,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 26483,
-      "num": 26483,
-      "word": "导演谈藏海传为什么会火",
-      "onboard_time": 1755637815,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 25290,
-      "num": 25363,
+      "raw_hot": 26251,
+      "num": 38709,
       "word": "杨幂姚晨倪大红受害者同框",
       "onboard_time": 1755634154,
       "rank": 45,
@@ -563,8 +563,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 18771,
-      "num": 27714,
+      "raw_hot": 23071,
+      "num": 38709,
       "word": "檀健次黑色蕾丝内搭",
       "onboard_time": 1755629954,
       "rank": 41,
