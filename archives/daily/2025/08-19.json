@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755578692441,
+  "endTime": 1755581165016,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1213058,
+      "raw_hot": 1240822,
       "num": 498020,
       "word": "张元英汗毛",
       "onboard_time": 1755576683,
@@ -75,8 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 795211,
-      "num": 795211,
+      "raw_hot": 804638,
+      "num": 804638,
       "word": "上海一主理人新店开业当天即闭店",
       "onboard_time": 1755574221,
       "rank": 38,
@@ -105,6 +105,22 @@
       "onboard_time": 1755566181,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 678185,
+      "num": 431226,
+      "word": "我们的明天 翻唱",
+      "onboard_time": 1755579023,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 580647,
+      "num": 423342,
+      "word": "网传镖人女主换陈丽君补拍",
+      "onboard_time": 1755578722,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 564495,
@@ -179,10 +195,26 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 443539,
+      "num": 390403,
+      "word": "那英去前少说话去后说少了",
+      "onboard_time": 1755575782,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412819,
       "num": 311291,
       "word": "网传学生强奸虐杀猫不实",
       "onboard_time": 1755557958,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406285,
+      "num": 406285,
+      "word": "山东失联大学生通话录音曝光",
+      "onboard_time": 1755578542,
       "rank": 30,
       "category": "民生新闻"
     },
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 321210,
-      "num": 389205,
+      "num": 409493,
       "word": "三伏天正式结束",
       "onboard_time": 1755561139,
       "rank": 7,
@@ -241,6 +273,14 @@
       "onboard_time": 1755563302,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307647,
+      "num": 307647,
+      "word": "张维伊叫小酒窝窝子",
+      "onboard_time": 1755580522,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 305529,
@@ -323,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258725,
+      "num": 200813,
+      "word": "镖人 陈丽君",
+      "onboard_time": 1755579023,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 257990,
       "num": 257990,
       "word": "迪丽热巴出发W盛典机场路透",
@@ -337,6 +385,14 @@
       "onboard_time": 1755572661,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 240856,
+      "num": 240856,
+      "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
+      "onboard_time": 1755578664,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239082,
@@ -371,15 +427,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217517,
-      "num": 217517,
-      "word": "归队定档",
-      "onboard_time": 1755575122,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 216641,
+      "raw_hot": 226734,
       "num": 216641,
       "word": "滕泽文上线",
       "onboard_time": 1755578122,
@@ -387,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214263,
-      "num": 214263,
-      "word": "那英去前少说话去后说少了",
-      "onboard_time": 1755575782,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 217517,
+      "num": 217517,
+      "word": "归队定档",
+      "onboard_time": 1755575122,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 212938,
@@ -499,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180913,
+      "num": 180913,
+      "word": "无畏契约手游",
+      "onboard_time": 1755580642,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179512,
       "num": 179512,
       "word": "广电总局改进电视剧内容审查工作",
       "onboard_time": 1755568282,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178320,
+      "num": 178320,
+      "word": "怎么因为啥喜欢肖战的人都有",
+      "onboard_time": 1755578182,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 178042,
@@ -603,6 +667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 159752,
+      "num": 159752,
+      "word": "当成年人视角再看家有儿女",
+      "onboard_time": 1755580042,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158318,
       "num": 151141,
       "word": "狗狗太可爱导致主人把牙咬碎",
@@ -651,6 +723,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 146655,
+      "num": 146655,
+      "word": "恋与制作人",
+      "onboard_time": 1755580883,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145821,
       "num": 145821,
       "word": "iPhone C口隐藏用法",
@@ -667,12 +747,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145261,
+      "num": 154699,
+      "word": "特朗普中断多边会晤致电普京",
+      "onboard_time": 1755565642,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144826,
       "num": 144826,
       "word": "这才是观众想看的大女主",
       "onboard_time": 1755572661,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144725,
+      "num": 144725,
+      "word": "警方通报妈妈离世男童相伴遗体数日",
+      "onboard_time": 1755580582,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143627,
@@ -697,14 +793,6 @@
       "onboard_time": 1755563241,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141953,
-      "num": 154699,
-      "word": "特朗普中断多边会晤致电普京",
-      "onboard_time": 1755565642,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141887,
@@ -761,6 +849,14 @@
       "onboard_time": 1755574881,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136345,
+      "num": 136345,
+      "word": "为了讨好父母假装男孩",
+      "onboard_time": 1755580342,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 135023,
@@ -955,12 +1051,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112568,
-      "num": 155986,
-      "word": "山东失联大学生通话录音曝光",
-      "onboard_time": 1755578542,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 112849,
+      "num": 112849,
+      "word": "李沁盘发插花",
+      "onboard_time": 1755579981,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 111780,
@@ -987,12 +1083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110544,
+      "num": 110544,
+      "word": "苏苏替绣绣出头",
+      "onboard_time": 1755579322,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "子夜归 李沛恩",
       "onboard_time": 1755517761,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110296,
+      "num": 110296,
+      "word": "心动的信号8",
+      "onboard_time": 1755580883,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 109268,
@@ -1043,6 +1155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102218,
+      "num": 102218,
+      "word": "我欣赏迪丽热巴的原因",
+      "onboard_time": 1755581061,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101481,
+      "num": 102599,
+      "word": "时团演唱会线上蹦迪倒计时",
+      "onboard_time": 1755579862,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100015,
       "num": 100015,
       "word": "法拍狸花猫未经寄养人许可不得拍摄",
@@ -1065,14 +1193,6 @@
       "onboard_time": 1755512242,
       "rank": 33,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 94066,
-      "num": 135478,
-      "word": "怎么因为啥喜欢肖战的人都有",
-      "onboard_time": 1755578182,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 93254,
@@ -1115,11 +1235,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89157,
-      "num": 136766,
-      "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
-      "onboard_time": 1755578664,
-      "rank": 37,
+      "raw_hot": 89016,
+      "num": 102219,
+      "word": "外卖员闪婚美籍幼师",
+      "onboard_time": 1755579922,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1184,6 +1304,14 @@
       "word": "院方回应女子被误诊绝症服药3月",
       "onboard_time": 1755535338,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79356,
+      "num": 102253,
+      "word": "停电后女子发现灯泡内藏摄像头",
+      "onboard_time": 1755579682,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1291,12 +1419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64825,
+      "num": 110682,
+      "word": "方媛三胎近照",
+      "onboard_time": 1755580582,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63868,
       "num": 63868,
       "word": "王皓 上岸先斩意中人",
       "onboard_time": 1755495981,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63775,
+      "num": 468077,
+      "word": "肖战手捧玫瑰神级镜头",
+      "onboard_time": 1755576203,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 62676,
@@ -1355,20 +1499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43709,
-      "num": 468077,
-      "word": "肖战手捧玫瑰神级镜头",
-      "onboard_time": 1755576203,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43383,
       "num": 43383,
       "word": "绣绣真的好勇敢",
       "onboard_time": 1755537257,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42331,
+      "num": 111278,
+      "word": "邓超模仿吴艳妮招牌动作",
+      "onboard_time": 1755581122,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 42199,
