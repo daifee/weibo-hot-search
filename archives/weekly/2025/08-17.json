@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755613591166,
+  "endTime": 1755614702917,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2230644,
-      "num": 553189,
+      "num": 1010483,
       "word": "幂迪 仙女夫妇",
       "onboard_time": 1755606567,
       "rank": 3,
@@ -939,6 +939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 689055,
+      "num": 371031,
+      "word": "柳智敏 宝格丽",
+      "onboard_time": 1755610286,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 686137,
       "num": 686137,
       "word": "iPhone一定要关掉的6个设置",
@@ -1267,14 +1275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 561171,
-      "num": 371031,
-      "word": "柳智敏 宝格丽",
-      "onboard_time": 1755610286,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 559756,
       "num": 372672,
       "word": "梓渝话筒颜色换了",
@@ -1393,6 +1393,14 @@
       "onboard_time": 1755404061,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527219,
+      "num": 326005,
+      "word": "生万物一飙之下",
+      "onboard_time": 1755611906,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 525099,
@@ -1995,14 +2003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364093,
-      "num": 270718,
-      "word": "生万物一飙之下",
-      "onboard_time": 1755611906,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 363194,
       "num": 363194,
       "word": "中国男篮想证明自己",
@@ -2475,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285926,
+      "num": 390383,
+      "word": "何卓佳挑战蒯曼发球成功",
+      "onboard_time": 1755610766,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285700,
       "num": 277877,
       "word": "iPhone17Pro放弃钛金属原因",
@@ -2491,20 +2499,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 285204,
-      "num": 390383,
-      "word": "何卓佳挑战蒯曼发球成功",
-      "onboard_time": 1755610766,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285139,
       "num": 285139,
       "word": "恋与深空",
       "onboard_time": 1755494482,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284638,
+      "num": 385892,
+      "word": "日军罪行时隔85年完整曝光",
+      "onboard_time": 1755609625,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 284137,
@@ -2667,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261453,
+      "num": 261453,
+      "word": "男子在离婚冷静期毒杀一双儿女",
+      "onboard_time": 1755613526,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260487,
       "num": 260487,
       "word": "TOP登陆少年体重",
@@ -2728,6 +2744,14 @@
       "word": "今年第一爆是哪部剧",
       "onboard_time": 1755475701,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 251155,
+      "num": 251155,
+      "word": "生万物收视率破4",
+      "onboard_time": 1755613346,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2819,12 +2843,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 244021,
-      "num": 385892,
-      "word": "日军罪行时隔85年完整曝光",
-      "onboard_time": 1755609625,
-      "rank": 16,
-      "category": "国内时政"
+      "raw_hot": 247539,
+      "num": 247539,
+      "word": "翟潇闻 不用了吧",
+      "onboard_time": 1755614067,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 244017,
@@ -3275,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212712,
+      "num": 305705,
+      "word": "续面事件老板回应曾拖欠厨师工资",
+      "onboard_time": 1755611488,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212181,
       "num": 245820,
       "word": "Baolan谈Elk亮小丑",
@@ -3345,6 +3377,14 @@
       "onboard_time": 1755595883,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208890,
+      "num": 208890,
+      "word": "银子好惨",
+      "onboard_time": 1755613827,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 208626,
@@ -3425,14 +3465,6 @@
       "onboard_time": 1755422783,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204427,
-      "num": 204427,
-      "word": "生万物收视率破4",
-      "onboard_time": 1755613346,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 204275,
@@ -4979,6 +5011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164783,
+      "num": 259136,
+      "word": "足协杯",
+      "onboard_time": 1755614486,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164679,
       "num": 164679,
       "word": "等枝桠成繁花",
@@ -5539,14 +5579,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 151153,
-      "num": 278841,
-      "word": "续面事件老板回应曾拖欠厨师工资",
-      "onboard_time": 1755611488,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151070,
       "num": 151070,
       "word": "撒贝宁 原来央视主持人现实中长这样",
@@ -5784,6 +5816,14 @@
       "word": "张凌赫王楚然鼻炎受害者联盟",
       "onboard_time": 1755409822,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147071,
+      "num": 147071,
+      "word": "露露什么时候下线",
+      "onboard_time": 1755614186,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -7099,6 +7139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126881,
+      "num": 126881,
+      "word": "蒯曼3比1何卓佳",
+      "onboard_time": 1755614126,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126845,
       "num": 126845,
       "word": "A股人气爆棚",
@@ -7428,7 +7476,7 @@
     },
     {
       "raw_hot": 121375,
-      "num": 243604,
+      "num": 251751,
       "word": "胖东来这样定义企业和员工的关系",
       "onboard_time": 1755609266,
       "rank": 34,
@@ -7577,6 +7625,14 @@
       "onboard_time": 1755577163,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118311,
+      "num": 118311,
+      "word": "河南队晋级足协杯决赛",
+      "onboard_time": 1755614666,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118200,
@@ -8195,6 +8251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109696,
+      "num": 109696,
+      "word": "国乒德比也用上TTR了",
+      "onboard_time": 1755613827,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109661,
       "num": 109661,
       "word": "年轻人买车不要冲动",
@@ -8257,14 +8321,6 @@
       "onboard_time": 1755584542,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108919,
-      "num": 189568,
-      "word": "男子在离婚冷静期毒杀一双儿女",
-      "onboard_time": 1755613526,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108744,
@@ -10883,6 +10939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32611,
+      "num": 283579,
+      "word": "中国佛教协会称释永信给佛教界抹黑",
+      "onboard_time": 1755613886,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32411,
       "num": 1335901,
       "word": "绝美焰火点亮成都夜空",
@@ -11355,8 +11419,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3101,
-      "num": 678002,
+      "raw_hot": 3364,
+      "num": 1014399,
       "word": "闪光60年 致亲爱的西藏",
       "onboard_time": 1755522923,
       "rank": 2,
