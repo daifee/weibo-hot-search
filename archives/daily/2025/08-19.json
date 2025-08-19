@@ -1,12 +1,28 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755596519315,
+  "endTime": 1755599295811,
   "band_list": [
+    {
+      "raw_hot": 12998862,
+      "num": 12998862,
+      "word": "迪丽热巴 主人级别",
+      "onboard_time": 1755597624,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 3355386,
       "num": 3198643,
       "word": "杨幂 地母",
       "onboard_time": 1755593903,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2874221,
+      "num": 710544,
+      "word": "W盛典红毯",
+      "onboard_time": 1755597203,
       "rank": 3,
       "category": "作品衍生,时尚"
     },
@@ -83,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1205282,
+      "num": 1205282,
+      "word": "阳光玫瑰 没有葡萄味",
+      "onboard_time": 1755593303,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1171719,
       "num": 1171719,
       "word": "醉驾送早产妻子就医被判无罪",
@@ -123,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 932610,
+      "num": 301954,
+      "word": "闵塔鲨我们和好吧",
+      "onboard_time": 1755598286,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 925223,
       "num": 210338,
       "word": "钉钉被曝CEO凌晨巡查工位",
@@ -139,14 +171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 848229,
-      "num": 848229,
-      "word": "阳光玫瑰 没有葡萄味",
-      "onboard_time": 1755593303,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 844551,
       "num": 844551,
       "word": "副教授遭精神病人杀害儿子一夜秃头",
@@ -160,6 +184,14 @@
       "word": "续面涉事饭店被大量群众围观",
       "onboard_time": 1755557897,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 809975,
+      "num": 380384,
+      "word": "续面事件面馆已被打2.1万条差评",
+      "onboard_time": 1755594203,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -275,12 +307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 559315,
+      "num": 204174,
+      "word": "杨幂 马吉拉",
+      "onboard_time": 1755597926,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 555688,
       "num": 458494,
       "word": "向往的生活开录",
       "onboard_time": 1755588262,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 554023,
+      "num": 172924,
+      "word": "合诗雨 我不演了爱谁谁吧",
+      "onboard_time": 1755597808,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 552100,
@@ -339,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 492130,
-      "num": 380384,
-      "word": "续面事件面馆已被打2.1万条差评",
-      "onboard_time": 1755594203,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 494239,
+      "num": 201743,
+      "word": "我让你删的文件你怎么删了",
+      "onboard_time": 1755598346,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 488802,
@@ -475,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364137,
+      "num": 364137,
+      "word": "每天只睡6小时身体的变化",
+      "onboard_time": 1755596063,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350719,
       "num": 350719,
       "word": "时代少年团上海天幕测试",
@@ -537,6 +593,14 @@
       "onboard_time": 1755570862,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302192,
+      "num": 172696,
+      "word": "于正取代我们的人也被换了",
+      "onboard_time": 1755595704,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 301712,
@@ -641,6 +705,14 @@
       "onboard_time": 1755564382,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247810,
+      "num": 247810,
+      "word": "警方通报阮某平假冒院士等身份行骗",
+      "onboard_time": 1755596724,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 243564,
@@ -843,14 +915,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 200793,
-      "num": 170608,
-      "word": "于正取代我们的人也被换了",
-      "onboard_time": 1755595704,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199086,
       "num": 153363,
       "word": "田曦薇李一桐还回家吃饭吗",
@@ -1027,6 +1091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180428,
+      "num": 180428,
+      "word": "小米财报",
+      "onboard_time": 1755597323,
+      "rank": 17,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 179512,
       "num": 179512,
       "word": "广电总局改进电视剧内容审查工作",
@@ -1139,20 +1211,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174331,
+      "num": 172463,
+      "word": "曝马嘉祺贺峻霖还有双人舞台",
+      "onboard_time": 1755598766,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173910,
       "num": 152740,
       "word": "子夜归生万物你们不要再吵了啦",
       "onboard_time": 1755587782,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173675,
-      "num": 173675,
-      "word": "每天只睡6小时身体的变化",
-      "onboard_time": 1755596063,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 173580,
@@ -1171,11 +1243,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172446,
+      "num": 172446,
+      "word": "小米二季度净利润108亿",
+      "onboard_time": 1755599006,
+      "rank": 34,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 171038,
       "num": 155511,
       "word": "心动的信号8",
       "onboard_time": 1755580883,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170907,
+      "num": 172874,
+      "word": "阮某平涉嫌假冒退役少将",
+      "onboard_time": 1755598045,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170556,
+      "num": 170556,
+      "word": "管乐 张小婉是我最大的竞争对手",
+      "onboard_time": 1755597866,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1235,12 +1331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163007,
+      "num": 163007,
+      "word": "iPhone17e价格",
+      "onboard_time": 1755599006,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 161793,
       "num": 161793,
       "word": "多囊带来的影响远比孕育更复杂",
       "onboard_time": 1755576082,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160894,
+      "num": 160894,
+      "word": "吴艳妮回复邓超",
+      "onboard_time": 1755597866,
+      "rank": 37,
+      "category": "体育,体育"
     },
     {
       "raw_hot": 160438,
@@ -1355,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150251,
+      "num": 150251,
+      "word": "W盛典采访怼脸生图",
+      "onboard_time": 1755597808,
+      "rank": 43,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 149936,
       "num": 186799,
       "word": "方头暗道歉",
@@ -1369,6 +1489,14 @@
       "onboard_time": 1755580883,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148474,
+      "num": 156845,
+      "word": "李在明夫人被睡衣价格惊到张大嘴巴",
+      "onboard_time": 1755598166,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147022,
@@ -1459,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142894,
+      "num": 384702,
+      "word": "假院士阮某平被刑事拘留",
+      "onboard_time": 1755595463,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142280,
       "num": 142280,
       "word": "像中国火箭一飞冲天",
@@ -1481,6 +1617,14 @@
       "onboard_time": 1755576443,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140681,
+      "num": 172581,
+      "word": "一箭7星成功发射",
+      "onboard_time": 1755599066,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140157,
@@ -1611,6 +1755,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 131024,
+      "num": 131024,
+      "word": "Ning怒喷BLG",
+      "onboard_time": 1755599246,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "老狼也去演短剧了",
@@ -1681,14 +1833,6 @@
       "onboard_time": 1755588622,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124846,
-      "num": 384702,
-      "word": "假院士阮某平被刑事拘留",
-      "onboard_time": 1755595463,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124426,
@@ -2275,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79012,
+      "num": 172606,
+      "word": "90岁老人藏7万元现金变冥币",
+      "onboard_time": 1755597686,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78699,
       "num": 236793,
       "word": "外交部回应美乌总统会晤",
@@ -2459,6 +2611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59481,
+      "num": 172961,
+      "word": "奔驰S级的顶流仪式感",
+      "onboard_time": 1755598947,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58394,
       "num": 111278,
       "word": "邓超模仿吴艳妮招牌动作",
@@ -2488,6 +2648,14 @@
       "word": "棉密码卫生巾仍在售卖",
       "onboard_time": 1755590423,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55914,
+      "num": 143606,
+      "word": "三台风胚胎来了",
+      "onboard_time": 1755597383,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -2577,6 +2745,14 @@
       "onboard_time": 1755539536,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41632,
+      "num": 156835,
+      "word": "网红因不满服务大骂服务员",
+      "onboard_time": 1755597808,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40231,
@@ -2729,6 +2905,14 @@
       "onboard_time": 1755533301,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21968,
+      "num": 158640,
+      "word": "老铺黄金招聘方回应要求堪比空乘",
+      "onboard_time": 1755598226,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20390,

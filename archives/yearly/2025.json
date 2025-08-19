@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1755596519315,
+  "endTime": 1755599295811,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -561,6 +561,14 @@
       "onboard_time": 1747033642,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12998862,
+      "num": 12998862,
+      "word": "迪丽热巴 主人级别",
+      "onboard_time": 1755597624,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 12901932,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1745748501,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 4071194,
-      "num": 4071194,
-      "word": "护舒宝声明",
-      "onboard_time": 1742048012,
-      "rank": 20,
-      "category": "舆论监督"
     }
   ],
   "hotgov_list": [

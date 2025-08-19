@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/08/19 17:41:59
+本榜单时间：2025/01/01 00:26:38 ~ 2025/08/19 18:28:15
 </p>
 </blockquote>
 <p>
@@ -431,6 +431,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E6%97%A5%E5%86%85%E7%93%A6%E7%BB%8F%E8%B4%B8%E4%BC%9A%E8%B0%88%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23" target="weibo">
 中美日内瓦经贸会谈联合声明（热度：13085597）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E4%B8%BB%E4%BA%BA%E7%BA%A7%E5%88%AB%23" target="weibo">
+迪丽热巴 主人级别（热度：12998862）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%20%E5%8D%8E%E8%A1%A8%E5%BD%B1%E5%90%8E%23" target="weibo">
 惠英红 华表影后（热度：4073618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E8%88%92%E5%AE%9D%E5%A3%B0%E6%98%8E%23" target="weibo">
-护舒宝声明（热度：4071194）
 </a>
 </li>
 
