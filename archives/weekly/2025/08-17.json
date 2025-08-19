@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755581165016,
+  "endTime": 1755582147721,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -593,6 +593,14 @@
       "onboard_time": 1755530004,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 756076,
+      "num": 395081,
+      "word": "张维伊叫小酒窝窝子",
+      "onboard_time": 1755580522,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 753969,
@@ -1411,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397014,
+      "num": 397014,
+      "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
+      "onboard_time": 1755578664,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389802,
       "num": 389802,
       "word": "子夜归热度",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1755434962,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352852,
+      "num": 352852,
+      "word": "警方通报妈妈离世男童相伴遗体数日",
+      "onboard_time": 1755580582,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352363,
@@ -1763,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307647,
-      "num": 307647,
-      "word": "张维伊叫小酒窝窝子",
-      "onboard_time": 1755580522,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305529,
       "num": 305529,
       "word": "身首离断患者已脱离呼吸机半月",
@@ -1784,6 +1800,14 @@
       "word": "肖宇梁时隔4年半进组了",
       "onboard_time": 1755400341,
       "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 301712,
+      "num": 279581,
+      "word": "镖人 陈丽君",
+      "onboard_time": 1755579023,
+      "rank": 21,
       "category": "电影"
     },
     {
@@ -2099,14 +2123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 258725,
-      "num": 200813,
-      "word": "镖人 陈丽君",
-      "onboard_time": 1755579023,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 257990,
       "num": 257990,
       "word": "迪丽热巴出发W盛典机场路透",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1755483381,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240856,
-      "num": 240856,
-      "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
-      "onboard_time": 1755578664,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239855,
@@ -2537,6 +2545,14 @@
       "onboard_time": 1755394880,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213518,
+      "num": 161604,
+      "word": "我欣赏迪丽热巴的原因",
+      "onboard_time": 1755581061,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 212938,
@@ -3163,6 +3179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186347,
+      "num": 161536,
+      "word": "周也魔法女巫",
+      "onboard_time": 1755581663,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184742,
       "num": 184742,
       "word": "第一次见天崩开局的综艺首录",
@@ -3353,6 +3377,14 @@
       "onboard_time": 1755569360,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177651,
+      "num": 158390,
+      "word": "殷桃带妈妈和男友吃火锅",
+      "onboard_time": 1755581483,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 177326,
@@ -3617,6 +3649,14 @@
       "onboard_time": 1755411621,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171038,
+      "num": 155511,
+      "word": "心动的信号8",
+      "onboard_time": 1755580883,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 171011,
@@ -4187,6 +4227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154609,
+      "num": 154609,
+      "word": "恋与糙汉文学",
+      "onboard_time": 1755581181,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154314,
       "num": 154314,
       "word": "信阳衡水高中被立案调查",
@@ -4363,6 +4411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149129,
+      "num": 149129,
+      "word": "恋与制作人",
+      "onboard_time": 1755580883,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148766,
       "num": 254106,
       "word": "应急管理部赴内蒙古山洪现场",
@@ -4457,14 +4513,6 @@
       "onboard_time": 1755497782,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146655,
-      "num": 146655,
-      "word": "恋与制作人",
-      "onboard_time": 1755580883,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 146438,
@@ -4609,14 +4657,6 @@
       "onboard_time": 1755572661,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144725,
-      "num": 144725,
-      "word": "警方通报妈妈离世男童相伴遗体数日",
-      "onboard_time": 1755580582,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144627,
@@ -5025,6 +5065,14 @@
       "onboard_time": 1755472639,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136215,
+      "num": 136215,
+      "word": "方媛三胎近照",
+      "onboard_time": 1755580582,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 136089,
@@ -6467,14 +6515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110296,
-      "num": 110296,
-      "word": "心动的信号8",
-      "onboard_time": 1755580883,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110178,
       "num": 197201,
       "word": "张艺兴唱了人鱼的眼泪",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1755499344,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106839,
+      "num": 106839,
+      "word": "五月天上海",
+      "onboard_time": 1755580823,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 106826,
@@ -6811,6 +6859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103262,
+      "num": 103262,
+      "word": "停电后女子发现灯泡内藏摄像头",
+      "onboard_time": 1755579682,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103220,
       "num": 103220,
       "word": "孙颖莎训练时可爱尖叫",
@@ -6833,14 +6889,6 @@
       "onboard_time": 1755521363,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102218,
-      "num": 102218,
-      "word": "我欣赏迪丽热巴的原因",
-      "onboard_time": 1755581061,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 102147,
@@ -7163,6 +7211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96707,
+      "num": 96707,
+      "word": "我们的宿舍",
+      "onboard_time": 1755581663,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96342,
       "num": 146003,
       "word": "李沁马达加斯加plog",
@@ -7363,6 +7419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90761,
+      "num": 90761,
+      "word": "iOS闹钟滚轮不是循环的",
+      "onboard_time": 1755579862,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90628,
       "num": 90628,
       "word": "狸花猫被法拍有510人报名争抢",
@@ -7547,6 +7611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86079,
+      "num": 86079,
+      "word": "坚持健走100天内脏脂肪减少了",
+      "onboard_time": 1755579023,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 85681,
       "num": 106775,
       "word": "特朗普称不再送而是卖武器给乌克兰",
@@ -7696,14 +7768,6 @@
       "word": "祖孙3人被杀案家属发声希望判死刑",
       "onboard_time": 1755494965,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79356,
-      "num": 102253,
-      "word": "停电后女子发现灯泡内藏摄像头",
-      "onboard_time": 1755579682,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -8051,14 +8115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64825,
-      "num": 110682,
-      "word": "方媛三胎近照",
-      "onboard_time": 1755580582,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64467,
       "num": 111821,
       "word": "严浩翔回复贺峻霖继续向前冲",
@@ -8185,6 +8241,14 @@
       "onboard_time": 1755494062,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58394,
+      "num": 111278,
+      "word": "邓超模仿吴艳妮招牌动作",
+      "onboard_time": 1755581122,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 58103,
@@ -8419,6 +8483,14 @@
       "category": "民生新闻,读书作家"
     },
     {
+      "raw_hot": 44754,
+      "num": 99719,
+      "word": "丁程鑫发际线上移一厘米会破防",
+      "onboard_time": 1755581782,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44564,
       "num": 98507,
       "word": "五角大楼旁披萨销量又升高了",
@@ -8489,14 +8561,6 @@
       "onboard_time": 1755387017,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 42331,
-      "num": 111278,
-      "word": "邓超模仿吴艳妮招牌动作",
-      "onboard_time": 1755581122,
-      "rank": 38,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 42310,
