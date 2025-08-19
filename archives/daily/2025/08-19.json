@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755600327259,
+  "endTime": 1755602541667,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1517548,
+      "num": 534683,
+      "word": "倪妮背布洛芬走红毯",
+      "onboard_time": 1755600986,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1516599,
       "num": 1516599,
       "word": "于正 我和林心如和好了",
@@ -81,6 +89,14 @@
       "onboard_time": 1755571882,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1423800,
+      "num": 506042,
+      "word": "刘诗诗 红发郁金香",
+      "onboard_time": 1755600144,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1412671,
@@ -121,6 +137,14 @@
       "onboard_time": 1755586102,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1171679,
+      "num": 457963,
+      "word": "红毯没有王法 只有热巴的想法",
+      "onboard_time": 1755599905,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1150413,
@@ -185,6 +209,14 @@
       "onboard_time": 1755557897,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 824606,
+      "num": 384990,
+      "word": "W红毯 审美高级",
+      "onboard_time": 1755599546,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 809975,
@@ -291,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 628500,
+      "num": 233050,
+      "word": "刘浩存 翡翠塑",
+      "onboard_time": 1755600805,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 615817,
       "num": 460777,
       "word": "合诗雨 我不演了爱谁谁吧",
@@ -345,6 +385,14 @@
       "onboard_time": 1755584783,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 545321,
+      "num": 224462,
+      "word": "白敬亭第一个出场",
+      "onboard_time": 1755600206,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 529182,
@@ -451,6 +499,22 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 454772,
+      "num": 188669,
+      "word": "倪妮太敢穿了",
+      "onboard_time": 1755601704,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 453697,
+      "num": 188159,
+      "word": "刘雯开毯",
+      "onboard_time": 1755601346,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 443539,
       "num": 390403,
       "word": "那英去前少说话去后说少了",
@@ -491,11 +555,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 402006,
-      "num": 255162,
-      "word": "W红毯 审美高级",
-      "onboard_time": 1755599546,
-      "rank": 21,
+      "raw_hot": 404586,
+      "num": 191730,
+      "word": "宋茜裙子",
+      "onboard_time": 1755599785,
+      "rank": 33,
       "category": "作品衍生,时尚"
     },
     {
@@ -513,6 +577,14 @@
       "onboard_time": 1755590722,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389037,
+      "num": 150258,
+      "word": "W盛典 CP复活",
+      "onboard_time": 1755601827,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 383252,
@@ -537,6 +609,14 @@
       "onboard_time": 1755584421,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 370928,
+      "num": 150127,
+      "word": "迪丽热巴跟龚俊在说什么",
+      "onboard_time": 1755602486,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 364588,
@@ -723,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251045,
+      "num": 251045,
+      "word": "iPhone17e价格",
+      "onboard_time": 1755599006,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 247810,
       "num": 280136,
       "word": "警方通报阮某平假冒院士等身份行骗",
@@ -755,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241813,
-      "num": 241813,
-      "word": "iPhone17e价格",
-      "onboard_time": 1755599006,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 239082,
       "num": 198783,
       "word": "医生说辛巴的肺95岁了",
@@ -785,14 +865,6 @@
       "onboard_time": 1755527664,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 231530,
-      "num": 231530,
-      "word": "红毯没有王法 只有热巴的想法",
-      "onboard_time": 1755599905,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 229282,
@@ -841,6 +913,14 @@
       "onboard_time": 1755575122,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215038,
+      "num": 215038,
+      "word": "北京双彩虹",
+      "onboard_time": 1755601526,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214635,
@@ -1051,28 +1131,12 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 192019,
-      "num": 192019,
-      "word": "刘诗诗 红发郁金香",
-      "onboard_time": 1755600144,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 191819,
       "num": 191819,
       "word": "张新成 我是个比较拧巴的人",
       "onboard_time": 1755573320,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 191730,
-      "num": 191730,
-      "word": "宋茜裙子",
-      "onboard_time": 1755599785,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190609,
@@ -1089,6 +1153,22 @@
       "onboard_time": 1755582562,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188764,
+      "num": 188764,
+      "word": "梁靖崑止步欧洲大满贯32强",
+      "onboard_time": 1755602065,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188086,
+      "num": 188086,
+      "word": "梁靖崑0比3拉森福斯",
+      "onboard_time": 1755602065,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 187300,
@@ -1363,14 +1443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166497,
-      "num": 166497,
-      "word": "白敬亭第一个出场",
-      "onboard_time": 1755600206,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 165402,
       "num": 154095,
       "word": "龚俊经常请客的帅气哥哥",
@@ -1539,12 +1611,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 151628,
+      "num": 490033,
+      "word": "中国医师节向生命守护者致敬",
+      "onboard_time": 1755601104,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 150447,
       "num": 150447,
       "word": "陈哲远给李沁剥喂荔枝",
       "onboard_time": 1755583462,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150303,
+      "num": 172581,
+      "word": "一箭7星成功发射",
+      "onboard_time": 1755599066,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150251,
@@ -1563,12 +1651,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 149914,
+      "num": 162231,
+      "word": "青春洋溢的王楚钦",
+      "onboard_time": 1755599427,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149129,
       "num": 149129,
       "word": "恋与制作人",
       "onboard_time": 1755580883,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148629,
+      "num": 148629,
+      "word": "小米汽车二季度收入206亿",
+      "onboard_time": 1755601827,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 148099,
@@ -1585,6 +1689,14 @@
       "onboard_time": 1755536058,
       "rank": 38,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 146879,
+      "num": 146879,
+      "word": "刀剑乱舞中文版官方回应",
+      "onboard_time": 1755602186,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 145821,
@@ -1707,14 +1819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140681,
-      "num": 172581,
-      "word": "一箭7星成功发射",
-      "onboard_time": 1755599066,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 140157,
       "num": 140157,
       "word": "邓超发小花做的鸡蛋羹",
@@ -1737,6 +1841,14 @@
       "onboard_time": 1755558798,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138873,
+      "num": 238351,
+      "word": "梁靖崑vs拉森福斯",
+      "onboard_time": 1755601704,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 138870,
@@ -1915,6 +2027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126717,
+      "num": 132697,
+      "word": "西湖 电瓶车刺客",
+      "onboard_time": 1755601284,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125731,
       "num": 125731,
       "word": "王栎鑫张远你俩在干什么",
@@ -2019,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119092,
+      "num": 119092,
+      "word": "谁在给假院士搭舞台",
+      "onboard_time": 1755601947,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118346,
       "num": 118346,
       "word": "科考队员说在南极睡醒后背全湿了",
@@ -2065,14 +2193,6 @@
       "onboard_time": 1755571521,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115744,
-      "num": 162231,
-      "word": "青春洋溢的王楚钦",
-      "onboard_time": 1755599427,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 115436,
@@ -2449,6 +2569,14 @@
       "onboard_time": 1755529042,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 86192,
+      "num": 188545,
+      "word": "檀健次回应好6群没他",
+      "onboard_time": 1755602245,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 86079,
@@ -2859,6 +2987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43071,
+      "num": 247254,
+      "word": "零跑汽车首次实现半年度盈利",
+      "onboard_time": 1755601526,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42199,
       "num": 67212,
       "word": "美国国务卿称俄乌达成和平协议前路漫长",
@@ -2872,6 +3008,14 @@
       "word": "网红因不满服务大骂服务员",
       "onboard_time": 1755597808,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41461,
+      "num": 188309,
+      "word": "男子退租遭拒还被房东殴打诽谤",
+      "onboard_time": 1755601284,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2939,12 +3083,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30377,
+      "num": 149066,
+      "word": "大冰回应不认识单依纯",
+      "onboard_time": 1755601827,
+      "rank": 39,
+      "category": "艺人,网红"
+    },
+    {
       "raw_hot": 29569,
       "num": 38071,
       "word": "2025暑期最热女性角色",
       "onboard_time": 1755538937,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 29493,
+      "num": 133831,
+      "word": "郑晓龙震惊甄嬛传14年了还在二创",
+      "onboard_time": 1755602486,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 29146,
