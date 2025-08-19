@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755575753457,
+  "endTime": 1755577846708,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -11,19 +11,35 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 1777293,
+      "num": 729335,
+      "word": "剧宣 婚闹",
+      "onboard_time": 1755576203,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1442988,
+      "num": 1442988,
+      "word": "老人散步故意肘击训练学生",
+      "onboard_time": 1755571882,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1410768,
+      "num": 1410768,
+      "word": "于正 我和林心如和好了",
+      "onboard_time": 1755576322,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1129324,
       "num": 1180691,
       "word": "主刀医生回应身首离断患者被救回",
       "onboard_time": 1755567501,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1042742,
-      "num": 1042742,
-      "word": "老人散步故意肘击训练学生",
-      "onboard_time": 1755571882,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -33,6 +49,14 @@
       "onboard_time": 1755564983,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 945761,
+      "num": 498020,
+      "word": "张元英汗毛",
+      "onboard_time": 1755576683,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 849953,
@@ -59,12 +83,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 722639,
+      "num": 722639,
+      "word": "上海一主理人新店开业当天即闭店",
+      "onboard_time": 1755574221,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 713198,
+      "num": 713198,
+      "word": "光遇",
+      "onboard_time": 1755535880,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 704008,
-      "num": 384798,
+      "num": 486781,
       "word": "朋友圈别再直接发视频了",
       "onboard_time": 1755566181,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 564495,
+      "num": 564495,
+      "word": "男主居然是对女主一见钟情的",
+      "onboard_time": 1755575122,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 529182,
@@ -123,19 +171,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457503,
+      "num": 457503,
+      "word": "辛巴只退网未回应卫生巾问题",
+      "onboard_time": 1755568642,
+      "rank": 34,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 412819,
       "num": 311291,
       "word": "网传学生强奸虐杀猫不实",
       "onboard_time": 1755557958,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 399460,
-      "num": 399460,
-      "word": "上海一主理人新店开业当天即闭店",
-      "onboard_time": 1755574221,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -145,14 +193,6 @@
       "onboard_time": 1755517343,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 382368,
-      "num": 382368,
-      "word": "辛巴只退网未回应卫生巾问题",
-      "onboard_time": 1755568642,
-      "rank": 34,
-      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 377767,
@@ -235,14 +275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 291736,
-      "num": 291736,
-      "word": "男主居然是对女主一见钟情的",
-      "onboard_time": 1755575122,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288006,
       "num": 288006,
       "word": "iG战胜BLG",
@@ -257,6 +289,22 @@
       "onboard_time": 1755522923,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 283813,
+      "num": 283813,
+      "word": "刘宇宁7年发表超200首原唱歌曲",
+      "onboard_time": 1755570921,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 281969,
+      "num": 272924,
+      "word": "血管堵了手脚会有4种表现",
+      "onboard_time": 1755576082,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 269720,
@@ -299,20 +347,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 236080,
+      "num": 236080,
+      "word": "IZNA尹智允退队",
+      "onboard_time": 1755574941,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231966,
       "num": 231966,
       "word": "债市崩了",
       "onboard_time": 1755527664,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 230935,
-      "num": 230935,
-      "word": "IZNA尹智允退队",
-      "onboard_time": 1755574941,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 227536,
@@ -323,20 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220485,
-      "num": 220485,
-      "word": "刘宇宁7年发表超200首原唱歌曲",
-      "onboard_time": 1755570921,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 217517,
       "num": 217517,
       "word": "归队定档",
       "onboard_time": 1755575122,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212938,
+      "num": 212938,
+      "word": "一地招聘研究生月薪三千",
+      "onboard_time": 1755575662,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208574,
@@ -409,6 +457,14 @@
       "onboard_time": 1755572480,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193573,
+      "num": 193573,
+      "word": "那英去前少说话去后说少了",
+      "onboard_time": 1755575782,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 191819,
@@ -491,12 +547,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164331,
+      "num": 164331,
+      "word": "阴阳顾客七匹狼面馆关门",
+      "onboard_time": 1755571281,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163375,
       "num": 163375,
       "word": "成都女子被误诊绝症服药3月",
       "onboard_time": 1755529282,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162839,
+      "num": 171335,
+      "word": "谁给丞磊递个高干文男主剧本",
+      "onboard_time": 1755577581,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161793,
+      "num": 161793,
+      "word": "多囊带来的影响远比孕育更复杂",
+      "onboard_time": 1755576082,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 160438,
@@ -520,6 +600,14 @@
       "word": "生万物",
       "onboard_time": 1755527244,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155751,
+      "num": 155751,
+      "word": "生万物宁可金救绣绣这段看哭了",
+      "onboard_time": 1755576621,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -553,14 +641,6 @@
       "onboard_time": 1755569480,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145302,
-      "num": 145302,
-      "word": "阴阳顾客七匹狼面馆关门",
-      "onboard_time": 1755571281,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144826,
@@ -651,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135813,
+      "num": 135813,
+      "word": "9月1日开学是星期一",
+      "onboard_time": 1755573501,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 134313,
       "num": 134313,
       "word": "美国反对乌克兰加入北约",
@@ -665,6 +753,14 @@
       "onboard_time": 1755569421,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132295,
+      "num": 132295,
+      "word": "不同国家给婴儿洗澡的区别",
+      "onboard_time": 1755577643,
+      "rank": 43,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 129918,
@@ -683,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129062,
+      "num": 129062,
+      "word": "邢菲在内娱舞蹈界的地位",
+      "onboard_time": 1755577703,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128067,
       "num": 128067,
       "word": "浓度演员 淡人肖战",
@@ -699,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127321,
+      "num": 127321,
+      "word": "辛巴把退网当防火墙了吗",
+      "onboard_time": 1755576203,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126845,
       "num": 126845,
       "word": "A股人气爆棚",
@@ -707,20 +819,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 125603,
-      "num": 125603,
-      "word": "9月1日开学是星期一",
-      "onboard_time": 1755573501,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 123557,
       "num": 123557,
       "word": "张海宇生万物喜剧邪修",
       "onboard_time": 1755575423,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122843,
+      "num": 122843,
+      "word": "短期高糖暴食副作用",
+      "onboard_time": 1755577703,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122682,
@@ -771,6 +883,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115725,
+      "num": 115725,
+      "word": "科考队员说在南极睡醒后背全湿了",
+      "onboard_time": 1755577163,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115436,
+      "num": 140620,
+      "word": "日本讨论拆除裸女像",
+      "onboard_time": 1755576862,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 114455,
       "num": 114455,
       "word": "林永健演技",
@@ -795,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112538,
+      "num": 171140,
+      "word": "七匹狼回应续面事件争议",
+      "onboard_time": 1755576443,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111780,
       "num": 111780,
       "word": "虞书欣小林老师杀青文",
@@ -804,7 +940,7 @@
     },
     {
       "raw_hot": 111694,
-      "num": 111694,
+      "num": 507770,
       "word": "十四五体育强国建设成就",
       "onboard_time": 1755575662,
       "rank": 49,
@@ -939,14 +1075,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87955,
-      "num": 128152,
-      "word": "一地招聘研究生月薪三千",
-      "onboard_time": 1755575662,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86561,
       "num": 86561,
       "word": "A股大涨原因来了",
@@ -1067,12 +1195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68415,
+      "num": 141395,
+      "word": "职业背债人团伙银行骗贷超2亿",
+      "onboard_time": 1755576982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66962,
       "num": 66962,
       "word": "管泽元 纳尔拍五个都赢不了",
       "onboard_time": 1755530124,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65845,
+      "num": 476478,
+      "word": "王俊凯教周也付航打瓦手",
+      "onboard_time": 1755574462,
+      "rank": 14,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 65445,
@@ -1131,6 +1275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53108,
+      "num": 810000,
+      "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
+      "onboard_time": 1755567081,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51850,
       "num": 51850,
       "word": "王影璐瘦成啥样了",
@@ -1147,12 +1299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47608,
-      "num": 810000,
-      "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
-      "onboard_time": 1755567081,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 43709,
+      "num": 468077,
+      "word": "肖战手捧玫瑰神级镜头",
+      "onboard_time": 1755576203,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 43383,
@@ -1169,14 +1321,6 @@
       "onboard_time": 1755539536,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 39945,
-      "num": 292104,
-      "word": "王俊凯教周也付航打瓦手",
-      "onboard_time": 1755574462,
-      "rank": 14,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 39015,
@@ -1273,14 +1417,6 @@
       "onboard_time": 1755545114,
       "rank": 37,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 19401,
-      "num": 27441,
-      "word": "光遇",
-      "onboard_time": 1755535880,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 18373,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1755577846708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1442988,
+        "num": 1442988,
+        "word": "老人散步故意肘击训练学生",
+        "onboard_time": 1755571882,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1410768,
+        "num": 1410768,
+        "word": "于正 我和林心如和好了",
+        "onboard_time": 1755576322,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53108,
+        "num": 733177,
+        "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
+        "onboard_time": 1755567081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1777293,
+        "num": 729335,
+        "word": "剧宣 婚闹",
+        "onboard_time": 1755576203,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 722639,
+        "num": 722639,
+        "word": "上海一主理人新店开业当天即闭店",
+        "onboard_time": 1755574221,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713198,
+        "num": 713198,
+        "word": "光遇",
+        "onboard_time": 1755576621,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 564495,
+        "num": 564495,
+        "word": "男主居然是对女主一见钟情的",
+        "onboard_time": 1755575122,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 555160,
+        "num": 555160,
+        "word": "主刀医生回应身首离断患者被救回",
+        "onboard_time": 1755567501,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516406,
+        "num": 516406,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 8,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 72489,
+        "num": 507770,
+        "word": "十四五体育强国建设成就",
+        "onboard_time": 1755575662,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 945761,
+        "num": 498020,
+        "word": "张元英汗毛",
+        "onboard_time": 1755576683,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559632,
+        "num": 486781,
+        "word": "朋友圈别再直接发视频了",
+        "onboard_time": 1755566181,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65845,
+        "num": 476478,
+        "word": "王俊凯教周也付航打瓦手",
+        "onboard_time": 1755574462,
+        "rank": 12,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 43709,
+        "num": 468077,
+        "word": "肖战手捧玫瑰神级镜头",
+        "onboard_time": 1755576203,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457503,
+        "num": 457503,
+        "word": "辛巴只退网未回应卫生巾问题",
+        "onboard_time": 1755568642,
+        "rank": 14,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 452392,
+        "num": 452392,
+        "word": "陈飞宇 一饭封神",
+        "onboard_time": 1755572602,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347824,
+        "num": 347824,
+        "word": "被清华大学的宿舍震惊到了",
+        "onboard_time": 1755564801,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290299,
+        "num": 290299,
+        "word": "赵丽颖久违的长发",
+        "onboard_time": 1755563241,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283813,
+        "num": 283813,
+        "word": "刘宇宁7年发表超200首原唱歌曲",
+        "onboard_time": 1755570921,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274100,
+        "num": 274100,
+        "word": "三伏天正式结束",
+        "onboard_time": 1755561139,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281969,
+        "num": 272924,
+        "word": "血管堵了手脚会有4种表现",
+        "onboard_time": 1755576082,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236080,
+        "num": 236080,
+        "word": "IZNA尹智允退队",
+        "onboard_time": 1755574941,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228370,
+        "num": 228370,
+        "word": "赵雅芝把粉丝送的400封信签名回寄",
+        "onboard_time": 1755563241,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215928,
+        "num": 215928,
+        "word": "自行车降价",
+        "onboard_time": 1755569360,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212938,
+        "num": 212938,
+        "word": "一地招聘研究生月薪三千",
+        "onboard_time": 1755575662,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193573,
+        "num": 193573,
+        "word": "那英去前少说话去后说少了",
+        "onboard_time": 1755575782,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178301,
+        "num": 178301,
+        "word": "归队定档",
+        "onboard_time": 1755575122,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175381,
+        "num": 175381,
+        "word": "中国首部8K拍摄太空电影",
+        "onboard_time": 1755572661,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162839,
+        "num": 171335,
+        "word": "谁给丞磊递个高干文男主剧本",
+        "onboard_time": 1755577581,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112538,
+        "num": 171140,
+        "word": "七匹狼回应续面事件争议",
+        "onboard_time": 1755576443,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170999,
+        "num": 170999,
+        "word": "身首离断患者已脱离呼吸机半月",
+        "onboard_time": 1755570862,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164331,
+        "num": 164331,
+        "word": "阴阳顾客七匹狼面馆关门",
+        "onboard_time": 1755571281,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161793,
+        "num": 161793,
+        "word": "多囊带来的影响远比孕育更复杂",
+        "onboard_time": 1755576082,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155751,
+        "num": 155751,
+        "word": "生万物宁可金救绣绣这段看哭了",
+        "onboard_time": 1755576621,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155222,
+        "num": 155222,
+        "word": "老Bin烧烤",
+        "onboard_time": 1755572480,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153784,
+        "num": 153784,
+        "word": "时代少年团上海天幕测试",
+        "onboard_time": 1755569480,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147663,
+        "num": 147663,
+        "word": "子夜归",
+        "onboard_time": 1755566362,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143697,
+        "num": 143697,
+        "word": "高速服务区的水有多脏",
+        "onboard_time": 1755571401,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68415,
+        "num": 141395,
+        "word": "职业背债人团伙银行骗贷超2亿",
+        "onboard_time": 1755576982,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115436,
+        "num": 140620,
+        "word": "日本讨论拆除裸女像",
+        "onboard_time": 1755576862,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140405,
+        "num": 140405,
+        "word": "孙颖莎一日双赛",
+        "onboard_time": 1755574823,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135813,
+        "num": 135813,
+        "word": "9月1日开学是星期一",
+        "onboard_time": 1755573501,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132600,
+        "num": 132600,
+        "word": "生万物第20集封神",
+        "onboard_time": 1755530004,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132295,
+        "num": 132295,
+        "word": "不同国家给婴儿洗澡的区别",
+        "onboard_time": 1755577643,
+        "rank": 43,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 129062,
+        "num": 129062,
+        "word": "邢菲在内娱舞蹈界的地位",
+        "onboard_time": 1755577703,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127321,
+        "num": 127321,
+        "word": "辛巴把退网当防火墙了吗",
+        "onboard_time": 1755576203,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126064,
+        "num": 126064,
+        "word": "原来局部暴雨全景长这样",
+        "onboard_time": 1755571941,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 124433,
+        "num": 124433,
+        "word": "王楚钦恢复8个积分",
+        "onboard_time": 1755570681,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122843,
+        "num": 122843,
+        "word": "短期高糖暴食副作用",
+        "onboard_time": 1755577703,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115725,
+        "num": 115725,
+        "word": "科考队员说在南极睡醒后背全湿了",
+        "onboard_time": 1755577163,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
