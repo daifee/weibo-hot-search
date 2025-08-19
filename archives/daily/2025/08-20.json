@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755621187058,
+  "endTime": 1755622078250,
   "band_list": [
     {
       "raw_hot": 1375053,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 691434,
-      "num": 136570,
+      "num": 144239,
       "word": "迪丽热巴 主人级别",
       "onboard_time": 1755597624,
       "rank": 20,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 298513,
-      "num": 136528,
+      "num": 143128,
       "word": "杨幂 地母",
       "onboard_time": 1755593903,
       "rank": 21,
@@ -115,12 +115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273500,
+      "num": 273500,
+      "word": "杨超越700度近视",
+      "onboard_time": 1755619702,
+      "rank": 16,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 258706,
       "num": 299382,
       "word": "释永信给全国佛教界抹黑",
       "onboard_time": 1755615205,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235844,
+      "num": 248079,
+      "word": "一轮游已成为国乒男队常态",
+      "onboard_time": 1755618742,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 223148,
@@ -139,16 +155,8 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 200455,
-      "num": 200455,
-      "word": "杨超越700度近视",
-      "onboard_time": 1755619702,
-      "rank": 16,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 198446,
-      "num": 136488,
+      "num": 139698,
       "word": "赵今麦给热巴飞吻",
       "onboard_time": 1755607946,
       "rank": 22,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 185999,
-      "num": 136408,
+      "num": 158194,
       "word": "封大脚人设",
       "onboard_time": 1755616044,
       "rank": 23,
@@ -172,11 +180,19 @@
     },
     {
       "raw_hot": 154384,
-      "num": 136324,
+      "num": 141097,
       "word": "男子在离婚冷静期毒杀一双儿女",
       "onboard_time": 1755613526,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152311,
+      "num": 141635,
+      "word": "安静公主公布验血结果",
+      "onboard_time": 1755620181,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 144703,
@@ -187,28 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140984,
-      "num": 140984,
-      "word": "一轮游已成为国乒男队常态",
-      "onboard_time": 1755618742,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 139296,
+      "num": 139296,
+      "word": "任重一家与王阳一家度假",
+      "onboard_time": 1755618923,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 136676,
-      "num": 136676,
+      "num": 146481,
       "word": "我让你删的文件你怎么删了",
       "onboard_time": 1755598346,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136207,
-      "num": 136207,
-      "word": "安静公主公布验血结果",
-      "onboard_time": 1755620181,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 135425,
@@ -217,14 +225,6 @@
       "onboard_time": 1755605966,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 133967,
-      "num": 133967,
-      "word": "任重一家与王阳一家度假",
-      "onboard_time": 1755618923,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 130318,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 127227,
-      "num": 136653,
+      "num": 145014,
       "word": "韩国第一夫人为李在明买睡衣",
       "onboard_time": 1755609925,
       "rank": 19,
@@ -273,6 +273,14 @@
       "onboard_time": 1755601346,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112180,
+      "num": 112180,
+      "word": "贺峻霖彩排被要工作证",
+      "onboard_time": 1755621081,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 102328,
@@ -331,14 +339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 87925,
-      "num": 101128,
-      "word": "贺峻霖彩排被要工作证",
-      "onboard_time": 1755621081,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 84659,
       "num": 101141,
       "word": "三伏天结束了又好像没结束",
@@ -355,6 +355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 82623,
+      "num": 96399,
+      "word": "第一次见艺人抓着粉丝不撒手",
+      "onboard_time": 1755618865,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77319,
       "num": 101130,
       "word": "普通人要对五险一金有概念",
@@ -363,20 +371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76195,
+      "num": 101126,
+      "word": "日本老头地铁上怒吼女生",
+      "onboard_time": 1755618742,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 74732,
       "num": 101127,
       "word": "北京晚霞",
       "onboard_time": 1755603205,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74525,
-      "num": 101126,
-      "word": "日本老头地铁上怒吼女生",
-      "onboard_time": 1755618742,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 72236,
@@ -393,6 +401,14 @@
       "onboard_time": 1755614724,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42432,
+      "num": 96113,
+      "word": "科隆黑神话之夜直播",
+      "onboard_time": 1755619103,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 1917,
