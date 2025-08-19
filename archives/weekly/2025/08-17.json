@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755570021819,
+  "endTime": 1755573373254,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 791058,
+      "num": 1126569,
+      "word": "主刀医生回应身首离断患者被救回",
+      "onboard_time": 1755567501,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 787024,
       "num": 438434,
       "word": "真的建议不要喝点外卖送的饮料",
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 642504,
+      "num": 304442,
+      "word": "朋友圈别再直接发视频了",
+      "onboard_time": 1755566181,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 642024,
       "num": 270448,
       "word": "妈妈给2岁儿子筹备生日当晚母子被杀",
@@ -945,14 +961,6 @@
       "onboard_time": 1755490583,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 523048,
-      "num": 304442,
-      "word": "朋友圈别再直接发视频了",
-      "onboard_time": 1755566181,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 522581,
@@ -1283,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401932,
+      "num": 401932,
+      "word": "自行车降价",
+      "onboard_time": 1755569360,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398442,
       "num": 398442,
       "word": "杨幂这段没有一句台词",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1755398661,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 350719,
+      "num": 350719,
+      "word": "时代少年团上海天幕测试",
+      "onboard_time": 1755569480,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 347166,
@@ -1633,6 +1657,14 @@
       "onboard_time": 1755328942,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305529,
+      "num": 305529,
+      "word": "身首离断患者已脱离呼吸机半月",
+      "onboard_time": 1755570862,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302667,
@@ -1907,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263290,
+      "num": 263290,
+      "word": "王楚钦恢复8个积分",
+      "onboard_time": 1755570681,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260487,
       "num": 260487,
       "word": "TOP登陆少年体重",
@@ -2027,6 +2067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 246178,
+      "num": 246178,
+      "word": "老人散步故意肘击训练学生",
+      "onboard_time": 1755571882,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244017,
       "num": 244017,
       "word": "朋友圈点赞洁癖",
@@ -2129,6 +2177,14 @@
       "onboard_time": 1755490224,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 234472,
+      "num": 234472,
+      "word": "辛巴只退网未回应卫生巾问题",
+      "onboard_time": 1755568642,
+      "rank": 34,
+      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 234143,
@@ -2249,14 +2305,6 @@
       "onboard_time": 1755436885,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221277,
-      "num": 221277,
-      "word": "主刀医生回应身首离断患者被救回",
-      "onboard_time": 1755567501,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220412,
@@ -2433,14 +2481,6 @@
       "onboard_time": 1755515720,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204933,
-      "num": 211815,
-      "word": "时代少年团上海天幕测试",
-      "onboard_time": 1755569480,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 204565,
@@ -2625,6 +2665,14 @@
       "onboard_time": 1755434003,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197766,
+      "num": 197766,
+      "word": "高速服务区的水有多脏",
+      "onboard_time": 1755571401,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197447,
@@ -3075,6 +3123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177848,
+      "num": 177848,
+      "word": "关晓彤李昀锐公主抱脸颊吻",
+      "onboard_time": 1755569360,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177326,
       "num": 177326,
       "word": "王皓管乐能共苦不能同甘",
@@ -3248,6 +3304,14 @@
       "word": "iG翻盘BLG",
       "onboard_time": 1755519861,
       "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 173488,
+      "num": 141148,
+      "word": "老Bin烧烤",
+      "onboard_time": 1755572480,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -3537,14 +3601,6 @@
       "onboard_time": 1755499402,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164170,
-      "num": 164170,
-      "word": "关晓彤李昀锐公主抱脸颊吻",
-      "onboard_time": 1755569360,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 163968,
@@ -3939,14 +3995,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 151311,
-      "num": 151311,
-      "word": "自行车降价",
-      "onboard_time": 1755569360,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151070,
       "num": 151070,
       "word": "撒贝宁 原来央视主持人现实中长这样",
@@ -4251,11 +4299,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145302,
+      "num": 145302,
+      "word": "阴阳顾客七匹狼面馆关门",
+      "onboard_time": 1755571281,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145301,
       "num": 135707,
       "word": "以后男女主醉酒暧昧都这么拍",
       "onboard_time": 1755411862,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144826,
+      "num": 144826,
+      "word": "这才是观众想看的大女主",
+      "onboard_time": 1755572661,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -4363,6 +4427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141879,
+      "num": 277189,
+      "word": "人民日报专访胖东来董事长于东来",
+      "onboard_time": 1755569300,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141774,
       "num": 100836,
       "word": "苏苏文典先婚后爱",
@@ -4377,6 +4449,22 @@
       "onboard_time": 1755443723,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141554,
+      "num": 141554,
+      "word": "中国首部8K拍摄太空电影",
+      "onboard_time": 1755572661,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141040,
+      "num": 141040,
+      "word": "广电总局改进电视剧内容审查工作",
+      "onboard_time": 1755568282,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 141026,
@@ -4649,14 +4737,6 @@
       "onboard_time": 1755398661,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135438,
-      "num": 135438,
-      "word": "广电总局改进电视剧内容审查工作",
-      "onboard_time": 1755568282,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 135427,
@@ -5091,6 +5171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128067,
+      "num": 128067,
+      "word": "浓度演员 淡人肖战",
+      "onboard_time": 1755572839,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128066,
       "num": 128066,
       "word": "姐姐当家",
@@ -5427,6 +5515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119835,
+      "num": 119835,
+      "word": "刘宇宁7年发表超200首原唱歌曲",
+      "onboard_time": 1755570921,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 119820,
       "num": 119820,
       "word": "有没有体面过七夕的办法",
@@ -5627,6 +5723,14 @@
       "category": "体育,体育"
     },
     {
+      "raw_hot": 117261,
+      "num": 119057,
+      "word": "陈飞宇 一饭封神",
+      "onboard_time": 1755572602,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116932,
       "num": 116932,
       "word": "中餐厅",
@@ -5643,12 +5747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116608,
-      "num": 199017,
-      "word": "辛巴只退网未回应卫生巾问题",
-      "onboard_time": 1755568642,
-      "rank": 34,
-      "category": "舆论监督,网红"
+      "raw_hot": 116458,
+      "num": 116458,
+      "word": "永远不要放弃下午的五点钟",
+      "onboard_time": 1755571521,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 116287,
@@ -5827,6 +5931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112923,
+      "num": 112923,
+      "word": "不吹空调风去吹自然风",
+      "onboard_time": 1755573080,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112849,
       "num": 112849,
       "word": "贺峻霖导演和编剧的小作业",
@@ -6001,14 +6113,6 @@
       "onboard_time": 1755523882,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108822,
-      "num": 108822,
-      "word": "人民日报专访胖东来董事长于东来",
-      "onboard_time": 1755569300,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108744,
@@ -6225,6 +6329,22 @@
       "onboard_time": 1755530302,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105212,
+      "num": 105212,
+      "word": "大专男生回应开面馆陪女友读研",
+      "onboard_time": 1755570441,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105117,
+      "num": 105117,
+      "word": "张新成 我是个比较拧巴的人",
+      "onboard_time": 1755573320,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 105105,
@@ -7651,6 +7771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54368,
+      "num": 179375,
+      "word": "奥迪E5开启预定",
+      "onboard_time": 1755571821,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54010,
       "num": 150796,
       "word": "发现血枕头骑手婉拒1000元感谢费",
@@ -7987,6 +8115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39015,
+      "num": 141237,
+      "word": "特泽会现场一幅地图意味深长",
+      "onboard_time": 1755572480,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38987,
       "num": 228288,
       "word": "贾冰演了个笨",
@@ -8089,6 +8225,14 @@
       "onboard_time": 1755488962,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33868,
+      "num": 240009,
+      "word": "全新小鹏P7可街可赛",
+      "onboard_time": 1755572661,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 33830,
@@ -8513,6 +8657,14 @@
       "onboard_time": 1755376994,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 15113,
+      "num": 119057,
+      "word": "南刘涛北海璐",
+      "onboard_time": 1755573201,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 14976,

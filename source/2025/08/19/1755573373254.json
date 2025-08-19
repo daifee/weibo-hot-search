@@ -1,0 +1,410 @@
+{
+  "runTime": 1755573373254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 791058,
+        "num": 1126569,
+        "word": "主刀医生回应身首离断患者被救回",
+        "onboard_time": 1755567501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662793,
+        "num": 662793,
+        "word": "被清华大学的宿舍震惊到了",
+        "onboard_time": 1755564801,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36022,
+        "num": 434300,
+        "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
+        "onboard_time": 1755567081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1550620,
+        "num": 433888,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 3,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 421979,
+        "num": 421979,
+        "word": "赵雅芝把粉丝送的400封信签名回寄",
+        "onboard_time": 1755563241,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401932,
+        "num": 401932,
+        "word": "自行车降价",
+        "onboard_time": 1755569360,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383559,
+        "num": 383559,
+        "word": "赵丽颖久违的长发",
+        "onboard_time": 1755563241,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350719,
+        "num": 350719,
+        "word": "时代少年团上海天幕测试",
+        "onboard_time": 1755569480,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305529,
+        "num": 305529,
+        "word": "身首离断患者已脱离呼吸机半月",
+        "onboard_time": 1755570862,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141879,
+        "num": 277189,
+        "word": "人民日报专访胖东来董事长于东来",
+        "onboard_time": 1755569300,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642504,
+        "num": 274871,
+        "word": "朋友圈别再直接发视频了",
+        "onboard_time": 1755566181,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 479533,
+        "num": 274799,
+        "word": "官方通报小米车主逆行超速致4死",
+        "onboard_time": 1755564983,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263290,
+        "num": 263290,
+        "word": "王楚钦恢复8个积分",
+        "onboard_time": 1755570681,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256534,
+        "num": 256534,
+        "word": "三伏天正式结束",
+        "onboard_time": 1755561139,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250319,
+        "num": 250319,
+        "word": "为了养猫考了个公务员",
+        "onboard_time": 1755564801,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246178,
+        "num": 246178,
+        "word": "老人散步故意肘击训练学生",
+        "onboard_time": 1755571882,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209428,
+        "num": 243324,
+        "word": "向太透露李连杰病情",
+        "onboard_time": 1755566003,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191905,
+        "num": 242820,
+        "word": "生万物第20集封神",
+        "onboard_time": 1755530004,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33868,
+        "num": 240009,
+        "word": "全新小鹏P7可街可赛",
+        "onboard_time": 1755572661,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183250,
+        "num": 235167,
+        "word": "迪丽热巴出发W盛典机场路透",
+        "onboard_time": 1755564382,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234472,
+        "num": 234472,
+        "word": "辛巴只退网未回应卫生巾问题",
+        "onboard_time": 1755568642,
+        "rank": 20,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 197766,
+        "num": 197766,
+        "word": "高速服务区的水有多脏",
+        "onboard_time": 1755571401,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183719,
+        "num": 183719,
+        "word": "泽连斯基称不再坚持先停火",
+        "onboard_time": 1755561259,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54368,
+        "num": 179375,
+        "word": "奥迪E5开启预定",
+        "onboard_time": 1755571821,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177848,
+        "num": 177848,
+        "word": "关晓彤李昀锐公主抱脸颊吻",
+        "onboard_time": 1755569360,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159438,
+        "num": 159438,
+        "word": "医生说辛巴的肺95岁了",
+        "onboard_time": 1755560360,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145302,
+        "num": 145302,
+        "word": "阴阳顾客七匹狼面馆关门",
+        "onboard_time": 1755571281,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144826,
+        "num": 144826,
+        "word": "这才是观众想看的大女主",
+        "onboard_time": 1755572661,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141554,
+        "num": 141554,
+        "word": "中国首部8K拍摄太空电影",
+        "onboard_time": 1755572661,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39015,
+        "num": 141237,
+        "word": "特泽会现场一幅地图意味深长",
+        "onboard_time": 1755572480,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173488,
+        "num": 141148,
+        "word": "老Bin烧烤",
+        "onboard_time": 1755572480,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141040,
+        "num": 141040,
+        "word": "广电总局改进电视剧内容审查工作",
+        "onboard_time": 1755568282,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130976,
+        "num": 130976,
+        "word": "7个习惯默默为血管投喂斑块",
+        "onboard_time": 1755569421,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130763,
+        "num": 130763,
+        "word": "子夜归",
+        "onboard_time": 1755566362,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128067,
+        "num": 128067,
+        "word": "浓度演员 淡人肖战",
+        "onboard_time": 1755572839,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121870,
+        "num": 121870,
+        "word": "疑似罗永浩私下聊天被曝光",
+        "onboard_time": 1755562341,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120123,
+        "num": 120123,
+        "word": "医生谢谢你",
+        "onboard_time": 1755568881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119835,
+        "num": 119835,
+        "word": "刘宇宁7年发表超200首原唱歌曲",
+        "onboard_time": 1755570921,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15113,
+        "num": 119057,
+        "word": "南刘涛北海璐",
+        "onboard_time": 1755573201,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117261,
+        "num": 119057,
+        "word": "陈飞宇 一饭封神",
+        "onboard_time": 1755572602,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119057,
+        "num": 119056,
+        "word": "今天是第8个中国医师节",
+        "onboard_time": 1755564983,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116458,
+        "num": 116458,
+        "word": "永远不要放弃下午的五点钟",
+        "onboard_time": 1755571521,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112923,
+        "num": 112923,
+        "word": "不吹空调风去吹自然风",
+        "onboard_time": 1755573080,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109163,
+        "num": 109163,
+        "word": "美俄乌将举行三边会谈",
+        "onboard_time": 1755561620,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106011,
+        "num": 106011,
+        "word": "孙颖莎说没拧上",
+        "onboard_time": 1755569360,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105212,
+        "num": 105212,
+        "word": "大专男生回应开面馆陪女友读研",
+        "onboard_time": 1755570441,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105117,
+        "num": 105117,
+        "word": "张新成 我是个比较拧巴的人",
+        "onboard_time": 1755573320,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104251,
+        "num": 104251,
+        "word": "婚后13天发现妻子双子宫只有一个肾",
+        "onboard_time": 1755528503,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104100,
+        "num": 104100,
+        "word": "iPhone C口隐藏用法",
+        "onboard_time": 1755567021,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102321,
+        "num": 102321,
+        "word": "ELK亮小丑",
+        "onboard_time": 1755528923,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}

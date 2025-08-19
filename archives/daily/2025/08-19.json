@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755570021819,
+  "endTime": 1755573373254,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 791058,
+      "num": 1126569,
+      "word": "主刀医生回应身首离断患者被救回",
+      "onboard_time": 1755567501,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 762995,
       "num": 858815,
       "word": "生万物第20集封神",
@@ -43,20 +51,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 642504,
+      "num": 304442,
+      "word": "朋友圈别再直接发视频了",
+      "onboard_time": 1755566181,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 529182,
       "num": 529182,
       "word": "赵雅芝把粉丝送的400封信签名回寄",
       "onboard_time": 1755563241,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 523048,
-      "num": 304442,
-      "word": "朋友圈别再直接发视频了",
-      "onboard_time": 1755566181,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 520877,
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401932,
+      "num": 401932,
+      "word": "自行车降价",
+      "onboard_time": 1755569360,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383252,
       "num": 287453,
       "word": "田曦薇否认与赖伟明恋情",
@@ -123,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350719,
+      "num": 350719,
+      "word": "时代少年团上海天幕测试",
+      "onboard_time": 1755569480,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 335156,
       "num": 335156,
       "word": "女子扶摔倒环卫工反被对方责骂",
@@ -143,6 +167,14 @@
       "num": 312268,
       "word": "背娃送外卖妈妈称不再嫁人不合法",
       "onboard_time": 1755563302,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305529,
+      "num": 305529,
+      "word": "身首离断患者已脱离呼吸机半月",
+      "onboard_time": 1755570862,
       "rank": 8,
       "category": "民生新闻"
     },
@@ -195,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263290,
+      "num": 263290,
+      "word": "王楚钦恢复8个积分",
+      "onboard_time": 1755570681,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257990,
       "num": 257990,
       "word": "迪丽热巴出发W盛典机场路透",
@@ -203,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246178,
+      "num": 246178,
+      "word": "老人散步故意肘击训练学生",
+      "onboard_time": 1755571882,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239082,
       "num": 198783,
       "word": "医生说辛巴的肺95岁了",
       "onboard_time": 1755560360,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 234472,
+      "num": 234472,
+      "word": "辛巴只退网未回应卫生巾问题",
+      "onboard_time": 1755568642,
+      "rank": 34,
+      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 231966,
@@ -227,28 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221277,
-      "num": 221277,
-      "word": "主刀医生回应身首离断患者被救回",
-      "onboard_time": 1755567501,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208574,
       "num": 208574,
       "word": "男子与儿认亲2年后又一儿子找来",
       "onboard_time": 1755520402,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204933,
-      "num": 211815,
-      "word": "时代少年团上海天幕测试",
-      "onboard_time": 1755569480,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 204275,
@@ -272,6 +312,14 @@
       "word": "母亲回应五年级儿子卖奶茶月入4000",
       "onboard_time": 1755562100,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197766,
+      "num": 197766,
+      "word": "高速服务区的水有多脏",
+      "onboard_time": 1755571401,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -307,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177848,
+      "num": 177848,
+      "word": "关晓彤李昀锐公主抱脸颊吻",
+      "onboard_time": 1755569360,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177326,
       "num": 177326,
       "word": "王皓管乐能共苦不能同甘",
@@ -331,20 +387,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173488,
+      "num": 141148,
+      "word": "老Bin烧烤",
+      "onboard_time": 1755572480,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164515,
       "num": 164515,
       "word": "北京暴雨",
       "onboard_time": 1755558617,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164170,
-      "num": 164170,
-      "word": "关晓彤李昀锐公主抱脸颊吻",
-      "onboard_time": 1755569360,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 163375,
@@ -379,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151311,
-      "num": 151311,
-      "word": "自行车降价",
-      "onboard_time": 1755569360,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147022,
       "num": 147022,
       "word": "银川高级中学通报网传学生虐猫",
@@ -409,6 +457,22 @@
       "onboard_time": 1755569480,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145302,
+      "num": 145302,
+      "word": "阴阳顾客七匹狼面馆关门",
+      "onboard_time": 1755571281,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144826,
+      "num": 144826,
+      "word": "这才是观众想看的大女主",
+      "onboard_time": 1755572661,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 143399,
@@ -443,6 +507,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141879,
+      "num": 277189,
+      "word": "人民日报专访胖东来董事长于东来",
+      "onboard_time": 1755569300,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141554,
+      "num": 141554,
+      "word": "中国首部8K拍摄太空电影",
+      "onboard_time": 1755572661,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141040,
+      "num": 141040,
+      "word": "广电总局改进电视剧内容审查工作",
+      "onboard_time": 1755568282,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139230,
       "num": 139230,
       "word": "男孩因与哥哥打架被父亲扔在国道上",
@@ -467,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135438,
-      "num": 135438,
-      "word": "广电总局改进电视剧内容审查工作",
-      "onboard_time": 1755568282,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134313,
       "num": 134313,
       "word": "美国反对乌克兰加入北约",
@@ -497,6 +577,14 @@
       "onboard_time": 1755568881,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128067,
+      "num": 128067,
+      "word": "浓度演员 淡人肖战",
+      "onboard_time": 1755572839,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 128066,
@@ -539,6 +627,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 119835,
+      "num": 119835,
+      "word": "刘宇宁7年发表超200首原唱歌曲",
+      "onboard_time": 1755570921,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118133,
       "num": 118133,
       "word": "孙颖莎说没拧上",
@@ -547,12 +643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116608,
-      "num": 199017,
-      "word": "辛巴只退网未回应卫生巾问题",
-      "onboard_time": 1755568642,
-      "rank": 34,
-      "category": "舆论监督,网红"
+      "raw_hot": 117261,
+      "num": 119057,
+      "word": "陈飞宇 一饭封神",
+      "onboard_time": 1755572602,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116458,
+      "num": 116458,
+      "word": "永远不要放弃下午的五点钟",
+      "onboard_time": 1755571521,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 114455,
@@ -569,6 +673,14 @@
       "onboard_time": 1755528443,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112923,
+      "num": 112923,
+      "word": "不吹空调风去吹自然风",
+      "onboard_time": 1755573080,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 111780,
@@ -592,14 +704,6 @@
       "word": "男孩多年坚持看望已离婚继母",
       "onboard_time": 1755566421,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108822,
-      "num": 108822,
-      "word": "人民日报专访胖东来董事长于东来",
-      "onboard_time": 1755569300,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -633,6 +737,22 @@
       "onboard_time": 1755530302,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105212,
+      "num": 105212,
+      "word": "大专男生回应开面馆陪女友读研",
+      "onboard_time": 1755570441,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105117,
+      "num": 105117,
+      "word": "张新成 我是个比较拧巴的人",
+      "onboard_time": 1755573320,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 100015,
@@ -859,6 +979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54368,
+      "num": 179375,
+      "word": "奥迪E5开启预定",
+      "onboard_time": 1755571821,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 51850,
       "num": 51850,
       "word": "王影璐瘦成啥样了",
@@ -899,12 +1027,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39015,
+      "num": 141237,
+      "word": "特泽会现场一幅地图意味深长",
+      "onboard_time": 1755572480,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37123,
       "num": 67225,
       "word": "6种又甜又低糖的水果",
       "onboard_time": 1755544454,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 33868,
+      "num": 240009,
+      "word": "全新小鹏P7可街可赛",
+      "onboard_time": 1755572661,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 29569,
@@ -1001,6 +1145,14 @@
       "onboard_time": 1755552854,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15113,
+      "num": 119057,
+      "word": "南刘涛北海璐",
+      "onboard_time": 1755573201,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 14976,
