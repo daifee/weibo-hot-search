@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755588336671,
+  "endTime": 1755589180692,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 750911,
-      "num": 465386,
+      "num": 660093,
       "word": "虞书欣W盛典公主裙",
       "onboard_time": 1755584842,
       "rank": 21,
@@ -137,6 +137,14 @@
       "onboard_time": 1755585382,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 733742,
+      "num": 733742,
+      "word": "醉驾送早产妻子就医被判无罪",
+      "onboard_time": 1755586102,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 713198,
@@ -161,14 +169,6 @@
       "onboard_time": 1755579023,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 670613,
-      "num": 670613,
-      "word": "醉驾送早产妻子就医被判无罪",
-      "onboard_time": 1755586102,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 580647,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478745,
+      "num": 261382,
+      "word": "做到一直爱一个人真的不难",
+      "onboard_time": 1755585622,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 478106,
       "num": 478106,
       "word": "陈飞宇 一饭封神",
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435140,
+      "num": 245606,
+      "word": "刘浩存绿色镂空长裙",
+      "onboard_time": 1755587301,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 412819,
       "num": 311291,
       "word": "网传学生强奸虐杀猫不实",
@@ -299,14 +315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 390289,
-      "num": 254812,
-      "word": "做到一直爱一个人真的不难",
-      "onboard_time": 1755585622,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 383252,
       "num": 287453,
       "word": "田曦薇否认与赖伟明恋情",
@@ -323,12 +331,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 375747,
+      "num": 251568,
+      "word": "爷爷奶奶聘了一只小猫回家",
+      "onboard_time": 1755584421,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 364588,
       "num": 309296,
       "word": "向太透露李连杰病情",
       "onboard_time": 1755566003,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359935,
+      "num": 359935,
+      "word": "续面事件顾客再发声",
+      "onboard_time": 1755587542,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350719,
@@ -347,12 +371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322875,
-      "num": 243555,
-      "word": "刘浩存绿色镂空长裙",
-      "onboard_time": 1755587301,
-      "rank": 20,
-      "category": "作品衍生,时尚"
+      "raw_hot": 333537,
+      "num": 230962,
+      "word": "向往的生活开录",
+      "onboard_time": 1755588262,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 321210,
@@ -459,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265991,
-      "num": 251568,
-      "word": "爷爷奶奶聘了一只小猫回家",
-      "onboard_time": 1755584421,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 263290,
       "num": 263290,
       "word": "王楚钦恢复8个积分",
@@ -489,6 +505,14 @@
       "onboard_time": 1755572661,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243164,
+      "num": 223272,
+      "word": "金钟国方回应老婆身份",
+      "onboard_time": 1755587601,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 243142,
@@ -523,14 +547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 230962,
-      "num": 230962,
-      "word": "向往的生活开录",
-      "onboard_time": 1755588262,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227536,
       "num": 174011,
       "word": "乃万发长文倾诉委屈",
@@ -547,12 +563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223272,
-      "num": 223272,
-      "word": "金钟国方回应老婆身份",
-      "onboard_time": 1755587601,
+      "raw_hot": 221734,
+      "num": 221734,
+      "word": "京东已为15万全职骑手缴纳五险一金",
+      "onboard_time": 1755588323,
       "rank": 23,
-      "category": "艺人"
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 217517,
@@ -595,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208140,
+      "num": 208140,
+      "word": "虞书欣帮庞博解围",
+      "onboard_time": 1755588923,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205793,
       "num": 245820,
       "word": "Baolan谈Elk亮小丑",
@@ -620,7 +644,7 @@
     },
     {
       "raw_hot": 201902,
-      "num": 153698,
+      "num": 159456,
       "word": "李昊 太子进组",
       "onboard_time": 1755586882,
       "rank": 30,
@@ -649,6 +673,14 @@
       "onboard_time": 1755562100,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198225,
+      "num": 198225,
+      "word": "为了这1集的群像铺垫了19集",
+      "onboard_time": 1755588022,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 197766,
@@ -699,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190609,
+      "num": 250045,
+      "word": "原神",
+      "onboard_time": 1755587902,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189525,
       "num": 189525,
       "word": "三十而已曼谷篇定档",
@@ -723,16 +763,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183542,
-      "num": 250045,
-      "word": "原神",
-      "onboard_time": 1755587902,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182756,
-      "num": 495230,
+      "num": 667862,
       "word": "今天是第8个中国医师节",
       "onboard_time": 1755564983,
       "rank": 12,
@@ -753,6 +785,14 @@
       "onboard_time": 1755568282,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178792,
+      "num": 178792,
+      "word": "续面事件面馆关门附近商户发声",
+      "onboard_time": 1755587301,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178320,
@@ -793,6 +833,14 @@
       "onboard_time": 1755532823,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177120,
+      "num": 177120,
+      "word": "袁姗姗连爬15天哀牢山",
+      "onboard_time": 1755588203,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 176802,
@@ -923,6 +971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156216,
+      "num": 177203,
+      "word": "雷雨天用手机打电话会不会引雷",
+      "onboard_time": 1755586702,
+      "rank": 26,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 155751,
       "num": 155751,
       "word": "生万物宁可金救绣绣这段看哭了",
@@ -937,14 +993,6 @@
       "onboard_time": 1755581181,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154404,
-      "num": 154404,
-      "word": "续面事件面馆关门附近商户发声",
-      "onboard_time": 1755587301,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153673,
@@ -1107,6 +1155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138006,
+      "num": 138006,
+      "word": "抖舞剧宣闹够了没有",
+      "onboard_time": 1755588983,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137499,
+      "num": 137499,
+      "word": "刘宇宁宝娟我的嗓子",
+      "onboard_time": 1755588684,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137335,
       "num": 137335,
       "word": "炸鱼薯条 朴彩英吃了也沉默",
@@ -1155,6 +1219,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 133745,
+      "num": 133745,
+      "word": "89平米带了7个阳台",
+      "onboard_time": 1755587542,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 133728,
       "num": 133728,
       "word": "7个习惯默默为血管投喂斑块",
@@ -1171,27 +1243,11 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 131951,
-      "num": 158006,
-      "word": "雷雨天用手机打电话会不会引雷",
-      "onboard_time": 1755586702,
-      "rank": 26,
-      "category": "民生新闻,科学科普"
-    },
-    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "老狼也去演短剧了",
       "onboard_time": 1755573501,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 129442,
-      "num": 129442,
-      "word": "为了这1集的群像铺垫了19集",
-      "onboard_time": 1755588022,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1243,12 +1299,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125731,
+      "num": 125731,
+      "word": "王栎鑫张远你俩在干什么",
+      "onboard_time": 1755588622,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124426,
       "num": 124426,
       "word": "Model3老车主加装拨杆需2499元",
       "onboard_time": 1755587241,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 123819,
+      "num": 123819,
+      "word": "朱珠这张脸就该穿旗袍",
+      "onboard_time": 1755589163,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 123557,
@@ -1315,20 +1387,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 120805,
-      "num": 120805,
-      "word": "袁姗姗连爬15天哀牢山",
-      "onboard_time": 1755588203,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 120592,
-      "num": 120592,
-      "word": "89平米带了7个阳台",
-      "onboard_time": 1755587542,
-      "rank": 44,
-      "category": "休闲"
+      "raw_hot": 119702,
+      "num": 119702,
+      "word": "李小鹏一小时体能课10万元被拍下",
+      "onboard_time": 1755587662,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 118346,
@@ -1363,12 +1427,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 116952,
-      "num": 116952,
-      "word": "李小鹏一小时体能课10万元被拍下",
-      "onboard_time": 1755587662,
+      "raw_hot": 117696,
+      "num": 117696,
+      "word": "你的骑手正在休陪产假",
+      "onboard_time": 1755588382,
       "rank": 45,
-      "category": "体育"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116458,
@@ -1385,6 +1449,14 @@
       "onboard_time": 1755576862,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114667,
+      "num": 153444,
+      "word": "白宫发特朗普与普京通话照",
+      "onboard_time": 1755585321,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114455,
@@ -1483,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109661,
+      "num": 109661,
+      "word": "年轻人买车不要冲动",
+      "onboard_time": 1755587181,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 109275,
       "num": 109275,
       "word": "失联大学生家属被索要20万才放人",
@@ -1505,14 +1585,6 @@
       "onboard_time": 1755584542,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108186,
-      "num": 153444,
-      "word": "白宫发特朗普与普京通话照",
-      "onboard_time": 1755585321,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107593,
@@ -1627,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99140,
+      "num": 99140,
+      "word": "还以为殉情只是古老的传言",
+      "onboard_time": 1755589101,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98631,
       "num": 98631,
       "word": "孙一宁因喝酒进医院",
@@ -1704,14 +1784,6 @@
       "word": "外卖员闪婚美籍幼师",
       "onboard_time": 1755579922,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86919,
-      "num": 245003,
-      "word": "续面事件顾客再发声",
-      "onboard_time": 1755587542,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1840,6 +1912,14 @@
       "word": "男子被女友骗至缅甸电诈园被打尿血",
       "onboard_time": 1755518123,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73317,
+      "num": 278222,
+      "word": "当地回应面店老板阴阳顾客是七匹狼",
+      "onboard_time": 1755588684,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1995,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43454,
+      "num": 177140,
+      "word": "续面饭店门前恢复平静目击者发声",
+      "onboard_time": 1755588862,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43383,
       "num": 43383,
       "word": "绣绣真的好勇敢",
@@ -2080,6 +2168,14 @@
       "word": "湖南卫视连发20条丞磊",
       "onboard_time": 1755539597,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28002,
+      "num": 126999,
+      "word": "明道直播时夸王一博",
+      "onboard_time": 1755588983,
+      "rank": 39,
       "category": "艺人"
     },
     {

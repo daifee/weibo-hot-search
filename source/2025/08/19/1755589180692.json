@@ -1,0 +1,410 @@
+{
+  "runTime": 1755589180692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1057500,
+        "num": 1169200,
+        "word": "明星W盛典造型图",
+        "onboard_time": 1755584242,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 733742,
+        "num": 733742,
+        "word": "醉驾送早产妻子就医被判无罪",
+        "onboard_time": 1755586102,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21858,
+        "num": 667862,
+        "word": "今天是第8个中国医师节",
+        "onboard_time": 1755564983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660093,
+        "num": 660093,
+        "word": "虞书欣W盛典公主裙",
+        "onboard_time": 1755584842,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 359935,
+        "num": 359935,
+        "word": "续面事件顾客再发声",
+        "onboard_time": 1755587542,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284152,
+        "num": 284152,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 5,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 560734,
+        "num": 283964,
+        "word": "剧宣 婚闹",
+        "onboard_time": 1755576203,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553002,
+        "num": 283693,
+        "word": "赵今麦眼妆",
+        "onboard_time": 1755585382,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283158,
+        "num": 283158,
+        "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
+        "onboard_time": 1755578664,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73317,
+        "num": 278222,
+        "word": "当地回应面店老板阴阳顾客是七匹狼",
+        "onboard_time": 1755588684,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684093,
+        "num": 269970,
+        "word": "张元英汗毛",
+        "onboard_time": 1755576683,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483714,
+        "num": 268944,
+        "word": "赵丽颖黄晓明新剧全员演技派",
+        "onboard_time": 1755584783,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478745,
+        "num": 261382,
+        "word": "做到一直爱一个人真的不难",
+        "onboard_time": 1755585622,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438467,
+        "num": 251137,
+        "word": "我们的明天 翻唱",
+        "onboard_time": 1755579023,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 435140,
+        "num": 245606,
+        "word": "刘浩存绿色镂空长裙",
+        "onboard_time": 1755587301,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 375747,
+        "num": 235225,
+        "word": "爷爷奶奶聘了一只小猫回家",
+        "onboard_time": 1755584421,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347092,
+        "num": 230705,
+        "word": "于正 我和林心如和好了",
+        "onboard_time": 1755576322,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228071,
+        "num": 228071,
+        "word": "上海一主理人新店开业当天即闭店",
+        "onboard_time": 1755574221,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199032,
+        "num": 227417,
+        "word": "Baolan谈Elk亮小丑",
+        "onboard_time": 1755587181,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194127,
+        "num": 226182,
+        "word": "印度人在华旅游乱扔垃圾",
+        "onboard_time": 1755582622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333537,
+        "num": 224492,
+        "word": "向往的生活开录",
+        "onboard_time": 1755588262,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259205,
+        "num": 223475,
+        "word": "张维伊叫小酒窝窝子",
+        "onboard_time": 1755580522,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243164,
+        "num": 221921,
+        "word": "金钟国方回应老婆身份",
+        "onboard_time": 1755587601,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221734,
+        "num": 221734,
+        "word": "京东已为15万全职骑手缴纳五险一金",
+        "onboard_time": 1755588323,
+        "rank": 23,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 208140,
+        "num": 208140,
+        "word": "虞书欣帮庞博解围",
+        "onboard_time": 1755588923,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198225,
+        "num": 198225,
+        "word": "为了这1集的群像铺垫了19集",
+        "onboard_time": 1755588022,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190609,
+        "num": 190609,
+        "word": "原神",
+        "onboard_time": 1755587902,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178792,
+        "num": 178792,
+        "word": "续面事件面馆关门附近商户发声",
+        "onboard_time": 1755587301,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156216,
+        "num": 177203,
+        "word": "雷雨天用手机打电话会不会引雷",
+        "onboard_time": 1755586702,
+        "rank": 28,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 43454,
+        "num": 177140,
+        "word": "续面饭店门前恢复平静目击者发声",
+        "onboard_time": 1755588862,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177120,
+        "num": 177120,
+        "word": "袁姗姗连爬15天哀牢山",
+        "onboard_time": 1755588203,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161948,
+        "num": 161948,
+        "word": "李雪琴 王一通",
+        "onboard_time": 1755584121,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159456,
+        "num": 159456,
+        "word": "李昊 太子进组",
+        "onboard_time": 1755586882,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152429,
+        "num": 152429,
+        "word": "QQ音乐为梓渝定制歌曲",
+        "onboard_time": 1755582622,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141014,
+        "num": 141014,
+        "word": "欧豪演技",
+        "onboard_time": 1755583702,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138006,
+        "num": 138006,
+        "word": "抖舞剧宣闹够了没有",
+        "onboard_time": 1755588983,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137499,
+        "num": 137499,
+        "word": "刘宇宁宝娟我的嗓子",
+        "onboard_time": 1755588684,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133745,
+        "num": 133745,
+        "word": "89平米带了7个阳台",
+        "onboard_time": 1755587542,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 128874,
+        "num": 128874,
+        "word": "血管堵了手脚会有4种表现",
+        "onboard_time": 1755576082,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28002,
+        "num": 126999,
+        "word": "明道直播时夸王一博",
+        "onboard_time": 1755588983,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126960,
+        "num": 126960,
+        "word": "子夜归生万物你们不要再吵了啦",
+        "onboard_time": 1755587782,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125731,
+        "num": 125731,
+        "word": "王栎鑫张远你俩在干什么",
+        "onboard_time": 1755588622,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123819,
+        "num": 123819,
+        "word": "朱珠这张脸就该穿旗袍",
+        "onboard_time": 1755589163,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119740,
+        "num": 119740,
+        "word": "罗永浩说李想活的太舒服了",
+        "onboard_time": 1755588262,
+        "rank": 43,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 119702,
+        "num": 119702,
+        "word": "李小鹏一小时体能课10万元被拍下",
+        "onboard_time": 1755587662,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117696,
+        "num": 117696,
+        "word": "你的骑手正在休陪产假",
+        "onboard_time": 1755588382,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114667,
+        "num": 114667,
+        "word": "白宫发特朗普与普京通话照",
+        "onboard_time": 1755585321,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109661,
+        "num": 109661,
+        "word": "年轻人买车不要冲动",
+        "onboard_time": 1755587181,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109202,
+        "num": 109202,
+        "word": "山东失联大学生通话录音曝光",
+        "onboard_time": 1755578542,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99140,
+        "num": 99140,
+        "word": "还以为殉情只是古老的传言",
+        "onboard_time": 1755589101,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一种精神叫不屈#"
+    }
+  }
+}
