@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755586307739,
+  "endTime": 1755588336671,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1092579,
+      "num": 1174812,
+      "word": "明星W盛典造型图",
+      "onboard_time": 1755584242,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1034574,
       "num": 1034574,
       "word": "官方通报小米车主逆行超速致4死",
@@ -81,14 +89,6 @@
       "onboard_time": 1755557897,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 817813,
-      "num": 1130850,
-      "word": "明星W盛典造型图",
-      "onboard_time": 1755584242,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 804638,
@@ -123,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 750911,
+      "num": 465386,
+      "word": "虞书欣W盛典公主裙",
+      "onboard_time": 1755584842,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 741223,
+      "num": 294841,
+      "word": "赵今麦眼妆",
+      "onboard_time": 1755585382,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 713198,
       "num": 713198,
       "word": "光遇",
@@ -147,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670613,
+      "num": 670613,
+      "word": "醉驾送早产妻子就医被判无罪",
+      "onboard_time": 1755586102,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580647,
       "num": 423342,
       "word": "网传镖人女主换陈丽君补拍",
@@ -163,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 533928,
-      "num": 277610,
-      "word": "虞书欣W盛典公主裙",
-      "onboard_time": 1755584842,
-      "rank": 21,
-      "category": "作品衍生,时尚"
+      "raw_hot": 552100,
+      "num": 270847,
+      "word": "赵丽颖黄晓明新剧全员演技派",
+      "onboard_time": 1755584783,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 529182,
@@ -275,12 +299,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 386890,
-      "num": 157579,
-      "word": "赵今麦眼妆",
-      "onboard_time": 1755585382,
-      "rank": 30,
-      "category": "作品衍生,时尚"
+      "raw_hot": 390289,
+      "num": 254812,
+      "word": "做到一直爱一个人真的不难",
+      "onboard_time": 1755585622,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 383252,
@@ -323,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 326357,
-      "num": 226266,
-      "word": "赵丽颖黄晓明新剧全员演技派",
-      "onboard_time": 1755584783,
+      "raw_hot": 322875,
+      "num": 243555,
+      "word": "刘浩存绿色镂空长裙",
+      "onboard_time": 1755587301,
       "rank": 20,
-      "category": "剧集"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 321210,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 308579,
-      "num": 229227,
+      "num": 247336,
       "word": "印度人在华旅游乱扔垃圾",
       "onboard_time": 1755582622,
       "rank": 19,
@@ -435,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265991,
+      "num": 251568,
+      "word": "爷爷奶奶聘了一只小猫回家",
+      "onboard_time": 1755584421,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263290,
       "num": 263290,
       "word": "王楚钦恢复8个积分",
@@ -491,6 +523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 230962,
+      "num": 230962,
+      "word": "向往的生活开录",
+      "onboard_time": 1755588262,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227536,
       "num": 174011,
       "word": "乃万发长文倾诉委屈",
@@ -504,6 +544,14 @@
       "word": "滕泽文上线",
       "onboard_time": 1755578122,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223272,
+      "num": 223272,
+      "word": "金钟国方回应老婆身份",
+      "onboard_time": 1755587601,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -547,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205793,
+      "num": 245820,
+      "word": "Baolan谈Elk亮小丑",
+      "onboard_time": 1755587181,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204275,
       "num": 175826,
       "word": "特斯拉ModelYL正式发布",
@@ -561,6 +617,22 @@
       "onboard_time": 1755577581,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201902,
+      "num": 153698,
+      "word": "李昊 太子进组",
+      "onboard_time": 1755586882,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199086,
+      "num": 153363,
+      "word": "田曦薇李一桐还回家吃饭吗",
+      "onboard_time": 1755587062,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 198481,
@@ -651,8 +723,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183542,
+      "num": 250045,
+      "word": "原神",
+      "onboard_time": 1755587902,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182756,
-      "num": 294153,
+      "num": 495230,
       "word": "今天是第8个中国医师节",
       "onboard_time": 1755564983,
       "rank": 12,
@@ -739,6 +819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173910,
+      "num": 152740,
+      "word": "子夜归生万物你们不要再吵了啦",
+      "onboard_time": 1755587782,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171038,
       "num": 155511,
       "word": "心动的信号8",
@@ -753,6 +841,14 @@
       "onboard_time": 1755569300,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165402,
+      "num": 154095,
+      "word": "龚俊经常请客的帅气哥哥",
+      "onboard_time": 1755587062,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 164515,
@@ -843,12 +939,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154404,
+      "num": 154404,
+      "word": "续面事件面馆关门附近商户发声",
+      "onboard_time": 1755587301,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153673,
       "num": 153673,
       "word": "真的建议不要喝点外卖送的饮料",
       "onboard_time": 1755509421,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152720,
+      "num": 152720,
+      "word": "欧豪演技",
+      "onboard_time": 1755583702,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 150447,
@@ -995,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137404,
-      "num": 137404,
-      "word": "爷爷奶奶聘了一只小猫回家",
-      "onboard_time": 1755584421,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137335,
       "num": 137335,
       "word": "炸鱼薯条 朴彩英吃了也沉默",
@@ -1027,14 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135158,
-      "num": 135158,
-      "word": "做到一直爱一个人真的不难",
-      "onboard_time": 1755585622,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135023,
       "num": 135023,
       "word": "姐姐妹妹抓娃娃开播",
@@ -1049,6 +1145,14 @@
       "onboard_time": 1755564682,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134139,
+      "num": 134139,
+      "word": "罗永浩说李想活的太舒服了",
+      "onboard_time": 1755588262,
+      "rank": 37,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 133728,
@@ -1067,6 +1171,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 131951,
+      "num": 158006,
+      "word": "雷雨天用手机打电话会不会引雷",
+      "onboard_time": 1755586702,
+      "rank": 26,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "老狼也去演短剧了",
@@ -1075,12 +1187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129589,
-      "num": 137394,
-      "word": "醉驾送早产妻子就医被判无罪",
-      "onboard_time": 1755586102,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 129442,
+      "num": 129442,
+      "word": "为了这1集的群像铺垫了19集",
+      "onboard_time": 1755588022,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 129355,
@@ -1131,6 +1243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 124426,
+      "num": 124426,
+      "word": "Model3老车主加装拨杆需2499元",
+      "onboard_time": 1755587241,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123557,
       "num": 123557,
       "word": "张海宇生万物喜剧邪修",
@@ -1163,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122565,
+      "num": 122565,
+      "word": "寒武纪股价突破1000元",
+      "onboard_time": 1755588142,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122531,
       "num": 122531,
       "word": "警方通报海口世纪大桥碰撞事故",
@@ -1187,12 +1315,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 120877,
-      "num": 120877,
-      "word": "欧豪演技",
-      "onboard_time": 1755583702,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 120805,
+      "num": 120805,
+      "word": "袁姗姗连爬15天哀牢山",
+      "onboard_time": 1755588203,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120592,
+      "num": 120592,
+      "word": "89平米带了7个阳台",
+      "onboard_time": 1755587542,
+      "rank": 44,
+      "category": "休闲"
     },
     {
       "raw_hot": 118346,
@@ -1225,6 +1361,14 @@
       "onboard_time": 1755583641,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116952,
+      "num": 116952,
+      "word": "李小鹏一小时体能课10万元被拍下",
+      "onboard_time": 1755587662,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 116458,
@@ -1363,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108186,
+      "num": 153444,
+      "word": "白宫发特朗普与普京通话照",
+      "onboard_time": 1755585321,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107593,
       "num": 107593,
       "word": "辛巴第5次宣布退网",
@@ -1475,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98671,
-      "num": 135410,
-      "word": "白宫发特朗普与普京通话照",
-      "onboard_time": 1755585321,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 98631,
       "num": 98631,
       "word": "孙一宁因喝酒进医院",
@@ -1560,6 +1704,14 @@
       "word": "外卖员闪婚美籍幼师",
       "onboard_time": 1755579922,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86919,
+      "num": 245003,
+      "word": "续面事件顾客再发声",
+      "onboard_time": 1755587542,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1859,6 +2011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40231,
+      "num": 130627,
+      "word": "博物院展柜内出现手机",
+      "onboard_time": 1755587482,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39015,
       "num": 167479,
       "word": "特泽会现场一幅地图意味深长",
@@ -2009,11 +2169,22 @@
       "onboard_time": 1755550453,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8907,
+      "num": 129855,
+      "word": "好久没听到孙颖莎这声Hai了",
+      "onboard_time": 1755587782,
+      "rank": 39,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#跟着总书记走进抗战纪念地#"
+    },
+    {
+      "word": "#有一种精神叫不屈#"
     }
   ]
 }

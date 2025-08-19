@@ -1,0 +1,410 @@
+{
+  "runTime": 1755588336671,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1092579,
+        "num": 1174812,
+        "word": "明星W盛典造型图",
+        "onboard_time": 1755584242,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 670613,
+        "num": 670613,
+        "word": "醉驾送早产妻子就医被判无罪",
+        "onboard_time": 1755586102,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29677,
+        "num": 495230,
+        "word": "今天是第8个中国医师节",
+        "onboard_time": 1755564983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 750911,
+        "num": 465386,
+        "word": "虞书欣W盛典公主裙",
+        "onboard_time": 1755584842,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 419349,
+        "num": 419349,
+        "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
+        "onboard_time": 1755578664,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321909,
+        "num": 321909,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 5,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 741223,
+        "num": 294841,
+        "word": "赵今麦眼妆",
+        "onboard_time": 1755585382,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 640986,
+        "num": 276518,
+        "word": "剧宣 婚闹",
+        "onboard_time": 1755576203,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552100,
+        "num": 270847,
+        "word": "赵丽颖黄晓明新剧全员演技派",
+        "onboard_time": 1755584783,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257922,
+        "num": 257922,
+        "word": "上海一主理人新店开业当天即闭店",
+        "onboard_time": 1755574221,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728452,
+        "num": 256848,
+        "word": "张元英汗毛",
+        "onboard_time": 1755576683,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467149,
+        "num": 255643,
+        "word": "我们的明天 翻唱",
+        "onboard_time": 1755579023,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390289,
+        "num": 254812,
+        "word": "做到一直爱一个人真的不难",
+        "onboard_time": 1755585622,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366779,
+        "num": 253209,
+        "word": "于正 我和林心如和好了",
+        "onboard_time": 1755576322,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265991,
+        "num": 251568,
+        "word": "爷爷奶奶聘了一只小猫回家",
+        "onboard_time": 1755584421,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183542,
+        "num": 250045,
+        "word": "原神",
+        "onboard_time": 1755587902,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 342391,
+        "num": 248233,
+        "word": "张维伊叫小酒窝窝子",
+        "onboard_time": 1755580522,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258447,
+        "num": 247336,
+        "word": "印度人在华旅游乱扔垃圾",
+        "onboard_time": 1755582622,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205793,
+        "num": 245820,
+        "word": "Baolan谈Elk亮小丑",
+        "onboard_time": 1755587181,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86919,
+        "num": 245003,
+        "word": "续面事件顾客再发声",
+        "onboard_time": 1755587542,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322875,
+        "num": 243555,
+        "word": "刘浩存绿色镂空长裙",
+        "onboard_time": 1755587301,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242664,
+        "num": 242664,
+        "word": "QQ音乐为梓渝定制歌曲",
+        "onboard_time": 1755582622,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230962,
+        "num": 230962,
+        "word": "向往的生活开录",
+        "onboard_time": 1755588262,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223272,
+        "num": 223272,
+        "word": "金钟国方回应老婆身份",
+        "onboard_time": 1755587601,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163990,
+        "num": 163990,
+        "word": "山东失联大学生通话录音曝光",
+        "onboard_time": 1755578542,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220892,
+        "num": 161862,
+        "word": "虞书欣出发W盛典机场路透",
+        "onboard_time": 1755582622,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131951,
+        "num": 158006,
+        "word": "雷雨天用手机打电话会不会引雷",
+        "onboard_time": 1755586702,
+        "rank": 26,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 154404,
+        "num": 154404,
+        "word": "续面事件面馆关门附近商户发声",
+        "onboard_time": 1755587301,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24031,
+        "num": 154314,
+        "word": "易烊千玺想看海的一粒沙",
+        "onboard_time": 1755583582,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165402,
+        "num": 154095,
+        "word": "龚俊经常请客的帅气哥哥",
+        "onboard_time": 1755587062,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201902,
+        "num": 153698,
+        "word": "李昊 太子进组",
+        "onboard_time": 1755586882,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108186,
+        "num": 153444,
+        "word": "白宫发特朗普与普京通话照",
+        "onboard_time": 1755585321,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199086,
+        "num": 153363,
+        "word": "田曦薇李一桐还回家吃饭吗",
+        "onboard_time": 1755587062,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179822,
+        "num": 153189,
+        "word": "李雪琴 王一通",
+        "onboard_time": 1755584121,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173910,
+        "num": 152740,
+        "word": "子夜归生万物你们不要再吵了啦",
+        "onboard_time": 1755587782,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152720,
+        "num": 152720,
+        "word": "欧豪演技",
+        "onboard_time": 1755583702,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142722,
+        "num": 142722,
+        "word": "血管堵了手脚会有4种表现",
+        "onboard_time": 1755576082,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134139,
+        "num": 134139,
+        "word": "罗永浩说李想活的太舒服了",
+        "onboard_time": 1755588262,
+        "rank": 37,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 40231,
+        "num": 130627,
+        "word": "博物院展柜内出现手机",
+        "onboard_time": 1755587482,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8907,
+        "num": 129855,
+        "word": "好久没听到孙颖莎这声Hai了",
+        "onboard_time": 1755587782,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129442,
+        "num": 129442,
+        "word": "为了这1集的群像铺垫了19集",
+        "onboard_time": 1755588022,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124426,
+        "num": 124426,
+        "word": "Model3老车主加装拨杆需2499元",
+        "onboard_time": 1755587241,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122565,
+        "num": 122565,
+        "word": "寒武纪股价突破1000元",
+        "onboard_time": 1755588142,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120805,
+        "num": 120805,
+        "word": "袁姗姗连爬15天哀牢山",
+        "onboard_time": 1755588203,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120592,
+        "num": 120592,
+        "word": "89平米带了7个阳台",
+        "onboard_time": 1755587542,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 116952,
+        "num": 116952,
+        "word": "李小鹏一小时体能课10万元被拍下",
+        "onboard_time": 1755587662,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112620,
+        "num": 112620,
+        "word": "三十而已曼谷篇定档",
+        "onboard_time": 1755582562,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113235,
+        "num": 112610,
+        "word": "老人散步故意肘击训练学生",
+        "onboard_time": 1755571882,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113470,
+        "num": 112565,
+        "word": "镖人 陈丽君",
+        "onboard_time": 1755579023,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111848,
+        "num": 111848,
+        "word": "意大利总理翻白眼",
+        "onboard_time": 1755583641,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一种精神叫不屈#"
+    }
+  }
+}
