@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755639540659,
+  "endTime": 1755642298585,
   "band_list": [
     {
       "raw_hot": 1375053,
@@ -43,6 +43,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 448357,
+      "num": 448357,
+      "word": "黑神话",
+      "onboard_time": 1755636554,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 385001,
       "num": 385001,
       "word": "杨超越700度近视",
@@ -81,14 +89,6 @@
       "onboard_time": 1755616584,
       "rank": 7,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 317578,
-      "num": 317578,
-      "word": "黑神话",
-      "onboard_time": 1755636554,
-      "rank": 0,
-      "category": "游戏"
     },
     {
       "raw_hot": 310526,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214110,
+      "num": 214110,
+      "word": "王晶称很多明星爆火都是资本做局",
+      "onboard_time": 1755629296,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209208,
       "num": 209208,
       "word": "一人一句告别夏天",
@@ -227,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137804,
-      "num": 137804,
-      "word": "王晶称很多明星爆火都是资本做局",
-      "onboard_time": 1755629296,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136676,
       "num": 146481,
       "word": "我让你删的文件你怎么删了",
@@ -273,6 +273,14 @@
       "onboard_time": 1755616346,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115298,
+      "num": 115298,
+      "word": "泽连斯基55秒开场白说了8次谢谢",
+      "onboard_time": 1755636013,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115127,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 79178,
-      "num": 65326,
+      "num": 69476,
       "word": "倪妮 下身基础上身就不基础",
       "onboard_time": 1755624620,
       "rank": 34,
@@ -459,14 +467,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 45019,
-      "num": 45019,
-      "word": "泽连斯基55秒开场白说了8次谢谢",
-      "onboard_time": 1755636013,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 43459,
       "num": 65289,
       "word": "虞书欣如同宋佳女儿一般被抓了过来",
@@ -507,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31988,
+      "num": 31988,
+      "word": "学校回应20岁女留学生遭诈骗自杀",
+      "onboard_time": 1755630435,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29817,
+      "num": 29817,
+      "word": "摆摊月入4K小孩哥自研20多种新品",
+      "onboard_time": 1755616346,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27181,
       "num": 38409,
       "word": "柳智敏金九银十",
@@ -523,28 +539,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 26483,
+      "num": 26483,
+      "word": "导演谈藏海传为什么会火",
+      "onboard_time": 1755637815,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25290,
+      "num": 25363,
+      "word": "杨幂姚晨倪大红受害者同框",
+      "onboard_time": 1755634154,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 24961,
       "num": 35567,
       "word": "捕风追影二创追着喂饭吃",
       "onboard_time": 1755628815,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 23268,
-      "num": 31978,
-      "word": "学校回应20岁女留学生遭诈骗自杀",
-      "onboard_time": 1755630435,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23205,
-      "num": 25363,
-      "word": "杨幂姚晨倪大红受害者同框",
-      "onboard_time": 1755634154,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 18771,
@@ -561,22 +577,6 @@
       "onboard_time": 1755634394,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17051,
-      "num": 25350,
-      "word": "摆摊月入4K小孩哥自研20多种新品",
-      "onboard_time": 1755616346,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16354,
-      "num": 17051,
-      "word": "导演谈藏海传为什么会火",
-      "onboard_time": 1755637815,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 13097,
