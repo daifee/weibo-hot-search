@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755614702917,
+  "endTime": 1755617329653,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -137,6 +137,14 @@
       "onboard_time": 1755600144,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1420506,
+      "num": 369863,
+      "word": "毛晓彤方否认与陈晓恋情",
+      "onboard_time": 1755615444,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1412671,
@@ -387,6 +395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 644908,
+      "num": 369492,
+      "word": "生万物一飙之下",
+      "onboard_time": 1755611906,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 635089,
       "num": 635089,
       "word": "东方甄选报警",
@@ -427,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 612548,
+      "num": 612548,
+      "word": "每天只睡6小时身体的变化",
+      "onboard_time": 1755596063,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 589191,
       "num": 453201,
       "word": "杨幂的第100套高定",
@@ -441,6 +465,14 @@
       "onboard_time": 1755578722,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 573487,
+      "num": 369113,
+      "word": "翟潇闻 不用了吧",
+      "onboard_time": 1755614067,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 565011,
@@ -507,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 527219,
-      "num": 326005,
-      "word": "生万物一飙之下",
-      "onboard_time": 1755611906,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 525099,
       "num": 270140,
       "word": "虞书欣出发W盛典机场路透",
@@ -561,14 +585,6 @@
       "onboard_time": 1755569360,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 496945,
-      "num": 496945,
-      "word": "每天只睡6小时身体的变化",
-      "onboard_time": 1755596063,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 488802,
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405326,
+      "num": 311507,
+      "word": "续面事件老板回应曾拖欠厨师工资",
+      "onboard_time": 1755611488,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404586,
       "num": 191730,
       "word": "宋茜裙子",
@@ -739,8 +763,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 369565,
-      "num": 369565,
+      "raw_hot": 371601,
+      "num": 371601,
       "word": "韩国第一夫人为李在明买睡衣",
       "onboard_time": 1755609925,
       "rank": 19,
@@ -875,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 288268,
+      "num": 288268,
+      "word": "男子在离婚冷静期毒杀一双儿女",
+      "onboard_time": 1755613526,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288006,
       "num": 288006,
       "word": "iG战胜BLG",
@@ -947,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277342,
+      "num": 277342,
+      "word": "封大脚人设",
+      "onboard_time": 1755616044,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269720,
       "num": 269720,
       "word": "孩子脱鞋138cm补票后家长投诉退票",
@@ -963,20 +1003,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261453,
-      "num": 261453,
-      "word": "男子在离婚冷静期毒杀一双儿女",
-      "onboard_time": 1755613526,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257990,
       "num": 257990,
       "word": "迪丽热巴出发W盛典机场路透",
       "onboard_time": 1755564382,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256816,
+      "num": 369929,
+      "word": "小米YU7车主讲述被水泥车撞击过程",
+      "onboard_time": 1755616164,
+      "rank": 9,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 255828,
@@ -1027,12 +1067,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 247539,
-      "num": 247539,
-      "word": "翟潇闻 不用了吧",
-      "onboard_time": 1755614067,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 244761,
+      "num": 244761,
+      "word": "马嘉祺背头",
+      "onboard_time": 1755615024,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 244347,
+      "num": 244347,
+      "word": "杨幂刘诗诗辛芷蕾合照",
+      "onboard_time": 1755615265,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 243564,
@@ -1065,6 +1113,14 @@
       "onboard_time": 1755560360,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 238410,
+      "num": 345220,
+      "word": "释永信给全国佛教界抹黑",
+      "onboard_time": 1755615205,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236080,
@@ -1208,14 +1264,6 @@
       "word": "一地招聘研究生月薪三千",
       "onboard_time": 1755575662,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212712,
-      "num": 305705,
-      "word": "续面事件老板回应曾拖欠厨师工资",
-      "onboard_time": 1755611488,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1515,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186548,
+      "num": 186548,
+      "word": "胡先煦方律师声明",
+      "onboard_time": 1755616164,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186347,
       "num": 161536,
       "word": "周也魔法女巫",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1755595524,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185333,
+      "num": 185333,
+      "word": "易烊千玺窦靖童合照",
+      "onboard_time": 1755616346,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 184267,
@@ -1659,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177084,
+      "num": 177084,
+      "word": "李思思 高级东方美",
+      "onboard_time": 1755616044,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 177036,
       "num": 177036,
       "word": "海口多家单位招聘研究生月薪3000",
@@ -1761,6 +1833,14 @@
       "onboard_time": 1755599006,
       "rank": 34,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 172393,
+      "num": 172393,
+      "word": "露露什么时候下线",
+      "onboard_time": 1755614186,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 172148,
@@ -1875,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162591,
+      "num": 162591,
+      "word": "泡泡玛特新品没卖已被炒到800元",
+      "onboard_time": 1755616584,
+      "rank": 37,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 162028,
       "num": 162028,
       "word": "时代少年团 今天你要嫁给我",
@@ -1961,6 +2049,14 @@
       "onboard_time": 1755608905,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155904,
+      "num": 155904,
+      "word": "女生在公司用微波炉加热速冻饺子",
+      "onboard_time": 1755616465,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155751,
@@ -2099,14 +2195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147071,
-      "num": 147071,
-      "word": "露露什么时候下线",
-      "onboard_time": 1755614186,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147022,
       "num": 147022,
       "word": "银川高级中学通报网传学生虐猫",
@@ -2224,6 +2312,14 @@
       "word": "像中国火箭一飞冲天",
       "onboard_time": 1755594084,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142252,
+      "num": 283579,
+      "word": "中国佛教协会称释永信给佛教界抹黑",
+      "onboard_time": 1755613886,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2419,6 +2515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130045,
+      "num": 355319,
+      "word": "三伏天结束了又好像没结束",
+      "onboard_time": 1755616885,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "老狼也去演短剧了",
@@ -2521,6 +2625,14 @@
       "onboard_time": 1755602546,
       "rank": 45,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 124777,
+      "num": 124777,
+      "word": "樊振东登上CCTV1新闻联播",
+      "onboard_time": 1755614724,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 124426,
@@ -2987,12 +3099,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103632,
+      "num": 117551,
+      "word": "成都蓉城3比4河南队",
+      "onboard_time": 1755616164,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102889,
       "num": 102889,
       "word": "证监会老处长家里抄出数亿元现金",
       "onboard_time": 1755585382,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102432,
+      "num": 130393,
+      "word": "关于纪念抗战的几种错误论调",
+      "onboard_time": 1755615624,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102413,
@@ -3507,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51964,
+      "num": 336846,
+      "word": "200元买棉密码用1盒得妇科病",
+      "onboard_time": 1755615744,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51850,
       "num": 51850,
       "word": "王影璐瘦成啥样了",
@@ -3536,6 +3672,14 @@
       "word": "女子称毛坯房2个月用水477吨",
       "onboard_time": 1755592523,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50377,
+      "num": 157875,
+      "word": "摆摊月入4K小孩哥自研20多种新品",
+      "onboard_time": 1755616346,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3697,14 +3841,6 @@
       "onboard_time": 1755585202,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 32611,
-      "num": 283579,
-      "word": "中国佛教协会称释永信给佛教界抹黑",
-      "onboard_time": 1755613886,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30377,
