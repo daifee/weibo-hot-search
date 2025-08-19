@@ -1,7 +1,15 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755592454309,
+  "endTime": 1755593317784,
   "band_list": [
+    {
+      "raw_hot": 2492976,
+      "num": 2492976,
+      "word": "迪丽热巴605天没走红毯了",
+      "onboard_time": 1755589643,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
     {
       "raw_hot": 2204793,
       "num": 2204793,
@@ -9,14 +17,6 @@
       "onboard_time": 1755564682,
       "rank": 0,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 2141700,
-      "num": 2141700,
-      "word": "迪丽热巴605天没走红毯了",
-      "onboard_time": 1755589643,
-      "rank": 0,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1801503,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1150413,
+      "num": 940067,
+      "word": "续面事件面馆关门附近商户发声",
+      "onboard_time": 1755587301,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1129324,
       "num": 1180691,
       "word": "主刀医生回应身首离断患者被救回",
@@ -88,14 +96,6 @@
       "word": "官方通报小米车主逆行超速致4死",
       "onboard_time": 1755564983,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 917261,
-      "num": 917261,
-      "word": "续面事件面馆关门附近商户发声",
-      "onboard_time": 1755587301,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -187,8 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 603855,
-      "num": 421589,
+      "raw_hot": 632577,
+      "num": 481114,
       "word": "刘浩存绿色镂空长裙",
       "onboard_time": 1755587301,
       "rank": 20,
@@ -211,20 +211,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555688,
+      "num": 458494,
+      "word": "向往的生活开录",
+      "onboard_time": 1755588262,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 552100,
       "num": 270847,
       "word": "赵丽颖黄晓明新剧全员演技派",
       "onboard_time": 1755584783,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 530076,
-      "num": 408227,
-      "word": "向往的生活开录",
-      "onboard_time": 1755588262,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 529182,
@@ -275,8 +275,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 488802,
+      "num": 406436,
+      "word": "89平米带了7个阳台",
+      "onboard_time": 1755587542,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 485106,
+      "num": 485106,
+      "word": "续面事件顾客再发声",
+      "onboard_time": 1755587542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478745,
-      "num": 261382,
+      "num": 330465,
       "word": "做到一直爱一个人真的不难",
       "onboard_time": 1755585622,
       "rank": 38,
@@ -307,22 +323,6 @@
       "category": "舆论监督,网红"
     },
     {
-      "raw_hot": 456853,
-      "num": 456853,
-      "word": "续面事件顾客再发声",
-      "onboard_time": 1755587542,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444505,
-      "num": 219486,
-      "word": "89平米带了7个阳台",
-      "onboard_time": 1755587542,
-      "rank": 44,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 443539,
       "num": 390403,
       "word": "那英去前少说话去后说少了",
@@ -336,6 +336,14 @@
       "word": "网传学生强奸虐杀猫不实",
       "onboard_time": 1755557958,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411991,
+      "num": 411991,
+      "word": "副教授遭精神病人杀害儿子一夜秃头",
+      "onboard_time": 1755591022,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -523,6 +531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252730,
+      "num": 252730,
+      "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
+      "onboard_time": 1755590722,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243883,
+      "num": 243883,
+      "word": "个人养老金新增三种领取情形",
+      "onboard_time": 1755590483,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243564,
       "num": 323153,
       "word": "中国首部8K拍摄太空电影",
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 243164,
-      "num": 223272,
+      "num": 224657,
       "word": "金钟国方回应老婆身份",
       "onboard_time": 1755587601,
       "rank": 23,
@@ -596,19 +620,11 @@
     },
     {
       "raw_hot": 223511,
-      "num": 178519,
+      "num": 184453,
       "word": "田曦薇 王安宇就是最破碎的人",
       "onboard_time": 1755589522,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222635,
-      "num": 222635,
-      "word": "副教授遭精神病人杀害儿子一夜秃头",
-      "onboard_time": 1755591022,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221734,
@@ -625,14 +641,6 @@
       "onboard_time": 1755575122,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215608,
-      "num": 215608,
-      "word": "个人养老金新增三种领取情形",
-      "onboard_time": 1755590483,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213518,
@@ -667,12 +675,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 210338,
+      "num": 210338,
+      "word": "钉钉被曝CEO凌晨巡查工位",
+      "onboard_time": 1755592942,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 208574,
       "num": 208574,
       "word": "男子与儿认亲2年后又一儿子找来",
       "onboard_time": 1755520402,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205215,
+      "num": 205215,
+      "word": "余宇涵和库里握手了",
+      "onboard_time": 1755592703,
+      "rank": 25,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 204275,
@@ -697,6 +721,14 @@
       "onboard_time": 1755586882,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201278,
+      "num": 201278,
+      "word": "庞博采访",
+      "onboard_time": 1755592642,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199086,
@@ -771,12 +803,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192067,
-      "num": 169632,
+      "raw_hot": 193498,
+      "num": 185036,
       "word": "卓沅后援会",
       "onboard_time": 1755589643,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192687,
+      "num": 192687,
+      "word": "东方甄选高位跳水",
+      "onboard_time": 1755592703,
+      "rank": 28,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 191819,
@@ -819,12 +859,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182892,
-      "num": 182892,
-      "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
-      "onboard_time": 1755590722,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 182879,
+      "num": 182879,
+      "word": "中500w彩票冷知识",
+      "onboard_time": 1755590603,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 182756,
@@ -849,6 +889,14 @@
       "onboard_time": 1755568282,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178457,
+      "num": 178457,
+      "word": "暑假两极分化的生活",
+      "onboard_time": 1755593243,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 178320,
@@ -907,12 +955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176650,
+      "num": 176650,
+      "word": "戚薇中古美甲",
+      "onboard_time": 1755592822,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 174766,
       "num": 174766,
       "word": "邢菲在内娱舞蹈界的地位",
       "onboard_time": 1755577703,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174581,
+      "num": 174581,
+      "word": "朱媛媛出演造城者",
+      "onboard_time": 1755592942,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 174460,
@@ -937,6 +1001,14 @@
       "onboard_time": 1755588684,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173399,
+      "num": 173399,
+      "word": "莫雷加德回应与樊振东聚餐",
+      "onboard_time": 1755593243,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 171038,
@@ -995,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162929,
+      "num": 162929,
+      "word": "续面事件老板修改账号名称",
+      "onboard_time": 1755593122,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161793,
       "num": 161793,
       "word": "多囊带来的影响远比孕育更复杂",
@@ -1017,6 +1097,14 @@
       "onboard_time": 1755580042,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158392,
+      "num": 158392,
+      "word": "王晓晨给俞灏明拍照",
+      "onboard_time": 1755591383,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 158318,
@@ -1083,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152576,
-      "num": 152576,
-      "word": "中500w彩票冷知识",
-      "onboard_time": 1755590603,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152518,
       "num": 146829,
       "word": "陈赫给粉丝报销鹿晗演唱会门票",
@@ -1099,12 +1179,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151489,
-      "num": 151489,
-      "word": "王晓晨给俞灏明拍照",
-      "onboard_time": 1755591383,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 151949,
+      "num": 151949,
+      "word": "周也演我第一次做长款美甲",
+      "onboard_time": 1755593002,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150447,
@@ -1113,6 +1193,14 @@
       "onboard_time": 1755583462,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149936,
+      "num": 186799,
+      "word": "方头暗道歉",
+      "onboard_time": 1755588802,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 149129,
@@ -1139,14 +1227,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 145478,
-      "num": 169681,
-      "word": "方头暗道歉",
-      "onboard_time": 1755588802,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 145464,
       "num": 145464,
       "word": "原来信息茧房这么恐怖",
@@ -1169,6 +1249,14 @@
       "onboard_time": 1755572661,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143884,
+      "num": 143884,
+      "word": "续面事件老板说把老家人的脸丢完了",
+      "onboard_time": 1755592523,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143627,
@@ -1385,6 +1473,14 @@
       "onboard_time": 1755576203,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 127186,
+      "num": 145454,
+      "word": "女子举报中科院一员工出轨致其流产",
+      "onboard_time": 1755589881,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126845,
@@ -1620,7 +1716,7 @@
     },
     {
       "raw_hot": 111694,
-      "num": 507770,
+      "num": 975024,
       "word": "十四五体育强国建设成就",
       "onboard_time": 1755575662,
       "rank": 49,
@@ -1736,14 +1832,6 @@
       "word": "大专男生回应开面馆陪女友读研",
       "onboard_time": 1755570441,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104577,
-      "num": 145454,
-      "word": "女子举报中科院一员工出轨致其流产",
-      "onboard_time": 1755589881,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1979,8 +2067,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80031,
+      "num": 174585,
+      "word": "男孩杀人次日随家人外出捡蘑菇",
+      "onboard_time": 1755593002,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78699,
-      "num": 175290,
+      "num": 236793,
       "word": "外交部回应美乌总统会晤",
       "onboard_time": 1755592224,
       "rank": 27,
@@ -2171,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57241,
+      "num": 174619,
+      "word": "李连杰有三级残疾证",
+      "onboard_time": 1755592342,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56730,
       "num": 144472,
       "word": "棉密码卫生巾仍在售卖",
@@ -2211,12 +2315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49133,
-      "num": 149045,
-      "word": "李连杰有三级残疾证",
-      "onboard_time": 1755592342,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 50402,
+      "num": 174856,
+      "word": "女子称毛坯房2个月用水477吨",
+      "onboard_time": 1755592523,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44921,
+      "num": 239434,
+      "word": "陈可辛每一帧都是S级的",
+      "onboard_time": 1755589821,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 44754,
@@ -2225,14 +2337,6 @@
       "onboard_time": 1755581782,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44203,
-      "num": 213665,
-      "word": "陈可辛每一帧都是S级的",
-      "onboard_time": 1755589821,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 43454,
@@ -2379,6 +2483,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 23277,
+      "num": 185074,
+      "word": "一起致敬中国医生",
+      "onboard_time": 1755571160,
+      "rank": 30,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 22436,
       "num": 27444,
       "word": "人生要大胆往前走",
@@ -2441,6 +2553,9 @@
     },
     {
       "word": "#有一种精神叫不屈#"
+    },
+    {
+      "word": "#描绘新时代西藏发展新画卷#"
     }
   ]
 }

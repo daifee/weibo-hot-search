@@ -1,0 +1,410 @@
+{
+  "runTime": 1755593317784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2492976,
+        "num": 2492976,
+        "word": "迪丽热巴605天没走红毯了",
+        "onboard_time": 1755589643,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1051706,
+        "num": 1051706,
+        "word": "醉驾送早产妻子就医被判无罪",
+        "onboard_time": 1755586102,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26329,
+        "num": 975024,
+        "word": "十四五体育强国建设成就",
+        "onboard_time": 1755575662,
+        "rank": 2,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 1150413,
+        "num": 940067,
+        "word": "续面事件面馆关门附近商户发声",
+        "onboard_time": 1755587301,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 899093,
+        "num": 899093,
+        "word": "明星W盛典造型图",
+        "onboard_time": 1755584242,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 485106,
+        "num": 485106,
+        "word": "续面事件顾客再发声",
+        "onboard_time": 1755587542,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632577,
+        "num": 481114,
+        "word": "刘浩存绿色镂空长裙",
+        "onboard_time": 1755587301,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 555688,
+        "num": 458494,
+        "word": "向往的生活开录",
+        "onboard_time": 1755588262,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411991,
+        "num": 411991,
+        "word": "副教授遭精神病人杀害儿子一夜秃头",
+        "onboard_time": 1755591022,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261152,
+        "num": 410713,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 9,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 653906,
+        "num": 408685,
+        "word": "张元英汗毛",
+        "onboard_time": 1755576683,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488802,
+        "num": 406436,
+        "word": "89平米带了7个阳台",
+        "onboard_time": 1755587542,
+        "rank": 11,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 468496,
+        "num": 403953,
+        "word": "剧宣 婚闹",
+        "onboard_time": 1755576203,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401990,
+        "num": 401990,
+        "word": "虞书欣W盛典公主裙",
+        "onboard_time": 1755584842,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 330465,
+        "num": 330465,
+        "word": "做到一直爱一个人真的不难",
+        "onboard_time": 1755585622,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309921,
+        "num": 309921,
+        "word": "于正 我和林心如和好了",
+        "onboard_time": 1755576322,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252730,
+        "num": 252730,
+        "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
+        "onboard_time": 1755590722,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243883,
+        "num": 243883,
+        "word": "个人养老金新增三种领取情形",
+        "onboard_time": 1755590483,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44921,
+        "num": 239434,
+        "word": "陈可辛每一帧都是S级的",
+        "onboard_time": 1755589821,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61801,
+        "num": 236793,
+        "word": "外交部回应美乌总统会晤",
+        "onboard_time": 1755592224,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258843,
+        "num": 231287,
+        "word": "赵今麦眼妆",
+        "onboard_time": 1755585382,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 254172,
+        "num": 228976,
+        "word": "赵丽颖黄晓明新剧全员演技派",
+        "onboard_time": 1755584783,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224657,
+        "num": 224657,
+        "word": "金钟国方回应老婆身份",
+        "onboard_time": 1755587601,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210338,
+        "num": 210338,
+        "word": "钉钉被曝CEO凌晨巡查工位",
+        "onboard_time": 1755592942,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206818,
+        "num": 206818,
+        "word": "虞书欣帮庞博解围",
+        "onboard_time": 1755588923,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205215,
+        "num": 205215,
+        "word": "余宇涵和库里握手了",
+        "onboard_time": 1755592703,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 201278,
+        "num": 201278,
+        "word": "庞博采访",
+        "onboard_time": 1755592642,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193835,
+        "num": 193835,
+        "word": "我们的明天 翻唱",
+        "onboard_time": 1755579023,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192687,
+        "num": 192687,
+        "word": "东方甄选高位跳水",
+        "onboard_time": 1755592703,
+        "rank": 28,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 149936,
+        "num": 186799,
+        "word": "方头暗道歉",
+        "onboard_time": 1755588802,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23277,
+        "num": 185074,
+        "word": "一起致敬中国医生",
+        "onboard_time": 1755571160,
+        "rank": 30,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 193498,
+        "num": 185036,
+        "word": "卓沅后援会",
+        "onboard_time": 1755589643,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184453,
+        "num": 184453,
+        "word": "田曦薇 王安宇就是最破碎的人",
+        "onboard_time": 1755589522,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182879,
+        "num": 182879,
+        "word": "中500w彩票冷知识",
+        "onboard_time": 1755590603,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180454,
+        "num": 180454,
+        "word": "Baolan谈Elk亮小丑",
+        "onboard_time": 1755587181,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178457,
+        "num": 178457,
+        "word": "暑假两极分化的生活",
+        "onboard_time": 1755593243,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176650,
+        "num": 176650,
+        "word": "戚薇中古美甲",
+        "onboard_time": 1755592822,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 50402,
+        "num": 174856,
+        "word": "女子称毛坯房2个月用水477吨",
+        "onboard_time": 1755592523,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57241,
+        "num": 174619,
+        "word": "李连杰有三级残疾证",
+        "onboard_time": 1755592342,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80031,
+        "num": 174585,
+        "word": "男孩杀人次日随家人外出捡蘑菇",
+        "onboard_time": 1755593002,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174581,
+        "num": 174581,
+        "word": "朱媛媛出演造城者",
+        "onboard_time": 1755592942,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173939,
+        "num": 173939,
+        "word": "张维伊叫小酒窝窝子",
+        "onboard_time": 1755580522,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173399,
+        "num": 173399,
+        "word": "莫雷加德回应与樊振东聚餐",
+        "onboard_time": 1755593243,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162929,
+        "num": 162929,
+        "word": "续面事件老板修改账号名称",
+        "onboard_time": 1755593122,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149227,
+        "num": 158629,
+        "word": "当地回应面店老板阴阳顾客是七匹狼",
+        "onboard_time": 1755588684,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158392,
+        "num": 158392,
+        "word": "王晓晨给俞灏明拍照",
+        "onboard_time": 1755591383,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151949,
+        "num": 151949,
+        "word": "周也演我第一次做长款美甲",
+        "onboard_time": 1755593002,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144842,
+        "num": 144842,
+        "word": "爷爷奶奶聘了一只小猫回家",
+        "onboard_time": 1755584421,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143884,
+        "num": 143884,
+        "word": "续面事件老板说把老家人的脸丢完了",
+        "onboard_time": 1755592523,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127186,
+        "num": 127186,
+        "word": "女子举报中科院一员工出轨致其流产",
+        "onboard_time": 1755589881,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#描绘新时代西藏发展新画卷#"
+    }
+  }
+}
