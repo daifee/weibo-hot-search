@@ -1,0 +1,410 @@
+{
+  "runTime": 1755574249770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129324,
+        "num": 1180691,
+        "word": "主刀医生回应身首离断患者被救回",
+        "onboard_time": 1755567501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616913,
+        "num": 616913,
+        "word": "被清华大学的宿舍震惊到了",
+        "onboard_time": 1755564801,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39932,
+        "num": 545525,
+        "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
+        "onboard_time": 1755567081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1020527,
+        "num": 534694,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 3,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 497944,
+        "num": 497944,
+        "word": "自行车降价",
+        "onboard_time": 1755569360,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422747,
+        "num": 422747,
+        "word": "赵雅芝把粉丝送的400封信签名回寄",
+        "onboard_time": 1755563241,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408416,
+        "num": 408416,
+        "word": "老人散步故意肘击训练学生",
+        "onboard_time": 1755571882,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359441,
+        "num": 359441,
+        "word": "赵丽颖久违的长发",
+        "onboard_time": 1755563241,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347370,
+        "num": 347370,
+        "word": "辛巴只退网未回应卫生巾问题",
+        "onboard_time": 1755568642,
+        "rank": 8,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 235295,
+        "num": 323153,
+        "word": "中国首部8K拍摄太空电影",
+        "onboard_time": 1755572661,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 704008,
+        "num": 322891,
+        "word": "朋友圈别再直接发视频了",
+        "onboard_time": 1755566181,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449912,
+        "num": 322827,
+        "word": "官方通报小米车主逆行超速致4死",
+        "onboard_time": 1755564983,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322606,
+        "num": 322606,
+        "word": "时代少年团上海天幕测试",
+        "onboard_time": 1755569480,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291937,
+        "num": 291937,
+        "word": "身首离断患者已脱离呼吸机半月",
+        "onboard_time": 1755570862,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285581,
+        "num": 285581,
+        "word": "三伏天正式结束",
+        "onboard_time": 1755561139,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228739,
+        "num": 228739,
+        "word": "王楚钦恢复8个积分",
+        "onboard_time": 1755570681,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228564,
+        "num": 228564,
+        "word": "陈飞宇 一饭封神",
+        "onboard_time": 1755572602,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194059,
+        "num": 194059,
+        "word": "生万物第20集封神",
+        "onboard_time": 1755530004,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19156,
+        "num": 193861,
+        "word": "全新小鹏P7可街可赛",
+        "onboard_time": 1755572661,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 93254,
+        "num": 193826,
+        "word": "泽连斯基这回穿正装了",
+        "onboard_time": 1755573742,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205647,
+        "num": 193821,
+        "word": "为了养猫考了个公务员",
+        "onboard_time": 1755564801,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193815,
+        "num": 193815,
+        "word": "老Bin烧烤",
+        "onboard_time": 1755572480,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191849,
+        "num": 191849,
+        "word": "高速服务区的水有多脏",
+        "onboard_time": 1755571401,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42663,
+        "num": 191831,
+        "word": "奥迪E5开启预定",
+        "onboard_time": 1755571821,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191819,
+        "num": 191819,
+        "word": "张新成 我是个比较拧巴的人",
+        "onboard_time": 1755573320,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179512,
+        "num": 179512,
+        "word": "广电总局改进电视剧内容审查工作",
+        "onboard_time": 1755568282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170309,
+        "num": 170309,
+        "word": "关晓彤李昀锐公主抱脸颊吻",
+        "onboard_time": 1755569360,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168851,
+        "num": 168851,
+        "word": "向太透露李连杰病情",
+        "onboard_time": 1755566003,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167682,
+        "num": 167682,
+        "word": "迪丽热巴出发W盛典机场路透",
+        "onboard_time": 1755564382,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35994,
+        "num": 167479,
+        "word": "特泽会现场一幅地图意味深长",
+        "onboard_time": 1755572480,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167290,
+        "num": 167290,
+        "word": "人民日报专访胖东来董事长于东来",
+        "onboard_time": 1755569300,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146644,
+        "num": 146644,
+        "word": "泽连斯基称不再坚持先停火",
+        "onboard_time": 1755561259,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142827,
+        "num": 142827,
+        "word": "这才是观众想看的大女主",
+        "onboard_time": 1755572661,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138755,
+        "num": 138755,
+        "word": "原来局部暴雨全景长这样",
+        "onboard_time": 1755571941,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130172,
+        "num": 130172,
+        "word": "医生说辛巴的肺95岁了",
+        "onboard_time": 1755560360,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129918,
+        "num": 129918,
+        "word": "老狼也去演短剧了",
+        "onboard_time": 1755573501,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126845,
+        "num": 126845,
+        "word": "A股人气爆棚",
+        "onboard_time": 1755573861,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121525,
+        "num": 121525,
+        "word": "7个习惯默默为血管投喂斑块",
+        "onboard_time": 1755569421,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87048,
+        "num": 118717,
+        "word": "上海一主理人新店开业当天即闭店",
+        "onboard_time": 1755574221,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24571,
+        "num": 118237,
+        "word": "南刘涛北海璐",
+        "onboard_time": 1755573201,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118024,
+        "num": 118024,
+        "word": "今天是第8个中国医师节",
+        "onboard_time": 1755564983,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116368,
+        "num": 116368,
+        "word": "9月1日开学是星期一",
+        "onboard_time": 1755573501,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116196,
+        "num": 116196,
+        "word": "刘宇宁7年发表超200首原唱歌曲",
+        "onboard_time": 1755570921,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115164,
+        "num": 115164,
+        "word": "阴阳顾客七匹狼面馆关门",
+        "onboard_time": 1755571281,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111872,
+        "num": 111872,
+        "word": "子夜归",
+        "onboard_time": 1755566362,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111501,
+        "num": 111501,
+        "word": "浓度演员 淡人肖战",
+        "onboard_time": 1755572839,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111104,
+        "num": 111104,
+        "word": "沈腾要把马丽拎起来转",
+        "onboard_time": 1755574161,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109655,
+        "num": 109655,
+        "word": "婚后13天发现妻子双子宫只有一个肾",
+        "onboard_time": 1755528503,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108560,
+        "num": 108560,
+        "word": "美俄乌将举行三边会谈",
+        "onboard_time": 1755561620,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108232,
+        "num": 108232,
+        "word": "永远不要放弃下午的五点钟",
+        "onboard_time": 1755571521,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
