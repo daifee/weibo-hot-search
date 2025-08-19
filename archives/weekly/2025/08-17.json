@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755599295811,
+  "endTime": 1755600327259,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -331,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1228678,
+      "num": 533168,
+      "word": "闵塔鲨我们和好吧",
+      "onboard_time": 1755598286,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1224513,
       "num": 465886,
       "word": "金钟国 尹恩惠",
@@ -523,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 932610,
-      "num": 301954,
-      "word": "闵塔鲨我们和好吧",
-      "onboard_time": 1755598286,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 925223,
       "num": 210338,
       "word": "钉钉被曝CEO凌晨巡查工位",
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 809975,
-      "num": 380384,
+      "num": 477881,
       "word": "续面事件面馆已被打2.1万条差评",
       "onboard_time": 1755594203,
       "rank": 17,
@@ -995,6 +995,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 634075,
+      "num": 634075,
+      "word": "我让你删的文件你怎么删了",
+      "onboard_time": 1755598346,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 632577,
       "num": 481114,
       "word": "刘浩存绿色镂空长裙",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1755502224,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 615817,
+      "num": 460777,
+      "word": "合诗雨 我不演了爱谁谁吧",
+      "onboard_time": 1755597808,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 609551,
@@ -1132,7 +1148,7 @@
     },
     {
       "raw_hot": 559315,
-      "num": 204174,
+      "num": 261674,
       "word": "杨幂 马吉拉",
       "onboard_time": 1755597926,
       "rank": 14,
@@ -1161,14 +1177,6 @@
       "onboard_time": 1755588262,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 554023,
-      "num": 172924,
-      "word": "合诗雨 我不演了爱谁谁吧",
-      "onboard_time": 1755597808,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 552100,
@@ -1331,11 +1339,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 494239,
-      "num": 201743,
-      "word": "我让你删的文件你怎么删了",
-      "onboard_time": 1755598346,
-      "rank": 15,
+      "raw_hot": 496945,
+      "num": 496945,
+      "word": "每天只睡6小时身体的变化",
+      "onboard_time": 1755596063,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -1539,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441750,
+      "num": 441750,
+      "word": "赵今麦的字",
+      "onboard_time": 1755595042,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 436717,
       "num": 436717,
       "word": "管乐离开王皓越来越好了",
@@ -1659,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402006,
+      "num": 255162,
+      "word": "W红毯 审美高级",
+      "onboard_time": 1755599546,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 399894,
       "num": 258085,
       "word": "QQ音乐为梓渝定制歌曲",
@@ -1771,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364137,
-      "num": 364137,
-      "word": "每天只睡6小时身体的变化",
-      "onboard_time": 1755596063,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 363194,
       "num": 363194,
       "word": "中国男篮想证明自己",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1755569480,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 347469,
-      "num": 347469,
-      "word": "赵今麦的字",
-      "onboard_time": 1755595042,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 347166,
@@ -2092,7 +2100,7 @@
     },
     {
       "raw_hot": 302192,
-      "num": 172696,
+      "num": 236831,
       "word": "于正取代我们的人也被换了",
       "onboard_time": 1755595704,
       "rank": 31,
@@ -2273,6 +2281,14 @@
       "onboard_time": 1755570921,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282194,
+      "num": 282194,
+      "word": "李在明夫人被睡衣价格惊到张大嘴巴",
+      "onboard_time": 1755598166,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 281969,
@@ -2532,7 +2548,7 @@
     },
     {
       "raw_hot": 247810,
-      "num": 247810,
+      "num": 280136,
       "word": "警方通报阮某平假冒院士等身份行骗",
       "onboard_time": 1755596724,
       "rank": 8,
@@ -2577,6 +2593,14 @@
       "onboard_time": 1755584121,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241813,
+      "num": 241813,
+      "word": "iPhone17e价格",
+      "onboard_time": 1755599006,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 241453,
@@ -2729,6 +2753,14 @@
       "onboard_time": 1755510862,
       "rank": 17,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 231530,
+      "num": 231530,
+      "word": "红毯没有王法 只有热巴的想法",
+      "onboard_time": 1755599905,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 229282,
@@ -3171,6 +3203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200759,
+      "num": 200759,
+      "word": "张峻豪直播",
+      "onboard_time": 1755599665,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200475,
       "num": 190106,
       "word": "虞书欣小林老师杀青文",
@@ -3507,12 +3547,28 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 192019,
+      "num": 192019,
+      "word": "刘诗诗 红发郁金香",
+      "onboard_time": 1755600144,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 191819,
       "num": 191819,
       "word": "张新成 我是个比较拧巴的人",
       "onboard_time": 1755573320,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191730,
+      "num": 191730,
+      "word": "宋茜裙子",
+      "onboard_time": 1755599785,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191714,
@@ -3955,6 +4011,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 176547,
+      "num": 176547,
+      "word": "雷军公布小米第二季度财报",
+      "onboard_time": 1755600087,
+      "rank": 35,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 176344,
       "num": 176344,
       "word": "锦月如歌",
@@ -4089,6 +4153,14 @@
       "onboard_time": 1755515481,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174214,
+      "num": 174214,
+      "word": "Ning怒喷BLG",
+      "onboard_time": 1755599246,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 174173,
@@ -4268,7 +4340,7 @@
     },
     {
       "raw_hot": 170907,
-      "num": 172874,
+      "num": 210100,
       "word": "阮某平涉嫌假冒退役少将",
       "onboard_time": 1755598045,
       "rank": 22,
@@ -4419,6 +4491,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 166497,
+      "num": 166497,
+      "word": "白敬亭第一个出场",
+      "onboard_time": 1755600206,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 166462,
       "num": 166462,
       "word": "辛云来录个hi6我要笑两天",
@@ -4555,14 +4635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 163007,
-      "num": 163007,
-      "word": "iPhone17e价格",
-      "onboard_time": 1755599006,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 162953,
       "num": 162953,
       "word": "章若楠就这样穿着人字拖出现了",
@@ -4593,6 +4665,14 @@
       "onboard_time": 1755418762,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 162028,
+      "num": 162028,
+      "word": "时代少年团 今天你要嫁给我",
+      "onboard_time": 1755599846,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 161954,
@@ -5147,14 +5227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148474,
-      "num": 156845,
-      "word": "李在明夫人被睡衣价格惊到张大嘴巴",
-      "onboard_time": 1755598166,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148386,
       "num": 148386,
       "word": "陈飞宇心乱了人也乱了",
@@ -5169,6 +5241,14 @@
       "onboard_time": 1755492744,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148099,
+      "num": 148099,
+      "word": "雷军回应小米二季度财报",
+      "onboard_time": 1755599905,
+      "rank": 42,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 147771,
@@ -5480,6 +5560,14 @@
       "word": "丁程鑫宋亚轩 泪桥",
       "onboard_time": 1755507622,
       "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 142983,
+      "num": 142983,
+      "word": "YG夜店没白开",
+      "onboard_time": 1755600087,
+      "rank": 43,
       "category": "演出"
     },
     {
@@ -6059,6 +6147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133696,
+      "num": 207088,
+      "word": "73岁男子冒充军人招摇撞骗被抓",
+      "onboard_time": 1755599306,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133594,
       "num": 198196,
       "word": "生万物全员喊人加入俺门",
@@ -6209,14 +6305,6 @@
       "onboard_time": 1755438864,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131024,
-      "num": 131024,
-      "word": "Ning怒喷BLG",
-      "onboard_time": 1755599246,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 130712,
@@ -6600,6 +6688,14 @@
       "word": "朱珠这张脸就该穿旗袍",
       "onboard_time": 1755589163,
       "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 123712,
+      "num": 123712,
+      "word": "龚俊W盛典出图",
+      "onboard_time": 1755600266,
+      "rank": 47,
       "category": "作品衍生,时尚"
     },
     {
@@ -7105,6 +7201,14 @@
       "onboard_time": 1755513921,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115744,
+      "num": 162231,
+      "word": "青春洋溢的王楚钦",
+      "onboard_time": 1755599427,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 115677,
@@ -8715,6 +8819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82773,
+      "num": 494829,
+      "word": "大学教授遭精神病人杀害案二审开庭",
+      "onboard_time": 1755599365,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 82641,
       "num": 196445,
       "word": "33岁确诊胃癌前身体发出的信号",
@@ -8945,6 +9057,14 @@
       "onboard_time": 1755591983,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76438,
+      "num": 162627,
+      "word": "孙颖莎从无到第一经历了什么",
+      "onboard_time": 1755600024,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 76434,
@@ -9292,7 +9412,7 @@
     },
     {
       "raw_hot": 59481,
-      "num": 172961,
+      "num": 270645,
       "word": "奔驰S级的顶流仪式感",
       "onboard_time": 1755598947,
       "rank": 19,

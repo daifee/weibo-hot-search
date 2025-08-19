@@ -1,0 +1,410 @@
+{
+  "runTime": 1755600327259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12816889,
+        "num": 12816889,
+        "word": "迪丽热巴 主人级别",
+        "onboard_time": 1755597624,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 992860,
+        "num": 992860,
+        "word": "阳光玫瑰 没有葡萄味",
+        "onboard_time": 1755593303,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29267,
+        "num": 673691,
+        "word": "十四五体育强国建设成就",
+        "onboard_time": 1755575662,
+        "rank": 2,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 2560178,
+        "num": 672895,
+        "word": "W盛典红毯",
+        "onboard_time": 1755597203,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 634075,
+        "num": 634075,
+        "word": "我让你删的文件你怎么删了",
+        "onboard_time": 1755598346,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283626,
+        "num": 549476,
+        "word": "副教授遭精神病人杀害儿子一夜秃头",
+        "onboard_time": 1755591022,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1714589,
+        "num": 546433,
+        "word": "杨幂 地母",
+        "onboard_time": 1755593903,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1228678,
+        "num": 533168,
+        "word": "闵塔鲨我们和好吧",
+        "onboard_time": 1755598286,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496945,
+        "num": 496945,
+        "word": "每天只睡6小时身体的变化",
+        "onboard_time": 1755596063,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82773,
+        "num": 494829,
+        "word": "大学教授遭精神病人杀害案二审开庭",
+        "onboard_time": 1755599365,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 725596,
+        "num": 487548,
+        "word": "唐嫣 花神降临",
+        "onboard_time": 1755593842,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 617764,
+        "num": 477881,
+        "word": "续面事件面馆已被打2.1万条差评",
+        "onboard_time": 1755594203,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615817,
+        "num": 460777,
+        "word": "合诗雨 我不演了爱谁谁吧",
+        "onboard_time": 1755597808,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585113,
+        "num": 453386,
+        "word": "明星W盛典造型图",
+        "onboard_time": 1755584242,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 554337,
+        "num": 447947,
+        "word": "迪丽热巴605天没走红毯了",
+        "onboard_time": 1755589643,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 441750,
+        "num": 441750,
+        "word": "赵今麦的字",
+        "onboard_time": 1755595042,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282194,
+        "num": 282194,
+        "word": "李在明夫人被睡衣价格惊到张大嘴巴",
+        "onboard_time": 1755598166,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189598,
+        "num": 280136,
+        "word": "警方通报阮某平假冒院士等身份行骗",
+        "onboard_time": 1755596724,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 165100,
+        "num": 274911,
+        "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
+        "onboard_time": 1755590722,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57835,
+        "num": 270645,
+        "word": "奔驰S级的顶流仪式感",
+        "onboard_time": 1755598947,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 412313,
+        "num": 261674,
+        "word": "杨幂 马吉拉",
+        "onboard_time": 1755597926,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402006,
+        "num": 255162,
+        "word": "W红毯 审美高级",
+        "onboard_time": 1755599546,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 387868,
+        "num": 250177,
+        "word": "虞书欣W盛典公主裙",
+        "onboard_time": 1755584842,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 288638,
+        "num": 246928,
+        "word": "刘浩存绿色镂空长裙",
+        "onboard_time": 1755587301,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 241813,
+        "num": 241813,
+        "word": "iPhone17e价格",
+        "onboard_time": 1755599006,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 253052,
+        "num": 236831,
+        "word": "于正取代我们的人也被换了",
+        "onboard_time": 1755595704,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231530,
+        "num": 231530,
+        "word": "红毯没有王法 只有热巴的想法",
+        "onboard_time": 1755599905,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224139,
+        "num": 224139,
+        "word": "张元英汗毛",
+        "onboard_time": 1755576683,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134100,
+        "num": 210100,
+        "word": "阮某平涉嫌假冒退役少将",
+        "onboard_time": 1755598045,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133696,
+        "num": 207088,
+        "word": "73岁男子冒充军人招摇撞骗被抓",
+        "onboard_time": 1755599306,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204659,
+        "num": 204659,
+        "word": "虞书欣情商这一块",
+        "onboard_time": 1755594203,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200759,
+        "num": 200759,
+        "word": "张峻豪直播",
+        "onboard_time": 1755599665,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192019,
+        "num": 192019,
+        "word": "刘诗诗 红发郁金香",
+        "onboard_time": 1755600144,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191730,
+        "num": 191730,
+        "word": "宋茜裙子",
+        "onboard_time": 1755599785,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189192,
+        "num": 189192,
+        "word": "钉钉被曝CEO凌晨巡查工位",
+        "onboard_time": 1755592942,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176547,
+        "num": 176547,
+        "word": "雷军公布小米第二季度财报",
+        "onboard_time": 1755600087,
+        "rank": 35,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 174214,
+        "num": 174214,
+        "word": "Ning怒喷BLG",
+        "onboard_time": 1755599246,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166497,
+        "num": 166497,
+        "word": "白敬亭第一个出场",
+        "onboard_time": 1755600206,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 76438,
+        "num": 162627,
+        "word": "孙颖莎从无到第一经历了什么",
+        "onboard_time": 1755600024,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115744,
+        "num": 162231,
+        "word": "青春洋溢的王楚钦",
+        "onboard_time": 1755599427,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162028,
+        "num": 162028,
+        "word": "时代少年团 今天你要嫁给我",
+        "onboard_time": 1755599846,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148774,
+        "num": 148774,
+        "word": "管乐 张小婉是我最大的竞争对手",
+        "onboard_time": 1755597866,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148099,
+        "num": 148099,
+        "word": "雷军回应小米二季度财报",
+        "onboard_time": 1755599905,
+        "rank": 42,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 142983,
+        "num": 142983,
+        "word": "YG夜店没白开",
+        "onboard_time": 1755600087,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136727,
+        "num": 136727,
+        "word": "女明星各有各的美",
+        "onboard_time": 1755595883,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133376,
+        "num": 133376,
+        "word": "接王亚飞事业运",
+        "onboard_time": 1755596123,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125843,
+        "num": 125843,
+        "word": "醉驾送早产妻子就医被判无罪",
+        "onboard_time": 1755586102,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123712,
+        "num": 123712,
+        "word": "龚俊W盛典出图",
+        "onboard_time": 1755600266,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122572,
+        "num": 122572,
+        "word": "我们的明天 翻唱",
+        "onboard_time": 1755579023,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121379,
+        "num": 121379,
+        "word": "小米二季度净利润108亿",
+        "onboard_time": 1755599006,
+        "rank": 49,
+        "category": "互联网,数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#描绘新时代西藏发展新画卷#"
+    }
+  }
+}
