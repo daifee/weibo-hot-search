@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755560322204,
+  "endTime": 1755568715066,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -33,6 +33,14 @@
       "onboard_time": 1755443484,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2204793,
+      "num": 2204793,
+      "word": "建议大家别吃自助旋转小火锅",
+      "onboard_time": 1755564682,
+      "rank": 0,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 2033517,
@@ -323,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1034574,
+      "num": 1034574,
+      "word": "官方通报小米车主逆行超速致4死",
+      "onboard_time": 1755564983,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1029790,
       "num": 712309,
       "word": "乱买衣服 隐形贫穷",
@@ -521,6 +537,14 @@
       "onboard_time": 1755530004,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 761862,
+      "num": 761862,
+      "word": "被清华大学的宿舍震惊到了",
+      "onboard_time": 1755564801,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 753969,
@@ -931,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 518500,
+      "num": 518500,
+      "word": "疑似罗永浩私下聊天被曝光",
+      "onboard_time": 1755562341,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 517501,
       "num": 517501,
       "word": "澳大利亚全队安慰胡明轩",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1755518123,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 461922,
+      "num": 461922,
+      "word": "赵丽颖久违的长发",
+      "onboard_time": 1755563241,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 458934,
@@ -1180,7 +1220,7 @@
     },
     {
       "raw_hot": 412819,
-      "num": 79101,
+      "num": 311291,
       "word": "网传学生强奸虐杀猫不实",
       "onboard_time": 1755557958,
       "rank": 30,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1755441805,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411892,
+      "num": 411892,
+      "word": "赵雅芝把粉丝送的400封信签名回寄",
+      "onboard_time": 1755563241,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 411643,
@@ -1297,6 +1345,22 @@
       "onboard_time": 1755421102,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 365843,
+      "num": 307180,
+      "word": "为了养猫考了个公务员",
+      "onboard_time": 1755564801,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 364588,
+      "num": 300101,
+      "word": "向太透露李连杰病情",
+      "onboard_time": 1755566003,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 363194,
@@ -1491,6 +1555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 321210,
+      "num": 321210,
+      "word": "三伏天正式结束",
+      "onboard_time": 1755561139,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320142,
       "num": 390502,
       "word": "作家梁晓声再谈孙颖莎",
@@ -1537,6 +1609,14 @@
       "onboard_time": 1755504862,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 312268,
+      "num": 312268,
+      "word": "背娃送外卖妈妈称不再嫁人不合法",
+      "onboard_time": 1755563302,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311492,
@@ -1640,6 +1720,14 @@
       "word": "泽连斯基称当时不该放弃克里米亚",
       "onboard_time": 1755499522,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 293733,
+      "num": 293733,
+      "word": "泽连斯基称不再坚持先停火",
+      "onboard_time": 1755561259,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -1803,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268807,
+      "num": 268807,
+      "word": "朋友圈别再直接发视频了",
+      "onboard_time": 1755566181,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267540,
       "num": 258350,
       "word": "李连杰生病住院",
@@ -1833,6 +1929,14 @@
       "onboard_time": 1755357383,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 257981,
+      "num": 257981,
+      "word": "迪丽热巴出发W盛典机场路透",
+      "onboard_time": 1755564382,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 257643,
@@ -1993,6 +2097,14 @@
       "onboard_time": 1755334102,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 239082,
+      "num": 176878,
+      "word": "医生说辛巴的肺95岁了",
+      "onboard_time": 1755560360,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 237983,
@@ -2323,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204275,
+      "num": 175826,
+      "word": "特斯拉ModelYL正式发布",
+      "onboard_time": 1755567622,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 203012,
       "num": 203012,
       "word": "俞灏明王晓晨穿情侣装度假",
@@ -2457,6 +2577,14 @@
       "onboard_time": 1755496043,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198259,
+      "num": 198259,
+      "word": "母亲回应五年级儿子卖奶茶月入4000",
+      "onboard_time": 1755562100,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198024,
@@ -2905,6 +3033,14 @@
       "onboard_time": 1755494663,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178042,
+      "num": 178042,
+      "word": "美俄乌将举行三边会谈",
+      "onboard_time": 1755561620,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177326,
@@ -3459,6 +3595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161513,
+      "num": 161513,
+      "word": "管乐谈和前任分手原因",
+      "onboard_time": 1755564443,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161120,
       "num": 312355,
       "word": "中国医生救回身首离断患者",
@@ -3987,6 +4131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146161,
+      "num": 146161,
+      "word": "主刀医生回应身首离断患者被救回",
+      "onboard_time": 1755567501,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146135,
       "num": 146135,
       "word": "世运会闭幕式运动员不分国籍入场",
@@ -4091,11 +4243,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143399,
+      "num": 143399,
+      "word": "特斯拉ModelYL内饰图曝光",
+      "onboard_time": 1755563121,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 143350,
       "num": 143350,
       "word": "21岁小伙靠扛楼10个月挣15万",
       "onboard_time": 1755509002,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143254,
+      "num": 143254,
+      "word": "iPhone C口隐藏用法",
+      "onboard_time": 1755567021,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 143217,
+      "num": 143217,
+      "word": "46万买到全损车获退一赔三",
+      "onboard_time": 1755563241,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -4129,6 +4305,14 @@
       "onboard_time": 1755415702,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141953,
+      "num": 141953,
+      "word": "特朗普中断多边会晤致电普京",
+      "onboard_time": 1755565642,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141927,
@@ -5051,6 +5235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123182,
+      "num": 294153,
+      "word": "今天是第8个中国医师节",
+      "onboard_time": 1755564983,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122596,
       "num": 122596,
       "word": "新西兰一警局收到中式锦旗",
@@ -5377,6 +5569,14 @@
       "onboard_time": 1755487883,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116257,
+      "num": 116257,
+      "word": "广电总局改进电视剧内容审查工作",
+      "onboard_time": 1755568282,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 116172,
@@ -5787,6 +5987,14 @@
       "category": "幽默,互联网"
     },
     {
+      "raw_hot": 107593,
+      "num": 107593,
+      "word": "辛巴第5次宣布退网",
+      "onboard_time": 1755560899,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 107536,
       "num": 107536,
       "word": "iPhone下载的第一个游戏",
@@ -5873,6 +6081,14 @@
       "onboard_time": 1755417262,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105992,
+      "num": 105992,
+      "word": "男孩多年坚持看望已离婚继母",
+      "onboard_time": 1755566421,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105873,
@@ -6451,6 +6667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92183,
+      "num": 92183,
+      "word": "瑞典大满贯单打32强国乒对阵",
+      "onboard_time": 1755563482,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91707,
       "num": 91707,
       "word": "胡明轩半场15分",
@@ -6465,6 +6689,14 @@
       "onboard_time": 1755428062,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91313,
+      "num": 91313,
+      "word": "哪条是黄河哪条是洮河",
+      "onboard_time": 1755564443,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91275,
@@ -6521,6 +6753,14 @@
       "onboard_time": 1755446904,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89931,
+      "num": 89931,
+      "word": "ELK谈BLG被翻盘",
+      "onboard_time": 1755560419,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 89816,
@@ -6657,6 +6897,38 @@
       "onboard_time": 1755401902,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86016,
+      "num": 86016,
+      "word": "美国反对乌克兰加入北约",
+      "onboard_time": 1755564682,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 85681,
+      "num": 106775,
+      "word": "特朗普称不再送而是卖武器给乌克兰",
+      "onboard_time": 1755559819,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 85277,
+      "num": 85277,
+      "word": "医师节",
+      "onboard_time": 1755561080,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84864,
+      "num": 84864,
+      "word": "减肥时也可以适量吃的水果",
+      "onboard_time": 1755566362,
+      "rank": 48,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 84666,
@@ -7435,6 +7707,14 @@
       "category": "民生新闻,读书作家"
     },
     {
+      "raw_hot": 44748,
+      "num": 768866,
+      "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
+      "onboard_time": 1755567081,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44564,
       "num": 98507,
       "word": "五角大楼旁披萨销量又升高了",
@@ -7625,6 +7905,14 @@
       "onboard_time": 1755509601,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 38160,
+      "num": 117761,
+      "word": "辛巴只退网未回应卫生巾问题",
+      "onboard_time": 1755568642,
+      "rank": 34,
+      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 38002,
@@ -8113,14 +8401,6 @@
       "onboard_time": 1755547694,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17505,
-      "num": 106775,
-      "word": "特朗普称不再送而是卖武器给乌克兰",
-      "onboard_time": 1755559819,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17475,
