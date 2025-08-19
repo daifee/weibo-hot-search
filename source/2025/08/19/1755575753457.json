@@ -1,0 +1,410 @@
+{
+  "runTime": 1755575753457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1088522,
+        "num": 1174163,
+        "word": "主刀医生回应身首离断患者被救回",
+        "onboard_time": 1755567501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1042742,
+        "num": 1042742,
+        "word": "老人散步故意肘击训练学生",
+        "onboard_time": 1755571882,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37704,
+        "num": 810000,
+        "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
+        "onboard_time": 1755567081,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705132,
+        "num": 705132,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 3,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 508303,
+        "num": 508303,
+        "word": "被清华大学的宿舍震惊到了",
+        "onboard_time": 1755564801,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 478106,
+        "num": 478106,
+        "word": "陈飞宇 一饭封神",
+        "onboard_time": 1755572602,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399460,
+        "num": 399460,
+        "word": "上海一主理人新店开业当天即闭店",
+        "onboard_time": 1755574221,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377553,
+        "num": 397073,
+        "word": "赵雅芝把粉丝送的400封信签名回寄",
+        "onboard_time": 1755563241,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396107,
+        "num": 396107,
+        "word": "自行车降价",
+        "onboard_time": 1755569360,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117199,
+        "num": 385538,
+        "word": "医生谢谢你",
+        "onboard_time": 1755568881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602690,
+        "num": 384798,
+        "word": "朋友圈别再直接发视频了",
+        "onboard_time": 1755566181,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382368,
+        "num": 382368,
+        "word": "辛巴只退网未回应卫生巾问题",
+        "onboard_time": 1755568642,
+        "rank": 11,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 360170,
+        "num": 360170,
+        "word": "赵丽颖久违的长发",
+        "onboard_time": 1755563241,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301564,
+        "num": 301564,
+        "word": "三伏天正式结束",
+        "onboard_time": 1755561139,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39945,
+        "num": 292104,
+        "word": "王俊凯教周也付航打瓦手",
+        "onboard_time": 1755574462,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 291736,
+        "num": 291736,
+        "word": "男主居然是对女主一见钟情的",
+        "onboard_time": 1755575122,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282207,
+        "num": 282207,
+        "word": "时代少年团上海天幕测试",
+        "onboard_time": 1755569480,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15049,
+        "num": 260095,
+        "word": "全新小鹏P7可街可赛",
+        "onboard_time": 1755572661,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258014,
+        "num": 258014,
+        "word": "身首离断患者已脱离呼吸机半月",
+        "onboard_time": 1755570862,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78087,
+        "num": 243911,
+        "word": "内蒙古鄂尔多斯暴雨致3死3失联",
+        "onboard_time": 1755574462,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 243564,
+        "num": 243564,
+        "word": "中国首部8K拍摄太空电影",
+        "onboard_time": 1755572661,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230935,
+        "num": 230935,
+        "word": "IZNA尹智允退队",
+        "onboard_time": 1755574941,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220485,
+        "num": 220485,
+        "word": "刘宇宁7年发表超200首原唱歌曲",
+        "onboard_time": 1755570921,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217517,
+        "num": 217517,
+        "word": "归队定档",
+        "onboard_time": 1755575122,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195197,
+        "num": 195197,
+        "word": "孙颖莎一日双赛",
+        "onboard_time": 1755574823,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62676,
+        "num": 189463,
+        "word": "奥迪E5开启预定",
+        "onboard_time": 1755571821,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186028,
+        "num": 186028,
+        "word": "王楚钦恢复8个积分",
+        "onboard_time": 1755570681,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175660,
+        "num": 175660,
+        "word": "高速服务区的水有多脏",
+        "onboard_time": 1755571401,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175616,
+        "num": 175616,
+        "word": "老Bin烧烤",
+        "onboard_time": 1755572480,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152292,
+        "num": 152292,
+        "word": "广电总局改进电视剧内容审查工作",
+        "onboard_time": 1755568282,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158318,
+        "num": 151141,
+        "word": "狗狗太可爱导致主人把牙咬碎",
+        "onboard_time": 1755574402,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144777,
+        "num": 144777,
+        "word": "为了养猫考了个公务员",
+        "onboard_time": 1755564801,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143627,
+        "num": 143627,
+        "word": "将门虎女误闯天家成为天家",
+        "onboard_time": 1755575301,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143572,
+        "num": 143572,
+        "word": "生万物第20集封神",
+        "onboard_time": 1755530004,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138454,
+        "num": 138454,
+        "word": "曾黎素颜近照状态",
+        "onboard_time": 1755574881,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138325,
+        "num": 138325,
+        "word": "关晓彤李昀锐公主抱脸颊吻",
+        "onboard_time": 1755569360,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135322,
+        "num": 135322,
+        "word": "原来局部暴雨全景长这样",
+        "onboard_time": 1755571941,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133811,
+        "num": 133811,
+        "word": "这才是观众想看的大女主",
+        "onboard_time": 1755572661,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132481,
+        "num": 132481,
+        "word": "人民日报专访胖东来董事长于东来",
+        "onboard_time": 1755569300,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87955,
+        "num": 128152,
+        "word": "一地招聘研究生月薪三千",
+        "onboard_time": 1755575662,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126508,
+        "num": 126508,
+        "word": "阴阳顾客七匹狼面馆关门",
+        "onboard_time": 1755571281,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125756,
+        "num": 125756,
+        "word": "迪丽热巴出发W盛典机场路透",
+        "onboard_time": 1755564382,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125603,
+        "num": 125603,
+        "word": "9月1日开学是星期一",
+        "onboard_time": 1755573501,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123913,
+        "num": 123913,
+        "word": "向太透露李连杰病情",
+        "onboard_time": 1755566003,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123557,
+        "num": 123557,
+        "word": "张海宇生万物喜剧邪修",
+        "onboard_time": 1755575423,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121309,
+        "num": 121309,
+        "word": "今天是第8个中国医师节",
+        "onboard_time": 1755564983,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119162,
+        "num": 119162,
+        "word": "A股人气爆棚",
+        "onboard_time": 1755573861,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117091,
+        "num": 117091,
+        "word": "泽连斯基称不再坚持先停火",
+        "onboard_time": 1755561259,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116404,
+        "num": 116404,
+        "word": "子夜归",
+        "onboard_time": 1755566362,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111694,
+        "num": 111694,
+        "word": "十四五体育强国建设成就",
+        "onboard_time": 1755575662,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}

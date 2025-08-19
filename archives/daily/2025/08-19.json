@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755574249770,
+  "endTime": 1755575753457,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -16,6 +16,14 @@
       "word": "主刀医生回应身首离断患者被救回",
       "onboard_time": 1755567501,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1042742,
+      "num": 1042742,
+      "word": "老人散步故意肘击训练学生",
+      "onboard_time": 1755571882,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 704008,
-      "num": 322891,
+      "num": 384798,
       "word": "朋友圈别再直接发视频了",
       "onboard_time": 1755566181,
       "rank": 14,
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478106,
+      "num": 478106,
+      "word": "陈飞宇 一饭封神",
+      "onboard_time": 1755572602,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461922,
       "num": 461922,
       "word": "赵丽颖久违的长发",
@@ -115,11 +131,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408416,
-      "num": 408416,
-      "word": "老人散步故意肘击训练学生",
-      "onboard_time": 1755571882,
-      "rank": 15,
+      "raw_hot": 399460,
+      "num": 399460,
+      "word": "上海一主理人新店开业当天即闭店",
+      "onboard_time": 1755574221,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -129,6 +145,14 @@
       "onboard_time": 1755517343,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382368,
+      "num": 382368,
+      "word": "辛巴只退网未回应卫生巾问题",
+      "onboard_time": 1755568642,
+      "rank": 34,
+      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 377767,
@@ -153,14 +177,6 @@
       "onboard_time": 1755569480,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 347370,
-      "num": 347370,
-      "word": "辛巴只退网未回应卫生巾问题",
-      "onboard_time": 1755568642,
-      "rank": 34,
-      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 335156,
@@ -219,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 291736,
+      "num": 291736,
+      "word": "男主居然是对女主一见钟情的",
+      "onboard_time": 1755575122,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288006,
       "num": 288006,
       "word": "iG战胜BLG",
@@ -259,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243564,
+      "num": 323153,
+      "word": "中国首部8K拍摄太空电影",
+      "onboard_time": 1755572661,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239082,
       "num": 198783,
       "word": "医生说辛巴的肺95岁了",
       "onboard_time": 1755560360,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 235295,
-      "num": 323153,
-      "word": "中国首部8K拍摄太空电影",
-      "onboard_time": 1755572661,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 231966,
@@ -283,12 +307,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 228564,
-      "num": 228564,
-      "word": "陈飞宇 一饭封神",
-      "onboard_time": 1755572602,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 230935,
+      "num": 230935,
+      "word": "IZNA尹智允退队",
+      "onboard_time": 1755574941,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 227536,
@@ -297,6 +321,22 @@
       "onboard_time": 1755517640,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220485,
+      "num": 220485,
+      "word": "刘宇宁7年发表超200首原唱歌曲",
+      "onboard_time": 1755570921,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 217517,
+      "num": 217517,
+      "word": "归队定档",
+      "onboard_time": 1755575122,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 208574,
@@ -353,6 +393,14 @@
       "onboard_time": 1755528503,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195197,
+      "num": 195197,
+      "word": "孙颖莎一日双赛",
+      "onboard_time": 1755574823,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 193815,
@@ -459,6 +507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 158318,
+      "num": 151141,
+      "word": "狗狗太可爱导致主人把牙咬碎",
+      "onboard_time": 1755574402,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157814,
       "num": 157814,
       "word": "生万物",
@@ -512,6 +568,14 @@
       "word": "这才是观众想看的大女主",
       "onboard_time": 1755572661,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143627,
+      "num": 143627,
+      "word": "将门虎女误闯天家成为天家",
+      "onboard_time": 1755575301,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -579,6 +643,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 138454,
+      "num": 138454,
+      "word": "曾黎素颜近照状态",
+      "onboard_time": 1755574881,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134313,
       "num": 134313,
       "word": "美国反对乌克兰加入北约",
@@ -604,7 +676,7 @@
     },
     {
       "raw_hot": 129355,
-      "num": 129355,
+      "num": 385538,
       "word": "医生谢谢你",
       "onboard_time": 1755568881,
       "rank": 36,
@@ -633,6 +705,22 @@
       "onboard_time": 1755573861,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125603,
+      "num": 125603,
+      "word": "9月1日开学是星期一",
+      "onboard_time": 1755573501,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 123557,
+      "num": 123557,
+      "word": "张海宇生万物喜剧邪修",
+      "onboard_time": 1755575423,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 122682,
@@ -667,14 +755,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 119835,
-      "num": 119835,
-      "word": "刘宇宁7年发表超200首原唱歌曲",
-      "onboard_time": 1755570921,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 118133,
       "num": 118133,
       "word": "孙颖莎说没拧上",
@@ -689,14 +769,6 @@
       "onboard_time": 1755571521,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116368,
-      "num": 116368,
-      "word": "9月1日开学是星期一",
-      "onboard_time": 1755573501,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 114455,
@@ -729,6 +801,14 @@
       "onboard_time": 1755527844,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111694,
+      "num": 111694,
+      "word": "十四五体育强国建设成就",
+      "onboard_time": 1755575662,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111104,
@@ -859,11 +939,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87048,
-      "num": 118717,
-      "word": "上海一主理人新店开业当天即闭店",
-      "onboard_time": 1755574221,
-      "rank": 38,
+      "raw_hot": 87955,
+      "num": 128152,
+      "word": "一地招聘研究生月薪三千",
+      "onboard_time": 1755575662,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -929,6 +1009,14 @@
       "onboard_time": 1755535338,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78087,
+      "num": 243911,
+      "word": "内蒙古鄂尔多斯暴雨致3死3失联",
+      "onboard_time": 1755574462,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 77678,
@@ -1011,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62676,
+      "num": 191831,
+      "word": "奥迪E5开启预定",
+      "onboard_time": 1755571821,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61933,
       "num": 61933,
       "word": "封四太坏了",
@@ -1035,14 +1131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 54368,
-      "num": 191831,
-      "word": "奥迪E5开启预定",
-      "onboard_time": 1755571821,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 51850,
       "num": 51850,
       "word": "王影璐瘦成啥样了",
@@ -1060,7 +1148,7 @@
     },
     {
       "raw_hot": 47608,
-      "num": 768866,
+      "num": 810000,
       "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
       "onboard_time": 1755567081,
       "rank": 2,
@@ -1083,6 +1171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39945,
+      "num": 292104,
+      "word": "王俊凯教周也付航打瓦手",
+      "onboard_time": 1755574462,
+      "rank": 14,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 39015,
       "num": 167479,
       "word": "特泽会现场一幅地图意味深长",
@@ -1100,7 +1196,7 @@
     },
     {
       "raw_hot": 33868,
-      "num": 240009,
+      "num": 260095,
       "word": "全新小鹏P7可街可赛",
       "onboard_time": 1755572661,
       "rank": 18,
