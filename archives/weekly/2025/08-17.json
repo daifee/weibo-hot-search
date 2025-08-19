@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755595702096,
+  "endTime": 1755596519315,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3355386,
-      "num": 667677,
+      "num": 3198643,
       "word": "杨幂 地母",
       "onboard_time": 1755593903,
       "rank": 3,
@@ -73,6 +73,14 @@
       "onboard_time": 1755525385,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1947982,
+      "num": 387011,
+      "word": "迪丽热巴大光明盘发",
+      "onboard_time": 1755595403,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1907857,
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1486818,
+      "num": 602252,
+      "word": "唐嫣 花神降临",
+      "onboard_time": 1755593842,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1483711,
       "num": 1483711,
       "word": "辛巴退出直播行业",
@@ -225,14 +241,6 @@
       "onboard_time": 1755502102,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1392734,
-      "num": 574338,
-      "word": "唐嫣 花神降临",
-      "onboard_time": 1755593842,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1383750,
@@ -560,6 +568,14 @@
       "word": "被清华大学的宿舍震惊到了",
       "onboard_time": 1755564801,
       "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 848229,
+      "num": 848229,
+      "word": "阳光玫瑰 没有葡萄味",
+      "onboard_time": 1755593303,
+      "rank": 9,
       "category": "情感"
     },
     {
@@ -931,6 +947,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 635089,
+      "num": 635089,
+      "word": "东方甄选报警",
+      "onboard_time": 1755594141,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 634516,
       "num": 634516,
       "word": "成人机票520元儿童却要1150元",
@@ -961,14 +985,6 @@
       "onboard_time": 1755440905,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 617383,
-      "num": 617383,
-      "word": "东方甄选报警",
-      "onboard_time": 1755594141,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 617282,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1755485183,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 589191,
+      "num": 453201,
+      "word": "杨幂的第100套高定",
+      "onboard_time": 1755594683,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 587468,
@@ -1259,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492130,
+      "num": 380384,
+      "word": "续面事件面馆已被打2.1万条差评",
+      "onboard_time": 1755594203,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489005,
       "num": 247830,
       "word": "田曦薇赖伟明晒同款炒饭",
@@ -1299,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 480453,
-      "num": 453201,
-      "word": "杨幂的第100套高定",
-      "onboard_time": 1755594683,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 478745,
       "num": 330465,
       "word": "做到一直爱一个人真的不难",
@@ -1337,14 +1361,6 @@
       "onboard_time": 1755483801,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471141,
-      "num": 471141,
-      "word": "阳光玫瑰 没有葡萄味",
-      "onboard_time": 1755593303,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 471012,
@@ -1691,14 +1707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368099,
-      "num": 368099,
-      "word": "迪丽热巴大光明盘发",
-      "onboard_time": 1755595403,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 367635,
       "num": 367635,
       "word": "中国队36金17银11铜收官",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1755569480,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 347469,
+      "num": 347469,
+      "word": "赵今麦的字",
+      "onboard_time": 1755595042,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 347166,
@@ -1923,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321116,
+      "num": 379062,
+      "word": "尚公主开机通知",
+      "onboard_time": 1755595285,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320142,
       "num": 390502,
       "word": "作家梁晓声再谈孙颖莎",
@@ -2000,14 +2024,6 @@
       "word": "身首离断患者已脱离呼吸机半月",
       "onboard_time": 1755570862,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303055,
-      "num": 380384,
-      "word": "续面事件面馆已被打2.1万条差评",
-      "onboard_time": 1755594203,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2219,20 +2235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280471,
+      "num": 377645,
+      "word": "开面馆陪女友读研男生发文",
+      "onboard_time": 1755594084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279943,
+      "num": 215542,
+      "word": "虞书欣情商这一块",
+      "onboard_time": 1755594203,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277619,
       "num": 216849,
       "word": "张凌赫友情出演生万物",
       "onboard_time": 1755344544,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 277488,
-      "num": 215542,
-      "word": "虞书欣情商这一块",
-      "onboard_time": 1755594203,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 275796,
@@ -2545,14 +2569,6 @@
       "onboard_time": 1755560360,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 239066,
-      "num": 239066,
-      "word": "赵今麦的字",
-      "onboard_time": 1755595042,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 237983,
@@ -2907,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209296,
+      "num": 176257,
+      "word": "女明星各有各的美",
+      "onboard_time": 1755595883,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 208626,
       "num": 217080,
       "word": "与晋长安没播刘宇宁先安排售后",
@@ -2953,6 +2977,14 @@
       "onboard_time": 1755450439,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206052,
+      "num": 175519,
+      "word": "接王亚飞事业运",
+      "onboard_time": 1755596123,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205798,
@@ -3065,6 +3097,14 @@
       "onboard_time": 1755440965,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200793,
+      "num": 170608,
+      "word": "于正取代我们的人也被换了",
+      "onboard_time": 1755595704,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 200475,
@@ -3347,6 +3387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193011,
+      "num": 168497,
+      "word": "郭麒麟新片 等父亲的一句道歉",
+      "onboard_time": 1755596004,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192987,
       "num": 192987,
       "word": "谷爱凌发文称因人为事故受伤",
@@ -3569,6 +3617,14 @@
       "onboard_time": 1755581663,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186136,
+      "num": 167499,
+      "word": "时代少年团反复排练",
+      "onboard_time": 1755595524,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 184742,
@@ -3803,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177036,
+      "num": 177036,
+      "word": "海口多家单位招聘研究生月薪3000",
+      "onboard_time": 1755595584,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177004,
       "num": 177004,
       "word": "曼联vs阿森纳",
@@ -4001,6 +4065,14 @@
       "onboard_time": 1755587782,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173675,
+      "num": 173675,
+      "word": "每天只睡6小时身体的变化",
+      "onboard_time": 1755596063,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 173580,
@@ -5251,14 +5323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143529,
-      "num": 143529,
-      "word": "时代少年团反复排练",
-      "onboard_time": 1755595524,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 143399,
       "num": 143399,
       "word": "特斯拉ModelYL内饰图曝光",
@@ -6019,14 +6083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130464,
-      "num": 130464,
-      "word": "海口多家单位招聘研究生月薪3000",
-      "onboard_time": 1755595584,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130340,
       "num": 130340,
       "word": "陈哲远真帅得冒烟了",
@@ -6227,14 +6283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 127454,
-      "num": 379062,
-      "word": "尚公主开机通知",
-      "onboard_time": 1755595285,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127427,
       "num": 127427,
       "word": "陈哲远江山为聘开机出妆",
@@ -6353,6 +6401,14 @@
       "onboard_time": 1755433762,
       "rank": 39,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 124846,
+      "num": 384702,
+      "word": "假院士阮某平被刑事拘留",
+      "onboard_time": 1755595463,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124700,
@@ -6696,14 +6752,6 @@
       "word": "科考队员说在南极睡醒后背全湿了",
       "onboard_time": 1755577163,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118189,
-      "num": 377645,
-      "word": "开面馆陪女友读研男生发文",
-      "onboard_time": 1755594084,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -7361,6 +7409,14 @@
       "onboard_time": 1755530062,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 108554,
+      "num": 154074,
+      "word": "周雨谈王楚钦林诗栋技术特点",
+      "onboard_time": 1755595285,
+      "rank": 38,
+      "category": "体育,体育"
     },
     {
       "raw_hot": 108545,
@@ -8139,14 +8195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 93320,
-      "num": 144260,
-      "word": "周雨谈王楚钦林诗栋技术特点",
-      "onboard_time": 1755595285,
-      "rank": 38,
-      "category": "体育,体育"
-    },
-    {
       "raw_hot": 93254,
       "num": 193826,
       "word": "泽连斯基这回穿正装了",
@@ -8731,6 +8779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76488,
+      "num": 154075,
+      "word": "网友拍到蘑菇云",
+      "onboard_time": 1755595463,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76453,
       "num": 141476,
       "word": "清融比赛日vlog",
@@ -9017,14 +9073,6 @@
       "onboard_time": 1755473659,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 62684,
-      "num": 144140,
-      "word": "网友拍到蘑菇云",
-      "onboard_time": 1755595463,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62676,
@@ -9579,6 +9627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39984,
+      "num": 154075,
+      "word": "夜爬泰山遇咸猪手",
+      "onboard_time": 1755596004,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39960,
       "num": 197299,
       "word": "泰国和短剧可以有多适配",
@@ -9651,20 +9707,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37937,
-      "num": 216134,
-      "word": "假院士阮某平被刑事拘留",
-      "onboard_time": 1755595463,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37661,
       "num": 37661,
       "word": "苏超常州镇江扬州套圈了",
       "onboard_time": 1755472998,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37555,
+      "num": 154074,
+      "word": "特朗普马克龙说悄悄话未关麦",
+      "onboard_time": 1755596484,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37123,

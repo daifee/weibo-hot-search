@@ -1,0 +1,410 @@
+{
+  "runTime": 1755596519315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3198643,
+        "num": 3198643,
+        "word": "杨幂 地母",
+        "onboard_time": 1755593903,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 848229,
+        "num": 848229,
+        "word": "阳光玫瑰 没有葡萄味",
+        "onboard_time": 1755593303,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18995,
+        "num": 798636,
+        "word": "十四五体育强国建设成就",
+        "onboard_time": 1755575662,
+        "rank": 2,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 2363892,
+        "num": 798609,
+        "word": "迪丽热巴605天没走红毯了",
+        "onboard_time": 1755589643,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 798574,
+        "num": 798574,
+        "word": "副教授遭精神病人杀害儿子一夜秃头",
+        "onboard_time": 1755591022,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635089,
+        "num": 635089,
+        "word": "东方甄选报警",
+        "onboard_time": 1755594141,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1486818,
+        "num": 602252,
+        "word": "唐嫣 花神降临",
+        "onboard_time": 1755593842,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 389085,
+        "num": 389085,
+        "word": "个人养老金新增三种领取情形",
+        "onboard_time": 1755590483,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1947982,
+        "num": 387011,
+        "word": "迪丽热巴大光明盘发",
+        "onboard_time": 1755595403,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124846,
+        "num": 384702,
+        "word": "假院士阮某平被刑事拘留",
+        "onboard_time": 1755595463,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939127,
+        "num": 381048,
+        "word": "明星W盛典造型图",
+        "onboard_time": 1755584242,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 589191,
+        "num": 377203,
+        "word": "杨幂的第100套高定",
+        "onboard_time": 1755594683,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 515232,
+        "num": 372417,
+        "word": "张元英汗毛",
+        "onboard_time": 1755576683,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492130,
+        "num": 369055,
+        "word": "续面事件面馆已被打2.1万条差评",
+        "onboard_time": 1755594203,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421454,
+        "num": 366630,
+        "word": "刘浩存绿色镂空长裙",
+        "onboard_time": 1755587301,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 364356,
+        "num": 364356,
+        "word": "醉驾送早产妻子就医被判无罪",
+        "onboard_time": 1755586102,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347469,
+        "num": 347469,
+        "word": "赵今麦的字",
+        "onboard_time": 1755595042,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 327249,
+        "num": 327249,
+        "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
+        "onboard_time": 1755590722,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280471,
+        "num": 280471,
+        "word": "开面馆陪女友读研男生发文",
+        "onboard_time": 1755594084,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269970,
+        "num": 269970,
+        "word": "89平米带了7个阳台",
+        "onboard_time": 1755587542,
+        "rank": 19,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 337613,
+        "num": 251872,
+        "word": "剧宣 婚闹",
+        "onboard_time": 1755576203,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330634,
+        "num": 241857,
+        "word": "虞书欣W盛典公主裙",
+        "onboard_time": 1755584842,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 321116,
+        "num": 204523,
+        "word": "尚公主开机通知",
+        "onboard_time": 1755595285,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301702,
+        "num": 186986,
+        "word": "向往的生活开录",
+        "onboard_time": 1755588262,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177036,
+        "num": 177036,
+        "word": "海口多家单位招聘研究生月薪3000",
+        "onboard_time": 1755595584,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209296,
+        "num": 176257,
+        "word": "女明星各有各的美",
+        "onboard_time": 1755595883,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 279943,
+        "num": 176139,
+        "word": "虞书欣情商这一块",
+        "onboard_time": 1755594203,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206052,
+        "num": 175519,
+        "word": "接王亚飞事业运",
+        "onboard_time": 1755596123,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173675,
+        "num": 173675,
+        "word": "每天只睡6小时身体的变化",
+        "onboard_time": 1755596063,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155323,
+        "num": 172427,
+        "word": "我国一次送上太空7颗卫星",
+        "onboard_time": 1755594862,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 899750,
+        "num": 172137,
+        "word": "钉钉被曝CEO凌晨巡查工位",
+        "onboard_time": 1755592942,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200793,
+        "num": 170608,
+        "word": "于正取代我们的人也被换了",
+        "onboard_time": 1755595704,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193011,
+        "num": 168497,
+        "word": "郭麒麟新片 等父亲的一句道歉",
+        "onboard_time": 1755596004,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186136,
+        "num": 167499,
+        "word": "时代少年团反复排练",
+        "onboard_time": 1755595524,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 630934,
+        "num": 165595,
+        "word": "续面事件面馆关门附近商户发声",
+        "onboard_time": 1755587301,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164559,
+        "num": 164559,
+        "word": "于正 我和林心如和好了",
+        "onboard_time": 1755576322,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162894,
+        "num": 162894,
+        "word": "续面事件老板修改账号名称",
+        "onboard_time": 1755593122,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154075,
+        "num": 154075,
+        "word": "卓沅后援会",
+        "onboard_time": 1755589643,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39984,
+        "num": 154075,
+        "word": "夜爬泰山遇咸猪手",
+        "onboard_time": 1755596004,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76488,
+        "num": 154075,
+        "word": "网友拍到蘑菇云",
+        "onboard_time": 1755595463,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37555,
+        "num": 154074,
+        "word": "特朗普马克龙说悄悄话未关麦",
+        "onboard_time": 1755596484,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108554,
+        "num": 154074,
+        "word": "周雨谈王楚钦林诗栋技术特点",
+        "onboard_time": 1755595285,
+        "rank": 41,
+        "category": "体育,体育"
+      },
+      {
+        "raw_hot": 171197,
+        "num": 154073,
+        "word": "续面事件顾客再发声",
+        "onboard_time": 1755587542,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154073,
+        "num": 154072,
+        "word": "我们的明天 翻唱",
+        "onboard_time": 1755579023,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151053,
+        "num": 151053,
+        "word": "林允 就喜欢假假的自己",
+        "onboard_time": 1755593423,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147118,
+        "num": 147118,
+        "word": "赵丽颖黄晓明新剧全员演技派",
+        "onboard_time": 1755584783,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145881,
+        "num": 145881,
+        "word": "中500w彩票冷知识",
+        "onboard_time": 1755590603,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136328,
+        "num": 136328,
+        "word": "赵今麦眼妆",
+        "onboard_time": 1755585382,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115960,
+        "num": 134745,
+        "word": "莫雷加德回应与樊振东聚餐",
+        "onboard_time": 1755593243,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109365,
+        "num": 133997,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 49,
+        "category": "美食,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#描绘新时代西藏发展新画卷#"
+    }
+  }
+}

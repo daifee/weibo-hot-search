@@ -1,10 +1,10 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755595702096,
+  "endTime": 1755596519315,
   "band_list": [
     {
       "raw_hot": 3355386,
-      "num": 667677,
+      "num": 3198643,
       "word": "杨幂 地母",
       "onboard_time": 1755593903,
       "rank": 3,
@@ -27,6 +27,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 1947982,
+      "num": 387011,
+      "word": "迪丽热巴大光明盘发",
+      "onboard_time": 1755595403,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1801503,
       "num": 842195,
       "word": "剧宣 婚闹",
@@ -43,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1486818,
+      "num": 602252,
+      "word": "唐嫣 花神降临",
+      "onboard_time": 1755593842,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1442988,
       "num": 1442988,
       "word": "老人散步故意肘击训练学生",
@@ -57,14 +73,6 @@
       "onboard_time": 1755580582,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1392734,
-      "num": 574338,
-      "word": "唐嫣 花神降临",
-      "onboard_time": 1755593842,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1240822,
@@ -128,6 +136,14 @@
       "word": "被清华大学的宿舍震惊到了",
       "onboard_time": 1755564801,
       "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 848229,
+      "num": 848229,
+      "word": "阳光玫瑰 没有葡萄味",
+      "onboard_time": 1755593303,
+      "rank": 9,
       "category": "情感"
     },
     {
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 635089,
+      "num": 635089,
+      "word": "东方甄选报警",
+      "onboard_time": 1755594141,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 632577,
       "num": 481114,
       "word": "刘浩存绿色镂空长裙",
@@ -227,12 +251,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 617383,
-      "num": 617383,
-      "word": "东方甄选报警",
-      "onboard_time": 1755594141,
-      "rank": 4,
-      "category": "互联网"
+      "raw_hot": 589191,
+      "num": 453201,
+      "word": "杨幂的第100套高定",
+      "onboard_time": 1755594683,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 580647,
@@ -315,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492130,
+      "num": 380384,
+      "word": "续面事件面馆已被打2.1万条差评",
+      "onboard_time": 1755594203,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 488802,
       "num": 406436,
       "word": "89平米带了7个阳台",
@@ -331,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 480453,
-      "num": 453201,
-      "word": "杨幂的第100套高定",
-      "onboard_time": 1755594683,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 478745,
       "num": 330465,
       "word": "做到一直爱一个人真的不难",
@@ -353,14 +377,6 @@
       "onboard_time": 1755572602,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471141,
-      "num": 471141,
-      "word": "阳光玫瑰 没有葡萄味",
-      "onboard_time": 1755593303,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 461922,
@@ -451,14 +467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 368099,
-      "num": 368099,
-      "word": "迪丽热巴大光明盘发",
-      "onboard_time": 1755595403,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 364588,
       "num": 309296,
       "word": "向太透露李连杰病情",
@@ -475,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 347469,
+      "num": 347469,
+      "word": "赵今麦的字",
+      "onboard_time": 1755595042,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 335156,
       "num": 335156,
       "word": "女子扶摔倒环卫工反被对方责骂",
@@ -489,6 +505,14 @@
       "onboard_time": 1755561139,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321116,
+      "num": 379062,
+      "word": "尚公主开机通知",
+      "onboard_time": 1755595285,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 312268,
@@ -512,14 +536,6 @@
       "word": "身首离断患者已脱离呼吸机半月",
       "onboard_time": 1755570862,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303055,
-      "num": 380384,
-      "word": "续面事件面馆已被打2.1万条差评",
-      "onboard_time": 1755594203,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -587,7 +603,15 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 277488,
+      "raw_hot": 280471,
+      "num": 377645,
+      "word": "开面馆陪女友读研男生发文",
+      "onboard_time": 1755594084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279943,
       "num": 215542,
       "word": "虞书欣情商这一块",
       "onboard_time": 1755594203,
@@ -649,14 +673,6 @@
       "onboard_time": 1755560360,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 239066,
-      "num": 239066,
-      "word": "赵今麦的字",
-      "onboard_time": 1755595042,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 236080,
@@ -763,12 +779,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209296,
+      "num": 176257,
+      "word": "女明星各有各的美",
+      "onboard_time": 1755595883,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 208574,
       "num": 208574,
       "word": "男子与儿认亲2年后又一儿子找来",
       "onboard_time": 1755520402,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206052,
+      "num": 175519,
+      "word": "接王亚飞事业运",
+      "onboard_time": 1755596123,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205215,
@@ -809,6 +841,14 @@
       "onboard_time": 1755592642,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200793,
+      "num": 170608,
+      "word": "于正取代我们的人也被换了",
+      "onboard_time": 1755595704,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 199086,
@@ -891,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193011,
+      "num": 168497,
+      "word": "郭麒麟新片 等父亲的一句道歉",
+      "onboard_time": 1755596004,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192687,
       "num": 192687,
       "word": "东方甄选高位跳水",
@@ -945,6 +993,14 @@
       "onboard_time": 1755581663,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186136,
+      "num": 167499,
+      "word": "时代少年团反复排练",
+      "onboard_time": 1755595524,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 182879,
@@ -1035,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177036,
+      "num": 177036,
+      "word": "海口多家单位招聘研究生月薪3000",
+      "onboard_time": 1755595584,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176802,
       "num": 176802,
       "word": "子夜归",
@@ -1081,6 +1145,14 @@
       "onboard_time": 1755587782,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173675,
+      "num": 173675,
+      "word": "每天只睡6小时身体的变化",
+      "onboard_time": 1755596063,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 173580,
@@ -1371,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143529,
-      "num": 143529,
-      "word": "时代少年团反复排练",
-      "onboard_time": 1755595524,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 143399,
       "num": 143399,
       "word": "特斯拉ModelYL内饰图曝光",
@@ -1547,14 +1611,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 130464,
-      "num": 130464,
-      "word": "海口多家单位招聘研究生月薪3000",
-      "onboard_time": 1755595584,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "老狼也去演短剧了",
@@ -1595,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127454,
-      "num": 379062,
-      "word": "尚公主开机通知",
-      "onboard_time": 1755595285,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127321,
       "num": 127321,
       "word": "辛巴把退网当防火墙了吗",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1755588622,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124846,
+      "num": 384702,
+      "word": "假院士阮某平被刑事拘留",
+      "onboard_time": 1755595463,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124426,
@@ -1728,14 +1784,6 @@
       "word": "科考队员说在南极睡醒后背全湿了",
       "onboard_time": 1755577163,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118189,
-      "num": 377645,
-      "word": "开面馆陪女友读研男生发文",
-      "onboard_time": 1755594084,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1931,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108554,
+      "num": 154074,
+      "word": "周雨谈王楚钦林诗栋技术特点",
+      "onboard_time": 1755595285,
+      "rank": 38,
+      "category": "体育,体育"
+    },
+    {
       "raw_hot": 107593,
       "num": 107593,
       "word": "辛巴第5次宣布退网",
@@ -2073,14 +2129,6 @@
       "onboard_time": 1755581663,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93320,
-      "num": 144260,
-      "word": "周雨谈王楚钦林诗栋技术特点",
-      "onboard_time": 1755595285,
-      "rank": 38,
-      "category": "体育,体育"
     },
     {
       "raw_hot": 93254,
@@ -2275,6 +2323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76488,
+      "num": 154075,
+      "word": "网友拍到蘑菇云",
+      "onboard_time": 1755595463,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76453,
       "num": 141476,
       "word": "清融比赛日vlog",
@@ -2369,14 +2425,6 @@
       "onboard_time": 1755576203,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62684,
-      "num": 144140,
-      "word": "网友拍到蘑菇云",
-      "onboard_time": 1755595463,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62676,
@@ -2539,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39984,
+      "num": 154075,
+      "word": "夜爬泰山遇咸猪手",
+      "onboard_time": 1755596004,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39015,
       "num": 167479,
       "word": "特泽会现场一幅地图意味深长",
@@ -2547,12 +2603,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37937,
-      "num": 216134,
-      "word": "假院士阮某平被刑事拘留",
-      "onboard_time": 1755595463,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 37555,
+      "num": 154074,
+      "word": "特朗普马克龙说悄悄话未关麦",
+      "onboard_time": 1755596484,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37123,
