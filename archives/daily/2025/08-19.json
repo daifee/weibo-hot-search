@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755582147721,
+  "endTime": 1755585510051,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -32,6 +32,14 @@
       "word": "老人散步故意肘击训练学生",
       "onboard_time": 1755571882,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1412671,
+      "num": 352852,
+      "word": "警方通报妈妈离世男童相伴遗体数日",
+      "onboard_time": 1755580582,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -80,6 +88,14 @@
       "word": "上海一主理人新店开业当天即闭店",
       "onboard_time": 1755574221,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 801818,
+      "num": 1128290,
+      "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
+      "onboard_time": 1755578664,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 525099,
+      "num": 270140,
+      "word": "虞书欣出发W盛典机场路透",
+      "onboard_time": 1755582622,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 520877,
       "num": 357433,
       "word": "万妮达与男友合照",
@@ -211,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433070,
+      "num": 262911,
+      "word": "明星W盛典造型图",
+      "onboard_time": 1755584242,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 412819,
       "num": 311291,
       "word": "网传学生强奸虐杀猫不实",
@@ -227,12 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 397014,
-      "num": 397014,
-      "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
-      "onboard_time": 1755578664,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 399894,
+      "num": 258085,
+      "word": "QQ音乐为梓渝定制歌曲",
+      "onboard_time": 1755582622,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 383252,
@@ -257,14 +289,6 @@
       "onboard_time": 1755566003,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352852,
-      "num": 352852,
-      "word": "警方通报妈妈离世男童相伴遗体数日",
-      "onboard_time": 1755580582,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 350719,
@@ -379,6 +403,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268736,
+      "num": 226266,
+      "word": "赵丽颖黄晓明新剧全员演技派",
+      "onboard_time": 1755584783,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 267111,
+      "num": 223946,
+      "word": "虞书欣W盛典公主裙",
+      "onboard_time": 1755584842,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 263290,
       "num": 263290,
       "word": "王楚钦恢复8个积分",
@@ -403,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243142,
+      "num": 218145,
+      "word": "李雪琴 王一通",
+      "onboard_time": 1755584121,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239082,
       "num": 198783,
       "word": "医生说辛巴的肺95岁了",
@@ -425,6 +473,14 @@
       "onboard_time": 1755527664,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 229227,
+      "num": 229227,
+      "word": "印度人在华旅游乱扔垃圾",
+      "onboard_time": 1755582622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227536,
@@ -457,6 +513,14 @@
       "onboard_time": 1755581061,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212940,
+      "num": 212940,
+      "word": "谁接到时代少年团电话了",
+      "onboard_time": 1755584722,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 212938,
@@ -555,6 +619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189525,
+      "num": 189525,
+      "word": "三十而已曼谷篇定档",
+      "onboard_time": 1755582562,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186347,
       "num": 161536,
       "word": "周也魔法女巫",
@@ -612,7 +684,7 @@
     },
     {
       "raw_hot": 177651,
-      "num": 158390,
+      "num": 168825,
       "word": "殷桃带妈妈和男友吃火锅",
       "onboard_time": 1755581483,
       "rank": 24,
@@ -731,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157579,
+      "num": 157579,
+      "word": "赵今麦眼妆",
+      "onboard_time": 1755585382,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 157266,
       "num": 157266,
       "word": "9月1日开学是星期一",
@@ -755,12 +835,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154285,
+      "num": 260999,
+      "word": "孙颖莎8年前的采访",
+      "onboard_time": 1755585141,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153673,
       "num": 153673,
       "word": "真的建议不要喝点外卖送的饮料",
       "onboard_time": 1755509421,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150447,
+      "num": 150447,
+      "word": "陈哲远给李沁剥喂荔枝",
+      "onboard_time": 1755583462,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 149129,
@@ -851,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140157,
+      "num": 140157,
+      "word": "邓超发小花做的鸡蛋羹",
+      "onboard_time": 1755583522,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139230,
       "num": 139230,
       "word": "男孩因与哥哥打架被父亲扔在国道上",
@@ -889,6 +993,14 @@
       "onboard_time": 1755574881,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137335,
+      "num": 137335,
+      "word": "炸鱼薯条 朴彩英吃了也沉默",
+      "onboard_time": 1755582802,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 136345,
@@ -1003,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123544,
+      "num": 123544,
+      "word": "邓超晒小花妹妹做的鸡蛋羹",
+      "onboard_time": 1755584182,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122843,
       "num": 122843,
       "word": "短期高糖暴食副作用",
@@ -1043,6 +1163,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 120722,
+      "num": 120722,
+      "word": "欧豪演技",
+      "onboard_time": 1755583702,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118740,
+      "num": 122625,
+      "word": "爷爷奶奶聘了一只小猫回家",
+      "onboard_time": 1755584421,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118346,
       "num": 118346,
       "word": "科考队员说在南极睡醒后背全湿了",
@@ -1057,6 +1193,14 @@
       "onboard_time": 1755569360,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117698,
+      "num": 117698,
+      "word": "意大利总理翻白眼",
+      "onboard_time": 1755583641,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116458,
@@ -1147,6 +1291,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110107,
+      "num": 157720,
+      "word": "卢远对王乐晨事事有回应",
+      "onboard_time": 1755583823,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109275,
+      "num": 109275,
+      "word": "失联大学生家属被索要20万才放人",
+      "onboard_time": 1755583103,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109268,
       "num": 109268,
       "word": "男孩多年坚持看望已离婚继母",
@@ -1203,8 +1363,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103262,
-      "num": 103262,
+      "raw_hot": 104222,
+      "num": 104222,
+      "word": "库里也是有无人机应援了",
+      "onboard_time": 1755585081,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103993,
+      "num": 103993,
       "word": "停电后女子发现灯泡内藏摄像头",
       "onboard_time": 1755579682,
       "rank": 44,
@@ -1225,6 +1393,14 @@
       "onboard_time": 1755530424,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98671,
+      "num": 98671,
+      "word": "白宫发特朗普与普京通话照",
+      "onboard_time": 1755585321,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98631,
@@ -1539,6 +1715,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 57347,
+      "num": 122549,
+      "word": "一个妈妈带两个孩子偷婴儿车",
+      "onboard_time": 1755584662,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53108,
       "num": 842195,
       "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
@@ -1555,12 +1739,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51346,
+      "num": 110567,
+      "word": "辛巴直播告别秀屏蔽维权等关键词",
+      "onboard_time": 1755584182,
+      "rank": 44,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 51215,
       "num": 67245,
       "word": "杨幂拍生万物住简陋招待所",
       "onboard_time": 1755515902,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46431,
+      "num": 269298,
+      "word": "商场回应顾客冒高温排长队晕倒",
+      "onboard_time": 1755584842,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44754,
@@ -1627,12 +1827,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 29146,
+      "num": 267300,
+      "word": "易烊千玺想看海的一粒沙",
+      "onboard_time": 1755583582,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 28710,
       "num": 28710,
       "word": "湖南卫视连发20条丞磊",
       "onboard_time": 1755539597,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28282,
+      "num": 155258,
+      "word": "泽连斯基特朗普记者会全程视频",
+      "onboard_time": 1755585202,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26721,
