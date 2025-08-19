@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755608745408,
+  "endTime": 1755610585263,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -59,6 +59,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 2201225,
+      "num": 2201225,
+      "word": "迪丽热巴第二套",
+      "onboard_time": 1755609866,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1947982,
       "num": 387011,
       "word": "迪丽热巴大光明盘发",
@@ -73,6 +81,14 @@
       "onboard_time": 1755576203,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1739583,
+      "num": 325243,
+      "word": "W盛典内场",
+      "onboard_time": 1755603987,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1517548,
@@ -105,6 +121,14 @@
       "onboard_time": 1755571882,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1434705,
+      "num": 261168,
+      "word": "赵今麦给热巴飞吻",
+      "onboard_time": 1755607946,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1423800,
@@ -161,14 +185,6 @@
       "onboard_time": 1755593303,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1181200,
-      "num": 303507,
-      "word": "W盛典内场",
-      "onboard_time": 1755603987,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1171719,
@@ -233,14 +249,6 @@
       "onboard_time": 1755592942,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 901319,
-      "num": 227458,
-      "word": "赵今麦给热巴飞吻",
-      "onboard_time": 1755607946,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 849953,
@@ -337,6 +345,14 @@
       "onboard_time": 1755566181,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 690003,
+      "num": 260387,
+      "word": "虞书欣取悦姐姐们像呼吸一样简单",
+      "onboard_time": 1755608785,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 678185,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 414922,
-      "num": 227309,
+      "num": 256359,
       "word": "周也 女明星带狗正常典范",
       "onboard_time": 1755605486,
       "rank": 25,
@@ -707,19 +723,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 335917,
+      "num": 335917,
+      "word": "中科院员工出轨女子致其流产已离职",
+      "onboard_time": 1755603808,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335156,
       "num": 335156,
       "word": "女子扶摔倒环卫工反被对方责骂",
       "onboard_time": 1755531142,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330967,
-      "num": 330967,
-      "word": "中科院员工出轨女子致其流产已离职",
-      "onboard_time": 1755603808,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -753,6 +769,14 @@
       "onboard_time": 1755563302,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309981,
+      "num": 256743,
+      "word": "W盛典晚宴",
+      "onboard_time": 1755608424,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 308579,
@@ -1011,20 +1035,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225175,
+      "num": 225175,
+      "word": "梓渝cha刀马刀马",
+      "onboard_time": 1755610107,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223511,
       "num": 184453,
       "word": "田曦薇 王安宇就是最破碎的人",
       "onboard_time": 1755589522,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222215,
-      "num": 222215,
-      "word": "W盛典晚宴",
-      "onboard_time": 1755608424,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221734,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1755604166,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216428,
+      "num": 216428,
+      "word": "生万物",
+      "onboard_time": 1755527244,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 215038,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1755587181,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211755,
+      "num": 211755,
+      "word": "刘冲 lets学习",
+      "onboard_time": 1755609925,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209296,
@@ -1235,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197776,
+      "num": 197776,
+      "word": "柳智敏 宝格丽",
+      "onboard_time": 1755610286,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197766,
       "num": 197766,
       "word": "高速服务区的水有多脏",
@@ -1355,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186378,
+      "num": 259615,
+      "word": "日军罪行时隔85年完整曝光",
+      "onboard_time": 1755609625,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186347,
       "num": 161536,
       "word": "周也魔法女巫",
@@ -1428,7 +1484,7 @@
     },
     {
       "raw_hot": 180202,
-      "num": 227408,
+      "num": 259263,
       "word": "国乒男单已三人出局",
       "onboard_time": 1755606205,
       "rank": 29,
@@ -1603,14 +1659,6 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 171567,
-      "num": 170750,
-      "word": "生万物",
-      "onboard_time": 1755527244,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171038,
       "num": 155511,
       "word": "心动的信号8",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1755591082,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168311,
+      "num": 168311,
+      "word": "2集亲2次告白4次",
+      "onboard_time": 1755609266,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 167290,
@@ -1771,6 +1827,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 156198,
+      "num": 258167,
+      "word": "林昀儒0比3户上隼辅",
+      "onboard_time": 1755608905,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155751,
       "num": 155751,
       "word": "生万物宁可金救绣绣这段看哭了",
@@ -1883,12 +1947,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 148229,
+      "num": 255733,
+      "word": "林诗栋独守半区",
+      "onboard_time": 1755608544,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148099,
       "num": 148099,
       "word": "雷军回应小米二季度财报",
       "onboard_time": 1755599905,
       "rank": 42,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 147840,
+      "num": 147840,
+      "word": "阴阳师",
+      "onboard_time": 1755609744,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 147022,
@@ -2180,7 +2260,7 @@
     },
     {
       "raw_hot": 131674,
-      "num": 131674,
+      "num": 146379,
       "word": "钱天一0比3桥本帆乃香",
       "onboard_time": 1755607047,
       "rank": 48,
@@ -2267,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125816,
+      "num": 258724,
+      "word": "韩国第一夫人为李在明买睡衣",
+      "onboard_time": 1755609925,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125731,
       "num": 125731,
       "word": "王栎鑫张远你俩在干什么",
@@ -2321,6 +2409,14 @@
       "onboard_time": 1755584182,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123014,
+      "num": 225932,
+      "word": "中国留学生遭诈骗自杀警方已立案",
+      "onboard_time": 1755608486,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122843,
@@ -2499,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114117,
+      "num": 259054,
+      "word": "大电量增程一周只充一次电",
+      "onboard_time": 1755609145,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 112923,
       "num": 112923,
       "word": "不吹空调风去吹自然风",
@@ -2556,19 +2660,11 @@
     },
     {
       "raw_hot": 110800,
-      "num": 226196,
+      "num": 256058,
       "word": "辛巴的直播电商之路",
       "onboard_time": 1755608247,
       "rank": 27,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 110545,
-      "num": 227307,
-      "word": "林诗栋独守半区",
-      "onboard_time": 1755608544,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 110544,
@@ -2633,6 +2729,14 @@
       "onboard_time": 1755584542,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108616,
+      "num": 243604,
+      "word": "胖东来这样定义企业和员工的关系",
+      "onboard_time": 1755609266,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108554,
@@ -3392,14 +3496,6 @@
       "word": "打工人下班后的赛博回血仪式",
       "onboard_time": 1755605066,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33991,
-      "num": 225932,
-      "word": "中国留学生遭诈骗自杀警方已立案",
-      "onboard_time": 1755608486,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
