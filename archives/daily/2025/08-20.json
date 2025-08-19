@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755645863008,
+  "endTime": 1755646736752,
   "band_list": [
     {
       "raw_hot": 1375053,
@@ -19,8 +19,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 842274,
-      "num": 850198,
+      "raw_hot": 918407,
+      "num": 972014,
       "word": "黑神话",
       "onboard_time": 1755636554,
       "rank": 0,
@@ -59,12 +59,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 400913,
-      "num": 400913,
+      "raw_hot": 418403,
+      "num": 418403,
       "word": "每天只睡6小时身体的变化",
       "onboard_time": 1755596063,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 398012,
+      "num": 398012,
+      "word": "一轮游已成为国乒男队常态",
+      "onboard_time": 1755618742,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 394551,
+      "num": 394551,
+      "word": "网友爸爸给迪丽热巴当司机",
+      "onboard_time": 1755646099,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 385001,
@@ -97,14 +113,6 @@
       "onboard_time": 1755616584,
       "rank": 7,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 349597,
-      "num": 349597,
-      "word": "一轮游已成为国乒男队常态",
-      "onboard_time": 1755618742,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 310526,
@@ -155,6 +163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284718,
+      "num": 130817,
+      "word": "检验睡没睡够的金标准",
+      "onboard_time": 1755645558,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 271172,
+      "num": 201128,
+      "word": "宋佳演我嗑井柏然刘雯",
+      "onboard_time": 1755645319,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 258706,
       "num": 299382,
       "word": "释永信给全国佛教界抹黑",
@@ -187,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206908,
+      "num": 206908,
+      "word": "冯骥杨奇谈黑神话钟馗",
+      "onboard_time": 1755645379,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204547,
       "num": 204547,
       "word": "小米YU7车主讲述被水泥车撞击过程",
@@ -203,8 +235,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196240,
+      "num": 196240,
+      "word": "孙俪喊杨幂绣绣",
+      "onboard_time": 1755645199,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 196100,
-      "num": 153638,
+      "num": 173328,
       "word": "任重一家与王阳一家度假",
       "onboard_time": 1755618923,
       "rank": 31,
@@ -219,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189771,
-      "num": 86999,
-      "word": "检验睡没睡够的金标准",
-      "onboard_time": 1755645558,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 189149,
+      "num": 141097,
+      "word": "男子在离婚冷静期毒杀一双儿女",
+      "onboard_time": 1755613526,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185999,
@@ -233,14 +273,6 @@
       "onboard_time": 1755616044,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184422,
-      "num": 141097,
-      "word": "男子在离婚冷静期毒杀一双儿女",
-      "onboard_time": 1755613526,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168821,
@@ -275,14 +307,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 133332,
-      "num": 133332,
-      "word": "宋佳演我嗑井柏然刘雯",
-      "onboard_time": 1755645319,
-      "rank": 14,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 130318,
       "num": 130318,
       "word": "马嘉祺背头",
@@ -292,18 +316,18 @@
     },
     {
       "raw_hot": 128774,
-      "num": 116063,
+      "num": 119731,
       "word": "中科院员工出轨女子致其流产已离职",
       "onboard_time": 1755603808,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117358,
-      "num": 117358,
-      "word": "孙俪喊杨幂绣绣",
-      "onboard_time": 1755645199,
-      "rank": 16,
+      "raw_hot": 124904,
+      "num": 124904,
+      "word": "倪妮 下身基础上身就不基础",
+      "onboard_time": 1755624620,
+      "rank": 34,
       "category": "作品衍生,时尚"
     },
     {
@@ -323,28 +347,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 114093,
-      "num": 114093,
-      "word": "倪妮 下身基础上身就不基础",
-      "onboard_time": 1755624620,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 113399,
       "num": 134389,
       "word": "日军罪行时隔85年完整曝光",
       "onboard_time": 1755609625,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113295,
-      "num": 113295,
-      "word": "冯骥杨奇谈黑神话钟馗",
-      "onboard_time": 1755645379,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 112627,
@@ -411,6 +419,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88793,
+      "num": 88793,
+      "word": "黑神话悟空",
+      "onboard_time": 1755646339,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 88747,
+      "num": 204981,
+      "word": "九三阅兵准备工作答记者问",
+      "onboard_time": 1755645739,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 84659,
       "num": 101141,
       "word": "三伏天结束了又好像没结束",
@@ -443,12 +467,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77959,
+      "num": 77959,
+      "word": "黑神话悟空dlc",
+      "onboard_time": 1755646400,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 77319,
       "num": 115420,
       "word": "普通人要对五险一金有概念",
       "onboard_time": 1755618865,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77145,
+      "num": 77145,
+      "word": "黑神话钟馗",
+      "onboard_time": 1755645860,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 76704,
+      "num": 76704,
+      "word": "黑神话钟馗首支CG先导预告片",
+      "onboard_time": 1755646040,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 76195,
@@ -467,6 +515,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73315,
+      "num": 73315,
+      "word": "每天跑步一点都没瘦是咋回事",
+      "onboard_time": 1755646099,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 73303,
+      "num": 73303,
+      "word": "沃尔宣布退役",
+      "onboard_time": 1755645860,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71465,
+      "num": 71465,
+      "word": "学校回应20岁女留学生遭诈骗自杀",
+      "onboard_time": 1755630435,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69015,
       "num": 127053,
       "word": "中国足协杯",
@@ -475,19 +547,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65704,
-      "num": 65704,
+      "raw_hot": 68407,
+      "num": 68407,
       "word": "摆摊月入4K小孩哥自研20多种新品",
       "onboard_time": 1755616346,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65405,
-      "num": 65405,
-      "word": "学校回应20岁女留学生遭诈骗自杀",
-      "onboard_time": 1755630435,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -497,6 +561,22 @@
       "onboard_time": 1755623419,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57025,
+      "num": 57025,
+      "word": "王曼昱vs迪亚兹",
+      "onboard_time": 1755645799,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55078,
+      "num": 55078,
+      "word": "W盛典群星合影",
+      "onboard_time": 1755646519,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 53568,
@@ -513,22 +593,6 @@
       "onboard_time": 1755614724,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51834,
-      "num": 51834,
-      "word": "王曼昱vs迪亚兹",
-      "onboard_time": 1755645799,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 50682,
-      "num": 50682,
-      "word": "九三阅兵准备工作答记者问",
-      "onboard_time": 1755645739,
-      "rank": 40,
-      "category": "军事"
     },
     {
       "raw_hot": 49330,
@@ -635,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18308,
+      "num": 130881,
+      "word": "白俄罗斯愿组织普京泽连斯基会晤",
+      "onboard_time": 1755646280,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17719,
       "num": 25334,
       "word": "张杰 主包什么时候学的新疆舞",
@@ -660,7 +732,7 @@
     },
     {
       "raw_hot": 1917,
-      "num": 549826,
+      "num": 619604,
       "word": "闪光60年 致亲爱的西藏",
       "onboard_time": 1755522923,
       "rank": 2,

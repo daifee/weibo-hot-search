@@ -1,0 +1,410 @@
+{
+  "runTime": 1755646736752,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 918407,
+        "num": 972014,
+        "word": "黑神话",
+        "onboard_time": 1755636554,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 768735,
+        "num": 768735,
+        "word": "女生在公司用微波炉加热速冻饺子",
+        "onboard_time": 1755616465,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1497,
+        "num": 619604,
+        "word": "闪光60年 致亲爱的西藏",
+        "onboard_time": 1755522923,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 505566,
+        "num": 505566,
+        "word": "王晶称很多明星爆火都是资本做局",
+        "onboard_time": 1755629296,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418403,
+        "num": 418403,
+        "word": "每天只睡6小时身体的变化",
+        "onboard_time": 1755596063,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398012,
+        "num": 398012,
+        "word": "一轮游已成为国乒男队常态",
+        "onboard_time": 1755618742,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394551,
+        "num": 394551,
+        "word": "网友爸爸给迪丽热巴当司机",
+        "onboard_time": 1755646099,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220533,
+        "num": 220533,
+        "word": "泽连斯基55秒开场白说了8次谢谢",
+        "onboard_time": 1755636013,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206908,
+        "num": 206908,
+        "word": "冯骥杨奇谈黑神话钟馗",
+        "onboard_time": 1755645379,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88747,
+        "num": 204981,
+        "word": "九三阅兵准备工作答记者问",
+        "onboard_time": 1755645739,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 712153,
+        "num": 203539,
+        "word": "毛晓彤方否认与陈晓恋情",
+        "onboard_time": 1755615444,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271172,
+        "num": 201128,
+        "word": "宋佳演我嗑井柏然刘雯",
+        "onboard_time": 1755645319,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242967,
+        "num": 197843,
+        "word": "迪丽热巴第二套",
+        "onboard_time": 1755609866,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196240,
+        "num": 196240,
+        "word": "孙俪喊杨幂绣绣",
+        "onboard_time": 1755645199,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187611,
+        "num": 187611,
+        "word": "安静公主公布验血结果",
+        "onboard_time": 1755620181,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173328,
+        "num": 173328,
+        "word": "任重一家与王阳一家度假",
+        "onboard_time": 1755618923,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160221,
+        "num": 160221,
+        "word": "泡泡玛特新品没卖已被炒到800元",
+        "onboard_time": 1755616584,
+        "rank": 16,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 143371,
+        "num": 143371,
+        "word": "韩国第一夫人为李在明买睡衣",
+        "onboard_time": 1755609925,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141779,
+        "num": 141779,
+        "word": "释永信给全国佛教界抹黑",
+        "onboard_time": 1755615205,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18308,
+        "num": 130881,
+        "word": "白俄罗斯愿组织普京泽连斯基会晤",
+        "onboard_time": 1755646280,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284718,
+        "num": 130817,
+        "word": "检验睡没睡够的金标准",
+        "onboard_time": 1755645558,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189149,
+        "num": 130631,
+        "word": "男子在离婚冷静期毒杀一双儿女",
+        "onboard_time": 1755613526,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130230,
+        "num": 130230,
+        "word": "胡先煦方律师声明",
+        "onboard_time": 1755616164,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124904,
+        "num": 124904,
+        "word": "倪妮 下身基础上身就不基础",
+        "onboard_time": 1755624620,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119731,
+        "num": 119731,
+        "word": "中科院员工出轨女子致其流产已离职",
+        "onboard_time": 1755603808,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108723,
+        "num": 108723,
+        "word": "孙俪 这是热巴的",
+        "onboard_time": 1755604407,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 88793,
+        "num": 88793,
+        "word": "黑神话悟空",
+        "onboard_time": 1755646339,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88604,
+        "num": 88604,
+        "word": "小米YU7车主讲述被水泥车撞击过程",
+        "onboard_time": 1755616164,
+        "rank": 27,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 81749,
+        "num": 81749,
+        "word": "大学室友不联系了还随礼吗",
+        "onboard_time": 1755645079,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77959,
+        "num": 77959,
+        "word": "黑神话悟空dlc",
+        "onboard_time": 1755646400,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77145,
+        "num": 77145,
+        "word": "黑神话钟馗",
+        "onboard_time": 1755645860,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76704,
+        "num": 76704,
+        "word": "黑神话钟馗首支CG先导预告片",
+        "onboard_time": 1755646040,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73315,
+        "num": 73315,
+        "word": "每天跑步一点都没瘦是咋回事",
+        "onboard_time": 1755646099,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 73303,
+        "num": 73303,
+        "word": "沃尔宣布退役",
+        "onboard_time": 1755645860,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70942,
+        "num": 72172,
+        "word": "杨超越700度近视",
+        "onboard_time": 1755619702,
+        "rank": 34,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 71465,
+        "num": 71465,
+        "word": "学校回应20岁女留学生遭诈骗自杀",
+        "onboard_time": 1755630435,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70024,
+        "num": 70024,
+        "word": "一人一句告别夏天",
+        "onboard_time": 1755619702,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69433,
+        "num": 69433,
+        "word": "刘雯开毯",
+        "onboard_time": 1755601346,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 68407,
+        "num": 68407,
+        "word": "摆摊月入4K小孩哥自研20多种新品",
+        "onboard_time": 1755616346,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67461,
+        "num": 67461,
+        "word": "翟潇闻 不用了吧",
+        "onboard_time": 1755614067,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65588,
+        "num": 65588,
+        "word": "虞书欣取悦姐姐们像呼吸一样简单",
+        "onboard_time": 1755608785,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 63911,
+        "num": 63911,
+        "word": "封大脚人设",
+        "onboard_time": 1755616044,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60794,
+        "num": 60794,
+        "word": "幂迪 仙女夫妇",
+        "onboard_time": 1755606567,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60347,
+        "num": 60347,
+        "word": "W盛典内场",
+        "onboard_time": 1755603987,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60208,
+        "num": 60208,
+        "word": "三伏天结束了又好像没结束",
+        "onboard_time": 1755616885,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57121,
+        "num": 57121,
+        "word": "日本老头地铁上怒吼女生",
+        "onboard_time": 1755618742,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57025,
+        "num": 57025,
+        "word": "王曼昱vs迪亚兹",
+        "onboard_time": 1755645799,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55078,
+        "num": 55078,
+        "word": "W盛典群星合影",
+        "onboard_time": 1755646519,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50037,
+        "num": 55075,
+        "word": "马嘉祺背头",
+        "onboard_time": 1755615024,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48322,
+        "num": 55074,
+        "word": "生万物一飙之下",
+        "onboard_time": 1755611906,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#西藏工作关系党和国家工作大局#"
+    }
+  }
+}
