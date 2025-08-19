@@ -1,0 +1,410 @@
+{
+  "runTime": 1755613591166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2897710,
+        "num": 2897710,
+        "word": "迪丽热巴第二套",
+        "onboard_time": 1755609866,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1117828,
+        "num": 1117828,
+        "word": "W红毯 审美高级",
+        "onboard_time": 1755599546,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 3101,
+        "num": 678002,
+        "word": "闪光60年 致亲爱的西藏",
+        "onboard_time": 1755522923,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1187763,
+        "num": 553189,
+        "word": "幂迪 仙女夫妇",
+        "onboard_time": 1755606567,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 404904,
+        "num": 404904,
+        "word": "我让你删的文件你怎么删了",
+        "onboard_time": 1755598346,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288332,
+        "num": 404841,
+        "word": "中科院员工出轨女子致其流产已离职",
+        "onboard_time": 1755603808,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1114607,
+        "num": 399167,
+        "word": "孙俪 这是热巴的",
+        "onboard_time": 1755604407,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 878020,
+        "num": 396213,
+        "word": "W盛典内场",
+        "onboard_time": 1755603987,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 285204,
+        "num": 390383,
+        "word": "何卓佳挑战蒯曼发球成功",
+        "onboard_time": 1755610766,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244021,
+        "num": 385892,
+        "word": "日军罪行时隔85年完整曝光",
+        "onboard_time": 1755609625,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 674158,
+        "num": 382905,
+        "word": "倪妮太敢穿了",
+        "onboard_time": 1755601704,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 691495,
+        "num": 379655,
+        "word": "赵今麦给热巴飞吻",
+        "onboard_time": 1755607946,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 630948,
+        "num": 376531,
+        "word": "虞书欣取悦姐姐们像呼吸一样简单",
+        "onboard_time": 1755608785,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 561171,
+        "num": 371031,
+        "word": "柳智敏 宝格丽",
+        "onboard_time": 1755610286,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 369565,
+        "num": 369565,
+        "word": "韩国第一夫人为李在明买睡衣",
+        "onboard_time": 1755609925,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283808,
+        "num": 283808,
+        "word": "每天只睡6小时身体的变化",
+        "onboard_time": 1755596063,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216461,
+        "num": 283255,
+        "word": "北京晚霞",
+        "onboard_time": 1755603205,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195196,
+        "num": 281359,
+        "word": "阳光玫瑰 没有葡萄味",
+        "onboard_time": 1755593303,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172148,
+        "num": 280012,
+        "word": "JDG巅峰赛冠军",
+        "onboard_time": 1755613346,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151153,
+        "num": 278841,
+        "word": "续面事件老板回应曾拖欠厨师工资",
+        "onboard_time": 1755611488,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5566849,
+        "num": 5566849,
+        "word": "迪丽热巴 主人级别",
+        "onboard_time": 1755597624,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46797,
+        "num": 275822,
+        "word": "大电量增程一周只充一次电",
+        "onboard_time": 1755609145,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 926237,
+        "num": 274813,
+        "word": "杨幂 地母",
+        "onboard_time": 1755593903,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 540539,
+        "num": 274447,
+        "word": "周深 太尴尬啦",
+        "onboard_time": 1755605966,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 369258,
+        "num": 272508,
+        "word": "梓渝cha刀马刀马",
+        "onboard_time": 1755610107,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 364093,
+        "num": 270718,
+        "word": "生万物一飙之下",
+        "onboard_time": 1755611906,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316931,
+        "num": 269828,
+        "word": "宋佳今天一米八八",
+        "onboard_time": 1755611306,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 296787,
+        "num": 268607,
+        "word": "唐嫣 花神降临",
+        "onboard_time": 1755593842,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147776,
+        "num": 267785,
+        "word": "W盛典红毯",
+        "onboard_time": 1755597203,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 109391,
+        "num": 266401,
+        "word": "大连一市民买房15年后遭撤证",
+        "onboard_time": 1755612086,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265154,
+        "num": 265154,
+        "word": "刘雯开毯",
+        "onboard_time": 1755601346,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 246687,
+        "num": 246687,
+        "word": "刘诗诗 红发郁金香",
+        "onboard_time": 1755600144,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232576,
+        "num": 232576,
+        "word": "倪妮背布洛芬走红毯",
+        "onboard_time": 1755600986,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230587,
+        "num": 230587,
+        "word": "热巴这个回眸",
+        "onboard_time": 1755610886,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230451,
+        "num": 230451,
+        "word": "刘浩存 翡翠塑",
+        "onboard_time": 1755600805,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204427,
+        "num": 204427,
+        "word": "生万物收视率破4",
+        "onboard_time": 1755613346,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202347,
+        "num": 202347,
+        "word": "杨幂 马吉拉",
+        "onboard_time": 1755597926,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200402,
+        "num": 200402,
+        "word": "周深一首歌路过大半个内娱",
+        "onboard_time": 1755612626,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135013,
+        "num": 191484,
+        "word": "C罗助攻菲利克斯",
+        "onboard_time": 1755613466,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108919,
+        "num": 189568,
+        "word": "男子在离婚冷静期毒杀一双儿女",
+        "onboard_time": 1755613526,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188721,
+        "num": 188721,
+        "word": "宋佳虞书欣牵手",
+        "onboard_time": 1755605845,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186630,
+        "num": 186630,
+        "word": "周也 女明星带狗正常典范",
+        "onboard_time": 1755605486,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128362,
+        "num": 179617,
+        "word": "孙颖莎林依诺合照",
+        "onboard_time": 1755613285,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86842,
+        "num": 178246,
+        "word": "胖东来这样定义企业和员工的关系",
+        "onboard_time": 1755609266,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178067,
+        "num": 178067,
+        "word": "白敬亭第一个出场",
+        "onboard_time": 1755600206,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171326,
+        "num": 171326,
+        "word": "生万物",
+        "onboard_time": 1755606806,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171024,
+        "num": 171024,
+        "word": "薛凯琪发长文回应",
+        "onboard_time": 1755612685,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147064,
+        "num": 147064,
+        "word": "W盛典晚宴",
+        "onboard_time": 1755608424,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130693,
+        "num": 130693,
+        "word": "闵塔鲨我们和好吧",
+        "onboard_time": 1755598286,
+        "rank": 48,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 88581,
+        "num": 130685,
+        "word": "85年前重庆大轰炸真实影像",
+        "onboard_time": 1755613047,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#描绘新时代西藏发展新画卷#"
+    }
+  }
+}

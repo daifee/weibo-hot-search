@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755611259418,
+  "endTime": 1755613591166,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2230644,
-      "num": 515756,
+      "num": 553189,
       "word": "幂迪 仙女夫妇",
       "onboard_time": 1755606567,
       "rank": 3,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1810747,
-      "num": 330373,
+      "num": 396213,
       "word": "W盛典内场",
       "onboard_time": 1755603987,
       "rank": 12,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1434705,
-      "num": 278599,
+      "num": 379655,
       "word": "赵今麦给热巴飞吻",
       "onboard_time": 1755607946,
       "rank": 15,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1035185,
-      "num": 306905,
+      "num": 382905,
       "word": "倪妮太敢穿了",
       "onboard_time": 1755601704,
       "rank": 27,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 735988,
-      "num": 303482,
+      "num": 376531,
       "word": "虞书欣取悦姐姐们像呼吸一样简单",
       "onboard_time": 1755608785,
       "rank": 13,
@@ -449,6 +449,14 @@
       "onboard_time": 1755575122,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 561171,
+      "num": 371031,
+      "word": "柳智敏 宝格丽",
+      "onboard_time": 1755610286,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 555688,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 399436,
-      "num": 399436,
+      "num": 404841,
       "word": "中科院员工出轨女子致其流产已离职",
       "onboard_time": 1755603808,
       "rank": 5,
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 387658,
-      "num": 225175,
+      "num": 272508,
       "word": "梓渝cha刀马刀马",
       "onboard_time": 1755610107,
       "rank": 36,
@@ -723,12 +731,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 369565,
+      "num": 369565,
+      "word": "韩国第一夫人为李在明买睡衣",
+      "onboard_time": 1755609925,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 364588,
       "num": 309296,
       "word": "向太透露李连杰病情",
       "onboard_time": 1755566003,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364093,
+      "num": 270718,
+      "word": "生万物一飙之下",
+      "onboard_time": 1755611906,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 350719,
@@ -771,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316931,
+      "num": 269828,
+      "word": "宋佳今天一米八八",
+      "onboard_time": 1755611306,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 312268,
       "num": 312268,
       "word": "背娃送外卖妈妈称不再嫁人不合法",
@@ -801,14 +833,6 @@
       "onboard_time": 1755570862,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303922,
-      "num": 203239,
-      "word": "柳智敏 宝格丽",
-      "onboard_time": 1755610286,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 302192,
@@ -865,6 +889,14 @@
       "onboard_time": 1755522923,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 285204,
+      "num": 390383,
+      "word": "何卓佳挑战蒯曼发球成功",
+      "onboard_time": 1755610766,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 283813,
@@ -955,14 +987,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 248599,
-      "num": 248599,
-      "word": "何卓佳挑战蒯曼发球成功",
-      "onboard_time": 1755610766,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248009,
       "num": 763302,
       "word": "梁靖崑止步欧洲大满贯32强",
@@ -977,6 +1001,14 @@
       "onboard_time": 1755596724,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 244021,
+      "num": 385892,
+      "word": "日军罪行时隔85年完整曝光",
+      "onboard_time": 1755609625,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 243564,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1755527664,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 230587,
+      "num": 230587,
+      "word": "热巴这个回眸",
+      "onboard_time": 1755610886,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 229282,
@@ -1187,20 +1227,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 205959,
-      "num": 203138,
-      "word": "热巴这个回眸",
-      "onboard_time": 1755610886,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 205215,
       "num": 205215,
       "word": "余宇涵和库里握手了",
       "onboard_time": 1755592703,
       "rank": 25,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 204427,
+      "num": 204427,
+      "word": "生万物收视率破4",
+      "onboard_time": 1755613346,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 204275,
@@ -1233,14 +1273,6 @@
       "onboard_time": 1755608125,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 202624,
-      "num": 316194,
-      "word": "韩国第一夫人为李在明买睡衣",
-      "onboard_time": 1755609925,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 201902,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1755599665,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200402,
+      "num": 200402,
+      "word": "周深一首歌路过大半个内娱",
+      "onboard_time": 1755612626,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199086,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1755607225,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187613,
-      "num": 321973,
-      "word": "日军罪行时隔85年完整曝光",
-      "onboard_time": 1755609625,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 187300,
@@ -1699,12 +1731,28 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 172148,
+      "num": 280012,
+      "word": "JDG巅峰赛冠军",
+      "onboard_time": 1755613346,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171038,
       "num": 155511,
       "word": "心动的信号8",
       "onboard_time": 1755580883,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171024,
+      "num": 171024,
+      "word": "薛凯琪发长文回应",
+      "onboard_time": 1755612685,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 170907,
@@ -1929,6 +1977,14 @@
       "onboard_time": 1755601104,
       "rank": 9,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 151153,
+      "num": 278841,
+      "word": "续面事件老板回应曾拖欠厨师工资",
+      "onboard_time": 1755611488,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150447,
@@ -2259,6 +2315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135013,
+      "num": 191484,
+      "word": "C罗助攻菲利克斯",
+      "onboard_time": 1755613466,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134313,
       "num": 134313,
       "word": "美国反对乌克兰加入北约",
@@ -2337,6 +2401,14 @@
       "onboard_time": 1755578062,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128362,
+      "num": 179617,
+      "word": "孙颖莎林依诺合照",
+      "onboard_time": 1755613285,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 128067,
@@ -2636,7 +2708,7 @@
     },
     {
       "raw_hot": 114117,
-      "num": 259054,
+      "num": 275822,
       "word": "大电量增程一周只充一次电",
       "onboard_time": 1755609145,
       "rank": 18,
@@ -2747,6 +2819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 109391,
+      "num": 266401,
+      "word": "大连一市民买房15年后遭撤证",
+      "onboard_time": 1755612086,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109275,
       "num": 109275,
       "word": "失联大学生家属被索要20万才放人",
@@ -2769,6 +2849,14 @@
       "onboard_time": 1755584542,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108919,
+      "num": 189568,
+      "word": "男子在离婚冷静期毒杀一双儿女",
+      "onboard_time": 1755613526,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108554,
@@ -2985,6 +3073,14 @@
       "onboard_time": 1755579922,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88581,
+      "num": 130685,
+      "word": "85年前重庆大轰炸真实影像",
+      "onboard_time": 1755613047,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86561,
@@ -3707,8 +3803,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1058,
-      "num": 467635,
+      "raw_hot": 3101,
+      "num": 678002,
       "word": "闪光60年 致亲爱的西藏",
       "onboard_time": 1755522923,
       "rank": 2,
