@@ -1,0 +1,410 @@
+{
+  "runTime": 1755624198173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 541435,
+        "num": 541435,
+        "word": "迪丽热巴第二套",
+        "onboard_time": 1755609866,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 422803,
+        "num": 422803,
+        "word": "女生在公司用微波炉加热速冻饺子",
+        "onboard_time": 1755616465,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1110,
+        "num": 399243,
+        "word": "闪光60年 致亲爱的西藏",
+        "onboard_time": 1755522923,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 385001,
+        "num": 385001,
+        "word": "杨超越700度近视",
+        "onboard_time": 1755619702,
+        "rank": 3,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 289585,
+        "num": 289585,
+        "word": "一轮游已成为国乒男队常态",
+        "onboard_time": 1755618742,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232560,
+        "num": 232560,
+        "word": "每天只睡6小时身体的变化",
+        "onboard_time": 1755596063,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281537,
+        "num": 229855,
+        "word": "安静公主公布验血结果",
+        "onboard_time": 1755620181,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 263585,
+        "num": 225888,
+        "word": "孙俪 这是热巴的",
+        "onboard_time": 1755604407,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209208,
+        "num": 209208,
+        "word": "一人一句告别夏天",
+        "onboard_time": 1755619702,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159414,
+        "num": 159414,
+        "word": "泡泡玛特新品没卖已被炒到800元",
+        "onboard_time": 1755616584,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 571336,
+        "num": 158957,
+        "word": "毛晓彤方否认与陈晓恋情",
+        "onboard_time": 1755615444,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185562,
+        "num": 158793,
+        "word": "虞书欣取悦姐姐们像呼吸一样简单",
+        "onboard_time": 1755608785,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162262,
+        "num": 158737,
+        "word": "幂迪 仙女夫妇",
+        "onboard_time": 1755606567,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158461,
+        "num": 158461,
+        "word": "柳智敏 宝格丽",
+        "onboard_time": 1755610286,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130127,
+        "num": 130127,
+        "word": "W红毯 审美高级",
+        "onboard_time": 1755599546,
+        "rank": 14,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 136903,
+        "num": 129435,
+        "word": "倪妮太敢穿了",
+        "onboard_time": 1755601704,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 81234,
+        "num": 128298,
+        "word": "释永信给全国佛教界抹黑",
+        "onboard_time": 1755615205,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76312,
+        "num": 128015,
+        "word": "韩国第一夫人为李在明买睡衣",
+        "onboard_time": 1755609925,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69015,
+        "num": 127053,
+        "word": "中国足协杯",
+        "onboard_time": 1755623598,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67898,
+        "num": 125747,
+        "word": "小米YU7车主讲述被水泥车撞击过程",
+        "onboard_time": 1755616164,
+        "rank": 19,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 362740,
+        "num": 125235,
+        "word": "迪丽热巴 主人级别",
+        "onboard_time": 1755597624,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154204,
+        "num": 124104,
+        "word": "杨幂 地母",
+        "onboard_time": 1755593903,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123591,
+        "num": 123591,
+        "word": "翟潇闻 不用了吧",
+        "onboard_time": 1755614067,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119662,
+        "num": 119662,
+        "word": "任重一家与王阳一家度假",
+        "onboard_time": 1755618923,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88169,
+        "num": 119591,
+        "word": "男子在离婚冷静期毒杀一双儿女",
+        "onboard_time": 1755613526,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91662,
+        "num": 119410,
+        "word": "胡先煦方律师声明",
+        "onboard_time": 1755616164,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87328,
+        "num": 119240,
+        "word": "W盛典内场",
+        "onboard_time": 1755603987,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66769,
+        "num": 119076,
+        "word": "我让你删的文件你怎么删了",
+        "onboard_time": 1755598346,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86198,
+        "num": 118959,
+        "word": "赵今麦给热巴飞吻",
+        "onboard_time": 1755607946,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 86018,
+        "num": 118703,
+        "word": "封大脚人设",
+        "onboard_time": 1755616044,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78304,
+        "num": 118495,
+        "word": "贺峻霖彩排被要工作证",
+        "onboard_time": 1755621081,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76503,
+        "num": 118462,
+        "word": "周深 太尴尬啦",
+        "onboard_time": 1755605966,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 73905,
+        "num": 118153,
+        "word": "生万物一飙之下",
+        "onboard_time": 1755611906,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63812,
+        "num": 118090,
+        "word": "第一次见艺人抓着粉丝不撒手",
+        "onboard_time": 1755618865,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63152,
+        "num": 117964,
+        "word": "卓沅后援会回应把翻唱写成新歌",
+        "onboard_time": 1755623419,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62041,
+        "num": 117753,
+        "word": "刘雯开毯",
+        "onboard_time": 1755601346,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 61654,
+        "num": 117496,
+        "word": "易烊千玺窦靖童合照",
+        "onboard_time": 1755616346,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57716,
+        "num": 117324,
+        "word": "刘浩存 翡翠塑",
+        "onboard_time": 1755600805,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 56245,
+        "num": 117237,
+        "word": "马嘉祺背头",
+        "onboard_time": 1755615024,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50167,
+        "num": 117054,
+        "word": "日军罪行时隔85年完整曝光",
+        "onboard_time": 1755609625,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53568,
+        "num": 116894,
+        "word": "周柯宇吃醋敖子逸蒲熠星",
+        "onboard_time": 1755623059,
+        "rank": 40,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 50055,
+        "num": 116753,
+        "word": "梓渝cha刀马刀马",
+        "onboard_time": 1755610107,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48304,
+        "num": 116559,
+        "word": "日本老头地铁上怒吼女生",
+        "onboard_time": 1755618742,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45620,
+        "num": 116396,
+        "word": "白敬亭第一个出场",
+        "onboard_time": 1755600206,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 44249,
+        "num": 116169,
+        "word": "周也 女明星带狗正常典范",
+        "onboard_time": 1755605486,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 42641,
+        "num": 116063,
+        "word": "中科院员工出轨女子致其流产已离职",
+        "onboard_time": 1755603808,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41264,
+        "num": 115821,
+        "word": "关于纪念抗战的几种错误论调",
+        "onboard_time": 1755615624,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40995,
+        "num": 115758,
+        "word": "宋佳虞书欣牵手",
+        "onboard_time": 1755605845,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40071,
+        "num": 115538,
+        "word": "大司命的舞感",
+        "onboard_time": 1755622819,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39838,
+        "num": 115420,
+        "word": "普通人要对五险一金有概念",
+        "onboard_time": 1755618865,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#西藏工作关系党和国家工作大局#"
+    }
+  }
+}
