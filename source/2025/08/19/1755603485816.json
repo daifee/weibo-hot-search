@@ -1,0 +1,410 @@
+{
+  "runTime": 1755603485816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9224998,
+        "num": 9224998,
+        "word": "迪丽热巴 主人级别",
+        "onboard_time": 1755597624,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2476561,
+        "num": 2476561,
+        "word": "W盛典红毯",
+        "onboard_time": 1755597203,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 14831,
+        "num": 2075816,
+        "word": "十四五体育强国建设成就",
+        "onboard_time": 1755575662,
+        "rank": 2,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 2068555,
+        "num": 2068555,
+        "word": "杨幂 地母",
+        "onboard_time": 1755593903,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 805063,
+        "num": 805063,
+        "word": "闵塔鲨我们和好吧",
+        "onboard_time": 1755598286,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 248009,
+        "num": 763302,
+        "word": "梁靖崑止步欧洲大满贯32强",
+        "onboard_time": 1755602065,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1379267,
+        "num": 753246,
+        "word": "倪妮背布洛芬走红毯",
+        "onboard_time": 1755600986,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1116627,
+        "num": 749101,
+        "word": "刘诗诗 红发郁金香",
+        "onboard_time": 1755600144,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 740226,
+        "num": 740226,
+        "word": "阳光玫瑰 没有葡萄味",
+        "onboard_time": 1755593303,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98980,
+        "num": 723271,
+        "word": "谁在给假院士搭舞台",
+        "onboard_time": 1755601947,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 902815,
+        "num": 723154,
+        "word": "红毯没有王法 只有热巴的想法",
+        "onboard_time": 1755599905,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 722721,
+        "num": 722721,
+        "word": "W红毯 审美高级",
+        "onboard_time": 1755599546,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 653649,
+        "num": 653649,
+        "word": "唐嫣 花神降临",
+        "onboard_time": 1755593842,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 565011,
+        "num": 565011,
+        "word": "杨幂 马吉拉",
+        "onboard_time": 1755597926,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 468702,
+        "num": 468702,
+        "word": "我让你删的文件你怎么删了",
+        "onboard_time": 1755598346,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 543642,
+        "num": 400242,
+        "word": "刘浩存 翡翠塑",
+        "onboard_time": 1755600805,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 314020,
+        "num": 314020,
+        "word": "每天只睡6小时身体的变化",
+        "onboard_time": 1755596063,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235379,
+        "num": 269755,
+        "word": "梁靖崑0比3拉森福斯",
+        "onboard_time": 1755602065,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40356,
+        "num": 260814,
+        "word": "零跑汽车首次实现半年度盈利",
+        "onboard_time": 1755601526,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258091,
+        "num": 258091,
+        "word": "李在明夫人被睡衣价格惊到张大嘴巴",
+        "onboard_time": 1755598166,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 533618,
+        "num": 242705,
+        "word": "迪丽热巴跟龚俊在说什么",
+        "onboard_time": 1755602486,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529042,
+        "num": 230723,
+        "word": "倪妮太敢穿了",
+        "onboard_time": 1755601704,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 482827,
+        "num": 226852,
+        "word": "W盛典 CP复活",
+        "onboard_time": 1755601827,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201973,
+        "num": 201973,
+        "word": "北京双彩虹",
+        "onboard_time": 1755601526,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207511,
+        "num": 200693,
+        "word": "北京晚霞",
+        "onboard_time": 1755603205,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474341,
+        "num": 200262,
+        "word": "虞书欣W盛典公主裙",
+        "onboard_time": 1755584842,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 449055,
+        "num": 198098,
+        "word": "明星W盛典造型图",
+        "onboard_time": 1755584242,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 413053,
+        "num": 196649,
+        "word": "刘雯开毯",
+        "onboard_time": 1755601346,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 368031,
+        "num": 194505,
+        "word": "白敬亭第一个出场",
+        "onboard_time": 1755600206,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181105,
+        "num": 193073,
+        "word": "副教授遭精神病人杀害儿子一夜秃头",
+        "onboard_time": 1755591022,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304696,
+        "num": 191348,
+        "word": "合诗雨 我不演了爱谁谁吧",
+        "onboard_time": 1755597808,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288556,
+        "num": 189189,
+        "word": "宋茜裙子",
+        "onboard_time": 1755599785,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255828,
+        "num": 187694,
+        "word": "W实景空间直播",
+        "onboard_time": 1755602006,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187304,
+        "num": 187304,
+        "word": "iPhone17e价格",
+        "onboard_time": 1755599006,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156936,
+        "num": 156936,
+        "word": "无畏契约手游直播",
+        "onboard_time": 1755602606,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227430,
+        "num": 151318,
+        "word": "安居乐烨",
+        "onboard_time": 1755603325,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132500,
+        "num": 132500,
+        "word": "钉钉被曝CEO凌晨巡查工位",
+        "onboard_time": 1755592942,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131640,
+        "num": 131640,
+        "word": "一箭7星成功发射",
+        "onboard_time": 1755599066,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60862,
+        "num": 131618,
+        "word": "俺娘就这么宣传生万物",
+        "onboard_time": 1755603026,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41390,
+        "num": 131596,
+        "word": "郑晓龙震惊甄嬛传14年了还在二创",
+        "onboard_time": 1755602486,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203339,
+        "num": 131543,
+        "word": "W盛典红毯是按首字母顺序",
+        "onboard_time": 1755603083,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201738,
+        "num": 131531,
+        "word": "W盛典 默片时代",
+        "onboard_time": 1755603386,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195826,
+        "num": 131473,
+        "word": "赵今麦的字",
+        "onboard_time": 1755595042,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194617,
+        "num": 131449,
+        "word": "战至巅峰",
+        "onboard_time": 1755603147,
+        "rank": 43,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 131439,
+        "num": 131439,
+        "word": "原神5.8",
+        "onboard_time": 1755602906,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125429,
+        "num": 125429,
+        "word": "小鹏汽车第二季度净亏损4.8亿元",
+        "onboard_time": 1755602546,
+        "rank": 45,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 121646,
+        "num": 121646,
+        "word": "中国医师节向生命守护者致敬",
+        "onboard_time": 1755601104,
+        "rank": 46,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 38433,
+        "num": 114181,
+        "word": "奔驰S级的顶流仪式感",
+        "onboard_time": 1755598947,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110291,
+        "num": 110291,
+        "word": "刀剑乱舞中文版官方回应",
+        "onboard_time": 1755602186,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110101,
+        "num": 110101,
+        "word": "没有气质别买贝雷帽",
+        "onboard_time": 1755602725,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#描绘新时代西藏发展新画卷#"
+    }
+  }
+}

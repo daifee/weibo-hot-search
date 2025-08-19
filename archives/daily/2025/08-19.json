@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755602541667,
+  "endTime": 1755603485816,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2874221,
-      "num": 710544,
+      "num": 2476561,
       "word": "W盛典红毯",
       "onboard_time": 1755597203,
       "rank": 3,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1517548,
-      "num": 534683,
+      "num": 753246,
       "word": "倪妮背布洛芬走红毯",
       "onboard_time": 1755600986,
       "rank": 7,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1486818,
-      "num": 602252,
+      "num": 653649,
       "word": "唐嫣 花神降临",
       "onboard_time": 1755593842,
       "rank": 6,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1423800,
-      "num": 506042,
+      "num": 749101,
       "word": "刘诗诗 红发郁金香",
       "onboard_time": 1755600144,
       "rank": 32,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1228678,
-      "num": 533168,
+      "num": 805063,
       "word": "闵塔鲨我们和好吧",
       "onboard_time": 1755598286,
       "rank": 7,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1171679,
-      "num": 457963,
+      "num": 723154,
       "word": "红毯没有王法 只有热巴的想法",
       "onboard_time": 1755599905,
       "rank": 26,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 824606,
-      "num": 384990,
+      "num": 722721,
       "word": "W红毯 审美高级",
       "onboard_time": 1755599546,
       "rank": 21,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 628500,
-      "num": 233050,
+      "num": 400242,
       "word": "刘浩存 翡翠塑",
       "onboard_time": 1755600805,
       "rank": 20,
@@ -355,20 +355,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 565011,
+      "num": 565011,
+      "word": "杨幂 马吉拉",
+      "onboard_time": 1755597926,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 564495,
       "num": 564495,
       "word": "男主居然是对女主一见钟情的",
       "onboard_time": 1755575122,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 559315,
-      "num": 261674,
-      "word": "杨幂 马吉拉",
-      "onboard_time": 1755597926,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 555688,
@@ -395,12 +395,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 533618,
+      "num": 242705,
+      "word": "迪丽热巴跟龚俊在说什么",
+      "onboard_time": 1755602486,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 529182,
       "num": 529182,
       "word": "赵雅芝把粉丝送的400封信签名回寄",
       "onboard_time": 1755563241,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529042,
+      "num": 230723,
+      "word": "倪妮太敢穿了",
+      "onboard_time": 1755601704,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 525099,
@@ -467,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482827,
+      "num": 226852,
+      "word": "W盛典 CP复活",
+      "onboard_time": 1755601827,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 478745,
       "num": 330465,
       "word": "做到一直爱一个人真的不难",
@@ -499,16 +523,8 @@
       "category": "舆论监督,网红"
     },
     {
-      "raw_hot": 454772,
-      "num": 188669,
-      "word": "倪妮太敢穿了",
-      "onboard_time": 1755601704,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 453697,
-      "num": 188159,
+      "num": 196649,
       "word": "刘雯开毯",
       "onboard_time": 1755601346,
       "rank": 30,
@@ -579,14 +595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389037,
-      "num": 150258,
-      "word": "W盛典 CP复活",
-      "onboard_time": 1755601827,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 383252,
       "num": 287453,
       "word": "田曦薇否认与赖伟明恋情",
@@ -609,14 +617,6 @@
       "onboard_time": 1755584421,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 370928,
-      "num": 150127,
-      "word": "迪丽热巴跟龚俊在说什么",
-      "onboard_time": 1755602486,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 364588,
@@ -803,12 +803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255828,
+      "num": 187694,
+      "word": "W实景空间直播",
+      "onboard_time": 1755602006,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 251045,
       "num": 251045,
       "word": "iPhone17e价格",
       "onboard_time": 1755599006,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 248009,
+      "num": 763302,
+      "word": "梁靖崑止步欧洲大满贯32强",
+      "onboard_time": 1755602065,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 247810,
@@ -859,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235379,
+      "num": 269755,
+      "word": "梁靖崑0比3拉森福斯",
+      "onboard_time": 1755602065,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231966,
       "num": 231966,
       "word": "债市崩了",
@@ -881,6 +905,14 @@
       "onboard_time": 1755517640,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227430,
+      "num": 151318,
+      "word": "安居乐烨",
+      "onboard_time": 1755603325,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 226734,
@@ -979,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207511,
+      "num": 200693,
+      "word": "北京晚霞",
+      "onboard_time": 1755603205,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206052,
       "num": 175519,
       "word": "接王亚飞事业运",
@@ -1011,12 +1051,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203339,
+      "num": 131543,
+      "word": "W盛典红毯是按首字母顺序",
+      "onboard_time": 1755603083,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201902,
       "num": 159456,
       "word": "李昊 太子进组",
       "onboard_time": 1755586882,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201738,
+      "num": 131531,
+      "word": "W盛典 默片时代",
+      "onboard_time": 1755603386,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201278,
@@ -1099,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194617,
+      "num": 131449,
+      "word": "战至巅峰",
+      "onboard_time": 1755603147,
+      "rank": 43,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 193815,
       "num": 193815,
       "word": "老Bin烧烤",
@@ -1153,22 +1217,6 @@
       "onboard_time": 1755582562,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188764,
-      "num": 188764,
-      "word": "梁靖崑止步欧洲大满贯32强",
-      "onboard_time": 1755602065,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 188086,
-      "num": 188086,
-      "word": "梁靖崑0比3拉森福斯",
-      "onboard_time": 1755602065,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 187300,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1755573501,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 156936,
+      "num": 156936,
+      "word": "无畏契约手游直播",
+      "onboard_time": 1755602606,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 156216,
@@ -1963,6 +2019,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 131439,
+      "num": 131439,
+      "word": "原神5.8",
+      "onboard_time": 1755602906,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "老狼也去演短剧了",
@@ -2041,6 +2105,14 @@
       "onboard_time": 1755588622,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125429,
+      "num": 125429,
+      "word": "小鹏汽车第二季度净亏损4.8亿元",
+      "onboard_time": 1755602546,
+      "rank": 45,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 124426,
@@ -2140,7 +2212,7 @@
     },
     {
       "raw_hot": 119092,
-      "num": 119092,
+      "num": 723271,
       "word": "谁在给假院士搭舞台",
       "onboard_time": 1755601947,
       "rank": 48,
@@ -2276,7 +2348,7 @@
     },
     {
       "raw_hot": 111694,
-      "num": 975024,
+      "num": 2075816,
       "word": "十四五体育强国建设成就",
       "onboard_time": 1755575662,
       "rank": 49,
@@ -2313,6 +2385,14 @@
       "onboard_time": 1755583823,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110101,
+      "num": 110101,
+      "word": "没有气质别买贝雷帽",
+      "onboard_time": 1755602725,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 109661,
@@ -2843,6 +2923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60862,
+      "num": 131618,
+      "word": "俺娘就这么宣传生万物",
+      "onboard_time": 1755603026,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59848,
       "num": 59848,
       "word": "中国人自己的老花有多美",
@@ -2988,7 +3076,7 @@
     },
     {
       "raw_hot": 43071,
-      "num": 247254,
+      "num": 260814,
       "word": "零跑汽车首次实现半年度盈利",
       "onboard_time": 1755601526,
       "rank": 17,
@@ -3017,6 +3105,14 @@
       "onboard_time": 1755601284,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41390,
+      "num": 133831,
+      "word": "郑晓龙震惊甄嬛传14年了还在二创",
+      "onboard_time": 1755602486,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 40231,
@@ -3097,14 +3193,6 @@
       "onboard_time": 1755538937,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29493,
-      "num": 133831,
-      "word": "郑晓龙震惊甄嬛传14年了还在二创",
-      "onboard_time": 1755602486,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 29146,
