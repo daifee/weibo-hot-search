@@ -1,7 +1,15 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755593317784,
+  "endTime": 1755595702096,
   "band_list": [
+    {
+      "raw_hot": 3355386,
+      "num": 667677,
+      "word": "杨幂 地母",
+      "onboard_time": 1755593903,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
     {
       "raw_hot": 2492976,
       "num": 2492976,
@@ -49,6 +57,14 @@
       "onboard_time": 1755580582,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1392734,
+      "num": 574338,
+      "word": "唐嫣 花神降临",
+      "onboard_time": 1755593842,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1240822,
@@ -99,12 +115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 925223,
+      "num": 210338,
+      "word": "钉钉被曝CEO凌晨巡查工位",
+      "onboard_time": 1755592942,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 849953,
       "num": 849953,
       "word": "被清华大学的宿舍震惊到了",
       "onboard_time": 1755564801,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 844551,
+      "num": 844551,
+      "word": "副教授遭精神病人杀害儿子一夜秃头",
+      "onboard_time": 1755591022,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 839486,
@@ -193,6 +225,14 @@
       "onboard_time": 1755587301,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 617383,
+      "num": 617383,
+      "word": "东方甄选报警",
+      "onboard_time": 1755594141,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 580647,
@@ -291,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 480453,
+      "num": 453201,
+      "word": "杨幂的第100套高定",
+      "onboard_time": 1755594683,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 478745,
       "num": 330465,
       "word": "做到一直爱一个人真的不难",
@@ -305,6 +353,14 @@
       "onboard_time": 1755572602,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 471141,
+      "num": 471141,
+      "word": "阳光玫瑰 没有葡萄味",
+      "onboard_time": 1755593303,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 461922,
@@ -331,19 +387,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412849,
+      "num": 412849,
+      "word": "个人养老金新增三种领取情形",
+      "onboard_time": 1755590483,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412819,
       "num": 311291,
       "word": "网传学生强奸虐杀猫不实",
       "onboard_time": 1755557958,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 411991,
-      "num": 411991,
-      "word": "副教授遭精神病人杀害儿子一夜秃头",
-      "onboard_time": 1755591022,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -361,6 +417,14 @@
       "onboard_time": 1755582622,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397262,
+      "num": 397262,
+      "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
+      "onboard_time": 1755590722,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 383252,
@@ -385,6 +449,14 @@
       "onboard_time": 1755584421,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 368099,
+      "num": 368099,
+      "word": "迪丽热巴大光明盘发",
+      "onboard_time": 1755595403,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 364588,
@@ -440,6 +512,14 @@
       "word": "身首离断患者已脱离呼吸机半月",
       "onboard_time": 1755570862,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303055,
+      "num": 380384,
+      "word": "续面事件面馆已被打2.1万条差评",
+      "onboard_time": 1755594203,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -507,6 +587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 277488,
+      "num": 215542,
+      "word": "虞书欣情商这一块",
+      "onboard_time": 1755594203,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269720,
       "num": 269720,
       "word": "孩子脱鞋138cm补票后家长投诉退票",
@@ -529,22 +617,6 @@
       "onboard_time": 1755564382,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252730,
-      "num": 252730,
-      "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
-      "onboard_time": 1755590722,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243883,
-      "num": 243883,
-      "word": "个人养老金新增三种领取情形",
-      "onboard_time": 1755590483,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 243564,
@@ -577,6 +649,14 @@
       "onboard_time": 1755560360,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 239066,
+      "num": 239066,
+      "word": "赵今麦的字",
+      "onboard_time": 1755595042,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 236080,
@@ -643,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214635,
+      "num": 214635,
+      "word": "林允 就喜欢假假的自己",
+      "onboard_time": 1755593423,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213518,
       "num": 161604,
       "word": "我欣赏迪丽热巴的原因",
@@ -673,14 +761,6 @@
       "onboard_time": 1755587181,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 210338,
-      "num": 210338,
-      "word": "钉钉被曝CEO凌晨巡查工位",
-      "onboard_time": 1755592942,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 208574,
@@ -841,6 +921,14 @@
       "onboard_time": 1755582562,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187300,
+      "num": 187300,
+      "word": "续面事件老板修改账号名称",
+      "onboard_time": 1755593122,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187052,
@@ -1059,19 +1147,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164152,
+      "num": 200142,
+      "word": "我国一次送上太空7颗卫星",
+      "onboard_time": 1755594862,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 163375,
       "num": 163375,
       "word": "成都女子被误诊绝症服药3月",
       "onboard_time": 1755529282,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162929,
-      "num": 162929,
-      "word": "续面事件老板修改账号名称",
-      "onboard_time": 1755593122,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1243,12 +1331,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144881,
+      "num": 144881,
+      "word": "俞敏洪回应新东方CEO被调查",
+      "onboard_time": 1755594862,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144826,
       "num": 144826,
       "word": "这才是观众想看的大女主",
       "onboard_time": 1755572661,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144139,
+      "num": 144139,
+      "word": "大学生的暑假是一场巨大的爆改",
+      "onboard_time": 1755594203,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 143884,
@@ -1267,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143529,
+      "num": 143529,
+      "word": "时代少年团反复排练",
+      "onboard_time": 1755595524,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143399,
       "num": 143399,
       "word": "特斯拉ModelYL内饰图曝光",
@@ -1280,6 +1392,14 @@
       "word": "46万买到全损车获退一赔三",
       "onboard_time": 1755563241,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142280,
+      "num": 142280,
+      "word": "像中国火箭一飞冲天",
+      "onboard_time": 1755594084,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1427,6 +1547,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 130464,
+      "num": 130464,
+      "word": "海口多家单位招聘研究生月薪3000",
+      "onboard_time": 1755595584,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "老狼也去演短剧了",
@@ -1465,6 +1593,14 @@
       "onboard_time": 1755533841,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127454,
+      "num": 379062,
+      "word": "尚公主开机通知",
+      "onboard_time": 1755595285,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 127321,
@@ -1592,6 +1728,14 @@
       "word": "科考队员说在南极睡醒后背全湿了",
       "onboard_time": 1755577163,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118189,
+      "num": 377645,
+      "word": "开面馆陪女友读研男生发文",
+      "onboard_time": 1755594084,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1931,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93320,
+      "num": 144260,
+      "word": "周雨谈王楚钦林诗栋技术特点",
+      "onboard_time": 1755595285,
+      "rank": 38,
+      "category": "体育,体育"
+    },
+    {
       "raw_hot": 93254,
       "num": 193826,
       "word": "泽连斯基这回穿正装了",
@@ -2219,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62684,
+      "num": 144140,
+      "word": "网友拍到蘑菇云",
+      "onboard_time": 1755595463,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62676,
       "num": 191831,
       "word": "奥迪E5开启预定",
@@ -2339,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43480,
+      "num": 138215,
+      "word": "官方通报男子疑遭冒领多个国家补贴",
+      "onboard_time": 1755594084,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 43454,
       "num": 177140,
       "word": "续面饭店门前恢复平静目击者发声",
@@ -2377,6 +2545,14 @@
       "onboard_time": 1755572480,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37937,
+      "num": 216134,
+      "word": "假院士阮某平被刑事拘留",
+      "onboard_time": 1755595463,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37123,
