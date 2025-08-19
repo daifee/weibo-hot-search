@@ -1,0 +1,410 @@
+{
+  "runTime": 1755592454309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2141700,
+        "num": 2141700,
+        "word": "迪丽热巴605天没走红毯了",
+        "onboard_time": 1755589643,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1171719,
+        "num": 1171719,
+        "word": "醉驾送早产妻子就医被判无罪",
+        "onboard_time": 1755586102,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20126,
+        "num": 1025821,
+        "word": "今天是第8个中国医师节",
+        "onboard_time": 1755564983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 917261,
+        "num": 917261,
+        "word": "续面事件面馆关门附近商户发声",
+        "onboard_time": 1755587301,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 829720,
+        "num": 829720,
+        "word": "明星W盛典造型图",
+        "onboard_time": 1755584242,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 456853,
+        "num": 456853,
+        "word": "续面事件顾客再发声",
+        "onboard_time": 1755587542,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603855,
+        "num": 421589,
+        "word": "刘浩存绿色镂空长裙",
+        "onboard_time": 1755587301,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 530076,
+        "num": 408227,
+        "word": "向往的生活开录",
+        "onboard_time": 1755588262,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261293,
+        "num": 261293,
+        "word": "建议大家别吃自助旋转小火锅",
+        "onboard_time": 1755564682,
+        "rank": 8,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 222635,
+        "num": 222635,
+        "word": "副教授遭精神病人杀害儿子一夜秃头",
+        "onboard_time": 1755591022,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644676,
+        "num": 221929,
+        "word": "张元英汗毛",
+        "onboard_time": 1755576683,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461342,
+        "num": 221340,
+        "word": "剧宣 婚闹",
+        "onboard_time": 1755576203,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444505,
+        "num": 219486,
+        "word": "89平米带了7个阳台",
+        "onboard_time": 1755587542,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 397301,
+        "num": 218110,
+        "word": "做到一直爱一个人真的不难",
+        "onboard_time": 1755585622,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381773,
+        "num": 217942,
+        "word": "虞书欣W盛典公主裙",
+        "onboard_time": 1755584842,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 311224,
+        "num": 216172,
+        "word": "于正 我和林心如和好了",
+        "onboard_time": 1755576322,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215608,
+        "num": 215608,
+        "word": "个人养老金新增三种领取情形",
+        "onboard_time": 1755590483,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44203,
+        "num": 213665,
+        "word": "陈可辛每一帧都是S级的",
+        "onboard_time": 1755589821,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212181,
+        "num": 212181,
+        "word": "Baolan谈Elk亮小丑",
+        "onboard_time": 1755587181,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184556,
+        "num": 184556,
+        "word": "爷爷奶奶聘了一只小猫回家",
+        "onboard_time": 1755584421,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305128,
+        "num": 184043,
+        "word": "赵今麦眼妆",
+        "onboard_time": 1755585382,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265473,
+        "num": 183821,
+        "word": "赵丽颖黄晓明新剧全员演技派",
+        "onboard_time": 1755584783,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229282,
+        "num": 183594,
+        "word": "虞书欣帮庞博解围",
+        "onboard_time": 1755588923,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182892,
+        "num": 182892,
+        "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
+        "onboard_time": 1755590722,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225556,
+        "num": 181227,
+        "word": "我们的明天 翻唱",
+        "onboard_time": 1755579023,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223511,
+        "num": 178519,
+        "word": "田曦薇 王安宇就是最破碎的人",
+        "onboard_time": 1755589522,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211010,
+        "num": 176197,
+        "word": "金钟国方回应老婆身份",
+        "onboard_time": 1755587601,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78699,
+        "num": 175290,
+        "word": "外交部回应美乌总统会晤",
+        "onboard_time": 1755592224,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173580,
+        "num": 173580,
+        "word": "当地回应面店老板阴阳顾客是七匹狼",
+        "onboard_time": 1755588684,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145478,
+        "num": 169681,
+        "word": "方头暗道歉",
+        "onboard_time": 1755588802,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192067,
+        "num": 169632,
+        "word": "卓沅后援会",
+        "onboard_time": 1755589643,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169417,
+        "num": 169417,
+        "word": "阚清子叫刘美含绝望的直女",
+        "onboard_time": 1755591082,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108358,
+        "num": 165090,
+        "word": "雷雨天用手机打电话会不会引雷",
+        "onboard_time": 1755586702,
+        "rank": 32,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 163064,
+        "num": 163064,
+        "word": "张维伊叫小酒窝窝子",
+        "onboard_time": 1755580522,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152576,
+        "num": 152576,
+        "word": "中500w彩票冷知识",
+        "onboard_time": 1755590603,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151489,
+        "num": 151489,
+        "word": "王晓晨给俞灏明拍照",
+        "onboard_time": 1755591383,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115044,
+        "num": 150810,
+        "word": "7万亿存款资金蓄势待发买A股",
+        "onboard_time": 1755589761,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112626,
+        "num": 149781,
+        "word": "阳光玫瑰跌到9.9元消费者都嫌贵",
+        "onboard_time": 1755578664,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49133,
+        "num": 149045,
+        "word": "李连杰有三级残疾证",
+        "onboard_time": 1755592342,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109158,
+        "num": 147260,
+        "word": "上海一主理人新店开业当天即闭店",
+        "onboard_time": 1755574221,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152518,
+        "num": 146829,
+        "word": "陈赫给粉丝报销鹿晗演唱会门票",
+        "onboard_time": 1755590722,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145726,
+        "num": 145726,
+        "word": "李昊 太子进组",
+        "onboard_time": 1755586882,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104577,
+        "num": 145454,
+        "word": "女子举报中科院一员工出轨致其流产",
+        "onboard_time": 1755589881,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56730,
+        "num": 144472,
+        "word": "棉密码卫生巾仍在售卖",
+        "onboard_time": 1755590423,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90325,
+        "num": 144165,
+        "word": "血管堵了手脚会有4种表现",
+        "onboard_time": 1755576082,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89948,
+        "num": 143345,
+        "word": "这五个心理问题都和童年创伤有关",
+        "onboard_time": 1755589522,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80302,
+        "num": 142388,
+        "word": "印度人在华旅游乱扔垃圾",
+        "onboard_time": 1755582622,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78120,
+        "num": 142136,
+        "word": "京东已为15万全职骑手缴纳五险一金",
+        "onboard_time": 1755588323,
+        "rank": 47,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 76453,
+        "num": 141476,
+        "word": "清融比赛日vlog",
+        "onboard_time": 1755591983,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70861,
+        "num": 140430,
+        "word": "男子潜入民宅麻醉女子抽血获刑2年",
+        "onboard_time": 1755590183,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一种精神叫不屈#"
+    }
+  }
+}

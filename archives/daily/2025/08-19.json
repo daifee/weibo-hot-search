@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755589180692,
+  "endTime": 1755592454309,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -9,6 +9,14 @@
       "onboard_time": 1755564682,
       "rank": 0,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 2141700,
+      "num": 2141700,
+      "word": "迪丽热巴605天没走红毯了",
+      "onboard_time": 1755589643,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1801503,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1171719,
+      "num": 1171719,
+      "word": "醉驾送早产妻子就医被判无罪",
+      "onboard_time": 1755586102,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1129324,
       "num": 1180691,
       "word": "主刀医生回应身首离断患者被救回",
@@ -72,6 +88,14 @@
       "word": "官方通报小米车主逆行超速致4死",
       "onboard_time": 1755564983,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 917261,
+      "num": 917261,
+      "word": "续面事件面馆关门附近商户发声",
+      "onboard_time": 1755587301,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -139,14 +163,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 733742,
-      "num": 733742,
-      "word": "醉驾送早产妻子就医被判无罪",
-      "onboard_time": 1755586102,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 713198,
       "num": 713198,
       "word": "光遇",
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 603855,
+      "num": 421589,
+      "word": "刘浩存绿色镂空长裙",
+      "onboard_time": 1755587301,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 580647,
       "num": 423342,
       "word": "网传镖人女主换陈丽君补拍",
@@ -193,6 +217,14 @@
       "onboard_time": 1755584783,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 530076,
+      "num": 408227,
+      "word": "向往的生活开录",
+      "onboard_time": 1755588262,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 529182,
@@ -275,20 +307,28 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 456853,
+      "num": 456853,
+      "word": "续面事件顾客再发声",
+      "onboard_time": 1755587542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 444505,
+      "num": 219486,
+      "word": "89平米带了7个阳台",
+      "onboard_time": 1755587542,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 443539,
       "num": 390403,
       "word": "那英去前少说话去后说少了",
       "onboard_time": 1755575782,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 435140,
-      "num": 245606,
-      "word": "刘浩存绿色镂空长裙",
-      "onboard_time": 1755587301,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 412819,
@@ -347,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359935,
-      "num": 359935,
-      "word": "续面事件顾客再发声",
-      "onboard_time": 1755587542,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 350719,
       "num": 350719,
       "word": "时代少年团上海天幕测试",
@@ -369,14 +401,6 @@
       "onboard_time": 1755531142,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333537,
-      "num": 230962,
-      "word": "向往的生活开录",
-      "onboard_time": 1755588262,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 321210,
@@ -547,6 +571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 229282,
+      "num": 208140,
+      "word": "虞书欣帮庞博解围",
+      "onboard_time": 1755588923,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227536,
       "num": 174011,
       "word": "乃万发长文倾诉委屈",
@@ -563,6 +595,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223511,
+      "num": 178519,
+      "word": "田曦薇 王安宇就是最破碎的人",
+      "onboard_time": 1755589522,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222635,
+      "num": 222635,
+      "word": "副教授遭精神病人杀害儿子一夜秃头",
+      "onboard_time": 1755591022,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221734,
       "num": 221734,
       "word": "京东已为15万全职骑手缴纳五险一金",
@@ -577,6 +625,14 @@
       "onboard_time": 1755575122,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215608,
+      "num": 215608,
+      "word": "个人养老金新增三种领取情形",
+      "onboard_time": 1755590483,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213518,
@@ -603,28 +659,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212181,
+      "num": 245820,
+      "word": "Baolan谈Elk亮小丑",
+      "onboard_time": 1755587181,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208574,
       "num": 208574,
       "word": "男子与儿认亲2年后又一儿子找来",
       "onboard_time": 1755520402,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208140,
-      "num": 208140,
-      "word": "虞书欣帮庞博解围",
-      "onboard_time": 1755588923,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 205793,
-      "num": 245820,
-      "word": "Baolan谈Elk亮小丑",
-      "onboard_time": 1755587181,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 204275,
@@ -723,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192067,
+      "num": 169632,
+      "word": "卓沅后援会",
+      "onboard_time": 1755589643,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191819,
       "num": 191819,
       "word": "张新成 我是个比较拧巴的人",
@@ -763,8 +819,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182892,
+      "num": 182892,
+      "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
+      "onboard_time": 1755590722,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182756,
-      "num": 667862,
+      "num": 1025821,
       "word": "今天是第8个中国医师节",
       "onboard_time": 1755564983,
       "rank": 12,
@@ -785,14 +849,6 @@
       "onboard_time": 1755568282,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178792,
-      "num": 178792,
-      "word": "续面事件面馆关门附近商户发声",
-      "onboard_time": 1755587301,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178320,
@@ -875,12 +931,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173580,
+      "num": 278222,
+      "word": "当地回应面店老板阴阳顾客是七匹狼",
+      "onboard_time": 1755588684,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171038,
       "num": 155511,
       "word": "心动的信号8",
       "onboard_time": 1755580883,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169417,
+      "num": 169417,
+      "word": "阚清子叫刘美含绝望的直女",
+      "onboard_time": 1755591082,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 167290,
@@ -1011,6 +1083,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152576,
+      "num": 152576,
+      "word": "中500w彩票冷知识",
+      "onboard_time": 1755590603,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 152518,
+      "num": 146829,
+      "word": "陈赫给粉丝报销鹿晗演唱会门票",
+      "onboard_time": 1755590722,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 151489,
+      "num": 151489,
+      "word": "王晓晨给俞灏明拍照",
+      "onboard_time": 1755591383,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150447,
       "num": 150447,
       "word": "陈哲远给李沁剥喂荔枝",
@@ -1041,6 +1137,14 @@
       "onboard_time": 1755567021,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 145478,
+      "num": 169681,
+      "word": "方头暗道歉",
+      "onboard_time": 1755588802,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 145464,
@@ -1217,14 +1321,6 @@
       "onboard_time": 1755588262,
       "rank": 37,
       "category": "互联网,汽车"
-    },
-    {
-      "raw_hot": 133745,
-      "num": 133745,
-      "word": "89平米带了7个阳台",
-      "onboard_time": 1755587542,
-      "rank": 44,
-      "category": "休闲"
     },
     {
       "raw_hot": 133728,
@@ -1451,6 +1547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 115044,
+      "num": 150810,
+      "word": "7万亿存款资金蓄势待发买A股",
+      "onboard_time": 1755589761,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114667,
       "num": 153444,
       "word": "白宫发特朗普与普京通话照",
@@ -1635,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104577,
+      "num": 145454,
+      "word": "女子举报中科院一员工出轨致其流产",
+      "onboard_time": 1755589881,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104222,
       "num": 104222,
       "word": "库里也是有无人机应援了",
@@ -1771,6 +1883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 89948,
+      "num": 143345,
+      "word": "这五个心理问题都和童年创伤有关",
+      "onboard_time": 1755589522,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89931,
       "num": 89931,
       "word": "ELK谈BLG被翻盘",
@@ -1859,6 +1979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78699,
+      "num": 175290,
+      "word": "外交部回应美乌总统会晤",
+      "onboard_time": 1755592224,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78087,
       "num": 243911,
       "word": "内蒙古鄂尔多斯暴雨致3死3失联",
@@ -1899,6 +2027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76453,
+      "num": 141476,
+      "word": "清融比赛日vlog",
+      "onboard_time": 1755591983,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75155,
       "num": 75155,
       "word": "三岁的猫坐了两年牢",
@@ -1915,20 +2051,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73317,
-      "num": 278222,
-      "word": "当地回应面店老板阴阳顾客是七匹狼",
-      "onboard_time": 1755588684,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72635,
       "num": 156545,
       "word": "内娱小花文房四宝",
       "onboard_time": 1755578482,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70861,
+      "num": 140430,
+      "word": "男子潜入民宅麻醉女子抽血获刑2年",
+      "onboard_time": 1755590183,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68415,
@@ -2035,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56730,
+      "num": 144472,
+      "word": "棉密码卫生巾仍在售卖",
+      "onboard_time": 1755590423,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53108,
       "num": 842195,
       "word": "网警揭秘中医堂违规广告和侵公犯罪的关系",
@@ -2067,12 +2211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49133,
+      "num": 149045,
+      "word": "李连杰有三级残疾证",
+      "onboard_time": 1755592342,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44754,
       "num": 99719,
       "word": "丁程鑫发际线上移一厘米会破防",
       "onboard_time": 1755581782,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44203,
+      "num": 213665,
+      "word": "陈可辛每一帧都是S级的",
+      "onboard_time": 1755589821,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 43454,

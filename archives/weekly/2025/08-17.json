@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755589180692,
+  "endTime": 1755592454309,
   "band_list": [
     {
       "raw_hot": 4938738,
@@ -41,6 +41,14 @@
       "onboard_time": 1755564682,
       "rank": 0,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 2141700,
+      "num": 2141700,
+      "word": "迪丽热巴605天没走红毯了",
+      "onboard_time": 1755589643,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2033517,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1171719,
+      "num": 1171719,
+      "word": "醉驾送早产妻子就医被判无罪",
+      "onboard_time": 1755586102,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1155488,
       "num": 1184878,
       "word": "微信转账记得加一个动作",
@@ -457,6 +473,14 @@
       "onboard_time": 1755420922,
       "rank": 0,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 917261,
+      "num": 917261,
+      "word": "续面事件面馆关门附近商户发声",
+      "onboard_time": 1755587301,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 914588,
@@ -657,14 +681,6 @@
       "onboard_time": 1755496281,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 733742,
-      "num": 733742,
-      "word": "醉驾送早产妻子就医被判无罪",
-      "onboard_time": 1755586102,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 724129,
@@ -939,6 +955,14 @@
       "category": "民生新闻,读书作家"
     },
     {
+      "raw_hot": 603855,
+      "num": 421589,
+      "word": "刘浩存绿色镂空长裙",
+      "onboard_time": 1755587301,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 593639,
       "num": 423886,
       "word": "RM成员不知道金钟国结婚",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1755494902,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 530076,
+      "num": 408227,
+      "word": "向往的生活开录",
+      "onboard_time": 1755588262,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 529182,
@@ -1291,6 +1323,14 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 456853,
+      "num": 456853,
+      "word": "续面事件顾客再发声",
+      "onboard_time": 1755587542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455850,
       "num": 455850,
       "word": "印度女留学生吐槽韩餐肉太多",
@@ -1355,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444505,
+      "num": 219486,
+      "word": "89平米带了7个阳台",
+      "onboard_time": 1755587542,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 443539,
       "num": 390403,
       "word": "那英去前少说话去后说少了",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1755433343,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 435140,
-      "num": 245606,
-      "word": "刘浩存绿色镂空长裙",
-      "onboard_time": 1755587301,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 433651,
@@ -1603,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 359935,
-      "num": 359935,
-      "word": "续面事件顾客再发声",
-      "onboard_time": 1755587542,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358646,
       "num": 353566,
       "word": "微信号真的会透露很多隐私",
@@ -1737,14 +1769,6 @@
       "onboard_time": 1755431903,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 333537,
-      "num": 230962,
-      "word": "向往的生活开录",
-      "onboard_time": 1755588262,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 332269,
@@ -2515,6 +2539,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 229282,
+      "num": 208140,
+      "word": "虞书欣帮庞博解围",
+      "onboard_time": 1755588923,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228900,
       "num": 144141,
       "word": "子夜归直播",
@@ -2571,6 +2603,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 223511,
+      "num": 178519,
+      "word": "田曦薇 王安宇就是最破碎的人",
+      "onboard_time": 1755589522,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223188,
       "num": 192281,
       "word": "封四太坏了",
@@ -2585,6 +2625,14 @@
       "onboard_time": 1755436885,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222635,
+      "num": 222635,
+      "word": "副教授遭精神病人杀害儿子一夜秃头",
+      "onboard_time": 1755591022,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221734,
@@ -2667,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215608,
+      "num": 215608,
+      "word": "个人养老金新增三种领取情形",
+      "onboard_time": 1755590483,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215278,
       "num": 215278,
       "word": "女装退货率",
@@ -2697,6 +2753,14 @@
       "onboard_time": 1755575662,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212181,
+      "num": 245820,
+      "word": "Baolan谈Elk亮小丑",
+      "onboard_time": 1755587181,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 211648,
@@ -2763,14 +2827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208140,
-      "num": 208140,
-      "word": "虞书欣帮庞博解围",
-      "onboard_time": 1755588923,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207200,
       "num": 207200,
       "word": "黄子弘凡合肥演唱会",
@@ -2809,14 +2865,6 @@
       "onboard_time": 1755515720,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205793,
-      "num": 245820,
-      "word": "Baolan谈Elk亮小丑",
-      "onboard_time": 1755587181,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 204565,
@@ -3219,6 +3267,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 192067,
+      "num": 169632,
+      "word": "卓沅后援会",
+      "onboard_time": 1755589643,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191819,
       "num": 191819,
       "word": "张新成 我是个比较拧巴的人",
@@ -3451,6 +3507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182892,
+      "num": 182892,
+      "word": "哥哥以妹妹已出嫁为由独吞80万遗产",
+      "onboard_time": 1755590722,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182851,
       "num": 182851,
       "word": "喜人奇妙夜cos含金量",
@@ -3460,7 +3524,7 @@
     },
     {
       "raw_hot": 182756,
-      "num": 667862,
+      "num": 1025821,
       "word": "今天是第8个中国医师节",
       "onboard_time": 1755564983,
       "rank": 12,
@@ -3528,14 +3592,6 @@
       "word": "胖东来招保洁要求25岁以下本科学历",
       "onboard_time": 1755500182,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178792,
-      "num": 178792,
-      "word": "续面事件面馆关门附近商户发声",
-      "onboard_time": 1755587301,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3795,6 +3851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173580,
+      "num": 278222,
+      "word": "当地回应面店老板阴阳顾客是七匹狼",
+      "onboard_time": 1755588684,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173475,
       "num": 138679,
       "word": "贺峻霖分享一次小作业",
@@ -3913,6 +3977,14 @@
       "onboard_time": 1755489443,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169417,
+      "num": 169417,
+      "word": "阚清子叫刘美含绝望的直女",
+      "onboard_time": 1755591082,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 169302,
@@ -4531,6 +4603,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152576,
+      "num": 152576,
+      "word": "中500w彩票冷知识",
+      "onboard_time": 1755590603,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 152518,
+      "num": 146829,
+      "word": "陈赫给粉丝报销鹿晗演唱会门票",
+      "onboard_time": 1755590722,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152345,
       "num": 152345,
       "word": "徐艺真自己当老板了",
@@ -4569,6 +4657,14 @@
       "onboard_time": 1755399382,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151489,
+      "num": 151489,
+      "word": "王晓晨给俞灏明拍照",
+      "onboard_time": 1755591383,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 151070,
@@ -4873,6 +4969,14 @@
       "onboard_time": 1755497903,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145478,
+      "num": 169681,
+      "word": "方头暗道歉",
+      "onboard_time": 1755588802,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 145464,
@@ -5529,14 +5633,6 @@
       "onboard_time": 1755489503,
       "rank": 39,
       "category": "运动健身,休闲"
-    },
-    {
-      "raw_hot": 133745,
-      "num": 133745,
-      "word": "89平米带了7个阳台",
-      "onboard_time": 1755587542,
-      "rank": 44,
-      "category": "休闲"
     },
     {
       "raw_hot": 133728,
@@ -6619,6 +6715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115044,
+      "num": 150810,
+      "word": "7万亿存款资金蓄势待发买A股",
+      "onboard_time": 1755589761,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114821,
       "num": 114821,
       "word": "俄梁赞州工厂爆炸已致20死134伤",
@@ -7249,6 +7353,14 @@
       "onboard_time": 1755482602,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104577,
+      "num": 145454,
+      "word": "女子举报中科院一员工出轨致其流产",
+      "onboard_time": 1755589881,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104482,
@@ -7939,6 +8051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89948,
+      "num": 143345,
+      "word": "这五个心理问题都和童年创伤有关",
+      "onboard_time": 1755589522,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89931,
       "num": 89931,
       "word": "ELK谈BLG被翻盘",
@@ -8275,6 +8395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78699,
+      "num": 175290,
+      "word": "外交部回应美乌总统会晤",
+      "onboard_time": 1755592224,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78546,
       "num": 119719,
       "word": "TheShy与Rookie的羁绊",
@@ -8355,6 +8483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76453,
+      "num": 141476,
+      "word": "清融比赛日vlog",
+      "onboard_time": 1755591983,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76434,
       "num": 124245,
       "word": "范曾持股公司近1个月直播收入超百万",
@@ -8411,14 +8547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73317,
-      "num": 278222,
-      "word": "当地回应面店老板阴阳顾客是七匹狼",
-      "onboard_time": 1755588684,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72635,
       "num": 156545,
       "word": "内娱小花文房四宝",
@@ -8465,6 +8593,14 @@
       "onboard_time": 1755362481,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70861,
+      "num": 140430,
+      "word": "男子潜入民宅麻醉女子抽血获刑2年",
+      "onboard_time": 1755590183,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70739,
@@ -8771,6 +8907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56730,
+      "num": 144472,
+      "word": "棉密码卫生巾仍在售卖",
+      "onboard_time": 1755590423,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56588,
       "num": 154292,
       "word": "陈飞宇贵公子走进泰兰德",
@@ -8899,6 +9043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49133,
+      "num": 149045,
+      "word": "李连杰有三级残疾证",
+      "onboard_time": 1755592342,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48643,
       "num": 274245,
       "word": "TOP登陆少年溢出满屏青春感",
@@ -9009,6 +9161,14 @@
       "onboard_time": 1755526824,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44203,
+      "num": 213665,
+      "word": "陈可辛每一帧都是S级的",
+      "onboard_time": 1755589821,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 43454,
