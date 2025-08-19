@@ -1,6 +1,6 @@
 {
   "startTime": 1755534920567,
-  "endTime": 1755585510051,
+  "endTime": 1755586307739,
   "band_list": [
     {
       "raw_hot": 2204793,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 817813,
+      "num": 1130850,
+      "word": "明星W盛典造型图",
+      "onboard_time": 1755584242,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 804638,
       "num": 804638,
       "word": "上海一主理人新店开业当天即闭店",
@@ -153,6 +161,14 @@
       "onboard_time": 1755575122,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 533928,
+      "num": 277610,
+      "word": "虞书欣W盛典公主裙",
+      "onboard_time": 1755584842,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 529182,
@@ -235,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433070,
-      "num": 262911,
-      "word": "明星W盛典造型图",
-      "onboard_time": 1755584242,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 412819,
       "num": 311291,
       "word": "网传学生强奸虐杀猫不实",
@@ -265,6 +273,14 @@
       "onboard_time": 1755582622,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 386890,
+      "num": 157579,
+      "word": "赵今麦眼妆",
+      "onboard_time": 1755585382,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 383252,
@@ -307,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326357,
+      "num": 226266,
+      "word": "赵丽颖黄晓明新剧全员演技派",
+      "onboard_time": 1755584783,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321210,
       "num": 409493,
       "word": "三伏天正式结束",
@@ -320,6 +344,14 @@
       "word": "背娃送外卖妈妈称不再嫁人不合法",
       "onboard_time": 1755563302,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308579,
+      "num": 229227,
+      "word": "印度人在华旅游乱扔垃圾",
+      "onboard_time": 1755582622,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -403,22 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268736,
-      "num": 226266,
-      "word": "赵丽颖黄晓明新剧全员演技派",
-      "onboard_time": 1755584783,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 267111,
-      "num": 223946,
-      "word": "虞书欣W盛典公主裙",
-      "onboard_time": 1755584842,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 263290,
       "num": 263290,
       "word": "王楚钦恢复8个积分",
@@ -473,14 +489,6 @@
       "onboard_time": 1755527664,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 229227,
-      "num": 229227,
-      "word": "印度人在华旅游乱扔垃圾",
-      "onboard_time": 1755582622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227536,
@@ -625,6 +633,14 @@
       "onboard_time": 1755582562,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187052,
+      "num": 260999,
+      "word": "孙颖莎8年前的采访",
+      "onboard_time": 1755585141,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 186347,
@@ -803,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157579,
-      "num": 157579,
-      "word": "赵今麦眼妆",
-      "onboard_time": 1755585382,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 157266,
       "num": 157266,
       "word": "9月1日开学是星期一",
@@ -833,14 +841,6 @@
       "onboard_time": 1755581181,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154285,
-      "num": 260999,
-      "word": "孙颖莎8年前的采访",
-      "onboard_time": 1755585141,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 153673,
@@ -995,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137404,
+      "num": 137404,
+      "word": "爷爷奶奶聘了一只小猫回家",
+      "onboard_time": 1755584421,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137335,
       "num": 137335,
       "word": "炸鱼薯条 朴彩英吃了也沉默",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1755580582,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135158,
+      "num": 135158,
+      "word": "做到一直爱一个人真的不难",
+      "onboard_time": 1755585622,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 135023,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1755573501,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129589,
+      "num": 137394,
+      "word": "醉驾送早产妻子就医被判无罪",
+      "onboard_time": 1755586102,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129355,
@@ -1163,20 +1187,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 120722,
-      "num": 120722,
+      "raw_hot": 120877,
+      "num": 120877,
       "word": "欧豪演技",
       "onboard_time": 1755583702,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118740,
-      "num": 122625,
-      "word": "爷爷奶奶聘了一只小猫回家",
-      "onboard_time": 1755584421,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 118346,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1755569360,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117843,
+      "num": 117843,
+      "word": "易烊千玺礐嶨北京见",
+      "onboard_time": 1755585802,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 117698,
@@ -1243,12 +1267,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112908,
+      "num": 137034,
+      "word": "厄敌马背上的骑士王储",
+      "onboard_time": 1755585982,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112849,
       "num": 112849,
       "word": "李沁盘发插花",
       "onboard_time": 1755579981,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111965,
+      "num": 111965,
+      "word": "余宇涵看到库里了吗",
+      "onboard_time": 1755586222,
+      "rank": 45,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 111780,
@@ -1315,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108930,
+      "num": 137101,
+      "word": "张萌粉色泳装",
+      "onboard_time": 1755584542,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107593,
       "num": 107593,
       "word": "辛巴第5次宣布退网",
@@ -1379,6 +1427,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102889,
+      "num": 102889,
+      "word": "证监会老处长家里抄出数亿元现金",
+      "onboard_time": 1755585382,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102413,
+      "num": 117994,
+      "word": "美乌欧领导人白宫会晤",
+      "onboard_time": 1755582502,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 102084,
+      "num": 102084,
+      "word": "恋与深空获科隆展最佳手游提名",
+      "onboard_time": 1755585682,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101481,
       "num": 102599,
       "word": "时团演唱会线上蹦迪倒计时",
@@ -1395,8 +1467,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99692,
+      "num": 269298,
+      "word": "商场回应顾客冒高温排长队晕倒",
+      "onboard_time": 1755584842,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98671,
-      "num": 98671,
+      "num": 135410,
       "word": "白宫发特朗普与普京通话照",
       "onboard_time": 1755585321,
       "rank": 49,
@@ -1755,14 +1835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46431,
-      "num": 269298,
-      "word": "商场回应顾客冒高温排长队晕倒",
-      "onboard_time": 1755584842,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44754,
       "num": 99719,
       "word": "丁程鑫发际线上移一厘米会破防",
@@ -1819,6 +1891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 33693,
+      "num": 155258,
+      "word": "泽连斯基特朗普记者会全程视频",
+      "onboard_time": 1755585202,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29569,
       "num": 38071,
       "word": "2025暑期最热女性角色",
@@ -1841,14 +1921,6 @@
       "onboard_time": 1755539597,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28282,
-      "num": 155258,
-      "word": "泽连斯基特朗普记者会全程视频",
-      "onboard_time": 1755585202,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26721,
