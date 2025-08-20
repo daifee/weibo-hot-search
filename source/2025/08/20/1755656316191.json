@@ -1,0 +1,410 @@
+{
+  "runTime": 1755656316191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 981456,
+        "num": 1157033,
+        "word": "黑神话",
+        "onboard_time": 1755636554,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 681155,
+        "num": 681155,
+        "word": "当间谍线人后怕暴露辞职考公",
+        "onboard_time": 1755649943,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21469,
+        "num": 668352,
+        "word": "网警护航新学期筑牢网络安全门",
+        "onboard_time": 1755650602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 824855,
+        "num": 665091,
+        "word": "网友爸爸给迪丽热巴当司机",
+        "onboard_time": 1755646099,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660050,
+        "num": 660050,
+        "word": "南京10元手冲咖啡阿姨现状",
+        "onboard_time": 1755653361,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 560700,
+        "num": 560700,
+        "word": "九三阅兵准备工作答记者问",
+        "onboard_time": 1755645739,
+        "rank": 5,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 392362,
+        "num": 392362,
+        "word": "18只猫成了海鲜摊的掌柜",
+        "onboard_time": 1755650843,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333929,
+        "num": 333929,
+        "word": "三亚海事局回应男子海上漂流6天",
+        "onboard_time": 1755653782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289526,
+        "num": 289526,
+        "word": "迪丽热巴 青涩女大",
+        "onboard_time": 1755654980,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208787,
+        "num": 281254,
+        "word": "九三阅兵准备工作",
+        "onboard_time": 1755655581,
+        "rank": 9,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 1467211,
+        "num": 273420,
+        "word": "黄杨钿甜风波后首露面",
+        "onboard_time": 1755655340,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 721404,
+        "num": 266656,
+        "word": "毛晓彤方否认与陈晓恋情",
+        "onboard_time": 1755615444,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559052,
+        "num": 258687,
+        "word": "闲置太久的鞋子不要再穿了",
+        "onboard_time": 1755647421,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428027,
+        "num": 252256,
+        "word": "男子海上漂流6天瘦成皮包骨",
+        "onboard_time": 1755649521,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244031,
+        "num": 244031,
+        "word": "王晶称很多明星爆火都是资本做局",
+        "onboard_time": 1755629296,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235979,
+        "num": 235979,
+        "word": "男子宿舍遇害留下2未成年儿女",
+        "onboard_time": 1755648922,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224354,
+        "num": 224354,
+        "word": "W盛典群星合影",
+        "onboard_time": 1755646519,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218602,
+        "num": 218602,
+        "word": "蓝盈莹晒银子全家福",
+        "onboard_time": 1755648743,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208189,
+        "num": 208189,
+        "word": "张雨绮倪妮一桌就你俩最吵",
+        "onboard_time": 1755652701,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78533,
+        "num": 207571,
+        "word": "阅兵演练看一次震撼一次",
+        "onboard_time": 1755655522,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243947,
+        "num": 207175,
+        "word": "女子与大13岁男友恋爱染3种高危HPV",
+        "onboard_time": 1755653841,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236334,
+        "num": 206805,
+        "word": "男子在离婚冷静期毒杀一双儿女",
+        "onboard_time": 1755613526,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236201,
+        "num": 206099,
+        "word": "王晶说追星是很愚蠢的行为",
+        "onboard_time": 1755653001,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205588,
+        "num": 205588,
+        "word": "杨超越700度近视",
+        "onboard_time": 1755619702,
+        "rank": 23,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 196407,
+        "num": 196407,
+        "word": "宋佳演我嗑井柏然刘雯",
+        "onboard_time": 1755645319,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192734,
+        "num": 192734,
+        "word": "女生在公司用微波炉加热速冻饺子",
+        "onboard_time": 1755616465,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189434,
+        "num": 189434,
+        "word": "检验睡没睡够的金标准",
+        "onboard_time": 1755645558,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187837,
+        "num": 187837,
+        "word": "孙俪喊杨幂绣绣",
+        "onboard_time": 1755645199,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185820,
+        "num": 185820,
+        "word": "养宠物的意义具象化了",
+        "onboard_time": 1755656000,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171419,
+        "num": 185469,
+        "word": "刘诗诗去陪李庚希",
+        "onboard_time": 1755654022,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292249,
+        "num": 185427,
+        "word": "胖东来的切西瓜手法",
+        "onboard_time": 1755655462,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185201,
+        "num": 185201,
+        "word": "一轮游已成为国乒男队常态",
+        "onboard_time": 1755618742,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146912,
+        "num": 146912,
+        "word": "百团大战爆发85周年",
+        "onboard_time": 1755649402,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138914,
+        "num": 138914,
+        "word": "泡泡玛特新品没卖已被炒到800元",
+        "onboard_time": 1755616584,
+        "rank": 33,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 132543,
+        "num": 132543,
+        "word": "杨幂皱眉撒娇",
+        "onboard_time": 1755655819,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131801,
+        "num": 131801,
+        "word": "冯骥杨奇谈黑神话钟馗",
+        "onboard_time": 1755645379,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128827,
+        "num": 128827,
+        "word": "19岁男子因借宿被拒杀人后煮面吃",
+        "onboard_time": 1755653422,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126615,
+        "num": 126615,
+        "word": "三伏天结束了又好像没结束",
+        "onboard_time": 1755616885,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117394,
+        "num": 117394,
+        "word": "梁靖崑输的对手世排103",
+        "onboard_time": 1755654560,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17327,
+        "num": 116894,
+        "word": "大牙谈离婚后心情",
+        "onboard_time": 1755655522,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116701,
+        "num": 116701,
+        "word": "iPhone无痛清理内存的方法",
+        "onboard_time": 1755654500,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115462,
+        "num": 115462,
+        "word": "黑神话官号更名",
+        "onboard_time": 1755646760,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114671,
+        "num": 114671,
+        "word": "还有2周就阅兵了",
+        "onboard_time": 1755654980,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111785,
+        "num": 111785,
+        "word": "百团大战是轰向日军的一道惊雷",
+        "onboard_time": 1755651142,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110547,
+        "num": 110547,
+        "word": "胡先煦方律师声明",
+        "onboard_time": 1755616164,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106161,
+        "num": 106161,
+        "word": "26岁男子驾车避让电动车致6伤",
+        "onboard_time": 1755653782,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 104667,
+        "num": 104667,
+        "word": "12306回应建议设置带娃车厢",
+        "onboard_time": 1755655882,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104271,
+        "num": 104271,
+        "word": "中国大姨英国开店怒怼差评",
+        "onboard_time": 1755656000,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100854,
+        "num": 100854,
+        "word": "环球影城诬告8岁男孩女子道歉",
+        "onboard_time": 1755654560,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100282,
+        "num": 100282,
+        "word": "人类幼崽入侵痕迹",
+        "onboard_time": 1755655160,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#西藏工作关系党和国家工作大局#"
+    }
+  }
+}
