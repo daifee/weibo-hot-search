@@ -1,0 +1,410 @@
+{
+  "runTime": 1755701119723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7851732,
+        "num": 7851732,
+        "word": "黛珂 田栩宁",
+        "onboard_time": 1755697408,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579316,
+        "num": 579316,
+        "word": "3万金镯子被猫推进垃圾桶后扔了",
+        "onboard_time": 1755691524,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62832,
+        "num": 371706,
+        "word": "开始盼九三阅兵了",
+        "onboard_time": 1755678083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340069,
+        "num": 340069,
+        "word": "爱奇艺第二季度净亏损1.337亿元",
+        "onboard_time": 1755698067,
+        "rank": 3,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 303217,
+        "num": 303217,
+        "word": "大理洱海被恶意放置信号屏蔽器",
+        "onboard_time": 1755692302,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2303729,
+        "num": 302927,
+        "word": "千百惠去世",
+        "onboard_time": 1755696149,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1194602,
+        "num": 301996,
+        "word": "难听",
+        "onboard_time": 1755691884,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 726753,
+        "num": 300954,
+        "word": "村里出了个大明星 人们都叫他成毅",
+        "onboard_time": 1755690082,
+        "rank": 7,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 235645,
+        "num": 300614,
+        "word": "被毒杀儿女舅舅称男方家族群喊话收尸",
+        "onboard_time": 1755695126,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199099,
+        "num": 299051,
+        "word": "马斯克被曝或动用财力支持美副总统",
+        "onboard_time": 1755693747,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1019914,
+        "num": 298126,
+        "word": "单飞不解散",
+        "onboard_time": 1755694525,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 571146,
+        "num": 297574,
+        "word": "知情人称千百惠去世系因突发疾病",
+        "onboard_time": 1755697887,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482410,
+        "num": 296764,
+        "word": "破音",
+        "onboard_time": 1755694345,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151806,
+        "num": 296308,
+        "word": "复制粘贴版阅兵方队准备好了",
+        "onboard_time": 1755700586,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194809,
+        "num": 294842,
+        "word": "王楚钦时刻准备着",
+        "onboard_time": 1755700287,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417871,
+        "num": 294575,
+        "word": "田曦薇 人生镜头来了",
+        "onboard_time": 1755698067,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326342,
+        "num": 293289,
+        "word": "赵丽颖造型 TinaZ",
+        "onboard_time": 1755693325,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 292941,
+        "num": 292941,
+        "word": "失踪的梨泰院惨案救援消防员已身亡",
+        "onboard_time": 1755688761,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251542,
+        "num": 251542,
+        "word": "男子遇五步蛇和竹叶青打架被误伤",
+        "onboard_time": 1755684683,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18813,
+        "num": 250056,
+        "word": "搜查犬盯上可疑行李箱打开全是零食",
+        "onboard_time": 1755700586,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548977,
+        "num": 247701,
+        "word": "人体最脏的部位",
+        "onboard_time": 1755696749,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 458757,
+        "num": 242498,
+        "word": "因父母求子被砍手女生的现状",
+        "onboard_time": 1755689124,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338974,
+        "num": 239205,
+        "word": "时代少年团爱你爱我手势舞",
+        "onboard_time": 1755695065,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304068,
+        "num": 235368,
+        "word": "绣绣意外流产了",
+        "onboard_time": 1755690142,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272739,
+        "num": 233396,
+        "word": "刘耀文站姐神图这一块",
+        "onboard_time": 1755696088,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231629,
+        "num": 231629,
+        "word": "章昊说惜败桃黑黑老师",
+        "onboard_time": 1755684504,
+        "rank": 25,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 184254,
+        "num": 210330,
+        "word": "罗永浩宣布将做泡面",
+        "onboard_time": 1755696149,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199283,
+        "num": 199283,
+        "word": "成毅村ba开幕人气",
+        "onboard_time": 1755700228,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198941,
+        "num": 198941,
+        "word": "儿媳被2岁孙子打婆婆现场反打护媳",
+        "onboard_time": 1755699687,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196757,
+        "num": 196757,
+        "word": "白鹿已签约欢娱9年",
+        "onboard_time": 1755694225,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222140,
+        "num": 195920,
+        "word": "三亚游客身体不适坐海边躺椅被催收费",
+        "onboard_time": 1755684141,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192832,
+        "num": 192832,
+        "word": "严浩翔遗憾",
+        "onboard_time": 1755692905,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191436,
+        "num": 191436,
+        "word": "金泰熙谈两个女儿长相",
+        "onboard_time": 1755694886,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190681,
+        "num": 190681,
+        "word": "阿瑟就这个破亿爽",
+        "onboard_time": 1755699090,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183205,
+        "num": 183205,
+        "word": "34岁存款100万决定提前退休",
+        "onboard_time": 1755684744,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 158718,
+        "num": 158718,
+        "word": "向太的嗓子是生孩子喊坏的",
+        "onboard_time": 1755693445,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152036,
+        "num": 152036,
+        "word": "张真源全英文solo好权威",
+        "onboard_time": 1755699449,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135764,
+        "num": 135764,
+        "word": "北京国安晋级足协杯决赛",
+        "onboard_time": 1755700108,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151761,
+        "num": 133712,
+        "word": "时代少年团上海演唱会状态",
+        "onboard_time": 1755700228,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130893,
+        "num": 130893,
+        "word": "西藏自治区成立60周年庆祝活动",
+        "onboard_time": 1755685883,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130651,
+        "num": 130651,
+        "word": "银子 我是来揍你的",
+        "onboard_time": 1755696867,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129986,
+        "num": 129986,
+        "word": "iPhone游戏模式",
+        "onboard_time": 1755697229,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128700,
+        "num": 128700,
+        "word": "刘亦菲对接辟谣与肖战合作",
+        "onboard_time": 1755698607,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126695,
+        "num": 126695,
+        "word": "陈奕迅自曝毕生遗憾",
+        "onboard_time": 1755696029,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124022,
+        "num": 124022,
+        "word": "歌手luz去世",
+        "onboard_time": 1755683243,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122299,
+        "num": 122299,
+        "word": "宁苏苏成全银子也是在弥补自己",
+        "onboard_time": 1755696327,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120112,
+        "num": 120112,
+        "word": "陈楚生演唱会又多了一个伤心的人",
+        "onboard_time": 1755699148,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116082,
+        "num": 116082,
+        "word": "张维伊是头婚董璇是头昏",
+        "onboard_time": 1755687442,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115976,
+        "num": 115976,
+        "word": "lingorm",
+        "onboard_time": 1755693564,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114177,
+        "num": 114177,
+        "word": "小米汽车毛利率超越特斯拉",
+        "onboard_time": 1755700167,
+        "rank": 49,
+        "category": "汽车,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#向西藏各族儿女致以诚挚问候#"
+    }
+  }
+}
