@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755685734556,
+  "endTime": 1755686684465,
   "band_list": [
     {
       "raw_hot": 1811308,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1310307,
+      "num": 736406,
+      "word": "时代少年团上海演唱会",
+      "onboard_time": 1755680063,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1294823,
       "num": 988391,
       "word": "老人未去世就被要求火化",
@@ -89,14 +97,6 @@
       "onboard_time": 1755673882,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1177077,
-      "num": 736406,
-      "word": "时代少年团上海演唱会",
-      "onboard_time": 1755680063,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 1073588,
@@ -145,6 +145,14 @@
       "onboard_time": 1755659600,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 904032,
+      "num": 401911,
+      "word": "男子遇五步蛇和竹叶青打架被误伤",
+      "onboard_time": 1755684683,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 838766,
@@ -235,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 689711,
+      "num": 262277,
+      "word": "歌手luz去世",
+      "onboard_time": 1755683243,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677692,
       "num": 463063,
       "word": "网传刘亦菲肖战或将合作",
@@ -265,14 +281,6 @@
       "onboard_time": 1755679944,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 616579,
-      "num": 262277,
-      "word": "歌手luz去世",
-      "onboard_time": 1755683243,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 616470,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453369,
+      "num": 287774,
+      "word": "章昊说惜败桃黑黑老师",
+      "onboard_time": 1755684504,
+      "rank": 6,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 451825,
       "num": 451825,
       "word": "昀牵孟绕",
@@ -409,6 +425,14 @@
       "onboard_time": 1755676223,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 440252,
+      "num": 261692,
+      "word": "小酒窝说出道耽误我学习",
+      "onboard_time": 1755680422,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 428037,
@@ -459,12 +483,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 401911,
-      "num": 401911,
-      "word": "男子遇五步蛇和竹叶青打架被误伤",
-      "onboard_time": 1755684683,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 403586,
+      "num": 260300,
+      "word": "时团上海演唱会安检",
+      "onboard_time": 1755675023,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 398012,
@@ -571,12 +595,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 361233,
-      "num": 261692,
-      "word": "小酒窝说出道耽误我学习",
-      "onboard_time": 1755680422,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 357770,
+      "num": 1057243,
+      "word": "三亚游客身体不适坐海边躺椅被催收费",
+      "onboard_time": 1755684141,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351379,
@@ -585,14 +609,6 @@
       "onboard_time": 1755673941,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340297,
-      "num": 260300,
-      "word": "时团上海演唱会安检",
-      "onboard_time": 1755675023,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 336792,
@@ -643,20 +659,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 309306,
+      "num": 309306,
+      "word": "赵今麦晒与孙俪杨幂合照",
+      "onboard_time": 1755682463,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306002,
       "num": 306002,
       "word": "倪妮太敢穿了",
       "onboard_time": 1755601704,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 305612,
-      "num": 305612,
-      "word": "赵今麦晒与孙俪杨幂合照",
-      "onboard_time": 1755682463,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 298769,
@@ -699,12 +715,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287774,
-      "num": 287774,
-      "word": "章昊说惜败桃黑黑老师",
-      "onboard_time": 1755684504,
-      "rank": 6,
-      "category": "艺人,游戏"
+      "raw_hot": 290105,
+      "num": 257177,
+      "word": "34岁存款100万决定提前退休",
+      "onboard_time": 1755684744,
+      "rank": 17,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 286524,
+      "num": 145094,
+      "word": "梓渝或将做客毛雪汪",
+      "onboard_time": 1755685283,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 284718,
@@ -763,14 +787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 271671,
-      "num": 271671,
-      "word": "三亚游客身体不适坐海边躺椅被催收费",
-      "onboard_time": 1755684141,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271172,
       "num": 231321,
       "word": "宋佳演我嗑井柏然刘雯",
@@ -825,14 +841,6 @@
       "onboard_time": 1755615205,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257177,
-      "num": 257177,
-      "word": "34岁存款100万决定提前退休",
-      "onboard_time": 1755684744,
-      "rank": 17,
-      "category": "休闲"
     },
     {
       "raw_hot": 254156,
@@ -1035,6 +1043,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 207144,
+      "num": 190045,
+      "word": "胡先煦的自制节目像花少副本",
+      "onboard_time": 1755685703,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206908,
       "num": 206908,
       "word": "冯骥杨奇谈黑神话钟馗",
@@ -1235,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190566,
+      "num": 234356,
+      "word": "纪检介入原配上门感谢闺蜜照顾老公",
+      "onboard_time": 1755684862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188960,
       "num": 188960,
       "word": "LV口红卖1200元",
@@ -1299,6 +1323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177879,
+      "num": 177879,
+      "word": "子夜归",
+      "onboard_time": 1755685824,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176602,
       "num": 165297,
       "word": "现在的电视做得像手机一样",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1755674483,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173045,
+      "num": 173045,
+      "word": "孙颖莎王曼昱vs吴咏琳单晓娜",
+      "onboard_time": 1755685343,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 171110,
@@ -1595,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146614,
+      "num": 146614,
+      "word": "于正回应杨幂翻身",
+      "onboard_time": 1755685044,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146063,
       "num": 146063,
       "word": "女生健身的意义此刻具像化了",
@@ -1624,14 +1672,6 @@
       "word": "恋综有这么清醒的女嘉宾",
       "onboard_time": 1755673401,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145094,
-      "num": 145094,
-      "word": "梓渝或将做客毛雪汪",
-      "onboard_time": 1755685283,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1673,14 +1713,6 @@
       "onboard_time": 1755659422,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140727,
-      "num": 140727,
-      "word": "孙颖莎王曼昱vs吴咏琳单晓娜",
-      "onboard_time": 1755685343,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 140576,
@@ -1963,6 +1995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118125,
+      "num": 118125,
+      "word": "生万物和情深深雨濛濛是一个时代的",
+      "onboard_time": 1755685283,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117033,
       "num": 117033,
       "word": "老太每天凌晨清空爱心冰柜",
@@ -2035,6 +2075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113146,
+      "num": 113146,
+      "word": "虞书欣的大哥大是手提包",
+      "onboard_time": 1755686603,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112968,
       "num": 112968,
       "word": "贵州酸汤火锅",
@@ -2075,6 +2123,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 110196,
+      "num": 110196,
+      "word": "全国最矮的山  0.6米",
+      "onboard_time": 1755685703,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108851,
       "num": 140589,
       "word": "张艺兴演唱会cue吴世勋",
@@ -2091,12 +2147,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 106931,
-      "num": 106931,
-      "word": "全国最矮的山  0.6米",
-      "onboard_time": 1755685703,
+      "raw_hot": 106992,
+      "num": 106992,
+      "word": "西藏自治区成立60周年庆祝活动",
+      "onboard_time": 1755685883,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 106268,
+      "num": 106268,
+      "word": "婚礼是在cosplay有钱人吗",
+      "onboard_time": 1755683724,
       "rank": 46,
-      "category": "民生新闻"
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 105789,
@@ -2113,14 +2177,6 @@
       "onboard_time": 1755682823,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104892,
-      "num": 104892,
-      "word": "胡先煦的自制节目像花少副本",
-      "onboard_time": 1755685703,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 104667,
@@ -2195,12 +2251,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 98716,
+      "num": 103382,
+      "word": "高脂肪榜单",
+      "onboard_time": 1755686003,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97178,
       "num": 97178,
       "word": "萨摩耶洗澡半个小时了还没打湿",
       "onboard_time": 1755652041,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97050,
+      "num": 222877,
+      "word": "中国人研究月球土特产又有新发现",
+      "onboard_time": 1755685343,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 96060,
+      "num": 113290,
+      "word": "裴珠泫也cha了刀马",
+      "onboard_time": 1755686483,
+      "rank": 39,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 94811,
@@ -2291,28 +2371,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 84386,
-      "num": 222877,
-      "word": "中国人研究月球土特产又有新发现",
-      "onboard_time": 1755685343,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83463,
       "num": 187519,
       "word": "孙俪帮女儿追星周深",
       "onboard_time": 1755663082,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 83035,
-      "num": 116509,
-      "word": "生万物和情深深雨濛濛是一个时代的",
-      "onboard_time": 1755685283,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 82803,
@@ -2547,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56922,
+      "num": 164388,
+      "word": "得知俩孙子均非亲生后奶奶崩溃",
+      "onboard_time": 1755685824,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55272,
       "num": 164245,
       "word": "广州地铁一女子坐爱心座被要求让座",
@@ -2571,14 +2643,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 52297,
-      "num": 234356,
-      "word": "纪检介入原配上门感谢闺蜜照顾老公",
-      "onboard_time": 1755684862,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51972,
       "num": 101119,
       "word": "樊振东登上CCTV1新闻联播",
@@ -2593,6 +2657,14 @@
       "onboard_time": 1755667881,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50247,
+      "num": 148230,
+      "word": "原配拉横幅挂锦旗感谢闺蜜照顾老公",
+      "onboard_time": 1755686542,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49330,
@@ -2793,6 +2865,14 @@
       "onboard_time": 1755671603,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27750,
+      "num": 113500,
+      "word": "丞磊镜头下的女明星们",
+      "onboard_time": 1755686483,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 27433,

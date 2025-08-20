@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755685734556,
+  "endTime": 1755686684465,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1310307,
+      "num": 736406,
+      "word": "时代少年团上海演唱会",
+      "onboard_time": 1755680063,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1308993,
       "num": 1308993,
       "word": "买房千万不要买挨着公园的",
@@ -521,14 +529,6 @@
       "onboard_time": 1755517640,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1177077,
-      "num": 736406,
-      "word": "时代少年团上海演唱会",
-      "onboard_time": 1755680063,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 1171719,
@@ -793,6 +793,14 @@
       "onboard_time": 1755429801,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 904032,
+      "num": 401911,
+      "word": "男子遇五步蛇和竹叶青打架被误伤",
+      "onboard_time": 1755684683,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 896503,
@@ -1155,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 689711,
+      "num": 262277,
+      "word": "歌手luz去世",
+      "onboard_time": 1755683243,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 689055,
       "num": 371031,
       "word": "柳智敏 宝格丽",
@@ -1417,14 +1433,6 @@
       "onboard_time": 1755502224,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 616579,
-      "num": 262277,
-      "word": "歌手luz去世",
-      "onboard_time": 1755683243,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 616470,
@@ -2035,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453369,
+      "num": 287774,
+      "word": "章昊说惜败桃黑黑老师",
+      "onboard_time": 1755684504,
+      "rank": 6,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 451825,
       "num": 451825,
       "word": "昀牵孟绕",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1755595042,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 440252,
+      "num": 261692,
+      "word": "小酒窝说出道耽误我学习",
+      "onboard_time": 1755680422,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 436717,
@@ -2299,20 +2323,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403586,
+      "num": 260300,
+      "word": "时团上海演唱会安检",
+      "onboard_time": 1755675023,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 403528,
       "num": 321371,
       "word": "签售姐Viper 跑路",
       "onboard_time": 1755500901,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 401911,
-      "num": 401911,
-      "word": "男子遇五步蛇和竹叶青打架被误伤",
-      "onboard_time": 1755684683,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399894,
@@ -2547,20 +2571,20 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 361233,
-      "num": 261692,
-      "word": "小酒窝说出道耽误我学习",
-      "onboard_time": 1755680422,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 358646,
       "num": 353566,
       "word": "微信号真的会透露很多隐私",
       "onboard_time": 1755426442,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 357770,
+      "num": 1057243,
+      "word": "三亚游客身体不适坐海边躺椅被催收费",
+      "onboard_time": 1755684141,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356497,
@@ -2633,14 +2657,6 @@
       "onboard_time": 1755441265,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 340297,
-      "num": 260300,
-      "word": "时团上海演唱会安检",
-      "onboard_time": 1755675023,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 340007,
@@ -2915,20 +2931,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 309306,
+      "num": 309306,
+      "word": "赵今麦晒与孙俪杨幂合照",
+      "onboard_time": 1755682463,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308579,
       "num": 247336,
       "word": "印度人在华旅游乱扔垃圾",
       "onboard_time": 1755582622,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 305612,
-      "num": 305612,
-      "word": "赵今麦晒与孙俪杨幂合照",
-      "onboard_time": 1755682463,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 305529,
@@ -3083,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290105,
+      "num": 257177,
+      "word": "34岁存款100万决定提前退休",
+      "onboard_time": 1755684744,
+      "rank": 17,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 287890,
       "num": 287890,
       "word": "洱海12岁走失自闭症儿童已找到",
@@ -3099,20 +3123,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 287774,
-      "num": 287774,
-      "word": "章昊说惜败桃黑黑老师",
-      "onboard_time": 1755684504,
-      "rank": 6,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 287461,
       "num": 287461,
       "word": "常州终于进球了",
       "onboard_time": 1755354684,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286524,
+      "num": 145094,
+      "word": "梓渝或将做客毛雪汪",
+      "onboard_time": 1755685283,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 286430,
@@ -3339,14 +3363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271671,
-      "num": 271671,
-      "word": "三亚游客身体不适坐海边躺椅被催收费",
-      "onboard_time": 1755684141,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271172,
       "num": 231321,
       "word": "宋佳演我嗑井柏然刘雯",
@@ -3489,14 +3505,6 @@
       "onboard_time": 1755436705,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257177,
-      "num": 257177,
-      "word": "34岁存款100万决定提前退休",
-      "onboard_time": 1755684744,
-      "rank": 17,
-      "category": "休闲"
     },
     {
       "raw_hot": 256954,
@@ -4379,6 +4387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207144,
+      "num": 190045,
+      "word": "胡先煦的自制节目像花少副本",
+      "onboard_time": 1755685703,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206908,
       "num": 206908,
       "word": "冯骥杨奇谈黑神话钟馗",
@@ -5121,6 +5137,14 @@
       "onboard_time": 1755587902,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190566,
+      "num": 234356,
+      "word": "纪检介入原配上门感谢闺蜜照顾老公",
+      "onboard_time": 1755684862,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190334,
@@ -5937,6 +5961,14 @@
       "onboard_time": 1755605245,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 173045,
+      "num": 173045,
+      "word": "孙颖莎王曼昱vs吴咏琳单晓娜",
+      "onboard_time": 1755685343,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 172446,
@@ -7347,6 +7379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146614,
+      "num": 146614,
+      "word": "于正回应杨幂翻身",
+      "onboard_time": 1755685044,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146438,
       "num": 146438,
       "word": "张晚意你也太会过日子了",
@@ -7512,14 +7552,6 @@
       "word": "恋综有这么清醒的女嘉宾",
       "onboard_time": 1755673401,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145094,
-      "num": 145094,
-      "word": "梓渝或将做客毛雪汪",
-      "onboard_time": 1755685283,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -7785,14 +7817,6 @@
       "onboard_time": 1755505522,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 140727,
-      "num": 140727,
-      "word": "孙颖莎王曼昱vs吴咏琳单晓娜",
-      "onboard_time": 1755685343,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 140576,
@@ -9475,6 +9499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118125,
+      "num": 118125,
+      "word": "生万物和情深深雨濛濛是一个时代的",
+      "onboard_time": 1755685283,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118012,
       "num": 118012,
       "word": "陈飞宇祝大家焦财进宝",
@@ -9883,6 +9915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113146,
+      "num": 113146,
+      "word": "虞书欣的大哥大是手提包",
+      "onboard_time": 1755686603,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112977,
       "num": 112977,
       "word": "A股创造了多个历史",
@@ -10105,6 +10145,14 @@
       "onboard_time": 1755579322,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110196,
+      "num": 110196,
+      "word": "全国最矮的山  0.6米",
+      "onboard_time": 1755685703,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110178,
@@ -10331,6 +10379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106992,
+      "num": 106992,
+      "word": "西藏自治区成立60周年庆祝活动",
+      "onboard_time": 1755685883,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106991,
       "num": 126616,
       "word": "金莎男友否认带美女出行",
@@ -10345,14 +10401,6 @@
       "onboard_time": 1755499344,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106931,
-      "num": 106931,
-      "word": "全国最矮的山  0.6米",
-      "onboard_time": 1755685703,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106839,
@@ -10393,6 +10441,14 @@
       "onboard_time": 1755444323,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106268,
+      "num": 106268,
+      "word": "婚礼是在cosplay有钱人吗",
+      "onboard_time": 1755683724,
+      "rank": 46,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 106260,
@@ -10496,14 +10552,6 @@
       "word": "陈星旭已撒娇求放过",
       "onboard_time": 1755422423,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 104892,
-      "num": 104892,
-      "word": "胡先煦的自制节目像花少副本",
-      "onboard_time": 1755685703,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -10899,6 +10947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98716,
+      "num": 103382,
+      "word": "高脂肪榜单",
+      "onboard_time": 1755686003,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98435,
       "num": 98435,
       "word": "WBG对战AL",
@@ -11019,6 +11075,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 97050,
+      "num": 222877,
+      "word": "中国人研究月球土特产又有新发现",
+      "onboard_time": 1755685343,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96925,
       "num": 129917,
       "word": "陈赫艾欧尼亚第一辅助",
@@ -11057,6 +11121,14 @@
       "onboard_time": 1755423623,
       "rank": 42,
       "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 96060,
+      "num": 113290,
+      "word": "裴珠泫也cha了刀马",
+      "onboard_time": 1755686483,
+      "rank": 39,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 95717,
@@ -11587,14 +11659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 84386,
-      "num": 222877,
-      "word": "中国人研究月球土特产又有新发现",
-      "onboard_time": 1755685343,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83844,
       "num": 83844,
       "word": "毕雯珺你是不是想牵手",
@@ -11625,14 +11689,6 @@
       "onboard_time": 1755397580,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 83035,
-      "num": 116509,
-      "word": "生万物和情深深雨濛濛是一个时代的",
-      "onboard_time": 1755685283,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 82887,
@@ -12555,6 +12611,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 56922,
+      "num": 164388,
+      "word": "得知俩孙子均非亲生后奶奶崩溃",
+      "onboard_time": 1755685824,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56818,
       "num": 165319,
       "word": "女子疑被沿街商铺掉落玻璃砸中去世",
@@ -12699,14 +12763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52297,
-      "num": 234356,
-      "word": "纪检介入原配上门感谢闺蜜照顾老公",
-      "onboard_time": 1755684862,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51357,
       "num": 184559,
       "word": "下周热热热加雨雨雨",
@@ -12745,6 +12801,14 @@
       "onboard_time": 1755667881,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50247,
+      "num": 148230,
+      "word": "原配拉横幅挂锦旗感谢闺蜜照顾老公",
+      "onboard_time": 1755686542,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50064,
@@ -13585,6 +13649,14 @@
       "onboard_time": 1755366917,
       "rank": 46,
       "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 27750,
+      "num": 113500,
+      "word": "丞磊镜头下的女明星们",
+      "onboard_time": 1755686483,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 27700,

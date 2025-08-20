@@ -1,0 +1,410 @@
+{
+  "runTime": 1755686684465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 357770,
+        "num": 1057243,
+        "word": "三亚游客身体不适坐海边躺椅被催收费",
+        "onboard_time": 1755684141,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336109,
+        "num": 336109,
+        "word": "外交部回应外国领导人出席阅兵",
+        "onboard_time": 1755680783,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25068,
+        "num": 313978,
+        "word": "阅兵有很多明星装备",
+        "onboard_time": 1755657080,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309306,
+        "num": 309306,
+        "word": "赵今麦晒与孙俪杨幂合照",
+        "onboard_time": 1755682463,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190566,
+        "num": 190566,
+        "word": "纪检介入原配上门感谢闺蜜照顾老公",
+        "onboard_time": 1755684862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453369,
+        "num": 190201,
+        "word": "章昊说惜败桃黑黑老师",
+        "onboard_time": 1755684504,
+        "rank": 5,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 207144,
+        "num": 190045,
+        "word": "胡先煦的自制节目像花少副本",
+        "onboard_time": 1755685703,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189824,
+        "num": 189824,
+        "word": "车主称50升油箱被加了67.96升汽油",
+        "onboard_time": 1755676583,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177879,
+        "num": 177879,
+        "word": "子夜归",
+        "onboard_time": 1755685824,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173045,
+        "num": 173045,
+        "word": "孙颖莎王曼昱vs吴咏琳单晓娜",
+        "onboard_time": 1755685343,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1310307,
+        "num": 172998,
+        "word": "时代少年团上海演唱会",
+        "onboard_time": 1755680063,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 904032,
+        "num": 172203,
+        "word": "男子遇五步蛇和竹叶青打架被误伤",
+        "onboard_time": 1755684683,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850043,
+        "num": 171771,
+        "word": "deepseek演都不演了",
+        "onboard_time": 1755674723,
+        "rank": 12,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 689711,
+        "num": 171310,
+        "word": "歌手luz去世",
+        "onboard_time": 1755683243,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539103,
+        "num": 171194,
+        "word": "建议不要带着饥饿感入睡",
+        "onboard_time": 1755679944,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 530935,
+        "num": 170601,
+        "word": "老人未去世就被要求火化",
+        "onboard_time": 1755675682,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502022,
+        "num": 170326,
+        "word": "奚梦瑶5岁儿子身高",
+        "onboard_time": 1755681203,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169915,
+        "num": 169915,
+        "word": "刘骏否认私联",
+        "onboard_time": 1755680662,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440252,
+        "num": 167167,
+        "word": "小酒窝说出道耽误我学习",
+        "onboard_time": 1755680422,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56922,
+        "num": 164388,
+        "word": "得知俩孙子均非亲生后奶奶崩溃",
+        "onboard_time": 1755685824,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403586,
+        "num": 162720,
+        "word": "时团上海演唱会安检",
+        "onboard_time": 1755675023,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 380871,
+        "num": 159610,
+        "word": "父婴室",
+        "onboard_time": 1755678983,
+        "rank": 21,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 343593,
+        "num": 157627,
+        "word": "桃黑黑 我真求你们了",
+        "onboard_time": 1755673822,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 290105,
+        "num": 153762,
+        "word": "34岁存款100万决定提前退休",
+        "onboard_time": 1755684744,
+        "rank": 23,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 97050,
+        "num": 151024,
+        "word": "中国人研究月球土特产又有新发现",
+        "onboard_time": 1755685343,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50247,
+        "num": 148230,
+        "word": "原配拉横幅挂锦旗感谢闺蜜照顾老公",
+        "onboard_time": 1755686542,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146614,
+        "num": 146614,
+        "word": "于正回应杨幂翻身",
+        "onboard_time": 1755685044,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128717,
+        "num": 128717,
+        "word": "祝绪丹蛋糕吃出猪脚饭的感觉",
+        "onboard_time": 1755682943,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123682,
+        "num": 123682,
+        "word": "开始盼九三阅兵了",
+        "onboard_time": 1755678083,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122423,
+        "num": 122423,
+        "word": "范丞丞跳了刀马刀马",
+        "onboard_time": 1755681322,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286524,
+        "num": 122353,
+        "word": "梓渝或将做客毛雪汪",
+        "onboard_time": 1755685283,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274802,
+        "num": 121140,
+        "word": "王安宇评论区",
+        "onboard_time": 1755673882,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172451,
+        "num": 120757,
+        "word": "男子结婚22年发现2个孩有3个爹",
+        "onboard_time": 1755669741,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170754,
+        "num": 120131,
+        "word": "董璇没觉得和张维伊领证仓促",
+        "onboard_time": 1755675563,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162106,
+        "num": 119554,
+        "word": "清空爱心冰柜的老太再来后扑空了",
+        "onboard_time": 1755682763,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138917,
+        "num": 118141,
+        "word": "桃黑黑 全国校园男神大赛",
+        "onboard_time": 1755664402,
+        "rank": 35,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 118125,
+        "num": 118125,
+        "word": "生万物和情深深雨濛濛是一个时代的",
+        "onboard_time": 1755685283,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116773,
+        "num": 116773,
+        "word": "迪丽热巴变装不基础脸更不基础",
+        "onboard_time": 1755682403,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27750,
+        "num": 113500,
+        "word": "丞磊镜头下的女明星们",
+        "onboard_time": 1755686483,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96060,
+        "num": 113290,
+        "word": "裴珠泫也cha了刀马",
+        "onboard_time": 1755686483,
+        "rank": 39,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 128916,
+        "num": 113218,
+        "word": "董璇 他难道不应该心疼一下我吗",
+        "onboard_time": 1755669981,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113146,
+        "num": 113146,
+        "word": "虞书欣的大哥大是手提包",
+        "onboard_time": 1755686603,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110644,
+        "num": 110644,
+        "word": "向往的生活8乌镇路透",
+        "onboard_time": 1755673941,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110196,
+        "num": 110196,
+        "word": "全国最矮的山  0.6米",
+        "onboard_time": 1755685703,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106992,
+        "num": 106992,
+        "word": "西藏自治区成立60周年庆祝活动",
+        "onboard_time": 1755685883,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106831,
+        "num": 106831,
+        "word": "央视实名夸爆的三部剧",
+        "onboard_time": 1755671603,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106268,
+        "num": 106268,
+        "word": "婚礼是在cosplay有钱人吗",
+        "onboard_time": 1755683724,
+        "rank": 46,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 105967,
+        "num": 105967,
+        "word": "热巴你是要砸死你姐吗",
+        "onboard_time": 1755665903,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98716,
+        "num": 103382,
+        "word": "高脂肪榜单",
+        "onboard_time": 1755686003,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103041,
+        "num": 103041,
+        "word": "网传刘亦菲肖战或将合作",
+        "onboard_time": 1755673523,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平率中央代表团抵达拉萨#"
+    }
+  }
+}
