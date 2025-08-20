@@ -1,0 +1,410 @@
+{
+  "runTime": 1755672761652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 807423,
+        "num": 1129187,
+        "word": "男子结婚22年发现2个孩有3个爹",
+        "onboard_time": 1755669741,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 618378,
+        "num": 618378,
+        "word": "警方回应3男子欲将醉酒女生抬上车",
+        "onboard_time": 1755664283,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 51117,
+        "num": 476885,
+        "word": "西藏在长大我也在长大",
+        "onboard_time": 1755663503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437259,
+        "num": 437259,
+        "word": "男子结婚22年俩儿子非亲生案开庭",
+        "onboard_time": 1755669081,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350221,
+        "num": 350221,
+        "word": "QQ音乐 三专",
+        "onboard_time": 1755663622,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 309339,
+        "num": 309339,
+        "word": "九三阅兵时长约70分钟",
+        "onboard_time": 1755656421,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290053,
+        "num": 290053,
+        "word": "央视实名夸爆的三部剧",
+        "onboard_time": 1755671603,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250695,
+        "num": 250695,
+        "word": "种地吧",
+        "onboard_time": 1755664402,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247645,
+        "num": 247645,
+        "word": "本次阅兵的数个首次",
+        "onboard_time": 1755659600,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59932,
+        "num": 246398,
+        "word": "个人养老金要怎么领",
+        "onboard_time": 1755671903,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 1391225,
+        "num": 244808,
+        "word": "董璇 他难道不应该心疼一下我吗",
+        "onboard_time": 1755669981,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625451,
+        "num": 240350,
+        "word": "高铁站台 禁烟",
+        "onboard_time": 1755663742,
+        "rank": 11,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 572786,
+        "num": 239773,
+        "word": "热巴你是要砸死你姐吗",
+        "onboard_time": 1755665903,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 499256,
+        "num": 235133,
+        "word": "张檬被儿子喊妈感动哭了",
+        "onboard_time": 1755668663,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481690,
+        "num": 233879,
+        "word": "广东一副教授疑跳楼身亡",
+        "onboard_time": 1755670222,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473118,
+        "num": 231333,
+        "word": "EXO编舞 走错一步被队友刀死",
+        "onboard_time": 1755666862,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 468956,
+        "num": 228967,
+        "word": "黄杨钿甜风波后首露面",
+        "onboard_time": 1755655340,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431885,
+        "num": 227280,
+        "word": "五阿哥再见杨幂已是隔辈",
+        "onboard_time": 1755666262,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293903,
+        "num": 222692,
+        "word": "迪丽热巴时尚芭莎九月刊预告",
+        "onboard_time": 1755664883,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222272,
+        "num": 222272,
+        "word": "受阅民兵着装有很大创新",
+        "onboard_time": 1755667462,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245074,
+        "num": 222205,
+        "word": "于正说不会强迫白鹿续约",
+        "onboard_time": 1755664763,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237571,
+        "num": 221490,
+        "word": "陈哲远认为冷战两天就算分手",
+        "onboard_time": 1755671541,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219420,
+        "num": 219420,
+        "word": "沈佳润 穿貂的爸卖车厘子的妈",
+        "onboard_time": 1755671903,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350212,
+        "num": 202811,
+        "word": "杨幂热巴 我养大的玫瑰",
+        "onboard_time": 1755667941,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185096,
+        "num": 185096,
+        "word": "生万物种地吧直播",
+        "onboard_time": 1755666322,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184810,
+        "num": 184810,
+        "word": "24岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755666022,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170086,
+        "num": 170086,
+        "word": "九三阅兵准备工作",
+        "onboard_time": 1755655581,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162323,
+        "num": 162323,
+        "word": "建议近视的人少吃点甜食",
+        "onboard_time": 1755670762,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 150461,
+        "num": 150461,
+        "word": "张艺凡被田曦薇露头就秒",
+        "onboard_time": 1755671721,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143843,
+        "num": 148448,
+        "word": "锦月如歌大结局",
+        "onboard_time": 1755664343,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154337,
+        "num": 148442,
+        "word": "告诉秦岚辛芷蕾今晚不回去了",
+        "onboard_time": 1755667102,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148129,
+        "num": 148129,
+        "word": "iPhone拍照键或被取消",
+        "onboard_time": 1755669441,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142882,
+        "num": 142882,
+        "word": "立秋后必吃的4种水果",
+        "onboard_time": 1755665064,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133134,
+        "num": 141549,
+        "word": "转念花开主演杨紫",
+        "onboard_time": 1755669142,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135609,
+        "num": 141021,
+        "word": "宋亚轩给小胡哥自制的新节目打call",
+        "onboard_time": 1755672081,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77651,
+        "num": 140791,
+        "word": "杨洋发文告别韩立",
+        "onboard_time": 1755672682,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140709,
+        "num": 140709,
+        "word": "男女主在接吻男二在接头",
+        "onboard_time": 1755665542,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138232,
+        "num": 138232,
+        "word": "黑神话",
+        "onboard_time": 1755636554,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135726,
+        "num": 135726,
+        "word": "女子被人公开挂介入闺蜜婚姻横幅",
+        "onboard_time": 1755672382,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29871,
+        "num": 132678,
+        "word": "00花相亲局",
+        "onboard_time": 1755671603,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132264,
+        "num": 132264,
+        "word": "毛晓彤方否认与陈晓恋情",
+        "onboard_time": 1755615444,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129682,
+        "num": 129682,
+        "word": "W盛典女性友谊群像",
+        "onboard_time": 1755672382,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129235,
+        "num": 129235,
+        "word": "运动减肥的真相",
+        "onboard_time": 1755669622,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40527,
+        "num": 128589,
+        "word": "陈奕迅去吃地摊烤肉了",
+        "onboard_time": 1755672742,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128347,
+        "num": 128347,
+        "word": "胖东来的切西瓜手法",
+        "onboard_time": 1755655462,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128393,
+        "num": 127728,
+        "word": "清华学生花七天改造北京海淀区单间",
+        "onboard_time": 1755667402,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127044,
+        "num": 127044,
+        "word": "提前7分钟下班车祸死亡被认定工伤",
+        "onboard_time": 1755657321,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127718,
+        "num": 124648,
+        "word": "虞书欣 剧组穿搭指南",
+        "onboard_time": 1755669863,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122129,
+        "num": 122129,
+        "word": "孙颖莎王楚钦出战WTT中国大满贯",
+        "onboard_time": 1755668601,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109938,
+        "num": 121707,
+        "word": "内娱第一套古装双人撕拉片",
+        "onboard_time": 1755671301,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系雪域高原#"
+    }
+  }
+}

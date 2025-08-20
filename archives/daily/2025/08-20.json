@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755671923565,
+  "endTime": 1755672761652,
   "band_list": [
     {
       "raw_hot": 1811308,
@@ -17,6 +17,14 @@
       "onboard_time": 1755657321,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1391225,
+      "num": 244808,
+      "word": "董璇 他难道不应该心疼一下我吗",
+      "onboard_time": 1755669981,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1375053,
@@ -49,14 +57,6 @@
       "onboard_time": 1755664883,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1086004,
-      "num": 225328,
-      "word": "董璇 他难道不应该心疼一下我吗",
-      "onboard_time": 1755669981,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1039480,
@@ -115,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 807423,
+      "num": 1129187,
+      "word": "男子结婚22年发现2个孩有3个爹",
+      "onboard_time": 1755669741,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 798474,
       "num": 1127755,
       "word": "警方回应3男子欲将醉酒女生抬上车",
@@ -155,14 +163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 689747,
-      "num": 689747,
-      "word": "男子结婚22年发现2个孩有3个爹",
-      "onboard_time": 1755669741,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 660050,
       "num": 660050,
       "word": "南京10元手冲咖啡阿姨现状",
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 616470,
-      "num": 224904,
+      "num": 235133,
       "word": "张檬被儿子喊妈感动哭了",
       "onboard_time": 1755668663,
       "rank": 13,
@@ -225,6 +225,14 @@
       "onboard_time": 1755604407,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 481690,
+      "num": 233879,
+      "word": "广东一副教授疑跳楼身亡",
+      "onboard_time": 1755670222,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471133,
@@ -395,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343249,
-      "num": 224306,
-      "word": "广东一副教授疑跳楼身亡",
-      "onboard_time": 1755670222,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 336792,
       "num": 336792,
       "word": "时代少年团三专",
@@ -497,6 +497,14 @@
       "onboard_time": 1755614067,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290053,
+      "num": 290053,
+      "word": "央视实名夸爆的三部剧",
+      "onboard_time": 1755671603,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 284718,
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237571,
+      "num": 221490,
+      "word": "陈哲远认为冷战两天就算分手",
+      "onboard_time": 1755671541,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236201,
       "num": 206099,
       "word": "王晶说追星是很愚蠢的行为",
@@ -659,14 +675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 223829,
-      "num": 223829,
-      "word": "央视实名夸爆的三部剧",
-      "onboard_time": 1755671603,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223148,
       "num": 204307,
       "word": "生万物一飙之下",
@@ -681,6 +689,14 @@
       "onboard_time": 1755667102,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219420,
+      "num": 219420,
+      "word": "沈佳润 穿貂的爸卖车厘子的妈",
+      "onboard_time": 1755671903,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 218343,
@@ -913,14 +929,6 @@
       "onboard_time": 1755656000,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184536,
-      "num": 184536,
-      "word": "陈哲远认为冷战两天就算分手",
-      "onboard_time": 1755671541,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 183260,
@@ -1235,6 +1243,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135726,
+      "num": 135726,
+      "word": "女子被人公开挂介入闺蜜婚姻横幅",
+      "onboard_time": 1755672382,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135609,
+      "num": 141021,
+      "word": "宋亚轩给小胡哥自制的新节目打call",
+      "onboard_time": 1755672081,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135425,
       "num": 135425,
       "word": "周深 太尴尬啦",
@@ -1275,14 +1299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 131858,
-      "num": 131858,
-      "word": "沈佳润 穿貂的爸卖车厘子的妈",
-      "onboard_time": 1755671903,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130318,
       "num": 130318,
       "word": "马嘉祺背头",
@@ -1305,6 +1321,22 @@
       "onboard_time": 1755660441,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129682,
+      "num": 129682,
+      "word": "W盛典女性友谊群像",
+      "onboard_time": 1755672382,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129235,
+      "num": 129235,
+      "word": "运动减肥的真相",
+      "onboard_time": 1755669622,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128774,
@@ -1691,6 +1723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 77651,
+      "num": 140791,
+      "word": "杨洋发文告别韩立",
+      "onboard_time": 1755672682,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77319,
       "num": 115420,
       "word": "普通人要对五险一金有概念",
@@ -1819,6 +1859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59932,
+      "num": 246398,
+      "word": "个人养老金要怎么领",
+      "onboard_time": 1755671903,
+      "rank": 34,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 57025,
       "num": 57025,
       "word": "王曼昱vs迪亚兹",
@@ -1849,14 +1897,6 @@
       "onboard_time": 1755667881,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 49394,
-      "num": 163077,
-      "word": "个人养老金要怎么领",
-      "onboard_time": 1755671903,
-      "rank": 34,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 49330,
@@ -1931,6 +1971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40527,
+      "num": 128589,
+      "word": "陈奕迅去吃地摊烤肉了",
+      "onboard_time": 1755672742,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40071,
       "num": 115538,
       "word": "大司命的舞感",
@@ -1961,6 +2009,14 @@
       "onboard_time": 1755668001,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29871,
+      "num": 158827,
+      "word": "00花相亲局",
+      "onboard_time": 1755671603,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 27181,
@@ -2041,14 +2097,6 @@
       "onboard_time": 1755634394,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17672,
-      "num": 158827,
-      "word": "00花相亲局",
-      "onboard_time": 1755671603,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 17327,
