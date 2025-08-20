@@ -1,0 +1,410 @@
+{
+  "runTime": 1755708433733,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 566432,
+        "num": 744031,
+        "word": "黛珂 田栩宁",
+        "onboard_time": 1755697408,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545571,
+        "num": 545571,
+        "word": "12306回应网友提议站台等候区禁烟",
+        "onboard_time": 1755706223,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27941,
+        "num": 394049,
+        "word": "开始盼九三阅兵了",
+        "onboard_time": 1755678083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284876,
+        "num": 284876,
+        "word": "您的鳄了么订单需到场自提",
+        "onboard_time": 1755703046,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237620,
+        "num": 237620,
+        "word": "3万金镯子被猫推进垃圾桶后扔了",
+        "onboard_time": 1755691524,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652677,
+        "num": 234612,
+        "word": "千百惠去世",
+        "onboard_time": 1755696149,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508332,
+        "num": 232216,
+        "word": "难听",
+        "onboard_time": 1755691884,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 388868,
+        "num": 231328,
+        "word": "村里出了个大明星 人们都叫他成毅",
+        "onboard_time": 1755690082,
+        "rank": 7,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 229238,
+        "num": 229238,
+        "word": "男子水下憋气29分钟刷新世界纪录",
+        "onboard_time": 1755705324,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194007,
+        "num": 194007,
+        "word": "爱奇艺第二季度净亏损1.337亿元",
+        "onboard_time": 1755698067,
+        "rank": 9,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 356681,
+        "num": 193471,
+        "word": "田曦薇 人生镜头来了",
+        "onboard_time": 1755698067,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326556,
+        "num": 192778,
+        "word": "付辛博认证颖儿是工作狂",
+        "onboard_time": 1755701307,
+        "rank": 11,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 320764,
+        "num": 191378,
+        "word": "时代少年团爱你爱我手势舞",
+        "onboard_time": 1755695065,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 313302,
+        "num": 191123,
+        "word": "胡先煦回应王安宇",
+        "onboard_time": 1755704125,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309410,
+        "num": 190001,
+        "word": "31岁男子地下车库被发小杀害",
+        "onboard_time": 1755703347,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242407,
+        "num": 188718,
+        "word": "两子非亲生案长子回应殴打父亲",
+        "onboard_time": 1755704424,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142270,
+        "num": 188148,
+        "word": "孙颖莎再现学霸式复盘",
+        "onboard_time": 1755705203,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133992,
+        "num": 187211,
+        "word": "失踪的梨泰院惨案救援消防员已身亡",
+        "onboard_time": 1755688761,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126653,
+        "num": 185946,
+        "word": "大理洱海被恶意放置信号屏蔽器",
+        "onboard_time": 1755692302,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124951,
+        "num": 185532,
+        "word": "男孩骑车撞伤老人一旁违停车赔20余万",
+        "onboard_time": 1755704004,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427846,
+        "num": 184324,
+        "word": "宋亚轩腹肌",
+        "onboard_time": 1755704184,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390396,
+        "num": 183276,
+        "word": "法国一受虐博主在直播中死亡",
+        "onboard_time": 1755701188,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 297516,
+        "num": 182760,
+        "word": "沈佳润美美桑内中文版",
+        "onboard_time": 1755702566,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274422,
+        "num": 181569,
+        "word": "单飞不解散",
+        "onboard_time": 1755694525,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156328,
+        "num": 180961,
+        "word": "人体最脏的部位",
+        "onboard_time": 1755696749,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180310,
+        "num": 180310,
+        "word": "如果的事",
+        "onboard_time": 1755705803,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172853,
+        "num": 172853,
+        "word": "知情人称千百惠去世系因突发疾病",
+        "onboard_time": 1755697887,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172283,
+        "num": 172283,
+        "word": "赵丽颖长发直播",
+        "onboard_time": 1755705264,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167858,
+        "num": 167858,
+        "word": "贺峻霖solo",
+        "onboard_time": 1755704844,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161977,
+        "num": 161977,
+        "word": "热巴这次你做不了1了",
+        "onboard_time": 1755703524,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131933,
+        "num": 131933,
+        "word": "方媛挺孕肚打车送女儿上学",
+        "onboard_time": 1755702866,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127789,
+        "num": 127789,
+        "word": "儿媳被2岁孙子打婆婆现场反打护媳",
+        "onboard_time": 1755699687,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116564,
+        "num": 116564,
+        "word": "章昊说惜败桃黑黑老师",
+        "onboard_time": 1755684504,
+        "rank": 32,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 114590,
+        "num": 114590,
+        "word": "严浩翔遗憾",
+        "onboard_time": 1755692905,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110452,
+        "num": 110452,
+        "word": "全球最毒的蚊子为何批量北上",
+        "onboard_time": 1755704004,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105128,
+        "num": 105128,
+        "word": "绣绣意外流产了",
+        "onboard_time": 1755690142,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104167,
+        "num": 104167,
+        "word": "王安宇新歌半秒如果",
+        "onboard_time": 1755707482,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98686,
+        "num": 98686,
+        "word": "被毒杀儿女舅舅称男方家族群喊话收尸",
+        "onboard_time": 1755695126,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95723,
+        "num": 95723,
+        "word": "男子遇五步蛇和竹叶青打架被误伤",
+        "onboard_time": 1755684683,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95565,
+        "num": 95565,
+        "word": "因父母求子被砍手女生的现状",
+        "onboard_time": 1755689124,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92839,
+        "num": 92839,
+        "word": "老番茄本名叫张秋实",
+        "onboard_time": 1755699928,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87357,
+        "num": 87357,
+        "word": "宋亚轩刘耀文callback交换话筒",
+        "onboard_time": 1755702085,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81227,
+        "num": 81227,
+        "word": "复制粘贴版阅兵方队准备好了",
+        "onboard_time": 1755700586,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79536,
+        "num": 79536,
+        "word": "傻挑怀孕",
+        "onboard_time": 1755701847,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77046,
+        "num": 77046,
+        "word": "献鱼双修镜头",
+        "onboard_time": 1755701307,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75220,
+        "num": 75220,
+        "word": "绣绣过得太苦了",
+        "onboard_time": 1755704364,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75216,
+        "num": 75216,
+        "word": "马嘉祺和音乐剧适配度为满分",
+        "onboard_time": 1755707661,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72059,
+        "num": 72059,
+        "word": "白鹿已签约欢娱9年",
+        "onboard_time": 1755694225,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69652,
+        "num": 69652,
+        "word": "台湾网红馆长谈为什么讲当归",
+        "onboard_time": 1755705683,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66905,
+        "num": 69629,
+        "word": "34岁存款100万决定提前退休",
+        "onboard_time": 1755684744,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#向西藏各族儿女致以诚挚问候#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755707518715,
+  "endTime": 1755708433733,
   "band_list": [
     {
       "raw_hot": 870945,
-      "num": 222654,
+      "num": 234612,
       "word": "千百惠去世",
       "onboard_time": 1755696149,
       "rank": 5,
@@ -19,8 +19,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 506710,
-      "num": 222574,
+      "raw_hot": 545571,
+      "num": 545571,
+      "word": "12306回应网友提议站台等候区禁烟",
+      "onboard_time": 1755706223,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 508332,
+      "num": 232216,
       "word": "难听",
       "onboard_time": 1755691884,
       "rank": 6,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 478618,
-      "num": 222326,
+      "num": 231328,
       "word": "村里出了个大明星 人们都叫他成毅",
       "onboard_time": 1755690082,
       "rank": 7,
@@ -107,12 +115,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291887,
+      "raw_hot": 297516,
       "num": 210451,
       "word": "沈佳润美美桑内中文版",
       "onboard_time": 1755702566,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 284876,
+      "num": 284876,
+      "word": "您的鳄了么订单需到场自提",
+      "onboard_time": 1755703046,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281658,
@@ -123,20 +139,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271745,
-      "num": 271745,
-      "word": "您的鳄了么订单需到场自提",
-      "onboard_time": 1755703046,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235462,
       "num": 209157,
       "word": "知情人称千百惠去世系因突发疾病",
       "onboard_time": 1755697887,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229238,
+      "num": 229238,
+      "word": "男子水下憋气29分钟刷新世界纪录",
+      "onboard_time": 1755705324,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222657,
@@ -171,14 +187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192178,
-      "num": 221807,
-      "word": "12306回应网友提议站台等候区禁烟",
-      "onboard_time": 1755706223,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183266,
       "num": 183266,
       "word": "人体最脏的部位",
@@ -187,8 +195,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 179035,
-      "num": 179035,
+      "raw_hot": 180310,
+      "num": 180310,
       "word": "如果的事",
       "onboard_time": 1755705803,
       "rank": 28,
@@ -208,14 +216,6 @@
       "word": "男孩骑车撞伤老人一旁违停车赔20余万",
       "onboard_time": 1755704004,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172780,
-      "num": 215029,
-      "word": "男子水下憋气29分钟刷新世界纪录",
-      "onboard_time": 1755705324,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -241,6 +241,14 @@
       "onboard_time": 1755702866,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142270,
+      "num": 188148,
+      "word": "孙颖莎再现学霸式复盘",
+      "onboard_time": 1755705203,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 133430,
@@ -273,14 +281,6 @@
       "onboard_time": 1755684504,
       "rank": 36,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 125590,
-      "num": 176964,
-      "word": "孙颖莎再现学霸式复盘",
-      "onboard_time": 1755705203,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 125557,
@@ -323,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104167,
+      "num": 104167,
+      "word": "王安宇新歌半秒如果",
+      "onboard_time": 1755707482,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 104119,
       "num": 104119,
       "word": "傻挑怀孕",
@@ -363,14 +371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 81490,
-      "num": 81490,
-      "word": "王安宇新歌半秒如果",
-      "onboard_time": 1755707482,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 80899,
       "num": 80899,
       "word": "34岁存款100万决定提前退休",
@@ -395,8 +395,24 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75216,
+      "num": 75216,
+      "word": "马嘉祺和音乐剧适配度为满分",
+      "onboard_time": 1755707661,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 72059,
+      "num": 72059,
+      "word": "白鹿已签约欢娱9年",
+      "onboard_time": 1755694225,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31127,
-      "num": 289101,
+      "num": 394049,
       "word": "开始盼九三阅兵了",
       "onboard_time": 1755678083,
       "rank": 2,
