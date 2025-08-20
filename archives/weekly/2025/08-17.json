@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755660613974,
+  "endTime": 1755662073128,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -835,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 789509,
+      "num": 1126321,
+      "word": "九三阅兵准备工作",
+      "onboard_time": 1755505402,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 787024,
       "num": 438434,
       "word": "真的建议不要喝点外卖送的饮料",
@@ -1323,14 +1331,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 581660,
-      "num": 1088968,
-      "word": "九三阅兵准备工作",
-      "onboard_time": 1755505402,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 580800,
       "num": 580800,
       "word": "台风母体来了",
@@ -1715,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471133,
+      "num": 471133,
+      "word": "剧宣标杆 85花杨幂90花杨紫",
+      "onboard_time": 1755659180,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471012,
       "num": 341733,
       "word": "三岁的猫坐了两年牢",
@@ -1796,7 +1804,7 @@
     },
     {
       "raw_hot": 449755,
-      "num": 229327,
+      "num": 284986,
       "word": "胖东来的切西瓜手法",
       "onboard_time": 1755655462,
       "rank": 30,
@@ -2051,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390136,
+      "num": 390136,
+      "word": "这次阅兵编设45个方队梯队",
+      "onboard_time": 1755656601,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 389802,
       "num": 389802,
       "word": "子夜归热度",
@@ -2123,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375784,
+      "num": 375784,
+      "word": "迪丽热巴 青涩女大",
+      "onboard_time": 1755654980,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 375747,
       "num": 251568,
       "word": "爷爷奶奶聘了一只小猫回家",
@@ -2171,14 +2195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363318,
-      "num": 363318,
-      "word": "剧宣标杆 85花杨幂90花杨紫",
-      "onboard_time": 1755659180,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 363194,
       "num": 363194,
       "word": "中国男篮想证明自己",
@@ -2193,14 +2209,6 @@
       "onboard_time": 1755616584,
       "rank": 37,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 360195,
-      "num": 360195,
-      "word": "迪丽热巴 青涩女大",
-      "onboard_time": 1755654980,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 358646,
@@ -2289,6 +2297,14 @@
       "onboard_time": 1755339443,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 336087,
+      "num": 336087,
+      "word": "时代少年团三专",
+      "onboard_time": 1755659062,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 335526,
@@ -2428,7 +2444,7 @@
     },
     {
       "raw_hot": 321175,
-      "num": 228578,
+      "num": 275401,
       "word": "李思思全脱稿主持出口成章",
       "onboard_time": 1755659180,
       "rank": 26,
@@ -2473,6 +2489,14 @@
       "onboard_time": 1755611306,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 315179,
+      "num": 315179,
+      "word": "所有受阅武器装备都是国产现役主战装备",
+      "onboard_time": 1755658641,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 314967,
@@ -2619,6 +2643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298283,
+      "num": 298283,
+      "word": "昀牵孟绕",
+      "onboard_time": 1755659841,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298161,
       "num": 160538,
       "word": "不要相信晚上十一点半之后的大脑",
@@ -2689,6 +2721,14 @@
       "onboard_time": 1755613526,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289420,
+      "num": 289420,
+      "word": "本次阅兵的数个首次",
+      "onboard_time": 1755659600,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 287890,
@@ -2867,14 +2907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276741,
-      "num": 378286,
-      "word": "这次阅兵编设45个方队梯队",
-      "onboard_time": 1755656601,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 275796,
       "num": 275796,
       "word": "BLG对战iG",
@@ -2953,14 +2985,6 @@
       "onboard_time": 1755526042,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268157,
-      "num": 268157,
-      "word": "时代少年团三专",
-      "onboard_time": 1755659062,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 267540,
@@ -3395,6 +3419,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 230597,
+      "num": 230597,
+      "word": "20250903",
+      "onboard_time": 1755660081,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230587,
       "num": 230587,
       "word": "热巴这个回眸",
@@ -3507,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222449,
+      "num": 222449,
+      "word": "以为王俊凯夸张没想到是收敛",
+      "onboard_time": 1755660142,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221734,
       "num": 221734,
       "word": "京东已为15万全职骑手缴纳五险一金",
@@ -3585,6 +3625,14 @@
       "onboard_time": 1755340941,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215900,
+      "num": 215900,
+      "word": "mini版labubu",
+      "onboard_time": 1755660263,
+      "rank": 37,
+      "category": "休闲"
     },
     {
       "raw_hot": 215798,
@@ -3772,7 +3820,7 @@
     },
     {
       "raw_hot": 208124,
-      "num": 208124,
+      "num": 216720,
       "word": "30万内增程SUV还卷得动吗",
       "onboard_time": 1755657381,
       "rank": 24,
@@ -3947,14 +3995,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 201394,
-      "num": 201394,
-      "word": "所有受阅武器装备都是国产现役主战装备",
-      "onboard_time": 1755658641,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 201278,
       "num": 201278,
       "word": "庞博采访",
@@ -4025,6 +4065,14 @@
       "onboard_time": 1755502163,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 199849,
+      "num": 199849,
+      "word": "黄杨钿甜补拍冰湖重生",
+      "onboard_time": 1755661041,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 199541,
@@ -4153,6 +4201,14 @@
       "onboard_time": 1755437004,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197431,
+      "num": 225236,
+      "word": "阅兵将展现抗战功勋荣誉旗帜",
+      "onboard_time": 1755660563,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 197335,
@@ -4321,6 +4377,14 @@
       "onboard_time": 1755491485,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193127,
+      "num": 193127,
+      "word": "怪说不得韩国人健身卷呢",
+      "onboard_time": 1755661522,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 193011,
@@ -4681,6 +4745,14 @@
       "onboard_time": 1755646760,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182936,
+      "num": 182936,
+      "word": "刘芊萤说想和赵丽颖老师合作",
+      "onboard_time": 1755661221,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 182879,
@@ -5411,14 +5483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166818,
-      "num": 166818,
-      "word": "以为王俊凯夸张没想到是收敛",
-      "onboard_time": 1755660142,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166720,
       "num": 166720,
       "word": "姚明轻拍邓超头",
@@ -5691,6 +5755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160680,
+      "num": 160680,
+      "word": "巨大火球飞越日本上空",
+      "onboard_time": 1755661041,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 160678,
       "num": 160678,
       "word": "王心凌北京演唱会嘉宾是周深",
@@ -5745,6 +5817,14 @@
       "onboard_time": 1755409761,
       "rank": 33,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 159764,
+      "num": 159764,
+      "word": "生万物让山东文旅有人脉了",
+      "onboard_time": 1755661881,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 159752,
@@ -5851,6 +5931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 157072,
+      "num": 157072,
+      "word": "哈利波特 剧版",
+      "onboard_time": 1755661581,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156936,
       "num": 156936,
       "word": "无畏契约手游直播",
@@ -5867,12 +5955,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156677,
-      "num": 156677,
-      "word": "昀牵孟绕",
-      "onboard_time": 1755659841,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 156730,
+      "num": 156730,
+      "word": "冯骥保证悟空DLC一定会有",
+      "onboard_time": 1755661822,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 156216,
@@ -6211,6 +6299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149131,
+      "num": 149131,
+      "word": "中华儿女歼灭日军150多万人",
+      "onboard_time": 1755660142,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149129,
       "num": 149129,
       "word": "恋与制作人",
@@ -6483,6 +6579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145328,
+      "num": 171612,
+      "word": "极氪9X或将搭载宾利顶配音响",
+      "onboard_time": 1755660921,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145301,
       "num": 135707,
       "word": "以后男女主醉酒暧昧都这么拍",
@@ -6627,14 +6731,6 @@
       "category": "国际时政,国内时政"
     },
     {
-      "raw_hot": 142618,
-      "num": 142618,
-      "word": "中华儿女歼灭日军150多万人",
-      "onboard_time": 1755660142,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 142280,
       "num": 142280,
       "word": "像中国火箭一飞冲天",
@@ -6777,14 +6873,6 @@
       "onboard_time": 1755400281,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139719,
-      "num": 139719,
-      "word": "mini版labubu",
-      "onboard_time": 1755660263,
-      "rank": 37,
-      "category": "休闲"
     },
     {
       "raw_hot": 139546,
@@ -7571,14 +7659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129028,
-      "num": 129028,
-      "word": "20250903",
-      "onboard_time": 1755660081,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 128971,
       "num": 128971,
       "word": "撒贝宁 马丽都出来沈腾呢",
@@ -7929,14 +8009,6 @@
       "onboard_time": 1755523583,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 123918,
-      "num": 123918,
-      "word": "阅兵将展现抗战功勋荣誉旗帜",
-      "onboard_time": 1755660563,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 123819,
@@ -8337,14 +8409,6 @@
       "onboard_time": 1755435262,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117998,
-      "num": 117998,
-      "word": "本次阅兵的数个首次",
-      "onboard_time": 1755659600,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 117975,
@@ -11059,12 +11123,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61801,
+      "num": 165350,
+      "word": "医院通报弄错CT图像致女子误诊",
+      "onboard_time": 1755660921,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61353,
       "num": 252956,
       "word": "苏超现场网速第一友谊第十四",
       "onboard_time": 1755434062,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61151,
+      "num": 318699,
+      "word": "杨幂说还得是你王小卤",
+      "onboard_time": 1755661102,
+      "rank": 14,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 61093,
@@ -11113,6 +11193,14 @@
       "onboard_time": 1755448879,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 59641,
+      "num": 285020,
+      "word": "王一博能有多百搭",
+      "onboard_time": 1755661102,
+      "rank": 19,
+      "category": "作品衍生,数码"
     },
     {
       "raw_hot": 59481,
@@ -11433,6 +11521,14 @@
       "onboard_time": 1755608006,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46091,
+      "num": 161011,
+      "word": "中印外长会谈达成10项成果",
+      "onboard_time": 1755662063,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46082,
@@ -12123,6 +12219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27030,
+      "num": 160714,
+      "word": "梓渝对自己的角色理解",
+      "onboard_time": 1755661881,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 26777,
       "num": 38401,
       "word": "梓渝晒势界杂志封面",
@@ -12153,6 +12257,14 @@
       "onboard_time": 1755456376,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25903,
+      "num": 668352,
+      "word": "网警护航新学期筑牢网络安全门",
+      "onboard_time": 1755650602,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25853,
@@ -12353,14 +12465,6 @@
       "onboard_time": 1755457754,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21469,
-      "num": 668352,
-      "word": "网警护航新学期筑牢网络安全门",
-      "onboard_time": 1755650602,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21460,
@@ -12601,6 +12705,9 @@
     },
     {
       "word": "#西藏工作关系党和国家工作大局#"
+    },
+    {
+      "word": "#总书记心系雪域高原#"
     }
   ]
 }
