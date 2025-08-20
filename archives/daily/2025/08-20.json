@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755665145850,
+  "endTime": 1755667580237,
   "band_list": [
     {
       "raw_hot": 1811308,
@@ -35,7 +35,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1157624,
+      "raw_hot": 1241552,
+      "num": 237257,
+      "word": "五阿哥再见杨幂已是隔辈",
+      "onboard_time": 1755666262,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1236877,
       "num": 341285,
       "word": "迪丽热巴时尚芭莎九月刊预告",
       "onboard_time": 1755664883,
@@ -49,6 +57,14 @@
       "onboard_time": 1755609866,
       "rank": 0,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1025955,
+      "num": 268976,
+      "word": "高铁站台 禁烟",
+      "onboard_time": 1755663742,
+      "rank": 39,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 981456,
@@ -187,6 +203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 428037,
+      "num": 428037,
+      "word": "QQ音乐 三专",
+      "onboard_time": 1755663622,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 418603,
       "num": 375784,
       "word": "迪丽热巴 青涩女大",
@@ -203,11 +227,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 408267,
+      "raw_hot": 409990,
       "num": 318208,
       "word": "文淇 她是龙",
       "onboard_time": 1755663981,
       "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 400647,
+      "num": 229346,
+      "word": "热巴你是要砸死你姐吗",
+      "onboard_time": 1755665903,
+      "rank": 16,
       "category": "作品衍生"
     },
     {
@@ -259,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 376457,
+      "num": 229595,
+      "word": "于正说不会强迫白鹿续约",
+      "onboard_time": 1755664763,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367428,
       "num": 362185,
       "word": "幂迪 仙女夫妇",
@@ -275,20 +315,20 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 363072,
+      "num": 363072,
+      "word": "生万物种地吧直播",
+      "onboard_time": 1755666322,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361467,
       "num": 361467,
       "word": "泡泡玛特新品没卖已被炒到800元",
       "onboard_time": 1755616584,
       "rank": 7,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 346268,
-      "num": 346268,
-      "word": "QQ音乐 三专",
-      "onboard_time": 1755663622,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 336792,
@@ -379,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291557,
+      "num": 291557,
+      "word": "怪不得说韩国人健身卷呢",
+      "onboard_time": 1755661522,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 284718,
       "num": 189434,
       "word": "检验睡没睡够的金标准",
@@ -393,6 +441,14 @@
       "onboard_time": 1755656960,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 281820,
+      "num": 223506,
+      "word": "男女主在接吻男二在接头",
+      "onboard_time": 1755665542,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 281763,
@@ -411,20 +467,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 279705,
+      "num": 279705,
+      "word": "种地吧",
+      "onboard_time": 1755664402,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271172,
       "num": 231321,
       "word": "宋佳演我嗑井柏然刘雯",
       "onboard_time": 1755645319,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 268976,
-      "num": 268976,
-      "word": "高铁站台 禁烟",
-      "onboard_time": 1755663742,
-      "rank": 39,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 265506,
@@ -457,6 +513,14 @@
       "onboard_time": 1755615205,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247251,
+      "num": 224424,
+      "word": "EXO编舞 走错一步被队友刀死",
+      "onboard_time": 1755666862,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 247024,
@@ -531,12 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216811,
-      "num": 265526,
-      "word": "种地吧",
-      "onboard_time": 1755664402,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 218343,
+      "num": 218343,
+      "word": "杨幂辛芷蕾聊生万物",
+      "onboard_time": 1755665362,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 215018,
@@ -553,6 +617,22 @@
       "onboard_time": 1755663202,
       "rank": 34,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 211623,
+      "num": 241684,
+      "word": "警方回应3男子欲将醉酒女生抬上车",
+      "onboard_time": 1755664283,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 209334,
+      "num": 209334,
+      "word": "赵今麦 妹妹今晚还回家吗",
+      "onboard_time": 1755667342,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209208,
@@ -635,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198740,
+      "num": 198740,
+      "word": "清华学生花七天改造北京海淀区单间",
+      "onboard_time": 1755667402,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198446,
       "num": 139698,
       "word": "赵今麦给热巴飞吻",
@@ -691,12 +779,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188194,
-      "num": 188194,
-      "word": "于正说不会强迫白鹿续约",
-      "onboard_time": 1755664763,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 188960,
+      "num": 188960,
+      "word": "LV口红卖1200元",
+      "onboard_time": 1755665182,
+      "rank": 33,
+      "category": "时尚"
     },
     {
       "raw_hot": 185999,
@@ -723,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185433,
+      "num": 185433,
+      "word": "24岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755666022,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183260,
       "num": 183260,
       "word": "黑神话官号更名",
@@ -747,12 +843,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169057,
+      "num": 164209,
+      "word": "告诉秦岚辛芷蕾今晚不回去了",
+      "onboard_time": 1755667102,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168821,
       "num": 136326,
       "word": "W盛典内场",
       "onboard_time": 1755603987,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167981,
+      "num": 193268,
+      "word": "中华儿女歼灭日军150多万人",
+      "onboard_time": 1755660142,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165469,
@@ -787,8 +899,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158566,
-      "num": 158566,
+      "raw_hot": 159135,
+      "num": 204855,
       "word": "锦月如歌大结局",
       "onboard_time": 1755664343,
       "rank": 45,
@@ -811,12 +923,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153654,
-      "num": 193268,
-      "word": "中华儿女歼灭日军150多万人",
-      "onboard_time": 1755660142,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 156224,
+      "num": 188115,
+      "word": "生万物",
+      "onboard_time": 1755666083,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148925,
+      "num": 148925,
+      "word": "曾火遍全国的贵州村超现状如何",
+      "onboard_time": 1755666382,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 147659,
@@ -867,6 +987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 143070,
+      "num": 226766,
+      "word": "空基战略重器将亮相阅兵场",
+      "onboard_time": 1755666022,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 141490,
       "num": 141490,
       "word": "80名礼号手寓意抗战胜利80周年",
@@ -881,6 +1009,22 @@
       "onboard_time": 1755659422,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139105,
+      "num": 139105,
+      "word": "何猷君成凯尔特人老板之一",
+      "onboard_time": 1755665362,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138717,
+      "num": 190070,
+      "word": "W主持人扔手卡",
+      "onboard_time": 1755664944,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136699,
@@ -1203,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99822,
+      "num": 181737,
+      "word": "受阅民兵着装有很大创新",
+      "onboard_time": 1755667462,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 99057,
       "num": 117324,
       "word": "刘浩存 翡翠塑",
@@ -1315,14 +1467,6 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 79133,
-      "num": 241684,
-      "word": "警方回应3男子欲将醉酒女生抬上车",
-      "onboard_time": 1755664283,
-      "rank": 29,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 78533,
       "num": 207571,
       "word": "阅兵演练看一次震撼一次",
@@ -1403,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72940,
+      "num": 183272,
+      "word": "闫妮姚晨孙俪 三大青衣合体",
+      "onboard_time": 1755667402,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71465,
       "num": 71465,
       "word": "学校回应20岁女留学生遭诈骗自杀",
@@ -1451,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61387,
+      "num": 181579,
+      "word": "文淇不要这么直勾勾看女生",
+      "onboard_time": 1755666741,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 57025,
       "num": 57025,
       "word": "王曼昱vs迪亚兹",
@@ -1473,14 +1633,6 @@
       "onboard_time": 1755614724,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50749,
-      "num": 190070,
-      "word": "W主持人扔手卡",
-      "onboard_time": 1755664944,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 49330,
@@ -1625,6 +1777,14 @@
       "onboard_time": 1755664283,
       "rank": 39,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 22627,
+      "num": 151274,
+      "word": "阿富汗客车司机超速行驶致76死",
+      "onboard_time": 1755667222,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18308,

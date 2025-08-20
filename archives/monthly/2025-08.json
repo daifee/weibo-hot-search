@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755665145850,
+  "endTime": 1755667580237,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2499,6 +2499,14 @@
       "category": "读书作家,民生新闻"
     },
     {
+      "raw_hot": 1241552,
+      "num": 237257,
+      "word": "五阿哥再见杨幂已是隔辈",
+      "onboard_time": 1755666262,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1240822,
       "num": 498020,
       "word": "张元英汗毛",
@@ -2545,6 +2553,14 @@
       "onboard_time": 1754236462,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1236877,
+      "num": 341285,
+      "word": "迪丽热巴时尚芭莎九月刊预告",
+      "onboard_time": 1755664883,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1235374,
@@ -2809,14 +2825,6 @@
       "onboard_time": 1755058822,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1157624,
-      "num": 341285,
-      "word": "迪丽热巴时尚芭莎九月刊预告",
-      "onboard_time": 1755664883,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1156674,
@@ -3473,6 +3481,14 @@
       "onboard_time": 1754978244,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1025955,
+      "num": 268976,
+      "word": "高铁站台 禁烟",
+      "onboard_time": 1755663742,
+      "rank": 39,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 1024663,
@@ -11323,6 +11339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428037,
+      "num": 428037,
+      "word": "QQ音乐 三专",
+      "onboard_time": 1755663622,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 427781,
       "num": 427781,
       "word": "演唱会迟到被汪苏泷抓个正着",
@@ -11811,6 +11835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409990,
+      "num": 318208,
+      "word": "文淇 她是龙",
+      "onboard_time": 1755663981,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409641,
       "num": 409641,
       "word": "狂魔哥开团Faker和Uzi",
@@ -11857,14 +11889,6 @@
       "onboard_time": 1754040503,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 408267,
-      "num": 318208,
-      "word": "文淇 她是龙",
-      "onboard_time": 1755663981,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 407970,
@@ -12145,6 +12169,14 @@
       "onboard_time": 1755057682,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400647,
+      "num": 229346,
+      "word": "热巴你是要砸死你姐吗",
+      "onboard_time": 1755665903,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 400378,
@@ -12971,6 +13003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376457,
+      "num": 229595,
+      "word": "于正说不会强迫白鹿续约",
+      "onboard_time": 1755664763,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376271,
       "num": 376271,
       "word": "iG对战AL",
@@ -13305,6 +13345,14 @@
       "onboard_time": 1755448161,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 363072,
+      "num": 363072,
+      "word": "生万物种地吧直播",
+      "onboard_time": 1755666322,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 362764,
@@ -13801,14 +13849,6 @@
       "onboard_time": 1755405443,
       "rank": 45,
       "category": "民生新闻,读书作家"
-    },
-    {
-      "raw_hot": 346268,
-      "num": 346268,
-      "word": "QQ音乐 三专",
-      "onboard_time": 1755663622,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 346198,
@@ -16003,6 +16043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291557,
+      "num": 291557,
+      "word": "怪不得说韩国人健身卷呢",
+      "onboard_time": 1755661522,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291491,
       "num": 204890,
       "word": "六小龄童发文悼念朱龙广",
@@ -16475,6 +16523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281820,
+      "num": 223506,
+      "word": "男女主在接吻男二在接头",
+      "onboard_time": 1755665542,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281763,
       "num": 281763,
       "word": "邢菲是生万物全组妹宝",
@@ -16521,6 +16577,14 @@
       "onboard_time": 1754279484,
       "rank": 22,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 279705,
+      "num": 279705,
+      "word": "种地吧",
+      "onboard_time": 1754753184,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 279480,
@@ -17097,14 +17161,6 @@
       "onboard_time": 1754848156,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 268976,
-      "num": 268976,
-      "word": "高铁站台 禁烟",
-      "onboard_time": 1755663742,
-      "rank": 39,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 268836,
@@ -18369,6 +18425,14 @@
       "onboard_time": 1755596724,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 247251,
+      "num": 224424,
+      "word": "EXO编舞 走错一步被队友刀死",
+      "onboard_time": 1755666862,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 247208,
@@ -20651,6 +20715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218343,
+      "num": 218343,
+      "word": "杨幂辛芷蕾聊生万物",
+      "onboard_time": 1755665362,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218181,
       "num": 218181,
       "word": "韩国男性热衷去日本相亲",
@@ -20809,14 +20881,6 @@
       "onboard_time": 1754212285,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216811,
-      "num": 265526,
-      "word": "种地吧",
-      "onboard_time": 1754753184,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 216686,
@@ -21411,6 +21475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211623,
+      "num": 241684,
+      "word": "警方回应3男子欲将醉酒女生抬上车",
+      "onboard_time": 1755664283,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 211418,
       "num": 211195,
       "word": "黄一鸣自曝花10万整容",
@@ -21681,6 +21753,14 @@
       "onboard_time": 1755058642,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 209334,
+      "num": 209334,
+      "word": "赵今麦 妹妹今晚还回家吗",
+      "onboard_time": 1755667342,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209321,
@@ -23713,6 +23793,14 @@
       "onboard_time": 1754142091,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198740,
+      "num": 198740,
+      "word": "清华学生花七天改造北京海淀区单间",
+      "onboard_time": 1755667402,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 198654,
@@ -25971,6 +26059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188960,
+      "num": 188960,
+      "word": "LV口红卖1200元",
+      "onboard_time": 1755665182,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 188924,
       "num": 188924,
       "word": "对接称刘亦菲不去W盛典",
@@ -26145,14 +26241,6 @@
       "onboard_time": 1754126542,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 188194,
-      "num": 188194,
-      "word": "于正说不会强迫白鹿续约",
-      "onboard_time": 1755664763,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 188124,
@@ -26761,6 +26849,14 @@
       "onboard_time": 1754987843,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 185433,
+      "num": 185433,
+      "word": "24岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755666022,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185389,
@@ -30315,6 +30411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169057,
+      "num": 164209,
+      "word": "告诉秦岚辛芷蕾今晚不回去了",
+      "onboard_time": 1755667102,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169031,
       "num": 160667,
       "word": "李乃文 五旬老汉渡嬷劫",
@@ -30505,6 +30609,14 @@
       "onboard_time": 1755524063,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167981,
+      "num": 193268,
+      "word": "中华儿女歼灭日军150多万人",
+      "onboard_time": 1755660142,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167974,
@@ -32795,6 +32907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159135,
+      "num": 204855,
+      "word": "锦月如歌大结局",
+      "onboard_time": 1755664343,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159118,
       "num": 159118,
       "word": "85花总能播一部剧立马回血",
@@ -32977,14 +33097,6 @@
       "onboard_time": 1755236542,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158566,
-      "num": 158566,
-      "word": "锦月如歌大结局",
-      "onboard_time": 1755664343,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 158542,
@@ -34281,14 +34393,6 @@
       "onboard_time": 1754641523,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153654,
-      "num": 193268,
-      "word": "中华儿女歼灭日军150多万人",
-      "onboard_time": 1755660142,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 153641,
@@ -35713,6 +35817,14 @@
       "onboard_time": 1754706741,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148925,
+      "num": 148925,
+      "word": "曾火遍全国的贵州村超现状如何",
+      "onboard_time": 1755666382,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 148892,
@@ -37683,6 +37795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143070,
+      "num": 226766,
+      "word": "空基战略重器将亮相阅兵场",
+      "onboard_time": 1755666022,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143003,
       "num": 143003,
       "word": "丁程鑫宋亚轩 泪桥",
@@ -39107,6 +39227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139105,
+      "num": 139105,
+      "word": "何猷君成凯尔特人老板之一",
+      "onboard_time": 1755665362,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139072,
       "num": 139072,
       "word": "原来省钱有那么多信息差",
@@ -39265,6 +39393,14 @@
       "onboard_time": 1754663305,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138717,
+      "num": 190070,
+      "word": "W主持人扔手卡",
+      "onboard_time": 1755664944,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138667,
@@ -53867,6 +54003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99822,
+      "num": 181737,
+      "word": "受阅民兵着装有很大创新",
+      "onboard_time": 1755667462,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 99820,
       "num": 99820,
       "word": "王力宏任贤齐给我整哪年来了",
@@ -58179,14 +58323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79133,
-      "num": 241684,
-      "word": "警方回应3男子欲将醉酒女生抬上车",
-      "onboard_time": 1755664283,
-      "rank": 29,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 79125,
       "num": 100613,
       "word": "澳大利亚男篮晋级亚洲杯四强",
@@ -59057,6 +59193,14 @@
       "onboard_time": 1754407523,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72940,
+      "num": 183272,
+      "word": "闫妮姚晨孙俪 三大青衣合体",
+      "onboard_time": 1755667402,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 72926,
@@ -60441,6 +60585,14 @@
       "onboard_time": 1754581881,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61387,
+      "num": 181579,
+      "word": "文淇不要这么直勾勾看女生",
+      "onboard_time": 1755666741,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 61353,
@@ -62009,14 +62161,6 @@
       "onboard_time": 1754661745,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50749,
-      "num": 190070,
-      "word": "W主持人扔手卡",
-      "onboard_time": 1755664944,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 50719,
@@ -66097,6 +66241,14 @@
       "onboard_time": 1755477802,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22627,
+      "num": 151274,
+      "word": "阿富汗客车司机超速行驶致76死",
+      "onboard_time": 1755667222,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22585,
