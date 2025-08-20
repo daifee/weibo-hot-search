@@ -1,10 +1,10 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755708433733,
+  "endTime": 1755710580841,
   "band_list": [
     {
       "raw_hot": 870945,
-      "num": 234612,
+      "num": 237286,
       "word": "千百惠去世",
       "onboard_time": 1755696149,
       "rank": 5,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545571,
-      "num": 545571,
+      "raw_hot": 709508,
+      "num": 709508,
       "word": "12306回应网友提议站台等候区禁烟",
       "onboard_time": 1755706223,
       "rank": 9,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 508332,
-      "num": 232216,
+      "num": 233941,
       "word": "难听",
       "onboard_time": 1755691884,
       "rank": 6,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 297516,
-      "num": 210451,
+      "num": 231321,
       "word": "沈佳润美美桑内中文版",
       "onboard_time": 1755702566,
       "rank": 23,
@@ -139,20 +139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270699,
+      "num": 270699,
+      "word": "男子水下憋气29分钟刷新世界纪录",
+      "onboard_time": 1755705324,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235462,
       "num": 209157,
       "word": "知情人称千百惠去世系因突发疾病",
       "onboard_time": 1755697887,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229238,
-      "num": 229238,
-      "word": "男子水下憋气29分钟刷新世界纪录",
-      "onboard_time": 1755705324,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222657,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 142270,
-      "num": 188148,
+      "num": 221963,
       "word": "孙颖莎再现学霸式复盘",
       "onboard_time": 1755705203,
       "rank": 29,
@@ -411,10 +411,50 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63281,
+      "num": 63281,
+      "word": "刘耀文站姐神图这一块",
+      "onboard_time": 1755696088,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 55970,
+      "num": 55970,
+      "word": "张艺兴也觉得自己有点像张艺兴",
+      "onboard_time": 1755708920,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48009,
+      "num": 53085,
+      "word": "周也 也人追剧又唱歌",
+      "onboard_time": 1755709760,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 45492,
+      "num": 106058,
+      "word": "市监局回应游客称坐躺椅被催收费",
+      "onboard_time": 1755708979,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31127,
       "num": 394049,
       "word": "开始盼九三阅兵了",
       "onboard_time": 1755678083,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9112,
+      "num": 282742,
+      "word": "西藏今昔对比太震撼",
+      "onboard_time": 1755682823,
       "rank": 2,
       "category": "民生新闻"
     }
