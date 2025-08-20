@@ -1,0 +1,410 @@
+{
+  "runTime": 1755696975934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2409604,
+        "num": 2409604,
+        "word": "单飞不解散",
+        "onboard_time": 1755694525,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 771047,
+        "num": 771047,
+        "word": "3万金镯子被猫推进垃圾桶后扔了",
+        "onboard_time": 1755691524,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35603,
+        "num": 661299,
+        "word": "开始盼九三阅兵了",
+        "onboard_time": 1755678083,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2789434,
+        "num": 626633,
+        "word": "难听",
+        "onboard_time": 1755691884,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 575732,
+        "num": 575732,
+        "word": "因父母求子被砍手女生的现状",
+        "onboard_time": 1755689124,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563701,
+        "num": 563701,
+        "word": "大理洱海被恶意放置信号屏蔽器",
+        "onboard_time": 1755692302,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2250862,
+        "num": 560897,
+        "word": "千百惠去世",
+        "onboard_time": 1755696149,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1175273,
+        "num": 560251,
+        "word": "村里出了个大明星 人们都叫他成毅",
+        "onboard_time": 1755690082,
+        "rank": 7,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 555535,
+        "num": 555535,
+        "word": "失踪的梨泰院惨案救援消防员已身亡",
+        "onboard_time": 1755688761,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64525,
+        "num": 514115,
+        "word": "摄影师称旅拍店附近发现信号屏蔽器",
+        "onboard_time": 1755696088,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1108293,
+        "num": 509394,
+        "word": "破音",
+        "onboard_time": 1755694345,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 782063,
+        "num": 496114,
+        "word": "赵丽颖造型 TinaZ",
+        "onboard_time": 1755693325,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 473172,
+        "num": 473172,
+        "word": "绣绣意外流产了",
+        "onboard_time": 1755690142,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455664,
+        "num": 455664,
+        "word": "金泰熙谈两个女儿长相",
+        "onboard_time": 1755694886,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433501,
+        "num": 433501,
+        "word": "34岁存款100万决定提前退休",
+        "onboard_time": 1755684744,
+        "rank": 14,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 339280,
+        "num": 339280,
+        "word": "宋亚轩雨天",
+        "onboard_time": 1755694585,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 301860,
+        "num": 301860,
+        "word": "孙颖莎vs袁嘉楠",
+        "onboard_time": 1755693747,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281085,
+        "num": 281085,
+        "word": "毛雪汪",
+        "onboard_time": 1755690623,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273155,
+        "num": 273155,
+        "word": "三亚游客身体不适坐海边躺椅被催收费",
+        "onboard_time": 1755684141,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238961,
+        "num": 238961,
+        "word": "男子遇五步蛇和竹叶青打架被误伤",
+        "onboard_time": 1755684683,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273426,
+        "num": 238895,
+        "word": "白鹿已签约欢娱9年",
+        "onboard_time": 1755694225,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248072,
+        "num": 238858,
+        "word": "歌手luz去世",
+        "onboard_time": 1755683243,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238799,
+        "num": 238799,
+        "word": "泪桥",
+        "onboard_time": 1755691103,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235126,
+        "num": 235126,
+        "word": "成毅直播",
+        "onboard_time": 1755694405,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 201771,
+        "num": 219079,
+        "word": "孙颖莎一天2战均稳稳晋级",
+        "onboard_time": 1755696149,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213769,
+        "num": 213769,
+        "word": "时代少年团爱你爱我手势舞",
+        "onboard_time": 1755695065,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208853,
+        "num": 208853,
+        "word": "宁苏苏成全银子也是在弥补自己",
+        "onboard_time": 1755696327,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203594,
+        "num": 204357,
+        "word": "orm哭了",
+        "onboard_time": 1755694225,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196235,
+        "num": 204199,
+        "word": "西藏自治区成立60周年庆祝活动",
+        "onboard_time": 1755685883,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195149,
+        "num": 204195,
+        "word": "王曼昱谈与孙颖莎搭档变化",
+        "onboard_time": 1755695545,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204195,
+        "num": 204194,
+        "word": "丁程鑫D舞台",
+        "onboard_time": 1755696389,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203956,
+        "num": 203956,
+        "word": "lingorm",
+        "onboard_time": 1755693564,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203453,
+        "num": 203453,
+        "word": "陈奕迅自曝毕生遗憾",
+        "onboard_time": 1755696029,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189764,
+        "num": 200846,
+        "word": "宋亚轩一开口的安定感",
+        "onboard_time": 1755695846,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200502,
+        "num": 200502,
+        "word": "马嘉祺solo",
+        "onboard_time": 1755695786,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179929,
+        "num": 198440,
+        "word": "马斯克被曝或动用财力支持美副总统",
+        "onboard_time": 1755693747,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198165,
+        "num": 198165,
+        "word": "刘耀文站姐神图这一块",
+        "onboard_time": 1755696088,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192265,
+        "num": 192265,
+        "word": "孙颖莎连续进攻打出了气势",
+        "onboard_time": 1755696266,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186061,
+        "num": 186061,
+        "word": "章昊说惜败桃黑黑老师",
+        "onboard_time": 1755684504,
+        "rank": 38,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 55279,
+        "num": 182692,
+        "word": "银子 我是来揍你的",
+        "onboard_time": 1755696867,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181254,
+        "num": 181254,
+        "word": "严浩翔遗憾",
+        "onboard_time": 1755692905,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179429,
+        "num": 179429,
+        "word": "罗永浩宣布将做泡面",
+        "onboard_time": 1755696149,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178887,
+        "num": 178887,
+        "word": "孙俪 女装邓超",
+        "onboard_time": 1755691344,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177063,
+        "num": 177063,
+        "word": "人体最脏的部位",
+        "onboard_time": 1755696749,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175879,
+        "num": 175879,
+        "word": "王奕然疑似复合",
+        "onboard_time": 1755695545,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175537,
+        "num": 175537,
+        "word": "村BA开幕直播",
+        "onboard_time": 1755694105,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147560,
+        "num": 147560,
+        "word": "北京国安vs云南玉昆",
+        "onboard_time": 1755696930,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145886,
+        "num": 145886,
+        "word": "樊振东现身纪录片走出荣耀",
+        "onboard_time": 1755696209,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143114,
+        "num": 143114,
+        "word": "被毒杀儿女舅舅称男方家族群喊话收尸",
+        "onboard_time": 1755695126,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16281,
+        "num": 142574,
+        "word": "和杨幂一起吃王小卤看生万物",
+        "onboard_time": 1755696029,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#向西藏各族儿女致以诚挚问候#"
+    }
+  }
+}
