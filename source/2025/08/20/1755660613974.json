@@ -1,0 +1,410 @@
+{
+  "runTime": 1755660613974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 556054,
+        "num": 1088968,
+        "word": "九三阅兵准备工作",
+        "onboard_time": 1755655581,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1015429,
+        "num": 1015429,
+        "word": "九三阅兵时长约70分钟",
+        "onboard_time": 1755656421,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19293,
+        "num": 547887,
+        "word": "网警护航新学期筑牢网络安全门",
+        "onboard_time": 1755650602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1539529,
+        "num": 534593,
+        "word": "提前7分钟下班车祸死亡被认定工伤",
+        "onboard_time": 1755657321,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514553,
+        "num": 514553,
+        "word": "黑神话",
+        "onboard_time": 1755636554,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 363318,
+        "num": 363318,
+        "word": "剧宣标杆 85花杨幂90花杨紫",
+        "onboard_time": 1755659180,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360195,
+        "num": 360195,
+        "word": "迪丽热巴 青涩女大",
+        "onboard_time": 1755654980,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 351612,
+        "num": 351612,
+        "word": "南京10元手冲咖啡阿姨现状",
+        "onboard_time": 1755653361,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322866,
+        "num": 322866,
+        "word": "九三阅兵准备工作答记者问",
+        "onboard_time": 1755645739,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 276741,
+        "num": 322706,
+        "word": "这次阅兵编设45个方队梯队",
+        "onboard_time": 1755656601,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1427542,
+        "num": 322516,
+        "word": "黄杨钿甜风波后首露面",
+        "onboard_time": 1755655340,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 699929,
+        "num": 322123,
+        "word": "网友爸爸给迪丽热巴当司机",
+        "onboard_time": 1755646099,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495949,
+        "num": 321598,
+        "word": "毛晓彤方否认与陈晓恋情",
+        "onboard_time": 1755615444,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321486,
+        "num": 321486,
+        "word": "闲置太久的鞋子不要再穿了",
+        "onboard_time": 1755647421,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305181,
+        "num": 305181,
+        "word": "刘诗诗去陪李庚希",
+        "onboard_time": 1755654022,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268157,
+        "num": 268157,
+        "word": "时代少年团三专",
+        "onboard_time": 1755659062,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253797,
+        "num": 253797,
+        "word": "当间谍线人后怕暴露辞职考公",
+        "onboard_time": 1755649943,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249494,
+        "num": 249494,
+        "word": "男子海上漂流6天瘦成皮包骨",
+        "onboard_time": 1755649521,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234713,
+        "num": 234713,
+        "word": "三亚海事局回应男子海上漂流6天",
+        "onboard_time": 1755653782,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167583,
+        "num": 229800,
+        "word": "W盛典群星合影",
+        "onboard_time": 1755646519,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 407795,
+        "num": 229327,
+        "word": "胖东来的切西瓜手法",
+        "onboard_time": 1755655462,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 321175,
+        "num": 228578,
+        "word": "李思思全脱稿主持出口成章",
+        "onboard_time": 1755659180,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225220,
+        "num": 225220,
+        "word": "抗战胜利80周年合唱曲目公开",
+        "onboard_time": 1755658222,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215018,
+        "num": 215018,
+        "word": "樊振东孙颖莎夺冠名场面",
+        "onboard_time": 1755657141,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201394,
+        "num": 201394,
+        "word": "所有受阅武器装备都是国产现役主战装备",
+        "onboard_time": 1755658641,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187497,
+        "num": 187497,
+        "word": "女子与大13岁男友恋爱染3种高危HPV",
+        "onboard_time": 1755653841,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172293,
+        "num": 172293,
+        "word": "张雨绮倪妮一桌就你俩最吵",
+        "onboard_time": 1755652701,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157412,
+        "num": 168491,
+        "word": "王晶说追星是很愚蠢的行为",
+        "onboard_time": 1755653001,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136571,
+        "num": 167454,
+        "word": "30万内增程SUV还卷得动吗",
+        "onboard_time": 1755657381,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25834,
+        "num": 166942,
+        "word": "阅兵体现能打胜仗实力底气",
+        "onboard_time": 1755660142,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 166818,
+        "num": 166818,
+        "word": "以为王俊凯夸张没想到是收敛",
+        "onboard_time": 1755660142,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158440,
+        "num": 158440,
+        "word": "欧豪统一了我全家的审美",
+        "onboard_time": 1755657263,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157440,
+        "num": 157440,
+        "word": "纪念大会将奏唱抗战曲目",
+        "onboard_time": 1755660501,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156677,
+        "num": 156677,
+        "word": "昀牵孟绕",
+        "onboard_time": 1755659841,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151810,
+        "num": 151810,
+        "word": "阅兵有阅兵式分列式2个步骤",
+        "onboard_time": 1755656541,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144581,
+        "num": 144581,
+        "word": "杨超越700度近视",
+        "onboard_time": 1755619702,
+        "rank": 35,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 142618,
+        "num": 142618,
+        "word": "中华儿女歼灭日军150多万人",
+        "onboard_time": 1755660142,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139719,
+        "num": 139719,
+        "word": "mini版labubu",
+        "onboard_time": 1755660263,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 139458,
+        "num": 139458,
+        "word": "阅兵",
+        "onboard_time": 1755656421,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130158,
+        "num": 130158,
+        "word": "于正说再多热度也比不上作品的力量",
+        "onboard_time": 1755660441,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129453,
+        "num": 129453,
+        "word": "军乐团14个排面寓意14年抗战",
+        "onboard_time": 1755659422,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129028,
+        "num": 129028,
+        "word": "20250903",
+        "onboard_time": 1755660081,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127737,
+        "num": 127737,
+        "word": "18只猫成了海鲜摊的掌柜",
+        "onboard_time": 1755650843,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127649,
+        "num": 127649,
+        "word": "80名礼号手寓意抗战胜利80周年",
+        "onboard_time": 1755659422,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124542,
+        "num": 124542,
+        "word": "孙俪喊杨幂绣绣",
+        "onboard_time": 1755645199,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123918,
+        "num": 123918,
+        "word": "阅兵将展现抗战功勋荣誉旗帜",
+        "onboard_time": 1755660563,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121936,
+        "num": 121936,
+        "word": "19岁男子因借宿被拒杀人后煮面吃",
+        "onboard_time": 1755653422,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116990,
+        "num": 116990,
+        "word": "长大真好赚钱真好独居真好",
+        "onboard_time": 1755658461,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116150,
+        "num": 116150,
+        "word": "金宇彬秀智二搭新剧",
+        "onboard_time": 1755660322,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115330,
+        "num": 115330,
+        "word": "向全世界昭告正义必胜和平必胜人民必胜",
+        "onboard_time": 1755658581,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#西藏工作关系党和国家工作大局#"
+    }
+  }
+}

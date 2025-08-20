@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755659648815,
+  "endTime": 1755660613974,
   "band_list": [
     {
       "raw_hot": 1811308,
@@ -9,6 +9,14 @@
       "onboard_time": 1755655340,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1539529,
+      "num": 1036555,
+      "word": "提前7分钟下班车祸死亡被认定工伤",
+      "onboard_time": 1755657321,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1375053,
@@ -33,14 +41,6 @@
       "onboard_time": 1755609866,
       "rank": 0,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1036555,
-      "num": 1036555,
-      "word": "提前7分钟下班车祸死亡被认定工伤",
-      "onboard_time": 1755657321,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 981456,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 581660,
-      "num": 581660,
+      "num": 1088968,
       "word": "九三阅兵准备工作",
       "onboard_time": 1755655581,
       "rank": 9,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 449755,
-      "num": 208293,
+      "num": 229327,
       "word": "胖东来的切西瓜手法",
       "onboard_time": 1755655462,
       "rank": 30,
@@ -195,6 +195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 363318,
+      "num": 363318,
+      "word": "剧宣标杆 85花杨幂90花杨紫",
+      "onboard_time": 1755659180,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363140,
       "num": 363140,
       "word": "W红毯 审美高级",
@@ -211,8 +219,8 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 357556,
-      "num": 357556,
+      "raw_hot": 360195,
+      "num": 360195,
       "word": "迪丽热巴 青涩女大",
       "onboard_time": 1755654980,
       "rank": 18,
@@ -233,6 +241,14 @@
       "onboard_time": 1755648922,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321175,
+      "num": 228578,
+      "word": "李思思全脱稿主持出口成章",
+      "onboard_time": 1755659180,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310526,
@@ -315,12 +331,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 276741,
+      "num": 378286,
+      "word": "这次阅兵编设45个方队梯队",
+      "onboard_time": 1755656601,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 271172,
       "num": 231321,
       "word": "宋佳演我嗑井柏然刘雯",
       "onboard_time": 1755645319,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 268157,
+      "num": 268157,
+      "word": "时代少年团三专",
+      "onboard_time": 1755659062,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 258706,
@@ -345,14 +377,6 @@
       "onboard_time": 1755653841,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 241460,
-      "num": 378286,
-      "word": "这次阅兵编设45个方队梯队",
-      "onboard_time": 1755656601,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 236201,
@@ -387,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215018,
+      "num": 215018,
+      "word": "樊振东孙颖莎夺冠名场面",
+      "onboard_time": 1755657141,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209208,
       "num": 209208,
       "word": "一人一句告别夏天",
       "onboard_time": 1755619702,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208355,
-      "num": 208355,
-      "word": "时代少年团三专",
-      "onboard_time": 1755659062,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 208189,
@@ -443,12 +467,12 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 200257,
-      "num": 208334,
-      "word": "剧宣标杆 85花杨幂90花杨紫",
-      "onboard_time": 1755659180,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 201394,
+      "num": 201394,
+      "word": "所有受阅武器装备都是国产现役主战装备",
+      "onboard_time": 1755658641,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198446,
@@ -491,14 +515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 193972,
-      "num": 205447,
-      "word": "李思思全脱稿主持出口成章",
-      "onboard_time": 1755659180,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 192497,
       "num": 192497,
       "word": "胡先煦方律师声明",
@@ -539,14 +555,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 180751,
-      "num": 180751,
-      "word": "樊振东孙颖莎夺冠名场面",
-      "onboard_time": 1755657141,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168821,
       "num": 136326,
       "word": "W盛典内场",
@@ -555,12 +563,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 153612,
-      "num": 153612,
-      "word": "所有受阅武器装备都是国产现役主战装备",
-      "onboard_time": 1755658641,
-      "rank": 34,
+      "raw_hot": 166818,
+      "num": 166818,
+      "word": "以为王俊凯夸张没想到是收敛",
+      "onboard_time": 1755660142,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157440,
+      "num": 157440,
+      "word": "纪念大会将奏唱抗战曲目",
+      "onboard_time": 1755660501,
+      "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156677,
+      "num": 156677,
+      "word": "昀牵孟绕",
+      "onboard_time": 1755659841,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 147347,
@@ -579,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142618,
+      "num": 142618,
+      "word": "中华儿女歼灭日军150多万人",
+      "onboard_time": 1755660142,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 141490,
       "num": 141490,
       "word": "80名礼号手寓意抗战胜利80周年",
@@ -593,6 +625,14 @@
       "onboard_time": 1755659422,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139719,
+      "num": 139719,
+      "word": "mini版labubu",
+      "onboard_time": 1755660263,
+      "rank": 37,
+      "category": "休闲"
     },
     {
       "raw_hot": 136676,
@@ -651,6 +691,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130158,
+      "num": 130158,
+      "word": "于正说再多热度也比不上作品的力量",
+      "onboard_time": 1755660441,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129028,
+      "num": 129028,
+      "word": "20250903",
+      "onboard_time": 1755660081,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 128774,
       "num": 119731,
       "word": "中科院员工出轨女子致其流产已离职",
@@ -707,6 +763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123918,
+      "num": 123918,
+      "word": "阅兵将展现抗战功勋荣誉旗帜",
+      "onboard_time": 1755660563,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121058,
       "num": 145824,
       "word": "抗战老部队接受检阅",
@@ -755,12 +819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116150,
+      "num": 116150,
+      "word": "金宇彬秀智二搭新剧",
+      "onboard_time": 1755660322,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115897,
       "num": 117496,
       "word": "易烊千玺窦靖童合照",
       "onboard_time": 1755616346,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115330,
+      "num": 115330,
+      "word": "向全世界昭告正义必胜和平必胜人民必胜",
+      "onboard_time": 1755658581,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115127,
@@ -1201,6 +1281,14 @@
       "onboard_time": 1755634154,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25834,
+      "num": 166942,
+      "word": "阅兵体现能打胜仗实力底气",
+      "onboard_time": 1755660142,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 24961,
