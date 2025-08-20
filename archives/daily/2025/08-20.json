@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755703726547,
+  "endTime": 1755704586961,
   "band_list": [
     {
       "raw_hot": 12896352,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 934374,
-      "num": 247857,
+      "num": 283486,
       "word": "人体最脏的部位",
       "onboard_time": 1755696749,
       "rank": 43,
@@ -371,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 686071,
+      "num": 285181,
+      "word": "法国一受虐博主在直播中死亡",
+      "onboard_time": 1755701188,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 677692,
       "num": 463063,
       "word": "网传刘亦菲肖战或将合作",
@@ -395,8 +403,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 636187,
+      "num": 300475,
+      "word": "田曦薇 人生镜头来了",
+      "onboard_time": 1755698067,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 633400,
-      "num": 297574,
+      "num": 298411,
       "word": "知情人称千百惠去世系因突发疾病",
       "onboard_time": 1755697887,
       "rank": 8,
@@ -409,22 +425,6 @@
       "onboard_time": 1755679944,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 621316,
-      "num": 294575,
-      "word": "田曦薇 人生镜头来了",
-      "onboard_time": 1755698067,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 617434,
-      "num": 247277,
-      "word": "法国一受虐博主在直播中死亡",
-      "onboard_time": 1755701188,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 616470,
@@ -739,6 +739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 376560,
+      "num": 297343,
+      "word": "时代少年团爱你爱我手势舞",
+      "onboard_time": 1755695065,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 374833,
       "num": 324866,
       "word": "桃黑黑 我真求你们了",
@@ -753,6 +761,14 @@
       "onboard_time": 1755671903,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372437,
+      "num": 372437,
+      "word": "爱奇艺第二季度净亏损1.337亿元",
+      "onboard_time": 1755698067,
+      "rank": 5,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 369839,
@@ -803,28 +819,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 352027,
-      "num": 352027,
-      "word": "爱奇艺第二季度净亏损1.337亿元",
-      "onboard_time": 1755698067,
-      "rank": 5,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 351379,
       "num": 288507,
       "word": "向往的生活8乌镇路透",
       "onboard_time": 1755673941,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 349378,
-      "num": 254795,
-      "word": "时代少年团爱你爱我手势舞",
-      "onboard_time": 1755695065,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 336792,
@@ -971,11 +971,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 296909,
+      "num": 296909,
+      "word": "付辛博认证颖儿是工作狂",
+      "onboard_time": 1755701307,
+      "rank": 24,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 293184,
       "num": 293184,
       "word": "翟潇闻 不用了吧",
       "onboard_time": 1755614067,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286729,
+      "num": 215568,
+      "word": "方媛挺孕肚打车送女儿上学",
+      "onboard_time": 1755702866,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1067,20 +1083,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 266785,
+      "num": 266785,
+      "word": "宋亚轩刘耀文callback交换话筒",
+      "onboard_time": 1755702085,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 265506,
       "num": 265506,
       "word": "mini版labubu",
       "onboard_time": 1755660263,
       "rank": 37,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 263988,
-      "num": 244413,
-      "word": "宋亚轩刘耀文callback交换话筒",
-      "onboard_time": 1755702085,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 263494,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1755662843,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259928,
+      "num": 259928,
+      "word": "沈佳润美美桑内中文版",
+      "onboard_time": 1755702566,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 259676,
@@ -1131,20 +1155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254139,
+      "num": 254139,
+      "word": "儿媳被2岁孙子打婆婆现场反打护媳",
+      "onboard_time": 1755699687,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247024,
       "num": 206805,
       "word": "男子在离婚冷静期毒杀一双儿女",
       "onboard_time": 1755613526,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246605,
-      "num": 202588,
-      "word": "方媛挺孕肚打车送女儿上学",
-      "onboard_time": 1755702866,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 244888,
@@ -1161,22 +1185,6 @@
       "onboard_time": 1755692602,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 243705,
-      "num": 243705,
-      "word": "付辛博认证颖儿是工作狂",
-      "onboard_time": 1755701307,
-      "rank": 24,
-      "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 243008,
-      "num": 243008,
-      "word": "沈佳润美美桑内中文版",
-      "onboard_time": 1755702566,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 242358,
@@ -1204,10 +1212,18 @@
     },
     {
       "raw_hot": 235645,
-      "num": 300614,
+      "num": 301685,
       "word": "被毒杀儿女舅舅称男方家族群喊话收尸",
       "onboard_time": 1755695126,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233934,
+      "num": 295779,
+      "word": "31岁男子地下车库被发小杀害",
+      "onboard_time": 1755703347,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1307,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217328,
-      "num": 217328,
-      "word": "儿媳被2岁孙子打婆婆现场反打护媳",
-      "onboard_time": 1755699687,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216949,
       "num": 216949,
       "word": "一天中最易长胖的4个时段",
@@ -1331,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215116,
+      "num": 215116,
+      "word": "时代少年团提醒观众禁带违禁品",
+      "onboard_time": 1755701847,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215018,
       "num": 215018,
       "word": "樊振东孙颖莎夺冠名场面",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1755663202,
       "rank": 34,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 213624,
+      "num": 213624,
+      "word": "热巴这次你做不了1了",
+      "onboard_time": 1755703524,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 210132,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1755695786,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200073,
+      "num": 200073,
+      "word": "胡先煦回应王安宇",
+      "onboard_time": 1755704125,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 199939,
@@ -1852,7 +1884,7 @@
     },
     {
       "raw_hot": 183835,
-      "num": 251530,
+      "num": 301002,
       "word": "AUBL队绝杀库里队",
       "onboard_time": 1755702866,
       "rank": 16,
@@ -1897,14 +1929,6 @@
       "onboard_time": 1755685824,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176903,
-      "num": 176903,
-      "word": "时代少年团提醒观众禁带违禁品",
-      "onboard_time": 1755701847,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 176602,
@@ -1993,6 +2017,14 @@
       "onboard_time": 1755685343,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172813,
+      "num": 172813,
+      "word": "宋亚轩腹肌",
+      "onboard_time": 1755704184,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 171110,
@@ -2467,14 +2499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 139515,
-      "num": 139515,
-      "word": "热巴这次你做不了1了",
-      "onboard_time": 1755703524,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 139191,
       "num": 108731,
       "word": "才知道12306是最牛的软件",
@@ -2600,6 +2624,14 @@
       "word": "19岁男子因借宿被拒杀人后煮面吃",
       "onboard_time": 1755653422,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133500,
+      "num": 248380,
+      "word": "男子狱中学鉴宝出狱盗走5克拉钻石",
+      "onboard_time": 1755702085,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2747,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128237,
+      "num": 259458,
+      "word": "孙颖莎说对战早田希娜会全力以赴",
+      "onboard_time": 1755702746,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127843,
       "num": 127843,
       "word": "热巴化妆王亚飞",
@@ -2793,6 +2833,14 @@
       "onboard_time": 1755624620,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 124136,
+      "num": 124136,
+      "word": "两子非亲生案长子回应殴打父亲",
+      "onboard_time": 1755704424,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122819,
@@ -3059,14 +3107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105263,
-      "num": 248380,
-      "word": "男子狱中学鉴宝出狱盗走5克拉钻石",
-      "onboard_time": 1755702085,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104667,
       "num": 104667,
       "word": "12306回应建议设置带娃车厢",
@@ -3089,14 +3129,6 @@
       "onboard_time": 1755702686,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103298,
-      "num": 160495,
-      "word": "31岁男子地下车库被发小杀害",
-      "onboard_time": 1755703347,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102970,
@@ -3331,6 +3363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82365,
+      "num": 215713,
+      "word": "全球最毒的蚊子为何批量北上",
+      "onboard_time": 1755704004,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81037,
       "num": 168168,
       "word": "巴基斯坦升职宴",
@@ -3419,6 +3459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 76143,
+      "num": 141106,
+      "word": "您的鳄了么订单需到场自提",
+      "onboard_time": 1755703046,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75746,
       "num": 113014,
       "word": "30岁孙子医院照顾84岁奶奶",
@@ -3457,14 +3505,6 @@
       "onboard_time": 1755667402,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 72913,
-      "num": 259458,
-      "word": "孙颖莎说对战早田希娜会全力以赴",
-      "onboard_time": 1755702746,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 72479,
@@ -3523,6 +3563,14 @@
       "category": "作品衍生,数码"
     },
     {
+      "raw_hot": 63963,
+      "num": 288017,
+      "word": "男孩骑车撞伤老人一旁违停车赔20余万",
+      "onboard_time": 1755704004,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63152,
       "num": 117964,
       "word": "卓沅后援会回应把翻唱写成新歌",
@@ -3577,14 +3625,6 @@
       "onboard_time": 1755688942,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57537,
-      "num": 141106,
-      "word": "您的鳄了么订单需到场自提",
-      "onboard_time": 1755703046,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57025,
@@ -3777,6 +3817,14 @@
       "onboard_time": 1755622819,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38871,
+      "num": 162661,
+      "word": "官方辟谣老人未去世被要求火化",
+      "onboard_time": 1755704544,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38729,
