@@ -1,7 +1,23 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755696975934,
+  "endTime": 1755697712693,
   "band_list": [
+    {
+      "raw_hot": 12896352,
+      "num": 12896352,
+      "word": "黛珂 田栩宁",
+      "onboard_time": 1755697408,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3416341,
+      "num": 3416341,
+      "word": "千百惠去世",
+      "onboard_time": 1755696149,
+      "rank": 6,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3389178,
       "num": 734552,
@@ -17,14 +33,6 @@
       "onboard_time": 1755694525,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2250862,
-      "num": 560897,
-      "word": "千百惠去世",
-      "onboard_time": 1755696149,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1811308,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 842457,
+      "num": 842457,
+      "word": "3万金镯子被猫推进垃圾桶后扔了",
+      "onboard_time": 1755691524,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 838766,
       "num": 838766,
       "word": "女生在公司用微波炉加热速冻饺子",
@@ -273,14 +289,6 @@
       "onboard_time": 1755693325,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 771047,
-      "num": 771047,
-      "word": "3万金镯子被猫推进垃圾桶后扔了",
-      "onboard_time": 1755691524,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 759482,
@@ -345,6 +353,14 @@
       "onboard_time": 1755683243,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 700971,
+      "num": 204287,
+      "word": "人体最脏的部位",
+      "onboard_time": 1755696749,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 691434,
@@ -843,20 +859,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 319223,
+      "num": 282413,
+      "word": "白鹿已签约欢娱9年",
+      "onboard_time": 1755694225,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310526,
       "num": 310526,
       "word": "安静公主公布验血结果",
       "onboard_time": 1755620181,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 309573,
-      "num": 282413,
-      "word": "白鹿已签约欢娱9年",
-      "onboard_time": 1755694225,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 308709,
@@ -921,6 +937,14 @@
       "onboard_time": 1755614067,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286238,
+      "num": 208853,
+      "word": "宁苏苏成全银子也是在弥补自己",
+      "onboard_time": 1755696327,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 284718,
@@ -1035,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256716,
+      "num": 235126,
+      "word": "成毅直播",
+      "onboard_time": 1755694405,
+      "rank": 33,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 254156,
       "num": 254156,
       "word": "男子认为儿子不像自己经鉴定非亲生",
@@ -1091,20 +1123,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 235126,
-      "num": 235126,
-      "word": "成毅直播",
-      "onboard_time": 1755694405,
-      "rank": 33,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 233792,
       "num": 233792,
       "word": "黑神话第二部为什么是钟馗",
       "onboard_time": 1755663142,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233552,
+      "num": 203453,
+      "word": "陈奕迅自曝毕生遗憾",
+      "onboard_time": 1755696029,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230597,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1755611906,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221074,
+      "num": 213769,
+      "word": "时代少年团爱你爱我手势舞",
+      "onboard_time": 1755695065,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 220799,
@@ -1211,14 +1251,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 213769,
-      "num": 213769,
-      "word": "时代少年团爱你爱我手势舞",
-      "onboard_time": 1755695065,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 210132,
       "num": 209334,
       "word": "赵今麦 妹妹今晚还回家吗",
@@ -1251,20 +1283,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209115,
+      "num": 198165,
+      "word": "刘耀文站姐神图这一块",
+      "onboard_time": 1755696088,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208959,
       "num": 208959,
       "word": "梁靖崑温瑞博3比2林昀儒高承睿",
       "onboard_time": 1755693564,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208853,
-      "num": 208853,
-      "word": "宁苏苏成全银子也是在弥补自己",
-      "onboard_time": 1755696327,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 208731,
@@ -1371,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203453,
-      "num": 203453,
-      "word": "陈奕迅自曝毕生遗憾",
-      "onboard_time": 1755696029,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 203033,
       "num": 203033,
       "word": "近七成老人因保健品假药被骗",
@@ -1457,14 +1481,6 @@
       "onboard_time": 1755657263,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198165,
-      "num": 198165,
-      "word": "刘耀文站姐神图这一块",
-      "onboard_time": 1755696088,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 197431,
@@ -1627,7 +1643,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 188201,
+      "raw_hot": 188581,
       "num": 188201,
       "word": "孙俪 女装邓超",
       "onboard_time": 1755691344,
@@ -1675,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183904,
+      "num": 224526,
+      "word": "马斯克被曝或动用财力支持美副总统",
+      "onboard_time": 1755693747,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183260,
       "num": 183260,
       "word": "黑神话官号更名",
@@ -1707,14 +1731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 179929,
-      "num": 224526,
-      "word": "马斯克被曝或动用财力支持美副总统",
-      "onboard_time": 1755693747,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 179429,
       "num": 179429,
       "word": "罗永浩宣布将做泡面",
@@ -1729,14 +1745,6 @@
       "onboard_time": 1755685824,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177063,
-      "num": 177063,
-      "word": "人体最脏的部位",
-      "onboard_time": 1755696749,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 176602,
@@ -1915,6 +1923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 160364,
+      "num": 160364,
+      "word": "北京国安vs云南玉昆",
+      "onboard_time": 1755696930,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160288,
       "num": 160288,
       "word": "展轩工作室声明",
@@ -2035,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152414,
+      "num": 152414,
+      "word": "被毒杀儿女舅舅称男方家族群喊话收尸",
+      "onboard_time": 1755695126,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151173,
       "num": 151173,
       "word": "去世41岁副教授黄恺曾师从诺奖得主",
@@ -2091,14 +2115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147560,
-      "num": 147560,
-      "word": "北京国安vs云南玉昆",
-      "onboard_time": 1755696930,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147433,
       "num": 208379,
       "word": "刘轩丞告黑声明",
@@ -2148,7 +2164,7 @@
     },
     {
       "raw_hot": 145886,
-      "num": 145886,
+      "num": 150744,
       "word": "樊振东现身纪录片走出荣耀",
       "onboard_time": 1755696209,
       "rank": 47,
@@ -2193,14 +2209,6 @@
       "onboard_time": 1755688821,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 143114,
-      "num": 143114,
-      "word": "被毒杀儿女舅舅称男方家族群喊话收尸",
-      "onboard_time": 1755695126,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143070,
@@ -2531,6 +2539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 121498,
+      "num": 156138,
+      "word": "中国女民兵太飒了",
+      "onboard_time": 1755697168,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121058,
       "num": 145824,
       "word": "抗战老部队接受检阅",
@@ -2699,6 +2715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111939,
+      "num": 182692,
+      "word": "银子 我是来揍你的",
+      "onboard_time": 1755696867,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111663,
       "num": 111663,
       "word": "古剑",
@@ -2859,6 +2883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 97426,
+      "num": 514115,
+      "word": "摄影师称旅拍店附近发现信号屏蔽器",
+      "onboard_time": 1755696088,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97178,
       "num": 97178,
       "word": "萨摩耶洗澡半个小时了还没打湿",
@@ -3001,6 +3033,14 @@
       "onboard_time": 1755618865,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82531,
+      "num": 168265,
+      "word": "马嘉祺贺峻霖拉手手了",
+      "onboard_time": 1755697408,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 81037,
@@ -3187,14 +3227,6 @@
       "category": "作品衍生,数码"
     },
     {
-      "raw_hot": 64525,
-      "num": 514115,
-      "word": "摄影师称旅拍店附近发现信号屏蔽器",
-      "onboard_time": 1755696088,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63152,
       "num": 117964,
       "word": "卓沅后援会回应把翻唱写成新歌",
@@ -3257,14 +3289,6 @@
       "onboard_time": 1755685824,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55279,
-      "num": 182692,
-      "word": "银子 我是来揍你的",
-      "onboard_time": 1755696867,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 55272,
@@ -3643,6 +3667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21964,
+      "num": 169048,
+      "word": "和杨幂一起吃王小卤看生万物",
+      "onboard_time": 1755696029,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19732,
       "num": 150069,
       "word": "辛芷蕾又说了什么不能播的",
@@ -3673,14 +3705,6 @@
       "onboard_time": 1755655522,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16281,
-      "num": 142574,
-      "word": "和杨幂一起吃王小卤看生万物",
-      "onboard_time": 1755696029,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 13097,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1755696975934,
+  "endTime": 1755697712693,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -577,6 +577,14 @@
       "onboard_time": 1751032048,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12896352,
+      "num": 12896352,
+      "word": "黛珂 田栩宁",
+      "onboard_time": 1755697408,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 12882219,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1743465321,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 4073618,
-      "num": 4073618,
-      "word": "惠英红 华表影后",
-      "onboard_time": 1745748501,
-      "rank": 0,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
