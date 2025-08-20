@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755710580841,
+  "endTime": 1755711693040,
   "band_list": [
     {
       "raw_hot": 870945,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 121842,
-      "num": 121842,
+      "num": 157794,
       "word": "全球最毒的蚊子为何批量北上",
       "onboard_time": 1755704004,
       "rank": 39,
@@ -412,10 +412,18 @@
     },
     {
       "raw_hot": 63281,
-      "num": 63281,
+      "num": 66655,
       "word": "刘耀文站姐神图这一块",
       "onboard_time": 1755696088,
       "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 57410,
+      "num": 66759,
+      "word": "丁程鑫宋亚轩唱泪桥了",
+      "onboard_time": 1755710597,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -427,20 +435,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54809,
+      "num": 66738,
+      "word": "坠昊的我们",
+      "onboard_time": 1755710597,
+      "rank": 34,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 48009,
-      "num": 53085,
+      "num": 66486,
       "word": "周也 也人追剧又唱歌",
       "onboard_time": 1755709760,
       "rank": 46,
       "category": "剧集"
     },
     {
-      "raw_hot": 45492,
+      "raw_hot": 46636,
       "num": 106058,
       "word": "市监局回应游客称坐躺椅被催收费",
       "onboard_time": 1755708979,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40340,
+      "num": 66584,
+      "word": "杜海涛被网友拍到疑似发量稀疏",
+      "onboard_time": 1755711497,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 31127,
@@ -451,7 +475,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9112,
+      "raw_hot": 19411,
+      "num": 66697,
+      "word": "中国军人整齐步伐治愈强迫症",
+      "onboard_time": 1755705023,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13276,
       "num": 282742,
       "word": "西藏今昔对比太震撼",
       "onboard_time": 1755682823,
