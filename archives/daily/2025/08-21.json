@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755729652134,
+  "endTime": 1755732239671,
   "band_list": [
     {
       "raw_hot": 870945,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 709508,
-      "num": 709508,
+      "num": 792335,
       "word": "12306回应网友提议站台等候区禁烟",
       "onboard_time": 1755706223,
       "rank": 9,
@@ -43,8 +43,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 494284,
+      "num": 105627,
+      "word": "一定要关闭免密支付和自动扣款",
+      "onboard_time": 1755725775,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 478618,
-      "num": 231328,
+      "num": 258503,
       "word": "村里出了个大明星 人们都叫他成毅",
       "onboard_time": 1755690082,
       "rank": 7,
@@ -81,6 +89,14 @@
       "onboard_time": 1755703347,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368538,
+      "num": 105041,
+      "word": "张维伊不语只一味的露出大金表",
+      "onboard_time": 1755718634,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 357681,
@@ -123,8 +139,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 284876,
-      "num": 284876,
+      "raw_hot": 292019,
+      "num": 292019,
       "word": "您的鳄了么订单需到场自提",
       "onboard_time": 1755703046,
       "rank": 3,
@@ -145,6 +161,14 @@
       "onboard_time": 1755705324,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252750,
+      "num": 153916,
+      "word": "方媛挺孕肚打车送女儿上学",
+      "onboard_time": 1755702866,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 235462,
@@ -177,14 +201,6 @@
       "onboard_time": 1755703524,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 202456,
-      "num": 70100,
-      "word": "张维伊不语只一味的露出大金表",
-      "onboard_time": 1755718634,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 192540,
@@ -243,20 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155319,
-      "num": 67929,
-      "word": "一定要关闭免密支付和自动扣款",
-      "onboard_time": 1755725775,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 153916,
-      "num": 153916,
-      "word": "方媛挺孕肚打车送女儿上学",
-      "onboard_time": 1755702866,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 152855,
+      "num": 82654,
+      "word": "清华今年录取了3对双胞胎",
+      "onboard_time": 1755728956,
+      "rank": 42,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 142270,
@@ -363,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91065,
+      "num": 91065,
+      "word": "穿校服的关晓彤好有千金感",
+      "onboard_time": 1755730036,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89040,
       "num": 89040,
       "word": "绣绣过得太苦了",
@@ -419,11 +435,43 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75098,
+      "num": 75098,
+      "word": "拉夫罗夫警告讨论乌安全保障需俄参与",
+      "onboard_time": 1755728956,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72059,
       "num": 72059,
       "word": "白鹿已签约欢娱9年",
       "onboard_time": 1755694225,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69383,
+      "num": 103522,
+      "word": "两院院士增选有效候选人名单公布",
+      "onboard_time": 1755730938,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 69322,
+      "num": 69322,
+      "word": "高桥布鲁娜回应战胜张本美和",
+      "onboard_time": 1755731838,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63724,
+      "num": 66584,
+      "word": "杜海涛被网友拍到疑似发量稀疏",
+      "onboard_time": 1755711497,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -435,12 +483,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59630,
+      "num": 72459,
+      "word": "31岁男子地下车库被发小杀害家属发声",
+      "onboard_time": 1755729016,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57410,
       "num": 66759,
       "word": "丁程鑫宋亚轩唱泪桥了",
       "onboard_time": 1755710597,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 56595,
+      "num": 56595,
+      "word": "金泰熙谈两个女儿长相",
+      "onboard_time": 1755694886,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 55970,
@@ -459,6 +523,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 51382,
+      "num": 51382,
+      "word": "严浩翔站姐神图",
+      "onboard_time": 1755731058,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 48009,
       "num": 66486,
       "word": "周也 也人追剧又唱歌",
@@ -475,15 +547,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45790,
-      "num": 66584,
-      "word": "杜海涛被网友拍到疑似发量稀疏",
-      "onboard_time": 1755711497,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 35087,
+      "raw_hot": 44448,
       "num": 60956,
       "word": "阅兵训练大图震撼感拉满",
       "onboard_time": 1755712697,
@@ -491,12 +555,12 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 32891,
-      "num": 32891,
-      "word": "拉夫罗夫警告讨论乌安全保障需俄参与",
-      "onboard_time": 1755728956,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 41041,
+      "num": 51272,
+      "word": "原神",
+      "onboard_time": 1755731899,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 31127,
@@ -507,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25393,
-      "num": 32161,
-      "word": "清华今年录取了3对双胞胎",
-      "onboard_time": 1755728956,
-      "rank": 42,
-      "category": "教育,民生新闻"
+      "raw_hot": 24968,
+      "num": 282742,
+      "word": "西藏今昔对比太震撼",
+      "onboard_time": 1755682823,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24863,
@@ -529,6 +593,14 @@
       "onboard_time": 1755713537,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22687,
+      "num": 52822,
+      "word": "一起期待9月3日",
+      "onboard_time": 1755728717,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22553,
@@ -577,22 +649,6 @@
       "onboard_time": 1755687442,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18542,
-      "num": 72459,
-      "word": "31岁男子地下车库被发小杀害家属发声",
-      "onboard_time": 1755729016,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15669,
-      "num": 282742,
-      "word": "西藏今昔对比太震撼",
-      "onboard_time": 1755682823,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11812,
