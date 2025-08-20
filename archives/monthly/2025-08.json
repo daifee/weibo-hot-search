@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755715858802,
+  "endTime": 1755717674453,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -68268,7 +68268,7 @@
     },
     {
       "raw_hot": 24863,
-      "num": 33856,
+      "num": 35176,
       "word": "2025暑期剧集TOP",
       "onboard_time": 1755714375,
       "rank": 44,
@@ -68668,7 +68668,7 @@
     },
     {
       "raw_hot": 22284,
-      "num": 33813,
+      "num": 35004,
       "word": "阅兵训练大图震撼感拉满",
       "onboard_time": 1755712697,
       "rank": 49,
@@ -68825,6 +68825,14 @@
       "onboard_time": 1754620641,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21120,
+      "num": 35187,
+      "word": "黄安悼念千百惠",
+      "onboard_time": 1755716954,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 21113,
@@ -69713,6 +69721,14 @@
       "onboard_time": 1754361442,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 11812,
+      "num": 45096,
+      "word": "九三阅兵最期待哪些名场面",
+      "onboard_time": 1755716775,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11780,
