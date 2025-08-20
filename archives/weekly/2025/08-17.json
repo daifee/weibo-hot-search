@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755664295888,
+  "endTime": 1755665145850,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -483,6 +483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1157624,
+      "num": 341285,
+      "word": "迪丽热巴时尚芭莎九月刊预告",
+      "onboard_time": 1755664883,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1155488,
       "num": 1184878,
       "word": "微信转账记得加一个动作",
@@ -675,6 +683,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 917545,
+      "num": 917545,
+      "word": "本次阅兵的数个首次",
+      "onboard_time": 1755659600,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 914588,
       "num": 914588,
       "word": "张予曦给泰娱亿点震撼",
@@ -721,14 +737,6 @@
       "onboard_time": 1755387258,
       "rank": 0,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 860518,
-      "num": 860518,
-      "word": "本次阅兵的数个首次",
-      "onboard_time": 1755659600,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 849953,
@@ -801,6 +809,14 @@
       "onboard_time": 1755512661,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 832585,
+      "num": 359369,
+      "word": "怪说不得韩国人健身卷呢",
+      "onboard_time": 1755661522,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 831200,
@@ -969,14 +985,6 @@
       "onboard_time": 1755488183,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 710858,
-      "num": 359369,
-      "word": "怪说不得韩国人健身卷呢",
-      "onboard_time": 1755661522,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 706632,
@@ -1828,7 +1836,7 @@
     },
     {
       "raw_hot": 449755,
-      "num": 284986,
+      "num": 298952,
       "word": "胖东来的切西瓜手法",
       "onboard_time": 1755655462,
       "rank": 30,
@@ -2001,6 +2009,14 @@
       "onboard_time": 1755513742,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408267,
+      "num": 318208,
+      "word": "文淇 她是龙",
+      "onboard_time": 1755663981,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 406285,
@@ -2297,6 +2313,14 @@
       "onboard_time": 1755405443,
       "rank": 45,
       "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 346268,
+      "num": 346268,
+      "word": "QQ音乐 三专",
+      "onboard_time": 1755663622,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 344489,
@@ -2859,6 +2883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 281763,
+      "num": 281763,
+      "word": "邢菲是生万物全组妹宝",
+      "onboard_time": 1755664102,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281514,
       "num": 281514,
       "word": "易烊千玺抢票",
@@ -2987,6 +3019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268976,
+      "num": 268976,
+      "word": "高铁站台 禁烟",
+      "onboard_time": 1755663742,
+      "rank": 39,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 268836,
       "num": 200914,
       "word": "费文典 跑男",
@@ -3003,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265506,
+      "num": 265506,
+      "word": "mini版labubu",
+      "onboard_time": 1755660263,
+      "rank": 37,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 263290,
       "num": 263290,
       "word": "王楚钦恢复8个积分",
@@ -3011,12 +3059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260893,
-      "num": 260893,
-      "word": "mini版labubu",
-      "onboard_time": 1755660263,
-      "rank": 37,
-      "category": "休闲"
+      "raw_hot": 261689,
+      "num": 261689,
+      "word": "月入5000三年存下12万",
+      "onboard_time": 1755662843,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 260487,
@@ -3033,6 +3081,14 @@
       "onboard_time": 1755389840,
       "rank": 15,
       "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 259676,
+      "num": 273704,
+      "word": "贾玲转念花开杀青",
+      "onboard_time": 1755662662,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 259187,
@@ -3081,14 +3137,6 @@
       "onboard_time": 1755602006,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 253179,
-      "num": 253179,
-      "word": "文淇 她是龙",
-      "onboard_time": 1755663981,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 251800,
@@ -3195,14 +3243,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 246728,
-      "num": 273704,
-      "word": "贾玲转念花开杀青",
-      "onboard_time": 1755662662,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 244888,
       "num": 208158,
       "word": "女子与大13岁男友恋爱染3种高危HPV",
@@ -3241,14 +3281,6 @@
       "onboard_time": 1755520762,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243715,
-      "num": 264484,
-      "word": "QQ音乐 三专",
-      "onboard_time": 1755663622,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 243564,
@@ -3427,6 +3459,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 233792,
+      "num": 233792,
+      "word": "黑神话第二部为什么是钟馗",
+      "onboard_time": 1755663142,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233305,
       "num": 328854,
       "word": "男子与儿认亲2年后又一儿子找来",
@@ -3489,14 +3529,6 @@
       "onboard_time": 1755508883,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228326,
-      "num": 228326,
-      "word": "月入5000三年存下12万",
-      "onboard_time": 1755662843,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 227430,
@@ -3667,6 +3699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216811,
+      "num": 265526,
+      "word": "种地吧",
+      "onboard_time": 1755484402,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216713,
       "num": 198824,
       "word": "李若彤被泰国海关质疑年龄",
@@ -3729,14 +3769,6 @@
       "onboard_time": 1755611006,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 214161,
-      "num": 214161,
-      "word": "黑神话第二部为什么是钟馗",
-      "onboard_time": 1755663142,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 213518,
@@ -3881,6 +3913,14 @@
       "onboard_time": 1755657381,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 208092,
+      "num": 208092,
+      "word": "去过西藏的人嘴真严啊",
+      "onboard_time": 1755664164,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 207200,
@@ -4057,6 +4097,14 @@
       "onboard_time": 1755603386,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201647,
+      "num": 201647,
+      "word": "桃黑黑 全国校园男神大赛",
+      "onboard_time": 1755664402,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 201278,
@@ -4297,14 +4345,6 @@
       "onboard_time": 1755405742,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196525,
-      "num": 196525,
-      "word": "去过西藏的人嘴真严啊",
-      "onboard_time": 1755664164,
-      "rank": 37,
-      "category": "旅游"
     },
     {
       "raw_hot": 196391,
@@ -4635,6 +4675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188194,
+      "num": 188194,
+      "word": "于正说不会强迫白鹿续约",
+      "onboard_time": 1755664763,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188095,
       "num": 188095,
       "word": "2集亲2次告白4次",
@@ -4953,14 +5001,6 @@
       "onboard_time": 1755432144,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178594,
-      "num": 178594,
-      "word": "邢菲是生万物全组妹宝",
-      "onboard_time": 1755664102,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 178457,
@@ -5707,6 +5747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163645,
+      "num": 163645,
+      "word": "林允林品如发型",
+      "onboard_time": 1755664944,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163386,
       "num": 163386,
       "word": "蛋蛋 辛巴",
@@ -5908,7 +5956,7 @@
     },
     {
       "raw_hot": 159764,
-      "num": 231440,
+      "num": 263120,
       "word": "生万物让山东文旅有人脉了",
       "onboard_time": 1755661881,
       "rank": 41,
@@ -5945,6 +5993,14 @@
       "onboard_time": 1755434423,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158566,
+      "num": 158566,
+      "word": "锦月如歌大结局",
+      "onboard_time": 1755664343,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 158450,
@@ -6148,7 +6204,7 @@
     },
     {
       "raw_hot": 153654,
-      "num": 153654,
+      "num": 193268,
       "word": "中华儿女歼灭日军150多万人",
       "onboard_time": 1755660142,
       "rank": 36,
@@ -6459,6 +6515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147659,
+      "num": 147659,
+      "word": "立秋后必吃的4种水果",
+      "onboard_time": 1755665064,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147496,
       "num": 147496,
       "word": "宋亚轩 雨天",
@@ -6531,6 +6595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146619,
+      "num": 146619,
+      "word": "樊振东青奥会夺冠11周年",
+      "onboard_time": 1755665064,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146438,
       "num": 146438,
       "word": "张晚意你也太会过日子了",
@@ -6585,6 +6657,14 @@
       "onboard_time": 1755420742,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146063,
+      "num": 146063,
+      "word": "女生健身的意义此刻具像化了",
+      "onboard_time": 1755665064,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 146043,
@@ -7729,14 +7809,6 @@
       "onboard_time": 1755509782,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 129030,
-      "num": 157903,
-      "word": "种地吧",
-      "onboard_time": 1755484402,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 128971,
@@ -10083,6 +10155,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 94430,
+      "num": 856368,
+      "word": "西藏在长大我也在长大",
+      "onboard_time": 1755355165,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93828,
       "num": 197625,
       "word": "中国男篮十年后重回决赛",
@@ -10683,6 +10763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79133,
+      "num": 241684,
+      "word": "警方回应3男子欲将醉酒女生抬上车",
+      "onboard_time": 1755664283,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 79082,
       "num": 128303,
       "word": "陈星旭回应王玉雯",
@@ -10713,14 +10801,6 @@
       "onboard_time": 1755361761,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 78702,
-      "num": 179106,
-      "word": "高铁站台 禁烟",
-      "onboard_time": 1755663742,
-      "rank": 39,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 78699,
@@ -11108,7 +11188,7 @@
     },
     {
       "raw_hot": 68010,
-      "num": 285045,
+      "num": 306305,
       "word": "王一博能有多百搭",
       "onboard_time": 1755661102,
       "rank": 19,
@@ -11184,14 +11264,6 @@
       "word": "未过本科线退2万涉事高中被立案调查",
       "onboard_time": 1755385457,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64696,
-      "num": 856368,
-      "word": "西藏在长大我也在长大",
-      "onboard_time": 1755355165,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -11553,6 +11625,14 @@
       "onboard_time": 1755584182,
       "rank": 44,
       "category": "舆论监督,网红"
+    },
+    {
+      "raw_hot": 50749,
+      "num": 190070,
+      "word": "W主持人扔手卡",
+      "onboard_time": 1755664944,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 50414,
@@ -12457,6 +12537,14 @@
       "onboard_time": 1755371596,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23775,
+      "num": 189961,
+      "word": "香港大球场偶遇奚梦瑶带儿子",
+      "onboard_time": 1755664283,
+      "rank": 39,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 23277,

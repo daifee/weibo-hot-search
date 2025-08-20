@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755664295888,
+  "endTime": 1755665145850,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2811,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1157624,
+      "num": 341285,
+      "word": "迪丽热巴时尚芭莎九月刊预告",
+      "onboard_time": 1755664883,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1156674,
       "num": 435814,
       "word": "两女孩店门口喝奶茶被货车压死",
@@ -4155,6 +4163,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 917545,
+      "num": 917545,
+      "word": "本次阅兵的数个首次",
+      "onboard_time": 1755659600,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 915798,
       "num": 915798,
       "word": "绣绣怀孕",
@@ -4475,14 +4491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 860518,
-      "num": 860518,
-      "word": "本次阅兵的数个首次",
-      "onboard_time": 1755659600,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 859146,
       "num": 859146,
       "word": "再见爱人 王浩信",
@@ -4745,6 +4753,14 @@
       "onboard_time": 1755512661,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 832585,
+      "num": 359369,
+      "word": "怪说不得韩国人健身卷呢",
+      "onboard_time": 1755661522,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 832396,
@@ -6017,14 +6033,6 @@
       "onboard_time": 1755061582,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 710858,
-      "num": 359369,
-      "word": "怪说不得韩国人健身卷呢",
-      "onboard_time": 1755661522,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 709915,
@@ -10804,7 +10812,7 @@
     },
     {
       "raw_hot": 449755,
-      "num": 284986,
+      "num": 298952,
       "word": "胖东来的切西瓜手法",
       "onboard_time": 1755655462,
       "rank": 30,
@@ -11849,6 +11857,14 @@
       "onboard_time": 1754040503,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 408267,
+      "num": 318208,
+      "word": "文淇 她是龙",
+      "onboard_time": 1755663981,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 407970,
@@ -13785,6 +13801,14 @@
       "onboard_time": 1755405443,
       "rank": 45,
       "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 346268,
+      "num": 346268,
+      "word": "QQ音乐 三专",
+      "onboard_time": 1755663622,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 346198,
@@ -16451,6 +16475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281763,
+      "num": 281763,
+      "word": "邢菲是生万物全组妹宝",
+      "onboard_time": 1755664102,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281514,
       "num": 281514,
       "word": "易烊千玺抢票",
@@ -17067,6 +17099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 268976,
+      "num": 268976,
+      "word": "高铁站台 禁烟",
+      "onboard_time": 1755663742,
+      "rank": 39,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 268836,
       "num": 200914,
       "word": "费文典 跑男",
@@ -17291,6 +17331,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 265506,
+      "num": 265506,
+      "word": "mini版labubu",
+      "onboard_time": 1755660263,
+      "rank": 37,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 265000,
       "num": 265000,
       "word": "原神",
@@ -17435,6 +17483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261689,
+      "num": 261689,
+      "word": "月入5000三年存下12万",
+      "onboard_time": 1755662843,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261589,
       "num": 261589,
       "word": "李乃文的第一批受害人出现了",
@@ -17515,14 +17571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 260893,
-      "num": 260893,
-      "word": "mini版labubu",
-      "onboard_time": 1755660263,
-      "rank": 37,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 260875,
       "num": 260875,
       "word": "刘轩丞第一个杂志封面",
@@ -17601,6 +17649,14 @@
       "onboard_time": 1754233644,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259676,
+      "num": 273704,
+      "word": "贾玲转念花开杀青",
+      "onboard_time": 1755662662,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 259664,
@@ -17953,14 +18009,6 @@
       "onboard_time": 1754527883,
       "rank": 20,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 253179,
-      "num": 253179,
-      "word": "文淇 她是龙",
-      "onboard_time": 1755663981,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 253052,
@@ -18395,14 +18443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246728,
-      "num": 273704,
-      "word": "贾玲转念花开杀青",
-      "onboard_time": 1755662662,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 246590,
       "num": 246590,
       "word": "虞书欣 街机小霸王",
@@ -18609,14 +18649,6 @@
       "onboard_time": 1754110881,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 243715,
-      "num": 264484,
-      "word": "QQ音乐 三专",
-      "onboard_time": 1755663622,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 243675,
@@ -19291,6 +19323,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 233792,
+      "num": 233792,
+      "word": "黑神话第二部为什么是钟馗",
+      "onboard_time": 1755663142,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233700,
       "num": 233700,
       "word": "网传歌手总决赛帮唱和独唱歌单",
@@ -19705,14 +19745,6 @@
       "onboard_time": 1754281945,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228326,
-      "num": 228326,
-      "word": "月入5000三年存下12万",
-      "onboard_time": 1755662843,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 228221,
@@ -20779,6 +20811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216811,
+      "num": 265526,
+      "word": "种地吧",
+      "onboard_time": 1754753184,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216686,
       "num": 216686,
       "word": "庞博 喜单最好的公关",
@@ -21089,14 +21129,6 @@
       "onboard_time": 1754004499,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214161,
-      "num": 214161,
-      "word": "黑神话第二部为什么是钟馗",
-      "onboard_time": 1755663142,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 214016,
@@ -21921,6 +21953,14 @@
       "onboard_time": 1754379682,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208092,
+      "num": 208092,
+      "word": "去过西藏的人嘴真严啊",
+      "onboard_time": 1755664164,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 207929,
@@ -23073,6 +23113,14 @@
       "onboard_time": 1754814862,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201647,
+      "num": 201647,
+      "word": "桃黑黑 全国校园男神大赛",
+      "onboard_time": 1755664402,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 201590,
@@ -24257,14 +24305,6 @@
       "onboard_time": 1754229986,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 196525,
-      "num": 196525,
-      "word": "去过西藏的人嘴真严啊",
-      "onboard_time": 1755664164,
-      "rank": 37,
-      "category": "旅游"
     },
     {
       "raw_hot": 196523,
@@ -26105,6 +26145,14 @@
       "onboard_time": 1754126542,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 188194,
+      "num": 188194,
+      "word": "于正说不会强迫白鹿续约",
+      "onboard_time": 1755664763,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 188124,
@@ -28017,14 +28065,6 @@
       "onboard_time": 1754916563,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178594,
-      "num": 178594,
-      "word": "邢菲是生万物全组妹宝",
-      "onboard_time": 1755664102,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 178569,
@@ -30603,14 +30643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167360,
-      "num": 167360,
-      "word": "种地吧",
-      "onboard_time": 1754753184,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 167352,
       "num": 167352,
       "word": "00后整顿职场的下场怎么没人说了",
@@ -31465,6 +31497,14 @@
       "onboard_time": 1754294243,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163645,
+      "num": 163645,
+      "word": "林允林品如发型",
+      "onboard_time": 1755664944,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 163611,
@@ -32564,7 +32604,7 @@
     },
     {
       "raw_hot": 159764,
-      "num": 231440,
+      "num": 263120,
       "word": "生万物让山东文旅有人脉了",
       "onboard_time": 1755661881,
       "rank": 41,
@@ -32937,6 +32977,14 @@
       "onboard_time": 1755236542,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158566,
+      "num": 158566,
+      "word": "锦月如歌大结局",
+      "onboard_time": 1755664343,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 158542,
@@ -34236,7 +34284,7 @@
     },
     {
       "raw_hot": 153654,
-      "num": 153654,
+      "num": 193268,
       "word": "中华儿女歼灭日军150多万人",
       "onboard_time": 1755660142,
       "rank": 36,
@@ -36107,6 +36155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147659,
+      "num": 147659,
+      "word": "立秋后必吃的4种水果",
+      "onboard_time": 1755665064,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147639,
       "num": 147639,
       "word": "雷军问是否支持YU7改版本名",
@@ -36443,6 +36499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146619,
+      "num": 146619,
+      "word": "樊振东青奥会夺冠11周年",
+      "onboard_time": 1755665064,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146614,
       "num": 146614,
       "word": "终于知道微信更新在哪了",
@@ -36657,6 +36721,14 @@
       "onboard_time": 1754751924,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146063,
+      "num": 146063,
+      "word": "女生健身的意义此刻具像化了",
+      "onboard_time": 1755665064,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 146043,
@@ -55379,6 +55451,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 94430,
+      "num": 976738,
+      "word": "西藏在长大我也在长大",
+      "onboard_time": 1755355165,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94407,
       "num": 94407,
       "word": "加沙超1700人领物资遇难",
@@ -58099,6 +58179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79133,
+      "num": 241684,
+      "word": "警方回应3男子欲将醉酒女生抬上车",
+      "onboard_time": 1755664283,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 79125,
       "num": 100613,
       "word": "澳大利亚男篮晋级亚洲杯四强",
@@ -58177,14 +58265,6 @@
       "onboard_time": 1755361761,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 78702,
-      "num": 179106,
-      "word": "高铁站台 禁烟",
-      "onboard_time": 1755663742,
-      "rank": 39,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 78699,
@@ -59596,7 +59676,7 @@
     },
     {
       "raw_hot": 68010,
-      "num": 285045,
+      "num": 306305,
       "word": "王一博能有多百搭",
       "onboard_time": 1755661102,
       "rank": 19,
@@ -60000,14 +60080,6 @@
       "word": "男童失踪夏令营组织方疑为家政公司",
       "onboard_time": 1755088284,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64696,
-      "num": 976738,
-      "word": "西藏在长大我也在长大",
-      "onboard_time": 1755355165,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -61937,6 +62009,14 @@
       "onboard_time": 1754661745,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50749,
+      "num": 190070,
+      "word": "W主持人扔手卡",
+      "onboard_time": 1755664944,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 50719,
@@ -65873,6 +65953,14 @@
       "onboard_time": 1754905522,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23775,
+      "num": 189961,
+      "word": "香港大球场偶遇奚梦瑶带儿子",
+      "onboard_time": 1755664283,
+      "rank": 39,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 23706,

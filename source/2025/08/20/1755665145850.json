@@ -1,0 +1,410 @@
+{
+  "runTime": 1755665145850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1125988,
+        "num": 1180158,
+        "word": "九三阅兵时长约70分钟",
+        "onboard_time": 1755656421,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 917545,
+        "num": 917545,
+        "word": "本次阅兵的数个首次",
+        "onboard_time": 1755659600,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94430,
+        "num": 750319,
+        "word": "西藏在长大我也在长大",
+        "onboard_time": 1755663503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656049,
+        "num": 656049,
+        "word": "提前7分钟下班车祸死亡被认定工伤",
+        "onboard_time": 1755657321,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637692,
+        "num": 637692,
+        "word": "黑神话",
+        "onboard_time": 1755636554,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 384263,
+        "num": 384263,
+        "word": "昀牵孟绕",
+        "onboard_time": 1755659841,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358937,
+        "num": 358937,
+        "word": "九三阅兵准备工作",
+        "onboard_time": 1755655581,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354945,
+        "num": 354945,
+        "word": "南京10元手冲咖啡阿姨现状",
+        "onboard_time": 1755653361,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353855,
+        "num": 353855,
+        "word": "所有受阅武器装备都是国产现役主战装备",
+        "onboard_time": 1755658641,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 346268,
+        "num": 346268,
+        "word": "QQ音乐 三专",
+        "onboard_time": 1755663622,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1327643,
+        "num": 342316,
+        "word": "黄杨钿甜风波后首露面",
+        "onboard_time": 1755655340,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1157624,
+        "num": 341285,
+        "word": "迪丽热巴时尚芭莎九月刊预告",
+        "onboard_time": 1755664883,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 832585,
+        "num": 334487,
+        "word": "怪说不得韩国人健身卷呢",
+        "onboard_time": 1755661522,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 471138,
+        "num": 329013,
+        "word": "毛晓彤方否认与陈晓恋情",
+        "onboard_time": 1755615444,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75265,
+        "num": 323783,
+        "word": "杨幂说还得是你王小卤",
+        "onboard_time": 1755661102,
+        "rank": 14,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 408267,
+        "num": 318208,
+        "word": "文淇 她是龙",
+        "onboard_time": 1755663981,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 597784,
+        "num": 317733,
+        "word": "网友爸爸给迪丽热巴当司机",
+        "onboard_time": 1755646099,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280774,
+        "num": 309960,
+        "word": "时代少年团三专",
+        "onboard_time": 1755659062,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54043,
+        "num": 306305,
+        "word": "王一博能有多百搭",
+        "onboard_time": 1755661102,
+        "rank": 18,
+        "category": "作品衍生,数码"
+      },
+      {
+        "raw_hot": 367675,
+        "num": 299336,
+        "word": "剧宣标杆 85花杨幂90花杨紫",
+        "onboard_time": 1755659180,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298952,
+        "num": 298952,
+        "word": "胖东来的切西瓜手法",
+        "onboard_time": 1755655462,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 281763,
+        "num": 281763,
+        "word": "邢菲是生万物全组妹宝",
+        "onboard_time": 1755664102,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268976,
+        "num": 268976,
+        "word": "高铁站台 禁烟",
+        "onboard_time": 1755663742,
+        "rank": 22,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 259676,
+        "num": 266135,
+        "word": "贾玲转念花开杀青",
+        "onboard_time": 1755662662,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216811,
+        "num": 265526,
+        "word": "种地吧",
+        "onboard_time": 1755664402,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213873,
+        "num": 265514,
+        "word": "李思思全脱稿主持出口成章",
+        "onboard_time": 1755659180,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265506,
+        "num": 265506,
+        "word": "mini版labubu",
+        "onboard_time": 1755660263,
+        "rank": 26,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 118273,
+        "num": 263120,
+        "word": "生万物让山东文旅有人脉了",
+        "onboard_time": 1755661881,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261689,
+        "num": 261689,
+        "word": "月入5000三年存下12万",
+        "onboard_time": 1755662843,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79133,
+        "num": 241684,
+        "word": "警方回应3男子欲将醉酒女生抬上车",
+        "onboard_time": 1755664283,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 241190,
+        "num": 241190,
+        "word": "闲置太久的鞋子不要再穿了",
+        "onboard_time": 1755647421,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233792,
+        "num": 233792,
+        "word": "黑神话第二部为什么是钟馗",
+        "onboard_time": 1755663142,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208092,
+        "num": 208092,
+        "word": "去过西藏的人嘴真严啊",
+        "onboard_time": 1755664164,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 201647,
+        "num": 201647,
+        "word": "桃黑黑 全国校园男神大赛",
+        "onboard_time": 1755664402,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197232,
+        "num": 197232,
+        "word": "以为王俊凯夸张没想到是收敛",
+        "onboard_time": 1755660142,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90459,
+        "num": 197033,
+        "word": "极氪9X或将搭载宾利顶配音响",
+        "onboard_time": 1755660921,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151697,
+        "num": 195280,
+        "word": "20250903",
+        "onboard_time": 1755660081,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137928,
+        "num": 193268,
+        "word": "中华儿女歼灭日军150多万人",
+        "onboard_time": 1755660142,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50749,
+        "num": 190070,
+        "word": "W主持人扔手卡",
+        "onboard_time": 1755664944,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23775,
+        "num": 189961,
+        "word": "香港大球场偶遇奚梦瑶带儿子",
+        "onboard_time": 1755664283,
+        "rank": 39,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 188194,
+        "num": 188194,
+        "word": "于正说不会强迫白鹿续约",
+        "onboard_time": 1755664763,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172436,
+        "num": 172436,
+        "word": "九三阅兵准备工作答记者问",
+        "onboard_time": 1755645739,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 166494,
+        "num": 166494,
+        "word": "女子与大13岁男友恋爱染3种高危HPV",
+        "onboard_time": 1755653841,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163645,
+        "num": 163645,
+        "word": "林允林品如发型",
+        "onboard_time": 1755664944,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159407,
+        "num": 159407,
+        "word": "哈利波特 剧版",
+        "onboard_time": 1755661581,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158566,
+        "num": 158566,
+        "word": "锦月如歌大结局",
+        "onboard_time": 1755664343,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147659,
+        "num": 147659,
+        "word": "立秋后必吃的4种水果",
+        "onboard_time": 1755665064,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146619,
+        "num": 146619,
+        "word": "樊振东青奥会夺冠11周年",
+        "onboard_time": 1755665064,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146063,
+        "num": 146063,
+        "word": "女生健身的意义此刻具像化了",
+        "onboard_time": 1755665064,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 145993,
+        "num": 145993,
+        "word": "阅兵将展现抗战功勋荣誉旗帜",
+        "onboard_time": 1755660563,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系雪域高原#"
+    }
+  }
+}

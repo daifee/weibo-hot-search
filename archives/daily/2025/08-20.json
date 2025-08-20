@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755664295888,
+  "endTime": 1755665145850,
   "band_list": [
     {
       "raw_hot": 1811308,
@@ -35,6 +35,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1157624,
+      "num": 341285,
+      "word": "迪丽热巴时尚芭莎九月刊预告",
+      "onboard_time": 1755664883,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1039480,
       "num": 1039480,
       "word": "迪丽热巴第二套",
@@ -51,8 +59,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 860518,
-      "num": 860518,
+      "raw_hot": 917545,
+      "num": 917545,
       "word": "本次阅兵的数个首次",
       "onboard_time": 1755659600,
       "rank": 47,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 832585,
+      "num": 359369,
+      "word": "怪说不得韩国人健身卷呢",
+      "onboard_time": 1755661522,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 789509,
       "num": 1126321,
       "word": "九三阅兵准备工作",
@@ -89,14 +105,6 @@
       "onboard_time": 1755649943,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 710858,
-      "num": 359369,
-      "word": "怪说不得韩国人健身卷呢",
-      "onboard_time": 1755661522,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 691434,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 449755,
-      "num": 284986,
+      "num": 298952,
       "word": "胖东来的切西瓜手法",
       "onboard_time": 1755655462,
       "rank": 30,
@@ -193,6 +201,14 @@
       "onboard_time": 1755596063,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 408267,
+      "num": 318208,
+      "word": "文淇 她是龙",
+      "onboard_time": 1755663981,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 398012,
@@ -265,6 +281,14 @@
       "onboard_time": 1755616584,
       "rank": 7,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 346268,
+      "num": 346268,
+      "word": "QQ音乐 三专",
+      "onboard_time": 1755663622,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 336792,
@@ -371,6 +395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 281763,
+      "num": 281763,
+      "word": "邢菲是生万物全组妹宝",
+      "onboard_time": 1755664102,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280519,
       "num": 280519,
       "word": "W盛典群星合影",
@@ -387,12 +419,36 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 260893,
-      "num": 260893,
+      "raw_hot": 268976,
+      "num": 268976,
+      "word": "高铁站台 禁烟",
+      "onboard_time": 1755663742,
+      "rank": 39,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 265506,
+      "num": 265506,
       "word": "mini版labubu",
       "onboard_time": 1755660263,
       "rank": 37,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 261689,
+      "num": 261689,
+      "word": "月入5000三年存下12万",
+      "onboard_time": 1755662843,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 259676,
+      "num": 273704,
+      "word": "贾玲转念花开杀青",
+      "onboard_time": 1755662662,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 258706,
@@ -403,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253179,
-      "num": 253179,
-      "word": "文淇 她是龙",
-      "onboard_time": 1755663981,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 247024,
       "num": 206805,
       "word": "男子在离婚冷静期毒杀一双儿女",
@@ -419,28 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 246728,
-      "num": 273704,
-      "word": "贾玲转念花开杀青",
-      "onboard_time": 1755662662,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 244888,
       "num": 208158,
       "word": "女子与大13岁男友恋爱染3种高危HPV",
       "onboard_time": 1755653841,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243715,
-      "num": 264484,
-      "word": "QQ音乐 三专",
-      "onboard_time": 1755663622,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 236201,
@@ -459,20 +491,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 233792,
+      "num": 233792,
+      "word": "黑神话第二部为什么是钟馗",
+      "onboard_time": 1755663142,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230597,
       "num": 230597,
       "word": "20250903",
       "onboard_time": 1755660081,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 228326,
-      "num": 228326,
-      "word": "月入5000三年存下12万",
-      "onboard_time": 1755662843,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 226924,
@@ -499,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216811,
+      "num": 265526,
+      "word": "种地吧",
+      "onboard_time": 1755664402,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215018,
       "num": 215018,
       "word": "樊振东孙颖莎夺冠名场面",
@@ -513,14 +553,6 @@
       "onboard_time": 1755663202,
       "rank": 34,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 214161,
-      "num": 214161,
-      "word": "黑神话第二部为什么是钟馗",
-      "onboard_time": 1755663142,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 209208,
@@ -545,6 +577,14 @@
       "onboard_time": 1755657381,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 208092,
+      "num": 208092,
+      "word": "去过西藏的人嘴真严啊",
+      "onboard_time": 1755664164,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 206908,
@@ -579,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201647,
+      "num": 201647,
+      "word": "桃黑黑 全国校园男神大赛",
+      "onboard_time": 1755664402,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 199849,
       "num": 199849,
       "word": "黄杨钿甜补拍冰湖重生",
@@ -611,14 +659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 196525,
-      "num": 196525,
-      "word": "去过西藏的人嘴真严啊",
-      "onboard_time": 1755664164,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 196240,
       "num": 196240,
       "word": "孙俪喊杨幂绣绣",
@@ -648,6 +688,14 @@
       "word": "胡先煦方律师声明",
       "onboard_time": 1755616164,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188194,
+      "num": 188194,
+      "word": "于正说不会强迫白鹿续约",
+      "onboard_time": 1755664763,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -699,14 +747,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 178594,
-      "num": 178594,
-      "word": "邢菲是生万物全组妹宝",
-      "onboard_time": 1755664102,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168821,
       "num": 136326,
       "word": "W盛典内场",
@@ -723,6 +763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163645,
+      "num": 163645,
+      "word": "林允林品如发型",
+      "onboard_time": 1755664944,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160680,
       "num": 160680,
       "word": "巨大火球飞越日本上空",
@@ -732,10 +780,18 @@
     },
     {
       "raw_hot": 159764,
-      "num": 231440,
+      "num": 263120,
       "word": "生万物让山东文旅有人脉了",
       "onboard_time": 1755661881,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158566,
+      "num": 158566,
+      "word": "锦月如歌大结局",
+      "onboard_time": 1755664343,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -756,11 +812,19 @@
     },
     {
       "raw_hot": 153654,
-      "num": 153654,
+      "num": 193268,
       "word": "中华儿女歼灭日军150多万人",
       "onboard_time": 1755660142,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147659,
+      "num": 147659,
+      "word": "立秋后必吃的4种水果",
+      "onboard_time": 1755665064,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147347,
@@ -769,6 +833,22 @@
       "onboard_time": 1755609925,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146619,
+      "num": 146619,
+      "word": "樊振东青奥会夺冠11周年",
+      "onboard_time": 1755665064,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146063,
+      "num": 146063,
+      "word": "女生健身的意义此刻具像化了",
+      "onboard_time": 1755665064,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 145761,
@@ -1155,6 +1235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 94430,
+      "num": 856368,
+      "word": "西藏在长大我也在长大",
+      "onboard_time": 1755663503,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88932,
       "num": 116753,
       "word": "梓渝cha刀马刀马",
@@ -1227,12 +1315,12 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 78702,
-      "num": 179106,
-      "word": "高铁站台 禁烟",
-      "onboard_time": 1755663742,
-      "rank": 39,
-      "category": "议题讨论"
+      "raw_hot": 79133,
+      "num": 241684,
+      "word": "警方回应3男子欲将醉酒女生抬上车",
+      "onboard_time": 1755664283,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 78533,
@@ -1340,19 +1428,11 @@
     },
     {
       "raw_hot": 68010,
-      "num": 285045,
+      "num": 306305,
       "word": "王一博能有多百搭",
       "onboard_time": 1755661102,
       "rank": 19,
       "category": "作品衍生,数码"
-    },
-    {
-      "raw_hot": 64696,
-      "num": 856368,
-      "word": "西藏在长大我也在长大",
-      "onboard_time": 1755663503,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63152,
@@ -1393,6 +1473,14 @@
       "onboard_time": 1755614724,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50749,
+      "num": 190070,
+      "word": "W主持人扔手卡",
+      "onboard_time": 1755664944,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 49330,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1755628815,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23775,
+      "num": 189961,
+      "word": "香港大球场偶遇奚梦瑶带儿子",
+      "onboard_time": 1755664283,
+      "rank": 39,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 18308,
