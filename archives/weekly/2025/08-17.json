@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755682156357,
+  "endTime": 1755682943127,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -1043,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736406,
+      "num": 736406,
+      "word": "时代少年团上海演唱会",
+      "onboard_time": 1755680063,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 735988,
       "num": 376531,
       "word": "虞书欣取悦姐姐们像呼吸一样简单",
@@ -1235,6 +1243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 666382,
+      "num": 666382,
+      "word": "父婴室",
+      "onboard_time": 1755678983,
+      "rank": 48,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 664378,
       "num": 543438,
       "word": "这跟亲了有什么区别",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1755520283,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 647764,
-      "num": 453727,
-      "word": "时代少年团上海演唱会",
-      "onboard_time": 1755680063,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 645492,
@@ -1528,6 +1536,14 @@
       "word": "翟潇闻 不用了吧",
       "onboard_time": 1755614067,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 567447,
+      "num": 321074,
+      "word": "奚梦瑶5岁儿子身高",
+      "onboard_time": 1755681203,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -1905,14 +1921,6 @@
       "onboard_time": 1755671541,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 471346,
-      "num": 471346,
-      "word": "父婴室",
-      "onboard_time": 1755678983,
-      "rank": 48,
-      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 471133,
@@ -2323,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392520,
+      "num": 392520,
+      "word": "外交部回应外国领导人出席阅兵",
+      "onboard_time": 1755680783,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 392362,
       "num": 392362,
       "word": "18只猫成了海鲜摊的掌柜",
@@ -2521,14 +2537,6 @@
       "onboard_time": 1755434962,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352596,
-      "num": 352596,
-      "word": "外交部回应外国领导人出席阅兵",
-      "onboard_time": 1755680783,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 352363,
@@ -2777,14 +2785,6 @@
       "onboard_time": 1755595285,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 321074,
-      "num": 321074,
-      "word": "奚梦瑶5岁儿子身高",
-      "onboard_time": 1755681203,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 320142,
@@ -3136,6 +3136,14 @@
       "word": "九三盛大阅兵",
       "onboard_time": 1755656960,
       "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 282388,
+      "num": 453698,
+      "word": "开始盼九三阅兵了",
+      "onboard_time": 1755678083,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -3643,14 +3651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240309,
-      "num": 453698,
-      "word": "开始盼九三阅兵了",
-      "onboard_time": 1755678083,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 239855,
       "num": 239855,
       "word": "被养子背叛后我怒刀30人",
@@ -4155,6 +4155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212682,
+      "num": 212682,
+      "word": "小酒窝说出道耽误我学习",
+      "onboard_time": 1755680422,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212181,
       "num": 245820,
       "word": "Baolan谈Elk亮小丑",
@@ -4216,6 +4224,14 @@
       "word": "内娱4张权威脸同框了",
       "onboard_time": 1755348745,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209597,
+      "num": 209597,
+      "word": "刘学义给小孩姐送五三把答案撕了",
+      "onboard_time": 1755682283,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -4305,6 +4321,14 @@
       "onboard_time": 1755645379,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206690,
+      "num": 206690,
+      "word": "时团上海演唱会安检",
+      "onboard_time": 1755675023,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 206647,
@@ -4515,14 +4539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200929,
-      "num": 200929,
-      "word": "时团上海演唱会安检",
-      "onboard_time": 1755675023,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 200759,
       "num": 200759,
       "word": "张峻豪直播",
@@ -4668,7 +4684,7 @@
     },
     {
       "raw_hot": 198254,
-      "num": 198254,
+      "num": 217186,
       "word": "建议不要带着饥饿感入睡",
       "onboard_time": 1755679944,
       "rank": 27,
@@ -4713,14 +4729,6 @@
       "onboard_time": 1755571401,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197495,
-      "num": 197495,
-      "word": "小酒窝说出道耽误我学习",
-      "onboard_time": 1755680422,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 197447,
@@ -5419,6 +5427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180988,
+      "num": 180988,
+      "word": "赵今麦晒与孙俪杨幂合照",
+      "onboard_time": 1755682463,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180913,
       "num": 180913,
       "word": "无畏契约手游",
@@ -5577,6 +5593,14 @@
       "onboard_time": 1755592822,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 176602,
+      "num": 165297,
+      "word": "现在的电视做得像手机一样",
+      "onboard_time": 1755681743,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 176547,
@@ -6467,14 +6491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160228,
-      "num": 160228,
-      "word": "现在的电视做得像手机一样",
-      "onboard_time": 1755681743,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160183,
       "num": 160183,
       "word": "一分惜败",
@@ -6729,6 +6745,14 @@
       "onboard_time": 1755669142,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155502,
+      "num": 155502,
+      "word": "曝jiejie不去BLG",
+      "onboard_time": 1755682104,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 155370,
@@ -7811,6 +7835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138766,
+      "num": 138766,
+      "word": "清空爱心冰柜的老太再来后扑空了",
+      "onboard_time": 1755682763,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138755,
       "num": 138755,
       "word": "原来局部暴雨全景长这样",
@@ -8433,14 +8465,6 @@
       "onboard_time": 1755602906,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131304,
-      "num": 131304,
-      "word": "曝jiejie不去BLG",
-      "onboard_time": 1755682104,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 131116,
@@ -9683,6 +9707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 114059,
+      "num": 114059,
+      "word": "小时候背的时候真是一点也不能共情",
+      "onboard_time": 1755682882,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113914,
       "num": 113914,
       "word": "王橹杰卖萌",
@@ -10115,6 +10147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 108605,
+      "num": 160010,
+      "word": "内娱女星友谊学",
+      "onboard_time": 1755681623,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 108554,
       "num": 154074,
       "word": "周雨谈王楚钦林诗栋技术特点",
@@ -10321,6 +10361,14 @@
       "onboard_time": 1755414262,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105506,
+      "num": 137210,
+      "word": "付钱是最基本的尊重和礼貌",
+      "onboard_time": 1755682823,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105235,
@@ -11177,6 +11225,14 @@
       "onboard_time": 1755389419,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89521,
+      "num": 137577,
+      "word": "迪丽热巴变装不基础脸更不基础",
+      "onboard_time": 1755682403,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 89460,
@@ -12899,6 +12955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41431,
+      "num": 134883,
+      "word": "九三阅兵期待值拉满",
+      "onboard_time": 1755682882,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41390,
       "num": 133831,
       "word": "郑晓龙震惊甄嬛传14年了还在二创",
@@ -13043,6 +13107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37802,
+      "num": 135012,
+      "word": "西藏今昔对比太震撼",
+      "onboard_time": 1755682823,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37661,
       "num": 37661,
       "word": "苏超常州镇江扬州套圈了",
@@ -13057,6 +13129,14 @@
       "onboard_time": 1755596484,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37190,
+      "num": 166170,
+      "word": "救人者称漂流6日男子没有翻身力气",
+      "onboard_time": 1755682463,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37123,
@@ -13547,6 +13627,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 23700,
+      "num": 745637,
+      "word": "阅兵有很多明星装备",
+      "onboard_time": 1755657080,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23375,
       "num": 159901,
       "word": "诬告陷害要不要承担法律责任",
@@ -13755,14 +13843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17742,
-      "num": 745637,
-      "word": "阅兵有很多明星装备",
-      "onboard_time": 1755657080,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17719,
       "num": 25334,
       "word": "张杰 主包什么时候学的新疆舞",
@@ -13841,14 +13921,6 @@
       "onboard_time": 1755375914,
       "rank": 33,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10843,
-      "num": 160010,
-      "word": "内娱女星友谊学",
-      "onboard_time": 1755681623,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 10216,
@@ -13946,6 +14018,9 @@
     },
     {
       "word": "#西藏自治区成立60周年庆祝活动#"
+    },
+    {
+      "word": "#习近平率中央代表团抵达拉萨#"
     }
   ]
 }

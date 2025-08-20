@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755682156357,
+  "endTime": 1755682943127,
   "band_list": [
     {
       "raw_hot": 1811308,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736406,
+      "num": 736406,
+      "word": "时代少年团上海演唱会",
+      "onboard_time": 1755680063,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 732756,
       "num": 732756,
       "word": "当间谍线人后怕暴露辞职考公",
@@ -227,20 +235,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 666382,
+      "num": 666382,
+      "word": "父婴室",
+      "onboard_time": 1755678983,
+      "rank": 48,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 660050,
       "num": 660050,
       "word": "南京10元手冲咖啡阿姨现状",
       "onboard_time": 1755653361,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 647764,
-      "num": 453727,
-      "word": "时代少年团上海演唱会",
-      "onboard_time": 1755680063,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 616470,
@@ -265,6 +273,14 @@
       "onboard_time": 1755670222,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 567447,
+      "num": 321074,
+      "word": "奚梦瑶5岁儿子身高",
+      "onboard_time": 1755681203,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 560700,
@@ -329,14 +345,6 @@
       "onboard_time": 1755671541,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 471346,
-      "num": 471346,
-      "word": "父婴室",
-      "onboard_time": 1755678983,
-      "rank": 48,
-      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 471133,
@@ -443,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392520,
+      "num": 392520,
+      "word": "外交部回应外国领导人出席阅兵",
+      "onboard_time": 1755680783,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 392362,
       "num": 392362,
       "word": "18只猫成了海鲜摊的掌柜",
@@ -531,14 +547,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 352596,
-      "num": 352596,
-      "word": "外交部回应外国领导人出席阅兵",
-      "onboard_time": 1755680783,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 351379,
       "num": 288507,
       "word": "向往的生活8乌镇路透",
@@ -585,14 +593,6 @@
       "onboard_time": 1755659180,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 321074,
-      "num": 321074,
-      "word": "奚梦瑶5岁儿子身高",
-      "onboard_time": 1755681203,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 310526,
@@ -664,6 +664,14 @@
       "word": "九三盛大阅兵",
       "onboard_time": 1755656960,
       "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 282388,
+      "num": 453698,
+      "word": "开始盼九三阅兵了",
+      "onboard_time": 1755678083,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -787,14 +795,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 240309,
-      "num": 453698,
-      "word": "开始盼九三阅兵了",
-      "onboard_time": 1755678083,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 236201,
       "num": 206099,
       "word": "王晶说追星是很愚蠢的行为",
@@ -915,12 +915,28 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 212682,
+      "num": 212682,
+      "word": "小酒窝说出道耽误我学习",
+      "onboard_time": 1755680422,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210132,
       "num": 209334,
       "word": "赵今麦 妹妹今晚还回家吗",
       "onboard_time": 1755667342,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209597,
+      "num": 209597,
+      "word": "刘学义给小孩姐送五三把答案撕了",
+      "onboard_time": 1755682283,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 209208,
@@ -963,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206690,
+      "num": 206690,
+      "word": "时团上海演唱会安检",
+      "onboard_time": 1755675023,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204952,
       "num": 204952,
       "word": "阅兵有阅兵式分列式2个步骤",
@@ -1003,14 +1027,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 200929,
-      "num": 200929,
-      "word": "时团上海演唱会安检",
-      "onboard_time": 1755675023,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 199849,
       "num": 199849,
       "word": "黄杨钿甜补拍冰湖重生",
@@ -1044,7 +1060,7 @@
     },
     {
       "raw_hot": 198254,
-      "num": 198254,
+      "num": 217186,
       "word": "建议不要带着饥饿感入睡",
       "onboard_time": 1755679944,
       "rank": 27,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1755657263,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197495,
-      "num": 197495,
-      "word": "小酒窝说出道耽误我学习",
-      "onboard_time": 1755680422,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 197431,
@@ -1227,6 +1235,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180988,
+      "num": 180988,
+      "word": "赵今麦晒与孙俪杨幂合照",
+      "onboard_time": 1755682463,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176602,
+      "num": 165297,
+      "word": "现在的电视做得像手机一样",
+      "onboard_time": 1755681743,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175580,
       "num": 175580,
       "word": "董璇张维伊没有领证",
@@ -1323,14 +1347,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 160228,
-      "num": 160228,
-      "word": "现在的电视做得像手机一样",
-      "onboard_time": 1755681743,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159927,
       "num": 159927,
       "word": "丑面包打折",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1755669142,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155502,
+      "num": 155502,
+      "word": "曝jiejie不去BLG",
+      "onboard_time": 1755682104,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 155208,
@@ -1563,6 +1587,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 142488,
+      "num": 142488,
+      "word": "生万物云合",
+      "onboard_time": 1755682581,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141490,
       "num": 141490,
       "word": "80名礼号手寓意抗战胜利80周年",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1755659422,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138766,
+      "num": 138766,
+      "word": "清空爱心冰柜的老太再来后扑空了",
+      "onboard_time": 1755682763,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138717,
@@ -1689,14 +1729,6 @@
       "onboard_time": 1755679284,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131304,
-      "num": 131304,
-      "word": "曝jiejie不去BLG",
-      "onboard_time": 1755682104,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 130318,
@@ -1891,6 +1923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 114059,
+      "num": 114059,
+      "word": "小时候背的时候真是一点也不能共情",
+      "onboard_time": 1755682882,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113399,
       "num": 134389,
       "word": "日军罪行时隔85年完整曝光",
@@ -1947,11 +1987,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108605,
+      "num": 160010,
+      "word": "内娱女星友谊学",
+      "onboard_time": 1755681623,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 105789,
       "num": 105789,
       "word": "店主回应爱心冰柜遭老太凌晨清空",
       "onboard_time": 1755653302,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105506,
+      "num": 137210,
+      "word": "付钱是最基本的尊重和礼貌",
+      "onboard_time": 1755682823,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2065,6 +2121,14 @@
       "onboard_time": 1755675083,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89521,
+      "num": 137577,
+      "word": "迪丽热巴变装不基础脸更不基础",
+      "onboard_time": 1755682403,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 88932,
@@ -2475,6 +2539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41431,
+      "num": 134883,
+      "word": "九三阅兵期待值拉满",
+      "onboard_time": 1755682882,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40995,
       "num": 115758,
       "word": "宋佳虞书欣牵手",
@@ -2513,6 +2585,22 @@
       "onboard_time": 1755667222,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 37802,
+      "num": 135012,
+      "word": "西藏今昔对比太震撼",
+      "onboard_time": 1755682823,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 37190,
+      "num": 166170,
+      "word": "救人者称漂流6日男子没有翻身力气",
+      "onboard_time": 1755682463,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35309,
@@ -2635,6 +2723,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 23700,
+      "num": 745637,
+      "word": "阅兵有很多明星装备",
+      "onboard_time": 1755657080,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23375,
       "num": 159901,
       "word": "诬告陷害要不要承担法律责任",
@@ -2659,14 +2755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17742,
-      "num": 745637,
-      "word": "阅兵有很多明星装备",
-      "onboard_time": 1755657080,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17719,
       "num": 25334,
       "word": "张杰 主包什么时候学的新疆舞",
@@ -2689,14 +2777,6 @@
       "onboard_time": 1755629355,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10843,
-      "num": 160010,
-      "word": "内娱女星友谊学",
-      "onboard_time": 1755681623,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 9965,
@@ -2735,6 +2815,9 @@
     },
     {
       "word": "#西藏自治区成立60周年庆祝活动#"
+    },
+    {
+      "word": "#习近平率中央代表团抵达拉萨#"
     }
   ]
 }
