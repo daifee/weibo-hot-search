@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755678845353,
+  "endTime": 1755679588457,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1155,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1755192,
+      "num": 1755192,
+      "word": "deepseek演都不演了",
+      "onboard_time": 1755674723,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1754179,
       "num": 1754179,
       "word": "免费续面 无限续面",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1754363482,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1633272,
-      "num": 1633272,
-      "word": "deepseek演都不演了",
-      "onboard_time": 1755674723,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 1626828,
@@ -2619,6 +2619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1226029,
+      "num": 318620,
+      "word": "王安宇评论区",
+      "onboard_time": 1755673882,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1225980,
       "num": 1225980,
       "word": "打车送脑出血父亲就医被取消订单",
@@ -2793,14 +2801,6 @@
       "onboard_time": 1754899760,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1176642,
-      "num": 318620,
-      "word": "王安宇评论区",
-      "onboard_time": 1755673882,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1174369,
@@ -3729,6 +3729,14 @@
       "onboard_time": 1754382445,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 988391,
+      "num": 988391,
+      "word": "老人未去世就被要求火化",
+      "onboard_time": 1755675682,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 986890,
@@ -6385,14 +6393,6 @@
       "onboard_time": 1754307202,
       "rank": 20,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 689485,
-      "num": 689485,
-      "word": "老人未去世就被要求火化",
-      "onboard_time": 1755675682,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 689055,
@@ -13243,6 +13243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 374833,
+      "num": 279503,
+      "word": "桃黑黑 我真求你们了",
+      "onboard_time": 1755673822,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 374712,
       "num": 309481,
       "word": "沈佳润 穿貂的爸卖车厘子的妈",
@@ -13865,6 +13873,14 @@
       "onboard_time": 1754476883,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351379,
+      "num": 288507,
+      "word": "向往的生活8乌镇路透",
+      "onboard_time": 1755673941,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 351226,
@@ -16323,14 +16339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288507,
-      "num": 288507,
-      "word": "向往的生活8乌镇路透",
-      "onboard_time": 1755673941,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288409,
       "num": 288409,
       "word": "26岁的金裕贞",
@@ -16745,14 +16753,6 @@
       "onboard_time": 1754279484,
       "rank": 22,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 279503,
-      "num": 279503,
-      "word": "桃黑黑 我真求你们了",
-      "onboard_time": 1755673822,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 279480,
@@ -19219,6 +19219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239339,
+      "num": 239339,
+      "word": "车主称50升油箱被加了67.96升汽油",
+      "onboard_time": 1755676583,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239265,
       "num": 239265,
       "word": "荣成车祸致一家1死4伤家属发声",
@@ -19601,14 +19609,6 @@
       "onboard_time": 1754366605,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233658,
-      "num": 233658,
-      "word": "车主称50升油箱被加了67.96升汽油",
-      "onboard_time": 1755676583,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233595,
@@ -25891,6 +25891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191328,
+      "num": 453698,
+      "word": "开始盼九三阅兵了",
+      "onboard_time": 1755678083,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191296,
       "num": 191296,
       "word": "赵睿喜极而泣",
@@ -30659,6 +30667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169316,
+      "num": 169316,
+      "word": "7岁女童买糖未归母亲急晕",
+      "onboard_time": 1755678204,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 169309,
       "num": 169309,
       "word": "RNGM对战JDG",
@@ -31761,6 +31777,14 @@
       "onboard_time": 1754660063,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164337,
+      "num": 164337,
+      "word": "爷爷奶奶哽咽发声养20年非亲孙子",
+      "onboard_time": 1755678802,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164331,
@@ -33281,6 +33305,14 @@
       "onboard_time": 1755314902,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158892,
+      "num": 158892,
+      "word": "鲁班七号星传说",
+      "onboard_time": 1755679102,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 158886,
@@ -35851,6 +35883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150118,
+      "num": 147941,
+      "word": "丑面包打折",
+      "onboard_time": 1755677903,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150112,
       "num": 150112,
       "word": "中俄合拍谍战电影来了",
@@ -35873,6 +35913,14 @@
       "onboard_time": 1754382384,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149997,
+      "num": 149997,
+      "word": "Wayward为Knight澄清",
+      "onboard_time": 1755678503,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 149984,
@@ -37641,14 +37689,6 @@
       "onboard_time": 1755594862,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 144860,
-      "num": 144860,
-      "word": "Wayward为Knight澄清",
-      "onboard_time": 1755678503,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 144828,
@@ -42259,6 +42299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132487,
+      "num": 132487,
+      "word": "王影璐献鱼本体是兔老大",
+      "onboard_time": 1755679284,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132472,
       "num": 132472,
       "word": "WB对战TTG",
@@ -42857,14 +42905,6 @@
       "onboard_time": 1754100561,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131058,
-      "num": 131058,
-      "word": "7岁女童买糖未归母亲急晕",
-      "onboard_time": 1755678204,
-      "rank": 47,
-      "category": "正能量"
     },
     {
       "raw_hot": 131033,
@@ -45027,14 +45067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126060,
-      "num": 126060,
-      "word": "爷爷奶奶哽咽发声养20年非亲孙子",
-      "onboard_time": 1755678802,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126046,
       "num": 164346,
       "word": "建议所有漫展按CJ标准卷起来",
@@ -45209,6 +45241,14 @@
       "onboard_time": 1755314123,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 125574,
+      "num": 125574,
+      "word": "父婴室",
+      "onboard_time": 1755678983,
+      "rank": 48,
+      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 125545,
@@ -49521,14 +49561,6 @@
       "onboard_time": 1755086424,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114220,
-      "num": 453698,
-      "word": "开始盼九三阅兵了",
-      "onboard_time": 1755678083,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 114213,
@@ -55803,6 +55835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95587,
+      "num": 203983,
+      "word": "钟南山讲述1945年日本投降记忆",
+      "onboard_time": 1755678684,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 95554,
       "num": 95554,
       "word": "中国队无缘男女混合自接决赛",
@@ -58371,14 +58411,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 82740,
-      "num": 186871,
-      "word": "钟南山讲述1945年日本投降记忆",
-      "onboard_time": 1755678684,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 82678,
       "num": 120720,
       "word": "刘宇宁晒地球超新鲜合照",
@@ -60619,6 +60651,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 65827,
+      "num": 169576,
+      "word": "田曦薇这是真老公",
+      "onboard_time": 1755679402,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65808,
       "num": 125744,
       "word": "业主投诉小区有超200家无证民宿",
@@ -62145,6 +62185,14 @@
       "onboard_time": 1755141863,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55028,
+      "num": 151305,
+      "word": "田曦薇e人拿一颗i人拿两颗",
+      "onboard_time": 1755674841,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 54967,
@@ -63787,6 +63835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43291,
+      "num": 173511,
+      "word": "女子称入住昆明一酒店被长针扎伤",
+      "onboard_time": 1755678684,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43286,
       "num": 147231,
       "word": "前兽医称公园长期给海豚注射镇静药",
@@ -64608,14 +64664,6 @@
       "word": "阿里22个品牌联合发布橙意计划",
       "onboard_time": 1755496882,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37971,
-      "num": 145467,
-      "word": "女子称入住昆明一酒店被长针扎伤",
-      "onboard_time": 1755678684,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -66219,6 +66267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 27433,
+      "num": 150252,
+      "word": "边伯贤的裤子想开了",
+      "onboard_time": 1755678922,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 27350,
       "num": 46625,
       "word": "7岁学生校外补习时坠亡母亲发声",
@@ -67259,6 +67315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 19732,
+      "num": 150069,
+      "word": "辛芷蕾又说了什么不能播的",
+      "onboard_time": 1755678802,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19625,
       "num": 126331,
       "word": "战歌一响 李峋登场",
@@ -67867,14 +67931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14272,
-      "num": 140781,
-      "word": "辛芷蕾又说了什么不能播的",
-      "onboard_time": 1755678802,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 13980,
       "num": 15437,
       "word": "网友称喜茶杯内现标签门店仅退款",
@@ -68259,6 +68315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 4219,
+      "num": 1052237,
+      "word": "非遗里的大美中国",
+      "onboard_time": 1755663023,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4120,
       "num": 1073164,
       "word": "中国军人高燃大片根本看不够",
@@ -68271,14 +68335,6 @@
       "num": 735422,
       "word": "财政部详解保教费按什么标准免",
       "onboard_time": 1754535081,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3526,
-      "num": 1052237,
-      "word": "非遗里的大美中国",
-      "onboard_time": 1755663023,
       "rank": 2,
       "category": "民生新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755678845353,
+  "endTime": 1755679588457,
   "band_list": [
     {
       "raw_hot": 1811308,
@@ -11,8 +11,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1633272,
-      "num": 1633272,
+      "raw_hot": 1755192,
+      "num": 1755192,
       "word": "deepseek演都不演了",
       "onboard_time": 1755674723,
       "rank": 35,
@@ -75,7 +75,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1176642,
+      "raw_hot": 1226029,
       "num": 318620,
       "word": "王安宇评论区",
       "onboard_time": 1755673882,
@@ -105,6 +105,14 @@
       "onboard_time": 1755663742,
       "rank": 39,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 988391,
+      "num": 988391,
+      "word": "老人未去世就被要求火化",
+      "onboard_time": 1755675682,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 981456,
@@ -201,14 +209,6 @@
       "onboard_time": 1755597624,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 689485,
-      "num": 689485,
-      "word": "老人未去世就被要求火化",
-      "onboard_time": 1755675682,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 677692,
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 374833,
+      "num": 279503,
+      "word": "桃黑黑 我真求你们了",
+      "onboard_time": 1755673822,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 374712,
       "num": 309481,
       "word": "沈佳润 穿貂的爸卖车厘子的妈",
@@ -489,6 +497,14 @@
       "onboard_time": 1755616584,
       "rank": 7,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 351379,
+      "num": 288507,
+      "word": "向往的生活8乌镇路透",
+      "onboard_time": 1755673941,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 336792,
@@ -587,14 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 288507,
-      "num": 288507,
-      "word": "向往的生活8乌镇路透",
-      "onboard_time": 1755673941,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284718,
       "num": 189434,
       "word": "检验睡没睡够的金标准",
@@ -633,14 +641,6 @@
       "onboard_time": 1755646519,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 279503,
-      "num": 279503,
-      "word": "桃黑黑 我真求你们了",
-      "onboard_time": 1755673822,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 276392,
@@ -739,6 +739,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 239339,
+      "num": 239339,
+      "word": "车主称50升油箱被加了67.96升汽油",
+      "onboard_time": 1755676583,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236201,
       "num": 206099,
       "word": "王晶说追星是很愚蠢的行为",
@@ -761,14 +769,6 @@
       "onboard_time": 1755663142,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233658,
-      "num": 233658,
-      "word": "车主称50升油箱被加了67.96升汽油",
-      "onboard_time": 1755676583,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230597,
@@ -1051,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191328,
+      "num": 453698,
+      "word": "开始盼九三阅兵了",
+      "onboard_time": 1755678083,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188960,
       "num": 188960,
       "word": "LV口红卖1200元",
@@ -1139,6 +1147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169316,
+      "num": 169316,
+      "word": "7岁女童买糖未归母亲急晕",
+      "onboard_time": 1755678204,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 168821,
       "num": 136326,
       "word": "W盛典内场",
@@ -1179,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164337,
+      "num": 164337,
+      "word": "爷爷奶奶哽咽发声养20年非亲孙子",
+      "onboard_time": 1755678802,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163645,
       "num": 163645,
       "word": "林允林品如发型",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1755669863,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158892,
+      "num": 158892,
+      "word": "鲁班七号星传说",
+      "onboard_time": 1755679102,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 157591,
@@ -1299,6 +1331,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150118,
+      "num": 147941,
+      "word": "丑面包打折",
+      "onboard_time": 1755677903,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149997,
+      "num": 149997,
+      "word": "Wayward为Knight澄清",
+      "onboard_time": 1755678503,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148925,
       "num": 148925,
       "word": "曾火遍全国的贵州村超现状如何",
@@ -1377,14 +1425,6 @@
       "onboard_time": 1755673401,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144860,
-      "num": 144860,
-      "word": "Wayward为Knight澄清",
-      "onboard_time": 1755678503,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 143070,
@@ -1523,12 +1563,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 131058,
-      "num": 131058,
-      "word": "7岁女童买糖未归母亲急晕",
-      "onboard_time": 1755678204,
-      "rank": 47,
-      "category": "正能量"
+      "raw_hot": 132487,
+      "num": 132487,
+      "word": "王影璐献鱼本体是兔老大",
+      "onboard_time": 1755679284,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 130318,
@@ -1627,12 +1667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126060,
-      "num": 126060,
-      "word": "爷爷奶奶哽咽发声养20年非亲孙子",
-      "onboard_time": 1755678802,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 125574,
+      "num": 125574,
+      "word": "父婴室",
+      "onboard_time": 1755678983,
+      "rank": 48,
+      "category": "民生新闻,母婴育儿"
     },
     {
       "raw_hot": 124904,
@@ -1721,14 +1761,6 @@
       "onboard_time": 1755616044,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 114220,
-      "num": 453698,
-      "word": "开始盼九三阅兵了",
-      "onboard_time": 1755678083,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 113399,
@@ -1875,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95587,
+      "num": 203983,
+      "word": "钟南山讲述1945年日本投降记忆",
+      "onboard_time": 1755678684,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 94811,
       "num": 101140,
       "word": "刘耀文贺峻霖彩排",
@@ -1969,14 +2009,6 @@
       "onboard_time": 1755645079,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82740,
-      "num": 186871,
-      "word": "钟南山讲述1945年日本投降记忆",
-      "onboard_time": 1755678684,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 82623,
@@ -2155,6 +2187,14 @@
       "category": "作品衍生,数码"
     },
     {
+      "raw_hot": 65827,
+      "num": 169576,
+      "word": "田曦薇这是真老公",
+      "onboard_time": 1755679402,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63152,
       "num": 117964,
       "word": "卓沅后援会回应把翻唱写成新歌",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1755675143,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55028,
+      "num": 151305,
+      "word": "田曦薇e人拿一颗i人拿两颗",
+      "onboard_time": 1755674841,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 53568,
@@ -2275,6 +2323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43291,
+      "num": 173511,
+      "word": "女子称入住昆明一酒店被长针扎伤",
+      "onboard_time": 1755678684,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43260,
       "num": 43260,
       "word": "浪姐团综 团魂这一刻具像化了",
@@ -2331,14 +2387,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 37971,
-      "num": 145467,
-      "word": "女子称入住昆明一酒店被长针扎伤",
-      "onboard_time": 1755678684,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35309,
       "num": 65254,
       "word": "孙俪状态满40减20",
@@ -2385,6 +2433,14 @@
       "onboard_time": 1755671603,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27433,
+      "num": 150252,
+      "word": "边伯贤的裤子想开了",
+      "onboard_time": 1755678922,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 27181,
@@ -2459,6 +2515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19732,
+      "num": 150069,
+      "word": "辛芷蕾又说了什么不能播的",
+      "onboard_time": 1755678802,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 18308,
       "num": 130881,
       "word": "白俄罗斯愿组织普京泽连斯基会晤",
@@ -2483,14 +2547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14272,
-      "num": 140781,
-      "word": "辛芷蕾又说了什么不能播的",
-      "onboard_time": 1755678802,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 13097,
       "num": 44244,
       "word": "描绘新时代西藏发展新画卷",
@@ -2507,7 +2563,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3526,
+      "raw_hot": 4219,
       "num": 1052237,
       "word": "非遗里的大美中国",
       "onboard_time": 1755663023,
