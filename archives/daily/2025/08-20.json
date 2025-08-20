@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755679588457,
+  "endTime": 1755682156357,
   "band_list": [
     {
       "raw_hot": 1811308,
@@ -49,6 +49,14 @@
       "onboard_time": 1755615444,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1294823,
+      "num": 988391,
+      "word": "老人未去世就被要求火化",
+      "onboard_time": 1755675682,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1242503,
@@ -105,14 +113,6 @@
       "onboard_time": 1755663742,
       "rank": 39,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 988391,
-      "num": 988391,
-      "word": "老人未去世就被要求火化",
-      "onboard_time": 1755675682,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 981456,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 736683,
+      "num": 736683,
+      "word": "刘骏否认私联",
+      "onboard_time": 1755680662,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 732756,
       "num": 732756,
       "word": "当间谍线人后怕暴露辞职考公",
@@ -225,6 +233,14 @@
       "onboard_time": 1755653361,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 647764,
+      "num": 453727,
+      "word": "时代少年团上海演唱会",
+      "onboard_time": 1755680063,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 616470,
@@ -315,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471346,
+      "num": 471346,
+      "word": "父婴室",
+      "onboard_time": 1755678983,
+      "rank": 48,
+      "category": "民生新闻,母婴育儿"
+    },
+    {
       "raw_hot": 471133,
       "num": 471133,
       "word": "剧宣标杆 85花杨幂90花杨紫",
@@ -395,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 410723,
+      "num": 410723,
+      "word": "车主称50升油箱被加了67.96升汽油",
+      "onboard_time": 1755676583,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409990,
       "num": 318208,
       "word": "文淇 她是龙",
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 374833,
-      "num": 279503,
+      "num": 324866,
       "word": "桃黑黑 我真求你们了",
       "onboard_time": 1755673822,
       "rank": 31,
@@ -497,6 +529,14 @@
       "onboard_time": 1755616584,
       "rank": 7,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 352596,
+      "num": 352596,
+      "word": "外交部回应外国领导人出席阅兵",
+      "onboard_time": 1755680783,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 351379,
@@ -545,6 +585,14 @@
       "onboard_time": 1755659180,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 321074,
+      "num": 321074,
+      "word": "奚梦瑶5岁儿子身高",
+      "onboard_time": 1755681203,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 310526,
@@ -739,12 +787,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 239339,
-      "num": 239339,
-      "word": "车主称50升油箱被加了67.96升汽油",
-      "onboard_time": 1755676583,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 240309,
+      "num": 453698,
+      "word": "开始盼九三阅兵了",
+      "onboard_time": 1755678083,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 236201,
@@ -787,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226749,
+      "num": 226749,
+      "word": "田曦薇这是真老公",
+      "onboard_time": 1755679402,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225164,
       "num": 225164,
       "word": "泽连斯基55秒开场白说了8次谢谢",
@@ -825,6 +881,14 @@
       "onboard_time": 1755665362,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216949,
+      "num": 216949,
+      "word": "一天中最易长胖的4个时段",
+      "onboard_time": 1755677482,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 215368,
@@ -923,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203888,
+      "num": 203888,
+      "word": "范丞丞跳了刀马刀马",
+      "onboard_time": 1755681322,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201647,
       "num": 201647,
       "word": "桃黑黑 全国校园男神大赛",
@@ -931,11 +1003,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 200929,
+      "num": 200929,
+      "word": "时团上海演唱会安检",
+      "onboard_time": 1755675023,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199849,
       "num": 199849,
       "word": "黄杨钿甜补拍冰湖重生",
       "onboard_time": 1755661041,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199520,
+      "num": 199520,
+      "word": "许凯 我会一直死死盯着你们",
+      "onboard_time": 1755681203,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -955,6 +1043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 198254,
+      "num": 198254,
+      "word": "建议不要带着饥饿感入睡",
+      "onboard_time": 1755679944,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 198225,
       "num": 198225,
       "word": "欧豪统一了我全家的审美",
@@ -963,12 +1059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197495,
+      "num": 197495,
+      "word": "小酒窝说出道耽误我学习",
+      "onboard_time": 1755680422,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197431,
       "num": 236763,
       "word": "阅兵将展现抗战功勋荣誉旗帜",
       "onboard_time": 1755660563,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 197026,
+      "num": 197026,
+      "word": "给时团没票的粉丝一个家",
+      "onboard_time": 1755681023,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 196704,
@@ -995,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195814,
+      "num": 195814,
+      "word": "用电视玩手游还是太权威了",
+      "onboard_time": 1755681381,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195310,
       "num": 204855,
       "word": "锦月如歌大结局",
@@ -1019,20 +1139,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 194164,
+      "num": 194164,
+      "word": "杨幂撕拉片",
+      "onboard_time": 1755681503,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193201,
       "num": 256772,
       "word": "子夜归追剧团",
       "onboard_time": 1755674723,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193021,
-      "num": 193021,
-      "word": "一天中最易长胖的4个时段",
-      "onboard_time": 1755677482,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 192497,
@@ -1049,14 +1169,6 @@
       "onboard_time": 1755673701,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191328,
-      "num": 453698,
-      "word": "开始盼九三阅兵了",
-      "onboard_time": 1755678083,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 188960,
@@ -1163,14 +1275,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 168146,
-      "num": 168146,
-      "word": "时团上海演唱会安检",
-      "onboard_time": 1755675023,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 167981,
       "num": 193268,
       "word": "中华儿女歼灭日军150多万人",
@@ -1217,6 +1321,22 @@
       "onboard_time": 1755661041,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 160228,
+      "num": 160228,
+      "word": "现在的电视做得像手机一样",
+      "onboard_time": 1755681743,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159927,
+      "num": 159927,
+      "word": "丑面包打折",
+      "onboard_time": 1755677903,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 159866,
@@ -1331,14 +1451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 150118,
-      "num": 147941,
-      "word": "丑面包打折",
-      "onboard_time": 1755677903,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149997,
       "num": 149997,
       "word": "Wayward为Knight澄清",
@@ -1425,6 +1537,14 @@
       "onboard_time": 1755673401,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144030,
+      "num": 203983,
+      "word": "钟南山讲述1945年日本投降记忆",
+      "onboard_time": 1755678684,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 143070,
@@ -1571,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131304,
+      "num": 131304,
+      "word": "曝jiejie不去BLG",
+      "onboard_time": 1755682104,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130318,
       "num": 130318,
       "word": "马嘉祺背头",
@@ -1667,14 +1795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125574,
-      "num": 125574,
-      "word": "父婴室",
-      "onboard_time": 1755678983,
-      "rank": 48,
-      "category": "民生新闻,母婴育儿"
-    },
-    {
       "raw_hot": 124904,
       "num": 124904,
       "word": "倪妮 下身基础上身就不基础",
@@ -1689,6 +1809,14 @@
       "onboard_time": 1755657801,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120578,
+      "num": 120578,
+      "word": "A股探底回升超3600股上涨",
+      "onboard_time": 1755682104,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 120037,
@@ -1905,14 +2033,6 @@
       "onboard_time": 1755652041,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95587,
-      "num": 203983,
-      "word": "钟南山讲述1945年日本投降记忆",
-      "onboard_time": 1755678684,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 94811,
@@ -2187,14 +2307,6 @@
       "category": "作品衍生,数码"
     },
     {
-      "raw_hot": 65827,
-      "num": 169576,
-      "word": "田曦薇这是真老公",
-      "onboard_time": 1755679402,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63152,
       "num": 117964,
       "word": "卓沅后援会回应把翻唱写成新歌",
@@ -2225,6 +2337,14 @@
       "onboard_time": 1755671903,
       "rank": 34,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 58486,
+      "num": 159966,
+      "word": "三男子抬醉酒女子上车实为好友相助",
+      "onboard_time": 1755677602,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 57025,
@@ -2305,6 +2425,14 @@
       "onboard_time": 1755600206,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 44203,
+      "num": 197102,
+      "word": "家属寻23岁失联男子被死亡威胁",
+      "onboard_time": 1755680544,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43459,
@@ -2531,6 +2659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17742,
+      "num": 745637,
+      "word": "阅兵有很多明星装备",
+      "onboard_time": 1755657080,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17719,
       "num": 25334,
       "word": "张杰 主包什么时候学的新疆舞",
@@ -2553,6 +2689,14 @@
       "onboard_time": 1755629355,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10843,
+      "num": 160010,
+      "word": "内娱女星友谊学",
+      "onboard_time": 1755681623,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 9965,
@@ -2588,6 +2732,9 @@
     },
     {
       "word": "#习近平将检阅受阅部队#"
+    },
+    {
+      "word": "#西藏自治区成立60周年庆祝活动#"
     }
   ]
 }
