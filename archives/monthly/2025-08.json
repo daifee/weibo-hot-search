@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755689896114,
+  "endTime": 1755694375891,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -283,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3389178,
+      "num": 711865,
+      "word": "难听",
+      "onboard_time": 1754138905,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 3355386,
       "num": 3198643,
       "word": "杨幂 地母",
@@ -561,14 +569,6 @@
       "onboard_time": 1754622621,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2409993,
-      "num": 546436,
-      "word": "难听",
-      "onboard_time": 1754138905,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 2408808,
@@ -1233,6 +1233,14 @@
       "onboard_time": 1754224706,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1709035,
+      "num": 1709035,
+      "word": "村里出了个大明星 人们都叫他成毅",
+      "onboard_time": 1755690082,
+      "rank": 0,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 1701905,
@@ -3747,6 +3755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 992410,
+      "num": 992410,
+      "word": "失踪的梨泰院惨案救援消防员已身亡",
+      "onboard_time": 1755688761,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 990967,
       "num": 449805,
       "word": "黄多多星味",
@@ -4577,6 +4593,14 @@
       "onboard_time": 1755222380,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 865241,
+      "num": 320709,
+      "word": "时代少年团后援会声明",
+      "onboard_time": 1755691044,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 862925,
@@ -5572,7 +5596,7 @@
     },
     {
       "raw_hot": 759482,
-      "num": 257177,
+      "num": 319919,
       "word": "34岁存款100万决定提前退休",
       "onboard_time": 1755684744,
       "rank": 17,
@@ -6139,6 +6163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 713631,
+      "num": 374797,
+      "word": "绣绣意外流产了",
+      "onboard_time": 1755690142,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 713411,
       "num": 713411,
       "word": "撒贝宁保送北大的真实原因",
@@ -6212,7 +6244,7 @@
     },
     {
       "raw_hot": 708192,
-      "num": 262277,
+      "num": 313655,
       "word": "歌手luz去世",
       "onboard_time": 1755683243,
       "rank": 13,
@@ -6273,6 +6305,14 @@
       "onboard_time": 1754176879,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 702995,
+      "num": 702995,
+      "word": "因父母求子被砍手女生的现状",
+      "onboard_time": 1755689124,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 702526,
@@ -8275,6 +8315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581382,
+      "num": 373947,
+      "word": "泪桥",
+      "onboard_time": 1755691103,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 580800,
       "num": 580800,
       "word": "台风母体来了",
@@ -10171,14 +10219,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 486478,
-      "num": 486478,
-      "word": "失踪的梨泰院惨案救援消防员已身亡",
-      "onboard_time": 1755688761,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 486448,
       "num": 396522,
       "word": "果然老破小住久了副作用就来了",
@@ -10929,6 +10969,14 @@
       "onboard_time": 1755666322,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456943,
+      "num": 318433,
+      "word": "毛雪汪",
+      "onboard_time": 1755690623,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 456860,
@@ -13419,6 +13467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372098,
+      "num": 372098,
+      "word": "3万金镯子被猫推进垃圾桶后扔了",
+      "onboard_time": 1755691524,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371928,
       "num": 371928,
       "word": "藏民12小时抬驴友下山收费6万",
@@ -13913,6 +13969,14 @@
       "onboard_time": 1754989581,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354856,
+      "num": 316910,
+      "word": "赵丽颖造型 TinaZ",
+      "onboard_time": 1755693325,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 354747,
@@ -15011,6 +15075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324630,
+      "num": 311826,
+      "word": "严浩翔遗憾",
+      "onboard_time": 1755692905,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 324136,
       "num": 324136,
       "word": "杨紫朱亚文 玉兰花开君再来",
@@ -15097,6 +15169,14 @@
       "onboard_time": 1754532981,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321606,
+      "num": 321606,
+      "word": "西藏自治区成立60周年庆祝活动",
+      "onboard_time": 1755685883,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 321434,
@@ -15641,6 +15721,14 @@
       "onboard_time": 1754843601,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308709,
+      "num": 308709,
+      "word": "刘耀文演唱会生图",
+      "onboard_time": 1755689542,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 308579,
@@ -16817,6 +16905,14 @@
       "onboard_time": 1755656960,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 282413,
+      "num": 282413,
+      "word": "白鹿已签约欢娱9年",
+      "onboard_time": 1755694225,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 282405,
@@ -19035,6 +19131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244301,
+      "num": 244301,
+      "word": "贺峻霖 Standby",
+      "onboard_time": 1755692602,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244283,
       "num": 244283,
       "word": "吴艳妮现身张艺兴演唱会",
@@ -20819,6 +20923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221956,
+      "num": 221956,
+      "word": "大理洱海被恶意放置信号屏蔽器",
+      "onboard_time": 1755692302,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221753,
       "num": 221753,
       "word": "看完易烊千玺演唱会有1.4了",
@@ -22211,6 +22323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209249,
+      "num": 209249,
+      "word": "火力全开",
+      "onboard_time": 1755690382,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209208,
       "num": 209208,
       "word": "一人一句告别夏天",
@@ -22265,6 +22385,14 @@
       "onboard_time": 1754666429,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208959,
+      "num": 208959,
+      "word": "梁靖崑温瑞博3比2林昀儒高承睿",
+      "onboard_time": 1755693564,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 208902,
@@ -22593,14 +22721,6 @@
       "onboard_time": 1755685703,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207100,
-      "num": 207100,
-      "word": "西藏自治区成立60周年庆祝活动",
-      "onboard_time": 1755685883,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 206989,
@@ -23715,6 +23835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201451,
+      "num": 201451,
+      "word": "lingorm",
+      "onboard_time": 1755693564,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201370,
       "num": 194744,
       "word": "小兰花庆生照",
@@ -24056,6 +24184,14 @@
       "word": "周深唱了两首贾玲电影的代表曲",
       "onboard_time": 1754838683,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 199939,
+      "num": 199939,
+      "word": "贺峻霖顶级魅魔",
+      "onboard_time": 1755693325,
+      "rank": 30,
       "category": "演出"
     },
     {
@@ -26075,14 +26211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191948,
-      "num": 191948,
-      "word": "刘耀文演唱会生图",
-      "onboard_time": 1755689542,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 191892,
       "num": 191892,
       "word": "孙颖莎3比1石洵瑶",
@@ -26691,6 +26819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188656,
+      "num": 188656,
+      "word": "孙颖莎vs袁嘉楠",
+      "onboard_time": 1755693747,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188651,
       "num": 188651,
       "word": "鉴别天然矿泉水要看清成分表",
@@ -27041,6 +27177,14 @@
       "onboard_time": 1754562683,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186750,
+      "num": 186750,
+      "word": "破音",
+      "onboard_time": 1755694345,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 186661,
@@ -27931,6 +28075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182781,
+      "num": 182781,
+      "word": "向太的嗓子是生孩子喊坏的",
+      "onboard_time": 1755693445,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182766,
       "num": 177002,
       "word": "回锅油 致癌",
@@ -28283,6 +28435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180865,
+      "num": 180865,
+      "word": "orm哭了",
+      "onboard_time": 1755694225,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180826,
       "num": 180826,
       "word": "瘦肚子 降皮质醇",
@@ -28409,14 +28569,6 @@
       "onboard_time": 1755264443,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180284,
-      "num": 180284,
-      "word": "因父母求子被砍手女生的现状",
-      "onboard_time": 1755689124,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180211,
@@ -29211,6 +29363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176364,
+      "num": 176364,
+      "word": "马斯克被曝或动用财力支持美副总统",
+      "onboard_time": 1755693747,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176358,
       "num": 176358,
       "word": "无畏蹭猫的热度",
@@ -29523,6 +29683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175166,
+      "num": 175166,
+      "word": "丁程鑫演唱会造型",
+      "onboard_time": 1755689841,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175120,
       "num": 154803,
       "word": "被易烊千玺百万直拍钓成翘嘴了",
@@ -29785,6 +29953,14 @@
       "onboard_time": 1754749585,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174063,
+      "num": 174063,
+      "word": "曾舜晞 老狗的开心实况",
+      "onboard_time": 1755693445,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 174032,
@@ -31651,6 +31827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166124,
+      "num": 166124,
+      "word": "村BA开幕直播",
+      "onboard_time": 1755694105,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166067,
       "num": 245081,
       "word": "医院回应女童颅脑被水果刀插入",
@@ -31872,6 +32056,14 @@
       "word": "减肥1斤可抵物业费30元",
       "onboard_time": 1755330743,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165294,
+      "num": 165294,
+      "word": "景区回应海边躺椅1小时60元",
+      "onboard_time": 1755691643,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -33491,6 +33683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159504,
+      "num": 159504,
+      "word": "孙俪 女装邓超",
+      "onboard_time": 1755691344,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 159468,
       "num": 159468,
       "word": "iPhone17官方保护壳首曝",
@@ -34339,6 +34539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156404,
+      "num": 156404,
+      "word": "游客坐躺椅被催收费景区称明码标价",
+      "onboard_time": 1755694225,
+      "rank": 44,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 156399,
       "num": 143804,
       "word": "赵今麦 宝宝恶女",
@@ -34560,6 +34768,14 @@
       "word": "时团集卡有自己的误闯天家",
       "onboard_time": 1755249981,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155629,
+      "num": 155629,
+      "word": "杜海涛疑似脱发",
+      "onboard_time": 1755692424,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -41089,6 +41305,14 @@
       "onboard_time": 1755317062,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 136560,
+      "num": 136560,
+      "word": "生万物穿帮镜头",
+      "onboard_time": 1755692483,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 136546,
@@ -47707,14 +47931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120226,
-      "num": 118365,
-      "word": "丁程鑫演唱会造型",
-      "onboard_time": 1755689841,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 120210,
       "num": 138643,
       "word": "金九粒的含金量还在上升",
@@ -49489,6 +49705,14 @@
       "onboard_time": 1754821221,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115644,
+      "num": 137569,
+      "word": "黑神话钟馗的前世今生",
+      "onboard_time": 1755693085,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 115641,
@@ -52737,6 +52961,14 @@
       "onboard_time": 1754625924,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107416,
+      "num": 310304,
+      "word": "阅兵集训点",
+      "onboard_time": 1755693386,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107409,
@@ -59904,6 +60136,14 @@
       "word": "医生回应女子做吸脂手术没瘦下来",
       "onboard_time": 1754608158,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76198,
+      "num": 308907,
+      "word": "景区通报三亚海边躺椅被催收费",
+      "onboard_time": 1755693145,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -67459,6 +67699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23571,
+      "num": 316108,
+      "word": "国乒4位奥运冠军罕见同框",
+      "onboard_time": 1755691282,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23375,
       "num": 159901,
       "word": "诬告陷害要不要承担法律责任",
@@ -68345,6 +68593,14 @@
       "onboard_time": 1755376994,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 16126,
+      "num": 157920,
+      "word": "4种看似坏了实则能吃的食物",
+      "onboard_time": 1755694345,
+      "rank": 43,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 16105,
