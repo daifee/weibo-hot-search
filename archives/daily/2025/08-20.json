@@ -1,10 +1,10 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755656316191,
+  "endTime": 1755659648815,
   "band_list": [
     {
-      "raw_hot": 1467211,
-      "num": 273420,
+      "raw_hot": 1811308,
+      "num": 369871,
       "word": "黄杨钿甜风波后首露面",
       "onboard_time": 1755655340,
       "rank": 10,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1375053,
-      "num": 298822,
+      "num": 368636,
       "word": "毛晓彤方否认与陈晓恋情",
       "onboard_time": 1755615444,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1105148,
+      "num": 1176823,
+      "word": "九三阅兵时长约70分钟",
+      "onboard_time": 1755656421,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1039480,
@@ -25,6 +33,14 @@
       "onboard_time": 1755609866,
       "rank": 0,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1036555,
+      "num": 1036555,
+      "word": "提前7分钟下班车祸死亡被认定工伤",
+      "onboard_time": 1755657321,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 981456,
@@ -76,11 +92,19 @@
     },
     {
       "raw_hot": 608724,
-      "num": 258687,
+      "num": 360845,
       "word": "闲置太久的鞋子不要再穿了",
       "onboard_time": 1755647421,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 581660,
+      "num": 581660,
+      "word": "九三阅兵准备工作",
+      "onboard_time": 1755655581,
+      "rank": 9,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 560700,
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 511611,
-      "num": 252256,
+      "num": 265048,
       "word": "男子海上漂流6天瘦成皮包骨",
       "onboard_time": 1755649521,
       "rank": 14,
@@ -113,6 +137,14 @@
       "onboard_time": 1755604407,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 449755,
+      "num": 208293,
+      "word": "胖东来的切西瓜手法",
+      "onboard_time": 1755655462,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 418403,
@@ -147,6 +179,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 381125,
+      "num": 381125,
+      "word": "刘诗诗去陪李庚希",
+      "onboard_time": 1755654022,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 367428,
       "num": 362185,
       "word": "幂迪 仙女夫妇",
@@ -169,6 +209,14 @@
       "onboard_time": 1755616584,
       "rank": 7,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 357556,
+      "num": 357556,
+      "word": "迪丽热巴 青涩女大",
+      "onboard_time": 1755654980,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 333929,
@@ -243,28 +291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292249,
-      "num": 185427,
-      "word": "胖东来的切西瓜手法",
-      "onboard_time": 1755655462,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 289526,
-      "num": 289526,
-      "word": "迪丽热巴 青涩女大",
-      "onboard_time": 1755654980,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 284718,
       "num": 189434,
       "word": "检验睡没睡够的金标准",
       "onboard_time": 1755645558,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282634,
+      "num": 208255,
+      "word": "九三盛大阅兵",
+      "onboard_time": 1755656960,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 280519,
@@ -299,12 +339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243947,
-      "num": 207175,
+      "raw_hot": 244888,
+      "num": 208158,
       "word": "女子与大13岁男友恋爱染3种高危HPV",
       "onboard_time": 1755653841,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241460,
+      "num": 378286,
+      "word": "这次阅兵编设45个方队梯队",
+      "onboard_time": 1755656601,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 236201,
@@ -313,6 +361,14 @@
       "onboard_time": 1755653001,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235672,
+      "num": 235672,
+      "word": "抗战胜利80周年合唱曲目公开",
+      "onboard_time": 1755658222,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 225164,
@@ -339,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208787,
-      "num": 281254,
-      "word": "九三阅兵准备工作",
-      "onboard_time": 1755655581,
-      "rank": 9,
-      "category": "国内时政,军事"
+      "raw_hot": 208355,
+      "num": 208355,
+      "word": "时代少年团三专",
+      "onboard_time": 1755659062,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 208189,
@@ -355,12 +411,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208124,
+      "num": 208124,
+      "word": "30万内增程SUV还卷得动吗",
+      "onboard_time": 1755657381,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 206908,
       "num": 206908,
       "word": "冯骥杨奇谈黑神话钟馗",
       "onboard_time": 1755645379,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204952,
+      "num": 204952,
+      "word": "阅兵有阅兵式分列式2个步骤",
+      "onboard_time": 1755656541,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 204547,
@@ -371,12 +443,28 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 200257,
+      "num": 208334,
+      "word": "剧宣标杆 85花杨幂90花杨紫",
+      "onboard_time": 1755659180,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198446,
       "num": 139698,
       "word": "赵今麦给热巴飞吻",
       "onboard_time": 1755607946,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198225,
+      "num": 198225,
+      "word": "欧豪统一了我全家的审美",
+      "onboard_time": 1755657263,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 196240,
@@ -401,6 +489,14 @@
       "onboard_time": 1755649402,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193972,
+      "num": 205447,
+      "word": "李思思全脱稿主持出口成章",
+      "onboard_time": 1755659180,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192497,
@@ -435,12 +531,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171419,
-      "num": 185469,
-      "word": "刘诗诗去陪李庚希",
-      "onboard_time": 1755654022,
-      "rank": 29,
-      "category": "作品衍生"
+      "raw_hot": 181108,
+      "num": 181108,
+      "word": "阅兵",
+      "onboard_time": 1755656421,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 180751,
+      "num": 180751,
+      "word": "樊振东孙颖莎夺冠名场面",
+      "onboard_time": 1755657141,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 168821,
@@ -451,12 +555,44 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153612,
+      "num": 153612,
+      "word": "所有受阅武器装备都是国产现役主战装备",
+      "onboard_time": 1755658641,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147347,
       "num": 147347,
       "word": "韩国第一夫人为李在明买睡衣",
       "onboard_time": 1755609925,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145761,
+      "num": 145761,
+      "word": "安赛龙宣布与女友分手",
+      "onboard_time": 1755659002,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141490,
+      "num": 141490,
+      "word": "80名礼号手寓意抗战胜利80周年",
+      "onboard_time": 1755659422,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 140434,
+      "num": 140434,
+      "word": "军乐团14个排面寓意14年抗战",
+      "onboard_time": 1755659422,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136676,
@@ -467,12 +603,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136114,
+      "num": 136114,
+      "word": "第一次见兜比脸还干净的男主",
+      "onboard_time": 1755658761,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135425,
       "num": 135425,
       "word": "周深 太尴尬啦",
       "onboard_time": 1755605966,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 134871,
+      "num": 134871,
+      "word": "长大真好赚钱真好独居真好",
+      "onboard_time": 1755658461,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134793,
+      "num": 134793,
+      "word": "19岁男子因借宿被拒杀人后煮面吃",
+      "onboard_time": 1755653422,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132543,
@@ -489,14 +649,6 @@
       "onboard_time": 1755615024,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128827,
-      "num": 128827,
-      "word": "19岁男子因借宿被拒杀人后煮面吃",
-      "onboard_time": 1755653422,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128774,
@@ -523,6 +675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127719,
+      "num": 127719,
+      "word": "九三阅兵仪式感满满",
+      "onboard_time": 1755658761,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127083,
       "num": 127083,
       "word": "还有2周就阅兵了",
@@ -547,11 +707,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 121058,
+      "num": 145824,
+      "word": "抗战老部队接受检阅",
+      "onboard_time": 1755657801,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120037,
       "num": 120037,
       "word": "百团大战是轰向日军的一道惊雷",
       "onboard_time": 1755651142,
       "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 117998,
+      "num": 117998,
+      "word": "本次阅兵的数个首次",
+      "onboard_time": 1755659600,
+      "rank": 47,
       "category": "国内时政"
     },
     {
@@ -569,6 +745,14 @@
       "onboard_time": 1755654500,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 116265,
+      "num": 116265,
+      "word": "篮协主席称中国男篮很可爱",
+      "onboard_time": 1755659543,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 115897,
@@ -761,6 +945,14 @@
       "onboard_time": 1755617783,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 84416,
+      "num": 140614,
+      "word": "今年阅兵用上了北斗系统",
+      "onboard_time": 1755659301,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 82803,
