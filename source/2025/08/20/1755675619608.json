@@ -1,0 +1,410 @@
+{
+  "runTime": 1755675619608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 927061,
+        "num": 1148329,
+        "word": "种地吧",
+        "onboard_time": 1755664402,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447148,
+        "num": 447148,
+        "word": "警方回应3男子欲将醉酒女生抬上车",
+        "onboard_time": 1755664283,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 53472,
+        "num": 369316,
+        "word": "西藏在长大我也在长大",
+        "onboard_time": 1755663503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 803899,
+        "num": 361241,
+        "word": "央视实名夸爆的三部剧",
+        "onboard_time": 1755671603,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346406,
+        "num": 346406,
+        "word": "女子被人公开挂介入闺蜜婚姻横幅",
+        "onboard_time": 1755672382,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319787,
+        "num": 319787,
+        "word": "男子结婚22年俩儿子非亲生案开庭",
+        "onboard_time": 1755669081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677692,
+        "num": 319140,
+        "word": "网传刘亦菲肖战或将合作",
+        "onboard_time": 1755673523,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 657244,
+        "num": 318620,
+        "word": "王安宇评论区",
+        "onboard_time": 1755673882,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318047,
+        "num": 318047,
+        "word": "九三阅兵时长约70分钟",
+        "onboard_time": 1755656421,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256206,
+        "num": 317818,
+        "word": "本次阅兵的数个首次",
+        "onboard_time": 1755659600,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1471549,
+        "num": 317346,
+        "word": "董璇 他难道不应该心疼一下我吗",
+        "onboard_time": 1755669981,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1073588,
+        "num": 316605,
+        "word": "男子结婚22年发现2个孩有3个爹",
+        "onboard_time": 1755669741,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577661,
+        "num": 315787,
+        "word": "广东一副教授疑跳楼身亡",
+        "onboard_time": 1755670222,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94176,
+        "num": 315287,
+        "word": "22年抚养两子均非亲生男子发声",
+        "onboard_time": 1755675083,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534165,
+        "num": 314142,
+        "word": "教科书上的子宫图片是错的",
+        "onboard_time": 1755672982,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 492270,
+        "num": 313664,
+        "word": "热巴你是要砸死你姐吗",
+        "onboard_time": 1755665903,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434860,
+        "num": 312981,
+        "word": "陈哲远认为冷战两天就算分手",
+        "onboard_time": 1755671541,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417186,
+        "num": 312353,
+        "word": "高铁站台 禁烟",
+        "onboard_time": 1755663742,
+        "rank": 17,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 408780,
+        "num": 311722,
+        "word": "黄杨钿甜风波后首露面",
+        "onboard_time": 1755655340,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406024,
+        "num": 311089,
+        "word": "张檬被儿子喊妈感动哭了",
+        "onboard_time": 1755668663,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365968,
+        "num": 310634,
+        "word": "EXO编舞 走错一步被队友刀死",
+        "onboard_time": 1755666862,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346881,
+        "num": 309481,
+        "word": "沈佳润 穿貂的爸卖车厘子的妈",
+        "onboard_time": 1755671903,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309415,
+        "num": 309415,
+        "word": "deepseek演都不演了",
+        "onboard_time": 1755674723,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288507,
+        "num": 288507,
+        "word": "向往的生活8乌镇路透",
+        "onboard_time": 1755673941,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276392,
+        "num": 276392,
+        "word": "黑神话钟馗发售时间",
+        "onboard_time": 1755673822,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270193,
+        "num": 270193,
+        "word": "五阿哥再见杨幂已是隔辈",
+        "onboard_time": 1755666262,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268423,
+        "num": 268423,
+        "word": "迪丽热巴时尚芭莎九月刊预告",
+        "onboard_time": 1755664883,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260495,
+        "num": 260495,
+        "word": "桃黑黑 我真求你们了",
+        "onboard_time": 1755673822,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193201,
+        "num": 256772,
+        "word": "子夜归追剧团",
+        "onboard_time": 1755674723,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130239,
+        "num": 255014,
+        "word": "结婚22年俩儿子非亲生当事男子发声",
+        "onboard_time": 1755673882,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265872,
+        "num": 254585,
+        "word": "杨幂热巴 我养大的玫瑰",
+        "onboard_time": 1755667941,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254156,
+        "num": 254156,
+        "word": "男子认为儿子不像自己经鉴定非亲生",
+        "onboard_time": 1755673762,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220225,
+        "num": 220225,
+        "word": "终于有人把电饭锅讲明白了",
+        "onboard_time": 1755675563,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208117,
+        "num": 208117,
+        "word": "建议近视的人少吃点甜食",
+        "onboard_time": 1755670762,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175580,
+        "num": 175580,
+        "word": "董璇张维伊没有领证",
+        "onboard_time": 1755675563,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175262,
+        "num": 175262,
+        "word": "官方回应老人未去世就要求火化",
+        "onboard_time": 1755674483,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168146,
+        "num": 168146,
+        "word": "时团上海演唱会安检",
+        "onboard_time": 1755675023,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33469,
+        "num": 164380,
+        "word": "高铁 带娃车厢",
+        "onboard_time": 1755675202,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 55272,
+        "num": 164245,
+        "word": "广州地铁一女子坐爱心座被要求让座",
+        "onboard_time": 1755675143,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51081,
+        "num": 164172,
+        "word": "在宁波听见童声里的中国",
+        "onboard_time": 1755673281,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 164164,
+        "num": 164164,
+        "word": "QQ音乐 三专",
+        "onboard_time": 1755663622,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83795,
+        "num": 158623,
+        "word": "刘轩丞告黑声明",
+        "onboard_time": 1755671182,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165915,
+        "num": 158321,
+        "word": "生万物种地吧直播",
+        "onboard_time": 1755666322,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157693,
+        "num": 157693,
+        "word": "立秋后必吃的4种水果",
+        "onboard_time": 1755665064,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43362,
+        "num": 156733,
+        "word": "内蒙古一景区保洁员被曝遭游客殴打",
+        "onboard_time": 1755675083,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156523,
+        "num": 156523,
+        "word": "两子非亲生案大儿子发声反驳指控",
+        "onboard_time": 1755673281,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150965,
+        "num": 150965,
+        "word": "迪丽热巴的三幕剧",
+        "onboard_time": 1755675503,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147938,
+        "num": 147938,
+        "word": "桃黑黑 全国校园男神大赛",
+        "onboard_time": 1755664402,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147646,
+        "num": 147646,
+        "word": "九三阅兵准备工作",
+        "onboard_time": 1755655581,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157514,
+        "num": 146061,
+        "word": "24岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755666022,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将检阅受阅部队#"
+    }
+  }
+}
