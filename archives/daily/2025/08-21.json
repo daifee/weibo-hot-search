@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755732239671,
+  "endTime": 1755733081270,
   "band_list": [
     {
       "raw_hot": 870945,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 709508,
-      "num": 792335,
+      "num": 898050,
       "word": "12306回应网友提议站台等候区禁烟",
       "onboard_time": 1755706223,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575005,
+      "num": 115655,
+      "word": "一定要关闭免密支付和自动扣款",
+      "onboard_time": 1755725775,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 508332,
@@ -43,16 +51,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 494284,
-      "num": 105627,
-      "word": "一定要关闭免密支付和自动扣款",
-      "onboard_time": 1755725775,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 478618,
-      "num": 258503,
+      "num": 265595,
       "word": "村里出了个大明星 人们都叫他成毅",
       "onboard_time": 1755690082,
       "rank": 7,
@@ -83,20 +83,20 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 375310,
+      "num": 114872,
+      "word": "张维伊不语只一味的露出大金表",
+      "onboard_time": 1755718634,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 372494,
       "num": 219055,
       "word": "31岁男子地下车库被发小杀害",
       "onboard_time": 1755703347,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368538,
-      "num": 105041,
-      "word": "张维伊不语只一味的露出大金表",
-      "onboard_time": 1755718634,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 357681,
@@ -131,20 +131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315431,
+      "num": 315431,
+      "word": "您的鳄了么订单需到场自提",
+      "onboard_time": 1755703046,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297516,
       "num": 231321,
       "word": "沈佳润美美桑内中文版",
       "onboard_time": 1755702566,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 292019,
-      "num": 292019,
-      "word": "您的鳄了么订单需到场自提",
-      "onboard_time": 1755703046,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 281658,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169098,
+      "num": 91802,
+      "word": "清华今年录取了3对双胞胎",
+      "onboard_time": 1755728956,
+      "rank": 42,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 162211,
       "num": 213913,
       "word": "失踪的梨泰院惨案救援消防员已身亡",
@@ -251,20 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157550,
+      "raw_hot": 157858,
       "num": 157550,
       "word": "儿媳被2岁孙子打婆婆现场反打护媳",
       "onboard_time": 1755699687,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152855,
-      "num": 82654,
-      "word": "清华今年录取了3对双胞胎",
-      "onboard_time": 1755728956,
-      "rank": 42,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 142270,
@@ -273,6 +273,14 @@
       "onboard_time": 1755705203,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139069,
+      "num": 111851,
+      "word": "穿校服的关晓彤好有千金感",
+      "onboard_time": 1755730036,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 133430,
@@ -371,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91065,
-      "num": 91065,
-      "word": "穿校服的关晓彤好有千金感",
-      "onboard_time": 1755730036,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 92472,
+      "num": 103522,
+      "word": "两院院士增选有效候选人名单公布",
+      "onboard_time": 1755730938,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89040,
@@ -403,6 +411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82801,
+      "num": 82801,
+      "word": "高桥布鲁娜回应战胜张本美和",
+      "onboard_time": 1755731838,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80899,
       "num": 80899,
       "word": "34岁存款100万决定提前退休",
@@ -417,6 +433,14 @@
       "onboard_time": 1755693325,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 78385,
+      "num": 78385,
+      "word": "田栩宁黛珂十分钟断货",
+      "onboard_time": 1755732318,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 77027,
@@ -443,6 +467,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74154,
+      "num": 74154,
+      "word": "原神",
+      "onboard_time": 1755731899,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 73752,
+      "num": 73752,
+      "word": "金泰熙谈两个女儿长相",
+      "onboard_time": 1755694886,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72059,
       "num": 72059,
       "word": "白鹿已签约欢娱9年",
@@ -451,24 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69383,
-      "num": 103522,
-      "word": "两院院士增选有效候选人名单公布",
-      "onboard_time": 1755730938,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 69322,
-      "num": 69322,
-      "word": "高桥布鲁娜回应战胜张本美和",
-      "onboard_time": 1755731838,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 63724,
-      "num": 66584,
+      "raw_hot": 67134,
+      "num": 67134,
       "word": "杜海涛被网友拍到疑似发量稀疏",
       "onboard_time": 1755711497,
       "rank": 43,
@@ -480,6 +504,14 @@
       "word": "刘耀文站姐神图这一块",
       "onboard_time": 1755696088,
       "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 62018,
+      "num": 62018,
+      "word": "严浩翔站姐神图",
+      "onboard_time": 1755731058,
+      "rank": 44,
       "category": "演出"
     },
     {
@@ -499,14 +531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 56595,
-      "num": 56595,
-      "word": "金泰熙谈两个女儿长相",
-      "onboard_time": 1755694886,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 55970,
       "num": 55970,
       "word": "张艺兴也觉得自己有点像张艺兴",
@@ -523,12 +547,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 51382,
-      "num": 51382,
-      "word": "严浩翔站姐神图",
-      "onboard_time": 1755731058,
-      "rank": 44,
-      "category": "演出"
+      "raw_hot": 49879,
+      "num": 49879,
+      "word": "开学倒计时",
+      "onboard_time": 1755732860,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 48009,
@@ -555,14 +579,6 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 41041,
-      "num": 51272,
-      "word": "原神",
-      "onboard_time": 1755731899,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 31127,
       "num": 394049,
       "word": "开始盼九三阅兵了",
@@ -571,8 +587,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24968,
-      "num": 282742,
+      "raw_hot": 28070,
+      "num": 285653,
       "word": "西藏今昔对比太震撼",
       "onboard_time": 1755682823,
       "rank": 2,
