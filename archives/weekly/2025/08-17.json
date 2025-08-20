@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755667580237,
+  "endTime": 1755668572604,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 1241552,
-      "num": 237257,
+      "num": 325072,
       "word": "五阿哥再见杨幂已是隔辈",
       "onboard_time": 1755666262,
       "rank": 10,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 1025955,
-      "num": 268976,
+      "num": 321742,
       "word": "高铁站台 禁烟",
       "onboard_time": 1755663742,
       "rank": 39,
@@ -1219,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 639910,
+      "num": 305453,
+      "word": "热巴你是要砸死你姐吗",
+      "onboard_time": 1755665903,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 638463,
       "num": 638463,
       "word": "上海新增一所世界500强大学",
@@ -1811,6 +1819,14 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 457249,
+      "num": 457249,
+      "word": "生万物种地吧直播",
+      "onboard_time": 1755666322,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455850,
       "num": 455850,
       "word": "印度女留学生吐槽韩餐肉太多",
@@ -1848,6 +1864,14 @@
       "word": "音乐博主辟谣梓渝假唱",
       "onboard_time": 1755432922,
       "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 450583,
+      "num": 313372,
+      "word": "EXO编舞 走错一步被队友刀死",
+      "onboard_time": 1755666862,
+      "rank": 19,
       "category": "演出"
     },
     {
@@ -2083,14 +2107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400647,
-      "num": 229346,
-      "word": "热巴你是要砸死你姐吗",
-      "onboard_time": 1755665903,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 399894,
       "num": 258085,
       "word": "QQ音乐为梓渝定制歌曲",
@@ -2187,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385504,
+      "num": 309289,
+      "word": "于正说不会强迫白鹿续约",
+      "onboard_time": 1755664763,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385001,
       "num": 385001,
       "word": "杨超越700度近视",
@@ -2225,14 +2249,6 @@
       "onboard_time": 1755398961,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 376457,
-      "num": 229595,
-      "word": "于正说不会强迫白鹿续约",
-      "onboard_time": 1755664763,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 375747,
@@ -2291,14 +2307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 363072,
-      "num": 363072,
-      "word": "生万物种地吧直播",
-      "onboard_time": 1755666322,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 361467,
       "num": 361467,
       "word": "泡泡玛特新品没卖已被炒到800元",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1755569480,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 350383,
+      "num": 350383,
+      "word": "种地吧",
+      "onboard_time": 1755484402,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 347166,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1755653782,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332606,
+      "num": 332606,
+      "word": "怪不得说韩国人健身卷呢",
+      "onboard_time": 1755661522,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 332269,
@@ -2795,20 +2819,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 293469,
+      "num": 293469,
+      "word": "警方回应3男子欲将醉酒女生抬上车",
+      "onboard_time": 1755664283,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 293177,
       "num": 293177,
       "word": "男子在离婚冷静期毒杀一双儿女",
       "onboard_time": 1755613526,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291557,
-      "num": 291557,
-      "word": "怪不得说韩国人健身卷呢",
-      "onboard_time": 1755661522,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 287890,
@@ -2979,20 +3003,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279968,
+      "num": 221176,
+      "word": "杨幂热巴 我养大的玫瑰",
+      "onboard_time": 1755667941,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279943,
       "num": 215542,
       "word": "虞书欣情商这一块",
       "onboard_time": 1755594203,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 279705,
-      "num": 279705,
-      "word": "种地吧",
-      "onboard_time": 1755484402,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 277619,
@@ -3089,6 +3113,14 @@
       "onboard_time": 1755526042,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268081,
+      "num": 331273,
+      "word": "受阅民兵着装有很大创新",
+      "onboard_time": 1755667462,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 267540,
@@ -3297,14 +3329,6 @@
       "onboard_time": 1755596724,
       "rank": 8,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 247251,
-      "num": 224424,
-      "word": "EXO编舞 走错一步被队友刀死",
-      "onboard_time": 1755666862,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 244888,
@@ -3699,6 +3723,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 220799,
+      "num": 220799,
+      "word": "告诉秦岚辛芷蕾今晚不回去了",
+      "onboard_time": 1755667102,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220412,
       "num": 220412,
       "word": "明天出伏了",
@@ -3785,6 +3817,14 @@
       "onboard_time": 1755404423,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215368,
+      "num": 215368,
+      "word": "crush经济基础长相不基础",
+      "onboard_time": 1755667941,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 215278,
@@ -3883,20 +3923,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211623,
-      "num": 241684,
-      "word": "警方回应3男子欲将醉酒女生抬上车",
-      "onboard_time": 1755664283,
-      "rank": 29,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 211268,
       "num": 211268,
       "word": "普京返俄美国出动F35护航",
       "onboard_time": 1755358703,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 210827,
+      "num": 210827,
+      "word": "24岁确诊胃癌前身体发出的信号",
+      "onboard_time": 1755666022,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210132,
+      "num": 209334,
+      "word": "赵今麦 妹妹今晚还回家吗",
+      "onboard_time": 1755667342,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210071,
@@ -3929,14 +3977,6 @@
       "onboard_time": 1755397223,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209334,
-      "num": 209334,
-      "word": "赵今麦 妹妹今晚还回家吗",
-      "onboard_time": 1755667342,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209296,
@@ -4491,6 +4531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195310,
+      "num": 204855,
+      "word": "锦月如歌大结局",
+      "onboard_time": 1755664343,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195197,
       "num": 195197,
       "word": "孙颖莎一日双赛",
@@ -4865,14 +4913,6 @@
       "onboard_time": 1755656000,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185433,
-      "num": 185433,
-      "word": "24岁确诊胃癌前身体发出的信号",
-      "onboard_time": 1755666022,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 185333,
@@ -5251,6 +5291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175278,
+      "num": 175278,
+      "word": "何猷君成凯尔特人老板之一",
+      "onboard_time": 1755665362,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175193,
       "num": 175193,
       "word": "衰老有两个关键年龄段",
@@ -5611,14 +5659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169057,
-      "num": 164209,
-      "word": "告诉秦岚辛芷蕾今晚不回去了",
-      "onboard_time": 1755667102,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 168833,
       "num": 168833,
       "word": "苏超南通vs连云港",
@@ -5801,6 +5841,14 @@
       "onboard_time": 1755587062,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165161,
+      "num": 165161,
+      "word": "时代少年团上海站妆造",
+      "onboard_time": 1755667701,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 164783,
@@ -6107,14 +6155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159135,
-      "num": 204855,
-      "word": "锦月如歌大结局",
-      "onboard_time": 1755664343,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158450,
       "num": 158450,
       "word": "银子嫁给宁学祥",
@@ -6169,6 +6209,14 @@
       "onboard_time": 1755492143,
       "rank": 43,
       "category": "剧集,剧集"
+    },
+    {
+      "raw_hot": 157591,
+      "num": 157591,
+      "word": "最先死的偏偏是最乖的那个",
+      "onboard_time": 1755668302,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 157440,
@@ -6345,6 +6393,14 @@
       "onboard_time": 1755426563,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152798,
+      "num": 152798,
+      "word": "密室大逃脱",
+      "onboard_time": 1755668363,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 152720,
@@ -6601,6 +6657,14 @@
       "onboard_time": 1755492744,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148141,
+      "num": 148141,
+      "word": "宠物穿搭要显贵",
+      "onboard_time": 1755668182,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 148099,
@@ -7201,14 +7265,6 @@
       "onboard_time": 1755500722,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139105,
-      "num": 139105,
-      "word": "何猷君成凯尔特人老板之一",
-      "onboard_time": 1755665362,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 138989,
@@ -9979,14 +10035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99822,
-      "num": 181737,
-      "word": "受阅民兵着装有很大创新",
-      "onboard_time": 1755667462,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 99820,
       "num": 99820,
       "word": "王力宏任贤齐给我整哪年来了",
@@ -11795,6 +11843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50270,
+      "num": 189292,
+      "word": "马斯克暂停组建新政党",
+      "onboard_time": 1755667881,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50064,
       "num": 127726,
       "word": "多部门调查事业编考题重合事件",
@@ -12227,6 +12283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38552,
+      "num": 151274,
+      "word": "阿富汗客车司机超速行驶致76死",
+      "onboard_time": 1755667222,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 38002,
       "num": 373743,
       "word": "阿里22个品牌联合发布橙意计划",
@@ -12345,6 +12409,14 @@
       "onboard_time": 1755409342,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33919,
+      "num": 154135,
+      "word": "男子退租不成反被房东连扇四巴掌",
+      "onboard_time": 1755668001,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33889,
@@ -12745,14 +12817,6 @@
       "onboard_time": 1755477802,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22627,
-      "num": 151274,
-      "word": "阿富汗客车司机超速行驶致76死",
-      "onboard_time": 1755667222,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 22436,

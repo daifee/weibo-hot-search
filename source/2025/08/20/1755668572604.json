@@ -1,0 +1,410 @@
+{
+  "runTime": 1755668572604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 568163,
+        "num": 1090906,
+        "word": "九三阅兵时长约70分钟",
+        "onboard_time": 1755656421,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 457249,
+        "num": 457249,
+        "word": "生万物种地吧直播",
+        "onboard_time": 1755666322,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81545,
+        "num": 427501,
+        "word": "西藏在长大我也在长大",
+        "onboard_time": 1755663503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425342,
+        "num": 425342,
+        "word": "QQ音乐 三专",
+        "onboard_time": 1755663622,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388071,
+        "num": 388071,
+        "word": "黑神话",
+        "onboard_time": 1755636554,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 372228,
+        "num": 372228,
+        "word": "本次阅兵的数个首次",
+        "onboard_time": 1755659600,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 350383,
+        "num": 350383,
+        "word": "种地吧",
+        "onboard_time": 1755664402,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333860,
+        "num": 333860,
+        "word": "提前7分钟下班车祸死亡被认定工伤",
+        "onboard_time": 1755657321,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332606,
+        "num": 332606,
+        "word": "怪不得说韩国人健身卷呢",
+        "onboard_time": 1755661522,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268081,
+        "num": 331273,
+        "word": "受阅民兵着装有很大创新",
+        "onboard_time": 1755667462,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1166076,
+        "num": 325072,
+        "word": "五阿哥再见杨幂已是隔辈",
+        "onboard_time": 1755666262,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 978722,
+        "num": 321742,
+        "word": "高铁站台 禁烟",
+        "onboard_time": 1755663742,
+        "rank": 11,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 868458,
+        "num": 320804,
+        "word": "迪丽热巴时尚芭莎九月刊预告",
+        "onboard_time": 1755664883,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 765465,
+        "num": 314955,
+        "word": "黄杨钿甜风波后首露面",
+        "onboard_time": 1755655340,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450583,
+        "num": 313372,
+        "word": "EXO编舞 走错一步被队友刀死",
+        "onboard_time": 1755666862,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 385504,
+        "num": 309289,
+        "word": "于正说不会强迫白鹿续约",
+        "onboard_time": 1755664763,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306046,
+        "num": 306046,
+        "word": "毛晓彤方否认与陈晓恋情",
+        "onboard_time": 1755615444,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639910,
+        "num": 305453,
+        "word": "热巴你是要砸死你姐吗",
+        "onboard_time": 1755665903,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299703,
+        "num": 299703,
+        "word": "文淇 她是龙",
+        "onboard_time": 1755663981,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297841,
+        "num": 297841,
+        "word": "九三阅兵准备工作",
+        "onboard_time": 1755655581,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 293469,
+        "num": 293469,
+        "word": "警方回应3男子欲将醉酒女生抬上车",
+        "onboard_time": 1755664283,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 221195,
+        "num": 221195,
+        "word": "月入5000三年存下12万",
+        "onboard_time": 1755662843,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279968,
+        "num": 221176,
+        "word": "杨幂热巴 我养大的玫瑰",
+        "onboard_time": 1755667941,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220799,
+        "num": 220799,
+        "word": "告诉秦岚辛芷蕾今晚不回去了",
+        "onboard_time": 1755667102,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215368,
+        "num": 215368,
+        "word": "crush经济基础长相不基础",
+        "onboard_time": 1755667941,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210827,
+        "num": 210827,
+        "word": "24岁确诊胃癌前身体发出的信号",
+        "onboard_time": 1755666022,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213967,
+        "num": 206688,
+        "word": "男女主在接吻男二在接头",
+        "onboard_time": 1755665542,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220731,
+        "num": 203333,
+        "word": "网友爸爸给迪丽热巴当司机",
+        "onboard_time": 1755646099,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195310,
+        "num": 195310,
+        "word": "锦月如歌大结局",
+        "onboard_time": 1755664343,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50270,
+        "num": 189292,
+        "word": "马斯克暂停组建新政党",
+        "onboard_time": 1755667881,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210132,
+        "num": 187701,
+        "word": "赵今麦 妹妹今晚还回家吗",
+        "onboard_time": 1755667342,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184733,
+        "num": 184733,
+        "word": "清华学生花七天改造北京海淀区单间",
+        "onboard_time": 1755667402,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181008,
+        "num": 181008,
+        "word": "胖东来的切西瓜手法",
+        "onboard_time": 1755655462,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175278,
+        "num": 175278,
+        "word": "何猷君成凯尔特人老板之一",
+        "onboard_time": 1755665362,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165161,
+        "num": 165161,
+        "word": "时代少年团上海站妆造",
+        "onboard_time": 1755667701,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162016,
+        "num": 162016,
+        "word": "LV口红卖1200元",
+        "onboard_time": 1755665182,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 157591,
+        "num": 157591,
+        "word": "最先死的偏偏是最乖的那个",
+        "onboard_time": 1755668302,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33919,
+        "num": 154135,
+        "word": "男子退租不成反被房东连扇四巴掌",
+        "onboard_time": 1755668001,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71350,
+        "num": 153257,
+        "word": "闫妮姚晨孙俪 三大青衣合体",
+        "onboard_time": 1755667402,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152798,
+        "num": 152798,
+        "word": "密室大逃脱",
+        "onboard_time": 1755668363,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148141,
+        "num": 148141,
+        "word": "宠物穿搭要显贵",
+        "onboard_time": 1755668182,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142075,
+        "num": 142075,
+        "word": "去过西藏的人嘴真严啊",
+        "onboard_time": 1755664164,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 141450,
+        "num": 141450,
+        "word": "时代少年团三专",
+        "onboard_time": 1755659062,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137419,
+        "num": 137419,
+        "word": "贾玲转念花开杀青",
+        "onboard_time": 1755662662,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38552,
+        "num": 134755,
+        "word": "阿富汗客车司机超速行驶致76死",
+        "onboard_time": 1755667222,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132510,
+        "num": 132510,
+        "word": "桃黑黑 全国校园男神大赛",
+        "onboard_time": 1755664402,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132490,
+        "num": 132490,
+        "word": "W主持人扔手卡",
+        "onboard_time": 1755664944,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132016,
+        "num": 132016,
+        "word": "立秋后必吃的4种水果",
+        "onboard_time": 1755665064,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129644,
+        "num": 129644,
+        "word": "mini版labubu",
+        "onboard_time": 1755660263,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 126547,
+        "num": 126547,
+        "word": "所有受阅武器装备都是国产现役主战装备",
+        "onboard_time": 1755658641,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系雪域高原#"
+    }
+  }
+}
