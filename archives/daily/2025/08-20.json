@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755675619608,
+  "endTime": 1755678845353,
   "band_list": [
     {
       "raw_hot": 1811308,
@@ -9,6 +9,22 @@
       "onboard_time": 1755655340,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1633272,
+      "num": 1633272,
+      "word": "deepseek演都不演了",
+      "onboard_time": 1755674723,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1587938,
+      "num": 1587938,
+      "word": "董璇没觉得和张维伊领证仓促",
+      "onboard_time": 1755675563,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1539529,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 1506823,
-      "num": 317346,
+      "num": 451258,
       "word": "董璇 他难道不应该心疼一下我吗",
       "onboard_time": 1755669981,
       "rank": 10,
@@ -57,6 +73,14 @@
       "onboard_time": 1755664883,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1176642,
+      "num": 318620,
+      "word": "王安宇评论区",
+      "onboard_time": 1755673882,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1073588,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 745477,
-      "num": 313664,
+      "num": 316224,
       "word": "热巴你是要砸死你姐吗",
       "onboard_time": 1755665903,
       "rank": 16,
@@ -179,8 +203,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 689485,
+      "num": 689485,
+      "word": "老人未去世就被要求火化",
+      "onboard_time": 1755675682,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 677692,
-      "num": 335697,
+      "num": 463063,
       "word": "网传刘亦菲肖战或将合作",
       "onboard_time": 1755673523,
       "rank": 3,
@@ -193,14 +225,6 @@
       "onboard_time": 1755653361,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 657244,
-      "num": 318620,
-      "word": "王安宇评论区",
-      "onboard_time": 1755673882,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 616470,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 577661,
-      "num": 315787,
+      "num": 334122,
       "word": "广东一副教授疑跳楼身亡",
       "onboard_time": 1755670222,
       "rank": 18,
@@ -264,6 +288,14 @@
       "word": "男子海上漂流6天瘦成皮包骨",
       "onboard_time": 1755649521,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502545,
+      "num": 502545,
+      "word": "女子被人公开挂介入闺蜜婚姻横幅",
+      "onboard_time": 1755672382,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -321,6 +353,14 @@
       "onboard_time": 1755655462,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 449220,
+      "num": 449220,
+      "word": "时团演唱会 错票",
+      "onboard_time": 1755676223,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 428037,
@@ -451,14 +491,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 346406,
-      "num": 346406,
-      "word": "女子被人公开挂介入闺蜜婚姻横幅",
-      "onboard_time": 1755672382,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 336792,
       "num": 336792,
       "word": "时代少年团三专",
@@ -505,14 +537,6 @@
       "onboard_time": 1755620181,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 309415,
-      "num": 309415,
-      "word": "deepseek演都不演了",
-      "onboard_time": 1755674723,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 306002,
@@ -611,6 +635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 279503,
+      "num": 279503,
+      "word": "桃黑黑 我真求你们了",
+      "onboard_time": 1755673822,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 276392,
       "num": 276392,
       "word": "黑神话钟馗发售时间",
@@ -657,14 +689,6 @@
       "onboard_time": 1755662843,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 260495,
-      "num": 260495,
-      "word": "桃黑黑 我真求你们了",
-      "onboard_time": 1755673822,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 259676,
@@ -737,6 +761,14 @@
       "onboard_time": 1755663142,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233658,
+      "num": 233658,
+      "word": "车主称50升油箱被加了67.96升汽油",
+      "onboard_time": 1755676583,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230597,
@@ -939,6 +971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 196704,
+      "num": 196704,
+      "word": "杨幂你误会许凯了",
+      "onboard_time": 1755676523,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196240,
       "num": 196240,
       "word": "孙俪喊杨幂绣绣",
@@ -985,6 +1025,14 @@
       "onboard_time": 1755674723,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193021,
+      "num": 193021,
+      "word": "一天中最易长胖的4个时段",
+      "onboard_time": 1755677482,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192497,
@@ -1235,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151173,
+      "num": 151173,
+      "word": "去世41岁副教授黄恺曾师从诺奖得主",
+      "onboard_time": 1755676703,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150965,
       "num": 150965,
       "word": "迪丽热巴的三幕剧",
@@ -1323,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144860,
+      "num": 144860,
+      "word": "Wayward为Knight澄清",
+      "onboard_time": 1755678503,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143070,
       "num": 226766,
       "word": "空基战略重器将亮相阅兵场",
@@ -1331,12 +1395,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142613,
+      "num": 142613,
+      "word": "张起灵 来且了",
+      "onboard_time": 1755678204,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141490,
       "num": 141490,
       "word": "80名礼号手寓意抗战胜利80周年",
       "onboard_time": 1755659422,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140576,
+      "num": 140576,
+      "word": "江疏影穿搭不基础脸就更不基础",
+      "onboard_time": 1755677063,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140434,
@@ -1443,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131058,
+      "num": 131058,
+      "word": "7岁女童买糖未归母亲急晕",
+      "onboard_time": 1755678204,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 130318,
       "num": 130318,
       "word": "马嘉祺背头",
@@ -1539,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126060,
+      "num": 126060,
+      "word": "爷爷奶奶哽咽发声养20年非亲孙子",
+      "onboard_time": 1755678802,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124904,
       "num": 124904,
       "word": "倪妮 下身基础上身就不基础",
@@ -1627,6 +1723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 114220,
+      "num": 453698,
+      "word": "开始盼九三阅兵了",
+      "onboard_time": 1755678083,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113399,
       "num": 134389,
       "word": "日军罪行时隔85年完整曝光",
@@ -1673,6 +1777,14 @@
       "onboard_time": 1755653782,
       "rank": 42,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 108851,
+      "num": 140589,
+      "word": "张艺兴演唱会cue吴世勋",
+      "onboard_time": 1755677602,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 105789,
@@ -1811,6 +1923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86956,
+      "num": 127423,
+      "word": "敦煌月牙泉夫妻柳被大风吹断裂",
+      "onboard_time": 1755676882,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86822,
       "num": 280374,
       "word": "日本部署大型无人机紧盯钓鱼岛",
@@ -1849,6 +1969,14 @@
       "onboard_time": 1755645079,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82740,
+      "num": 186871,
+      "word": "钟南山讲述1945年日本投降记忆",
+      "onboard_time": 1755678684,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 82623,
@@ -2203,6 +2331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 37971,
+      "num": 145467,
+      "word": "女子称入住昆明一酒店被长针扎伤",
+      "onboard_time": 1755678684,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35309,
       "num": 65254,
       "word": "孙俪状态满40减20",
@@ -2233,6 +2369,14 @@
       "onboard_time": 1755675202,
       "rank": 37,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 31513,
+      "num": 141330,
+      "word": "夫妻坐飞机去买二手车被骗",
+      "onboard_time": 1755677722,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29871,
@@ -2339,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14272,
+      "num": 140781,
+      "word": "辛芷蕾又说了什么不能播的",
+      "onboard_time": 1755678802,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 13097,
       "num": 44244,
       "word": "描绘新时代西藏发展新画卷",
@@ -2352,6 +2504,14 @@
       "word": "晚霞里的彩虹有粉红滤镜",
       "onboard_time": 1755634934,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3526,
+      "num": 1052237,
+      "word": "非遗里的大美中国",
+      "onboard_time": 1755663023,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
