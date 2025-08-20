@@ -1,0 +1,410 @@
+{
+  "runTime": 1755689896114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1121040,
+        "num": 1179366,
+        "word": "三亚游客身体不适坐海边躺椅被催收费",
+        "onboard_time": 1755684141,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486478,
+        "num": 486478,
+        "word": "失踪的梨泰院惨案救援消防员已身亡",
+        "onboard_time": 1755688761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26637,
+        "num": 342502,
+        "word": "阅兵有很多明星装备",
+        "onboard_time": 1755657080,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320179,
+        "num": 320179,
+        "word": "时代少年团上海演唱会直播",
+        "onboard_time": 1755688761,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203033,
+        "num": 203033,
+        "word": "近七成老人因保健品假药被骗",
+        "onboard_time": 1755688581,
+        "rank": 4,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 357459,
+        "num": 200901,
+        "word": "赵今麦晒与孙俪杨幂合照",
+        "onboard_time": 1755682463,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197746,
+        "num": 197746,
+        "word": "西藏自治区成立60周年庆祝活动",
+        "onboard_time": 1755685883,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192611,
+        "num": 192611,
+        "word": "原配拉横幅挂锦旗感谢闺蜜照顾老公",
+        "onboard_time": 1755686542,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191948,
+        "num": 191948,
+        "word": "刘耀文演唱会生图",
+        "onboard_time": 1755689542,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72479,
+        "num": 189757,
+        "word": "向西藏各族儿女致以诚挚问候和衷心祝愿",
+        "onboard_time": 1755689002,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189686,
+        "num": 189686,
+        "word": "胡先煦的自制节目像花少副本",
+        "onboard_time": 1755685703,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188021,
+        "num": 188021,
+        "word": "外交部回应外国领导人出席阅兵",
+        "onboard_time": 1755680783,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1280939,
+        "num": 187713,
+        "word": "时代少年团上海演唱会",
+        "onboard_time": 1755680063,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 695039,
+        "num": 187327,
+        "word": "34岁存款100万决定提前退休",
+        "onboard_time": 1755684744,
+        "rank": 13,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 589960,
+        "num": 186927,
+        "word": "deepseek演都不演了",
+        "onboard_time": 1755674723,
+        "rank": 14,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 553800,
+        "num": 186241,
+        "word": "歌手luz去世",
+        "onboard_time": 1755683243,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411720,
+        "num": 185899,
+        "word": "男子遇五步蛇和竹叶青打架被误伤",
+        "onboard_time": 1755684683,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369582,
+        "num": 184964,
+        "word": "虞书欣的大哥大是手提包",
+        "onboard_time": 1755686603,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334491,
+        "num": 184819,
+        "word": "章昊说惜败桃黑黑老师",
+        "onboard_time": 1755684504,
+        "rank": 18,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 35005,
+        "num": 184290,
+        "word": "内行人感叹辛巴成绩难复制",
+        "onboard_time": 1755686842,
+        "rank": 19,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 328702,
+        "num": 183757,
+        "word": "梓渝或将做客毛雪汪",
+        "onboard_time": 1755685283,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325277,
+        "num": 183246,
+        "word": "纪检介入原配上门感谢闺蜜照顾老公",
+        "onboard_time": 1755684862,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288034,
+        "num": 182352,
+        "word": "奚梦瑶5岁儿子身高",
+        "onboard_time": 1755681203,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236703,
+        "num": 182305,
+        "word": "小酒窝说出道耽误我学习",
+        "onboard_time": 1755680422,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231535,
+        "num": 181369,
+        "word": "桃黑黑 我真求你们了",
+        "onboard_time": 1755673822,
+        "rank": 24,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 205998,
+        "num": 181090,
+        "word": "建议不要带着饥饿感入睡",
+        "onboard_time": 1755679944,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198312,
+        "num": 180313,
+        "word": "时团上海演唱会安检",
+        "onboard_time": 1755675023,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180284,
+        "num": 180284,
+        "word": "因父母求子被砍手女生的现状",
+        "onboard_time": 1755689124,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177339,
+        "num": 177339,
+        "word": "老人未去世就被要求火化",
+        "onboard_time": 1755675682,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143275,
+        "num": 176616,
+        "word": "虞书欣W盛典晚宴认真干饭",
+        "onboard_time": 1755688821,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176435,
+        "num": 176435,
+        "word": "孙颖莎眼神专注又犀利",
+        "onboard_time": 1755689242,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175013,
+        "num": 175013,
+        "word": "张维伊是头婚董璇是头昏",
+        "onboard_time": 1755687442,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163250,
+        "num": 163250,
+        "word": "童瑶路边抽烟聊天",
+        "onboard_time": 1755687142,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140331,
+        "num": 140331,
+        "word": "展轩工作室声明",
+        "onboard_time": 1755686962,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133017,
+        "num": 133017,
+        "word": "王安宇评论区",
+        "onboard_time": 1755673882,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125378,
+        "num": 125378,
+        "word": "土屋太凤小号曝光",
+        "onboard_time": 1755687742,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120687,
+        "num": 120687,
+        "word": "男子结婚22年发现2个孩有3个爹",
+        "onboard_time": 1755669741,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58250,
+        "num": 120321,
+        "word": "杨幂孙俪已经认识20年了",
+        "onboard_time": 1755688942,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46080,
+        "num": 120229,
+        "word": "展轩回国",
+        "onboard_time": 1755688942,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120210,
+        "num": 120210,
+        "word": "金九粒的含金量还在上升",
+        "onboard_time": 1755687682,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114888,
+        "num": 118393,
+        "word": "父婴室",
+        "onboard_time": 1755678983,
+        "rank": 40,
+        "category": "民生新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 120226,
+        "num": 118365,
+        "word": "丁程鑫演唱会造型",
+        "onboard_time": 1755689841,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118202,
+        "num": 118202,
+        "word": "桃黑黑 全国校园男神大赛",
+        "onboard_time": 1755664402,
+        "rank": 42,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 116551,
+        "num": 116551,
+        "word": "于正回应杨幂翻身",
+        "onboard_time": 1755685044,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115305,
+        "num": 115305,
+        "word": "李湘回应争议",
+        "onboard_time": 1755687742,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109982,
+        "num": 109982,
+        "word": "张真源晒彩排照",
+        "onboard_time": 1755687863,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108803,
+        "num": 108803,
+        "word": "桃黑黑校园男神断层第一",
+        "onboard_time": 1755687682,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 107800,
+        "num": 107800,
+        "word": "车主称50升油箱被加了67.96升汽油",
+        "onboard_time": 1755676583,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107496,
+        "num": 107496,
+        "word": "时团线上线下还是太全面了",
+        "onboard_time": 1755687503,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101350,
+        "num": 105742,
+        "word": "美财长为中国辩护称中印不一样",
+        "onboard_time": 1755689183,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#西藏自治区成立60周年庆祝活动#"
+    }
+  }
+}

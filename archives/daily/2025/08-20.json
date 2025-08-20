@@ -1,6 +1,6 @@
 {
   "startTime": 1755621187058,
-  "endTime": 1755688938183,
+  "endTime": 1755689896114,
   "band_list": [
     {
       "raw_hot": 1811308,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1121040,
+      "num": 1179366,
+      "word": "三亚游客身体不适坐海边躺椅被催收费",
+      "onboard_time": 1755684141,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1073588,
       "num": 1129187,
       "word": "男子结婚22年发现2个孩有3个爹",
@@ -113,14 +121,6 @@
       "onboard_time": 1755609866,
       "rank": 0,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1033612,
-      "num": 1165377,
-      "word": "三亚游客身体不适坐海边躺椅被催收费",
-      "onboard_time": 1755684141,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1025955,
@@ -379,6 +379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 486478,
+      "num": 486478,
+      "word": "失踪的梨泰院惨案救援消防员已身亡",
+      "onboard_time": 1755688761,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472730,
       "num": 312981,
       "word": "陈哲远认为冷战两天就算分手",
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369582,
+      "num": 318072,
+      "word": "虞书欣的大哥大是手提包",
+      "onboard_time": 1755686603,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367428,
       "num": 362185,
       "word": "幂迪 仙女夫妇",
@@ -659,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325277,
+      "num": 302329,
+      "word": "纪检介入原配上门感谢闺蜜照顾老公",
+      "onboard_time": 1755684862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321434,
       "num": 235979,
       "word": "男子宿舍遇害留下2未成年儿女",
@@ -675,12 +699,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 318072,
-      "num": 318072,
-      "word": "虞书欣的大哥大是手提包",
-      "onboard_time": 1755686603,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 320179,
+      "num": 320179,
+      "word": "时代少年团上海演唱会直播",
+      "onboard_time": 1755688761,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 310526,
@@ -697,14 +721,6 @@
       "onboard_time": 1755601704,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 302329,
-      "num": 302329,
-      "word": "纪检介入原配上门感谢闺蜜照顾老公",
-      "onboard_time": 1755684862,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 298769,
@@ -923,14 +939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 230596,
-      "num": 230596,
-      "word": "失踪的梨泰院惨案救援消防员已身亡",
-      "onboard_time": 1755688761,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226924,
       "num": 226924,
       "word": "以为王俊凯夸张没想到是收敛",
@@ -1139,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203033,
+      "num": 203033,
+      "word": "近七成老人因保健品假药被骗",
+      "onboard_time": 1755688581,
+      "rank": 22,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 201647,
       "num": 201647,
       "word": "桃黑黑 全国校园男神大赛",
@@ -1275,12 +1291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192611,
+      "num": 192611,
+      "word": "原配拉横幅挂锦旗感谢闺蜜照顾老公",
+      "onboard_time": 1755686542,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192497,
       "num": 192497,
       "word": "胡先煦方律师声明",
       "onboard_time": 1755616164,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191948,
+      "num": 191948,
+      "word": "刘耀文演唱会生图",
+      "onboard_time": 1755689542,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 191845,
@@ -1299,28 +1331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189264,
-      "num": 183433,
-      "word": "时代少年团上海演唱会直播",
-      "onboard_time": 1755688761,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 188960,
       "num": 188960,
       "word": "LV口红卖1200元",
       "onboard_time": 1755665182,
       "rank": 33,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 187068,
-      "num": 187068,
-      "word": "近七成老人因保健品假药被骗",
-      "onboard_time": 1755688581,
-      "rank": 22,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 185999,
@@ -1387,6 +1403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180284,
+      "num": 180284,
+      "word": "因父母求子被砍手女生的现状",
+      "onboard_time": 1755689124,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177879,
       "num": 177879,
       "word": "子夜归",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1755681743,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176435,
+      "num": 176435,
+      "word": "孙颖莎眼神专注又犀利",
+      "onboard_time": 1755689242,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 175580,
@@ -1427,8 +1459,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173401,
-      "num": 173401,
+      "raw_hot": 175013,
+      "num": 175013,
       "word": "张维伊是头婚董璇是头昏",
       "onboard_time": 1755687442,
       "rank": 30,
@@ -1505,14 +1537,6 @@
       "onboard_time": 1755664944,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162400,
-      "num": 162400,
-      "word": "原配拉横幅挂锦旗感谢闺蜜照顾老公",
-      "onboard_time": 1755686542,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160680,
@@ -1769,6 +1793,14 @@
       "onboard_time": 1755678684,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 143275,
+      "num": 176616,
+      "word": "虞书欣W盛典晚宴认真干饭",
+      "onboard_time": 1755688821,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143070,
@@ -2067,14 +2099,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 124466,
-      "num": 124466,
-      "word": "虞书欣W盛典晚宴认真干饭",
-      "onboard_time": 1755688821,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 121058,
       "num": 145824,
       "word": "抗战老部队接受检阅",
@@ -2097,6 +2121,22 @@
       "onboard_time": 1755687682,
       "rank": 45,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 120226,
+      "num": 118365,
+      "word": "丁程鑫演唱会造型",
+      "onboard_time": 1755689841,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 120210,
+      "num": 138643,
+      "word": "金九粒的含金量还在上升",
+      "onboard_time": 1755687682,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 120182,
@@ -2329,6 +2369,14 @@
       "onboard_time": 1755651263,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 101350,
+      "num": 105742,
+      "word": "美财长为中国辩护称中印不一样",
+      "onboard_time": 1755689183,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101146,
@@ -2635,6 +2683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 72479,
+      "num": 189757,
+      "word": "向西藏各族儿女致以诚挚问候和衷心祝愿",
+      "onboard_time": 1755689002,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72092,
       "num": 219746,
       "word": "九三阅兵这些旗帜将亮相",
@@ -2657,14 +2713,6 @@
       "onboard_time": 1755673281,
       "rank": 39,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 69264,
-      "num": 138643,
-      "word": "金九粒的含金量还在上升",
-      "onboard_time": 1755687682,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 69015,
@@ -2729,6 +2777,14 @@
       "onboard_time": 1755677602,
       "rank": 38,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 58250,
+      "num": 120321,
+      "word": "杨幂孙俪已经认识20年了",
+      "onboard_time": 1755688942,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 57025,
@@ -2809,6 +2865,14 @@
       "onboard_time": 1755662063,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46080,
+      "num": 120229,
+      "word": "展轩回国",
+      "onboard_time": 1755688942,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 45971,
