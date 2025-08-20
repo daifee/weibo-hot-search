@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755646736752,
+  "endTime": 1755655000931,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 971888,
+      "num": 1155502,
+      "word": "黑神话",
+      "onboard_time": 1755636554,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 954570,
       "num": 389997,
       "word": "情侣偶遇鹿晗被大声嘱咐戴头盔",
@@ -633,14 +641,6 @@
       "onboard_time": 1755592942,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 918407,
-      "num": 972014,
-      "word": "黑神话",
-      "onboard_time": 1755636554,
-      "rank": 0,
-      "category": "游戏"
     },
     {
       "raw_hot": 917994,
@@ -737,6 +737,14 @@
       "onboard_time": 1755419602,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 837120,
+      "num": 430661,
+      "word": "网友爸爸给迪丽热巴当司机",
+      "onboard_time": 1755646099,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 835878,
@@ -881,6 +889,14 @@
       "onboard_time": 1755608785,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 732756,
+      "num": 732756,
+      "word": "当间谍线人后怕暴露辞职考公",
+      "onboard_time": 1755649943,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 724129,
@@ -1219,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 608724,
+      "num": 237508,
+      "word": "闲置太久的鞋子不要再穿了",
+      "onboard_time": 1755647421,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 607679,
       "num": 367552,
       "word": "虞书欣双麻花辫抹胸造型",
@@ -1387,6 +1411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 542286,
+      "num": 236754,
+      "word": "南京10元手冲咖啡阿姨现状",
+      "onboard_time": 1755653361,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 540089,
       "num": 540089,
       "word": "鹿晗陈赫唱了慢慢",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1755608606,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 511611,
+      "num": 234534,
+      "word": "男子海上漂流6天瘦成皮包骨",
+      "onboard_time": 1755649521,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 511430,
@@ -1955,14 +1995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 394551,
-      "num": 394551,
-      "word": "网友爸爸给迪丽热巴当司机",
-      "onboard_time": 1755646099,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 389802,
       "num": 389802,
       "word": "子夜归热度",
@@ -2009,6 +2041,14 @@
       "onboard_time": 1755619702,
       "rank": 16,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 379563,
+      "num": 379563,
+      "word": "18只猫成了海鲜摊的掌柜",
+      "onboard_time": 1755650843,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 377767,
@@ -2291,6 +2331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 321434,
+      "num": 233999,
+      "word": "男子宿舍遇害留下2未成年儿女",
+      "onboard_time": 1755648922,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321210,
       "num": 409493,
       "word": "三伏天正式结束",
@@ -2369,6 +2417,14 @@
       "onboard_time": 1755563302,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311900,
+      "num": 311900,
+      "word": "九三阅兵准备工作答记者问",
+      "onboard_time": 1755645739,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 311492,
@@ -2473,6 +2529,14 @@
       "onboard_time": 1755506722,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 298769,
+      "num": 298769,
+      "word": "蓝盈莹晒银子全家福",
+      "onboard_time": 1755648743,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 298161,
@@ -2612,7 +2676,7 @@
     },
     {
       "raw_hot": 284718,
-      "num": 130817,
+      "num": 185606,
       "word": "检验睡没睡够的金标准",
       "onboard_time": 1755645558,
       "rank": 20,
@@ -2673,6 +2737,14 @@
       "onboard_time": 1755409701,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280519,
+      "num": 280519,
+      "word": "W盛典群星合影",
+      "onboard_time": 1755646519,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 280471,
@@ -2748,7 +2820,7 @@
     },
     {
       "raw_hot": 271172,
-      "num": 201128,
+      "num": 231321,
       "word": "宋佳演我嗑井柏然刘雯",
       "onboard_time": 1755645319,
       "rank": 14,
@@ -3315,6 +3387,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 220591,
+      "num": 189268,
+      "word": "女子与大13岁男友恋爱染3种高危HPV",
+      "onboard_time": 1755653841,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220412,
       "num": 220412,
       "word": "明天出伏了",
@@ -3827,6 +3907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199141,
+      "num": 199141,
+      "word": "迪丽热巴 青涩女大",
+      "onboard_time": 1755654980,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199086,
       "num": 153363,
       "word": "田曦薇李一桐还回家吃饭吗",
@@ -4001,6 +4089,14 @@
       "onboard_time": 1755433943,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194897,
+      "num": 194897,
+      "word": "百团大战爆发85周年",
+      "onboard_time": 1755649402,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194689,
@@ -4411,6 +4507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183260,
+      "num": 183260,
+      "word": "黑神话官号更名",
+      "onboard_time": 1755646760,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182879,
       "num": 182879,
       "word": "中500w彩票冷知识",
@@ -4465,6 +4569,14 @@
       "onboard_time": 1755523882,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181496,
+      "num": 181496,
+      "word": "张雨绮倪妮一桌就你俩最吵",
+      "onboard_time": 1755652701,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180913,
@@ -4593,6 +4705,14 @@
       "onboard_time": 1755532823,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177244,
+      "num": 177244,
+      "word": "王晶说追星是很愚蠢的行为",
+      "onboard_time": 1755653001,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 177120,
@@ -5025,6 +5145,14 @@
       "onboard_time": 1755489443,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169529,
+      "num": 237747,
+      "word": "三亚海事局回应男子海上漂流6天",
+      "onboard_time": 1755653782,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169417,
@@ -6243,6 +6371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144114,
+      "num": 144114,
+      "word": "刘诗诗去陪李庚希",
+      "onboard_time": 1755654022,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143884,
       "num": 143884,
       "word": "续面事件老板说把老家人的脸丢完了",
@@ -7251,6 +7387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128323,
+      "num": 128323,
+      "word": "梁靖崑输的对手世排103",
+      "onboard_time": 1755654560,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128087,
       "num": 130580,
       "word": "特朗普说乌克兰永远不得加入北约",
@@ -7281,6 +7425,14 @@
       "onboard_time": 1755404661,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 127843,
+      "num": 127843,
+      "word": "热巴化妆王亚飞",
+      "onboard_time": 1755649161,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127658,
@@ -7353,6 +7505,14 @@
       "onboard_time": 1755589881,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127083,
+      "num": 127083,
+      "word": "还有2周就阅兵了",
+      "onboard_time": 1755654980,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126881,
@@ -7739,6 +7899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120037,
+      "num": 120037,
+      "word": "百团大战是轰向日军的一道惊雷",
+      "onboard_time": 1755651142,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120034,
       "num": 199439,
       "word": "杨幂宁绣绣首条百万点赞视频",
@@ -8019,6 +8187,14 @@
       "category": "体育,体育"
     },
     {
+      "raw_hot": 117033,
+      "num": 117033,
+      "word": "老太每天凌晨清空爱心冰柜",
+      "onboard_time": 1755649042,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116932,
       "num": 116932,
       "word": "中餐厅",
@@ -8259,6 +8435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112968,
+      "num": 112968,
+      "word": "贵州酸汤火锅",
+      "onboard_time": 1755647660,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112923,
       "num": 112923,
       "word": "不吹空调风去吹自然风",
@@ -8387,6 +8571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111516,
+      "num": 111516,
+      "word": "26岁男子驾车避让电动车致6伤",
+      "onboard_time": 1755653782,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 111268,
       "num": 111268,
       "word": "胡明轩发文总结亚洲杯",
@@ -8457,6 +8649,14 @@
       "onboard_time": 1755579322,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110357,
+      "num": 110357,
+      "word": "iPhone无痛清理内存的方法",
+      "onboard_time": 1755654500,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 110178,
@@ -8763,6 +8963,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 105789,
+      "num": 105789,
+      "word": "店主回应爱心冰柜遭老太凌晨清空",
+      "onboard_time": 1755653302,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105745,
       "num": 238204,
       "word": "男生被女友10万卖到缅甸姐姐发声",
@@ -8792,6 +9000,14 @@
       "word": "我国刑法尚无拐卖男性罪名",
       "onboard_time": 1755530302,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105218,
+      "num": 105218,
+      "word": "19岁男子因借宿被拒杀人后煮面吃",
+      "onboard_time": 1755653422,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -8907,6 +9123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102970,
+      "num": 102970,
+      "word": "人参果根本不是水果",
+      "onboard_time": 1755649343,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 102950,
       "num": 102950,
       "word": "好贵的鱼",
@@ -8969,6 +9193,14 @@
       "onboard_time": 1755446183,
       "rank": 29,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 101885,
+      "num": 101885,
+      "word": "卓沅回应翻唱我们的明天",
+      "onboard_time": 1755651263,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 101766,
@@ -9257,6 +9489,14 @@
       "onboard_time": 1755455235,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97178,
+      "num": 97178,
+      "word": "萨摩耶洗澡半个小时了还没打湿",
+      "onboard_time": 1755652041,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97058,
@@ -9609,14 +9849,6 @@
       "onboard_time": 1755646339,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 88747,
-      "num": 204981,
-      "word": "九三阅兵准备工作答记者问",
-      "onboard_time": 1755645739,
-      "rank": 40,
-      "category": "军事"
     },
     {
       "raw_hot": 88682,
@@ -10163,6 +10395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75746,
+      "num": 113014,
+      "word": "30岁孙子医院照顾84岁奶奶",
+      "onboard_time": 1755654321,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75146,
       "num": 196248,
       "word": "马思纯晒合照",
@@ -10289,6 +10529,14 @@
       "onboard_time": 1755473659,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 69880,
+      "num": 113535,
+      "word": "环球影城诬告8岁男孩女子道歉",
+      "onboard_time": 1755654560,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69334,
@@ -10689,14 +10937,6 @@
       "onboard_time": 1755495502,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55078,
-      "num": 55078,
-      "word": "W盛典群星合影",
-      "onboard_time": 1755646519,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 54960,
@@ -11825,6 +12065,14 @@
       "onboard_time": 1755467294,
       "rank": 49,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 19294,
+      "num": 468855,
+      "word": "网警护航新学期筑牢网络安全门",
+      "onboard_time": 1755650602,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19095,
