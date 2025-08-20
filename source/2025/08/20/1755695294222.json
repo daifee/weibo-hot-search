@@ -1,0 +1,410 @@
+{
+  "runTime": 1755695294222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1695342,
+        "num": 1695342,
+        "word": "村里出了个大明星 人们都叫他成毅",
+        "onboard_time": 1755690082,
+        "rank": 0,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 777355,
+        "num": 777355,
+        "word": "失踪的梨泰院惨案救援消防员已身亡",
+        "onboard_time": 1755688761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9716,
+        "num": 734853,
+        "word": "阅兵有很多明星装备",
+        "onboard_time": 1755657080,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3031427,
+        "num": 734552,
+        "word": "难听",
+        "onboard_time": 1755691884,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 730837,
+        "num": 730837,
+        "word": "因父母求子被砍手女生的现状",
+        "onboard_time": 1755689124,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651589,
+        "num": 719779,
+        "word": "3万金镯子被猫推进垃圾桶后扔了",
+        "onboard_time": 1755691524,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 714816,
+        "num": 714816,
+        "word": "单飞不解散",
+        "onboard_time": 1755694525,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 669346,
+        "num": 669346,
+        "word": "绣绣意外流产了",
+        "onboard_time": 1755690142,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380999,
+        "num": 380999,
+        "word": "三亚游客身体不适坐海边躺椅被催收费",
+        "onboard_time": 1755684141,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283019,
+        "num": 283019,
+        "word": "孙颖莎vs袁嘉楠",
+        "onboard_time": 1755693747,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653510,
+        "num": 282936,
+        "word": "赵丽颖造型 TinaZ",
+        "onboard_time": 1755693325,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 518977,
+        "num": 282630,
+        "word": "泪桥",
+        "onboard_time": 1755691103,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 482085,
+        "num": 282207,
+        "word": "时代少年团上海演唱会",
+        "onboard_time": 1755680063,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 475709,
+        "num": 282086,
+        "word": "破音",
+        "onboard_time": 1755694345,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 472076,
+        "num": 281826,
+        "word": "34岁存款100万决定提前退休",
+        "onboard_time": 1755684744,
+        "rank": 14,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 420858,
+        "num": 281492,
+        "word": "毛雪汪",
+        "onboard_time": 1755690623,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281349,
+        "num": 281349,
+        "word": "西藏自治区成立60周年庆祝活动",
+        "onboard_time": 1755685883,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280214,
+        "num": 280214,
+        "word": "男子遇五步蛇和竹叶青打架被误伤",
+        "onboard_time": 1755684683,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30197,
+        "num": 274293,
+        "word": "4种看似坏了实则能吃的食物",
+        "onboard_time": 1755694345,
+        "rank": 18,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 270667,
+        "num": 270667,
+        "word": "大理洱海被恶意放置信号屏蔽器",
+        "onboard_time": 1755692302,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378966,
+        "num": 268068,
+        "word": "宋亚轩雨天",
+        "onboard_time": 1755694585,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346878,
+        "num": 252911,
+        "word": "歌手luz去世",
+        "onboard_time": 1755683243,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309573,
+        "num": 250186,
+        "word": "白鹿已签约欢娱9年",
+        "onboard_time": 1755694225,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289345,
+        "num": 241128,
+        "word": "严浩翔遗憾",
+        "onboard_time": 1755692905,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154578,
+        "num": 224526,
+        "word": "马斯克被曝或动用财力支持美副总统",
+        "onboard_time": 1755693747,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222688,
+        "num": 222688,
+        "word": "刘耀文演唱会生图",
+        "onboard_time": 1755689542,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218268,
+        "num": 218268,
+        "word": "lingorm",
+        "onboard_time": 1755693564,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217101,
+        "num": 217101,
+        "word": "章昊说惜败桃黑黑老师",
+        "onboard_time": 1755684504,
+        "rank": 27,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 153431,
+        "num": 216387,
+        "word": "村BA开幕直播",
+        "onboard_time": 1755694105,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148292,
+        "num": 215884,
+        "word": "无限暖暖星露谷联动",
+        "onboard_time": 1755694765,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215762,
+        "num": 215762,
+        "word": "贺峻霖 Standby",
+        "onboard_time": 1755692602,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208731,
+        "num": 208731,
+        "word": "orm哭了",
+        "onboard_time": 1755694225,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215335,
+        "num": 208452,
+        "word": "奚梦瑶5岁儿子身高",
+        "onboard_time": 1755681203,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207717,
+        "num": 207717,
+        "word": "成毅直播",
+        "onboard_time": 1755694405,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 200538,
+        "num": 200538,
+        "word": "时代少年团爱你爱我手势舞",
+        "onboard_time": 1755695065,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193068,
+        "num": 193068,
+        "word": "杜海涛疑似脱发",
+        "onboard_time": 1755692424,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188201,
+        "num": 188201,
+        "word": "孙俪 女装邓超",
+        "onboard_time": 1755691344,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187693,
+        "num": 187693,
+        "word": "金泰熙谈两个女儿长相",
+        "onboard_time": 1755694886,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177594,
+        "num": 177594,
+        "word": "火力全开",
+        "onboard_time": 1755690382,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164125,
+        "num": 164125,
+        "word": "游客坐躺椅被催收费景区称明码标价",
+        "onboard_time": 1755694225,
+        "rank": 39,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 173164,
+        "num": 163678,
+        "word": "贺峻霖顶级魅魔",
+        "onboard_time": 1755693325,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163175,
+        "num": 163175,
+        "word": "丁程鑫演唱会造型",
+        "onboard_time": 1755689841,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155899,
+        "num": 155899,
+        "word": "向太的嗓子是生孩子喊坏的",
+        "onboard_time": 1755693445,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145844,
+        "num": 145844,
+        "word": "桃黑黑 我真求你们了",
+        "onboard_time": 1755673822,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 142314,
+        "num": 142314,
+        "word": "Gemini不参加挑杯",
+        "onboard_time": 1755695008,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137330,
+        "num": 137330,
+        "word": "被毒杀儿女舅舅称男方家族群喊话收尸",
+        "onboard_time": 1755695126,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27472,
+        "num": 132837,
+        "word": "国乒4位奥运冠军罕见同框",
+        "onboard_time": 1755691282,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132376,
+        "num": 132376,
+        "word": "生万物穿帮镜头",
+        "onboard_time": 1755692483,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130602,
+        "num": 130602,
+        "word": "黄友政林诗栋vs泊雷特F勒布伦",
+        "onboard_time": 1755695185,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128389,
+        "num": 128389,
+        "word": "杨幂真去种地吧大棚了",
+        "onboard_time": 1755693025,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#向西藏各族儿女致以诚挚问候#"
+    }
+  }
+}
