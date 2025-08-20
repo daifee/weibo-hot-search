@@ -1,0 +1,411 @@
+{
+  "startTime": 1755707518715,
+  "endTime": 1755707518715,
+  "band_list": [
+    {
+      "raw_hot": 870945,
+      "num": 222654,
+      "word": "千百惠去世",
+      "onboard_time": 1755696149,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 733196,
+      "num": 875662,
+      "word": "黛珂 田栩宁",
+      "onboard_time": 1755697408,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 506710,
+      "num": 222574,
+      "word": "难听",
+      "onboard_time": 1755691884,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 496197,
+      "num": 212798,
+      "word": "宋亚轩腹肌",
+      "onboard_time": 1755704184,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 478618,
+      "num": 222326,
+      "word": "村里出了个大明星 人们都叫他成毅",
+      "onboard_time": 1755690082,
+      "rank": 7,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 463302,
+      "num": 211402,
+      "word": "法国一受虐博主在直播中死亡",
+      "onboard_time": 1755701188,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 429551,
+      "num": 220392,
+      "word": "田曦薇 人生镜头来了",
+      "onboard_time": 1755698067,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 393777,
+      "num": 220187,
+      "word": "付辛博认证颖儿是工作狂",
+      "onboard_time": 1755701307,
+      "rank": 11,
+      "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 372494,
+      "num": 219055,
+      "word": "31岁男子地下车库被发小杀害",
+      "onboard_time": 1755703347,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357681,
+      "num": 218083,
+      "word": "时代少年团爱你爱我手势舞",
+      "onboard_time": 1755695065,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 343067,
+      "num": 216467,
+      "word": "单飞不解散",
+      "onboard_time": 1755694525,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 329046,
+      "num": 210791,
+      "word": "胡先煦回应王安宇",
+      "onboard_time": 1755704125,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319288,
+      "num": 319288,
+      "word": "3万金镯子被猫推进垃圾桶后扔了",
+      "onboard_time": 1755691524,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291887,
+      "num": 210451,
+      "word": "沈佳润美美桑内中文版",
+      "onboard_time": 1755702566,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 281658,
+      "num": 217878,
+      "word": "两子非亲生案长子回应殴打父亲",
+      "onboard_time": 1755704424,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271745,
+      "num": 271745,
+      "word": "您的鳄了么订单需到场自提",
+      "onboard_time": 1755703046,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235462,
+      "num": 209157,
+      "word": "知情人称千百惠去世系因突发疾病",
+      "onboard_time": 1755697887,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222657,
+      "num": 222657,
+      "word": "爱奇艺第二季度净亏损1.337亿元",
+      "onboard_time": 1755698067,
+      "rank": 4,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 221942,
+      "num": 221942,
+      "word": "大理洱海被恶意放置信号屏蔽器",
+      "onboard_time": 1755692302,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208941,
+      "num": 208941,
+      "word": "热巴这次你做不了1了",
+      "onboard_time": 1755703524,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192540,
+      "num": 192540,
+      "word": "贺峻霖solo",
+      "onboard_time": 1755704844,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192178,
+      "num": 221807,
+      "word": "12306回应网友提议站台等候区禁烟",
+      "onboard_time": 1755706223,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183266,
+      "num": 183266,
+      "word": "人体最脏的部位",
+      "onboard_time": 1755696749,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 179035,
+      "num": 179035,
+      "word": "如果的事",
+      "onboard_time": 1755705803,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 176949,
+      "num": 176949,
+      "word": "赵丽颖长发直播",
+      "onboard_time": 1755705264,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175053,
+      "num": 215822,
+      "word": "男孩骑车撞伤老人一旁违停车赔20余万",
+      "onboard_time": 1755704004,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172780,
+      "num": 215029,
+      "word": "男子水下憋气29分钟刷新世界纪录",
+      "onboard_time": 1755705324,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162211,
+      "num": 213913,
+      "word": "失踪的梨泰院惨案救援消防员已身亡",
+      "onboard_time": 1755688761,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157550,
+      "num": 157550,
+      "word": "儿媳被2岁孙子打婆婆现场反打护媳",
+      "onboard_time": 1755699687,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153916,
+      "num": 153916,
+      "word": "方媛挺孕肚打车送女儿上学",
+      "onboard_time": 1755702866,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133430,
+      "num": 133430,
+      "word": "绣绣意外流产了",
+      "onboard_time": 1755690142,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131147,
+      "num": 131147,
+      "word": "因父母求子被砍手女生的现状",
+      "onboard_time": 1755689124,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129007,
+      "num": 213457,
+      "word": "被毒杀儿女舅舅称男方家族群喊话收尸",
+      "onboard_time": 1755695126,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126263,
+      "num": 126263,
+      "word": "章昊说惜败桃黑黑老师",
+      "onboard_time": 1755684504,
+      "rank": 36,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 125590,
+      "num": 176964,
+      "word": "孙颖莎再现学霸式复盘",
+      "onboard_time": 1755705203,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125557,
+      "num": 125557,
+      "word": "严浩翔遗憾",
+      "onboard_time": 1755692905,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 122652,
+      "num": 122652,
+      "word": "男子遇五步蛇和竹叶青打架被误伤",
+      "onboard_time": 1755684683,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121842,
+      "num": 121842,
+      "word": "全球最毒的蚊子为何批量北上",
+      "onboard_time": 1755704004,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120248,
+      "num": 120248,
+      "word": "宋亚轩刘耀文callback交换话筒",
+      "onboard_time": 1755702085,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 105058,
+      "num": 105058,
+      "word": "老番茄本名叫张秋实",
+      "onboard_time": 1755699928,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 104119,
+      "num": 104119,
+      "word": "傻挑怀孕",
+      "onboard_time": 1755701847,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96910,
+      "num": 96910,
+      "word": "献鱼双修镜头",
+      "onboard_time": 1755701307,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89040,
+      "num": 89040,
+      "word": "绣绣过得太苦了",
+      "onboard_time": 1755704364,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87166,
+      "num": 87166,
+      "word": "复制粘贴版阅兵方队准备好了",
+      "onboard_time": 1755700586,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 84355,
+      "num": 127893,
+      "word": "台湾网红馆长谈为什么讲当归",
+      "onboard_time": 1755705683,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 81490,
+      "num": 81490,
+      "word": "王安宇新歌半秒如果",
+      "onboard_time": 1755707482,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 80899,
+      "num": 80899,
+      "word": "34岁存款100万决定提前退休",
+      "onboard_time": 1755684744,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 79951,
+      "num": 79951,
+      "word": "赵丽颖造型 TinaZ",
+      "onboard_time": 1755693325,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 77027,
+      "num": 77027,
+      "word": "西藏自治区成立60周年庆祝活动",
+      "onboard_time": 1755685883,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31127,
+      "num": 289101,
+      "word": "开始盼九三阅兵了",
+      "onboard_time": 1755678083,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#向西藏各族儿女致以诚挚问候#"
+    }
+  ]
+}
