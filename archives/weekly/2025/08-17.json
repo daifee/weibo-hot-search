@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755711693040,
+  "endTime": 1755715020336,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -14067,6 +14067,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 45790,
+      "num": 66584,
+      "word": "杜海涛被网友拍到疑似发量稀疏",
+      "onboard_time": 1755711497,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45046,
       "num": 45046,
       "word": "LPL",
@@ -14351,14 +14359,6 @@
       "num": 128589,
       "word": "陈奕迅去吃地摊烤肉了",
       "onboard_time": 1755672742,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 40340,
-      "num": 66584,
-      "word": "杜海涛被网友拍到疑似发量稀疏",
-      "onboard_time": 1755711497,
       "rank": 43,
       "category": "艺人"
     },
@@ -15019,6 +15019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24863,
+      "num": 33856,
+      "word": "2025暑期剧集TOP",
+      "onboard_time": 1755714375,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24571,
       "num": 119057,
       "word": "南刘涛北海璐",
@@ -15033,6 +15041,14 @@
       "onboard_time": 1755544454,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 24391,
+      "num": 33852,
+      "word": "梅梦成祯",
+      "onboard_time": 1755713537,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 24260,
@@ -15131,12 +15147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22553,
+      "num": 33821,
+      "word": "一个母亲的力量可以有多强",
+      "onboard_time": 1755714975,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22436,
       "num": 27444,
       "word": "人生要大胆往前走",
       "onboard_time": 1755533301,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 22284,
+      "num": 33813,
+      "word": "阅兵训练大图震撼感拉满",
+      "onboard_time": 1755712697,
+      "rank": 49,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 22047,

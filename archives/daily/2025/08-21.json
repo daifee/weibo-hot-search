@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755711693040,
+  "endTime": 1755715020336,
   "band_list": [
     {
       "raw_hot": 870945,
@@ -459,7 +459,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40340,
+      "raw_hot": 45790,
       "num": 66584,
       "word": "杜海涛被网友拍到疑似发量稀疏",
       "onboard_time": 1755711497,
@@ -473,6 +473,38 @@
       "onboard_time": 1755678083,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24863,
+      "num": 33856,
+      "word": "2025暑期剧集TOP",
+      "onboard_time": 1755714375,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24391,
+      "num": 33852,
+      "word": "梅梦成祯",
+      "onboard_time": 1755713537,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22553,
+      "num": 33821,
+      "word": "一个母亲的力量可以有多强",
+      "onboard_time": 1755714975,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 22284,
+      "num": 33813,
+      "word": "阅兵训练大图震撼感拉满",
+      "onboard_time": 1755712697,
+      "rank": 49,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 19411,
