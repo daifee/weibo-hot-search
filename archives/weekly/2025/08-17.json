@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755773091548,
+  "endTime": 1755775375940,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 970069,
-      "num": 253142,
+      "num": 287291,
       "word": "单休 上6天发7天工资",
       "onboard_time": 1755769222,
       "rank": 30,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1755761543,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 862018,
+      "num": 476944,
+      "word": "内娱终于替缝纫机发声了",
+      "onboard_time": 1755771443,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 853265,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1755584842,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 746637,
+      "num": 298199,
+      "word": "抖音回应网红娶三个残障老婆",
+      "onboard_time": 1755771623,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 745477,
@@ -2443,14 +2459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 476944,
-      "num": 476944,
-      "word": "内娱终于替缝纫机发声了",
-      "onboard_time": 1755771443,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 475544,
       "num": 178171,
       "word": "多女性用棉密码病变速度让医生震惊",
@@ -2513,6 +2521,14 @@
       "onboard_time": 1755745282,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 464141,
+      "num": 464141,
+      "word": "川航回应旅客摆餐事件",
+      "onboard_time": 1755772522,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463876,
@@ -3251,6 +3267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367909,
+      "num": 367909,
+      "word": "第一个发明虾滑宽面的是天才",
+      "onboard_time": 1755772042,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 367635,
       "num": 367635,
       "word": "中国队36金17银11铜收官",
@@ -3547,6 +3571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327600,
+      "num": 327600,
+      "word": "董璇你看看人金莎",
+      "onboard_time": 1755771322,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326431,
       "num": 326431,
       "word": "债市崩了",
@@ -3675,14 +3707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318595,
-      "num": 318595,
-      "word": "董璇你看看人金莎",
-      "onboard_time": 1755771322,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318158,
       "num": 362198,
       "word": "孙丞潇189视角拍的金莎",
@@ -3809,6 +3833,14 @@
       "onboard_time": 1755752125,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305586,
+      "num": 305586,
+      "word": "杨幂怎么从生万物干到小时代了",
+      "onboard_time": 1755767543,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 305529,
@@ -4387,14 +4419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266867,
-      "num": 227571,
-      "word": "抖音回应网红娶三个残障老婆",
-      "onboard_time": 1755771623,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266785,
       "num": 266785,
       "word": "宋亚轩刘耀文callback交换话筒",
@@ -4521,14 +4545,6 @@
       "onboard_time": 1755602006,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 254477,
-      "num": 254477,
-      "word": "杨幂怎么从生万物干到小时代了",
-      "onboard_time": 1755767543,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 254156,
@@ -6635,6 +6651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190239,
+      "num": 190239,
+      "word": "女子机场坠楼砸到保洁员画面曝光",
+      "onboard_time": 1755772162,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190034,
       "num": 190034,
       "word": "黄安发布讣告",
@@ -6787,14 +6811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187825,
-      "num": 187825,
-      "word": "第一个发明虾滑宽面的是天才",
-      "onboard_time": 1755772042,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 187817,
       "num": 240341,
       "word": "成都女子被误诊绝症服药3月",
@@ -6857,6 +6873,14 @@
       "onboard_time": 1755761302,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186216,
+      "num": 186216,
+      "word": "深圳地铁被嫌滂臭",
+      "onboard_time": 1755773061,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186136,
@@ -8179,6 +8203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164728,
+      "num": 172930,
+      "word": "邓佳鑫直播",
+      "onboard_time": 1755774562,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164679,
       "num": 164679,
       "word": "等枝桠成繁花",
@@ -8299,6 +8331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162642,
+      "num": 187875,
+      "word": "陈奕恒方告黑最近进展",
+      "onboard_time": 1755774442,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162559,
       "num": 188786,
       "word": "高铁站台吸烟问题关键不是禁与不禁",
@@ -8401,6 +8441,14 @@
       "onboard_time": 1755761543,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161124,
+      "num": 161124,
+      "word": "鹿晗北京演唱会抢票",
+      "onboard_time": 1755774924,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 161120,
@@ -8603,6 +8651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 159181,
+      "num": 159181,
+      "word": "东方风云榜",
+      "onboard_time": 1755769582,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159148,
       "num": 159148,
       "word": "钱天一vs桥本帆乃香",
@@ -8665,6 +8721,14 @@
       "onboard_time": 1755436584,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158145,
+      "num": 158145,
+      "word": "一架波音737飞行中机翼断裂",
+      "onboard_time": 1755774081,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157800,
@@ -8905,6 +8969,14 @@
       "onboard_time": 1755405383,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154186,
+      "num": 154186,
+      "word": "宋轶毕雯珺抖浴巾拍照",
+      "onboard_time": 1755773302,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 153583,
@@ -10771,14 +10843,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133817,
-      "num": 133817,
-      "word": "东方风云榜",
-      "onboard_time": 1755769582,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133756,
       "num": 180371,
       "word": "等我瘦下来我也胡说八道",
@@ -10897,6 +10961,14 @@
       "onboard_time": 1755679284,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132487,
+      "num": 132487,
+      "word": "中方尊重阿富汗人民的选择",
+      "onboard_time": 1755774382,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132328,
@@ -11027,6 +11099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131146,
+      "num": 131146,
+      "word": "张家辉回应坐地铁参加金像奖",
+      "onboard_time": 1755774802,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131116,
       "num": 131116,
       "word": "男童被人贩拐走下药心脏功能受损",
@@ -11081,6 +11161,14 @@
       "onboard_time": 1755498562,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130488,
+      "num": 130488,
+      "word": "许魏洲直播演我和朋友聚餐",
+      "onboard_time": 1755775102,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 130340,
@@ -11659,6 +11747,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 125480,
+      "num": 123999,
+      "word": "张凌赫 英语好才是真性感",
+      "onboard_time": 1755773061,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125429,
       "num": 125429,
       "word": "小鹏汽车第二季度净亏损4.8亿元",
@@ -11809,6 +11905,14 @@
       "onboard_time": 1755523282,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123521,
+      "num": 123521,
+      "word": "心疼年锦",
+      "onboard_time": 1755774682,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 123487,
@@ -11993,6 +12097,14 @@
       "onboard_time": 1755444323,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121419,
+      "num": 121419,
+      "word": "苏新皓白的发光",
+      "onboard_time": 1755774203,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 121375,
@@ -12233,14 +12345,6 @@
       "onboard_time": 1755522383,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118615,
-      "num": 212473,
-      "word": "川航回应旅客摆餐事件",
-      "onboard_time": 1755772522,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118485,
@@ -12763,14 +12867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113170,
-      "num": 113170,
-      "word": "深圳地铁被嫌滂臭",
-      "onboard_time": 1755773061,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112977,
       "num": 112977,
       "word": "A股创造了多个历史",
@@ -12929,6 +13025,14 @@
       "onboard_time": 1755653782,
       "rank": 42,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 111458,
+      "num": 111458,
+      "word": "宋祖儿分享横店vlog",
+      "onboard_time": 1755775102,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 111268,
@@ -13315,6 +13419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106282,
+      "num": 106282,
+      "word": "陈熠vs高桥布鲁娜",
+      "onboard_time": 1755773662,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106278,
       "num": 106278,
       "word": "孙颖莎嚼嚼嚼",
@@ -13659,12 +13771,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101806,
+      "num": 101806,
+      "word": "宋佳刘浩存 是妈妈是女儿",
+      "onboard_time": 1755773425,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101766,
       "num": 101766,
       "word": "巴基斯坦暴雨2天内344人死亡",
       "onboard_time": 1755420143,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101656,
+      "num": 101656,
+      "word": "JDG对战DRG",
+      "onboard_time": 1755775342,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 101637,
@@ -13705,6 +13833,14 @@
       "onboard_time": 1755422783,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100967,
+      "num": 100967,
+      "word": "毕雯珺首演反派",
+      "onboard_time": 1755773662,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 100854,
@@ -14811,14 +14947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83139,
-      "num": 132166,
-      "word": "女子机场坠楼砸到保洁员画面曝光",
-      "onboard_time": 1755772162,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82887,
       "num": 82887,
       "word": "稻米节",
@@ -15075,6 +15203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 77939,
+      "num": 304003,
+      "word": "受阅装备随时能从阅兵场开向战场",
+      "onboard_time": 1755774442,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77811,
       "num": 77811,
       "word": "山东人吃虾已经nextlevel",
@@ -15259,6 +15395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75110,
+      "num": 123648,
+      "word": "狂魔哥力挺iG",
+      "onboard_time": 1755774623,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75098,
       "num": 75098,
       "word": "拉夫罗夫警告讨论乌安全保障需俄参与",
@@ -15369,6 +15513,14 @@
       "onboard_time": 1755484402,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71007,
+      "num": 123964,
+      "word": "小北你值得好的但不是这么好的",
+      "onboard_time": 1755775283,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 70946,
@@ -16683,6 +16835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40083,
+      "num": 191067,
+      "word": "毒杀儿女案男子具有刑事责任能力",
+      "onboard_time": 1755774143,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40071,
       "num": 115538,
       "word": "大司命的舞感",
@@ -16737,6 +16897,14 @@
       "onboard_time": 1755509301,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39657,
+      "num": 191251,
+      "word": "时尚芭莎采访小米SU7Ultra车主",
+      "onboard_time": 1755774682,
+      "rank": 17,
+      "category": "时尚,汽车"
     },
     {
       "raw_hot": 39320,
@@ -17809,14 +17977,6 @@
       "onboard_time": 1755376994,
       "rank": 44,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 15556,
-      "num": 123999,
-      "word": "张凌赫 英语好才是真性感",
-      "onboard_time": 1755773061,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 14976,

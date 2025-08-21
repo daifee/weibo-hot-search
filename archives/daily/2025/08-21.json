@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755773091548,
+  "endTime": 1755775375940,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 970069,
-      "num": 253142,
+      "num": 287291,
       "word": "单休 上6天发7天工资",
       "onboard_time": 1755769222,
       "rank": 30,
@@ -129,6 +129,14 @@
       "onboard_time": 1755761543,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 862018,
+      "num": 476944,
+      "word": "内娱终于替缝纫机发声了",
+      "onboard_time": 1755771443,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 853265,
@@ -184,6 +192,14 @@
       "word": "女子坠谷生还三天后却在家被烧死",
       "onboard_time": 1755763462,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 746637,
+      "num": 298199,
+      "word": "抖音回应网红娶三个残障老婆",
+      "onboard_time": 1755771623,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -395,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 476944,
-      "num": 476944,
-      "word": "内娱终于替缝纫机发声了",
-      "onboard_time": 1755771443,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 474565,
       "num": 230610,
       "word": "微信隐藏的查岗模式",
@@ -417,6 +425,14 @@
       "onboard_time": 1755745282,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 464141,
+      "num": 464141,
+      "word": "川航回应旅客摆餐事件",
+      "onboard_time": 1755772522,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463302,
@@ -547,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367909,
+      "num": 367909,
+      "word": "第一个发明虾滑宽面的是天才",
+      "onboard_time": 1755772042,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 365172,
       "num": 365172,
       "word": "布达拉宫广场升国旗奏国歌",
@@ -619,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327600,
+      "num": 327600,
+      "word": "董璇你看看人金莎",
+      "onboard_time": 1755771322,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319288,
       "num": 319288,
       "word": "3万金镯子被猫推进垃圾桶后扔了",
@@ -633,14 +665,6 @@
       "onboard_time": 1755735802,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 318595,
-      "num": 318595,
-      "word": "董璇你看看人金莎",
-      "onboard_time": 1755771322,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 317858,
@@ -681,6 +705,14 @@
       "onboard_time": 1755752125,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305586,
+      "num": 305586,
+      "word": "杨幂怎么从生万物干到小时代了",
+      "onboard_time": 1755767543,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 301068,
@@ -771,28 +803,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 266867,
-      "num": 227571,
-      "word": "抖音回应网红娶三个残障老婆",
-      "onboard_time": 1755771623,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266137,
       "num": 216325,
       "word": "虞书欣的定妆照",
       "onboard_time": 1755759683,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 254477,
-      "num": 254477,
-      "word": "杨幂怎么从生万物干到小时代了",
-      "onboard_time": 1755767543,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 252750,
@@ -1075,6 +1091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190239,
+      "num": 190239,
+      "word": "女子机场坠楼砸到保洁员画面曝光",
+      "onboard_time": 1755772162,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190017,
       "num": 190017,
       "word": "史彭元 闷声倒大霉",
@@ -1099,20 +1123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187825,
-      "num": 187825,
-      "word": "第一个发明虾滑宽面的是天才",
-      "onboard_time": 1755772042,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 186342,
       "num": 220299,
       "word": "小林栋哲跑子夜归捣乱来了",
       "onboard_time": 1755761302,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186216,
+      "num": 186216,
+      "word": "深圳地铁被嫌滂臭",
+      "onboard_time": 1755773061,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185551,
@@ -1347,6 +1371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164728,
+      "num": 172930,
+      "word": "邓佳鑫直播",
+      "onboard_time": 1755774562,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163528,
       "num": 163528,
       "word": "沈腾范丞丞你们不要再打了",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1755761902,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162642,
+      "num": 187875,
+      "word": "陈奕恒方告黑最近进展",
+      "onboard_time": 1755774442,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 162559,
@@ -1403,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161124,
+      "num": 161124,
+      "word": "鹿晗北京演唱会抢票",
+      "onboard_time": 1755774924,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160905,
       "num": 194657,
       "word": "与君朝暮开播",
@@ -1419,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159181,
+      "num": 159181,
+      "word": "东方风云榜",
+      "onboard_time": 1755769582,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158638,
       "num": 158638,
       "word": "儿媳被2岁孙子打婆婆现场反打护媳",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1755737962,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158145,
+      "num": 158145,
+      "word": "一架波音737飞行中机翼断裂",
+      "onboard_time": 1755774081,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157222,
@@ -1465,6 +1529,14 @@
       "onboard_time": 1755747982,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154186,
+      "num": 154186,
+      "word": "宋轶毕雯珺抖浴巾拍照",
+      "onboard_time": 1755773302,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 153583,
@@ -1787,14 +1859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133817,
-      "num": 133817,
-      "word": "东方风云榜",
-      "onboard_time": 1755769582,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133430,
       "num": 133430,
       "word": "绣绣意外流产了",
@@ -1817,6 +1881,14 @@
       "onboard_time": 1755768923,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132487,
+      "num": 132487,
+      "word": "中方尊重阿富汗人民的选择",
+      "onboard_time": 1755774382,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132328,
@@ -1851,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131146,
+      "num": 131146,
+      "word": "张家辉回应坐地铁参加金像奖",
+      "onboard_time": 1755774802,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131093,
       "num": 131093,
       "word": "日本发动细菌战不容否认和抵赖",
@@ -1865,6 +1945,14 @@
       "onboard_time": 1755748583,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130488,
+      "num": 130488,
+      "word": "许魏洲直播演我和朋友聚餐",
+      "onboard_time": 1755775102,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 130098,
@@ -2003,6 +2091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125480,
+      "num": 123999,
+      "word": "张凌赫 英语好才是真性感",
+      "onboard_time": 1755773061,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125128,
       "num": 174997,
       "word": "罗予彤猜出了永夜星河",
@@ -2043,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123521,
+      "num": 123521,
+      "word": "心疼年锦",
+      "onboard_time": 1755774682,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123216,
       "num": 123216,
       "word": "刘宇宁工作室断粮了",
@@ -2073,6 +2177,14 @@
       "onboard_time": 1755704004,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121419,
+      "num": 121419,
+      "word": "苏新皓白的发光",
+      "onboard_time": 1755774203,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 121276,
@@ -2147,14 +2259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118615,
-      "num": 212473,
-      "word": "川航回应旅客摆餐事件",
-      "onboard_time": 1755772522,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117397,
       "num": 117397,
       "word": "许凯被密室吓出PTSD",
@@ -2187,20 +2291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113170,
-      "num": 113170,
-      "word": "深圳地铁被嫌滂臭",
-      "onboard_time": 1755773061,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112245,
       "num": 122939,
       "word": "KPL",
       "onboard_time": 1755770423,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111458,
+      "num": 111458,
+      "word": "宋祖儿分享横店vlog",
+      "onboard_time": 1755775102,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 110985,
@@ -2225,6 +2329,14 @@
       "onboard_time": 1755739522,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106282,
+      "num": 106282,
+      "word": "陈熠vs高桥布鲁娜",
+      "onboard_time": 1755773662,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 105058,
@@ -2259,12 +2371,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101806,
+      "num": 101806,
+      "word": "宋佳刘浩存 是妈妈是女儿",
+      "onboard_time": 1755773425,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101656,
+      "num": 101656,
+      "word": "JDG对战DRG",
+      "onboard_time": 1755775342,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101601,
       "num": 165948,
       "word": "小鹏P7全球首发冰雪AES",
       "onboard_time": 1755745702,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 100967,
+      "num": 100967,
+      "word": "毕雯珺首演反派",
+      "onboard_time": 1755773662,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 99483,
@@ -2459,14 +2595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83139,
-      "num": 132166,
-      "word": "女子机场坠楼砸到保洁员画面曝光",
-      "onboard_time": 1755772162,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82801,
       "num": 82801,
       "word": "高桥布鲁娜回应战胜张本美和",
@@ -2499,6 +2627,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 77939,
+      "num": 304003,
+      "word": "受阅装备随时能从阅兵场开向战场",
+      "onboard_time": 1755774442,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77027,
       "num": 77027,
       "word": "西藏自治区成立60周年庆祝活动",
@@ -2513,6 +2649,14 @@
       "onboard_time": 1755707661,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75110,
+      "num": 123648,
+      "word": "狂魔哥力挺iG",
+      "onboard_time": 1755774623,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 75098,
@@ -2545,6 +2689,14 @@
       "onboard_time": 1755694225,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71007,
+      "num": 123964,
+      "word": "小北你值得好的但不是这么好的",
+      "onboard_time": 1755775283,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 70228,
@@ -2819,6 +2971,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40083,
+      "num": 191067,
+      "word": "毒杀儿女案男子具有刑事责任能力",
+      "onboard_time": 1755774143,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39657,
+      "num": 191251,
+      "word": "时尚芭莎采访小米SU7Ultra车主",
+      "onboard_time": 1755774682,
+      "rank": 17,
+      "category": "时尚,汽车"
+    },
+    {
       "raw_hot": 39320,
       "num": 220232,
       "word": "黄渤的脸承包今日所有笑点",
@@ -3017,14 +3185,6 @@
       "onboard_time": 1755759142,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 15556,
-      "num": 123999,
-      "word": "张凌赫 英语好才是真性感",
-      "onboard_time": 1755773061,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 13142,
