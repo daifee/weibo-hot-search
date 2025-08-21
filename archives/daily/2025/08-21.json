@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755759517403,
+  "endTime": 1755761250240,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -57,6 +57,14 @@
       "onboard_time": 1755743422,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 933129,
+      "num": 216247,
+      "word": "徐艺洋为了黄子韬放弃工作",
+      "onboard_time": 1755758902,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 870945,
@@ -235,6 +243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 499814,
+      "num": 417129,
+      "word": "留学9天自杀女生5000字自白书曝光",
+      "onboard_time": 1755755662,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 496197,
       "num": 212798,
       "word": "宋亚轩腹肌",
@@ -283,19 +299,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 446712,
-      "num": 417129,
-      "word": "留学9天自杀女生5000字自白书曝光",
-      "onboard_time": 1755755662,
-      "rank": 3,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 444877,
       "num": 254369,
       "word": "85岁老人容留卖淫每次嫖资抽10元",
       "onboard_time": 1755754524,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432292,
+      "num": 240821,
+      "word": "135岁的老太太",
+      "onboard_time": 1755755304,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -313,6 +329,14 @@
       "onboard_time": 1755742461,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421179,
+      "num": 274630,
+      "word": "时代少年团直播",
+      "onboard_time": 1755757764,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 417607,
@@ -443,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326230,
-      "num": 274630,
-      "word": "时代少年团直播",
-      "onboard_time": 1755757764,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 319288,
       "num": 319288,
       "word": "3万金镯子被猫推进垃圾桶后扔了",
@@ -505,6 +521,22 @@
       "onboard_time": 1755744502,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300044,
+      "num": 211964,
+      "word": "阚清子官宣怀孕后首次播剧",
+      "onboard_time": 1755760462,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 298849,
+      "num": 298849,
+      "word": "台风玲玲已生成",
+      "onboard_time": 1755758361,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298242,
@@ -587,12 +619,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240821,
-      "num": 240821,
-      "word": "135岁的老太太",
-      "onboard_time": 1755755304,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 251111,
+      "num": 211184,
+      "word": "减重少于5%属于无效减重",
+      "onboard_time": 1755756382,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 242164,
+      "num": 210852,
+      "word": "虞书欣的定妆照",
+      "onboard_time": 1755759683,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239729,
@@ -675,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210184,
+      "num": 210184,
+      "word": "吴磊下身基础上身就不基础",
+      "onboard_time": 1755760283,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208941,
       "num": 208941,
       "word": "热巴这次你做不了1了",
@@ -691,28 +739,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206297,
-      "num": 206297,
-      "word": "徐艺洋为了黄子韬放弃工作",
-      "onboard_time": 1755758902,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203979,
       "num": 203979,
       "word": "徐志胜说孟子义唱歌很难单飞",
       "onboard_time": 1755744923,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200776,
-      "num": 200776,
-      "word": "台风玲玲已生成",
-      "onboard_time": 1755758361,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199587,
@@ -875,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171962,
+      "num": 162554,
+      "word": "拼好饭被骑手说狗饭",
+      "onboard_time": 1755758483,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170667,
       "num": 195298,
       "word": "王一博保证完成任务",
@@ -931,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161558,
+      "num": 161558,
+      "word": "何老师看似情绪稳定实则没招了",
+      "onboard_time": 1755759441,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160905,
       "num": 194657,
       "word": "与君朝暮开播",
@@ -945,6 +993,22 @@
       "onboard_time": 1755753922,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159509,
+      "num": 253439,
+      "word": "这座中国大桥横竖都是世界第一",
+      "onboard_time": 1755757044,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158863,
+      "num": 158863,
+      "word": "原来排卵期一直在被误解",
+      "onboard_time": 1755760943,
+      "rank": 36,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 158638,
@@ -979,12 +1043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153583,
+      "num": 153583,
+      "word": "柳智敏芭莎",
+      "onboard_time": 1755760042,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153425,
       "num": 153425,
       "word": "张凌赫我想你了版今晚月色真美",
       "onboard_time": 1755747323,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152422,
+      "num": 152422,
+      "word": "女子在地下室洗菜致高烧2周不退",
+      "onboard_time": 1755758902,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149118,
@@ -1009,6 +1089,14 @@
       "onboard_time": 1755746182,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145502,
+      "num": 145502,
+      "word": "弹壳晒一家五口全家福",
+      "onboard_time": 1755760883,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 145426,
@@ -1075,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137137,
-      "num": 163940,
-      "word": "减重少于5%属于无效减重",
-      "onboard_time": 1755756382,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136987,
       "num": 136987,
       "word": "英国素食者肯德基前拦车",
@@ -1107,6 +1187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134091,
+      "num": 134091,
+      "word": "6岁男童两次被邻居带走冒名打疫苗",
+      "onboard_time": 1755760163,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133430,
       "num": 133430,
       "word": "绣绣意外流产了",
@@ -1115,19 +1203,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133140,
+      "num": 133140,
+      "word": "当艺人出发图不再公式化",
+      "onboard_time": 1755760462,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132328,
       "num": 132328,
       "word": "女子出差被性侵获赔113万案最新进展",
       "onboard_time": 1755752364,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132316,
-      "num": 132316,
-      "word": "女子在地下室洗菜致高烧2周不退",
-      "onboard_time": 1755758902,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1225,6 +1313,14 @@
       "onboard_time": 1755753804,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126563,
+      "num": 126563,
+      "word": "周深盲盒",
+      "onboard_time": 1755761182,
+      "rank": 49,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 126263,
@@ -1363,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118649,
-      "num": 253439,
-      "word": "这座中国大桥横竖都是世界第一",
-      "onboard_time": 1755757044,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116680,
       "num": 116680,
       "word": "锦月如歌",
@@ -1395,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115310,
-      "num": 115310,
-      "word": "何老师看似情绪稳定实则没招了",
-      "onboard_time": 1755759441,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110985,
       "num": 109558,
       "word": "田曦薇把杨梅吃成血包",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1755747383,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108958,
+      "num": 210448,
+      "word": "俄罗斯不接受北约维和部队在乌驻扎",
+      "onboard_time": 1755759623,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108275,
@@ -1587,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85991,
+      "num": 182551,
+      "word": "辛巴清空作品",
+      "onboard_time": 1755759802,
+      "rank": 29,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 84355,
       "num": 127893,
       "word": "台湾网红馆长谈为什么讲当归",
@@ -1609,14 +1705,6 @@
       "onboard_time": 1755731838,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81281,
-      "num": 115545,
-      "word": "拼好饭被骑手说狗饭",
-      "onboard_time": 1755758483,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80899,
@@ -1699,6 +1787,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65193,
+      "num": 213268,
+      "word": "黄子韬还记得以前自己是EXO的吗",
+      "onboard_time": 1755760582,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63404,
+      "num": 212769,
+      "word": "法院警车在千里之外的草原旅拍",
+      "onboard_time": 1755759683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63281,
       "num": 66655,
       "word": "刘耀文站姐神图这一块",
@@ -1713,6 +1817,14 @@
       "onboard_time": 1755731058,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 61040,
+      "num": 154425,
+      "word": "秋瓷炫儿子0帧切换中文韩语",
+      "onboard_time": 1755760643,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 60237,
@@ -1867,6 +1979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 37882,
+      "num": 153591,
+      "word": "吉林大学新生宿舍楼禁异性家长进入",
+      "onboard_time": 1755760883,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37770,
       "num": 161925,
       "word": "村民救人下山收6万",
@@ -1875,12 +1995,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32443,
+      "num": 214857,
+      "word": "中国豪华汽车看蔚来",
+      "onboard_time": 1755760283,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31127,
       "num": 394049,
       "word": "开始盼九三阅兵了",
       "onboard_time": 1755678083,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29225,
+      "num": 153786,
+      "word": "献鱼子夜归 换乘导演",
+      "onboard_time": 1755760343,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 28070,
