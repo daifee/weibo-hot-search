@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755794834256,
+  "endTime": 1755797307658,
   "band_list": [
     {
       "raw_hot": 1190706,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 340735,
+      "num": 340735,
+      "word": "胡雷回应资助的女孩去世",
+      "onboard_time": 1755792802,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287273,
       "num": 287273,
       "word": "马嘉祺太稳了",
@@ -88,14 +96,6 @@
       "word": "无座与二等座同价",
       "onboard_time": 1755781283,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243975,
-      "num": 259255,
-      "word": "胡雷回应资助的女孩去世",
-      "onboard_time": 1755792802,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89248,
+      "num": 89248,
+      "word": "迪丽热巴走路刀马刀马",
+      "onboard_time": 1755794119,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 88274,
       "num": 88274,
       "word": "严浩翔异瞳神父",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 70451,
-      "num": 88264,
+      "num": 88517,
       "word": "古偶终于轮到男主跳城楼了",
       "onboard_time": 1755776301,
       "rank": 41,
@@ -371,14 +379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 65771,
-      "num": 69604,
-      "word": "迪丽热巴走路刀马刀马",
-      "onboard_time": 1755794119,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 64902,
       "num": 88241,
       "word": "周深 泡泡玛特",
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53393,
+      "num": 88679,
+      "word": "湖南卫视连发20条周也",
+      "onboard_time": 1755796876,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53273,
       "num": 69531,
       "word": "素颜",
@@ -412,11 +420,35 @@
     },
     {
       "raw_hot": 53069,
-      "num": 69528,
+      "num": 88293,
       "word": "万斯警告泽连斯基规矩点",
       "onboard_time": 1755794239,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39465,
+      "num": 88036,
+      "word": "人生最大的贵人是你自己",
+      "onboard_time": 1755797238,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 37310,
+      "num": 87794,
+      "word": "心疼Peyz",
+      "onboard_time": 1755796997,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 37165,
+      "num": 87714,
+      "word": "王曼昱赛后采访",
+      "onboard_time": 1755796038,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 35995,
@@ -425,6 +457,14 @@
       "onboard_time": 1755789204,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 21899,
+      "num": 136442,
+      "word": "中国最帅天团走来了",
+      "onboard_time": 1755782903,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 18464,
