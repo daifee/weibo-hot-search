@@ -1,0 +1,410 @@
+{
+  "runTime": 1755769324652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1401652,
+        "num": 1401652,
+        "word": "王传君神预言董璇张维伊",
+        "onboard_time": 1755765384,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 819424,
+        "num": 819424,
+        "word": "12306回应高铁能否加挂吸烟车厢",
+        "onboard_time": 1755763643,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42033,
+        "num": 751703,
+        "word": "西藏自治区成立60周年",
+        "onboard_time": 1755748703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 893784,
+        "num": 730834,
+        "word": "刘骏 费加罗",
+        "onboard_time": 1755768143,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 709943,
+        "num": 709943,
+        "word": "女子坠谷生还三天后却在家被烧死",
+        "onboard_time": 1755763462,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1250421,
+        "num": 699512,
+        "word": "男网红娶三个残障老婆",
+        "onboard_time": 1755762503,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531625,
+        "num": 531625,
+        "word": "考上211不到一年后父母断供生活费",
+        "onboard_time": 1755766222,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 464548,
+        "num": 464548,
+        "word": "官方通报50升油箱加出67.96升汽油",
+        "onboard_time": 1755761543,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 449968,
+        "num": 449968,
+        "word": "胡先煦坐了近五十个小时飞机",
+        "onboard_time": 1755761482,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433128,
+        "num": 433128,
+        "word": "九三阅兵3名旗手平均身高189",
+        "onboard_time": 1755767123,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 541770,
+        "num": 416426,
+        "word": "徐艺洋为了黄子韬放弃工作",
+        "onboard_time": 1755758902,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377474,
+        "num": 377474,
+        "word": "高铁目前不可能加挂吸烟车厢",
+        "onboard_time": 1755762383,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366912,
+        "num": 366912,
+        "word": "杨幂回应连续三部作品演技获赞",
+        "onboard_time": 1755764184,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332850,
+        "num": 332850,
+        "word": "WTT中国大满贯",
+        "onboard_time": 1755764964,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316492,
+        "num": 316492,
+        "word": "EXO的前夜是刘宪华写的",
+        "onboard_time": 1755763344,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 311569,
+        "num": 311569,
+        "word": "两子非亲生大儿子反质父亲出轨",
+        "onboard_time": 1755764242,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254477,
+        "num": 254477,
+        "word": "杨幂怎么从生万物干到小时代了",
+        "onboard_time": 1755767543,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43430,
+        "num": 254239,
+        "word": "vivo成国内首个进军MR的手机品牌",
+        "onboard_time": 1755765742,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47545,
+        "num": 250848,
+        "word": "vivoVision让头号玩家走进现实",
+        "onboard_time": 1755768263,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95274,
+        "num": 249335,
+        "word": "二次元金饰被炒至每克2800元",
+        "onboard_time": 1755768744,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415854,
+        "num": 247530,
+        "word": "原来排卵期一直在被误解",
+        "onboard_time": 1755760943,
+        "rank": 20,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 246411,
+        "num": 246411,
+        "word": "万国鹏再澄清曾追求张予曦",
+        "onboard_time": 1755752843,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198899,
+        "num": 198899,
+        "word": "生万物2025首部云合破亿",
+        "onboard_time": 1755768744,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191414,
+        "num": 191414,
+        "word": "12306为何在站台禁烟问题上反应冷淡",
+        "onboard_time": 1755751827,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190494,
+        "num": 190494,
+        "word": "黄宗泽把港风带到了短剧圈",
+        "onboard_time": 1755768624,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184661,
+        "num": 184661,
+        "word": "孙颖莎王楚钦出战中国大满贯混双",
+        "onboard_time": 1755765742,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182822,
+        "num": 182822,
+        "word": "宋轶这背不拔罐可惜了",
+        "onboard_time": 1755768504,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180354,
+        "num": 180354,
+        "word": "贺峻霖一场比一场瘦",
+        "onboard_time": 1755768203,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47583,
+        "num": 179360,
+        "word": "黄渤鲁豫谈演员的另一种表达",
+        "onboard_time": 1755768263,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178720,
+        "num": 178720,
+        "word": "原来关晓彤才是林黛玉最初人选",
+        "onboard_time": 1755743361,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232196,
+        "num": 178025,
+        "word": "单休 上6天发7天工资",
+        "onboard_time": 1755769222,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214234,
+        "num": 177954,
+        "word": "你家猫咪其实和你一模一样",
+        "onboard_time": 1755769222,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176848,
+        "num": 176848,
+        "word": "晚餐决定了第二天掉称速度",
+        "onboard_time": 1755766463,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177598,
+        "num": 175033,
+        "word": "张元英怎么美成这样",
+        "onboard_time": 1755768982,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172506,
+        "num": 172506,
+        "word": "阚清子官宣怀孕后首次播剧",
+        "onboard_time": 1755760462,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164763,
+        "num": 164763,
+        "word": "发明张真源做导入的真是天才",
+        "onboard_time": 1755768442,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152461,
+        "num": 152461,
+        "word": "恋与制作人助农",
+        "onboard_time": 1755768143,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145946,
+        "num": 145946,
+        "word": "刘品言挺7个月孕肚举哑铃",
+        "onboard_time": 1755767783,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145557,
+        "num": 145557,
+        "word": "假如张若昀虞书欣演先婚后爱",
+        "onboard_time": 1755752243,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144999,
+        "num": 144999,
+        "word": "H4cker回应JackeyLove",
+        "onboard_time": 1755768384,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30839,
+        "num": 144801,
+        "word": "武大教授毒品犯罪论文引争议",
+        "onboard_time": 1755768863,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144784,
+        "num": 144784,
+        "word": "张晚意不是淡人是当地人",
+        "onboard_time": 1755769042,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135227,
+        "num": 135227,
+        "word": "章若楠 我是妈咪养的可爱猪",
+        "onboard_time": 1755766584,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132544,
+        "num": 132544,
+        "word": "WTT中国大满贯国乒名单",
+        "onboard_time": 1755768923,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131989,
+        "num": 131989,
+        "word": "王楚钦中国大满贯身兼三项",
+        "onboard_time": 1755765804,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129976,
+        "num": 129976,
+        "word": "高铁站台吸烟问题关键不是禁与不禁",
+        "onboard_time": 1755768442,
+        "rank": 45,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 125304,
+        "num": 125304,
+        "word": "263斤男子花2万请轿夫抬上峨眉山",
+        "onboard_time": 1755765384,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124192,
+        "num": 124192,
+        "word": "明日方舟",
+        "onboard_time": 1755769103,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123475,
+        "num": 123475,
+        "word": "曝黄正音贪污公款43亿炒币",
+        "onboard_time": 1755762863,
+        "rank": 48,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 120337,
+        "num": 120337,
+        "word": "刘雯W中文版封面人物",
+        "onboard_time": 1755766763,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席西藏自治区成立60周年庆祝大会#"
+    }
+  }
+}

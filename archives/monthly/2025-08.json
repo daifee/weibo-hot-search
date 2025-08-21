@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755768548993,
+  "endTime": 1755769324652,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1500,7 +1500,7 @@
     },
     {
       "raw_hot": 1583078,
-      "num": 663939,
+      "num": 699512,
       "word": "男网红娶三个残障老婆",
       "onboard_time": 1755762503,
       "rank": 3,
@@ -2000,6 +2000,14 @@
       "word": "王玉雯 避雷陈星旭这个摄影师",
       "onboard_time": 1755502102,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1401652,
+      "num": 1401652,
+      "word": "王传君神预言董璇张维伊",
+      "onboard_time": 1755765384,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -2537,14 +2545,6 @@
       "onboard_time": 1755316940,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1264290,
-      "num": 1264290,
-      "word": "王传君神预言董璇张维伊",
-      "onboard_time": 1755765384,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 1264166,
@@ -3092,7 +3092,7 @@
     },
     {
       "raw_hot": 1137012,
-      "num": 369646,
+      "num": 416426,
       "word": "徐艺洋为了黄子韬放弃工作",
       "onboard_time": 1755758902,
       "rank": 23,
@@ -4539,6 +4539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 893784,
+      "num": 730834,
+      "word": "刘骏 费加罗",
+      "onboard_time": 1755768143,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 891432,
       "num": 665183,
       "word": "郭德纲说已经卑微到看郭麒麟脸色",
@@ -5145,6 +5153,14 @@
       "onboard_time": 1754925564,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 819424,
+      "num": 819424,
+      "word": "12306回应高铁能否加挂吸烟车厢",
+      "onboard_time": 1755763643,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 818441,
@@ -7361,14 +7377,6 @@
       "onboard_time": 1754225544,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 652511,
-      "num": 652511,
-      "word": "12306回应高铁能否加挂吸烟车厢",
-      "onboard_time": 1755763643,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 652425,
@@ -9651,6 +9659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 531625,
+      "num": 531625,
+      "word": "考上211不到一年后父母断供生活费",
+      "onboard_time": 1755766222,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 531241,
       "num": 402263,
       "word": "首尔偶遇周也",
@@ -10084,7 +10100,7 @@
     },
     {
       "raw_hot": 513615,
-      "num": 368294,
+      "num": 377474,
       "word": "高铁目前不可能加挂吸烟车厢",
       "onboard_time": 1755762383,
       "rank": 16,
@@ -10841,14 +10857,6 @@
       "onboard_time": 1753964123,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 477896,
-      "num": 477896,
-      "word": "刘骏 费加罗",
-      "onboard_time": 1755768143,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 477621,
@@ -11993,6 +12001,14 @@
       "onboard_time": 1755460875,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433128,
+      "num": 433128,
+      "word": "九三阅兵3名旗手平均身高189",
+      "onboard_time": 1755767123,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 432635,
@@ -13929,14 +13945,6 @@
       "onboard_time": 1755388278,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 375463,
-      "num": 375463,
-      "word": "考上211不到一年后父母断供生活费",
-      "onboard_time": 1755766222,
-      "rank": 9,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 375310,
@@ -16235,6 +16243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311569,
+      "num": 311569,
+      "word": "两子非亲生大儿子反质父亲出轨",
+      "onboard_time": 1755764242,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311497,
       "num": 311497,
       "word": "女子哭诉扶老人反被诬陷让人寒心",
@@ -17745,14 +17761,6 @@
       "onboard_time": 1755594084,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280463,
-      "num": 280463,
-      "word": "九三阅兵3名旗手平均身高189",
-      "onboard_time": 1755767123,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 279943,
@@ -19291,6 +19299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254477,
+      "num": 254477,
+      "word": "杨幂怎么从生万物干到小时代了",
+      "onboard_time": 1755767543,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254232,
       "num": 254232,
       "word": "嘻哈结婚了也离婚了",
@@ -20355,14 +20371,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 238975,
-      "num": 238975,
-      "word": "两子非亲生大儿子反质父亲出轨",
-      "onboard_time": 1755764242,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238883,
       "num": 280946,
       "word": "张艺凡刚出新手村就遇顶级魅魔",
@@ -20857,6 +20865,14 @@
       "onboard_time": 1755081985,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232196,
+      "num": 178025,
+      "word": "单休 上6天发7天工资",
+      "onboard_time": 1755769222,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 232071,
@@ -22619,6 +22635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214234,
+      "num": 177954,
+      "word": "你家猫咪其实和你一模一样",
+      "onboard_time": 1755769222,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214214,
       "num": 214214,
       "word": "无限暖暖把骑龙价格打下来",
@@ -23473,14 +23497,6 @@
       "onboard_time": 1754890102,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208358,
-      "num": 208358,
-      "word": "杨幂怎么从生万物干到小时代了",
-      "onboard_time": 1755767543,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 208338,
@@ -25433,6 +25449,14 @@
       "onboard_time": 1754012481,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198899,
+      "num": 198899,
+      "word": "生万物2025首部云合破亿",
+      "onboard_time": 1755768744,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 198897,
@@ -27579,6 +27603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 190494,
+      "num": 190494,
+      "word": "黄宗泽把港风带到了短剧圈",
+      "onboard_time": 1755768624,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190487,
       "num": 190487,
       "word": "虞书欣丁禹兮或三搭同体",
@@ -29307,6 +29339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182822,
+      "num": 182822,
+      "word": "宋轶这背不拔罐可惜了",
+      "onboard_time": 1755768504,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182811,
       "num": 182811,
       "word": "丞磊是宋轶的游戏说明书",
@@ -29801,6 +29841,14 @@
       "onboard_time": 1754291782,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180354,
+      "num": 180354,
+      "word": "贺峻霖一场比一场瘦",
+      "onboard_time": 1755768203,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 180311,
@@ -30339,6 +30387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177598,
+      "num": 175033,
+      "word": "张元英怎么美成这样",
+      "onboard_time": 1755768982,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177595,
       "num": 177595,
       "word": "才知道朋友圈可存多个定位",
@@ -30481,6 +30537,14 @@
       "onboard_time": 1754822181,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176848,
+      "num": 176848,
+      "word": "晚餐决定了第二天掉称速度",
+      "onboard_time": 1755766463,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 176841,
@@ -31289,14 +31353,6 @@
       "onboard_time": 1755406942,
       "rank": 24,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 173934,
-      "num": 173934,
-      "word": "晚餐决定了第二天掉称速度",
-      "onboard_time": 1755766463,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173910,
@@ -33561,6 +33617,14 @@
       "onboard_time": 1754734464,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164763,
+      "num": 164763,
+      "word": "发明张真源做导入的真是天才",
+      "onboard_time": 1755768442,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 164729,
@@ -39475,6 +39539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145946,
+      "num": 145946,
+      "word": "刘品言挺7个月孕肚举哑铃",
+      "onboard_time": 1755767783,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145940,
       "num": 133137,
       "word": "原来也有邪恶栀子花救不了的场",
@@ -39835,6 +39907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144999,
+      "num": 144999,
+      "word": "H4cker回应JackeyLove",
+      "onboard_time": 1755768384,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144982,
       "num": 144982,
       "word": "无房员工入职即住海景房",
@@ -39897,6 +39977,14 @@
       "onboard_time": 1754888183,
       "rank": 41,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 144784,
+      "num": 144784,
+      "word": "张晚意不是淡人是当地人",
+      "onboard_time": 1755769042,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 144723,
@@ -40489,14 +40577,6 @@
       "onboard_time": 1755232583,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143080,
-      "num": 143079,
-      "word": "贺峻霖一场比一场瘦",
-      "onboard_time": 1755768203,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 143070,
@@ -41857,14 +41937,6 @@
       "onboard_time": 1755231801,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139393,
-      "num": 139393,
-      "word": "H4cker回应JackeyLove",
-      "onboard_time": 1755768384,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 139378,
@@ -43659,6 +43731,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 135227,
+      "num": 135227,
+      "word": "章若楠 我是妈咪养的可爱猪",
+      "onboard_time": 1755766584,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135191,
       "num": 135191,
       "word": "JDG对战UUG",
@@ -44731,6 +44811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132544,
+      "num": 132544,
+      "word": "WTT中国大满贯国乒名单",
+      "onboard_time": 1755768923,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132543,
       "num": 132543,
       "word": "杨幂皱眉撒娇",
@@ -45451,14 +45539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130858,
-      "num": 130858,
-      "word": "章若楠 我是妈咪养的可爱猪",
-      "onboard_time": 1755766584,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130849,
       "num": 130849,
       "word": "哈登穿唐装打咏春",
@@ -45609,14 +45689,6 @@
       "onboard_time": 1754130983,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130466,
-      "num": 130466,
-      "word": "宋轶这背不拔罐可惜了",
-      "onboard_time": 1755768504,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 130450,
@@ -46337,14 +46409,6 @@
       "onboard_time": 1755741080,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 128945,
-      "num": 128945,
-      "word": "发明张真源做导入的真是天才",
-      "onboard_time": 1755768442,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 128918,
@@ -48339,6 +48403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124192,
+      "num": 124192,
+      "word": "明日方舟",
+      "onboard_time": 1754110463,
+      "rank": 42,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 124118,
       "num": 124118,
       "word": "沈腾弹马丽脑门根本没用力",
@@ -48665,14 +48737,6 @@
       "onboard_time": 1754898742,
       "rank": 45,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 123493,
-      "num": 123493,
-      "word": "明日方舟",
-      "onboard_time": 1754110463,
-      "rank": 42,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 123487,
@@ -52793,14 +52857,6 @@
       "onboard_time": 1755329363,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113254,
-      "num": 143092,
-      "word": "刘品言挺7个月孕肚举哑铃",
-      "onboard_time": 1755767783,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 113243,
@@ -58971,6 +59027,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 95274,
+      "num": 249335,
+      "word": "二次元金饰被炒至每克2800元",
+      "onboard_time": 1755768744,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95190,
       "num": 117861,
       "word": "精神病史不是免罪金牌",
@@ -61484,7 +61548,7 @@
     },
     {
       "raw_hot": 83143,
-      "num": 722348,
+      "num": 751703,
       "word": "西藏自治区成立60周年",
       "onboard_time": 1755748703,
       "rank": 2,
@@ -66611,6 +66675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47545,
+      "num": 250848,
+      "word": "vivoVision让头号玩家走进现实",
+      "onboard_time": 1755768263,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47416,
       "num": 70975,
       "word": "每个当下都值得全情投入",
@@ -68131,14 +68203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38628,
-      "num": 237882,
-      "word": "vivoVision让头号玩家走进现实",
-      "onboard_time": 1755768263,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 38587,
       "num": 985368,
       "word": "何以中国和合共生",
@@ -69361,6 +69425,14 @@
       "onboard_time": 1754897843,
       "rank": 40,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 30839,
+      "num": 144801,
+      "word": "武大教授毒品犯罪论文引争议",
+      "onboard_time": 1755768863,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30725,
