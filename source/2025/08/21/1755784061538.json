@@ -1,0 +1,410 @@
+{
+  "runTime": 1755784061538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 887149,
+        "num": 1141943,
+        "word": "刘涛 一念江南",
+        "onboard_time": 1755779363,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 736090,
+        "num": 736090,
+        "word": "黑龙江一恶势力团伙全员改判无罪",
+        "onboard_time": 1755778583,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23100,
+        "num": 602853,
+        "word": "西藏自治区成立60周年",
+        "onboard_time": 1755748703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 533563,
+        "num": 533563,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1755779123,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453748,
+        "num": 453748,
+        "word": "男子娶残障老婆最高可判死刑",
+        "onboard_time": 1755777982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1256387,
+        "num": 436647,
+        "word": "李易峰涉多起司法案件",
+        "onboard_time": 1755778342,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526078,
+        "num": 434050,
+        "word": "素颜",
+        "onboard_time": 1755779902,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407402,
+        "num": 407402,
+        "word": "金泰熙因为育儿压力流泪",
+        "onboard_time": 1755781222,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318045,
+        "num": 318045,
+        "word": "第一个发明虾滑宽面的是天才",
+        "onboard_time": 1755772042,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 257964,
+        "num": 257964,
+        "word": "中方回应是否承认阿富汗临时政府",
+        "onboard_time": 1755781704,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2183674,
+        "num": 257813,
+        "word": "胡先煦 李宛妲",
+        "onboard_time": 1755777503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612237,
+        "num": 257330,
+        "word": "确诊糖尿病前身体发出的信号",
+        "onboard_time": 1755776662,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 412132,
+        "num": 256922,
+        "word": "李在明喂完夫人喂议员被妻子挡开",
+        "onboard_time": 1755778043,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80135,
+        "num": 256834,
+        "word": "法院车辆停草原上一男一女拍照",
+        "onboard_time": 1755776301,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127350,
+        "num": 256410,
+        "word": "九三阅兵3名旗手平均身高189",
+        "onboard_time": 1755767123,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 603423,
+        "num": 256072,
+        "word": "胡先煦项链里有李宛妲照片",
+        "onboard_time": 1755778822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359014,
+        "num": 255538,
+        "word": "严浩翔异瞳神父",
+        "onboard_time": 1755781042,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 356786,
+        "num": 255194,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1755783083,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37668,
+        "num": 255103,
+        "word": "荣耀小折叠2亿超清自拍折么强",
+        "onboard_time": 1755781584,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44880,
+        "num": 254524,
+        "word": "热议站台是否该禁烟不是小题大做",
+        "onboard_time": 1755783083,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 319158,
+        "num": 254115,
+        "word": "为什么酒店的被子塞那么紧",
+        "onboard_time": 1755780083,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308702,
+        "num": 253730,
+        "word": "宋亚轩手语",
+        "onboard_time": 1755781885,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253722,
+        "num": 253722,
+        "word": "梓渝音乐节",
+        "onboard_time": 1755783263,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307552,
+        "num": 246577,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1755776963,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201123,
+        "num": 201123,
+        "word": "每天一个俯卧撑摔了一年后",
+        "onboard_time": 1755779662,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 198806,
+        "num": 198806,
+        "word": "谢霆锋让阿Sa先充一年会员再说话",
+        "onboard_time": 1755783023,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197857,
+        "num": 197857,
+        "word": "古偶终于轮到男主跳城楼了",
+        "onboard_time": 1755776301,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194108,
+        "num": 194108,
+        "word": "王传君神预言董璇张维伊",
+        "onboard_time": 1755765384,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102806,
+        "num": 183120,
+        "word": "孙颖莎稳稳进8强",
+        "onboard_time": 1755782185,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174294,
+        "num": 174294,
+        "word": "无座与二等座同价",
+        "onboard_time": 1755781283,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166308,
+        "num": 166308,
+        "word": "欧豪无声哭戏",
+        "onboard_time": 1755783744,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165996,
+        "num": 165996,
+        "word": "李佳琦打破了六人定律",
+        "onboard_time": 1755780023,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165646,
+        "num": 165646,
+        "word": "张艺兴学霸王别姬补口红",
+        "onboard_time": 1755783684,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161986,
+        "num": 161986,
+        "word": "孙颖莎欧洲大满贯晋级8强",
+        "onboard_time": 1755783564,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161229,
+        "num": 161229,
+        "word": "子夜归第十集封神",
+        "onboard_time": 1755783744,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160971,
+        "num": 160971,
+        "word": "刘耀文红色蕾丝透视衬衫",
+        "onboard_time": 1755783323,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159220,
+        "num": 159220,
+        "word": "朱雨玲0比3大藤沙月",
+        "onboard_time": 1755783023,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155637,
+        "num": 155637,
+        "word": "王鹤棣 三张照片六个自己",
+        "onboard_time": 1755780202,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62442,
+        "num": 154409,
+        "word": "留学生遭电诈跳楼身亡家属发声",
+        "onboard_time": 1755784044,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37025,
+        "num": 154057,
+        "word": "多地教培机构推出高中大学衔接班",
+        "onboard_time": 1755783144,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 153908,
+        "num": 153908,
+        "word": "生万物转场",
+        "onboard_time": 1755783684,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150320,
+        "num": 153774,
+        "word": "深圳地铁被嫌滂臭",
+        "onboard_time": 1755773061,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153645,
+        "num": 153645,
+        "word": "JDG对战DRG",
+        "onboard_time": 1755775342,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134955,
+        "num": 134955,
+        "word": "张维伊跳breaking",
+        "onboard_time": 1755780023,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40980,
+        "num": 133357,
+        "word": "向美高校索赔超7亿患癌学生发声",
+        "onboard_time": 1755783083,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132314,
+        "num": 132314,
+        "word": "女子坠谷生还三天后却在家被烧死",
+        "onboard_time": 1755763462,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131135,
+        "num": 131135,
+        "word": "徐艺洋为了黄子韬放弃工作",
+        "onboard_time": 1755758902,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129977,
+        "num": 129977,
+        "word": "原来排卵期一直在被误解",
+        "onboard_time": 1755760943,
+        "rank": 47,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 129393,
+        "num": 129393,
+        "word": "贺峻霖直播终于有外务了",
+        "onboard_time": 1755777382,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119542,
+        "num": 119542,
+        "word": "单休 上6天发7天工资",
+        "onboard_time": 1755769222,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席西藏自治区成立60周年庆祝大会#"
+    }
+  }
+}

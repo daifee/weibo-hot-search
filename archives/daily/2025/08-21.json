@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755783396131,
+  "endTime": 1755784061538,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1256387,
+      "num": 728256,
+      "word": "李易峰涉多起司法案件",
+      "onboard_time": 1755778342,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1234369,
       "num": 290003,
       "word": "原来关晓彤才是林黛玉最初人选",
@@ -81,14 +89,6 @@
       "onboard_time": 1755758902,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1121583,
-      "num": 728256,
-      "word": "李易峰涉多起司法案件",
-      "onboard_time": 1755778342,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1050024,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 736090,
+      "num": 736090,
+      "word": "黑龙江一恶势力团伙全员改判无罪",
+      "onboard_time": 1755778583,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 735171,
       "num": 735171,
       "word": "孙颖莎vs早田希娜",
@@ -328,14 +336,6 @@
       "word": "川航回应旅客摆餐事件",
       "onboard_time": 1755772522,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 640084,
-      "num": 640084,
-      "word": "黑龙江一恶势力团伙全员改判无罪",
-      "onboard_time": 1755778583,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407402,
+      "num": 407402,
+      "word": "金泰熙因为育儿压力流泪",
+      "onboard_time": 1755781222,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407238,
       "num": 407238,
       "word": "阅兵活动3名旗手",
@@ -723,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 356786,
+      "num": 255194,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1755783083,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 353275,
       "num": 353275,
       "word": "檀健次李兰迪 月都花落",
@@ -787,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319158,
+      "num": 255338,
+      "word": "为什么酒店的被子塞那么紧",
+      "onboard_time": 1755780083,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317858,
       "num": 255233,
       "word": "刘耀文没想到腹肌花絮发出去了",
@@ -819,12 +843,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308896,
-      "num": 308896,
-      "word": "金泰熙因为育儿压力流泪",
-      "onboard_time": 1755781222,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 308702,
+      "num": 275590,
+      "word": "宋亚轩手语",
+      "onboard_time": 1755781885,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 307482,
@@ -899,14 +923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275590,
-      "num": 275590,
-      "word": "宋亚轩手语",
-      "onboard_time": 1755781885,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 270888,
       "num": 253805,
       "word": "网红三哥资助孟加拉贫困户反被勒索",
@@ -947,12 +963,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 255338,
-      "num": 255338,
-      "word": "为什么酒店的被子塞那么紧",
-      "onboard_time": 1755780083,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 257964,
+      "num": 450096,
+      "word": "中方回应是否承认阿富汗临时政府",
+      "onboard_time": 1755781704,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 253722,
+      "num": 253722,
+      "word": "梓渝音乐节",
+      "onboard_time": 1755783263,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 252750,
@@ -1211,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198806,
+      "num": 198806,
+      "word": "谢霆锋让阿Sa先充一年会员再说话",
+      "onboard_time": 1755783023,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198363,
       "num": 198363,
       "word": "王俊凯易烊千玺电影同时入围金鹿奖",
@@ -1371,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187718,
-      "num": 187718,
-      "word": "银河左岸音乐节",
-      "onboard_time": 1755783083,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 187254,
       "num": 182796,
       "word": "王鹤棣 三张照片六个自己",
@@ -1505,14 +1529,6 @@
       "onboard_time": 1755779841,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179777,
-      "num": 450096,
-      "word": "中方回应是否承认阿富汗临时政府",
-      "onboard_time": 1755781704,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 176949,
@@ -1659,6 +1675,22 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 166308,
+      "num": 166308,
+      "word": "欧豪无声哭戏",
+      "onboard_time": 1755783744,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165646,
+      "num": 165646,
+      "word": "张艺兴学霸王别姬补口红",
+      "onboard_time": 1755783684,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165408,
       "num": 165408,
       "word": "百凤山大战看爽了",
@@ -1747,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161986,
+      "num": 161986,
+      "word": "孙颖莎欧洲大满贯晋级8强",
+      "onboard_time": 1755783564,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161872,
       "num": 161872,
       "word": "田曦薇想睡觉许凯就盖被子",
@@ -1771,6 +1811,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161229,
+      "num": 161229,
+      "word": "子夜归第十集封神",
+      "onboard_time": 1755783744,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160971,
+      "num": 160971,
+      "word": "刘耀文红色蕾丝透视衬衫",
+      "onboard_time": 1755783323,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160905,
       "num": 194657,
       "word": "与君朝暮开播",
@@ -1785,6 +1841,14 @@
       "onboard_time": 1755753922,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159220,
+      "num": 159220,
+      "word": "朱雨玲0比3大藤沙月",
+      "onboard_time": 1755783023,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 159181,
@@ -1864,6 +1928,14 @@
       "word": "宋轶毕雯珺抖浴巾拍照",
       "onboard_time": 1755773302,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153908,
+      "num": 153908,
+      "word": "生万物转场",
+      "onboard_time": 1755783684,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -2073,14 +2145,6 @@
       "onboard_time": 1755776182,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142385,
-      "num": 142385,
-      "word": "梓渝音乐节",
-      "onboard_time": 1755783263,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 142283,
@@ -2339,14 +2403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130507,
-      "num": 130507,
-      "word": "朱雨玲0比3大藤沙月",
-      "onboard_time": 1755783023,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130488,
       "num": 130488,
       "word": "许魏洲直播演我和朋友聚餐",
@@ -2475,14 +2531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126567,
-      "num": 126567,
-      "word": "谢霆锋让阿Sa先充一年会员再说话",
-      "onboard_time": 1755783023,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126263,
       "num": 126263,
       "word": "章昊说惜败桃黑黑老师",
@@ -2609,14 +2657,6 @@
       "onboard_time": 1755704004,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121453,
-      "num": 121453,
-      "word": "刘耀文红色蕾丝透视衬衫",
-      "onboard_time": 1755783323,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 121419,
@@ -3059,6 +3099,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 80135,
+      "num": 256834,
+      "word": "法院车辆停草原上一男一女拍照",
+      "onboard_time": 1755776301,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79951,
       "num": 79951,
       "word": "赵丽颖造型 TinaZ",
@@ -3185,6 +3233,14 @@
       "onboard_time": 1755696088,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62442,
+      "num": 154409,
+      "word": "留学生遭电诈跳楼身亡家属发声",
+      "onboard_time": 1755784044,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62018,
@@ -3379,6 +3435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44880,
+      "num": 254524,
+      "word": "热议站台是否该禁烟不是小题大做",
+      "onboard_time": 1755783083,
+      "rank": 24,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 44448,
       "num": 60956,
       "word": "阅兵训练大图震撼感拉满",
@@ -3393,6 +3457,14 @@
       "onboard_time": 1755751226,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40980,
+      "num": 133357,
+      "word": "向美高校索赔超7亿患癌学生发声",
+      "onboard_time": 1755783083,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40384,
@@ -3435,14 +3507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 38740,
-      "num": 123156,
-      "word": "向美高校索赔超7亿患癌学生发声",
-      "onboard_time": 1755783083,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 38526,
       "num": 254217,
       "word": "MR头显会是下一代智能终端吗",
@@ -3475,12 +3539,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37093,
+      "raw_hot": 37668,
       "num": 280529,
       "word": "荣耀小折叠2亿超清自拍折么强",
       "onboard_time": 1755781584,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 37025,
+      "num": 154057,
+      "word": "多地教培机构推出高中大学衔接班",
+      "onboard_time": 1755783144,
+      "rank": 39,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 36539,
@@ -3489,14 +3561,6 @@
       "onboard_time": 1755764184,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34560,
-      "num": 211045,
-      "word": "热议站台是否该禁烟不是小题大做",
-      "onboard_time": 1755783083,
-      "rank": 24,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 34378,
@@ -3513,14 +3577,6 @@
       "onboard_time": 1755771322,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33075,
-      "num": 132963,
-      "word": "多地教培机构推出高中大学衔接班",
-      "onboard_time": 1755783144,
-      "rank": 39,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 31127,
