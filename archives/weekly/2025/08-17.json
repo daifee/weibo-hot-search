@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755780742711,
+  "endTime": 1755781596390,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -67,6 +67,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2919598,
+      "num": 344865,
+      "word": "胡先煦 李宛妲",
+      "onboard_time": 1755777503,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2874221,
       "num": 2476561,
       "word": "W盛典红毯",
@@ -81,14 +89,6 @@
       "onboard_time": 1755438864,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2536604,
-      "num": 288700,
-      "word": "胡先煦 李宛妲",
-      "onboard_time": 1755777503,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2503015,
@@ -1187,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 818984,
+      "num": 1131037,
+      "word": "刘涛 一念江南",
+      "onboard_time": 1755779363,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 815257,
       "num": 1130441,
       "word": "兄弟俩花400万买到2套抵押房",
@@ -1299,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 767070,
+      "num": 728256,
+      "word": "李易峰涉多起司法案件",
+      "onboard_time": 1755778342,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 762995,
       "num": 858815,
       "word": "生万物第20集封神",
@@ -1387,12 +1403,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 735171,
+      "num": 735171,
+      "word": "孙颖莎vs早田希娜",
+      "onboard_time": 1755779123,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 732756,
       "num": 732756,
       "word": "当间谍线人后怕暴露辞职考公",
       "onboard_time": 1755649943,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 731371,
+      "num": 336405,
+      "word": "确诊糖尿病前身体发出的信号",
+      "onboard_time": 1755776662,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 730837,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1755528923,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 693851,
-      "num": 280355,
-      "word": "确诊糖尿病前身体发出的信号",
-      "onboard_time": 1755776662,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 689055,
@@ -1859,14 +1883,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 617287,
-      "num": 617287,
-      "word": "刘涛 一念江南",
-      "onboard_time": 1755779363,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 617282,
       "num": 617282,
       "word": "律师称女孩卖男友不构成人口拐卖",
@@ -1952,14 +1968,6 @@
       "word": "敖瑞鹏烧烤吃多了快给干医院去了",
       "onboard_time": 1755738141,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 596295,
-      "num": 382500,
-      "word": "李易峰涉多起司法案件",
-      "onboard_time": 1755778342,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -2187,14 +2195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 549491,
-      "num": 549491,
-      "word": "孙颖莎vs早田希娜",
-      "onboard_time": 1755779123,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 547801,
       "num": 325106,
       "word": "轻微智障的5个表现",
@@ -2385,6 +2385,14 @@
       "onboard_time": 1755649521,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511589,
+      "num": 312336,
+      "word": "胡先煦项链里有李宛妲照片",
+      "onboard_time": 1755778822,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 511430,
@@ -2873,6 +2881,14 @@
       "onboard_time": 1755654980,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 417932,
+      "num": 327788,
+      "word": "素颜",
+      "onboard_time": 1755779902,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 417607,
@@ -3411,6 +3427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 358693,
+      "num": 358693,
+      "word": "男子娶残障老婆最高可判死刑",
+      "onboard_time": 1755777982,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358646,
       "num": 353566,
       "word": "微信号真的会透露很多隐私",
@@ -3521,14 +3545,6 @@
       "onboard_time": 1755659062,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 336093,
-      "num": 258870,
-      "word": "胡先煦项链里有李宛妲照片",
-      "onboard_time": 1755778822,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 335526,
@@ -3843,6 +3859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 312490,
+      "num": 312490,
+      "word": "李在明喂完夫人喂议员被妻子挡开",
+      "onboard_time": 1755778043,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 312268,
       "num": 312268,
       "word": "背娃送外卖妈妈称不再嫁人不合法",
@@ -3913,6 +3937,14 @@
       "onboard_time": 1755752125,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306607,
+      "num": 347777,
+      "word": "黑龙江一恶势力团伙全员改判无罪",
+      "onboard_time": 1755778583,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305586,
@@ -4579,14 +4611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 258806,
-      "num": 258806,
-      "word": "男子娶残障老婆最高可判死刑",
-      "onboard_time": 1755777982,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258706,
       "num": 345220,
       "word": "释永信给全国佛教界抹黑",
@@ -4633,14 +4657,6 @@
       "onboard_time": 1755602006,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 255742,
-      "num": 255742,
-      "word": "素颜",
-      "onboard_time": 1755779902,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 254156,
@@ -5147,14 +5163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227202,
-      "num": 227202,
-      "word": "李在明喂完夫人喂议员被妻子挡开",
-      "onboard_time": 1755778043,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 226953,
       "num": 226953,
       "word": "平台通报农村成哥情况",
@@ -5233,14 +5241,6 @@
       "onboard_time": 1755693747,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 224395,
-      "num": 268351,
-      "word": "黑龙江一恶势力团伙全员改判无罪",
-      "onboard_time": 1755778583,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223847,
@@ -5657,6 +5657,14 @@
       "onboard_time": 1755693564,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208896,
+      "num": 208896,
+      "word": "严浩翔异瞳神父",
+      "onboard_time": 1755781042,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 208890,
@@ -6227,6 +6235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198422,
+      "num": 198422,
+      "word": "为什么酒店的被子塞那么紧",
+      "onboard_time": 1755780083,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198363,
       "num": 198363,
       "word": "王俊凯易烊千玺电影同时入围金鹿奖",
@@ -6755,6 +6771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190623,
+      "num": 190623,
+      "word": "贺峻霖直播终于有外务了",
+      "onboard_time": 1755777382,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190609,
       "num": 250045,
       "word": "原神",
@@ -6777,6 +6801,14 @@
       "onboard_time": 1755701847,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190390,
+      "num": 188715,
+      "word": "张真源dancebreak太野了",
+      "onboard_time": 1755780924,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 190334,
@@ -6833,6 +6865,14 @@
       "onboard_time": 1755494602,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189992,
+      "num": 189992,
+      "word": "红米Note15发布会",
+      "onboard_time": 1755781164,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 189891,
@@ -6988,11 +7028,19 @@
     },
     {
       "raw_hot": 187254,
-      "num": 181154,
+      "num": 182796,
       "word": "王鹤棣 三张照片六个自己",
       "onboard_time": 1755780202,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187137,
+      "num": 187137,
+      "word": "每天一个俯卧撑摔了一年后",
+      "onboard_time": 1755779662,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 187052,
@@ -7513,14 +7561,6 @@
       "onboard_time": 1755705264,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176907,
-      "num": 184085,
-      "word": "贺峻霖直播终于有外务了",
-      "onboard_time": 1755777382,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 176848,
@@ -8203,6 +8243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168230,
+      "num": 168230,
+      "word": "金泰熙因为育儿压力流泪",
+      "onboard_time": 1755781222,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168031,
       "num": 168031,
       "word": "生万物全村出击开始团战",
@@ -8451,6 +8499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164250,
+      "num": 164250,
+      "word": "张维伊跳breaking",
+      "onboard_time": 1755780023,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164152,
       "num": 203327,
       "word": "我国一次送上太空7颗卫星",
@@ -8560,6 +8616,14 @@
       "word": "李宇春离观众好近",
       "onboard_time": 1755440365,
       "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 162217,
+      "num": 162217,
+      "word": "马嘉祺说希望可以治愈大家的不开心",
+      "onboard_time": 1755781104,
+      "rank": 36,
       "category": "演出"
     },
     {
@@ -8883,6 +8947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158562,
+      "num": 158562,
+      "word": "王曼昱逆转晋级8强",
+      "onboard_time": 1755778704,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158450,
       "num": 158450,
       "word": "银子嫁给宁学祥",
@@ -8945,14 +9017,6 @@
       "onboard_time": 1755492143,
       "rank": 43,
       "category": "剧集,剧集"
-    },
-    {
-      "raw_hot": 157691,
-      "num": 157691,
-      "word": "每天一个俯卧撑摔了一年后",
-      "onboard_time": 1755779662,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 157591,
@@ -9475,6 +9539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149708,
+      "num": 149708,
+      "word": "教授称毒品犯罪不应为最严重罪行",
+      "onboard_time": 1755777743,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149581,
       "num": 149581,
       "word": "达科3比2户上隼辅",
@@ -9723,14 +9795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146724,
-      "num": 146724,
-      "word": "王曼昱逆转晋级8强",
-      "onboard_time": 1755778704,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146619,
       "num": 146619,
       "word": "樊振东青奥会夺冠11周年",
@@ -9817,14 +9881,6 @@
       "onboard_time": 1755420742,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146108,
-      "num": 146108,
-      "word": "为什么酒店的被子塞那么紧",
-      "onboard_time": 1755780083,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 146063,
@@ -10089,14 +10145,6 @@
       "onboard_time": 1755678684,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 144019,
-      "num": 144019,
-      "word": "张维伊跳breaking",
-      "onboard_time": 1755780023,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 144017,
@@ -10705,14 +10753,6 @@
       "onboard_time": 1755588983,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137925,
-      "num": 137925,
-      "word": "教授称毒品犯罪不应为最严重罪行",
-      "onboard_time": 1755777743,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137907,
@@ -12587,6 +12627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119406,
+      "num": 119406,
+      "word": "孙颖莎圆圆脸大眼睛",
+      "onboard_time": 1755781463,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119327,
       "num": 142224,
       "word": "周也见到孟子义一套撒娇卖萌",
@@ -13217,6 +13265,14 @@
       "onboard_time": 1755579981,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 112291,
+      "num": 112291,
+      "word": "刘耀文假装镇定实则没招了",
+      "onboard_time": 1755781524,
+      "rank": 49,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 112245,
@@ -14728,6 +14784,14 @@
       "word": "男子杀妻后报警谎称其自杀",
       "onboard_time": 1755450079,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92996,
+      "num": 150252,
+      "word": "无座与二等座同价",
+      "onboard_time": 1755781283,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -18377,6 +18441,14 @@
       "onboard_time": 1755720675,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10263,
+      "num": 180570,
+      "word": "拍卖平台上见证猫与鳄鱼的命运漂流",
+      "onboard_time": 1755781283,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10216,
