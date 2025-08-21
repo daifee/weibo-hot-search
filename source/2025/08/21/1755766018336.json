@@ -1,0 +1,410 @@
+{
+  "runTime": 1755766018336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 863946,
+        "num": 1138231,
+        "word": "官方通报50升油箱加出67.96升汽油",
+        "onboard_time": 1755761543,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 648951,
+        "num": 648951,
+        "word": "女子坠谷生还三天后却在家被烧死",
+        "onboard_time": 1755763462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48098,
+        "num": 388751,
+        "word": "西藏自治区成立60周年",
+        "onboard_time": 1755748703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1529573,
+        "num": 386471,
+        "word": "男网红娶三个残障老婆",
+        "onboard_time": 1755762503,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 754420,
+        "num": 384769,
+        "word": "胡先煦坐了近五十个小时飞机",
+        "onboard_time": 1755761482,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373213,
+        "num": 373213,
+        "word": "EXO的前夜是刘宪华写的",
+        "onboard_time": 1755763344,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361460,
+        "num": 361460,
+        "word": "WTT中国大满贯",
+        "onboard_time": 1755764964,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352247,
+        "num": 352247,
+        "word": "高铁目前不可能加挂吸烟车厢",
+        "onboard_time": 1755762383,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306306,
+        "num": 306306,
+        "word": "中国旅客在荷兰吸食毒品行为失控",
+        "onboard_time": 1755753502,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135398,
+        "num": 305882,
+        "word": "外交部敦促日本深刻反省侵略历史",
+        "onboard_time": 1755765025,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 662160,
+        "num": 302482,
+        "word": "徐艺洋为了黄子韬放弃工作",
+        "onboard_time": 1755758902,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399606,
+        "num": 301990,
+        "word": "阚清子官宣怀孕后首次播剧",
+        "onboard_time": 1755760462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369825,
+        "num": 298491,
+        "word": "万国鹏再澄清曾追求张予曦",
+        "onboard_time": 1755752843,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298218,
+        "num": 298218,
+        "word": "12306为何在站台禁烟问题上反应冷淡",
+        "onboard_time": 1755751827,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282994,
+        "num": 298155,
+        "word": "王传君神预言董璇张维伊",
+        "onboard_time": 1755765384,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233289,
+        "num": 296642,
+        "word": "假如张若昀虞书欣演先婚后爱",
+        "onboard_time": 1755752243,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202007,
+        "num": 295549,
+        "word": "杨幂回应连续三部作品演技获赞",
+        "onboard_time": 1755764184,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85473,
+        "num": 294854,
+        "word": "vivo成国内首个进军MR的手机品牌",
+        "onboard_time": 1755765742,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42092,
+        "num": 293329,
+        "word": "vivo30年半部中国通信史",
+        "onboard_time": 1755763823,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37484,
+        "num": 292941,
+        "word": "主张高铁站台严格禁烟并不矫情",
+        "onboard_time": 1755765203,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279939,
+        "num": 291496,
+        "word": "12306回应高铁能否加挂吸烟车厢",
+        "onboard_time": 1755763643,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617098,
+        "num": 290045,
+        "word": "原来排卵期一直在被误解",
+        "onboard_time": 1755760943,
+        "rank": 21,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 290003,
+        "num": 290003,
+        "word": "原来关晓彤才是林黛玉最初人选",
+        "onboard_time": 1755743361,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288109,
+        "num": 288109,
+        "word": "王楚钦中国大满贯身兼三项",
+        "onboard_time": 1755765804,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254732,
+        "num": 254732,
+        "word": "台风玲玲已生成",
+        "onboard_time": 1755758361,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238093,
+        "num": 238093,
+        "word": "留学9天自杀女生5000字自白书曝光",
+        "onboard_time": 1755755662,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 209337,
+        "num": 209337,
+        "word": "WTT中国大满贯中国队双打名单",
+        "onboard_time": 1755765742,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197986,
+        "num": 197986,
+        "word": "孙颖莎王楚钦出战中国大满贯混双",
+        "onboard_time": 1755765742,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138056,
+        "num": 193551,
+        "word": "张艺兴谈培养新人",
+        "onboard_time": 1755765384,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47659,
+        "num": 191845,
+        "word": "男子被发小辞退后将其杀害",
+        "onboard_time": 1755765083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190494,
+        "num": 190494,
+        "word": "两子非亲生大儿子反质父亲出轨",
+        "onboard_time": 1755764242,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169081,
+        "num": 169081,
+        "word": "曝黄正音贪污公款43亿炒币",
+        "onboard_time": 1755762863,
+        "rank": 31,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 165714,
+        "num": 165714,
+        "word": "135岁的老太太",
+        "onboard_time": 1755755304,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161848,
+        "num": 161848,
+        "word": "银子怀孕",
+        "onboard_time": 1755753082,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146273,
+        "num": 160130,
+        "word": "绣绣意外流产说了一句娘对不起",
+        "onboard_time": 1755763643,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158479,
+        "num": 158479,
+        "word": "虞书欣的定妆照",
+        "onboard_time": 1755759683,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156598,
+        "num": 156598,
+        "word": "手机打电话和微信打电话的区别",
+        "onboard_time": 1755761784,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90029,
+        "num": 149735,
+        "word": "触手兔后美国又发现变异鹿",
+        "onboard_time": 1755764964,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82018,
+        "num": 148756,
+        "word": "263斤男子花2万请轿夫抬上峨眉山",
+        "onboard_time": 1755765384,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148529,
+        "num": 148529,
+        "word": "高铁站台禁烟比禁止吃泡面更紧迫",
+        "onboard_time": 1755746182,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146627,
+        "num": 146627,
+        "word": "Gr对战MRC",
+        "onboard_time": 1755765924,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144325,
+        "num": 144325,
+        "word": "苏大强被浣碧调成啥样了",
+        "onboard_time": 1755765263,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143409,
+        "num": 143409,
+        "word": "桃黑黑 国草",
+        "onboard_time": 1755750503,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142029,
+        "num": 142029,
+        "word": "女子大闹麦当劳被行拘5日",
+        "onboard_time": 1755761543,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141551,
+        "num": 141551,
+        "word": "你们这么亲不扎嘴吗",
+        "onboard_time": 1755763223,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132238,
+        "num": 132238,
+        "word": "男子毒杀儿女前在家族群发收尸通知",
+        "onboard_time": 1755763164,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130628,
+        "num": 130628,
+        "word": "85岁老人容留卖淫每次嫖资抽10元",
+        "onboard_time": 1755754524,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128921,
+        "num": 128921,
+        "word": "乌军170万人死亡名单遭泄露",
+        "onboard_time": 1755752903,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126698,
+        "num": 126698,
+        "word": "韩国网红买切糕被坑",
+        "onboard_time": 1755762983,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126048,
+        "num": 126048,
+        "word": "被父亲毒杀的兄妹死前抓烂枕头",
+        "onboard_time": 1755743422,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#西藏自治区成立60周年庆祝大会举行#"
+    }
+  }
+}
