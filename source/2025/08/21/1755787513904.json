@@ -1,0 +1,410 @@
+{
+  "runTime": 1755787513904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1176037,
+        "num": 1188165,
+        "word": "虞书欣 一念江南",
+        "onboard_time": 1755784404,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 788416,
+        "num": 788416,
+        "word": "安宰贤3比2张本智和",
+        "onboard_time": 1755785244,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12497,
+        "num": 780542,
+        "word": "受阅装备随时能从阅兵场开向战场",
+        "onboard_time": 1755774442,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779211,
+        "num": 779211,
+        "word": "黑龙江一恶势力团伙全员改判无罪",
+        "onboard_time": 1755778583,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765259,
+        "num": 765259,
+        "word": "梓渝音乐节",
+        "onboard_time": 1755783263,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 493031,
+        "num": 493031,
+        "word": "留学生遭电诈跳楼身亡家属发声",
+        "onboard_time": 1755784044,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542445,
+        "num": 487706,
+        "word": "泡泡玛特",
+        "onboard_time": 1755786024,
+        "rank": 6,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 479020,
+        "num": 479020,
+        "word": "刘涛 一念江南",
+        "onboard_time": 1755779363,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345442,
+        "num": 345442,
+        "word": "无座与二等座同价",
+        "onboard_time": 1755781283,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256188,
+        "num": 344420,
+        "word": "12306回应无座与二等座同价质疑",
+        "onboard_time": 1755785785,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1568636,
+        "num": 335061,
+        "word": "胡先煦 李宛妲",
+        "onboard_time": 1755777503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766392,
+        "num": 331850,
+        "word": "为什么酒店的被子塞那么紧",
+        "onboard_time": 1755780083,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 410581,
+        "num": 328590,
+        "word": "金泰熙因为育儿压力流泪",
+        "onboard_time": 1755781222,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399465,
+        "num": 318790,
+        "word": "确诊糖尿病前身体发出的信号",
+        "onboard_time": 1755776662,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 348433,
+        "num": 313661,
+        "word": "时代少年团随舞",
+        "onboard_time": 1755784825,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 313004,
+        "num": 313004,
+        "word": "男子娶残障老婆最高可判死刑",
+        "onboard_time": 1755777982,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8773,
+        "num": 309185,
+        "word": "想快进到9月3日看阅兵",
+        "onboard_time": 1755764363,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305698,
+        "num": 305698,
+        "word": "胡先煦项链里有李宛妲照片",
+        "onboard_time": 1755778822,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155878,
+        "num": 298927,
+        "word": "日本新规每日玩手机不超2小时",
+        "onboard_time": 1755786504,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202365,
+        "num": 295785,
+        "word": "张本智和鹰眼挑战失败",
+        "onboard_time": 1755786563,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294393,
+        "num": 294393,
+        "word": "严浩翔异瞳神父",
+        "onboard_time": 1755781042,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235747,
+        "num": 235747,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1755783083,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243418,
+        "num": 230867,
+        "word": "素颜",
+        "onboard_time": 1755779902,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220426,
+        "num": 220426,
+        "word": "周深 泡泡玛特",
+        "onboard_time": 1755786385,
+        "rank": 23,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 139659,
+        "num": 208599,
+        "word": "求蒋依依把闪耀妆造镶在身上",
+        "onboard_time": 1755787285,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 4210,
+        "num": 208271,
+        "word": "这座中国大桥横竖都是世界第一",
+        "onboard_time": 1755757044,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207967,
+        "num": 207967,
+        "word": "被泼硫酸毁容女子发声",
+        "onboard_time": 1755785064,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205980,
+        "num": 205980,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1755779123,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105063,
+        "num": 198929,
+        "word": "如何便捷优雅在车内换衣服",
+        "onboard_time": 1755785726,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92470,
+        "num": 198449,
+        "word": "患癌母亲哭瞎眼想见被困缅甸儿子",
+        "onboard_time": 1755786683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74083,
+        "num": 198385,
+        "word": "西藏自治区成立60周年",
+        "onboard_time": 1755748703,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198351,
+        "num": 198351,
+        "word": "无畏MVP",
+        "onboard_time": 1755786925,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197396,
+        "num": 197396,
+        "word": "李在明喂完夫人喂议员被妻子挡开",
+        "onboard_time": 1755778043,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197102,
+        "num": 197102,
+        "word": "鞠婧祎画室",
+        "onboard_time": 1755786863,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187764,
+        "num": 187764,
+        "word": "星星人",
+        "onboard_time": 1755786325,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 187065,
+        "num": 187065,
+        "word": "每天一个俯卧撑摔了一年后",
+        "onboard_time": 1755779662,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 175096,
+        "num": 175096,
+        "word": "律师谈李易峰被强执4990万后果",
+        "onboard_time": 1755785726,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161306,
+        "num": 161306,
+        "word": "绣绣大脚的第二个孩子",
+        "onboard_time": 1755787344,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125282,
+        "num": 160331,
+        "word": "孙颖莎暴力回攻太牛了",
+        "onboard_time": 1755787344,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39951,
+        "num": 159874,
+        "word": "无村民知晓杀了3人的凶手患精神病",
+        "onboard_time": 1755786563,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159729,
+        "num": 159729,
+        "word": "李佳琦一边讲课黄晓明一边掏钱",
+        "onboard_time": 1755786625,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158125,
+        "num": 158125,
+        "word": "孙颖莎又把自己打乐了",
+        "onboard_time": 1755784945,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158007,
+        "num": 158007,
+        "word": "JDG对战DRG",
+        "onboard_time": 1755775342,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147522,
+        "num": 147522,
+        "word": "生万物转场",
+        "onboard_time": 1755783684,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140349,
+        "num": 140349,
+        "word": "mokoko",
+        "onboard_time": 1755787223,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 138536,
+        "num": 138536,
+        "word": "宋亚轩手语",
+        "onboard_time": 1755781885,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135259,
+        "num": 135259,
+        "word": "何小鹏增持310万股",
+        "onboard_time": 1755786264,
+        "rank": 46,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 133218,
+        "num": 133218,
+        "word": "王楚钦最新训练视频",
+        "onboard_time": 1755785726,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132663,
+        "num": 132663,
+        "word": "欧豪无声哭戏",
+        "onboard_time": 1755783744,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132283,
+        "num": 132283,
+        "word": "爆剧剧名玄学",
+        "onboard_time": 1755784164,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的西藏牵挂#"
+    }
+  }
+}
