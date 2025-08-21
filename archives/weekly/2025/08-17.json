@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755758851398,
+  "endTime": 1755759517403,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -1827,6 +1827,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 584736,
+      "num": 1093557,
+      "word": "中国旅客在荷兰吸食毒品行为失控",
+      "onboard_time": 1755753502,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 581382,
       "num": 373947,
       "word": "泪桥",
@@ -2017,14 +2025,6 @@
       "onboard_time": 1755432082,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 541460,
-      "num": 1086633,
-      "word": "中国旅客在荷兰吸食毒品行为失控",
-      "onboard_time": 1755753502,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 540426,
@@ -2523,12 +2523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446712,
+      "num": 417129,
+      "word": "留学9天自杀女生5000字自白书曝光",
+      "onboard_time": 1755755662,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 445170,
       "num": 445170,
       "word": "那英陈数录完花少还回家吗",
       "onboard_time": 1755494062,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444877,
+      "num": 254369,
+      "word": "85岁老人容留卖淫每次嫖资抽10元",
+      "onboard_time": 1755754524,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 443539,
@@ -2641,14 +2657,6 @@
       "onboard_time": 1755735681,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 417129,
-      "num": 417129,
-      "word": "留学9天自杀女生5000字自白书曝光",
-      "onboard_time": 1755755662,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 415273,
@@ -2905,14 +2913,6 @@
       "onboard_time": 1755356303,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388440,
-      "num": 254369,
-      "word": "85岁老人容留卖淫每次嫖资抽10元",
-      "onboard_time": 1755754524,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 387658,
@@ -3377,6 +3377,14 @@
       "onboard_time": 1755527664,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 326230,
+      "num": 274630,
+      "word": "时代少年团直播",
+      "onboard_time": 1755757764,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 325968,
@@ -4305,14 +4313,6 @@
       "onboard_time": 1755602006,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 255070,
-      "num": 255070,
-      "word": "时代少年团直播",
-      "onboard_time": 1755757764,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 254156,
@@ -5395,6 +5395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206297,
+      "num": 206297,
+      "word": "徐艺洋为了黄子韬放弃工作",
+      "onboard_time": 1755758902,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206052,
       "num": 175519,
       "word": "接王亚飞事业运",
@@ -5625,6 +5633,14 @@
       "onboard_time": 1755440965,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200776,
+      "num": 200776,
+      "word": "台风玲玲已生成",
+      "onboard_time": 1755758361,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200759,
@@ -6059,14 +6075,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 194401,
-      "num": 194401,
-      "word": "台风玲玲已生成",
-      "onboard_time": 1755758361,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194164,
       "num": 194164,
       "word": "杨幂撕拉片",
@@ -6267,6 +6275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191311,
+      "num": 191311,
+      "word": "管乐的腿没有一厘米是白长的",
+      "onboard_time": 1755755904,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191276,
       "num": 191276,
       "word": "luz去世",
@@ -6443,6 +6459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188617,
+      "num": 188617,
+      "word": "刘轩丞精彩OK",
+      "onboard_time": 1755758242,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188581,
       "num": 188201,
       "word": "孙俪 女装邓超",
@@ -6577,14 +6601,6 @@
       "onboard_time": 1755501923,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184357,
-      "num": 184357,
-      "word": "管乐的腿没有一厘米是白长的",
-      "onboard_time": 1755755904,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 184267,
@@ -7545,14 +7561,6 @@
       "onboard_time": 1755440064,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168039,
-      "num": 163461,
-      "word": "刘轩丞精彩OK",
-      "onboard_time": 1755758242,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 168031,
@@ -10211,6 +10219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132316,
+      "num": 132316,
+      "word": "女子在地下室洗菜致高烧2周不退",
+      "onboard_time": 1755758902,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132295,
       "num": 132295,
       "word": "不同国家给婴儿洗澡的区别",
@@ -10489,6 +10505,14 @@
       "onboard_time": 1755409042,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129441,
+      "num": 134996,
+      "word": "男女主10分钟进了3次灵府",
+      "onboard_time": 1755758543,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 129435,
@@ -11811,6 +11835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115310,
+      "num": 115310,
+      "word": "何老师看似情绪稳定实则没招了",
+      "onboard_time": 1755759441,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115179,
       "num": 115179,
       "word": "提离职后感觉工作变简单了",
@@ -11849,14 +11881,6 @@
       "onboard_time": 1755585321,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 114482,
-      "num": 114482,
-      "word": "男女主10分钟进了3次灵府",
-      "onboard_time": 1755758543,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 114455,
@@ -13707,6 +13731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 88196,
+      "num": 115120,
+      "word": "秋瓷炫于晓光一家济州岛避暑",
+      "onboard_time": 1755757943,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87919,
       "num": 87919,
       "word": "人类被大虾玩弄于鼓掌之中",
@@ -14001,6 +14033,14 @@
       "onboard_time": 1755397159,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81281,
+      "num": 115545,
+      "word": "拼好饭被骑手说狗饭",
+      "onboard_time": 1755758483,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81143,
@@ -14531,6 +14571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70228,
+      "num": 254953,
+      "word": "九三阅兵训练大片来了",
+      "onboard_time": 1755756805,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69334,
       "num": 1327159,
       "word": "想看阅兵的心到达了顶峰",
@@ -15051,14 +15099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55743,
-      "num": 115545,
-      "word": "拼好饭被骑手说狗饭",
-      "onboard_time": 1755758483,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55272,
       "num": 164245,
       "word": "广州地铁一女子坐爱心座被要求让座",
@@ -15169,14 +15209,6 @@
       "onboard_time": 1755584182,
       "rank": 44,
       "category": "舆论监督,网红"
-    },
-    {
-      "raw_hot": 51098,
-      "num": 254953,
-      "word": "九三阅兵训练大片来了",
-      "onboard_time": 1755756805,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50414,
@@ -16339,14 +16371,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 25834,
-      "num": 115120,
-      "word": "秋瓷炫于晓光一家济州岛避暑",
-      "onboard_time": 1755757943,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25637,
       "num": 79359,
       "word": "特朗普称开始安排普京泽连斯基会晤",
@@ -16537,6 +16561,14 @@
       "onboard_time": 1755457094,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22018,
+      "num": 111196,
+      "word": "59.9元自助小火锅成巨头新战场",
+      "onboard_time": 1755759441,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21968,
@@ -16731,6 +16763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17233,
+      "num": 97408,
+      "word": "公共场所吸烟算霸凌吗",
+      "onboard_time": 1755759142,
+      "rank": 44,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 17121,
       "num": 18463,
       "word": "郑钦文在没人知道的地方努力",
@@ -16745,6 +16785,14 @@
       "onboard_time": 1755350905,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16459,
+      "num": 115372,
+      "word": "井柏然刘雯 史密斯夫妇",
+      "onboard_time": 1755759142,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16388,

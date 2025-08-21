@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755758851398,
+  "endTime": 1755759517403,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 584736,
+      "num": 1093557,
+      "word": "中国旅客在荷兰吸食毒品行为失控",
+      "onboard_time": 1755753502,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 575005,
       "num": 231647,
       "word": "一定要关闭免密支付和自动扣款",
@@ -217,14 +225,6 @@
       "onboard_time": 1755741501,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 541460,
-      "num": 1086633,
-      "word": "中国旅客在荷兰吸食毒品行为失控",
-      "onboard_time": 1755753502,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 508332,
@@ -283,6 +283,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 446712,
+      "num": 417129,
+      "word": "留学9天自杀女生5000字自白书曝光",
+      "onboard_time": 1755755662,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 444877,
+      "num": 254369,
+      "word": "85岁老人容留卖淫每次嫖资抽10元",
+      "onboard_time": 1755754524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429551,
       "num": 220392,
       "word": "田曦薇 人生镜头来了",
@@ -305,14 +321,6 @@
       "onboard_time": 1755735681,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 417129,
-      "num": 417129,
-      "word": "留学9天自杀女生5000字自白书曝光",
-      "onboard_time": 1755755662,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 407238,
@@ -361,14 +369,6 @@
       "onboard_time": 1755701307,
       "rank": 11,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 388440,
-      "num": 254369,
-      "word": "85岁老人容留卖淫每次嫖资抽10元",
-      "onboard_time": 1755754524,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375310,
@@ -441,6 +441,14 @@
       "onboard_time": 1755704125,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326230,
+      "num": 274630,
+      "word": "时代少年团直播",
+      "onboard_time": 1755757764,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 319288,
@@ -571,14 +579,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 255070,
-      "num": 255070,
-      "word": "时代少年团直播",
-      "onboard_time": 1755757764,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 252750,
       "num": 153916,
       "word": "方媛挺孕肚打车送女儿上学",
@@ -691,12 +691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206297,
+      "num": 206297,
+      "word": "徐艺洋为了黄子韬放弃工作",
+      "onboard_time": 1755758902,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203979,
       "num": 203979,
       "word": "徐志胜说孟子义唱歌很难单飞",
       "onboard_time": 1755744923,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200776,
+      "num": 200776,
+      "word": "台风玲玲已生成",
+      "onboard_time": 1755758361,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199587,
@@ -723,14 +739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194401,
-      "num": 194401,
-      "word": "台风玲玲已生成",
-      "onboard_time": 1755758361,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193803,
       "num": 193803,
       "word": "詹姆斯中国行官宣",
@@ -753,6 +761,14 @@
       "onboard_time": 1755754584,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191311,
+      "num": 191311,
+      "word": "管乐的腿没有一厘米是白长的",
+      "onboard_time": 1755755904,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 190316,
@@ -779,12 +795,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 184357,
-      "num": 184357,
-      "word": "管乐的腿没有一厘米是白长的",
-      "onboard_time": 1755755904,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 188617,
+      "num": 188617,
+      "word": "刘轩丞精彩OK",
+      "onboard_time": 1755758242,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 183281,
@@ -881,14 +897,6 @@
       "onboard_time": 1755728956,
       "rank": 42,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 168039,
-      "num": 163461,
-      "word": "刘轩丞精彩OK",
-      "onboard_time": 1755758242,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 165408,
@@ -1115,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132316,
+      "num": 132316,
+      "word": "女子在地下室洗菜致高烧2周不退",
+      "onboard_time": 1755758902,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132123,
       "num": 132123,
       "word": "所有抽烟的人都该知道",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1755752485,
       "rank": 41,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 129441,
+      "num": 134996,
+      "word": "男女主10分钟进了3次灵府",
+      "onboard_time": 1755758543,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 129351,
@@ -1371,12 +1395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114482,
-      "num": 114482,
-      "word": "男女主10分钟进了3次灵府",
-      "onboard_time": 1755758543,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 115310,
+      "num": 115310,
+      "word": "何老师看似情绪稳定实则没招了",
+      "onboard_time": 1755759441,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 110985,
@@ -1547,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88196,
+      "num": 115120,
+      "word": "秋瓷炫于晓光一家济州岛避暑",
+      "onboard_time": 1755757943,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87166,
       "num": 87166,
       "word": "复制粘贴版阅兵方队准备好了",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1755731838,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81281,
+      "num": 115545,
+      "word": "拼好饭被骑手说狗饭",
+      "onboard_time": 1755758483,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80899,
@@ -1641,6 +1681,14 @@
       "onboard_time": 1755694225,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70228,
+      "num": 254953,
+      "word": "九三阅兵训练大片来了",
+      "onboard_time": 1755756805,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67134,
@@ -1715,28 +1763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55743,
-      "num": 115545,
-      "word": "拼好饭被骑手说狗饭",
-      "onboard_time": 1755758483,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54809,
       "num": 66738,
       "word": "坠昊的我们",
       "onboard_time": 1755710597,
       "rank": 34,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 51098,
-      "num": 254953,
-      "word": "九三阅兵训练大片来了",
-      "onboard_time": 1755756805,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49879,
@@ -1867,14 +1899,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 25834,
-      "num": 115120,
-      "word": "秋瓷炫于晓光一家济州岛避暑",
-      "onboard_time": 1755757943,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24863,
       "num": 37131,
       "word": "2025暑期剧集TOP",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1755714975,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22018,
+      "num": 111196,
+      "word": "59.9元自助小火锅成巨头新战场",
+      "onboard_time": 1755759441,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21120,
@@ -1945,6 +1977,22 @@
       "onboard_time": 1755687442,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17233,
+      "num": 97408,
+      "word": "公共场所吸烟算霸凌吗",
+      "onboard_time": 1755759142,
+      "rank": 44,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 16459,
+      "num": 115372,
+      "word": "井柏然刘雯 史密斯夫妇",
+      "onboard_time": 1755759142,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 13142,

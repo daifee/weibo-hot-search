@@ -1,0 +1,410 @@
+{
+  "runTime": 1755759517403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 584736,
+        "num": 1093557,
+        "word": "中国旅客在荷兰吸食毒品行为失控",
+        "onboard_time": 1755753502,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 380909,
+        "num": 380909,
+        "word": "12306为何在站台禁烟问题上反应冷淡",
+        "onboard_time": 1755751827,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46874,
+        "num": 369908,
+        "word": "西藏自治区成立60周年",
+        "onboard_time": 1755748703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 446712,
+        "num": 369404,
+        "word": "留学9天自杀女生5000字自白书曝光",
+        "onboard_time": 1755755662,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 367757,
+        "num": 367757,
+        "word": "假如张若昀虞书欣演先婚后爱",
+        "onboard_time": 1755752243,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3562798,
+        "num": 329121,
+        "word": "李易峰被强制执行4990万",
+        "onboard_time": 1755753804,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281342,
+        "num": 281342,
+        "word": "乌军170万人死亡名单遭泄露",
+        "onboard_time": 1755752903,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 326230,
+        "num": 274630,
+        "word": "时代少年团直播",
+        "onboard_time": 1755757764,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250261,
+        "num": 250261,
+        "word": "高铁站台禁烟比禁止吃泡面更紧迫",
+        "onboard_time": 1755746182,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231384,
+        "num": 231384,
+        "word": "国乒男单到底怎么了",
+        "onboard_time": 1755752125,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547485,
+        "num": 230898,
+        "word": "万国鹏再澄清曾追求张予曦",
+        "onboard_time": 1755752843,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444877,
+        "num": 230869,
+        "word": "85岁老人容留卖淫每次嫖资抽10元",
+        "onboard_time": 1755754524,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419851,
+        "num": 229957,
+        "word": "银子怀孕",
+        "onboard_time": 1755753082,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339201,
+        "num": 229602,
+        "word": "原来关晓彤才是林黛玉最初人选",
+        "onboard_time": 1755743361,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113487,
+        "num": 229331,
+        "word": "这座中国大桥横竖都是世界第一",
+        "onboard_time": 1755757044,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264253,
+        "num": 228503,
+        "word": "月入一万花一万的真实生活",
+        "onboard_time": 1755747802,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228408,
+        "num": 228408,
+        "word": "135岁的老太太",
+        "onboard_time": 1755755304,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30811,
+        "num": 223551,
+        "word": "MR头显会是下一代智能终端吗",
+        "onboard_time": 1755757882,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 219201,
+        "num": 219201,
+        "word": "桃黑黑 国草",
+        "onboard_time": 1755750503,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191811,
+        "num": 217707,
+        "word": "赵丽颖恭喜浴火之路入围",
+        "onboard_time": 1755758001,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335125,
+        "num": 217558,
+        "word": "被父亲毒杀的兄妹死前抓烂枕头",
+        "onboard_time": 1755743422,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246768,
+        "num": 217471,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1755747623,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 217336,
+        "num": 217336,
+        "word": "网红三哥资助孟加拉贫困户反被勒索",
+        "onboard_time": 1755753203,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206297,
+        "num": 206297,
+        "word": "徐艺洋为了黄子韬放弃工作",
+        "onboard_time": 1755758902,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200776,
+        "num": 200776,
+        "word": "台风玲玲已生成",
+        "onboard_time": 1755758361,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191311,
+        "num": 191311,
+        "word": "管乐的腿没有一厘米是白长的",
+        "onboard_time": 1755755904,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188617,
+        "num": 188617,
+        "word": "刘轩丞精彩OK",
+        "onboard_time": 1755758242,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151836,
+        "num": 151836,
+        "word": "赴山海",
+        "onboard_time": 1755749724,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135037,
+        "num": 135037,
+        "word": "减重少于5%属于无效减重",
+        "onboard_time": 1755756382,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129441,
+        "num": 134996,
+        "word": "男女主10分钟进了3次灵府",
+        "onboard_time": 1755758543,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155482,
+        "num": 134995,
+        "word": "金价",
+        "onboard_time": 1755741561,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134995,
+        "num": 134994,
+        "word": "第一次看不上明星老公",
+        "onboard_time": 1755744562,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132316,
+        "num": 132316,
+        "word": "女子在地下室洗菜致高烧2周不退",
+        "onboard_time": 1755758902,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123202,
+        "num": 123202,
+        "word": "官方致歉老人未去世就要求火化",
+        "onboard_time": 1755748943,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 111663,
+        "num": 120743,
+        "word": "刘诗诗虞书欣双人拍立得",
+        "onboard_time": 1755752125,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70228,
+        "num": 120448,
+        "word": "九三阅兵训练大片来了",
+        "onboard_time": 1755756805,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120269,
+        "num": 120269,
+        "word": "女子出差被性侵获赔113万案最新进展",
+        "onboard_time": 1755752364,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116425,
+        "num": 116425,
+        "word": "国乒男单连续六站无缘决赛会师",
+        "onboard_time": 1755756503,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16459,
+        "num": 115372,
+        "word": "井柏然刘雯 史密斯夫妇",
+        "onboard_time": 1755759142,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81281,
+        "num": 115334,
+        "word": "拼好饭被骑手说狗饭",
+        "onboard_time": 1755758483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115310,
+        "num": 115310,
+        "word": "何老师看似情绪稳定实则没招了",
+        "onboard_time": 1755759441,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22018,
+        "num": 111196,
+        "word": "59.9元自助小火锅成巨头新战场",
+        "onboard_time": 1755759441,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108232,
+        "num": 108232,
+        "word": "周也 帝女气场",
+        "onboard_time": 1755751942,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102965,
+        "num": 102965,
+        "word": "柳宗源晒迪丽热巴",
+        "onboard_time": 1755745282,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17233,
+        "num": 97408,
+        "word": "公共场所吸烟算霸凌吗",
+        "onboard_time": 1755759142,
+        "rank": 44,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 97032,
+        "num": 97032,
+        "word": "警方再通报奔驰车逼停摩托车",
+        "onboard_time": 1755748403,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 93989,
+        "num": 93989,
+        "word": "胡先煦浮潜遇到鲨鱼",
+        "onboard_time": 1755755004,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88196,
+        "num": 88196,
+        "word": "秋瓷炫于晓光一家济州岛避暑",
+        "onboard_time": 1755757943,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86852,
+        "num": 86852,
+        "word": "刘宇宁工作室断粮了",
+        "onboard_time": 1755752782,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85915,
+        "num": 85915,
+        "word": "特朗普想把边境墙涂黑晒热阻止移民",
+        "onboard_time": 1755756143,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#西藏自治区成立60周年庆祝大会举行#"
+    }
+  }
+}
