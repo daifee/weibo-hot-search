@@ -1,0 +1,410 @@
+{
+  "runTime": 1755748440426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 717747,
+        "num": 1114839,
+        "word": "一日店长凭什么让年轻人集体上头",
+        "onboard_time": 1755743180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460527,
+        "num": 460527,
+        "word": "台湾网红游大陆收获现象级传播",
+        "onboard_time": 1755741501,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7706,
+        "num": 419863,
+        "word": "中国军人整齐步伐治愈强迫症",
+        "onboard_time": 1755705023,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 406796,
+        "num": 406796,
+        "word": "阅兵活动3名旗手",
+        "onboard_time": 1755744441,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386324,
+        "num": 386324,
+        "word": "杨幂演出了母爱无声却震耳欲聋",
+        "onboard_time": 1755747083,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385202,
+        "num": 385202,
+        "word": "高铁站台禁烟比禁止吃泡面更紧迫",
+        "onboard_time": 1755746182,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365172,
+        "num": 365172,
+        "word": "布达拉宫广场升国旗奏国歌",
+        "onboard_time": 1755744142,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239207,
+        "num": 239207,
+        "word": "千百惠去世",
+        "onboard_time": 1755696149,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232366,
+        "num": 232366,
+        "word": "12306回应网友提议站台等候区禁烟",
+        "onboard_time": 1755706223,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224085,
+        "num": 224085,
+        "word": "中央气象台连发了3个预警",
+        "onboard_time": 1755739162,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1430703,
+        "num": 223957,
+        "word": "7岁女儿被父亲毒杀眼睛都没闭上",
+        "onboard_time": 1755743541,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1086203,
+        "num": 223694,
+        "word": "原来关晓彤才是林黛玉最初人选",
+        "onboard_time": 1755743361,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014877,
+        "num": 223525,
+        "word": "金价",
+        "onboard_time": 1755741561,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 606388,
+        "num": 223153,
+        "word": "第一次看不上明星老公",
+        "onboard_time": 1755744562,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468480,
+        "num": 222855,
+        "word": "柳宗源晒迪丽热巴",
+        "onboard_time": 1755745282,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331794,
+        "num": 222564,
+        "word": "卡琳娜女儿揉西近照",
+        "onboard_time": 1755743301,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 323879,
+        "num": 222148,
+        "word": "敖瑞鹏烧烤吃多了快给干医院去了",
+        "onboard_time": 1755738141,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296949,
+        "num": 221942,
+        "word": "刘耀文没想到腹肌花絮发出去了",
+        "onboard_time": 1755745882,
+        "rank": 17,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 113083,
+        "num": 221846,
+        "word": "沙漠里一个脚印能留多久",
+        "onboard_time": 1755745702,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109628,
+        "num": 221526,
+        "word": "湖北鹤峰一村民被猛兽袭击腰背受伤",
+        "onboard_time": 1755747383,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624276,
+        "num": 221008,
+        "word": "被父亲毒杀的兄妹死前抓烂枕头",
+        "onboard_time": 1755743422,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17714,
+        "num": 220981,
+        "word": "一起期待9月3日",
+        "onboard_time": 1755728717,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 374072,
+        "num": 220555,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1755747623,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280024,
+        "num": 220260,
+        "word": "韩安冉回应流产",
+        "onboard_time": 1755739342,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 279288,
+        "num": 219971,
+        "word": "迪丽热巴大冒险家芭莎金九封面",
+        "onboard_time": 1755743962,
+        "rank": 24,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 250697,
+        "num": 219662,
+        "word": "短剧版鬼怪来了",
+        "onboard_time": 1755744502,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36005,
+        "num": 219365,
+        "word": "网警提醒警惕因支付密码简单而被盗刷",
+        "onboard_time": 1755737422,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154956,
+        "num": 219086,
+        "word": "我的职综白月光回来了",
+        "onboard_time": 1755747982,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118242,
+        "num": 218931,
+        "word": "吴谨言有八九部戏在找",
+        "onboard_time": 1755745042,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46496,
+        "num": 218644,
+        "word": "网友提议高铁站台设置封闭式吸烟区",
+        "onboard_time": 1755747083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228960,
+        "num": 218397,
+        "word": "终于知道为什么很少人拍元朝电视剧了",
+        "onboard_time": 1755748163,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218208,
+        "num": 218208,
+        "word": "月入一万花一万的真实生活",
+        "onboard_time": 1755747802,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216024,
+        "num": 216024,
+        "word": "韩国网民碰瓷黑神话钟馗",
+        "onboard_time": 1755745403,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193212,
+        "num": 193212,
+        "word": "1994年录像厅杀人案凶手被核准死刑",
+        "onboard_time": 1755733822,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166609,
+        "num": 166609,
+        "word": "九三阅兵一整个期待住了",
+        "onboard_time": 1755741022,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70986,
+        "num": 165948,
+        "word": "小鹏P7全球首发冰雪AES",
+        "onboard_time": 1755745702,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135585,
+        "num": 164014,
+        "word": "一句话让手机自己干活",
+        "onboard_time": 1755745763,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 315158,
+        "num": 160685,
+        "word": "时代少年团全员跳扫腿舞",
+        "onboard_time": 1755742461,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47249,
+        "num": 159501,
+        "word": "杜海涛回应疑似脱发",
+        "onboard_time": 1755748043,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60237,
+        "num": 157060,
+        "word": "女子拉泔水喂猪被处罚",
+        "onboard_time": 1755747383,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88488,
+        "num": 153471,
+        "word": "书写美丽西藏新篇章",
+        "onboard_time": 1755746543,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 153425,
+        "num": 153425,
+        "word": "张凌赫我想你了版今晚月色真美",
+        "onboard_time": 1755747323,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145602,
+        "num": 145602,
+        "word": "林诗栋独守全区",
+        "onboard_time": 1755746182,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144057,
+        "num": 144057,
+        "word": "法国一受虐博主在直播中死亡",
+        "onboard_time": 1755701188,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36079,
+        "num": 138943,
+        "word": "警方再通报奔驰车逼停摩托车",
+        "onboard_time": 1755748403,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 136987,
+        "num": 136987,
+        "word": "英国素食者肯德基前拦车",
+        "onboard_time": 1755746421,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136298,
+        "num": 136298,
+        "word": "小沈阳宣传女儿美美桑内中文版",
+        "onboard_time": 1755748163,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135477,
+        "num": 135477,
+        "word": "芭莎总监评热巴稳定内核",
+        "onboard_time": 1755745461,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 105675,
+        "num": 133122,
+        "word": "檀健次李兰迪 月都花落",
+        "onboard_time": 1755733699,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131564,
+        "num": 131564,
+        "word": "沈腾范丞丞你们不要再打了",
+        "onboard_time": 1755744502,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#西藏自治区成立60周年庆祝大会举行#"
+    }
+  }
+}
