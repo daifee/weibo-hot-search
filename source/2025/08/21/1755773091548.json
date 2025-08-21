@@ -1,0 +1,410 @@
+{
+  "runTime": 1755773091548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 862131,
+        "num": 1137941,
+        "word": "考上211不到一年后父母断供生活费",
+        "onboard_time": 1755766222,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 572985,
+        "num": 572985,
+        "word": "九三阅兵3名旗手平均身高189",
+        "onboard_time": 1755767123,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35801,
+        "num": 508491,
+        "word": "西藏自治区成立60周年",
+        "onboard_time": 1755748703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 476944,
+        "num": 476944,
+        "word": "内娱终于替缝纫机发声了",
+        "onboard_time": 1755771443,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425593,
+        "num": 425593,
+        "word": "张元英怎么美成这样",
+        "onboard_time": 1755768982,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 384820,
+        "num": 384820,
+        "word": "女子坠谷生还三天后却在家被烧死",
+        "onboard_time": 1755763462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318595,
+        "num": 318595,
+        "word": "董璇你看看人金莎",
+        "onboard_time": 1755771322,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278584,
+        "num": 278584,
+        "word": "12306回应高铁能否加挂吸烟车厢",
+        "onboard_time": 1755763643,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274707,
+        "num": 274707,
+        "word": "胡先煦坐了近五十个小时飞机",
+        "onboard_time": 1755761482,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253232,
+        "num": 253232,
+        "word": "官方通报50升油箱加出67.96升汽油",
+        "onboard_time": 1755761543,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 944270,
+        "num": 253142,
+        "word": "单休 上6天发7天工资",
+        "onboard_time": 1755769222,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 887531,
+        "num": 243541,
+        "word": "王传君神预言董璇张维伊",
+        "onboard_time": 1755765384,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 718147,
+        "num": 242784,
+        "word": "刘骏 费加罗",
+        "onboard_time": 1755768143,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400776,
+        "num": 236769,
+        "word": "徐艺洋为了黄子韬放弃工作",
+        "onboard_time": 1755758902,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233517,
+        "num": 233517,
+        "word": "杨幂怎么从生万物干到小时代了",
+        "onboard_time": 1755767543,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266867,
+        "num": 227571,
+        "word": "抖音回应网红娶三个残障老婆",
+        "onboard_time": 1755771623,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45430,
+        "num": 219065,
+        "word": "奥迪E5现已到店",
+        "onboard_time": 1755771923,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118615,
+        "num": 212473,
+        "word": "川航回应旅客摆餐事件",
+        "onboard_time": 1755772522,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30911,
+        "num": 206394,
+        "word": "黄渤的脸承包今日所有笑点",
+        "onboard_time": 1755770782,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63650,
+        "num": 198229,
+        "word": "老人走失1天2夜被汪汪队找到",
+        "onboard_time": 1755772882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197257,
+        "num": 197257,
+        "word": "王者高级河灯",
+        "onboard_time": 1755772282,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271376,
+        "num": 193054,
+        "word": "原来排卵期一直在被误解",
+        "onboard_time": 1755760943,
+        "rank": 21,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 187825,
+        "num": 187825,
+        "word": "第一个发明虾滑宽面的是天才",
+        "onboard_time": 1755772042,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185551,
+        "num": 185551,
+        "word": "拉宏桑相亲后续",
+        "onboard_time": 1755771923,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183114,
+        "num": 183114,
+        "word": "子夜归",
+        "onboard_time": 1755771863,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180219,
+        "num": 180219,
+        "word": "甲亢哥带火毛肚外国博主追着吃",
+        "onboard_time": 1755771801,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175414,
+        "num": 175414,
+        "word": "两子非亲生大儿子反质父亲出轨",
+        "onboard_time": 1755764242,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908905,
+        "num": 175244,
+        "word": "男网红娶三个残障老婆",
+        "onboard_time": 1755762503,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75530,
+        "num": 175022,
+        "word": "女明星集体回春的秘密",
+        "onboard_time": 1755770782,
+        "rank": 28,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 111108,
+        "num": 174997,
+        "word": "罗予彤猜出了永夜星河",
+        "onboard_time": 1755771742,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174987,
+        "num": 174987,
+        "word": "平台通报农村成哥情况",
+        "onboard_time": 1755770003,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 169616,
+        "num": 169616,
+        "word": "邢菲非科班演技",
+        "onboard_time": 1755772343,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157222,
+        "num": 157222,
+        "word": "网剧满庭芳",
+        "onboard_time": 1755772222,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94883,
+        "num": 142264,
+        "word": "警犬找回走失老人被奖3箱好吃的",
+        "onboard_time": 1755771683,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 140008,
+        "num": 140008,
+        "word": "脂包骨身材的7个特征",
+        "onboard_time": 1755769341,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138562,
+        "num": 138562,
+        "word": "武大教授毒品犯罪论文引争议",
+        "onboard_time": 1755768863,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138424,
+        "num": 138424,
+        "word": "Gr对战MRC",
+        "onboard_time": 1755765924,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133943,
+        "num": 133943,
+        "word": "刘耀文模仿土豆鼠标吵架",
+        "onboard_time": 1755772943,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133817,
+        "num": 133817,
+        "word": "东方风云榜",
+        "onboard_time": 1755769582,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83139,
+        "num": 132166,
+        "word": "女子机场坠楼砸到保洁员画面曝光",
+        "onboard_time": 1755772162,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131686,
+        "num": 131686,
+        "word": "万国鹏再澄清曾追求张予曦",
+        "onboard_time": 1755752843,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124136,
+        "num": 124136,
+        "word": "周也 妆造基础脸就不基础",
+        "onboard_time": 1755772402,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99229,
+        "num": 124011,
+        "word": "曝黄子佼仍住豪宅开豪车",
+        "onboard_time": 1755771863,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15556,
+        "num": 123999,
+        "word": "张凌赫 英语好才是真性感",
+        "onboard_time": 1755773061,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125741,
+        "num": 123999,
+        "word": "刘耀文跳刀马刀马",
+        "onboard_time": 1755770723,
+        "rank": 44,
+        "category": "音乐,演出"
+      },
+      {
+        "raw_hot": 123999,
+        "num": 123998,
+        "word": "宋轶这背不拔罐可惜了",
+        "onboard_time": 1755768504,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117397,
+        "num": 117397,
+        "word": "许凯被密室吓出PTSD",
+        "onboard_time": 1755772343,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113170,
+        "num": 113170,
+        "word": "深圳地铁被嫌滂臭",
+        "onboard_time": 1755773061,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111417,
+        "num": 111417,
+        "word": "体育外卖火了",
+        "onboard_time": 1755770123,
+        "rank": 48,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 108000,
+        "num": 108000,
+        "word": "KPL",
+        "onboard_time": 1755770423,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#西藏自治区成立60周年庆祝大会举行#"
+    }
+  }
+}

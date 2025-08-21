@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755772090451,
+  "endTime": 1755773091548,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 970069,
-      "num": 229015,
+      "num": 253142,
       "word": "单休 上6天发7天工资",
       "onboard_time": 1755769222,
       "rank": 30,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476944,
+      "num": 476944,
+      "word": "内娱终于替缝纫机发声了",
+      "onboard_time": 1755771443,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474565,
       "num": 230610,
       "word": "微信隐藏的查岗模式",
@@ -627,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318595,
+      "num": 318595,
+      "word": "董璇你看看人金莎",
+      "onboard_time": 1755771322,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317858,
       "num": 255233,
       "word": "刘耀文没想到腹肌花絮发出去了",
@@ -753,6 +769,14 @@
       "onboard_time": 1755733941,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 266867,
+      "num": 227571,
+      "word": "抖音回应网红娶三个残障老婆",
+      "onboard_time": 1755771623,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266137,
@@ -899,14 +923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210747,
-      "num": 227077,
-      "word": "内娱终于替缝纫机发声了",
-      "onboard_time": 1755771443,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209337,
       "num": 209337,
       "word": "WTT中国大满贯中国队双打名单",
@@ -995,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197257,
+      "num": 197257,
+      "word": "王者高级河灯",
+      "onboard_time": 1755772282,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195835,
       "num": 195835,
       "word": "广东人可以穿着拖鞋做一切事情",
@@ -1067,14 +1091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 189671,
-      "num": 146490,
-      "word": "抖音回应网红娶三个残障老婆",
-      "onboard_time": 1755771623,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188617,
       "num": 188617,
       "word": "刘轩丞精彩OK",
@@ -1083,12 +1099,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187825,
+      "num": 187825,
+      "word": "第一个发明虾滑宽面的是天才",
+      "onboard_time": 1755772042,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186342,
       "num": 220299,
       "word": "小林栋哲跑子夜归捣乱来了",
       "onboard_time": 1755761302,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185551,
+      "num": 185551,
+      "word": "拉宏桑相亲后续",
+      "onboard_time": 1755771923,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 183281,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1755696749,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 183114,
+      "num": 183114,
+      "word": "子夜归",
+      "onboard_time": 1755771863,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 182822,
@@ -1147,11 +1187,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177391,
-      "num": 177391,
-      "word": "拉宏桑相亲后续",
-      "onboard_time": 1755771923,
-      "rank": 22,
+      "raw_hot": 180219,
+      "num": 180219,
+      "word": "甲亢哥带火毛肚外国博主追着吃",
+      "onboard_time": 1755771801,
+      "rank": 34,
       "category": "网红"
     },
     {
@@ -1257,6 +1297,14 @@
       "onboard_time": 1755757044,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169616,
+      "num": 169616,
+      "word": "邢菲非科班演技",
+      "onboard_time": 1755772343,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 169416,
@@ -1387,6 +1435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 157222,
+      "num": 157222,
+      "word": "网剧满庭芳",
+      "onboard_time": 1755772222,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156324,
       "num": 156324,
       "word": "内场喝酒的迪丽热巴",
@@ -1401,14 +1457,6 @@
       "onboard_time": 1755763164,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155704,
-      "num": 155704,
-      "word": "子夜归",
-      "onboard_time": 1755771863,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 154956,
@@ -1635,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140008,
+      "num": 140008,
+      "word": "脂包骨身材的7个特征",
+      "onboard_time": 1755769341,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139069,
       "num": 111851,
       "word": "穿校服的关晓彤好有千金感",
@@ -1648,6 +1704,14 @@
       "word": "263斤男子花2万请轿夫抬上峨眉山",
       "onboard_time": 1755765384,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138562,
+      "num": 144801,
+      "word": "武大教授毒品犯罪论文引争议",
+      "onboard_time": 1755768863,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1683,14 +1747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 135616,
-      "num": 135616,
-      "word": "甲亢哥带火毛肚外国博主追着吃",
-      "onboard_time": 1755771801,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 135585,
       "num": 164014,
       "word": "一句话让手机自己干活",
@@ -1721,6 +1777,22 @@
       "onboard_time": 1755760163,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133943,
+      "num": 133943,
+      "word": "刘耀文模仿土豆鼠标吵架",
+      "onboard_time": 1755772943,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 133817,
+      "num": 133817,
+      "word": "东方风云榜",
+      "onboard_time": 1755769582,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 133430,
@@ -1771,14 +1843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131577,
-      "num": 131577,
-      "word": "第一个发明虾滑宽面的是天才",
-      "onboard_time": 1755772042,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 131147,
       "num": 131147,
       "word": "因父母求子被砍手女生的现状",
@@ -1809,14 +1873,6 @@
       "onboard_time": 1755759623,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 129837,
-      "num": 226284,
-      "word": "董璇你看看人金莎",
-      "onboard_time": 1755771322,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 129733,
@@ -1857,14 +1913,6 @@
       "onboard_time": 1755741080,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 128709,
-      "num": 128709,
-      "word": "脂包骨身材的7个特征",
-      "onboard_time": 1755769341,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128569,
@@ -1956,7 +2004,7 @@
     },
     {
       "raw_hot": 125128,
-      "num": 125128,
+      "num": 174997,
       "word": "罗予彤猜出了永夜星河",
       "onboard_time": 1755771742,
       "rank": 41,
@@ -1977,6 +2025,14 @@
       "onboard_time": 1755769103,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124136,
+      "num": 124136,
+      "word": "周也 妆造基础脸就不基础",
+      "onboard_time": 1755772402,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 123717,
@@ -2091,6 +2147,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118615,
+      "num": 212473,
+      "word": "川航回应旅客摆餐事件",
+      "onboard_time": 1755772522,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117397,
+      "num": 117397,
+      "word": "许凯被密室吓出PTSD",
+      "onboard_time": 1755772343,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116680,
       "num": 116680,
       "word": "锦月如歌",
@@ -2115,11 +2187,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114343,
-      "num": 144801,
-      "word": "武大教授毒品犯罪论文引争议",
-      "onboard_time": 1755768863,
-      "rank": 40,
+      "raw_hot": 113170,
+      "num": 113170,
+      "word": "深圳地铁被嫌滂臭",
+      "onboard_time": 1755773061,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -2129,14 +2201,6 @@
       "onboard_time": 1755770423,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111154,
-      "num": 111154,
-      "word": "东方风云榜",
-      "onboard_time": 1755769582,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 110985,
@@ -2219,6 +2283,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 99229,
+      "num": 127823,
+      "word": "曝黄子佼仍住豪宅开豪车",
+      "onboard_time": 1755771863,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97986,
       "num": 97986,
       "word": "胡先煦浮潜遇到鲨鱼",
@@ -2265,6 +2337,14 @@
       "onboard_time": 1755760883,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94883,
+      "num": 229589,
+      "word": "警犬找回走失老人被奖3箱好吃的",
+      "onboard_time": 1755771683,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 94106,
@@ -2379,6 +2459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83139,
+      "num": 132166,
+      "word": "女子机场坠楼砸到保洁员画面曝光",
+      "onboard_time": 1755772162,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82801,
       "num": 82801,
       "word": "高桥布鲁娜回应战胜张本美和",
@@ -2404,7 +2492,7 @@
     },
     {
       "raw_hot": 79553,
-      "num": 148794,
+      "num": 175022,
       "word": "女明星集体回春的秘密",
       "onboard_time": 1755770782,
       "rank": 29,
@@ -2475,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63650,
+      "num": 198229,
+      "word": "老人走失1天2夜被汪汪队找到",
+      "onboard_time": 1755772882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63404,
       "num": 212769,
       "word": "法院警车在千里之外的草原旅拍",
@@ -2497,14 +2593,6 @@
       "onboard_time": 1755731058,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 61682,
-      "num": 229589,
-      "word": "警犬找回走失老人被奖3箱好吃的",
-      "onboard_time": 1755771683,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 61040,
@@ -2675,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45430,
+      "num": 219065,
+      "word": "奥迪E5现已到店",
+      "onboard_time": 1755771923,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45268,
       "num": 189165,
       "word": "宋亚轩太会撩了",
@@ -2721,14 +2817,6 @@
       "onboard_time": 1755766944,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39583,
-      "num": 155034,
-      "word": "奥迪E5现已到店",
-      "onboard_time": 1755771923,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 39320,
@@ -2915,14 +3003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18298,
-      "num": 127823,
-      "word": "曝黄子佼仍住豪宅开豪车",
-      "onboard_time": 1755771863,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17233,
       "num": 97408,
       "word": "公共场所吸烟算霸凌吗",
@@ -2937,6 +3017,14 @@
       "onboard_time": 1755759142,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15556,
+      "num": 123999,
+      "word": "张凌赫 英语好才是真性感",
+      "onboard_time": 1755773061,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 13142,
