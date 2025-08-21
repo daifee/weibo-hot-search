@@ -1,0 +1,410 @@
+{
+  "runTime": 1755793907004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1095740,
+        "num": 1095740,
+        "word": "受胡雷资助的女孩不幸去世",
+        "onboard_time": 1755790342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1024657,
+        "num": 1024657,
+        "word": "泡泡玛特",
+        "onboard_time": 1755786024,
+        "rank": 1,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 18464,
+        "num": 564745,
+        "word": "想快进到9月3日看阅兵",
+        "onboard_time": 1755764363,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 561667,
+        "num": 561667,
+        "word": "胡雷资助的感动全网女孩意外去世",
+        "onboard_time": 1755791901,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517768,
+        "num": 517768,
+        "word": "虞书欣 一念江南",
+        "onboard_time": 1755784404,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451186,
+        "num": 451186,
+        "word": "12306回应无座与二等座同价质疑",
+        "onboard_time": 1755785785,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417263,
+        "num": 417263,
+        "word": "绣绣大脚的第二个孩子",
+        "onboard_time": 1755787344,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284811,
+        "num": 284811,
+        "word": "马嘉祺太稳了",
+        "onboard_time": 1755790882,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264816,
+        "num": 264816,
+        "word": "无座与二等座同价",
+        "onboard_time": 1755781283,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135583,
+        "num": 259255,
+        "word": "胡雷回应资助的女孩去世",
+        "onboard_time": 1755792802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923103,
+        "num": 249213,
+        "word": "胡先煦 李宛妲",
+        "onboard_time": 1755777503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405329,
+        "num": 241519,
+        "word": "为什么酒店的被子塞那么紧",
+        "onboard_time": 1755780083,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278589,
+        "num": 230008,
+        "word": "梓渝音乐节",
+        "onboard_time": 1755783263,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229234,
+        "num": 229234,
+        "word": "黑龙江一恶势力团伙全员改判无罪",
+        "onboard_time": 1755778583,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216594,
+        "num": 216594,
+        "word": "确诊糖尿病前身体发出的信号",
+        "onboard_time": 1755776662,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187545,
+        "num": 187545,
+        "word": "被泼硫酸毁容女子发声",
+        "onboard_time": 1755785064,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180231,
+        "num": 180231,
+        "word": "鞠婧祎画室",
+        "onboard_time": 1755786863,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170159,
+        "num": 170159,
+        "word": "胡先煦项链里有李宛妲照片",
+        "onboard_time": 1755778822,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154920,
+        "num": 154920,
+        "word": "JDG对战DRG",
+        "onboard_time": 1755775342,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131087,
+        "num": 131087,
+        "word": "李在明喂完夫人喂议员被妻子挡开",
+        "onboard_time": 1755778043,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189616,
+        "num": 131020,
+        "word": "早期肺癌的4个信号一定要警惕",
+        "onboard_time": 1755792802,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128103,
+        "num": 128103,
+        "word": "留学生遭电诈跳楼身亡家属发声",
+        "onboard_time": 1755784044,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127557,
+        "num": 127557,
+        "word": "ES8价格",
+        "onboard_time": 1755787643,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123749,
+        "num": 123749,
+        "word": "孙颖莎17连胜早田希娜",
+        "onboard_time": 1755790043,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123561,
+        "num": 123561,
+        "word": "生万物 开仓放粮",
+        "onboard_time": 1755789804,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117798,
+        "num": 117798,
+        "word": "因二胎儿子跟母姓父亲起诉离婚",
+        "onboard_time": 1755788125,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115954,
+        "num": 115954,
+        "word": "金泰熙因为育儿压力流泪",
+        "onboard_time": 1755781222,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115513,
+        "num": 115513,
+        "word": "银子 谁来赔这一生好光景",
+        "onboard_time": 1755787762,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113867,
+        "num": 113867,
+        "word": "刘涛 一念江南",
+        "onboard_time": 1755779363,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113501,
+        "num": 113501,
+        "word": "一下子没有年龄焦虑了",
+        "onboard_time": 1755790224,
+        "rank": 29,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 112904,
+        "num": 112904,
+        "word": "无畏MVP",
+        "onboard_time": 1755786925,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106559,
+        "num": 106559,
+        "word": "无村民知晓杀了3人的凶手患精神病",
+        "onboard_time": 1755786563,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99216,
+        "num": 99216,
+        "word": "安宰贤3比2张本智和",
+        "onboard_time": 1755785244,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98351,
+        "num": 98351,
+        "word": "日本新规每日玩手机不超2小时",
+        "onboard_time": 1755786504,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95564,
+        "num": 95564,
+        "word": "腻味没味 白眼狼",
+        "onboard_time": 1755789084,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94460,
+        "num": 94460,
+        "word": "李佳琦一边讲课黄晓明一边掏钱",
+        "onboard_time": 1755786625,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90654,
+        "num": 90654,
+        "word": "男子娶残障老婆最高可判死刑",
+        "onboard_time": 1755777982,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88274,
+        "num": 88274,
+        "word": "严浩翔异瞳神父",
+        "onboard_time": 1755781042,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74945,
+        "num": 88273,
+        "word": "律师谈李易峰被强执4990万后果",
+        "onboard_time": 1755785726,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72361,
+        "num": 88268,
+        "word": "mokoko",
+        "onboard_time": 1755787223,
+        "rank": 39,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 35995,
+        "num": 88265,
+        "word": "对代驾小哥最好的关爱",
+        "onboard_time": 1755789204,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 70451,
+        "num": 88264,
+        "word": "古偶终于轮到男主跳城楼了",
+        "onboard_time": 1755776301,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70411,
+        "num": 88260,
+        "word": "宋亚轩素颜好听",
+        "onboard_time": 1755788964,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69641,
+        "num": 88255,
+        "word": "B站Q2营收73.4亿",
+        "onboard_time": 1755792560,
+        "rank": 43,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 68076,
+        "num": 88252,
+        "word": "王传君神预言董璇张维伊",
+        "onboard_time": 1755765384,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67877,
+        "num": 88248,
+        "word": "星星人",
+        "onboard_time": 1755786325,
+        "rank": 45,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 67854,
+        "num": 88248,
+        "word": "Scout醒一醒",
+        "onboard_time": 1755791602,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67049,
+        "num": 88244,
+        "word": "原来排卵期一直在被误解",
+        "onboard_time": 1755760943,
+        "rank": 47,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 64902,
+        "num": 88241,
+        "word": "周深 泡泡玛特",
+        "onboard_time": 1755786385,
+        "rank": 48,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 62022,
+        "num": 88238,
+        "word": "时代少年团随舞",
+        "onboard_time": 1755784825,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记西藏之行难忘瞬间#"
+    }
+  }
+}

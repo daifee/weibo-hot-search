@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755791266495,
+  "endTime": 1755793907004,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -753,6 +753,14 @@
       "onboard_time": 1755496103,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1095740,
+      "num": 1095740,
+      "word": "受胡雷资助的女孩不幸去世",
+      "onboard_time": 1755790342,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1093447,
@@ -2184,6 +2192,14 @@
       "word": "大理洱海被恶意放置信号屏蔽器",
       "onboard_time": 1755692302,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 561667,
+      "num": 561667,
+      "word": "胡雷资助的感动全网女孩意外去世",
+      "onboard_time": 1755791901,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -4377,6 +4393,14 @@
       "onboard_time": 1755494482,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284811,
+      "num": 284811,
+      "word": "马嘉祺太稳了",
+      "onboard_time": 1755790882,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 284718,
@@ -7099,6 +7123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189616,
+      "num": 131020,
+      "word": "早期肺癌的4个信号一定要警惕",
+      "onboard_time": 1755792802,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189525,
       "num": 189525,
       "word": "三十而已曼谷篇定档",
@@ -7185,14 +7217,6 @@
       "onboard_time": 1755691344,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 188239,
-      "num": 188239,
-      "word": "马嘉祺太稳了",
-      "onboard_time": 1755790882,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 188095,
@@ -11371,6 +11395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135583,
+      "num": 259255,
+      "word": "胡雷回应资助的女孩去世",
+      "onboard_time": 1755792802,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135427,
       "num": 135427,
       "word": "王星越说追星女的爱是纯粹的",
@@ -13507,6 +13539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115513,
+      "num": 115513,
+      "word": "银子 谁来赔这一生好光景",
+      "onboard_time": 1755787762,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115436,
       "num": 140620,
       "word": "日本讨论拆除裸女像",
@@ -13883,14 +13923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110943,
-      "num": 122670,
-      "word": "受胡雷资助的女孩不幸去世",
-      "onboard_time": 1755790342,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110891,
       "num": 110891,
       "word": "公交车被插队急刹乘客流产索赔8万",
@@ -13928,14 +13960,6 @@
       "word": "苏苏替绣绣出头",
       "onboard_time": 1755579322,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 110281,
-      "num": 112709,
-      "word": "银子 谁来赔这一生好光景",
-      "onboard_time": 1755787762,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -16443,6 +16467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69641,
+      "num": 88255,
+      "word": "B站Q2营收73.4亿",
+      "onboard_time": 1755792560,
+      "rank": 43,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 69334,
       "num": 1327159,
       "word": "想看阅兵的心到达了顶峰",
@@ -16513,6 +16545,14 @@
       "onboard_time": 1755403103,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67854,
+      "num": 88248,
+      "word": "Scout醒一醒",
+      "onboard_time": 1755791602,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 67762,

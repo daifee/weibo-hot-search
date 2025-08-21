@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755791266495,
+  "endTime": 1755793907004,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -3304,6 +3304,14 @@
       "word": "低人一等座",
       "onboard_time": 1754105961,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1095740,
+      "num": 1095740,
+      "word": "受胡雷资助的女孩不幸去世",
+      "onboard_time": 1755790342,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -9297,6 +9305,14 @@
       "onboard_time": 1754278944,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 561667,
+      "num": 561667,
+      "word": "胡雷资助的感动全网女孩意外去世",
+      "onboard_time": 1755791901,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 561161,
@@ -17832,6 +17848,14 @@
       "word": "太湖湾音乐节阵容",
       "onboard_time": 1755315321,
       "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 284811,
+      "num": 284811,
+      "word": "马嘉祺太稳了",
+      "onboard_time": 1755790882,
+      "rank": 23,
       "category": "演出"
     },
     {
@@ -28291,6 +28315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189616,
+      "num": 131020,
+      "word": "早期肺癌的4个信号一定要警惕",
+      "onboard_time": 1755792802,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189525,
       "num": 189525,
       "word": "三十而已曼谷篇定档",
@@ -28633,14 +28665,6 @@
       "onboard_time": 1754126542,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 188239,
-      "num": 188239,
-      "word": "马嘉祺太稳了",
-      "onboard_time": 1755790882,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 188124,
@@ -44467,6 +44491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135583,
+      "num": 259255,
+      "word": "胡雷回应资助的女孩去世",
+      "onboard_time": 1755792802,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135555,
       "num": 135555,
       "word": "吃瓜 抗老",
@@ -53067,6 +53099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115513,
+      "num": 115513,
+      "word": "银子 谁来赔这一生好光景",
+      "onboard_time": 1755787762,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115436,
       "num": 140620,
       "word": "日本讨论拆除裸女像",
@@ -54995,14 +55035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110943,
-      "num": 122670,
-      "word": "受胡雷资助的女孩不幸去世",
-      "onboard_time": 1755790342,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110931,
       "num": 110931,
       "word": "沈佳润05后营业原来是这样",
@@ -55201,14 +55233,6 @@
       "onboard_time": 1754566583,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110281,
-      "num": 112709,
-      "word": "银子 谁来赔这一生好光景",
-      "onboard_time": 1755787762,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 110272,
@@ -64683,6 +64707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69641,
+      "num": 88255,
+      "word": "B站Q2营收73.4亿",
+      "onboard_time": 1755792560,
+      "rank": 43,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 69429,
       "num": 140253,
       "word": "时代少年团对接声明",
@@ -64961,6 +64993,14 @@
       "onboard_time": 1754586259,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67854,
+      "num": 88248,
+      "word": "Scout醒一醒",
+      "onboard_time": 1755791602,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 67817,
