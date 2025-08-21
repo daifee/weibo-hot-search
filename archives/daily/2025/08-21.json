@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755761250240,
+  "endTime": 1755762067672,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1137012,
+      "num": 225789,
+      "word": "徐艺洋为了黄子韬放弃工作",
+      "onboard_time": 1755758902,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1050024,
       "num": 253303,
       "word": "被父亲毒杀的兄妹死前抓烂枕头",
       "onboard_time": 1755743422,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 933129,
-      "num": 216247,
-      "word": "徐艺洋为了黄子韬放弃工作",
-      "onboard_time": 1755758902,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 870945,
@@ -163,12 +163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 659427,
+      "num": 225461,
+      "word": "原来排卵期一直在被误解",
+      "onboard_time": 1755760943,
+      "rank": 36,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 606388,
       "num": 264486,
       "word": "第一次看不上明星老公",
       "onboard_time": 1755744562,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 603082,
+      "num": 224381,
+      "word": "阚清子官宣怀孕后首次播剧",
+      "onboard_time": 1755760462,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 600091,
@@ -211,7 +227,15 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 556840,
+      "raw_hot": 558112,
+      "num": 417129,
+      "word": "留学9天自杀女生5000字自白书曝光",
+      "onboard_time": 1755755662,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 557218,
       "num": 257933,
       "word": "万国鹏再澄清曾追求张予曦",
       "onboard_time": 1755752843,
@@ -235,20 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514920,
+      "num": 274630,
+      "word": "时代少年团直播",
+      "onboard_time": 1755757764,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 510801,
+      "num": 240821,
+      "word": "135岁的老太太",
+      "onboard_time": 1755755304,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 508332,
       "num": 233941,
       "word": "难听",
       "onboard_time": 1755691884,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 499814,
-      "num": 417129,
-      "word": "留学9天自杀女生5000字自白书曝光",
-      "onboard_time": 1755755662,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 496197,
@@ -307,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 432292,
-      "num": 240821,
-      "word": "135岁的老太太",
-      "onboard_time": 1755755304,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 429551,
       "num": 220392,
       "word": "田曦薇 人生镜头来了",
@@ -329,14 +353,6 @@
       "onboard_time": 1755742461,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 421179,
-      "num": 274630,
-      "word": "时代少年团直播",
-      "onboard_time": 1755757764,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 417607,
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329490,
+      "num": 329490,
+      "word": "台风玲玲已生成",
+      "onboard_time": 1755758361,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329046,
       "num": 210791,
       "word": "胡先煦回应王安宇",
@@ -523,22 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300044,
-      "num": 211964,
-      "word": "阚清子官宣怀孕后首次播剧",
-      "onboard_time": 1755760462,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 298849,
-      "num": 298849,
-      "word": "台风玲玲已生成",
-      "onboard_time": 1755758361,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298242,
       "num": 229409,
       "word": "金价跌至近半个月最低水平",
@@ -579,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272812,
+      "num": 272812,
+      "word": "胡先煦坐了近五十个小时飞机",
+      "onboard_time": 1755761482,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270888,
       "num": 253805,
       "word": "网红三哥资助孟加拉贫困户反被勒索",
@@ -611,6 +627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 266137,
+      "num": 216325,
+      "word": "虞书欣的定妆照",
+      "onboard_time": 1755759683,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 252750,
       "num": 153916,
       "word": "方媛挺孕肚打车送女儿上学",
@@ -625,14 +649,6 @@
       "onboard_time": 1755756382,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 242164,
-      "num": 210852,
-      "word": "虞书欣的定妆照",
-      "onboard_time": 1755759683,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 239729,
@@ -683,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227766,
+      "num": 214856,
+      "word": "吴磊下身基础上身就不基础",
+      "onboard_time": 1755760283,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222657,
       "num": 222657,
       "word": "爱奇艺第二季度净亏损1.337亿元",
@@ -707,20 +731,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214199,
+      "num": 214199,
+      "word": "弹壳晒一家五口全家福",
+      "onboard_time": 1755760883,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212381,
       "num": 205844,
       "word": "我住过一梯一户的大平层",
       "onboard_time": 1755740902,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210184,
-      "num": 210184,
-      "word": "吴磊下身基础上身就不基础",
-      "onboard_time": 1755760283,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 208941,
@@ -753,6 +777,14 @@
       "onboard_time": 1755741022,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199522,
+      "num": 213268,
+      "word": "黄子韬还记得以前自己是EXO的吗",
+      "onboard_time": 1755760582,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 198363,
@@ -835,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186342,
+      "num": 220299,
+      "word": "小林栋哲跑子夜归捣乱来了",
+      "onboard_time": 1755761302,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183281,
       "num": 168744,
       "word": "付辛博颖儿真夫妻就是好嗑",
@@ -883,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174984,
+      "num": 174984,
+      "word": "蓝盈莹cp上能60下能20",
+      "onboard_time": 1755761244,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173235,
       "num": 173235,
       "word": "4399都要从他这进货",
@@ -915,12 +963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171365,
+      "num": 171365,
+      "word": "邪恶水蜜桃怎么到处客串",
+      "onboard_time": 1755761844,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170667,
       "num": 195298,
       "word": "王一博保证完成任务",
       "onboard_time": 1755750083,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170412,
+      "num": 253439,
+      "word": "这座中国大桥横竖都是世界第一",
+      "onboard_time": 1755757044,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169416,
@@ -939,6 +1003,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 166703,
+      "num": 166703,
+      "word": "周深盲盒",
+      "onboard_time": 1755761182,
+      "rank": 49,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 165408,
       "num": 165408,
       "word": "百凤山大战看爽了",
@@ -952,6 +1024,14 @@
       "word": "沈腾范丞丞你们不要再打了",
       "onboard_time": 1755744502,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163405,
+      "num": 163405,
+      "word": "苏醒被迫加入这个家",
+      "onboard_time": 1755761902,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -969,6 +1049,14 @@
       "onboard_time": 1755750744,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161704,
+      "num": 161704,
+      "word": "手机打电话和微信打电话的区别",
+      "onboard_time": 1755761784,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 161558,
@@ -993,22 +1081,6 @@
       "onboard_time": 1755753922,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159509,
-      "num": 253439,
-      "word": "这座中国大桥横竖都是世界第一",
-      "onboard_time": 1755757044,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158863,
-      "num": 158863,
-      "word": "原来排卵期一直在被误解",
-      "onboard_time": 1755760943,
-      "rank": 36,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 158638,
@@ -1091,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145502,
-      "num": 145502,
-      "word": "弹壳晒一家五口全家福",
-      "onboard_time": 1755760883,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145426,
       "num": 132590,
       "word": "宋亚轩露腹肌偷偷挡住",
@@ -1113,6 +1177,14 @@
       "onboard_time": 1755738322,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144243,
+      "num": 144243,
+      "word": "丞磊你当真不理理我的感受吗",
+      "onboard_time": 1755761963,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 144017,
@@ -1251,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130098,
+      "num": 210448,
+      "word": "俄罗斯不接受北约维和部队在乌驻扎",
+      "onboard_time": 1755759623,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129733,
       "num": 129733,
       "word": "母婴室变育婴室改变的不仅是名字",
@@ -1307,20 +1387,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128363,
+      "num": 128363,
+      "word": "vivo Vision",
+      "onboard_time": 1755759563,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128302,
       "num": 128302,
       "word": "贺峻霖出门在外自己的身份自己安排",
       "onboard_time": 1755753804,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126563,
-      "num": 126563,
-      "word": "周深盲盒",
-      "onboard_time": 1755761182,
-      "rank": 49,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 126263,
@@ -1499,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108958,
-      "num": 210448,
-      "word": "俄罗斯不接受北约维和部队在乌驻扎",
-      "onboard_time": 1755759623,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108275,
       "num": 112294,
       "word": "男子毒杀儿女案妻子发声",
@@ -1601,6 +1673,14 @@
       "onboard_time": 1755756924,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95047,
+      "num": 161882,
+      "word": "吉林大学新生宿舍楼禁异性家长进入",
+      "onboard_time": 1755760883,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94106,
@@ -1699,6 +1779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83039,
+      "num": 199607,
+      "word": "女子大闹麦当劳被行拘5日",
+      "onboard_time": 1755761543,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82801,
       "num": 82801,
       "word": "高桥布鲁娜回应战胜张本美和",
@@ -1779,20 +1867,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69208,
+      "num": 219764,
+      "word": "官方通报50升油箱加出67.96升汽油",
+      "onboard_time": 1755761543,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 67134,
       "num": 67134,
       "word": "杜海涛被网友拍到疑似发量稀疏",
       "onboard_time": 1755711497,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65193,
-      "num": 213268,
-      "word": "黄子韬还记得以前自己是EXO的吗",
-      "onboard_time": 1755760582,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 63404,
@@ -1883,6 +1971,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 49954,
+      "num": 221849,
+      "word": "中国豪华汽车看蔚来",
+      "onboard_time": 1755760283,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49879,
       "num": 49879,
       "word": "开学倒计时",
@@ -1963,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40384,
+      "num": 161727,
+      "word": "越来越多的女性开始穿男装了",
+      "onboard_time": 1755761784,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40345,
       "num": 234654,
       "word": "少数人的烟瘾不能绑架公众健康",
@@ -1979,28 +2083,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 37882,
-      "num": 153591,
-      "word": "吉林大学新生宿舍楼禁异性家长进入",
-      "onboard_time": 1755760883,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37770,
       "num": 161925,
       "word": "村民救人下山收6万",
       "onboard_time": 1755750924,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32443,
-      "num": 214857,
-      "word": "中国豪华汽车看蔚来",
-      "onboard_time": 1755760283,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 31127,

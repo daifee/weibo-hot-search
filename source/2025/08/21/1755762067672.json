@@ -1,0 +1,410 @@
+{
+  "runTime": 1755762067672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 559037,
+        "num": 1089445,
+        "word": "中国旅客在荷兰吸食毒品行为失控",
+        "onboard_time": 1755753502,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 391322,
+        "num": 391322,
+        "word": "12306为何在站台禁烟问题上反应冷淡",
+        "onboard_time": 1755751827,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44260,
+        "num": 340536,
+        "word": "西藏自治区成立60周年",
+        "onboard_time": 1755748703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 558112,
+        "num": 337878,
+        "word": "留学9天自杀女生5000字自白书曝光",
+        "onboard_time": 1755755662,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 329490,
+        "num": 329490,
+        "word": "台风玲玲已生成",
+        "onboard_time": 1755758361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304854,
+        "num": 304854,
+        "word": "假如张若昀虞书欣演先婚后爱",
+        "onboard_time": 1755752243,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272812,
+        "num": 272812,
+        "word": "胡先煦坐了近五十个小时飞机",
+        "onboard_time": 1755761482,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227756,
+        "num": 227756,
+        "word": "乌军170万人死亡名单遭泄露",
+        "onboard_time": 1755752903,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188770,
+        "num": 227194,
+        "word": "高铁站台禁烟比禁止吃泡面更紧迫",
+        "onboard_time": 1755746182,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170412,
+        "num": 226386,
+        "word": "这座中国大桥横竖都是世界第一",
+        "onboard_time": 1755757044,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1137012,
+        "num": 225789,
+        "word": "徐艺洋为了黄子韬放弃工作",
+        "onboard_time": 1755758902,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 659427,
+        "num": 225461,
+        "word": "原来排卵期一直在被误解",
+        "onboard_time": 1755760943,
+        "rank": 11,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 603082,
+        "num": 224381,
+        "word": "阚清子官宣怀孕后首次播剧",
+        "onboard_time": 1755760462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23741,
+        "num": 224101,
+        "word": "MR头显会是下一代智能终端吗",
+        "onboard_time": 1755757882,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 557218,
+        "num": 223043,
+        "word": "万国鹏再澄清曾追求张予曦",
+        "onboard_time": 1755752843,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514920,
+        "num": 222104,
+        "word": "时代少年团直播",
+        "onboard_time": 1755757764,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49954,
+        "num": 221849,
+        "word": "中国豪华汽车看蔚来",
+        "onboard_time": 1755760283,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 510801,
+        "num": 220943,
+        "word": "135岁的老太太",
+        "onboard_time": 1755755304,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186342,
+        "num": 220299,
+        "word": "小林栋哲跑子夜归捣乱来了",
+        "onboard_time": 1755761302,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69208,
+        "num": 219764,
+        "word": "官方通报50升油箱加出67.96升汽油",
+        "onboard_time": 1755761543,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 401296,
+        "num": 218629,
+        "word": "85岁老人容留卖淫每次嫖资抽10元",
+        "onboard_time": 1755754524,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381700,
+        "num": 217832,
+        "word": "银子怀孕",
+        "onboard_time": 1755753082,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326387,
+        "num": 217334,
+        "word": "原来关晓彤才是林黛玉最初人选",
+        "onboard_time": 1755743361,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281449,
+        "num": 216485,
+        "word": "被父亲毒杀的兄妹死前抓烂枕头",
+        "onboard_time": 1755743422,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266137,
+        "num": 216325,
+        "word": "虞书欣的定妆照",
+        "onboard_time": 1755759683,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237866,
+        "num": 214926,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1755747623,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 227766,
+        "num": 214856,
+        "word": "吴磊下身基础上身就不基础",
+        "onboard_time": 1755760283,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214199,
+        "num": 214199,
+        "word": "弹壳晒一家五口全家福",
+        "onboard_time": 1755760883,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200325,
+        "num": 200325,
+        "word": "减重少于5%属于无效减重",
+        "onboard_time": 1755756382,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83039,
+        "num": 199607,
+        "word": "女子大闹麦当劳被行拘5日",
+        "onboard_time": 1755761543,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199522,
+        "num": 199522,
+        "word": "黄子韬还记得以前自己是EXO的吗",
+        "onboard_time": 1755760582,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2853707,
+        "num": 193022,
+        "word": "李易峰被强制执行4990万",
+        "onboard_time": 1755753804,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186501,
+        "num": 186501,
+        "word": "管乐的腿没有一厘米是白长的",
+        "onboard_time": 1755755904,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177652,
+        "num": 177652,
+        "word": "桃黑黑 国草",
+        "onboard_time": 1755750503,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174984,
+        "num": 174984,
+        "word": "蓝盈莹cp上能60下能20",
+        "onboard_time": 1755761244,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171365,
+        "num": 171365,
+        "word": "邪恶水蜜桃怎么到处客串",
+        "onboard_time": 1755761844,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166703,
+        "num": 166703,
+        "word": "周深盲盒",
+        "onboard_time": 1755761182,
+        "rank": 36,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 163405,
+        "num": 163405,
+        "word": "苏醒被迫加入这个家",
+        "onboard_time": 1755761902,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95047,
+        "num": 161882,
+        "word": "吉林大学新生宿舍楼禁异性家长进入",
+        "onboard_time": 1755760883,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40384,
+        "num": 161727,
+        "word": "越来越多的女性开始穿男装了",
+        "onboard_time": 1755761784,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161704,
+        "num": 161704,
+        "word": "手机打电话和微信打电话的区别",
+        "onboard_time": 1755761784,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160676,
+        "num": 160676,
+        "word": "刘轩丞精彩OK",
+        "onboard_time": 1755758242,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144873,
+        "num": 144873,
+        "word": "柳智敏芭莎",
+        "onboard_time": 1755760042,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144243,
+        "num": 144243,
+        "word": "丞磊你当真不理理我的感受吗",
+        "onboard_time": 1755761963,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140984,
+        "num": 140984,
+        "word": "月入一万花一万的真实生活",
+        "onboard_time": 1755747802,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138154,
+        "num": 138154,
+        "word": "何老师看似情绪稳定实则没招了",
+        "onboard_time": 1755759441,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136670,
+        "num": 136670,
+        "word": "赵丽颖恭喜浴火之路入围",
+        "onboard_time": 1755758001,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131239,
+        "num": 131239,
+        "word": "网红三哥资助孟加拉贫困户反被勒索",
+        "onboard_time": 1755753203,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130098,
+        "num": 130098,
+        "word": "俄罗斯不接受北约维和部队在乌驻扎",
+        "onboard_time": 1755759623,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128363,
+        "num": 128363,
+        "word": "vivo Vision",
+        "onboard_time": 1755759563,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席西藏自治区成立60周年庆祝大会#"
+    }
+  }
+}
