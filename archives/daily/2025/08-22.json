@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755818645762,
+  "endTime": 1755819552116,
   "band_list": [
     {
       "raw_hot": 1190706,
@@ -28,10 +28,18 @@
     },
     {
       "raw_hot": 909617,
-      "num": 909617,
+      "num": 963287,
       "word": "胡雷资助的感动全网女孩意外去世",
       "onboard_time": 1755791901,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 607776,
+      "num": 220188,
+      "word": "无村民知晓杀了3人的凶手患精神病",
+      "onboard_time": 1755786563,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -43,19 +51,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 496192,
-      "num": 198297,
-      "word": "无村民知晓杀了3人的凶手患精神病",
-      "onboard_time": 1755786563,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 451186,
       "num": 451186,
       "word": "12306回应无座与二等座同价质疑",
       "onboard_time": 1755785785,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427383,
+      "num": 427383,
+      "word": "黑龙江一恶势力团伙全员改判无罪",
+      "onboard_time": 1755778583,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -75,16 +83,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 376548,
-      "num": 376548,
-      "word": "黑龙江一恶势力团伙全员改判无罪",
-      "onboard_time": 1755778583,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350180,
-      "num": 350180,
+      "raw_hot": 381363,
+      "num": 381363,
       "word": "谁来救救何老师",
       "onboard_time": 1755806714,
       "rank": 12,
@@ -123,12 +123,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224087,
-      "num": 224087,
+      "raw_hot": 253054,
+      "num": 253054,
+      "word": "全球最古老海洋哺乳动物现身南海",
+      "onboard_time": 1755817217,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240859,
+      "num": 240859,
       "word": "李在明喂完夫人喂议员被妻子挡开",
       "onboard_time": 1755778043,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231566,
+      "num": 231566,
+      "word": "因二胎儿子跟母姓父亲起诉离婚",
+      "onboard_time": 1755788125,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216594,
@@ -137,14 +153,6 @@
       "onboard_time": 1755776662,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 209757,
-      "num": 209757,
-      "word": "因二胎儿子跟母姓父亲起诉离婚",
-      "onboard_time": 1755788125,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189616,
@@ -179,19 +187,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163835,
-      "num": 163835,
+      "raw_hot": 166241,
+      "num": 166241,
       "word": "男子娶残障老婆最高可判死刑",
       "onboard_time": 1755777982,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160686,
-      "num": 160686,
-      "word": "全球最古老海洋哺乳动物现身南海",
-      "onboard_time": 1755817217,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -201,6 +201,30 @@
       "onboard_time": 1755775342,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150958,
+      "num": 150958,
+      "word": "日本新规每日玩手机不超2小时",
+      "onboard_time": 1755786504,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150804,
+      "num": 150804,
+      "word": "陈幸同1比3温特",
+      "onboard_time": 1755818959,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146617,
+      "num": 146617,
+      "word": "金泰熙和RAIN不是一见钟情",
+      "onboard_time": 1755819260,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 133178,
@@ -235,12 +259,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 126233,
-      "num": 126233,
-      "word": "日本新规每日玩手机不超2小时",
-      "onboard_time": 1755786504,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 125377,
+      "num": 125377,
+      "word": "杨幂热巴合照",
+      "onboard_time": 1755819201,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123832,
@@ -299,19 +323,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112223,
+      "num": 67577,
+      "word": "孙颖莎下轮对阵伊藤美诚",
+      "onboard_time": 1755818959,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100005,
+      "num": 100005,
+      "word": "王艺迪1比3桥本帆乃香",
+      "onboard_time": 1755802635,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99216,
       "num": 99216,
       "word": "安宰贤3比2张本智和",
       "onboard_time": 1755785244,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 95854,
-      "num": 95854,
-      "word": "王艺迪1比3桥本帆乃香",
-      "onboard_time": 1755802635,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -347,12 +379,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76899,
+      "num": 67216,
+      "word": "石洵瑶3比1蒯曼",
+      "onboard_time": 1755818899,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74945,
       "num": 88273,
       "word": "律师谈李易峰被强执4990万后果",
       "onboard_time": 1755785726,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74414,
+      "num": 74414,
+      "word": "新能源汽车股大爆发",
+      "onboard_time": 1755819440,
+      "rank": 25,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 72361,
@@ -403,6 +451,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 68482,
+      "num": 68482,
+      "word": "液化气爆燃28岁女子全身90%烧伤",
+      "onboard_time": 1755819019,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68076,
       "num": 88252,
       "word": "王传君神预言董璇张维伊",
@@ -427,12 +483,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 65662,
+      "raw_hot": 67491,
       "num": 88293,
       "word": "万斯警告泽连斯基规矩点",
       "onboard_time": 1755794239,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66834,
+      "num": 66834,
+      "word": "减肥成功的人做对了一件事",
+      "onboard_time": 1755819319,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64902,
@@ -459,6 +523,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58854,
+      "num": 58854,
+      "word": "浙江嵊州一男子酒驾被拘留期间死亡",
+      "onboard_time": 1755804315,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57594,
+      "num": 57594,
+      "word": "精制糖真的会让人变丑",
+      "onboard_time": 1755815897,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 57294,
+      "num": 59082,
+      "word": "第五人格",
+      "onboard_time": 1755818779,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54119,
       "num": 69555,
       "word": "能坚持早起的人都很了不起",
@@ -483,12 +571,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 52130,
-      "num": 52130,
-      "word": "浙江嵊州一男子酒驾被拘留期间死亡",
-      "onboard_time": 1755804315,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 53028,
+      "num": 53028,
+      "word": "沈阳小学生校服投票",
+      "onboard_time": 1755817998,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 50516,
+      "num": 51161,
+      "word": "美网",
+      "onboard_time": 1755818899,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 49939,
@@ -497,14 +593,6 @@
       "onboard_time": 1755798737,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 47131,
-      "num": 52100,
-      "word": "精制糖真的会让人变丑",
-      "onboard_time": 1755815897,
-      "rank": 39,
-      "category": "运动健身"
     },
     {
       "raw_hot": 43968,
@@ -555,12 +643,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 31644,
-      "num": 51939,
-      "word": "沈阳小学生校服投票",
-      "onboard_time": 1755817998,
-      "rank": 43,
-      "category": "教育"
+      "raw_hot": 31546,
+      "num": 58860,
+      "word": "孙颖莎王曼昱女双挺进四强",
+      "onboard_time": 1755819500,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 30849,
