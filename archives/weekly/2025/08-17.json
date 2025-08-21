@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755801292512,
+  "endTime": 1755802091509,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -16051,6 +16051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78586,
+      "num": 49930,
+      "word": "京城大师赛",
+      "onboard_time": 1755800776,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 78546,
       "num": 119719,
       "word": "TheShy与Rookie的羁绊",
@@ -16561,14 +16569,6 @@
       "onboard_time": 1755791602,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67848,
-      "num": 46003,
-      "word": "京城大师赛",
-      "onboard_time": 1755800776,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 67762,
@@ -17275,6 +17275,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49939,
+      "num": 49939,
+      "word": "DRG五ban无畏辅助",
+      "onboard_time": 1755798737,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 49879,
       "num": 49879,
       "word": "开学倒计时",
@@ -17289,6 +17297,14 @@
       "onboard_time": 1755629954,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 48873,
+      "num": 48873,
+      "word": "梁靖崑温瑞博2比3郭勇冯耀恩",
+      "onboard_time": 1755799696,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 48643,
@@ -17531,14 +17547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44733,
-      "num": 44733,
-      "word": "DRG五ban无畏辅助",
-      "onboard_time": 1755798737,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 44564,
       "num": 98507,
       "word": "五角大楼旁披萨销量又升高了",
@@ -17609,14 +17617,6 @@
       "onboard_time": 1755364818,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 43380,
-      "num": 43380,
-      "word": "梁靖崑温瑞博2比3郭勇冯耀恩",
-      "onboard_time": 1755799696,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 43362,
@@ -17963,6 +17963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39023,
+      "num": 43354,
+      "word": "韩国男子在柬遇害被扔垃圾桶",
+      "onboard_time": 1755800655,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39015,
       "num": 167479,
       "word": "特泽会现场一幅地图意味深长",
@@ -18153,14 +18161,6 @@
       "onboard_time": 1755426141,
       "rank": 30,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 35886,
-      "num": 43354,
-      "word": "韩国男子在柬遇害被扔垃圾桶",
-      "onboard_time": 1755800655,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 35753,
@@ -18761,6 +18761,14 @@
       "onboard_time": 1755377294,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23097,
+      "num": 31690,
+      "word": "丁程鑫蒙眼丝带舞台solo",
+      "onboard_time": 1755801075,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 23082,
