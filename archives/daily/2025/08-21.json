@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755790120165,
+  "endTime": 1755791266495,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -17,6 +17,14 @@
       "onboard_time": 1755777503,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1622456,
+      "num": 1398319,
+      "word": "费文典死了",
+      "onboard_time": 1755789564,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1583078,
@@ -43,14 +51,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1398319,
-      "num": 1398319,
-      "word": "费文典死了",
-      "onboard_time": 1755789564,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1382925,
       "num": 574280,
       "word": "金价",
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1360930,
-      "num": 539770,
+      "num": 1167854,
       "word": "泡泡玛特",
       "onboard_time": 1755786024,
       "rank": 24,
@@ -747,6 +747,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 384892,
+      "num": 384892,
+      "word": "JDG对战DRG",
+      "onboard_time": 1755775342,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 382817,
       "num": 382817,
       "word": "杨幂回应连续三部作品演技获赞",
@@ -929,14 +937,6 @@
       "onboard_time": 1755764242,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310508,
-      "num": 310508,
-      "word": "JDG对战DRG",
-      "onboard_time": 1755775342,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 308702,
@@ -1195,6 +1195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217149,
+      "num": 217149,
+      "word": "鞠婧祎画室",
+      "onboard_time": 1755786863,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216161,
       "num": 216161,
       "word": "成都AG维权声明",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1755768143,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206816,
-      "num": 206816,
-      "word": "鞠婧祎画室",
-      "onboard_time": 1755786863,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 204399,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1755758242,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188239,
+      "num": 188239,
+      "word": "马嘉祺太稳了",
+      "onboard_time": 1755790882,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 187764,
@@ -1835,6 +1843,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 169042,
+      "num": 169042,
+      "word": "无村民知晓杀了3人的凶手患精神病",
+      "onboard_time": 1755786563,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169041,
       "num": 169041,
       "word": "王曼昱3比2长崎美柚",
@@ -1843,12 +1859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167289,
+      "num": 167289,
+      "word": "因二胎儿子跟母姓父亲起诉离婚",
+      "onboard_time": 1755788125,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166703,
       "num": 166703,
       "word": "周深盲盒",
       "onboard_time": 1755761182,
       "rank": 49,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 166520,
+      "num": 166520,
+      "word": "刘耀文随舞跳了biteme",
+      "onboard_time": 1755790164,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 166308,
@@ -1953,14 +1985,6 @@
       "onboard_time": 1755768442,
       "rank": 30,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 162259,
-      "num": 162259,
-      "word": "因二胎儿子跟母姓父亲起诉离婚",
-      "onboard_time": 1755788125,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162217,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1755751226,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155959,
+      "num": 368680,
+      "word": "孙颖莎17连胜早田希娜",
+      "onboard_time": 1755790043,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 155950,
@@ -2465,6 +2497,14 @@
       "onboard_time": 1755786264,
       "rank": 44,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 139110,
+      "num": 139110,
+      "word": "一下子没有年龄焦虑了",
+      "onboard_time": 1755790224,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 139069,
@@ -3035,14 +3075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118767,
-      "num": 118767,
-      "word": "孙颖莎17连胜早田希娜",
-      "onboard_time": 1755790043,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117397,
       "num": 117397,
       "word": "许凯被密室吓出PTSD",
@@ -3097,6 +3129,22 @@
       "onboard_time": 1755740543,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110943,
+      "num": 122670,
+      "word": "受胡雷资助的女孩不幸去世",
+      "onboard_time": 1755790342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110281,
+      "num": 112709,
+      "word": "银子 谁来赔这一生好光景",
+      "onboard_time": 1755787762,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 109628,
@@ -3369,6 +3417,14 @@
       "onboard_time": 1755700586,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86326,
+      "num": 168155,
+      "word": "12306为何在站台禁烟上如此冷淡僵硬",
+      "onboard_time": 1755790283,
+      "rank": 29,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 85991,
@@ -3667,6 +3723,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 52223,
+      "num": 133370,
+      "word": "泽连斯基否决俄罗斯提议",
+      "onboard_time": 1755790342,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50758,
       "num": 170689,
       "word": "父婴室 男性育儿责任",
@@ -3859,14 +3923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39951,
-      "num": 159874,
-      "word": "无村民知晓杀了3人的凶手患精神病",
-      "onboard_time": 1755786563,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39320,
       "num": 220232,
       "word": "黄渤的脸承包今日所有笑点",
@@ -3972,7 +4028,7 @@
     },
     {
       "raw_hot": 26375,
-      "num": 583879,
+      "num": 741149,
       "word": "想快进到9月3日看阅兵",
       "onboard_time": 1755764363,
       "rank": 16,

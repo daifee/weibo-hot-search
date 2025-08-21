@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755790120165,
+  "endTime": 1755791266495,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1395,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1622456,
+      "num": 1398319,
+      "word": "费文典死了",
+      "onboard_time": 1755789564,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1619918,
       "num": 1619918,
       "word": "指示牌China写成Ching",
@@ -2043,14 +2051,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1398319,
-      "num": 1398319,
-      "word": "费文典死了",
-      "onboard_time": 1755789564,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1393198,
       "num": 467409,
       "word": "宋浩然因感情洁癖从不叫韩安冉老婆",
@@ -2188,7 +2188,7 @@
     },
     {
       "raw_hot": 1360930,
-      "num": 539770,
+      "num": 1167854,
       "word": "泡泡玛特",
       "onboard_time": 1755786024,
       "rank": 24,
@@ -13835,6 +13835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 384892,
+      "num": 384892,
+      "word": "JDG对战DRG",
+      "onboard_time": 1754119941,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 384868,
       "num": 207739,
       "word": "王力宏赛后发文",
@@ -16569,14 +16577,6 @@
       "onboard_time": 1755620181,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 310508,
-      "num": 310508,
-      "word": "JDG对战DRG",
-      "onboard_time": 1754119941,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 310480,
@@ -22611,6 +22611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 217149,
+      "num": 217149,
+      "word": "鞠婧祎画室",
+      "onboard_time": 1755786863,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217104,
       "num": 217104,
       "word": "锦月如歌云包场",
@@ -24121,14 +24129,6 @@
       "onboard_time": 1754742262,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 206816,
-      "num": 206816,
-      "word": "鞠婧祎画室",
-      "onboard_time": 1755786863,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 206722,
@@ -28633,6 +28633,14 @@
       "onboard_time": 1754126542,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 188239,
+      "num": 188239,
+      "word": "马嘉祺太稳了",
+      "onboard_time": 1755790882,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 188124,
@@ -33235,6 +33243,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 169042,
+      "num": 169042,
+      "word": "无村民知晓杀了3人的凶手患精神病",
+      "onboard_time": 1755786563,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169041,
       "num": 169041,
       "word": "王曼昱3比2长崎美柚",
@@ -33587,6 +33603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167289,
+      "num": 167289,
+      "word": "因二胎儿子跟母姓父亲起诉离婚",
+      "onboard_time": 1755788125,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167256,
       "num": 167256,
       "word": "罗小黑",
@@ -33753,6 +33777,14 @@
       "onboard_time": 1755343403,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166520,
+      "num": 166520,
+      "word": "刘耀文随舞跳了biteme",
+      "onboard_time": 1755790164,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 166518,
@@ -34929,14 +34961,6 @@
       "onboard_time": 1755170302,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 162259,
-      "num": 162259,
-      "word": "因二胎儿子跟母姓父亲起诉离婚",
-      "onboard_time": 1755788125,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162256,
@@ -36945,6 +36969,14 @@
       "onboard_time": 1755349285,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155959,
+      "num": 368680,
+      "word": "孙颖莎17连胜早田希娜",
+      "onboard_time": 1755790043,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 155955,
@@ -42937,6 +42969,14 @@
       "onboard_time": 1754195425,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139110,
+      "num": 139110,
+      "word": "一下子没有年龄焦虑了",
+      "onboard_time": 1755790224,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 139072,
@@ -51763,14 +51803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118767,
-      "num": 118767,
-      "word": "孙颖莎17连胜早田希娜",
-      "onboard_time": 1755790043,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118764,
       "num": 118764,
       "word": "绵阳警方辟谣校园霸凌者父母被抓",
@@ -54963,6 +54995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110943,
+      "num": 122670,
+      "word": "受胡雷资助的女孩不幸去世",
+      "onboard_time": 1755790342,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110931,
       "num": 110931,
       "word": "沈佳润05后营业原来是这样",
@@ -55161,6 +55201,14 @@
       "onboard_time": 1754566583,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110281,
+      "num": 112709,
+      "word": "银子 谁来赔这一生好光景",
+      "onboard_time": 1755787762,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 110272,
@@ -62043,6 +62091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86326,
+      "num": 168155,
+      "word": "12306为何在站台禁烟上如此冷淡僵硬",
+      "onboard_time": 1755790283,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 86264,
       "num": 230281,
       "word": "台风杨柳将再次登陆闽粤沿海",
@@ -67211,6 +67267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52223,
+      "num": 133370,
+      "word": "泽连斯基否决俄罗斯提议",
+      "onboard_time": 1755790342,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52056,
       "num": 52056,
       "word": "河南 基孔肯雅热传播风险区",
@@ -69265,14 +69329,6 @@
       "onboard_time": 1755386957,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 39951,
-      "num": 159874,
-      "word": "无村民知晓杀了3人的凶手患精神病",
-      "onboard_time": 1755786563,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39913,
@@ -71396,7 +71452,7 @@
     },
     {
       "raw_hot": 26375,
-      "num": 583879,
+      "num": 741149,
       "word": "想快进到9月3日看阅兵",
       "onboard_time": 1755764363,
       "rank": 16,
