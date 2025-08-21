@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755781596390,
+  "endTime": 1755783396131,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 2919598,
-      "num": 344865,
+      "num": 439752,
       "word": "胡先煦 李宛妲",
       "onboard_time": 1755777503,
       "rank": 10,
@@ -3171,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1121583,
+      "num": 728256,
+      "word": "李易峰涉多起司法案件",
+      "onboard_time": 1755778342,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1121040,
       "num": 1179366,
       "word": "三亚游客身体不适坐海边躺椅被催收费",
@@ -4419,6 +4427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 916779,
+      "num": 1146684,
+      "word": "刘涛 一念江南",
+      "onboard_time": 1755779363,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 915798,
       "num": 915798,
       "word": "绣绣怀孕",
@@ -5219,14 +5235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 818984,
-      "num": 1131037,
-      "word": "刘涛 一念江南",
-      "onboard_time": 1755779363,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 818441,
       "num": 818441,
       "word": "张雅钦鹿晗演唱会应援妆",
@@ -5779,14 +5787,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 767070,
-      "num": 728256,
-      "word": "李易峰涉多起司法案件",
-      "onboard_time": 1755778342,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 766939,
       "num": 664895,
       "word": "日本癌症突破性技术向中国开放",
@@ -5873,6 +5873,14 @@
       "onboard_time": 1755212717,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 760539,
+      "num": 420863,
+      "word": "确诊糖尿病前身体发出的信号",
+      "onboard_time": 1755776662,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 759482,
@@ -6209,14 +6217,6 @@
       "onboard_time": 1754899522,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 731371,
-      "num": 336405,
-      "word": "确诊糖尿病前身体发出的信号",
-      "onboard_time": 1755776662,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 730837,
@@ -6593,6 +6593,14 @@
       "onboard_time": 1754657483,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 707848,
+      "num": 312336,
+      "word": "胡先煦项链里有李宛妲照片",
+      "onboard_time": 1755778822,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 706632,
@@ -7651,6 +7659,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 640084,
+      "num": 640084,
+      "word": "黑龙江一恶势力团伙全员改判无罪",
+      "onboard_time": 1755778583,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 639289,
       "num": 270928,
       "word": "刘浩存换回微商头像",
@@ -8153,6 +8169,14 @@
       "onboard_time": 1755596063,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 611844,
+      "num": 468941,
+      "word": "素颜",
+      "onboard_time": 1755779902,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 611558,
@@ -10227,14 +10251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 511589,
-      "num": 312336,
-      "word": "胡先煦项链里有李宛妲照片",
-      "onboard_time": 1755778822,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 511371,
       "num": 372404,
       "word": "时代峰峻禁止中控",
@@ -11091,6 +11107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 474270,
+      "num": 402089,
+      "word": "李在明喂完夫人喂议员被妻子挡开",
+      "onboard_time": 1755778043,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 473752,
       "num": 473752,
       "word": "官方通报奔驰司机亮证逼迫让路事件",
@@ -11217,6 +11241,14 @@
       "onboard_time": 1754482883,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469027,
+      "num": 469027,
+      "word": "男子娶残障老婆最高可判死刑",
+      "onboard_time": 1755777982,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 469003,
@@ -12515,14 +12547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417932,
-      "num": 327788,
-      "word": "素颜",
-      "onboard_time": 1755779902,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 417607,
       "num": 231760,
       "word": "偶遇张艺兴排队买包子",
@@ -13185,6 +13209,14 @@
       "onboard_time": 1754887883,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399049,
+      "num": 399049,
+      "word": "严浩翔异瞳神父",
+      "onboard_time": 1755781042,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 398936,
@@ -14633,14 +14665,6 @@
       "onboard_time": 1754367923,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358693,
-      "num": 358693,
-      "word": "男子娶残障老婆最高可判死刑",
-      "onboard_time": 1755777982,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358682,
@@ -16355,14 +16379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312490,
-      "num": 312490,
-      "word": "李在明喂完夫人喂议员被妻子挡开",
-      "onboard_time": 1755778043,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 312268,
       "num": 312268,
       "word": "背娃送外卖妈妈称不再嫁人不合法",
@@ -16547,6 +16563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308896,
+      "num": 308896,
+      "word": "金泰熙因为育儿压力流泪",
+      "onboard_time": 1755781222,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308731,
       "num": 308731,
       "word": "店员回应男子误将660万彩票洗成渣",
@@ -16657,14 +16681,6 @@
       "onboard_time": 1754994323,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 306607,
-      "num": 347777,
-      "word": "黑龙江一恶势力团伙全员改判无罪",
-      "onboard_time": 1755778583,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306316,
@@ -18139,6 +18155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275590,
+      "num": 275590,
+      "word": "宋亚轩手语",
+      "onboard_time": 1755781885,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 275567,
       "num": 274371,
       "word": "黄怡慈退团",
@@ -19449,6 +19473,14 @@
       "onboard_time": 1754804003,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255338,
+      "num": 255338,
+      "word": "为什么酒店的被子塞那么紧",
+      "onboard_time": 1755780083,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 255120,
@@ -22843,6 +22875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214138,
+      "num": 214138,
+      "word": "每天一个俯卧撑摔了一年后",
+      "onboard_time": 1755779662,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 214016,
       "num": 337462,
       "word": "电影731揭开活体实验真相",
@@ -23299,6 +23339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210100,
+      "num": 210100,
+      "word": "李佳琦打破了六人定律",
+      "onboard_time": 1755780023,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210089,
       "num": 210089,
       "word": "谁来救救沈梦辰",
@@ -23553,14 +23601,6 @@
       "onboard_time": 1754114962,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208896,
-      "num": 208896,
-      "word": "严浩翔异瞳神父",
-      "onboard_time": 1755781042,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 208890,
@@ -24691,6 +24731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202936,
+      "num": 202936,
+      "word": "无座与二等座同价",
+      "onboard_time": 1755781283,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202923,
       "num": 202923,
       "word": "杨幂说会为女儿成为更好的人",
@@ -25547,6 +25595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199429,
+      "num": 199429,
+      "word": "孙颖莎稳稳进8强",
+      "onboard_time": 1755782185,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199297,
       "num": 199297,
       "word": "封大脚让人感觉像三伏天喝了碗凉水",
@@ -25729,14 +25785,6 @@
       "onboard_time": 1755564443,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198422,
-      "num": 198422,
-      "word": "为什么酒店的被子塞那么紧",
-      "onboard_time": 1755780083,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 198363,
@@ -27459,6 +27507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192302,
+      "num": 192302,
+      "word": "孙颖莎3比0早田希娜",
+      "onboard_time": 1755782244,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192293,
       "num": 192293,
       "word": "狼队第五人格",
@@ -28547,6 +28603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187718,
+      "num": 187718,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1754134522,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187630,
       "num": 187630,
       "word": "Never Enough",
@@ -28651,14 +28715,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 187137,
-      "num": 187137,
-      "word": "每天一个俯卧撑摔了一年后",
-      "onboard_time": 1755779662,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 187113,
       "num": 187113,
       "word": "突然get到了吴昕的美",
@@ -28705,14 +28761,6 @@
       "onboard_time": 1754562683,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186700,
-      "num": 186700,
-      "word": "李佳琦打破了六人定律",
-      "onboard_time": 1755780023,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 186661,
@@ -29073,6 +29121,14 @@
       "onboard_time": 1755347903,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 185511,
+      "num": 185511,
+      "word": "JDG对战DRG",
+      "onboard_time": 1754119941,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 185459,
@@ -30313,6 +30369,14 @@
       "onboard_time": 1754720304,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179777,
+      "num": 450096,
+      "word": "中方回应是否承认阿富汗临时政府",
+      "onboard_time": 1755781704,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179740,
@@ -33153,14 +33217,6 @@
       "onboard_time": 1754728042,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 168230,
-      "num": 168230,
-      "word": "金泰熙因为育儿压力流泪",
-      "onboard_time": 1755781222,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 168192,
@@ -36625,14 +36681,6 @@
       "onboard_time": 1754379443,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156069,
-      "num": 141051,
-      "word": "银河左岸音乐节",
-      "onboard_time": 1754134522,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 156018,
@@ -43147,14 +43195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137902,
-      "num": 137902,
-      "word": "JDG对战DRG",
-      "onboard_time": 1754119941,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 137871,
       "num": 137871,
       "word": "徐杰解说",
@@ -44859,6 +44899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133874,
+      "num": 133874,
+      "word": "孙颖莎圆圆脸大眼睛",
+      "onboard_time": 1755781463,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133873,
       "num": 133873,
       "word": "于子迪未来可期",
@@ -46201,6 +46249,14 @@
       "onboard_time": 1754376623,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130507,
+      "num": 130507,
+      "word": "朱雨玲0比3大藤沙月",
+      "onboard_time": 1755783023,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 130488,
@@ -48121,6 +48177,14 @@
       "onboard_time": 1754375123,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126567,
+      "num": 126567,
+      "word": "谢霆锋让阿Sa先充一年会员再说话",
+      "onboard_time": 1755783023,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 126561,
@@ -50195,6 +50259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121453,
+      "num": 121453,
+      "word": "刘耀文红色蕾丝透视衬衫",
+      "onboard_time": 1755783323,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121419,
       "num": 121419,
       "word": "苏新皓白的发光",
@@ -51057,14 +51129,6 @@
       "onboard_time": 1754043024,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119406,
-      "num": 119406,
-      "word": "孙颖莎圆圆脸大眼睛",
-      "onboard_time": 1755781463,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 119368,
@@ -60363,14 +60427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92996,
-      "num": 150252,
-      "word": "无座与二等座同价",
-      "onboard_time": 1755781283,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92991,
       "num": 92991,
       "word": "going人的要素此沙集齐了",
@@ -68963,6 +69019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38740,
+      "num": 123156,
+      "word": "向美高校索赔超7亿患癌学生发声",
+      "onboard_time": 1755783083,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 38729,
       "num": 145678,
       "word": "借宿被拒杀人案受害者家属发声",
@@ -69249,6 +69313,14 @@
       "onboard_time": 1754903123,
       "rank": 19,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 37093,
+      "num": 280529,
+      "word": "荣耀小折叠2亿超清自拍折么强",
+      "onboard_time": 1755781584,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 36950,
@@ -69667,6 +69739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34560,
+      "num": 211045,
+      "word": "热议站台是否该禁烟不是小题大做",
+      "onboard_time": 1755783083,
+      "rank": 24,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 34557,
       "num": 65872,
       "word": "下河电鱼身亡4名同伴赔偿13.5万",
@@ -69897,6 +69977,14 @@
       "onboard_time": 1754059403,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33075,
+      "num": 132963,
+      "word": "多地教培机构推出高中大学衔接班",
+      "onboard_time": 1755783144,
+      "rank": 39,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 33053,

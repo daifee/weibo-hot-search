@@ -1,0 +1,410 @@
+{
+  "runTime": 1755783396131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 916779,
+        "num": 1146684,
+        "word": "刘涛 一念江南",
+        "onboard_time": 1755779363,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 640084,
+        "num": 640084,
+        "word": "黑龙江一恶势力团伙全员改判无罪",
+        "onboard_time": 1755778583,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25549,
+        "num": 625893,
+        "word": "西藏自治区成立60周年",
+        "onboard_time": 1755748703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 618150,
+        "num": 618150,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1755779123,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1121583,
+        "num": 591783,
+        "word": "李易峰涉多起司法案件",
+        "onboard_time": 1755778342,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469027,
+        "num": 469027,
+        "word": "男子娶残障老婆最高可判死刑",
+        "onboard_time": 1755777982,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611844,
+        "num": 468941,
+        "word": "素颜",
+        "onboard_time": 1755779902,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 468305,
+        "num": 468305,
+        "word": "第一个发明虾滑宽面的是天才",
+        "onboard_time": 1755772042,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107104,
+        "num": 463697,
+        "word": "九三阅兵3名旗手平均身高189",
+        "onboard_time": 1755767123,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179777,
+        "num": 450096,
+        "word": "中方回应是否承认阿富汗临时政府",
+        "onboard_time": 1755781704,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2534698,
+        "num": 439752,
+        "word": "胡先煦 李宛妲",
+        "onboard_time": 1755777503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760539,
+        "num": 420863,
+        "word": "确诊糖尿病前身体发出的信号",
+        "onboard_time": 1755776662,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 474270,
+        "num": 402089,
+        "word": "李在明喂完夫人喂议员被妻子挡开",
+        "onboard_time": 1755778043,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 399049,
+        "num": 399049,
+        "word": "严浩翔异瞳神父",
+        "onboard_time": 1755781042,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308896,
+        "num": 308896,
+        "word": "金泰熙因为育儿压力流泪",
+        "onboard_time": 1755781222,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707848,
+        "num": 294940,
+        "word": "胡先煦项链里有李宛妲照片",
+        "onboard_time": 1755778822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369250,
+        "num": 290985,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1755776963,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37093,
+        "num": 280529,
+        "word": "荣耀小折叠2亿超清自拍折么强",
+        "onboard_time": 1755781584,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 275590,
+        "num": 275590,
+        "word": "宋亚轩手语",
+        "onboard_time": 1755781885,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255338,
+        "num": 255338,
+        "word": "为什么酒店的被子塞那么紧",
+        "onboard_time": 1755780083,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249207,
+        "num": 249207,
+        "word": "古偶终于轮到男主跳城楼了",
+        "onboard_time": 1755776301,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229793,
+        "num": 229793,
+        "word": "王传君神预言董璇张维伊",
+        "onboard_time": 1755765384,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214138,
+        "num": 214138,
+        "word": "每天一个俯卧撑摔了一年后",
+        "onboard_time": 1755779662,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 212667,
+        "num": 212667,
+        "word": "深圳地铁被嫌滂臭",
+        "onboard_time": 1755773061,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34560,
+        "num": 211045,
+        "word": "热议站台是否该禁烟不是小题大做",
+        "onboard_time": 1755783083,
+        "rank": 24,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 210100,
+        "num": 210100,
+        "word": "李佳琦打破了六人定律",
+        "onboard_time": 1755780023,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202936,
+        "num": 202936,
+        "word": "无座与二等座同价",
+        "onboard_time": 1755781283,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199429,
+        "num": 199429,
+        "word": "孙颖莎稳稳进8强",
+        "onboard_time": 1755782185,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192302,
+        "num": 192302,
+        "word": "孙颖莎3比0早田希娜",
+        "onboard_time": 1755782244,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187718,
+        "num": 187718,
+        "word": "银河左岸音乐节",
+        "onboard_time": 1755783083,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185511,
+        "num": 185511,
+        "word": "JDG对战DRG",
+        "onboard_time": 1755775342,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162742,
+        "num": 162742,
+        "word": "女子坠谷生还三天后却在家被烧死",
+        "onboard_time": 1755763462,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161753,
+        "num": 161753,
+        "word": "贺峻霖直播终于有外务了",
+        "onboard_time": 1755777382,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161222,
+        "num": 161222,
+        "word": "王鹤棣 三张照片六个自己",
+        "onboard_time": 1755780202,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159027,
+        "num": 159027,
+        "word": "徐艺洋为了黄子韬放弃工作",
+        "onboard_time": 1755758902,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147823,
+        "num": 147823,
+        "word": "川航回应旅客摆餐事件",
+        "onboard_time": 1755772522,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145569,
+        "num": 145569,
+        "word": "张维伊跳breaking",
+        "onboard_time": 1755780023,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142385,
+        "num": 142385,
+        "word": "梓渝音乐节",
+        "onboard_time": 1755783263,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133874,
+        "num": 133874,
+        "word": "孙颖莎圆圆脸大眼睛",
+        "onboard_time": 1755781463,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33075,
+        "num": 132963,
+        "word": "多地教培机构推出高中大学衔接班",
+        "onboard_time": 1755783144,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 132597,
+        "num": 132597,
+        "word": "杨幂怎么从生万物干到小时代了",
+        "onboard_time": 1755767543,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130507,
+        "num": 130507,
+        "word": "朱雨玲0比3大藤沙月",
+        "onboard_time": 1755783023,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129055,
+        "num": 129055,
+        "word": "单休 上6天发7天工资",
+        "onboard_time": 1755769222,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126567,
+        "num": 126567,
+        "word": "谢霆锋让阿Sa先充一年会员再说话",
+        "onboard_time": 1755783023,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38740,
+        "num": 123156,
+        "word": "向美高校索赔超7亿患癌学生发声",
+        "onboard_time": 1755783083,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122506,
+        "num": 122506,
+        "word": "成都AG维权声明",
+        "onboard_time": 1755780324,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121453,
+        "num": 121453,
+        "word": "刘耀文红色蕾丝透视衬衫",
+        "onboard_time": 1755783323,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119891,
+        "num": 119891,
+        "word": "恃宠",
+        "onboard_time": 1755780263,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 114849,
+        "num": 114849,
+        "word": "考上211不到一年后父母断供生活费",
+        "onboard_time": 1755766222,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 113967,
+        "num": 114641,
+        "word": "刘骏 费加罗",
+        "onboard_time": 1755768143,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席西藏自治区成立60周年庆祝大会#"
+    }
+  }
+}

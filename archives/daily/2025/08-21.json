@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755781596390,
+  "endTime": 1755783396131,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2919598,
-      "num": 344865,
+      "num": 439752,
       "word": "胡先煦 李宛妲",
       "onboard_time": 1755777503,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1121583,
+      "num": 728256,
+      "word": "李易峰涉多起司法案件",
+      "onboard_time": 1755778342,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1050024,
       "num": 253303,
       "word": "被父亲毒杀的兄妹死前抓烂枕头",
@@ -105,6 +113,14 @@
       "onboard_time": 1755761482,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 916779,
+      "num": 1146684,
+      "word": "刘涛 一念江南",
+      "onboard_time": 1755779363,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 893784,
@@ -195,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 818984,
-      "num": 1131037,
-      "word": "刘涛 一念江南",
-      "onboard_time": 1755779363,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 801415,
       "num": 801415,
       "word": "12306为何在站台禁烟问题上反应冷淡",
@@ -227,12 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 767070,
-      "num": 728256,
-      "word": "李易峰涉多起司法案件",
-      "onboard_time": 1755778342,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 760539,
+      "num": 420863,
+      "word": "确诊糖尿病前身体发出的信号",
+      "onboard_time": 1755776662,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 751289,
@@ -257,14 +265,6 @@
       "onboard_time": 1755697408,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 731371,
-      "num": 336405,
-      "word": "确诊糖尿病前身体发出的信号",
-      "onboard_time": 1755776662,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 721612,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 707848,
+      "num": 312336,
+      "word": "胡先煦项链里有李宛妲照片",
+      "onboard_time": 1755778822,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 700034,
       "num": 700034,
       "word": "官方致歉老人未去世就要求火化",
@@ -323,12 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 640084,
+      "num": 640084,
+      "word": "黑龙江一恶势力团伙全员改判无罪",
+      "onboard_time": 1755778583,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 636321,
       "num": 636321,
       "word": "九三阅兵3名旗手平均身高189",
       "onboard_time": 1755767123,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 611844,
+      "num": 468941,
+      "word": "素颜",
+      "onboard_time": 1755779902,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 606388,
@@ -435,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 511589,
-      "num": 312336,
-      "word": "胡先煦项链里有李宛妲照片",
-      "onboard_time": 1755778822,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 510801,
       "num": 244695,
       "word": "135岁的老太太",
@@ -489,6 +505,22 @@
       "onboard_time": 1755733760,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 474270,
+      "num": 402089,
+      "word": "李在明喂完夫人喂议员被妻子挡开",
+      "onboard_time": 1755778043,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 469027,
+      "num": 469027,
+      "word": "男子娶残障老婆最高可判死刑",
+      "onboard_time": 1755777982,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 468480,
@@ -547,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 417932,
-      "num": 327788,
-      "word": "素颜",
-      "onboard_time": 1755779902,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 417607,
       "num": 231760,
       "word": "偶遇张艺兴排队买包子",
@@ -593,6 +617,14 @@
       "onboard_time": 1755747623,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 399049,
+      "num": 399049,
+      "word": "严浩翔异瞳神父",
+      "onboard_time": 1755781042,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 396636,
@@ -683,14 +715,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 358693,
-      "num": 358693,
-      "word": "男子娶残障老婆最高可判死刑",
-      "onboard_time": 1755777982,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 357681,
       "num": 218083,
       "word": "时代少年团爱你爱我手势舞",
@@ -779,14 +803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 312490,
-      "num": 312490,
-      "word": "李在明喂完夫人喂议员被妻子挡开",
-      "onboard_time": 1755778043,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 311698,
       "num": 252284,
       "word": "周也 帝女气场",
@@ -803,20 +819,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308896,
+      "num": 308896,
+      "word": "金泰熙因为育儿压力流泪",
+      "onboard_time": 1755781222,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307482,
       "num": 307482,
       "word": "国乒男单到底怎么了",
       "onboard_time": 1755752125,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306607,
-      "num": 347777,
-      "word": "黑龙江一恶势力团伙全员改判无罪",
-      "onboard_time": 1755778583,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305586,
@@ -883,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275590,
+      "num": 275590,
+      "word": "宋亚轩手语",
+      "onboard_time": 1755781885,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 270888,
       "num": 253805,
       "word": "网红三哥资助孟加拉贫困户反被勒索",
@@ -921,6 +945,14 @@
       "onboard_time": 1755759683,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255338,
+      "num": 255338,
+      "word": "为什么酒店的被子塞那么紧",
+      "onboard_time": 1755780083,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 252750,
@@ -1051,12 +1083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214138,
+      "num": 214138,
+      "word": "每天一个俯卧撑摔了一年后",
+      "onboard_time": 1755779662,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 212381,
       "num": 205844,
       "word": "我住过一梯一户的大平层",
       "onboard_time": 1755740902,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210100,
+      "num": 210100,
+      "word": "李佳琦打破了六人定律",
+      "onboard_time": 1755780023,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 209337,
@@ -1073,14 +1121,6 @@
       "onboard_time": 1755703524,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 208896,
-      "num": 208896,
-      "word": "严浩翔异瞳神父",
-      "onboard_time": 1755781042,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 208228,
@@ -1123,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202936,
+      "num": 202936,
+      "word": "无座与二等座同价",
+      "onboard_time": 1755781283,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199587,
       "num": 231142,
       "word": "九三阅兵一整个期待住了",
@@ -1139,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199429,
+      "num": 199429,
+      "word": "孙颖莎稳稳进8强",
+      "onboard_time": 1755782185,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199099,
       "num": 199099,
       "word": "曝黄正音贪污公款43亿炒币",
@@ -1153,14 +1209,6 @@
       "onboard_time": 1755768744,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198422,
-      "num": 198422,
-      "word": "为什么酒店的被子塞那么紧",
-      "onboard_time": 1755780083,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 198363,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1755704844,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192302,
+      "num": 192302,
+      "word": "孙颖莎3比0早田希娜",
+      "onboard_time": 1755782244,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 191614,
@@ -1315,28 +1371,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187718,
+      "num": 187718,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1755783083,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187254,
       "num": 182796,
       "word": "王鹤棣 三张照片六个自己",
       "onboard_time": 1755780202,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187137,
-      "num": 187137,
-      "word": "每天一个俯卧撑摔了一年后",
-      "onboard_time": 1755779662,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 186700,
-      "num": 186700,
-      "word": "李佳琦打破了六人定律",
-      "onboard_time": 1755780023,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 186342,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1755771923,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 185511,
+      "num": 185511,
+      "word": "JDG对战DRG",
+      "onboard_time": 1755775342,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 185087,
@@ -1449,6 +1505,14 @@
       "onboard_time": 1755779841,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179777,
+      "num": 450096,
+      "word": "中方回应是否承认阿富汗临时政府",
+      "onboard_time": 1755781704,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176949,
@@ -1585,14 +1649,6 @@
       "onboard_time": 1755779782,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168230,
-      "num": 168230,
-      "word": "金泰熙因为育儿压力流泪",
-      "onboard_time": 1755781222,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 166703,
@@ -2019,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142385,
+      "num": 142385,
+      "word": "梓渝音乐节",
+      "onboard_time": 1755783263,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142283,
       "num": 276263,
       "word": "奔驰车逼停摩托双方自愿达成谅解",
@@ -2179,6 +2243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133874,
+      "num": 133874,
+      "word": "孙颖莎圆圆脸大眼睛",
+      "onboard_time": 1755781463,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133430,
       "num": 133430,
       "word": "绣绣意外流产了",
@@ -2265,6 +2337,14 @@
       "onboard_time": 1755748583,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130507,
+      "num": 130507,
+      "word": "朱雨玲0比3大藤沙月",
+      "onboard_time": 1755783023,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 130488,
@@ -2395,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126567,
+      "num": 126567,
+      "word": "谢霆锋让阿Sa先充一年会员再说话",
+      "onboard_time": 1755783023,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126263,
       "num": 126263,
       "word": "章昊说惜败桃黑黑老师",
@@ -2523,6 +2611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121453,
+      "num": 121453,
+      "word": "刘耀文红色蕾丝透视衬衫",
+      "onboard_time": 1755783323,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121419,
       "num": 121419,
       "word": "苏新皓白的发光",
@@ -2569,14 +2665,6 @@
       "onboard_time": 1755750562,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119406,
-      "num": 119406,
-      "word": "孙颖莎圆圆脸大眼睛",
-      "onboard_time": 1755781463,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 119206,
@@ -2739,14 +2827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101656,
-      "num": 101656,
-      "word": "JDG对战DRG",
-      "onboard_time": 1755775342,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 101601,
       "num": 165948,
       "word": "小鹏P7全球首发冰雪AES",
@@ -2857,14 +2937,6 @@
       "onboard_time": 1755745522,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92996,
-      "num": 150252,
-      "word": "无座与二等座同价",
-      "onboard_time": 1755781283,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92900,
@@ -3363,6 +3435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38740,
+      "num": 123156,
+      "word": "向美高校索赔超7亿患癌学生发声",
+      "onboard_time": 1755783083,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 38526,
       "num": 254217,
       "word": "MR头显会是下一代智能终端吗",
@@ -3395,12 +3475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37093,
+      "num": 280529,
+      "word": "荣耀小折叠2亿超清自拍折么强",
+      "onboard_time": 1755781584,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36539,
       "num": 156053,
       "word": "男子好心留宿好友惨被偷家",
       "onboard_time": 1755764184,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34560,
+      "num": 211045,
+      "word": "热议站台是否该禁烟不是小题大做",
+      "onboard_time": 1755783083,
+      "rank": 24,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 34378,
@@ -3417,6 +3513,14 @@
       "onboard_time": 1755771322,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33075,
+      "num": 132963,
+      "word": "多地教培机构推出高中大学衔接班",
+      "onboard_time": 1755783144,
+      "rank": 39,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 31127,
