@@ -1,0 +1,410 @@
+{
+  "runTime": 1755751513692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1286615,
+        "num": 1286615,
+        "word": "高铁站台禁烟比禁止吃泡面更紧迫",
+        "onboard_time": 1755746182,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718669,
+        "num": 718669,
+        "word": "赴山海",
+        "onboard_time": 1755749724,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83143,
+        "num": 485600,
+        "word": "西藏自治区成立60周年",
+        "onboard_time": 1755748703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394860,
+        "num": 394860,
+        "word": "一日店长凭什么让年轻人集体上头",
+        "onboard_time": 1755743180,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360476,
+        "num": 360476,
+        "word": "杨幂演出了母爱无声却震耳欲聋",
+        "onboard_time": 1755747083,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228991,
+        "num": 228991,
+        "word": "12306回应网友提议站台等候区禁烟",
+        "onboard_time": 1755706223,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228842,
+        "num": 228842,
+        "word": "阅兵活动3名旗手",
+        "onboard_time": 1755744441,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200978,
+        "num": 200978,
+        "word": "布达拉宫广场升国旗奏国歌",
+        "onboard_time": 1755744142,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198563,
+        "num": 198563,
+        "word": "官方致歉老人未去世就要求火化",
+        "onboard_time": 1755748943,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 198363,
+        "num": 198363,
+        "word": "王俊凯易烊千玺电影同时入围金鹿奖",
+        "onboard_time": 1755750804,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1144637,
+        "num": 197935,
+        "word": "7岁女儿被父亲毒杀眼睛都没闭上",
+        "onboard_time": 1755743541,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1060163,
+        "num": 197711,
+        "word": "原来关晓彤才是林黛玉最初人选",
+        "onboard_time": 1755743361,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197327,
+        "num": 197327,
+        "word": "千百惠去世",
+        "onboard_time": 1755696149,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721612,
+        "num": 196925,
+        "word": "月入一万花一万的真实生活",
+        "onboard_time": 1755747802,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 490797,
+        "num": 194429,
+        "word": "第一次看不上明星老公",
+        "onboard_time": 1755744562,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398547,
+        "num": 192100,
+        "word": "柳宗源晒迪丽热巴",
+        "onboard_time": 1755745282,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389870,
+        "num": 190914,
+        "word": "桃黑黑 国草",
+        "onboard_time": 1755750503,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190316,
+        "num": 190316,
+        "word": "TMEA",
+        "onboard_time": 1755750263,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94106,
+        "num": 190292,
+        "word": "夏某某被行政拘留10日",
+        "onboard_time": 1755751284,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13142,
+        "num": 190257,
+        "word": "沃尔玛冷冻虾检出放射性物质",
+        "onboard_time": 1755697887,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 743941,
+        "num": 190248,
+        "word": "金价",
+        "onboard_time": 1755741561,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 297031,
+        "num": 190205,
+        "word": "刘耀文没想到腹肌花絮发出去了",
+        "onboard_time": 1755745882,
+        "rank": 21,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 264656,
+        "num": 190194,
+        "word": "敖瑞鹏烧烤吃多了快给干医院去了",
+        "onboard_time": 1755738141,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741442,
+        "num": 190166,
+        "word": "被父亲毒杀的兄妹死前抓烂枕头",
+        "onboard_time": 1755743422,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392006,
+        "num": 190115,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1755747623,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208228,
+        "num": 190089,
+        "word": "暑期爆款剧王",
+        "onboard_time": 1755750924,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203660,
+        "num": 190075,
+        "word": "韩安冉回应流产",
+        "onboard_time": 1755739342,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202628,
+        "num": 190041,
+        "word": "小酒窝也认识时代少年团",
+        "onboard_time": 1755750024,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190017,
+        "num": 190017,
+        "word": "史彭元 闷声倒大霉",
+        "onboard_time": 1755750624,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45268,
+        "num": 189165,
+        "word": "宋亚轩太会撩了",
+        "onboard_time": 1755751284,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142283,
+        "num": 188439,
+        "word": "奔驰车逼停摩托双方自愿达成谅解",
+        "onboard_time": 1755750083,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188402,
+        "num": 188402,
+        "word": "警方再通报奔驰车逼停摩托车",
+        "onboard_time": 1755748403,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 179680,
+        "num": 179680,
+        "word": "韩国网民碰瓷黑神话钟馗",
+        "onboard_time": 1755745403,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173087,
+        "num": 173087,
+        "word": "得到马嘉祺饭撒的红色恐龙",
+        "onboard_time": 1755750562,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90835,
+        "num": 165725,
+        "word": "九三阅兵一整个期待住了",
+        "onboard_time": 1755741022,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163228,
+        "num": 163228,
+        "word": "结婚基础离婚就不基础",
+        "onboard_time": 1755750683,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162048,
+        "num": 162048,
+        "word": "短剧版鬼怪来了",
+        "onboard_time": 1755744502,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164358,
+        "num": 162016,
+        "word": "卡琳娜女儿揉西近照",
+        "onboard_time": 1755743301,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42747,
+        "num": 161975,
+        "word": "李沁 宝藏女孩",
+        "onboard_time": 1755751226,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37770,
+        "num": 161925,
+        "word": "村民救人下山收6万",
+        "onboard_time": 1755750924,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154829,
+        "num": 161897,
+        "word": "詹姆斯中国行官宣",
+        "onboard_time": 1755749182,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161872,
+        "num": 161872,
+        "word": "田曦薇想睡觉许凯就盖被子",
+        "onboard_time": 1755750744,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156324,
+        "num": 156324,
+        "word": "内场喝酒的迪丽热巴",
+        "onboard_time": 1755751226,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154204,
+        "num": 154204,
+        "word": "终于知道为什么很少人拍元朝电视剧了",
+        "onboard_time": 1755748163,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148519,
+        "num": 148519,
+        "word": "子夜归 又是你洋葱哥",
+        "onboard_time": 1755750444,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137055,
+        "num": 137055,
+        "word": "4399都要从他这进货",
+        "onboard_time": 1755749002,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128982,
+        "num": 128982,
+        "word": "与君朝暮开播",
+        "onboard_time": 1755749064,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128424,
+        "num": 128424,
+        "word": "广东人可以穿着拖鞋做一切事情",
+        "onboard_time": 1755749244,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119206,
+        "num": 127498,
+        "word": "A股半日成交额1.57万亿",
+        "onboard_time": 1755750863,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114069,
+        "num": 127372,
+        "word": "小番茄孙颖莎",
+        "onboard_time": 1755750503,
+        "rank": 49,
+        "category": "体育,其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席西藏自治区成立60周年庆祝大会#"
+    }
+  }
+}

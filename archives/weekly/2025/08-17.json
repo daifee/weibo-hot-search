@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755750669907,
+  "endTime": 1755751513692,
   "band_list": [
     {
       "raw_hot": 12998862,
@@ -1251,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 721612,
+      "num": 266274,
+      "word": "月入一万花一万的真实生活",
+      "onboard_time": 1755747802,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 720302,
       "num": 321074,
       "word": "奚梦瑶5岁儿子身高",
@@ -1265,6 +1273,14 @@
       "onboard_time": 1755504322,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 718669,
+      "num": 718669,
+      "word": "赴山海",
+      "onboard_time": 1755749724,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 717747,
@@ -1520,14 +1536,6 @@
       "word": "穿外裤不能上床真的有必要吗",
       "onboard_time": 1755411142,
       "rank": 11,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 649221,
-      "num": 266274,
-      "word": "月入一万花一万的真实生活",
-      "onboard_time": 1755747802,
-      "rank": 31,
       "category": "情感"
     },
     {
@@ -2787,6 +2795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 389870,
+      "num": 202382,
+      "word": "桃黑黑 国草",
+      "onboard_time": 1755750503,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 389802,
       "num": 389802,
       "word": "子夜归热度",
@@ -3049,14 +3065,6 @@
       "onboard_time": 1755434962,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 354014,
-      "num": 354014,
-      "word": "赴山海",
-      "onboard_time": 1755749724,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 353275,
@@ -5139,6 +5147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208228,
+      "num": 190089,
+      "word": "暑期爆款剧王",
+      "onboard_time": 1755750924,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208208,
       "num": 208208,
       "word": "张真源全英文solo好权威",
@@ -5355,20 +5371,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202628,
+      "num": 190041,
+      "word": "小酒窝也认识时代少年团",
+      "onboard_time": 1755750024,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202598,
       "num": 196856,
       "word": "蓝盈莹说银子是苦难中开出的花",
       "onboard_time": 1755521482,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202382,
-      "num": 202382,
-      "word": "桃黑黑 国草",
-      "onboard_time": 1755750503,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 202373,
@@ -5619,12 +5635,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198563,
+      "num": 198563,
+      "word": "官方致歉老人未去世就要求火化",
+      "onboard_time": 1755748943,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 198481,
       "num": 198481,
       "word": "管乐谈和前任分手原因",
       "onboard_time": 1755564443,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198363,
+      "num": 198363,
+      "word": "王俊凯易烊千玺电影同时入围金鹿奖",
+      "onboard_time": 1755750804,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 198313,
@@ -6123,6 +6155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190316,
+      "num": 195815,
+      "word": "TMEA",
+      "onboard_time": 1755750263,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190241,
       "num": 244602,
       "word": "美俄会晤机密文件疑泄露",
@@ -6136,6 +6176,14 @@
       "word": "黄安发布讣告",
       "onboard_time": 1755699148,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190017,
+      "num": 190017,
+      "word": "史彭元 闷声倒大霉",
+      "onboard_time": 1755750624,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -6241,6 +6289,14 @@
       "onboard_time": 1755691344,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 188402,
+      "num": 188402,
+      "word": "警方再通报奔驰车逼停摩托车",
+      "onboard_time": 1755748403,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 188095,
@@ -6569,14 +6625,6 @@
       "onboard_time": 1755597323,
       "rank": 17,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 180355,
-      "num": 195815,
-      "word": "TMEA",
-      "onboard_time": 1755750263,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 180310,
@@ -7083,6 +7131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 173087,
+      "num": 173087,
+      "word": "得到马嘉祺饭撒的红色恐龙",
+      "onboard_time": 1755750562,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173045,
       "num": 173045,
       "word": "孙颖莎王曼昱vs吴咏琳单晓娜",
@@ -7105,14 +7161,6 @@
       "onboard_time": 1755614186,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172386,
-      "num": 194296,
-      "word": "官方致歉老人未去世就要求火化",
-      "onboard_time": 1755748943,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 172361,
@@ -7257,14 +7305,6 @@
       "onboard_time": 1755489443,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169856,
-      "num": 169856,
-      "word": "警方再通报奔驰车逼停摩托车",
-      "onboard_time": 1755748403,
-      "rank": 44,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 169417,
@@ -7611,6 +7651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163228,
+      "num": 163228,
+      "word": "结婚基础离婚就不基础",
+      "onboard_time": 1755750683,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163111,
       "num": 163111,
       "word": "严浩翔shake封面",
@@ -7673,6 +7721,14 @@
       "onboard_time": 1755439404,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161872,
+      "num": 161872,
+      "word": "田曦薇想睡觉许凯就盖被子",
+      "onboard_time": 1755750744,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 161861,
@@ -8025,6 +8081,14 @@
       "onboard_time": 1755673281,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156324,
+      "num": 156324,
+      "word": "内场喝酒的迪丽热巴",
+      "onboard_time": 1755751226,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156216,
@@ -8481,6 +8545,14 @@
       "onboard_time": 1755601827,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 148519,
+      "num": 171113,
+      "word": "子夜归 又是你洋葱哥",
+      "onboard_time": 1755750444,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 148386,
@@ -9041,6 +9113,14 @@
       "onboard_time": 1755695008,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142283,
+      "num": 276263,
+      "word": "奔驰车逼停摩托双方自愿达成谅解",
+      "onboard_time": 1755750083,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142280,
@@ -10067,14 +10147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130595,
-      "num": 171113,
-      "word": "子夜归 又是你洋葱哥",
-      "onboard_time": 1755750444,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130521,
       "num": 130521,
       "word": "灿如繁星",
@@ -10483,14 +10555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 126823,
-      "num": 126823,
-      "word": "小酒窝也认识时代少年团",
-      "onboard_time": 1755750024,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126717,
       "num": 132697,
       "word": "西湖 电瓶车刺客",
@@ -10811,22 +10875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122339,
-      "num": 122339,
-      "word": "史彭元 闷声倒大霉",
-      "onboard_time": 1755750624,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 122230,
-      "num": 122230,
-      "word": "得到马嘉祺饭撒的红色恐龙",
-      "onboard_time": 1755750562,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 122136,
       "num": 122136,
       "word": "怎么小狗也喜欢霸王茶姬",
@@ -10924,7 +10972,7 @@
     },
     {
       "raw_hot": 120648,
-      "num": 120648,
+      "num": 127372,
       "word": "小番茄孙颖莎",
       "onboard_time": 1755750503,
       "rank": 45,
@@ -11065,6 +11113,14 @@
       "onboard_time": 1755411381,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119206,
+      "num": 127498,
+      "word": "A股半日成交额1.57万亿",
+      "onboard_time": 1755750863,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 119161,
@@ -12611,14 +12667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99869,
-      "num": 276263,
-      "word": "奔驰车逼停摩托双方自愿达成谅解",
-      "onboard_time": 1755750083,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99820,
       "num": 99820,
       "word": "王力宏任贤齐给我整哪年来了",
@@ -13000,6 +13048,14 @@
       "word": "22年抚养两子均非亲生男子发声",
       "onboard_time": 1755675083,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94106,
+      "num": 190292,
+      "word": "夏某某被行政拘留10日",
+      "onboard_time": 1755751284,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -13523,6 +13579,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 83143,
+      "num": 485600,
+      "word": "西藏自治区成立60周年",
+      "onboard_time": 1755748703,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82887,
       "num": 82887,
       "word": "稻米节",
@@ -13577,14 +13641,6 @@
       "onboard_time": 1755697408,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 81810,
-      "num": 431250,
-      "word": "西藏自治区成立60周年",
-      "onboard_time": 1755748703,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81496,
@@ -14947,6 +15003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45268,
+      "num": 189165,
+      "word": "宋亚轩太会撩了",
+      "onboard_time": 1755751284,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 45046,
       "num": 45046,
       "word": "LPL",
@@ -15121,6 +15185,14 @@
       "onboard_time": 1755499462,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42747,
+      "num": 161975,
+      "word": "李沁 宝藏女孩",
+      "onboard_time": 1755751226,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 42710,
@@ -15377,6 +15449,14 @@
       "onboard_time": 1755682823,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37770,
+      "num": 161925,
+      "word": "村民救人下山收6万",
+      "onboard_time": 1755750924,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37661,
@@ -16299,6 +16379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13142,
+      "num": 190257,
+      "word": "沃尔玛冷冻虾检出放射性物质",
+      "onboard_time": 1755697887,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 13097,
       "num": 44244,
       "word": "描绘新时代西藏发展新画卷",
@@ -16435,6 +16523,9 @@
     },
     {
       "word": "#西藏自治区成立60周年庆祝大会举行#"
+    },
+    {
+      "word": "#习近平出席西藏自治区成立60周年庆祝大会#"
     }
   ]
 }
