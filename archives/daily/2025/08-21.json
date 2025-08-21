@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755769324652,
+  "endTime": 1755772090451,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 970069,
+      "num": 229015,
+      "word": "单休 上6天发7天工资",
+      "onboard_time": 1755769222,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 936627,
       "num": 488126,
       "word": "胡先煦坐了近五十个小时飞机",
@@ -97,6 +105,14 @@
       "onboard_time": 1755768143,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 880199,
+      "num": 1140831,
+      "word": "考上211不到一年后父母断供生活费",
+      "onboard_time": 1755766222,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 870945,
@@ -227,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 636321,
+      "num": 636321,
+      "word": "九三阅兵3名旗手平均身高189",
+      "onboard_time": 1755767123,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 606388,
       "num": 264486,
       "word": "第一次看不上明星老公",
@@ -313,14 +337,6 @@
       "onboard_time": 1755741501,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531625,
-      "num": 531625,
-      "word": "考上211不到一年后父母断供生活费",
-      "onboard_time": 1755766222,
-      "rank": 9,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 514920,
@@ -411,12 +427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 433128,
-      "num": 433128,
-      "word": "九三阅兵3名旗手平均身高189",
-      "onboard_time": 1755767123,
-      "rank": 15,
-      "category": "国内时政"
+      "raw_hot": 439397,
+      "num": 439397,
+      "word": "张元英怎么美成这样",
+      "onboard_time": 1755768982,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 429551,
@@ -795,14 +811,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 232196,
-      "num": 178025,
-      "word": "单休 上6天发7天工资",
-      "onboard_time": 1755769222,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 231293,
       "num": 173765,
       "word": "芭莎总监评热巴稳定内核",
@@ -833,6 +841,14 @@
       "onboard_time": 1755760283,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226953,
+      "num": 226953,
+      "word": "平台通报农村成哥情况",
+      "onboard_time": 1755770003,
+      "rank": 15,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 222657,
@@ -881,6 +897,14 @@
       "onboard_time": 1755740902,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210747,
+      "num": 227077,
+      "word": "内娱终于替缝纫机发声了",
+      "onboard_time": 1755771443,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 209337,
@@ -1043,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189671,
+      "num": 146490,
+      "word": "抖音回应网红娶三个残障老婆",
+      "onboard_time": 1755771623,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188617,
       "num": 188617,
       "word": "刘轩丞精彩OK",
@@ -1115,12 +1147,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177598,
-      "num": 175033,
-      "word": "张元英怎么美成这样",
-      "onboard_time": 1755768982,
-      "rank": 33,
-      "category": "演出"
+      "raw_hot": 177391,
+      "num": 177391,
+      "word": "拉宏桑相亲后续",
+      "onboard_time": 1755771923,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 176949,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1755766463,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 175112,
+      "num": 175112,
+      "word": "刘耀文跳刀马刀马",
+      "onboard_time": 1755770723,
+      "rank": 23,
+      "category": "音乐,演出"
     },
     {
       "raw_hot": 175053,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1755761844,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170671,
+      "num": 170671,
+      "word": "Gr对战MRC",
+      "onboard_time": 1755765924,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 170667,
@@ -1355,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155704,
+      "num": 155704,
+      "word": "子夜归",
+      "onboard_time": 1755771863,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154956,
       "num": 219086,
       "word": "我的职综白月光回来了",
@@ -1417,14 +1473,6 @@
       "onboard_time": 1755750444,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146627,
-      "num": 146627,
-      "word": "Gr对战MRC",
-      "onboard_time": 1755765924,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 146322,
@@ -1563,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141550,
+      "num": 141550,
+      "word": "吴宣仪 谁能想到我能赢了",
+      "onboard_time": 1755771443,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141025,
       "num": 141025,
       "word": "霍建华被搏忆全员做局",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1755748163,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135616,
+      "num": 135616,
+      "word": "甲亢哥带火毛肚外国博主追着吃",
+      "onboard_time": 1755771801,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 135585,
@@ -1707,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131577,
+      "num": 131577,
+      "word": "第一个发明虾滑宽面的是天才",
+      "onboard_time": 1755772042,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131147,
       "num": 131147,
       "word": "因父母求子被砍手女生的现状",
@@ -1737,6 +1809,14 @@
       "onboard_time": 1755759623,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129837,
+      "num": 226284,
+      "word": "董璇你看看人金莎",
+      "onboard_time": 1755771322,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 129733,
@@ -1779,6 +1859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128709,
+      "num": 128709,
+      "word": "脂包骨身材的7个特征",
+      "onboard_time": 1755769341,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128569,
       "num": 128569,
       "word": "女子不满桌面未收拾咆哮大闹麦当劳",
@@ -1819,6 +1907,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 127239,
+      "num": 127239,
+      "word": "体育外卖火了",
+      "onboard_time": 1755770123,
+      "rank": 40,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 126698,
       "num": 126698,
       "word": "韩国网红买切糕被坑",
@@ -1857,6 +1953,14 @@
       "onboard_time": 1755692905,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125128,
+      "num": 125128,
+      "word": "罗予彤猜出了永夜星河",
+      "onboard_time": 1755771742,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 124390,
@@ -1939,6 +2043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120077,
+      "num": 152802,
+      "word": "丁真火了五年后发觉自己很陌生",
+      "onboard_time": 1755769884,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119952,
       "num": 119952,
       "word": "曹格儿子已经17岁了",
@@ -1961,6 +2073,14 @@
       "onboard_time": 1755737061,
       "rank": 37,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 119055,
+      "num": 119055,
+      "word": "DeepSeek9月6日起取消夜间优惠",
+      "onboard_time": 1755770123,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 119030,
@@ -1993,6 +2113,30 @@
       "onboard_time": 1755741022,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114343,
+      "num": 144801,
+      "word": "武大教授毒品犯罪论文引争议",
+      "onboard_time": 1755768863,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112245,
+      "num": 122939,
+      "word": "KPL",
+      "onboard_time": 1755770423,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 111154,
+      "num": 111154,
+      "word": "东方风云榜",
+      "onboard_time": 1755769582,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 110985,
@@ -2259,6 +2403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 79553,
+      "num": 148794,
+      "word": "女明星集体回春的秘密",
+      "onboard_time": 1755770782,
+      "rank": 29,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 77027,
       "num": 77027,
       "word": "西藏自治区成立60周年庆祝活动",
@@ -2345,6 +2497,14 @@
       "onboard_time": 1755731058,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 61682,
+      "num": 229589,
+      "word": "警犬找回走失老人被奖3箱好吃的",
+      "onboard_time": 1755771683,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 61040,
@@ -2451,6 +2611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48401,
+      "num": 250848,
+      "word": "vivoVision让头号玩家走进现实",
+      "onboard_time": 1755768263,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 48009,
       "num": 66486,
       "word": "周也 也人追剧又唱歌",
@@ -2473,14 +2641,6 @@
       "onboard_time": 1755765083,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47545,
-      "num": 250848,
-      "word": "vivoVision让头号玩家走进现实",
-      "onboard_time": 1755768263,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 47249,
@@ -2563,6 +2723,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39583,
+      "num": 155034,
+      "word": "奥迪E5现已到店",
+      "onboard_time": 1755771923,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 39320,
+      "num": 220232,
+      "word": "黄渤的脸承包今日所有笑点",
+      "onboard_time": 1755770782,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38526,
       "num": 254217,
       "word": "MR头显会是下一代智能终端吗",
@@ -2603,19 +2779,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 33817,
+      "num": 127460,
+      "word": "用AI造假图仅退款",
+      "onboard_time": 1755771322,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31127,
       "num": 394049,
       "word": "开始盼九三阅兵了",
       "onboard_time": 1755678083,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30839,
-      "num": 144801,
-      "word": "武大教授毒品犯罪论文引争议",
-      "onboard_time": 1755768863,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2737,6 +2913,14 @@
       "onboard_time": 1755687442,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18298,
+      "num": 127823,
+      "word": "曝黄子佼仍住豪宅开豪车",
+      "onboard_time": 1755771863,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 17233,
