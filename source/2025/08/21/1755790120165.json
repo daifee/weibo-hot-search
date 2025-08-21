@@ -1,0 +1,410 @@
+{
+  "runTime": 1755790120165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1398319,
+        "num": 1398319,
+        "word": "费文典死了",
+        "onboard_time": 1755789564,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 783878,
+        "num": 783878,
+        "word": "无座与二等座同价",
+        "onboard_time": 1755781283,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26375,
+        "num": 583879,
+        "word": "想快进到9月3日看阅兵",
+        "onboard_time": 1755764363,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1360930,
+        "num": 539770,
+        "word": "泡泡玛特",
+        "onboard_time": 1755786024,
+        "rank": 3,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 829428,
+        "num": 529066,
+        "word": "虞书欣 一念江南",
+        "onboard_time": 1755784404,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486877,
+        "num": 486877,
+        "word": "12306回应无座与二等座同价质疑",
+        "onboard_time": 1755785785,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541325,
+        "num": 484265,
+        "word": "绣绣大脚的第二个孩子",
+        "onboard_time": 1755787344,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479934,
+        "num": 479934,
+        "word": "黑龙江一恶势力团伙全员改判无罪",
+        "onboard_time": 1755778583,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412745,
+        "num": 412745,
+        "word": "留学生遭电诈跳楼身亡家属发声",
+        "onboard_time": 1755784044,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381080,
+        "num": 381080,
+        "word": "安宰贤3比2张本智和",
+        "onboard_time": 1755785244,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1328606,
+        "num": 372678,
+        "word": "胡先煦 李宛妲",
+        "onboard_time": 1755777503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533478,
+        "num": 355201,
+        "word": "为什么酒店的被子塞那么紧",
+        "onboard_time": 1755780083,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 525151,
+        "num": 329620,
+        "word": "梓渝音乐节",
+        "onboard_time": 1755783263,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 459688,
+        "num": 312570,
+        "word": "被泼硫酸毁容女子发声",
+        "onboard_time": 1755785064,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310508,
+        "num": 310508,
+        "word": "JDG对战DRG",
+        "onboard_time": 1755775342,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42594,
+        "num": 296000,
+        "word": "中国最帅天团走来了",
+        "onboard_time": 1755782903,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 286882,
+        "num": 286882,
+        "word": "ES8价格",
+        "onboard_time": 1755787643,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128662,
+        "num": 269567,
+        "word": "荣耀发布会现场粉丝求婚",
+        "onboard_time": 1755789204,
+        "rank": 17,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 88950,
+        "num": 267101,
+        "word": "对代驾小哥最好的关爱",
+        "onboard_time": 1755789204,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 63917,
+        "num": 266739,
+        "word": "求蒋依依把闪耀妆造镶在身上",
+        "onboard_time": 1755787285,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266674,
+        "num": 266674,
+        "word": "确诊糖尿病前身体发出的信号",
+        "onboard_time": 1755776662,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 257827,
+        "num": 257827,
+        "word": "时代少年团随舞",
+        "onboard_time": 1755784825,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 247605,
+        "num": 247605,
+        "word": "刘涛 一念江南",
+        "onboard_time": 1755779363,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227076,
+        "num": 227076,
+        "word": "金泰熙因为育儿压力流泪",
+        "onboard_time": 1755781222,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215249,
+        "num": 215249,
+        "word": "胡先煦项链里有李宛妲照片",
+        "onboard_time": 1755778822,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206816,
+        "num": 206816,
+        "word": "鞠婧祎画室",
+        "onboard_time": 1755786863,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186933,
+        "num": 186933,
+        "word": "宋亚轩素颜好听",
+        "onboard_time": 1755788964,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184455,
+        "num": 184455,
+        "word": "日本新规每日玩手机不超2小时",
+        "onboard_time": 1755786504,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175931,
+        "num": 175931,
+        "word": "星星人",
+        "onboard_time": 1755786325,
+        "rank": 28,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 175199,
+        "num": 175199,
+        "word": "男子娶残障老婆最高可判死刑",
+        "onboard_time": 1755777982,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162259,
+        "num": 162259,
+        "word": "因二胎儿子跟母姓父亲起诉离婚",
+        "onboard_time": 1755788125,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157569,
+        "num": 157569,
+        "word": "李佳琦一边讲课黄晓明一边掏钱",
+        "onboard_time": 1755786625,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155083,
+        "num": 155083,
+        "word": "周深 泡泡玛特",
+        "onboard_time": 1755786385,
+        "rank": 32,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 154050,
+        "num": 154050,
+        "word": "律师谈李易峰被强执4990万后果",
+        "onboard_time": 1755785726,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152624,
+        "num": 152624,
+        "word": "严浩翔异瞳神父",
+        "onboard_time": 1755781042,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151833,
+        "num": 151833,
+        "word": "第一次见想养外室的女主",
+        "onboard_time": 1755787703,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145615,
+        "num": 145615,
+        "word": "生万物 开仓放粮",
+        "onboard_time": 1755789804,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145333,
+        "num": 145333,
+        "word": "Wolves对战北京WBG",
+        "onboard_time": 1755779543,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40951,
+        "num": 142490,
+        "word": "小猫自己做的猫碗",
+        "onboard_time": 1755789564,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63401,
+        "num": 141793,
+        "word": "出生方式或影响大脑发育",
+        "onboard_time": 1755789143,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141496,
+        "num": 141496,
+        "word": "腻味没味 白眼狼",
+        "onboard_time": 1755789084,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134014,
+        "num": 134014,
+        "word": "张本智和鹰眼挑战失败",
+        "onboard_time": 1755786563,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133453,
+        "num": 133453,
+        "word": "王传君神预言董璇张维伊",
+        "onboard_time": 1755765384,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133255,
+        "num": 133255,
+        "word": "无畏MVP",
+        "onboard_time": 1755786925,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127290,
+        "num": 127290,
+        "word": "素颜",
+        "onboard_time": 1755779902,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123534,
+        "num": 123534,
+        "word": "每天一个俯卧撑摔了一年后",
+        "onboard_time": 1755779662,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 123345,
+        "num": 123345,
+        "word": "mokoko",
+        "onboard_time": 1755787223,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 59225,
+        "num": 119827,
+        "word": "如何便捷优雅在车内换衣服",
+        "onboard_time": 1755785726,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118767,
+        "num": 118767,
+        "word": "孙颖莎17连胜早田希娜",
+        "onboard_time": 1755790043,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117593,
+        "num": 117593,
+        "word": "爆剧剧名玄学",
+        "onboard_time": 1755784164,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记西藏之行难忘瞬间#"
+    }
+  }
+}

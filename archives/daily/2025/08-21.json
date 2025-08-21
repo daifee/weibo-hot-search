@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755787513904,
+  "endTime": 1755790120165,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1398319,
+      "num": 1398319,
+      "word": "费文典死了",
+      "onboard_time": 1755789564,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1382925,
       "num": 574280,
       "word": "金价",
@@ -57,6 +65,14 @@
       "onboard_time": 1755736043,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1360930,
+      "num": 539770,
+      "word": "泡泡玛特",
+      "onboard_time": 1755786024,
+      "rank": 24,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 1329760,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 819981,
-      "num": 331850,
+      "num": 355201,
       "word": "为什么酒店的被子塞那么紧",
       "onboard_time": 1755780083,
       "rank": 39,
@@ -265,6 +281,14 @@
       "onboard_time": 1755785244,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 783878,
+      "num": 783878,
+      "word": "无座与二等座同价",
+      "onboard_time": 1755781283,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 770044,
@@ -475,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 542445,
-      "num": 487706,
-      "word": "泡泡玛特",
-      "onboard_time": 1755786024,
-      "rank": 24,
-      "category": "艺人,休闲"
+      "raw_hot": 541325,
+      "num": 484265,
+      "word": "绣绣大脚的第二个孩子",
+      "onboard_time": 1755787344,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 514920,
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486877,
+      "num": 486877,
+      "word": "12306回应无座与二等座同价质疑",
+      "onboard_time": 1755785785,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478618,
       "num": 265595,
       "word": "村里出了个大明星 人们都叫他成毅",
@@ -593,6 +625,14 @@
       "onboard_time": 1755701188,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 459688,
+      "num": 312570,
+      "word": "被泼硫酸毁容女子发声",
+      "onboard_time": 1755785064,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445535,
@@ -803,14 +843,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 345442,
-      "num": 345442,
-      "word": "无座与二等座同价",
-      "onboard_time": 1755781283,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343067,
       "num": 216467,
       "word": "单飞不解散",
@@ -899,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310508,
+      "num": 310508,
+      "word": "JDG对战DRG",
+      "onboard_time": 1755775342,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 308702,
       "num": 275590,
       "word": "宋亚轩手语",
@@ -971,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286882,
+      "num": 286882,
+      "word": "ES8价格",
+      "onboard_time": 1755787643,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 281658,
       "num": 217878,
       "word": "两子非亲生案长子回应殴打父亲",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1755781704,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 256188,
-      "num": 344420,
-      "word": "12306回应无座与二等座同价质疑",
-      "onboard_time": 1755785785,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252750,
@@ -1219,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207967,
-      "num": 207967,
-      "word": "被泼硫酸毁容女子发声",
-      "onboard_time": 1755785064,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207623,
       "num": 207623,
       "word": "鹿晗北京演唱会抢票",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1755768143,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206816,
+      "num": 206816,
+      "word": "鞠婧祎画室",
+      "onboard_time": 1755786863,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 204399,
@@ -1345,14 +1385,6 @@
       "onboard_time": 1755772282,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197102,
-      "num": 197102,
-      "word": "鞠婧祎画室",
-      "onboard_time": 1755786863,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 195835,
@@ -1507,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186933,
+      "num": 186933,
+      "word": "宋亚轩素颜好听",
+      "onboard_time": 1755788964,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186342,
       "num": 220299,
       "word": "小林栋哲跑子夜归捣乱来了",
@@ -1539,14 +1579,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 185511,
-      "num": 185511,
-      "word": "JDG对战DRG",
-      "onboard_time": 1755775342,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 185087,
       "num": 180264,
       "word": "Wolves对战北京WBG",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1755779303,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184455,
+      "num": 298927,
+      "word": "日本新规每日玩手机不超2小时",
+      "onboard_time": 1755786504,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 183281,
@@ -1915,6 +1955,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 162259,
+      "num": 162259,
+      "word": "因二胎儿子跟母姓父亲起诉离婚",
+      "onboard_time": 1755788125,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162217,
       "num": 162217,
       "word": "马嘉祺说希望可以治愈大家的不开心",
@@ -1961,14 +2009,6 @@
       "onboard_time": 1755761543,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161306,
-      "num": 161306,
-      "word": "绣绣大脚的第二个孩子",
-      "onboard_time": 1755787344,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 161229,
@@ -2083,14 +2123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155878,
-      "num": 298927,
-      "word": "日本新规每日玩手机不超2小时",
-      "onboard_time": 1755786504,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 154956,
       "num": 219086,
       "word": "我的职综白月光回来了",
@@ -2129,6 +2161,14 @@
       "onboard_time": 1755758902,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151833,
+      "num": 151833,
+      "word": "第一次见想养外室的女主",
+      "onboard_time": 1755787703,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 150669,
@@ -2209,6 +2249,14 @@
       "onboard_time": 1755767783,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145615,
+      "num": 145615,
+      "word": "生万物 开仓放粮",
+      "onboard_time": 1755789804,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 145602,
@@ -2355,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141496,
+      "num": 141496,
+      "word": "腻味没味 白眼狼",
+      "onboard_time": 1755789084,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141025,
       "num": 141025,
       "word": "霍建华被搏忆全员做局",
@@ -2396,7 +2452,7 @@
     },
     {
       "raw_hot": 139659,
-      "num": 208599,
+      "num": 266739,
       "word": "求蒋依依把闪耀妆造镶在身上",
       "onboard_time": 1755787285,
       "rank": 24,
@@ -2665,6 +2721,14 @@
       "onboard_time": 1755741080,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128662,
+      "num": 269567,
+      "word": "荣耀发布会现场粉丝求婚",
+      "onboard_time": 1755789204,
+      "rank": 17,
+      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 128569,
@@ -2968,6 +3032,14 @@
       "word": "国乒男单连续六站无缘决赛会师",
       "onboard_time": 1755756503,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118767,
+      "num": 118767,
+      "word": "孙颖莎17连胜早田希娜",
+      "onboard_time": 1755790043,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -3275,6 +3347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88950,
+      "num": 267101,
+      "word": "对代驾小哥最好的关爱",
+      "onboard_time": 1755789204,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 88196,
       "num": 115120,
       "word": "秋瓷炫于晓光一家济州岛避暑",
@@ -3481,6 +3561,14 @@
       "onboard_time": 1755759683,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63401,
+      "num": 141793,
+      "word": "出生方式或影响大脑发育",
+      "onboard_time": 1755789143,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 63281,
@@ -3715,12 +3803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42594,
+      "num": 296000,
+      "word": "中国最帅天团走来了",
+      "onboard_time": 1755782903,
+      "rank": 15,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 40980,
       "num": 133357,
       "word": "向美高校索赔超7亿患癌学生发声",
       "onboard_time": 1755783083,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40951,
+      "num": 142490,
+      "word": "小猫自己做的猫碗",
+      "onboard_time": 1755789564,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 40384,
@@ -3865,6 +3969,14 @@
       "onboard_time": 1755749663,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26375,
+      "num": 583879,
+      "word": "想快进到9月3日看阅兵",
+      "onboard_time": 1755764363,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24863,
@@ -4051,14 +4163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8773,
-      "num": 309185,
-      "word": "想快进到9月3日看阅兵",
-      "onboard_time": 1755764363,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 2432,
       "num": 189226,
       "word": "扮杨过走红独臂女孩称未来想考编",
@@ -4079,6 +4183,9 @@
     },
     {
       "word": "#习近平的西藏牵挂#"
+    },
+    {
+      "word": "#习近平总书记西藏之行难忘瞬间#"
     }
   ]
 }
