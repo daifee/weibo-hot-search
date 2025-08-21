@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755808120379,
+  "endTime": 1755808902485,
   "band_list": [
     {
       "raw_hot": 1190706,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74604,
+      "num": 37686,
+      "word": "谁来救救何老师",
+      "onboard_time": 1755806714,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72361,
       "num": 88268,
       "word": "mokoko",
@@ -443,14 +451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 51657,
-      "num": 37686,
-      "word": "谁来救救何老师",
-      "onboard_time": 1755806714,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 51188,
       "num": 51188,
       "word": "王艺迪1比3桥本帆乃香",
@@ -563,6 +563,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 18759,
+      "num": 37201,
+      "word": "妇联正跟进调查农村成哥",
+      "onboard_time": 1755806834,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18464,
       "num": 611522,
       "word": "想快进到9月3日看阅兵",
@@ -577,14 +585,6 @@
       "onboard_time": 1755802635,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17432,
-      "num": 37201,
-      "word": "妇联正跟进调查农村成哥",
-      "onboard_time": 1755806834,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16098,

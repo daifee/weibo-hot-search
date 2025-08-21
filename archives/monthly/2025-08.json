@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755808120379,
+  "endTime": 1755808902485,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -64115,6 +64115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74604,
+      "num": 37686,
+      "word": "谁来救救何老师",
+      "onboard_time": 1755806714,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74592,
       "num": 74592,
       "word": "利物浦4比2伯恩茅斯",
@@ -67393,14 +67401,6 @@
       "onboard_time": 1755081563,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51657,
-      "num": 37686,
-      "word": "谁来救救何老师",
-      "onboard_time": 1755806714,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 51639,
@@ -72859,6 +72859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18759,
+      "num": 37201,
+      "word": "妇联正跟进调查农村成哥",
+      "onboard_time": 1755806834,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18699,
       "num": 120141,
       "word": "周也 嘴巴都督",
@@ -73017,14 +73025,6 @@
       "onboard_time": 1754162355,
       "rank": 49,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 17432,
-      "num": 37201,
-      "word": "妇联正跟进调查农村成哥",
-      "onboard_time": 1755806834,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17402,
