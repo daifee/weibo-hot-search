@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755775375940,
+  "endTime": 1755776274357,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -155,6 +155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 830260,
+      "num": 298199,
+      "word": "抖音回应网红娶三个残障老婆",
+      "onboard_time": 1755771623,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 819424,
       "num": 819424,
       "word": "12306回应高铁能否加挂吸烟车厢",
@@ -192,14 +200,6 @@
       "word": "女子坠谷生还三天后却在家被烧死",
       "onboard_time": 1755763462,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 746637,
-      "num": 298199,
-      "word": "抖音回应网红娶三个残障老婆",
-      "onboard_time": 1755771623,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -256,6 +256,14 @@
       "word": "1994年录像厅杀人案凶手被核准死刑",
       "onboard_time": 1755733822,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 644500,
+      "num": 1103120,
+      "word": "川航回应旅客摆餐事件",
+      "onboard_time": 1755772522,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -427,14 +435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 464141,
-      "num": 464141,
-      "word": "川航回应旅客摆餐事件",
-      "onboard_time": 1755772522,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 463302,
       "num": 217994,
       "word": "法国一受虐博主在直播中死亡",
@@ -457,6 +457,14 @@
       "onboard_time": 1755768982,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 432465,
+      "num": 432465,
+      "word": "第一个发明虾滑宽面的是天才",
+      "onboard_time": 1755772042,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 429551,
@@ -563,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 367909,
-      "num": 367909,
-      "word": "第一个发明虾滑宽面的是天才",
-      "onboard_time": 1755772042,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 369493,
+      "num": 369493,
+      "word": "Gr对战MRC",
+      "onboard_time": 1755765924,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 365172,
@@ -963,12 +971,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207623,
+      "num": 207623,
+      "word": "鹿晗北京演唱会抢票",
+      "onboard_time": 1755774924,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207342,
       "num": 207342,
       "word": "恋与制作人助农",
       "onboard_time": 1755768143,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204399,
+      "num": 186928,
+      "word": "生万物被气到献鱼被甜到",
+      "onboard_time": 1755775581,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204363,
+      "num": 188587,
+      "word": "深圳地铁被嫌滂臭",
+      "onboard_time": 1755773061,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203979,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1755749244,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194166,
+      "num": 194166,
+      "word": "梓渝音乐节战报总结",
+      "onboard_time": 1755775522,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 193803,
@@ -1129,14 +1169,6 @@
       "onboard_time": 1755761302,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186216,
-      "num": 186216,
-      "word": "深圳地铁被嫌滂臭",
-      "onboard_time": 1755773061,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185551,
@@ -1259,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174686,
+      "num": 174686,
+      "word": "张凌赫 英语好才是真性感",
+      "onboard_time": 1755773061,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173235,
       "num": 173235,
       "word": "4399都要从他这进货",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1755761844,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170671,
-      "num": 170671,
-      "word": "Gr对战MRC",
-      "onboard_time": 1755765924,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 170667,
@@ -1441,14 +1473,6 @@
       "onboard_time": 1755761543,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161124,
-      "num": 161124,
-      "word": "鹿晗北京演唱会抢票",
-      "onboard_time": 1755774924,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 160905,
@@ -1603,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146287,
+      "num": 193262,
+      "word": "宋佳刘浩存 是妈妈是女儿",
+      "onboard_time": 1755773425,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146273,
       "num": 171753,
       "word": "绣绣意外流产说了一句娘对不起",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1755753443,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140975,
+      "num": 140975,
+      "word": "白露太强了",
+      "onboard_time": 1755775762,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 140819,
@@ -2043,6 +2083,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 127323,
+      "num": 127323,
+      "word": "宋祖儿分享横店vlog",
+      "onboard_time": 1755775102,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127239,
       "num": 127239,
       "word": "体育外卖火了",
@@ -2091,20 +2139,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125480,
-      "num": 123999,
-      "word": "张凌赫 英语好才是真性感",
-      "onboard_time": 1755773061,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125128,
       "num": 174997,
       "word": "罗予彤猜出了永夜星河",
       "onboard_time": 1755771742,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124976,
+      "num": 304003,
+      "word": "受阅装备随时能从阅兵场开向战场",
+      "onboard_time": 1755774442,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124390,
@@ -2129,6 +2177,14 @@
       "onboard_time": 1755772402,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123866,
+      "num": 123866,
+      "word": "男子与两好友对象发生关系被打伤",
+      "onboard_time": 1755776122,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123717,
@@ -2291,20 +2347,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112639,
+      "num": 112639,
+      "word": "王曼昱vs长崎美柚",
+      "onboard_time": 1755776182,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112245,
       "num": 122939,
       "word": "KPL",
       "onboard_time": 1755770423,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111458,
-      "num": 111458,
-      "word": "宋祖儿分享横店vlog",
-      "onboard_time": 1755775102,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 110985,
@@ -2323,12 +2379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109580,
+      "num": 109580,
+      "word": "常规赛最佳选手小胖",
+      "onboard_time": 1755776242,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108275,
       "num": 112294,
       "word": "男子毒杀儿女案妻子发声",
       "onboard_time": 1755739522,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107131,
+      "num": 107131,
+      "word": "KT对战HLE",
+      "onboard_time": 1755775824,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 106282,
@@ -2369,14 +2441,6 @@
       "onboard_time": 1755701847,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101806,
-      "num": 101806,
-      "word": "宋佳刘浩存 是妈妈是女儿",
-      "onboard_time": 1755773425,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 101656,
@@ -2587,6 +2651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83538,
+      "num": 123964,
+      "word": "小北你值得好的但不是这么好的",
+      "onboard_time": 1755775283,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83143,
       "num": 751703,
       "word": "西藏自治区成立60周年",
@@ -2625,14 +2697,6 @@
       "onboard_time": 1755770782,
       "rank": 29,
       "category": "时尚,美妆"
-    },
-    {
-      "raw_hot": 77939,
-      "num": 304003,
-      "word": "受阅装备随时能从阅兵场开向战场",
-      "onboard_time": 1755774442,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 77027,
@@ -2691,14 +2755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71007,
-      "num": 123964,
-      "word": "小北你值得好的但不是这么好的",
-      "onboard_time": 1755775283,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 70228,
       "num": 254953,
       "word": "九三阅兵训练大片来了",
@@ -2721,6 +2777,14 @@
       "onboard_time": 1755772882,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63584,
+      "num": 192883,
+      "word": "时尚芭莎采访小米SU7Ultra车主",
+      "onboard_time": 1755774682,
+      "rank": 17,
+      "category": "时尚,汽车"
     },
     {
       "raw_hot": 63404,
@@ -2979,14 +3043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39657,
-      "num": 191251,
-      "word": "时尚芭莎采访小米SU7Ultra车主",
-      "onboard_time": 1755774682,
-      "rank": 17,
-      "category": "时尚,汽车"
-    },
-    {
       "raw_hot": 39320,
       "num": 220232,
       "word": "黄渤的脸承包今日所有笑点",
@@ -3001,6 +3057,14 @@
       "onboard_time": 1755757882,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 38192,
+      "num": 123219,
+      "word": "医学生称被安排到电子厂实习",
+      "onboard_time": 1755776061,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37770,
@@ -3083,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23272,
+      "num": 123404,
+      "word": "东北人干啥都大大方方的",
+      "onboard_time": 1755775824,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22687,
       "num": 220981,
       "word": "一起期待9月3日",
@@ -3097,6 +3169,14 @@
       "onboard_time": 1755714975,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22050,
+      "num": 191599,
+      "word": "妇联回应男网红娶三个残障妻子",
+      "onboard_time": 1755775941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22018,
@@ -3185,6 +3265,14 @@
       "onboard_time": 1755759142,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13461,
+      "num": 190772,
+      "word": "张晚意偷学陈数护肤",
+      "onboard_time": 1755776001,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 13142,
