@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755748440426,
+  "endTime": 1755750669907,
   "band_list": [
     {
       "raw_hot": 1486690,
@@ -25,6 +25,14 @@
       "onboard_time": 1755736043,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1329760,
+      "num": 1329760,
+      "word": "高铁站台禁烟比禁止吃泡面更紧迫",
+      "onboard_time": 1755746182,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1234369,
@@ -89,6 +97,14 @@
       "onboard_time": 1755733822,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649221,
+      "num": 266274,
+      "word": "月入一万花一万的真实生活",
+      "onboard_time": 1755747802,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 606388,
@@ -219,6 +235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 399270,
+      "num": 220555,
+      "word": "液断7天瘦了13.2斤",
+      "onboard_time": 1755747623,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 396636,
+      "num": 396636,
+      "word": "杨幂演出了母爱无声却震耳欲聋",
+      "onboard_time": 1755747083,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393777,
       "num": 220187,
       "word": "付辛博认证颖儿是工作狂",
@@ -227,36 +259,12 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 386324,
-      "num": 386324,
-      "word": "杨幂演出了母爱无声却震耳欲聋",
-      "onboard_time": 1755747083,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 385202,
-      "num": 385202,
-      "word": "高铁站台禁烟比禁止吃泡面更紧迫",
-      "onboard_time": 1755746182,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 375310,
       "num": 222159,
       "word": "张维伊不语只一味的露出大金表",
       "onboard_time": 1755718634,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 374072,
-      "num": 220555,
-      "word": "液断7天瘦了13.2斤",
-      "onboard_time": 1755747623,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 372494,
@@ -289,6 +297,14 @@
       "onboard_time": 1755695065,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 354014,
+      "num": 354014,
+      "word": "赴山海",
+      "onboard_time": 1755749724,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 353275,
@@ -339,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317858,
+      "num": 255233,
+      "word": "刘耀文没想到腹肌花絮发出去了",
+      "onboard_time": 1755745882,
+      "rank": 43,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 316251,
       "num": 228810,
       "word": "再次验证了世界是一个巨大的草台班子",
@@ -369,14 +393,6 @@
       "onboard_time": 1755702566,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 296949,
-      "num": 221942,
-      "word": "刘耀文没想到腹肌花絮发出去了",
-      "onboard_time": 1755745882,
-      "rank": 43,
-      "category": "综艺,电竞"
     },
     {
       "raw_hot": 294865,
@@ -491,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218208,
-      "num": 218208,
-      "word": "月入一万花一万的真实生活",
-      "onboard_time": 1755747802,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212381,
       "num": 205844,
       "word": "我住过一梯一户的大平层",
@@ -523,12 +531,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202382,
+      "num": 202382,
+      "word": "桃黑黑 国草",
+      "onboard_time": 1755750503,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 199587,
       "num": 231142,
       "word": "九三阅兵一整个期待住了",
       "onboard_time": 1755741022,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 195835,
+      "num": 195835,
+      "word": "广东人可以穿着拖鞋做一切事情",
+      "onboard_time": 1755749244,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193803,
+      "num": 193803,
+      "word": "詹姆斯中国行官宣",
+      "onboard_time": 1755749182,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 192540,
@@ -555,6 +587,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 180355,
+      "num": 195815,
+      "word": "TMEA",
+      "onboard_time": 1755750263,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180310,
       "num": 180310,
       "word": "如果的事",
@@ -577,6 +617,38 @@
       "onboard_time": 1755704004,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173235,
+      "num": 173235,
+      "word": "4399都要从他这进货",
+      "onboard_time": 1755749002,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 172386,
+      "num": 194296,
+      "word": "官方致歉老人未去世就要求火化",
+      "onboard_time": 1755748943,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 170667,
+      "num": 195298,
+      "word": "王一博保证完成任务",
+      "onboard_time": 1755750083,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 169856,
+      "num": 169856,
+      "word": "警方再通报奔驰车逼停摩托车",
+      "onboard_time": 1755748403,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 169416,
@@ -609,6 +681,14 @@
       "onboard_time": 1755688761,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160905,
+      "num": 194657,
+      "word": "与君朝暮开播",
+      "onboard_time": 1755749064,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 158638,
@@ -673,6 +753,14 @@
       "onboard_time": 1755739162,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143540,
+      "num": 143540,
+      "word": "趁年轻一定要多发朋友圈",
+      "onboard_time": 1755748703,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 142270,
@@ -747,6 +835,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130834,
+      "num": 130834,
+      "word": "张远伯远看着离结婚都很远的样子",
+      "onboard_time": 1755748583,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130595,
+      "num": 171113,
+      "word": "子夜归 又是你洋葱哥",
+      "onboard_time": 1755750444,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129007,
       "num": 213457,
       "word": "被毒杀儿女舅舅称男方家族群喊话收尸",
@@ -761,6 +865,14 @@
       "onboard_time": 1755741080,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126823,
+      "num": 126823,
+      "word": "小酒窝也认识时代少年团",
+      "onboard_time": 1755750024,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 126263,
@@ -811,6 +923,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122339,
+      "num": 122339,
+      "word": "史彭元 闷声倒大霉",
+      "onboard_time": 1755750624,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122230,
+      "num": 122230,
+      "word": "得到马嘉祺饭撒的红色恐龙",
+      "onboard_time": 1755750562,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121842,
       "num": 157794,
       "word": "全球最毒的蚊子为何批量北上",
@@ -819,12 +947,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120648,
+      "num": 120648,
+      "word": "小番茄孙颖莎",
+      "onboard_time": 1755750503,
+      "rank": 45,
+      "category": "体育,其它"
+    },
+    {
       "raw_hot": 120248,
       "num": 120248,
       "word": "宋亚轩刘耀文callback交换话筒",
       "onboard_time": 1755702085,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119952,
+      "num": 119952,
+      "word": "曹格儿子已经17岁了",
+      "onboard_time": 1755750562,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119420,
+      "num": 116903,
+      "word": "女子不满桌面未收拾咆哮大闹麦当劳",
+      "onboard_time": 1755749244,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119142,
@@ -907,6 +1059,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 99869,
+      "num": 276263,
+      "word": "奔驰车逼停摩托双方自愿达成谅解",
+      "onboard_time": 1755750083,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99483,
       "num": 99483,
       "word": "田栩宁黛珂十分钟断货",
@@ -985,6 +1145,14 @@
       "onboard_time": 1755731838,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81810,
+      "num": 431250,
+      "word": "西藏自治区成立60周年",
+      "onboard_time": 1755748703,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80899,
@@ -1091,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59396,
+      "num": 127235,
+      "word": "男子骗儿女喝农药就能找妈妈",
+      "onboard_time": 1755750024,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59370,
       "num": 94239,
       "word": "贵州男子毒杀儿女案今日开庭",
@@ -1187,14 +1363,6 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 36079,
-      "num": 138943,
-      "word": "警方再通报奔驰车逼停摩托车",
-      "onboard_time": 1755748403,
-      "rank": 44,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 31127,
       "num": 394049,
       "word": "开始盼九三阅兵了",
@@ -1209,6 +1377,14 @@
       "onboard_time": 1755682823,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26865,
+      "num": 122652,
+      "word": "印裔司机车祸揭开非法移民问题",
+      "onboard_time": 1755749663,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24863,
