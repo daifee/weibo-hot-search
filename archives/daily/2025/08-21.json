@@ -1,10 +1,18 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755733081270,
+  "endTime": 1755741329637,
   "band_list": [
     {
+      "raw_hot": 1373255,
+      "num": 172137,
+      "word": "曝韩安冉流产",
+      "onboard_time": 1755736043,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 870945,
-      "num": 237286,
+      "num": 287561,
       "word": "千百惠去世",
       "onboard_time": 1755696149,
       "rank": 5,
@@ -27,12 +35,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 683745,
+      "num": 1109399,
+      "word": "1994年录像厅杀人案凶手被核准死刑",
+      "onboard_time": 1755733822,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 586045,
+      "num": 168332,
+      "word": "韩安冉回应流产",
+      "onboard_time": 1755739342,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 575005,
-      "num": 115655,
+      "num": 167344,
       "word": "一定要关闭免密支付和自动扣款",
       "onboard_time": 1755725775,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 558303,
+      "num": 171031,
+      "word": "国外老太吹生日蜡烛后去世",
+      "onboard_time": 1755737902,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 508332,
@@ -59,6 +91,22 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 474565,
+      "num": 170512,
+      "word": "微信隐藏的查岗模式",
+      "onboard_time": 1755733760,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 468942,
+      "num": 169908,
+      "word": "敖瑞鹏烧烤吃多了快给干医院去了",
+      "onboard_time": 1755738141,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463302,
       "num": 211402,
       "word": "法国一受虐博主在直播中死亡",
@@ -83,8 +131,16 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 392042,
+      "num": 169278,
+      "word": "偶遇张艺兴排队买包子",
+      "onboard_time": 1755735681,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375310,
-      "num": 114872,
+      "num": 165777,
       "word": "张维伊不语只一味的露出大金表",
       "onboard_time": 1755718634,
       "rank": 11,
@@ -105,6 +161,14 @@
       "onboard_time": 1755695065,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 353275,
+      "num": 353275,
+      "word": "檀健次李兰迪 月都花落",
+      "onboard_time": 1755733699,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 343067,
@@ -131,12 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315431,
-      "num": 315431,
+      "raw_hot": 316280,
+      "num": 316280,
       "word": "您的鳄了么订单需到场自提",
       "onboard_time": 1755703046,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316251,
+      "num": 168218,
+      "word": "再次验证了世界是一个巨大的草台班子",
+      "onboard_time": 1755733941,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 297516,
@@ -155,6 +227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276764,
+      "num": 276764,
+      "word": "国乒6男单前两轮5人出局",
+      "onboard_time": 1755735802,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 275807,
+      "num": 165506,
+      "word": "金价跌至近半个月最低水平",
+      "onboard_time": 1755739162,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 270699,
       "num": 270699,
       "word": "男子水下憋气29分钟刷新世界纪录",
@@ -163,11 +251,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269191,
+      "num": 166624,
+      "word": "印度裔司机高速调头致3死",
+      "onboard_time": 1755736222,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 268644,
+      "num": 268644,
+      "word": "约8成女性感染过HPV病毒",
+      "onboard_time": 1755733941,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 252750,
       "num": 153916,
       "word": "方媛挺孕肚打车送女儿上学",
       "onboard_time": 1755702866,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239729,
+      "num": 163776,
+      "word": "众星悼念千百惠",
+      "onboard_time": 1755740602,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -195,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212381,
+      "num": 132864,
+      "word": "我住过一梯一户的大平层",
+      "onboard_time": 1755740902,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208941,
       "num": 208941,
       "word": "热巴这次你做不了1了",
@@ -203,12 +323,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 208726,
+      "num": 208726,
+      "word": "阅兵训练现场看得热血沸腾",
+      "onboard_time": 1755739162,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192540,
       "num": 192540,
       "word": "贺峻霖solo",
       "onboard_time": 1755704844,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183281,
+      "num": 163558,
+      "word": "付辛博颖儿真夫妻就是好嗑",
+      "onboard_time": 1755737303,
+      "rank": 23,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 183266,
@@ -243,12 +379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172346,
+      "num": 172346,
+      "word": "九三阅兵一整个期待住了",
+      "onboard_time": 1755741022,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 169098,
-      "num": 91802,
+      "num": 111199,
       "word": "清华今年录取了3对双胞胎",
       "onboard_time": 1755728956,
       "rank": 42,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 162922,
+      "num": 162922,
+      "word": "中央气象台连发了3个预警",
+      "onboard_time": 1755739162,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162211,
@@ -259,12 +411,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157858,
-      "num": 157550,
+      "raw_hot": 158638,
+      "num": 158638,
       "word": "儿媳被2岁孙子打婆婆现场反打护媳",
       "onboard_time": 1755699687,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158596,
+      "num": 158596,
+      "word": "大学录取率100%的高中",
+      "onboard_time": 1755737962,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 145426,
+      "num": 131995,
+      "word": "宋亚轩露腹肌偷偷挡住",
+      "onboard_time": 1755740302,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 142270,
@@ -283,12 +451,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135598,
+      "num": 135598,
+      "word": "宋亚轩单人机位破亿",
+      "onboard_time": 1755738322,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133430,
       "num": 133430,
       "word": "绣绣意外流产了",
       "onboard_time": 1755690142,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132123,
+      "num": 132123,
+      "word": "所有抽烟的人都该知道",
+      "onboard_time": 1755736162,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 131833,
+      "num": 131833,
+      "word": "日本拥核动向",
+      "onboard_time": 1755739162,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131147,
@@ -305,6 +497,14 @@
       "onboard_time": 1755695126,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128959,
+      "num": 128959,
+      "word": "阅兵训练现场再现复制粘贴",
+      "onboard_time": 1755741080,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126263,
@@ -347,6 +547,38 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119142,
+      "num": 119142,
+      "word": "傻挑孩子是谁的",
+      "onboard_time": 1755737061,
+      "rank": 37,
+      "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 113623,
+      "num": 113623,
+      "word": "东北金渐层打架现场实录",
+      "onboard_time": 1755741022,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109558,
+      "num": 109558,
+      "word": "田曦薇把杨梅吃成血包",
+      "onboard_time": 1755740543,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107283,
+      "num": 112294,
+      "word": "男子毒杀儿女案妻子发声",
+      "onboard_time": 1755739522,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105058,
       "num": 105058,
       "word": "老番茄本名叫张秋实",
@@ -371,12 +603,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99483,
+      "num": 99483,
+      "word": "田栩宁黛珂十分钟断货",
+      "onboard_time": 1755732318,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96910,
       "num": 96910,
       "word": "献鱼双修镜头",
       "onboard_time": 1755701307,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96727,
+      "num": 96727,
+      "word": "Cryin说BLG会焕然一新",
+      "onboard_time": 1755737482,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 94507,
+      "num": 94507,
+      "word": "有一种视觉盛宴叫西藏的蓝",
+      "onboard_time": 1755741261,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92472,
@@ -433,14 +689,6 @@
       "onboard_time": 1755693325,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 78385,
-      "num": 78385,
-      "word": "田栩宁黛珂十分钟断货",
-      "onboard_time": 1755732318,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 77027,
@@ -523,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59370,
+      "num": 94239,
+      "word": "贵州男子毒杀儿女案今日开庭",
+      "onboard_time": 1755739582,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57410,
       "num": 66759,
       "word": "丁程鑫宋亚轩唱泪桥了",
@@ -568,6 +824,14 @@
       "word": "市监局回应游客称坐躺椅被催收费",
       "onboard_time": 1755708979,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45536,
+      "num": 332287,
+      "word": "网警提醒警惕因支付密码简单而被盗刷",
+      "onboard_time": 1755737422,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
