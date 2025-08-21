@@ -1,0 +1,410 @@
+{
+  "runTime": 1755746971276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 635913,
+        "num": 1101746,
+        "word": "一日店长凭什么让年轻人集体上头",
+        "onboard_time": 1755743180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550729,
+        "num": 550729,
+        "word": "台湾网红游大陆收获现象级传播",
+        "onboard_time": 1755741501,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37558,
+        "num": 415178,
+        "word": "网警提醒警惕因支付密码简单而被盗刷",
+        "onboard_time": 1755737422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1244229,
+        "num": 412812,
+        "word": "金价",
+        "onboard_time": 1755741561,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 407238,
+        "num": 407238,
+        "word": "阅兵活动3名旗手",
+        "onboard_time": 1755744441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310763,
+        "num": 310763,
+        "word": "1994年录像厅杀人案凶手被核准死刑",
+        "onboard_time": 1755733822,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296079,
+        "num": 296079,
+        "word": "布达拉宫广场升国旗奏国歌",
+        "onboard_time": 1755744142,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275711,
+        "num": 275711,
+        "word": "千百惠去世",
+        "onboard_time": 1755696149,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255129,
+        "num": 255129,
+        "word": "中央气象台连发了3个预警",
+        "onboard_time": 1755739162,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217374,
+        "num": 217374,
+        "word": "12306回应网友提议站台等候区禁烟",
+        "onboard_time": 1755706223,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1486690,
+        "num": 217335,
+        "word": "7岁女儿被父亲毒杀眼睛都没闭上",
+        "onboard_time": 1755743541,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1234369,
+        "num": 216477,
+        "word": "原来关晓彤才是林黛玉最初人选",
+        "onboard_time": 1755743361,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486082,
+        "num": 215830,
+        "word": "第一次看不上明星老公",
+        "onboard_time": 1755744562,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457065,
+        "num": 215089,
+        "word": "柳宗源晒迪丽热巴",
+        "onboard_time": 1755745282,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 431499,
+        "num": 214878,
+        "word": "韩安冉回应流产",
+        "onboard_time": 1755739342,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 426624,
+        "num": 213998,
+        "word": "时代少年团全员跳扫腿舞",
+        "onboard_time": 1755742461,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409671,
+        "num": 213217,
+        "word": "敖瑞鹏烧烤吃多了快给干医院去了",
+        "onboard_time": 1755738141,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320990,
+        "num": 212897,
+        "word": "卡琳娜女儿揉西近照",
+        "onboard_time": 1755743301,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70400,
+        "num": 212341,
+        "word": "沙漠里一个脚印能留多久",
+        "onboard_time": 1755745702,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92914,
+        "num": 211576,
+        "word": "高铁站台禁烟比禁止吃泡面更紧迫",
+        "onboard_time": 1755746182,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 736151,
+        "num": 211039,
+        "word": "被父亲毒杀的兄妹死前抓烂枕头",
+        "onboard_time": 1755743422,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415918,
+        "num": 210658,
+        "word": "迪丽热巴大冒险家芭莎金九封面",
+        "onboard_time": 1755743962,
+        "rank": 21,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 301068,
+        "num": 209878,
+        "word": "短剧版鬼怪来了",
+        "onboard_time": 1755744502,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94331,
+        "num": 209401,
+        "word": "有一种视觉盛宴叫西藏的蓝",
+        "onboard_time": 1755741261,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209001,
+        "num": 209001,
+        "word": "刘耀文没想到腹肌花絮发出去了",
+        "onboard_time": 1755745882,
+        "rank": 24,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 174629,
+        "num": 174629,
+        "word": "九三阅兵一整个期待住了",
+        "onboard_time": 1755741022,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231293,
+        "num": 173765,
+        "word": "芭莎总监评热巴稳定内核",
+        "onboard_time": 1755745461,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 131586,
+        "num": 173300,
+        "word": "吴谨言有八九部戏在找",
+        "onboard_time": 1755745042,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131319,
+        "num": 171670,
+        "word": "檀健次李兰迪 月都花落",
+        "onboard_time": 1755733699,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126210,
+        "num": 170554,
+        "word": "书写美丽西藏新篇章",
+        "onboard_time": 1755746543,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 235355,
+        "num": 169501,
+        "word": "韩国网民碰瓷黑神话钟馗",
+        "onboard_time": 1755745403,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168427,
+        "num": 168427,
+        "word": "一定要关闭免密支付和自动扣款",
+        "onboard_time": 1755725775,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162309,
+        "num": 162309,
+        "word": "您的鳄了么订单需到场自提",
+        "onboard_time": 1755703046,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159428,
+        "num": 159428,
+        "word": "沈腾范丞丞你们不要再打了",
+        "onboard_time": 1755744502,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147657,
+        "num": 147657,
+        "word": "法国一受虐博主在直播中死亡",
+        "onboard_time": 1755701188,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139744,
+        "num": 139744,
+        "word": "国外老太吹生日蜡烛后去世",
+        "onboard_time": 1755737902,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97017,
+        "num": 139480,
+        "word": "小鹏P7全球首发冰雪AES",
+        "onboard_time": 1755745702,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 111726,
+        "num": 139467,
+        "word": "一句话让手机自己干活",
+        "onboard_time": 1755745763,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139462,
+        "num": 139462,
+        "word": "约8成女性感染过HPV病毒",
+        "onboard_time": 1755733941,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47735,
+        "num": 138497,
+        "word": "穿洞洞鞋别坐扶梯",
+        "onboard_time": 1755746842,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138323,
+        "num": 138323,
+        "word": "偶遇张艺兴排队买包子",
+        "onboard_time": 1755735681,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137309,
+        "num": 137309,
+        "word": "韩安冉辟谣因重男轻女引产",
+        "onboard_time": 1755743721,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135809,
+        "num": 135809,
+        "word": "金价跌至近半个月最低水平",
+        "onboard_time": 1755739162,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127778,
+        "num": 127778,
+        "word": "国乒6男单前两轮5人出局",
+        "onboard_time": 1755735802,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127542,
+        "num": 127542,
+        "word": "我住过一梯一户的大平层",
+        "onboard_time": 1755740902,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127489,
+        "num": 127489,
+        "word": "林诗栋独守全区",
+        "onboard_time": 1755746182,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126012,
+        "num": 126012,
+        "word": "出差的亲爸没招的干爹胆小的它",
+        "onboard_time": 1755746063,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115978,
+        "num": 115978,
+        "word": "阅兵训练现场看得热血沸腾",
+        "onboard_time": 1755739162,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107749,
+        "num": 107749,
+        "word": "英国素食者肯德基前拦车",
+        "onboard_time": 1755746421,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92396,
+        "num": 104427,
+        "word": "宋亚轩单人机位破亿",
+        "onboard_time": 1755738322,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#向西藏各族儿女致以诚挚问候#"
+    }
+  }
+}

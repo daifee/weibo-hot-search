@@ -1,7 +1,15 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755745991740,
+  "endTime": 1755746971276,
   "band_list": [
+    {
+      "raw_hot": 1486690,
+      "num": 1050758,
+      "word": "7岁女儿被父亲毒杀眼睛都没闭上",
+      "onboard_time": 1755743541,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1382925,
       "num": 574280,
@@ -19,20 +27,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1157811,
+      "raw_hot": 1234369,
       "num": 282910,
       "word": "原来关晓彤才是林黛玉最初人选",
       "onboard_time": 1755743361,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1050758,
-      "num": 1050758,
-      "word": "7岁女儿被父亲毒杀眼睛都没闭上",
-      "onboard_time": 1755743541,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1050024,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 635913,
+      "num": 1101746,
+      "word": "一日店长凭什么让年轻人集体上头",
+      "onboard_time": 1755743180,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 600091,
       "num": 277069,
       "word": "敖瑞鹏烧烤吃多了快给干医院去了",
@@ -115,11 +123,11 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 539528,
-      "num": 1086324,
-      "word": "一日店长凭什么让年轻人集体上头",
-      "onboard_time": 1755743180,
-      "rank": 0,
+      "raw_hot": 550729,
+      "num": 550729,
+      "word": "台湾网红游大陆收获现象级传播",
+      "onboard_time": 1755741501,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -137,6 +145,14 @@
       "onboard_time": 1755704184,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 486082,
+      "num": 264486,
+      "word": "第一次看不上明星老公",
+      "onboard_time": 1755744562,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 478618,
@@ -163,12 +179,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 458887,
-      "num": 458887,
-      "word": "台湾网红游大陆收获现象级传播",
-      "onboard_time": 1755741501,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 457065,
+      "num": 272909,
+      "word": "柳宗源晒迪丽热巴",
+      "onboard_time": 1755745282,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 429551,
@@ -179,7 +195,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 422782,
+      "raw_hot": 426624,
       "num": 276136,
       "word": "时代少年团全员跳扫腿舞",
       "onboard_time": 1755742461,
@@ -193,6 +209,14 @@
       "onboard_time": 1755735681,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407238,
+      "num": 407238,
+      "word": "阅兵活动3名旗手",
+      "onboard_time": 1755744441,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393777,
@@ -291,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 301068,
+      "num": 224079,
+      "word": "短剧版鬼怪来了",
+      "onboard_time": 1755744502,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299916,
       "num": 299916,
       "word": "布达拉宫广场升国旗奏国歌",
@@ -339,22 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278197,
-      "num": 224079,
-      "word": "短剧版鬼怪来了",
-      "onboard_time": 1755744502,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 272909,
-      "num": 272909,
-      "word": "柳宗源晒迪丽热巴",
-      "onboard_time": 1755745282,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 270699,
       "num": 270699,
       "word": "男子水下憋气29分钟刷新世界纪录",
@@ -377,14 +393,6 @@
       "onboard_time": 1755733941,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 264486,
-      "num": 264486,
-      "word": "第一次看不上明星老公",
-      "onboard_time": 1755744562,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 252750,
@@ -411,8 +419,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229169,
-      "num": 171429,
+      "raw_hot": 235355,
+      "num": 170405,
+      "word": "韩国网民碰瓷黑神话钟馗",
+      "onboard_time": 1755745403,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 231293,
+      "num": 173765,
       "word": "芭莎总监评热巴稳定内核",
       "onboard_time": 1755745461,
       "rank": 30,
@@ -441,6 +457,14 @@
       "onboard_time": 1755740902,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209001,
+      "num": 209001,
+      "word": "刘耀文没想到腹肌花絮发出去了",
+      "onboard_time": 1755745882,
+      "rank": 43,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 208941,
@@ -473,22 +497,6 @@
       "onboard_time": 1755704844,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 192499,
-      "num": 284551,
-      "word": "阅兵活动3名旗手",
-      "onboard_time": 1755744441,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192145,
-      "num": 170405,
-      "word": "韩国网民碰瓷黑神话钟馗",
-      "onboard_time": 1755745403,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 183281,
@@ -635,6 +643,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 131586,
+      "num": 173300,
+      "word": "吴谨言有八九部戏在找",
+      "onboard_time": 1755745042,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131147,
       "num": 131147,
       "word": "因父母求子被砍手女生的现状",
@@ -659,12 +675,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127489,
+      "num": 127489,
+      "word": "林诗栋独守全区",
+      "onboard_time": 1755746182,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126263,
       "num": 126263,
       "word": "章昊说惜败桃黑黑老师",
       "onboard_time": 1755684504,
       "rank": 36,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 126210,
+      "num": 170554,
+      "word": "书写美丽西藏新篇章",
+      "onboard_time": 1755746543,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 126012,
+      "num": 126012,
+      "word": "出差的亲爸没招的干爹胆小的它",
+      "onboard_time": 1755746063,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 125557,
@@ -676,7 +716,7 @@
     },
     {
       "raw_hot": 124390,
-      "num": 182826,
+      "num": 212341,
       "word": "沙漠里一个脚印能留多久",
       "onboard_time": 1755745702,
       "rank": 26,
@@ -707,14 +747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119305,
-      "num": 119305,
-      "word": "刘耀文没想到腹肌花絮发出去了",
-      "onboard_time": 1755745882,
-      "rank": 43,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 119142,
       "num": 166193,
       "word": "傻挑孩子是谁的",
@@ -723,20 +755,20 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 117910,
-      "num": 172910,
-      "word": "吴谨言有八九部戏在找",
-      "onboard_time": 1755745042,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115749,
       "num": 115749,
       "word": "东北金渐层打架现场实录",
       "onboard_time": 1755741022,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111726,
+      "num": 148686,
+      "word": "一句话让手机自己干活",
+      "onboard_time": 1755745763,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 110985,
@@ -748,7 +780,7 @@
     },
     {
       "raw_hot": 110546,
-      "num": 110546,
+      "num": 209401,
       "word": "有一种视觉盛宴叫西藏的蓝",
       "onboard_time": 1755741261,
       "rank": 47,
@@ -761,6 +793,14 @@
       "onboard_time": 1755739522,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107749,
+      "num": 107749,
+      "word": "英国素食者肯德基前拦车",
+      "onboard_time": 1755746421,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105058,
@@ -827,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92914,
+      "num": 211576,
+      "word": "高铁站台禁烟比禁止吃泡面更紧迫",
+      "onboard_time": 1755746182,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92472,
       "num": 103522,
       "word": "两院院士增选有效候选人名单公布",
@@ -881,14 +929,6 @@
       "onboard_time": 1755684744,
       "rank": 47,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 80086,
-      "num": 148686,
-      "word": "一句话让手机自己干活",
-      "onboard_time": 1755745763,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 79951,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1755709760,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47735,
+      "num": 138497,
+      "word": "穿洞洞鞋别坐扶梯",
+      "onboard_time": 1755746842,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46636,
