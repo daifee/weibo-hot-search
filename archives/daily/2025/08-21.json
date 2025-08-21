@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755766018336,
+  "endTime": 1755768548993,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1583078,
-      "num": 428555,
+      "num": 663939,
       "word": "男网红娶三个残障老婆",
       "onboard_time": 1755762503,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1264290,
+      "num": 1264290,
+      "word": "王传君神预言董璇张维伊",
+      "onboard_time": 1755765384,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1234369,
       "num": 290003,
       "word": "原来关晓彤才是林黛玉最初人选",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1137012,
-      "num": 302482,
+      "num": 369646,
       "word": "徐艺洋为了黄子韬放弃工作",
       "onboard_time": 1755758902,
       "rank": 23,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 936627,
-      "num": 410602,
+      "num": 488126,
       "word": "胡先煦坐了近五十个小时飞机",
       "onboard_time": 1755761482,
       "rank": 6,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 751289,
+      "num": 751289,
+      "word": "女子坠谷生还三天后却在家被烧死",
+      "onboard_time": 1755763462,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 733196,
       "num": 875662,
       "word": "黛珂 田栩宁",
@@ -195,11 +211,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 648951,
-      "num": 648951,
-      "word": "女子坠谷生还三天后却在家被烧死",
-      "onboard_time": 1755763462,
-      "rank": 1,
+      "raw_hot": 652511,
+      "num": 652511,
+      "word": "12306回应高铁能否加挂吸烟车厢",
+      "onboard_time": 1755763643,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -299,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 513615,
+      "num": 368294,
+      "word": "高铁目前不可能加挂吸烟车厢",
+      "onboard_time": 1755762383,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510801,
       "num": 244695,
       "word": "135岁的老太太",
@@ -337,6 +361,14 @@
       "onboard_time": 1755750024,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 477896,
+      "num": 477896,
+      "word": "刘骏 费加罗",
+      "onboard_time": 1755768143,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 474565,
@@ -443,20 +475,36 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 382817,
+      "num": 382817,
+      "word": "杨幂回应连续三部作品演技获赞",
+      "onboard_time": 1755764184,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 378750,
+      "num": 373213,
+      "word": "EXO的前夜是刘宪华写的",
+      "onboard_time": 1755763344,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 375463,
+      "num": 375463,
+      "word": "考上211不到一年后父母断供生活费",
+      "onboard_time": 1755766222,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 375310,
       "num": 222159,
       "word": "张维伊不语只一味的露出大金表",
       "onboard_time": 1755718634,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 373213,
-      "num": 373213,
-      "word": "EXO的前夜是刘宪华写的",
-      "onboard_time": 1755763344,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 372494,
@@ -505,14 +553,6 @@
       "onboard_time": 1755733699,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352247,
-      "num": 352247,
-      "word": "高铁目前不可能加挂吸烟车厢",
-      "onboard_time": 1755762383,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 343067,
@@ -643,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282994,
-      "num": 298155,
-      "word": "王传君神预言董璇张维伊",
-      "onboard_time": 1755765384,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281658,
       "num": 217878,
       "word": "两子非亲生案长子回应殴打父亲",
@@ -659,12 +691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279939,
-      "num": 291496,
-      "word": "12306回应高铁能否加挂吸烟车厢",
-      "onboard_time": 1755763643,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 280463,
+      "num": 280463,
+      "word": "九三阅兵3名旗手平均身高189",
+      "onboard_time": 1755767123,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 270888,
@@ -729,6 +761,14 @@
       "onboard_time": 1755740602,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238975,
+      "num": 238975,
+      "word": "两子非亲生大儿子反质父亲出轨",
+      "onboard_time": 1755764242,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235462,
@@ -835,6 +875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 208358,
+      "num": 208358,
+      "word": "杨幂怎么从生万物干到小时代了",
+      "onboard_time": 1755767543,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208228,
       "num": 190089,
       "word": "暑期爆款剧王",
@@ -843,20 +891,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207342,
+      "num": 207342,
+      "word": "恋与制作人助农",
+      "onboard_time": 1755768143,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203979,
       "num": 203979,
       "word": "徐志胜说孟子义唱歌很难单飞",
       "onboard_time": 1755744923,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202007,
-      "num": 295549,
-      "word": "杨幂回应连续三部作品演技获赞",
-      "onboard_time": 1755764184,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199587,
@@ -937,14 +985,6 @@
       "onboard_time": 1755755904,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190494,
-      "num": 190494,
-      "word": "两子非亲生大儿子反质父亲出轨",
-      "onboard_time": 1755764242,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190316,
@@ -1051,6 +1091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173934,
+      "num": 173934,
+      "word": "晚餐决定了第二天掉称速度",
+      "onboard_time": 1755766463,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173235,
       "num": 173235,
       "word": "4399都要从他这进货",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1755761902,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162559,
+      "num": 188786,
+      "word": "高铁站台吸烟问题关键不是禁与不禁",
+      "onboard_time": 1755768442,
+      "rank": 30,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 162211,
@@ -1275,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149514,
+      "num": 199442,
+      "word": "张元英蓝毯新闻图",
+      "onboard_time": 1755767663,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149118,
       "num": 172643,
       "word": "官方回应非婚生子能否领取育儿补贴",
@@ -1347,6 +1411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144353,
+      "num": 144353,
+      "word": "刘雯W中文版封面人物",
+      "onboard_time": 1755766763,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144325,
       "num": 144325,
       "word": "苏大强被浣碧调成啥样了",
@@ -1377,6 +1449,22 @@
       "onboard_time": 1755748703,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143412,
+      "num": 143412,
+      "word": "云南有自己的omakase",
+      "onboard_time": 1755766763,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 143080,
+      "num": 143079,
+      "word": "贺峻霖一场比一场瘦",
+      "onboard_time": 1755768203,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 142283,
@@ -1411,12 +1499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139393,
+      "num": 139393,
+      "word": "H4cker回应JackeyLove",
+      "onboard_time": 1755768384,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139069,
       "num": 111851,
       "word": "穿校服的关晓彤好有千金感",
       "onboard_time": 1755730036,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138617,
+      "num": 148756,
+      "word": "263斤男子花2万请轿夫抬上峨眉山",
+      "onboard_time": 1755765384,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138056,
@@ -1523,12 +1627,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131093,
+      "num": 131093,
+      "word": "日本发动细菌战不容否认和抵赖",
+      "onboard_time": 1755766102,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 130858,
+      "num": 130858,
+      "word": "章若楠 我是妈咪养的可爱猪",
+      "onboard_time": 1755766584,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130834,
       "num": 130834,
       "word": "张远伯远看着离结婚都很远的样子",
       "onboard_time": 1755748583,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130466,
+      "num": 130466,
+      "word": "宋轶这背不拔罐可惜了",
+      "onboard_time": 1755768504,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 130098,
@@ -1579,6 +1707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128945,
+      "num": 128945,
+      "word": "发明张真源做导入的真是天才",
+      "onboard_time": 1755768442,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128569,
       "num": 128569,
       "word": "女子不满桌面未收拾咆哮大闹麦当劳",
@@ -1609,6 +1745,14 @@
       "onboard_time": 1755753804,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128171,
+      "num": 128171,
+      "word": "戒糖30天的身体变化",
+      "onboard_time": 1755766584,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 126698,
@@ -1777,6 +1921,14 @@
       "onboard_time": 1755741022,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113254,
+      "num": 143092,
+      "word": "刘品言挺7个月孕肚举哑铃",
+      "onboard_time": 1755767783,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 110985,
@@ -2019,14 +2171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82018,
-      "num": 148756,
-      "word": "263斤男子花2万请轿夫抬上峨眉山",
-      "onboard_time": 1755765384,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80899,
       "num": 80899,
       "word": "34岁存款100万决定提前退休",
@@ -2169,6 +2313,14 @@
       "onboard_time": 1755739582,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58994,
+      "num": 191156,
+      "word": "黄渤鲁豫谈演员的另一种表达",
+      "onboard_time": 1755768263,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 57410,
@@ -2323,6 +2475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40101,
+      "num": 235703,
+      "word": "男子毒杀年幼儿女案未当庭宣判",
+      "onboard_time": 1755766944,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38628,
+      "num": 237882,
+      "word": "vivoVision让头号玩家走进现实",
+      "onboard_time": 1755768263,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 38526,
       "num": 254217,
       "word": "MR头显会是下一代智能终端吗",
@@ -2353,6 +2521,14 @@
       "onboard_time": 1755764184,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34378,
+      "num": 143080,
+      "word": "逃至英国乱港分子现状",
+      "onboard_time": 1755767603,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31127,
@@ -2459,6 +2635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 19727,
+      "num": 143145,
+      "word": "业内人士回应体育外卖火了",
+      "onboard_time": 1755767783,
+      "rank": 38,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 19411,
       "num": 419863,
       "word": "中国军人整齐步伐治愈强迫症",
@@ -2513,6 +2697,14 @@
       "onboard_time": 1755720675,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2432,
+      "num": 189226,
+      "word": "扮杨过走红独臂女孩称未来想考编",
+      "onboard_time": 1755766883,
+      "rank": 29,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
