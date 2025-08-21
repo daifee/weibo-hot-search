@@ -1,7 +1,15 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755753993165,
+  "endTime": 1755754991784,
   "band_list": [
+    {
+      "raw_hot": 1664573,
+      "num": 1664573,
+      "word": "李易峰被强制执行4990万",
+      "onboard_time": 1755753804,
+      "rank": 16,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1486690,
       "num": 1050758,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1050024,
-      "num": 224090,
+      "num": 251398,
       "word": "被父亲毒杀的兄妹死前抓烂枕头",
       "onboard_time": 1755743422,
       "rank": 20,
@@ -67,12 +75,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 734667,
-      "num": 221176,
+      "raw_hot": 801415,
+      "num": 801415,
+      "word": "12306为何在站台禁烟问题上反应冷淡",
+      "onboard_time": 1755751827,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 788942,
+      "num": 265379,
       "word": "桃黑黑 国草",
       "onboard_time": 1755750503,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 770044,
+      "num": 264166,
+      "word": "银子怀孕",
+      "onboard_time": 1755753082,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 733196,
@@ -115,20 +139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 700034,
+      "num": 700034,
+      "word": "官方致歉老人未去世就要求火化",
+      "onboard_time": 1755748943,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 683745,
       "num": 1109399,
       "word": "1994年录像厅杀人案凶手被核准死刑",
       "onboard_time": 1755733822,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 627934,
-      "num": 627934,
-      "word": "官方致歉老人未去世就要求火化",
-      "onboard_time": 1755748943,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 606388,
@@ -145,6 +169,14 @@
       "onboard_time": 1755738141,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586249,
+      "num": 586249,
+      "word": "假如张若昀虞书欣演先婚后爱",
+      "onboard_time": 1755752243,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 575005,
@@ -179,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 519251,
-      "num": 519251,
-      "word": "12306为何在站台禁烟问题上反应冷淡",
-      "onboard_time": 1755751827,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 508332,
       "num": 233941,
       "word": "难听",
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 478000,
-      "num": 221158,
+      "num": 260163,
       "word": "小酒窝也认识时代少年团",
       "onboard_time": 1755750024,
       "rank": 39,
@@ -243,6 +267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 448729,
+      "num": 257933,
+      "word": "万国鹏再澄清曾追求张予曦",
+      "onboard_time": 1755752843,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429551,
       "num": 220392,
       "word": "田曦薇 人生镜头来了",
@@ -257,14 +289,6 @@
       "onboard_time": 1755742461,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 425099,
-      "num": 221137,
-      "word": "银子怀孕",
-      "onboard_time": 1755753082,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 417607,
@@ -283,8 +307,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402904,
+      "num": 402904,
+      "word": "警方再通报奔驰车逼停摩托车",
+      "onboard_time": 1755748403,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 399270,
-      "num": 221053,
+      "num": 246084,
       "word": "液断7天瘦了13.2斤",
       "onboard_time": 1755747623,
       "rank": 22,
@@ -299,20 +331,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395978,
+      "num": 255301,
+      "word": "乌军170万人死亡名单遭泄露",
+      "onboard_time": 1755752903,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 393777,
       "num": 220187,
       "word": "付辛博认证颖儿是工作狂",
       "onboard_time": 1755701307,
       "rank": 11,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 379641,
-      "num": 221121,
-      "word": "李易峰被强制执行4990万",
-      "onboard_time": 1755753804,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 375310,
@@ -363,28 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 351231,
-      "num": 351231,
-      "word": "假如张若昀虞书欣演先婚后爱",
-      "onboard_time": 1755752243,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 343067,
       "num": 216467,
       "word": "单飞不解散",
       "onboard_time": 1755694525,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 332967,
-      "num": 332967,
-      "word": "警方再通报奔驰车逼停摩托车",
-      "onboard_time": 1755748403,
-      "rank": 44,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 331696,
@@ -436,11 +452,19 @@
     },
     {
       "raw_hot": 311698,
-      "num": 221102,
+      "num": 252284,
       "word": "周也 帝女气场",
       "onboard_time": 1755751942,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307482,
+      "num": 307482,
+      "word": "国乒男单到底怎么了",
+      "onboard_time": 1755752125,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 301068,
@@ -515,12 +539,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 253913,
-      "num": 221083,
-      "word": "乌军170万人死亡名单遭泄露",
-      "onboard_time": 1755752903,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 266273,
+      "num": 266273,
+      "word": "中国旅客在荷兰吸食毒品行为失控",
+      "onboard_time": 1755753502,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 252750,
@@ -563,6 +587,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 230618,
+      "num": 230618,
+      "word": "刘诗诗虞书欣双人拍立得",
+      "onboard_time": 1755752125,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228960,
       "num": 218397,
       "word": "终于知道为什么很少人拍元朝电视剧了",
@@ -587,20 +619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221043,
-      "num": 221043,
-      "word": "国乒男单到底怎么了",
-      "onboard_time": 1755752125,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 219406,
-      "num": 219406,
-      "word": "万国鹏再澄清曾追求张予曦",
-      "onboard_time": 1755752843,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 219859,
+      "num": 219859,
+      "word": "网红三哥资助孟加拉贫困户反被勒索",
+      "onboard_time": 1755753203,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 212381,
@@ -675,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191614,
+      "num": 191614,
+      "word": "2025IVL夏季赛总决赛",
+      "onboard_time": 1755754584,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190316,
       "num": 195815,
       "word": "TMEA",
@@ -689,6 +721,14 @@
       "onboard_time": 1755750624,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189891,
+      "num": 245327,
+      "word": "张艺兴天选摇子",
+      "onboard_time": 1755754163,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 183281,
@@ -707,20 +747,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 182788,
+      "num": 243790,
+      "word": "檀健次配音曹操",
+      "onboard_time": 1755753743,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180310,
       "num": 180310,
       "word": "如果的事",
       "onboard_time": 1755705803,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 178192,
-      "num": 178192,
-      "word": "刘诗诗虞书欣双人拍立得",
-      "onboard_time": 1755752125,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 176949,
@@ -755,6 +795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172586,
+      "num": 238826,
+      "word": "结婚基础离婚就不基础",
+      "onboard_time": 1755750683,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170667,
       "num": 195298,
       "word": "王一博保证完成任务",
@@ -787,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163228,
-      "num": 170368,
-      "word": "结婚基础离婚就不基础",
-      "onboard_time": 1755750683,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162211,
       "num": 213913,
       "word": "失踪的梨泰院惨案救援消防员已身亡",
@@ -816,6 +856,14 @@
       "word": "与君朝暮开播",
       "onboard_time": 1755749064,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160062,
+      "num": 160062,
+      "word": "刚出新手村就遇顶级魅魔",
+      "onboard_time": 1755753922,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -851,28 +899,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154791,
-      "num": 154791,
-      "word": "中国旅客在荷兰吸食毒品行为失控",
-      "onboard_time": 1755753502,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 153560,
-      "num": 153560,
-      "word": "网红三哥资助孟加拉贫困户反被勒索",
-      "onboard_time": 1755753203,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 153425,
       "num": 153425,
       "word": "张凌赫我想你了版今晚月色真美",
       "onboard_time": 1755747323,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149118,
+      "num": 172643,
+      "word": "官方回应非婚生子能否领取育儿补贴",
+      "onboard_time": 1755749663,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148519,
@@ -1003,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131549,
-      "num": 131549,
-      "word": "檀健次配音曹操",
-      "onboard_time": 1755753743,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 131147,
       "num": 131147,
       "word": "因父母求子被砍手女生的现状",
@@ -1067,6 +1099,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128472,
+      "num": 128472,
+      "word": "小酒窝人生第一次直播",
+      "onboard_time": 1755752663,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128302,
+      "num": 128302,
+      "word": "贺峻霖出门在外自己的身份自己安排",
+      "onboard_time": 1755753804,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126263,
       "num": 126263,
       "word": "章昊说惜败桃黑黑老师",
@@ -1091,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125894,
-      "num": 125894,
-      "word": "贺峻霖出门在外自己的身份自己安排",
-      "onboard_time": 1755753804,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125557,
       "num": 125557,
       "word": "严浩翔遗憾",
@@ -1115,6 +1155,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123717,
+      "num": 273827,
+      "word": "有一种视觉盛宴叫西藏的蓝",
+      "onboard_time": 1755741261,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123216,
+      "num": 123216,
+      "word": "刘宇宁工作室断粮了",
+      "onboard_time": 1755752782,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123204,
+      "num": 142011,
+      "word": "85岁老人容留卖淫每次嫖资抽10元",
+      "onboard_time": 1755754524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123098,
+      "num": 236014,
+      "word": "张凌赫无敌把妹王",
+      "onboard_time": 1755754343,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122652,
       "num": 122652,
       "word": "男子遇五步蛇和竹叶青打架被误伤",
@@ -1129,6 +1201,14 @@
       "onboard_time": 1755704004,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121276,
+      "num": 121276,
+      "word": "姚晨合照含美量还是太权威了",
+      "onboard_time": 1755753683,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120648,
@@ -1155,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119698,
-      "num": 119698,
-      "word": "小酒窝人生第一次直播",
-      "onboard_time": 1755752663,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119206,
       "num": 127498,
       "word": "A股半日成交额1.57万亿",
@@ -1179,20 +1251,12 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 118755,
-      "num": 118755,
-      "word": "刘宇宁工作室断粮了",
-      "onboard_time": 1755752782,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 118737,
-      "num": 118737,
-      "word": "刚出新手村就遇顶级魅魔",
-      "onboard_time": 1755753922,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 116384,
+      "num": 132989,
+      "word": "成人安抚奶嘴销量火爆",
+      "onboard_time": 1755753562,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115749,
@@ -1211,11 +1275,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110546,
-      "num": 209401,
-      "word": "有一种视觉盛宴叫西藏的蓝",
-      "onboard_time": 1755741261,
-      "rank": 47,
+      "raw_hot": 110916,
+      "num": 110916,
+      "word": "女子出差被性侵获赔113万案最新进展",
+      "onboard_time": 1755752364,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1323,12 +1387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89527,
-      "num": 172643,
-      "word": "官方回应非婚生子能否领取育儿补贴",
-      "onboard_time": 1755749663,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 89219,
+      "num": 113051,
+      "word": "3个月不控制饮食身体的变化",
+      "onboard_time": 1755753982,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 89040,
@@ -1356,7 +1420,7 @@
     },
     {
       "raw_hot": 83143,
-      "num": 565709,
+      "num": 722348,
       "word": "西藏自治区成立60周年",
       "onboard_time": 1755748703,
       "rank": 2,
@@ -1499,14 +1563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 56411,
-      "num": 132989,
-      "word": "成人安抚奶嘴销量火爆",
-      "onboard_time": 1755753562,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55970,
       "num": 55970,
       "word": "张艺兴也觉得自己有点像张艺兴",
@@ -1601,6 +1657,14 @@
       "onboard_time": 1755751226,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40345,
+      "num": 234654,
+      "word": "少数人的烟瘾不能绑架公众健康",
+      "onboard_time": 1755754343,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37770,
