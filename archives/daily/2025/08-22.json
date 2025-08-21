@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755808902485,
+  "endTime": 1755811437403,
   "band_list": [
     {
       "raw_hot": 1190706,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102023,
+      "num": 102023,
+      "word": "谁来救救何老师",
+      "onboard_time": 1755806714,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99216,
       "num": 99216,
       "word": "安宰贤3比2张本智和",
@@ -323,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74604,
-      "num": 37686,
-      "word": "谁来救救何老师",
-      "onboard_time": 1755806714,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 72361,
       "num": 88268,
       "word": "mokoko",
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 71910,
-      "num": 38131,
+      "num": 41409,
       "word": "王曼昱vs桥本帆乃香",
       "onboard_time": 1755802635,
       "rank": 30,
@@ -611,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14194,
+      "num": 18455,
+      "word": "只有正视历史才能获得尊重",
+      "onboard_time": 1755809655,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12115,
       "num": 43537,
       "word": "军乐团演奏员看到战旗方队落泪了",
@@ -624,6 +632,14 @@
       "word": "这个踩点变装又燃又帅",
       "onboard_time": 1755805994,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10603,
+      "num": 42037,
+      "word": "这张办公桌见证抗战胜利时刻",
+      "onboard_time": 1755809414,
+      "rank": 9,
       "category": "国内时政"
     }
   ],
