@@ -1,0 +1,410 @@
+{
+  "runTime": 1755805009106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 195878,
+        "num": 195878,
+        "word": "虞书欣 一念江南",
+        "onboard_time": 1755784404,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138918,
+        "num": 138918,
+        "word": "受胡雷资助的女孩不幸去世",
+        "onboard_time": 1755790342,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7299,
+        "num": 136299,
+        "word": "想快进到9月3日看阅兵",
+        "onboard_time": 1755764363,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134316,
+        "num": 134316,
+        "word": "胡雷资助的感动全网女孩意外去世",
+        "onboard_time": 1755791901,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96567,
+        "num": 96567,
+        "word": "泡泡玛特",
+        "onboard_time": 1755786024,
+        "rank": 4,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 75432,
+        "num": 75432,
+        "word": "胡雷回应资助的女孩去世",
+        "onboard_time": 1755792802,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63966,
+        "num": 63966,
+        "word": "12306回应无座与二等座同价质疑",
+        "onboard_time": 1755785785,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49206,
+        "num": 49206,
+        "word": "李在明喂完夫人喂议员被妻子挡开",
+        "onboard_time": 1755778043,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46460,
+        "num": 46460,
+        "word": "马嘉祺太稳了",
+        "onboard_time": 1755790882,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45740,
+        "num": 45740,
+        "word": "黑龙江一恶势力团伙全员改判无罪",
+        "onboard_time": 1755778583,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154573,
+        "num": 45534,
+        "word": "胡先煦 李宛妲",
+        "onboard_time": 1755777503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45324,
+        "num": 45324,
+        "word": "男子娶残障老婆最高可判死刑",
+        "onboard_time": 1755777982,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44813,
+        "num": 44813,
+        "word": "DRG五ban无畏辅助",
+        "onboard_time": 1755798737,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12115,
+        "num": 43537,
+        "word": "军乐团演奏员看到战旗方队落泪了",
+        "onboard_time": 1755804435,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43214,
+        "num": 43214,
+        "word": "刘涛 一念江南",
+        "onboard_time": 1755779363,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42494,
+        "num": 42494,
+        "word": "王艺迪1比3桥本帆乃香",
+        "onboard_time": 1755802635,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41225,
+        "num": 41225,
+        "word": "绣绣大脚的第二个孩子",
+        "onboard_time": 1755787344,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40839,
+        "num": 40839,
+        "word": "鞠婧祎画室",
+        "onboard_time": 1755786863,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38329,
+        "num": 38329,
+        "word": "确诊糖尿病前身体发出的信号",
+        "onboard_time": 1755776662,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37838,
+        "num": 37838,
+        "word": "胡先煦项链里有李宛妲照片",
+        "onboard_time": 1755778822,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35287,
+        "num": 35287,
+        "word": "早期肺癌的4个信号一定要警惕",
+        "onboard_time": 1755792802,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32088,
+        "num": 32088,
+        "word": "为什么酒店的被子塞那么紧",
+        "onboard_time": 1755780083,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31121,
+        "num": 31121,
+        "word": "京城大师赛",
+        "onboard_time": 1755800776,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26520,
+        "num": 31121,
+        "word": "原来排卵期一直在被误解",
+        "onboard_time": 1755760943,
+        "rank": 23,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 25208,
+        "num": 31117,
+        "word": "梓渝音乐节",
+        "onboard_time": 1755783263,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24557,
+        "num": 31113,
+        "word": "梁靖崑温瑞博2比3郭勇冯耀恩",
+        "onboard_time": 1755799696,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23685,
+        "num": 31112,
+        "word": "因二胎儿子跟母姓父亲起诉离婚",
+        "onboard_time": 1755788125,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23194,
+        "num": 31110,
+        "word": "无座与二等座同价",
+        "onboard_time": 1755781283,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22723,
+        "num": 31105,
+        "word": "古偶终于轮到男主跳城楼了",
+        "onboard_time": 1755776301,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19378,
+        "num": 31105,
+        "word": "严浩翔异瞳神父",
+        "onboard_time": 1755781042,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63479,
+        "num": 31102,
+        "word": "王曼昱vs桥本帆乃香",
+        "onboard_time": 1755802635,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33005,
+        "num": 31099,
+        "word": "韩国男子在柬遇害被扔垃圾桶",
+        "onboard_time": 1755800655,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22123,
+        "num": 31098,
+        "word": "律师谈李易峰被强执4990万后果",
+        "onboard_time": 1755785726,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21857,
+        "num": 31094,
+        "word": "日本新规每日玩手机不超2小时",
+        "onboard_time": 1755786504,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21562,
+        "num": 31092,
+        "word": "留学生遭电诈跳楼身亡家属发声",
+        "onboard_time": 1755784044,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20726,
+        "num": 31088,
+        "word": "迪丽热巴走路刀马刀马",
+        "onboard_time": 1755794119,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20516,
+        "num": 31085,
+        "word": "人生最大的贵人是你自己",
+        "onboard_time": 1755797238,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20429,
+        "num": 31084,
+        "word": "无畏MVP",
+        "onboard_time": 1755786925,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19712,
+        "num": 31080,
+        "word": "JDG对战DRG",
+        "onboard_time": 1755775342,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19747,
+        "num": 31079,
+        "word": "无村民知晓杀了3人的凶手患精神病",
+        "onboard_time": 1755786563,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19685,
+        "num": 31076,
+        "word": "被泼硫酸毁容女子发声",
+        "onboard_time": 1755785064,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18953,
+        "num": 31075,
+        "word": "星星人",
+        "onboard_time": 1755786325,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 18002,
+        "num": 31072,
+        "word": "万斯警告泽连斯基规矩点",
+        "onboard_time": 1755794239,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17071,
+        "num": 31068,
+        "word": "王传君神预言董璇张维伊",
+        "onboard_time": 1755765384,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16795,
+        "num": 31066,
+        "word": "ES8价格",
+        "onboard_time": 1755787643,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16738,
+        "num": 31062,
+        "word": "生万物 开仓放粮",
+        "onboard_time": 1755789804,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16725,
+        "num": 31062,
+        "word": "金泰熙因为育儿压力流泪",
+        "onboard_time": 1755781222,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16575,
+        "num": 31059,
+        "word": "心疼Peyz",
+        "onboard_time": 1755796997,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16243,
+        "num": 31055,
+        "word": "一下子没有年龄焦虑了",
+        "onboard_time": 1755790224,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 16098,
+        "num": 31052,
+        "word": "浙江嵊州一男子酒驾被拘留期间死亡",
+        "onboard_time": 1755804315,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记西藏之行难忘瞬间#"
+    }
+  }
+}
