@@ -1,0 +1,410 @@
+{
+  "runTime": 1755765240441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 789101,
+        "num": 1126256,
+        "word": "官方通报50升油箱加出67.96升汽油",
+        "onboard_time": 1755761543,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 545643,
+        "num": 545643,
+        "word": "女子坠谷生还三天后却在家被烧死",
+        "onboard_time": 1755763462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41969,
+        "num": 439867,
+        "word": "西藏自治区成立60周年",
+        "onboard_time": 1755748703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1583078,
+        "num": 428555,
+        "word": "男网红娶三个残障老婆",
+        "onboard_time": 1755762503,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 936627,
+        "num": 410602,
+        "word": "胡先煦坐了近五十个小时飞机",
+        "onboard_time": 1755761482,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374342,
+        "num": 374342,
+        "word": "中国旅客在荷兰吸食毒品行为失控",
+        "onboard_time": 1755753502,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 309188,
+        "num": 309188,
+        "word": "留学9天自杀女生5000字自白书曝光",
+        "onboard_time": 1755755662,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 303684,
+        "num": 303684,
+        "word": "12306为何在站台禁烟问题上反应冷淡",
+        "onboard_time": 1755751827,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296059,
+        "num": 296059,
+        "word": "台风玲玲已生成",
+        "onboard_time": 1755758361,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293891,
+        "num": 293891,
+        "word": "EXO的前夜是刘宪华写的",
+        "onboard_time": 1755763344,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 776966,
+        "num": 290850,
+        "word": "徐艺洋为了黄子韬放弃工作",
+        "onboard_time": 1755758902,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467845,
+        "num": 286602,
+        "word": "阚清子官宣怀孕后首次播剧",
+        "onboard_time": 1755760462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423872,
+        "num": 282582,
+        "word": "万国鹏再澄清曾追求张予曦",
+        "onboard_time": 1755752843,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274952,
+        "num": 274952,
+        "word": "原来关晓彤才是林黛玉最初人选",
+        "onboard_time": 1755743361,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257862,
+        "num": 257862,
+        "word": "假如张若昀虞书欣演先婚后爱",
+        "onboard_time": 1755752243,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244695,
+        "num": 244695,
+        "word": "135岁的老太太",
+        "onboard_time": 1755755304,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242338,
+        "num": 242338,
+        "word": "高铁目前不可能加挂吸烟车厢",
+        "onboard_time": 1755762383,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199623,
+        "num": 199623,
+        "word": "银子怀孕",
+        "onboard_time": 1755753082,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175934,
+        "num": 199136,
+        "word": "杨幂回应连续三部作品演技获赞",
+        "onboard_time": 1755764184,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56550,
+        "num": 199103,
+        "word": "vivo30年半部中国通信史",
+        "onboard_time": 1755763823,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 853265,
+        "num": 199101,
+        "word": "原来排卵期一直在被误解",
+        "onboard_time": 1755760943,
+        "rank": 20,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 199099,
+        "num": 199099,
+        "word": "曝黄正音贪污公款43亿炒币",
+        "onboard_time": 1755762863,
+        "rank": 21,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 192458,
+        "num": 192458,
+        "word": "高铁站台禁烟比禁止吃泡面更紧迫",
+        "onboard_time": 1755746182,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130449,
+        "num": 186349,
+        "word": "外交部敦促日本深刻反省侵略历史",
+        "onboard_time": 1755765025,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184384,
+        "num": 184384,
+        "word": "虞书欣的定妆照",
+        "onboard_time": 1755759683,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182756,
+        "num": 182756,
+        "word": "手机打电话和微信打电话的区别",
+        "onboard_time": 1755761784,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177148,
+        "num": 177148,
+        "word": "WTT中国大满贯",
+        "onboard_time": 1755764964,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174355,
+        "num": 174355,
+        "word": "12306回应高铁能否加挂吸烟车厢",
+        "onboard_time": 1755763643,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146322,
+        "num": 173951,
+        "word": "苏苏 事已至此不如好好吃饭",
+        "onboard_time": 1755762383,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34871,
+        "num": 173501,
+        "word": "男子被发小辞退后将其杀害",
+        "onboard_time": 1755765083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145351,
+        "num": 173004,
+        "word": "T1高管称Faker或打到五六十岁",
+        "onboard_time": 1755763943,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21556,
+        "num": 172125,
+        "word": "党旗手曾执行仪仗司礼任务300多次",
+        "onboard_time": 1755763344,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171815,
+        "num": 171815,
+        "word": "桃黑黑 国草",
+        "onboard_time": 1755750503,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 139762,
+        "num": 171753,
+        "word": "绣绣意外流产说了一句娘对不起",
+        "onboard_time": 1755763643,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140819,
+        "num": 171391,
+        "word": "献鱼子夜归 换乘导演",
+        "onboard_time": 1755760343,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68398,
+        "num": 171104,
+        "word": "触手兔后美国又发现变异鹿",
+        "onboard_time": 1755764964,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50758,
+        "num": 170689,
+        "word": "父婴室 男性育儿责任",
+        "onboard_time": 1755764184,
+        "rank": 36,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 37750,
+        "num": 170343,
+        "word": "主张高铁站台严格禁烟并不矫情",
+        "onboard_time": 1755765203,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137411,
+        "num": 169960,
+        "word": "JYP中国男团出道预告",
+        "onboard_time": 1755762803,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19793,
+        "num": 169590,
+        "word": "vivoVision移动巨幕体验秒上头",
+        "onboard_time": 1755763282,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169546,
+        "num": 169546,
+        "word": "两子非亲生大儿子反质父亲出轨",
+        "onboard_time": 1755764242,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40452,
+        "num": 164696,
+        "word": "中国豪华汽车看蔚来",
+        "onboard_time": 1755760283,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161392,
+        "num": 161392,
+        "word": "女子大闹麦当劳被行拘5日",
+        "onboard_time": 1755761543,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158988,
+        "num": 158988,
+        "word": "85岁老人容留卖淫每次嫖资抽10元",
+        "onboard_time": 1755754524,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36539,
+        "num": 156053,
+        "word": "男子好心留宿好友惨被偷家",
+        "onboard_time": 1755764184,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155950,
+        "num": 155950,
+        "word": "男子毒杀儿女前在家族群发收尸通知",
+        "onboard_time": 1755763164,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150669,
+        "num": 150669,
+        "word": "你们这么亲不扎嘴吗",
+        "onboard_time": 1755763223,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149573,
+        "num": 149573,
+        "word": "被父亲毒杀的兄妹死前抓烂枕头",
+        "onboard_time": 1755743422,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145448,
+        "num": 145448,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1755747623,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 139210,
+        "num": 139210,
+        "word": "乌军170万人死亡名单遭泄露",
+        "onboard_time": 1755752903,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席西藏自治区成立60周年庆祝大会#"
+    }
+  }
+}

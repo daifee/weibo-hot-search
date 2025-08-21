@@ -1,6 +1,6 @@
 {
   "startTime": 1755707518715,
-  "endTime": 1755762067672,
+  "endTime": 1755765240441,
   "band_list": [
     {
       "raw_hot": 4016949,
@@ -9,6 +9,14 @@
       "onboard_time": 1755753804,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1583078,
+      "num": 428555,
+      "word": "男网红娶三个残障老婆",
+      "onboard_time": 1755762503,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1486690,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1137012,
-      "num": 225789,
+      "num": 290850,
       "word": "徐艺洋为了黄子韬放弃工作",
       "onboard_time": 1755758902,
       "rank": 23,
@@ -67,12 +75,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 936627,
+      "num": 410602,
+      "word": "胡先煦坐了近五十个小时飞机",
+      "onboard_time": 1755761482,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 870945,
       "num": 327092,
       "word": "千百惠去世",
       "onboard_time": 1755696149,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 853265,
+      "num": 225461,
+      "word": "原来排卵期一直在被误解",
+      "onboard_time": 1755760943,
+      "rank": 36,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 835691,
@@ -89,6 +113,14 @@
       "onboard_time": 1755751827,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 789101,
+      "num": 1126256,
+      "word": "官方通报50升油箱加出67.96升汽油",
+      "onboard_time": 1755761543,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 788942,
@@ -163,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 659427,
-      "num": 225461,
-      "word": "原来排卵期一直在被误解",
-      "onboard_time": 1755760943,
-      "rank": 36,
-      "category": "科学科普,健康医疗"
-    },
-    {
       "raw_hot": 606388,
       "num": 264486,
       "word": "第一次看不上明星老公",
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 603082,
-      "num": 224381,
+      "num": 286602,
       "word": "阚清子官宣怀孕后首次播剧",
       "onboard_time": 1755760462,
       "rank": 22,
@@ -236,7 +260,7 @@
     },
     {
       "raw_hot": 557218,
-      "num": 257933,
+      "num": 282582,
       "word": "万国鹏再澄清曾追求张予曦",
       "onboard_time": 1755752843,
       "rank": 24,
@@ -259,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545643,
+      "num": 545643,
+      "word": "女子坠谷生还三天后却在家被烧死",
+      "onboard_time": 1755763462,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514920,
       "num": 274630,
       "word": "时代少年团直播",
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 510801,
-      "num": 240821,
+      "num": 244695,
       "word": "135岁的老太太",
       "onboard_time": 1755755304,
       "rank": 24,
@@ -571,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293891,
+      "num": 293891,
+      "word": "EXO的前夜是刘宪华写的",
+      "onboard_time": 1755763344,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290534,
       "num": 290534,
       "word": "阅兵训练现场看得热血沸腾",
@@ -585,14 +625,6 @@
       "onboard_time": 1755704424,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272812,
-      "num": 272812,
-      "word": "胡先煦坐了近五十个小时飞机",
-      "onboard_time": 1755761482,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 270888,
@@ -649,6 +681,14 @@
       "onboard_time": 1755756382,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 242338,
+      "num": 242338,
+      "word": "高铁目前不可能加挂吸烟车厢",
+      "onboard_time": 1755762383,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239729,
@@ -787,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199099,
+      "num": 199099,
+      "word": "曝黄正音贪污公款43亿炒币",
+      "onboard_time": 1755762863,
+      "rank": 21,
+      "category": "海外新闻,艺人"
+    },
+    {
       "raw_hot": 198363,
       "num": 198363,
       "word": "王俊凯易烊千玺电影同时入围金鹿奖",
@@ -899,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182756,
+      "num": 182756,
+      "word": "手机打电话和微信打电话的区别",
+      "onboard_time": 1755761784,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180310,
       "num": 180310,
       "word": "如果的事",
@@ -907,12 +963,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177148,
+      "num": 177148,
+      "word": "WTT中国大满贯",
+      "onboard_time": 1755764964,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176949,
       "num": 176949,
       "word": "赵丽颖长发直播",
       "onboard_time": 1755705264,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175934,
+      "num": 199136,
+      "word": "杨幂回应连续三部作品演技获赞",
+      "onboard_time": 1755764184,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175053,
@@ -929,6 +1001,14 @@
       "onboard_time": 1755761244,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174355,
+      "num": 174355,
+      "word": "12306回应高铁能否加挂吸烟车厢",
+      "onboard_time": 1755763643,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173235,
@@ -984,6 +1064,14 @@
       "word": "这座中国大桥横竖都是世界第一",
       "onboard_time": 1755757044,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169546,
+      "num": 169546,
+      "word": "两子非亲生大儿子反质父亲出轨",
+      "onboard_time": 1755764242,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1051,20 +1139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161704,
-      "num": 161704,
-      "word": "手机打电话和微信打电话的区别",
-      "onboard_time": 1755761784,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161558,
       "num": 161558,
       "word": "何老师看似情绪稳定实则没招了",
       "onboard_time": 1755759441,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161392,
+      "num": 199607,
+      "word": "女子大闹麦当劳被行拘5日",
+      "onboard_time": 1755761543,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160905,
@@ -1107,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155950,
+      "num": 155950,
+      "word": "男子毒杀儿女前在家族群发收尸通知",
+      "onboard_time": 1755763164,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154956,
       "num": 219086,
       "word": "我的职综白月光回来了",
@@ -1139,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150669,
+      "num": 150669,
+      "word": "你们这么亲不扎嘴吗",
+      "onboard_time": 1755763223,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149118,
       "num": 172643,
       "word": "官方回应非婚生子能否领取育儿补贴",
@@ -1152,6 +1256,14 @@
       "word": "子夜归 又是你洋葱哥",
       "onboard_time": 1755750444,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146322,
+      "num": 173951,
+      "word": "苏苏 事已至此不如好好吃饭",
+      "onboard_time": 1755762383,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1169,6 +1281,14 @@
       "onboard_time": 1755740302,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145351,
+      "num": 173004,
+      "word": "T1高管称Faker或打到五六十岁",
+      "onboard_time": 1755763943,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 144675,
@@ -1227,11 +1347,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140819,
+      "num": 171391,
+      "word": "献鱼子夜归 换乘导演",
+      "onboard_time": 1755760343,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139762,
+      "num": 171753,
+      "word": "绣绣意外流产说了一句娘对不起",
+      "onboard_time": 1755763643,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139069,
       "num": 111851,
       "word": "穿校服的关晓彤好有千金感",
       "onboard_time": 1755730036,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137411,
+      "num": 169960,
+      "word": "JYP中国男团出道预告",
+      "onboard_time": 1755762803,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1321,6 +1465,14 @@
       "onboard_time": 1755748583,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130449,
+      "num": 186349,
+      "word": "外交部敦促日本深刻反省侵略历史",
+      "onboard_time": 1755765025,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130098,
@@ -1779,14 +1931,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83039,
-      "num": 199607,
-      "word": "女子大闹麦当劳被行拘5日",
-      "onboard_time": 1755761543,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82801,
       "num": 82801,
       "word": "高桥布鲁娜回应战胜张本美和",
@@ -1867,12 +2011,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 69208,
-      "num": 219764,
-      "word": "官方通报50升油箱加出67.96升汽油",
-      "onboard_time": 1755761543,
-      "rank": 19,
-      "category": "辟谣/通报"
+      "raw_hot": 68398,
+      "num": 171104,
+      "word": "触手兔后美国又发现变异鹿",
+      "onboard_time": 1755764964,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67134,
@@ -1955,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56550,
+      "num": 199103,
+      "word": "vivo30年半部中国通信史",
+      "onboard_time": 1755763823,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 55970,
       "num": 55970,
       "word": "张艺兴也觉得自己有点像张艺兴",
@@ -1969,6 +2121,14 @@
       "onboard_time": 1755710597,
       "rank": 34,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 50758,
+      "num": 170689,
+      "word": "父婴室 男性育儿责任",
+      "onboard_time": 1755764184,
+      "rank": 36,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 49954,
@@ -2091,20 +2251,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37750,
+      "num": 170343,
+      "word": "主张高铁站台严格禁烟并不矫情",
+      "onboard_time": 1755765203,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36539,
+      "num": 156053,
+      "word": "男子好心留宿好友惨被偷家",
+      "onboard_time": 1755764184,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34871,
+      "num": 173501,
+      "word": "男子被发小辞退后将其杀害",
+      "onboard_time": 1755765083,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31127,
       "num": 394049,
       "word": "开始盼九三阅兵了",
       "onboard_time": 1755678083,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29225,
-      "num": 153786,
-      "word": "献鱼子夜归 换乘导演",
-      "onboard_time": 1755760343,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 28070,
@@ -2163,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21556,
+      "num": 172125,
+      "word": "党旗手曾执行仪仗司礼任务300多次",
+      "onboard_time": 1755763344,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21120,
       "num": 35187,
       "word": "黄安悼念千百惠",
@@ -2185,6 +2369,14 @@
       "onboard_time": 1755726195,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19793,
+      "num": 169590,
+      "word": "vivoVision移动巨幕体验秒上头",
+      "onboard_time": 1755763282,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 19411,
