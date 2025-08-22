@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755845499518,
+  "endTime": 1755847460465,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -16,6 +16,14 @@
       "word": "许荔莎 22年因赵晴被拍和许凯分手",
       "onboard_time": 1755826281,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14494545,
+      "num": 14494545,
+      "word": "许凯恋情时间线",
+      "onboard_time": 1755846025,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1320599,
+      "num": 193220,
+      "word": "赵晴工作室声明",
+      "onboard_time": 1755846025,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1291367,
       "num": 251736,
       "word": "许荔莎硬刚于正",
@@ -73,6 +89,22 @@
       "onboard_time": 1755790342,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1153481,
+      "num": 191729,
+      "word": "许荔莎报警",
+      "onboard_time": 1755847226,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1078295,
+      "num": 191602,
+      "word": "于正急得直播都没开美颜",
+      "onboard_time": 1755846745,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1053134,
@@ -163,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665258,
+      "num": 537121,
+      "word": "尖扎黄河特大桥事故瞬间画面",
+      "onboard_time": 1755840986,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 626348,
       "num": 626348,
       "word": "曝光乡政府人员缺岗当事人发声",
@@ -195,12 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 537121,
-      "num": 537121,
-      "word": "尖扎黄河特大桥事故瞬间画面",
-      "onboard_time": 1755840986,
-      "rank": 14,
-      "category": "突发/灾害"
+      "raw_hot": 529866,
+      "num": 529866,
+      "word": "三只羊东北雨姐再被点名",
+      "onboard_time": 1755842244,
+      "rank": 4,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 517768,
@@ -211,12 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 484811,
-      "num": 484811,
-      "word": "三只羊东北雨姐再被点名",
-      "onboard_time": 1755842244,
-      "rank": 4,
-      "category": "民生新闻,网红"
+      "raw_hot": 478561,
+      "num": 190338,
+      "word": "李晟 你现在好冷漠啊",
+      "onboard_time": 1755845186,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 451186,
@@ -427,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281424,
+      "num": 188630,
+      "word": "明星基础嫂子就不基础",
+      "onboard_time": 1755847226,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278589,
       "num": 230008,
       "word": "梓渝音乐节",
@@ -449,6 +497,14 @@
       "onboard_time": 1755835587,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 269341,
+      "num": 188106,
+      "word": "初潮和生育提前会加速衰老",
+      "onboard_time": 1755846325,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 268480,
@@ -491,12 +547,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257695,
+      "num": 189720,
+      "word": "存不到一亿都对不起这只虾",
+      "onboard_time": 1755845786,
+      "rank": 19,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 253054,
       "num": 253054,
       "word": "全球最古老海洋哺乳动物现身南海",
       "onboard_time": 1755817217,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250726,
+      "num": 250726,
+      "word": "A股",
+      "onboard_time": 1755841524,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 248862,
@@ -755,6 +827,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193552,
+      "num": 193552,
+      "word": "小猫基础养猫方式就不基础",
+      "onboard_time": 1755846265,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 191987,
+      "num": 191987,
+      "word": "尖扎黄河特大桥事发时16人现场作业",
+      "onboard_time": 1755846146,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190700,
       "num": 157585,
       "word": "刘耀文问浩翔配什么",
@@ -819,14 +907,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 187141,
-      "num": 187141,
-      "word": "A股",
-      "onboard_time": 1755841524,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 186659,
       "num": 186659,
       "word": "无限暖暖送你十亩田",
@@ -873,6 +953,14 @@
       "onboard_time": 1755839545,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180958,
+      "num": 180958,
+      "word": "酱园弄网播",
+      "onboard_time": 1755846446,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 180231,
@@ -931,6 +1019,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 170903,
+      "num": 228260,
+      "word": "九三阅兵他将高擎党旗走在队伍最前列",
+      "onboard_time": 1755844524,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 170458,
+      "num": 170458,
+      "word": "田曦薇你长成这样还有什么烦恼",
+      "onboard_time": 1755846927,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170159,
       "num": 170159,
       "word": "胡先煦项链里有李宛妲照片",
@@ -953,6 +1057,14 @@
       "onboard_time": 1755833546,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169246,
+      "num": 169246,
+      "word": "这届小狗饭的饭张力拉满了",
+      "onboard_time": 1755846686,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 168560,
@@ -1033,6 +1145,14 @@
       "onboard_time": 1755826763,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158467,
+      "num": 158467,
+      "word": "小米汽车",
+      "onboard_time": 1755846446,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 157826,
@@ -1203,12 +1323,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142140,
-      "num": 228260,
-      "word": "九三阅兵他将高擎党旗走在队伍最前列",
-      "onboard_time": 1755844524,
-      "rank": 33,
-      "category": "国内时政"
+      "raw_hot": 144157,
+      "num": 144157,
+      "word": "官方称确有部分干部迟到缺岗情况",
+      "onboard_time": 1755846146,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138131,
@@ -1299,20 +1419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131818,
-      "num": 131818,
-      "word": "李晟 你现在好冷漠啊",
-      "onboard_time": 1755845186,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130605,
       "num": 130605,
       "word": "又一尊巨型印度神像落成加拿大",
       "onboard_time": 1755827305,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129518,
+      "num": 129518,
+      "word": "寒武纪市值近5200亿",
+      "onboard_time": 1755846505,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 128103,
@@ -1395,6 +1515,14 @@
       "category": "音乐,电竞"
     },
     {
+      "raw_hot": 122364,
+      "num": 122364,
+      "word": "卧室巨星",
+      "onboard_time": 1755847407,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121693,
       "num": 121693,
       "word": "应急管理部派工作组指导尖扎黄河特大桥事故救援处置",
@@ -1451,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115861,
+      "num": 115861,
+      "word": "迪丽热巴拍摄日",
+      "onboard_time": 1755845906,
+      "rank": 44,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 115513,
       "num": 115513,
       "word": "银子 谁来赔这一生好光景",
@@ -1489,6 +1625,14 @@
       "onboard_time": 1755842484,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114173,
+      "num": 114173,
+      "word": "原来快递名字可以这么幸福",
+      "onboard_time": 1755845425,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 113867,
@@ -1667,6 +1811,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98403,
+      "num": 180978,
+      "word": "关口勋眼中的日产出海潜力",
+      "onboard_time": 1755846325,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 97961,
+      "num": 192254,
+      "word": "福建一煤矿7人死亡",
+      "onboard_time": 1755847106,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97178,
       "num": 115661,
       "word": "浪六群像 浪六群架",
@@ -1721,14 +1881,6 @@
       "onboard_time": 1755786625,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94419,
-      "num": 94419,
-      "word": "原来快递名字可以这么幸福",
-      "onboard_time": 1755845425,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 93980,
@@ -1889,6 +2041,14 @@
       "onboard_time": 1755771863,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71265,
+      "num": 123926,
+      "word": "在姑苏华莱士吃上了魔道的席",
+      "onboard_time": 1755846866,
+      "rank": 42,
+      "category": "美食,动漫"
     },
     {
       "raw_hot": 70451,

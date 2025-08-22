@@ -1,0 +1,410 @@
+{
+  "runTime": 1755847460465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14494545,
+        "num": 14494545,
+        "word": "许凯恋情时间线",
+        "onboard_time": 1755846025,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529866,
+        "num": 529866,
+        "word": "三只羊东北雨姐再被点名",
+        "onboard_time": 1755842244,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 21280,
+        "num": 399261,
+        "word": "这个踩点变装又燃又帅",
+        "onboard_time": 1755805994,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 358257,
+        "num": 358257,
+        "word": "妻子擅自堕胎丈夫索赔被驳回",
+        "onboard_time": 1755842665,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250726,
+        "num": 250726,
+        "word": "A股",
+        "onboard_time": 1755841524,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10154059,
+        "num": 10154059,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665258,
+        "num": 246868,
+        "word": "尖扎黄河特大桥事故瞬间画面",
+        "onboard_time": 1755840986,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 201659,
+        "num": 201659,
+        "word": "官方通报乡政府上班时间人员缺岗",
+        "onboard_time": 1755842904,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199722,
+        "num": 199722,
+        "word": "尖扎黄河特大桥事故7人遇难9人失联",
+        "onboard_time": 1755825143,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193552,
+        "num": 193552,
+        "word": "小猫基础养猫方式就不基础",
+        "onboard_time": 1755846265,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1320599,
+        "num": 193220,
+        "word": "赵晴工作室声明",
+        "onboard_time": 1755846025,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97961,
+        "num": 192254,
+        "word": "福建一煤矿7人死亡",
+        "onboard_time": 1755847106,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191987,
+        "num": 191987,
+        "word": "尖扎黄河特大桥事发时16人现场作业",
+        "onboard_time": 1755846146,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1153481,
+        "num": 191729,
+        "word": "许荔莎报警",
+        "onboard_time": 1755847226,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1078295,
+        "num": 191602,
+        "word": "于正急得直播都没开美颜",
+        "onboard_time": 1755846745,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629216,
+        "num": 191224,
+        "word": "卿卿日常",
+        "onboard_time": 1755831206,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 559668,
+        "num": 190844,
+        "word": "虞书欣替身发声",
+        "onboard_time": 1755832646,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478561,
+        "num": 190338,
+        "word": "李晟 你现在好冷漠啊",
+        "onboard_time": 1755845186,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465371,
+        "num": 190003,
+        "word": "陈铭首曝亲哥被绑架致残",
+        "onboard_time": 1755840325,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257695,
+        "num": 189720,
+        "word": "存不到一亿都对不起这只虾",
+        "onboard_time": 1755845786,
+        "rank": 19,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 345554,
+        "num": 189185,
+        "word": "大金 我的天要亮了吗",
+        "onboard_time": 1755835227,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372987,
+        "num": 188745,
+        "word": "虞书欣晒林晚星杀青特辑",
+        "onboard_time": 1755839486,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281424,
+        "num": 188630,
+        "word": "明星基础嫂子就不基础",
+        "onboard_time": 1755847226,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269341,
+        "num": 188106,
+        "word": "初潮和生育提前会加速衰老",
+        "onboard_time": 1755846325,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248013,
+        "num": 187855,
+        "word": "整个房间一半以上都是床",
+        "onboard_time": 1755842004,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217029,
+        "num": 187567,
+        "word": "夜光剧本2.0",
+        "onboard_time": 1755837627,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187303,
+        "num": 187303,
+        "word": "台湾女子买20包棉棒被抓",
+        "onboard_time": 1755843565,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182305,
+        "num": 182305,
+        "word": "揭秘尖扎黄河特大桥施工项目中标方",
+        "onboard_time": 1755841107,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181113,
+        "num": 181113,
+        "word": "王星越山顶直播",
+        "onboard_time": 1755842904,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98403,
+        "num": 180978,
+        "word": "关口勋眼中的日产出海潜力",
+        "onboard_time": 1755846325,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180958,
+        "num": 180958,
+        "word": "酱园弄网播",
+        "onboard_time": 1755846446,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170903,
+        "num": 170903,
+        "word": "九三阅兵他将高擎党旗走在队伍最前列",
+        "onboard_time": 1755844524,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170720,
+        "num": 170720,
+        "word": "胡雷资助女孩遗体在水池内发现",
+        "onboard_time": 1755833305,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170458,
+        "num": 170458,
+        "word": "田曦薇你长成这样还有什么烦恼",
+        "onboard_time": 1755846927,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169246,
+        "num": 169246,
+        "word": "这届小狗饭的饭张力拉满了",
+        "onboard_time": 1755846686,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158467,
+        "num": 158467,
+        "word": "小米汽车",
+        "onboard_time": 1755846446,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148879,
+        "num": 148879,
+        "word": "胡夏回应目前单身",
+        "onboard_time": 1755842364,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144157,
+        "num": 144157,
+        "word": "官方称确有部分干部迟到缺岗情况",
+        "onboard_time": 1755846146,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138895,
+        "num": 138895,
+        "word": "突然发现老了结婚全是好处",
+        "onboard_time": 1755838525,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138673,
+        "num": 138673,
+        "word": "沈佳润公主小妹撕拉片",
+        "onboard_time": 1755841405,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129518,
+        "num": 129518,
+        "word": "寒武纪市值近5200亿",
+        "onboard_time": 1755846505,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125649,
+        "num": 125649,
+        "word": "36岁存款30万决定提前退休",
+        "onboard_time": 1755839904,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71265,
+        "num": 123926,
+        "word": "在姑苏华莱士吃上了魔道的席",
+        "onboard_time": 1755846866,
+        "rank": 42,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 122364,
+        "num": 122364,
+        "word": "卧室巨星",
+        "onboard_time": 1755847407,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115861,
+        "num": 115861,
+        "word": "迪丽热巴拍摄日",
+        "onboard_time": 1755845906,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 115157,
+        "num": 115157,
+        "word": "新疆一河水退去留520米巨鲸图案",
+        "onboard_time": 1755835525,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115029,
+        "num": 115029,
+        "word": "子夜归soso soso就不soso",
+        "onboard_time": 1755837807,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114173,
+        "num": 114173,
+        "word": "原来快递名字可以这么幸福",
+        "onboard_time": 1755845425,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112792,
+        "num": 112792,
+        "word": "张踩铃 有大毛病就没人挑小毛病",
+        "onboard_time": 1755842543,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112496,
+        "num": 112496,
+        "word": "谁收到了王源发的短信",
+        "onboard_time": 1755844583,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平冀望美丽西藏新篇章#"
+    }
+  }
+}
