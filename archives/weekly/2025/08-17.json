@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755884466418,
+  "endTime": 1755887738126,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -6609,6 +6609,14 @@
       "onboard_time": 1755436885,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221881,
+      "num": 169056,
+      "word": "一年级pd对虞书欣的评价",
+      "onboard_time": 1755882621,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 221734,
@@ -19723,14 +19731,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 73569,
-      "num": 169056,
-      "word": "一年级pd对虞书欣的评价",
-      "onboard_time": 1755882621,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73359,
       "num": 248790,
       "word": "苗苗带孩子探班郑恺",
@@ -22355,6 +22355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 26832,
+      "num": 57522,
+      "word": "捕风追影二创追着喂饭吃",
+      "onboard_time": 1755628815,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26777,
       "num": 38401,
       "word": "梓渝晒势界杂志封面",
@@ -22377,6 +22385,14 @@
       "onboard_time": 1755764363,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26366,
+      "num": 57569,
+      "word": "TIMA国际音乐大赏",
+      "onboard_time": 1755886397,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 26251,
@@ -22451,14 +22467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24961,
-      "num": 35567,
-      "word": "捕风追影二创追着喂饭吃",
-      "onboard_time": 1755628815,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 24863,
       "num": 37131,
       "word": "2025暑期剧集TOP",
@@ -22513,6 +22521,14 @@
       "onboard_time": 1755511282,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24142,
+      "num": 57404,
+      "word": "陈立农深圳演唱会",
+      "onboard_time": 1755887418,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 23966,
