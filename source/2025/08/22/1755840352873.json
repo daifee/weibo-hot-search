@@ -1,0 +1,410 @@
+{
+  "runTime": 1755840352873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1105137,
+        "num": 2506205,
+        "word": "卿卿日常",
+        "onboard_time": 1755831206,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436637,
+        "num": 436637,
+        "word": "VOGUE",
+        "onboard_time": 1755837749,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 5133,
+        "num": 413217,
+        "word": "想快进到9月3日看阅兵",
+        "onboard_time": 1755764363,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10571280,
+        "num": 10571280,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412836,
+        "num": 412836,
+        "word": "喜茶 饿了么",
+        "onboard_time": 1755836606,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 438561,
+        "num": 407196,
+        "word": "知情人称去世女孩家中墙上挂满奖状",
+        "onboard_time": 1755832406,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562605,
+        "num": 399814,
+        "word": "虞书欣晒林晚星杀青特辑",
+        "onboard_time": 1755839486,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426310,
+        "num": 393344,
+        "word": "突然发现老了结婚全是好处",
+        "onboard_time": 1755838525,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285053,
+        "num": 387333,
+        "word": "新疆一河水退去留520米巨鲸图案",
+        "onboard_time": 1755835525,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237020,
+        "num": 382254,
+        "word": "被清华教室的粉笔震惊到了",
+        "onboard_time": 1755832286,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 7781160,
+        "num": 7781160,
+        "word": "许凯 赵晴",
+        "onboard_time": 1755827305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1299463,
+        "num": 363163,
+        "word": "许荔莎 对不起子夜归",
+        "onboard_time": 1755835826,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 938882,
+        "num": 355110,
+        "word": "虞书欣替身发声",
+        "onboard_time": 1755832646,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808417,
+        "num": 354095,
+        "word": "夜光剧本2.0",
+        "onboard_time": 1755837627,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674365,
+        "num": 345937,
+        "word": "胡雷资助女孩遗体在水池内发现",
+        "onboard_time": 1755833305,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721146,
+        "num": 335463,
+        "word": "大金 我的天要亮了吗",
+        "onboard_time": 1755835227,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333197,
+        "num": 333197,
+        "word": "杨紫19岁就演出了养老剧",
+        "onboard_time": 1755834806,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296932,
+        "num": 296932,
+        "word": "子夜归soso soso就不soso",
+        "onboard_time": 1755837807,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107438,
+        "num": 247098,
+        "word": "中国海警局新闻发言人发表谈话",
+        "onboard_time": 1755835468,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58277,
+        "num": 246673,
+        "word": "苏醒说做爸爸他是苏行",
+        "onboard_time": 1755836726,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246601,
+        "num": 246601,
+        "word": "老破小住久了副作用就来了",
+        "onboard_time": 1755836306,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208244,
+        "num": 208244,
+        "word": "菲律宾2艘小艇蓄意碰瓷挑衅",
+        "onboard_time": 1755835105,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206599,
+        "num": 206599,
+        "word": "36岁存款30万决定提前退休",
+        "onboard_time": 1755839904,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204099,
+        "num": 204099,
+        "word": "女子40岁二胎得子随母姓丈夫后悔",
+        "onboard_time": 1755836788,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203797,
+        "num": 203797,
+        "word": "邓超我跟热巴怎么这么有缘分",
+        "onboard_time": 1755831865,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201474,
+        "num": 201474,
+        "word": "孙千又来练车车车车",
+        "onboard_time": 1755837866,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154817,
+        "num": 197327,
+        "word": "沪指3800点",
+        "onboard_time": 1755840024,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196501,
+        "num": 196501,
+        "word": "庆余年生万物 剧王剧后",
+        "onboard_time": 1755836006,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129142,
+        "num": 186880,
+        "word": "会游泳和不会游泳的都爽了",
+        "onboard_time": 1755839845,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50879,
+        "num": 184164,
+        "word": "官方通报女子称幼时被父母虐待致残",
+        "onboard_time": 1755839486,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 183234,
+        "num": 183234,
+        "word": "孙俪领养独眼猫",
+        "onboard_time": 1755837089,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55693,
+        "num": 182168,
+        "word": "普特会上俄方4项停火条件曝光",
+        "onboard_time": 1755824302,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186286,
+        "num": 182158,
+        "word": "梁家辉 这么漂亮不应该这姿势抽烟",
+        "onboard_time": 1755835587,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181195,
+        "num": 181195,
+        "word": "看完百妖谱不敢打鼾",
+        "onboard_time": 1755839367,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 181042,
+        "num": 181042,
+        "word": "子夜归开始回南天了",
+        "onboard_time": 1755839545,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173399,
+        "num": 173399,
+        "word": "兄弟突然火成明星了啥体验",
+        "onboard_time": 1755839127,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138131,
+        "num": 161523,
+        "word": "当地回应民警上门找曝光者谈话",
+        "onboard_time": 1755837866,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160232,
+        "num": 160232,
+        "word": "邓超邀请将太郎录五哈",
+        "onboard_time": 1755836548,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157202,
+        "num": 157202,
+        "word": "林彦俊芭莎",
+        "onboard_time": 1755832466,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 49126,
+        "num": 138586,
+        "word": "马龙在公园和叔叔阿姨过招",
+        "onboard_time": 1755839664,
+        "rank": 39,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 137748,
+        "num": 137748,
+        "word": "初中老师被调高中当事人发声",
+        "onboard_time": 1755832585,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128055,
+        "num": 128055,
+        "word": "听潮阁42位歌手集体入驻微博",
+        "onboard_time": 1755837987,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124381,
+        "num": 124381,
+        "word": "陈铭首曝亲哥被绑架致残",
+        "onboard_time": 1755840325,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61362,
+        "num": 124298,
+        "word": "vivo让热爱有迹可循",
+        "onboard_time": 1755834208,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127301,
+        "num": 124276,
+        "word": "迪丽热巴的美貌是第一生产力",
+        "onboard_time": 1755839187,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124253,
+        "num": 124253,
+        "word": "乡政府回应上班时间人员缺岗",
+        "onboard_time": 1755827786,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118296,
+        "num": 118296,
+        "word": "黄晓明急着回家干嘛",
+        "onboard_time": 1755840265,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115879,
+        "num": 115879,
+        "word": "尖扎黄河特大桥事故7人遇难9人失联",
+        "onboard_time": 1755825143,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106405,
+        "num": 106405,
+        "word": "易烊千玺抢票",
+        "onboard_time": 1755837267,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105943,
+        "num": 105943,
+        "word": "8岁女孩溺亡家人起诉邻居索赔109万",
+        "onboard_time": 1755837267,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的西藏牵挂#"
+    }
+  }
+}
