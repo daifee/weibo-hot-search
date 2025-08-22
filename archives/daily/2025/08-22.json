@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755867929553,
+  "endTime": 1755869671037,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -47,6 +47,14 @@
       "num": 974072,
       "word": "虞书欣",
       "onboard_time": 1755851606,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2554481,
+      "num": 201787,
+      "word": "许荔莎 我以后缠着于正了",
+      "onboard_time": 1755869006,
       "rank": 10,
       "category": "艺人"
     },
@@ -211,20 +219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 893388,
+      "num": 1142942,
+      "word": "北京一老人横穿马路被撞飞身亡",
+      "onboard_time": 1755866006,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 876634,
       "num": 2365333,
       "word": "王莉霞接受审查调查",
       "onboard_time": 1755854605,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 875166,
-      "num": 1140026,
-      "word": "北京一老人横穿马路被撞飞身亡",
-      "onboard_time": 1755866006,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 871824,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 694265,
+      "num": 694265,
+      "word": "15岁女生军训期间心脏骤停不幸身亡",
+      "onboard_time": 1755864926,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 691787,
       "num": 691787,
       "word": "尖扎黄河特大桥事故4人遇难12人失联",
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 619186,
+      "num": 619186,
+      "word": "生万物封二去世",
+      "onboard_time": 1755867866,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 607776,
       "num": 220188,
       "word": "无村民知晓杀了3人的凶手患精神病",
@@ -328,14 +352,6 @@
       "word": "知情人称去世女孩家中墙上挂满奖状",
       "onboard_time": 1755832406,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 539784,
-      "num": 539784,
-      "word": "15岁女生军训期间心脏骤停不幸身亡",
-      "onboard_time": 1755864926,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -707,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288839,
+      "num": 288839,
+      "word": "恋与深空",
+      "onboard_time": 1755868105,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287273,
       "num": 287273,
       "word": "马嘉祺太稳了",
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220209,
+      "num": 199707,
+      "word": "月经期误区",
+      "onboard_time": 1755867147,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 219802,
       "num": 219802,
       "word": "王星越山顶直播",
@@ -1187,6 +1219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199399,
+      "num": 199399,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1755869006,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199118,
       "num": 1003591,
       "word": "留错一位手机号洗衣机被改地址送达",
@@ -1227,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196092,
+      "num": 196092,
+      "word": "TXT全员续约",
+      "onboard_time": 1755868407,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195206,
       "num": 195206,
       "word": "邓超 魔童饿了",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1755854605,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194960,
+      "num": 194960,
+      "word": "AG对战狼队",
+      "onboard_time": 1755862645,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 193733,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1755840805,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185757,
+      "num": 185757,
+      "word": "官方通报女子称幼时遭父母砍手割耳",
+      "onboard_time": 1755868468,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184285,
@@ -1563,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169789,
+      "num": 169789,
+      "word": "IVL",
+      "onboard_time": 1755869067,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169534,
       "num": 171540,
       "word": "杨幂周笔畅大张伟张口全是脱友梗",
@@ -1585,6 +1657,14 @@
       "onboard_time": 1755832585,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167766,
+      "num": 167766,
+      "word": "李一桐穿了40年前的古董礼服",
+      "onboard_time": 1755868767,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 166492,
@@ -1915,14 +1995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146975,
-      "num": 146975,
-      "word": "月经期误区",
-      "onboard_time": 1755867147,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 146771,
       "num": 249198,
       "word": "于适一个月干了别人一年的活",
@@ -1947,14 +2019,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 145241,
-      "num": 145241,
-      "word": "AG对战狼队",
-      "onboard_time": 1755862645,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 145223,
       "num": 145223,
       "word": "地球超新鲜",
@@ -1971,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144563,
+      "num": 144563,
+      "word": "Twice获奖感言",
+      "onboard_time": 1755868588,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144099,
       "num": 373751,
       "word": "永州通报民警上门谈话全程戴记录仪",
@@ -1985,6 +2057,14 @@
       "onboard_time": 1755854006,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143605,
+      "num": 143605,
+      "word": "早安把0713带偏了",
+      "onboard_time": 1755868346,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 142029,
@@ -2139,12 +2219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133417,
+      "num": 133417,
+      "word": "陈熠vs温特",
+      "onboard_time": 1755868527,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133178,
       "num": 98610,
       "word": "王曼昱vs桥本帆乃香",
       "onboard_time": 1755802635,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132605,
+      "num": 132605,
+      "word": "生万物",
+      "onboard_time": 1755863967,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 130605,
@@ -2411,14 +2507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115921,
-      "num": 115921,
-      "word": "生万物",
-      "onboard_time": 1755863967,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115861,
       "num": 115861,
       "word": "迪丽热巴拍摄日",
@@ -2619,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102974,
+      "num": 102974,
+      "word": "孙颖莎如何保持世界第一",
+      "onboard_time": 1755869126,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102493,
       "num": 102493,
       "word": "减肥成功的人做对了一件事",
@@ -2795,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94226,
+      "num": 94226,
+      "word": "RiizeTIMA舞台",
+      "onboard_time": 1755869485,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93980,
       "num": 93980,
       "word": "吃饭看新闻联播认出科学家悄悄买单",
@@ -2859,12 +2963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91082,
+      "num": 91082,
+      "word": "商家称磁疗床垫可让尸体百年不腐",
+      "onboard_time": 1755869604,
+      "rank": 48,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 90996,
       "num": 90996,
       "word": "胡雷",
       "onboard_time": 1755825022,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90849,
+      "num": 106229,
+      "word": "张万森当鬼了",
+      "onboard_time": 1755869067,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 89966,
@@ -2881,14 +3001,6 @@
       "onboard_time": 1755858804,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 89799,
-      "num": 106402,
-      "word": "生万物封二去世",
-      "onboard_time": 1755867866,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 88882,
@@ -2976,6 +3088,14 @@
       "word": "警方回应苟姓市民申请改姓未获批",
       "onboard_time": 1755851486,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84350,
+      "num": 99798,
+      "word": "法拍狸花猫已撤回拍卖",
+      "onboard_time": 1755869604,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -3347,6 +3467,14 @@
       "category": "体育,其它"
     },
     {
+      "raw_hot": 48034,
+      "num": 132888,
+      "word": "福建一煤矿7人死亡遇难者多为外地人",
+      "onboard_time": 1755867748,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47504,
       "num": 347657,
       "word": "2025年上海合作组织峰会",
@@ -3393,6 +3521,14 @@
       "onboard_time": 1755811934,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42705,
+      "num": 105530,
+      "word": "孙颖莎乒乓赛场解题学霸",
+      "onboard_time": 1755869366,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 42204,
@@ -3547,14 +3683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26493,
-      "num": 109257,
-      "word": "福建一煤矿7人死亡遇难者多为外地人",
-      "onboard_time": 1755867748,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25026,
       "num": 248864,
       "word": "文身师就上海亚宠展文身犬致歉",
@@ -3676,7 +3804,7 @@
     },
     {
       "raw_hot": 11069,
-      "num": 42037,
+      "num": 648404,
       "word": "这张办公桌见证抗战胜利时刻",
       "onboard_time": 1755809414,
       "rank": 9,
@@ -3689,6 +3817,14 @@
       "onboard_time": 1755847947,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7785,
+      "num": 124621,
+      "word": "秋天的第一首歌是于适给的",
+      "onboard_time": 1755869547,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 7188,

@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755867929553,
+  "endTime": 1755869671037,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -575,6 +575,14 @@
       "num": 304529,
       "word": "赵露思回应鼻子动了",
       "onboard_time": 1754746404,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2554481,
+      "num": 201787,
+      "word": "许荔莎 我以后缠着于正了",
+      "onboard_time": 1755869006,
       "rank": 10,
       "category": "艺人"
     },
@@ -4803,6 +4811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 893388,
+      "num": 1142942,
+      "word": "北京一老人横穿马路被撞飞身亡",
+      "onboard_time": 1755866006,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 891432,
       "num": 665183,
       "word": "郭德纲说已经卑微到看郭麒麟脸色",
@@ -4913,14 +4929,6 @@
       "onboard_time": 1754459902,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 875166,
-      "num": 1140026,
-      "word": "北京一老人横穿马路被撞飞身亡",
-      "onboard_time": 1755866006,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 875005,
@@ -7075,6 +7083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 694265,
+      "num": 694265,
+      "word": "15岁女生军训期间心脏骤停不幸身亡",
+      "onboard_time": 1755864926,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 693889,
       "num": 693889,
       "word": "网红猪坚强负债50万搞爱好",
@@ -8393,6 +8409,14 @@
       "onboard_time": 1754316265,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 619186,
+      "num": 619186,
+      "word": "生万物封二去世",
+      "onboard_time": 1755867866,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 619121,
@@ -10025,14 +10049,6 @@
       "onboard_time": 1755438864,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 539784,
-      "num": 539784,
-      "word": "15岁女生军训期间心脏骤停不幸身亡",
-      "onboard_time": 1755864926,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 539212,
@@ -23251,6 +23267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220209,
+      "num": 199707,
+      "word": "月经期误区",
+      "onboard_time": 1755867147,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 219825,
       "num": 219825,
       "word": "立秋红包",
@@ -27755,6 +27779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196092,
+      "num": 196092,
+      "word": "TXT全员续约",
+      "onboard_time": 1755868407,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196069,
       "num": 196069,
       "word": "热烈网播定档",
@@ -30488,6 +30520,14 @@
       "word": "北京大雨",
       "onboard_time": 1754489724,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185757,
+      "num": 185757,
+      "word": "官方通报女子称幼时遭父母砍手割耳",
+      "onboard_time": 1755868468,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -34483,6 +34523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169789,
+      "num": 169789,
+      "word": "IVL",
+      "onboard_time": 1755869067,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169750,
       "num": 169750,
       "word": "浙江队3比4北京国安",
@@ -34945,6 +34993,14 @@
       "onboard_time": 1754548942,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167766,
+      "num": 167766,
+      "word": "李一桐穿了40年前的古董礼服",
+      "onboard_time": 1755868767,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 167663,
@@ -41651,14 +41707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 146975,
-      "num": 146975,
-      "word": "月经期误区",
-      "onboard_time": 1755867147,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 146973,
       "num": 146973,
       "word": "古剑单机新作首曝",
@@ -42635,6 +42683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144563,
+      "num": 144563,
+      "word": "Twice获奖感言",
+      "onboard_time": 1755868588,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144537,
       "num": 144537,
       "word": "杨超越的丧尸不像演的",
@@ -42929,6 +42985,14 @@
       "onboard_time": 1755575301,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143605,
+      "num": 143605,
+      "word": "早安把0713带偏了",
+      "onboard_time": 1755868346,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 143600,
@@ -47449,6 +47513,14 @@
       "onboard_time": 1754834485,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133417,
+      "num": 133417,
+      "word": "陈熠vs温特",
+      "onboard_time": 1755868527,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 133416,
@@ -60067,6 +60139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102974,
+      "num": 102974,
+      "word": "孙颖莎如何保持世界第一",
+      "onboard_time": 1755869126,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102970,
       "num": 102970,
       "word": "杨幂生万物魔童降世",
@@ -62955,6 +63035,14 @@
       "category": "运动健身,美食"
     },
     {
+      "raw_hot": 94226,
+      "num": 94226,
+      "word": "RiizeTIMA舞台",
+      "onboard_time": 1755869485,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94178,
       "num": 94178,
       "word": "睡够八小时还是巨累是为啥",
@@ -63763,6 +63851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91082,
+      "num": 91082,
+      "word": "商家称磁疗床垫可让尸体百年不腐",
+      "onboard_time": 1755869604,
+      "rank": 48,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 91049,
       "num": 106334,
       "word": "再看水花消失术依然惊艳",
@@ -63809,6 +63905,14 @@
       "onboard_time": 1755472758,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90849,
+      "num": 106229,
+      "word": "张万森当鬼了",
+      "onboard_time": 1755869067,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 90769,
@@ -64025,14 +64129,6 @@
       "onboard_time": 1755389419,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89799,
-      "num": 106402,
-      "word": "生万物封二去世",
-      "onboard_time": 1755867866,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 89792,
@@ -65177,6 +65273,14 @@
       "onboard_time": 1755705683,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84350,
+      "num": 99798,
+      "word": "法拍狸花猫已撤回拍卖",
+      "onboard_time": 1755869604,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84267,
@@ -70755,6 +70859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48034,
+      "num": 132888,
+      "word": "福建一煤矿7人死亡遇难者多为外地人",
+      "onboard_time": 1755867748,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48009,
       "num": 66486,
       "word": "周也 也人追剧又唱歌",
@@ -71713,6 +71825,14 @@
       "onboard_time": 1755387017,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42705,
+      "num": 105530,
+      "word": "孙颖莎乒乓赛场解题学霸",
+      "onboard_time": 1755869366,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 42617,
@@ -74547,14 +74667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26493,
-      "num": 109257,
-      "word": "福建一煤矿7人死亡遇难者多为外地人",
-      "onboard_time": 1755867748,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26488,
       "num": 30790,
       "word": "原来看汪苏泷演唱会真的会哭",
@@ -76556,7 +76668,7 @@
     },
     {
       "raw_hot": 11069,
-      "num": 42037,
+      "num": 648404,
       "word": "这张办公桌见证抗战胜利时刻",
       "onboard_time": 1755809414,
       "rank": 9,
@@ -76737,6 +76849,14 @@
       "onboard_time": 1755283875,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7785,
+      "num": 124621,
+      "word": "秋天的第一首歌是于适给的",
+      "onboard_time": 1755869547,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 7113,
