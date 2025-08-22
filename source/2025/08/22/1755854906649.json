@@ -1,0 +1,410 @@
+{
+  "runTime": 1755854906649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13469545,
+        "num": 13469545,
+        "word": "许凯恋情时间线",
+        "onboard_time": 1755846025,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502022,
+        "num": 502022,
+        "word": "台湾17岁少年遭好友虐杀弃尸",
+        "onboard_time": 1755850046,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5492,
+        "num": 476871,
+        "word": "这个踩点变装又燃又帅",
+        "onboard_time": 1755805994,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 458144,
+        "num": 458144,
+        "word": "泽连斯基称不需要中国提供安全保障",
+        "onboard_time": 1755852208,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 366260,
+        "num": 366260,
+        "word": "中国渔民多次捞到间谍鱼",
+        "onboard_time": 1755849985,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7000205,
+        "num": 7000205,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1029728,
+        "num": 324566,
+        "word": "王星越突然直播一直哭",
+        "onboard_time": 1755847527,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291524,
+        "num": 291524,
+        "word": "尖扎黄河特大桥事故瞬间画面",
+        "onboard_time": 1755840986,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 241973,
+        "num": 241973,
+        "word": "被错误羁押6370天男子申请国赔1911万",
+        "onboard_time": 1755852327,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230297,
+        "num": 230297,
+        "word": "三只羊东北雨姐再被点名",
+        "onboard_time": 1755842244,
+        "rank": 9,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 2560287,
+        "num": 229896,
+        "word": "虞书欣",
+        "onboard_time": 1755851606,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1652304,
+        "num": 229533,
+        "word": "欢娱乱成一锅粥了",
+        "onboard_time": 1755851006,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750143,
+        "num": 229147,
+        "word": "心疼田曦薇",
+        "onboard_time": 1755851306,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662468,
+        "num": 228394,
+        "word": "赵晴工作室声明",
+        "onboard_time": 1755846025,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605195,
+        "num": 227926,
+        "word": "于正急得直播都没开美颜",
+        "onboard_time": 1755846745,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595667,
+        "num": 227607,
+        "word": "于正 情绪性暴食",
+        "onboard_time": 1755853465,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516490,
+        "num": 227281,
+        "word": "欢娱一哥",
+        "onboard_time": 1755852266,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429013,
+        "num": 226558,
+        "word": "许荔莎报警",
+        "onboard_time": 1755847226,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402630,
+        "num": 226126,
+        "word": "你比星光美丽",
+        "onboard_time": 1755850106,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225819,
+        "num": 225819,
+        "word": "痛金",
+        "onboard_time": 1755849207,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 386019,
+        "num": 225628,
+        "word": "明星基础嫂子就不基础",
+        "onboard_time": 1755847226,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264885,
+        "num": 225355,
+        "word": "TF四代 新疆",
+        "onboard_time": 1755852807,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258333,
+        "num": 224961,
+        "word": "卿卿日常",
+        "onboard_time": 1755831206,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249577,
+        "num": 224402,
+        "word": "欢娱律师声明",
+        "onboard_time": 1755851425,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224222,
+        "num": 224222,
+        "word": "迪丽热巴 真人BJD",
+        "onboard_time": 1755854067,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202203,
+        "num": 202203,
+        "word": "居民存款暴跌老百姓的钱都去哪了",
+        "onboard_time": 1755848965,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198785,
+        "num": 198785,
+        "word": "韩庚是怎么把这些人凑到一起的",
+        "onboard_time": 1755854067,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182909,
+        "num": 182909,
+        "word": "生万物豆瓣开分7.5",
+        "onboard_time": 1755853587,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170723,
+        "num": 182769,
+        "word": "王莉霞接受审查调查",
+        "onboard_time": 1755854605,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182758,
+        "num": 182758,
+        "word": "大金 我的天要亮了吗",
+        "onboard_time": 1755835227,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180684,
+        "num": 180684,
+        "word": "存不到一亿都对不起这只虾",
+        "onboard_time": 1755845786,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 179291,
+        "num": 179291,
+        "word": "女子回应家暴丈夫找小三路上摔进ICU",
+        "onboard_time": 1755852208,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179283,
+        "num": 179283,
+        "word": "原来iPhone长按这么好用",
+        "onboard_time": 1755847706,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153510,
+        "num": 171615,
+        "word": "邓超帮迪丽热巴补位",
+        "onboard_time": 1755854486,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171135,
+        "num": 171135,
+        "word": "赵丽颖向内审视向上生长",
+        "onboard_time": 1755854306,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83833,
+        "num": 164616,
+        "word": "外交部回应中国留学生被美无端盘查",
+        "onboard_time": 1755853646,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163549,
+        "num": 163549,
+        "word": "张晚意 长了痘是抠还是不抠",
+        "onboard_time": 1755847646,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162175,
+        "num": 162175,
+        "word": "五星级酒店泳池里有蛇",
+        "onboard_time": 1755852986,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33356,
+        "num": 162149,
+        "word": "提前还款误区",
+        "onboard_time": 1755853705,
+        "rank": 38,
+        "category": "情感,科学科普"
+      },
+      {
+        "raw_hot": 46902,
+        "num": 162138,
+        "word": "美美桑内之父稳居C位",
+        "onboard_time": 1755853885,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162130,
+        "num": 162130,
+        "word": "TIMA",
+        "onboard_time": 1755854605,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156470,
+        "num": 161657,
+        "word": "邢菲也是好起来了",
+        "onboard_time": 1755854306,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161589,
+        "num": 161589,
+        "word": "这居然是周翊然",
+        "onboard_time": 1755850886,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157514,
+        "num": 157514,
+        "word": "李晟 你现在好冷漠啊",
+        "onboard_time": 1755845186,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106046,
+        "num": 150129,
+        "word": "南京南站站台禁烟",
+        "onboard_time": 1755853286,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149324,
+        "num": 149324,
+        "word": "我爸坐了一趟上海一号线不催婚了",
+        "onboard_time": 1755851185,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 126177,
+        "num": 138320,
+        "word": "原来减肥期吃火锅一直被误解",
+        "onboard_time": 1755852447,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133477,
+        "num": 133477,
+        "word": "永州通报民警上门谈话全程戴记录仪",
+        "onboard_time": 1755847886,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129863,
+        "num": 129863,
+        "word": "王星越回应爬山哭了",
+        "onboard_time": 1755852327,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46766,
+        "num": 124176,
+        "word": "宋佳的S级经典镜头",
+        "onboard_time": 1755854787,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席上合峰会#"
+    }
+  }
+}

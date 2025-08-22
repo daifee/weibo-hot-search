@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755852412700,
+  "endTime": 1755854906649,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1652304,
+      "num": 841191,
+      "word": "欢娱乱成一锅粥了",
+      "onboard_time": 1755851006,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1587232,
       "num": 332048,
       "word": "于正直播",
@@ -104,14 +112,6 @@
       "word": "许荔莎硬刚于正",
       "onboard_time": 1755827786,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1230666,
-      "num": 841191,
-      "word": "欢娱乱成一锅粥了",
-      "onboard_time": 1755851006,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 595667,
+      "num": 227607,
+      "word": "于正 情绪性暴食",
+      "onboard_time": 1755853465,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 562605,
       "num": 399814,
       "word": "虞书欣晒林晚星杀青特辑",
@@ -299,12 +307,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516490,
+      "num": 227281,
+      "word": "欢娱一哥",
+      "onboard_time": 1755852266,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 502022,
+      "num": 3733649,
+      "word": "台湾17岁少年遭好友虐杀弃尸",
+      "onboard_time": 1755850046,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478561,
       "num": 409849,
       "word": "李晟 你现在好冷漠啊",
       "onboard_time": 1755845186,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458144,
+      "num": 458144,
+      "word": "泽连斯基称不需要中国提供安全保障",
+      "onboard_time": 1755852208,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 451186,
@@ -427,19 +459,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366260,
+      "num": 366260,
+      "word": "中国渔民多次捞到间谍鱼",
+      "onboard_time": 1755849985,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 364618,
       "num": 364618,
       "word": "内蒙古山洪12人遇难",
       "onboard_time": 1755825860,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 351547,
-      "num": 3733649,
-      "word": "台湾17岁少年遭好友虐杀弃尸",
-      "onboard_time": 1755850046,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -587,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264885,
+      "num": 225355,
+      "word": "TF四代 新疆",
+      "onboard_time": 1755852807,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264816,
       "num": 264816,
       "word": "无座与二等座同价",
@@ -617,14 +657,6 @@
       "onboard_time": 1755840265,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256586,
-      "num": 348338,
-      "word": "中国渔民多次捞到间谍鱼",
-      "onboard_time": 1755849985,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 253054,
@@ -681,6 +713,14 @@
       "onboard_time": 1755832286,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 241973,
+      "num": 241973,
+      "word": "被错误羁押6370天男子申请国赔1911万",
+      "onboard_time": 1755852327,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240859,
@@ -779,12 +819,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225819,
+      "num": 225819,
+      "word": "痛金",
+      "onboard_time": 1755849207,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224988,
       "num": 224988,
       "word": "沈佳润公主小妹撕拉片",
       "onboard_time": 1755841405,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224222,
+      "num": 224222,
+      "word": "迪丽热巴 真人BJD",
+      "onboard_time": 1755854067,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222738,
@@ -875,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207125,
-      "num": 207125,
-      "word": "欢娱一哥",
-      "onboard_time": 1755852266,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204282,
       "num": 204282,
       "word": "谁收到了王源发的短信",
@@ -904,6 +952,14 @@
       "word": "台湾女子买20包棉棒被抓",
       "onboard_time": 1755843565,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202203,
+      "num": 202203,
+      "word": "居民存款暴跌老百姓的钱都去哪了",
+      "onboard_time": 1755848965,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -931,6 +987,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198785,
+      "num": 198785,
+      "word": "韩庚是怎么把这些人凑到一起的",
+      "onboard_time": 1755854067,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196360,
       "num": 196360,
       "word": "25岁女生有车后的真实变化",
@@ -952,14 +1016,6 @@
       "word": "民警找曝光者谈话家中老人被吓轻生",
       "onboard_time": 1755833185,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193928,
-      "num": 193928,
-      "word": "居民存款暴跌老百姓的钱都去哪了",
-      "onboard_time": 1755848965,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1075,6 +1131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 182909,
+      "num": 182909,
+      "word": "生万物豆瓣开分7.5",
+      "onboard_time": 1755853587,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181572,
       "num": 181572,
       "word": "子夜归剧粉",
@@ -1121,6 +1185,14 @@
       "onboard_time": 1755852327,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179291,
+      "num": 179291,
+      "word": "女子回应家暴丈夫找小三路上摔进ICU",
+      "onboard_time": 1755852208,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176525,
@@ -1171,12 +1243,28 @@
       "category": "互联网,动漫"
     },
     {
+      "raw_hot": 171135,
+      "num": 171135,
+      "word": "赵丽颖向内审视向上生长",
+      "onboard_time": 1755854306,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171115,
       "num": 171115,
       "word": "龙族到底谁数了谁的睫毛",
       "onboard_time": 1755836487,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 170723,
+      "num": 182769,
+      "word": "王莉霞接受审查调查",
+      "onboard_time": 1755854605,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170159,
@@ -1257,6 +1345,22 @@
       "onboard_time": 1755824003,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162175,
+      "num": 162175,
+      "word": "五星级酒店泳池里有蛇",
+      "onboard_time": 1755852986,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162130,
+      "num": 162130,
+      "word": "TIMA",
+      "onboard_time": 1755854605,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 161783,
@@ -1347,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156470,
+      "num": 161657,
+      "word": "邢菲也是好起来了",
+      "onboard_time": 1755854306,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155360,
       "num": 155360,
       "word": "QQ常用户 微信常用户",
@@ -1392,6 +1504,14 @@
       "word": "韩庚收拾收拾跟20年前有什么区别",
       "onboard_time": 1755834567,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153510,
+      "num": 171615,
+      "word": "邓超帮迪丽热巴补位",
+      "onboard_time": 1755854486,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1456,22 +1576,6 @@
       "word": "普特会上俄方4项停火条件曝光",
       "onboard_time": 1755824302,
       "rank": 24,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 147691,
-      "num": 147691,
-      "word": "痛金",
-      "onboard_time": 1755849207,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147420,
-      "num": 147420,
-      "word": "泽连斯基称不需要中国提供安全保障",
-      "onboard_time": 1755852208,
-      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -1683,14 +1787,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 129972,
-      "num": 129972,
-      "word": "女子回应家暴丈夫找小三路上摔进ICU",
-      "onboard_time": 1755852208,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129518,
       "num": 129518,
       "word": "寒武纪市值近5200亿",
@@ -1739,12 +1835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127100,
-      "num": 127100,
-      "word": "被错误羁押6370天男子申请国赔1911万",
-      "onboard_time": 1755852327,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 126177,
+      "num": 138320,
+      "word": "原来减肥期吃火锅一直被误解",
+      "onboard_time": 1755852447,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 126117,
@@ -1985,6 +2081,14 @@
       "onboard_time": 1755843204,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 106046,
+      "num": 150129,
+      "word": "南京南站站台禁烟",
+      "onboard_time": 1755853286,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105943,
@@ -2257,6 +2361,14 @@
       "onboard_time": 1755851486,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83833,
+      "num": 164616,
+      "word": "外交部回应中国留学生被美无端盘查",
+      "onboard_time": 1755853646,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82580,
@@ -2555,6 +2667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46902,
+      "num": 162138,
+      "word": "美美桑内之父稳居C位",
+      "onboard_time": 1755853885,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46766,
+      "num": 124176,
+      "word": "宋佳的S级经典镜头",
+      "onboard_time": 1755854787,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 46623,
       "num": 149223,
       "word": "男子直播售卖愿望符纸获利36万",
@@ -2665,6 +2793,14 @@
       "onboard_time": 1755834447,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33356,
+      "num": 162149,
+      "word": "提前还款误区",
+      "onboard_time": 1755853705,
+      "rank": 38,
+      "category": "情感,科学科普"
     },
     {
       "raw_hot": 31546,

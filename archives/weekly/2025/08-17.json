@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755852412700,
+  "endTime": 1755854906649,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -337,6 +337,14 @@
       "onboard_time": 1755831206,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1652304,
+      "num": 841191,
+      "word": "欢娱乱成一锅粥了",
+      "onboard_time": 1755851006,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1622456,
@@ -721,14 +729,6 @@
       "onboard_time": 1755506302,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1230666,
-      "num": 841191,
-      "word": "欢娱乱成一锅粥了",
-      "onboard_time": 1755851006,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1228678,
@@ -2283,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595667,
+      "num": 227607,
+      "word": "于正 情绪性暴食",
+      "onboard_time": 1755853465,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593639,
       "num": 423886,
       "word": "RM成员不知道金钟国结婚",
@@ -2699,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 516490,
+      "num": 227281,
+      "word": "欢娱一哥",
+      "onboard_time": 1755852266,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514920,
       "num": 274630,
       "word": "时代少年团直播",
@@ -2784,6 +2800,14 @@
       "word": "女子被人公开挂介入闺蜜婚姻横幅",
       "onboard_time": 1755672382,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502022,
+      "num": 3733649,
+      "word": "台湾17岁少年遭好友虐杀弃尸",
+      "onboard_time": 1755850046,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -3025,6 +3049,14 @@
       "onboard_time": 1755505342,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458144,
+      "num": 458144,
+      "word": "泽连斯基称不需要中国提供安全保障",
+      "onboard_time": 1755852208,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 457503,
@@ -3875,6 +3907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366260,
+      "num": 366260,
+      "word": "中国渔民多次捞到间谍鱼",
+      "onboard_time": 1755849985,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 365172,
       "num": 365172,
       "word": "布达拉宫广场升国旗奏国歌",
@@ -3969,14 +4009,6 @@
       "onboard_time": 1755398661,
       "rank": 22,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 351547,
-      "num": 3733649,
-      "word": "台湾17岁少年遭好友虐杀弃尸",
-      "onboard_time": 1755850046,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 351379,
@@ -5211,6 +5243,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 264885,
+      "num": 225355,
+      "word": "TF四代 新疆",
+      "onboard_time": 1755852807,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263698,
       "num": 263698,
       "word": "胡夏回应目前单身",
@@ -5337,14 +5377,6 @@
       "onboard_time": 1755694405,
       "rank": 33,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 256586,
-      "num": 348338,
-      "word": "中国渔民多次捞到间谍鱼",
-      "onboard_time": 1755849985,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 255828,
@@ -5609,6 +5641,14 @@
       "onboard_time": 1755670762,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 241973,
+      "num": 241973,
+      "word": "被错误羁押6370天男子申请国赔1911万",
+      "onboard_time": 1755852327,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241453,
@@ -6051,6 +6091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225819,
+      "num": 225819,
+      "word": "痛金",
+      "onboard_time": 1755849207,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225472,
       "num": 225472,
       "word": "库里 重庆",
@@ -6089,6 +6137,14 @@
       "onboard_time": 1755693747,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 224222,
+      "num": 224222,
+      "word": "迪丽热巴 真人BJD",
+      "onboard_time": 1755854067,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223847,
@@ -6723,14 +6779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207125,
-      "num": 207125,
-      "word": "欢娱一哥",
-      "onboard_time": 1755852266,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206908,
       "num": 206908,
       "word": "冯骥杨奇谈黑神话钟馗",
@@ -6945,6 +6993,14 @@
       "onboard_time": 1755786563,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202203,
+      "num": 202203,
+      "word": "居民存款暴跌老百姓的钱都去哪了",
+      "onboard_time": 1755848965,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202081,
@@ -7233,6 +7289,14 @@
       "onboard_time": 1755783023,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198785,
+      "num": 198785,
+      "word": "韩庚是怎么把这些人凑到一起的",
+      "onboard_time": 1755854067,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 198740,
@@ -7601,14 +7665,6 @@
       "onboard_time": 1755408262,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193928,
-      "num": 193928,
-      "word": "居民存款暴跌老百姓的钱都去哪了",
-      "onboard_time": 1755848965,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193901,
@@ -8459,6 +8515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182909,
+      "num": 182909,
+      "word": "生万物豆瓣开分7.5",
+      "onboard_time": 1755853587,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182879,
       "num": 182879,
       "word": "中500w彩票冷知识",
@@ -8673,6 +8737,14 @@
       "onboard_time": 1755852327,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179291,
+      "num": 179291,
+      "word": "女子回应家暴丈夫找小三路上摔进ICU",
+      "onboard_time": 1755852208,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179042,
@@ -9371,6 +9443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171135,
+      "num": 171135,
+      "word": "赵丽颖向内审视向上生长",
+      "onboard_time": 1755854306,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171115,
       "num": 171115,
       "word": "龙族到底谁数了谁的睫毛",
@@ -9425,6 +9505,14 @@
       "onboard_time": 1755495922,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170723,
+      "num": 182769,
+      "word": "王莉霞接受审查调查",
+      "onboard_time": 1755854605,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170667,
@@ -10035,12 +10123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162175,
+      "num": 162175,
+      "word": "五星级酒店泳池里有蛇",
+      "onboard_time": 1755852986,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162155,
       "num": 162155,
       "word": "有人自林中坠落",
       "onboard_time": 1755495323,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 162130,
+      "num": 162130,
+      "word": "TIMA",
+      "onboard_time": 1755854605,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 162096,
@@ -10611,6 +10715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156470,
+      "num": 161657,
+      "word": "邢菲也是好起来了",
+      "onboard_time": 1755854306,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156324,
       "num": 156324,
       "word": "内场喝酒的迪丽热巴",
@@ -10833,6 +10945,14 @@
       "onboard_time": 1755760042,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153510,
+      "num": 171615,
+      "word": "邓超帮迪丽热巴补位",
+      "onboard_time": 1755854486,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 153425,
@@ -11339,14 +11459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147691,
-      "num": 147691,
-      "word": "痛金",
-      "onboard_time": 1755849207,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147496,
       "num": 147496,
       "word": "宋亚轩 雨天",
@@ -11369,14 +11481,6 @@
       "onboard_time": 1755671182,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147420,
-      "num": 147420,
-      "word": "泽连斯基称不需要中国提供安全保障",
-      "onboard_time": 1755852208,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 147372,
@@ -13507,14 +13611,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 129972,
-      "num": 129972,
-      "word": "女子回应家暴丈夫找小三路上摔进ICU",
-      "onboard_time": 1755852208,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "老狼也去演短剧了",
@@ -13931,14 +14027,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 127100,
-      "num": 127100,
-      "word": "被错误羁押6370天男子申请国赔1911万",
-      "onboard_time": 1755852327,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127083,
       "num": 127083,
       "word": "还有2周就阅兵了",
@@ -14033,6 +14121,14 @@
       "onboard_time": 1755746543,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 126177,
+      "num": 138320,
+      "word": "原来减肥期吃火锅一直被误解",
+      "onboard_time": 1755852447,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 126117,
@@ -16043,6 +16139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106046,
+      "num": 150129,
+      "word": "南京南站站台禁烟",
+      "onboard_time": 1755853286,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105943,
       "num": 170427,
       "word": "8岁女孩溺亡家人起诉邻居索赔109万",
@@ -17737,6 +17841,14 @@
       "onboard_time": 1755395960,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83833,
+      "num": 164616,
+      "word": "外交部回应中国留学生被美无端盘查",
+      "onboard_time": 1755853646,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83815,
@@ -19467,6 +19579,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46902,
+      "num": 162138,
+      "word": "美美桑内之父稳居C位",
+      "onboard_time": 1755853885,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46766,
+      "num": 124176,
+      "word": "宋佳的S级经典镜头",
+      "onboard_time": 1755854787,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 46636,
       "num": 106058,
       "word": "市监局回应游客称坐躺椅被催收费",
@@ -20465,6 +20593,14 @@
       "onboard_time": 1755369019,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 33356,
+      "num": 162149,
+      "word": "提前还款误区",
+      "onboard_time": 1755853705,
+      "rank": 38,
+      "category": "情感,科学科普"
     },
     {
       "raw_hot": 33328,
