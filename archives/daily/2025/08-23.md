@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/23 00:32:08 ~ 2025/08/23 02:48:42
+本榜单时间：2025/08/23 00:32:08 ~ 2025/08/23 03:21:57
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ IVE回归预告（热度：40878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%90%88%E5%94%B1%E6%98%A5%E9%9B%A8%E9%87%8C%E6%B4%97%E8%BF%87%E7%9A%84%E5%A4%AA%E9%98%B3%23" target="weibo">
+鹿晗王力宏合唱春雨里洗过的太阳（热度：28003）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%81%9C%E6%AD%A2%E7%94%9F%E4%BA%A7H20%E8%8A%AF%E7%89%87%23" target="weibo">
 中方回应英伟达停止生产H20芯片（热度：27644）
 </a>
@@ -389,6 +395,12 @@ IVE回归预告（热度：40878）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8D%95%E9%A3%8E%E8%BF%BD%E5%BD%B1%E4%BA%8C%E5%88%9B%E8%BF%BD%E7%9D%80%E5%96%82%E9%A5%AD%E5%90%83%23" target="weibo">
 捕风追影二创追着喂饭吃（热度：26832）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%8D%97%E6%98%8C%E7%AB%99%E5%AE%98%E5%AE%A3%23" target="weibo">
+王源南昌站官宣（热度：26751）
 </a>
 </li>
 
@@ -413,6 +425,12 @@ TIMA国际音乐大赏（热度：26366）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%AE%B0%E5%BD%95%E8%88%9E%E5%8F%B0%23" target="weibo">
 时代少年团记录舞台（热度：20814）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%E7%9B%B4%E6%8B%8D%23" target="weibo">
+宁艺卓获奖感言直拍（热度：18676）
 </a>
 </li>
 

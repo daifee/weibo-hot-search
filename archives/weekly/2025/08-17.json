@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755888522269,
+  "endTime": 1755890517890,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -22243,6 +22243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28003,
+      "num": 58104,
+      "word": "鹿晗王力宏合唱春雨里洗过的太阳",
+      "onboard_time": 1755889157,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 28002,
       "num": 126999,
       "word": "明道直播时夸王一博",
@@ -22369,6 +22377,14 @@
       "onboard_time": 1755625757,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 26751,
+      "num": 57682,
+      "word": "王源南昌站官宣",
+      "onboard_time": 1755889456,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 26721,
@@ -22897,6 +22913,14 @@
       "onboard_time": 1755806834,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18676,
+      "num": 57024,
+      "word": "宁艺卓获奖感言直拍",
+      "onboard_time": 1755885079,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 18308,
