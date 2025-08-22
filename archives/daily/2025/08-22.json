@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755844683386,
+  "endTime": 1755845499518,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1674070,
-      "num": 2506205,
+      "num": 2710084,
       "word": "卿卿日常",
       "onboard_time": 1755831206,
       "rank": 0,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 847818,
+      "num": 265887,
+      "word": "陈铭首曝亲哥被绑架致残",
+      "onboard_time": 1755840325,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 808417,
       "num": 354095,
       "word": "夜光剧本2.0",
@@ -145,14 +153,6 @@
       "onboard_time": 1755835227,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 709719,
-      "num": 265887,
-      "word": "陈铭首曝亲哥被绑架致残",
-      "onboard_time": 1755840325,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 691787,
@@ -195,12 +195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537121,
+      "num": 537121,
+      "word": "尖扎黄河特大桥事故瞬间画面",
+      "onboard_time": 1755840986,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 517768,
       "num": 517768,
       "word": "虞书欣 一念江南",
       "onboard_time": 1755784404,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 484811,
+      "num": 484811,
+      "word": "三只羊东北雨姐再被点名",
+      "onboard_time": 1755842244,
+      "rank": 4,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 451186,
@@ -211,28 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448572,
-      "num": 448572,
-      "word": "尖扎黄河特大桥事故瞬间画面",
-      "onboard_time": 1755840986,
-      "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 436637,
       "num": 436637,
       "word": "VOGUE",
       "onboard_time": 1755837749,
       "rank": 35,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 433983,
-      "num": 433983,
-      "word": "三只羊东北雨姐再被点名",
-      "onboard_time": 1755842244,
-      "rank": 4,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 427383,
@@ -321,6 +321,14 @@
       "onboard_time": 1755834806,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370244,
+      "num": 370244,
+      "word": "妻子擅自堕胎丈夫索赔被驳回",
+      "onboard_time": 1755842665,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364618,
@@ -419,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286096,
-      "num": 286096,
-      "word": "妻子擅自堕胎丈夫索赔被驳回",
-      "onboard_time": 1755842665,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278589,
       "num": 230008,
       "word": "梓渝音乐节",
@@ -449,6 +449,14 @@
       "onboard_time": 1755835587,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 268480,
+      "num": 221761,
+      "word": "整个房间一半以上都是床",
+      "onboard_time": 1755842004,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 267715,
@@ -595,6 +603,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 227454,
+      "num": 227454,
+      "word": "官方通报乡政府上班时间人员缺岗",
+      "onboard_time": 1755842904,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227055,
       "num": 220655,
       "word": "非遗黄金才是中式顶奢",
@@ -617,14 +633,6 @@
       "onboard_time": 1755837089,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221761,
-      "num": 221761,
-      "word": "整个房间一半以上都是床",
-      "onboard_time": 1755842004,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 219802,
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 202612,
-      "num": 175242,
+      "num": 194546,
       "word": "台湾女子买20包棉棒被抓",
       "onboard_time": 1755843565,
       "rank": 30,
@@ -763,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 190439,
+      "num": 190439,
+      "word": "揭秘尖扎黄河特大桥施工项目中标方",
+      "onboard_time": 1755841107,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189616,
       "num": 131020,
       "word": "早期肺癌的4个信号一定要警惕",
@@ -803,6 +819,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 187141,
+      "num": 187141,
+      "word": "A股",
+      "onboard_time": 1755841524,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 186659,
       "num": 186659,
       "word": "无限暖暖送你十亩田",
@@ -825,14 +849,6 @@
       "onboard_time": 1755833185,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 184022,
-      "num": 184022,
-      "word": "揭秘尖扎黄河特大桥施工项目中标方",
-      "onboard_time": 1755841107,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181572,
@@ -889,14 +905,6 @@
       "onboard_time": 1755839127,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173282,
-      "num": 210824,
-      "word": "官方通报乡政府上班时间人员缺岗",
-      "onboard_time": 1755842904,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172726,
@@ -995,6 +1003,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 160255,
+      "num": 172491,
+      "word": "心动的信号8最终cp爆料",
+      "onboard_time": 1755844944,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160143,
       "num": 160143,
       "word": "北京偶遇宋丹丹一家五口",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1755835468,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155027,
-      "num": 155027,
-      "word": "A股",
-      "onboard_time": 1755841524,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 154920,
@@ -1195,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142140,
+      "num": 228260,
+      "word": "九三阅兵他将高擎党旗走在队伍最前列",
+      "onboard_time": 1755844524,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138131,
       "num": 161523,
       "word": "当地回应民警上门找曝光者谈话",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1755802635,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131818,
+      "num": 131818,
+      "word": "李晟 你现在好冷漠啊",
+      "onboard_time": 1755845186,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 130605,
@@ -1387,6 +1411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120200,
+      "num": 120200,
+      "word": "三只羊东北雨姐等直播案件被查办",
+      "onboard_time": 1755845366,
+      "rank": 38,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 119667,
       "num": 119667,
       "word": "献鱼双修不双休",
@@ -1451,12 +1483,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114290,
-      "num": 158367,
-      "word": "九三阅兵他将高擎党旗走在队伍最前列",
-      "onboard_time": 1755844524,
-      "rank": 33,
-      "category": "国内时政"
+      "raw_hot": 114534,
+      "num": 114534,
+      "word": "王牌对王牌",
+      "onboard_time": 1755842484,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 113867,
@@ -1491,14 +1523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111642,
-      "num": 111642,
-      "word": "王牌对王牌",
-      "onboard_time": 1755842484,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110231,
       "num": 110231,
       "word": "范丞丞魔童降世上手就抢沈腾",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1755826462,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106451,
+      "num": 106451,
+      "word": "大部分的脂肪都是早上减掉的",
+      "onboard_time": 1755843204,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 105943,
@@ -1571,20 +1603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101328,
-      "num": 101328,
-      "word": "大部分的脂肪都是早上减掉的",
-      "onboard_time": 1755843204,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 100725,
       "num": 100725,
       "word": "医学生进厂实习校方扣薪6元1小时",
       "onboard_time": 1755823221,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100702,
+      "num": 100702,
+      "word": "穷养富养在她面前都没意义了",
+      "onboard_time": 1755845306,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 100661,
@@ -1689,6 +1721,22 @@
       "onboard_time": 1755786625,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94419,
+      "num": 94419,
+      "word": "原来快递名字可以这么幸福",
+      "onboard_time": 1755845425,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 93980,
+      "num": 93980,
+      "word": "吃饭看新闻联播认出科学家悄悄买单",
+      "onboard_time": 1755845245,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93681,
@@ -1907,6 +1955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66736,
+      "num": 226754,
+      "word": "度假去平潭又近又好玩",
+      "onboard_time": 1755842665,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 64902,
       "num": 88241,
       "word": "周深 泡泡玛特",
@@ -1921,14 +1977,6 @@
       "onboard_time": 1755827962,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62322,
-      "num": 226754,
-      "word": "度假去平潭又近又好玩",
-      "onboard_time": 1755842665,
-      "rank": 19,
-      "category": "旅游"
     },
     {
       "raw_hot": 62022,
@@ -2195,20 +2243,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 21870,
+      "num": 489249,
+      "word": "这个踩点变装又燃又帅",
+      "onboard_time": 1755805994,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21310,
       "num": 43292,
       "word": "每天一个俯卧撑摔了一年后",
       "onboard_time": 1755779662,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 19563,
-      "num": 436876,
-      "word": "这个踩点变装又燃又帅",
-      "onboard_time": 1755805994,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18759,
@@ -2276,6 +2324,9 @@
     },
     {
       "word": "#习近平冀望美丽西藏新篇章#"
+    },
+    {
+      "word": "#习近平将出席上合峰会#"
     }
   ]
 }

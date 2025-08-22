@@ -1,0 +1,410 @@
+{
+  "runTime": 1755845499518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925092,
+        "num": 2710084,
+        "word": "卿卿日常",
+        "onboard_time": 1755831206,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537121,
+        "num": 537121,
+        "word": "尖扎黄河特大桥事故瞬间画面",
+        "onboard_time": 1755840986,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 21870,
+        "num": 489249,
+        "word": "这个踩点变装又燃又帅",
+        "onboard_time": 1755805994,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11581526,
+        "num": 11581526,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484811,
+        "num": 484811,
+        "word": "三只羊东北雨姐再被点名",
+        "onboard_time": 1755842244,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 370244,
+        "num": 370244,
+        "word": "妻子擅自堕胎丈夫索赔被驳回",
+        "onboard_time": 1755842665,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366843,
+        "num": 366843,
+        "word": "虞书欣晒林晚星杀青特辑",
+        "onboard_time": 1755839486,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238010,
+        "num": 238010,
+        "word": "尖扎黄河特大桥事故7人遇难9人失联",
+        "onboard_time": 1755825143,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233122,
+        "num": 233122,
+        "word": "胡夏回应目前单身",
+        "onboard_time": 1755842364,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142140,
+        "num": 228260,
+        "word": "九三阅兵他将高擎党旗走在队伍最前列",
+        "onboard_time": 1755844524,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5162910,
+        "num": 227868,
+        "word": "许凯 赵晴",
+        "onboard_time": 1755827305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227454,
+        "num": 227454,
+        "word": "官方通报乡政府上班时间人员缺岗",
+        "onboard_time": 1755842904,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 847818,
+        "num": 226588,
+        "word": "陈铭首曝亲哥被绑架致残",
+        "onboard_time": 1755840325,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632113,
+        "num": 221029,
+        "word": "虞书欣替身发声",
+        "onboard_time": 1755832646,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34130,
+        "num": 219084,
+        "word": "各行业换装致敬城市骑士",
+        "onboard_time": 1755842484,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545378,
+        "num": 214539,
+        "word": "许荔莎 对不起子夜归",
+        "onboard_time": 1755835826,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337562,
+        "num": 211402,
+        "word": "大金 我的天要亮了吗",
+        "onboard_time": 1755835227,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325462,
+        "num": 208468,
+        "word": "夜光剧本2.0",
+        "onboard_time": 1755837627,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207605,
+        "num": 207605,
+        "word": "突然发现老了结婚全是好处",
+        "onboard_time": 1755838525,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66736,
+        "num": 203745,
+        "word": "度假去平潭又近又好玩",
+        "onboard_time": 1755842665,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 268480,
+        "num": 202904,
+        "word": "整个房间一半以上都是床",
+        "onboard_time": 1755842004,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201352,
+        "num": 201352,
+        "word": "谁收到了王源发的短信",
+        "onboard_time": 1755844583,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201331,
+        "num": 201331,
+        "word": "胡雷资助女孩遗体在水池内发现",
+        "onboard_time": 1755833305,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194546,
+        "num": 194546,
+        "word": "台湾女子买20包棉棒被抓",
+        "onboard_time": 1755843565,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190439,
+        "num": 190439,
+        "word": "揭秘尖扎黄河特大桥施工项目中标方",
+        "onboard_time": 1755841107,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187141,
+        "num": 187141,
+        "word": "A股",
+        "onboard_time": 1755841524,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185314,
+        "num": 185314,
+        "word": "沈佳润公主小妹撕拉片",
+        "onboard_time": 1755841405,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176973,
+        "num": 176973,
+        "word": "36岁存款30万决定提前退休",
+        "onboard_time": 1755839904,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175155,
+        "num": 175155,
+        "word": "王星越山顶直播",
+        "onboard_time": 1755842904,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160255,
+        "num": 172491,
+        "word": "心动的信号8最终cp爆料",
+        "onboard_time": 1755844944,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172189,
+        "num": 172189,
+        "word": "VOGUE",
+        "onboard_time": 1755837749,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 165858,
+        "num": 165858,
+        "word": "新疆一河水退去留520米巨鲸图案",
+        "onboard_time": 1755835525,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146794,
+        "num": 146794,
+        "word": "东方甄选孙东旭或将离职",
+        "onboard_time": 1755842183,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131818,
+        "num": 131818,
+        "word": "李晟 你现在好冷漠啊",
+        "onboard_time": 1755845186,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126483,
+        "num": 126483,
+        "word": "女子40岁二胎得子随母姓丈夫后悔",
+        "onboard_time": 1755836788,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124765,
+        "num": 124765,
+        "word": "张踩铃 有大毛病就没人挑小毛病",
+        "onboard_time": 1755842543,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122403,
+        "num": 122403,
+        "word": "杨紫19岁就演出了养老剧",
+        "onboard_time": 1755834806,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120658,
+        "num": 120658,
+        "word": "TOP抢票",
+        "onboard_time": 1755842904,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120200,
+        "num": 120200,
+        "word": "三只羊东北雨姐等直播案件被查办",
+        "onboard_time": 1755845366,
+        "rank": 38,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 114534,
+        "num": 114534,
+        "word": "王牌对王牌",
+        "onboard_time": 1755842484,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113944,
+        "num": 113944,
+        "word": "梁伟铿晒与王昶合照",
+        "onboard_time": 1755841702,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111826,
+        "num": 111826,
+        "word": "25岁女生有车后的真实变化",
+        "onboard_time": 1755841107,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108015,
+        "num": 108015,
+        "word": "Faker出演StrayKids新歌MV",
+        "onboard_time": 1755842004,
+        "rank": 42,
+        "category": "音乐,电竞"
+      },
+      {
+        "raw_hot": 150206,
+        "num": 107874,
+        "word": "知情人称去世女孩家中墙上挂满奖状",
+        "onboard_time": 1755832406,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107565,
+        "num": 107565,
+        "word": "菲律宾2艘小艇蓄意碰瓷挑衅",
+        "onboard_time": 1755835105,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106451,
+        "num": 106451,
+        "word": "大部分的脂肪都是早上减掉的",
+        "onboard_time": 1755843204,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 100702,
+        "num": 100702,
+        "word": "穷养富养在她面前都没意义了",
+        "onboard_time": 1755845306,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94419,
+        "num": 94419,
+        "word": "原来快递名字可以这么幸福",
+        "onboard_time": 1755845425,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93980,
+        "num": 93980,
+        "word": "吃饭看新闻联播认出科学家悄悄买单",
+        "onboard_time": 1755845245,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92833,
+        "num": 92833,
+        "word": "杨天真 人有时会自作主张做好事",
+        "onboard_time": 1755843622,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席上合峰会#"
+    }
+  }
+}
