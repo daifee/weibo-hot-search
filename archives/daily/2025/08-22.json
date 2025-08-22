@@ -1,30 +1,38 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755827781389,
+  "endTime": 1755829110221,
   "band_list": [
     {
-      "raw_hot": 14453597,
-      "num": 14453597,
-      "word": "许荔莎 22年因赵晴被拍和许凯分手",
-      "onboard_time": 1755826281,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 10980803,
-      "num": 10980803,
+      "raw_hot": 15716235,
+      "num": 15716235,
       "word": "许凯 赵晴",
       "onboard_time": 1755827305,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 15168489,
+      "num": 15168489,
+      "word": "许荔莎 22年因赵晴被拍和许凯分手",
+      "onboard_time": 1755826281,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1381296,
-      "num": 1381296,
+      "num": 3472414,
       "word": "警方通报受胡雷资助女孩去世",
       "onboard_time": 1755823822,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1291367,
+      "num": 224527,
+      "word": "许荔莎硬刚于正",
+      "onboard_time": 1755827786,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1190706,
@@ -65,6 +73,14 @@
       "onboard_time": 1755791901,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 825376,
+      "num": 223565,
+      "word": "许荔莎发与许凯牵手照",
+      "onboard_time": 1755828083,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 691787,
@@ -123,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 401496,
+      "num": 401496,
+      "word": "尖扎黄河特大桥事故7人遇难9人失联",
+      "onboard_time": 1755825143,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381363,
       "num": 381363,
       "word": "谁来救救何老师",
@@ -131,19 +155,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364618,
+      "num": 364618,
+      "word": "内蒙古山洪12人遇难",
+      "onboard_time": 1755825860,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340735,
       "num": 340735,
       "word": "胡雷回应资助的女孩去世",
       "onboard_time": 1755792802,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326758,
-      "num": 326758,
-      "word": "内蒙古山洪12人遇难",
-      "onboard_time": 1755825860,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -259,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221997,
+      "num": 221997,
+      "word": "乡政府回应上班时间人员缺岗",
+      "onboard_time": 1755827786,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216594,
       "num": 216594,
       "word": "确诊糖尿病前身体发出的信号",
@@ -267,12 +299,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212649,
+      "num": 212649,
+      "word": "内江地震",
+      "onboard_time": 1755827844,
+      "rank": 15,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 201608,
       "num": 201608,
       "word": "机票价格便宜了",
       "onboard_time": 1755819560,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190700,
+      "num": 157585,
+      "word": "刘耀文问浩翔配什么",
+      "onboard_time": 1755828206,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 189616,
@@ -331,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158723,
+      "num": 158723,
+      "word": "云冈石窟拍照事件2人均为聋哑人",
+      "onboard_time": 1755826763,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154920,
       "num": 154920,
       "word": "JDG对战DRG",
@@ -377,14 +433,6 @@
       "onboard_time": 1755819260,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142758,
-      "num": 142758,
-      "word": "云冈石窟拍照事件2人均为聋哑人",
-      "onboard_time": 1755826763,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136884,
@@ -531,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103432,
+      "num": 103432,
+      "word": "小11收养女儿",
+      "onboard_time": 1755828265,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102493,
       "num": 102493,
       "word": "减肥成功的人做对了一件事",
@@ -561,6 +617,14 @@
       "onboard_time": 1755802635,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99779,
+      "num": 99779,
+      "word": "2025上合组织天津峰会",
+      "onboard_time": 1755829046,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99216,
@@ -611,6 +675,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 92932,
+      "num": 110584,
+      "word": "论爱情军师还得是小艺",
+      "onboard_time": 1755828927,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 92053,
       "num": 92053,
       "word": "月鳞绮纪最后五分钟剪了两小时",
@@ -657,6 +729,30 @@
       "onboard_time": 1755819680,
       "rank": 49,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 84767,
+      "num": 84767,
+      "word": "王欣瑜逆转晋级8强",
+      "onboard_time": 1755828627,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82580,
+      "num": 82580,
+      "word": "贺峻霖语音",
+      "onboard_time": 1755828805,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 79341,
+      "num": 81405,
+      "word": "黑神话悟空公众号更名",
+      "onboard_time": 1755828024,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 78586,
@@ -777,6 +873,14 @@
       "onboard_time": 1755786385,
       "rank": 48,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 64510,
+      "num": 96082,
+      "word": "小11和老公领养了一个女儿",
+      "onboard_time": 1755827962,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 62022,

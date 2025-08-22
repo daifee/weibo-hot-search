@@ -1,0 +1,410 @@
+{
+  "runTime": 1755829110221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1078598,
+        "num": 3472414,
+        "word": "警方通报受胡雷资助女孩去世",
+        "onboard_time": 1755823822,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704178,
+        "num": 704178,
+        "word": "美人鱼现身南沙群岛",
+        "onboard_time": 1755820640,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9308,
+        "num": 439858,
+        "word": "想快进到9月3日看阅兵",
+        "onboard_time": 1755764363,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15168489,
+        "num": 15168489,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401496,
+        "num": 401496,
+        "word": "尖扎黄河特大桥事故7人遇难9人失联",
+        "onboard_time": 1755825143,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364618,
+        "num": 364618,
+        "word": "内蒙古山洪12人遇难",
+        "onboard_time": 1755825860,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358192,
+        "num": 358192,
+        "word": "虞书欣 一念江南",
+        "onboard_time": 1755784404,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255502,
+        "num": 255502,
+        "word": "12306回应无座与二等座同价质疑",
+        "onboard_time": 1755785785,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254128,
+        "num": 254128,
+        "word": "女孩因辅导作业与家人争执后离家",
+        "onboard_time": 1755825624,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229632,
+        "num": 229632,
+        "word": "尖扎黄河特大桥发生施工绳索断裂事故",
+        "onboard_time": 1755825261,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15716235,
+        "num": 15716235,
+        "word": "许凯 赵晴",
+        "onboard_time": 1755827305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1291367,
+        "num": 224527,
+        "word": "许荔莎硬刚于正",
+        "onboard_time": 1755827786,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825376,
+        "num": 223565,
+        "word": "许荔莎发与许凯牵手照",
+        "onboard_time": 1755828083,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221997,
+        "num": 221997,
+        "word": "乡政府回应上班时间人员缺岗",
+        "onboard_time": 1755827786,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219547,
+        "num": 219547,
+        "word": "杨幂热巴合照",
+        "onboard_time": 1755819201,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212649,
+        "num": 212649,
+        "word": "内江地震",
+        "onboard_time": 1755827844,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 198652,
+        "num": 198652,
+        "word": "虞书欣真的说到做到",
+        "onboard_time": 1755821899,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180840,
+        "num": 180840,
+        "word": "泰国传奇大妈蟹肉炒蛋卖882元被罚",
+        "onboard_time": 1755822562,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179778,
+        "num": 179778,
+        "word": "星星人泡泡玛特",
+        "onboard_time": 1755823464,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 158723,
+        "num": 158723,
+        "word": "云冈石窟拍照事件2人均为聋哑人",
+        "onboard_time": 1755826763,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190700,
+        "num": 157585,
+        "word": "刘耀文问浩翔配什么",
+        "onboard_time": 1755828206,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154921,
+        "num": 154921,
+        "word": "李宛妲这个鼻子",
+        "onboard_time": 1755820160,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150385,
+        "num": 150385,
+        "word": "非亲生儿子称父亲受网红蛊惑",
+        "onboard_time": 1755820880,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149593,
+        "num": 149593,
+        "word": "胡雷说半年失去了两个学生",
+        "onboard_time": 1755822262,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148310,
+        "num": 148310,
+        "word": "胡雷资助的感动全网女孩意外去世",
+        "onboard_time": 1755791901,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137268,
+        "num": 137268,
+        "word": "高铁无座的意思其实是无固定座位",
+        "onboard_time": 1755824003,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130208,
+        "num": 130208,
+        "word": "普特会上俄方4项停火条件曝光",
+        "onboard_time": 1755824302,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127020,
+        "num": 129867,
+        "word": "绣绣大脚的第二个孩子",
+        "onboard_time": 1755787344,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107484,
+        "num": 129834,
+        "word": "张维伊多才多艺这一块",
+        "onboard_time": 1755825681,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96773,
+        "num": 129824,
+        "word": "金泰熙和RAIN不是一见钟情",
+        "onboard_time": 1755819260,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129822,
+        "num": 129822,
+        "word": "胡先煦 李宛妲",
+        "onboard_time": 1755777503,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129346,
+        "num": 129346,
+        "word": "机票价格便宜了",
+        "onboard_time": 1755819560,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127006,
+        "num": 127006,
+        "word": "又一尊巨型印度神像落成加拿大",
+        "onboard_time": 1755827305,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118836,
+        "num": 118836,
+        "word": "摄像头被境外攻击自动转向港口",
+        "onboard_time": 1755824241,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92932,
+        "num": 110584,
+        "word": "论爱情军师还得是小艺",
+        "onboard_time": 1755828927,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103432,
+        "num": 103432,
+        "word": "小11收养女儿",
+        "onboard_time": 1755828265,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99779,
+        "num": 99779,
+        "word": "2025上合组织天津峰会",
+        "onboard_time": 1755829046,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99669,
+        "num": 99669,
+        "word": "因二胎儿子跟母姓父亲起诉离婚",
+        "onboard_time": 1755788125,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98532,
+        "num": 98532,
+        "word": "早期肺癌的4个信号一定要警惕",
+        "onboard_time": 1755792802,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64510,
+        "num": 96082,
+        "word": "小11和老公领养了一个女儿",
+        "onboard_time": 1755827962,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94511,
+        "num": 94511,
+        "word": "中国排面每一帧都是大写的帅",
+        "onboard_time": 1755825860,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94265,
+        "num": 94265,
+        "word": "液化气爆燃28岁女子全身90%烧伤",
+        "onboard_time": 1755819019,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93236,
+        "num": 93236,
+        "word": "减肥成功的人做对了一件事",
+        "onboard_time": 1755819319,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87630,
+        "num": 87630,
+        "word": "胡雷回应资助的女孩去世",
+        "onboard_time": 1755792802,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84767,
+        "num": 84767,
+        "word": "王欣瑜逆转晋级8强",
+        "onboard_time": 1755828627,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83009,
+        "num": 83009,
+        "word": "黑龙江一恶势力团伙全员改判无罪",
+        "onboard_time": 1755778583,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82580,
+        "num": 82580,
+        "word": "贺峻霖语音",
+        "onboard_time": 1755828805,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82072,
+        "num": 82072,
+        "word": "医学生进厂实习校方扣薪6元1小时",
+        "onboard_time": 1755823221,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82000,
+        "num": 82000,
+        "word": "胡雷",
+        "onboard_time": 1755825022,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79341,
+        "num": 81405,
+        "word": "黑神话悟空公众号更名",
+        "onboard_time": 1755828024,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的西藏牵挂#"
+    }
+  }
+}
