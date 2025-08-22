@@ -1,0 +1,410 @@
+{
+  "runTime": 1755834876182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1544924,
+        "num": 1544924,
+        "word": "卿卿日常",
+        "onboard_time": 1755831206,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 612701,
+        "num": 612701,
+        "word": "曝光乡政府人员缺岗当事人发声",
+        "onboard_time": 1755830964,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6420,
+        "num": 563831,
+        "word": "想快进到9月3日看阅兵",
+        "onboard_time": 1755764363,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11975887,
+        "num": 11975887,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543318,
+        "num": 543318,
+        "word": "胡雷资助女孩遗体在水池内发现",
+        "onboard_time": 1755833305,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586918,
+        "num": 523250,
+        "word": "警方通报受胡雷资助女孩去世",
+        "onboard_time": 1755823822,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493357,
+        "num": 493357,
+        "word": "知情人称去世女孩家中墙上挂满奖状",
+        "onboard_time": 1755832406,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386880,
+        "num": 386880,
+        "word": "邓超我跟热巴怎么这么有缘分",
+        "onboard_time": 1755831865,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334497,
+        "num": 334497,
+        "word": "美人鱼现身南沙群岛",
+        "onboard_time": 1755820640,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122048,
+        "num": 334322,
+        "word": "当事人称曝光缺岗后民警夜晚上门",
+        "onboard_time": 1755834265,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9927245,
+        "num": 9927245,
+        "word": "许凯 赵晴",
+        "onboard_time": 1755827305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1351926,
+        "num": 332484,
+        "word": "虞书欣替身发声",
+        "onboard_time": 1755832646,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 875736,
+        "num": 332048,
+        "word": "于正直播",
+        "onboard_time": 1755831325,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331434,
+        "num": 331434,
+        "word": "被清华教室的粉笔震惊到了",
+        "onboard_time": 1755832286,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 492898,
+        "num": 308707,
+        "word": "许荔莎聊天记录",
+        "onboard_time": 1755830786,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279784,
+        "num": 279784,
+        "word": "乡政府回应上班时间人员缺岗",
+        "onboard_time": 1755827786,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249331,
+        "num": 249331,
+        "word": "尖扎黄河特大桥事故7人遇难9人失联",
+        "onboard_time": 1755825143,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235534,
+        "num": 235534,
+        "word": "一瓯春",
+        "onboard_time": 1755832707,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228608,
+        "num": 228608,
+        "word": "林彦俊芭莎",
+        "onboard_time": 1755832466,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 205903,
+        "num": 205903,
+        "word": "徐志胜租房租到夜店门口了",
+        "onboard_time": 1755829286,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312094,
+        "num": 205174,
+        "word": "女孩因辅导作业与家人争执后离家",
+        "onboard_time": 1755825624,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201265,
+        "num": 201265,
+        "word": "虞书欣 一念江南",
+        "onboard_time": 1755784404,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195206,
+        "num": 195206,
+        "word": "邓超 魔童饿了",
+        "onboard_time": 1755833065,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192040,
+        "num": 192040,
+        "word": "生男生女的秘密",
+        "onboard_time": 1755832286,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 188546,
+        "num": 188546,
+        "word": "时代少年团新歌",
+        "onboard_time": 1755833907,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187338,
+        "num": 187338,
+        "word": "德雷克海峡地震修正为7.5级",
+        "onboard_time": 1755830667,
+        "rank": 25,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 172045,
+        "num": 172045,
+        "word": "mikko装扮",
+        "onboard_time": 1755833727,
+        "rank": 26,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 162395,
+        "num": 171772,
+        "word": "vivo让热爱有迹可循",
+        "onboard_time": 1755834208,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169534,
+        "num": 171540,
+        "word": "杨幂周笔畅大张伟张口全是脱友梗",
+        "onboard_time": 1755833546,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124615,
+        "num": 170823,
+        "word": "12306回应售卖无座票",
+        "onboard_time": 1755834208,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39042,
+        "num": 170315,
+        "word": "特朗普在街头巡逻",
+        "onboard_time": 1755832947,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170231,
+        "num": 170231,
+        "word": "民警找曝光者谈话家中老人被吓轻生",
+        "onboard_time": 1755833185,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166287,
+        "num": 166287,
+        "word": "初中老师被调高中当事人发声",
+        "onboard_time": 1755832585,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161783,
+        "num": 161783,
+        "word": "魅族22",
+        "onboard_time": 1755834687,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119293,
+        "num": 157258,
+        "word": "生源少了小学老师去教高中了",
+        "onboard_time": 1755833486,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154912,
+        "num": 154912,
+        "word": "死神来了6真正的破碎感",
+        "onboard_time": 1755833426,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153928,
+        "num": 153928,
+        "word": "韩庚收拾收拾跟20年前有什么区别",
+        "onboard_time": 1755834567,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151446,
+        "num": 151446,
+        "word": "早跟苏醒张远说别垫增高鞋垫了",
+        "onboard_time": 1755833787,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34219,
+        "num": 149384,
+        "word": "云冈石窟 拍照刺客",
+        "onboard_time": 1755834447,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46623,
+        "num": 149223,
+        "word": "男子直播售卖愿望符纸获利36万",
+        "onboard_time": 1755834025,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149206,
+        "num": 149206,
+        "word": "尖扎黄河特大桥发生施工绳索断裂事故",
+        "onboard_time": 1755825261,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137139,
+        "num": 137139,
+        "word": "12306回应无座与二等座同价质疑",
+        "onboard_time": 1755785785,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136302,
+        "num": 136302,
+        "word": "短剧运营下料就是猛",
+        "onboard_time": 1755833546,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134793,
+        "num": 134793,
+        "word": "经常手脚麻木说明血糖高了",
+        "onboard_time": 1755833366,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134353,
+        "num": 134353,
+        "word": "iPhone17手机壳配色",
+        "onboard_time": 1755833006,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121690,
+        "num": 121690,
+        "word": "北京偶遇宋丹丹一家五口",
+        "onboard_time": 1755834626,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115049,
+        "num": 115049,
+        "word": "十二封信定档",
+        "onboard_time": 1755831085,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114914,
+        "num": 114914,
+        "word": "普特会上俄方4项停火条件曝光",
+        "onboard_time": 1755824302,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112831,
+        "num": 112831,
+        "word": "欧豪一整天都在央视",
+        "onboard_time": 1755830846,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112804,
+        "num": 112804,
+        "word": "杨紫19岁就演出了养老剧",
+        "onboard_time": 1755834806,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的西藏牵挂#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755833379577,
+  "endTime": 1755834876182,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1587232,
-      "num": 272126,
+      "num": 332048,
       "word": "于正直播",
       "onboard_time": 1755831325,
       "rank": 11,
@@ -41,6 +41,14 @@
       "onboard_time": 1755823822,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1351926,
+      "num": 332484,
+      "word": "虞书欣替身发声",
+      "onboard_time": 1755832646,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1291367,
@@ -100,18 +108,10 @@
     },
     {
       "raw_hot": 769172,
-      "num": 246185,
+      "num": 308707,
       "word": "许荔莎聊天记录",
       "onboard_time": 1755830786,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 729507,
-      "num": 272015,
-      "word": "虞书欣替身发声",
-      "onboard_time": 1755832646,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -123,11 +123,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 612701,
+      "num": 612701,
+      "word": "曝光乡政府人员缺岗当事人发声",
+      "onboard_time": 1755830964,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607776,
       "num": 220188,
       "word": "无村民知晓杀了3人的凶手患精神病",
       "onboard_time": 1755786563,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 543318,
+      "num": 543318,
+      "word": "胡雷资助女孩遗体在水池内发现",
+      "onboard_time": 1755833305,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -139,11 +155,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 501036,
-      "num": 501036,
-      "word": "曝光乡政府人员缺岗当事人发声",
-      "onboard_time": 1755830964,
-      "rank": 6,
+      "raw_hot": 493357,
+      "num": 493357,
+      "word": "知情人称去世女孩家中墙上挂满奖状",
+      "onboard_time": 1755832406,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -195,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386880,
+      "num": 386880,
+      "word": "邓超我跟热巴怎么这么有缘分",
+      "onboard_time": 1755831865,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381363,
       "num": 381363,
       "word": "谁来救救何老师",
@@ -219,12 +243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320346,
-      "num": 320346,
-      "word": "邓超我跟热巴怎么这么有缘分",
-      "onboard_time": 1755831865,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 331434,
+      "num": 331434,
+      "word": "被清华教室的粉笔震惊到了",
+      "onboard_time": 1755832286,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 318950,
@@ -233,6 +257,14 @@
       "onboard_time": 1755819201,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312094,
+      "num": 285021,
+      "word": "女孩因辅导作业与家人争执后离家",
+      "onboard_time": 1755825624,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305592,
@@ -251,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291389,
-      "num": 270300,
-      "word": "被清华教室的粉笔震惊到了",
-      "onboard_time": 1755832286,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 287273,
       "num": 287273,
       "word": "马嘉祺太稳了",
@@ -272,14 +296,6 @@
       "word": "非亲生儿子称父亲受网红蛊惑",
       "onboard_time": 1755820880,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 285021,
-      "num": 285021,
-      "word": "女孩因辅导作业与家人争执后离家",
-      "onboard_time": 1755825624,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -347,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 235534,
+      "num": 235534,
+      "word": "一瓯春",
+      "onboard_time": 1755832707,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231566,
       "num": 231566,
       "word": "因二胎儿子跟母姓父亲起诉离婚",
@@ -361,6 +385,14 @@
       "onboard_time": 1755820160,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228608,
+      "num": 232939,
+      "word": "林彦俊芭莎",
+      "onboard_time": 1755832466,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 216594,
@@ -387,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204695,
-      "num": 232939,
-      "word": "林彦俊芭莎",
-      "onboard_time": 1755832466,
-      "rank": 18,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 201608,
       "num": 201608,
       "word": "机票价格便宜了",
@@ -403,12 +427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195201,
-      "num": 195201,
-      "word": "知情人称去世女孩家中墙上挂满奖状",
-      "onboard_time": 1755832406,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 195206,
+      "num": 195206,
+      "word": "邓超 魔童饿了",
+      "onboard_time": 1755833065,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 190700,
@@ -435,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 188546,
+      "num": 188546,
+      "word": "时代少年团新歌",
+      "onboard_time": 1755833907,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187729,
       "num": 187729,
       "word": "星星人泡泡玛特",
@@ -449,6 +481,14 @@
       "onboard_time": 1755785064,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187338,
+      "num": 187338,
+      "word": "德雷克海峡地震修正为7.5级",
+      "onboard_time": 1755830667,
+      "rank": 32,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 184285,
@@ -475,12 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177034,
-      "num": 177034,
-      "word": "一瓯春",
-      "onboard_time": 1755832707,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 172045,
+      "num": 172045,
+      "word": "mikko装扮",
+      "onboard_time": 1755833727,
+      "rank": 26,
+      "category": "互联网,动漫"
+    },
+    {
+      "raw_hot": 170231,
+      "num": 170231,
+      "word": "民警找曝光者谈话家中老人被吓轻生",
+      "onboard_time": 1755833185,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170159,
@@ -499,6 +547,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169534,
+      "num": 171540,
+      "word": "杨幂周笔畅大张伟张口全是脱友梗",
+      "onboard_time": 1755833546,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166287,
+      "num": 166287,
+      "word": "初中老师被调高中当事人发声",
+      "onboard_time": 1755832585,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166241,
       "num": 166241,
       "word": "男子娶残障老婆最高可判死刑",
@@ -507,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162395,
+      "num": 171772,
+      "word": "vivo让热爱有迹可循",
+      "onboard_time": 1755834208,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 162183,
       "num": 162183,
       "word": "高铁无座的意思其实是无固定座位",
       "onboard_time": 1755824003,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161783,
+      "num": 161783,
+      "word": "魅族22",
+      "onboard_time": 1755834687,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 158723,
@@ -539,11 +619,35 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154912,
+      "num": 154912,
+      "word": "死神来了6真正的破碎感",
+      "onboard_time": 1755833426,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154599,
       "num": 154599,
       "word": "内娱男星说跪式服务是为了站着赚钱",
       "onboard_time": 1755830723,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153928,
+      "num": 153928,
+      "word": "韩庚收拾收拾跟20年前有什么区别",
+      "onboard_time": 1755834567,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151446,
+      "num": 151446,
+      "word": "早跟苏醒张远说别垫增高鞋垫了",
+      "onboard_time": 1755833787,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -603,6 +707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136302,
+      "num": 136302,
+      "word": "短剧运营下料就是猛",
+      "onboard_time": 1755833546,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136257,
       "num": 136257,
       "word": "大脚死要面子绣绣活受罪",
@@ -625,6 +737,14 @@
       "onboard_time": 1755833006,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134793,
+      "num": 134793,
+      "word": "经常手脚麻木说明血糖高了",
+      "onboard_time": 1755833366,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133178,
@@ -667,12 +787,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 126286,
-      "num": 126286,
-      "word": "邓超 魔童饿了",
-      "onboard_time": 1755833065,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 124615,
+      "num": 170823,
+      "word": "12306回应售卖无座票",
+      "onboard_time": 1755834208,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123832,
@@ -691,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122048,
+      "num": 334322,
+      "word": "当事人称曝光缺岗后民警夜晚上门",
+      "onboard_time": 1755834265,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121693,
       "num": 121693,
       "word": "应急管理部派工作组指导尖扎黄河特大桥事故救援处置",
@@ -699,12 +827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120754,
-      "num": 120754,
-      "word": "德雷克海峡地震修正为7.5级",
-      "onboard_time": 1755830667,
-      "rank": 32,
-      "category": "国际时政,民生新闻"
+      "raw_hot": 121690,
+      "num": 121690,
+      "word": "北京偶遇宋丹丹一家五口",
+      "onboard_time": 1755834626,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 120479,
@@ -721,6 +849,14 @@
       "onboard_time": 1755831625,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119293,
+      "num": 157258,
+      "word": "生源少了小学老师去教高中了",
+      "onboard_time": 1755833486,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116014,
@@ -795,12 +931,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112864,
-      "num": 112864,
-      "word": "经常手脚麻木说明血糖高了",
-      "onboard_time": 1755833366,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 112804,
+      "num": 112804,
+      "word": "杨紫19岁就演出了养老剧",
+      "onboard_time": 1755834806,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 112223,
@@ -817,14 +953,6 @@
       "onboard_time": 1755830245,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109820,
-      "num": 115507,
-      "word": "胡雷资助女孩遗体在水池内发现",
-      "onboard_time": 1755833305,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109098,
@@ -1203,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60125,
-      "num": 116181,
-      "word": "民警找曝光者谈话家中老人被吓轻生",
-      "onboard_time": 1755833185,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58854,
       "num": 58854,
       "word": "浙江嵊州一男子酒驾被拘留期间死亡",
@@ -1283,11 +1403,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 45694,
-      "num": 147656,
-      "word": "初中老师被调高中当事人发声",
-      "onboard_time": 1755832585,
-      "rank": 29,
+      "raw_hot": 46623,
+      "num": 149223,
+      "word": "男子直播售卖愿望符纸获利36万",
+      "onboard_time": 1755834025,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1323,6 +1443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39042,
+      "num": 232145,
+      "word": "特朗普在街头巡逻",
+      "onboard_time": 1755832947,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37165,
       "num": 87714,
       "word": "王曼昱赛后采访",
@@ -1337,6 +1465,14 @@
       "onboard_time": 1755789204,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34219,
+      "num": 149384,
+      "word": "云冈石窟 拍照刺客",
+      "onboard_time": 1755834447,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31546,
@@ -1393,14 +1529,6 @@
       "onboard_time": 1755782903,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 21872,
-      "num": 232145,
-      "word": "特朗普在街头巡逻",
-      "onboard_time": 1755832947,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21310,
