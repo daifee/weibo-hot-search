@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755858454714,
+  "endTime": 1755859457914,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -347,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 457494,
+      "num": 457494,
+      "word": "孙颖莎vs伊藤美诚",
+      "onboard_time": 1755857425,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451186,
       "num": 451186,
       "word": "12306回应无座与二等座同价质疑",
@@ -403,6 +411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 409858,
+      "num": 113581,
+      "word": "于正 生日聚会十指相扣很正常",
+      "onboard_time": 1755859043,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405329,
       "num": 241519,
       "word": "为什么酒店的被子塞那么紧",
@@ -435,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390385,
+      "num": 254103,
+      "word": "好多业内为虞书欣发声",
+      "onboard_time": 1755854906,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386880,
       "num": 386880,
       "word": "邓超我跟热巴怎么这么有缘分",
@@ -457,14 +481,6 @@
       "onboard_time": 1755834806,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 375807,
-      "num": 254103,
-      "word": "好多业内为虞书欣发声",
-      "onboard_time": 1755854906,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 370244,
@@ -491,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353075,
+      "num": 353075,
+      "word": "少年被9人乱棍打死弃尸山谷",
+      "onboard_time": 1755857304,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349162,
       "num": 223387,
       "word": "李承铉和戚薇分被睡",
@@ -505,14 +529,6 @@
       "onboard_time": 1755792802,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 338133,
-      "num": 338133,
-      "word": "孙颖莎vs伊藤美诚",
-      "onboard_time": 1755857425,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 333925,
@@ -571,14 +587,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 301222,
-      "num": 301222,
-      "word": "少年被9人乱棍打死弃尸山谷",
-      "onboard_time": 1755857304,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296932,
       "num": 296932,
       "word": "子夜归soso soso就不soso",
@@ -595,12 +603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293629,
+      "num": 293629,
+      "word": "宋丹丹两个孙子均随奶奶姓宋",
+      "onboard_time": 1755857304,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290013,
       "num": 290013,
       "word": "瑞幸星穹铁道联名",
       "onboard_time": 1755836906,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289314,
+      "num": 289314,
+      "word": "周也 泡面大王",
+      "onboard_time": 1755857065,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 287273,
@@ -625,6 +649,14 @@
       "onboard_time": 1755852327,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281878,
+      "num": 97281,
+      "word": "情绪性暴食",
+      "onboard_time": 1755858984,
+      "rank": 37,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 278589,
@@ -712,6 +744,14 @@
       "word": "黄晓明急着回家干嘛",
       "onboard_time": 1755840265,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256249,
+      "num": 81416,
+      "word": "大金 这么多年套路都是一样的吗",
+      "onboard_time": 1755859043,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -819,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231569,
-      "num": 231569,
-      "word": "周也 泡面大王",
-      "onboard_time": 1755857065,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231566,
       "num": 231566,
       "word": "因二胎儿子跟母姓父亲起诉离婚",
@@ -911,14 +943,6 @@
       "num": 219802,
       "word": "王星越山顶直播",
       "onboard_time": 1755842904,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 218166,
-      "num": 202532,
-      "word": "宋丹丹两个孙子均随奶奶姓宋",
-      "onboard_time": 1755857304,
       "rank": 23,
       "category": "艺人"
     },
@@ -1049,6 +1073,14 @@
       "onboard_time": 1755847706,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 198827,
+      "num": 198827,
+      "word": "子夜归",
+      "onboard_time": 1755771863,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 198785,
@@ -1451,6 +1483,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 161521,
+      "num": 162138,
+      "word": "美美桑内之父稳居C位",
+      "onboard_time": 1755853885,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161231,
       "num": 161231,
       "word": "李兰迪cos蜥蜴",
@@ -1683,6 +1723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 145283,
+      "num": 145283,
+      "word": "范丞丞 我现在改姓黄还来得及吗",
+      "onboard_time": 1755859405,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145223,
       "num": 145223,
       "word": "地球超新鲜",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1755842904,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144402,
-      "num": 162138,
-      "word": "美美桑内之父稳居C位",
-      "onboard_time": 1755853885,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 144099,
@@ -1867,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132093,
+      "num": 132093,
+      "word": "MRC对战北京WBG",
+      "onboard_time": 1755858924,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130605,
       "num": 130605,
       "word": "又一尊巨型印度神像落成加拿大",
@@ -1955,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125673,
+      "num": 125673,
+      "word": "董璇终于忍不住发火了",
+      "onboard_time": 1755859346,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125439,
       "num": 150129,
       "word": "南京南站站台禁烟",
@@ -1993,6 +2049,14 @@
       "onboard_time": 1755790043,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123609,
+      "num": 125955,
+      "word": "留错一位手机号洗衣机被改地址送达",
+      "onboard_time": 1755858085,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123561,
@@ -2059,12 +2123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116573,
+      "num": 116573,
+      "word": "八旬老人为少走50米穿马路被撞死",
+      "onboard_time": 1755857785,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116158,
       "num": 116158,
       "word": "寒武纪市值破5000亿",
       "onboard_time": 1755841345,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116039,
+      "num": 116039,
+      "word": "建议敏感的人尝试留长指甲",
+      "onboard_time": 1755858144,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 116014,
@@ -2209,6 +2289,14 @@
       "onboard_time": 1755826462,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106958,
+      "num": 209490,
+      "word": "悬赏上海1套房寻6代单传被拐儿",
+      "onboard_time": 1755857964,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106451,
@@ -2395,20 +2483,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 94475,
+      "num": 94475,
+      "word": "T1对战NS",
+      "onboard_time": 1755859043,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94460,
       "num": 94460,
       "word": "李佳琦一边讲课黄晓明一边掏钱",
       "onboard_time": 1755786625,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94011,
-      "num": 94011,
-      "word": "留错一位手机号洗衣机被改地址送达",
-      "onboard_time": 1755858085,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93980,
@@ -2475,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88882,
+      "num": 88882,
+      "word": "无痛戒掉手机瘾的邪修办法",
+      "onboard_time": 1755858744,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88553,
       "num": 91980,
       "word": "福建绝美蓝眼泪似星河落入大海",
@@ -2507,6 +2603,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 85305,
+      "num": 106398,
+      "word": "金灿荣称看不懂美国了",
+      "onboard_time": 1755857425,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84767,
       "num": 84767,
       "word": "王欣瑜逆转晋级8强",
@@ -2537,6 +2641,14 @@
       "onboard_time": 1755828805,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80744,
+      "num": 80744,
+      "word": "李乃文说林一自己就是梗",
+      "onboard_time": 1755859405,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 79341,
@@ -2593,14 +2705,6 @@
       "onboard_time": 1755787223,
       "rank": 39,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 72167,
-      "num": 72167,
-      "word": "子夜归",
-      "onboard_time": 1755771863,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 72135,
@@ -2689,14 +2793,6 @@
       "onboard_time": 1755842665,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 65047,
-      "num": 106398,
-      "word": "金灿荣称看不懂美国了",
-      "onboard_time": 1755857425,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64902,
@@ -2963,14 +3059,6 @@
       "category": "情感,科学科普"
     },
     {
-      "raw_hot": 31801,
-      "num": 106408,
-      "word": "八旬老人为少走50米穿马路被撞死",
-      "onboard_time": 1755857785,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31546,
       "num": 58860,
       "word": "孙颖莎王曼昱女双挺进四强",
@@ -2979,20 +3067,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31336,
+      "num": 106394,
+      "word": "95后主理人称叫老板会觉得羞耻",
+      "onboard_time": 1755858264,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30849,
       "num": 74122,
       "word": "张元英获solo人气奖",
       "onboard_time": 1755797417,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30762,
-      "num": 106394,
-      "word": "95后主理人称叫老板会觉得羞耻",
-      "onboard_time": 1755858264,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30123,
@@ -3011,11 +3099,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26786,
-      "num": 209490,
-      "word": "悬赏上海1套房寻6代单传被拐儿",
-      "onboard_time": 1755857964,
-      "rank": 19,
+      "raw_hot": 27942,
+      "num": 95267,
+      "word": "买脱毛仪送猫",
+      "onboard_time": 1755858623,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3131,6 +3219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 10546,
+      "num": 93533,
+      "word": "尖扎黄河特大桥事故已致12人死亡",
+      "onboard_time": 1755859405,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9189,
       "num": 203045,
       "word": "员工线上开会后离世未获工伤认定",
@@ -3148,7 +3244,7 @@
     },
     {
       "raw_hot": 4953,
-      "num": 394528,
+      "num": 438178,
       "word": "有一种视觉盛宴叫西藏的蓝",
       "onboard_time": 1755741261,
       "rank": 2,

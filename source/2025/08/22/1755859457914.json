@@ -1,0 +1,410 @@
+{
+  "runTime": 1755859457914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 772516,
+        "num": 2259675,
+        "word": "王莉霞接受审查调查",
+        "onboard_time": 1755854605,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 457494,
+        "num": 457494,
+        "word": "孙颖莎vs伊藤美诚",
+        "onboard_time": 1755857425,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4776,
+        "num": 438178,
+        "word": "有一种视觉盛宴叫西藏的蓝",
+        "onboard_time": 1755741261,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 420529,
+        "num": 420529,
+        "word": "泽连斯基称不需要中国提供安全保障",
+        "onboard_time": 1755852208,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9643058,
+        "num": 9643058,
+        "word": "许凯恋情时间线",
+        "onboard_time": 1755846025,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353075,
+        "num": 353075,
+        "word": "少年被9人乱棍打死弃尸山谷",
+        "onboard_time": 1755857304,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293629,
+        "num": 293629,
+        "word": "宋丹丹两个孙子均随奶奶姓宋",
+        "onboard_time": 1755857304,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289314,
+        "num": 289314,
+        "word": "周也 泡面大王",
+        "onboard_time": 1755857065,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237851,
+        "num": 237851,
+        "word": "迪丽热巴 真人BJD",
+        "onboard_time": 1755854067,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234056,
+        "num": 234056,
+        "word": "被错误羁押6370天男子申请国赔1911万",
+        "onboard_time": 1755852327,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3860382,
+        "num": 229871,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1541160,
+        "num": 227015,
+        "word": "虞书欣",
+        "onboard_time": 1755851606,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341679,
+        "num": 220125,
+        "word": "李承铉和戚薇分被睡",
+        "onboard_time": 1755856765,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166284,
+        "num": 216215,
+        "word": "中国渔民多次捞到间谍鱼",
+        "onboard_time": 1755849985,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55802,
+        "num": 211853,
+        "word": "内蒙古女孩用拼多多吃遍全国水果",
+        "onboard_time": 1755856884,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210266,
+        "num": 210266,
+        "word": "迪丽热巴三里屯线下生图",
+        "onboard_time": 1755857245,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390385,
+        "num": 208231,
+        "word": "好多业内为虞书欣发声",
+        "onboard_time": 1755854906,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198827,
+        "num": 198827,
+        "word": "子夜归",
+        "onboard_time": 1755858565,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161521,
+        "num": 161521,
+        "word": "美美桑内之父稳居C位",
+        "onboard_time": 1755853885,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154382,
+        "num": 154382,
+        "word": "五星级酒店泳池里有蛇",
+        "onboard_time": 1755852986,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170733,
+        "num": 153982,
+        "word": "卿卿日常",
+        "onboard_time": 1755831206,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153359,
+        "num": 153359,
+        "word": "TF四代 新疆",
+        "onboard_time": 1755852807,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145283,
+        "num": 145283,
+        "word": "范丞丞 我现在改姓黄还来得及吗",
+        "onboard_time": 1755859405,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144623,
+        "num": 144623,
+        "word": "女子回应家暴丈夫找小三路上摔进ICU",
+        "onboard_time": 1755852208,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141554,
+        "num": 141554,
+        "word": "尖扎黄河特大桥事故瞬间画面",
+        "onboard_time": 1755840986,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 132093,
+        "num": 132093,
+        "word": "MRC对战北京WBG",
+        "onboard_time": 1755858924,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126320,
+        "num": 126320,
+        "word": "上海月薪1万8住家保姆的一天",
+        "onboard_time": 1755856705,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123609,
+        "num": 125955,
+        "word": "留错一位手机号洗衣机被改地址送达",
+        "onboard_time": 1755858085,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125673,
+        "num": 125673,
+        "word": "董璇终于忍不住发火了",
+        "onboard_time": 1755859346,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125607,
+        "num": 125607,
+        "word": "台湾17岁少年遭好友虐杀弃尸",
+        "onboard_time": 1755850046,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116573,
+        "num": 116573,
+        "word": "八旬老人为少走50米穿马路被撞死",
+        "onboard_time": 1755857785,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116039,
+        "num": 116039,
+        "word": "建议敏感的人尝试留长指甲",
+        "onboard_time": 1755858144,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409858,
+        "num": 113581,
+        "word": "于正 生日聚会十指相扣很正常",
+        "onboard_time": 1755859043,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110096,
+        "num": 110096,
+        "word": "子夜归特效开大",
+        "onboard_time": 1755857785,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106958,
+        "num": 106958,
+        "word": "悬赏上海1套房寻6代单传被拐儿",
+        "onboard_time": 1755857964,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99894,
+        "num": 99894,
+        "word": "南京南站站台禁烟",
+        "onboard_time": 1755853286,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97946,
+        "num": 97946,
+        "word": "贾静雯自嘲那么小有什么好看的",
+        "onboard_time": 1755857065,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281878,
+        "num": 97281,
+        "word": "情绪性暴食",
+        "onboard_time": 1755858984,
+        "rank": 37,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 27942,
+        "num": 95267,
+        "word": "买脱毛仪送猫",
+        "onboard_time": 1755858623,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31336,
+        "num": 94789,
+        "word": "95后主理人称叫老板会觉得羞耻",
+        "onboard_time": 1755858264,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94475,
+        "num": 94475,
+        "word": "T1对战NS",
+        "onboard_time": 1755859043,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10546,
+        "num": 93533,
+        "word": "尖扎黄河特大桥事故已致12人死亡",
+        "onboard_time": 1755859405,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93404,
+        "num": 93404,
+        "word": "郭麒麟回应郭德纲不希望他太红",
+        "onboard_time": 1755855026,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88882,
+        "num": 88882,
+        "word": "无痛戒掉手机瘾的邪修办法",
+        "onboard_time": 1755858744,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87485,
+        "num": 87485,
+        "word": "我爸坐了一趟上海一号线不催婚了",
+        "onboard_time": 1755851185,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 85305,
+        "num": 85305,
+        "word": "金灿荣称看不懂美国了",
+        "onboard_time": 1755857425,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85254,
+        "num": 85254,
+        "word": "TIMA",
+        "onboard_time": 1755854605,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81537,
+        "num": 81537,
+        "word": "三只羊东北雨姐再被点名",
+        "onboard_time": 1755842244,
+        "rank": 47,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 256249,
+        "num": 81416,
+        "word": "大金 这么多年套路都是一样的吗",
+        "onboard_time": 1755859043,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80744,
+        "num": 80744,
+        "word": "李乃文说林一自己就是梗",
+        "onboard_time": 1755859405,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#浇好团结花结出幸福果#"
+    }
+  }
+}
