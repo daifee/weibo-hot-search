@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755894527422,
+  "endTime": 1755895295596,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -539,6 +539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24264,
+      "num": 34526,
+      "word": "奔赴少年",
+      "onboard_time": 1755894975,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 21516,
       "num": 60780,
       "word": "捕风追影",
@@ -563,12 +571,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18018,
+      "num": 47676,
+      "word": "九三阅兵3名旗手都是90后",
+      "onboard_time": 1755893594,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17306,
       "num": 46805,
       "word": "aespa中文感言",
       "onboard_time": 1755890955,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15691,
+      "num": 34510,
+      "word": "姜涛晒瘦身成果",
+      "onboard_time": 1755895095,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 13304,
@@ -579,15 +603,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12034,
-      "num": 47676,
-      "word": "九三阅兵3名旗手都是90后",
-      "onboard_time": 1755893594,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11019,
+      "raw_hot": 12159,
       "num": 47336,
       "word": "休假医护扑通一下跪地救人",
       "onboard_time": 1755892874,
