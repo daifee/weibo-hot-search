@@ -1,7 +1,15 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755819552116,
+  "endTime": 1755827781389,
   "band_list": [
+    {
+      "raw_hot": 14453597,
+      "num": 14453597,
+      "word": "许荔莎 22年因赵晴被拍和许凯分手",
+      "onboard_time": 1755826281,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 12998862,
       "num": 12998862,
@@ -15,6 +23,14 @@
       "num": 12896352,
       "word": "黛珂 田栩宁",
       "onboard_time": 1755697408,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10980803,
+      "num": 10980803,
+      "word": "许凯 赵晴",
+      "onboard_time": 1755827305,
       "rank": 10,
       "category": "艺人"
     },
@@ -475,6 +491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1381296,
+      "num": 1381296,
+      "word": "警方通报受胡雷资助女孩去世",
+      "onboard_time": 1755823822,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1373255,
       "num": 232958,
       "word": "曝韩安冉流产",
@@ -817,6 +841,14 @@
       "onboard_time": 1755502343,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1053134,
+      "num": 1053134,
+      "word": "美人鱼现身南沙群岛",
+      "onboard_time": 1755820640,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1050024,
@@ -1665,6 +1697,14 @@
       "onboard_time": 1755528923,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 691787,
+      "num": 691787,
+      "word": "尖扎黄河特大桥事故4人遇难12人失联",
+      "onboard_time": 1755825143,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 689055,
@@ -3851,6 +3891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326758,
+      "num": 326758,
+      "word": "内蒙古山洪12人遇难",
+      "onboard_time": 1755825860,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326431,
       "num": 326431,
       "word": "债市崩了",
@@ -3977,6 +4025,14 @@
       "onboard_time": 1755735802,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318950,
+      "num": 318950,
+      "word": "杨幂热巴合照",
+      "onboard_time": 1755819201,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 318158,
@@ -4113,6 +4169,14 @@
       "onboard_time": 1755752125,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305592,
+      "num": 305592,
+      "word": "泰国传奇大妈蟹肉炒蛋卖882元被罚",
+      "onboard_time": 1755822562,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 305586,
@@ -4379,6 +4443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286636,
+      "num": 286636,
+      "word": "非亲生儿子称父亲受网红蛊惑",
+      "onboard_time": 1755820880,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286430,
       "num": 255678,
       "word": "花少开播把半个内娱的综艺喊过来了",
@@ -4425,6 +4497,14 @@
       "onboard_time": 1755494482,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 285021,
+      "num": 285021,
+      "word": "女孩因辅导作业与家人争执后离家",
+      "onboard_time": 1755825624,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284718,
@@ -4593,6 +4673,14 @@
       "onboard_time": 1755519680,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 274223,
+      "num": 291569,
+      "word": "尖扎黄河特大桥发生施工绳索断裂事故",
+      "onboard_time": 1755825261,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273669,
@@ -4947,6 +5035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248862,
+      "num": 248862,
+      "word": "虞书欣真的说到做到",
+      "onboard_time": 1755821899,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248855,
       "num": 248855,
       "word": "网红吐槽火车工作人员站台抽烟",
@@ -4985,6 +5081,14 @@
       "onboard_time": 1755596724,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 245586,
+      "num": 245586,
+      "word": "胡雷说半年失去了两个学生",
+      "onboard_time": 1755822262,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244888,
@@ -5337,6 +5441,14 @@
       "onboard_time": 1755610886,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229446,
+      "num": 229446,
+      "word": "李宛妲这个鼻子",
+      "onboard_time": 1755820160,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 229282,
@@ -6249,6 +6361,14 @@
       "onboard_time": 1755664402,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 201608,
+      "num": 201608,
+      "word": "机票价格便宜了",
+      "onboard_time": 1755819560,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201512,
@@ -7297,6 +7417,14 @@
       "onboard_time": 1755786325,
       "rank": 43,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 187729,
+      "num": 187729,
+      "word": "星星人泡泡玛特",
+      "onboard_time": 1755823464,
+      "rank": 20,
+      "category": "动漫"
     },
     {
       "raw_hot": 187300,
@@ -8987,6 +9115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162183,
+      "num": 162183,
+      "word": "高铁无座的意思其实是无固定座位",
+      "onboard_time": 1755824003,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162155,
       "num": 162155,
       "word": "有人自林中坠落",
@@ -10075,6 +10211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148180,
+      "num": 148180,
+      "word": "摄像头被境外攻击自动转向港口",
+      "onboard_time": 1755824241,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148141,
       "num": 148141,
       "word": "宠物穿搭要显贵",
@@ -10105,6 +10249,14 @@
       "onboard_time": 1755609744,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147827,
+      "num": 147827,
+      "word": "普特会上俄方4项停火条件曝光",
+      "onboard_time": 1755824302,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147771,
@@ -10687,6 +10839,14 @@
       "num": 384702,
       "word": "假院士阮某平被刑事拘留",
       "onboard_time": 1755595463,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142758,
+      "num": 142758,
+      "word": "云冈石窟拍照事件2人均为聋哑人",
+      "onboard_time": 1755826763,
       "rank": 26,
       "category": "民生新闻"
     },
@@ -11315,6 +11475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136884,
+      "num": 136884,
+      "word": "张维伊多才多艺这一块",
+      "onboard_time": 1755825681,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136737,
       "num": 136737,
       "word": "建议微信学一下QQ这些功能",
@@ -11401,6 +11569,14 @@
       "onboard_time": 1755671663,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135967,
+      "num": 135967,
+      "word": "中国排面每一帧都是大写的帅",
+      "onboard_time": 1755825860,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135889,
@@ -11969,6 +12145,14 @@
       "onboard_time": 1755684083,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130605,
+      "num": 130605,
+      "word": "又一尊巨型印度神像落成加拿大",
+      "onboard_time": 1755827305,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 130602,
@@ -12625,14 +12809,6 @@
       "onboard_time": 1755602546,
       "rank": 45,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 125377,
-      "num": 125377,
-      "word": "杨幂热巴合照",
-      "onboard_time": 1755819201,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 125282,
@@ -13547,6 +13723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116014,
+      "num": 116014,
+      "word": "中国留学生向美高校索赔超7亿",
+      "onboard_time": 1755821962,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115901,
       "num": 115901,
       "word": "发现朋友圈记录生活新功能",
@@ -13641,6 +13825,14 @@
       "onboard_time": 1755589761,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114824,
+      "num": 114824,
+      "word": "范丞丞刀马刀马",
+      "onboard_time": 1755826763,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 114821,
@@ -14299,6 +14491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107085,
+      "num": 136175,
+      "word": "丁程鑫全方位展示新发色",
+      "onboard_time": 1755826462,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106991,
       "num": 126616,
       "word": "金莎男友否认带美女出行",
@@ -14651,6 +14851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102493,
+      "num": 102493,
+      "word": "减肥成功的人做对了一件事",
+      "onboard_time": 1755819319,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102432,
       "num": 140131,
       "word": "关于纪念抗战的几种错误论调",
@@ -14739,6 +14947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101409,
+      "num": 101409,
+      "word": "液化气爆燃28岁女子全身90%烧伤",
+      "onboard_time": 1755819019,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101350,
       "num": 105742,
       "word": "美财长为中国辩护称中印不一样",
@@ -14776,6 +14992,14 @@
       "word": "游戏劝退班22天收费上万元",
       "onboard_time": 1755424941,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100725,
+      "num": 100725,
+      "word": "医学生进厂实习校方扣薪6元1小时",
+      "onboard_time": 1755823221,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -15139,6 +15363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96846,
+      "num": 96846,
+      "word": "孙颖莎再战伊藤美诚",
+      "onboard_time": 1755824482,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96727,
       "num": 96727,
       "word": "Cryin说BLG会焕然一新",
@@ -15217,6 +15449,14 @@
       "onboard_time": 1755768744,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95256,
+      "num": 95256,
+      "word": "贺峻霖history",
+      "onboard_time": 1755826944,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 95073,
@@ -15305,6 +15545,14 @@
       "onboard_time": 1755361522,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93681,
+      "num": 93681,
+      "word": "吴京让地球流浪",
+      "onboard_time": 1755826884,
+      "rank": 43,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 93589,
@@ -15411,6 +15659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92053,
+      "num": 92053,
+      "word": "月鳞绮纪最后五分钟剪了两小时",
+      "onboard_time": 1755822743,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91707,
       "num": 91707,
       "word": "胡明轩半场15分",
@@ -15457,6 +15713,14 @@
       "onboard_time": 1755428722,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90996,
+      "num": 90996,
+      "word": "胡雷",
+      "onboard_time": 1755825022,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90899,
@@ -15635,6 +15899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 88553,
+      "num": 91980,
+      "word": "福建绝美蓝眼泪似星河落入大海",
+      "onboard_time": 1755827125,
+      "rank": 45,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 88196,
       "num": 115120,
       "word": "秋瓷炫于晓光一家济州岛避暑",
@@ -15649,6 +15921,14 @@
       "onboard_time": 1755397580,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87760,
+      "num": 87760,
+      "word": "沈阳发生龙卷风",
+      "onboard_time": 1755822441,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87566,
@@ -15689,6 +15969,14 @@
       "onboard_time": 1755429562,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87244,
+      "num": 87244,
+      "word": "VOGUE金九群封会有单链",
+      "onboard_time": 1755819680,
+      "rank": 49,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 86956,
@@ -16603,14 +16891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68482,
-      "num": 68482,
-      "word": "液化气爆燃28岁女子全身90%烧伤",
-      "onboard_time": 1755819019,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68447,
       "num": 233178,
       "word": "猛士M817价格太香了",
@@ -16697,14 +16977,6 @@
       "onboard_time": 1755473118,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 66834,
-      "num": 66834,
-      "word": "减肥成功的人做对了一件事",
-      "onboard_time": 1755819319,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 65915,
@@ -18732,7 +19004,7 @@
     },
     {
       "raw_hot": 26375,
-      "num": 741149,
+      "num": 773551,
       "word": "想快进到9月3日看阅兵",
       "onboard_time": 1755764363,
       "rank": 16,
