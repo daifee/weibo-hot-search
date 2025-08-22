@@ -1,0 +1,410 @@
+{
+  "runTime": 1755870340461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 826127,
+        "num": 1132180,
+        "word": "北京一老人横穿马路被撞飞身亡",
+        "onboard_time": 1755866006,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716155,
+        "num": 716155,
+        "word": "15岁女生军训期间心脏骤停不幸身亡",
+        "onboard_time": 1755864926,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3313,
+        "num": 670468,
+        "word": "这张办公桌见证抗战胜利时刻",
+        "onboard_time": 1755809414,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1527866,
+        "num": 668346,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661721,
+        "num": 661721,
+        "word": "生万物封二去世",
+        "onboard_time": 1755867866,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292094,
+        "num": 292094,
+        "word": "恋与深空",
+        "onboard_time": 1755868105,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257143,
+        "num": 257143,
+        "word": "aespa全员中文获奖感言",
+        "onboard_time": 1755863786,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243400,
+        "num": 243400,
+        "word": "官方通报女子称幼时遭父母砍手割耳",
+        "onboard_time": 1755868468,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229156,
+        "num": 229156,
+        "word": "王牌对王牌9",
+        "onboard_time": 1755865465,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217225,
+        "num": 217225,
+        "word": "结婚必要的三大条件",
+        "onboard_time": 1755862766,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3173326,
+        "num": 217202,
+        "word": "许荔莎 我以后缠着于正了",
+        "onboard_time": 1755869006,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1164214,
+        "num": 217015,
+        "word": "虞书欣",
+        "onboard_time": 1755851606,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638868,
+        "num": 216670,
+        "word": "董璇终于忍不住发火了",
+        "onboard_time": 1755859346,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242832,
+        "num": 216566,
+        "word": "月经期误区",
+        "onboard_time": 1755867147,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 8280,
+        "num": 216300,
+        "word": "秋天的第一首歌是于适给的",
+        "onboard_time": 1755869547,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216265,
+        "num": 216265,
+        "word": "李一桐穿了40年前的古董礼服",
+        "onboard_time": 1755868767,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189642,
+        "num": 189642,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1755869006,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182344,
+        "num": 182344,
+        "word": "公司离职证明上写背调电话",
+        "onboard_time": 1755862705,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155575,
+        "num": 155575,
+        "word": "AG对战狼队",
+        "onboard_time": 1755862645,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152330,
+        "num": 152330,
+        "word": "IVL",
+        "onboard_time": 1755869067,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8195709,
+        "num": 8195709,
+        "word": "许凯恋情时间线",
+        "onboard_time": 1755846025,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203172,
+        "num": 150735,
+        "word": "范丞丞 我现在改姓黄还来得及吗",
+        "onboard_time": 1755859405,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2175305,
+        "num": 150281,
+        "word": "于正气到输液 何晟铭气定神闲",
+        "onboard_time": 1755860186,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149278,
+        "num": 149278,
+        "word": "商家称磁疗床垫可让尸体百年不腐",
+        "onboard_time": 1755869604,
+        "rank": 23,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 163323,
+        "num": 145430,
+        "word": "周也 泡面大王",
+        "onboard_time": 1755857065,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150874,
+        "num": 145216,
+        "word": "宋丹丹两个孙子均随奶奶姓宋",
+        "onboard_time": 1755857304,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80019,
+        "num": 142285,
+        "word": "吉利银河A7上市14天交付破万",
+        "onboard_time": 1755867147,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140906,
+        "num": 140906,
+        "word": "赵丽颖台词力量感",
+        "onboard_time": 1755866306,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139020,
+        "num": 139020,
+        "word": "每天走多少步能够抵消久坐伤害",
+        "onboard_time": 1755869846,
+        "rank": 28,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 128191,
+        "num": 128191,
+        "word": "专家称A股这轮行情有望持续2至3年",
+        "onboard_time": 1755869967,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129408,
+        "num": 128034,
+        "word": "张万森当鬼了",
+        "onboard_time": 1755869067,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126623,
+        "num": 126623,
+        "word": "鹿晗递话筒",
+        "onboard_time": 1755866546,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125697,
+        "num": 125697,
+        "word": "李湘拍的王诗龄",
+        "onboard_time": 1755869726,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125139,
+        "num": 125139,
+        "word": "生万物",
+        "onboard_time": 1755863967,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124621,
+        "num": 124621,
+        "word": "Twice获奖感言",
+        "onboard_time": 1755868588,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123078,
+        "num": 123078,
+        "word": "李承铉和戚薇分被睡",
+        "onboard_time": 1755856765,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120696,
+        "num": 120696,
+        "word": "TXT全员续约",
+        "onboard_time": 1755868407,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39650,
+        "num": 120134,
+        "word": "Gulf空降Gucci门店",
+        "onboard_time": 1755867147,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55801,
+        "num": 117684,
+        "word": "孙颖莎乒乓赛场解题学霸",
+        "onboard_time": 1755869366,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102757,
+        "num": 116622,
+        "word": "法拍狸花猫已撤回拍卖",
+        "onboard_time": 1755869604,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582638,
+        "num": 113588,
+        "word": "王星越突然直播一直哭",
+        "onboard_time": 1755847527,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112944,
+        "num": 112944,
+        "word": "解说向小迪道歉",
+        "onboard_time": 1755868706,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107612,
+        "num": 107612,
+        "word": "余华谈史铁生去世",
+        "onboard_time": 1755862645,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 107334,
+        "num": 107334,
+        "word": "少年被9人乱棍打死弃尸山谷",
+        "onboard_time": 1755857304,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105902,
+        "num": 105902,
+        "word": "一次阅兵一生光荣那参加六次呢",
+        "onboard_time": 1755870146,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105131,
+        "num": 105131,
+        "word": "永辉超市半年关了227家店",
+        "onboard_time": 1755859704,
+        "rank": 45,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 105040,
+        "num": 105040,
+        "word": "RiizeTIMA舞台",
+        "onboard_time": 1755869485,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99278,
+        "num": 99278,
+        "word": "好多业内为虞书欣发声",
+        "onboard_time": 1755854906,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98883,
+        "num": 98883,
+        "word": "孙颖莎如何保持世界第一",
+        "onboard_time": 1755869126,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97047,
+        "num": 97047,
+        "word": "陈熠vs温特",
+        "onboard_time": 1755868527,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#浇好团结花结出幸福果#"
+    }
+  }
+}

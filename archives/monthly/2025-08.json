@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755869671037,
+  "endTime": 1755870340461,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3173326,
+      "num": 217202,
+      "word": "许荔莎 我以后缠着于正了",
+      "onboard_time": 1755869006,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3074059,
       "num": 1659829,
       "word": "香港无头男尸头部已找到",
@@ -575,14 +583,6 @@
       "num": 304529,
       "word": "赵露思回应鼻子动了",
       "onboard_time": 1754746404,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2554481,
-      "num": 201787,
-      "word": "许荔莎 我以后缠着于正了",
-      "onboard_time": 1755869006,
       "rank": 10,
       "category": "艺人"
     },
@@ -6795,6 +6795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716155,
+      "num": 716155,
+      "word": "15岁女生军训期间心脏骤停不幸身亡",
+      "onboard_time": 1755864926,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 714926,
       "num": 714926,
       "word": "邱党3比2林诗栋",
@@ -7081,14 +7089,6 @@
       "onboard_time": 1754806821,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 694265,
-      "num": 694265,
-      "word": "15岁女生军训期间心脏骤停不幸身亡",
-      "onboard_time": 1755864926,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 693889,
@@ -7625,6 +7625,14 @@
       "onboard_time": 1754839103,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661721,
+      "num": 661721,
+      "word": "生万物封二去世",
+      "onboard_time": 1755867866,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 661707,
@@ -8409,14 +8417,6 @@
       "onboard_time": 1754316265,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 619186,
-      "num": 619186,
-      "word": "生万物封二去世",
-      "onboard_time": 1755867866,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 619121,
@@ -21203,6 +21203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243400,
+      "num": 243400,
+      "word": "官方通报女子称幼时遭父母砍手割耳",
+      "onboard_time": 1755868468,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243337,
       "num": 272385,
       "word": "俄罗斯记者们在美国睡大通铺",
@@ -21241,6 +21249,14 @@
       "onboard_time": 1755308002,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242832,
+      "num": 216566,
+      "word": "月经期误区",
+      "onboard_time": 1755867147,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 242564,
@@ -23267,14 +23283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220209,
-      "num": 199707,
-      "word": "月经期误区",
-      "onboard_time": 1755867147,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 219825,
       "num": 219825,
       "word": "立秋红包",
@@ -23689,6 +23697,14 @@
       "onboard_time": 1754033001,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 216265,
+      "num": 216265,
+      "word": "李一桐穿了40年前的古董礼服",
+      "onboard_time": 1755868767,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 216263,
@@ -30523,14 +30539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185757,
-      "num": 185757,
-      "word": "官方通报女子称幼时遭父母砍手割耳",
-      "onboard_time": 1755868468,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185667,
       "num": 200078,
       "word": "陈梦秀英语初学小成果",
@@ -34993,14 +35001,6 @@
       "onboard_time": 1754548942,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167766,
-      "num": 167766,
-      "word": "李一桐穿了40年前的古董礼服",
-      "onboard_time": 1755868767,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 167663,
@@ -40851,6 +40851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149278,
+      "num": 149278,
+      "word": "商家称磁疗床垫可让尸体百年不腐",
+      "onboard_time": 1755869604,
+      "rank": 48,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 149266,
       "num": 149266,
       "word": "香奈儿婴幼儿时期童年照",
@@ -44889,6 +44897,14 @@
       "onboard_time": 1755699567,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139020,
+      "num": 139020,
+      "word": "每天走多少步能够抵消久坐伤害",
+      "onboard_time": 1755869846,
+      "rank": 28,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 138989,
@@ -49171,6 +49187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129408,
+      "num": 128034,
+      "word": "张万森当鬼了",
+      "onboard_time": 1755869067,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129405,
       "num": 205534,
       "word": "谢霆锋刘嘉玲吃饭能讲究也能随意",
@@ -49777,6 +49801,14 @@
       "onboard_time": 1754703681,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128191,
+      "num": 128191,
+      "word": "专家称A股这轮行情有望持续2至3年",
+      "onboard_time": 1755869967,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 128171,
@@ -51049,6 +51081,14 @@
       "onboard_time": 1754122582,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125697,
+      "num": 125697,
+      "word": "李湘拍的王诗龄",
+      "onboard_time": 1755869726,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 125667,
@@ -52940,7 +52980,7 @@
     },
     {
       "raw_hot": 121005,
-      "num": 137771,
+      "num": 142285,
       "word": "吉利银河A7上市14天交付破万",
       "onboard_time": 1755867147,
       "rank": 28,
@@ -56355,6 +56395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112944,
+      "num": 112944,
+      "word": "解说向小迪道歉",
+      "onboard_time": 1755868706,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112943,
       "num": 112943,
       "word": "Everglow将以四人体制活动",
@@ -59179,6 +59227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105902,
+      "num": 105902,
+      "word": "一次阅兵一生光荣那参加六次呢",
+      "onboard_time": 1755870146,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105873,
       "num": 143686,
       "word": "上汽通用回应智驾争议",
@@ -59457,6 +59513,14 @@
       "onboard_time": 1755699928,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105040,
+      "num": 105040,
+      "word": "RiizeTIMA舞台",
+      "onboard_time": 1755869485,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 105014,
@@ -60225,6 +60289,14 @@
       "onboard_time": 1754642123,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102757,
+      "num": 116622,
+      "word": "法拍狸花猫已撤回拍卖",
+      "onboard_time": 1755869604,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102642,
@@ -63035,14 +63107,6 @@
       "category": "运动健身,美食"
     },
     {
-      "raw_hot": 94226,
-      "num": 94226,
-      "word": "RiizeTIMA舞台",
-      "onboard_time": 1755869485,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 94178,
       "num": 94178,
       "word": "睡够八小时还是巨累是为啥",
@@ -63851,14 +63915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91082,
-      "num": 91082,
-      "word": "商家称磁疗床垫可让尸体百年不腐",
-      "onboard_time": 1755869604,
-      "rank": 48,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 91049,
       "num": 106334,
       "word": "再看水花消失术依然惊艳",
@@ -63905,14 +63961,6 @@
       "onboard_time": 1755472758,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90849,
-      "num": 106229,
-      "word": "张万森当鬼了",
-      "onboard_time": 1755869067,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 90769,
@@ -65273,14 +65321,6 @@
       "onboard_time": 1755705683,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 84350,
-      "num": 99798,
-      "word": "法拍狸花猫已撤回拍卖",
-      "onboard_time": 1755869604,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84267,
@@ -69659,6 +69699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55801,
+      "num": 117684,
+      "word": "孙颖莎乒乓赛场解题学霸",
+      "onboard_time": 1755869366,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55712,
       "num": 65622,
       "word": "陈粒演唱会",
@@ -71827,14 +71875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 42705,
-      "num": 105530,
-      "word": "孙颖莎乒乓赛场解题学霸",
-      "onboard_time": 1755869366,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 42617,
       "num": 132472,
       "word": "土狗不用偷着养了",
@@ -72465,6 +72505,14 @@
       "onboard_time": 1755509301,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39650,
+      "num": 120134,
+      "word": "Gulf空降Gucci门店",
+      "onboard_time": 1755867147,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 39561,
@@ -75619,14 +75667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20990,
-      "num": 106198,
-      "word": "Gulf空降Gucci门店",
-      "onboard_time": 1755867147,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20959,
       "num": 274697,
       "word": "什么比赛让NBA球星集体喊话",
@@ -76668,7 +76708,7 @@
     },
     {
       "raw_hot": 11069,
-      "num": 648404,
+      "num": 670468,
       "word": "这张办公桌见证抗战胜利时刻",
       "onboard_time": 1755809414,
       "rank": 9,
@@ -76827,6 +76867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8280,
+      "num": 216300,
+      "word": "秋天的第一首歌是于适给的",
+      "onboard_time": 1755869547,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 8108,
       "num": 706479,
       "word": "秋天第1个节气",
@@ -76849,14 +76897,6 @@
       "onboard_time": 1755283875,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 7785,
-      "num": 124621,
-      "word": "秋天的第一首歌是于适给的",
-      "onboard_time": 1755869547,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 7113,
