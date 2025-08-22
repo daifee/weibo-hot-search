@@ -1,0 +1,410 @@
+{
+  "runTime": 1755848302443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14426256,
+        "num": 14426256,
+        "word": "许凯恋情时间线",
+        "onboard_time": 1755846025,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462570,
+        "num": 462570,
+        "word": "三只羊东北雨姐再被点名",
+        "onboard_time": 1755842244,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 18944,
+        "num": 462275,
+        "word": "这个踩点变装又燃又帅",
+        "onboard_time": 1755805994,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326276,
+        "num": 460095,
+        "word": "妻子擅自堕胎丈夫索赔被驳回",
+        "onboard_time": 1755842665,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253061,
+        "num": 456488,
+        "word": "存不到一亿都对不起这只虾",
+        "onboard_time": 1755845786,
+        "rank": 4,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 7973180,
+        "num": 7973180,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533198,
+        "num": 450915,
+        "word": "尖扎黄河特大桥事故瞬间画面",
+        "onboard_time": 1755840986,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 210404,
+        "num": 448983,
+        "word": "官方通报乡政府上班时间人员缺岗",
+        "onboard_time": 1755842904,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204426,
+        "num": 447380,
+        "word": "A股",
+        "onboard_time": 1755841524,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170686,
+        "num": 445093,
+        "word": "福建一煤矿7人死亡",
+        "onboard_time": 1755847106,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1539802,
+        "num": 441613,
+        "word": "于正急得直播都没开美颜",
+        "onboard_time": 1755846745,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1301431,
+        "num": 438325,
+        "word": "赵晴工作室声明",
+        "onboard_time": 1755846025,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1223004,
+        "num": 437501,
+        "word": "许荔莎报警",
+        "onboard_time": 1755847226,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1138134,
+        "num": 435821,
+        "word": "王星越突然直播一直哭",
+        "onboard_time": 1755847527,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536894,
+        "num": 431626,
+        "word": "卿卿日常",
+        "onboard_time": 1755831206,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490111,
+        "num": 429502,
+        "word": "虞书欣替身发声",
+        "onboard_time": 1755832646,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428574,
+        "num": 428574,
+        "word": "明星基础嫂子就不基础",
+        "onboard_time": 1755847226,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409849,
+        "num": 409849,
+        "word": "李晟 你现在好冷漠啊",
+        "onboard_time": 1755845186,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192170,
+        "num": 383744,
+        "word": "尖扎黄河特大桥事故7人遇难9人失联",
+        "onboard_time": 1755825143,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84683,
+        "num": 373751,
+        "word": "永州通报民警上门谈话全程戴记录仪",
+        "onboard_time": 1755847886,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181012,
+        "num": 368929,
+        "word": "尖扎黄河特大桥事发时16人现场作业",
+        "onboard_time": 1755846146,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366836,
+        "num": 366836,
+        "word": "虞书欣晒林晚星杀青特辑",
+        "onboard_time": 1755839486,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316349,
+        "num": 316349,
+        "word": "陈铭首曝亲哥被绑架致残",
+        "onboard_time": 1755840325,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305840,
+        "num": 305840,
+        "word": "大金 我的天要亮了吗",
+        "onboard_time": 1755835227,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239659,
+        "num": 239659,
+        "word": "敖瑞鹏 请叫我芳心盗贼",
+        "onboard_time": 1755847646,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232405,
+        "num": 232405,
+        "word": "初潮和生育提前会加速衰老",
+        "onboard_time": 1755846325,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213071,
+        "num": 213071,
+        "word": "田曦薇你长成这样还有什么烦恼",
+        "onboard_time": 1755846927,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210174,
+        "num": 210174,
+        "word": "卧室巨星",
+        "onboard_time": 1755847407,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70946,
+        "num": 203715,
+        "word": "关口勋眼中的日产出海潜力",
+        "onboard_time": 1755846325,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 9189,
+        "num": 203045,
+        "word": "员工线上开会后离世未获工伤认定",
+        "onboard_time": 1755847947,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202421,
+        "num": 202421,
+        "word": "王星越山顶直播",
+        "onboard_time": 1755842904,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202179,
+        "num": 202179,
+        "word": "整个房间一半以上都是床",
+        "onboard_time": 1755842004,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176525,
+        "num": 176525,
+        "word": "九三阅兵他将高擎党旗走在队伍最前列",
+        "onboard_time": 1755844524,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171400,
+        "num": 171400,
+        "word": "夜光剧本2.0",
+        "onboard_time": 1755837627,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168121,
+        "num": 168121,
+        "word": "台湾女子买20包棉棒被抓",
+        "onboard_time": 1755843565,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165719,
+        "num": 165719,
+        "word": "小米汽车",
+        "onboard_time": 1755846446,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158650,
+        "num": 158650,
+        "word": "揭秘尖扎黄河特大桥施工项目中标方",
+        "onboard_time": 1755841107,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153784,
+        "num": 153784,
+        "word": "原来iPhone长按这么好用",
+        "onboard_time": 1755847706,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93763,
+        "num": 150612,
+        "word": "张晚意 长了痘是抠还是不抠",
+        "onboard_time": 1755847646,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149847,
+        "num": 149847,
+        "word": "特斯拉接入豆包DeepSeek",
+        "onboard_time": 1755848006,
+        "rank": 39,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 148663,
+        "num": 148663,
+        "word": "官方称确有部分干部迟到缺岗情况",
+        "onboard_time": 1755846146,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148610,
+        "num": 148610,
+        "word": "子夜归soso soso就不soso",
+        "onboard_time": 1755837807,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53443,
+        "num": 143297,
+        "word": "在姑苏华莱士吃上了魔道的席",
+        "onboard_time": 1755846866,
+        "rank": 42,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 142318,
+        "num": 142318,
+        "word": "QQ常用户 微信常用户",
+        "onboard_time": 1755847766,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140344,
+        "num": 140344,
+        "word": "直击王楚钦的多面魅力",
+        "onboard_time": 1755847466,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140316,
+        "num": 140316,
+        "word": "胡雷资助女孩遗体在水池内发现",
+        "onboard_time": 1755833305,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138458,
+        "num": 138458,
+        "word": "蒋敦豪龙族动画OST异类上线",
+        "onboard_time": 1755848125,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 137611,
+        "num": 137611,
+        "word": "陈飞宇你神图有了",
+        "onboard_time": 1755848125,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129354,
+        "num": 129354,
+        "word": "酱园弄网播",
+        "onboard_time": 1755846446,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124052,
+        "num": 124052,
+        "word": "胡夏回应目前单身",
+        "onboard_time": 1755842364,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席上合峰会#"
+    }
+  }
+}
