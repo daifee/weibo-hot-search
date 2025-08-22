@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755873808789,
+  "endTime": 1755876416225,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -812,7 +812,7 @@
     },
     {
       "raw_hot": 1204944,
-      "num": 308681,
+      "num": 333552,
       "word": "许荔莎 22年许凯把我绿了",
       "onboard_time": 1755871526,
       "rank": 10,
@@ -857,6 +857,14 @@
       "onboard_time": 1755599905,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1160130,
+      "num": 436620,
+      "word": "禹宙中欣",
+      "onboard_time": 1755874766,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1155488,
@@ -3067,6 +3075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 472825,
+      "num": 472825,
+      "word": "被丈夫推下悬崖的妻子决定复仇",
+      "onboard_time": 1755873447,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472730,
       "num": 312981,
       "word": "陈哲远认为冷战两天就算分手",
@@ -3907,6 +3923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377958,
+      "num": 377958,
+      "word": "降息",
+      "onboard_time": 1755873568,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 377767,
       "num": 307180,
       "word": "为了养猫考了个公务员",
@@ -4137,6 +4161,14 @@
       "onboard_time": 1755426442,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 357680,
+      "num": 357680,
+      "word": "丁禹兮直播",
+      "onboard_time": 1755873387,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 356497,
@@ -4643,6 +4675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 312710,
+      "num": 267011,
+      "word": "费家嫂子疯了",
+      "onboard_time": 1755876207,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312268,
       "num": 312268,
       "word": "背娃送外卖妈妈称不再嫁人不合法",
@@ -4905,6 +4945,14 @@
       "onboard_time": 1755837807,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296262,
+      "num": 296262,
+      "word": "鹿晗黄子韬唱了敏感",
+      "onboard_time": 1755871347,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 295877,
@@ -5177,14 +5225,6 @@
       "onboard_time": 1755570921,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283367,
-      "num": 283367,
-      "word": "鹿晗黄子韬唱了敏感",
-      "onboard_time": 1755871347,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 282786,
@@ -5555,6 +5595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264176,
+      "num": 357677,
+      "word": "鲍威尔暗示美联储或在9月降息",
+      "onboard_time": 1755875128,
+      "rank": 9,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 263698,
       "num": 263698,
       "word": "胡夏回应目前单身",
@@ -5883,14 +5931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245744,
-      "num": 245744,
-      "word": "被丈夫推下悬崖的妻子决定复仇",
-      "onboard_time": 1755873447,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245586,
       "num": 245586,
       "word": "胡雷说半年失去了两个学生",
@@ -6177,6 +6217,14 @@
       "onboard_time": 1755832707,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235533,
+      "num": 235533,
+      "word": "AG对战狼队",
+      "onboard_time": 1755862645,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 235379,
@@ -6825,6 +6873,14 @@
       "onboard_time": 1755846927,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213008,
+      "num": 213008,
+      "word": "女性向游戏首获科隆展最佳手游奖",
+      "onboard_time": 1755876327,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 212940,
@@ -7955,6 +8011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195259,
+      "num": 195259,
+      "word": "孙颖莎王曼昱晋级女双决赛",
+      "onboard_time": 1755875547,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195206,
       "num": 195206,
       "word": "邓超 魔童饿了",
@@ -8001,14 +8065,6 @@
       "onboard_time": 1755854605,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 194960,
-      "num": 194960,
-      "word": "AG对战狼队",
-      "onboard_time": 1755862645,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 194897,
@@ -8113,6 +8169,14 @@
       "onboard_time": 1755861446,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193719,
+      "num": 193719,
+      "word": "KPL",
+      "onboard_time": 1755770423,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 193669,
@@ -8817,6 +8881,14 @@
       "onboard_time": 1755616346,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185212,
+      "num": 185212,
+      "word": "WTT",
+      "onboard_time": 1755875187,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 185087,
@@ -9715,14 +9787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173721,
-      "num": 173721,
-      "word": "丁禹兮直播",
-      "onboard_time": 1755873387,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173580,
       "num": 278222,
       "word": "当地回应面店老板阴阳顾客是七匹狼",
@@ -10025,14 +10089,6 @@
       "onboard_time": 1755757044,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170356,
-      "num": 170356,
-      "word": "降息",
-      "onboard_time": 1755873568,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 170145,
@@ -10793,6 +10849,14 @@
       "onboard_time": 1755783744,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161129,
+      "num": 161129,
+      "word": "军训身亡女生家属等尸检结果",
+      "onboard_time": 1755875008,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161120,
@@ -12459,6 +12523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144709,
+      "num": 193759,
+      "word": "爸爸3年攒3万16岁儿子打赏剩300",
+      "onboard_time": 1755874886,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144675,
       "num": 229928,
       "word": "宋亚轩单人机位破亿",
@@ -12577,6 +12649,14 @@
       "onboard_time": 1755854006,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143718,
+      "num": 143718,
+      "word": "美联储",
+      "onboard_time": 1755874707,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 143627,
@@ -12929,6 +13009,14 @@
       "onboard_time": 1755677063,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140573,
+      "num": 140573,
+      "word": "公司误缴社保致无法落户上海赔5万",
+      "onboard_time": 1755875967,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140434,
@@ -13539,6 +13627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135767,
+      "num": 135767,
+      "word": "严浩翔合火人档案",
+      "onboard_time": 1755875547,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135764,
       "num": 135764,
       "word": "北京国安晋级足协杯决赛",
@@ -14091,6 +14187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131174,
+      "num": 131174,
+      "word": "aespa炸场",
+      "onboard_time": 1755873866,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131146,
       "num": 131146,
       "word": "张家辉回应坐地铁参加金像奖",
@@ -14425,6 +14529,14 @@
       "onboard_time": 1755789204,
       "rank": 17,
       "category": "数码,民生新闻"
+    },
+    {
+      "raw_hot": 128618,
+      "num": 128618,
+      "word": "裸辞不上班5个月的真实感受",
+      "onboard_time": 1755875608,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 128569,
@@ -14969,6 +15081,14 @@
       "onboard_time": 1755416181,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124657,
+      "num": 124657,
+      "word": "人大教授临死写书谈死亡",
+      "onboard_time": 1755874646,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 124615,
@@ -15585,6 +15705,14 @@
       "onboard_time": 1755411381,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119261,
+      "num": 119261,
+      "word": "mini版labubu售价79元",
+      "onboard_time": 1755874166,
+      "rank": 45,
+      "category": "休闲"
     },
     {
       "raw_hot": 119206,
@@ -16329,14 +16457,6 @@
       "onboard_time": 1755781524,
       "rank": 49,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 112245,
-      "num": 122939,
-      "word": "KPL",
-      "onboard_time": 1755770423,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 112223,
@@ -17737,6 +17857,14 @@
       "onboard_time": 1755415103,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98083,
+      "num": 133362,
+      "word": "石铭今晚UFC首秀",
+      "onboard_time": 1755875906,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 98074,
@@ -19155,6 +19283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78642,
+      "num": 234434,
+      "word": "曝光缺岗当事人希望公开执法视频",
+      "onboard_time": 1755874886,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78586,
       "num": 49930,
       "word": "京城大师赛",
@@ -19809,6 +19945,14 @@
       "onboard_time": 1755530482,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65885,
+      "num": 131252,
+      "word": "不是每个人都适合独居",
+      "onboard_time": 1755875247,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 65845,
