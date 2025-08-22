@@ -1,0 +1,410 @@
+{
+  "runTime": 1755898711315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 67195,
+        "num": 177487,
+        "word": "公司误缴社保致无法落户上海赔5万",
+        "onboard_time": 1755875967,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51968,
+        "num": 51968,
+        "word": "孙颖莎和王曼昱的默契",
+        "onboard_time": 1755879802,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 946,
+        "num": 46315,
+        "word": "这张办公桌见证抗战胜利时刻",
+        "onboard_time": 1755809414,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90193,
+        "num": 46075,
+        "word": "许凯 已报警",
+        "onboard_time": 1755883159,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45795,
+        "num": 45795,
+        "word": "被丈夫推下悬崖的妻子决定复仇",
+        "onboard_time": 1755873447,
+        "rank": 4,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 40034,
+        "num": 40034,
+        "word": "降息",
+        "onboard_time": 1755873568,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35662,
+        "num": 35662,
+        "word": "爸爸3年攒3万16岁儿子打赏剩300",
+        "onboard_time": 1755874886,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32736,
+        "num": 32736,
+        "word": "河南开封一花坛拐角尖锐还带钢片",
+        "onboard_time": 1755877706,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31893,
+        "num": 31893,
+        "word": "费家嫂子疯了",
+        "onboard_time": 1755876207,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29159,
+        "num": 31884,
+        "word": "官方再回应非婚生育申领育儿补贴",
+        "onboard_time": 1755880344,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109860,
+        "num": 31854,
+        "word": "虞书欣",
+        "onboard_time": 1755851606,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97859,
+        "num": 31842,
+        "word": "知情人回应女生军训身亡",
+        "onboard_time": 1755877406,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55250,
+        "num": 31808,
+        "word": "董璇终于忍不住发火了",
+        "onboard_time": 1755859346,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55047,
+        "num": 31792,
+        "word": "姜涛晒瘦身成果",
+        "onboard_time": 1755895095,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27521,
+        "num": 31764,
+        "word": "男子看利剑玫瑰买彩票中奖30万元",
+        "onboard_time": 1755870566,
+        "rank": 14,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 25401,
+        "num": 31731,
+        "word": "一年级pd对虞书欣的评价",
+        "onboard_time": 1755882621,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25177,
+        "num": 31720,
+        "word": "李一桐穿了40年前的古董礼服",
+        "onboard_time": 1755868767,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22695,
+        "num": 31680,
+        "word": "北京一老人横穿马路被撞飞身亡",
+        "onboard_time": 1755866006,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22358,
+        "num": 31666,
+        "word": "生万物封二去世",
+        "onboard_time": 1755867866,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21387,
+        "num": 31625,
+        "word": "15岁女生军训期间心脏骤停不幸身亡",
+        "onboard_time": 1755864926,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183381,
+        "num": 31610,
+        "word": "许凯恋情时间线",
+        "onboard_time": 1755846025,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52387,
+        "num": 31592,
+        "word": "禹宙中欣",
+        "onboard_time": 1755874766,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155557,
+        "num": 31555,
+        "word": "许荔莎 我以后缠着于正了",
+        "onboard_time": 1755869006,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38782,
+        "num": 31538,
+        "word": "男子打胰岛素1个月发现针套都没摘",
+        "onboard_time": 1755870806,
+        "rank": 23,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 88117,
+        "num": 31518,
+        "word": "于正气到输液 何晟铭气定神闲",
+        "onboard_time": 1755860186,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31500,
+        "num": 31500,
+        "word": "高迪 大美",
+        "onboard_time": 1755880163,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22525,
+        "num": 31475,
+        "word": "官方通报女子称幼时遭父母砍手割耳",
+        "onboard_time": 1755868468,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20911,
+        "num": 31450,
+        "word": "中方回应英伟达停止生产H20芯片",
+        "onboard_time": 1755873206,
+        "rank": 27,
+        "category": "国际时政,数码"
+      },
+      {
+        "raw_hot": 19952,
+        "num": 31442,
+        "word": "丁禹兮直播",
+        "onboard_time": 1755873387,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14891,
+        "num": 31420,
+        "word": "迪丽热巴黑蕾丝短裙",
+        "onboard_time": 1755871466,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28099,
+        "num": 31387,
+        "word": "韩国年轻人韩语水平退化",
+        "onboard_time": 1755877765,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19254,
+        "num": 31360,
+        "word": "为躲日军护村民邓玉芬失手捂死幼子",
+        "onboard_time": 1755876926,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 18809,
+        "num": 31338,
+        "word": "鲍威尔暗示美联储或在9月降息",
+        "onboard_time": 1755875128,
+        "rank": 32,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 17068,
+        "num": 31309,
+        "word": "员工只要生娃公司就发5万元",
+        "onboard_time": 1755877886,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16924,
+        "num": 31289,
+        "word": "裸辞不上班5个月的真实感受",
+        "onboard_time": 1755875608,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16357,
+        "num": 31260,
+        "word": "军训身亡女生家属等尸检结果",
+        "onboard_time": 1755875008,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15887,
+        "num": 31234,
+        "word": "成都赛区被中国足协通报批评",
+        "onboard_time": 1755881662,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15597,
+        "num": 31202,
+        "word": "九三阅兵3名旗手都是90后",
+        "onboard_time": 1755893594,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15398,
+        "num": 31191,
+        "word": "孙颖莎说要一分一分拼",
+        "onboard_time": 1755880643,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14812,
+        "num": 31169,
+        "word": "奔赴少年",
+        "onboard_time": 1755894975,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14662,
+        "num": 31127,
+        "word": "李湘拍的王诗龄",
+        "onboard_time": 1755869726,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14478,
+        "num": 31110,
+        "word": "鹿晗王力宏合唱春雨里洗过的太阳",
+        "onboard_time": 1755889157,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14325,
+        "num": 31069,
+        "word": "李承铉和戚薇分被睡",
+        "onboard_time": 1755856765,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14244,
+        "num": 31060,
+        "word": "捕风追影二创追着喂饭吃",
+        "onboard_time": 1755886577,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13219,
+        "num": 31029,
+        "word": "TIMA国际音乐大赏",
+        "onboard_time": 1755886397,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13272,
+        "num": 30997,
+        "word": "捕风追影",
+        "onboard_time": 1755873806,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13996,
+        "num": 30980,
+        "word": "鹿晗演唱会嘉宾王力宏",
+        "onboard_time": 1755872727,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13199,
+        "num": 30945,
+        "word": "今天星期五",
+        "onboard_time": 1755878305,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13196,
+        "num": 30938,
+        "word": "美联储",
+        "onboard_time": 1755874707,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12410,
+        "num": 30913,
+        "word": "叠纸一年内两个项目获国际大奖",
+        "onboard_time": 1755881184,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织天津峰会#"
+    }
+  }
+}
