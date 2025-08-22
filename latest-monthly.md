@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/22 13:42:11
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/22 14:38:03
 </p>
 </blockquote>
 <p>
@@ -5067,6 +5067,12 @@ iG起诉炫神（热度：773209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%93%AD%E9%A6%96%E6%9B%9D%E4%BA%B2%E5%93%A5%E8%A2%AB%E7%BB%91%E6%9E%B6%E8%87%B4%E6%AE%8B%23" target="weibo">
+陈铭首曝亲哥被绑架致残（热度：709719）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E6%8F%90%E8%AE%AE%E7%AB%99%E5%8F%B0%E7%AD%89%E5%80%99%E5%8C%BA%E7%A6%81%E7%83%9F%23" target="weibo">
 12306回应网友提议站台等候区禁烟（热度：709508）
 </a>
@@ -6005,12 +6011,6 @@ iPhone无感录音（热度：674762）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%8D%83%E7%99%BE%E6%83%A0%E5%8E%BB%E4%B8%96%E7%B3%BB%E5%9B%A0%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%23" target="weibo">
 知情人称千百惠去世系因突发疾病（热度：633400）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%98%AF%E4%B9%90%E5%8D%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%AD%BE%E7%BA%A6%E8%89%BA%E4%BA%BA%23" target="weibo">
-谢娜是乐华的第一个签约艺人（热度：632778）
 </a>
 </li>
 
