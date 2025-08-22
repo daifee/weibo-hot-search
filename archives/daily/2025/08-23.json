@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755905028707,
+  "endTime": 1755905890871,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -8,6 +8,14 @@
       "word": "许凯恋情时间线",
       "onboard_time": 1755846025,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1399107,
+      "num": 126592,
+      "word": "许凯赵晴贴脸照",
+      "onboard_time": 1755905480,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 392483,
-      "num": 760855,
+      "num": 867891,
       "word": "公司误缴社保致无法落户上海赔5万",
       "onboard_time": 1755875967,
       "rank": 5,
@@ -176,6 +184,14 @@
       "word": "爸爸3年攒3万16岁儿子打赏剩300",
       "onboard_time": 1755874886,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170197,
+      "num": 170197,
+      "word": "处暑",
+      "onboard_time": 1755905359,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -259,6 +275,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 108172,
+      "num": 108172,
+      "word": "中方回应英伟达停止生产H20芯片",
+      "onboard_time": 1755873206,
+      "rank": 38,
+      "category": "国际时政,数码"
+    },
+    {
       "raw_hot": 105809,
       "num": 240171,
       "word": "白鹿张鑫梦回白月梵星",
@@ -291,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97387,
+      "num": 97387,
+      "word": "文化中国行处暑节气",
+      "onboard_time": 1755905359,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92737,
       "num": 239723,
       "word": "孙颖莎和王曼昱的默契",
@@ -313,14 +345,6 @@
       "onboard_time": 1755868767,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88893,
-      "num": 88893,
-      "word": "中方回应英伟达停止生产H20芯片",
-      "onboard_time": 1755873206,
-      "rank": 38,
-      "category": "国际时政,数码"
     },
     {
       "raw_hot": 85438,
@@ -363,7 +387,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73777,
+      "raw_hot": 74414,
       "num": 239292,
       "word": "为躲日军护村民邓玉芬失手捂死幼子",
       "onboard_time": 1755876926,
@@ -491,7 +515,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 35990,
+      "raw_hot": 40035,
       "num": 88556,
       "word": "WTT",
       "onboard_time": 1755875187,
@@ -515,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34218,
+      "num": 88474,
+      "word": "鹿晗王力宏合唱春雨里洗过的太阳",
+      "onboard_time": 1755889157,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34093,
       "num": 239807,
       "word": "男子开错路救下走上高速的女童",
@@ -523,12 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31731,
-      "num": 88474,
-      "word": "鹿晗王力宏合唱春雨里洗过的太阳",
-      "onboard_time": 1755889157,
-      "rank": 19,
-      "category": "演出"
+      "raw_hot": 30971,
+      "num": 74323,
+      "word": "东方甄选2025财年净利润6074.5万",
+      "onboard_time": 1755905058,
+      "rank": 48,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 30097,
+      "num": 88466,
+      "word": "九三阅兵3名旗手都是90后",
+      "onboard_time": 1755893594,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26832,
@@ -569,14 +609,6 @@
       "onboard_time": 1755894975,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23528,
-      "num": 88466,
-      "word": "九三阅兵3名旗手都是90后",
-      "onboard_time": 1755893594,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21516,

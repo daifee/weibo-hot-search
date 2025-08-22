@@ -1,0 +1,410 @@
+{
+  "runTime": 1755905890871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 314837,
+        "num": 867891,
+        "word": "公司误缴社保致无法落户上海赔5万",
+        "onboard_time": 1755875967,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170197,
+        "num": 170197,
+        "word": "处暑",
+        "onboard_time": 1755905359,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1696,
+        "num": 159431,
+        "word": "这张办公桌见证抗战胜利时刻",
+        "onboard_time": 1755809414,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215814,
+        "num": 156345,
+        "word": "被丈夫推下悬崖的妻子决定复仇",
+        "onboard_time": 1755873447,
+        "rank": 3,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 150537,
+        "num": 150537,
+        "word": "北京一老人横穿马路被撞飞身亡",
+        "onboard_time": 1755866006,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144694,
+        "num": 144694,
+        "word": "爸爸3年攒3万16岁儿子打赏剩300",
+        "onboard_time": 1755874886,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138960,
+        "num": 138960,
+        "word": "降息",
+        "onboard_time": 1755873568,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136525,
+        "num": 136525,
+        "word": "军训身亡女生家属等尸检结果",
+        "onboard_time": 1755875008,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106802,
+        "num": 136341,
+        "word": "费家嫂子疯了",
+        "onboard_time": 1755876207,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93645,
+        "num": 129950,
+        "word": "生万物封二去世",
+        "onboard_time": 1755867866,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1399107,
+        "num": 126592,
+        "word": "许凯赵晴贴脸照",
+        "onboard_time": 1755905480,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258335,
+        "num": 125792,
+        "word": "董璇终于忍不住发火了",
+        "onboard_time": 1755859346,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227228,
+        "num": 121584,
+        "word": "知情人回应女生军训身亡",
+        "onboard_time": 1755877406,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221433,
+        "num": 116334,
+        "word": "虞书欣",
+        "onboard_time": 1755851606,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115844,
+        "num": 115844,
+        "word": "河南开封一花坛拐角尖锐还带钢片",
+        "onboard_time": 1755877706,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112418,
+        "num": 112418,
+        "word": "男子看利剑玫瑰买彩票中奖30万元",
+        "onboard_time": 1755870566,
+        "rank": 15,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 108172,
+        "num": 108172,
+        "word": "中方回应英伟达停止生产H20芯片",
+        "onboard_time": 1755873206,
+        "rank": 16,
+        "category": "国际时政,数码"
+      },
+      {
+        "raw_hot": 97387,
+        "num": 97387,
+        "word": "文化中国行处暑节气",
+        "onboard_time": 1755905359,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92600,
+        "num": 92600,
+        "word": "韩国年轻人韩语水平退化",
+        "onboard_time": 1755877765,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70209,
+        "num": 92499,
+        "word": "迪丽热巴黑蕾丝短裙",
+        "onboard_time": 1755871466,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548064,
+        "num": 92300,
+        "word": "许凯恋情时间线",
+        "onboard_time": 1755846025,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201047,
+        "num": 91918,
+        "word": "禹宙中欣",
+        "onboard_time": 1755874766,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463074,
+        "num": 91586,
+        "word": "许荔莎 我以后缠着于正了",
+        "onboard_time": 1755869006,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38738,
+        "num": 91407,
+        "word": "白鹿张鑫梦回白月梵星",
+        "onboard_time": 1755870686,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 349161,
+        "num": 91074,
+        "word": "于正气到输液 何晟铭气定神闲",
+        "onboard_time": 1755860186,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185834,
+        "num": 90883,
+        "word": "男子打胰岛素1个月发现针套都没摘",
+        "onboard_time": 1755870806,
+        "rank": 25,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 107404,
+        "num": 90488,
+        "word": "高迪 大美",
+        "onboard_time": 1755880163,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92603,
+        "num": 90276,
+        "word": "官方通报女子称幼时遭父母砍手割耳",
+        "onboard_time": 1755868468,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90205,
+        "num": 90205,
+        "word": "鲍威尔暗示美联储或在9月降息",
+        "onboard_time": 1755875128,
+        "rank": 28,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 74414,
+        "num": 74414,
+        "word": "为躲日军护村民邓玉芬失手捂死幼子",
+        "onboard_time": 1755876926,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 65321,
+        "num": 74413,
+        "word": "裸辞不上班5个月的真实感受",
+        "onboard_time": 1755875608,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65113,
+        "num": 74406,
+        "word": "官方再回应非婚生育申领育儿补贴",
+        "onboard_time": 1755880344,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53172,
+        "num": 74401,
+        "word": "一年级pd对虞书欣的评价",
+        "onboard_time": 1755882621,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48675,
+        "num": 74395,
+        "word": "15岁女生军训期间心脏骤停不幸身亡",
+        "onboard_time": 1755864926,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48499,
+        "num": 74390,
+        "word": "李承铉和戚薇分被睡",
+        "onboard_time": 1755856765,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47366,
+        "num": 74385,
+        "word": "结婚必要的三大条件",
+        "onboard_time": 1755862766,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47213,
+        "num": 74382,
+        "word": "孙颖莎和王曼昱的默契",
+        "onboard_time": 1755879802,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46571,
+        "num": 74378,
+        "word": "员工只要生娃公司就发5万元",
+        "onboard_time": 1755877886,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41743,
+        "num": 74373,
+        "word": "鹿晗演唱会嘉宾王力宏",
+        "onboard_time": 1755872727,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40035,
+        "num": 74369,
+        "word": "WTT",
+        "onboard_time": 1755875187,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38802,
+        "num": 74366,
+        "word": "李湘拍的王诗龄",
+        "onboard_time": 1755869726,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35773,
+        "num": 74358,
+        "word": "李一桐穿了40年前的古董礼服",
+        "onboard_time": 1755868767,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35265,
+        "num": 74356,
+        "word": "8月23日4时33分迎处暑",
+        "onboard_time": 1755900436,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34364,
+        "num": 74350,
+        "word": "姜涛晒瘦身成果",
+        "onboard_time": 1755895095,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34218,
+        "num": 74347,
+        "word": "鹿晗王力宏合唱春雨里洗过的太阳",
+        "onboard_time": 1755889157,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33902,
+        "num": 74338,
+        "word": "成都赛区被中国足协通报批评",
+        "onboard_time": 1755881662,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32711,
+        "num": 74333,
+        "word": "丁禹兮直播",
+        "onboard_time": 1755873387,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31715,
+        "num": 74328,
+        "word": "美联储",
+        "onboard_time": 1755874707,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30971,
+        "num": 74323,
+        "word": "东方甄选2025财年净利润6074.5万",
+        "onboard_time": 1755905058,
+        "rank": 48,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 30097,
+        "num": 74323,
+        "word": "九三阅兵3名旗手都是90后",
+        "onboard_time": 1755893594,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#浇好团结花结出幸福果#"
+    }
+  }
+}
