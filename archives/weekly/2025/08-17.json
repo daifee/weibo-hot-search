@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755859457914,
+  "endTime": 1755861712344,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -48,6 +48,22 @@
       "word": "金钟国官宣结婚",
       "onboard_time": 1755482481,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4334380,
+      "num": 222434,
+      "word": "许凯照片",
+      "onboard_time": 1755860426,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4097576,
+      "num": 217071,
+      "word": "于正气到输液 何晟铭气定神闲",
+      "onboard_time": 1755860186,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -625,6 +641,14 @@
       "onboard_time": 1755489743,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1306102,
+      "num": 207265,
+      "word": "董璇终于忍不住发火了",
+      "onboard_time": 1755859346,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 1299466,
@@ -1689,6 +1713,14 @@
       "onboard_time": 1755649943,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 732231,
+      "num": 196682,
+      "word": "不可以闹到何晟铭面前",
+      "onboard_time": 1755860186,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 730837,
@@ -3027,6 +3059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 468457,
+      "num": 468457,
+      "word": "孙颖莎vs伊藤美诚",
+      "onboard_time": 1755857425,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 463876,
       "num": 463876,
       "word": "机场拦截的充电宝成抢手货",
@@ -3073,14 +3113,6 @@
       "onboard_time": 1755568642,
       "rank": 34,
       "category": "舆论监督,网红"
-    },
-    {
-      "raw_hot": 457494,
-      "num": 457494,
-      "word": "孙颖莎vs伊藤美诚",
-      "onboard_time": 1755857425,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 457249,
@@ -3299,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432437,
+      "num": 353075,
+      "word": "少年被9人乱棍打死弃尸山谷",
+      "onboard_time": 1755857304,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432150,
       "num": 432150,
       "word": "生万物热度",
@@ -3452,7 +3492,7 @@
     },
     {
       "raw_hot": 409858,
-      "num": 113581,
+      "num": 129969,
       "word": "于正 生日聚会十指相扣很正常",
       "onboard_time": 1755859043,
       "rank": 32,
@@ -4035,14 +4075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 353075,
-      "num": 353075,
-      "word": "少年被9人乱棍打死弃尸山谷",
-      "onboard_time": 1755857304,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 352363,
       "num": 352363,
       "word": "龙门石窟",
@@ -4579,6 +4611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 308641,
+      "num": 308641,
+      "word": "周也 泡面大王",
+      "onboard_time": 1755857065,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308579,
       "num": 247336,
       "word": "印度人在华旅游乱扔垃圾",
@@ -4739,6 +4779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296933,
+      "num": 296933,
+      "word": "宋丹丹两个孙子均随奶奶姓宋",
+      "onboard_time": 1755857304,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296932,
       "num": 296932,
       "word": "子夜归soso soso就不soso",
@@ -4811,14 +4859,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 293629,
-      "num": 293629,
-      "word": "宋丹丹两个孙子均随奶奶姓宋",
-      "onboard_time": 1755857304,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293177,
       "num": 293177,
       "word": "男子在离婚冷静期毒杀一双儿女",
@@ -4841,14 +4881,6 @@
       "onboard_time": 1755836906,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 289314,
-      "num": 289314,
-      "word": "周也 泡面大王",
-      "onboard_time": 1755857065,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 288109,
@@ -5113,6 +5145,14 @@
       "onboard_time": 1755594203,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278521,
+      "num": 278521,
+      "word": "范丞丞 我现在改姓黄还来得及吗",
+      "onboard_time": 1755859405,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 277619,
@@ -7539,6 +7579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197007,
+      "num": 197007,
+      "word": "iG复仇FPX",
+      "onboard_time": 1755861206,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196915,
       "num": 196915,
       "word": "严浩翔叫自己严shark",
@@ -7577,6 +7625,14 @@
       "onboard_time": 1755645199,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196233,
+      "num": 196233,
+      "word": "永辉超市半年关了227家店",
+      "onboard_time": 1755859704,
+      "rank": 17,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 196100,
@@ -7793,6 +7849,14 @@
       "onboard_time": 1755854486,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193650,
+      "num": 193650,
+      "word": "2025LPL第三赛段",
+      "onboard_time": 1755861146,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 193552,
@@ -8313,6 +8377,14 @@
       "onboard_time": 1755823464,
       "rank": 20,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 187711,
+      "num": 187711,
+      "word": "留错一位手机号洗衣机被改地址送达",
+      "onboard_time": 1755858085,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187338,
@@ -10283,6 +10355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161869,
+      "num": 161869,
+      "word": "尖扎黄河特大桥事故已致12人死亡",
+      "onboard_time": 1755859405,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161861,
       "num": 161861,
       "word": "蔡徐坤新歌Jasmine现场实力",
@@ -10321,6 +10401,14 @@
       "onboard_time": 1755483922,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161629,
+      "num": 138579,
+      "word": "孙颖莎晋级欧洲大满贯4强",
+      "onboard_time": 1755860846,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 161558,
@@ -11667,6 +11755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146771,
+      "num": 146771,
+      "word": "于适一个月干了别人一年的活",
+      "onboard_time": 1755860606,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146744,
       "num": 146744,
       "word": "刘美含我还是绝望的直女",
@@ -11921,14 +12017,6 @@
       "onboard_time": 1755411862,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145283,
-      "num": 145283,
-      "word": "范丞丞 我现在改姓黄还来得及吗",
-      "onboard_time": 1755859405,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 145261,
@@ -12747,6 +12835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138190,
+      "num": 138190,
+      "word": "UFC",
+      "onboard_time": 1755861146,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138149,
       "num": 138149,
       "word": "那英基础陈数不基础",
@@ -13249,6 +13345,14 @@
       "onboard_time": 1755419421,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134219,
+      "num": 134219,
+      "word": "孙颖莎4比1伊藤美诚",
+      "onboard_time": 1755861446,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 134139,
@@ -14323,14 +14427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125673,
-      "num": 125673,
-      "word": "董璇终于忍不住发火了",
-      "onboard_time": 1755859346,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125667,
       "num": 125667,
       "word": "盗墓笔记直播",
@@ -14513,14 +14609,6 @@
       "onboard_time": 1755600266,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 123609,
-      "num": 125955,
-      "word": "留错一位手机号洗衣机被改地址送达",
-      "onboard_time": 1755858085,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123573,
@@ -15380,7 +15468,7 @@
     },
     {
       "raw_hot": 116039,
-      "num": 116039,
+      "num": 116421,
       "word": "建议敏感的人尝试留长指甲",
       "onboard_time": 1755858144,
       "rank": 31,
@@ -18211,6 +18299,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82201,
+      "num": 116418,
+      "word": "生万物绣绣大脚的爱太拿得出手了",
+      "onboard_time": 1755860006,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 81731,
+      "num": 116417,
+      "word": "宿舍基础改造就不基础",
+      "onboard_time": 1755861506,
+      "rank": 48,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 81496,
       "num": 81496,
       "word": "减肥30斤带来的杀伤力",
@@ -18787,6 +18891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70971,
+      "num": 117647,
+      "word": "猪价跌入6元时代",
+      "onboard_time": 1755860846,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70946,
       "num": 196367,
       "word": "袁一琦蓝玫瑰花海麦架",
@@ -18825,6 +18937,14 @@
       "onboard_time": 1755483080,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70585,
+      "num": 138834,
+      "word": "中国战机一出现就是硬核浪漫",
+      "onboard_time": 1755858804,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70509,
@@ -19745,6 +19865,14 @@
       "onboard_time": 1755629954,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 49293,
+      "num": 117402,
+      "word": "许玮甯产后首发自拍",
+      "onboard_time": 1755861086,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 49126,
@@ -21833,14 +21961,6 @@
       "onboard_time": 1755809414,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10546,
-      "num": 93533,
-      "word": "尖扎黄河特大桥事故已致12人死亡",
-      "onboard_time": 1755859405,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10263,
