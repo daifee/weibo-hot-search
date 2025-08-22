@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755829110221,
+  "endTime": 1755832418775,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -19,6 +19,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1587232,
+      "num": 267831,
+      "word": "于正直播",
+      "onboard_time": 1755831325,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1466982,
+      "num": 1466982,
+      "word": "卿卿日常",
+      "onboard_time": 1755831206,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1381296,
       "num": 3472414,
       "word": "警方通报受胡雷资助女孩去世",
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 1291367,
-      "num": 224527,
+      "num": 251736,
       "word": "许荔莎硬刚于正",
       "onboard_time": 1755827786,
       "rank": 11,
@@ -67,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 910880,
+      "num": 266613,
+      "word": "许荔莎发与许凯牵手照",
+      "onboard_time": 1755828083,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 909617,
       "num": 963287,
       "word": "胡雷资助的感动全网女孩意外去世",
@@ -75,11 +99,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 825376,
-      "num": 223565,
-      "word": "许荔莎发与许凯牵手照",
-      "onboard_time": 1755828083,
-      "rank": 12,
+      "raw_hot": 769172,
+      "num": 246185,
+      "word": "许荔莎聊天记录",
+      "onboard_time": 1755830786,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -147,12 +171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400436,
+      "num": 400436,
+      "word": "乡政府回应上班时间人员缺岗",
+      "onboard_time": 1755827786,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381363,
       "num": 381363,
       "word": "谁来救救何老师",
       "onboard_time": 1755806714,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371799,
+      "num": 371799,
+      "word": "曝光乡政府人员缺岗当事人发声",
+      "onboard_time": 1755830964,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364618,
@@ -185,6 +225,14 @@
       "onboard_time": 1755822562,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 294201,
+      "num": 294201,
+      "word": "徐志胜租房租到夜店门口了",
+      "onboard_time": 1755829286,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 287273,
@@ -259,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242351,
+      "num": 121070,
+      "word": "生男生女的秘密",
+      "onboard_time": 1755832286,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 240859,
       "num": 240859,
       "word": "李在明喂完夫人喂议员被妻子挡开",
@@ -283,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221997,
-      "num": 221997,
-      "word": "乡政府回应上班时间人员缺岗",
-      "onboard_time": 1755827786,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 224215,
+      "num": 224215,
+      "word": "邓超我跟热巴怎么这么有缘分",
+      "onboard_time": 1755831865,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 216594,
@@ -307,6 +363,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 212041,
+      "num": 212041,
+      "word": "欧豪一整天都在央视",
+      "onboard_time": 1755830846,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201608,
       "num": 201608,
       "word": "机票价格便宜了",
@@ -321,6 +385,14 @@
       "onboard_time": 1755828206,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190457,
+      "num": 190457,
+      "word": "魅族22延期",
+      "onboard_time": 1755832046,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 189616,
@@ -345,6 +417,14 @@
       "onboard_time": 1755785064,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181572,
+      "num": 181572,
+      "word": "子夜归剧粉",
+      "onboard_time": 1755831147,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 180231,
@@ -387,12 +467,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157236,
+      "num": 157236,
+      "word": "十二封信定档",
+      "onboard_time": 1755831085,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154920,
       "num": 154920,
       "word": "JDG对战DRG",
       "onboard_time": 1755775342,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154599,
+      "num": 154599,
+      "word": "内娱男星说跪式服务是为了站着赚钱",
+      "onboard_time": 1755830723,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 150958,
@@ -441,6 +537,14 @@
       "onboard_time": 1755825681,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136257,
+      "num": 136257,
+      "word": "大脚死要面子绣绣活受罪",
+      "onboard_time": 1755829825,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 135967,
@@ -507,6 +611,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121868,
+      "num": 121868,
+      "word": "黄子弘凡 一站到底",
+      "onboard_time": 1755832166,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120754,
+      "num": 120754,
+      "word": "德雷克海峡地震修正为7.5级",
+      "onboard_time": 1755830667,
+      "rank": 32,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 120479,
+      "num": 120479,
+      "word": "寒武纪总市值超4600亿",
+      "onboard_time": 1755831507,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 119667,
+      "num": 119667,
+      "word": "献鱼双修不双休",
+      "onboard_time": 1755831625,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116014,
       "num": 116014,
       "word": "中国留学生向美高校索赔超7亿",
@@ -537,6 +673,14 @@
       "onboard_time": 1755826763,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114688,
+      "num": 114688,
+      "word": "俄方不接受外国军队出现在乌克兰",
+      "onboard_time": 1755832286,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113867,
@@ -571,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110231,
+      "num": 110231,
+      "word": "范丞丞魔童降世上手就抢沈腾",
+      "onboard_time": 1755830245,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107085,
       "num": 136175,
       "word": "丁程鑫全方位展示新发色",
@@ -579,12 +731,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105035,
+      "num": 105035,
+      "word": "高敏感的人不能只读文学小说",
+      "onboard_time": 1755832406,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104852,
+      "num": 104852,
+      "word": "被清华教室的粉笔震惊到了",
+      "onboard_time": 1755832286,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 103432,
       "num": 103432,
       "word": "小11收养女儿",
       "onboard_time": 1755828265,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103167,
+      "num": 103167,
+      "word": "知情人称去世女孩家中墙上挂满奖状",
+      "onboard_time": 1755832406,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102493,
@@ -611,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100601,
+      "num": 100601,
+      "word": "胡雷悼念去世女孩",
+      "onboard_time": 1755831805,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100005,
       "num": 100005,
       "word": "王艺迪1比3桥本帆乃香",
@@ -627,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99470,
+      "num": 96175,
+      "word": "贺峻霖戴了绿手套",
+      "onboard_time": 1755831987,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99216,
       "num": 99216,
       "word": "安宰贤3比2张本智和",
@@ -641,6 +833,14 @@
       "onboard_time": 1755824482,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96667,
+      "num": 100447,
+      "word": "50岁的我要去读研了",
+      "onboard_time": 1755831925,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 95564,
@@ -676,7 +876,7 @@
     },
     {
       "raw_hot": 92932,
-      "num": 110584,
+      "num": 196563,
       "word": "论爱情军师还得是小艺",
       "onboard_time": 1755828927,
       "rank": 34,
