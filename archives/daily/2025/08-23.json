@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755887738126,
+  "endTime": 1755888522269,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 27644,
-      "num": 57600,
+      "num": 60820,
       "word": "中方回应英伟达停止生产H20芯片",
       "onboard_time": 1755873206,
       "rank": 38,
@@ -515,10 +515,26 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24142,
-      "num": 57404,
+      "raw_hot": 24580,
+      "num": 60843,
       "word": "陈立农深圳演唱会",
       "onboard_time": 1755887418,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 21516,
+      "num": 60780,
+      "word": "捕风追影",
+      "onboard_time": 1755873806,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 20814,
+      "num": 60738,
+      "word": "时代少年团记录舞台",
+      "onboard_time": 1755885379,
       "rank": 48,
       "category": "演出"
     },

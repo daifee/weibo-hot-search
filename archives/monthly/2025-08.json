@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755887738126,
+  "endTime": 1755888522269,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -75643,6 +75643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24580,
+      "num": 60843,
+      "word": "陈立农深圳演唱会",
+      "onboard_time": 1755887418,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24571,
       "num": 119057,
       "word": "南刘涛北海璐",
@@ -75729,14 +75737,6 @@
       "onboard_time": 1753985895,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24142,
-      "num": 57404,
-      "word": "陈立农深圳演唱会",
-      "onboard_time": 1755887418,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 24136,
@@ -76313,6 +76313,14 @@
       "onboard_time": 1754075114,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20814,
+      "num": 60738,
+      "word": "时代少年团记录舞台",
+      "onboard_time": 1755885379,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 20716,

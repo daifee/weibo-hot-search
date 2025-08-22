@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/23 00:32:08 ~ 2025/08/23 02:35:38
+本榜单时间：2025/08/23 00:32:08 ~ 2025/08/23 02:48:42
 </p>
 </blockquote>
 <p>
@@ -400,7 +400,19 @@ TIMA国际音乐大赏（热度：26366）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%AB%8B%E5%86%9C%E6%B7%B1%E5%9C%B3%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-陈立农深圳演唱会（热度：24142）
+陈立农深圳演唱会（热度：24580）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8D%95%E9%A3%8E%E8%BF%BD%E5%BD%B1%23" target="weibo">
+捕风追影（热度：21516）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%AE%B0%E5%BD%95%E8%88%9E%E5%8F%B0%23" target="weibo">
+时代少年团记录舞台（热度：20814）
 </a>
 </li>
 
