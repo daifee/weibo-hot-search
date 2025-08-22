@@ -1,0 +1,410 @@
+{
+  "runTime": 1755837025802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1447615,
+        "num": 1447615,
+        "word": "卿卿日常",
+        "onboard_time": 1755831206,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626348,
+        "num": 626348,
+        "word": "曝光乡政府人员缺岗当事人发声",
+        "onboard_time": 1755830964,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5557,
+        "num": 535928,
+        "word": "想快进到9月3日看阅兵",
+        "onboard_time": 1755764363,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11696513,
+        "num": 11696513,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499925,
+        "num": 499925,
+        "word": "知情人称去世女孩家中墙上挂满奖状",
+        "onboard_time": 1755832406,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402898,
+        "num": 402898,
+        "word": "被清华教室的粉笔震惊到了",
+        "onboard_time": 1755832286,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 364486,
+        "num": 364486,
+        "word": "杨紫19岁就演出了养老剧",
+        "onboard_time": 1755834806,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354039,
+        "num": 354039,
+        "word": "喜茶 饿了么",
+        "onboard_time": 1755836606,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 346917,
+        "num": 346917,
+        "word": "邓超我跟热巴怎么这么有缘分",
+        "onboard_time": 1755831865,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268926,
+        "num": 268926,
+        "word": "新疆一河水退去留520米巨鲸图案",
+        "onboard_time": 1755835525,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9885814,
+        "num": 9885814,
+        "word": "许凯 赵晴",
+        "onboard_time": 1755827305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1547815,
+        "num": 268634,
+        "word": "许荔莎 对不起子夜归",
+        "onboard_time": 1755835826,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313639,
+        "num": 268432,
+        "word": "菲律宾2艘小艇蓄意碰瓷挑衅",
+        "onboard_time": 1755835105,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1241673,
+        "num": 268134,
+        "word": "虞书欣替身发声",
+        "onboard_time": 1755832646,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 976850,
+        "num": 268078,
+        "word": "胡雷资助女孩遗体在水池内发现",
+        "onboard_time": 1755833305,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604489,
+        "num": 267841,
+        "word": "大金 我的天要亮了吗",
+        "onboard_time": 1755835227,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267715,
+        "num": 267715,
+        "word": "帮爷爷查话费时看到的短信",
+        "onboard_time": 1755835405,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263925,
+        "num": 263925,
+        "word": "梁家辉 这么漂亮不应该这姿势抽烟",
+        "onboard_time": 1755835587,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247481,
+        "num": 247481,
+        "word": "于正直播",
+        "onboard_time": 1755831325,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222703,
+        "num": 222703,
+        "word": "瑞幸星穹铁道联名",
+        "onboard_time": 1755836906,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227055,
+        "num": 220655,
+        "word": "非遗黄金才是中式顶奢",
+        "onboard_time": 1755836726,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213652,
+        "num": 213652,
+        "word": "虞书欣 一念江南",
+        "onboard_time": 1755784404,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208041,
+        "num": 208041,
+        "word": "乡政府回应上班时间人员缺岗",
+        "onboard_time": 1755827786,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199194,
+        "num": 199194,
+        "word": "林彦俊芭莎",
+        "onboard_time": 1755832466,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 198122,
+        "num": 198122,
+        "word": "邓超邀请将太郎录五哈",
+        "onboard_time": 1755836548,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195058,
+        "num": 195058,
+        "word": "无限暖暖",
+        "onboard_time": 1755836667,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121061,
+        "num": 195058,
+        "word": "vivo让热爱有迹可循",
+        "onboard_time": 1755834208,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91298,
+        "num": 195056,
+        "word": "男女主做兄妹做情侣都精彩",
+        "onboard_time": 1755836066,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374130,
+        "num": 195056,
+        "word": "警方通报受胡雷资助女孩去世",
+        "onboard_time": 1755823822,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36368,
+        "num": 195053,
+        "word": "网约车平台集体降低抽成",
+        "onboard_time": 1755836487,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188975,
+        "num": 195053,
+        "word": "一瓯春",
+        "onboard_time": 1755832707,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195052,
+        "num": 195052,
+        "word": "民警找曝光者谈话家中老人被吓轻生",
+        "onboard_time": 1755833185,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192384,
+        "num": 192384,
+        "word": "美人鱼现身南沙群岛",
+        "onboard_time": 1755820640,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184652,
+        "num": 184652,
+        "word": "生男生女的秘密",
+        "onboard_time": 1755832286,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 183491,
+        "num": 183491,
+        "word": "尖扎黄河特大桥事故7人遇难9人失联",
+        "onboard_time": 1755825143,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180295,
+        "num": 180295,
+        "word": "庆余年生万物 剧王剧后",
+        "onboard_time": 1755836006,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178951,
+        "num": 178951,
+        "word": "老破小住久了副作用就来了",
+        "onboard_time": 1755836306,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174207,
+        "num": 174207,
+        "word": "男孩疯狂充值网游竟因遭同学孤立",
+        "onboard_time": 1755836487,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32778,
+        "num": 172962,
+        "word": "杀子案男子遗言曝光",
+        "onboard_time": 1755836788,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104717,
+        "num": 172766,
+        "word": "女子举报男孩进女浴室被家长辱骂",
+        "onboard_time": 1755835646,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172726,
+        "num": 172726,
+        "word": "长风少年词定档",
+        "onboard_time": 1755836606,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171115,
+        "num": 171115,
+        "word": "龙族到底谁数了谁的睫毛",
+        "onboard_time": 1755836487,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 161680,
+        "num": 161680,
+        "word": "方便面主理人",
+        "onboard_time": 1755835707,
+        "rank": 42,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 160143,
+        "num": 160143,
+        "word": "北京偶遇宋丹丹一家五口",
+        "onboard_time": 1755834626,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157131,
+        "num": 157131,
+        "word": "中国海警局新闻发言人发表谈话",
+        "onboard_time": 1755835468,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152332,
+        "num": 152332,
+        "word": "苏醒说做爸爸他是苏行",
+        "onboard_time": 1755836726,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147199,
+        "num": 147199,
+        "word": "当事人称曝光缺岗后民警夜晚上门",
+        "onboard_time": 1755834265,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147123,
+        "num": 147123,
+        "word": "生源少了小学老师去教高中了",
+        "onboard_time": 1755833486,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145846,
+        "num": 145846,
+        "word": "国漫最强学霸今年刚18",
+        "onboard_time": 1755835887,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145782,
+        "num": 145782,
+        "word": "初中老师被调高中当事人发声",
+        "onboard_time": 1755832585,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记西藏之行难忘瞬间#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755834876182,
+  "endTime": 1755837025802,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1657,6 +1657,14 @@
       "onboard_time": 1754630422,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1547815,
+      "num": 268634,
+      "word": "许荔莎 对不起子夜归",
+      "onboard_time": 1755835826,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1547106,
@@ -4081,6 +4089,14 @@
       "onboard_time": 1755276140,
       "rank": 13,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 976850,
+      "num": 543318,
+      "word": "胡雷资助女孩遗体在水池内发现",
+      "onboard_time": 1755833305,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 976635,
@@ -8075,6 +8091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626348,
+      "num": 626348,
+      "word": "曝光乡政府人员缺岗当事人发声",
+      "onboard_time": 1755830964,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626052,
       "num": 626052,
       "word": "侵华日军站在尸体旁炫耀",
@@ -8323,14 +8347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 612701,
-      "num": 612701,
-      "word": "曝光乡政府人员缺岗当事人发声",
-      "onboard_time": 1755830964,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 612548,
       "num": 612548,
       "word": "每天只睡6小时身体的变化",
@@ -8496,6 +8512,14 @@
       "word": "红牛 王一博",
       "onboard_time": 1754622863,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 604489,
+      "num": 267841,
+      "word": "大金 我的天要亮了吗",
+      "onboard_time": 1755835227,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -9747,14 +9771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 543318,
-      "num": 543318,
-      "word": "胡雷资助女孩遗体在水池内发现",
-      "onboard_time": 1755833305,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 542893,
       "num": 542893,
       "word": "姜文女儿结婚",
@@ -10619,6 +10635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499925,
+      "num": 499925,
+      "word": "知情人称去世女孩家中墙上挂满奖状",
+      "onboard_time": 1755832406,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 499682,
       "num": 499682,
       "word": "许昕谈张本智和医疗暂停",
@@ -10769,14 +10793,6 @@
       "onboard_time": 1754013322,
       "rank": 14,
       "category": "军事"
-    },
-    {
-      "raw_hot": 493357,
-      "num": 493357,
-      "word": "知情人称去世女孩家中墙上挂满奖状",
-      "onboard_time": 1755832406,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 493203,
@@ -13291,6 +13307,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 402898,
+      "num": 402898,
+      "word": "被清华教室的粉笔震惊到了",
+      "onboard_time": 1755832286,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 402879,
       "num": 402879,
       "word": "iPhone17Pro或存储翻倍",
@@ -14691,6 +14715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364486,
+      "num": 364486,
+      "word": "杨紫19岁就演出了养老剧",
+      "onboard_time": 1755834806,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364251,
       "num": 364251,
       "word": "虞书欣这个比例绝了",
@@ -15057,6 +15089,14 @@
       "onboard_time": 1754662645,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 354039,
+      "num": 354039,
+      "word": "喜茶 饿了么",
+      "onboard_time": 1755836606,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 353775,
@@ -15849,14 +15889,6 @@
       "onboard_time": 1754407344,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 331434,
-      "num": 331434,
-      "word": "被清华教室的粉笔震惊到了",
-      "onboard_time": 1755832286,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 331328,
@@ -16665,6 +16697,14 @@
       "onboard_time": 1755504862,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 313639,
+      "num": 268432,
+      "word": "菲律宾2艘小艇蓄意碰瓷挑衅",
+      "onboard_time": 1755835105,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 313494,
@@ -18947,6 +18987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 268926,
+      "num": 268926,
+      "word": "新疆一河水退去留520米巨鲸图案",
+      "onboard_time": 1755835525,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268836,
       "num": 200914,
       "word": "费文典 跑男",
@@ -19025,6 +19073,14 @@
       "onboard_time": 1755168262,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267715,
+      "num": 267715,
+      "word": "帮爷爷查话费时看到的短信",
+      "onboard_time": 1755835405,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 267540,
@@ -19265,6 +19321,14 @@
       "onboard_time": 1754992283,
       "rank": 21,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 263925,
+      "num": 263925,
+      "word": "梁家辉 这么漂亮不应该这姿势抽烟",
+      "onboard_time": 1755835587,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 263898,
@@ -21939,6 +22003,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 227055,
+      "num": 220655,
+      "word": "非遗黄金才是中式顶奢",
+      "onboard_time": 1755836726,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227025,
       "num": 280329,
       "word": "没人挑战李佳薇",
@@ -22401,6 +22473,14 @@
       "onboard_time": 1754131342,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222703,
+      "num": 222703,
+      "word": "瑞幸星穹铁道联名",
+      "onboard_time": 1755836906,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 222691,
@@ -26347,6 +26427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198122,
+      "num": 198122,
+      "word": "邓超邀请将太郎录五哈",
+      "onboard_time": 1755836548,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198121,
       "num": 198121,
       "word": "张元英 樱桃园",
@@ -27289,6 +27377,22 @@
       "onboard_time": 1755343343,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195058,
+      "num": 195058,
+      "word": "无限暖暖",
+      "onboard_time": 1755836667,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195052,
+      "num": 195052,
+      "word": "民警找曝光者谈话家中老人被吓轻生",
+      "onboard_time": 1755833185,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194993,
@@ -30811,6 +30915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180295,
+      "num": 180295,
+      "word": "庆余年生万物 剧王剧后",
+      "onboard_time": 1755836006,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180219,
       "num": 180219,
       "word": "甲亢哥带火毛肚外国博主追着吃",
@@ -31065,6 +31177,14 @@
       "onboard_time": 1754381906,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178951,
+      "num": 178951,
+      "word": "老破小住久了副作用就来了",
+      "onboard_time": 1755836306,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 178946,
@@ -32235,6 +32355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174207,
+      "num": 174207,
+      "word": "男孩疯狂充值网游竟因遭同学孤立",
+      "onboard_time": 1755836487,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174179,
       "num": 174179,
       "word": "谁家国漫开局救4个男朋友",
@@ -32649,6 +32777,14 @@
       "onboard_time": 1754563103,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 172726,
+      "num": 172726,
+      "word": "长风少年词定档",
+      "onboard_time": 1755836606,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 172586,
@@ -33067,6 +33203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171115,
+      "num": 171115,
+      "word": "龙族到底谁数了谁的睫毛",
+      "onboard_time": 1755836487,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 171110,
       "num": 171110,
       "word": "立秋后必吃的4种水果",
@@ -33337,14 +33481,6 @@
       "onboard_time": 1754228665,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 170231,
-      "num": 170231,
-      "word": "民警找曝光者谈话家中老人被吓轻生",
-      "onboard_time": 1755833185,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170181,
@@ -35348,7 +35484,7 @@
     },
     {
       "raw_hot": 162395,
-      "num": 171772,
+      "num": 195058,
       "word": "vivo让热爱有迹可循",
       "onboard_time": 1755834208,
       "rank": 27,
@@ -35609,6 +35745,14 @@
       "onboard_time": 1754435719,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161680,
+      "num": 161680,
+      "word": "方便面主理人",
+      "onboard_time": 1755835707,
+      "rank": 42,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 161663,
@@ -36153,6 +36297,14 @@
       "onboard_time": 1755494003,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160143,
+      "num": 160143,
+      "word": "北京偶遇宋丹丹一家五口",
+      "onboard_time": 1755834626,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 160114,
@@ -37120,6 +37272,14 @@
       "word": "39岁男子发布涉释永信谣言被刑拘",
       "onboard_time": 1754018901,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157131,
+      "num": 157131,
+      "word": "中国海警局新闻发言人发表谈话",
+      "onboard_time": 1755835468,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -38577,6 +38737,14 @@
       "onboard_time": 1754102001,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152332,
+      "num": 152332,
+      "word": "苏醒说做爸爸他是苏行",
+      "onboard_time": 1755836726,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 152295,
@@ -40379,6 +40547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147199,
+      "num": 334322,
+      "word": "当事人称曝光缺岗后民警夜晚上门",
+      "onboard_time": 1755834265,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147158,
       "num": 147158,
       "word": "杨枝甘露寺",
@@ -40393,6 +40569,14 @@
       "onboard_time": 1754037683,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 147123,
+      "num": 157258,
+      "word": "生源少了小学老师去教高中了",
+      "onboard_time": 1755833486,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147115,
@@ -40905,6 +41089,14 @@
       "onboard_time": 1755407542,
       "rank": 31,
       "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 145846,
+      "num": 145846,
+      "word": "国漫最强学霸今年刚18",
+      "onboard_time": 1755835887,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 145821,
@@ -50995,14 +51187,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 122048,
-      "num": 334322,
-      "word": "当事人称曝光缺岗后民警夜晚上门",
-      "onboard_time": 1755834265,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121988,
       "num": 121988,
       "word": "球迷手绘樊振东神图",
@@ -51145,14 +51329,6 @@
       "onboard_time": 1755073523,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121690,
-      "num": 121690,
-      "word": "北京偶遇宋丹丹一家五口",
-      "onboard_time": 1755834626,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 121648,
@@ -52201,14 +52377,6 @@
       "onboard_time": 1755061524,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119293,
-      "num": 157258,
-      "word": "生源少了小学老师去教高中了",
-      "onboard_time": 1755833486,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119275,
@@ -54856,14 +55024,6 @@
       "word": "周也丞磊新剧正片播放量登顶",
       "onboard_time": 1755077964,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 112804,
-      "num": 112804,
-      "word": "杨紫19岁就演出了养老剧",
-      "onboard_time": 1755834806,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -57945,6 +58105,14 @@
       "onboard_time": 1754812342,
       "rank": 48,
       "category": "体育,演出"
+    },
+    {
+      "raw_hot": 104717,
+      "num": 172766,
+      "word": "女子举报男孩进女浴室被家长辱骂",
+      "onboard_time": 1755835646,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104705,
@@ -62065,6 +62233,14 @@
       "onboard_time": 1755564443,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91298,
+      "num": 195056,
+      "word": "男女主做兄妹做情侣都精彩",
+      "onboard_time": 1755836066,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 91275,
@@ -71027,6 +71203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36368,
+      "num": 195053,
+      "word": "网约车平台集体降低抽成",
+      "onboard_time": 1755836487,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36206,
       "num": 197692,
       "word": "全智贤还是太全面了",
@@ -71601,6 +71785,14 @@
       "onboard_time": 1754764756,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32778,
+      "num": 172962,
+      "word": "杀子案男子遗言曝光",
+      "onboard_time": 1755836788,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32751,
