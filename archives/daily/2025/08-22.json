@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755872719133,
+  "endTime": 1755873808789,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3173326,
-      "num": 510674,
+      "num": 565667,
       "word": "许荔莎 我以后缠着于正了",
       "onboard_time": 1755869006,
       "rank": 10,
@@ -339,6 +339,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 582771,
+      "num": 582771,
+      "word": "男子看利剑玫瑰买彩票中奖30万元",
+      "onboard_time": 1755870566,
+      "rank": 4,
+      "category": "民生新闻,剧集"
+    },
+    {
+      "raw_hot": 565632,
+      "num": 565632,
+      "word": "鹿晗演唱会嘉宾王力宏",
+      "onboard_time": 1755872727,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 562605,
       "num": 399814,
       "word": "虞书欣晒林晚星杀青特辑",
@@ -401,14 +417,6 @@
       "onboard_time": 1755850046,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 497713,
-      "num": 497713,
-      "word": "男子看利剑玫瑰买彩票中奖30万元",
-      "onboard_time": 1755870566,
-      "rank": 4,
-      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 478561,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 401300,
-      "num": 175517,
+      "num": 235947,
       "word": "男子打胰岛素1个月发现针套都没摘",
       "onboard_time": 1755870806,
       "rank": 21,
@@ -755,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293798,
+      "num": 293798,
+      "word": "迪丽热巴黑蕾丝短裙",
+      "onboard_time": 1755871466,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292094,
       "num": 292094,
       "word": "恋与深空",
@@ -803,12 +819,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285732,
-      "num": 285732,
-      "word": "迪丽热巴黑蕾丝短裙",
-      "onboard_time": 1755871466,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 285512,
+      "num": 285512,
+      "word": "恋与深空创造历史",
+      "onboard_time": 1755872608,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 284191,
+      "num": 284191,
+      "word": "恋与深空科隆最佳移动游戏",
+      "onboard_time": 1755871706,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 283367,
+      "num": 283367,
+      "word": "鹿晗黄子韬唱了敏感",
+      "onboard_time": 1755871347,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 281878,
@@ -825,6 +857,14 @@
       "onboard_time": 1755867147,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 280043,
+      "num": 280043,
+      "word": "杜达4比0雨果",
+      "onboard_time": 1755872246,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 278589,
@@ -1003,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245744,
+      "num": 245744,
+      "word": "被丈夫推下悬崖的妻子决定复仇",
+      "onboard_time": 1755873447,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245586,
       "num": 245586,
       "word": "胡雷说半年失去了两个学生",
@@ -1051,12 +1099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237864,
-      "num": 237864,
-      "word": "恋与深空科隆最佳移动游戏",
-      "onboard_time": 1755871706,
-      "rank": 17,
-      "category": "游戏"
+      "raw_hot": 238677,
+      "num": 238677,
+      "word": "陈熠展望对战孙颖莎",
+      "onboard_time": 1755871946,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 237849,
@@ -1255,6 +1303,14 @@
       "num": 204282,
       "word": "谁收到了王源发的短信",
       "onboard_time": 1755844583,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 203220,
+      "num": 203220,
+      "word": "严浩翔贺峻霖游轮应援",
+      "onboard_time": 1755873447,
       "rank": 26,
       "category": "演出"
     },
@@ -1659,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173721,
+      "num": 173721,
+      "word": "丁禹兮直播",
+      "onboard_time": 1755873387,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173399,
       "num": 173399,
       "word": "兄弟突然火成明星了啥体验",
@@ -1699,12 +1763,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 171095,
-      "num": 171095,
-      "word": "恋与深空创造历史",
-      "onboard_time": 1755872608,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 170356,
+      "num": 170356,
+      "word": "降息",
+      "onboard_time": 1755873568,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 170159,
@@ -1817,14 +1881,6 @@
       "onboard_time": 1755852986,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161961,
-      "num": 161961,
-      "word": "陈熠展望对战孙颖莎",
-      "onboard_time": 1755871946,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 161869,
@@ -2067,14 +2123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150125,
-      "num": 150125,
-      "word": "杜达4比0雨果",
-      "onboard_time": 1755872246,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149847,
       "num": 149847,
       "word": "特斯拉接入豆包DeepSeek",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1755819260,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146053,
+      "num": 146053,
+      "word": "电商平台现盗版迷你labubu",
+      "onboard_time": 1755873626,
+      "rank": 32,
+      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 145846,
@@ -2217,6 +2273,14 @@
       "onboard_time": 1755847466,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139780,
+      "num": 139780,
+      "word": "贺峻霖在线cue新舞台",
+      "onboard_time": 1755872906,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 139020,
@@ -2403,6 +2467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129528,
+      "num": 129528,
+      "word": "迷你labubu隐藏款概率1比168",
+      "onboard_time": 1755870506,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 129518,
       "num": 129518,
       "word": "寒武纪市值近5200亿",
@@ -2417,6 +2489,14 @@
       "onboard_time": 1755869067,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128266,
+      "num": 128266,
+      "word": "鲍威尔讲话期间美股拉升",
+      "onboard_time": 1755872788,
+      "rank": 41,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 128103,
@@ -2563,6 +2643,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123554,
+      "num": 123554,
+      "word": "中方回应英伟达停止生产H20芯片",
+      "onboard_time": 1755873206,
+      "rank": 43,
+      "category": "国际时政,数码"
+    },
+    {
+      "raw_hot": 123229,
+      "num": 123229,
+      "word": "汪苏泷说青岛风到了这里就是黏",
+      "onboard_time": 1755872488,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122502,
       "num": 122502,
       "word": "Faker出演StrayKids新歌MV",
@@ -2625,14 +2721,6 @@
       "onboard_time": 1755831625,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117700,
-      "num": 117700,
-      "word": "迷你labubu隐藏款概率1比168",
-      "onboard_time": 1755870506,
-      "rank": 42,
-      "category": "休闲"
     },
     {
       "raw_hot": 116973,
@@ -2785,14 +2873,6 @@
       "onboard_time": 1755818959,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110426,
-      "num": 110426,
-      "word": "汪苏泷说青岛风到了这里就是黏",
-      "onboard_time": 1755872488,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 110231,
@@ -2948,7 +3028,7 @@
     },
     {
       "raw_hot": 102757,
-      "num": 116622,
+      "num": 284206,
       "word": "法拍狸花猫已撤回拍卖",
       "onboard_time": 1755869604,
       "rank": 43,
@@ -3761,6 +3841,14 @@
       "onboard_time": 1755849684,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41885,
+      "num": 131045,
+      "word": "两个女孩以后一起走花路",
+      "onboard_time": 1755872847,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 40952,

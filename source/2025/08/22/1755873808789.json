@@ -1,0 +1,410 @@
+{
+  "runTime": 1755873808789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 718273,
+        "num": 1114923,
+        "word": "北京一老人横穿马路被撞飞身亡",
+        "onboard_time": 1755866006,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582771,
+        "num": 582771,
+        "word": "男子看利剑玫瑰买彩票中奖30万元",
+        "onboard_time": 1755870566,
+        "rank": 1,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 3320,
+        "num": 565680,
+        "word": "这张办公桌见证抗战胜利时刻",
+        "onboard_time": 1755809414,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2474147,
+        "num": 565667,
+        "word": "许荔莎 我以后缠着于正了",
+        "onboard_time": 1755869006,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565632,
+        "num": 565632,
+        "word": "鹿晗演唱会嘉宾王力宏",
+        "onboard_time": 1755872727,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 682387,
+        "num": 563031,
+        "word": "15岁女生军训期间心脏骤停不幸身亡",
+        "onboard_time": 1755864926,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544756,
+        "num": 544756,
+        "word": "生万物封二去世",
+        "onboard_time": 1755867866,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337243,
+        "num": 337243,
+        "word": "白鹿张鑫梦回白月梵星",
+        "onboard_time": 1755870686,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293798,
+        "num": 293798,
+        "word": "迪丽热巴黑蕾丝短裙",
+        "onboard_time": 1755871466,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285512,
+        "num": 285512,
+        "word": "恋与深空创造历史",
+        "onboard_time": 1755872608,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1157594,
+        "num": 285425,
+        "word": "虞书欣",
+        "onboard_time": 1755851606,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66865,
+        "num": 284206,
+        "word": "法拍狸花猫已撤回拍卖",
+        "onboard_time": 1755869604,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1017826,
+        "num": 284199,
+        "word": "许荔莎 22年许凯把我绿了",
+        "onboard_time": 1755871526,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284191,
+        "num": 284191,
+        "word": "恋与深空科隆最佳移动游戏",
+        "onboard_time": 1755871706,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 637128,
+        "num": 283872,
+        "word": "董璇终于忍不住发火了",
+        "onboard_time": 1755859346,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283367,
+        "num": 283367,
+        "word": "鹿晗黄子韬唱了敏感",
+        "onboard_time": 1755871347,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282668,
+        "num": 282668,
+        "word": "官方通报女子称幼时遭父母砍手割耳",
+        "onboard_time": 1755868468,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280043,
+        "num": 280043,
+        "word": "杜达4比0雨果",
+        "onboard_time": 1755872246,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245744,
+        "num": 245744,
+        "word": "被丈夫推下悬崖的妻子决定复仇",
+        "onboard_time": 1755873447,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238677,
+        "num": 238677,
+        "word": "陈熠展望对战孙颖莎",
+        "onboard_time": 1755871946,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7347008,
+        "num": 7347008,
+        "word": "许凯恋情时间线",
+        "onboard_time": 1755846025,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399344,
+        "num": 235947,
+        "word": "男子打胰岛素1个月发现针套都没摘",
+        "onboard_time": 1755870806,
+        "rank": 21,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1546052,
+        "num": 233547,
+        "word": "于正气到输液 何晟铭气定神闲",
+        "onboard_time": 1755860186,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230271,
+        "num": 230271,
+        "word": "李湘拍的王诗龄",
+        "onboard_time": 1755869726,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210833,
+        "num": 210833,
+        "word": "月经期误区",
+        "onboard_time": 1755867147,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 204240,
+        "num": 204240,
+        "word": "李一桐穿了40年前的古董礼服",
+        "onboard_time": 1755868767,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203220,
+        "num": 203220,
+        "word": "严浩翔贺峻霖游轮应援",
+        "onboard_time": 1755873447,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189112,
+        "num": 189112,
+        "word": "商家称磁疗床垫可让尸体百年不腐",
+        "onboard_time": 1755869604,
+        "rank": 27,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 185231,
+        "num": 185231,
+        "word": "敖瑞鹏 带你们真沉浸式漂流一下",
+        "onboard_time": 1755870747,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173721,
+        "num": 173721,
+        "word": "丁禹兮直播",
+        "onboard_time": 1755873387,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170356,
+        "num": 170356,
+        "word": "降息",
+        "onboard_time": 1755873568,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158206,
+        "num": 158206,
+        "word": "AG对战狼队",
+        "onboard_time": 1755862645,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146053,
+        "num": 146053,
+        "word": "电商平台现盗版迷你labubu",
+        "onboard_time": 1755873626,
+        "rank": 32,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 143118,
+        "num": 143118,
+        "word": "杨幂生万物真的做到了万物生",
+        "onboard_time": 1755872006,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140677,
+        "num": 140677,
+        "word": "结婚必要的三大条件",
+        "onboard_time": 1755862766,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139780,
+        "num": 139780,
+        "word": "贺峻霖在线cue新舞台",
+        "onboard_time": 1755872906,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135674,
+        "num": 135674,
+        "word": "宋亚轩合火人档案",
+        "onboard_time": 1755872426,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134560,
+        "num": 134560,
+        "word": "RIIZE致敬EXO",
+        "onboard_time": 1755870207,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41885,
+        "num": 131045,
+        "word": "两个女孩以后一起走花路",
+        "onboard_time": 1755872847,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130214,
+        "num": 130214,
+        "word": "周也 泡面大王",
+        "onboard_time": 1755857065,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129528,
+        "num": 129528,
+        "word": "迷你labubu隐藏款概率1比168",
+        "onboard_time": 1755870506,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 128266,
+        "num": 128266,
+        "word": "鲍威尔讲话期间美股拉升",
+        "onboard_time": 1755872788,
+        "rank": 41,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 124712,
+        "num": 124712,
+        "word": "范丞丞 我现在改姓黄还来得及吗",
+        "onboard_time": 1755859405,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123554,
+        "num": 123554,
+        "word": "中方回应英伟达停止生产H20芯片",
+        "onboard_time": 1755873206,
+        "rank": 43,
+        "category": "国际时政,数码"
+      },
+      {
+        "raw_hot": 115170,
+        "num": 123246,
+        "word": "元彬怎么没说话",
+        "onboard_time": 1755872307,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118584,
+        "num": 123231,
+        "word": "谁家恋综是三搭呀",
+        "onboard_time": 1755872127,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123229,
+        "num": 123229,
+        "word": "汪苏泷说青岛风到了这里就是黏",
+        "onboard_time": 1755872488,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122972,
+        "num": 122972,
+        "word": "恋与深空",
+        "onboard_time": 1755868105,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120786,
+        "num": 120786,
+        "word": "aespa全员中文获奖感言",
+        "onboard_time": 1755863786,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120549,
+        "num": 120549,
+        "word": "专家称A股这轮行情有望持续2至3年",
+        "onboard_time": 1755869967,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织天津峰会#"
+    }
+  }
+}
