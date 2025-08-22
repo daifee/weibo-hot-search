@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755870340461,
+  "endTime": 1755872719133,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 3173326,
-      "num": 217202,
+      "num": 510674,
       "word": "许荔莎 我以后缠着于正了",
       "onboard_time": 1755869006,
       "rank": 10,
@@ -152,6 +152,14 @@
       "word": "许荔莎报警",
       "onboard_time": 1755847226,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1204944,
+      "num": 308681,
+      "word": "许荔莎 22年许凯把我绿了",
+      "onboard_time": 1755871526,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -267,20 +275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752541,
+      "num": 716155,
+      "word": "15岁女生军训期间心脏骤停不幸身亡",
+      "onboard_time": 1755864926,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 721146,
       "num": 335463,
       "word": "大金 我的天要亮了吗",
       "onboard_time": 1755835227,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 716155,
-      "num": 716155,
-      "word": "15岁女生军训期间心脏骤停不幸身亡",
-      "onboard_time": 1755864926,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 691787,
@@ -393,6 +401,14 @@
       "onboard_time": 1755850046,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497713,
+      "num": 497713,
+      "word": "男子看利剑玫瑰买彩票中奖30万元",
+      "onboard_time": 1755870566,
+      "rank": 4,
+      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 478561,
@@ -523,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401300,
+      "num": 175517,
+      "word": "男子打胰岛素1个月发现针套都没摘",
+      "onboard_time": 1755870806,
+      "rank": 21,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 400436,
       "num": 400436,
       "word": "乡政府回应上班时间人员缺岗",
@@ -579,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 365412,
+      "num": 365412,
+      "word": "白鹿张鑫梦回白月梵星",
+      "onboard_time": 1755870686,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364618,
       "num": 364618,
       "word": "内蒙古山洪12人遇难",
@@ -609,6 +641,14 @@
       "onboard_time": 1755865465,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337527,
+      "num": 337527,
+      "word": "官方通报女子称幼时遭父母砍手割耳",
+      "onboard_time": 1755868468,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333925,
@@ -763,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285732,
+      "num": 285732,
+      "word": "迪丽热巴黑蕾丝短裙",
+      "onboard_time": 1755871466,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281878,
       "num": 97281,
       "word": "情绪性暴食",
@@ -771,12 +819,28 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 281374,
+      "num": 281374,
+      "word": "月经期误区",
+      "onboard_time": 1755867147,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 278589,
       "num": 230008,
       "word": "梓渝音乐节",
       "onboard_time": 1755783263,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 278434,
+      "num": 278434,
+      "word": "李湘拍的王诗龄",
+      "onboard_time": 1755869726,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 276317,
@@ -851,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262642,
+      "num": 332238,
+      "word": "商家称磁疗床垫可让尸体百年不腐",
+      "onboard_time": 1755869604,
+      "rank": 48,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 261386,
       "num": 261386,
       "word": "张晚意 长了痘是抠还是不抠",
@@ -875,6 +947,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 257815,
+      "num": 325517,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1755869006,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 256249,
       "num": 81416,
       "word": "大金 这么多年套路都是一样的吗",
@@ -889,6 +969,14 @@
       "onboard_time": 1755817217,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252025,
+      "num": 252025,
+      "word": "李一桐穿了40年前的古董礼服",
+      "onboard_time": 1755868767,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 250726,
@@ -931,22 +1019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 243400,
-      "num": 243400,
-      "word": "官方通报女子称幼时遭父母砍手割耳",
-      "onboard_time": 1755868468,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242832,
-      "num": 216566,
-      "word": "月经期误区",
-      "onboard_time": 1755867147,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 242564,
       "num": 242564,
       "word": "生男生女的秘密",
@@ -977,6 +1049,14 @@
       "onboard_time": 1755847646,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237864,
+      "num": 237864,
+      "word": "恋与深空科隆最佳移动游戏",
+      "onboard_time": 1755871706,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 237849,
@@ -1107,14 +1187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216265,
-      "num": 216265,
-      "word": "李一桐穿了40年前的古董礼服",
-      "onboard_time": 1755868767,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215723,
       "num": 215723,
       "word": "这居然是周翊然",
@@ -1235,14 +1307,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 199399,
-      "num": 199399,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1755869006,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 199118,
       "num": 1003591,
       "word": "留错一位手机号洗衣机被改地址送达",
@@ -1288,6 +1352,14 @@
       "word": "TXT全员续约",
       "onboard_time": 1755868407,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195397,
+      "num": 195397,
+      "word": "敖瑞鹏 带你们真沉浸式漂流一下",
+      "onboard_time": 1755870747,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1353,6 +1425,14 @@
       "onboard_time": 1755846265,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192499,
+      "num": 172534,
+      "word": "宋亚轩合火人档案",
+      "onboard_time": 1755872426,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 191987,
@@ -1619,6 +1699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 171095,
+      "num": 171095,
+      "word": "恋与深空创造历史",
+      "onboard_time": 1755872608,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170159,
       "num": 170159,
       "word": "胡先煦项链里有李宛妲照片",
@@ -1633,6 +1721,14 @@
       "onboard_time": 1755832166,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170010,
+      "num": 170010,
+      "word": "杨幂生万物真的做到了万物生",
+      "onboard_time": 1755872006,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 169789,
@@ -1723,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161961,
+      "num": 161961,
+      "word": "陈熠展望对战孙颖莎",
+      "onboard_time": 1755871946,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161869,
       "num": 249811,
       "word": "尖扎黄河特大桥事故已致12人死亡",
@@ -1761,6 +1865,14 @@
       "onboard_time": 1755853885,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161431,
+      "num": 161431,
+      "word": "谁家恋综是三搭呀",
+      "onboard_time": 1755872127,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 161231,
@@ -1955,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150125,
+      "num": 150125,
+      "word": "杜达4比0雨果",
+      "onboard_time": 1755872246,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149847,
       "num": 149847,
       "word": "特斯拉接入豆包DeepSeek",
@@ -1963,20 +2083,20 @@
       "category": "汽车,互联网"
     },
     {
-      "raw_hot": 149278,
-      "num": 149278,
-      "word": "商家称磁疗床垫可让尸体百年不腐",
-      "onboard_time": 1755869604,
-      "rank": 48,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 148180,
       "num": 148180,
       "word": "摄像头被境外攻击自动转向港口",
       "onboard_time": 1755824241,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147918,
+      "num": 147918,
+      "word": "RIIZE致敬EXO",
+      "onboard_time": 1755870207,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 147827,
@@ -2235,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133795,
+      "num": 133795,
+      "word": "建议给汽车加油时下车盯着油表",
+      "onboard_time": 1755871347,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133417,
       "num": 133417,
       "word": "陈熠vs温特",
@@ -2259,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131001,
+      "num": 131001,
+      "word": "专家称A股这轮行情有望持续2至3年",
+      "onboard_time": 1755869967,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130605,
       "num": 130605,
       "word": "又一尊巨型印度神像落成加拿大",
@@ -2281,14 +2417,6 @@
       "onboard_time": 1755869067,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 128191,
-      "num": 128191,
-      "word": "专家称A股这轮行情有望持续2至3年",
-      "onboard_time": 1755869967,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 128103,
@@ -2363,20 +2491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125949,
+      "num": 125949,
+      "word": "元彬怎么没说话",
+      "onboard_time": 1755872307,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125855,
       "num": 125855,
       "word": "丞磊一部剧一种吃法",
       "onboard_time": 1755840986,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125697,
-      "num": 125697,
-      "word": "李湘拍的王诗龄",
-      "onboard_time": 1755869726,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 125439,
@@ -2497,6 +2625,14 @@
       "onboard_time": 1755831625,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117700,
+      "num": 117700,
+      "word": "迷你labubu隐藏款概率1比168",
+      "onboard_time": 1755870506,
+      "rank": 42,
+      "category": "休闲"
     },
     {
       "raw_hot": 116973,
@@ -2651,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110426,
+      "num": 110426,
+      "word": "汪苏泷说青岛风到了这里就是黏",
+      "onboard_time": 1755872488,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110231,
       "num": 110231,
       "word": "范丞丞魔童降世上手就抢沈腾",
@@ -2675,12 +2819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108302,
+      "num": 108302,
+      "word": "孙颖莎撞脸星星人",
+      "onboard_time": 1755871526,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108264,
       "num": 108264,
       "word": "怪不得医生有时候会反复套话",
       "onboard_time": 1755842784,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107336,
+      "num": 107336,
+      "word": "A股又创造了多个历史",
+      "onboard_time": 1755872368,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 107309,
@@ -2763,6 +2923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103742,
+      "num": 103742,
+      "word": "吉赛尔控场",
+      "onboard_time": 1755868167,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 103432,
       "num": 103432,
       "word": "小11收养女儿",
@@ -2833,6 +3001,14 @@
       "onboard_time": 1755831805,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100131,
+      "num": 100131,
+      "word": "刘耀文巅峰赛偷偷上分",
+      "onboard_time": 1755871287,
+      "rank": 49,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 100005,
@@ -3049,6 +3225,14 @@
       "onboard_time": 1755858804,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89029,
+      "num": 118147,
+      "word": "高中女生军训期间身亡家属发声",
+      "onboard_time": 1755870806,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88882,
@@ -3898,6 +4082,9 @@
     },
     {
       "word": "#浇好团结花结出幸福果#"
+    },
+    {
+      "word": "#上合组织天津峰会#"
     }
   ]
 }
