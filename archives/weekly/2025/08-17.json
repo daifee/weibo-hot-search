@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755832418775,
+  "endTime": 1755833379577,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -299,6 +299,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 1674070,
+      "num": 1674070,
+      "word": "卿卿日常",
+      "onboard_time": 1755831206,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1622456,
       "num": 1398319,
       "word": "费文典死了",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 1587232,
-      "num": 267831,
+      "num": 272126,
       "word": "于正直播",
       "onboard_time": 1755831325,
       "rank": 11,
@@ -417,14 +425,6 @@
       "onboard_time": 1755482361,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1466982,
-      "num": 1466982,
-      "word": "卿卿日常",
-      "onboard_time": 1755831206,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1466667,
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 910880,
-      "num": 266613,
+      "num": 271696,
       "word": "许荔莎发与许凯牵手照",
       "onboard_time": 1755828083,
       "rank": 12,
@@ -1585,6 +1585,14 @@
       "onboard_time": 1755689124,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 729507,
+      "num": 272015,
+      "word": "虞书欣替身发声",
+      "onboard_time": 1755832646,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 724129,
@@ -2619,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501036,
+      "num": 501036,
+      "word": "曝光乡政府人员缺岗当事人发声",
+      "onboard_time": 1755830964,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 497944,
       "num": 497944,
       "word": "自行车降价",
@@ -3595,14 +3611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 371799,
-      "num": 371799,
-      "word": "曝光乡政府人员缺岗当事人发声",
-      "onboard_time": 1755830964,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 371601,
       "num": 371601,
       "word": "韩国第一夫人为李在明买睡衣",
@@ -4051,6 +4059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320346,
+      "num": 320346,
+      "word": "邓超我跟热巴怎么这么有缘分",
+      "onboard_time": 1755831865,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320179,
       "num": 320179,
       "word": "时代少年团上海演唱会直播",
@@ -4449,6 +4465,14 @@
       "onboard_time": 1755613526,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291389,
+      "num": 270300,
+      "word": "被清华教室的粉笔震惊到了",
+      "onboard_time": 1755832286,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 290534,
@@ -5235,19 +5259,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242564,
+      "num": 242564,
+      "word": "生男生女的秘密",
+      "onboard_time": 1755832286,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 242358,
       "num": 242358,
       "word": "建议近视的人少吃点甜食",
       "onboard_time": 1755670762,
       "rank": 35,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 242351,
-      "num": 121070,
-      "word": "生男生女的秘密",
-      "onboard_time": 1755832286,
-      "rank": 31,
       "category": "科学科普"
     },
     {
@@ -5649,14 +5673,6 @@
       "onboard_time": 1755693747,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 224215,
-      "num": 224215,
-      "word": "邓超我跟热巴怎么这么有缘分",
-      "onboard_time": 1755831865,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 223847,
@@ -6289,6 +6305,14 @@
       "onboard_time": 1755656541,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204695,
+      "num": 232939,
+      "word": "林彦俊芭莎",
+      "onboard_time": 1755832466,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 204565,
@@ -6945,6 +6969,14 @@
       "onboard_time": 1755664343,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195201,
+      "num": 195201,
+      "word": "知情人称去世女孩家中墙上挂满奖状",
+      "onboard_time": 1755832406,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195197,
@@ -7715,6 +7747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184285,
+      "num": 184285,
+      "word": "问界M5全新配色曝光",
+      "onboard_time": 1755833185,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 184267,
       "num": 227556,
       "word": "AL对战TES",
@@ -8105,6 +8145,14 @@
       "onboard_time": 1755595584,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177034,
+      "num": 177034,
+      "word": "一瓯春",
+      "onboard_time": 1755832707,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 177004,
@@ -8737,6 +8785,14 @@
       "onboard_time": 1755489443,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170062,
+      "num": 170062,
+      "word": "黄子弘凡 一站到底",
+      "onboard_time": 1755832166,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 169616,
@@ -10155,6 +10211,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150402,
+      "num": 150402,
+      "word": "王橹杰赛车",
+      "onboard_time": 1755832766,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150375,
       "num": 150375,
       "word": "女子要求双休获回复漂亮可天天休",
@@ -10404,7 +10468,7 @@
     },
     {
       "raw_hot": 147827,
-      "num": 147827,
+      "num": 272743,
       "word": "普特会上俄方4项停火条件曝光",
       "onboard_time": 1755824302,
       "rank": 24,
@@ -11795,6 +11859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 135333,
+      "num": 135333,
+      "word": "iPhone17手机壳配色",
+      "onboard_time": 1755833006,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135227,
       "num": 135227,
       "word": "章若楠 我是妈咪养的可爱猪",
@@ -12891,6 +12963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126286,
+      "num": 126286,
+      "word": "邓超 魔童饿了",
+      "onboard_time": 1755833065,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126210,
       "num": 170554,
       "word": "书写美丽西藏新篇章",
@@ -13275,14 +13355,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 121868,
-      "num": 121868,
-      "word": "黄子弘凡 一站到底",
-      "onboard_time": 1755832166,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121842,
       "num": 215713,
       "word": "全球最毒的蚊子为何批量北上",
@@ -13313,6 +13385,14 @@
       "onboard_time": 1755396501,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121693,
+      "num": 121693,
+      "word": "应急管理部派工作组指导尖扎黄河特大桥事故救援处置",
+      "onboard_time": 1755833366,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121588,
@@ -13971,6 +14051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115500,
+      "num": 115500,
+      "word": "高敏感的人不能只读文学小说",
+      "onboard_time": 1755832406,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115436,
       "num": 140620,
       "word": "日本讨论拆除裸女像",
@@ -14185,6 +14273,14 @@
       "onboard_time": 1755585982,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112864,
+      "num": 112864,
+      "word": "经常手脚麻木说明血糖高了",
+      "onboard_time": 1755833366,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112849,
@@ -14459,6 +14555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109820,
+      "num": 115507,
+      "word": "胡雷资助女孩遗体在水池内发现",
+      "onboard_time": 1755833305,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109696,
       "num": 109696,
       "word": "国乒德比也用上TTR了",
@@ -14529,6 +14633,14 @@
       "onboard_time": 1755509421,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109098,
+      "num": 109098,
+      "word": "陈飞宇今天的火花也要续上",
+      "onboard_time": 1755833065,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 109074,
@@ -14891,22 +15003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105035,
-      "num": 105035,
-      "word": "高敏感的人不能只读文学小说",
-      "onboard_time": 1755832406,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 104852,
-      "num": 104852,
-      "word": "被清华教室的粉笔震惊到了",
-      "onboard_time": 1755832286,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 104705,
       "num": 117352,
       "word": "卫生巾再也经不起塌房了",
@@ -15047,14 +15143,6 @@
       "num": 103172,
       "word": "在假装上班公司6成人真在工作",
       "onboard_time": 1755414621,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103167,
-      "num": 103167,
-      "word": "知情人称去世女孩家中墙上挂满奖状",
-      "onboard_time": 1755832406,
       "rank": 42,
       "category": "民生新闻"
     },
@@ -15579,6 +15667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97178,
+      "num": 115661,
+      "word": "浪六群像 浪六群架",
+      "onboard_time": 1755832825,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97150,
       "num": 128735,
       "word": "加盟奶茶店一年亏60万",
@@ -15737,6 +15833,14 @@
       "onboard_time": 1755760883,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95030,
+      "num": 95030,
+      "word": "可乐最初是绿色的",
+      "onboard_time": 1755832886,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 94975,
@@ -17515,6 +17619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 60125,
+      "num": 116181,
+      "word": "民警找曝光者谈话家中老人被吓轻生",
+      "onboard_time": 1755833185,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60094,
       "num": 89217,
       "word": "美羊羊这羊能处",
@@ -18177,6 +18289,14 @@
       "onboard_time": 1755484280,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 45694,
+      "num": 147656,
+      "word": "初中老师被调高中当事人发声",
+      "onboard_time": 1755832585,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45536,
@@ -19617,6 +19737,14 @@
       "onboard_time": 1755495081,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21872,
+      "num": 232145,
+      "word": "特朗普在街头巡逻",
+      "onboard_time": 1755832947,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21849,

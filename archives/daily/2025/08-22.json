@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755832418775,
+  "endTime": 1755833379577,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1587232,
-      "num": 267831,
-      "word": "于正直播",
-      "onboard_time": 1755831325,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1466982,
-      "num": 1466982,
+      "raw_hot": 1674070,
+      "num": 1674070,
       "word": "卿卿日常",
       "onboard_time": 1755831206,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1587232,
+      "num": 272126,
+      "word": "于正直播",
+      "onboard_time": 1755831325,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1381296,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 910880,
-      "num": 266613,
+      "num": 271696,
       "word": "许荔莎发与许凯牵手照",
       "onboard_time": 1755828083,
       "rank": 12,
@@ -104,6 +104,14 @@
       "word": "许荔莎聊天记录",
       "onboard_time": 1755830786,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 729507,
+      "num": 272015,
+      "word": "虞书欣替身发声",
+      "onboard_time": 1755832646,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -129,6 +137,14 @@
       "onboard_time": 1755784404,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 501036,
+      "num": 501036,
+      "word": "曝光乡政府人员缺岗当事人发声",
+      "onboard_time": 1755830964,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451186,
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 371799,
-      "num": 371799,
-      "word": "曝光乡政府人员缺岗当事人发声",
-      "onboard_time": 1755830964,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364618,
       "num": 364618,
       "word": "内蒙古山洪12人遇难",
@@ -209,6 +217,14 @@
       "onboard_time": 1755792802,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320346,
+      "num": 320346,
+      "word": "邓超我跟热巴怎么这么有缘分",
+      "onboard_time": 1755831865,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 318950,
@@ -233,6 +249,14 @@
       "onboard_time": 1755829286,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291389,
+      "num": 270300,
+      "word": "被清华教室的粉笔震惊到了",
+      "onboard_time": 1755832286,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 287273,
@@ -307,8 +331,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242351,
-      "num": 121070,
+      "raw_hot": 242564,
+      "num": 242564,
       "word": "生男生女的秘密",
       "onboard_time": 1755832286,
       "rank": 31,
@@ -339,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224215,
-      "num": 224215,
-      "word": "邓超我跟热巴怎么这么有缘分",
-      "onboard_time": 1755831865,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216594,
       "num": 216594,
       "word": "确诊糖尿病前身体发出的信号",
@@ -371,11 +387,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204695,
+      "num": 232939,
+      "word": "林彦俊芭莎",
+      "onboard_time": 1755832466,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 201608,
       "num": 201608,
       "word": "机票价格便宜了",
       "onboard_time": 1755819560,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195201,
+      "num": 195201,
+      "word": "知情人称去世女孩家中墙上挂满奖状",
+      "onboard_time": 1755832406,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -419,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184285,
+      "num": 184285,
+      "word": "问界M5全新配色曝光",
+      "onboard_time": 1755833185,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 181572,
       "num": 181572,
       "word": "子夜归剧粉",
@@ -435,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177034,
+      "num": 177034,
+      "word": "一瓯春",
+      "onboard_time": 1755832707,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170159,
       "num": 170159,
       "word": "胡先煦项链里有李宛妲照片",
       "onboard_time": 1755778822,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170062,
+      "num": 170062,
+      "word": "黄子弘凡 一站到底",
+      "onboard_time": 1755832166,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 166241,
@@ -507,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150402,
+      "num": 150402,
+      "word": "王橹杰赛车",
+      "onboard_time": 1755832766,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148180,
       "num": 148180,
       "word": "摄像头被境外攻击自动转向港口",
@@ -516,7 +580,7 @@
     },
     {
       "raw_hot": 147827,
-      "num": 147827,
+      "num": 272743,
       "word": "普特会上俄方4项停火条件曝光",
       "onboard_time": 1755824302,
       "rank": 24,
@@ -553,6 +617,14 @@
       "onboard_time": 1755825860,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135333,
+      "num": 135333,
+      "word": "iPhone17手机壳配色",
+      "onboard_time": 1755833006,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 133178,
@@ -595,6 +667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 126286,
+      "num": 126286,
+      "word": "邓超 魔童饿了",
+      "onboard_time": 1755833065,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123832,
       "num": 123832,
       "word": "孙颖莎17连胜早田希娜",
@@ -611,12 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121868,
-      "num": 121868,
-      "word": "黄子弘凡 一站到底",
-      "onboard_time": 1755832166,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 121693,
+      "num": 121693,
+      "word": "应急管理部派工作组指导尖扎黄河特大桥事故救援处置",
+      "onboard_time": 1755833366,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120754,
@@ -667,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115500,
+      "num": 115500,
+      "word": "高敏感的人不能只读文学小说",
+      "onboard_time": 1755832406,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114824,
       "num": 114824,
       "word": "范丞丞刀马刀马",
@@ -707,6 +795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112864,
+      "num": 112864,
+      "word": "经常手脚麻木说明血糖高了",
+      "onboard_time": 1755833366,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112223,
       "num": 67577,
       "word": "孙颖莎下轮对阵伊藤美诚",
@@ -723,6 +819,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109820,
+      "num": 115507,
+      "word": "胡雷资助女孩遗体在水池内发现",
+      "onboard_time": 1755833305,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109098,
+      "num": 109098,
+      "word": "陈飞宇今天的火花也要续上",
+      "onboard_time": 1755833065,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107085,
       "num": 136175,
       "word": "丁程鑫全方位展示新发色",
@@ -731,36 +843,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 105035,
-      "num": 105035,
-      "word": "高敏感的人不能只读文学小说",
-      "onboard_time": 1755832406,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 104852,
-      "num": 104852,
-      "word": "被清华教室的粉笔震惊到了",
-      "onboard_time": 1755832286,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 103432,
       "num": 103432,
       "word": "小11收养女儿",
       "onboard_time": 1755828265,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103167,
-      "num": 103167,
-      "word": "知情人称去世女孩家中墙上挂满奖状",
-      "onboard_time": 1755832406,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102493,
@@ -827,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97178,
+      "num": 115661,
+      "word": "浪六群像 浪六群架",
+      "onboard_time": 1755832825,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96846,
       "num": 96846,
       "word": "孙颖莎再战伊藤美诚",
@@ -857,6 +953,14 @@
       "onboard_time": 1755826944,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95030,
+      "num": 95030,
+      "word": "可乐最初是绿色的",
+      "onboard_time": 1755832886,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 94460,
@@ -1099,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60125,
+      "num": 116181,
+      "word": "民警找曝光者谈话家中老人被吓轻生",
+      "onboard_time": 1755833185,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58854,
       "num": 58854,
       "word": "浙江嵊州一男子酒驾被拘留期间死亡",
@@ -1169,6 +1281,14 @@
       "onboard_time": 1755798737,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45694,
+      "num": 147656,
+      "word": "初中老师被调高中当事人发声",
+      "onboard_time": 1755832585,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43968,
@@ -1273,6 +1393,14 @@
       "onboard_time": 1755782903,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 21872,
+      "num": 232145,
+      "word": "特朗普在街头巡逻",
+      "onboard_time": 1755832947,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21310,
