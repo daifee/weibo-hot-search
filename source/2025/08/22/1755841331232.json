@@ -1,0 +1,410 @@
+{
+  "runTime": 1755841331232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1079130,
+        "num": 2270236,
+        "word": "卿卿日常",
+        "onboard_time": 1755831206,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414184,
+        "num": 414184,
+        "word": "VOGUE",
+        "onboard_time": 1755837749,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 6493,
+        "num": 400222,
+        "word": "想快进到9月3日看阅兵",
+        "onboard_time": 1755764363,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9456659,
+        "num": 9456659,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394712,
+        "num": 394712,
+        "word": "喜茶 饿了么",
+        "onboard_time": 1755836606,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 342056,
+        "num": 342056,
+        "word": "知情人称去世女孩家中墙上挂满奖状",
+        "onboard_time": 1755832406,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530343,
+        "num": 338850,
+        "word": "虞书欣晒林晚星杀青特辑",
+        "onboard_time": 1755839486,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418744,
+        "num": 324787,
+        "word": "突然发现老了结婚全是好处",
+        "onboard_time": 1755838525,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292441,
+        "num": 292441,
+        "word": "新疆一河水退去留520米巨鲸图案",
+        "onboard_time": 1755835525,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212143,
+        "num": 291581,
+        "word": "被清华教室的粉笔震惊到了",
+        "onboard_time": 1755832286,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 6776934,
+        "num": 6776934,
+        "word": "许凯 赵晴",
+        "onboard_time": 1755827305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1047493,
+        "num": 285224,
+        "word": "许荔莎 对不起子夜归",
+        "onboard_time": 1755835826,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795504,
+        "num": 281678,
+        "word": "虞书欣替身发声",
+        "onboard_time": 1755832646,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583010,
+        "num": 278237,
+        "word": "大金 我的天要亮了吗",
+        "onboard_time": 1755835227,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101654,
+        "num": 275794,
+        "word": "尖扎黄河特大桥事故瞬间画面",
+        "onboard_time": 1755840986,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 566644,
+        "num": 273667,
+        "word": "夜光剧本2.0",
+        "onboard_time": 1755837627,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474653,
+        "num": 268131,
+        "word": "胡雷资助女孩遗体在水池内发现",
+        "onboard_time": 1755833305,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377505,
+        "num": 265887,
+        "word": "陈铭首曝亲哥被绑架致残",
+        "onboard_time": 1755840325,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265029,
+        "num": 265029,
+        "word": "杨紫19岁就演出了养老剧",
+        "onboard_time": 1755834806,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62026,
+        "num": 262499,
+        "word": "苏醒说做爸爸他是苏行",
+        "onboard_time": 1755836726,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260593,
+        "num": 260593,
+        "word": "黄晓明急着回家干嘛",
+        "onboard_time": 1755840265,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245044,
+        "num": 245044,
+        "word": "36岁存款30万决定提前退休",
+        "onboard_time": 1755839904,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230872,
+        "num": 230872,
+        "word": "孙千又来练车车车车",
+        "onboard_time": 1755837866,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225842,
+        "num": 225842,
+        "word": "子夜归soso soso就不soso",
+        "onboard_time": 1755837807,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209372,
+        "num": 209372,
+        "word": "女子40岁二胎得子随母姓丈夫后悔",
+        "onboard_time": 1755836788,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200720,
+        "num": 200720,
+        "word": "菲律宾2艘小艇蓄意碰瓷挑衅",
+        "onboard_time": 1755835105,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136072,
+        "num": 197276,
+        "word": "沪指3800点",
+        "onboard_time": 1755840024,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196565,
+        "num": 196565,
+        "word": "老破小住久了副作用就来了",
+        "onboard_time": 1755836306,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185865,
+        "num": 196450,
+        "word": "地球超新鲜直播",
+        "onboard_time": 1755840805,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169475,
+        "num": 196380,
+        "word": "尖扎黄河特大桥事故7人遇难9人失联",
+        "onboard_time": 1755825143,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196360,
+        "num": 196360,
+        "word": "25岁女生有车后的真实变化",
+        "onboard_time": 1755841107,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165380,
+        "num": 165380,
+        "word": "庆余年生万物 剧王剧后",
+        "onboard_time": 1755836006,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156200,
+        "num": 156200,
+        "word": "揭秘尖扎黄河特大桥施工项目中标方",
+        "onboard_time": 1755841107,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155781,
+        "num": 155781,
+        "word": "邓超我跟热巴怎么这么有缘分",
+        "onboard_time": 1755831865,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78568,
+        "num": 150852,
+        "word": "官方通报女子称幼时被父母虐待致残",
+        "onboard_time": 1755839486,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 150798,
+        "num": 150798,
+        "word": "梁家辉 这么漂亮不应该这姿势抽烟",
+        "onboard_time": 1755835587,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147167,
+        "num": 147167,
+        "word": "孙俪领养独眼猫",
+        "onboard_time": 1755837089,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145223,
+        "num": 145223,
+        "word": "地球超新鲜",
+        "onboard_time": 1755839545,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141831,
+        "num": 141831,
+        "word": "邓超邀请将太郎录五哈",
+        "onboard_time": 1755836548,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137016,
+        "num": 137016,
+        "word": "会游泳和不会游泳的都爽了",
+        "onboard_time": 1755839845,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125855,
+        "num": 125855,
+        "word": "丞磊一部剧一种吃法",
+        "onboard_time": 1755840986,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124313,
+        "num": 124313,
+        "word": "林彦俊芭莎",
+        "onboard_time": 1755832466,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 122951,
+        "num": 122951,
+        "word": "初中老师被调高中当事人发声",
+        "onboard_time": 1755832585,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120921,
+        "num": 120921,
+        "word": "中国海警局新闻发言人发表谈话",
+        "onboard_time": 1755835468,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115786,
+        "num": 115786,
+        "word": "库里再谈中国行感受",
+        "onboard_time": 1755837685,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114813,
+        "num": 114813,
+        "word": "子夜归开始回南天了",
+        "onboard_time": 1755839545,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112178,
+        "num": 112178,
+        "word": "当地回应民警上门找曝光者谈话",
+        "onboard_time": 1755837866,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109780,
+        "num": 109780,
+        "word": "兄弟突然火成明星了啥体验",
+        "onboard_time": 1755839127,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103961,
+        "num": 103961,
+        "word": "乡政府回应上班时间人员缺岗",
+        "onboard_time": 1755827786,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100661,
+        "num": 100661,
+        "word": "苹果调整全球AppStore税率",
+        "onboard_time": 1755840566,
+        "rank": 49,
+        "category": "数码,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平冀望美丽西藏新篇章#"
+    }
+  }
+}
