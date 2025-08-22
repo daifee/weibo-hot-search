@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755848302443,
+  "endTime": 1755851613990,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -24,6 +24,14 @@
       "word": "许凯恋情时间线",
       "onboard_time": 1755846025,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1892911,
+      "num": 1892911,
+      "word": "王星越突然直播一直哭",
+      "onboard_time": 1755847527,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1539802,
-      "num": 441613,
+      "num": 1173536,
       "word": "于正急得直播都没开美颜",
       "onboard_time": 1755846745,
       "rank": 14,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1351926,
-      "num": 429502,
+      "num": 431018,
       "word": "虞书欣替身发声",
       "onboard_time": 1755832646,
       "rank": 12,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1320599,
-      "num": 438325,
+      "num": 1051660,
       "word": "赵晴工作室声明",
       "onboard_time": 1755846025,
       "rank": 10,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1223004,
-      "num": 437501,
+      "num": 723855,
       "word": "许荔莎报警",
       "onboard_time": 1755847226,
       "rank": 13,
@@ -105,14 +113,6 @@
       "onboard_time": 1755790342,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1138134,
-      "num": 435821,
-      "word": "王星越突然直播一直哭",
-      "onboard_time": 1755847527,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1053134,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 841191,
+      "num": 841191,
+      "word": "欢娱乱成一锅粥了",
+      "onboard_time": 1755851006,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808417,
       "num": 354095,
       "word": "夜光剧本2.0",
@@ -203,8 +211,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 679223,
+      "num": 679223,
+      "word": "心疼田曦薇",
+      "onboard_time": 1755851306,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665258,
-      "num": 537121,
+      "num": 1288157,
       "word": "尖扎黄河特大桥事故瞬间画面",
       "onboard_time": 1755840986,
       "rank": 14,
@@ -235,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 547253,
+      "num": 547253,
+      "word": "明星基础嫂子就不基础",
+      "onboard_time": 1755847226,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544113,
       "num": 544113,
       "word": "知情人称去世女孩家中墙上挂满奖状",
@@ -243,8 +267,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538234,
+      "num": 538234,
+      "word": "你比星光美丽",
+      "onboard_time": 1755850106,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 529866,
-      "num": 529866,
+      "num": 5476351,
       "word": "三只羊东北雨姐再被点名",
       "onboard_time": 1755842244,
       "rank": 4,
@@ -281,14 +313,6 @@
       "onboard_time": 1755837749,
       "rank": 35,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 428574,
-      "num": 428574,
-      "word": "明星基础嫂子就不基础",
-      "onboard_time": 1755847226,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 427383,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 370244,
-      "num": 460095,
+      "num": 476739,
       "word": "妻子擅自堕胎丈夫索赔被驳回",
       "onboard_time": 1755842665,
       "rank": 5,
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330689,
+      "num": 3733649,
+      "word": "台湾17岁少年遭好友虐杀弃尸",
+      "onboard_time": 1755850046,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318950,
       "num": 318950,
       "word": "杨幂热巴合照",
@@ -425,6 +457,14 @@
       "onboard_time": 1755835105,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 312178,
+      "num": 3149615,
+      "word": "存不到一亿都对不起这只虾",
+      "onboard_time": 1755845786,
+      "rank": 19,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 312094,
@@ -547,20 +587,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261386,
+      "num": 261386,
+      "word": "张晚意 长了痘是抠还是不抠",
+      "onboard_time": 1755847646,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260593,
       "num": 260593,
       "word": "黄晓明急着回家干嘛",
       "onboard_time": 1755840265,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257695,
-      "num": 456488,
-      "word": "存不到一亿都对不起这只虾",
-      "onboard_time": 1755845786,
-      "rank": 19,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 253054,
@@ -683,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228831,
+      "num": 1230541,
+      "word": "福建一煤矿7人死亡",
+      "onboard_time": 1755847106,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228608,
       "num": 232939,
       "word": "林彦俊芭莎",
@@ -745,6 +793,14 @@
       "onboard_time": 1755836667,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215723,
+      "num": 215723,
+      "word": "这居然是周翊然",
+      "onboard_time": 1755850886,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 213071,
@@ -835,12 +891,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200974,
+      "num": 200974,
+      "word": "原来iPhone长按这么好用",
+      "onboard_time": 1755847706,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196360,
       "num": 196360,
       "word": "25岁女生有车后的真实变化",
       "onboard_time": 1755841107,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196254,
+      "num": 196254,
+      "word": "欢娱律师声明",
+      "onboard_time": 1755851425,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195783,
+      "num": 195783,
+      "word": "中国渔民多次捞到间谍鱼",
+      "onboard_time": 1755849985,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195206,
@@ -865,6 +945,14 @@
       "onboard_time": 1755846265,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193155,
+      "num": 193155,
+      "word": "居民存款暴跌老百姓的钱都去哪了",
+      "onboard_time": 1755848965,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191987,
@@ -1059,14 +1147,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 170686,
-      "num": 445093,
-      "word": "福建一煤矿7人死亡",
-      "onboard_time": 1755847106,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170159,
       "num": 170159,
       "word": "胡先煦项链里有李宛妲照片",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1755846446,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 163990,
+      "num": 163990,
+      "word": "官方称确有部分干部迟到缺岗情况",
+      "onboard_time": 1755846146,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162395,
@@ -1211,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155360,
+      "num": 155360,
+      "word": "QQ常用户 微信常用户",
+      "onboard_time": 1755847766,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154920,
       "num": 154920,
       "word": "JDG对战DRG",
@@ -1249,14 +1345,6 @@
       "onboard_time": 1755834567,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153784,
-      "num": 153784,
-      "word": "原来iPhone长按这么好用",
-      "onboard_time": 1755847706,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 151446,
@@ -1305,14 +1393,6 @@
       "onboard_time": 1755848006,
       "rank": 39,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 148663,
-      "num": 148663,
-      "word": "官方称确有部分干部迟到缺岗情况",
-      "onboard_time": 1755846146,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148180,
@@ -1379,12 +1459,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142318,
-      "num": 142318,
-      "word": "QQ常用户 微信常用户",
-      "onboard_time": 1755847766,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 144244,
+      "num": 144244,
+      "word": "痛金",
+      "onboard_time": 1755849207,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144099,
+      "num": 373751,
+      "word": "永州通报民警上门谈话全程戴记录仪",
+      "onboard_time": 1755847886,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142029,
+      "num": 142029,
+      "word": "月鳞绮纪",
+      "onboard_time": 1755848606,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 140344,
@@ -1419,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137944,
+      "num": 137944,
+      "word": "8人用假货退货涉案300万元",
+      "onboard_time": 1755849926,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137611,
       "num": 137611,
       "word": "陈飞宇你神图有了",
@@ -1433,6 +1537,14 @@
       "onboard_time": 1755839845,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136956,
+      "num": 136956,
+      "word": "孙红雷我跟龚俊是姐妹",
+      "onboard_time": 1755851064,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 136884,
@@ -1481,6 +1593,14 @@
       "onboard_time": 1755833366,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134622,
+      "num": 134622,
+      "word": "苏醒王铮亮王栎鑫上演18年前pk大战",
+      "onboard_time": 1755851006,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 133837,
@@ -1569,6 +1689,14 @@
       "onboard_time": 1755834208,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124613,
+      "num": 132726,
+      "word": "七夕画室",
+      "onboard_time": 1755850046,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 123832,
@@ -1811,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 102351,
+      "num": 139322,
+      "word": "李兰迪cos蜥蜴",
+      "onboard_time": 1755851366,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101409,
       "num": 101409,
       "word": "液化气爆燃28岁女子全身90%烧伤",
@@ -1955,14 +2091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93763,
-      "num": 150612,
-      "word": "张晚意 长了痘是抠还是不抠",
-      "onboard_time": 1755847646,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93681,
       "num": 93681,
       "word": "吴京让地球流浪",
@@ -2041,14 +2169,6 @@
       "onboard_time": 1755828627,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84683,
-      "num": 373751,
-      "word": "永州通报民警上门谈话全程戴记录仪",
-      "onboard_time": 1755847886,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82580,
@@ -2163,6 +2283,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 68229,
+      "num": 323506,
+      "word": "内蒙古女孩用拼多多吃遍全国水果",
+      "onboard_time": 1755848427,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68076,
       "num": 88252,
       "word": "王传君神预言董璇张维伊",
@@ -2233,6 +2361,14 @@
       "onboard_time": 1755799696,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60150,
+      "num": 165218,
+      "word": "警方回应苟姓市民申请改姓未获批",
+      "onboard_time": 1755851486,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58854,
@@ -2339,12 +2475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45615,
+      "num": 1192077,
+      "word": "福建震感",
+      "onboard_time": 1755851128,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43968,
       "num": 52050,
       "word": "献鱼喉结吻 烧起来了",
       "onboard_time": 1755811934,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42204,
+      "num": 142972,
+      "word": "湖南湘乡一女子骑电动车坠桥失联",
+      "onboard_time": 1755849684,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40952,
@@ -2401,6 +2553,14 @@
       "onboard_time": 1755796038,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36677,
+      "num": 132735,
+      "word": "上海亚宠展现纹身犬被质疑虐待动物",
+      "onboard_time": 1755851486,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35995,
@@ -2484,7 +2644,7 @@
     },
     {
       "raw_hot": 21870,
-      "num": 489249,
+      "num": 4228584,
       "word": "这个踩点变装又燃又帅",
       "onboard_time": 1755805994,
       "rank": 42,
