@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755890517890,
+  "endTime": 1755891415473,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -22969,6 +22969,14 @@
       "onboard_time": 1755655522,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17306,
+      "num": 46805,
+      "word": "aespa中文感言",
+      "onboard_time": 1755890955,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 17233,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/23 00:32:08 ~ 2025/08/23 03:21:57
+本榜单时间：2025/08/23 00:32:08 ~ 2025/08/23 03:36:55
 </p>
 </blockquote>
 <p>
@@ -431,6 +431,12 @@ TIMA国际音乐大赏（热度：26366）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%E7%9B%B4%E6%8B%8D%23" target="weibo">
 宁艺卓获奖感言直拍（热度：18676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23aespa%E4%B8%AD%E6%96%87%E6%84%9F%E8%A8%80%23" target="weibo">
+aespa中文感言（热度：17306）
 </a>
 </li>
 
