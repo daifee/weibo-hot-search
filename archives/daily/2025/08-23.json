@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755881202206,
+  "endTime": 1755883405358,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1133524,
+      "raw_hot": 1177860,
       "num": 394620,
       "word": "许荔莎 我以后缠着于正了",
       "onboard_time": 1755869006,
@@ -64,6 +64,14 @@
       "word": "欢娱乱成一锅粥了",
       "onboard_time": 1755851006,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 571817,
+      "num": 174684,
+      "word": "许凯 已报警",
+      "onboard_time": 1755883159,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -172,11 +180,19 @@
     },
     {
       "raw_hot": 166033,
-      "num": 149875,
+      "num": 171647,
       "word": "叠纸一年内两个项目获国际大奖",
       "onboard_time": 1755881184,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155975,
+      "num": 239442,
+      "word": "高迪 大美",
+      "onboard_time": 1755880163,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 153271,
@@ -193,14 +209,6 @@
       "onboard_time": 1755877765,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 142386,
-      "num": 239442,
-      "word": "高迪 大美",
-      "onboard_time": 1755880163,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 135683,
@@ -275,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92737,
+      "num": 239723,
+      "word": "孙颖莎和王曼昱的默契",
+      "onboard_time": 1755879802,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90815,
       "num": 239685,
       "word": "李一桐穿了40年前的古董礼服",
       "onboard_time": 1755868767,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87669,
-      "num": 239723,
-      "word": "孙颖莎和王曼昱的默契",
-      "onboard_time": 1755879802,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 85438,
@@ -315,12 +323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74768,
+      "num": 172616,
+      "word": "鞠婧祎狩猎女神白裙造型",
+      "onboard_time": 1755882741,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74445,
       "num": 239330,
       "word": "AG对战狼队",
       "onboard_time": 1755862645,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73971,
+      "num": 171068,
+      "word": "官方再回应非婚生育申领育儿补贴",
+      "onboard_time": 1755880344,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72422,
@@ -395,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64127,
+      "num": 170597,
+      "word": "孙颖莎说要一分一分拼",
+      "onboard_time": 1755880643,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61838,
       "num": 238866,
       "word": "美联储",
@@ -403,28 +435,36 @@
       "category": "财经"
     },
     {
-      "raw_hot": 56655,
-      "num": 148458,
-      "word": "孙颖莎说要一分一分拼",
-      "onboard_time": 1755880643,
-      "rank": 47,
+      "raw_hot": 59701,
+      "num": 170480,
+      "word": "成都赛区被中国足协通报批评",
+      "onboard_time": 1755881662,
+      "rank": 32,
       "category": "体育"
     },
     {
       "raw_hot": 53264,
-      "num": 148429,
+      "num": 168591,
       "word": "aespa全员中文获奖感言",
       "onboard_time": 1755863786,
       "rank": 48,
       "category": "演出"
     },
     {
-      "raw_hot": 48297,
-      "num": 152347,
-      "word": "官方再回应非婚生育申领育儿补贴",
-      "onboard_time": 1755880344,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 51477,
+      "num": 169056,
+      "word": "一年级pd对虞书欣的评价",
+      "onboard_time": 1755882621,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40878,
+      "num": 168175,
+      "word": "IVE回归预告",
+      "onboard_time": 1755877226,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 34093,
