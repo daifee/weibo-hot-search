@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755862634360,
+  "endTime": 1755867056299,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -9179,6 +9179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 576894,
+      "num": 1092303,
+      "word": "北京一老人横穿马路被撞飞身亡",
+      "onboard_time": 1755866006,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576288,
       "num": 576288,
       "word": "吊桥桥索断裂涉事景区已关闭",
@@ -11505,6 +11513,14 @@
       "onboard_time": 1754892442,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 474750,
+      "num": 474750,
+      "word": "aespa全员中文获奖感言",
+      "onboard_time": 1755863786,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 474701,
@@ -15299,6 +15315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356466,
+      "num": 356466,
+      "word": "15岁女生军训期间心脏骤停不幸身亡",
+      "onboard_time": 1755864926,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356205,
       "num": 356205,
       "word": "举报徐杰者再发声",
@@ -15851,6 +15875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338058,
+      "num": 338058,
+      "word": "王牌对王牌9",
+      "onboard_time": 1755865465,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337788,
       "num": 337788,
       "word": "李飞是真把妹王",
@@ -16345,6 +16377,14 @@
       "onboard_time": 1755603205,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327708,
+      "num": 1037170,
+      "word": "范丞丞 我现在改姓黄还来得及吗",
+      "onboard_time": 1755859405,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 327691,
@@ -17587,14 +17627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301286,
-      "num": 1037170,
-      "word": "范丞丞 我现在改姓黄还来得及吗",
-      "onboard_time": 1755859405,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301173,
       "num": 301173,
       "word": "日本一周18人死于高温",
@@ -18369,6 +18401,14 @@
       "onboard_time": 1755852327,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286522,
+      "num": 180242,
+      "word": "第一章 白月光回国",
+      "onboard_time": 1755864325,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 286430,
@@ -19473,6 +19513,14 @@
       "onboard_time": 1754540665,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267528,
+      "num": 338873,
+      "word": "结婚必要的三大条件",
+      "onboard_time": 1755862766,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 267414,
@@ -21283,6 +21331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241104,
+      "num": 241104,
+      "word": "公司离职证明上写背调电话",
+      "onboard_time": 1755862705,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240920,
       "num": 211284,
       "word": "谷爱凌新身份",
@@ -21769,6 +21825,14 @@
       "onboard_time": 1754978482,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234970,
+      "num": 1010552,
+      "word": "永辉超市半年关了227家店",
+      "onboard_time": 1755859704,
+      "rank": 17,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 234863,
@@ -26395,14 +26459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200745,
-      "num": 1010552,
-      "word": "永辉超市半年关了227家店",
-      "onboard_time": 1755859704,
-      "rank": 17,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 200645,
       "num": 200645,
       "word": "赵立坚推介成毅赴红尘",
@@ -27145,6 +27201,14 @@
       "onboard_time": 1754214742,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197820,
+      "num": 197820,
+      "word": "余华谈史铁生去世",
+      "onboard_time": 1755862645,
+      "rank": 15,
+      "category": "读书作家"
     },
     {
       "raw_hot": 197797,
@@ -29763,6 +29827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188502,
+      "num": 188502,
+      "word": "2025青春芒果夜官宣",
+      "onboard_time": 1755866006,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188431,
       "num": 239291,
       "word": "美俄元首会晤仓促记者蒙了",
@@ -30795,6 +30867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184078,
+      "num": 184078,
+      "word": "姜涛TIMA舞台",
+      "onboard_time": 1755865887,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184054,
       "num": 184054,
       "word": "清空爱心冰柜的老太再来后扑空了",
@@ -30929,6 +31009,14 @@
       "onboard_time": 1755329183,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183383,
+      "num": 249722,
+      "word": "MRC对战北京WBG",
+      "onboard_time": 1755858924,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 183359,
@@ -45435,6 +45523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137492,
+      "num": 249401,
+      "word": "伊藤美诚突发不适",
+      "onboard_time": 1755861989,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137486,
       "num": 137486,
       "word": "张艺兴唱了MAMA",
@@ -47395,6 +47491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 133209,
+      "num": 133209,
+      "word": "赵丽颖台词力量感",
+      "onboard_time": 1755866306,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133178,
       "num": 98610,
       "word": "王曼昱vs桥本帆乃香",
@@ -47785,14 +47889,6 @@
       "onboard_time": 1755736162,
       "rank": 32,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 132093,
-      "num": 249722,
-      "word": "MRC对战北京WBG",
-      "onboard_time": 1755858924,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 132054,
@@ -52987,14 +53083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120496,
-      "num": 249401,
-      "word": "伊藤美诚突发不适",
-      "onboard_time": 1755861989,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120480,
       "num": 210236,
       "word": "4399 绿色背景怎么了",
@@ -54555,6 +54643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116973,
+      "num": 116973,
+      "word": "偶遇于文文街头打零工",
+      "onboard_time": 1755862766,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 116958,
       "num": 116958,
       "word": "龚俊版黛玉葬花",
@@ -55937,6 +56033,14 @@
       "onboard_time": 1754213543,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113427,
+      "num": 113427,
+      "word": "鹿晗递话筒",
+      "onboard_time": 1755866546,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 113393,
@@ -58483,6 +58587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107309,
+      "num": 107309,
+      "word": "孙颖莎王曼昱vs金娜英柳韩娜",
+      "onboard_time": 1755865887,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107293,
       "num": 938583,
       "word": "超市BGM其实是抗战胜利之歌",
@@ -58635,6 +58747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106885,
+      "num": 106885,
+      "word": "田曦薇武祯今晚生死局",
+      "onboard_time": 1755862825,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106839,
       "num": 106839,
       "word": "五月天上海",
@@ -58761,6 +58881,14 @@
       "onboard_time": 1755419421,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106388,
+      "num": 106388,
+      "word": "中方回应乌不需要中国提供安全保障",
+      "onboard_time": 1755852208,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106310,
@@ -61859,6 +61987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97139,
+      "num": 97139,
+      "word": "SM女团GeeGee相传",
+      "onboard_time": 1755864144,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97072,
       "num": 97072,
       "word": "731定档九一八戳中泪点",
@@ -63779,6 +63915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89966,
+      "num": 249469,
+      "word": "用杨洋陈都灵打开微微一笑很倾城",
+      "onboard_time": 1755862346,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 89959,
       "num": 248917,
       "word": "中国战机一出现就是硬核浪漫",
@@ -64075,14 +64219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88591,
-      "num": 249469,
-      "word": "用杨洋陈都灵打开微微一笑很倾城",
-      "onboard_time": 1755862346,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 88581,
       "num": 130685,
       "word": "85年前重庆大轰炸真实影像",
@@ -64144,6 +64280,14 @@
       "word": "天津大爆炸幸存者回应苟且偷生争议",
       "onboard_time": 1754551403,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88370,
+      "num": 107006,
+      "word": "文身狗主人被指虐待动物",
+      "onboard_time": 1755866905,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -64665,6 +64809,14 @@
       "onboard_time": 1754438841,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85802,
+      "num": 85802,
+      "word": "沪指突破3800点谁在赚钱",
+      "onboard_time": 1755863725,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 85739,
@@ -65417,6 +65569,14 @@
       "onboard_time": 1754236404,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81929,
+      "num": 81929,
+      "word": "法拍狸花猫已被爱猫人士领走",
+      "onboard_time": 1755864086,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81857,
@@ -67833,6 +67993,14 @@
       "onboard_time": 1755449060,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65373,
+      "num": 174800,
+      "word": "主办方回应上海亚宠展现文身犬",
+      "onboard_time": 1755865945,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65306,
@@ -73961,6 +74129,14 @@
       "onboard_time": 1755262883,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29050,
+      "num": 99536,
+      "word": "日本主妇的配偶者控除制",
+      "onboard_time": 1755866965,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 29047,
