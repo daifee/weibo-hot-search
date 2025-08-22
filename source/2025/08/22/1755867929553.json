@@ -1,0 +1,410 @@
+{
+  "runTime": 1755867929553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 875166,
+        "num": 1140026,
+        "word": "北京一老人横穿马路被撞飞身亡",
+        "onboard_time": 1755866006,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539784,
+        "num": 539784,
+        "word": "15岁女生军训期间心脏骤停不幸身亡",
+        "onboard_time": 1755864926,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5398,
+        "num": 417215,
+        "word": "有一种视觉盛宴叫西藏的蓝",
+        "onboard_time": 1755741261,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2851887,
+        "num": 416775,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415068,
+        "num": 415068,
+        "word": "aespa全员中文获奖感言",
+        "onboard_time": 1755863786,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 298774,
+        "num": 298774,
+        "word": "结婚必要的三大条件",
+        "onboard_time": 1755862766,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298468,
+        "num": 298468,
+        "word": "范丞丞 我现在改姓黄还来得及吗",
+        "onboard_time": 1755859405,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297413,
+        "num": 297413,
+        "word": "王牌对王牌9",
+        "onboard_time": 1755865465,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276317,
+        "num": 276317,
+        "word": "公司离职证明上写背调电话",
+        "onboard_time": 1755862705,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77392,
+        "num": 274245,
+        "word": "文身狗主人被指虐待动物",
+        "onboard_time": 1755866905,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1204665,
+        "num": 270446,
+        "word": "虞书欣",
+        "onboard_time": 1755851606,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2836877,
+        "num": 265842,
+        "word": "于正气到输液 何晟铭气定神闲",
+        "onboard_time": 1755860186,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792703,
+        "num": 263630,
+        "word": "董璇终于忍不住发火了",
+        "onboard_time": 1755859346,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260492,
+        "num": 260492,
+        "word": "永辉超市半年关了227家店",
+        "onboard_time": 1755859704,
+        "rank": 13,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 205900,
+        "num": 205900,
+        "word": "余华谈史铁生去世",
+        "onboard_time": 1755862645,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 192119,
+        "num": 192119,
+        "word": "孙颖莎vs伊藤美诚",
+        "onboard_time": 1755857425,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174555,
+        "num": 174555,
+        "word": "鹿晗递话筒",
+        "onboard_time": 1755866546,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156409,
+        "num": 156409,
+        "word": "少年被9人乱棍打死弃尸山谷",
+        "onboard_time": 1755857304,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155744,
+        "num": 155744,
+        "word": "冯建宇直播",
+        "onboard_time": 1755866786,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146975,
+        "num": 146975,
+        "word": "月经期误区",
+        "onboard_time": 1755867147,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 10215385,
+        "num": 10215385,
+        "word": "许凯恋情时间线",
+        "onboard_time": 1755846025,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197427,
+        "num": 146274,
+        "word": "周也 泡面大王",
+        "onboard_time": 1755857065,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175983,
+        "num": 146087,
+        "word": "宋丹丹两个孙子均随奶奶姓宋",
+        "onboard_time": 1755857304,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154371,
+        "num": 145509,
+        "word": "赵丽颖台词力量感",
+        "onboard_time": 1755866306,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145338,
+        "num": 145338,
+        "word": "李承铉和戚薇分被睡",
+        "onboard_time": 1755856765,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145241,
+        "num": 145241,
+        "word": "AG对战狼队",
+        "onboard_time": 1755862645,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144647,
+        "num": 144647,
+        "word": "MRC对战北京WBG",
+        "onboard_time": 1755858924,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88404,
+        "num": 140800,
+        "word": "尖扎黄河特大桥事故已致12人死亡",
+        "onboard_time": 1755859405,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121005,
+        "num": 137771,
+        "word": "吉利银河A7上市14天交付破万",
+        "onboard_time": 1755867147,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137080,
+        "num": 137080,
+        "word": "好多业内为虞书欣发声",
+        "onboard_time": 1755854906,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123748,
+        "num": 123748,
+        "word": "姜涛跳了鹿晗的歌",
+        "onboard_time": 1755867625,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115921,
+        "num": 115921,
+        "word": "生万物",
+        "onboard_time": 1755863967,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114404,
+        "num": 114404,
+        "word": "伊藤美诚突发不适",
+        "onboard_time": 1755861989,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112827,
+        "num": 112827,
+        "word": "偶遇于文文街头打零工",
+        "onboard_time": 1755862766,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112504,
+        "num": 112504,
+        "word": "中方回应乌不需要中国提供安全保障",
+        "onboard_time": 1755852208,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26493,
+        "num": 109257,
+        "word": "福建一煤矿7人死亡遇难者多为外地人",
+        "onboard_time": 1755867748,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107272,
+        "num": 107272,
+        "word": "孙颖莎王曼昱vs金娜英柳韩娜",
+        "onboard_time": 1755865887,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106524,
+        "num": 106524,
+        "word": "2025青春芒果夜官宣",
+        "onboard_time": 1755866006,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97972,
+        "num": 106505,
+        "word": "TIMA",
+        "onboard_time": 1755854605,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25954,
+        "num": 106475,
+        "word": "日本主妇的配偶者控除制",
+        "onboard_time": 1755866965,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97669,
+        "num": 106463,
+        "word": "这哪是青梅竹马这是两颗魔丸",
+        "onboard_time": 1755864265,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90135,
+        "num": 106428,
+        "word": "姜涛TIMA舞台",
+        "onboard_time": 1755865887,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89799,
+        "num": 106402,
+        "word": "生万物封二去世",
+        "onboard_time": 1755867866,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87838,
+        "num": 106376,
+        "word": "留错一位手机号洗衣机被改地址送达",
+        "onboard_time": 1755858085,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85975,
+        "num": 106328,
+        "word": "SM女团GeeGee相传",
+        "onboard_time": 1755864144,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84052,
+        "num": 106294,
+        "word": "子夜归",
+        "onboard_time": 1755858565,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82221,
+        "num": 106277,
+        "word": "迪丽热巴空降直播",
+        "onboard_time": 1755862346,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80973,
+        "num": 106249,
+        "word": "田曦薇武祯今晚生死局",
+        "onboard_time": 1755862825,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74209,
+        "num": 106207,
+        "word": "被错误羁押6370天男子申请国赔1911万",
+        "onboard_time": 1755852327,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20990,
+        "num": 106198,
+        "word": "Gulf空降Gucci门店",
+        "onboard_time": 1755867147,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#浇好团结花结出幸福果#"
+    }
+  }
+}

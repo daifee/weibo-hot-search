@@ -1,6 +1,6 @@
 {
   "startTime": 1755793907004,
-  "endTime": 1755867056299,
+  "endTime": 1755867929553,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -219,6 +219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 875166,
+      "num": 1140026,
+      "word": "北京一老人横穿马路被撞飞身亡",
+      "onboard_time": 1755866006,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 871824,
       "num": 679223,
       "word": "心疼田曦薇",
@@ -299,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 576894,
-      "num": 1092303,
-      "word": "北京一老人横穿马路被撞飞身亡",
-      "onboard_time": 1755866006,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 562605,
       "num": 399814,
       "word": "虞书欣晒林晚星杀青特辑",
@@ -328,6 +328,14 @@
       "word": "知情人称去世女孩家中墙上挂满奖状",
       "onboard_time": 1755832406,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 539784,
+      "num": 539784,
+      "word": "15岁女生军训期间心脏骤停不幸身亡",
+      "onboard_time": 1755864926,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -563,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 356466,
-      "num": 356466,
-      "word": "15岁女生军训期间心脏骤停不幸身亡",
-      "onboard_time": 1755864926,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 349162,
       "num": 279111,
       "word": "李承铉和戚薇分被睡",
@@ -667,6 +667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 298774,
+      "num": 338873,
+      "word": "结婚必要的三大条件",
+      "onboard_time": 1755862766,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296933,
       "num": 1022980,
       "word": "宋丹丹两个孙子均随奶奶姓宋",
@@ -747,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276317,
+      "num": 276317,
+      "word": "公司离职证明上写背调电话",
+      "onboard_time": 1755862705,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274223,
       "num": 291569,
       "word": "尖扎黄河特大桥发生施工绳索断裂事故",
@@ -784,14 +800,6 @@
       "word": "帮爷爷查话费时看到的短信",
       "onboard_time": 1755835405,
       "rank": 16,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 267528,
-      "num": 338873,
-      "word": "结婚必要的三大条件",
-      "onboard_time": 1755862766,
-      "rank": 4,
       "category": "情感"
     },
     {
@@ -833,6 +841,14 @@
       "onboard_time": 1755840265,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260492,
+      "num": 1010552,
+      "word": "永辉超市半年关了227家店",
+      "onboard_time": 1755859704,
+      "rank": 17,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 256249,
@@ -907,14 +923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241104,
-      "num": 241104,
-      "word": "公司离职证明上写背调电话",
-      "onboard_time": 1755862705,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240859,
       "num": 240859,
       "word": "李在明喂完夫人喂议员被妻子挡开",
@@ -953,14 +961,6 @@
       "onboard_time": 1755832707,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234970,
-      "num": 1010552,
-      "word": "永辉超市半年关了227家店",
-      "onboard_time": 1755859704,
-      "rank": 17,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 231566,
@@ -1123,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205900,
+      "num": 205900,
+      "word": "余华谈史铁生去世",
+      "onboard_time": 1755862645,
+      "rank": 15,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 204282,
       "num": 204282,
       "word": "谁收到了王源发的短信",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1755854067,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197820,
-      "num": 197820,
-      "word": "余华谈史铁生去世",
-      "onboard_time": 1755862645,
-      "rank": 15,
-      "category": "读书作家"
     },
     {
       "raw_hot": 197007,
@@ -1491,6 +1491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 174555,
+      "num": 174555,
+      "word": "鹿晗递话筒",
+      "onboard_time": 1755866546,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174207,
       "num": 174207,
       "word": "男孩疯狂充值网游竟因遭同学孤立",
@@ -1755,6 +1763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155744,
+      "num": 155744,
+      "word": "冯建宇直播",
+      "onboard_time": 1755866786,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155360,
       "num": 155360,
       "word": "QQ常用户 微信常用户",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1755830723,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154371,
+      "num": 145509,
+      "word": "赵丽颖台词力量感",
+      "onboard_time": 1755866306,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 153928,
@@ -1891,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146975,
+      "num": 146975,
+      "word": "月经期误区",
+      "onboard_time": 1755867147,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 146771,
       "num": 249198,
       "word": "于适一个月干了别人一年的活",
@@ -1913,6 +1945,14 @@
       "onboard_time": 1755835887,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 145241,
+      "num": 145241,
+      "word": "AG对战狼队",
+      "onboard_time": 1755862645,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 145223,
@@ -2099,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133209,
-      "num": 133209,
-      "word": "赵丽颖台词力量感",
-      "onboard_time": 1755866306,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 133178,
       "num": 98610,
       "word": "王曼昱vs桥本帆乃香",
@@ -2251,12 +2283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123788,
-      "num": 123788,
-      "word": "AG对战狼队",
-      "onboard_time": 1755862645,
-      "rank": 31,
-      "category": "电竞"
+      "raw_hot": 123748,
+      "num": 123748,
+      "word": "姜涛跳了鹿晗的歌",
+      "onboard_time": 1755867625,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 123561,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1755833366,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121005,
+      "num": 137771,
+      "word": "吉利银河A7上市14天交付破万",
+      "onboard_time": 1755867147,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 120479,
@@ -2371,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115921,
+      "num": 115921,
+      "word": "生万物",
+      "onboard_time": 1755863967,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115861,
       "num": 115861,
       "word": "迪丽热巴拍摄日",
@@ -2443,20 +2491,20 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 113427,
-      "num": 113427,
-      "word": "鹿晗递话筒",
-      "onboard_time": 1755866546,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 112904,
       "num": 112904,
       "word": "无畏MVP",
       "onboard_time": 1755786925,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112504,
+      "num": 112504,
+      "word": "中方回应乌不需要中国提供安全保障",
+      "onboard_time": 1755852208,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112223,
@@ -2537,14 +2585,6 @@
       "onboard_time": 1755843204,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 106388,
-      "num": 106388,
-      "word": "中方回应乌不需要中国提供安全保障",
-      "onboard_time": 1755852208,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105943,
@@ -2651,14 +2691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 99408,
-      "num": 99408,
-      "word": "生万物",
-      "onboard_time": 1755863967,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99216,
       "num": 99216,
       "word": "安宰贤3比2张本智和",
@@ -2667,20 +2699,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98938,
-      "num": 98938,
-      "word": "冯建宇直播",
-      "onboard_time": 1755866786,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 98403,
       "num": 203715,
       "word": "关口勋眼中的日产出海潜力",
       "onboard_time": 1755846325,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 97669,
+      "num": 106463,
+      "word": "这哪是青梅竹马这是两颗魔丸",
+      "onboard_time": 1755864265,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 97178,
@@ -2692,7 +2724,7 @@
     },
     {
       "raw_hot": 97139,
-      "num": 97139,
+      "num": 106328,
       "word": "SM女团GeeGee相传",
       "onboard_time": 1755864144,
       "rank": 43,
@@ -2851,6 +2883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89799,
+      "num": 106402,
+      "word": "生万物封二去世",
+      "onboard_time": 1755867866,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88882,
       "num": 88882,
       "word": "无痛戒掉手机瘾的邪修办法",
@@ -2868,7 +2908,7 @@
     },
     {
       "raw_hot": 88370,
-      "num": 107006,
+      "num": 274245,
       "word": "文身狗主人被指虐待动物",
       "onboard_time": 1755866905,
       "rank": 36,
@@ -3484,7 +3524,7 @@
     },
     {
       "raw_hot": 29050,
-      "num": 99536,
+      "num": 106475,
       "word": "日本主妇的配偶者控除制",
       "onboard_time": 1755866965,
       "rank": 40,
@@ -3505,6 +3545,14 @@
       "onboard_time": 1755862105,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26493,
+      "num": 109257,
+      "word": "福建一煤矿7人死亡遇难者多为外地人",
+      "onboard_time": 1755867748,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25026,
@@ -3561,6 +3609,14 @@
       "onboard_time": 1755779662,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 20990,
+      "num": 106198,
+      "word": "Gulf空降Gucci门店",
+      "onboard_time": 1755867147,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 19056,
