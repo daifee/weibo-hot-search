@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1755861712344,
+  "endTime": 1755862634360,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1939,6 +1939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 4945993,
+      "num": 994348,
+      "word": "许凯照片",
+      "onboard_time": 1755860426,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4938738,
       "num": 3731564,
       "word": "金钟国官宣结婚",
@@ -2216,14 +2224,6 @@
       "word": "金秀贤发万字长文",
       "onboard_time": 1741923205,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4334380,
-      "num": 222434,
-      "word": "许凯照片",
-      "onboard_time": 1755860426,
-      "rank": 10,
       "category": "艺人"
     },
     {
