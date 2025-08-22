@@ -1,0 +1,410 @@
+{
+  "runTime": 1755837869752,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1513833,
+        "num": 1513833,
+        "word": "卿卿日常",
+        "onboard_time": 1755831206,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577893,
+        "num": 577893,
+        "word": "曝光乡政府人员缺岗当事人发声",
+        "onboard_time": 1755830964,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5373,
+        "num": 557480,
+        "word": "想快进到9月3日看阅兵",
+        "onboard_time": 1755764363,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11766045,
+        "num": 11766045,
+        "word": "许荔莎 22年因赵晴被拍和许凯分手",
+        "onboard_time": 1755826281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544113,
+        "num": 544113,
+        "word": "知情人称去世女孩家中墙上挂满奖状",
+        "onboard_time": 1755832406,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389707,
+        "num": 389707,
+        "word": "被清华教室的粉笔震惊到了",
+        "onboard_time": 1755832286,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 389448,
+        "num": 389448,
+        "word": "喜茶 饿了么",
+        "onboard_time": 1755836606,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 378531,
+        "num": 378531,
+        "word": "杨紫19岁就演出了养老剧",
+        "onboard_time": 1755834806,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355909,
+        "num": 355909,
+        "word": "邓超我跟热巴怎么这么有缘分",
+        "onboard_time": 1755831865,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333925,
+        "num": 333925,
+        "word": "新疆一河水退去留520米巨鲸图案",
+        "onboard_time": 1755835525,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10179390,
+        "num": 10179390,
+        "word": "许凯 赵晴",
+        "onboard_time": 1755827305,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1720392,
+        "num": 321425,
+        "word": "许荔莎 对不起子夜归",
+        "onboard_time": 1755835826,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1167324,
+        "num": 314252,
+        "word": "虞书欣替身发声",
+        "onboard_time": 1755832646,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880692,
+        "num": 303972,
+        "word": "胡雷资助女孩遗体在水池内发现",
+        "onboard_time": 1755833305,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639687,
+        "num": 290540,
+        "word": "大金 我的天要亮了吗",
+        "onboard_time": 1755835227,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290013,
+        "num": 290013,
+        "word": "瑞幸星穹铁道联名",
+        "onboard_time": 1755836906,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275086,
+        "num": 275086,
+        "word": "菲律宾2艘小艇蓄意碰瓷挑衅",
+        "onboard_time": 1755835105,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273154,
+        "num": 273154,
+        "word": "梁家辉 这么漂亮不应该这姿势抽烟",
+        "onboard_time": 1755835587,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237849,
+        "num": 237849,
+        "word": "邓超邀请将太郎录五哈",
+        "onboard_time": 1755836548,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228572,
+        "num": 228572,
+        "word": "虞书欣 一念江南",
+        "onboard_time": 1755784404,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222738,
+        "num": 222738,
+        "word": "孙俪领养独眼猫",
+        "onboard_time": 1755837089,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216428,
+        "num": 216428,
+        "word": "无限暖暖",
+        "onboard_time": 1755836667,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210475,
+        "num": 210475,
+        "word": "庆余年生万物 剧王剧后",
+        "onboard_time": 1755836006,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202933,
+        "num": 202933,
+        "word": "乡政府回应上班时间人员缺岗",
+        "onboard_time": 1755827786,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202825,
+        "num": 202825,
+        "word": "易烊千玺抢票",
+        "onboard_time": 1755837267,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201228,
+        "num": 201228,
+        "word": "苏醒说做爸爸他是苏行",
+        "onboard_time": 1755836726,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113241,
+        "num": 198650,
+        "word": "vivo让热爱有迹可循",
+        "onboard_time": 1755834208,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197553,
+        "num": 197553,
+        "word": "林彦俊芭莎",
+        "onboard_time": 1755832466,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 193156,
+        "num": 193156,
+        "word": "非遗黄金才是中式顶奢",
+        "onboard_time": 1755836726,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47085,
+        "num": 189097,
+        "word": "网约车平台集体降低抽成",
+        "onboard_time": 1755836487,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193657,
+        "num": 189073,
+        "word": "老破小住久了副作用就来了",
+        "onboard_time": 1755836306,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187615,
+        "num": 187615,
+        "word": "夜光剧本2.0",
+        "onboard_time": 1755837627,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186659,
+        "num": 186659,
+        "word": "无限暖暖送你十亩田",
+        "onboard_time": 1755837685,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185458,
+        "num": 185458,
+        "word": "民警找曝光者谈话家中老人被吓轻生",
+        "onboard_time": 1755833185,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181084,
+        "num": 181084,
+        "word": "女子40岁二胎得子随母姓丈夫后悔",
+        "onboard_time": 1755836788,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173941,
+        "num": 173941,
+        "word": "VOGUE",
+        "onboard_time": 1755837749,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 172560,
+        "num": 172560,
+        "word": "于正直播",
+        "onboard_time": 1755831325,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38933,
+        "num": 172170,
+        "word": "杀子案男子遗言曝光",
+        "onboard_time": 1755836788,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30123,
+        "num": 171685,
+        "word": "井柏然给刘雯点水",
+        "onboard_time": 1755837267,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89212,
+        "num": 170427,
+        "word": "8岁女孩溺亡家人起诉邻居索赔109万",
+        "onboard_time": 1755837267,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166294,
+        "num": 170134,
+        "word": "一瓯春",
+        "onboard_time": 1755832707,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161186,
+        "num": 168901,
+        "word": "长风少年词定档",
+        "onboard_time": 1755836606,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168560,
+        "num": 168560,
+        "word": "初中老师被调高中当事人发声",
+        "onboard_time": 1755832585,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160580,
+        "num": 160580,
+        "word": "尖扎黄河特大桥事故7人遇难9人失联",
+        "onboard_time": 1755825143,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159575,
+        "num": 159575,
+        "word": "生男生女的秘密",
+        "onboard_time": 1755832286,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 153045,
+        "num": 153045,
+        "word": "子夜归soso soso就不soso",
+        "onboard_time": 1755837807,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143876,
+        "num": 152495,
+        "word": "男孩疯狂充值网游竟因遭同学孤立",
+        "onboard_time": 1755836487,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152397,
+        "num": 152397,
+        "word": "方便面主理人",
+        "onboard_time": 1755835707,
+        "rank": 47,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 151741,
+        "num": 151741,
+        "word": "美人鱼现身南沙群岛",
+        "onboard_time": 1755820640,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151228,
+        "num": 151228,
+        "word": "库里再谈中国行感受",
+        "onboard_time": 1755837685,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记西藏之行难忘瞬间#"
+    }
+  }
+}

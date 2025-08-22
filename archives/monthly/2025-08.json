@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755837025802,
+  "endTime": 1755837869752,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1267,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1720392,
+      "num": 321425,
+      "word": "许荔莎 对不起子夜归",
+      "onboard_time": 1755835826,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1715921,
       "num": 1715921,
       "word": "者来女开口雷蒂娅",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1754630422,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1547815,
-      "num": 268634,
-      "word": "许荔莎 对不起子夜归",
-      "onboard_time": 1755835826,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1547106,
@@ -7843,6 +7843,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 639687,
+      "num": 290540,
+      "word": "大金 我的天要亮了吗",
+      "onboard_time": 1755835227,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639289,
       "num": 270928,
       "word": "刘浩存换回微商头像",
@@ -8512,14 +8520,6 @@
       "word": "红牛 王一博",
       "onboard_time": 1754622863,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 604489,
-      "num": 267841,
-      "word": "大金 我的天要亮了吗",
-      "onboard_time": 1755835227,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -9763,6 +9763,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 544113,
+      "num": 544113,
+      "word": "知情人称去世女孩家中墙上挂满奖状",
+      "onboard_time": 1755832406,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 543848,
       "num": 346624,
       "word": "东极岛",
@@ -10632,14 +10640,6 @@
       "word": "火车学生票新优惠",
       "onboard_time": 1755236961,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 499925,
-      "num": 499925,
-      "word": "知情人称去世女孩家中墙上挂满奖状",
-      "onboard_time": 1755832406,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -13771,6 +13771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389448,
+      "num": 389448,
+      "word": "喜茶 饿了么",
+      "onboard_time": 1755836606,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 389139,
       "num": 373739,
       "word": "方圆脸瘦20斤变化",
@@ -14233,6 +14241,14 @@
       "onboard_time": 1755763344,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 378531,
+      "num": 378531,
+      "word": "杨紫19岁就演出了养老剧",
+      "onboard_time": 1755834806,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 378448,
@@ -14715,14 +14731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364486,
-      "num": 364486,
-      "word": "杨紫19岁就演出了养老剧",
-      "onboard_time": 1755834806,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 364251,
       "num": 364251,
       "word": "虞书欣这个比例绝了",
@@ -15089,14 +15097,6 @@
       "onboard_time": 1754662645,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 354039,
-      "num": 354039,
-      "word": "喜茶 饿了么",
-      "onboard_time": 1755836606,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 353775,
@@ -15727,6 +15727,14 @@
       "num": 333929,
       "word": "三亚海事局回应男子海上漂流6天",
       "onboard_time": 1755653782,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333925,
+      "num": 333925,
+      "word": "新疆一河水退去留520米巨鲸图案",
+      "onboard_time": 1755835525,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -16700,7 +16708,7 @@
     },
     {
       "raw_hot": 313639,
-      "num": 268432,
+      "num": 275086,
       "word": "菲律宾2艘小艇蓄意碰瓷挑衅",
       "onboard_time": 1755835105,
       "rank": 12,
@@ -17843,6 +17851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 290013,
+      "num": 290013,
+      "word": "瑞幸星穹铁道联名",
+      "onboard_time": 1755836906,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289598,
       "num": 289598,
       "word": "iPhone17Pro四大升级",
@@ -18707,6 +18723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 273154,
+      "num": 273154,
+      "word": "梁家辉 这么漂亮不应该这姿势抽烟",
+      "onboard_time": 1755835587,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 273136,
       "num": 971523,
       "word": "上半年国内居民出游人次32.85亿",
@@ -18985,14 +19009,6 @@
       "onboard_time": 1754848156,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 268926,
-      "num": 268926,
-      "word": "新疆一河水退去留520米巨鲸图案",
-      "onboard_time": 1755835525,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268836,
@@ -19321,14 +19337,6 @@
       "onboard_time": 1754992283,
       "rank": 21,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 263925,
-      "num": 263925,
-      "word": "梁家辉 这么漂亮不应该这姿势抽烟",
-      "onboard_time": 1755835587,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 263898,
@@ -21083,6 +21091,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 237849,
+      "num": 237849,
+      "word": "邓超邀请将太郎录五哈",
+      "onboard_time": 1755836548,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237809,
       "num": 237809,
       "word": "李思思 高级东方美",
@@ -22467,20 +22483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222738,
+      "num": 222738,
+      "word": "孙俪领养独眼猫",
+      "onboard_time": 1755837089,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222715,
       "num": 333831,
       "word": "给奶奶点了将近一年的早餐",
       "onboard_time": 1754131342,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222703,
-      "num": 222703,
-      "word": "瑞幸星穹铁道联名",
-      "onboard_time": 1755836906,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 222691,
@@ -23081,6 +23097,14 @@
       "onboard_time": 1755313461,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216428,
+      "num": 216428,
+      "word": "无限暖暖",
+      "onboard_time": 1755836667,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 216411,
@@ -23801,6 +23825,14 @@
       "onboard_time": 1754882181,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210475,
+      "num": 210475,
+      "word": "庆余年生万物 剧王剧后",
+      "onboard_time": 1755836006,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 210462,
@@ -25707,6 +25739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201228,
+      "num": 201228,
+      "word": "苏醒说做爸爸他是苏行",
+      "onboard_time": 1755836726,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201204,
       "num": 186126,
       "word": "我的阿勒泰真的拍保守了",
@@ -26425,14 +26465,6 @@
       "onboard_time": 1755070341,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198122,
-      "num": 198122,
-      "word": "邓超邀请将太郎录五哈",
-      "onboard_time": 1755836548,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 198121,
@@ -27379,14 +27411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195058,
-      "num": 195058,
-      "word": "无限暖暖",
-      "onboard_time": 1755836667,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 195052,
       "num": 195052,
       "word": "民警找曝光者谈话家中老人被吓轻生",
@@ -27745,6 +27769,14 @@
       "onboard_time": 1755056122,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193657,
+      "num": 189073,
+      "word": "老破小住久了副作用就来了",
+      "onboard_time": 1755836306,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 193651,
@@ -29243,6 +29275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187615,
+      "num": 187615,
+      "word": "夜光剧本2.0",
+      "onboard_time": 1755837627,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187559,
       "num": 187559,
       "word": "宋昕冉cos王昭君",
@@ -29409,6 +29449,14 @@
       "onboard_time": 1755313221,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186659,
+      "num": 186659,
+      "word": "无限暖暖送你十亩田",
+      "onboard_time": 1755837685,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 186635,
@@ -30723,6 +30771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181084,
+      "num": 181084,
+      "word": "女子40岁二胎得子随母姓丈夫后悔",
+      "onboard_time": 1755836788,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181067,
       "num": 181067,
       "word": "易烊千玺言出必行这一块",
@@ -30913,14 +30969,6 @@
       "onboard_time": 1755264443,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180295,
-      "num": 180295,
-      "word": "庆余年生万物 剧王剧后",
-      "onboard_time": 1755836006,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 180219,
@@ -31177,14 +31225,6 @@
       "onboard_time": 1754381906,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178951,
-      "num": 178951,
-      "word": "老破小住久了副作用就来了",
-      "onboard_time": 1755836306,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 178946,
@@ -32457,6 +32497,14 @@
       "onboard_time": 1755406942,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 173941,
+      "num": 173941,
+      "word": "VOGUE",
+      "onboard_time": 1755837749,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 173910,
@@ -33899,6 +33947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168560,
+      "num": 168560,
+      "word": "初中老师被调高中当事人发声",
+      "onboard_time": 1755832585,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168473,
       "num": 191303,
       "word": "中方将欧盟两家银行列入反制清单",
@@ -34417,14 +34473,6 @@
       "onboard_time": 1755783744,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166287,
-      "num": 166287,
-      "word": "初中老师被调高中当事人发声",
-      "onboard_time": 1755832585,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166273,
@@ -35484,7 +35532,7 @@
     },
     {
       "raw_hot": 162395,
-      "num": 195058,
+      "num": 198650,
       "word": "vivo让热爱有迹可循",
       "onboard_time": 1755834208,
       "rank": 27,
@@ -38499,6 +38547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153045,
+      "num": 153045,
+      "word": "子夜归soso soso就不soso",
+      "onboard_time": 1755837807,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153038,
       "num": 153038,
       "word": "那英宋佳现身东极岛首映礼",
@@ -38737,14 +38793,6 @@
       "onboard_time": 1754102001,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152332,
-      "num": 152332,
-      "word": "苏醒说做爸爸他是苏行",
-      "onboard_time": 1755836726,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 152295,
@@ -39105,6 +39153,14 @@
       "onboard_time": 1755240201,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151228,
+      "num": 151228,
+      "word": "库里再谈中国行感受",
+      "onboard_time": 1755837685,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 151220,
@@ -62651,6 +62707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 89212,
+      "num": 170427,
+      "word": "8岁女孩溺亡家人起诉邻居索赔109万",
+      "onboard_time": 1755837267,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89205,
       "num": 282649,
       "word": "我国载人月球探测又有新突破",
@@ -69219,6 +69283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47085,
+      "num": 195053,
+      "word": "网约车平台集体降低抽成",
+      "onboard_time": 1755836487,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47077,
       "num": 171502,
       "word": "当地回应高峰禁止老年人免费乘车",
@@ -70747,6 +70819,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 38933,
+      "num": 172962,
+      "word": "杀子案男子遗言曝光",
+      "onboard_time": 1755836788,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38871,
       "num": 162661,
       "word": "官方辟谣老人未去世被要求火化",
@@ -71201,14 +71281,6 @@
       "onboard_time": 1754339355,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36368,
-      "num": 195053,
-      "word": "网约车平台集体降低抽成",
-      "onboard_time": 1755836487,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36206,
@@ -71787,14 +71859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32778,
-      "num": 172962,
-      "word": "杀子案男子遗言曝光",
-      "onboard_time": 1755836788,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32751,
       "num": 108916,
       "word": "19岁女生遭杀害景区门口无安检",
@@ -72193,6 +72257,14 @@
       "onboard_time": 1755694345,
       "rank": 43,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 30123,
+      "num": 171685,
+      "word": "井柏然给刘雯点水",
+      "onboard_time": 1755837267,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 30103,
