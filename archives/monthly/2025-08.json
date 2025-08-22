@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755883405358,
+  "endTime": 1755884466418,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -7499,6 +7499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 673272,
+      "num": 174684,
+      "word": "许凯 已报警",
+      "onboard_time": 1755883159,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672799,
       "num": 405595,
       "word": "任重孙骁骁带孩子逛商场",
@@ -9361,14 +9369,6 @@
       "onboard_time": 1754811620,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 571817,
-      "num": 174684,
-      "word": "许凯 已报警",
-      "onboard_time": 1755883159,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 571698,
@@ -64195,6 +64195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91898,
+      "num": 171068,
+      "word": "官方再回应非婚生育申领育儿补贴",
+      "onboard_time": 1755880344,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91825,
       "num": 305091,
       "word": "iQOO手机8000mAh电池比平板还大",
@@ -67531,14 +67539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73971,
-      "num": 171068,
-      "word": "官方再回应非婚生育申领育儿补贴",
-      "onboard_time": 1755880344,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73870,
       "num": 87242,
       "word": "杨迪第一次以这种方式上央视新闻",
@@ -67569,6 +67569,14 @@
       "onboard_time": 1754321184,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73569,
+      "num": 169056,
+      "word": "一年级pd对虞书欣的评价",
+      "onboard_time": 1755882621,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 73564,
@@ -70915,14 +70923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51477,
-      "num": 169056,
-      "word": "一年级pd对虞书欣的评价",
-      "onboard_time": 1755882621,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51474,
       "num": 51474,
       "word": "王铮亮北京演唱会台下好多明星",
@@ -73907,6 +73907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35104,
+      "num": 118950,
+      "word": "邱鼎杰抱猫九宫格",
+      "onboard_time": 1755884420,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35049,
       "num": 119861,
       "word": "200平大堂被业主砌砖墙现已拆除",
@@ -73921,6 +73929,14 @@
       "onboard_time": 1753965324,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34969,
+      "num": 118844,
+      "word": "张泽禹渔夫帽自拍",
+      "onboard_time": 1755884238,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 34964,

@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755883405358,
+  "endTime": 1755884466418,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -2051,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 673272,
+      "num": 174684,
+      "word": "许凯 已报警",
+      "onboard_time": 1755883159,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670143,
       "num": 242403,
       "word": "孙一宁因喝酒进医院",
@@ -2496,14 +2504,6 @@
       "word": "翟潇闻 不用了吧",
       "onboard_time": 1755614067,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 571817,
-      "num": 174684,
-      "word": "许凯 已报警",
-      "onboard_time": 1755883159,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -18515,6 +18515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91898,
+      "num": 171068,
+      "word": "官方再回应非婚生育申领育儿补贴",
+      "onboard_time": 1755880344,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91707,
       "num": 91707,
       "word": "胡明轩半场15分",
@@ -19715,12 +19723,12 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 73971,
-      "num": 171068,
-      "word": "官方再回应非婚生育申领育儿补贴",
-      "onboard_time": 1755880344,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 73569,
+      "num": 169056,
+      "word": "一年级pd对虞书欣的评价",
+      "onboard_time": 1755882621,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 73359,
@@ -20777,14 +20785,6 @@
       "onboard_time": 1755790342,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 51477,
-      "num": 169056,
-      "word": "一年级pd对虞书欣的评价",
-      "onboard_time": 1755882621,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 51357,
@@ -21899,12 +21899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35104,
+      "num": 118950,
+      "word": "邱鼎杰抱猫九宫格",
+      "onboard_time": 1755884420,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35049,
       "num": 119861,
       "word": "200平大堂被业主砌砖墙现已拆除",
       "onboard_time": 1755419483,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34969,
+      "num": 118844,
+      "word": "张泽禹渔夫帽自拍",
+      "onboard_time": 1755884238,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 34378,
