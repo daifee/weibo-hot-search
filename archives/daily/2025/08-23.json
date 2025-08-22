@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755880328318,
+  "endTime": 1755881202206,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -11,19 +11,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1179121,
+      "num": 394173,
+      "word": "禹宙中欣",
+      "onboard_time": 1755874766,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1133524,
       "num": 394620,
       "word": "许荔莎 我以后缠着于正了",
       "onboard_time": 1755869006,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1056769,
-      "num": 394173,
-      "word": "禹宙中欣",
-      "onboard_time": 1755874766,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 679603,
+      "num": 834493,
+      "word": "知情人回应女生军训身亡",
+      "onboard_time": 1755877406,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 600489,
       "num": 257602,
       "word": "许荔莎 22年许凯把我绿了",
@@ -57,14 +65,6 @@
       "onboard_time": 1755851006,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 475890,
-      "num": 834493,
-      "word": "知情人回应女生军训身亡",
-      "onboard_time": 1755877406,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 470677,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 461676,
-      "num": 348124,
+      "num": 720577,
       "word": "费家嫂子疯了",
       "onboard_time": 1755876207,
       "rank": 6,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166033,
+      "num": 149875,
+      "word": "叠纸一年内两个项目获国际大奖",
+      "onboard_time": 1755881184,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153271,
       "num": 240710,
       "word": "迪丽热巴黑蕾丝短裙",
@@ -185,6 +193,14 @@
       "onboard_time": 1755877765,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 142386,
+      "num": 239442,
+      "word": "高迪 大美",
+      "onboard_time": 1755880163,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 135683,
@@ -267,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87669,
+      "num": 239723,
+      "word": "孙颖莎和王曼昱的默契",
+      "onboard_time": 1755879802,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85438,
       "num": 239620,
       "word": "aespa炸场",
       "onboard_time": 1755873866,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83423,
+      "num": 240704,
+      "word": "孙颖莎一天双赛都晋级了",
+      "onboard_time": 1755876748,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 82736,
@@ -283,22 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78262,
-      "num": 239442,
-      "word": "高迪 大美",
-      "onboard_time": 1755880163,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 75315,
-      "num": 240704,
-      "word": "孙颖莎一天双赛都晋级了",
-      "onboard_time": 1755876748,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74445,
       "num": 239330,
       "word": "AG对战狼队",
@@ -307,7 +323,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 72088,
+      "raw_hot": 72422,
       "num": 239292,
       "word": "为躲日军护村民邓玉芬失手捂死幼子",
       "onboard_time": 1755876926,
@@ -328,14 +344,6 @@
       "word": "孙颖莎王曼昱晋级女双决赛",
       "onboard_time": 1755875547,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 71090,
-      "num": 239723,
-      "word": "孙颖莎和王曼昱的默契",
-      "onboard_time": 1755879802,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68786,
+      "num": 148606,
+      "word": "优秀的人把这3样东西置顶",
+      "onboard_time": 1755878485,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66496,
       "num": 239010,
       "word": "女性向游戏首获科隆展最佳手游奖",
@@ -387,6 +403,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56655,
+      "num": 148458,
+      "word": "孙颖莎说要一分一分拼",
+      "onboard_time": 1755880643,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53264,
+      "num": 148429,
+      "word": "aespa全员中文获奖感言",
+      "onboard_time": 1755863786,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 48297,
+      "num": 152347,
+      "word": "官方再回应非婚生育申领育儿补贴",
+      "onboard_time": 1755880344,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34093,
       "num": 239807,
       "word": "男子开错路救下走上高速的女童",
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#浇好团结花结出幸福果#"
+    },
+    {
+      "word": "#上合组织天津峰会#"
     }
   ]
 }
