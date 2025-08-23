@@ -1,0 +1,410 @@
+{
+  "runTime": 1755918496874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 853879,
+        "num": 1136620,
+        "word": "张维伊好感败光了",
+        "onboard_time": 1755914182,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424308,
+        "num": 424308,
+        "word": "申请国赔1911万77岁老人发声",
+        "onboard_time": 1755909863,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2354,
+        "num": 416221,
+        "word": "这张办公桌见证抗战胜利时刻",
+        "onboard_time": 1755809414,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1781163,
+        "num": 387192,
+        "word": "裸睡被看光女子患抑郁丈夫追责公寓",
+        "onboard_time": 1755916822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1030125,
+        "num": 381491,
+        "word": "董璇经纪人没招了",
+        "onboard_time": 1755909742,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551895,
+        "num": 353618,
+        "word": "韩国女孩新疆买切糕花了346元",
+        "onboard_time": 1755914843,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664009,
+        "num": 337711,
+        "word": "花少7录制结束哭成一片",
+        "onboard_time": 1755908483,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329377,
+        "num": 329377,
+        "word": "女子的馄饨店开了三个月正式倒闭",
+        "onboard_time": 1755909624,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207094,
+        "num": 328149,
+        "word": "第四代住宅",
+        "onboard_time": 1755910102,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597000,
+        "num": 327042,
+        "word": "董璇 张维伊",
+        "onboard_time": 1755917302,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1642845,
+        "num": 325457,
+        "word": "何晟铭手滑",
+        "onboard_time": 1755914123,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442507,
+        "num": 325023,
+        "word": "女子怀疑遭性骚扰起冲突后被砸伤",
+        "onboard_time": 1755914363,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369210,
+        "num": 323539,
+        "word": "12306回应王源演唱会加开车次",
+        "onboard_time": 1755910762,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 322352,
+        "num": 322352,
+        "word": "陈数回应张晚意偷学自己护肤",
+        "onboard_time": 1755911601,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317246,
+        "num": 317246,
+        "word": "虞书欣",
+        "onboard_time": 1755851606,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234199,
+        "num": 234199,
+        "word": "八旬网红徐姥姥被蜱虫咬伤住进ICU",
+        "onboard_time": 1755910522,
+        "rank": 15,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 231032,
+        "num": 231032,
+        "word": "王安宇不吃水里的 胡夏不吃天上的",
+        "onboard_time": 1755917722,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178691,
+        "num": 229115,
+        "word": "淘宝闪购",
+        "onboard_time": 1755917182,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227912,
+        "num": 227912,
+        "word": "胖东来招聘 进不去",
+        "onboard_time": 1755917002,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85998,
+        "num": 226620,
+        "word": "今天处暑了",
+        "onboard_time": 1755913583,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534678,
+        "num": 222381,
+        "word": "许荔莎 我以后缠着于正了",
+        "onboard_time": 1755869006,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325946,
+        "num": 215626,
+        "word": "何晟铭赠白月光",
+        "onboard_time": 1755917482,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406380,
+        "num": 206958,
+        "word": "35岁男子患无精症被妻子下最后通牒",
+        "onboard_time": 1755908420,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385427,
+        "num": 206585,
+        "word": "女子遭性侵后杀餐馆店主怨其未阻止",
+        "onboard_time": 1755908301,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 343668,
+        "num": 198891,
+        "word": "月经期真正不能做的10件事",
+        "onboard_time": 1755915743,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23333,
+        "num": 192678,
+        "word": "百年碉楼平移300米给高速让路",
+        "onboard_time": 1755918142,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260839,
+        "num": 189364,
+        "word": "建议大家网购的衣服不要直接试穿",
+        "onboard_time": 1755916644,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185534,
+        "num": 185534,
+        "word": "阅兵一个方队共用一个脚步声",
+        "onboard_time": 1755908121,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175974,
+        "num": 175974,
+        "word": "沈腾叫范丞丞儿子",
+        "onboard_time": 1755917062,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42724,
+        "num": 168343,
+        "word": "外卖小哥在电动车挂20元喊话别偷餐",
+        "onboard_time": 1755918081,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164684,
+        "num": 164684,
+        "word": "新加坡小学生霸凌他人被执行鞭刑",
+        "onboard_time": 1755909863,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161812,
+        "num": 161812,
+        "word": "丁禹兮素颜吃播",
+        "onboard_time": 1755906140,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160178,
+        "num": 160178,
+        "word": "电影千金不换定档",
+        "onboard_time": 1755918081,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155442,
+        "num": 155442,
+        "word": "班主任给多名女生发不雅信息被拘",
+        "onboard_time": 1755917062,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155062,
+        "num": 155062,
+        "word": "有3个特点的人更易出轨",
+        "onboard_time": 1755908182,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149432,
+        "num": 149432,
+        "word": "易烊千玺演唱会的含石量还在上升",
+        "onboard_time": 1755918443,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148641,
+        "num": 148641,
+        "word": "禹宙中欣",
+        "onboard_time": 1755874766,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145761,
+        "num": 145761,
+        "word": "CPA",
+        "onboard_time": 1755913522,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26027,
+        "num": 145655,
+        "word": "当地回应省保单位花近300万搬家",
+        "onboard_time": 1755918081,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78015,
+        "num": 145607,
+        "word": "乡村超市发现十多年前的顶流",
+        "onboard_time": 1755918264,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145574,
+        "num": 145574,
+        "word": "处暑是盛夏的句号",
+        "onboard_time": 1755910043,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138638,
+        "num": 138638,
+        "word": "盗版孤注一掷荷官永远在发牌",
+        "onboard_time": 1755917242,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130821,
+        "num": 130821,
+        "word": "高迪 大美",
+        "onboard_time": 1755880163,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130209,
+        "num": 130209,
+        "word": "绝区零",
+        "onboard_time": 1755917482,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122276,
+        "num": 122276,
+        "word": "广州迎本世纪以来最冷8月",
+        "onboard_time": 1755917482,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121589,
+        "num": 121589,
+        "word": "上海孤老500万遗产继承人找到了",
+        "onboard_time": 1755917002,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111492,
+        "num": 111492,
+        "word": "男子掌掴把脚放到他面前的女子",
+        "onboard_time": 1755908602,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106603,
+        "num": 106603,
+        "word": "男子打胰岛素1个月发现针套都没摘",
+        "onboard_time": 1755870806,
+        "rank": 47,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 93885,
+        "num": 106177,
+        "word": "科比47岁生日",
+        "onboard_time": 1755915141,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106054,
+        "num": 106054,
+        "word": "柯淳尴尬到一把抱住张颜齐周震南",
+        "onboard_time": 1755913702,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#上合组织天津峰会#"
+    }
+  }
+}
