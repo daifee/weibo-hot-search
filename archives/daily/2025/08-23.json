@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755924198135,
+  "endTime": 1755926638757,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -17,6 +17,14 @@
       "onboard_time": 1755916822,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2409566,
+      "num": 229079,
+      "word": "于正遇到了两个魔丸",
+      "onboard_time": 1755926064,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1934303,
@@ -41,6 +49,14 @@
       "onboard_time": 1755922643,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1521928,
+      "num": 384791,
+      "word": "商场试吃女",
+      "onboard_time": 1755922585,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1399107,
@@ -99,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 969994,
+      "num": 214376,
+      "word": "许凯恋情事件全盘梳理",
+      "onboard_time": 1755926064,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 853879,
       "num": 1136620,
       "word": "张维伊好感败光了",
@@ -140,19 +164,11 @@
     },
     {
       "raw_hot": 673108,
-      "num": 673108,
+      "num": 1066958,
       "word": "淘宝闪购",
       "onboard_time": 1755917182,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 663140,
-      "num": 384791,
-      "word": "商场试吃女",
-      "onboard_time": 1755922585,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 659684,
@@ -217,6 +233,14 @@
       "onboard_time": 1755910522,
       "rank": 6,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 545351,
+      "num": 198633,
+      "word": "张维伊回应二胎争议",
+      "onboard_time": 1755925402,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 520241,
@@ -315,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 373906,
+      "num": 192110,
+      "word": "在温哥华偶遇王一博了",
+      "onboard_time": 1755924682,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370792,
       "num": 199968,
       "word": "月经期真正不能做的10件事",
@@ -329,6 +361,22 @@
       "onboard_time": 1755910762,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 353854,
+      "num": 353854,
+      "word": "关晓彤李昀锐耀眼杀青图",
+      "onboard_time": 1755922585,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 344875,
+      "num": 195470,
+      "word": "为啥香芋味的东西全都没了",
+      "onboard_time": 1755923063,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 329256,
@@ -355,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313094,
+      "num": 313094,
+      "word": "2市向死亡人员发放养老保险241万",
+      "onboard_time": 1755923844,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288460,
       "num": 288460,
       "word": "被丈夫推下悬崖的妻子决定复仇",
@@ -371,20 +427,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272998,
+      "num": 272998,
+      "word": "早知道董璇这么好追",
+      "onboard_time": 1755924563,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260839,
       "num": 195811,
       "word": "建议大家网购的衣服不要直接试穿",
       "onboard_time": 1755916644,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 254012,
-      "num": 254012,
-      "word": "关晓彤李昀锐耀眼杀青图",
-      "onboard_time": 1755922585,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 252519,
@@ -417,6 +473,14 @@
       "onboard_time": 1755880163,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 243700,
+      "num": 178753,
+      "word": "迪丽热巴要公主抱陈星旭",
+      "onboard_time": 1755926003,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 241021,
@@ -531,14 +595,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 195470,
-      "num": 195470,
-      "word": "为啥香芋味的东西全都没了",
-      "onboard_time": 1755923063,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 195404,
       "num": 195404,
       "word": "吴京关注陈丽君",
@@ -577,6 +633,14 @@
       "onboard_time": 1755908182,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179313,
+      "num": 167390,
+      "word": "泡泡玛特星星人热度反超LABUBU",
+      "onboard_time": 1755925164,
+      "rank": 24,
+      "category": "休闲"
     },
     {
       "raw_hot": 178629,
@@ -643,6 +707,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167044,
+      "num": 167044,
+      "word": "那英被猴子薅头发",
+      "onboard_time": 1755925463,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166576,
+      "num": 166576,
+      "word": "登陆少年长得不基础写字更不基础",
+      "onboard_time": 1755924801,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166033,
       "num": 171647,
       "word": "叠纸一年内两个项目获国际大奖",
@@ -683,11 +763,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159586,
+      "num": 159586,
+      "word": "车窗 你还我严浩翔",
+      "onboard_time": 1755925824,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155442,
       "num": 155442,
       "word": "班主任给多名女生发不雅信息被拘",
       "onboard_time": 1755917062,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154943,
+      "num": 154943,
+      "word": "女子为省5块钱肩膀硬扛70公斤道闸",
+      "onboard_time": 1755925523,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -715,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148845,
+      "num": 160829,
+      "word": "今日迎处暑",
+      "onboard_time": 1755924624,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148008,
       "num": 148008,
       "word": "孙颖莎脸蛋基础肌肉就不基础",
@@ -729,6 +833,14 @@
       "onboard_time": 1755919163,
       "rank": 37,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 145726,
+      "num": 145726,
+      "word": "终于不是看一部剧爱一个男主了",
+      "onboard_time": 1755924801,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145683,
@@ -795,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137774,
+      "num": 137774,
+      "word": "杨幂听到爆剧女王的反应",
+      "onboard_time": 1755924142,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135683,
       "num": 240454,
       "word": "鹿晗黄子韬唱了敏感",
@@ -816,6 +936,14 @@
       "word": "裸辞不上班5个月的真实感受",
       "onboard_time": 1755875608,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132270,
+      "num": 132270,
+      "word": "朋友突然去世将是一生的潮湿",
+      "onboard_time": 1755925824,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -843,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125987,
+      "num": 125987,
+      "word": "张维伊称让大家吐槽一下也挺好",
+      "onboard_time": 1755924744,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125879,
       "num": 240285,
       "word": "生万物封二去世",
@@ -857,6 +993,14 @@
       "onboard_time": 1755918264,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125239,
+      "num": 125239,
+      "word": "JYP一顶胯TIMA就切镜头",
+      "onboard_time": 1755926423,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 124268,
@@ -899,12 +1043,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116503,
-      "num": 116503,
+      "raw_hot": 117547,
+      "num": 117547,
       "word": "王继业脱友2退赛",
       "onboard_time": 1755923904,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116896,
+      "num": 116896,
+      "word": "凡人修仙传157",
+      "onboard_time": 1755923363,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 116086,
@@ -947,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113816,
+      "num": 160826,
+      "word": "上海有房东出租4年只能赚回装修钱",
+      "onboard_time": 1755924984,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110993,
       "num": 153825,
       "word": "秋天的美景跑步赶来了",
@@ -961,14 +1121,6 @@
       "onboard_time": 1755920244,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 110347,
-      "num": 110347,
-      "word": "凡人修仙传157",
-      "onboard_time": 1755923363,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 108172,
@@ -1003,14 +1155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 104607,
-      "num": 104607,
-      "word": "杨幂听到爆剧女王的反应",
-      "onboard_time": 1755924142,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104173,
       "num": 239955,
       "word": "官方通报女子称幼时遭父母砍手割耳",
@@ -1025,6 +1169,22 @@
       "onboard_time": 1755924083,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100863,
+      "num": 100863,
+      "word": "高伟光角色查重率为0",
+      "onboard_time": 1755924203,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99823,
+      "num": 99823,
+      "word": "每餐少吃一口坚持半年后的变化",
+      "onboard_time": 1755926543,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 99494,
@@ -1243,11 +1403,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73893,
+      "num": 133315,
+      "word": "东方甄选董宇辉分手费披露终结版",
+      "onboard_time": 1755926603,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73540,
       "num": 190839,
       "word": "外卖小哥在电动车挂20元喊话别偷餐",
       "onboard_time": 1755918081,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72368,
+      "num": 319554,
+      "word": "山西网警第一次集中收网抓获近百人",
+      "onboard_time": 1755925883,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1337,6 +1513,14 @@
       "onboard_time": 1755880643,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61957,
+      "num": 237707,
+      "word": "被错误羁押17年男子要求追责",
+      "onboard_time": 1755925281,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61838,
