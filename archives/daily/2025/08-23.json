@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755927635688,
+  "endTime": 1755930882484,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1087923,
+      "num": 1174067,
+      "word": "张维伊回应二胎争议",
+      "onboard_time": 1755925402,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1030125,
       "num": 570993,
       "word": "董璇经纪人没招了",
@@ -131,20 +139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 837171,
-      "num": 1133947,
-      "word": "张维伊回应二胎争议",
-      "onboard_time": 1755925402,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 771610,
       "num": 1120376,
       "word": "申请国赔1911万77岁老人发声",
       "onboard_time": 1755909863,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 712047,
+      "num": 350989,
+      "word": "展轩 卡姿兰",
+      "onboard_time": 1755927203,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 699674,
@@ -259,6 +267,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497635,
+      "num": 177530,
+      "word": "许荔莎询问许凯家暴真假",
+      "onboard_time": 1755928343,
+      "rank": 12,
+      "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 497292,
+      "num": 294453,
+      "word": "倪萍想借钱给万千惠填补一千万",
+      "onboard_time": 1755928222,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 476490,
+      "num": 414092,
+      "word": "早知道董璇这么好追",
+      "onboard_time": 1755924563,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476237,
       "num": 476237,
       "word": "胖东来招聘 进不去",
@@ -313,14 +345,6 @@
       "onboard_time": 1755914363,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 414092,
-      "num": 414092,
-      "word": "早知道董璇这么好追",
-      "onboard_time": 1755924563,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 409865,
@@ -379,6 +403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 369431,
+      "num": 369431,
+      "word": "姐弟恋为什么越来越多了",
+      "onboard_time": 1755927323,
+      "rank": 36,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 369210,
       "num": 323539,
       "word": "12306回应王源演唱会加开车次",
@@ -395,8 +427,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 335119,
-      "num": 335119,
+      "raw_hot": 343334,
+      "num": 343334,
       "word": "2市向死亡人员发放养老保险241万",
       "onboard_time": 1755923844,
       "rank": 5,
@@ -441,6 +473,14 @@
       "onboard_time": 1755919283,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272087,
+      "num": 176212,
+      "word": "月薪一万offer四千Worker三千Joker",
+      "onboard_time": 1755927683,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 260839,
@@ -499,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237777,
+      "num": 237777,
+      "word": "胖东来新店本科学历保洁岗已招满",
+      "onboard_time": 1755927982,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232076,
       "num": 232076,
       "word": "男子掌掴把脚放到他面前的女子",
@@ -521,6 +569,14 @@
       "onboard_time": 1755923002,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225376,
+      "num": 175134,
+      "word": "迪丽热巴家人们觉得我今晚可以成团吗",
+      "onboard_time": 1755927923,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 223108,
@@ -547,20 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211879,
-      "num": 211879,
-      "word": "展轩 卡姿兰",
-      "onboard_time": 1755927203,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210993,
       "num": 240799,
       "word": "军训身亡女生家属等尸检结果",
       "onboard_time": 1755875008,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209800,
+      "num": 175345,
+      "word": "张伦硕也没叫考拉拉子",
+      "onboard_time": 1755930085,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 204406,
@@ -689,6 +745,14 @@
       "onboard_time": 1755917062,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174044,
+      "num": 174044,
+      "word": "存款到10万是什么体验",
+      "onboard_time": 1755929063,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 173358,
@@ -907,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138801,
+      "num": 138801,
+      "word": "乔杉晒一家四口合照官宣三胎",
+      "onboard_time": 1755929781,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138686,
       "num": 141430,
       "word": "原来孩子看到了更纯粹的浪浪山",
@@ -961,14 +1033,6 @@
       "onboard_time": 1755925824,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131563,
-      "num": 131563,
-      "word": "姐弟恋为什么越来越多了",
-      "onboard_time": 1755927323,
-      "rank": 36,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 129599,
@@ -1035,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122213,
+      "num": 122213,
+      "word": "最大规模军乐团将亮相",
+      "onboard_time": 1755928643,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121750,
       "num": 152564,
       "word": "热巴跟跳",
@@ -1049,6 +1121,22 @@
       "onboard_time": 1755917002,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121376,
+      "num": 121376,
+      "word": "谁能把欧阳娣娣电池扣了",
+      "onboard_time": 1755930502,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120418,
+      "num": 120418,
+      "word": "上一秒强制爱下一秒生理性喜欢",
+      "onboard_time": 1755929423,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 120306,
@@ -1259,12 +1347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98152,
+      "num": 98152,
+      "word": "花少 和谐",
+      "onboard_time": 1755928222,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97419,
       "num": 239867,
       "word": "敖瑞鹏 带你们真沉浸式漂流一下",
       "onboard_time": 1755870747,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95025,
+      "num": 95025,
+      "word": "顾客写差评被商家诅咒得癌很灵的",
+      "onboard_time": 1755929004,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93885,
@@ -1307,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89068,
+      "num": 89068,
+      "word": "杨蒙恩 脱口秀和亲大使",
+      "onboard_time": 1755928884,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88624,
       "num": 116399,
       "word": "东风集团股份拟私有化退市",
@@ -1321,6 +1433,22 @@
       "onboard_time": 1755922103,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 86278,
+      "num": 140124,
+      "word": "女子遭抢劫强奸后嫌犯却未被批捕",
+      "onboard_time": 1755927144,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86100,
+      "num": 86100,
+      "word": "台湾网红馆长街头激情演讲",
+      "onboard_time": 1755927144,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85998,
@@ -1345,6 +1473,14 @@
       "onboard_time": 1755873866,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84379,
+      "num": 84379,
+      "word": "KPL夏季赛决赛",
+      "onboard_time": 1755930803,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 83668,
@@ -1377,6 +1513,22 @@
       "onboard_time": 1755919283,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 82325,
+      "num": 82325,
+      "word": "李沁太可爱了",
+      "onboard_time": 1755930803,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 80045,
+      "num": 80045,
+      "word": "小猫怎么可以懒到这种地步",
+      "onboard_time": 1755930563,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 79602,
@@ -1635,12 +1787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44904,
-      "num": 140124,
-      "word": "女子遭抢劫强奸后嫌犯却未被批捕",
-      "onboard_time": 1755927144,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 48456,
+      "num": 215527,
+      "word": "军乐团14个排面寓意14年抗战",
+      "onboard_time": 1755930384,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41165,
@@ -1672,6 +1824,14 @@
       "word": "百年碉楼平移300米给高速让路",
       "onboard_time": 1755918142,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35773,
+      "num": 79470,
+      "word": "妈祖飞巴黎坐商务舱有专属登机牌",
+      "onboard_time": 1755928941,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
