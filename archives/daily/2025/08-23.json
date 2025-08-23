@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755958912296,
+  "endTime": 1755959986777,
   "band_list": [
     {
       "raw_hot": 9599901,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1274655,
+      "num": 501707,
+      "word": "烂尾",
+      "onboard_time": 1755959848,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1270402,
       "num": 541566,
       "word": "何晟铭说和于正是很近的朋友",
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1067557,
+      "num": 895453,
+      "word": "杨宗纬摔下舞台",
+      "onboard_time": 1755956608,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1033635,
       "num": 485709,
       "word": "许荔莎改简介",
@@ -227,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 973872,
+      "num": 973872,
+      "word": "法国网红直播被虐300小时后死亡",
+      "onboard_time": 1755957508,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 939894,
       "num": 422833,
       "word": "郭敬明 小鞠本人白得发光",
@@ -241,14 +265,6 @@
       "onboard_time": 1755950124,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 895453,
-      "num": 895453,
-      "word": "杨宗纬摔下舞台",
-      "onboard_time": 1755956608,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 878062,
@@ -361,14 +377,6 @@
       "onboard_time": 1755927203,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 703562,
-      "num": 703562,
-      "word": "法国网红直播被虐300小时后死亡",
-      "onboard_time": 1755957508,
-      "rank": 11,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 699674,
@@ -939,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292431,
+      "num": 448421,
+      "word": "台湾大罢免投票结果出炉",
+      "onboard_time": 1755957627,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 291924,
       "num": 291924,
       "word": "张维伊 听小说赚钱",
@@ -1075,6 +1091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 245556,
+      "num": 245556,
+      "word": "没有如果",
+      "onboard_time": 1755958289,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245170,
       "num": 245170,
       "word": "女子整理遗物发现丈夫留下满屋古董",
@@ -1187,12 +1211,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225678,
+      "num": 517481,
+      "word": "中国7月用电量过万亿度创世界纪录",
+      "onboard_time": 1755955887,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225376,
       "num": 183766,
       "word": "迪丽热巴家人们觉得我今晚可以成团吗",
       "onboard_time": 1755927923,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224894,
+      "num": 224894,
+      "word": "澳门赌场公关年薪百万",
+      "onboard_time": 1755956066,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224594,
@@ -1249,14 +1289,6 @@
       "onboard_time": 1755954385,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 218863,
-      "num": 517481,
-      "word": "中国7月用电量过万亿度创世界纪录",
-      "onboard_time": 1755955887,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216250,
@@ -1363,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202528,
+      "num": 198830,
+      "word": "易烊千玺礐嶨观看方式",
+      "onboard_time": 1755958827,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202342,
       "num": 240979,
       "word": "鹿晗演唱会嘉宾王力宏",
@@ -1403,20 +1443,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199680,
+      "num": 199680,
+      "word": "今天你要嫁给我",
+      "onboard_time": 1755959429,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 199513,
+      "num": 199513,
+      "word": "成都狼队一穿三",
+      "onboard_time": 1755959308,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199314,
       "num": 199314,
       "word": "泥潭作者夸奖梓渝",
       "onboard_time": 1755954925,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198830,
-      "num": 198830,
-      "word": "易烊千玺礐嶨观看方式",
-      "onboard_time": 1755958827,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 198279,
@@ -1443,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196259,
-      "num": 196259,
-      "word": "没有如果",
-      "onboard_time": 1755958289,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195404,
       "num": 195404,
       "word": "吴京关注陈丽君",
@@ -1475,12 +1515,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193245,
-      "num": 196709,
-      "word": "澳门赌场公关年薪百万",
-      "onboard_time": 1755956066,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 193792,
+      "num": 193792,
+      "word": "严浩翔上海红海",
+      "onboard_time": 1755959308,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 190553,
@@ -1571,6 +1611,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183750,
+      "num": 183750,
+      "word": "iG再次翻盘",
+      "onboard_time": 1755959548,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 182007,
+      "num": 452495,
+      "word": "东莞杀妻案受害者家属发声",
+      "onboard_time": 1755957686,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180797,
       "num": 175217,
       "word": "许魏洲泰国人气",
@@ -1619,6 +1675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176770,
+      "num": 176770,
+      "word": "C罗点球破门",
+      "onboard_time": 1755959247,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176248,
       "num": 240842,
       "word": "爸爸3年攒3万16岁儿子打赏剩300",
@@ -1640,6 +1704,14 @@
       "word": "沈腾叫范丞丞儿子",
       "onboard_time": 1755917062,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173951,
+      "num": 173951,
+      "word": "檀健次跳了daddy",
+      "onboard_time": 1755959728,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1697,14 +1769,6 @@
       "onboard_time": 1755956186,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168749,
-      "num": 448421,
-      "word": "台湾大罢免投票结果出炉",
-      "onboard_time": 1755957627,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 168414,
@@ -1955,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153513,
+      "num": 153513,
+      "word": "迪丽热巴跳了神的随波逐流",
+      "onboard_time": 1755959907,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153483,
       "num": 153483,
       "word": "宁绣绣成了土地的女儿",
@@ -1969,6 +2041,14 @@
       "onboard_time": 1755871466,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152448,
+      "num": 152448,
+      "word": "杨幂回复邢菲",
+      "onboard_time": 1755959967,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 152237,
@@ -3547,14 +3627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53421,
-      "num": 452495,
-      "word": "东莞杀妻案受害者家属发声",
-      "onboard_time": 1755957686,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53264,
       "num": 168591,
       "word": "aespa全员中文获奖感言",
@@ -3568,6 +3640,14 @@
       "word": "8月23日4时33分迎处暑",
       "onboard_time": 1755900436,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49638,
+      "num": 202540,
+      "word": "子女趁父亲病危瓜分200万遗产",
+      "onboard_time": 1755958827,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3679,14 +3759,6 @@
       "num": 144195,
       "word": "女生偶遇阿姨河边放生鱼籽",
       "onboard_time": 1755923963,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31978,
-      "num": 202540,
-      "word": "子女趁父亲病危瓜分200万遗产",
-      "onboard_time": 1755958827,
       "rank": 39,
       "category": "民生新闻"
     },
