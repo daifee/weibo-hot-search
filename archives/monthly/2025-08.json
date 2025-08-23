@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755944719458,
+  "endTime": 1755945701542,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -716,7 +716,7 @@
     },
     {
       "raw_hot": 2353307,
-      "num": 212658,
+      "num": 287897,
       "word": "疑似许凯赵晴悄悄同居",
       "onboard_time": 1755941903,
       "rank": 10,
@@ -835,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 2171639,
+      "num": 2171639,
+      "word": "FPX官宣JieJie加入",
+      "onboard_time": 1755944302,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2152958,
       "num": 2152958,
       "word": "汪苏泷婉拒了王源提议",
@@ -929,14 +937,6 @@
       "onboard_time": 1754382084,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2020714,
-      "num": 2020714,
-      "word": "FPX官宣JieJie加入",
-      "onboard_time": 1755944302,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 2010192,
@@ -6619,6 +6619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 739036,
+      "num": 278644,
+      "word": "疑似许荔莎被小三",
+      "onboard_time": 1755944902,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 738652,
       "num": 338326,
       "word": "亲生和亲自生的区别",
@@ -9372,7 +9380,7 @@
     },
     {
       "raw_hot": 583704,
-      "num": 245533,
+      "num": 269834,
       "word": "蔡徐坤ins更新身材照",
       "onboard_time": 1755940463,
       "rank": 13,
@@ -9953,6 +9961,14 @@
       "onboard_time": 1755645739,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 560629,
+      "num": 282737,
+      "word": "台湾大罢免",
+      "onboard_time": 1755944302,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 560544,
@@ -11827,6 +11843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477548,
+      "num": 255670,
+      "word": "郭敬明 小鞠本人白得发光",
+      "onboard_time": 1755944602,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477207,
       "num": 454189,
       "word": "阚清子能穿进去的衣服不多了",
@@ -11916,7 +11940,7 @@
     },
     {
       "raw_hot": 475287,
-      "num": 164806,
+      "num": 189807,
       "word": "妻子做饭1年丈夫瘦32斤",
       "onboard_time": 1755941123,
       "rank": 20,
@@ -12553,14 +12577,6 @@
       "onboard_time": 1754280204,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 453928,
-      "num": 202985,
-      "word": "台湾大罢免",
-      "onboard_time": 1755944302,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 453743,
@@ -13424,6 +13440,14 @@
       "word": "Beni能不能留下来",
       "onboard_time": 1754055385,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 421989,
+      "num": 421989,
+      "word": "那英 张晚意天天晕成这奶奶样",
+      "onboard_time": 1755943823,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -14459,7 +14483,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392703,
+      "raw_hot": 392740,
       "num": 392703,
       "word": "节目组给张维伊耳机打码",
       "onboard_time": 1755942083,
@@ -22947,6 +22971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231451,
+      "num": 231451,
+      "word": "黄誉博又被韩红骂了",
+      "onboard_time": 1755945142,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231407,
       "num": 336817,
       "word": "男子花87万办了300年的健身卡",
@@ -23592,6 +23624,14 @@
       "word": "洪真京离婚",
       "onboard_time": 1754453484,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225488,
+      "num": 225488,
+      "word": "许荔莎改简介",
+      "onboard_time": 1755945561,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -26657,6 +26697,14 @@
       "onboard_time": 1754885962,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203823,
+      "num": 203823,
+      "word": "TF四代黑金制服造型",
+      "onboard_time": 1755945142,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 203795,
@@ -32320,14 +32368,6 @@
       "word": "恋综占有欲最强的男嘉宾出现了",
       "onboard_time": 1754891543,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 182460,
-      "num": 182460,
-      "word": "那英 张晚意天天晕成这奶奶样",
-      "onboard_time": 1755943823,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -47587,6 +47627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136493,
+      "num": 136493,
+      "word": "Jayjay登港趋第一",
+      "onboard_time": 1755945322,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136488,
       "num": 136488,
       "word": "荷兰弟或将暂别演艺圈",
@@ -49139,6 +49187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 133374,
+      "num": 133374,
+      "word": "刘国梁女儿赢高尔夫职业赛冠军",
+      "onboard_time": 1755945204,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133360,
       "num": 137178,
       "word": "李兰迪敖瑞鹏 人鬼情未了",
@@ -49864,14 +49920,6 @@
       "word": "辉子 秃子",
       "onboard_time": 1754357002,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 131469,
-      "num": 131469,
-      "word": "郭敬明 小鞠本人白得发光",
-      "onboard_time": 1755944602,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -52235,6 +52283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126669,
+      "num": 126669,
+      "word": "陈赫邓超内娱满分友情",
+      "onboard_time": 1755945081,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126657,
       "num": 126657,
       "word": "罗幂欧",
@@ -54195,6 +54251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122303,
+      "num": 122303,
+      "word": "时代少年团献给所有冠军们的舞台",
+      "onboard_time": 1755943463,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122300,
       "num": 122300,
       "word": "减肥一个月成功减掉了30天",
@@ -54369,14 +54433,6 @@
       "onboard_time": 1755704004,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121834,
-      "num": 121834,
-      "word": "时代少年团献给所有冠军们的舞台",
-      "onboard_time": 1755943463,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 121829,
@@ -56827,6 +56883,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 116462,
+      "num": 116462,
+      "word": "H4cker力挺Elk",
+      "onboard_time": 1755945204,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116458,
       "num": 116458,
       "word": "永远不要放弃下午的五点钟",
@@ -56921,6 +56985,14 @@
       "onboard_time": 1755659543,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116197,
+      "num": 295425,
+      "word": "南京6只野猪丝滑渡江",
+      "onboard_time": 1755941783,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116172,
@@ -57113,14 +57185,6 @@
       "onboard_time": 1755845906,
       "rank": 44,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 115837,
-      "num": 115837,
-      "word": "南京6只野猪丝滑渡江",
-      "onboard_time": 1755941783,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115807,
@@ -58731,6 +58795,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 112099,
+      "num": 112099,
+      "word": "周杰伦温岚听了是震惊的程度",
+      "onboard_time": 1755945382,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112088,
       "num": 112088,
       "word": "狗狗叼回了一只豹猫幼崽",
@@ -59321,6 +59393,14 @@
       "onboard_time": 1754219603,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110871,
+      "num": 110871,
+      "word": "李沛恩白T照",
+      "onboard_time": 1755945382,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 110860,
@@ -60345,6 +60425,14 @@
       "onboard_time": 1755416423,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108535,
+      "num": 152680,
+      "word": "卢卡申科驳斥泽连斯基涉华不满言论",
+      "onboard_time": 1755943702,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108517,
@@ -61619,14 +61707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 105036,
-      "num": 152680,
-      "word": "卢卡申科驳斥泽连斯基涉华不满言论",
-      "onboard_time": 1755943702,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105014,
       "num": 105014,
       "word": "汪顺回应男子混接无缘决赛",
@@ -62377,6 +62457,14 @@
       "onboard_time": 1755521363,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102933,
+      "num": 102933,
+      "word": "宋佳脸基础了嘴就不基础",
+      "onboard_time": 1755945441,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 102926,
@@ -64745,6 +64833,14 @@
       "onboard_time": 1755930442,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96259,
+      "num": 96259,
+      "word": "戏里小媳妇戏外老公姐",
+      "onboard_time": 1755945682,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 96246,
@@ -69729,6 +69825,14 @@
       "onboard_time": 1754355922,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72988,
+      "num": 111117,
+      "word": "何同学海外走红年收入或超千万",
+      "onboard_time": 1755944723,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 72963,
@@ -76203,6 +76307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34580,
+      "num": 110940,
+      "word": "外墙清洗工看裸睡女子较难认定侵权",
+      "onboard_time": 1755945682,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34557,
       "num": 65872,
       "word": "下河电鱼身亡4名同伴赔偿13.5万",
@@ -77811,6 +77923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25238,
+      "num": 651059,
+      "word": "99岁老兵回忆和日军拼刺刀",
+      "onboard_time": 1755922103,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25202,
       "num": 120677,
       "word": "刘宇宁就这个撞地球对味",
@@ -78505,14 +78625,6 @@
       "onboard_time": 1754420715,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21673,
-      "num": 651059,
-      "word": "99岁老兵回忆和日军拼刺刀",
-      "onboard_time": 1755922103,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21595,

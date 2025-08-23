@@ -1,0 +1,410 @@
+{
+  "runTime": 1755945701542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2171639,
+        "num": 2171639,
+        "word": "FPX官宣JieJie加入",
+        "onboard_time": 1755944302,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 627904,
+        "num": 627904,
+        "word": "教育局回应小学老师被调去教高中",
+        "onboard_time": 1755938422,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25238,
+        "num": 508473,
+        "word": "99岁老兵回忆和日军拼刺刀",
+        "onboard_time": 1755922103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421989,
+        "num": 421989,
+        "word": "那英 张晚意天天晕成这奶奶样",
+        "onboard_time": 1755943823,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397770,
+        "num": 397770,
+        "word": "生万物开头的老太是杨幂演的",
+        "onboard_time": 1755932063,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361351,
+        "num": 361351,
+        "word": "被调去教高中的小学老师称压力很大",
+        "onboard_time": 1755938542,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392740,
+        "num": 360708,
+        "word": "节目组给张维伊耳机打码",
+        "onboard_time": 1755942083,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330991,
+        "num": 330991,
+        "word": "裸睡被看光女子患抑郁丈夫追责公寓",
+        "onboard_time": 1755916822,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298699,
+        "num": 298699,
+        "word": "Gr小铁",
+        "onboard_time": 1755931282,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116197,
+        "num": 295425,
+        "word": "南京6只野猪丝滑渡江",
+        "onboard_time": 1755941783,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2094045,
+        "num": 287897,
+        "word": "疑似许凯赵晴悄悄同居",
+        "onboard_time": 1755941903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560629,
+        "num": 282737,
+        "word": "台湾大罢免",
+        "onboard_time": 1755944302,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 739036,
+        "num": 278644,
+        "word": "疑似许荔莎被小三",
+        "onboard_time": 1755944902,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540304,
+        "num": 269834,
+        "word": "蔡徐坤ins更新身材照",
+        "onboard_time": 1755940463,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623977,
+        "num": 260004,
+        "word": "于正遇到了两个魔丸",
+        "onboard_time": 1755926064,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477548,
+        "num": 255670,
+        "word": "郭敬明 小鞠本人白得发光",
+        "onboard_time": 1755944602,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253057,
+        "num": 253057,
+        "word": "姐弟恋为什么越来越多了",
+        "onboard_time": 1755927323,
+        "rank": 16,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 231451,
+        "num": 231451,
+        "word": "黄誉博又被韩红骂了",
+        "onboard_time": 1755945142,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225488,
+        "num": 225488,
+        "word": "许荔莎改简介",
+        "onboard_time": 1755945561,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203823,
+        "num": 203823,
+        "word": "TF四代黑金制服造型",
+        "onboard_time": 1755945142,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425145,
+        "num": 189807,
+        "word": "妻子做饭1年丈夫瘦32斤",
+        "onboard_time": 1755941123,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173268,
+        "num": 173268,
+        "word": "乔杉发文官宣三胎",
+        "onboard_time": 1755936381,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164771,
+        "num": 164771,
+        "word": "阿策道歉",
+        "onboard_time": 1755943583,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161155,
+        "num": 161155,
+        "word": "一年瘦30斤的面部变化",
+        "onboard_time": 1755939622,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 151029,
+        "num": 151029,
+        "word": "SMTR25狼与美女舞台",
+        "onboard_time": 1755942023,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150911,
+        "num": 150911,
+        "word": "男子杀女友逃25年没用过手机身份证",
+        "onboard_time": 1755941783,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138868,
+        "num": 138868,
+        "word": "这居然是张新成30岁的状态",
+        "onboard_time": 1755942263,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136493,
+        "num": 136493,
+        "word": "Jayjay登港趋第一",
+        "onboard_time": 1755945322,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133374,
+        "num": 133374,
+        "word": "刘国梁女儿赢高尔夫职业赛冠军",
+        "onboard_time": 1755945204,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117924,
+        "num": 132373,
+        "word": "不刷牙睡觉vs不刷牙吃早餐",
+        "onboard_time": 1755944002,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131983,
+        "num": 131983,
+        "word": "上海月入70000一天的花销",
+        "onboard_time": 1755930322,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129128,
+        "num": 129128,
+        "word": "李一桐蓝色露背裙",
+        "onboard_time": 1755943402,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128564,
+        "num": 128564,
+        "word": "马嘉祺献唱致敬英烈主题曲写你",
+        "onboard_time": 1755937161,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126669,
+        "num": 126669,
+        "word": "陈赫邓超内娱满分友情",
+        "onboard_time": 1755945081,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122303,
+        "num": 122303,
+        "word": "时代少年团献给所有冠军们的舞台",
+        "onboard_time": 1755943463,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116462,
+        "num": 116462,
+        "word": "H4cker力挺Elk",
+        "onboard_time": 1755945204,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113608,
+        "num": 113608,
+        "word": "向太主动提出给丁佩20倍抚养费",
+        "onboard_time": 1755922643,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112099,
+        "num": 112099,
+        "word": "周杰伦温岚听了是震惊的程度",
+        "onboard_time": 1755945382,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72988,
+        "num": 111117,
+        "word": "何同学海外走红年收入或超千万",
+        "onboard_time": 1755944723,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34580,
+        "num": 110940,
+        "word": "外墙清洗工看裸睡女子较难认定侵权",
+        "onboard_time": 1755945682,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109894,
+        "num": 110886,
+        "word": "世界之外",
+        "onboard_time": 1755943342,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110871,
+        "num": 110871,
+        "word": "李沛恩白T照",
+        "onboard_time": 1755945382,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110567,
+        "num": 110567,
+        "word": "宁绣绣成了土地的女儿",
+        "onboard_time": 1755940762,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108535,
+        "num": 108535,
+        "word": "卢卡申科驳斥泽连斯基涉华不满言论",
+        "onboard_time": 1755943702,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107361,
+        "num": 107361,
+        "word": "对尖扎黄河特大桥事故挂牌督办",
+        "onboard_time": 1755942623,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105859,
+        "num": 105859,
+        "word": "汪苏泷上半身基础下半身不基础",
+        "onboard_time": 1755940400,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102933,
+        "num": 102933,
+        "word": "宋佳脸基础了嘴就不基础",
+        "onboard_time": 1755945441,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100899,
+        "num": 100899,
+        "word": "台风剑鱼最大强度可达强台风级",
+        "onboard_time": 1755939863,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 97334,
+        "num": 97334,
+        "word": "年锦本赛季个人四抓25次",
+        "onboard_time": 1755943284,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96259,
+        "num": 96259,
+        "word": "戏里小媳妇戏外老公姐",
+        "onboard_time": 1755945682,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典话上合#"
+    }
+  }
+}

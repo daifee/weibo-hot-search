@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755944719458,
+  "endTime": 1755945701542,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 2353307,
-      "num": 212658,
+      "num": 287897,
       "word": "疑似许凯赵晴悄悄同居",
       "onboard_time": 1755941903,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 2020714,
-      "num": 2020714,
+      "raw_hot": 2171639,
+      "num": 2171639,
       "word": "FPX官宣JieJie加入",
       "onboard_time": 1755944302,
       "rank": 0,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 739036,
+      "num": 278644,
+      "word": "疑似许荔莎被小三",
+      "onboard_time": 1755944902,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 712047,
       "num": 350989,
       "word": "展轩 卡姿兰",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 583704,
-      "num": 245533,
+      "num": 269834,
       "word": "蔡徐坤ins更新身材照",
       "onboard_time": 1755940463,
       "rank": 13,
@@ -353,6 +361,14 @@
       "onboard_time": 1755938542,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560629,
+      "num": 282737,
+      "word": "台湾大罢免",
+      "onboard_time": 1755944302,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 558192,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477548,
+      "num": 255670,
+      "word": "郭敬明 小鞠本人白得发光",
+      "onboard_time": 1755944602,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476490,
       "num": 414092,
       "word": "早知道董璇这么好追",
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 475287,
-      "num": 164806,
+      "num": 189807,
       "word": "妻子做饭1年丈夫瘦32斤",
       "onboard_time": 1755941123,
       "rank": 20,
@@ -475,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 453928,
-      "num": 202985,
-      "word": "台湾大罢免",
-      "onboard_time": 1755944302,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 450289,
       "num": 450289,
       "word": "第四代住宅",
@@ -507,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 421989,
+      "num": 421989,
+      "word": "那英 张晚意天天晕成这奶奶样",
+      "onboard_time": 1755943823,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409865,
       "num": 409865,
       "word": "王安宇不吃水里的 胡夏不吃天上的",
@@ -523,7 +547,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 392703,
+      "raw_hot": 392740,
       "num": 392703,
       "word": "节目组给张维伊耳机打码",
       "onboard_time": 1755942083,
@@ -771,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231451,
+      "num": 231451,
+      "word": "黄誉博又被韩红骂了",
+      "onboard_time": 1755945142,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228460,
       "num": 287143,
       "word": "丁禹兮直播",
@@ -785,6 +817,14 @@
       "onboard_time": 1755923002,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225488,
+      "num": 225488,
+      "word": "许荔莎改简介",
+      "onboard_time": 1755945561,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 225376,
@@ -849,6 +889,14 @@
       "onboard_time": 1755870566,
       "rank": 9,
       "category": "民生新闻,剧集"
+    },
+    {
+      "raw_hot": 203823,
+      "num": 203823,
+      "word": "TF四代黑金制服造型",
+      "onboard_time": 1755945142,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 202855,
@@ -961,14 +1009,6 @@
       "onboard_time": 1755939622,
       "rank": 9,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 182460,
-      "num": 182460,
-      "word": "那英 张晚意天天晕成这奶奶样",
-      "onboard_time": 1755943823,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 179313,
@@ -1459,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136493,
+      "num": 136493,
+      "word": "Jayjay登港趋第一",
+      "onboard_time": 1755945322,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135779,
       "num": 135779,
       "word": "黄子弘凡希望大家都开心",
@@ -1499,6 +1547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133374,
+      "num": 133374,
+      "word": "刘国梁女儿赢高尔夫职业赛冠军",
+      "onboard_time": 1755945204,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132915,
       "num": 240361,
       "word": "裸辞不上班5个月的真实感受",
@@ -1523,14 +1579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131469,
-      "num": 131469,
-      "word": "郭敬明 小鞠本人白得发光",
-      "onboard_time": 1755944602,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129599,
       "num": 240115,
       "word": "河南开封一花坛拐角尖锐还带钢片",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1755923904,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126669,
+      "num": 126669,
+      "word": "陈赫邓超内娱满分友情",
+      "onboard_time": 1755945081,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 125987,
@@ -1619,20 +1675,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122303,
+      "num": 122303,
+      "word": "时代少年团献给所有冠军们的舞台",
+      "onboard_time": 1755943463,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122213,
       "num": 164432,
       "word": "最大规模军乐团将亮相",
       "onboard_time": 1755928643,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 121834,
-      "num": 121834,
-      "word": "时代少年团献给所有冠军们的舞台",
-      "onboard_time": 1755943463,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 121750,
@@ -1723,6 +1779,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 116462,
+      "num": 116462,
+      "word": "H4cker力挺Elk",
+      "onboard_time": 1755945204,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 116197,
+      "num": 295425,
+      "word": "南京6只野猪丝滑渡江",
+      "onboard_time": 1755941783,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116086,
       "num": 116086,
       "word": "美国一旅游大巴翻车载有中国游客",
@@ -1752,14 +1824,6 @@
       "word": "一觉醒来和夏天告别了",
       "onboard_time": 1755910584,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115837,
-      "num": 115837,
-      "word": "南京6只野猪丝滑渡江",
-      "onboard_time": 1755941783,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1811,12 +1875,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112099,
+      "num": 112099,
+      "word": "周杰伦温岚听了是震惊的程度",
+      "onboard_time": 1755945382,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110993,
       "num": 153825,
       "word": "秋天的美景跑步赶来了",
       "onboard_time": 1755914662,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110871,
+      "num": 110871,
+      "word": "李沛恩白T照",
+      "onboard_time": 1755945382,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 110671,
@@ -1849,6 +1929,14 @@
       "onboard_time": 1755928222,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108535,
+      "num": 152680,
+      "word": "卢卡申科驳斥泽连斯基涉华不满言论",
+      "onboard_time": 1755943702,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108495,
@@ -1955,14 +2043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105036,
-      "num": 152680,
-      "word": "卢卡申科驳斥泽连斯基涉华不满言论",
-      "onboard_time": 1755943702,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 104835,
       "num": 240011,
       "word": "姜涛是来减肥的吗",
@@ -2001,6 +2081,14 @@
       "onboard_time": 1755941243,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102933,
+      "num": 102933,
+      "word": "宋佳脸基础了嘴就不基础",
+      "onboard_time": 1755945441,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 102466,
@@ -2121,6 +2209,14 @@
       "onboard_time": 1755930442,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96259,
+      "num": 96259,
+      "word": "戏里小媳妇戏外老公姐",
+      "onboard_time": 1755945682,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 95794,
@@ -2483,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72988,
+      "num": 111117,
+      "word": "何同学海外走红年收入或超千万",
+      "onboard_time": 1755944723,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 71681,
       "num": 71681,
       "word": "林诗栋一日3赛一局未失",
@@ -2731,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34580,
+      "num": 110940,
+      "word": "外墙清洗工看裸睡女子较难认定侵权",
+      "onboard_time": 1755945682,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34218,
       "num": 88474,
       "word": "鹿晗王力宏合唱春雨里洗过的太阳",
@@ -2859,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25238,
+      "num": 651059,
+      "word": "99岁老兵回忆和日军拼刺刀",
+      "onboard_time": 1755922103,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25093,
       "num": 210516,
       "word": "申请国赔1911万男子仍坚称完全无罪",
@@ -2888,14 +3008,6 @@
       "word": "律师谈老人申请国赔1911万",
       "onboard_time": 1755941602,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21673,
-      "num": 651059,
-      "word": "99岁老兵回忆和日军拼刺刀",
-      "onboard_time": 1755922103,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
