@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/23 17:24:42
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/23 17:38:21
 </p>
 </blockquote>
 <p>
@@ -3993,6 +3993,12 @@ TF四代 超载（热度：867979）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%A2%AB%E8%B0%83%E5%8E%BB%E6%95%99%E9%AB%98%E4%B8%AD%23" target="weibo">
+教育局回应小学老师被调去教高中（热度：848399）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E9%9D%92%E5%B9%B4%E5%8D%9A%E5%AF%BC%E5%9D%A0%E6%A5%BC%E7%9C%9F%E7%9B%B8%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
 浙大青年博导坠楼真相是什么（热度：848278）
 </a>
@@ -5609,12 +5615,6 @@ boss直聘崩了（热度：685338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231994%E5%B9%B4%E5%BD%95%E5%83%8F%E5%8E%85%E6%9D%80%E4%BA%BA%E6%A1%88%E5%87%B6%E6%89%8B%E8%A2%AB%E6%A0%B8%E5%87%86%E6%AD%BB%E5%88%91%23" target="weibo">
 1994年录像厅杀人案凶手被核准死刑（热度：683745）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%A2%AB%E8%B0%83%E5%8E%BB%E6%95%99%E9%AB%98%E4%B8%AD%23" target="weibo">
-教育局回应小学老师被调去教高中（热度：683615）
 </a>
 </li>
 

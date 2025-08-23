@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755941082282,
+  "endTime": 1755941901647,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 848399,
+      "num": 1135743,
+      "word": "教育局回应小学老师被调去教高中",
+      "onboard_time": 1755938422,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 771610,
       "num": 1120376,
       "word": "申请国赔1911万77岁老人发声",
@@ -209,14 +217,6 @@
       "onboard_time": 1755928222,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 683615,
-      "num": 683615,
-      "word": "教育局回应小学老师被调去教高中",
-      "onboard_time": 1755938422,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 679603,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583704,
+      "num": 245533,
+      "word": "蔡徐坤ins更新身材照",
+      "onboard_time": 1755940463,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 573391,
       "num": 245511,
       "word": "欢娱乱成一锅粥了",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 482697,
-      "num": 316198,
+      "num": 363509,
       "word": "乔杉发文官宣三胎",
       "onboard_time": 1755936381,
       "rank": 13,
@@ -451,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 411543,
+      "num": 411543,
+      "word": "被调去教高中的小学老师称压力很大",
+      "onboard_time": 1755938542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409865,
       "num": 409865,
       "word": "王安宇不吃水里的 胡夏不吃天上的",
@@ -497,6 +513,14 @@
       "onboard_time": 1755921982,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 379171,
+      "num": 379171,
+      "word": "Gr小铁",
+      "onboard_time": 1755931282,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 379045,
@@ -587,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295052,
+      "num": 159872,
+      "word": "妻子做饭1年丈夫瘦32斤",
+      "onboard_time": 1755941123,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294830,
       "num": 294830,
       "word": "胖东来新店本科学历保洁岗已招满",
@@ -601,14 +633,6 @@
       "onboard_time": 1755873447,
       "rank": 7,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 286832,
-      "num": 223214,
-      "word": "蔡徐坤ins更新身材照",
-      "onboard_time": 1755940463,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 283942,
@@ -673,14 +697,6 @@
       "onboard_time": 1755880163,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 241644,
-      "num": 241644,
-      "word": "被调去教高中的小学老师称压力很大",
-      "onboard_time": 1755938542,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241021,
@@ -899,6 +915,22 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 179027,
+      "num": 239861,
+      "word": "一年瘦30斤的面部变化",
+      "onboard_time": 1755939622,
+      "rank": 9,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 178818,
+      "num": 178818,
+      "word": "汪苏泷上半身基础下半身不基础",
+      "onboard_time": 1755940400,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178629,
       "num": 194308,
       "word": "生万物今日收官",
@@ -979,28 +1011,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170324,
-      "num": 170324,
-      "word": "汪苏泷上半身基础下半身不基础",
-      "onboard_time": 1755940400,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 170197,
       "num": 170197,
       "word": "处暑",
       "onboard_time": 1755905359,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167751,
-      "num": 239861,
-      "word": "一年瘦30斤的面部变化",
-      "onboard_time": 1755939622,
-      "rank": 9,
-      "category": "运动健身"
     },
     {
       "raw_hot": 167448,
@@ -1147,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153483,
+      "num": 153483,
+      "word": "宁绣绣成了土地的女儿",
+      "onboard_time": 1755940762,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153271,
       "num": 240710,
       "word": "迪丽热巴黑蕾丝短裙",
@@ -1196,7 +1220,7 @@
     },
     {
       "raw_hot": 148845,
-      "num": 488420,
+      "num": 551870,
       "word": "今日迎处暑",
       "onboard_time": 1755924624,
       "rank": 28,
@@ -1323,14 +1347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135877,
-      "num": 135877,
-      "word": "Gr小铁",
-      "onboard_time": 1755931282,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 135779,
       "num": 135779,
       "word": "黄子弘凡希望大家都开心",
@@ -1368,6 +1384,14 @@
       "word": "裸辞不上班5个月的真实感受",
       "onboard_time": 1755875608,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132756,
+      "num": 132756,
+      "word": "21岁和26岁差距真的很大",
+      "onboard_time": 1755938962,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -1435,14 +1459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124378,
-      "num": 124378,
-      "word": "21岁和26岁差距真的很大",
-      "onboard_time": 1755938962,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124268,
       "num": 124268,
       "word": "被献鱼异性恋甜晕了",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1755917002,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121416,
+      "num": 121416,
+      "word": "刚进姚琛直播间就被带去蹦极了",
+      "onboard_time": 1755941362,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 120418,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1755875128,
       "rank": 27,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 115954,
+      "num": 115954,
+      "word": "子夜归cp大乱斗",
+      "onboard_time": 1755940703,
+      "rank": 33,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 115927,
@@ -1699,12 +1731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107095,
-      "num": 107095,
-      "word": "子夜归cp大乱斗",
-      "onboard_time": 1755940703,
-      "rank": 33,
-      "category": "剧集,作品衍生"
+      "raw_hot": 107258,
+      "num": 136538,
+      "word": "台风剑鱼最大强度可达强台风级",
+      "onboard_time": 1755939863,
+      "rank": 27,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 106593,
@@ -1747,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105072,
-      "num": 105072,
-      "word": "宁绣绣成了土地的女儿",
-      "onboard_time": 1755940762,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104835,
       "num": 240011,
       "word": "姜涛是来减肥的吗",
@@ -1787,12 +1811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102502,
-      "num": 136538,
-      "word": "台风剑鱼最大强度可达强台风级",
-      "onboard_time": 1755939863,
-      "rank": 27,
-      "category": "突发/灾害"
+      "raw_hot": 103393,
+      "num": 103393,
+      "word": "段艺璇毕业公演",
+      "onboard_time": 1755941243,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 101666,
@@ -1867,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97683,
+      "num": 122689,
+      "word": "尾号9999999手机号100万元起拍",
+      "onboard_time": 1755937942,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97419,
       "num": 239867,
       "word": "敖瑞鹏 带你们真沉浸式漂流一下",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1755930442,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95254,
+      "num": 95254,
+      "word": "男子杀女友逃25年没用过手机身份证",
+      "onboard_time": 1755941783,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95025,
@@ -1955,6 +1995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91990,
+      "num": 91990,
+      "word": "杨洋谈偶像和流量的关系",
+      "onboard_time": 1755941783,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91898,
       "num": 171068,
       "word": "官方再回应非婚生育申领育儿补贴",
@@ -1985,6 +2033,22 @@
       "onboard_time": 1755932423,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90018,
+      "num": 92028,
+      "word": "司马焦手撕天雷",
+      "onboard_time": 1755941123,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89912,
+      "num": 89912,
+      "word": "南京6只野猪丝滑渡江",
+      "onboard_time": 1755941783,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89088,
@@ -2081,14 +2145,6 @@
       "onboard_time": 1755876748,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83290,
-      "num": 122689,
-      "word": "尾号9999999手机号100万元起拍",
-      "onboard_time": 1755937942,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82736,
@@ -2372,7 +2428,7 @@
     },
     {
       "raw_hot": 56265,
-      "num": 83520,
+      "num": 133717,
       "word": "长安街主题花坛唱响保卫黄河",
       "onboard_time": 1755941003,
       "rank": 48,
@@ -2625,6 +2681,14 @@
       "onboard_time": 1755894975,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21836,
+      "num": 155490,
+      "word": "律师谈老人申请国赔1911万",
+      "onboard_time": 1755941602,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21516,
