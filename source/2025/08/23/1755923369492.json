@@ -1,0 +1,410 @@
+{
+  "runTime": 1755923369492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651303,
+        "num": 1651303,
+        "word": "徐艺洋连夜查黄子韬岗",
+        "onboard_time": 1755918922,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673108,
+        "num": 673108,
+        "word": "淘宝闪购",
+        "onboard_time": 1755917182,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2186,
+        "num": 438605,
+        "word": "这张办公桌见证抗战胜利时刻",
+        "onboard_time": 1755809414,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1678477,
+        "num": 438410,
+        "word": "裸睡被看光女子患抑郁丈夫追责公寓",
+        "onboard_time": 1755916822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436120,
+        "num": 436120,
+        "word": "胖东来招聘 进不去",
+        "onboard_time": 1755917002,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409865,
+        "num": 409865,
+        "word": "王安宇不吃水里的 胡夏不吃天上的",
+        "onboard_time": 1755917722,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380707,
+        "num": 380707,
+        "word": "CPA会计 反向购买",
+        "onboard_time": 1755921982,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 307058,
+        "num": 307058,
+        "word": "申请国赔1911万77岁老人发声",
+        "onboard_time": 1755909863,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306276,
+        "num": 306276,
+        "word": "哥哥们也吃瓜时代峰峻家族史",
+        "onboard_time": 1755920603,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48458,
+        "num": 302568,
+        "word": "处暑后真的出暑了吗",
+        "onboard_time": 1755922824,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1075810,
+        "num": 298968,
+        "word": "何晟铭手滑",
+        "onboard_time": 1755914123,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679869,
+        "num": 293910,
+        "word": "董璇 张维伊",
+        "onboard_time": 1755917302,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656285,
+        "num": 287794,
+        "word": "向太主动提出给丁佩20倍抚养费",
+        "onboard_time": 1755922643,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283942,
+        "num": 283942,
+        "word": "国产剧豆瓣评分还可信吗",
+        "onboard_time": 1755919283,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239583,
+        "num": 239583,
+        "word": "广州迎本世纪以来最冷8月",
+        "onboard_time": 1755917482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424421,
+        "num": 233756,
+        "word": "何晟铭评论区",
+        "onboard_time": 1755918922,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227783,
+        "num": 227783,
+        "word": "易烊千玺四开了",
+        "onboard_time": 1755923002,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223108,
+        "num": 223108,
+        "word": "陈奕恒机场状态",
+        "onboard_time": 1755922103,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197387,
+        "num": 197387,
+        "word": "关晓彤李昀锐耀眼杀青图",
+        "onboard_time": 1755922585,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50027,
+        "num": 196852,
+        "word": "屁桃君拉肚子了也得消肠炎",
+        "onboard_time": 1755920362,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 503033,
+        "num": 196843,
+        "word": "董璇经纪人没招了",
+        "onboard_time": 1755909742,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491308,
+        "num": 196837,
+        "word": "许荔莎 我以后缠着于正了",
+        "onboard_time": 1755869006,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196795,
+        "num": 196795,
+        "word": "CPA",
+        "onboard_time": 1755913522,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 346983,
+        "num": 196761,
+        "word": "35岁男子患无精症被妻子下最后通牒",
+        "onboard_time": 1755908420,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341228,
+        "num": 196103,
+        "word": "花少7录制结束哭成一片",
+        "onboard_time": 1755908483,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214546,
+        "num": 195854,
+        "word": "原著作者亲自改编的短剧有多香",
+        "onboard_time": 1755922283,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195404,
+        "num": 195404,
+        "word": "吴京关注陈丽君",
+        "onboard_time": 1755921023,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183338,
+        "num": 183338,
+        "word": "欧豪一年三部央视大戏",
+        "onboard_time": 1755921203,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110556,
+        "num": 182637,
+        "word": "普京称俄罗斯已筑起可靠的核盾牌",
+        "onboard_time": 1755920244,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74403,
+        "num": 180285,
+        "word": "摆2桌麻将收40元台费竟两次被羁押",
+        "onboard_time": 1755921744,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304841,
+        "num": 179327,
+        "word": "女子遭性侵后杀餐馆店主怨其未阻止",
+        "onboard_time": 1755908301,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266427,
+        "num": 177372,
+        "word": "商场试吃女",
+        "onboard_time": 1755922585,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159325,
+        "num": 175334,
+        "word": "你好星期六穗克斯成团夜巅峰对决",
+        "onboard_time": 1755922342,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209979,
+        "num": 172679,
+        "word": "月经期真正不能做的10件事",
+        "onboard_time": 1755915743,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171861,
+        "num": 171861,
+        "word": "费文典的家书哭得俺不中了",
+        "onboard_time": 1755922283,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170606,
+        "num": 170606,
+        "word": "建议大家网购的衣服不要直接试穿",
+        "onboard_time": 1755916644,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161534,
+        "num": 161534,
+        "word": "原来明星和我们上的是一个网",
+        "onboard_time": 1755920062,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147847,
+        "num": 147847,
+        "word": "为啥香芋味的东西全都没了",
+        "onboard_time": 1755923063,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128633,
+        "num": 128633,
+        "word": "11岁女孩脊柱侧弯120度打36根钉",
+        "onboard_time": 1755920002,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79155,
+        "num": 127880,
+        "word": "李承铉喝醉把戚薇气炸了",
+        "onboard_time": 1755923303,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127338,
+        "num": 127338,
+        "word": "生万物今日收官",
+        "onboard_time": 1755918802,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124699,
+        "num": 124699,
+        "word": "12306回应王源演唱会加开车次",
+        "onboard_time": 1755910762,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121956,
+        "num": 121956,
+        "word": "女子怀疑遭性骚扰起冲突后被砸伤",
+        "onboard_time": 1755914363,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88587,
+        "num": 118236,
+        "word": "终于找到衣服越洗越臭的原因了",
+        "onboard_time": 1755922103,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 88624,
+        "num": 116399,
+        "word": "东风集团股份拟私有化退市",
+        "onboard_time": 1755922043,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116086,
+        "num": 116086,
+        "word": "美国一旅游大巴翻车载有中国游客",
+        "onboard_time": 1755922162,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105193,
+        "num": 105193,
+        "word": "芳名三九开机",
+        "onboard_time": 1755921323,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104904,
+        "num": 104904,
+        "word": "班主任给多名女生发不雅信息被拘",
+        "onboard_time": 1755917062,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255454,
+        "num": 104743,
+        "word": "张维伊好感败光了",
+        "onboard_time": 1755914182,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104211,
+        "num": 104211,
+        "word": "鬼吹灯动画开播",
+        "onboard_time": 1755918862,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#浇好团结花结出幸福果#"
+    }
+  }
+}
