@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755969619622,
+  "endTime": 1755970682602,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -3571,6 +3571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1119935,
+      "num": 216948,
+      "word": "许荔莎休战半个月",
+      "onboard_time": 1755967642,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1118404,
       "num": 1118404,
       "word": "赵露思直播同款被卖断货",
@@ -4563,14 +4571,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 966078,
-      "num": 216948,
-      "word": "许荔莎休战半个月",
-      "onboard_time": 1755967642,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 965841,
       "num": 965841,
       "word": "赵今麦魏大勋牵手散步路透",
@@ -5403,6 +5403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 852297,
+      "num": 210856,
+      "word": "何晟铭透露离开电视圈原因",
+      "onboard_time": 1755968002,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 851315,
       "num": 415312,
       "word": "沈佳润韩国偶遇沈阳粉丝",
@@ -5433,14 +5441,6 @@
       "onboard_time": 1755564801,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 849059,
-      "num": 201333,
-      "word": "何晟铭透露离开电视圈原因",
-      "onboard_time": 1755968002,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 848399,
@@ -11297,6 +11297,14 @@
       "onboard_time": 1755140602,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 508867,
+      "num": 508867,
+      "word": "AG",
+      "onboard_time": 1755969801,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 508685,
@@ -21321,6 +21329,14 @@
       "onboard_time": 1754454205,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258744,
+      "num": 258744,
+      "word": "林诗栋",
+      "onboard_time": 1755970159,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 258706,
@@ -33712,6 +33728,14 @@
       "word": "IG对战WBG",
       "onboard_time": 1754050163,
       "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 179375,
+      "num": 179375,
+      "word": "cf",
+      "onboard_time": 1755969801,
+      "rank": 18,
       "category": "电竞"
     },
     {
@@ -69683,6 +69707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 80277,
+      "num": 80277,
+      "word": "太子站起来了",
+      "onboard_time": 1755970399,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80255,
       "num": 167741,
       "word": "黄雅莉好真诚的分享欲",
@@ -70889,6 +70921,14 @@
       "onboard_time": 1755939680,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73232,
+      "num": 74053,
+      "word": "agcf",
+      "onboard_time": 1755970100,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 73167,
@@ -80099,6 +80139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19518,
+      "num": 132083,
+      "word": "剑鱼或成影响三亚的最强台风之一",
+      "onboard_time": 1755969500,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19435,
       "num": 109491,
       "word": "谁来决定病危老人插不插管",
@@ -80681,14 +80729,6 @@
       "onboard_time": 1754399063,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15385,
-      "num": 132083,
-      "word": "剑鱼或成影响三亚的最强台风之一",
-      "onboard_time": 1755969500,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15251,

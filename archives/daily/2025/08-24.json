@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1755969619622,
+  "endTime": 1755970682602,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -35,7 +35,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 966078,
+      "raw_hot": 1119935,
       "num": 216948,
       "word": "许荔莎休战半个月",
       "onboard_time": 1755967642,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 849059,
-      "num": 201333,
+      "raw_hot": 852297,
+      "num": 210856,
       "word": "何晟铭透露离开电视圈原因",
       "onboard_time": 1755968002,
       "rank": 12,
@@ -89,6 +89,14 @@
       "onboard_time": 1755951505,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508867,
+      "num": 508867,
+      "word": "AG",
+      "onboard_time": 1755969801,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 447911,
@@ -163,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 258744,
+      "num": 258744,
+      "word": "林诗栋",
+      "onboard_time": 1755970159,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230771,
       "num": 230771,
       "word": "封大脚牺牲",
@@ -193,6 +209,14 @@
       "onboard_time": 1755945561,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179375,
+      "num": 179375,
+      "word": "cf",
+      "onboard_time": 1755969801,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 177732,
@@ -419,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80277,
+      "num": 80277,
+      "word": "太子站起来了",
+      "onboard_time": 1755970399,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76260,
       "num": 131521,
       "word": "宋亚轩滑滑梯",
@@ -433,6 +465,14 @@
       "onboard_time": 1755950003,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73232,
+      "num": 74053,
+      "word": "agcf",
+      "onboard_time": 1755970100,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 67265,
@@ -499,7 +539,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15385,
+      "raw_hot": 19518,
       "num": 132083,
       "word": "剑鱼或成影响三亚的最强台风之一",
       "onboard_time": 1755969500,
