@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755923369492,
+  "endTime": 1755924198135,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -33,6 +33,14 @@
       "onboard_time": 1755918922,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1562188,
+      "num": 287794,
+      "word": "向太主动提出给丁佩20倍抚养费",
+      "onboard_time": 1755922643,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1399107,
@@ -139,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 663140,
+      "num": 384791,
+      "word": "商场试吃女",
+      "onboard_time": 1755922585,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 659684,
       "num": 145605,
       "word": "日媒称南京照相馆对日本形象产生影响",
@@ -152,14 +168,6 @@
       "word": "何晟铭评论区",
       "onboard_time": 1755918922,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 656285,
-      "num": 287794,
-      "word": "向太主动提出给丁佩20倍抚养费",
-      "onboard_time": 1755922643,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -331,20 +339,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 328479,
+      "num": 328479,
+      "word": "哥哥们也吃瓜时代峰峻家族史",
+      "onboard_time": 1755920603,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325946,
       "num": 215626,
       "word": "何晟铭赠白月光",
       "onboard_time": 1755917482,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306276,
-      "num": 306276,
-      "word": "哥哥们也吃瓜时代峰峻家族史",
-      "onboard_time": 1755920603,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 288460,
@@ -363,20 +371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266427,
-      "num": 177372,
-      "word": "商场试吃女",
-      "onboard_time": 1755922585,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260839,
       "num": 195811,
       "word": "建议大家网购的衣服不要直接试穿",
       "onboard_time": 1755916644,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254012,
+      "num": 254012,
+      "word": "关晓彤李昀锐耀眼杀青图",
+      "onboard_time": 1755922585,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 252519,
@@ -515,20 +523,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197387,
-      "num": 197387,
-      "word": "关晓彤李昀锐耀眼杀青图",
-      "onboard_time": 1755922585,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197346,
       "num": 240920,
       "word": "降息",
       "onboard_time": 1755873568,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195470,
+      "num": 195470,
+      "word": "为啥香芋味的东西全都没了",
+      "onboard_time": 1755923063,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 195404,
@@ -547,20 +555,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 188142,
+      "num": 175334,
+      "word": "你好星期六穗克斯成团夜巅峰对决",
+      "onboard_time": 1755922342,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187847,
+      "num": 187847,
+      "word": "欧豪一年三部央视大戏",
+      "onboard_time": 1755921203,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185582,
       "num": 155062,
       "word": "有3个特点的人更易出轨",
       "onboard_time": 1755908182,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183338,
-      "num": 183338,
-      "word": "欧豪一年三部央视大戏",
-      "onboard_time": 1755921203,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178629,
@@ -667,14 +683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159325,
-      "num": 175334,
-      "word": "你好星期六穗克斯成团夜巅峰对决",
-      "onboard_time": 1755922342,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155442,
       "num": 155442,
       "word": "班主任给多名女生发不雅信息被拘",
@@ -723,20 +731,20 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 147847,
-      "num": 147847,
-      "word": "为啥香芋味的东西全都没了",
-      "onboard_time": 1755923063,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 145683,
       "num": 152833,
       "word": "易烊千玺演唱会成都场加场",
       "onboard_time": 1755912503,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144664,
+      "num": 144664,
+      "word": "原来舌头位置放不对会形成龅牙",
+      "onboard_time": 1755923784,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142328,
@@ -827,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126676,
+      "num": 126676,
+      "word": "浓狗和淡狗的区别",
+      "onboard_time": 1755923904,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125879,
       "num": 240285,
       "word": "生万物封二去世",
@@ -883,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116503,
+      "num": 116503,
+      "word": "王继业脱友2退赛",
+      "onboard_time": 1755923904,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116086,
       "num": 116086,
       "word": "美国一旅游大巴翻车载有中国游客",
@@ -915,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115022,
+      "num": 115022,
+      "word": "王曼昱教科书式发言",
+      "onboard_time": 1755923363,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110993,
       "num": 153825,
       "word": "秋天的美景跑步赶来了",
@@ -929,6 +961,14 @@
       "onboard_time": 1755920244,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110347,
+      "num": 110347,
+      "word": "凡人修仙传157",
+      "onboard_time": 1755923363,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 108172,
@@ -963,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104607,
+      "num": 104607,
+      "word": "杨幂听到爆剧女王的反应",
+      "onboard_time": 1755924142,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104173,
       "num": 239955,
       "word": "官方通报女子称幼时遭父母砍手割耳",
@@ -971,12 +1019,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103746,
+      "num": 103746,
+      "word": "耀眼",
+      "onboard_time": 1755924083,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99494,
+      "num": 144372,
+      "word": "李承铉喝醉把戚薇气炸了",
+      "onboard_time": 1755923303,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99219,
       "num": 134163,
       "word": "张晚意对龚俊保管钥匙信任不了一丁点",
       "onboard_time": 1755920543,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98935,
+      "num": 302568,
+      "word": "处暑后真的出暑了吗",
+      "onboard_time": 1755922824,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97419,
@@ -1089,14 +1161,6 @@
       "onboard_time": 1755910822,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 79155,
-      "num": 127880,
-      "word": "李承铉喝醉把戚薇气炸了",
-      "onboard_time": 1755923303,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 78879,
@@ -1299,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58543,
+      "num": 148500,
+      "word": "美媒称特朗普发与普京合影秀强硬",
+      "onboard_time": 1755922704,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53264,
       "num": 168591,
       "word": "aespa全员中文获奖感言",
@@ -1312,14 +1384,6 @@
       "word": "8月23日4时33分迎处暑",
       "onboard_time": 1755900436,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48458,
-      "num": 302568,
-      "word": "处暑后真的出暑了吗",
-      "onboard_time": 1755922824,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1384,6 +1448,14 @@
       "word": "男子开错路救下走上高速的女童",
       "onboard_time": 1755878485,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32310,
+      "num": 144195,
+      "word": "女生偶遇阿姨河边放生鱼籽",
+      "onboard_time": 1755923963,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1521,6 +1593,9 @@
     },
     {
       "word": "#上合组织天津峰会#"
+    },
+    {
+      "word": "#共同谱写中国式现代化的绚丽雪域篇章#"
     }
   ]
 }
