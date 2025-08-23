@@ -1,0 +1,410 @@
+{
+  "runTime": 1755953197329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6811406,
+        "num": 6811406,
+        "word": "田栩宁直播",
+        "onboard_time": 1755951505,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592489,
+        "num": 592489,
+        "word": "接连2名儿童感染食脑虫去世",
+        "onboard_time": 1755950124,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19918,
+        "num": 488133,
+        "word": "99岁老兵回忆和日军拼刺刀",
+        "onboard_time": 1755922103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1141536,
+        "num": 463307,
+        "word": "费左氏下毒",
+        "onboard_time": 1755951746,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437481,
+        "num": 437481,
+        "word": "孙颖莎vs陈熠",
+        "onboard_time": 1755951565,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330414,
+        "num": 330414,
+        "word": "教育局回应小学老师被调去教高中",
+        "onboard_time": 1755938422,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586330,
+        "num": 321990,
+        "word": "封大脚牺牲",
+        "onboard_time": 1755952466,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518412,
+        "num": 321594,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1755948624,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309482,
+        "num": 309482,
+        "word": "鳄龟被主人遗忘箱底1年瘦成皮包骨",
+        "onboard_time": 1755946102,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86437,
+        "num": 307792,
+        "word": "九三阅兵10天倒计时",
+        "onboard_time": 1755950667,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1270402,
+        "num": 304572,
+        "word": "何晟铭说和于正是很近的朋友",
+        "onboard_time": 1755951925,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770415,
+        "num": 302905,
+        "word": "新秀丽工作人员为虞书欣发声",
+        "onboard_time": 1755950003,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1154340,
+        "num": 300472,
+        "word": "疑似许凯赵晴悄悄同居",
+        "onboard_time": 1755941903,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346224,
+        "num": 296528,
+        "word": "台湾大罢免",
+        "onboard_time": 1755944302,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295802,
+        "num": 295802,
+        "word": "林诗栋黄友政男双亚军",
+        "onboard_time": 1755951746,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 762618,
+        "num": 291613,
+        "word": "何晟铭直播",
+        "onboard_time": 1755950484,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630708,
+        "num": 285960,
+        "word": "翔霖",
+        "onboard_time": 1755952526,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 594542,
+        "num": 279245,
+        "word": "许荔莎改简介",
+        "onboard_time": 1755945561,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446197,
+        "num": 276694,
+        "word": "郭敬明 小鞠本人白得发光",
+        "onboard_time": 1755944602,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38914,
+        "num": 271962,
+        "word": "公寓回应女子裸睡被看光患抑郁",
+        "onboard_time": 1755952404,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426469,
+        "num": 265652,
+        "word": "时代少年团节目单",
+        "onboard_time": 1755949823,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 372356,
+        "num": 261145,
+        "word": "宋轶圈内人缘",
+        "onboard_time": 1755950003,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337989,
+        "num": 254882,
+        "word": "妻子做饭1年丈夫瘦32斤",
+        "onboard_time": 1755941123,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311869,
+        "num": 245591,
+        "word": "宋亚轩演唱会背头造型",
+        "onboard_time": 1755952526,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245170,
+        "num": 245170,
+        "word": "女子整理遗物发现丈夫留下满屋古董",
+        "onboard_time": 1755947543,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243592,
+        "num": 243592,
+        "word": "迪丽热巴又一部悬疑剧",
+        "onboard_time": 1755949764,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238407,
+        "num": 238407,
+        "word": "张维伊 听小说赚钱",
+        "onboard_time": 1755950904,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230972,
+        "num": 230972,
+        "word": "生万物",
+        "onboard_time": 1755950244,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223674,
+        "num": 223674,
+        "word": "中国游客接连在马尔代夫溺亡",
+        "onboard_time": 1755949884,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220922,
+        "num": 220922,
+        "word": "菲律宾议员要求中国赔偿499亿元",
+        "onboard_time": 1755949103,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216250,
+        "num": 216250,
+        "word": "文严文",
+        "onboard_time": 1755952526,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213404,
+        "num": 213404,
+        "word": "秦海璐 红枣粥基础配料就不基础",
+        "onboard_time": 1755951867,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209898,
+        "num": 209898,
+        "word": "FPX官宣JieJie加入",
+        "onboard_time": 1755944302,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207398,
+        "num": 207398,
+        "word": "丁程鑫忽然舞蹈破碎感",
+        "onboard_time": 1755952584,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206043,
+        "num": 206043,
+        "word": "蔡徐坤ins更新身材照",
+        "onboard_time": 1755940463,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205783,
+        "num": 205783,
+        "word": "肖战20年和万芳聚餐",
+        "onboard_time": 1755951385,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205074,
+        "num": 205074,
+        "word": "时代少年团上海演唱会",
+        "onboard_time": 1755952584,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195177,
+        "num": 195177,
+        "word": "裸睡被看光女子患抑郁丈夫追责公寓",
+        "onboard_time": 1755916822,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200371,
+        "num": 192250,
+        "word": "刘耀文严浩翔比较浪漫",
+        "onboard_time": 1755952526,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186577,
+        "num": 186577,
+        "word": "展轩见面会",
+        "onboard_time": 1755948742,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170696,
+        "num": 170696,
+        "word": "邢菲 苏苏你在渴望什么呢",
+        "onboard_time": 1755952046,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164752,
+        "num": 164752,
+        "word": "21岁和26岁差距真的很大",
+        "onboard_time": 1755938962,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161390,
+        "num": 161390,
+        "word": "军训死亡女生体育满分曾在篮球校队",
+        "onboard_time": 1755948742,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160475,
+        "num": 160475,
+        "word": "国乒无缘欧洲大满贯包揽五冠",
+        "onboard_time": 1755952466,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152386,
+        "num": 152386,
+        "word": "生万物开头的老太是杨幂演的",
+        "onboard_time": 1755932063,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147012,
+        "num": 147012,
+        "word": "马嘉祺献唱致敬英烈主题曲写你",
+        "onboard_time": 1755937161,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145935,
+        "num": 145935,
+        "word": "不刷牙睡觉vs不刷牙吃早餐",
+        "onboard_time": 1755944002,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126863,
+        "num": 126863,
+        "word": "易烊千玺演唱会直播",
+        "onboard_time": 1755951565,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124680,
+        "num": 124680,
+        "word": "你好星期六",
+        "onboard_time": 1755953125,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123686,
+        "num": 123686,
+        "word": "张维伊对董璇撅嘴黑脸",
+        "onboard_time": 1755950124,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典话上合#"
+    }
+  }
+}
