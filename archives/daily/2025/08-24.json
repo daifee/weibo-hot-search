@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1755988837612,
+  "endTime": 1755991440855,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 645783,
+      "num": 125451,
+      "word": "许荔莎",
+      "onboard_time": 1755991277,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582173,
       "num": 408203,
       "word": "田栩宁直播",
@@ -97,6 +105,14 @@
       "onboard_time": 1755969801,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 454620,
+      "num": 788173,
+      "word": "王艳两场直播销售额超3000万",
+      "onboard_time": 1755970998,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 447911,
@@ -145,14 +161,6 @@
       "onboard_time": 1755950124,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326938,
-      "num": 496754,
-      "word": "王艳两场直播销售额超3000万",
-      "onboard_time": 1755970998,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 326399,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 213856,
-      "num": 80277,
+      "num": 104881,
       "word": "太子站起来了",
       "onboard_time": 1755970399,
       "rank": 27,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176059,
+      "num": 176059,
+      "word": "孙颖莎王曼昱3比2张本美和大藤沙月",
+      "onboard_time": 1755990918,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158125,
       "num": 158125,
       "word": "关晓彤去了汪苏泷演唱会",
@@ -273,6 +289,14 @@
       "onboard_time": 1755944602,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142107,
+      "num": 198163,
+      "word": "能换一套房的冠军龙鱼做手术修眼",
+      "onboard_time": 1755966743,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141362,
@@ -299,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133136,
+      "num": 115437,
+      "word": "杨宗纬报平安",
+      "onboard_time": 1755991037,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120518,
       "num": 131832,
       "word": "龚俊快被花少团哄成胚胎了",
@@ -313,14 +345,6 @@
       "onboard_time": 1755965784,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117724,
-      "num": 198163,
-      "word": "能换一套房的冠军龙鱼做手术修眼",
-      "onboard_time": 1755966743,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109863,
@@ -369,6 +393,14 @@
       "onboard_time": 1755962847,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102100,
+      "num": 102100,
+      "word": "林诗栋4比3西蒙高茨",
+      "onboard_time": 1755990378,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 100759,
@@ -427,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93810,
+      "num": 93810,
+      "word": "Xiaohai卫冕EWC街霸6冠军",
+      "onboard_time": 1755990557,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92842,
       "num": 92842,
       "word": "舒适圈",
@@ -475,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75092,
+      "num": 75092,
+      "word": "生万物以为是白眼狼他却报恩了",
+      "onboard_time": 1755957326,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74840,
       "num": 132209,
       "word": "宋轶圈内人缘",
@@ -497,6 +545,14 @@
       "onboard_time": 1755985216,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69296,
+      "num": 55122,
+      "word": "孙颖莎王曼昱捧杯时刻",
+      "onboard_time": 1755991097,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 67265,
@@ -523,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56257,
+      "num": 56257,
+      "word": "北溪管道被毁细节曝光",
+      "onboard_time": 1755988216,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51589,
       "num": 131744,
       "word": "蔡徐坤ins更新身材照",
@@ -547,6 +611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 43204,
+      "num": 43204,
+      "word": "丁程鑫一把抱起张俪",
+      "onboard_time": 1755991217,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36128,
       "num": 46632,
       "word": "工作人员陆续为虞书欣发声",
@@ -560,6 +632,30 @@
       "word": "好友聚饮身亡承诺赔偿丧葬费后反悔",
       "onboard_time": 1755964947,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31951,
+      "num": 42996,
+      "word": "AG夺得EWC穿越火线冠军",
+      "onboard_time": 1755990677,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 30124,
+      "num": 42969,
+      "word": "肖战这场戏看到飙泪",
+      "onboard_time": 1755983534,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29313,
+      "num": 58108,
+      "word": "说好3年迁走户口16年了还在",
+      "onboard_time": 1755980654,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -603,14 +699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26235,
-      "num": 31471,
-      "word": "肖战这场戏看到飙泪",
-      "onboard_time": 1755983534,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25157,
       "num": 46375,
       "word": "汪苏泷20号小怪物叫蓝不岛",
@@ -633,14 +721,6 @@
       "onboard_time": 1755974656,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23637,
-      "num": 58108,
-      "word": "说好3年迁走户口16年了还在",
-      "onboard_time": 1755980654,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22932,
