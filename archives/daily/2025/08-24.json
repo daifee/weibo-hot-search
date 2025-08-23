@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1755980757835,
+  "endTime": 1755981565419,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -619,20 +619,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22393,
+      "num": 30896,
+      "word": "利剑玫瑰",
+      "onboard_time": 1755979096,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22152,
       "num": 30526,
       "word": "中国香港组合男双冠军",
       "onboard_time": 1755976875,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21661,
-      "num": 30896,
-      "word": "利剑玫瑰",
-      "onboard_time": 1755979096,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 19923,
@@ -651,7 +651,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17055,
+      "raw_hot": 18412,
       "num": 30873,
       "word": "相遇",
       "onboard_time": 1755978495,
@@ -667,8 +667,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11589,
-      "num": 30885,
+      "raw_hot": 14601,
+      "num": 58108,
       "word": "说好3年迁走户口16年了还在",
       "onboard_time": 1755980654,
       "rank": 36,
