@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755945701542,
+  "endTime": 1755948009101,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -1275,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 939894,
+      "num": 255670,
+      "word": "郭敬明 小鞠本人白得发光",
+      "onboard_time": 1755944602,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936627,
       "num": 488126,
       "word": "胡先煦坐了近五十个小时飞机",
@@ -1440,6 +1448,14 @@
       "word": "心疼田曦薇",
       "onboard_time": 1755851306,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 868547,
+      "num": 225488,
+      "word": "许荔莎改简介",
+      "onboard_time": 1755945561,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1859,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752925,
+      "num": 278644,
+      "word": "疑似许荔莎被小三",
+      "onboard_time": 1755944902,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 752541,
       "num": 716155,
       "word": "15岁女生军训期间心脏骤停不幸身亡",
@@ -1897,14 +1921,6 @@
       "onboard_time": 1755585382,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 739036,
-      "num": 278644,
-      "word": "疑似许荔莎被小三",
-      "onboard_time": 1755944902,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 736713,
@@ -2643,6 +2659,14 @@
       "category": "民生新闻,读书作家"
     },
     {
+      "raw_hot": 603237,
+      "num": 1096518,
+      "word": "那英 张晚意天天晕成这奶奶样",
+      "onboard_time": 1755943823,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603082,
       "num": 301990,
       "word": "阚清子官宣怀孕后首次播剧",
@@ -2755,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 576139,
+      "num": 282737,
+      "word": "台湾大罢免",
+      "onboard_time": 1755944302,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 575945,
       "num": 551295,
       "word": "大冰问谁是单依纯",
@@ -2849,14 +2881,6 @@
       "onboard_time": 1755645739,
       "rank": 40,
       "category": "军事"
-    },
-    {
-      "raw_hot": 560629,
-      "num": 282737,
-      "word": "台湾大罢免",
-      "onboard_time": 1755944302,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 559756,
@@ -3403,14 +3427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 477548,
-      "num": 255670,
-      "word": "郭敬明 小鞠本人白得发光",
-      "onboard_time": 1755944602,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 476490,
       "num": 414092,
       "word": "早知道董璇这么好追",
@@ -3915,14 +3931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 421989,
-      "num": 421989,
-      "word": "那英 张晚意天天晕成这奶奶样",
-      "onboard_time": 1755943823,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 418603,
       "num": 375784,
       "word": "迪丽热巴 青涩女大",
@@ -4233,6 +4241,14 @@
       "onboard_time": 1755752903,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 394780,
+      "num": 394780,
+      "word": "陈星旭差点留在意大利当女婿",
+      "onboard_time": 1755945742,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 393777,
@@ -5257,6 +5273,14 @@
       "onboard_time": 1755835105,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 313246,
+      "num": 183445,
+      "word": "刘耀文紫发",
+      "onboard_time": 1755947482,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 312268,
@@ -7211,14 +7235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225488,
-      "num": 225488,
-      "word": "许荔莎改简介",
-      "onboard_time": 1755945561,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225472,
       "num": 225472,
       "word": "库里 重庆",
@@ -8161,6 +8177,14 @@
       "onboard_time": 1755937102,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202813,
+      "num": 202813,
+      "word": "男子杀女友逃25年没用过手机身份证",
+      "onboard_time": 1755941783,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202612,
@@ -9683,6 +9707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186078,
+      "num": 186078,
+      "word": "Jiejie回应加入FPX",
+      "onboard_time": 1755946281,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185945,
       "num": 216842,
       "word": "全面推进中国式现代化进新征程首次阅兵",
@@ -10265,6 +10297,14 @@
       "onboard_time": 1755581483,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177650,
+      "num": 177650,
+      "word": "不刷牙睡觉vs不刷牙吃早餐",
+      "onboard_time": 1755944002,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 177425,
@@ -11595,14 +11635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163748,
-      "num": 155063,
-      "word": "不刷牙睡觉vs不刷牙吃早餐",
-      "onboard_time": 1755944002,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 163645,
       "num": 163645,
       "word": "林允林品如发型",
@@ -12811,14 +12843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152297,
-      "num": 152297,
-      "word": "男子杀女友逃25年没用过手机身份证",
-      "onboard_time": 1755941783,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152237,
       "num": 155029,
       "word": "陈赫陈星旭二人世界塞不下一个刘宇宁",
@@ -13939,6 +13963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143600,
+      "num": 143600,
+      "word": "hamin单人镜头",
+      "onboard_time": 1755947662,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143540,
       "num": 143540,
       "word": "趁年轻一定要多发朋友圈",
@@ -14353,6 +14385,14 @@
       "onboard_time": 1755769341,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139949,
+      "num": 201867,
+      "word": "鳄龟被主人遗忘箱底1年瘦成皮包骨",
+      "onboard_time": 1755946102,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139900,
@@ -15403,6 +15443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132859,
+      "num": 132859,
+      "word": "周杰伦温岚听了是震惊的程度",
+      "onboard_time": 1755945382,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132756,
       "num": 132756,
       "word": "21岁和26岁差距真的很大",
@@ -16091,6 +16139,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 128022,
+      "num": 128022,
+      "word": "女子整理遗物发现丈夫留下满屋古董",
+      "onboard_time": 1755947543,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127966,
       "num": 103731,
       "word": "迪丽热巴走路刀马刀马",
@@ -16145,6 +16201,14 @@
       "onboard_time": 1755422423,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127560,
+      "num": 131979,
+      "word": "子夜归一种很新的情敌关系",
+      "onboard_time": 1755946702,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 127552,
@@ -17995,6 +18059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113768,
+      "num": 113768,
+      "word": "张雅琪手机掉河里",
+      "onboard_time": 1755946281,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113738,
       "num": 113738,
       "word": "许魏洲发文告别披荆斩棘",
@@ -18161,14 +18233,6 @@
       "onboard_time": 1755395781,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 112099,
-      "num": 112099,
-      "word": "周杰伦温岚听了是震惊的程度",
-      "onboard_time": 1755945382,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 112080,
@@ -18483,6 +18547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109377,
+      "num": 109377,
+      "word": "30岁拥有了爸妈送的公主房",
+      "onboard_time": 1755947843,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109310,
       "num": 109310,
       "word": "陈星旭地球仅存的一颗灵珠",
@@ -18764,7 +18836,7 @@
     },
     {
       "raw_hot": 107258,
-      "num": 136538,
+      "num": 191364,
       "word": "台风剑鱼最大强度可达强台风级",
       "onboard_time": 1755939863,
       "rank": 27,
@@ -18817,6 +18889,14 @@
       "onboard_time": 1755857964,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106909,
+      "num": 106909,
+      "word": "蔡徐坤Jasmine跟健身更配",
+      "onboard_time": 1755947604,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 106885,
@@ -19043,12 +19123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105155,
+      "num": 105155,
+      "word": "李河民dancebreak",
+      "onboard_time": 1755947903,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105105,
       "num": 105105,
       "word": "陈星旭已撒娇求放过",
       "onboard_time": 1755422423,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105086,
+      "num": 105086,
+      "word": "戏里小媳妇戏外老公姐",
+      "onboard_time": 1755945682,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105063,
@@ -19071,6 +19167,14 @@
       "num": 105040,
       "word": "RiizeTIMA舞台",
       "onboard_time": 1755869485,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 105005,
+      "num": 105005,
+      "word": "TIMA国际音乐大赏舞台",
+      "onboard_time": 1755947302,
       "rank": 45,
       "category": "演出"
     },
@@ -20091,14 +20195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96259,
-      "num": 96259,
-      "word": "戏里小媳妇戏外老公姐",
-      "onboard_time": 1755945682,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 96191,
       "num": 96191,
       "word": "网友质疑范曾失联家人为何不报警",
@@ -20377,6 +20473,14 @@
       "onboard_time": 1755426262,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93373,
+      "num": 93373,
+      "word": "董璇 一听到办婚礼脑瓜子嗡的一下",
+      "onboard_time": 1755947963,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 93254,
@@ -24643,6 +24747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27898,
+      "num": 131968,
+      "word": "急缺霸总的爹女主的妈",
+      "onboard_time": 1755946942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27893,
       "num": 128251,
       "word": "身首离断患者家属称恢复超预期",
@@ -25363,6 +25475,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 18999,
+      "num": 193709,
+      "word": "用智搜把生万物看出花",
+      "onboard_time": 1755946882,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18813,
       "num": 250056,
       "word": "搜查犬盯上可疑行李箱打开全是零食",
@@ -25481,6 +25601,14 @@
       "onboard_time": 1755376994,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 14982,
+      "num": 131972,
+      "word": "林诗栋黄友政vs黄镇廷陈颢桦",
+      "onboard_time": 1755947604,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 14976,
