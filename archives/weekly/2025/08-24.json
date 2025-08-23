@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1755966510419,
+  "endTime": 1755967404585,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1269462,
-      "num": 757984,
+      "num": 1020709,
       "word": "杨宗纬摔下舞台",
       "onboard_time": 1755956608,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 653364,
+      "num": 361740,
+      "word": "张维伊 听小说赚钱",
+      "onboard_time": 1755950904,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582173,
       "num": 408203,
       "word": "田栩宁直播",
@@ -59,12 +67,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 572937,
-      "num": 306878,
-      "word": "张维伊 听小说赚钱",
-      "onboard_time": 1755950904,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 449833,
+      "num": 272846,
+      "word": "虞书欣一遍一遍拍摄",
+      "onboard_time": 1755966084,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 447911,
@@ -83,12 +91,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 356112,
+      "raw_hot": 366809,
       "num": 275010,
       "word": "何晟铭说和于正是很近的朋友",
       "onboard_time": 1755951925,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365241,
+      "num": 365241,
+      "word": "网购盆栽暗藏蛇卵孵出10条蛇",
+      "onboard_time": 1755963865,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335305,
@@ -99,12 +115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332381,
-      "num": 332381,
-      "word": "网购盆栽暗藏蛇卵孵出10条蛇",
-      "onboard_time": 1755963865,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 280849,
+      "num": 280849,
+      "word": "赖清德大罢免0比32惨败",
+      "onboard_time": 1755963266,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 264332,
@@ -123,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 250610,
+      "num": 250610,
+      "word": "猪头离体50分钟后被复活",
+      "onboard_time": 1755964823,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230771,
       "num": 230771,
       "word": "封大脚牺牲",
@@ -137,14 +161,6 @@
       "onboard_time": 1755961408,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212235,
-      "num": 212235,
-      "word": "赖清德大罢免0比32惨败",
-      "onboard_time": 1755963266,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 200966,
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166615,
-      "num": 166615,
-      "word": "虞书欣一遍一遍拍摄",
-      "onboard_time": 1755966084,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158125,
       "num": 158125,
       "word": "关晓彤去了汪苏泷演唱会",
@@ -193,14 +201,6 @@
       "onboard_time": 1755951385,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154390,
-      "num": 154390,
-      "word": "猪头离体50分钟后被复活",
-      "onboard_time": 1755964823,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147422,
@@ -291,8 +291,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101841,
-      "num": 101841,
+      "raw_hot": 103159,
+      "num": 103159,
       "word": "最低工资迎来普调",
       "onboard_time": 1755962847,
       "rank": 39,
@@ -379,6 +379,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76260,
+      "num": 83718,
+      "word": "宋亚轩滑滑梯",
+      "onboard_time": 1755955343,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 74840,
+      "num": 83715,
+      "word": "宋轶圈内人缘",
+      "onboard_time": 1755950003,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51169,
       "num": 129730,
       "word": "履职事项清单让基层对超载任务说不",
@@ -395,8 +411,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31456,
+      "num": 198163,
+      "word": "能换一套房的冠军龙鱼做手术修眼",
+      "onboard_time": 1755966743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19923,
+      "num": 124505,
+      "word": "男子侵占公司4.4公斤黄金打赏主播",
+      "onboard_time": 1755966743,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3927,
-      "num": 784278,
+      "num": 1032108,
       "word": "一觉醒来和夏天告别了",
       "onboard_time": 1755910584,
       "rank": 2,
