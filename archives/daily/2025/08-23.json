@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755926638757,
+  "endTime": 1755927635688,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2940627,
+      "num": 306341,
+      "word": "于正遇到了两个魔丸",
+      "onboard_time": 1755926064,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2460977,
       "num": 483009,
       "word": "裸睡被看光女子患抑郁丈夫追责公寓",
       "onboard_time": 1755916822,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2409566,
-      "num": 229079,
-      "word": "于正遇到了两个魔丸",
-      "onboard_time": 1755926064,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1934303,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1562188,
-      "num": 287794,
+      "num": 300474,
       "word": "向太主动提出给丁佩20倍抚养费",
       "onboard_time": 1755922643,
       "rank": 12,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1521928,
-      "num": 384791,
+      "num": 440192,
       "word": "商场试吃女",
       "onboard_time": 1755922585,
       "rank": 31,
@@ -115,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 969994,
-      "num": 214376,
+      "raw_hot": 993289,
+      "num": 287245,
       "word": "许凯恋情事件全盘梳理",
       "onboard_time": 1755926064,
       "rank": 12,
@@ -128,6 +128,14 @@
       "word": "张维伊好感败光了",
       "onboard_time": 1755914182,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 837171,
+      "num": 1133947,
+      "word": "张维伊回应二胎争议",
+      "onboard_time": 1755925402,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 643868,
-      "num": 206585,
+      "num": 207732,
       "word": "女子遭性侵后杀餐馆店主怨其未阻止",
       "onboard_time": 1755908301,
       "rank": 23,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 558192,
-      "num": 206958,
+      "num": 210507,
       "word": "35岁男子患无精症被妻子下最后通牒",
       "onboard_time": 1755908420,
       "rank": 26,
@@ -233,14 +241,6 @@
       "onboard_time": 1755910522,
       "rank": 6,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 545351,
-      "num": 198633,
-      "word": "张维伊回应二胎争议",
-      "onboard_time": 1755925402,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 520241,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414092,
+      "num": 414092,
+      "word": "早知道董璇这么好追",
+      "onboard_time": 1755924563,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409865,
       "num": 409865,
       "word": "王安宇不吃水里的 胡夏不吃天上的",
@@ -331,6 +339,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392412,
+      "num": 392412,
+      "word": "迪丽热巴要公主抱陈星旭",
+      "onboard_time": 1755926003,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 386548,
+      "num": 262966,
+      "word": "为啥香芋味的东西全都没了",
+      "onboard_time": 1755923063,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 380707,
       "num": 380707,
       "word": "CPA会计 反向购买",
@@ -339,8 +363,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 373906,
-      "num": 192110,
+      "raw_hot": 379045,
+      "num": 218372,
       "word": "在温哥华偶遇王一博了",
       "onboard_time": 1755924682,
       "rank": 16,
@@ -371,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 344875,
-      "num": 195470,
-      "word": "为啥香芋味的东西全都没了",
-      "onboard_time": 1755923063,
-      "rank": 37,
-      "category": "美食"
+      "raw_hot": 335119,
+      "num": 335119,
+      "word": "2市向死亡人员发放养老保险241万",
+      "onboard_time": 1755923844,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329256,
@@ -403,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313094,
-      "num": 313094,
-      "word": "2市向死亡人员发放养老保险241万",
-      "onboard_time": 1755923844,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288460,
       "num": 288460,
       "word": "被丈夫推下悬崖的妻子决定复仇",
@@ -425,14 +441,6 @@
       "onboard_time": 1755919283,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272998,
-      "num": 272998,
-      "word": "早知道董璇这么好追",
-      "onboard_time": 1755924563,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 260839,
@@ -473,14 +481,6 @@
       "onboard_time": 1755880163,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 243700,
-      "num": 178753,
-      "word": "迪丽热巴要公主抱陈星旭",
-      "onboard_time": 1755926003,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 241021,
@@ -545,6 +545,14 @@
       "onboard_time": 1755922283,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211879,
+      "num": 211879,
+      "word": "展轩 卡姿兰",
+      "onboard_time": 1755927203,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 210993,
@@ -625,6 +633,14 @@
       "onboard_time": 1755921203,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185737,
+      "num": 185737,
+      "word": "JYP一顶胯TIMA就切镜头",
+      "onboard_time": 1755926423,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 185582,
@@ -947,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131563,
+      "num": 131563,
+      "word": "姐弟恋为什么越来越多了",
+      "onboard_time": 1755927323,
+      "rank": 36,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 129599,
       "num": 240115,
       "word": "河南开封一花坛拐角尖锐还带钢片",
@@ -995,20 +1019,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125239,
-      "num": 125239,
-      "word": "JYP一顶胯TIMA就切镜头",
-      "onboard_time": 1755926423,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 124268,
       "num": 124268,
       "word": "被献鱼异性恋甜晕了",
       "onboard_time": 1755920603,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122421,
+      "num": 122421,
+      "word": "沈月忙得像个小陀螺",
+      "onboard_time": 1755926843,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 121750,
@@ -1123,12 +1147,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110151,
+      "num": 110151,
+      "word": "小奇差4票满分的表演",
+      "onboard_time": 1755926663,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108172,
       "num": 108172,
       "word": "中方回应英伟达停止生产H20芯片",
       "onboard_time": 1755873206,
       "rank": 38,
       "category": "国际时政,数码"
+    },
+    {
+      "raw_hot": 107585,
+      "num": 107585,
+      "word": "于祥宇老赖之子吐槽老赖之子",
+      "onboard_time": 1755927562,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 105809,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1755868468,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104170,
+      "num": 133315,
+      "word": "东方甄选董宇辉分手费披露终结版",
+      "onboard_time": 1755926603,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 103746,
@@ -1283,12 +1331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85629,
+      "num": 141076,
+      "word": "马思纯备采那英张晚意左右护法",
+      "onboard_time": 1755927383,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85438,
       "num": 239620,
       "word": "aespa炸场",
       "onboard_time": 1755873866,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83668,
+      "num": 444129,
+      "word": "山西网警第一次集中收网抓获近百人",
+      "onboard_time": 1755925883,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83423,
@@ -1403,27 +1467,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73893,
-      "num": 133315,
-      "word": "东方甄选董宇辉分手费披露终结版",
-      "onboard_time": 1755926603,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 73540,
       "num": 190839,
       "word": "外卖小哥在电动车挂20元喊话别偷餐",
       "onboard_time": 1755918081,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72368,
-      "num": 319554,
-      "word": "山西网警第一次集中收网抓获近百人",
-      "onboard_time": 1755925883,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1491,6 +1539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66417,
+      "num": 331276,
+      "word": "纽约州大巴侧翻致6名中国公民受伤",
+      "onboard_time": 1755927083,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66124,
       "num": 238950,
       "word": "结婚必要的三大条件",
@@ -1555,6 +1611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53775,
+      "num": 126932,
+      "word": "女子酒后将男友踹入河中致其溺亡",
+      "onboard_time": 1755926663,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53264,
       "num": 168591,
       "word": "aespa全员中文获奖感言",
@@ -1568,6 +1632,14 @@
       "word": "8月23日4时33分迎处暑",
       "onboard_time": 1755900436,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44904,
+      "num": 140124,
+      "word": "女子遭抢劫强奸后嫌犯却未被批捕",
+      "onboard_time": 1755927144,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1659,6 +1731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27226,
+      "num": 126914,
+      "word": "网友九问长沙代孕取卵案处罚",
+      "onboard_time": 1755927443,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26832,
       "num": 59749,
       "word": "捕风追影二创追着喂饭吃",
@@ -1688,6 +1768,14 @@
       "word": "当地回应省保单位花近300万搬家",
       "onboard_time": 1755918081,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25093,
+      "num": 210516,
+      "word": "申请国赔1911万男子仍坚称完全无罪",
+      "onboard_time": 1755927144,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

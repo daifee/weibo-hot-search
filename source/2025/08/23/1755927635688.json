@@ -1,0 +1,410 @@
+{
+  "runTime": 1755927635688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 837171,
+        "num": 1133947,
+        "word": "张维伊回应二胎争议",
+        "onboard_time": 1755925402,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555663,
+        "num": 555663,
+        "word": "淘宝闪购",
+        "onboard_time": 1755917182,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83668,
+        "num": 444129,
+        "word": "山西网警第一次集中收网抓获近百人",
+        "onboard_time": 1755925883,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1174386,
+        "num": 440192,
+        "word": "商场试吃女",
+        "onboard_time": 1755922585,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1002170,
+        "num": 427768,
+        "word": "裸睡被看光女子患抑郁丈夫追责公寓",
+        "onboard_time": 1755916822,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414092,
+        "num": 414092,
+        "word": "早知道董璇这么好追",
+        "onboard_time": 1755924563,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392412,
+        "num": 392412,
+        "word": "迪丽热巴要公主抱陈星旭",
+        "onboard_time": 1755926003,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335119,
+        "num": 335119,
+        "word": "2市向死亡人员发放养老保险241万",
+        "onboard_time": 1755923844,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334307,
+        "num": 334307,
+        "word": "关晓彤李昀锐耀眼杀青图",
+        "onboard_time": 1755922585,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66417,
+        "num": 331276,
+        "word": "纽约州大巴侧翻致6名中国公民受伤",
+        "onboard_time": 1755927083,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2940627,
+        "num": 306341,
+        "word": "于正遇到了两个魔丸",
+        "onboard_time": 1755926064,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1050255,
+        "num": 300474,
+        "word": "向太主动提出给丁佩20倍抚养费",
+        "onboard_time": 1755922643,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 993289,
+        "num": 287245,
+        "word": "许凯恋情事件全盘梳理",
+        "onboard_time": 1755926064,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386548,
+        "num": 262966,
+        "word": "为啥香芋味的东西全都没了",
+        "onboard_time": 1755923063,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 734034,
+        "num": 249392,
+        "word": "徐艺洋连夜查黄子韬岗",
+        "onboard_time": 1755918922,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575477,
+        "num": 242633,
+        "word": "何晟铭手滑",
+        "onboard_time": 1755914123,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379045,
+        "num": 218372,
+        "word": "在温哥华偶遇王一博了",
+        "onboard_time": 1755924682,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214730,
+        "num": 214730,
+        "word": "胖东来招聘 进不去",
+        "onboard_time": 1755917002,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211879,
+        "num": 211879,
+        "word": "展轩 卡姿兰",
+        "onboard_time": 1755927203,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25093,
+        "num": 210516,
+        "word": "申请国赔1911万男子仍坚称完全无罪",
+        "onboard_time": 1755927144,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267368,
+        "num": 210507,
+        "word": "35岁男子患无精症被妻子下最后通牒",
+        "onboard_time": 1755908420,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210489,
+        "num": 210489,
+        "word": "哥哥们也吃瓜时代峰峻家族史",
+        "onboard_time": 1755920603,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207732,
+        "num": 207732,
+        "word": "女子遭性侵后杀餐馆店主怨其未阻止",
+        "onboard_time": 1755908301,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185737,
+        "num": 185737,
+        "word": "JYP一顶胯TIMA就切镜头",
+        "onboard_time": 1755926423,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182246,
+        "num": 182246,
+        "word": "月经期真正不能做的10件事",
+        "onboard_time": 1755915743,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163093,
+        "num": 163093,
+        "word": "王安宇不吃水里的 胡夏不吃天上的",
+        "onboard_time": 1755917722,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91770,
+        "num": 154323,
+        "word": "今日迎处暑",
+        "onboard_time": 1755924624,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153402,
+        "num": 153402,
+        "word": "车窗 你还我严浩翔",
+        "onboard_time": 1755925824,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85629,
+        "num": 141076,
+        "word": "马思纯备采那英张晚意左右护法",
+        "onboard_time": 1755927383,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44904,
+        "num": 140124,
+        "word": "女子遭抢劫强奸后嫌犯却未被批捕",
+        "onboard_time": 1755927144,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139771,
+        "num": 139771,
+        "word": "原来舌头位置放不对会形成龅牙",
+        "onboard_time": 1755923784,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139268,
+        "num": 139268,
+        "word": "董璇经纪人没招了",
+        "onboard_time": 1755909742,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134786,
+        "num": 134786,
+        "word": "女子为省5块钱肩膀硬扛70公斤道闸",
+        "onboard_time": 1755925523,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133453,
+        "num": 133453,
+        "word": "欧豪一年三部央视大戏",
+        "onboard_time": 1755921203,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133090,
+        "num": 133090,
+        "word": "CPA会计 反向购买",
+        "onboard_time": 1755921982,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132744,
+        "num": 132744,
+        "word": "广州迎本世纪以来最冷8月",
+        "onboard_time": 1755917482,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131563,
+        "num": 131563,
+        "word": "姐弟恋为什么越来越多了",
+        "onboard_time": 1755927323,
+        "rank": 36,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 129794,
+        "num": 129794,
+        "word": "登陆少年长得不基础写字更不基础",
+        "onboard_time": 1755924801,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104170,
+        "num": 127077,
+        "word": "东方甄选董宇辉分手费披露终结版",
+        "onboard_time": 1755926603,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53775,
+        "num": 126932,
+        "word": "女子酒后将男友踹入河中致其溺亡",
+        "onboard_time": 1755926663,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27226,
+        "num": 126914,
+        "word": "网友九问长沙代孕取卵案处罚",
+        "onboard_time": 1755927443,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126904,
+        "num": 126904,
+        "word": "花少7录制结束哭成一片",
+        "onboard_time": 1755908483,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124437,
+        "num": 124437,
+        "word": "那英被猴子薅头发",
+        "onboard_time": 1755925463,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122464,
+        "num": 122464,
+        "word": "泡泡玛特星星人热度反超LABUBU",
+        "onboard_time": 1755925164,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 122421,
+        "num": 122421,
+        "word": "沈月忙得像个小陀螺",
+        "onboard_time": 1755926843,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121738,
+        "num": 121738,
+        "word": "杨幂听到爆剧女王的反应",
+        "onboard_time": 1755924142,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115229,
+        "num": 115229,
+        "word": "朋友突然去世将是一生的潮湿",
+        "onboard_time": 1755925824,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110413,
+        "num": 110413,
+        "word": "陈奕恒机场状态",
+        "onboard_time": 1755922103,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110151,
+        "num": 110151,
+        "word": "小奇差4票满分的表演",
+        "onboard_time": 1755926663,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107585,
+        "num": 107585,
+        "word": "于祥宇老赖之子吐槽老赖之子",
+        "onboard_time": 1755927562,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的绚丽雪域篇章#"
+    }
+  }
+}
