@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755954102311,
+  "endTime": 1755955846346,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -243,6 +243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2129956,
+      "num": 795924,
+      "word": "苏苏死了",
+      "onboard_time": 1755953426,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2033517,
       "num": 565242,
       "word": "王晶曝张柏芝谢霆锋离婚原因",
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1647327,
+      "num": 726896,
+      "word": "封大脚牺牲",
+      "onboard_time": 1755952466,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1622456,
       "num": 1398319,
       "word": "费文典死了",
@@ -585,14 +601,6 @@
       "onboard_time": 1755510803,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1461236,
-      "num": 726896,
-      "word": "封大脚牺牲",
-      "onboard_time": 1755952466,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 1451741,
@@ -1355,6 +1363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 921666,
+      "num": 921666,
+      "word": "接连2名儿童感染食脑虫去世",
+      "onboard_time": 1755950124,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 917994,
       "num": 1146879,
       "word": "当当网创始人李国庆大婚",
@@ -1521,14 +1537,6 @@
       "onboard_time": 1755771443,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 857827,
-      "num": 555376,
-      "word": "苏苏死了",
-      "onboard_time": 1755953426,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 856879,
@@ -1899,14 +1907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 765071,
-      "num": 765071,
-      "word": "接连2名儿童感染食脑虫去世",
-      "onboard_time": 1755950124,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 762995,
       "num": 858815,
       "word": "生万物第20集封神",
@@ -2031,6 +2031,14 @@
       "num": 735171,
       "word": "孙颖莎vs早田希娜",
       "onboard_time": 1755779123,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 734349,
+      "num": 734349,
+      "word": "孙颖莎vs陈熠",
+      "onboard_time": 1755951565,
       "rank": 4,
       "category": "体育"
     },
@@ -2289,6 +2297,14 @@
       "onboard_time": 1755733822,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 681791,
+      "num": 681791,
+      "word": "京东崩了",
+      "onboard_time": 1755954086,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 679603,
@@ -2793,14 +2809,6 @@
       "onboard_time": 1755594683,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 587975,
-      "num": 587975,
-      "word": "孙颖莎vs陈熠",
-      "onboard_time": 1755951565,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 586249,
@@ -3857,6 +3865,14 @@
       "onboard_time": 1755437364,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445543,
+      "num": 242314,
+      "word": "白鹿直播",
+      "onboard_time": 1755955226,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 445535,
@@ -5515,6 +5531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305978,
+      "num": 354838,
+      "word": "国乒无缘欧洲大满贯包揽五冠",
+      "onboard_time": 1755952466,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305592,
       "num": 305592,
       "word": "泰国传奇大妈蟹肉炒蛋卖882元被罚",
@@ -5659,6 +5683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 297758,
+      "num": 236820,
+      "word": "这居然是保剑锋",
+      "onboard_time": 1755953846,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297516,
       "num": 259928,
       "word": "沈佳润美美桑内中文版",
@@ -5713,6 +5745,14 @@
       "onboard_time": 1755951746,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295619,
+      "num": 218582,
+      "word": "生万物大结局",
+      "onboard_time": 1755953365,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 295346,
@@ -6491,12 +6531,12 @@
       "category": "民生新闻,读书作家"
     },
     {
-      "raw_hot": 259936,
-      "num": 354838,
-      "word": "国乒无缘欧洲大满贯包揽五冠",
-      "onboard_time": 1755952466,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 260401,
+      "num": 241233,
+      "word": "张维伊 听小说赚钱",
+      "onboard_time": 1755950904,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 259676,
@@ -6923,14 +6963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241233,
-      "num": 241233,
-      "word": "张维伊 听小说赚钱",
-      "onboard_time": 1755950904,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240920,
       "num": 211284,
       "word": "谷爱凌新身份",
@@ -7041,14 +7073,6 @@
       "onboard_time": 1755529404,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 236820,
-      "num": 236820,
-      "word": "这居然是保剑锋",
-      "onboard_time": 1755953846,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 236270,
@@ -7379,6 +7403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227094,
+      "num": 217213,
+      "word": "肖战20年和万芳聚餐",
+      "onboard_time": 1755951385,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227055,
       "num": 220655,
       "word": "非遗黄金才是中式顶奢",
@@ -7515,6 +7547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223360,
+      "num": 216942,
+      "word": "邢菲 苏苏你在渴望什么呢",
+      "onboard_time": 1755952046,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223188,
       "num": 192281,
       "word": "封四太坏了",
@@ -7617,6 +7657,14 @@
       "onboard_time": 1755934464,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219416,
+      "num": 219416,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1755954385,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 219403,
@@ -7963,6 +8011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 211131,
+      "num": 211131,
+      "word": "关晓彤去了汪苏泷演唱会",
+      "onboard_time": 1755955166,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210993,
       "num": 335825,
       "word": "军训身亡女生家属等尸检结果",
@@ -8025,6 +8081,14 @@
       "onboard_time": 1755348745,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209707,
+      "num": 209707,
+      "word": "孙颖莎回应4比1陈熠",
+      "onboard_time": 1755955765,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 209597,
@@ -8171,14 +8235,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 207728,
-      "num": 207728,
-      "word": "肖战20年和万芳聚餐",
-      "onboard_time": 1755951385,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207623,
       "num": 207623,
       "word": "鹿晗北京演唱会抢票",
@@ -8289,14 +8345,6 @@
       "onboard_time": 1755656541,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 204697,
-      "num": 204697,
-      "word": "生万物大结局",
-      "onboard_time": 1755953365,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 204565,
@@ -8739,6 +8787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199314,
+      "num": 199314,
+      "word": "泥潭作者夸奖梓渝",
+      "onboard_time": 1755954925,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199297,
       "num": 199297,
       "word": "封大脚让人感觉像三伏天喝了碗凉水",
@@ -9163,6 +9219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195153,
+      "num": 195153,
+      "word": "马嘉祺冠军登顶",
+      "onboard_time": 1755954986,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195149,
       "num": 204195,
       "word": "王曼昱谈与孙颖莎搭档变化",
@@ -9241,6 +9305,14 @@
       "onboard_time": 1755681503,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194124,
+      "num": 194124,
+      "word": "田曦薇这几句脑内循环好几天了",
+      "onboard_time": 1755955286,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 194032,
@@ -9331,6 +9403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193412,
+      "num": 193412,
+      "word": "海芋恋",
+      "onboard_time": 1755954687,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193354,
       "num": 248912,
       "word": "央视揭秘机票差价背后的猫腻",
@@ -9377,14 +9457,6 @@
       "onboard_time": 1755387078,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192870,
-      "num": 192870,
-      "word": "邢菲 苏苏你在渴望什么呢",
-      "onboard_time": 1755952046,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 192757,
@@ -9747,6 +9819,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 189204,
+      "num": 189204,
+      "word": "宋亚轩滑滑梯",
+      "onboard_time": 1755955343,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189181,
       "num": 962278,
       "word": "中国世遗8分钟视频纯享版",
@@ -9841,6 +9921,14 @@
       "onboard_time": 1755948564,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188102,
+      "num": 188102,
+      "word": "文韬这男的哪哪都不基础",
+      "onboard_time": 1755955166,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 188095,
@@ -10089,6 +10177,14 @@
       "onboard_time": 1755779543,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184952,
+      "num": 184952,
+      "word": "马嘉祺缓释胶囊",
+      "onboard_time": 1755954868,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 184851,
@@ -11419,6 +11515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170048,
+      "num": 217771,
+      "word": "王曼昱vs石洵瑶",
+      "onboard_time": 1755955226,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170010,
       "num": 170010,
       "word": "杨幂生万物真的做到了万物生",
@@ -11699,6 +11803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166207,
+      "num": 166207,
+      "word": "BKPP",
+      "onboard_time": 1755955827,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166037,
       "num": 166037,
       "word": "生万物转场",
@@ -11713,14 +11825,6 @@
       "onboard_time": 1755881184,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166033,
-      "num": 166033,
-      "word": "京东崩了",
-      "onboard_time": 1755954086,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 165840,
@@ -11969,6 +12073,14 @@
       "onboard_time": 1755744502,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163524,
+      "num": 194463,
+      "word": "生万物极其震撼的2分钟",
+      "onboard_time": 1755955827,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 163405,
@@ -12707,6 +12819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157540,
+      "num": 157540,
+      "word": "宋亚轩solo",
+      "onboard_time": 1755954147,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157440,
       "num": 157440,
       "word": "纪念大会将奏唱抗战曲目",
@@ -12993,6 +13113,14 @@
       "onboard_time": 1755493283,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154673,
+      "num": 154673,
+      "word": "樊振东赛程预告",
+      "onboard_time": 1755954266,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 154658,
@@ -17515,6 +17643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120393,
+      "num": 219220,
+      "word": "孙颖莎大眼萌妹",
+      "onboard_time": 1755955646,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120340,
       "num": 120340,
       "word": "桃黑黑校园男神断层第一",
@@ -18513,6 +18649,14 @@
       "onboard_time": 1755427104,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113041,
+      "num": 219410,
+      "word": "人民的M9来了",
+      "onboard_time": 1755954446,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 112977,
@@ -25380,7 +25524,7 @@
     },
     {
       "raw_hot": 25465,
-      "num": 730152,
+      "num": 815610,
       "word": "99岁老兵回忆和日军拼刺刀",
       "onboard_time": 1755922103,
       "rank": 2,
