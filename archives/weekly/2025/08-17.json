@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755930882484,
+  "endTime": 1755931659837,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -2275,6 +2275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 649644,
+      "num": 242435,
+      "word": "于正发的誓和我余征有什么关系",
+      "onboard_time": 1755931043,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647821,
       "num": 647821,
       "word": "孙颖莎vs高达",
@@ -2697,6 +2705,14 @@
       "onboard_time": 1755575122,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 563735,
+      "num": 324560,
+      "word": "倪萍想借钱给万千惠填补一千万",
+      "onboard_time": 1755928222,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 563701,
@@ -3123,28 +3139,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 497944,
-      "num": 497944,
-      "word": "自行车降价",
-      "onboard_time": 1755569360,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 497635,
-      "num": 177530,
+      "raw_hot": 500700,
+      "num": 239012,
       "word": "许荔莎询问许凯家暴真假",
       "onboard_time": 1755928343,
       "rank": 12,
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 497292,
-      "num": 294453,
-      "word": "倪萍想借钱给万千惠填补一千万",
-      "onboard_time": 1755928222,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 497944,
+      "num": 497944,
+      "word": "自行车降价",
+      "onboard_time": 1755569360,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 496197,
@@ -3201,6 +3209,14 @@
       "onboard_time": 1755785785,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486137,
+      "num": 486137,
+      "word": "姐弟恋为什么越来越多了",
+      "onboard_time": 1755927323,
+      "rank": 36,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 485106,
@@ -4220,7 +4236,7 @@
     },
     {
       "raw_hot": 379045,
-      "num": 218372,
+      "num": 234190,
       "word": "在温哥华偶遇王一博了",
       "onboard_time": 1755924682,
       "rank": 16,
@@ -4273,6 +4289,14 @@
       "onboard_time": 1755398961,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376786,
+      "num": 237681,
+      "word": "被韩国人的婚礼震惊到了",
+      "onboard_time": 1755931523,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 376560,
@@ -4401,14 +4425,6 @@
       "onboard_time": 1755765924,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 369431,
-      "num": 369431,
-      "word": "姐弟恋为什么越来越多了",
-      "onboard_time": 1755927323,
-      "rank": 36,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 369210,
@@ -4561,6 +4577,14 @@
       "onboard_time": 1755569480,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 349521,
+      "num": 237250,
+      "word": "月薪一万offer四千Worker三千Joker",
+      "onboard_time": 1755927683,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 349162,
@@ -5049,6 +5073,14 @@
       "onboard_time": 1755504862,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 313865,
+      "num": 235854,
+      "word": "张伦硕也没叫考拉拉子",
+      "onboard_time": 1755930085,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 313639,
@@ -5835,14 +5867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272087,
-      "num": 176212,
-      "word": "月薪一万offer四千Worker三千Joker",
-      "onboard_time": 1755927683,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 271172,
       "num": 231321,
       "word": "宋佳演我嗑井柏然刘雯",
@@ -6347,6 +6371,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 247028,
+      "num": 247028,
+      "word": "胖东来新店本科学历保洁岗已招满",
+      "onboard_time": 1755927982,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246601,
       "num": 246601,
       "word": "老破小住久了副作用就来了",
@@ -6587,14 +6619,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 237777,
-      "num": 237777,
-      "word": "胖东来新店本科学历保洁岗已招满",
-      "onboard_time": 1755927982,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237062,
       "num": 237062,
       "word": "多邻国崩了",
@@ -6737,6 +6761,14 @@
       "onboard_time": 1755520402,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233105,
+      "num": 233105,
+      "word": "沈腾临场反应堪比何炅",
+      "onboard_time": 1755931222,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 232933,
@@ -6972,7 +7004,7 @@
     },
     {
       "raw_hot": 225376,
-      "num": 175134,
+      "num": 183766,
       "word": "迪丽热巴家人们觉得我今晚可以成团吗",
       "onboard_time": 1755927923,
       "rank": 19,
@@ -7497,14 +7529,6 @@
       "onboard_time": 1755476241,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209800,
-      "num": 175345,
-      "word": "张伦硕也没叫考拉拉子",
-      "onboard_time": 1755930085,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 209734,
@@ -10915,6 +10939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167448,
+      "num": 167448,
+      "word": "谁能把欧阳娣娣电池扣了",
+      "onboard_time": 1755930502,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167290,
       "num": 277189,
       "word": "人民日报专访胖东来董事长于东来",
@@ -11201,6 +11233,14 @@
       "onboard_time": 1755571281,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164300,
+      "num": 164300,
+      "word": "梓渝晒青岛音乐节vlog",
+      "onboard_time": 1755931582,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 164250,
@@ -12180,7 +12220,7 @@
     },
     {
       "raw_hot": 154943,
-      "num": 154943,
+      "num": 177505,
       "word": "女子为省5块钱肩膀硬扛70公斤道闸",
       "onboard_time": 1755925523,
       "rank": 34,
@@ -12289,6 +12329,14 @@
       "onboard_time": 1755856705,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153632,
+      "num": 153632,
+      "word": "王一栩就没亏过cp粉的粮",
+      "onboard_time": 1755931164,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 153583,
@@ -12929,6 +12977,14 @@
       "onboard_time": 1755674363,
       "rank": 43,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 147111,
+      "num": 246287,
+      "word": "上海的泊狗位竟然已经有空调了",
+      "onboard_time": 1755931463,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147022,
@@ -14467,6 +14523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135877,
+      "num": 135877,
+      "word": "Gr小铁",
+      "onboard_time": 1755931282,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135767,
       "num": 135767,
       "word": "严浩翔合火人档案",
@@ -14873,6 +14937,14 @@
       "onboard_time": 1755507863,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132593,
+      "num": 132593,
+      "word": "上海月入70000一天的花销",
+      "onboard_time": 1755930322,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 132544,
@@ -16292,7 +16364,7 @@
     },
     {
       "raw_hot": 122213,
-      "num": 122213,
+      "num": 164432,
       "word": "最大规模军乐团将亮相",
       "onboard_time": 1755928643,
       "rank": 28,
@@ -16400,14 +16472,6 @@
       "word": "苏新皓白的发光",
       "onboard_time": 1755774203,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 121376,
-      "num": 121376,
-      "word": "谁能把欧阳娣娣电池扣了",
-      "onboard_time": 1755930502,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -17243,6 +17307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114885,
+      "num": 114885,
+      "word": "李沁太可爱了",
+      "onboard_time": 1755930803,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114824,
       "num": 114824,
       "word": "范丞丞刀马刀马",
@@ -17745,6 +17817,14 @@
       "onboard_time": 1755480261,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109843,
+      "num": 109843,
+      "word": "花少 和谐",
+      "onboard_time": 1755928222,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 109696,
@@ -18851,6 +18931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99663,
+      "num": 99663,
+      "word": "我将永远拥护王玉雯型人格",
+      "onboard_time": 1755931463,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99627,
       "num": 99627,
       "word": "王影璐献鱼随地大小睡",
@@ -19001,14 +19089,6 @@
       "onboard_time": 1755846325,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 98152,
-      "num": 98152,
-      "word": "花少 和谐",
-      "onboard_time": 1755928222,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 98140,
@@ -19235,6 +19315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 96657,
+      "num": 109976,
+      "word": "胖东来新店招聘仅45分钟就报满",
+      "onboard_time": 1755931523,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96562,
       "num": 96562,
       "word": "A股又大涨",
@@ -19249,6 +19337,14 @@
       "onboard_time": 1755427042,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96314,
+      "num": 96314,
+      "word": "剑网3",
+      "onboard_time": 1755930442,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 96191,
@@ -19577,6 +19673,14 @@
       "onboard_time": 1755786683,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92398,
+      "num": 92398,
+      "word": "九三阅兵亮相的主战坦克有多牛",
+      "onboard_time": 1755931343,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92307,
@@ -20385,14 +20489,6 @@
       "onboard_time": 1755697408,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 82325,
-      "num": 82325,
-      "word": "李沁太可爱了",
-      "onboard_time": 1755930803,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 82201,
