@@ -1,0 +1,410 @@
+{
+  "runTime": 1755969619622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776347,
+        "num": 776347,
+        "word": "法国网红直播被虐300小时后死亡",
+        "onboard_time": 1755957508,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1025486,
+        "num": 711636,
+        "word": "烂尾",
+        "onboard_time": 1755959848,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3004,
+        "num": 654343,
+        "word": "一觉醒来和夏天告别了",
+        "onboard_time": 1755910584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627805,
+        "num": 627805,
+        "word": "杨宗纬摔下舞台",
+        "onboard_time": 1755956608,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 326399,
+        "num": 326399,
+        "word": "猪头离体50分钟后被复活",
+        "onboard_time": 1755964823,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297509,
+        "num": 297509,
+        "word": "网购盆栽暗藏蛇卵孵出10条蛇",
+        "onboard_time": 1755963865,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418491,
+        "num": 296997,
+        "word": "张维伊 听小说赚钱",
+        "onboard_time": 1755950904,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312215,
+        "num": 296146,
+        "word": "苏苏死了",
+        "onboard_time": 1755953426,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294706,
+        "num": 294706,
+        "word": "食脑虫",
+        "onboard_time": 1755962007,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251964,
+        "num": 251964,
+        "word": "赖清德大罢免0比32惨败",
+        "onboard_time": 1755963266,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1285595,
+        "num": 240796,
+        "word": "虞书欣一遍一遍拍摄",
+        "onboard_time": 1755966084,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 966078,
+        "num": 216948,
+        "word": "许荔莎休战半个月",
+        "onboard_time": 1755967642,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849059,
+        "num": 201333,
+        "word": "何晟铭透露离开电视圈原因",
+        "onboard_time": 1755968002,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170912,
+        "num": 170912,
+        "word": "10元车费乘客误付14万的哥报警",
+        "onboard_time": 1755961947,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606578,
+        "num": 169989,
+        "word": "疑似许凯赵晴悄悄同居",
+        "onboard_time": 1755941903,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284034,
+        "num": 160931,
+        "word": "田栩宁直播",
+        "onboard_time": 1755951505,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292631,
+        "num": 149089,
+        "word": "疑似许荔莎被小三",
+        "onboard_time": 1755944902,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171588,
+        "num": 137137,
+        "word": "易烊千玺被粉丝的尖叫声吓到了",
+        "onboard_time": 1755960807,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136970,
+        "num": 136970,
+        "word": "封大脚牺牲",
+        "onboard_time": 1755952466,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133257,
+        "num": 133257,
+        "word": "接连2名儿童感染食脑虫去世",
+        "onboard_time": 1755950124,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117724,
+        "num": 133225,
+        "word": "能换一套房的冠军龙鱼做手术修眼",
+        "onboard_time": 1755966743,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108845,
+        "num": 133174,
+        "word": "关晓彤去了汪苏泷演唱会",
+        "onboard_time": 1755955166,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103580,
+        "num": 133133,
+        "word": "白鹿直播",
+        "onboard_time": 1755955226,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96234,
+        "num": 133062,
+        "word": "汪顺又又又现身成都啦",
+        "onboard_time": 1755963746,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95897,
+        "num": 133017,
+        "word": "肖战20年和万芳聚餐",
+        "onboard_time": 1755951385,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89149,
+        "num": 132950,
+        "word": "妻子做饭1年丈夫瘦32斤",
+        "onboard_time": 1755941123,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88974,
+        "num": 132905,
+        "word": "易烊千玺说会看小网站留言",
+        "onboard_time": 1755967583,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84843,
+        "num": 132823,
+        "word": "郭敬明 小鞠本人白得发光",
+        "onboard_time": 1755944602,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82862,
+        "num": 132788,
+        "word": "台湾大罢免投票结果出炉",
+        "onboard_time": 1755957627,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74558,
+        "num": 132731,
+        "word": "迪丽热巴跳了神的随波逐流",
+        "onboard_time": 1755959907,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82230,
+        "num": 132623,
+        "word": "孙颖莎王曼昱将再次上演巅峰之战",
+        "onboard_time": 1755968900,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71458,
+        "num": 132575,
+        "word": "男子杀害欲离婚妻子被判死缓",
+        "onboard_time": 1755961408,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67265,
+        "num": 132530,
+        "word": "国乒无缘欧洲大满贯包揽五冠",
+        "onboard_time": 1755952466,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66884,
+        "num": 132464,
+        "word": "不刷牙睡觉vs不刷牙吃早餐",
+        "onboard_time": 1755944002,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65177,
+        "num": 132385,
+        "word": "WBG对战iG",
+        "onboard_time": 1755953184,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62480,
+        "num": 132359,
+        "word": "最低工资迎来普调",
+        "onboard_time": 1755962847,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61267,
+        "num": 132320,
+        "word": "迪丽热巴说二次元妹妹叫迪丽冷巴",
+        "onboard_time": 1755968301,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61232,
+        "num": 132209,
+        "word": "宋轶圈内人缘",
+        "onboard_time": 1755950003,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59015,
+        "num": 132174,
+        "word": "SMTR25人气对比",
+        "onboard_time": 1755968662,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57061,
+        "num": 132137,
+        "word": "九三阅兵踢正步训练合集",
+        "onboard_time": 1755964165,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15385,
+        "num": 132083,
+        "word": "剑鱼或成影响三亚的最强台风之一",
+        "onboard_time": 1755969500,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56758,
+        "num": 131990,
+        "word": "中国7月用电量过万亿度创世界纪录",
+        "onboard_time": 1755955887,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55900,
+        "num": 131939,
+        "word": "严浩翔给贺峻霖solo垫音",
+        "onboard_time": 1755958047,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55744,
+        "num": 131874,
+        "word": "警方通报景区保洁员被多人殴打",
+        "onboard_time": 1755963088,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55051,
+        "num": 131832,
+        "word": "龚俊快被花少团哄成胚胎了",
+        "onboard_time": 1755962426,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51589,
+        "num": 131744,
+        "word": "蔡徐坤ins更新身材照",
+        "onboard_time": 1755940463,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51412,
+        "num": 131696,
+        "word": "檀健次陈哲远对唱",
+        "onboard_time": 1755965784,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50139,
+        "num": 131658,
+        "word": "京东崩了",
+        "onboard_time": 1755954086,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50095,
+        "num": 131609,
+        "word": "人民的M9来了",
+        "onboard_time": 1755954446,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 49872,
+        "num": 131521,
+        "word": "宋亚轩滑滑梯",
+        "onboard_time": 1755955343,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典话上合#"
+    }
+  }
+}
