@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755956506153,
+  "endTime": 1755958912296,
   "band_list": [
     {
       "raw_hot": 9599901,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2630044,
-      "num": 846861,
+      "num": 1077471,
       "word": "苏苏死了",
       "onboard_time": 1755953426,
       "rank": 8,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2353307,
-      "num": 512209,
+      "num": 713124,
       "word": "疑似许凯赵晴悄悄同居",
       "onboard_time": 1755941903,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1647327,
-      "num": 726896,
+      "num": 926029,
       "word": "封大脚牺牲",
       "onboard_time": 1755952466,
       "rank": 6,
@@ -145,6 +145,14 @@
       "onboard_time": 1755908483,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1183181,
+      "num": 1183181,
+      "word": "京东崩了",
+      "onboard_time": 1755954086,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 1179121,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 939894,
-      "num": 401321,
+      "num": 422833,
       "word": "郭敬明 小鞠本人白得发光",
       "onboard_time": 1755944602,
       "rank": 33,
@@ -228,11 +236,19 @@
     },
     {
       "raw_hot": 921666,
-      "num": 921666,
+      "num": 1001045,
       "word": "接连2名儿童感染食脑虫去世",
       "onboard_time": 1755950124,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 895453,
+      "num": 895453,
+      "word": "杨宗纬摔下舞台",
+      "onboard_time": 1755956608,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 878062,
@@ -275,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 825163,
-      "num": 825163,
-      "word": "京东崩了",
-      "onboard_time": 1755954086,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 789594,
       "num": 526422,
       "word": "翔霖",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 771835,
-      "num": 539393,
+      "num": 609639,
       "word": "白鹿直播",
       "onboard_time": 1755955226,
       "rank": 15,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 770415,
-      "num": 506645,
+      "num": 675982,
       "word": "新秀丽工作人员为虞书欣发声",
       "onboard_time": 1755950003,
       "rank": 11,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 752925,
-      "num": 349458,
+      "num": 548762,
       "word": "疑似许荔莎被小三",
       "onboard_time": 1755944902,
       "rank": 12,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 734349,
-      "num": 734349,
+      "num": 928325,
       "word": "孙颖莎vs陈熠",
       "onboard_time": 1755951565,
       "rank": 4,
@@ -353,6 +361,14 @@
       "onboard_time": 1755927203,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703562,
+      "num": 703562,
+      "word": "法国网红直播被虐300小时后死亡",
+      "onboard_time": 1755957508,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 699674,
@@ -441,6 +457,14 @@
       "onboard_time": 1755908301,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 623932,
+      "num": 623932,
+      "word": "生万物以为是白眼狼他却报恩了",
+      "onboard_time": 1755957326,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 621538,
@@ -755,8 +779,24 @@
       "category": "演出"
     },
     {
+      "raw_hot": 365194,
+      "num": 365194,
+      "word": "严浩翔给贺峻霖solo垫音",
+      "onboard_time": 1755958047,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 363398,
+      "num": 363398,
+      "word": "BKPP",
+      "onboard_time": 1755955827,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 360359,
-      "num": 360359,
+      "num": 736807,
       "word": "国乒无缘欧洲大满贯包揽五冠",
       "onboard_time": 1755952466,
       "rank": 43,
@@ -833,6 +873,14 @@
       "onboard_time": 1755917482,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318567,
+      "num": 318567,
+      "word": "破音",
+      "onboard_time": 1755957567,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 311869,
@@ -948,7 +996,7 @@
     },
     {
       "raw_hot": 265542,
-      "num": 265542,
+      "num": 718285,
       "word": "王曼昱vs石洵瑶",
       "onboard_time": 1755955226,
       "rank": 28,
@@ -961,14 +1009,6 @@
       "onboard_time": 1755933862,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 262842,
-      "num": 262842,
-      "word": "BKPP",
-      "onboard_time": 1755955827,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 260839,
@@ -985,6 +1025,14 @@
       "onboard_time": 1755955765,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253346,
+      "num": 305662,
+      "word": "生万物央八年冠",
+      "onboard_time": 1755957686,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 252519,
@@ -1124,7 +1172,7 @@
     },
     {
       "raw_hot": 228328,
-      "num": 218113,
+      "num": 310451,
       "word": "不刷牙睡觉vs不刷牙吃早餐",
       "onboard_time": 1755944002,
       "rank": 23,
@@ -1144,6 +1192,14 @@
       "word": "迪丽热巴家人们觉得我今晚可以成团吗",
       "onboard_time": 1755927923,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224594,
+      "num": 224594,
+      "word": "迪丽热巴陈星旭有点默契但不多",
+      "onboard_time": 1755958348,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1195,6 +1251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 218863,
+      "num": 517481,
+      "word": "中国7月用电量过万亿度创世界纪录",
+      "onboard_time": 1755955887,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216250,
       "num": 216250,
       "word": "文严文",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1755875008,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207965,
+      "num": 207965,
+      "word": "宋亚轩舞台浪漫小疯子",
+      "onboard_time": 1755958289,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 207398,
@@ -1339,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198830,
+      "num": 198830,
+      "word": "易烊千玺礐嶨观看方式",
+      "onboard_time": 1755958827,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198279,
       "num": 198279,
       "word": "中国国家队发布王楚钦处暑海报",
@@ -1361,6 +1441,14 @@
       "onboard_time": 1755933682,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196259,
+      "num": 196259,
+      "word": "没有如果",
+      "onboard_time": 1755958289,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 195404,
@@ -1387,12 +1475,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193245,
+      "num": 196709,
+      "word": "澳门赌场公关年薪百万",
+      "onboard_time": 1755956066,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190553,
       "num": 190553,
       "word": "你好星期六",
       "onboard_time": 1755953125,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188891,
+      "num": 198394,
+      "word": "王曼昱晋级欧洲大满贯决赛",
+      "onboard_time": 1755958348,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 188729,
@@ -1593,6 +1697,14 @@
       "onboard_time": 1755956186,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168749,
+      "num": 448421,
+      "word": "台湾大罢免投票结果出炉",
+      "onboard_time": 1755957627,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168414,
@@ -2500,7 +2612,7 @@
     },
     {
       "raw_hot": 113041,
-      "num": 341907,
+      "num": 543295,
       "word": "人民的M9来了",
       "onboard_time": 1755954446,
       "rank": 19,
@@ -2569,6 +2681,14 @@
       "onboard_time": 1755947843,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109357,
+      "num": 306498,
+      "word": "前夫弟弟女朋友的女儿占据户口16年",
+      "onboard_time": 1755957686,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108535,
@@ -3379,14 +3499,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 61515,
-      "num": 337033,
-      "word": "中国7月用电量过万亿度创世界纪录",
-      "onboard_time": 1755955887,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60643,
       "num": 88510,
       "word": "姜涛晒瘦身成果",
@@ -3432,6 +3544,14 @@
       "word": "宠物狗把宠物鸭遛丢了主人报警",
       "onboard_time": 1755955887,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53421,
+      "num": 452495,
+      "word": "东莞杀妻案受害者家属发声",
+      "onboard_time": 1755957686,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3563,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31978,
+      "num": 202540,
+      "word": "子女趁父亲病危瓜分200万遗产",
+      "onboard_time": 1755958827,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31108,
       "num": 155266,
       "word": "苍蝇神助攻高尔夫球手赢得91万美金",
@@ -3668,7 +3796,7 @@
     },
     {
       "raw_hot": 25465,
-      "num": 853954,
+      "num": 1141412,
       "word": "99岁老兵回忆和日军拼刺刀",
       "onboard_time": 1755922103,
       "rank": 2,
@@ -3737,6 +3865,14 @@
       "onboard_time": 1755885379,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20686,
+      "num": 197730,
+      "word": "男子模仿影视桥段盗窃电缆后留狠话",
+      "onboard_time": 1755957686,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19537,
