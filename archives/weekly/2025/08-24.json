@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1755991440855,
+  "endTime": 1755992289425,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 645783,
-      "num": 125451,
+      "num": 130697,
       "word": "许荔莎",
       "onboard_time": 1755991277,
       "rank": 15,
@@ -107,7 +107,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 454620,
+      "raw_hot": 488967,
       "num": 788173,
       "word": "王艳两场直播销售额超3000万",
       "onboard_time": 1755970998,
@@ -137,6 +137,14 @@
       "onboard_time": 1755970159,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 412060,
+      "num": 214661,
+      "word": "杨宗纬报平安",
+      "onboard_time": 1755991037,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 366809,
@@ -195,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232679,
+      "num": 232679,
+      "word": "孙颖莎王曼昱3比2张本美和大藤沙月",
+      "onboard_time": 1755990918,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230771,
       "num": 230771,
       "word": "封大脚牺牲",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 213856,
-      "num": 104881,
+      "num": 117656,
       "word": "太子站起来了",
       "onboard_time": 1755970399,
       "rank": 27,
@@ -257,14 +273,6 @@
       "onboard_time": 1755955226,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176059,
-      "num": 176059,
-      "word": "孙颖莎王曼昱3比2张本美和大藤沙月",
-      "onboard_time": 1755990918,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 158125,
@@ -323,14 +331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133136,
-      "num": 115437,
-      "word": "杨宗纬报平安",
-      "onboard_time": 1755991037,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120518,
       "num": 131832,
       "word": "龚俊快被花少团哄成胚胎了",
@@ -361,6 +361,14 @@
       "onboard_time": 1755953184,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108761,
+      "num": 108761,
+      "word": "林诗栋4比3西蒙高茨",
+      "onboard_time": 1755990378,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 107222,
@@ -395,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102100,
-      "num": 102100,
-      "word": "林诗栋4比3西蒙高茨",
-      "onboard_time": 1755990378,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100759,
       "num": 100759,
       "word": "今天你要嫁给我",
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99170,
+      "num": 99170,
+      "word": "孙颖莎王曼昱捧杯时刻",
+      "onboard_time": 1755991097,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98327,
       "num": 98327,
       "word": "余景天露背装把刘彰辣到",
@@ -433,6 +441,14 @@
       "onboard_time": 1755955887,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96252,
+      "num": 96252,
+      "word": "Xiaohai卫冕EWC街霸6冠军",
+      "onboard_time": 1755990557,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 95446,
@@ -459,14 +475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93810,
-      "num": 93810,
-      "word": "Xiaohai卫冕EWC街霸6冠军",
-      "onboard_time": 1755990557,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 92842,
       "num": 92842,
       "word": "舒适圈",
@@ -489,6 +497,14 @@
       "onboard_time": 1755967583,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 88462,
+      "num": 88462,
+      "word": "生万物以为是白眼狼他却报恩了",
+      "onboard_time": 1755957326,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 82622,
@@ -515,14 +531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 75092,
-      "num": 75092,
-      "word": "生万物以为是白眼狼他却报恩了",
-      "onboard_time": 1755957326,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 74840,
       "num": 132209,
       "word": "宋轶圈内人缘",
@@ -547,12 +555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69296,
-      "num": 55122,
-      "word": "孙颖莎王曼昱捧杯时刻",
-      "onboard_time": 1755991097,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 70661,
+      "num": 83481,
+      "word": "丁程鑫一把抱起张俪",
+      "onboard_time": 1755991217,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 70589,
+      "num": 70589,
+      "word": "北溪管道被毁细节曝光",
+      "onboard_time": 1755988216,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67265,
@@ -579,12 +595,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 56257,
-      "num": 56257,
-      "word": "北溪管道被毁细节曝光",
-      "onboard_time": 1755988216,
-      "rank": 28,
-      "category": "海外新闻"
+      "raw_hot": 52140,
+      "num": 52140,
+      "word": "林诗栋回应逆转进决赛",
+      "onboard_time": 1755991697,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52100,
+      "num": 52100,
+      "word": "街霸",
+      "onboard_time": 1755991518,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 51589,
@@ -611,12 +635,44 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 43204,
-      "num": 43204,
-      "word": "丁程鑫一把抱起张俪",
-      "onboard_time": 1755991217,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 47898,
+      "num": 47898,
+      "word": "原来香芋味是人工造出来的",
+      "onboard_time": 1755991697,
+      "rank": 40,
+      "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 46291,
+      "num": 46291,
+      "word": "第三次综合演练圆满结束",
+      "onboard_time": 1755992178,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 44035,
+      "num": 44035,
+      "word": "孙颖莎离场时望向球迷",
+      "onboard_time": 1755991697,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41814,
+      "num": 41814,
+      "word": "会长是女仆大人新作漫画",
+      "onboard_time": 1755991938,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 37231,
+      "num": 135655,
+      "word": "海产姐妹女双冠军",
+      "onboard_time": 1755991459,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 36128,

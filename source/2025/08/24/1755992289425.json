@@ -1,0 +1,410 @@
+{
+  "runTime": 1755992289425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456695,
+        "num": 890588,
+        "word": "法国网红直播被虐300小时后死亡",
+        "onboard_time": 1755957508,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 493465,
+        "num": 493465,
+        "word": "烂尾",
+        "onboard_time": 1755959848,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3916,
+        "num": 490230,
+        "word": "一觉醒来和夏天告别了",
+        "onboard_time": 1755910584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488967,
+        "num": 488967,
+        "word": "王艳两场直播销售额超3000万",
+        "onboard_time": 1755970998,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232679,
+        "num": 232679,
+        "word": "孙颖莎王曼昱3比2张本美和大藤沙月",
+        "onboard_time": 1755990918,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220349,
+        "num": 220349,
+        "word": "林诗栋",
+        "onboard_time": 1755970159,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412060,
+        "num": 214661,
+        "word": "杨宗纬报平安",
+        "onboard_time": 1755991037,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191358,
+        "num": 191358,
+        "word": "赖清德大罢免0比32惨败",
+        "onboard_time": 1755963266,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136187,
+        "num": 136187,
+        "word": "能换一套房的冠军龙鱼做手术修眼",
+        "onboard_time": 1755966743,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37231,
+        "num": 135655,
+        "word": "海产姐妹女双冠军",
+        "onboard_time": 1755991459,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 716760,
+        "num": 135307,
+        "word": "许荔莎休战半个月",
+        "onboard_time": 1755967642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543568,
+        "num": 134440,
+        "word": "何晟铭透露离开电视圈原因",
+        "onboard_time": 1755968002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326218,
+        "num": 133750,
+        "word": "虞书欣一遍一遍拍摄",
+        "onboard_time": 1755966084,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332651,
+        "num": 133265,
+        "word": "疑似许凯赵晴悄悄同居",
+        "onboard_time": 1755941903,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200999,
+        "num": 132211,
+        "word": "网购盆栽暗藏蛇卵孵出10条蛇",
+        "onboard_time": 1755963865,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177219,
+        "num": 131914,
+        "word": "杨宗纬摔下舞台",
+        "onboard_time": 1755956608,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141732,
+        "num": 130800,
+        "word": "苏苏死了",
+        "onboard_time": 1755953426,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 589493,
+        "num": 130697,
+        "word": "许荔莎",
+        "onboard_time": 1755991277,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130126,
+        "num": 130126,
+        "word": "接连2名儿童感染食脑虫去世",
+        "onboard_time": 1755950124,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120230,
+        "num": 120230,
+        "word": "张维伊 听小说赚钱",
+        "onboard_time": 1755950904,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126372,
+        "num": 117656,
+        "word": "太子站起来了",
+        "onboard_time": 1755970399,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108761,
+        "num": 108761,
+        "word": "林诗栋4比3西蒙高茨",
+        "onboard_time": 1755990378,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101285,
+        "num": 101285,
+        "word": "食脑虫",
+        "onboard_time": 1755962007,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99170,
+        "num": 99170,
+        "word": "孙颖莎王曼昱捧杯时刻",
+        "onboard_time": 1755991097,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96405,
+        "num": 96405,
+        "word": "妻子做饭1年丈夫瘦32斤",
+        "onboard_time": 1755941123,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96252,
+        "num": 96252,
+        "word": "Xiaohai卫冕EWC街霸6冠军",
+        "onboard_time": 1755990557,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88744,
+        "num": 88744,
+        "word": "10元车费乘客误付14万的哥报警",
+        "onboard_time": 1755961947,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88462,
+        "num": 88462,
+        "word": "生万物以为是白眼狼他却报恩了",
+        "onboard_time": 1755957326,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70661,
+        "num": 83481,
+        "word": "丁程鑫一把抱起张俪",
+        "onboard_time": 1755991217,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63485,
+        "num": 82187,
+        "word": "田栩宁直播",
+        "onboard_time": 1755951505,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81358,
+        "num": 81358,
+        "word": "猪头离体50分钟后被复活",
+        "onboard_time": 1755964823,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70589,
+        "num": 70589,
+        "word": "北溪管道被毁细节曝光",
+        "onboard_time": 1755988216,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56557,
+        "num": 56557,
+        "word": "最低工资迎来普调",
+        "onboard_time": 1755962847,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56462,
+        "num": 56462,
+        "word": "男子杀害欲离婚妻子被判死缓",
+        "onboard_time": 1755961408,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54389,
+        "num": 54389,
+        "word": "白鹿直播",
+        "onboard_time": 1755955226,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52276,
+        "num": 52276,
+        "word": "不刷牙睡觉vs不刷牙吃早餐",
+        "onboard_time": 1755944002,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52140,
+        "num": 52140,
+        "word": "林诗栋回应逆转进决赛",
+        "onboard_time": 1755991697,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52100,
+        "num": 52100,
+        "word": "街霸",
+        "onboard_time": 1755991518,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48447,
+        "num": 48447,
+        "word": "杨幂回复邢菲",
+        "onboard_time": 1755959967,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48369,
+        "num": 48369,
+        "word": "肖战20年和万芳聚餐",
+        "onboard_time": 1755951385,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47898,
+        "num": 47898,
+        "word": "原来香芋味是人工造出来的",
+        "onboard_time": 1755991697,
+        "rank": 40,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 47839,
+        "num": 47839,
+        "word": "中国7月用电量过万亿度创世界纪录",
+        "onboard_time": 1755955887,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47364,
+        "num": 47364,
+        "word": "国乒无缘欧洲大满贯包揽五冠",
+        "onboard_time": 1755952466,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46291,
+        "num": 46291,
+        "word": "第三次综合演练圆满结束",
+        "onboard_time": 1755992178,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44741,
+        "num": 44741,
+        "word": "郭敬明 小鞠本人白得发光",
+        "onboard_time": 1755944602,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44035,
+        "num": 44035,
+        "word": "孙颖莎离场时望向球迷",
+        "onboard_time": 1755991697,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43206,
+        "num": 43206,
+        "word": "关晓彤去了汪苏泷演唱会",
+        "onboard_time": 1755955166,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42261,
+        "num": 42261,
+        "word": "易烊千玺被粉丝的尖叫声吓到了",
+        "onboard_time": 1755960807,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41814,
+        "num": 41814,
+        "word": "会长是女仆大人新作漫画",
+        "onboard_time": 1755991938,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 39632,
+        "num": 39632,
+        "word": "人民的M9来了",
+        "onboard_time": 1755954446,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#全景记录习近平总书记西藏之行#"
+    }
+  }
+}
