@@ -1,0 +1,410 @@
+{
+  "runTime": 1755963476379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1598506,
+        "num": 1598506,
+        "word": "法国网红直播被虐300小时后死亡",
+        "onboard_time": 1755957508,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2653038,
+        "num": 1248791,
+        "word": "烂尾",
+        "onboard_time": 1755959848,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6524,
+        "num": 576651,
+        "word": "一觉醒来和夏天告别了",
+        "onboard_time": 1755910584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2379028,
+        "num": 570497,
+        "word": "杨宗纬摔下舞台",
+        "onboard_time": 1755956608,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 495409,
+        "num": 495409,
+        "word": "接连2名儿童感染食脑虫去世",
+        "onboard_time": 1755950124,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477190,
+        "num": 477190,
+        "word": "台湾大罢免投票结果出炉",
+        "onboard_time": 1755957627,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1495147,
+        "num": 433675,
+        "word": "苏苏死了",
+        "onboard_time": 1755953426,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1173228,
+        "num": 391996,
+        "word": "田栩宁直播",
+        "onboard_time": 1755951505,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333643,
+        "num": 333643,
+        "word": "食脑虫",
+        "onboard_time": 1755962007,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 324206,
+        "num": 324206,
+        "word": "京东崩了",
+        "onboard_time": 1755954086,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1048134,
+        "num": 320523,
+        "word": "疑似许凯赵晴悄悄同居",
+        "onboard_time": 1755941903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562624,
+        "num": 316648,
+        "word": "易烊千玺被粉丝的尖叫声吓到了",
+        "onboard_time": 1755960807,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 434799,
+        "num": 315878,
+        "word": "张维伊 听小说赚钱",
+        "onboard_time": 1755950904,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418985,
+        "num": 308663,
+        "word": "疑似许荔莎被小三",
+        "onboard_time": 1755944902,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308406,
+        "num": 308406,
+        "word": "10元车费乘客误付14万的哥报警",
+        "onboard_time": 1755961947,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402711,
+        "num": 295074,
+        "word": "银子结局",
+        "onboard_time": 1755959067,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397287,
+        "num": 276638,
+        "word": "何晟铭说和于正是很近的朋友",
+        "onboard_time": 1755951925,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368137,
+        "num": 265185,
+        "word": "白鹿直播",
+        "onboard_time": 1755955226,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238146,
+        "num": 238146,
+        "word": "中国7月用电量过万亿度创世界纪录",
+        "onboard_time": 1755955887,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45004,
+        "num": 237333,
+        "word": "警方通报景区保洁员被多人殴打",
+        "onboard_time": 1755963088,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299751,
+        "num": 236399,
+        "word": "郭敬明 小鞠本人白得发光",
+        "onboard_time": 1755944602,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285619,
+        "num": 234566,
+        "word": "杨幂回复邢菲",
+        "onboard_time": 1755959967,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198849,
+        "num": 233372,
+        "word": "WBG对战iG",
+        "onboard_time": 1755953184,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 245948,
+        "num": 231764,
+        "word": "妻子做饭1年丈夫瘦32斤",
+        "onboard_time": 1755941123,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231330,
+        "num": 231330,
+        "word": "迪丽热巴跳了神的随波逐流",
+        "onboard_time": 1755959907,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229773,
+        "num": 229773,
+        "word": "肖战20年和万芳聚餐",
+        "onboard_time": 1755951385,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225276,
+        "num": 225276,
+        "word": "许荔莎改简介",
+        "onboard_time": 1755945561,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222998,
+        "num": 222998,
+        "word": "关晓彤去了汪苏泷演唱会",
+        "onboard_time": 1755955166,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161798,
+        "num": 207922,
+        "word": "不刷牙睡觉vs不刷牙吃早餐",
+        "onboard_time": 1755944002,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34311,
+        "num": 206330,
+        "word": "打猎误击同伴致死赔偿215万",
+        "onboard_time": 1755963207,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205745,
+        "num": 205745,
+        "word": "男子杀害欲离婚妻子被判死缓",
+        "onboard_time": 1755961408,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196506,
+        "num": 196506,
+        "word": "龚俊快被花少团哄成胚胎了",
+        "onboard_time": 1755962426,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187468,
+        "num": 187468,
+        "word": "破音",
+        "onboard_time": 1755957567,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184657,
+        "num": 184657,
+        "word": "今天你要嫁给我",
+        "onboard_time": 1755959429,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172549,
+        "num": 172549,
+        "word": "台湾大罢免",
+        "onboard_time": 1755944302,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165353,
+        "num": 165353,
+        "word": "易烊千玺talking",
+        "onboard_time": 1755963327,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152862,
+        "num": 152862,
+        "word": "严浩翔给贺峻霖solo垫音",
+        "onboard_time": 1755958047,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53915,
+        "num": 152835,
+        "word": "赖清德大罢免0比32惨败",
+        "onboard_time": 1755963266,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52068,
+        "num": 152832,
+        "word": "大大大鸡枞菌大大大",
+        "onboard_time": 1755962847,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74129,
+        "num": 152832,
+        "word": "最低工资迎来普调",
+        "onboard_time": 1755962847,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152832,
+        "num": 152831,
+        "word": "吴磊顶级魅魔",
+        "onboard_time": 1755961347,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150289,
+        "num": 150289,
+        "word": "21岁和26岁差距真的很大",
+        "onboard_time": 1755938962,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144346,
+        "num": 144346,
+        "word": "C罗沙超杯决赛失利",
+        "onboard_time": 1755962306,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144234,
+        "num": 144234,
+        "word": "张晚意发2025年6月30日的日落",
+        "onboard_time": 1755960387,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137698,
+        "num": 137698,
+        "word": "陈小春在自己的演唱会给张智霖过生日",
+        "onboard_time": 1755962546,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136394,
+        "num": 136394,
+        "word": "迪丽热巴喵这一下",
+        "onboard_time": 1755963266,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135878,
+        "num": 135878,
+        "word": "很好的幼儿园的性教育",
+        "onboard_time": 1755961827,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133711,
+        "num": 133711,
+        "word": "孙颖莎vs陈熠",
+        "onboard_time": 1755951565,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130411,
+        "num": 130411,
+        "word": "蔡徐坤ins更新身材照",
+        "onboard_time": 1755940463,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123759,
+        "num": 130392,
+        "word": "欧阳娜娜去了汪苏泷演唱会",
+        "onboard_time": 1755960026,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#全景记录习近平总书记西藏之行#"
+    }
+  }
+}
