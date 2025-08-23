@@ -1,6 +1,6 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755941901647,
+  "endTime": 1755944719458,
   "band_list": [
     {
       "raw_hot": 5670118,
@@ -25,6 +25,22 @@
       "onboard_time": 1755916822,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2353307,
+      "num": 212658,
+      "word": "疑似许凯赵晴悄悄同居",
+      "onboard_time": 1755941903,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2020714,
+      "num": 2020714,
+      "word": "FPX官宣JieJie加入",
+      "onboard_time": 1755944302,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 1934303,
@@ -331,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564918,
+      "num": 564918,
+      "word": "被调去教高中的小学老师称压力很大",
+      "onboard_time": 1755938542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 558192,
       "num": 210507,
       "word": "35岁男子患无精症被妻子下最后通牒",
@@ -371,6 +395,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 500497,
+      "num": 500497,
+      "word": "Gr小铁",
+      "onboard_time": 1755931282,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 482697,
       "num": 363509,
       "word": "乔杉发文官宣三胎",
@@ -392,6 +424,14 @@
       "word": "胖东来招聘 进不去",
       "onboard_time": 1755917002,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 475287,
+      "num": 164806,
+      "word": "妻子做饭1年丈夫瘦32斤",
+      "onboard_time": 1755941123,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -435,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453928,
+      "num": 202985,
+      "word": "台湾大罢免",
+      "onboard_time": 1755944302,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 450289,
       "num": 450289,
       "word": "第四代住宅",
@@ -459,14 +507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 411543,
-      "num": 411543,
-      "word": "被调去教高中的小学老师称压力很大",
-      "onboard_time": 1755938542,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 409865,
       "num": 409865,
       "word": "王安宇不吃水里的 胡夏不吃天上的",
@@ -481,6 +521,14 @@
       "onboard_time": 1755937161,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 392703,
+      "num": 392703,
+      "word": "节目组给张维伊耳机打码",
+      "onboard_time": 1755942083,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 392483,
@@ -513,14 +561,6 @@
       "onboard_time": 1755921982,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 379171,
-      "num": 379171,
-      "word": "Gr小铁",
-      "onboard_time": 1755931282,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 379045,
@@ -611,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295052,
-      "num": 159872,
-      "word": "妻子做饭1年丈夫瘦32斤",
-      "onboard_time": 1755941123,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294830,
       "num": 294830,
       "word": "胖东来新店本科学历保洁岗已招满",
@@ -697,6 +729,14 @@
       "onboard_time": 1755880163,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 245839,
+      "num": 195277,
+      "word": "阿策道歉",
+      "onboard_time": 1755943583,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 241021,
@@ -867,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195193,
+      "num": 195193,
+      "word": "SMTR25狼与美女舞台",
+      "onboard_time": 1755942023,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188729,
       "num": 188729,
       "word": "鬼吹灯动画开播",
@@ -907,20 +955,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185140,
+      "num": 239861,
+      "word": "一年瘦30斤的面部变化",
+      "onboard_time": 1755939622,
+      "rank": 9,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 182460,
+      "num": 182460,
+      "word": "那英 张晚意天天晕成这奶奶样",
+      "onboard_time": 1755943823,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179313,
       "num": 167390,
       "word": "泡泡玛特星星人热度反超LABUBU",
       "onboard_time": 1755925164,
       "rank": 24,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 179027,
-      "num": 239861,
-      "word": "一年瘦30斤的面部变化",
-      "onboard_time": 1755939622,
-      "rank": 9,
-      "category": "运动健身"
     },
     {
       "raw_hot": 178818,
@@ -1059,6 +1115,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164371,
+      "num": 164371,
+      "word": "李一桐蓝色露背裙",
+      "onboard_time": 1755943402,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163748,
+      "num": 155063,
+      "word": "不刷牙睡觉vs不刷牙吃早餐",
+      "onboard_time": 1755944002,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162783,
+      "num": 152893,
+      "word": "世界之外",
+      "onboard_time": 1755943342,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161914,
       "num": 161914,
       "word": "陈钰琪焦俊艳新剧演闺蜜",
@@ -1163,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153534,
+      "num": 153534,
+      "word": "这居然是张新成30岁的状态",
+      "onboard_time": 1755942263,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153483,
       "num": 153483,
       "word": "宁绣绣成了土地的女儿",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1755871466,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152297,
+      "num": 152297,
+      "word": "男子杀女友逃25年没用过手机身份证",
+      "onboard_time": 1755941783,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152237,
@@ -1219,11 +1315,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149397,
+      "num": 153287,
+      "word": "那英 五旬高能量老太",
+      "onboard_time": 1755943702,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148845,
       "num": 551870,
       "word": "今日迎处暑",
       "onboard_time": 1755924624,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148727,
+      "num": 148727,
+      "word": "对尖扎黄河特大桥事故挂牌督办",
+      "onboard_time": 1755942623,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1379,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134163,
+      "num": 153086,
+      "word": "格莱美主席为袁娅维新歌鼓掌",
+      "onboard_time": 1755943762,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132915,
       "num": 240361,
       "word": "裸辞不上班5个月的真实感受",
@@ -1401,6 +1521,14 @@
       "onboard_time": 1755925824,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131469,
+      "num": 131469,
+      "word": "郭敬明 小鞠本人白得发光",
+      "onboard_time": 1755944602,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 129599,
@@ -1467,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123222,
+      "num": 123222,
+      "word": "王者荣耀S41赛季前瞻直播",
+      "onboard_time": 1755944361,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122986,
       "num": 121616,
       "word": "谢娜看似组局实则做局",
@@ -1489,6 +1625,14 @@
       "onboard_time": 1755928643,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121834,
+      "num": 121834,
+      "word": "时代少年团献给所有冠军们的舞台",
+      "onboard_time": 1755943463,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 121750,
@@ -1537,6 +1681,22 @@
       "onboard_time": 1755905359,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119869,
+      "num": 119869,
+      "word": "年锦本赛季个人四抓25次",
+      "onboard_time": 1755943284,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 119852,
+      "num": 119851,
+      "word": "猫 你倒是管管他啊",
+      "onboard_time": 1755943463,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 118071,
@@ -1592,6 +1752,14 @@
       "word": "一觉醒来和夏天告别了",
       "onboard_time": 1755910584,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115837,
+      "num": 115837,
+      "word": "南京6只野猪丝滑渡江",
+      "onboard_time": 1755941783,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1771,12 +1939,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105660,
+      "num": 105660,
+      "word": "黄子韬说下一期不来了",
+      "onboard_time": 1755942382,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105193,
       "num": 105193,
       "word": "芳名三九开机",
       "onboard_time": 1755921323,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105036,
+      "num": 152680,
+      "word": "卢卡申科驳斥泽连斯基涉华不满言论",
+      "onboard_time": 1755943702,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104835,
@@ -1817,6 +2001,14 @@
       "onboard_time": 1755941243,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102466,
+      "num": 102466,
+      "word": "万千惠发文感谢倪萍",
+      "onboard_time": 1755943883,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 101666,
@@ -1931,12 +2123,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95254,
-      "num": 95254,
-      "word": "男子杀女友逃25年没用过手机身份证",
-      "onboard_time": 1755941783,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 95794,
+      "num": 95794,
+      "word": "肖顺尧囚车红衣射箭美学",
+      "onboard_time": 1755944602,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 95025,
@@ -1969,6 +2161,22 @@
       "onboard_time": 1755915141,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93601,
+      "num": 93601,
+      "word": "难怪宫廷剧里都喜欢用葡萄做道具",
+      "onboard_time": 1755943342,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 93573,
+      "num": 93573,
+      "word": "小猫不知道什么是下雪",
+      "onboard_time": 1755944422,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 92737,
@@ -2041,14 +2249,6 @@
       "onboard_time": 1755941123,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89912,
-      "num": 89912,
-      "word": "南京6只野猪丝滑渡江",
-      "onboard_time": 1755941783,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89088,
@@ -2691,6 +2891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21673,
+      "num": 651059,
+      "word": "99岁老兵回忆和日军拼刺刀",
+      "onboard_time": 1755922103,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21516,
       "num": 88432,
       "word": "捕风追影",
@@ -2715,12 +2923,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19537,
+      "num": 152368,
+      "word": "父亲工亡胚胎移植子女能享抚恤金吗",
+      "onboard_time": 1755943284,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17306,
       "num": 46805,
       "word": "aespa中文感言",
       "onboard_time": 1755890955,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16734,
+      "num": 119852,
+      "word": "演员陈龙力挺郑国霖景区打工",
+      "onboard_time": 1755943524,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 13913,
@@ -2764,6 +2988,9 @@
     },
     {
       "word": "#共同谱写中国式现代化的绚丽雪域篇章#"
+    },
+    {
+      "word": "#习近平引经据典话上合#"
     }
   ]
 }
