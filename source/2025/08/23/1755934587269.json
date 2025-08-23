@@ -1,0 +1,410 @@
+{
+  "runTime": 1755934587269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 673510,
+        "num": 1107761,
+        "word": "生万物开头的老太是杨幂演的",
+        "onboard_time": 1755932063,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 667157,
+        "num": 667157,
+        "word": "姐弟恋为什么越来越多了",
+        "onboard_time": 1755927323,
+        "rank": 1,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 57798,
+        "num": 465446,
+        "word": "山西网警第一次集中收网抓获近百人",
+        "onboard_time": 1755925883,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 893201,
+        "num": 449949,
+        "word": "张维伊回应二胎争议",
+        "onboard_time": 1755925402,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426766,
+        "num": 426766,
+        "word": "裸睡被看光女子患抑郁丈夫追责公寓",
+        "onboard_time": 1755916822,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301664,
+        "num": 301664,
+        "word": "上海的泊狗位竟然已经有空调了",
+        "onboard_time": 1755931463,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686326,
+        "num": 298004,
+        "word": "倪萍想借钱给万千惠填补一千万",
+        "onboard_time": 1755928222,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622374,
+        "num": 290765,
+        "word": "梓渝晒青岛音乐节vlog",
+        "onboard_time": 1755931582,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265280,
+        "num": 265280,
+        "word": "CPA税法",
+        "onboard_time": 1755933862,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138507,
+        "num": 264480,
+        "word": "2市向死亡人员发放养老保险241万",
+        "onboard_time": 1755923844,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1730621,
+        "num": 263779,
+        "word": "赵晴前男友毛飞廉关注了许荔莎",
+        "onboard_time": 1755933443,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439414,
+        "num": 263411,
+        "word": "张伦硕也没叫考拉拉子",
+        "onboard_time": 1755930085,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1634200,
+        "num": 262007,
+        "word": "于正遇到了两个魔丸",
+        "onboard_time": 1755926064,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427683,
+        "num": 261441,
+        "word": "被韩国人的婚礼震惊到了",
+        "onboard_time": 1755931523,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1451741,
+        "num": 260041,
+        "word": "何晟铭卡点1314发博",
+        "onboard_time": 1755933443,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322617,
+        "num": 259319,
+        "word": "上海月入70000一天的花销",
+        "onboard_time": 1755930322,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304925,
+        "num": 258234,
+        "word": "向太主动提出给丁佩20倍抚养费",
+        "onboard_time": 1755922643,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258011,
+        "num": 258011,
+        "word": "胖东来新店本科学历保洁岗已招满",
+        "onboard_time": 1755927982,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244563,
+        "num": 244563,
+        "word": "月薪一万offer四千Worker三千Joker",
+        "onboard_time": 1755927683,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62905,
+        "num": 221414,
+        "word": "奥迪E5预售权益太值了",
+        "onboard_time": 1755932963,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 217680,
+        "num": 217680,
+        "word": "徐艺洋连夜查黄子韬岗",
+        "onboard_time": 1755918922,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209182,
+        "num": 209182,
+        "word": "存款到10万是什么体验",
+        "onboard_time": 1755929063,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196898,
+        "num": 196898,
+        "word": "宋亚轩王牌9官宣节奏",
+        "onboard_time": 1755933682,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193675,
+        "num": 193675,
+        "word": "迪丽热巴要公主抱陈星旭",
+        "onboard_time": 1755926003,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174852,
+        "num": 174852,
+        "word": "在温哥华偶遇王一博了",
+        "onboard_time": 1755924682,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172619,
+        "num": 172619,
+        "word": "为啥香芋味的东西全都没了",
+        "onboard_time": 1755923063,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155775,
+        "num": 155775,
+        "word": "李沁 来都来了",
+        "onboard_time": 1755931882,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75954,
+        "num": 155197,
+        "word": "最大规模军乐团将亮相",
+        "onboard_time": 1755928643,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152237,
+        "num": 155029,
+        "word": "陈赫陈星旭二人世界塞不下一个刘宇宁",
+        "onboard_time": 1755933023,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154883,
+        "num": 154883,
+        "word": "董璇上次婚礼最大感触是再也不办婚礼",
+        "onboard_time": 1755933562,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154079,
+        "num": 154079,
+        "word": "身份证到期换新证一定要更新信息",
+        "onboard_time": 1755932723,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 153389,
+        "num": 153389,
+        "word": "枭起青壤",
+        "onboard_time": 1755933682,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135779,
+        "num": 135779,
+        "word": "黄子弘凡希望大家都开心",
+        "onboard_time": 1755934102,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128294,
+        "num": 128294,
+        "word": "胖东来新店招聘仅45分钟就报满",
+        "onboard_time": 1755931523,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147272,
+        "num": 127773,
+        "word": "早知道董璇这么好追",
+        "onboard_time": 1755924563,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122000,
+        "num": 122000,
+        "word": "丞磊说周也曾舜晞陈哲远是粤语小天才",
+        "onboard_time": 1755932902,
+        "rank": 35,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 122986,
+        "num": 121616,
+        "word": "谢娜看似组局实则做局",
+        "onboard_time": 1755933803,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118113,
+        "num": 118113,
+        "word": "JYP一顶胯TIMA就切镜头",
+        "onboard_time": 1755926423,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117477,
+        "num": 117477,
+        "word": "迪丽热巴家人们觉得我今晚可以成团吗",
+        "onboard_time": 1755927923,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115666,
+        "num": 115666,
+        "word": "月经期真正不能做的10件事",
+        "onboard_time": 1755915743,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110234,
+        "num": 110234,
+        "word": "男子听到怪声2个月楼上却空无一人",
+        "onboard_time": 1755933323,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107431,
+        "num": 107431,
+        "word": "不敢想陈小春二公得多强",
+        "onboard_time": 1755934342,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105824,
+        "num": 105824,
+        "word": "俄军机运送朝鲜阵亡士兵遗体回国",
+        "onboard_time": 1755932663,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100807,
+        "num": 100807,
+        "word": "人别怕 牛来了",
+        "onboard_time": 1755934464,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98788,
+        "num": 100791,
+        "word": "Gr小铁",
+        "onboard_time": 1755931282,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100785,
+        "num": 100785,
+        "word": "35岁男子患无精症被妻子下最后通牒",
+        "onboard_time": 1755908420,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99764,
+        "num": 99764,
+        "word": "淘宝闪购",
+        "onboard_time": 1755917182,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99383,
+        "num": 99383,
+        "word": "花少导演说这季都是情绪稳定的",
+        "onboard_time": 1755934043,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98330,
+        "num": 98330,
+        "word": "谁能把欧阳娣娣电池扣了",
+        "onboard_time": 1755930502,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93935,
+        "num": 93935,
+        "word": "女子为省5块钱肩膀硬扛70公斤道闸",
+        "onboard_time": 1755925523,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中国式现代化的绚丽雪域篇章#"
+    }
+  }
+}
