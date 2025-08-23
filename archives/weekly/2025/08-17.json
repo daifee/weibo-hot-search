@@ -1,6 +1,6 @@
 {
   "startTime": 1755361840317,
-  "endTime": 1755919502947,
+  "endTime": 1755921021445,
   "band_list": [
     {
       "raw_hot": 15716235,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 2460977,
-      "num": 387192,
+      "num": 483009,
       "word": "裸睡被看光女子患抑郁丈夫追责公寓",
       "onboard_time": 1755916822,
       "rank": 3,
@@ -947,12 +947,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1115726,
+      "num": 1178516,
+      "word": "徐艺洋连夜查黄子韬岗",
+      "onboard_time": 1755918922,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1108293,
       "num": 509394,
       "word": "破音",
       "onboard_time": 1755694345,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1106319,
+      "num": 1157114,
+      "word": "董璇 张维伊",
+      "onboard_time": 1755917302,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1105989,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1755397701,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 981965,
-      "num": 1157114,
-      "word": "董璇 张维伊",
-      "onboard_time": 1755917302,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 981456,
@@ -2499,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590397,
+      "num": 590397,
+      "word": "淘宝闪购",
+      "onboard_time": 1755917182,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 589191,
       "num": 453201,
       "word": "杨幂的第100套高定",
@@ -3179,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476237,
+      "num": 476237,
+      "word": "胖东来招聘 进不去",
+      "onboard_time": 1755917002,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475544,
       "num": 178171,
       "word": "多女性用棉密码病变速度让医生震惊",
@@ -3771,12 +3795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408387,
-      "num": 408387,
-      "word": "淘宝闪购",
-      "onboard_time": 1755917182,
-      "rank": 17,
-      "category": "互联网"
+      "raw_hot": 408875,
+      "num": 408875,
+      "word": "王安宇不吃水里的 胡夏不吃天上的",
+      "onboard_time": 1755917722,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 407238,
@@ -4451,14 +4475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346838,
-      "num": 346838,
-      "word": "胖东来招聘 进不去",
-      "onboard_time": 1755917002,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 346343,
       "num": 335046,
       "word": "范曾继子发布父亲看展照片",
@@ -4635,6 +4651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329256,
+      "num": 329256,
+      "word": "CPA",
+      "onboard_time": 1755913522,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 329046,
       "num": 210791,
       "word": "胡先煦回应王安宇",
@@ -4801,14 +4825,6 @@
       "onboard_time": 1755395361,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 319677,
-      "num": 319677,
-      "word": "王安宇不吃水里的 胡夏不吃天上的",
-      "onboard_time": 1755917722,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 319223,
@@ -5971,14 +5987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257522,
-      "num": 257522,
-      "word": "徐艺洋连夜查黄子韬岗",
-      "onboard_time": 1755918922,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256954,
       "num": 239453,
       "word": "婚后13天发现妻子双子宫只有一个肾",
@@ -6025,6 +6033,14 @@
       "onboard_time": 1755699687,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253132,
+      "num": 253132,
+      "word": "国产剧豆瓣评分还可信吗",
+      "onboard_time": 1755919283,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 253054,
@@ -9627,14 +9643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178812,
-      "num": 178812,
-      "word": "CPA",
-      "onboard_time": 1755913522,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 178703,
       "num": 238473,
       "word": "12岁自闭症男孩大理洱海走失",
@@ -10187,6 +10195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173358,
+      "num": 173358,
+      "word": "陈立农你神图有了",
+      "onboard_time": 1755919943,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173333,
       "num": 159547,
       "word": "孙怡参观马天宇的农场",
@@ -10448,6 +10464,14 @@
       "word": "这座中国大桥横竖都是世界第一",
       "onboard_time": 1755757044,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170348,
+      "num": 170348,
+      "word": "11岁女孩脊柱侧弯120度打36根钉",
+      "onboard_time": 1755920002,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -11971,6 +11995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153773,
+      "num": 171236,
+      "word": "原来明星和我们上的是一个网",
+      "onboard_time": 1755920062,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153583,
       "num": 153583,
       "word": "柳智敏芭莎",
@@ -12971,6 +13003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144737,
+      "num": 144737,
+      "word": "广州迎本世纪以来最冷8月",
+      "onboard_time": 1755917482,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144675,
       "num": 229928,
       "word": "宋亚轩单人机位破亿",
@@ -13227,6 +13267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 142328,
+      "num": 142328,
+      "word": "DeepSeek是很内耗的人工智能",
+      "onboard_time": 1755920424,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142314,
       "num": 142314,
       "word": "Gemini不参加挑杯",
@@ -13377,6 +13425,14 @@
       "onboard_time": 1755696867,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141229,
+      "num": 141229,
+      "word": "问界M8被曝出现预制车",
+      "onboard_time": 1755919103,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 141187,
@@ -13689,6 +13745,14 @@
       "onboard_time": 1755664944,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138686,
+      "num": 141430,
+      "word": "原来孩子看到了更纯粹的浪浪山",
+      "onboard_time": 1755919466,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 138638,
@@ -15619,6 +15683,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 124268,
+      "num": 124268,
+      "word": "被献鱼异性恋甜晕了",
+      "onboard_time": 1755920603,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124192,
       "num": 124192,
       "word": "明日方舟",
@@ -15864,14 +15936,6 @@
       "word": "苏辙后人 俄罗斯外籍院士",
       "onboard_time": 1755401902,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122276,
-      "num": 122276,
-      "word": "广州迎本世纪以来最冷8月",
-      "onboard_time": 1755917482,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -18371,6 +18435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99219,
+      "num": 134163,
+      "word": "张晚意对龚俊保管钥匙信任不了一丁点",
+      "onboard_time": 1755920543,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99140,
       "num": 99140,
       "word": "还以为殉情只是古老的传言",
@@ -19235,6 +19307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 89088,
+      "num": 130583,
+      "word": "上班通勤时间长也是有好处的",
+      "onboard_time": 1755920663,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89040,
       "num": 89040,
       "word": "绣绣过得太苦了",
@@ -19475,6 +19555,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 86069,
+      "num": 250278,
+      "word": "普京称俄罗斯已筑起可靠的核盾牌",
+      "onboard_time": 1755920244,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85998,
       "num": 226620,
       "word": "今天处暑了",
@@ -19505,14 +19593,6 @@
       "onboard_time": 1755863725,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 85735,
-      "num": 198109,
-      "word": "国产剧豆瓣评分还可信吗",
-      "onboard_time": 1755919283,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 85681,
@@ -20387,14 +20467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 71696,
-      "num": 141430,
-      "word": "原来孩子看到了更纯粹的浪浪山",
-      "onboard_time": 1755919466,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 71681,
       "num": 71681,
       "word": "林诗栋一日3赛一局未失",
@@ -20681,6 +20753,14 @@
       "onboard_time": 1755842665,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 65971,
+      "num": 206668,
+      "word": "屁桃君拉肚子了也得消肠炎",
+      "onboard_time": 1755920362,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 65915,
@@ -21201,6 +21281,14 @@
       "onboard_time": 1755763823,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 56546,
+      "num": 208713,
+      "word": "哥哥们也吃瓜时代峰峻家族史",
+      "onboard_time": 1755920603,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 56442,
@@ -22073,6 +22161,14 @@
       "onboard_time": 1755348504,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41165,
+      "num": 125616,
+      "word": "甜甜圈疑在街头被暴打",
+      "onboard_time": 1755919823,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40980,
