@@ -1,0 +1,410 @@
+{
+  "runTime": 1755956506153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9599901,
+        "num": 9599901,
+        "word": "田栩宁直播",
+        "onboard_time": 1755951505,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 882839,
+        "num": 882839,
+        "word": "接连2名儿童感染食脑虫去世",
+        "onboard_time": 1755950124,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15982,
+        "num": 853954,
+        "word": "99岁老兵回忆和日军拼刺刀",
+        "onboard_time": 1755922103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2630044,
+        "num": 846861,
+        "word": "苏苏死了",
+        "onboard_time": 1755953426,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 825163,
+        "num": 825163,
+        "word": "京东崩了",
+        "onboard_time": 1755954086,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 685372,
+        "num": 685372,
+        "word": "孙颖莎vs陈熠",
+        "onboard_time": 1755951565,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1538306,
+        "num": 601707,
+        "word": "封大脚牺牲",
+        "onboard_time": 1755952466,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 771835,
+        "num": 539393,
+        "word": "白鹿直播",
+        "onboard_time": 1755955226,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406906,
+        "num": 406906,
+        "word": "WBG对战iG",
+        "onboard_time": 1755953184,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 360359,
+        "num": 360359,
+        "word": "国乒无缘欧洲大满贯包揽五冠",
+        "onboard_time": 1755952466,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1285823,
+        "num": 358252,
+        "word": "疑似许凯赵晴悄悄同居",
+        "onboard_time": 1755941903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703019,
+        "num": 355379,
+        "word": "新秀丽工作人员为虞书欣发声",
+        "onboard_time": 1755950003,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663307,
+        "num": 354328,
+        "word": "何晟铭说和于正是很近的朋友",
+        "onboard_time": 1755951925,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290433,
+        "num": 352523,
+        "word": "台湾大罢免",
+        "onboard_time": 1755944302,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 513256,
+        "num": 349458,
+        "word": "疑似许荔莎被小三",
+        "onboard_time": 1755944902,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497830,
+        "num": 345459,
+        "word": "费左氏下毒",
+        "onboard_time": 1755951746,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496318,
+        "num": 343772,
+        "word": "翔霖",
+        "onboard_time": 1755952526,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94952,
+        "num": 341907,
+        "word": "人民的M9来了",
+        "onboard_time": 1755954446,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157743,
+        "num": 337429,
+        "word": "孙颖莎大眼萌妹",
+        "onboard_time": 1755955646,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61515,
+        "num": 337033,
+        "word": "中国7月用电量过万亿度创世界纪录",
+        "onboard_time": 1755955887,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416408,
+        "num": 333050,
+        "word": "许荔莎改简介",
+        "onboard_time": 1755945561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405176,
+        "num": 331669,
+        "word": "郭敬明 小鞠本人白得发光",
+        "onboard_time": 1755944602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329664,
+        "num": 329664,
+        "word": "这居然是保剑锋",
+        "onboard_time": 1755953846,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327607,
+        "num": 327607,
+        "word": "妻子做饭1年丈夫瘦32斤",
+        "onboard_time": 1755941123,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327375,
+        "num": 327375,
+        "word": "关晓彤去了汪苏泷演唱会",
+        "onboard_time": 1755955166,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293630,
+        "num": 293630,
+        "word": "生万物大结局",
+        "onboard_time": 1755953365,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291924,
+        "num": 291924,
+        "word": "张维伊 听小说赚钱",
+        "onboard_time": 1755950904,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276791,
+        "num": 276791,
+        "word": "肖战20年和万芳聚餐",
+        "onboard_time": 1755951385,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265542,
+        "num": 265542,
+        "word": "王曼昱vs石洵瑶",
+        "onboard_time": 1755955226,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262842,
+        "num": 262842,
+        "word": "BKPP",
+        "onboard_time": 1755955827,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261344,
+        "num": 261344,
+        "word": "宋轶圈内人缘",
+        "onboard_time": 1755950003,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255480,
+        "num": 255480,
+        "word": "孙颖莎回应4比1陈熠",
+        "onboard_time": 1755955765,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243538,
+        "num": 243538,
+        "word": "海芋恋",
+        "onboard_time": 1755954687,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241397,
+        "num": 241397,
+        "word": "邢菲 苏苏你在渴望什么呢",
+        "onboard_time": 1755952046,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239448,
+        "num": 239448,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1755948624,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210181,
+        "num": 210181,
+        "word": "蔡徐坤ins更新身材照",
+        "onboard_time": 1755940463,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206963,
+        "num": 206963,
+        "word": "鳄龟被主人遗忘箱底1年瘦成皮包骨",
+        "onboard_time": 1755946102,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203466,
+        "num": 203466,
+        "word": "田曦薇这几句脑内循环好几天了",
+        "onboard_time": 1755955286,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201436,
+        "num": 201436,
+        "word": "宋亚轩滑滑梯",
+        "onboard_time": 1755955343,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142412,
+        "num": 194230,
+        "word": "不刷牙睡觉vs不刷牙吃早餐",
+        "onboard_time": 1755944002,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141419,
+        "num": 192849,
+        "word": "秋天的第一个八月瓜吃上了",
+        "onboard_time": 1755954086,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192356,
+        "num": 192356,
+        "word": "秦海璐 红枣粥基础配料就不基础",
+        "onboard_time": 1755951867,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185495,
+        "num": 185495,
+        "word": "中国游客接连在马尔代夫溺亡",
+        "onboard_time": 1755949884,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185089,
+        "num": 185089,
+        "word": "泥潭作者夸奖梓渝",
+        "onboard_time": 1755954925,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53486,
+        "num": 184165,
+        "word": "宠物狗把宠物鸭遛丢了主人报警",
+        "onboard_time": 1755955887,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184141,
+        "num": 184141,
+        "word": "时代少年团节目单",
+        "onboard_time": 1755949823,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183744,
+        "num": 183744,
+        "word": "Wolves对战MRC",
+        "onboard_time": 1755954385,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167634,
+        "num": 167634,
+        "word": "文韬这男的哪哪都不基础",
+        "onboard_time": 1755955166,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169343,
+        "num": 165249,
+        "word": "与晋长安",
+        "onboard_time": 1755956186,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162357,
+        "num": 162357,
+        "word": "中国女排vs墨西哥女排",
+        "onboard_time": 1755954266,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典话上合#"
+    }
+  }
+}

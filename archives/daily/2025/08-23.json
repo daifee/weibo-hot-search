@@ -1,10 +1,10 @@
 {
   "startTime": 1755880328318,
-  "endTime": 1755955846346,
+  "endTime": 1755956506153,
   "band_list": [
     {
-      "raw_hot": 6811406,
-      "num": 6811406,
+      "raw_hot": 9599901,
+      "num": 9599901,
       "word": "田栩宁直播",
       "onboard_time": 1755951505,
       "rank": 0,
@@ -25,6 +25,14 @@
       "onboard_time": 1755926064,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2630044,
+      "num": 846861,
+      "word": "苏苏死了",
+      "onboard_time": 1755953426,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 2460977,
@@ -49,14 +57,6 @@
       "onboard_time": 1755944302,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2129956,
-      "num": 795924,
-      "word": "苏苏死了",
-      "onboard_time": 1755953426,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 1934303,
@@ -275,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 825163,
+      "num": 825163,
+      "word": "京东崩了",
+      "onboard_time": 1755954086,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 789594,
       "num": 526422,
       "word": "翔霖",
       "onboard_time": 1755952526,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 771835,
+      "num": 539393,
+      "word": "白鹿直播",
+      "onboard_time": 1755955226,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 771610,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 752925,
-      "num": 278644,
+      "num": 349458,
       "word": "疑似许荔莎被小三",
       "onboard_time": 1755944902,
       "rank": 12,
@@ -353,14 +369,6 @@
       "onboard_time": 1755928222,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 681791,
-      "num": 681791,
-      "word": "京东崩了",
-      "onboard_time": 1755954086,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 679603,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 475287,
-      "num": 312226,
+      "num": 327607,
       "word": "妻子做饭1年丈夫瘦32斤",
       "onboard_time": 1755941123,
       "rank": 20,
@@ -633,14 +641,6 @@
       "onboard_time": 1755910102,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 445543,
-      "num": 242314,
-      "word": "白鹿直播",
-      "onboard_time": 1755955226,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 442507,
@@ -755,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 360359,
+      "num": 360359,
+      "word": "国乒无缘欧洲大满贯包揽五冠",
+      "onboard_time": 1755952466,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353854,
       "num": 353854,
       "word": "关晓彤李昀锐耀眼杀青图",
@@ -787,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329664,
+      "num": 329664,
+      "word": "这居然是保剑锋",
+      "onboard_time": 1755953846,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329256,
       "num": 329256,
       "word": "CPA",
@@ -801,6 +817,14 @@
       "onboard_time": 1755920603,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327375,
+      "num": 327375,
+      "word": "关晓彤去了汪苏泷演唱会",
+      "onboard_time": 1755955166,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 325946,
@@ -835,28 +859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305978,
-      "num": 354838,
-      "word": "国乒无缘欧洲大满贯包揽五冠",
-      "onboard_time": 1755952466,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 301664,
       "num": 301664,
       "word": "上海的泊狗位竟然已经有空调了",
       "onboard_time": 1755931463,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 297758,
-      "num": 236820,
-      "word": "这居然是保剑锋",
-      "onboard_time": 1755953846,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 295802,
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 295619,
-      "num": 218582,
+      "num": 293630,
       "word": "生万物大结局",
       "onboard_time": 1755953365,
       "rank": 31,
@@ -881,6 +889,14 @@
       "onboard_time": 1755927982,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291924,
+      "num": 291924,
+      "word": "张维伊 听小说赚钱",
+      "onboard_time": 1755950904,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 288460,
@@ -907,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276791,
+      "num": 276791,
+      "word": "肖战20年和万芳聚餐",
+      "onboard_time": 1755951385,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275578,
       "num": 275578,
       "word": "Jiejie回应加入FPX",
@@ -923,12 +947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265542,
+      "num": 265542,
+      "word": "王曼昱vs石洵瑶",
+      "onboard_time": 1755955226,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265280,
       "num": 265280,
       "word": "CPA税法",
       "onboard_time": 1755933862,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 262842,
+      "num": 262842,
+      "word": "BKPP",
+      "onboard_time": 1755955827,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 260839,
@@ -939,12 +979,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260401,
-      "num": 241233,
-      "word": "张维伊 听小说赚钱",
-      "onboard_time": 1755950904,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 255480,
+      "num": 255480,
+      "word": "孙颖莎回应4比1陈熠",
+      "onboard_time": 1755955765,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 252519,
@@ -1009,6 +1049,22 @@
       "onboard_time": 1755949764,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243538,
+      "num": 243538,
+      "word": "海芋恋",
+      "onboard_time": 1755954687,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 241397,
+      "num": 241397,
+      "word": "邢菲 苏苏你在渴望什么呢",
+      "onboard_time": 1755952046,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241021,
@@ -1083,14 +1139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 227094,
-      "num": 217213,
-      "word": "肖战20年和万芳聚餐",
-      "onboard_time": 1755951385,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225376,
       "num": 183766,
       "word": "迪丽热巴家人们觉得我今晚可以成团吗",
@@ -1105,14 +1153,6 @@
       "onboard_time": 1755949884,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 223360,
-      "num": 216942,
-      "word": "邢菲 苏苏你在渴望什么呢",
-      "onboard_time": 1755952046,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 223108,
@@ -1179,28 +1219,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211131,
-      "num": 211131,
-      "word": "关晓彤去了汪苏泷演唱会",
-      "onboard_time": 1755955166,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 210993,
       "num": 240799,
       "word": "军训身亡女生家属等尸检结果",
       "onboard_time": 1755875008,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209707,
-      "num": 209707,
-      "word": "孙颖莎回应4比1陈熠",
-      "onboard_time": 1755955765,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 207398,
@@ -1235,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203466,
+      "num": 203466,
+      "word": "田曦薇这几句脑内循环好几天了",
+      "onboard_time": 1755955286,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203051,
       "num": 203051,
       "word": "展轩见面会",
@@ -1264,6 +1296,14 @@
       "word": "鹿晗演唱会嘉宾王力宏",
       "onboard_time": 1755872727,
       "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 201436,
+      "num": 201436,
+      "word": "宋亚轩滑滑梯",
+      "onboard_time": 1755955343,
+      "rank": 42,
       "category": "演出"
     },
     {
@@ -1347,36 +1387,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194124,
-      "num": 194124,
-      "word": "田曦薇这几句脑内循环好几天了",
-      "onboard_time": 1755955286,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193412,
-      "num": 193412,
-      "word": "海芋恋",
-      "onboard_time": 1755954687,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 190553,
       "num": 190553,
       "word": "你好星期六",
       "onboard_time": 1755953125,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189204,
-      "num": 189204,
-      "word": "宋亚轩滑滑梯",
-      "onboard_time": 1755955343,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 188729,
@@ -1571,12 +1587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170048,
-      "num": 217771,
-      "word": "王曼昱vs石洵瑶",
-      "onboard_time": 1755955226,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 169343,
+      "num": 165249,
+      "word": "与晋长安",
+      "onboard_time": 1755956186,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 168414,
@@ -1609,14 +1625,6 @@
       "onboard_time": 1755924801,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166207,
-      "num": 166207,
-      "word": "BKPP",
-      "onboard_time": 1755955827,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 166033,
@@ -1667,6 +1675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162357,
+      "num": 162357,
+      "word": "中国女排vs墨西哥女排",
+      "onboard_time": 1755954266,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161914,
       "num": 161914,
       "word": "陈钰琪焦俊艳新剧演闺蜜",
@@ -1700,7 +1716,7 @@
     },
     {
       "raw_hot": 160866,
-      "num": 160866,
+      "num": 192849,
       "word": "秋天的第一个八月瓜吃上了",
       "onboard_time": 1755954086,
       "rank": 47,
@@ -1729,6 +1745,14 @@
       "onboard_time": 1755953906,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157743,
+      "num": 337429,
+      "word": "孙颖莎大眼萌妹",
+      "onboard_time": 1755955646,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 157595,
@@ -2315,14 +2339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120393,
-      "num": 219220,
-      "word": "孙颖莎大眼萌妹",
-      "onboard_time": 1755955646,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120306,
       "num": 152599,
       "word": "柯淳尴尬到一把抱住张颜齐周震南",
@@ -2484,7 +2500,7 @@
     },
     {
       "raw_hot": 113041,
-      "num": 219410,
+      "num": 341907,
       "word": "人民的M9来了",
       "onboard_time": 1755954446,
       "rank": 19,
@@ -3363,6 +3379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61515,
+      "num": 337033,
+      "word": "中国7月用电量过万亿度创世界纪录",
+      "onboard_time": 1755955887,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60643,
       "num": 88510,
       "word": "姜涛晒瘦身成果",
@@ -3400,6 +3424,14 @@
       "word": "女子酒后将男友踹入河中致其溺亡",
       "onboard_time": 1755926663,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53486,
+      "num": 184165,
+      "word": "宠物狗把宠物鸭遛丢了主人报警",
+      "onboard_time": 1755955887,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -3636,7 +3668,7 @@
     },
     {
       "raw_hot": 25465,
-      "num": 815610,
+      "num": 853954,
       "word": "99岁老兵回忆和日军拼刺刀",
       "onboard_time": 1755922103,
       "rank": 2,
