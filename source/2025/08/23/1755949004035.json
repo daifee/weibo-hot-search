@@ -1,0 +1,410 @@
+{
+  "runTime": 1755949004035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 833496,
+        "num": 1133359,
+        "word": "那英 张晚意天天晕成这奶奶样",
+        "onboard_time": 1755943823,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428136,
+        "num": 428136,
+        "word": "FPX官宣JieJie加入",
+        "onboard_time": 1755944302,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25465,
+        "num": 379124,
+        "word": "99岁老兵回忆和日军拼刺刀",
+        "onboard_time": 1755922103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466709,
+        "num": 377784,
+        "word": "陈星旭差点留在意大利当女婿",
+        "onboard_time": 1755945742,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360967,
+        "num": 360967,
+        "word": "教育局回应小学老师被调去教高中",
+        "onboard_time": 1755938422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287539,
+        "num": 287539,
+        "word": "CPA经济法",
+        "onboard_time": 1755948864,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 320947,
+        "num": 283731,
+        "word": "生万物开头的老太是杨幂演的",
+        "onboard_time": 1755932063,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277938,
+        "num": 277938,
+        "word": "节目组给张维伊耳机打码",
+        "onboard_time": 1755942083,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275618,
+        "num": 275618,
+        "word": "裸睡被看光女子患抑郁丈夫追责公寓",
+        "onboard_time": 1755916822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168414,
+        "num": 275618,
+        "word": "台风剑鱼已经生成",
+        "onboard_time": 1755948503,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1579752,
+        "num": 275610,
+        "word": "疑似许凯赵晴悄悄同居",
+        "onboard_time": 1755941903,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1033635,
+        "num": 275608,
+        "word": "许荔莎改简介",
+        "onboard_time": 1755945561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910389,
+        "num": 275605,
+        "word": "郭敬明 小鞠本人白得发光",
+        "onboard_time": 1755944602,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660717,
+        "num": 275600,
+        "word": "台湾大罢免",
+        "onboard_time": 1755944302,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24679,
+        "num": 275593,
+        "word": "用智搜把生万物看出花",
+        "onboard_time": 1755946882,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477900,
+        "num": 275591,
+        "word": "于正遇到了两个魔丸",
+        "onboard_time": 1755926064,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339338,
+        "num": 275587,
+        "word": "刘耀文紫发",
+        "onboard_time": 1755947482,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 749413,
+        "num": 275581,
+        "word": "疑似许荔莎被小三",
+        "onboard_time": 1755944902,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275578,
+        "num": 275578,
+        "word": "Jiejie回应加入FPX",
+        "onboard_time": 1755946281,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218515,
+        "num": 218515,
+        "word": "鳄龟被主人遗忘箱底1年瘦成皮包骨",
+        "onboard_time": 1755946102,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375466,
+        "num": 218452,
+        "word": "妻子做饭1年丈夫瘦32斤",
+        "onboard_time": 1755941123,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315376,
+        "num": 218272,
+        "word": "蔡徐坤ins更新身材照",
+        "onboard_time": 1755940463,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228328,
+        "num": 218113,
+        "word": "不刷牙睡觉vs不刷牙吃早餐",
+        "onboard_time": 1755944002,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217454,
+        "num": 217454,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1755948624,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40730,
+        "num": 212390,
+        "word": "军训死亡女生体育满分曾在篮球校队",
+        "onboard_time": 1755948742,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211677,
+        "num": 211677,
+        "word": "女子整理遗物发现丈夫留下满屋古董",
+        "onboard_time": 1755947543,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203051,
+        "num": 203051,
+        "word": "展轩见面会",
+        "onboard_time": 1755948742,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186546,
+        "num": 201555,
+        "word": "男子杀女友逃25年没用过手机身份证",
+        "onboard_time": 1755941783,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200188,
+        "num": 200188,
+        "word": "时代少年团直播",
+        "onboard_time": 1755948382,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188104,
+        "num": 188104,
+        "word": "宋轶丞磊吻脖戏",
+        "onboard_time": 1755948564,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178506,
+        "num": 178506,
+        "word": "hamin单人镜头",
+        "onboard_time": 1755947662,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180797,
+        "num": 175217,
+        "word": "许魏洲泰国人气",
+        "onboard_time": 1755948263,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140986,
+        "num": 140986,
+        "word": "年锦向光而生永不言败",
+        "onboard_time": 1755948564,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139989,
+        "num": 139989,
+        "word": "黄誉博又被韩红骂了",
+        "onboard_time": 1755945142,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133964,
+        "num": 133964,
+        "word": "张雅琪手机掉河里",
+        "onboard_time": 1755946281,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133391,
+        "num": 133391,
+        "word": "陈赫邓超内娱满分友情",
+        "onboard_time": 1755945081,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131104,
+        "num": 131104,
+        "word": "时代少年团献给所有冠军们的舞台",
+        "onboard_time": 1755943463,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130735,
+        "num": 130735,
+        "word": "管泽元解说好牛",
+        "onboard_time": 1755948742,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127594,
+        "num": 127594,
+        "word": "李河民dancebreak",
+        "onboard_time": 1755947903,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116514,
+        "num": 116514,
+        "word": "Jayjay登港趋第一",
+        "onboard_time": 1755945322,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111292,
+        "num": 111292,
+        "word": "又双叒叕在迪士尼偶遇李一桐",
+        "onboard_time": 1755948864,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110318,
+        "num": 110318,
+        "word": "被调去教高中的小学老师称压力很大",
+        "onboard_time": 1755938542,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110282,
+        "num": 110282,
+        "word": "周杰伦温岚听了是震惊的程度",
+        "onboard_time": 1755945382,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109282,
+        "num": 109282,
+        "word": "30岁拥有了爸妈送的公主房",
+        "onboard_time": 1755947843,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107226,
+        "num": 107226,
+        "word": "蔡徐坤Jasmine跟健身更配",
+        "onboard_time": 1755947604,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108512,
+        "num": 106932,
+        "word": "TF四代黑金制服造型",
+        "onboard_time": 1755945142,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99617,
+        "num": 99617,
+        "word": "董璇 一听到办婚礼脑瓜子嗡的一下",
+        "onboard_time": 1755947963,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96902,
+        "num": 96902,
+        "word": "戏里小媳妇戏外老公姐",
+        "onboard_time": 1755945682,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96154,
+        "num": 96154,
+        "word": "仙逆李慕婉八大形象",
+        "onboard_time": 1755948683,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 91102,
+        "num": 95341,
+        "word": "刘国梁女儿赢高尔夫职业赛冠军",
+        "onboard_time": 1755945204,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平引经据典话上合#"
+    }
+  }
+}

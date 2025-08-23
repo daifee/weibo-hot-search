@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755948009101,
+  "endTime": 1755949004035,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -3963,6 +3963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1033635,
+      "num": 275608,
+      "word": "许荔莎改简介",
+      "onboard_time": 1755945561,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1032678,
       "num": 238351,
       "word": "医生说B罩杯以下可以不穿内衣",
@@ -4612,7 +4620,7 @@
     },
     {
       "raw_hot": 939894,
-      "num": 255670,
+      "num": 275605,
       "word": "郭敬明 小鞠本人白得发光",
       "onboard_time": 1755944602,
       "rank": 33,
@@ -5163,14 +5171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 868547,
-      "num": 225488,
-      "word": "许荔莎改简介",
-      "onboard_time": 1755945561,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 867979,
       "num": 600710,
       "word": "TF四代 超载",
@@ -5545,6 +5545,14 @@
       "onboard_time": 1755008665,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 833496,
+      "num": 1133359,
+      "word": "那英 张晚意天天晕成这奶奶样",
+      "onboard_time": 1755943823,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 833312,
@@ -7923,6 +7931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660717,
+      "num": 282737,
+      "word": "台湾大罢免",
+      "onboard_time": 1755944302,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 660379,
       "num": 660379,
       "word": "梨型身材的人坐下后的裤腰",
@@ -9011,14 +9027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 603237,
-      "num": 1096518,
-      "word": "那英 张晚意天天晕成这奶奶样",
-      "onboard_time": 1755943823,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 603082,
       "num": 301990,
       "word": "阚清子官宣怀孕后首次播剧",
@@ -9553,14 +9561,6 @@
       "onboard_time": 1754530701,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 576139,
-      "num": 282737,
-      "word": "台湾大罢免",
-      "onboard_time": 1755944302,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 575945,
@@ -11956,7 +11956,7 @@
     },
     {
       "raw_hot": 475287,
-      "num": 189807,
+      "num": 218452,
       "word": "妻子做饭1年丈夫瘦32斤",
       "onboard_time": 1755941123,
       "rank": 20,
@@ -12241,6 +12241,14 @@
       "onboard_time": 1754964621,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466709,
+      "num": 394780,
+      "word": "陈星旭差点留在意大利当女婿",
+      "onboard_time": 1755945742,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 465910,
@@ -14435,14 +14443,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 394780,
-      "num": 394780,
-      "word": "陈星旭差点留在意大利当女婿",
-      "onboard_time": 1755945742,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394307,
       "num": 394307,
       "word": "糖尿病前期的5个症状",
@@ -16483,6 +16483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 339338,
+      "num": 275587,
+      "word": "刘耀文紫发",
+      "onboard_time": 1755947482,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338864,
       "num": 351252,
       "word": "把主角还给大女主",
@@ -17753,14 +17761,6 @@
       "onboard_time": 1755009506,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313246,
-      "num": 183445,
-      "word": "刘耀文紫发",
-      "onboard_time": 1755947482,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 312727,
@@ -19035,6 +19035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287539,
+      "num": 287539,
+      "word": "CPA经济法",
+      "onboard_time": 1755948864,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 287437,
       "num": 403429,
       "word": "韩国全民放10天高温假",
@@ -19745,6 +19753,14 @@
       "onboard_time": 1754151144,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275578,
+      "num": 275578,
+      "word": "Jiejie回应加入FPX",
+      "onboard_time": 1755946281,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 275567,
@@ -23315,6 +23331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 228328,
+      "num": 218113,
+      "word": "不刷牙睡觉vs不刷牙吃早餐",
+      "onboard_time": 1755944002,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 228221,
       "num": 228221,
       "word": "为什么中国的神仙都是竖着飞",
@@ -24339,6 +24363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 218515,
+      "num": 218515,
+      "word": "鳄龟被主人遗忘箱底1年瘦成皮包骨",
+      "onboard_time": 1755946102,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218446,
       "num": 218446,
       "word": "这是生育补贴不是结婚证补贴",
@@ -25257,6 +25289,14 @@
       "onboard_time": 1754786180,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 211677,
+      "num": 211677,
+      "word": "女子整理遗物发现丈夫留下满屋古董",
+      "onboard_time": 1755947543,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211648,
@@ -26849,6 +26889,14 @@
       "onboard_time": 1754122823,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203051,
+      "num": 203051,
+      "word": "展轩见面会",
+      "onboard_time": 1755948742,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 203033,
@@ -30963,6 +31011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188104,
+      "num": 188104,
+      "word": "宋轶丞磊吻脖戏",
+      "onboard_time": 1755948564,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188095,
       "num": 188095,
       "word": "2集亲2次告白4次",
@@ -31465,14 +31521,6 @@
       "onboard_time": 1754531600,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186078,
-      "num": 186078,
-      "word": "Jiejie回应加入FPX",
-      "onboard_time": 1755946281,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 186042,
@@ -32739,6 +32787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180797,
+      "num": 175217,
+      "word": "许魏洲泰国人气",
+      "onboard_time": 1755948263,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180618,
       "num": 196207,
       "word": "张晚意晕车实录",
@@ -33251,6 +33307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178506,
+      "num": 178506,
+      "word": "hamin单人镜头",
+      "onboard_time": 1755947662,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178457,
       "num": 178457,
       "word": "暑假两极分化的生活",
@@ -33425,14 +33489,6 @@
       "onboard_time": 1755581483,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177650,
-      "num": 177650,
-      "word": "不刷牙睡觉vs不刷牙吃早餐",
-      "onboard_time": 1755944002,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 177605,
@@ -36033,6 +36089,14 @@
       "onboard_time": 1755066921,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168414,
+      "num": 275618,
+      "word": "台风剑鱼已经生成",
+      "onboard_time": 1755948503,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168376,
@@ -44523,14 +44587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143600,
-      "num": 143600,
-      "word": "hamin单人镜头",
-      "onboard_time": 1755947662,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 143578,
       "num": 143578,
       "word": "权志龙 再吵我可要下班了",
@@ -45683,6 +45739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140986,
+      "num": 140986,
+      "word": "年锦向光而生永不言败",
+      "onboard_time": 1755948564,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140975,
       "num": 140975,
       "word": "白露太强了",
@@ -46073,14 +46137,6 @@
       "onboard_time": 1755769341,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 139949,
-      "num": 201867,
-      "word": "鳄龟被主人遗忘箱底1年瘦成皮包骨",
-      "onboard_time": 1755946102,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139945,
@@ -48851,6 +48907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133964,
+      "num": 133964,
+      "word": "张雅琪手机掉河里",
+      "onboard_time": 1755946281,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133951,
       "num": 133951,
       "word": "浪浪山小妖怪票房超8亿",
@@ -49217,6 +49281,14 @@
       "onboard_time": 1754445201,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133391,
+      "num": 133391,
+      "word": "陈赫邓超内娱满分友情",
+      "onboard_time": 1755945081,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 133389,
@@ -50139,6 +50211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131104,
+      "num": 131104,
+      "word": "时代少年团献给所有冠军们的舞台",
+      "onboard_time": 1755943463,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131093,
       "num": 131093,
       "word": "日本发动细菌战不容否认和抵赖",
@@ -50249,6 +50329,14 @@
       "onboard_time": 1755067222,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130735,
+      "num": 130735,
+      "word": "管泽元解说好牛",
+      "onboard_time": 1755948742,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 130729,
@@ -51651,14 +51739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128022,
-      "num": 128022,
-      "word": "女子整理遗物发现丈夫留下满屋古董",
-      "onboard_time": 1755947543,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128018,
       "num": 128018,
       "word": "王楚钦线下活动",
@@ -51841,6 +51921,14 @@
       "onboard_time": 1754974103,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127594,
+      "num": 127594,
+      "word": "李河民dancebreak",
+      "onboard_time": 1755947903,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 127583,
@@ -52345,14 +52433,6 @@
       "onboard_time": 1755923904,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126669,
-      "num": 126669,
-      "word": "陈赫邓超内娱满分友情",
-      "onboard_time": 1755945081,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 126657,
@@ -54313,14 +54393,6 @@
       "onboard_time": 1754485763,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122303,
-      "num": 122303,
-      "word": "时代少年团献给所有冠军们的舞台",
-      "onboard_time": 1755943463,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 122300,
@@ -58115,14 +58187,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 113768,
-      "num": 113768,
-      "word": "张雅琪手机掉河里",
-      "onboard_time": 1755946281,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113766,
       "num": 113766,
       "word": "纸嫁衣动画化官宣",
@@ -59217,6 +59281,14 @@
       "onboard_time": 1754825481,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 111292,
+      "num": 111292,
+      "word": "又双叒叕在迪士尼偶遇李一桐",
+      "onboard_time": 1755948864,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 111268,
@@ -60971,6 +61043,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 107226,
+      "num": 107226,
+      "word": "蔡徐坤Jasmine跟健身更配",
+      "onboard_time": 1755947604,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107215,
       "num": 1124275,
       "word": "山东舰辽宁舰并肩向前",
@@ -61105,14 +61185,6 @@
       "onboard_time": 1755094163,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106909,
-      "num": 106909,
-      "word": "蔡徐坤Jasmine跟健身更配",
-      "onboard_time": 1755947604,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 106903,
@@ -61737,14 +61809,6 @@
       "onboard_time": 1755921323,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105155,
-      "num": 105155,
-      "word": "李河民dancebreak",
-      "onboard_time": 1755947903,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 105135,
@@ -63699,6 +63763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99617,
+      "num": 99617,
+      "word": "董璇 一听到办婚礼脑瓜子嗡的一下",
+      "onboard_time": 1755947963,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99608,
       "num": 99608,
       "word": "王楚钦连续两板反拍神防守",
@@ -64971,6 +65043,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 96154,
+      "num": 96154,
+      "word": "仙逆李慕婉八大形象",
+      "onboard_time": 1755948683,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 96127,
       "num": 96127,
       "word": "张极替爸爸追星成功",
@@ -65889,14 +65969,6 @@
       "onboard_time": 1754394203,
       "rank": 45,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 93373,
-      "num": 93373,
-      "word": "董璇 一听到办婚礼脑瓜子嗡的一下",
-      "onboard_time": 1755947963,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 93357,
@@ -75219,6 +75291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40730,
+      "num": 212390,
+      "word": "军训死亡女生体育满分曾在篮球校队",
+      "onboard_time": 1755948742,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40656,
       "num": 40656,
       "word": "淮安队打破苏超两个神话",
@@ -77987,6 +78067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 25465,
+      "num": 651059,
+      "word": "99岁老兵回忆和日军拼刺刀",
+      "onboard_time": 1755922103,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25402,
       "num": 38899,
       "word": "秋天第一杯奶茶凭啥年年火",
@@ -78033,14 +78121,6 @@
       "onboard_time": 1754679675,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25238,
-      "num": 651059,
-      "word": "99岁老兵回忆和日军拼刺刀",
-      "onboard_time": 1755922103,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25202,
@@ -78169,6 +78249,14 @@
       "onboard_time": 1754418796,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24679,
+      "num": 275593,
+      "word": "用智搜把生万物看出花",
+      "onboard_time": 1755946882,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 24662,
@@ -79113,14 +79201,6 @@
       "onboard_time": 1754249294,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18999,
-      "num": 193709,
-      "word": "用智搜把生万物看出花",
-      "onboard_time": 1755946882,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 18943,
