@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1755974736011,
+  "endTime": 1755976788876,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -77315,6 +77315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35621,
+      "num": 46632,
+      "word": "工作人员陆续为虞书欣发声",
+      "onboard_time": 1755974956,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35541,
       "num": 190863,
       "word": "特普会将聚焦停火",
@@ -79355,6 +79363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24455,
+      "num": 46375,
+      "word": "汪苏泷20号小怪物叫蓝不岛",
+      "onboard_time": 1755976516,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24440,
       "num": 51878,
       "word": "林诗栋黄友政vs郭勇冯耀恩",
@@ -79369,6 +79385,14 @@
       "onboard_time": 1755713537,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24348,
+      "num": 46326,
+      "word": "汪苏泷青岛演唱会",
+      "onboard_time": 1755976218,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 24344,
@@ -80113,6 +80137,14 @@
       "onboard_time": 1755079282,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19924,
+      "num": 46247,
+      "word": "going人的事于文文都做了",
+      "onboard_time": 1755975437,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 19923,
