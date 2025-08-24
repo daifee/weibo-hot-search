@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756046405198,
+  "endTime": 1756049079428,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1169724,
-      "num": 1187155,
+      "num": 1396403,
       "word": "邢菲终于要升咖了",
       "onboard_time": 1756040843,
       "rank": 0,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 489013,
+      "num": 414819,
+      "word": "鹿晗演唱会倒退到升降台边差点踩空",
+      "onboard_time": 1756044385,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 488967,
       "num": 788173,
       "word": "王艳两场直播销售额超3000万",
@@ -563,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 480674,
-      "num": 414819,
-      "word": "鹿晗演唱会倒退到升降台边差点踩空",
-      "onboard_time": 1756044385,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
       "raw_hot": 463649,
       "num": 326841,
       "word": "崔鹏说曾经暗恋董璇4年",
@@ -585,6 +585,14 @@
       "onboard_time": 1756026981,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459318,
+      "num": 339352,
+      "word": "永夜星河看似播完了实则还有招",
+      "onboard_time": 1756045288,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 447911,
@@ -680,6 +688,14 @@
       "word": "川航宋白金",
       "onboard_time": 1756008142,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383562,
+      "num": 383562,
+      "word": "日本博主惊叹中国外卖袋",
+      "onboard_time": 1756044385,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -811,19 +827,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327970,
-      "num": 327970,
-      "word": "永夜星河看似播完了实则还有招",
-      "onboard_time": 1756045288,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 326399,
       "num": 326399,
       "word": "猪头离体50分钟后被复活",
       "onboard_time": 1755964823,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326010,
+      "num": 326010,
+      "word": "27岁尿毒症女生跑外卖续命4年",
+      "onboard_time": 1756046667,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -841,6 +857,14 @@
       "onboard_time": 1756035082,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 307336,
+      "num": 307336,
+      "word": "李一桐 我只能旺我自己旺不了夫",
+      "onboard_time": 1756045827,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 304255,
@@ -867,12 +891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298789,
-      "num": 306150,
-      "word": "日本博主惊叹中国外卖袋",
-      "onboard_time": 1756044385,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 294627,
+      "num": 326176,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1756048346,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 292631,
@@ -897,6 +921,14 @@
       "onboard_time": 1755963266,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 272441,
+      "num": 272441,
+      "word": "四张证就这样结束了妈妈的一生",
+      "onboard_time": 1756047507,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 265149,
@@ -969,6 +1001,14 @@
       "onboard_time": 1756033644,
       "rank": 27,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 243679,
+      "num": 307338,
+      "word": "九三阅兵天安门广场布置正式亮相",
+      "onboard_time": 1756045288,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 239892,
@@ -1267,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195619,
+      "num": 195619,
+      "word": "白桃星座",
+      "onboard_time": 1756047625,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194936,
       "num": 194936,
       "word": "杨幂爸爸说杨幂天选的绣绣",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1756039344,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187887,
+      "num": 187887,
+      "word": "易烊千玺梦到粉丝吐了一堆石头",
+      "onboard_time": 1756047866,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 187781,
@@ -1627,12 +1683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174274,
+      "num": 174274,
+      "word": "宋雨琦把TMEA奖杯抱了个满怀",
+      "onboard_time": 1756047146,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174072,
       "num": 174072,
       "word": "6岁娃沙滩光脚踩到死鱼进了ICU",
       "onboard_time": 1756019063,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173683,
+      "num": 173683,
+      "word": "宋亚轩在布景后面倒彩带",
+      "onboard_time": 1756047806,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 173562,
@@ -1675,6 +1747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169009,
+      "num": 169009,
+      "word": "汪苏泷TMEA获奖感言",
+      "onboard_time": 1756047747,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168813,
       "num": 168813,
       "word": "檀健次顶级魅魔",
@@ -1705,6 +1785,14 @@
       "onboard_time": 1756041205,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167489,
+      "num": 167489,
+      "word": "易烊千玺这声哦呦",
+      "onboard_time": 1756048764,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 167202,
@@ -1755,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162075,
+      "num": 162075,
+      "word": "人类是怎么发现玩这个不会出事的",
+      "onboard_time": 1756047806,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161982,
       "num": 161982,
       "word": "张晚意 土象天菜",
@@ -1777,6 +1873,14 @@
       "onboard_time": 1756041565,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 161105,
+      "num": 161105,
+      "word": "网友晒和范丞丞小学合照",
+      "onboard_time": 1756047806,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 159764,
@@ -1873,14 +1977,6 @@
       "onboard_time": 1756042347,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154454,
-      "num": 162656,
-      "word": "九三阅兵天安门广场布置正式亮相",
-      "onboard_time": 1756045288,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154150,
@@ -2331,6 +2427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128449,
+      "num": 128449,
+      "word": "朱正廷长相不基础演技也不基础",
+      "onboard_time": 1756048885,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128202,
+      "num": 128202,
+      "word": "李昀锐吃播",
+      "onboard_time": 1756046846,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128122,
       "num": 128122,
       "word": "孔雪儿不基础粉丝更不基础",
@@ -2361,6 +2473,14 @@
       "onboard_time": 1756014621,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125681,
+      "num": 125681,
+      "word": "儿子过世母亲精神异常每天小区骂人",
+      "onboard_time": 1756047026,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125289,
@@ -2804,7 +2924,7 @@
     },
     {
       "raw_hot": 108967,
-      "num": 370925,
+      "num": 383383,
       "word": "10秒看阅兵训练高燃场面",
       "onboard_time": 1756020682,
       "rank": 46,
@@ -2841,6 +2961,14 @@
       "onboard_time": 1756002502,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107408,
+      "num": 130094,
+      "word": "中国8岁男童在泰国不幸溺亡",
+      "onboard_time": 1756048046,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107222,
@@ -3284,7 +3412,7 @@
     },
     {
       "raw_hot": 86446,
-      "num": 301724,
+      "num": 307346,
       "word": "孟子义说缤果S好看又好用",
       "onboard_time": 1756044926,
       "rank": 18,
@@ -3352,14 +3480,6 @@
       "word": "权恩妃自曝极端节食减重",
       "onboard_time": 1756015162,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 79729,
-      "num": 132143,
-      "word": "李一桐 我只能旺我自己旺不了夫",
-      "onboard_time": 1756045827,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -3457,6 +3577,14 @@
       "onboard_time": 1756031482,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68049,
+      "num": 114670,
+      "word": "中国排面治愈强迫症",
+      "onboard_time": 1756044205,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67790,
@@ -3603,11 +3731,27 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 47352,
+      "num": 310349,
+      "word": "杭州地标为城市骑士点亮",
+      "onboard_time": 1756047686,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46291,
       "num": 46291,
       "word": "第三次综合演练圆满结束",
       "onboard_time": 1755992178,
       "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 45821,
+      "num": 275160,
+      "word": "海军方队平均年龄不到21岁",
+      "onboard_time": 1756048706,
+      "rank": 18,
       "category": "国内时政"
     },
     {
@@ -3659,6 +3803,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 41433,
+      "num": 126697,
+      "word": "天安门广场放飞气球画面亮相",
+      "onboard_time": 1756049065,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41193,
       "num": 106645,
       "word": "505名死亡人员领的养老金追回了没有",
@@ -3689,6 +3841,14 @@
       "onboard_time": 1755974956,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35145,
+      "num": 128664,
+      "word": "咬掉穿戴甲救人护士被申请见义勇为",
+      "onboard_time": 1756049004,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 34019,
@@ -3745,6 +3905,14 @@
       "onboard_time": 1755973336,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28519,
+      "num": 168151,
+      "word": "辞职女空乘非摆餐事件当班人员",
+      "onboard_time": 1756047986,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28174,
@@ -3921,6 +4089,14 @@
       "onboard_time": 1756016842,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14131,
+      "num": 125940,
+      "word": "被抄袭博主称正在和茶颜悦色协商",
+      "onboard_time": 1756048645,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10599,
