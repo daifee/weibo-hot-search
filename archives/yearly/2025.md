@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/08/25 00:29:33
+本榜单时间：2025/01/01 00:26:38 ~ 2025/08/25 00:44:18
 </p>
 </blockquote>
 <p>
@@ -1461,6 +1461,12 @@ ALin秒了（热度：6171972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8C%97%E4%B8%80%E5%A5%B3%E5%AD%90%E7%96%91%E5%AE%B6%E6%9A%B4%E5%8E%BB%E4%B8%96%23" target="weibo">
+警方通报河北一女子疑家暴去世（热度：5064753）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23" target="weibo">
 成都震感（热度：5050675）
 </a>
@@ -1613,12 +1619,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E6%98%9F%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E8%87%AA%E8%BF%B0%E5%89%83%E5%A4%B4%E8%BF%87%E7%A8%8B%23" target="weibo">
 演员王星在飞机上自述剃头过程（热度：4591252）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8C%97%E4%B8%80%E5%A5%B3%E5%AD%90%E7%96%91%E5%AE%B6%E6%9A%B4%E5%8E%BB%E4%B8%96%23" target="weibo">
-警方通报河北一女子疑家暴去世（热度：4586270）
 </a>
 </li>
 
