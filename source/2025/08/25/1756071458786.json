@@ -1,0 +1,410 @@
+{
+  "runTime": 1756071458786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 430913,
+        "num": 430913,
+        "word": "警方通报河北一女子疑家暴去世",
+        "onboard_time": 1756051282,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 148934,
+        "num": 148934,
+        "word": "女子戴牙套5年坏了8颗牙",
+        "onboard_time": 1756054819,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4976,
+        "num": 121585,
+        "word": "10秒看阅兵训练高燃场面",
+        "onboard_time": 1756020682,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 158421,
+        "num": 112467,
+        "word": "赵志伟回复网友评论",
+        "onboard_time": 1756053141,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103349,
+        "num": 103349,
+        "word": "莫雷加德男单冠军",
+        "onboard_time": 1756061055,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77597,
+        "num": 77597,
+        "word": "孙颖莎欧洲大满贯夺冠",
+        "onboard_time": 1756052243,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62468,
+        "num": 62468,
+        "word": "林诗栋vs莫雷加德",
+        "onboard_time": 1756057758,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59647,
+        "num": 59647,
+        "word": "男子p图骗色骗酒7女子上当",
+        "onboard_time": 1756050564,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37067,
+        "num": 59185,
+        "word": "蔡依林今晚不能早睡了",
+        "onboard_time": 1756050084,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9566,
+        "num": 58029,
+        "word": "落马官员儿子单次赌球投入超百万",
+        "onboard_time": 1756070714,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98710,
+        "num": 57242,
+        "word": "女子疑家暴去世其丈夫婆婆被刑拘",
+        "onboard_time": 1756051942,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 91533,
+        "num": 55970,
+        "word": "张伦硕说现在的张维伊就是曾经的我",
+        "onboard_time": 1756050564,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68709,
+        "num": 54757,
+        "word": "疑遭家暴离世女子未怀孕",
+        "onboard_time": 1756052662,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 53982,
+        "num": 53982,
+        "word": "王曼昱12比10孙颖莎",
+        "onboard_time": 1756053859,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49347,
+        "num": 49347,
+        "word": "何晟铭和于正拍了13部戏",
+        "onboard_time": 1756064775,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48764,
+        "num": 48764,
+        "word": "女子系钝性外力作用致颅脑损伤死亡",
+        "onboard_time": 1756052183,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44174,
+        "num": 44174,
+        "word": "女留学生起诉发性暗示微信男生败诉",
+        "onboard_time": 1756051165,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30291,
+        "num": 43979,
+        "word": "永夜星河看似播完了实则还有招",
+        "onboard_time": 1756045288,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24672,
+        "num": 43858,
+        "word": "aespa",
+        "onboard_time": 1756050325,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21073,
+        "num": 43695,
+        "word": "反诈老陈打假嘎子哥所售699元手机",
+        "onboard_time": 1756044926,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187701,
+        "num": 43282,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49204,
+        "num": 43075,
+        "word": "每天只睡6个小时身体的变化",
+        "onboard_time": 1756052903,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43014,
+        "num": 43014,
+        "word": "98岁老人头上长皮角自行剪除",
+        "onboard_time": 1756053621,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34285,
+        "num": 34285,
+        "word": "张维伊董璇婚宴饭店人均价格",
+        "onboard_time": 1756035502,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30566,
+        "num": 30566,
+        "word": "桃晚安哭了",
+        "onboard_time": 1756036643,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27817,
+        "num": 27817,
+        "word": "孙颖莎女单冠军自拍",
+        "onboard_time": 1756054819,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26643,
+        "num": 26643,
+        "word": "邢菲终于要升咖了",
+        "onboard_time": 1756040843,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23804,
+        "num": 25403,
+        "word": "王曼昱亚军",
+        "onboard_time": 1756053921,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18263,
+        "num": 25106,
+        "word": "wtt欧洲大满贯瑞典站",
+        "onboard_time": 1756062614,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18046,
+        "num": 25094,
+        "word": "谢娜不基础谢娜妈妈更不基础",
+        "onboard_time": 1756069815,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25092,
+        "num": 25092,
+        "word": "日本博主惊叹中国外卖袋",
+        "onboard_time": 1756044385,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23653,
+        "num": 23653,
+        "word": "印度女子因嫁妆遭夫家毒打活活烧死",
+        "onboard_time": 1756040005,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22899,
+        "num": 22899,
+        "word": "孙颖莎女单夺冠赛后采访",
+        "onboard_time": 1756058177,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22881,
+        "num": 22881,
+        "word": "孙颖莎说本场比赛没有失败者",
+        "onboard_time": 1756060036,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22177,
+        "num": 22177,
+        "word": "四张证就这样结束了妈妈的一生",
+        "onboard_time": 1756047507,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21925,
+        "num": 21925,
+        "word": "孙颖莎王曼昱巅峰对决太燃了",
+        "onboard_time": 1756058177,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21750,
+        "num": 21750,
+        "word": "WTT欧洲大满贯瑞典站冠军奖杯亮相",
+        "onboard_time": 1756053921,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20924,
+        "num": 20924,
+        "word": "九三阅兵天安门广场布置正式亮相",
+        "onboard_time": 1756045288,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20618,
+        "num": 20618,
+        "word": "鲁迅夹烟墙画被指误导青少年",
+        "onboard_time": 1756034364,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20535,
+        "num": 20535,
+        "word": "年薪15万程序员下班送外卖称解压",
+        "onboard_time": 1756051104,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18948,
+        "num": 20529,
+        "word": "马薇薇和男友合照",
+        "onboard_time": 1756043186,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18098,
+        "num": 20524,
+        "word": "九三阅兵最后一次夜间演练画面",
+        "onboard_time": 1756035082,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16808,
+        "num": 20521,
+        "word": "刘宇宁长靴比我腿长",
+        "onboard_time": 1756043245,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15826,
+        "num": 20516,
+        "word": "TTG晋级夏季赛胜决",
+        "onboard_time": 1756052544,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15009,
+        "num": 20508,
+        "word": "南京6头野猪10多分钟横渡长江",
+        "onboard_time": 1756071315,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14952,
+        "num": 20499,
+        "word": "网友晒和范丞丞小学合照",
+        "onboard_time": 1756047806,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14900,
+        "num": 20497,
+        "word": "林诗栋上演樊振东式逆转",
+        "onboard_time": 1756057697,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14472,
+        "num": 20493,
+        "word": "从1写到500给200块",
+        "onboard_time": 1756059436,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14019,
+        "num": 20481,
+        "word": "许凯也被于正做局了",
+        "onboard_time": 1756049785,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13740,
+        "num": 20475,
+        "word": "富勒姆1比1曼联",
+        "onboard_time": 1756060817,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}

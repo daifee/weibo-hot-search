@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756070578943,
+  "endTime": 1756071458786,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -555,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49347,
+      "num": 49347,
+      "word": "何晟铭和于正拍了13部戏",
+      "onboard_time": 1756064775,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 48878,
       "num": 55443,
       "word": "王曼昱亚军",
@@ -593,14 +601,6 @@
       "onboard_time": 1756044385,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37385,
-      "num": 37385,
-      "word": "何晟铭和于正拍了13部戏",
-      "onboard_time": 1756064775,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 28506,
@@ -667,12 +667,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 16001,
-      "num": 23022,
+      "raw_hot": 18046,
+      "num": 25094,
       "word": "谢娜不基础谢娜妈妈更不基础",
       "onboard_time": 1756069815,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15009,
+      "num": 20508,
+      "word": "南京6头野猪10多分钟横渡长江",
+      "onboard_time": 1756071315,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13264,
@@ -697,6 +705,14 @@
       "onboard_time": 1756068016,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9566,
+      "num": 58029,
+      "word": "落马官员儿子单次赌球投入超百万",
+      "onboard_time": 1756070714,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
