@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756001193150,
+  "endTime": 1756002586158,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1846815,
-      "num": 400885,
+      "num": 464595,
       "word": "迪丽热巴张凌赫 将门毒后",
       "onboard_time": 1755996561,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1515695,
+      "num": 322974,
+      "word": "黄多多好漂亮",
+      "onboard_time": 1756000222,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1285595,
@@ -59,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 995550,
+      "num": 1159288,
+      "word": "休假护士咬掉穿戴甲300秒极限救人",
+      "onboard_time": 1755992959,
+      "rank": 0,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 928205,
       "num": 321278,
       "word": "疑似许凯赵晴悄悄同居",
       "onboard_time": 1755941903,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 912013,
-      "num": 1145922,
-      "word": "休假护士咬掉穿戴甲300秒极限救人",
-      "onboard_time": 1755992959,
-      "rank": 0,
-      "category": "正能量"
     },
     {
       "raw_hot": 852297,
@@ -132,11 +140,19 @@
     },
     {
       "raw_hot": 534620,
-      "num": 245605,
+      "num": 263243,
       "word": "美国多地现变异动物",
       "onboard_time": 1755997462,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 514830,
+      "num": 514830,
+      "word": "山东通报505名死亡人员被发养老保险",
+      "onboard_time": 1755993680,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 508867,
@@ -155,12 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469571,
-      "num": 322974,
-      "word": "黄多多好漂亮",
-      "onboard_time": 1756000222,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 474947,
+      "num": 297269,
+      "word": "美团退款",
+      "onboard_time": 1755993259,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 447911,
@@ -195,22 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408603,
-      "num": 408603,
-      "word": "山东通报505名死亡人员被发养老保险",
-      "onboard_time": 1755993680,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 399851,
-      "num": 185515,
-      "word": "美团退款",
-      "onboard_time": 1755993259,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 377155,
       "num": 377155,
       "word": "苏醒 花田错",
@@ -241,6 +241,14 @@
       "onboard_time": 1755963865,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 353276,
+      "num": 295951,
+      "word": "存款100万靠利息生活的视频别太当真",
+      "onboard_time": 1756000522,
+      "rank": 32,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 335305,
@@ -299,12 +307,60 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 276850,
+      "num": 276850,
+      "word": "林娜琏 浪姐7",
+      "onboard_time": 1756000282,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 276833,
+      "num": 299721,
+      "word": "用信用卡12年才知每年被扣2600元",
+      "onboard_time": 1756000763,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262105,
       "num": 262105,
       "word": "台湾大罢免投票结果出炉",
       "onboard_time": 1755957627,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 252190,
+      "num": 252190,
+      "word": "10天后一起看阅兵",
+      "onboard_time": 1755995962,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 251331,
+      "num": 232803,
+      "word": "陈飞宇精心卡点1314撞了何晟铭",
+      "onboard_time": 1756001423,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246394,
+      "num": 371202,
+      "word": "女子心脏骤停晕倒医护人员飞奔救人",
+      "onboard_time": 1756000462,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239892,
+      "num": 239892,
+      "word": "Haruta 不说中文",
+      "onboard_time": 1756000581,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 233691,
@@ -323,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231528,
-      "num": 231528,
-      "word": "10天后一起看阅兵",
-      "onboard_time": 1755995962,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 230771,
       "num": 230771,
       "word": "封大脚牺牲",
@@ -347,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215088,
+      "num": 215088,
+      "word": "大连一高校被曝全员停发工资",
+      "onboard_time": 1756001602,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213856,
       "num": 205300,
       "word": "太子站起来了",
@@ -356,19 +412,11 @@
     },
     {
       "raw_hot": 209482,
-      "num": 209482,
+      "num": 215555,
       "word": "与晋长安开播",
       "onboard_time": 1755999142,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207086,
-      "num": 207086,
-      "word": "林娜琏 浪姐7",
-      "onboard_time": 1756000282,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 200966,
@@ -376,6 +424,14 @@
       "word": "银子结局",
       "onboard_time": 1755959067,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200536,
+      "num": 200536,
+      "word": "生万物结局 震撼",
+      "onboard_time": 1755996922,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -403,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184323,
-      "num": 184323,
-      "word": "存款100万靠利息生活的视频别太当真",
-      "onboard_time": 1756000522,
-      "rank": 32,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 182596,
       "num": 182596,
       "word": "许荔莎改简介",
@@ -425,14 +473,6 @@
       "onboard_time": 1755969801,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 178552,
-      "num": 185592,
-      "word": "Haruta 不说中文",
-      "onboard_time": 1756000581,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 177732,
@@ -483,11 +523,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152654,
-      "num": 152654,
-      "word": "生万物结局 震撼",
-      "onboard_time": 1755996922,
-      "rank": 36,
+      "raw_hot": 151090,
+      "num": 151090,
+      "word": "轩辕剑短剧",
+      "onboard_time": 1756002082,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -539,6 +579,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138023,
+      "num": 138023,
+      "word": "期待九三盛大阅兵",
+      "onboard_time": 1756001722,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 134656,
+      "num": 134656,
+      "word": "大妈机上换座被拒后闹事",
+      "onboard_time": 1755999381,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128007,
       "num": 128007,
       "word": "林诗栋回应1比3落后惊天逆转",
@@ -563,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119405,
-      "num": 119405,
-      "word": "用信用卡12年才知每年被扣2600元",
-      "onboard_time": 1756000763,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118060,
       "num": 118060,
       "word": "电动车主人回来一看天都塌了",
@@ -579,12 +627,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117269,
-      "num": 117269,
-      "word": "大妈机上换座被拒后闹事",
-      "onboard_time": 1755999381,
-      "rank": 41,
+      "raw_hot": 117178,
+      "num": 117178,
+      "word": "高校被曝全员停发工资",
+      "onboard_time": 1756002383,
+      "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116750,
+      "num": 116750,
+      "word": "避雷易烊千玺同款吃的都沉默了",
+      "onboard_time": 1755991638,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 115924,
@@ -611,12 +667,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109117,
+      "num": 109117,
+      "word": "光与夜之恋",
+      "onboard_time": 1756002082,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108761,
       "num": 108761,
       "word": "林诗栋4比3西蒙高茨",
       "onboard_time": 1755990378,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107620,
+      "num": 107620,
+      "word": "内娱明星是不是都喜欢当红娘",
+      "onboard_time": 1756002502,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 107222,
@@ -633,14 +705,6 @@
       "onboard_time": 1755993800,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 106664,
-      "num": 106664,
-      "word": "避雷易烊千玺同款吃的都沉默了",
-      "onboard_time": 1755991638,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 106272,
@@ -675,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103488,
+      "num": 107806,
+      "word": "至今无人能待满1小时的神奇房间",
+      "onboard_time": 1756002143,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103159,
       "num": 132359,
       "word": "最低工资迎来普调",
@@ -697,14 +769,6 @@
       "onboard_time": 1755959967,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99358,
-      "num": 371202,
-      "word": "女子心脏骤停晕倒医护人员飞奔救人",
-      "onboard_time": 1756000462,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99170,
@@ -891,6 +955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56237,
+      "num": 266299,
+      "word": "三亚10时起暂停航班起降",
+      "onboard_time": 1756000882,
+      "rank": 20,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 52140,
       "num": 52140,
       "word": "林诗栋回应逆转进决赛",
@@ -985,6 +1057,14 @@
       "onboard_time": 1755964947,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33824,
+      "num": 215232,
+      "word": "剑鱼或成近40年登陆三亚最强台风",
+      "onboard_time": 1756001482,
+      "rank": 29,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 31951,
@@ -1107,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19786,
-      "num": 247164,
-      "word": "三亚10时起暂停航班起降",
-      "onboard_time": 1756000882,
-      "rank": 20,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 19518,
       "num": 132083,
       "word": "剑鱼或成影响三亚的最强台风之一",
@@ -1131,7 +1203,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15355,
+      "raw_hot": 17246,
       "num": 1032108,
       "word": "一觉醒来和夏天告别了",
       "onboard_time": 1755910584,
