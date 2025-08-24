@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756042292174,
+  "endTime": 1756042950337,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1107,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9923977,
+      "num": 9923977,
+      "word": "许荔莎曝许凯嘴过的艺人",
+      "onboard_time": 1756040664,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9884168,
       "num": 9884168,
       "word": "王星成功获救",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1743576981,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6061910,
-      "num": 6061910,
-      "word": "许荔莎曝许凯嘴过的艺人",
-      "onboard_time": 1756040664,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 6007866,

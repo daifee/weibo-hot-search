@@ -1,10 +1,10 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756042292174,
+  "endTime": 1756042950337,
   "band_list": [
     {
-      "raw_hot": 6061910,
-      "num": 6061910,
+      "raw_hot": 9923977,
+      "num": 9923977,
       "word": "许荔莎曝许凯嘴过的艺人",
       "onboard_time": 1756040664,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1169724,
+      "num": 1187155,
+      "word": "邢菲终于要升咖了",
+      "onboard_time": 1756040843,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1152477,
       "num": 1184396,
       "word": "热依扎公开临床诊断结果",
@@ -161,14 +169,6 @@
       "onboard_time": 1755992959,
       "rank": 0,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 1042522,
-      "num": 1166803,
-      "word": "邢菲终于要升咖了",
-      "onboard_time": 1756040843,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 999213,
@@ -411,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 565793,
+      "num": 565793,
+      "word": "女子疑家暴去世其婆婆也被警方带走",
+      "onboard_time": 1756039705,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537011,
       "num": 283026,
       "word": "清朝状元的名字毫无网红感",
@@ -464,14 +472,6 @@
       "word": "大连一高校被曝全员停发工资",
       "onboard_time": 1756001602,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 512155,
-      "num": 512155,
-      "word": "女子疑家暴去世其婆婆也被警方带走",
-      "onboard_time": 1756039705,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1131,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200108,
+      "num": 200108,
+      "word": "易烊千玺自塑瞬间",
+      "onboard_time": 1756041746,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199375,
       "num": 199375,
       "word": "严浩翔好冷峻的侧脸",
@@ -1379,6 +1387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178727,
+      "num": 173888,
+      "word": "印度女子因嫁妆遭夫家毒打活活烧死",
+      "onboard_time": 1756040005,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 177950,
       "num": 187769,
       "word": "生万物",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1756037421,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174623,
+      "num": 346945,
+      "word": "天安门广场9月4日适时恢复开放",
+      "onboard_time": 1756041024,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174072,
@@ -1555,14 +1579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166198,
-      "num": 166198,
-      "word": "易烊千玺自塑瞬间",
-      "onboard_time": 1756041746,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 165517,
       "num": 165517,
       "word": "生万物偏偏你最争气",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1755985216,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161679,
+      "num": 140158,
+      "word": "女子疑遭家暴后去世儿子刚上幼儿园",
+      "onboard_time": 1756041565,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 159764,
@@ -1699,12 +1723,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155180,
-      "num": 155180,
-      "word": "印度女子因嫁妆遭夫家毒打活活烧死",
-      "onboard_time": 1756040005,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 154719,
+      "num": 154719,
+      "word": "刘宇宁好皮一男的",
+      "onboard_time": 1756042347,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 154150,
@@ -1795,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147621,
+      "num": 147621,
+      "word": "龚俊眼睛开水龙头了",
+      "onboard_time": 1756041144,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147422,
       "num": 147422,
       "word": "郭敬明 小鞠本人白得发光",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1756011143,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144724,
+      "num": 144724,
+      "word": "白鹿获奖感谢粉丝",
+      "onboard_time": 1756042707,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 144018,
@@ -1865,6 +1905,14 @@
       "onboard_time": 1756020923,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142767,
+      "num": 296905,
+      "word": "无锡地铁一景区宣传图被指画面不雅",
+      "onboard_time": 1756040305,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142558,
@@ -2043,14 +2091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132702,
-      "num": 132702,
-      "word": "龚俊眼睛开水龙头了",
-      "onboard_time": 1756041144,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132618,
       "num": 160128,
       "word": "台湾大罢免 无一通过",
@@ -2171,14 +2211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125260,
-      "num": 125260,
-      "word": "无锡地铁一景区宣传图被指画面不雅",
-      "onboard_time": 1756040305,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124586,
       "num": 242168,
       "word": "IVL",
@@ -2187,12 +2219,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124138,
+      "num": 124138,
+      "word": "博主称上海一餐厅半只鸡卖1999元",
+      "onboard_time": 1756042466,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123994,
       "num": 123994,
       "word": "张艺兴侧拍碎片",
       "onboard_time": 1756031183,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122791,
+      "num": 122791,
+      "word": "祝启慧女单冠军",
+      "onboard_time": 1756041625,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 122323,
@@ -2331,6 +2379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118041,
+      "num": 118041,
+      "word": "IVL最前线",
+      "onboard_time": 1756042707,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117817,
       "num": 117817,
       "word": "陈立农深圳街头拥抱",
@@ -2435,20 +2491,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115227,
+      "num": 115227,
+      "word": "于适说很多人看我笑话",
+      "onboard_time": 1756042766,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114246,
       "num": 114246,
       "word": "看个电影无痛背下来了12个单词",
       "onboard_time": 1756020262,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 114239,
-      "num": 346945,
-      "word": "天安门广场9月4日适时恢复开放",
-      "onboard_time": 1756041024,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 113847,
@@ -2987,14 +3043,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 90551,
-      "num": 140158,
-      "word": "女子疑遭家暴后去世儿子刚上幼儿园",
-      "onboard_time": 1756041565,
-      "rank": 39,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 89722,
       "num": 89722,
       "word": "王曼昱庆祝动作好燃",
@@ -3257,6 +3305,14 @@
       "onboard_time": 1755968662,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 56824,
+      "num": 124331,
+      "word": "清华食堂餐具在二手平台卖88一套",
+      "onboard_time": 1756042466,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56435,
