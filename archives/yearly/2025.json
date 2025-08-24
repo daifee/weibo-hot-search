@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756040531914,
+  "endTime": 1756042292174,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1851,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6061910,
+      "num": 6061910,
+      "word": "许荔莎曝许凯嘴过的艺人",
+      "onboard_time": 1756040664,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6007866,
       "num": 6007866,
       "word": "赵露思长文谈抑郁症",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737857357,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4133800,
-      "num": 4133800,
-      "word": "面筋哥去世",
-      "onboard_time": 1743220402,
-      "rank": 0,
-      "category": "网红"
     }
   ],
   "hotgov_list": [

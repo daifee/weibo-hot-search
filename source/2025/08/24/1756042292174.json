@@ -1,0 +1,410 @@
+{
+  "runTime": 1756042292174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042522,
+        "num": 1166803,
+        "word": "邢菲终于要升咖了",
+        "onboard_time": 1756040843,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649119,
+        "num": 649119,
+        "word": "九三阅兵最后一次夜间演练画面",
+        "onboard_time": 1756035082,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22115,
+        "num": 584025,
+        "word": "中国空间站有个现实版炼丹炉",
+        "onboard_time": 1756015223,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1010351,
+        "num": 584017,
+        "word": "内娱又有神级求婚现场了",
+        "onboard_time": 1756037184,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570261,
+        "num": 570261,
+        "word": "鲁迅夹烟墙画被指误导青少年",
+        "onboard_time": 1756034364,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535754,
+        "num": 535754,
+        "word": "泽连斯基宣布扩大战争",
+        "onboard_time": 1756037483,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 512155,
+        "num": 512155,
+        "word": "女子疑家暴去世其婆婆也被警方带走",
+        "onboard_time": 1756039705,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405247,
+        "num": 405247,
+        "word": "桃晚安哭了",
+        "onboard_time": 1756036643,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 347011,
+        "num": 347011,
+        "word": "TMEA节目单",
+        "onboard_time": 1756034722,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114239,
+        "num": 346945,
+        "word": "天安门广场9月4日适时恢复开放",
+        "onboard_time": 1756041024,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6061910,
+        "num": 6061910,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1232184,
+        "num": 346263,
+        "word": "张维伊董璇婚宴饭店人均价格",
+        "onboard_time": 1756035502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612022,
+        "num": 345973,
+        "word": "刘耀文严浩翔牵手上台",
+        "onboard_time": 1756038323,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 435056,
+        "num": 345605,
+        "word": "妇联回应女子疑被丈夫家暴致死",
+        "onboard_time": 1756032204,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345382,
+        "num": 345382,
+        "word": "薛凯琪把额头露出来大大方方的",
+        "onboard_time": 1756037483,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 426902,
+        "num": 329900,
+        "word": "白鹿说自己太瘦了",
+        "onboard_time": 1756033822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350938,
+        "num": 323214,
+        "word": "王艳富豪丈夫已被限消",
+        "onboard_time": 1756029383,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311848,
+        "num": 311848,
+        "word": "2集见血亲嘴5集咬脖深吻",
+        "onboard_time": 1756031122,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283707,
+        "num": 283707,
+        "word": "白敬亭釜山电影节生图",
+        "onboard_time": 1756032802,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54342,
+        "num": 283090,
+        "word": "郑州的文化氛围感拉满",
+        "onboard_time": 1756039824,
+        "rank": 19,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 282722,
+        "num": 282722,
+        "word": "去世女子社交账号都是孩子",
+        "onboard_time": 1756038863,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267066,
+        "num": 267066,
+        "word": "上海66套豪宅1小时售罄",
+        "onboard_time": 1756031362,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219633,
+        "num": 219633,
+        "word": "脂肪肝是全身性疾病的报警信号",
+        "onboard_time": 1756035682,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202558,
+        "num": 202558,
+        "word": "三孩宝妈补贴叠加下20万买110平房子",
+        "onboard_time": 1756040484,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199375,
+        "num": 199375,
+        "word": "严浩翔好冷峻的侧脸",
+        "onboard_time": 1756041205,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199316,
+        "num": 199316,
+        "word": "刘宇宁电梯里被拍了",
+        "onboard_time": 1756040125,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191269,
+        "num": 191269,
+        "word": "捏捏说是我没打好",
+        "onboard_time": 1756041925,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181439,
+        "num": 181439,
+        "word": "展轩曼谷mini纪录片",
+        "onboard_time": 1756041084,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171421,
+        "num": 171421,
+        "word": "九三阅兵全流程全要素预演",
+        "onboard_time": 1756035082,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166198,
+        "num": 166198,
+        "word": "易烊千玺自塑瞬间",
+        "onboard_time": 1756041746,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175128,
+        "num": 165697,
+        "word": "桃晚安回应哭了",
+        "onboard_time": 1756040964,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168040,
+        "num": 165677,
+        "word": "她的同学根本没意识到她有多强",
+        "onboard_time": 1756041205,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163644,
+        "num": 163644,
+        "word": "杨幂爆剧玄学",
+        "onboard_time": 1756023142,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162441,
+        "num": 162441,
+        "word": "阳光玫瑰 沦为路边摊水果",
+        "onboard_time": 1756025602,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161222,
+        "num": 161222,
+        "word": "川航回应女空乘被旅客骚扰离职",
+        "onboard_time": 1756037421,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159673,
+        "num": 159673,
+        "word": "丁程鑫粉发",
+        "onboard_time": 1756032742,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155180,
+        "num": 155180,
+        "word": "印度女子因嫁妆遭夫家毒打活活烧死",
+        "onboard_time": 1756040005,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153423,
+        "num": 153423,
+        "word": "子夜归魔童降世",
+        "onboard_time": 1756039764,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145441,
+        "num": 145441,
+        "word": "白鹿获亚洲内容大赏最佳人气奖",
+        "onboard_time": 1756039104,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90551,
+        "num": 140158,
+        "word": "女子疑遭家暴后去世儿子刚上幼儿园",
+        "onboard_time": 1756041565,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 137354,
+        "num": 137354,
+        "word": "AL战胜JDG",
+        "onboard_time": 1756041506,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145080,
+        "num": 137085,
+        "word": "女子疑家暴去世知情人称男方已自首",
+        "onboard_time": 1756036823,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135078,
+        "num": 135078,
+        "word": "生万物被指农村玛丽苏",
+        "onboard_time": 1756026922,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132702,
+        "num": 132702,
+        "word": "龚俊眼睛开水龙头了",
+        "onboard_time": 1756041144,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130818,
+        "num": 130818,
+        "word": "赵今麦魏大勋无可替代吻戏",
+        "onboard_time": 1756040064,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130285,
+        "num": 130285,
+        "word": "郑思维合影被误认成王昶",
+        "onboard_time": 1756041144,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128562,
+        "num": 128562,
+        "word": "北京WBG对战Wolves",
+        "onboard_time": 1756028782,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126334,
+        "num": 126334,
+        "word": "狼队夺冠",
+        "onboard_time": 1756035983,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125260,
+        "num": 125260,
+        "word": "无锡地铁一景区宣传图被指画面不雅",
+        "onboard_time": 1756040305,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124819,
+        "num": 124819,
+        "word": "周也三杀",
+        "onboard_time": 1756033644,
+        "rank": 49,
+        "category": "艺人,电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}
