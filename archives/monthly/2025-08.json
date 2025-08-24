@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756013116862,
+  "endTime": 1756014087970,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -10115,6 +10115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 565359,
+      "num": 183618,
+      "word": "何晟铭回应结婚了吗",
+      "onboard_time": 1756012702,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565139,
       "num": 164433,
       "word": "李明德被判有期徒刑六个月",
@@ -13403,6 +13411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440021,
+      "num": 189037,
+      "word": "生理性喜欢和心理性喜欢的区别",
+      "onboard_time": 1756010782,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 439798,
       "num": 439798,
       "word": "短剧折腰开拍",
@@ -15089,6 +15105,14 @@
       "onboard_time": 1754230765,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388515,
+      "num": 192961,
+      "word": "川航宋白金",
+      "onboard_time": 1756008142,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388505,
@@ -16779,14 +16803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345744,
-      "num": 192961,
-      "word": "川航宋白金",
-      "onboard_time": 1756008142,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345494,
       "num": 345494,
       "word": "昆明将严肃处理涉事旅行社",
@@ -18297,14 +18313,6 @@
       "onboard_time": 1755009506,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312837,
-      "num": 189037,
-      "word": "生理性喜欢和心理性喜欢的区别",
-      "onboard_time": 1756010782,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 312727,
@@ -26443,14 +26451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209553,
-      "num": 183618,
-      "word": "何晟铭回应结婚了吗",
-      "onboard_time": 1756012702,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209482,
       "num": 215555,
       "word": "与晋长安开播",
@@ -26553,6 +26553,14 @@
       "onboard_time": 1754575644,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 209090,
+      "num": 209090,
+      "word": "iPhone隐私屏幕模式",
+      "onboard_time": 1756010121,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 209083,
@@ -28545,6 +28553,14 @@
       "onboard_time": 1754823682,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200314,
+      "num": 200314,
+      "word": "王玉雯说刘宇宁演唱会票老难抢了",
+      "onboard_time": 1756012642,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 200312,
@@ -33611,14 +33627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182022,
-      "num": 182022,
-      "word": "iPhone隐私屏幕模式",
-      "onboard_time": 1756010121,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 182007,
       "num": 452495,
       "word": "东莞杀妻案受害者家属发声",
@@ -34971,6 +34979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176208,
+      "num": 176208,
+      "word": "田曦薇我也就六七分美貌",
+      "onboard_time": 1756013422,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176205,
       "num": 176205,
       "word": "王楚钦13比11张本智和",
@@ -35009,6 +35025,14 @@
       "onboard_time": 1755402921,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176080,
+      "num": 160682,
+      "word": "外国人对中餐有多上瘾",
+      "onboard_time": 1756013182,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 176079,
@@ -35267,6 +35291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175235,
+      "num": 196567,
+      "word": "广东大批台风预警发布",
+      "onboard_time": 1756011984,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175214,
       "num": 175213,
       "word": "潘展乐告状已经1年了",
@@ -35305,6 +35337,14 @@
       "onboard_time": 1755689841,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175153,
+      "num": 176380,
+      "word": "鲁迅长孙回应同款毛背心爆火",
+      "onboard_time": 1756012223,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175120,
@@ -38579,14 +38619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163618,
-      "num": 176793,
-      "word": "王玉雯说刘宇宁演唱会票老难抢了",
-      "onboard_time": 1756012642,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163611,
       "num": 163611,
       "word": "事业单位面试邪修大佬在民间",
@@ -41064,6 +41096,14 @@
       "word": "什么剧女主竟然与11个男人雄竞",
       "onboard_time": 1754642722,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156620,
+      "num": 156620,
+      "word": "绣绣在呢",
+      "onboard_time": 1756012883,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -43889,14 +43929,6 @@
       "onboard_time": 1755601827,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 148594,
-      "num": 196567,
-      "word": "广东大批台风预警发布",
-      "onboard_time": 1756011984,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148566,
@@ -46875,14 +46907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141539,
-      "num": 176380,
-      "word": "鲁迅长孙回应同款毛背心爆火",
-      "onboard_time": 1756012223,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141528,
       "num": 141528,
       "word": "infj真的很需要绿色",
@@ -47601,6 +47625,14 @@
       "onboard_time": 1754137763,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139637,
+      "num": 139637,
+      "word": "孟子义当伴娘旧照",
+      "onboard_time": 1756013363,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 139614,
@@ -49601,6 +49633,14 @@
       "onboard_time": 1755524782,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135411,
+      "num": 135411,
+      "word": "广告偷时间",
+      "onboard_time": 1756012162,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 135410,
@@ -57715,6 +57755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118416,
+      "num": 118416,
+      "word": "九三阅兵的标兵太帅了",
+      "onboard_time": 1756013542,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118415,
       "num": 118415,
       "word": "李荣浩 爆的原来是你",
@@ -60363,6 +60411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112362,
+      "num": 112362,
+      "word": "陈赫不语只一味地溺爱龚俊",
+      "onboard_time": 1756013722,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112300,
       "num": 117755,
       "word": "高铁儿童票",
@@ -61571,14 +61627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109846,
-      "num": 109846,
-      "word": "绣绣在呢",
-      "onboard_time": 1756012883,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109843,
       "num": 109843,
       "word": "花少 和谐",
@@ -61875,12 +61923,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109224,
+      "num": 109224,
+      "word": "王晶说周星驰对罗慧娟爱得很深",
+      "onboard_time": 1756013363,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109214,
       "num": 199642,
       "word": "解放军军机绕台天经地义合理合法",
       "onboard_time": 1755245843,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 109209,
+      "num": 109209,
+      "word": "10岁漂流小孩哥家人带货流量惨淡",
+      "onboard_time": 1756013783,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109206,
@@ -63459,6 +63523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105105,
+      "num": 105105,
+      "word": "以后炒地三鲜方便了",
+      "onboard_time": 1756013304,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 105086,
       "num": 105086,
       "word": "戏里小媳妇戏外老公姐",
@@ -64827,6 +64899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101482,
+      "num": 101482,
+      "word": "张晚意开收割机",
+      "onboard_time": 1756013904,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101481,
       "num": 102599,
       "word": "时团演唱会线上蹦迪倒计时",
@@ -65115,6 +65195,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 100657,
+      "num": 100657,
+      "word": "外国网友看韩国传统婚礼",
+      "onboard_time": 1756013904,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100642,
       "num": 100642,
       "word": "经常说4句口头禅说明心态很负面",
@@ -65337,6 +65425,14 @@
       "onboard_time": 1755063861,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99918,
+      "num": 99918,
+      "word": "李昀锐生日照",
+      "onboard_time": 1756014020,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 99882,
@@ -66545,6 +66641,14 @@
       "onboard_time": 1755824482,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96818,
+      "num": 96818,
+      "word": "许凯",
+      "onboard_time": 1755994220,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 96812,
@@ -71889,6 +71993,14 @@
       "onboard_time": 1754839164,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72164,
+      "num": 175233,
+      "word": "九三阅兵训练最新画面",
+      "onboard_time": 1756012162,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72135,
