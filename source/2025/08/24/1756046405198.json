@@ -1,0 +1,410 @@
+{
+  "runTime": 1756046405198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 903695,
+        "num": 1144591,
+        "word": "邢菲终于要升咖了",
+        "onboard_time": 1756040843,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414422,
+        "num": 414422,
+        "word": "九三阅兵最后一次夜间演练画面",
+        "onboard_time": 1756035082,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20329,
+        "num": 370925,
+        "word": "10秒看阅兵训练高燃场面",
+        "onboard_time": 1756020682,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 480674,
+        "num": 370217,
+        "word": "鹿晗演唱会倒退到升降台边差点踩空",
+        "onboard_time": 1756044385,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 367010,
+        "num": 367010,
+        "word": "鲁迅夹烟墙画被指误导青少年",
+        "onboard_time": 1756034364,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366021,
+        "num": 366021,
+        "word": "去世女子社交账号都是孩子",
+        "onboard_time": 1756038863,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359581,
+        "num": 359581,
+        "word": "内娱又有神级求婚现场了",
+        "onboard_time": 1756037184,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249279,
+        "num": 359230,
+        "word": "泽连斯基宣布扩大战争",
+        "onboard_time": 1756037483,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198941,
+        "num": 355340,
+        "word": "反诈老陈打假嘎子哥所售699元手机",
+        "onboard_time": 1756044926,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176364,
+        "num": 352740,
+        "word": "天安门广场9月4日适时恢复开放",
+        "onboard_time": 1756041024,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7179318,
+        "num": 7179318,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777918,
+        "num": 347932,
+        "word": "张维伊董璇婚宴饭店人均价格",
+        "onboard_time": 1756035502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560314,
+        "num": 346764,
+        "word": "妇联回应女子疑被丈夫家暴致死",
+        "onboard_time": 1756032204,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345247,
+        "num": 345247,
+        "word": "刘耀文严浩翔牵手上台",
+        "onboard_time": 1756038323,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339337,
+        "num": 339337,
+        "word": "马嘉祺跳了刀马刀马",
+        "onboard_time": 1756044446,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327970,
+        "num": 327970,
+        "word": "永夜星河看似播完了实则还有招",
+        "onboard_time": 1756045288,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309839,
+        "num": 309839,
+        "word": "马薇薇和男友合照",
+        "onboard_time": 1756043186,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298789,
+        "num": 298789,
+        "word": "日本博主惊叹中国外卖袋",
+        "onboard_time": 1756044385,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86446,
+        "num": 279266,
+        "word": "孟子义说缤果S好看又好用",
+        "onboard_time": 1756044926,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188730,
+        "num": 273770,
+        "word": "三孩宝妈补贴叠加下20万买110平房子",
+        "onboard_time": 1756040484,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273517,
+        "num": 273517,
+        "word": "白鹿说自己太瘦了",
+        "onboard_time": 1756033822,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266475,
+        "num": 266475,
+        "word": "时代少年团随舞",
+        "onboard_time": 1756043666,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233373,
+        "num": 233373,
+        "word": "2集见血亲嘴5集咬脖深吻",
+        "onboard_time": 1756031122,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217974,
+        "num": 217974,
+        "word": "桃晚安哭了",
+        "onboard_time": 1756036643,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191981,
+        "num": 191981,
+        "word": "王艳富豪丈夫已被限消",
+        "onboard_time": 1756029383,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187781,
+        "num": 187781,
+        "word": "鹿晗新型劝班方式",
+        "onboard_time": 1756045707,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211470,
+        "num": 187190,
+        "word": "时代少年团多远都要在一起",
+        "onboard_time": 1756046006,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182502,
+        "num": 182502,
+        "word": "易烊千玺童年照ending",
+        "onboard_time": 1756046067,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163322,
+        "num": 163322,
+        "word": "檀健次梦境显影",
+        "onboard_time": 1756044806,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154454,
+        "num": 162656,
+        "word": "九三阅兵天安门广场布置正式亮相",
+        "onboard_time": 1756045288,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162560,
+        "num": 162560,
+        "word": "白敬亭釜山电影节生图",
+        "onboard_time": 1756032802,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160633,
+        "num": 160633,
+        "word": "脂肪肝是全身性疾病的报警信号",
+        "onboard_time": 1756035682,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171793,
+        "num": 159397,
+        "word": "易烊千玺粉发唱粉雾海简直是绝杀",
+        "onboard_time": 1756043487,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149170,
+        "num": 149170,
+        "word": "九三阅兵全流程全要素预演",
+        "onboard_time": 1756035082,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147312,
+        "num": 147312,
+        "word": "无锡地铁一景区宣传图被指画面不雅",
+        "onboard_time": 1756040305,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144449,
+        "num": 144449,
+        "word": "生万物被指农村玛丽苏",
+        "onboard_time": 1756026922,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141918,
+        "num": 141918,
+        "word": "薛凯琪把额头露出来大大方方的",
+        "onboard_time": 1756037483,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136751,
+        "num": 136751,
+        "word": "刘宇宁长靴比我腿长",
+        "onboard_time": 1756043245,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134048,
+        "num": 134048,
+        "word": "刘耀文眉毛图案",
+        "onboard_time": 1756044986,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79729,
+        "num": 132143,
+        "word": "李一桐 我只能旺我自己旺不了夫",
+        "onboard_time": 1756045827,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126396,
+        "num": 131827,
+        "word": "WBG蝉联夏季赛周冠军",
+        "onboard_time": 1756044986,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131819,
+        "num": 131819,
+        "word": "印度女子因嫁妆遭夫家毒打活活烧死",
+        "onboard_time": 1756040005,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130005,
+        "num": 130005,
+        "word": "杨幂爆剧玄学",
+        "onboard_time": 1756023142,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127151,
+        "num": 127151,
+        "word": "龚俊眼睛开水龙头了",
+        "onboard_time": 1756041144,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125061,
+        "num": 125061,
+        "word": "TMEA节目单",
+        "onboard_time": 1756034722,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123376,
+        "num": 123376,
+        "word": "她的同学根本没意识到她有多强",
+        "onboard_time": 1756041205,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120486,
+        "num": 120486,
+        "word": "whzy获FMVP",
+        "onboard_time": 1756045647,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115962,
+        "num": 115962,
+        "word": "6个症状说明骨头已经变脆了",
+        "onboard_time": 1756033462,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113519,
+        "num": 113519,
+        "word": "2块钱的生意有种上市公司的感觉",
+        "onboard_time": 1756045947,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113363,
+        "num": 113363,
+        "word": "孙颖莎的2008年",
+        "onboard_time": 1756044446,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}
