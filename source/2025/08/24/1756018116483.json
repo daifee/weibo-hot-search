@@ -1,0 +1,410 @@
+{
+  "runTime": 1756018116483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 816881,
+        "num": 1130701,
+        "word": "鲁迅长孙回应同款毛背心爆火",
+        "onboard_time": 1756012223,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397103,
+        "num": 397103,
+        "word": "九三阅兵的标兵太帅了",
+        "onboard_time": 1756013542,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67620,
+        "num": 392590,
+        "word": "阅兵唯一无伴奏自己踩点的方队",
+        "onboard_time": 1755994520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 644057,
+        "num": 391793,
+        "word": "长得像迪丽热巴可以化妆成孙俪",
+        "onboard_time": 1756014442,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408341,
+        "num": 391593,
+        "word": "田曦薇我也就六七分美貌",
+        "onboard_time": 1756013422,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390507,
+        "num": 390507,
+        "word": "王牌对王牌9官宣",
+        "onboard_time": 1756003461,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301520,
+        "num": 301520,
+        "word": "王玉雯说刘宇宁演唱会票老难抢了",
+        "onboard_time": 1756012642,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277215,
+        "num": 277215,
+        "word": "iPhone隐私屏幕模式",
+        "onboard_time": 1756010121,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195435,
+        "num": 195435,
+        "word": "长期熬夜后快速恢复精力的5个技巧",
+        "onboard_time": 1756002981,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77948,
+        "num": 195185,
+        "word": "这短短40秒看得心酸",
+        "onboard_time": 1756016781,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 956267,
+        "num": 194623,
+        "word": "黄多多好漂亮",
+        "onboard_time": 1756000222,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 605436,
+        "num": 194173,
+        "word": "何晟铭回应结婚了吗",
+        "onboard_time": 1756012702,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587424,
+        "num": 193355,
+        "word": "许凯每次都选择了事业",
+        "onboard_time": 1756006043,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484229,
+        "num": 192839,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1756010782,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452569,
+        "num": 192152,
+        "word": "川航女空乘被骚扰离职",
+        "onboard_time": 1756006581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420752,
+        "num": 191976,
+        "word": "孟子义当伴娘旧照",
+        "onboard_time": 1756013363,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288973,
+        "num": 191130,
+        "word": "黄杨钿甜中戏开学路透",
+        "onboard_time": 1756005983,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237454,
+        "num": 190791,
+        "word": "美团退款",
+        "onboard_time": 1755993259,
+        "rank": 17,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 210992,
+        "num": 190015,
+        "word": "孟村",
+        "onboard_time": 1756016962,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189715,
+        "num": 189715,
+        "word": "Rapeter哭了",
+        "onboard_time": 1756017322,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185686,
+        "num": 185686,
+        "word": "川航宋白金",
+        "onboard_time": 1756008142,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173089,
+        "num": 173089,
+        "word": "热依扎公开临床诊断结果",
+        "onboard_time": 1756017322,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171825,
+        "num": 171825,
+        "word": "茶颜悦色 抄袭",
+        "onboard_time": 1756017683,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167467,
+        "num": 167467,
+        "word": "何晟铭坦言是来蹭流量的",
+        "onboard_time": 1756017741,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76439,
+        "num": 163973,
+        "word": "微博文化之夜嘉宾阵容",
+        "onboard_time": 1756017922,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144325,
+        "num": 162911,
+        "word": "休假护士咬掉穿戴甲300秒极限救人",
+        "onboard_time": 1755992959,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 162331,
+        "num": 162331,
+        "word": "陈数李沁你俩根本没喝中药",
+        "onboard_time": 1756014862,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147695,
+        "num": 160286,
+        "word": "沈腾说范丞丞是自己的综艺搭子",
+        "onboard_time": 1756016781,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132618,
+        "num": 160128,
+        "word": "台湾大罢免 无一通过",
+        "onboard_time": 1756016901,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137284,
+        "num": 160074,
+        "word": "美国多地现变异动物",
+        "onboard_time": 1755997462,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160071,
+        "num": 160071,
+        "word": "新加坡马来人抗议中文优势",
+        "onboard_time": 1756011742,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151747,
+        "num": 151747,
+        "word": "广告偷时间",
+        "onboard_time": 1756012162,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143511,
+        "num": 143511,
+        "word": "毕雯珺从嗑到了到磕到了",
+        "onboard_time": 1756017322,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140572,
+        "num": 140572,
+        "word": "迪丽热巴有种气血很足的美",
+        "onboard_time": 1756015223,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134578,
+        "num": 134578,
+        "word": "林娜琏 浪姐7",
+        "onboard_time": 1756000282,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127845,
+        "num": 127845,
+        "word": "居民存款暴跌老百姓的钱都去哪了",
+        "onboard_time": 1756014621,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127619,
+        "num": 127619,
+        "word": "Akiyo宣布离婚",
+        "onboard_time": 1756011984,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118091,
+        "num": 125628,
+        "word": "大连科技学院要求新生10天交齐学费",
+        "onboard_time": 1756016722,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40853,
+        "num": 125507,
+        "word": "原相机下的迅猛龙",
+        "onboard_time": 1756018042,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22822,
+        "num": 125489,
+        "word": "普通人40岁的真实状态",
+        "onboard_time": 1756018042,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125485,
+        "num": 125485,
+        "word": "广东大批台风预警发布",
+        "onboard_time": 1756011984,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124012,
+        "num": 124012,
+        "word": "用微信步数判断是否已读",
+        "onboard_time": 1756008862,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123986,
+        "num": 123986,
+        "word": "市值124亿元公司拟用138亿元炒股理财",
+        "onboard_time": 1756016842,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120717,
+        "num": 120717,
+        "word": "上海近1000元7道菜的餐厅",
+        "onboard_time": 1756013242,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117817,
+        "num": 117817,
+        "word": "陈立农深圳街头拥抱",
+        "onboard_time": 1756015580,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117675,
+        "num": 117675,
+        "word": "刘轩丞杂志销售额",
+        "onboard_time": 1756015882,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111888,
+        "num": 111888,
+        "word": "将门毒后非拍不可吗",
+        "onboard_time": 1756015822,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107943,
+        "num": 107943,
+        "word": "绣绣在呢",
+        "onboard_time": 1756012883,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102077,
+        "num": 102077,
+        "word": "外国网友看韩国传统婚礼",
+        "onboard_time": 1756013904,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88139,
+        "num": 101387,
+        "word": "NBA缅怀科比",
+        "onboard_time": 1756017801,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#雪域情深#"
+    }
+  }
+}

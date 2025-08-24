@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756017373962,
+  "endTime": 1756018116483,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -179,11 +179,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644057,
+      "num": 391793,
+      "word": "长得像迪丽热巴可以化妆成孙俪",
+      "onboard_time": 1756014442,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618730,
       "num": 362873,
       "word": "何晟铭谈和于正出现分歧原因",
       "onboard_time": 1756005144,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 605436,
+      "num": 194173,
+      "word": "何晟铭回应结婚了吗",
+      "onboard_time": 1756012702,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -193,14 +209,6 @@
       "onboard_time": 1756000282,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 584237,
-      "num": 183618,
-      "word": "何晟铭回应结婚了吗",
-      "onboard_time": 1756012702,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 582173,
@@ -225,14 +233,6 @@
       "onboard_time": 1755997462,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 528033,
-      "num": 301717,
-      "word": "长得像迪丽热巴可以化妆成孙俪",
-      "onboard_time": 1756014442,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 520725,
@@ -275,8 +275,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473158,
-      "num": 189037,
+      "raw_hot": 484229,
+      "num": 192839,
       "word": "生理性喜欢和心理性喜欢的区别",
       "onboard_time": 1756010782,
       "rank": 24,
@@ -299,6 +299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 420752,
+      "num": 191976,
+      "word": "孟子义当伴娘旧照",
+      "onboard_time": 1756013363,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419827,
       "num": 419827,
       "word": "10元车费乘客误付14万的哥报警",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 417618,
-      "num": 240607,
+      "num": 391593,
       "word": "田曦薇我也就六七分美貌",
       "onboard_time": 1756013422,
       "rank": 7,
@@ -345,6 +353,14 @@
       "onboard_time": 1755991037,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397103,
+      "num": 397103,
+      "word": "九三阅兵的标兵太帅了",
+      "onboard_time": 1756013542,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 388515,
@@ -435,20 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321640,
-      "num": 175142,
-      "word": "孟子义当伴娘旧照",
-      "onboard_time": 1756013363,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304255,
       "num": 304255,
       "word": "龙丹妮白敬亭抵达韩国",
       "onboard_time": 1755994942,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301520,
+      "num": 301520,
+      "word": "王玉雯说刘宇宁演唱会票老难抢了",
+      "onboard_time": 1756012642,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 299297,
@@ -496,22 +512,6 @@
       "word": "10天后一起看阅兵",
       "onboard_time": 1755995962,
       "rank": 24,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 249860,
-      "num": 221988,
-      "word": "王玉雯说刘宇宁演唱会票老难抢了",
-      "onboard_time": 1756012642,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 248750,
-      "num": 248750,
-      "word": "九三阅兵的标兵太帅了",
-      "onboard_time": 1756013542,
-      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -603,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210992,
+      "num": 190015,
+      "word": "孟村",
+      "onboard_time": 1756016962,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210835,
       "num": 210835,
       "word": "信用卡 年费",
@@ -657,6 +665,14 @@
       "onboard_time": 1756010302,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189715,
+      "num": 189715,
+      "word": "Rapeter哭了",
+      "onboard_time": 1756017322,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 189584,
@@ -795,6 +811,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173089,
+      "num": 173089,
+      "word": "热依扎公开临床诊断结果",
+      "onboard_time": 1756017322,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171825,
+      "num": 171825,
+      "word": "茶颜悦色 抄袭",
+      "onboard_time": 1756017683,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171692,
       "num": 171692,
       "word": "丞磊主人级别的人生镜头",
@@ -819,12 +851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167467,
+      "num": 167467,
+      "word": "何晟铭坦言是来蹭流量的",
+      "onboard_time": 1756017741,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164499,
       "num": 164499,
       "word": "美团客服回应订单退款未到账",
       "onboard_time": 1756003283,
       "rank": 34,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 162331,
+      "num": 162331,
+      "word": "陈数李沁你俩根本没喝中药",
+      "onboard_time": 1756014862,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 161982,
@@ -841,14 +889,6 @@
       "onboard_time": 1755985216,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160634,
-      "num": 160634,
-      "word": "陈数李沁你俩根本没喝中药",
-      "onboard_time": 1756014862,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 158125,
@@ -891,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151747,
+      "num": 151747,
+      "word": "广告偷时间",
+      "onboard_time": 1756012162,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151180,
       "num": 151180,
       "word": "光与夜之恋",
@@ -907,12 +955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148504,
-      "num": 148504,
-      "word": "广告偷时间",
-      "onboard_time": 1756012162,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 147695,
+      "num": 160286,
+      "word": "沈腾说范丞丞是自己的综艺搭子",
+      "onboard_time": 1756016781,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 147422,
@@ -931,12 +979,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 144818,
-      "num": 144818,
-      "word": "沈腾说范丞丞是自己的综艺搭子",
-      "onboard_time": 1756016781,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 143511,
+      "num": 143511,
+      "word": "毕雯珺从嗑到了到磕到了",
+      "onboard_time": 1756017322,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142107,
@@ -952,6 +1000,14 @@
       "word": "迪丽热巴跳了神的随波逐流",
       "onboard_time": 1755959907,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140572,
+      "num": 140572,
+      "word": "迪丽热巴有种气血很足的美",
+      "onboard_time": 1756015223,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1003,20 +1059,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132618,
+      "num": 160128,
+      "word": "台湾大罢免 无一通过",
+      "onboard_time": 1756016901,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131204,
       "num": 131204,
       "word": "王源新歌全明星制作阵容",
       "onboard_time": 1756010782,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 130123,
-      "num": 130123,
-      "word": "迪丽热巴有种气血很足的美",
-      "onboard_time": 1756015223,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 128007,
@@ -1027,12 +1083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126733,
-      "num": 126733,
-      "word": "孟村",
-      "onboard_time": 1756016962,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 127845,
+      "num": 127845,
+      "word": "居民存款暴跌老百姓的钱都去哪了",
+      "onboard_time": 1756014621,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 125289,
@@ -1043,12 +1099,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123986,
+      "num": 123986,
+      "word": "市值124亿元公司拟用138亿元炒股理财",
+      "onboard_time": 1756016842,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122016,
       "num": 122016,
       "word": "至今无人能待满1小时的神奇房间",
       "onboard_time": 1756002143,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120717,
+      "num": 120717,
+      "word": "上海近1000元7道菜的餐厅",
+      "onboard_time": 1756013242,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 120654,
@@ -1091,12 +1163,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118091,
+      "num": 168131,
+      "word": "大连科技学院要求新生10天交齐学费",
+      "onboard_time": 1756016722,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118060,
       "num": 118060,
       "word": "电动车主人回来一看天都塌了",
       "onboard_time": 1755999263,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117817,
+      "num": 117817,
+      "word": "陈立农深圳街头拥抱",
+      "onboard_time": 1756015580,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 117178,
@@ -1139,28 +1227,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 114919,
-      "num": 114919,
-      "word": "陈立农深圳街头拥抱",
-      "onboard_time": 1756015580,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 112684,
-      "num": 112684,
-      "word": "市值124亿元公司拟用138亿元炒股理财",
-      "onboard_time": 1756016842,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112362,
       "num": 112362,
       "word": "陈赫不语只一味地溺爱龚俊",
       "onboard_time": 1756013722,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111888,
+      "num": 111888,
+      "word": "将门毒后非拍不可吗",
+      "onboard_time": 1756015822,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 109863,
@@ -1209,14 +1289,6 @@
       "onboard_time": 1755990378,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108022,
-      "num": 108022,
-      "word": "上海近1000元7道菜的餐厅",
-      "onboard_time": 1756013242,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 107620,
@@ -1299,14 +1371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 103507,
-      "num": 103507,
-      "word": "将门毒后非拍不可吗",
-      "onboard_time": 1756015822,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103159,
       "num": 132359,
       "word": "最低工资迎来普调",
@@ -1323,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102584,
-      "num": 102584,
-      "word": "毕雯珺从嗑到了到磕到了",
-      "onboard_time": 1756017322,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102242,
       "num": 363307,
       "word": "新疆地震",
@@ -1345,14 +1401,6 @@
       "onboard_time": 1756008323,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101867,
-      "num": 101867,
-      "word": "Rapeter哭了",
-      "onboard_time": 1756017322,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 101524,
@@ -1433,14 +1481,6 @@
       "onboard_time": 1755965065,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 98189,
-      "num": 98189,
-      "word": "热依扎公开临床诊断结果",
-      "onboard_time": 1756017322,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 97900,
@@ -1539,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88139,
+      "num": 101387,
+      "word": "NBA缅怀科比",
+      "onboard_time": 1756017801,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82622,
       "num": 92595,
       "word": "台湾大罢免",
@@ -1577,6 +1625,22 @@
       "onboard_time": 1756015642,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77948,
+      "num": 195185,
+      "word": "这短短40秒看得心酸",
+      "onboard_time": 1756016781,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76439,
+      "num": 163973,
+      "word": "微博文化之夜嘉宾阵容",
+      "onboard_time": 1756017922,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 76260,
@@ -1779,20 +1843,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37878,
-      "num": 145402,
-      "word": "台湾大罢免 无一通过",
-      "onboard_time": 1756016901,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 37691,
-      "num": 168131,
-      "word": "大连科技学院要求新生10天交齐学费",
-      "onboard_time": 1756016722,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 40853,
+      "num": 125507,
+      "word": "原相机下的迅猛龙",
+      "onboard_time": 1756018042,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 37231,
@@ -1937,6 +1993,14 @@
       "onboard_time": 1755975437,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22822,
+      "num": 125489,
+      "word": "普通人40岁的真实状态",
+      "onboard_time": 1756018042,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 22393,
