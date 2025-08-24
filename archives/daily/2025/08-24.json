@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756031103584,
+  "endTime": 1756032126501,
   "band_list": [
     {
       "raw_hot": 3400230,
@@ -41,6 +41,14 @@
       "onboard_time": 1756025602,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1455291,
+      "num": 1455291,
+      "word": "河北一女子去世疑与丈夫家暴有关",
+      "onboard_time": 1756029743,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1285595,
@@ -123,14 +131,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 1014971,
-      "num": 1014971,
-      "word": "河北一女子去世疑与丈夫家暴有关",
-      "onboard_time": 1756029743,
-      "rank": 1,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 949110,
       "num": 363062,
       "word": "美团退款",
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 781716,
+      "num": 781716,
+      "word": "王艳富豪丈夫已被限消",
+      "onboard_time": 1756029383,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 716164,
       "num": 716164,
       "word": "食脑虫",
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592471,
+      "num": 592471,
+      "word": "生万物被指农村玛丽苏",
+      "onboard_time": 1756026922,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 587145,
       "num": 413688,
       "word": "林娜琏 浪姐7",
@@ -297,14 +313,6 @@
       "onboard_time": 1755951505,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 549136,
-      "num": 459069,
-      "word": "生万物被指农村玛丽苏",
-      "onboard_time": 1756026922,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 537011,
@@ -371,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500294,
+      "num": 438146,
+      "word": "月薪3万存2万五的真实生活",
+      "onboard_time": 1756027282,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 488967,
       "num": 788173,
       "word": "王艳两场直播销售额超3000万",
@@ -427,28 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 456408,
-      "num": 456408,
-      "word": "王艳富豪丈夫已被限消",
-      "onboard_time": 1756029383,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 447911,
       "num": 288786,
       "word": "易烊千玺被粉丝的尖叫声吓到了",
       "onboard_time": 1755960807,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 438146,
-      "num": 438146,
-      "word": "月薪3万存2万五的真实生活",
-      "onboard_time": 1756027282,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 421514,
@@ -473,6 +473,14 @@
       "onboard_time": 1755961947,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415410,
+      "num": 367284,
+      "word": "井胧不希望井迪结婚",
+      "onboard_time": 1756028903,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 414454,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 374274,
-      "num": 636975,
+      "num": 846862,
       "word": "阅兵唯一无伴奏自己踩点的方队",
       "onboard_time": 1755994520,
       "rank": 8,
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362485,
+      "num": 362485,
+      "word": "多方回应女子去世疑与丈夫家暴有关",
+      "onboard_time": 1756031003,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359311,
       "num": 446603,
       "word": "迪丽热巴金色吊带闪片长裙",
@@ -595,14 +611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 332466,
-      "num": 332466,
-      "word": "井胧不希望井迪结婚",
-      "onboard_time": 1756028903,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331089,
       "num": 301906,
       "word": "网传迪丽热巴团队重组招人",
@@ -625,6 +633,14 @@
       "onboard_time": 1756001423,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318125,
+      "num": 199183,
+      "word": "2集见血亲嘴5集咬脖深吻",
+      "onboard_time": 1756031122,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 304255,
@@ -787,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219045,
+      "num": 219045,
+      "word": "国漫史上第一部大女主",
+      "onboard_time": 1756028842,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 217888,
       "num": 217888,
       "word": "曾舜晞夸丞磊晋江式演技",
@@ -857,14 +881,6 @@
       "onboard_time": 1756010242,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203463,
-      "num": 203463,
-      "word": "国漫史上第一部大女主",
-      "onboard_time": 1756028842,
-      "rank": 18,
-      "category": "动漫"
     },
     {
       "raw_hot": 200966,
@@ -960,6 +976,14 @@
       "word": "男子被朋友送的金毛吓到报警",
       "onboard_time": 1755993740,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184193,
+      "num": 159663,
+      "word": "上海66套豪宅1小时售罄",
+      "onboard_time": 1756031362,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1075,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173562,
+      "num": 438250,
+      "word": "阳光玫瑰为何从超商走向地摊",
+      "onboard_time": 1756028842,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171692,
       "num": 171692,
       "word": "丞磊主人级别的人生镜头",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1756008984,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168764,
-      "num": 438250,
-      "word": "阳光玫瑰为何从超商走向地摊",
-      "onboard_time": 1756028842,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168384,
@@ -1161,14 +1185,6 @@
       "onboard_time": 1755985216,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160020,
-      "num": 203013,
-      "word": "多方回应女子去世疑与丈夫家暴有关",
-      "onboard_time": 1756031003,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158125,
@@ -1315,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145614,
+      "num": 145614,
+      "word": "王源你们怎么又背着我合作",
+      "onboard_time": 1756031603,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145482,
       "num": 145482,
       "word": "原相机下的迅猛龙",
@@ -1419,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138179,
+      "num": 138179,
+      "word": "邓典果亚军魔咒",
+      "onboard_time": 1756031721,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138067,
       "num": 138067,
       "word": "刘宇宁差点失去表情管理",
@@ -1459,6 +1491,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 134772,
+      "num": 134772,
+      "word": "不敢想10天后的大阅兵多壮观",
+      "onboard_time": 1756030102,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134656,
       "num": 134656,
       "word": "大妈机上换座被拒后闹事",
@@ -1491,6 +1531,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129722,
+      "num": 129722,
+      "word": "李荣浩退场方式从哪里进修的",
+      "onboard_time": 1756031062,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 129675,
+      "num": 129675,
+      "word": "宋雨琦TMEA红毯",
+      "onboard_time": 1756031603,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129339,
       "num": 216736,
       "word": "市值124亿元公司拟用138亿元炒股理财",
@@ -1505,6 +1561,14 @@
       "onboard_time": 1756027523,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128583,
+      "num": 128583,
+      "word": "王皓叫暂停把林诗栋从悬崖边拽回",
+      "onboard_time": 1756031482,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 128122,
@@ -1555,12 +1619,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123994,
+      "num": 123994,
+      "word": "张艺兴侧拍碎片",
+      "onboard_time": 1756031183,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122323,
+      "num": 122323,
+      "word": "李承铉背着飞机走红毯",
+      "onboard_time": 1756031781,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122016,
       "num": 122016,
       "word": "至今无人能待满1小时的神奇房间",
       "onboard_time": 1756002143,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121272,
+      "num": 121272,
+      "word": "公安局副局长赤膊上阵扑倒骗子",
+      "onboard_time": 1756030282,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120912,
@@ -1577,6 +1665,14 @@
       "onboard_time": 1756013242,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120691,
+      "num": 120691,
+      "word": "北京WBG对战Wolves",
+      "onboard_time": 1756028782,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 120654,
@@ -1731,6 +1827,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 115955,
+      "num": 115955,
+      "word": "左航拿捏住了",
+      "onboard_time": 1756031362,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115924,
       "num": 115924,
       "word": "林诗栋莫雷加德争冠",
@@ -1795,12 +1899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113142,
-      "num": 113142,
-      "word": "不敢想10天后的大阅兵多壮观",
-      "onboard_time": 1756030102,
-      "rank": 42,
-      "category": "国内时政"
+      "raw_hot": 112411,
+      "num": 124226,
+      "word": "32岁经济独立在挪威的独居生活",
+      "onboard_time": 1756031603,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 112389,
@@ -2027,20 +2131,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 103398,
-      "num": 103398,
-      "word": "李荣浩退场方式从哪里进修的",
-      "onboard_time": 1756031062,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 103159,
       "num": 132359,
       "word": "最低工资迎来普调",
       "onboard_time": 1755962847,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103122,
+      "num": 103122,
+      "word": "外国记者被中国排面帅到了",
+      "onboard_time": 1756032022,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102662,
@@ -2499,6 +2603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 69723,
+      "num": 120915,
+      "word": "高空抛食毒死宠物狗事件警方已立案",
+      "onboard_time": 1756031482,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67790,
       "num": 189409,
       "word": "多国暂停向美国邮寄包裹",
@@ -2657,14 +2769,6 @@
       "onboard_time": 1755991697,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43361,
-      "num": 115305,
-      "word": "公安局副局长赤膊上阵扑倒骗子",
-      "onboard_time": 1756030282,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41814,
