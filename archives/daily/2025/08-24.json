@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756035413505,
+  "endTime": 1756039653961,
   "band_list": [
     {
       "raw_hot": 3400230,
@@ -17,6 +17,14 @@
       "onboard_time": 1755959848,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2010478,
+      "num": 388736,
+      "word": "张维伊董璇婚宴饭店人均价格",
+      "onboard_time": 1756035502,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1846815,
@@ -81,6 +89,14 @@
       "onboard_time": 1755957508,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1217911,
+      "num": 1217911,
+      "word": "内娱又有神级求婚现场了",
+      "onboard_time": 1756037184,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1217102,
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 913224,
+      "num": 913224,
+      "word": "九三阅兵最后一次夜间演练画面",
+      "onboard_time": 1756035082,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 889117,
       "num": 464361,
       "word": "长得像迪丽热巴可以化妆成孙俪",
@@ -219,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785632,
+      "num": 517487,
+      "word": "桃晚安哭了",
+      "onboard_time": 1756036643,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 783209,
       "num": 292626,
       "word": "黄杨钿甜中戏开学路透",
@@ -265,6 +297,14 @@
       "onboard_time": 1755950904,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 651164,
+      "num": 386541,
+      "word": "刘耀文严浩翔牵手上台",
+      "onboard_time": 1756038323,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 645783,
@@ -347,6 +387,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 536620,
+      "num": 384512,
+      "word": "白鹿说自己太瘦了",
+      "onboard_time": 1756033822,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534620,
       "num": 280131,
       "word": "美国多地现变异动物",
@@ -355,12 +403,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 533724,
+      "num": 533724,
+      "word": "泽连斯基宣布扩大战争",
+      "onboard_time": 1756037483,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 531392,
       "num": 319883,
       "word": "于正很早给许凯算过命",
       "onboard_time": 1756018703,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 528745,
+      "num": 528745,
+      "word": "鲁迅夹烟墙画被指误导青少年",
+      "onboard_time": 1756034364,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 520725,
@@ -435,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486656,
+      "num": 434744,
+      "word": "妇联回应女子疑被丈夫家暴致死",
+      "onboard_time": 1756032204,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484229,
       "num": 192839,
       "word": "生理性喜欢和心理性喜欢的区别",
@@ -489,14 +561,6 @@
       "onboard_time": 1755960807,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 434744,
-      "num": 434744,
-      "word": "妇联回应女子疑被丈夫家暴致死",
-      "onboard_time": 1756032204,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 422416,
@@ -577,6 +641,22 @@
       "onboard_time": 1756008142,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379118,
+      "num": 379118,
+      "word": "TMEA节目单",
+      "onboard_time": 1756034722,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 378279,
+      "num": 378279,
+      "word": "北京WBG对战Wolves",
+      "onboard_time": 1756028782,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 377155,
@@ -715,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288903,
+      "num": 288903,
+      "word": "薛凯琪把额头露出来大大方方的",
+      "onboard_time": 1756037483,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 287159,
       "num": 287159,
       "word": "iPhone隐私屏幕模式",
@@ -731,14 +819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 264007,
-      "num": 264007,
-      "word": "白鹿说自己太瘦了",
-      "onboard_time": 1756033822,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262105,
       "num": 262105,
       "word": "台湾大罢免投票结果出炉",
@@ -747,11 +827,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 259731,
-      "num": 259731,
-      "word": "北京WBG对战Wolves",
-      "onboard_time": 1756028782,
-      "rank": 45,
+      "raw_hot": 256410,
+      "num": 256410,
+      "word": "狼队夺冠",
+      "onboard_time": 1756035983,
+      "rank": 21,
       "category": "电竞"
     },
     {
@@ -841,6 +921,14 @@
       "onboard_time": 1755990918,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231342,
+      "num": 231342,
+      "word": "脂肪肝是全身性疾病的报警信号",
+      "onboard_time": 1756035682,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 231168,
@@ -987,20 +1075,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200237,
+      "num": 200237,
+      "word": "刘宇宁在星辰里唱歌",
+      "onboard_time": 1756039104,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197469,
+      "num": 197469,
+      "word": "睡前小宝贝睡后你是何人",
+      "onboard_time": 1756038445,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197285,
+      "num": 197285,
+      "word": "白鹿获亚洲内容大赏最佳人气奖",
+      "onboard_time": 1756039104,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196662,
       "num": 196662,
       "word": "李芊语中戏报到",
       "onboard_time": 1756010302,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195723,
-      "num": 195723,
-      "word": "TMEA节目单",
-      "onboard_time": 1756034722,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 194936,
@@ -1011,12 +1115,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193161,
+      "num": 193161,
+      "word": "刘宇宁TMEA获奖感言",
+      "onboard_time": 1756038564,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192464,
       "num": 192464,
       "word": "第五人格赛事",
       "onboard_time": 1756026501,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190902,
+      "num": 190902,
+      "word": "女子疑家暴去世知情人称男方已自首",
+      "onboard_time": 1756036823,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190818,
+      "num": 190818,
+      "word": "张凌赫这一秒过火报数式营业",
+      "onboard_time": 1756039163,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 190804,
@@ -1049,6 +1177,14 @@
       "onboard_time": 1756002803,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189422,
+      "num": 189422,
+      "word": "成都狼队一穿四",
+      "onboard_time": 1756038802,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 188869,
@@ -1113,6 +1249,14 @@
       "onboard_time": 1755945561,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181757,
+      "num": 391377,
+      "word": "九三阅兵全流程全要素预演",
+      "onboard_time": 1756035082,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181716,
@@ -1203,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174738,
+      "num": 190819,
+      "word": "川航回应女空乘被旅客骚扰离职",
+      "onboard_time": 1756037421,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174072,
       "num": 174072,
       "word": "6岁娃沙滩光脚踩到死鱼进了ICU",
@@ -1227,12 +1379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171463,
+      "num": 171463,
+      "word": "这个男团出道四个月就上TMEA",
+      "onboard_time": 1756038382,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170390,
       "num": 170390,
       "word": "怪不得领导这么喜欢上班",
       "onboard_time": 1755999742,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170029,
+      "num": 170029,
+      "word": "喜欢易烊千玺从来不是单箭头",
+      "onboard_time": 1756038265,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 168813,
@@ -1281,6 +1449,14 @@
       "onboard_time": 1756003283,
       "rank": 34,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 163104,
+      "num": 163104,
+      "word": "刘轩丞穿了鹿晗同款衣服",
+      "onboard_time": 1756034964,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 162331,
@@ -1419,12 +1595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152398,
-      "num": 152398,
-      "word": "刘轩丞穿了鹿晗同款衣服",
-      "onboard_time": 1756034964,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 152438,
+      "num": 152438,
+      "word": "白敬亭釜山桑延限时返场",
+      "onboard_time": 1756039344,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 152138,
@@ -1467,14 +1643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148928,
-      "num": 148928,
-      "word": "鲁迅夹烟墙画被指误导青少年",
-      "onboard_time": 1756034364,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148399,
       "num": 148399,
       "word": "王源你们怎么又背着我合作",
@@ -1499,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147156,
+      "num": 147156,
+      "word": "子夜归",
+      "onboard_time": 1756036042,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145482,
       "num": 145482,
       "word": "原相机下的迅猛龙",
@@ -1515,12 +1691,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145032,
+      "num": 145032,
+      "word": "宠爱 我们做到了",
+      "onboard_time": 1756038683,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143935,
       "num": 143935,
       "word": "拼好本",
       "onboard_time": 1756023082,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143552,
+      "num": 143552,
+      "word": "487说我们是冠军",
+      "onboard_time": 1756038982,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 143511,
@@ -1595,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138762,
+      "num": 138762,
+      "word": "韩庚一张嘴我的青春又回来了",
+      "onboard_time": 1756039584,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138709,
       "num": 138709,
       "word": "林诗栋做到了和偶像樊振东一样热血",
@@ -1632,6 +1832,14 @@
       "word": "王皓叫暂停把林诗栋从悬崖边拽回",
       "onboard_time": 1756031482,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137355,
+      "num": 137355,
+      "word": "中国排面经得起逐帧回放",
+      "onboard_time": 1756038982,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2113,6 +2321,14 @@
       "onboard_time": 1756015822,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111203,
+      "num": 153847,
+      "word": "去世女子社交账号都是孩子",
+      "onboard_time": 1756038863,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110068,
@@ -2643,14 +2859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84447,
-      "num": 260499,
-      "word": "九三阅兵全流程全要素预演",
-      "onboard_time": 1756035082,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83393,
       "num": 120519,
       "word": "王星越奖励自己蜜雪冰城",
@@ -2843,14 +3051,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62040,
-      "num": 310510,
-      "word": "九三阅兵最后一次夜间演练画面",
-      "onboard_time": 1756035082,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 61267,
       "num": 132320,
       "word": "迪丽热巴说二次元妹妹叫迪丽冷巴",
@@ -2964,7 +3164,7 @@
     },
     {
       "raw_hot": 45299,
-      "num": 511034,
+      "num": 700963,
       "word": "中国空间站有个现实版炼丹炉",
       "onboard_time": 1756015223,
       "rank": 9,

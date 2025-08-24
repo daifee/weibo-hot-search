@@ -1,0 +1,410 @@
+{
+  "runTime": 1756039653961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217911,
+        "num": 1217911,
+        "word": "内娱又有神级求婚现场了",
+        "onboard_time": 1756037184,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913224,
+        "num": 913224,
+        "word": "九三阅兵最后一次夜间演练画面",
+        "onboard_time": 1756035082,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28702,
+        "num": 700963,
+        "word": "中国空间站有个现实版炼丹炉",
+        "onboard_time": 1756015223,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 533724,
+        "num": 533724,
+        "word": "泽连斯基宣布扩大战争",
+        "onboard_time": 1756037483,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 528745,
+        "num": 528745,
+        "word": "鲁迅夹烟墙画被指误导青少年",
+        "onboard_time": 1756034364,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 785632,
+        "num": 517487,
+        "word": "桃晚安哭了",
+        "onboard_time": 1756036643,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 465366,
+        "num": 465366,
+        "word": "白敬亭釜山电影节生图",
+        "onboard_time": 1756032802,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 576853,
+        "num": 459388,
+        "word": "王艳富豪丈夫已被限消",
+        "onboard_time": 1756029383,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394233,
+        "num": 394233,
+        "word": "2集见血亲嘴5集咬脖深吻",
+        "onboard_time": 1756031122,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181757,
+        "num": 391377,
+        "word": "九三阅兵全流程全要素预演",
+        "onboard_time": 1756035082,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2010478,
+        "num": 388736,
+        "word": "张维伊董璇婚宴饭店人均价格",
+        "onboard_time": 1756035502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651164,
+        "num": 386541,
+        "word": "刘耀文严浩翔牵手上台",
+        "onboard_time": 1756038323,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 536620,
+        "num": 384512,
+        "word": "白鹿说自己太瘦了",
+        "onboard_time": 1756033822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486656,
+        "num": 381247,
+        "word": "妇联回应女子疑被丈夫家暴致死",
+        "onboard_time": 1756032204,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379118,
+        "num": 379118,
+        "word": "TMEA节目单",
+        "onboard_time": 1756034722,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378279,
+        "num": 378279,
+        "word": "北京WBG对战Wolves",
+        "onboard_time": 1756028782,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 343385,
+        "num": 343385,
+        "word": "上海66套豪宅1小时售罄",
+        "onboard_time": 1756031362,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320782,
+        "num": 320782,
+        "word": "丁程鑫粉发",
+        "onboard_time": 1756032742,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 288903,
+        "num": 288903,
+        "word": "薛凯琪把额头露出来大大方方的",
+        "onboard_time": 1756037483,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264924,
+        "num": 264924,
+        "word": "阳光玫瑰 沦为路边摊水果",
+        "onboard_time": 1756025602,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302725,
+        "num": 262263,
+        "word": "井胧不希望井迪结婚",
+        "onboard_time": 1756028903,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256410,
+        "num": 256410,
+        "word": "狼队夺冠",
+        "onboard_time": 1756035983,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231342,
+        "num": 231342,
+        "word": "脂肪肝是全身性疾病的报警信号",
+        "onboard_time": 1756035682,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223221,
+        "num": 223221,
+        "word": "严浩翔橙发",
+        "onboard_time": 1756035082,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200237,
+        "num": 200237,
+        "word": "刘宇宁在星辰里唱歌",
+        "onboard_time": 1756039104,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197469,
+        "num": 197469,
+        "word": "睡前小宝贝睡后你是何人",
+        "onboard_time": 1756038445,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197285,
+        "num": 197285,
+        "word": "白鹿获亚洲内容大赏最佳人气奖",
+        "onboard_time": 1756039104,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193161,
+        "num": 193161,
+        "word": "刘宇宁TMEA获奖感言",
+        "onboard_time": 1756038564,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190902,
+        "num": 190902,
+        "word": "女子疑家暴去世知情人称男方已自首",
+        "onboard_time": 1756036823,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174738,
+        "num": 190819,
+        "word": "川航回应女空乘被旅客骚扰离职",
+        "onboard_time": 1756037421,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190818,
+        "num": 190818,
+        "word": "张凌赫这一秒过火报数式营业",
+        "onboard_time": 1756039163,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189422,
+        "num": 189422,
+        "word": "成都狼队一穿四",
+        "onboard_time": 1756038802,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186472,
+        "num": 186472,
+        "word": "周也三杀",
+        "onboard_time": 1756033644,
+        "rank": 32,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 185761,
+        "num": 185761,
+        "word": "杨幂爆剧玄学",
+        "onboard_time": 1756023142,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171463,
+        "num": 171463,
+        "word": "这个男团出道四个月就上TMEA",
+        "onboard_time": 1756038382,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170029,
+        "num": 170029,
+        "word": "喜欢易烊千玺从来不是单箭头",
+        "onboard_time": 1756038265,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163553,
+        "num": 163553,
+        "word": "将门毒后",
+        "onboard_time": 1756018582,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163104,
+        "num": 163104,
+        "word": "刘轩丞穿了鹿晗同款衣服",
+        "onboard_time": 1756034964,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158142,
+        "num": 158142,
+        "word": "生万物被指农村玛丽苏",
+        "onboard_time": 1756026922,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111203,
+        "num": 153847,
+        "word": "去世女子社交账号都是孩子",
+        "onboard_time": 1756038863,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152438,
+        "num": 152438,
+        "word": "白敬亭釜山桑延限时返场",
+        "onboard_time": 1756039344,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147156,
+        "num": 147156,
+        "word": "子夜归",
+        "onboard_time": 1756036042,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146703,
+        "num": 146703,
+        "word": "张真源粉发",
+        "onboard_time": 1756033644,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145032,
+        "num": 145032,
+        "word": "宠爱 我们做到了",
+        "onboard_time": 1756038683,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143552,
+        "num": 143552,
+        "word": "487说我们是冠军",
+        "onboard_time": 1756038982,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143245,
+        "num": 143245,
+        "word": "月薪3万存2万五的真实生活",
+        "onboard_time": 1756027282,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142862,
+        "num": 142862,
+        "word": "6个症状说明骨头已经变脆了",
+        "onboard_time": 1756033462,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138762,
+        "num": 138762,
+        "word": "韩庚一张嘴我的青春又回来了",
+        "onboard_time": 1756039584,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137355,
+        "num": 137355,
+        "word": "中国排面经得起逐帧回放",
+        "onboard_time": 1756038982,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134619,
+        "num": 134619,
+        "word": "杨幂爸爸说杨幂天选的绣绣",
+        "onboard_time": 1756033462,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为西藏发展指明方向#"
+    }
+  }
+}
