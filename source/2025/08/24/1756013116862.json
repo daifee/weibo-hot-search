@@ -1,0 +1,410 @@
+{
+  "runTime": 1756013116862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 553660,
+        "num": 1088585,
+        "word": "王牌对王牌9官宣",
+        "onboard_time": 1756003461,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325226,
+        "num": 325226,
+        "word": "休假护士咬掉穿戴甲300秒极限救人",
+        "onboard_time": 1755992959,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 109766,
+        "num": 264835,
+        "word": "阅兵唯一无伴奏自己踩点的方队",
+        "onboard_time": 1755994520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343050,
+        "num": 258801,
+        "word": "热依扎肋骨骨折",
+        "onboard_time": 1756007302,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207830,
+        "num": 207830,
+        "word": "信用卡 年费",
+        "onboard_time": 1756006103,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199573,
+        "num": 199573,
+        "word": "长期熬夜后快速恢复精力的5个技巧",
+        "onboard_time": 1756002981,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175083,
+        "num": 199315,
+        "word": "与晋长安",
+        "onboard_time": 1756011442,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155377,
+        "num": 198287,
+        "word": "10天后一起看阅兵",
+        "onboard_time": 1755995962,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148594,
+        "num": 196567,
+        "word": "广东大批台风预警发布",
+        "onboard_time": 1756011984,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145226,
+        "num": 196032,
+        "word": "林彦俊芭莎好友卡",
+        "onboard_time": 1756011143,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 891600,
+        "num": 195286,
+        "word": "黄多多好漂亮",
+        "onboard_time": 1756000222,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 797174,
+        "num": 193544,
+        "word": "许凯每次都选择了事业",
+        "onboard_time": 1756006043,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628872,
+        "num": 193356,
+        "word": "川航女空乘被骚扰离职",
+        "onboard_time": 1756006581,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574691,
+        "num": 191529,
+        "word": "黄杨钿甜中戏开学路透",
+        "onboard_time": 1756005983,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536707,
+        "num": 191198,
+        "word": "美团退款",
+        "onboard_time": 1755993259,
+        "rank": 14,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 404534,
+        "num": 190240,
+        "word": "清朝状元的名字毫无网红感",
+        "onboard_time": 1756006943,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 312837,
+        "num": 189037,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1756010782,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291656,
+        "num": 188043,
+        "word": "川航宋白金",
+        "onboard_time": 1756008142,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254077,
+        "num": 186156,
+        "word": "许荔莎休战半个月",
+        "onboard_time": 1755967642,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223457,
+        "num": 185314,
+        "word": "Akiyo宣布离婚",
+        "onboard_time": 1756011984,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 324721,
+        "num": 184259,
+        "word": "林娜琏 浪姐7",
+        "onboard_time": 1756000282,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209553,
+        "num": 183618,
+        "word": "何晟铭回应结婚了吗",
+        "onboard_time": 1756012702,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206899,
+        "num": 182402,
+        "word": "烂尾",
+        "onboard_time": 1755959848,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182022,
+        "num": 182022,
+        "word": "iPhone隐私屏幕模式",
+        "onboard_time": 1756010121,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180877,
+        "num": 180877,
+        "word": "用微信步数判断是否已读",
+        "onboard_time": 1756008862,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177088,
+        "num": 177088,
+        "word": "美国多地现变异动物",
+        "onboard_time": 1755997462,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181268,
+        "num": 177015,
+        "word": "何晟铭谈和于正出现分歧原因",
+        "onboard_time": 1756005144,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163618,
+        "num": 176793,
+        "word": "王玉雯说刘宇宁演唱会票老难抢了",
+        "onboard_time": 1756012642,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141539,
+        "num": 176380,
+        "word": "鲁迅长孙回应同款毛背心爆火",
+        "onboard_time": 1756012223,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121520,
+        "num": 176254,
+        "word": "月亮姐姐 我没有产后抑郁症",
+        "onboard_time": 1756007901,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175987,
+        "num": 175987,
+        "word": "新加坡马来人抗议中文优势",
+        "onboard_time": 1756011742,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165023,
+        "num": 165023,
+        "word": "新疆偶遇了李现",
+        "onboard_time": 1756008501,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145614,
+        "num": 145614,
+        "word": "大连一高校被曝全员停发工资",
+        "onboard_time": 1756001602,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132869,
+        "num": 132869,
+        "word": "虞书欣一遍一遍拍摄",
+        "onboard_time": 1755966084,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111115,
+        "num": 130361,
+        "word": "与晋长安开播",
+        "onboard_time": 1755999142,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128179,
+        "num": 128179,
+        "word": "第一个发明屁股假的是天才",
+        "onboard_time": 1756010602,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127087,
+        "num": 127087,
+        "word": "山东通报505名死亡人员被发养老保险",
+        "onboard_time": 1755993680,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109846,
+        "num": 109846,
+        "word": "绣绣在呢",
+        "onboard_time": 1756012883,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109637,
+        "num": 109637,
+        "word": "台风",
+        "onboard_time": 1756012583,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25233,
+        "num": 109384,
+        "word": "无手男子无证开路虎上路",
+        "onboard_time": 1756012223,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109198,
+        "num": 109198,
+        "word": "何炅黄多多一起下班",
+        "onboard_time": 1755997462,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108368,
+        "num": 108368,
+        "word": "韩国女生减脂100天的真实变化",
+        "onboard_time": 1756010423,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108029,
+        "num": 108029,
+        "word": "用信用卡12年才知每年被扣2600元",
+        "onboard_time": 1756000763,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106850,
+        "num": 106850,
+        "word": "DeepSeek暗示国产芯片有望大规模使用",
+        "onboard_time": 1756012883,
+        "rank": 43,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 41193,
+        "num": 106645,
+        "word": "505名死亡人员领的养老金追回了没有",
+        "onboard_time": 1756011742,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106532,
+        "num": 106532,
+        "word": "高校回应全员停发工资",
+        "onboard_time": 1756003042,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102662,
+        "num": 102662,
+        "word": "莫雷加德说林诗栋决赛会压力很大",
+        "onboard_time": 1756011202,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86196,
+        "num": 101379,
+        "word": "齐司礼生日活动",
+        "onboard_time": 1756010242,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105359,
+        "num": 101377,
+        "word": "王源新歌全明星制作阵容",
+        "onboard_time": 1756010782,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101210,
+        "num": 101210,
+        "word": "从350斤到160斤的震撼",
+        "onboard_time": 1756007723,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#雪域情深#"
+    }
+  }
+}
