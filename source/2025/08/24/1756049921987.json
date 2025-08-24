@@ -1,0 +1,410 @@
+{
+  "runTime": 1756049921987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5146841,
+        "num": 5146841,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647059,
+        "num": 647059,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1756048346,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24191,
+        "num": 594970,
+        "word": "10秒看阅兵训练高燃场面",
+        "onboard_time": 1756020682,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 572739,
+        "num": 572739,
+        "word": "邢菲终于要升咖了",
+        "onboard_time": 1756040843,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462779,
+        "num": 462779,
+        "word": "日本博主惊叹中国外卖袋",
+        "onboard_time": 1756044385,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401317,
+        "num": 401317,
+        "word": "鲁迅夹烟墙画被指误导青少年",
+        "onboard_time": 1756034364,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530287,
+        "num": 383786,
+        "word": "鹿晗演唱会倒退到升降台边差点踩空",
+        "onboard_time": 1756044385,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 428489,
+        "num": 377148,
+        "word": "永夜星河看似播完了实则还有招",
+        "onboard_time": 1756045288,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335428,
+        "num": 335428,
+        "word": "九三阅兵最后一次夜间演练画面",
+        "onboard_time": 1756035082,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63456,
+        "num": 331201,
+        "word": "海军方队平均年龄不到21岁",
+        "onboard_time": 1756048706,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 595888,
+        "num": 328486,
+        "word": "张维伊董璇婚宴饭店人均价格",
+        "onboard_time": 1756035502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475370,
+        "num": 320608,
+        "word": "妇联回应女子疑被丈夫家暴致死",
+        "onboard_time": 1756032204,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391007,
+        "num": 318819,
+        "word": "李一桐 我只能旺我自己旺不了夫",
+        "onboard_time": 1756045827,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374684,
+        "num": 311807,
+        "word": "27岁尿毒症女生跑外卖续命4年",
+        "onboard_time": 1756046667,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48513,
+        "num": 304612,
+        "word": "杭州地标为城市骑士点亮",
+        "onboard_time": 1756047686,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304463,
+        "num": 304463,
+        "word": "马薇薇和男友合照",
+        "onboard_time": 1756043186,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106586,
+        "num": 299838,
+        "word": "孟子义说缤果S好看又好用",
+        "onboard_time": 1756044926,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299398,
+        "num": 299398,
+        "word": "马嘉祺跳了刀马刀马",
+        "onboard_time": 1756044446,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240503,
+        "num": 240503,
+        "word": "四张证就这样结束了妈妈的一生",
+        "onboard_time": 1756047507,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233056,
+        "num": 233056,
+        "word": "九三阅兵天安门广场布置正式亮相",
+        "onboard_time": 1756045288,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232904,
+        "num": 232904,
+        "word": "内娱又有神级求婚现场了",
+        "onboard_time": 1756037184,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210979,
+        "num": 210979,
+        "word": "刘耀文严浩翔牵手上台",
+        "onboard_time": 1756038323,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195095,
+        "num": 195095,
+        "word": "朱正廷长相不基础演技也不基础",
+        "onboard_time": 1756048885,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190925,
+        "num": 190925,
+        "word": "2集见血亲嘴5集咬脖深吻",
+        "onboard_time": 1756031122,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186153,
+        "num": 186153,
+        "word": "白桃星座",
+        "onboard_time": 1756047625,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179454,
+        "num": 179454,
+        "word": "易烊千玺这声哦呦",
+        "onboard_time": 1756048764,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175886,
+        "num": 175886,
+        "word": "李晨说最后一次在直播间跳舞",
+        "onboard_time": 1756049544,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171616,
+        "num": 171616,
+        "word": "白鹿说自己太瘦了",
+        "onboard_time": 1756033822,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168294,
+        "num": 168294,
+        "word": "宋雨琦把TMEA奖杯抱了个满怀",
+        "onboard_time": 1756047146,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46289,
+        "num": 167352,
+        "word": "央视曝光红木市场销售乱象",
+        "onboard_time": 1756049544,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 166836,
+        "num": 166836,
+        "word": "网友晒和范丞丞小学合照",
+        "onboard_time": 1756047806,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162820,
+        "num": 162820,
+        "word": "桃晚安哭了",
+        "onboard_time": 1756036643,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150390,
+        "num": 150390,
+        "word": "反诈老陈打假嘎子哥所售699元手机",
+        "onboard_time": 1756044926,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141720,
+        "num": 141720,
+        "word": "王艳富豪丈夫已被限消",
+        "onboard_time": 1756029383,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136947,
+        "num": 136947,
+        "word": "时代少年团多远都要在一起",
+        "onboard_time": 1756046006,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133392,
+        "num": 133392,
+        "word": "儿子过世母亲精神异常每天小区骂人",
+        "onboard_time": 1756047026,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128729,
+        "num": 128729,
+        "word": "宋亚轩在布景后面倒彩带",
+        "onboard_time": 1756047806,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46562,
+        "num": 127905,
+        "word": "信访干部骂老人老不死",
+        "onboard_time": 1756049425,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 34832,
+        "num": 127850,
+        "word": "天安门广场放飞气球画面亮相",
+        "onboard_time": 1756049065,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48030,
+        "num": 127849,
+        "word": "咬掉穿戴甲救人护士被申请见义勇为",
+        "onboard_time": 1756049004,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 127849,
+        "num": 127848,
+        "word": "李昀锐吃播",
+        "onboard_time": 1756046846,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126524,
+        "num": 126524,
+        "word": "刘宇宁长靴比我腿长",
+        "onboard_time": 1756043245,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125188,
+        "num": 125188,
+        "word": "许凯也被于正做局了",
+        "onboard_time": 1756049785,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125116,
+        "num": 125116,
+        "word": "汪苏泷TMEA获奖感言",
+        "onboard_time": 1756047747,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29015,
+        "num": 121277,
+        "word": "被抄袭博主称正在和茶颜悦色协商",
+        "onboard_time": 1756048645,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120458,
+        "num": 120458,
+        "word": "白敬亭釜山电影节生图",
+        "onboard_time": 1756032802,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118093,
+        "num": 118093,
+        "word": "易烊千玺梦到粉丝吐了一堆石头",
+        "onboard_time": 1756047866,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111492,
+        "num": 111492,
+        "word": "脂肪肝是全身性疾病的报警信号",
+        "onboard_time": 1756035682,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106341,
+        "num": 106341,
+        "word": "6个症状说明骨头已经变脆了",
+        "onboard_time": 1756033462,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115602,
+        "num": 105931,
+        "word": "中国8岁男童在泰国不幸溺亡",
+        "onboard_time": 1756048046,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}
