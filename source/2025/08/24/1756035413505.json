@@ -1,0 +1,410 @@
+{
+  "runTime": 1756035413505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1044640,
+        "num": 1167142,
+        "word": "王艳富豪丈夫已被限消",
+        "onboard_time": 1756029383,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528536,
+        "num": 528536,
+        "word": "阳光玫瑰 沦为路边摊水果",
+        "onboard_time": 1756025602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10576,
+        "num": 511034,
+        "word": "中国空间站有个现实版炼丹炉",
+        "onboard_time": 1756015223,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1236237,
+        "num": 507109,
+        "word": "河北一女子去世疑与丈夫家暴有关",
+        "onboard_time": 1756029743,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 859067,
+        "num": 505125,
+        "word": "2集见血亲嘴5集咬脖深吻",
+        "onboard_time": 1756031122,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499803,
+        "num": 499803,
+        "word": "上海66套豪宅1小时售罄",
+        "onboard_time": 1756031362,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573853,
+        "num": 471790,
+        "word": "白敬亭釜山电影节生图",
+        "onboard_time": 1756032802,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434744,
+        "num": 434744,
+        "word": "妇联回应女子疑被丈夫家暴致死",
+        "onboard_time": 1756032204,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422078,
+        "num": 422078,
+        "word": "迪丽热巴金色吊带闪片长裙",
+        "onboard_time": 1756029502,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337693,
+        "num": 337693,
+        "word": "多方回应女子去世疑与丈夫家暴有关",
+        "onboard_time": 1756031003,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530519,
+        "num": 336523,
+        "word": "井胧不希望井迪结婚",
+        "onboard_time": 1756028903,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503281,
+        "num": 333958,
+        "word": "丁程鑫粉发",
+        "onboard_time": 1756032742,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347200,
+        "num": 327418,
+        "word": "月薪3万存2万五的真实生活",
+        "onboard_time": 1756027282,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320694,
+        "num": 320694,
+        "word": "生万物被指农村玛丽苏",
+        "onboard_time": 1756026922,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62040,
+        "num": 310510,
+        "word": "九三阅兵最后一次夜间演练画面",
+        "onboard_time": 1756035082,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 309661,
+        "num": 309661,
+        "word": "严浩翔橙发",
+        "onboard_time": 1756035082,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292119,
+        "num": 292119,
+        "word": "许凯每次都选择了事业",
+        "onboard_time": 1756006043,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264007,
+        "num": 264007,
+        "word": "白鹿说自己太瘦了",
+        "onboard_time": 1756033822,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48071,
+        "num": 260968,
+        "word": "脂包骨身材的7个特点",
+        "onboard_time": 1756034304,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 84447,
+        "num": 260499,
+        "word": "九三阅兵全流程全要素预演",
+        "onboard_time": 1756035082,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294660,
+        "num": 260496,
+        "word": "热依扎公开临床诊断结果",
+        "onboard_time": 1756017322,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260353,
+        "num": 260353,
+        "word": "Melody说在追杨幂的生万物",
+        "onboard_time": 1756025003,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259731,
+        "num": 259731,
+        "word": "北京WBG对战Wolves",
+        "onboard_time": 1756028782,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250500,
+        "num": 250500,
+        "word": "张真源粉发",
+        "onboard_time": 1756033644,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244977,
+        "num": 244977,
+        "word": "周也三杀",
+        "onboard_time": 1756033644,
+        "rank": 24,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 237845,
+        "num": 237845,
+        "word": "CPA战略",
+        "onboard_time": 1756034544,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236143,
+        "num": 236143,
+        "word": "黄多多好漂亮",
+        "onboard_time": 1756000222,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202577,
+        "num": 202577,
+        "word": "国漫史上第一部大女主",
+        "onboard_time": 1756028842,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 234928,
+        "num": 202440,
+        "word": "崔鹏说曾经暗恋董璇4年",
+        "onboard_time": 1756023442,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195723,
+        "num": 195723,
+        "word": "TMEA节目单",
+        "onboard_time": 1756034722,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190804,
+        "num": 190804,
+        "word": "百度网盘更新惹争议",
+        "onboard_time": 1756034423,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186096,
+        "num": 186096,
+        "word": "杨幂爸爸说杨幂天选的绣绣",
+        "onboard_time": 1756033462,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180164,
+        "num": 180164,
+        "word": "韩国一家四口180平的家",
+        "onboard_time": 1756033462,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175708,
+        "num": 175708,
+        "word": "曺圭贤摔了",
+        "onboard_time": 1756033102,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175319,
+        "num": 175319,
+        "word": "多人在酒店公寓卖淫嫖娼被当场抓获",
+        "onboard_time": 1756024403,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173889,
+        "num": 173889,
+        "word": "将门毒后",
+        "onboard_time": 1756018582,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167929,
+        "num": 167929,
+        "word": "中国中铁回应尖扎黄河特大桥事故",
+        "onboard_time": 1756026981,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159764,
+        "num": 159764,
+        "word": "袁娅维说怀胎两年快生了",
+        "onboard_time": 1756035262,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156818,
+        "num": 156818,
+        "word": "6个症状说明骨头已经变脆了",
+        "onboard_time": 1756033462,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74307,
+        "num": 156812,
+        "word": "一所高校为什么能欠下35亿",
+        "onboard_time": 1756034903,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156805,
+        "num": 156805,
+        "word": "仙逆",
+        "onboard_time": 1756034784,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155443,
+        "num": 155443,
+        "word": "何晟铭坦言是来蹭流量的",
+        "onboard_time": 1756017741,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153204,
+        "num": 153204,
+        "word": "杨幂爆剧玄学",
+        "onboard_time": 1756023142,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152398,
+        "num": 152398,
+        "word": "刘轩丞穿了鹿晗同款衣服",
+        "onboard_time": 1756034964,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148928,
+        "num": 148928,
+        "word": "鲁迅夹烟墙画被指误导青少年",
+        "onboard_time": 1756034364,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29503,
+        "num": 147901,
+        "word": "这短短40秒看得心酸",
+        "onboard_time": 1756016781,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 147591,
+        "num": 147591,
+        "word": "TMEA",
+        "onboard_time": 1756020322,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143521,
+        "num": 143521,
+        "word": "50人寝室",
+        "onboard_time": 1756022723,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135253,
+        "num": 135253,
+        "word": "王源你们怎么又背着我合作",
+        "onboard_time": 1756031603,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130847,
+        "num": 130847,
+        "word": "黄多多高清剧照",
+        "onboard_time": 1756032622,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为西藏发展指明方向#"
+    }
+  }
+}
