@@ -1,0 +1,410 @@
+{
+  "runTime": 1756045346078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1055697,
+        "num": 1168911,
+        "word": "邢菲终于要升咖了",
+        "onboard_time": 1756040843,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452894,
+        "num": 452894,
+        "word": "九三阅兵最后一次夜间演练画面",
+        "onboard_time": 1756035082,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5818,
+        "num": 421943,
+        "word": "航天员出舱第一视角绝了",
+        "onboard_time": 1756004902,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 469040,
+        "num": 414819,
+        "word": "鹿晗演唱会倒退到升降台边差点踩空",
+        "onboard_time": 1756044385,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 400442,
+        "num": 400442,
+        "word": "鲁迅夹烟墙画被指误导青少年",
+        "onboard_time": 1756034364,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324400,
+        "num": 378497,
+        "word": "去世女子社交账号都是孩子",
+        "onboard_time": 1756038863,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460821,
+        "num": 375878,
+        "word": "内娱又有神级求婚现场了",
+        "onboard_time": 1756037184,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367483,
+        "num": 367483,
+        "word": "时代少年团随舞",
+        "onboard_time": 1756043666,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 340357,
+        "num": 340357,
+        "word": "马嘉祺跳了刀马刀马",
+        "onboard_time": 1756044446,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293908,
+        "num": 339556,
+        "word": "泽连斯基宣布扩大战争",
+        "onboard_time": 1756037483,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8847407,
+        "num": 8847407,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839876,
+        "num": 338045,
+        "word": "张维伊董璇婚宴饭店人均价格",
+        "onboard_time": 1756035502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567970,
+        "num": 336297,
+        "word": "妇联回应女子疑被丈夫家暴致死",
+        "onboard_time": 1756032204,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450509,
+        "num": 336058,
+        "word": "刘耀文严浩翔牵手上台",
+        "onboard_time": 1756038323,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108699,
+        "num": 334544,
+        "word": "高燃踩点看阅兵演练",
+        "onboard_time": 1756044385,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 334125,
+        "num": 334125,
+        "word": "白鹿说自己太瘦了",
+        "onboard_time": 1756033822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333490,
+        "num": 333490,
+        "word": "马薇薇和男友合照",
+        "onboard_time": 1756043186,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232453,
+        "num": 306150,
+        "word": "日本博主惊叹中国外卖袋",
+        "onboard_time": 1756044385,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82542,
+        "num": 301724,
+        "word": "孟子义说缤果S好看又好用",
+        "onboard_time": 1756044926,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300856,
+        "num": 300856,
+        "word": "2集见血亲嘴5集咬脖深吻",
+        "onboard_time": 1756031122,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245970,
+        "num": 245970,
+        "word": "桃晚安哭了",
+        "onboard_time": 1756036643,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233648,
+        "num": 233648,
+        "word": "王艳富豪丈夫已被限消",
+        "onboard_time": 1756029383,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225581,
+        "num": 225581,
+        "word": "易烊千玺粉发唱粉雾海简直是绝杀",
+        "onboard_time": 1756043487,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209662,
+        "num": 209662,
+        "word": "脂肪肝是全身性疾病的报警信号",
+        "onboard_time": 1756035682,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209457,
+        "num": 209457,
+        "word": "三孩宝妈补贴叠加下20万买110平房子",
+        "onboard_time": 1756040484,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205359,
+        "num": 205359,
+        "word": "无锡地铁一景区宣传图被指画面不雅",
+        "onboard_time": 1756040305,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200218,
+        "num": 200218,
+        "word": "刘耀文眉毛图案",
+        "onboard_time": 1756044986,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186776,
+        "num": 186776,
+        "word": "白敬亭釜山电影节生图",
+        "onboard_time": 1756032802,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185479,
+        "num": 185479,
+        "word": "WBG蝉联夏季赛周冠军",
+        "onboard_time": 1756044986,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184617,
+        "num": 184617,
+        "word": "天安门广场9月4日适时恢复开放",
+        "onboard_time": 1756041024,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208852,
+        "num": 184163,
+        "word": "檀健次梦境显影",
+        "onboard_time": 1756044806,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185234,
+        "num": 183554,
+        "word": "孙颖莎的2008年",
+        "onboard_time": 1756044446,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181658,
+        "num": 181658,
+        "word": "张真源无袖完全daddy级别",
+        "onboard_time": 1756044866,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179359,
+        "num": 179359,
+        "word": "薛凯琪把额头露出来大大方方的",
+        "onboard_time": 1756037483,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167202,
+        "num": 167202,
+        "word": "刘宇宁长靴比我腿长",
+        "onboard_time": 1756043245,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165459,
+        "num": 165459,
+        "word": "印度女子因嫁妆遭夫家毒打活活烧死",
+        "onboard_time": 1756040005,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145627,
+        "num": 162578,
+        "word": "反诈老陈打假嘎子哥所售699元手机",
+        "onboard_time": 1756044926,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161761,
+        "num": 161761,
+        "word": "九三阅兵全流程全要素预演",
+        "onboard_time": 1756035082,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161623,
+        "num": 161623,
+        "word": "TMEA节目单",
+        "onboard_time": 1756034722,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157285,
+        "num": 157285,
+        "word": "杨幂爆剧玄学",
+        "onboard_time": 1756023142,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156145,
+        "num": 156145,
+        "word": "她的同学根本没意识到她有多强",
+        "onboard_time": 1756041205,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142307,
+        "num": 142307,
+        "word": "龚俊眼睛开水龙头了",
+        "onboard_time": 1756041144,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139071,
+        "num": 139071,
+        "word": "白鹿获奖感谢粉丝",
+        "onboard_time": 1756042707,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136744,
+        "num": 136744,
+        "word": "永夜星河看似播完了实则还有招",
+        "onboard_time": 1756045288,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132027,
+        "num": 132027,
+        "word": "生万物被指农村玛丽苏",
+        "onboard_time": 1756026922,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131765,
+        "num": 131765,
+        "word": "贺峻霖火力全开",
+        "onboard_time": 1756043067,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130698,
+        "num": 130698,
+        "word": "刘宇宁电梯里被拍了",
+        "onboard_time": 1756040125,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129990,
+        "num": 129990,
+        "word": "BLG获队史联赛首冠",
+        "onboard_time": 1756044507,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125531,
+        "num": 125531,
+        "word": "九三阅兵天安门广场布置正式亮相",
+        "onboard_time": 1756045288,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113075,
+        "num": 113075,
+        "word": "6个症状说明骨头已经变脆了",
+        "onboard_time": 1756033462,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}

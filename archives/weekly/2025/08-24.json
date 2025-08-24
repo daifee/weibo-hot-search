@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756042950337,
+  "endTime": 1756045346078,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -411,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 567970,
+      "num": 434744,
+      "word": "妇联回应女子疑被丈夫家暴致死",
+      "onboard_time": 1756032204,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565793,
       "num": 565793,
       "word": "女子疑家暴去世其婆婆也被警方带走",
@@ -499,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 501356,
-      "num": 434744,
-      "word": "妇联回应女子疑被丈夫家暴致死",
-      "onboard_time": 1756032204,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 500294,
       "num": 438146,
       "word": "月薪3万存2万五的真实生活",
@@ -561,6 +561,14 @@
       "onboard_time": 1756022723,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 469040,
+      "num": 414819,
+      "word": "鹿晗演唱会倒退到升降台边差点踩空",
+      "onboard_time": 1756044385,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 463649,
@@ -699,6 +707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 367483,
+      "num": 367483,
+      "word": "时代少年团随舞",
+      "onboard_time": 1756043666,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 367024,
       "num": 367024,
       "word": "王一博分享攀岩照",
@@ -747,12 +763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340357,
+      "num": 340357,
+      "word": "马嘉祺跳了刀马刀马",
+      "onboard_time": 1756044446,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 335305,
       "num": 335305,
       "word": "接连2名儿童感染食脑虫去世",
       "onboard_time": 1755950124,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333490,
+      "num": 333490,
+      "word": "马薇薇和男友合照",
+      "onboard_time": 1756043186,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 332984,
@@ -785,6 +817,14 @@
       "onboard_time": 1756001423,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324400,
+      "num": 378497,
+      "word": "去世女子社交账号都是孩子",
+      "onboard_time": 1756038863,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309661,
@@ -833,14 +873,6 @@
       "onboard_time": 1756010121,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 282722,
-      "num": 282722,
-      "word": "去世女子社交账号都是孩子",
-      "onboard_time": 1756038863,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 280849,
@@ -963,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232453,
+      "num": 306150,
+      "word": "日本博主惊叹中国外卖袋",
+      "onboard_time": 1756044385,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231168,
       "num": 231168,
       "word": "TMEA",
@@ -985,6 +1025,14 @@
       "onboard_time": 1756021342,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225581,
+      "num": 225581,
+      "word": "易烊千玺粉发唱粉雾海简直是绝杀",
+      "onboard_time": 1756043487,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 223457,
@@ -1075,12 +1123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209457,
+      "num": 209457,
+      "word": "三孩宝妈补贴叠加下20万买110平房子",
+      "onboard_time": 1756040484,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209324,
       "num": 176923,
       "word": "一个月减10斤有多恐怖",
       "onboard_time": 1756025721,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208852,
+      "num": 184163,
+      "word": "檀健次梦境显影",
+      "onboard_time": 1756044806,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207295,
@@ -1091,20 +1155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205359,
+      "num": 296905,
+      "word": "无锡地铁一景区宣传图被指画面不雅",
+      "onboard_time": 1756040305,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204147,
       "num": 184996,
       "word": "齐司礼生日活动",
       "onboard_time": 1756010242,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 202558,
-      "num": 202558,
-      "word": "三孩宝妈补贴叠加下20万买110平房子",
-      "onboard_time": 1756040484,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200966,
@@ -1128,6 +1192,14 @@
       "word": "刘宇宁在星辰里唱歌",
       "onboard_time": 1756039104,
       "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 200218,
+      "num": 200218,
+      "word": "刘耀文眉毛图案",
+      "onboard_time": 1756044986,
+      "rank": 26,
       "category": "演出"
     },
     {
@@ -1315,12 +1387,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185479,
+      "num": 185479,
+      "word": "WBG蝉联夏季赛周冠军",
+      "onboard_time": 1756044986,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 185234,
+      "num": 183554,
+      "word": "孙颖莎的2008年",
+      "onboard_time": 1756044446,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185117,
       "num": 185117,
       "word": "男子被朋友送的金毛吓到报警",
       "onboard_time": 1755993740,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184617,
+      "num": 346945,
+      "word": "天安门广场9月4日适时恢复开放",
+      "onboard_time": 1756041024,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 183529,
@@ -1369,6 +1465,14 @@
       "onboard_time": 1756008862,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181658,
+      "num": 181658,
+      "word": "张真源无袖完全daddy级别",
+      "onboard_time": 1756044866,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 181439,
@@ -1483,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174623,
-      "num": 346945,
-      "word": "天安门广场9月4日适时恢复开放",
-      "onboard_time": 1756041024,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 174072,
       "num": 174072,
       "word": "6岁娃沙滩光脚踩到死鱼进了ICU",
@@ -1569,6 +1665,14 @@
       "onboard_time": 1756041205,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167202,
+      "num": 167202,
+      "word": "刘宇宁长靴比我腿长",
+      "onboard_time": 1756043245,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 166753,
@@ -1843,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145627,
+      "num": 162578,
+      "word": "反诈老陈打假嘎子哥所售699元手机",
+      "onboard_time": 1756044926,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145482,
       "num": 145482,
       "word": "原相机下的迅猛龙",
@@ -1905,14 +2017,6 @@
       "onboard_time": 1756020923,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142767,
-      "num": 296905,
-      "word": "无锡地铁一景区宣传图被指画面不雅",
-      "onboard_time": 1756040305,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142558,
@@ -2043,6 +2147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136744,
+      "num": 136744,
+      "word": "永夜星河看似播完了实则还有招",
+      "onboard_time": 1756045288,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136666,
       "num": 195185,
       "word": "这短短40秒看得心酸",
@@ -2107,6 +2219,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 131765,
+      "num": 131765,
+      "word": "贺峻霖火力全开",
+      "onboard_time": 1756043067,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131204,
       "num": 131204,
       "word": "王源新歌全明星制作阵容",
@@ -2137,6 +2257,14 @@
       "onboard_time": 1756041144,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129990,
+      "num": 129990,
+      "word": "BLG获队史联赛首冠",
+      "onboard_time": 1756044507,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 129722,
@@ -2201,6 +2329,14 @@
       "onboard_time": 1756014621,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125531,
+      "num": 125531,
+      "word": "九三阅兵天安门广场布置正式亮相",
+      "onboard_time": 1756045288,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125289,
@@ -2641,6 +2777,14 @@
       "onboard_time": 1755990378,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108699,
+      "num": 334544,
+      "word": "高燃踩点看阅兵演练",
+      "onboard_time": 1756044385,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108491,
@@ -3121,6 +3265,14 @@
       "onboard_time": 1755944302,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82542,
+      "num": 301724,
+      "word": "孟子义说缤果S好看又好用",
+      "onboard_time": 1756044926,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 82357,
@@ -3737,6 +3889,14 @@
       "onboard_time": 1755979575,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 5818,
+      "num": 421943,
+      "word": "航天员出舱第一视角绝了",
+      "onboard_time": 1756004902,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
