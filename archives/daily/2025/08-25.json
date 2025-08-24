@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756056091691,
+  "endTime": 1756057165229,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 936576,
+      "num": 528664,
+      "word": "赵志伟回复网友评论",
+      "onboard_time": 1756053141,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 796831,
       "num": 796831,
       "word": "aespa",
@@ -35,12 +43,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 748594,
-      "num": 528664,
-      "word": "赵志伟回复网友评论",
-      "onboard_time": 1756053141,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 675946,
+      "num": 675946,
+      "word": "女子戴牙套5年坏了8颗牙",
+      "onboard_time": 1756054819,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 595880,
@@ -59,12 +67,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 521570,
-      "num": 521570,
-      "word": "女子戴牙套5年坏了8颗牙",
-      "onboard_time": 1756054819,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 450609,
+      "num": 233445,
+      "word": "女子疑家暴去世其丈夫婆婆被刑拘",
+      "onboard_time": 1756051942,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 441237,
@@ -97,14 +105,6 @@
       "onboard_time": 1756053621,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 396935,
-      "num": 233445,
-      "word": "女子疑家暴去世其丈夫婆婆被刑拘",
-      "onboard_time": 1756051942,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 364582,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195692,
+      "num": 104127,
+      "word": "每天只睡6个小时身体的变化",
+      "onboard_time": 1756052903,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 195160,
       "num": 195160,
       "word": "孙颖莎女单冠军自拍",
@@ -203,12 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192568,
-      "num": 104127,
-      "word": "每天只睡6个小时身体的变化",
-      "onboard_time": 1756052903,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 194183,
+      "num": 175532,
+      "word": "女子系钝性外力作用致颅脑损伤死亡",
+      "onboard_time": 1756052183,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192335,
@@ -217,14 +225,6 @@
       "onboard_time": 1756043186,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175532,
-      "num": 175532,
-      "word": "女子系钝性外力作用致颅脑损伤死亡",
-      "onboard_time": 1756052183,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169323,
@@ -257,6 +257,14 @@
       "onboard_time": 1756049785,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135338,
+      "num": 135338,
+      "word": "疑遭家暴离世女子未怀孕",
+      "onboard_time": 1756052662,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 134361,
@@ -363,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104542,
+      "num": 104542,
+      "word": "王曼昱12比10孙颖莎",
+      "onboard_time": 1756053859,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104454,
       "num": 104454,
       "word": "孙颖莎瑞典夺冠",
@@ -376,14 +392,6 @@
       "word": "孙颖莎的2008年",
       "onboard_time": 1756044446,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 103631,
-      "num": 103631,
-      "word": "王曼昱12比10孙颖莎",
-      "onboard_time": 1756053859,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -451,6 +459,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79882,
+      "num": 79882,
+      "word": "王曼昱11比5孙颖莎",
+      "onboard_time": 1756056798,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79340,
+      "num": 79340,
+      "word": "孙颖莎说很开心和曼昱再次配合夺冠",
+      "onboard_time": 1756056378,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68905,
+      "num": 79522,
+      "word": "蔡依林初代唱跳女王回归",
+      "onboard_time": 1756056139,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 67254,
       "num": 67254,
       "word": "大凉山里那些花儿歌声的力量",
@@ -459,8 +491,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55444,
-      "num": 55444,
+      "raw_hot": 56987,
+      "num": 56987,
       "word": "WTT欧洲大满贯瑞典站冠军奖杯亮相",
       "onboard_time": 1756053921,
       "rank": 44,
@@ -473,6 +505,14 @@
       "onboard_time": 1756053921,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44493,
+      "num": 104625,
+      "word": "清华食堂回应餐具被挂二手平台",
+      "onboard_time": 1756055777,
+      "rank": 20,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 42251,
@@ -489,14 +529,6 @@
       "onboard_time": 1756044385,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27410,
-      "num": 104625,
-      "word": "清华食堂回应餐具被挂二手平台",
-      "onboard_time": 1756055777,
-      "rank": 20,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 19062,
