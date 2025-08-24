@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756002586158,
+  "endTime": 1756006617560,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -19,8 +19,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1515695,
-      "num": 322974,
+      "raw_hot": 1739852,
+      "num": 363200,
       "word": "黄多多好漂亮",
       "onboard_time": 1756000222,
       "rank": 15,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1242199,
-      "num": 358644,
+      "num": 362562,
       "word": "许荔莎休战半个月",
       "onboard_time": 1755967642,
       "rank": 11,
@@ -67,12 +67,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 995550,
-      "num": 1159288,
+      "raw_hot": 1052812,
+      "num": 1168449,
       "word": "休假护士咬掉穿戴甲300秒极限救人",
       "onboard_time": 1755992959,
       "rank": 0,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1048120,
+      "num": 1048120,
+      "word": "王牌对王牌9官宣",
+      "onboard_time": 1756003461,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 949110,
+      "num": 363062,
+      "word": "美团退款",
+      "onboard_time": 1755993259,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 928205,
@@ -131,6 +147,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587145,
+      "num": 413688,
+      "word": "林娜琏 浪姐7",
+      "onboard_time": 1756000282,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 586907,
+      "num": 362873,
+      "word": "何晟铭谈和于正出现分歧原因",
+      "onboard_time": 1756005144,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582173,
       "num": 408203,
       "word": "田栩宁直播",
@@ -147,11 +179,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 520725,
+      "num": 362647,
+      "word": "存款100万靠利息生活的视频别太当真",
+      "onboard_time": 1756000522,
+      "rank": 32,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 514830,
       "num": 514830,
       "word": "山东通报505名死亡人员被发养老保险",
       "onboard_time": 1755993680,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512407,
+      "num": 413081,
+      "word": "大连一高校被曝全员停发工资",
+      "onboard_time": 1756001602,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -171,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 474947,
-      "num": 297269,
-      "word": "美团退款",
-      "onboard_time": 1755993259,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 447911,
       "num": 288786,
       "word": "易烊千玺被粉丝的尖叫声吓到了",
@@ -195,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414454,
+      "num": 414454,
+      "word": "高校回应全员停发工资",
+      "onboard_time": 1756003042,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 413902,
       "num": 413902,
       "word": "林诗栋",
       "onboard_time": 1755970159,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 412473,
+      "num": 412473,
+      "word": "炽夏官宣",
+      "onboard_time": 1756004481,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 412060,
@@ -243,12 +299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353276,
-      "num": 295951,
-      "word": "存款100万靠利息生活的视频别太当真",
-      "onboard_time": 1756000522,
-      "rank": 32,
-      "category": "民生新闻,财经"
+      "raw_hot": 363396,
+      "num": 363396,
+      "word": "用信用卡12年才知每年被扣2600元",
+      "onboard_time": 1756000763,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362463,
+      "num": 362463,
+      "word": "许凯每次都选择了事业",
+      "onboard_time": 1756006043,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 335305,
@@ -275,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325075,
+      "num": 302097,
+      "word": "陈飞宇精心卡点1314撞了何晟铭",
+      "onboard_time": 1756001423,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304255,
       "num": 304255,
       "word": "龙丹妮白敬亭抵达韩国",
@@ -299,28 +371,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292626,
+      "num": 292626,
+      "word": "黄杨钿甜中戏开学路透",
+      "onboard_time": 1756005983,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280849,
       "num": 280849,
       "word": "赖清德大罢免0比32惨败",
       "onboard_time": 1755963266,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 276850,
-      "num": 276850,
-      "word": "林娜琏 浪姐7",
-      "onboard_time": 1756000282,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 276833,
-      "num": 299721,
-      "word": "用信用卡12年才知每年被扣2600元",
-      "onboard_time": 1756000763,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262105,
@@ -339,20 +403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 251331,
-      "num": 232803,
-      "word": "陈飞宇精心卡点1314撞了何晟铭",
-      "onboard_time": 1756001423,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246394,
       "num": 371202,
       "word": "女子心脏骤停晕倒医护人员飞奔救人",
       "onboard_time": 1756000462,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244301,
+      "num": 244301,
+      "word": "长期熬夜后快速恢复精力的5个技巧",
+      "onboard_time": 1756002981,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239892,
@@ -387,19 +451,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222511,
+      "num": 189409,
+      "word": "CPA审计",
+      "onboard_time": 1756005261,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 220535,
       "num": 220535,
       "word": "男子杀害欲离婚妻子被判死缓",
       "onboard_time": 1755961408,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215088,
-      "num": 215088,
-      "word": "大连一高校被曝全员停发工资",
-      "onboard_time": 1756001602,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -433,6 +497,22 @@
       "onboard_time": 1755996922,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191591,
+      "num": 191591,
+      "word": "刘轩丞杂志",
+      "onboard_time": 1756006221,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189584,
+      "num": 189584,
+      "word": "关晓彤回应去汪苏泷演唱会",
+      "onboard_time": 1756002803,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 188869,
@@ -483,12 +563,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175693,
+      "num": 189426,
+      "word": "范丞丞死脚快走啊",
+      "onboard_time": 1756005923,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170390,
       "num": 170390,
       "word": "怪不得领导这么喜欢上班",
       "onboard_time": 1755999742,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164499,
+      "num": 164499,
+      "word": "美团客服回应订单退款未到账",
+      "onboard_time": 1756003283,
+      "rank": 34,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 161982,
+      "num": 161982,
+      "word": "张晚意 土象天菜",
+      "onboard_time": 1756003943,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 161858,
@@ -529,6 +633,14 @@
       "onboard_time": 1756002082,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148348,
+      "num": 148348,
+      "word": "王曼昱担心马琳拉伤胳膊",
+      "onboard_time": 1756006401,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 147422,
@@ -595,12 +707,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133125,
+      "num": 148689,
+      "word": "信用卡 年费",
+      "onboard_time": 1756006103,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128007,
       "num": 128007,
       "word": "林诗栋回应1比3落后惊天逆转",
       "onboard_time": 1755997341,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127252,
+      "num": 127252,
+      "word": "川航女空乘被骚扰离职",
+      "onboard_time": 1756006581,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122016,
+      "num": 122016,
+      "word": "至今无人能待满1小时的神奇房间",
+      "onboard_time": 1756002143,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 120518,
@@ -641,6 +777,14 @@
       "onboard_time": 1755991638,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115978,
+      "num": 115978,
+      "word": "为什么建议晚上6点之后运动",
+      "onboard_time": 1756005144,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 115924,
@@ -739,20 +883,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103488,
-      "num": 107806,
-      "word": "至今无人能待满1小时的神奇房间",
-      "onboard_time": 1756002143,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103159,
       "num": 132359,
       "word": "最低工资迎来普调",
       "onboard_time": 1755962847,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102242,
+      "num": 363307,
+      "word": "新疆地震",
+      "onboard_time": 1755992479,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 100759,
@@ -793,6 +937,14 @@
       "onboard_time": 1755996862,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98443,
+      "num": 115665,
+      "word": "开封万岁山 中式迪士尼",
+      "onboard_time": 1756005321,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 98327,
@@ -851,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91083,
+      "num": 121252,
+      "word": "国台办回应台湾大罢免结果",
+      "onboard_time": 1756001602,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89532,
       "num": 92683,
       "word": "孙颖莎vs陈熠",
@@ -873,6 +1033,14 @@
       "onboard_time": 1755957326,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84890,
+      "num": 149274,
+      "word": "神秘大猫带迷路游客下山",
+      "onboard_time": 1756006523,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82622,
@@ -963,6 +1131,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 55535,
+      "num": 189409,
+      "word": "多国暂停向美国邮寄包裹",
+      "onboard_time": 1756006282,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52140,
       "num": 52140,
       "word": "林诗栋回应逆转进决赛",
@@ -1033,6 +1209,14 @@
       "onboard_time": 1755991938,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 38397,
+      "num": 212284,
+      "word": "周深同款糖果花车营业中",
+      "onboard_time": 1756006463,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 37231,
