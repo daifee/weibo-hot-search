@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1755992289425,
+  "endTime": 1756001193150,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -11,8 +11,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1846815,
+      "num": 400885,
+      "word": "迪丽热巴张凌赫 将门毒后",
+      "onboard_time": 1755996561,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1285595,
-      "num": 272846,
+      "num": 356580,
       "word": "虞书欣一遍一遍拍摄",
       "onboard_time": 1755966084,
       "rank": 22,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1242199,
-      "num": 216948,
+      "num": 358644,
       "word": "许荔莎休战半个月",
       "onboard_time": 1755967642,
       "rank": 11,
@@ -43,6 +51,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1217102,
+      "num": 366039,
+      "word": "何炅黄多多一起下班",
+      "onboard_time": 1755997462,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 928205,
       "num": 321278,
       "word": "疑似许凯赵晴悄悄同居",
@@ -51,8 +67,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 912013,
+      "num": 1145922,
+      "word": "休假护士咬掉穿戴甲300秒极限救人",
+      "onboard_time": 1755992959,
+      "rank": 0,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 852297,
-      "num": 210856,
+      "num": 316461,
       "word": "何晟铭透露离开电视圈原因",
       "onboard_time": 1755968002,
       "rank": 12,
@@ -73,6 +97,14 @@
       "onboard_time": 1755953426,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655298,
+      "num": 655298,
+      "word": "央视曝光沙金首饰销售乱象",
+      "onboard_time": 1755995601,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 653364,
@@ -99,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534620,
+      "num": 245605,
+      "word": "美国多地现变异动物",
+      "onboard_time": 1755997462,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 508867,
       "num": 508867,
       "word": "AG",
@@ -111,6 +151,14 @@
       "num": 788173,
       "word": "王艳两场直播销售额超3000万",
       "onboard_time": 1755970998,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 469571,
+      "num": 322974,
+      "word": "黄多多好漂亮",
+      "onboard_time": 1756000222,
       "rank": 15,
       "category": "艺人"
     },
@@ -140,11 +188,43 @@
     },
     {
       "raw_hot": 412060,
-      "num": 214661,
+      "num": 388177,
       "word": "杨宗纬报平安",
       "onboard_time": 1755991037,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408603,
+      "num": 408603,
+      "word": "山东通报505名死亡人员被发养老保险",
+      "onboard_time": 1755993680,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399851,
+      "num": 185515,
+      "word": "美团退款",
+      "onboard_time": 1755993259,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 377155,
+      "num": 377155,
+      "word": "苏醒 花田错",
+      "onboard_time": 1755997761,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 374274,
+      "num": 374274,
+      "word": "阅兵唯一无伴奏自己踩点的方队",
+      "onboard_time": 1755994520,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 366809,
@@ -171,11 +251,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332984,
+      "num": 332984,
+      "word": "体面分手的弊端",
+      "onboard_time": 1755994041,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326399,
       "num": 326399,
       "word": "猪头离体50分钟后被复活",
       "onboard_time": 1755964823,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304255,
+      "num": 304255,
+      "word": "龙丹妮白敬亭抵达韩国",
+      "onboard_time": 1755994942,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 299297,
+      "num": 299297,
+      "word": "12306回应乘客自发擦拭车窗",
+      "onboard_time": 1755993800,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -203,12 +307,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 233691,
+      "num": 233691,
+      "word": "美国纽约军团病疫情已致6死",
+      "onboard_time": 1755997162,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 232679,
       "num": 232679,
       "word": "孙颖莎王曼昱3比2张本美和大藤沙月",
       "onboard_time": 1755990918,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231528,
+      "num": 231528,
+      "word": "10天后一起看阅兵",
+      "onboard_time": 1755995962,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 230771,
@@ -228,10 +348,26 @@
     },
     {
       "raw_hot": 213856,
-      "num": 117656,
+      "num": 205300,
       "word": "太子站起来了",
       "onboard_time": 1755970399,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209482,
+      "num": 209482,
+      "word": "与晋长安开播",
+      "onboard_time": 1755999142,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207086,
+      "num": 207086,
+      "word": "林娜琏 浪姐7",
+      "onboard_time": 1756000282,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -251,6 +387,30 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 188347,
+      "num": 188347,
+      "word": "新能源车遇事故先盖布",
+      "onboard_time": 1755995361,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185117,
+      "num": 185117,
+      "word": "男子被朋友送的金毛吓到报警",
+      "onboard_time": 1755993740,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184323,
+      "num": 184323,
+      "word": "存款100万靠利息生活的视频别太当真",
+      "onboard_time": 1756000522,
+      "rank": 32,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 182596,
       "num": 182596,
       "word": "许荔莎改简介",
@@ -267,11 +427,35 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178552,
+      "num": 185592,
+      "word": "Haruta 不说中文",
+      "onboard_time": 1756000581,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177732,
       "num": 177732,
       "word": "白鹿直播",
       "onboard_time": 1755955226,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170390,
+      "num": 170390,
+      "word": "怪不得领导这么喜欢上班",
+      "onboard_time": 1755999742,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161858,
+      "num": 161858,
+      "word": "许荔莎回应曾说要谈5个男友言论",
+      "onboard_time": 1755985216,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -289,6 +473,22 @@
       "onboard_time": 1755951385,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154150,
+      "num": 154150,
+      "word": "肖战睡衣少白",
+      "onboard_time": 1755997043,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152654,
+      "num": 152654,
+      "word": "生万物结局 震撼",
+      "onboard_time": 1755996922,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 147422,
@@ -315,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140480,
+      "num": 140480,
+      "word": "何晟铭 于老师点点滴滴都记在心里",
+      "onboard_time": 1755999922,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139112,
       "num": 139112,
       "word": "妻子做饭1年丈夫瘦32斤",
@@ -328,6 +536,14 @@
       "word": "汪顺又又又现身成都啦",
       "onboard_time": 1755963746,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128007,
+      "num": 128007,
+      "word": "林诗栋回应1比3落后惊天逆转",
+      "onboard_time": 1755997341,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -345,6 +561,38 @@
       "onboard_time": 1755965784,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119405,
+      "num": 119405,
+      "word": "用信用卡12年才知每年被扣2600元",
+      "onboard_time": 1756000763,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118060,
+      "num": 118060,
+      "word": "电动车主人回来一看天都塌了",
+      "onboard_time": 1755999263,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117269,
+      "num": 117269,
+      "word": "大妈机上换座被拒后闹事",
+      "onboard_time": 1755999381,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115924,
+      "num": 115924,
+      "word": "林诗栋莫雷加德争冠",
+      "onboard_time": 1755998243,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 109863,
@@ -379,6 +627,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107025,
+      "num": 107025,
+      "word": "俄乌领土交换将以非正式方式进行",
+      "onboard_time": 1755993800,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 106664,
+      "num": 106664,
+      "word": "避雷易烊千玺同款吃的都沉默了",
+      "onboard_time": 1755991638,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 106272,
+      "num": 106272,
+      "word": "晴格格王艳回应直播带货被骂",
+      "onboard_time": 1755993198,
+      "rank": 46,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 105864,
       "num": 105864,
       "word": "张晚意发2025年6月30日的日落",
@@ -393,6 +665,14 @@
       "onboard_time": 1755964165,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104228,
+      "num": 104228,
+      "word": "那英陈数 魔丸灵珠",
+      "onboard_time": 1755996800,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 103159,
@@ -419,11 +699,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99358,
+      "num": 371202,
+      "word": "女子心脏骤停晕倒医护人员飞奔救人",
+      "onboard_time": 1756000462,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99170,
       "num": 99170,
       "word": "孙颖莎王曼昱捧杯时刻",
       "onboard_time": 1755991097,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98965,
+      "num": 98965,
+      "word": "用12年信用卡被扣3万女子发声",
+      "onboard_time": 1756000044,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98892,
+      "num": 98892,
+      "word": "孙颖莎说不是只有我们在战斗",
+      "onboard_time": 1755996862,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -545,14 +849,6 @@
       "onboard_time": 1755970100,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 73148,
-      "num": 73148,
-      "word": "许荔莎回应曾说要谈5个男友言论",
-      "onboard_time": 1755985216,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 70661,
@@ -811,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19786,
+      "num": 247164,
+      "word": "三亚10时起暂停航班起降",
+      "onboard_time": 1756000882,
+      "rank": 20,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 19518,
       "num": 132083,
       "word": "剑鱼或成影响三亚的最强台风之一",
@@ -827,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15355,
+      "num": 1032108,
+      "word": "一觉醒来和夏天告别了",
+      "onboard_time": 1755910584,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14713,
       "num": 30868,
       "word": "宋亚轩特伦斯梦游仙境",
@@ -841,14 +1153,6 @@
       "onboard_time": 1755979575,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 3927,
-      "num": 1032108,
-      "word": "一觉醒来和夏天告别了",
-      "onboard_time": 1755910584,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
