@@ -1,0 +1,410 @@
+{
+  "runTime": 1756024203757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1146314,
+        "num": 1183410,
+        "word": "热依扎公开临床诊断结果",
+        "onboard_time": 1756017322,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704245,
+        "num": 704245,
+        "word": "茶颜悦色 抄袭",
+        "onboard_time": 1756017683,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38337,
+        "num": 483816,
+        "word": "阅兵唯一无伴奏自己踩点的方队",
+        "onboard_time": 1755994520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482510,
+        "num": 482510,
+        "word": "谍报上不封顶",
+        "onboard_time": 1756022242,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207543,
+        "num": 436809,
+        "word": "长期熬夜后快速恢复精力的5个技巧",
+        "onboard_time": 1756002981,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199637,
+        "num": 436146,
+        "word": "CPA财管",
+        "onboard_time": 1756021342,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 435867,
+        "num": 435867,
+        "word": "杨幂爆剧玄学",
+        "onboard_time": 1756023142,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367024,
+        "num": 367024,
+        "word": "王一博分享攀岩照",
+        "onboard_time": 1756022003,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175522,
+        "num": 364139,
+        "word": "茶颜悦色回应",
+        "onboard_time": 1756023202,
+        "rank": 8,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 161969,
+        "num": 353936,
+        "word": "鲁迅长孙回应同款毛背心爆火",
+        "onboard_time": 1756012223,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1013295,
+        "num": 342189,
+        "word": "孟村金昊杀妻",
+        "onboard_time": 1756022904,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 875593,
+        "num": 338625,
+        "word": "将门毒后",
+        "onboard_time": 1756018582,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 618890,
+        "num": 329885,
+        "word": "黄多多好漂亮",
+        "onboard_time": 1756000222,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 523207,
+        "num": 319883,
+        "word": "于正很早给许凯算过命",
+        "onboard_time": 1756018703,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313331,
+        "num": 313331,
+        "word": "川航女空乘被骚扰离职",
+        "onboard_time": 1756006581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331089,
+        "num": 301906,
+        "word": "网传迪丽热巴团队重组招人",
+        "onboard_time": 1756021282,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265087,
+        "num": 265087,
+        "word": "何晟铭坦言是来蹭流量的",
+        "onboard_time": 1756017741,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253934,
+        "num": 253934,
+        "word": "孙丞潇镜头下的金莎笑颜如花",
+        "onboard_time": 1756023022,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398676,
+        "num": 249623,
+        "word": "许凯每次都选择了事业",
+        "onboard_time": 1756006043,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231168,
+        "num": 231168,
+        "word": "TMEA",
+        "onboard_time": 1756020322,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 838408,
+        "num": 228977,
+        "word": "长得像迪丽热巴可以化妆成孙俪",
+        "onboard_time": 1756014442,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211783,
+        "num": 211783,
+        "word": "王牌对王牌9官宣",
+        "onboard_time": 1756003461,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183529,
+        "num": 183529,
+        "word": "邢菲角色后劲好大",
+        "onboard_time": 1756023382,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178523,
+        "num": 178523,
+        "word": "田曦薇我也就六七分美貌",
+        "onboard_time": 1756013422,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176337,
+        "num": 176337,
+        "word": "何晟铭回应结婚了吗",
+        "onboard_time": 1756012702,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168355,
+        "num": 168355,
+        "word": "普通人40岁的真实状态",
+        "onboard_time": 1756018042,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149379,
+        "num": 149379,
+        "word": "16加8轻断食4个月减脂近四分之一",
+        "onboard_time": 1756022302,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143935,
+        "num": 143935,
+        "word": "拼好本",
+        "onboard_time": 1756023082,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142925,
+        "num": 142925,
+        "word": "宋轶新剧一出场就是主人级别",
+        "onboard_time": 1756020923,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141084,
+        "num": 141084,
+        "word": "九三阅兵的标兵太帅了",
+        "onboard_time": 1756013542,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136957,
+        "num": 136957,
+        "word": "50人寝室",
+        "onboard_time": 1756022723,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124520,
+        "num": 124520,
+        "word": "原相机下的迅猛龙",
+        "onboard_time": 1756018042,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124068,
+        "num": 124068,
+        "word": "新加坡马来人抗议中文优势",
+        "onboard_time": 1756011742,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122166,
+        "num": 122166,
+        "word": "孟子义当伴娘旧照",
+        "onboard_time": 1756013363,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97769,
+        "num": 120251,
+        "word": "海南已转移21681人上岸",
+        "onboard_time": 1756022602,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118440,
+        "num": 118440,
+        "word": "只有师范生才懂她有多强",
+        "onboard_time": 1756020741,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117002,
+        "num": 117002,
+        "word": "茶颜悦色联名手账本被指抄袭",
+        "onboard_time": 1756020144,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116449,
+        "num": 116449,
+        "word": "市值124亿元公司拟用138亿元炒股理财",
+        "onboard_time": 1756016842,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102259,
+        "num": 115452,
+        "word": "崔鹏说曾经暗恋董璇4年",
+        "onboard_time": 1756023442,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113227,
+        "num": 115417,
+        "word": "井胧把井迪当妹妹",
+        "onboard_time": 1756023502,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115411,
+        "num": 115411,
+        "word": "美团退款",
+        "onboard_time": 1755993259,
+        "rank": 40,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 113868,
+        "num": 113868,
+        "word": "6岁娃沙滩光脚踩到死鱼进了ICU",
+        "onboard_time": 1756019063,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113847,
+        "num": 113847,
+        "word": "孙颖莎赛后抛球队友嗷嗷争抢",
+        "onboard_time": 1756023260,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113607,
+        "num": 113607,
+        "word": "怪不得小说里一套头面争得那么厉害",
+        "onboard_time": 1756023983,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 110467,
+        "num": 110467,
+        "word": "黄杨钿甜中戏开学路透",
+        "onboard_time": 1756005983,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110068,
+        "num": 110068,
+        "word": "纹身狗",
+        "onboard_time": 1756018821,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109112,
+        "num": 109112,
+        "word": "林娜琏 浪姐7",
+        "onboard_time": 1756000282,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108979,
+        "num": 108979,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1756010782,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108673,
+        "num": 108673,
+        "word": "张峻豪走红毯紧张了",
+        "onboard_time": 1756024102,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105039,
+        "num": 105039,
+        "word": "五部剧云合破40%",
+        "onboard_time": 1756021461,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#雪域情深#"
+    }
+  }
+}

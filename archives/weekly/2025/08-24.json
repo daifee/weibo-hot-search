@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756021055922,
+  "endTime": 1756024203757,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -99,6 +99,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1013295,
+      "num": 342189,
+      "word": "孟村金昊杀妻",
+      "onboard_time": 1756022904,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 949110,
       "num": 363062,
       "word": "美团退款",
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 875593,
+      "num": 338625,
+      "word": "将门毒后",
+      "onboard_time": 1756018582,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 860997,
       "num": 1137759,
       "word": "鲁迅长孙回应同款毛背心爆火",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 839162,
-      "num": 282412,
+      "num": 313331,
       "word": "川航女空乘被骚扰离职",
       "onboard_time": 1756006581,
       "rank": 44,
@@ -169,6 +185,14 @@
       "onboard_time": 1755962007,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 704245,
+      "num": 704245,
+      "word": "茶颜悦色 抄袭",
+      "onboard_time": 1756017683,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 670385,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 531392,
-      "num": 194068,
+      "num": 319883,
       "word": "于正很早给许凯算过命",
       "onboard_time": 1756018703,
       "rank": 17,
@@ -307,28 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487384,
-      "num": 487384,
-      "word": "茶颜悦色 抄袭",
-      "onboard_time": 1756017683,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 484229,
       "num": 192839,
       "word": "生理性喜欢和心理性喜欢的区别",
       "onboard_time": 1756010782,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 484211,
-      "num": 201629,
-      "word": "将门毒后",
-      "onboard_time": 1756018582,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 483643,
@@ -339,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 482510,
+      "num": 482510,
+      "word": "谍报上不封顶",
+      "onboard_time": 1756022242,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447911,
       "num": 288786,
       "word": "易烊千玺被粉丝的尖叫声吓到了",
@@ -347,8 +363,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 435867,
+      "num": 435867,
+      "word": "杨幂爆剧玄学",
+      "onboard_time": 1756023142,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421514,
-      "num": 421514,
+      "num": 436809,
       "word": "长期熬夜后快速恢复精力的5个技巧",
       "onboard_time": 1756002981,
       "rank": 22,
@@ -427,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 367024,
+      "num": 367024,
+      "word": "王一博分享攀岩照",
+      "onboard_time": 1756022003,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366809,
       "num": 275010,
       "word": "何晟铭说和于正是很近的朋友",
@@ -473,6 +505,14 @@
       "onboard_time": 1755994041,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 331089,
+      "num": 301906,
+      "word": "网传迪丽热巴团队重组招人",
+      "onboard_time": 1756021282,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 326399,
@@ -539,12 +579,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 265087,
+      "num": 265087,
+      "word": "何晟铭坦言是来蹭流量的",
+      "onboard_time": 1756017741,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262105,
       "num": 262105,
       "word": "台湾大罢免投票结果出炉",
       "onboard_time": 1755957627,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 253934,
+      "num": 253934,
+      "word": "孙丞潇镜头下的金莎笑颜如花",
+      "onboard_time": 1756023022,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 252190,
@@ -571,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233712,
-      "num": 177067,
-      "word": "何晟铭坦言是来蹭流量的",
-      "onboard_time": 1756017741,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233691,
       "num": 233691,
       "word": "美国纽约军团病疫情已致6死",
@@ -593,6 +641,14 @@
       "onboard_time": 1755990918,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231168,
+      "num": 231168,
+      "word": "TMEA",
+      "onboard_time": 1756020322,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 230771,
@@ -675,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208359,
-      "num": 208359,
-      "word": "TMEA",
-      "onboard_time": 1756020322,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 207295,
       "num": 192562,
       "word": "月亮姐姐 我没有产后抑郁症",
@@ -713,6 +761,14 @@
       "onboard_time": 1755996922,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199637,
+      "num": 436146,
+      "word": "CPA财管",
+      "onboard_time": 1756021342,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 196662,
@@ -777,6 +833,14 @@
       "onboard_time": 1755993740,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183529,
+      "num": 183529,
+      "word": "邢菲角色后劲好大",
+      "onboard_time": 1756023382,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182690,
@@ -851,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175522,
+      "num": 364139,
+      "word": "茶颜悦色回应",
+      "onboard_time": 1756023202,
+      "rank": 8,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 175235,
       "num": 196567,
       "word": "广东大批台风预警发布",
@@ -897,6 +969,14 @@
       "onboard_time": 1756008984,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168355,
+      "num": 168355,
+      "word": "普通人40岁的真实状态",
+      "onboard_time": 1756018042,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 164499,
@@ -1019,12 +1099,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147788,
-      "num": 147788,
-      "word": "普通人40岁的真实状态",
-      "onboard_time": 1756018042,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 149379,
+      "num": 149379,
+      "word": "16加8轻断食4个月减脂近四分之一",
+      "onboard_time": 1756022302,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147695,
@@ -1059,12 +1139,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 143935,
+      "num": 143935,
+      "word": "拼好本",
+      "onboard_time": 1756023082,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143511,
       "num": 143511,
       "word": "毕雯珺从嗑到了到磕到了",
       "onboard_time": 1756017322,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142925,
+      "num": 142925,
+      "word": "宋轶新剧一出场就是主人级别",
+      "onboard_time": 1756020923,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 142107,
@@ -1121,6 +1217,14 @@
       "onboard_time": 1756001722,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136957,
+      "num": 136957,
+      "word": "50人寝室",
+      "onboard_time": 1756022723,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 136666,
@@ -1259,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118440,
+      "num": 118440,
+      "word": "只有师范生才懂她有多强",
+      "onboard_time": 1756020741,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118091,
       "num": 168131,
       "word": "大连科技学院要求新生10天交齐学费",
@@ -1288,6 +1400,14 @@
       "word": "高校被曝全员停发工资",
       "onboard_time": 1756002383,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117002,
+      "num": 119989,
+      "word": "茶颜悦色联名手账本被指抄袭",
+      "onboard_time": 1756020144,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1323,20 +1443,36 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 114266,
-      "num": 114266,
-      "word": "宋轶新剧一出场就是主人级别",
-      "onboard_time": 1756020923,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114246,
       "num": 114246,
       "word": "看个电影无痛背下来了12个单词",
       "onboard_time": 1756020262,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113847,
+      "num": 113847,
+      "word": "孙颖莎赛后抛球队友嗷嗷争抢",
+      "onboard_time": 1756023260,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113607,
+      "num": 113607,
+      "word": "怪不得小说里一套头面争得那么厉害",
+      "onboard_time": 1756023983,
+      "rank": 43,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 113227,
+      "num": 115417,
+      "word": "井胧把井迪当妹妹",
+      "onboard_time": 1756023502,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 112389,
@@ -1363,12 +1499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110120,
-      "num": 110120,
-      "word": "只有师范生才懂她有多强",
-      "onboard_time": 1756020741,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 110068,
+      "num": 119691,
+      "word": "纹身狗",
+      "onboard_time": 1756018821,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109863,
@@ -1425,6 +1561,14 @@
       "onboard_time": 1755990378,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108673,
+      "num": 108673,
+      "word": "张峻豪走红毯紧张了",
+      "onboard_time": 1756024102,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 107620,
@@ -1491,6 +1635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105039,
+      "num": 105039,
+      "word": "五部剧云合破40%",
+      "onboard_time": 1756021461,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104870,
       "num": 132137,
       "word": "九三阅兵踢正步训练合集",
@@ -1523,20 +1675,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102668,
-      "num": 119691,
-      "word": "纹身狗",
-      "onboard_time": 1756018821,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102662,
       "num": 102662,
       "word": "莫雷加德说林诗栋决赛会压力很大",
       "onboard_time": 1756011202,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102259,
+      "num": 115452,
+      "word": "崔鹏说曾经暗恋董璇4年",
+      "onboard_time": 1756023442,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 102242,
@@ -1656,6 +1808,14 @@
       "word": "书包刮到门禁杆 物业索赔1600元",
       "onboard_time": 1756008743,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97769,
+      "num": 120251,
+      "word": "海南已转移21681人上岸",
+      "onboard_time": 1756022602,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1825,14 +1985,6 @@
       "onboard_time": 1756017922,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 76388,
-      "num": 119989,
-      "word": "茶颜悦色联名手账本被指抄袭",
-      "onboard_time": 1756020144,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76260,
