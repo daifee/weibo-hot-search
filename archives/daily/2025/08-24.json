@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756032126501,
+  "endTime": 1756034416773,
   "band_list": [
     {
       "raw_hot": 3400230,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1536715,
+      "num": 1536715,
+      "word": "河北一女子去世疑与丈夫家暴有关",
+      "onboard_time": 1756029743,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1527570,
       "num": 1527570,
       "word": "阳光玫瑰 沦为路边摊水果",
       "onboard_time": 1756025602,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1455291,
-      "num": 1455291,
-      "word": "河北一女子去世疑与丈夫家暴有关",
-      "onboard_time": 1756029743,
-      "rank": 1,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1285595,
@@ -104,6 +104,14 @@
       "word": "热依扎公开临床诊断结果",
       "onboard_time": 1756017322,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1131100,
+      "num": 1131100,
+      "word": "王艳富豪丈夫已被限消",
+      "onboard_time": 1756029383,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 854226,
+      "num": 854226,
+      "word": "2集见血亲嘴5集咬脖深吻",
+      "onboard_time": 1756031122,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 852297,
       "num": 316461,
       "word": "何晟铭透露离开电视圈原因",
@@ -208,14 +224,6 @@
       "word": "黄杨钿甜中戏开学路透",
       "onboard_time": 1756005983,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 781716,
-      "num": 781716,
-      "word": "王艳富豪丈夫已被限消",
-      "onboard_time": 1756029383,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -289,6 +297,14 @@
       "onboard_time": 1756026922,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 589561,
+      "num": 383502,
+      "word": "井胧不希望井迪结婚",
+      "onboard_time": 1756028903,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 587145,
@@ -451,6 +467,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 433109,
+      "num": 376956,
+      "word": "丁程鑫粉发",
+      "onboard_time": 1756032742,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 422416,
+      "num": 422416,
+      "word": "多方回应女子去世疑与丈夫家暴有关",
+      "onboard_time": 1756031003,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421514,
       "num": 436809,
       "word": "长期熬夜后快速恢复精力的5个技巧",
@@ -473,14 +505,6 @@
       "onboard_time": 1755961947,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 415410,
-      "num": 367284,
-      "word": "井胧不希望井迪结婚",
-      "onboard_time": 1756028903,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 414454,
@@ -515,6 +539,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391653,
+      "num": 391653,
+      "word": "上海66套豪宅1小时售罄",
+      "onboard_time": 1756031362,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390569,
+      "num": 390569,
+      "word": "白敬亭釜山电影节生图",
+      "onboard_time": 1756032802,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 388515,
       "num": 192961,
       "word": "川航宋白金",
@@ -537,6 +577,14 @@
       "onboard_time": 1755994520,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 370679,
+      "num": 446603,
+      "word": "迪丽热巴金色吊带闪片长裙",
+      "onboard_time": 1756029502,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 367024,
@@ -569,22 +617,6 @@
       "onboard_time": 1756000763,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 362485,
-      "num": 362485,
-      "word": "多方回应女子去世疑与丈夫家暴有关",
-      "onboard_time": 1756031003,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 359311,
-      "num": 446603,
-      "word": "迪丽热巴金色吊带闪片长裙",
-      "onboard_time": 1756029502,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 343050,
@@ -635,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318125,
-      "num": 199183,
-      "word": "2集见血亲嘴5集咬脖深吻",
-      "onboard_time": 1756031122,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 310628,
+      "num": 390026,
+      "word": "妇联回应女子疑被丈夫家暴致死",
+      "onboard_time": 1756032204,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304255,
@@ -739,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239460,
+      "num": 239460,
+      "word": "国漫史上第一部大女主",
+      "onboard_time": 1756028842,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 233691,
       "num": 233691,
       "word": "美国纽约军团病疫情已致6死",
@@ -803,20 +843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219045,
-      "num": 219045,
-      "word": "国漫史上第一部大女主",
-      "onboard_time": 1756028842,
-      "rank": 18,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 217888,
       "num": 217888,
       "word": "曾舜晞夸丞磊晋江式演技",
       "onboard_time": 1756018642,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215610,
+      "num": 177318,
+      "word": "韩国一家四口180平的家",
+      "onboard_time": 1756033462,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 213856,
@@ -841,6 +881,14 @@
       "onboard_time": 1756010602,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211441,
+      "num": 211441,
+      "word": "张真源粉发",
+      "onboard_time": 1756033644,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 210835,
@@ -907,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194936,
+      "num": 194936,
+      "word": "杨幂爸爸说杨幂天选的绣绣",
+      "onboard_time": 1756033462,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192464,
       "num": 192464,
       "word": "第五人格赛事",
@@ -947,6 +1003,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 188860,
+      "num": 188860,
+      "word": "周也三杀",
+      "onboard_time": 1756033644,
+      "rank": 27,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 188355,
       "num": 188355,
       "word": "艾福杰尼 小奇",
@@ -976,14 +1040,6 @@
       "word": "男子被朋友送的金毛吓到报警",
       "onboard_time": 1755993740,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184193,
-      "num": 159663,
-      "word": "上海66套豪宅1小时售罄",
-      "onboard_time": 1756031362,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1123,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170212,
+      "num": 170212,
+      "word": "白鹿说自己太瘦了",
+      "onboard_time": 1756033822,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168813,
       "num": 168813,
       "word": "檀健次顶级魅魔",
@@ -1155,12 +1219,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165517,
+      "num": 165517,
+      "word": "生万物偏偏你最争气",
+      "onboard_time": 1756032984,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164499,
       "num": 164499,
       "word": "美团客服回应订单退款未到账",
       "onboard_time": 1756003283,
       "rank": 34,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 164408,
+      "num": 164408,
+      "word": "北京WBG对战Wolves",
+      "onboard_time": 1756028782,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 162331,
@@ -1315,6 +1395,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150906,
+      "num": 150906,
+      "word": "6个症状说明骨头已经变脆了",
+      "onboard_time": 1756033462,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148399,
+      "num": 148399,
+      "word": "王源你们怎么又背着我合作",
+      "onboard_time": 1756031603,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147695,
       "num": 160286,
       "word": "沈腾说范丞丞是自己的综艺搭子",
@@ -1329,14 +1425,6 @@
       "onboard_time": 1755944602,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145614,
-      "num": 145614,
-      "word": "王源你们怎么又背着我合作",
-      "onboard_time": 1756031603,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 145482,
@@ -1467,12 +1555,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137739,
+      "num": 137739,
+      "word": "王皓叫暂停把林诗栋从悬崖边拽回",
+      "onboard_time": 1756031482,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136666,
       "num": 195185,
       "word": "这短短40秒看得心酸",
       "onboard_time": 1756016781,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136261,
+      "num": 136261,
+      "word": "好青涩的王楚钦",
+      "onboard_time": 1756033403,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 135566,
@@ -1563,14 +1667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128583,
-      "num": 128583,
-      "word": "王皓叫暂停把林诗栋从悬崖边拽回",
-      "onboard_time": 1756031482,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128122,
       "num": 128122,
       "word": "孔雪儿不基础粉丝更不基础",
@@ -1627,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123478,
+      "num": 123478,
+      "word": "黄多多高清剧照",
+      "onboard_time": 1756032622,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122323,
       "num": 122323,
       "word": "李承铉背着飞机走红毯",
@@ -1643,12 +1747,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121579,
+      "num": 121579,
+      "word": "KT战胜T1",
+      "onboard_time": 1756033644,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121272,
       "num": 121272,
       "word": "公安局副局长赤膊上阵扑倒骗子",
       "onboard_time": 1756030282,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121083,
+      "num": 121083,
+      "word": "曺圭贤摔了",
+      "onboard_time": 1756033102,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 120912,
@@ -1665,14 +1785,6 @@
       "onboard_time": 1756013242,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120691,
-      "num": 120691,
-      "word": "北京WBG对战Wolves",
-      "onboard_time": 1756028782,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 120654,
@@ -1739,6 +1851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118755,
+      "num": 118755,
+      "word": "鲁迅夹烟墙画被指误导青少年",
+      "onboard_time": 1756034364,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118440,
       "num": 118440,
       "word": "只有师范生才懂她有多强",
@@ -1785,6 +1905,14 @@
       "onboard_time": 1756002383,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117097,
+      "num": 117097,
+      "word": "追星的意义在这体现了",
+      "onboard_time": 1756034183,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 117002,
@@ -2564,7 +2692,7 @@
     },
     {
       "raw_hot": 72164,
-      "num": 175233,
+      "num": 890462,
       "word": "九三阅兵训练最新画面",
       "onboard_time": 1756012162,
       "rank": 9,
@@ -2739,6 +2867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45652,
+      "num": 148642,
+      "word": "俄军飞行员在座舱里挂上了LABUBU",
+      "onboard_time": 1756034063,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 45299,
       "num": 184261,
       "word": "中国空间站有个现实版炼丹炉",
@@ -2787,12 +2923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39886,
+      "num": 179425,
+      "word": "脂包骨身材的7个特点",
+      "onboard_time": 1756034304,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 37231,
       "num": 135655,
       "word": "海产姐妹女双冠军",
       "onboard_time": 1755991459,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37125,
+      "num": 177579,
+      "word": "多地快递费上涨",
+      "onboard_time": 1756033282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36128,
@@ -2971,6 +3123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21094,
+      "num": 149549,
+      "word": "高功能焦虑者特征",
+      "onboard_time": 1756033344,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20566,
       "num": 153357,
       "word": "小伙子救起落水儿童结局太意外",
@@ -3052,6 +3212,9 @@
     },
     {
       "word": "#雪域情深#"
+    },
+    {
+      "word": "#总书记为西藏发展指明方向#"
     }
   ]
 }
