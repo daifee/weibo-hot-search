@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756067230162,
+  "endTime": 1756068036201,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -680,6 +680,14 @@
       "word": "沉浸式感受阅兵训练现场",
       "onboard_time": 1756065314,
       "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10114,
+      "num": 24006,
+      "word": "80秒看三次综合演练画面",
+      "onboard_time": 1756068016,
+      "rank": 40,
       "category": "国内时政"
     }
   ],

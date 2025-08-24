@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/25 00:29:33 ~ 2025/08/25 04:27:10
+本榜单时间：2025/08/25 00:29:33 ~ 2025/08/25 04:40:36
 </p>
 </blockquote>
 <p>
@@ -521,6 +521,12 @@ wtt欧洲大满贯瑞典站（热度：43751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%84%9F%E5%8F%97%E9%98%85%E5%85%B5%E8%AE%AD%E7%BB%83%E7%8E%B0%E5%9C%BA%23" target="weibo">
 沉浸式感受阅兵训练现场（热度：12004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2380%E7%A7%92%E7%9C%8B%E4%B8%89%E6%AC%A1%E7%BB%BC%E5%90%88%E6%BC%94%E7%BB%83%E7%94%BB%E9%9D%A2%23" target="weibo">
+80秒看三次综合演练画面（热度：10114）
 </a>
 </li>
 
