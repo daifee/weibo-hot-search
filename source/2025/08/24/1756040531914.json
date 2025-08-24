@@ -1,0 +1,410 @@
+{
+  "runTime": 1756040531914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1298814,
+        "num": 1298814,
+        "word": "内娱又有神级求婚现场了",
+        "onboard_time": 1756037184,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 999213,
+        "num": 999213,
+        "word": "九三阅兵最后一次夜间演练画面",
+        "onboard_time": 1756035082,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27672,
+        "num": 785080,
+        "word": "中国空间站有个现实版炼丹炉",
+        "onboard_time": 1756015223,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 587978,
+        "num": 587978,
+        "word": "泽连斯基宣布扩大战争",
+        "onboard_time": 1756037483,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 586450,
+        "num": 586450,
+        "word": "鲁迅夹烟墙画被指误导青少年",
+        "onboard_time": 1756034364,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652137,
+        "num": 574517,
+        "word": "桃晚安哭了",
+        "onboard_time": 1756036643,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 425360,
+        "num": 425360,
+        "word": "TMEA节目单",
+        "onboard_time": 1756034722,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 413723,
+        "num": 413723,
+        "word": "白敬亭釜山电影节生图",
+        "onboard_time": 1756032802,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356051,
+        "num": 356051,
+        "word": "2集见血亲嘴5集咬脖深吻",
+        "onboard_time": 1756031122,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175633,
+        "num": 355881,
+        "word": "九三阅兵全流程全要素预演",
+        "onboard_time": 1756035082,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1715461,
+        "num": 355635,
+        "word": "张维伊董璇婚宴饭店人均价格",
+        "onboard_time": 1756035502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 818050,
+        "num": 355366,
+        "word": "刘耀文严浩翔牵手上台",
+        "onboard_time": 1756038323,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 513457,
+        "num": 355177,
+        "word": "白鹿说自己太瘦了",
+        "onboard_time": 1756033822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501356,
+        "num": 354819,
+        "word": "妇联回应女子疑被丈夫家暴致死",
+        "onboard_time": 1756032204,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442182,
+        "num": 354707,
+        "word": "王艳富豪丈夫已被限消",
+        "onboard_time": 1756029383,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354571,
+        "num": 354571,
+        "word": "薛凯琪把额头露出来大大方方的",
+        "onboard_time": 1756037483,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319614,
+        "num": 319614,
+        "word": "上海66套豪宅1小时售罄",
+        "onboard_time": 1756031362,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245477,
+        "num": 245477,
+        "word": "阳光玫瑰 沦为路边摊水果",
+        "onboard_time": 1756025602,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27276,
+        "num": 242658,
+        "word": "郑州的文化氛围感拉满",
+        "onboard_time": 1756039824,
+        "rank": 18,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 106251,
+        "num": 242009,
+        "word": "女子疑家暴去世其婆婆也被警方带走",
+        "onboard_time": 1756039705,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265149,
+        "num": 241912,
+        "word": "脂肪肝是全身性疾病的报警信号",
+        "onboard_time": 1756035682,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241707,
+        "num": 241707,
+        "word": "北京WBG对战Wolves",
+        "onboard_time": 1756028782,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241864,
+        "num": 232810,
+        "word": "丁程鑫粉发",
+        "onboard_time": 1756032742,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220328,
+        "num": 220328,
+        "word": "去世女子社交账号都是孩子",
+        "onboard_time": 1756038863,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213461,
+        "num": 213461,
+        "word": "井胧不希望井迪结婚",
+        "onboard_time": 1756028903,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210683,
+        "num": 210683,
+        "word": "刘宇宁电梯里被拍了",
+        "onboard_time": 1756040125,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196716,
+        "num": 208620,
+        "word": "白鹿获亚洲内容大赏最佳人气奖",
+        "onboard_time": 1756039104,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193136,
+        "num": 208405,
+        "word": "刘宇宁在星辰里唱歌",
+        "onboard_time": 1756039104,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208295,
+        "num": 208295,
+        "word": "狼队夺冠",
+        "onboard_time": 1756035983,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182441,
+        "num": 195645,
+        "word": "子夜归魔童降世",
+        "onboard_time": 1756039764,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193797,
+        "num": 193797,
+        "word": "桃晚安可惜",
+        "onboard_time": 1756040484,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192989,
+        "num": 192989,
+        "word": "刘耀文把EP名画在了手臂上",
+        "onboard_time": 1756040365,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189876,
+        "num": 189876,
+        "word": "女子疑家暴去世知情人称男方已自首",
+        "onboard_time": 1756036823,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188066,
+        "num": 188066,
+        "word": "白敬亭釜山桑延限时返场",
+        "onboard_time": 1756039344,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179554,
+        "num": 179554,
+        "word": "严浩翔橙发",
+        "onboard_time": 1756035082,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166856,
+        "num": 166856,
+        "word": "生万物被指农村玛丽苏",
+        "onboard_time": 1756026922,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161989,
+        "num": 161989,
+        "word": "张凌赫这一秒过火报数式营业",
+        "onboard_time": 1756039163,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159877,
+        "num": 159877,
+        "word": "刘轩丞穿了鹿晗同款衣服",
+        "onboard_time": 1756034964,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155969,
+        "num": 155969,
+        "word": "川航回应女空乘被旅客骚扰离职",
+        "onboard_time": 1756037421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153883,
+        "num": 153883,
+        "word": "杨幂爆剧玄学",
+        "onboard_time": 1756023142,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150054,
+        "num": 150054,
+        "word": "宠爱 我们做到了",
+        "onboard_time": 1756038683,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61556,
+        "num": 149914,
+        "word": "三孩宝妈补贴叠加下20万买110平房子",
+        "onboard_time": 1756040484,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149803,
+        "num": 149803,
+        "word": "印度女子因嫁妆遭夫家毒打活活烧死",
+        "onboard_time": 1756040005,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147831,
+        "num": 147831,
+        "word": "周也三杀",
+        "onboard_time": 1756033644,
+        "rank": 43,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 148614,
+        "num": 147814,
+        "word": "崔鹏说曾经暗恋董璇4年",
+        "onboard_time": 1756023442,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149060,
+        "num": 147540,
+        "word": "将门毒后",
+        "onboard_time": 1756018582,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147197,
+        "num": 147197,
+        "word": "子夜归",
+        "onboard_time": 1756036042,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144018,
+        "num": 144018,
+        "word": "空调说对不起队友",
+        "onboard_time": 1756040484,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143374,
+        "num": 143374,
+        "word": "杨幂爸爸说杨幂天选的绣绣",
+        "onboard_time": 1756033462,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142558,
+        "num": 142558,
+        "word": "故宫8月31日至9月4日临时闭馆",
+        "onboard_time": 1756037964,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为西藏发展指明方向#"
+    }
+  }
+}
