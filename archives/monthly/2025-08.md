@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/25 06:41:39
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/25 07:24:00
 </p>
 </blockquote>
 <p>
@@ -4947,6 +4947,12 @@ aespa（热度：796831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%B4%E7%89%99%E5%A5%975%E5%B9%B4%E5%9D%8F%E4%BA%868%E9%A2%97%E7%89%99%23" target="weibo">
+女子戴牙套5年坏了8颗牙（热度：777939）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8B%A5%E5%BD%A4%E8%A2%AB%E6%B3%B0%E5%9B%BD%E6%B5%B7%E5%85%B3%E8%B4%A8%E7%96%91%E5%B9%B4%E9%BE%84%23" target="weibo">
 李若彤被泰国海关质疑年龄（热度：776874）
 </a>
@@ -6005,12 +6011,6 @@ boss直聘崩了（热度：685338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E4%BB%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%87%BA%E5%AB%81%E4%B8%BA%E7%94%B1%E4%BA%89%E5%A4%BA46%E4%B8%87%E9%81%97%E4%BA%A7%23" target="weibo">
 妹妹以姐姐已出嫁为由争夺46万遗产（热度：679974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%86%9B%E8%AE%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
-知情人回应女生军训身亡（热度：679603）
 </a>
 </li>
 

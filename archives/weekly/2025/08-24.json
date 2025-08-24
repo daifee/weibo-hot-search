@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756075299812,
+  "endTime": 1756077840469,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777939,
+      "num": 675946,
+      "word": "女子戴牙套5年坏了8颗牙",
+      "onboard_time": 1756054819,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 716164,
       "num": 716164,
       "word": "食脑虫",
@@ -328,14 +336,6 @@
       "word": "茶颜悦色 抄袭",
       "onboard_time": 1756017683,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 675946,
-      "num": 675946,
-      "word": "女子戴牙套5年坏了8颗牙",
-      "onboard_time": 1756054819,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -473,6 +473,14 @@
       "onboard_time": 1756039705,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 556696,
+      "num": 804505,
+      "word": "莫雷加德男单冠军",
+      "onboard_time": 1756061055,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 537011,
@@ -955,14 +963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 307756,
-      "num": 307756,
-      "word": "莫雷加德男单冠军",
-      "onboard_time": 1756061055,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 304255,
       "num": 304255,
       "word": "龙丹妮白敬亭抵达韩国",
@@ -995,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292432,
+      "num": 292432,
+      "word": "男子p图骗色骗酒7女子上当",
+      "onboard_time": 1756050564,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287159,
       "num": 287159,
       "word": "iPhone隐私屏幕模式",
@@ -1024,6 +1032,14 @@
       "word": "脂肪肝是全身性疾病的报警信号",
       "onboard_time": 1756035682,
       "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 262389,
+      "num": 104127,
+      "word": "每天只睡6个小时身体的变化",
+      "onboard_time": 1756052903,
+      "rank": 47,
       "category": "健康医疗"
     },
     {
@@ -1099,6 +1115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 242636,
+      "num": 242636,
+      "word": "林诗栋亚军",
+      "onboard_time": 1756077499,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239892,
       "num": 239892,
       "word": "Haruta 不说中文",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1756021342,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 229823,
-      "num": 229823,
-      "word": "男子p图骗色骗酒7女子上当",
-      "onboard_time": 1756050564,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225581,
@@ -1409,14 +1425,6 @@
       "onboard_time": 1756010302,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195692,
-      "num": 104127,
-      "word": "每天只睡6个小时身体的变化",
-      "onboard_time": 1756052903,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 195619,
@@ -1939,6 +1947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 167655,
+      "num": 167655,
+      "word": "何晟铭和于正拍了13部戏",
+      "onboard_time": 1756064775,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167202,
       "num": 167202,
       "word": "刘宇宁长靴比我腿长",
@@ -2371,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139516,
+      "num": 139516,
+      "word": "年薪15万程序员下班送外卖称解压",
+      "onboard_time": 1756051104,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139112,
       "num": 139112,
       "word": "妻子做饭1年丈夫瘦32斤",
@@ -2491,6 +2515,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 135115,
+      "num": 135115,
+      "word": "女留学生起诉发性暗示微信男生败诉",
+      "onboard_time": 1756051165,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134772,
       "num": 134772,
       "word": "不敢想10天后的大阅兵多壮观",
@@ -2512,14 +2544,6 @@
       "word": "儿子过世母亲精神异常每天小区骂人",
       "onboard_time": 1756047026,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132928,
-      "num": 132928,
-      "word": "年薪15万程序员下班送外卖称解压",
-      "onboard_time": 1756051104,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2689,14 +2713,6 @@
       "onboard_time": 1756031183,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 123683,
-      "num": 123683,
-      "word": "女留学生起诉发性暗示微信男生败诉",
-      "onboard_time": 1756051165,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122791,
@@ -2929,6 +2945,14 @@
       "onboard_time": 1755991638,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116512,
+      "num": 116512,
+      "word": "谢娜不基础谢娜妈妈更不基础",
+      "onboard_time": 1756069815,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 116061,
@@ -3451,14 +3475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98772,
-      "num": 95868,
-      "word": "何晟铭和于正拍了13部戏",
-      "onboard_time": 1756064775,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 98762,
       "num": 98762,
       "word": "连续30天只吃一顿饭身体的变化",
@@ -3547,12 +3563,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95077,
+      "num": 95077,
+      "word": "网友高铁站偶遇刘亦菲",
+      "onboard_time": 1756032622,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94118,
       "num": 132464,
       "word": "不刷牙睡觉vs不刷牙吃早餐",
       "onboard_time": 1755944002,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93951,
+      "num": 93951,
+      "word": "欧洲大满贯男女单冠军自拍",
+      "onboard_time": 1756076899,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 93871,
@@ -3827,6 +3859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70395,
+      "num": 70395,
+      "word": "南京6头野猪10多分钟横渡长江",
+      "onboard_time": 1756071315,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69723,
       "num": 120915,
       "word": "高空抛食毒死宠物狗事件警方已立案",
@@ -3883,20 +3923,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66269,
+      "num": 66269,
+      "word": "国乒男单无缘冠军",
+      "onboard_time": 1756076899,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64570,
       "num": 64570,
       "word": "林诗栋上演樊振东式逆转",
       "onboard_time": 1756057697,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64268,
-      "num": 64268,
-      "word": "谢娜不基础谢娜妈妈更不基础",
-      "onboard_time": 1756069815,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 63456,
@@ -3919,6 +3959,14 @@
       "num": 132320,
       "word": "迪丽热巴说二次元妹妹叫迪丽冷巴",
       "onboard_time": 1755968301,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 60871,
+      "num": 60871,
+      "word": "董璇办了两次婚礼都没海岛婚礼",
+      "onboard_time": 1756077740,
       "rank": 36,
       "category": "综艺"
     },
@@ -3993,14 +4041,6 @@
       "onboard_time": 1756026501,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 53280,
-      "num": 53280,
-      "word": "南京6头野猪10多分钟横渡长江",
-      "onboard_time": 1756071315,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52140,
@@ -4203,6 +4243,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38239,
+      "num": 38239,
+      "word": "林诗栋3比3追平莫雷加德",
+      "onboard_time": 1756077077,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38192,
+      "num": 43974,
+      "word": "从1写到500给200块",
+      "onboard_time": 1756059436,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38171,
+      "num": 38171,
+      "word": "20岁女孩为变美注射玻尿酸毁容",
+      "onboard_time": 1756076539,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37231,
       "num": 135655,
       "word": "海产姐妹女双冠军",
@@ -4225,6 +4289,22 @@
       "onboard_time": 1755974956,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35699,
+      "num": 35699,
+      "word": "孙颖莎王曼昱冠亚军合影",
+      "onboard_time": 1756076958,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34751,
+      "num": 34751,
+      "word": "孙颖莎回应WTT大满贯第四冠",
+      "onboard_time": 1756077798,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 34019,
@@ -4272,6 +4352,14 @@
       "word": "说好3年迁走户口16年了还在",
       "onboard_time": 1755980654,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29098,
+      "num": 174313,
+      "word": "居委会回应女子精神异常每天小区骂人",
+      "onboard_time": 1756077138,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -4353,14 +4441,6 @@
       "onboard_time": 1756024222,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25430,
-      "num": 43974,
-      "word": "从1写到500给200块",
-      "onboard_time": 1756059436,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25233,
