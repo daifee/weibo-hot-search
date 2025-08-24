@@ -1,0 +1,410 @@
+{
+  "runTime": 1756021055922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1152477,
+        "num": 1184396,
+        "word": "热依扎公开临床诊断结果",
+        "onboard_time": 1756017322,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487384,
+        "num": 487384,
+        "word": "茶颜悦色 抄袭",
+        "onboard_time": 1756017683,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59652,
+        "num": 472950,
+        "word": "阅兵唯一无伴奏自己踩点的方队",
+        "onboard_time": 1755994520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470466,
+        "num": 470466,
+        "word": "鲁迅长孙回应同款毛背心爆火",
+        "onboard_time": 1756012223,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336436,
+        "num": 336436,
+        "word": "九三阅兵的标兵太帅了",
+        "onboard_time": 1756013542,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 889117,
+        "num": 330876,
+        "word": "长得像迪丽热巴可以化妆成孙俪",
+        "onboard_time": 1756014442,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295246,
+        "num": 295246,
+        "word": "王牌对王牌9官宣",
+        "onboard_time": 1756003461,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237997,
+        "num": 237997,
+        "word": "长期熬夜后快速恢复精力的5个技巧",
+        "onboard_time": 1756002981,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217888,
+        "num": 217888,
+        "word": "曾舜晞夸丞磊晋江式演技",
+        "onboard_time": 1756018642,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124278,
+        "num": 216736,
+        "word": "市值124亿元公司拟用138亿元炒股理财",
+        "onboard_time": 1756016842,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 934078,
+        "num": 214668,
+        "word": "孟村",
+        "onboard_time": 1756016962,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791841,
+        "num": 212404,
+        "word": "黄多多好漂亮",
+        "onboard_time": 1756000222,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 569378,
+        "num": 209742,
+        "word": "许凯每次都选择了事业",
+        "onboard_time": 1756006043,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208359,
+        "num": 208359,
+        "word": "TMEA",
+        "onboard_time": 1756020322,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71527,
+        "num": 205723,
+        "word": "微博文化之夜郑州见",
+        "onboard_time": 1756020503,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 484211,
+        "num": 201629,
+        "word": "将门毒后",
+        "onboard_time": 1756018582,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429859,
+        "num": 200251,
+        "word": "田曦薇我也就六七分美貌",
+        "onboard_time": 1756013422,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531392,
+        "num": 194068,
+        "word": "于正很早给许凯算过命",
+        "onboard_time": 1756018703,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394677,
+        "num": 189073,
+        "word": "川航女空乘被骚扰离职",
+        "onboard_time": 1756006581,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358806,
+        "num": 186617,
+        "word": "何晟铭回应结婚了吗",
+        "onboard_time": 1756012702,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184765,
+        "num": 184765,
+        "word": "iPhone隐私屏幕模式",
+        "onboard_time": 1756010121,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 312887,
+        "num": 181372,
+        "word": "孟子义当伴娘旧照",
+        "onboard_time": 1756013363,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191803,
+        "num": 179996,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1756010782,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177630,
+        "num": 177630,
+        "word": "黄杨钿甜中戏开学路透",
+        "onboard_time": 1756005983,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214010,
+        "num": 177067,
+        "word": "何晟铭坦言是来蹭流量的",
+        "onboard_time": 1756017741,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170071,
+        "num": 170071,
+        "word": "6岁娃沙滩光脚踩到死鱼进了ICU",
+        "onboard_time": 1756019063,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152970,
+        "num": 152970,
+        "word": "这条路线藏了易烊千玺多少故事",
+        "onboard_time": 1756020023,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133866,
+        "num": 152555,
+        "word": "名人文创支持二创拒绝恶搞",
+        "onboard_time": 1756018942,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133511,
+        "num": 152058,
+        "word": "陈数李沁你俩根本没喝中药",
+        "onboard_time": 1756014862,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118303,
+        "num": 150953,
+        "word": "这短短40秒看得心酸",
+        "onboard_time": 1756016781,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80549,
+        "num": 149826,
+        "word": "权恩妃自曝极端节食减重",
+        "onboard_time": 1756015162,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10599,
+        "num": 148950,
+        "word": "部分地区透露育儿补贴申领开放时间",
+        "onboard_time": 1756020862,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153562,
+        "num": 148285,
+        "word": "美团退款",
+        "onboard_time": 1755993259,
+        "rank": 32,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 147788,
+        "num": 147788,
+        "word": "普通人40岁的真实状态",
+        "onboard_time": 1756018042,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145482,
+        "num": 145482,
+        "word": "原相机下的迅猛龙",
+        "onboard_time": 1756018042,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134750,
+        "num": 134750,
+        "word": "用微信步数判断是否已读",
+        "onboard_time": 1756008862,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131120,
+        "num": 131120,
+        "word": "新加坡马来人抗议中文优势",
+        "onboard_time": 1756011742,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130499,
+        "num": 130499,
+        "word": "林娜琏 浪姐7",
+        "onboard_time": 1756000282,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129685,
+        "num": 129685,
+        "word": "王玉雯说刘宇宁演唱会票老难抢了",
+        "onboard_time": 1756012642,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126446,
+        "num": 126446,
+        "word": "川航宋白金",
+        "onboard_time": 1756008142,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117371,
+        "num": 117371,
+        "word": "廖停雁终于切宝儿姐大号了",
+        "onboard_time": 1756018642,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114266,
+        "num": 114266,
+        "word": "宋轶新剧一出场就是主人级别",
+        "onboard_time": 1756020923,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114246,
+        "num": 114246,
+        "word": "看个电影无痛背下来了12个单词",
+        "onboard_time": 1756020262,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112389,
+        "num": 112389,
+        "word": "迪迪不畏迅猛龙没有恩怨全是胜负欲",
+        "onboard_time": 1756020803,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76388,
+        "num": 110439,
+        "word": "茶颜悦色联名手账本被指抄袭",
+        "onboard_time": 1756020144,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110120,
+        "num": 110120,
+        "word": "只有师范生才懂她有多强",
+        "onboard_time": 1756020741,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108967,
+        "num": 108967,
+        "word": "10秒看阅兵训练高燃场面",
+        "onboard_time": 1756020682,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102391,
+        "num": 102391,
+        "word": "毕雯珺从嗑到了到磕到了",
+        "onboard_time": 1756017322,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99719,
+        "num": 102003,
+        "word": "台湾大罢免 无一通过",
+        "onboard_time": 1756016901,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59415,
+        "num": 101809,
+        "word": "NBA缅怀科比",
+        "onboard_time": 1756017801,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#雪域情深#"
+    }
+  }
+}

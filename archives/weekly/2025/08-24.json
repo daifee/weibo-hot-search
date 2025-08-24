@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756020244455,
+  "endTime": 1756021055922,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1152477,
+      "num": 1184396,
+      "word": "热依扎公开临床诊断结果",
+      "onboard_time": 1756017322,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1103868,
       "num": 1176619,
       "word": "王牌对王牌9官宣",
@@ -99,11 +107,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 934078,
+      "num": 214668,
+      "word": "孟村",
+      "onboard_time": 1756016962,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 928205,
       "num": 321278,
       "word": "疑似许凯赵晴悄悄同居",
       "onboard_time": 1755941903,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 889117,
+      "num": 464361,
+      "word": "长得像迪丽热巴可以化妆成孙俪",
+      "onboard_time": 1756014442,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -139,36 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 781089,
-      "num": 464361,
-      "word": "长得像迪丽热巴可以化妆成孙俪",
-      "onboard_time": 1756014442,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 716164,
       "num": 716164,
       "word": "食脑虫",
       "onboard_time": 1755962007,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 708141,
-      "num": 1113302,
-      "word": "热依扎公开临床诊断结果",
-      "onboard_time": 1756017322,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 705613,
-      "num": 195099,
-      "word": "孟村",
-      "onboard_time": 1756016962,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 670385,
@@ -251,6 +251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 531392,
+      "num": 194068,
+      "word": "于正很早给许凯算过命",
+      "onboard_time": 1756018703,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520725,
       "num": 362647,
       "word": "存款100万靠利息生活的视频别太当真",
@@ -299,12 +307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487384,
+      "num": 487384,
+      "word": "茶颜悦色 抄袭",
+      "onboard_time": 1756017683,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484229,
       "num": 192839,
       "word": "生理性喜欢和心理性喜欢的区别",
       "onboard_time": 1756010782,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 484211,
+      "num": 201629,
+      "word": "将门毒后",
+      "onboard_time": 1756018582,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 483643,
@@ -379,28 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392166,
-      "num": 392166,
-      "word": "茶颜悦色 抄袭",
-      "onboard_time": 1756017683,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 388515,
       "num": 192961,
       "word": "川航宋白金",
       "onboard_time": 1756008142,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 379623,
-      "num": 179445,
-      "word": "于正很早给许凯算过命",
-      "onboard_time": 1756018703,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 377155,
@@ -481,14 +489,6 @@
       "onboard_time": 1756001423,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321404,
-      "num": 178432,
-      "word": "将门毒后",
-      "onboard_time": 1756018582,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 304255,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 233712,
-      "num": 175872,
+      "num": 177067,
       "word": "何晟铭坦言是来蹭流量的",
       "onboard_time": 1756017741,
       "rank": 23,
@@ -627,8 +627,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217662,
-      "num": 217662,
+      "raw_hot": 217888,
+      "num": 217888,
       "word": "曾舜晞夸丞磊晋江式演技",
       "onboard_time": 1756018642,
       "rank": 9,
@@ -673,6 +673,14 @@
       "onboard_time": 1755999142,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208359,
+      "num": 208359,
+      "word": "TMEA",
+      "onboard_time": 1756020322,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 207295,
@@ -963,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152970,
+      "num": 152970,
+      "word": "这条路线藏了易烊千玺多少故事",
+      "onboard_time": 1756020023,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152138,
       "num": 152138,
       "word": "廖停雁终于切宝儿姐大号了",
@@ -1003,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147788,
+      "num": 147788,
+      "word": "普通人40岁的真实状态",
+      "onboard_time": 1756018042,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147695,
       "num": 160286,
       "word": "沈腾说范丞丞是自己的综艺搭子",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1755944602,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145482,
+      "num": 145482,
+      "word": "原相机下的迅猛龙",
+      "onboard_time": 1756018042,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 145226,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1755999922,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140167,
-      "num": 140167,
-      "word": "原相机下的迅猛龙",
-      "onboard_time": 1756018042,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 139112,
@@ -1140,7 +1164,7 @@
     },
     {
       "raw_hot": 129339,
-      "num": 141125,
+      "num": 216736,
       "word": "市值124亿元公司拟用138亿元炒股理财",
       "onboard_time": 1756016842,
       "rank": 37,
@@ -1209,14 +1233,6 @@
       "onboard_time": 1755965784,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119779,
-      "num": 119779,
-      "word": "这条路线藏了易烊千玺多少故事",
-      "onboard_time": 1756020023,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 119649,
@@ -1307,6 +1323,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114266,
+      "num": 114266,
+      "word": "宋轶新剧一出场就是主人级别",
+      "onboard_time": 1756020923,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114246,
+      "num": 114246,
+      "word": "看个电影无痛背下来了12个单词",
+      "onboard_time": 1756020262,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 112389,
+      "num": 112389,
+      "word": "迪迪不畏迅猛龙没有恩怨全是胜负欲",
+      "onboard_time": 1756020803,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112362,
       "num": 112362,
       "word": "陈赫不语只一味地溺爱龚俊",
@@ -1323,12 +1363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111743,
-      "num": 125489,
-      "word": "普通人40岁的真实状态",
-      "onboard_time": 1756018042,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 110120,
+      "num": 110120,
+      "word": "只有师范生才懂她有多强",
+      "onboard_time": 1756020741,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 109863,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1756013783,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108967,
+      "num": 108967,
+      "word": "10秒看阅兵训练高燃场面",
+      "onboard_time": 1756020682,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108761,
@@ -1700,7 +1748,7 @@
     },
     {
       "raw_hot": 88139,
-      "num": 101479,
+      "num": 101809,
       "word": "NBA缅怀科比",
       "onboard_time": 1756017801,
       "rank": 49,
@@ -1755,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80549,
+      "num": 149826,
+      "word": "权恩妃自曝极端节食减重",
+      "onboard_time": 1756015162,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78912,
       "num": 95355,
       "word": "清澈明媚孙颖莎",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1756017922,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76388,
+      "num": 119989,
+      "word": "茶颜悦色联名手账本被指抄袭",
+      "onboard_time": 1756020144,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76260,
@@ -1803,20 +1867,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 71944,
-      "num": 119989,
-      "word": "茶颜悦色联名手账本被指抄袭",
-      "onboard_time": 1756020144,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71618,
       "num": 192151,
       "word": "尚界H5或颠覆20万级SUV市场格局",
       "onboard_time": 1756007003,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71527,
+      "num": 205723,
+      "word": "微博文化之夜郑州见",
+      "onboard_time": 1756020503,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 70661,
@@ -1833,14 +1897,6 @@
       "onboard_time": 1755988216,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 68522,
-      "num": 131232,
-      "word": "权恩妃自曝极端节食减重",
-      "onboard_time": 1756015162,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 67790,
@@ -2217,6 +2273,14 @@
       "onboard_time": 1756016842,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10599,
+      "num": 148950,
+      "word": "部分地区透露育儿补贴申领开放时间",
+      "onboard_time": 1756020862,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9220,
