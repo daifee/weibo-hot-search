@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/08/24 23:38:41
+本榜单时间：2025/01/01 00:26:38 ~ 2025/08/25 00:29:33
 </p>
 </blockquote>
 <p>
@@ -1617,6 +1617,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B2%B3%E5%8C%97%E4%B8%80%E5%A5%B3%E5%AD%90%E7%96%91%E5%AE%B6%E6%9A%B4%E5%8E%BB%E4%B8%96%23" target="weibo">
+警方通报河北一女子疑家暴去世（热度：4586270）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%BA%A7%E4%BD%8D%E5%9B%BE%23" target="weibo">
 微博之夜座位图（热度：4577904）
 </a>
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BE%84%E5%AD%907%E5%B9%B4%E5%AE%B6%E5%BA%AD%E9%9B%86%E4%BD%93%E5%8C%85%E5%BA%87%23" target="weibo">
 男子性侵侄子7年家庭集体包庇（热度：4144739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BC%A0%E5%A4%A7%E5%A4%A7%E6%9D%A8%E5%B9%82%E5%B7%B2%E7%BB%9D%E4%BA%A4%23" target="weibo">
-曝张大大杨幂已绝交（热度：4140602）
 </a>
 </li>
 

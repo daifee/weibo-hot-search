@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756049921987,
+  "endTime": 1756052973039,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2139,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4586270,
+      "num": 4586270,
+      "word": "警方通报河北一女子疑家暴去世",
+      "onboard_time": 1756051282,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 4577904,
       "num": 4577904,
       "word": "微博之夜座位图",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1747883421,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4140602,
-      "num": 294954,
-      "word": "曝张大大杨幂已绝交",
-      "onboard_time": 1737857357,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
