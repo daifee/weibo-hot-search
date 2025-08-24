@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756014087970,
+  "endTime": 1756017373962,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 860997,
+      "num": 1137759,
+      "word": "鲁迅长孙回应同款毛背心爆火",
+      "onboard_time": 1756012223,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 852297,
       "num": 316461,
       "word": "何晟铭透露离开电视圈原因",
@@ -187,19 +195,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 584237,
+      "num": 183618,
+      "word": "何晟铭回应结婚了吗",
+      "onboard_time": 1756012702,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582173,
       "num": 408203,
       "word": "田栩宁直播",
       "onboard_time": 1755951505,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 565359,
-      "num": 183618,
-      "word": "何晟铭回应结婚了吗",
-      "onboard_time": 1756012702,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -217,6 +225,14 @@
       "onboard_time": 1755997462,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 528033,
+      "num": 301717,
+      "word": "长得像迪丽热巴可以化妆成孙俪",
+      "onboard_time": 1756014442,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 520725,
@@ -259,20 +275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473158,
+      "num": 189037,
+      "word": "生理性喜欢和心理性喜欢的区别",
+      "onboard_time": 1756010782,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 447911,
       "num": 288786,
       "word": "易烊千玺被粉丝的尖叫声吓到了",
       "onboard_time": 1755960807,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 440021,
-      "num": 189037,
-      "word": "生理性喜欢和心理性喜欢的区别",
-      "onboard_time": 1756010782,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 421514,
@@ -289,6 +305,14 @@
       "onboard_time": 1755961947,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417618,
+      "num": 240607,
+      "word": "田曦薇我也就六七分美貌",
+      "onboard_time": 1756013422,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 414454,
@@ -411,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321640,
+      "num": 175142,
+      "word": "孟子义当伴娘旧照",
+      "onboard_time": 1756013363,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304255,
       "num": 304255,
       "word": "龙丹妮白敬亭抵达韩国",
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287159,
+      "num": 287159,
+      "word": "iPhone隐私屏幕模式",
+      "onboard_time": 1756010121,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 280849,
       "num": 280849,
       "word": "赖清德大罢免0比32惨败",
@@ -456,6 +496,22 @@
       "word": "10天后一起看阅兵",
       "onboard_time": 1755995962,
       "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 249860,
+      "num": 221988,
+      "word": "王玉雯说刘宇宁演唱会票老难抢了",
+      "onboard_time": 1756012642,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248750,
+      "num": 248750,
+      "word": "九三阅兵的标兵太帅了",
+      "onboard_time": 1756013542,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -563,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209090,
-      "num": 209090,
-      "word": "iPhone隐私屏幕模式",
-      "onboard_time": 1756010121,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 207295,
       "num": 192562,
       "word": "月亮姐姐 我没有产后抑郁症",
@@ -601,14 +649,6 @@
       "onboard_time": 1755996922,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200314,
-      "num": 200314,
-      "word": "王玉雯说刘宇宁演唱会票老难抢了",
-      "onboard_time": 1756012642,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 196662,
@@ -715,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176208,
-      "num": 176208,
-      "word": "田曦薇我也就六七分美貌",
-      "onboard_time": 1756013422,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176080,
       "num": 160682,
       "word": "外国人对中餐有多上瘾",
@@ -752,14 +784,6 @@
       "word": "广东大批台风预警发布",
       "onboard_time": 1756011984,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175153,
-      "num": 176380,
-      "word": "鲁迅长孙回应同款毛背心爆火",
-      "onboard_time": 1756012223,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -819,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160634,
+      "num": 160634,
+      "word": "陈数李沁你俩根本没喝中药",
+      "onboard_time": 1756014862,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158125,
       "num": 158125,
       "word": "关晓彤去了汪苏泷演唱会",
@@ -875,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148504,
+      "num": 148504,
+      "word": "广告偷时间",
+      "onboard_time": 1756012162,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147422,
       "num": 147422,
       "word": "郭敬明 小鞠本人白得发光",
@@ -889,6 +929,14 @@
       "onboard_time": 1756011143,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144818,
+      "num": 144818,
+      "word": "沈腾说范丞丞是自己的综艺搭子",
+      "onboard_time": 1756016781,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 142107,
@@ -912,14 +960,6 @@
       "word": "何晟铭 于老师点点滴滴都记在心里",
       "onboard_time": 1755999922,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 139637,
-      "num": 139637,
-      "word": "孟子义当伴娘旧照",
-      "onboard_time": 1756013363,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -947,14 +987,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 135411,
-      "num": 135411,
-      "word": "广告偷时间",
-      "onboard_time": 1756012162,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 135331,
       "num": 135331,
       "word": "从350斤到160斤的震撼",
@@ -979,12 +1011,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130123,
+      "num": 130123,
+      "word": "迪丽热巴有种气血很足的美",
+      "onboard_time": 1756015223,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128007,
       "num": 128007,
       "word": "林诗栋回应1比3落后惊天逆转",
       "onboard_time": 1755997341,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126733,
+      "num": 126733,
+      "word": "孟村",
+      "onboard_time": 1756016962,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125289,
@@ -1035,12 +1083,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 118416,
-      "num": 118416,
-      "word": "九三阅兵的标兵太帅了",
-      "onboard_time": 1756013542,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 119372,
+      "num": 119372,
+      "word": "刘轩丞杂志销售额",
+      "onboard_time": 1756015882,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118060,
@@ -1081,6 +1129,30 @@
       "onboard_time": 1755998243,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115562,
+      "num": 115562,
+      "word": "外国网友看韩国传统婚礼",
+      "onboard_time": 1756013904,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114919,
+      "num": 114919,
+      "word": "陈立农深圳街头拥抱",
+      "onboard_time": 1756015580,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112684,
+      "num": 112684,
+      "word": "市值124亿元公司拟用138亿元炒股理财",
+      "onboard_time": 1756016842,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112362,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1755990378,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108022,
+      "num": 108022,
+      "word": "上海近1000元7道菜的餐厅",
+      "onboard_time": 1756013242,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 107620,
@@ -1219,6 +1299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 103507,
+      "num": 103507,
+      "word": "将门毒后非拍不可吗",
+      "onboard_time": 1756015822,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103159,
       "num": 132359,
       "word": "最低工资迎来普调",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1756011202,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102584,
+      "num": 102584,
+      "word": "毕雯珺从嗑到了到磕到了",
+      "onboard_time": 1756017322,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102242,
@@ -1251,6 +1347,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101867,
+      "num": 101867,
+      "word": "Rapeter哭了",
+      "onboard_time": 1756017322,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101524,
+      "num": 101524,
+      "word": "男歌迷cos张韶涵",
+      "onboard_time": 1756014982,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101482,
       "num": 101482,
       "word": "张晚意开收割机",
@@ -1265,14 +1377,6 @@
       "onboard_time": 1755959429,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 100657,
-      "num": 100657,
-      "word": "外国网友看韩国传统婚礼",
-      "onboard_time": 1756013904,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 99918,
@@ -1329,6 +1433,14 @@
       "onboard_time": 1755965065,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98189,
+      "num": 98189,
+      "word": "热依扎公开临床诊断结果",
+      "onboard_time": 1756017322,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 97900,
@@ -1457,6 +1569,14 @@
       "onboard_time": 1756009702,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78912,
+      "num": 95355,
+      "word": "清澈明媚孙颖莎",
+      "onboard_time": 1756015642,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 76260,
@@ -1619,6 +1739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45299,
+      "num": 184261,
+      "word": "中国空间站有个现实版炼丹炉",
+      "onboard_time": 1756015223,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44824,
       "num": 281144,
       "word": "周深同款糖果花车营业中",
@@ -1648,6 +1776,22 @@
       "word": "505名死亡人员领的养老金追回了没有",
       "onboard_time": 1756011742,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37878,
+      "num": 145402,
+      "word": "台湾大罢免 无一通过",
+      "onboard_time": 1756016901,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 37691,
+      "num": 168131,
+      "word": "大连科技学院要求新生10天交齐学费",
+      "onboard_time": 1756016722,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1803,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22181,
+      "num": 112270,
+      "word": "董璇小酒窝手拉手合照",
+      "onboard_time": 1756016842,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22152,
       "num": 30526,
       "word": "中国香港组合男双冠军",
@@ -1857,6 +2009,14 @@
       "onboard_time": 1755980054,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14271,
+      "num": 112168,
+      "word": "孟鹤堂为产后妻子庆生",
+      "onboard_time": 1756016842,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 9220,
