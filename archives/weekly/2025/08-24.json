@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756007530047,
+  "endTime": 1756009976544,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -75,20 +75,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1102551,
+      "num": 362463,
+      "word": "许凯每次都选择了事业",
+      "onboard_time": 1756006043,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1052812,
       "num": 1168449,
       "word": "休假护士咬掉穿戴甲300秒极限救人",
       "onboard_time": 1755992959,
       "rank": 0,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 949279,
-      "num": 362463,
-      "word": "许凯每次都选择了事业",
-      "onboard_time": 1756006043,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 949110,
@@ -115,20 +115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 783209,
+      "num": 292626,
+      "word": "黄杨钿甜中戏开学路透",
+      "onboard_time": 1756005983,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 746313,
+      "num": 282412,
+      "word": "川航女空乘被骚扰离职",
+      "onboard_time": 1756006581,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 716164,
       "num": 716164,
       "word": "食脑虫",
       "onboard_time": 1755962007,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 711696,
-      "num": 292626,
-      "word": "黄杨钿甜中戏开学路透",
-      "onboard_time": 1756005983,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 670385,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537011,
+      "num": 283026,
+      "word": "清朝状元的名字毫无网红感",
+      "onboard_time": 1756006943,
+      "rank": 17,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 534620,
       "num": 280131,
       "word": "美国多地现变异动物",
@@ -243,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 421514,
+      "num": 421514,
+      "word": "长期熬夜后快速恢复精力的5个技巧",
+      "onboard_time": 1756002981,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 419827,
       "num": 419827,
       "word": "10元车费乘客误付14万的哥报警",
@@ -291,16 +315,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 375475,
-      "num": 283026,
-      "word": "清朝状元的名字毫无网红感",
-      "onboard_time": 1756006943,
-      "rank": 17,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 374274,
-      "num": 374274,
+      "num": 507137,
       "word": "阅兵唯一无伴奏自己踩点的方队",
       "onboard_time": 1755994520,
       "rank": 8,
@@ -363,11 +379,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305914,
-      "num": 282412,
-      "word": "川航女空乘被骚扰离职",
-      "onboard_time": 1756006581,
-      "rank": 44,
+      "raw_hot": 318532,
+      "num": 192961,
+      "word": "川航宋白金",
+      "onboard_time": 1756008142,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -395,20 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 288261,
-      "num": 288261,
-      "word": "长期熬夜后快速恢复精力的5个技巧",
-      "onboard_time": 1756002981,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 280849,
       "num": 280849,
       "word": "赖清德大罢免0比32惨败",
       "onboard_time": 1755963266,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 263014,
+      "num": 263014,
+      "word": "热依扎肋骨骨折",
+      "onboard_time": 1756007302,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 262105,
@@ -507,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207295,
+      "num": 192562,
+      "word": "月亮姐姐 我没有产后抑郁症",
+      "onboard_time": 1756007901,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200966,
       "num": 200966,
       "word": "银子结局",
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 186261,
-      "num": 186261,
+      "num": 192399,
       "word": "王曼昱担心马琳拉伤胳膊",
       "onboard_time": 1756006401,
       "rank": 40,
@@ -569,6 +593,14 @@
       "onboard_time": 1755993740,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182690,
+      "num": 182690,
+      "word": "新疆偶遇了李现",
+      "onboard_time": 1756008501,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 182596,
@@ -611,12 +643,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171692,
+      "num": 171692,
+      "word": "丞磊主人级别的人生镜头",
+      "onboard_time": 1756008743,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170390,
       "num": 170390,
       "word": "怪不得领导这么喜欢上班",
       "onboard_time": 1755999742,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169039,
+      "num": 169039,
+      "word": "用微信步数判断是否已读",
+      "onboard_time": 1756008862,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 168813,
+      "num": 168813,
+      "word": "檀健次顶级魅魔",
+      "onboard_time": 1756008984,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 164499,
@@ -675,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151180,
+      "num": 151180,
+      "word": "光与夜之恋",
+      "onboard_time": 1756002082,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151090,
       "num": 151090,
       "word": "轩辕剑短剧",
@@ -705,6 +769,14 @@
       "onboard_time": 1755959907,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140990,
+      "num": 162684,
+      "word": "信用卡 年费",
+      "onboard_time": 1756006103,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140480,
@@ -747,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133125,
-      "num": 148689,
-      "word": "信用卡 年费",
-      "onboard_time": 1756006103,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128007,
       "num": 128007,
       "word": "林诗栋回应1比3落后惊天逆转",
@@ -769,6 +833,14 @@
       "onboard_time": 1756002143,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120654,
+      "num": 120654,
+      "word": "丞磊承包了我的整个暑假",
+      "onboard_time": 1756009824,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120518,
@@ -801,6 +873,14 @@
       "onboard_time": 1755999263,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117696,
+      "num": 110443,
+      "word": "从350斤到160斤的震撼",
+      "onboard_time": 1756007723,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 117178,
@@ -851,14 +931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109117,
-      "num": 109117,
-      "word": "光与夜之恋",
-      "onboard_time": 1756002082,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 108761,
       "num": 108761,
       "word": "林诗栋4比3西蒙高茨",
@@ -884,7 +956,7 @@
     },
     {
       "raw_hot": 107025,
-      "num": 107025,
+      "num": 192769,
       "word": "俄乌领土交换将以非正式方式进行",
       "onboard_time": 1755993800,
       "rank": 44,
@@ -947,6 +1019,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 101897,
+      "num": 191952,
+      "word": "宋佳佟丽娅你俩根本没喝中药",
+      "onboard_time": 1756008323,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100759,
       "num": 100759,
       "word": "今天你要嫁给我",
@@ -1001,6 +1081,14 @@
       "onboard_time": 1755965065,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97900,
+      "num": 141422,
+      "word": "书包刮到门禁杆 物业索赔1600元",
+      "onboard_time": 1756008743,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97617,
@@ -1107,14 +1195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 79669,
-      "num": 152293,
-      "word": "热依扎肋骨骨折",
-      "onboard_time": 1756007302,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76260,
       "num": 131521,
       "word": "宋亚轩滑滑梯",
@@ -1137,6 +1217,14 @@
       "onboard_time": 1755970100,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 71618,
+      "num": 192151,
+      "word": "尚界H5或颠覆20万级SUV市场格局",
+      "onboard_time": 1756007003,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 70661,
@@ -1169,14 +1257,6 @@
       "onboard_time": 1755952466,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66874,
-      "num": 187456,
-      "word": "尚界H5或颠覆20万级SUV市场格局",
-      "onboard_time": 1756007003,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 61267,
@@ -1241,6 +1321,22 @@
       "onboard_time": 1755954446,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 49069,
+      "num": 159677,
+      "word": "金正恩泪洒援俄阵亡士兵遗像前",
+      "onboard_time": 1756009944,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48030,
+      "num": 155172,
+      "word": "生万物开局一群人结局一堆坟",
+      "onboard_time": 1756009702,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 47898,
@@ -1427,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20566,
+      "num": 153357,
+      "word": "小伙子救起落水儿童结局太意外",
+      "onboard_time": 1756009523,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19923,
       "num": 124505,
       "word": "男子侵占公司4.4公斤黄金打赏主播",
@@ -1481,6 +1585,9 @@
     },
     {
       "word": "#习近平引经据典话上合#"
+    },
+    {
+      "word": "#雪域情深#"
     }
   ]
 }
