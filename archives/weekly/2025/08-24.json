@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756053858872,
+  "endTime": 1756056091691,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 748594,
+      "num": 528664,
+      "word": "赵志伟回复网友评论",
+      "onboard_time": 1756053141,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 716164,
       "num": 716164,
       "word": "食脑虫",
@@ -505,6 +513,14 @@
       "onboard_time": 1756044385,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 521570,
+      "num": 521570,
+      "word": "女子戴牙套5年坏了8颗牙",
+      "onboard_time": 1756054819,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 520725,
@@ -747,6 +763,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398763,
+      "num": 398763,
+      "word": "98岁老人头上长皮角自行剪除",
+      "onboard_time": 1756053621,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396935,
+      "num": 233445,
+      "word": "女子疑家暴去世其丈夫婆婆被刑拘",
+      "onboard_time": 1756051942,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 388515,
       "num": 192961,
       "word": "川航宋白金",
@@ -971,14 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268225,
-      "num": 233445,
-      "word": "女子疑家暴去世其丈夫婆婆被刑拘",
-      "onboard_time": 1756051942,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 265149,
       "num": 241912,
       "word": "脂肪肝是全身性疾病的报警信号",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1756033644,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249932,
-      "num": 249932,
-      "word": "98岁老人头上长皮角自行剪除",
-      "onboard_time": 1756053621,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249930,
@@ -1387,6 +1403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195160,
+      "num": 195160,
+      "word": "孙颖莎女单冠军自拍",
+      "onboard_time": 1756054819,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195095,
       "num": 195095,
       "word": "朱正廷长相不基础演技也不基础",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1756040365,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192568,
+      "num": 104127,
+      "word": "每天只睡6个小时身体的变化",
+      "onboard_time": 1756052903,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192464,
@@ -1739,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175532,
+      "num": 175532,
+      "word": "女子系钝性外力作用致颅脑损伤死亡",
+      "onboard_time": 1756052183,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175522,
       "num": 364139,
       "word": "茶颜悦色回应",
@@ -1905,14 +1945,6 @@
       "onboard_time": 1756024582,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165594,
-      "num": 165594,
-      "word": "赵志伟回复网友评论",
-      "onboard_time": 1756053141,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 165517,
@@ -3203,6 +3235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104454,
+      "num": 104454,
+      "word": "孙颖莎瑞典夺冠",
+      "onboard_time": 1756054819,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104345,
       "num": 104345,
       "word": "王影璐献鱼重生之对家变我爹",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1756001602,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103631,
+      "num": 103631,
+      "word": "王曼昱12比10孙颖莎",
+      "onboard_time": 1756053859,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 103159,
@@ -3329,14 +3377,6 @@
       "onboard_time": 1756014020,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99647,
-      "num": 135635,
-      "word": "女子系钝性外力作用致颅脑损伤死亡",
-      "onboard_time": 1756052183,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99595,
@@ -3513,14 +3553,6 @@
       "onboard_time": 1756026142,
       "rank": 47,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 92142,
-      "num": 92142,
-      "word": "每天只睡6个小时身体的变化",
-      "onboard_time": 1756052903,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 91788,
@@ -3779,6 +3811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67254,
+      "num": 67254,
+      "word": "大凉山里那些花儿歌声的力量",
+      "onboard_time": 1756055238,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63456,
       "num": 331201,
       "word": "海军方队平均年龄不到21岁",
@@ -3835,6 +3875,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 55444,
+      "num": 55444,
+      "word": "WTT欧洲大满贯瑞典站冠军奖杯亮相",
+      "onboard_time": 1756053921,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54342,
       "num": 283090,
       "word": "郑州的文化氛围感拉满",
@@ -3889,6 +3937,14 @@
       "onboard_time": 1755954446,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 48878,
+      "num": 55443,
+      "word": "王曼昱亚军",
+      "onboard_time": 1756053921,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 48513,
@@ -4129,6 +4185,14 @@
       "onboard_time": 1755974176,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27410,
+      "num": 104625,
+      "word": "清华食堂回应餐具被挂二手平台",
+      "onboard_time": 1756055777,
+      "rank": 20,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 27299,
