@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756074266790,
+  "endTime": 1756075299812,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307756,
+      "num": 307756,
+      "word": "莫雷加德男单冠军",
+      "onboard_time": 1756061055,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278175,
       "num": 278175,
       "word": "日本博主惊叹中国外卖袋",
@@ -177,14 +185,6 @@
       "onboard_time": 1756050564,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223065,
-      "num": 223065,
-      "word": "莫雷加德男单冠军",
-      "onboard_time": 1756061055,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 210464,
@@ -419,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98772,
+      "num": 95868,
+      "word": "何晟铭和于正拍了13部戏",
+      "onboard_time": 1756064775,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97512,
       "num": 97512,
       "word": "易烊千玺这声哦呦",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 92397,
-      "num": 92396,
+      "num": 96008,
       "word": "反诈老陈打假嘎子哥所售699元手机",
       "onboard_time": 1756044926,
       "rank": 46,
@@ -491,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78767,
-      "num": 78767,
-      "word": "何晟铭和于正拍了13部戏",
-      "onboard_time": 1756064775,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 76387,
       "num": 76387,
       "word": "孙颖莎说本场比赛没有失败者",
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64268,
+      "num": 64268,
+      "word": "谢娜不基础谢娜妈妈更不基础",
+      "onboard_time": 1756069815,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58369,
       "num": 58369,
       "word": "孙颖莎4比2王曼昱",
@@ -553,6 +561,14 @@
       "onboard_time": 1756060817,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53280,
+      "num": 53280,
+      "word": "南京6头野猪10多分钟横渡长江",
+      "onboard_time": 1756071315,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49700,
@@ -595,28 +611,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38946,
-      "num": 38946,
-      "word": "南京6头野猪10多分钟横渡长江",
-      "onboard_time": 1756071315,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37751,
       "num": 172747,
       "word": "高燃踩点看阅兵演练",
       "onboard_time": 1756044385,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 36536,
-      "num": 59224,
-      "word": "谢娜不基础谢娜妈妈更不基础",
-      "onboard_time": 1756069815,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 28506,
@@ -633,6 +633,14 @@
       "onboard_time": 1756060217,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25430,
+      "num": 43974,
+      "word": "从1写到500给200块",
+      "onboard_time": 1756059436,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23338,
@@ -665,14 +673,6 @@
       "onboard_time": 1756064115,
       "rank": 32,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 21001,
-      "num": 29592,
-      "word": "从1写到500给200块",
-      "onboard_time": 1756059436,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20724,
