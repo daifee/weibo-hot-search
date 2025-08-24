@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756024203757,
+  "endTime": 1756024986212,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -881,6 +881,14 @@
       "onboard_time": 1754625443,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2135751,
+      "num": 342189,
+      "word": "孟村金昊杀妻",
+      "onboard_time": 1756022904,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2133736,
@@ -4241,14 +4249,6 @@
       "onboard_time": 1754032042,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1013295,
-      "num": 342189,
-      "word": "孟村金昊杀妻",
-      "onboard_time": 1756022904,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1012276,
@@ -8073,6 +8073,14 @@
       "onboard_time": 1755520101,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 669086,
+      "num": 1107053,
+      "word": "杨幂爆剧玄学",
+      "onboard_time": 1756023142,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 668851,
@@ -13579,14 +13587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 435867,
-      "num": 435867,
-      "word": "杨幂爆剧玄学",
-      "onboard_time": 1756023142,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 434976,
       "num": 240418,
       "word": "苏醒含银量",
@@ -17459,6 +17459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331822,
+      "num": 265087,
+      "word": "何晟铭坦言是来蹭流量的",
+      "onboard_time": 1756017741,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331815,
       "num": 331815,
       "word": "赵露思直播安利竹荪",
@@ -21179,6 +21187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266395,
+      "num": 174057,
+      "word": "50人寝室",
+      "onboard_time": 1756022723,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266391,
       "num": 266391,
       "word": "孙楠长成大姑娘了",
@@ -21265,14 +21281,6 @@
       "onboard_time": 1755933862,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 265087,
-      "num": 265087,
-      "word": "何晟铭坦言是来蹭流量的",
-      "onboard_time": 1756017741,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 265000,
@@ -24001,6 +24009,14 @@
       "onboard_time": 1755610886,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 230412,
+      "num": 436146,
+      "word": "CPA财管",
+      "onboard_time": 1756021342,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 230200,
@@ -28857,14 +28873,6 @@
       "onboard_time": 1754217204,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199637,
-      "num": 436146,
-      "word": "CPA财管",
-      "onboard_time": 1756021342,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 199616,
@@ -38691,6 +38699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163914,
+      "num": 163914,
+      "word": "崔鹏说曾经暗恋董璇4年",
+      "onboard_time": 1756023442,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163912,
       "num": 163912,
       "word": "国王与乞丐的含金量还在上升",
@@ -40883,6 +40899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158007,
+      "num": 158007,
+      "word": "TMEA直播",
+      "onboard_time": 1756024343,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157927,
       "num": 239295,
       "word": "妈妈带两孩子避雨称遭保安驱赶",
@@ -41073,6 +41097,14 @@
       "onboard_time": 1755323122,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157456,
+      "num": 157456,
+      "word": "16加8轻断食4个月减脂近四分之一",
+      "onboard_time": 1756022302,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157440,
@@ -41665,6 +41697,14 @@
       "onboard_time": 1755682104,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155500,
+      "num": 155500,
+      "word": "TMEA盛典这么顶吗",
+      "onboard_time": 1756024762,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 155479,
@@ -43857,14 +43897,6 @@
       "onboard_time": 1755943702,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149379,
-      "num": 149379,
-      "word": "16加8轻断食4个月减脂近四分之一",
-      "onboard_time": 1756022302,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149371,
@@ -49219,14 +49251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 136957,
-      "num": 136957,
-      "word": "50人寝室",
-      "onboard_time": 1756022723,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136946,
       "num": 136946,
       "word": "胖东来回应招聘服刑人员",
@@ -49857,6 +49881,14 @@
       "onboard_time": 1755940762,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135566,
+      "num": 135566,
+      "word": "张峻豪走红毯紧张了",
+      "onboard_time": 1756024102,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 135555,
@@ -50537,6 +50569,14 @@
       "onboard_time": 1755943762,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134150,
+      "num": 201931,
+      "word": "多人在酒店公寓卖淫嫖娼被当场抓获",
+      "onboard_time": 1756024403,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134139,
@@ -51281,6 +51321,14 @@
       "onboard_time": 1754626525,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132508,
+      "num": 132508,
+      "word": "怪不得小说里一套头面争得那么厉害",
+      "onboard_time": 1756023983,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 132487,
@@ -60179,6 +60227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113726,
+      "num": 189154,
+      "word": "文化奇迹之旅",
+      "onboard_time": 1756024642,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113703,
       "num": 113703,
       "word": "腾讯视频JUMPPARK",
@@ -60233,14 +60289,6 @@
       "onboard_time": 1755498022,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113607,
-      "num": 113607,
-      "word": "怪不得小说里一套头面争得那么厉害",
-      "onboard_time": 1756023983,
-      "rank": 43,
-      "category": "休闲"
     },
     {
       "raw_hot": 113583,
@@ -62545,14 +62593,6 @@
       "onboard_time": 1755513022,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108673,
-      "num": 108673,
-      "word": "张峻豪走红毯紧张了",
-      "onboard_time": 1756024102,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 108669,
@@ -65011,20 +65051,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102320,
+      "num": 120251,
+      "word": "海南已转移21681人上岸",
+      "onboard_time": 1756022602,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102296,
       "num": 102296,
       "word": "14岁女生被殴打校外霸凌须校内防",
       "onboard_time": 1754319087,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 102259,
-      "num": 115452,
-      "word": "崔鹏说曾经暗恋董璇4年",
-      "onboard_time": 1756023442,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 102249,
@@ -65737,6 +65777,14 @@
       "onboard_time": 1754391983,
       "rank": 41,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 100412,
+      "num": 100412,
+      "word": "当我从不早起但是酒店有免费早餐",
+      "onboard_time": 1756024942,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 100401,
@@ -66664,14 +66712,6 @@
       "word": "今年立秋属于晚立秋",
       "onboard_time": 1754391803,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97769,
-      "num": 120251,
-      "word": "海南已转移21681人上岸",
-      "onboard_time": 1756022602,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -69585,6 +69625,14 @@
       "onboard_time": 1754192667,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87843,
+      "num": 99829,
+      "word": "秦彻rua肚皮",
+      "onboard_time": 1756024343,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 87834,
@@ -77043,6 +77091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44944,
+      "num": 181189,
+      "word": "因漂流走红小孩哥哥回应带货",
+      "onboard_time": 1756024582,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44921,
       "num": 239434,
       "word": "陈可辛每一帧都是S级的",
@@ -79115,6 +79171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34413,
+      "num": 112573,
+      "word": "张婧仪出片速度",
+      "onboard_time": 1756024642,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34378,
       "num": 143080,
       "word": "逃至英国乱港分子现状",
@@ -80625,6 +80689,14 @@
       "onboard_time": 1755886397,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26326,
+      "num": 112469,
+      "word": "没认出朴叙俊",
+      "onboard_time": 1756024222,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 26251,
