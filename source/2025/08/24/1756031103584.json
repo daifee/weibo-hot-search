@@ -1,0 +1,410 @@
+{
+  "runTime": 1756031103584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1527570,
+        "num": 1527570,
+        "word": "阳光玫瑰 沦为路边摊水果",
+        "onboard_time": 1756025602,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1014971,
+        "num": 1014971,
+        "word": "河北一女子去世疑与丈夫家暴有关",
+        "onboard_time": 1756029743,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 10502,
+        "num": 636975,
+        "word": "阅兵唯一无伴奏自己踩点的方队",
+        "onboard_time": 1755994520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 584508,
+        "num": 584508,
+        "word": "Melody说在追杨幂的生万物",
+        "onboard_time": 1756025003,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460956,
+        "num": 460956,
+        "word": "中国中铁回应尖扎黄河特大桥事故",
+        "onboard_time": 1756026981,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549136,
+        "num": 459069,
+        "word": "生万物被指农村玛丽苏",
+        "onboard_time": 1756026922,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456408,
+        "num": 456408,
+        "word": "王艳富豪丈夫已被限消",
+        "onboard_time": 1756029383,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359311,
+        "num": 446603,
+        "word": "迪丽热巴金色吊带闪片长裙",
+        "onboard_time": 1756029502,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 539991,
+        "num": 443903,
+        "word": "杨幂爆剧玄学",
+        "onboard_time": 1756023142,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168764,
+        "num": 438250,
+        "word": "阳光玫瑰为何从超商走向地摊",
+        "onboard_time": 1756028842,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438146,
+        "num": 438146,
+        "word": "月薪3万存2万五的真实生活",
+        "onboard_time": 1756027282,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257615,
+        "num": 436401,
+        "word": "茶颜悦色 抄袭",
+        "onboard_time": 1756017683,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436354,
+        "num": 436354,
+        "word": "何晟铭坦言是来蹭流量的",
+        "onboard_time": 1756017741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367268,
+        "num": 367268,
+        "word": "黄多多好漂亮",
+        "onboard_time": 1756000222,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332466,
+        "num": 332466,
+        "word": "井胧不希望井迪结婚",
+        "onboard_time": 1756028903,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326841,
+        "num": 326841,
+        "word": "崔鹏说曾经暗恋董璇4年",
+        "onboard_time": 1756023442,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309435,
+        "num": 309435,
+        "word": "许凯每次都选择了事业",
+        "onboard_time": 1756006043,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247099,
+        "num": 247099,
+        "word": "多人在酒店公寓卖淫嫖娼被当场抓获",
+        "onboard_time": 1756024403,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203463,
+        "num": 203463,
+        "word": "国漫史上第一部大女主",
+        "onboard_time": 1756028842,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 160020,
+        "num": 203013,
+        "word": "多方回应女子去世疑与丈夫家暴有关",
+        "onboard_time": 1756031003,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 768882,
+        "num": 201696,
+        "word": "热依扎公开临床诊断结果",
+        "onboard_time": 1756017322,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276308,
+        "num": 199842,
+        "word": "将门毒后",
+        "onboard_time": 1756018582,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225939,
+        "num": 198893,
+        "word": "50人寝室",
+        "onboard_time": 1756022723,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197817,
+        "num": 197817,
+        "word": "长得像迪丽热巴可以化妆成孙俪",
+        "onboard_time": 1756014442,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189635,
+        "num": 189635,
+        "word": "武祯妆造火到西安了",
+        "onboard_time": 1756030224,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187812,
+        "num": 187812,
+        "word": "王一博分享攀岩照",
+        "onboard_time": 1756022003,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183389,
+        "num": 183389,
+        "word": "谍报上不封顶",
+        "onboard_time": 1756022242,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168462,
+        "num": 168462,
+        "word": "一个月减10斤有多恐怖",
+        "onboard_time": 1756025721,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168384,
+        "num": 168384,
+        "word": "周也Amber电竞姐妹花",
+        "onboard_time": 1756030343,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157975,
+        "num": 157975,
+        "word": "KT对战T1",
+        "onboard_time": 1756030403,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152817,
+        "num": 152817,
+        "word": "男子骗9旬老太遗产骨灰撒山野",
+        "onboard_time": 1756029622,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138709,
+        "num": 138709,
+        "word": "林诗栋做到了和偶像樊振东一样热血",
+        "onboard_time": 1756030224,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128122,
+        "num": 128122,
+        "word": "孔雪儿不基础粉丝更不基础",
+        "onboard_time": 1756029802,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128103,
+        "num": 128103,
+        "word": "原来严浩翔才是马嘉祺的暴躁开关",
+        "onboard_time": 1756028962,
+        "rank": 33,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 127573,
+        "num": 127573,
+        "word": "于正很早给许凯算过命",
+        "onboard_time": 1756018703,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119741,
+        "num": 119741,
+        "word": "张极 依旧帅气了啦",
+        "onboard_time": 1756029861,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119621,
+        "num": 119621,
+        "word": "苏新皓晒童年照",
+        "onboard_time": 1756029923,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116767,
+        "num": 116767,
+        "word": "欧阳娣娣00后脑子就是新",
+        "onboard_time": 1756029082,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115396,
+        "num": 115396,
+        "word": "小区有人高空抛食致多条宠物狗死亡",
+        "onboard_time": 1756027523,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43361,
+        "num": 115305,
+        "word": "公安局副局长赤膊上阵扑倒骗子",
+        "onboard_time": 1756030282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115288,
+        "num": 115288,
+        "word": "宋轶分享欲犯了",
+        "onboard_time": 1756027822,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113296,
+        "num": 113296,
+        "word": "周深又又又在TMEA迷路了",
+        "onboard_time": 1756030343,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113142,
+        "num": 113142,
+        "word": "不敢想10天后的大阅兵多壮观",
+        "onboard_time": 1756030102,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110361,
+        "num": 110361,
+        "word": "TMEA",
+        "onboard_time": 1756020322,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109538,
+        "num": 109538,
+        "word": "管乐说和张小婉的关系像恋爱",
+        "onboard_time": 1756028483,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108491,
+        "num": 108491,
+        "word": "季肖冰与晋长安拿的黑莲花剧本",
+        "onboard_time": 1756030824,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105765,
+        "num": 105765,
+        "word": "川航女空乘被骚扰离职",
+        "onboard_time": 1756006581,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104345,
+        "num": 104345,
+        "word": "王影璐献鱼重生之对家变我爹",
+        "onboard_time": 1756030041,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103398,
+        "num": 103398,
+        "word": "李荣浩退场方式从哪里进修的",
+        "onboard_time": 1756031062,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97679,
+        "num": 97679,
+        "word": "你以为是身材缺陷其实是健康表现",
+        "onboard_time": 1756029923,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#雪域情深#"
+    }
+  }
+}
