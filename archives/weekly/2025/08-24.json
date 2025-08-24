@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756009976544,
+  "endTime": 1756010822104,
   "band_list": [
     {
       "raw_hot": 2023781,
@@ -115,20 +115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 839162,
+      "num": 282412,
+      "word": "川航女空乘被骚扰离职",
+      "onboard_time": 1756006581,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 783209,
       "num": 292626,
       "word": "黄杨钿甜中戏开学路透",
       "onboard_time": 1756005983,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 746313,
-      "num": 282412,
-      "word": "川航女空乘被骚扰离职",
-      "onboard_time": 1756006581,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 716164,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345744,
+      "num": 192961,
+      "word": "川航宋白金",
+      "onboard_time": 1756008142,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335305,
       "num": 335305,
       "word": "接连2名儿童感染食脑虫去世",
@@ -379,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318532,
-      "num": 192961,
-      "word": "川航宋白金",
-      "onboard_time": 1756008142,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 304255,
       "num": 304255,
       "word": "龙丹妮白敬亭抵达韩国",
@@ -401,6 +401,14 @@
       "onboard_time": 1755993800,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297510,
+      "num": 297510,
+      "word": "热依扎肋骨骨折",
+      "onboard_time": 1756007302,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 292631,
@@ -419,14 +427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 263014,
-      "num": 263014,
-      "word": "热依扎肋骨骨折",
-      "onboard_time": 1756007302,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262105,
       "num": 262105,
       "word": "台湾大罢免投票结果出炉",
@@ -441,6 +441,14 @@
       "onboard_time": 1755995962,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 247148,
+      "num": 186306,
+      "word": "生理性喜欢和心理性喜欢的区别",
+      "onboard_time": 1756010782,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 246394,
@@ -515,6 +523,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212595,
+      "num": 185563,
+      "word": "第一个发明屁股假的是天才",
+      "onboard_time": 1756010602,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 210835,
+      "num": 210835,
+      "word": "信用卡 年费",
+      "onboard_time": 1756006103,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209482,
       "num": 215555,
       "word": "与晋长安开播",
@@ -531,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204147,
+      "num": 184996,
+      "word": "齐司礼生日活动",
+      "onboard_time": 1756010242,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200966,
       "num": 200966,
       "word": "银子结局",
@@ -545,6 +577,14 @@
       "onboard_time": 1755996922,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196662,
+      "num": 196662,
+      "word": "李芊语中戏报到",
+      "onboard_time": 1756010302,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 189584,
@@ -611,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181716,
+      "num": 181716,
+      "word": "用微信步数判断是否已读",
+      "onboard_time": 1756008862,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179375,
       "num": 179375,
       "word": "cf",
@@ -659,14 +707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169039,
-      "num": 169039,
-      "word": "用微信步数判断是否已读",
-      "onboard_time": 1756008862,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168813,
       "num": 168813,
       "word": "檀健次顶级魅魔",
@@ -697,6 +737,14 @@
       "onboard_time": 1755985216,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161428,
+      "num": 161428,
+      "word": "iPhone隐私屏幕模式",
+      "onboard_time": 1756010121,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 158125,
@@ -771,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140990,
-      "num": 162684,
-      "word": "信用卡 年费",
-      "onboard_time": 1756006103,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140480,
       "num": 140480,
       "word": "何晟铭 于老师点点滴滴都记在心里",
@@ -811,6 +851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135331,
+      "num": 135331,
+      "word": "从350斤到160斤的震撼",
+      "onboard_time": 1756007723,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 134656,
       "num": 134656,
       "word": "大妈机上换座被拒后闹事",
@@ -819,12 +867,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131204,
+      "num": 131204,
+      "word": "王源新歌全明星制作阵容",
+      "onboard_time": 1756010782,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128007,
       "num": 128007,
       "word": "林诗栋回应1比3落后惊天逆转",
       "onboard_time": 1755997341,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125289,
+      "num": 125289,
+      "word": "韩国女生减脂100天的真实变化",
+      "onboard_time": 1756010423,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 122016,
@@ -873,14 +937,6 @@
       "onboard_time": 1755999263,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117696,
-      "num": 110443,
-      "word": "从350斤到160斤的震撼",
-      "onboard_time": 1756007723,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 117178,
@@ -1195,6 +1251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82056,
+      "num": 155172,
+      "word": "生万物开局一群人结局一堆坟",
+      "onboard_time": 1756009702,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76260,
       "num": 131521,
       "word": "宋亚轩滑滑梯",
@@ -1259,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63369,
+      "num": 159677,
+      "word": "金正恩泪洒援俄阵亡士兵遗像前",
+      "onboard_time": 1756009944,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61267,
       "num": 132320,
       "word": "迪丽热巴说二次元妹妹叫迪丽冷巴",
@@ -1321,22 +1393,6 @@
       "onboard_time": 1755954446,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 49069,
-      "num": 159677,
-      "word": "金正恩泪洒援俄阵亡士兵遗像前",
-      "onboard_time": 1756009944,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 48030,
-      "num": 155172,
-      "word": "生万物开局一群人结局一堆坟",
-      "onboard_time": 1756009702,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 47898,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1755990677,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31554,
+      "num": 147753,
+      "word": "7旬老人信访遭辱骂",
+      "onboard_time": 1756010121,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30124,

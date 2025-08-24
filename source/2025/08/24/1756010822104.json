@@ -1,0 +1,410 @@
+{
+  "runTime": 1756010822104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 723177,
+        "num": 1115708,
+        "word": "王牌对王牌9官宣",
+        "onboard_time": 1756003461,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556463,
+        "num": 556463,
+        "word": "休假护士咬掉穿戴甲300秒极限救人",
+        "onboard_time": 1755992959,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128036,
+        "num": 418465,
+        "word": "阅兵唯一无伴奏自己踩点的方队",
+        "onboard_time": 1755994520,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 315677,
+        "num": 315677,
+        "word": "长期熬夜后快速恢复精力的5个技巧",
+        "onboard_time": 1756002981,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297510,
+        "num": 297510,
+        "word": "热依扎肋骨骨折",
+        "onboard_time": 1756007302,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220466,
+        "num": 220466,
+        "word": "山东通报505名死亡人员被发养老保险",
+        "onboard_time": 1755993680,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210835,
+        "num": 210835,
+        "word": "信用卡 年费",
+        "onboard_time": 1756006103,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196662,
+        "num": 196662,
+        "word": "李芊语中戏报到",
+        "onboard_time": 1756010302,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193197,
+        "num": 193197,
+        "word": "用信用卡12年才知每年被扣2600元",
+        "onboard_time": 1756000763,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189161,
+        "num": 189161,
+        "word": "10天后一起看阅兵",
+        "onboard_time": 1755995962,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1048394,
+        "num": 189125,
+        "word": "许凯每次都选择了事业",
+        "onboard_time": 1756006043,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1030894,
+        "num": 188799,
+        "word": "黄多多好漂亮",
+        "onboard_time": 1756000222,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 839162,
+        "num": 188626,
+        "word": "川航女空乘被骚扰离职",
+        "onboard_time": 1756006581,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739538,
+        "num": 188454,
+        "word": "黄杨钿甜中戏开学路透",
+        "onboard_time": 1756005983,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536525,
+        "num": 188281,
+        "word": "美团退款",
+        "onboard_time": 1755993259,
+        "rank": 14,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 535331,
+        "num": 188006,
+        "word": "清朝状元的名字毫无网红感",
+        "onboard_time": 1756006943,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 345744,
+        "num": 187932,
+        "word": "川航宋白金",
+        "onboard_time": 1756008142,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39753,
+        "num": 187705,
+        "word": "周深同款糖果花车营业中",
+        "onboard_time": 1756006463,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324808,
+        "num": 187438,
+        "word": "许荔莎休战半个月",
+        "onboard_time": 1755967642,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280837,
+        "num": 187331,
+        "word": "何晟铭谈和于正出现分歧原因",
+        "onboard_time": 1756005144,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178965,
+        "num": 187075,
+        "word": "与晋长安开播",
+        "onboard_time": 1755999142,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482487,
+        "num": 186983,
+        "word": "林娜琏 浪姐7",
+        "onboard_time": 1756000282,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349850,
+        "num": 186772,
+        "word": "烂尾",
+        "onboard_time": 1755959848,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284623,
+        "num": 186441,
+        "word": "大连一高校被曝全员停发工资",
+        "onboard_time": 1756001602,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247148,
+        "num": 186306,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1756010782,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230735,
+        "num": 186192,
+        "word": "美国多地现变异动物",
+        "onboard_time": 1755997462,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198740,
+        "num": 185956,
+        "word": "月亮姐姐 我没有产后抑郁症",
+        "onboard_time": 1756007901,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55789,
+        "num": 185681,
+        "word": "尚界H5或颠覆20万级SUV市场格局",
+        "onboard_time": 1756007003,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212595,
+        "num": 185563,
+        "word": "第一个发明屁股假的是天才",
+        "onboard_time": 1756010602,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148375,
+        "num": 185354,
+        "word": "陈飞宇精心卡点1314撞了何晟铭",
+        "onboard_time": 1756001423,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211794,
+        "num": 185142,
+        "word": "高校回应全员停发工资",
+        "onboard_time": 1756003042,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204147,
+        "num": 184996,
+        "word": "齐司礼生日活动",
+        "onboard_time": 1756010242,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184832,
+        "num": 184832,
+        "word": "虞书欣一遍一遍拍摄",
+        "onboard_time": 1755966084,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181716,
+        "num": 181716,
+        "word": "用微信步数判断是否已读",
+        "onboard_time": 1756008862,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181256,
+        "num": 181256,
+        "word": "新疆偶遇了李现",
+        "onboard_time": 1756008501,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161428,
+        "num": 161428,
+        "word": "iPhone隐私屏幕模式",
+        "onboard_time": 1756010121,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151358,
+        "num": 151358,
+        "word": "存款100万靠利息生活的视频别太当真",
+        "onboard_time": 1756000522,
+        "rank": 36,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 63369,
+        "num": 148226,
+        "word": "金正恩泪洒援俄阵亡士兵遗像前",
+        "onboard_time": 1756009944,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82056,
+        "num": 147918,
+        "word": "生万物开局一群人结局一堆坟",
+        "onboard_time": 1756009702,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31554,
+        "num": 147753,
+        "word": "7旬老人信访遭辱骂",
+        "onboard_time": 1756010121,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147721,
+        "num": 147721,
+        "word": "王曼昱担心马琳拉伤胳膊",
+        "onboard_time": 1756006401,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145953,
+        "num": 145953,
+        "word": "炽夏官宣",
+        "onboard_time": 1756004481,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135331,
+        "num": 135331,
+        "word": "从350斤到160斤的震撼",
+        "onboard_time": 1756007723,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 132539,
+        "num": 132539,
+        "word": "何炅黄多多一起下班",
+        "onboard_time": 1755997462,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131204,
+        "num": 131204,
+        "word": "王源新歌全明星制作阵容",
+        "onboard_time": 1756010782,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129794,
+        "num": 129794,
+        "word": "光与夜之恋",
+        "onboard_time": 1756002082,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125289,
+        "num": 125289,
+        "word": "韩国女生减脂100天的真实变化",
+        "onboard_time": 1756010423,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123365,
+        "num": 123365,
+        "word": "艾福杰尼 小奇",
+        "onboard_time": 1756006643,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118973,
+        "num": 118973,
+        "word": "刘轩丞杂志",
+        "onboard_time": 1756006221,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113868,
+        "num": 113868,
+        "word": "丞磊承包了我的整个暑假",
+        "onboard_time": 1756009824,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#雪域情深#"
+    }
+  }
+}
