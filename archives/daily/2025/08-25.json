@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756071458786,
+  "endTime": 1756074266790,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223065,
+      "num": 223065,
+      "word": "莫雷加德男单冠军",
+      "onboard_time": 1756061055,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210464,
       "num": 210464,
       "word": "鹿晗演唱会倒退到升降台边差点踩空",
@@ -313,14 +321,6 @@
       "onboard_time": 1756049544,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125008,
-      "num": 125008,
-      "word": "莫雷加德男单冠军",
-      "onboard_time": 1756061055,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 123683,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78767,
+      "num": 78767,
+      "word": "何晟铭和于正拍了13部戏",
+      "onboard_time": 1756064775,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 76387,
       "num": 76387,
       "word": "孙颖莎说本场比赛没有失败者",
@@ -555,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49347,
-      "num": 49347,
-      "word": "何晟铭和于正拍了13部戏",
-      "onboard_time": 1756064775,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 48878,
       "num": 55443,
       "word": "王曼昱亚军",
@@ -595,12 +595,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38946,
+      "num": 38946,
+      "word": "南京6头野猪10多分钟横渡长江",
+      "onboard_time": 1756071315,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37751,
       "num": 172747,
       "word": "高燃踩点看阅兵演练",
       "onboard_time": 1756044385,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36536,
+      "num": 59224,
+      "word": "谢娜不基础谢娜妈妈更不基础",
+      "onboard_time": 1756069815,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 28506,
@@ -619,8 +635,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23338,
+      "num": 58029,
+      "word": "落马官员儿子单次赌球投入超百万",
+      "onboard_time": 1756070714,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23230,
-      "num": 23230,
+      "num": 29600,
       "word": "孙颖莎王曼昱巅峰对决太燃了",
       "onboard_time": 1756058177,
       "rank": 36,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 21001,
-      "num": 28951,
+      "num": 29592,
       "word": "从1写到500给200块",
       "onboard_time": 1756059436,
       "rank": 49,
@@ -665,22 +689,6 @@
       "onboard_time": 1756020682,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 18046,
-      "num": 25094,
-      "word": "谢娜不基础谢娜妈妈更不基础",
-      "onboard_time": 1756069815,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15009,
-      "num": 20508,
-      "word": "南京6头野猪10多分钟横渡长江",
-      "onboard_time": 1756071315,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13264,
@@ -705,14 +713,6 @@
       "onboard_time": 1756068016,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9566,
-      "num": 58029,
-      "word": "落马官员儿子单次赌球投入超百万",
-      "onboard_time": 1756070714,
-      "rank": 9,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
