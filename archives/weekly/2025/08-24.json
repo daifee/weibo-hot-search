@@ -1,9 +1,9 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756024986212,
+  "endTime": 1756027463560,
   "band_list": [
     {
-      "raw_hot": 2135751,
+      "raw_hot": 3400230,
       "num": 342189,
       "word": "孟村金昊杀妻",
       "onboard_time": 1756022904,
@@ -73,6 +73,14 @@
       "onboard_time": 1755997462,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1185525,
+      "num": 1189684,
+      "word": "杨幂爆剧玄学",
+      "onboard_time": 1756023142,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1152477,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 823952,
+      "num": 265087,
+      "word": "何晟铭坦言是来蹭流量的",
+      "onboard_time": 1756017741,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 783209,
       "num": 292626,
       "word": "黄杨钿甜中戏开学路透",
@@ -199,14 +215,6 @@
       "num": 410671,
       "word": "苏苏死了",
       "onboard_time": 1755953426,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 669086,
-      "num": 1107053,
-      "word": "杨幂爆剧玄学",
-      "onboard_time": 1756023142,
       "rank": 6,
       "category": "剧集"
     },
@@ -363,12 +371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 481880,
+      "num": 174057,
+      "word": "50人寝室",
+      "onboard_time": 1756022723,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 447911,
       "num": 288786,
       "word": "易烊千玺被粉丝的尖叫声吓到了",
       "onboard_time": 1755960807,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 429444,
+      "num": 163914,
+      "word": "崔鹏说曾经暗恋董璇4年",
+      "onboard_time": 1756023442,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 421514,
@@ -451,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 368040,
+      "num": 368040,
+      "word": "阳光玫瑰 沦为路边摊水果",
+      "onboard_time": 1756025602,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367024,
       "num": 367024,
       "word": "王一博分享攀岩照",
@@ -505,14 +537,6 @@
       "onboard_time": 1755994041,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 331822,
-      "num": 265087,
-      "word": "何晟铭坦言是来蹭流量的",
-      "onboard_time": 1756017741,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 331089,
@@ -585,14 +609,6 @@
       "onboard_time": 1755963266,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 266395,
-      "num": 174057,
-      "word": "50人寝室",
-      "onboard_time": 1756022723,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 262105,
@@ -707,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214394,
+      "num": 214394,
+      "word": "多人在酒店公寓卖淫嫖娼被当场抓获",
+      "onboard_time": 1756024403,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213856,
       "num": 205300,
       "word": "太子站起来了",
@@ -747,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209324,
+      "num": 136145,
+      "word": "一个月减10斤有多恐怖",
+      "onboard_time": 1756025721,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207295,
       "num": 192562,
       "word": "月亮姐姐 我没有产后抑郁症",
@@ -785,6 +817,14 @@
       "onboard_time": 1756010302,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192464,
+      "num": 192464,
+      "word": "第五人格赛事",
+      "onboard_time": 1756026501,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 189715,
@@ -841,6 +881,14 @@
       "onboard_time": 1755993740,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184635,
+      "num": 137022,
+      "word": "Melody说在追杨幂的生万物",
+      "onboard_time": 1756025003,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 183529,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1756003283,
       "rank": 34,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 163914,
-      "num": 163914,
-      "word": "崔鹏说曾经暗恋董璇4年",
-      "onboard_time": 1756023442,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 162331,
@@ -1211,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141683,
+      "num": 141683,
+      "word": "中国中铁回应尖扎黄河特大桥事故",
+      "onboard_time": 1756026981,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141362,
       "num": 141362,
       "word": "迪丽热巴跳了神的随波逐流",
@@ -1291,12 +1339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134150,
-      "num": 201931,
-      "word": "多人在酒店公寓卖淫嫖娼被当场抓获",
-      "onboard_time": 1756024403,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 132731,
+      "num": 132731,
+      "word": "生万物被指农村玛丽苏",
+      "onboard_time": 1756026922,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 132618,
@@ -1355,12 +1403,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124268,
+      "num": 124268,
+      "word": "月薪3万存2万五的真实生活",
+      "onboard_time": 1756027282,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122016,
       "num": 122016,
       "word": "至今无人能待满1小时的神奇房间",
       "onboard_time": 1756002143,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120912,
+      "num": 120912,
+      "word": "无畏契约",
+      "onboard_time": 1756025182,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 120717,
@@ -1419,6 +1483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118832,
+      "num": 118832,
+      "word": "IVL",
+      "onboard_time": 1756027221,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118440,
       "num": 118440,
       "word": "只有师范生才懂她有多强",
@@ -1475,6 +1547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116061,
+      "num": 116061,
+      "word": "蛇果名字是这么来的啊",
+      "onboard_time": 1756025962,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 115978,
       "num": 115978,
       "word": "为什么建议晚上6点之后运动",
@@ -1497,6 +1577,22 @@
       "onboard_time": 1756013904,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 115271,
+      "num": 115271,
+      "word": "痛金不足1克价格超2000元",
+      "onboard_time": 1756026081,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 114995,
+      "num": 114995,
+      "word": "张婧仪出片速度",
+      "onboard_time": 1756024642,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 114246,
@@ -1649,6 +1745,14 @@
       "onboard_time": 1756012883,
       "rank": 43,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 106292,
+      "num": 106292,
+      "word": "与晋长安一款很新的嘶漫剧",
+      "onboard_time": 1756026383,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 106272,
@@ -1835,12 +1939,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98937,
+      "num": 98937,
+      "word": "一公司给员工放带薪屁屁假",
+      "onboard_time": 1756027221,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98892,
       "num": 98892,
       "word": "孙颖莎说不是只有我们在战斗",
       "onboard_time": 1755996862,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98762,
+      "num": 98762,
+      "word": "连续30天只吃一顿饭身体的变化",
+      "onboard_time": 1756024463,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98443,
@@ -1873,6 +1993,14 @@
       "onboard_time": 1755955887,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97082,
+      "num": 97082,
+      "word": "原来腿长的小猫是这样玩的",
+      "onboard_time": 1756027343,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 96818,
@@ -1929,6 +2057,14 @@
       "onboard_time": 1755964165,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92225,
+      "num": 92225,
+      "word": "大连科技学院已发放工资",
+      "onboard_time": 1756026142,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 89532,
@@ -2155,6 +2291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56435,
+      "num": 104598,
+      "word": "无力的丈夫和他不知所措的妻子",
+      "onboard_time": 1756026800,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56237,
       "num": 266299,
       "word": "三亚10时起暂停航班起降",
@@ -2280,14 +2424,6 @@
       "word": "工作人员陆续为虞书欣发声",
       "onboard_time": 1755974956,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 34413,
-      "num": 112573,
-      "word": "张婧仪出片速度",
-      "onboard_time": 1756024642,
-      "rank": 38,
       "category": "艺人"
     },
     {
