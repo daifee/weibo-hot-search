@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756133089176,
+  "endTime": 1756135699647,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -161,6 +161,14 @@
       "onboard_time": 1755956608,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1246565,
+      "num": 1246565,
+      "word": "梓渝方辟谣",
+      "onboard_time": 1756133608,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1242199,
@@ -595,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 671655,
+      "num": 671655,
+      "word": "男网红娶残障老婆事件调查结果",
+      "onboard_time": 1756128984,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 670385,
       "num": 410671,
       "word": "苏苏死了",
@@ -707,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 592533,
+      "num": 289496,
+      "word": "何晟铭朋友圈 山水一程永不相逢",
+      "onboard_time": 1756133006,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592471,
       "num": 592471,
       "word": "生万物被指农村玛丽苏",
@@ -763,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 576241,
+      "num": 576241,
+      "word": "网红称吃火鸡面烧穿胃索赔7700万",
+      "onboard_time": 1756132044,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 573853,
       "num": 471790,
       "word": "白敬亭釜山电影节生图",
@@ -808,6 +840,14 @@
       "word": "女子疑家暴去世其婆婆也被警方带走",
       "onboard_time": 1756039705,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 561158,
+      "num": 561158,
+      "word": "银行落马副行长出狱后当网红",
+      "onboard_time": 1756132585,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -889,14 +929,6 @@
       "onboard_time": 1756057758,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 531918,
-      "num": 531918,
-      "word": "男网红娶残障老婆事件调查结果",
-      "onboard_time": 1756128984,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 531392,
@@ -1499,6 +1531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 353586,
+      "num": 353586,
+      "word": "许凯打戏",
+      "onboard_time": 1756132466,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347105,
       "num": 347105,
       "word": "上海暴雨",
@@ -1579,14 +1619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 327768,
-      "num": 327768,
-      "word": "网红称吃火鸡面烧穿胃索赔7700万",
-      "onboard_time": 1756132044,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 326898,
       "num": 326898,
       "word": "意大利厕所文化",
@@ -1633,6 +1665,22 @@
       "onboard_time": 1756125385,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319574,
+      "num": 273315,
+      "word": "刘宇宁裙子跟不上腿",
+      "onboard_time": 1756131984,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 317500,
+      "num": 317500,
+      "word": "日月星移爱旅相依",
+      "onboard_time": 1756131623,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 317414,
@@ -1713,6 +1761,14 @@
       "onboard_time": 1756111525,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294793,
+      "num": 294793,
+      "word": "kid退赛",
+      "onboard_time": 1756134208,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 293117,
@@ -2331,14 +2387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207785,
-      "num": 207785,
-      "word": "刘宇宁裙子跟不上腿",
-      "onboard_time": 1756131984,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207295,
       "num": 192562,
       "word": "月亮姐姐 我没有产后抑郁症",
@@ -2347,12 +2395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206981,
-      "num": 206981,
-      "word": "日月星移爱旅相依",
-      "onboard_time": 1756131623,
-      "rank": 23,
-      "category": "旅游"
+      "raw_hot": 205675,
+      "num": 205675,
+      "word": "汪苏泷压轴",
+      "onboard_time": 1756134507,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205558,
@@ -2395,20 +2443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202752,
+      "num": 202752,
+      "word": "无畏 进步",
+      "onboard_time": 1756134687,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202749,
       "num": 202749,
       "word": "孙颖莎11比9先胜一局",
       "onboard_time": 1756052722,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201782,
-      "num": 201782,
-      "word": "银行落马副行长出狱后当网红",
-      "onboard_time": 1756132585,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200966,
@@ -2819,6 +2867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189286,
+      "num": 189286,
+      "word": "4岁娃查出400度远视加250度散光",
+      "onboard_time": 1756131806,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188869,
       "num": 188869,
       "word": "小孩",
@@ -2961,6 +3017,14 @@
       "onboard_time": 1756011442,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182798,
+      "num": 182798,
+      "word": "刘宇宁颜色基础表演不基础",
+      "onboard_time": 1756134808,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182690,
@@ -3371,6 +3435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166573,
+      "num": 166573,
+      "word": "蒋一侨蒋二侨首度同台",
+      "onboard_time": 1756133368,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165937,
       "num": 165937,
       "word": "爱豆黄子韬徐艺洋限定回归",
@@ -3425,6 +3497,14 @@
       "onboard_time": 1756111582,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 163462,
+      "num": 163462,
+      "word": "KSG战胜JDG",
+      "onboard_time": 1756134267,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 163104,
@@ -3513,6 +3593,14 @@
       "onboard_time": 1756035262,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159225,
+      "num": 159225,
+      "word": "卓沅获最佳唱跳歌手",
+      "onboard_time": 1756134687,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158913,
@@ -3683,14 +3771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154021,
-      "num": 154021,
-      "word": "许凯打戏",
-      "onboard_time": 1756132466,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153988,
       "num": 153988,
       "word": "看似会长胖其实能减肥的习惯",
@@ -3769,6 +3849,14 @@
       "onboard_time": 1756012162,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151561,
+      "num": 151561,
+      "word": "孙颖莎不踩井盖",
+      "onboard_time": 1756133968,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 151519,
@@ -3915,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146582,
+      "num": 184648,
+      "word": "高速有人戴恐怖面具吓车",
+      "onboard_time": 1756135406,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146382,
       "num": 146382,
       "word": "奶茶 反式脂肪酸",
@@ -3985,14 +4081,6 @@
       "onboard_time": 1756128143,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 144135,
-      "num": 144135,
-      "word": "4岁娃查出400度远视加250度散光",
-      "onboard_time": 1756131806,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144046,
@@ -4073,6 +4161,14 @@
       "onboard_time": 1756096706,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142600,
+      "num": 142600,
+      "word": "秃子发diss",
+      "onboard_time": 1756134149,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 142558,
@@ -4177,6 +4273,14 @@
       "onboard_time": 1756112964,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139983,
+      "num": 139983,
+      "word": "藏海传火遍全球",
+      "onboard_time": 1756135167,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 139942,
@@ -4419,6 +4523,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 132279,
+      "num": 132279,
+      "word": "邱贻可孙颖莎捧奖杯合照",
+      "onboard_time": 1756133186,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132098,
       "num": 132098,
       "word": "停止对自己灾难化想象",
@@ -4656,14 +4768,6 @@
       "word": "迪丽热巴被小朋友逗笑了",
       "onboard_time": 1756110143,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 125599,
-      "num": 125599,
-      "word": "何晟铭朋友圈 山水一程永不相逢",
-      "onboard_time": 1756133006,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -5123,6 +5227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117170,
+      "num": 117170,
+      "word": "李现不愧是19年就让我心动的男人",
+      "onboard_time": 1756134388,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117097,
       "num": 117097,
       "word": "追星的意义在这体现了",
@@ -5193,6 +5305,14 @@
       "onboard_time": 1756005144,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 115964,
+      "num": 115964,
+      "word": "独居女生深夜开锁被索要2410元",
+      "onboard_time": 1756135108,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115955,
@@ -5931,6 +6051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100999,
+      "num": 100999,
+      "word": "伊能静天崩开局的人生",
+      "onboard_time": 1756135586,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100759,
       "num": 100759,
       "word": "今天你要嫁给我",
@@ -5979,6 +6107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100026,
+      "num": 100026,
+      "word": "女子体罚儿童被采取刑事强制措施",
+      "onboard_time": 1756131565,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99918,
       "num": 99918,
       "word": "李昀锐生日照",
@@ -6017,6 +6153,14 @@
       "onboard_time": 1755991097,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99125,
+      "num": 99125,
+      "word": "陶白白 在爱中保持魅力的秘诀",
+      "onboard_time": 1756132345,
+      "rank": 43,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 99059,
@@ -6089,14 +6233,6 @@
       "onboard_time": 1756008743,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97798,
-      "num": 97798,
-      "word": "陶白白 在爱中保持魅力的秘诀",
-      "onboard_time": 1756132345,
-      "rank": 43,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 97679,
@@ -6836,7 +6972,7 @@
     },
     {
       "raw_hot": 63268,
-      "num": 569308,
+      "num": 611609,
       "word": "真想一键快进到阅兵当天",
       "onboard_time": 1756127724,
       "rank": 2,
@@ -7136,6 +7272,14 @@
       "word": "孕妇与友人车库遇两巨犬扑人",
       "onboard_time": 1756098084,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47364,
+      "num": 117917,
+      "word": "一列车推出35元高性价比自助餐",
+      "onboard_time": 1756135646,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -7475,6 +7619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29181,
+      "num": 153741,
+      "word": "海军方队队员平均年龄不到21岁",
+      "onboard_time": 1756134388,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 29091,
       "num": 55244,
       "word": "限定爱豆张新成帅我一大跳",
@@ -7641,6 +7793,14 @@
       "onboard_time": 1756120522,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23744,
+      "num": 112101,
+      "word": "遭海底捞门店账号客服侮辱女子发声",
+      "onboard_time": 1756134989,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23338,
