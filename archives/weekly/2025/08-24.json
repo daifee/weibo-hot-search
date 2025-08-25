@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756128990426,
+  "endTime": 1756129690890,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -691,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 595192,
+      "num": 418040,
+      "word": "从一颗痣到确诊癌症",
+      "onboard_time": 1756128382,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 592471,
       "num": 592471,
       "word": "生万物被指农村玛丽苏",
@@ -1147,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 433253,
+      "num": 509237,
+      "word": "卤料 吗啡",
+      "onboard_time": 1756125923,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425360,
       "num": 425360,
       "word": "TMEA节目单",
@@ -1387,14 +1403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 368225,
-      "num": 509237,
-      "word": "卤料 吗啡",
-      "onboard_time": 1756125923,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367483,
       "num": 367483,
       "word": "时代少年团随舞",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1756038863,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 365363,
-      "num": 149143,
-      "word": "从一颗痣到确诊癌症",
-      "onboard_time": 1756128382,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 365241,
@@ -1979,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235444,
+      "num": 235444,
+      "word": "持刀追赶男孩女子有精神分裂症",
+      "onboard_time": 1756125385,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235198,
       "num": 235198,
       "word": "王一博拍照动作神似敦煌飞天",
@@ -2107,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219403,
+      "num": 219403,
+      "word": "亚马尔官宣恋情",
+      "onboard_time": 1756128504,
+      "rank": 29,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 217888,
       "num": 217888,
       "word": "曾舜晞夸丞磊晋江式演技",
@@ -2169,14 +2185,6 @@
       "onboard_time": 1756089501,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211558,
-      "num": 149807,
-      "word": "亚马尔官宣恋情",
-      "onboard_time": 1756128504,
-      "rank": 29,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 211470,
@@ -2268,7 +2276,7 @@
     },
     {
       "raw_hot": 207701,
-      "num": 150392,
+      "num": 169326,
       "word": "带这些字眼的奶茶尽量别点",
       "onboard_time": 1756126944,
       "rank": 23,
@@ -2305,6 +2313,14 @@
       "onboard_time": 1756010242,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203225,
+      "num": 427261,
+      "word": "归队",
+      "onboard_time": 1756128924,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 202776,
@@ -2393,6 +2409,14 @@
       "onboard_time": 1756041205,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198489,
+      "num": 420150,
+      "word": "陈星旭人在家中坐老底被掀了个遍",
+      "onboard_time": 1756126884,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 198338,
@@ -2763,6 +2787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187592,
+      "num": 430786,
+      "word": "男子杀妻死缓女方家属不满判决上诉",
+      "onboard_time": 1756128803,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187178,
       "num": 187178,
       "word": "女留学生起诉发性暗示微信男生败诉",
@@ -2897,14 +2929,6 @@
       "onboard_time": 1756039764,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181926,
-      "num": 181926,
-      "word": "持刀追赶男孩女子有精神分裂症",
-      "onboard_time": 1756125385,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181757,
@@ -3097,14 +3121,6 @@
       "onboard_time": 1756028842,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172996,
-      "num": 172996,
-      "word": "陈星旭人在家中坐老底被掀了个遍",
-      "onboard_time": 1756126884,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 172577,
@@ -3969,6 +3985,14 @@
       "onboard_time": 1756096884,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142290,
+      "num": 426711,
+      "word": "门店账号现不当内容海底捞已报警",
+      "onboard_time": 1756127663,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142107,
@@ -4923,14 +4947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117851,
-      "num": 117851,
-      "word": "男子杀妻死缓女方家属不满判决上诉",
-      "onboard_time": 1756128803,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117834,
       "num": 117834,
       "word": "人真的要珍惜单身的时候",
@@ -5259,12 +5275,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110080,
-      "num": 110080,
-      "word": "归队",
-      "onboard_time": 1756128924,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 110154,
+      "num": 110154,
+      "word": "缺爱的人会习惯性推开爱",
+      "onboard_time": 1756127902,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 110068,
@@ -5353,14 +5369,6 @@
       "onboard_time": 1756044385,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 108698,
-      "num": 233072,
-      "word": "门店账号现不当内容海底捞已报警",
-      "onboard_time": 1756127663,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108491,
@@ -5691,6 +5699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102327,
+      "num": 102327,
+      "word": "贺峻霖导演和编剧的小作业获奖了",
+      "onboard_time": 1756129345,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102320,
       "num": 120251,
       "word": "海南已转移21681人上岸",
@@ -5980,7 +5996,7 @@
     },
     {
       "raw_hot": 95627,
-      "num": 233096,
+      "num": 425194,
       "word": "当年汶川男孩如今受阅军官",
       "onboard_time": 1756127303,
       "rank": 20,
@@ -6009,6 +6025,14 @@
       "onboard_time": 1756123344,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94611,
+      "num": 94611,
+      "word": "蒋欣出场华妃回宫",
+      "onboard_time": 1756126464,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 94118,
@@ -6113,14 +6137,6 @@
       "onboard_time": 1756103543,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90374,
-      "num": 90374,
-      "word": "蒋欣出场华妃回宫",
-      "onboard_time": 1756126464,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 89722,
@@ -6579,6 +6595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66547,
+      "num": 103364,
+      "word": "鲁迅戒烟 李白禁酒",
+      "onboard_time": 1756129345,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66404,
       "num": 242045,
       "word": "问界M8纯电版35.98万元起",
@@ -6723,6 +6747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56888,
+      "num": 462632,
+      "word": "真想一键快进到阅兵当天",
+      "onboard_time": 1756127724,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56824,
       "num": 124331,
       "word": "清华食堂餐具在二手平台卖88一套",
@@ -6771,20 +6803,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55687,
+      "num": 170937,
+      "word": "男网红娶残障老婆事件调查结果",
+      "onboard_time": 1756128984,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 55220,
       "num": 55220,
       "word": "富勒姆1比1曼联",
       "onboard_time": 1756060817,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54715,
-      "num": 462632,
-      "word": "真想一键快进到阅兵当天",
-      "onboard_time": 1756127724,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54520,
@@ -7364,7 +7396,7 @@
     },
     {
       "raw_hot": 26460,
-      "num": 293598,
+      "num": 416639,
       "word": "单霁翔祝福商都遗址",
       "onboard_time": 1756127783,
       "rank": 14,
@@ -7393,6 +7425,14 @@
       "onboard_time": 1755976516,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24728,
+      "num": 111215,
+      "word": "被毒死的毛孩子和为它们打官司的人",
+      "onboard_time": 1756128684,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24461,
@@ -7569,14 +7609,6 @@
       "onboard_time": 1755910584,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17122,
-      "num": 111215,
-      "word": "被毒死的毛孩子和为它们打官司的人",
-      "onboard_time": 1756128684,
-      "rank": 44,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 15278,
