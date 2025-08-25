@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/25 23:43:08
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/26 00:32:44
 </p>
 </blockquote>
 <p>
@@ -4035,6 +4035,12 @@ Beni晋级（热度：909814）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E6%9C%89%E4%BA%BA%E6%88%B4%E6%81%90%E6%80%96%E9%9D%A2%E5%85%B7%E5%90%93%E8%BD%A6%23" target="weibo">
+高速有人戴恐怖面具吓车（热度：908137）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E6%BC%94%E7%BB%83%E7%8E%B0%E5%9C%BA%23" target="weibo">
 九三阅兵演练现场（热度：907764）
 </a>
@@ -6005,12 +6011,6 @@ ELK亮小丑（热度：699921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B9%B2%23" target="weibo">
 苹果干（热度：694779）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%8C%AA%E5%9D%9A%E5%BC%BA%E8%B4%9F%E5%80%BA50%E4%B8%87%E6%90%9E%E7%88%B1%E5%A5%BD%23" target="weibo">
-网红猪坚强负债50万搞爱好（热度：693889）
 </a>
 </li>
 

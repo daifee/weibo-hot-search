@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756136588432,
+  "endTime": 1756139564186,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -5361,6 +5361,14 @@
       "onboard_time": 1754902583,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 908137,
+      "num": 908137,
+      "word": "高速有人戴恐怖面具吓车",
+      "onboard_time": 1756135406,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 907764,
@@ -18051,6 +18059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 341779,
+      "num": 341779,
+      "word": "刘浩存宋威龙 簪星",
+      "onboard_time": 1756137324,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341366,
       "num": 283465,
       "word": "睡姿 焦虑",
@@ -18297,14 +18313,6 @@
       "onboard_time": 1754541562,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 336061,
-      "num": 336061,
-      "word": "高速有人戴恐怖面具吓车",
-      "onboard_time": 1756135406,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 335526,
@@ -22265,6 +22273,14 @@
       "onboard_time": 1755733941,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 268586,
+      "num": 131506,
+      "word": "乌兰察布",
+      "onboard_time": 1756137026,
+      "rank": 20,
+      "category": "旅游"
     },
     {
       "raw_hot": 268511,
@@ -27883,6 +27899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211344,
+      "num": 211344,
+      "word": "独居女生深夜开锁被索要2410元",
+      "onboard_time": 1756135108,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211268,
       "num": 211268,
       "word": "普京返俄美国出动F35护航",
@@ -30881,6 +30905,14 @@
       "onboard_time": 1754752944,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198631,
+      "num": 198631,
+      "word": "老人捅马蜂窝被蜇100多下去世",
+      "onboard_time": 1756136247,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198618,
@@ -61043,14 +61075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119756,
-      "num": 119756,
-      "word": "独居女生深夜开锁被索要2410元",
-      "onboard_time": 1756135108,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119752,
       "num": 119752,
       "word": "樊振东确认参加欧冠联赛",
@@ -62169,14 +62193,6 @@
       "onboard_time": 1754803822,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117578,
-      "num": 117578,
-      "word": "老人捅马蜂窝被蜇100多下去世",
-      "onboard_time": 1756136247,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117547,
@@ -69019,6 +69035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102807,
+      "num": 102807,
+      "word": "汪苏泷最佳男歌手",
+      "onboard_time": 1756136607,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102765,
       "num": 102765,
       "word": "早安GAI友谊",
@@ -73731,6 +73755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89307,
+      "num": 89307,
+      "word": "百余热心人士要求不要修改鲁迅画面",
+      "onboard_time": 1756137086,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89282,
       "num": 103835,
       "word": "胡明轩错失绝杀",
@@ -73857,6 +73889,14 @@
       "onboard_time": 1755789204,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 88943,
+      "num": 88943,
+      "word": "德国教师16年病假领百万工资",
+      "onboard_time": 1756137566,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88882,
@@ -75056,6 +75096,14 @@
       "word": "山西网警第一次集中收网抓获近百人",
       "onboard_time": 1755925883,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83666,
+      "num": 87947,
+      "word": "200多枚濒危鹦鹉蛋被冲进厕所",
+      "onboard_time": 1756137026,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -77523,6 +77571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70522,
+      "num": 70522,
+      "word": "sakuya金牌",
+      "onboard_time": 1756136607,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70509,
       "num": 70509,
       "word": "非银存款大增1.39万亿",
@@ -77811,6 +77867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68534,
+      "num": 67884,
+      "word": "林秋楠直播",
+      "onboard_time": 1756138942,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68485,
       "num": 158010,
       "word": "广州一医院厕所一开门就放交响乐",
@@ -77955,6 +78019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67830,
+      "num": 195506,
+      "word": "深夜开锁被索2410元女生发声",
+      "onboard_time": 1756138584,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67817,
       "num": 335936,
       "word": "旅客吐槽15元高铁盒饭难买到",
@@ -77993,6 +78065,14 @@
       "onboard_time": 1756018882,
       "rank": 44,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 67519,
+      "num": 67519,
+      "word": "泰王室通报帕公主病情并加封军衔",
+      "onboard_time": 1756138164,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67491,
@@ -78281,6 +78361,14 @@
       "onboard_time": 1754066659,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65413,
+      "num": 67393,
+      "word": "戴恐怖面具故意吓高速过往车辆",
+      "onboard_time": 1756138224,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65400,
@@ -79625,6 +79713,14 @@
       "onboard_time": 1754662045,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57976,
+      "num": 65870,
+      "word": "孙颖莎又创一项纪录",
+      "onboard_time": 1756137566,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 57962,
