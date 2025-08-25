@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756096437753,
+  "endTime": 1756097328404,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 896466,
+      "num": 211218,
+      "word": "家庭存款超过50万算什么水平",
+      "onboard_time": 1756094364,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 858367,
       "num": 1137338,
       "word": "在农村月薪2400元工作的一天",
@@ -97,14 +105,6 @@
       "onboard_time": 1756054819,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 738988,
-      "num": 211218,
-      "word": "家庭存款超过50万算什么水平",
-      "onboard_time": 1756094364,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 735011,
@@ -145,6 +145,14 @@
       "onboard_time": 1756052243,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 590575,
+      "num": 199465,
+      "word": "赵志伟虞书欣一年级事件始末",
+      "onboard_time": 1756095865,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 558224,
@@ -195,6 +203,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 442939,
+      "num": 442939,
+      "word": "广东一小区大蛇小蛇到处溜达",
+      "onboard_time": 1756096225,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441237,
       "num": 242296,
       "word": "张维伊董璇婚宴饭店人均价格",
@@ -211,11 +227,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 439833,
+      "num": 294990,
+      "word": "王牌家族没了沈腾和贾玲",
+      "onboard_time": 1756094723,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 421071,
+      "num": 421071,
+      "word": "程序员自费450元租工位假装上班",
+      "onboard_time": 1756092622,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418310,
       "num": 350745,
       "word": "李一桐 我只能旺我自己旺不了夫",
       "onboard_time": 1756045827,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 409334,
+      "num": 279874,
+      "word": "谢霆锋带大儿子迪拜度假",
+      "onboard_time": 1756094782,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -232,14 +272,6 @@
       "word": "98岁老人头上长皮角自行剪除",
       "onboard_time": 1756053621,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 387821,
-      "num": 387821,
-      "word": "程序员自费450元租工位假装上班",
-      "onboard_time": 1756092622,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -299,22 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319509,
-      "num": 199465,
-      "word": "赵志伟虞书欣一年级事件始末",
-      "onboard_time": 1756095865,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 318094,
-      "num": 191894,
-      "word": "王牌家族没了沈腾和贾玲",
-      "onboard_time": 1756094723,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 314185,
       "num": 238700,
       "word": "于适贴脸开大马頔南山南",
@@ -355,20 +371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267993,
+      "num": 194530,
+      "word": "意大利厕所文化",
+      "onboard_time": 1756094184,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 264268,
       "num": 216721,
       "word": "每天只睡6个小时身体的变化",
       "onboard_time": 1756052903,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 263378,
-      "num": 189602,
-      "word": "谢霆锋带大儿子迪拜度假",
-      "onboard_time": 1756094782,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 263283,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 243759,
-      "num": 159086,
+      "num": 193881,
       "word": "艾热孜巴婚检被三连问有无血缘关系",
       "onboard_time": 1756095143,
       "rank": 21,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 236634,
-      "num": 182780,
+      "num": 194327,
       "word": "谁懂那英李沁对视这一下",
       "onboard_time": 1756094603,
       "rank": 16,
@@ -449,14 +465,6 @@
       "onboard_time": 1756079183,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216996,
-      "num": 154052,
-      "word": "意大利厕所文化",
-      "onboard_time": 1756094184,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 211821,
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196397,
+      "num": 194360,
+      "word": "上海优化调整房地产政策措施",
+      "onboard_time": 1756096225,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196140,
       "num": 192308,
       "word": "全新小鹏P7动态测评首发",
@@ -539,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194845,
+      "num": 194845,
+      "word": "中国中铁沉痛哀悼遇难者",
+      "onboard_time": 1756095744,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194183,
       "num": 175532,
       "word": "女子系钝性外力作用致颅脑损伤死亡",
       "onboard_time": 1756052183,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192961,
+      "num": 192961,
+      "word": "锦月如歌",
+      "onboard_time": 1756096584,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 192335,
@@ -611,6 +643,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 168717,
+      "num": 168717,
+      "word": "李现内娱最会拍的男人",
+      "onboard_time": 1756094603,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167058,
+      "num": 167058,
+      "word": "成龙提醒张子枫跟武行说谢谢",
+      "onboard_time": 1756095444,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 166596,
+      "num": 166596,
+      "word": "全宇宙都知道焦峙衡喜欢徐如蓝了",
+      "onboard_time": 1756096645,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165029,
       "num": 165029,
       "word": "iPhone17Pro爆料汇总",
@@ -675,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154052,
-      "num": 154051,
-      "word": "广东一小区大蛇小蛇到处溜达",
-      "onboard_time": 1756096225,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152851,
       "num": 156889,
       "word": "吴彦姝晒图为刘亦菲庆生",
@@ -699,11 +747,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 149637,
+      "num": 149637,
+      "word": "桃晚安回应入镜狼队夺冠镜头",
+      "onboard_time": 1756097305,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148879,
       "num": 226830,
       "word": "暴雨高温台风预警齐发",
       "onboard_time": 1756086200,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148147,
+      "num": 148147,
+      "word": "醉汉遭网约车司机拒载下车后溺亡",
+      "onboard_time": 1756096344,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -721,14 +785,6 @@
       "onboard_time": 1756095325,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145448,
-      "num": 145448,
-      "word": "李现内娱最会拍的男人",
-      "onboard_time": 1756094603,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 144811,
@@ -753,6 +809,14 @@
       "onboard_time": 1756087881,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142666,
+      "num": 142666,
+      "word": "90后体育生转行做陪诊师月入过万",
+      "onboard_time": 1756096706,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140335,
@@ -795,6 +859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135279,
+      "num": 135279,
+      "word": "心动的信号8",
+      "onboard_time": 1756096884,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134361,
       "num": 134361,
       "word": "网友晒和范丞丞小学合照",
@@ -803,12 +875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133525,
-      "num": 133525,
-      "word": "上海优化调整房地产政策措施",
-      "onboard_time": 1756096225,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 132572,
+      "num": 132572,
+      "word": "上海一家五口39平米的小家",
+      "onboard_time": 1756095684,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 132098,
@@ -883,14 +955,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121768,
-      "num": 121768,
-      "word": "上海一家五口39平米的小家",
-      "onboard_time": 1756095684,
-      "rank": 48,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 121680,
       "num": 121680,
       "word": "网友高铁站偶遇刘亦菲",
@@ -955,12 +1019,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116379,
+      "num": 116379,
+      "word": "刘宇宁唐装小生",
+      "onboard_time": 1756096284,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116111,
       "num": 116111,
       "word": "白桃星座",
       "onboard_time": 1756047625,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115271,
+      "num": 115271,
+      "word": "蒋欣胡军三搭演夫妻",
+      "onboard_time": 1756097245,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 113963,
@@ -985,6 +1065,14 @@
       "onboard_time": 1756043245,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110444,
+      "num": 113999,
+      "word": "伤者在地上躺着就给车盖布了",
+      "onboard_time": 1756096943,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109976,
@@ -1099,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97717,
-      "num": 154367,
-      "word": "中国中铁沉痛哀悼遇难者",
-      "onboard_time": 1756095744,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97512,
       "num": 97512,
       "word": "易烊千玺这声哦呦",
@@ -1164,7 +1244,7 @@
     },
     {
       "raw_hot": 91742,
-      "num": 91742,
+      "num": 133754,
       "word": "朝鲜官方公开库尔斯克朝军作战画面",
       "onboard_time": 1756084162,
       "rank": 40,
@@ -1395,28 +1475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 56460,
-      "num": 140729,
-      "word": "醉汉遭网约车司机拒载下车后溺亡",
-      "onboard_time": 1756096344,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55220,
       "num": 55220,
       "word": "富勒姆1比1曼联",
       "onboard_time": 1756060817,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54338,
-      "num": 141144,
-      "word": "成龙提醒张子枫跟武行说谢谢",
-      "onboard_time": 1756095444,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 53935,
@@ -1428,7 +1492,7 @@
     },
     {
       "raw_hot": 52325,
-      "num": 388027,
+      "num": 431306,
       "word": "北京范儿",
       "onboard_time": 1756095383,
       "rank": 2,
@@ -1459,8 +1523,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46170,
+      "num": 140783,
+      "word": "媒体评15岁女生军训中离世",
+      "onboard_time": 1756096225,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46036,
-      "num": 161264,
+      "num": 194387,
       "word": "爱德华兹空降上海",
       "onboard_time": 1756094664,
       "rank": 19,
@@ -1497,14 +1569,6 @@
       "onboard_time": 1756052062,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39425,
-      "num": 140783,
-      "word": "媒体评15岁女生军训中离世",
-      "onboard_time": 1756096225,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38192,
