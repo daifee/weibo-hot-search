@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756100665994,
+  "endTime": 1756104002819,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1271027,
+      "num": 322449,
+      "word": "站姐锤的赵志伟",
+      "onboard_time": 1756103845,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1041296,
       "num": 1166607,
       "word": "王牌对王牌9按年龄排序",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 954190,
-      "num": 303877,
+      "num": 317398,
       "word": "家庭存款超过50万算什么水平",
       "onboard_time": 1756094364,
       "rank": 10,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 735011,
-      "num": 303115,
+      "num": 308824,
       "word": "曝某天王酒店有专属通道到赌场",
       "onboard_time": 1756092203,
       "rank": 35,
@@ -123,8 +131,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 666197,
+      "num": 666197,
+      "word": "莫雷加德球拍被踩",
+      "onboard_time": 1756101622,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 658070,
+      "num": 658070,
+      "word": "物业回应小区蛇患严重随处可见",
+      "onboard_time": 1756098863,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 657596,
-      "num": 303667,
+      "num": 306395,
       "word": "赵志伟虞书欣一年级事件始末",
       "onboard_time": 1756095865,
       "rank": 13,
@@ -193,6 +217,14 @@
       "onboard_time": 1756057758,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 525933,
+      "num": 525933,
+      "word": "警方回应女子持刀被壮汉制服",
+      "onboard_time": 1756101681,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 521449,
@@ -323,12 +355,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361732,
+      "num": 247217,
+      "word": "唐嫣晒照祝亲爱的茜茜公主生日快乐",
+      "onboard_time": 1756102221,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359574,
       "num": 289460,
       "word": "赵志伟直播",
       "onboard_time": 1756085303,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352864,
+      "num": 352864,
+      "word": "杨幂有3部一番破2剧了",
+      "onboard_time": 1756097546,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 347105,
+      "num": 347105,
+      "word": "上海暴雨",
+      "onboard_time": 1756100062,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332893,
+      "num": 332893,
+      "word": "献鱼编剧",
+      "onboard_time": 1756100304,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 329604,
@@ -371,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311745,
-      "num": 311745,
-      "word": "物业回应小区蛇患严重随处可见",
-      "onboard_time": 1756098863,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 308362,
       "num": 241759,
       "word": "27岁尿毒症女生跑外卖续命4年",
@@ -387,20 +443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 302807,
-      "num": 302807,
-      "word": "杨幂有3部一番破2剧了",
-      "onboard_time": 1756097546,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 293117,
       "num": 293117,
       "word": "睡眠邪修大法",
       "onboard_time": 1756087761,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291096,
+      "num": 291096,
+      "word": "金鹿奖官宣",
+      "onboard_time": 1756102344,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 278478,
@@ -425,6 +481,14 @@
       "onboard_time": 1756052903,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 263499,
+      "num": 263499,
+      "word": "三亚非必要不出门",
+      "onboard_time": 1756101681,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263283,
@@ -475,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241715,
+      "num": 241715,
+      "word": "王者荣耀",
+      "onboard_time": 1756101383,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241176,
       "num": 241176,
       "word": "四张证就这样结束了妈妈的一生",
@@ -507,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216485,
-      "num": 216485,
-      "word": "献鱼编剧",
-      "onboard_time": 1756100304,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211821,
       "num": 262101,
       "word": "沈腾王牌家族亲友",
@@ -529,6 +593,14 @@
       "onboard_time": 1756082422,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210635,
+      "num": 210635,
+      "word": "设计师充两千多接单一年赚378",
+      "onboard_time": 1756101084,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210464,
@@ -555,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202491,
+      "num": 202491,
+      "word": "两个人的小森林男配为虞书欣发声",
+      "onboard_time": 1756103423,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201333,
       "num": 201333,
       "word": "鲁迅夹烟墙画被指误导青少年",
@@ -579,12 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198428,
-      "num": 198428,
-      "word": "上海暴雨",
-      "onboard_time": 1756100062,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 197973,
+      "num": 197973,
+      "word": "补偿性消费",
+      "onboard_time": 1756096645,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 197973,
+      "num": 197973,
+      "word": "入学的第一张证件照千万要认真拍",
+      "onboard_time": 1756103242,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 197736,
@@ -691,14 +779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189272,
-      "num": 189272,
-      "word": "补偿性消费",
-      "onboard_time": 1756096645,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187178,
       "num": 187178,
       "word": "女留学生起诉发性暗示微信男生败诉",
@@ -721,6 +801,14 @@
       "onboard_time": 1756092982,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170961,
+      "num": 209902,
+      "word": "上海成年单身人士按家庭执行限购",
+      "onboard_time": 1756099884,
+      "rank": 19,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 169323,
@@ -819,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156087,
+      "num": 156087,
+      "word": "于正模仿黄晓明名句",
+      "onboard_time": 1756102642,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155488,
       "num": 155488,
       "word": "杨洋花少时期真灵珠",
@@ -905,6 +1001,14 @@
       "onboard_time": 1756095325,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146382,
+      "num": 146382,
+      "word": "奶茶 反式脂肪酸",
+      "onboard_time": 1756100123,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144811,
@@ -1027,6 +1131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132061,
+      "num": 132061,
+      "word": "杭州冰雹",
+      "onboard_time": 1756103304,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130470,
       "num": 130470,
       "word": "马嘉祺跳了刀马刀马",
@@ -1041,6 +1153,14 @@
       "onboard_time": 1756099944,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 130118,
+      "num": 130118,
+      "word": "大爷为救女子手机进水要赔偿遭拒",
+      "onboard_time": 1756102943,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129717,
@@ -1083,12 +1203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127334,
+      "num": 127334,
+      "word": "王者联动狐妖王权篇",
+      "onboard_time": 1756101262,
+      "rank": 35,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 126952,
       "num": 126952,
       "word": "蚊子也是吃上旋转自助了",
       "onboard_time": 1756098563,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126189,
+      "num": 126189,
+      "word": "小吃店买400粒复方甘草片加工卤料",
+      "onboard_time": 1756103662,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125069,
@@ -1099,12 +1235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123524,
+      "num": 123524,
+      "word": "刘亦菲说惠英红是偶像",
+      "onboard_time": 1756102401,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123467,
       "num": 123467,
       "word": "梅德韦杰夫止步美网首轮",
       "onboard_time": 1756099944,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122230,
+      "num": 122230,
+      "word": "酷派称将陆续上架嘎子哥所售手机",
+      "onboard_time": 1756102221,
+      "rank": 40,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 122051,
@@ -1171,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119766,
+      "num": 119766,
+      "word": "锅边糊店买400粒复方甘草片做卤料",
+      "onboard_time": 1756102044,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118325,
       "num": 122439,
       "word": "宋轶丞磊来我们的宿舍剧宣了",
@@ -1227,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115627,
+      "num": 115627,
+      "word": "鲁迅夹烟墙画被投诉当事人发声",
+      "onboard_time": 1756103003,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115271,
       "num": 115271,
       "word": "蒋欣胡军三搭演夫妻",
@@ -1241,6 +1409,14 @@
       "onboard_time": 1756098923,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 114284,
+      "num": 114284,
+      "word": "健身房偶遇宋祖儿",
+      "onboard_time": 1756103903,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 113968,
@@ -1299,6 +1475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108294,
+      "num": 108294,
+      "word": "iPhone17液态硅胶手机壳8种配色",
+      "onboard_time": 1756101622,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 107674,
       "num": 107674,
       "word": "A股算力股再度大涨",
@@ -1313,6 +1497,14 @@
       "onboard_time": 1756098863,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107184,
+      "num": 107184,
+      "word": "突然收到体重秤的通知",
+      "onboard_time": 1756103722,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 107117,
@@ -1387,12 +1579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103413,
-      "num": 138793,
-      "word": "奶茶 反式脂肪酸",
-      "onboard_time": 1756100123,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 103013,
+      "num": 103013,
+      "word": "反派都被廖停雁整没招了",
+      "onboard_time": 1756102581,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 99539,
@@ -1619,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67509,
+      "num": 250452,
+      "word": "一轮生肖酒十二年终圆满",
+      "onboard_time": 1756102882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67254,
       "num": 67254,
       "word": "大凉山里那些花儿歌声的力量",
@@ -1627,20 +1827,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66410,
-      "num": 209902,
-      "word": "上海成年单身人士按家庭执行限购",
-      "onboard_time": 1756099884,
-      "rank": 19,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 66269,
       "num": 66269,
       "word": "国乒男单无缘冠军",
       "onboard_time": 1756076899,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65906,
+      "num": 122666,
+      "word": "女子被家暴数百次开始找保镖",
+      "onboard_time": 1756103722,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64570,
@@ -1689,6 +1889,14 @@
       "onboard_time": 1756058957,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57732,
+      "num": 330767,
+      "word": "她花了26年给沙漠织围脖",
+      "onboard_time": 1756103543,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57425,
@@ -1740,7 +1948,7 @@
     },
     {
       "raw_hot": 52325,
-      "num": 476927,
+      "num": 660793,
       "word": "北京范儿",
       "onboard_time": 1756095383,
       "rank": 2,

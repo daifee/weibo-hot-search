@@ -1,0 +1,410 @@
+{
+  "runTime": 1756104002819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 755561,
+        "num": 1120889,
+        "word": "内娱真夫妻持证上岗综艺来了",
+        "onboard_time": 1756092022,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666197,
+        "num": 666197,
+        "word": "莫雷加德球拍被踩",
+        "onboard_time": 1756101622,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30352,
+        "num": 660793,
+        "word": "北京范儿",
+        "onboard_time": 1756095383,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658070,
+        "num": 658070,
+        "word": "物业回应小区蛇患严重随处可见",
+        "onboard_time": 1756098863,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525933,
+        "num": 525933,
+        "word": "警方回应女子持刀被壮汉制服",
+        "onboard_time": 1756101681,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352864,
+        "num": 352864,
+        "word": "杨幂有3部一番破2剧了",
+        "onboard_time": 1756097546,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350310,
+        "num": 350310,
+        "word": "中国中铁沉痛哀悼遇难者",
+        "onboard_time": 1756095744,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347105,
+        "num": 347105,
+        "word": "上海暴雨",
+        "onboard_time": 1756100062,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332893,
+        "num": 332893,
+        "word": "献鱼编剧",
+        "onboard_time": 1756100304,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57732,
+        "num": 330767,
+        "word": "她花了26年给沙漠织围脖",
+        "onboard_time": 1756103543,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1271027,
+        "num": 322449,
+        "word": "站姐锤的赵志伟",
+        "onboard_time": 1756103845,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801094,
+        "num": 317398,
+        "word": "家庭存款超过50万算什么水平",
+        "onboard_time": 1756094364,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391414,
+        "num": 308824,
+        "word": "曝某天王酒店有专属通道到赌场",
+        "onboard_time": 1756092203,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306395,
+        "num": 306395,
+        "word": "赵志伟虞书欣一年级事件始末",
+        "onboard_time": 1756095865,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301943,
+        "num": 301943,
+        "word": "马思纯张晚意 好嗑",
+        "onboard_time": 1756097603,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299855,
+        "num": 299855,
+        "word": "王牌家族没了沈腾和贾玲",
+        "onboard_time": 1756094723,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291096,
+        "num": 291096,
+        "word": "金鹿奖官宣",
+        "onboard_time": 1756102344,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267825,
+        "num": 267825,
+        "word": "谢霆锋带大儿子迪拜度假",
+        "onboard_time": 1756094782,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263499,
+        "num": 263499,
+        "word": "三亚非必要不出门",
+        "onboard_time": 1756101681,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67509,
+        "num": 250452,
+        "word": "一轮生肖酒十二年终圆满",
+        "onboard_time": 1756102882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361732,
+        "num": 247217,
+        "word": "唐嫣晒照祝亲爱的茜茜公主生日快乐",
+        "onboard_time": 1756102221,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241715,
+        "num": 241715,
+        "word": "王者荣耀",
+        "onboard_time": 1756101383,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210635,
+        "num": 210635,
+        "word": "设计师充两千多接单一年赚378",
+        "onboard_time": 1756101084,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203696,
+        "num": 203696,
+        "word": "醉汉遭网约车司机拒载下车后溺亡",
+        "onboard_time": 1756096344,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202491,
+        "num": 202491,
+        "word": "两个人的小森林男配为虞书欣发声",
+        "onboard_time": 1756103423,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198250,
+        "num": 198250,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197973,
+        "num": 197973,
+        "word": "入学的第一张证件照千万要认真拍",
+        "onboard_time": 1756103242,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197973,
+        "num": 197973,
+        "word": "补偿性消费",
+        "onboard_time": 1756096645,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175716,
+        "num": 175716,
+        "word": "王牌对王牌9按年龄排序",
+        "onboard_time": 1756090401,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170961,
+        "num": 170961,
+        "word": "上海成年单身人士按家庭执行限购",
+        "onboard_time": 1756099884,
+        "rank": 29,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 156087,
+        "num": 156087,
+        "word": "于正模仿黄晓明名句",
+        "onboard_time": 1756102642,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152840,
+        "num": 152840,
+        "word": "杨洋花少时期真灵珠",
+        "onboard_time": 1756099462,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146382,
+        "num": 146382,
+        "word": "奶茶 反式脂肪酸",
+        "onboard_time": 1756100123,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132061,
+        "num": 132061,
+        "word": "杭州冰雹",
+        "onboard_time": 1756103304,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130118,
+        "num": 130118,
+        "word": "大爷为救女子手机进水要赔偿遭拒",
+        "onboard_time": 1756102943,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127334,
+        "num": 127334,
+        "word": "王者联动狐妖王权篇",
+        "onboard_time": 1756101262,
+        "rank": 35,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 126189,
+        "num": 126189,
+        "word": "小吃店买400粒复方甘草片加工卤料",
+        "onboard_time": 1756103662,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123524,
+        "num": 123524,
+        "word": "刘亦菲说惠英红是偶像",
+        "onboard_time": 1756102401,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123252,
+        "num": 123252,
+        "word": "斗罗大陆小舞",
+        "onboard_time": 1756099584,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 65906,
+        "num": 122666,
+        "word": "女子被家暴数百次开始找保镖",
+        "onboard_time": 1756103722,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122230,
+        "num": 122230,
+        "word": "酷派称将陆续上架嘎子哥所售手机",
+        "onboard_time": 1756102221,
+        "rank": 40,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 121977,
+        "num": 121977,
+        "word": "田栩宁新官宣代言互动值最高",
+        "onboard_time": 1756100243,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119766,
+        "num": 119766,
+        "word": "锅边糊店买400粒复方甘草片做卤料",
+        "onboard_time": 1756102044,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115627,
+        "num": 115627,
+        "word": "鲁迅夹烟墙画被投诉当事人发声",
+        "onboard_time": 1756103003,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114284,
+        "num": 114284,
+        "word": "健身房偶遇宋祖儿",
+        "onboard_time": 1756103903,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113458,
+        "num": 113458,
+        "word": "RM成员得知金钟国结婚的反应",
+        "onboard_time": 1756098444,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108294,
+        "num": 108294,
+        "word": "iPhone17液态硅胶手机壳8种配色",
+        "onboard_time": 1756101622,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108261,
+        "num": 108261,
+        "word": "35岁女生学拉丁舞一年半的真实变化",
+        "onboard_time": 1756099944,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107184,
+        "num": 107184,
+        "word": "突然收到体重秤的通知",
+        "onboard_time": 1756103722,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103013,
+        "num": 103013,
+        "word": "反派都被廖停雁整没招了",
+        "onboard_time": 1756102581,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}
