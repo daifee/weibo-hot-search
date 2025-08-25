@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756161722484,
+  "endTime": 1756164290767,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 908137,
-      "num": 908137,
+      "raw_hot": 955358,
+      "num": 955358,
       "word": "高速有人戴恐怖面具吓车",
       "onboard_time": 1756135406,
       "rank": 0,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 268586,
-      "num": 155838,
+      "num": 195743,
       "word": "乌兰察布",
       "onboard_time": 1756137026,
       "rank": 20,
@@ -131,6 +131,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 185698,
+      "num": 142085,
+      "word": "德国教师16年病假领百万工资",
+      "onboard_time": 1756137566,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 177648,
       "num": 177648,
       "word": "黄多多好像年轻的刘诗诗",
@@ -155,12 +163,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139953,
-      "num": 99381,
-      "word": "德国教师16年病假领百万工资",
-      "onboard_time": 1756137566,
-      "rank": 32,
-      "category": "海外新闻"
+      "raw_hot": 141062,
+      "num": 141062,
+      "word": "记者暗访湖南被拉细钢筋",
+      "onboard_time": 1756153335,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 136428,
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119291,
+      "num": 119291,
+      "word": "卫星互联网低轨10组卫星发射成功",
+      "onboard_time": 1756163959,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112233,
       "num": 112233,
       "word": "甜馨小酒窝一起跳舞了",
@@ -187,20 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112106,
+      "num": 148881,
+      "word": "辛巴账号被接手后将复播",
+      "onboard_time": 1756151535,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 111300,
+      "num": 111300,
+      "word": "女子询问海底捞换配菜被开黄腔辱骂",
+      "onboard_time": 1756121303,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105839,
       "num": 105839,
       "word": "张碧晨获亚洲最佳女歌手",
       "onboard_time": 1756132105,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 104711,
-      "num": 104711,
-      "word": "女子询问海底捞换配菜被开黄腔辱骂",
-      "onboard_time": 1756121303,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104596,
@@ -219,12 +243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94113,
-      "num": 94113,
-      "word": "辛巴账号被接手后将复播",
-      "onboard_time": 1756151535,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 93736,
+      "num": 90645,
+      "word": "4岁娃查出400度远视加250度散光",
+      "onboard_time": 1756131806,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90835,
@@ -248,14 +272,6 @@
       "word": "百余热心人士要求不要修改鲁迅画面",
       "onboard_time": 1756137086,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89063,
-      "num": 90645,
-      "word": "4岁娃查出400度远视加250度散光",
-      "onboard_time": 1756131806,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -313,6 +329,14 @@
       "onboard_time": 1756117704,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77298,
+      "num": 77298,
+      "word": "纽卡斯尔联2比3利物浦",
+      "onboard_time": 1756164140,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 75271,
@@ -419,12 +443,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59373,
+      "num": 59373,
+      "word": "莫雷加德说樊振东是很好的人",
+      "onboard_time": 1756163959,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57976,
       "num": 81583,
       "word": "孙颖莎又创一项纪录",
       "onboard_time": 1756137566,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55233,
+      "num": 55233,
+      "word": "见过啃老的第一次见啃房东的",
+      "onboard_time": 1756162757,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 54764,
@@ -451,20 +491,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 46880,
-      "num": 46880,
-      "word": "记者暗访湖南被拉细钢筋",
-      "onboard_time": 1756153335,
-      "rank": 42,
-      "category": "舆论监督"
+      "raw_hot": 47838,
+      "num": 47838,
+      "word": "太清醒了没办法谈恋爱",
+      "onboard_time": 1756163779,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 41400,
-      "num": 41400,
+      "num": 45233,
       "word": "合肥一马路突然塌陷吞没越野车",
       "onboard_time": 1756157354,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40105,
+      "num": 57418,
+      "word": "23岁怀孕上大学的经历和感受",
+      "onboard_time": 1756116143,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 38677,
@@ -475,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38455,
-      "num": 57418,
-      "word": "23岁怀孕上大学的经历和感受",
-      "onboard_time": 1756116143,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 37803,
+      "num": 45202,
+      "word": "开学季儿童医院迎就诊高峰",
+      "onboard_time": 1756164020,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 33689,
@@ -521,6 +569,14 @@
       "onboard_time": 1756146375,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20227,
+      "num": 148091,
+      "word": "1800年前古人就用上7格餐盘了",
+      "onboard_time": 1756163178,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18153,
