@@ -1,0 +1,410 @@
+{
+  "runTime": 1756092133009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1031133,
+        "num": 1164981,
+        "word": "关晓彤王牌9官宣搭子",
+        "onboard_time": 1756086862,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572969,
+        "num": 572969,
+        "word": "首款曲面iPhone",
+        "onboard_time": 1756082905,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22025,
+        "num": 423049,
+        "word": "护网警惕定时炸弹0day漏洞",
+        "onboard_time": 1756084222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885684,
+        "num": 417200,
+        "word": "王牌对王牌9按年龄排序",
+        "onboard_time": 1756090401,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385459,
+        "num": 385459,
+        "word": "女子拒绝男子被重伤家属拒赔医疗费",
+        "onboard_time": 1756084041,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381426,
+        "num": 381426,
+        "word": "孙颖莎将再度刷新世排万分纪录",
+        "onboard_time": 1756087402,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335760,
+        "num": 335760,
+        "word": "内娱真夫妻持证上岗综艺来了",
+        "onboard_time": 1756092022,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329604,
+        "num": 329604,
+        "word": "A股",
+        "onboard_time": 1756087881,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 315104,
+        "num": 315104,
+        "word": "下周三就能看阅兵了",
+        "onboard_time": 1756082603,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122745,
+        "num": 300584,
+        "word": "十四五海关检出传染病18万例",
+        "onboard_time": 1756090161,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1415518,
+        "num": 298817,
+        "word": "赵志伟 我没有出过轨",
+        "onboard_time": 1756086321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414331,
+        "num": 297988,
+        "word": "董璇办了两次婚礼都没海岛婚礼",
+        "onboard_time": 1756077740,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291793,
+        "num": 291793,
+        "word": "睡眠邪修大法",
+        "onboard_time": 1756087761,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267966,
+        "num": 267966,
+        "word": "突然发现很多人对工资没有概念",
+        "onboard_time": 1756091902,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263262,
+        "num": 263262,
+        "word": "陈乔恩艾伦娱乐圈文照进现实",
+        "onboard_time": 1756091421,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262584,
+        "num": 262584,
+        "word": "在农村月薪2400元工作的一天",
+        "onboard_time": 1756081281,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211821,
+        "num": 262101,
+        "word": "沈腾王牌家族亲友",
+        "onboard_time": 1756089501,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210029,
+        "num": 260027,
+        "word": "鞠婧祎 秋老虎怕了你了",
+        "onboard_time": 1756079183,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48919,
+        "num": 258172,
+        "word": "奥迪E5首发测评",
+        "onboard_time": 1756091122,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 59305,
+        "num": 256585,
+        "word": "京东送玫瑰帮小伙表白",
+        "onboard_time": 1756089441,
+        "rank": 19,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 255372,
+        "num": 255372,
+        "word": "王楚钦代言清扬",
+        "onboard_time": 1756090101,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1023908,
+        "num": 245598,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227679,
+        "num": 227679,
+        "word": "埃及旅游 小费",
+        "onboard_time": 1756082303,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 208128,
+        "num": 208128,
+        "word": "女子戴牙套5年坏了8颗牙",
+        "onboard_time": 1756054819,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195849,
+        "num": 195849,
+        "word": "于适贴脸开大马頔南山南",
+        "onboard_time": 1756090702,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191269,
+        "num": 191269,
+        "word": "单人过会男女演员",
+        "onboard_time": 1756091001,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190035,
+        "num": 190035,
+        "word": "大场面我不再站旁边",
+        "onboard_time": 1756085362,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180629,
+        "num": 180629,
+        "word": "全新小鹏P7动态测评首发",
+        "onboard_time": 1756091181,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165468,
+        "num": 165468,
+        "word": "1986年绣绣走了杨幂出生了",
+        "onboard_time": 1756079481,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41497,
+        "num": 164341,
+        "word": "4次断骨打开折叠男孩开始练走路",
+        "onboard_time": 1756091001,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163954,
+        "num": 163954,
+        "word": "丞磊你好适合演变态",
+        "onboard_time": 1756090221,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149643,
+        "num": 149643,
+        "word": "每天只睡6个小时身体的变化",
+        "onboard_time": 1756052903,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143316,
+        "num": 143316,
+        "word": "脂包骨体脂率比猪还高2倍",
+        "onboard_time": 1756087881,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137405,
+        "num": 137405,
+        "word": "3名女子车库被2条大狗攻击",
+        "onboard_time": 1756089501,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124121,
+        "num": 124121,
+        "word": "吴彦姝晒图为刘亦菲庆生",
+        "onboard_time": 1756091542,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123447,
+        "num": 123447,
+        "word": "未定事件簿",
+        "onboard_time": 1756092022,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121895,
+        "num": 121895,
+        "word": "高质量完成十四五规划系列发布会",
+        "onboard_time": 1756090041,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120872,
+        "num": 120872,
+        "word": "范丞丞把身高183刻骨子里了",
+        "onboard_time": 1756091359,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117496,
+        "num": 117496,
+        "word": "赵志伟回复网友评论",
+        "onboard_time": 1756053141,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114484,
+        "num": 114484,
+        "word": "男子p图骗色骗酒7女子上当",
+        "onboard_time": 1756050564,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49426,
+        "num": 114082,
+        "word": "老太捡垃圾堆满小区",
+        "onboard_time": 1756087642,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114012,
+        "num": 114012,
+        "word": "女留学生起诉发性暗示微信男生败诉",
+        "onboard_time": 1756051165,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110390,
+        "num": 110390,
+        "word": "谢娜不基础谢娜妈妈更不基础",
+        "onboard_time": 1756069815,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108058,
+        "num": 108058,
+        "word": "98岁老人头上长皮角自行剪除",
+        "onboard_time": 1756053621,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105644,
+        "num": 105644,
+        "word": "莫雷加德男单冠军",
+        "onboard_time": 1756061055,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104836,
+        "num": 104836,
+        "word": "葛优带儿子出门吃饭",
+        "onboard_time": 1756089861,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104621,
+        "num": 104621,
+        "word": "张伦硕说现在的张维伊就是曾经的我",
+        "onboard_time": 1756050564,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103930,
+        "num": 103930,
+        "word": "偶运会",
+        "onboard_time": 1756082422,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101290,
+        "num": 101290,
+        "word": "iPhone17Pro爆料汇总",
+        "onboard_time": 1756082841,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98282,
+        "num": 98282,
+        "word": "A股算力股再度大涨",
+        "onboard_time": 1756091842,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}
