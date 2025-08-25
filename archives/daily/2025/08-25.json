@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756078715405,
+  "endTime": 1756087253245,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -35,6 +35,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 858367,
+      "num": 1137338,
+      "word": "在农村月薪2400元工作的一天",
+      "onboard_time": 1756081281,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 836056,
+      "num": 836056,
+      "word": "首款曲面iPhone",
+      "onboard_time": 1756082905,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 796831,
       "num": 796831,
       "word": "aespa",
@@ -59,6 +75,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 602057,
+      "num": 295122,
+      "word": "董璇办了两次婚礼都没海岛婚礼",
+      "onboard_time": 1756077740,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 597666,
+      "num": 292591,
+      "word": "赵志伟 我没有出过轨",
+      "onboard_time": 1756086321,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595880,
       "num": 595880,
       "word": "孙颖莎欧洲大满贯夺冠",
@@ -75,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 544087,
+      "num": 544087,
+      "word": "埃及旅游 小费",
+      "onboard_time": 1756082303,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 532584,
       "num": 241284,
       "word": "张伦硕说现在的张维伊就是曾经的我",
@@ -89,6 +129,14 @@
       "onboard_time": 1756057758,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 457006,
+      "num": 457006,
+      "word": "女子拒绝男子被重伤家属拒赔医疗费",
+      "onboard_time": 1756084041,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 450609,
@@ -147,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359574,
+      "num": 289460,
+      "word": "赵志伟直播",
+      "onboard_time": 1756085303,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319887,
       "num": 241962,
       "word": "邢菲终于要升咖了",
@@ -163,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302371,
+      "num": 302371,
+      "word": "下周三就能看阅兵了",
+      "onboard_time": 1756082603,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 278175,
       "num": 278175,
       "word": "日本博主惊叹中国外卖袋",
@@ -172,7 +236,7 @@
     },
     {
       "raw_hot": 264268,
-      "num": 127047,
+      "num": 182944,
       "word": "每天只睡6个小时身体的变化",
       "onboard_time": 1756052903,
       "rank": 47,
@@ -193,6 +257,14 @@
       "onboard_time": 1756044926,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260596,
+      "num": 298339,
+      "word": "1986年绣绣走了杨幂出生了",
+      "onboard_time": 1756079481,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 242581,
@@ -219,12 +291,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210940,
+      "num": 210940,
+      "word": "偶运会",
+      "onboard_time": 1756082422,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210464,
       "num": 210464,
       "word": "鹿晗演唱会倒退到升降台边差点踩空",
       "onboard_time": 1756044385,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210024,
+      "num": 210024,
+      "word": "鞠婧祎 秋老虎怕了你了",
+      "onboard_time": 1756079183,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 202749,
@@ -241,6 +329,14 @@
       "onboard_time": 1756034364,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200024,
+      "num": 200024,
+      "word": "谢娜不基础谢娜妈妈更不基础",
+      "onboard_time": 1756069815,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 195160,
@@ -275,19 +371,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177917,
-      "num": 159421,
+      "raw_hot": 184710,
+      "num": 184710,
       "word": "女留学生起诉发性暗示微信男生败诉",
       "onboard_time": 1756051165,
       "rank": 33,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171961,
-      "num": 158203,
-      "word": "董璇办了两次婚礼都没海岛婚礼",
-      "onboard_time": 1756077740,
-      "rank": 36,
+      "raw_hot": 182218,
+      "num": 182218,
+      "word": "关晓彤王牌9官宣搭子",
+      "onboard_time": 1756086862,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -297,6 +393,14 @@
       "onboard_time": 1756045288,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165029,
+      "num": 165029,
+      "word": "iPhone17Pro爆料汇总",
+      "onboard_time": 1756082841,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 163080,
@@ -323,14 +427,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 149061,
-      "num": 149061,
-      "word": "谢娜不基础谢娜妈妈更不基础",
-      "onboard_time": 1756069815,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147981,
       "num": 151197,
       "word": "TTG晋级夏季赛胜决",
@@ -353,6 +449,14 @@
       "onboard_time": 1756053859,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136214,
+      "num": 136214,
+      "word": "王安宇推荐了一部宇宙级大片",
+      "onboard_time": 1756084883,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 134361,
@@ -379,6 +483,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127896,
+      "num": 127896,
+      "word": "27岁大厂员工下班送外卖",
+      "onboard_time": 1756084463,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125093,
+      "num": 125093,
+      "word": "大场面我不再站旁边",
+      "onboard_time": 1756085362,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121680,
       "num": 121680,
       "word": "网友高铁站偶遇刘亦菲",
@@ -395,12 +515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117795,
+      "num": 117795,
+      "word": "突然意识到3年跳了9次槽才25岁",
+      "onboard_time": 1756085121,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117668,
       "num": 117668,
       "word": "王鹤棣衣服基础发型就不基础",
       "onboard_time": 1756053621,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 116867,
+      "num": 116867,
+      "word": "国乒男双连续7站无冠",
+      "onboard_time": 1756083921,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 116111,
@@ -419,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113941,
+      "num": 226830,
+      "word": "暴雨高温台风预警齐发",
+      "onboard_time": 1756086200,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113924,
       "num": 113924,
       "word": "内娱又有神级求婚现场了",
@@ -433,6 +577,14 @@
       "onboard_time": 1756043245,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112832,
+      "num": 112832,
+      "word": "人真的要珍惜单身的时候",
+      "onboard_time": 1756082062,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 109976,
@@ -467,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104162,
+      "num": 104162,
+      "word": "女子手持刀具被壮汉制服",
+      "onboard_time": 1756081581,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103879,
       "num": 103879,
       "word": "孙颖莎的2008年",
@@ -481,6 +641,14 @@
       "onboard_time": 1756050983,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99059,
+      "num": 99059,
+      "word": "猫咪和爸爸同日去世前后仅差1小时",
+      "onboard_time": 1756086080,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97512,
@@ -531,6 +699,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90654,
+      "num": 90654,
+      "word": "朝鲜官方公开库尔斯克朝军作战画面",
+      "onboard_time": 1756084162,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 87202,
+      "num": 87202,
+      "word": "郁可唯二封内地最佳女歌手",
+      "onboard_time": 1756085902,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 84247,
+      "num": 84247,
+      "word": "两女子高铁上争抢充电口",
+      "onboard_time": 1756081942,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83038,
       "num": 83038,
       "word": "KPL",
@@ -539,12 +731,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80951,
+      "num": 80951,
+      "word": "王皓拍肩膀安慰林诗栋",
+      "onboard_time": 1756085303,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80631,
       "num": 80631,
       "word": "南京6头野猪10多分钟横渡长江",
       "onboard_time": 1756071315,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80058,
+      "num": 80058,
+      "word": "WTT宣传照2个孙颖莎",
+      "onboard_time": 1756082062,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 79882,
@@ -563,6 +771,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78066,
+      "num": 78066,
+      "word": "莫雷加德主场创造历史",
+      "onboard_time": 1756085782,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77198,
+      "num": 77198,
+      "word": "邢菲的业内认可度",
+      "onboard_time": 1756080921,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76965,
       "num": 109431,
       "word": "时代少年团成团六年了",
@@ -571,11 +795,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76906,
+      "num": 76906,
+      "word": "减肥的时候如果食欲一直很稳定",
+      "onboard_time": 1756087102,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76387,
       "num": 76387,
       "word": "孙颖莎说本场比赛没有失败者",
       "onboard_time": 1756060036,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73592,
+      "num": 73592,
+      "word": "国乒欧洲大满贯三冠收官",
+      "onboard_time": 1756082062,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -745,6 +985,14 @@
       "onboard_time": 1756078100,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29058,
+      "num": 545477,
+      "word": "护网警惕定时炸弹0day漏洞",
+      "onboard_time": 1756084222,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28506,

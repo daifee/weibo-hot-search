@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/25 07:38:35
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/25 10:00:53
 </p>
 </blockquote>
 <p>
@@ -4173,6 +4173,12 @@ TF四代 超载（热度：867979）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%86%9C%E6%9D%91%E6%9C%88%E8%96%AA2400%E5%85%83%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
+在农村月薪2400元工作的一天（热度：858367）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E8%A2%AB%E9%AB%98%E5%AF%8C%E5%B8%85%E7%94%B7%E5%8F%8B%E9%AA%97%E8%87%B3%E7%BC%85%E7%94%B8%E5%A6%99%E7%93%A6%E5%BA%95%23" target="weibo">
 00后女孩被高富帅男友骗至缅甸妙瓦底（热度：857937）
 </a>
@@ -4373,6 +4379,12 @@ TF四代 超载（热度：867979）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%88%B8%E7%88%B8%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BD%93%E5%8F%B8%E6%9C%BA%23" target="weibo">
 网友爸爸给迪丽热巴当司机（热度：837120）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%AC%BE%E6%9B%B2%E9%9D%A2iPhone%23" target="weibo">
+首款曲面iPhone（热度：836056）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ boss直聘崩了（热度：685338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E6%89%8D%E5%8F%91%E7%8E%B0%E7%85%A7%E7%89%87%E9%87%8C%E7%9A%84%E8%99%AB%E5%AD%90%23" target="weibo">
 杨超越才发现照片里的虫子（热度：681662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%23" target="weibo">
-美国驻华大使馆（热度：680527）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%B9%E5%A6%B9%E4%BB%A5%E5%A7%90%E5%A7%90%E5%B7%B2%E5%87%BA%E5%AB%81%E4%B8%BA%E7%94%B1%E4%BA%89%E5%A4%BA46%E4%B8%87%E9%81%97%E4%BA%A7%23" target="weibo">
-妹妹以姐姐已出嫁为由争夺46万遗产（热度：679974）
 </a>
 </li>
 
