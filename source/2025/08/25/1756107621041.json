@@ -1,0 +1,410 @@
+{
+  "runTime": 1756107621041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1055591,
+        "num": 1168894,
+        "word": "莫雷加德球拍被踩",
+        "onboard_time": 1756101622,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1017985,
+        "num": 1017985,
+        "word": "孙艺珍疑似不满新片戏份被删",
+        "onboard_time": 1756104022,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27197,
+        "num": 843037,
+        "word": "北京范儿",
+        "onboard_time": 1756095383,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 795116,
+        "num": 795116,
+        "word": "我对鲁迅在自己墙上抽烟无意见",
+        "onboard_time": 1756104323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534075,
+        "num": 534075,
+        "word": "唐嫣晒照祝亲爱的茜茜公主生日快乐",
+        "onboard_time": 1756102221,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505975,
+        "num": 505975,
+        "word": "警方回应女子持刀被壮汉制服",
+        "onboard_time": 1756101681,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517821,
+        "num": 497567,
+        "word": "袁昊否认与赵昭仪恋情",
+        "onboard_time": 1756106243,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484820,
+        "num": 484820,
+        "word": "内娱真夫妻持证上岗综艺来了",
+        "onboard_time": 1756092022,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481514,
+        "num": 481514,
+        "word": "三亚非必要不出门",
+        "onboard_time": 1756101681,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262792,
+        "num": 262792,
+        "word": "掐了鲁迅的烟谁来点燃思想的火",
+        "onboard_time": 1756106243,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625885,
+        "num": 262087,
+        "word": "家庭存款超过50万算什么水平",
+        "onboard_time": 1756094364,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 617403,
+        "num": 262055,
+        "word": "女子被家暴数百次开始找保镖",
+        "onboard_time": 1756103722,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471284,
+        "num": 261289,
+        "word": "站姐锤的赵志伟",
+        "onboard_time": 1756103845,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260446,
+        "num": 260446,
+        "word": "孙颖莎瑞典大满贯赛后发文",
+        "onboard_time": 1756105704,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444693,
+        "num": 259849,
+        "word": "张靓颖一伸懒腰手掌就流血",
+        "onboard_time": 1756105583,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373784,
+        "num": 258304,
+        "word": "健身房偶遇宋祖儿",
+        "onboard_time": 1756103903,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371323,
+        "num": 254632,
+        "word": "沈小婷国标舞",
+        "onboard_time": 1756104982,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299986,
+        "num": 253277,
+        "word": "金鹿奖官宣",
+        "onboard_time": 1756102344,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284126,
+        "num": 250689,
+        "word": "黄奕女儿钟丽缇女儿同框",
+        "onboard_time": 1756106544,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141199,
+        "num": 248778,
+        "word": "孙颖莎说荣誉属于整个团队",
+        "onboard_time": 1756106363,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248429,
+        "num": 248429,
+        "word": "44岁阿娇近照曝光",
+        "onboard_time": 1756104143,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246706,
+        "num": 246706,
+        "word": "曝某天王酒店有专属通道到赌场",
+        "onboard_time": 1756092203,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207475,
+        "num": 207475,
+        "word": "七千的苹果我只玩了两千",
+        "onboard_time": 1756105042,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193845,
+        "num": 193845,
+        "word": "男子效仿盗墓小说挖出20件青铜器",
+        "onboard_time": 1756106544,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192537,
+        "num": 192537,
+        "word": "A股成交额历史第二次破3万亿",
+        "onboard_time": 1756107022,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185567,
+        "num": 185567,
+        "word": "张凌赫又出神图",
+        "onboard_time": 1756107083,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181759,
+        "num": 181759,
+        "word": "小吃店买400粒复方甘草片加工卤料",
+        "onboard_time": 1756103662,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172208,
+        "num": 172208,
+        "word": "马思纯张晚意 好嗑",
+        "onboard_time": 1756097603,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169416,
+        "num": 169416,
+        "word": "蒋欣关晓彤 是妈妈是女儿",
+        "onboard_time": 1756107323,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168706,
+        "num": 168706,
+        "word": "鲁迅夹烟墙画被批属于反应过度",
+        "onboard_time": 1756105942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198338,
+        "num": 168142,
+        "word": "美国女子枪杀脑癌丈夫与两子后自杀",
+        "onboard_time": 1756106363,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166351,
+        "num": 166351,
+        "word": "两个人的小森林男配为虞书欣发声",
+        "onboard_time": 1756103423,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165921,
+        "num": 165921,
+        "word": "献鱼编剧",
+        "onboard_time": 1756100304,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163715,
+        "num": 163715,
+        "word": "杨幂有3部一番破2剧了",
+        "onboard_time": 1756097546,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160455,
+        "num": 160455,
+        "word": "等等五官和孙俪太像了",
+        "onboard_time": 1756105401,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156563,
+        "num": 156563,
+        "word": "男子骑车不慎头部卡进红绿灯",
+        "onboard_time": 1756105823,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153961,
+        "num": 153961,
+        "word": "李在明首次访美仅2名美官员迎接",
+        "onboard_time": 1756106123,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20773,
+        "num": 153829,
+        "word": "彭昱畅怎么变这样了",
+        "onboard_time": 1756107202,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116762,
+        "num": 153786,
+        "word": "王玉雯说去年之前和陈星旭不熟",
+        "onboard_time": 1756104982,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180535,
+        "num": 153784,
+        "word": "中国中铁沉痛哀悼遇难者",
+        "onboard_time": 1756095744,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153766,
+        "num": 153766,
+        "word": "孙颖莎晒与王曼昱合照",
+        "onboard_time": 1756105882,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151317,
+        "num": 151317,
+        "word": "智界发布会",
+        "onboard_time": 1756107443,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144696,
+        "num": 144696,
+        "word": "看似会长胖其实能减肥的习惯",
+        "onboard_time": 1756105223,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121178,
+        "num": 121178,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115540,
+        "num": 115540,
+        "word": "王牌对王牌9按年龄排序",
+        "onboard_time": 1756090401,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115086,
+        "num": 115086,
+        "word": "鲁迅夹烟墙画被投诉当事人发声",
+        "onboard_time": 1756103003,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111254,
+        "num": 111254,
+        "word": "上海暴雨",
+        "onboard_time": 1756100062,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108107,
+        "num": 108107,
+        "word": "孙颖莎说王曼昱意志品质非常过硬",
+        "onboard_time": 1756107562,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107472,
+        "num": 107472,
+        "word": "赵志伟虞书欣一年级事件始末",
+        "onboard_time": 1756095865,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106634,
+        "num": 106634,
+        "word": "王牌家族没了沈腾和贾玲",
+        "onboard_time": 1756094723,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}
