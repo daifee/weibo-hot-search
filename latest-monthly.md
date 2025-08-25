@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/25 18:29:50
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/25 18:45:49
 </p>
 </blockquote>
 <p>
@@ -3693,6 +3693,12 @@ B站崩了（热度：964843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%8A%A0%E7%9B%9F%E8%B4%B9%23" target="weibo">
+蜜雪冰城加盟费（热度：953114）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%95%E8%BF%9B%E9%BB%91%E4%BA%BA%E8%AE%A1%E5%88%92%23" target="weibo">
 日本引进黑人计划（热度：953001）
 </a>
@@ -6005,12 +6011,6 @@ SNH48总选排名（热度：690737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8F%20%E5%AE%9D%E6%A0%BC%E4%B8%BD%23" target="weibo">
 柳智敏 宝格丽（热度：689055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%A5%E7%BF%94%E7%9A%84%E7%8B%97%E7%8B%97%E5%8E%BB%E4%B8%96%E4%BA%86%23" target="weibo">
-高以翔的狗狗去世了（热度：688073）
 </a>
 </li>
 

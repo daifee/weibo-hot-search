@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756117790366,
+  "endTime": 1756118749800,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -105,6 +105,14 @@
       "onboard_time": 1756094364,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 953114,
+      "num": 1152498,
+      "word": "蜜雪冰城加盟费",
+      "onboard_time": 1756115964,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 953001,
@@ -307,20 +315,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 552415,
-      "num": 247059,
-      "word": "蜜雪冰城加盟费",
-      "onboard_time": 1756115964,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 551464,
       "num": 551464,
       "word": "IVE回归",
       "onboard_time": 1756113742,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547283,
+      "num": 245791,
+      "word": "微信最邪门的引用功能出现了",
+      "onboard_time": 1756114045,
+      "rank": 43,
+      "category": "互联网,幽默"
     },
     {
       "raw_hot": 544087,
@@ -369,14 +377,6 @@
       "onboard_time": 1756108043,
       "rank": 1,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 512310,
-      "num": 245791,
-      "word": "微信最邪门的引用功能出现了",
-      "onboard_time": 1756114045,
-      "rank": 43,
-      "category": "互联网,幽默"
     },
     {
       "raw_hot": 507895,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386610,
+      "num": 386610,
+      "word": "绍兴文旅称不会因一人投诉盲目更换",
+      "onboard_time": 1756116083,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384272,
       "num": 332893,
       "word": "献鱼编剧",
@@ -603,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334146,
-      "num": 334146,
-      "word": "绍兴文旅称不会因一人投诉盲目更换",
-      "onboard_time": 1756116083,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 330690,
+      "num": 219143,
+      "word": "吴京 我跳过楼你跳过吗",
+      "onboard_time": 1756117583,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 330666,
@@ -691,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281023,
+      "num": 217525,
+      "word": "请回答1988祖贤演员整容",
+      "onboard_time": 1756118181,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280204,
       "num": 383204,
       "word": "尚界H5",
@@ -769,6 +785,14 @@
       "onboard_time": 1756090101,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254566,
+      "num": 254566,
+      "word": "梓渝音乐节",
+      "onboard_time": 1756117464,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 252500,
@@ -889,6 +913,14 @@
       "onboard_time": 1756117583,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217314,
+      "num": 249052,
+      "word": "鲁迅长孙周令飞已戒烟30年",
+      "onboard_time": 1756116024,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213704,
@@ -1155,6 +1187,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188773,
+      "num": 188773,
+      "word": "张艺兴自动躲避夫妻关系",
+      "onboard_time": 1756118363,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 187766,
+      "num": 187766,
+      "word": "张维伊叫自己张小兔",
+      "onboard_time": 1756117882,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187178,
       "num": 187178,
       "word": "女留学生起诉发性暗示微信男生败诉",
@@ -1225,14 +1273,6 @@
       "onboard_time": 1756099884,
       "rank": 19,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 170198,
-      "num": 183243,
-      "word": "梓渝音乐节",
-      "onboard_time": 1756117464,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 169416,
@@ -1475,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151519,
+      "num": 151519,
+      "word": "王影璐你就娶了陈飞宇吧",
+      "onboard_time": 1756116143,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151317,
       "num": 151317,
       "word": "智界发布会",
@@ -1520,14 +1568,6 @@
       "word": "第一次见这么听劝的爱豆",
       "onboard_time": 1756095325,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 147501,
-      "num": 147098,
-      "word": "吴京 我跳过楼你跳过吗",
-      "onboard_time": 1756117583,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1771,20 +1811,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 131810,
-      "num": 131810,
-      "word": "王影璐你就娶了陈飞宇吧",
-      "onboard_time": 1756116143,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130470,
       "num": 130470,
       "word": "马嘉祺跳了刀马刀马",
       "onboard_time": 1756044446,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130199,
+      "num": 130199,
+      "word": "瘦了后出片像呼吸一样简单",
+      "onboard_time": 1756117704,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 130151,
@@ -2107,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116370,
+      "num": 116370,
+      "word": "雷军说奔驰强的有点变态",
+      "onboard_time": 1756118123,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116111,
       "num": 116111,
       "word": "白桃星座",
@@ -2121,14 +2169,6 @@
       "onboard_time": 1756097245,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115070,
-      "num": 249052,
-      "word": "鲁迅长孙周令飞已戒烟30年",
-      "onboard_time": 1756116024,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114880,
@@ -2291,14 +2331,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 106088,
-      "num": 106088,
-      "word": "瘦了后出片像呼吸一样简单",
-      "onboard_time": 1756117704,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105744,
       "num": 105744,
       "word": "人在濒死前身体会发生的变化",
@@ -2313,6 +2345,14 @@
       "onboard_time": 1756089861,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104786,
+      "num": 104786,
+      "word": "陈数 渴望被那英夸奖的小孩",
+      "onboard_time": 1756118606,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 104454,
@@ -2379,12 +2419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101045,
+      "num": 101045,
+      "word": "新郎预判了新娘所有动作",
+      "onboard_time": 1756118003,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100596,
       "num": 325680,
       "word": "25万级SUV闭眼入智界R7",
       "onboard_time": 1756110864,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 99998,
+      "num": 99998,
+      "word": "熬夜 葡萄膜炎",
+      "onboard_time": 1756115244,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99539,
@@ -2489,6 +2545,14 @@
       "onboard_time": 1756029383,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88552,
+      "num": 118155,
+      "word": "春秋航空发严正声明",
+      "onboard_time": 1756115064,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87202,
@@ -2745,6 +2809,14 @@
       "onboard_time": 1756058957,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58361,
+      "num": 151810,
+      "word": "去日本旅游或要多掏一笔钱",
+      "onboard_time": 1756117882,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 57425,
