@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756139564186,
+  "endTime": 1756140510477,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401270,
+      "num": 401270,
+      "word": "aespa",
+      "onboard_time": 1756136127,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 396949,
       "num": 396949,
       "word": "男网红娶残障老婆事件调查结果",
       "onboard_time": 1756128984,
       "rank": 1,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 381521,
-      "num": 381521,
-      "word": "aespa",
-      "onboard_time": 1756136127,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 341779,
@@ -123,20 +123,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 183171,
+      "num": 183171,
+      "word": "kid退赛",
+      "onboard_time": 1756134208,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177648,
       "num": 177648,
       "word": "黄多多好像年轻的刘诗诗",
       "onboard_time": 1756120163,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170587,
-      "num": 170587,
-      "word": "kid退赛",
-      "onboard_time": 1756134208,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 169756,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 89307,
-      "num": 89307,
+      "num": 183796,
       "word": "百余热心人士要求不要修改鲁迅画面",
       "onboard_time": 1756137086,
       "rank": 31,
@@ -257,6 +257,14 @@
       "onboard_time": 1756134149,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 86100,
+      "num": 82030,
+      "word": "泰王室通报帕公主病情并加封军衔",
+      "onboard_time": 1756138164,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 85407,
@@ -292,15 +300,23 @@
     },
     {
       "raw_hot": 80091,
-      "num": 80091,
+      "num": 81595,
       "word": "瘦了后出片像呼吸一样简单",
       "onboard_time": 1756117704,
       "rank": 38,
       "category": "情感"
     },
     {
+      "raw_hot": 75271,
+      "num": 195506,
+      "word": "深夜开锁被索2410元女生发声",
+      "onboard_time": 1756138584,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74428,
-      "num": 74428,
+      "num": 81580,
       "word": "孙颖莎不踩井盖",
       "onboard_time": 1756133968,
       "rank": 39,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 71565,
-      "num": 71565,
+      "num": 81580,
       "word": "清融尽力了",
       "onboard_time": 1756135767,
       "rank": 40,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 71068,
-      "num": 71068,
+      "num": 81585,
       "word": "15岁林大竣身高",
       "onboard_time": 1756124963,
       "rank": 41,
@@ -324,15 +340,23 @@
     },
     {
       "raw_hot": 70522,
-      "num": 70522,
+      "num": 81593,
       "word": "sakuya金牌",
       "onboard_time": 1756136607,
       "rank": 42,
       "category": "综艺"
     },
     {
+      "raw_hot": 70284,
+      "num": 81596,
+      "word": "恭喜凡人修仙传动画",
+      "onboard_time": 1756140380,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 68897,
-      "num": 68897,
+      "num": 81587,
       "word": "王一博拍照动作神似敦煌飞天",
       "onboard_time": 1756125683,
       "rank": 43,
@@ -348,31 +372,15 @@
     },
     {
       "raw_hot": 67959,
-      "num": 67959,
+      "num": 81579,
       "word": "日本女孩称在中国活得放松",
       "onboard_time": 1756133126,
       "rank": 44,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67830,
-      "num": 195506,
-      "word": "深夜开锁被索2410元女生发声",
-      "onboard_time": 1756138584,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67519,
-      "num": 67519,
-      "word": "泰王室通报帕公主病情并加封军衔",
-      "onboard_time": 1756138164,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 67382,
-      "num": 67382,
+      "num": 81587,
       "word": "陈奕恒总结舞台",
       "onboard_time": 1756123162,
       "rank": 48,
@@ -387,20 +395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61600,
+      "num": 385623,
+      "word": "真想一键快进到阅兵当天",
+      "onboard_time": 1756127724,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57976,
-      "num": 65870,
+      "num": 81583,
       "word": "孙颖莎又创一项纪录",
       "onboard_time": 1756137566,
       "rank": 49,
       "category": "体育"
     },
     {
-      "raw_hot": 55809,
-      "num": 385623,
-      "word": "真想一键快进到阅兵当天",
-      "onboard_time": 1756127724,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 48171,
+      "num": 81576,
+      "word": "刘宇宁再获最受欢迎男歌手",
+      "onboard_time": 1756137806,
+      "rank": 49,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
