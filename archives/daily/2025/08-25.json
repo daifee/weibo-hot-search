@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756099669316,
+  "endTime": 1756100665994,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 954190,
-      "num": 272172,
+      "num": 303877,
       "word": "家庭存款超过50万算什么水平",
       "onboard_time": 1756094364,
       "rank": 10,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 735011,
-      "num": 271523,
+      "num": 303115,
       "word": "曝某天王酒店有专属通道到赌场",
       "onboard_time": 1756092203,
       "rank": 35,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 657596,
-      "num": 272020,
+      "num": 303667,
       "word": "赵志伟虞书欣一年级事件始末",
       "onboard_time": 1756095865,
       "rank": 13,
@@ -153,6 +153,14 @@
       "onboard_time": 1756052243,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 568333,
+      "num": 568333,
+      "word": "中国中铁沉痛哀悼遇难者",
+      "onboard_time": 1756095744,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 558224,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 521449,
-      "num": 373372,
+      "num": 444821,
       "word": "王牌家族没了沈腾和贾玲",
       "onboard_time": 1756094723,
       "rank": 14,
@@ -203,16 +211,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 475128,
-      "num": 475128,
-      "word": "中国中铁沉痛哀悼遇难者",
-      "onboard_time": 1756095744,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 463001,
-      "num": 288022,
+      "num": 309464,
       "word": "谢霆锋带大儿子迪拜度假",
       "onboard_time": 1756094782,
       "rank": 15,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 424250,
-      "num": 271775,
+      "num": 303435,
       "word": "马思纯张晚意 好嗑",
       "onboard_time": 1756097603,
       "rank": 12,
@@ -347,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 323795,
+      "num": 323795,
+      "word": "醉汉遭网约车司机拒载下车后溺亡",
+      "onboard_time": 1756096344,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319887,
       "num": 241962,
       "word": "邢菲终于要升咖了",
@@ -363,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311745,
+      "num": 311745,
+      "word": "物业回应小区蛇患严重随处可见",
+      "onboard_time": 1756098863,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308362,
       "num": 241759,
       "word": "27岁尿毒症女生跑外卖续命4年",
       "onboard_time": 1756046667,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302807,
+      "num": 302807,
+      "word": "杨幂有3部一番破2剧了",
+      "onboard_time": 1756097546,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293117,
@@ -393,22 +417,6 @@
       "onboard_time": 1756044385,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272543,
-      "num": 272543,
-      "word": "醉汉遭网约车司机拒载下车后溺亡",
-      "onboard_time": 1756096344,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271462,
-      "num": 271462,
-      "word": "杨幂有3部一番破2剧了",
-      "onboard_time": 1756097546,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 264268,
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216485,
+      "num": 216485,
+      "word": "献鱼编剧",
+      "onboard_time": 1756100304,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211821,
       "num": 262101,
       "word": "沈腾王牌家族亲友",
@@ -547,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200500,
+      "num": 200500,
+      "word": "田栩宁新官宣代言互动值最高",
+      "onboard_time": 1756100243,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200024,
       "num": 200024,
       "word": "谢娜不基础谢娜妈妈更不基础",
@@ -555,8 +579,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198428,
+      "num": 198428,
+      "word": "上海暴雨",
+      "onboard_time": 1756100062,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197736,
-      "num": 162830,
+      "num": 200784,
       "word": "斗罗大陆小舞",
       "onboard_time": 1756099584,
       "rank": 22,
@@ -601,6 +633,14 @@
       "onboard_time": 1756052183,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193188,
+      "num": 193188,
+      "word": "张凌赫AnotherMan封面",
+      "onboard_time": 1756100005,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192961,
@@ -651,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189272,
+      "num": 189272,
+      "word": "补偿性消费",
+      "onboard_time": 1756096645,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187178,
       "num": 187178,
       "word": "女留学生起诉发性暗示微信男生败诉",
@@ -659,11 +707,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184966,
-      "num": 272342,
-      "word": "物业回应小区蛇患严重随处可见",
-      "onboard_time": 1756098863,
-      "rank": 9,
+      "raw_hot": 179426,
+      "num": 179426,
+      "word": "上海冰雹",
+      "onboard_time": 1756100243,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -697,6 +745,14 @@
       "onboard_time": 1756095444,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167047,
+      "num": 180387,
+      "word": "陶喆唱到一半想吃烧烤",
+      "onboard_time": 1756099763,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 166596,
@@ -763,12 +819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155488,
+      "num": 155488,
+      "word": "杨洋花少时期真灵珠",
+      "onboard_time": 1756099462,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155160,
       "num": 155160,
       "word": "吴京摇头",
       "onboard_time": 1756095022,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154974,
+      "num": 154974,
+      "word": "RM成员得知金钟国结婚的反应",
+      "onboard_time": 1756098444,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 154136,
@@ -793,14 +865,6 @@
       "onboard_time": 1756099163,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152020,
-      "num": 165404,
-      "word": "补偿性消费",
-      "onboard_time": 1756096645,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 150265,
@@ -875,8 +939,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141873,
-      "num": 135279,
+      "raw_hot": 142298,
+      "num": 142298,
       "word": "心动的信号8",
       "onboard_time": 1756096884,
       "rank": 38,
@@ -897,6 +961,14 @@
       "onboard_time": 1756095325,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137748,
+      "num": 137748,
+      "word": "展轩写了两首新歌",
+      "onboard_time": 1756100483,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 136733,
@@ -931,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132629,
-      "num": 132629,
-      "word": "RM成员得知金钟国结婚的反应",
-      "onboard_time": 1756098444,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132572,
       "num": 132572,
       "word": "上海一家五口39平米的小家",
@@ -956,7 +1020,7 @@
     },
     {
       "raw_hot": 132090,
-      "num": 132090,
+      "num": 304552,
       "word": "阅兵女教练说性别不是衡量能力的标尺",
       "onboard_time": 1756099283,
       "rank": 32,
@@ -969,6 +1033,14 @@
       "onboard_time": 1756044446,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130151,
+      "num": 130151,
+      "word": "35岁女生学拉丁舞一年半的真实变化",
+      "onboard_time": 1756099944,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 129717,
@@ -1027,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123467,
+      "num": 123467,
+      "word": "梅德韦杰夫止步美网首轮",
+      "onboard_time": 1756099944,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122051,
       "num": 138607,
       "word": "易烊千玺走向世界又走回我们",
@@ -1081,6 +1161,14 @@
       "onboard_time": 1756088062,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119990,
+      "num": 119990,
+      "word": "罗晋王子文新剧纯恨夫妻",
+      "onboard_time": 1756100543,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118325,
@@ -1155,6 +1243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113968,
+      "num": 216264,
+      "word": "WTT解说盛赞孙颖莎现象级统治力",
+      "onboard_time": 1756100062,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113963,
       "num": 113963,
       "word": "白鹿说自己太瘦了",
@@ -1177,14 +1273,6 @@
       "onboard_time": 1756043245,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112571,
-      "num": 112571,
-      "word": "杨洋花少时期真灵珠",
-      "onboard_time": 1756099462,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 109976,
@@ -1283,11 +1371,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103607,
+      "num": 138641,
+      "word": "中专生逆袭成中科院院士候选人",
+      "onboard_time": 1756099523,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103532,
       "num": 317907,
       "word": "老师溜索渡江劝回一个个学生",
       "onboard_time": 1756087402,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103413,
+      "num": 138793,
+      "word": "奶茶 反式脂肪酸",
+      "onboard_time": 1756100123,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1523,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66410,
+      "num": 209902,
+      "word": "上海成年单身人士按家庭执行限购",
+      "onboard_time": 1756099884,
+      "rank": 19,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 66269,
       "num": 66269,
       "word": "国乒男单无缘冠军",
@@ -1545,14 +1657,6 @@
       "onboard_time": 1756091122,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 60893,
-      "num": 123588,
-      "word": "中专生逆袭成中科院院士候选人",
-      "onboard_time": 1756099523,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60673,
@@ -1587,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57425,
+      "num": 158031,
+      "word": "汪苏泷演唱会来了一群酒蒙子",
+      "onboard_time": 1756099703,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 56987,
       "num": 56987,
       "word": "WTT欧洲大满贯瑞典站冠军奖杯亮相",
@@ -1619,8 +1731,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53560,
+      "num": 213117,
+      "word": "上海发布楼市沪六条调整限购",
+      "onboard_time": 1756099462,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52325,
-      "num": 431306,
+      "num": 476927,
       "word": "北京范儿",
       "onboard_time": 1756095383,
       "rank": 2,
@@ -1707,14 +1827,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38284,
-      "num": 163445,
-      "word": "上海发布楼市沪六条调整限购",
-      "onboard_time": 1756099462,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38192,
       "num": 43974,
       "word": "从1写到500给200块",
@@ -1745,6 +1857,14 @@
       "onboard_time": 1756076958,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35230,
+      "num": 156377,
+      "word": "上海商贷不再区分首套房和二套房",
+      "onboard_time": 1756099944,
+      "rank": 29,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 33630,
