@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756087253245,
+  "endTime": 1756088611923,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -27,6 +27,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1626819,
+      "num": 296936,
+      "word": "赵志伟 我没有出过轨",
+      "onboard_time": 1756086321,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 958091,
+      "num": 1153294,
+      "word": "首款曲面iPhone",
+      "onboard_time": 1756082905,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 936576,
       "num": 528664,
       "word": "赵志伟回复网友评论",
@@ -41,14 +57,6 @@
       "onboard_time": 1756081281,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 836056,
-      "num": 836056,
-      "word": "首款曲面iPhone",
-      "onboard_time": 1756082905,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 796831,
@@ -81,14 +89,6 @@
       "onboard_time": 1756077740,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 597666,
-      "num": 292591,
-      "word": "赵志伟 我没有出过轨",
-      "onboard_time": 1756086321,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 595880,
@@ -131,8 +131,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 457006,
-      "num": 457006,
+      "raw_hot": 507895,
+      "num": 507895,
       "word": "女子拒绝男子被重伤家属拒赔医疗费",
       "onboard_time": 1756084041,
       "rank": 6,
@@ -179,12 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389715,
+      "num": 217789,
+      "word": "关晓彤王牌9官宣搭子",
+      "onboard_time": 1756086862,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373714,
       "num": 373714,
       "word": "男子p图骗色骗酒7女子上当",
       "onboard_time": 1756050564,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370168,
+      "num": 370168,
+      "word": "下周三就能看阅兵了",
+      "onboard_time": 1756082603,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 364582,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323074,
+      "num": 323074,
+      "word": "孙颖莎将再度刷新世排万分纪录",
+      "onboard_time": 1756087402,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319887,
       "num": 241962,
       "word": "邢菲终于要升咖了",
@@ -219,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 302371,
-      "num": 302371,
-      "word": "下周三就能看阅兵了",
-      "onboard_time": 1756082603,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 278175,
       "num": 278175,
       "word": "日本博主惊叹中国外卖袋",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 264268,
-      "num": 182944,
+      "num": 216721,
       "word": "每天只睡6个小时身体的变化",
       "onboard_time": 1756052903,
       "rank": 47,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 260596,
-      "num": 298339,
+      "num": 335253,
       "word": "1986年绣绣走了杨幂出生了",
       "onboard_time": 1756079481,
       "rank": 9,
@@ -291,8 +307,24 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220322,
+      "num": 220322,
+      "word": "鞠婧祎 秋老虎怕了你了",
+      "onboard_time": 1756079183,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216242,
+      "num": 216242,
+      "word": "A股",
+      "onboard_time": 1756087881,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210940,
-      "num": 210940,
+      "num": 219591,
       "word": "偶运会",
       "onboard_time": 1756082422,
       "rank": 15,
@@ -307,12 +339,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 210024,
-      "num": 210024,
-      "word": "鞠婧祎 秋老虎怕了你了",
-      "onboard_time": 1756079183,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 202776,
+      "num": 220240,
+      "word": "王牌对王牌",
+      "onboard_time": 1756087881,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 202749,
@@ -371,20 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184710,
-      "num": 184710,
+      "raw_hot": 187178,
+      "num": 187178,
       "word": "女留学生起诉发性暗示微信男生败诉",
       "onboard_time": 1756051165,
       "rank": 33,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182218,
-      "num": 182218,
-      "word": "关晓彤王牌9官宣搭子",
-      "onboard_time": 1756086862,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 178835,
+      "num": 178835,
+      "word": "大场面我不再站旁边",
+      "onboard_time": 1756085362,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169323,
@@ -427,6 +459,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 148879,
+      "num": 226830,
+      "word": "暴雨高温台风预警齐发",
+      "onboard_time": 1756086200,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147981,
       "num": 151197,
       "word": "TTG晋级夏季赛胜决",
@@ -441,6 +481,14 @@
       "onboard_time": 1756049785,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140335,
+      "num": 140335,
+      "word": "突然意识到3年跳了9次槽才25岁",
+      "onboard_time": 1756085121,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 136733,
@@ -491,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125093,
-      "num": 125093,
-      "word": "大场面我不再站旁边",
-      "onboard_time": 1756085362,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121680,
       "num": 121680,
       "word": "网友高铁站偶遇刘亦菲",
@@ -515,11 +555,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117795,
-      "num": 117795,
-      "word": "突然意识到3年跳了9次槽才25岁",
-      "onboard_time": 1756085121,
-      "rank": 32,
+      "raw_hot": 120309,
+      "num": 120309,
+      "word": "孙颖莎高能量星人",
+      "onboard_time": 1756088062,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118865,
+      "num": 118865,
+      "word": "睡眠邪修大法",
+      "onboard_time": 1756087761,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117834,
+      "num": 117834,
+      "word": "人真的要珍惜单身的时候",
+      "onboard_time": 1756082062,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -555,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113941,
-      "num": 226830,
-      "word": "暴雨高温台风预警齐发",
-      "onboard_time": 1756086200,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113924,
       "num": 113924,
       "word": "内娱又有神级求婚现场了",
@@ -577,14 +625,6 @@
       "onboard_time": 1756043245,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 112832,
-      "num": 112832,
-      "word": "人真的要珍惜单身的时候",
-      "onboard_time": 1756082062,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 109976,
@@ -635,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103532,
+      "num": 317907,
+      "word": "老师溜索渡江劝回一个个学生",
+      "onboard_time": 1756087402,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99539,
       "num": 99539,
       "word": "周深垫着脚领奖",
@@ -683,12 +731,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92469,
+      "num": 92469,
+      "word": "王皓拍肩膀安慰林诗栋",
+      "onboard_time": 1756085303,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91788,
       "num": 91788,
       "word": "医保帮尿毒症女骑手报销了7成费用",
       "onboard_time": 1756050263,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91742,
+      "num": 91742,
+      "word": "朝鲜官方公开库尔斯克朝军作战画面",
+      "onboard_time": 1756084162,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90815,
@@ -699,20 +763,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90654,
-      "num": 90654,
-      "word": "朝鲜官方公开库尔斯克朝军作战画面",
-      "onboard_time": 1756084162,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 87202,
       "num": 87202,
       "word": "郁可唯二封内地最佳女歌手",
       "onboard_time": 1756085902,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85101,
+      "num": 85101,
+      "word": "老太捡垃圾堆满小区",
+      "onboard_time": 1756087642,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84247,
@@ -731,12 +795,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 80951,
-      "num": 80951,
-      "word": "王皓拍肩膀安慰林诗栋",
-      "onboard_time": 1756085303,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 80688,
+      "num": 80688,
+      "word": "此沙太帅了",
+      "onboard_time": 1756087761,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 80631,
@@ -761,6 +825,14 @@
       "onboard_time": 1756056798,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79551,
+      "num": 256851,
+      "word": "淘宝闪购官宣外卖行业首套制服",
+      "onboard_time": 1756087283,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 79340,
@@ -817,6 +889,14 @@
       "onboard_time": 1756082062,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71810,
+      "num": 99342,
+      "word": "脂包骨体脂率比猪还高2倍",
+      "onboard_time": 1756087881,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 68905,
@@ -987,7 +1067,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 29058,
+      "raw_hot": 30135,
       "num": 545477,
       "word": "护网警惕定时炸弹0day漏洞",
       "onboard_time": 1756084222,
