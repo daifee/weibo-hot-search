@@ -1,0 +1,410 @@
+{
+  "runTime": 1756111792385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 633236,
+        "num": 1101317,
+        "word": "莫雷加德球拍被踩",
+        "onboard_time": 1756101622,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514571,
+        "num": 514571,
+        "word": "刘亦菲 智界",
+        "onboard_time": 1756108043,
+        "rank": 1,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 21678,
+        "num": 477671,
+        "word": "她花了26年给沙漠织围脖",
+        "onboard_time": 1756103543,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653438,
+        "num": 466344,
+        "word": "张靓颖一伸懒腰手掌就流血",
+        "onboard_time": 1756105583,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448619,
+        "num": 448619,
+        "word": "日本将高温甩锅中国",
+        "onboard_time": 1756107743,
+        "rank": 4,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 404276,
+        "num": 404276,
+        "word": "男子效仿盗墓小说挖出20件青铜器",
+        "onboard_time": 1756106544,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628592,
+        "num": 398351,
+        "word": "黄奕女儿钟丽缇女儿同框",
+        "onboard_time": 1756106544,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389658,
+        "num": 389658,
+        "word": "袁昊否认与赵昭仪恋情",
+        "onboard_time": 1756106243,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284074,
+        "num": 385124,
+        "word": "迪士尼票价",
+        "onboard_time": 1756108884,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280204,
+        "num": 383204,
+        "word": "尚界H5",
+        "onboard_time": 1756110924,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1536773,
+        "num": 383195,
+        "word": "吴昕的脸怎么了",
+        "onboard_time": 1756108103,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383187,
+        "num": 383187,
+        "word": "蓝盈莹大方展示素颜雀斑",
+        "onboard_time": 1756108583,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345406,
+        "num": 345406,
+        "word": "家庭存款超过50万算什么水平",
+        "onboard_time": 1756094364,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333803,
+        "num": 333803,
+        "word": "日本引进黑人计划",
+        "onboard_time": 1756108884,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 603703,
+        "num": 331374,
+        "word": "我对鲁迅在自己墙上抽烟无意见",
+        "onboard_time": 1756104323,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392221,
+        "num": 329211,
+        "word": "掐了鲁迅的烟谁来点燃思想的火",
+        "onboard_time": 1756106243,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45933,
+        "num": 325680,
+        "word": "25万级SUV闭眼入智界R7",
+        "onboard_time": 1756110864,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 323443,
+        "num": 323443,
+        "word": "昀牵孟绕 横店痛城",
+        "onboard_time": 1756108403,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281115,
+        "num": 281115,
+        "word": "没有相亲欲望的朋友圈",
+        "onboard_time": 1756110564,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55757,
+        "num": 256420,
+        "word": "智界R7S7首发车规级贝母饰板",
+        "onboard_time": 1756109783,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 248800,
+        "num": 248800,
+        "word": "被体制内大佬的工作留痕震撼到了",
+        "onboard_time": 1756108342,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229966,
+        "num": 229966,
+        "word": "男子骑车不慎头部卡进红绿灯",
+        "onboard_time": 1756105823,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222108,
+        "num": 222108,
+        "word": "女子被家暴数百次开始找保镖",
+        "onboard_time": 1756103722,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208042,
+        "num": 208042,
+        "word": "孙颖莎首位WTT大满贯单打四冠王",
+        "onboard_time": 1756111462,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202463,
+        "num": 202463,
+        "word": "孙颖莎评论区夕阳刷屏",
+        "onboard_time": 1756109604,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173171,
+        "num": 173171,
+        "word": "张凌赫又出神图",
+        "onboard_time": 1756107083,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167828,
+        "num": 167828,
+        "word": "健身房偶遇宋祖儿",
+        "onboard_time": 1756103903,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163536,
+        "num": 163536,
+        "word": "鲁迅夹烟墙画被批属于反应过度",
+        "onboard_time": 1756105942,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154818,
+        "num": 154818,
+        "word": "陈小春 我有精神病别惹我",
+        "onboard_time": 1756111283,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88628,
+        "num": 154430,
+        "word": "智界R7语音泊车隔窗对讲首发上车",
+        "onboard_time": 1756110505,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163910,
+        "num": 154403,
+        "word": "我自律减肥10个月爆改人生",
+        "onboard_time": 1756111582,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 154303,
+        "num": 154303,
+        "word": "美娜告黑",
+        "onboard_time": 1756111525,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150345,
+        "num": 150345,
+        "word": "办婚礼不领证 被判退彩礼",
+        "onboard_time": 1756108762,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149487,
+        "num": 149487,
+        "word": "七千的苹果我只玩了两千",
+        "onboard_time": 1756105042,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144991,
+        "num": 144991,
+        "word": "孙颖莎感谢教练团队和可爱的队友们",
+        "onboard_time": 1756111462,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137441,
+        "num": 137441,
+        "word": "月嫂疏忽致29天婴儿重摔颅内出血",
+        "onboard_time": 1756110864,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137368,
+        "num": 137368,
+        "word": "坐飞机偶遇刘宇宁刘雨昕刘宇",
+        "onboard_time": 1756107922,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92043,
+        "num": 136546,
+        "word": "茶颜悦色为什么不火了",
+        "onboard_time": 1756111104,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22747,
+        "num": 136482,
+        "word": "离开工位却被困在群里",
+        "onboard_time": 1756111345,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136466,
+        "num": 136466,
+        "word": "罗晋你这样我有点害怕",
+        "onboard_time": 1756111582,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130994,
+        "num": 130994,
+        "word": "问界",
+        "onboard_time": 1756110262,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127212,
+        "num": 127212,
+        "word": "宋祖儿南京",
+        "onboard_time": 1756111704,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125803,
+        "num": 125803,
+        "word": "迪丽热巴被小朋友逗笑了",
+        "onboard_time": 1756110143,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124278,
+        "num": 124278,
+        "word": "小吃店买400粒复方甘草片加工卤料",
+        "onboard_time": 1756103662,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122712,
+        "num": 122712,
+        "word": "labubu 迷你版",
+        "onboard_time": 1756109423,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 75415,
+        "num": 121877,
+        "word": "北京范儿",
+        "onboard_time": 1756095383,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121534,
+        "num": 121534,
+        "word": "蒋欣关晓彤 是妈妈是女儿",
+        "onboard_time": 1756107323,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120331,
+        "num": 120331,
+        "word": "国乒最强阵容出战中国大满贯",
+        "onboard_time": 1756111044,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118265,
+        "num": 118265,
+        "word": "连风都偏爱李沁的发丝",
+        "onboard_time": 1756111763,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117970,
+        "num": 117970,
+        "word": "东方风云榜",
+        "onboard_time": 1756111224,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
