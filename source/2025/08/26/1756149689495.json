@@ -1,0 +1,410 @@
+{
+  "runTime": 1756149689495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 180705,
+        "num": 180705,
+        "word": "高速有人戴恐怖面具吓车",
+        "onboard_time": 1756135406,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70944,
+        "num": 70944,
+        "word": "刘浩存宋威龙 簪星",
+        "onboard_time": 1756137324,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21920,
+        "num": 62645,
+        "word": "真想一键快进到阅兵当天",
+        "onboard_time": 1756127724,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60084,
+        "num": 60084,
+        "word": "网红称吃火鸡面烧穿胃索赔7700万",
+        "onboard_time": 1756132044,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58003,
+        "num": 58003,
+        "word": "乌兰察布",
+        "onboard_time": 1756137026,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 56551,
+        "num": 56551,
+        "word": "kid退赛",
+        "onboard_time": 1756134208,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54784,
+        "num": 54784,
+        "word": "带这些字眼的奶茶尽量别点",
+        "onboard_time": 1756126944,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53432,
+        "num": 53432,
+        "word": "老人捅马蜂窝被蜇100多下去世",
+        "onboard_time": 1756136247,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45663,
+        "num": 45663,
+        "word": "独居女生深夜开锁被索要2410元",
+        "onboard_time": 1756135108,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43734,
+        "num": 43734,
+        "word": "男网红娶残障老婆事件调查结果",
+        "onboard_time": 1756128984,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 304969,
+        "num": 43688,
+        "word": "曝王鹤棣和神秘女友吵架",
+        "onboard_time": 1756136547,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81234,
+        "num": 43583,
+        "word": "何晟铭朋友圈 山水一程永不相逢",
+        "onboard_time": 1756133006,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63695,
+        "num": 43511,
+        "word": "王玉雯你真的火了",
+        "onboard_time": 1756124663,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48862,
+        "num": 43504,
+        "word": "男子杀妻死缓女方家属不满判决上诉",
+        "onboard_time": 1756128803,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43433,
+        "num": 43433,
+        "word": "德国教师16年病假领百万工资",
+        "onboard_time": 1756137566,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34467,
+        "num": 34467,
+        "word": "女子试图带孩子喂藏马熊险被袭击",
+        "onboard_time": 1756141039,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32284,
+        "num": 32284,
+        "word": "黄多多好像年轻的刘诗诗",
+        "onboard_time": 1756120163,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32170,
+        "num": 32170,
+        "word": "刘宇宁裙子跟不上腿",
+        "onboard_time": 1756131984,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29820,
+        "num": 29820,
+        "word": "aespa",
+        "onboard_time": 1756136127,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28242,
+        "num": 29090,
+        "word": "刘亦菲和我一起",
+        "onboard_time": 1756142659,
+        "rank": 19,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 35061,
+        "num": 28831,
+        "word": "从一颗痣到确诊癌症",
+        "onboard_time": 1756128382,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28524,
+        "num": 28524,
+        "word": "女子询问海底捞换配菜被开黄腔辱骂",
+        "onboard_time": 1756121303,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27557,
+        "num": 27557,
+        "word": "百余热心人士要求不要修改鲁迅画面",
+        "onboard_time": 1756137086,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25705,
+        "num": 27554,
+        "word": "200多枚濒危鹦鹉蛋被冲进厕所",
+        "onboard_time": 1756137026,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24678,
+        "num": 27551,
+        "word": "陈奕恒总结舞台",
+        "onboard_time": 1756123162,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23498,
+        "num": 27551,
+        "word": "日月星移爱旅相依",
+        "onboard_time": 1756131623,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 23459,
+        "num": 27545,
+        "word": "sakuya金牌",
+        "onboard_time": 1756136607,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22321,
+        "num": 27544,
+        "word": "持刀追赶男孩女子有精神分裂症",
+        "onboard_time": 1756125385,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22130,
+        "num": 27539,
+        "word": "秃子发diss",
+        "onboard_time": 1756134149,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22085,
+        "num": 27537,
+        "word": "肖战花仙子",
+        "onboard_time": 1756121662,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21884,
+        "num": 27535,
+        "word": "那些月入过万的小众工作",
+        "onboard_time": 1756122623,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21060,
+        "num": 27532,
+        "word": "深夜开锁被索2410元女生发声",
+        "onboard_time": 1756138584,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20481,
+        "num": 27530,
+        "word": "女子在驿站将别人快递件全部扔下",
+        "onboard_time": 1756144156,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19910,
+        "num": 27528,
+        "word": "感受任嘉伦争分夺秒唱跳爆发力",
+        "onboard_time": 1756140740,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19650,
+        "num": 27522,
+        "word": "泰王室通报帕公主病情并加封军衔",
+        "onboard_time": 1756138164,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19587,
+        "num": 27519,
+        "word": "刘宇宁再获最受欢迎男歌手",
+        "onboard_time": 1756137806,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19572,
+        "num": 27519,
+        "word": "甜馨小酒窝一起跳舞了",
+        "onboard_time": 1756124963,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19180,
+        "num": 27515,
+        "word": "绝意状态",
+        "onboard_time": 1756135706,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18969,
+        "num": 27511,
+        "word": "今年打了翻身仗的4位明星",
+        "onboard_time": 1756120644,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18872,
+        "num": 27510,
+        "word": "15岁林大竣身高",
+        "onboard_time": 1756124963,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8649,
+        "num": 27507,
+        "word": "阅兵导弹装备回顾",
+        "onboard_time": 1756149495,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 18714,
+        "num": 27504,
+        "word": "无畏 进步",
+        "onboard_time": 1756134687,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18458,
+        "num": 27500,
+        "word": "汪苏泷最佳男歌手",
+        "onboard_time": 1756136607,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18411,
+        "num": 27498,
+        "word": "戴恐怖面具故意吓高速过往车辆",
+        "onboard_time": 1756138224,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17803,
+        "num": 27492,
+        "word": "毛不易又来赚我眼泪了",
+        "onboard_time": 1756137624,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17340,
+        "num": 27489,
+        "word": "清融尽力了",
+        "onboard_time": 1756135767,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16548,
+        "num": 27487,
+        "word": "张碧晨获亚洲最佳女歌手",
+        "onboard_time": 1756132105,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16521,
+        "num": 27483,
+        "word": "汶川地震被救男孩将参加阅兵",
+        "onboard_time": 1756135887,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16443,
+        "num": 27482,
+        "word": "美美桑内手势舞来啦",
+        "onboard_time": 1756149675,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16300,
+        "num": 27478,
+        "word": "23岁怀孕上大学的经历和感受",
+        "onboard_time": 1756116143,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#这条路和这群人习近平记在心上#"
+    }
+  }
+}
