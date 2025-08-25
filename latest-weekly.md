@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/24 00:28:30 ~ 2025/08/26 04:28:33
+本榜单时间：2025/08/24 00:28:30 ~ 2025/08/26 04:42:09
 </p>
 </blockquote>
 <p>
@@ -5913,6 +5913,12 @@ AG夺得EWC穿越火线冠军（热度：31951）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E8%B4%A6%E5%8F%B7%E8%A2%AB%E6%8E%A5%E6%89%8B%E5%90%8E%E5%B0%86%E5%A4%8D%E6%92%AD%23" target="weibo">
+辛巴账号被接手后将复播（热度：28268）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B9%B4%E5%BA%A6%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%86%85%E5%9C%B0%E7%94%B7%E6%AD%8C%E6%89%8B%23" target="weibo">
 周深年度影响力内地男歌手（热度：28234）
 </a>
@@ -6029,12 +6035,6 @@ CNCF闪耀EWC（热度：28174）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23going%E4%BA%BA%E7%9A%84%E4%BA%8B%E4%BA%8E%E6%96%87%E6%96%87%E9%83%BD%E5%81%9A%E4%BA%86%23" target="weibo">
 going人的事于文文都做了（热度：22932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E8%B4%A6%E5%8F%B7%E8%A2%AB%E6%8E%A5%E6%89%8B%E5%90%8E%E5%B0%86%E5%A4%8D%E6%92%AD%23" target="weibo">
-辛巴账号被接手后将复播（热度：22833）
 </a>
 </li>
 
@@ -6165,14 +6165,14 @@ going人的事于文文都做了（热度：22932）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%89%B9%E4%BC%A6%E6%96%AF%E6%A2%A6%E6%B8%B8%E4%BB%99%E5%A2%83%23" target="weibo">
-宋亚轩特伦斯梦游仙境（热度：14713）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E6%B9%96%E5%8D%97%E8%A2%AB%E6%8B%89%E7%BB%86%E9%92%A2%E7%AD%8B%23" target="weibo">
+记者暗访湖南被拉细钢筋（热度：14921）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E6%B9%96%E5%8D%97%E8%A2%AB%E6%8B%89%E7%BB%86%E9%92%A2%E7%AD%8B%23" target="weibo">
-记者暗访湖南被拉细钢筋（热度：14648）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%89%B9%E4%BC%A6%E6%96%AF%E6%A2%A6%E6%B8%B8%E4%BB%99%E5%A2%83%23" target="weibo">
+宋亚轩特伦斯梦游仙境（热度：14713）
 </a>
 </li>
 
