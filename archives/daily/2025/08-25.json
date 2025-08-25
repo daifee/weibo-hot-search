@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756092133009,
+  "endTime": 1756092925360,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1626819,
-      "num": 298817,
+      "num": 300201,
       "word": "赵志伟 我没有出过轨",
       "onboard_time": 1756086321,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1041296,
+      "num": 1166607,
+      "word": "王牌对王牌9按年龄排序",
+      "onboard_time": 1756090401,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1031133,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 885684,
-      "num": 417200,
-      "word": "王牌对王牌9按年龄排序",
-      "onboard_time": 1756090401,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 858367,
       "num": 1137338,
       "word": "在农村月薪2400元工作的一天",
@@ -91,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 741709,
+      "num": 335760,
+      "word": "内娱真夫妻持证上岗综艺来了",
+      "onboard_time": 1756092022,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 676857,
       "num": 933366,
       "word": "莫雷加德男单冠军",
       "onboard_time": 1756061055,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 635075,
+      "num": 315075,
+      "word": "陈乔恩艾伦娱乐圈文照进现实",
+      "onboard_time": 1756091421,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 602057,
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406436,
+      "num": 299551,
+      "word": "突然发现很多人对工资没有概念",
+      "onboard_time": 1756091902,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398763,
       "num": 398763,
       "word": "98岁老人头上长皮角自行剪除",
@@ -235,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335760,
-      "num": 335760,
-      "word": "内娱真夫妻持证上岗综艺来了",
-      "onboard_time": 1756092022,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329604,
       "num": 329604,
       "word": "A股",
@@ -267,12 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291793,
-      "num": 291793,
+      "raw_hot": 293117,
+      "num": 293117,
       "word": "睡眠邪修大法",
       "onboard_time": 1756087761,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 278478,
+      "num": 278478,
+      "word": "未定事件簿",
+      "onboard_time": 1756092022,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 278175,
@@ -281,14 +305,6 @@
       "onboard_time": 1756044385,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267966,
-      "num": 267966,
-      "word": "突然发现很多人对工资没有概念",
-      "onboard_time": 1756091902,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 264268,
@@ -305,14 +321,6 @@
       "onboard_time": 1756032204,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263262,
-      "num": 263262,
-      "word": "陈乔恩艾伦娱乐圈文照进现实",
-      "onboard_time": 1756091421,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 262909,
@@ -353,6 +361,14 @@
       "onboard_time": 1756047507,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238700,
+      "num": 238700,
+      "word": "于适贴脸开大马頔南山南",
+      "onboard_time": 1756090702,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 238081,
@@ -427,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195849,
-      "num": 195849,
-      "word": "于适贴脸开大马頔南山南",
-      "onboard_time": 1756090702,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 196140,
+      "num": 192308,
+      "word": "全新小鹏P7动态测评首发",
+      "onboard_time": 1756091181,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 195160,
@@ -457,6 +473,14 @@
       "onboard_time": 1756043186,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192152,
+      "num": 192152,
+      "word": "子夜归剧宣大大方方的",
+      "onboard_time": 1756092141,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 191269,
@@ -489,14 +513,6 @@
       "onboard_time": 1756051165,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180629,
-      "num": 180629,
-      "word": "全新小鹏P7动态测评首发",
-      "onboard_time": 1756091181,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 169323,
@@ -537,6 +553,30 @@
       "onboard_time": 1756077138,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160108,
+      "num": 160108,
+      "word": "3名女子车库被2条大狗攻击",
+      "onboard_time": 1756089501,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156887,
+      "num": 300584,
+      "word": "十四五海关检出传染病18万例",
+      "onboard_time": 1756090161,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152851,
+      "num": 156889,
+      "word": "吴彦姝晒图为刘亦菲庆生",
+      "onboard_time": 1756091542,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 150265,
@@ -587,14 +627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137405,
-      "num": 137405,
-      "word": "3名女子车库被2条大狗攻击",
-      "onboard_time": 1756089501,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136733,
       "num": 136733,
       "word": "王曼昱12比10孙颖莎",
@@ -609,6 +641,14 @@
       "onboard_time": 1756084883,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135278,
+      "num": 135278,
+      "word": "iPhone17Pro防反射显示屏",
+      "onboard_time": 1756092443,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 134361,
@@ -627,12 +667,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129057,
+      "num": 129057,
+      "word": "詹姆斯中国行",
+      "onboard_time": 1756092141,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129026,
       "num": 129026,
       "word": "李晨说最后一次在直播间跳舞",
       "onboard_time": 1756049544,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128484,
+      "num": 185437,
+      "word": "美式航行自由的虚伪被揭露",
+      "onboard_time": 1756092622,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127896,
@@ -643,28 +699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124121,
-      "num": 124121,
-      "word": "吴彦姝晒图为刘亦菲庆生",
-      "onboard_time": 1756091542,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 123447,
-      "num": 123447,
-      "word": "未定事件簿",
-      "onboard_time": 1756092022,
+      "raw_hot": 122453,
+      "num": 122453,
+      "word": "曝某天王酒店有专属通道到赌场",
+      "onboard_time": 1756092203,
       "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 122745,
-      "num": 300584,
-      "word": "十四五海关检出传染病18万例",
-      "onboard_time": 1756090161,
-      "rank": 9,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 121895,
@@ -787,6 +827,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107674,
+      "num": 107674,
+      "word": "A股算力股再度大涨",
+      "onboard_time": 1756091842,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 107117,
+      "num": 107117,
+      "word": "苹果开启3年重大外观革新周期",
+      "onboard_time": 1756092323,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 106813,
+      "num": 106813,
+      "word": "清凝成仙了",
+      "onboard_time": 1756092323,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 104836,
       "num": 104836,
       "word": "葛优带儿子出门吃饭",
@@ -841,14 +905,6 @@
       "onboard_time": 1756086080,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98282,
-      "num": 98282,
-      "word": "A股算力股再度大涨",
-      "onboard_time": 1756091842,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 97512,
@@ -1051,6 +1107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 68687,
+      "num": 100050,
+      "word": "沂蒙老区15万余妇女掩护抗日人士",
+      "onboard_time": 1756090041,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67254,
       "num": 67254,
       "word": "大凉山里那些花儿歌声的力量",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1756057697,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64553,
+      "num": 258172,
+      "word": "奥迪E5首发测评",
+      "onboard_time": 1756091122,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 60673,
@@ -1139,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50301,
+      "num": 164341,
+      "word": "4次断骨打开折叠男孩开始练走路",
+      "onboard_time": 1756091001,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49700,
       "num": 49700,
       "word": "孙颖莎女单夺冠赛后采访",
@@ -1147,20 +1227,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48919,
-      "num": 258172,
-      "word": "奥迪E5首发测评",
-      "onboard_time": 1756091122,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 48878,
       "num": 55443,
       "word": "王曼昱亚军",
       "onboard_time": 1756053921,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47217,
+      "num": 110805,
+      "word": "程序员自费450元租工位假装上班",
+      "onboard_time": 1756092622,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44819,
+      "num": 109788,
+      "word": "年轻人开始下班送外卖",
+      "onboard_time": 1756092742,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44493,
@@ -1185,14 +1273,6 @@
       "onboard_time": 1756052062,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 41497,
-      "num": 164341,
-      "word": "4次断骨打开折叠男孩开始练走路",
-      "onboard_time": 1756091001,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38192,
