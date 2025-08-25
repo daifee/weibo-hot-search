@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756135699647,
+  "endTime": 1756136588432,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -257,6 +257,14 @@
       "onboard_time": 1742102605,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16796494,
+      "num": 16796494,
+      "word": "曝王鹤棣和神秘女友吵架",
+      "onboard_time": 1756136547,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 16764336,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736340143,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4144739,
-      "num": 896947,
-      "word": "男子性侵侄子7年家庭集体包庇",
-      "onboard_time": 1747883421,
-      "rank": 9,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
