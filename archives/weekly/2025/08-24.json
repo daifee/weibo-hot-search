@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756111792385,
+  "endTime": 1756114183754,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 935386,
+      "num": 519015,
+      "word": "日本引进黑人计划",
+      "onboard_time": 1756108884,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 934078,
       "num": 214668,
       "word": "孟村",
@@ -456,6 +464,14 @@
       "word": "茶颜悦色 抄袭",
       "onboard_time": 1756017683,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 703396,
+      "num": 1112543,
+      "word": "月嫂疏忽致29天婴儿重摔颅内出血",
+      "onboard_time": 1756110864,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -651,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567991,
+      "num": 304090,
+      "word": "没有相亲欲望的朋友圈",
+      "onboard_time": 1756110564,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 567970,
       "num": 434744,
       "word": "妇联回应女子疑被丈夫家暴致死",
@@ -723,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 532220,
+      "num": 532220,
+      "word": "IVE回归",
+      "onboard_time": 1756113742,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531392,
       "num": 319883,
       "word": "于正很早给许凯算过命",
@@ -761,6 +793,14 @@
       "onboard_time": 1756106243,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514964,
+      "num": 514964,
+      "word": "迪士尼票价",
+      "onboard_time": 1756108884,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 514830,
@@ -889,6 +929,14 @@
       "onboard_time": 1756106243,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466313,
+      "num": 466313,
+      "word": "蓝盈莹大方展示素颜雀斑",
+      "onboard_time": 1756108583,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 463649,
@@ -1131,14 +1179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 383187,
-      "num": 383187,
-      "word": "蓝盈莹大方展示素颜雀斑",
-      "onboard_time": 1756108583,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 381426,
       "num": 381426,
       "word": "孙颖莎将再度刷新世排万分纪录",
@@ -1307,14 +1347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333803,
-      "num": 333803,
-      "word": "日本引进黑人计划",
-      "onboard_time": 1756108884,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 333490,
       "num": 333490,
       "word": "马薇薇和男友合照",
@@ -1435,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299159,
+      "num": 299159,
+      "word": "美娜告黑",
+      "onboard_time": 1756111525,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293117,
       "num": 293117,
       "word": "睡眠邪修大法",
@@ -1459,20 +1499,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 284074,
-      "num": 385124,
-      "word": "迪士尼票价",
-      "onboard_time": 1756108884,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281115,
-      "num": 281115,
-      "word": "没有相亲欲望的朋友圈",
-      "onboard_time": 1756110564,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 281047,
+      "num": 281047,
+      "word": "魏大勋父亲公司被执行233万",
+      "onboard_time": 1756112484,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 280849,
@@ -1923,6 +1955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208275,
+      "num": 208275,
+      "word": "办婚礼不领证 被判退彩礼",
+      "onboard_time": 1756108762,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208042,
       "num": 208042,
       "word": "孙颖莎首位WTT大满贯单打四冠王",
@@ -2153,6 +2193,14 @@
       "onboard_time": 1756033462,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194702,
+      "num": 194702,
+      "word": "问界M8纯电版搭载全新电驱架构",
+      "onboard_time": 1756112606,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 194583,
@@ -2412,7 +2460,7 @@
     },
     {
       "raw_hot": 185931,
-      "num": 185931,
+      "num": 194925,
       "word": "张凌赫又出神图",
       "onboard_time": 1756107083,
       "rank": 25,
@@ -2457,6 +2505,14 @@
       "onboard_time": 1756041024,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 184414,
+      "num": 280987,
+      "word": "王玉雯 向内生长",
+      "onboard_time": 1756113084,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 183529,
@@ -2715,14 +2771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171487,
-      "num": 171487,
-      "word": "办婚礼不领证 被判退彩礼",
-      "onboard_time": 1756108762,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171463,
       "num": 171463,
       "word": "这个男团出道四个月就上TMEA",
@@ -2760,6 +2808,14 @@
       "word": "蒋欣关晓彤 是妈妈是女儿",
       "onboard_time": 1756107323,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169066,
+      "num": 198541,
+      "word": "罗晋你这样我有点害怕",
+      "onboard_time": 1756111582,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -3121,14 +3177,6 @@
       "onboard_time": 1756042347,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154303,
-      "num": 154303,
-      "word": "美娜告黑",
-      "onboard_time": 1756111525,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 154150,
@@ -3539,6 +3587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140226,
+      "num": 140226,
+      "word": "A股市值TOP10座次洗牌",
+      "onboard_time": 1756112964,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139942,
       "num": 139942,
       "word": "riize偶运会",
@@ -3587,6 +3643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138410,
+      "num": 138410,
+      "word": "上海楼市限购松绑",
+      "onboard_time": 1756113923,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138179,
       "num": 138179,
       "word": "邓典果亚军魔咒",
@@ -3627,14 +3691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137441,
-      "num": 147646,
-      "word": "月嫂疏忽致29天婴儿重摔颅内出血",
-      "onboard_time": 1756110864,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137355,
       "num": 137355,
       "word": "中国排面经得起逐帧回放",
@@ -3659,6 +3715,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 136769,
+      "num": 185629,
+      "word": "胡军为演归队减重37斤",
+      "onboard_time": 1756112724,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136733,
       "num": 136733,
       "word": "王曼昱12比10孙颖莎",
@@ -3673,14 +3737,6 @@
       "onboard_time": 1756016781,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136466,
-      "num": 136466,
-      "word": "罗晋你这样我有点害怕",
-      "onboard_time": 1756111582,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 136261,
@@ -3721,6 +3777,14 @@
       "onboard_time": 1756007723,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 134826,
+      "num": 134826,
+      "word": "阅兵装备方队中唯一女教练员",
+      "onboard_time": 1756112606,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134772,
@@ -3780,7 +3844,7 @@
     },
     {
       "raw_hot": 132090,
-      "num": 304552,
+      "num": 521822,
       "word": "阅兵女教练说性别不是衡量能力的标尺",
       "onboard_time": 1756099283,
       "rank": 32,
@@ -3883,6 +3947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129233,
+      "num": 194150,
+      "word": "智界R7语音泊车隔窗对讲首发上车",
+      "onboard_time": 1756110505,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 129057,
       "num": 129057,
       "word": "詹姆斯中国行",
@@ -3945,6 +4017,14 @@
       "onboard_time": 1755997341,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127992,
+      "num": 127992,
+      "word": "微信最邪门的引用功能出现了",
+      "onboard_time": 1756114045,
+      "rank": 43,
+      "category": "互联网,幽默"
     },
     {
       "raw_hot": 127896,
@@ -4073,6 +4153,14 @@
       "onboard_time": 1756041625,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122695,
+      "num": 191725,
+      "word": "张靓颖风湿性免疫力低下",
+      "onboard_time": 1756108884,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 122323,
@@ -4547,6 +4635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113388,
+      "num": 136546,
+      "word": "茶颜悦色为什么不火了",
+      "onboard_time": 1756111104,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113296,
       "num": 113296,
       "word": "周深又又又在TMEA迷路了",
@@ -4561,6 +4657,22 @@
       "onboard_time": 1756023502,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113189,
+      "num": 113189,
+      "word": "王玉雯说李乃文是综艺界天降紫微星",
+      "onboard_time": 1756111885,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112711,
+      "num": 112711,
+      "word": "李诗沣止步世锦赛首轮",
+      "onboard_time": 1756112724,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 112411,
@@ -4608,6 +4720,14 @@
       "word": "纹身狗",
       "onboard_time": 1756018821,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109936,
+      "num": 109936,
+      "word": "无薪试岗",
+      "onboard_time": 1756112063,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -4771,6 +4891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106997,
+      "num": 160676,
+      "word": "问界全系开启华为ADS4时代",
+      "onboard_time": 1756114105,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 106850,
       "num": 106850,
       "word": "DeepSeek暗示国产芯片有望大规模使用",
@@ -4881,14 +5009,6 @@
       "onboard_time": 1756030041,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104279,
-      "num": 172986,
-      "word": "智界R7语音泊车隔窗对讲首发上车",
-      "onboard_time": 1756110505,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 104228,
@@ -5249,14 +5369,6 @@
       "onboard_time": 1756026142,
       "rank": 47,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 92043,
-      "num": 136546,
-      "word": "茶颜悦色为什么不火了",
-      "onboard_time": 1756111104,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91861,
@@ -5747,6 +5859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63014,
+      "num": 279332,
+      "word": "男子与村民有矛盾杀害对方12岁孩子",
+      "onboard_time": 1756112543,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61267,
       "num": 132320,
       "word": "迪丽热巴说二次元妹妹叫迪丽冷巴",
@@ -5849,6 +5969,14 @@
       "onboard_time": 1756000882,
       "rank": 20,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 55843,
+      "num": 188754,
+      "word": "业主装修从4楼直接倾倒建筑垃圾",
+      "onboard_time": 1756112484,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55220,
@@ -6107,6 +6235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43694,
+      "num": 138517,
+      "word": "客服回应张维伊同款耳机",
+      "onboard_time": 1756113742,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42251,
       "num": 92397,
       "word": "九三阅兵训练原声纯享版视频",
@@ -6121,6 +6257,14 @@
       "onboard_time": 1755991938,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 41804,
+      "num": 139005,
+      "word": "医院检验科现丁义珍式窗口",
+      "onboard_time": 1756113802,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41433,
@@ -6241,6 +6385,14 @@
       "onboard_time": 1756010121,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30140,
+      "num": 138665,
+      "word": "华人店铺倒挂马来西亚国旗遭闹事",
+      "onboard_time": 1756113262,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 30135,
