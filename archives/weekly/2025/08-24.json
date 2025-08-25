@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756114993562,
+  "endTime": 1756117790366,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 931340,
+      "num": 354504,
+      "word": "魏大勋父亲公司被执行233万",
+      "onboard_time": 1756112484,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 928205,
       "num": 321278,
       "word": "疑似许凯赵晴悄悄同居",
@@ -465,6 +473,14 @@
       "onboard_time": 1755962007,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 709865,
+      "num": 1113578,
+      "word": "银河左岸泸州",
+      "onboard_time": 1756114703,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 704245,
@@ -699,6 +715,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 554700,
+      "num": 554700,
+      "word": "迪士尼票价",
+      "onboard_time": 1756108884,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552415,
+      "num": 247059,
+      "word": "蜜雪冰城加盟费",
+      "onboard_time": 1756115964,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551464,
       "num": 551464,
       "word": "IVE回归",
@@ -795,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 514964,
-      "num": 514964,
-      "word": "迪士尼票价",
-      "onboard_time": 1756108884,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 514830,
       "num": 514830,
       "word": "山东通报505名死亡人员被发养老保险",
@@ -825,6 +849,14 @@
       "onboard_time": 1756001602,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512310,
+      "num": 245791,
+      "word": "微信最邪门的引用功能出现了",
+      "onboard_time": 1756114045,
+      "rank": 43,
+      "category": "互联网,幽默"
     },
     {
       "raw_hot": 508867,
@@ -1203,6 +1235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 377507,
+      "num": 236552,
+      "word": "23岁怀孕上大学的经历和感受",
+      "onboard_time": 1756116143,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 377155,
       "num": 377155,
       "word": "苏醒 花田错",
@@ -1315,14 +1355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 354504,
-      "num": 354504,
-      "word": "魏大勋父亲公司被执行233万",
-      "onboard_time": 1756112484,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 347105,
       "num": 347105,
       "word": "上海暴雨",
@@ -1352,6 +1384,14 @@
       "word": "接连2名儿童感染食脑虫去世",
       "onboard_time": 1755950124,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334146,
+      "num": 334146,
+      "word": "绍兴文旅称不会因一人投诉盲目更换",
+      "onboard_time": 1756116083,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -1537,6 +1577,14 @@
       "onboard_time": 1756047507,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272185,
+      "num": 272185,
+      "word": "肖战TMEA获奖感言",
+      "onboard_time": 1756116683,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 265149,
@@ -1739,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234975,
+      "num": 234975,
+      "word": "线香不通风 致癌",
+      "onboard_time": 1756114883,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 233691,
       "num": 233691,
       "word": "美国纽约军团病疫情已致6死",
@@ -1851,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217550,
+      "num": 167087,
+      "word": "拒绝了她索要两张卫生巾的要求",
+      "onboard_time": 1756117583,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215610,
       "num": 180164,
       "word": "韩国一家四口180平的家",
@@ -1865,6 +1929,14 @@
       "onboard_time": 1755970399,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213704,
+      "num": 213704,
+      "word": "杨紫格雷系私服穿搭",
+      "onboard_time": 1756116683,
+      "rank": 23,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 213146,
@@ -2635,14 +2707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177434,
-      "num": 177434,
-      "word": "微信最邪门的引用功能出现了",
-      "onboard_time": 1756114045,
-      "rank": 43,
-      "category": "互联网,幽默"
-    },
-    {
       "raw_hot": 176080,
       "num": 160682,
       "word": "外国人对中餐有多上瘾",
@@ -2803,6 +2867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170198,
+      "num": 183243,
+      "word": "梓渝音乐节",
+      "onboard_time": 1756117464,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170029,
       "num": 170029,
       "word": "喜欢易烊千玺从来不是单箭头",
@@ -2947,6 +3019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165441,
+      "num": 165441,
+      "word": "吴京梗",
+      "onboard_time": 1756115424,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165029,
       "num": 165029,
       "word": "iPhone17Pro爆料汇总",
@@ -2985,6 +3065,14 @@
       "onboard_time": 1756034964,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162584,
+      "num": 178429,
+      "word": "陈飞宇献鱼有效播剧",
+      "onboard_time": 1756116623,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 162331,
@@ -3219,6 +3307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153600,
+      "num": 153600,
+      "word": "一诺背后的爸爸",
+      "onboard_time": 1756117643,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152970,
       "num": 152970,
       "word": "这条路线藏了易烊千玺多少故事",
@@ -3379,12 +3475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147501,
+      "num": 147098,
+      "word": "吴京 我跳过楼你跳过吗",
+      "onboard_time": 1756117583,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147422,
       "num": 147422,
       "word": "郭敬明 小鞠本人白得发光",
       "onboard_time": 1755944602,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147238,
+      "num": 272723,
+      "word": "上海楼市限购松绑",
+      "onboard_time": 1756113923,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147197,
@@ -3400,6 +3512,14 @@
       "word": "奶茶 反式脂肪酸",
       "onboard_time": 1756100123,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145686,
+      "num": 145686,
+      "word": "春秋航空回应故意调低温度卖毛毯",
+      "onboard_time": 1756115124,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3579,6 +3699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140829,
+      "num": 171847,
+      "word": "展轩 玩手机的注意眼睛",
+      "onboard_time": 1756116803,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140572,
       "num": 140572,
       "word": "迪丽热巴有种气血很足的美",
@@ -3619,19 +3747,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139811,
-      "num": 272723,
-      "word": "上海楼市限购松绑",
-      "onboard_time": 1756113923,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139112,
       "num": 139112,
       "word": "妻子做饭1年丈夫瘦32斤",
       "onboard_time": 1755941123,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139110,
+      "num": 139110,
+      "word": "无薪试岗",
+      "onboard_time": 1756112063,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -3865,6 +3993,14 @@
       "onboard_time": 1756099283,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131810,
+      "num": 131810,
+      "word": "王影璐你就娶了陈飞宇吧",
+      "onboard_time": 1756116143,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 131765,
@@ -4179,14 +4315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122557,
-      "num": 122557,
-      "word": "无薪试岗",
-      "onboard_time": 1756112063,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122323,
       "num": 122323,
       "word": "李承铉背着飞机走红毯",
@@ -4403,14 +4531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118328,
-      "num": 118328,
-      "word": "线香不通风 致癌",
-      "onboard_time": 1756114883,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 118325,
       "num": 122439,
       "word": "宋轶丞磊来我们的宿舍剧宣了",
@@ -4425,6 +4545,14 @@
       "onboard_time": 1756111763,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118115,
+      "num": 118115,
+      "word": "陈幸同总结欧洲大满贯",
+      "onboard_time": 1756117223,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 118091,
@@ -4547,14 +4675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 116543,
-      "num": 116543,
-      "word": "银河左岸泸州",
-      "onboard_time": 1756114703,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 116379,
       "num": 116379,
       "word": "刘宇宁唐装小生",
@@ -4633,6 +4753,14 @@
       "onboard_time": 1756042766,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115070,
+      "num": 249052,
+      "word": "鲁迅长孙周令飞已戒烟30年",
+      "onboard_time": 1756116024,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114880,
@@ -4971,6 +5099,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 106088,
+      "num": 106088,
+      "word": "瘦了后出片像呼吸一样简单",
+      "onboard_time": 1756117704,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105864,
       "num": 105864,
       "word": "张晚意发2025年6月30日的日落",
@@ -4985,6 +5121,14 @@
       "onboard_time": 1756018402,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105744,
+      "num": 105744,
+      "word": "人在濒死前身体会发生的变化",
+      "onboard_time": 1756117403,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105250,
@@ -5137,6 +5281,14 @@
       "onboard_time": 1755992479,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 101898,
+      "num": 133978,
+      "word": "登陆少年聊出道一年境况",
+      "onboard_time": 1756116983,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 101897,
@@ -5513,6 +5665,14 @@
       "onboard_time": 1756028302,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85374,
+      "num": 168986,
+      "word": "女子遭家暴后找保镖丈夫收敛不少",
+      "onboard_time": 1756116083,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85101,
@@ -6305,6 +6465,14 @@
       "onboard_time": 1756062614,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 43220,
+      "num": 175540,
+      "word": "刘亦菲开智界R7和谁去自驾游",
+      "onboard_time": 1756116504,
+      "rank": 27,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 42251,

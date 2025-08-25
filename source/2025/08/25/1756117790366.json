@@ -1,0 +1,410 @@
+{
+  "runTime": 1756117790366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 709865,
+        "num": 1113578,
+        "word": "银河左岸泸州",
+        "onboard_time": 1756114703,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 554700,
+        "num": 554700,
+        "word": "迪士尼票价",
+        "onboard_time": 1756108884,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83428,
+        "num": 468276,
+        "word": "阅兵女教练说性别不是衡量能力的标尺",
+        "onboard_time": 1756099283,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 583678,
+        "num": 458049,
+        "word": "日本引进黑人计划",
+        "onboard_time": 1756108884,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 419821,
+        "num": 419821,
+        "word": "月嫂疏忽致29天婴儿重摔颅内出血",
+        "onboard_time": 1756110864,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334146,
+        "num": 334146,
+        "word": "绍兴文旅称不会因一人投诉盲目更换",
+        "onboard_time": 1756116083,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304184,
+        "num": 304184,
+        "word": "IVE回归",
+        "onboard_time": 1756113742,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272185,
+        "num": 272185,
+        "word": "肖战TMEA获奖感言",
+        "onboard_time": 1756116683,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249231,
+        "num": 249231,
+        "word": "美娜告黑",
+        "onboard_time": 1756111525,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115070,
+        "num": 249052,
+        "word": "鲁迅长孙周令飞已戒烟30年",
+        "onboard_time": 1756116024,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 931340,
+        "num": 248061,
+        "word": "魏大勋父亲公司被执行233万",
+        "onboard_time": 1756112484,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737827,
+        "num": 247742,
+        "word": "吴昕的脸怎么了",
+        "onboard_time": 1756108103,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552415,
+        "num": 247059,
+        "word": "蜜雪冰城加盟费",
+        "onboard_time": 1756115964,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246634,
+        "num": 246634,
+        "word": "莫雷加德球拍被踩",
+        "onboard_time": 1756101622,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512310,
+        "num": 245791,
+        "word": "微信最邪门的引用功能出现了",
+        "onboard_time": 1756114045,
+        "rank": 14,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 374637,
+        "num": 243725,
+        "word": "没有相亲欲望的朋友圈",
+        "onboard_time": 1756110564,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306670,
+        "num": 243154,
+        "word": "蓝盈莹大方展示素颜雀斑",
+        "onboard_time": 1756108583,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196451,
+        "num": 241055,
+        "word": "刘亦菲 智界",
+        "onboard_time": 1756108043,
+        "rank": 17,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 44263,
+        "num": 240464,
+        "word": "问界全系开启华为ADS4时代",
+        "onboard_time": 1756114105,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60222,
+        "num": 238978,
+        "word": "问界M8纯电版35.98万元起",
+        "onboard_time": 1756114404,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 377507,
+        "num": 236552,
+        "word": "23岁怀孕上大学的经历和感受",
+        "onboard_time": 1756116143,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303581,
+        "num": 235106,
+        "word": "我对鲁迅在自己墙上抽烟无意见",
+        "onboard_time": 1756104323,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234975,
+        "num": 234975,
+        "word": "线香不通风 致癌",
+        "onboard_time": 1756114883,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213704,
+        "num": 213704,
+        "word": "杨紫格雷系私服穿搭",
+        "onboard_time": 1756116683,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 170198,
+        "num": 183243,
+        "word": "梓渝音乐节",
+        "onboard_time": 1756117464,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162584,
+        "num": 178429,
+        "word": "陈飞宇献鱼有效播剧",
+        "onboard_time": 1756116623,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175943,
+        "num": 175943,
+        "word": "男子效仿盗墓小说挖出20件青铜器",
+        "onboard_time": 1756106544,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43220,
+        "num": 175540,
+        "word": "刘亦菲开智界R7和谁去自驾游",
+        "onboard_time": 1756116504,
+        "rank": 27,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 140829,
+        "num": 171847,
+        "word": "展轩 玩手机的注意眼睛",
+        "onboard_time": 1756116803,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85374,
+        "num": 168986,
+        "word": "女子遭家暴后找保镖丈夫收敛不少",
+        "onboard_time": 1756116083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217550,
+        "num": 167087,
+        "word": "拒绝了她索要两张卫生巾的要求",
+        "onboard_time": 1756117583,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165441,
+        "num": 165441,
+        "word": "吴京梗",
+        "onboard_time": 1756115424,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153600,
+        "num": 153600,
+        "word": "一诺背后的爸爸",
+        "onboard_time": 1756117643,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148631,
+        "num": 148631,
+        "word": "家庭存款超过50万算什么水平",
+        "onboard_time": 1756094364,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148417,
+        "num": 148417,
+        "word": "昀牵孟绕 横店痛城",
+        "onboard_time": 1756108403,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147238,
+        "num": 147238,
+        "word": "上海楼市限购松绑",
+        "onboard_time": 1756113923,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147501,
+        "num": 147098,
+        "word": "吴京 我跳过楼你跳过吗",
+        "onboard_time": 1756117583,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145686,
+        "num": 145686,
+        "word": "春秋航空回应故意调低温度卖毛毯",
+        "onboard_time": 1756115124,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139110,
+        "num": 139110,
+        "word": "无薪试岗",
+        "onboard_time": 1756112063,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101898,
+        "num": 133978,
+        "word": "登陆少年聊出道一年境况",
+        "onboard_time": 1756116983,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131810,
+        "num": 131810,
+        "word": "王影璐你就娶了陈飞宇吧",
+        "onboard_time": 1756116143,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126383,
+        "num": 126383,
+        "word": "掐了鲁迅的烟谁来点燃思想的火",
+        "onboard_time": 1756106243,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122233,
+        "num": 122233,
+        "word": "日本将高温甩锅中国",
+        "onboard_time": 1756107743,
+        "rank": 42,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 122221,
+        "num": 122221,
+        "word": "张凌赫又出神图",
+        "onboard_time": 1756107083,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121456,
+        "num": 121456,
+        "word": "riize偶运会",
+        "onboard_time": 1756110023,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118115,
+        "num": 118115,
+        "word": "陈幸同总结欧洲大满贯",
+        "onboard_time": 1756117223,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106977,
+        "num": 106977,
+        "word": "罗晋你这样我有点害怕",
+        "onboard_time": 1756111582,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85757,
+        "num": 106174,
+        "word": "问界M8纯电版搭载全新电驱架构",
+        "onboard_time": 1756112606,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106088,
+        "num": 106088,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1756117704,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105744,
+        "num": 105744,
+        "word": "人在濒死前身体会发生的变化",
+        "onboard_time": 1756117403,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}
