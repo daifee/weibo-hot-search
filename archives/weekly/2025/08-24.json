@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756132064992,
+  "endTime": 1756133089176,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -299,6 +299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 978373,
+      "num": 1156539,
+      "word": "男子杀妻死缓女方家属不满判决上诉",
+      "onboard_time": 1756128803,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 958091,
       "num": 1153294,
       "word": "首款曲面iPhone",
@@ -352,14 +360,6 @@
       "word": "孟村",
       "onboard_time": 1756016962,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 933730,
-      "num": 1149396,
-      "word": "男子杀妻死缓女方家属不满判决上诉",
-      "onboard_time": 1756128803,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -891,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 531918,
+      "num": 531918,
+      "word": "男网红娶残障老婆事件调查结果",
+      "onboard_time": 1756128984,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 531392,
       "num": 319883,
       "word": "于正很早给许凯算过命",
@@ -1115,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455256,
+      "num": 419981,
+      "word": "今年打了翻身仗的4位明星",
+      "onboard_time": 1756120644,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450609,
       "num": 233445,
       "word": "女子疑家暴去世其丈夫婆婆被刑拘",
@@ -1123,12 +1139,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 449690,
-      "num": 419981,
-      "word": "今年打了翻身仗的4位明星",
-      "onboard_time": 1756120644,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 449869,
+      "num": 449869,
+      "word": "带这些字眼的奶茶尽量别点",
+      "onboard_time": 1756126944,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 449258,
@@ -1315,14 +1331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 396248,
-      "num": 396248,
-      "word": "男网红娶残障老婆事件调查结果",
-      "onboard_time": 1756128984,
-      "rank": 29,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 392377,
       "num": 392377,
       "word": "绍兴文旅称不会因一人投诉盲目更换",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1756022003,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366937,
-      "num": 366937,
-      "word": "带这些字眼的奶茶尽量别点",
-      "onboard_time": 1756126944,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 366809,
@@ -1563,12 +1563,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330303,
+      "num": 330303,
+      "word": "亚马尔官宣恋情",
+      "onboard_time": 1756128504,
+      "rank": 29,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 329604,
       "num": 329604,
       "word": "A股",
       "onboard_time": 1756087881,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 327768,
+      "num": 327768,
+      "word": "网红称吃火鸡面烧穿胃索赔7700万",
+      "onboard_time": 1756132044,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 326898,
@@ -1612,7 +1628,7 @@
     },
     {
       "raw_hot": 321996,
-      "num": 250475,
+      "num": 256654,
       "word": "持刀追赶男孩女子有精神分裂症",
       "onboard_time": 1756125385,
       "rank": 24,
@@ -1737,14 +1753,6 @@
       "onboard_time": 1756121303,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281403,
-      "num": 281403,
-      "word": "亚马尔官宣恋情",
-      "onboard_time": 1756128504,
-      "rank": 29,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 280849,
@@ -2259,6 +2267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210409,
+      "num": 210409,
+      "word": "张碧晨获亚洲最佳女歌手",
+      "onboard_time": 1756132105,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210144,
       "num": 503851,
       "word": "陈奕恒总结舞台",
@@ -2315,12 +2331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207785,
+      "num": 207785,
+      "word": "刘宇宁裙子跟不上腿",
+      "onboard_time": 1756131984,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207295,
       "num": 192562,
       "word": "月亮姐姐 我没有产后抑郁症",
       "onboard_time": 1756007901,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206981,
+      "num": 206981,
+      "word": "日月星移爱旅相依",
+      "onboard_time": 1756131623,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 205558,
@@ -2369,6 +2401,14 @@
       "onboard_time": 1756052722,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201782,
+      "num": 201782,
+      "word": "银行落马副行长出狱后当网红",
+      "onboard_time": 1756132585,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200966,
@@ -2505,6 +2545,14 @@
       "onboard_time": 1756039104,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196713,
+      "num": 196713,
+      "word": "JDG对战KSG",
+      "onboard_time": 1756123162,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 196662,
@@ -3017,6 +3065,14 @@
       "onboard_time": 1756040005,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178034,
+      "num": 316401,
+      "word": "警方通报女童被康复机构老师殴打",
+      "onboard_time": 1756131024,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177950,
@@ -3627,6 +3683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154021,
+      "num": 154021,
+      "word": "许凯打戏",
+      "onboard_time": 1756132466,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153988,
       "num": 153988,
       "word": "看似会长胖其实能减肥的习惯",
@@ -3641,14 +3705,6 @@
       "onboard_time": 1756117643,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 153549,
-      "num": 153549,
-      "word": "日月星移爱旅相依",
-      "onboard_time": 1756131623,
-      "rank": 23,
-      "category": "旅游"
     },
     {
       "raw_hot": 152970,
@@ -3931,6 +3987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144135,
+      "num": 144135,
+      "word": "4岁娃查出400度远视加250度散光",
+      "onboard_time": 1756131806,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144046,
       "num": 144046,
       "word": "鲁迅夹烟墙画被投诉当事人发声",
@@ -3969,6 +4033,14 @@
       "onboard_time": 1756017322,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143378,
+      "num": 143378,
+      "word": "非张维伊同款",
+      "onboard_time": 1756132585,
+      "rank": 28,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 143329,
@@ -4579,14 +4651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126384,
-      "num": 126384,
-      "word": "4岁娃查出400度远视加250度散光",
-      "onboard_time": 1756131806,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126099,
       "num": 148086,
       "word": "迪丽热巴被小朋友逗笑了",
@@ -4595,20 +4659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125599,
+      "num": 125599,
+      "word": "何晟铭朋友圈 山水一程永不相逢",
+      "onboard_time": 1756133006,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125317,
+      "num": 125317,
+      "word": "鲁迅戒烟 李白禁酒",
+      "onboard_time": 1756129345,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125289,
       "num": 125289,
       "word": "韩国女生减脂100天的真实变化",
       "onboard_time": 1756010423,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125070,
-      "num": 125070,
-      "word": "网红称吃火鸡面烧穿胃索赔7700万",
-      "onboard_time": 1756132044,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 125069,
@@ -4673,6 +4745,14 @@
       "onboard_time": 1756031183,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123722,
+      "num": 123722,
+      "word": "北京国安4比0武汉三镇",
+      "onboard_time": 1756133006,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 123670,
@@ -5043,14 +5123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117163,
-      "num": 117163,
-      "word": "鲁迅戒烟 李白禁酒",
-      "onboard_time": 1756129345,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117097,
       "num": 117097,
       "word": "追星的意义在这体现了",
@@ -5065,6 +5137,14 @@
       "onboard_time": 1756020144,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116987,
+      "num": 125099,
+      "word": "鹭卓说十个勤天长长久久",
+      "onboard_time": 1756130245,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 116867,
@@ -5203,14 +5283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114775,
-      "num": 125099,
-      "word": "鹭卓说十个勤天长长久久",
-      "onboard_time": 1756130245,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114246,
       "num": 114246,
       "word": "看个电影无痛背下来了12个单词",
@@ -5281,14 +5353,6 @@
       "onboard_time": 1756112724,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112574,
-      "num": 112574,
-      "word": "警方通报女童被康复机构老师殴打",
-      "onboard_time": 1756131024,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112411,
@@ -5392,14 +5456,6 @@
       "word": "管乐说和张小婉的关系像恋爱",
       "onboard_time": 1756028483,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 109341,
-      "num": 109341,
-      "word": "刘宇宁裙子跟不上腿",
-      "onboard_time": 1756131984,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -5867,6 +5923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101017,
+      "num": 101017,
+      "word": "国乒出席瑞典活动",
+      "onboard_time": 1756132585,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100759,
       "num": 100759,
       "word": "今天你要嫁给我",
@@ -5913,14 +5977,6 @@
       "onboard_time": 1756125203,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100085,
-      "num": 100085,
-      "word": "JDG对战KSG",
-      "onboard_time": 1756123162,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 99918,
@@ -6033,6 +6089,14 @@
       "onboard_time": 1756008743,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97798,
+      "num": 97798,
+      "word": "陶白白 在爱中保持魅力的秘诀",
+      "onboard_time": 1756132345,
+      "rank": 43,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 97679,
@@ -6297,6 +6361,14 @@
       "onboard_time": 1756024343,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87755,
+      "num": 87755,
+      "word": "球迷街头偶遇孙颖莎邱贻可",
+      "onboard_time": 1756133063,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87202,
@@ -6763,6 +6835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63268,
+      "num": 569308,
+      "word": "真想一键快进到阅兵当天",
+      "onboard_time": 1756127724,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63014,
       "num": 279332,
       "word": "男子与村民有矛盾杀害对方12岁孩子",
@@ -6793,14 +6873,6 @@
       "onboard_time": 1756078219,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60152,
-      "num": 553297,
-      "word": "真想一键快进到阅兵当天",
-      "onboard_time": 1756127724,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59305,
@@ -7473,6 +7545,14 @@
       "onboard_time": 1755974176,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27893,
+      "num": 138223,
+      "word": "阅兵训练宛如复制粘贴",
+      "onboard_time": 1756132646,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27299,
