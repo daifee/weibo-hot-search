@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756118749800,
+  "endTime": 1756120986309,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1700042,
-      "num": 403564,
+      "num": 473572,
       "word": "吴昕的脸怎么了",
       "onboard_time": 1756108103,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1325591,
+      "num": 1325591,
+      "word": "蜜雪冰城加盟费",
+      "onboard_time": 1756115964,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1041296,
       "num": 1166607,
       "word": "王牌对王牌9按年龄排序",
@@ -81,6 +89,14 @@
       "onboard_time": 1756086862,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1020123,
+      "num": 1020123,
+      "word": "请回答1988祖贤演员整容",
+      "onboard_time": 1756118181,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 1017985,
@@ -107,16 +123,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 953114,
-      "num": 1152498,
-      "word": "蜜雪冰城加盟费",
-      "onboard_time": 1756115964,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 953001,
-      "num": 522697,
+      "num": 814376,
       "word": "日本引进黑人计划",
       "onboard_time": 1756108884,
       "rank": 18,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 931340,
-      "num": 354504,
+      "num": 521833,
       "word": "魏大勋父亲公司被执行233万",
       "onboard_time": 1756112484,
       "rank": 16,
@@ -153,6 +161,14 @@
       "onboard_time": 1756105583,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 814968,
+      "num": 814968,
+      "word": "东方风云榜直播",
+      "onboard_time": 1756119804,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 796831,
@@ -193,6 +209,14 @@
       "onboard_time": 1756106544,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 748514,
+      "num": 277254,
+      "word": "吴京 我跳过楼你跳过吗",
+      "onboard_time": 1756117583,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 735011,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 554700,
-      "num": 554700,
+      "num": 738754,
       "word": "迪士尼票价",
       "onboard_time": 1756108884,
       "rank": 14,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 547283,
-      "num": 245791,
+      "num": 372894,
       "word": "微信最邪门的引用功能出现了",
       "onboard_time": 1756114045,
       "rank": 43,
@@ -523,8 +547,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386610,
-      "num": 386610,
+      "raw_hot": 392377,
+      "num": 392377,
       "word": "绍兴文旅称不会因一人投诉盲目更换",
       "onboard_time": 1756116083,
       "rank": 5,
@@ -537,6 +561,14 @@
       "onboard_time": 1756100304,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382503,
+      "num": 620518,
+      "word": "张艺兴自动躲避夫妻关系",
+      "onboard_time": 1756118363,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 381426,
@@ -611,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 330690,
-      "num": 219143,
-      "word": "吴京 我跳过楼你跳过吗",
-      "onboard_time": 1756117583,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330666,
       "num": 380560,
       "word": "孙颖莎瑞典大满贯赛后发文",
@@ -691,20 +715,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296112,
+      "num": 296112,
+      "word": "张维伊叫自己张小兔",
+      "onboard_time": 1756117882,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293117,
       "num": 293117,
       "word": "睡眠邪修大法",
       "onboard_time": 1756087761,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281023,
-      "num": 217525,
-      "word": "请回答1988祖贤演员整容",
-      "onboard_time": 1756118181,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 280204,
@@ -731,12 +755,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276082,
+      "num": 249052,
+      "word": "鲁迅长孙周令飞已戒烟30年",
+      "onboard_time": 1756116024,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272185,
       "num": 272185,
       "word": "肖战TMEA获奖感言",
       "onboard_time": 1756116683,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 271112,
+      "num": 675872,
+      "word": "梓渝音乐节",
+      "onboard_time": 1756117464,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 266296,
+      "num": 266296,
+      "word": "东方风云榜",
+      "onboard_time": 1756111224,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 264268,
@@ -785,14 +833,6 @@
       "onboard_time": 1756090101,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254566,
-      "num": 254566,
-      "word": "梓渝音乐节",
-      "onboard_time": 1756117464,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 252500,
@@ -913,14 +953,6 @@
       "onboard_time": 1756117583,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 217314,
-      "num": 249052,
-      "word": "鲁迅长孙周令飞已戒烟30年",
-      "onboard_time": 1756116024,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213704,
@@ -1187,22 +1219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188773,
-      "num": 188773,
-      "word": "张艺兴自动躲避夫妻关系",
-      "onboard_time": 1756118363,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 187766,
-      "num": 187766,
-      "word": "张维伊叫自己张小兔",
-      "onboard_time": 1756117882,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187178,
       "num": 187178,
       "word": "女留学生起诉发性暗示微信男生败诉",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1756100243,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174467,
+      "num": 174467,
+      "word": "瘦了后出片像呼吸一样简单",
+      "onboard_time": 1756117704,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 174385,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1756111283,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154212,
+      "num": 154212,
+      "word": "今年打了翻身仗的4位明星",
+      "onboard_time": 1756120644,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 154136,
@@ -1804,11 +1836,19 @@
     },
     {
       "raw_hot": 132090,
-      "num": 529353,
+      "num": 846965,
       "word": "阅兵女教练说性别不是衡量能力的标尺",
       "onboard_time": 1756099283,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131536,
+      "num": 131536,
+      "word": "尚界把华为辅助驾驶卷到20万以内",
+      "onboard_time": 1756120464,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 130470,
@@ -1817,14 +1857,6 @@
       "onboard_time": 1756044446,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130199,
-      "num": 130199,
-      "word": "瘦了后出片像呼吸一样简单",
-      "onboard_time": 1756117704,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 130151,
@@ -1963,6 +1995,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124037,
+      "num": 157337,
+      "word": "我刚躺上床袁姗姗就出工了",
+      "onboard_time": 1756120763,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123670,
+      "num": 123670,
+      "word": "雷军说奔驰强的有点变态",
+      "onboard_time": 1756118123,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123467,
       "num": 123467,
       "word": "梅德韦杰夫止步美网首轮",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1756108884,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122387,
+      "num": 122387,
+      "word": "张维伊小时候",
+      "onboard_time": 1756118904,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 122051,
@@ -2099,14 +2155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117970,
-      "num": 117970,
-      "word": "东方风云榜",
-      "onboard_time": 1756111224,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 117834,
       "num": 117834,
       "word": "人真的要珍惜单身的时候",
@@ -2147,19 +2195,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116370,
-      "num": 116370,
-      "word": "雷军说奔驰强的有点变态",
-      "onboard_time": 1756118123,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 116111,
       "num": 116111,
       "word": "白桃星座",
       "onboard_time": 1756047625,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115628,
+      "num": 115628,
+      "word": "200万和体制内退休金怎么选",
+      "onboard_time": 1756119563,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -2225,6 +2273,14 @@
       "onboard_time": 1756112724,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110973,
+      "num": 110973,
+      "word": "余承东首谈为什么要造旅行车",
+      "onboard_time": 1756120343,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 110821,
@@ -2419,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101338,
+      "num": 101338,
+      "word": "熬夜 葡萄膜炎",
+      "onboard_time": 1756115244,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 101045,
       "num": 101045,
       "word": "新郎预判了新娘所有动作",
@@ -2427,20 +2491,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100729,
+      "num": 100729,
+      "word": "陈飞宇献鱼古装仪态",
+      "onboard_time": 1756119683,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100596,
       "num": 325680,
       "word": "25万级SUV闭眼入智界R7",
       "onboard_time": 1756110864,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 99998,
-      "num": 99998,
-      "word": "熬夜 葡萄膜炎",
-      "onboard_time": 1756115244,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 99539,
@@ -2579,12 +2643,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84741,
+      "num": 123893,
+      "word": "王楚然腹肌线条",
+      "onboard_time": 1756120103,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84247,
       "num": 84247,
       "word": "两女子高铁上争抢充电口",
       "onboard_time": 1756081942,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83455,
+      "num": 124238,
+      "word": "黄多多好像年轻的刘诗诗",
+      "onboard_time": 1756120163,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 83038,
@@ -2891,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51966,
+      "num": 112060,
+      "word": "三亚游客称海景房变风扇房",
+      "onboard_time": 1756119683,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 50306,
       "num": 162115,
       "word": "喜茶回应被检出含反式脂肪酸",
@@ -2995,6 +3083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41450,
+      "num": 278427,
+      "word": "上海迪士尼将新增更多中间票价",
+      "onboard_time": 1756120644,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40365,
       "num": 241715,
       "word": "让鲁迅夹烟天塌不下来",
@@ -3041,6 +3137,14 @@
       "onboard_time": 1756099944,
       "rank": 29,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 34837,
+      "num": 215931,
+      "word": "从河说起发现郑州之美",
+      "onboard_time": 1756119382,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33630,
@@ -3105,6 +3209,14 @@
       "onboard_time": 1756114943,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24161,
+      "num": 333722,
+      "word": "单霁翔谈文化遗产活化新思路",
+      "onboard_time": 1756120522,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 23338,
