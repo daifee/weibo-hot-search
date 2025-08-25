@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756149689495,
+  "endTime": 1756150650675,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -87243,6 +87243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21025,
+      "num": 27530,
+      "word": "女子在驿站将别人快递件全部扔下",
+      "onboard_time": 1756144156,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21012,
       "num": 27602,
       "word": "奇遇",
@@ -87361,14 +87369,6 @@
       "onboard_time": 1754289803,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20481,
-      "num": 27530,
-      "word": "女子在驿站将别人快递件全部扔下",
-      "onboard_time": 1756144156,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20438,
