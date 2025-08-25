@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/26 00:32:44 ~ 2025/08/26 03:37:30
+本榜单时间：2025/08/26 00:32:44 ~ 2025/08/26 04:28:33
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ sakuya金牌（热度：70522）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E8%B4%A6%E5%8F%B7%E8%A2%AB%E6%8E%A5%E6%89%8B%E5%90%8E%E5%B0%86%E5%A4%8D%E6%92%AD%23" target="weibo">
+辛巴账号被接手后将复播（热度：22833）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8F%97%E4%BB%BB%E5%98%89%E4%BC%A6%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92%E5%94%B1%E8%B7%B3%E7%88%86%E5%8F%91%E5%8A%9B%23" target="weibo">
 感受任嘉伦争分夺秒唱跳爆发力（热度：22753）
 </a>
@@ -389,6 +395,18 @@ sakuya金牌（热度：70522）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BE%8E%E6%A1%91%E5%86%85%E6%89%8B%E5%8A%BF%E8%88%9E%E6%9D%A5%E5%95%A6%23" target="weibo">
 美美桑内手势舞来啦（热度：16443）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E6%B9%96%E5%8D%97%E8%A2%AB%E6%8B%89%E7%BB%86%E9%92%A2%E7%AD%8B%23" target="weibo">
+记者暗访湖南被拉细钢筋（热度：14648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E8%AE%AD%E7%BB%83%E5%9C%BA%E4%B8%8A%E7%9A%84%E5%A5%B3%E6%B0%91%E5%85%B5%E5%A4%AA%E9%A3%92%E4%BA%86%23" target="weibo">
+阅兵训练场上的女民兵太飒了（热度：12868）
 </a>
 </li>
 
