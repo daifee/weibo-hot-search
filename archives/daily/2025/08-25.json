@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756126428553,
+  "endTime": 1756127301092,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 739054,
-      "num": 422094,
+      "num": 493249,
       "word": "甜馨小酒窝一起跳舞了",
       "onboard_time": 1756124963,
       "rank": 10,
@@ -256,6 +256,14 @@
       "word": "警方回应女子持刀被壮汉制服",
       "onboard_time": 1756101681,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677984,
+      "num": 677984,
+      "word": "投诉鲁迅抽烟 浪费公共资源",
+      "onboard_time": 1756121124,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571022,
+      "num": 571022,
+      "word": "鲁迅夹烟遭二次投诉",
+      "onboard_time": 1756123642,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 568333,
       "num": 568333,
       "word": "中国中铁沉痛哀悼遇难者",
@@ -360,14 +376,6 @@
       "word": "迪士尼票价",
       "onboard_time": 1756108884,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 552779,
-      "num": 552779,
-      "word": "投诉鲁迅抽烟 浪费公共资源",
-      "onboard_time": 1756121124,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -451,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492154,
+      "num": 492154,
+      "word": "王玉雯你真的火了",
+      "onboard_time": 1756124663,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470380,
       "num": 483978,
       "word": "掐了鲁迅的烟谁来点燃思想的火",
@@ -531,14 +547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 432043,
-      "num": 432043,
-      "word": "鲁迅夹烟遭二次投诉",
-      "onboard_time": 1756123642,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 424250,
       "num": 303435,
       "word": "马思纯张晚意 好嗑",
@@ -585,14 +593,6 @@
       "onboard_time": 1756102344,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 412591,
-      "num": 412591,
-      "word": "王玉雯你真的火了",
-      "onboard_time": 1756124663,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 406436,
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 300373,
-      "num": 430082,
+      "num": 513932,
       "word": "张碧晨开场",
       "onboard_time": 1756124483,
       "rank": 6,
@@ -851,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274729,
+      "num": 274729,
+      "word": "宋祖儿在用漂亮的脸蛋做什么",
+      "onboard_time": 1756121483,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272185,
       "num": 272185,
       "word": "肖战TMEA获奖感言",
@@ -905,14 +913,6 @@
       "onboard_time": 1756079481,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260510,
-      "num": 260510,
-      "word": "宋祖儿在用漂亮的脸蛋做什么",
-      "onboard_time": 1756121483,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 257029,
@@ -1043,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225173,
+      "num": 509237,
+      "word": "卤料 吗啡",
+      "onboard_time": 1756125923,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220322,
       "num": 260027,
       "word": "鞠婧祎 秋老虎怕了你了",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1756117583,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214575,
+      "num": 200952,
+      "word": "那些月入过万的小众工作",
+      "onboard_time": 1756122623,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 213704,
@@ -1091,6 +1107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210144,
+      "num": 503851,
+      "word": "陈奕恒总结舞台",
+      "onboard_time": 1756123162,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "办婚礼不领证 被判退彩礼",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1756111462,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206582,
-      "num": 426591,
-      "word": "陈奕恒总结舞台",
-      "onboard_time": 1756123162,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 202776,
@@ -1137,14 +1153,6 @@
       "onboard_time": 1756034364,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200952,
-      "num": 200952,
-      "word": "那些月入过万的小众工作",
-      "onboard_time": 1756122623,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 200500,
@@ -1371,6 +1379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 186328,
+      "num": 150392,
+      "word": "带这些字眼的奶茶尽量别点",
+      "onboard_time": 1756126944,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 185931,
       "num": 194925,
       "word": "张凌赫又出神图",
@@ -1395,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182963,
+      "num": 182963,
+      "word": "与晋长安",
+      "onboard_time": 1756126103,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182632,
       "num": 424248,
       "word": "斗罗大陆",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1756100243,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175398,
+      "num": 175398,
+      "word": "王一博拍照动作神似敦煌飞天",
+      "onboard_time": 1756125683,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 174385,
@@ -1723,6 +1755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149273,
+      "num": 499842,
+      "word": "浙江鲁迅研究会回应鲁迅夹烟",
+      "onboard_time": 1756125143,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148879,
       "num": 226830,
       "word": "暴雨高温台风预警齐发",
@@ -1915,14 +1955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 137677,
-      "num": 137677,
-      "word": "浙江鲁迅研究会回应鲁迅夹烟",
-      "onboard_time": 1756125143,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137288,
       "num": 137288,
       "word": "labubu 迷你版",
@@ -1961,14 +1993,6 @@
       "onboard_time": 1756092443,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 135144,
-      "num": 117095,
-      "word": "王一博拍照动作神似敦煌飞天",
-      "onboard_time": 1756125683,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 134826,
@@ -2139,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125027,
+      "num": 125027,
+      "word": "丞磊新剧上一秒结拜下一秒拜拜",
+      "onboard_time": 1756127003,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124593,
       "num": 124593,
       "word": "刘学义雪景骑马吻路透",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1756099944,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123268,
+      "num": 123268,
+      "word": "袁一琦彩排",
+      "onboard_time": 1756127184,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 122962,
@@ -2611,14 +2651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104431,
-      "num": 104431,
-      "word": "与晋长安",
-      "onboard_time": 1756126103,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104162,
       "num": 104162,
       "word": "女子手持刀具被壮汉制服",
@@ -2747,6 +2779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99466,
+      "num": 99466,
+      "word": "陈星旭人在家中坐老底被掀了个遍",
+      "onboard_time": 1756126884,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99059,
       "num": 99059,
       "word": "猫咪和爸爸同日去世前后仅差1小时",
@@ -2763,12 +2803,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97379,
+      "num": 97379,
+      "word": "北京国安vs武汉三镇",
+      "onboard_time": 1756127003,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96791,
       "num": 96791,
       "word": "汪苏泷TMEA获奖感言",
       "onboard_time": 1756047747,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95760,
+      "num": 95760,
+      "word": "桃黑黑如果多一张船票",
+      "onboard_time": 1756126464,
+      "rank": 42,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 94759,
+      "num": 97392,
+      "word": "被瀑布冲走网红消失前一刻画面曝光",
+      "onboard_time": 1756123344,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 93951,
@@ -2792,6 +2856,14 @@
       "word": "客服回应张维伊同款耳机",
       "onboard_time": 1756113742,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92742,
+      "num": 92742,
+      "word": "成毅单人过会三大平台",
+      "onboard_time": 1756126464,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -2843,12 +2915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89008,
-      "num": 89008,
-      "word": "被瀑布冲走网红消失前一刻画面曝光",
-      "onboard_time": 1756123344,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 90374,
+      "num": 90374,
+      "word": "蒋欣出场华妃回宫",
+      "onboard_time": 1756126464,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 88552,
@@ -3195,6 +3267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54724,
+      "num": 97624,
+      "word": "张曼玉左耳 8个耳洞",
+      "onboard_time": 1756127124,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54520,
       "num": 148525,
       "word": "草本初色内衣被曝有虫",
@@ -3281,14 +3361,6 @@
       "onboard_time": 1756094664,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45314,
-      "num": 219555,
-      "word": "卤料 吗啡",
-      "onboard_time": 1756125923,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44819,
@@ -3443,7 +3515,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29167,
+      "raw_hot": 29622,
       "num": 215320,
       "word": "文化郑当时",
       "onboard_time": 1756125264,
@@ -3553,6 +3625,14 @@
       "onboard_time": 1756020682,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 17764,
+      "num": 97492,
+      "word": "张淼怡终于找对风格了",
+      "onboard_time": 1756126944,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 15278,

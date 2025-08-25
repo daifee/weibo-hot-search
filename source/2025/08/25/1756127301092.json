@@ -1,0 +1,410 @@
+{
+  "runTime": 1756127301092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 913994,
+        "num": 1146239,
+        "word": "黄多多好像年轻的刘诗诗",
+        "onboard_time": 1756120163,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677984,
+        "num": 677984,
+        "word": "投诉鲁迅抽烟 浪费公共资源",
+        "onboard_time": 1756121124,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33417,
+        "num": 615184,
+        "word": "阅兵女教练说性别不是衡量能力的标尺",
+        "onboard_time": 1756099283,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571022,
+        "num": 571022,
+        "word": "鲁迅夹烟遭二次投诉",
+        "onboard_time": 1756123642,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518724,
+        "num": 518724,
+        "word": "女子询问海底捞换配菜被开黄腔辱骂",
+        "onboard_time": 1756121303,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352632,
+        "num": 517045,
+        "word": "东方风云榜直播",
+        "onboard_time": 1756119804,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268911,
+        "num": 513932,
+        "word": "张碧晨开场",
+        "onboard_time": 1756124483,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225173,
+        "num": 509237,
+        "word": "卤料 吗啡",
+        "onboard_time": 1756125923,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210144,
+        "num": 503851,
+        "word": "陈奕恒总结舞台",
+        "onboard_time": 1756123162,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149273,
+        "num": 499842,
+        "word": "浙江鲁迅研究会回应鲁迅夹烟",
+        "onboard_time": 1756125143,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661412,
+        "num": 493249,
+        "word": "甜馨小酒窝一起跳舞了",
+        "onboard_time": 1756124963,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492154,
+        "num": 492154,
+        "word": "王玉雯你真的火了",
+        "onboard_time": 1756124663,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375211,
+        "num": 375211,
+        "word": "15岁林大竣身高",
+        "onboard_time": 1756124963,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357766,
+        "num": 357766,
+        "word": "今年打了翻身仗的4位明星",
+        "onboard_time": 1756120644,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243585,
+        "num": 313906,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1756117704,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281066,
+        "num": 281066,
+        "word": "肖战花仙子",
+        "onboard_time": 1756121662,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274729,
+        "num": 274729,
+        "word": "宋祖儿在用漂亮的脸蛋做什么",
+        "onboard_time": 1756121483,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182963,
+        "num": 182963,
+        "word": "与晋长安",
+        "onboard_time": 1756126103,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175398,
+        "num": 175398,
+        "word": "王一博拍照动作神似敦煌飞天",
+        "onboard_time": 1756125683,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29622,
+        "num": 166786,
+        "word": "文化郑当时",
+        "onboard_time": 1756125264,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214575,
+        "num": 165785,
+        "word": "那些月入过万的小众工作",
+        "onboard_time": 1756122623,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162503,
+        "num": 162503,
+        "word": "日本引进黑人计划",
+        "onboard_time": 1756108884,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169496,
+        "num": 156934,
+        "word": "魏大勋父亲公司被执行233万",
+        "onboard_time": 1756112484,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186328,
+        "num": 150392,
+        "word": "带这些字眼的奶茶尽量别点",
+        "onboard_time": 1756126944,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183597,
+        "num": 149907,
+        "word": "23岁怀孕上大学的经历和感受",
+        "onboard_time": 1756116143,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140237,
+        "num": 140237,
+        "word": "微信最邪门的引用功能出现了",
+        "onboard_time": 1756114045,
+        "rank": 25,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 137899,
+        "num": 137899,
+        "word": "归队开播",
+        "onboard_time": 1756125143,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135499,
+        "num": 135499,
+        "word": "东方风云榜",
+        "onboard_time": 1756111224,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125027,
+        "num": 125027,
+        "word": "丞磊新剧上一秒结拜下一秒拜拜",
+        "onboard_time": 1756127003,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100200,
+        "num": 123451,
+        "word": "迪士尼票价",
+        "onboard_time": 1756108884,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 123268,
+        "num": 123268,
+        "word": "袁一琦彩排",
+        "onboard_time": 1756127184,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113503,
+        "num": 113503,
+        "word": "刘亦菲 智界",
+        "onboard_time": 1756108043,
+        "rank": 31,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 111631,
+        "num": 111631,
+        "word": "月嫂疏忽致29天婴儿重摔颅内出血",
+        "onboard_time": 1756110864,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107882,
+        "num": 107882,
+        "word": "生万物豆瓣降至7.3",
+        "onboard_time": 1756121243,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105891,
+        "num": 105891,
+        "word": "持刀追赶男孩女子有精神分裂症",
+        "onboard_time": 1756125385,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104696,
+        "num": 104696,
+        "word": "没有相亲欲望的朋友圈",
+        "onboard_time": 1756110564,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102655,
+        "num": 102655,
+        "word": "杨紫格雷系私服穿搭",
+        "onboard_time": 1756116683,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 99466,
+        "num": 99466,
+        "word": "陈星旭人在家中坐老底被掀了个遍",
+        "onboard_time": 1756126884,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54724,
+        "num": 97624,
+        "word": "张曼玉左耳 8个耳洞",
+        "onboard_time": 1756127124,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17764,
+        "num": 97492,
+        "word": "张淼怡终于找对风格了",
+        "onboard_time": 1756126944,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94759,
+        "num": 97392,
+        "word": "被瀑布冲走网红消失前一刻画面曝光",
+        "onboard_time": 1756123344,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97379,
+        "num": 97379,
+        "word": "北京国安vs武汉三镇",
+        "onboard_time": 1756127003,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95760,
+        "num": 95760,
+        "word": "桃黑黑如果多一张船票",
+        "onboard_time": 1756126464,
+        "rank": 42,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 92742,
+        "num": 92742,
+        "word": "成毅单人过会三大平台",
+        "onboard_time": 1756126464,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89759,
+        "num": 91371,
+        "word": "张维伊小时候",
+        "onboard_time": 1756118904,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90374,
+        "num": 90374,
+        "word": "蒋欣出场华妃回宫",
+        "onboard_time": 1756126464,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90086,
+        "num": 90086,
+        "word": "拒绝了她索要两张卫生巾的要求",
+        "onboard_time": 1756117583,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89005,
+        "num": 89005,
+        "word": "雷军说奔驰强的有点变态",
+        "onboard_time": 1756118123,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 84685,
+        "num": 84685,
+        "word": "JDG对战KSG",
+        "onboard_time": 1756123162,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83961,
+        "num": 83961,
+        "word": "董宇辉分手暴富俞敏洪还在煎熬",
+        "onboard_time": 1756126284,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}

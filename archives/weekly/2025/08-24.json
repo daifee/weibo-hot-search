@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756126428553,
+  "endTime": 1756127301092,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 739054,
-      "num": 422094,
+      "num": 493249,
       "word": "甜馨小酒窝一起跳舞了",
       "onboard_time": 1756124963,
       "rank": 10,
@@ -544,6 +544,14 @@
       "word": "警方回应女子持刀被壮汉制服",
       "onboard_time": 1756101681,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677984,
+      "num": 677984,
+      "word": "投诉鲁迅抽烟 浪费公共资源",
+      "onboard_time": 1756121124,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -731,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 571022,
+      "num": 571022,
+      "word": "鲁迅夹烟遭二次投诉",
+      "onboard_time": 1756123642,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 568333,
       "num": 568333,
       "word": "中国中铁沉痛哀悼遇难者",
@@ -776,14 +792,6 @@
       "word": "迪士尼票价",
       "onboard_time": 1756108884,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 552779,
-      "num": 552779,
-      "word": "投诉鲁迅抽烟 浪费公共资源",
-      "onboard_time": 1756121124,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -971,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492154,
+      "num": 492154,
+      "word": "王玉雯你真的火了",
+      "onboard_time": 1756124663,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488967,
       "num": 788173,
       "word": "王艳两场直播销售额超3000万",
@@ -1123,14 +1139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 432043,
-      "num": 432043,
-      "word": "鲁迅夹烟遭二次投诉",
-      "onboard_time": 1756123642,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 425360,
       "num": 425360,
       "word": "TMEA节目单",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1755970159,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 412591,
-      "num": 412591,
-      "word": "王玉雯你真的火了",
-      "onboard_time": 1756124663,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 412473,
@@ -1620,7 +1620,7 @@
     },
     {
       "raw_hot": 300373,
-      "num": 430082,
+      "num": 513932,
       "word": "张碧晨开场",
       "onboard_time": 1756124483,
       "rank": 6,
@@ -1707,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274729,
+      "num": 274729,
+      "word": "宋祖儿在用漂亮的脸蛋做什么",
+      "onboard_time": 1756121483,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272441,
       "num": 272441,
       "word": "四张证就这样结束了妈妈的一生",
@@ -1777,14 +1785,6 @@
       "onboard_time": 1756079481,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260510,
-      "num": 260510,
-      "word": "宋祖儿在用漂亮的脸蛋做什么",
-      "onboard_time": 1756121483,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 257029,
@@ -2035,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225173,
+      "num": 509237,
+      "word": "卤料 吗啡",
+      "onboard_time": 1756125923,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223457,
       "num": 185314,
       "word": "Akiyo宣布离婚",
@@ -2089,6 +2097,14 @@
       "onboard_time": 1756033462,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214575,
+      "num": 200952,
+      "word": "那些月入过万的小众工作",
+      "onboard_time": 1756122623,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 213856,
@@ -2163,6 +2179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210144,
+      "num": 503851,
+      "word": "陈奕恒总结舞台",
+      "onboard_time": 1756123162,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209482,
       "num": 215555,
       "word": "与晋长安开播",
@@ -2219,14 +2243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206582,
-      "num": 426591,
-      "word": "陈奕恒总结舞台",
-      "onboard_time": 1756123162,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 205359,
       "num": 296905,
       "word": "无锡地铁一景区宣传图被指画面不雅",
@@ -2265,14 +2281,6 @@
       "onboard_time": 1755959067,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200952,
-      "num": 200952,
-      "word": "那些月入过万的小众工作",
-      "onboard_time": 1756122623,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 200536,
@@ -2723,6 +2731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 186328,
+      "num": 150392,
+      "word": "带这些字眼的奶茶尽量别点",
+      "onboard_time": 1756126944,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 186261,
       "num": 192399,
       "word": "王曼昱担心马琳拉伤胳膊",
@@ -2793,6 +2809,14 @@
       "onboard_time": 1756023382,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182963,
+      "num": 199315,
+      "word": "与晋长安",
+      "onboard_time": 1756011442,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 182690,
@@ -2971,6 +2995,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 175398,
+      "num": 175398,
+      "word": "王一博拍照动作神似敦煌飞天",
+      "onboard_time": 1756125683,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175235,
       "num": 196567,
       "word": "广东大批台风预警发布",
@@ -2985,14 +3017,6 @@
       "onboard_time": 1756040964,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175083,
-      "num": 199315,
-      "word": "与晋长安",
-      "onboard_time": 1756011442,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 174738,
@@ -3651,6 +3675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149273,
+      "num": 499842,
+      "word": "浙江鲁迅研究会回应鲁迅夹烟",
+      "onboard_time": 1756125143,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148879,
       "num": 226830,
       "word": "暴雨高温台风预警齐发",
@@ -4059,14 +4091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137677,
-      "num": 137677,
-      "word": "浙江鲁迅研究会回应鲁迅夹烟",
-      "onboard_time": 1756125143,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137355,
       "num": 137355,
       "word": "中国排面经得起逐帧回放",
@@ -4153,14 +4177,6 @@
       "onboard_time": 1756007723,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 135144,
-      "num": 117095,
-      "word": "王一博拍照动作神似敦煌飞天",
-      "onboard_time": 1756125683,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 134826,
@@ -4475,6 +4491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125027,
+      "num": 125027,
+      "word": "丞磊新剧上一秒结拜下一秒拜拜",
+      "onboard_time": 1756127003,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124593,
       "num": 124593,
       "word": "刘学义雪景骑马吻路透",
@@ -4537,6 +4561,14 @@
       "onboard_time": 1756099944,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123268,
+      "num": 123268,
+      "word": "袁一琦彩排",
+      "onboard_time": 1756127184,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 122962,
@@ -5723,6 +5755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99466,
+      "num": 99466,
+      "word": "陈星旭人在家中坐老底被掀了个遍",
+      "onboard_time": 1756126884,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99170,
       "num": 99170,
       "word": "孙颖莎王曼昱捧杯时刻",
@@ -5811,6 +5851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97379,
+      "num": 97379,
+      "word": "北京国安vs武汉三镇",
+      "onboard_time": 1756127003,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97082,
       "num": 97082,
       "word": "原来腿长的小猫是这样玩的",
@@ -5835,6 +5883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95760,
+      "num": 95760,
+      "word": "桃黑黑如果多一张船票",
+      "onboard_time": 1756126464,
+      "rank": 42,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 95530,
       "num": 95530,
       "word": "周也花絮时间",
@@ -5849,6 +5905,14 @@
       "onboard_time": 1755958047,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94759,
+      "num": 97392,
+      "word": "被瀑布冲走网红消失前一刻画面曝光",
+      "onboard_time": 1756123344,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94118,
@@ -5896,6 +5960,14 @@
       "word": "客服回应张维伊同款耳机",
       "onboard_time": 1756113742,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92742,
+      "num": 92742,
+      "word": "成毅单人过会三大平台",
+      "onboard_time": 1756126464,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -5947,6 +6019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90374,
+      "num": 90374,
+      "word": "蒋欣出场华妃回宫",
+      "onboard_time": 1756126464,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89722,
       "num": 89722,
       "word": "王曼昱庆祝动作好燃",
@@ -5961,14 +6041,6 @@
       "onboard_time": 1755951565,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89008,
-      "num": 89008,
-      "word": "被瀑布冲走网红消失前一刻画面曝光",
-      "onboard_time": 1756123344,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 88974,
@@ -6603,6 +6675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54724,
+      "num": 97624,
+      "word": "张曼玉左耳 8个耳洞",
+      "onboard_time": 1756127124,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54520,
       "num": 148525,
       "word": "草本初色内衣被曝有虫",
@@ -6809,14 +6889,6 @@
       "onboard_time": 1756034063,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 45314,
-      "num": 219555,
-      "word": "卤料 吗啡",
-      "onboard_time": 1756125923,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45299,
@@ -7083,19 +7155,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29622,
+      "num": 215320,
+      "word": "文化郑当时",
+      "onboard_time": 1756125264,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29313,
       "num": 58108,
       "word": "说好3年迁走户口16年了还在",
       "onboard_time": 1755980654,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29167,
-      "num": 215320,
-      "word": "文化郑当时",
-      "onboard_time": 1756125264,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -7369,6 +7441,14 @@
       "onboard_time": 1755978495,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17764,
+      "num": 97492,
+      "word": "张淼怡终于找对风格了",
+      "onboard_time": 1756126944,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 17246,
