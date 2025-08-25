@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756129690890,
+  "endTime": 1756132064992,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -129,6 +129,14 @@
       "onboard_time": 1756115964,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1314332,
+      "num": 418040,
+      "word": "从一颗痣到确诊癌症",
+      "onboard_time": 1756128382,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1298814,
@@ -344,6 +352,14 @@
       "word": "孟村",
       "onboard_time": 1756016962,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 933730,
+      "num": 1149396,
+      "word": "男子杀妻死缓女方家属不满判决上诉",
+      "onboard_time": 1756128803,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -689,14 +705,6 @@
       "onboard_time": 1756052243,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 595192,
-      "num": 418040,
-      "word": "从一颗痣到确诊癌症",
-      "onboard_time": 1756128382,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 592471,
@@ -1115,19 +1123,19 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 449690,
+      "num": 419981,
+      "word": "今年打了翻身仗的4位明星",
+      "onboard_time": 1756120644,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449258,
       "num": 449258,
       "word": "健身房偶遇宋祖儿",
       "onboard_time": 1756103903,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 449214,
-      "num": 419981,
-      "word": "今年打了翻身仗的4位明星",
-      "onboard_time": 1756120644,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1307,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396248,
+      "num": 396248,
+      "word": "男网红娶残障老婆事件调查结果",
+      "onboard_time": 1756128984,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 392377,
       "num": 392377,
       "word": "绍兴文旅称不会因一人投诉盲目更换",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1756022003,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366937,
+      "num": 366937,
+      "word": "带这些字眼的奶茶尽量别点",
+      "onboard_time": 1756126944,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 366809,
@@ -1587,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321996,
+      "num": 250475,
+      "word": "持刀追赶男孩女子有精神分裂症",
+      "onboard_time": 1756125385,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317414,
       "num": 317414,
       "word": "肖战花仙子",
@@ -1707,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281403,
+      "num": 281403,
+      "word": "亚马尔官宣恋情",
+      "onboard_time": 1756128504,
+      "rank": 29,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 280849,
       "num": 280849,
       "word": "赖清德大罢免0比32惨败",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1756117464,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 266868,
+      "num": 249981,
+      "word": "或许这就是压轴出场吧",
+      "onboard_time": 1756131685,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 266296,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1756090101,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254533,
+      "num": 420150,
+      "word": "陈星旭人在家中坐老底被掀了个遍",
+      "onboard_time": 1756126884,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 253934,
@@ -1979,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235444,
-      "num": 235444,
-      "word": "持刀追赶男孩女子有精神分裂症",
-      "onboard_time": 1756125385,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235198,
       "num": 235198,
       "word": "王一博拍照动作神似敦煌飞天",
@@ -2113,14 +2161,6 @@
       "onboard_time": 1756079183,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219403,
-      "num": 219403,
-      "word": "亚马尔官宣恋情",
-      "onboard_time": 1756128504,
-      "rank": 29,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 217888,
@@ -2275,14 +2315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207701,
-      "num": 169326,
-      "word": "带这些字眼的奶茶尽量别点",
-      "onboard_time": 1756126944,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 207295,
       "num": 192562,
       "word": "月亮姐姐 我没有产后抑郁症",
@@ -2347,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200632,
+      "num": 200632,
+      "word": "尚界",
+      "onboard_time": 1756131503,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 200536,
       "num": 200536,
       "word": "生万物结局 震撼",
@@ -2409,14 +2449,6 @@
       "onboard_time": 1756041205,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198489,
-      "num": 420150,
-      "word": "陈星旭人在家中坐老底被掀了个遍",
-      "onboard_time": 1756126884,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 198338,
@@ -2785,14 +2817,6 @@
       "onboard_time": 1756045707,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187592,
-      "num": 430786,
-      "word": "男子杀妻死缓女方家属不满判决上诉",
-      "onboard_time": 1756128803,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187178,
@@ -3435,6 +3459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158913,
+      "num": 158913,
+      "word": "董宇辉分手暴富俞敏洪还在煎熬",
+      "onboard_time": 1756126284,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158125,
       "num": 158125,
       "word": "关晓彤去了汪苏泷演唱会",
@@ -3609,6 +3641,14 @@
       "onboard_time": 1756117643,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153549,
+      "num": 153549,
+      "word": "日月星移爱旅相依",
+      "onboard_time": 1756131623,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 152970,
@@ -3859,6 +3899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144941,
+      "num": 426711,
+      "word": "门店账号现不当内容海底捞已报警",
+      "onboard_time": 1756127663,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144811,
       "num": 144811,
       "word": "章昊偶运会演我上早八",
@@ -3985,14 +4033,6 @@
       "onboard_time": 1756096884,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142290,
-      "num": 426711,
-      "word": "门店账号现不当内容海底捞已报警",
-      "onboard_time": 1756127663,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142107,
@@ -4419,14 +4459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129612,
-      "num": 129612,
-      "word": "董宇辉分手暴富俞敏洪还在煎熬",
-      "onboard_time": 1756126284,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 129339,
       "num": 216736,
       "word": "市值124亿元公司拟用138亿元炒股理财",
@@ -4547,6 +4579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126384,
+      "num": 126384,
+      "word": "4岁娃查出400度远视加250度散光",
+      "onboard_time": 1756131806,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126099,
       "num": 148086,
       "word": "迪丽热巴被小朋友逗笑了",
@@ -4561,6 +4601,14 @@
       "onboard_time": 1756010423,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125070,
+      "num": 125070,
+      "word": "网红称吃火鸡面烧穿胃索赔7700万",
+      "onboard_time": 1756132044,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125069,
@@ -4995,6 +5043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117163,
+      "num": 117163,
+      "word": "鲁迅戒烟 李白禁酒",
+      "onboard_time": 1756129345,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117097,
       "num": 117097,
       "word": "追星的意义在这体现了",
@@ -5147,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114775,
+      "num": 125099,
+      "word": "鹭卓说十个勤天长长久久",
+      "onboard_time": 1756130245,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114246,
       "num": 114246,
       "word": "看个电影无痛背下来了12个单词",
@@ -5217,6 +5281,14 @@
       "onboard_time": 1756112724,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112574,
+      "num": 112574,
+      "word": "警方通报女童被康复机构老师殴打",
+      "onboard_time": 1756131024,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112411,
@@ -5323,6 +5395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109341,
+      "num": 109341,
+      "word": "刘宇宁裙子跟不上腿",
+      "onboard_time": 1756131984,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109278,
       "num": 132385,
       "word": "WBG对战iG",
@@ -5401,6 +5481,14 @@
       "onboard_time": 1756091842,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107660,
+      "num": 107660,
+      "word": "肖战把一场加戏演成经典",
+      "onboard_time": 1756131024,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 107620,
@@ -5859,6 +5947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99483,
+      "num": 99483,
+      "word": "蒋欣出场华妃回宫",
+      "onboard_time": 1756126464,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99170,
       "num": 99170,
       "word": "孙颖莎王曼昱捧杯时刻",
@@ -5955,6 +6051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97463,
+      "num": 102825,
+      "word": "鹭卓年度最具潜力歌手",
+      "onboard_time": 1756130664,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97379,
       "num": 97379,
       "word": "北京国安vs武汉三镇",
@@ -5976,6 +6080,14 @@
       "word": "许凯",
       "onboard_time": 1755994220,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96541,
+      "num": 107796,
+      "word": "何浩楠沉浸在自己的考证艺术里",
+      "onboard_time": 1756130664,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -6025,14 +6137,6 @@
       "onboard_time": 1756123344,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 94611,
-      "num": 94611,
-      "word": "蒋欣出场华妃回宫",
-      "onboard_time": 1756126464,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 94118,
@@ -6595,14 +6699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66547,
-      "num": 103364,
-      "word": "鲁迅戒烟 李白禁酒",
-      "onboard_time": 1756129345,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66404,
       "num": 242045,
       "word": "问界M8纯电版35.98万元起",
@@ -6699,6 +6795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60152,
+      "num": 553297,
+      "word": "真想一键快进到阅兵当天",
+      "onboard_time": 1756127724,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59305,
       "num": 256585,
       "word": "京东送玫瑰帮小伙表白",
@@ -6747,14 +6851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56888,
-      "num": 462632,
-      "word": "真想一键快进到阅兵当天",
-      "onboard_time": 1756127724,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 56824,
       "num": 124331,
       "word": "清华食堂餐具在二手平台卖88一套",
@@ -6801,14 +6897,6 @@
       "onboard_time": 1756112484,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55687,
-      "num": 170937,
-      "word": "男网红娶残障老婆事件调查结果",
-      "onboard_time": 1756128984,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 55220,
@@ -7145,6 +7233,14 @@
       "onboard_time": 1756114523,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38443,
+      "num": 125082,
+      "word": "网传蜜雪冰城加盟文件系伪造",
+      "onboard_time": 1756130844,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 38192,
