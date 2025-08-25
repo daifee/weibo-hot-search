@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756127301092,
+  "endTime": 1756128990426,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -81,6 +81,14 @@
       "onboard_time": 1756090401,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1037059,
+      "num": 571022,
+      "word": "鲁迅夹烟遭二次投诉",
+      "onboard_time": 1756123642,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1031133,
@@ -227,11 +235,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 739054,
+      "raw_hot": 756193,
       "num": 493249,
       "word": "甜馨小酒窝一起跳舞了",
       "onboard_time": 1756124963,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 752188,
+      "num": 492154,
+      "word": "王玉雯你真的火了",
+      "onboard_time": 1756124663,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -339,12 +355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 571022,
-      "num": 571022,
-      "word": "鲁迅夹烟遭二次投诉",
-      "onboard_time": 1756123642,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 573551,
+      "num": 419883,
+      "word": "15岁林大竣身高",
+      "onboard_time": 1756124963,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 568333,
@@ -459,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 492154,
-      "num": 492154,
-      "word": "王玉雯你真的火了",
-      "onboard_time": 1756124663,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 470380,
       "num": 483978,
       "word": "掐了鲁迅的烟谁来点燃思想的火",
@@ -571,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419883,
-      "num": 419883,
-      "word": "15岁林大竣身高",
-      "onboard_time": 1756124963,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 418310,
       "num": 350745,
       "word": "李一桐 我只能旺我自己旺不了夫",
@@ -673,6 +673,22 @@
       "onboard_time": 1756082603,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 368225,
+      "num": 509237,
+      "word": "卤料 吗啡",
+      "onboard_time": 1756125923,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365363,
+      "num": 149143,
+      "word": "从一颗痣到确诊癌症",
+      "onboard_time": 1756128382,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 364582,
@@ -779,20 +795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311280,
+      "num": 358663,
+      "word": "瘦了后出片像呼吸一样简单",
+      "onboard_time": 1756117704,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 308873,
+      "num": 513932,
+      "word": "张碧晨开场",
+      "onboard_time": 1756124483,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308362,
       "num": 241759,
       "word": "27岁尿毒症女生跑外卖续命4年",
       "onboard_time": 1756046667,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 300373,
-      "num": 513932,
-      "word": "张碧晨开场",
-      "onboard_time": 1756124483,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 299159,
@@ -809,6 +833,14 @@
       "onboard_time": 1756087761,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291028,
+      "num": 499842,
+      "word": "浙江鲁迅研究会回应鲁迅夹烟",
+      "onboard_time": 1756125143,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282320,
@@ -947,14 +979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 249408,
-      "num": 358663,
-      "word": "瘦了后出片像呼吸一样简单",
-      "onboard_time": 1756117704,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 246635,
       "num": 246635,
       "word": "七千的苹果我只玩了两千",
@@ -1011,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235198,
+      "num": 235198,
+      "word": "王一博拍照动作神似敦煌飞天",
+      "onboard_time": 1756125683,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234975,
       "num": 234975,
       "word": "线香不通风 致癌",
       "onboard_time": 1756114883,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 233071,
+      "num": 233071,
+      "word": "那些月入过万的小众工作",
+      "onboard_time": 1756122623,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 229966,
@@ -1043,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225173,
-      "num": 509237,
-      "word": "卤料 吗啡",
-      "onboard_time": 1756125923,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220322,
       "num": 260027,
       "word": "鞠婧祎 秋老虎怕了你了",
@@ -1067,14 +1099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214575,
-      "num": 200952,
-      "word": "那些月入过万的小众工作",
-      "onboard_time": 1756122623,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 213704,
       "num": 213704,
       "word": "杨紫格雷系私服穿搭",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1756089501,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211558,
+      "num": 149807,
+      "word": "亚马尔官宣恋情",
+      "onboard_time": 1756128504,
+      "rank": 29,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 210940,
@@ -1129,6 +1161,22 @@
       "onboard_time": 1756111462,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207701,
+      "num": 150392,
+      "word": "带这些字眼的奶茶尽量别点",
+      "onboard_time": 1756126944,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 205558,
+      "num": 308821,
+      "word": "单依纯东方风云榜最佳女歌手",
+      "onboard_time": 1756128023,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202776,
@@ -1379,14 +1427,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 186328,
-      "num": 150392,
-      "word": "带这些字眼的奶茶尽量别点",
-      "onboard_time": 1756126944,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 185931,
       "num": 194925,
       "word": "张凌赫又出神图",
@@ -1443,20 +1483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175398,
-      "num": 175398,
-      "word": "王一博拍照动作神似敦煌飞天",
-      "onboard_time": 1756125683,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174385,
       "num": 174385,
       "word": "李在明首次访美仅2名美官员迎接",
       "onboard_time": 1756106123,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172996,
+      "num": 172996,
+      "word": "陈星旭人在家中坐老底被掀了个遍",
+      "onboard_time": 1756126884,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 172577,
@@ -1667,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154378,
+      "num": 154378,
+      "word": "一代人有一代人的白蛇许仙",
+      "onboard_time": 1756127783,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154136,
       "num": 154136,
       "word": "肖战中秋前任少白留影",
@@ -1755,14 +1803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 149273,
-      "num": 499842,
-      "word": "浙江鲁迅研究会回应鲁迅夹烟",
-      "onboard_time": 1756125143,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148879,
       "num": 226830,
       "word": "暴雨高温台风预警齐发",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1756093704,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144649,
+      "num": 305777,
+      "word": "凡人修仙传动画年度国漫IP",
+      "onboard_time": 1756128143,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 144046,
@@ -2073,6 +2121,14 @@
       "onboard_time": 1756093764,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129612,
+      "num": 129612,
+      "word": "董宇辉分手暴富俞敏洪还在煎熬",
+      "onboard_time": 1756126284,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 129233,
@@ -2355,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117851,
+      "num": 117851,
+      "word": "男子杀妻死缓女方家属不满判决上诉",
+      "onboard_time": 1756128803,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117834,
       "num": 117834,
       "word": "人真的要珍惜单身的时候",
@@ -2401,6 +2465,14 @@
       "onboard_time": 1756047625,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115690,
+      "num": 115690,
+      "word": "中国女排vs哥伦比亚女排",
+      "onboard_time": 1756127303,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 115628,
@@ -2507,6 +2579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110080,
+      "num": 110080,
+      "word": "归队",
+      "onboard_time": 1756128924,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109976,
       "num": 109976,
       "word": "桃晚安哭了",
@@ -2537,6 +2617,14 @@
       "onboard_time": 1756040005,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108698,
+      "num": 233072,
+      "word": "门店账号现不当内容海底捞已报警",
+      "onboard_time": 1756127663,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108294,
@@ -2779,20 +2867,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 99466,
-      "num": 99466,
-      "word": "陈星旭人在家中坐老底被掀了个遍",
-      "onboard_time": 1756126884,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99059,
       "num": 99059,
       "word": "猫咪和爸爸同日去世前后仅差1小时",
       "onboard_time": 1756086080,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98967,
+      "num": 98967,
+      "word": "张曼玉左耳 8个耳洞",
+      "onboard_time": 1756127124,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 97512,
@@ -2825,6 +2913,14 @@
       "onboard_time": 1756126464,
       "rank": 42,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 95627,
+      "num": 233096,
+      "word": "当年汶川男孩如今受阅军官",
+      "onboard_time": 1756127303,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 94759,
@@ -2955,14 +3051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84496,
-      "num": 84496,
-      "word": "董宇辉分手暴富俞敏洪还在煎熬",
-      "onboard_time": 1756126284,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 84247,
       "num": 84247,
       "word": "两女子高铁上争抢充电口",
@@ -2993,6 +3081,14 @@
       "onboard_time": 1756071315,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80256,
+      "num": 117963,
+      "word": "田曦薇的猫半条人",
+      "onboard_time": 1756128143,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 80144,
@@ -3171,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63656,
+      "num": 118309,
+      "word": "记忆力差建议常做4个动作",
+      "onboard_time": 1756128323,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63014,
       "num": 279332,
       "word": "男子与村民有矛盾杀害对方12岁孩子",
@@ -3267,12 +3371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54724,
-      "num": 97624,
-      "word": "张曼玉左耳 8个耳洞",
-      "onboard_time": 1756127124,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 54715,
+      "num": 462632,
+      "word": "真想一键快进到阅兵当天",
+      "onboard_time": 1756127724,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54520,
@@ -3483,6 +3587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31916,
+      "num": 233166,
+      "word": "文化郑当时",
+      "onboard_time": 1756125264,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31829,
       "num": 153966,
       "word": "老人多坐6370天牢能获国赔吗",
@@ -3512,14 +3624,6 @@
       "word": "护网警惕定时炸弹0day漏洞",
       "onboard_time": 1756084222,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29622,
-      "num": 215320,
-      "word": "文化郑当时",
-      "onboard_time": 1756125264,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3553,6 +3657,14 @@
       "onboard_time": 1756114943,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26460,
+      "num": 293598,
+      "word": "单霁翔祝福商都遗址",
+      "onboard_time": 1756127783,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 24161,
@@ -3635,6 +3747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17122,
+      "num": 111215,
+      "word": "被毒死的毛孩子和为它们打官司的人",
+      "onboard_time": 1756128684,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 15278,
       "num": 116462,
       "word": "宋丹丹吃没吃豆角嘴都毒",
@@ -3673,6 +3793,9 @@
     },
     {
       "word": "#跟着总书记走进抗战纪念地#"
+    },
+    {
+      "word": "#这条路和这群人习近平记在心上#"
     }
   ]
 }

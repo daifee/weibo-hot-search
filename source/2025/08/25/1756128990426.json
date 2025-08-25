@@ -1,0 +1,410 @@
+{
+  "runTime": 1756128990426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 895894,
+        "num": 1143343,
+        "word": "黄多多好像年轻的刘诗诗",
+        "onboard_time": 1756120163,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537214,
+        "num": 537214,
+        "word": "女子询问海底捞换配菜被开黄腔辱骂",
+        "onboard_time": 1756121303,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54715,
+        "num": 462632,
+        "word": "真想一键快进到阅兵当天",
+        "onboard_time": 1756127724,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398111,
+        "num": 398111,
+        "word": "东方风云榜直播",
+        "onboard_time": 1756119804,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368225,
+        "num": 368225,
+        "word": "卤料 吗啡",
+        "onboard_time": 1756125923,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1037059,
+        "num": 358024,
+        "word": "鲁迅夹烟遭二次投诉",
+        "onboard_time": 1756123642,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595094,
+        "num": 357503,
+        "word": "投诉鲁迅抽烟 浪费公共资源",
+        "onboard_time": 1756121124,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308873,
+        "num": 308873,
+        "word": "张碧晨开场",
+        "onboard_time": 1756124483,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205558,
+        "num": 308821,
+        "word": "单依纯东方风云榜最佳女歌手",
+        "onboard_time": 1756128023,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144649,
+        "num": 305777,
+        "word": "凡人修仙传动画年度国漫IP",
+        "onboard_time": 1756128143,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 756193,
+        "num": 303739,
+        "word": "甜馨小酒窝一起跳舞了",
+        "onboard_time": 1756124963,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752188,
+        "num": 301536,
+        "word": "王玉雯你真的火了",
+        "onboard_time": 1756124663,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573551,
+        "num": 299860,
+        "word": "15岁林大竣身高",
+        "onboard_time": 1756124963,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311280,
+        "num": 295876,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1756117704,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26460,
+        "num": 293598,
+        "word": "单霁翔祝福商都遗址",
+        "onboard_time": 1756127783,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 422174,
+        "num": 292436,
+        "word": "今年打了翻身仗的4位明星",
+        "onboard_time": 1756120644,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291028,
+        "num": 291028,
+        "word": "浙江鲁迅研究会回应鲁迅夹烟",
+        "onboard_time": 1756125143,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266250,
+        "num": 266250,
+        "word": "宋祖儿在用漂亮的脸蛋做什么",
+        "onboard_time": 1756121483,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235198,
+        "num": 235198,
+        "word": "王一博拍照动作神似敦煌飞天",
+        "onboard_time": 1756125683,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31916,
+        "num": 233166,
+        "word": "文化郑当时",
+        "onboard_time": 1756125264,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95627,
+        "num": 233096,
+        "word": "当年汶川男孩如今受阅军官",
+        "onboard_time": 1756127303,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108698,
+        "num": 233072,
+        "word": "门店账号现不当内容海底捞已报警",
+        "onboard_time": 1756127663,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233071,
+        "num": 233071,
+        "word": "那些月入过万的小众工作",
+        "onboard_time": 1756122623,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226795,
+        "num": 226795,
+        "word": "肖战花仙子",
+        "onboard_time": 1756121662,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214973,
+        "num": 214973,
+        "word": "23岁怀孕上大学的经历和感受",
+        "onboard_time": 1756116143,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178333,
+        "num": 178333,
+        "word": "陈奕恒总结舞台",
+        "onboard_time": 1756123162,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172996,
+        "num": 172996,
+        "word": "陈星旭人在家中坐老底被掀了个遍",
+        "onboard_time": 1756126884,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154378,
+        "num": 154378,
+        "word": "一代人有一代人的白蛇许仙",
+        "onboard_time": 1756127783,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149847,
+        "num": 149847,
+        "word": "东方风云榜",
+        "onboard_time": 1756111224,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211558,
+        "num": 149807,
+        "word": "亚马尔官宣恋情",
+        "onboard_time": 1756128504,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 365363,
+        "num": 149143,
+        "word": "从一颗痣到确诊癌症",
+        "onboard_time": 1756128382,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207701,
+        "num": 148387,
+        "word": "带这些字眼的奶茶尽量别点",
+        "onboard_time": 1756126944,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160257,
+        "num": 148162,
+        "word": "持刀追赶男孩女子有精神分裂症",
+        "onboard_time": 1756125385,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147694,
+        "num": 147694,
+        "word": "微信最邪门的引用功能出现了",
+        "onboard_time": 1756114045,
+        "rank": 33,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 139686,
+        "num": 139686,
+        "word": "归队开播",
+        "onboard_time": 1756125143,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139445,
+        "num": 139445,
+        "word": "魏大勋父亲公司被执行233万",
+        "onboard_time": 1756112484,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129612,
+        "num": 129612,
+        "word": "董宇辉分手暴富俞敏洪还在煎熬",
+        "onboard_time": 1756126284,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118992,
+        "num": 118992,
+        "word": "月嫂疏忽致29天婴儿重摔颅内出血",
+        "onboard_time": 1756110864,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63656,
+        "num": 118309,
+        "word": "记忆力差建议常做4个动作",
+        "onboard_time": 1756128323,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80256,
+        "num": 117963,
+        "word": "田曦薇的猫半条人",
+        "onboard_time": 1756128143,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117851,
+        "num": 117851,
+        "word": "男子杀妻死缓女方家属不满判决上诉",
+        "onboard_time": 1756128803,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115917,
+        "num": 115917,
+        "word": "日本引进黑人计划",
+        "onboard_time": 1756108884,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115690,
+        "num": 115690,
+        "word": "中国女排vs哥伦比亚女排",
+        "onboard_time": 1756127303,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112096,
+        "num": 112096,
+        "word": "刘亦菲 智界",
+        "onboard_time": 1756108043,
+        "rank": 43,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 17122,
+        "num": 111215,
+        "word": "被毒死的毛孩子和为它们打官司的人",
+        "onboard_time": 1756128684,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 110855,
+        "num": 110855,
+        "word": "与晋长安",
+        "onboard_time": 1756126103,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110080,
+        "num": 110080,
+        "word": "归队",
+        "onboard_time": 1756128924,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107448,
+        "num": 107448,
+        "word": "没有相亲欲望的朋友圈",
+        "onboard_time": 1756110564,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105753,
+        "num": 105753,
+        "word": "杨紫格雷系私服穿搭",
+        "onboard_time": 1756116683,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 98967,
+        "num": 98967,
+        "word": "张曼玉左耳 8个耳洞",
+        "onboard_time": 1756127124,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#这条路和这群人习近平记在心上#"
+    }
+  }
+}
