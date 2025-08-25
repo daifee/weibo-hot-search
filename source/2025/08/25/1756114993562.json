@@ -1,0 +1,410 @@
+{
+  "runTime": 1756114993562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 774152,
+        "num": 1123864,
+        "word": "月嫂疏忽致29天婴儿重摔颅内出血",
+        "onboard_time": 1756110864,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551464,
+        "num": 551464,
+        "word": "IVE回归",
+        "onboard_time": 1756113742,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68993,
+        "num": 529353,
+        "word": "阅兵女教练说性别不是衡量能力的标尺",
+        "onboard_time": 1756099283,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 953001,
+        "num": 522697,
+        "word": "日本引进黑人计划",
+        "onboard_time": 1756108884,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 512327,
+        "num": 512327,
+        "word": "迪士尼票价",
+        "onboard_time": 1756108884,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372148,
+        "num": 372148,
+        "word": "蓝盈莹大方展示素颜雀斑",
+        "onboard_time": 1756108583,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368734,
+        "num": 368734,
+        "word": "莫雷加德球拍被踩",
+        "onboard_time": 1756101622,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354504,
+        "num": 354504,
+        "word": "魏大勋父亲公司被执行233万",
+        "onboard_time": 1756112484,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288654,
+        "num": 288654,
+        "word": "美娜告黑",
+        "onboard_time": 1756111525,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139811,
+        "num": 272723,
+        "word": "上海楼市限购松绑",
+        "onboard_time": 1756113923,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815280,
+        "num": 270584,
+        "word": "吴昕的脸怎么了",
+        "onboard_time": 1756108103,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535354,
+        "num": 270187,
+        "word": "没有相亲欲望的朋友圈",
+        "onboard_time": 1756110564,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264052,
+        "num": 264052,
+        "word": "刘亦菲 智界",
+        "onboard_time": 1756108043,
+        "rank": 12,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 248532,
+        "num": 248532,
+        "word": "男子效仿盗墓小说挖出20件青铜器",
+        "onboard_time": 1756106544,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242278,
+        "num": 242278,
+        "word": "昀牵孟绕 横店痛城",
+        "onboard_time": 1756108403,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46281,
+        "num": 242204,
+        "word": "25万级SUV闭眼入智界R7",
+        "onboard_time": 1756110864,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138210,
+        "num": 242064,
+        "word": "罗晋你这样我有点害怕",
+        "onboard_time": 1756111582,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66404,
+        "num": 242045,
+        "word": "问界M8纯电版35.98万元起",
+        "onboard_time": 1756114404,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 93794,
+        "num": 241916,
+        "word": "问界全系开启华为ADS4时代",
+        "onboard_time": 1756114105,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40365,
+        "num": 241715,
+        "word": "让鲁迅夹烟天塌不下来",
+        "onboard_time": 1756114523,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320581,
+        "num": 241618,
+        "word": "我对鲁迅在自己墙上抽烟无意见",
+        "onboard_time": 1756104323,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241596,
+        "num": 241596,
+        "word": "日本将高温甩锅中国",
+        "onboard_time": 1756107743,
+        "rank": 21,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 233939,
+        "num": 233939,
+        "word": "家庭存款超过50万算什么水平",
+        "onboard_time": 1756094364,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177520,
+        "num": 177520,
+        "word": "问界M8纯电版搭载全新电驱架构",
+        "onboard_time": 1756112606,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177434,
+        "num": 177434,
+        "word": "微信最邪门的引用功能出现了",
+        "onboard_time": 1756114045,
+        "rank": 24,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 124418,
+        "num": 167436,
+        "word": "IVE主打曲XOXZ",
+        "onboard_time": 1756114643,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122208,
+        "num": 166666,
+        "word": "张凌赫又出神图",
+        "onboard_time": 1756107083,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166292,
+        "num": 166292,
+        "word": "掐了鲁迅的烟谁来点燃思想的火",
+        "onboard_time": 1756106243,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120332,
+        "num": 162974,
+        "word": "王玉雯说李乃文是综艺界天降紫微星",
+        "onboard_time": 1756111885,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50306,
+        "num": 162115,
+        "word": "喜茶回应被检出含反式脂肪酸",
+        "onboard_time": 1756114283,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161610,
+        "num": 161610,
+        "word": "办婚礼不领证 被判退彩礼",
+        "onboard_time": 1756108762,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160012,
+        "num": 160012,
+        "word": "绿水青山中国答卷",
+        "onboard_time": 1756114583,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158656,
+        "num": 158656,
+        "word": "尚界H5",
+        "onboard_time": 1756110924,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122557,
+        "num": 122557,
+        "word": "无薪试岗",
+        "onboard_time": 1756112063,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118328,
+        "num": 118328,
+        "word": "线香不通风 致癌",
+        "onboard_time": 1756114883,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116543,
+        "num": 116543,
+        "word": "银河左岸泸州",
+        "onboard_time": 1756114703,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116486,
+        "num": 116486,
+        "word": "A股市值TOP10座次洗牌",
+        "onboard_time": 1756112964,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114545,
+        "num": 114545,
+        "word": "男子骑车不慎头部卡进红绿灯",
+        "onboard_time": 1756105823,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42201,
+        "num": 107398,
+        "word": "医院检验科现丁义珍式窗口",
+        "onboard_time": 1756113802,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72730,
+        "num": 105355,
+        "word": "鲁迅夹烟墙画不会因个人投诉而更改",
+        "onboard_time": 1756114583,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104164,
+        "num": 104164,
+        "word": "茶颜悦色为什么不火了",
+        "onboard_time": 1756111104,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28031,
+        "num": 102662,
+        "word": "杭州40度下冰雹",
+        "onboard_time": 1756114943,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102348,
+        "num": 102348,
+        "word": "孙颖莎王楚钦中国大满贯宣传片",
+        "onboard_time": 1756112004,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99431,
+        "num": 99431,
+        "word": "我自律减肥10个月爆改人生",
+        "onboard_time": 1756111582,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 28573,
+        "num": 99170,
+        "word": "4岁孤独症女童被康复机构老师殴打",
+        "onboard_time": 1756114283,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92840,
+        "num": 99089,
+        "word": "客服回应张维伊同款耳机",
+        "onboard_time": 1756113742,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99087,
+        "num": 99087,
+        "word": "被体制内大佬的工作留痕震撼到了",
+        "onboard_time": 1756108342,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97920,
+        "num": 97920,
+        "word": "智界R7语音泊车隔窗对讲首发上车",
+        "onboard_time": 1756110505,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 97049,
+        "num": 97049,
+        "word": "宋祖儿南京",
+        "onboard_time": 1756111704,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97322,
+        "num": 97033,
+        "word": "王玉雯 向内生长",
+        "onboard_time": 1756113084,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记走进抗战纪念地#"
+    }
+  }
+}

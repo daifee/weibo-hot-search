@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756114183754,
+  "endTime": 1756114993562,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -107,20 +107,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 953001,
+      "num": 522697,
+      "word": "日本引进黑人计划",
+      "onboard_time": 1756108884,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 936576,
       "num": 528664,
       "word": "赵志伟回复网友评论",
       "onboard_time": 1756053141,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 935386,
-      "num": 519015,
-      "word": "日本引进黑人计划",
-      "onboard_time": 1756108884,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 858367,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 774152,
+      "num": 1123864,
+      "word": "月嫂疏忽致29天婴儿重摔颅内出血",
+      "onboard_time": 1756110864,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 766204,
       "num": 444190,
       "word": "黄奕女儿钟丽缇女儿同框",
@@ -177,14 +185,6 @@
       "onboard_time": 1756092203,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 703396,
-      "num": 1112543,
-      "word": "月嫂疏忽致29天婴儿重摔颅内出血",
-      "onboard_time": 1756110864,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 692113,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 551464,
+      "num": 551464,
+      "word": "IVE回归",
+      "onboard_time": 1756113742,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544087,
       "num": 544087,
       "word": "埃及旅游 小费",
@@ -305,14 +313,6 @@
       "onboard_time": 1756057758,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 532220,
-      "num": 532220,
-      "word": "IVE回归",
-      "onboard_time": 1756113742,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 521449,
@@ -555,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354504,
+      "num": 354504,
+      "word": "魏大勋父亲公司被执行233万",
+      "onboard_time": 1756112484,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347105,
       "num": 347105,
       "word": "上海暴雨",
@@ -641,14 +649,6 @@
       "onboard_time": 1756087761,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281047,
-      "num": 281047,
-      "word": "魏大勋父亲公司被执行233万",
-      "onboard_time": 1756112484,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 280204,
@@ -1131,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177434,
+      "num": 177434,
+      "word": "微信最邪门的引用功能出现了",
+      "onboard_time": 1756114045,
+      "rank": 43,
+      "category": "互联网,幽默"
+    },
+    {
       "raw_hot": 174385,
       "num": 174385,
       "word": "李在明首次访美仅2名美官员迎接",
@@ -1172,7 +1180,7 @@
     },
     {
       "raw_hot": 169066,
-      "num": 198541,
+      "num": 242064,
       "word": "罗晋你这样我有点害怕",
       "onboard_time": 1756111582,
       "rank": 39,
@@ -1272,6 +1280,14 @@
       "word": "3名女子车库被2条大狗攻击",
       "onboard_time": 1756089501,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160012,
+      "num": 160012,
+      "word": "绿水青山中国答卷",
+      "onboard_time": 1756114583,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1523,20 +1539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139811,
+      "num": 272723,
+      "word": "上海楼市限购松绑",
+      "onboard_time": 1756113923,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138602,
       "num": 138602,
       "word": "关晓彤预定宋亚轩王牌名场面",
       "onboard_time": 1756095325,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138410,
-      "num": 138410,
-      "word": "上海楼市限购松绑",
-      "onboard_time": 1756113923,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137748,
@@ -1620,7 +1636,7 @@
     },
     {
       "raw_hot": 132090,
-      "num": 521822,
+      "num": 529353,
       "word": "阅兵女教练说性别不是衡量能力的标尺",
       "onboard_time": 1756099283,
       "rank": 32,
@@ -1699,14 +1715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 127992,
-      "num": 127992,
-      "word": "微信最邪门的引用功能出现了",
-      "onboard_time": 1756114045,
-      "rank": 43,
-      "category": "互联网,幽默"
-    },
-    {
       "raw_hot": 127896,
       "num": 127896,
       "word": "27岁大厂员工下班送外卖",
@@ -1771,6 +1779,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 124418,
+      "num": 167436,
+      "word": "IVE主打曲XOXZ",
+      "onboard_time": 1756114643,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123467,
       "num": 123467,
       "word": "梅德韦杰夫止步美网首轮",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1756108884,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122557,
+      "num": 122557,
+      "word": "无薪试岗",
+      "onboard_time": 1756112063,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122051,
@@ -1843,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120332,
+      "num": 162974,
+      "word": "王玉雯说李乃文是综艺界天降紫微星",
+      "onboard_time": 1756111885,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120331,
       "num": 120331,
       "word": "国乒最强阵容出战中国大满贯",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1756102044,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118328,
+      "num": 118328,
+      "word": "线香不通风 致癌",
+      "onboard_time": 1756114883,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118325,
@@ -1929,6 +1969,14 @@
       "onboard_time": 1756083921,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116543,
+      "num": 116543,
+      "word": "银河左岸泸州",
+      "onboard_time": 1756114703,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 116379,
@@ -2003,14 +2051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113189,
-      "num": 113189,
-      "word": "王玉雯说李乃文是综艺界天降紫微星",
-      "onboard_time": 1756111885,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112711,
       "num": 112711,
       "word": "李诗沣止步世锦赛首轮",
@@ -2033,14 +2073,6 @@
       "onboard_time": 1756036643,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109936,
-      "num": 109936,
-      "word": "无薪试岗",
-      "onboard_time": 1756112063,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108914,
@@ -2116,7 +2148,7 @@
     },
     {
       "raw_hot": 106997,
-      "num": 160676,
+      "num": 241916,
       "word": "问界全系开启华为ADS4时代",
       "onboard_time": 1756114105,
       "rank": 33,
@@ -2187,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102348,
+      "num": 102348,
+      "word": "孙颖莎王楚钦中国大满贯宣传片",
+      "onboard_time": 1756112004,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100596,
       "num": 325680,
       "word": "25万级SUV闭眼入智界R7",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1756047146,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92840,
+      "num": 138517,
+      "word": "客服回应张维伊同款耳机",
+      "onboard_time": 1756113742,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 92469,
@@ -2435,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72730,
+      "num": 105355,
+      "word": "鲁迅夹烟墙画不会因个人投诉而更改",
+      "onboard_time": 1756114583,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71933,
       "num": 285053,
       "word": "一轮生肖酒十二年终圆满",
@@ -2457,6 +2513,14 @@
       "onboard_time": 1756055238,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66404,
+      "num": 242045,
+      "word": "问界M8纯电版35.98万元起",
+      "onboard_time": 1756114404,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 66269,
@@ -2595,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50306,
+      "num": 162115,
+      "word": "喜茶回应被检出含反式脂肪酸",
+      "onboard_time": 1756114283,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50301,
       "num": 164341,
       "word": "4次断骨打开折叠男孩开始练走路",
@@ -2667,14 +2739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43694,
-      "num": 138517,
-      "word": "客服回应张维伊同款耳机",
-      "onboard_time": 1756113742,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42251,
       "num": 92397,
       "word": "九三阅兵训练原声纯享版视频",
@@ -2683,11 +2747,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41804,
+      "raw_hot": 42201,
       "num": 139005,
       "word": "医院检验科现丁义珍式窗口",
       "onboard_time": 1756113802,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40365,
+      "num": 241715,
+      "word": "让鲁迅夹烟天塌不下来",
+      "onboard_time": 1756114523,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2763,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28573,
+      "num": 99170,
+      "word": "4岁孤独症女童被康复机构老师殴打",
+      "onboard_time": 1756114283,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28506,
       "num": 32312,
       "word": "刘耀文生频直出的帅气",
@@ -2777,6 +2857,14 @@
       "onboard_time": 1756060217,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28031,
+      "num": 102662,
+      "word": "杭州40度下冰雹",
+      "onboard_time": 1756114943,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23338,
