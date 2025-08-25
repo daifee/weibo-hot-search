@@ -1,0 +1,410 @@
+{
+  "runTime": 1756099669316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 889535,
+        "num": 1142325,
+        "word": "内娱真夫妻持证上岗综艺来了",
+        "onboard_time": 1756092022,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475128,
+        "num": 475128,
+        "word": "中国中铁沉痛哀悼遇难者",
+        "onboard_time": 1756095744,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31123,
+        "num": 394419,
+        "word": "北京范儿",
+        "onboard_time": 1756095383,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521449,
+        "num": 373372,
+        "word": "王牌家族没了沈腾和贾玲",
+        "onboard_time": 1756094723,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326898,
+        "num": 326898,
+        "word": "意大利厕所文化",
+        "onboard_time": 1756094184,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 292198,
+        "num": 292198,
+        "word": "程序员自费450元租工位假装上班",
+        "onboard_time": 1756092622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463001,
+        "num": 288022,
+        "word": "谢霆锋带大儿子迪拜度假",
+        "onboard_time": 1756094782,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339651,
+        "num": 285208,
+        "word": "王牌对王牌9按年龄排序",
+        "onboard_time": 1756090401,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272543,
+        "num": 272543,
+        "word": "醉汉遭网约车司机拒载下车后溺亡",
+        "onboard_time": 1756096344,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184966,
+        "num": 272342,
+        "word": "物业回应小区蛇患严重随处可见",
+        "onboard_time": 1756098863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 954190,
+        "num": 272172,
+        "word": "家庭存款超过50万算什么水平",
+        "onboard_time": 1756094364,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 657596,
+        "num": 272020,
+        "word": "赵志伟虞书欣一年级事件始末",
+        "onboard_time": 1756095865,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424250,
+        "num": 271775,
+        "word": "马思纯张晚意 好嗑",
+        "onboard_time": 1756097603,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380203,
+        "num": 271523,
+        "word": "曝某天王酒店有专属通道到赌场",
+        "onboard_time": 1756092203,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271462,
+        "num": 271462,
+        "word": "杨幂有3部一番破2剧了",
+        "onboard_time": 1756097546,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187480,
+        "num": 187480,
+        "word": "首款曲面iPhone",
+        "onboard_time": 1756082905,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182585,
+        "num": 182585,
+        "word": "上海优化调整房地产政策措施",
+        "onboard_time": 1756096225,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168690,
+        "num": 168690,
+        "word": "关晓彤王牌9官宣搭子",
+        "onboard_time": 1756086862,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165937,
+        "num": 165937,
+        "word": "爱豆黄子韬徐艺洋限定回归",
+        "onboard_time": 1756098744,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152020,
+        "num": 165404,
+        "word": "补偿性消费",
+        "onboard_time": 1756096645,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 455928,
+        "num": 164511,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38284,
+        "num": 163445,
+        "word": "上海发布楼市沪六条调整限购",
+        "onboard_time": 1756099462,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197736,
+        "num": 162830,
+        "word": "斗罗大陆小舞",
+        "onboard_time": 1756099584,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 173658,
+        "num": 162294,
+        "word": "女子戴牙套5年坏了8颗牙",
+        "onboard_time": 1756054819,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161776,
+        "num": 161776,
+        "word": "陈乔恩艾伦娱乐圈文照进现实",
+        "onboard_time": 1756091421,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152518,
+        "num": 152518,
+        "word": "丞磊戏路",
+        "onboard_time": 1756099163,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153356,
+        "num": 148682,
+        "word": "艾热孜巴婚检被三连问有无血缘关系",
+        "onboard_time": 1756095143,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143938,
+        "num": 143938,
+        "word": "吴京摇头",
+        "onboard_time": 1756095022,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137412,
+        "num": 137412,
+        "word": "下周三就能看阅兵了",
+        "onboard_time": 1756082603,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47797,
+        "num": 133818,
+        "word": "孕妇与友人车库遇两巨犬扑人",
+        "onboard_time": 1756098084,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141873,
+        "num": 133545,
+        "word": "心动的信号8",
+        "onboard_time": 1756096884,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132629,
+        "num": 132629,
+        "word": "RM成员得知金钟国结婚的反应",
+        "onboard_time": 1756098444,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132090,
+        "num": 132090,
+        "word": "阅兵女教练说性别不是衡量能力的标尺",
+        "onboard_time": 1756099283,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127534,
+        "num": 127534,
+        "word": "谁懂那英李沁对视这一下",
+        "onboard_time": 1756094603,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126952,
+        "num": 126952,
+        "word": "蚊子也是吃上旋转自助了",
+        "onboard_time": 1756098563,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125069,
+        "num": 125069,
+        "word": "刘宇宁天亮了原来是我乃文哥",
+        "onboard_time": 1756097425,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125409,
+        "num": 124627,
+        "word": "成龙提醒张子枫跟武行说谢谢",
+        "onboard_time": 1756095444,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114880,
+        "num": 124104,
+        "word": "格力高管回应卢伟冰言论",
+        "onboard_time": 1756098923,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60893,
+        "num": 123588,
+        "word": "中专生逆袭成中科院院士候选人",
+        "onboard_time": 1756099523,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107384,
+        "num": 122971,
+        "word": "绣绣你俩爹又来惹事了",
+        "onboard_time": 1756098863,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118325,
+        "num": 122439,
+        "word": "宋轶丞磊来我们的宿舍剧宣了",
+        "onboard_time": 1756098683,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121796,
+        "num": 121796,
+        "word": "伤者在地上躺着就给车盖布了",
+        "onboard_time": 1756096943,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120155,
+        "num": 120155,
+        "word": "孟子义何与用嘴叼同一枝花",
+        "onboard_time": 1756092982,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119955,
+        "num": 119955,
+        "word": "停止对自己灾难化想象",
+        "onboard_time": 1756095865,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113881,
+        "num": 113881,
+        "word": "惠英红零点发文为刘亦菲庆生",
+        "onboard_time": 1756095623,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112571,
+        "num": 112571,
+        "word": "杨洋花少时期真灵珠",
+        "onboard_time": 1756099462,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112418,
+        "num": 112418,
+        "word": "上海一家五口39平米的小家",
+        "onboard_time": 1756095684,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 109257,
+        "num": 109257,
+        "word": "于适贴脸开大马頔南山南",
+        "onboard_time": 1756090702,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103415,
+        "num": 103415,
+        "word": "桃晚安回应入镜狼队夺冠镜头",
+        "onboard_time": 1756097305,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99986,
+        "num": 99986,
+        "word": "鞠婧祎 秋老虎怕了你了",
+        "onboard_time": 1756079183,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}

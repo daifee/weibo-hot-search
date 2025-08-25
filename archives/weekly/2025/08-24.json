@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756097328404,
+  "endTime": 1756099669316,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -235,6 +235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 954190,
+      "num": 272172,
+      "word": "家庭存款超过50万算什么水平",
+      "onboard_time": 1756094364,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 949110,
       "num": 363062,
       "word": "美团退款",
@@ -265,14 +273,6 @@
       "onboard_time": 1755941903,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 896466,
-      "num": 211218,
-      "word": "家庭存款超过50万算什么水平",
-      "onboard_time": 1756094364,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 889117,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 735011,
-      "num": 207410,
+      "num": 271523,
       "word": "曝某天王酒店有专属通道到赌场",
       "onboard_time": 1756092203,
       "rank": 35,
@@ -417,6 +417,14 @@
       "onboard_time": 1755953426,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 657596,
+      "num": 272020,
+      "word": "赵志伟虞书欣一年级事件始末",
+      "onboard_time": 1756095865,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 655298,
@@ -489,14 +497,6 @@
       "onboard_time": 1756026922,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 590575,
-      "num": 199465,
-      "word": "赵志伟虞书欣一年级事件始末",
-      "onboard_time": 1756095865,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 589561,
@@ -643,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 521449,
+      "num": 373372,
+      "word": "王牌家族没了沈腾和贾玲",
+      "onboard_time": 1756094723,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520725,
       "num": 362647,
       "word": "存款100万靠利息生活的视频别太当真",
@@ -755,11 +763,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 475128,
+      "num": 475128,
+      "word": "中国中铁沉痛哀悼遇难者",
+      "onboard_time": 1756095744,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463649,
       "num": 326841,
       "word": "崔鹏说曾经暗恋董璇4年",
       "onboard_time": 1756023442,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 463001,
+      "num": 288022,
+      "word": "谢霆锋带大儿子迪拜度假",
+      "onboard_time": 1756094782,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -819,20 +843,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 439833,
-      "num": 294990,
-      "word": "王牌家族没了沈腾和贾玲",
-      "onboard_time": 1756094723,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 425360,
       "num": 425360,
       "word": "TMEA节目单",
       "onboard_time": 1756034722,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 424250,
+      "num": 271775,
+      "word": "马思纯张晚意 好嗑",
+      "onboard_time": 1756097603,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 422416,
@@ -920,14 +944,6 @@
       "word": "杨宗纬报平安",
       "onboard_time": 1755991037,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 409334,
-      "num": 279874,
-      "word": "谢霆锋带大儿子迪拜度假",
-      "onboard_time": 1756094782,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1131,6 +1147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 326898,
+      "num": 326898,
+      "word": "意大利厕所文化",
+      "onboard_time": 1756094184,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 326399,
       "num": 326399,
       "word": "猪头离体50分钟后被复活",
@@ -1227,6 +1251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 272543,
+      "num": 272543,
+      "word": "醉汉遭网约车司机拒载下车后溺亡",
+      "onboard_time": 1756096344,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272441,
       "num": 272441,
       "word": "四张证就这样结束了妈妈的一生",
@@ -1235,12 +1267,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267993,
-      "num": 194530,
-      "word": "意大利厕所文化",
-      "onboard_time": 1756094184,
-      "rank": 31,
-      "category": "海外新闻"
+      "raw_hot": 271462,
+      "num": 271462,
+      "word": "杨幂有3部一番破2剧了",
+      "onboard_time": 1756097546,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265149,
@@ -1691,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197736,
+      "num": 162830,
+      "word": "斗罗大陆小舞",
+      "onboard_time": 1756099584,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 197524,
       "num": 158091,
       "word": "惠英红零点发文为刘亦菲庆生",
@@ -1769,14 +1809,6 @@
       "onboard_time": 1756033462,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194845,
-      "num": 194845,
-      "word": "中国中铁沉痛哀悼遇难者",
-      "onboard_time": 1756095744,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194183,
@@ -2008,6 +2040,14 @@
       "word": "男子被朋友送的金毛吓到报警",
       "onboard_time": 1755993740,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184966,
+      "num": 272342,
+      "word": "物业回应小区蛇患严重随处可见",
+      "onboard_time": 1756098863,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2371,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165937,
+      "num": 165937,
+      "word": "爱豆黄子韬徐艺洋限定回归",
+      "onboard_time": 1756098744,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165517,
       "num": 165517,
       "word": "生万物偏偏你最争气",
@@ -2619,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152518,
+      "num": 152518,
+      "word": "丞磊戏路",
+      "onboard_time": 1756099163,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152138,
       "num": 152138,
       "word": "廖停雁终于切宝儿姐大号了",
@@ -2633,6 +2689,14 @@
       "onboard_time": 1756007003,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152020,
+      "num": 165404,
+      "word": "补偿性消费",
+      "onboard_time": 1756096645,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 151747,
@@ -2697,14 +2761,6 @@
       "onboard_time": 1756031603,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148147,
-      "num": 148147,
-      "word": "醉汉遭网约车司机拒载下车后溺亡",
-      "onboard_time": 1756096344,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147981,
@@ -2865,6 +2921,14 @@
       "onboard_time": 1755966743,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141873,
+      "num": 135279,
+      "word": "心动的信号8",
+      "onboard_time": 1756096884,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 141805,
@@ -3051,14 +3115,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 135279,
-      "num": 135279,
-      "word": "心动的信号8",
-      "onboard_time": 1756096884,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134772,
       "num": 134772,
       "word": "不敢想10天后的大阅兵多壮观",
@@ -3081,6 +3137,14 @@
       "onboard_time": 1756047026,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132629,
+      "num": 132629,
+      "word": "RM成员得知金钟国结婚的反应",
+      "onboard_time": 1756098444,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 132618,
@@ -3113,6 +3177,14 @@
       "onboard_time": 1756095865,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132090,
+      "num": 132090,
+      "word": "阅兵女教练说性别不是衡量能力的标尺",
+      "onboard_time": 1756099283,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131765,
@@ -3267,12 +3339,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126952,
+      "num": 126952,
+      "word": "蚊子也是吃上旋转自助了",
+      "onboard_time": 1756098563,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125289,
       "num": 125289,
       "word": "韩国女生减脂100天的真实变化",
       "onboard_time": 1756010423,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125069,
+      "num": 125069,
+      "word": "刘宇宁天亮了原来是我乃文哥",
+      "onboard_time": 1756097425,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 124586,
@@ -3337,6 +3425,14 @@
       "onboard_time": 1756090041,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121796,
+      "num": 121796,
+      "word": "伤者在地上躺着就给车盖布了",
+      "onboard_time": 1756096943,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121680,
@@ -3481,6 +3577,14 @@
       "onboard_time": 1756020741,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118325,
+      "num": 122439,
+      "word": "宋轶丞磊来我们的宿舍剧宣了",
+      "onboard_time": 1756098683,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 118091,
@@ -3675,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114880,
+      "num": 124104,
+      "word": "格力高管回应卢伟冰言论",
+      "onboard_time": 1756098923,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114246,
       "num": 114246,
       "word": "看个电影无痛背下来了12个单词",
@@ -3723,6 +3835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112571,
+      "num": 112571,
+      "word": "杨洋花少时期真灵珠",
+      "onboard_time": 1756099462,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112411,
       "num": 124226,
       "word": "32岁经济独立在挪威的独居生活",
@@ -3753,14 +3873,6 @@
       "onboard_time": 1756015822,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110444,
-      "num": 113999,
-      "word": "伤者在地上躺着就给车盖布了",
-      "onboard_time": 1756096943,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110068,
@@ -3865,6 +3977,14 @@
       "onboard_time": 1756002502,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107384,
+      "num": 122971,
+      "word": "绣绣你俩爹又来惹事了",
+      "onboard_time": 1756098863,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 107222,
@@ -4811,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60893,
+      "num": 123588,
+      "word": "中专生逆袭成中科院院士候选人",
+      "onboard_time": 1756099523,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60673,
       "num": 60673,
       "word": "孙颖莎回应WTT大满贯第四冠",
@@ -5027,6 +5155,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 47797,
+      "num": 133818,
+      "word": "孕妇与友人车库遇两巨犬扑人",
+      "onboard_time": 1756098084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46562,
       "num": 127905,
       "word": "信访干部骂老人老不死",
@@ -5160,6 +5296,14 @@
       "word": "505名死亡人员领的养老金追回了没有",
       "onboard_time": 1756011742,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38284,
+      "num": 163445,
+      "word": "上海发布楼市沪六条调整限购",
+      "onboard_time": 1756099462,
+      "rank": 21,
       "category": "民生新闻"
     },
     {

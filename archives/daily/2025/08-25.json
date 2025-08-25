@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756097328404,
+  "endTime": 1756099669316,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -67,20 +67,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 954190,
+      "num": 272172,
+      "word": "家庭存款超过50万算什么水平",
+      "onboard_time": 1756094364,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 936576,
       "num": 528664,
       "word": "赵志伟回复网友评论",
       "onboard_time": 1756053141,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 896466,
-      "num": 211218,
-      "word": "家庭存款超过50万算什么水平",
-      "onboard_time": 1756094364,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 858367,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 735011,
-      "num": 207410,
+      "num": 271523,
       "word": "曝某天王酒店有专属通道到赌场",
       "onboard_time": 1756092203,
       "rank": 35,
@@ -121,6 +121,14 @@
       "onboard_time": 1756061055,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 657596,
+      "num": 272020,
+      "word": "赵志伟虞书欣一年级事件始末",
+      "onboard_time": 1756095865,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 635075,
@@ -145,14 +153,6 @@
       "onboard_time": 1756052243,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 590575,
-      "num": 199465,
-      "word": "赵志伟虞书欣一年级事件始末",
-      "onboard_time": 1756095865,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 558224,
@@ -187,12 +187,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 521449,
+      "num": 373372,
+      "word": "王牌家族没了沈腾和贾玲",
+      "onboard_time": 1756094723,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507895,
       "num": 507895,
       "word": "女子拒绝男子被重伤家属拒赔医疗费",
       "onboard_time": 1756084041,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 475128,
+      "num": 475128,
+      "word": "中国中铁沉痛哀悼遇难者",
+      "onboard_time": 1756095744,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463001,
+      "num": 288022,
+      "word": "谢霆锋带大儿子迪拜度假",
+      "onboard_time": 1756094782,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 450609,
@@ -227,11 +251,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 439833,
-      "num": 294990,
-      "word": "王牌家族没了沈腾和贾玲",
-      "onboard_time": 1756094723,
-      "rank": 14,
+      "raw_hot": 424250,
+      "num": 271775,
+      "word": "马思纯张晚意 好嗑",
+      "onboard_time": 1756097603,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -248,14 +272,6 @@
       "word": "李一桐 我只能旺我自己旺不了夫",
       "onboard_time": 1756045827,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 409334,
-      "num": 279874,
-      "word": "谢霆锋带大儿子迪拜度假",
-      "onboard_time": 1756094782,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -323,6 +339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 326898,
+      "num": 326898,
+      "word": "意大利厕所文化",
+      "onboard_time": 1756094184,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 319887,
       "num": 241962,
       "word": "邢菲终于要升咖了",
@@ -371,12 +395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267993,
-      "num": 194530,
-      "word": "意大利厕所文化",
-      "onboard_time": 1756094184,
-      "rank": 31,
-      "category": "海外新闻"
+      "raw_hot": 272543,
+      "num": 272543,
+      "word": "醉汉遭网约车司机拒载下车后溺亡",
+      "onboard_time": 1756096344,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271462,
+      "num": 271462,
+      "word": "杨幂有3部一番破2剧了",
+      "onboard_time": 1756097546,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264268,
@@ -523,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197736,
+      "num": 162830,
+      "word": "斗罗大陆小舞",
+      "onboard_time": 1756099584,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 197524,
       "num": 158091,
       "word": "惠英红零点发文为刘亦菲庆生",
@@ -553,14 +593,6 @@
       "onboard_time": 1756054819,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194845,
-      "num": 194845,
-      "word": "中国中铁沉痛哀悼遇难者",
-      "onboard_time": 1756095744,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194183,
@@ -627,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184966,
+      "num": 272342,
+      "word": "物业回应小区蛇患严重随处可见",
+      "onboard_time": 1756098863,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172577,
       "num": 156745,
       "word": "孟子义何与用嘴叼同一枝花",
@@ -664,6 +704,14 @@
       "word": "全宇宙都知道焦峙衡喜欢徐如蓝了",
       "onboard_time": 1756096645,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165937,
+      "num": 165937,
+      "word": "爱豆黄子韬徐艺洋限定回归",
+      "onboard_time": 1756098744,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -739,6 +787,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152518,
+      "num": 152518,
+      "word": "丞磊戏路",
+      "onboard_time": 1756099163,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152020,
+      "num": 165404,
+      "word": "补偿性消费",
+      "onboard_time": 1756096645,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150265,
       "num": 135338,
       "word": "疑遭家暴离世女子未怀孕",
@@ -760,14 +824,6 @@
       "word": "暴雨高温台风预警齐发",
       "onboard_time": 1756086200,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148147,
-      "num": 148147,
-      "word": "醉汉遭网约车司机拒载下车后溺亡",
-      "onboard_time": 1756096344,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -819,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141873,
+      "num": 135279,
+      "word": "心动的信号8",
+      "onboard_time": 1756096884,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140335,
       "num": 140335,
       "word": "突然意识到3年跳了9次槽才25岁",
@@ -859,20 +923,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 135279,
-      "num": 135279,
-      "word": "心动的信号8",
-      "onboard_time": 1756096884,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134361,
       "num": 134361,
       "word": "网友晒和范丞丞小学合照",
       "onboard_time": 1756047806,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132629,
+      "num": 132629,
+      "word": "RM成员得知金钟国结婚的反应",
+      "onboard_time": 1756098444,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 132572,
@@ -889,6 +953,14 @@
       "onboard_time": 1756095865,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132090,
+      "num": 132090,
+      "word": "阅兵女教练说性别不是衡量能力的标尺",
+      "onboard_time": 1756099283,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130470,
@@ -939,6 +1011,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126952,
+      "num": 126952,
+      "word": "蚊子也是吃上旋转自助了",
+      "onboard_time": 1756098563,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 125069,
+      "num": 125069,
+      "word": "刘宇宁天亮了原来是我乃文哥",
+      "onboard_time": 1756097425,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122051,
       "num": 138607,
       "word": "易烊千玺走向世界又走回我们",
@@ -953,6 +1041,14 @@
       "onboard_time": 1756090041,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121796,
+      "num": 121796,
+      "word": "伤者在地上躺着就给车盖布了",
+      "onboard_time": 1756096943,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121680,
@@ -985,6 +1081,14 @@
       "onboard_time": 1756088062,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118325,
+      "num": 122439,
+      "word": "宋轶丞磊来我们的宿舍剧宣了",
+      "onboard_time": 1756098683,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 117834,
@@ -1043,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114880,
+      "num": 124104,
+      "word": "格力高管回应卢伟冰言论",
+      "onboard_time": 1756098923,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113963,
       "num": 113963,
       "word": "白鹿说自己太瘦了",
@@ -1067,12 +1179,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110444,
-      "num": 113999,
-      "word": "伤者在地上躺着就给车盖布了",
-      "onboard_time": 1756096943,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 112571,
+      "num": 112571,
+      "word": "杨洋花少时期真灵珠",
+      "onboard_time": 1756099462,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 109976,
@@ -1105,6 +1217,14 @@
       "onboard_time": 1756091842,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107384,
+      "num": 122971,
+      "word": "绣绣你俩爹又来惹事了",
+      "onboard_time": 1756098863,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 107117,
@@ -1427,6 +1547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 60893,
+      "num": 123588,
+      "word": "中专生逆袭成中科院院士候选人",
+      "onboard_time": 1756099523,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60673,
       "num": 60673,
       "word": "孙颖莎回应WTT大满贯第四冠",
@@ -1523,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47797,
+      "num": 133818,
+      "word": "孕妇与友人车库遇两巨犬扑人",
+      "onboard_time": 1756098084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46170,
       "num": 140783,
       "word": "媒体评15岁女生军训中离世",
@@ -1569,6 +1705,14 @@
       "onboard_time": 1756052062,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38284,
+      "num": 163445,
+      "word": "上海发布楼市沪六条调整限购",
+      "onboard_time": 1756099462,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38192,
