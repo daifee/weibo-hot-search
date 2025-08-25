@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756104002819,
+  "endTime": 1756104803198,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1390996,
+      "num": 322449,
+      "word": "站姐锤的赵志伟",
+      "onboard_time": 1756103845,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1298814,
       "num": 1298814,
       "word": "内娱又有神级求婚现场了",
@@ -112,14 +120,6 @@
       "word": "虞书欣一遍一遍拍摄",
       "onboard_time": 1755966084,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1271027,
-      "num": 322449,
-      "word": "站姐锤的赵志伟",
-      "onboard_time": 1756103845,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -233,6 +233,14 @@
       "onboard_time": 1756035082,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 958158,
+      "num": 1153305,
+      "word": "莫雷加德球拍被踩",
+      "onboard_time": 1756101622,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 958091,
@@ -425,14 +433,6 @@
       "onboard_time": 1755953426,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 666197,
-      "num": 666197,
-      "word": "莫雷加德球拍被踩",
-      "onboard_time": 1756101622,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 658070,
@@ -955,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414227,
+      "num": 414227,
+      "word": "金鹿奖官宣",
+      "onboard_time": 1756102344,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 413902,
       "num": 413902,
       "word": "林诗栋",
@@ -1001,6 +1009,22 @@
       "onboard_time": 1756008142,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384557,
+      "num": 326701,
+      "word": "唐嫣晒照祝亲爱的茜茜公主生日快乐",
+      "onboard_time": 1756102221,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 384272,
+      "num": 332893,
+      "word": "献鱼编剧",
+      "onboard_time": 1756100304,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 381426,
@@ -1107,12 +1131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 361732,
-      "num": 247217,
-      "word": "唐嫣晒照祝亲爱的茜茜公主生日快乐",
-      "onboard_time": 1756102221,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 360207,
+      "num": 352864,
+      "word": "杨幂有3部一番破2剧了",
+      "onboard_time": 1756097546,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359574,
@@ -1129,14 +1153,6 @@
       "onboard_time": 1756037483,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 352864,
-      "num": 352864,
-      "word": "杨幂有3部一番破2剧了",
-      "onboard_time": 1756097546,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 347105,
@@ -1185,14 +1201,6 @@
       "onboard_time": 1755994041,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 332893,
-      "num": 332893,
-      "word": "献鱼编剧",
-      "onboard_time": 1756100304,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 331089,
@@ -1291,20 +1299,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292700,
+      "num": 292700,
+      "word": "三亚非必要不出门",
+      "onboard_time": 1756101681,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292631,
       "num": 256994,
       "word": "疑似许荔莎被小三",
       "onboard_time": 1755944902,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 291096,
-      "num": 291096,
-      "word": "金鹿奖官宣",
-      "onboard_time": 1756102344,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 287159,
@@ -1355,14 +1363,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 263499,
-      "num": 263499,
-      "word": "三亚非必要不出门",
-      "onboard_time": 1756101681,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 262909,
       "num": 355340,
       "word": "反诈老陈打假嘎子哥所售699元手机",
@@ -1411,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252500,
+      "num": 252500,
+      "word": "两个人的小森林男配为虞书欣发声",
+      "onboard_time": 1756103423,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252190,
       "num": 252190,
       "word": "10天后一起看阅兵",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1756000462,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245936,
+      "num": 245936,
+      "word": "健身房偶遇宋祖儿",
+      "onboard_time": 1756103903,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 244977,
@@ -1553,6 +1569,14 @@
       "onboard_time": 1756021342,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225968,
+      "num": 225968,
+      "word": "设计师充两千多接单一年赚378",
+      "onboard_time": 1756101084,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225581,
@@ -1675,14 +1699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 210635,
-      "num": 210635,
-      "word": "设计师充两千多接单一年赚378",
-      "onboard_time": 1756101084,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209482,
       "num": 215555,
       "word": "与晋长安开播",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1756052722,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202491,
-      "num": 202491,
-      "word": "两个人的小森林男配为虞书欣发声",
-      "onboard_time": 1756103423,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 200966,
@@ -1875,6 +1883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197181,
+      "num": 197181,
+      "word": "孙艺珍疑似不满新片戏份被删",
+      "onboard_time": 1756104022,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196662,
       "num": 196662,
       "word": "李芊语中戏报到",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1756033462,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194291,
+      "num": 292035,
+      "word": "我对鲁迅在自己墙上抽烟无意见",
+      "onboard_time": 1756104323,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194183,
@@ -2248,6 +2272,14 @@
       "word": "展轩曼谷mini纪录片",
       "onboard_time": 1756041084,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180322,
+      "num": 180322,
+      "word": "44岁阿娇近照曝光",
+      "onboard_time": 1756104143,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -2643,6 +2675,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 161083,
+      "num": 163624,
+      "word": "小吃店买400粒复方甘草片加工卤料",
+      "onboard_time": 1756103662,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161054,
       "num": 174313,
       "word": "居委会回应女子精神异常每天小区骂人",
@@ -2835,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152663,
+      "num": 152663,
+      "word": "女子被家暴数百次开始找保镖",
+      "onboard_time": 1756103722,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152518,
       "num": 152518,
       "word": "丞磊戏路",
@@ -2857,6 +2905,14 @@
       "onboard_time": 1756007003,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151775,
+      "num": 151775,
+      "word": "大爷为救女子手机进水要赔偿遭拒",
+      "onboard_time": 1756102943,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151747,
@@ -3083,6 +3139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142526,
+      "num": 142526,
+      "word": "杭州冰雹",
+      "onboard_time": 1756103304,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142298,
       "num": 142298,
       "word": "心动的信号8",
@@ -3097,6 +3161,14 @@
       "onboard_time": 1755966743,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142001,
+      "num": 135661,
+      "word": "龚俊 只要他愿意他就能做到",
+      "onboard_time": 1756104444,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 141805,
@@ -3355,14 +3427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 132061,
-      "num": 132061,
-      "word": "杭州冰雹",
-      "onboard_time": 1756103304,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131765,
       "num": 131765,
       "word": "贺峻霖火力全开",
@@ -3411,20 +3475,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 130118,
-      "num": 130118,
-      "word": "大爷为救女子手机进水要赔偿遭拒",
-      "onboard_time": 1756102943,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129990,
       "num": 129990,
       "word": "BLG获队史联赛首冠",
       "onboard_time": 1756044507,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129921,
+      "num": 129921,
+      "word": "王者联动狐妖王权篇",
+      "onboard_time": 1756101262,
+      "rank": 35,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 129722,
@@ -3473,6 +3537,14 @@
       "onboard_time": 1756027523,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128549,
+      "num": 128549,
+      "word": "刘亦菲说惠英红是偶像",
+      "onboard_time": 1756102401,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 128484,
@@ -3531,28 +3603,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127334,
-      "num": 127334,
-      "word": "王者联动狐妖王权篇",
-      "onboard_time": 1756101262,
-      "rank": 35,
-      "category": "游戏,动漫"
-    },
-    {
       "raw_hot": 126952,
       "num": 126952,
       "word": "蚊子也是吃上旋转自助了",
       "onboard_time": 1756098563,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126189,
-      "num": 126189,
-      "word": "小吃店买400粒复方甘草片加工卤料",
-      "onboard_time": 1756103662,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125289,
@@ -3571,12 +3627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124593,
+      "num": 124593,
+      "word": "刘学义雪景骑马吻路透",
+      "onboard_time": 1756104623,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124586,
       "num": 242168,
       "word": "IVL",
       "onboard_time": 1756027221,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124473,
+      "num": 124473,
+      "word": "酷派称将陆续上架嘎子哥所售手机",
+      "onboard_time": 1756102221,
+      "rank": 40,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 124138,
@@ -3595,20 +3667,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123524,
-      "num": 123524,
-      "word": "刘亦菲说惠英红是偶像",
-      "onboard_time": 1756102401,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123467,
       "num": 123467,
       "word": "梅德韦杰夫止步美网首轮",
       "onboard_time": 1756099944,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123458,
+      "num": 123458,
+      "word": "鲁迅夹烟墙画被投诉当事人发声",
+      "onboard_time": 1756103003,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122962,
+      "num": 123923,
+      "word": "遇到志同道合的人是什么体验",
+      "onboard_time": 1756104323,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 122791,
@@ -3625,14 +3705,6 @@
       "onboard_time": 1756031781,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122230,
-      "num": 122230,
-      "word": "酷派称将陆续上架嘎子哥所售手机",
-      "onboard_time": 1756102221,
-      "rank": 40,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 122051,
@@ -3987,14 +4059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115627,
-      "num": 115627,
-      "word": "鲁迅夹烟墙画被投诉当事人发声",
-      "onboard_time": 1756103003,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115602,
       "num": 130094,
       "word": "中国8岁男童在泰国不幸溺亡",
@@ -4041,14 +4105,6 @@
       "onboard_time": 1756098923,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 114284,
-      "num": 114284,
-      "word": "健身房偶遇宋祖儿",
-      "onboard_time": 1756103903,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 114246,
@@ -4787,6 +4843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91343,
+      "num": 330767,
+      "word": "她花了26年给沙漠织围脖",
+      "onboard_time": 1756103543,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89722,
       "num": 89722,
       "word": "王曼昱庆祝动作好燃",
@@ -5091,6 +5155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71933,
+      "num": 254156,
+      "word": "一轮生肖酒十二年终圆满",
+      "onboard_time": 1756102882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71618,
       "num": 192151,
       "word": "尚界H5或颠覆20万级SUV市场格局",
@@ -5163,14 +5235,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 67509,
-      "num": 250452,
-      "word": "一轮生肖酒十二年终圆满",
-      "onboard_time": 1756102882,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67265,
       "num": 132530,
       "word": "国乒无缘欧洲大满贯包揽五冠",
@@ -5193,14 +5257,6 @@
       "onboard_time": 1756076899,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65906,
-      "num": 122666,
-      "word": "女子被家暴数百次开始找保镖",
-      "onboard_time": 1756103722,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64570,
@@ -5281,14 +5337,6 @@
       "onboard_time": 1756058957,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57732,
-      "num": 330767,
-      "word": "她花了26年给沙漠织围脖",
-      "onboard_time": 1756103543,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57425,

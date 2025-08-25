@@ -1,0 +1,410 @@
+{
+  "runTime": 1756104803198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 958158,
+        "num": 1153305,
+        "word": "莫雷加德球拍被踩",
+        "onboard_time": 1756101622,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 777863,
+        "num": 777863,
+        "word": "内娱真夫妻持证上岗综艺来了",
+        "onboard_time": 1756092022,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32133,
+        "num": 517421,
+        "word": "北京范儿",
+        "onboard_time": 1756095383,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473356,
+        "num": 473356,
+        "word": "警方回应女子持刀被壮汉制服",
+        "onboard_time": 1756101681,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414227,
+        "num": 414227,
+        "word": "金鹿奖官宣",
+        "onboard_time": 1756102344,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332320,
+        "num": 332320,
+        "word": "上海暴雨",
+        "onboard_time": 1756100062,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384557,
+        "num": 326701,
+        "word": "唐嫣晒照祝亲爱的茜茜公主生日快乐",
+        "onboard_time": 1756102221,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384272,
+        "num": 318293,
+        "word": "献鱼编剧",
+        "onboard_time": 1756100304,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292700,
+        "num": 292700,
+        "word": "三亚非必要不出门",
+        "onboard_time": 1756101681,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194291,
+        "num": 292035,
+        "word": "我对鲁迅在自己墙上抽烟无意见",
+        "onboard_time": 1756104323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1390996,
+        "num": 290324,
+        "word": "站姐锤的赵志伟",
+        "onboard_time": 1756103845,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787768,
+        "num": 287532,
+        "word": "家庭存款超过50万算什么水平",
+        "onboard_time": 1756094364,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396445,
+        "num": 286048,
+        "word": "曝某天王酒店有专属通道到赌场",
+        "onboard_time": 1756092203,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360207,
+        "num": 284601,
+        "word": "杨幂有3部一番破2剧了",
+        "onboard_time": 1756097546,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 603855,
+        "num": 281838,
+        "word": "物业回应小区蛇患严重随处可见",
+        "onboard_time": 1756098863,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337338,
+        "num": 280773,
+        "word": "中国中铁沉痛哀悼遇难者",
+        "onboard_time": 1756095744,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279327,
+        "num": 279327,
+        "word": "马思纯张晚意 好嗑",
+        "onboard_time": 1756097603,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271257,
+        "num": 271257,
+        "word": "王牌家族没了沈腾和贾玲",
+        "onboard_time": 1756094723,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259969,
+        "num": 259969,
+        "word": "赵志伟虞书欣一年级事件始末",
+        "onboard_time": 1756095865,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71933,
+        "num": 254156,
+        "word": "一轮生肖酒十二年终圆满",
+        "onboard_time": 1756102882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252500,
+        "num": 252500,
+        "word": "两个人的小森林男配为虞书欣发声",
+        "onboard_time": 1756103423,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245936,
+        "num": 245936,
+        "word": "健身房偶遇宋祖儿",
+        "onboard_time": 1756103903,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225968,
+        "num": 225968,
+        "word": "设计师充两千多接单一年赚378",
+        "onboard_time": 1756101084,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225157,
+        "num": 225157,
+        "word": "谢霆锋带大儿子迪拜度假",
+        "onboard_time": 1756094782,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212271,
+        "num": 212271,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197181,
+        "num": 197181,
+        "word": "孙艺珍疑似不满新片戏份被删",
+        "onboard_time": 1756104022,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180322,
+        "num": 180322,
+        "word": "44岁阿娇近照曝光",
+        "onboard_time": 1756104143,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169240,
+        "num": 169240,
+        "word": "王牌对王牌9按年龄排序",
+        "onboard_time": 1756090401,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168333,
+        "num": 168333,
+        "word": "王者荣耀",
+        "onboard_time": 1756101383,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161083,
+        "num": 163624,
+        "word": "小吃店买400粒复方甘草片加工卤料",
+        "onboard_time": 1756103662,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162864,
+        "num": 162864,
+        "word": "上海成年单身人士按家庭执行限购",
+        "onboard_time": 1756099884,
+        "rank": 30,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 158388,
+        "num": 158388,
+        "word": "补偿性消费",
+        "onboard_time": 1756096645,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155293,
+        "num": 155293,
+        "word": "醉汉遭网约车司机拒载下车后溺亡",
+        "onboard_time": 1756096344,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152663,
+        "num": 152663,
+        "word": "女子被家暴数百次开始找保镖",
+        "onboard_time": 1756103722,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151775,
+        "num": 151775,
+        "word": "大爷为救女子手机进水要赔偿遭拒",
+        "onboard_time": 1756102943,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145667,
+        "num": 145667,
+        "word": "杨洋花少时期真灵珠",
+        "onboard_time": 1756099462,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145141,
+        "num": 145141,
+        "word": "于正模仿黄晓明名句",
+        "onboard_time": 1756102642,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142526,
+        "num": 142526,
+        "word": "杭州冰雹",
+        "onboard_time": 1756103304,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91343,
+        "num": 137146,
+        "word": "她花了26年给沙漠织围脖",
+        "onboard_time": 1756103543,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136284,
+        "num": 136284,
+        "word": "入学的第一张证件照千万要认真拍",
+        "onboard_time": 1756103242,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142001,
+        "num": 135661,
+        "word": "龚俊 只要他愿意他就能做到",
+        "onboard_time": 1756104444,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129921,
+        "num": 129921,
+        "word": "王者联动狐妖王权篇",
+        "onboard_time": 1756101262,
+        "rank": 41,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 128549,
+        "num": 128549,
+        "word": "刘亦菲说惠英红是偶像",
+        "onboard_time": 1756102401,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125452,
+        "num": 125452,
+        "word": "奶茶 反式脂肪酸",
+        "onboard_time": 1756100123,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124593,
+        "num": 124593,
+        "word": "刘学义雪景骑马吻路透",
+        "onboard_time": 1756104623,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124473,
+        "num": 124473,
+        "word": "酷派称将陆续上架嘎子哥所售手机",
+        "onboard_time": 1756102221,
+        "rank": 45,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 122962,
+        "num": 123923,
+        "word": "遇到志同道合的人是什么体验",
+        "onboard_time": 1756104323,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123458,
+        "num": 123458,
+        "word": "鲁迅夹烟墙画被投诉当事人发声",
+        "onboard_time": 1756103003,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122550,
+        "num": 122550,
+        "word": "斗罗大陆小舞",
+        "onboard_time": 1756099584,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 119185,
+        "word": "田栩宁新官宣代言互动值最高",
+        "onboard_time": 1756100243,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}
