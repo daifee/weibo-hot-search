@@ -1,0 +1,410 @@
+{
+  "runTime": 1756106786304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1344322,
+        "num": 1344322,
+        "word": "莫雷加德球拍被踩",
+        "onboard_time": 1756101622,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1001743,
+        "num": 1001743,
+        "word": "孙艺珍疑似不满新片戏份被删",
+        "onboard_time": 1756104022,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30877,
+        "num": 857391,
+        "word": "北京范儿",
+        "onboard_time": 1756095383,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793071,
+        "num": 793071,
+        "word": "我对鲁迅在自己墙上抽烟无意见",
+        "onboard_time": 1756104323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692113,
+        "num": 692113,
+        "word": "警方回应女子持刀被壮汉制服",
+        "onboard_time": 1756101681,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660206,
+        "num": 660206,
+        "word": "唐嫣晒照祝亲爱的茜茜公主生日快乐",
+        "onboard_time": 1756102221,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629552,
+        "num": 629552,
+        "word": "内娱真夫妻持证上岗综艺来了",
+        "onboard_time": 1756092022,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495344,
+        "num": 495344,
+        "word": "三亚非必要不出门",
+        "onboard_time": 1756101681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378874,
+        "num": 495214,
+        "word": "沈小婷国标舞",
+        "onboard_time": 1756104982,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170410,
+        "num": 483978,
+        "word": "掐了鲁迅的烟谁来点燃思想的火",
+        "onboard_time": 1756106243,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728881,
+        "num": 473879,
+        "word": "家庭存款超过50万算什么水平",
+        "onboard_time": 1756094364,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 673066,
+        "num": 455321,
+        "word": "站姐锤的赵志伟",
+        "onboard_time": 1756103845,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455226,
+        "num": 455226,
+        "word": "女子被家暴数百次开始找保镖",
+        "onboard_time": 1756103722,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449258,
+        "num": 449258,
+        "word": "健身房偶遇宋祖儿",
+        "onboard_time": 1756103903,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330666,
+        "num": 380560,
+        "word": "孙颖莎瑞典大满贯赛后发文",
+        "onboard_time": 1756105704,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374086,
+        "num": 374086,
+        "word": "金鹿奖官宣",
+        "onboard_time": 1756102344,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 355095,
+        "num": 355095,
+        "word": "曝某天王酒店有专属通道到赌场",
+        "onboard_time": 1756092203,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293388,
+        "num": 293388,
+        "word": "张靓颖一伸懒腰手掌就流血",
+        "onboard_time": 1756105583,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45753,
+        "num": 285053,
+        "word": "一轮生肖酒十二年终圆满",
+        "onboard_time": 1756102882,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195399,
+        "num": 281367,
+        "word": "孙颖莎说荣誉属于整个团队",
+        "onboard_time": 1756106363,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278875,
+        "num": 278875,
+        "word": "中国中铁沉痛哀悼遇难者",
+        "onboard_time": 1756095744,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257029,
+        "num": 257029,
+        "word": "44岁阿娇近照曝光",
+        "onboard_time": 1756104143,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252653,
+        "num": 252653,
+        "word": "献鱼编剧",
+        "onboard_time": 1756100304,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246635,
+        "num": 246635,
+        "word": "七千的苹果我只玩了两千",
+        "onboard_time": 1756105042,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 233876,
+        "num": 233876,
+        "word": "马思纯张晚意 好嗑",
+        "onboard_time": 1756097603,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231053,
+        "num": 231053,
+        "word": "袁昊否认与赵昭仪恋情",
+        "onboard_time": 1756106243,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220496,
+        "num": 220496,
+        "word": "杨幂有3部一番破2剧了",
+        "onboard_time": 1756097546,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185664,
+        "num": 204317,
+        "word": "小吃店买400粒复方甘草片加工卤料",
+        "onboard_time": 1756103662,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194583,
+        "num": 194583,
+        "word": "等等五官和孙俪太像了",
+        "onboard_time": 1756105401,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208419,
+        "num": 194490,
+        "word": "两个人的小森林男配为虞书欣发声",
+        "onboard_time": 1756103423,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190166,
+        "num": 190166,
+        "word": "孙颖莎晒与王曼昱合照",
+        "onboard_time": 1756105882,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182529,
+        "num": 182529,
+        "word": "美国女子枪杀脑癌丈夫与两子后自杀",
+        "onboard_time": 1756106363,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174385,
+        "num": 174385,
+        "word": "李在明首次访美仅2名美官员迎接",
+        "onboard_time": 1756106123,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169743,
+        "num": 169743,
+        "word": "上海暴雨",
+        "onboard_time": 1756100062,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165710,
+        "num": 165710,
+        "word": "设计师充两千多接单一年赚378",
+        "onboard_time": 1756101084,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158473,
+        "num": 158473,
+        "word": "王牌家族没了沈腾和贾玲",
+        "onboard_time": 1756094723,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154192,
+        "num": 154192,
+        "word": "赵志伟虞书欣一年级事件始末",
+        "onboard_time": 1756095865,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153988,
+        "num": 153988,
+        "word": "看似会长胖其实能减肥的习惯",
+        "onboard_time": 1756105223,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76124,
+        "num": 153968,
+        "word": "黄奕女儿钟丽缇女儿同框",
+        "onboard_time": 1756106544,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31829,
+        "num": 153966,
+        "word": "老人多坐6370天牢能获国赔吗",
+        "onboard_time": 1756106002,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149651,
+        "num": 153966,
+        "word": "鲁迅夹烟墙画被批属于反应过度",
+        "onboard_time": 1756105942,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153966,
+        "num": 153965,
+        "word": "男子骑车不慎头部卡进红绿灯",
+        "onboard_time": 1756105823,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144622,
+        "num": 144622,
+        "word": "男子效仿盗墓小说挖出20件青铜器",
+        "onboard_time": 1756106544,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144168,
+        "num": 144168,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144046,
+        "num": 144046,
+        "word": "鲁迅夹烟墙画被投诉当事人发声",
+        "onboard_time": 1756103003,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144030,
+        "num": 144030,
+        "word": "王牌对王牌9按年龄排序",
+        "onboard_time": 1756090401,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142307,
+        "num": 142307,
+        "word": "王玉雯说去年之前和陈星旭不熟",
+        "onboard_time": 1756104982,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135764,
+        "num": 135764,
+        "word": "谢霆锋带大儿子迪拜度假",
+        "onboard_time": 1756094782,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130452,
+        "num": 130452,
+        "word": "入学的第一张证件照千万要认真拍",
+        "onboard_time": 1756103242,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111453,
+        "num": 111453,
+        "word": "杭州冰雹",
+        "onboard_time": 1756103304,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}
