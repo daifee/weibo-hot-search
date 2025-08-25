@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756092925360,
+  "endTime": 1756096437753,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -33,6 +33,14 @@
       "onboard_time": 1756086321,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1406288,
+      "num": 1406288,
+      "word": "内娱真夫妻持证上岗综艺来了",
+      "onboard_time": 1756092022,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1041296,
@@ -91,12 +99,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 741709,
-      "num": 335760,
-      "word": "内娱真夫妻持证上岗综艺来了",
-      "onboard_time": 1756092022,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 738988,
+      "num": 211218,
+      "word": "家庭存款超过50万算什么水平",
+      "onboard_time": 1756094364,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 735011,
+      "num": 207410,
+      "word": "曝某天王酒店有专属通道到赌场",
+      "onboard_time": 1756092203,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 676857,
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387821,
+      "num": 387821,
+      "word": "程序员自费450元租工位假装上班",
+      "onboard_time": 1756092622,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381426,
       "num": 381426,
       "word": "孙颖莎将再度刷新世排万分纪录",
@@ -275,6 +299,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319509,
+      "num": 199465,
+      "word": "赵志伟虞书欣一年级事件始末",
+      "onboard_time": 1756095865,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318094,
+      "num": 191894,
+      "word": "王牌家族没了沈腾和贾玲",
+      "onboard_time": 1756094723,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314185,
+      "num": 238700,
+      "word": "于适贴脸开大马頔南山南",
+      "onboard_time": 1756090702,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308362,
       "num": 241759,
       "word": "27岁尿毒症女生跑外卖续命4年",
@@ -315,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263378,
+      "num": 189602,
+      "word": "谢霆锋带大儿子迪拜度假",
+      "onboard_time": 1756094782,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263283,
       "num": 241470,
       "word": "妇联回应女子疑被丈夫家暴致死",
@@ -347,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243759,
+      "num": 159086,
+      "word": "艾热孜巴婚检被三连问有无血缘关系",
+      "onboard_time": 1756095143,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242581,
       "num": 242581,
       "word": "九三阅兵最后一次夜间演练画面",
@@ -363,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 238700,
-      "num": 238700,
-      "word": "于适贴脸开大马頔南山南",
-      "onboard_time": 1756090702,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238081,
       "num": 167655,
       "word": "何晟铭和于正拍了13部戏",
@@ -379,12 +435,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236634,
+      "num": 182780,
+      "word": "谁懂那英李沁对视这一下",
+      "onboard_time": 1756094603,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220322,
       "num": 260027,
       "word": "鞠婧祎 秋老虎怕了你了",
       "onboard_time": 1756079183,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216996,
+      "num": 154052,
+      "word": "意大利厕所文化",
+      "onboard_time": 1756094184,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 211821,
@@ -441,6 +513,14 @@
       "onboard_time": 1756069815,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197524,
+      "num": 158091,
+      "word": "惠英红零点发文为刘亦菲庆生",
+      "onboard_time": 1756095623,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 196140,
@@ -515,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172577,
+      "num": 156745,
+      "word": "孟子义何与用嘴叼同一枝花",
+      "onboard_time": 1756092982,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169323,
       "num": 169323,
       "word": "九三阅兵天安门广场布置正式亮相",
@@ -571,6 +659,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155160,
+      "num": 155160,
+      "word": "吴京摇头",
+      "onboard_time": 1756095022,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154136,
+      "num": 154136,
+      "word": "肖战中秋前任少白留影",
+      "onboard_time": 1756094062,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154052,
+      "num": 154051,
+      "word": "广东一小区大蛇小蛇到处溜达",
+      "onboard_time": 1756096225,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152851,
       "num": 156889,
       "word": "吴彦姝晒图为刘亦菲庆生",
@@ -603,6 +715,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147980,
+      "num": 147980,
+      "word": "第一次见这么听劝的爱豆",
+      "onboard_time": 1756095325,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145448,
+      "num": 145448,
+      "word": "李现内娱最会拍的男人",
+      "onboard_time": 1756094603,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144811,
+      "num": 144811,
+      "word": "章昊偶运会演我上早八",
+      "onboard_time": 1756093704,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143329,
       "num": 143329,
       "word": "许凯也被于正做局了",
@@ -627,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138602,
+      "num": 138602,
+      "word": "关晓彤预定宋亚轩王牌名场面",
+      "onboard_time": 1756095325,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136733,
       "num": 136733,
       "word": "王曼昱12比10孙颖莎",
@@ -643,8 +787,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135278,
-      "num": 135278,
+      "raw_hot": 135476,
+      "num": 135476,
       "word": "iPhone17Pro防反射显示屏",
       "onboard_time": 1756092443,
       "rank": 32,
@@ -659,12 +803,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133525,
+      "num": 133525,
+      "word": "上海优化调整房地产政策措施",
+      "onboard_time": 1756096225,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132098,
+      "num": 132098,
+      "word": "停止对自己灾难化想象",
+      "onboard_time": 1756095865,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130470,
       "num": 130470,
       "word": "马嘉祺跳了刀马刀马",
       "onboard_time": 1756044446,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129717,
+      "num": 129717,
+      "word": "罗晋这浓眉大眼的也强制爱了",
+      "onboard_time": 1756093764,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 129057,
@@ -699,12 +867,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122453,
-      "num": 122453,
-      "word": "曝某天王酒店有专属通道到赌场",
-      "onboard_time": 1756092203,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 122051,
+      "num": 138607,
+      "word": "易烊千玺走向世界又走回我们",
+      "onboard_time": 1756094844,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 121895,
@@ -713,6 +881,14 @@
       "onboard_time": 1756090041,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121768,
+      "num": 121768,
+      "word": "上海一家五口39平米的小家",
+      "onboard_time": 1756095684,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 121680,
@@ -753,6 +929,14 @@
       "onboard_time": 1756082062,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117792,
+      "num": 117792,
+      "word": "北方稀土等多股涨停",
+      "onboard_time": 1756096165,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 117668,
@@ -843,6 +1027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 107003,
+      "num": 146667,
+      "word": "沂蒙老区15万余妇女掩护抗日人士",
+      "onboard_time": 1756090041,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106813,
       "num": 106813,
       "word": "清凝成仙了",
@@ -907,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97717,
+      "num": 154367,
+      "word": "中国中铁沉痛哀悼遇难者",
+      "onboard_time": 1756095744,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97512,
       "num": 97512,
       "word": "易烊千玺这声哦呦",
@@ -945,6 +1145,14 @@
       "onboard_time": 1756085303,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91861,
+      "num": 154056,
+      "word": "海关拦截183万件假LABUBU",
+      "onboard_time": 1756094603,
+      "rank": 29,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 91788,
@@ -1107,14 +1315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 68687,
-      "num": 100050,
-      "word": "沂蒙老区15万余妇女掩护抗日人士",
-      "onboard_time": 1756090041,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 67254,
       "num": 67254,
       "word": "大凉山里那些花儿歌声的力量",
@@ -1195,6 +1395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56460,
+      "num": 140729,
+      "word": "醉汉遭网约车司机拒载下车后溺亡",
+      "onboard_time": 1756096344,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55220,
       "num": 55220,
       "word": "富勒姆1比1曼联",
@@ -1203,12 +1411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54338,
+      "num": 141144,
+      "word": "成龙提醒张子枫跟武行说谢谢",
+      "onboard_time": 1756095444,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 53935,
       "num": 53935,
       "word": "林诗栋3比3追平莫雷加德",
       "onboard_time": 1756077077,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52325,
+      "num": 388027,
+      "word": "北京范儿",
+      "onboard_time": 1756095383,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50301,
@@ -1235,12 +1459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47217,
-      "num": 110805,
-      "word": "程序员自费450元租工位假装上班",
-      "onboard_time": 1756092622,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 46036,
+      "num": 161264,
+      "word": "爱德华兹空降上海",
+      "onboard_time": 1756094664,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 44819,
@@ -1273,6 +1497,14 @@
       "onboard_time": 1756052062,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39425,
+      "num": 140783,
+      "word": "媒体评15岁女生军训中离世",
+      "onboard_time": 1756096225,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38192,

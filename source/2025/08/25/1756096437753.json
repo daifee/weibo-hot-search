@@ -1,0 +1,410 @@
+{
+  "runTime": 1756096437753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1406288,
+        "num": 1406288,
+        "word": "内娱真夫妻持证上岗综艺来了",
+        "onboard_time": 1756092022,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388601,
+        "num": 388601,
+        "word": "首款曲面iPhone",
+        "onboard_time": 1756082905,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52325,
+        "num": 388027,
+        "word": "北京范儿",
+        "onboard_time": 1756095383,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649321,
+        "num": 387965,
+        "word": "王牌对王牌9按年龄排序",
+        "onboard_time": 1756090401,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387821,
+        "num": 387821,
+        "word": "程序员自费450元租工位假装上班",
+        "onboard_time": 1756092622,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242388,
+        "num": 242388,
+        "word": "下周三就能看阅兵了",
+        "onboard_time": 1756082603,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 381788,
+        "num": 239127,
+        "word": "陈乔恩艾伦娱乐圈文照进现实",
+        "onboard_time": 1756091421,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330638,
+        "num": 236768,
+        "word": "关晓彤王牌9官宣搭子",
+        "onboard_time": 1756086862,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233016,
+        "num": 233016,
+        "word": "A股",
+        "onboard_time": 1756087881,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215481,
+        "num": 215481,
+        "word": "孙颖莎将再度刷新世排万分纪录",
+        "onboard_time": 1756087402,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 738988,
+        "num": 211218,
+        "word": "家庭存款超过50万算什么水平",
+        "onboard_time": 1756094364,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 735011,
+        "num": 207410,
+        "word": "曝某天王酒店有专属通道到赌场",
+        "onboard_time": 1756092203,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314185,
+        "num": 204431,
+        "word": "于适贴脸开大马頔南山南",
+        "onboard_time": 1756090702,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319509,
+        "num": 199465,
+        "word": "赵志伟虞书欣一年级事件始末",
+        "onboard_time": 1756095865,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318094,
+        "num": 191894,
+        "word": "王牌家族没了沈腾和贾玲",
+        "onboard_time": 1756094723,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263378,
+        "num": 189602,
+        "word": "谢霆锋带大儿子迪拜度假",
+        "onboard_time": 1756094782,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236634,
+        "num": 182780,
+        "word": "谁懂那英李沁对视这一下",
+        "onboard_time": 1756094603,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181504,
+        "num": 181504,
+        "word": "睡眠邪修大法",
+        "onboard_time": 1756087761,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162030,
+        "num": 162030,
+        "word": "王楚钦代言清扬",
+        "onboard_time": 1756090101,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46036,
+        "num": 161264,
+        "word": "爱德华兹空降上海",
+        "onboard_time": 1756094664,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684921,
+        "num": 160917,
+        "word": "许荔莎曝许凯嘴过的艺人",
+        "onboard_time": 1756040664,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243759,
+        "num": 159086,
+        "word": "艾热孜巴婚检被三连问有无血缘关系",
+        "onboard_time": 1756095143,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224364,
+        "num": 158856,
+        "word": "女子戴牙套5年坏了8颗牙",
+        "onboard_time": 1756054819,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197524,
+        "num": 158091,
+        "word": "惠英红零点发文为刘亦菲庆生",
+        "onboard_time": 1756095623,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172577,
+        "num": 156745,
+        "word": "孟子义何与用嘴叼同一枝花",
+        "onboard_time": 1756092982,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165365,
+        "num": 155323,
+        "word": "鞠婧祎 秋老虎怕了你了",
+        "onboard_time": 1756079183,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155160,
+        "num": 155160,
+        "word": "吴京摇头",
+        "onboard_time": 1756095022,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97717,
+        "num": 154367,
+        "word": "中国中铁沉痛哀悼遇难者",
+        "onboard_time": 1756095744,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154136,
+        "num": 154136,
+        "word": "肖战中秋前任少白留影",
+        "onboard_time": 1756094062,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91861,
+        "num": 154056,
+        "word": "海关拦截183万件假LABUBU",
+        "onboard_time": 1756094603,
+        "rank": 29,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 97083,
+        "num": 154052,
+        "word": "全新小鹏P7动态测评首发",
+        "onboard_time": 1756091181,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 216996,
+        "num": 154052,
+        "word": "意大利厕所文化",
+        "onboard_time": 1756094184,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154052,
+        "num": 154051,
+        "word": "广东一小区大蛇小蛇到处溜达",
+        "onboard_time": 1756096225,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147980,
+        "num": 147980,
+        "word": "第一次见这么听劝的爱豆",
+        "onboard_time": 1756095325,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107003,
+        "num": 146667,
+        "word": "沂蒙老区15万余妇女掩护抗日人士",
+        "onboard_time": 1756090041,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145448,
+        "num": 145448,
+        "word": "李现内娱最会拍的男人",
+        "onboard_time": 1756094603,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144811,
+        "num": 144811,
+        "word": "章昊偶运会演我上早八",
+        "onboard_time": 1756093704,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54338,
+        "num": 141144,
+        "word": "成龙提醒张子枫跟武行说谢谢",
+        "onboard_time": 1756095444,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39425,
+        "num": 140783,
+        "word": "媒体评15岁女生军训中离世",
+        "onboard_time": 1756096225,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56460,
+        "num": 140729,
+        "word": "醉汉遭网约车司机拒载下车后溺亡",
+        "onboard_time": 1756096344,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140717,
+        "num": 140717,
+        "word": "子夜归剧宣大大方方的",
+        "onboard_time": 1756092141,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122051,
+        "num": 138607,
+        "word": "易烊千玺走向世界又走回我们",
+        "onboard_time": 1756094844,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138602,
+        "num": 138602,
+        "word": "关晓彤预定宋亚轩王牌名场面",
+        "onboard_time": 1756095325,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135476,
+        "num": 135476,
+        "word": "iPhone17Pro防反射显示屏",
+        "onboard_time": 1756092443,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133525,
+        "num": 133525,
+        "word": "上海优化调整房地产政策措施",
+        "onboard_time": 1756096225,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132098,
+        "num": 132098,
+        "word": "停止对自己灾难化想象",
+        "onboard_time": 1756095865,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129717,
+        "num": 129717,
+        "word": "罗晋这浓眉大眼的也强制爱了",
+        "onboard_time": 1756093764,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127293,
+        "num": 127293,
+        "word": "丞磊你好适合演变态",
+        "onboard_time": 1756090221,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121768,
+        "num": 121768,
+        "word": "上海一家五口39平米的小家",
+        "onboard_time": 1756095684,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 117792,
+        "num": 117792,
+        "word": "北方稀土等多股涨停",
+        "onboard_time": 1756096165,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终心系雪域高原情牵西藏人民#"
+    }
+  }
+}

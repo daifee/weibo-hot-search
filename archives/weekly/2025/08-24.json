@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756092925360,
+  "endTime": 1756096437753,
   "band_list": [
     {
       "raw_hot": 9923977,
@@ -89,6 +89,14 @@
       "onboard_time": 1756025602,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1406288,
+      "num": 1406288,
+      "word": "内娱真夫妻持证上岗综艺来了",
+      "onboard_time": 1756092022,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1298814,
@@ -363,12 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 741709,
-      "num": 335760,
-      "word": "内娱真夫妻持证上岗综艺来了",
-      "onboard_time": 1756092022,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 738988,
+      "num": 211218,
+      "word": "家庭存款超过50万算什么水平",
+      "onboard_time": 1756094364,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 735011,
+      "num": 207410,
+      "word": "曝某天王酒店有专属通道到赌场",
+      "onboard_time": 1756092203,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 716164,
@@ -899,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387821,
+      "num": 387821,
+      "word": "程序员自费450元租工位假装上班",
+      "onboard_time": 1756092622,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381426,
       "num": 381426,
       "word": "孙颖莎将再度刷新世排万分纪录",
@@ -1091,6 +1115,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319509,
+      "num": 199465,
+      "word": "赵志伟虞书欣一年级事件始末",
+      "onboard_time": 1756095865,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318094,
+      "num": 191894,
+      "word": "王牌家族没了沈腾和贾玲",
+      "onboard_time": 1756094723,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314185,
+      "num": 238700,
+      "word": "于适贴脸开大马頔南山南",
+      "onboard_time": 1756090702,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309661,
       "num": 309661,
       "word": "严浩翔橙发",
@@ -1187,6 +1235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263378,
+      "num": 189602,
+      "word": "谢霆锋带大儿子迪拜度假",
+      "onboard_time": 1756094782,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262909,
       "num": 355340,
       "word": "反诈老陈打假嘎子哥所售699元手机",
@@ -1275,6 +1331,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 243759,
+      "num": 159086,
+      "word": "艾热孜巴婚检被三连问有无血缘关系",
+      "onboard_time": 1756095143,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243679,
       "num": 307338,
       "word": "九三阅兵天安门广场布置正式亮相",
@@ -1299,14 +1363,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 238700,
-      "num": 238700,
-      "word": "于适贴脸开大马頔南山南",
-      "onboard_time": 1756090702,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238081,
       "num": 167655,
       "word": "何晟铭和于正拍了13部戏",
@@ -1321,6 +1377,14 @@
       "onboard_time": 1756034544,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 236634,
+      "num": 182780,
+      "word": "谁懂那英李沁对视这一下",
+      "onboard_time": 1756094603,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 233691,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1756018642,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216996,
+      "num": 154052,
+      "word": "意大利厕所文化",
+      "onboard_time": 1756094184,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 215610,
@@ -1609,6 +1681,14 @@
       "onboard_time": 1756041205,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197524,
+      "num": 158091,
+      "word": "惠英红零点发文为刘亦菲庆生",
+      "onboard_time": 1756095623,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 197469,
@@ -2131,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172577,
+      "num": 156745,
+      "word": "孟子义何与用嘴叼同一枝花",
+      "onboard_time": 1756092982,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171692,
       "num": 171692,
       "word": "丞磊主人级别的人生镜头",
@@ -2419,6 +2507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155160,
+      "num": 155160,
+      "word": "吴京摇头",
+      "onboard_time": 1756095022,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154719,
       "num": 154719,
       "word": "刘宇宁好皮一男的",
@@ -2433,6 +2529,22 @@
       "onboard_time": 1755997043,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154136,
+      "num": 154136,
+      "word": "肖战中秋前任少白留影",
+      "onboard_time": 1756094062,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154052,
+      "num": 154051,
+      "word": "广东一小区大蛇小蛇到处溜达",
+      "onboard_time": 1756096225,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152970,
@@ -2539,6 +2651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147980,
+      "num": 147980,
+      "word": "第一次见这么听劝的爱豆",
+      "onboard_time": 1756095325,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147695,
       "num": 160286,
       "word": "沈腾说范丞丞是自己的综艺搭子",
@@ -2579,12 +2699,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 145448,
+      "num": 145448,
+      "word": "李现内娱最会拍的男人",
+      "onboard_time": 1756094603,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145226,
       "num": 196032,
       "word": "林彦俊芭莎好友卡",
       "onboard_time": 1756011143,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144811,
+      "num": 144811,
+      "word": "章昊偶运会演我上早八",
+      "onboard_time": 1756093704,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 144724,
@@ -2739,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138602,
+      "num": 138602,
+      "word": "关晓彤预定宋亚轩王牌名场面",
+      "onboard_time": 1756095325,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138179,
       "num": 138179,
       "word": "邓典果亚军魔咒",
@@ -2827,20 +2971,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135476,
+      "num": 135476,
+      "word": "iPhone17Pro防反射显示屏",
+      "onboard_time": 1756092443,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135331,
       "num": 135331,
       "word": "从350斤到160斤的震撼",
       "onboard_time": 1756007723,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 135278,
-      "num": 135278,
-      "word": "iPhone17Pro防反射显示屏",
-      "onboard_time": 1756092443,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 134772,
@@ -2856,6 +3000,14 @@
       "word": "大妈机上换座被拒后闹事",
       "onboard_time": 1755999381,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133525,
+      "num": 133525,
+      "word": "上海优化调整房地产政策措施",
+      "onboard_time": 1756096225,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2881,6 +3033,14 @@
       "onboard_time": 1756023983,
       "rank": 43,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 132098,
+      "num": 132098,
+      "word": "停止对自己灾难化想象",
+      "onboard_time": 1756095865,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 131765,
@@ -2937,6 +3097,14 @@
       "onboard_time": 1756031062,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129717,
+      "num": 129717,
+      "word": "罗晋这浓眉大眼的也强制爱了",
+      "onboard_time": 1756093764,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 129675,
@@ -3067,20 +3235,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122453,
-      "num": 122453,
-      "word": "曝某天王酒店有专属通道到赌场",
-      "onboard_time": 1756092203,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122323,
       "num": 122323,
       "word": "李承铉背着飞机走红毯",
       "onboard_time": 1756031781,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122051,
+      "num": 138607,
+      "word": "易烊千玺走向世界又走回我们",
+      "onboard_time": 1756094844,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 122016,
@@ -3097,6 +3265,14 @@
       "onboard_time": 1756090041,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121768,
+      "num": 121768,
+      "word": "上海一家五口39平米的小家",
+      "onboard_time": 1756095684,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 121680,
@@ -3281,6 +3457,14 @@
       "onboard_time": 1756015580,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117792,
+      "num": 117792,
+      "word": "北方稀土等多股涨停",
+      "onboard_time": 1756096165,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 117668,
@@ -3619,6 +3803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107003,
+      "num": 146667,
+      "word": "沂蒙老区15万余妇女掩护抗日人士",
+      "onboard_time": 1756090041,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106850,
       "num": 106850,
       "word": "DeepSeek暗示国产芯片有望大规模使用",
@@ -3955,6 +4147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97717,
+      "num": 154367,
+      "word": "中国中铁沉痛哀悼遇难者",
+      "onboard_time": 1756095744,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97679,
       "num": 97679,
       "word": "你以为是身材缺陷其实是健康表现",
@@ -4065,6 +4265,14 @@
       "onboard_time": 1756026142,
       "rank": 47,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 91861,
+      "num": 154056,
+      "word": "海关拦截183万件假LABUBU",
+      "onboard_time": 1756094603,
+      "rank": 29,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 91788,
@@ -4435,14 +4643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 68687,
-      "num": 100050,
-      "word": "沂蒙老区15万余妇女掩护抗日人士",
-      "onboard_time": 1756090041,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 68049,
       "num": 114670,
       "word": "中国排面治愈强迫症",
@@ -4595,6 +4795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56460,
+      "num": 140729,
+      "word": "醉汉遭网约车司机拒载下车后溺亡",
+      "onboard_time": 1756096344,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56435,
       "num": 104598,
       "word": "无力的丈夫和他不知所措的妻子",
@@ -4627,6 +4835,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 54338,
+      "num": 141144,
+      "word": "成龙提醒张子枫跟武行说谢谢",
+      "onboard_time": 1756095444,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54150,
       "num": 248831,
       "word": "这一刻外卖小哥像极了超人",
@@ -4641,6 +4857,14 @@
       "onboard_time": 1756077077,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52325,
+      "num": 388027,
+      "word": "北京范儿",
+      "onboard_time": 1756095383,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52140,
@@ -4739,14 +4963,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 47217,
-      "num": 110805,
-      "word": "程序员自费450元租工位假装上班",
-      "onboard_time": 1756092622,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46562,
       "num": 127905,
       "word": "信访干部骂老人老不死",
@@ -4769,6 +4985,14 @@
       "onboard_time": 1756049544,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 46036,
+      "num": 161264,
+      "word": "爱德华兹空降上海",
+      "onboard_time": 1756094664,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 45652,
@@ -4864,6 +5088,14 @@
       "word": "505名死亡人员领的养老金追回了没有",
       "onboard_time": 1756011742,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39425,
+      "num": 140783,
+      "word": "媒体评15岁女生军训中离世",
+      "onboard_time": 1756096225,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
