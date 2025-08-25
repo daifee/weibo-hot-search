@@ -1,6 +1,6 @@
 {
   "startTime": 1756052973039,
-  "endTime": 1756121905234,
+  "endTime": 1756126428553,
   "band_list": [
     {
       "raw_hot": 5064753,
@@ -105,6 +105,14 @@
       "onboard_time": 1756104022,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1010589,
+      "num": 1161694,
+      "word": "黄多多好像年轻的刘诗诗",
+      "onboard_time": 1756120163,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 958091,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 739054,
+      "num": 422094,
+      "word": "甜馨小酒窝一起跳舞了",
+      "onboard_time": 1756124963,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 735011,
       "num": 355095,
       "word": "曝某天王酒店有专属通道到赌场",
@@ -291,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 615618,
+      "num": 615618,
+      "word": "女子询问海底捞换配菜被开黄腔辱骂",
+      "onboard_time": 1756121303,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 602057,
       "num": 297988,
       "word": "董璇办了两次婚礼都没海岛婚礼",
@@ -336,6 +360,14 @@
       "word": "迪士尼票价",
       "onboard_time": 1756108884,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552779,
+      "num": 552779,
+      "word": "投诉鲁迅抽烟 浪费公共资源",
+      "onboard_time": 1756121124,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -467,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449214,
+      "num": 419981,
+      "word": "今年打了翻身仗的4位明星",
+      "onboard_time": 1756120644,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442939,
       "num": 442939,
       "word": "广东一小区大蛇小蛇到处溜达",
@@ -489,6 +529,14 @@
       "onboard_time": 1756050084,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 432043,
+      "num": 432043,
+      "word": "鲁迅夹烟遭二次投诉",
+      "onboard_time": 1756123642,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424250,
@@ -515,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419883,
+      "num": 419883,
+      "word": "15岁林大竣身高",
+      "onboard_time": 1756124963,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418310,
       "num": 350745,
       "word": "李一桐 我只能旺我自己旺不了夫",
@@ -529,6 +585,14 @@
       "onboard_time": 1756102344,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 412591,
+      "num": 412591,
+      "word": "王玉雯你真的火了",
+      "onboard_time": 1756124663,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 406436,
@@ -691,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317414,
+      "num": 317414,
+      "word": "肖战花仙子",
+      "onboard_time": 1756121662,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314185,
       "num": 238700,
       "word": "于适贴脸开大马頔南山南",
@@ -713,6 +785,14 @@
       "onboard_time": 1756046667,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300373,
+      "num": 430082,
+      "word": "张碧晨开场",
+      "onboard_time": 1756124483,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 299159,
@@ -827,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260510,
+      "num": 260510,
+      "word": "宋祖儿在用漂亮的脸蛋做什么",
+      "onboard_time": 1756121483,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257029,
       "num": 257029,
       "word": "44岁阿娇近照曝光",
@@ -856,6 +944,14 @@
       "word": "被体制内大佬的工作留痕震撼到了",
       "onboard_time": 1756108342,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 249408,
+      "num": 358663,
+      "word": "瘦了后出片像呼吸一样简单",
+      "onboard_time": 1756117704,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -1011,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206582,
+      "num": 426591,
+      "word": "陈奕恒总结舞台",
+      "onboard_time": 1756123162,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202776,
       "num": 220240,
       "word": "王牌对王牌",
@@ -1033,6 +1137,14 @@
       "onboard_time": 1756034364,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200952,
+      "num": 200952,
+      "word": "那些月入过万的小众工作",
+      "onboard_time": 1756122623,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 200500,
@@ -1235,20 +1347,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189580,
+      "num": 189580,
+      "word": "归队开播",
+      "onboard_time": 1756125143,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187178,
       "num": 187178,
       "word": "女留学生起诉发性暗示微信男生败诉",
       "onboard_time": 1756051165,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187129,
-      "num": 187129,
-      "word": "今年打了翻身仗的4位明星",
-      "onboard_time": 1756120644,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 186912,
@@ -1283,20 +1395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182632,
+      "num": 424248,
+      "word": "斗罗大陆",
+      "onboard_time": 1756125444,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 181926,
+      "num": 181926,
+      "word": "持刀追赶男孩女子有精神分裂症",
+      "onboard_time": 1756125385,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179426,
       "num": 179426,
       "word": "上海冰雹",
       "onboard_time": 1756100243,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174467,
-      "num": 174467,
-      "word": "瘦了后出片像呼吸一样简单",
-      "onboard_time": 1756117704,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 174385,
@@ -1451,14 +1571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160491,
-      "num": 204397,
-      "word": "黄多多好像年轻的刘诗诗",
-      "onboard_time": 1756120163,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160108,
       "num": 160108,
       "word": "3名女子车库被2条大狗攻击",
@@ -1473,14 +1585,6 @@
       "onboard_time": 1756114583,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159489,
-      "num": 159489,
-      "word": "肖战花仙子",
-      "onboard_time": 1756121662,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 156887,
@@ -1651,14 +1755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147262,
-      "num": 201324,
-      "word": "女子询问海底捞换配菜被开黄腔辱骂",
-      "onboard_time": 1756121303,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147238,
       "num": 272723,
       "word": "上海楼市限购松绑",
@@ -1819,6 +1915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137677,
+      "num": 137677,
+      "word": "浙江鲁迅研究会回应鲁迅夹烟",
+      "onboard_time": 1756125143,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137288,
       "num": 137288,
       "word": "labubu 迷你版",
@@ -1857,6 +1961,14 @@
       "onboard_time": 1756092443,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 135144,
+      "num": 117095,
+      "word": "王一博拍照动作神似敦煌飞天",
+      "onboard_time": 1756125683,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 134826,
@@ -2080,14 +2192,6 @@
       "word": "张靓颖风湿性免疫力低下",
       "onboard_time": 1756108884,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 122540,
-      "num": 122540,
-      "word": "宋祖儿在用漂亮的脸蛋做什么",
-      "onboard_time": 1756121483,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -2507,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104431,
+      "num": 104431,
+      "word": "与晋长安",
+      "onboard_time": 1756126103,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104162,
       "num": 104162,
       "word": "女子手持刀具被壮汉制服",
@@ -2601,6 +2713,30 @@
       "onboard_time": 1756110864,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 100446,
+      "num": 100446,
+      "word": "武汉晚霞",
+      "onboard_time": 1756123224,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100197,
+      "num": 100197,
+      "word": "孙颖莎餐厅吃饭路透",
+      "onboard_time": 1756125203,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100085,
+      "num": 100085,
+      "word": "JDG对战KSG",
+      "onboard_time": 1756123162,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 99539,
@@ -2707,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89008,
+      "num": 89008,
+      "word": "被瀑布冲走网红消失前一刻画面曝光",
+      "onboard_time": 1756123344,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88552,
       "num": 118155,
       "word": "春秋航空发严正声明",
@@ -2737,6 +2881,14 @@
       "onboard_time": 1756087642,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84496,
+      "num": 84496,
+      "word": "董宇辉分手暴富俞敏洪还在煎熬",
+      "onboard_time": 1756126284,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 84247,
@@ -2785,6 +2937,14 @@
       "onboard_time": 1756082062,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79978,
+      "num": 79978,
+      "word": "养猫人看到这个铲子沉默了",
+      "onboard_time": 1756126342,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 79882,
@@ -3107,14 +3267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47565,
-      "num": 329063,
-      "word": "投诉鲁迅抽烟 浪费公共资源",
-      "onboard_time": 1756121124,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46170,
       "num": 140783,
       "word": "媒体评15岁女生军训中离世",
@@ -3129,6 +3281,14 @@
       "onboard_time": 1756094664,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45314,
+      "num": 219555,
+      "word": "卤料 吗啡",
+      "onboard_time": 1756125923,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44819,
@@ -3176,6 +3336,14 @@
       "word": "医院检验科现丁义珍式窗口",
       "onboard_time": 1756113802,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42088,
+      "num": 100288,
+      "word": "人类非遗版图被澳门2049刷新",
+      "onboard_time": 1756124002,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3251,6 +3419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30299,
+      "num": 101381,
+      "word": "喜茶曾承诺0反式脂肪酸",
+      "onboard_time": 1756125923,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30140,
       "num": 138665,
       "word": "华人店铺倒挂马来西亚国旗遭闹事",
@@ -3264,6 +3440,14 @@
       "word": "护网警惕定时炸弹0day漏洞",
       "onboard_time": 1756084222,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29167,
+      "num": 215320,
+      "word": "文化郑当时",
+      "onboard_time": 1756125264,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
