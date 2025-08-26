@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756240868675,
+  "endTime": 1756243415058,
   "band_list": [
     {
       "raw_hot": 2643489,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30783,
+      "num": 35665,
+      "word": "川航回应发馒头卫生质疑",
+      "onboard_time": 1756234274,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25391,
       "num": 75403,
       "word": "乘客回应国航一航班紧急备降俄罗斯",
@@ -507,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24436,
-      "num": 35665,
-      "word": "川航回应发馒头卫生质疑",
-      "onboard_time": 1756234274,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 24586,
+      "num": 30887,
+      "word": "特朗普称最快一周要国防部改战争部",
+      "onboard_time": 1756238895,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22663,
@@ -523,20 +531,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22440,
+      "num": 18660,
+      "word": "一百块穿出一千块的感觉是什么体验",
+      "onboard_time": 1756240034,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21109,
       "num": 132721,
       "word": "仪仗女兵说誓做军中花木兰",
       "onboard_time": 1756222283,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16916,
-      "num": 16916,
-      "word": "特朗普称最快一周要国防部改战争部",
-      "onboard_time": 1756238895,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16175,
@@ -547,12 +555,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 15852,
-      "num": 15852,
-      "word": "一百块穿出一千块的感觉是什么体验",
-      "onboard_time": 1756240034,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 16070,
+      "num": 18762,
+      "word": "中方驳回日方所谓抗议",
+      "onboard_time": 1756239016,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13875,
