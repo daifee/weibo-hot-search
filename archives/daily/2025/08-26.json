@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756178112260,
+  "endTime": 1756179036628,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1192541,
-      "num": 316741,
+      "num": 341424,
       "word": "王鹤棣方回应网传录音",
       "onboard_time": 1756164920,
       "rank": 15,
@@ -27,16 +27,32 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 813370,
-      "num": 1130139,
+      "raw_hot": 897940,
+      "num": 349068,
+      "word": "张万森 内娱下嫂子了",
+      "onboard_time": 1756178063,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 826055,
+      "num": 1132168,
       "word": "赴山海",
       "onboard_time": 1756175183,
       "rank": 0,
       "category": "剧集"
     },
     {
+      "raw_hot": 727349,
+      "num": 591640,
+      "word": "张元英 宝格丽",
+      "onboard_time": 1756176681,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 691331,
-      "num": 296736,
+      "num": 330035,
       "word": "董璇小酒窝在机场没走出来过",
       "onboard_time": 1756172783,
       "rank": 16,
@@ -59,20 +75,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 583782,
-      "num": 583782,
-      "word": "张元英 宝格丽",
-      "onboard_time": 1756176681,
-      "rank": 4,
-      "category": "作品衍生"
+      "raw_hot": 625848,
+      "num": 625848,
+      "word": "李在明说愿意与特朗普一起访华",
+      "onboard_time": 1756177523,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 585745,
+      "num": 487216,
+      "word": "王牌9飞行嘉宾官宣",
+      "onboard_time": 1756177161,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 556035,
-      "num": 315899,
+      "num": 322843,
       "word": "25年出生的人已经2000岁了",
       "onboard_time": 1756165942,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 483057,
+      "num": 483057,
+      "word": "馆方称不会轻易改变鲁迅形象",
+      "onboard_time": 1756173622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 454511,
@@ -97,14 +129,6 @@
       "onboard_time": 1756165701,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 429974,
-      "num": 429974,
-      "word": "馆方称不会轻易改变鲁迅形象",
-      "onboard_time": 1756173622,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401270,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 352488,
-      "num": 276599,
+      "num": 311882,
       "word": "黄霄雲舅妈癌症去世",
       "onboard_time": 1756173802,
       "rank": 23,
@@ -171,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344367,
-      "num": 344367,
-      "word": "王牌9飞行嘉宾官宣",
-      "onboard_time": 1756177161,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341779,
       "num": 341779,
       "word": "刘浩存宋威龙 簪星",
@@ -193,14 +209,6 @@
       "onboard_time": 1756132044,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 299245,
-      "num": 299245,
-      "word": "李在明说愿意与特朗普一起访华",
-      "onboard_time": 1756177523,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 285001,
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210339,
+      "num": 210339,
+      "word": "印度男子烧死妻子被抓后竟称不后悔",
+      "onboard_time": 1756177581,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 209277,
       "num": 142085,
       "word": "德国教师16年病假领百万工资",
@@ -339,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197637,
+      "num": 197637,
+      "word": "七夕礼物",
+      "onboard_time": 1756178242,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194999,
       "num": 194999,
       "word": "日月星移爱旅相依",
       "onboard_time": 1756131623,
       "rank": 12,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 181130,
+      "num": 181130,
+      "word": "你的舌头一辈子都没休息过",
+      "onboard_time": 1756172722,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 181123,
@@ -355,27 +387,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 179610,
-      "num": 179610,
-      "word": "你的舌头一辈子都没休息过",
-      "onboard_time": 1756172722,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177648,
       "num": 177648,
       "word": "黄多多好像年轻的刘诗诗",
       "onboard_time": 1756120163,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 176943,
-      "num": 176943,
-      "word": "张万森 内娱下嫂子了",
-      "onboard_time": 1756178063,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -403,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158468,
+      "num": 158468,
+      "word": "毕雯珺新剧战战兢兢白切黑",
+      "onboard_time": 1756177882,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155825,
       "num": 155825,
       "word": "宇树科技被起诉",
@@ -425,14 +449,6 @@
       "onboard_time": 1756134507,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 147633,
-      "num": 147633,
-      "word": "印度男子烧死妻子被抓后竟称不后悔",
-      "onboard_time": 1756177581,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 145767,
@@ -483,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135482,
+      "num": 135482,
+      "word": "南京一流浪小狗跟跑3公里争取到幸福",
+      "onboard_time": 1756177523,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134087,
       "num": 134087,
       "word": "卫星互联网低轨10组卫星发射成功",
@@ -507,8 +531,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132282,
+      "num": 132282,
+      "word": "陈乔恩说艾伦敢不听她的话就死定了",
+      "onboard_time": 1756178542,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130930,
-      "num": 130930,
+      "num": 141362,
       "word": "四川82%县城15分钟上高速",
       "onboard_time": 1756174522,
       "rank": 31,
@@ -523,12 +555,44 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 128967,
+      "num": 128967,
+      "word": "和没主见但不扫兴的人做朋友",
+      "onboard_time": 1756178722,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128561,
+      "num": 131070,
+      "word": "中国女生日本遭骚扰当场反击",
+      "onboard_time": 1756178122,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 127762,
       "num": 148881,
       "word": "辛巴账号被接手后将复播",
       "onboard_time": 1756151535,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 126841,
+      "num": 126841,
+      "word": "胡军直播闯祸李乃文补刀",
+      "onboard_time": 1756176503,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126663,
+      "num": 126663,
+      "word": "这五个人打完水仗还回家吗",
+      "onboard_time": 1756177942,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 123594,
@@ -547,20 +611,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 121662,
-      "num": 121662,
-      "word": "胡军直播闯祸李乃文补刀",
-      "onboard_time": 1756176503,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 119962,
+      "num": 130283,
+      "word": "杨幂外出健身路透",
+      "onboard_time": 1756178602,
+      "rank": 38,
+      "category": "艺人"
     },
     {
-      "raw_hot": 120743,
-      "num": 120743,
-      "word": "南京一流浪小狗跟跑3公里争取到幸福",
-      "onboard_time": 1756177523,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 119766,
+      "num": 119766,
+      "word": "肖战回应专辑我们获奖",
+      "onboard_time": 1756178002,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 118906,
@@ -569,6 +633,14 @@
       "onboard_time": 1756164499,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115114,
+      "num": 115114,
+      "word": "王影璐女将军味有了",
+      "onboard_time": 1756178722,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 112473,
@@ -595,14 +667,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107737,
-      "num": 107737,
-      "word": "毕雯珺新剧战战兢兢白切黑",
-      "onboard_time": 1756177882,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105839,
       "num": 105839,
       "word": "张碧晨获亚洲最佳女歌手",
@@ -617,14 +681,6 @@
       "onboard_time": 1756134388,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103441,
-      "num": 103441,
-      "word": "这五个人打完水仗还回家吗",
-      "onboard_time": 1756177942,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 103435,
@@ -705,14 +761,6 @@
       "onboard_time": 1756172061,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 92214,
-      "num": 92214,
-      "word": "肖战回应专辑我们获奖",
-      "onboard_time": 1756178002,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 92202,
@@ -884,7 +932,7 @@
     },
     {
       "raw_hot": 70223,
-      "num": 89258,
+      "num": 110980,
       "word": "如何辨别和防范食脑虫感染",
       "onboard_time": 1756178063,
       "rank": 49,
@@ -955,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56807,
+      "num": 110776,
+      "word": "国乒出发回北京",
+      "onboard_time": 1756178782,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54764,
       "num": 57573,
       "word": "女子试图带孩子喂藏马熊险被袭击",
@@ -1003,6 +1059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38830,
+      "num": 152457,
+      "word": "九三阅兵集训动员也太燃了吧",
+      "onboard_time": 1756178842,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38677,
       "num": 51307,
       "word": "孙颖莎说和王曼昱彼此信任",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1756144156,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26504,
+      "num": 314928,
+      "word": "微博文化之夜年度荣誉",
+      "onboard_time": 1756177282,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24958,
@@ -1089,14 +1161,6 @@
       "onboard_time": 1756164920,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19003,
-      "num": 279974,
-      "word": "微博文化之夜年度荣誉",
-      "onboard_time": 1756177282,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 18153,
