@@ -1,12 +1,20 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756219395791,
+  "endTime": 1756222066585,
   "band_list": [
     {
       "raw_hot": 8546075,
       "num": 8546075,
       "word": "曝王鹤棣和神秘女友吵架",
       "onboard_time": 1756136547,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6884208,
+      "num": 6884208,
+      "word": "郑恺小姨子",
+      "onboard_time": 1756219584,
       "rank": 10,
       "category": "艺人"
     },
@@ -153,6 +161,14 @@
       "onboard_time": 1756181784,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 924232,
+      "num": 1147877,
+      "word": "郑恺工作室发声明",
+      "onboard_time": 1756220186,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 868757,
@@ -627,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411822,
+      "num": 197325,
+      "word": "Jennie长沙快闪店发夹169元",
+      "onboard_time": 1756218925,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409061,
       "num": 397307,
       "word": "张馨予 这是12年前吗",
@@ -763,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326954,
+      "num": 326954,
+      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
+      "onboard_time": 1756218142,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311710,
       "num": 311710,
       "word": "网红称吃火鸡面烧穿胃索赔7700万",
@@ -811,6 +843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 279485,
+      "num": 279485,
+      "word": "四川一小区发文将扑杀流浪猫",
+      "onboard_time": 1756213883,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270782,
       "num": 466233,
       "word": "深圳经济特区生日快乐",
@@ -857,6 +897,14 @@
       "onboard_time": 1756126944,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 261653,
+      "num": 192299,
+      "word": "谢霆锋与大儿子Lucas同框合影",
+      "onboard_time": 1756221026,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 258114,
@@ -945,14 +993,6 @@
       "onboard_time": 1756195402,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 237969,
-      "num": 237969,
-      "word": "四川一小区发文将扑杀流浪猫",
-      "onboard_time": 1756213883,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235831,
@@ -1219,6 +1259,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 199386,
+      "num": 199386,
+      "word": "鲁迅夹烟形象墙画不会换",
+      "onboard_time": 1756219284,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198631,
       "num": 198631,
       "word": "老人捅马蜂窝被蜇100多下去世",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1756199483,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196499,
+      "num": 196499,
+      "word": "谁懂一部8.2分动作片的含金量",
+      "onboard_time": 1756221085,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 195744,
@@ -1491,12 +1547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176984,
-      "num": 176984,
-      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
-      "onboard_time": 1756218142,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 176891,
+      "num": 176891,
+      "word": "吴京 狐狸京",
+      "onboard_time": 1756220967,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 176825,
@@ -1508,7 +1564,7 @@
     },
     {
       "raw_hot": 174782,
-      "num": 155699,
+      "num": 168494,
       "word": "韩国年夜饭",
       "onboard_time": 1756216164,
       "rank": 33,
@@ -1587,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168538,
+      "num": 168538,
+      "word": "川西高原藏了多少蓝宝石",
+      "onboard_time": 1756222044,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 168315,
       "num": 168315,
       "word": "未来头显会取代手机吗",
@@ -1617,14 +1681,6 @@
       "onboard_time": 1756215864,
       "rank": 33,
       "category": "综艺,电竞"
-    },
-    {
-      "raw_hot": 166040,
-      "num": 149928,
-      "word": "Jennie长沙快闪店发夹169元",
-      "onboard_time": 1756218925,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 165552,
@@ -1723,6 +1779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158730,
+      "num": 176581,
+      "word": "宋轶问洗澡戏丞磊红温了",
+      "onboard_time": 1756220606,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158647,
       "num": 158647,
       "word": "许你于晟 偷穿红衣只为嫁你一次",
@@ -1817,6 +1881,14 @@
       "onboard_time": 1756199121,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 153970,
+      "num": 153970,
+      "word": "张予曦毕雯珺用一个话筒",
+      "onboard_time": 1756220726,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 152482,
@@ -1987,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140934,
+      "num": 140934,
+      "word": "太可爱了借我养两天",
+      "onboard_time": 1756220786,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140586,
       "num": 140586,
       "word": "田曦薇张艺凡 奶牛猫比格犬",
@@ -2073,14 +2153,6 @@
       "onboard_time": 1756167203,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136207,
-      "num": 155489,
-      "word": "鲁迅夹烟形象墙画不会换",
-      "onboard_time": 1756219284,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136029,
@@ -2443,6 +2515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121388,
+      "num": 121388,
+      "word": "时代少年团压轴",
+      "onboard_time": 1756219165,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121256,
       "num": 121256,
       "word": "宋轶丞磊剧外姐狗味更浓了",
@@ -2481,14 +2561,6 @@
       "onboard_time": 1756164499,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118061,
-      "num": 118061,
-      "word": "时代少年团压轴",
-      "onboard_time": 1756219165,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 117802,
@@ -2635,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110405,
+      "num": 110405,
+      "word": "军训死亡女生尸检还需20多个工作日",
+      "onboard_time": 1756221444,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110377,
       "num": 110377,
       "word": "剑来全面开花的年度国漫IP",
@@ -2707,6 +2787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105300,
+      "num": 105300,
+      "word": "TES登峰组第一",
+      "onboard_time": 1756222044,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104596,
       "num": 104596,
       "word": "李现不愧是19年就让我心动的男人",
@@ -2729,6 +2817,14 @@
       "onboard_time": 1756204522,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102946,
+      "num": 104969,
+      "word": "馒头的绝配到底是什么啊",
+      "onboard_time": 1756216283,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 102807,
@@ -2953,6 +3049,14 @@
       "onboard_time": 1756134687,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81465,
+      "num": 137425,
+      "word": "这就是又美又飒的中国仪仗女兵",
+      "onboard_time": 1756220244,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80823,
@@ -3216,6 +3320,14 @@
       "word": "福布斯首次把封面交给一线劳动者",
       "onboard_time": 1756184482,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57278,
+      "num": 190228,
+      "word": "对离谱投诉态度应该更鲜明",
+      "onboard_time": 1756219823,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3609,6 +3721,14 @@
       "onboard_time": 1756196301,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20889,
+      "num": 196971,
+      "word": "科技让千年石窟会说话",
+      "onboard_time": 1756220486,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20596,

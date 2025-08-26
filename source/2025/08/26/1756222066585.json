@@ -1,0 +1,410 @@
+{
+  "runTime": 1756222066585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 924232,
+        "num": 1147877,
+        "word": "郑恺工作室发声明",
+        "onboard_time": 1756220186,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568155,
+        "num": 568155,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17080,
+        "num": 421200,
+        "word": "这是尹春燕和蔡永章的故事",
+        "onboard_time": 1756191502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415224,
+        "num": 415224,
+        "word": "育儿补贴不能被商家掏走",
+        "onboard_time": 1756209923,
+        "rank": 3,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 402285,
+        "num": 402285,
+        "word": "张予曦毕雯珺借位吻",
+        "onboard_time": 1756214662,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326954,
+        "num": 326954,
+        "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
+        "onboard_time": 1756218142,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324531,
+        "num": 324531,
+        "word": "柴鸡蛋招新",
+        "onboard_time": 1756214544,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279485,
+        "num": 279485,
+        "word": "四川一小区发文将扑杀流浪猫",
+        "onboard_time": 1756213883,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232632,
+        "num": 232632,
+        "word": "深圳经济特区生日快乐",
+        "onboard_time": 1756201822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199386,
+        "num": 199386,
+        "word": "鲁迅夹烟形象墙画不会换",
+        "onboard_time": 1756219284,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6884208,
+        "num": 6884208,
+        "word": "郑恺小姨子",
+        "onboard_time": 1756219584,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 841401,
+        "num": 198667,
+        "word": "高端伴游 色情交易",
+        "onboard_time": 1756210943,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 484993,
+        "num": 198046,
+        "word": "早期的张维伊",
+        "onboard_time": 1756213164,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411822,
+        "num": 197325,
+        "word": "Jennie长沙快闪店发夹169元",
+        "onboard_time": 1756218925,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20889,
+        "num": 196971,
+        "word": "科技让千年石窟会说话",
+        "onboard_time": 1756220486,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196499,
+        "num": 196499,
+        "word": "谁懂一部8.2分动作片的含金量",
+        "onboard_time": 1756221085,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407546,
+        "num": 195350,
+        "word": "许荔莎沈泰互关",
+        "onboard_time": 1756215983,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287614,
+        "num": 193776,
+        "word": "黄景瑜前妻点赞了许荔莎",
+        "onboard_time": 1756203742,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261653,
+        "num": 192299,
+        "word": "谢霆锋与大儿子Lucas同框合影",
+        "onboard_time": 1756221026,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57278,
+        "num": 190228,
+        "word": "对离谱投诉态度应该更鲜明",
+        "onboard_time": 1756219823,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390385,
+        "num": 189958,
+        "word": "女子月用电近2000度不敢开空调",
+        "onboard_time": 1756211482,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290165,
+        "num": 187069,
+        "word": "奚梦瑶回宫",
+        "onboard_time": 1756205003,
+        "rank": 21,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 229174,
+        "num": 185661,
+        "word": "叶舒华汉服",
+        "onboard_time": 1756209083,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225845,
+        "num": 183693,
+        "word": "建议在26岁之前谈恋爱",
+        "onboard_time": 1756210463,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183428,
+        "num": 183428,
+        "word": "日本人在台北闹市区展示五星红旗",
+        "onboard_time": 1756211965,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176891,
+        "num": 176891,
+        "word": "吴京 狐狸京",
+        "onboard_time": 1756220967,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158730,
+        "num": 176581,
+        "word": "宋轶问洗澡戏丞磊红温了",
+        "onboard_time": 1756220606,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154818,
+        "num": 176429,
+        "word": "献鱼",
+        "onboard_time": 1756218325,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176427,
+        "num": 176427,
+        "word": "许凯被曝劈腿后节目未受影响",
+        "onboard_time": 1756202722,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35804,
+        "num": 170799,
+        "word": "张艺兴现身敦煌",
+        "onboard_time": 1756217544,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168538,
+        "num": 168538,
+        "word": "川西高原藏了多少蓝宝石",
+        "onboard_time": 1756222044,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 168494,
+        "num": 168494,
+        "word": "韩国年夜饭",
+        "onboard_time": 1756216164,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155528,
+        "num": 155528,
+        "word": "印度一孕妇被丈夫勒死并肢解",
+        "onboard_time": 1756209623,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154229,
+        "num": 154229,
+        "word": "你和我说这是华晨宇",
+        "onboard_time": 1756200023,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153970,
+        "num": 153970,
+        "word": "张予曦毕雯珺用一个话筒",
+        "onboard_time": 1756220726,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143075,
+        "num": 143075,
+        "word": "6点半下班真的好残忍啊",
+        "onboard_time": 1756203022,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140934,
+        "num": 140934,
+        "word": "太可爱了借我养两天",
+        "onboard_time": 1756220786,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81465,
+        "num": 137425,
+        "word": "这就是又美又飒的中国仪仗女兵",
+        "onboard_time": 1756220244,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136875,
+        "num": 136875,
+        "word": "深圳欢乐谷被指有擦边表演",
+        "onboard_time": 1756206982,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131306,
+        "num": 131306,
+        "word": "孟子义jennie穿了同款",
+        "onboard_time": 1756207342,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131298,
+        "num": 131298,
+        "word": "子夜归男二掀桌",
+        "onboard_time": 1756204884,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121388,
+        "num": 121388,
+        "word": "时代少年团压轴",
+        "onboard_time": 1756219165,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120093,
+        "num": 120093,
+        "word": "能不能一键快进到下周三",
+        "onboard_time": 1756217604,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119376,
+        "num": 119376,
+        "word": "李雪琴胃里切了8个息肉",
+        "onboard_time": 1756190484,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114841,
+        "num": 114841,
+        "word": "苏醒主持",
+        "onboard_time": 1756217544,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113485,
+        "num": 113485,
+        "word": "小酒窝回应暑假赚奶粉钱",
+        "onboard_time": 1756201042,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110405,
+        "num": 110405,
+        "word": "军训死亡女生尸检还需20多个工作日",
+        "onboard_time": 1756221444,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105300,
+        "num": 105300,
+        "word": "TES登峰组第一",
+        "onboard_time": 1756222044,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102946,
+        "num": 104969,
+        "word": "馒头的绝配到底是什么啊",
+        "onboard_time": 1756216283,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78554,
+        "num": 104952,
+        "word": "王楚钦撤回一个王楚钦",
+        "onboard_time": 1756217544,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}
