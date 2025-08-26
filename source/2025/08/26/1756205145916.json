@@ -1,0 +1,410 @@
+{
+  "runTime": 1756205145916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315116,
+        "num": 1315116,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701432,
+        "num": 701432,
+        "word": "特朗普就稀土威胁对华征200%关税",
+        "onboard_time": 1756201764,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6017,
+        "num": 531469,
+        "word": "让战歌点燃我们的烽火记忆",
+        "onboard_time": 1756205123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458910,
+        "num": 458910,
+        "word": "张维伊 庆余年2侯季常",
+        "onboard_time": 1756195942,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446561,
+        "num": 446561,
+        "word": "VOGUE二十周年群模封面",
+        "onboard_time": 1756203623,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 439464,
+        "num": 439464,
+        "word": "你和我说这是华晨宇",
+        "onboard_time": 1756200023,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68076,
+        "num": 439311,
+        "word": "中国军人一声声到太燃了",
+        "onboard_time": 1756188923,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290057,
+        "num": 437444,
+        "word": "王楚钦 李宁",
+        "onboard_time": 1756203804,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266347,
+        "num": 435842,
+        "word": "谁家短剧能请来半个娱乐圈啊",
+        "onboard_time": 1756190362,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168778,
+        "num": 435124,
+        "word": "中方提出严肃交涉要求日方澄清",
+        "onboard_time": 1756197923,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1232637,
+        "num": 432931,
+        "word": "柴鸡蛋求推荐新人",
+        "onboard_time": 1756204282,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863918,
+        "num": 431994,
+        "word": "小酒窝回应暑假赚奶粉钱",
+        "onboard_time": 1756201042,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253035,
+        "num": 430519,
+        "word": "美美sunday丑丑monday",
+        "onboard_time": 1756195283,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 561312,
+        "num": 429473,
+        "word": "许凯被曝劈腿后节目未受影响",
+        "onboard_time": 1756202722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428882,
+        "num": 428882,
+        "word": "赵文卓女儿 远看以为黄圣依",
+        "onboard_time": 1756196365,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190630,
+        "num": 425789,
+        "word": "刘耀文明天还回公司干吗",
+        "onboard_time": 1756204402,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181084,
+        "num": 421870,
+        "word": "严浩翔饭撒粉丝接不住",
+        "onboard_time": 1756204043,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101831,
+        "num": 416682,
+        "word": "投诉鲁迅者推广尼古丁袋涉嫌违法",
+        "onboard_time": 1756204282,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37044,
+        "num": 414381,
+        "word": "马龙Q你即刻出发",
+        "onboard_time": 1756203142,
+        "rank": 18,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 412404,
+        "num": 412404,
+        "word": "网红固原二狗遇难",
+        "onboard_time": 1756200082,
+        "rank": 19,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 374193,
+        "num": 374193,
+        "word": "黄景瑜前妻点赞了许荔莎",
+        "onboard_time": 1756203742,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360109,
+        "num": 360109,
+        "word": "李雪琴胃里切了8个息肉",
+        "onboard_time": 1756190484,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307477,
+        "num": 307477,
+        "word": "建议大家不要过度存钱",
+        "onboard_time": 1756191563,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 663890,
+        "num": 284347,
+        "word": "晚晚晒镯子",
+        "onboard_time": 1756196543,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212566,
+        "num": 248792,
+        "word": "新拍的王楚钦",
+        "onboard_time": 1756202901,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237545,
+        "num": 237545,
+        "word": "6点半下班真的好残忍啊",
+        "onboard_time": 1756203022,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382634,
+        "num": 228629,
+        "word": "王鹤棣今天上班还开开心心的",
+        "onboard_time": 1756195402,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218123,
+        "num": 218123,
+        "word": "吴昕体重直逼100斤",
+        "onboard_time": 1756192223,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167221,
+        "num": 191879,
+        "word": "国航一伦敦飞北京客机迫降俄罗斯",
+        "onboard_time": 1756204102,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147926,
+        "num": 180354,
+        "word": "子夜归男二掀桌",
+        "onboard_time": 1756204884,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179124,
+        "num": 179124,
+        "word": "张凯毅说想过离婚",
+        "onboard_time": 1756204582,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175679,
+        "num": 175679,
+        "word": "美团退款自查攻略",
+        "onboard_time": 1756197024,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172548,
+        "num": 172548,
+        "word": "特朗普称中国鲤鱼入侵五大湖",
+        "onboard_time": 1756201342,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176316,
+        "num": 171719,
+        "word": "杨威被儿子千元计算器暴击",
+        "onboard_time": 1756203263,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160993,
+        "num": 170161,
+        "word": "日本一股否认侵略历史逆流持续涌动",
+        "onboard_time": 1756195523,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169554,
+        "num": 169554,
+        "word": "Kpop上新男团",
+        "onboard_time": 1756204823,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163904,
+        "num": 163904,
+        "word": "中方回应特朗普希望尽快访华",
+        "onboard_time": 1756195463,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134271,
+        "num": 159468,
+        "word": "奚梦瑶回宫",
+        "onboard_time": 1756205003,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 103286,
+        "num": 158091,
+        "word": "黑神话钟馗但是FPS",
+        "onboard_time": 1756204522,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157782,
+        "num": 157782,
+        "word": "花30万闪婚一月不到人财两空",
+        "onboard_time": 1756195402,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134299,
+        "num": 134299,
+        "word": "外交部回应日本的抗战胜利纪念负面言论",
+        "onboard_time": 1756197083,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117709,
+        "num": 134057,
+        "word": "李兰迪丁禹兮在接触邓科新剧",
+        "onboard_time": 1756201222,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133995,
+        "num": 133995,
+        "word": "韩国人称川航发馒头不卫生",
+        "onboard_time": 1756189103,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128750,
+        "num": 128750,
+        "word": "脱口秀知网诞生了",
+        "onboard_time": 1756203142,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126982,
+        "num": 126982,
+        "word": "VOGUE",
+        "onboard_time": 1756203263,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 116719,
+        "num": 116719,
+        "word": "子夜归爆改嫂子夜归",
+        "onboard_time": 1756201882,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116476,
+        "num": 116476,
+        "word": "格力高管喊话小米",
+        "onboard_time": 1756202363,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113217,
+        "num": 113217,
+        "word": "内娱演员平台评级",
+        "onboard_time": 1756201822,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110377,
+        "num": 110377,
+        "word": "剑来全面开花的年度国漫IP",
+        "onboard_time": 1756205123,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 106154,
+        "num": 106154,
+        "word": "中方回应特朗普就稀土关税威胁",
+        "onboard_time": 1756203202,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平夫妇会见柬埔寨国王和太后#"
+    }
+  }
+}
