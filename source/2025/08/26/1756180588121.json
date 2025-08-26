@@ -1,0 +1,410 @@
+{
+  "runTime": 1756180588121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 822354,
+        "num": 1131576,
+        "word": "赴山海",
+        "onboard_time": 1756175183,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 739909,
+        "num": 739909,
+        "word": "李在明说愿意与特朗普一起访华",
+        "onboard_time": 1756177523,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112064,
+        "num": 644382,
+        "word": "中国地下700米有了个全球第一",
+        "onboard_time": 1756169425,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627490,
+        "num": 627490,
+        "word": "张元英 宝格丽",
+        "onboard_time": 1756176681,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 429112,
+        "num": 429112,
+        "word": "看中国阅兵一整个舒适了",
+        "onboard_time": 1756172722,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378506,
+        "num": 378506,
+        "word": "40岁男子因情感纠纷致2死1伤",
+        "onboard_time": 1756171342,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 353239,
+        "num": 353239,
+        "word": "高速有人戴恐怖面具吓车",
+        "onboard_time": 1756135406,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333546,
+        "num": 333546,
+        "word": "王牌9飞行嘉宾官宣",
+        "onboard_time": 1756177161,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283849,
+        "num": 283849,
+        "word": "红舞鞋",
+        "onboard_time": 1756165701,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123968,
+        "num": 283285,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756179923,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1844700,
+        "num": 279971,
+        "word": "张万森 内娱下嫂子了",
+        "onboard_time": 1756178063,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687271,
+        "num": 273160,
+        "word": "王鹤棣方回应网传录音",
+        "onboard_time": 1756164920,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543011,
+        "num": 269623,
+        "word": "董璇小酒窝在机场没走出来过",
+        "onboard_time": 1756172783,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358375,
+        "num": 266053,
+        "word": "馆方称不会轻易改变鲁迅形象",
+        "onboard_time": 1756173622,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23923,
+        "num": 264685,
+        "word": "微博文化之夜年度荣誉",
+        "onboard_time": 1756177282,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175262,
+        "num": 258470,
+        "word": "姑娘跳河救了人才哭着说好怕",
+        "onboard_time": 1756168643,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63915,
+        "num": 258170,
+        "word": "深圳特区建立45周年",
+        "onboard_time": 1756169425,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 352990,
+        "num": 251196,
+        "word": "曝王鹤棣和神秘女友吵架",
+        "onboard_time": 1756136547,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308276,
+        "num": 247602,
+        "word": "25年出生的人已经2000岁了",
+        "onboard_time": 1756165942,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25415,
+        "num": 245377,
+        "word": "高速戴恐怖面具吓人不如露脸道歉",
+        "onboard_time": 1756179080,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243926,
+        "num": 243926,
+        "word": "中国女生日本遭骚扰当场反击",
+        "onboard_time": 1756178122,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234492,
+        "num": 234492,
+        "word": "印度男子烧死妻子被抓后竟称不后悔",
+        "onboard_time": 1756177581,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 223513,
+        "num": 223513,
+        "word": "欧阳娜娜还是太谨慎了",
+        "onboard_time": 1756174822,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218209,
+        "num": 218209,
+        "word": "黄霄雲舅妈癌症去世",
+        "onboard_time": 1756173802,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213608,
+        "num": 213608,
+        "word": "王楚钦来上海了",
+        "onboard_time": 1756179563,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204489,
+        "num": 204489,
+        "word": "杨幂外出健身路透",
+        "onboard_time": 1756178602,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202545,
+        "num": 202545,
+        "word": "陈乔恩说艾伦敢不听她的话就死定了",
+        "onboard_time": 1756178542,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171164,
+        "num": 171164,
+        "word": "房东的猫双女主的含金量",
+        "onboard_time": 1756178661,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99733,
+        "num": 161935,
+        "word": "何小鹏深夜探班P7用户试驾送大麦茶",
+        "onboard_time": 1756179563,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138867,
+        "num": 161175,
+        "word": "王影璐女将军味有了",
+        "onboard_time": 1756178722,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160815,
+        "num": 160815,
+        "word": "何以深圳",
+        "onboard_time": 1756176742,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154820,
+        "num": 154820,
+        "word": "中国学生赴美被查80多小时遭遣返",
+        "onboard_time": 1756174582,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93258,
+        "num": 153958,
+        "word": "天猫WBG",
+        "onboard_time": 1756180344,
+        "rank": 32,
+        "category": "电竞,互联网"
+      },
+      {
+        "raw_hot": 153595,
+        "num": 153595,
+        "word": "男子不满女儿嫁70岁老头雇凶杀婿",
+        "onboard_time": 1756179803,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149889,
+        "num": 149889,
+        "word": "德国已无法维持高福利",
+        "onboard_time": 1756172003,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147697,
+        "num": 147697,
+        "word": "因为想睡觉而离职",
+        "onboard_time": 1756172661,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66134,
+        "num": 136258,
+        "word": "3岁女童16楼坠亡物业仅愿赔1万",
+        "onboard_time": 1756180523,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115203,
+        "num": 134905,
+        "word": "男子因店主忘打彩票错失400万",
+        "onboard_time": 1756179803,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134706,
+        "num": 134706,
+        "word": "你的舌头一辈子都没休息过",
+        "onboard_time": 1756172722,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60457,
+        "num": 133757,
+        "word": "不管e人i人欢迎来厦门",
+        "onboard_time": 1756179503,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133519,
+        "num": 133519,
+        "word": "田栩宁或将登费加罗封面",
+        "onboard_time": 1756180102,
+        "rank": 40,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 130422,
+        "num": 130422,
+        "word": "李佳琦扫地扫到音响开关了",
+        "onboard_time": 1756180163,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127660,
+        "num": 127660,
+        "word": "穷游的年轻人在大同排队出国",
+        "onboard_time": 1756180223,
+        "rank": 42,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 85339,
+        "num": 127067,
+        "word": "金裕贞你演得我害怕",
+        "onboard_time": 1756179322,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126919,
+        "num": 126919,
+        "word": "子夜归",
+        "onboard_time": 1756175481,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125626,
+        "num": 125626,
+        "word": "郑乃馨又起飞了",
+        "onboard_time": 1756180523,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48158,
+        "num": 123677,
+        "word": "真想一键快进到阅兵当天",
+        "onboard_time": 1756127724,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123325,
+        "num": 123325,
+        "word": "四川82%县城15分钟上高速",
+        "onboard_time": 1756174522,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120024,
+        "num": 120024,
+        "word": "南京一流浪小狗跟跑3公里争取到幸福",
+        "onboard_time": 1756177523,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115681,
+        "num": 115681,
+        "word": "张骏脱口秀",
+        "onboard_time": 1756175241,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
+    }
+  }
+}
