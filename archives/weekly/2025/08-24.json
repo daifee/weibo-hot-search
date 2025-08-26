@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756165168979,
+  "endTime": 1756173428053,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1192541,
+      "num": 316741,
+      "word": "王鹤棣方回应网传录音",
+      "onboard_time": 1756164920,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1185525,
       "num": 1189684,
       "word": "杨幂爆剧玄学",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1088892,
-      "num": 1088892,
+      "num": 1164866,
       "word": "高速有人戴恐怖面具吓车",
       "onboard_time": 1756135406,
       "rank": 22,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 592533,
-      "num": 289496,
+      "num": 313679,
       "word": "何晟铭朋友圈 山水一程永不相逢",
       "onboard_time": 1756133006,
       "rank": 35,
@@ -873,6 +881,14 @@
       "onboard_time": 1756077499,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 556035,
+      "num": 315899,
+      "word": "25年出生的人已经2000岁了",
+      "onboard_time": 1756165942,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 554700,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1756001602,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511815,
+      "num": 511815,
+      "word": "40岁男子因情感纠纷致2死1伤",
+      "onboard_time": 1756171342,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 508867,
@@ -1371,11 +1395,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402486,
+      "num": 402486,
+      "word": "中国地下700米有了个全球第一",
+      "onboard_time": 1756169425,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398763,
       "num": 398763,
       "word": "98岁老人头上长皮角自行剪除",
       "onboard_time": 1756053621,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392890,
+      "num": 392890,
+      "word": "民生银行回应落马副行长当网红",
+      "onboard_time": 1756168824,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1400,6 +1440,14 @@
       "word": "献鱼编剧",
       "onboard_time": 1756100304,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 383538,
+      "num": 383538,
+      "word": "杨幂在生万物中素颜增重",
+      "onboard_time": 1756168282,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -1465,6 +1513,14 @@
       "onboard_time": 1756050564,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370703,
+      "num": 370703,
+      "word": "不小心瘦过头了",
+      "onboard_time": 1756164679,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 370168,
@@ -1555,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352083,
+      "num": 352083,
+      "word": "姑娘跳河救了人才哭着说好怕",
+      "onboard_time": 1756168643,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347105,
       "num": 347105,
       "word": "上海暴雨",
@@ -1643,6 +1707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 329439,
+      "num": 329439,
+      "word": "红舞鞋",
+      "onboard_time": 1756165701,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326898,
       "num": 326898,
       "word": "意大利厕所文化",
@@ -1697,6 +1769,14 @@
       "onboard_time": 1756131984,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317605,
+      "num": 317605,
+      "word": "看中国阅兵一整个舒适了",
+      "onboard_time": 1756172722,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317500,
@@ -1955,6 +2035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 261704,
+      "num": 261704,
+      "word": "刘宇宁扶汪苏泷",
+      "onboard_time": 1756171401,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 260596,
       "num": 335253,
       "word": "1986年绣绣走了杨幂出生了",
@@ -2033,6 +2121,14 @@
       "onboard_time": 1756108342,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250635,
+      "num": 250635,
+      "word": "董璇小酒窝在机场没走出来过",
+      "onboard_time": 1756172783,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 250500,
@@ -2177,6 +2273,14 @@
       "onboard_time": 1755990918,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231725,
+      "num": 231725,
+      "word": "金泰亨开球",
+      "onboard_time": 1756172302,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 231168,
@@ -2507,12 +2611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202598,
+      "num": 202598,
+      "word": "深圳特区建立45周年",
+      "onboard_time": 1756169425,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200966,
       "num": 200966,
       "word": "银子结局",
       "onboard_time": 1755959067,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200780,
+      "num": 200780,
+      "word": "老瓦赞孙颖莎史上最全面",
+      "onboard_time": 1756172722,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 200632,
@@ -3163,6 +3283,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 180464,
+      "num": 180464,
+      "word": "德国已无法维持高福利",
+      "onboard_time": 1756172003,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179454,
       "num": 179454,
       "word": "易烊千玺这声哦呦",
@@ -3763,6 +3891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155825,
+      "num": 155825,
+      "word": "宇树科技被起诉",
+      "onboard_time": 1756172722,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 155500,
       "num": 155500,
       "word": "TMEA盛典这么顶吗",
@@ -3816,6 +3952,14 @@
       "word": "一代人有一代人的白蛇许仙",
       "onboard_time": 1756127783,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154337,
+      "num": 154337,
+      "word": "王子奇确定出演红舞鞋",
+      "onboard_time": 1756165461,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -4009,14 +4153,6 @@
       "onboard_time": 1756031603,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148034,
-      "num": 134683,
-      "word": "王鹤棣方回应网传录音",
-      "onboard_time": 1756164920,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 148028,
@@ -4475,6 +4611,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 137175,
+      "num": 137175,
+      "word": "你的舌头一辈子都没休息过",
+      "onboard_time": 1756172722,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136769,
       "num": 185629,
       "word": "胡军为演归队减重37斤",
@@ -4491,12 +4635,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136730,
+      "num": 136567,
+      "word": "小佳 他就只是Kid",
+      "onboard_time": 1756169123,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 136725,
+      "num": 136725,
+      "word": "莲花楼暑期爆款剧王第二",
+      "onboard_time": 1756171401,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136666,
       "num": 195185,
       "word": "这短短40秒看得心酸",
       "onboard_time": 1756016781,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136367,
+      "num": 136367,
+      "word": "发现现在旅游和预制菜一样",
+      "onboard_time": 1756167203,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 136261,
@@ -4513,6 +4681,14 @@
       "onboard_time": 1756084883,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136029,
+      "num": 136029,
+      "word": "刘亦菲38岁的生日祝福送给了大家",
+      "onboard_time": 1756172422,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 135566,
@@ -4601,6 +4777,14 @@
       "onboard_time": 1756023983,
       "rank": 43,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 132468,
+      "num": 132468,
+      "word": "内娱收视代表",
+      "onboard_time": 1756164561,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 132279,
@@ -5033,6 +5217,14 @@
       "onboard_time": 1756090041,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121893,
+      "num": 121893,
+      "word": "关晓彤新中式妆造",
+      "onboard_time": 1756172003,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121796,
@@ -5611,6 +5803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111335,
+      "num": 111335,
+      "word": "小蝶 退役",
+      "onboard_time": 1756169903,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110973,
       "num": 110973,
       "word": "余承东首谈为什么要造旅行车",
@@ -6035,6 +6235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103435,
+      "num": 103435,
+      "word": "美拟对印度征50%关税",
+      "onboard_time": 1756164920,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 103159,
       "num": 132359,
       "word": "最低工资迎来普调",
@@ -6121,6 +6329,14 @@
       "onboard_time": 1756008323,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101778,
+      "num": 101778,
+      "word": "只有在中国才能吸到的荒漠猫",
+      "onboard_time": 1756169002,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101675,
@@ -6403,6 +6619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96393,
+      "num": 96393,
+      "word": "孙颖莎又迷路了",
+      "onboard_time": 1756171162,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96355,
+      "num": 96355,
+      "word": "碎片化睡眠可能增加患癌风险",
+      "onboard_time": 1756169662,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96252,
       "num": 96252,
       "word": "Xiaohai卫冕EWC街霸6冠军",
@@ -6523,6 +6755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92543,
+      "num": 92543,
+      "word": "美国底层生活现状",
+      "onboard_time": 1756170804,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92469,
       "num": 92469,
       "word": "王皓拍肩膀安慰林诗栋",
@@ -6569,6 +6809,14 @@
       "onboard_time": 1756103543,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90735,
+      "num": 90735,
+      "word": "这才叫出去玩",
+      "onboard_time": 1756172903,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 89722,
@@ -7147,6 +7395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65245,
+      "num": 611609,
+      "word": "真想一键快进到阅兵当天",
+      "onboard_time": 1756127724,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64570,
       "num": 64570,
       "word": "林诗栋上演樊振东式逆转",
@@ -7195,14 +7451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63268,
-      "num": 611609,
-      "word": "真想一键快进到阅兵当天",
-      "onboard_time": 1756127724,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63014,
       "num": 279332,
       "word": "男子与村民有矛盾杀害对方12岁孩子",
@@ -7233,14 +7481,6 @@
       "onboard_time": 1756077798,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60612,
-      "num": 69125,
-      "word": "内娱收视代表",
-      "onboard_time": 1756164561,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 60397,
@@ -7457,14 +7697,6 @@
       "onboard_time": 1755963805,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50788,
-      "num": 50788,
-      "word": "不小心瘦过头了",
-      "onboard_time": 1756164679,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 50306,
@@ -8139,14 +8371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23553,
-      "num": 83069,
-      "word": "美拟对印度征50%关税",
-      "onboard_time": 1756164920,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 23338,
       "num": 58029,
       "word": "落马官员儿子单次赌球投入超百万",
@@ -8257,6 +8481,14 @@
       "onboard_time": 1756064115,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20596,
+      "num": 96365,
+      "word": "雪饼猴12岁卖奖品给爷爷治病",
+      "onboard_time": 1756173382,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 20566,

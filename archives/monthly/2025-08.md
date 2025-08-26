@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/26 07:39:28
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/26 09:57:08
 </p>
 </blockquote>
 <p>
@@ -2561,6 +2561,12 @@ FRED斐登 鞠婧祎（热度：1214542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%E5%BD%95%E5%88%B6%E7%BB%93%E6%9D%9F%E5%93%AD%E6%88%90%E4%B8%80%E7%89%87%23" target="weibo">
 花少7录制结束哭成一片（热度：1195124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%BD%95%E9%9F%B3%23" target="weibo">
+王鹤棣方回应网传录音（热度：1192541）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ ELK亮小丑（热度：699921）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E4%B8%87%E7%89%A9%E5%AE%9A%E6%A1%A3%23" target="weibo">
 生万物定档（热度：695764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B9%B2%23" target="weibo">
-苹果干（热度：694779）
 </a>
 </li>
 
