@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/27 01:40:37
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/27 02:35:33
 </p>
 </blockquote>
 <p>
@@ -689,6 +689,12 @@ TFBOYS十二周年（热度：2366610）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%A5%E8%AD%A6%23" target="weibo">
 白鹿报警（热度：2183688）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E8%AE%A2%E5%A9%9A%23" target="weibo">
+霉霉订婚（热度：2173967）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WBG对战iG（热度：714161）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%23" target="weibo">
 光遇（热度：713198）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%A1%95%E5%A3%AB%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E8%B7%AF%E4%B9%9F%E5%BF%AB%E6%B2%A1%E4%BA%86%23" target="weibo">
-文科硕士的最后一条路也快没了（热度：713191）
 </a>
 </li>
 
