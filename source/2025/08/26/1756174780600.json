@@ -1,0 +1,410 @@
+{
+  "runTime": 1756174780600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 804359,
+        "num": 1128697,
+        "word": "高速有人戴恐怖面具吓车",
+        "onboard_time": 1756135406,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664168,
+        "num": 664168,
+        "word": "40岁男子因情感纠纷致2死1伤",
+        "onboard_time": 1756171342,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 56298,
+        "num": 455638,
+        "word": "真想一键快进到阅兵当天",
+        "onboard_time": 1756127724,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 454511,
+        "num": 454511,
+        "word": "中国地下700米有了个全球第一",
+        "onboard_time": 1756169425,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344944,
+        "num": 344944,
+        "word": "看中国阅兵一整个舒适了",
+        "onboard_time": 1756172722,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331470,
+        "num": 331470,
+        "word": "姑娘跳河救了人才哭着说好怕",
+        "onboard_time": 1756168643,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323398,
+        "num": 323398,
+        "word": "民生银行回应落马副行长当网红",
+        "onboard_time": 1756168824,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293100,
+        "num": 293100,
+        "word": "红舞鞋",
+        "onboard_time": 1756165701,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274422,
+        "num": 274422,
+        "word": "杨幂在生万物中素颜增重",
+        "onboard_time": 1756168282,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267684,
+        "num": 267684,
+        "word": "刘宇宁扶汪苏泷",
+        "onboard_time": 1756171401,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 961779,
+        "num": 267453,
+        "word": "王鹤棣方回应网传录音",
+        "onboard_time": 1756164920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666414,
+        "num": 266839,
+        "word": "董璇小酒窝在机场没走出来过",
+        "onboard_time": 1756172783,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463823,
+        "num": 266609,
+        "word": "25年出生的人已经2000岁了",
+        "onboard_time": 1756165942,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139206,
+        "num": 265976,
+        "word": "数日子期待看阅兵",
+        "onboard_time": 1756174043,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265846,
+        "num": 265846,
+        "word": "何晟铭朋友圈 山水一程永不相逢",
+        "onboard_time": 1756133006,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408668,
+        "num": 265347,
+        "word": "曝王鹤棣和神秘女友吵架",
+        "onboard_time": 1756136547,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264443,
+        "num": 264443,
+        "word": "不小心瘦过头了",
+        "onboard_time": 1756164679,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254566,
+        "num": 254566,
+        "word": "金泰亨开球",
+        "onboard_time": 1756172302,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 144238,
+        "num": 247338,
+        "word": "刘浩存宋威龙 簪星",
+        "onboard_time": 1756137324,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156304,
+        "num": 244184,
+        "word": "馆方称不会轻易改变鲁迅形象",
+        "onboard_time": 1756173622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241168,
+        "num": 241168,
+        "word": "深圳特区建立45周年",
+        "onboard_time": 1756169425,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221919,
+        "num": 221919,
+        "word": "网红称吃火鸡面烧穿胃索赔7700万",
+        "onboard_time": 1756132044,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181933,
+        "num": 181933,
+        "word": "德国已无法维持高福利",
+        "onboard_time": 1756172003,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161432,
+        "num": 161432,
+        "word": "黄霄雲舅妈癌症去世",
+        "onboard_time": 1756173802,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145767,
+        "num": 145767,
+        "word": "莲花楼暑期爆款剧王第二",
+        "onboard_time": 1756171401,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142913,
+        "num": 142913,
+        "word": "带这些字眼的奶茶尽量别点",
+        "onboard_time": 1756126944,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137623,
+        "num": 137623,
+        "word": "男网红娶残障老婆事件调查结果",
+        "onboard_time": 1756128984,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 133105,
+        "num": 133105,
+        "word": "因为想睡觉而离职",
+        "onboard_time": 1756172661,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132307,
+        "num": 132307,
+        "word": "kid退赛",
+        "onboard_time": 1756134208,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110719,
+        "num": 131288,
+        "word": "关晓彤新中式妆造",
+        "onboard_time": 1756172003,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129038,
+        "num": 130958,
+        "word": "早起4个动作帮你减肥",
+        "onboard_time": 1756174102,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130930,
+        "num": 130930,
+        "word": "四川82%县城15分钟上高速",
+        "onboard_time": 1756174522,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118323,
+        "num": 118323,
+        "word": "老瓦赞孙颖莎史上最全面",
+        "onboard_time": 1756172722,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111936,
+        "num": 111936,
+        "word": "中国学生赴美被查80多小时遭遣返",
+        "onboard_time": 1756174582,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110872,
+        "num": 110872,
+        "word": "刘亦菲38岁的生日祝福送给了大家",
+        "onboard_time": 1756172422,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107457,
+        "num": 107457,
+        "word": "内娱收视代表",
+        "onboard_time": 1756164561,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245994,
+        "num": 107053,
+        "word": "kid疑似抄袭",
+        "onboard_time": 1756173742,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105319,
+        "num": 105319,
+        "word": "独居女生深夜开锁被索要2410元",
+        "onboard_time": 1756135108,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103278,
+        "num": 103278,
+        "word": "发现现在旅游和预制菜一样",
+        "onboard_time": 1756167203,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100056,
+        "num": 100056,
+        "word": "王玉雯你真的火了",
+        "onboard_time": 1756124663,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98915,
+        "num": 98915,
+        "word": "王子奇确定出演红舞鞋",
+        "onboard_time": 1756165461,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97809,
+        "num": 97809,
+        "word": "你的舌头一辈子都没休息过",
+        "onboard_time": 1756172722,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95333,
+        "num": 95333,
+        "word": "蔚来跌近8%",
+        "onboard_time": 1756174701,
+        "rank": 42,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 92499,
+        "num": 92499,
+        "word": "特朗普吐槽国防部名字不霸气",
+        "onboard_time": 1756172061,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92202,
+        "num": 92202,
+        "word": "网友帮鲁迅P图",
+        "onboard_time": 1756173502,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91086,
+        "num": 91086,
+        "word": "老人捅马蜂窝被蜇100多下去世",
+        "onboard_time": 1756136247,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90290,
+        "num": 90290,
+        "word": "卫星互联网低轨10组卫星发射成功",
+        "onboard_time": 1756163959,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89631,
+        "num": 89631,
+        "word": "只有在中国才能吸到的荒漠猫",
+        "onboard_time": 1756169002,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89275,
+        "num": 89275,
+        "word": "小蝶 退役",
+        "onboard_time": 1756169903,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84952,
+        "num": 84952,
+        "word": "从一颗痣到确诊癌症",
+        "onboard_time": 1756128382,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#这条路和这群人习近平记在心上#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756173428053,
+  "endTime": 1756174780600,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -27,6 +27,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 666414,
+      "num": 266839,
+      "word": "董璇小酒窝在机场没走出来过",
+      "onboard_time": 1756172783,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 664168,
+      "num": 664168,
+      "word": "40岁男子因情感纠纷致2死1伤",
+      "onboard_time": 1756171342,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 556035,
       "num": 315899,
       "word": "25年出生的人已经2000岁了",
@@ -35,12 +51,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 511815,
-      "num": 511815,
-      "word": "40岁男子因情感纠纷致2死1伤",
-      "onboard_time": 1756171342,
-      "rank": 1,
-      "category": "辟谣/通报"
+      "raw_hot": 454511,
+      "num": 454511,
+      "word": "中国地下700米有了个全球第一",
+      "onboard_time": 1756169425,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 436759,
@@ -49,14 +65,6 @@
       "onboard_time": 1756133006,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 402486,
-      "num": 402486,
-      "word": "中国地下700米有了个全球第一",
-      "onboard_time": 1756169425,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401270,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344944,
+      "num": 344944,
+      "word": "看中国阅兵一整个舒适了",
+      "onboard_time": 1756172722,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 341779,
       "num": 341779,
       "word": "刘浩存宋威龙 簪星",
@@ -121,14 +137,6 @@
       "onboard_time": 1756165701,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317605,
-      "num": 317605,
-      "word": "看中国阅兵一整个舒适了",
-      "onboard_time": 1756172722,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 311710,
@@ -155,6 +163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 267684,
+      "num": 267684,
+      "word": "刘宇宁扶汪苏泷",
+      "onboard_time": 1756171401,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263695,
       "num": 263695,
       "word": "带这些字眼的奶茶尽量别点",
@@ -163,28 +179,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 261704,
-      "num": 261704,
-      "word": "刘宇宁扶汪苏泷",
-      "onboard_time": 1756171401,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250635,
-      "num": 250635,
-      "word": "董璇小酒窝在机场没走出来过",
-      "onboard_time": 1756172783,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 231725,
-      "num": 231725,
+      "raw_hot": 254566,
+      "num": 254566,
       "word": "金泰亨开球",
       "onboard_time": 1756172302,
       "rank": 17,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 245994,
+      "num": 107053,
+      "word": "kid疑似抄袭",
+      "onboard_time": 1756173742,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241168,
+      "num": 241168,
+      "word": "深圳特区建立45周年",
+      "onboard_time": 1756169425,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226049,
@@ -227,14 +243,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 202598,
-      "num": 202598,
-      "word": "深圳特区建立45周年",
-      "onboard_time": 1756169425,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200780,
       "num": 200780,
       "word": "老瓦赞孙颖莎史上最全面",
@@ -259,20 +267,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 181933,
+      "num": 181933,
+      "word": "德国已无法维持高福利",
+      "onboard_time": 1756172003,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 181123,
       "num": 181123,
       "word": "记者暗访湖南被拉细钢筋",
       "onboard_time": 1756153335,
       "rank": 42,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 180464,
-      "num": 180464,
-      "word": "德国已无法维持高福利",
-      "onboard_time": 1756172003,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 177648,
@@ -289,6 +297,22 @@
       "onboard_time": 1756131984,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161432,
+      "num": 161432,
+      "word": "黄霄雲舅妈癌症去世",
+      "onboard_time": 1756173802,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156304,
+      "num": 244184,
+      "word": "馆方称不会轻易改变鲁迅形象",
+      "onboard_time": 1756173622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155825,
@@ -315,6 +339,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145767,
+      "num": 145767,
+      "word": "莲花楼暑期爆款剧王第二",
+      "onboard_time": 1756171401,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139206,
+      "num": 265976,
+      "word": "数日子期待看阅兵",
+      "onboard_time": 1756174043,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137175,
       "num": 137175,
       "word": "你的舌头一辈子都没休息过",
@@ -329,14 +369,6 @@
       "onboard_time": 1756169123,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136725,
-      "num": 136725,
-      "word": "莲花楼暑期爆款剧王第二",
-      "onboard_time": 1756171401,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 136428,
@@ -379,12 +411,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133105,
+      "num": 133105,
+      "word": "因为想睡觉而离职",
+      "onboard_time": 1756172661,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132468,
       "num": 132468,
       "word": "内娱收视代表",
       "onboard_time": 1756164561,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130930,
+      "num": 130930,
+      "word": "四川82%县城15分钟上高速",
+      "onboard_time": 1756174522,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129038,
+      "num": 130958,
+      "word": "早起4个动作帮你减肥",
+      "onboard_time": 1756174102,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 127762,
@@ -404,7 +460,7 @@
     },
     {
       "raw_hot": 121893,
-      "num": 121893,
+      "num": 131288,
       "word": "关晓彤新中式妆造",
       "onboard_time": 1756172003,
       "rank": 36,
@@ -433,6 +489,14 @@
       "onboard_time": 1756124963,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111936,
+      "num": 111936,
+      "word": "中国学生赴美被查80多小时遭遣返",
+      "onboard_time": 1756174582,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111335,
@@ -507,12 +571,36 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 95333,
+      "num": 95333,
+      "word": "蔚来跌近8%",
+      "onboard_time": 1756174701,
+      "rank": 42,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 92543,
       "num": 92543,
       "word": "美国底层生活现状",
       "onboard_time": 1756170804,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92499,
+      "num": 92499,
+      "word": "特朗普吐槽国防部名字不霸气",
+      "onboard_time": 1756172061,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 92202,
+      "num": 92202,
+      "word": "网友帮鲁迅P图",
+      "onboard_time": 1756173502,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90835,
@@ -724,7 +812,7 @@
     },
     {
       "raw_hot": 65245,
-      "num": 454633,
+      "num": 455638,
       "word": "真想一键快进到阅兵当天",
       "onboard_time": 1756127724,
       "rank": 2,
