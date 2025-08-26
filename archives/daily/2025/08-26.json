@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756218332198,
+  "endTime": 1756219395791,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -947,6 +947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 237969,
+      "num": 237969,
+      "word": "四川一小区发文将扑杀流浪猫",
+      "onboard_time": 1756213883,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235831,
       "num": 413908,
       "word": "外交部回应特朗普预计访问中国",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1756202901,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218024,
+      "num": 244293,
+      "word": "苏醒主持",
+      "onboard_time": 1756217544,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 216747,
@@ -1137,14 +1153,6 @@
       "onboard_time": 1756212442,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203344,
-      "num": 244293,
-      "word": "苏醒主持",
-      "onboard_time": 1756217544,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 202919,
@@ -1371,6 +1379,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 187370,
+      "num": 187370,
+      "word": "献鱼",
+      "onboard_time": 1756218325,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186722,
       "num": 273952,
       "word": "丁程鑫rua宋轶的头",
@@ -1475,12 +1491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176984,
+      "num": 176984,
+      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
+      "onboard_time": 1756218142,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176825,
       "num": 218329,
       "word": "广州3点放学小学生家长愁接送难",
       "onboard_time": 1756194023,
       "rank": 43,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 174782,
+      "num": 155699,
+      "word": "韩国年夜饭",
+      "onboard_time": 1756216164,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 174365,
@@ -1521,6 +1553,14 @@
       "onboard_time": 1756178661,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170577,
+      "num": 212939,
+      "word": "能不能一键快进到下周三",
+      "onboard_time": 1756217604,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 169756,
@@ -1579,20 +1619,20 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 166040,
+      "num": 149928,
+      "word": "Jennie长沙快闪店发夹169元",
+      "onboard_time": 1756218925,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165552,
       "num": 165552,
       "word": "张维伊没有优点怎么找到老婆的",
       "onboard_time": 1756216343,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165494,
-      "num": 190950,
-      "word": "四川一小区发文将扑杀流浪猫",
-      "onboard_time": 1756213883,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165266,
@@ -1691,14 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158500,
-      "num": 158500,
-      "word": "能不能一键快进到下周三",
-      "onboard_time": 1756217604,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 158468,
       "num": 158468,
       "word": "毕雯珺新剧战战兢兢白切黑",
@@ -1723,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156012,
+      "num": 156012,
+      "word": "献鱼直播",
+      "onboard_time": 1756218925,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155946,
       "num": 229125,
       "word": "特朗普希望年内尽快访华",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1756172722,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155246,
+      "num": 155246,
+      "word": "九重天",
+      "onboard_time": 1756218263,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 154653,
@@ -1833,14 +1881,6 @@
       "onboard_time": 1756181243,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 146286,
-      "num": 146286,
-      "word": "韩国年夜饭",
-      "onboard_time": 1756216164,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 145767,
@@ -2033,6 +2073,14 @@
       "onboard_time": 1756167203,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136207,
+      "num": 155489,
+      "word": "鲁迅夹烟形象墙画不会换",
+      "onboard_time": 1756219284,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136029,
@@ -2363,14 +2411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123306,
-      "num": 123306,
-      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
-      "onboard_time": 1756218142,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122732,
       "num": 122732,
       "word": "王晶说陈冠希思想太开放了",
@@ -2443,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118061,
+      "num": 118061,
+      "word": "时代少年团压轴",
+      "onboard_time": 1756219165,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117802,
       "num": 117802,
       "word": "neinei手臂线条",
@@ -2505,14 +2553,6 @@
       "onboard_time": 1756192342,
       "rank": 37,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 114571,
-      "num": 114571,
-      "word": "九重天",
-      "onboard_time": 1756218263,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 114568,
@@ -2585,6 +2625,14 @@
       "onboard_time": 1756169903,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110635,
+      "num": 110635,
+      "word": "霸道土匪爱上我",
+      "onboard_time": 1756219345,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110377,
@@ -3603,12 +3651,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 19620,
+      "num": 756427,
+      "word": "这是尹春燕和蔡永章的故事",
+      "onboard_time": 1756191502,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19040,
       "num": 163779,
       "word": "一想到这两人又要亲嘴了我就开心",
       "onboard_time": 1756203202,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18780,
+      "num": 115950,
+      "word": "北京局地强降水将超200毫米",
+      "onboard_time": 1756218744,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18153,
@@ -3627,12 +3691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15031,
-      "num": 756427,
-      "word": "这是尹春燕和蔡永章的故事",
-      "onboard_time": 1756191502,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 14007,
+      "num": 155357,
+      "word": "机器人来河南都得会武术",
+      "onboard_time": 1756219226,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 13586,
@@ -3695,6 +3759,9 @@
     },
     {
       "word": "#持之以恒推动中俄关系高水平发展#"
+    },
+    {
+      "word": "#中柬两国要更加坚定地站在一起#"
     }
   ]
 }
