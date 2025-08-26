@@ -1,0 +1,410 @@
+{
+  "runTime": 1756183506544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1117600,
+        "num": 1178816,
+        "word": "上海星巴克店员被顾客持续咆哮骂哭",
+        "onboard_time": 1756181303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787560,
+        "num": 787560,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756179923,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29185,
+        "num": 611525,
+        "word": "卫星互联网低轨10组卫星发射成功",
+        "onboard_time": 1756163959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 543415,
+        "num": 543415,
+        "word": "赴山海",
+        "onboard_time": 1756175183,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530328,
+        "num": 530328,
+        "word": "李在明说愿意与特朗普一起访华",
+        "onboard_time": 1756177523,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421601,
+        "num": 421601,
+        "word": "张元英 宝格丽",
+        "onboard_time": 1756176681,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359604,
+        "num": 359604,
+        "word": "40岁男子因情感纠纷致2死1伤",
+        "onboard_time": 1756171342,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 257934,
+        "num": 257934,
+        "word": "看中国阅兵一整个舒适了",
+        "onboard_time": 1756172722,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251938,
+        "num": 251938,
+        "word": "高速有人戴恐怖面具吓车",
+        "onboard_time": 1756135406,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104135,
+        "num": 250484,
+        "word": "美方最低规格接待引韩媒不满",
+        "onboard_time": 1756181243,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1786734,
+        "num": 244222,
+        "word": "张万森 内娱下嫂子了",
+        "onboard_time": 1756178063,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1186250,
+        "num": 243093,
+        "word": "郑乃馨又起飞了",
+        "onboard_time": 1756180523,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 933598,
+        "num": 236526,
+        "word": "田栩宁高定首穿",
+        "onboard_time": 1756181784,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 717576,
+        "num": 230983,
+        "word": "王鹤棣方回应网传录音",
+        "onboard_time": 1756164920,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566610,
+        "num": 227762,
+        "word": "男子不满女儿嫁70岁老头雇凶杀婿",
+        "onboard_time": 1756179803,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390655,
+        "num": 225095,
+        "word": "中国女生日本遭骚扰当场反击",
+        "onboard_time": 1756178122,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 379069,
+        "num": 220622,
+        "word": "董璇小酒窝在机场没走出来过",
+        "onboard_time": 1756172783,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374930,
+        "num": 217688,
+        "word": "何晟铭早期嘴了半个内娱",
+        "onboard_time": 1756182204,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213442,
+        "num": 213442,
+        "word": "红舞鞋",
+        "onboard_time": 1756165701,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39878,
+        "num": 202008,
+        "word": "天猫WBG",
+        "onboard_time": 1756180344,
+        "rank": 19,
+        "category": "电竞,互联网"
+      },
+      {
+        "raw_hot": 363620,
+        "num": 201792,
+        "word": "曝王鹤棣和神秘女友吵架",
+        "onboard_time": 1756136547,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345207,
+        "num": 201613,
+        "word": "手机被韩国顶流男明星捡到了",
+        "onboard_time": 1756181364,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201172,
+        "num": 201172,
+        "word": "心动的信号",
+        "onboard_time": 1756182564,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200663,
+        "num": 200663,
+        "word": "龚俊在一声声大哥中迷失自我",
+        "onboard_time": 1756182804,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186764,
+        "num": 186764,
+        "word": "男子因店主忘打彩票错失400万",
+        "onboard_time": 1756179803,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270367,
+        "num": 186754,
+        "word": "3岁女童16楼坠亡物业仅愿赔1万",
+        "onboard_time": 1756180523,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67915,
+        "num": 186579,
+        "word": "何小鹏深夜探班P7用户试驾送大麦茶",
+        "onboard_time": 1756179563,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145643,
+        "num": 186501,
+        "word": "什么时候实现一户一俊",
+        "onboard_time": 1756181964,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270360,
+        "num": 186279,
+        "word": "25年出生的人已经2000岁了",
+        "onboard_time": 1756165942,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10069,
+        "num": 186179,
+        "word": "郑云龙文化之夜再演将进酒",
+        "onboard_time": 1756182745,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217807,
+        "num": 186098,
+        "word": "姜潮麦迪娜害怕孩子以后啃老",
+        "onboard_time": 1756181424,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186013,
+        "num": 186013,
+        "word": "金俊勉剧透EXO巡演计划",
+        "onboard_time": 1756182204,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202410,
+        "num": 185167,
+        "word": "田栩宁或将登费加罗封面",
+        "onboard_time": 1756180102,
+        "rank": 32,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 198211,
+        "num": 184833,
+        "word": "女租客退房遗弃8只猫拉黑房主",
+        "onboard_time": 1756181664,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184315,
+        "num": 184315,
+        "word": "甜馨小酒窝从小就认识",
+        "onboard_time": 1756183103,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183992,
+        "num": 183992,
+        "word": "孟子义蓝色公主裙造型",
+        "onboard_time": 1756182745,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181125,
+        "num": 181125,
+        "word": "卡戴珊侃爷女儿小西北近照",
+        "onboard_time": 1756180583,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160306,
+        "num": 177295,
+        "word": "火箭军参阅官兵平均1米83",
+        "onboard_time": 1756181723,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79363,
+        "num": 177247,
+        "word": "上班请假酒精中毒身亡家属索赔50万",
+        "onboard_time": 1756182564,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177217,
+        "num": 177217,
+        "word": "归队靠性别认出袁姗姗",
+        "onboard_time": 1756182625,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171242,
+        "num": 171242,
+        "word": "原来奶茶袋这么实用",
+        "onboard_time": 1756181186,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 169361,
+        "num": 169361,
+        "word": "谁发明丑帅这个词的",
+        "onboard_time": 1756181303,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168955,
+        "num": 168955,
+        "word": "王楚钦来上海了",
+        "onboard_time": 1756179563,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166090,
+        "num": 166090,
+        "word": "杨幂外出健身路透",
+        "onboard_time": 1756178602,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157306,
+        "num": 157306,
+        "word": "王牌9飞行嘉宾官宣",
+        "onboard_time": 1756177161,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154653,
+        "num": 154653,
+        "word": "黄一鸣回应曝光孩子",
+        "onboard_time": 1756181723,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145463,
+        "num": 145463,
+        "word": "富士康再次从印度召回300名中国工程师",
+        "onboard_time": 1756180883,
+        "rank": 46,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 105703,
+        "num": 141253,
+        "word": "A股翻红半日成交1.68万亿",
+        "onboard_time": 1756183165,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86539,
+        "num": 140546,
+        "word": "国产操作系统概念爆发",
+        "onboard_time": 1756181303,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140024,
+        "num": 140024,
+        "word": "房东的猫双女主的含金量",
+        "onboard_time": 1756178661,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
+    }
+  }
+}

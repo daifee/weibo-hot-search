@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756182679256,
+  "endTime": 1756183506544,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -27,6 +27,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1186250,
+      "num": 243093,
+      "word": "郑乃馨又起飞了",
+      "onboard_time": 1756180523,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1117600,
+      "num": 1178816,
+      "word": "上海星巴克店员被顾客持续咆哮骂哭",
+      "onboard_time": 1756181303,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1088892,
       "num": 1164866,
       "word": "高速有人戴恐怖面具吓车",
@@ -35,12 +51,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1020731,
-      "num": 240003,
-      "word": "郑乃馨又起飞了",
-      "onboard_time": 1756180523,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 933598,
+      "num": 236526,
+      "word": "田栩宁高定首穿",
+      "onboard_time": 1756181784,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 826055,
@@ -49,6 +65,14 @@
       "onboard_time": 1756175183,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 787560,
+      "num": 787560,
+      "word": "九三盛大阅兵",
+      "onboard_time": 1756179923,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 739909,
@@ -65,22 +89,6 @@
       "onboard_time": 1756176681,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 717314,
-      "num": 1114770,
-      "word": "上海星巴克店员被顾客持续咆哮骂哭",
-      "onboard_time": 1756181303,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 696517,
-      "num": 696517,
-      "word": "九三盛大阅兵",
-      "onboard_time": 1756179923,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 691331,
@@ -115,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 566610,
+      "num": 228779,
+      "word": "男子不满女儿嫁70岁老头雇凶杀婿",
+      "onboard_time": 1756179803,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556035,
       "num": 322843,
       "word": "25年出生的人已经2000岁了",
       "onboard_time": 1756165942,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 525886,
-      "num": 230564,
-      "word": "田栩宁高定首穿",
-      "onboard_time": 1756181784,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 483057,
@@ -163,14 +171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 418861,
-      "num": 228779,
-      "word": "男子不满女儿嫁70岁老头雇凶杀婿",
-      "onboard_time": 1756179803,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 401270,
       "num": 401270,
       "word": "aespa",
@@ -195,7 +195,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384481,
+      "raw_hot": 390655,
       "num": 243926,
       "word": "中国女生日本遭骚扰当场反击",
       "onboard_time": 1756178122,
@@ -209,6 +209,14 @@
       "onboard_time": 1756168282,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 374930,
+      "num": 217688,
+      "word": "何晟铭早期嘴了半个内娱",
+      "onboard_time": 1756182204,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 370703,
@@ -241,6 +249,14 @@
       "onboard_time": 1756174822,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345207,
+      "num": 208551,
+      "word": "手机被韩国顶流男明星捡到了",
+      "onboard_time": 1756181364,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 341779,
@@ -281,6 +297,14 @@
       "onboard_time": 1756172003,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 270367,
+      "num": 207178,
+      "word": "3岁女童16楼坠亡物业仅愿赔1万",
+      "onboard_time": 1756180523,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268586,
@@ -329,14 +353,6 @@
       "onboard_time": 1756172302,
       "rank": 17,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 253318,
-      "num": 208551,
-      "word": "手机被韩国顶流男明星捡到了",
-      "onboard_time": 1756181364,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 248412,
@@ -411,14 +427,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 207178,
-      "num": 207178,
-      "word": "3岁女童16楼坠亡物业仅愿赔1万",
-      "onboard_time": 1756180523,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206612,
       "num": 128390,
       "word": "从一颗痣到确诊癌症",
@@ -443,12 +451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201172,
+      "num": 201172,
+      "word": "心动的信号",
+      "onboard_time": 1756182564,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200780,
       "num": 200780,
       "word": "老瓦赞孙颖莎史上最全面",
       "onboard_time": 1756172722,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200663,
+      "num": 200663,
+      "word": "龚俊在一声声大哥中迷失自我",
+      "onboard_time": 1756182804,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 199678,
@@ -464,6 +488,14 @@
       "word": "老人捅马蜂窝被蜇100多下去世",
       "onboard_time": 1756136247,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198211,
+      "num": 184833,
+      "word": "女租客退房遗弃8只猫拉黑房主",
+      "onboard_time": 1756181664,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -491,12 +523,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186013,
+      "num": 199871,
+      "word": "金俊勉剧透EXO巡演计划",
+      "onboard_time": 1756182204,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 184315,
+      "num": 184315,
+      "word": "甜馨小酒窝从小就认识",
+      "onboard_time": 1756183103,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183992,
+      "num": 183992,
+      "word": "孟子义蓝色公主裙造型",
+      "onboard_time": 1756182745,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181130,
       "num": 181130,
       "word": "你的舌头一辈子都没休息过",
       "onboard_time": 1756172722,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181125,
+      "num": 181125,
+      "word": "卡戴珊侃爷女儿小西北近照",
+      "onboard_time": 1756180583,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 181123,
@@ -513,6 +577,14 @@
       "onboard_time": 1756120163,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177217,
+      "num": 177217,
+      "word": "归队靠性别认出袁姗姗",
+      "onboard_time": 1756182625,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 174365,
@@ -539,12 +611,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168878,
-      "num": 168878,
-      "word": "卡戴珊侃爷女儿小西北近照",
-      "onboard_time": 1756180583,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 169361,
+      "num": 169361,
+      "word": "谁发明丑帅这个词的",
+      "onboard_time": 1756181303,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 162868,
@@ -553,6 +625,14 @@
       "onboard_time": 1756175241,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160306,
+      "num": 250762,
+      "word": "火箭军参阅官兵平均1米83",
+      "onboard_time": 1756181723,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158468,
@@ -571,20 +651,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 154653,
+      "num": 154653,
+      "word": "黄一鸣回应曝光孩子",
+      "onboard_time": 1756181723,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 154337,
       "num": 154337,
       "word": "王子奇确定出演红舞鞋",
       "onboard_time": 1756165461,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152129,
-      "num": 152129,
-      "word": "女租客退房遗弃8只猫拉黑房主",
-      "onboard_time": 1756181664,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148625,
@@ -603,12 +683,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145448,
-      "num": 145448,
-      "word": "谁发明丑帅这个词的",
-      "onboard_time": 1756181303,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 145643,
+      "num": 186501,
+      "word": "什么时候实现一户一俊",
+      "onboard_time": 1756181964,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145463,
+      "num": 199743,
+      "word": "富士康再次从印度召回300名中国工程师",
+      "onboard_time": 1756180883,
+      "rank": 29,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 144653,
@@ -616,14 +704,6 @@
       "word": "杜淳每次吵架都会主动和王灿道歉",
       "onboard_time": 1756182023,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 140493,
-      "num": 140493,
-      "word": "心动的信号",
-      "onboard_time": 1756182564,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -649,14 +729,6 @@
       "onboard_time": 1756178722,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137180,
-      "num": 145857,
-      "word": "黄一鸣回应曝光孩子",
-      "onboard_time": 1756181723,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 136730,
@@ -739,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129791,
-      "num": 250762,
-      "word": "火箭军参阅官兵平均1米83",
-      "onboard_time": 1756181723,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 129038,
       "num": 130958,
       "word": "早起4个动作帮你减肥",
@@ -763,16 +827,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128464,
-      "num": 128464,
-      "word": "归队靠性别认出袁姗姗",
-      "onboard_time": 1756182625,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127971,
-      "num": 127971,
+      "num": 250484,
       "word": "美方最低规格接待引韩媒不满",
       "onboard_time": 1756181243,
       "rank": 48,
@@ -785,14 +841,6 @@
       "onboard_time": 1756151535,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 127723,
-      "num": 199871,
-      "word": "金俊勉剧透EXO巡演计划",
-      "onboard_time": 1756182204,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 127660,
@@ -825,22 +873,6 @@
       "onboard_time": 1756177942,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125959,
-      "num": 145513,
-      "word": "何晟铭早期嘴了半个内娱",
-      "onboard_time": 1756182204,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 125610,
-      "num": 199743,
-      "word": "富士康再次从印度召回300名中国工程师",
-      "onboard_time": 1756180883,
-      "rank": 29,
-      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 123594,
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 106261,
-      "num": 127677,
+      "num": 140546,
       "word": "国产操作系统概念爆发",
       "onboard_time": 1756181303,
       "rank": 49,
@@ -921,6 +953,14 @@
       "onboard_time": 1756132105,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105703,
+      "num": 141253,
+      "word": "A股翻红半日成交1.68万亿",
+      "onboard_time": 1756183165,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 104596,
@@ -1131,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79363,
+      "num": 177247,
+      "word": "上班请假酒精中毒身亡家属索赔50万",
+      "onboard_time": 1756182564,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77340,
       "num": 77340,
       "word": "莫雷加德说樊振东是很好的人",
@@ -1315,14 +1363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 45792,
-      "num": 147384,
-      "word": "上班请假酒精中毒身亡家属索赔50万",
-      "onboard_time": 1756182564,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41400,
       "num": 45233,
       "word": "合肥一马路突然塌陷吞没越野车",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1756151113,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10069,
+      "num": 186179,
+      "word": "郑云龙文化之夜再演将进酒",
+      "onboard_time": 1756182745,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 8649,
