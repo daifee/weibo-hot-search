@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756198145054,
+  "endTime": 1756200560072,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -129,6 +129,14 @@
       "onboard_time": 1756186283,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1474108,
+      "num": 413433,
+      "word": "晚晚晒镯子",
+      "onboard_time": 1756196543,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1420909,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1089048,
+      "num": 1089048,
+      "word": "张维伊 庆余年2侯季常",
+      "onboard_time": 1756195942,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1088892,
       "num": 1164866,
       "word": "高速有人戴恐怖面具吓车",
@@ -385,14 +401,6 @@
       "onboard_time": 1756035082,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 986174,
-      "num": 413433,
-      "word": "晚晚晒镯子",
-      "onboard_time": 1756196543,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 978373,
@@ -697,6 +705,14 @@
       "onboard_time": 1756177523,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 738752,
+      "num": 738752,
+      "word": "美美sunday丑丑monday",
+      "onboard_time": 1756195283,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 735011,
@@ -1027,6 +1043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 575094,
+      "num": 466978,
+      "word": "特朗普要走李在明签字笔",
+      "onboard_time": 1756194323,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 573853,
       "num": 471790,
       "word": "白敬亭釜山电影节生图",
@@ -1040,6 +1064,14 @@
       "word": "15岁林大竣身高",
       "onboard_time": 1756124963,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 572408,
+      "num": 354761,
+      "word": "赵文卓女儿 远看以为黄圣依",
+      "onboard_time": 1756196365,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1153,14 +1185,6 @@
       "onboard_time": 1756082303,
       "rank": 4,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 542276,
-      "num": 542276,
-      "word": "美美sunday丑丑monday",
-      "onboard_time": 1756195283,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 537011,
@@ -1347,14 +1371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 485890,
-      "num": 412300,
-      "word": "张维伊 庆余年2侯季常",
-      "onboard_time": 1756195942,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 484229,
       "num": 192839,
       "word": "生理性喜欢和心理性喜欢的区别",
@@ -1395,20 +1411,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 480200,
+      "num": 480200,
+      "word": "中方回应特朗普希望尽快访华",
+      "onboard_time": 1756195463,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 470380,
       "num": 483978,
       "word": "掐了鲁迅的烟谁来点燃思想的火",
       "onboard_time": 1756106243,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 466978,
-      "num": 466978,
-      "word": "特朗普要走李在明签字笔",
-      "onboard_time": 1756194323,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 466313,
@@ -1643,14 +1659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 414671,
-      "num": 414671,
-      "word": "中方回应特朗普希望尽快访华",
-      "onboard_time": 1756195463,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 414454,
       "num": 414454,
       "word": "高校回应全员停发工资",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1756106544,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 402665,
+      "num": 402665,
+      "word": "日本一股否认侵略历史逆流持续涌动",
+      "onboard_time": 1756195523,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 398763,
@@ -1865,14 +1881,6 @@
       "onboard_time": 1756082603,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 369600,
-      "num": 354761,
-      "word": "赵文卓女儿 远看以为黄圣依",
-      "onboard_time": 1756196365,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 367483,
@@ -2065,6 +2073,14 @@
       "onboard_time": 1756128504,
       "rank": 29,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 329832,
+      "num": 248085,
+      "word": "美团退款自查攻略",
+      "onboard_time": 1756197024,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 329604,
@@ -2652,7 +2668,7 @@
     },
     {
       "raw_hot": 239677,
-      "num": 233990,
+      "num": 237598,
       "word": "王鹤棣今天上班还开开心心的",
       "onboard_time": 1756195402,
       "rank": 22,
@@ -2681,14 +2697,6 @@
       "onboard_time": 1756034544,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 236839,
-      "num": 236839,
-      "word": "美团退款自查攻略",
-      "onboard_time": 1756197024,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 236634,
@@ -2801,6 +2809,14 @@
       "onboard_time": 1756109604,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226571,
+      "num": 226571,
+      "word": "中方提出严肃交涉要求日方澄清",
+      "onboard_time": 1756197923,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 225968,
@@ -2993,6 +3009,14 @@
       "onboard_time": 1756132105,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210408,
+      "num": 210408,
+      "word": "曝黄子韬徐艺洋10月16日办婚礼",
+      "onboard_time": 1756199782,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 210144,
@@ -3395,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196576,
+      "num": 196576,
+      "word": "第五人格",
+      "onboard_time": 1756199483,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196397,
       "num": 194360,
       "word": "上海优化调整房地产政策措施",
@@ -3481,6 +3513,14 @@
       "onboard_time": 1756105401,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194378,
+      "num": 194378,
+      "word": "华为折叠机出货破千万",
+      "onboard_time": 1756200442,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 194183,
@@ -3723,14 +3763,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 188360,
-      "num": 226061,
-      "word": "日本一股否认侵略历史逆流持续涌动",
-      "onboard_time": 1756195523,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 188355,
       "num": 188355,
       "word": "艾福杰尼 小奇",
@@ -3867,6 +3899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183556,
+      "num": 183556,
+      "word": "网红固原二狗遇难",
+      "onboard_time": 1756200082,
+      "rank": 32,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 183529,
       "num": 183529,
       "word": "邢菲角色后劲好大",
@@ -3993,6 +4033,14 @@
       "onboard_time": 1756185384,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179995,
+      "num": 179995,
+      "word": "甜馨小酒窝走秀",
+      "onboard_time": 1756198104,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 179454,
@@ -4185,6 +4233,14 @@
       "onboard_time": 1756028842,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173073,
+      "num": 216083,
+      "word": "王源的托尼老师给我出来",
+      "onboard_time": 1756198882,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 172577,
@@ -4419,6 +4475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165055,
+      "num": 165055,
+      "word": "你和我说这是华晨宇",
+      "onboard_time": 1756200023,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165029,
       "num": 165029,
       "word": "iPhone17Pro爆料汇总",
@@ -4585,6 +4649,14 @@
       "onboard_time": 1756035262,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159369,
+      "num": 159369,
+      "word": "iPhone自带的情侣模式",
+      "onboard_time": 1756197204,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 159237,
@@ -4771,6 +4843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154833,
+      "num": 154833,
+      "word": "王青直播预告",
+      "onboard_time": 1756200442,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154818,
       "num": 154818,
       "word": "陈小春 我有精神病别惹我",
@@ -4817,6 +4897,14 @@
       "onboard_time": 1756165461,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154251,
+      "num": 154251,
+      "word": "美团回应退款未到账质疑",
+      "onboard_time": 1756199121,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 154150,
@@ -5027,6 +5115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149161,
+      "num": 149161,
+      "word": "第五人格卧谈会",
+      "onboard_time": 1756200501,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148879,
       "num": 226830,
       "word": "暴雨高温台风预警齐发",
@@ -5057,6 +5153,14 @@
       "onboard_time": 1756121363,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 148015,
+      "num": 181230,
+      "word": "花30万闪婚一月不到人财两空",
+      "onboard_time": 1756195402,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147981,
@@ -5283,6 +5387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143097,
+      "num": 143097,
+      "word": "亲到第七秒突然忘了对方是谁了",
+      "onboard_time": 1756199302,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142925,
       "num": 142925,
       "word": "宋轶新剧一出场就是主人级别",
@@ -5483,14 +5595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138942,
-      "num": 138942,
-      "word": "花30万闪婚一月不到人财两空",
-      "onboard_time": 1756195402,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138867,
       "num": 161175,
       "word": "王影璐女将军味有了",
@@ -5545,14 +5649,6 @@
       "onboard_time": 1756001722,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 137847,
-      "num": 137847,
-      "word": "中方提出严肃交涉要求日方澄清",
-      "onboard_time": 1756197923,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137748,
@@ -5731,20 +5827,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 134686,
-      "num": 134686,
-      "word": "甜馨小酒窝走秀",
-      "onboard_time": 1756198104,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134656,
       "num": 134656,
       "word": "大妈机上换座被拒后闹事",
       "onboard_time": 1755999381,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134326,
+      "num": 203861,
+      "word": "苏醒 糊过没苦过",
+      "onboard_time": 1756200082,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 134087,
@@ -7019,6 +7115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112091,
+      "num": 200410,
+      "word": "酒店回应顾客院内遛弯发现千年古墓",
+      "onboard_time": 1756198882,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111888,
       "num": 111888,
       "word": "将门毒后非拍不可吗",
@@ -7345,14 +7449,6 @@
       "onboard_time": 1756183165,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 105407,
-      "num": 127460,
-      "word": "iPhone自带的情侣模式",
-      "onboard_time": 1756197204,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 105379,
@@ -7899,6 +7995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96715,
+      "num": 197236,
+      "word": "缅怀抗战先烈",
+      "onboard_time": 1756007062,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96541,
       "num": 107796,
       "word": "何浩楠沉浸在自己的考证艺术里",
@@ -8329,14 +8433,6 @@
       "onboard_time": 1755968900,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82178,
-      "num": 188341,
-      "word": "缅怀抗战先烈",
-      "onboard_time": 1756007062,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 82056,
@@ -9075,6 +9171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53173,
+      "num": 226463,
+      "word": "深圳45年的封神之路",
+      "onboard_time": 1756199182,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52140,
       "num": 52140,
       "word": "林诗栋回应逆转进决赛",
@@ -9523,6 +9627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36169,
+      "num": 154507,
+      "word": "养娃人的citywalk其实是citysit",
+      "onboard_time": 1756199062,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36128,
       "num": 46632,
       "word": "工作人员陆续为虞书欣发声",
@@ -9537,6 +9649,14 @@
       "onboard_time": 1756076958,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35653,
+      "num": 150003,
+      "word": "人防办回应海口半夜响起防空警报声",
+      "onboard_time": 1756198882,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35230,
