@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756225932429,
+  "endTime": 1756226770476,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1039713,
+      "num": 226593,
+      "word": "赵丽颖刘亦菲杨紫S加女演员",
+      "onboard_time": 1756222942,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1037059,
       "num": 571022,
       "word": "鲁迅夹烟遭二次投诉",
@@ -543,14 +551,6 @@
       "num": 321278,
       "word": "疑似许凯赵晴悄悄同居",
       "onboard_time": 1755941903,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 925114,
-      "num": 226593,
-      "word": "赵丽颖刘亦菲杨紫S加女演员",
-      "onboard_time": 1756222942,
       "rank": 10,
       "category": "艺人"
     },
@@ -1043,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634157,
+      "num": 221307,
+      "word": "吴京 狐狸京",
+      "onboard_time": 1756220967,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618730,
       "num": 362873,
       "word": "何晟铭谈和于正出现分歧原因",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1756121303,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 607370,
-      "num": 221307,
-      "word": "吴京 狐狸京",
-      "onboard_time": 1756220967,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 606531,
@@ -1707,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456430,
+      "num": 733185,
+      "word": "官方通报三亚高空坠物致1死2伤",
+      "onboard_time": 1756223004,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 455256,
       "num": 419981,
       "word": "今年打了翻身仗的4位明星",
@@ -1803,6 +1811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 439214,
+      "num": 823979,
+      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
+      "onboard_time": 1756218142,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436731,
       "num": 437444,
       "word": "王楚钦 李宁",
@@ -1825,6 +1841,14 @@
       "onboard_time": 1756197923,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 433366,
+      "num": 433366,
+      "word": "73岁老人用铁锨打死妻子被判无期",
+      "onboard_time": 1756223903,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 433253,
@@ -2001,14 +2025,6 @@
       "onboard_time": 1755991037,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410178,
-      "num": 823979,
-      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
-      "onboard_time": 1756218142,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 409061,
@@ -2363,14 +2379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334595,
-      "num": 334595,
-      "word": "官方通报三亚高空坠物致1死2伤",
-      "onboard_time": 1756223004,
-      "rank": 1,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 333490,
       "num": 333490,
       "word": "马薇薇和男友合照",
@@ -2539,19 +2547,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304093,
+      "num": 304093,
+      "word": "李佳薇 逆光",
+      "onboard_time": 1756223664,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301520,
       "num": 301520,
       "word": "王玉雯说刘宇宁演唱会票老难抢了",
       "onboard_time": 1756012642,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 300528,
-      "num": 300528,
-      "word": "李佳薇 逆光",
-      "onboard_time": 1756223664,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -2833,14 +2841,6 @@
       "onboard_time": 1756079481,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258299,
-      "num": 258299,
-      "word": "73岁老人用铁锨打死妻子被判无期",
-      "onboard_time": 1756223903,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258114,
@@ -3211,6 +3211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226742,
+      "num": 157684,
+      "word": "胡歌张若昀成毅肖战S加男演员",
+      "onboard_time": 1756226182,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225968,
       "num": 225968,
       "word": "设计师充两千多接单一年赚378",
@@ -3337,6 +3345,14 @@
       "onboard_time": 1756214183,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214697,
+      "num": 228337,
+      "word": "目击者称游客蹦极绳断坠落见到血迹",
+      "onboard_time": 1756224322,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213986,
@@ -5259,6 +5275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160835,
+      "num": 160835,
+      "word": "酒店装修工程推车坠落致1死2伤",
+      "onboard_time": 1756225222,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160306,
       "num": 250762,
       "word": "火箭军参阅官兵平均1米83",
@@ -7083,6 +7107,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 127581,
+      "num": 127581,
+      "word": "学生举板凳砸老师警方介入",
+      "onboard_time": 1756225461,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127495,
       "num": 188800,
       "word": "时代少年团峡谷传送太有节目了",
@@ -7121,14 +7153,6 @@
       "onboard_time": 1756109065,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126806,
-      "num": 228337,
-      "word": "目击者称游客蹦极绳断坠落见到血迹",
-      "onboard_time": 1756224322,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126785,
@@ -8555,14 +8579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105232,
-      "num": 105232,
-      "word": "酒店装修工程推车坠落致1死2伤",
-      "onboard_time": 1756225222,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105105,
       "num": 105105,
       "word": "以后炒地三鲜方便了",
@@ -8745,6 +8761,14 @@
       "onboard_time": 1756011202,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102351,
+      "num": 118036,
+      "word": "倪萍 我来蹭蹭迟蓬的流量",
+      "onboard_time": 1756225222,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 102348,
@@ -9363,12 +9387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90032,
-      "num": 90032,
-      "word": "学生举板凳砸老师警方介入",
-      "onboard_time": 1756225461,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 90403,
+      "num": 90403,
+      "word": "王一珩生日请粉丝吃饭",
+      "onboard_time": 1756225520,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 89722,
@@ -9377,14 +9401,6 @@
       "onboard_time": 1756027641,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89609,
-      "num": 95804,
-      "word": "倪萍 我来蹭蹭迟蓬的流量",
-      "onboard_time": 1756225222,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 89532,
@@ -9907,14 +9923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 70821,
-      "num": 70821,
-      "word": "王一珩生日请粉丝吃饭",
-      "onboard_time": 1756225520,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70679,
       "num": 129403,
       "word": "王曼昱给小朋友惊喜",
@@ -9961,6 +9969,14 @@
       "onboard_time": 1756178063,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 70036,
+      "num": 70036,
+      "word": "上海15岁女生军训时死亡背后",
+      "onboard_time": 1756226061,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69723,
@@ -10489,6 +10505,14 @@
       "onboard_time": 1755940463,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51373,
+      "num": 57443,
+      "word": "原来吃不完的火锅可以打包带走",
+      "onboard_time": 1756226000,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 51319,
