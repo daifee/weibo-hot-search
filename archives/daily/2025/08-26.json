@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756212887211,
+  "endTime": 1756213772864,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -51,20 +51,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1418290,
+      "num": 352570,
+      "word": "高端伴游 色情交易",
+      "onboard_time": 1756210943,
+      "rank": 10,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1232637,
       "num": 432931,
       "word": "柴鸡蛋求推荐新人",
       "onboard_time": 1756204282,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1231427,
-      "num": 226783,
-      "word": "高端伴游 色情交易",
-      "onboard_time": 1756210943,
-      "rank": 10,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1205936,
@@ -179,6 +179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 770560,
+      "num": 352226,
+      "word": "叶舒华汉服",
+      "onboard_time": 1756209083,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 765852,
       "num": 236802,
       "word": "徐冬冬直播时尹子维说漏嘴了",
@@ -275,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 672066,
-      "num": 225361,
-      "word": "叶舒华汉服",
-      "onboard_time": 1756209083,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 664168,
       "num": 664168,
       "word": "40岁男子因情感纠纷致2死1伤",
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585447,
+      "num": 585447,
+      "word": "育儿补贴不能被商家掏走",
+      "onboard_time": 1756209923,
+      "rank": 4,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 575094,
       "num": 466978,
       "word": "特朗普要走李在明签字笔",
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 556136,
-      "num": 223963,
+      "num": 351906,
       "word": "孟子义jennie穿了同款",
       "onboard_time": 1756207342,
       "rank": 37,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 493104,
+      "num": 493104,
+      "word": "青春芒果夜节目单",
+      "onboard_time": 1756209442,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483057,
       "num": 483057,
       "word": "馆方称不会轻易改变鲁迅形象",
@@ -443,12 +459,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 464187,
-      "num": 464187,
-      "word": "育儿补贴不能被商家掏走",
-      "onboard_time": 1756209923,
-      "rank": 4,
-      "category": "议题讨论"
+      "raw_hot": 462662,
+      "num": 243303,
+      "word": "女子月用电近2000度不敢开空调",
+      "onboard_time": 1756211482,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 454511,
@@ -481,14 +497,6 @@
       "onboard_time": 1756207403,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 438222,
-      "num": 210113,
-      "word": "女子月用电近2000度不敢开空调",
-      "onboard_time": 1756211482,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 436759,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 424087,
-      "num": 270238,
+      "num": 312673,
       "word": "6点半下班真的好残忍啊",
       "onboard_time": 1756203022,
       "rank": 33,
@@ -553,14 +561,6 @@
       "onboard_time": 1756195523,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 420132,
-      "num": 420132,
-      "word": "青春芒果夜节目单",
-      "onboard_time": 1756209442,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 419320,
@@ -641,6 +641,14 @@
       "onboard_time": 1756168282,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381252,
+      "num": 381252,
+      "word": "日本人在台北闹市区展示五星红旗",
+      "onboard_time": 1756211965,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370703,
@@ -779,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266058,
+      "num": 352896,
+      "word": "印度一孕妇被丈夫勒死并肢解",
+      "onboard_time": 1756209623,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 264780,
       "num": 242731,
       "word": "孙怡 钱才是女人的底气",
@@ -835,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 246545,
+      "num": 246545,
+      "word": "被老虎咬死小猫遗体已做无害化处理",
+      "onboard_time": 1756207342,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245994,
       "num": 107053,
       "word": "kid疑似抄袭",
@@ -867,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 237764,
+      "num": 204107,
+      "word": "建议在26岁之前谈恋爱",
+      "onboard_time": 1756210463,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235831,
       "num": 413908,
       "word": "外交部回应特朗普预计访问中国",
@@ -889,14 +921,6 @@
       "onboard_time": 1756177581,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 227672,
-      "num": 227672,
-      "word": "被老虎咬死小猫遗体已做无害化处理",
-      "onboard_time": 1756207342,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226049,
@@ -945,14 +969,6 @@
       "onboard_time": 1756183103,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215396,
-      "num": 215396,
-      "word": "印度一孕妇被丈夫勒死并肢解",
-      "onboard_time": 1756209623,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 213986,
@@ -1027,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204181,
+      "num": 204181,
+      "word": "马嘉祺拿了MVP也淡淡的",
+      "onboard_time": 1756212382,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203945,
       "num": 203945,
       "word": "子夜归爆改嫂子夜归",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1756205483,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203439,
+      "num": 203439,
+      "word": "孙颖莎直播",
+      "onboard_time": 1756212442,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 202919,
@@ -1155,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196835,
-      "num": 196835,
-      "word": "建议在26岁之前谈恋爱",
-      "onboard_time": 1756210463,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196729,
       "num": 196729,
       "word": "第五人格卧谈会",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1756195402,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193354,
+      "num": 193354,
+      "word": "王青健身",
+      "onboard_time": 1756212563,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 193300,
@@ -1459,14 +1491,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 166833,
-      "num": 166833,
-      "word": "孙颖莎直播",
-      "onboard_time": 1756212442,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163903,
       "num": 160050,
       "word": "邢菲青衣预备役",
@@ -1563,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156018,
+      "num": 156018,
+      "word": "柴鸡蛋说剧组没有举办揭幕仪式",
+      "onboard_time": 1756211061,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155946,
       "num": 229125,
       "word": "特朗普希望年内尽快访华",
@@ -1611,6 +1643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 153687,
+      "num": 153687,
+      "word": "早期的张维伊",
+      "onboard_time": 1756213164,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151954,
       "num": 151954,
       "word": "张凌赫 宙草级别",
@@ -1643,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149454,
+      "num": 149454,
+      "word": "物业费普通人负担不起了",
+      "onboard_time": 1756212981,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148625,
       "num": 134453,
       "word": "汪苏泷压轴",
@@ -1667,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145737,
+      "num": 145737,
+      "word": "阴阳师",
+      "onboard_time": 1756213402,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145643,
       "num": 186501,
       "word": "什么时候实现一户一俊",
@@ -1683,12 +1739,12 @@
       "category": "海外新闻,数码"
     },
     {
-      "raw_hot": 145355,
-      "num": 145355,
-      "word": "柴鸡蛋说剧组没有举办揭幕仪式",
-      "onboard_time": 1756211061,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 145411,
+      "num": 146790,
+      "word": "青春芒果夜",
+      "onboard_time": 1756211362,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 144653,
@@ -1705,6 +1761,14 @@
       "onboard_time": 1756199302,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143322,
+      "num": 143322,
+      "word": "田曦薇过年收到的消息都还没回",
+      "onboard_time": 1756210042,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 142989,
@@ -1779,35 +1843,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138123,
-      "num": 138123,
-      "word": "王青健身",
-      "onboard_time": 1756212563,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 137326,
-      "num": 137326,
-      "word": "田曦薇过年收到的消息都还没回",
-      "onboard_time": 1756210042,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136730,
       "num": 136567,
       "word": "小佳 他就只是Kid",
       "onboard_time": 1756169123,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 136615,
-      "num": 136615,
-      "word": "马嘉祺拿了MVP也淡淡的",
-      "onboard_time": 1756212382,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -2027,14 +2067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128766,
-      "num": 135471,
-      "word": "青春芒果夜",
-      "onboard_time": 1756211362,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 127957,
       "num": 127957,
       "word": "献鱼和好",
@@ -2129,6 +2161,14 @@
       "onboard_time": 1756202302,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122418,
+      "num": 122418,
+      "word": "iPhone做会议纪要",
+      "onboard_time": 1756212263,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 122324,
@@ -2227,6 +2267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115212,
+      "num": 115212,
+      "word": "女子嘲笑丈夫失业被判精神虐待",
+      "onboard_time": 1756211603,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 114913,
       "num": 147897,
       "word": "2孩童被黄鼠狼咬掉鼻子3D重建",
@@ -2249,6 +2297,14 @@
       "onboard_time": 1756201822,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113207,
+      "num": 466233,
+      "word": "深圳经济特区生日快乐",
+      "onboard_time": 1756201822,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112473,
@@ -2291,14 +2347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111775,
-      "num": 111775,
-      "word": "女子嘲笑丈夫失业被判精神虐待",
-      "onboard_time": 1756211603,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 111335,
       "num": 111335,
       "word": "小蝶 退役",
@@ -2313,6 +2361,14 @@
       "onboard_time": 1756205123,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 109642,
+      "num": 109642,
+      "word": "林高远方呼吁尊重运动员私人空间",
+      "onboard_time": 1756213522,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109530,
@@ -2507,14 +2563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91466,
-      "num": 214371,
-      "word": "日本人在台北闹市区展示五星红旗",
-      "onboard_time": 1756211965,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90835,
       "num": 90835,
       "word": "持刀追赶男孩女子有精神分裂症",
@@ -2649,6 +2697,14 @@
       "onboard_time": 1756164140,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75693,
+      "num": 136295,
+      "word": "徐艺洋回应网友怎么看上黄子韬",
+      "onboard_time": 1756212923,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 75271,
@@ -3027,16 +3083,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38651,
-      "num": 466233,
-      "word": "深圳经济特区生日快乐",
-      "onboard_time": 1756201822,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38426,
-      "num": 220383,
+      "num": 347543,
       "word": "李昀锐京东直播",
       "onboard_time": 1756210042,
       "rank": 14,
@@ -3121,6 +3169,14 @@
       "onboard_time": 1756205123,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31063,
+      "num": 135981,
+      "word": "武警官兵劈枪请党和人民检阅",
+      "onboard_time": 1756213043,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30318,

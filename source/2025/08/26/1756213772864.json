@@ -1,0 +1,410 @@
+{
+  "runTime": 1756213772864,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1009083,
+        "num": 1161453,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596742,
+        "num": 596742,
+        "word": "王青直播",
+        "onboard_time": 1756210163,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29785,
+        "num": 587361,
+        "word": "让战歌点燃我们的烽火记忆",
+        "onboard_time": 1756205123,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 585447,
+        "num": 585447,
+        "word": "育儿补贴不能被商家掏走",
+        "onboard_time": 1756209923,
+        "rank": 3,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 493104,
+        "num": 493104,
+        "word": "青春芒果夜节目单",
+        "onboard_time": 1756209442,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449164,
+        "num": 449164,
+        "word": "深圳欢乐谷被指有擦边表演",
+        "onboard_time": 1756206982,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381252,
+        "num": 381252,
+        "word": "日本人在台北闹市区展示五星红旗",
+        "onboard_time": 1756211965,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369241,
+        "num": 369241,
+        "word": "中方提出严肃交涉要求日方澄清",
+        "onboard_time": 1756197923,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353259,
+        "num": 353259,
+        "word": "杨威被儿子千元计算器暴击",
+        "onboard_time": 1756203263,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266058,
+        "num": 352896,
+        "word": "印度一孕妇被丈夫勒死并肢解",
+        "onboard_time": 1756209623,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1418290,
+        "num": 352570,
+        "word": "高端伴游 色情交易",
+        "onboard_time": 1756210943,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 770560,
+        "num": 352226,
+        "word": "叶舒华汉服",
+        "onboard_time": 1756209083,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447227,
+        "num": 351906,
+        "word": "孟子义jennie穿了同款",
+        "onboard_time": 1756207342,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351702,
+        "num": 351702,
+        "word": "梓渝 时装男士",
+        "onboard_time": 1756207403,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25818,
+        "num": 347543,
+        "word": "李昀锐京东直播",
+        "onboard_time": 1756210042,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420467,
+        "num": 346735,
+        "word": "黄景瑜前妻点赞了许荔莎",
+        "onboard_time": 1756203742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344015,
+        "num": 344015,
+        "word": "许凯被曝劈腿后节目未受影响",
+        "onboard_time": 1756202722,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325316,
+        "num": 325316,
+        "word": "柴鸡蛋求推荐新人",
+        "onboard_time": 1756204282,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312673,
+        "num": 312673,
+        "word": "6点半下班真的好残忍啊",
+        "onboard_time": 1756203022,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246545,
+        "num": 246545,
+        "word": "被老虎咬死小猫遗体已做无害化处理",
+        "onboard_time": 1756207342,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 816105,
+        "num": 246148,
+        "word": "奚梦瑶回宫",
+        "onboard_time": 1756205003,
+        "rank": 20,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 567658,
+        "num": 244839,
+        "word": "子夜归男二掀桌",
+        "onboard_time": 1756204884,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462662,
+        "num": 243303,
+        "word": "女子月用电近2000度不敢开空调",
+        "onboard_time": 1756211482,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240424,
+        "num": 240424,
+        "word": "你和我说这是华晨宇",
+        "onboard_time": 1756200023,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204181,
+        "num": 204181,
+        "word": "马嘉祺拿了MVP也淡淡的",
+        "onboard_time": 1756212382,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237764,
+        "num": 204107,
+        "word": "建议在26岁之前谈恋爱",
+        "onboard_time": 1756210463,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203439,
+        "num": 203439,
+        "word": "孙颖莎直播",
+        "onboard_time": 1756212442,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193354,
+        "num": 193354,
+        "word": "王青健身",
+        "onboard_time": 1756212563,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180884,
+        "num": 180884,
+        "word": "樊振东将出席德甲俱乐部新闻发布会",
+        "onboard_time": 1756212863,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164733,
+        "num": 164733,
+        "word": "日本一股否认侵略历史逆流持续涌动",
+        "onboard_time": 1756195523,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164702,
+        "num": 164702,
+        "word": "王楚钦致敬李宁",
+        "onboard_time": 1756208662,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156018,
+        "num": 156018,
+        "word": "柴鸡蛋说剧组没有举办揭幕仪式",
+        "onboard_time": 1756211061,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153687,
+        "num": 153687,
+        "word": "早期的张维伊",
+        "onboard_time": 1756213164,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149454,
+        "num": 149454,
+        "word": "物业费普通人负担不起了",
+        "onboard_time": 1756212981,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145411,
+        "num": 146790,
+        "word": "青春芒果夜",
+        "onboard_time": 1756211362,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146069,
+        "num": 146069,
+        "word": "小酒窝回应暑假赚奶粉钱",
+        "onboard_time": 1756201042,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145737,
+        "num": 145737,
+        "word": "阴阳师",
+        "onboard_time": 1756213402,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143322,
+        "num": 143322,
+        "word": "田曦薇过年收到的消息都还没回",
+        "onboard_time": 1756210042,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137678,
+        "num": 137678,
+        "word": "李雪琴胃里切了8个息肉",
+        "onboard_time": 1756190484,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75693,
+        "num": 136295,
+        "word": "徐艺洋回应网友怎么看上黄子韬",
+        "onboard_time": 1756212923,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31063,
+        "num": 135981,
+        "word": "武警官兵劈枪请党和人民检阅",
+        "onboard_time": 1756213043,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135883,
+        "num": 135883,
+        "word": "吴昕体重直逼100斤",
+        "onboard_time": 1756192223,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122418,
+        "num": 122418,
+        "word": "iPhone做会议纪要",
+        "onboard_time": 1756212263,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119058,
+        "num": 119058,
+        "word": "吴艳妮压哨入围世锦赛",
+        "onboard_time": 1756211242,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117056,
+        "num": 117056,
+        "word": "甜馨小酒窝cha了刀马",
+        "onboard_time": 1756208662,
+        "rank": 44,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 115212,
+        "num": 115212,
+        "word": "女子嘲笑丈夫失业被判精神虐待",
+        "onboard_time": 1756211603,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113442,
+        "num": 113442,
+        "word": "退休金1700元的独居生活",
+        "onboard_time": 1756205182,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113207,
+        "num": 113207,
+        "word": "深圳经济特区生日快乐",
+        "onboard_time": 1756201822,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112012,
+        "num": 112012,
+        "word": "刘耀文明天还回公司干吗",
+        "onboard_time": 1756204402,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109642,
+        "num": 109642,
+        "word": "林高远方呼吁尊重运动员私人空间",
+        "onboard_time": 1756213522,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平夫妇会见柬埔寨国王和太后#"
+    }
+  }
+}
