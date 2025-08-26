@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756222899307,
+  "endTime": 1756225932429,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 925114,
+      "num": 226593,
+      "word": "赵丽颖刘亦菲杨紫S加女演员",
+      "onboard_time": 1756222942,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 924232,
       "num": 1147877,
       "word": "郑恺工作室发声明",
@@ -1067,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 607370,
+      "num": 221307,
+      "word": "吴京 狐狸京",
+      "onboard_time": 1756220967,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606531,
       "num": 606531,
       "word": "深圳欢乐谷被指有擦边表演",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1756077740,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 596430,
+      "num": 219075,
+      "word": "谢霆锋与大儿子Lucas同框合影",
+      "onboard_time": 1756221026,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 595880,
@@ -1699,14 +1723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 452414,
-      "num": 195582,
-      "word": "谢霆锋与大儿子Lucas同框合影",
-      "onboard_time": 1756221026,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 450609,
       "num": 233445,
       "word": "女子疑家暴去世其丈夫婆婆被刑拘",
@@ -1748,7 +1764,7 @@
     },
     {
       "raw_hot": 445811,
-      "num": 197325,
+      "num": 217348,
       "word": "Jennie长沙快闪店发夹169元",
       "onboard_time": 1756218925,
       "rank": 34,
@@ -1985,6 +2001,14 @@
       "onboard_time": 1755991037,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410178,
+      "num": 823979,
+      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
+      "onboard_time": 1756218142,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 409061,
@@ -2291,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345716,
-      "num": 345716,
-      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
-      "onboard_time": 1756218142,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345472,
       "num": 274921,
       "word": "欧阳娜娜还是太谨慎了",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1755950124,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334595,
+      "num": 334595,
+      "word": "官方通报三亚高空坠物致1死2伤",
+      "onboard_time": 1756223004,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 333490,
@@ -2523,11 +2547,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300528,
+      "num": 300528,
+      "word": "李佳薇 逆光",
+      "onboard_time": 1756223664,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 299315,
+      "num": 299315,
+      "word": "鲁迅夹烟形象墙画不会换",
+      "onboard_time": 1756219284,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299297,
       "num": 299297,
       "word": "12306回应乘客自发擦拭车窗",
       "onboard_time": 1755993800,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299175,
+      "num": 299175,
+      "word": "军训死亡女生尸检还需20多个工作日",
+      "onboard_time": 1756221444,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2707,22 +2755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269656,
-      "num": 188591,
-      "word": "吴京 狐狸京",
-      "onboard_time": 1756220967,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 269420,
-      "num": 269420,
-      "word": "鲁迅夹烟形象墙画不会换",
-      "onboard_time": 1756219284,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268586,
       "num": 195743,
       "word": "乌兰察布",
@@ -2801,6 +2833,14 @@
       "onboard_time": 1756079481,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258299,
+      "num": 258299,
+      "word": "73岁老人用铁锨打死妻子被判无期",
+      "onboard_time": 1756223903,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258114,
@@ -3201,6 +3241,14 @@
       "onboard_time": 1756011984,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 222724,
+      "num": 158158,
+      "word": "刘雨昕 美背",
+      "onboard_time": 1756223123,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 222511,
@@ -5089,14 +5137,6 @@
       "onboard_time": 1756003283,
       "rank": 34,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 164439,
-      "num": 198454,
-      "word": "军训死亡女生尸检还需20多个工作日",
-      "onboard_time": 1756221444,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163954,
@@ -7083,6 +7123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126806,
+      "num": 228337,
+      "word": "目击者称游客蹦极绳断坠落见到血迹",
+      "onboard_time": 1756224322,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126785,
       "num": 126785,
       "word": "TES对战FPX",
@@ -7113,6 +7161,14 @@
       "onboard_time": 1756110143,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126015,
+      "num": 126015,
+      "word": "丹麦女子育儿测试不合格女儿被带走",
+      "onboard_time": 1756222283,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125854,
@@ -8099,6 +8155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111310,
+      "num": 111310,
+      "word": "严浩翔歪头ending",
+      "onboard_time": 1756224622,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110973,
       "num": 110973,
       "word": "余承东首谈为什么要造旅行车",
@@ -8489,6 +8553,14 @@
       "onboard_time": 1756028122,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105232,
+      "num": 105232,
+      "word": "酒店装修工程推车坠落致1死2伤",
+      "onboard_time": 1756225222,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105105,
@@ -9011,6 +9083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97099,
+      "num": 97099,
+      "word": "警方回应游客蹦极疑因绳子断裂坠落",
+      "onboard_time": 1756222466,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97082,
       "num": 97082,
       "word": "原来腿长的小猫是这样玩的",
@@ -9283,12 +9363,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90032,
+      "num": 90032,
+      "word": "学生举板凳砸老师警方介入",
+      "onboard_time": 1756225461,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89722,
       "num": 89722,
       "word": "王曼昱庆祝动作好燃",
       "onboard_time": 1756027641,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89609,
+      "num": 95804,
+      "word": "倪萍 我来蹭蹭迟蓬的流量",
+      "onboard_time": 1756225222,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 89532,
@@ -9377,6 +9473,14 @@
       "onboard_time": 1756028302,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86890,
+      "num": 86890,
+      "word": "王一博极限36小时",
+      "onboard_time": 1756223963,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 86100,
@@ -9779,6 +9883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71761,
+      "num": 71761,
+      "word": "陈飞宇直播",
+      "onboard_time": 1756224204,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71618,
       "num": 192151,
       "word": "尚界H5或颠覆20万级SUV市场格局",
@@ -9793,6 +9905,14 @@
       "onboard_time": 1756020503,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70821,
+      "num": 70821,
+      "word": "王一珩生日请粉丝吃饭",
+      "onboard_time": 1756225520,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 70679,
@@ -9952,14 +10072,6 @@
       "word": "日本街头吸烟区",
       "onboard_time": 1756191982,
       "rank": 38,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 65463,
-      "num": 111369,
-      "word": "丹麦女子育儿测试不合格女儿被带走",
-      "onboard_time": 1756222283,
-      "rank": 44,
       "category": "海外新闻"
     },
     {
@@ -11184,6 +11296,14 @@
       "word": "高速戴恐怖面具吓人不如露脸道歉",
       "onboard_time": 1756179080,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25391,
+      "num": 75403,
+      "word": "乘客回应国航一航班紧急备降俄罗斯",
+      "onboard_time": 1756224082,
+      "rank": 44,
       "category": "民生新闻"
     },
     {

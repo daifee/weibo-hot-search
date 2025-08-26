@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/26 23:41:39
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/27 00:32:12
 </p>
 </blockquote>
 <p>
@@ -3993,6 +3993,12 @@ B站崩了（热度：964843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A8%E7%B4%ABS%E5%8A%A0%E5%A5%B3%E6%BC%94%E5%91%98%23" target="weibo">
+赵丽颖刘亦菲杨紫S加女演员（热度：925114）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%B4%B8%E6%98%93%E5%8F%B2%E4%B8%8A%E8%BF%8E%E6%9D%A5%E9%BB%91%E6%9A%97%E4%B8%80%E5%A4%A9%23" target="weibo">
 全球贸易史上迎来黑暗一天（热度：924768）
 </a>
@@ -6005,12 +6011,6 @@ WBG对战iG（热度：714161）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%A1%95%E5%A3%AB%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E8%B7%AF%E4%B9%9F%E5%BF%AB%E6%B2%A1%E4%BA%86%23" target="weibo">
 文科硕士的最后一条路也快没了（热度：713191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E4%B8%8A%E6%98%A0%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E8%B7%B3%E8%84%9A%23" target="weibo">
-南京照相馆上映日本网民跳脚（热度：712492）
 </a>
 </li>
 

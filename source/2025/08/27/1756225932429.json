@@ -1,0 +1,410 @@
+{
+  "runTime": 1756225932429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 410178,
+        "num": 823979,
+        "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
+        "onboard_time": 1756218142,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334595,
+        "num": 334595,
+        "word": "官方通报三亚高空坠物致1死2伤",
+        "onboard_time": 1756223004,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 8056,
+        "num": 312928,
+        "word": "这是尹春燕和蔡永章的故事",
+        "onboard_time": 1756191502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300528,
+        "num": 300528,
+        "word": "李佳薇 逆光",
+        "onboard_time": 1756223664,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299315,
+        "num": 299315,
+        "word": "鲁迅夹烟形象墙画不会换",
+        "onboard_time": 1756219284,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299175,
+        "num": 299175,
+        "word": "军训死亡女生尸检还需20多个工作日",
+        "onboard_time": 1756221444,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258299,
+        "num": 258299,
+        "word": "73岁老人用铁锨打死妻子被判无期",
+        "onboard_time": 1756223903,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238352,
+        "num": 238352,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229173,
+        "num": 229173,
+        "word": "郑恺工作室发声明",
+        "onboard_time": 1756220186,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126806,
+        "num": 228337,
+        "word": "目击者称游客蹦极绳断坠落见到血迹",
+        "onboard_time": 1756224322,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925114,
+        "num": 226593,
+        "word": "赵丽颖刘亦菲杨紫S加女演员",
+        "onboard_time": 1756222942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688724,
+        "num": 223908,
+        "word": "高端伴游 色情交易",
+        "onboard_time": 1756210943,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 607370,
+        "num": 221307,
+        "word": "吴京 狐狸京",
+        "onboard_time": 1756220967,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596430,
+        "num": 219075,
+        "word": "谢霆锋与大儿子Lucas同框合影",
+        "onboard_time": 1756221026,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343097,
+        "num": 217348,
+        "word": "Jennie长沙快闪店发夹169元",
+        "onboard_time": 1756218925,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299766,
+        "num": 214173,
+        "word": "早期的张维伊",
+        "onboard_time": 1756213164,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213479,
+        "num": 213479,
+        "word": "黄景瑜前妻点赞了许荔莎",
+        "onboard_time": 1756203742,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190122,
+        "num": 190122,
+        "word": "育儿补贴不能被商家掏走",
+        "onboard_time": 1756209923,
+        "rank": 17,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 185683,
+        "num": 185683,
+        "word": "张予曦毕雯珺借位吻",
+        "onboard_time": 1756214662,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161068,
+        "num": 161068,
+        "word": "许荔莎沈泰互关",
+        "onboard_time": 1756215983,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2643489,
+        "num": 160323,
+        "word": "郑恺小姨子",
+        "onboard_time": 1756219584,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308048,
+        "num": 159027,
+        "word": "女子月用电近2000度不敢开空调",
+        "onboard_time": 1756211482,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222724,
+        "num": 158158,
+        "word": "刘雨昕 美背",
+        "onboard_time": 1756223123,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155097,
+        "num": 155097,
+        "word": "深圳经济特区生日快乐",
+        "onboard_time": 1756201822,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149425,
+        "num": 149425,
+        "word": "官方通报游客体验蹦极时受伤",
+        "onboard_time": 1756222404,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 126015,
+        "num": 126015,
+        "word": "丹麦女子育儿测试不合格女儿被带走",
+        "onboard_time": 1756222283,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122639,
+        "num": 122639,
+        "word": "田曦薇过年收到的消息都还没回",
+        "onboard_time": 1756210042,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121037,
+        "num": 121037,
+        "word": "叶舒华汉服",
+        "onboard_time": 1756209083,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111310,
+        "num": 111310,
+        "word": "严浩翔歪头ending",
+        "onboard_time": 1756224622,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109187,
+        "num": 109187,
+        "word": "献鱼",
+        "onboard_time": 1756218325,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107101,
+        "num": 107101,
+        "word": "奚梦瑶回宫",
+        "onboard_time": 1756205003,
+        "rank": 30,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 105232,
+        "num": 105232,
+        "word": "酒店装修工程推车坠落致1死2伤",
+        "onboard_time": 1756225222,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97099,
+        "num": 97099,
+        "word": "警方回应游客蹦极疑因绳子断裂坠落",
+        "onboard_time": 1756222466,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95910,
+        "num": 95910,
+        "word": "妈妈甚至在空中还翘着二郎腿",
+        "onboard_time": 1756222524,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89609,
+        "num": 95804,
+        "word": "倪萍 我来蹭蹭迟蓬的流量",
+        "onboard_time": 1756225222,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95726,
+        "num": 95726,
+        "word": "孟子义jennie穿了同款",
+        "onboard_time": 1756207342,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93981,
+        "num": 93981,
+        "word": "建议在26岁之前谈恋爱",
+        "onboard_time": 1756210463,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90032,
+        "num": 90032,
+        "word": "学生举板凳砸老师警方介入",
+        "onboard_time": 1756225461,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88283,
+        "num": 88283,
+        "word": "你和我说这是华晨宇",
+        "onboard_time": 1756200023,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86890,
+        "num": 86890,
+        "word": "王一博极限36小时",
+        "onboard_time": 1756223963,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86555,
+        "num": 86555,
+        "word": "6点半下班真的好残忍啊",
+        "onboard_time": 1756203022,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84132,
+        "num": 84132,
+        "word": "许凯被曝劈腿后节目未受影响",
+        "onboard_time": 1756202722,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81409,
+        "num": 81409,
+        "word": "寒武纪上半年净赚超10亿元",
+        "onboard_time": 1756222466,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79383,
+        "num": 79383,
+        "word": "深圳欢乐谷被指有擦边表演",
+        "onboard_time": 1756206982,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25391,
+        "num": 75403,
+        "word": "乘客回应国航一航班紧急备降俄罗斯",
+        "onboard_time": 1756224082,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71761,
+        "num": 71761,
+        "word": "陈飞宇直播",
+        "onboard_time": 1756224204,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70821,
+        "num": 70821,
+        "word": "王一珩生日请粉丝吃饭",
+        "onboard_time": 1756225520,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70411,
+        "num": 70411,
+        "word": "时代少年团压轴",
+        "onboard_time": 1756219165,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46065,
+        "num": 69740,
+        "word": "馒头的绝配到底是什么啊",
+        "onboard_time": 1756216283,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 69667,
+        "num": 69667,
+        "word": "九尾再也不挑战中辣了",
+        "onboard_time": 1756222466,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}
