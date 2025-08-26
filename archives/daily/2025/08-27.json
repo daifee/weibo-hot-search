@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756229019722,
+  "endTime": 1756230037753,
   "band_list": [
     {
       "raw_hot": 2643489,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170986,
+      "num": 129890,
+      "word": "郑恺方回应停用丈母娘亲属卡",
+      "onboard_time": 1756228039,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161068,
       "num": 161068,
       "word": "许荔莎沈泰互关",
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151664,
+      "num": 151664,
+      "word": "霉霉订婚",
+      "onboard_time": 1756229957,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149425,
       "num": 149425,
       "word": "官方通报游客体验蹦极时受伤",
@@ -224,14 +240,6 @@
       "word": "倪萍 我来蹭蹭迟蓬的流量",
       "onboard_time": 1756225222,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 129890,
-      "num": 129890,
-      "word": "郑恺方回应停用丈母娘亲属卡",
-      "onboard_time": 1756228039,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -259,8 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113697,
-      "num": 66003,
+      "raw_hot": 118884,
+      "num": 70151,
       "word": "日本怕九三阅兵让世界铭记其侵略",
       "onboard_time": 1756227679,
       "rank": 30,
@@ -449,6 +457,30 @@
       "onboard_time": 1756204884,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43907,
+      "num": 51659,
+      "word": "张若昀张维伊对手戏",
+      "onboard_time": 1756229357,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38013,
+      "num": 38013,
+      "word": "能不能一键快进到下周三",
+      "onboard_time": 1756217604,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31750,
+      "num": 38013,
+      "word": "日本人在台北闹市区展示五星红旗",
+      "onboard_time": 1756211965,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25391,
