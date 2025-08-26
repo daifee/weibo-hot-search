@@ -1,0 +1,410 @@
+{
+  "runTime": 1756218332198,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1084330,
+        "num": 1173492,
+        "word": "育儿补贴不能被商家掏走",
+        "onboard_time": 1756209923,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 793717,
+        "num": 793717,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15031,
+        "num": 756427,
+        "word": "这是尹春燕和蔡永章的故事",
+        "onboard_time": 1756191502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725948,
+        "num": 725948,
+        "word": "柴鸡蛋招新",
+        "onboard_time": 1756214544,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714027,
+        "num": 714027,
+        "word": "张予曦毕雯珺借位吻",
+        "onboard_time": 1756214662,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471974,
+        "num": 471974,
+        "word": "日本人在台北闹市区展示五星红旗",
+        "onboard_time": 1756211965,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369222,
+        "num": 369222,
+        "word": "印度一孕妇被丈夫勒死并肢解",
+        "onboard_time": 1756209623,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249361,
+        "num": 249361,
+        "word": "深圳经济特区生日快乐",
+        "onboard_time": 1756201822,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245082,
+        "num": 245082,
+        "word": "深圳欢乐谷被指有擦边表演",
+        "onboard_time": 1756206982,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203344,
+        "num": 244293,
+        "word": "苏醒主持",
+        "onboard_time": 1756217544,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1248481,
+        "num": 243497,
+        "word": "高端伴游 色情交易",
+        "onboard_time": 1756210943,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 783627,
+        "num": 242364,
+        "word": "早期的张维伊",
+        "onboard_time": 1756213164,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673278,
+        "num": 240649,
+        "word": "许荔莎沈泰互关",
+        "onboard_time": 1756215983,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510555,
+        "num": 239608,
+        "word": "黄景瑜前妻点赞了许荔莎",
+        "onboard_time": 1756203742,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345078,
+        "num": 237172,
+        "word": "建议在26岁之前谈恋爱",
+        "onboard_time": 1756210463,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333707,
+        "num": 235758,
+        "word": "叶舒华汉服",
+        "onboard_time": 1756209083,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235723,
+        "num": 235723,
+        "word": "许凯被曝劈腿后节目未受影响",
+        "onboard_time": 1756202722,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205706,
+        "num": 205706,
+        "word": "孟子义jennie穿了同款",
+        "onboard_time": 1756207342,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62064,
+        "num": 205004,
+        "word": "你绕不过的头等舱来了",
+        "onboard_time": 1756215622,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 64113,
+        "num": 204181,
+        "word": "今晚的深圳人都在抬头看",
+        "onboard_time": 1756214422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483836,
+        "num": 201716,
+        "word": "奚梦瑶回宫",
+        "onboard_time": 1756205003,
+        "rank": 20,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 424544,
+        "num": 200752,
+        "word": "女子月用电近2000度不敢开空调",
+        "onboard_time": 1756211482,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272609,
+        "num": 199039,
+        "word": "子夜归男二掀桌",
+        "onboard_time": 1756204884,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198243,
+        "num": 198243,
+        "word": "彭昱畅20基础30就不基础",
+        "onboard_time": 1756215804,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165494,
+        "num": 190950,
+        "word": "四川一小区发文将扑杀流浪猫",
+        "onboard_time": 1756213883,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189356,
+        "num": 189356,
+        "word": "宋亚轩今晚做梦都是黄羿的锤子",
+        "onboard_time": 1756217663,
+        "rank": 25,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 187750,
+        "num": 187750,
+        "word": "王青直播",
+        "onboard_time": 1756210163,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68666,
+        "num": 176201,
+        "word": "张艺兴现身敦煌",
+        "onboard_time": 1756217544,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165552,
+        "num": 165552,
+        "word": "张维伊没有优点怎么找到老婆的",
+        "onboard_time": 1756216343,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158500,
+        "num": 158500,
+        "word": "能不能一键快进到下周三",
+        "onboard_time": 1756217604,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156714,
+        "num": 156714,
+        "word": "你和我说这是华晨宇",
+        "onboard_time": 1756200023,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149559,
+        "num": 149559,
+        "word": "疑似张真源申请加入对面战队",
+        "onboard_time": 1756215864,
+        "rank": 31,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 147544,
+        "num": 147544,
+        "word": "6点半下班真的好残忍啊",
+        "onboard_time": 1756203022,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146286,
+        "num": 146286,
+        "word": "韩国年夜饭",
+        "onboard_time": 1756216164,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144709,
+        "num": 144709,
+        "word": "林高远方声明",
+        "onboard_time": 1756217243,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144448,
+        "num": 144448,
+        "word": "小酒窝回应暑假赚奶粉钱",
+        "onboard_time": 1756201042,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139244,
+        "num": 139244,
+        "word": "梓渝 时装男士",
+        "onboard_time": 1756207403,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135796,
+        "num": 135796,
+        "word": "TES战胜FPX",
+        "onboard_time": 1756217422,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88534,
+        "num": 130563,
+        "word": "王楚钦撤回一个王楚钦",
+        "onboard_time": 1756217544,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25190,
+        "num": 130365,
+        "word": "房主任登上ChinaDaily",
+        "onboard_time": 1756217544,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130189,
+        "num": 130189,
+        "word": "国乒5人锁定WTT总决赛单打资格",
+        "onboard_time": 1756217843,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129862,
+        "num": 129862,
+        "word": "李雪琴胃里切了8个息肉",
+        "onboard_time": 1756190484,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126977,
+        "num": 126977,
+        "word": "孙颖莎直播",
+        "onboard_time": 1756212442,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125854,
+        "num": 125854,
+        "word": "寒武纪发半年报",
+        "onboard_time": 1756217303,
+        "rank": 43,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 41070,
+        "num": 124756,
+        "word": "原副县长租公立医院非法集资近7亿",
+        "onboard_time": 1756216943,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124233,
+        "num": 124233,
+        "word": "柴鸡蛋求推荐新人",
+        "onboard_time": 1756204282,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123306,
+        "num": 123306,
+        "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
+        "onboard_time": 1756218142,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119738,
+        "num": 119738,
+        "word": "陈飞宇吸血鬼王子造型",
+        "onboard_time": 1756218205,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114571,
+        "num": 114571,
+        "word": "九重天",
+        "onboard_time": 1756218263,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111186,
+        "num": 111186,
+        "word": "吴昕体重直逼100斤",
+        "onboard_time": 1756192223,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}

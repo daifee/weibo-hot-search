@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756216154782,
+  "endTime": 1756218332198,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -6907,6 +6907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 783627,
+      "num": 271228,
+      "word": "早期的张维伊",
+      "onboard_time": 1756213164,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 783475,
       "num": 319349,
       "word": "李世民扮演者称演员要养家糊口",
@@ -7931,6 +7939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 714027,
+      "num": 714027,
+      "word": "张予曦毕雯珺借位吻",
+      "onboard_time": 1756214662,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 713631,
       "num": 669346,
       "word": "绣绣意外流产了",
@@ -8705,6 +8721,14 @@
       "onboard_time": 1754386704,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 673278,
+      "num": 240649,
+      "word": "许荔莎沈泰互关",
+      "onboard_time": 1756215983,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 673272,
@@ -13435,14 +13459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 479437,
-      "num": 271228,
-      "word": "早期的张维伊",
-      "onboard_time": 1756213164,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 479298,
       "num": 479298,
       "word": "南部战区回应美舰非法闯入黄岩岛领海",
@@ -16739,14 +16755,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 389091,
-      "num": 389091,
-      "word": "张予曦毕雯珺借位吻",
-      "onboard_time": 1756214662,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 389036,
       "num": 273779,
       "word": "终于学会漂漂亮亮不随份子钱",
@@ -18681,6 +18689,14 @@
       "onboard_time": 1755075922,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 345078,
+      "num": 270950,
+      "word": "建议在26岁之前谈恋爱",
+      "onboard_time": 1756210463,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 344537,
@@ -22545,14 +22561,6 @@
       "onboard_time": 1754401283,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275085,
-      "num": 270950,
-      "word": "建议在26岁之前谈恋爱",
-      "onboard_time": 1756210463,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 274774,
@@ -30563,6 +30571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203344,
+      "num": 244293,
+      "word": "苏醒主持",
+      "onboard_time": 1756217544,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203339,
       "num": 131543,
       "word": "W盛典红毯是按首字母顺序",
@@ -35057,6 +35073,14 @@
       "onboard_time": 1754994682,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189356,
+      "num": 189356,
+      "word": "宋亚轩今晚做梦都是黄羿的锤子",
+      "onboard_time": 1756217663,
+      "rank": 25,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 189309,
@@ -42035,6 +42059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165552,
+      "num": 165552,
+      "word": "张维伊没有优点怎么找到老婆的",
+      "onboard_time": 1756216343,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165517,
       "num": 165517,
       "word": "生万物偏偏你最争气",
@@ -42049,6 +42081,14 @@
       "onboard_time": 1754369665,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165494,
+      "num": 190950,
+      "word": "四川一小区发文将扑杀流浪猫",
+      "onboard_time": 1756213883,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165479,
@@ -44753,6 +44793,14 @@
       "onboard_time": 1754360541,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158500,
+      "num": 158500,
+      "word": "能不能一键快进到下周三",
+      "onboard_time": 1756217604,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158468,
@@ -49491,6 +49539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146286,
+      "num": 146286,
+      "word": "韩国年夜饭",
+      "onboard_time": 1756216164,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146282,
       "num": 146282,
       "word": "早田希娜3比2张本美和",
@@ -50257,6 +50313,14 @@
       "onboard_time": 1754383465,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144709,
+      "num": 144709,
+      "word": "林高远方声明",
+      "onboard_time": 1756217243,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 144675,
@@ -52251,14 +52315,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 140554,
-      "num": 140554,
-      "word": "四川一小区发文将扑杀流浪猫",
-      "onboard_time": 1756213883,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140525,
       "num": 140525,
       "word": "宁学祥打不过银子的原因找到了",
@@ -52665,14 +52721,6 @@
       "onboard_time": 1754052501,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139489,
-      "num": 139489,
-      "word": "许荔莎沈泰互关",
-      "onboard_time": 1756215983,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 139480,
@@ -54705,6 +54753,14 @@
       "onboard_time": 1755148943,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 135796,
+      "num": 135796,
+      "word": "TES战胜FPX",
+      "onboard_time": 1756217422,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 135779,
@@ -57563,6 +57619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130189,
+      "num": 130189,
+      "word": "国乒5人锁定WTT总决赛单打资格",
+      "onboard_time": 1756217843,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130182,
       "num": 130182,
       "word": "王赫野请武艺全家看演唱会",
@@ -60091,6 +60155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125854,
+      "num": 125854,
+      "word": "寒武纪发半年报",
+      "onboard_time": 1756217303,
+      "rank": 43,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 125815,
       "num": 125815,
       "word": "吴艳妮说13秒15拿冠军开心不起来",
@@ -61289,6 +61361,14 @@
       "onboard_time": 1754799801,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123306,
+      "num": 123306,
+      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
+      "onboard_time": 1756218142,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123296,
@@ -63185,6 +63265,14 @@
       "onboard_time": 1756029861,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119738,
+      "num": 119738,
+      "word": "陈飞宇吸血鬼王子造型",
+      "onboard_time": 1756218205,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 119731,
@@ -65801,6 +65889,14 @@
       "onboard_time": 1754236462,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114571,
+      "num": 114571,
+      "word": "九重天",
+      "onboard_time": 1756218263,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 114570,
@@ -76379,6 +76475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88534,
+      "num": 130563,
+      "word": "王楚钦撤回一个王楚钦",
+      "onboard_time": 1756217544,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88531,
       "num": 110087,
       "word": "第一次见王者图标后脑勺",
@@ -80361,6 +80465,14 @@
       "onboard_time": 1754211804,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68666,
+      "num": 176201,
+      "word": "张艺兴现身敦煌",
+      "onboard_time": 1756217544,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 68589,
@@ -85755,6 +85867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41070,
+      "num": 124756,
+      "word": "原副县长租公立医院非法集资近7亿",
+      "onboard_time": 1756216943,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41062,
       "num": 62558,
       "word": "宁夏灵武2.4级地震",
@@ -89139,6 +89259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25190,
+      "num": 130365,
+      "word": "房主任登上ChinaDaily",
+      "onboard_time": 1756217544,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25157,
       "num": 46375,
       "word": "汪苏泷20号小怪物叫蓝不岛",
@@ -91041,6 +91169,14 @@
       "onboard_time": 1755193456,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15031,
+      "num": 756427,
+      "word": "这是尹春燕和蔡永章的故事",
+      "onboard_time": 1756191502,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14989,

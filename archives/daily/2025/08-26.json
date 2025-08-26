@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756216154782,
+  "endTime": 1756218332198,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -195,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 783627,
+      "num": 271228,
+      "word": "早期的张维伊",
+      "onboard_time": 1756213164,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770560,
       "num": 352226,
       "word": "叶舒华汉服",
@@ -251,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 714027,
+      "num": 714027,
+      "word": "张予曦毕雯珺借位吻",
+      "onboard_time": 1756214662,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712140,
       "num": 712140,
       "word": "子夜归男二掀桌",
@@ -296,6 +312,14 @@
       "word": "王青直播",
       "onboard_time": 1756210163,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 673278,
+      "num": 240649,
+      "word": "许荔莎沈泰互关",
+      "onboard_time": 1756215983,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -491,14 +515,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 479437,
-      "num": 271228,
-      "word": "早期的张维伊",
-      "onboard_time": 1756213164,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 454511,
       "num": 644382,
       "word": "中国地下700米有了个全球第一",
@@ -659,14 +675,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 389091,
-      "num": 389091,
-      "word": "张予曦毕雯珺借位吻",
-      "onboard_time": 1756214662,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 384645,
       "num": 384645,
       "word": "杨威被儿子千元计算器暴击",
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345078,
+      "num": 270950,
+      "word": "建议在26岁之前谈恋爱",
+      "onboard_time": 1756210463,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 341779,
       "num": 341779,
       "word": "刘浩存宋威龙 簪星",
@@ -793,14 +809,6 @@
       "onboard_time": 1756172003,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 275085,
-      "num": 270950,
-      "word": "建议在26岁之前谈恋爱",
-      "onboard_time": 1756210463,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 270782,
@@ -1131,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203344,
+      "num": 244293,
+      "word": "苏醒主持",
+      "onboard_time": 1756217544,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202919,
       "num": 202919,
       "word": "脱口秀知网诞生了",
@@ -1347,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189356,
+      "num": 189356,
+      "word": "宋亚轩今晚做梦都是黄羿的锤子",
+      "onboard_time": 1756217663,
+      "rank": 25,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 186722,
       "num": 273952,
       "word": "丁程鑫rua宋轶的头",
@@ -1555,6 +1579,22 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 165552,
+      "num": 165552,
+      "word": "张维伊没有优点怎么找到老婆的",
+      "onboard_time": 1756216343,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 165494,
+      "num": 190950,
+      "word": "四川一小区发文将扑杀流浪猫",
+      "onboard_time": 1756213883,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165266,
       "num": 236682,
       "word": "双胞胎在同一排面接受检阅",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1756184723,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158500,
+      "num": 158500,
+      "word": "能不能一键快进到下周三",
+      "onboard_time": 1756217604,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158468,
@@ -1787,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146286,
+      "num": 146286,
+      "word": "韩国年夜饭",
+      "onboard_time": 1756216164,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 145767,
       "num": 145767,
       "word": "莲花楼暑期爆款剧王第二",
@@ -1825,6 +1881,14 @@
       "onboard_time": 1756211362,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144709,
+      "num": 144709,
+      "word": "林高远方声明",
+      "onboard_time": 1756217243,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 144653,
@@ -1889,22 +1953,6 @@
       "onboard_time": 1756201282,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140554,
-      "num": 140554,
-      "word": "四川一小区发文将扑杀流浪猫",
-      "onboard_time": 1756213883,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139489,
-      "num": 139489,
-      "word": "许荔莎沈泰互关",
-      "onboard_time": 1756215983,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 139371,
@@ -2001,6 +2049,14 @@
       "onboard_time": 1756189883,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135796,
+      "num": 135796,
+      "word": "TES战胜FPX",
+      "onboard_time": 1756217422,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 135619,
@@ -2155,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130189,
+      "num": 130189,
+      "word": "国乒5人锁定WTT总决赛单打资格",
+      "onboard_time": 1756217843,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129241,
       "num": 177348,
       "word": "17岁高中生勇救六旬婆婆时溺亡",
@@ -2267,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125854,
+      "num": 125854,
+      "word": "寒武纪发半年报",
+      "onboard_time": 1756217303,
+      "rank": 43,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 125583,
       "num": 125583,
       "word": "林诗栋总结瑞典大满贯",
@@ -2289,6 +2361,14 @@
       "onboard_time": 1756132466,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123306,
+      "num": 123306,
+      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
+      "onboard_time": 1756218142,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122732,
@@ -2345,6 +2425,14 @@
       "onboard_time": 1756178002,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119738,
+      "num": 119738,
+      "word": "陈飞宇吸血鬼王子造型",
+      "onboard_time": 1756218205,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 118906,
@@ -2417,6 +2505,14 @@
       "onboard_time": 1756192342,
       "rank": 37,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 114571,
+      "num": 114571,
+      "word": "九重天",
+      "onboard_time": 1756218263,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 114568,
@@ -2739,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88534,
+      "num": 130563,
+      "word": "王楚钦撤回一个王楚钦",
+      "onboard_time": 1756217544,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86990,
       "num": 86990,
       "word": "秃子发diss",
@@ -2936,6 +3040,14 @@
       "word": "王一博拍照动作神似敦煌飞天",
       "onboard_time": 1756125683,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68666,
+      "num": 176201,
+      "word": "张艺兴现身敦煌",
+      "onboard_time": 1756217544,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -3227,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41070,
+      "num": 124756,
+      "word": "原副县长租公立医院非法集资近7亿",
+      "onboard_time": 1756216943,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40105,
       "num": 57418,
       "word": "23岁怀孕上大学的经历和感受",
@@ -3387,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25190,
+      "num": 130365,
+      "word": "房主任登上ChinaDaily",
+      "onboard_time": 1756217544,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24958,
       "num": 37400,
       "word": "汶川地震被救男孩将参加阅兵",
@@ -3497,6 +3625,14 @@
       "onboard_time": 1756149675,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15031,
+      "num": 756427,
+      "word": "这是尹春燕和蔡永章的故事",
+      "onboard_time": 1756191502,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13586,

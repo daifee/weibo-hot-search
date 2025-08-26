@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756216154782,
+  "endTime": 1756218332198,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -691,6 +691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 783627,
+      "num": 271228,
+      "word": "早期的张维伊",
+      "onboard_time": 1756213164,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 783209,
       "num": 292626,
       "word": "黄杨钿甜中戏开学路透",
@@ -811,6 +819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 714027,
+      "num": 714027,
+      "word": "张予曦毕雯珺借位吻",
+      "onboard_time": 1756214662,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712140,
       "num": 712140,
       "word": "子夜归男二掀桌",
@@ -897,6 +913,14 @@
       "onboard_time": 1756061055,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 673278,
+      "num": 240649,
+      "word": "许荔莎沈泰互关",
+      "onboard_time": 1756215983,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 671655,
@@ -1579,14 +1603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 479437,
-      "num": 271228,
-      "word": "早期的张维伊",
-      "onboard_time": 1756213164,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 470380,
       "num": 483978,
       "word": "掐了鲁迅的烟谁来点燃思想的火",
@@ -2003,14 +2019,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 389091,
-      "num": 389091,
-      "word": "张予曦毕雯珺借位吻",
-      "onboard_time": 1756214662,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 388515,
       "num": 192961,
       "word": "川航宋白金",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1756174822,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345078,
+      "num": 270950,
+      "word": "建议在26岁之前谈恋爱",
+      "onboard_time": 1756210463,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 343050,
@@ -2593,14 +2609,6 @@
       "onboard_time": 1756116024,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275085,
-      "num": 270950,
-      "word": "建议在26岁之前谈恋爱",
-      "onboard_time": 1756210463,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 274729,
@@ -3483,6 +3491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203344,
+      "num": 244293,
+      "word": "苏醒主持",
+      "onboard_time": 1756217544,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203225,
       "num": 427261,
       "word": "归队",
@@ -4129,6 +4145,14 @@
       "onboard_time": 1756038802,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189356,
+      "num": 189356,
+      "word": "宋亚轩今晚做梦都是黄羿的锤子",
+      "onboard_time": 1756217663,
+      "rank": 25,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 189286,
@@ -4907,12 +4931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165552,
+      "num": 165552,
+      "word": "张维伊没有优点怎么找到老婆的",
+      "onboard_time": 1756216343,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165517,
       "num": 165517,
       "word": "生万物偏偏你最争气",
       "onboard_time": 1756032984,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165494,
+      "num": 190950,
+      "word": "四川一小区发文将扑杀流浪猫",
+      "onboard_time": 1756213883,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165441,
@@ -5161,6 +5201,14 @@
       "onboard_time": 1756184723,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158500,
+      "num": 158500,
+      "word": "能不能一键快进到下周三",
+      "onboard_time": 1756217604,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158468,
@@ -5699,6 +5747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146286,
+      "num": 146286,
+      "word": "韩国年夜饭",
+      "onboard_time": 1756216164,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 145767,
       "num": 145767,
       "word": "莲花楼暑期爆款剧王第二",
@@ -5793,6 +5849,14 @@
       "onboard_time": 1756042707,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144709,
+      "num": 144709,
+      "word": "林高远方声明",
+      "onboard_time": 1756217243,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 144653,
@@ -6035,14 +6099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140554,
-      "num": 140554,
-      "word": "四川一小区发文将扑杀流浪猫",
-      "onboard_time": 1756213883,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140480,
       "num": 140480,
       "word": "何晟铭 于老师点点滴滴都记在心里",
@@ -6080,14 +6136,6 @@
       "word": "riize偶运会",
       "onboard_time": 1756110023,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 139489,
-      "num": 139489,
-      "word": "许荔莎沈泰互关",
-      "onboard_time": 1756215983,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -6329,6 +6377,14 @@
       "onboard_time": 1756189883,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135796,
+      "num": 135796,
+      "word": "TES战胜FPX",
+      "onboard_time": 1756217422,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 135619,
@@ -6627,6 +6683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130189,
+      "num": 130189,
+      "word": "国乒5人锁定WTT总决赛单打资格",
+      "onboard_time": 1756217843,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130151,
       "num": 130151,
       "word": "35岁女生学拉丁舞一年半的真实变化",
@@ -6907,6 +6971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125854,
+      "num": 125854,
+      "word": "寒武纪发半年报",
+      "onboard_time": 1756217303,
+      "rank": 43,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 125583,
       "num": 125583,
       "word": "林诗栋总结瑞典大满贯",
@@ -7025,6 +7097,14 @@
       "onboard_time": 1756099944,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123306,
+      "num": 123306,
+      "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
+      "onboard_time": 1756218142,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123268,
@@ -7297,6 +7377,14 @@
       "onboard_time": 1756029861,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119738,
+      "num": 119738,
+      "word": "陈飞宇吸血鬼王子造型",
+      "onboard_time": 1756218205,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 119649,
@@ -7680,6 +7768,14 @@
       "word": "宋轶想给观众新鲜感",
       "onboard_time": 1756121063,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114571,
+      "num": 114571,
+      "word": "九重天",
+      "onboard_time": 1756218263,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -9043,6 +9139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88534,
+      "num": 130563,
+      "word": "王楚钦撤回一个王楚钦",
+      "onboard_time": 1756217544,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88462,
       "num": 88462,
       "word": "生万物以为是白眼狼他却报恩了",
@@ -9553,6 +9657,14 @@
       "onboard_time": 1756056139,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68666,
+      "num": 176201,
+      "word": "张艺兴现身敦煌",
+      "onboard_time": 1756217544,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 68534,
@@ -10403,6 +10515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41070,
+      "num": 124756,
+      "word": "原副县长租公立医院非法集资近7亿",
+      "onboard_time": 1756216943,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40365,
       "num": 241715,
       "word": "让鲁迅夹烟天塌不下来",
@@ -10859,6 +10979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25190,
+      "num": 130365,
+      "word": "房主任登上ChinaDaily",
+      "onboard_time": 1756217544,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25157,
       "num": 46375,
       "word": "汪苏泷20号小怪物叫蓝不岛",
@@ -11169,6 +11297,14 @@
       "onboard_time": 1756121303,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15031,
+      "num": 756427,
+      "word": "这是尹春燕和蔡永章的故事",
+      "onboard_time": 1756191502,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14713,
