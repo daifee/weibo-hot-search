@@ -1,0 +1,410 @@
+{
+  "runTime": 1756187005816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1278915,
+        "num": 1278915,
+        "word": "上海星巴克店员被顾客持续咆哮骂哭",
+        "onboard_time": 1756181303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686833,
+        "num": 686833,
+        "word": "手机被韩国顶流男明星捡到了",
+        "onboard_time": 1756181364,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24612,
+        "num": 564258,
+        "word": "卫星互联网低轨10组卫星发射成功",
+        "onboard_time": 1756163959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 516743,
+        "num": 516743,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364589,
+        "num": 364589,
+        "word": "赴山海",
+        "onboard_time": 1756175183,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299544,
+        "num": 299544,
+        "word": "40岁男子因情感纠纷致2死1伤",
+        "onboard_time": 1756171342,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 269225,
+        "num": 269225,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756179923,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265915,
+        "num": 265915,
+        "word": "第一次对何炅小有了实感",
+        "onboard_time": 1756186283,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261938,
+        "num": 261938,
+        "word": "孙颖莎T锦绣九月刊封面",
+        "onboard_time": 1756184903,
+        "rank": 8,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 235586,
+        "num": 235586,
+        "word": "国安主场4万人见证i人男友被求婚",
+        "onboard_time": 1756185262,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 974387,
+        "num": 235586,
+        "word": "何晟铭早期嘴了半个内娱",
+        "onboard_time": 1756182204,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899279,
+        "num": 235583,
+        "word": "张万森 内娱下嫂子了",
+        "onboard_time": 1756178063,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765852,
+        "num": 235581,
+        "word": "徐冬冬直播时尹子维说漏嘴了",
+        "onboard_time": 1756184903,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728848,
+        "num": 235578,
+        "word": "王鹤棣 情绪稳定",
+        "onboard_time": 1756183945,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57674,
+        "num": 235576,
+        "word": "福布斯首次把封面交给一线劳动者",
+        "onboard_time": 1756184482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235574,
+        "num": 235574,
+        "word": "张元英 宝格丽",
+        "onboard_time": 1756176681,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 724789,
+        "num": 228531,
+        "word": "郑乃馨又起飞了",
+        "onboard_time": 1756180523,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645976,
+        "num": 225655,
+        "word": "突然发现已婚未育是人生最好的阶段",
+        "onboard_time": 1756184364,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 517881,
+        "num": 214539,
+        "word": "田栩宁高定首穿",
+        "onboard_time": 1756181784,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 366921,
+        "num": 211940,
+        "word": "王鹤棣方回应网传录音",
+        "onboard_time": 1756164920,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315578,
+        "num": 199947,
+        "word": "男子不满女儿嫁70岁老头雇凶杀婿",
+        "onboard_time": 1756179803,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198607,
+        "num": 198607,
+        "word": "无限暖暖",
+        "onboard_time": 1756186582,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192596,
+        "num": 192596,
+        "word": "42岁博主离世曾称因压力大患癌",
+        "onboard_time": 1756184482,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189571,
+        "num": 189571,
+        "word": "会买衣服的人都知道100块的含金量",
+        "onboard_time": 1756186643,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183251,
+        "num": 183251,
+        "word": "鸟鸟为什么影视圈不拍普通人的生活",
+        "onboard_time": 1756186463,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180686,
+        "num": 180686,
+        "word": "男子遇五步蛇想抓来玩被喷一脸毒",
+        "onboard_time": 1756185384,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175656,
+        "num": 175656,
+        "word": "小猫误入虎园被捕食",
+        "onboard_time": 1756185205,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151926,
+        "num": 160319,
+        "word": "陈奕迅追过的星要开音乐会了",
+        "onboard_time": 1756185802,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133906,
+        "num": 158947,
+        "word": "心动的信号",
+        "onboard_time": 1756182564,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158647,
+        "num": 158647,
+        "word": "许你于晟 偷穿红衣只为嫁你一次",
+        "onboard_time": 1756184723,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158108,
+        "num": 158108,
+        "word": "看中国阅兵一整个舒适了",
+        "onboard_time": 1756172722,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156608,
+        "num": 156608,
+        "word": "女租客退房遗弃8只猫拉黑房主",
+        "onboard_time": 1756181664,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142382,
+        "num": 142382,
+        "word": "董璇小酒窝在机场没走出来过",
+        "onboard_time": 1756172783,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137199,
+        "num": 137199,
+        "word": "甜馨小酒窝从小就认识",
+        "onboard_time": 1756183103,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132618,
+        "num": 132618,
+        "word": "爸妈赚了点钱全用来维修小孩了",
+        "onboard_time": 1756186402,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126721,
+        "num": 126721,
+        "word": "3岁女童16楼坠亡物业仅愿赔1万",
+        "onboard_time": 1756180523,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125622,
+        "num": 125622,
+        "word": "孟子义蓝色公主裙造型",
+        "onboard_time": 1756182745,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125175,
+        "num": 125175,
+        "word": "姜潮麦迪娜害怕孩子以后啃老",
+        "onboard_time": 1756181424,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28845,
+        "num": 120614,
+        "word": "美国政府曾劝埃文凯尔不要捐赠相册",
+        "onboard_time": 1756186162,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49265,
+        "num": 119410,
+        "word": "中国学生在瑞典拍敏感设施标牌被拘",
+        "onboard_time": 1756185922,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112876,
+        "num": 119372,
+        "word": "穷游的年轻人在大同排队出国",
+        "onboard_time": 1756180223,
+        "rank": 40,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 119366,
+        "num": 119366,
+        "word": "特朗普盯上驻韩美军基地土地所有权",
+        "onboard_time": 1756184243,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118738,
+        "num": 118738,
+        "word": "17岁高中生勇救六旬婆婆时溺亡",
+        "onboard_time": 1756184964,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118556,
+        "num": 118556,
+        "word": "张元英 麻辣女兵",
+        "onboard_time": 1756183765,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114992,
+        "num": 114992,
+        "word": "一代人有一代人的好物要晒",
+        "onboard_time": 1756185623,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114540,
+        "num": 114540,
+        "word": "战至巅峰官宣盛世天下战队",
+        "onboard_time": 1756184964,
+        "rank": 45,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 113374,
+        "num": 113374,
+        "word": "中国女生日本遭骚扰当场反击",
+        "onboard_time": 1756178122,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112093,
+        "num": 112093,
+        "word": "美方最低规格接待引韩媒不满",
+        "onboard_time": 1756181243,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111189,
+        "num": 111189,
+        "word": "卡戴珊侃爷女儿小西北近照",
+        "onboard_time": 1756180583,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99911,
+        "num": 110495,
+        "word": "罗永浩拉黑俞敏洪王自如",
+        "onboard_time": 1756186463,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
+    }
+  }
+}

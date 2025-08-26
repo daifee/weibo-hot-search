@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756186016467,
+  "endTime": 1756187005816,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -59,7 +59,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 957624,
+      "raw_hot": 974387,
       "num": 263672,
       "word": "何晟铭早期嘴了半个内娱",
       "onboard_time": 1756182204,
@@ -89,6 +89,14 @@
       "onboard_time": 1756179923,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 765852,
+      "num": 236802,
+      "word": "徐冬冬直播时尹子维说漏嘴了",
+      "onboard_time": 1756184903,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 739909,
@@ -121,6 +129,14 @@
       "onboard_time": 1756172783,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 686833,
+      "num": 686833,
+      "word": "手机被韩国顶流男明星捡到了",
+      "onboard_time": 1756181364,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 664168,
@@ -163,20 +179,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 543094,
-      "num": 543094,
-      "word": "手机被韩国顶流男明星捡到了",
-      "onboard_time": 1756181364,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 519836,
-      "num": 236802,
-      "word": "徐冬冬直播时尹子维说漏嘴了",
-      "onboard_time": 1756184903,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 516743,
+      "num": 516743,
+      "word": "退款查账",
+      "onboard_time": 1756185684,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 483057,
@@ -355,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265915,
+      "num": 265915,
+      "word": "第一次对何炅小有了实感",
+      "onboard_time": 1756186283,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263695,
       "num": 263695,
       "word": "带这些字眼的奶茶尽量别点",
@@ -408,6 +424,14 @@
       "word": "深圳特区建立45周年",
       "onboard_time": 1756169425,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235586,
+      "num": 235586,
+      "word": "国安主场4万人见证i人男友被求婚",
+      "onboard_time": 1756185262,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -523,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199952,
-      "num": 199952,
-      "word": "退款查账",
-      "onboard_time": 1756185684,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199678,
       "num": 199678,
       "word": "原来奶茶袋这么实用",
@@ -545,6 +561,14 @@
       "onboard_time": 1756136247,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198607,
+      "num": 198607,
+      "word": "无限暖暖",
+      "onboard_time": 1756186582,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 198211,
@@ -569,14 +593,6 @@
       "onboard_time": 1756185262,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196082,
-      "num": 196082,
-      "word": "国安主场4万人见证i人男友被求婚",
-      "onboard_time": 1756185262,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195744,
@@ -611,6 +627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189571,
+      "num": 189571,
+      "word": "会买衣服的人都知道100块的含金量",
+      "onboard_time": 1756186643,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186013,
       "num": 199871,
       "word": "金俊勉剧透EXO巡演计划",
@@ -624,6 +648,14 @@
       "word": "孟子义蓝色公主裙造型",
       "onboard_time": 1756182745,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183251,
+      "num": 183251,
+      "word": "鸟鸟为什么影视圈不拍普通人的生活",
+      "onboard_time": 1756186463,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -651,6 +683,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 180686,
+      "num": 197042,
+      "word": "男子遇五步蛇想抓来玩被喷一脸毒",
+      "onboard_time": 1756185384,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177648,
       "num": 177648,
       "word": "黄多多好像年轻的刘诗诗",
@@ -665,6 +705,14 @@
       "onboard_time": 1756182625,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175656,
+      "num": 177947,
+      "word": "小猫误入虎园被捕食",
+      "onboard_time": 1756185205,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174365,
@@ -723,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 158647,
+      "num": 158647,
+      "word": "许你于晟 偷穿红衣只为嫁你一次",
+      "onboard_time": 1756184723,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158468,
       "num": 158468,
       "word": "毕雯珺新剧战战兢兢白切黑",
@@ -753,6 +809,14 @@
       "onboard_time": 1756165461,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151926,
+      "num": 170328,
+      "word": "陈奕迅追过的星要开音乐会了",
+      "onboard_time": 1756185802,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 150327,
@@ -817,14 +881,6 @@
       "onboard_time": 1756183765,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141079,
-      "num": 170328,
-      "word": "陈奕迅追过的星要开音乐会了",
-      "onboard_time": 1756185802,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 139371,
@@ -899,20 +955,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 133430,
-      "num": 133430,
-      "word": "许你于晟 偷穿红衣只为嫁你一次",
-      "onboard_time": 1756184723,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133157,
       "num": 133157,
       "word": "女子询问海底捞换配菜被开黄腔辱骂",
       "onboard_time": 1756121303,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132618,
+      "num": 132618,
+      "word": "爸妈赚了点钱全用来维修小孩了",
+      "onboard_time": 1756186402,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 132468,
@@ -1035,20 +1091,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118738,
+      "num": 177348,
+      "word": "17岁高中生勇救六旬婆婆时溺亡",
+      "onboard_time": 1756184964,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116298,
       "num": 139571,
       "word": "奇迹",
       "onboard_time": 1756181122,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 113604,
-      "num": 197042,
-      "word": "男子遇五步蛇想抓来玩被喷一脸毒",
-      "onboard_time": 1756185384,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112473,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1756169002,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99911,
+      "num": 110495,
+      "word": "罗永浩拉黑俞敏洪王自如",
+      "onboard_time": 1756186463,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 99733,
@@ -1232,14 +1296,6 @@
       "word": "百余热心人士要求不要修改鲁迅画面",
       "onboard_time": 1756137086,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87773,
-      "num": 177947,
-      "word": "小猫误入虎园被捕食",
-      "onboard_time": 1756185205,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1459,14 +1515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64288,
-      "num": 177348,
-      "word": "17岁高中生勇救六旬婆婆时溺亡",
-      "onboard_time": 1756184964,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60457,
       "num": 133757,
       "word": "不管e人i人欢迎来厦门",
@@ -1483,20 +1531,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57674,
+      "num": 252178,
+      "word": "福布斯首次把封面交给一线劳动者",
+      "onboard_time": 1756184482,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56807,
       "num": 110776,
       "word": "国乒出发回北京",
       "onboard_time": 1756178782,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56783,
-      "num": 252178,
-      "word": "福布斯首次把封面交给一线劳动者",
-      "onboard_time": 1756184482,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54764,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1756140740,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 49265,
+      "num": 175331,
+      "word": "中国学生在瑞典拍敏感设施标牌被拘",
+      "onboard_time": 1756185922,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 48970,
@@ -1587,14 +1643,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 34529,
-      "num": 175331,
-      "word": "中国学生在瑞典拍敏感设施标牌被拘",
-      "onboard_time": 1756185922,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 33689,
       "num": 57465,
       "word": "毛不易又来赚我眼泪了",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1756144156,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28845,
+      "num": 120614,
+      "word": "美国政府曾劝埃文凯尔不要捐赠相册",
+      "onboard_time": 1756186162,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26504,
