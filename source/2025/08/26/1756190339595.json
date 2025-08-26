@@ -1,0 +1,410 @@
+{
+  "runTime": 1756190339595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2124984,
+        "num": 2124984,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1504774,
+        "num": 1504774,
+        "word": "第一次对何炅小有了实感",
+        "onboard_time": 1756186283,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24623,
+        "num": 604688,
+        "word": "卫星互联网低轨10组卫星发射成功",
+        "onboard_time": 1756163959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 590307,
+        "num": 590307,
+        "word": "小猫误入虎园被捕食",
+        "onboard_time": 1756185205,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573545,
+        "num": 573545,
+        "word": "上海星巴克店员被顾客持续咆哮骂哭",
+        "onboard_time": 1756181303,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560994,
+        "num": 560994,
+        "word": "孟子义忙到没时间做手术",
+        "onboard_time": 1756188624,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412252,
+        "num": 412252,
+        "word": "鸟鸟为什么影视圈不拍普通人的生活",
+        "onboard_time": 1756186463,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261309,
+        "num": 261309,
+        "word": "40岁男子因情感纠纷致2死1伤",
+        "onboard_time": 1756171342,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 246086,
+        "num": 246086,
+        "word": "手机被韩国顶流男明星捡到了",
+        "onboard_time": 1756181364,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220303,
+        "num": 220303,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756179923,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 611031,
+        "num": 220063,
+        "word": "张万森 内娱下嫂子了",
+        "onboard_time": 1756178063,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589324,
+        "num": 218968,
+        "word": "何晟铭早期嘴了半个内娱",
+        "onboard_time": 1756182204,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479207,
+        "num": 218673,
+        "word": "郑乃馨又起飞了",
+        "onboard_time": 1756180523,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461509,
+        "num": 217483,
+        "word": "徐冬冬直播时尹子维说漏嘴了",
+        "onboard_time": 1756184903,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115227,
+        "num": 216923,
+        "word": "中国军人一声声到太燃了",
+        "onboard_time": 1756188923,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376419,
+        "num": 216285,
+        "word": "突然发现已婚未育是人生最好的阶段",
+        "onboard_time": 1756184364,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376064,
+        "num": 215542,
+        "word": "反仅退款第一人",
+        "onboard_time": 1756187842,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361603,
+        "num": 215092,
+        "word": "王鹤棣 情绪稳定",
+        "onboard_time": 1756183945,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347034,
+        "num": 214348,
+        "word": "田栩宁高定首穿",
+        "onboard_time": 1756181784,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262575,
+        "num": 213090,
+        "word": "韩国人称川航发馒头不卫生",
+        "onboard_time": 1756189103,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249213,
+        "num": 212642,
+        "word": "上海月薪9000做五休二的一天",
+        "onboard_time": 1756187542,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212325,
+        "num": 212325,
+        "word": "赴山海",
+        "onboard_time": 1756175183,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265579,
+        "num": 211580,
+        "word": "王鹤棣方回应网传录音",
+        "onboard_time": 1756164920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210464,
+        "num": 210464,
+        "word": "白敬亭韩国人气已经next level了",
+        "onboard_time": 1756188082,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193300,
+        "num": 193300,
+        "word": "一代人有一代人的抠抠搜搜",
+        "onboard_time": 1756189764,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192931,
+        "num": 192931,
+        "word": "黄子韬求徐艺洋删丑照",
+        "onboard_time": 1756190062,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176662,
+        "num": 176662,
+        "word": "男子遇五步蛇想抓来玩被喷一脸毒",
+        "onboard_time": 1756185384,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176305,
+        "num": 176305,
+        "word": "张元英 宝格丽",
+        "onboard_time": 1756176681,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159767,
+        "num": 159767,
+        "word": "李沁1期节目800个反差",
+        "onboard_time": 1756187962,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155593,
+        "num": 155593,
+        "word": "许你于晟 偷穿红衣只为嫁你一次",
+        "onboard_time": 1756184723,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154604,
+        "num": 154604,
+        "word": "鸟鸟 重看黄土地觉得是恐怖片",
+        "onboard_time": 1756189162,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147150,
+        "num": 147150,
+        "word": "男子不满女儿嫁70岁老头雇凶杀婿",
+        "onboard_time": 1756179803,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144865,
+        "num": 144865,
+        "word": "会买衣服的人都知道100块的含金量",
+        "onboard_time": 1756186643,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138776,
+        "num": 138776,
+        "word": "42岁博主离世曾称因压力大患癌",
+        "onboard_time": 1756184482,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136714,
+        "num": 136714,
+        "word": "孙颖莎T锦绣九月刊封面",
+        "onboard_time": 1756184903,
+        "rank": 34,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 135830,
+        "num": 135830,
+        "word": "这样的钻石谁看谁不迷糊啊",
+        "onboard_time": 1756189883,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135509,
+        "num": 135509,
+        "word": "李一桐吃饭时请不要看蜈蚣",
+        "onboard_time": 1756187303,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134936,
+        "num": 134936,
+        "word": "女子因头孢过敏全身皮肤大面破损",
+        "onboard_time": 1756189642,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56775,
+        "num": 130357,
+        "word": "高速戴恐怖面具或面临三重法律责任",
+        "onboard_time": 1756189582,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70679,
+        "num": 129403,
+        "word": "王曼昱给小朋友惊喜",
+        "onboard_time": 1756189222,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129241,
+        "num": 129241,
+        "word": "17岁高中生勇救六旬婆婆时溺亡",
+        "onboard_time": 1756184964,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129209,
+        "num": 129209,
+        "word": "韩国人称九尾狐在朝鲜半岛被发现",
+        "onboard_time": 1756187604,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124741,
+        "num": 124741,
+        "word": "罗永浩拉黑俞敏洪王自如",
+        "onboard_time": 1756186463,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42088,
+        "num": 122006,
+        "word": "不敢想九三阅兵有多壮观",
+        "onboard_time": 1756190302,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121546,
+        "num": 121546,
+        "word": "甜馨小酒窝从小就认识",
+        "onboard_time": 1756183103,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117802,
+        "num": 117802,
+        "word": "neinei手臂线条",
+        "onboard_time": 1756188624,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116538,
+        "num": 116538,
+        "word": "爸妈赚了点钱全用来维修小孩了",
+        "onboard_time": 1756186402,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115324,
+        "num": 115324,
+        "word": "董事长提名新董秘前妻投反对票",
+        "onboard_time": 1756188082,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113294,
+        "num": 113294,
+        "word": "杨紫任嘉伦有种友谊叫互怼",
+        "onboard_time": 1756188325,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111406,
+        "num": 111406,
+        "word": "无限暖暖",
+        "onboard_time": 1756186582,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
+    }
+  }
+}

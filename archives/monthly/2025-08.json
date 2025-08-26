@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756187005816,
+  "endTime": 1756190339595,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -937,6 +937,14 @@
       "onboard_time": 1754123781,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2124984,
+      "num": 2124984,
+      "word": "退款查账",
+      "onboard_time": 1756185684,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2104723,
@@ -2072,6 +2080,14 @@
       "word": "董璇 他难道不应该心疼一下我吗",
       "onboard_time": 1755669981,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1504774,
+      "num": 1504774,
+      "word": "第一次对何炅小有了实感",
+      "onboard_time": 1756186283,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -10235,6 +10251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 590307,
+      "num": 590307,
+      "word": "小猫误入虎园被捕食",
+      "onboard_time": 1756185205,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 590269,
       "num": 590269,
       "word": "四六级查分",
@@ -11081,6 +11105,14 @@
       "onboard_time": 1756132585,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560994,
+      "num": 560994,
+      "word": "孟子义忙到没时间做手术",
+      "onboard_time": 1756188624,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 560700,
@@ -12177,14 +12209,6 @@
       "onboard_time": 1755478581,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 516743,
-      "num": 516743,
-      "word": "退款查账",
-      "onboard_time": 1756185684,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 516490,
@@ -15379,6 +15403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412252,
+      "num": 412252,
+      "word": "鸟鸟为什么影视圈不拍普通人的生活",
+      "onboard_time": 1756186463,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412060,
       "num": 388177,
       "word": "杨宗纬报平安",
@@ -17009,6 +17041,14 @@
       "onboard_time": 1754486664,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 376064,
+      "num": 215542,
+      "word": "反仅退款第一人",
+      "onboard_time": 1756187842,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375923,
@@ -22827,14 +22867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265915,
-      "num": 265915,
-      "word": "第一次对何炅小有了实感",
-      "onboard_time": 1756186283,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265639,
       "num": 265639,
       "word": "康师傅方便面上半年少卖3.5亿",
@@ -23049,6 +23081,14 @@
       "onboard_time": 1755869604,
       "rank": 48,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 262575,
+      "num": 213090,
+      "word": "韩国人称川航发馒头不卫生",
+      "onboard_time": 1756189103,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262222,
@@ -24105,6 +24145,14 @@
       "onboard_time": 1755520822,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249213,
+      "num": 212642,
+      "word": "上海月薪9000做五休二的一天",
+      "onboard_time": 1756187542,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 249154,
@@ -28385,6 +28433,14 @@
       "onboard_time": 1755836006,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210464,
+      "num": 210464,
+      "word": "白敬亭韩国人气已经next level了",
+      "onboard_time": 1756188082,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210462,
@@ -33187,6 +33243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193300,
+      "num": 193300,
+      "word": "一代人有一代人的抠抠搜搜",
+      "onboard_time": 1756189764,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193284,
       "num": 193284,
       "word": "真的不建议单手摘眼镜",
@@ -33337,6 +33401,14 @@
       "onboard_time": 1754880621,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 192931,
+      "num": 192931,
+      "word": "黄子韬求徐艺洋删丑照",
+      "onboard_time": 1756190062,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 192801,
@@ -36131,14 +36203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183251,
-      "num": 183251,
-      "word": "鸟鸟为什么影视圈不拍普通人的生活",
-      "onboard_time": 1756186463,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183154,
       "num": 183154,
       "word": "陈赫一人带七娃",
@@ -38097,14 +38161,6 @@
       "onboard_time": 1754794282,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175656,
-      "num": 177947,
-      "word": "小猫误入虎园被捕食",
-      "onboard_time": 1756185205,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175649,
@@ -43379,6 +43435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159767,
+      "num": 159767,
+      "word": "李沁1期节目800个反差",
+      "onboard_time": 1756187962,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159764,
       "num": 263120,
       "word": "生万物让山东文旅有人脉了",
@@ -45321,6 +45385,14 @@
       "onboard_time": 1755581181,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154604,
+      "num": 154604,
+      "word": "鸟鸟 重看黄土地觉得是恐怖片",
+      "onboard_time": 1756189162,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 154599,
@@ -53659,6 +53731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135830,
+      "num": 135830,
+      "word": "这样的钻石谁看谁不迷糊啊",
+      "onboard_time": 1756189883,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135828,
       "num": 145155,
       "word": "3女子带4孩多次续面为何倒打一耙",
@@ -53769,6 +53849,14 @@
       "onboard_time": 1754389764,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135509,
+      "num": 135509,
+      "word": "李一桐吃饭时请不要看蜈蚣",
+      "onboard_time": 1756187303,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 135506,
@@ -54048,6 +54136,14 @@
       "word": "凤凰山景区回应一游客坠崖身亡",
       "onboard_time": 1754227946,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134936,
+      "num": 134936,
+      "word": "女子因头孢过敏全身皮肤大面破损",
+      "onboard_time": 1756189642,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -56971,6 +57067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129241,
+      "num": 177348,
+      "word": "17岁高中生勇救六旬婆婆时溺亡",
+      "onboard_time": 1756184964,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129240,
       "num": 129240,
       "word": "twice 抢票",
@@ -57009,6 +57113,14 @@
       "onboard_time": 1754059764,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129209,
+      "num": 129209,
+      "word": "韩国人称九尾狐在朝鲜半岛被发现",
+      "onboard_time": 1756187604,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129179,
@@ -59305,6 +59417,14 @@
       "onboard_time": 1754836404,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124741,
+      "num": 124741,
+      "word": "罗永浩拉黑俞敏洪王自如",
+      "onboard_time": 1756186463,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 124709,
@@ -62483,14 +62603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118738,
-      "num": 177348,
-      "word": "17岁高中生勇救六旬婆婆时溺亡",
-      "onboard_time": 1756184964,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118717,
       "num": 118717,
       "word": "文俊辉限定掉落回忆碎片",
@@ -62976,6 +63088,14 @@
       "word": "陈立农深圳街头拥抱",
       "onboard_time": 1756015580,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117802,
+      "num": 117802,
+      "word": "neinei手臂线条",
+      "onboard_time": 1756188624,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -64163,6 +64283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115324,
+      "num": 115324,
+      "word": "董事长提名新董秘前妻投反对票",
+      "onboard_time": 1756188082,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115322,
       "num": 888688,
       "word": "十五运会火炬发布",
@@ -64225,6 +64353,14 @@
       "onboard_time": 1756042766,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115227,
+      "num": 216923,
+      "word": "中国军人一声声到太燃了",
+      "onboard_time": 1756188923,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115179,
@@ -65105,6 +65241,14 @@
       "onboard_time": 1756030343,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113294,
+      "num": 113294,
+      "word": "杨紫任嘉伦有种友谊叫互怼",
+      "onboard_time": 1756188325,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 113290,
@@ -71089,14 +71233,6 @@
       "onboard_time": 1756014020,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99911,
-      "num": 110495,
-      "word": "罗永浩拉黑俞敏洪王自如",
-      "onboard_time": 1756186463,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 99882,
@@ -78611,6 +78747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70679,
+      "num": 129403,
+      "word": "王曼昱给小朋友惊喜",
+      "onboard_time": 1756189222,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70678,
       "num": 327794,
       "word": "泽连斯基再访白宫",
@@ -81025,6 +81169,14 @@
       "onboard_time": 1756178782,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56775,
+      "num": 130357,
+      "word": "高速戴恐怖面具或面临三重法律责任",
+      "onboard_time": 1756189582,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56753,
@@ -83921,6 +84073,14 @@
       "onboard_time": 1756124002,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42088,
+      "num": 122006,
+      "word": "不敢想九三阅兵有多壮观",
+      "onboard_time": 1756190302,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42078,

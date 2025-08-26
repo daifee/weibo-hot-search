@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756187005816,
+  "endTime": 1756190339595,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -32,6 +32,14 @@
       "word": "孟村金昊杀妻",
       "onboard_time": 1756022904,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2124984,
+      "num": 2124984,
+      "word": "退款查账",
+      "onboard_time": 1756185684,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -113,6 +121,14 @@
       "onboard_time": 1756025602,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1504774,
+      "num": 1504774,
+      "word": "第一次对何炅小有了实感",
+      "onboard_time": 1756186283,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1420909,
@@ -891,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590307,
+      "num": 590307,
+      "word": "小猫误入虎园被捕食",
+      "onboard_time": 1756185205,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589561,
       "num": 383502,
       "word": "井胧不希望井迪结婚",
@@ -1019,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560994,
+      "num": 560994,
+      "word": "孟子义忙到没时间做手术",
+      "onboard_time": 1756188624,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 558224,
       "num": 558224,
       "word": "林诗栋亚军",
@@ -1145,14 +1177,6 @@
       "onboard_time": 1756106243,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 516743,
-      "num": 516743,
-      "word": "退款查账",
-      "onboard_time": 1756185684,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 514830,
@@ -1539,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412252,
+      "num": 412252,
+      "word": "鸟鸟为什么影视圈不拍普通人的生活",
+      "onboard_time": 1756186463,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412060,
       "num": 388177,
       "word": "杨宗纬报平安",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1755997761,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 376064,
+      "num": 215542,
+      "word": "反仅退款第一人",
+      "onboard_time": 1756187842,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 374684,
@@ -2211,14 +2251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 265915,
-      "num": 265915,
-      "word": "第一次对何炅小有了实感",
-      "onboard_time": 1756186283,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265149,
       "num": 241912,
       "word": "脂肪肝是全身性疾病的报警信号",
@@ -2241,6 +2273,14 @@
       "onboard_time": 1756044926,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262575,
+      "num": 213090,
+      "word": "韩国人称川航发馒头不卫生",
+      "onboard_time": 1756189103,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262105,
@@ -2369,6 +2409,14 @@
       "onboard_time": 1756024403,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249213,
+      "num": 212642,
+      "word": "上海月薪9000做五休二的一天",
+      "onboard_time": 1756187542,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 248412,
@@ -2745,6 +2793,14 @@
       "onboard_time": 1756040125,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210464,
+      "num": 210464,
+      "word": "白敬亭韩国人气已经next level了",
+      "onboard_time": 1756188082,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210409,
@@ -3227,6 +3283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193300,
+      "num": 193300,
+      "word": "一代人有一代人的抠抠搜搜",
+      "onboard_time": 1756189764,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193188,
       "num": 193188,
       "word": "张凌赫AnotherMan封面",
@@ -3257,6 +3321,14 @@
       "onboard_time": 1756096584,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192931,
+      "num": 192931,
+      "word": "黄子韬求徐艺洋删丑照",
+      "onboard_time": 1756190062,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 192748,
@@ -3579,14 +3651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183251,
-      "num": 183251,
-      "word": "鸟鸟为什么影视圈不拍普通人的生活",
-      "onboard_time": 1756186463,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182963,
       "num": 199315,
       "word": "与晋长安",
@@ -3809,14 +3873,6 @@
       "onboard_time": 1756005923,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175656,
-      "num": 177947,
-      "word": "小猫误入虎园被捕食",
-      "onboard_time": 1756185205,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175522,
@@ -4259,6 +4315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159767,
+      "num": 159767,
+      "word": "李沁1期节目800个反差",
+      "onboard_time": 1756187962,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159764,
       "num": 159764,
       "word": "袁娅维说怀胎两年快生了",
@@ -4449,6 +4513,14 @@
       "onboard_time": 1756181723,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 154604,
+      "num": 154604,
+      "word": "鸟鸟 重看黄土地觉得是恐怖片",
+      "onboard_time": 1756189162,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 154378,
@@ -5267,12 +5339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135830,
+      "num": 135830,
+      "word": "这样的钻石谁看谁不迷糊啊",
+      "onboard_time": 1756189883,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135566,
       "num": 135566,
       "word": "张峻豪走红毯紧张了",
       "onboard_time": 1756024102,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135509,
+      "num": 135509,
+      "word": "李一桐吃饭时请不要看蜈蚣",
+      "onboard_time": 1756187303,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 135482,
@@ -5297,6 +5385,14 @@
       "onboard_time": 1756007723,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 134936,
+      "num": 134936,
+      "word": "女子因头孢过敏全身皮肤大面破损",
+      "onboard_time": 1756189642,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134826,
@@ -5523,12 +5619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129241,
+      "num": 177348,
+      "word": "17岁高中生勇救六旬婆婆时溺亡",
+      "onboard_time": 1756184964,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129233,
       "num": 194150,
       "word": "智界R7语音泊车隔窗对讲首发上车",
       "onboard_time": 1756110505,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129209,
+      "num": 129209,
+      "word": "韩国人称九尾狐在朝鲜半岛被发现",
+      "onboard_time": 1756187604,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129133,
@@ -5729,6 +5841,14 @@
       "onboard_time": 1756127003,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124741,
+      "num": 124741,
+      "word": "罗永浩拉黑俞敏洪王自如",
+      "onboard_time": 1756186463,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 124593,
@@ -6075,14 +6195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118738,
-      "num": 177348,
-      "word": "17岁高中生勇救六旬婆婆时溺亡",
-      "onboard_time": 1756184964,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118440,
       "num": 118440,
       "word": "只有师范生才懂她有多强",
@@ -6152,6 +6264,14 @@
       "word": "陈立农深圳街头拥抱",
       "onboard_time": 1756015580,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117802,
+      "num": 117802,
+      "word": "neinei手臂线条",
+      "onboard_time": 1756188624,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -6331,6 +6451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 115324,
+      "num": 115324,
+      "word": "董事长提名新董秘前妻投反对票",
+      "onboard_time": 1756188082,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115271,
       "num": 115271,
       "word": "痛金不足1克价格超2000元",
@@ -6353,6 +6481,14 @@
       "onboard_time": 1756042766,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115227,
+      "num": 216923,
+      "word": "中国军人一声声到太燃了",
+      "onboard_time": 1756188923,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114880,
@@ -6425,6 +6561,14 @@
       "onboard_time": 1756030343,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113294,
+      "num": 113294,
+      "word": "杨紫任嘉伦有种友谊叫互怼",
+      "onboard_time": 1756188325,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 113227,
@@ -7145,14 +7289,6 @@
       "onboard_time": 1756014020,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99911,
-      "num": 110495,
-      "word": "罗永浩拉黑俞敏洪王自如",
-      "onboard_time": 1756186463,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 99733,
@@ -8035,6 +8171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70679,
+      "num": 129403,
+      "word": "王曼昱给小朋友惊喜",
+      "onboard_time": 1756189222,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70661,
       "num": 83481,
       "word": "丁程鑫一把抱起张俪",
@@ -8353,6 +8497,14 @@
       "onboard_time": 1756178782,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56775,
+      "num": 130357,
+      "word": "高速戴恐怖面具或面临三重法律责任",
+      "onboard_time": 1756189582,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56753,
@@ -8753,6 +8905,14 @@
       "onboard_time": 1756124002,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42088,
+      "num": 122006,
+      "word": "不敢想九三阅兵有多壮观",
+      "onboard_time": 1756190302,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41814,
