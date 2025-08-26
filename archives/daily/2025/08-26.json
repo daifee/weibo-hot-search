@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756215494337,
+  "endTime": 1756216154782,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -27,7 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1552767,
+      "raw_hot": 1576328,
       "num": 352570,
       "word": "高端伴游 色情交易",
       "onboard_time": 1756210943,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1176103,
+      "num": 1188176,
+      "word": "育儿补贴不能被商家掏走",
+      "onboard_time": 1756209923,
+      "rank": 4,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 1089048,
       "num": 1089048,
       "word": "张维伊 庆余年2侯季常",
@@ -105,14 +113,6 @@
       "onboard_time": 1756135406,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1067912,
-      "num": 1170865,
-      "word": "育儿补贴不能被商家掏走",
-      "onboard_time": 1756209923,
-      "rank": 4,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 1059668,
@@ -419,11 +419,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 522808,
-      "num": 249108,
+      "raw_hot": 543059,
+      "num": 251368,
       "word": "女子月用电近2000度不敢开空调",
       "onboard_time": 1756211482,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531892,
+      "num": 531892,
+      "word": "日本人在台北闹市区展示五星红旗",
+      "onboard_time": 1756211965,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -459,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 486160,
-      "num": 486160,
-      "word": "日本人在台北闹市区展示五星红旗",
-      "onboard_time": 1756211965,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 483057,
       "num": 483057,
       "word": "馆方称不会轻易改变鲁迅形象",
@@ -489,6 +489,14 @@
       "onboard_time": 1756195463,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 479437,
+      "num": 271228,
+      "word": "早期的张维伊",
+      "onboard_time": 1756213164,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 454511,
@@ -651,6 +659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 389091,
+      "num": 389091,
+      "word": "张予曦毕雯珺借位吻",
+      "onboard_time": 1756214662,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384645,
       "num": 384645,
       "word": "杨威被儿子千元计算器暴击",
@@ -739,14 +755,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 311118,
-      "num": 266392,
-      "word": "早期的张维伊",
-      "onboard_time": 1756213164,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289407,
       "num": 289407,
       "word": "曝黄子韬徐艺洋10月16日办婚礼",
@@ -787,6 +795,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 275085,
+      "num": 270950,
+      "word": "建议在26岁之前谈恋爱",
+      "onboard_time": 1756210463,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 270782,
+      "num": 466233,
+      "word": "深圳经济特区生日快乐",
+      "onboard_time": 1756201822,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270367,
       "num": 207178,
       "word": "3岁女童16楼坠亡物业仅愿赔1万",
@@ -809,14 +833,6 @@
       "onboard_time": 1756171401,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 265268,
-      "num": 265268,
-      "word": "建议在26岁之前谈恋爱",
-      "onboard_time": 1756210463,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 264780,
@@ -907,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239826,
+      "num": 239826,
+      "word": "寒武纪上半年营业收入28.81亿",
+      "onboard_time": 1756215682,
+      "rank": 23,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 239687,
       "num": 239687,
       "word": "外交部说日方应诚实反省侵略历史",
@@ -971,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216924,
-      "num": 216924,
-      "word": "张予曦毕雯珺借位吻",
-      "onboard_time": 1756214662,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216747,
       "num": 207332,
       "word": "王楚钦致敬李宁",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1756135108,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210867,
+      "num": 210867,
+      "word": "彭昱畅20基础30就不基础",
+      "onboard_time": 1756215804,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 210464,
@@ -1515,20 +1539,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 167597,
-      "num": 466233,
-      "word": "深圳经济特区生日快乐",
-      "onboard_time": 1756201822,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167221,
       "num": 191879,
       "word": "国航一伦敦飞北京客机迫降俄罗斯",
       "onboard_time": 1756204102,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 166198,
+      "num": 166198,
+      "word": "疑似张真源申请加入对面战队",
+      "onboard_time": 1756215864,
+      "rank": 33,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 165266,
@@ -1851,12 +1875,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141007,
+      "num": 141007,
+      "word": "1岁男童头卡保温饭桶里",
+      "onboard_time": 1756215745,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140586,
       "num": 140586,
       "word": "田曦薇张艺凡 奶牛猫比格犬",
       "onboard_time": 1756201282,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140554,
+      "num": 140554,
+      "word": "四川一小区发文将扑杀流浪猫",
+      "onboard_time": 1756213883,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139489,
+      "num": 139489,
+      "word": "许荔莎沈泰互关",
+      "onboard_time": 1756215983,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 139371,
@@ -1897,6 +1945,22 @@
       "onboard_time": 1756178722,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138518,
+      "num": 138518,
+      "word": "iPhone做会议纪要",
+      "onboard_time": 1756212263,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 137145,
+      "num": 137145,
+      "word": "张杰 我们要好好见见",
+      "onboard_time": 1756214902,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 136730,
@@ -2051,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131551,
+      "num": 131551,
+      "word": "炫神宣布回归",
+      "onboard_time": 1756215382,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131121,
       "num": 131121,
       "word": "格力高管喊话小米",
@@ -2131,22 +2203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127927,
-      "num": 127927,
-      "word": "iPhone做会议纪要",
-      "onboard_time": 1756212263,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 127869,
-      "num": 127869,
-      "word": "张杰 我们要好好见见",
-      "onboard_time": 1756214902,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 127762,
       "num": 148881,
       "word": "辛巴账号被接手后将复播",
@@ -2161,6 +2217,14 @@
       "onboard_time": 1756180223,
       "rank": 42,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 127495,
+      "num": 188800,
+      "word": "时代少年团峡谷传送太有节目了",
+      "onboard_time": 1756214604,
+      "rank": 32,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 126919,
@@ -2219,36 +2283,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 124527,
-      "num": 124527,
-      "word": "炫神宣布回归",
-      "onboard_time": 1756215382,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 123838,
-      "num": 168472,
-      "word": "时代少年团峡谷传送太有节目了",
-      "onboard_time": 1756214604,
-      "rank": 32,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 123594,
       "num": 123594,
       "word": "许凯打戏",
       "onboard_time": 1756132466,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123070,
-      "num": 123070,
-      "word": "四川一小区发文将扑杀流浪猫",
-      "onboard_time": 1756213883,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122732,
@@ -2356,7 +2396,7 @@
     },
     {
       "raw_hot": 115227,
-      "num": 574931,
+      "num": 906512,
       "word": "中国军人一声声到太燃了",
       "onboard_time": 1756188923,
       "rank": 14,
@@ -2481,6 +2521,14 @@
       "onboard_time": 1756211182,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108048,
+      "num": 270854,
+      "word": "你绕不过的头等舱来了",
+      "onboard_time": 1756215622,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 106552,
@@ -2763,6 +2811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80686,
+      "num": 263669,
+      "word": "今晚的深圳人都在抬头看",
+      "onboard_time": 1756214422,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80091,
       "num": 81595,
       "word": "瘦了后出片像呼吸一样简单",
@@ -2947,14 +3003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 62660,
-      "num": 251813,
-      "word": "今晚的深圳人都在抬头看",
-      "onboard_time": 1756214422,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61714,
       "num": 164053,
       "word": "投诉鲁迅博主 口含烟",
@@ -3076,7 +3124,7 @@
     },
     {
       "raw_hot": 52289,
-      "num": 126845,
+      "num": 138934,
       "word": "3人在猪粪池中毒溺亡事故调查报告",
       "onboard_time": 1756215142,
       "rank": 44,

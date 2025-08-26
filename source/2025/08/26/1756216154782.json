@@ -1,0 +1,410 @@
+{
+  "runTime": 1756216154782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1176103,
+        "num": 1188176,
+        "word": "育儿补贴不能被商家掏走",
+        "onboard_time": 1756209923,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 950016,
+        "num": 950016,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9154,
+        "num": 906512,
+        "word": "中国军人一声声到太燃了",
+        "onboard_time": 1756188923,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 878738,
+        "num": 878738,
+        "word": "柴鸡蛋招新",
+        "onboard_time": 1756214544,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531892,
+        "num": 531892,
+        "word": "日本人在台北闹市区展示五星红旗",
+        "onboard_time": 1756211965,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489473,
+        "num": 489473,
+        "word": "印度一孕妇被丈夫勒死并肢解",
+        "onboard_time": 1756209623,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 389091,
+        "num": 389091,
+        "word": "张予曦毕雯珺借位吻",
+        "onboard_time": 1756214662,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357025,
+        "num": 357025,
+        "word": "王青直播",
+        "onboard_time": 1756210163,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278352,
+        "num": 278352,
+        "word": "深圳欢乐谷被指有擦边表演",
+        "onboard_time": 1756206982,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271583,
+        "num": 271583,
+        "word": "青春芒果夜节目单",
+        "onboard_time": 1756209442,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1576328,
+        "num": 271484,
+        "word": "高端伴游 色情交易",
+        "onboard_time": 1756210943,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 573128,
+        "num": 271398,
+        "word": "黄景瑜前妻点赞了许荔莎",
+        "onboard_time": 1756203742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496723,
+        "num": 271310,
+        "word": "叶舒华汉服",
+        "onboard_time": 1756209083,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479437,
+        "num": 271228,
+        "word": "早期的张维伊",
+        "onboard_time": 1756213164,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337064,
+        "num": 271103,
+        "word": "许凯被曝劈腿后节目未受影响",
+        "onboard_time": 1756202722,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303550,
+        "num": 270993,
+        "word": "孟子义jennie穿了同款",
+        "onboard_time": 1756207342,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275085,
+        "num": 270950,
+        "word": "建议在26岁之前谈恋爱",
+        "onboard_time": 1756210463,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108048,
+        "num": 270854,
+        "word": "你绕不过的头等舱来了",
+        "onboard_time": 1756215622,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 270782,
+        "num": 270782,
+        "word": "深圳经济特区生日快乐",
+        "onboard_time": 1756201822,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80686,
+        "num": 263669,
+        "word": "今晚的深圳人都在抬头看",
+        "onboard_time": 1756214422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685176,
+        "num": 258267,
+        "word": "奚梦瑶回宫",
+        "onboard_time": 1756205003,
+        "rank": 20,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 543059,
+        "num": 251368,
+        "word": "女子月用电近2000度不敢开空调",
+        "onboard_time": 1756211482,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443403,
+        "num": 241371,
+        "word": "子夜归男二掀桌",
+        "onboard_time": 1756204884,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239826,
+        "num": 239826,
+        "word": "寒武纪上半年营业收入28.81亿",
+        "onboard_time": 1756215682,
+        "rank": 23,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 210867,
+        "num": 210867,
+        "word": "彭昱畅20基础30就不基础",
+        "onboard_time": 1756215804,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210406,
+        "num": 210406,
+        "word": "柴鸡蛋求推荐新人",
+        "onboard_time": 1756204282,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207971,
+        "num": 207971,
+        "word": "梓渝 时装男士",
+        "onboard_time": 1756207403,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207407,
+        "num": 207407,
+        "word": "中方提出严肃交涉要求日方澄清",
+        "onboard_time": 1756197923,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203133,
+        "num": 203133,
+        "word": "6点半下班真的好残忍啊",
+        "onboard_time": 1756203022,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127495,
+        "num": 188800,
+        "word": "时代少年团峡谷传送太有节目了",
+        "onboard_time": 1756214604,
+        "rank": 29,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 188698,
+        "num": 188698,
+        "word": "杨威被儿子千元计算器暴击",
+        "onboard_time": 1756203263,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187904,
+        "num": 187904,
+        "word": "你和我说这是华晨宇",
+        "onboard_time": 1756200023,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176155,
+        "num": 176155,
+        "word": "孙颖莎直播",
+        "onboard_time": 1756212442,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166198,
+        "num": 166198,
+        "word": "疑似张真源申请加入对面战队",
+        "onboard_time": 1756215864,
+        "rank": 33,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 158536,
+        "num": 158536,
+        "word": "双胞胎在同一排面接受检阅",
+        "onboard_time": 1756214063,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148860,
+        "num": 148860,
+        "word": "马嘉祺拿了MVP也淡淡的",
+        "onboard_time": 1756212382,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148020,
+        "num": 148020,
+        "word": "李雪琴胃里切了8个息肉",
+        "onboard_time": 1756190484,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147102,
+        "num": 147102,
+        "word": "张凌赫南京",
+        "onboard_time": 1756214782,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143020,
+        "num": 143020,
+        "word": "小酒窝回应暑假赚奶粉钱",
+        "onboard_time": 1756201042,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141007,
+        "num": 141007,
+        "word": "1岁男童头卡保温饭桶里",
+        "onboard_time": 1756215745,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29581,
+        "num": 140556,
+        "word": "让战歌点燃我们的烽火记忆",
+        "onboard_time": 1756205123,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140554,
+        "num": 140554,
+        "word": "四川一小区发文将扑杀流浪猫",
+        "onboard_time": 1756213883,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139749,
+        "num": 139749,
+        "word": "吴昕体重直逼100斤",
+        "onboard_time": 1756192223,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139489,
+        "num": 139489,
+        "word": "许荔莎沈泰互关",
+        "onboard_time": 1756215983,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50149,
+        "num": 138934,
+        "word": "3人在猪粪池中毒溺亡事故调查报告",
+        "onboard_time": 1756215142,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138518,
+        "num": 138518,
+        "word": "iPhone做会议纪要",
+        "onboard_time": 1756212263,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137145,
+        "num": 137145,
+        "word": "张杰 我们要好好见见",
+        "onboard_time": 1756214902,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136698,
+        "num": 136698,
+        "word": "让蒋依依王天辰合作的人是天才",
+        "onboard_time": 1756214183,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131551,
+        "num": 131551,
+        "word": "炫神宣布回归",
+        "onboard_time": 1756215382,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129381,
+        "num": 129381,
+        "word": "吴艳妮压哨入围世锦赛",
+        "onboard_time": 1756211242,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}
