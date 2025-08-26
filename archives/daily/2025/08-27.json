@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756226770476,
+  "endTime": 1756229019722,
   "band_list": [
     {
       "raw_hot": 2643489,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473492,
+      "num": 503692,
+      "word": "73岁老人用铁锨打死妻子被判无期",
+      "onboard_time": 1756223903,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456430,
       "num": 733185,
       "word": "官方通报三亚高空坠物致1死2伤",
@@ -59,12 +67,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 433366,
-      "num": 433366,
-      "word": "73岁老人用铁锨打死妻子被判无期",
-      "onboard_time": 1756223903,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 398436,
+      "num": 157684,
+      "word": "胡歌张若昀成毅肖战S加男演员",
+      "onboard_time": 1756226182,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 343097,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291485,
+      "num": 291485,
+      "word": "目击者称游客蹦极绳断坠落见到血迹",
+      "onboard_time": 1756224322,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238352,
       "num": 238352,
       "word": "退款查账",
@@ -131,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226742,
-      "num": 157684,
-      "word": "胡歌张若昀成毅肖战S加男演员",
-      "onboard_time": 1756226182,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222724,
       "num": 158158,
       "word": "刘雨昕 美背",
@@ -147,20 +155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214697,
-      "num": 228337,
-      "word": "目击者称游客蹦极绳断坠落见到血迹",
-      "onboard_time": 1756224322,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213479,
       "num": 213479,
       "word": "黄景瑜前妻点赞了许荔莎",
       "onboard_time": 1756203742,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208722,
+      "num": 208722,
+      "word": "学生举板凳砸老师警方介入",
+      "onboard_time": 1756225461,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190122,
@@ -211,12 +219,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 127581,
-      "num": 127581,
-      "word": "学生举板凳砸老师警方介入",
-      "onboard_time": 1756225461,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 144508,
+      "num": 144508,
+      "word": "倪萍 我来蹭蹭迟蓬的流量",
+      "onboard_time": 1756225222,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129890,
+      "num": 129890,
+      "word": "郑恺方回应停用丈母娘亲属卡",
+      "onboard_time": 1756228039,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 126015,
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113697,
+      "num": 66003,
+      "word": "日本怕九三阅兵让世界铭记其侵略",
+      "onboard_time": 1756227679,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111310,
       "num": 111310,
       "word": "严浩翔歪头ending",
@@ -265,14 +289,6 @@
       "onboard_time": 1756205003,
       "rank": 30,
       "category": "时尚,网红"
-    },
-    {
-      "raw_hot": 102351,
-      "num": 118036,
-      "word": "倪萍 我来蹭蹭迟蓬的流量",
-      "onboard_time": 1756225222,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 97099,
@@ -395,20 +411,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65997,
+      "num": 65997,
+      "word": "原来吃不完的火锅可以打包带走",
+      "onboard_time": 1756226000,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 61735,
       "num": 61735,
       "word": "梓渝 时装男士",
       "onboard_time": 1756207403,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 51373,
-      "num": 57443,
-      "word": "原来吃不完的火锅可以打包带走",
-      "onboard_time": 1756226000,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 51168,
@@ -419,12 +435,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 44963,
+      "num": 44963,
+      "word": "吴昕体重直逼100斤",
+      "onboard_time": 1756192223,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 44188,
+      "num": 44188,
+      "word": "子夜归男二掀桌",
+      "onboard_time": 1756204884,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25391,
       "num": 75403,
       "word": "乘客回应国航一航班紧急备降俄罗斯",
       "onboard_time": 1756224082,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21109,
+      "num": 132721,
+      "word": "仪仗女兵说誓做军中花木兰",
+      "onboard_time": 1756222283,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8056,
