@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756193181215,
+  "endTime": 1756194044790,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1205936,
+      "num": 529750,
+      "word": "李雪琴胃里切了8个息肉",
+      "onboard_time": 1756190484,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1192541,
       "num": 341424,
       "word": "王鹤棣方回应网传录音",
@@ -57,14 +65,6 @@
       "onboard_time": 1756180523,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1105766,
-      "num": 482764,
-      "word": "李雪琴胃里切了8个息肉",
-      "onboard_time": 1756190484,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1088892,
@@ -99,6 +99,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 849616,
+      "num": 293281,
+      "word": "吴昕体重直逼100斤",
+      "onboard_time": 1756192223,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 826055,
       "num": 1132168,
       "word": "赴山海",
@@ -131,20 +139,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 734153,
+      "num": 734153,
+      "word": "谁家短剧能请来半个娱乐圈啊",
+      "onboard_time": 1756190362,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 727349,
       "num": 627490,
       "word": "张元英 宝格丽",
       "onboard_time": 1756176681,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 708469,
-      "num": 313252,
-      "word": "谁家短剧能请来半个娱乐圈啊",
-      "onboard_time": 1756190362,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 706609,
@@ -177,14 +185,6 @@
       "onboard_time": 1756171342,
       "rank": 1,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 661802,
-      "num": 291555,
-      "word": "吴昕体重直逼100斤",
-      "onboard_time": 1756192223,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 653405,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 435850,
-      "num": 242957,
+      "num": 243222,
       "word": "张檬带4个月大儿子坐飞机",
       "onboard_time": 1756190784,
       "rank": 33,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 390860,
-      "num": 238929,
+      "num": 243179,
       "word": "包贝尔对白宇吐烟圈",
       "onboard_time": 1756191443,
       "rank": 14,
@@ -393,6 +393,14 @@
       "onboard_time": 1756137324,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332925,
+      "num": 243098,
+      "word": "建议大家不要过度存钱",
+      "onboard_time": 1756191563,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 311710,
@@ -459,16 +467,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265738,
-      "num": 215934,
-      "word": "建议大家不要过度存钱",
-      "onboard_time": 1756191563,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 264780,
-      "num": 212052,
+      "num": 242731,
       "word": "孙怡 钱才是女人的底气",
       "onboard_time": 1756191741,
       "rank": 22,
@@ -523,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248199,
+      "num": 248199,
+      "word": "知情者称高速面具男并非故意吓人",
+      "onboard_time": 1756192342,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245994,
       "num": 107053,
       "word": "kid疑似抄袭",
@@ -553,6 +561,14 @@
       "onboard_time": 1756177581,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 231213,
+      "num": 231213,
+      "word": "曹骏37岁闯进美甲圈",
+      "onboard_time": 1756193544,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 226049,
@@ -593,6 +609,14 @@
       "onboard_time": 1756135108,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211330,
+      "num": 211330,
+      "word": "张馨予 这是12年前吗",
+      "onboard_time": 1756193063,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 210464,
@@ -883,12 +907,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 163185,
+      "num": 243073,
+      "word": "邱贻可带孙颖莎去看夕阳",
+      "onboard_time": 1756192824,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162868,
       "num": 162868,
       "word": "张骏脱口秀",
       "onboard_time": 1756175241,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161770,
+      "num": 161770,
+      "word": "短剧女主开始从政从仙了",
+      "onboard_time": 1756193904,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 160306,
@@ -905,6 +945,14 @@
       "onboard_time": 1756187962,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159237,
+      "num": 235023,
+      "word": "女子因头孢过敏全身皮肤大面破损",
+      "onboard_time": 1756189642,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159173,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1756181243,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 147920,
-      "num": 147920,
-      "word": "女子因头孢过敏全身皮肤大面破损",
-      "onboard_time": 1756189642,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145767,
@@ -1227,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127957,
+      "num": 127957,
+      "word": "献鱼和好",
+      "onboard_time": 1756193843,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127762,
       "num": 148881,
       "word": "辛巴账号被接手后将复播",
@@ -1267,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125398,
+      "num": 125398,
+      "word": "广州3点放学小学生家长愁接送难",
+      "onboard_time": 1756194023,
+      "rank": 43,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 124741,
       "num": 124741,
       "word": "罗永浩拉黑俞敏洪王自如",
@@ -1283,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122974,
-      "num": 122974,
-      "word": "邱贻可带孙颖莎去看夕阳",
-      "onboard_time": 1756192824,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121893,
       "num": 131288,
       "word": "关晓彤新中式妆造",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1756190841,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120301,
+      "num": 183701,
+      "word": "于正那天穿了红衣",
+      "onboard_time": 1756193422,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 119766,
@@ -1331,12 +1387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116949,
-      "num": 116949,
-      "word": "张馨予 这是12年前吗",
-      "onboard_time": 1756193063,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 117009,
+      "num": 117009,
+      "word": "龚俊喊李沁小沁",
+      "onboard_time": 1756193904,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 116298,
@@ -1361,6 +1417,14 @@
       "onboard_time": 1756188923,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114913,
+      "num": 147897,
+      "word": "2孩童被黄鼠狼咬掉鼻子3D重建",
+      "onboard_time": 1756192342,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 113294,
@@ -1675,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77085,
-      "num": 226175,
-      "word": "知情者称高速面具男并非故意吓人",
-      "onboard_time": 1756192342,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75271,
       "num": 195506,
       "word": "深夜开锁被索2410元女生发声",
@@ -1851,14 +1907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57513,
-      "num": 147897,
-      "word": "2孩童被黄鼠狼咬掉鼻子3D重建",
-      "onboard_time": 1756192342,
-      "rank": 37,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 56807,
       "num": 110776,
       "word": "国乒出发回北京",
@@ -1897,6 +1945,22 @@
       "onboard_time": 1756190302,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50703,
+      "num": 243031,
+      "word": "邓紫棋官宣五粮液新品代言人",
+      "onboard_time": 1756192882,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50128,
+      "num": 242950,
+      "word": "赵丽颖纪梵希七夕爱无所限",
+      "onboard_time": 1756192043,
+      "rank": 17,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 49410,
@@ -1963,14 +2027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38083,
-      "num": 119043,
-      "word": "邓紫棋官宣五粮液新品代言人",
-      "onboard_time": 1756192882,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37855,
       "num": 43642,
       "word": "还是你P的U最A",
@@ -1995,6 +2051,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37286,
+      "num": 147891,
+      "word": "男子继承家业做掏粪工年入40万",
+      "onboard_time": 1756193004,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34900,
+      "num": 137756,
+      "word": "江西上饶一医院住院楼起火",
+      "onboard_time": 1756193964,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34446,
       "num": 222651,
       "word": "海底捞称黑客入侵账号辱骂顾客",
@@ -2009,22 +2081,6 @@
       "onboard_time": 1756137624,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 33369,
-      "num": 230050,
-      "word": "赵丽颖纪梵希七夕爱无所限",
-      "onboard_time": 1756192043,
-      "rank": 17,
-      "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 31058,
-      "num": 147891,
-      "word": "男子继承家业做掏粪工年入40万",
-      "onboard_time": 1756193004,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30318,
@@ -2065,6 +2121,22 @@
       "onboard_time": 1756135887,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24493,
+      "num": 178828,
+      "word": "暗访零基础1天拿证的摩托车驾考班",
+      "onboard_time": 1756193483,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 22967,
+      "num": 242909,
+      "word": "心动8眼神拉丝太好嗑了",
+      "onboard_time": 1756193243,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 22014,

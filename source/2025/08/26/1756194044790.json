@@ -1,0 +1,410 @@
+{
+  "runTime": 1756194044790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2158812,
+        "num": 2158812,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 734153,
+        "num": 734153,
+        "word": "谁家短剧能请来半个娱乐圈啊",
+        "onboard_time": 1756190362,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21969,
+        "num": 552008,
+        "word": "卫星互联网低轨10组卫星发射成功",
+        "onboard_time": 1756163959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1205936,
+        "num": 529750,
+        "word": "李雪琴胃里切了8个息肉",
+        "onboard_time": 1756190484,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441970,
+        "num": 441970,
+        "word": "警方通报景德镇撞人致2死1伤",
+        "onboard_time": 1756191202,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 306881,
+        "num": 306881,
+        "word": "小猫误入虎园被捕食",
+        "onboard_time": 1756185205,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 849616,
+        "num": 293281,
+        "word": "吴昕体重直逼100斤",
+        "onboard_time": 1756192223,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595917,
+        "num": 287843,
+        "word": "第一次对何炅小有了实感",
+        "onboard_time": 1756186283,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248199,
+        "num": 248199,
+        "word": "知情者称高速面具男并非故意吓人",
+        "onboard_time": 1756192342,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243384,
+        "num": 243384,
+        "word": "上海星巴克店员被顾客持续咆哮骂哭",
+        "onboard_time": 1756181303,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470992,
+        "num": 243338,
+        "word": "韩国人称川航发馒头不卫生",
+        "onboard_time": 1756189103,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413233,
+        "num": 243304,
+        "word": "孟子义忙到没时间做手术",
+        "onboard_time": 1756188624,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390413,
+        "num": 243257,
+        "word": "反仅退款第一人",
+        "onboard_time": 1756187842,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382934,
+        "num": 243222,
+        "word": "张檬带4个月大儿子坐飞机",
+        "onboard_time": 1756190784,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347117,
+        "num": 243179,
+        "word": "包贝尔对白宇吐烟圈",
+        "onboard_time": 1756191443,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332925,
+        "num": 243098,
+        "word": "建议大家不要过度存钱",
+        "onboard_time": 1756191563,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163185,
+        "num": 243073,
+        "word": "邱贻可带孙颖莎去看夕阳",
+        "onboard_time": 1756192824,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50703,
+        "num": 243031,
+        "word": "邓紫棋官宣五粮液新品代言人",
+        "onboard_time": 1756192882,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50128,
+        "num": 242950,
+        "word": "赵丽颖纪梵希七夕爱无所限",
+        "onboard_time": 1756192043,
+        "rank": 18,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 22967,
+        "num": 242909,
+        "word": "心动8眼神拉丝太好嗑了",
+        "onboard_time": 1756193243,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327690,
+        "num": 242866,
+        "word": "张万森 内娱下嫂子了",
+        "onboard_time": 1756178063,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272884,
+        "num": 242808,
+        "word": "何晟铭早期嘴了半个内娱",
+        "onboard_time": 1756182204,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264964,
+        "num": 242733,
+        "word": "郑乃馨又起飞了",
+        "onboard_time": 1756180523,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242731,
+        "num": 242731,
+        "word": "孙怡 钱才是女人的底气",
+        "onboard_time": 1756191741,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159237,
+        "num": 235023,
+        "word": "女子因头孢过敏全身皮肤大面破损",
+        "onboard_time": 1756189642,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231213,
+        "num": 231213,
+        "word": "曹骏37岁闯进美甲圈",
+        "onboard_time": 1756193544,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211330,
+        "num": 211330,
+        "word": "张馨予 这是12年前吗",
+        "onboard_time": 1756193063,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142943,
+        "num": 190606,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756179923,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120301,
+        "num": 183701,
+        "word": "于正那天穿了红衣",
+        "onboard_time": 1756193422,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24493,
+        "num": 178828,
+        "word": "暗访零基础1天拿证的摩托车驾考班",
+        "onboard_time": 1756193483,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 177845,
+        "num": 177845,
+        "word": "王鹤棣 情绪稳定",
+        "onboard_time": 1756183945,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169289,
+        "num": 169289,
+        "word": "严浩翔给贺峻霖捏斜方肌",
+        "onboard_time": 1756192523,
+        "rank": 31,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 161770,
+        "num": 161770,
+        "word": "短剧女主开始从政从仙了",
+        "onboard_time": 1756193904,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157929,
+        "num": 157929,
+        "word": "上海月薪9000做五休二的一天",
+        "onboard_time": 1756187542,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155599,
+        "num": 155599,
+        "word": "奶奶苦了一辈子发现外面全是好吃的",
+        "onboard_time": 1756190841,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151202,
+        "num": 151202,
+        "word": "田栩宁高定首穿",
+        "onboard_time": 1756181784,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149898,
+        "num": 149898,
+        "word": "王鹤棣方回应网传录音",
+        "onboard_time": 1756164920,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37286,
+        "num": 137843,
+        "word": "男子继承家业做掏粪工年入40万",
+        "onboard_time": 1756193004,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34900,
+        "num": 137756,
+        "word": "江西上饶一医院住院楼起火",
+        "onboard_time": 1756193964,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137688,
+        "num": 137688,
+        "word": "白敬亭韩国人气已经next level了",
+        "onboard_time": 1756188082,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133622,
+        "num": 133622,
+        "word": "嘻哈发博",
+        "onboard_time": 1756190603,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131535,
+        "num": 131535,
+        "word": "孙颖莎T锦绣九月刊封面",
+        "onboard_time": 1756184903,
+        "rank": 41,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 127957,
+        "num": 127957,
+        "word": "献鱼和好",
+        "onboard_time": 1756193843,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125398,
+        "num": 125398,
+        "word": "广州3点放学小学生家长愁接送难",
+        "onboard_time": 1756194023,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 117562,
+        "num": 117562,
+        "word": "鸟鸟为什么影视圈不拍普通人的生活",
+        "onboard_time": 1756186463,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117486,
+        "num": 117486,
+        "word": "徐冬冬直播时尹子维说漏嘴了",
+        "onboard_time": 1756184903,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117383,
+        "num": 117383,
+        "word": "范丞丞模仿刘耀文粉丝说话",
+        "onboard_time": 1756190964,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117009,
+        "num": 117009,
+        "word": "龚俊喊李沁小沁",
+        "onboard_time": 1756193904,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114913,
+        "num": 114913,
+        "word": "2孩童被黄鼠狼咬掉鼻子3D重建",
+        "onboard_time": 1756192342,
+        "rank": 48,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 97162,
+        "num": 113724,
+        "word": "无限暖暖",
+        "onboard_time": 1756186582,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
+    }
+  }
+}
