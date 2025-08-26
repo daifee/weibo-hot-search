@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756233333289,
+  "endTime": 1756234108821,
   "band_list": [
     {
       "raw_hot": 2643489,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469741,
+      "num": 469741,
+      "word": "奶爸",
+      "onboard_time": 1756231156,
+      "rank": 1,
+      "category": "幽默,综艺"
+    },
+    {
       "raw_hot": 456430,
       "num": 733185,
       "word": "官方通报三亚高空坠物致1死2伤",
@@ -81,14 +89,6 @@
       "onboard_time": 1756226182,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 363193,
-      "num": 363193,
-      "word": "奶爸",
-      "onboard_time": 1756231156,
-      "rank": 1,
-      "category": "幽默,综艺"
     },
     {
       "raw_hot": 343097,
@@ -483,8 +483,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34833,
-      "num": 34833,
+      "raw_hot": 37096,
+      "num": 37096,
       "word": "物业回应发文将扑杀流浪猫属实",
       "onboard_time": 1756229417,
       "rank": 30,

@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756233333289,
+  "endTime": 1756234108821,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -1667,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469741,
+      "num": 469741,
+      "word": "奶爸",
+      "onboard_time": 1756231156,
+      "rank": 1,
+      "category": "幽默,综艺"
+    },
+    {
       "raw_hot": 466313,
       "num": 466313,
       "word": "蓝盈莹大方展示素颜雀斑",
@@ -2265,14 +2273,6 @@
       "onboard_time": 1756000763,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 363193,
-      "num": 363193,
-      "word": "奶爸",
-      "onboard_time": 1756231156,
-      "rank": 1,
-      "category": "幽默,综艺"
     },
     {
       "raw_hot": 360207,
@@ -11011,6 +11011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37096,
+      "num": 37096,
+      "word": "物业回应发文将扑杀流浪猫属实",
+      "onboard_time": 1756229417,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36169,
       "num": 154507,
       "word": "养娃人的citywalk其实是citysit",
@@ -11056,14 +11064,6 @@
       "word": "从河说起发现郑州之美",
       "onboard_time": 1756119382,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34833,
-      "num": 34833,
-      "word": "物业回应发文将扑杀流浪猫属实",
-      "onboard_time": 1756229417,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
