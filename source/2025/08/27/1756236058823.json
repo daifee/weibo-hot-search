@@ -1,0 +1,410 @@
+{
+  "runTime": 1756236058823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 984972,
+        "num": 984972,
+        "word": "霉霉订婚",
+        "onboard_time": 1756229957,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297031,
+        "num": 297031,
+        "word": "奶爸",
+        "onboard_time": 1756231156,
+        "rank": 1,
+        "category": "幽默,综艺"
+      },
+      {
+        "raw_hot": 4914,
+        "num": 136590,
+        "word": "这是尹春燕和蔡永章的故事",
+        "onboard_time": 1756191502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104645,
+        "num": 104645,
+        "word": "73岁老人用铁锨打死妻子被判无期",
+        "onboard_time": 1756223903,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78491,
+        "num": 78491,
+        "word": "目击者称游客蹦极绳断坠落见到血迹",
+        "onboard_time": 1756224322,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53377,
+        "num": 53377,
+        "word": "学生举板凳砸老师警方介入",
+        "onboard_time": 1756225461,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48715,
+        "num": 48715,
+        "word": "官方通报三亚高空坠物致1死2伤",
+        "onboard_time": 1756223004,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 40580,
+        "num": 40580,
+        "word": "田曦薇过年收到的消息都还没回",
+        "onboard_time": 1756210042,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33160,
+        "num": 40576,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29481,
+        "num": 40541,
+        "word": "酒店装修工程推车坠落致1死2伤",
+        "onboard_time": 1756225222,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131980,
+        "num": 40526,
+        "word": "郑恺方回应停用丈母娘亲属卡",
+        "onboard_time": 1756228039,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131252,
+        "num": 40500,
+        "word": "胡歌张若昀成毅肖战S加男演员",
+        "onboard_time": 1756226182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100116,
+        "num": 40459,
+        "word": "赵丽颖刘亦菲杨紫S加女演员",
+        "onboard_time": 1756222942,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91940,
+        "num": 40428,
+        "word": "高端伴游 色情交易",
+        "onboard_time": 1756210943,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 70585,
+        "num": 40406,
+        "word": "吴京 狐狸京",
+        "onboard_time": 1756220967,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62691,
+        "num": 40384,
+        "word": "谢霆锋与大儿子Lucas同框合影",
+        "onboard_time": 1756221026,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57208,
+        "num": 40365,
+        "word": "Jennie长沙快闪店发夹169元",
+        "onboard_time": 1756218925,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40348,
+        "num": 40348,
+        "word": "上海15岁女生军训时死亡背后",
+        "onboard_time": 1756226061,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33681,
+        "num": 33681,
+        "word": "物业回应发文将扑杀流浪猫属实",
+        "onboard_time": 1756229417,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32718,
+        "num": 32718,
+        "word": "早期的张维伊",
+        "onboard_time": 1756213164,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177586,
+        "num": 32566,
+        "word": "郑恺小姨子",
+        "onboard_time": 1756219584,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60124,
+        "num": 31781,
+        "word": "女子月用电近2000度不敢开空调",
+        "onboard_time": 1756211482,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37673,
+        "num": 31360,
+        "word": "日本怕九三阅兵让世界铭记其侵略",
+        "onboard_time": 1756227679,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30706,
+        "num": 30706,
+        "word": "黄景瑜前妻点赞了许荔莎",
+        "onboard_time": 1756203742,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28029,
+        "num": 28029,
+        "word": "丹麦女子育儿测试不合格女儿被带走",
+        "onboard_time": 1756222283,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26464,
+        "num": 28026,
+        "word": "许荔莎沈泰互关",
+        "onboard_time": 1756215983,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24643,
+        "num": 28025,
+        "word": "张若昀张维伊对手戏",
+        "onboard_time": 1756229357,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23348,
+        "num": 28024,
+        "word": "育儿补贴不能被商家掏走",
+        "onboard_time": 1756209923,
+        "rank": 27,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 20248,
+        "num": 28021,
+        "word": "张予曦毕雯珺借位吻",
+        "onboard_time": 1756214662,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14298,
+        "num": 28017,
+        "word": "仪仗女兵说誓做军中花木兰",
+        "onboard_time": 1756222283,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22938,
+        "num": 28016,
+        "word": "叶舒华汉服",
+        "onboard_time": 1756209083,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22925,
+        "num": 28012,
+        "word": "川航回应发馒头卫生质疑",
+        "onboard_time": 1756234274,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22046,
+        "num": 28010,
+        "word": "刘雨昕 美背",
+        "onboard_time": 1756223123,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21928,
+        "num": 28010,
+        "word": "王一博极限36小时",
+        "onboard_time": 1756223963,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21754,
+        "num": 28008,
+        "word": "军训死亡女生尸检还需20多个工作日",
+        "onboard_time": 1756221444,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21653,
+        "num": 28003,
+        "word": "孟子义jennie穿了同款",
+        "onboard_time": 1756207342,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21608,
+        "num": 28003,
+        "word": "日本人在台北闹市区展示五星红旗",
+        "onboard_time": 1756211965,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21545,
+        "num": 27998,
+        "word": "馒头的绝配到底是什么啊",
+        "onboard_time": 1756216283,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20090,
+        "num": 27997,
+        "word": "吴昕体重直逼100斤",
+        "onboard_time": 1756192223,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19922,
+        "num": 27994,
+        "word": "奚梦瑶回宫",
+        "onboard_time": 1756205003,
+        "rank": 39,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 19208,
+        "num": 27991,
+        "word": "深圳欢乐谷被指有擦边表演",
+        "onboard_time": 1756206982,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18615,
+        "num": 27991,
+        "word": "建议在26岁之前谈恋爱",
+        "onboard_time": 1756210463,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18429,
+        "num": 27988,
+        "word": "寒武纪上半年净赚超10亿元",
+        "onboard_time": 1756222466,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18097,
+        "num": 27984,
+        "word": "你和我说这是华晨宇",
+        "onboard_time": 1756200023,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17930,
+        "num": 27982,
+        "word": "严浩翔歪头ending",
+        "onboard_time": 1756224622,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17720,
+        "num": 27982,
+        "word": "原来吃不完的火锅可以打包带走",
+        "onboard_time": 1756226000,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17384,
+        "num": 27979,
+        "word": "官方通报游客体验蹦极时受伤",
+        "onboard_time": 1756222404,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 17343,
+        "num": 27975,
+        "word": "倪萍 我来蹭蹭迟蓬的流量",
+        "onboard_time": 1756225222,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17271,
+        "num": 27973,
+        "word": "6点半下班真的好残忍啊",
+        "onboard_time": 1756203022,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15732,
+        "num": 27971,
+        "word": "李佳薇 逆光",
+        "onboard_time": 1756223664,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}
