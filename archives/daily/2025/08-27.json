@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756247057603,
+  "endTime": 1756248069151,
   "band_list": [
     {
       "raw_hot": 2643489,
@@ -171,19 +171,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222384,
+      "num": 129890,
+      "word": "郑恺方回应停用丈母娘亲属卡",
+      "onboard_time": 1756228039,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213479,
       "num": 213479,
       "word": "黄景瑜前妻点赞了许荔莎",
       "onboard_time": 1756203742,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 208950,
-      "num": 129890,
-      "word": "郑恺方回应停用丈母娘亲属卡",
-      "onboard_time": 1756228039,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111203,
+      "num": 88619,
+      "word": "上海15岁女生军训时死亡背后",
+      "onboard_time": 1756226061,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109187,
       "num": 118035,
       "word": "献鱼",
@@ -305,6 +313,14 @@
       "onboard_time": 1756205003,
       "rank": 30,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 105127,
+      "num": 105127,
+      "word": "高速路上戴恐怖面具不存在反转",
+      "onboard_time": 1756244235,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97099,
@@ -371,14 +387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85380,
-      "num": 70036,
-      "word": "上海15岁女生军训时死亡背后",
-      "onboard_time": 1756226061,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84132,
       "num": 84132,
       "word": "许凯被曝劈腿后节目未受影响",
@@ -435,6 +443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 65856,
+      "num": 65856,
+      "word": "川航回应发馒头卫生质疑",
+      "onboard_time": 1756234274,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61735,
       "num": 61735,
       "word": "梓渝 时装男士",
@@ -449,14 +465,6 @@
       "onboard_time": 1756216283,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 48687,
-      "num": 48687,
-      "word": "川航回应发馒头卫生质疑",
-      "onboard_time": 1756234274,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44963,
@@ -483,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38366,
-      "num": 38366,
-      "word": "高速路上戴恐怖面具不存在反转",
-      "onboard_time": 1756244235,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 38214,
+      "num": 38214,
+      "word": "特朗普称最快一周要国防部改战争部",
+      "onboard_time": 1756238895,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38013,
@@ -497,14 +505,6 @@
       "onboard_time": 1756217604,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37748,
-      "num": 37748,
-      "word": "特朗普称最快一周要国防部改战争部",
-      "onboard_time": 1756238895,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37096,
@@ -523,6 +523,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27794,
+      "num": 34873,
+      "word": "肖战首张个人专辑我们获奖",
+      "onboard_time": 1756246154,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 26492,
+      "num": 31118,
+      "word": "和任何人断联都无痛的方法",
+      "onboard_time": 1756243994,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 25485,
+      "num": 31109,
+      "word": "一百块穿出一千块的感觉是什么体验",
+      "onboard_time": 1756240034,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25391,
       "num": 75403,
       "word": "乘客回应国航一航班紧急备降俄罗斯",
@@ -531,15 +555,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23841,
-      "num": 25656,
-      "word": "和任何人断联都无痛的方法",
-      "onboard_time": 1756243994,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 23478,
+      "num": 31534,
+      "word": "那英谈参加花少7",
+      "onboard_time": 1756247597,
+      "rank": 34,
+      "category": "综艺"
     },
     {
-      "raw_hot": 22684,
+      "raw_hot": 23470,
       "num": 40030,
       "word": "中方驳回日方所谓抗议",
       "onboard_time": 1756239016,
@@ -547,28 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22663,
-      "num": 25602,
+      "raw_hot": 23068,
+      "num": 31054,
       "word": "游客爬上石柱坠崖身亡家属索赔",
       "onboard_time": 1756237695,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22440,
-      "num": 25614,
-      "word": "一百块穿出一千块的感觉是什么体验",
-      "onboard_time": 1756240034,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 21132,
-      "num": 28727,
-      "word": "肖战首张个人专辑我们获奖",
-      "onboard_time": 1756246154,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 21109,

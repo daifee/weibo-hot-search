@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756247057603,
+  "endTime": 1756248069151,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -3291,6 +3291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 222384,
+      "num": 129890,
+      "word": "郑恺方回应停用丈母娘亲属卡",
+      "onboard_time": 1756228039,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220836,
       "num": 248792,
       "word": "新拍的王楚钦",
@@ -3529,14 +3537,6 @@
       "onboard_time": 1756137566,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 208950,
-      "num": 129890,
-      "word": "郑恺方回应停用丈母娘亲属卡",
-      "onboard_time": 1756228039,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 208852,
@@ -8227,6 +8227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111203,
+      "num": 88619,
+      "word": "上海15岁女生军训时死亡背后",
+      "onboard_time": 1756226061,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110973,
       "num": 110973,
       "word": "余承东首谈为什么要造旅行车",
@@ -8617,6 +8625,14 @@
       "onboard_time": 1756028122,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105127,
+      "num": 105127,
+      "word": "高速路上戴恐怖面具不存在反转",
+      "onboard_time": 1756244235,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105105,
@@ -9539,14 +9555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 85380,
-      "num": 70036,
-      "word": "上海15岁女生军训时死亡背后",
-      "onboard_time": 1756226061,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85374,
       "num": 168986,
       "word": "女子遭家暴后找保镖丈夫收敛不少",
@@ -10131,6 +10139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 65856,
+      "num": 65856,
+      "word": "川航回应发馒头卫生质疑",
+      "onboard_time": 1756234274,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65413,
       "num": 67393,
       "word": "戴恐怖面具故意吓高速过往车辆",
@@ -10659,14 +10675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48687,
-      "num": 48687,
-      "word": "川航回应发馒头卫生质疑",
-      "onboard_time": 1756234274,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48513,
       "num": 310349,
       "word": "杭州地标为城市骑士点亮",
@@ -10955,12 +10963,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 38366,
-      "num": 38366,
-      "word": "高速路上戴恐怖面具不存在反转",
-      "onboard_time": 1756244235,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 38214,
+      "num": 38214,
+      "word": "特朗普称最快一周要国防部改战争部",
+      "onboard_time": 1756238895,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38192,
@@ -10993,14 +11001,6 @@
       "onboard_time": 1756164020,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 37748,
-      "num": 37748,
-      "word": "特朗普称最快一周要国防部改战争部",
-      "onboard_time": 1756238895,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37456,
@@ -11339,6 +11339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27794,
+      "num": 34873,
+      "word": "肖战首张个人专辑我们获奖",
+      "onboard_time": 1756246154,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 27299,
       "num": 55243,
       "word": "独白6208",
@@ -11353,6 +11361,14 @@
       "onboard_time": 1756177282,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26492,
+      "num": 31118,
+      "word": "和任何人断联都无痛的方法",
+      "onboard_time": 1756243994,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 26478,
@@ -11385,6 +11401,14 @@
       "onboard_time": 1756206142,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25485,
+      "num": 31109,
+      "word": "一百块穿出一千块的感觉是什么体验",
+      "onboard_time": 1756240034,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 25415,
@@ -11491,20 +11515,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23841,
-      "num": 25656,
-      "word": "和任何人断联都无痛的方法",
-      "onboard_time": 1756243994,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 23744,
       "num": 112101,
       "word": "遭海底捞门店账号客服侮辱女子发声",
       "onboard_time": 1756134989,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23478,
+      "num": 31534,
+      "word": "那英谈参加花少7",
+      "onboard_time": 1756247597,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23470,
+      "num": 40030,
+      "word": "中方驳回日方所谓抗议",
+      "onboard_time": 1756239016,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23338,
@@ -11523,6 +11555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23068,
+      "num": 31054,
+      "word": "游客爬上石柱坠崖身亡家属索赔",
+      "onboard_time": 1756237695,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22932,
       "num": 46247,
       "word": "going人的事于文文都做了",
@@ -11537,30 +11577,6 @@
       "onboard_time": 1756111345,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22684,
-      "num": 40030,
-      "word": "中方驳回日方所谓抗议",
-      "onboard_time": 1756239016,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 22663,
-      "num": 25602,
-      "word": "游客爬上石柱坠崖身亡家属索赔",
-      "onboard_time": 1756237695,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22440,
-      "num": 25614,
-      "word": "一百块穿出一千块的感觉是什么体验",
-      "onboard_time": 1756240034,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 22393,
@@ -11633,14 +11649,6 @@
       "onboard_time": 1756196301,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21132,
-      "num": 28727,
-      "word": "肖战首张个人专辑我们获奖",
-      "onboard_time": 1756246154,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 21109,
