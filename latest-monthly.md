@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/26 15:40:44
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/26 16:35:54
 </p>
 </blockquote>
 <p>
@@ -5433,6 +5433,12 @@ iG起诉炫神（热度：773209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E8%BF%87%E5%BA%A6%E5%AD%98%E9%92%B1%23" target="weibo">
+建议大家不要过度存钱（热度：752268）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23" target="weibo">
 王玉雯你真的火了（热度：752188）
 </a>
@@ -6005,12 +6011,6 @@ WBG对战iG（热度：714161）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%A7%B0%E5%85%AC%E5%8F%B8%E8%AE%A9%E6%8C%893%E6%AF%947%E8%B5%94%E9%92%B1%23" target="weibo">
 赵露思称公司让按3比7赔钱（热度：704939）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9B%B4%E6%92%AD%E6%97%B6%E7%89%B9%E6%84%8F%E6%8F%90%E5%88%B0%E5%A4%A7%E7%B2%89%E7%9A%84%E5%90%8D%E5%AD%97%23" target="weibo">
-赵露思直播时特意提到大粉的名字（热度：704742）
 </a>
 </li>
 

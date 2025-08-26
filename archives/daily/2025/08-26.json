@@ -1,6 +1,6 @@
 {
   "startTime": 1756139564186,
-  "endTime": 1756194044790,
+  "endTime": 1756197354476,
   "band_list": [
     {
       "raw_hot": 8546075,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 849616,
-      "num": 293281,
+      "num": 427682,
       "word": "吴昕体重直逼100斤",
       "onboard_time": 1756192223,
       "rank": 7,
@@ -129,6 +129,14 @@
       "onboard_time": 1756184903,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 752268,
+      "num": 355269,
+      "word": "建议大家不要过度存钱",
+      "onboard_time": 1756191563,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 739909,
@@ -244,10 +252,34 @@
     },
     {
       "raw_hot": 546159,
-      "num": 248983,
+      "num": 318718,
       "word": "韩国人称川航发馒头不卫生",
       "onboard_time": 1756189103,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 521246,
+      "num": 348914,
+      "word": "曹骏37岁闯进美甲圈",
+      "onboard_time": 1756193544,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 508512,
+      "num": 340738,
+      "word": "晚晚晒镯子",
+      "onboard_time": 1756196543,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 494131,
+      "num": 494131,
+      "word": "知情者称高速面具男并非故意吓人",
+      "onboard_time": 1756192342,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -299,12 +331,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428455,
+      "num": 428455,
+      "word": "特朗普要走李在明签字笔",
+      "onboard_time": 1756194323,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 424389,
+      "num": 424389,
+      "word": "美美sunday丑丑monday",
+      "onboard_time": 1756195283,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 412252,
       "num": 412252,
       "word": "鸟鸟为什么影视圈不拍普通人的生活",
       "onboard_time": 1756186463,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409061,
+      "num": 335029,
+      "word": "张馨予 这是12年前吗",
+      "onboard_time": 1756193063,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 401270,
@@ -321,6 +377,14 @@
       "onboard_time": 1756128984,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 395422,
+      "num": 395422,
+      "word": "中方回应特朗普希望尽快访华",
+      "onboard_time": 1756195463,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 392890,
@@ -363,6 +427,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 369600,
+      "num": 212773,
+      "word": "赵文卓女儿 远看以为黄圣依",
+      "onboard_time": 1756196365,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 356059,
+      "num": 356059,
+      "word": "邱贻可带孙颖莎去看夕阳",
+      "onboard_time": 1756192824,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352488,
       "num": 311882,
       "word": "黄霄雲舅妈癌症去世",
@@ -395,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332925,
-      "num": 243098,
-      "word": "建议大家不要过度存钱",
-      "onboard_time": 1756191563,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 335329,
+      "num": 233618,
+      "word": "张维伊 庆余年2侯季常",
+      "onboard_time": 1756195942,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 311710,
@@ -523,14 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248199,
-      "num": 248199,
-      "word": "知情者称高速面具男并非故意吓人",
-      "onboard_time": 1756192342,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245994,
       "num": 107053,
       "word": "kid疑似抄袭",
@@ -545,6 +617,22 @@
       "onboard_time": 1756169425,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239677,
+      "num": 230685,
+      "word": "王鹤棣今天上班还开开心心的",
+      "onboard_time": 1756195402,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237312,
+      "num": 237312,
+      "word": "外交部说日方应诚实反省侵略历史",
+      "onboard_time": 1756195402,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 235586,
@@ -563,14 +651,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 231213,
-      "num": 231213,
-      "word": "曹骏37岁闯进美甲圈",
-      "onboard_time": 1756193544,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226049,
       "num": 189152,
       "word": "男子杀妻死缓女方家属不满判决上诉",
@@ -585,6 +665,14 @@
       "onboard_time": 1756134208,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224742,
+      "num": 224742,
+      "word": "张凌赫歪头",
+      "onboard_time": 1756196603,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215884,
@@ -609,14 +697,6 @@
       "onboard_time": 1756135108,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211330,
-      "num": 211330,
-      "word": "张馨予 这是12年前吗",
-      "onboard_time": 1756193063,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 210464,
@@ -683,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200835,
+      "num": 217940,
+      "word": "卢远两张约会卡都给王乐晨",
+      "onboard_time": 1756196123,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200780,
       "num": 200780,
       "word": "老瓦赞孙颖莎史上最全面",
@@ -739,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197410,
+      "num": 219637,
+      "word": "孙颖莎说夕阳很美",
+      "onboard_time": 1756197083,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197403,
       "num": 200513,
       "word": "马嘉祺用流量传播正能量",
@@ -753,6 +849,14 @@
       "onboard_time": 1756184482,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195576,
+      "num": 195576,
+      "word": "易烊千玺告状",
+      "onboard_time": 1756194563,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 194999,
@@ -809,6 +913,14 @@
       "onboard_time": 1756182204,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184479,
+      "num": 226061,
+      "word": "日本一股否认侵略历史逆流持续涌动",
+      "onboard_time": 1756195523,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 183992,
@@ -899,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168929,
+      "num": 168929,
+      "word": "美团退款自查攻略",
+      "onboard_time": 1756197024,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 168315,
       "num": 168315,
       "word": "未来头显会取代手机吗",
@@ -907,12 +1027,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 163185,
-      "num": 243073,
-      "word": "邱贻可带孙颖莎去看夕阳",
-      "onboard_time": 1756192824,
+      "raw_hot": 168212,
+      "num": 218329,
+      "word": "广州3点放学小学生家长愁接送难",
+      "onboard_time": 1756194023,
       "rank": 43,
-      "category": "体育"
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 167778,
+      "num": 167778,
+      "word": "外交部回应日本的抗战胜利纪念负面言论",
+      "onboard_time": 1756197083,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 163903,
+      "num": 155012,
+      "word": "邢菲青衣预备役",
+      "onboard_time": 1756195942,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 162868,
@@ -1011,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151954,
+      "num": 151954,
+      "word": "张凌赫 宙草级别",
+      "onboard_time": 1756195582,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151926,
       "num": 170328,
       "word": "陈奕迅追过的星要开音乐会了",
@@ -1048,6 +1192,14 @@
       "word": "美方最低规格接待引韩媒不满",
       "onboard_time": 1756181243,
       "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 148171,
+      "num": 229125,
+      "word": "特朗普希望年内尽快访华",
+      "onboard_time": 1756196065,
+      "rank": 23,
       "category": "国际时政"
     },
     {
@@ -1105,6 +1257,14 @@
       "onboard_time": 1756174043,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138942,
+      "num": 138942,
+      "word": "花30万闪婚一月不到人财两空",
+      "onboard_time": 1756195402,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138867,
@@ -1187,12 +1347,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133945,
+      "num": 137756,
+      "word": "江西上饶一医院住院楼起火",
+      "onboard_time": 1756193964,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133157,
       "num": 133157,
       "word": "女子询问海底捞换配菜被开黄腔辱骂",
       "onboard_time": 1756121303,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133016,
+      "num": 133016,
+      "word": "粉丝当着鹿晗的面投诉工作室",
+      "onboard_time": 1756194504,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 132618,
@@ -1313,14 +1489,6 @@
       "onboard_time": 1756177942,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125398,
-      "num": 125398,
-      "word": "广州3点放学小学生家长愁接送难",
-      "onboard_time": 1756194023,
-      "rank": 43,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 124741,
@@ -1489,6 +1657,14 @@
       "onboard_time": 1756183165,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105407,
+      "num": 127460,
+      "word": "iPhone自带的情侣模式",
+      "onboard_time": 1756197204,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 104596,
@@ -1851,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67303,
+      "num": 156085,
+      "word": "何晟铭 真正的魔童降世",
+      "onboard_time": 1756196603,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66243,
       "num": 147892,
       "word": "日本街头吸烟区",
@@ -1889,6 +2073,14 @@
       "onboard_time": 1756179503,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 59211,
+      "num": 243031,
+      "word": "邓紫棋官宣五粮液新品代言人",
+      "onboard_time": 1756192882,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 57976,
@@ -1945,14 +2137,6 @@
       "onboard_time": 1756190302,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 50703,
-      "num": 243031,
-      "word": "邓紫棋官宣五粮液新品代言人",
-      "onboard_time": 1756192882,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 50128,
@@ -2059,14 +2243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34900,
-      "num": 137756,
-      "word": "江西上饶一医院住院楼起火",
-      "onboard_time": 1756193964,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34446,
       "num": 222651,
       "word": "海底捞称黑客入侵账号辱骂顾客",
@@ -2099,6 +2275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28740,
+      "num": 242909,
+      "word": "心动8眼神拉丝太好嗑了",
+      "onboard_time": 1756193243,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26504,
       "num": 314928,
       "word": "微博文化之夜年度荣誉",
@@ -2129,14 +2313,6 @@
       "onboard_time": 1756193483,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 22967,
-      "num": 242909,
-      "word": "心动8眼神拉丝太好嗑了",
-      "onboard_time": 1756193243,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 22014,
@@ -2187,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17885,
+      "num": 326300,
+      "word": "国家队组团来炸场",
+      "onboard_time": 1756196301,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16443,
       "num": 27482,
       "word": "美美桑内手势舞来啦",
@@ -2209,6 +2393,14 @@
       "onboard_time": 1756151113,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12184,
+      "num": 155068,
+      "word": "内娱古早邪门cp",
+      "onboard_time": 1756197204,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 11596,
