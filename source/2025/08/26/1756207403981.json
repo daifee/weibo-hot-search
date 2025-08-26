@@ -1,0 +1,410 @@
+{
+  "runTime": 1756207403981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1274876,
+        "num": 1274876,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712140,
+        "num": 712140,
+        "word": "子夜归男二掀桌",
+        "onboard_time": 1756204884,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38651,
+        "num": 466233,
+        "word": "深圳经济特区生日快乐",
+        "onboard_time": 1756201822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436731,
+        "num": 436731,
+        "word": "王楚钦 李宁",
+        "onboard_time": 1756203804,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351941,
+        "num": 351941,
+        "word": "投诉鲁迅者推广尼古丁袋涉嫌违法",
+        "onboard_time": 1756204282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301840,
+        "num": 301840,
+        "word": "VOGUE二十周年群模封面",
+        "onboard_time": 1756203623,
+        "rank": 5,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 274956,
+        "num": 274956,
+        "word": "中方提出严肃交涉要求日方澄清",
+        "onboard_time": 1756197923,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195880,
+        "num": 274824,
+        "word": "日本一股否认侵略历史逆流持续涌动",
+        "onboard_time": 1756195523,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179987,
+        "num": 274444,
+        "word": "中方回应特朗普就稀土关税威胁",
+        "onboard_time": 1756201764,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186722,
+        "num": 273952,
+        "word": "丁程鑫rua宋轶的头",
+        "onboard_time": 1756206683,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868757,
+        "num": 273752,
+        "word": "黄景瑜前妻点赞了许荔莎",
+        "onboard_time": 1756203742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724856,
+        "num": 273399,
+        "word": "柴鸡蛋求推荐新人",
+        "onboard_time": 1756204282,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624280,
+        "num": 272971,
+        "word": "小酒窝回应暑假赚奶粉钱",
+        "onboard_time": 1756201042,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530258,
+        "num": 272719,
+        "word": "奚梦瑶回宫",
+        "onboard_time": 1756205003,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 481743,
+        "num": 272426,
+        "word": "你和我说这是华晨宇",
+        "onboard_time": 1756200023,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 419320,
+        "num": 272225,
+        "word": "刘耀文明天还回公司干吗",
+        "onboard_time": 1756204402,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68801,
+        "num": 271903,
+        "word": "肖战TODS意式美学大片",
+        "onboard_time": 1756206801,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 369798,
+        "num": 271434,
+        "word": "许凯被曝劈腿后节目未受影响",
+        "onboard_time": 1756202722,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52535,
+        "num": 271069,
+        "word": "九三阅兵三次演练卡点大片",
+        "onboard_time": 1756205542,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41074,
+        "num": 270802,
+        "word": "MCN洗脑女主播擦边称不擦没流量",
+        "onboard_time": 1756206083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322771,
+        "num": 270294,
+        "word": "张维伊 庆余年2侯季常",
+        "onboard_time": 1756195942,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270238,
+        "num": 270238,
+        "word": "6点半下班真的好残忍啊",
+        "onboard_time": 1756203022,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250326,
+        "num": 250326,
+        "word": "李雪琴胃里切了8个息肉",
+        "onboard_time": 1756190484,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240789,
+        "num": 240789,
+        "word": "柴鸡蛋选角 何晟铭于正",
+        "onboard_time": 1756205364,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33297,
+        "num": 237592,
+        "word": "马龙Q你即刻出发",
+        "onboard_time": 1756203142,
+        "rank": 24,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 237215,
+        "num": 237215,
+        "word": "赵文卓女儿 远看以为黄圣依",
+        "onboard_time": 1756196365,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178688,
+        "num": 236113,
+        "word": "杨威被儿子千元计算器暴击",
+        "onboard_time": 1756203263,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112438,
+        "num": 235826,
+        "word": "王鹤棣ELLE金九封面预告",
+        "onboard_time": 1756205723,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235746,
+        "num": 235746,
+        "word": "谁家短剧能请来半个娱乐圈啊",
+        "onboard_time": 1756190362,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26181,
+        "num": 204089,
+        "word": "情侣车里吵架坠湖被71岁老人救起",
+        "onboard_time": 1756206142,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203841,
+        "num": 203841,
+        "word": "于正写诗没有发生过的事",
+        "onboard_time": 1756205483,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185377,
+        "num": 185377,
+        "word": "建议大家不要过度存钱",
+        "onboard_time": 1756191563,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170564,
+        "num": 170564,
+        "word": "网红固原二狗遇难",
+        "onboard_time": 1756200082,
+        "rank": 32,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 159574,
+        "num": 159574,
+        "word": "国航一伦敦飞北京客机迫降俄罗斯",
+        "onboard_time": 1756204102,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159149,
+        "num": 159149,
+        "word": "退休金1700元的独居生活",
+        "onboard_time": 1756205182,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128930,
+        "num": 157906,
+        "word": "深圳欢乐谷被指有擦边表演",
+        "onboard_time": 1756206982,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109627,
+        "num": 155764,
+        "word": "李兰迪丁禹兮在接触邓科新剧",
+        "onboard_time": 1756201222,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27412,
+        "num": 153654,
+        "word": "孟子义jennie穿了同款",
+        "onboard_time": 1756207342,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80823,
+        "num": 152990,
+        "word": "用word来背书",
+        "onboard_time": 1756206801,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19626,
+        "num": 150505,
+        "word": "在厦门打开任意门",
+        "onboard_time": 1756206083,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 149501,
+        "num": 149501,
+        "word": "吴昕体重直逼100斤",
+        "onboard_time": 1756192223,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144392,
+        "num": 144392,
+        "word": "特朗普称中国鲤鱼入侵五大湖",
+        "onboard_time": 1756201342,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143926,
+        "num": 143926,
+        "word": "张凯毅说想过离婚",
+        "onboard_time": 1756204582,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138111,
+        "num": 138111,
+        "word": "脱口秀知网诞生了",
+        "onboard_time": 1756203142,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133640,
+        "num": 133640,
+        "word": "iG战胜WE",
+        "onboard_time": 1756206262,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125583,
+        "num": 125583,
+        "word": "林诗栋总结瑞典大满贯",
+        "onboard_time": 1756206203,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122732,
+        "num": 122732,
+        "word": "王晶说陈冠希思想太开放了",
+        "onboard_time": 1756205903,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110266,
+        "num": 110266,
+        "word": "韩国人称川航发馒头不卫生",
+        "onboard_time": 1756189103,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109530,
+        "num": 109530,
+        "word": "女生起诉发性暗示微信男败诉",
+        "onboard_time": 1756207044,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106758,
+        "num": 106758,
+        "word": "被老虎咬死小猫遗体已做无害化处理",
+        "onboard_time": 1756207342,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平夫妇会见柬埔寨国王和太后#"
+    }
+  }
+}
