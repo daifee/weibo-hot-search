@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756197354476,
+  "endTime": 1756198145054,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -387,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 986174,
+      "num": 413433,
+      "word": "晚晚晒镯子",
+      "onboard_time": 1756196543,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 978373,
       "num": 1156539,
       "word": "男子杀妻死缓女方家属不满判决上诉",
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 752268,
-      "num": 355269,
+      "num": 412464,
       "word": "建议大家不要过度存钱",
       "onboard_time": 1756191563,
       "rank": 21,
@@ -1147,6 +1155,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 542276,
+      "num": 542276,
+      "word": "美美sunday丑丑monday",
+      "onboard_time": 1756195283,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 537011,
       "num": 283026,
       "word": "清朝状元的名字毫无网红感",
@@ -1212,7 +1228,7 @@
     },
     {
       "raw_hot": 521246,
-      "num": 348914,
+      "num": 411722,
       "word": "曹骏37岁闯进美甲圈",
       "onboard_time": 1756193544,
       "rank": 25,
@@ -1267,14 +1283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 508512,
-      "num": 340738,
-      "word": "晚晚晒镯子",
-      "onboard_time": 1756196543,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 507895,
       "num": 507895,
       "word": "女子拒绝男子被重伤家属拒赔医疗费",
@@ -1315,18 +1323,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 495344,
-      "num": 495344,
-      "word": "三亚非必要不出门",
-      "onboard_time": 1756101681,
+      "raw_hot": 497418,
+      "num": 497418,
+      "word": "知情者称高速面具男并非故意吓人",
+      "onboard_time": 1756192342,
       "rank": 18,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 494131,
-      "num": 494131,
-      "word": "知情者称高速面具男并非故意吓人",
-      "onboard_time": 1756192342,
+      "raw_hot": 495344,
+      "num": 495344,
+      "word": "三亚非必要不出门",
+      "onboard_time": 1756101681,
       "rank": 18,
       "category": "民生新闻"
     },
@@ -1337,6 +1345,14 @@
       "onboard_time": 1755970998,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485890,
+      "num": 412300,
+      "word": "张维伊 庆余年2侯季常",
+      "onboard_time": 1756195942,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 484229,
@@ -1385,6 +1401,14 @@
       "onboard_time": 1756106243,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466978,
+      "num": 466978,
+      "word": "特朗普要走李在明签字笔",
+      "onboard_time": 1756194323,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 466313,
@@ -1539,27 +1563,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 428455,
-      "num": 428455,
-      "word": "特朗普要走李在明签字笔",
-      "onboard_time": 1756194323,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 425360,
       "num": 425360,
       "word": "TMEA节目单",
       "onboard_time": 1756034722,
       "rank": 29,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 424389,
-      "num": 424389,
-      "word": "美美sunday丑丑monday",
-      "onboard_time": 1756195283,
-      "rank": 7,
       "category": "音乐"
     },
     {
@@ -1635,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414671,
+      "num": 414671,
+      "word": "中方回应特朗普希望尽快访华",
+      "onboard_time": 1756195463,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 414454,
       "num": 414454,
       "word": "高校回应全员停发工资",
@@ -1684,7 +1700,7 @@
     },
     {
       "raw_hot": 409061,
-      "num": 335029,
+      "num": 397307,
       "word": "张馨予 这是12年前吗",
       "onboard_time": 1756193063,
       "rank": 49,
@@ -1713,14 +1729,6 @@
       "onboard_time": 1756053621,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395422,
-      "num": 395422,
-      "word": "中方回应特朗普希望尽快访华",
-      "onboard_time": 1756195463,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 392890,
@@ -1860,7 +1868,7 @@
     },
     {
       "raw_hot": 369600,
-      "num": 212773,
+      "num": 354761,
       "word": "赵文卓女儿 远看以为黄圣依",
       "onboard_time": 1756196365,
       "rank": 33,
@@ -1932,7 +1940,7 @@
     },
     {
       "raw_hot": 356059,
-      "num": 356059,
+      "num": 414389,
       "word": "邱贻可带孙颖莎去看夕阳",
       "onboard_time": 1756192824,
       "rank": 43,
@@ -2009,14 +2017,6 @@
       "onboard_time": 1756044446,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 335329,
-      "num": 233618,
-      "word": "张维伊 庆余年2侯季常",
-      "onboard_time": 1756195942,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 335305,
@@ -2643,8 +2643,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239687,
+      "num": 239687,
+      "word": "外交部说日方应诚实反省侵略历史",
+      "onboard_time": 1756195402,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 239677,
-      "num": 230685,
+      "num": 233990,
       "word": "王鹤棣今天上班还开开心心的",
       "onboard_time": 1756195402,
       "rank": 22,
@@ -2675,12 +2683,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 237312,
-      "num": 237312,
-      "word": "外交部说日方应诚实反省侵略历史",
-      "onboard_time": 1756195402,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 236839,
+      "num": 236839,
+      "word": "美团退款自查攻略",
+      "onboard_time": 1756197024,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 236634,
@@ -2689,6 +2697,14 @@
       "onboard_time": 1756094603,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235831,
+      "num": 413908,
+      "word": "外交部回应特朗普预计访问中国",
+      "onboard_time": 1756197743,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 235586,
@@ -3340,7 +3356,7 @@
     },
     {
       "raw_hot": 197410,
-      "num": 219637,
+      "num": 235337,
       "word": "孙颖莎说夕阳很美",
       "onboard_time": 1756197083,
       "rank": 27,
@@ -3707,6 +3723,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 188360,
+      "num": 226061,
+      "word": "日本一股否认侵略历史逆流持续涌动",
+      "onboard_time": 1756195523,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 188355,
       "num": 188355,
       "word": "艾福杰尼 小奇",
@@ -3825,14 +3849,6 @@
       "onboard_time": 1756041024,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 184479,
-      "num": 226061,
-      "word": "日本一股否认侵略历史逆流持续涌动",
-      "onboard_time": 1756195523,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 184414,
@@ -4043,6 +4059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176825,
+      "num": 218329,
+      "word": "广州3点放学小学生家长愁接送难",
+      "onboard_time": 1756194023,
+      "rank": 43,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 176080,
       "num": 160682,
       "word": "外国人对中餐有多上瘾",
@@ -4251,14 +4275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168929,
-      "num": 168929,
-      "word": "美团退款自查攻略",
-      "onboard_time": 1756197024,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 168813,
       "num": 168813,
       "word": "檀健次顶级魅魔",
@@ -4297,14 +4313,6 @@
       "onboard_time": 1756184903,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 168212,
-      "num": 218329,
-      "word": "广州3点放学小学生家长愁接送难",
-      "onboard_time": 1756194023,
-      "rank": 43,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 168040,
@@ -4444,7 +4452,7 @@
     },
     {
       "raw_hot": 163903,
-      "num": 155012,
+      "num": 160050,
       "word": "邢菲青衣预备役",
       "onboard_time": 1756195942,
       "rank": 40,
@@ -4713,6 +4721,14 @@
       "onboard_time": 1756102642,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155946,
+      "num": 229125,
+      "word": "特朗普希望年内尽快访华",
+      "onboard_time": 1756196065,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155825,
@@ -5033,14 +5049,6 @@
       "onboard_time": 1756031603,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148171,
-      "num": 229125,
-      "word": "特朗普希望年内尽快访华",
-      "onboard_time": 1756196065,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 148028,
@@ -5371,6 +5379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141132,
+      "num": 141132,
+      "word": "陈飞宇第二个V榜破9角色",
+      "onboard_time": 1756197983,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140829,
       "num": 171847,
       "word": "展轩 玩手机的注意眼睛",
@@ -5529,6 +5545,14 @@
       "onboard_time": 1756001722,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137847,
+      "num": 137847,
+      "word": "中方提出严肃交涉要求日方澄清",
+      "onboard_time": 1756197923,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137748,
@@ -5707,6 +5731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134686,
+      "num": 134686,
+      "word": "甜馨小酒窝走秀",
+      "onboard_time": 1756198104,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134656,
       "num": 134656,
       "word": "大妈机上换座被拒后闹事",
@@ -5771,6 +5803,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 132547,
+      "num": 132547,
+      "word": "金韬拿到阴阳师2授权",
+      "onboard_time": 1756197743,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132508,
       "num": 132508,
       "word": "怪不得小说里一套头面争得那么厉害",
@@ -5791,6 +5831,14 @@
       "num": 132279,
       "word": "邱贻可孙颖莎捧奖杯合照",
       "onboard_time": 1756133186,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132201,
+      "num": 139180,
+      "word": "郝帅谈马龙张继科谁是历史第一人",
+      "onboard_time": 1756194683,
       "rank": 37,
       "category": "体育"
     },
@@ -7697,6 +7745,14 @@
       "onboard_time": 1755991097,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99161,
+      "num": 275528,
+      "word": "风云T11的标准就是百万级豪车",
+      "onboard_time": 1756197743,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 99125,
@@ -9923,12 +9979,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21685,
+      "num": 138099,
+      "word": "倪萍写近万字谈大脚娘迟蓬",
+      "onboard_time": 1756197804,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21162,
       "num": 28997,
       "word": "尖扎黄河特大桥合同额约4.36亿元",
       "onboard_time": 1756064115,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 21154,
+      "num": 411884,
+      "word": "国家队组团来炸场",
+      "onboard_time": 1756196301,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 21094,
@@ -10019,14 +10091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17885,
-      "num": 326300,
-      "word": "国家队组团来炸场",
-      "onboard_time": 1756196301,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 17764,
       "num": 97492,
       "word": "张淼怡终于找对风格了",
@@ -10075,6 +10139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13586,
+      "num": 155068,
+      "word": "内娱古早邪门cp",
+      "onboard_time": 1756197204,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13530,
       "num": 48211,
       "word": "下班穿衣自由上班白衣天使",
@@ -10097,14 +10169,6 @@
       "onboard_time": 1756151113,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12184,
-      "num": 155068,
-      "word": "内娱古早邪门cp",
-      "onboard_time": 1756197204,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 12004,

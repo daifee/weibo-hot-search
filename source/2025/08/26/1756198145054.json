@@ -1,0 +1,410 @@
+{
+  "runTime": 1756198145054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1636085,
+        "num": 1636085,
+        "word": "退款查账",
+        "onboard_time": 1756185684,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562888,
+        "num": 562888,
+        "word": "谁家短剧能请来半个娱乐圈啊",
+        "onboard_time": 1756190362,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20863,
+        "num": 549511,
+        "word": "卫星互联网低轨10组卫星发射成功",
+        "onboard_time": 1756163959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 542276,
+        "num": 542276,
+        "word": "美美sunday丑丑monday",
+        "onboard_time": 1756195283,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 497418,
+        "num": 497418,
+        "word": "知情者称高速面具男并非故意吓人",
+        "onboard_time": 1756192342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466978,
+        "num": 466978,
+        "word": "特朗普要走李在明签字笔",
+        "onboard_time": 1756194323,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 414671,
+        "num": 414671,
+        "word": "中方回应特朗普希望尽快访华",
+        "onboard_time": 1756195463,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299145,
+        "num": 414389,
+        "word": "邱贻可带孙颖莎去看夕阳",
+        "onboard_time": 1756192824,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 897448,
+        "num": 414231,
+        "word": "李雪琴胃里切了8个息肉",
+        "onboard_time": 1756190484,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235831,
+        "num": 413908,
+        "word": "外交部回应特朗普预计访问中国",
+        "onboard_time": 1756197743,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 986174,
+        "num": 413433,
+        "word": "晚晚晒镯子",
+        "onboard_time": 1756196543,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 762640,
+        "num": 413112,
+        "word": "吴昕体重直逼100斤",
+        "onboard_time": 1756192223,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628937,
+        "num": 412464,
+        "word": "建议大家不要过度存钱",
+        "onboard_time": 1756191563,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 485890,
+        "num": 412300,
+        "word": "张维伊 庆余年2侯季常",
+        "onboard_time": 1756195942,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21154,
+        "num": 411884,
+        "word": "国家队组团来炸场",
+        "onboard_time": 1756196301,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 411722,
+        "num": 411722,
+        "word": "曹骏37岁闯进美甲圈",
+        "onboard_time": 1756193544,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397307,
+        "num": 397307,
+        "word": "张馨予 这是12年前吗",
+        "onboard_time": 1756193063,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354761,
+        "num": 354761,
+        "word": "赵文卓女儿 远看以为黄圣依",
+        "onboard_time": 1756196365,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342691,
+        "num": 342691,
+        "word": "第一次对何炅小有了实感",
+        "onboard_time": 1756186283,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99161,
+        "num": 275528,
+        "word": "风云T11的标准就是百万级豪车",
+        "onboard_time": 1756197743,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266560,
+        "num": 266560,
+        "word": "韩国人称川航发馒头不卫生",
+        "onboard_time": 1756189103,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239687,
+        "num": 239687,
+        "word": "外交部说日方应诚实反省侵略历史",
+        "onboard_time": 1756195402,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189678,
+        "num": 237361,
+        "word": "小猫误入虎园被捕食",
+        "onboard_time": 1756185205,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236839,
+        "num": 236839,
+        "word": "美团退款自查攻略",
+        "onboard_time": 1756197024,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192246,
+        "num": 235337,
+        "word": "孙颖莎说夕阳很美",
+        "onboard_time": 1756197083,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233990,
+        "num": 233990,
+        "word": "王鹤棣今天上班还开开心心的",
+        "onboard_time": 1756195402,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204552,
+        "num": 204552,
+        "word": "张檬带4个月大儿子坐飞机",
+        "onboard_time": 1756190784,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176825,
+        "num": 197589,
+        "word": "广州3点放学小学生家长愁接送难",
+        "onboard_time": 1756194023,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 194401,
+        "num": 194401,
+        "word": "张万森 内娱下嫂子了",
+        "onboard_time": 1756178063,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162034,
+        "num": 188558,
+        "word": "卢远两张约会卡都给王乐晨",
+        "onboard_time": 1756196123,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188360,
+        "num": 188360,
+        "word": "日本一股否认侵略历史逆流持续涌动",
+        "onboard_time": 1756195523,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180052,
+        "num": 180052,
+        "word": "孟子义忙到没时间做手术",
+        "onboard_time": 1756188624,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160050,
+        "num": 160050,
+        "word": "邢菲青衣预备役",
+        "onboard_time": 1756195942,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155946,
+        "num": 155946,
+        "word": "特朗普希望年内尽快访华",
+        "onboard_time": 1756196065,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152112,
+        "num": 152112,
+        "word": "包贝尔对白宇吐烟圈",
+        "onboard_time": 1756191443,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151855,
+        "num": 151855,
+        "word": "易烊千玺告状",
+        "onboard_time": 1756194563,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141132,
+        "num": 141132,
+        "word": "陈飞宇第二个V榜破9角色",
+        "onboard_time": 1756197983,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132201,
+        "num": 139180,
+        "word": "郝帅谈马龙张继科谁是历史第一人",
+        "onboard_time": 1756194683,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13586,
+        "num": 138373,
+        "word": "内娱古早邪门cp",
+        "onboard_time": 1756197204,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21685,
+        "num": 138099,
+        "word": "倪萍写近万字谈大脚娘迟蓬",
+        "onboard_time": 1756197804,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137847,
+        "num": 137847,
+        "word": "中方提出严肃交涉要求日方澄清",
+        "onboard_time": 1756197923,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137097,
+        "num": 137097,
+        "word": "外交部回应日本的抗战胜利纪念负面言论",
+        "onboard_time": 1756197083,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134686,
+        "num": 134686,
+        "word": "甜馨小酒窝走秀",
+        "onboard_time": 1756198104,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132547,
+        "num": 132547,
+        "word": "金韬拿到阴阳师2授权",
+        "onboard_time": 1756197743,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119075,
+        "num": 130738,
+        "word": "张凌赫歪头",
+        "onboard_time": 1756196603,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125895,
+        "num": 130651,
+        "word": "江西上饶一医院住院楼起火",
+        "onboard_time": 1756193964,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130577,
+        "num": 130577,
+        "word": "反仅退款第一人",
+        "onboard_time": 1756187842,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129544,
+        "num": 129544,
+        "word": "郑乃馨又起飞了",
+        "onboard_time": 1756180523,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129428,
+        "num": 129428,
+        "word": "女子因头孢过敏全身皮肤大面破损",
+        "onboard_time": 1756189642,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124693,
+        "num": 128382,
+        "word": "上海星巴克店员被顾客持续咆哮骂哭",
+        "onboard_time": 1756181303,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯国家杜马主席沃洛金#"
+    }
+  }
+}
