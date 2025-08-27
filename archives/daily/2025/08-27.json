@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756291385147,
+  "endTime": 1756293703051,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2352265,
+      "num": 420504,
+      "word": "虞书欣与其父不存在直接商业关联",
+      "onboard_time": 1756289663,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1848659,
       "num": 1848659,
       "word": "iPhone17全系价格曝光",
@@ -75,14 +83,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1516572,
-      "num": 420504,
-      "word": "虞书欣与其父不存在直接商业关联",
-      "onboard_time": 1756289663,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1502641,
       "num": 1502641,
       "word": "郑恺苗苗辟谣",
@@ -97,6 +97,14 @@
       "onboard_time": 1756282403,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1290307,
+      "num": 188614,
+      "word": "虞书欣7天掉粉72万",
+      "onboard_time": 1756292904,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1269975,
@@ -211,6 +219,14 @@
       "category": "财经,休闲"
     },
     {
+      "raw_hot": 797421,
+      "num": 1127587,
+      "word": "外交部回应李在明涉华言论",
+      "onboard_time": 1756290084,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 776874,
       "num": 776874,
       "word": "景德镇做的杯子还是太超前了",
@@ -265,6 +281,14 @@
       "onboard_time": 1756270283,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 672258,
+      "num": 188918,
+      "word": "小海绵问Angelababy好不好看",
+      "onboard_time": 1756292003,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 662195,
@@ -459,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438175,
-      "num": 438175,
-      "word": "外交部回应李在明涉华言论",
-      "onboard_time": 1756290084,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 436661,
       "num": 274628,
       "word": "HYBE回应朴智旻恋情",
@@ -489,6 +505,14 @@
       "onboard_time": 1756256303,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 408709,
+      "num": 429047,
+      "word": "宋亚轩 敬山水",
+      "onboard_time": 1756290743,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 406405,
@@ -521,6 +545,14 @@
       "onboard_time": 1756252101,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376108,
+      "num": 425343,
+      "word": "杨靖宇烈士牺牲确切时间地点确认",
+      "onboard_time": 1756286363,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 371732,
@@ -705,14 +737,6 @@
       "onboard_time": 1756262722,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 240290,
-      "num": 429047,
-      "word": "宋亚轩 敬山水",
-      "onboard_time": 1756290743,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 240054,
@@ -1195,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173233,
+      "num": 173233,
+      "word": "15岁高一女生参加军训时不幸身亡",
+      "onboard_time": 1756290384,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172976,
       "num": 172976,
       "word": "其实很多癌症是省出来的",
@@ -1555,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145854,
+      "num": 145854,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1756293024,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145649,
       "num": 145649,
       "word": "bighit对朴智旻恋情的态度",
@@ -1611,6 +1651,14 @@
       "category": "母婴育儿,民生新闻"
     },
     {
+      "raw_hot": 142529,
+      "num": 189267,
+      "word": "外交部称中国坚持自卫防御核战略",
+      "onboard_time": 1756291883,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142237,
       "num": 142237,
       "word": "你的英语老师和体育老师要结婚了",
@@ -1627,14 +1675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140626,
-      "num": 425343,
-      "word": "杨靖宇烈士牺牲确切时间地点确认",
-      "onboard_time": 1756286363,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 139226,
       "num": 139226,
       "word": "为什么不把土豆当做主粮",
@@ -1648,14 +1688,6 @@
       "word": "悬赏上海一套房寻子 采血验亲",
       "onboard_time": 1756279103,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138309,
-      "num": 138309,
-      "word": "15岁高一女生参加军训时不幸身亡",
-      "onboard_time": 1756290384,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1867,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128866,
+      "num": 128866,
+      "word": "13岁男孩患8种绝症写信求妈妈弃疗",
+      "onboard_time": 1756292783,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127815,
       "num": 127815,
       "word": "陈赫为鹿晗演唱会做美甲",
@@ -1931,6 +1971,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124574,
+      "num": 159853,
+      "word": "张杰 爱豆技能觉醒",
+      "onboard_time": 1756292663,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 124321,
+      "num": 144181,
+      "word": "男子藏1.5万私房钱压垮天花板",
+      "onboard_time": 1756290324,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123947,
       "num": 132299,
       "word": "陈飞宇说献鱼破万就演同人文",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1756266202,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122961,
+      "num": 122961,
+      "word": "狗子各种明示暗示只差开口说话了",
+      "onboard_time": 1756293085,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 122952,
@@ -2011,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121554,
+      "num": 121554,
+      "word": "阅读量上来以后最大的感受",
+      "onboard_time": 1756293264,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121363,
       "num": 121363,
       "word": "小孩地铁踩踏霸座鞋被乘客踢飞",
@@ -2051,6 +2123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 118674,
+      "num": 118674,
+      "word": "店主保管客户彩票中1800万连夜报喜",
+      "onboard_time": 1756293024,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118283,
       "num": 118283,
       "word": "贵州一22岁村支书意外去世",
@@ -2083,12 +2163,28 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 115428,
+      "num": 124929,
+      "word": "SEVENTEEN刀马大比拼",
+      "onboard_time": 1756291645,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114148,
       "num": 114148,
       "word": "与晋长安",
       "onboard_time": 1756291345,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114130,
+      "num": 123632,
+      "word": "徐穗珍回归",
+      "onboard_time": 1756292544,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 113824,
@@ -2139,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109224,
+      "num": 109224,
+      "word": "姚润昊和叠纸不止有事业运",
+      "onboard_time": 1756293684,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109187,
       "num": 118035,
       "word": "献鱼",
@@ -2163,6 +2267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107209,
+      "num": 104642,
+      "word": "T1战胜HLE",
+      "onboard_time": 1756293145,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107101,
       "num": 107101,
       "word": "奚梦瑶回宫",
@@ -2185,6 +2297,14 @@
       "onboard_time": 1756252521,
       "rank": 40,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 105690,
+      "num": 105690,
+      "word": "进去一个张晚意 出来七个张晚意",
+      "onboard_time": 1756291464,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 105350,
@@ -2363,6 +2483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87533,
+      "num": 114933,
+      "word": "开学后家里就剩父母和承重墙了",
+      "onboard_time": 1756292482,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86890,
       "num": 86890,
       "word": "王一博极限36小时",
@@ -2425,14 +2553,6 @@
       "onboard_time": 1756222466,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80422,
-      "num": 144181,
-      "word": "男子藏1.5万私房钱压垮天花板",
-      "onboard_time": 1756290324,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80074,
@@ -2560,6 +2680,14 @@
       "word": "西南大学回应学生可点其他外卖",
       "onboard_time": 1756288284,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63960,
+      "num": 121617,
+      "word": "深圳万架无人机灯光秀来了",
+      "onboard_time": 1756293684,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2739,6 +2867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42555,
+      "num": 157322,
+      "word": "精神障碍父亲失踪9年后突然被找到",
+      "onboard_time": 1756292723,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40900,
       "num": 269764,
       "word": "鲁迅的烟这次保住了下次呢",
@@ -2811,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32802,
+      "num": 121686,
+      "word": "西南大学称因学生投诉统一配送外卖",
+      "onboard_time": 1756292663,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32329,
       "num": 903182,
       "word": "网警守护开学季",
@@ -2840,6 +2984,14 @@
       "word": "游客蹦极坠落涉事公司成立于1998年",
       "onboard_time": 1756276282,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28141,
+      "num": 157419,
+      "word": "控烟是控烟 鲁迅是鲁迅",
+      "onboard_time": 1756293563,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -2913,6 +3065,14 @@
       "onboard_time": 1756220244,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21472,
+      "num": 188656,
+      "word": "年轻化表达会稀释文化厚度吗",
+      "onboard_time": 1756292482,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 21109,
