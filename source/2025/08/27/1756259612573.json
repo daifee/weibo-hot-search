@@ -1,0 +1,410 @@
+{
+  "runTime": 1756259612573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1804463,
+        "num": 1804463,
+        "word": "iPhone17全系价格曝光",
+        "onboard_time": 1756255162,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 661050,
+        "num": 661050,
+        "word": "冰咖啡和热咖啡区别居然这么大",
+        "onboard_time": 1756255043,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 22309,
+        "num": 524502,
+        "word": "网警守护开学季",
+        "onboard_time": 1756257022,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453873,
+        "num": 453873,
+        "word": "高速副驾戴恐怖面具男子系外籍教师",
+        "onboard_time": 1756253663,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452825,
+        "num": 452825,
+        "word": "日本试图干涉九三阅兵在怕什么",
+        "onboard_time": 1756250899,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3201895,
+        "num": 439855,
+        "word": "特朗普回应霉霉订婚",
+        "onboard_time": 1756253122,
+        "rank": 5,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 134707,
+        "num": 422819,
+        "word": "冯建宇新歌",
+        "onboard_time": 1756257203,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160292,
+        "num": 413639,
+        "word": "阅兵训练永不忘看一次泪目一次",
+        "onboard_time": 1756256663,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134595,
+        "num": 396904,
+        "word": "梓渝带动家乡经济",
+        "onboard_time": 1756250899,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385601,
+        "num": 385601,
+        "word": "杭州交警通报男子高速戴恐怖面具",
+        "onboard_time": 1756252101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1572851,
+        "num": 385593,
+        "word": "朴智旻宋多恩家中约会视频",
+        "onboard_time": 1756254623,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193442,
+        "num": 384184,
+        "word": "中国军人阅兵横竖都震撼",
+        "onboard_time": 1756256843,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 973812,
+        "num": 382934,
+        "word": "狗狗去世前被允许尝巧克力",
+        "onboard_time": 1756255343,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 622220,
+        "num": 382034,
+        "word": "胡歌张若昀成毅肖战S加男演员",
+        "onboard_time": 1756226182,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381461,
+        "num": 381461,
+        "word": "女子买旗袍怀疑自己买到了寿衣",
+        "onboard_time": 1756250118,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336073,
+        "num": 336073,
+        "word": "许荔莎沈泰文臣和武将",
+        "onboard_time": 1756256483,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331615,
+        "num": 331615,
+        "word": "赵丽颖刘亦菲杨紫S加女演员",
+        "onboard_time": 1756222942,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326755,
+        "num": 326755,
+        "word": "SpaceX第10次试飞成功",
+        "onboard_time": 1756257562,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258925,
+        "num": 258925,
+        "word": "高端伴游 色情交易",
+        "onboard_time": 1756210943,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 199307,
+        "num": 199307,
+        "word": "苹果或将停售7款产品",
+        "onboard_time": 1756256303,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2867946,
+        "num": 197817,
+        "word": "霉霉订婚",
+        "onboard_time": 1756229957,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687953,
+        "num": 196380,
+        "word": "郑恺小姨子",
+        "onboard_time": 1756219584,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629057,
+        "num": 193327,
+        "word": "看小腿就知道你血糖超标了",
+        "onboard_time": 1756257382,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230868,
+        "num": 191044,
+        "word": "女子月用电近2000度不敢开空调",
+        "onboard_time": 1756211482,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216771,
+        "num": 189101,
+        "word": "张维伊变化",
+        "onboard_time": 1756256062,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188814,
+        "num": 188814,
+        "word": "谢霆锋与大儿子Lucas同框合影",
+        "onboard_time": 1756221026,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183509,
+        "num": 183509,
+        "word": "目击者称游客蹦极绳断坠落见到血迹",
+        "onboard_time": 1756224322,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182890,
+        "num": 182890,
+        "word": "日本怕九三阅兵让世界铭记其侵略",
+        "onboard_time": 1756227679,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171787,
+        "num": 171787,
+        "word": "高速路上戴恐怖面具不存在反转",
+        "onboard_time": 1756244235,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94204,
+        "num": 161418,
+        "word": "时代少年团一晚上打两份工",
+        "onboard_time": 1756253722,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131712,
+        "num": 157221,
+        "word": "Spacex星舰第十次试飞成功发射",
+        "onboard_time": 1756257741,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156959,
+        "num": 156959,
+        "word": "在成毅歌声中感受阅兵训练的震撼",
+        "onboard_time": 1756259302,
+        "rank": 31,
+        "category": "国内时政,音乐"
+      },
+      {
+        "raw_hot": 152059,
+        "num": 152059,
+        "word": "真正招人的公司面试都很简单",
+        "onboard_time": 1756255523,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150816,
+        "num": 150816,
+        "word": "张凌赫出道5年了",
+        "onboard_time": 1756258642,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129254,
+        "num": 147772,
+        "word": "加沙记者直播中被以军炸死",
+        "onboard_time": 1756255283,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145726,
+        "num": 145726,
+        "word": "吴京 狐狸京",
+        "onboard_time": 1756220967,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142237,
+        "num": 142237,
+        "word": "你的英语老师和体育老师要结婚了",
+        "onboard_time": 1756253841,
+        "rank": 36,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 126667,
+        "num": 126667,
+        "word": "郑恺方回应停用丈母娘亲属卡",
+        "onboard_time": 1756228039,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122602,
+        "num": 122602,
+        "word": "全球护照实力排名前三",
+        "onboard_time": 1756252221,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119083,
+        "num": 119083,
+        "word": "国际奥委会发博纪念刘翔夺冠21周年",
+        "onboard_time": 1756259061,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105724,
+        "num": 105724,
+        "word": "桃黑黑 我没当辅警",
+        "onboard_time": 1756252521,
+        "rank": 40,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 103882,
+        "num": 103882,
+        "word": "永恩皮肤",
+        "onboard_time": 1756256663,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102100,
+        "num": 102100,
+        "word": "育儿补贴不能被商家掏走",
+        "onboard_time": 1756209923,
+        "rank": 42,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 68625,
+        "num": 99986,
+        "word": "苏醒王栎鑫王铮亮张远芒果夜唱嗨了",
+        "onboard_time": 1756256783,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98402,
+        "num": 98402,
+        "word": "怪不得宫廷剧里都喜欢用葡萄做道具",
+        "onboard_time": 1756258342,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92582,
+        "num": 92582,
+        "word": "星舰",
+        "onboard_time": 1756257322,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90643,
+        "num": 90643,
+        "word": "田曦薇过年收到的消息都还没回",
+        "onboard_time": 1756210042,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68919,
+        "num": 88783,
+        "word": "林俊杰成龙首度合作",
+        "onboard_time": 1756255883,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88504,
+        "num": 88504,
+        "word": "邪修入睡是真的快",
+        "onboard_time": 1756259541,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46474,
+        "num": 87402,
+        "word": "倪萍 我来蹭蹭迟蓬的流量",
+        "onboard_time": 1756225222,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬两国要更加坚定地站在一起#"
+    }
+  }
+}

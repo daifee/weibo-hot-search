@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756251454491,
+  "endTime": 1756259612573,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -425,6 +425,14 @@
       "onboard_time": 1755010045,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3201895,
+      "num": 439855,
+      "word": "特朗普回应霉霉订婚",
+      "onboard_time": 1756253122,
+      "rank": 5,
+      "category": "国际时政,艺人"
     },
     {
       "raw_hot": 3188041,
@@ -1347,6 +1355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1804463,
+      "num": 1804463,
+      "word": "iPhone17全系价格曝光",
+      "onboard_time": 1756255162,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1804037,
       "num": 1804037,
       "word": "张碧晨方道歉",
@@ -1864,6 +1880,14 @@
       "word": "赵露思根本没有开通朋友圈",
       "onboard_time": 1754966242,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1572851,
+      "num": 385593,
+      "word": "朴智旻宋多恩家中约会视频",
+      "onboard_time": 1756254623,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -4380,7 +4404,7 @@
     },
     {
       "raw_hot": 1039713,
-      "num": 226593,
+      "num": 331615,
       "word": "赵丽颖刘亦菲杨紫S加女演员",
       "onboard_time": 1756222942,
       "rank": 10,
@@ -4921,6 +4945,14 @@
       "onboard_time": 1754387664,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 973812,
+      "num": 382934,
+      "word": "狗狗去世前被允许尝巧克力",
+      "onboard_time": 1756255343,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 970993,
@@ -8979,6 +9011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 661050,
+      "num": 661050,
+      "word": "冰咖啡和热咖啡区别居然这么大",
+      "onboard_time": 1756255043,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 660818,
       "num": 184395,
       "word": "赵露思19年被经纪人PUA参加综艺",
@@ -9651,6 +9691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 629057,
+      "num": 193327,
+      "word": "看小腿就知道你血糖超标了",
+      "onboard_time": 1756257382,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 629007,
       "num": 388586,
       "word": "秦霄贤 何九华",
@@ -9825,6 +9873,14 @@
       "onboard_time": 1754549243,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 622220,
+      "num": 382034,
+      "word": "胡歌张若昀成毅肖战S加男演员",
+      "onboard_time": 1756226182,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 621845,
@@ -12324,7 +12380,7 @@
     },
     {
       "raw_hot": 522986,
-      "num": 149355,
+      "num": 381461,
       "word": "女子买旗袍怀疑自己买到了寿衣",
       "onboard_time": 1756250118,
       "rank": 11,
@@ -14459,6 +14515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453873,
+      "num": 453873,
+      "word": "高速副驾戴恐怖面具男子系外籍教师",
+      "onboard_time": 1756253663,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453743,
       "num": 361509,
       "word": "管乐和前任拍分手拍立得",
@@ -14489,6 +14553,14 @@
       "onboard_time": 1754051602,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 452825,
+      "num": 452825,
+      "word": "日本试图干涉九三阅兵在怕什么",
+      "onboard_time": 1756250899,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 452425,
@@ -15209,14 +15281,6 @@
       "onboard_time": 1755062243,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 429135,
-      "num": 157684,
-      "word": "胡歌张若昀成毅肖战S加男演员",
-      "onboard_time": 1756226182,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 429070,
@@ -17089,6 +17153,14 @@
       "onboard_time": 1754909844,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385601,
+      "num": 385601,
+      "word": "杭州交警通报男子高速戴恐怖面具",
+      "onboard_time": 1756252101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385504,
@@ -19147,6 +19219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336073,
+      "num": 336073,
+      "word": "许荔莎沈泰文臣和武将",
+      "onboard_time": 1756256483,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335526,
       "num": 340615,
       "word": "黄誉博向郑伟道歉",
@@ -19720,6 +19800,14 @@
       "word": "意大利厕所文化",
       "onboard_time": 1756094184,
       "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 326755,
+      "num": 326755,
+      "word": "SpaceX第10次试飞成功",
+      "onboard_time": 1756257562,
+      "rank": 17,
       "category": "海外新闻"
     },
     {
@@ -28171,6 +28259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216771,
+      "num": 189101,
+      "word": "张维伊变化",
+      "onboard_time": 1756256062,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216747,
       "num": 207332,
       "word": "王楚钦致敬李宁",
@@ -31660,7 +31756,7 @@
     },
     {
       "raw_hot": 200370,
-      "num": 121616,
+      "num": 182890,
       "word": "日本怕九三阅兵让世界铭记其侵略",
       "onboard_time": 1756227679,
       "rank": 30,
@@ -31993,6 +32089,14 @@
       "onboard_time": 1755954925,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199307,
+      "num": 199307,
+      "word": "苹果或将停售7款产品",
+      "onboard_time": 1756256303,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 199297,
@@ -34033,6 +34137,14 @@
       "onboard_time": 1756195402,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193442,
+      "num": 384184,
+      "word": "中国军人阅兵横竖都震撼",
+      "onboard_time": 1756256843,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193355,
@@ -44235,6 +44347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160292,
+      "num": 413639,
+      "word": "阅兵训练永不忘看一次泪目一次",
+      "onboard_time": 1756256663,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160288,
       "num": 160288,
       "word": "展轩工作室声明",
@@ -45521,6 +45641,14 @@
       "onboard_time": 1755057021,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156959,
+      "num": 156959,
+      "word": "在成毅歌声中感受阅兵训练的震撼",
+      "onboard_time": 1756259302,
+      "rank": 31,
+      "category": "国内时政,音乐"
     },
     {
       "raw_hot": 156949,
@@ -47467,6 +47595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152059,
+      "num": 152059,
+      "word": "真正招人的公司面试都很简单",
+      "onboard_time": 1756255523,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152016,
       "num": 152016,
       "word": "震撼视角看世运会闭幕式焰火",
@@ -47921,6 +48057,14 @@
       "onboard_time": 1754370922,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150816,
+      "num": 150816,
+      "word": "张凌赫出道5年了",
+      "onboard_time": 1756258642,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 150809,
@@ -51713,6 +51857,14 @@
       "onboard_time": 1755613886,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142237,
+      "num": 142237,
+      "word": "你的英语老师和体育老师要结婚了",
+      "onboard_time": 1756253841,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 142231,
@@ -55595,6 +55747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134707,
+      "num": 422819,
+      "word": "冯建宇新歌",
+      "onboard_time": 1756257203,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134696,
       "num": 142235,
       "word": "鹿晗一天天使不完的牛劲",
@@ -55713,6 +55873,14 @@
       "onboard_time": 1755437364,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134595,
+      "num": 396904,
+      "word": "梓渝带动家乡经济",
+      "onboard_time": 1756250899,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 134564,
@@ -57107,6 +57275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 131712,
+      "num": 157221,
+      "word": "Spacex星舰第十次试飞成功发射",
+      "onboard_time": 1756257741,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 131685,
       "num": 215104,
       "word": "霍建华是帅哥不是魔童",
@@ -58433,6 +58609,14 @@
       "onboard_time": 1755084324,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129254,
+      "num": 147772,
+      "word": "加沙记者直播中被以军炸死",
+      "onboard_time": 1756255283,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129247,
@@ -61995,6 +62179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 122602,
+      "num": 122602,
+      "word": "全球护照实力排名前三",
+      "onboard_time": 1756252221,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122596,
       "num": 122596,
       "word": "新西兰一警局收到中式锦旗",
@@ -63897,6 +64089,14 @@
       "onboard_time": 1755262821,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119083,
+      "num": 119083,
+      "word": "国际奥委会发博纪念刘翔夺冠21周年",
+      "onboard_time": 1756259061,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 119079,
@@ -70491,6 +70691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 105724,
+      "num": 105724,
+      "word": "桃黑黑 我没当辅警",
+      "onboard_time": 1756252521,
+      "rank": 40,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 105703,
       "num": 141253,
       "word": "A股翻红半日成交1.68万亿",
@@ -71321,6 +71529,14 @@
       "onboard_time": 1754837004,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103882,
+      "num": 103882,
+      "word": "永恩皮肤",
+      "onboard_time": 1756256663,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 103879,
@@ -73579,6 +73795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 98402,
+      "num": 98402,
+      "word": "怪不得宫廷剧里都喜欢用葡萄做道具",
+      "onboard_time": 1756258342,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98365,
       "num": 98365,
       "word": "最吵的地铁出现了",
@@ -75211,6 +75435,14 @@
       "category": "运动健身,美食"
     },
     {
+      "raw_hot": 94204,
+      "num": 161418,
+      "word": "时代少年团一晚上打两份工",
+      "onboard_time": 1756253722,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94178,
       "num": 94178,
       "word": "睡够八小时还是巨累是为啥",
@@ -75793,6 +76025,14 @@
       "onboard_time": 1754531242,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 92582,
+      "num": 92582,
+      "word": "星舰",
+      "onboard_time": 1756257322,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 92543,
@@ -76873,6 +77113,14 @@
       "onboard_time": 1755187042,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 88504,
+      "num": 88504,
+      "word": "邪修入睡是真的快",
+      "onboard_time": 1756259541,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 88425,
@@ -78561,14 +78809,6 @@
       "onboard_time": 1755068481,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 80839,
-      "num": 84639,
-      "word": "梓渝带动家乡经济",
-      "onboard_time": 1756250899,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 80825,
@@ -80555,14 +80795,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 70715,
-      "num": 70715,
-      "word": "日本试图干涉九三阅兵在怕什么",
-      "onboard_time": 1756250899,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70687,
       "num": 70687,
       "word": "Doinb认为LPL跟LCK可以合并",
@@ -80851,6 +81083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68919,
+      "num": 88783,
+      "word": "林俊杰成龙首度合作",
+      "onboard_time": 1756255883,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 68905,
       "num": 79522,
       "word": "蔡依林初代唱跳女王回归",
@@ -80913,6 +81153,14 @@
       "onboard_time": 1756217544,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68625,
+      "num": 99986,
+      "word": "苏醒王栎鑫王铮亮张远芒果夜唱嗨了",
+      "onboard_time": 1756256783,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 68589,
@@ -90488,6 +90736,14 @@
       "word": "两男孩强迫留守儿童借网贷",
       "onboard_time": 1755240322,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22309,
+      "num": 524502,
+      "word": "网警守护开学季",
+      "onboard_time": 1756257022,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
