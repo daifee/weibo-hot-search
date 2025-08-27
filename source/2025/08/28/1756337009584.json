@@ -1,0 +1,410 @@
+{
+  "runTime": 1756337009584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 559636,
+        "num": 804975,
+        "word": "郑佩佩儿子为妻子再次众筹医药费",
+        "onboard_time": 1756303285,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373068,
+        "num": 373068,
+        "word": "中国抗战阅兵以来日本砸560亿搞公关",
+        "onboard_time": 1756310122,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34188,
+        "num": 319634,
+        "word": "中国蓝盔卫士亮相九三阅兵",
+        "onboard_time": 1756288462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307504,
+        "num": 307504,
+        "word": "00后短剧女演员确诊胃癌",
+        "onboard_time": 1756301426,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252188,
+        "num": 252188,
+        "word": "网友称武汉天空有巨大流星坠落",
+        "onboard_time": 1756309523,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240983,
+        "num": 240983,
+        "word": "男子三亚游泳溺水妻子崩溃大哭",
+        "onboard_time": 1756305445,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208241,
+        "num": 208241,
+        "word": "直播公司围猎初中辍学农村女孩",
+        "onboard_time": 1756306765,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 189171,
+        "num": 189171,
+        "word": "司美格鲁肽",
+        "onboard_time": 1756296264,
+        "rank": 7,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 188796,
+        "num": 188796,
+        "word": "酒店浴缸 红线虫",
+        "onboard_time": 1756297224,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 152804,
+        "num": 186779,
+        "word": "刘翔12秒91的含金量",
+        "onboard_time": 1756329854,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256470,
+        "num": 186457,
+        "word": "张馨予 为啥补货啊姐一直在",
+        "onboard_time": 1756326193,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186014,
+        "num": 186014,
+        "word": "毒犯整容逃亡因耳朵落网",
+        "onboard_time": 1756308564,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180735,
+        "num": 180735,
+        "word": "00后两男生开房住宿留下满床辣条油",
+        "onboard_time": 1756277844,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171193,
+        "num": 171193,
+        "word": "北京全市已转移5.8万人",
+        "onboard_time": 1756282403,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153892,
+        "num": 153892,
+        "word": "网红白冰三个月瘦了50斤",
+        "onboard_time": 1756296804,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148516,
+        "num": 148516,
+        "word": "美团利润大跌89%",
+        "onboard_time": 1756299262,
+        "rank": 15,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 124567,
+        "num": 124567,
+        "word": "王源说大不了一星期不说话",
+        "onboard_time": 1756306705,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120874,
+        "num": 120874,
+        "word": "张伦硕报警",
+        "onboard_time": 1756301844,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100340,
+        "num": 100340,
+        "word": "陈乔恩谈这辈子最勇敢的事",
+        "onboard_time": 1756303406,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92504,
+        "num": 99095,
+        "word": "潘玮柏来来回回减1000斤了",
+        "onboard_time": 1756300104,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106304,
+        "num": 99095,
+        "word": "26岁女子欲离婚遭丈夫残忍杀害案续",
+        "onboard_time": 1756312939,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99088,
+        "num": 99088,
+        "word": "女子幽闭恐惧症隧道内弃车行走",
+        "onboard_time": 1756300584,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94906,
+        "num": 94906,
+        "word": "樊振东回应是否回国家队打球",
+        "onboard_time": 1756301725,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85722,
+        "num": 85722,
+        "word": "美国21岁模特在德国见义勇为被毁容",
+        "onboard_time": 1756305746,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82416,
+        "num": 82416,
+        "word": "深圳一小区被曝有隐藏豪华建筑",
+        "onboard_time": 1756299565,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 81530,
+        "num": 81530,
+        "word": "老人银行存12万被办成保险",
+        "onboard_time": 1756301664,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80229,
+        "num": 80229,
+        "word": "一高校3校长均严重违纪违法被查",
+        "onboard_time": 1756335798,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 78826,
+        "num": 78826,
+        "word": "外交部回应李在明涉华言论",
+        "onboard_time": 1756290084,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77805,
+        "num": 77805,
+        "word": "强奸杀人罪服刑27年后杀人罪名撤销",
+        "onboard_time": 1756307783,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 74719,
+        "num": 74719,
+        "word": "吴雅婷带孩子搬离上海",
+        "onboard_time": 1756283302,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75968,
+        "num": 73760,
+        "word": "巴西网红零下5度穿比基尼被冻伤",
+        "onboard_time": 1756301485,
+        "rank": 30,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 72790,
+        "num": 72790,
+        "word": "梓渝摇2.0版",
+        "onboard_time": 1756336999,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71795,
+        "num": 71795,
+        "word": "男子杀妻因抑郁发作被判死缓最新进展",
+        "onboard_time": 1756335737,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71322,
+        "num": 71322,
+        "word": "韩剧剧组就写错汉字道歉",
+        "onboard_time": 1756304965,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64480,
+        "num": 64480,
+        "word": "王青为冯建宇庆生",
+        "onboard_time": 1756308204,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60477,
+        "num": 60477,
+        "word": "认不出这是王祖贤",
+        "onboard_time": 1756301125,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57947,
+        "num": 57947,
+        "word": "男子花6元中1800万彩票店老板发声",
+        "onboard_time": 1756298365,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57429,
+        "num": 57429,
+        "word": "樊振东祝福霉霉订婚",
+        "onboard_time": 1756300526,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 53352,
+        "num": 53352,
+        "word": "这种才是真正的女扮男装",
+        "onboard_time": 1756336939,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18230,
+        "num": 51101,
+        "word": "金子涵剃寸头",
+        "onboard_time": 1756336879,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44432,
+        "num": 50726,
+        "word": "野狗骨头",
+        "onboard_time": 1756299865,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50696,
+        "num": 50696,
+        "word": "警方通报女子当街锤击儿童",
+        "onboard_time": 1756305685,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44011,
+        "num": 50685,
+        "word": "毛豆走了带着满满的脱口秀素材",
+        "onboard_time": 1756336158,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43819,
+        "num": 50657,
+        "word": "疑似何穗退圈",
+        "onboard_time": 1756286725,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38776,
+        "num": 50632,
+        "word": "云南高院回应老人申请1911万国赔",
+        "onboard_time": 1756335798,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37636,
+        "num": 50627,
+        "word": "何小鹏晒和雷军聊天记录",
+        "onboard_time": 1756322955,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36266,
+        "num": 50598,
+        "word": "北京最大降雨量79.6毫米",
+        "onboard_time": 1756329073,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36105,
+        "num": 50588,
+        "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
+        "onboard_time": 1756296444,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32493,
+        "num": 50564,
+        "word": "白鹿看不腻live图",
+        "onboard_time": 1756313479,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30446,
+        "num": 50530,
+        "word": "王玉雯准备好了见刘亦菲的台词",
+        "onboard_time": 1756316836,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}
