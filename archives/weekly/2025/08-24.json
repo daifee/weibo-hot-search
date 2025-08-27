@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756313191003,
+  "endTime": 1756315357687,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -3571,6 +3571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265340,
+      "num": 265340,
+      "word": "毒犯整容逃亡因耳朵落网",
+      "onboard_time": 1756308564,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 265149,
       "num": 241912,
       "word": "脂肪肝是全身性疾病的报警信号",
@@ -3849,14 +3857,6 @@
       "onboard_time": 1756033644,
       "rank": 27,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 244509,
-      "num": 244509,
-      "word": "毒犯整容逃亡因耳朵落网",
-      "onboard_time": 1756308564,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 243759,
@@ -6995,6 +6995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158632,
+      "num": 158632,
+      "word": "网友称武汉天空有巨大流星坠落",
+      "onboard_time": 1756309523,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158468,
       "num": 158468,
       "word": "毕雯珺新剧战战兢兢白切黑",
@@ -7409,14 +7417,6 @@
       "onboard_time": 1756263740,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152629,
-      "num": 152629,
-      "word": "网友称武汉天空有巨大流星坠落",
-      "onboard_time": 1756309523,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152518,
@@ -12091,6 +12091,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94710,
+      "num": 72926,
+      "word": "26岁女子欲离婚遭丈夫残忍杀害案续",
+      "onboard_time": 1756312939,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94346,
       "num": 190523,
       "word": "大坂直美labubu一身红钻",
@@ -13235,14 +13243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64137,
-      "num": 72144,
-      "word": "26岁女子欲离婚遭丈夫残忍杀害案续",
-      "onboard_time": 1756312939,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63914,
       "num": 338761,
       "word": "上海迪士尼将新增更多中间票价",
@@ -13545,6 +13545,14 @@
       "onboard_time": 1756000882,
       "rank": 20,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 56147,
+      "num": 56147,
+      "word": "Angelababy逆应援给粉丝点奶茶",
+      "onboard_time": 1756314558,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 55843,
@@ -14113,6 +14121,14 @@
       "onboard_time": 1756062614,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 43283,
+      "num": 56156,
+      "word": "白鹿看不腻live图",
+      "onboard_time": 1756313479,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 43220,

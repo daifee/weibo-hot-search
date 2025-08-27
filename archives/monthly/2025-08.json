@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756313191003,
+  "endTime": 1756315357687,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -24203,6 +24203,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 265340,
+      "num": 265340,
+      "word": "毒犯整容逃亡因耳朵落网",
+      "onboard_time": 1756308564,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 265280,
       "num": 265280,
       "word": "CPA税法",
@@ -25953,14 +25961,6 @@
       "onboard_time": 1754033842,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 244509,
-      "num": 244509,
-      "word": "毒犯整容逃亡因耳朵落网",
-      "onboard_time": 1756308564,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 244484,
@@ -46467,6 +46467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158632,
+      "num": 158632,
+      "word": "网友称武汉天空有巨大流星坠落",
+      "onboard_time": 1756309523,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158626,
       "num": 158626,
       "word": "年总决赛鸟巢舞美概念首曝",
@@ -48801,14 +48809,6 @@
       "onboard_time": 1754456424,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 152629,
-      "num": 152629,
-      "word": "网友称武汉天空有巨大流星坠落",
-      "onboard_time": 1756309523,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152589,
@@ -77723,6 +77723,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 94710,
+      "num": 72926,
+      "word": "26岁女子欲离婚遭丈夫残忍杀害案续",
+      "onboard_time": 1756312939,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94671,
       "num": 98981,
       "word": "暑期档名字被叫错最多的电影",
@@ -84539,14 +84547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64137,
-      "num": 72144,
-      "word": "26岁女子欲离婚遭丈夫残忍杀害案续",
-      "onboard_time": 1756312939,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64127,
       "num": 170597,
       "word": "孙颖莎说要一分一分拼",
@@ -86185,6 +86185,14 @@
       "onboard_time": 1753983496,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56147,
+      "num": 56147,
+      "word": "Angelababy逆应援给粉丝点奶茶",
+      "onboard_time": 1756314558,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 56136,
@@ -88921,6 +88929,14 @@
       "onboard_time": 1755257483,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 43283,
+      "num": 56156,
+      "word": "白鹿看不腻live图",
+      "onboard_time": 1756313479,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 43269,
