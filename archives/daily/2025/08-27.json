@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756290392567,
+  "endTime": 1756291385147,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -68,10 +68,18 @@
     },
     {
       "raw_hot": 1702490,
-      "num": 242727,
+      "num": 416359,
       "word": "疑似何穗退圈",
       "onboard_time": 1756286725,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1516572,
+      "num": 420504,
+      "word": "虞书欣与其父不存在直接商业关联",
+      "onboard_time": 1756289663,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1207884,
-      "num": 304629,
+      "num": 411742,
       "word": "吴雅婷带孩子搬离上海",
       "onboard_time": 1756283302,
       "rank": 31,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 815935,
-      "num": 413012,
+      "num": 414939,
       "word": "蜜鼠冰城",
       "onboard_time": 1756284384,
       "rank": 7,
@@ -371,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 513279,
-      "num": 207442,
-      "word": "虞书欣与其父不存在直接商业关联",
-      "onboard_time": 1756289663,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 473492,
       "num": 503692,
       "word": "73岁老人用铁锨打死妻子被判无期",
@@ -419,11 +419,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 450604,
+      "num": 434450,
+      "word": "孙千予解约",
+      "onboard_time": 1756287864,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447825,
       "num": 447825,
       "word": "喜茶称反式脂肪酸最高证明真奶最多",
       "onboard_time": 1756272983,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 443566,
+      "num": 443566,
+      "word": "33万被骗子划走竟没发现",
+      "onboard_time": 1756286544,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -435,20 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 439240,
-      "num": 434450,
-      "word": "孙千予解约",
-      "onboard_time": 1756287864,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439214,
       "num": 823979,
       "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
       "onboard_time": 1756218142,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 438175,
+      "num": 438175,
+      "word": "外交部回应李在明涉华言论",
+      "onboard_time": 1756290084,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 436661,
@@ -465,14 +481,6 @@
       "onboard_time": 1756228039,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 435528,
-      "num": 435528,
-      "word": "33万被骗子划走竟没发现",
-      "onboard_time": 1756286544,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 429744,
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300009,
+      "num": 437028,
+      "word": "敬山水",
+      "onboard_time": 1756288404,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299766,
       "num": 214173,
       "word": "早期的张维伊",
@@ -691,12 +707,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 245797,
-      "num": 245797,
-      "word": "敬山水",
-      "onboard_time": 1756288404,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 240290,
+      "num": 429047,
+      "word": "宋亚轩 敬山水",
+      "onboard_time": 1756290743,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 240054,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 230794,
-      "num": 207002,
+      "num": 230002,
       "word": "赵丽颖曾让保镖一起撑伞躲雨",
       "onboard_time": 1756287563,
       "rank": 38,
@@ -955,6 +971,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 190638,
+      "num": 190638,
+      "word": "小海绵给angelababy打视频",
+      "onboard_time": 1756289722,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190591,
       "num": 190591,
       "word": "iPhone17ProMax手机壳最新曝光",
@@ -993,6 +1017,14 @@
       "onboard_time": 1756268003,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 187869,
+      "num": 432627,
+      "word": "刘轩丞工作室开通",
+      "onboard_time": 1756290503,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 187388,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1756214662,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185486,
+      "num": 185486,
+      "word": "小海绵穿不下童装的西装了",
+      "onboard_time": 1756289424,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 185334,
@@ -1097,14 +1137,6 @@
       "onboard_time": 1756265904,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182010,
-      "num": 182010,
-      "word": "小海绵穿不下童装的西装了",
-      "onboard_time": 1756289424,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 181558,
@@ -1235,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163881,
-      "num": 163881,
-      "word": "小海绵给angelababy打视频",
-      "onboard_time": 1756289722,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163118,
       "num": 163118,
       "word": "哥哥因病离世弟弟又确诊罕见病",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1756256663,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159741,
+      "num": 159741,
+      "word": "徐艺洋千禧风好有冲击力的美",
+      "onboard_time": 1756290804,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 159442,
@@ -1595,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140626,
+      "num": 425343,
+      "word": "杨靖宇烈士牺牲确切时间地点确认",
+      "onboard_time": 1756286363,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139226,
       "num": 139226,
       "word": "为什么不把土豆当做主粮",
@@ -1608,6 +1648,14 @@
       "word": "悬赏上海一套房寻子 采血验亲",
       "onboard_time": 1756279103,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138309,
+      "num": 138309,
+      "word": "15岁高一女生参加军训时不幸身亡",
+      "onboard_time": 1756290384,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1979,12 +2027,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120570,
-      "num": 120570,
-      "word": "杨靖宇烈士牺牲确切时间地点确认",
-      "onboard_time": 1756286363,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 119185,
+      "num": 115020,
+      "word": "Angelababy温柔的代名词",
+      "onboard_time": 1756291105,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 119083,
@@ -1993,6 +2041,14 @@
       "onboard_time": 1756259061,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118900,
+      "num": 191440,
+      "word": "全新小鹏P7太火了",
+      "onboard_time": 1756290204,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 118283,
@@ -2025,6 +2081,14 @@
       "onboard_time": 1756282343,
       "rank": 49,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 114148,
+      "num": 114148,
+      "word": "与晋长安",
+      "onboard_time": 1756291345,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 113824,
@@ -2163,14 +2227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 100434,
-      "num": 182794,
-      "word": "全新小鹏P7太火了",
-      "onboard_time": 1756290204,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 99638,
       "num": 132837,
       "word": "北京5区启动防汛一级应急响应",
@@ -2193,6 +2249,14 @@
       "onboard_time": 1756222466,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96130,
+      "num": 111735,
+      "word": "iPhone16会降价吗",
+      "onboard_time": 1756289063,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 95910,
@@ -2363,6 +2427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80422,
+      "num": 144181,
+      "word": "男子藏1.5万私房钱压垮天花板",
+      "onboard_time": 1756290324,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80074,
       "num": 163140,
       "word": "29名日本人在柬埔寨电诈被抓",
@@ -2377,14 +2449,6 @@
       "onboard_time": 1756206982,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79660,
-      "num": 207189,
-      "word": "外交部回应李在明涉华言论",
-      "onboard_time": 1756290084,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 77182,
@@ -2492,7 +2556,7 @@
     },
     {
       "raw_hot": 64343,
-      "num": 149235,
+      "num": 169398,
       "word": "西南大学回应学生可点其他外卖",
       "onboard_time": 1756288284,
       "rank": 34,
@@ -2555,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55230,
+      "num": 133010,
+      "word": "独生子女养老压力",
+      "onboard_time": 1756290143,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54828,
       "num": 85715,
       "word": "种地吧",
@@ -2599,14 +2671,6 @@
       "num": 163119,
       "word": "9.9元延误险 彩票",
       "onboard_time": 1756271604,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47435,
-      "num": 144181,
-      "word": "男子藏1.5万私房钱压垮天花板",
-      "onboard_time": 1756290324,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -2691,19 +2755,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 40379,
+      "num": 235361,
+      "word": "西南大学外卖指定平台方曾被罚5万",
+      "onboard_time": 1756290682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38896,
       "num": 45534,
       "word": "游客爬上石柱坠崖身亡家属索赔",
       "onboard_time": 1756237695,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38697,
-      "num": 133010,
-      "word": "独生子女养老压力",
-      "onboard_time": 1756290143,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2723,20 +2787,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35282,
+      "num": 145166,
+      "word": "为免票背滕王阁序现场像早读",
+      "onboard_time": 1756290324,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33970,
       "num": 45520,
       "word": "一百块穿出一千块的感觉是什么体验",
       "onboard_time": 1756240034,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33902,
-      "num": 145166,
-      "word": "为免票背滕王阁序现场像早读",
-      "onboard_time": 1756290324,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33040,
@@ -2795,8 +2859,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26094,
-      "num": 207636,
+      "raw_hot": 26223,
+      "num": 407479,
       "word": "麦积山石窟背后的无名工匠",
       "onboard_time": 1756288883,
       "rank": 14,

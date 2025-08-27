@@ -1,0 +1,410 @@
+{
+  "runTime": 1756291385147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907554,
+        "num": 1145208,
+        "word": "北京全市已转移5.8万人",
+        "onboard_time": 1756282403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527878,
+        "num": 527878,
+        "word": "蒋奇明 我没空跟你谈恋爱",
+        "onboard_time": 1756287803,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40426,
+        "num": 448118,
+        "word": "冷空气和秋雨搭伙来了",
+        "onboard_time": 1756262961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443566,
+        "num": 443566,
+        "word": "33万被骗子划走竟没发现",
+        "onboard_time": 1756286544,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438175,
+        "num": 438175,
+        "word": "外交部回应李在明涉华言论",
+        "onboard_time": 1756290084,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300009,
+        "num": 437028,
+        "word": "敬山水",
+        "onboard_time": 1756288404,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187869,
+        "num": 432627,
+        "word": "刘轩丞工作室开通",
+        "onboard_time": 1756290503,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240290,
+        "num": 429047,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1756290743,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182914,
+        "num": 428409,
+        "word": "iPhone17全系价格曝光",
+        "onboard_time": 1756255162,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140626,
+        "num": 425343,
+        "word": "杨靖宇烈士牺牲确切时间地点确认",
+        "onboard_time": 1756286363,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1516572,
+        "num": 420504,
+        "word": "虞书欣与其父不存在直接商业关联",
+        "onboard_time": 1756289663,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1463590,
+        "num": 416359,
+        "word": "疑似何穗退圈",
+        "onboard_time": 1756286725,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737924,
+        "num": 414939,
+        "word": "蜜鼠冰城",
+        "onboard_time": 1756284384,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 541266,
+        "num": 411742,
+        "word": "吴雅婷带孩子搬离上海",
+        "onboard_time": 1756283302,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26223,
+        "num": 407479,
+        "word": "麦积山石窟背后的无名工匠",
+        "onboard_time": 1756288883,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450604,
+        "num": 404583,
+        "word": "孙千予解约",
+        "onboard_time": 1756287864,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403786,
+        "num": 403786,
+        "word": "00后两男生开房住宿留下满床辣条油",
+        "onboard_time": 1756277844,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341441,
+        "num": 341441,
+        "word": "霉霉孩子出生就得有一米吧",
+        "onboard_time": 1756273702,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252372,
+        "num": 252372,
+        "word": "梓渝的褪黑素也不是原唱",
+        "onboard_time": 1756282224,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40379,
+        "num": 235361,
+        "word": "西南大学外卖指定平台方曾被罚5万",
+        "onboard_time": 1756290682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 706191,
+        "num": 235121,
+        "word": "虞书欣起诉两公司侵权",
+        "onboard_time": 1756281024,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 911647,
+        "num": 234763,
+        "word": "Angelababy直播",
+        "onboard_time": 1756286783,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230002,
+        "num": 230002,
+        "word": "赵丽颖曾让保镖一起撑伞躲雨",
+        "onboard_time": 1756287563,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202938,
+        "num": 202938,
+        "word": "杭州男子当街殴打出轨男女",
+        "onboard_time": 1756287024,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195805,
+        "num": 195805,
+        "word": "张百乔瘦了60斤",
+        "onboard_time": 1756277363,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118900,
+        "num": 191440,
+        "word": "全新小鹏P7太火了",
+        "onboard_time": 1756290204,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 190638,
+        "num": 190638,
+        "word": "小海绵给angelababy打视频",
+        "onboard_time": 1756289722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185486,
+        "num": 185486,
+        "word": "小海绵穿不下童装的西装了",
+        "onboard_time": 1756289424,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121066,
+        "num": 173399,
+        "word": "王俊凯是被爷爷奶奶宠着长大的",
+        "onboard_time": 1756285104,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57173,
+        "num": 169398,
+        "word": "西南大学回应学生可点其他外卖",
+        "onboard_time": 1756288284,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168206,
+        "num": 168206,
+        "word": "花5万买日本投降书原件",
+        "onboard_time": 1756285764,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159741,
+        "num": 159741,
+        "word": "徐艺洋千禧风好有冲击力的美",
+        "onboard_time": 1756290804,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140877,
+        "num": 140877,
+        "word": "以色列宣布永久占领叙利亚新区域",
+        "onboard_time": 1756288224,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138309,
+        "num": 138309,
+        "word": "15岁高一女生参加军训时不幸身亡",
+        "onboard_time": 1756290384,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127509,
+        "num": 127509,
+        "word": "14名内鬼侵犯华为芯片技术被判刑",
+        "onboard_time": 1756272983,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124326,
+        "num": 124326,
+        "word": "迪士尼偶遇张真源",
+        "onboard_time": 1756283182,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123527,
+        "num": 123527,
+        "word": "妻子追回老公出轨赠与款被小三挑衅",
+        "onboard_time": 1756280183,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122929,
+        "num": 122929,
+        "word": "无房无车无存款的38岁",
+        "onboard_time": 1756290324,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80422,
+        "num": 121621,
+        "word": "男子藏1.5万私房钱压垮天花板",
+        "onboard_time": 1756290324,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35282,
+        "num": 120909,
+        "word": "为免票背滕王阁序现场像早读",
+        "onboard_time": 1756290324,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120443,
+        "num": 120443,
+        "word": "当代年轻人如何反向过七夕",
+        "onboard_time": 1756286843,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117277,
+        "num": 117277,
+        "word": "陈星旭此身从此分明了",
+        "onboard_time": 1756287683,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115052,
+        "num": 115052,
+        "word": "黄羿cos武则天给我看静止了",
+        "onboard_time": 1756289183,
+        "rank": 42,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 115020,
+        "word": "Angelababy温柔的代名词",
+        "onboard_time": 1756291105,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514413,
+        "num": 114735,
+        "word": "阚清子贵妇感",
+        "onboard_time": 1756285043,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55230,
+        "num": 114560,
+        "word": "独生子女养老压力",
+        "onboard_time": 1756290143,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118380,
+        "num": 114317,
+        "word": "30万存款定律",
+        "onboard_time": 1756276582,
+        "rank": 46,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 114148,
+        "num": 114148,
+        "word": "与晋长安",
+        "onboard_time": 1756291345,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112011,
+        "num": 112011,
+        "word": "郑恺小姨子回应",
+        "onboard_time": 1756264222,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96130,
+        "num": 111735,
+        "word": "iPhone16会降价吗",
+        "onboard_time": 1756289063,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬两国要更加坚定地站在一起#"
+    }
+  }
+}
