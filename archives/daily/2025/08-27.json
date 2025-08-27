@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756264082047,
+  "endTime": 1756264622208,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2643489,
-      "num": 207186,
+      "num": 212538,
       "word": "郑恺小姨子",
       "onboard_time": 1756219584,
       "rank": 20,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 751616,
-      "num": 231988,
+      "num": 264439,
       "word": "韩娱有自己的魔嫂",
       "onboard_time": 1756260921,
       "rank": 12,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 631756,
-      "num": 213199,
+      "num": 253762,
       "word": "看小腿就知道你血糖超标了",
       "onboard_time": 1756257382,
       "rank": 22,
@@ -171,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 447570,
+      "num": 447570,
+      "word": "宝格丽 张元英",
+      "onboard_time": 1756263680,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439214,
       "num": 823979,
       "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
@@ -201,6 +209,14 @@
       "onboard_time": 1756252101,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364378,
+      "num": 260753,
+      "word": "欧豪你三个爹一块演戏不带你",
+      "onboard_time": 1756263982,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 343097,
@@ -243,6 +259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 310121,
+      "num": 253576,
+      "word": "癌症为什么偏爱C型性格",
+      "onboard_time": 1756263081,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 304093,
       "num": 304093,
       "word": "李佳薇 逆光",
@@ -275,20 +299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273120,
-      "num": 174918,
-      "word": "癌症为什么偏爱C型性格",
+      "raw_hot": 267234,
+      "num": 267234,
+      "word": "受阅部队又一批新画面解锁",
       "onboard_time": 1756263081,
-      "rank": 27,
-      "category": "健康医疗"
+      "rank": 9,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 254064,
-      "num": 220693,
-      "word": "欧豪你三个爹一块演戏不带你",
-      "onboard_time": 1756263982,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 256493,
+      "num": 256493,
+      "word": "郑恺小姨子回应",
+      "onboard_time": 1756264222,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 248676,
@@ -299,11 +323,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239006,
-      "num": 239006,
-      "word": "受阅部队又一批新画面解锁",
-      "onboard_time": 1756263081,
-      "rank": 9,
+      "raw_hot": 248256,
+      "num": 248256,
+      "word": "九三阅兵宣传曲MV上线",
+      "onboard_time": 1756262722,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 245929,
+      "num": 267339,
+      "word": "九三阅兵MV胜利荣光",
+      "onboard_time": 1756262901,
+      "rank": 10,
       "category": "国内时政"
     },
     {
@@ -331,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221008,
-      "num": 250070,
-      "word": "宝格丽 张元英",
-      "onboard_time": 1756263680,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219615,
       "num": 219615,
       "word": "小米澎湃OS3发布会官宣",
@@ -347,12 +371,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 216052,
-      "num": 239770,
-      "word": "九三阅兵宣传曲MV上线",
-      "onboard_time": 1756262722,
-      "rank": 8,
+      "raw_hot": 218865,
+      "num": 384184,
+      "word": "中国军人阅兵横竖都震撼",
+      "onboard_time": 1756256843,
+      "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 213741,
+      "num": 268174,
+      "word": "张艺凡说田曦薇是白磷型人格",
+      "onboard_time": 1756260441,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 213479,
@@ -363,11 +395,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212081,
-      "num": 384184,
-      "word": "中国军人阅兵横竖都震撼",
-      "onboard_time": 1756256843,
-      "rank": 11,
+      "raw_hot": 211559,
+      "num": 256535,
+      "word": "台湾同胞受邀出席九三阅兵",
+      "onboard_time": 1756263081,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -379,28 +411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205986,
-      "num": 237795,
-      "word": "九三阅兵MV胜利荣光",
-      "onboard_time": 1756262901,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 200370,
       "num": 182890,
       "word": "日本怕九三阅兵让世界铭记其侵略",
       "onboard_time": 1756227679,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 194962,
-      "num": 242249,
-      "word": "张艺凡说田曦薇是白磷型人格",
-      "onboard_time": 1756260441,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 190122,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 189258,
-      "num": 222647,
+      "num": 256588,
       "word": "桑延和袁湘琴同框了",
       "onboard_time": 1756261701,
       "rank": 16,
@@ -451,6 +467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180594,
+      "num": 256510,
+      "word": "董璇对张维伊有极致的爱",
+      "onboard_time": 1756263920,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180169,
+      "num": 180169,
+      "word": "iPhone17新颜色",
+      "onboard_time": 1756263561,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174920,
       "num": 174920,
       "word": "耀眼杀青特辑",
@@ -467,14 +499,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 164764,
-      "num": 164764,
-      "word": "iPhone17新颜色",
-      "onboard_time": 1756263561,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 162331,
       "num": 162331,
       "word": "冷空气和秋雨搭伙来了",
@@ -489,6 +513,14 @@
       "onboard_time": 1756215983,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161057,
+      "num": 197396,
+      "word": "饶嘉迪 我发现时团特较真",
+      "onboard_time": 1756264222,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 160835,
@@ -521,6 +553,14 @@
       "onboard_time": 1756201822,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152709,
+      "num": 152709,
+      "word": "宋妍霏穿截断皮裤辣我一大跳",
+      "onboard_time": 1756263740,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 152059,
@@ -611,12 +651,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 129807,
-      "num": 214290,
-      "word": "台湾同胞受邀出席九三阅兵",
-      "onboard_time": 1756263081,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 131174,
+      "num": 131174,
+      "word": "邪修入睡是真的快",
+      "onboard_time": 1756259541,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 129310,
@@ -651,6 +691,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127473,
+      "num": 127473,
+      "word": "伦纳德村BA首秀",
+      "onboard_time": 1756263261,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123152,
+      "num": 123152,
+      "word": "月薪4000在上海的一天",
+      "onboard_time": 1756264161,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122602,
       "num": 122602,
       "word": "全球护照实力排名前三",
@@ -659,28 +715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121989,
-      "num": 121989,
-      "word": "邪修入睡是真的快",
-      "onboard_time": 1756259541,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 121037,
       "num": 121037,
       "word": "叶舒华汉服",
       "onboard_time": 1756209083,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120896,
-      "num": 120896,
-      "word": "伦纳德村BA首秀",
-      "onboard_time": 1756263261,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 119083,
@@ -699,12 +739,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113823,
-      "num": 113823,
-      "word": "宋妍霏穿截断皮裤辣我一大跳",
-      "onboard_time": 1756263740,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 111387,
+      "num": 111387,
+      "word": "男子酒后练拳扒倒老人致其死亡",
+      "onboard_time": 1756259960,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111310,
@@ -752,14 +792,6 @@
       "word": "苏州取消市区范围内新建商品住房2年限售",
       "onboard_time": 1756260382,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104427,
-      "num": 104427,
-      "word": "男子酒后练拳扒倒老人致其死亡",
-      "onboard_time": 1756259960,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -915,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83887,
-      "num": 166245,
-      "word": "董璇对张维伊有极致的爱",
-      "onboard_time": 1756263920,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81616,
       "num": 294552,
       "word": "高速戴面具男子向当事人道歉获谅解",
@@ -1035,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58871,
+      "num": 123387,
+      "word": "为什么不把土豆当做主粮",
+      "onboard_time": 1756263441,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56371,
       "num": 56371,
       "word": "王楚钦何超欣同框",
@@ -1067,6 +1099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 46384,
+      "num": 181381,
+      "word": "员工患病拒上夜班被解雇获赔12万元",
+      "onboard_time": 1756263801,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45910,
       "num": 50601,
       "word": "和任何人断联都无痛的方法",
@@ -1096,14 +1136,6 @@
       "word": "物业回应发文将扑杀流浪猫属实",
       "onboard_time": 1756229417,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41266,
-      "num": 121999,
-      "word": "为什么不把土豆当做主粮",
-      "onboard_time": 1756263441,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1144,14 +1176,6 @@
       "word": "网警守护开学季",
       "onboard_time": 1756257022,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28328,
-      "num": 171524,
-      "word": "员工患病拒上夜班被解雇获赔12万元",
-      "onboard_time": 1756263801,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
