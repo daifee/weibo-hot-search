@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756260885973,
+  "endTime": 1756264082047,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -793,6 +793,14 @@
       "onboard_time": 1754407344,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2366181,
+      "num": 385593,
+      "word": "朴智旻宋多恩家中约会视频",
+      "onboard_time": 1756254623,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2356229,
@@ -1880,14 +1888,6 @@
       "word": "赵露思根本没有开通朋友圈",
       "onboard_time": 1754966242,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1572851,
-      "num": 385593,
-      "word": "朴智旻宋多恩家中约会视频",
-      "onboard_time": 1756254623,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -7419,6 +7419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 751616,
+      "num": 231988,
+      "word": "韩娱有自己的魔嫂",
+      "onboard_time": 1756260921,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 751608,
       "num": 751608,
       "word": "缅甸代总统因病逝世",
@@ -9660,7 +9668,7 @@
     },
     {
       "raw_hot": 631756,
-      "num": 193327,
+      "num": 213199,
       "word": "看小腿就知道你血糖超标了",
       "onboard_time": 1756257382,
       "rank": 22,
@@ -22947,6 +22955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273120,
+      "num": 174918,
+      "word": "癌症为什么偏爱C型性格",
+      "onboard_time": 1756263081,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 273023,
       "num": 273023,
       "word": "赵露思直播回应代言瓜",
@@ -24467,6 +24483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254064,
+      "num": 220693,
+      "word": "欧豪你三个爹一块演戏不带你",
+      "onboard_time": 1756263982,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254020,
       "num": 254020,
       "word": "中美斯德哥尔摩经贸会谈联合声明",
@@ -25841,6 +25865,14 @@
       "onboard_time": 1754041884,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 239006,
+      "num": 239006,
+      "word": "受阅部队又一批新画面解锁",
+      "onboard_time": 1756263081,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 238883,
@@ -27771,6 +27803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221008,
+      "num": 250070,
+      "word": "宝格丽 张元英",
+      "onboard_time": 1756263680,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220922,
       "num": 220922,
       "word": "菲律宾议员要求中国赔偿499亿元",
@@ -27913,6 +27953,14 @@
       "onboard_time": 1755249141,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219615,
+      "num": 219615,
+      "word": "小米澎湃OS3发布会官宣",
+      "onboard_time": 1756263502,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 219603,
@@ -28369,6 +28417,14 @@
       "onboard_time": 1754623220,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216052,
+      "num": 239770,
+      "word": "九三阅兵宣传曲MV上线",
+      "onboard_time": 1756262722,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 216040,
@@ -29017,6 +29073,14 @@
       "onboard_time": 1755070163,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212081,
+      "num": 384184,
+      "word": "中国军人阅兵横竖都震撼",
+      "onboard_time": 1756256843,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 212041,
@@ -30289,6 +30353,14 @@
       "onboard_time": 1754032584,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 205986,
+      "num": 237795,
+      "word": "九三阅兵MV胜利荣光",
+      "onboard_time": 1756262901,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 205972,
@@ -33651,6 +33723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194962,
+      "num": 242249,
+      "word": "张艺凡说田曦薇是白磷型人格",
+      "onboard_time": 1756260441,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194955,
       "num": 204650,
       "word": "花少7国际排面拉满",
@@ -34137,14 +34217,6 @@
       "onboard_time": 1756195402,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193442,
-      "num": 384184,
-      "word": "中国军人阅兵横竖都震撼",
-      "onboard_time": 1756256843,
-      "rank": 11,
-      "category": "国内时政"
     },
     {
       "raw_hot": 193355,
@@ -35401,6 +35473,14 @@
       "onboard_time": 1756131806,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189258,
+      "num": 222647,
+      "word": "桑延和袁湘琴同框了",
+      "onboard_time": 1756261701,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 189257,
@@ -37635,6 +37715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181558,
+      "num": 165952,
+      "word": "陈飞宇王影璐出手就是国宴",
+      "onboard_time": 1756262361,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181516,
       "num": 181516,
       "word": "迪丽热巴没有一句台词却演的好痛",
@@ -39481,6 +39569,14 @@
       "onboard_time": 1754013381,
       "rank": 23,
       "category": "军事"
+    },
+    {
+      "raw_hot": 174920,
+      "num": 174920,
+      "word": "耀眼杀青特辑",
+      "onboard_time": 1756262901,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 174907,
@@ -42643,6 +42739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164764,
+      "num": 164764,
+      "word": "iPhone17新颜色",
+      "onboard_time": 1756263561,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164763,
       "num": 164763,
       "word": "李沁天塌下来也得先出片",
@@ -43449,6 +43553,14 @@
       "onboard_time": 1756014862,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162331,
+      "num": 162331,
+      "word": "冷空气和秋雨搭伙来了",
+      "onboard_time": 1756262961,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162301,
@@ -50632,6 +50744,14 @@
       "word": "无房员工入职即住海景房",
       "onboard_time": 1755161362,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144977,
+      "num": 144977,
+      "word": "当9月1日恰逢星期一",
+      "onboard_time": 1756262422,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -58307,6 +58427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129807,
+      "num": 214290,
+      "word": "台湾同胞受邀出席九三阅兵",
+      "onboard_time": 1756263081,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129733,
       "num": 129733,
       "word": "母婴室变育婴室改变的不仅是名字",
@@ -58577,6 +58705,14 @@
       "onboard_time": 1754221102,
       "rank": 34,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 129310,
+      "num": 129310,
+      "word": "有一种精神叫不屈",
+      "onboard_time": 1756263081,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129304,
@@ -59457,6 +59593,14 @@
       "onboard_time": 1754813602,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127795,
+      "num": 173168,
+      "word": "耀眼",
+      "onboard_time": 1755924083,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 127784,
@@ -62491,6 +62635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121989,
+      "num": 121989,
+      "word": "邪修入睡是真的快",
+      "onboard_time": 1756259541,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121988,
       "num": 121988,
       "word": "球迷手绘樊振东神图",
@@ -63041,6 +63193,14 @@
       "onboard_time": 1754269521,
       "rank": 32,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 120896,
+      "num": 120896,
+      "word": "伦纳德村BA首秀",
+      "onboard_time": 1756263261,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 120883,
@@ -65507,6 +65667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116293,
+      "num": 116293,
+      "word": "Meiko下班",
+      "onboard_time": 1756263081,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116287,
       "num": 148000,
       "word": "特朗普喊话泽连斯基接受现实",
@@ -66745,6 +66913,14 @@
       "onboard_time": 1756023260,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113823,
+      "num": 113823,
+      "word": "宋妍霏穿截断皮裤辣我一大跳",
+      "onboard_time": 1756263740,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 113817,
@@ -69187,14 +69363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109102,
-      "num": 128006,
-      "word": "张艺凡说田曦薇是白磷型人格",
-      "onboard_time": 1756260441,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109098,
       "num": 109098,
       "word": "土耳其6.3级地震",
@@ -71307,6 +71475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104427,
+      "num": 104427,
+      "word": "男子酒后练拳扒倒老人致其死亡",
+      "onboard_time": 1756259960,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104383,
       "num": 104383,
       "word": "猫 你再咻一下试试呢",
@@ -71617,14 +71793,6 @@
       "onboard_time": 1754178439,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103746,
-      "num": 103746,
-      "word": "耀眼",
-      "onboard_time": 1755924083,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 103742,
@@ -76267,14 +76435,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 91789,
-      "num": 91789,
-      "word": "男子酒后练拳扒倒老人致其死亡",
-      "onboard_time": 1756259960,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91788,
       "num": 91788,
       "word": "医保帮尿毒症女骑手报销了7成费用",
@@ -77153,14 +77313,6 @@
       "onboard_time": 1755187042,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 88504,
-      "num": 88504,
-      "word": "邪修入睡是真的快",
-      "onboard_time": 1756259541,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 88425,
@@ -78241,6 +78393,14 @@
       "onboard_time": 1754360302,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 83887,
+      "num": 166245,
+      "word": "董璇对张维伊有极致的爱",
+      "onboard_time": 1756263920,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 83859,
@@ -86619,6 +86779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41266,
+      "num": 121999,
+      "word": "为什么不把土豆当做主粮",
+      "onboard_time": 1756263441,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41264,
       "num": 137884,
       "word": "女子称与领导吵架被扇耳光",
@@ -89449,6 +89617,14 @@
       "onboard_time": 1755165744,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28328,
+      "num": 171524,
+      "word": "员工患病拒上夜班被解雇获赔12万元",
+      "onboard_time": 1756263801,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28317,
