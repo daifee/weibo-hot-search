@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756277349145,
+  "endTime": 1756279474027,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2649059,
-      "num": 293465,
+      "num": 371752,
       "word": "郑恺小姨子回应",
       "onboard_time": 1756264222,
       "rank": 19,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1822656,
-      "num": 297284,
+      "num": 381049,
       "word": "霉霉孩子出生就得有一米吧",
       "onboard_time": 1756273702,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 985438,
+      "num": 1157670,
+      "word": "00后两男生开房住宿留下满床辣条油",
+      "onboard_time": 1756277844,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 973812,
       "num": 382934,
       "word": "狗狗去世前被允许尝巧克力",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 885722,
-      "num": 291190,
+      "num": 369527,
       "word": "王星越你不要闹到何晟铭面前",
       "onboard_time": 1756270763,
       "rank": 15,
@@ -211,6 +219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609030,
+      "num": 609030,
+      "word": "A股",
+      "onboard_time": 1756261761,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 601580,
+      "num": 374656,
+      "word": "张百乔瘦了60斤",
+      "onboard_time": 1756277363,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596430,
       "num": 219075,
       "word": "谢霆锋与大儿子Lucas同框合影",
@@ -283,6 +307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 447825,
+      "num": 447825,
+      "word": "喜茶称反式脂肪酸最高证明真奶最多",
+      "onboard_time": 1756272983,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439214,
       "num": 823979,
       "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 406405,
-      "num": 288461,
+      "num": 357225,
       "word": "樊振东你担订婚了",
       "onboard_time": 1756275023,
       "rank": 22,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 388514,
-      "num": 263282,
+      "num": 311935,
       "word": "老庙黄金致歉",
       "onboard_time": 1756274363,
       "rank": 21,
@@ -411,14 +443,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 314030,
-      "num": 314030,
-      "word": "A股",
-      "onboard_time": 1756261761,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 304093,
       "num": 304093,
       "word": "李佳薇 逆光",
@@ -451,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298140,
-      "num": 298140,
-      "word": "喜茶称反式脂肪酸最高证明真奶最多",
-      "onboard_time": 1756272983,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 292566,
       "num": 292566,
       "word": "生万物前11集片头没有迟蓬",
@@ -473,6 +489,14 @@
       "onboard_time": 1756263920,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277054,
+      "num": 277054,
+      "word": "邵兵儿子邵子恒机场人气",
+      "onboard_time": 1756276943,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 267234,
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238596,
+      "num": 238596,
+      "word": "30万存款定律",
+      "onboard_time": 1756276582,
+      "rank": 30,
+      "category": "财经,休闲"
+    },
+    {
       "raw_hot": 238352,
       "num": 238352,
       "word": "退款查账",
@@ -531,12 +563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233190,
+      "num": 233190,
+      "word": "张万森 下爸爸了",
+      "onboard_time": 1756275863,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232178,
       "num": 193195,
       "word": "少年群像终于迎来了真少年",
       "onboard_time": 1756273043,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232056,
+      "num": 232056,
+      "word": "A股利好又来了",
+      "onboard_time": 1756278204,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 229173,
@@ -579,8 +627,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218829,
+      "num": 218829,
+      "word": "张镇麟 上海男篮",
+      "onboard_time": 1756278923,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216064,
-      "num": 272500,
+      "num": 336087,
       "word": "张杰签售会",
       "onboard_time": 1756276104,
       "rank": 24,
@@ -627,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208346,
+      "num": 336527,
+      "word": "再也不信明星推荐的美食了",
+      "onboard_time": 1756277723,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206808,
       "num": 245589,
       "word": "酒店价格为什么一天一变",
@@ -651,14 +715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200429,
-      "num": 200429,
-      "word": "30万存款定律",
-      "onboard_time": 1756276582,
-      "rank": 30,
-      "category": "财经,休闲"
-    },
-    {
       "raw_hot": 200370,
       "num": 182890,
       "word": "日本怕九三阅兵让世界铭记其侵略",
@@ -681,6 +737,14 @@
       "onboard_time": 1756271904,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191936,
+      "num": 191936,
+      "word": "原来这就是送到心坎上的感觉",
+      "onboard_time": 1756278683,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 190591,
@@ -721,6 +785,14 @@
       "onboard_time": 1756270943,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185951,
+      "num": 185951,
+      "word": "一个比较完美的养生闭环是什么样的",
+      "onboard_time": 1756278683,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 185683,
@@ -779,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181814,
-      "num": 181814,
-      "word": "邵兵儿子邵子恒机场人气",
-      "onboard_time": 1756276943,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181558,
       "num": 165952,
       "word": "陈飞宇王影璐出手就是国宴",
@@ -835,12 +899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170609,
-      "num": 170609,
-      "word": "张万森 下爸爸了",
-      "onboard_time": 1756275863,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 172131,
+      "num": 172131,
+      "word": "颜宁院士催更priest",
+      "onboard_time": 1756276465,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 168866,
@@ -1035,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151890,
+      "num": 336082,
+      "word": "1.9亿税收的县城要花17亿重建",
+      "onboard_time": 1756278084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150816,
       "num": 150816,
       "word": "张凌赫出道5年了",
@@ -1067,6 +1139,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 149317,
+      "num": 149317,
+      "word": "寒武纪",
+      "onboard_time": 1756277543,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 148594,
+      "num": 148594,
+      "word": "张晚意马思纯 黎吧啦我稀罕你",
+      "onboard_time": 1756277602,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147725,
       "num": 147725,
       "word": "孟子义何与就让这大雨全都落下",
@@ -1091,6 +1179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 146235,
+      "num": 146235,
+      "word": "其实很多癌症是省出来的",
+      "onboard_time": 1756278623,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145649,
       "num": 145649,
       "word": "bighit对朴智旻恋情的态度",
@@ -1113,6 +1209,14 @@
       "onboard_time": 1756225222,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143963,
+      "num": 143963,
+      "word": "王者荣耀S41新赛季爆料",
+      "onboard_time": 1756277602,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 142638,
@@ -1195,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135006,
+      "num": 135006,
+      "word": "孙艺珍关闭ins小号",
+      "onboard_time": 1756278983,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134986,
       "num": 134986,
       "word": "余承东曝新款三折叠支持手写笔",
@@ -1257,6 +1369,14 @@
       "onboard_time": 1756272803,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132393,
+      "num": 384822,
+      "word": "北京5区市民非必要不外出",
+      "onboard_time": 1756275503,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131712,
@@ -1347,14 +1467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124398,
-      "num": 124398,
-      "word": "颜宁院士催更priest",
-      "onboard_time": 1756276465,
-      "rank": 46,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 123152,
       "num": 123152,
       "word": "月薪4000在上海的一天",
@@ -1387,6 +1499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121954,
+      "num": 120423,
+      "word": "你俩要不要亲这么用力啊",
+      "onboard_time": 1756279402,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121363,
+      "num": 121363,
+      "word": "小孩地铁踩踏霸座鞋被乘客踢飞",
+      "onboard_time": 1756278143,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121037,
       "num": 121037,
       "word": "叶舒华汉服",
@@ -1401,6 +1529,14 @@
       "onboard_time": 1756259061,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116306,
+      "num": 116306,
+      "word": "不听劝花十万买了顶楼阁楼",
+      "onboard_time": 1756278323,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 116293,
@@ -1473,6 +1609,14 @@
       "onboard_time": 1756252521,
       "rank": 40,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 105376,
+      "num": 148611,
+      "word": "丰臣秀吉雕像被斩首",
+      "onboard_time": 1756279044,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105350,
@@ -1803,6 +1947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59192,
+      "num": 358185,
+      "word": "苹果发布会邀请了京东JDG伞兵",
+      "onboard_time": 1756274903,
+      "rank": 15,
+      "category": "数码,电竞"
+    },
+    {
       "raw_hot": 59139,
       "num": 59139,
       "word": "王楚钦在一堆模特中站出活人感",
@@ -1819,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55368,
+      "num": 219944,
+      "word": "老农保29年后仅退200元本金后续",
+      "onboard_time": 1756278143,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54828,
       "num": 85715,
       "word": "种地吧",
@@ -1833,6 +1993,14 @@
       "onboard_time": 1756251080,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 53425,
+      "num": 148683,
+      "word": "悬赏上海一套房寻子 采血验亲",
+      "onboard_time": 1756279103,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52914,
@@ -1857,14 +2025,6 @@
       "onboard_time": 1756271604,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47164,
-      "num": 281619,
-      "word": "苹果发布会邀请了京东JDG伞兵",
-      "onboard_time": 1756274903,
-      "rank": 15,
-      "category": "数码,电竞"
     },
     {
       "raw_hot": 46384,
@@ -1984,6 +2144,14 @@
       "word": "网警守护开学季",
       "onboard_time": 1756257022,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29023,
+      "num": 363718,
+      "word": "商城遗址考古70年",
+      "onboard_time": 1756278504,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
