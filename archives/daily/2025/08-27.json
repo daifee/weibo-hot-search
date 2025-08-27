@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756305803569,
+  "endTime": 1756308450544,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614864,
+      "num": 346174,
+      "word": "张伦硕报警",
+      "onboard_time": 1756301844,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609030,
       "num": 609030,
       "word": "A股",
@@ -675,14 +683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 372492,
-      "num": 301889,
-      "word": "张伦硕报警",
-      "onboard_time": 1756301844,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 371732,
       "num": 266203,
       "word": "迪士尼偶遇张真源",
@@ -697,6 +697,22 @@
       "onboard_time": 1756262901,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 363951,
+      "num": 363951,
+      "word": "男子三亚游泳溺水妻子崩溃大哭",
+      "onboard_time": 1756305445,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359056,
+      "num": 359056,
+      "word": "王源说大不了一星期不说话",
+      "onboard_time": 1756306705,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 353008,
@@ -755,20 +771,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 311701,
+      "num": 348519,
+      "word": "陈乔恩谈这辈子最勇敢的事",
+      "onboard_time": 1756303406,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 307186,
+      "num": 307186,
+      "word": "女子幽闭恐惧症隧道内弃车行走",
+      "onboard_time": 1756300584,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304093,
       "num": 304093,
       "word": "李佳薇 逆光",
       "onboard_time": 1756223664,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300600,
-      "num": 300600,
-      "word": "女子幽闭恐惧症隧道内弃车行走",
-      "onboard_time": 1756300584,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300009,
@@ -929,6 +953,14 @@
       "onboard_time": 1756185684,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237393,
+      "num": 237393,
+      "word": "直播公司围猎初中辍学农村女孩",
+      "onboard_time": 1756306765,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 235330,
@@ -1427,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180626,
+      "num": 180626,
+      "word": "韩剧剧组就写错汉字道歉",
+      "onboard_time": 1756304965,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178697,
       "num": 178697,
       "word": "以色列宣布永久占领叙利亚新区域",
@@ -1491,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174017,
-      "num": 174017,
-      "word": "陈乔恩谈这辈子最勇敢的事",
-      "onboard_time": 1756303406,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173063,
       "num": 157211,
       "word": "老人银行存12万被办成保险",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1756275503,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169461,
+      "num": 169461,
+      "word": "谁家男二刚掀桌就下线",
+      "onboard_time": 1756307485,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 168866,
@@ -1603,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165649,
+      "num": 165649,
+      "word": "美国21岁模特在德国见义勇为被毁容",
+      "onboard_time": 1756305746,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 165315,
       "num": 165315,
       "word": "陈少熙温润贵公子既视感",
@@ -1652,7 +1700,7 @@
     },
     {
       "raw_hot": 162080,
-      "num": 162080,
+      "num": 166366,
       "word": "王子奇 红舞鞋",
       "onboard_time": 1756305628,
       "rank": 28,
@@ -1825,14 +1873,6 @@
       "onboard_time": 1756285583,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 153249,
-      "num": 153249,
-      "word": "男子三亚游泳溺水妻子崩溃大哭",
-      "onboard_time": 1756305445,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153172,
@@ -2019,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144929,
+      "num": 144929,
+      "word": "刘涛真的有在偷偷补网梗",
+      "onboard_time": 1756307604,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144694,
       "num": 144694,
       "word": "贺峻霖的嘴还是太权威了",
@@ -2041,6 +2089,14 @@
       "onboard_time": 1756283723,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144304,
+      "num": 144304,
+      "word": "警方通报女子当街锤击儿童",
+      "onboard_time": 1756305685,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143963,
@@ -2395,12 +2451,12 @@
       "category": "海外新闻,网红"
     },
     {
-      "raw_hot": 129072,
-      "num": 129072,
-      "word": "韩剧剧组就写错汉字道歉",
-      "onboard_time": 1756304965,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 129049,
+      "num": 129049,
+      "word": "王青为冯建宇庆生",
+      "onboard_time": 1756308204,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 128990,
@@ -2499,12 +2555,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124357,
+      "num": 124357,
+      "word": "子夜归",
+      "onboard_time": 1756307664,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123947,
       "num": 132299,
       "word": "陈飞宇说献鱼破万就演同人文",
       "onboard_time": 1756283902,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123904,
+      "num": 123904,
+      "word": "王栎鑫常德把妹王",
+      "onboard_time": 1756306765,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 123780,
@@ -2651,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119919,
+      "num": 346892,
+      "word": "深圳多部门回应小区现隐藏豪华建筑",
+      "onboard_time": 1756307244,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119888,
       "num": 194949,
       "word": "深圳万架无人机灯光秀来了",
@@ -2715,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117927,
+      "num": 117927,
+      "word": "丞磊这个赛季强的可怕",
+      "onboard_time": 1756307425,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117042,
       "num": 119689,
       "word": "第一次对张新成的完美主义有了实感",
@@ -2745,6 +2833,14 @@
       "onboard_time": 1756282343,
       "rank": 49,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 115573,
+      "num": 115573,
+      "word": "逆水寒手游",
+      "onboard_time": 1756306045,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 114148,
@@ -2779,14 +2875,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 111664,
-      "num": 111664,
-      "word": "美国21岁模特在德国见义勇为被毁容",
-      "onboard_time": 1756305746,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 111556,
       "num": 111556,
       "word": "一部电影统一了情侣审美",
@@ -2817,6 +2905,14 @@
       "onboard_time": 1756224622,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111172,
+      "num": 183752,
+      "word": "沃尔沃全新XC70预售价29.99万起",
+      "onboard_time": 1756305746,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 109453,
@@ -2865,6 +2961,14 @@
       "onboard_time": 1756205003,
       "rank": 30,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 106966,
+      "num": 106966,
+      "word": "鞠婧祎直播",
+      "onboard_time": 1756306646,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 106774,
@@ -3203,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81579,
+      "num": 167104,
+      "word": "豪华品牌发起反攻",
+      "onboard_time": 1756305685,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81409,
       "num": 81409,
       "word": "寒武纪上半年净赚超10亿元",
@@ -3387,6 +3499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 61264,
+      "num": 271475,
+      "word": "强奸杀人罪服刑27年后杀人罪名撤销",
+      "onboard_time": 1756307783,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 60968,
       "num": 257350,
       "word": "全球首辆登陆南极的新能源轿车",
@@ -3425,14 +3545,6 @@
       "onboard_time": 1756251080,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57709,
-      "num": 155622,
-      "word": "豪华品牌发起反攻",
-      "onboard_time": 1756305685,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 56371,
@@ -3579,6 +3691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44091,
+      "num": 115842,
+      "word": "违规卖含司美格鲁肽针剂多人被判刑",
+      "onboard_time": 1756306884,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43979,
       "num": 279259,
       "word": "云冈石窟的神来之笔",
@@ -3723,14 +3843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32570,
-      "num": 133690,
-      "word": "警方通报女子当街锤击儿童",
-      "onboard_time": 1756305685,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32546,
       "num": 174758,
       "word": "考古的根本价值在于文明追溯",
@@ -3753,14 +3865,6 @@
       "onboard_time": 1756281682,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29743,
-      "num": 120219,
-      "word": "沃尔沃全新XC70预售价29.99万起",
-      "onboard_time": 1756305746,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 29518,
