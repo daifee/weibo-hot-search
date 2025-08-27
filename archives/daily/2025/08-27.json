@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756286839778,
+  "endTime": 1756287689961,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1412099,
+      "num": 1412099,
+      "word": "北京全市已转移5.8万人",
+      "onboard_time": 1756282403,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1269975,
       "num": 1269975,
       "word": "虞书欣起诉两公司侵权",
@@ -83,15 +91,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1212627,
-      "num": 1212627,
-      "word": "北京全市已转移5.8万人",
-      "onboard_time": 1756282403,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1206027,
+      "raw_hot": 1207884,
       "num": 304629,
       "word": "吴雅婷带孩子搬离上海",
       "onboard_time": 1756283302,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 850175,
+      "num": 244343,
+      "word": "Angelababy直播",
+      "onboard_time": 1756286783,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806076,
       "num": 299543,
       "word": "30万存款定律",
@@ -209,6 +217,14 @@
       "onboard_time": 1756282224,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 695044,
+      "num": 242727,
+      "word": "疑似何穗退圈",
+      "onboard_time": 1756286725,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 688724,
@@ -297,6 +313,14 @@
       "onboard_time": 1756253663,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 563384,
+      "num": 563384,
+      "word": "阚清子贵妇感",
+      "onboard_time": 1756285043,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 547556,
@@ -411,6 +435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 413012,
+      "num": 413012,
+      "word": "蜜鼠冰城",
+      "onboard_time": 1756284384,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 406405,
       "num": 357225,
       "word": "樊振东你担订婚了",
@@ -467,14 +499,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 346320,
-      "num": 346320,
-      "word": "阚清子贵妇感",
-      "onboard_time": 1756285043,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343388,
       "num": 343388,
       "word": "易烊千玺 抢票",
@@ -521,14 +545,6 @@
       "onboard_time": 1756257562,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 309652,
-      "num": 309652,
-      "word": "蜜鼠冰城",
-      "onboard_time": 1756284384,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 304093,
@@ -675,6 +691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 230672,
+      "num": 230672,
+      "word": "花5万买日本投降书原件",
+      "onboard_time": 1756285764,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229173,
       "num": 229173,
       "word": "郑恺工作室发声明",
@@ -731,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218500,
-      "num": 218500,
-      "word": "Angelababy直播",
-      "onboard_time": 1756286783,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216064,
       "num": 336087,
       "word": "张杰签售会",
@@ -787,6 +803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209581,
+      "num": 209581,
+      "word": "学生因甲沟炎请假教官掏出工具修脚",
+      "onboard_time": 1756286964,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208722,
       "num": 208722,
       "word": "学生举板凳砸老师警方介入",
@@ -825,6 +849,22 @@
       "onboard_time": 1756227679,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197893,
+      "num": 247639,
+      "word": "33万被骗子划走竟没发现",
+      "onboard_time": 1756286544,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196448,
+      "num": 196448,
+      "word": "当代年轻人如何反向过七夕",
+      "onboard_time": 1756286843,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 196413,
@@ -915,6 +955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186653,
+      "num": 186653,
+      "word": "杨幂 邪恶美羊羊",
+      "onboard_time": 1756283842,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185951,
       "num": 185951,
       "word": "一个比较完美的养生闭环是什么样的",
@@ -979,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182954,
+      "num": 186194,
+      "word": "王俊凯是被爷爷奶奶宠着长大的",
+      "onboard_time": 1756285104,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182903,
       "num": 251258,
       "word": "花儿与少年",
@@ -993,14 +1049,6 @@
       "onboard_time": 1756262361,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180594,
-      "num": 180594,
-      "word": "杨幂 邪恶美羊羊",
-      "onboard_time": 1756283842,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177542,
@@ -1187,14 +1235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159495,
-      "num": 159495,
-      "word": "花5万买日本投降书原件",
-      "onboard_time": 1756285764,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159442,
       "num": 159442,
       "word": "母亲的愧疚式教育逼疯儿子",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1756259302,
       "rank": 31,
       "category": "国内时政,音乐"
+    },
+    {
+      "raw_hot": 155847,
+      "num": 155847,
+      "word": "邵子恒 内娱浓颜帅哥上新了",
+      "onboard_time": 1756286964,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 155523,
@@ -1323,14 +1371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151753,
-      "num": 151753,
-      "word": "王俊凯是被爷爷奶奶宠着长大的",
-      "onboard_time": 1756285104,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150816,
       "num": 150816,
       "word": "张凌赫出道5年了",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1756272562,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149511,
-      "num": 149511,
-      "word": "疑似何穗退圈",
-      "onboard_time": 1756286725,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 149425,
@@ -1417,6 +1449,14 @@
       "onboard_time": 1756262422,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144694,
+      "num": 144694,
+      "word": "贺峻霖的嘴还是太权威了",
+      "onboard_time": 1756286602,
+      "rank": 43,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 144508,
@@ -1619,6 +1659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132380,
+      "num": 132380,
+      "word": "4人花954元炫了18顿",
+      "onboard_time": 1756283422,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 132293,
       "num": 369960,
       "word": "民宿回应两00后男房客把房间住包浆",
@@ -1699,14 +1747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127745,
-      "num": 127745,
-      "word": "贺峻霖的嘴还是太权威了",
-      "onboard_time": 1756286602,
-      "rank": 43,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 127473,
       "num": 127473,
       "word": "伦纳德村BA首秀",
@@ -1723,20 +1763,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126458,
-      "num": 126458,
-      "word": "4人花954元炫了18顿",
-      "onboard_time": 1756283422,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 125861,
       "num": 125861,
       "word": "日版水浒传",
       "onboard_time": 1756277063,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125457,
+      "num": 125457,
+      "word": "云贵菜为什么突然火了",
+      "onboard_time": 1756287203,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 125303,
@@ -1899,6 +1939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111500,
+      "num": 111500,
+      "word": "95后全职家庭煮夫的真实生活",
+      "onboard_time": 1756287503,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111387,
       "num": 111387,
       "word": "男子酒后练拳扒倒老人致其死亡",
@@ -1931,12 +1979,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108905,
+      "num": 108905,
+      "word": "此沙黑西装是daddy级别的",
+      "onboard_time": 1756287563,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107101,
       "num": 107101,
       "word": "奚梦瑶回宫",
       "onboard_time": 1756205003,
       "rank": 30,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 106774,
+      "num": 256523,
+      "word": "平台称西南大学外卖合作是内部招标",
+      "onboard_time": 1756285344,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105724,
@@ -1963,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105039,
+      "num": 105039,
+      "word": "美团第二季度营收918.4亿元",
+      "onboard_time": 1756287624,
+      "rank": 49,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 103882,
       "num": 103882,
       "word": "永恩皮肤",
@@ -1971,20 +2043,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103145,
-      "num": 231284,
-      "word": "33万被骗子划走竟没发现",
-      "onboard_time": 1756286544,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102492,
       "num": 243311,
       "word": "阅兵大场面想想就激动",
       "onboard_time": 1756269263,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101843,
+      "num": 132041,
+      "word": "赵丽颖曾让保镖一起撑伞躲雨",
+      "onboard_time": 1756287563,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 99638,
@@ -2049,6 +2121,14 @@
       "onboard_time": 1756210463,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93818,
+      "num": 131798,
+      "word": "杭州男子当街殴打出轨男女",
+      "onboard_time": 1756287024,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93348,
@@ -2299,6 +2379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60968,
+      "num": 257350,
+      "word": "全球首辆登陆南极的新能源轿车",
+      "onboard_time": 1756284083,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60598,
       "num": 60598,
       "word": "特朗普称最快一周要国防部改战争部",
@@ -2323,14 +2411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56817,
-      "num": 257350,
-      "word": "全球首辆登陆南极的新能源轿车",
-      "onboard_time": 1756284083,
-      "rank": 21,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 56371,
       "num": 56371,
       "word": "王楚钦何超欣同框",
@@ -2353,14 +2433,6 @@
       "onboard_time": 1756252882,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53931,
-      "num": 256523,
-      "word": "平台称西南大学外卖合作是内部招标",
-      "onboard_time": 1756285344,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53800,
@@ -2603,6 +2675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23366,
+      "num": 262728,
+      "word": "网文出海过程中应坚守文化内核",
+      "onboard_time": 1756285282,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 21985,
       "num": 735244,
       "word": "这就是又美又飒的中国仪仗女兵",
@@ -2617,14 +2697,6 @@
       "onboard_time": 1756222283,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19027,
-      "num": 262728,
-      "word": "网文出海过程中应坚守文化内核",
-      "onboard_time": 1756285282,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 16175,

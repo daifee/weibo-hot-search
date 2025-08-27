@@ -1,0 +1,410 @@
+{
+  "runTime": 1756287689961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1412099,
+        "num": 1412099,
+        "word": "北京全市已转移5.8万人",
+        "onboard_time": 1756282403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1046294,
+        "num": 1046294,
+        "word": "虞书欣起诉两公司侵权",
+        "onboard_time": 1756281024,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8305,
+        "num": 720872,
+        "word": "这就是又美又飒的中国仪仗女兵",
+        "onboard_time": 1756220244,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 636158,
+        "num": 636158,
+        "word": "00后两男生开房住宿留下满床辣条油",
+        "onboard_time": 1756277844,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563384,
+        "num": 563384,
+        "word": "阚清子贵妇感",
+        "onboard_time": 1756285043,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413012,
+        "num": 413012,
+        "word": "蜜鼠冰城",
+        "onboard_time": 1756284384,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325371,
+        "num": 325371,
+        "word": "iPhone17全系价格曝光",
+        "onboard_time": 1756255162,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 304871,
+        "num": 304871,
+        "word": "14名内鬼侵犯华为芯片技术被判刑",
+        "onboard_time": 1756272983,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248066,
+        "num": 248066,
+        "word": "老庙黄金致歉",
+        "onboard_time": 1756274363,
+        "rank": 8,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 197893,
+        "num": 247639,
+        "word": "33万被骗子划走竟没发现",
+        "onboard_time": 1756286544,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1207884,
+        "num": 245557,
+        "word": "吴雅婷带孩子搬离上海",
+        "onboard_time": 1756283302,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 850175,
+        "num": 244343,
+        "word": "Angelababy直播",
+        "onboard_time": 1756286783,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695044,
+        "num": 242727,
+        "word": "疑似何穗退圈",
+        "onboard_time": 1756286725,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585651,
+        "num": 242358,
+        "word": "梓渝的褪黑素也不是原唱",
+        "onboard_time": 1756282224,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23366,
+        "num": 240716,
+        "word": "网文出海过程中应坚守文化内核",
+        "onboard_time": 1756285282,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 516290,
+        "num": 239145,
+        "word": "霉霉孩子出生就得有一米吧",
+        "onboard_time": 1756273702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400816,
+        "num": 238030,
+        "word": "妻子追回老公出轨赠与款被小三挑衅",
+        "onboard_time": 1756280183,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372051,
+        "num": 236641,
+        "word": "张百乔瘦了60斤",
+        "onboard_time": 1756277363,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60968,
+        "num": 235477,
+        "word": "全球首辆登陆南极的新能源轿车",
+        "onboard_time": 1756284083,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 356258,
+        "num": 233532,
+        "word": "迪士尼偶遇张真源",
+        "onboard_time": 1756283182,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350761,
+        "num": 232172,
+        "word": "30万存款定律",
+        "onboard_time": 1756276582,
+        "rank": 20,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 294105,
+        "num": 231686,
+        "word": "郑恺小姨子回应",
+        "onboard_time": 1756264222,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230672,
+        "num": 230672,
+        "word": "花5万买日本投降书原件",
+        "onboard_time": 1756285764,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214593,
+        "num": 214593,
+        "word": "云秀行",
+        "onboard_time": 1756280724,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209581,
+        "num": 209581,
+        "word": "学生因甲沟炎请假教官掏出工具修脚",
+        "onboard_time": 1756286964,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197289,
+        "num": 197289,
+        "word": "再也不信明星推荐的美食了",
+        "onboard_time": 1756277723,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196448,
+        "num": 196448,
+        "word": "当代年轻人如何反向过七夕",
+        "onboard_time": 1756286843,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186653,
+        "num": 186653,
+        "word": "杨幂 邪恶美羊羊",
+        "onboard_time": 1756283842,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182954,
+        "num": 186194,
+        "word": "王俊凯是被爷爷奶奶宠着长大的",
+        "onboard_time": 1756285104,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176028,
+        "num": 185972,
+        "word": "鞠婧祎为什么不写作业",
+        "onboard_time": 1756286423,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185831,
+        "num": 185831,
+        "word": "抗日战争胜利80周年纪念",
+        "onboard_time": 1756282762,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171957,
+        "num": 171957,
+        "word": "西南大学 外卖垄断",
+        "onboard_time": 1756270402,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169868,
+        "num": 169868,
+        "word": "以前美到张馨予的程度才能当明星",
+        "onboard_time": 1756283364,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155847,
+        "num": 155847,
+        "word": "邵子恒 内娱浓颜帅哥上新了",
+        "onboard_time": 1756286964,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152330,
+        "num": 152330,
+        "word": "宝格丽 张元英",
+        "onboard_time": 1756263680,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144694,
+        "num": 144694,
+        "word": "贺峻霖的嘴还是太权威了",
+        "onboard_time": 1756286602,
+        "rank": 35,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 144366,
+        "num": 144366,
+        "word": "北京5区市民非必要不外出",
+        "onboard_time": 1756275503,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132380,
+        "num": 132380,
+        "word": "4人花954元炫了18顿",
+        "onboard_time": 1756283422,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101843,
+        "num": 132041,
+        "word": "赵丽颖曾让保镖一起撑伞躲雨",
+        "onboard_time": 1756287563,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93818,
+        "num": 131798,
+        "word": "杭州男子当街殴打出轨男女",
+        "onboard_time": 1756287024,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131757,
+        "num": 131757,
+        "word": "王星越你不要闹到何晟铭面前",
+        "onboard_time": 1756270763,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127305,
+        "num": 127305,
+        "word": "陈飞宇 听劝",
+        "onboard_time": 1756284384,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126776,
+        "num": 126776,
+        "word": "杜淳老婆否认是宋慧乔替身",
+        "onboard_time": 1756280242,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125457,
+        "num": 125457,
+        "word": "云贵菜为什么突然火了",
+        "onboard_time": 1756287203,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111500,
+        "num": 111500,
+        "word": "95后全职家庭煮夫的真实生活",
+        "onboard_time": 1756287503,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109697,
+        "num": 109697,
+        "word": "其实很多癌症是省出来的",
+        "onboard_time": 1756278623,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108905,
+        "num": 108905,
+        "word": "此沙黑西装是daddy级别的",
+        "onboard_time": 1756287563,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108445,
+        "num": 108445,
+        "word": "莎头混双5号种子出战中国大满贯",
+        "onboard_time": 1756284563,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106774,
+        "num": 106774,
+        "word": "平台称西南大学外卖合作是内部招标",
+        "onboard_time": 1756285344,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105039,
+        "num": 105039,
+        "word": "美团第二季度营收918.4亿元",
+        "onboard_time": 1756287624,
+        "rank": 49,
+        "category": "财经,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设新时代全天候中柬命运共同体#"
+    }
+  }
+}
