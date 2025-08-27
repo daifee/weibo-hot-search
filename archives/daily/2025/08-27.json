@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756299067893,
+  "endTime": 1756299923771,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1977534,
-      "num": 194349,
+      "num": 237483,
       "word": "虞书欣7天掉粉72万",
       "onboard_time": 1756292904,
       "rank": 15,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1580329,
+      "num": 1580329,
+      "word": "司美格鲁肽",
+      "onboard_time": 1756296264,
+      "rank": 0,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1502641,
       "num": 1502641,
       "word": "郑恺苗苗辟谣",
@@ -105,6 +113,14 @@
       "onboard_time": 1756282403,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1273996,
+      "num": 1273996,
+      "word": "酒店浴缸 红线虫",
+      "onboard_time": 1756297224,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1269975,
@@ -145,14 +161,6 @@
       "onboard_time": 1756286964,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1080267,
-      "num": 1172842,
-      "word": "司美格鲁肽",
-      "onboard_time": 1756296264,
-      "rank": 0,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1068479,
@@ -219,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 864106,
-      "num": 864106,
-      "word": "酒店浴缸 红线虫",
-      "onboard_time": 1756297224,
-      "rank": 1,
-      "category": "舆论监督"
+      "raw_hot": 859461,
+      "num": 236271,
+      "word": "张馨予 姐不是一直在内娱吗",
+      "onboard_time": 1756295064,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 815935,
@@ -241,6 +249,14 @@
       "onboard_time": 1756276582,
       "rank": 30,
       "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 789809,
+      "num": 235856,
+      "word": "网红白冰三个月瘦了50斤",
+      "onboard_time": 1756296804,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 776874,
@@ -265,14 +281,6 @@
       "onboard_time": 1756255043,
       "rank": 1,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 752682,
-      "num": 187288,
-      "word": "张馨予 姐不是一直在内娱吗",
-      "onboard_time": 1756295064,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 751616,
@@ -313,14 +321,6 @@
       "onboard_time": 1756270283,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 676256,
-      "num": 179641,
-      "word": "网红白冰三个月瘦了50斤",
-      "onboard_time": 1756296804,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 662195,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377056,
+      "num": 377056,
+      "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
+      "onboard_time": 1756296444,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376108,
       "num": 425343,
       "word": "杨靖宇烈士牺牲确切时间地点确认",
@@ -779,6 +787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 244966,
+      "num": 244966,
+      "word": "樊振东确认出战3项赛事",
+      "onboard_time": 1756298845,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240054,
       "num": 274160,
       "word": "张艺凡说田曦薇是白磷型人格",
@@ -801,6 +817,14 @@
       "onboard_time": 1756294883,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233804,
+      "num": 233804,
+      "word": "WE对战AL",
+      "onboard_time": 1756298903,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 233190,
@@ -971,14 +995,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 209420,
-      "num": 151280,
-      "word": "樊振东确认出战3项赛事",
-      "onboard_time": 1756298845,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208722,
       "num": 208722,
       "word": "学生举板凳砸老师警方介入",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1756283783,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194486,
-      "num": 194486,
-      "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
-      "onboard_time": 1756296444,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192966,
@@ -1299,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175126,
+      "num": 175126,
+      "word": "KPL",
+      "onboard_time": 1756299144,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174920,
       "num": 174920,
       "word": "耀眼杀青特辑",
@@ -1323,6 +1339,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 171734,
+      "num": 171734,
+      "word": "中国女排vs多米尼加女排",
+      "onboard_time": 1756298965,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170797,
       "num": 384822,
       "word": "北京5区市民非必要不外出",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1756266502,
       "rank": 43,
       "category": "幽默,运动健身"
+    },
+    {
+      "raw_hot": 167788,
+      "num": 167788,
+      "word": "A股突然大调整",
+      "onboard_time": 1756296143,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 167779,
@@ -1404,7 +1436,7 @@
     },
     {
       "raw_hot": 162331,
-      "num": 638228,
+      "num": 693059,
       "word": "冷空气和秋雨搭伙来了",
       "onboard_time": 1756262961,
       "rank": 34,
@@ -1467,12 +1499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159660,
-      "num": 148558,
-      "word": "A股突然大调整",
-      "onboard_time": 1756296143,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 159577,
+      "num": 159577,
+      "word": "第一局的WE好强",
+      "onboard_time": 1756299805,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 159442,
@@ -1555,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154437,
+      "num": 147843,
+      "word": "美团利润大跌89%",
+      "onboard_time": 1756299262,
+      "rank": 27,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 153591,
       "num": 153591,
       "word": "被李现流沙牌惊艳了一次又一次",
@@ -1588,7 +1628,7 @@
     },
     {
       "raw_hot": 152764,
-      "num": 152764,
+      "num": 238349,
       "word": "江奇霖周奇奇首次合体上婚综",
       "onboard_time": 1756295425,
       "rank": 19,
@@ -1617,6 +1657,14 @@
       "onboard_time": 1756255523,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152035,
+      "num": 152035,
+      "word": "深圳一小区被曝有隐藏豪华建筑",
+      "onboard_time": 1756299565,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 151890,
@@ -1763,14 +1811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143905,
-      "num": 143905,
-      "word": "WE对战AL",
-      "onboard_time": 1756298903,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 142638,
       "num": 142638,
       "word": "刚出生13天的宝宝突然吐奶卡住喉咙",
@@ -1793,6 +1833,22 @@
       "onboard_time": 1756272143,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141454,
+      "num": 178892,
+      "word": "献鱼男三戏份",
+      "onboard_time": 1756298725,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141016,
+      "num": 141016,
+      "word": "曝特朗普至少4次致电莫迪被拒",
+      "onboard_time": 1756297403,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140157,
@@ -1864,6 +1920,14 @@
       "word": "吴京周迅你俩别吵了",
       "onboard_time": 1756275203,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136105,
+      "num": 136105,
+      "word": "韩磊将发声明",
+      "onboard_time": 1756299805,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1964,7 +2028,7 @@
     },
     {
       "raw_hot": 132805,
-      "num": 132805,
+      "num": 134180,
       "word": "店主保管客户彩票中1800万连夜报喜",
       "onboard_time": 1756293024,
       "rank": 43,
@@ -2051,6 +2115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129894,
+      "num": 128733,
+      "word": "李兰迪 人形沙袋",
+      "onboard_time": 1756299084,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129310,
       "num": 129310,
       "word": "有一种精神叫不屈",
@@ -2080,6 +2152,14 @@
       "word": "韩国历史剧写错汉字",
       "onboard_time": 1756298004,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128843,
+      "num": 150546,
+      "word": "22岁离世女村支书上任仅数月",
+      "onboard_time": 1756296203,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -2179,6 +2259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123163,
+      "num": 141227,
+      "word": "樊振东身穿新球衣亮相",
+      "onboard_time": 1756298845,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123155,
       "num": 123155,
       "word": "莎头混双5号种子出战中国大满贯",
@@ -2259,14 +2347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121626,
-      "num": 142607,
-      "word": "献鱼男三戏份",
-      "onboard_time": 1756298725,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121554,
       "num": 121554,
       "word": "阅读量上来以后最大的感受",
@@ -2281,6 +2361,14 @@
       "onboard_time": 1756278143,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121294,
+      "num": 113573,
+      "word": "郑佩佩儿媳乳腺癌恶化",
+      "onboard_time": 1756299865,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 121037,
@@ -2321,14 +2409,6 @@
       "onboard_time": 1756259061,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118743,
-      "num": 150546,
-      "word": "22岁离世女村支书上任仅数月",
-      "onboard_time": 1756296203,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118283,
@@ -2387,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113303,
+      "num": 113303,
+      "word": "野狗骨头",
+      "onboard_time": 1756299865,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112355,
       "num": 112355,
       "word": "寒武纪股价超茅台",
@@ -2427,6 +2515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109453,
+      "num": 141125,
+      "word": "喜人英雄池让刘耀文怀旧上了",
+      "onboard_time": 1756299624,
+      "rank": 29,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 109187,
       "num": 118035,
       "word": "献鱼",
@@ -2449,14 +2545,6 @@
       "onboard_time": 1756287563,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108064,
-      "num": 108064,
-      "word": "曝特朗普至少4次致电莫迪被拒",
-      "onboard_time": 1756297403,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107209,
@@ -2507,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105105,
+      "num": 105105,
+      "word": "考古杨紫见任嘉伦的初印象是非主流",
+      "onboard_time": 1756299743,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105039,
       "num": 105039,
       "word": "美团第二季度营收918.4亿元",
@@ -2545,14 +2641,6 @@
       "onboard_time": 1756269263,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101533,
-      "num": 101533,
-      "word": "中国女排vs多米尼加女排",
-      "onboard_time": 1756298965,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 99638,
@@ -2611,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94799,
+      "num": 104982,
+      "word": "花海战至巅峰上场比赛",
+      "onboard_time": 1756296384,
+      "rank": 49,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 94346,
       "num": 190523,
       "word": "大坂直美labubu一身红钻",
@@ -2649,6 +2745,14 @@
       "onboard_time": 1756257322,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90792,
+      "num": 175268,
+      "word": "男孩被死鱼扎伤险致截肢",
+      "onboard_time": 1756298183,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90403,
@@ -2745,14 +2849,6 @@
       "onboard_time": 1756202722,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83653,
-      "num": 109698,
-      "word": "男孩被死鱼扎伤险致截肢",
-      "onboard_time": 1756298183,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82164,
@@ -2963,20 +3059,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55799,
-      "num": 141227,
-      "word": "樊振东身穿新球衣亮相",
-      "onboard_time": 1756298845,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 55368,
       "num": 219944,
       "word": "老农保29年后仅退200元本金后续",
       "onboard_time": 1756278143,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55359,
+      "num": 131088,
+      "word": "109岁母亲到高铁站接79岁女儿",
+      "onboard_time": 1756299262,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 55230,
@@ -2993,6 +3089,14 @@
       "onboard_time": 1756252882,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54456,
+      "num": 131700,
+      "word": "村民抱怨村干部4点51分下班",
+      "onboard_time": 1756299326,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53800,
@@ -3115,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42430,
+      "num": 175725,
+      "word": "长城把都江堰装进车里",
+      "onboard_time": 1756296025,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40900,
       "num": 269764,
       "word": "鲁迅的烟这次保住了下次呢",
@@ -3163,14 +3275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37034,
-      "num": 162842,
-      "word": "长城把都江堰装进车里",
-      "onboard_time": 1756296025,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 35822,
       "num": 262211,
       "word": "自闭症男童遇难机构首次正面回应",
@@ -3208,6 +3312,14 @@
       "word": "西南大学称因学生投诉统一配送外卖",
       "onboard_time": 1756292663,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32546,
+      "num": 174758,
+      "word": "考古的根本价值在于文明追溯",
+      "onboard_time": 1756296083,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3257,14 +3369,6 @@
       "onboard_time": 1756276402,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 27547,
-      "num": 174758,
-      "word": "考古的根本价值在于文明追溯",
-      "onboard_time": 1756296083,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27353,

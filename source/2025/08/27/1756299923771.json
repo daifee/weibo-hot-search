@@ -1,0 +1,410 @@
+{
+  "runTime": 1756299923771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1580329,
+        "num": 1580329,
+        "word": "司美格鲁肽",
+        "onboard_time": 1756296264,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1273996,
+        "num": 1273996,
+        "word": "酒店浴缸 红线虫",
+        "onboard_time": 1756297224,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 24414,
+        "num": 693059,
+        "word": "冷空气和秋雨搭伙来了",
+        "onboard_time": 1756262961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445614,
+        "num": 445614,
+        "word": "外交部回应李在明涉华言论",
+        "onboard_time": 1756290084,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416721,
+        "num": 416721,
+        "word": "北京全市已转移5.8万人",
+        "onboard_time": 1756282403,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377056,
+        "num": 377056,
+        "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
+        "onboard_time": 1756296444,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376020,
+        "num": 376020,
+        "word": "广西云南艾滋纳入婚检",
+        "onboard_time": 1756294104,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244966,
+        "num": 244966,
+        "word": "樊振东确认出战3项赛事",
+        "onboard_time": 1756298845,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239461,
+        "num": 239461,
+        "word": "蒋奇明 我没空跟你谈恋爱",
+        "onboard_time": 1756287803,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147805,
+        "num": 238349,
+        "word": "江奇霖周奇奇首次合体上婚综",
+        "onboard_time": 1756295425,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1687762,
+        "num": 237483,
+        "word": "虞书欣7天掉粉72万",
+        "onboard_time": 1756292904,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859461,
+        "num": 236271,
+        "word": "张馨予 姐不是一直在内娱吗",
+        "onboard_time": 1756295064,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789809,
+        "num": 235856,
+        "word": "网红白冰三个月瘦了50斤",
+        "onboard_time": 1756296804,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 395017,
+        "num": 234538,
+        "word": "疑似何穗退圈",
+        "onboard_time": 1756286725,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233804,
+        "num": 233804,
+        "word": "WE对战AL",
+        "onboard_time": 1756298903,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 331942,
+        "num": 230218,
+        "word": "00后两男生开房住宿留下满床辣条油",
+        "onboard_time": 1756277844,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223457,
+        "num": 223457,
+        "word": "霉霉孩子出生就得有一米吧",
+        "onboard_time": 1756273702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184117,
+        "num": 184117,
+        "word": "青岛一公园修建仅一年凉亭突然垮塌",
+        "onboard_time": 1756294883,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141454,
+        "num": 178892,
+        "word": "献鱼男三戏份",
+        "onboard_time": 1756298725,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42430,
+        "num": 175725,
+        "word": "长城把都江堰装进车里",
+        "onboard_time": 1756296025,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 90792,
+        "num": 175268,
+        "word": "男孩被死鱼扎伤险致截肢",
+        "onboard_time": 1756298183,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175126,
+        "num": 175126,
+        "word": "KPL",
+        "onboard_time": 1756299144,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173245,
+        "num": 173245,
+        "word": "虞书欣起诉两公司侵权",
+        "onboard_time": 1756281024,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171734,
+        "num": 171734,
+        "word": "中国女排vs多米尼加女排",
+        "onboard_time": 1756298965,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167788,
+        "num": 167788,
+        "word": "A股突然大调整",
+        "onboard_time": 1756296143,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159577,
+        "num": 159577,
+        "word": "第一局的WE好强",
+        "onboard_time": 1756299805,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152035,
+        "num": 152035,
+        "word": "深圳一小区被曝有隐藏豪华建筑",
+        "onboard_time": 1756299565,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154437,
+        "num": 147843,
+        "word": "美团利润大跌89%",
+        "onboard_time": 1756299262,
+        "rank": 27,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 110551,
+        "num": 141608,
+        "word": "丁禹兮横店在逃新郎",
+        "onboard_time": 1756294943,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109453,
+        "num": 141125,
+        "word": "喜人英雄池让刘耀文怀旧上了",
+        "onboard_time": 1756299624,
+        "rank": 29,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 141016,
+        "num": 141016,
+        "word": "曝特朗普至少4次致电莫迪被拒",
+        "onboard_time": 1756297403,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138981,
+        "num": 138981,
+        "word": "蜜鼠冰城",
+        "onboard_time": 1756284384,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136105,
+        "num": 136105,
+        "word": "韩磊将发声明",
+        "onboard_time": 1756299805,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135029,
+        "num": 135029,
+        "word": "赵丽颖曾让保镖一起撑伞躲雨",
+        "onboard_time": 1756287563,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49207,
+        "num": 134180,
+        "word": "店主保管客户彩票中1800万连夜报喜",
+        "onboard_time": 1756293024,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659916,
+        "num": 133414,
+        "word": "小海绵问Angelababy好不好看",
+        "onboard_time": 1756292003,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54456,
+        "num": 131700,
+        "word": "村民抱怨村干部4点51分下班",
+        "onboard_time": 1756299326,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 55359,
+        "num": 131088,
+        "word": "109岁母亲到高铁站接79岁女儿",
+        "onboard_time": 1756299262,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 32546,
+        "num": 129302,
+        "word": "考古的根本价值在于文明追溯",
+        "onboard_time": 1756296083,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128843,
+        "num": 128843,
+        "word": "22岁离世女村支书上任仅数月",
+        "onboard_time": 1756296203,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129894,
+        "num": 128733,
+        "word": "李兰迪 人形沙袋",
+        "onboard_time": 1756299084,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128622,
+        "num": 128622,
+        "word": "Light 应该不会再有700场了",
+        "onboard_time": 1756294824,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123163,
+        "num": 123163,
+        "word": "樊振东身穿新球衣亮相",
+        "onboard_time": 1756298845,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122365,
+        "num": 122365,
+        "word": "狼队对战KSG",
+        "onboard_time": 1756298244,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113651,
+        "num": 113651,
+        "word": "韩国历史剧写错汉字",
+        "onboard_time": 1756298004,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121294,
+        "num": 113573,
+        "word": "郑佩佩儿媳乳腺癌恶化",
+        "onboard_time": 1756299865,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113377,
+        "num": 113377,
+        "word": "梓渝的褪黑素也不是原唱",
+        "onboard_time": 1756282224,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113303,
+        "num": 113303,
+        "word": "野狗骨头",
+        "onboard_time": 1756299865,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105105,
+        "num": 105105,
+        "word": "考古杨紫见任嘉伦的初印象是非主流",
+        "onboard_time": 1756299743,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94799,
+        "num": 104982,
+        "word": "花海战至巅峰上场比赛",
+        "onboard_time": 1756296384,
+        "rank": 49,
+        "category": "综艺,电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬两国要更加坚定地站在一起#"
+    }
+  }
+}
