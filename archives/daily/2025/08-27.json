@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756269816468,
+  "endTime": 1756272287103,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -155,6 +155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 626368,
+      "num": 626368,
+      "word": "宗馥莉回应娃哈哈争议问题",
+      "onboard_time": 1756270283,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 622220,
       "num": 382034,
       "word": "胡歌张若昀成毅肖战S加男演员",
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 542871,
+      "num": 258828,
+      "word": "王星越你不要闹到何晟铭面前",
+      "onboard_time": 1756270763,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529642,
       "num": 274215,
       "word": "建议朋友圈一定要当天发",
@@ -192,6 +208,14 @@
       "word": "女子买旗袍怀疑自己买到了寿衣",
       "onboard_time": 1756250118,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 504644,
+      "num": 258812,
+      "word": "小三47次转250和438侮辱原配",
+      "onboard_time": 1756269863,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -387,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275861,
+      "num": 275861,
+      "word": "西南大学 外卖垄断",
+      "onboard_time": 1756270402,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267234,
       "num": 274639,
       "word": "受阅部队又一批新画面解锁",
@@ -401,6 +433,14 @@
       "onboard_time": 1756263081,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 258786,
+      "num": 258786,
+      "word": "生万物前11集片头没有迟蓬",
+      "onboard_time": 1756269263,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 248676,
@@ -467,8 +507,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 213528,
-      "num": 213528,
+      "raw_hot": 215826,
+      "num": 215826,
       "word": "王者荣耀",
       "onboard_time": 1756269383,
       "rank": 31,
@@ -481,6 +521,14 @@
       "onboard_time": 1756203742,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212126,
+      "num": 237324,
+      "word": "鹿晗南昌演唱会官宣嘉宾邓超",
+      "onboard_time": 1756271424,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 210245,
@@ -539,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192966,
+      "num": 192966,
+      "word": "原神",
+      "onboard_time": 1756271904,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190591,
       "num": 190591,
       "word": "iPhone17ProMax手机壳最新曝光",
@@ -587,6 +643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184364,
+      "num": 184364,
+      "word": "孙颖莎中国女性设计师封面",
+      "onboard_time": 1756271604,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184243,
       "num": 184243,
       "word": "技术这个词让我们想到了孙颖莎",
@@ -625,6 +689,22 @@
       "onboard_time": 1756262361,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178520,
+      "num": 244080,
+      "word": "台积电被曝停用大陆设备",
+      "onboard_time": 1756270943,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 177542,
+      "num": 177542,
+      "word": "孙颖莎王楚钦混双出战",
+      "onboard_time": 1756271482,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 177103,
@@ -699,6 +779,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163118,
+      "num": 163118,
+      "word": "哥哥因病离世弟弟又确诊罕见病",
+      "onboard_time": 1756271065,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163002,
+      "num": 233028,
+      "word": "陶喆巡演从无人投资到一票难求",
+      "onboard_time": 1756271783,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162331,
       "num": 162331,
       "word": "冷空气和秋雨搭伙来了",
@@ -745,6 +841,14 @@
       "onboard_time": 1756265181,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157480,
+      "num": 230374,
+      "word": "郭聪明自曝解约赔了2000万",
+      "onboard_time": 1756270523,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 157187,
@@ -795,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151461,
+      "num": 151461,
+      "word": "月薪5千和1万5差别",
+      "onboard_time": 1756270043,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150816,
       "num": 150816,
       "word": "张凌赫出道5年了",
@@ -827,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145649,
+      "num": 145649,
+      "word": "bighit对朴智旻恋情的态度",
+      "onboard_time": 1756271962,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144977,
       "num": 144977,
       "word": "当9月1日恰逢星期一",
@@ -843,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142720,
+      "num": 142720,
+      "word": "母亲的愧疚式教育逼疯儿子",
+      "onboard_time": 1756271542,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142638,
       "num": 142638,
       "word": "刚出生13天的宝宝突然吐奶卡住喉咙",
@@ -857,6 +985,14 @@
       "onboard_time": 1756253841,
       "rank": 36,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 141454,
+      "num": 141454,
+      "word": "WTT中国大满贯2025双打名单",
+      "onboard_time": 1756272143,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 139226,
@@ -876,7 +1012,7 @@
     },
     {
       "raw_hot": 137714,
-      "num": 137714,
+      "num": 156825,
       "word": "中产家长卷不动暑期旅游了",
       "onboard_time": 1756265962,
       "rank": 43,
@@ -921,6 +1057,14 @@
       "onboard_time": 1756250899,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133635,
+      "num": 133635,
+      "word": "肖战易烊千玺老歌回忆杀",
+      "onboard_time": 1756270283,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 131712,
@@ -1096,6 +1240,14 @@
       "word": "苏州取消市区范围内新建商品住房2年限售",
       "onboard_time": 1756260382,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104007,
+      "num": 222129,
+      "word": "杭州地铁两女子疑因行乞嫌少发飙",
+      "onboard_time": 1756270943,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1291,6 +1443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80074,
+      "num": 163140,
+      "word": "29名日本人在柬埔寨电诈被抓",
+      "onboard_time": 1756272261,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 80004,
       "num": 80004,
       "word": "深圳欢乐谷被指有擦边表演",
@@ -1307,12 +1467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76700,
+      "num": 219640,
+      "word": "何广智传统脱口秀的美感",
+      "onboard_time": 1756270643,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73403,
       "num": 127820,
       "word": "林俊杰成龙首度合作",
       "onboard_time": 1756255883,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 73329,
+      "num": 258873,
+      "word": "宗馥莉谈民营企业接班",
+      "onboard_time": 1756271065,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71761,
@@ -1395,14 +1571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58321,
-      "num": 245329,
-      "word": "生万物前11集片头没有迟蓬",
-      "onboard_time": 1756269263,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56371,
       "num": 56371,
       "word": "王楚钦何超欣同框",
@@ -1443,6 +1611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 47873,
+      "num": 163119,
+      "word": "9.9元延误险 彩票",
+      "onboard_time": 1756271604,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46384,
       "num": 181381,
       "word": "员工患病拒上夜班被解雇获赔12万元",
@@ -1465,6 +1641,14 @@
       "onboard_time": 1756204884,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43979,
+      "num": 258846,
+      "word": "云冈石窟的神来之笔",
+      "onboard_time": 1756270883,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43907,
