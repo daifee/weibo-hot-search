@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756312339721,
+  "endTime": 1756313191003,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -3323,6 +3323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294174,
+      "num": 175424,
+      "word": "王鹤棣黑粉致歉声明",
+      "onboard_time": 1756308683,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293117,
       "num": 293117,
       "word": "睡眠邪修大法",
@@ -3545,14 +3553,6 @@
       "onboard_time": 1756263081,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 267010,
-      "num": 175424,
-      "word": "王鹤棣黑粉致歉声明",
-      "onboard_time": 1756308683,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 266868,
@@ -3849,6 +3849,14 @@
       "onboard_time": 1756033644,
       "rank": 27,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 244509,
+      "num": 244509,
+      "word": "毒犯整容逃亡因耳朵落网",
+      "onboard_time": 1756308564,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 243759,
@@ -6337,14 +6345,6 @@
       "onboard_time": 1756307485,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169443,
-      "num": 169443,
-      "word": "毒犯整容逃亡因耳朵落网",
-      "onboard_time": 1756308564,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 169416,
@@ -13235,6 +13235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64137,
+      "num": 72144,
+      "word": "26岁女子欲离婚遭丈夫残忍杀害案续",
+      "onboard_time": 1756312939,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63914,
       "num": 338761,
       "word": "上海迪士尼将新增更多中间票价",
@@ -13289,6 +13297,14 @@
       "onboard_time": 1756297884,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62092,
+      "num": 144257,
+      "word": "梁王组合晋级世锦赛16强",
+      "onboard_time": 1756312699,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 61714,
@@ -13659,6 +13675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53373,
+      "num": 175105,
+      "word": "官方回应男子三亚游泳溺水",
+      "onboard_time": 1756311980,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53173,
       "num": 311177,
       "word": "深圳45年的封神之路",
@@ -14000,14 +14024,6 @@
       "word": "控烟是控烟 鲁迅是鲁迅",
       "onboard_time": 1756293563,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45433,
-      "num": 175105,
-      "word": "官方回应男子三亚游泳溺水",
-      "onboard_time": 1756311980,
-      "rank": 14,
       "category": "民生新闻"
     },
     {

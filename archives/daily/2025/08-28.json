@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756312339721,
+  "endTime": 1756313191003,
   "band_list": [
     {
       "raw_hot": 775905,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294174,
+      "num": 175424,
+      "word": "王鹤棣黑粉致歉声明",
+      "onboard_time": 1756308683,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289550,
       "num": 176787,
       "word": "网红白冰三个月瘦了50斤",
@@ -75,20 +83,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 267010,
-      "num": 175424,
-      "word": "王鹤棣黑粉致歉声明",
-      "onboard_time": 1756308683,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254881,
       "num": 174280,
       "word": "张馨予 姐不是一直在内娱吗",
       "onboard_time": 1756295064,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244509,
+      "num": 244509,
+      "word": "毒犯整容逃亡因耳朵落网",
+      "onboard_time": 1756308564,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 243537,
@@ -137,14 +145,6 @@
       "onboard_time": 1756303406,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169443,
-      "num": 169443,
-      "word": "毒犯整容逃亡因耳朵落网",
-      "onboard_time": 1756308564,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 165355,
@@ -203,20 +203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128843,
+      "num": 145088,
+      "word": "郑佩佩儿子为妻子再次众筹医药费",
+      "onboard_time": 1756303285,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127125,
       "num": 127125,
       "word": "直播公司围猎初中辍学农村女孩",
       "onboard_time": 1756306765,
       "rank": 30,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 119788,
-      "num": 129559,
-      "word": "郑佩佩儿子为妻子再次众筹医药费",
-      "onboard_time": 1756303285,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 110842,
@@ -339,6 +339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72434,
+      "num": 85281,
+      "word": "男子花6元中1800万彩票店老板发声",
+      "onboard_time": 1756298365,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68322,
       "num": 85287,
       "word": "深圳多部门回应小区现隐藏豪华建筑",
@@ -355,20 +363,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 66687,
-      "num": 85281,
-      "word": "男子花6元中1800万彩票店老板发声",
-      "onboard_time": 1756298365,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64361,
       "num": 85280,
       "word": "老人银行存12万被办成保险",
       "onboard_time": 1756301664,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64137,
+      "num": 72144,
+      "word": "26岁女子欲离婚遭丈夫残忍杀害案续",
+      "onboard_time": 1756312939,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62299,
+      "num": 72115,
+      "word": "豪华品牌发起反攻",
+      "onboard_time": 1756312401,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 62142,
@@ -379,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 62092,
+      "num": 144257,
+      "word": "梁王组合晋级世锦赛16强",
+      "onboard_time": 1756312699,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60182,
       "num": 85273,
       "word": "王栎鑫常德把妹王",
@@ -387,7 +411,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45433,
+      "raw_hot": 58466,
+      "num": 72072,
+      "word": "巴西网红零下5度穿比基尼被冻伤",
+      "onboard_time": 1756301485,
+      "rank": 47,
+      "category": "海外新闻,网红"
+    },
+    {
+      "raw_hot": 53373,
       "num": 175105,
       "word": "官方回应男子三亚游泳溺水",
       "onboard_time": 1756311980,
@@ -395,7 +427,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36641,
+      "raw_hot": 37565,
       "num": 609158,
       "word": "中国蓝盔卫士亮相九三阅兵",
       "onboard_time": 1756288462,
