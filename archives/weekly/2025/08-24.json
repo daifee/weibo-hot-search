@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756302336770,
+  "endTime": 1756304692099,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -64,6 +64,14 @@
       "word": "郑恺小姨子回应",
       "onboard_time": 1756264222,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2451605,
+      "num": 364214,
+      "word": "虞书欣买奢侈品用现金",
+      "onboard_time": 1756301844,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1363,6 +1371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 636415,
+      "num": 636415,
+      "word": "樊振东祝福霉霉订婚",
+      "onboard_time": 1756300526,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 635075,
       "num": 315075,
       "word": "陈乔恩艾伦娱乐圈文照进现实",
@@ -1747,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551095,
+      "num": 347936,
+      "word": "认不出这是王祖贤",
+      "onboard_time": 1756301125,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547556,
       "num": 273014,
       "word": "杜淳老婆否认是宋慧乔替身",
@@ -1769,14 +1793,6 @@
       "onboard_time": 1756189103,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 545474,
-      "num": 545474,
-      "word": "樊振东祝福霉霉订婚",
-      "onboard_time": 1756300526,
-      "rank": 20,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 544087,
@@ -1915,20 +1931,20 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 519508,
-      "num": 364214,
-      "word": "虞书欣买奢侈品用现金",
-      "onboard_time": 1756301844,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 517821,
       "num": 497567,
       "word": "袁昊否认与赵昭仪恋情",
       "onboard_time": 1756106243,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 517033,
+      "num": 517033,
+      "word": "美团利润大跌89%",
+      "onboard_time": 1756299262,
+      "rank": 27,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 514830,
@@ -2273,14 +2289,6 @@
       "onboard_time": 1756272983,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 447022,
-      "num": 447022,
-      "word": "美团利润大跌89%",
-      "onboard_time": 1756299262,
-      "rank": 27,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 446561,
@@ -3203,6 +3211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301889,
+      "num": 301889,
+      "word": "张伦硕报警",
+      "onboard_time": 1756301844,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301520,
       "num": 301520,
       "word": "王玉雯说刘宇宁演唱会票老难抢了",
@@ -3305,6 +3321,14 @@
       "onboard_time": 1756010121,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 286485,
+      "num": 286485,
+      "word": "女子幽闭恐惧症隧道内弃车行走",
+      "onboard_time": 1756300584,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284732,
@@ -3715,6 +3739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246502,
+      "num": 246502,
+      "word": "梓渝曾气胸",
+      "onboard_time": 1756302204,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246394,
       "num": 371202,
       "word": "女子心脏骤停晕倒医护人员飞奔救人",
@@ -3915,6 +3947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 233453,
+      "num": 233453,
+      "word": "晚宴上的Angelababy",
+      "onboard_time": 1756303165,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 233190,
       "num": 233190,
       "word": "张万森 下爸爸了",
@@ -3937,6 +3977,14 @@
       "onboard_time": 1755990918,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232443,
+      "num": 232443,
+      "word": "吴慷仁邵雨薇约会",
+      "onboard_time": 1756303585,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 232178,
@@ -4081,14 +4129,6 @@
       "onboard_time": 1755961408,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220534,
-      "num": 220534,
-      "word": "认不出这是王祖贤",
-      "onboard_time": 1756301125,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 220322,
@@ -4443,12 +4483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207884,
+      "num": 207884,
+      "word": "许凯新剧恋爱基础进度就不基础",
+      "onboard_time": 1756304065,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207295,
       "num": 192562,
       "word": "月亮姐姐 我没有产后抑郁症",
       "onboard_time": 1756007901,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207110,
+      "num": 207110,
+      "word": "樊振东回应是否回国家队打球",
+      "onboard_time": 1756301725,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 206808,
@@ -4497,6 +4553,22 @@
       "onboard_time": 1756040305,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205050,
+      "num": 173487,
+      "word": "Angelababy把不同的奶茶店都点了一遍",
+      "onboard_time": 1756304486,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204524,
+      "num": 204524,
+      "word": "王鹤棣告黑以非判决方式结案",
+      "onboard_time": 1756304306,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 204489,
@@ -5251,14 +5323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190009,
-      "num": 190009,
-      "word": "女子幽闭恐惧症隧道内弃车行走",
-      "onboard_time": 1756300584,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189715,
       "num": 189715,
       "word": "Rapeter哭了",
@@ -5835,14 +5899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 178326,
-      "num": 178326,
-      "word": "张伦硕报警",
-      "onboard_time": 1756301844,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178034,
       "num": 316401,
       "word": "警方通报女童被康复机构老师殴打",
@@ -5872,14 +5928,6 @@
       "word": "孙颖莎王楚钦混双出战",
       "onboard_time": 1756271482,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177539,
-      "num": 177539,
-      "word": "樊振东回应是否回国家队打球",
-      "onboard_time": 1756301725,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -6297,6 +6345,14 @@
       "onboard_time": 1756266502,
       "rank": 43,
       "category": "幽默,运动健身"
+    },
+    {
+      "raw_hot": 168238,
+      "num": 168238,
+      "word": "中国女排3比0多米尼加女排",
+      "onboard_time": 1756304426,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 168040,
@@ -6899,6 +6955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157211,
+      "num": 157211,
+      "word": "老人银行存12万被办成保险",
+      "onboard_time": 1756301664,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157187,
       "num": 193143,
       "word": "1名游客蹦极掉水里景区已停业",
@@ -6953,6 +7017,22 @@
       "onboard_time": 1756012883,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156377,
+      "num": 156377,
+      "word": "狼队连拿三分到赛点",
+      "onboard_time": 1756304486,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 156220,
+      "num": 156220,
+      "word": "男子花6元中1800万彩票店老板发声",
+      "onboard_time": 1756298365,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156092,
@@ -7379,14 +7459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150478,
-      "num": 150478,
-      "word": "梓渝曾气胸",
-      "onboard_time": 1756302204,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150327,
       "num": 150327,
       "word": "一代人有一代人的好物要晒",
@@ -7409,14 +7481,6 @@
       "onboard_time": 1756052662,
       "rank": 14,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 150098,
-      "num": 150098,
-      "word": "男子花6元中1800万彩票店老板发声",
-      "onboard_time": 1756298365,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150054,
@@ -8636,7 +8700,7 @@
     },
     {
       "raw_hot": 132972,
-      "num": 132972,
+      "num": 351515,
       "word": "13岁男孩患8种绝症写信求妈妈弃疗",
       "onboard_time": 1756292783,
       "rank": 32,
@@ -8793,6 +8857,14 @@
       "onboard_time": 1756010782,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131187,
+      "num": 131187,
+      "word": "陈乔恩谈这辈子最勇敢的事",
+      "onboard_time": 1756303406,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 131174,
@@ -9017,6 +9089,14 @@
       "onboard_time": 1756187604,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129185,
+      "num": 129185,
+      "word": "巴西网红零下5度穿比基尼被冻伤",
+      "onboard_time": 1756301485,
+      "rank": 44,
+      "category": "海外新闻,网红"
     },
     {
       "raw_hot": 129133,
@@ -9739,6 +9819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121194,
+      "num": 121194,
+      "word": "郑佩佩儿子为妻子再次众筹医药费",
+      "onboard_time": 1756303285,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120912,
       "num": 120912,
       "word": "无畏契约",
@@ -9945,6 +10033,14 @@
       "onboard_time": 1756259061,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118910,
+      "num": 129495,
+      "word": "战至巅峰挑战赛强度也是T0级别",
+      "onboard_time": 1756303885,
+      "rank": 41,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 118906,
@@ -10441,14 +10537,6 @@
       "onboard_time": 1756201822,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112976,
-      "num": 112976,
-      "word": "巴西网红零下5度穿比基尼被冻伤",
-      "onboard_time": 1756301485,
-      "rank": 44,
-      "category": "海外新闻,网红"
     },
     {
       "raw_hot": 112711,
@@ -11177,6 +11265,14 @@
       "onboard_time": 1756256663,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103709,
+      "num": 131181,
+      "word": "爱德华兹中国行排面拉满",
+      "onboard_time": 1756302626,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 103607,
@@ -12875,6 +12971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64269,
+      "num": 1126958,
+      "word": "中国蓝盔卫士亮相九三阅兵",
+      "onboard_time": 1756288462,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63914,
       "num": 338761,
       "word": "上海迪士尼将新增更多中间票价",
@@ -13395,6 +13499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51204,
+      "num": 287366,
+      "word": "旅行小房车就选山海L7PLUS",
+      "onboard_time": 1756302626,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 51169,
       "num": 129730,
       "word": "履职事项清单让基层对超载任务说不",
@@ -13491,14 +13603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48639,
-      "num": 122442,
-      "word": "老人银行存12万被办成保险",
-      "onboard_time": 1756301664,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48513,
       "num": 310349,
       "word": "杭州地标为城市骑士点亮",
@@ -13553,14 +13657,6 @@
       "onboard_time": 1756098084,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46664,
-      "num": 1126958,
-      "word": "中国蓝盔卫士亮相九三阅兵",
-      "onboard_time": 1756288462,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46562,
@@ -14081,6 +14177,14 @@
       "onboard_time": 1756001482,
       "rank": 29,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 33801,
+      "num": 121256,
+      "word": "某茶饮宣传30天餐前血糖15降至5",
+      "onboard_time": 1756303285,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33689,
@@ -14783,6 +14887,14 @@
       "num": 132083,
       "word": "剑鱼或成影响三亚的最强台风之一",
       "onboard_time": 1755969500,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19276,
+      "num": 130004,
+      "word": "女子高空安装空调外机",
+      "onboard_time": 1756304306,
       "rank": 40,
       "category": "民生新闻"
     },

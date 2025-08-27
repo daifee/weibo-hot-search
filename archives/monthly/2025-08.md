@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/27 21:45:36
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/27 22:24:52
 </p>
 </blockquote>
 <p>
@@ -563,6 +563,12 @@ Zara广告因模特太瘦被禁（热度：2585697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A3%B8%E7%9D%A1%E8%A2%AB%E7%9C%8B%E5%85%89%E5%A5%B3%E5%AD%90%E6%82%A3%E6%8A%91%E9%83%81%E4%B8%88%E5%A4%AB%E8%BF%BD%E8%B4%A3%E5%85%AC%E5%AF%93%23" target="weibo">
 裸睡被看光女子患抑郁丈夫追责公寓（热度：2460977）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B9%B0%E5%A5%A2%E4%BE%88%E5%93%81%E7%94%A8%E7%8E%B0%E9%87%91%23" target="weibo">
+虞书欣买奢侈品用现金（热度：2451605）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E8%AE%A4%E8%AF%81%E7%9A%84%E4%B8%89%E9%83%A8%E7%88%86%E5%89%A7%23" target="weibo">
 爱奇艺认证的三部爆剧（热度：729539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%8F%91%E4%BA%86%E8%82%96%E6%88%98%23" target="weibo">
-赵立坚发了肖战（热度：729382）
 </a>
 </li>
 
