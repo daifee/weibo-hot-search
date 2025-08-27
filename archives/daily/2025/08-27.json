@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756293703051,
+  "endTime": 1756294601079,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -187,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 959312,
+      "num": 1153489,
+      "word": "外交部回应李在明涉华言论",
+      "onboard_time": 1756290084,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 949498,
       "num": 949498,
       "word": "宝格丽 张元英",
@@ -217,14 +225,6 @@
       "onboard_time": 1756276582,
       "rank": 30,
       "category": "财经,休闲"
-    },
-    {
-      "raw_hot": 797421,
-      "num": 1127587,
-      "word": "外交部回应李在明涉华言论",
-      "onboard_time": 1756290084,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 776874,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 739426,
+      "num": 188918,
+      "word": "小海绵问Angelababy好不好看",
+      "onboard_time": 1756292003,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 716717,
       "num": 314172,
       "word": "梓渝的褪黑素也不是原唱",
@@ -281,14 +289,6 @@
       "onboard_time": 1756270283,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 672258,
-      "num": 188918,
-      "word": "小海绵问Angelababy好不好看",
-      "onboard_time": 1756292003,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 662195,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448505,
+      "num": 448505,
+      "word": "宋亚轩 敬山水",
+      "onboard_time": 1756290743,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 447825,
       "num": 447825,
       "word": "喜茶称反式脂肪酸最高证明真奶最多",
@@ -505,14 +513,6 @@
       "onboard_time": 1756256303,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 408709,
-      "num": 429047,
-      "word": "宋亚轩 敬山水",
-      "onboard_time": 1756290743,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 406405,
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212576,
+      "num": 176747,
+      "word": "15岁高一女生参加军训时不幸身亡",
+      "onboard_time": 1756290384,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212126,
       "num": 237324,
       "word": "鹿晗南昌演唱会官宣嘉宾邓超",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1756268003,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 188503,
+      "num": 189267,
+      "word": "外交部称中国坚持自卫防御核战略",
+      "onboard_time": 1756291883,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 187869,
@@ -1219,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173233,
-      "num": 173233,
-      "word": "15岁高一女生参加军训时不幸身亡",
-      "onboard_time": 1756290384,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172976,
       "num": 172976,
       "word": "其实很多癌症是省出来的",
@@ -1315,6 +1323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162824,
+      "num": 162824,
+      "word": "SEVENTEEN刀马大比拼",
+      "onboard_time": 1756291645,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162331,
       "num": 602641,
       "word": "冷空气和秋雨搭伙来了",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1756265181,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158257,
+      "num": 158257,
+      "word": "迪丽热巴这个探头",
+      "onboard_time": 1756293804,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 157480,
@@ -1587,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146031,
+      "num": 146031,
+      "word": "男子藏1.5万私房钱压垮天花板",
+      "onboard_time": 1756290324,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145854,
       "num": 145854,
       "word": "WBG战胜JDG",
@@ -1649,14 +1681,6 @@
       "onboard_time": 1756268844,
       "rank": 47,
       "category": "母婴育儿,民生新闻"
-    },
-    {
-      "raw_hot": 142529,
-      "num": 189267,
-      "word": "外交部称中国坚持自卫防御核战略",
-      "onboard_time": 1756291883,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 142237,
@@ -1819,6 +1843,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133186,
+      "num": 191440,
+      "word": "全新小鹏P7太火了",
+      "onboard_time": 1756290204,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 132972,
+      "num": 132972,
+      "word": "13岁男孩患8种绝症写信求妈妈弃疗",
+      "onboard_time": 1756292783,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132805,
+      "num": 132805,
+      "word": "店主保管客户彩票中1800万连夜报喜",
+      "onboard_time": 1756293024,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132657,
       "num": 132657,
       "word": "王影璐离开浪浪山进了三圣山",
@@ -1875,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130118,
+      "num": 162823,
+      "word": "进去一个张晚意 出来七个张晚意",
+      "onboard_time": 1756291464,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129310,
       "num": 129310,
       "word": "有一种精神叫不屈",
@@ -1897,14 +1953,6 @@
       "onboard_time": 1756275442,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128866,
-      "num": 128866,
-      "word": "13岁男孩患8种绝症写信求妈妈弃疗",
-      "onboard_time": 1756292783,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127815,
@@ -1979,14 +2027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124321,
-      "num": 144181,
-      "word": "男子藏1.5万私房钱压垮天花板",
-      "onboard_time": 1756290324,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123947,
       "num": 132299,
       "word": "陈飞宇说献鱼破万就演同人文",
@@ -2001,6 +2041,14 @@
       "onboard_time": 1756290324,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123562,
+      "num": 123562,
+      "word": "姚润昊和叠纸不止有事业运",
+      "onboard_time": 1756293684,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 123155,
@@ -2099,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119888,
+      "num": 194949,
+      "word": "深圳万架无人机灯光秀来了",
+      "onboard_time": 1756293684,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119185,
       "num": 115020,
       "word": "Angelababy温柔的代名词",
@@ -2113,22 +2169,6 @@
       "onboard_time": 1756259061,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118900,
-      "num": 191440,
-      "word": "全新小鹏P7太火了",
-      "onboard_time": 1756290204,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 118674,
-      "num": 118674,
-      "word": "店主保管客户彩票中1800万连夜报喜",
-      "onboard_time": 1756293024,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118283,
@@ -2161,14 +2201,6 @@
       "onboard_time": 1756282343,
       "rank": 49,
       "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 115428,
-      "num": 124929,
-      "word": "SEVENTEEN刀马大比拼",
-      "onboard_time": 1756291645,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 114148,
@@ -2235,14 +2267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109224,
-      "num": 109224,
-      "word": "姚润昊和叠纸不止有事业运",
-      "onboard_time": 1756293684,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 109187,
       "num": 118035,
       "word": "献鱼",
@@ -2299,14 +2323,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 105690,
-      "num": 105690,
-      "word": "进去一个张晚意 出来七个张晚意",
-      "onboard_time": 1756291464,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105350,
       "num": 105350,
       "word": "苏州取消市区范围内新建商品住房2年限售",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1756287624,
       "rank": 49,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 104843,
+      "num": 104843,
+      "word": "七夕连公交车都装扮上了",
+      "onboard_time": 1756294524,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 103882,
@@ -2683,14 +2707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63960,
-      "num": 121617,
-      "word": "深圳万架无人机灯光秀来了",
-      "onboard_time": 1756293684,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61735,
       "num": 61735,
       "word": "梓渝 时装男士",
@@ -2795,6 +2811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48326,
+      "num": 124510,
+      "word": "广西云南艾滋纳入婚检",
+      "onboard_time": 1756294104,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47873,
       "num": 163119,
       "word": "9.9元延误险 彩票",
@@ -2825,6 +2849,14 @@
       "onboard_time": 1756272623,
       "rank": 9,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 45583,
+      "num": 180020,
+      "word": "控烟是控烟 鲁迅是鲁迅",
+      "onboard_time": 1756293563,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45303,
@@ -2896,6 +2928,14 @@
       "word": "西南大学外卖指定平台方曾被罚5万",
       "onboard_time": 1756290682,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39282,
+      "num": 162654,
+      "word": "患癌女律师被爱康索赔千万最新进展",
+      "onboard_time": 1756294343,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2971,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29518,
+      "num": 188656,
+      "word": "年轻化表达会稀释文化厚度吗",
+      "onboard_time": 1756292482,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29023,
       "num": 363718,
       "word": "商城遗址考古70年",
@@ -2984,14 +3032,6 @@
       "word": "游客蹦极坠落涉事公司成立于1998年",
       "onboard_time": 1756276282,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28141,
-      "num": 157419,
-      "word": "控烟是控烟 鲁迅是鲁迅",
-      "onboard_time": 1756293563,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3067,14 +3107,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21472,
-      "num": 188656,
-      "word": "年轻化表达会稀释文化厚度吗",
-      "onboard_time": 1756292482,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 21109,
       "num": 132721,
       "word": "仪仗女兵说誓做军中花木兰",
@@ -3137,6 +3169,14 @@
       "onboard_time": 1756236314,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10567,
+      "num": 125758,
+      "word": "闪耀吧郑州非遗",
+      "onboard_time": 1756289124,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 8056,

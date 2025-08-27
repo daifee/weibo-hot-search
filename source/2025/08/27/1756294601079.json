@@ -1,0 +1,410 @@
+{
+  "runTime": 1756294601079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 959312,
+        "num": 1153489,
+        "word": "外交部回应李在明涉华言论",
+        "onboard_time": 1756290084,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 742100,
+        "num": 742100,
+        "word": "北京全市已转移5.8万人",
+        "onboard_time": 1756282403,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36023,
+        "num": 511494,
+        "word": "冷空气和秋雨搭伙来了",
+        "onboard_time": 1756262961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448505,
+        "num": 448505,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1756290743,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397268,
+        "num": 397268,
+        "word": "蒋奇明 我没空跟你谈恋爱",
+        "onboard_time": 1756287803,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322541,
+        "num": 322541,
+        "word": "杨靖宇烈士牺牲确切时间地点确认",
+        "onboard_time": 1756286363,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220218,
+        "num": 220218,
+        "word": "33万被骗子划走竟没发现",
+        "onboard_time": 1756286544,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208594,
+        "num": 208594,
+        "word": "iPhone17全系价格曝光",
+        "onboard_time": 1756255162,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203133,
+        "num": 203133,
+        "word": "敬山水",
+        "onboard_time": 1756288404,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119888,
+        "num": 194949,
+        "word": "深圳万架无人机灯光秀来了",
+        "onboard_time": 1756293684,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2229883,
+        "num": 193045,
+        "word": "虞书欣与其父不存在直接商业关联",
+        "onboard_time": 1756289663,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014944,
+        "num": 190997,
+        "word": "疑似何穗退圈",
+        "onboard_time": 1756286725,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188503,
+        "num": 188503,
+        "word": "外交部称中国坚持自卫防御核战略",
+        "onboard_time": 1756291883,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 739426,
+        "num": 187231,
+        "word": "小海绵问Angelababy好不好看",
+        "onboard_time": 1756292003,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29518,
+        "num": 186424,
+        "word": "年轻化表达会稀释文化厚度吗",
+        "onboard_time": 1756292482,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1078344,
+        "num": 185209,
+        "word": "虞书欣7天掉粉72万",
+        "onboard_time": 1756292904,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411028,
+        "num": 183524,
+        "word": "蜜鼠冰城",
+        "onboard_time": 1756284384,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380720,
+        "num": 181788,
+        "word": "00后两男生开房住宿留下满床辣条油",
+        "onboard_time": 1756277844,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303506,
+        "num": 181185,
+        "word": "霉霉孩子出生就得有一米吧",
+        "onboard_time": 1756273702,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45583,
+        "num": 180020,
+        "word": "控烟是控烟 鲁迅是鲁迅",
+        "onboard_time": 1756293563,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278418,
+        "num": 178201,
+        "word": "孙千予解约",
+        "onboard_time": 1756287864,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212576,
+        "num": 176747,
+        "word": "15岁高一女生参加军训时不幸身亡",
+        "onboard_time": 1756290384,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205300,
+        "num": 174706,
+        "word": "赵丽颖曾让保镖一起撑伞躲雨",
+        "onboard_time": 1756287563,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203208,
+        "num": 173150,
+        "word": "吴雅婷带孩子搬离上海",
+        "onboard_time": 1756283302,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173142,
+        "num": 173142,
+        "word": "梓渝的褪黑素也不是原唱",
+        "onboard_time": 1756282224,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162824,
+        "num": 162824,
+        "word": "SEVENTEEN刀马大比拼",
+        "onboard_time": 1756291645,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130118,
+        "num": 162823,
+        "word": "进去一个张晚意 出来七个张晚意",
+        "onboard_time": 1756291464,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122179,
+        "num": 162763,
+        "word": "刘轩丞工作室开通",
+        "onboard_time": 1756290503,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39282,
+        "num": 162654,
+        "word": "患癌女律师被爱康索赔千万最新进展",
+        "onboard_time": 1756294343,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58176,
+        "num": 162624,
+        "word": "西南大学回应学生可点其他外卖",
+        "onboard_time": 1756288284,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162588,
+        "num": 162588,
+        "word": "杭州男子当街殴打出轨男女",
+        "onboard_time": 1756287024,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158257,
+        "num": 158257,
+        "word": "迪丽热巴这个探头",
+        "onboard_time": 1756293804,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146031,
+        "num": 146031,
+        "word": "男子藏1.5万私房钱压垮天花板",
+        "onboard_time": 1756290324,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133186,
+        "num": 133186,
+        "word": "全新小鹏P7太火了",
+        "onboard_time": 1756290204,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132972,
+        "num": 132972,
+        "word": "13岁男孩患8种绝症写信求妈妈弃疗",
+        "onboard_time": 1756292783,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132805,
+        "num": 132805,
+        "word": "店主保管客户彩票中1800万连夜报喜",
+        "onboard_time": 1756293024,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132763,
+        "num": 132763,
+        "word": "以色列宣布永久占领叙利亚新区域",
+        "onboard_time": 1756288224,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129100,
+        "num": 129100,
+        "word": "张百乔瘦了60斤",
+        "onboard_time": 1756277363,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10567,
+        "num": 125758,
+        "word": "闪耀吧郑州非遗",
+        "onboard_time": 1756289124,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48326,
+        "num": 124510,
+        "word": "广西云南艾滋纳入婚检",
+        "onboard_time": 1756294104,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123562,
+        "num": 123562,
+        "word": "姚润昊和叠纸不止有事业运",
+        "onboard_time": 1756293684,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116589,
+        "num": 116589,
+        "word": "无房无车无存款的38岁",
+        "onboard_time": 1756290324,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113738,
+        "num": 113738,
+        "word": "当代年轻人如何反向过七夕",
+        "onboard_time": 1756286843,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112244,
+        "num": 112244,
+        "word": "小海绵给angelababy打视频",
+        "onboard_time": 1756289722,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107350,
+        "num": 107350,
+        "word": "花5万买日本投降书原件",
+        "onboard_time": 1756285764,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107241,
+        "num": 107241,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1756293024,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105597,
+        "num": 105597,
+        "word": "阅读量上来以后最大的感受",
+        "onboard_time": 1756293264,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104843,
+        "num": 104843,
+        "word": "七夕连公交车都装扮上了",
+        "onboard_time": 1756294524,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104492,
+        "num": 104492,
+        "word": "徐穗珍回归",
+        "onboard_time": 1756292544,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103420,
+        "num": 103420,
+        "word": "T1战胜HLE",
+        "onboard_time": 1756293145,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬两国要更加坚定地站在一起#"
+    }
+  }
+}
