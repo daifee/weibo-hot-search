@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756322481731,
+  "endTime": 1756323400400,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -15219,6 +15219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19782,
+      "num": 20878,
+      "word": "上海月租650的房子",
+      "onboard_time": 1756321155,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 19626,
       "num": 150505,
       "word": "在厦门打开任意门",
@@ -15275,12 +15283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18598,
-      "num": 20878,
-      "word": "上海月租650的房子",
-      "onboard_time": 1756321155,
-      "rank": 42,
-      "category": "休闲"
+      "raw_hot": 18583,
+      "num": 51607,
+      "word": "民警救助隧道内幽闭恐惧症女子",
+      "onboard_time": 1756320075,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18412,
@@ -15299,14 +15307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18033,
-      "num": 51607,
-      "word": "民警救助隧道内幽闭恐惧症女子",
-      "onboard_time": 1756320075,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17764,
       "num": 97492,
       "word": "张淼怡终于找对风格了",
@@ -15321,6 +15321,14 @@
       "onboard_time": 1755910584,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17104,
+      "num": 18352,
+      "word": "何小鹏晒和雷军聊天记录",
+      "onboard_time": 1756322955,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 16626,
