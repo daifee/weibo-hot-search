@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756259612573,
+  "endTime": 1756260885973,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1804463,
-      "num": 1804463,
+      "raw_hot": 1848659,
+      "num": 1848659,
       "word": "iPhone17全系价格曝光",
       "onboard_time": 1756255162,
       "rank": 0,
@@ -67,20 +67,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 755832,
+      "num": 755832,
+      "word": "冰咖啡和热咖啡区别居然这么大",
+      "onboard_time": 1756255043,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 688724,
       "num": 258925,
       "word": "高端伴游 色情交易",
       "onboard_time": 1756210943,
       "rank": 11,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 661050,
-      "num": 661050,
-      "word": "冰咖啡和热咖啡区别居然这么大",
-      "onboard_time": 1756255043,
-      "rank": 1,
-      "category": "科学科普"
     },
     {
       "raw_hot": 634157,
@@ -91,7 +91,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 629057,
+      "raw_hot": 631756,
       "num": 193327,
       "word": "看小腿就知道你血糖超标了",
       "onboard_time": 1756257382,
@@ -113,6 +113,14 @@
       "onboard_time": 1756221026,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 591409,
+      "num": 591409,
+      "word": "高速副驾戴恐怖面具男子系外籍教师",
+      "onboard_time": 1756253663,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 522986,
@@ -147,14 +155,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 453873,
-      "num": 453873,
-      "word": "高速副驾戴恐怖面具男子系外籍教师",
-      "onboard_time": 1756253663,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 452825,
       "num": 452825,
       "word": "日本试图干涉九三阅兵在怕什么",
@@ -177,6 +177,14 @@
       "onboard_time": 1756228039,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429744,
+      "num": 429744,
+      "word": "苹果或将停售7款产品",
+      "onboard_time": 1756256303,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 385601,
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248676,
+      "num": 189101,
+      "word": "张维伊变化",
+      "onboard_time": 1756256062,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238352,
       "num": 238352,
       "word": "退款查账",
@@ -283,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216771,
-      "num": 189101,
-      "word": "张维伊变化",
-      "onboard_time": 1756256062,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213479,
       "num": 213479,
       "word": "黄景瑜前妻点赞了许荔莎",
@@ -313,14 +321,6 @@
       "onboard_time": 1756227679,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 199307,
-      "num": 199307,
-      "word": "苹果或将停售7款产品",
-      "onboard_time": 1756256303,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 193442,
@@ -491,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127815,
+      "num": 127815,
+      "word": "陈赫为鹿晗演唱会做美甲",
+      "onboard_time": 1756259901,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122602,
       "num": 122602,
       "word": "全球护照实力排名前三",
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109102,
+      "num": 128006,
+      "word": "张艺凡说田曦薇是白磷型人格",
+      "onboard_time": 1756260441,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107101,
       "num": 107101,
       "word": "奚梦瑶回宫",
@@ -553,6 +569,14 @@
       "onboard_time": 1756252521,
       "rank": 40,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 105350,
+      "num": 105350,
+      "word": "苏州取消市区范围内新建商品住房2年限售",
+      "onboard_time": 1756260382,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103882,
@@ -627,6 +651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 91789,
+      "num": 91789,
+      "word": "男子酒后练拳扒倒老人致其死亡",
+      "onboard_time": 1756259960,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90403,
       "num": 90403,
       "word": "王一珩生日请粉丝吃饭",
@@ -641,6 +673,14 @@
       "onboard_time": 1756251021,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88526,
+      "num": 88526,
+      "word": "外国母亲制止孩子霸凌自闭症男孩",
+      "onboard_time": 1756260201,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88504,
@@ -707,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81616,
+      "num": 294552,
+      "word": "高速戴面具男子向当事人道歉获谅解",
+      "onboard_time": 1756255583,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81409,
       "num": 81409,
       "word": "寒武纪上半年净赚超10亿元",
@@ -729,6 +777,14 @@
       "onboard_time": 1756192223,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73403,
+      "num": 127820,
+      "word": "林俊杰成龙首度合作",
+      "onboard_time": 1756255883,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 71761,
@@ -761,14 +817,6 @@
       "onboard_time": 1756222466,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68919,
-      "num": 88783,
-      "word": "林俊杰成龙首度合作",
-      "onboard_time": 1756255883,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 68625,
@@ -817,6 +865,14 @@
       "onboard_time": 1756251080,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54828,
+      "num": 85715,
+      "word": "种地吧",
+      "onboard_time": 1756252882,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 53800,
@@ -899,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30363,
+      "num": 641189,
+      "word": "网警守护开学季",
+      "onboard_time": 1756257022,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25391,
       "num": 75403,
       "word": "乘客回应国航一航班紧急备降俄罗斯",
@@ -913,14 +977,6 @@
       "onboard_time": 1756239016,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22309,
-      "num": 524502,
-      "word": "网警守护开学季",
-      "onboard_time": 1756257022,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21109,
