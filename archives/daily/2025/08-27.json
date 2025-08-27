@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756301663750,
+  "endTime": 1756302336770,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1977534,
-      "num": 352795,
+      "num": 369392,
       "word": "虞书欣7天掉粉72万",
       "onboard_time": 1756292904,
       "rank": 15,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 859461,
-      "num": 346569,
+      "num": 362686,
       "word": "张馨予 姐不是一直在内娱吗",
       "onboard_time": 1756295064,
       "rank": 11,
@@ -259,8 +259,16 @@
       "category": "财经,休闲"
     },
     {
+      "raw_hot": 800348,
+      "num": 368018,
+      "word": "郑佩佩儿媳乳腺癌恶化",
+      "onboard_time": 1756299865,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789809,
-      "num": 351199,
+      "num": 367113,
       "word": "网红白冰三个月瘦了50斤",
       "onboard_time": 1756296804,
       "rank": 13,
@@ -331,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 664244,
-      "num": 349125,
-      "word": "郑佩佩儿媳乳腺癌恶化",
-      "onboard_time": 1756299865,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 662195,
       "num": 285769,
       "word": "小三47次转250和438侮辱原配",
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600113,
+      "num": 600113,
+      "word": "野狗骨头",
+      "onboard_time": 1756299865,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 596430,
       "num": 219075,
       "word": "谢霆锋与大儿子Lucas同框合影",
@@ -427,7 +435,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 552673,
+      "raw_hot": 569264,
       "num": 377056,
       "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
       "onboard_time": 1756296444,
@@ -441,6 +449,14 @@
       "onboard_time": 1756280242,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545474,
+      "num": 545474,
+      "word": "樊振东祝福霉霉订婚",
+      "onboard_time": 1756300526,
+      "rank": 20,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 533187,
@@ -459,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 527221,
+      "num": 527221,
+      "word": "潘玮柏来来回回减1000斤了",
+      "onboard_time": 1756300104,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522986,
       "num": 381461,
       "word": "女子买旗袍怀疑自己买到了寿衣",
@@ -467,12 +491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 506373,
-      "num": 506373,
-      "word": "野狗骨头",
-      "onboard_time": 1756299865,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 519508,
+      "num": 364214,
+      "word": "虞书欣买奢侈品用现金",
+      "onboard_time": 1756301844,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 473492,
@@ -539,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447022,
+      "num": 447022,
+      "word": "美团利润大跌89%",
+      "onboard_time": 1756299262,
+      "rank": 27,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 443566,
       "num": 443566,
       "word": "33万被骗子划走竟没发现",
@@ -595,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 410305,
-      "num": 410305,
-      "word": "潘玮柏来来回回减1000斤了",
-      "onboard_time": 1756300104,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 406405,
       "num": 357225,
       "word": "樊振东你担订婚了",
@@ -657,14 +681,6 @@
       "onboard_time": 1756262901,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 354413,
-      "num": 354413,
-      "word": "美团利润大跌89%",
-      "onboard_time": 1756299262,
-      "rank": 27,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 353008,
@@ -769,14 +785,6 @@
       "onboard_time": 1756269263,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286073,
-      "num": 286073,
-      "word": "樊振东祝福霉霉订婚",
-      "onboard_time": 1756300526,
-      "rank": 20,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 284732,
@@ -947,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220534,
+      "num": 220534,
+      "word": "认不出这是王祖贤",
+      "onboard_time": 1756301125,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219615,
       "num": 219615,
       "word": "小米澎湃OS3发布会官宣",
@@ -977,6 +993,14 @@
       "onboard_time": 1756278923,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218217,
+      "num": 218217,
+      "word": "这才是相亲正确的打开方式",
+      "onboard_time": 1756302266,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 216064,
@@ -1131,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191610,
+      "num": 191610,
+      "word": "00后短剧女演员确诊胃癌",
+      "onboard_time": 1756301426,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190717,
       "num": 190717,
       "word": "黄羿cos武则天给我看静止了",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1756209923,
       "rank": 17,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 190009,
+      "num": 190009,
+      "word": "女子幽闭恐惧症隧道内弃车行走",
+      "onboard_time": 1756300584,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189258,
@@ -1331,11 +1371,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178326,
+      "num": 178326,
+      "word": "张伦硕报警",
+      "onboard_time": 1756301844,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177542,
       "num": 177542,
       "word": "孙颖莎王楚钦混双出战",
       "onboard_time": 1756271482,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177539,
+      "num": 177539,
+      "word": "樊振东回应是否回国家队打球",
+      "onboard_time": 1756301725,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1475,14 +1531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166305,
-      "num": 166305,
-      "word": "认不出这是王祖贤",
-      "onboard_time": 1756301125,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164748,
       "num": 164748,
       "word": "华晨宇吃虫子",
@@ -1520,14 +1568,6 @@
       "word": "冷空气和秋雨搭伙来了",
       "onboard_time": 1756262961,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162222,
-      "num": 162222,
-      "word": "女子幽闭恐惧症隧道内弃车行走",
-      "onboard_time": 1756300584,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1755,12 +1795,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150478,
+      "num": 150478,
+      "word": "梓渝曾气胸",
+      "onboard_time": 1756302204,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 150098,
+      "num": 150098,
+      "word": "男子花6元中1800万彩票店老板发声",
+      "onboard_time": 1756298365,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149983,
       "num": 149983,
       "word": "田曦薇过年收到的消息都还没回",
       "onboard_time": 1756210042,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149792,
+      "num": 149792,
+      "word": "韩磊方已报警",
+      "onboard_time": 1756301004,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 149548,
@@ -2011,14 +2075,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 135040,
-      "num": 142408,
-      "word": "00后短剧女演员确诊胃癌",
-      "onboard_time": 1756301426,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135006,
       "num": 135006,
       "word": "孙艺珍关闭ins小号",
@@ -2057,14 +2113,6 @@
       "onboard_time": 1756250899,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133799,
-      "num": 133799,
-      "word": "男子花6元中1800万彩票店老板发声",
-      "onboard_time": 1756298365,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133772,
@@ -2251,14 +2299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128780,
-      "num": 128780,
-      "word": "韩磊方已报警",
-      "onboard_time": 1756301004,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127815,
       "num": 127815,
       "word": "陈赫为鹿晗演唱会做美甲",
@@ -2435,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122163,
+      "num": 122163,
+      "word": "冯建宇 18的8掉了只剩1",
+      "onboard_time": 1756300945,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121729,
       "num": 138558,
       "word": "酒店隔断 雾化玻璃",
@@ -2464,14 +2512,6 @@
       "word": "叶舒华汉服",
       "onboard_time": 1756209083,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 120925,
-      "num": 120925,
-      "word": "冯建宇 18的8掉了只剩1",
-      "onboard_time": 1756300945,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -2579,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112976,
+      "num": 112976,
+      "word": "巴西网红零下5度穿比基尼被冻伤",
+      "onboard_time": 1756301485,
+      "rank": 44,
+      "category": "海外新闻,网红"
+    },
+    {
       "raw_hot": 112355,
       "num": 112355,
       "word": "寒武纪股价超茅台",
@@ -2609,14 +2657,6 @@
       "onboard_time": 1756259960,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111331,
-      "num": 111331,
-      "word": "巴西网红零下5度穿比基尼被冻伤",
-      "onboard_time": 1756301485,
-      "rank": 44,
-      "category": "海外新闻,网红"
     },
     {
       "raw_hot": 111310,
@@ -2769,6 +2809,14 @@
       "onboard_time": 1756281922,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98555,
+      "num": 98555,
+      "word": "台湾附近地震",
+      "onboard_time": 1756302266,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 98402,
@@ -3044,7 +3092,7 @@
     },
     {
       "raw_hot": 76599,
-      "num": 341950,
+      "num": 363807,
       "word": "全新小鹏P7全系Ultra",
       "onboard_time": 1756300945,
       "rank": 16,
@@ -3187,6 +3235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59314,
+      "num": 262120,
+      "word": "海南舰最新训练画面好燃",
+      "onboard_time": 1756301965,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59192,
       "num": 358185,
       "word": "苹果发布会邀请了京东JDG伞兵",
@@ -3283,12 +3339,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48639,
+      "num": 122442,
+      "word": "老人银行存12万被办成保险",
+      "onboard_time": 1756301664,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47873,
       "num": 163119,
       "word": "9.9元延误险 彩票",
       "onboard_time": 1756271604,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46664,
+      "num": 1126958,
+      "word": "中国蓝盔卫士亮相九三阅兵",
+      "onboard_time": 1756288462,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46384,
@@ -3531,14 +3603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26403,
-      "num": 1126958,
-      "word": "中国蓝盔卫士亮相九三阅兵",
-      "onboard_time": 1756288462,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26223,
       "num": 407479,
       "word": "麦积山石窟背后的无名工匠",
@@ -3665,6 +3729,14 @@
       "onboard_time": 1756289124,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10512,
+      "num": 365727,
+      "word": "中国故事如何打破壁垒走向世界",
+      "onboard_time": 1756301786,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8056,
