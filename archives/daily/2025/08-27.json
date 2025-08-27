@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756280314140,
+  "endTime": 1756283614312,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1220963,
+      "num": 1220963,
+      "word": "虞书欣起诉两公司侵权",
+      "onboard_time": 1756281024,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1110488,
       "num": 1110488,
       "word": "iPhone17新颜色",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 806076,
+      "num": 258614,
+      "word": "30万存款定律",
+      "onboard_time": 1756276582,
+      "rank": 30,
+      "category": "财经,休闲"
+    },
+    {
       "raw_hot": 776874,
       "num": 776874,
       "word": "景德镇做的杯子还是太超前了",
@@ -195,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647690,
+      "num": 462079,
+      "word": "再也不信明星推荐的美食了",
+      "onboard_time": 1756277723,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 634157,
       "num": 221307,
       "word": "吴京 狐狸京",
@@ -249,6 +273,22 @@
       "onboard_time": 1756253663,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 567492,
+      "num": 220147,
+      "word": "梓渝的褪黑素也不是原唱",
+      "onboard_time": 1756282224,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 547556,
+      "num": 218624,
+      "word": "杜淳老婆否认是宋慧乔替身",
+      "onboard_time": 1756280242,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 529642,
@@ -364,7 +404,7 @@
     },
     {
       "raw_hot": 388514,
-      "num": 335229,
+      "num": 360257,
       "word": "老庙黄金致歉",
       "onboard_time": 1756274363,
       "rank": 21,
@@ -515,14 +555,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 258614,
-      "num": 258614,
-      "word": "30万存款定律",
-      "onboard_time": 1756276582,
-      "rank": 30,
-      "category": "财经,休闲"
-    },
-    {
       "raw_hot": 257939,
       "num": 257939,
       "word": "田曦薇被确诊为田细微",
@@ -531,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249652,
-      "num": 336527,
-      "word": "再也不信明星推荐的美食了",
-      "onboard_time": 1756277723,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 249830,
+      "num": 213362,
+      "word": "北京全市已转移5.8万人",
+      "onboard_time": 1756282403,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248676,
@@ -611,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220998,
+      "num": 220998,
+      "word": "抗日战争胜利80周年纪念",
+      "onboard_time": 1756282762,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 219615,
       "num": 219615,
       "word": "小米澎湃OS3发布会官宣",
@@ -641,6 +681,14 @@
       "onboard_time": 1756278923,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217218,
+      "num": 217218,
+      "word": "云秀行",
+      "onboard_time": 1756280724,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 216064,
@@ -681,6 +729,14 @@
       "onboard_time": 1756267163,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209376,
+      "num": 209376,
+      "word": "妻子追回老公出轨赠与款被小三挑衅",
+      "onboard_time": 1756280183,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208722,
@@ -729,6 +785,14 @@
       "onboard_time": 1756267284,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194877,
+      "num": 159333,
+      "word": "吴雅婷带孩子搬离上海",
+      "onboard_time": 1756283302,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 192966,
@@ -915,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173042,
+      "num": 173042,
+      "word": "迪士尼偶遇张真源",
+      "onboard_time": 1756283182,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172131,
       "num": 172131,
       "word": "颜宁院士催更priest",
@@ -955,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167191,
+      "num": 167191,
+      "word": "张晚意马思纯 黎吧啦我稀罕你",
+      "onboard_time": 1756277602,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167124,
       "num": 167124,
       "word": "阅兵训练视频就得一帧一帧看",
@@ -969,6 +1049,14 @@
       "onboard_time": 1756267044,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163303,
+      "num": 163303,
+      "word": "其实很多癌症是省出来的",
+      "onboard_time": 1756278623,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163118,
@@ -1001,6 +1089,14 @@
       "onboard_time": 1756276823,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161559,
+      "num": 161559,
+      "word": "汪苏泷 怎么又吵起来了",
+      "onboard_time": 1756280485,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 161068,
@@ -1043,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158890,
+      "num": 159477,
+      "word": "易烊千玺 石头梦男",
+      "onboard_time": 1756281262,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158400,
       "num": 252401,
       "word": "唐国强李乃文一个老抽一个中抽",
@@ -1081,6 +1185,14 @@
       "onboard_time": 1756201822,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153172,
+      "num": 153172,
+      "word": "寒武纪",
+      "onboard_time": 1756277543,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 153115,
@@ -1163,30 +1275,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 149317,
-      "num": 149317,
-      "word": "寒武纪",
-      "onboard_time": 1756277543,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 148855,
-      "num": 148855,
-      "word": "其实很多癌症是省出来的",
-      "onboard_time": 1756278623,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 148594,
-      "num": 148594,
-      "word": "张晚意马思纯 黎吧啦我稀罕你",
-      "onboard_time": 1756277602,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147725,
       "num": 147725,
       "word": "孟子义何与就让这大雨全都落下",
@@ -1235,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144130,
+      "num": 144130,
+      "word": "以前美到张馨予的程度才能当明星",
+      "onboard_time": 1756283364,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143963,
       "num": 143963,
       "word": "王者荣耀S41新赛季爆料",
@@ -1272,6 +1368,14 @@
       "word": "为什么不把土豆当做主粮",
       "onboard_time": 1756263441,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138790,
+      "num": 148683,
+      "word": "悬赏上海一套房寻子 采血验亲",
+      "onboard_time": 1756279103,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1403,6 +1507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132293,
+      "num": 369960,
+      "word": "民宿回应两00后男房客把房间住包浆",
+      "onboard_time": 1756279703,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131712,
       "num": 157221,
       "word": "Spacex星舰第十次试飞成功发射",
@@ -1417,6 +1529,14 @@
       "onboard_time": 1756259541,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130674,
+      "num": 130674,
+      "word": "中国女孩半夜蹲在英国酒吧旁",
+      "onboard_time": 1756280664,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129310,
@@ -1531,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122212,
+      "num": 122212,
+      "word": "马天宇 这么大人了还被阿姨训斥",
+      "onboard_time": 1756283364,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121363,
       "num": 121363,
       "word": "小孩地铁踩踏霸座鞋被乘客踢飞",
@@ -1547,20 +1675,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120830,
+      "num": 120830,
+      "word": "4人花954元炫了18顿",
+      "onboard_time": 1756283422,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119083,
       "num": 119083,
       "word": "国际奥委会发博纪念刘翔夺冠21周年",
       "onboard_time": 1756259061,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116938,
-      "num": 116938,
-      "word": "杜淳老婆否认是宋慧乔替身",
-      "onboard_time": 1756280242,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 116306,
@@ -1579,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115973,
+      "num": 115973,
+      "word": "欢瑞2025年上半年财报",
+      "onboard_time": 1756282343,
+      "rank": 49,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 113824,
       "num": 142387,
       "word": "杨幂能长红不是没有道理的",
@@ -1593,14 +1729,6 @@
       "onboard_time": 1756274181,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 111948,
-      "num": 111948,
-      "word": "妻子追回老公出轨赠与款被小三挑衅",
-      "onboard_time": 1756280183,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111556,
@@ -1691,27 +1819,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97101,
-      "num": 148683,
-      "word": "悬赏上海一套房寻子 采血验亲",
-      "onboard_time": 1756279103,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97099,
       "num": 97099,
       "word": "警方回应游客蹦极疑因绳子断裂坠落",
       "onboard_time": 1756222466,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96915,
-      "num": 369960,
-      "word": "民宿回应两00后男房客把房间住包浆",
-      "onboard_time": 1756279703,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1729,6 +1841,14 @@
       "onboard_time": 1756207342,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94896,
+      "num": 138558,
+      "word": "酒店隔断 雾化玻璃",
+      "onboard_time": 1756282705,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 94346,
@@ -1921,6 +2041,14 @@
       "onboard_time": 1756271065,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72332,
+      "num": 138607,
+      "word": "丁程鑫刺杀小说家2影宣",
+      "onboard_time": 1756282642,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 71761,
@@ -2211,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31009,
+      "num": 219052,
+      "word": "是什么让中华三千年文脉从未断绝",
+      "onboard_time": 1756281682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29023,
       "num": 363718,
       "word": "商城遗址考古70年",
@@ -2273,6 +2409,14 @@
       "onboard_time": 1756239016,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21985,
+      "num": 470999,
+      "word": "这就是又美又飒的中国仪仗女兵",
+      "onboard_time": 1756220244,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21109,
