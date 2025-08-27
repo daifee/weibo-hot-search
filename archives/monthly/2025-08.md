@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/27 23:41:34
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/28 00:32:19
 </p>
 </blockquote>
 <p>
@@ -5475,6 +5475,12 @@ aespa（热度：796831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E5%A4%A7%E4%B8%8D%E4%BA%86%E4%B8%80%E6%98%9F%E6%9C%9F%E4%B8%8D%E8%AF%B4%E8%AF%9D%23" target="weibo">
+王源说大不了一星期不说话（热度：775905）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9B%9D%E5%85%A5%E8%A1%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A52500%23" target="weibo">
 赵露思曝入行第一个月收入2500（热度：774188）
 </a>
@@ -6005,12 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%23" target="weibo">
 王楚钦vs户上隼辅（热度：730076）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E8%AE%A4%E8%AF%81%E7%9A%84%E4%B8%89%E9%83%A8%E7%88%86%E5%89%A7%23" target="weibo">
-爱奇艺认证的三部爆剧（热度：729539）
 </a>
 </li>
 

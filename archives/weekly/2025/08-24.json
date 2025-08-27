@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756309294886,
+  "endTime": 1756312339721,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -1011,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 775905,
+      "num": 882495,
+      "word": "王源说大不了一星期不说话",
+      "onboard_time": 1756306705,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 774152,
       "num": 1123864,
       "word": "月嫂疏忽致29天婴儿重摔颅内出血",
@@ -1563,6 +1571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 587694,
+      "num": 587694,
+      "word": "中国抗战阅兵以来日本砸560亿搞公关",
+      "onboard_time": 1756310122,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 587622,
       "num": 563384,
       "word": "阚清子贵妇感",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1756287803,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 582823,
+      "num": 253571,
+      "word": "王青为冯建宇庆生",
+      "onboard_time": 1756308204,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 582173,
@@ -1705,14 +1729,6 @@
       "onboard_time": 1756039705,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 563893,
-      "num": 563893,
-      "word": "王源说大不了一星期不说话",
-      "onboard_time": 1756306705,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 561312,
@@ -3267,14 +3283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299467,
-      "num": 253571,
-      "word": "王青为冯建宇庆生",
-      "onboard_time": 1756308204,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299315,
       "num": 299315,
       "word": "鲁迅夹烟形象墙画不会换",
@@ -3537,6 +3545,14 @@
       "onboard_time": 1756263081,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 267010,
+      "num": 175424,
+      "word": "王鹤棣黑粉致歉声明",
+      "onboard_time": 1756308683,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 266868,
@@ -6323,6 +6339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169443,
+      "num": 169443,
+      "word": "毒犯整容逃亡因耳朵落网",
+      "onboard_time": 1756308564,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 169416,
       "num": 169416,
       "word": "蒋欣关晓彤 是妈妈是女儿",
@@ -7387,12 +7411,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152679,
-      "num": 165557,
-      "word": "王鹤棣黑粉致歉声明",
-      "onboard_time": 1756308683,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 152629,
+      "num": 152629,
+      "word": "网友称武汉天空有巨大流星坠落",
+      "onboard_time": 1756309523,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152518,
@@ -11027,14 +11051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108317,
-      "num": 108317,
-      "word": "毒犯整容逃亡因耳朵落网",
-      "onboard_time": 1756308564,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 108294,
       "num": 108294,
       "word": "iPhone17液态硅胶手机壳8种配色",
@@ -12499,6 +12515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83061,
+      "num": 85299,
+      "word": "赵睿 新疆队",
+      "onboard_time": 1756310424,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82673,
       "num": 121484,
       "word": "才发现不上班人生并不会完蛋",
@@ -12643,6 +12667,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80066,
+      "num": 85295,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1756309523,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80058,
       "num": 80058,
       "word": "WTT宣传照2个孙颖莎",
@@ -12697,6 +12729,14 @@
       "onboard_time": 1756015642,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78300,
+      "num": 85294,
+      "word": "张杰签售基础饭撒就不基础",
+      "onboard_time": 1756311082,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 78066,
@@ -13089,6 +13129,14 @@
       "onboard_time": 1756055238,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66896,
+      "num": 85285,
+      "word": "流浪不再流浪",
+      "onboard_time": 1756310843,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 66558,
@@ -13952,6 +14000,14 @@
       "word": "控烟是控烟 鲁迅是鲁迅",
       "onboard_time": 1756293563,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45433,
+      "num": 175105,
+      "word": "官方回应男子三亚游泳溺水",
+      "onboard_time": 1756311980,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
