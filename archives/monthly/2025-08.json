@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756304692099,
+  "endTime": 1756305803569,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -11987,6 +11987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552417,
+      "num": 347936,
+      "word": "认不出这是王祖贤",
+      "onboard_time": 1756301125,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 552307,
       "num": 552307,
       "word": "网红万洁曝育儿嫂凌晨粗暴翻身婴儿",
@@ -12033,14 +12041,6 @@
       "onboard_time": 1755743962,
       "rank": 11,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 551095,
-      "num": 347936,
-      "word": "认不出这是王祖贤",
-      "onboard_time": 1756301125,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 551056,
@@ -18275,6 +18275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372492,
+      "num": 301889,
+      "word": "张伦硕报警",
+      "onboard_time": 1756301844,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372437,
       "num": 372437,
       "word": "爱奇艺第二季度净亏损1.337亿元",
@@ -21603,14 +21611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 301889,
-      "num": 301889,
-      "word": "张伦硕报警",
-      "onboard_time": 1756301844,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301860,
       "num": 301860,
       "word": "孙颖莎vs袁嘉楠",
@@ -21713,6 +21713,14 @@
       "onboard_time": 1755490583,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 300600,
+      "num": 300600,
+      "word": "女子幽闭恐惧症隧道内弃车行走",
+      "onboard_time": 1756300584,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300542,
@@ -22611,14 +22619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286485,
-      "num": 286485,
-      "word": "女子幽闭恐惧症隧道内弃车行走",
-      "onboard_time": 1756300584,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286430,
       "num": 255678,
       "word": "花少开播把半个内娱的综艺喊过来了",
@@ -23361,6 +23361,14 @@
       "onboard_time": 1754401283,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275052,
+      "num": 275052,
+      "word": "晚宴上的Angelababy",
+      "onboard_time": 1756303165,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 274774,
@@ -24267,6 +24275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263591,
+      "num": 241394,
+      "word": "Angelababy把不同的奶茶店都点了一遍",
+      "onboard_time": 1756304486,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263494,
       "num": 223880,
       "word": "24岁确诊胃癌前身体发出的信号",
@@ -24793,6 +24809,14 @@
       "onboard_time": 1754305341,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257452,
+      "num": 257452,
+      "word": "樊振东回应是否回国家队打球",
+      "onboard_time": 1756301725,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 257412,
@@ -26976,14 +27000,6 @@
       "word": "陈奕迅自曝毕生遗憾",
       "onboard_time": 1755696029,
       "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 233453,
-      "num": 233453,
-      "word": "晚宴上的Angelababy",
-      "onboard_time": 1756303165,
-      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -30851,14 +30867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207110,
-      "num": 207110,
-      "word": "樊振东回应是否回国家队打球",
-      "onboard_time": 1756301725,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206989,
       "num": 236255,
       "word": "五月天送超人版权给汪苏泷",
@@ -31249,14 +31257,6 @@
       "onboard_time": 1754735182,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205050,
-      "num": 173487,
-      "word": "Angelababy把不同的奶茶店都点了一遍",
-      "onboard_time": 1756304486,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 205028,
@@ -40851,6 +40851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174017,
+      "num": 174017,
+      "word": "陈乔恩谈这辈子最勇敢的事",
+      "onboard_time": 1756303406,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174016,
       "num": 174016,
       "word": "上海警方通报外卖员摸前台女孩脸",
@@ -41153,6 +41161,14 @@
       "onboard_time": 1756198882,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173063,
+      "num": 157211,
+      "word": "老人银行存12万被办成保险",
+      "onboard_time": 1756301664,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173045,
@@ -43673,6 +43689,14 @@
       "onboard_time": 1755330743,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165315,
+      "num": 165315,
+      "word": "陈少熙温润贵公子既视感",
+      "onboard_time": 1756305026,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 165294,
@@ -46891,14 +46915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157211,
-      "num": 157211,
-      "word": "老人银行存12万被办成保险",
-      "onboard_time": 1756301664,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157203,
       "num": 361460,
       "word": "93岁弟弟看望98岁哥哥这一幕看哭了",
@@ -48473,6 +48489,14 @@
       "onboard_time": 1754649802,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153249,
+      "num": 153249,
+      "word": "男子三亚游泳溺水妻子崩溃大哭",
+      "onboard_time": 1756305445,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153244,
@@ -55731,6 +55755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137734,
+      "num": 137734,
+      "word": "中国女排小组头名出线",
+      "onboard_time": 1756304727,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137733,
       "num": 137733,
       "word": "瑞幸纽约店成外国网红打卡点",
@@ -59259,14 +59291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131187,
-      "num": 131187,
-      "word": "陈乔恩谈这辈子最勇敢的事",
-      "onboard_time": 1756303406,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131181,
       "num": 131181,
       "word": "许佳琪舞台",
@@ -60521,6 +60545,14 @@
       "onboard_time": 1755013764,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129072,
+      "num": 129072,
+      "word": "韩剧剧组就写错汉字道歉",
+      "onboard_time": 1756304965,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129067,
@@ -62809,6 +62841,14 @@
       "onboard_time": 1756127003,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125010,
+      "num": 125010,
+      "word": "刘耀文自拍",
+      "onboard_time": 1756305628,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 124976,
@@ -67211,6 +67251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 117042,
+      "num": 119689,
+      "word": "第一次对张新成的完美主义有了实感",
+      "onboard_time": 1756304965,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117033,
       "num": 117033,
       "word": "老太每天凌晨清空爱心冰柜",
@@ -69977,6 +70025,14 @@
       "onboard_time": 1755528443,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111664,
+      "num": 111664,
+      "word": "美国21岁模特在德国见义勇为被毁容",
+      "onboard_time": 1756305746,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111660,
@@ -85555,6 +85611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 57709,
+      "num": 155622,
+      "word": "豪华品牌发起反攻",
+      "onboard_time": 1756305685,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57674,
       "num": 252178,
       "word": "福布斯首次把封面交给一线劳动者",
@@ -90899,6 +90963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 33591,
+      "num": 129153,
+      "word": "西南大学外卖配送现状学生发声",
+      "onboard_time": 1756305685,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33470,
       "num": 73663,
       "word": "郑钧陈楚生的老婆都叫刘yun",
@@ -91153,6 +91225,14 @@
       "onboard_time": 1754300483,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32570,
+      "num": 133690,
+      "word": "警方通报女子当街锤击儿童",
+      "onboard_time": 1756305685,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32546,
@@ -91729,6 +91809,14 @@
       "onboard_time": 1754269883,
       "rank": 2,
       "category": "军事"
+    },
+    {
+      "raw_hot": 29743,
+      "num": 120219,
+      "word": "沃尔沃全新XC70预售价29.99万起",
+      "onboard_time": 1756305746,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 29589,
@@ -94520,6 +94608,14 @@
       "word": "紧急预拨1.7亿元支持7省市救灾",
       "onboard_time": 1754999663,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16626,
+      "num": 119772,
+      "word": "广州地铁回应男女厕坑位数量不协调",
+      "onboard_time": 1756305146,
+      "rank": 44,
       "category": "民生新闻"
     },
     {

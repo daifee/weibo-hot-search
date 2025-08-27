@@ -1,0 +1,410 @@
+{
+  "runTime": 1756305803569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1034884,
+        "num": 1165581,
+        "word": "酒店浴缸 红线虫",
+        "onboard_time": 1756297224,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 854998,
+        "num": 854998,
+        "word": "深圳一小区被曝有隐藏豪华建筑",
+        "onboard_time": 1756299565,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 60206,
+        "num": 588709,
+        "word": "中国蓝盔卫士亮相九三阅兵",
+        "onboard_time": 1756288462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 565773,
+        "num": 565773,
+        "word": "司美格鲁肽",
+        "onboard_time": 1756296264,
+        "rank": 3,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 551131,
+        "num": 551131,
+        "word": "樊振东祝福霉霉订婚",
+        "onboard_time": 1756300526,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 429294,
+        "num": 429294,
+        "word": "美团利润大跌89%",
+        "onboard_time": 1756299262,
+        "rank": 5,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 336779,
+        "num": 336779,
+        "word": "潘玮柏来来回回减1000斤了",
+        "onboard_time": 1756300104,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330981,
+        "num": 330981,
+        "word": "野狗骨头",
+        "onboard_time": 1756299865,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300600,
+        "num": 300600,
+        "word": "女子幽闭恐惧症隧道内弃车行走",
+        "onboard_time": 1756300584,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275052,
+        "num": 275052,
+        "word": "晚宴上的Angelababy",
+        "onboard_time": 1756303165,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 552417,
+        "num": 272837,
+        "word": "认不出这是王祖贤",
+        "onboard_time": 1756301125,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545701,
+        "num": 270514,
+        "word": "郑佩佩儿媳乳腺癌恶化",
+        "onboard_time": 1756299865,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372492,
+        "num": 269007,
+        "word": "张伦硕报警",
+        "onboard_time": 1756301844,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346938,
+        "num": 266049,
+        "word": "00后两男生开房住宿留下满床辣条油",
+        "onboard_time": 1756277844,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345685,
+        "num": 264551,
+        "word": "网红白冰三个月瘦了50斤",
+        "onboard_time": 1756296804,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 343901,
+        "num": 260652,
+        "word": "张馨予 姐不是一直在内娱吗",
+        "onboard_time": 1756295064,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304781,
+        "num": 258439,
+        "word": "疑似何穗退圈",
+        "onboard_time": 1756286725,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257452,
+        "num": 257452,
+        "word": "樊振东回应是否回国家队打球",
+        "onboard_time": 1756301725,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243503,
+        "num": 243503,
+        "word": "北京全市已转移5.8万人",
+        "onboard_time": 1756282403,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42188,
+        "num": 241845,
+        "word": "旅行小房车就选山海L7PLUS",
+        "onboard_time": 1756302626,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 317742,
+        "num": 241740,
+        "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
+        "onboard_time": 1756296444,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263591,
+        "num": 241394,
+        "word": "Angelababy把不同的奶茶店都点了一遍",
+        "onboard_time": 1756304486,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240515,
+        "num": 240515,
+        "word": "樊振东确认出战3项赛事",
+        "onboard_time": 1756298845,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222591,
+        "num": 222591,
+        "word": "梓渝曾气胸",
+        "onboard_time": 1756302204,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200416,
+        "num": 200416,
+        "word": "王鹤棣告黑以非判决方式结案",
+        "onboard_time": 1756304306,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190637,
+        "num": 190637,
+        "word": "00后短剧女演员确诊胃癌",
+        "onboard_time": 1756301426,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174017,
+        "num": 174017,
+        "word": "陈乔恩谈这辈子最勇敢的事",
+        "onboard_time": 1756303406,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165315,
+        "num": 165315,
+        "word": "陈少熙温润贵公子既视感",
+        "onboard_time": 1756305026,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162080,
+        "num": 162080,
+        "word": "王子奇 红舞鞋",
+        "onboard_time": 1756305628,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150452,
+        "num": 162059,
+        "word": "许凯新剧恋爱基础进度就不基础",
+        "onboard_time": 1756304065,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193172,
+        "num": 157748,
+        "word": "吴慷仁邵雨薇约会",
+        "onboard_time": 1756303585,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57709,
+        "num": 155622,
+        "word": "豪华品牌发起反攻",
+        "onboard_time": 1756305685,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173063,
+        "num": 153281,
+        "word": "老人银行存12万被办成保险",
+        "onboard_time": 1756301664,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153249,
+        "num": 153249,
+        "word": "男子三亚游泳溺水妻子崩溃大哭",
+        "onboard_time": 1756305445,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151486,
+        "num": 151486,
+        "word": "中国女排3比0多米尼加女排",
+        "onboard_time": 1756304426,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137734,
+        "num": 137734,
+        "word": "中国女排小组头名出线",
+        "onboard_time": 1756304727,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32570,
+        "num": 133690,
+        "word": "警方通报女子当街锤击儿童",
+        "onboard_time": 1756305685,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131455,
+        "num": 131455,
+        "word": "这才是相亲正确的打开方式",
+        "onboard_time": 1756302266,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76009,
+        "num": 129946,
+        "word": "爱德华兹中国行排面拉满",
+        "onboard_time": 1756302626,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33591,
+        "num": 129153,
+        "word": "西南大学外卖配送现状学生发声",
+        "onboard_time": 1756305685,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129072,
+        "num": 129072,
+        "word": "韩剧剧组就写错汉字道歉",
+        "onboard_time": 1756304965,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125010,
+        "num": 125010,
+        "word": "刘耀文自拍",
+        "onboard_time": 1756305628,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122348,
+        "num": 122348,
+        "word": "外交部回应李在明涉华言论",
+        "onboard_time": 1756290084,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29743,
+        "num": 120219,
+        "word": "沃尔沃全新XC70预售价29.99万起",
+        "onboard_time": 1756305746,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16626,
+        "num": 119772,
+        "word": "广州地铁回应男女厕坑位数量不协调",
+        "onboard_time": 1756305146,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117042,
+        "num": 119689,
+        "word": "第一次对张新成的完美主义有了实感",
+        "onboard_time": 1756304965,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119614,
+        "num": 119614,
+        "word": "男子花6元中1800万彩票店老板发声",
+        "onboard_time": 1756298365,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117086,
+        "num": 117086,
+        "word": "巴西网红零下5度穿比基尼被冻伤",
+        "onboard_time": 1756301485,
+        "rank": 47,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 111664,
+        "num": 111664,
+        "word": "美国21岁模特在德国见义勇为被毁容",
+        "onboard_time": 1756305746,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109103,
+        "num": 109103,
+        "word": "华晨宇吃虫子",
+        "onboard_time": 1756300226,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}

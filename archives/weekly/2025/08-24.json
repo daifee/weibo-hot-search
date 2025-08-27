@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756304692099,
+  "endTime": 1756305803569,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -1755,19 +1755,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552417,
+      "num": 347936,
+      "word": "认不出这是王祖贤",
+      "onboard_time": 1756301125,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551464,
       "num": 551464,
       "word": "IVE回归",
       "onboard_time": 1756113742,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 551095,
-      "num": 347936,
-      "word": "认不出这是王祖贤",
-      "onboard_time": 1756301125,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -2795,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372492,
+      "num": 301889,
+      "word": "张伦硕报警",
+      "onboard_time": 1756301844,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371732,
       "num": 266203,
       "word": "迪士尼偶遇张真源",
@@ -3211,20 +3219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301889,
-      "num": 301889,
-      "word": "张伦硕报警",
-      "onboard_time": 1756301844,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301520,
       "num": 301520,
       "word": "王玉雯说刘宇宁演唱会票老难抢了",
       "onboard_time": 1756012642,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300600,
+      "num": 300600,
+      "word": "女子幽闭恐惧症隧道内弃车行走",
+      "onboard_time": 1756300584,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300009,
@@ -3323,14 +3331,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 286485,
-      "num": 286485,
-      "word": "女子幽闭恐惧症隧道内弃车行走",
-      "onboard_time": 1756300584,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 284732,
       "num": 274137,
       "word": "董璇对张维伊有极致的爱",
@@ -3417,6 +3417,14 @@
       "onboard_time": 1756116024,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275052,
+      "num": 275052,
+      "word": "晚宴上的Angelababy",
+      "onboard_time": 1756303165,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 274729,
@@ -3539,6 +3547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263591,
+      "num": 241394,
+      "word": "Angelababy把不同的奶茶店都点了一遍",
+      "onboard_time": 1756304486,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262909,
       "num": 355340,
       "word": "反诈老陈打假嘎子哥所售699元手机",
@@ -3585,6 +3601,14 @@
       "onboard_time": 1756274425,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257452,
+      "num": 257452,
+      "word": "樊振东回应是否回国家队打球",
+      "onboard_time": 1756301725,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 257029,
@@ -3945,14 +3969,6 @@
       "onboard_time": 1755997162,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 233453,
-      "num": 233453,
-      "word": "晚宴上的Angelababy",
-      "onboard_time": 1756303165,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 233190,
@@ -4499,14 +4515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207110,
-      "num": 207110,
-      "word": "樊振东回应是否回国家队打球",
-      "onboard_time": 1756301725,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206808,
       "num": 245589,
       "word": "酒店价格为什么一天一变",
@@ -4553,14 +4561,6 @@
       "onboard_time": 1756040305,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205050,
-      "num": 173487,
-      "word": "Angelababy把不同的奶茶店都点了一遍",
-      "onboard_time": 1756304486,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 204524,
@@ -6107,6 +6107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174017,
+      "num": 174017,
+      "word": "陈乔恩谈这辈子最勇敢的事",
+      "onboard_time": 1756303406,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173683,
       "num": 173683,
       "word": "宋亚轩在布景后面倒彩带",
@@ -6129,6 +6137,14 @@
       "onboard_time": 1756198882,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173063,
+      "num": 157211,
+      "word": "老人银行存12万被办成保险",
+      "onboard_time": 1756301664,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172976,
@@ -6515,6 +6531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165315,
+      "num": 165315,
+      "word": "陈少熙温润贵公子既视感",
+      "onboard_time": 1756305026,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165266,
       "num": 236682,
       "word": "双胞胎在同一排面接受检阅",
@@ -6641,6 +6665,14 @@
       "onboard_time": 1756262961,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162080,
+      "num": 162080,
+      "word": "王子奇 红舞鞋",
+      "onboard_time": 1756305628,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 162075,
@@ -6955,14 +6987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157211,
-      "num": 157211,
-      "word": "老人银行存12万被办成保险",
-      "onboard_time": 1756301664,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157187,
       "num": 193143,
       "word": "1名游客蹦极掉水里景区已停业",
@@ -7241,6 +7265,14 @@
       "onboard_time": 1756285583,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153249,
+      "num": 153249,
+      "word": "男子三亚游泳溺水妻子崩溃大哭",
+      "onboard_time": 1756305445,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153172,
@@ -8331,6 +8363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137734,
+      "num": 137734,
+      "word": "中国女排小组头名出线",
+      "onboard_time": 1756304727,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137714,
       "num": 156825,
       "word": "中产家长卷不动暑期旅游了",
@@ -8859,14 +8899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 131187,
-      "num": 131187,
-      "word": "陈乔恩谈这辈子最勇敢的事",
-      "onboard_time": 1756303406,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131174,
       "num": 131174,
       "word": "邪修入睡是真的快",
@@ -9105,6 +9137,14 @@
       "onboard_time": 1756184482,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129072,
+      "num": 129072,
+      "word": "韩剧剧组就写错汉字道歉",
+      "onboard_time": 1756304965,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129057,
@@ -9433,6 +9473,14 @@
       "onboard_time": 1756127003,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125010,
+      "num": 125010,
+      "word": "刘耀文自拍",
+      "onboard_time": 1756305628,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 124741,
@@ -10195,6 +10243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117042,
+      "num": 119689,
+      "word": "第一次对张新成的完美主义有了实感",
+      "onboard_time": 1756304965,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117009,
       "num": 117009,
       "word": "龚俊喊李沁小沁",
@@ -10609,6 +10665,14 @@
       "onboard_time": 1756015822,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111664,
+      "num": 111664,
+      "word": "美国21岁模特在德国见义勇为被毁容",
+      "onboard_time": 1756305746,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111556,
@@ -13179,6 +13243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57709,
+      "num": 155622,
+      "word": "豪华品牌发起反攻",
+      "onboard_time": 1756305685,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57674,
       "num": 252178,
       "word": "福布斯首次把封面交给一线劳动者",
@@ -14203,6 +14275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 33591,
+      "num": 129153,
+      "word": "西南大学外卖配送现状学生发声",
+      "onboard_time": 1756305685,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33193,
       "num": 958793,
       "word": "让战歌点燃我们的烽火记忆",
@@ -14224,6 +14304,14 @@
       "word": "西南大学称因学生投诉统一配送外卖",
       "onboard_time": 1756292663,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32570,
+      "num": 133690,
+      "word": "警方通报女子当街锤击儿童",
+      "onboard_time": 1756305685,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -14329,6 +14417,14 @@
       "onboard_time": 1755983534,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29743,
+      "num": 120219,
+      "word": "沃尔沃全新XC70预售价29.99万起",
+      "onboard_time": 1756305746,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 29518,
@@ -14944,6 +15040,14 @@
       "word": "一觉醒来和夏天告别了",
       "onboard_time": 1755910584,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16626,
+      "num": 119772,
+      "word": "广州地铁回应男女厕坑位数量不协调",
+      "onboard_time": 1756305146,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
