@@ -1,0 +1,410 @@
+{
+  "runTime": 1756319660867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 174855,
+        "num": 174855,
+        "word": "中国抗战阅兵以来日本砸560亿搞公关",
+        "onboard_time": 1756310122,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130773,
+        "num": 130773,
+        "word": "王源说大不了一星期不说话",
+        "onboard_time": 1756306705,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11791,
+        "num": 111366,
+        "word": "中国蓝盔卫士亮相九三阅兵",
+        "onboard_time": 1756288462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92872,
+        "num": 92872,
+        "word": "司美格鲁肽",
+        "onboard_time": 1756296264,
+        "rank": 3,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 90196,
+        "num": 90196,
+        "word": "网友称武汉天空有巨大流星坠落",
+        "onboard_time": 1756309523,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84833,
+        "num": 84833,
+        "word": "郑佩佩儿子为妻子再次众筹医药费",
+        "onboard_time": 1756303285,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82195,
+        "num": 82195,
+        "word": "酒店浴缸 红线虫",
+        "onboard_time": 1756297224,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 77110,
+        "num": 77110,
+        "word": "00后短剧女演员确诊胃癌",
+        "onboard_time": 1756301426,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62918,
+        "num": 62918,
+        "word": "毒犯整容逃亡因耳朵落网",
+        "onboard_time": 1756308564,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54346,
+        "num": 54346,
+        "word": "男子三亚游泳溺水妻子崩溃大哭",
+        "onboard_time": 1756305445,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74981,
+        "num": 54147,
+        "word": "王玉雯准备好了见刘亦菲的台词",
+        "onboard_time": 1756316836,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66487,
+        "num": 53924,
+        "word": "王青为冯建宇庆生",
+        "onboard_time": 1756308204,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65470,
+        "num": 53488,
+        "word": "网红白冰三个月瘦了50斤",
+        "onboard_time": 1756296804,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64217,
+        "num": 53035,
+        "word": "张伦硕报警",
+        "onboard_time": 1756301844,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63353,
+        "num": 52735,
+        "word": "00后两男生开房住宿留下满床辣条油",
+        "onboard_time": 1756277844,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58822,
+        "num": 52247,
+        "word": "张馨予 姐不是一直在内娱吗",
+        "onboard_time": 1756295064,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58183,
+        "num": 52093,
+        "word": "疑似何穗退圈",
+        "onboard_time": 1756286725,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55426,
+        "num": 51601,
+        "word": "Angelababy逆应援给粉丝点奶茶",
+        "onboard_time": 1756314558,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51483,
+        "num": 51483,
+        "word": "美团利润大跌89%",
+        "onboard_time": 1756299262,
+        "rank": 18,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 43174,
+        "num": 43174,
+        "word": "北京全市已转移5.8万人",
+        "onboard_time": 1756282403,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51746,
+        "num": 43105,
+        "word": "26岁女子欲离婚遭丈夫残忍杀害案续",
+        "onboard_time": 1756312939,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39438,
+        "num": 39438,
+        "word": "认不出这是王祖贤",
+        "onboard_time": 1756301125,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37670,
+        "num": 37670,
+        "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
+        "onboard_time": 1756296444,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33865,
+        "num": 33865,
+        "word": "野狗骨头",
+        "onboard_time": 1756299865,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33149,
+        "num": 33149,
+        "word": "樊振东祝福霉霉订婚",
+        "onboard_time": 1756300526,
+        "rank": 24,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 31639,
+        "num": 33149,
+        "word": "美国21岁模特在德国见义勇为被毁容",
+        "onboard_time": 1756305746,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30051,
+        "num": 33149,
+        "word": "深圳一小区被曝有隐藏豪华建筑",
+        "onboard_time": 1756299565,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 28814,
+        "num": 33148,
+        "word": "潘玮柏来来回回减1000斤了",
+        "onboard_time": 1756300104,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27755,
+        "num": 33148,
+        "word": "吴慷仁邵雨薇约会",
+        "onboard_time": 1756303585,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26233,
+        "num": 33148,
+        "word": "樊振东回应是否回国家队打球",
+        "onboard_time": 1756301725,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26606,
+        "num": 33147,
+        "word": "巴西网红零下5度穿比基尼被冻伤",
+        "onboard_time": 1756301485,
+        "rank": 30,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 25886,
+        "num": 33146,
+        "word": "男子花6元中1800万彩票店老板发声",
+        "onboard_time": 1756298365,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25588,
+        "num": 33146,
+        "word": "韩剧剧组就写错汉字道歉",
+        "onboard_time": 1756304965,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25419,
+        "num": 33146,
+        "word": "女子幽闭恐惧症隧道内弃车行走",
+        "onboard_time": 1756300584,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23212,
+        "num": 33146,
+        "word": "白鹿看不腻live图",
+        "onboard_time": 1756313479,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25080,
+        "num": 33145,
+        "word": "官方回应男子三亚游泳溺水",
+        "onboard_time": 1756311980,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24593,
+        "num": 33145,
+        "word": "直播公司围猎初中辍学农村女孩",
+        "onboard_time": 1756306765,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 24577,
+        "num": 33145,
+        "word": "王鹤棣黑粉致歉声明",
+        "onboard_time": 1756308683,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24493,
+        "num": 33144,
+        "word": "外交部回应李在明涉华言论",
+        "onboard_time": 1756290084,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23809,
+        "num": 33143,
+        "word": "aespa回归全员预告照",
+        "onboard_time": 1756315996,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24064,
+        "num": 33143,
+        "word": "强奸杀人罪服刑27年后杀人罪名撤销",
+        "onboard_time": 1756307783,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21337,
+        "num": 33143,
+        "word": "豪华品牌发起反攻",
+        "onboard_time": 1756312401,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 21277,
+        "num": 33142,
+        "word": "考研人上岸邪修方法",
+        "onboard_time": 1756319535,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21049,
+        "num": 33142,
+        "word": "老人银行存12万被办成保险",
+        "onboard_time": 1756301664,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20354,
+        "num": 33141,
+        "word": "警方通报女子当街锤击儿童",
+        "onboard_time": 1756305685,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20017,
+        "num": 33141,
+        "word": "梁王组合晋级世锦赛16强",
+        "onboard_time": 1756312699,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19505,
+        "num": 33141,
+        "word": "陈乔恩谈这辈子最勇敢的事",
+        "onboard_time": 1756303406,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19181,
+        "num": 33141,
+        "word": "阅兵训练现场女民兵又美又飒",
+        "onboard_time": 1756313599,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19149,
+        "num": 33140,
+        "word": "密室大逃脱大神版",
+        "onboard_time": 1756309523,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19138,
+        "num": 33140,
+        "word": "梓渝曾气胸",
+        "onboard_time": 1756302204,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}

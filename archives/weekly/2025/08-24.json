@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756316398106,
+  "endTime": 1756319660867,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -12875,6 +12875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74981,
+      "num": 54147,
+      "word": "王玉雯准备好了见刘亦菲的台词",
+      "onboard_time": 1756316836,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74840,
       "num": 132209,
       "word": "宋轶圈内人缘",
@@ -14987,6 +14995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23809,
+      "num": 33143,
+      "word": "aespa回归全员预告照",
+      "onboard_time": 1756315996,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23744,
       "num": 112101,
       "word": "遭海底捞门店账号客服侮辱女子发声",
@@ -15097,6 +15113,14 @@
       "onboard_time": 1756197804,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21277,
+      "num": 33142,
+      "word": "考研人上岸邪修方法",
+      "onboard_time": 1756319535,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 21162,
@@ -15225,6 +15249,14 @@
       "onboard_time": 1756304306,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19181,
+      "num": 33141,
+      "word": "阅兵训练现场女民兵又美又飒",
+      "onboard_time": 1756313599,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19040,
