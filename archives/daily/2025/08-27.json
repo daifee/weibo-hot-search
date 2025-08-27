@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756283614312,
+  "endTime": 1756284378981,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1220963,
-      "num": 1220963,
+      "raw_hot": 1269975,
+      "num": 1269975,
       "word": "虞书欣起诉两公司侵权",
       "onboard_time": 1756281024,
       "rank": 0,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 806076,
-      "num": 258614,
+      "num": 299543,
       "word": "30万存款定律",
       "onboard_time": 1756276582,
       "rank": 30,
@@ -184,6 +184,22 @@
       "word": "韩娱有自己的魔嫂",
       "onboard_time": 1756260921,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 716717,
+      "num": 314172,
+      "word": "梓渝的褪黑素也不是原唱",
+      "onboard_time": 1756282224,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 700441,
+      "num": 304629,
+      "word": "吴雅婷带孩子搬离上海",
+      "onboard_time": 1756283302,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -275,16 +291,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 567492,
-      "num": 220147,
-      "word": "梓渝的褪黑素也不是原唱",
-      "onboard_time": 1756282224,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 547556,
-      "num": 218624,
+      "num": 273014,
       "word": "杜淳老婆否认是宋慧乔替身",
       "onboard_time": 1756280242,
       "rank": 45,
@@ -401,6 +409,14 @@
       "onboard_time": 1756265362,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 391247,
+      "num": 391247,
+      "word": "北京全市已转移5.8万人",
+      "onboard_time": 1756282403,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388514,
@@ -547,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 266203,
+      "num": 266203,
+      "word": "迪士尼偶遇张真源",
+      "onboard_time": 1756283182,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261130,
       "num": 261130,
       "word": "台湾同胞受邀出席九三阅兵",
@@ -563,12 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249830,
-      "num": 213362,
-      "word": "北京全市已转移5.8万人",
-      "onboard_time": 1756282403,
-      "rank": 20,
+      "raw_hot": 257500,
+      "num": 257500,
+      "word": "妻子追回老公出轨赠与款被小三挑衅",
+      "onboard_time": 1756280183,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250251,
+      "num": 318647,
+      "word": "云秀行",
+      "onboard_time": 1756280724,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 248676,
@@ -683,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217218,
-      "num": 217218,
-      "word": "云秀行",
-      "onboard_time": 1756280724,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216064,
       "num": 336087,
       "word": "张杰签售会",
@@ -705,6 +729,14 @@
       "onboard_time": 1756269383,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215271,
+      "num": 146522,
+      "word": "以前美到张馨予的程度才能当明星",
+      "onboard_time": 1756283364,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 213479,
@@ -729,14 +761,6 @@
       "onboard_time": 1756267163,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209376,
-      "num": 209376,
-      "word": "妻子追回老公出轨赠与款被小三挑衅",
-      "onboard_time": 1756280183,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208722,
@@ -787,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194877,
-      "num": 159333,
-      "word": "吴雅婷带孩子搬离上海",
-      "onboard_time": 1756283302,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 194738,
+      "num": 194738,
+      "word": "袁姗姗这一愣不像演的",
+      "onboard_time": 1756283783,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 192966,
@@ -979,12 +1003,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173042,
-      "num": 173042,
-      "word": "迪士尼偶遇张真源",
-      "onboard_time": 1756283182,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 172976,
+      "num": 172976,
+      "word": "其实很多癌症是省出来的",
+      "onboard_time": 1756278623,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172131,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1756267044,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163303,
-      "num": 163303,
-      "word": "其实很多癌症是省出来的",
-      "onboard_time": 1756278623,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 163118,
@@ -1323,11 +1339,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144130,
-      "num": 144130,
-      "word": "以前美到张馨予的程度才能当明星",
-      "onboard_time": 1756283364,
-      "rank": 36,
+      "raw_hot": 144309,
+      "num": 144309,
+      "word": "小酒窝3岁走秀照",
+      "onboard_time": 1756283723,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1507,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132657,
+      "num": 132657,
+      "word": "王影璐离开浪浪山进了三圣山",
+      "onboard_time": 1756284024,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132293,
       "num": 369960,
       "word": "民宿回应两00后男房客把房间住包浆",
@@ -1619,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124301,
+      "num": 124301,
+      "word": "4人花954元炫了18顿",
+      "onboard_time": 1756283422,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123152,
       "num": 123152,
       "word": "月薪4000在上海的一天",
@@ -1659,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121729,
+      "num": 138558,
+      "word": "酒店隔断 雾化玻璃",
+      "onboard_time": 1756282705,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121363,
       "num": 121363,
       "word": "小孩地铁踩踏霸座鞋被乘客踢飞",
@@ -1667,20 +1707,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121080,
+      "num": 132299,
+      "word": "陈飞宇说献鱼破万就演同人文",
+      "onboard_time": 1756283902,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121037,
       "num": 121037,
       "word": "叶舒华汉服",
       "onboard_time": 1756209083,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120830,
-      "num": 120830,
-      "word": "4人花954元炫了18顿",
-      "onboard_time": 1756283422,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 119083,
@@ -1811,6 +1851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99638,
+      "num": 132837,
+      "word": "北京5区启动防汛一级应急响应",
+      "onboard_time": 1756281922,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98402,
       "num": 98402,
       "word": "怪不得宫廷剧里都喜欢用葡萄做道具",
@@ -1841,14 +1889,6 @@
       "onboard_time": 1756207342,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94896,
-      "num": 138558,
-      "word": "酒店隔断 雾化玻璃",
-      "onboard_time": 1756282705,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 94346,
@@ -2059,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71663,
+      "num": 132634,
+      "word": "杨幂 邪恶美羊羊",
+      "onboard_time": 1756283842,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71088,
       "num": 71088,
       "word": "唐禹哲老婆晒全家福",
@@ -2145,6 +2193,14 @@
       "onboard_time": 1756251080,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56817,
+      "num": 234264,
+      "word": "全球首辆登陆南极的新能源轿车",
+      "onboard_time": 1756284083,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 56371,
@@ -2340,7 +2396,7 @@
     },
     {
       "raw_hot": 31009,
-      "num": 219052,
+      "num": 288797,
       "word": "是什么让中华三千年文脉从未断绝",
       "onboard_time": 1756281682,
       "rank": 14,
