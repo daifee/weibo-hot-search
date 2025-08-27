@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756284378981,
+  "endTime": 1756286839778,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -80,6 +80,22 @@
       "word": "虞书欣起诉两公司侵权",
       "onboard_time": 1756281024,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1212627,
+      "num": 1212627,
+      "word": "北京全市已转移5.8万人",
+      "onboard_time": 1756282403,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1206027,
+      "num": 304629,
+      "word": "吴雅婷带孩子搬离上海",
+      "onboard_time": 1756283302,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -193,14 +209,6 @@
       "onboard_time": 1756282224,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 700441,
-      "num": 304629,
-      "word": "吴雅婷带孩子搬离上海",
-      "onboard_time": 1756283302,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 688724,
@@ -363,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440251,
+      "num": 264736,
+      "word": "妻子追回老公出轨赠与款被小三挑衅",
+      "onboard_time": 1756280183,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439214,
       "num": 823979,
       "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
@@ -411,14 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 391247,
-      "num": 391247,
-      "word": "北京全市已转移5.8万人",
-      "onboard_time": 1756282403,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 388514,
       "num": 360257,
       "word": "老庙黄金致歉",
@@ -435,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371732,
+      "num": 266203,
+      "word": "迪士尼偶遇张真源",
+      "onboard_time": 1756283182,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369034,
       "num": 369034,
       "word": "九三阅兵MV胜利荣光",
@@ -449,6 +465,14 @@
       "onboard_time": 1756263081,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 346320,
+      "num": 346320,
+      "word": "阚清子贵妇感",
+      "onboard_time": 1756285043,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 343388,
@@ -497,6 +521,14 @@
       "onboard_time": 1756257562,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 309652,
+      "num": 309652,
+      "word": "蜜鼠冰城",
+      "onboard_time": 1756284384,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 304093,
@@ -555,20 +587,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271291,
+      "num": 318647,
+      "word": "云秀行",
+      "onboard_time": 1756280724,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267234,
       "num": 274639,
       "word": "受阅部队又一批新画面解锁",
       "onboard_time": 1756263081,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 266203,
-      "num": 266203,
-      "word": "迪士尼偶遇张真源",
-      "onboard_time": 1756283182,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 261130,
@@ -585,22 +617,6 @@
       "onboard_time": 1756274425,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257500,
-      "num": 257500,
-      "word": "妻子追回老公出轨赠与款被小三挑衅",
-      "onboard_time": 1756280183,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250251,
-      "num": 318647,
-      "word": "云秀行",
-      "onboard_time": 1756280724,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 248676,
@@ -667,20 +683,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227102,
+      "num": 227102,
+      "word": "抗日战争胜利80周年纪念",
+      "onboard_time": 1756282762,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222724,
       "num": 158158,
       "word": "刘雨昕 美背",
       "onboard_time": 1756223123,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220998,
-      "num": 220998,
-      "word": "抗日战争胜利80周年纪念",
-      "onboard_time": 1756282762,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 219615,
@@ -715,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218500,
+      "num": 218500,
+      "word": "Angelababy直播",
+      "onboard_time": 1756286783,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216064,
       "num": 336087,
       "word": "张杰签售会",
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 215271,
-      "num": 146522,
+      "num": 173726,
       "word": "以前美到张馨予的程度才能当明星",
       "onboard_time": 1756283364,
       "rank": 36,
@@ -875,6 +899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 187388,
+      "num": 187388,
+      "word": "鞠婧祎为什么不写作业",
+      "onboard_time": 1756286423,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186813,
       "num": 244080,
       "word": "台积电被曝停用大陆设备",
@@ -963,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180594,
+      "num": 180594,
+      "word": "杨幂 邪恶美羊羊",
+      "onboard_time": 1756283842,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177542,
       "num": 177542,
       "word": "孙颖莎王楚钦混双出战",
@@ -1019,6 +1059,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 170797,
+      "num": 384822,
+      "word": "北京5区市民非必要不外出",
+      "onboard_time": 1756275503,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168866,
       "num": 168866,
       "word": "一家人96万坐熊猫专列称餐食不符",
@@ -1033,14 +1081,6 @@
       "onboard_time": 1756266502,
       "rank": 43,
       "category": "幽默,运动健身"
-    },
-    {
-      "raw_hot": 168169,
-      "num": 384822,
-      "word": "北京5区市民非必要不外出",
-      "onboard_time": 1756275503,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167779,
@@ -1147,6 +1187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159495,
+      "num": 159495,
+      "word": "花5万买日本投降书原件",
+      "onboard_time": 1756285764,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159442,
       "num": 159442,
       "word": "母亲的愧疚式教育逼疯儿子",
@@ -1195,12 +1243,28 @@
       "category": "国内时政,音乐"
     },
     {
+      "raw_hot": 155523,
+      "num": 155523,
+      "word": "檀健次 我嘴都噘成这样了",
+      "onboard_time": 1756285943,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155097,
       "num": 155097,
       "word": "深圳经济特区生日快乐",
       "onboard_time": 1756201822,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153591,
+      "num": 153591,
+      "word": "被李现流沙牌惊艳了一次又一次",
+      "onboard_time": 1756285583,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153172,
@@ -1259,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151753,
+      "num": 151753,
+      "word": "王俊凯是被爷爷奶奶宠着长大的",
+      "onboard_time": 1756285104,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150816,
       "num": 150816,
       "word": "张凌赫出道5年了",
@@ -1283,12 +1355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149511,
+      "num": 149511,
+      "word": "疑似何穗退圈",
+      "onboard_time": 1756286725,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149425,
       "num": 149425,
       "word": "官方通报游客体验蹦极时受伤",
       "onboard_time": 1756222404,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 147817,
+      "num": 147817,
+      "word": "国漫也流行搞男团了",
+      "onboard_time": 1756286363,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 147725,
@@ -1563,6 +1651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130444,
+      "num": 130444,
+      "word": "陈飞宇 听劝",
+      "onboard_time": 1756284384,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129310,
       "num": 129310,
       "word": "有一种精神叫不屈",
@@ -1603,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127745,
+      "num": 127745,
+      "word": "贺峻霖的嘴还是太权威了",
+      "onboard_time": 1756286602,
+      "rank": 43,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 127473,
       "num": 127473,
       "word": "伦纳德村BA首秀",
@@ -1617,6 +1721,14 @@
       "onboard_time": 1756268063,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126458,
+      "num": 126458,
+      "word": "4人花954元炫了18顿",
+      "onboard_time": 1756283422,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 125861,
@@ -1643,12 +1755,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124301,
-      "num": 124301,
-      "word": "4人花954元炫了18顿",
-      "onboard_time": 1756283422,
-      "rank": 47,
-      "category": "美食"
+      "raw_hot": 123947,
+      "num": 132299,
+      "word": "陈飞宇说献鱼破万就演同人文",
+      "onboard_time": 1756283902,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123155,
+      "num": 123155,
+      "word": "莎头混双5号种子出战中国大满贯",
+      "onboard_time": 1756284563,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 123152,
@@ -1683,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122499,
+      "num": 122499,
+      "word": "为什么猫咖没有狸花猫",
+      "onboard_time": 1756285224,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122212,
       "num": 122212,
       "word": "马天宇 这么大人了还被阿姨训斥",
@@ -1705,14 +1833,6 @@
       "onboard_time": 1756278143,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121080,
-      "num": 132299,
-      "word": "陈飞宇说献鱼破万就演同人文",
-      "onboard_time": 1756283902,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 121037,
@@ -1835,12 +1955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105172,
+      "num": 148136,
+      "word": "7位地道战女民兵的名字找到了",
+      "onboard_time": 1756284683,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103882,
       "num": 103882,
       "word": "永恩皮肤",
       "onboard_time": 1756256663,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103145,
+      "num": 231284,
+      "word": "33万被骗子划走竟没发现",
+      "onboard_time": 1756286544,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102492,
@@ -2099,14 +2235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71663,
-      "num": 132634,
-      "word": "杨幂 邪恶美羊羊",
-      "onboard_time": 1756283842,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 71088,
       "num": 71088,
       "word": "唐禹哲老婆晒全家福",
@@ -2196,7 +2324,7 @@
     },
     {
       "raw_hot": 56817,
-      "num": 234264,
+      "num": 257350,
       "word": "全球首辆登陆南极的新能源轿车",
       "onboard_time": 1756284083,
       "rank": 21,
@@ -2225,6 +2353,14 @@
       "onboard_time": 1756252882,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53931,
+      "num": 256523,
+      "word": "平台称西南大学外卖合作是内部招标",
+      "onboard_time": 1756285344,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53800,
@@ -2468,7 +2604,7 @@
     },
     {
       "raw_hot": 21985,
-      "num": 470999,
+      "num": 735244,
       "word": "这就是又美又飒的中国仪仗女兵",
       "onboard_time": 1756220244,
       "rank": 2,
@@ -2481,6 +2617,14 @@
       "onboard_time": 1756222283,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19027,
+      "num": 262728,
+      "word": "网文出海过程中应坚守文化内核",
+      "onboard_time": 1756285282,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 16175,
@@ -2513,6 +2657,14 @@
       "onboard_time": 1756269563,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10861,
+      "num": 147840,
+      "word": "孙颖莎冷脸萌",
+      "onboard_time": 1756286305,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 10847,
