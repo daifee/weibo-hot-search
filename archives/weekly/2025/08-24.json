@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756266587789,
+  "endTime": 1756269034904,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1497754,
+      "num": 1497754,
+      "word": "郑恺苗苗辟谣",
+      "onboard_time": 1756265362,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1474108,
       "num": 413433,
       "word": "晚晚晒镯子",
@@ -265,14 +273,6 @@
       "onboard_time": 1755956608,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1255740,
-      "num": 1255740,
-      "word": "郑恺苗苗辟谣",
-      "onboard_time": 1756265362,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1246565,
@@ -427,6 +427,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1049956,
+      "num": 1049956,
+      "word": "iPhone17新颜色",
+      "onboard_time": 1756263561,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1041296,
       "num": 1166607,
       "word": "王牌对王牌9按年龄排序",
@@ -555,6 +563,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 949498,
+      "num": 949498,
+      "word": "宝格丽 张元英",
+      "onboard_time": 1756263680,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 949110,
       "num": 363062,
       "word": "美团退款",
@@ -569,6 +585,14 @@
       "onboard_time": 1756117583,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 940146,
+      "num": 274307,
+      "word": "双胞胎有望上三休五了",
+      "onboard_time": 1756264761,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 936576,
@@ -795,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 776874,
+      "num": 776874,
+      "word": "景德镇做的杯子还是太超前了",
+      "onboard_time": 1756266923,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 774152,
       "num": 1123864,
       "word": "月嫂疏忽致29天婴儿重摔颅内出血",
@@ -832,14 +864,6 @@
       "word": "徐冬冬直播时尹子维说漏嘴了",
       "onboard_time": 1756184903,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 759472,
-      "num": 759472,
-      "word": "宝格丽 张元英",
-      "onboard_time": 1756263680,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -1121,14 +1145,6 @@
       "onboard_time": 1756172722,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 636829,
-      "num": 636829,
-      "word": "iPhone17新颜色",
-      "onboard_time": 1756263561,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 635075,
@@ -2211,6 +2227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 406274,
+      "num": 309308,
+      "word": "严浩翔 张元英转圈",
+      "onboard_time": 1756265362,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 404276,
       "num": 404276,
       "word": "男子效仿盗墓小说挖出20件青铜器",
@@ -2219,20 +2243,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 404069,
+      "num": 273838,
+      "word": "HYBE回应朴智旻恋情",
+      "onboard_time": 1756265541,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398763,
       "num": 398763,
       "word": "98岁老人头上长皮角自行剪除",
       "onboard_time": 1756053621,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 397337,
-      "num": 274662,
-      "word": "严浩翔 张元英转圈",
-      "onboard_time": 1756265362,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 392890,
@@ -2387,6 +2411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 369034,
+      "num": 369034,
+      "word": "九三阅兵MV胜利荣光",
+      "onboard_time": 1756262901,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 367483,
       "num": 367483,
       "word": "时代少年团随舞",
@@ -2537,6 +2569,14 @@
       "onboard_time": 1756210463,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343299,
+      "num": 274215,
+      "word": "建议朋友圈一定要当天发",
+      "onboard_time": 1756265001,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 343050,
@@ -2715,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317364,
+      "num": 317364,
+      "word": "易烊千玺 抢票",
+      "onboard_time": 1756267163,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 314185,
       "num": 238700,
       "word": "于适贴脸开大马頔南山南",
@@ -2769,14 +2817,6 @@
       "onboard_time": 1756223664,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303609,
-      "num": 274307,
-      "word": "双胞胎有望上三休五了",
-      "onboard_time": 1756264761,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 301520,
@@ -2841,14 +2881,6 @@
       "onboard_time": 1755944902,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292582,
-      "num": 274215,
-      "word": "建议朋友圈一定要当天发",
-      "onboard_time": 1756265001,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 291028,
@@ -2955,28 +2987,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276041,
-      "num": 273838,
-      "word": "HYBE回应朴智旻恋情",
-      "onboard_time": 1756265541,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274729,
       "num": 274729,
       "word": "宋祖儿在用漂亮的脸蛋做什么",
       "onboard_time": 1756121483,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274703,
-      "num": 274703,
-      "word": "九三阅兵MV胜利荣光",
-      "onboard_time": 1756262901,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 272441,
@@ -3771,6 +3787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210245,
+      "num": 237085,
+      "word": "易烊千玺成都演唱会",
+      "onboard_time": 1756267163,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210144,
       "num": 503851,
       "word": "陈奕恒总结舞台",
@@ -3851,6 +3875,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206808,
+      "num": 245589,
+      "word": "酒店价格为什么一天一变",
+      "onboard_time": 1756266743,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206781,
+      "num": 206781,
+      "word": "大妈晕机要靠窗坐被拒后大骂",
+      "onboard_time": 1756265122,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206677,
       "num": 206677,
       "word": "樊振东将出席德甲俱乐部新闻发布会",
@@ -3921,6 +3961,14 @@
       "onboard_time": 1756205483,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203759,
+      "num": 203759,
+      "word": "读过研的人是很难抱怨上班的",
+      "onboard_time": 1756266562,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 203439,
@@ -4627,6 +4675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189021,
+      "num": 189021,
+      "word": "华为将发布新款三折叠手机",
+      "onboard_time": 1756268003,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188869,
       "num": 188869,
       "word": "小孩",
@@ -4785,6 +4841,14 @@
       "onboard_time": 1756113084,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184243,
+      "num": 184243,
+      "word": "技术这个词让我们想到了孙颖莎",
+      "onboard_time": 1756268844,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 184124,
@@ -5051,6 +5115,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 176616,
+      "num": 235069,
+      "word": "王牌9杨幂预告",
+      "onboard_time": 1756267163,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176080,
       "num": 160682,
       "word": "外国人对中餐有多上瘾",
@@ -5283,6 +5355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169491,
+      "num": 251258,
+      "word": "花儿与少年",
+      "onboard_time": 1756265904,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169416,
       "num": 169416,
       "word": "蒋欣关晓彤 是妈妈是女儿",
@@ -5313,6 +5393,14 @@
       "onboard_time": 1756047747,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168866,
+      "num": 168866,
+      "word": "一家人96万坐熊猫专列称餐食不符",
+      "onboard_time": 1756266023,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168813,
@@ -5401,6 +5489,14 @@
       "onboard_time": 1756043245,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167075,
+      "num": 167075,
+      "word": "北京邮电大学采购巡飞弹",
+      "onboard_time": 1756267044,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167058,
@@ -5819,6 +5915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157686,
+      "num": 247305,
+      "word": "景区施工发现1449座古墓跨多朝",
+      "onboard_time": 1756267284,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157456,
       "num": 157456,
       "word": "16加8轻断食4个月减脂近四分之一",
@@ -5828,7 +5932,7 @@
     },
     {
       "raw_hot": 157187,
-      "num": 157187,
+      "num": 193143,
       "word": "1名游客蹦极掉水里景区已停业",
       "onboard_time": 1756264702,
       "rank": 35,
@@ -5881,14 +5985,6 @@
       "onboard_time": 1756012883,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156156,
-      "num": 251258,
-      "word": "花儿与少年",
-      "onboard_time": 1756265904,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 156092,
@@ -6443,6 +6539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145509,
+      "num": 210370,
+      "word": "林俊杰新歌",
+      "onboard_time": 1756268543,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145482,
       "num": 145482,
       "word": "原相机下的迅猛龙",
@@ -6643,6 +6747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142638,
+      "num": 142638,
+      "word": "刚出生13天的宝宝突然吐奶卡住喉咙",
+      "onboard_time": 1756268844,
+      "rank": 47,
+      "category": "母婴育儿,民生新闻"
+    },
+    {
       "raw_hot": 142622,
       "num": 172015,
       "word": "张元英 麻辣女兵",
@@ -6721,14 +6833,6 @@
       "onboard_time": 1756027822,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141429,
-      "num": 141429,
-      "word": "大妈晕机要靠窗坐被拒后大骂",
-      "onboard_time": 1756265122,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141362,
@@ -6939,6 +7043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138078,
+      "num": 138078,
+      "word": "理发店倒闭众人合力讨回23万预付款",
+      "onboard_time": 1756268124,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138067,
       "num": 138067,
       "word": "刘宇宁差点失去表情管理",
@@ -7001,6 +7113,14 @@
       "onboard_time": 1756109423,
       "rank": 43,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 137224,
+      "num": 229730,
+      "word": "官方回应2人漂流终点下游溺亡",
+      "onboard_time": 1756266983,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137145,
@@ -7739,6 +7859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126740,
+      "num": 137138,
+      "word": "李乃文出门在外我是成龙",
+      "onboard_time": 1756268063,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126663,
       "num": 126663,
       "word": "这五个人打完水仗还回家吗",
@@ -8441,14 +8569,6 @@
       "onboard_time": 1755991638,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116666,
-      "num": 116666,
-      "word": "读过研的人是很难抱怨上班的",
-      "onboard_time": 1756266562,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 116379,
@@ -10283,6 +10403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83175,
+      "num": 251314,
+      "word": "美团闪购给情侣撒钱",
+      "onboard_time": 1756267703,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83038,
       "num": 83038,
       "word": "KPL",
@@ -10537,14 +10665,6 @@
       "onboard_time": 1755955343,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 76179,
-      "num": 144474,
-      "word": "一家人96万坐熊猫专列称餐食不符",
-      "onboard_time": 1756266023,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75693,
@@ -10851,6 +10971,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 65651,
+      "num": 190523,
+      "word": "大坂直美labubu一身红钻",
+      "onboard_time": 1756268724,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65413,
       "num": 67393,
       "word": "戴恐怖面具故意吓高速过往车辆",
@@ -10937,6 +11065,14 @@
       "onboard_time": 1756203623,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61394,
+      "num": 189664,
+      "word": "诺一霓娜长这么高了",
+      "onboard_time": 1756268183,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 61267,
@@ -11073,6 +11209,14 @@
       "onboard_time": 1756219823,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57050,
+      "num": 248913,
+      "word": "小鹏P7成50万内浙赛最速轿跑",
+      "onboard_time": 1756267703,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 56987,
@@ -12219,6 +12363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24807,
+      "num": 256940,
+      "word": "敦煌石窟的藏经洞是偶然发现的",
+      "onboard_time": 1756267882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24728,
       "num": 111215,
       "word": "被毒死的毛孩子和为它们打官司的人",
@@ -12249,6 +12401,14 @@
       "onboard_time": 1756028002,
       "rank": 40,
       "category": "海外新闻,美食"
+    },
+    {
+      "raw_hot": 24400,
+      "num": 952809,
+      "word": "抗战烽火的中流砥柱",
+      "onboard_time": 1756257203,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24348,
@@ -12756,6 +12916,9 @@
     },
     {
       "word": "#中柬两国要更加坚定地站在一起#"
+    },
+    {
+      "word": "#加快建设新时代全天候中柬命运共同体#"
     }
   ]
 }
