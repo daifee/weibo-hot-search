@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756333405947,
+  "endTime": 1756334437096,
   "band_list": [
     {
       "raw_hot": 775905,
@@ -83,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 267800,
+      "num": 487292,
+      "word": "郑佩佩儿子为妻子再次众筹医药费",
+      "onboard_time": 1756303285,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265340,
       "num": 265340,
       "word": "毒犯整容逃亡因耳朵落网",
@@ -147,11 +155,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175808,
-      "num": 383146,
-      "word": "郑佩佩儿子为妻子再次众筹医药费",
-      "onboard_time": 1756303285,
-      "rank": 27,
+      "raw_hot": 175160,
+      "num": 175160,
+      "word": "网友称武汉天空有巨大流星坠落",
+      "onboard_time": 1756309523,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172243,
+      "num": 103074,
+      "word": "张馨予 为啥补货啊姐一直在",
+      "onboard_time": 1756326193,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -161,14 +177,6 @@
       "onboard_time": 1756301426,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158632,
-      "num": 158632,
-      "word": "网友称武汉天空有巨大流星坠落",
-      "onboard_time": 1756309523,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153682,
@@ -209,14 +217,6 @@
       "onboard_time": 1756282403,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128317,
-      "num": 71737,
-      "word": "张馨予 为啥补货啊姐一直在",
-      "onboard_time": 1756326193,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 127125,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79617,
+      "num": 79617,
+      "word": "刘翔12秒91的含金量",
+      "onboard_time": 1756329854,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78300,
       "num": 85294,
       "word": "张杰签售基础饭撒就不基础",
@@ -459,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40609,
-      "num": 40609,
-      "word": "刘翔12秒91的含金量",
-      "onboard_time": 1756329854,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 38585,
+      "num": 38585,
+      "word": "北京最大降雨量79.6毫米",
+      "onboard_time": 1756329073,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37565,
@@ -499,11 +507,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27217,
-      "num": 36023,
-      "word": "北京最大降雨量79.6毫米",
-      "onboard_time": 1756329073,
-      "rank": 9,
+      "raw_hot": 28546,
+      "num": 32950,
+      "word": "何小鹏晒和雷军聊天记录",
+      "onboard_time": 1756322955,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 27573,
+      "num": 32886,
+      "word": "校方称其他外卖骑手送餐到外卖柜",
+      "onboard_time": 1756331895,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -515,20 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22782,
-      "num": 26330,
-      "word": "校方称其他外卖骑手送餐到外卖柜",
-      "onboard_time": 1756331895,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 23679,
+      "num": 32823,
+      "word": "一通电话把一船人整沉默了",
+      "onboard_time": 1756325054,
+      "rank": 46,
+      "category": "幽默"
     },
     {
-      "raw_hot": 21448,
-      "num": 26329,
-      "word": "何小鹏晒和雷军聊天记录",
-      "onboard_time": 1756322955,
-      "rank": 43,
-      "category": "汽车"
+      "raw_hot": 21438,
+      "num": 43662,
+      "word": "阅兵训练现场女民兵又美又飒",
+      "onboard_time": 1756313599,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21277,
@@ -540,19 +556,11 @@
     },
     {
       "raw_hot": 19782,
-      "num": 26326,
+      "num": 32700,
       "word": "上海月租650的房子",
       "onboard_time": 1756321155,
       "rank": 42,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 19181,
-      "num": 43662,
-      "word": "阅兵训练现场女民兵又美又飒",
-      "onboard_time": 1756313599,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18583,
@@ -563,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17440,
-      "num": 26327,
-      "word": "一通电话把一船人整沉默了",
-      "onboard_time": 1756325054,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 16102,
+      "num": 32691,
+      "word": "樊振东发布会C位",
+      "onboard_time": 1756334355,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 11995,
