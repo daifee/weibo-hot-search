@@ -1,0 +1,410 @@
+{
+  "runTime": 1756280314140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1842676,
+        "num": 1842676,
+        "word": "00后两男生开房住宿留下满床辣条油",
+        "onboard_time": 1756277844,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721882,
+        "num": 721882,
+        "word": "14名内鬼侵犯华为芯片技术被判刑",
+        "onboard_time": 1756272983,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18557,
+        "num": 573322,
+        "word": "抗战烽火的中流砥柱",
+        "onboard_time": 1756257203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 489910,
+        "num": 489910,
+        "word": "A股",
+        "onboard_time": 1756276883,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 485294,
+        "num": 485294,
+        "word": "西南大学 外卖垄断",
+        "onboard_time": 1756270402,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379885,
+        "num": 379885,
+        "word": "iPhone17全系价格曝光",
+        "onboard_time": 1756255162,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 378185,
+        "num": 378185,
+        "word": "喜茶称反式脂肪酸最高证明真奶最多",
+        "onboard_time": 1756272983,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313975,
+        "num": 378070,
+        "word": "郑恺苗苗辟谣",
+        "onboard_time": 1756265362,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285816,
+        "num": 372929,
+        "word": "宝格丽 张元英",
+        "onboard_time": 1756263680,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96915,
+        "num": 369960,
+        "word": "民宿回应两00后男房客把房间住包浆",
+        "onboard_time": 1756279703,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 890131,
+        "num": 368708,
+        "word": "霉霉孩子出生就得有一米吧",
+        "onboard_time": 1756273702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520027,
+        "num": 364153,
+        "word": "张百乔瘦了60斤",
+        "onboard_time": 1756277363,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299209,
+        "num": 361460,
+        "word": "景德镇做的杯子还是太超前了",
+        "onboard_time": 1756266923,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516868,
+        "num": 358529,
+        "word": "郑恺小姨子回应",
+        "onboard_time": 1756264222,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27679,
+        "num": 357128,
+        "word": "商城遗址考古70年",
+        "onboard_time": 1756278504,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355045,
+        "num": 355045,
+        "word": "王星越你不要闹到何晟铭面前",
+        "onboard_time": 1756270763,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335229,
+        "num": 335229,
+        "word": "老庙黄金致歉",
+        "onboard_time": 1756274363,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 304043,
+        "num": 304043,
+        "word": "樊振东你担订婚了",
+        "onboard_time": 1756275023,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249652,
+        "num": 267820,
+        "word": "再也不信明星推荐的美食了",
+        "onboard_time": 1756277723,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163766,
+        "num": 267557,
+        "word": "张杰签售会",
+        "onboard_time": 1756276104,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267312,
+        "num": 267312,
+        "word": "特朗普回应霉霉订婚",
+        "onboard_time": 1756253122,
+        "rank": 20,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 35822,
+        "num": 262211,
+        "word": "自闭症男童遇难机构首次正面回应",
+        "onboard_time": 1756279943,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258614,
+        "num": 258614,
+        "word": "30万存款定律",
+        "onboard_time": 1756276582,
+        "rank": 22,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 238009,
+        "num": 238009,
+        "word": "朴智旻宋多恩家中约会视频",
+        "onboard_time": 1756254623,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234220,
+        "num": 234220,
+        "word": "邵兵儿子邵子恒机场人气",
+        "onboard_time": 1756276943,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205097,
+        "num": 205097,
+        "word": "张镇麟 上海男篮",
+        "onboard_time": 1756278923,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190279,
+        "num": 190279,
+        "word": "你俩要不要亲这么用力啊",
+        "onboard_time": 1756279402,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185788,
+        "num": 185788,
+        "word": "股市",
+        "onboard_time": 1756279464,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174515,
+        "num": 185568,
+        "word": "田曦薇被确诊为田细微",
+        "onboard_time": 1756274425,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124714,
+        "num": 185550,
+        "word": "戚薇美的不知天地为何物了",
+        "onboard_time": 1756279883,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185546,
+        "num": 185546,
+        "word": "A股利好又来了",
+        "onboard_time": 1756278204,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184007,
+        "num": 184007,
+        "word": "张万森 下爸爸了",
+        "onboard_time": 1756275863,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171281,
+        "num": 171281,
+        "word": "双胞胎有望上三休五了",
+        "onboard_time": 1756264761,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168169,
+        "num": 168169,
+        "word": "北京5区市民非必要不外出",
+        "onboard_time": 1756275503,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163007,
+        "num": 163007,
+        "word": "iPhone17新颜色",
+        "onboard_time": 1756263561,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154415,
+        "num": 154415,
+        "word": "颜宁院士催更priest",
+        "onboard_time": 1756276465,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 148855,
+        "num": 148855,
+        "word": "其实很多癌症是省出来的",
+        "onboard_time": 1756278623,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148701,
+        "num": 148701,
+        "word": "1.9亿税收的县城要花17亿重建",
+        "onboard_time": 1756278084,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136093,
+        "num": 136093,
+        "word": "丰臣秀吉雕像被斩首",
+        "onboard_time": 1756279044,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97101,
+        "num": 129364,
+        "word": "悬赏上海一套房寻子 采血验亲",
+        "onboard_time": 1756279103,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128993,
+        "num": 128993,
+        "word": "原来这就是送到心坎上的感觉",
+        "onboard_time": 1756278683,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121150,
+        "num": 121150,
+        "word": "小三47次转250和438侮辱原配",
+        "onboard_time": 1756269863,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119566,
+        "num": 119566,
+        "word": "寒武纪",
+        "onboard_time": 1756277543,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118256,
+        "num": 118256,
+        "word": "张晚意马思纯 黎吧啦我稀罕你",
+        "onboard_time": 1756277602,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52492,
+        "num": 117384,
+        "word": "中戏15级表演班十周年聚会照",
+        "onboard_time": 1756280242,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116938,
+        "num": 116938,
+        "word": "杜淳老婆否认是宋慧乔替身",
+        "onboard_time": 1756280242,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111948,
+        "num": 111948,
+        "word": "妻子追回老公出轨赠与款被小三挑衅",
+        "onboard_time": 1756280183,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111556,
+        "num": 111556,
+        "word": "一部电影统一了情侣审美",
+        "onboard_time": 1756280064,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110143,
+        "num": 110143,
+        "word": "孙艺珍关闭ins小号",
+        "onboard_time": 1756278983,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109676,
+        "num": 109676,
+        "word": "王者荣耀S41新赛季爆料",
+        "onboard_time": 1756277602,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设新时代全天候中柬命运共同体#"
+    }
+  }
+}

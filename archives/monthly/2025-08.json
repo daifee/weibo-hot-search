@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756279474027,
+  "endTime": 1756280314140,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1756178063,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1842676,
+      "num": 1842676,
+      "word": "00后两男生开房住宿留下满床辣条油",
+      "onboard_time": 1756277844,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1839250,
@@ -4857,14 +4865,6 @@
       "onboard_time": 1754717182,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 985438,
-      "num": 1157670,
-      "word": "00后两男生开房住宿留下满床辣条油",
-      "onboard_time": 1756277844,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 984659,
@@ -17164,7 +17164,7 @@
     },
     {
       "raw_hot": 388514,
-      "num": 311935,
+      "num": 335229,
       "word": "老庙黄金致歉",
       "onboard_time": 1756274363,
       "rank": 21,
@@ -24363,6 +24363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 258614,
+      "num": 258614,
+      "word": "30万存款定律",
+      "onboard_time": 1756276582,
+      "rank": 30,
+      "category": "财经,休闲"
+    },
+    {
       "raw_hot": 258400,
       "num": 216379,
       "word": "张若昀父亲被恢复执行3.5亿",
@@ -25057,6 +25065,14 @@
       "onboard_time": 1754623342,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249652,
+      "num": 336527,
+      "word": "再也不信明星推荐的美食了",
+      "onboard_time": 1756277723,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 249594,
@@ -26121,14 +26137,6 @@
       "onboard_time": 1755871946,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238596,
-      "num": 238596,
-      "word": "30万存款定律",
-      "onboard_time": 1756276582,
-      "rank": 30,
-      "category": "财经,休闲"
     },
     {
       "raw_hot": 238436,
@@ -30129,14 +30137,6 @@
       "onboard_time": 1754890102,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208346,
-      "num": 336527,
-      "word": "再也不信明星推荐的美食了",
-      "onboard_time": 1756277723,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208338,
@@ -35467,6 +35467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190279,
+      "num": 190279,
+      "word": "你俩要不要亲这么用力啊",
+      "onboard_time": 1756279402,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190241,
       "num": 244602,
       "word": "美俄会晤机密文件疑泄露",
@@ -36881,6 +36889,14 @@
       "onboard_time": 1754563044,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185788,
+      "num": 185788,
+      "word": "股市",
+      "onboard_time": 1756279464,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 185779,
@@ -42153,6 +42169,14 @@
       "onboard_time": 1754267482,
       "rank": 25,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 168169,
+      "num": 384822,
+      "word": "北京5区市民非必要不外出",
+      "onboard_time": 1756275503,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168056,
@@ -49523,6 +49547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148855,
+      "num": 148855,
+      "word": "其实很多癌症是省出来的",
+      "onboard_time": 1756278623,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148845,
       "num": 551870,
       "word": "今日迎处暑",
@@ -50697,14 +50729,6 @@
       "onboard_time": 1755245063,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 146235,
-      "num": 146235,
-      "word": "其实很多癌症是省出来的",
-      "onboard_time": 1756278623,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 146220,
@@ -55787,6 +55811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136093,
+      "num": 148611,
+      "word": "丰臣秀吉雕像被斩首",
+      "onboard_time": 1756279044,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136089,
       "num": 136089,
       "word": "于文文回应粉丝穿婚纱看演唱会",
@@ -57777,14 +57809,6 @@
       "onboard_time": 1754800882,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132393,
-      "num": 384822,
-      "word": "北京5区市民非必要不外出",
-      "onboard_time": 1756275503,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132392,
@@ -61979,6 +62003,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 124714,
+      "num": 185550,
+      "word": "戚薇美的不知天地为何物了",
+      "onboard_time": 1756279883,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124709,
       "num": 351266,
       "word": "多所学校回应毁约新聘教师",
@@ -63465,14 +63497,6 @@
       "onboard_time": 1754177778,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121954,
-      "num": 120423,
-      "word": "你俩要不要亲这么用力啊",
-      "onboard_time": 1756279402,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 121907,
@@ -66171,6 +66195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116938,
+      "num": 116938,
+      "word": "杜淳老婆否认是宋慧乔替身",
+      "onboard_time": 1756280242,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116927,
       "num": 116927,
       "word": "微信转账后记得申请电子凭证",
@@ -68723,6 +68755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 111948,
+      "num": 111948,
+      "word": "妻子追回老公出轨赠与款被小三挑衅",
+      "onboard_time": 1756280183,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111943,
       "num": 111943,
       "word": "CFPL",
@@ -68913,6 +68953,14 @@
       "onboard_time": 1755003385,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111556,
+      "num": 111556,
+      "word": "一部电影统一了情侣审美",
+      "onboard_time": 1756280064,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 111531,
@@ -71865,14 +71913,6 @@
       "onboard_time": 1756133126,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105376,
-      "num": 148611,
-      "word": "丰臣秀吉雕像被斩首",
-      "onboard_time": 1756279044,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 105369,
@@ -75339,6 +75379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97101,
+      "num": 148683,
+      "word": "悬赏上海一套房寻子 采血验亲",
+      "onboard_time": 1756279103,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97099,
       "num": 97099,
       "word": "警方回应游客蹦极疑因绳子断裂坠落",
@@ -75433,6 +75481,14 @@
       "onboard_time": 1755414443,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96915,
+      "num": 369960,
+      "word": "民宿回应两00后男房客把房间住包浆",
+      "onboard_time": 1756279703,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96902,
@@ -85179,14 +85235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53425,
-      "num": 148683,
-      "word": "悬赏上海一套房寻子 采血验亲",
-      "onboard_time": 1756279103,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53393,
       "num": 88679,
       "word": "湖南卫视连发20条周也",
@@ -85353,6 +85401,14 @@
       "onboard_time": 1754577565,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52492,
+      "num": 117384,
+      "word": "中戏15级表演班十周年聚会照",
+      "onboard_time": 1756280242,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 52465,
@@ -88961,6 +89017,14 @@
       "onboard_time": 1755426141,
       "rank": 30,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 35822,
+      "num": 262211,
+      "word": "自闭症男童遇难机构首次正面回应",
+      "onboard_time": 1756279943,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35786,
