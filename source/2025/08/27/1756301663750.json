@@ -1,0 +1,410 @@
+{
+  "runTime": 1756301663750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1462702,
+        "num": 1462702,
+        "word": "酒店浴缸 红线虫",
+        "onboard_time": 1756297224,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1449300,
+        "num": 1449300,
+        "word": "司美格鲁肽",
+        "onboard_time": 1756296264,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26403,
+        "num": 1126958,
+        "word": "中国蓝盔卫士亮相九三阅兵",
+        "onboard_time": 1756288462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1097597,
+        "num": 1097597,
+        "word": "深圳一小区被曝有隐藏豪华建筑",
+        "onboard_time": 1756299565,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 533187,
+        "num": 533187,
+        "word": "樊振东确认出战3项赛事",
+        "onboard_time": 1756298845,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 506373,
+        "num": 506373,
+        "word": "野狗骨头",
+        "onboard_time": 1756299865,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410305,
+        "num": 410305,
+        "word": "潘玮柏来来回回减1000斤了",
+        "onboard_time": 1756300104,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396753,
+        "num": 396753,
+        "word": "北京全市已转移5.8万人",
+        "onboard_time": 1756282403,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354413,
+        "num": 354413,
+        "word": "美团利润大跌89%",
+        "onboard_time": 1756299262,
+        "rank": 8,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 552673,
+        "num": 354187,
+        "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
+        "onboard_time": 1756296444,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1384755,
+        "num": 352795,
+        "word": "虞书欣7天掉粉72万",
+        "onboard_time": 1756292904,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708340,
+        "num": 351199,
+        "word": "网红白冰三个月瘦了50斤",
+        "onboard_time": 1756296804,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 664244,
+        "num": 349125,
+        "word": "郑佩佩儿媳乳腺癌恶化",
+        "onboard_time": 1756299865,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618398,
+        "num": 346569,
+        "word": "张馨予 姐不是一直在内娱吗",
+        "onboard_time": 1756295064,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379423,
+        "num": 346262,
+        "word": "疑似何穗退圈",
+        "onboard_time": 1756286725,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369625,
+        "num": 344800,
+        "word": "00后两男生开房住宿留下满床辣条油",
+        "onboard_time": 1756277844,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76599,
+        "num": 341950,
+        "word": "全新小鹏P7全系Ultra",
+        "onboard_time": 1756300945,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 341853,
+        "num": 341853,
+        "word": "外交部回应李在明涉华言论",
+        "onboard_time": 1756290084,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210006,
+        "num": 308169,
+        "word": "蒋奇明 我没空跟你谈恋爱",
+        "onboard_time": 1756287803,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174092,
+        "num": 294330,
+        "word": "献鱼男三戏份",
+        "onboard_time": 1756298725,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286073,
+        "num": 286073,
+        "word": "樊振东祝福霉霉订婚",
+        "onboard_time": 1756300526,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 246132,
+        "num": 246132,
+        "word": "韩磊将发声明",
+        "onboard_time": 1756299805,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210654,
+        "num": 210654,
+        "word": "广西云南艾滋纳入婚检",
+        "onboard_time": 1756294104,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166305,
+        "num": 166305,
+        "word": "认不出这是王祖贤",
+        "onboard_time": 1756301125,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164748,
+        "num": 164748,
+        "word": "华晨宇吃虫子",
+        "onboard_time": 1756300226,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187058,
+        "num": 164698,
+        "word": "霉霉孩子出生就得有一米吧",
+        "onboard_time": 1756273702,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162222,
+        "num": 162222,
+        "word": "女子幽闭恐惧症隧道内弃车行走",
+        "onboard_time": 1756300584,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149664,
+        "num": 149664,
+        "word": "WE对战AL",
+        "onboard_time": 1756298903,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146733,
+        "num": 146733,
+        "word": "丁禹兮收养流浪猫",
+        "onboard_time": 1756300526,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144021,
+        "num": 144021,
+        "word": "虞书欣起诉两公司侵权",
+        "onboard_time": 1756281024,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143524,
+        "num": 143524,
+        "word": "赵丽颖曾让保镖一起撑伞躲雨",
+        "onboard_time": 1756287563,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92004,
+        "num": 143291,
+        "word": "樊振东体测变憋笑挑战",
+        "onboard_time": 1756295184,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63891,
+        "num": 142942,
+        "word": "店主保管客户彩票中1800万连夜报喜",
+        "onboard_time": 1756293024,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76629,
+        "num": 142583,
+        "word": "上海外滩抽象网红扎堆直播",
+        "onboard_time": 1756300404,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135040,
+        "num": 142408,
+        "word": "00后短剧女演员确诊胃癌",
+        "onboard_time": 1756301426,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142136,
+        "num": 142136,
+        "word": "A股突然大调整",
+        "onboard_time": 1756296143,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140061,
+        "num": 140061,
+        "word": "WE战胜AL",
+        "onboard_time": 1756300526,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133799,
+        "num": 133799,
+        "word": "男子花6元中1800万彩票店老板发声",
+        "onboard_time": 1756298365,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75371,
+        "num": 129683,
+        "word": "恋爱要保持同频的重要性",
+        "onboard_time": 1756300464,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128780,
+        "num": 128780,
+        "word": "韩磊方已报警",
+        "onboard_time": 1756301004,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123102,
+        "num": 123102,
+        "word": "青岛一公园修建仅一年凉亭突然垮塌",
+        "onboard_time": 1756294883,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120925,
+        "num": 120925,
+        "word": "冯建宇 18的8掉了只剩1",
+        "onboard_time": 1756300945,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119639,
+        "num": 119639,
+        "word": "美团将于年底全面取消超时扣款",
+        "onboard_time": 1756300104,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118426,
+        "num": 118426,
+        "word": "你支持领养代替购买吗",
+        "onboard_time": 1756301485,
+        "rank": 43,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 111331,
+        "num": 111331,
+        "word": "巴西网红零下5度穿比基尼被冻伤",
+        "onboard_time": 1756301485,
+        "rank": 44,
+        "category": "海外新闻,网红"
+      },
+      {
+        "raw_hot": 107782,
+        "num": 107782,
+        "word": "狼队对战KSG",
+        "onboard_time": 1756298244,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106073,
+        "num": 106073,
+        "word": "男孩被死鱼扎伤险致截肢",
+        "onboard_time": 1756298183,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103454,
+        "num": 103454,
+        "word": "蜜鼠冰城",
+        "onboard_time": 1756284384,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89443,
+        "num": 103203,
+        "word": "冯建宇生日直播",
+        "onboard_time": 1756300226,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103114,
+        "num": 103114,
+        "word": "韩国历史剧写错汉字",
+        "onboard_time": 1756298004,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬两国要更加坚定地站在一起#"
+    }
+  }
+}

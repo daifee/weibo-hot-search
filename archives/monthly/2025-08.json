@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756299923771,
+  "endTime": 1756301663750,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 1977534,
-      "num": 237483,
+      "num": 352795,
       "word": "虞书欣7天掉粉72万",
       "onboard_time": 1756292904,
       "rank": 15,
@@ -2323,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1462702,
+      "num": 1462702,
+      "word": "酒店浴缸 红线虫",
+      "onboard_time": 1756297224,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1462633,
       "num": 1462633,
       "word": "月薪2万吃不起百果园",
@@ -3137,14 +3145,6 @@
       "onboard_time": 1754311283,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1273996,
-      "num": 1273996,
-      "word": "酒店浴缸 红线虫",
-      "onboard_time": 1756297224,
-      "rank": 1,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1270402,
@@ -4137,6 +4137,14 @@
       "onboard_time": 1754105961,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1097597,
+      "num": 1097597,
+      "word": "深圳一小区被曝有隐藏豪华建筑",
+      "onboard_time": 1756299565,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1094097,
@@ -6084,7 +6092,7 @@
     },
     {
       "raw_hot": 859461,
-      "num": 236271,
+      "num": 346569,
       "word": "张馨予 姐不是一直在内娱吗",
       "onboard_time": 1756295064,
       "rank": 11,
@@ -7020,7 +7028,7 @@
     },
     {
       "raw_hot": 789809,
-      "num": 235856,
+      "num": 351199,
       "word": "网红白冰三个月瘦了50斤",
       "onboard_time": 1756296804,
       "rank": 13,
@@ -9185,6 +9193,14 @@
       "onboard_time": 1755496522,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 664244,
+      "num": 349125,
+      "word": "郑佩佩儿媳乳腺癌恶化",
+      "onboard_time": 1756299865,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 664168,
@@ -11939,6 +11955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552673,
+      "num": 377056,
+      "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
+      "onboard_time": 1756296444,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 552307,
       "num": 552307,
       "word": "网红万洁曝育儿嫂凌晨粗暴翻身婴儿",
@@ -12385,6 +12409,14 @@
       "onboard_time": 1755602486,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 533187,
+      "num": 533187,
+      "word": "樊振东确认出战3项赛事",
+      "onboard_time": 1756298845,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 532584,
@@ -13145,6 +13177,14 @@
       "onboard_time": 1754728883,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 506373,
+      "num": 506373,
+      "word": "野狗骨头",
+      "onboard_time": 1756299865,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 506294,
@@ -16419,6 +16459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410305,
+      "num": 410305,
+      "word": "潘玮柏来来回回减1000斤了",
+      "onboard_time": 1756300104,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409990,
       "num": 318208,
       "word": "文淇 她是龙",
@@ -17979,14 +18027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 377056,
-      "num": 377056,
-      "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
-      "onboard_time": 1756296444,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 377049,
       "num": 377049,
       "word": "海关救回被冲走的鸟蛋孵化出鹦鹉",
@@ -18953,6 +18993,14 @@
       "onboard_time": 1755040700,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354413,
+      "num": 354413,
+      "word": "美团利润大跌89%",
+      "onboard_time": 1756299262,
+      "rank": 27,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 354293,
@@ -22563,6 +22611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286073,
+      "num": 286073,
+      "word": "樊振东祝福霉霉订婚",
+      "onboard_time": 1756300526,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 285932,
       "num": 158217,
       "word": "洞洞鞋突然卖不动了",
@@ -25611,6 +25667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246132,
+      "num": 246132,
+      "word": "韩磊将发声明",
+      "onboard_time": 1756299805,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245994,
       "num": 107053,
       "word": "kid疑似抄袭",
@@ -25745,14 +25809,6 @@
       "onboard_time": 1756033644,
       "rank": 27,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 244966,
-      "num": 244966,
-      "word": "樊振东确认出战3项赛事",
-      "onboard_time": 1756298845,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 244888,
@@ -40659,6 +40715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174092,
+      "num": 294330,
+      "word": "献鱼男三戏份",
+      "onboard_time": 1756298725,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174072,
       "num": 174072,
       "word": "6岁娃沙滩光脚踩到死鱼进了ICU",
@@ -43179,6 +43243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166305,
+      "num": 166305,
+      "word": "认不出这是王祖贤",
+      "onboard_time": 1756301125,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166273,
       "num": 179771,
       "word": "俩男一女拉扯这45秒好刺激",
@@ -43665,6 +43737,14 @@
       "onboard_time": 1755938962,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164748,
+      "num": 164748,
+      "word": "华晨宇吃虫子",
+      "onboard_time": 1756300226,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 164729,
@@ -44529,6 +44609,14 @@
       "onboard_time": 1754636182,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162222,
+      "num": 162222,
+      "word": "女子幽闭恐惧症隧道内弃车行走",
+      "onboard_time": 1756300584,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162220,
@@ -47803,14 +47891,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 154437,
-      "num": 147843,
-      "word": "美团利润大跌89%",
-      "onboard_time": 1756299262,
-      "rank": 27,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 154379,
       "num": 174656,
       "word": "迟蓬夸杨幂",
@@ -48793,14 +48873,6 @@
       "onboard_time": 1756255523,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 152035,
-      "num": 152035,
-      "word": "深圳一小区被曝有隐藏豪华建筑",
-      "onboard_time": 1756299565,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 152016,
@@ -51025,6 +51097,14 @@
       "onboard_time": 1755497782,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146733,
+      "num": 146733,
+      "word": "丁禹兮收养流浪猫",
+      "onboard_time": 1756300526,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 146686,
@@ -53659,14 +53739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141454,
-      "num": 178892,
-      "word": "献鱼男三戏份",
-      "onboard_time": 1756298725,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141380,
       "num": 141380,
       "word": "王者架空短剧定档",
@@ -54265,6 +54337,14 @@
       "onboard_time": 1755074243,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140061,
+      "num": 140061,
+      "word": "WE战胜AL",
+      "onboard_time": 1756300526,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 140055,
@@ -56387,14 +56467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136105,
-      "num": 136105,
-      "word": "韩磊将发声明",
-      "onboard_time": 1756299805,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136093,
       "num": 148611,
       "word": "丰臣秀吉雕像被斩首",
@@ -56937,6 +57009,14 @@
       "onboard_time": 1754138545,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135040,
+      "num": 142408,
+      "word": "00后短剧女演员确诊胃癌",
+      "onboard_time": 1756301426,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 135037,
@@ -57731,6 +57811,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 133799,
+      "num": 133799,
+      "word": "男子花6元中1800万彩票店老板发声",
+      "onboard_time": 1756298365,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133795,
       "num": 133795,
       "word": "建议给汽车加油时下车盯着油表",
@@ -58204,7 +58292,7 @@
     },
     {
       "raw_hot": 132805,
-      "num": 134180,
+      "num": 142942,
       "word": "店主保管客户彩票中1800万连夜报喜",
       "onboard_time": 1756293024,
       "rank": 43,
@@ -60457,6 +60545,14 @@
       "onboard_time": 1755051500,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128780,
+      "num": 128780,
+      "word": "韩磊方已报警",
+      "onboard_time": 1756301004,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 128766,
@@ -64635,14 +64731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121294,
-      "num": 113573,
-      "word": "郑佩佩儿媳乳腺癌恶化",
-      "onboard_time": 1756299865,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121288,
       "num": 121288,
       "word": "孙颖莎闯进四强",
@@ -64809,6 +64897,14 @@
       "onboard_time": 1755532883,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 120925,
+      "num": 120925,
+      "word": "冯建宇 18的8掉了只剩1",
+      "onboard_time": 1756300945,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 120906,
@@ -65627,6 +65723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119639,
+      "num": 119639,
+      "word": "美团将于年底全面取消超时扣款",
+      "onboard_time": 1756300104,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 119621,
       "num": 119621,
       "word": "苏新皓晒童年照",
@@ -66233,6 +66337,14 @@
       "onboard_time": 1755397459,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118426,
+      "num": 118426,
+      "word": "你支持领养代替购买吗",
+      "onboard_time": 1756301485,
+      "rank": 43,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 118415,
@@ -68811,14 +68923,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 113303,
-      "num": 113303,
-      "word": "野狗骨头",
-      "onboard_time": 1756299865,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113296,
       "num": 113296,
       "word": "周深又又又在TMEA迷路了",
@@ -69881,6 +69985,14 @@
       "onboard_time": 1756169903,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111331,
+      "num": 111331,
+      "word": "巴西网红零下5度穿比基尼被冻伤",
+      "onboard_time": 1756301485,
+      "rank": 44,
+      "category": "海外新闻,网红"
     },
     {
       "raw_hot": 111317,
@@ -72457,6 +72569,14 @@
       "onboard_time": 1756135706,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106073,
+      "num": 175268,
+      "word": "男孩被死鱼扎伤险致截肢",
+      "onboard_time": 1756298183,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106064,
@@ -78187,6 +78307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92004,
+      "num": 143291,
+      "word": "樊振东体测变憋笑挑战",
+      "onboard_time": 1756295184,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91990,
       "num": 91990,
       "word": "杨洋谈偶像和流量的关系",
@@ -78496,14 +78624,6 @@
       "word": "Swatch中国官网已找不到眯眯眼照片",
       "onboard_time": 1755472758,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90792,
-      "num": 175268,
-      "word": "男孩被死鱼扎伤险致截肢",
-      "onboard_time": 1756298183,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -78833,6 +78953,14 @@
       "onboard_time": 1755417683,
       "rank": 16,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 89443,
+      "num": 103203,
+      "word": "冯建宇生日直播",
+      "onboard_time": 1756300226,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 89413,
@@ -81803,12 +81931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76629,
+      "num": 142583,
+      "word": "上海外滩抽象网红扎堆直播",
+      "onboard_time": 1756300404,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 76619,
       "num": 116689,
       "word": "男子私配钥匙14次潜入女子家中偷拍",
       "onboard_time": 1755422362,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76599,
+      "num": 341950,
+      "word": "全新小鹏P7全系Ultra",
+      "onboard_time": 1756300945,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 76488,
@@ -82049,6 +82193,14 @@
       "onboard_time": 1755781584,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 75371,
+      "num": 129683,
+      "word": "恋爱要保持同频的重要性",
+      "onboard_time": 1756300464,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 75345,
@@ -92145,6 +92297,14 @@
       "onboard_time": 1756127783,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26403,
+      "num": 1126958,
+      "word": "中国蓝盔卫士亮相九三阅兵",
+      "onboard_time": 1756288462,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26375,
