@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756287689961,
+  "endTime": 1756290392567,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -152,6 +152,14 @@
       "word": "黄多多好漂亮",
       "onboard_time": 1756000222,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1702490,
+      "num": 242727,
+      "word": "疑似何穗退圈",
+      "onboard_time": 1756286725,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1181464,
+      "num": 244343,
+      "word": "Angelababy直播",
+      "onboard_time": 1756286783,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1176103,
       "num": 1188176,
       "word": "育儿补贴不能被商家掏走",
@@ -425,6 +441,14 @@
       "onboard_time": 1756263561,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1104056,
+      "num": 1176648,
+      "word": "学生因甲沟炎请假教官掏出工具修脚",
+      "onboard_time": 1756286964,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1103868,
@@ -771,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 850175,
-      "num": 244343,
-      "word": "Angelababy直播",
-      "onboard_time": 1756286783,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 849616,
       "num": 427682,
       "word": "吴昕体重直逼100斤",
@@ -825,6 +841,14 @@
       "onboard_time": 1756038323,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 815935,
+      "num": 413012,
+      "word": "蜜鼠冰城",
+      "onboard_time": 1756284384,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 814968,
@@ -1089,14 +1113,6 @@
       "onboard_time": 1756201764,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 695044,
-      "num": 242727,
-      "word": "疑似何穗退圈",
-      "onboard_time": 1756286725,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 692113,
@@ -1435,6 +1451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 587622,
+      "num": 563384,
+      "word": "阚清子贵妇感",
+      "onboard_time": 1756285043,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587145,
       "num": 413688,
       "word": "林娜琏 浪姐7",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1756025003,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 584408,
+      "num": 584408,
+      "word": "蒋奇明 我没空跟你谈恋爱",
+      "onboard_time": 1756287803,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 582173,
@@ -1553,14 +1585,6 @@
       "onboard_time": 1756039705,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 563384,
-      "num": 563384,
-      "word": "阚清子贵妇感",
-      "onboard_time": 1756285043,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 561312,
@@ -1793,6 +1817,14 @@
       "onboard_time": 1756108043,
       "rank": 1,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 513279,
+      "num": 207442,
+      "word": "虞书欣与其父不存在直接商业关联",
+      "onboard_time": 1756289663,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 512407,
@@ -2163,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439240,
+      "num": 434450,
+      "word": "孙千予解约",
+      "onboard_time": 1756287864,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439214,
       "num": 823979,
       "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1756228039,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 435528,
+      "num": 435528,
+      "word": "33万被骗子划走竟没发现",
+      "onboard_time": 1756286544,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 434348,
@@ -2369,14 +2417,6 @@
       "onboard_time": 1755970159,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413012,
-      "num": 413012,
-      "word": "蜜鼠冰城",
-      "onboard_time": 1756284384,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 412473,
@@ -3531,6 +3571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245797,
+      "num": 245797,
+      "word": "敬山水",
+      "onboard_time": 1756288404,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244977,
       "num": 244977,
       "word": "周也三杀",
@@ -3737,6 +3785,14 @@
       "onboard_time": 1756020322,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230794,
+      "num": 207002,
+      "word": "赵丽颖曾让保镖一起撑伞躲雨",
+      "onboard_time": 1756287563,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 230771,
@@ -3963,6 +4019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214623,
+      "num": 206880,
+      "word": "杭州男子当街殴打出轨男女",
+      "onboard_time": 1756287024,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213986,
       "num": 213986,
       "word": "华为折叠机出货破千万",
@@ -4105,14 +4169,6 @@
       "onboard_time": 1756123162,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209581,
-      "num": 209581,
-      "word": "学生因甲沟炎请假教官掏出工具修脚",
-      "onboard_time": 1756286964,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209482,
@@ -4523,14 +4579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197893,
-      "num": 247639,
-      "word": "33万被骗子划走竟没发现",
-      "onboard_time": 1756286544,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197736,
       "num": 200784,
       "word": "斗罗大陆小舞",
@@ -4929,6 +4977,14 @@
       "onboard_time": 1756034423,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 190717,
+      "num": 190717,
+      "word": "黄羿cos武则天给我看静止了",
+      "onboard_time": 1756289183,
+      "rank": 26,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 190591,
@@ -5379,6 +5435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182010,
+      "num": 182010,
+      "word": "小海绵穿不下童装的西装了",
+      "onboard_time": 1756289424,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181757,
       "num": 391377,
       "word": "九三阅兵全流程全要素预演",
@@ -5513,6 +5577,14 @@
       "onboard_time": 1756040005,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178697,
+      "num": 178697,
+      "word": "以色列宣布永久占领叙利亚新区域",
+      "onboard_time": 1756288224,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178034,
@@ -6139,6 +6211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163881,
+      "num": 163881,
+      "word": "小海绵给angelababy打视频",
+      "onboard_time": 1756289722,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163462,
       "num": 163462,
       "word": "KSG战胜JDG",
@@ -6196,7 +6276,7 @@
     },
     {
       "raw_hot": 162331,
-      "num": 162331,
+      "num": 602641,
       "word": "冷空气和秋雨搭伙来了",
       "onboard_time": 1756262961,
       "rank": 34,
@@ -7153,6 +7233,14 @@
       "onboard_time": 1756100123,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146343,
+      "num": 146343,
+      "word": "陈星旭此身从此分明了",
+      "onboard_time": 1756287683,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 145767,
@@ -8859,6 +8947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123780,
+      "num": 123780,
+      "word": "无房无车无存款的38岁",
+      "onboard_time": 1756290324,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123722,
       "num": 123722,
       "word": "北京国安4比0武汉三镇",
@@ -9147,6 +9243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120570,
+      "num": 120570,
+      "word": "杨靖宇烈士牺牲确切时间地点确认",
+      "onboard_time": 1756286363,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120518,
       "num": 131832,
       "word": "龚俊快被花少团哄成胚胎了",
@@ -9305,6 +9409,14 @@
       "onboard_time": 1756098683,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118283,
+      "num": 118283,
+      "word": "贵州一22岁村支书意外去世",
+      "onboard_time": 1756289903,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118265,
@@ -10571,14 +10683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101843,
-      "num": 132041,
-      "word": "赵丽颖曾让保镖一起撑伞躲雨",
-      "onboard_time": 1756287563,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101778,
       "num": 101778,
       "word": "只有在中国才能吸到的荒漠猫",
@@ -10665,6 +10769,14 @@
       "onboard_time": 1756123224,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100434,
+      "num": 182794,
+      "word": "全新小鹏P7太火了",
+      "onboard_time": 1756290204,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 100412,
@@ -11059,14 +11171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93818,
-      "num": 131798,
-      "word": "杭州男子当街殴打出轨男女",
-      "onboard_time": 1756287024,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93348,
       "num": 93348,
       "word": "川航回应发馒头卫生质疑",
@@ -11459,6 +11563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82164,
+      "num": 207216,
+      "word": "学校回应学生持凳砸向老师",
+      "onboard_time": 1756288883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82056,
       "num": 155172,
       "word": "生万物开局一群人结局一堆坟",
@@ -11577,6 +11689,14 @@
       "onboard_time": 1756056798,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79660,
+      "num": 207189,
+      "word": "外交部回应李在明涉华言论",
+      "onboard_time": 1756290084,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79551,
@@ -12057,6 +12177,14 @@
       "onboard_time": 1756091122,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 64343,
+      "num": 149235,
+      "word": "西南大学回应学生可点其他外卖",
+      "onboard_time": 1756288284,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63914,
@@ -12691,6 +12819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47435,
+      "num": 144181,
+      "word": "男子藏1.5万私房钱压垮天花板",
+      "onboard_time": 1756290324,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46562,
       "num": 127905,
       "word": "信访干部骂老人老不死",
@@ -12987,6 +13123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38697,
+      "num": 133010,
+      "word": "独生子女养老压力",
+      "onboard_time": 1756290143,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38677,
       "num": 51307,
       "word": "孙颖莎说和王曼昱彼此信任",
@@ -13153,6 +13297,14 @@
       "onboard_time": 1756240034,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33902,
+      "num": 145166,
+      "word": "为免票背滕王阁序现场像早读",
+      "onboard_time": 1756290324,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33824,
@@ -13480,6 +13632,14 @@
       "word": "情侣车里吵架坠湖被71岁老人救起",
       "onboard_time": 1756206142,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26094,
+      "num": 207636,
+      "word": "麦积山石窟背后的无名工匠",
+      "onboard_time": 1756288883,
+      "rank": 14,
       "category": "民生新闻"
     },
     {

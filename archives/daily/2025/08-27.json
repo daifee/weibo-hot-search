@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756287689961,
+  "endTime": 1756290392567,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1702490,
+      "num": 242727,
+      "word": "疑似何穗退圈",
+      "onboard_time": 1756286725,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1502641,
       "num": 1502641,
       "word": "郑恺苗苗辟谣",
@@ -99,12 +107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1181464,
+      "num": 244343,
+      "word": "Angelababy直播",
+      "onboard_time": 1756286783,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1110488,
       "num": 1110488,
       "word": "iPhone17新颜色",
       "onboard_time": 1756263561,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1104056,
+      "num": 1176648,
+      "word": "学生因甲沟炎请假教官掏出工具修脚",
+      "onboard_time": 1756286964,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1068479,
@@ -163,12 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 850175,
-      "num": 244343,
-      "word": "Angelababy直播",
-      "onboard_time": 1756286783,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 815935,
+      "num": 413012,
+      "word": "蜜鼠冰城",
+      "onboard_time": 1756284384,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 806076,
@@ -217,14 +241,6 @@
       "onboard_time": 1756282224,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 695044,
-      "num": 242727,
-      "word": "疑似何穗退圈",
-      "onboard_time": 1756286725,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 688724,
@@ -315,12 +331,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 563384,
+      "raw_hot": 587622,
       "num": 563384,
       "word": "阚清子贵妇感",
       "onboard_time": 1756285043,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 584408,
+      "num": 584408,
+      "word": "蒋奇明 我没空跟你谈恋爱",
+      "onboard_time": 1756287803,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 547556,
@@ -345,6 +369,14 @@
       "onboard_time": 1756250118,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513279,
+      "num": 207442,
+      "word": "虞书欣与其父不存在直接商业关联",
+      "onboard_time": 1756289663,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 473492,
@@ -403,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439240,
+      "num": 434450,
+      "word": "孙千予解约",
+      "onboard_time": 1756287864,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439214,
       "num": 823979,
       "word": "宜昌一景区游客蹦极疑绳子断裂坠落",
@@ -427,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435528,
+      "num": 435528,
+      "word": "33万被骗子划走竟没发现",
+      "onboard_time": 1756286544,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429744,
       "num": 429744,
       "word": "苹果或将停售7款产品",
       "onboard_time": 1756256303,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 413012,
-      "num": 413012,
-      "word": "蜜鼠冰城",
-      "onboard_time": 1756284384,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 406405,
@@ -651,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 245797,
+      "num": 245797,
+      "word": "敬山水",
+      "onboard_time": 1756288404,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240054,
       "num": 274160,
       "word": "张艺凡说田曦薇是白磷型人格",
@@ -689,6 +737,14 @@
       "onboard_time": 1756278204,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 230794,
+      "num": 207002,
+      "word": "赵丽颖曾让保镖一起撑伞躲雨",
+      "onboard_time": 1756287563,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 230672,
@@ -779,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214623,
+      "num": 206880,
+      "word": "杭州男子当街殴打出轨男女",
+      "onboard_time": 1756287024,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213479,
       "num": 213479,
       "word": "黄景瑜前妻点赞了许荔莎",
@@ -801,14 +865,6 @@
       "onboard_time": 1756267163,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209581,
-      "num": 209581,
-      "word": "学生因甲沟炎请假教官掏出工具修脚",
-      "onboard_time": 1756286964,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208722,
@@ -851,14 +907,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 197893,
-      "num": 247639,
-      "word": "33万被骗子划走竟没发现",
-      "onboard_time": 1756286544,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196448,
       "num": 196448,
       "word": "当代年轻人如何反向过七夕",
@@ -897,6 +945,14 @@
       "onboard_time": 1756278683,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190717,
+      "num": 190717,
+      "word": "黄羿cos武则天给我看静止了",
+      "onboard_time": 1756289183,
+      "rank": 26,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 190591,
@@ -1043,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182010,
+      "num": 182010,
+      "word": "小海绵穿不下童装的西装了",
+      "onboard_time": 1756289424,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181558,
       "num": 165952,
       "word": "陈飞宇王影璐出手就是国宴",
       "onboard_time": 1756262361,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178697,
+      "num": 178697,
+      "word": "以色列宣布永久占领叙利亚新区域",
+      "onboard_time": 1756288224,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177542,
@@ -1163,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163881,
+      "num": 163881,
+      "word": "小海绵给angelababy打视频",
+      "onboard_time": 1756289722,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163118,
       "num": 163118,
       "word": "哥哥因病离世弟弟又确诊罕见病",
@@ -1180,7 +1260,7 @@
     },
     {
       "raw_hot": 162331,
-      "num": 162331,
+      "num": 602641,
       "word": "冷空气和秋雨搭伙来了",
       "onboard_time": 1756262961,
       "rank": 34,
@@ -1433,6 +1513,14 @@
       "onboard_time": 1756274782,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 146343,
+      "num": 146343,
+      "word": "陈星旭此身从此分明了",
+      "onboard_time": 1756287683,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 145649,
@@ -1803,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123780,
+      "num": 123780,
+      "word": "无房无车无存款的38岁",
+      "onboard_time": 1756290324,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123155,
       "num": 123155,
       "word": "莎头混双5号种子出战中国大满贯",
@@ -1883,12 +1979,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120570,
+      "num": 120570,
+      "word": "杨靖宇烈士牺牲确切时间地点确认",
+      "onboard_time": 1756286363,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119083,
       "num": 119083,
       "word": "国际奥委会发博纪念刘翔夺冠21周年",
       "onboard_time": 1756259061,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118283,
+      "num": 118283,
+      "word": "贵州一22岁村支书意外去世",
+      "onboard_time": 1756289903,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116306,
@@ -2051,12 +2163,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101843,
-      "num": 132041,
-      "word": "赵丽颖曾让保镖一起撑伞躲雨",
-      "onboard_time": 1756287563,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 100434,
+      "num": 182794,
+      "word": "全新小鹏P7太火了",
+      "onboard_time": 1756290204,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 99638,
@@ -2121,14 +2233,6 @@
       "onboard_time": 1756210463,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 93818,
-      "num": 131798,
-      "word": "杭州男子当街殴打出轨男女",
-      "onboard_time": 1756287024,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93348,
@@ -2235,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82164,
+      "num": 207216,
+      "word": "学校回应学生持凳砸向老师",
+      "onboard_time": 1756288883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81616,
       "num": 294552,
       "word": "高速戴面具男子向当事人道歉获谅解",
@@ -2265,6 +2377,14 @@
       "onboard_time": 1756206982,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79660,
+      "num": 207189,
+      "word": "外交部回应李在明涉华言论",
+      "onboard_time": 1756290084,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77182,
@@ -2371,6 +2491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64343,
+      "num": 149235,
+      "word": "西南大学回应学生可点其他外卖",
+      "onboard_time": 1756288284,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61735,
       "num": 61735,
       "word": "梓渝 时装男士",
@@ -2475,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47435,
+      "num": 144181,
+      "word": "男子藏1.5万私房钱压垮天花板",
+      "onboard_time": 1756290324,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46384,
       "num": 181381,
       "word": "员工患病拒上夜班被解雇获赔12万元",
@@ -2563,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38697,
+      "num": 133010,
+      "word": "独生子女养老压力",
+      "onboard_time": 1756290143,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38013,
       "num": 38013,
       "word": "能不能一键快进到下周三",
@@ -2585,6 +2729,14 @@
       "onboard_time": 1756240034,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33902,
+      "num": 145166,
+      "word": "为免票背滕王阁序现场像早读",
+      "onboard_time": 1756290324,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33040,
@@ -2640,6 +2792,14 @@
       "word": "寺庙金灰",
       "onboard_time": 1756269204,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26094,
+      "num": 207636,
+      "word": "麦积山石窟背后的无名工匠",
+      "onboard_time": 1756288883,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
