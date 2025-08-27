@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756264622208,
+  "endTime": 1756266587789,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -57,6 +57,14 @@
       "onboard_time": 1756253122,
       "rank": 5,
       "category": "国际时政,艺人"
+    },
+    {
+      "raw_hot": 2649059,
+      "num": 274552,
+      "word": "郑恺小姨子回应",
+      "onboard_time": 1756264222,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 2366181,
@@ -257,6 +265,14 @@
       "onboard_time": 1755956608,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1255740,
+      "num": 1255740,
+      "word": "郑恺苗苗辟谣",
+      "onboard_time": 1756265362,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1246565,
@@ -819,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 759472,
+      "num": 759472,
+      "word": "宝格丽 张元英",
+      "onboard_time": 1756263680,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 756193,
       "num": 493249,
       "word": "甜馨小酒窝一起跳舞了",
@@ -852,7 +876,7 @@
     },
     {
       "raw_hot": 751616,
-      "num": 264439,
+      "num": 274464,
       "word": "韩娱有自己的魔嫂",
       "onboard_time": 1756260921,
       "rank": 12,
@@ -1099,6 +1123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 636829,
+      "num": 636829,
+      "word": "iPhone17新颜色",
+      "onboard_time": 1756263561,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 635075,
       "num": 315075,
       "word": "陈乔恩艾伦娱乐圈文照进现实",
@@ -1116,7 +1148,7 @@
     },
     {
       "raw_hot": 631756,
-      "num": 253762,
+      "num": 273970,
       "word": "看小腿就知道你血糖超标了",
       "onboard_time": 1756257382,
       "rank": 22,
@@ -1843,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454128,
+      "num": 274322,
+      "word": "欧豪你三个爹一块演戏不带你",
+      "onboard_time": 1756263982,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 452825,
       "num": 452825,
       "word": "日本试图干涉九三阅兵在怕什么",
@@ -1881,14 +1921,6 @@
       "onboard_time": 1755960807,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 447570,
-      "num": 447570,
-      "word": "宝格丽 张元英",
-      "onboard_time": 1756263680,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 446561,
@@ -2195,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397337,
+      "num": 274662,
+      "word": "严浩翔 张元英转圈",
+      "onboard_time": 1756265362,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 392890,
       "num": 392890,
       "word": "民生银行回应落马副行长当网红",
@@ -2387,14 +2427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 364378,
-      "num": 260753,
-      "word": "欧豪你三个爹一块演戏不带你",
-      "onboard_time": 1756263982,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 363396,
       "num": 363396,
       "word": "用信用卡12年才知每年被扣2600元",
@@ -2441,6 +2473,14 @@
       "onboard_time": 1756132466,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353008,
+      "num": 273886,
+      "word": "癌症为什么偏爱C型性格",
+      "onboard_time": 1756263081,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 352653,
@@ -2699,14 +2739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 310121,
-      "num": 253576,
-      "word": "癌症为什么偏爱C型性格",
-      "onboard_time": 1756263081,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 309661,
       "num": 309661,
       "word": "严浩翔橙发",
@@ -2737,6 +2769,14 @@
       "onboard_time": 1756223664,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303609,
+      "num": 274307,
+      "word": "双胞胎有望上三休五了",
+      "onboard_time": 1756264761,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 301520,
@@ -2803,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292582,
+      "num": 274215,
+      "word": "建议朋友圈一定要当天发",
+      "onboard_time": 1756265001,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291028,
       "num": 499842,
       "word": "浙江鲁迅研究会回应鲁迅夹烟",
@@ -2825,6 +2873,14 @@
       "onboard_time": 1756010121,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 284732,
+      "num": 274137,
+      "word": "董璇对张维伊有极致的爱",
+      "onboard_time": 1756263920,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 284002,
@@ -2899,12 +2955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276041,
+      "num": 273838,
+      "word": "HYBE回应朴智旻恋情",
+      "onboard_time": 1756265541,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274729,
       "num": 274729,
       "word": "宋祖儿在用漂亮的脸蛋做什么",
       "onboard_time": 1756121483,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274703,
+      "num": 274703,
+      "word": "九三阅兵MV胜利荣光",
+      "onboard_time": 1756262901,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 272441,
@@ -2964,7 +3036,7 @@
     },
     {
       "raw_hot": 267234,
-      "num": 267234,
+      "num": 274639,
       "word": "受阅部队又一批新画面解锁",
       "onboard_time": 1756263081,
       "rank": 9,
@@ -3027,6 +3099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 261130,
+      "num": 261130,
+      "word": "台湾同胞受邀出席九三阅兵",
+      "onboard_time": 1756263081,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 260596,
       "num": 335253,
       "word": "1986年绣绣走了杨幂出生了",
@@ -3048,14 +3128,6 @@
       "word": "44岁阿娇近照曝光",
       "onboard_time": 1756104143,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 256493,
-      "num": 256493,
-      "word": "郑恺小姨子回应",
-      "onboard_time": 1756264222,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -3219,14 +3291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245929,
-      "num": 267339,
-      "word": "九三阅兵MV胜利荣光",
-      "onboard_time": 1756262901,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 244977,
       "num": 244977,
       "word": "周也三杀",
@@ -3273,6 +3337,14 @@
       "onboard_time": 1756205364,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240054,
+      "num": 274160,
+      "word": "张艺凡说田曦薇是白磷型人格",
+      "onboard_time": 1756260441,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 239892,
@@ -3595,14 +3667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213741,
-      "num": 268174,
-      "word": "张艺凡说田曦薇是白磷型人格",
-      "onboard_time": 1756260441,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213704,
       "num": 213704,
       "word": "杨紫格雷系私服穿搭",
@@ -3641,14 +3705,6 @@
       "onboard_time": 1756089501,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211559,
-      "num": 256535,
-      "word": "台湾同胞受邀出席九三阅兵",
-      "onboard_time": 1756263081,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 211470,
@@ -4467,6 +4523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 190591,
+      "num": 190591,
+      "word": "iPhone17ProMax手机壳最新曝光",
+      "onboard_time": 1756265362,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "年薪15万程序员下班送外卖称解压",
@@ -4889,22 +4953,6 @@
       "onboard_time": 1756185384,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180594,
-      "num": 256510,
-      "word": "董璇对张维伊有极致的爱",
-      "onboard_time": 1756263920,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 180169,
-      "num": 180169,
-      "word": "iPhone17新颜色",
-      "onboard_time": 1756263561,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 179995,
@@ -5731,6 +5779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158400,
+      "num": 252401,
+      "word": "唐国强李乃文一个老抽一个中抽",
+      "onboard_time": 1756265181,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158125,
       "num": 158125,
       "word": "关晓彤去了汪苏泷演唱会",
@@ -5768,6 +5824,14 @@
       "word": "16加8轻断食4个月减脂近四分之一",
       "onboard_time": 1756022302,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157187,
+      "num": 157187,
+      "word": "1名游客蹦极掉水里景区已停业",
+      "onboard_time": 1756264702,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -5817,6 +5881,14 @@
       "onboard_time": 1756012883,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156156,
+      "num": 251258,
+      "word": "花儿与少年",
+      "onboard_time": 1756265904,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 156092,
@@ -6049,6 +6121,14 @@
       "onboard_time": 1756214782,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152318,
+      "num": 152318,
+      "word": "恋与深空",
+      "onboard_time": 1756265843,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 152138,
@@ -6643,6 +6723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141429,
+      "num": 141429,
+      "word": "大妈晕机要靠窗坐被拒后大骂",
+      "onboard_time": 1756265122,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141362,
       "num": 141362,
       "word": "迪丽热巴跳了神的随波逐流",
@@ -6745,6 +6833,14 @@
       "onboard_time": 1756180642,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139226,
+      "num": 139226,
+      "word": "为什么不把土豆当做主粮",
+      "onboard_time": 1756263441,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139206,
@@ -6873,6 +6969,14 @@
       "onboard_time": 1756031482,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137714,
+      "num": 137714,
+      "word": "中产家长卷不动暑期旅游了",
+      "onboard_time": 1756265962,
+      "rank": 43,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 137355,
@@ -7035,6 +7139,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 134986,
+      "num": 134986,
+      "word": "余承东曝新款三折叠支持手写笔",
+      "onboard_time": 1756265301,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134848,
       "num": 134848,
       "word": "吴艳妮压哨入围世锦赛",
@@ -7065,6 +7177,14 @@
       "onboard_time": 1756257203,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134704,
+      "num": 161492,
+      "word": "关晓彤李昀锐耀眼质感",
+      "onboard_time": 1756266321,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 134656,
@@ -7803,6 +7923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123150,
+      "num": 123150,
+      "word": "股市大涨理财收益下降",
+      "onboard_time": 1756266202,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122962,
       "num": 123923,
       "word": "遇到志同道合的人是什么体验",
@@ -8315,6 +8443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116666,
+      "num": 116666,
+      "word": "读过研的人是很难抱怨上班的",
+      "onboard_time": 1756266562,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116379,
       "num": 116379,
       "word": "刘宇宁唐装小生",
@@ -8521,6 +8657,14 @@
       "onboard_time": 1756023260,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113824,
+      "num": 142387,
+      "word": "杨幂能长红不是没有道理的",
+      "onboard_time": 1756265241,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 113726,
@@ -10395,6 +10539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76179,
+      "num": 144474,
+      "word": "一家人96万坐熊猫专列称餐食不符",
+      "onboard_time": 1756266023,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75693,
       "num": 136295,
       "word": "徐艺洋回应网友怎么看上黄子韬",
@@ -10875,14 +11027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 58871,
-      "num": 123387,
-      "word": "为什么不把土豆当做主粮",
-      "onboard_time": 1756263441,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58369,
       "num": 58369,
       "word": "孙颖莎4比2王曼昱",
@@ -11105,6 +11249,14 @@
       "onboard_time": 1756199182,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52914,
+      "num": 274039,
+      "word": "直播公司围猎未成年人乱象调查",
+      "onboard_time": 1756265481,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 52535,
@@ -11779,6 +11931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32329,
+      "num": 903182,
+      "word": "网警守护开学季",
+      "onboard_time": 1756257022,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31951,
       "num": 42996,
       "word": "AG夺得EWC穿越火线冠军",
@@ -11817,14 +11977,6 @@
       "onboard_time": 1756213043,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30363,
-      "num": 641189,
-      "word": "网警守护开学季",
-      "onboard_time": 1756257022,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30318,
