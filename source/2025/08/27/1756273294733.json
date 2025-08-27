@@ -1,0 +1,410 @@
+{
+  "runTime": 1756273294733,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1028396,
+        "num": 1164543,
+        "word": "郑恺苗苗辟谣",
+        "onboard_time": 1756265362,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679538,
+        "num": 679538,
+        "word": "西南大学 外卖垄断",
+        "onboard_time": 1756270402,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23901,
+        "num": 657167,
+        "word": "抗战烽火的中流砥柱",
+        "onboard_time": 1756257203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 777828,
+        "num": 655857,
+        "word": "宝格丽 张元英",
+        "onboard_time": 1756263680,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686632,
+        "num": 655351,
+        "word": "宗馥莉回应娃哈哈争议问题",
+        "onboard_time": 1756270283,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654497,
+        "num": 654497,
+        "word": "iPhone17新颜色",
+        "onboard_time": 1756263561,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 535326,
+        "num": 535326,
+        "word": "景德镇做的杯子还是太超前了",
+        "onboard_time": 1756266923,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527898,
+        "num": 527898,
+        "word": "iPhone17全系价格曝光",
+        "onboard_time": 1756255162,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292566,
+        "num": 292566,
+        "word": "生万物前11集片头没有迟蓬",
+        "onboard_time": 1756269263,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45885,
+        "num": 292330,
+        "word": "抗战胜利80周年活动将举办记者招待会",
+        "onboard_time": 1756272623,
+        "rank": 9,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 1472376,
+        "num": 289411,
+        "word": "郑恺小姨子回应",
+        "onboard_time": 1756264222,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 885722,
+        "num": 286521,
+        "word": "王星越你不要闹到何晟铭面前",
+        "onboard_time": 1756270763,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662195,
+        "num": 285769,
+        "word": "小三47次转250和438侮辱原配",
+        "onboard_time": 1756269863,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635331,
+        "num": 282510,
+        "word": "双胞胎有望上三休五了",
+        "onboard_time": 1756264761,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41953,
+        "num": 279259,
+        "word": "云冈石窟的神来之笔",
+        "onboard_time": 1756270883,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564012,
+        "num": 276874,
+        "word": "朴智旻宋多恩家中约会视频",
+        "onboard_time": 1756254623,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381842,
+        "num": 276317,
+        "word": "建议朋友圈一定要当天发",
+        "onboard_time": 1756265001,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274628,
+        "num": 274628,
+        "word": "HYBE回应朴智旻恋情",
+        "onboard_time": 1756265541,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218853,
+        "num": 218853,
+        "word": "严浩翔 张元英转圈",
+        "onboard_time": 1756265362,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193862,
+        "num": 193862,
+        "word": "韩娱有自己的魔嫂",
+        "onboard_time": 1756260921,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 796992,
+        "num": 193755,
+        "word": "特朗普回应霉霉订婚",
+        "onboard_time": 1756253122,
+        "rank": 20,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 232178,
+        "num": 193195,
+        "word": "少年群像终于迎来了真少年",
+        "onboard_time": 1756273043,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210123,
+        "num": 192835,
+        "word": "看小腿就知道你血糖超标了",
+        "onboard_time": 1756257382,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192163,
+        "num": 192163,
+        "word": "易烊千玺 抢票",
+        "onboard_time": 1756267163,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189704,
+        "num": 189704,
+        "word": "14名内鬼侵犯华为芯片技术被判刑",
+        "onboard_time": 1756272983,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669664,
+        "num": 188523,
+        "word": "霉霉订婚",
+        "onboard_time": 1756229957,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186813,
+        "num": 186813,
+        "word": "台积电被曝停用大陆设备",
+        "onboard_time": 1756270943,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182249,
+        "num": 182249,
+        "word": "九三阅兵MV胜利荣光",
+        "onboard_time": 1756262901,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178759,
+        "num": 178759,
+        "word": "王者荣耀",
+        "onboard_time": 1756269383,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167020,
+        "num": 167020,
+        "word": "诺一霓娜长这么高了",
+        "onboard_time": 1756268183,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161935,
+        "num": 161935,
+        "word": "原神",
+        "onboard_time": 1756271904,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160221,
+        "num": 160221,
+        "word": "狗狗去世前被允许尝巧克力",
+        "onboard_time": 1756255343,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159442,
+        "num": 159442,
+        "word": "母亲的愧疚式教育逼疯儿子",
+        "onboard_time": 1756271542,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153115,
+        "num": 153115,
+        "word": "月薪5千和1万5差别",
+        "onboard_time": 1756270043,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150464,
+        "num": 153031,
+        "word": "鹿晗南昌演唱会官宣嘉宾邓超",
+        "onboard_time": 1756271424,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153018,
+        "num": 153018,
+        "word": "杭州地铁两女子疑因行乞嫌少发飙",
+        "onboard_time": 1756270943,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152970,
+        "num": 152970,
+        "word": "孙颖莎王楚钦混双出战",
+        "onboard_time": 1756271482,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151716,
+        "num": 151716,
+        "word": "哥哥因病离世弟弟又确诊罕见病",
+        "onboard_time": 1756271065,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56857,
+        "num": 149624,
+        "word": "29名日本人在柬埔寨电诈被抓",
+        "onboard_time": 1756272261,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133282,
+        "num": 148121,
+        "word": "米勒谈LPL与LCK差距",
+        "onboard_time": 1756272803,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147725,
+        "num": 147725,
+        "word": "孟子义何与就让这大雨全都落下",
+        "onboard_time": 1756272683,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144884,
+        "num": 144884,
+        "word": "癌症为什么偏爱C型性格",
+        "onboard_time": 1756263081,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142194,
+        "num": 142194,
+        "word": "喜茶称反式脂肪酸最高证明真奶最多",
+        "onboard_time": 1756272983,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137711,
+        "num": 137711,
+        "word": "内娱综艺最真诚的十分钟",
+        "onboard_time": 1756273224,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137396,
+        "num": 137396,
+        "word": "郭聪明自曝解约赔了2000万",
+        "onboard_time": 1756270523,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136414,
+        "num": 136414,
+        "word": "建议禁止东北人进入汉化组",
+        "onboard_time": 1756272863,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133772,
+        "num": 133772,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1756272803,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133347,
+        "num": 133347,
+        "word": "黄仁俊私服审美",
+        "onboard_time": 1756272623,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125002,
+        "num": 125002,
+        "word": "WTT中国大满贯2025双打名单",
+        "onboard_time": 1756272143,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123353,
+        "num": 123353,
+        "word": "读过研的人是很难抱怨上班的",
+        "onboard_time": 1756266562,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设新时代全天候中柬命运共同体#"
+    }
+  }
+}
