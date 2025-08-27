@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756269034904,
+  "endTime": 1756269816468,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -187,8 +187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1497754,
-      "num": 1497754,
+      "raw_hot": 1502641,
+      "num": 1502641,
       "word": "郑恺苗苗辟谣",
       "onboard_time": 1756265362,
       "rank": 1,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1110488,
+      "num": 1110488,
+      "word": "iPhone17新颜色",
+      "onboard_time": 1756263561,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1103868,
       "num": 1176619,
       "word": "王牌对王牌9官宣",
@@ -411,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1068479,
+      "num": 274307,
+      "word": "双胞胎有望上三休五了",
+      "onboard_time": 1756264761,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1059668,
       "num": 272719,
       "word": "奚梦瑶回宫",
@@ -425,14 +441,6 @@
       "onboard_time": 1755992959,
       "rank": 0,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 1049956,
-      "num": 1049956,
-      "word": "iPhone17新颜色",
-      "onboard_time": 1756263561,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 1041296,
@@ -585,14 +593,6 @@
       "onboard_time": 1756117583,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 940146,
-      "num": 274307,
-      "word": "双胞胎有望上三休五了",
-      "onboard_time": 1756264761,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 936576,
@@ -1579,6 +1579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 529642,
+      "num": 274215,
+      "word": "建议朋友圈一定要当天发",
+      "onboard_time": 1756265001,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 522986,
       "num": 381461,
       "word": "女子买旗袍怀疑自己买到了寿衣",
@@ -2003,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436661,
+      "num": 273838,
+      "word": "HYBE回应朴智旻恋情",
+      "onboard_time": 1756265541,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435850,
       "num": 243222,
       "word": "张檬带4个月大儿子坐飞机",
@@ -2241,14 +2257,6 @@
       "onboard_time": 1756106544,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 404069,
-      "num": 273838,
-      "word": "HYBE回应朴智旻恋情",
-      "onboard_time": 1756265541,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 398763,
@@ -2571,12 +2579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 343299,
-      "num": 274215,
-      "word": "建议朋友圈一定要当天发",
-      "onboard_time": 1756265001,
-      "rank": 16,
-      "category": "幽默"
+      "raw_hot": 343388,
+      "num": 343388,
+      "word": "易烊千玺 抢票",
+      "onboard_time": 1756267163,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 343050,
@@ -2753,14 +2761,6 @@
       "onboard_time": 1756121662,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317364,
-      "num": 317364,
-      "word": "易烊千玺 抢票",
-      "onboard_time": 1756267163,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 314185,
@@ -4307,6 +4307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196413,
+      "num": 247305,
+      "word": "景区施工发现1449座古墓跨多朝",
+      "onboard_time": 1756267284,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196397,
       "num": 194360,
       "word": "上海优化调整房地产政策措施",
@@ -4875,12 +4883,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183317,
+      "num": 183317,
+      "word": "刷到这个上床下桌先笑了两分钟",
+      "onboard_time": 1756267764,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182963,
       "num": 199315,
       "word": "与晋长安",
       "onboard_time": 1756011442,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182903,
+      "num": 251258,
+      "word": "花儿与少年",
+      "onboard_time": 1756265904,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 182798,
@@ -5107,12 +5131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177103,
+      "num": 216799,
+      "word": "林俊杰新歌",
+      "onboard_time": 1756268543,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176825,
       "num": 218329,
       "word": "广州3点放学小学生家长愁接送难",
       "onboard_time": 1756194023,
       "rank": 43,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 176770,
+      "num": 176770,
+      "word": "干将莫邪狐妖联动新皮肤",
+      "onboard_time": 1756269263,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 176616,
@@ -5355,14 +5395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169491,
-      "num": 251258,
-      "word": "花儿与少年",
-      "onboard_time": 1756265904,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169416,
       "num": 169416,
       "word": "蒋欣关晓彤 是妈妈是女儿",
@@ -5451,12 +5483,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 168278,
+      "num": 168278,
+      "word": "减肥最好最简单的运动",
+      "onboard_time": 1756266502,
+      "rank": 43,
+      "category": "幽默,运动健身"
+    },
+    {
       "raw_hot": 168040,
       "num": 165677,
       "word": "她的同学根本没意识到她有多强",
       "onboard_time": 1756041205,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167779,
+      "num": 189664,
+      "word": "诺一霓娜长这么高了",
+      "onboard_time": 1756268183,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 167778,
@@ -5913,14 +5961,6 @@
       "onboard_time": 1756214422,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157686,
-      "num": 247305,
-      "word": "景区施工发现1449座古墓跨多朝",
-      "onboard_time": 1756267284,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157456,
@@ -6537,14 +6577,6 @@
       "onboard_time": 1756181964,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145509,
-      "num": 210370,
-      "word": "林俊杰新歌",
-      "onboard_time": 1756268543,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 145482,
@@ -9547,6 +9579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102492,
+      "num": 243311,
+      "word": "阅兵大场面想想就激动",
+      "onboard_time": 1756269263,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102348,
       "num": 102348,
       "word": "孙颖莎王楚钦中国大满贯宣传片",
@@ -10027,6 +10067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94346,
+      "num": 190523,
+      "word": "大坂直美labubu一身红钻",
+      "onboard_time": 1756268724,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94204,
       "num": 161418,
       "word": "时代少年团一晚上打两份工",
@@ -10227,6 +10275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89194,
+      "num": 251314,
+      "word": "美团闪购给情侣撒钱",
+      "onboard_time": 1756267703,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89153,
       "num": 89153,
       "word": "Baolan疑似回应被骗",
@@ -10401,14 +10457,6 @@
       "onboard_time": 1756019242,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83175,
-      "num": 251314,
-      "word": "美团闪购给情侣撒钱",
-      "onboard_time": 1756267703,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 83038,
@@ -10971,12 +11019,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 65651,
-      "num": 190523,
-      "word": "大坂直美labubu一身红钻",
-      "onboard_time": 1756268724,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 65583,
+      "num": 248913,
+      "word": "小鹏P7成50万内浙赛最速轿跑",
+      "onboard_time": 1756267703,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 65413,
@@ -11065,14 +11113,6 @@
       "onboard_time": 1756203623,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61394,
-      "num": 189664,
-      "word": "诺一霓娜长这么高了",
-      "onboard_time": 1756268183,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 61267,
@@ -11179,6 +11219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 58321,
+      "num": 245329,
+      "word": "生万物前11集片头没有迟蓬",
+      "onboard_time": 1756269263,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57976,
       "num": 81583,
       "word": "孙颖莎又创一项纪录",
@@ -11209,14 +11257,6 @@
       "onboard_time": 1756219823,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57050,
-      "num": 248913,
-      "word": "小鹏P7成50万内浙赛最速轿跑",
-      "onboard_time": 1756267703,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 56987,
@@ -12075,6 +12115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33040,
+      "num": 256940,
+      "word": "敦煌石窟的藏经洞是偶然发现的",
+      "onboard_time": 1756267882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32329,
       "num": 903182,
       "word": "网警守护开学季",
@@ -12275,6 +12323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27353,
+      "num": 180020,
+      "word": "寺庙金灰",
+      "onboard_time": 1756269204,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27299,
       "num": 55243,
       "word": "独白6208",
@@ -12323,6 +12379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25799,
+      "num": 952809,
+      "word": "抗战烽火的中流砥柱",
+      "onboard_time": 1756257203,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25415,
       "num": 245377,
       "word": "高速戴恐怖面具吓人不如露脸道歉",
@@ -12363,14 +12427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24807,
-      "num": 256940,
-      "word": "敦煌石窟的藏经洞是偶然发现的",
-      "onboard_time": 1756267882,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24728,
       "num": 111215,
       "word": "被毒死的毛孩子和为它们打官司的人",
@@ -12401,14 +12457,6 @@
       "onboard_time": 1756028002,
       "rank": 40,
       "category": "海外新闻,美食"
-    },
-    {
-      "raw_hot": 24400,
-      "num": 952809,
-      "word": "抗战烽火的中流砥柱",
-      "onboard_time": 1756257203,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24348,
@@ -12817,6 +12865,14 @@
       "onboard_time": 1756190423,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 11294,
+      "num": 177720,
+      "word": "阅兵主题MV胜利荣光",
+      "onboard_time": 1756269563,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10847,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1756269816468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1502641,
+        "num": 1502641,
+        "word": "郑恺苗苗辟谣",
+        "onboard_time": 1756265362,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1110488,
+        "num": 1110488,
+        "word": "iPhone17新颜色",
+        "onboard_time": 1756263561,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25799,
+        "num": 946525,
+        "word": "抗战烽火的中流砥柱",
+        "onboard_time": 1756257203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 911441,
+        "num": 911441,
+        "word": "宝格丽 张元英",
+        "onboard_time": 1756263680,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773537,
+        "num": 773537,
+        "word": "景德镇做的杯子还是太超前了",
+        "onboard_time": 1756266923,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712014,
+        "num": 712014,
+        "word": "iPhone17全系价格曝光",
+        "onboard_time": 1756255162,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 343388,
+        "num": 343388,
+        "word": "易烊千玺 抢票",
+        "onboard_time": 1756267163,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309813,
+        "num": 309813,
+        "word": "九三阅兵MV胜利荣光",
+        "onboard_time": 1756262901,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391157,
+        "num": 301264,
+        "word": "严浩翔 张元英转圈",
+        "onboard_time": 1756265362,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252922,
+        "num": 252922,
+        "word": "高速副驾戴恐怖面具男子系外籍教师",
+        "onboard_time": 1756253663,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2305002,
+        "num": 252240,
+        "word": "郑恺小姨子回应",
+        "onboard_time": 1756264222,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1068479,
+        "num": 251680,
+        "word": "双胞胎有望上三休五了",
+        "onboard_time": 1756264761,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 904473,
+        "num": 250757,
+        "word": "朴智旻宋多恩家中约会视频",
+        "onboard_time": 1756254623,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529642,
+        "num": 249754,
+        "word": "建议朋友圈一定要当天发",
+        "onboard_time": 1756265001,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33040,
+        "num": 248576,
+        "word": "敦煌石窟的藏经洞是偶然发现的",
+        "onboard_time": 1756267882,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436661,
+        "num": 247519,
+        "word": "HYBE回应朴智旻恋情",
+        "onboard_time": 1756265541,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367372,
+        "num": 246779,
+        "word": "狗狗去世前被允许尝巧克力",
+        "onboard_time": 1756255343,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89194,
+        "num": 245600,
+        "word": "美团闪购给情侣撒钱",
+        "onboard_time": 1756267703,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 58321,
+        "num": 245329,
+        "word": "生万物前11集片头没有迟蓬",
+        "onboard_time": 1756269263,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65583,
+        "num": 243685,
+        "word": "小鹏P7成50万内浙赛最速轿跑",
+        "onboard_time": 1756267703,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102492,
+        "num": 243311,
+        "word": "阅兵大场面想想就激动",
+        "onboard_time": 1756269263,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1269651,
+        "num": 241981,
+        "word": "特朗普回应霉霉订婚",
+        "onboard_time": 1756253122,
+        "rank": 21,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 314472,
+        "num": 240800,
+        "word": "韩娱有自己的魔嫂",
+        "onboard_time": 1756260921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254910,
+        "num": 240098,
+        "word": "看小腿就知道你血糖超标了",
+        "onboard_time": 1756257382,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239669,
+        "num": 239669,
+        "word": "欧豪你三个爹一块演戏不带你",
+        "onboard_time": 1756263982,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225946,
+        "num": 225946,
+        "word": "癌症为什么偏爱C型性格",
+        "onboard_time": 1756263081,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212826,
+        "num": 223606,
+        "word": "台湾同胞受邀出席九三阅兵",
+        "onboard_time": 1756263081,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196413,
+        "num": 221599,
+        "word": "景区施工发现1449座古墓跨多朝",
+        "onboard_time": 1756267284,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182903,
+        "num": 220230,
+        "word": "花儿与少年",
+        "onboard_time": 1756265904,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177103,
+        "num": 216799,
+        "word": "林俊杰新歌",
+        "onboard_time": 1756268543,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 943281,
+        "num": 215980,
+        "word": "霉霉订婚",
+        "onboard_time": 1756229957,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213528,
+        "num": 213528,
+        "word": "王者荣耀",
+        "onboard_time": 1756269383,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211097,
+        "num": 211097,
+        "word": "日本试图干涉九三阅兵在怕什么",
+        "onboard_time": 1756250899,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199026,
+        "num": 199026,
+        "word": "读过研的人是很难抱怨上班的",
+        "onboard_time": 1756266562,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183317,
+        "num": 183317,
+        "word": "刷到这个上床下桌先笑了两分钟",
+        "onboard_time": 1756267764,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182731,
+        "num": 182731,
+        "word": "董璇对张维伊有极致的爱",
+        "onboard_time": 1756263920,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182341,
+        "num": 182341,
+        "word": "大妈晕机要靠窗坐被拒后大骂",
+        "onboard_time": 1756265122,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94346,
+        "num": 181860,
+        "word": "大坂直美labubu一身红钻",
+        "onboard_time": 1756268724,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27353,
+        "num": 180020,
+        "word": "寺庙金灰",
+        "onboard_time": 1756269204,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137451,
+        "num": 178972,
+        "word": "1名游客蹦极掉水里景区已停业",
+        "onboard_time": 1756264702,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11294,
+        "num": 177720,
+        "word": "阅兵主题MV胜利荣光",
+        "onboard_time": 1756269563,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176770,
+        "num": 176770,
+        "word": "干将莫邪狐妖联动新皮肤",
+        "onboard_time": 1756269263,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179465,
+        "num": 175097,
+        "word": "女子买旗袍怀疑自己买到了寿衣",
+        "onboard_time": 1756250118,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168278,
+        "num": 168278,
+        "word": "减肥最好最简单的运动",
+        "onboard_time": 1756266502,
+        "rank": 43,
+        "category": "幽默,运动健身"
+      },
+      {
+        "raw_hot": 167779,
+        "num": 167779,
+        "word": "诺一霓娜长这么高了",
+        "onboard_time": 1756268183,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165829,
+        "num": 165829,
+        "word": "一家人96万坐熊猫专列称餐食不符",
+        "onboard_time": 1756266023,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156667,
+        "num": 156667,
+        "word": "酒店价格为什么一天一变",
+        "onboard_time": 1756266743,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148500,
+        "num": 148500,
+        "word": "华为将发布新款三折叠手机",
+        "onboard_time": 1756268003,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148285,
+        "num": 148285,
+        "word": "冰咖啡和热咖啡区别居然这么大",
+        "onboard_time": 1756255043,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141810,
+        "num": 145903,
+        "word": "王牌9杨幂预告",
+        "onboard_time": 1756267163,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设新时代全天候中柬命运共同体#"
+    }
+  }
+}

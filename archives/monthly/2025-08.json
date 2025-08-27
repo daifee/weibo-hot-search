@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756269034904,
+  "endTime": 1756269816468,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -2155,20 +2155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1502641,
+      "num": 1502641,
+      "word": "郑恺苗苗辟谣",
+      "onboard_time": 1756265362,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1501087,
       "num": 1501087,
       "word": "洞洞鞋",
       "onboard_time": 1754821340,
       "rank": 34,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1497754,
-      "num": 1497754,
-      "word": "郑恺苗苗辟谣",
-      "onboard_time": 1756265362,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1490703,
@@ -3947,6 +3947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1110488,
+      "num": 1110488,
+      "word": "iPhone17新颜色",
+      "onboard_time": 1756263561,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1108626,
       "num": 1164593,
       "word": "谁敢信蒋欣穿的是同一件衬衫",
@@ -4227,6 +4235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1068479,
+      "num": 274307,
+      "word": "双胞胎有望上三休五了",
+      "onboard_time": 1756264761,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1067560,
       "num": 1067560,
       "word": "印度男子将亡妻绑摩托上被拦截",
@@ -4345,14 +4361,6 @@
       "onboard_time": 1755743422,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1049956,
-      "num": 1049956,
-      "word": "iPhone17新颜色",
-      "onboard_time": 1756263561,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 1049862,
@@ -5249,14 +5257,6 @@
       "onboard_time": 1754282365,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 940146,
-      "num": 274307,
-      "word": "双胞胎有望上三休五了",
-      "onboard_time": 1756264761,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 939894,
@@ -12275,6 +12275,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 529642,
+      "num": 274215,
+      "word": "建议朋友圈一定要当天发",
+      "onboard_time": 1756265001,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 529182,
       "num": 529182,
       "word": "赵雅芝把粉丝送的400封信签名回寄",
@@ -15187,6 +15195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436661,
+      "num": 273838,
+      "word": "HYBE回应朴智旻恋情",
+      "onboard_time": 1756265541,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436637,
       "num": 436637,
       "word": "VOGUE",
@@ -16400,14 +16416,6 @@
       "word": "于斌王一博聊天记录",
       "onboard_time": 1755082703,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 404069,
-      "num": 273838,
-      "word": "HYBE回应朴智旻恋情",
-      "onboard_time": 1756265541,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -19027,20 +19035,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343388,
+      "num": 343388,
+      "word": "易烊千玺 抢票",
+      "onboard_time": 1756267163,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 343334,
       "num": 343334,
       "word": "2市向死亡人员发放养老保险241万",
       "onboard_time": 1755923844,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343299,
-      "num": 274215,
-      "word": "建议朋友圈一定要当天发",
-      "onboard_time": 1756265001,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 343050,
@@ -20425,14 +20433,6 @@
       "onboard_time": 1756121662,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317364,
-      "num": 317364,
-      "word": "易烊千玺 抢票",
-      "onboard_time": 1756267163,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 317010,
@@ -33307,6 +33307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196413,
+      "num": 247305,
+      "word": "景区施工发现1449座古墓跨多朝",
+      "onboard_time": 1756267284,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196412,
       "num": 196412,
       "word": "京东回应震虎价争议",
@@ -37363,6 +37371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183317,
+      "num": 183317,
+      "word": "刷到这个上床下桌先笑了两分钟",
+      "onboard_time": 1756267764,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183307,
       "num": 183307,
       "word": "24岁女孩勇闯王婆说媒大胆求爱",
@@ -38931,6 +38947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177103,
+      "num": 216799,
+      "word": "林俊杰新歌",
+      "onboard_time": 1756268543,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177046,
       "num": 165069,
       "word": "曹骏也是在凡人修仙传里开上炮了",
@@ -39057,6 +39081,14 @@
       "onboard_time": 1755959247,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176770,
+      "num": 176770,
+      "word": "干将莫邪狐妖联动新皮肤",
+      "onboard_time": 1756269263,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 176720,
@@ -41843,6 +41875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168278,
+      "num": 168278,
+      "word": "减肥最好最简单的运动",
+      "onboard_time": 1756266502,
+      "rank": 43,
+      "category": "幽默,运动健身"
+    },
+    {
       "raw_hot": 168276,
       "num": 168276,
       "word": "子夜归献鱼同期开播",
@@ -41977,6 +42017,14 @@
       "onboard_time": 1754548942,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167779,
+      "num": 189664,
+      "word": "诺一霓娜长这么高了",
+      "onboard_time": 1756268183,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 167778,
@@ -45705,14 +45753,6 @@
       "onboard_time": 1754624483,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157686,
-      "num": 247305,
-      "word": "景区施工发现1449座古墓跨多朝",
-      "onboard_time": 1756267284,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157643,
@@ -50689,14 +50729,6 @@
       "onboard_time": 1755342441,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145509,
-      "num": 210370,
-      "word": "林俊杰新歌",
-      "onboard_time": 1756268543,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 145502,
@@ -72523,6 +72555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 102492,
+      "num": 243311,
+      "word": "阅兵大场面想想就激动",
+      "onboard_time": 1756269263,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102482,
       "num": 102482,
       "word": "新疆阿勒泰阿禾公路星河璀璨",
@@ -75867,6 +75907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94346,
+      "num": 190523,
+      "word": "大坂直美labubu一身红钻",
+      "onboard_time": 1756268724,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94334,
       "num": 94334,
       "word": "天气太热小兔子躲在洞里吃葡萄",
@@ -77387,6 +77435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89194,
+      "num": 251314,
+      "word": "美团闪购给情侣撒钱",
+      "onboard_time": 1756267703,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89182,
       "num": 89182,
       "word": "吴宣仪广州站",
@@ -78817,14 +78873,6 @@
       "onboard_time": 1754920884,
       "rank": 9,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 83175,
-      "num": 251314,
-      "word": "美团闪购给情侣撒钱",
-      "onboard_time": 1756267703,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 83143,
@@ -82139,14 +82187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65651,
-      "num": 190523,
-      "word": "大坂直美labubu一身红钻",
-      "onboard_time": 1756268724,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65626,
       "num": 65626,
       "word": "IVE迷你四辑概念预告",
@@ -82161,6 +82201,14 @@
       "onboard_time": 1754389103,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65583,
+      "num": 248913,
+      "word": "小鹏P7成50万内浙赛最速轿跑",
+      "onboard_time": 1756267703,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 65545,
@@ -82825,14 +82873,6 @@
       "onboard_time": 1754581881,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 61394,
-      "num": 189664,
-      "word": "诺一霓娜长这么高了",
-      "onboard_time": 1756268183,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 61387,
@@ -83531,6 +83571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58321,
+      "num": 245329,
+      "word": "生万物前11集片头没有迟蓬",
+      "onboard_time": 1756269263,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58311,
       "num": 102474,
       "word": "多地宣布针对带娃难发钱",
@@ -83753,14 +83801,6 @@
       "onboard_time": 1754992883,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57050,
-      "num": 248913,
-      "word": "小鹏P7成50万内浙赛最速轿跑",
-      "onboard_time": 1756267703,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 57025,
@@ -88963,6 +89003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33040,
+      "num": 256940,
+      "word": "敦煌石窟的藏经洞是偶然发现的",
+      "onboard_time": 1756267882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32993,
       "num": 32993,
       "word": "台7岁女童火化前舌头咽喉消失",
@@ -90155,6 +90203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27353,
+      "num": 180020,
+      "word": "寺庙金灰",
+      "onboard_time": 1756269204,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27350,
       "num": 46625,
       "word": "7岁学生校外补习时坠亡母亲发声",
@@ -90435,6 +90491,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 25799,
+      "num": 952809,
+      "word": "抗战烽火的中流砥柱",
+      "onboard_time": 1756257203,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25708,
       "num": 173314,
       "word": "弱势群体花上千块雇保镖壮胆",
@@ -90707,14 +90771,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24807,
-      "num": 256940,
-      "word": "敦煌石窟的藏经洞是偶然发现的",
-      "onboard_time": 1756267882,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24768,
       "num": 234500,
       "word": "尚公主饭制预告",
@@ -90833,14 +90889,6 @@
       "onboard_time": 1755802635,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24400,
-      "num": 952809,
-      "word": "抗战烽火的中流砥柱",
-      "onboard_time": 1756257203,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24391,
@@ -92945,6 +92993,14 @@
       "onboard_time": 1754279244,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11294,
+      "num": 177720,
+      "word": "阅兵主题MV胜利荣光",
+      "onboard_time": 1756269563,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11232,

@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756269034904,
+  "endTime": 1756269816468,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -51,20 +51,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1497754,
-      "num": 1497754,
+      "raw_hot": 1502641,
+      "num": 1502641,
       "word": "郑恺苗苗辟谣",
       "onboard_time": 1756265362,
       "rank": 1,
       "category": "艺人"
     },
     {
-      "raw_hot": 1049956,
-      "num": 1049956,
+      "raw_hot": 1110488,
+      "num": 1110488,
       "word": "iPhone17新颜色",
       "onboard_time": 1756263561,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1068479,
+      "num": 274307,
+      "word": "双胞胎有望上三休五了",
+      "onboard_time": 1756264761,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 1039713,
@@ -89,14 +97,6 @@
       "onboard_time": 1756263680,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 940146,
-      "num": 274307,
-      "word": "双胞胎有望上三休五了",
-      "onboard_time": 1756264761,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 776874,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529642,
+      "num": 274215,
+      "word": "建议朋友圈一定要当天发",
+      "onboard_time": 1756265001,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 522986,
       "num": 381461,
       "word": "女子买旗袍怀疑自己买到了寿衣",
@@ -235,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 436661,
+      "num": 273838,
+      "word": "HYBE回应朴智旻恋情",
+      "onboard_time": 1756265541,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 435835,
       "num": 148853,
       "word": "郑恺方回应停用丈母娘亲属卡",
@@ -257,14 +273,6 @@
       "onboard_time": 1756265362,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 404069,
-      "num": 273838,
-      "word": "HYBE回应朴智旻恋情",
-      "onboard_time": 1756265541,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 385601,
@@ -291,12 +299,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 343299,
-      "num": 274215,
-      "word": "建议朋友圈一定要当天发",
-      "onboard_time": 1756265001,
-      "rank": 16,
-      "category": "幽默"
+      "raw_hot": 343388,
+      "num": 343388,
+      "word": "易烊千玺 抢票",
+      "onboard_time": 1756267163,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 343097,
@@ -337,14 +345,6 @@
       "onboard_time": 1756257562,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 317364,
-      "num": 317364,
-      "word": "易烊千玺 抢票",
-      "onboard_time": 1756267163,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 304093,
@@ -467,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 213528,
+      "num": 213528,
+      "word": "王者荣耀",
+      "onboard_time": 1756269383,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213479,
       "num": 213479,
       "word": "黄景瑜前妻点赞了许荔莎",
@@ -521,6 +529,14 @@
       "onboard_time": 1756227679,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196413,
+      "num": 247305,
+      "word": "景区施工发现1449座古墓跨多朝",
+      "onboard_time": 1756267284,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190591,
@@ -587,12 +603,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183317,
+      "num": 183317,
+      "word": "刷到这个上床下桌先笑了两分钟",
+      "onboard_time": 1756267764,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 182903,
+      "num": 251258,
+      "word": "花儿与少年",
+      "onboard_time": 1756265904,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181558,
       "num": 165952,
       "word": "陈飞宇王影璐出手就是国宴",
       "onboard_time": 1756262361,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177103,
+      "num": 216799,
+      "word": "林俊杰新歌",
+      "onboard_time": 1756268543,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 176770,
+      "num": 176770,
+      "word": "干将莫邪狐妖联动新皮肤",
+      "onboard_time": 1756269263,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 176616,
@@ -619,20 +667,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 169491,
-      "num": 251258,
-      "word": "花儿与少年",
-      "onboard_time": 1756265904,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168866,
       "num": 168866,
       "word": "一家人96万坐熊猫专列称餐食不符",
       "onboard_time": 1756266023,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168278,
+      "num": 168278,
+      "word": "减肥最好最简单的运动",
+      "onboard_time": 1756266502,
+      "rank": 43,
+      "category": "幽默,运动健身"
+    },
+    {
+      "raw_hot": 167779,
+      "num": 189664,
+      "word": "诺一霓娜长这么高了",
+      "onboard_time": 1756268183,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 167075,
@@ -689,14 +745,6 @@
       "onboard_time": 1756265181,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157686,
-      "num": 247305,
-      "word": "景区施工发现1449座古墓跨多朝",
-      "onboard_time": 1756267284,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157187,
@@ -777,14 +825,6 @@
       "onboard_time": 1756226061,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145509,
-      "num": 210370,
-      "word": "林俊杰新歌",
-      "onboard_time": 1756268543,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 144977,
@@ -1067,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102492,
+      "num": 243311,
+      "word": "阅兵大场面想想就激动",
+      "onboard_time": 1756269263,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98402,
       "num": 98402,
       "word": "怪不得宫廷剧里都喜欢用葡萄做道具",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1756207342,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94346,
+      "num": 190523,
+      "word": "大坂直美labubu一身红钻",
+      "onboard_time": 1756268724,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 94204,
@@ -1137,6 +1193,14 @@
       "onboard_time": 1756225520,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89194,
+      "num": 251314,
+      "word": "美团闪购给情侣撒钱",
+      "onboard_time": 1756267703,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 89153,
@@ -1209,14 +1273,6 @@
       "onboard_time": 1756202722,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83175,
-      "num": 251314,
-      "word": "美团闪购给情侣撒钱",
-      "onboard_time": 1756267703,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 81616,
@@ -1307,12 +1363,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 65651,
-      "num": 190523,
-      "word": "大坂直美labubu一身红钻",
-      "onboard_time": 1756268724,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 65583,
+      "num": 248913,
+      "word": "小鹏P7成50万内浙赛最速轿跑",
+      "onboard_time": 1756267703,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 61735,
@@ -1321,14 +1377,6 @@
       "onboard_time": 1756207403,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 61394,
-      "num": 189664,
-      "word": "诺一霓娜长这么高了",
-      "onboard_time": 1756268183,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 60598,
@@ -1347,12 +1395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57050,
-      "num": 248913,
-      "word": "小鹏P7成50万内浙赛最速轿跑",
-      "onboard_time": 1756267703,
+      "raw_hot": 58321,
+      "num": 245329,
+      "word": "生万物前11集片头没有迟蓬",
+      "onboard_time": 1756269263,
       "rank": 18,
-      "category": "汽车"
+      "category": "剧集"
     },
     {
       "raw_hot": 56371,
@@ -1467,6 +1515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33040,
+      "num": 256940,
+      "word": "敦煌石窟的藏经洞是偶然发现的",
+      "onboard_time": 1756267882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32329,
       "num": 903182,
       "word": "网警守护开学季",
@@ -1475,28 +1531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27353,
+      "num": 180020,
+      "word": "寺庙金灰",
+      "onboard_time": 1756269204,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25799,
+      "num": 952809,
+      "word": "抗战烽火的中流砥柱",
+      "onboard_time": 1756257203,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25391,
       "num": 75403,
       "word": "乘客回应国航一航班紧急备降俄罗斯",
       "onboard_time": 1756224082,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24807,
-      "num": 256940,
-      "word": "敦煌石窟的藏经洞是偶然发现的",
-      "onboard_time": 1756267882,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24400,
-      "num": 952809,
-      "word": "抗战烽火的中流砥柱",
-      "onboard_time": 1756257203,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23470,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1756234695,
       "rank": 49,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 11294,
+      "num": 177720,
+      "word": "阅兵主题MV胜利荣光",
+      "onboard_time": 1756269563,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10847,
