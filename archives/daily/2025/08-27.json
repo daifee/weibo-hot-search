@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756294601079,
+  "endTime": 1756299067893,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -48,6 +48,14 @@
       "word": "虞书欣与其父不存在直接商业关联",
       "onboard_time": 1756289663,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1977534,
+      "num": 194349,
+      "word": "虞书欣7天掉粉72万",
+      "onboard_time": 1756292904,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -99,14 +107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1290307,
-      "num": 188614,
-      "word": "虞书欣7天掉粉72万",
-      "onboard_time": 1756292904,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1269975,
       "num": 1269975,
       "word": "虞书欣起诉两公司侵权",
@@ -145,6 +145,14 @@
       "onboard_time": 1756286964,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1080267,
+      "num": 1172842,
+      "word": "司美格鲁肽",
+      "onboard_time": 1756296264,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1068479,
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 864106,
+      "num": 864106,
+      "word": "酒店浴缸 红线虫",
+      "onboard_time": 1756297224,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 815935,
       "num": 414939,
       "word": "蜜鼠冰城",
@@ -251,6 +267,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 752682,
+      "num": 187288,
+      "word": "张馨予 姐不是一直在内娱吗",
+      "onboard_time": 1756295064,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 751616,
       "num": 274464,
       "word": "韩娱有自己的魔嫂",
@@ -289,6 +313,14 @@
       "onboard_time": 1756270283,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 676256,
+      "num": 179641,
+      "word": "网红白冰三个月瘦了50斤",
+      "onboard_time": 1756296804,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 662195,
@@ -513,6 +545,14 @@
       "onboard_time": 1756256303,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 412674,
+      "num": 412674,
+      "word": "广西云南艾滋纳入婚检",
+      "onboard_time": 1756294104,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406405,
@@ -755,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235330,
+      "num": 235330,
+      "word": "青岛一公园修建仅一年凉亭突然垮塌",
+      "onboard_time": 1756294883,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233190,
       "num": 233190,
       "word": "张万森 下爸爸了",
@@ -907,12 +955,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210484,
+      "num": 151981,
+      "word": "樊振东弗朗西斯卡同框",
+      "onboard_time": 1756297884,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210245,
       "num": 237085,
       "word": "易烊千玺成都演唱会",
       "onboard_time": 1756267163,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209420,
+      "num": 151280,
+      "word": "樊振东确认出战3项赛事",
+      "onboard_time": 1756298845,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 208722,
@@ -977,6 +1041,14 @@
       "onboard_time": 1756283783,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194486,
+      "num": 194486,
+      "word": "检方详解丈夫杀害26岁妻子不抗诉理由",
+      "onboard_time": 1756296444,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192966,
@@ -1332,7 +1404,7 @@
     },
     {
       "raw_hot": 162331,
-      "num": 602641,
+      "num": 638228,
       "word": "冷空气和秋雨搭伙来了",
       "onboard_time": 1756262961,
       "rank": 34,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1756290804,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159660,
+      "num": 148558,
+      "word": "A股突然大调整",
+      "onboard_time": 1756296143,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 159442,
@@ -1505,6 +1585,14 @@
       "onboard_time": 1756270943,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152764,
+      "num": 152764,
+      "word": "江奇霖周奇奇首次合体上婚综",
+      "onboard_time": 1756295425,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 152709,
@@ -1675,6 +1763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143905,
+      "num": 143905,
+      "word": "WE对战AL",
+      "onboard_time": 1756298903,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142638,
       "num": 142638,
       "word": "刚出生13天的宝宝突然吐奶卡住喉咙",
@@ -1697,6 +1793,14 @@
       "onboard_time": 1756272143,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140157,
+      "num": 140157,
+      "word": "狼队对战KSG",
+      "onboard_time": 1756298244,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 139226,
@@ -1907,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130820,
+      "num": 130820,
+      "word": "当樊振东迎面向你走来",
+      "onboard_time": 1756297523,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130674,
       "num": 130674,
       "word": "中国女孩半夜蹲在英国酒吧旁",
@@ -1931,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129979,
+      "num": 129979,
+      "word": "Light 应该不会再有700场了",
+      "onboard_time": 1756294824,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129310,
       "num": 129310,
       "word": "有一种精神叫不屈",
@@ -1953,6 +2073,14 @@
       "onboard_time": 1756275442,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128990,
+      "num": 128990,
+      "word": "韩国历史剧写错汉字",
+      "onboard_time": 1756298004,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127815,
@@ -2107,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122312,
+      "num": 143834,
+      "word": "丁禹兮横店在逃新郎",
+      "onboard_time": 1756294943,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122212,
       "num": 122212,
       "word": "马天宇 这么大人了还被阿姨训斥",
@@ -2121,6 +2257,14 @@
       "onboard_time": 1756282705,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121626,
+      "num": 142607,
+      "word": "献鱼男三戏份",
+      "onboard_time": 1756298725,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 121554,
@@ -2163,12 +2307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119130,
+      "num": 119130,
+      "word": "警方回应女子用铁锤砸伤男童",
+      "onboard_time": 1756297764,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119083,
       "num": 119083,
       "word": "国际奥委会发博纪念刘翔夺冠21周年",
       "onboard_time": 1756259061,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118743,
+      "num": 150546,
+      "word": "22岁离世女村支书上任仅数月",
+      "onboard_time": 1756296203,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118283,
@@ -2291,6 +2451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108064,
+      "num": 108064,
+      "word": "曝特朗普至少4次致电莫迪被拒",
+      "onboard_time": 1756297403,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107209,
       "num": 104642,
       "word": "T1战胜HLE",
@@ -2355,6 +2523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104394,
+      "num": 104394,
+      "word": "皮肤碎片换公孙离新皮肤",
+      "onboard_time": 1756296384,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103882,
       "num": 103882,
       "word": "永恩皮肤",
@@ -2371,6 +2547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101533,
+      "num": 101533,
+      "word": "中国女排vs多米尼加女排",
+      "onboard_time": 1756298965,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99638,
       "num": 132837,
       "word": "北京5区启动防汛一级应急响应",
@@ -2385,6 +2569,14 @@
       "onboard_time": 1756258342,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97888,
+      "num": 97888,
+      "word": "朴成训从花滑王子到爱豆",
+      "onboard_time": 1756295604,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 97099,
@@ -2555,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83653,
+      "num": 109698,
+      "word": "男孩被死鱼扎伤险致截肢",
+      "onboard_time": 1756298183,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82164,
       "num": 207216,
       "word": "学校回应学生持凳砸向老师",
@@ -2707,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62734,
+      "num": 140440,
+      "word": "商场厕纸到底脏不脏",
+      "onboard_time": 1756297884,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61735,
       "num": 61735,
       "word": "梓渝 时装男士",
@@ -2752,6 +2960,14 @@
       "word": "王楚钦何超欣同框",
       "onboard_time": 1756251080,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55799,
+      "num": 141227,
+      "word": "樊振东身穿新球衣亮相",
+      "onboard_time": 1756298845,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -2809,14 +3025,6 @@
       "onboard_time": 1756216283,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 48326,
-      "num": 124510,
-      "word": "广西云南艾滋纳入婚检",
-      "onboard_time": 1756294104,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47873,
@@ -2955,6 +3163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37034,
+      "num": 162842,
+      "word": "长城把都江堰装进车里",
+      "onboard_time": 1756296025,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35822,
       "num": 262211,
       "word": "自闭症男童遇难机构首次正面回应",
@@ -3041,6 +3257,14 @@
       "onboard_time": 1756276402,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 27547,
+      "num": 174758,
+      "word": "考古的根本价值在于文明追溯",
+      "onboard_time": 1756296083,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27353,
