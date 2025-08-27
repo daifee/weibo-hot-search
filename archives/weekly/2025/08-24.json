@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756273294733,
+  "endTime": 1756276588576,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -120,6 +120,14 @@
       "word": "张万森 内娱下嫂子了",
       "onboard_time": 1756178063,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1822656,
+      "num": 201063,
+      "word": "霉霉孩子出生就得有一米吧",
+      "onboard_time": 1756273702,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1039287,
+      "num": 1166286,
+      "word": "西南大学 外卖垄断",
+      "onboard_time": 1756270402,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1037059,
       "num": 571022,
       "word": "鲁迅夹烟遭二次投诉",
@@ -537,6 +553,14 @@
       "onboard_time": 1756255343,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 958720,
+      "num": 958720,
+      "word": "14名内鬼侵犯华为芯片技术被判刑",
+      "onboard_time": 1756272983,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 958091,
@@ -1040,14 +1064,6 @@
       "word": "宗馥莉回应娃哈哈争议问题",
       "onboard_time": 1756270283,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 679538,
-      "num": 679538,
-      "word": "西南大学 外卖垄断",
-      "onboard_time": 1756270402,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -2339,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388514,
+      "num": 180561,
+      "word": "老庙黄金致歉",
+      "onboard_time": 1756274363,
+      "rank": 21,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 385601,
       "num": 385601,
       "word": "杭州交警通报男子高速戴恐怖面具",
@@ -2481,6 +2505,14 @@
       "onboard_time": 1755951925,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366194,
+      "num": 176287,
+      "word": "樊振东你担订婚了",
+      "onboard_time": 1756275023,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 366021,
@@ -3355,6 +3387,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 244056,
+      "num": 166979,
+      "word": "田曦薇被确诊为田细微",
+      "onboard_time": 1756274425,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243759,
       "num": 193881,
       "word": "艾热孜巴婚检被三连问有无血缘关系",
@@ -4099,6 +4139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201169,
+      "num": 201169,
+      "word": "喜茶称反式脂肪酸最高证明真奶最多",
+      "onboard_time": 1756272983,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200966,
       "num": 200966,
       "word": "银子结局",
@@ -4385,6 +4433,14 @@
       "onboard_time": 1756091181,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 196016,
+      "num": 196016,
+      "word": "程靖淇回应当今乒坛谁最强",
+      "onboard_time": 1756273822,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 195744,
@@ -4681,14 +4737,6 @@
       "onboard_time": 1756017322,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189704,
-      "num": 189704,
-      "word": "14名内鬼侵犯华为芯片技术被判刑",
-      "onboard_time": 1756272983,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189635,
@@ -5585,6 +5633,14 @@
       "onboard_time": 1756266502,
       "rank": 43,
       "category": "幽默,运动健身"
+    },
+    {
+      "raw_hot": 168156,
+      "num": 168156,
+      "word": "张杰签售会",
+      "onboard_time": 1756276104,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 168040,
@@ -6691,6 +6747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146639,
+      "num": 167858,
+      "word": "被虐完的电池装车还能再开吗",
+      "onboard_time": 1756274782,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146382,
       "num": 146382,
       "word": "奶茶 反式脂肪酸",
@@ -6875,6 +6939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143928,
+      "num": 143928,
+      "word": "西南大学通报外卖指定平台被指垄断",
+      "onboard_time": 1756272562,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143552,
       "num": 143552,
       "word": "487说我们是冠军",
@@ -7003,14 +7075,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 142194,
-      "num": 142194,
-      "word": "喜茶称反式脂肪酸最高证明真奶最多",
-      "onboard_time": 1756272983,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142107,
       "num": 198163,
       "word": "能换一套房的冠军龙鱼做手术修眼",
@@ -7121,6 +7185,14 @@
       "onboard_time": 1756112964,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140013,
+      "num": 140013,
+      "word": "阅兵训练视频就得一帧一帧看",
+      "onboard_time": 1756276043,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139983,
@@ -7393,6 +7465,14 @@
       "onboard_time": 1756167203,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136325,
+      "num": 167412,
+      "word": "吴京周迅你俩别吵了",
+      "onboard_time": 1756275203,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 136261,
@@ -7899,6 +7979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129237,
+      "num": 129237,
+      "word": "比短剧更颠的是港剧",
+      "onboard_time": 1756275442,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129233,
       "num": 194150,
       "word": "智界R7语音泊车隔窗对讲首发上车",
@@ -8323,6 +8411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122952,
+      "num": 122952,
+      "word": "高中生开学vs大学生开学",
+      "onboard_time": 1756276223,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122791,
       "num": 122791,
       "word": "祝启慧女单冠军",
@@ -8651,6 +8747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118823,
+      "num": 129711,
+      "word": "张万森 下爸爸了",
+      "onboard_time": 1756275863,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118440,
       "num": 118440,
       "word": "只有师范生才懂她有多强",
@@ -8889,6 +8993,14 @@
       "onboard_time": 1755998243,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115909,
+      "num": 115909,
+      "word": "颜宁院士催更priest",
+      "onboard_time": 1756276465,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 115690,
@@ -10747,6 +10859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80858,
+      "num": 129240,
+      "word": "马嘉祺抓到粉丝提前退场",
+      "onboard_time": 1756276522,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 80823,
       "num": 152990,
       "word": "用word来背书",
@@ -11907,6 +12027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47164,
+      "num": 197333,
+      "word": "苹果发布会邀请了京东JDG伞兵",
+      "onboard_time": 1756274903,
+      "rank": 15,
+      "category": "数码,电竞"
+    },
+    {
       "raw_hot": 46562,
       "num": 127905,
       "word": "信访干部骂老人老不死",
@@ -11985,6 +12113,14 @@
       "onboard_time": 1756034063,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 45303,
+      "num": 120500,
+      "word": "四川1000万大奖寻人认领",
+      "onboard_time": 1756274482,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45299,
@@ -13027,6 +13163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17239,
+      "num": 197590,
+      "word": "龙门石窟中国艺术的巅峰之作",
+      "onboard_time": 1756276043,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16443,
       "num": 27482,
       "word": "美美桑内手势舞来啦",
@@ -13057,6 +13201,14 @@
       "onboard_time": 1755980054,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14564,
+      "num": 167116,
+      "word": "游客蹦极坠落涉事公司成立于1998年",
+      "onboard_time": 1756276282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14271,
@@ -13097,6 +13249,14 @@
       "onboard_time": 1756063994,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12939,
+      "num": 192478,
+      "word": "鲁迅的烟这次保住了下次呢",
+      "onboard_time": 1756276282,
+      "rank": 19,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 12868,
@@ -13177,6 +13337,14 @@
       "onboard_time": 1756182745,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 9400,
+      "num": 129249,
+      "word": "突然理解了上班后的过劳肥",
+      "onboard_time": 1756276402,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 9220,
