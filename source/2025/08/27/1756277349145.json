@@ -1,0 +1,410 @@
+{
+  "runTime": 1756277349145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052541,
+        "num": 1168406,
+        "word": "西南大学 外卖垄断",
+        "onboard_time": 1756270402,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 998920,
+        "num": 998920,
+        "word": "14名内鬼侵犯华为芯片技术被判刑",
+        "onboard_time": 1756272983,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23387,
+        "num": 651262,
+        "word": "抗战烽火的中流砥柱",
+        "onboard_time": 1756257203,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514724,
+        "num": 514724,
+        "word": "iPhone17全系价格曝光",
+        "onboard_time": 1756255162,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 490129,
+        "num": 490129,
+        "word": "郑恺苗苗辟谣",
+        "onboard_time": 1756265362,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393849,
+        "num": 393849,
+        "word": "宝格丽 张元英",
+        "onboard_time": 1756263680,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370320,
+        "num": 370320,
+        "word": "宗馥莉回应娃哈哈争议问题",
+        "onboard_time": 1756270283,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353599,
+        "num": 353599,
+        "word": "景德镇做的杯子还是太超前了",
+        "onboard_time": 1756266923,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314030,
+        "num": 314030,
+        "word": "A股",
+        "onboard_time": 1756276883,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298140,
+        "num": 298140,
+        "word": "喜茶称反式脂肪酸最高证明真奶最多",
+        "onboard_time": 1756272983,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1513047,
+        "num": 297284,
+        "word": "霉霉孩子出生就得有一米吧",
+        "onboard_time": 1756273702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 812554,
+        "num": 293465,
+        "word": "郑恺小姨子回应",
+        "onboard_time": 1756264222,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554015,
+        "num": 291190,
+        "word": "王星越你不要闹到何晟铭面前",
+        "onboard_time": 1756270763,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406405,
+        "num": 288461,
+        "word": "樊振东你担订婚了",
+        "onboard_time": 1756275023,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24367,
+        "num": 284828,
+        "word": "龙门石窟中国艺术的巅峰之作",
+        "onboard_time": 1756276043,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45661,
+        "num": 281619,
+        "word": "苹果发布会邀请了京东JDG伞兵",
+        "onboard_time": 1756274903,
+        "rank": 15,
+        "category": "数码,电竞"
+      },
+      {
+        "raw_hot": 299971,
+        "num": 277415,
+        "word": "iPhone17新颜色",
+        "onboard_time": 1756263561,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 368843,
+        "num": 276241,
+        "word": "朴智旻宋多恩家中约会视频",
+        "onboard_time": 1756254623,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216064,
+        "num": 272500,
+        "word": "张杰签售会",
+        "onboard_time": 1756276104,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40900,
+        "num": 269764,
+        "word": "鲁迅的烟这次保住了下次呢",
+        "onboard_time": 1756276282,
+        "rank": 19,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 480541,
+        "num": 266847,
+        "word": "特朗普回应霉霉订婚",
+        "onboard_time": 1756253122,
+        "rank": 20,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 362289,
+        "num": 263282,
+        "word": "老庙黄金致歉",
+        "onboard_time": 1756274363,
+        "rank": 21,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 311757,
+        "num": 259708,
+        "word": "小三47次转250和438侮辱原配",
+        "onboard_time": 1756269863,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257939,
+        "num": 257939,
+        "word": "田曦薇被确诊为田细微",
+        "onboard_time": 1756274425,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169206,
+        "num": 250297,
+        "word": "生万物前11集片头没有迟蓬",
+        "onboard_time": 1756269263,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250053,
+        "num": 250053,
+        "word": "双胞胎有望上三休五了",
+        "onboard_time": 1756264761,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219326,
+        "num": 219326,
+        "word": "程靖淇回应当今乒坛谁最强",
+        "onboard_time": 1756273822,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119865,
+        "num": 200751,
+        "word": "被虐完的电池装车还能再开吗",
+        "onboard_time": 1756274782,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125303,
+        "num": 200488,
+        "word": "马嘉祺抓到粉丝提前退场",
+        "onboard_time": 1756276522,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28844,
+        "num": 200454,
+        "word": "游客蹦极坠落涉事公司成立于1998年",
+        "onboard_time": 1756276282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200429,
+        "num": 200429,
+        "word": "30万存款定律",
+        "onboard_time": 1756276582,
+        "rank": 30,
+        "category": "财经,休闲"
+      },
+      {
+        "raw_hot": 181814,
+        "num": 181814,
+        "word": "邵兵儿子邵子恒机场人气",
+        "onboard_time": 1756276943,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170609,
+        "num": 170609,
+        "word": "张万森 下爸爸了",
+        "onboard_time": 1756275863,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167124,
+        "num": 167124,
+        "word": "阅兵训练视频就得一帧一帧看",
+        "onboard_time": 1756276043,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161733,
+        "num": 161733,
+        "word": "杨幂柔韧性完美救场",
+        "onboard_time": 1756276823,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149548,
+        "num": 149548,
+        "word": "西南大学通报外卖指定平台被指垄断",
+        "onboard_time": 1756272562,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146857,
+        "num": 146857,
+        "word": "HYBE回应朴智旻恋情",
+        "onboard_time": 1756265541,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137747,
+        "num": 137747,
+        "word": "哥哥因病离世弟弟又确诊罕见病",
+        "onboard_time": 1756271065,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27796,
+        "num": 135056,
+        "word": "突然理解了上班后的过劳肥",
+        "onboard_time": 1756276402,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66558,
+        "num": 134573,
+        "word": "烤肉店停电老板全场56桌免单",
+        "onboard_time": 1756276883,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134481,
+        "num": 134481,
+        "word": "建议朋友圈一定要当天发",
+        "onboard_time": 1756265001,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125861,
+        "num": 125861,
+        "word": "日版水浒传",
+        "onboard_time": 1756277063,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124417,
+        "num": 124417,
+        "word": "孙颖莎王楚钦混双出战",
+        "onboard_time": 1756271482,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124398,
+        "num": 124398,
+        "word": "颜宁院士催更priest",
+        "onboard_time": 1756276465,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 122319,
+        "num": 122319,
+        "word": "吴京周迅你俩别吵了",
+        "onboard_time": 1756275203,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117321,
+        "num": 117321,
+        "word": "高中生开学vs大学生开学",
+        "onboard_time": 1756276223,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113873,
+        "num": 113873,
+        "word": "台积电被曝停用大陆设备",
+        "onboard_time": 1756270943,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113632,
+        "num": 113632,
+        "word": "严浩翔 张元英转圈",
+        "onboard_time": 1756265362,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112355,
+        "num": 112355,
+        "word": "寒武纪股价超茅台",
+        "onboard_time": 1756274181,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111984,
+        "num": 111984,
+        "word": "少年群像终于迎来了真少年",
+        "onboard_time": 1756273043,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设新时代全天候中柬命运共同体#"
+    }
+  }
+}

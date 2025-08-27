@@ -1,6 +1,6 @@
 {
   "startTime": 1756225932429,
-  "endTime": 1756276588576,
+  "endTime": 1756277349145,
   "band_list": [
     {
       "raw_hot": 3333011,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2649059,
-      "num": 289411,
+      "num": 293465,
       "word": "郑恺小姨子回应",
       "onboard_time": 1756264222,
       "rank": 19,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1822656,
-      "num": 201063,
+      "num": 297284,
       "word": "霉霉孩子出生就得有一米吧",
       "onboard_time": 1756273702,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1052541,
+      "num": 1168406,
+      "word": "西南大学 外卖垄断",
+      "onboard_time": 1756270402,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1039713,
       "num": 331615,
       "word": "赵丽颖刘亦菲杨紫S加女演员",
@@ -91,11 +99,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1039287,
-      "num": 1166286,
-      "word": "西南大学 外卖垄断",
-      "onboard_time": 1756270402,
-      "rank": 7,
+      "raw_hot": 998920,
+      "num": 998920,
+      "word": "14名内鬼侵犯华为芯片技术被判刑",
+      "onboard_time": 1756272983,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -107,14 +115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 958720,
-      "num": 958720,
-      "word": "14名内鬼侵犯华为芯片技术被判刑",
-      "onboard_time": 1756272983,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 949498,
       "num": 949498,
       "word": "宝格丽 张元英",
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 885722,
-      "num": 286521,
+      "num": 291190,
       "word": "王星越你不要闹到何晟铭面前",
       "onboard_time": 1756270763,
       "rank": 15,
@@ -315,6 +315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 406405,
+      "num": 288461,
+      "word": "樊振东你担订婚了",
+      "onboard_time": 1756275023,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406274,
       "num": 309308,
       "word": "严浩翔 张元英转圈",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 388514,
-      "num": 180561,
+      "num": 263282,
       "word": "老庙黄金致歉",
       "onboard_time": 1756274363,
       "rank": 21,
@@ -345,14 +353,6 @@
       "onboard_time": 1756262901,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 366194,
-      "num": 176287,
-      "word": "樊振东你担订婚了",
-      "onboard_time": 1756275023,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 353008,
@@ -411,6 +411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 314030,
+      "num": 314030,
+      "word": "A股",
+      "onboard_time": 1756261761,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 304093,
       "num": 304093,
       "word": "李佳薇 逆光",
@@ -440,6 +448,14 @@
       "word": "军训死亡女生尸检还需20多个工作日",
       "onboard_time": 1756221444,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298140,
+      "num": 298140,
+      "word": "喜茶称反式脂肪酸最高证明真奶最多",
+      "onboard_time": 1756272983,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -475,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 257939,
+      "num": 257939,
+      "word": "田曦薇被确诊为田细微",
+      "onboard_time": 1756274425,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248676,
       "num": 189101,
       "word": "张维伊变化",
@@ -489,14 +513,6 @@
       "onboard_time": 1756262722,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 244056,
-      "num": 166979,
-      "word": "田曦薇被确诊为田细微",
-      "onboard_time": 1756274425,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 240054,
@@ -547,12 +563,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 219326,
+      "num": 219326,
+      "word": "程靖淇回应当今乒坛谁最强",
+      "onboard_time": 1756273822,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218865,
       "num": 384184,
       "word": "中国军人阅兵横竖都震撼",
       "onboard_time": 1756256843,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216064,
+      "num": 272500,
+      "word": "张杰签售会",
+      "onboard_time": 1756276104,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 215826,
@@ -619,12 +651,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201169,
-      "num": 201169,
-      "word": "喜茶称反式脂肪酸最高证明真奶最多",
-      "onboard_time": 1756272983,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 200429,
+      "num": 200429,
+      "word": "30万存款定律",
+      "onboard_time": 1756276582,
+      "rank": 30,
+      "category": "财经,休闲"
     },
     {
       "raw_hot": 200370,
@@ -641,14 +673,6 @@
       "onboard_time": 1756267284,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196016,
-      "num": 196016,
-      "word": "程靖淇回应当今乒坛谁最强",
-      "onboard_time": 1756273822,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 192966,
@@ -755,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181814,
+      "num": 181814,
+      "word": "邵兵儿子邵子恒机场人气",
+      "onboard_time": 1756276943,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181558,
       "num": 165952,
       "word": "陈飞宇王影璐出手就是国宴",
@@ -803,12 +835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171473,
-      "num": 171473,
-      "word": "A股",
-      "onboard_time": 1756261761,
-      "rank": 30,
-      "category": "财经"
+      "raw_hot": 170609,
+      "num": 170609,
+      "word": "张万森 下爸爸了",
+      "onboard_time": 1756275863,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 168866,
@@ -827,20 +859,20 @@
       "category": "幽默,运动健身"
     },
     {
-      "raw_hot": 168156,
-      "num": 168156,
-      "word": "张杰签售会",
-      "onboard_time": 1756276104,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 167779,
       "num": 189664,
       "word": "诺一霓娜长这么高了",
       "onboard_time": 1756268183,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167124,
+      "num": 167124,
+      "word": "阅兵训练视频就得一帧一帧看",
+      "onboard_time": 1756276043,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167075,
@@ -873,6 +905,14 @@
       "onboard_time": 1756262961,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161733,
+      "num": 161733,
+      "word": "杨幂柔韧性完美救场",
+      "onboard_time": 1756276823,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 161068,
@@ -1011,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149548,
+      "num": 149548,
+      "word": "西南大学通报外卖指定平台被指垄断",
+      "onboard_time": 1756272562,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149425,
       "num": 149425,
       "word": "官方通报游客体验蹦极时受伤",
@@ -1036,7 +1084,7 @@
     },
     {
       "raw_hot": 146639,
-      "num": 167858,
+      "num": 200751,
       "word": "被虐完的电池装车还能再开吗",
       "onboard_time": 1756274782,
       "rank": 26,
@@ -1067,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143928,
-      "num": 143928,
-      "word": "西南大学通报外卖指定平台被指垄断",
-      "onboard_time": 1756272562,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142638,
       "num": 142638,
       "word": "刚出生13天的宝宝突然吐奶卡住喉咙",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1756272143,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140013,
-      "num": 140013,
-      "word": "阅兵训练视频就得一帧一帧看",
-      "onboard_time": 1756276043,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 139226,
@@ -1299,6 +1331,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125861,
+      "num": 125861,
+      "word": "日版水浒传",
+      "onboard_time": 1756277063,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125303,
+      "num": 200488,
+      "word": "马嘉祺抓到粉丝提前退场",
+      "onboard_time": 1756276522,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 124398,
+      "num": 124398,
+      "word": "颜宁院士催更priest",
+      "onboard_time": 1756276465,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 123152,
       "num": 123152,
       "word": "月薪4000在上海的一天",
@@ -1347,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118823,
-      "num": 129711,
-      "word": "张万森 下爸爸了",
-      "onboard_time": 1756275863,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116293,
       "num": 116293,
       "word": "Meiko下班",
@@ -1363,20 +1411,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 115909,
-      "num": 115909,
-      "word": "颜宁院士催更priest",
-      "onboard_time": 1756276465,
-      "rank": 46,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 113824,
       "num": 142387,
       "word": "杨幂能长红不是没有道理的",
       "onboard_time": 1756265241,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112355,
+      "num": 112355,
+      "word": "寒武纪股价超茅台",
+      "onboard_time": 1756274181,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 111387,
@@ -1627,14 +1675,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 80858,
-      "num": 129240,
-      "word": "马嘉祺抓到粉丝提前退场",
-      "onboard_time": 1756276522,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 80074,
       "num": 163140,
       "word": "29名日本人在柬埔寨电诈被抓",
@@ -1721,6 +1761,14 @@
       "onboard_time": 1756256783,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66558,
+      "num": 134573,
+      "word": "烤肉店停电老板全场56桌免单",
+      "onboard_time": 1756276883,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65997,
@@ -1812,7 +1860,7 @@
     },
     {
       "raw_hot": 47164,
-      "num": 197333,
+      "num": 281619,
       "word": "苹果发布会邀请了京东JDG伞兵",
       "onboard_time": 1756274903,
       "rank": 15,
@@ -1883,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40900,
+      "num": 269764,
+      "word": "鲁迅的烟这次保住了下次呢",
+      "onboard_time": 1756276282,
+      "rank": 19,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 40621,
       "num": 62130,
       "word": "肖战首张个人专辑我们获奖",
@@ -1931,6 +1987,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28844,
+      "num": 200454,
+      "word": "游客蹦极坠落涉事公司成立于1998年",
+      "onboard_time": 1756276282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27796,
+      "num": 135056,
+      "word": "突然理解了上班后的过劳肥",
+      "onboard_time": 1756276402,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27353,
       "num": 180020,
       "word": "寺庙金灰",
@@ -1955,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24367,
+      "num": 284828,
+      "word": "龙门石窟中国艺术的巅峰之作",
+      "onboard_time": 1756276043,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23470,
       "num": 40030,
       "word": "中方驳回日方所谓抗议",
@@ -1971,14 +2051,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17239,
-      "num": 197590,
-      "word": "龙门石窟中国艺术的巅峰之作",
-      "onboard_time": 1756276043,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 16175,
       "num": 18736,
       "word": "直击第32届东方风云榜",
@@ -1987,28 +2059,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 14564,
-      "num": 167116,
-      "word": "游客蹦极坠落涉事公司成立于1998年",
-      "onboard_time": 1756276282,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13875,
       "num": 15733,
       "word": "生万物",
       "onboard_time": 1756240694,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12939,
-      "num": 192478,
-      "word": "鲁迅的烟这次保住了下次呢",
-      "onboard_time": 1756276282,
-      "rank": 19,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 11907,
@@ -2041,14 +2097,6 @@
       "onboard_time": 1756236314,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9400,
-      "num": 129249,
-      "word": "突然理解了上班后的过劳肥",
-      "onboard_time": 1756276402,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 8056,
