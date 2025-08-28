@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756356235565,
+  "endTime": 1756358739675,
   "band_list": [
     {
       "raw_hot": 2170191,
@@ -17,6 +17,22 @@
       "onboard_time": 1756347261,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1620471,
+      "num": 1620471,
+      "word": "三只羊 复出",
+      "onboard_time": 1756356204,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1398014,
+      "num": 411050,
+      "word": "虞书欣风波事关国有资产应有通报",
+      "onboard_time": 1756357343,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1287812,
@@ -59,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 953410,
+      "num": 342749,
+      "word": "女子糟蹋20多个酒店免费鸡蛋",
+      "onboard_time": 1756354463,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 947978,
       "num": 947978,
       "word": "251万存款凭空消失被6名老人取走",
@@ -67,19 +91,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 946957,
+      "num": 282263,
+      "word": "李晟 我太同意开学了",
+      "onboard_time": 1756355243,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 920759,
       "num": 1147321,
       "word": "蜜雪冰城回应网友玩梗蜜鼠冰城",
       "onboard_time": 1756342882,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 828136,
-      "num": 342749,
-      "word": "女子糟蹋20多个酒店免费鸡蛋",
-      "onboard_time": 1756354463,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -105,6 +129,14 @@
       "onboard_time": 1756306705,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 751147,
+      "num": 279727,
+      "word": "女子放生一麻袋蛇",
+      "onboard_time": 1756356744,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 748833,
@@ -227,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 473813,
-      "num": 273292,
-      "word": "李晟 我太同意开学了",
-      "onboard_time": 1756355243,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 455407,
       "num": 455407,
       "word": "9月3日晚人民大会堂举办文艺晚会",
@@ -313,6 +337,14 @@
       "onboard_time": 1756299565,
       "rank": 5,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 357081,
+      "num": 357081,
+      "word": "女子称被不知名男同事砸头毁容",
+      "onboard_time": 1756355543,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 351341,
@@ -395,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291453,
+      "num": 291453,
+      "word": "女子咨询同事被砸缝20多针",
+      "onboard_time": 1756352301,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289550,
       "num": 176787,
       "word": "网红白冰三个月瘦了50斤",
@@ -435,12 +475,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 260658,
-      "num": 260658,
-      "word": "女子咨询同事被砸缝20多针",
-      "onboard_time": 1756352301,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 259256,
+      "num": 259256,
+      "word": "怎么不等七夕过了再告诉我",
+      "onboard_time": 1756356983,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 257780,
@@ -515,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225886,
+      "num": 225886,
+      "word": "时代少年团也追星了",
+      "onboard_time": 1756357823,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222677,
       "num": 222677,
       "word": "崔永熙焦泊乔加盟广东男篮",
@@ -579,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203732,
-      "num": 203732,
-      "word": "女子称被不知名男同事砸头毁容",
-      "onboard_time": 1756355543,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202312,
       "num": 202312,
       "word": "追觅官宣造车",
@@ -611,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198515,
+      "num": 198515,
+      "word": "原来体香是可以养出来的",
+      "onboard_time": 1756358243,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193869,
       "num": 193869,
       "word": "樊振东 安踏",
@@ -633,6 +681,14 @@
       "onboard_time": 1756300526,
       "rank": 8,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 190881,
+      "num": 190881,
+      "word": "姜思达给吴京10个人生建议",
+      "onboard_time": 1756356444,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 190429,
@@ -721,6 +777,14 @@
       "onboard_time": 1756354642,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 179792,
+      "num": 264736,
+      "word": "三折叠怎么折都全面",
+      "onboard_time": 1756355243,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 179586,
@@ -819,20 +883,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157148,
-      "num": 264736,
-      "word": "三折叠怎么折都全面",
-      "onboard_time": 1756355243,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 157021,
       "num": 157021,
       "word": "水火锅",
       "onboard_time": 1756353082,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156606,
+      "num": 210908,
+      "word": "徐如蓝刘子晗上恋综不需要助攻",
+      "onboard_time": 1756358123,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 154714,
@@ -865,14 +929,6 @@
       "onboard_time": 1756348522,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152356,
-      "num": 152356,
-      "word": "三只羊 复出",
-      "onboard_time": 1756356204,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 148405,
@@ -915,6 +971,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 145137,
+      "num": 145137,
+      "word": "小酒窝又C位跳舞了",
+      "onboard_time": 1756357223,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145111,
       "num": 145111,
       "word": "郑佩佩儿媳乳腺癌恶化",
@@ -944,6 +1008,22 @@
       "word": "时代少年团安慰人都是叫宝宝",
       "onboard_time": 1756353263,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141540,
+      "num": 141540,
+      "word": "建议大家不要租太差的房子",
+      "onboard_time": 1756357463,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 140301,
+      "num": 140301,
+      "word": "徐如蓝对方益炯灵魂五连问",
+      "onboard_time": 1756357943,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1003,6 +1083,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134896,
+      "num": 134896,
+      "word": "无限暖暖",
+      "onboard_time": 1756356684,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 134868,
+      "num": 134868,
+      "word": "黎深以我寄黎明",
+      "onboard_time": 1756357642,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134844,
       "num": 134844,
       "word": "美国21岁模特在德国见义勇为被毁容",
@@ -1017,6 +1113,22 @@
       "onboard_time": 1756349120,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132475,
+      "num": 132475,
+      "word": "黄景瑜一句话沈腾都闭麦了",
+      "onboard_time": 1756358722,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131658,
+      "num": 131658,
+      "word": "贺峻霖offer卷发路透",
+      "onboard_time": 1756358722,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127567,
@@ -1041,6 +1153,14 @@
       "onboard_time": 1756339582,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121966,
+      "num": 264566,
+      "word": "2025中国民营企业500强发布",
+      "onboard_time": 1756357583,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117763,
@@ -1139,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102587,
+      "num": 268567,
+      "word": "离了中国留学生美国高校会怎样",
+      "onboard_time": 1756357284,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102137,
       "num": 102137,
       "word": "被中国军人的气势狠狠震撼",
@@ -1185,6 +1313,14 @@
       "onboard_time": 1756346840,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93553,
+      "num": 149244,
+      "word": "何晟铭独白 愿来生不见不欠不念",
+      "onboard_time": 1756357702,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 92929,
@@ -1363,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67789,
+      "num": 150995,
+      "word": "寒武纪总市值超6100亿",
+      "onboard_time": 1756358424,
+      "rank": 38,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 66896,
       "num": 85285,
       "word": "流浪不再流浪",
@@ -1380,7 +1524,7 @@
     },
     {
       "raw_hot": 63320,
-      "num": 269320,
+      "num": 270786,
       "word": "美团闪购联名花太好看了",
       "onboard_time": 1756355483,
       "rank": 18,
@@ -1475,11 +1619,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51441,
+      "num": 158262,
+      "word": "团队论文致谢中悼念33岁女教师",
+      "onboard_time": 1756358182,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49192,
       "num": 171650,
       "word": "回乡创业1年卖4000万只老鼠",
       "onboard_time": 1756354283,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47221,
+      "num": 450893,
+      "word": "千里跃进大别山",
+      "onboard_time": 1756357223,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1571,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33347,
+      "num": 210521,
+      "word": "收女友10余万礼物男方家属称算赠与",
+      "onboard_time": 1756357343,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32483,
       "num": 53706,
       "word": "丞磊这个赛季强的可怕",
@@ -1601,6 +1769,14 @@
       "onboard_time": 1756331895,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26788,
+      "num": 287883,
+      "word": "长城包下都江堰",
+      "onboard_time": 1756356323,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 26699,
@@ -1670,6 +1846,9 @@
   "hotgov_list": [
     {
       "word": "#持之以恒推动中俄关系高水平发展#"
+    },
+    {
+      "word": "#中柬结成风雨同舟的铁杆友谊#"
     }
   ]
 }

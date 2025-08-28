@@ -1,0 +1,410 @@
+{
+  "runTime": 1756358739675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1620471,
+        "num": 1620471,
+        "word": "三只羊 复出",
+        "onboard_time": 1756356204,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 546252,
+        "num": 546252,
+        "word": "普京和金正恩等出席抗战纪念活动",
+        "onboard_time": 1756347261,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47221,
+        "num": 450893,
+        "word": "千里跃进大别山",
+        "onboard_time": 1756357223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1398014,
+        "num": 411050,
+        "word": "虞书欣风波事关国有资产应有通报",
+        "onboard_time": 1756357343,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357081,
+        "num": 357081,
+        "word": "女子称被不知名男同事砸头毁容",
+        "onboard_time": 1756355543,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327982,
+        "num": 327982,
+        "word": "251万存款凭空消失被6名老人取走",
+        "onboard_time": 1756347322,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682339,
+        "num": 324719,
+        "word": "毛晓彤签约心心传媒",
+        "onboard_time": 1756354463,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461495,
+        "num": 323237,
+        "word": "真夫妻kisskiss我shyshy",
+        "onboard_time": 1756349242,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318452,
+        "num": 318452,
+        "word": "南京大学回应33岁女教师离世",
+        "onboard_time": 1756351701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291453,
+        "num": 291453,
+        "word": "女子咨询同事被砸缝20多针",
+        "onboard_time": 1756352301,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1162272,
+        "num": 289254,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26788,
+        "num": 287883,
+        "word": "长城包下都江堰",
+        "onboard_time": 1756356323,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 953410,
+        "num": 284629,
+        "word": "女子糟蹋20多个酒店免费鸡蛋",
+        "onboard_time": 1756354463,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 946957,
+        "num": 282263,
+        "word": "李晟 我太同意开学了",
+        "onboard_time": 1756355243,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751147,
+        "num": 279727,
+        "word": "女子放生一麻袋蛇",
+        "onboard_time": 1756356744,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729036,
+        "num": 278374,
+        "word": "张檬机场头盖布给儿子喂母乳",
+        "onboard_time": 1756352181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544037,
+        "num": 274693,
+        "word": "安妮海瑟薇摔倒后优雅起身",
+        "onboard_time": 1756353981,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392554,
+        "num": 272244,
+        "word": "金子涵剃寸头",
+        "onboard_time": 1756336879,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57323,
+        "num": 270786,
+        "word": "美团闪购联名花太好看了",
+        "onboard_time": 1756355483,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102587,
+        "num": 268567,
+        "word": "离了中国留学生美国高校会怎样",
+        "onboard_time": 1756357284,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121966,
+        "num": 264566,
+        "word": "2025中国民营企业500强发布",
+        "onboard_time": 1756357583,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179792,
+        "num": 263157,
+        "word": "三折叠怎么折都全面",
+        "onboard_time": 1756355243,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 336071,
+        "num": 259937,
+        "word": "两男生开房住宿坐断床头柜",
+        "onboard_time": 1756337781,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259256,
+        "num": 259256,
+        "word": "怎么不等七夕过了再告诉我",
+        "onboard_time": 1756356983,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248511,
+        "num": 248511,
+        "word": "龚俊在张晚意的一声哥哥中迷失了",
+        "onboard_time": 1756349242,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225886,
+        "num": 225886,
+        "word": "时代少年团也追星了",
+        "onboard_time": 1756357823,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190833,
+        "num": 216879,
+        "word": "欢乐颂四美宣传王子文新剧",
+        "onboard_time": 1756355603,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213244,
+        "num": 213244,
+        "word": "日本没有资格说三道四",
+        "onboard_time": 1756344020,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156606,
+        "num": 210908,
+        "word": "徐如蓝刘子晗上恋综不需要助攻",
+        "onboard_time": 1756358123,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33347,
+        "num": 210521,
+        "word": "收女友10余万礼物男方家属称算赠与",
+        "onboard_time": 1756357343,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210230,
+        "num": 210230,
+        "word": "孙颖莎T杂志",
+        "onboard_time": 1756350802,
+        "rank": 30,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 203795,
+        "num": 203795,
+        "word": "何晟铭 我叫白月光",
+        "onboard_time": 1756346601,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198515,
+        "num": 198515,
+        "word": "原来体香是可以养出来的",
+        "onboard_time": 1756358243,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190881,
+        "num": 190881,
+        "word": "姜思达给吴京10个人生建议",
+        "onboard_time": 1756356444,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167318,
+        "num": 167318,
+        "word": "将出席纪念活动的外国元首和政府首脑",
+        "onboard_time": 1756348462,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161666,
+        "num": 161666,
+        "word": "曹璐宣布FIESTAR签约半年解约",
+        "onboard_time": 1756349963,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51441,
+        "num": 158262,
+        "word": "团队论文致谢中悼念33岁女教师",
+        "onboard_time": 1756358182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158107,
+        "num": 158107,
+        "word": "邓紫棋演唱会七站官宣",
+        "onboard_time": 1756355723,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67789,
+        "num": 150995,
+        "word": "寒武纪总市值超6100亿",
+        "onboard_time": 1756358424,
+        "rank": 38,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 93553,
+        "num": 149244,
+        "word": "何晟铭独白 愿来生不见不欠不念",
+        "onboard_time": 1756357702,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149213,
+        "num": 149213,
+        "word": "iPhone防晕车功能",
+        "onboard_time": 1756352360,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149149,
+        "num": 149149,
+        "word": "张智霖曝儿子下个月出国留学",
+        "onboard_time": 1756354882,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145137,
+        "num": 145137,
+        "word": "小酒窝又C位跳舞了",
+        "onboard_time": 1756357223,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143330,
+        "num": 143330,
+        "word": "张晚意gogogo节目组nonono",
+        "onboard_time": 1756355122,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141540,
+        "num": 141540,
+        "word": "建议大家不要租太差的房子",
+        "onboard_time": 1756357463,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140301,
+        "num": 140301,
+        "word": "徐如蓝对方益炯灵魂五连问",
+        "onboard_time": 1756357943,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134896,
+        "num": 134896,
+        "word": "无限暖暖",
+        "onboard_time": 1756356684,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134868,
+        "num": 134868,
+        "word": "黎深以我寄黎明",
+        "onboard_time": 1756357642,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132475,
+        "num": 132475,
+        "word": "黄景瑜一句话沈腾都闭麦了",
+        "onboard_time": 1756358722,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131658,
+        "num": 131658,
+        "word": "贺峻霖offer卷发路透",
+        "onboard_time": 1756358722,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬结成风雨同舟的铁杆友谊#"
+    }
+  }
+}
