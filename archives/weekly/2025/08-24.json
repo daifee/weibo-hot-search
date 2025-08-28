@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756395692325,
+  "endTime": 1756398725036,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -521,6 +521,14 @@
       "onboard_time": 1756190484,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1196163,
+      "num": 210679,
+      "word": "虞书欣父亲称老潘财商抹黑",
+      "onboard_time": 1756396341,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1192541,
@@ -3371,6 +3379,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 388080,
+      "num": 388080,
+      "word": "厦门航空一飞机因充电宝起火延误",
+      "onboard_time": 1756393464,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385601,
       "num": 385601,
       "word": "杭州交警通报男子高速戴恐怖面具",
@@ -5355,6 +5371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214704,
+      "num": 214704,
+      "word": "尚雯婕说李佳琦不懂得拒绝",
+      "onboard_time": 1756394124,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214623,
       "num": 206880,
       "word": "杭州男子当街殴打出轨男女",
@@ -5369,6 +5393,14 @@
       "onboard_time": 1756379002,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 214286,
+      "num": 214286,
+      "word": "宋祖儿陈鑫海表妹万福濮院杀青",
+      "onboard_time": 1756395922,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 213986,
@@ -6627,14 +6659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190033,
-      "num": 190033,
-      "word": "尚雯婕说李佳琦不懂得拒绝",
-      "onboard_time": 1756394124,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189715,
       "num": 189715,
       "word": "Rapeter哭了",
@@ -7425,14 +7449,6 @@
       "onboard_time": 1756006763,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177855,
-      "num": 177855,
-      "word": "厦门航空一飞机因充电宝起火延误",
-      "onboard_time": 1756393464,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177732,
@@ -10635,6 +10651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136877,
+      "num": 168418,
+      "word": "今年七夕节本世纪最晚",
+      "onboard_time": 1756393283,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 136769,
       "num": 185629,
       "word": "胡军为演归队减重37斤",
@@ -12619,6 +12643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 119252,
+      "num": 119252,
+      "word": "七夕就这样官宣",
+      "onboard_time": 1756392924,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119185,
       "num": 115020,
       "word": "Angelababy温柔的代名词",
@@ -13291,14 +13323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112994,
-      "num": 168418,
-      "word": "今年七夕节本世纪最晚",
-      "onboard_time": 1756393283,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 112760,
       "num": 112760,
       "word": "美一女子在教堂外遭性侵死亡",
@@ -13553,6 +13577,14 @@
       "onboard_time": 1755953184,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109248,
+      "num": 109248,
+      "word": "反诈老陈打假嘎子哥翻车后道歉",
+      "onboard_time": 1756398021,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 109224,
@@ -14852,7 +14884,7 @@
     },
     {
       "raw_hot": 94877,
-      "num": 94877,
+      "num": 213496,
       "word": "今年第14号台风来了",
       "onboard_time": 1756392624,
       "rank": 45,
@@ -15177,6 +15209,14 @@
       "onboard_time": 1756137086,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89243,
+      "num": 89243,
+      "word": "七夕还能看乒乓球",
+      "onboard_time": 1756396161,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 89194,
@@ -15891,6 +15931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71191,
+      "num": 71191,
+      "word": "米勒 这就是ig的比赛吗",
+      "onboard_time": 1756397602,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71088,
       "num": 71088,
       "word": "唐禹哲老婆晒全家福",
@@ -16259,6 +16307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62889,
+      "num": 62889,
+      "word": "徐明浩StarCrossingNight",
+      "onboard_time": 1756397962,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 62779,
       "num": 56720,
       "word": "Angelababy逆应援给粉丝点奶茶",
@@ -16393,6 +16449,14 @@
       "onboard_time": 1756351761,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59603,
+      "num": 59603,
+      "word": "航空公司回应飞机因充电宝起火延误",
+      "onboard_time": 1756396822,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59314,
