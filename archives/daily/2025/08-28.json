@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756351009988,
+  "endTime": 1756353011290,
   "band_list": [
     {
       "raw_hot": 1972473,
@@ -12,19 +12,43 @@
     },
     {
       "raw_hot": 1287812,
-      "num": 375062,
+      "num": 537233,
       "word": "两男生开房住宿坐断床头柜",
       "onboard_time": 1756337781,
       "rank": 36,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1142348,
+      "num": 977578,
+      "word": "真夫妻kisskiss我shyshy",
+      "onboard_time": 1756349242,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1060216,
+      "num": 1060216,
+      "word": "孙颖莎T杂志",
+      "onboard_time": 1756350802,
+      "rank": 1,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 1001611,
-      "num": 358063,
+      "num": 513102,
       "word": "金子涵剃寸头",
       "onboard_time": 1756336879,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 947978,
+      "num": 947978,
+      "word": "251万存款凭空消失被6名老人取走",
+      "onboard_time": 1756347322,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 920759,
@@ -35,16 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 858470,
-      "num": 637313,
-      "word": "真夫妻kisskiss我shyshy",
-      "onboard_time": 1756349242,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 810994,
-      "num": 391087,
+      "num": 520957,
       "word": "何晟铭 我叫白月光",
       "onboard_time": 1756346601,
       "rank": 32,
@@ -59,12 +75,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 676225,
-      "num": 676225,
-      "word": "孙颖莎T杂志",
-      "onboard_time": 1756350802,
-      "rank": 1,
-      "category": "体育,时尚"
+      "raw_hot": 767955,
+      "num": 530429,
+      "word": "朋友圈真的没必要仅3天可见",
+      "onboard_time": 1756351101,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 669967,
@@ -108,11 +124,27 @@
     },
     {
       "raw_hot": 633348,
-      "num": 357732,
+      "num": 420503,
       "word": "南京大学33岁女教师离世",
       "onboard_time": 1756339281,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 626433,
+      "num": 626433,
+      "word": "曹璐宣布FIESTAR签约半年解约",
+      "onboard_time": 1756349963,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 614211,
+      "num": 614211,
+      "word": "龚俊在张晚意的一声哥哥中迷失了",
+      "onboard_time": 1756349242,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 607619,
@@ -155,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 458705,
-      "num": 458705,
-      "word": "曹璐宣布FIESTAR签约半年解约",
-      "onboard_time": 1756349963,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 455407,
       "num": 455407,
       "word": "9月3日晚人民大会堂举办文艺晚会",
@@ -195,8 +219,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 414271,
-      "num": 356613,
+      "raw_hot": 428147,
+      "num": 428147,
       "word": "医生给梓渝的建议是需要手术",
       "onboard_time": 1756339462,
       "rank": 14,
@@ -209,6 +233,14 @@
       "onboard_time": 1756346721,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 372819,
+      "num": 372819,
+      "word": "明日方舟",
+      "onboard_time": 1756351882,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 372277,
@@ -235,20 +267,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 358336,
-      "num": 358336,
-      "word": "龚俊在张晚意的一声哥哥中迷失了",
-      "onboard_time": 1756349242,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 354319,
-      "num": 365029,
-      "word": "251万存款凭空消失被6名老人取走",
-      "onboard_time": 1756347322,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 356623,
+      "num": 356623,
+      "word": "张檬机场头盖布给儿子喂母乳",
+      "onboard_time": 1756352181,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 351341,
@@ -313,6 +337,14 @@
       "onboard_time": 1756338200,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 292657,
+      "num": 292657,
+      "word": "恋与深空",
+      "onboard_time": 1756350741,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 289550,
@@ -411,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221888,
+      "num": 421898,
+      "word": "南京大学回应33岁女教师离世",
+      "onboard_time": 1756351701,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215683,
       "num": 244464,
       "word": "90后00后文艺工作者担当主力",
@@ -433,6 +473,22 @@
       "onboard_time": 1756286725,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206654,
+      "num": 307260,
+      "word": "翘楚",
+      "onboard_time": 1756351222,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202312,
+      "num": 202312,
+      "word": "追觅官宣造车",
+      "onboard_time": 1756351821,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 202135,
@@ -483,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187513,
+      "num": 304060,
+      "word": "杨紫是小曲就爱",
+      "onboard_time": 1756352722,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186005,
       "num": 186005,
       "word": "小猫为了喝水被电麻了",
@@ -497,14 +561,6 @@
       "onboard_time": 1756342942,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 183581,
-      "num": 183581,
-      "word": "恋与深空",
-      "onboard_time": 1756350741,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 182729,
@@ -523,12 +579,76 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 179586,
+      "num": 179586,
+      "word": "明日方舟Mujica联动",
+      "onboard_time": 1756352662,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179223,
       "num": 179223,
       "word": "陈乔恩谈这辈子最勇敢的事",
       "onboard_time": 1756303406,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174956,
+      "num": 174956,
+      "word": "iPhone防晕车功能",
+      "onboard_time": 1756352360,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 172621,
+      "num": 356725,
+      "word": "天安门广场布置年号台",
+      "onboard_time": 1756349482,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 172541,
+      "num": 300384,
+      "word": "终于找到李承铉是外国人的证据了",
+      "onboard_time": 1756352121,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172511,
+      "num": 172511,
+      "word": "蔡依林晚上9点半就睡觉",
+      "onboard_time": 1756350442,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171847,
+      "num": 171847,
+      "word": "女子咨询同事被砸缝20多针",
+      "onboard_time": 1756352301,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167563,
+      "num": 167563,
+      "word": "非亲生儿子称父亲是受害者",
+      "onboard_time": 1756351222,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163083,
+      "num": 163083,
+      "word": "日本始终存在一股势力否认历史",
+      "onboard_time": 1756351222,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161396,
@@ -587,16 +707,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148883,
-      "num": 148883,
-      "word": "蔡依林晚上9点半就睡觉",
-      "onboard_time": 1756350442,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148030,
-      "num": 148030,
+      "num": 544884,
       "word": "阅兵准备基本就绪",
       "onboard_time": 1756350682,
       "rank": 43,
@@ -609,14 +721,6 @@
       "onboard_time": 1756345941,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147035,
-      "num": 356725,
-      "word": "天安门广场布置年号台",
-      "onboard_time": 1756349482,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 146367,
@@ -641,6 +745,14 @@
       "onboard_time": 1756299865,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144458,
+      "num": 144458,
+      "word": "中芯国际涨超8%创新高",
+      "onboard_time": 1756352902,
+      "rank": 49,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 143492,
@@ -787,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108356,
+      "num": 423145,
+      "word": "这个七夕捏脚师傅不够用了",
+      "onboard_time": 1756350322,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106304,
       "num": 102314,
       "word": "26岁女子欲离婚遭丈夫残忍杀害案续",
@@ -849,14 +969,6 @@
       "onboard_time": 1756338682,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96382,
-      "num": 357219,
-      "word": "这个七夕捏脚师傅不够用了",
-      "onboard_time": 1756350322,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94519,
@@ -928,6 +1040,14 @@
       "word": "刘涛真的有在偷偷补网梗",
       "onboard_time": 1756307604,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87902,
+      "num": 176238,
+      "word": "Angelababy陈妍希合诗雨同框",
+      "onboard_time": 1756352542,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1011,20 +1131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74215,
+      "num": 296452,
+      "word": "全新小鹏P7卖爆了",
+      "onboard_time": 1756350322,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 72810,
+      "num": 176235,
+      "word": "前TVB演员张国强片场吃盒饭",
+      "onboard_time": 1756352481,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72434,
       "num": 85281,
       "word": "男子花6元中1800万彩票店老板发声",
       "onboard_time": 1756298365,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68968,
-      "num": 270050,
-      "word": "全新小鹏P7卖爆了",
-      "onboard_time": 1756350322,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 68858,
@@ -1091,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61230,
+      "num": 176368,
+      "word": "魏建军称造车要经得住时间考验",
+      "onboard_time": 1756352421,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60313,
       "num": 357089,
       "word": "南美厄瓜多尔玫瑰被京东包了",
@@ -1104,6 +1240,14 @@
       "word": "王栎鑫常德把妹王",
       "onboard_time": 1756306765,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 59959,
+      "num": 270006,
+      "word": "沈腾把泳圈拍飞三米远",
+      "onboard_time": 1756351761,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1131,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46721,
+      "num": 425154,
+      "word": "熙游记开启极境之旅",
+      "onboard_time": 1756352421,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43283,
       "num": 56156,
       "word": "白鹿看不腻live图",
@@ -1140,7 +1292,7 @@
     },
     {
       "raw_hot": 42779,
-      "num": 358240,
+      "num": 519258,
       "word": "苏菲王曼昱",
       "onboard_time": 1756349542,
       "rank": 12,
@@ -1172,7 +1324,7 @@
     },
     {
       "raw_hot": 38909,
-      "num": 637563,
+      "num": 986138,
       "word": "中国蓝盔卫士亮相九三阅兵",
       "onboard_time": 1756288462,
       "rank": 2,
