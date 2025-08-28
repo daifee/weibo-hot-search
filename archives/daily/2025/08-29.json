@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756417025249,
+  "endTime": 1756419819109,
   "band_list": [
     {
       "raw_hot": 1196163,
@@ -115,20 +115,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 250322,
+      "num": 250322,
+      "word": "反诈老陈打假嘎子哥翻车后道歉",
+      "onboard_time": 1756398021,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 248755,
       "num": 248755,
       "word": "刘昊然金鹿奖影帝",
       "onboard_time": 1756386684,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247080,
-      "num": 140522,
-      "word": "反诈老陈打假嘎子哥翻车后道歉",
-      "onboard_time": 1756398021,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 214704,
@@ -235,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116230,
+      "num": 116230,
+      "word": "气象局回应哈尔滨上空现不明飞行物",
+      "onboard_time": 1756407374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113909,
       "num": 113909,
       "word": "早睡觉能解决80%以上的问题",
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74440,
+      "num": 74440,
+      "word": "男子持水杯砸伤女同事被刑拘",
+      "onboard_time": 1756415174,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73826,
       "num": 73826,
       "word": "王俊凯照片被学校当作出入证模版",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 69494,
-      "num": 35185,
+      "num": 48511,
       "word": "刘浩存主动给刘昊然打招呼",
       "onboard_time": 1756407855,
       "rank": 24,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 64181,
-      "num": 44894,
+      "num": 51642,
       "word": "安静公主资助过已去世的抗癌博主",
       "onboard_time": 1756404077,
       "rank": 30,
@@ -459,14 +475,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 59283,
-      "num": 59283,
-      "word": "气象局回应哈尔滨上空现不明飞行物",
-      "onboard_time": 1756407374,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59023,
       "num": 59023,
       "word": "裴秀智方辟谣结婚传闻",
@@ -515,14 +523,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 35860,
-      "num": 36565,
-      "word": "男子持水杯砸伤女同事被刑拘",
-      "onboard_time": 1756415174,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35363,
       "num": 45732,
       "word": "目之所及",
@@ -537,6 +537,14 @@
       "onboard_time": 1756401857,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 31373,
+      "num": 31373,
+      "word": "育儿补贴可以线上申领了",
+      "onboard_time": 1756406296,
+      "rank": 39,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 30749,
@@ -571,20 +579,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22954,
-      "num": 22954,
-      "word": "育儿补贴可以线上申领了",
-      "onboard_time": 1756406296,
-      "rank": 39,
-      "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 22223,
+      "raw_hot": 22527,
       "num": 58240,
       "word": "九三文艺晚会细节来了",
       "onboard_time": 1756405818,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18136,
+      "num": 24819,
+      "word": "华晨宇火星演唱会",
+      "onboard_time": 1756403117,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 17758,
@@ -596,18 +604,18 @@
     },
     {
       "raw_hot": 17231,
-      "num": 18229,
+      "num": 24817,
       "word": "风声",
       "onboard_time": 1756403596,
       "rank": 47,
       "category": "演出"
     },
     {
-      "raw_hot": 17048,
-      "num": 18530,
-      "word": "华晨宇火星演唱会",
-      "onboard_time": 1756403117,
-      "rank": 34,
+      "raw_hot": 16659,
+      "num": 24817,
+      "word": "陈奕迅方将下架影片",
+      "onboard_time": 1756418955,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -617,6 +625,14 @@
       "onboard_time": 1756411753,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 15382,
+      "num": 24817,
+      "word": "公主抱陪爬领队回应被质疑擦边",
+      "onboard_time": 1756419316,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14556,
