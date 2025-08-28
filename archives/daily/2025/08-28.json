@@ -1,10 +1,10 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756350471488,
+  "endTime": 1756351009988,
   "band_list": [
     {
-      "raw_hot": 1853313,
-      "num": 1853313,
+      "raw_hot": 1972473,
+      "num": 1972473,
       "word": "普京和金正恩等出席抗战纪念活动",
       "onboard_time": 1756347261,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1287812,
-      "num": 325291,
+      "num": 375062,
       "word": "两男生开房住宿坐断床头柜",
       "onboard_time": 1756337781,
       "rank": 36,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1001611,
-      "num": 305132,
+      "num": 358063,
       "word": "金子涵剃寸头",
       "onboard_time": 1756336879,
       "rank": 39,
@@ -35,8 +35,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 858470,
+      "num": 637313,
+      "word": "真夫妻kisskiss我shyshy",
+      "onboard_time": 1756349242,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 810994,
-      "num": 335550,
+      "num": 391087,
       "word": "何晟铭 我叫白月光",
       "onboard_time": 1756346601,
       "rank": 32,
@@ -49,6 +57,14 @@
       "onboard_time": 1756306705,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 676225,
+      "num": 676225,
+      "word": "孙颖莎T杂志",
+      "onboard_time": 1756350802,
+      "rank": 1,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 669967,
@@ -83,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 634111,
+      "num": 634111,
+      "word": "将出席纪念活动的外国元首和政府首脑",
+      "onboard_time": 1756348462,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 633348,
-      "num": 303345,
+      "num": 357732,
       "word": "南京大学33岁女教师离世",
       "onboard_time": 1756339281,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 607619,
+      "num": 607619,
+      "word": "日本没有资格说三道四",
+      "onboard_time": 1756344020,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 603006,
@@ -115,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 576549,
-      "num": 576549,
-      "word": "日本没有资格说三道四",
-      "onboard_time": 1756344020,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 552034,
       "num": 552034,
       "word": "王鹤棣 海飞丝",
@@ -131,20 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 551018,
-      "num": 551018,
-      "word": "将出席纪念活动的外国元首和政府首脑",
-      "onboard_time": 1756348462,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 528362,
-      "num": 528362,
-      "word": "真夫妻kisskiss我shyshy",
-      "onboard_time": 1756349242,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 458705,
+      "num": 458705,
+      "word": "曹璐宣布FIESTAR签约半年解约",
+      "onboard_time": 1756349963,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 455407,
@@ -180,11 +196,19 @@
     },
     {
       "raw_hot": 414271,
-      "num": 295145,
+      "num": 356613,
       "word": "医生给梓渝的建议是需要手术",
       "onboard_time": 1756339462,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394865,
+      "num": 394865,
+      "word": "阅兵筹备进展发布会",
+      "onboard_time": 1756346721,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 372277,
@@ -211,6 +235,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 358336,
+      "num": 358336,
+      "word": "龚俊在张晚意的一声哥哥中迷失了",
+      "onboard_time": 1756349242,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 354319,
+      "num": 365029,
+      "word": "251万存款凭空消失被6名老人取走",
+      "onboard_time": 1756347322,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351341,
       "num": 351341,
       "word": "男子找回2岁女儿狠扇自己耳光",
@@ -220,19 +260,11 @@
     },
     {
       "raw_hot": 351003,
-      "num": 292128,
+      "num": 318204,
       "word": "95后花4万元办三无婚礼",
       "onboard_time": 1756347261,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337863,
-      "num": 337863,
-      "word": "阅兵筹备进展发布会",
-      "onboard_time": 1756346721,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 328240,
@@ -259,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306676,
-      "num": 306676,
-      "word": "251万存款凭空消失被6名老人取走",
-      "onboard_time": 1756347322,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 310914,
+      "num": 310914,
+      "word": "这才是00后想要过的七夕",
+      "onboard_time": 1756349542,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 294174,
@@ -315,22 +347,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 263339,
-      "num": 300908,
-      "word": "龚俊在张晚意的一声哥哥中迷失了",
-      "onboard_time": 1756349242,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 260801,
-      "num": 297695,
-      "word": "曹璐宣布FIESTAR签约半年解约",
-      "onboard_time": 1756349963,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257780,
       "num": 257780,
       "word": "ZionT新歌表白孙彩瑛",
@@ -361,14 +377,6 @@
       "onboard_time": 1756346121,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 244641,
-      "num": 242944,
-      "word": "这才是00后想要过的七夕",
-      "onboard_time": 1756349542,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 243537,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 202135,
-      "num": 252975,
+      "num": 306291,
       "word": "谁能顶得住杨幂的温柔刀",
       "onboard_time": 1756349600,
       "rank": 25,
@@ -491,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183581,
+      "num": 183581,
+      "word": "恋与深空",
+      "onboard_time": 1756350741,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182729,
       "num": 251841,
       "word": "王一博赛事日程",
@@ -513,6 +529,14 @@
       "onboard_time": 1756303406,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161396,
+      "num": 290646,
+      "word": "陈飞宇王影璐你俩搁这求婚呢",
+      "onboard_time": 1756350442,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 160973,
@@ -563,6 +587,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148883,
+      "num": 148883,
+      "word": "蔡依林晚上9点半就睡觉",
+      "onboard_time": 1756350442,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148030,
+      "num": 148030,
+      "word": "阅兵准备基本就绪",
+      "onboard_time": 1756350682,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147829,
       "num": 147829,
       "word": "龚琳娜一开口就是盛世大唐",
@@ -572,7 +612,7 @@
     },
     {
       "raw_hot": 147035,
-      "num": 147035,
+      "num": 356725,
       "word": "天安门广场布置年号台",
       "onboard_time": 1756349482,
       "rank": 38,
@@ -659,28 +699,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 132681,
-      "num": 132681,
-      "word": "陈飞宇王影璐你俩搁这求婚呢",
-      "onboard_time": 1756350442,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 133150,
+      "num": 133150,
+      "word": "鸣潮",
+      "onboard_time": 1756349120,
+      "rank": 45,
+      "category": "游戏"
     },
     {
-      "raw_hot": 127478,
-      "num": 127478,
+      "raw_hot": 127567,
+      "num": 127567,
       "word": "美甲师妈妈每天上班出门的样子",
       "onboard_time": 1756350142,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126905,
-      "num": 126905,
-      "word": "蔡依林晚上9点半就睡觉",
-      "onboard_time": 1756350442,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 126076,
@@ -820,7 +852,7 @@
     },
     {
       "raw_hot": 96382,
-      "num": 246591,
+      "num": 357219,
       "word": "这个七夕捏脚师傅不够用了",
       "onboard_time": 1756350322,
       "rank": 28,
@@ -987,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68968,
+      "num": 270050,
+      "word": "全新小鹏P7卖爆了",
+      "onboard_time": 1756350322,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 68858,
       "num": 68858,
       "word": "最省成本的短剧出现了",
@@ -1052,7 +1092,7 @@
     },
     {
       "raw_hot": 60313,
-      "num": 296846,
+      "num": 357089,
       "word": "南美厄瓜多尔玫瑰被京东包了",
       "onboard_time": 1756346901,
       "rank": 19,
@@ -1067,20 +1107,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58074,
-      "num": 248681,
-      "word": "全新小鹏P7卖爆了",
-      "onboard_time": 1756350322,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 57600,
       "num": 57600,
       "word": "毛豆走了带着满满的脱口秀素材",
       "onboard_time": 1756336158,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55628,
+      "num": 274574,
+      "word": "九三阅兵进入倒计时",
+      "onboard_time": 1756350741,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53373,
@@ -1099,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42779,
+      "num": 358240,
+      "word": "苏菲王曼昱",
+      "onboard_time": 1756349542,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40882,
       "num": 55400,
       "word": "井柏然健完身吃碗面",
@@ -1115,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39667,
-      "num": 312422,
-      "word": "苏菲王曼昱",
-      "onboard_time": 1756349542,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39489,
       "num": 55365,
       "word": "北京最大降雨量79.6毫米",
@@ -1132,7 +1172,7 @@
     },
     {
       "raw_hot": 38909,
-      "num": 609158,
+      "num": 637563,
       "word": "中国蓝盔卫士亮相九三阅兵",
       "onboard_time": 1756288462,
       "rank": 2,

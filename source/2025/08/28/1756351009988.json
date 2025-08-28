@@ -1,0 +1,410 @@
+{
+  "runTime": 1756351009988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972473,
+        "num": 1972473,
+        "word": "普京和金正恩等出席抗战纪念活动",
+        "onboard_time": 1756347261,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 676225,
+        "num": 676225,
+        "word": "孙颖莎T杂志",
+        "onboard_time": 1756350802,
+        "rank": 1,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 10204,
+        "num": 637563,
+        "word": "中国蓝盔卫士亮相九三阅兵",
+        "onboard_time": 1756288462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 858470,
+        "num": 637313,
+        "word": "真夫妻kisskiss我shyshy",
+        "onboard_time": 1756349242,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634111,
+        "num": 634111,
+        "word": "将出席纪念活动的外国元首和政府首脑",
+        "onboard_time": 1756348462,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 607619,
+        "num": 607619,
+        "word": "日本没有资格说三道四",
+        "onboard_time": 1756344020,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 537129,
+        "num": 537129,
+        "word": "蜜雪冰城回应网友玩梗蜜鼠冰城",
+        "onboard_time": 1756342882,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491864,
+        "num": 491864,
+        "word": "王鹤棣 海飞丝",
+        "onboard_time": 1756347683,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458705,
+        "num": 458705,
+        "word": "曹璐宣布FIESTAR签约半年解约",
+        "onboard_time": 1756349963,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394865,
+        "num": 394865,
+        "word": "阅兵筹备进展发布会",
+        "onboard_time": 1756346721,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 800385,
+        "num": 391087,
+        "word": "何晟铭 我叫白月光",
+        "onboard_time": 1756346601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741498,
+        "num": 375062,
+        "word": "两男生开房住宿坐断床头柜",
+        "onboard_time": 1756337781,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354319,
+        "num": 365029,
+        "word": "251万存款凭空消失被6名老人取走",
+        "onboard_time": 1756347322,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358336,
+        "num": 358336,
+        "word": "龚俊在张晚意的一声哥哥中迷失了",
+        "onboard_time": 1756349242,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42779,
+        "num": 358240,
+        "word": "苏菲王曼昱",
+        "onboard_time": 1756349542,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629704,
+        "num": 358063,
+        "word": "金子涵剃寸头",
+        "onboard_time": 1756336879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461496,
+        "num": 357732,
+        "word": "南京大学33岁女教师离世",
+        "onboard_time": 1756339281,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242770,
+        "num": 357570,
+        "word": "言承旭上恋综就像老鼠掉进米缸",
+        "onboard_time": 1756339582,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82282,
+        "num": 357219,
+        "word": "这个七夕捏脚师傅不够用了",
+        "onboard_time": 1756350322,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59643,
+        "num": 357089,
+        "word": "南美厄瓜多尔玫瑰被京东包了",
+        "onboard_time": 1756346901,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138864,
+        "num": 356725,
+        "word": "天安门广场布置年号台",
+        "onboard_time": 1756349482,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 356613,
+        "num": 356613,
+        "word": "医生给梓渝的建议是需要手术",
+        "onboard_time": 1756339462,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344044,
+        "num": 344044,
+        "word": "9月3日晚人民大会堂举办文艺晚会",
+        "onboard_time": 1756348522,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318204,
+        "num": 318204,
+        "word": "95后花4万元办三无婚礼",
+        "onboard_time": 1756347261,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315461,
+        "num": 315461,
+        "word": "细菌战幸存者又被731做活体实验",
+        "onboard_time": 1756342942,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310914,
+        "num": 310914,
+        "word": "这才是00后想要过的七夕",
+        "onboard_time": 1756349542,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193688,
+        "num": 306291,
+        "word": "谁能顶得住杨幂的温柔刀",
+        "onboard_time": 1756349600,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161396,
+        "num": 290646,
+        "word": "陈飞宇王影璐你俩搁这求婚呢",
+        "onboard_time": 1756350442,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55628,
+        "num": 274574,
+        "word": "九三阅兵进入倒计时",
+        "onboard_time": 1756350741,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68968,
+        "num": 270050,
+        "word": "全新小鹏P7卖爆了",
+        "onboard_time": 1756350322,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258164,
+        "num": 258164,
+        "word": "抗战胜利80周年文艺晚会进入最后合成阶段",
+        "onboard_time": 1756349422,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254327,
+        "num": 254327,
+        "word": "中国抗战阅兵以来日本砸560亿搞公关",
+        "onboard_time": 1756310122,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137896,
+        "num": 247722,
+        "word": "王一博赛事日程",
+        "onboard_time": 1756349542,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243845,
+        "num": 243845,
+        "word": "这些习惯是血糖刺客",
+        "onboard_time": 1756346121,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214519,
+        "num": 214519,
+        "word": "樊振东关注霉霉未婚夫ins",
+        "onboard_time": 1756348701,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210182,
+        "num": 210182,
+        "word": "抗战胜利80周年纪念币",
+        "onboard_time": 1756345461,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191644,
+        "num": 191644,
+        "word": "樊振东 安踏",
+        "onboard_time": 1756349963,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186966,
+        "num": 186966,
+        "word": "郑佩佩儿子为妻子再次众筹医药费",
+        "onboard_time": 1756303285,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183581,
+        "num": 183581,
+        "word": "恋与深空",
+        "onboard_time": 1756350741,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177758,
+        "num": 177758,
+        "word": "90后00后文艺工作者担当主力",
+        "onboard_time": 1756349120,
+        "rank": 39,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 160973,
+        "num": 160973,
+        "word": "男子失踪9年后被找回牙齿已掉光",
+        "onboard_time": 1756342581,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149673,
+        "num": 149673,
+        "word": "周鸿祎约等于被144台保时捷包围",
+        "onboard_time": 1756349662,
+        "rank": 41,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 148883,
+        "num": 148883,
+        "word": "蔡依林晚上9点半就睡觉",
+        "onboard_time": 1756350442,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148030,
+        "num": 148030,
+        "word": "阅兵准备基本就绪",
+        "onboard_time": 1756350682,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133976,
+        "num": 133976,
+        "word": "14国50位友人或遗属出席抗战纪念活动",
+        "onboard_time": 1756348642,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133150,
+        "num": 133150,
+        "word": "鸣潮",
+        "onboard_time": 1756349120,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131095,
+        "num": 131095,
+        "word": "致敬伟大抗战精神MV发布",
+        "onboard_time": 1756347442,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128817,
+        "num": 128817,
+        "word": "樊振东点赞霉霉",
+        "onboard_time": 1756348522,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128723,
+        "num": 128723,
+        "word": "男子找回2岁女儿狠扇自己耳光",
+        "onboard_time": 1756338200,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127567,
+        "num": 127567,
+        "word": "美甲师妈妈每天上班出门的样子",
+        "onboard_time": 1756350142,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}
