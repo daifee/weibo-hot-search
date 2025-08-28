@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756423401318,
+  "endTime": 1756424230351,
   "band_list": [
     {
       "raw_hot": 1196163,
@@ -43,12 +43,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 520770,
-      "num": 520770,
+      "raw_hot": 538620,
+      "num": 538620,
       "word": "反诈老陈打假嘎子哥翻车后道歉",
       "onboard_time": 1756398021,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 498637,
+      "num": 498637,
+      "word": "陈奕迅方道歉",
+      "onboard_time": 1756399459,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 444074,
@@ -57,14 +65,6 @@
       "onboard_time": 1756386984,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 441073,
-      "num": 441073,
-      "word": "陈奕迅方道歉",
-      "onboard_time": 1756399459,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 388578,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 301076,
+      "num": 301076,
+      "word": "气象局回应哈尔滨上空现不明飞行物",
+      "onboard_time": 1756407374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299461,
       "num": 208051,
       "word": "寒武纪",
@@ -115,6 +123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 283950,
+      "num": 192163,
+      "word": "承认吧演员多读书有用",
+      "onboard_time": 1756381283,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267814,
       "num": 267814,
       "word": "上海警方通报涉演唱会谣言",
@@ -123,12 +139,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 258406,
-      "num": 258406,
-      "word": "气象局回应哈尔滨上空现不明飞行物",
-      "onboard_time": 1756407374,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 261331,
+      "num": 205158,
+      "word": "突然发现了马桶的正确坐姿",
+      "onboard_time": 1756389743,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 251532,
@@ -137,14 +153,6 @@
       "onboard_time": 1756374082,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 249420,
-      "num": 183253,
-      "word": "承认吧演员多读书有用",
-      "onboard_time": 1756381283,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 248755,
@@ -169,14 +177,6 @@
       "onboard_time": 1756395922,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205158,
-      "num": 205158,
-      "word": "突然发现了马桶的正确坐姿",
-      "onboard_time": 1756389743,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 200899,
@@ -211,6 +211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155177,
+      "num": 104619,
+      "word": "女子为爱辞职远嫁北京18年后被离婚",
+      "onboard_time": 1756375943,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148601,
+      "num": 113909,
+      "word": "早睡觉能解决80%以上的问题",
+      "onboard_time": 1756388722,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145150,
       "num": 145150,
       "word": "iG对战BLG",
@@ -227,11 +243,11 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 136172,
-      "num": 89367,
-      "word": "女子为爱辞职远嫁北京18年后被离婚",
-      "onboard_time": 1756375943,
-      "rank": 32,
+      "raw_hot": 133082,
+      "num": 133082,
+      "word": "男子持水杯砸伤女同事被刑拘",
+      "onboard_time": 1756415174,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -241,22 +257,6 @@
       "onboard_time": 1756384883,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128632,
-      "num": 113909,
-      "word": "早睡觉能解决80%以上的问题",
-      "onboard_time": 1756388722,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 124587,
-      "num": 124587,
-      "word": "男子持水杯砸伤女同事被刑拘",
-      "onboard_time": 1756415174,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119252,
@@ -275,6 +275,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115376,
+      "num": 106681,
+      "word": "高利率网贷正在吞噬年轻人",
+      "onboard_time": 1756384163,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113071,
+      "num": 113071,
+      "word": "刘浩存主动给刘昊然打招呼",
+      "onboard_time": 1756407855,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109363,
       "num": 109363,
       "word": "TheShy大笑",
@@ -283,20 +299,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 106681,
-      "num": 106681,
-      "word": "高利率网贷正在吞噬年轻人",
-      "onboard_time": 1756384163,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 98088,
+      "num": 98088,
+      "word": "日本郊外发现装有大量人骨麻袋",
+      "onboard_time": 1756379421,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 95986,
-      "num": 95986,
-      "word": "刘浩存主动给刘昊然打招呼",
-      "onboard_time": 1756407855,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 97084,
+      "num": 97084,
+      "word": "安静公主资助过已去世的抗癌博主",
+      "onboard_time": 1756404077,
+      "rank": 30,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 89706,
+      "num": 89706,
+      "word": "陈奕迅方将下架影片",
+      "onboard_time": 1756418955,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 89448,
@@ -313,14 +337,6 @@
       "onboard_time": 1756396161,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88020,
-      "num": 88020,
-      "word": "日本郊外发现装有大量人骨麻袋",
-      "onboard_time": 1756379421,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87181,
@@ -355,12 +371,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 77605,
-      "num": 70114,
-      "word": "安静公主资助过已去世的抗癌博主",
-      "onboard_time": 1756404077,
-      "rank": 30,
-      "category": "网红,民生新闻"
+      "raw_hot": 78241,
+      "num": 78241,
+      "word": "保时捷女车主停车一车占两位",
+      "onboard_time": 1756424122,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76278,
@@ -379,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71503,
+      "num": 71503,
+      "word": "关晓彤霸腾女",
+      "onboard_time": 1756421657,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71191,
       "num": 71191,
       "word": "米勒 这就是ig的比赛吗",
@@ -387,20 +411,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 70522,
-      "num": 70522,
-      "word": "陈奕迅方将下架影片",
-      "onboard_time": 1756418955,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 70468,
       "num": 70468,
       "word": "花少7聚餐合照",
       "onboard_time": 1756397482,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70245,
+      "num": 70245,
+      "word": "靠网贷维持体面生活的年轻人怎么样了",
+      "onboard_time": 1756390584,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67457,
@@ -425,14 +449,6 @@
       "onboard_time": 1756420157,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 65470,
-      "num": 65470,
-      "word": "靠网贷维持体面生活的年轻人怎么样了",
-      "onboard_time": 1756390584,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64548,
@@ -483,20 +499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60785,
+      "num": 60785,
+      "word": "七夕礼物",
+      "onboard_time": 1756423219,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 60453,
+      "num": 109714,
+      "word": "抗战胜利80周年记者见面会",
+      "onboard_time": 1756423699,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60401,
       "num": 60401,
       "word": "警方通报男子砸伤女同事",
       "onboard_time": 1756390226,
       "rank": 48,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 59724,
-      "num": 59724,
-      "word": "关晓彤霸腾女",
-      "onboard_time": 1756421657,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 59023,
@@ -513,6 +537,30 @@
       "onboard_time": 1756406296,
       "rank": 39,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 55873,
+      "num": 55873,
+      "word": "李佳琦不允许任何人脸是油的",
+      "onboard_time": 1756382302,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53074,
+      "num": 108310,
+      "word": "梁王组合止步世锦赛16强",
+      "onboard_time": 1756423519,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51515,
+      "num": 54489,
+      "word": "吴京出品电影上映6天票房仅26.7万",
+      "onboard_time": 1756424179,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 50538,
@@ -536,6 +584,30 @@
       "word": "掩盖史实和推卸责任无法洗白自己",
       "onboard_time": 1756396822,
       "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 44413,
+      "num": 56741,
+      "word": "黄子弘凡",
+      "onboard_time": 1756423279,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40911,
+      "num": 60938,
+      "word": "高铁特等座 面壁思过",
+      "onboard_time": 1756423758,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39923,
+      "num": 54485,
+      "word": "2人多次在我军事敏感区飞无人机",
+      "onboard_time": 1756424179,
+      "rank": 49,
       "category": "国内时政"
     },
     {
@@ -587,14 +659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33862,
-      "num": 56747,
-      "word": "七夕礼物",
-      "onboard_time": 1756423219,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 31853,
       "num": 56016,
       "word": "完美世界动画",
@@ -609,14 +673,6 @@
       "onboard_time": 1756402756,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30003,
-      "num": 56741,
-      "word": "黄子弘凡",
-      "onboard_time": 1756423279,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 24805,
@@ -699,8 +755,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 10450,
+      "num": 81966,
+      "word": "美国拒绝接受联合国人权审议",
+      "onboard_time": 1756423941,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 5285,
-      "num": 476100,
+      "num": 515895,
       "word": "中国阅兵向国际传递什么信息",
       "onboard_time": 1756351521,
       "rank": 2,

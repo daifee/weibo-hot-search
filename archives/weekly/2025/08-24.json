@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756423401318,
+  "endTime": 1756424230351,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -2355,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538620,
+      "num": 538620,
+      "word": "反诈老陈打假嘎子哥翻车后道歉",
+      "onboard_time": 1756398021,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 537011,
       "num": 283026,
       "word": "清朝状元的名字毫无网红感",
@@ -2483,14 +2491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 520770,
-      "num": 520770,
-      "word": "反诈老陈打假嘎子哥翻车后道歉",
-      "onboard_time": 1756398021,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 520725,
       "num": 362647,
       "word": "存款100万靠利息生活的视频别太当真",
@@ -2609,6 +2609,14 @@
       "onboard_time": 1756031362,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 498637,
+      "num": 498637,
+      "word": "陈奕迅方道歉",
+      "onboard_time": 1756399459,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 498391,
@@ -2977,14 +2985,6 @@
       "onboard_time": 1756096225,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 441073,
-      "num": 441073,
-      "word": "陈奕迅方道歉",
-      "onboard_time": 1756399459,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 441039,
@@ -4107,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301076,
+      "num": 301076,
+      "word": "气象局回应哈尔滨上空现不明飞行物",
+      "onboard_time": 1756407374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301019,
       "num": 301019,
       "word": "女子为爱辞职远嫁北京18年后被离婚",
@@ -4289,6 +4297,14 @@
       "onboard_time": 1756184903,
       "rank": 7,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 283950,
+      "num": 192163,
+      "word": "承认吧演员多读书有用",
+      "onboard_time": 1756381283,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 283729,
@@ -4571,14 +4587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 258406,
-      "num": 258406,
-      "word": "气象局回应哈尔滨上空现不明飞行物",
-      "onboard_time": 1756407374,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258114,
       "num": 209887,
       "word": "姜潮麦迪娜害怕孩子以后啃老",
@@ -4729,14 +4737,6 @@
       "onboard_time": 1756024403,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249420,
-      "num": 183253,
-      "word": "承认吧演员多读书有用",
-      "onboard_time": 1756381283,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 249213,
@@ -11107,6 +11107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133082,
+      "num": 133082,
+      "word": "男子持水杯砸伤女同事被刑拘",
+      "onboard_time": 1756415174,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133016,
       "num": 133016,
       "word": "粉丝当着鹿晗的面投诉工作室",
@@ -12009,14 +12017,6 @@
       "onboard_time": 1756104623,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124587,
-      "num": 124587,
-      "word": "男子持水杯砸伤女同事被刑拘",
-      "onboard_time": 1756415174,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124586,
@@ -13369,6 +13369,14 @@
       "onboard_time": 1756201822,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113071,
+      "num": 113071,
+      "word": "刘浩存主动给刘昊然打招呼",
+      "onboard_time": 1756407855,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 112760,
@@ -14795,6 +14803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97084,
+      "num": 97084,
+      "word": "安静公主资助过已去世的抗癌博主",
+      "onboard_time": 1756404077,
+      "rank": 30,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 97082,
       "num": 97082,
       "word": "原来腿长的小猫是这样玩的",
@@ -14865,14 +14881,6 @@
       "onboard_time": 1756289063,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 95986,
-      "num": 95986,
-      "word": "刘浩存主动给刘昊然打招呼",
-      "onboard_time": 1756407855,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 95760,
@@ -15233,6 +15241,14 @@
       "onboard_time": 1756027641,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89706,
+      "num": 89706,
+      "word": "陈奕迅方将下架影片",
+      "onboard_time": 1756418955,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 89532,
@@ -15715,6 +15731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78241,
+      "num": 78241,
+      "word": "保时捷女车主停车一车占两位",
+      "onboard_time": 1756424122,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78066,
       "num": 78066,
       "word": "莫雷加德主场创造历史",
@@ -15729,14 +15753,6 @@
       "onboard_time": 1756364001,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77605,
-      "num": 70114,
-      "word": "安静公主资助过已去世的抗癌博主",
-      "onboard_time": 1756404077,
-      "rank": 30,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 77340,
@@ -15987,6 +16003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71503,
+      "num": 71503,
+      "word": "关晓彤霸腾女",
+      "onboard_time": 1756421657,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71191,
       "num": 71191,
       "word": "米勒 这就是ig的比赛吗",
@@ -16041,14 +16065,6 @@
       "onboard_time": 1756136607,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70522,
-      "num": 70522,
-      "word": "陈奕迅方将下架影片",
-      "onboard_time": 1756418955,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 70468,
@@ -16515,6 +16531,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 60453,
+      "num": 109714,
+      "word": "抗战胜利80周年记者见面会",
+      "onboard_time": 1756423699,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60397,
       "num": 60397,
       "word": "孙颖莎3Q艾瑞万",
@@ -16544,14 +16568,6 @@
       "word": "沈腾把泳圈拍飞三米远",
       "onboard_time": 1756351761,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 59724,
-      "num": 59724,
-      "word": "关晓彤霸腾女",
-      "onboard_time": 1756421657,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -16931,6 +16947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53074,
+      "num": 108310,
+      "word": "梁王组合止步世锦赛16强",
+      "onboard_time": 1756423519,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52914,
       "num": 274039,
       "word": "直播公司围猎未成年人乱象调查",
@@ -17009,6 +17033,14 @@
       "onboard_time": 1755940463,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51515,
+      "num": 54489,
+      "word": "吴京出品电影上映6天票房仅26.7万",
+      "onboard_time": 1756424179,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 51441,
@@ -17427,6 +17459,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 44413,
+      "num": 56741,
+      "word": "黄子弘凡",
+      "onboard_time": 1756423279,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44091,
       "num": 115842,
       "word": "违规卖含司美格鲁肽针剂多人被判刑",
@@ -17635,6 +17675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40911,
+      "num": 60938,
+      "word": "高铁特等座 面壁思过",
+      "onboard_time": 1756423758,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40900,
       "num": 269764,
       "word": "鲁迅的烟这次保住了下次呢",
@@ -17689,6 +17737,14 @@
       "onboard_time": 1756337300,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39923,
+      "num": 54485,
+      "word": "2人多次在我军事敏感区飞无人机",
+      "onboard_time": 1756424179,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39489,
@@ -18257,14 +18313,6 @@
       "onboard_time": 1755983534,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30003,
-      "num": 56741,
-      "word": "黄子弘凡",
-      "onboard_time": 1756423279,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 29650,
@@ -19361,6 +19409,14 @@
       "onboard_time": 1756301786,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10450,
+      "num": 81966,
+      "word": "美国拒绝接受联合国人权审议",
+      "onboard_time": 1756423941,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10114,
