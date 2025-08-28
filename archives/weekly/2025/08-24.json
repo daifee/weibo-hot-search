@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756416222478,
+  "endTime": 1756417025249,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -16060,7 +16060,7 @@
     },
     {
       "raw_hot": 69494,
-      "num": 32970,
+      "num": 35185,
       "word": "刘浩存主动给刘昊然打招呼",
       "onboard_time": 1756407855,
       "rank": 24,
@@ -17875,6 +17875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35860,
+      "num": 36565,
+      "word": "男子持水杯砸伤女同事被刑拘",
+      "onboard_time": 1756415174,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35822,
       "num": 262211,
       "word": "自闭症男童遇难机构首次正面回应",
@@ -19036,19 +19044,19 @@
     },
     {
       "raw_hot": 17231,
-      "num": 18136,
+      "num": 18229,
       "word": "风声",
       "onboard_time": 1756403596,
       "rank": 47,
       "category": "演出"
     },
     {
-      "raw_hot": 17145,
-      "num": 36565,
-      "word": "男子持水杯砸伤女同事被刑拘",
-      "onboard_time": 1756415174,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 17048,
+      "num": 18530,
+      "word": "华晨宇火星演唱会",
+      "onboard_time": 1756403117,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 16626,
@@ -19067,6 +19075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16310,
+      "num": 18240,
+      "word": "开学补作业",
+      "onboard_time": 1756411753,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 16175,
       "num": 18736,
       "word": "直击第32届东方风云榜",
@@ -19075,28 +19091,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 16137,
-      "num": 18530,
-      "word": "华晨宇火星演唱会",
-      "onboard_time": 1756403117,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 16102,
       "num": 32691,
       "word": "樊振东发布会C位",
       "onboard_time": 1756334355,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15635,
-      "num": 17655,
-      "word": "开学补作业",
-      "onboard_time": 1756411753,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 15278,

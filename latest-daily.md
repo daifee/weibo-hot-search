@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/29 00:32:05 ~ 2025/08/29 05:23:42
+本榜单时间：2025/08/29 00:32:05 ~ 2025/08/29 05:37:05
 </p>
 </blockquote>
 <p>
@@ -399,6 +399,12 @@ iG战胜BLG（热度：37888）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8C%81%E6%B0%B4%E6%9D%AF%E7%A0%B8%E4%BC%A4%E5%A5%B3%E5%90%8C%E4%BA%8B%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+男子持水杯砸伤女同事被刑拘（热度：35860）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%AE%E4%B9%8B%E6%89%80%E5%8F%8A%23" target="weibo">
 目之所及（热度：35363）
 </a>
@@ -459,20 +465,14 @@ iG战胜BLG（热度：37888）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8C%81%E6%B0%B4%E6%9D%AF%E7%A0%B8%E4%BC%A4%E5%A5%B3%E5%90%8C%E4%BA%8B%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-男子持水杯砸伤女同事被刑拘（热度：17145）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%81%AB%E6%98%9F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-华晨宇火星演唱会（热度：16137）
+华晨宇火星演唱会（热度：17048）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E8%A1%A5%E4%BD%9C%E4%B8%9A%23" target="weibo">
-开学补作业（热度：15635）
+开学补作业（热度：16310）
 </a>
 </li>
 

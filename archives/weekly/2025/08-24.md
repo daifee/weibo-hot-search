@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/24 00:28:30 ~ 2025/08/29 05:23:42
+本榜单时间：2025/08/24 00:28:30 ~ 2025/08/29 05:37:05
 </p>
 </blockquote>
 <p>
@@ -13419,6 +13419,12 @@ MCN洗脑女主播擦边称不擦没流量（热度：41074）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8C%81%E6%B0%B4%E6%9D%AF%E7%A0%B8%E4%BC%A4%E5%A5%B3%E5%90%8C%E4%BA%8B%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+男子持水杯砸伤女同事被刑拘（热度：35860）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E9%97%AD%E7%97%87%E7%94%B7%E7%AB%A5%E9%81%87%E9%9A%BE%E6%9C%BA%E6%9E%84%E9%A6%96%E6%AC%A1%E6%AD%A3%E9%9D%A2%E5%9B%9E%E5%BA%94%23" target="weibo">
 自闭症男童遇难机构首次正面回应（热度：35822）
 </a>
@@ -14295,8 +14301,8 @@ going人的事于文文都做了（热度：22932）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8C%81%E6%B0%B4%E6%9D%AF%E7%A0%B8%E4%BC%A4%E5%A5%B3%E5%90%8C%E4%BA%8B%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-男子持水杯砸伤女同事被刑拘（热度：17145）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%81%AB%E6%98%9F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+华晨宇火星演唱会（热度：17048）
 </a>
 </li>
 
@@ -14313,26 +14319,20 @@ going人的事于文文都做了（热度：22932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E8%A1%A5%E4%BD%9C%E4%B8%9A%23" target="weibo">
+开学补作业（热度：16310）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E7%AC%AC32%E5%B1%8A%E4%B8%9C%E6%96%B9%E9%A3%8E%E4%BA%91%E6%A6%9C%23" target="weibo">
 直击第32届东方风云榜（热度：16175）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%81%AB%E6%98%9F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-华晨宇火星演唱会（热度：16137）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9AC%E4%BD%8D%23" target="weibo">
 樊振东发布会C位（热度：16102）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E8%A1%A5%E4%BD%9C%E4%B8%9A%23" target="weibo">
-开学补作业（热度：15635）
 </a>
 </li>
 
