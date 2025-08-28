@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756386363820,
+  "endTime": 1756388091231,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1927673,
-      "num": 328648,
+      "num": 339832,
       "word": "贾玲 上镜胖十斤受害者",
       "onboard_time": 1756383023,
       "rank": 10,
@@ -232,6 +232,14 @@
       "word": "Angelababy强忍眼泪",
       "onboard_time": 1756369462,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1709134,
+      "num": 1709134,
+      "word": "虞书欣父亲委托起诉老潘财商",
+      "onboard_time": 1756386984,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1233684,
+      "num": 1185648,
+      "word": "法院公告虞书欣父亲借贷纠纷起诉状",
+      "onboard_time": 1756379902,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1232637,
       "num": 432931,
       "word": "柴鸡蛋求推荐新人",
@@ -545,14 +561,6 @@
       "onboard_time": 1756040843,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1160301,
-      "num": 1185648,
-      "word": "法院公告虞书欣父亲借贷纠纷起诉状",
-      "onboard_time": 1756379902,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1152477,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1756175183,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 824482,
+      "num": 353680,
+      "word": "刘昊然金鹿奖影帝",
+      "onboard_time": 1756386684,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 823952,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1756335737,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 651201,
+      "num": 651201,
+      "word": "越睡越丑的坏习惯",
+      "onboard_time": 1756384883,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 647690,
@@ -2499,14 +2523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 498561,
-      "num": 498561,
-      "word": "越睡越丑的坏习惯",
-      "onboard_time": 1756384883,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 498391,
       "num": 498391,
       "word": "霉霉订婚后前男友Joe首现身",
@@ -2665,6 +2681,14 @@
       "onboard_time": 1756231156,
       "rank": 1,
       "category": "幽默,综艺"
+    },
+    {
+      "raw_hot": 467652,
+      "num": 339107,
+      "word": "李飞黄锐 当年的事彼此各有难处",
+      "onboard_time": 1756383682,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 466313,
@@ -3195,6 +3219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 405245,
+      "num": 338016,
+      "word": "马思纯白月光回国",
+      "onboard_time": 1756386323,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404276,
       "num": 404276,
       "word": "男子效仿盗墓小说挖出20件青铜器",
@@ -3225,14 +3257,6 @@
       "onboard_time": 1756168824,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 392600,
-      "num": 320701,
-      "word": "李飞黄锐 当年的事彼此各有难处",
-      "onboard_time": 1756383682,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 392377,
@@ -4235,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275973,
+      "num": 155238,
+      "word": "网传泰国开始禁娱",
+      "onboard_time": 1756387342,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 275052,
       "num": 275052,
       "word": "晚宴上的Angelababy",
@@ -4601,6 +4633,14 @@
       "onboard_time": 1756172661,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248286,
+      "num": 349611,
+      "word": "高利率网贷正在吞噬年轻人",
+      "onboard_time": 1756384163,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248256,
@@ -5627,6 +5667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204150,
+      "num": 204150,
+      "word": "赵睿 北京首钢",
+      "onboard_time": 1756386502,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204147,
       "num": 184996,
       "word": "齐司礼生日活动",
@@ -6188,7 +6236,7 @@
     },
     {
       "raw_hot": 193798,
-      "num": 150840,
+      "num": 163249,
       "word": "胡楚靓回应复合",
       "onboard_time": 1756384222,
       "rank": 31,
@@ -7123,6 +7171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180759,
+      "num": 180759,
+      "word": "赵睿将加盟北京男篮",
+      "onboard_time": 1756387703,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180686,
       "num": 197042,
       "word": "男子遇五步蛇想抓来玩被喷一脸毒",
@@ -7961,14 +8017,6 @@
       "onboard_time": 1756133368,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166513,
-      "num": 166513,
-      "word": "高利率网贷正在吞噬年轻人",
-      "onboard_time": 1756384163,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166198,
@@ -9491,6 +9539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146248,
+      "num": 146248,
+      "word": "石宇奇vs小波波夫",
+      "onboard_time": 1756387103,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146031,
       "num": 146031,
       "word": "男子藏1.5万私房钱压垮天花板",
@@ -10241,6 +10297,14 @@
       "onboard_time": 1756380323,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138281,
+      "num": 138281,
+      "word": "iG团战",
+      "onboard_time": 1756387763,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 138179,
@@ -11451,6 +11515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126618,
+      "num": 296601,
+      "word": "聚焦抗战胜利80周年",
+      "onboard_time": 1756385303,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126374,
       "num": 138385,
       "word": "婚生子起诉继子要求继承全部财产",
@@ -11697,6 +11769,14 @@
       "onboard_time": 1756031183,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123973,
+      "num": 137521,
+      "word": "杜海涛沈梦辰七夕前秀恩爱",
+      "onboard_time": 1756386142,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 123947,
@@ -12307,12 +12387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118860,
+      "num": 118860,
+      "word": "寒武纪提示注意投资风险",
+      "onboard_time": 1756387885,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118614,
       "num": 155047,
       "word": "刘宇宁的确很抢手",
       "onboard_time": 1756362923,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118589,
+      "num": 118589,
+      "word": "陈伟霆吴彦祖李惠利同框了",
+      "onboard_time": 1756387763,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118555,
@@ -12459,20 +12555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117469,
-      "num": 117469,
-      "word": "聚焦抗战胜利80周年",
-      "onboard_time": 1756385303,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117408,
       "num": 117408,
       "word": "张婧仪出片速度",
       "onboard_time": 1756024642,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117311,
+      "num": 117311,
+      "word": "管乐演我做家务",
+      "onboard_time": 1756387885,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 117178,
@@ -12488,14 +12584,6 @@
       "word": "李现不愧是19年就让我心动的男人",
       "onboard_time": 1756134388,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 117130,
-      "num": 116634,
-      "word": "马思纯白月光回国",
-      "onboard_time": 1756386323,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -12803,6 +12891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 114877,
+      "num": 114877,
+      "word": "上海警方通报涉演唱会谣言",
+      "onboard_time": 1756387403,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 114848,
       "num": 114848,
       "word": "宋轶想给观众新鲜感",
@@ -12833,6 +12929,14 @@
       "onboard_time": 1756292544,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114107,
+      "num": 114107,
+      "word": "家里有这种插线板的请尽快扔掉",
+      "onboard_time": 1756387103,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 113968,
@@ -13425,6 +13529,14 @@
       "onboard_time": 1756359622,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 106934,
+      "num": 106934,
+      "word": "咒术回战作者芥见下下新作",
+      "onboard_time": 1756387643,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 106850,
@@ -14987,6 +15099,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 82328,
+      "num": 124003,
+      "word": "小小的我外婆获金鹿影后",
+      "onboard_time": 1756387463,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82230,
       "num": 132623,
       "word": "孙颖莎王曼昱将再次上演巅峰之战",
@@ -15747,6 +15867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63992,
+      "num": 125115,
+      "word": "刘骏 新人美时期",
+      "onboard_time": 1756387703,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63914,
       "num": 338761,
       "word": "上海迪士尼将新增更多中间票价",
@@ -16377,6 +16505,14 @@
       "onboard_time": 1756358182,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51340,
+      "num": 204364,
+      "word": "起猛了是吴彦祖杨千嬅同框",
+      "onboard_time": 1756386382,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 51319,
@@ -17297,14 +17433,6 @@
       "onboard_time": 1756373121,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34315,
-      "num": 137521,
-      "word": "杜海涛沈梦辰七夕前秀恩爱",
-      "onboard_time": 1756386142,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 34019,
@@ -18547,6 +18675,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 7031,
+      "num": 646518,
+      "word": "中国阅兵向国际传递什么信息",
+      "onboard_time": 1756351521,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 5818,
       "num": 421943,
       "word": "航天员出舱第一视角绝了",
@@ -18605,6 +18741,9 @@
     },
     {
       "word": "#国家和民族兴旺发达的根本所在#"
+    },
+    {
+      "word": "#铭记血与火铸就的深情#"
     }
   ]
 }
