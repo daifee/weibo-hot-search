@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756377851592,
+  "endTime": 1756380099488,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -732,7 +732,7 @@
     },
     {
       "raw_hot": 1013612,
-      "num": 381612,
+      "num": 658996,
       "word": "特朗普下令全国哀悼",
       "onboard_time": 1756373902,
       "rank": 31,
@@ -1387,6 +1387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 735879,
+      "num": 666988,
+      "word": "节目组放了董璇张维伊没字幕母带",
+      "onboard_time": 1756375764,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 735011,
       "num": 355095,
       "word": "曝某天王酒店有专属通道到赌场",
@@ -1515,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 686060,
+      "num": 686060,
+      "word": "中方回应有国家不愿出席九三阅兵",
+      "onboard_time": 1756374082,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 677984,
       "num": 677984,
       "word": "投诉鲁迅抽烟 浪费公共资源",
@@ -1577,14 +1593,6 @@
       "onboard_time": 1756269863,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 662034,
-      "num": 662034,
-      "word": "中方回应有国家不愿出席九三阅兵",
-      "onboard_time": 1756374082,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 660372,
@@ -1753,6 +1761,14 @@
       "onboard_time": 1756005144,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 617820,
+      "num": 617820,
+      "word": "全国一年关停2.11万所幼儿园",
+      "onboard_time": 1756374742,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 617809,
@@ -1961,6 +1977,14 @@
       "onboard_time": 1756034364,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 585783,
+      "num": 585783,
+      "word": "张韶涵开喷台媒",
+      "onboard_time": 1756377862,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 585745,
@@ -2339,14 +2363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 522671,
-      "num": 522671,
-      "word": "节目组放了董璇张维伊没字幕母带",
-      "onboard_time": 1756375764,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 521449,
       "num": 444821,
       "word": "王牌家族没了沈腾和贾玲",
@@ -2577,14 +2593,6 @@
       "onboard_time": 1756200023,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 480457,
-      "num": 480457,
-      "word": "全国一年关停2.11万所幼儿园",
-      "onboard_time": 1756374742,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 480200,
@@ -2865,6 +2873,14 @@
       "onboard_time": 1756362742,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 437601,
+      "num": 317994,
+      "word": "法院公告虞书欣父亲借贷纠纷起诉状",
+      "onboard_time": 1756379902,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 436819,
@@ -3209,6 +3225,14 @@
       "onboard_time": 1756178122,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 390128,
+      "num": 314961,
+      "word": "王艳儿子腹肌照",
+      "onboard_time": 1756376902,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 388515,
@@ -4313,14 +4337,6 @@
       "onboard_time": 1756263081,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 260862,
-      "num": 260862,
-      "word": "王艳儿子腹肌照",
-      "onboard_time": 1756376902,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 260596,
@@ -6307,6 +6323,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 190682,
+      "num": 190682,
+      "word": "iPhone真的可以很富士",
+      "onboard_time": 1756379002,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 190638,
       "num": 190638,
       "word": "小海绵给angelababy打视频",
@@ -8067,6 +8091,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 161593,
+      "num": 161593,
+      "word": "内娱高智感女明星",
+      "onboard_time": 1756378221,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161559,
       "num": 161559,
       "word": "汪苏泷 怎么又吵起来了",
@@ -9124,7 +9156,7 @@
     },
     {
       "raw_hot": 148030,
-      "num": 544884,
+      "num": 667941,
       "word": "阅兵准备基本就绪",
       "onboard_time": 1756350682,
       "rank": 43,
@@ -9337,6 +9369,14 @@
       "onboard_time": 1756181964,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145589,
+      "num": 145589,
+      "word": "iPhone可回复小米手机消息了",
+      "onboard_time": 1756379542,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 145482,
@@ -10691,6 +10731,14 @@
       "category": "体育,运动健身"
     },
     {
+      "raw_hot": 130989,
+      "num": 130989,
+      "word": "七夕的花比对象先到是什么体验",
+      "onboard_time": 1756379002,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130930,
       "num": 141362,
       "word": "四川82%县城15分钟上高速",
@@ -10841,6 +10889,14 @@
       "onboard_time": 1756031603,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129673,
+      "num": 129673,
+      "word": "日本郊外发现装有大量人骨麻袋",
+      "onboard_time": 1756379421,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129339,
@@ -11425,6 +11481,14 @@
       "onboard_time": 1756293684,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123488,
+      "num": 123488,
+      "word": "当N人和S人收到鲜花belike",
+      "onboard_time": 1756378582,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 123467,
@@ -12483,6 +12547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113811,
+      "num": 113811,
+      "word": "建议存款别告诉任何人",
+      "onboard_time": 1756377742,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113726,
       "num": 230229,
       "word": "文化奇迹之旅",
@@ -12577,6 +12649,14 @@
       "onboard_time": 1756020803,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112375,
+      "num": 149584,
+      "word": "张信哲说和薛之谦合作压力大",
+      "onboard_time": 1756378762,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 112362,
@@ -12819,14 +12899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109073,
-      "num": 109073,
-      "word": "建议存款别告诉任何人",
-      "onboard_time": 1756377742,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108967,
       "num": 1108858,
       "word": "10秒看阅兵训练高燃场面",
@@ -12865,6 +12937,14 @@
       "onboard_time": 1756222702,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108539,
+      "num": 108539,
+      "word": "藏在拼豆里的开学仪式感",
+      "onboard_time": 1756379662,
+      "rank": 46,
+      "category": "休闲"
     },
     {
       "raw_hot": 108497,
@@ -13025,6 +13105,14 @@
       "onboard_time": 1756114105,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 106978,
+      "num": 106978,
+      "word": "美校园枪击案幸存者回忆惊魂时刻",
+      "onboard_time": 1756378342,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106968,
@@ -13329,6 +13417,14 @@
       "onboard_time": 1756296384,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104378,
+      "num": 269923,
+      "word": "猫咪陪睡民宿住够5晚可买走猫",
+      "onboard_time": 1756379183,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104345,
@@ -14315,6 +14411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90286,
+      "num": 113816,
+      "word": "公职人员上班时驾临牌车超速出车祸",
+      "onboard_time": 1756378882,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89722,
       "num": 89722,
       "word": "王曼昱庆祝动作好燃",
@@ -14345,6 +14449,14 @@
       "onboard_time": 1756137086,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89291,
+      "num": 321196,
+      "word": "免除公办幼儿园大班保育教育费",
+      "onboard_time": 1756377081,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 89194,
@@ -15241,6 +15353,14 @@
       "onboard_time": 1756276883,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66554,
+      "num": 129784,
+      "word": "钱最好花在接住疲惫的地方",
+      "onboard_time": 1756380081,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 66404,
@@ -16187,6 +16307,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 46415,
+      "num": 268555,
+      "word": "8岁自闭症男童死因系低温休克",
+      "onboard_time": 1756378882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46384,
       "num": 181381,
       "word": "员工患病拒上夜班被解雇获赔12万元",
@@ -17059,6 +17187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29650,
+      "num": 150043,
+      "word": "男子隧道内停车直播烧烤被记9分",
+      "onboard_time": 1756378942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29532,
       "num": 39803,
       "word": "可以在北京看孙颖莎王楚钦打混双了",
@@ -17673,6 +17809,14 @@
       "onboard_time": 1756009523,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20370,
+      "num": 129726,
+      "word": "家人回应金子涵剃寸头",
+      "onboard_time": 1756379902,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 20227,

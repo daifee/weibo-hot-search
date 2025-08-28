@@ -1,0 +1,410 @@
+{
+  "runTime": 1756380099488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1110611,
+        "num": 1177697,
+        "word": "虞书欣方称绝不姑息造谣者",
+        "onboard_time": 1756369763,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686060,
+        "num": 686060,
+        "word": "中方回应有国家不愿出席九三阅兵",
+        "onboard_time": 1756374082,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16957,
+        "num": 667941,
+        "word": "阅兵准备基本就绪",
+        "onboard_time": 1756350682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 735879,
+        "num": 666988,
+        "word": "节目组放了董璇张维伊没字幕母带",
+        "onboard_time": 1756375764,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658996,
+        "num": 658996,
+        "word": "特朗普下令全国哀悼",
+        "onboard_time": 1756373902,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 617820,
+        "num": 617820,
+        "word": "全国一年关停2.11万所幼儿园",
+        "onboard_time": 1756374742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585783,
+        "num": 585783,
+        "word": "张韶涵开喷台媒",
+        "onboard_time": 1756377862,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 522463,
+        "num": 522463,
+        "word": "央视七夕晚会全阵容官宣",
+        "onboard_time": 1756375221,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 322352,
+        "num": 322352,
+        "word": "中石油道歉",
+        "onboard_time": 1756371442,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89291,
+        "num": 321196,
+        "word": "免除公办幼儿园大班保育教育费",
+        "onboard_time": 1756377081,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 528191,
+        "num": 320295,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437601,
+        "num": 317994,
+        "word": "法院公告虞书欣父亲借贷纠纷起诉状",
+        "onboard_time": 1756379902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390128,
+        "num": 314961,
+        "word": "王艳儿子腹肌照",
+        "onboard_time": 1756376902,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375658,
+        "num": 314624,
+        "word": "王俊凯照片被学校当作出入证模版",
+        "onboard_time": 1756373783,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330835,
+        "num": 311608,
+        "word": "考官暗示女子系安全带被当骚扰",
+        "onboard_time": 1756372403,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797591,
+        "num": 309490,
+        "word": "痞幼仪态",
+        "onboard_time": 1756370963,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 309308,
+        "num": 309308,
+        "word": "朴灿烈瘦到脱相",
+        "onboard_time": 1756369102,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296633,
+        "num": 296633,
+        "word": "中方回应九三阅兵无西方主要国家",
+        "onboard_time": 1756371683,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104378,
+        "num": 269923,
+        "word": "猫咪陪睡民宿住够5晚可买走猫",
+        "onboard_time": 1756379183,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46415,
+        "num": 268555,
+        "word": "8岁自闭症男童死因系低温休克",
+        "onboard_time": 1756378882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427294,
+        "num": 268466,
+        "word": "马思纯因花少团决定戒药",
+        "onboard_time": 1756370184,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268076,
+        "num": 268076,
+        "word": "女子为爱辞职远嫁北京18年后被离婚",
+        "onboard_time": 1756375943,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233382,
+        "num": 233382,
+        "word": "鸠山由纪夫参加九三阅兵",
+        "onboard_time": 1756366162,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222292,
+        "num": 222292,
+        "word": "三只羊 复出",
+        "onboard_time": 1756356204,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 190682,
+        "num": 190682,
+        "word": "iPhone真的可以很富士",
+        "onboard_time": 1756379002,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189478,
+        "num": 189478,
+        "word": "50升油箱加67.96升汽油调查结果",
+        "onboard_time": 1756368683,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 161593,
+        "num": 161593,
+        "word": "内娱高智感女明星",
+        "onboard_time": 1756378221,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153644,
+        "num": 153644,
+        "word": "他只是分考少了又不是菜上少了",
+        "onboard_time": 1756373422,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82084,
+        "num": 150533,
+        "word": "百万粉丝网红癌症复发后仍在拍视频",
+        "onboard_time": 1756376302,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29650,
+        "num": 150043,
+        "word": "男子隧道内停车直播烧烤被记9分",
+        "onboard_time": 1756378942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150036,
+        "num": 150036,
+        "word": "刘浩存背头黑裙",
+        "onboard_time": 1756376062,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112375,
+        "num": 149584,
+        "word": "张信哲说和薛之谦合作压力大",
+        "onboard_time": 1756378762,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149424,
+        "num": 149424,
+        "word": "国王被斩首128年后头颅归国",
+        "onboard_time": 1756375642,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145589,
+        "num": 145589,
+        "word": "iPhone可回复小米手机消息了",
+        "onboard_time": 1756379542,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143955,
+        "num": 143955,
+        "word": "月经的本质是流血不是排毒",
+        "onboard_time": 1756368622,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140143,
+        "num": 140143,
+        "word": "王者荣耀",
+        "onboard_time": 1756370361,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132050,
+        "num": 132050,
+        "word": "手机绑定了银行卡一定要删掉它",
+        "onboard_time": 1756377023,
+        "rank": 36,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 130989,
+        "num": 130989,
+        "word": "七夕的花比对象先到是什么体验",
+        "onboard_time": 1756379002,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66554,
+        "num": 129784,
+        "word": "钱最好花在接住疲惫的地方",
+        "onboard_time": 1756380081,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20370,
+        "num": 129726,
+        "word": "家人回应金子涵剃寸头",
+        "onboard_time": 1756379902,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129673,
+        "num": 129673,
+        "word": "日本郊外发现装有大量人骨麻袋",
+        "onboard_time": 1756379421,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123488,
+        "num": 123488,
+        "word": "当N人和S人收到鲜花belike",
+        "onboard_time": 1756378582,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115893,
+        "num": 115893,
+        "word": "官方通报成都加油站事件",
+        "onboard_time": 1756370303,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114052,
+        "num": 114052,
+        "word": "易烊千玺投资了蒋奇明张艺凡新电影",
+        "onboard_time": 1756362142,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90286,
+        "num": 113816,
+        "word": "公职人员上班时驾临牌车超速出车祸",
+        "onboard_time": 1756378882,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113811,
+        "num": 113811,
+        "word": "建议存款别告诉任何人",
+        "onboard_time": 1756377742,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108539,
+        "num": 108539,
+        "word": "藏在拼豆里的开学仪式感",
+        "onboard_time": 1756379662,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 106978,
+        "num": 106978,
+        "word": "美校园枪击案幸存者回忆惊魂时刻",
+        "onboard_time": 1756378342,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104101,
+        "num": 104101,
+        "word": "迷你Labubu实物被吐槽做工差",
+        "onboard_time": 1756373243,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 100428,
+        "num": 103984,
+        "word": "其实减肥失败是一件好事",
+        "onboard_time": 1756376422,
+        "rank": 49,
+        "category": "体育,运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家和民族兴旺发达的根本所在#"
+    }
+  }
+}
