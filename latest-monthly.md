@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/28 23:26:55
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/28 23:41:32
 </p>
 </blockquote>
 <p>
@@ -2639,6 +2639,12 @@ W红毯 审美高级（热度：1292311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%B4%E9%B8%A1%E8%9B%8B%E6%B1%82%E6%8E%A8%E8%8D%90%E6%96%B0%E4%BA%BA%23" target="weibo">
 柴鸡蛋求推荐新人（热度：1232637）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%B8%BB%E6%8A%B1%E9%99%AA%E7%88%AC%20%E6%93%A6%E8%BE%B9%23" target="weibo">
+公主抱陪爬 擦边（热度：1228863）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9D%A0%E8%B0%B7%E7%94%9F%E8%BF%98%E4%B8%89%E5%A4%A9%E5%90%8E%E5%8D%B4%E5%9C%A8%E5%AE%B6%E8%A2%AB%E7%83%A7%E6%AD%BB%23" target="weibo">
 女子坠谷生还三天后却在家被烧死（热度：751289）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3W%E7%9B%9B%E5%85%B8%E5%85%AC%E4%B8%BB%E8%A3%99%23" target="weibo">
-虞书欣W盛典公主裙（热度：750911）
 </a>
 </li>
 

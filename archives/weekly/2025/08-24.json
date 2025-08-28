@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756394815985,
+  "endTime": 1756395692325,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -481,6 +481,14 @@
       "onboard_time": 1756204282,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1228863,
+      "num": 278519,
+      "word": "公主抱陪爬 擦边",
+      "onboard_time": 1756393403,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1219668,
@@ -1441,14 +1449,6 @@
       "onboard_time": 1756292003,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 739223,
-      "num": 278519,
-      "word": "公主抱陪爬 擦边",
-      "onboard_time": 1756393403,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 738752,
@@ -6627,6 +6627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190033,
+      "num": 190033,
+      "word": "尚雯婕说李佳琦不懂得拒绝",
+      "onboard_time": 1756394124,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189715,
       "num": 189715,
       "word": "Rapeter哭了",
@@ -7931,6 +7939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168620,
+      "num": 168309,
+      "word": "早睡觉能解决80%以上的问题",
+      "onboard_time": 1756388722,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168538,
       "num": 168538,
       "word": "川西高原藏了多少蓝宝石",
@@ -7961,14 +7977,6 @@
       "onboard_time": 1756184903,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 168309,
-      "num": 168309,
-      "word": "早睡觉能解决80%以上的问题",
-      "onboard_time": 1756388722,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 168278,
@@ -9080,6 +9088,14 @@
       "word": "女子暴力阻止大爷抽烟",
       "onboard_time": 1756341264,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154467,
+      "num": 270072,
+      "word": "靠网贷维持体面生活的年轻人怎么样了",
+      "onboard_time": 1756390584,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -10731,14 +10747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 136081,
-      "num": 178191,
-      "word": "尚雯婕说李佳琦不懂得拒绝",
-      "onboard_time": 1756394124,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136029,
       "num": 136029,
       "word": "刘亦菲38岁的生日祝福送给了大家",
@@ -11419,14 +11427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129519,
-      "num": 270072,
-      "word": "靠网贷维持体面生活的年轻人怎么样了",
-      "onboard_time": 1756390584,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129339,
       "num": 216736,
       "word": "市值124亿元公司拟用138亿元炒股理财",
@@ -11804,7 +11804,7 @@
     },
     {
       "raw_hot": 125965,
-      "num": 125965,
+      "num": 261051,
       "word": "警方通报男子砸伤女同事",
       "onboard_time": 1756390226,
       "rank": 47,
@@ -12097,6 +12097,14 @@
       "onboard_time": 1756127184,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123246,
+      "num": 163356,
+      "word": "耳帝说写这首歌的布瑞吉绝对值得称赞",
+      "onboard_time": 1756394782,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 123163,
@@ -12409,6 +12417,14 @@
       "onboard_time": 1756091359,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120832,
+      "num": 120832,
+      "word": "Bin自评中规中矩",
+      "onboard_time": 1756394842,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 120717,
@@ -13979,6 +13995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105294,
+      "num": 105294,
+      "word": "闫妮镂空花裙造型",
+      "onboard_time": 1756394782,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105250,
       "num": 105250,
       "word": "给鸡拍了套写真",
@@ -15019,28 +15043,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92038,
-      "num": 92038,
-      "word": "闫妮镂空花裙造型",
-      "onboard_time": 1756394782,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 92004,
       "num": 143291,
       "word": "樊振东体测变憋笑挑战",
       "onboard_time": 1756295184,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91930,
-      "num": 91930,
-      "word": "耳帝说写这首歌的布瑞吉绝对值得称赞",
-      "onboard_time": 1756394782,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 91919,
@@ -15313,6 +15321,14 @@
       "onboard_time": 1756138164,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85572,
+      "num": 159686,
+      "word": "祝绪丹直播",
+      "onboard_time": 1756394903,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 85374,
@@ -15929,6 +15945,14 @@
       "onboard_time": 1756140380,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 70261,
+      "num": 96226,
+      "word": "女孩父亲6年前工地离奇失踪",
+      "onboard_time": 1756395083,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70223,
@@ -16617,6 +16641,14 @@
       "onboard_time": 1756141039,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54746,
+      "num": 158289,
+      "word": "美国国债猛涨特朗普快守不住了",
+      "onboard_time": 1756395083,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54520,

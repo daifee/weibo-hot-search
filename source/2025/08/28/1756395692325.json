@@ -1,0 +1,410 @@
+{
+  "runTime": 1756395692325,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1195672,
+        "num": 1195672,
+        "word": "labubu",
+        "onboard_time": 1756390584,
+        "rank": 0,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 719675,
+        "num": 719675,
+        "word": "法院公告虞书欣父亲借贷纠纷起诉状",
+        "onboard_time": 1756379902,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7332,
+        "num": 658251,
+        "word": "中国阅兵向国际传递什么信息",
+        "onboard_time": 1756351521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 601390,
+        "num": 601390,
+        "word": "寒武纪",
+        "onboard_time": 1756389564,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 440269,
+        "num": 440269,
+        "word": "刘昊然金鹿奖影帝",
+        "onboard_time": 1756386684,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 418619,
+        "num": 418619,
+        "word": "上海警方通报涉演唱会谣言",
+        "onboard_time": 1756387403,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 403607,
+        "num": 403607,
+        "word": "特朗普下令全国哀悼",
+        "onboard_time": 1756373902,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 338627,
+        "num": 338627,
+        "word": "中方回应有国家不愿出席九三阅兵",
+        "onboard_time": 1756374082,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261225,
+        "num": 261225,
+        "word": "土耳其一新郎被婶婶鸣枪庆祝误杀",
+        "onboard_time": 1756391483,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70498,
+        "num": 261051,
+        "word": "警方通报男子砸伤女同事",
+        "onboard_time": 1756390226,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1228863,
+        "num": 256506,
+        "word": "公主抱陪爬 擦边",
+        "onboard_time": 1756393403,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1087731,
+        "num": 256301,
+        "word": "虞书欣父亲委托起诉老潘财商",
+        "onboard_time": 1756386984,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471138,
+        "num": 253420,
+        "word": "突然发现了马桶的正确坐姿",
+        "onboard_time": 1756389743,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327598,
+        "num": 250272,
+        "word": "网传泰国开始禁娱",
+        "onboard_time": 1756387342,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249237,
+        "num": 249237,
+        "word": "越睡越丑的坏习惯",
+        "onboard_time": 1756384883,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240315,
+        "num": 240315,
+        "word": "李飞黄锐 当年的事彼此各有难处",
+        "onboard_time": 1756383682,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233611,
+        "num": 233611,
+        "word": "张韶涵开喷台媒",
+        "onboard_time": 1756377862,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224990,
+        "num": 224990,
+        "word": "iG对战BLG",
+        "onboard_time": 1756385543,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193004,
+        "num": 193004,
+        "word": "高利率网贷正在吞噬年轻人",
+        "onboard_time": 1756384163,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190033,
+        "num": 190033,
+        "word": "尚雯婕说李佳琦不懂得拒绝",
+        "onboard_time": 1756394124,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 994065,
+        "num": 189366,
+        "word": "贾玲 上镜胖十斤受害者",
+        "onboard_time": 1756383023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677815,
+        "num": 189046,
+        "word": "马思纯白月光回国",
+        "onboard_time": 1756386323,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182673,
+        "num": 182673,
+        "word": "TheShy大笑",
+        "onboard_time": 1756392264,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175492,
+        "num": 175492,
+        "word": "戴娇倩9岁女儿一年只长2厘米",
+        "onboard_time": 1756390944,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164635,
+        "num": 164635,
+        "word": "林晓杰感谢易烊千玺",
+        "onboard_time": 1756388123,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123246,
+        "num": 163356,
+        "word": "耳帝说写这首歌的布瑞吉绝对值得称赞",
+        "onboard_time": 1756394782,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118259,
+        "num": 161889,
+        "word": "央视七夕晚会全阵容官宣",
+        "onboard_time": 1756375221,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168620,
+        "num": 160552,
+        "word": "早睡觉能解决80%以上的问题",
+        "onboard_time": 1756388722,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85572,
+        "num": 159686,
+        "word": "祝绪丹直播",
+        "onboard_time": 1756394903,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54746,
+        "num": 158289,
+        "word": "美国国债猛涨特朗普快守不住了",
+        "onboard_time": 1756395083,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157481,
+        "num": 157481,
+        "word": "厦门航空一飞机因充电宝起火延误",
+        "onboard_time": 1756393464,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112258,
+        "num": 155735,
+        "word": "林晓杰金鹿影后",
+        "onboard_time": 1756388423,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154467,
+        "num": 154467,
+        "word": "靠网贷维持体面生活的年轻人怎么样了",
+        "onboard_time": 1756390584,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137222,
+        "num": 137222,
+        "word": "女观众被4男保安在厕所猥亵系谣言",
+        "onboard_time": 1756387523,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 132855,
+        "num": 132855,
+        "word": "女子为爱辞职远嫁北京18年后被离婚",
+        "onboard_time": 1756375943,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120832,
+        "num": 120832,
+        "word": "Bin自评中规中矩",
+        "onboard_time": 1756394842,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112797,
+        "num": 112797,
+        "word": "王俊凯照片被学校当作出入证模版",
+        "onboard_time": 1756373783,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111319,
+        "num": 111319,
+        "word": "刘浩存东北i人的含金量",
+        "onboard_time": 1756390226,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105294,
+        "num": 105294,
+        "word": "闫妮镂空花裙造型",
+        "onboard_time": 1756394782,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101984,
+        "num": 101984,
+        "word": "张晚意 孙红雷2.0",
+        "onboard_time": 1756381164,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101527,
+        "num": 101527,
+        "word": "聚焦抗战胜利80周年",
+        "onboard_time": 1756385303,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98054,
+        "num": 98054,
+        "word": "今年七夕节本世纪最晚",
+        "onboard_time": 1756393283,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 97615,
+        "num": 97615,
+        "word": "朱苏",
+        "onboard_time": 1756392144,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97159,
+        "num": 97159,
+        "word": "日本郊外发现装有大量人骨麻袋",
+        "onboard_time": 1756379421,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70261,
+        "num": 96226,
+        "word": "女孩父亲6年前工地离奇失踪",
+        "onboard_time": 1756395083,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95943,
+        "num": 95943,
+        "word": "胡楚靓回应复合",
+        "onboard_time": 1756384222,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92057,
+        "num": 92057,
+        "word": "2025LPL",
+        "onboard_time": 1756394184,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89601,
+        "num": 89601,
+        "word": "今年第14号台风来了",
+        "onboard_time": 1756392624,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85326,
+        "num": 85326,
+        "word": "承认吧演员多读书有用",
+        "onboard_time": 1756381283,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80744,
+        "num": 80744,
+        "word": "蒋奇明被张艺凡夸红温了",
+        "onboard_time": 1756392384,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记血与火铸就的深情#"
+    }
+  }
+}
