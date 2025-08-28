@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756388091231,
+  "endTime": 1756388752773,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -80,6 +80,14 @@
       "word": "虞书欣买奢侈品用现金",
       "onboard_time": 1756301844,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2394980,
+      "num": 2394980,
+      "word": "虞书欣父亲委托起诉老潘财商",
+      "onboard_time": 1756386984,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1927673,
-      "num": 339832,
+      "num": 350310,
       "word": "贾玲 上镜胖十斤受害者",
       "onboard_time": 1756383023,
       "rank": 10,
@@ -232,14 +240,6 @@
       "word": "Angelababy强忍眼泪",
       "onboard_time": 1756369462,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1709134,
-      "num": 1709134,
-      "word": "虞书欣父亲委托起诉老潘财商",
-      "onboard_time": 1756386984,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -987,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 911470,
+      "num": 604869,
+      "word": "刘昊然金鹿奖影帝",
+      "onboard_time": 1756386684,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 889117,
       "num": 464361,
       "word": "长得像迪丽热巴可以化妆成孙俪",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1756175183,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 824482,
-      "num": 353680,
-      "word": "刘昊然金鹿奖影帝",
-      "onboard_time": 1756386684,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 823952,
@@ -1427,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 737634,
+      "num": 737634,
+      "word": "越睡越丑的坏习惯",
+      "onboard_time": 1756384883,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 735879,
       "num": 666988,
       "word": "节目组放了董璇张维伊没字幕母带",
@@ -1675,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 655043,
+      "num": 353468,
+      "word": "马思纯白月光回国",
+      "onboard_time": 1756386323,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 653405,
       "num": 653405,
       "word": "孟子义忙到没时间做手术",
@@ -1697,14 +1713,6 @@
       "onboard_time": 1756335737,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 651201,
-      "num": 651201,
-      "word": "越睡越丑的坏习惯",
-      "onboard_time": 1756384883,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 647690,
@@ -2387,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 529153,
+      "num": 348187,
+      "word": "李飞黄锐 当年的事彼此各有难处",
+      "onboard_time": 1756383682,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527221,
       "num": 527221,
       "word": "潘玮柏来来回回减1000斤了",
@@ -2681,14 +2697,6 @@
       "onboard_time": 1756231156,
       "rank": 1,
       "category": "幽默,综艺"
-    },
-    {
-      "raw_hot": 467652,
-      "num": 339107,
-      "word": "李飞黄锐 当年的事彼此各有难处",
-      "onboard_time": 1756383682,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 466313,
@@ -3219,14 +3227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 405245,
-      "num": 338016,
-      "word": "马思纯白月光回国",
-      "onboard_time": 1756386323,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 404276,
       "num": 404276,
       "word": "男子效仿盗墓小说挖出20件青铜器",
@@ -3691,6 +3691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345597,
+      "num": 345597,
+      "word": "iG对战BLG",
+      "onboard_time": 1756385543,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345472,
       "num": 274921,
       "word": "欧阳娜娜还是太谨慎了",
@@ -3875,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323319,
+      "num": 349611,
+      "word": "高利率网贷正在吞噬年轻人",
+      "onboard_time": 1756384163,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321996,
       "num": 256654,
       "word": "持刀追赶男孩女子有精神分裂症",
@@ -3889,6 +3905,14 @@
       "onboard_time": 1756131984,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318472,
+      "num": 161682,
+      "word": "网传泰国开始禁娱",
+      "onboard_time": 1756387342,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 317500,
@@ -4051,6 +4075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299016,
+      "num": 299016,
+      "word": "石宇奇vs小波波夫",
+      "onboard_time": 1756387103,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295529,
       "num": 372552,
       "word": "被灭火器喷脸幼童母亲称对方家长失联",
@@ -4137,14 +4169,6 @@
       "onboard_time": 1756199782,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287563,
-      "num": 287563,
-      "word": "iG对战BLG",
-      "onboard_time": 1756385543,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 287159,
@@ -4257,14 +4281,6 @@
       "onboard_time": 1756116024,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275973,
-      "num": 155238,
-      "word": "网传泰国开始禁娱",
-      "onboard_time": 1756387342,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 275052,
@@ -4633,14 +4649,6 @@
       "onboard_time": 1756172661,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248286,
-      "num": 349611,
-      "word": "高利率网贷正在吞噬年轻人",
-      "onboard_time": 1756384163,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248256,
@@ -5523,6 +5531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208714,
+      "num": 208714,
+      "word": "赵睿 北京首钢",
+      "onboard_time": 1756386502,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "办婚礼不领证 被判退彩礼",
@@ -5665,14 +5681,6 @@
       "onboard_time": 1756212382,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204150,
-      "num": 204150,
-      "word": "赵睿 北京首钢",
-      "onboard_time": 1756386502,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 204147,
@@ -6236,7 +6244,7 @@
     },
     {
       "raw_hot": 193798,
-      "num": 163249,
+      "num": 176562,
       "word": "胡楚靓回应复合",
       "onboard_time": 1756384222,
       "rank": 31,
@@ -6793,6 +6801,14 @@
       "onboard_time": 1756283842,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186610,
+      "num": 186610,
+      "word": "林晓杰感谢易烊千玺",
+      "onboard_time": 1756388123,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 186261,
@@ -8667,6 +8683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157078,
+      "num": 157078,
+      "word": "林晓杰金鹿影后",
+      "onboard_time": 1756388423,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157021,
       "num": 157021,
       "word": "水火锅",
@@ -9227,6 +9251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150786,
+      "num": 150786,
+      "word": "早睡觉能解决80%以上的问题",
+      "onboard_time": 1756388722,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 150581,
       "num": 150581,
       "word": "嘻哈发博",
@@ -9537,14 +9569,6 @@
       "onboard_time": 1756287683,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146248,
-      "num": 146248,
-      "word": "石宇奇vs小波波夫",
-      "onboard_time": 1756387103,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 146031,
@@ -10427,6 +10451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137153,
+      "num": 351589,
+      "word": "聚焦抗战胜利80周年",
+      "onboard_time": 1756385303,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137145,
       "num": 137145,
       "word": "张杰 我们要好好见见",
@@ -11195,6 +11227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129569,
+      "num": 129569,
+      "word": "陈伟霆吴彦祖李惠利同框了",
+      "onboard_time": 1756387763,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129339,
       "num": 216736,
       "word": "市值124亿元公司拟用138亿元炒股理财",
@@ -11281,6 +11321,14 @@
       "onboard_time": 1756174102,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 129025,
+      "num": 129025,
+      "word": "小小的我外婆获金鹿影后",
+      "onboard_time": 1756387463,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 128990,
@@ -11513,14 +11561,6 @@
       "onboard_time": 1756177942,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126618,
-      "num": 296601,
-      "word": "聚焦抗战胜利80周年",
-      "onboard_time": 1756385303,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 126374,
@@ -12107,6 +12147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121368,
+      "num": 121368,
+      "word": "寒武纪提示注意投资风险",
+      "onboard_time": 1756387885,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121363,
       "num": 121363,
       "word": "小孩地铁踩踏霸座鞋被乘客踢飞",
@@ -12387,28 +12435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118860,
-      "num": 118860,
-      "word": "寒武纪提示注意投资风险",
-      "onboard_time": 1756387885,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 118614,
       "num": 155047,
       "word": "刘宇宁的确很抢手",
       "onboard_time": 1756362923,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118589,
-      "num": 118589,
-      "word": "陈伟霆吴彦祖李惠利同框了",
-      "onboard_time": 1756387763,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 118555,
@@ -12977,6 +13009,14 @@
       "onboard_time": 1756045947,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113422,
+      "num": 113422,
+      "word": "上海地铁2号线",
+      "onboard_time": 1756388604,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113388,
@@ -13913,6 +13953,14 @@
       "onboard_time": 1756099523,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103535,
+      "num": 130377,
+      "word": "刘骏 新人美时期",
+      "onboard_time": 1756387703,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 103532,
@@ -15099,14 +15147,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 82328,
-      "num": 124003,
-      "word": "小小的我外婆获金鹿影后",
-      "onboard_time": 1756387463,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 82230,
       "num": 132623,
       "word": "孙颖莎王曼昱将再次上演巅峰之战",
@@ -15409,6 +15449,14 @@
       "onboard_time": 1755955343,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75814,
+      "num": 129684,
+      "word": "我懒一点海尔勤一点",
+      "onboard_time": 1756388244,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 75693,
@@ -15865,14 +15913,6 @@
       "onboard_time": 1756288462,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 63992,
-      "num": 125115,
-      "word": "刘骏 新人美时期",
-      "onboard_time": 1756387703,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 63914,
@@ -16508,7 +16548,7 @@
     },
     {
       "raw_hot": 51340,
-      "num": 204364,
+      "num": 214421,
       "word": "起猛了是吴彦祖杨千嬅同框",
       "onboard_time": 1756386382,
       "rank": 19,
@@ -18643,6 +18683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10257,
+      "num": 646518,
+      "word": "中国阅兵向国际传递什么信息",
+      "onboard_time": 1756351521,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10114,
       "num": 24006,
       "word": "80秒看三次综合演练画面",
@@ -18673,14 +18721,6 @@
       "onboard_time": 1756149495,
       "rank": 40,
       "category": "军事"
-    },
-    {
-      "raw_hot": 7031,
-      "num": 646518,
-      "word": "中国阅兵向国际传递什么信息",
-      "onboard_time": 1756351521,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 5818,

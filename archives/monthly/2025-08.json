@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756388091231,
+  "endTime": 1756388752773,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -803,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2394980,
+      "num": 2394980,
+      "word": "虞书欣父亲委托起诉老潘财商",
+      "onboard_time": 1756386984,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2379028,
       "num": 1020709,
       "word": "杨宗纬摔下舞台",
@@ -1228,7 +1236,7 @@
     },
     {
       "raw_hot": 1927673,
-      "num": 339832,
+      "num": 350310,
       "word": "贾玲 上镜胖十斤受害者",
       "onboard_time": 1756383023,
       "rank": 10,
@@ -1648,14 +1656,6 @@
       "word": "赵露思回复利用网友解约",
       "onboard_time": 1754224706,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1709134,
-      "num": 1709134,
-      "word": "虞书欣父亲委托起诉老潘财商",
-      "onboard_time": 1756386984,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -5899,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 911470,
+      "num": 604869,
+      "word": "刘昊然金鹿奖影帝",
+      "onboard_time": 1756386684,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 910880,
       "num": 271696,
       "word": "许荔莎发与许凯牵手照",
@@ -6809,14 +6817,6 @@
       "onboard_time": 1755144805,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 824482,
-      "num": 353680,
-      "word": "刘昊然金鹿奖影帝",
-      "onboard_time": 1756386684,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 823952,
@@ -8153,6 +8153,14 @@
       "onboard_time": 1754278643,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 737634,
+      "num": 737634,
+      "word": "越睡越丑的坏习惯",
+      "onboard_time": 1756384883,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 737359,
@@ -9787,6 +9795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 655043,
+      "num": 353468,
+      "word": "马思纯白月光回国",
+      "onboard_time": 1756386323,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655018,
       "num": 655018,
       "word": "试管婴儿生在父亲离世后遭拒付抚恤金",
@@ -9897,14 +9913,6 @@
       "onboard_time": 1754666845,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 651201,
-      "num": 651201,
-      "word": "越睡越丑的坏习惯",
-      "onboard_time": 1756384883,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 651149,
@@ -13083,6 +13091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529153,
+      "num": 348187,
+      "word": "李飞黄锐 当年的事彼此各有难处",
+      "onboard_time": 1756383682,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529032,
       "num": 529032,
       "word": "杨幂说俺俩现在cp名老多了",
@@ -15001,14 +15017,6 @@
       "onboard_time": 1754964621,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 467652,
-      "num": 339107,
-      "word": "李飞黄锐 当年的事彼此各有难处",
-      "onboard_time": 1756383682,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 466709,
@@ -17321,14 +17329,6 @@
       "onboard_time": 1755611488,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 405245,
-      "num": 338016,
-      "word": "马思纯白月光回国",
-      "onboard_time": 1756386323,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 404759,
@@ -20083,6 +20083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345597,
+      "num": 345597,
+      "word": "iG对战BLG",
+      "onboard_time": 1756385543,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345494,
       "num": 345494,
       "word": "昆明将严肃处理涉事旅行社",
@@ -21243,6 +21251,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 323319,
+      "num": 349611,
+      "word": "高利率网贷正在吞噬年轻人",
+      "onboard_time": 1756384163,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323140,
       "num": 323140,
       "word": "以色列总理决定全面占领加沙",
@@ -21513,6 +21529,14 @@
       "onboard_time": 1754217263,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318472,
+      "num": 161682,
+      "word": "网传泰国开始禁娱",
+      "onboard_time": 1756387342,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 318414,
@@ -22611,6 +22635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299016,
+      "num": 299016,
+      "word": "石宇奇vs小波波夫",
+      "onboard_time": 1756387103,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298898,
       "num": 225105,
       "word": "于正证实赵嘉敏被换角",
@@ -23273,14 +23305,6 @@
       "onboard_time": 1754731343,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287563,
-      "num": 287563,
-      "word": "iG对战BLG",
-      "onboard_time": 1756385543,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 287539,
@@ -24105,14 +24129,6 @@
       "onboard_time": 1754661144,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275973,
-      "num": 155238,
-      "word": "网传泰国开始禁娱",
-      "onboard_time": 1756387342,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 275796,
@@ -26417,14 +26433,6 @@
       "onboard_time": 1754572765,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248286,
-      "num": 349611,
-      "word": "高利率网贷正在吞噬年轻人",
-      "onboard_time": 1756384163,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248256,
@@ -31531,6 +31539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208714,
+      "num": 208714,
+      "word": "赵睿 北京首钢",
+      "onboard_time": 1756386502,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208662,
       "num": 208662,
       "word": "王橹杰脸链",
@@ -32545,14 +32561,6 @@
       "onboard_time": 1756212382,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204150,
-      "num": 204150,
-      "word": "赵睿 北京首钢",
-      "onboard_time": 1756386502,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 204147,
@@ -35980,7 +35988,7 @@
     },
     {
       "raw_hot": 193798,
-      "num": 163249,
+      "num": 176562,
       "word": "胡楚靓回应复合",
       "onboard_time": 1756384222,
       "rank": 31,
@@ -38337,6 +38345,14 @@
       "onboard_time": 1753975824,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 186610,
+      "num": 186610,
+      "word": "林晓杰感谢易烊千玺",
+      "onboard_time": 1756388123,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 186602,
@@ -48587,6 +48603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157078,
+      "num": 157078,
+      "word": "林晓杰金鹿影后",
+      "onboard_time": 1756388423,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157076,
       "num": 157076,
       "word": "ZB1将延长活动不解散",
@@ -51243,6 +51267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150786,
+      "num": 150786,
+      "word": "早睡觉能解决80%以上的问题",
+      "onboard_time": 1756388722,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 150669,
       "num": 150669,
       "word": "你们这么亲不扎嘴吗",
@@ -53281,14 +53313,6 @@
       "onboard_time": 1755524844,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146248,
-      "num": 146248,
-      "word": "石宇奇vs小波波夫",
-      "onboard_time": 1756387103,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 146239,
@@ -58099,6 +58123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137153,
+      "num": 351589,
+      "word": "聚焦抗战胜利80周年",
+      "onboard_time": 1756385303,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137145,
       "num": 137145,
       "word": "张杰 我们要好好见见",
@@ -62331,6 +62363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 129569,
+      "num": 129569,
+      "word": "陈伟霆吴彦祖李惠利同框了",
+      "onboard_time": 1756387763,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129564,
       "num": 129564,
       "word": "韩国博物馆满是汉字本地人看不懂",
@@ -62681,6 +62721,14 @@
       "onboard_time": 1756174102,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 129025,
+      "num": 129025,
+      "word": "小小的我外婆获金鹿影后",
+      "onboard_time": 1756387463,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 128990,
@@ -64185,14 +64233,6 @@
       "onboard_time": 1754820863,
       "rank": 37,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 126618,
-      "num": 296601,
-      "word": "聚焦抗战胜利80周年",
-      "onboard_time": 1756385303,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 126614,
@@ -67115,6 +67155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121368,
+      "num": 121368,
+      "word": "寒武纪提示注意投资风险",
+      "onboard_time": 1756387885,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121363,
       "num": 121363,
       "word": "小孩地铁踩踏霸座鞋被乘客踢飞",
@@ -68571,14 +68619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118860,
-      "num": 118860,
-      "word": "寒武纪提示注意投资风险",
-      "onboard_time": 1756387885,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 118829,
       "num": 130341,
       "word": "苏醒聊男团站位",
@@ -68737,14 +68777,6 @@
       "onboard_time": 1756362923,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118589,
-      "num": 118589,
-      "word": "陈伟霆吴彦祖李惠利同框了",
-      "onboard_time": 1756387763,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 118572,
@@ -71433,6 +71465,14 @@
       "onboard_time": 1755935123,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113422,
+      "num": 113422,
+      "word": "上海地铁2号线",
+      "onboard_time": 1756388604,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113393,
@@ -76449,6 +76489,14 @@
       "onboard_time": 1755268284,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103535,
+      "num": 130377,
+      "word": "刘骏 新人美时期",
+      "onboard_time": 1756387703,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 103532,
@@ -83603,14 +83651,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 82328,
-      "num": 124003,
-      "word": "小小的我外婆获金鹿影后",
-      "onboard_time": 1756387463,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 82260,
       "num": 112326,
       "word": "中俄联演中方现役主战舰艇齐发",
@@ -84993,6 +85033,14 @@
       "onboard_time": 1755300918,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75814,
+      "num": 129684,
+      "word": "我懒一点海尔勤一点",
+      "onboard_time": 1756388244,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 75746,
@@ -87161,14 +87209,6 @@
       "onboard_time": 1754843421,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63992,
-      "num": 125115,
-      "word": "刘骏 新人美时期",
-      "onboard_time": 1756387703,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 63914,
@@ -89924,7 +89964,7 @@
     },
     {
       "raw_hot": 51340,
-      "num": 204364,
+      "num": 214421,
       "word": "起猛了是吴彦祖杨千嬅同框",
       "onboard_time": 1756386382,
       "rank": 19,
@@ -98739,6 +98779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 10257,
+      "num": 646518,
+      "word": "中国阅兵向国际传递什么信息",
+      "onboard_time": 1756351521,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10235,
       "num": 32483,
       "word": "国台办驳赖清德散播错误二战史观",
@@ -98913,14 +98961,6 @@
       "onboard_time": 1755856884,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7031,
-      "num": 646518,
-      "word": "中国阅兵向国际传递什么信息",
-      "onboard_time": 1756351521,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6875,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1756388752773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2394980,
+        "num": 2394980,
+        "word": "虞书欣父亲委托起诉老潘财商",
+        "onboard_time": 1756386984,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737634,
+        "num": 737634,
+        "word": "越睡越丑的坏习惯",
+        "onboard_time": 1756384883,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 10257,
+        "num": 605427,
+        "word": "中国阅兵向国际传递什么信息",
+        "onboard_time": 1756351521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 911470,
+        "num": 604869,
+        "word": "刘昊然金鹿奖影帝",
+        "onboard_time": 1756386684,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 557027,
+        "num": 557027,
+        "word": "中方回应有国家不愿出席九三阅兵",
+        "onboard_time": 1756374082,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355642,
+        "num": 355642,
+        "word": "特朗普下令全国哀悼",
+        "onboard_time": 1756373902,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 906800,
+        "num": 355213,
+        "word": "法院公告虞书欣父亲借贷纠纷起诉状",
+        "onboard_time": 1756379902,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655043,
+        "num": 353468,
+        "word": "马思纯白月光回国",
+        "onboard_time": 1756386323,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372360,
+        "num": 352093,
+        "word": "张韶涵开喷台媒",
+        "onboard_time": 1756377862,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137153,
+        "num": 351589,
+        "word": "聚焦抗战胜利80周年",
+        "onboard_time": 1756385303,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1555109,
+        "num": 350310,
+        "word": "贾玲 上镜胖十斤受害者",
+        "onboard_time": 1756383023,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529153,
+        "num": 348187,
+        "word": "李飞黄锐 当年的事彼此各有难处",
+        "onboard_time": 1756383682,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323319,
+        "num": 347524,
+        "word": "高利率网贷正在吞噬年轻人",
+        "onboard_time": 1756384163,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372488,
+        "num": 345947,
+        "word": "日本郊外发现装有大量人骨麻袋",
+        "onboard_time": 1756379421,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345597,
+        "num": 345597,
+        "word": "iG对战BLG",
+        "onboard_time": 1756385543,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299016,
+        "num": 299016,
+        "word": "石宇奇vs小波波夫",
+        "onboard_time": 1756387103,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258481,
+        "num": 258481,
+        "word": "金鹿奖",
+        "onboard_time": 1756383261,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253270,
+        "num": 253270,
+        "word": "张晚意 孙红雷2.0",
+        "onboard_time": 1756381164,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248990,
+        "num": 248990,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50599,
+        "num": 214421,
+        "word": "起猛了是吴彦祖杨千嬅同框",
+        "onboard_time": 1756386382,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409394,
+        "num": 212512,
+        "word": "节目组放了董璇张维伊没字幕母带",
+        "onboard_time": 1756375764,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208714,
+        "num": 208714,
+        "word": "赵睿 北京首钢",
+        "onboard_time": 1756386502,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189329,
+        "num": 189329,
+        "word": "朴灿烈瘦到脱相",
+        "onboard_time": 1756369102,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186610,
+        "num": 186610,
+        "word": "林晓杰感谢易烊千玺",
+        "onboard_time": 1756388123,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185511,
+        "num": 185511,
+        "word": "王楚钦说队里给了一个调整的机会",
+        "onboard_time": 1756383323,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179465,
+        "num": 179465,
+        "word": "女子为爱辞职远嫁北京18年后被离婚",
+        "onboard_time": 1756375943,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176562,
+        "num": 176562,
+        "word": "胡楚靓回应复合",
+        "onboard_time": 1756384222,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175357,
+        "num": 175357,
+        "word": "央视七夕晚会全阵容官宣",
+        "onboard_time": 1756375221,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171043,
+        "num": 171043,
+        "word": "王俊凯照片被学校当作出入证模版",
+        "onboard_time": 1756373783,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161818,
+        "num": 161818,
+        "word": "免除公办幼儿园大班保育教育费",
+        "onboard_time": 1756377081,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 318472,
+        "num": 161682,
+        "word": "网传泰国开始禁娱",
+        "onboard_time": 1756387342,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160759,
+        "num": 160759,
+        "word": "赵睿将加盟北京男篮",
+        "onboard_time": 1756387703,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157078,
+        "num": 157078,
+        "word": "林晓杰金鹿影后",
+        "onboard_time": 1756388423,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152867,
+        "num": 152867,
+        "word": "刘浩存背头黑裙",
+        "onboard_time": 1756376062,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150786,
+        "num": 150786,
+        "word": "早睡觉能解决80%以上的问题",
+        "onboard_time": 1756388722,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139669,
+        "num": 139669,
+        "word": "iPhone真的可以很富士",
+        "onboard_time": 1756379002,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136496,
+        "num": 136496,
+        "word": "金钟仁在张元英和安宥真中选择了aespa",
+        "onboard_time": 1756383682,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132089,
+        "num": 132089,
+        "word": "中方回应九三阅兵无西方主要国家",
+        "onboard_time": 1756371683,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103535,
+        "num": 130377,
+        "word": "刘骏 新人美时期",
+        "onboard_time": 1756387703,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11070,
+        "num": 129868,
+        "word": "海上有个新山东",
+        "onboard_time": 1756386083,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75814,
+        "num": 129684,
+        "word": "我懒一点海尔勤一点",
+        "onboard_time": 1756388244,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129569,
+        "num": 129569,
+        "word": "陈伟霆吴彦祖李惠利同框了",
+        "onboard_time": 1756387763,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129242,
+        "num": 129242,
+        "word": "承认吧演员多读书有用",
+        "onboard_time": 1756381283,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129025,
+        "num": 129025,
+        "word": "小小的我外婆获金鹿影后",
+        "onboard_time": 1756387463,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126869,
+        "num": 126869,
+        "word": "iG团战",
+        "onboard_time": 1756387763,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121368,
+        "num": 121368,
+        "word": "寒武纪提示注意投资风险",
+        "onboard_time": 1756387885,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113422,
+        "num": 113422,
+        "word": "上海地铁2号线",
+        "onboard_time": 1756388604,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111102,
+        "num": 111102,
+        "word": "我爸是张国荣站哥",
+        "onboard_time": 1756384883,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108849,
+        "num": 108849,
+        "word": "管乐演我做家务",
+        "onboard_time": 1756387885,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104775,
+        "num": 104775,
+        "word": "咒术回战作者芥见下下新作",
+        "onboard_time": 1756387643,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记血与火铸就的深情#"
+    }
+  }
+}
