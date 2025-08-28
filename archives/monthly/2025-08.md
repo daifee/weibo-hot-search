@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/28 15:25:20
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/28 15:38:40
 </p>
 </blockquote>
 <p>
@@ -2265,6 +2265,12 @@ IU宝剑结婚 钟硕那边我去说（热度：1400793）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%BB%BA%E8%AE%AE%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E5%B8%A6%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E4%B8%8A%E5%AD%A6%23" target="weibo">
+家长建议禁止学生带电话手表上学（热度：1298925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%88%E6%9C%89%E7%A5%9E%E7%BA%A7%E6%B1%82%E5%A9%9A%E7%8E%B0%E5%9C%BA%E4%BA%86%23" target="weibo">
 内娱又有神级求婚现场了（热度：1298814）
 </a>
@@ -2501,12 +2507,6 @@ W红毯 审美高级（热度：1292311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%237%E6%9C%88%E7%94%B5%E8%B4%B9%23" target="weibo">
 7月电费（热度：1244131）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%BB%BA%E8%AE%AE%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E5%B8%A6%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E4%B8%8A%E5%AD%A6%23" target="weibo">
-家长建议禁止学生带电话手表上学（热度：1242688）
 </a>
 </li>
 

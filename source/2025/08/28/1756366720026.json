@@ -1,0 +1,410 @@
+{
+  "runTime": 1756366720026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1835833,
+        "num": 1835833,
+        "word": "虞书欣风波事关国有资产应有通报",
+        "onboard_time": 1756357343,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1298925,
+        "num": 1298925,
+        "word": "家长建议禁止学生带电话手表上学",
+        "onboard_time": 1756360703,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41599,
+        "num": 1018252,
+        "word": "千里跃进大别山",
+        "onboard_time": 1756357223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 884192,
+        "num": 884192,
+        "word": "易烊千玺投资了蒋奇明张艺凡新电影",
+        "onboard_time": 1756362142,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 556881,
+        "num": 556881,
+        "word": "外嫁女 征地补偿",
+        "onboard_time": 1756361901,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473585,
+        "num": 473585,
+        "word": "浙江厕所 玉虚宫",
+        "onboard_time": 1756361843,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685978,
+        "num": 460245,
+        "word": "虞书欣曾回应家里有矿",
+        "onboard_time": 1756361843,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417989,
+        "num": 417989,
+        "word": "日本妄图给中国九三阅兵按下暂停键",
+        "onboard_time": 1756362742,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382209,
+        "num": 382209,
+        "word": "张晚意又黑了八个度",
+        "onboard_time": 1756364663,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358378,
+        "num": 358378,
+        "word": "3600块育儿补贴到底是给谁的",
+        "onboard_time": 1756365082,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593370,
+        "num": 356885,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428669,
+        "num": 347458,
+        "word": "李晟 我太同意开学了",
+        "onboard_time": 1756355243,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419096,
+        "num": 339105,
+        "word": "女子糟蹋20多个酒店免费鸡蛋",
+        "onboard_time": 1756354463,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397054,
+        "num": 333118,
+        "word": "张檬机场头盖布给儿子喂母乳",
+        "onboard_time": 1756352181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188798,
+        "num": 328665,
+        "word": "普京和金正恩等出席抗战纪念活动",
+        "onboard_time": 1756347261,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140768,
+        "num": 318181,
+        "word": "外交部重磅视频脊梁",
+        "onboard_time": 1756363463,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375212,
+        "num": 312593,
+        "word": "女子放生一麻袋蛇",
+        "onboard_time": 1756356744,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306828,
+        "num": 306828,
+        "word": "原来体香是可以养出来的",
+        "onboard_time": 1756358243,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208326,
+        "num": 208326,
+        "word": "张凌赫金九封面含金量",
+        "onboard_time": 1756365563,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207623,
+        "num": 207623,
+        "word": "孙颖莎要把这两个画面写进自传",
+        "onboard_time": 1756365861,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183087,
+        "num": 207348,
+        "word": "年轻人胃癌发病率30年翻一番",
+        "onboard_time": 1756363642,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 1031937,
+        "num": 207313,
+        "word": "三只羊 复出",
+        "onboard_time": 1756356204,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 207222,
+        "num": 207222,
+        "word": "朴灿烈谢谢大家的一周年祝福",
+        "onboard_time": 1756366043,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202239,
+        "num": 202239,
+        "word": "女孩因被大爷碰到胳膊情绪崩溃",
+        "onboard_time": 1756362502,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188764,
+        "num": 188764,
+        "word": "陈飞宇写真完全是鬼丈夫",
+        "onboard_time": 1756365623,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187736,
+        "num": 187736,
+        "word": "董璇秒赞网友与张维伊AI合照",
+        "onboard_time": 1756363702,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177310,
+        "num": 177310,
+        "word": "陈飞宇男鬼一",
+        "onboard_time": 1756365503,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162626,
+        "num": 162626,
+        "word": "霉霉订婚后前男友Joe首现身",
+        "onboard_time": 1756364302,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161930,
+        "num": 161930,
+        "word": "抗战胜利80周年活动答记者问",
+        "onboard_time": 1756359862,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23416,
+        "num": 161817,
+        "word": "员工缺勤37次被解雇索赔36万元",
+        "onboard_time": 1756366342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292170,
+        "num": 161078,
+        "word": "鸠山由纪夫参加九三阅兵",
+        "onboard_time": 1756366162,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179246,
+        "num": 160658,
+        "word": "毛晓彤签约心心传媒",
+        "onboard_time": 1756354463,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167880,
+        "num": 160077,
+        "word": "姜思达给吴京10个人生建议",
+        "onboard_time": 1756356444,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159652,
+        "num": 159652,
+        "word": "中国人凭什么胜利",
+        "onboard_time": 1756362803,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154801,
+        "num": 154801,
+        "word": "北京将升挂23万面国旗红旗",
+        "onboard_time": 1756365202,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151374,
+        "num": 151374,
+        "word": "又有内娱男爱豆被送去种地了",
+        "onboard_time": 1756360822,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105809,
+        "num": 145940,
+        "word": "比亚迪李云飞更换社交媒体昵称",
+        "onboard_time": 1756364663,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145023,
+        "num": 145023,
+        "word": "龚俊晒七老童心自拍照",
+        "onboard_time": 1756365623,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54216,
+        "num": 144963,
+        "word": "胡先煦说亚马逊不如九寨沟",
+        "onboard_time": 1756366102,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28002,
+        "num": 144952,
+        "word": "AI开始全面接管工厂",
+        "onboard_time": 1756364483,
+        "rank": 39,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 144950,
+        "num": 144950,
+        "word": "经常久坐试试4个动作",
+        "onboard_time": 1756365503,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140377,
+        "num": 140377,
+        "word": "杨幂的穿搭无须多言",
+        "onboard_time": 1756360344,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48897,
+        "num": 132681,
+        "word": "赛琳娜祝福霉霉订婚",
+        "onboard_time": 1756366642,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105432,
+        "num": 128183,
+        "word": "王楚钦立马开练",
+        "onboard_time": 1756365443,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128078,
+        "num": 128078,
+        "word": "长期运动的人一眼就能看出来",
+        "onboard_time": 1756359021,
+        "rank": 44,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 125915,
+        "num": 125915,
+        "word": "龚俊一个猴一个栓法",
+        "onboard_time": 1756364964,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122827,
+        "num": 122827,
+        "word": "安妮海瑟薇摔倒后优雅起身",
+        "onboard_time": 1756353981,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113313,
+        "num": 113313,
+        "word": "樊振东变cp粉了",
+        "onboard_time": 1756364063,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106086,
+        "num": 106086,
+        "word": "女子称被不知名男同事砸头毁容",
+        "onboard_time": 1756355543,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105610,
+        "num": 105610,
+        "word": "周震南退出耳尚音乐节",
+        "onboard_time": 1756366642,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬结成风雨同舟的铁杆友谊#"
+    }
+  }
+}
