@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/24 00:28:30 ~ 2025/08/29 04:40:35
+本榜单时间：2025/08/24 00:28:30 ~ 2025/08/29 05:23:42
 </p>
 </blockquote>
 <p>
@@ -14295,6 +14295,12 @@ going人的事于文文都做了（热度：22932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8C%81%E6%B0%B4%E6%9D%AF%E7%A0%B8%E4%BC%A4%E5%A5%B3%E5%90%8C%E4%BA%8B%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+男子持水杯砸伤女同事被刑拘（热度：17145）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E7%94%B7%E5%A5%B3%E5%8E%95%E5%9D%91%E4%BD%8D%E6%95%B0%E9%87%8F%E4%B8%8D%E5%8D%8F%E8%B0%83%23" target="weibo">
 广州地铁回应男女厕坑位数量不协调（热度：16626）
 </a>
@@ -14313,14 +14319,20 @@ going人的事于文文都做了（热度：22932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%81%AB%E6%98%9F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+华晨宇火星演唱会（热度：16137）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9AC%E4%BD%8D%23" target="weibo">
 樊振东发布会C位（热度：16102）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%81%AB%E6%98%9F%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-华晨宇火星演唱会（热度：15538）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E8%A1%A5%E4%BD%9C%E4%B8%9A%23" target="weibo">
+开学补作业（热度：15635）
 </a>
 </li>
 
