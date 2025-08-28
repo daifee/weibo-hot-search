@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756358739675,
+  "endTime": 1756359715190,
   "band_list": [
     {
       "raw_hot": 2170191,
@@ -11,15 +11,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1972473,
-      "num": 1972473,
-      "word": "普京和金正恩等出席抗战纪念活动",
-      "onboard_time": 1756347261,
-      "rank": 0,
-      "category": "国内时政"
+      "raw_hot": 2169367,
+      "num": 2169367,
+      "word": "虞书欣风波事关国有资产应有通报",
+      "onboard_time": 1756357343,
+      "rank": 3,
+      "category": "艺人"
     },
     {
-      "raw_hot": 1620471,
+      "raw_hot": 2019835,
       "num": 1620471,
       "word": "三只羊 复出",
       "onboard_time": 1756356204,
@@ -27,12 +27,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1398014,
-      "num": 411050,
-      "word": "虞书欣风波事关国有资产应有通报",
-      "onboard_time": 1756357343,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 1972473,
+      "num": 1972473,
+      "word": "普京和金正恩等出席抗战纪念活动",
+      "onboard_time": 1756347261,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1287812,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 847060,
+      "num": 279727,
+      "word": "女子放生一麻袋蛇",
+      "onboard_time": 1756356744,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 810994,
       "num": 520957,
       "word": "何晟铭 我叫白月光",
@@ -129,14 +137,6 @@
       "onboard_time": 1756306705,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 751147,
-      "num": 279727,
-      "word": "女子放生一麻袋蛇",
-      "onboard_time": 1756356744,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 748833,
@@ -249,6 +249,14 @@
       "onboard_time": 1756347683,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497627,
+      "num": 269509,
+      "word": "长期运动的人一眼就能看出来",
+      "onboard_time": 1756359021,
+      "rank": 16,
+      "category": "运动健身,其它"
     },
     {
       "raw_hot": 483129,
@@ -443,6 +451,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 286738,
+      "num": 286738,
+      "word": "原来体香是可以养出来的",
+      "onboard_time": 1756358243,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285794,
       "num": 285794,
       "word": "抗战胜利80周年文艺晚会进入最后合成阶段",
@@ -473,6 +489,14 @@
       "onboard_time": 1756308564,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 263469,
+      "num": 263469,
+      "word": "姜思达给吴京10个人生建议",
+      "onboard_time": 1756356444,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 259256,
@@ -553,6 +577,14 @@
       "onboard_time": 1756348701,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230502,
+      "num": 268567,
+      "word": "离了中国留学生美国高校会怎样",
+      "onboard_time": 1756357284,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225886,
@@ -651,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198515,
-      "num": 198515,
-      "word": "原来体香是可以养出来的",
-      "onboard_time": 1756358243,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193869,
       "num": 193869,
       "word": "樊振东 安踏",
@@ -683,12 +707,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 190881,
-      "num": 190881,
-      "word": "姜思达给吴京10个人生建议",
-      "onboard_time": 1756356444,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 190739,
+      "num": 223292,
+      "word": "苏超球迷七夕领证从对手变队友",
+      "onboard_time": 1756359261,
+      "rank": 26,
+      "category": "体育,情感"
     },
     {
       "raw_hot": 190429,
@@ -713,6 +737,14 @@
       "onboard_time": 1756346360,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188255,
+      "num": 188255,
+      "word": "贺峻霖offer卷发路透",
+      "onboard_time": 1756358722,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187612,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178034,
+      "num": 178034,
+      "word": "家具长期不换会有什么危害",
+      "onboard_time": 1756358782,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 177175,
       "num": 177175,
       "word": "吵架跳车身亡男子家属谅解女友",
@@ -840,6 +880,14 @@
       "word": "杨幂谈孤独症群体",
       "onboard_time": 1756354822,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170876,
+      "num": 225798,
+      "word": "黄景瑜一句话沈腾都闭麦了",
+      "onboard_time": 1756358722,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -995,6 +1043,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 144126,
+      "num": 144126,
+      "word": "J人七夕买花都有自己的规划",
+      "onboard_time": 1756359502,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143492,
       "num": 150709,
       "word": "研究人员向间谍出卖大量资料",
@@ -1011,20 +1067,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142014,
+      "num": 221024,
+      "word": "徐如蓝对方益炯灵魂五连问",
+      "onboard_time": 1756357943,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141540,
       "num": 141540,
       "word": "建议大家不要租太差的房子",
       "onboard_time": 1756357463,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140301,
-      "num": 140301,
-      "word": "徐如蓝对方益炯灵魂五连问",
-      "onboard_time": 1756357943,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 140202,
@@ -1107,28 +1163,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134394,
+      "num": 134394,
+      "word": "陈哲远又在泰国被叫老公了",
+      "onboard_time": 1756358782,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133150,
       "num": 133150,
       "word": "鸣潮",
       "onboard_time": 1756349120,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132475,
-      "num": 132475,
-      "word": "黄景瑜一句话沈腾都闭麦了",
-      "onboard_time": 1756358722,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 131658,
-      "num": 131658,
-      "word": "贺峻霖offer卷发路透",
-      "onboard_time": 1756358722,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127567,
@@ -1227,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106968,
+      "num": 179271,
+      "word": "桶装水竟然也有假水",
+      "onboard_time": 1756359622,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 106304,
       "num": 102314,
       "word": "26岁女子欲离婚遭丈夫残忍杀害案续",
@@ -1243,6 +1299,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 105975,
+      "num": 150995,
+      "word": "寒武纪总市值超6100亿",
+      "onboard_time": 1756358424,
+      "rank": 38,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 103983,
       "num": 103983,
       "word": "iOS26焕新应用图标",
@@ -1257,14 +1321,6 @@
       "onboard_time": 1756341023,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102587,
-      "num": 268567,
-      "word": "离了中国留学生美国高校会怎样",
-      "onboard_time": 1756357284,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102137,
@@ -1499,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67789,
-      "num": 150995,
-      "word": "寒武纪总市值超6100亿",
-      "onboard_time": 1756358424,
-      "rank": 38,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 66896,
       "num": 85285,
       "word": "流浪不再流浪",
@@ -1619,8 +1667,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51893,
+      "num": 450893,
+      "word": "千里跃进大别山",
+      "onboard_time": 1756357223,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51441,
-      "num": 158262,
+      "num": 207077,
       "word": "团队论文致谢中悼念33岁女教师",
       "onboard_time": 1756358182,
       "rank": 36,
@@ -1632,14 +1688,6 @@
       "word": "回乡创业1年卖4000万只老鼠",
       "onboard_time": 1756354283,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47221,
-      "num": 450893,
-      "word": "千里跃进大别山",
-      "onboard_time": 1756357223,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1715,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37814,
+      "num": 217685,
+      "word": "外国记者谈九三阅兵首场记者会",
+      "onboard_time": 1756359142,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37636,
       "num": 50627,
       "word": "何小鹏晒和雷军聊天记录",
@@ -1747,12 +1803,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31172,
+      "num": 178414,
+      "word": "罗晋你好适合演变态",
+      "onboard_time": 1756358902,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29532,
       "num": 39803,
       "word": "可以在北京看孙颖莎王楚钦打混双了",
       "onboard_time": 1756315277,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29385,
+      "num": 287883,
+      "word": "长城包下都江堰",
+      "onboard_time": 1756356323,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 29372,
@@ -1769,14 +1841,6 @@
       "onboard_time": 1756331895,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26788,
-      "num": 287883,
-      "word": "长城包下都江堰",
-      "onboard_time": 1756356323,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 26699,

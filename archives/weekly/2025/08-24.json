@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756358739675,
+  "endTime": 1756359715190,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -107,12 +107,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2169367,
+      "num": 2169367,
+      "word": "虞书欣风波事关国有资产应有通报",
+      "onboard_time": 1756357343,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2023781,
       "num": 1119085,
       "word": "烂尾",
       "onboard_time": 1755959848,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2019835,
+      "num": 1620471,
+      "word": "三只羊 复出",
+      "onboard_time": 1756356204,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 2010478,
@@ -219,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1620471,
-      "num": 1620471,
-      "word": "三只羊 复出",
-      "onboard_time": 1756356204,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1580329,
       "num": 1580329,
       "word": "司美格鲁肽",
@@ -313,14 +321,6 @@
       "onboard_time": 1756092022,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1398014,
-      "num": 411050,
-      "word": "虞书欣风波事关国有资产应有通报",
-      "onboard_time": 1756357343,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1390996,
@@ -971,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 847060,
+      "num": 279727,
+      "word": "女子放生一麻袋蛇",
+      "onboard_time": 1756356744,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 839162,
       "num": 313331,
       "word": "川航女空乘被骚扰离职",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1756260921,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 751147,
-      "num": 279727,
-      "word": "女子放生一麻袋蛇",
-      "onboard_time": 1756356744,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 748833,
@@ -2273,6 +2273,14 @@
       "onboard_time": 1756031362,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497627,
+      "num": 269509,
+      "word": "长期运动的人一眼就能看出来",
+      "onboard_time": 1756359021,
+      "rank": 16,
+      "category": "运动健身,其它"
     },
     {
       "raw_hot": 497418,
@@ -3739,6 +3747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 286738,
+      "num": 286738,
+      "word": "原来体香是可以养出来的",
+      "onboard_time": 1756358243,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285794,
       "num": 285794,
       "word": "抗战胜利80周年文艺晚会进入最后合成阶段",
@@ -3992,6 +4008,14 @@
       "word": "Angelababy把不同的奶茶店都点了一遍",
       "onboard_time": 1756304486,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263469,
+      "num": 263469,
+      "word": "姜思达给吴京10个人生建议",
+      "onboard_time": 1756356444,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -4544,6 +4568,14 @@
       "word": "花5万买日本投降书原件",
       "onboard_time": 1756285764,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230502,
+      "num": 268567,
+      "word": "离了中国留学生美国高校会怎样",
+      "onboard_time": 1756357284,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -5395,14 +5427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198515,
-      "num": 198515,
-      "word": "原来体香是可以养出来的",
-      "onboard_time": 1756358243,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198338,
       "num": 182529,
       "word": "美国女子枪杀脑癌丈夫与两子后自杀",
@@ -5835,14 +5859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190881,
-      "num": 190881,
-      "word": "姜思达给吴京10个人生建议",
-      "onboard_time": 1756356444,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190818,
       "num": 190818,
       "word": "张凌赫这一秒过火报数式营业",
@@ -5857,6 +5873,14 @@
       "onboard_time": 1756034423,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 190739,
+      "num": 223292,
+      "word": "苏超球迷七夕领证从对手变队友",
+      "onboard_time": 1756359261,
+      "rank": 26,
+      "category": "体育,情感"
     },
     {
       "raw_hot": 190717,
@@ -6049,6 +6073,14 @@
       "onboard_time": 1755995361,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188255,
+      "num": 188255,
+      "word": "贺峻霖offer卷发路透",
+      "onboard_time": 1756358722,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188066,
@@ -6619,6 +6651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178034,
+      "num": 178034,
+      "word": "家具长期不换会有什么危害",
+      "onboard_time": 1756358782,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 177950,
       "num": 187769,
       "word": "生万物",
@@ -6969,6 +7009,14 @@
       "onboard_time": 1756099884,
       "rank": 19,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 170876,
+      "num": 225798,
+      "word": "黄景瑜一句话沈腾都闭麦了",
+      "onboard_time": 1756358722,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 170797,
@@ -8779,6 +8827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144126,
+      "num": 144126,
+      "word": "J人七夕买花都有自己的规划",
+      "onboard_time": 1756359502,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144046,
       "num": 144046,
       "word": "鲁迅夹烟墙画被投诉当事人发声",
@@ -8963,6 +9019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142014,
+      "num": 221024,
+      "word": "徐如蓝对方益炯灵魂五连问",
+      "onboard_time": 1756357943,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142001,
       "num": 135661,
       "word": "龚俊 只要他愿意他就能做到",
@@ -9073,14 +9137,6 @@
       "onboard_time": 1756085121,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140301,
-      "num": 140301,
-      "word": "徐如蓝对方益炯灵魂五连问",
-      "onboard_time": 1756357943,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 140226,
@@ -9627,6 +9683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134394,
+      "num": 134394,
+      "word": "陈哲远又在泰国被叫老公了",
+      "onboard_time": 1756358782,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134326,
       "num": 203861,
       "word": "苏醒 糊过没苦过",
@@ -9795,14 +9859,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 132475,
-      "num": 132475,
-      "word": "黄景瑜一句话沈腾都闭麦了",
-      "onboard_time": 1756358722,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132468,
       "num": 132468,
       "word": "内娱收视代表",
@@ -9873,14 +9929,6 @@
       "onboard_time": 1756257741,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 131658,
-      "num": 131658,
-      "word": "贺峻霖offer卷发路透",
-      "onboard_time": 1756358722,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 131551,
@@ -12131,6 +12179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 106968,
+      "num": 179271,
+      "word": "桶装水竟然也有假水",
+      "onboard_time": 1756359622,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 106850,
       "num": 106850,
       "word": "DeepSeek暗示国产芯片有望大规模使用",
@@ -12225,6 +12281,14 @@
       "onboard_time": 1756298183,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105975,
+      "num": 150995,
+      "word": "寒武纪总市值超6100亿",
+      "onboard_time": 1756358424,
+      "rank": 38,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 105864,
@@ -12545,14 +12609,6 @@
       "onboard_time": 1756011202,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102587,
-      "num": 268567,
-      "word": "离了中国留学生美国高校会怎样",
-      "onboard_time": 1756357284,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102492,
@@ -14195,14 +14251,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 67789,
-      "num": 150995,
-      "word": "寒武纪总市值超6100亿",
-      "onboard_time": 1756358424,
-      "rank": 38,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 67578,
       "num": 108209,
       "word": "全员停发工资高校背后涉多起官司",
@@ -14915,6 +14963,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 51893,
+      "num": 450893,
+      "word": "千里跃进大别山",
+      "onboard_time": 1756357223,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51589,
       "num": 131744,
       "word": "蔡徐坤ins更新身材照",
@@ -14924,7 +14980,7 @@
     },
     {
       "raw_hot": 51441,
-      "num": 158262,
+      "num": 207077,
       "word": "团队论文致谢中悼念33岁女教师",
       "onboard_time": 1756358182,
       "rank": 36,
@@ -15112,14 +15168,6 @@
       "word": "孕妇与友人车库遇两巨犬扑人",
       "onboard_time": 1756098084,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47221,
-      "num": 450893,
-      "word": "千里跃进大别山",
-      "onboard_time": 1756357223,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -15571,6 +15619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37814,
+      "num": 217685,
+      "word": "外国记者谈九三阅兵首场记者会",
+      "onboard_time": 1756359142,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37803,
       "num": 45202,
       "word": "开学季儿童医院迎就诊高峰",
@@ -15843,6 +15899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31172,
+      "num": 178414,
+      "word": "罗晋你好适合演变态",
+      "onboard_time": 1756358902,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31063,
       "num": 135981,
       "word": "武警官兵劈枪请党和人民检阅",
@@ -15913,6 +15977,14 @@
       "onboard_time": 1756292482,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29385,
+      "num": 287883,
+      "word": "长城包下都江堰",
+      "onboard_time": 1756356323,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 29372,
@@ -16081,14 +16153,6 @@
       "onboard_time": 1755973756,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26788,
-      "num": 287883,
-      "word": "长城包下都江堰",
-      "onboard_time": 1756356323,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 26699,
