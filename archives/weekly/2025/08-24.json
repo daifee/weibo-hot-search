@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756392251614,
+  "endTime": 1756394815985,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -329,6 +329,14 @@
       "onboard_time": 1756297224,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1433256,
+      "num": 1433256,
+      "word": "labubu",
+      "onboard_time": 1756390584,
+      "rank": 21,
+      "category": "休闲"
     },
     {
       "raw_hot": 1420909,
@@ -1435,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 739223,
+      "num": 278519,
+      "word": "公主抱陪爬 擦边",
+      "onboard_time": 1756393403,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 738752,
       "num": 738752,
       "word": "美美sunday丑丑monday",
@@ -1875,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611606,
+      "num": 611606,
+      "word": "寒武纪",
+      "onboard_time": 1756277543,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 611448,
       "num": 263469,
       "word": "姜思达给吴京10个人生建议",
@@ -2185,14 +2209,6 @@
       "onboard_time": 1756039705,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 564944,
-      "num": 564944,
-      "word": "labubu",
-      "onboard_time": 1756390584,
-      "rank": 21,
-      "category": "休闲"
     },
     {
       "raw_hot": 561312,
@@ -3603,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361348,
+      "num": 305600,
+      "word": "网传泰国开始禁娱",
+      "onboard_time": 1756387342,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 360807,
       "num": 360807,
       "word": "林晓杰感谢易烊千玺",
@@ -3915,14 +3939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 323657,
-      "num": 323657,
-      "word": "寒武纪",
-      "onboard_time": 1756277543,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 323443,
       "num": 323443,
       "word": "昀牵孟绕 横店痛城",
@@ -3945,14 +3961,6 @@
       "onboard_time": 1756131984,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318472,
-      "num": 305600,
-      "word": "网传泰国开始禁娱",
-      "onboard_time": 1756387342,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 317500,
@@ -4337,6 +4345,14 @@
       "onboard_time": 1756121483,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273506,
+      "num": 400598,
+      "word": "土耳其一新郎被婶婶鸣枪庆祝误杀",
+      "onboard_time": 1756391483,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 272441,
@@ -5785,6 +5801,14 @@
       "onboard_time": 1756203142,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202833,
+      "num": 202833,
+      "word": "TheShy大笑",
+      "onboard_time": 1756392264,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 202776,
@@ -7395,6 +7419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177855,
+      "num": 177855,
+      "word": "厦门航空一飞机因充电宝起火延误",
+      "onboard_time": 1756393464,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177732,
       "num": 177732,
       "word": "白鹿直播",
@@ -7929,6 +7961,14 @@
       "onboard_time": 1756184903,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 168309,
+      "num": 168309,
+      "word": "早睡觉能解决80%以上的问题",
+      "onboard_time": 1756388722,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 168278,
@@ -8499,6 +8539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159940,
+      "num": 159940,
+      "word": "2025LPL",
+      "onboard_time": 1756394184,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159767,
       "num": 159767,
       "word": "李沁1期节目800个反差",
@@ -8761,14 +8809,6 @@
       "onboard_time": 1756264702,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157153,
-      "num": 157153,
-      "word": "早睡觉能解决80%以上的问题",
-      "onboard_time": 1756388722,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 157021,
@@ -9681,6 +9721,14 @@
       "onboard_time": 1756293024,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145837,
+      "num": 179434,
+      "word": "周安信二公舞台",
+      "onboard_time": 1756393643,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 145823,
@@ -10683,6 +10731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136081,
+      "num": 178191,
+      "word": "尚雯婕说李佳琦不懂得拒绝",
+      "onboard_time": 1756394124,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136029,
       "num": 136029,
       "word": "刘亦菲38岁的生日祝福送给了大家",
@@ -11364,7 +11420,7 @@
     },
     {
       "raw_hot": 129519,
-      "num": 149436,
+      "num": 270072,
       "word": "靠网贷维持体面生活的年轻人怎么样了",
       "onboard_time": 1756390584,
       "rank": 33,
@@ -13219,6 +13275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112994,
+      "num": 168418,
+      "word": "今年七夕节本世纪最晚",
+      "onboard_time": 1756393283,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 112760,
       "num": 112760,
       "word": "美一女子在教堂外遭性侵死亡",
@@ -13721,6 +13785,14 @@
       "onboard_time": 1756359622,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 106855,
+      "num": 323744,
+      "word": "涉嫌参与破坏北溪人员身份均已确认",
+      "onboard_time": 1756391483,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106850,
@@ -14755,6 +14827,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 94877,
+      "num": 94877,
+      "word": "今年第14号台风来了",
+      "onboard_time": 1756392624,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94799,
       "num": 104982,
       "word": "花海战至巅峰上场比赛",
@@ -14817,6 +14897,14 @@
       "onboard_time": 1755963327,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93810,
+      "num": 168881,
+      "word": "蒋奇明被张艺凡夸红温了",
+      "onboard_time": 1756392384,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 93553,
@@ -14931,12 +15019,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92038,
+      "num": 92038,
+      "word": "闫妮镂空花裙造型",
+      "onboard_time": 1756394782,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92004,
       "num": 143291,
       "word": "樊振东体测变憋笑挑战",
       "onboard_time": 1756295184,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91930,
+      "num": 91930,
+      "word": "耳帝说写这首歌的布瑞吉绝对值得称赞",
+      "onboard_time": 1756394782,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91919,
+      "num": 91919,
+      "word": "月薪10w做过8份不同职业的大实话",
+      "onboard_time": 1756390524,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 91916,
@@ -14969,6 +15081,14 @@
       "onboard_time": 1756084162,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91522,
+      "num": 134471,
+      "word": "女子酒店洗澡天花板突然打开",
+      "onboard_time": 1756391784,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91406,
@@ -15659,14 +15779,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 73658,
-      "num": 134471,
-      "word": "女子酒店洗澡天花板突然打开",
-      "onboard_time": 1756391784,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73592,
       "num": 73592,
       "word": "国乒欧洲大满贯三冠收官",
@@ -16073,14 +16185,6 @@
       "onboard_time": 1756120644,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63858,
-      "num": 400598,
-      "word": "土耳其一新郎被婶婶鸣枪庆祝误杀",
-      "onboard_time": 1756391483,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 63656,
@@ -17579,14 +17683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35770,
-      "num": 323744,
-      "word": "涉嫌参与破坏北溪人员身份均已确认",
-      "onboard_time": 1756391483,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35699,
       "num": 35699,
       "word": "孙颖莎王曼昱冠亚军合影",
@@ -18249,6 +18345,14 @@
       "onboard_time": 1756028002,
       "rank": 40,
       "category": "海外新闻,美食"
+    },
+    {
+      "raw_hot": 24383,
+      "num": 95215,
+      "word": "嫁给自己的绝症女孩收到善款",
+      "onboard_time": 1756393283,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24367,

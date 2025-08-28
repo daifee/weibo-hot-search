@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/28 22:44:11
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/28 23:26:55
 </p>
 </blockquote>
 <p>
@@ -1877,6 +1877,12 @@ iG战胜BLG（热度：1468823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23" target="weibo">
 黄金（热度：1433853）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23labubu%23" target="weibo">
+labubu（热度：1433256）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3W%E7%9B%9B%E5%85%B8%E5%85%AC%E4%B8%BB%E8%A3%99%23" target="weibo">
 虞书欣W盛典公主裙（热度：750911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E7%AD%BE%E7%BA%A6%E5%BF%83%E5%BF%83%E4%BC%A0%E5%AA%92%23" target="weibo">
-毛晓彤签约心心传媒（热度：748833）
 </a>
 </li>
 
