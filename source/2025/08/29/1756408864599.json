@@ -1,0 +1,410 @@
+{
+  "runTime": 1756408864599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 282134,
+        "num": 282134,
+        "word": "七夕",
+        "onboard_time": 1756400179,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139446,
+        "num": 139446,
+        "word": "陈奕迅方道歉",
+        "onboard_time": 1756399459,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1522,
+        "num": 126443,
+        "word": "中国阅兵向国际传递什么信息",
+        "onboard_time": 1756351521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124986,
+        "num": 124986,
+        "word": "法院公告虞书欣父亲借贷纠纷起诉状",
+        "onboard_time": 1756379902,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49346,
+        "num": 49346,
+        "word": "中方回应有国家不愿出席九三阅兵",
+        "onboard_time": 1756374082,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44599,
+        "num": 44599,
+        "word": "上海警方通报涉演唱会谣言",
+        "onboard_time": 1756387403,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 42631,
+        "num": 42631,
+        "word": "labubu",
+        "onboard_time": 1756390584,
+        "rank": 6,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 42456,
+        "num": 42456,
+        "word": "刘昊然金鹿奖影帝",
+        "onboard_time": 1756386684,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40762,
+        "num": 40762,
+        "word": "张韶涵开喷台媒",
+        "onboard_time": 1756377862,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39567,
+        "num": 39567,
+        "word": "气象局回应哈尔滨上空现不明飞行物",
+        "onboard_time": 1756407374,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269899,
+        "num": 39564,
+        "word": "虞书欣父亲称老潘财商抹黑",
+        "onboard_time": 1756396341,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108131,
+        "num": 39551,
+        "word": "公主抱陪爬 擦边",
+        "onboard_time": 1756393403,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70599,
+        "num": 39534,
+        "word": "反诈老陈打假嘎子哥翻车后道歉",
+        "onboard_time": 1756398021,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 59440,
+        "num": 39528,
+        "word": "网传泰国开始禁娱",
+        "onboard_time": 1756387342,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51843,
+        "num": 39509,
+        "word": "安静公主资助过已去世的抗癌博主",
+        "onboard_time": 1756404077,
+        "rank": 14,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 46490,
+        "num": 39504,
+        "word": "李飞黄锐 当年的事彼此各有难处",
+        "onboard_time": 1756383682,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39493,
+        "num": 39493,
+        "word": "突然发现了马桶的正确坐姿",
+        "onboard_time": 1756389743,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37292,
+        "num": 37292,
+        "word": "特朗普下令全国哀悼",
+        "onboard_time": 1756373902,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32433,
+        "num": 32433,
+        "word": "欧冠联赛",
+        "onboard_time": 1756401678,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29394,
+        "num": 29394,
+        "word": "iG对战BLG",
+        "onboard_time": 1756385543,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107915,
+        "num": 29284,
+        "word": "贾玲 上镜胖十斤受害者",
+        "onboard_time": 1756383023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66684,
+        "num": 29236,
+        "word": "马思纯白月光回国",
+        "onboard_time": 1756386323,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32415,
+        "num": 29222,
+        "word": "早睡觉能解决80%以上的问题",
+        "onboard_time": 1756388722,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29088,
+        "num": 29088,
+        "word": "高利率网贷正在吞噬年轻人",
+        "onboard_time": 1756384163,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28993,
+        "num": 28993,
+        "word": "刘浩存主动给刘昊然打招呼",
+        "onboard_time": 1756407855,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28314,
+        "num": 28314,
+        "word": "厦门航空一飞机因充电宝起火延误",
+        "onboard_time": 1756393464,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24805,
+        "num": 24805,
+        "word": "家人称金子涵没生病",
+        "onboard_time": 1756407015,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24229,
+        "num": 24229,
+        "word": "女子为爱辞职远嫁北京18年后被离婚",
+        "onboard_time": 1756375943,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24110,
+        "num": 24110,
+        "word": "靠网贷维持体面生活的年轻人怎么样了",
+        "onboard_time": 1756390584,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20372,
+        "num": 24098,
+        "word": "反诈老陈自曝直播间曾被封禁",
+        "onboard_time": 1756402936,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14213,
+        "num": 24091,
+        "word": "日本长期抵赖罪行无耻至极",
+        "onboard_time": 1756407015,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24087,
+        "num": 24087,
+        "word": "越睡越丑的坏习惯",
+        "onboard_time": 1756384883,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23746,
+        "num": 23746,
+        "word": "胡楚靓回应复合",
+        "onboard_time": 1756384222,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22412,
+        "num": 22412,
+        "word": "育儿补贴可以线上申领了",
+        "onboard_time": 1756406296,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 22223,
+        "num": 22223,
+        "word": "九三文艺晚会细节来了",
+        "onboard_time": 1756405818,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22192,
+        "num": 22192,
+        "word": "航空公司回应飞机因充电宝起火延误",
+        "onboard_time": 1756396822,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21576,
+        "num": 21576,
+        "word": "日本郊外发现装有大量人骨麻袋",
+        "onboard_time": 1756379421,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20811,
+        "num": 20811,
+        "word": "土耳其一新郎被婶婶鸣枪庆祝误杀",
+        "onboard_time": 1756391483,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20407,
+        "num": 20407,
+        "word": "掩盖史实和推卸责任无法洗白自己",
+        "onboard_time": 1756396822,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20324,
+        "num": 20324,
+        "word": "九三纪念活动既是铭记历史更是开创未来",
+        "onboard_time": 1756397482,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20221,
+        "num": 20221,
+        "word": "起底日本砸560亿公关背后",
+        "onboard_time": 1756400058,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20201,
+        "num": 20201,
+        "word": "承认吧演员多读书有用",
+        "onboard_time": 1756381283,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20088,
+        "num": 20088,
+        "word": "Bin自评中规中矩",
+        "onboard_time": 1756394842,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19860,
+        "num": 19860,
+        "word": "节目组放了董璇张维伊没字幕母带",
+        "onboard_time": 1756375764,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19713,
+        "num": 19713,
+        "word": "iG战胜BLG",
+        "onboard_time": 1756391784,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19213,
+        "num": 19213,
+        "word": "完美世界动画",
+        "onboard_time": 1756401857,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 19200,
+        "num": 19200,
+        "word": "女观众被4男保安在厕所猥亵系谣言",
+        "onboard_time": 1756387523,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 18382,
+        "num": 19200,
+        "word": "戴娇倩9岁女儿一年只长2厘米",
+        "onboard_time": 1756390944,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17393,
+        "num": 19200,
+        "word": "裴秀智方辟谣结婚传闻",
+        "onboard_time": 1756399220,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17271,
+        "num": 19198,
+        "word": "米勒 这就是ig的比赛吗",
+        "onboard_time": 1756397602,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记血与火铸就的深情#"
+    }
+  }
+}
