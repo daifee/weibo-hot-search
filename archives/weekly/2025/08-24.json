@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756347265946,
+  "endTime": 1756350471488,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -121,6 +121,14 @@
       "onboard_time": 1756292904,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1853313,
+      "num": 1853313,
+      "word": "普京和金正恩等出席抗战纪念活动",
+      "onboard_time": 1756347261,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1848659,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 1287812,
-      "num": 279666,
+      "num": 325291,
       "word": "两男生开房住宿坐断床头柜",
       "onboard_time": 1756337781,
       "rank": 36,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 1001611,
-      "num": 278213,
+      "num": 305132,
       "word": "金子涵剃寸头",
       "onboard_time": 1756336879,
       "rank": 39,
@@ -945,6 +953,14 @@
       "onboard_time": 1756119804,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 810994,
+      "num": 335550,
+      "word": "何晟铭 我叫白月光",
+      "onboard_time": 1756346601,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 806076,
@@ -1452,7 +1468,7 @@
     },
     {
       "raw_hot": 633348,
-      "num": 276600,
+      "num": 303345,
       "word": "南京大学33岁女教师离世",
       "onboard_time": 1756339281,
       "rank": 13,
@@ -1707,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 576549,
+      "num": 576549,
+      "word": "日本没有资格说三道四",
+      "onboard_time": 1756344020,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 576241,
       "num": 576241,
       "word": "网红称吃火鸡面烧穿胃索赔7700万",
@@ -1859,12 +1883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552034,
+      "num": 552034,
+      "word": "王鹤棣 海飞丝",
+      "onboard_time": 1756347683,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551464,
       "num": 551464,
       "word": "IVE回归",
       "onboard_time": 1756113742,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551018,
+      "num": 551018,
+      "word": "将出席纪念活动的外国元首和政府首脑",
+      "onboard_time": 1756348462,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 547556,
@@ -1985,6 +2025,14 @@
       "onboard_time": 1756265001,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 528362,
+      "num": 528362,
+      "word": "真夫妻kisskiss我shyshy",
+      "onboard_time": 1756349242,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 527221,
@@ -2305,6 +2353,14 @@
       "onboard_time": 1756223004,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 455407,
+      "num": 455407,
+      "word": "9月3日晚人民大会堂举办文艺晚会",
+      "onboard_time": 1756348522,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 455256,
@@ -2665,6 +2721,14 @@
       "onboard_time": 1756003042,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414271,
+      "num": 295145,
+      "word": "医生给梓渝的建议是需要手术",
+      "onboard_time": 1756339462,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 414227,
@@ -3035,14 +3099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 354919,
-      "num": 273569,
-      "word": "医生给梓渝的建议是需要手术",
-      "onboard_time": 1756339462,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 354571,
       "num": 354571,
       "word": "薛凯琪把额头露出来大大方方的",
@@ -3104,6 +3160,14 @@
       "word": "男子找回2岁女儿狠扇自己耳光",
       "onboard_time": 1756338200,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351003,
+      "num": 292128,
+      "word": "95后花4万元办三无婚礼",
+      "onboard_time": 1756347261,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -3169,6 +3233,14 @@
       "onboard_time": 1756044446,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 337863,
+      "num": 337863,
+      "word": "阅兵筹备进展发布会",
+      "onboard_time": 1756346721,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 336073,
@@ -3371,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306676,
+      "num": 306676,
+      "word": "251万存款凭空消失被6名老人取走",
+      "onboard_time": 1756347322,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304255,
       "num": 304255,
       "word": "龙丹妮白敬亭抵达韩国",
@@ -3507,6 +3587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 285794,
+      "num": 285794,
+      "word": "抗战胜利80周年文艺晚会进入最后合成阶段",
+      "onboard_time": 1756349422,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 284732,
       "num": 274137,
       "word": "董璇对张维伊有极致的爱",
@@ -3545,14 +3633,6 @@
       "onboard_time": 1756172003,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 281166,
-      "num": 281166,
-      "word": "日本没有资格说三道四",
-      "onboard_time": 1756344020,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 280849,
@@ -3755,6 +3835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263339,
+      "num": 300908,
+      "word": "龚俊在张晚意的一声哥哥中迷失了",
+      "onboard_time": 1756349242,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262909,
       "num": 355340,
       "word": "反诈老陈打假嘎子哥所售699元手机",
@@ -3777,6 +3865,14 @@
       "onboard_time": 1756263081,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260801,
+      "num": 297695,
+      "word": "曹璐宣布FIESTAR签约半年解约",
+      "onboard_time": 1756349963,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 260596,
@@ -3873,6 +3969,14 @@
       "onboard_time": 1756126884,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253951,
+      "num": 253951,
+      "word": "这些习惯是血糖刺客",
+      "onboard_time": 1756346121,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 253934,
@@ -4017,6 +4121,14 @@
       "onboard_time": 1756033644,
       "rank": 27,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 244641,
+      "num": 242944,
+      "word": "这才是00后想要过的七夕",
+      "onboard_time": 1756349542,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 243759,
@@ -4177,6 +4289,14 @@
       "onboard_time": 1756177581,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234307,
+      "num": 234307,
+      "word": "樊振东关注霉霉未婚夫ins",
+      "onboard_time": 1756348701,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 233804,
@@ -4465,6 +4585,14 @@
       "onboard_time": 1756183103,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215683,
+      "num": 244464,
+      "word": "90后00后文艺工作者担当主力",
+      "onboard_time": 1756349120,
+      "rank": 29,
+      "category": "民生新闻,综艺"
     },
     {
       "raw_hot": 215610,
@@ -4899,6 +5027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202135,
+      "num": 252975,
+      "word": "谁能顶得住杨幂的温柔刀",
+      "onboard_time": 1756349600,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201766,
       "num": 201766,
       "word": "战至巅峰官宣盛世天下战队",
@@ -5305,6 +5441,14 @@
       "onboard_time": 1756052183,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193869,
+      "num": 193869,
+      "word": "樊振东 安踏",
+      "onboard_time": 1756349963,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 193797,
@@ -5955,6 +6099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182729,
+      "num": 251841,
+      "word": "王一博赛事日程",
+      "onboard_time": 1756349542,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182690,
       "num": 182690,
       "word": "新疆偶遇了李现",
@@ -6001,6 +6153,14 @@
       "onboard_time": 1756222466,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181906,
+      "num": 181906,
+      "word": "周鸿祎约等于被144台保时捷包围",
+      "onboard_time": 1756349662,
+      "rank": 36,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 181757,
@@ -6441,14 +6601,6 @@
       "onboard_time": 1756276465,
       "rank": 46,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 171819,
-      "num": 171819,
-      "word": "这些习惯是血糖刺客",
-      "onboard_time": 1756346121,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 171734,
@@ -7643,6 +7795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152500,
+      "num": 152500,
+      "word": "樊振东点赞霉霉",
+      "onboard_time": 1756348522,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152482,
       "num": 152482,
       "word": "张凌赫南京",
@@ -7729,14 +7889,6 @@
       "onboard_time": 1756012162,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151614,
-      "num": 151614,
-      "word": "何晟铭 我叫白月光",
-      "onboard_time": 1756346601,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 151561,
@@ -7979,6 +8131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147035,
+      "num": 147035,
+      "word": "天安门广场布置年号台",
+      "onboard_time": 1756349482,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146901,
       "num": 146901,
       "word": "上海15岁女生军训时死亡背后",
@@ -8009,6 +8169,14 @@
       "onboard_time": 1756100123,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146367,
+      "num": 146367,
+      "word": "14国50位友人或遗属出席抗战纪念活动",
+      "onboard_time": 1756348642,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146343,
@@ -8161,14 +8329,6 @@
       "onboard_time": 1756042707,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144723,
-      "num": 280445,
-      "word": "阅兵筹备进展发布会",
-      "onboard_time": 1756346721,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 144709,
@@ -8521,6 +8681,14 @@
       "onboard_time": 1756112964,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140202,
+      "num": 140202,
+      "word": "致敬伟大抗战精神MV发布",
+      "onboard_time": 1756347442,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140157,
@@ -8923,6 +9091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135489,
+      "num": 135489,
+      "word": "小猫坐在桌子上像个小手办",
+      "onboard_time": 1756349901,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135482,
       "num": 135482,
       "word": "南京一流浪小狗跟跑3公里争取到幸福",
@@ -9129,6 +9305,14 @@
       "onboard_time": 1756293024,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132681,
+      "num": 132681,
+      "word": "陈飞宇王影璐你俩搁这求婚呢",
+      "onboard_time": 1756350442,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 132657,
@@ -9675,6 +9859,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 127478,
+      "num": 127478,
+      "word": "美甲师妈妈每天上班出门的样子",
+      "onboard_time": 1756350142,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127473,
       "num": 127473,
       "word": "伦纳德村BA首秀",
@@ -9697,6 +9889,14 @@
       "onboard_time": 1756098563,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126905,
+      "num": 126905,
+      "word": "蔡依林晚上9点半就睡觉",
+      "onboard_time": 1756350442,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 126841,
@@ -12347,6 +12547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96382,
+      "num": 246591,
+      "word": "这个七夕捏脚师傅不够用了",
+      "onboard_time": 1756350322,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96355,
       "num": 96355,
       "word": "碎片化睡眠可能增加患癌风险",
@@ -13611,6 +13819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64867,
+      "num": 146667,
+      "word": "樊振东表达能力真强",
+      "onboard_time": 1756349482,
+      "rank": 39,
+      "category": "体育,体育"
+    },
+    {
       "raw_hot": 64570,
       "num": 64570,
       "word": "林诗栋上演樊振东式逆转",
@@ -13787,6 +14003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60313,
+      "num": 296846,
+      "word": "南美厄瓜多尔玫瑰被京东包了",
+      "onboard_time": 1756346901,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59314,
       "num": 262120,
       "word": "海南舰最新训练画面好燃",
@@ -13849,6 +14073,14 @@
       "onboard_time": 1756117882,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 58074,
+      "num": 248681,
+      "word": "全新小鹏P7卖爆了",
+      "onboard_time": 1756350322,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 57976,
@@ -13929,14 +14161,6 @@
       "onboard_time": 1756077978,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 56692,
-      "num": 209938,
-      "word": "南美厄瓜多尔玫瑰被京东包了",
-      "onboard_time": 1756346901,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56435,
@@ -14704,6 +14928,14 @@
       "word": "格林斯比vs曼联",
       "onboard_time": 1756337300,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39667,
+      "num": 312422,
+      "word": "苏菲王曼昱",
+      "onboard_time": 1756349542,
+      "rank": 12,
       "category": "体育"
     },
     {
