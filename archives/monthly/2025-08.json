@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756388752773,
+  "endTime": 1756391137289,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1236,7 +1236,7 @@
     },
     {
       "raw_hot": 1927673,
-      "num": 350310,
+      "num": 356774,
       "word": "贾玲 上镜胖十斤受害者",
       "onboard_time": 1756383023,
       "rank": 10,
@@ -4307,6 +4307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1091016,
+      "num": 357303,
+      "word": "马思纯白月光回国",
+      "onboard_time": 1756386323,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1089048,
       "num": 1089048,
       "word": "张维伊 庆余年2侯季常",
@@ -5203,6 +5211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 978308,
+      "num": 1156529,
+      "word": "iG对战BLG",
+      "onboard_time": 1756385543,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 976850,
       "num": 543318,
       "word": "胡雷资助女孩遗体在水池内发现",
@@ -5900,7 +5916,7 @@
     },
     {
       "raw_hot": 911470,
-      "num": 604869,
+      "num": 816315,
       "word": "刘昊然金鹿奖影帝",
       "onboard_time": 1756386684,
       "rank": 6,
@@ -9793,14 +9809,6 @@
       "onboard_time": 1755995601,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 655043,
-      "num": 353468,
-      "word": "马思纯白月光回国",
-      "onboard_time": 1756386323,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 655018,
@@ -15795,6 +15803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444653,
+      "num": 444653,
+      "word": "高利率网贷正在吞噬年轻人",
+      "onboard_time": 1756384163,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444551,
       "num": 254422,
       "word": "战至巅峰",
@@ -17779,6 +17795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 394094,
+      "num": 383793,
+      "word": "日本郊外发现装有大量人骨麻袋",
+      "onboard_time": 1756379421,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 394074,
       "num": 394074,
       "word": "胡一天出道以来第一个二番",
@@ -18339,14 +18363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383793,
-      "num": 383793,
-      "word": "日本郊外发现装有大量人骨麻袋",
-      "onboard_time": 1756379421,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 383759,
       "num": 495803,
       "word": "向鹏vs张本智和",
@@ -18521,6 +18537,14 @@
       "onboard_time": 1754657904,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 379612,
+      "num": 379612,
+      "word": "上海警方通报涉演唱会谣言",
+      "onboard_time": 1756387403,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 379548,
@@ -19379,6 +19403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362943,
+      "num": 319147,
+      "word": "突然发现了马桶的正确坐姿",
+      "onboard_time": 1756389743,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362764,
       "num": 362764,
       "word": "苍山失联男孩夏令营清空社交账号",
@@ -19505,6 +19537,14 @@
       "onboard_time": 1754672059,
       "rank": 30,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 360807,
+      "num": 360807,
+      "word": "林晓杰感谢易烊千玺",
+      "onboard_time": 1756388123,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 360561,
@@ -20081,14 +20121,6 @@
       "onboard_time": 1754200823,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 345597,
-      "num": 345597,
-      "word": "iG对战BLG",
-      "onboard_time": 1756385543,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 345494,
@@ -21251,14 +21283,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 323319,
-      "num": 349611,
-      "word": "高利率网贷正在吞噬年轻人",
-      "onboard_time": 1756384163,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 323140,
       "num": 323140,
       "word": "以色列总理决定全面占领加沙",
@@ -21532,7 +21556,7 @@
     },
     {
       "raw_hot": 318472,
-      "num": 161682,
+      "num": 265736,
       "word": "网传泰国开始禁娱",
       "onboard_time": 1756387342,
       "rank": 30,
@@ -34627,6 +34651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197535,
+      "num": 259066,
+      "word": "樊振东德甲揭幕战",
+      "onboard_time": 1756390285,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197524,
       "num": 158091,
       "word": "惠英红零点发文为刘亦菲庆生",
@@ -35297,6 +35329,14 @@
       "onboard_time": 1755084503,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195807,
+      "num": 232153,
+      "word": "labubu",
+      "onboard_time": 1756390584,
+      "rank": 21,
+      "category": "休闲"
     },
     {
       "raw_hot": 195792,
@@ -38345,14 +38385,6 @@
       "onboard_time": 1753975824,
       "rank": 23,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 186610,
-      "num": 186610,
-      "word": "林晓杰感谢易烊千玺",
-      "onboard_time": 1756388123,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 186602,
@@ -41761,6 +41793,14 @@
       "onboard_time": 1755323483,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175451,
+      "num": 243788,
+      "word": "林晓杰金鹿影后",
+      "onboard_time": 1756388423,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 175440,
@@ -46251,6 +46291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162297,
+      "num": 162297,
+      "word": "剑网3",
+      "onboard_time": 1755930442,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162291,
       "num": 162291,
       "word": "AG周决再吃一鸡",
@@ -48603,14 +48651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157078,
-      "num": 157078,
-      "word": "林晓杰金鹿影后",
-      "onboard_time": 1756388423,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 157076,
       "num": 157076,
       "word": "ZB1将延长活动不解散",
@@ -48721,6 +48761,14 @@
       "onboard_time": 1755305001,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156763,
+      "num": 156763,
+      "word": "iG团战",
+      "onboard_time": 1756387763,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 156730,
@@ -50531,6 +50579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152465,
+      "num": 152465,
+      "word": "女观众被4男保安在厕所猥亵系谣言",
+      "onboard_time": 1756387523,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 152426,
       "num": 152426,
       "word": "拿两份工资的退休人",
@@ -51209,6 +51265,14 @@
       "onboard_time": 1755675503,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150964,
+      "num": 150964,
+      "word": "刘浩存东北i人的含金量",
+      "onboard_time": 1756390226,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 150948,
@@ -54073,6 +54137,14 @@
       "onboard_time": 1754058864,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144892,
+      "num": 351589,
+      "word": "聚焦抗战胜利80周年",
+      "onboard_time": 1756385303,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144881,
@@ -57443,14 +57515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138281,
-      "num": 138281,
-      "word": "iG团战",
-      "onboard_time": 1756387763,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 138254,
       "num": 137577,
       "word": "迪丽热巴变装不基础脸更不基础",
@@ -58121,14 +58185,6 @@
       "onboard_time": 1755001706,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137153,
-      "num": 351589,
-      "word": "聚焦抗战胜利80周年",
-      "onboard_time": 1756385303,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 137145,
@@ -59633,6 +59689,14 @@
       "onboard_time": 1755437364,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134612,
+      "num": 134612,
+      "word": "上海地铁2号线",
+      "onboard_time": 1756388604,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134595,
@@ -62995,6 +63059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 128615,
+      "num": 128615,
+      "word": "藏海传收视今年TVB外购剧第一",
+      "onboard_time": 1756390764,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128609,
       "num": 128609,
       "word": "男童走失遇难夏令营被立案调查",
@@ -65195,6 +65267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124700,
+      "num": 124700,
+      "word": "王子文新剧看的我拳头硬了",
+      "onboard_time": 1756390822,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124657,
       "num": 124657,
       "word": "人大教授临死写书谈死亡",
@@ -66313,6 +66393,14 @@
       "onboard_time": 1756041625,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122779,
+      "num": 122779,
+      "word": "咒术回战作者芥见下下新作",
+      "onboard_time": 1756387643,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 122774,
@@ -68699,6 +68787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118723,
+      "num": 118723,
+      "word": "在华晨宇怀里看彩排",
+      "onboard_time": 1756390822,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118717,
       "num": 118717,
       "word": "文俊辉限定掉落回忆碎片",
@@ -69305,6 +69401,14 @@
       "onboard_time": 1754289082,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117669,
+      "num": 117669,
+      "word": "Elk状态",
+      "onboard_time": 1756390764,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 117668,
@@ -70187,6 +70291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 116014,
+      "num": 116014,
+      "word": "警方通报男子砸伤女同事",
+      "onboard_time": 1756390226,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 115978,
       "num": 115978,
       "word": "为什么建议晚上6点之后运动",
@@ -70753,14 +70865,6 @@
       "onboard_time": 1756098923,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 114877,
-      "num": 114877,
-      "word": "上海警方通报涉演唱会谣言",
-      "onboard_time": 1756387403,
-      "rank": 44,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 114857,
@@ -71465,14 +71569,6 @@
       "onboard_time": 1755935123,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 113422,
-      "num": 113422,
-      "word": "上海地铁2号线",
-      "onboard_time": 1756388604,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113393,
@@ -74865,14 +74961,6 @@
       "onboard_time": 1754663544,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106934,
-      "num": 106934,
-      "word": "咒术回战作者芥见下下新作",
-      "onboard_time": 1756387643,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 106920,
@@ -78403,6 +78491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99044,
+      "num": 149436,
+      "word": "靠网贷维持体面生活的年轻人怎么样了",
+      "onboard_time": 1756390584,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99011,
       "num": 99011,
       "word": "周震南直播",
@@ -79617,14 +79713,6 @@
       "onboard_time": 1754672299,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96314,
-      "num": 96314,
-      "word": "剑网3",
-      "onboard_time": 1755930442,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 96252,
@@ -91387,6 +91475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44922,
+      "num": 134986,
+      "word": "戴娇倩9岁女儿一年只长2厘米",
+      "onboard_time": 1756390944,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44921,
       "num": 239434,
       "word": "陈可辛每一帧都是S级的",
@@ -98347,6 +98443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14119,
+      "num": 707680,
+      "word": "中国阅兵向国际传递什么信息",
+      "onboard_time": 1756351521,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14007,
       "num": 155357,
       "word": "机器人来河南都得会武术",
@@ -98777,14 +98881,6 @@
       "onboard_time": 1754995524,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10257,
-      "num": 646518,
-      "word": "中国阅兵向国际传递什么信息",
-      "onboard_time": 1756351521,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10235,

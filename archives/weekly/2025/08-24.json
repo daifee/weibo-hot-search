@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756388752773,
+  "endTime": 1756391137289,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1927673,
-      "num": 350310,
+      "num": 356774,
       "word": "贾玲 上镜胖十斤受害者",
       "onboard_time": 1756383023,
       "rank": 10,
@@ -635,6 +635,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1091016,
+      "num": 357303,
+      "word": "马思纯白月光回国",
+      "onboard_time": 1756386323,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1089048,
       "num": 1089048,
       "word": "张维伊 庆余年2侯季常",
@@ -809,6 +817,14 @@
       "onboard_time": 1756128803,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 978308,
+      "num": 1156529,
+      "word": "iG对战BLG",
+      "onboard_time": 1756385543,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 974387,
@@ -988,7 +1004,7 @@
     },
     {
       "raw_hot": 911470,
-      "num": 604869,
+      "num": 816315,
       "word": "刘昊然金鹿奖影帝",
       "onboard_time": 1756386684,
       "rank": 6,
@@ -1681,14 +1697,6 @@
       "onboard_time": 1755995601,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 655043,
-      "num": 353468,
-      "word": "马思纯白月光回国",
-      "onboard_time": 1756386323,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 653405,
@@ -2875,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444653,
+      "num": 444653,
+      "word": "高利率网贷正在吞噬年轻人",
+      "onboard_time": 1756384163,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443566,
       "num": 443566,
       "word": "33万被骗子划走竟没发现",
@@ -3251,6 +3267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 394094,
+      "num": 383793,
+      "word": "日本郊外发现装有大量人骨麻袋",
+      "onboard_time": 1756379421,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 392890,
       "num": 392890,
       "word": "民生银行回应落马副行长当网红",
@@ -3331,14 +3355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 383793,
-      "num": 383793,
-      "word": "日本郊外发现装有大量人骨麻袋",
-      "onboard_time": 1756379421,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 383538,
       "num": 383538,
       "word": "杨幂在生万物中素颜增重",
@@ -3369,6 +3385,14 @@
       "onboard_time": 1756087402,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379612,
+      "num": 379612,
+      "word": "上海警方通报涉演唱会谣言",
+      "onboard_time": 1756387403,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 378874,
@@ -3563,6 +3587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362943,
+      "num": 319147,
+      "word": "突然发现了马桶的正确坐姿",
+      "onboard_time": 1756389743,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 360807,
+      "num": 360807,
+      "word": "林晓杰感谢易烊千玺",
+      "onboard_time": 1756388123,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 360207,
       "num": 352864,
       "word": "杨幂有3部一番破2剧了",
@@ -3689,14 +3729,6 @@
       "onboard_time": 1756100062,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345597,
-      "num": 345597,
-      "word": "iG对战BLG",
-      "onboard_time": 1756385543,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 345472,
@@ -3883,14 +3915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 323319,
-      "num": 349611,
-      "word": "高利率网贷正在吞噬年轻人",
-      "onboard_time": 1756384163,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 321996,
       "num": 256654,
       "word": "持刀追赶男孩女子有精神分裂症",
@@ -3908,7 +3932,7 @@
     },
     {
       "raw_hot": 318472,
-      "num": 161682,
+      "num": 265736,
       "word": "网传泰国开始禁娱",
       "onboard_time": 1756387342,
       "rank": 30,
@@ -6019,6 +6043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197535,
+      "num": 259066,
+      "word": "樊振东德甲揭幕战",
+      "onboard_time": 1756390285,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197524,
       "num": 158091,
       "word": "惠英红零点发文为刘亦菲庆生",
@@ -6129,6 +6161,14 @@
       "onboard_time": 1756091181,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 195807,
+      "num": 232153,
+      "word": "labubu",
+      "onboard_time": 1756390584,
+      "rank": 21,
+      "category": "休闲"
     },
     {
       "raw_hot": 195744,
@@ -6803,14 +6843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186610,
-      "num": 186610,
-      "word": "林晓杰感谢易烊千玺",
-      "onboard_time": 1756388123,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186261,
       "num": 192399,
       "word": "王曼昱担心马琳拉伤胳膊",
@@ -7473,6 +7505,14 @@
       "onboard_time": 1756023202,
       "rank": 8,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 175451,
+      "num": 243788,
+      "word": "林晓杰金鹿影后",
+      "onboard_time": 1756388423,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 175235,
@@ -8251,6 +8291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162297,
+      "num": 162297,
+      "word": "剑网3",
+      "onboard_time": 1756390885,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162080,
       "num": 167585,
       "word": "王子奇 红舞鞋",
@@ -8683,14 +8731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157078,
-      "num": 157078,
-      "word": "林晓杰金鹿影后",
-      "onboard_time": 1756388423,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 157021,
       "num": 157021,
       "word": "水火锅",
@@ -8737,6 +8777,14 @@
       "onboard_time": 1756034784,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 156763,
+      "num": 156763,
+      "word": "iG团战",
+      "onboard_time": 1756387763,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 156629,
@@ -9115,6 +9163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152465,
+      "num": 152465,
+      "word": "女观众被4男保安在厕所猥亵系谣言",
+      "onboard_time": 1756387523,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 152138,
       "num": 152138,
       "word": "廖停雁终于切宝儿姐大号了",
@@ -9241,6 +9297,14 @@
       "onboard_time": 1756363463,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 150964,
+      "num": 150964,
+      "word": "刘浩存东北i人的含金量",
+      "onboard_time": 1756390226,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 150816,
@@ -9729,6 +9793,14 @@
       "onboard_time": 1756307604,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144892,
+      "num": 351589,
+      "word": "聚焦抗战胜利80周年",
+      "onboard_time": 1756385303,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144811,
@@ -10323,14 +10395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138281,
-      "num": 138281,
-      "word": "iG团战",
-      "onboard_time": 1756387763,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 138179,
       "num": 138179,
       "word": "邓典果亚军魔咒",
@@ -10449,14 +10513,6 @@
       "onboard_time": 1756266983,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137153,
-      "num": 351589,
-      "word": "聚焦抗战胜利80周年",
-      "onboard_time": 1756385303,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 137145,
@@ -10744,6 +10800,14 @@
       "word": "大妈机上换座被拒后闹事",
       "onboard_time": 1755999381,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134612,
+      "num": 134612,
+      "word": "上海地铁2号线",
+      "onboard_time": 1756388604,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -11371,6 +11435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128615,
+      "num": 128615,
+      "word": "藏海传收视今年TVB外购剧第一",
+      "onboard_time": 1756390764,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128549,
       "num": 128549,
       "word": "刘亦菲说惠英红是偶像",
@@ -11731,6 +11803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124700,
+      "num": 124700,
+      "word": "王子文新剧看的我拳头硬了",
+      "onboard_time": 1756390822,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124593,
       "num": 124593,
       "word": "刘学义雪景骑马吻路透",
@@ -11953,6 +12033,14 @@
       "onboard_time": 1756041625,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122779,
+      "num": 122779,
+      "word": "咒术回战作者芥见下下新作",
+      "onboard_time": 1756387643,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 122774,
@@ -12435,6 +12523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118723,
+      "num": 118723,
+      "word": "在华晨宇怀里看彩排",
+      "onboard_time": 1756390822,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118614,
       "num": 155047,
       "word": "刘宇宁的确很抢手",
@@ -12569,6 +12665,14 @@
       "onboard_time": 1756342042,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117669,
+      "num": 117669,
+      "word": "Elk状态",
+      "onboard_time": 1756390764,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 117668,
@@ -12747,6 +12851,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 116014,
+      "num": 116014,
+      "word": "警方通报男子砸伤女同事",
+      "onboard_time": 1756390226,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 115978,
       "num": 115978,
       "word": "为什么建议晚上6点之后运动",
@@ -12923,14 +13035,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 114877,
-      "num": 114877,
-      "word": "上海警方通报涉演唱会谣言",
-      "onboard_time": 1756387403,
-      "rank": 44,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 114848,
       "num": 114848,
       "word": "宋轶想给观众新鲜感",
@@ -13009,14 +13113,6 @@
       "onboard_time": 1756045947,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113422,
-      "num": 113422,
-      "word": "上海地铁2号线",
-      "onboard_time": 1756388604,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113388,
@@ -13569,14 +13665,6 @@
       "onboard_time": 1756359622,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 106934,
-      "num": 106934,
-      "word": "咒术回战作者芥见下下新作",
-      "onboard_time": 1756387643,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 106850,
@@ -14328,6 +14416,14 @@
       "word": "猫咪和爸爸同日去世前后仅差1小时",
       "onboard_time": 1756086080,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99044,
+      "num": 149436,
+      "word": "靠网贷维持体面生活的年轻人怎么样了",
+      "onboard_time": 1756390584,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -16907,6 +17003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44922,
+      "num": 134986,
+      "word": "戴娇倩9岁女儿一年只长2厘米",
+      "onboard_time": 1756390944,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44824,
       "num": 281144,
       "word": "周深同款糖果花车营业中",
@@ -18547,6 +18651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14119,
+      "num": 707680,
+      "word": "中国阅兵向国际传递什么信息",
+      "onboard_time": 1756351521,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14007,
       "num": 155357,
       "word": "机器人来河南都得会武术",
@@ -18681,14 +18793,6 @@
       "onboard_time": 1756301786,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10257,
-      "num": 646518,
-      "word": "中国阅兵向国际传递什么信息",
-      "onboard_time": 1756351521,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10114,

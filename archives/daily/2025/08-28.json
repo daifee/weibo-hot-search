@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756388752773,
+  "endTime": 1756391137289,
   "band_list": [
     {
       "raw_hot": 2777942,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1927673,
-      "num": 350310,
+      "num": 356774,
       "word": "贾玲 上镜胖十斤受害者",
       "onboard_time": 1756383023,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1091016,
+      "num": 357303,
+      "word": "马思纯白月光回国",
+      "onboard_time": 1756386323,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1060216,
       "num": 1060216,
       "word": "孙颖莎T杂志",
@@ -161,6 +169,14 @@
       "onboard_time": 1756371683,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 978308,
+      "num": 1156529,
+      "word": "iG对战BLG",
+      "onboard_time": 1756385543,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 961215,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 911470,
-      "num": 604869,
+      "num": 816315,
       "word": "刘昊然金鹿奖影帝",
       "onboard_time": 1756386684,
       "rank": 6,
@@ -361,14 +377,6 @@
       "onboard_time": 1756345581,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 655043,
-      "num": 353468,
-      "word": "马思纯白月光回国",
-      "onboard_time": 1756386323,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 653119,
@@ -571,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444653,
+      "num": 444653,
+      "word": "高利率网贷正在吞噬年轻人",
+      "onboard_time": 1756384163,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437667,
       "num": 437667,
       "word": "日本妄图给中国九三阅兵按下暂停键",
@@ -611,20 +627,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 394094,
+      "num": 383793,
+      "word": "日本郊外发现装有大量人骨麻袋",
+      "onboard_time": 1756379421,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 390128,
       "num": 314961,
       "word": "王艳儿子腹肌照",
       "onboard_time": 1756376902,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 383793,
-      "num": 383793,
-      "word": "日本郊外发现装有大量人骨麻袋",
-      "onboard_time": 1756379421,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 382209,
@@ -641,6 +657,14 @@
       "onboard_time": 1756366703,
       "rank": 15,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 379612,
+      "num": 379612,
+      "word": "上海警方通报涉演唱会谣言",
+      "onboard_time": 1756387403,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 376940,
@@ -699,6 +723,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 362943,
+      "num": 319147,
+      "word": "突然发现了马桶的正确坐姿",
+      "onboard_time": 1756389743,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 360807,
+      "num": 360807,
+      "word": "林晓杰感谢易烊千玺",
+      "onboard_time": 1756388123,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 357633,
       "num": 394415,
       "word": "董璇张维伊都怕对方老成父母样",
@@ -737,14 +777,6 @@
       "onboard_time": 1756377081,
       "rank": 9,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 345597,
-      "num": 345597,
-      "word": "iG对战BLG",
-      "onboard_time": 1756385543,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 339373,
@@ -787,16 +819,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 323319,
-      "num": 349611,
-      "word": "高利率网贷正在吞噬年轻人",
-      "onboard_time": 1756384163,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 318472,
-      "num": 161682,
+      "num": 265736,
       "word": "网传泰国开始禁娱",
       "onboard_time": 1756387342,
       "rank": 30,
@@ -1243,6 +1267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197535,
+      "num": 259066,
+      "word": "樊振东德甲揭幕战",
+      "onboard_time": 1756390285,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195807,
+      "num": 232153,
+      "word": "labubu",
+      "onboard_time": 1756390584,
+      "rank": 21,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 193941,
       "num": 180963,
       "word": "承认吧演员多读书有用",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1756352542,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186610,
-      "num": 186610,
-      "word": "林晓杰感谢易烊千玺",
-      "onboard_time": 1756388123,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 186005,
@@ -1571,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175451,
+      "num": 243788,
+      "word": "林晓杰金鹿影后",
+      "onboard_time": 1756388423,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172621,
       "num": 356725,
       "word": "天安门广场布置年号台",
@@ -1699,6 +1739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162297,
+      "num": 162297,
+      "word": "剑网3",
+      "onboard_time": 1756390885,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161498,
       "num": 161498,
       "word": "中国女生遭韩国60多岁房东骚扰",
@@ -1803,20 +1851,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157078,
-      "num": 157078,
-      "word": "林晓杰金鹿影后",
-      "onboard_time": 1756388423,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 157021,
       "num": 157021,
       "word": "水火锅",
       "onboard_time": 1756353082,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156763,
+      "num": 156763,
+      "word": "iG团战",
+      "onboard_time": 1756387763,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 156629,
@@ -1899,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152465,
+      "num": 152465,
+      "word": "女观众被4男保安在厕所猥亵系谣言",
+      "onboard_time": 1756387523,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 151625,
       "num": 151625,
       "word": "黄子韬说龚俊和徐艺洋一个待遇",
@@ -1913,6 +1969,14 @@
       "onboard_time": 1756363463,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 150964,
+      "num": 150964,
+      "word": "刘浩存东北i人的含金量",
+      "onboard_time": 1756390226,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 150786,
@@ -2067,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144892,
+      "num": 351589,
+      "word": "聚焦抗战胜利80周年",
+      "onboard_time": 1756385303,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144464,
       "num": 144464,
       "word": "压箱底的衣服千万别直接穿",
@@ -2155,14 +2227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138281,
-      "num": 138281,
-      "word": "iG团战",
-      "onboard_time": 1756387763,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 137491,
       "num": 137491,
       "word": "张真源替花海重新定义打野的嗅觉",
@@ -2176,14 +2240,6 @@
       "word": "铭记血与火铸就的深情",
       "onboard_time": 1756384163,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 137153,
-      "num": 351589,
-      "word": "聚焦抗战胜利80周年",
-      "onboard_time": 1756385303,
-      "rank": 49,
       "category": "国内时政"
     },
     {
@@ -2275,6 +2331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134612,
+      "num": 134612,
+      "word": "上海地铁2号线",
+      "onboard_time": 1756388604,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134394,
       "num": 134394,
       "word": "陈哲远又在泰国被叫老公了",
@@ -2347,6 +2411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128615,
+      "num": 128615,
+      "word": "藏海传收视今年TVB外购剧第一",
+      "onboard_time": 1756390764,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127567,
       "num": 127567,
       "word": "美甲师妈妈每天上班出门的样子",
@@ -2403,6 +2475,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 124700,
+      "num": 124700,
+      "word": "王子文新剧看的我拳头硬了",
+      "onboard_time": 1756390822,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124273,
       "num": 138031,
       "word": "孙颖莎自传开场没有教练那段日子",
@@ -2433,6 +2513,14 @@
       "onboard_time": 1756378582,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122779,
+      "num": 122779,
+      "word": "咒术回战作者芥见下下新作",
+      "onboard_time": 1756387643,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 122774,
@@ -2499,6 +2587,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 118723,
+      "num": 118723,
+      "word": "在华晨宇怀里看彩排",
+      "onboard_time": 1756390822,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118614,
       "num": 155047,
       "word": "刘宇宁的确很抢手",
@@ -2521,6 +2617,14 @@
       "onboard_time": 1756342042,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117669,
+      "num": 117669,
+      "word": "Elk状态",
+      "onboard_time": 1756390764,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 117556,
@@ -2563,6 +2667,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 116014,
+      "num": 116014,
+      "word": "警方通报男子砸伤女同事",
+      "onboard_time": 1756390226,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 115775,
       "num": 115775,
       "word": "英国女子收留黑人流浪汉后被杀",
@@ -2587,28 +2699,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114877,
-      "num": 114877,
-      "word": "上海警方通报涉演唱会谣言",
-      "onboard_time": 1756387403,
-      "rank": 44,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 114107,
       "num": 114107,
       "word": "家里有这种插线板的请尽快扔掉",
       "onboard_time": 1756387103,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 113422,
-      "num": 113422,
-      "word": "上海地铁2号线",
-      "onboard_time": 1756388604,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113313,
@@ -2705,14 +2801,6 @@
       "onboard_time": 1756359622,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 106934,
-      "num": 106934,
-      "word": "咒术回战作者芥见下下新作",
-      "onboard_time": 1756387643,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 106304,
@@ -2832,6 +2920,14 @@
       "word": "四川广东局地大暴雨",
       "onboard_time": 1756347200,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99044,
+      "num": 149436,
+      "word": "靠网贷维持体面生活的年轻人怎么样了",
+      "onboard_time": 1756390584,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -3363,6 +3459,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 44922,
+      "num": 134986,
+      "word": "戴娇倩9岁女儿一年只长2厘米",
+      "onboard_time": 1756390944,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43903,
       "num": 300403,
       "word": "陶喆鲁豫回首舞台之外十年",
@@ -3779,6 +3883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14119,
+      "num": 707680,
+      "word": "中国阅兵向国际传递什么信息",
+      "onboard_time": 1756351521,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11995,
       "num": 48093,
       "word": "抗战胜利80周年纪念活动筹备进展",
@@ -3793,14 +3905,6 @@
       "onboard_time": 1756373303,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10257,
-      "num": 646518,
-      "word": "中国阅兵向国际传递什么信息",
-      "onboard_time": 1756351521,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1081,
