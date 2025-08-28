@@ -1,0 +1,410 @@
+{
+  "runTime": 1756376910313,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1358491,
+        "num": 1358491,
+        "word": "虞书欣方称绝不姑息造谣者",
+        "onboard_time": 1756369763,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1105450,
+        "num": 1105450,
+        "word": "中石油道歉",
+        "onboard_time": 1756371442,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42325,
+        "num": 791742,
+        "word": "2025江西省网络文明大会",
+        "onboard_time": 1756374144,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 700567,
+        "num": 700567,
+        "word": "中方回应九三阅兵无西方主要国家",
+        "onboard_time": 1756371683,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 547866,
+        "num": 547866,
+        "word": "中方回应有国家不愿出席九三阅兵",
+        "onboard_time": 1756374082,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 531587,
+        "num": 531587,
+        "word": "央视七夕晚会全阵容官宣",
+        "onboard_time": 1756375221,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 435401,
+        "num": 435401,
+        "word": "鸠山由纪夫参加九三阅兵",
+        "onboard_time": 1756366162,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393012,
+        "num": 393012,
+        "word": "虞书欣风波事关国有资产应有通报",
+        "onboard_time": 1756357343,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373370,
+        "num": 373370,
+        "word": "50升油箱加67.96升汽油调查结果",
+        "onboard_time": 1756368683,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 284116,
+        "num": 284116,
+        "word": "全国一年关停2.11万所幼儿园",
+        "onboard_time": 1756374742,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1098890,
+        "num": 283180,
+        "word": "Angelababy强忍眼泪",
+        "onboard_time": 1756369462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 965497,
+        "num": 281221,
+        "word": "特朗普下令全国哀悼",
+        "onboard_time": 1756373902,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 848073,
+        "num": 279318,
+        "word": "考官暗示女子系安全带被当骚扰",
+        "onboard_time": 1756372403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691380,
+        "num": 278969,
+        "word": "王俊凯照片被学校当作出入证模版",
+        "onboard_time": 1756373783,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595094,
+        "num": 276900,
+        "word": "马思纯因花少团决定戒药",
+        "onboard_time": 1756370184,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1067035,
+        "num": 275051,
+        "word": "痞幼仪态",
+        "onboard_time": 1756370963,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 542878,
+        "num": 273855,
+        "word": "朴灿烈瘦到脱相",
+        "onboard_time": 1756369102,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272280,
+        "num": 272280,
+        "word": "节目组放了董璇张维伊没字幕母带",
+        "onboard_time": 1756375764,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65802,
+        "num": 272049,
+        "word": "20万满血华为纯电SUV来了",
+        "onboard_time": 1756372823,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 69432,
+        "num": 262691,
+        "word": "国防部要求加快处置日遗化武进程",
+        "onboard_time": 1756375283,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307715,
+        "num": 254077,
+        "word": "官方通报成都加油站事件",
+        "onboard_time": 1756370303,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405216,
+        "num": 247821,
+        "word": "三只羊 复出",
+        "onboard_time": 1756356204,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 300805,
+        "num": 237968,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237195,
+        "num": 237195,
+        "word": "女生打100辆网约车实测空调自由率",
+        "onboard_time": 1756374442,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232185,
+        "num": 232185,
+        "word": "女子为爱辞职远嫁北京18年后被离婚",
+        "onboard_time": 1756375943,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222997,
+        "num": 222997,
+        "word": "董璇张维伊都怕对方老成父母样",
+        "onboard_time": 1756370184,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21443,
+        "num": 222685,
+        "word": "胡兵大使的含金量还在上升",
+        "onboard_time": 1756375402,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 190771,
+        "num": 221614,
+        "word": "百万粉丝网红癌症复发后仍在拍视频",
+        "onboard_time": 1756376302,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229185,
+        "num": 220073,
+        "word": "他只是分考少了又不是菜上少了",
+        "onboard_time": 1756373422,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28108,
+        "num": 218700,
+        "word": "文身哥双手抱头打卡坡子街派出所",
+        "onboard_time": 1756375283,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218058,
+        "num": 218058,
+        "word": "阴阳师",
+        "onboard_time": 1756375163,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17479,
+        "num": 208250,
+        "word": "陶喆鲁豫回首舞台之外十年",
+        "onboard_time": 1756371804,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198814,
+        "num": 198814,
+        "word": "易烊千玺投资了蒋奇明张艺凡新电影",
+        "onboard_time": 1756362142,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194812,
+        "num": 194812,
+        "word": "月经的本质是流血不是排毒",
+        "onboard_time": 1756368622,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175687,
+        "num": 175687,
+        "word": "王者荣耀",
+        "onboard_time": 1756370361,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174921,
+        "num": 174921,
+        "word": "国王被斩首128年后头颅归国",
+        "onboard_time": 1756375642,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160004,
+        "num": 160004,
+        "word": "女子生日当天遭家暴婆婆称打得好",
+        "onboard_time": 1756367242,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145175,
+        "num": 145175,
+        "word": "迷你Labubu实物被吐槽做工差",
+        "onboard_time": 1756373243,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 15102,
+        "num": 144908,
+        "word": "第一次见这样玩乒乓球的",
+        "onboard_time": 1756376302,
+        "rank": 38,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 15131,
+        "num": 144782,
+        "word": "20岁要学会投资自己",
+        "onboard_time": 1756375700,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144769,
+        "num": 144769,
+        "word": "小米发布超级岛",
+        "onboard_time": 1756369042,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144464,
+        "num": 144464,
+        "word": "压箱底的衣服千万别直接穿",
+        "onboard_time": 1756375342,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 142397,
+        "num": 142397,
+        "word": "刘浩存背头黑裙",
+        "onboard_time": 1756376062,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131205,
+        "num": 131205,
+        "word": "种地吧",
+        "onboard_time": 1756372162,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131104,
+        "num": 131104,
+        "word": "其实减肥失败是一件好事",
+        "onboard_time": 1756376422,
+        "rank": 44,
+        "category": "体育,运动健身"
+      },
+      {
+        "raw_hot": 129759,
+        "num": 129759,
+        "word": "日本妄图给中国九三阅兵按下暂停键",
+        "onboard_time": 1756362742,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122774,
+        "num": 122774,
+        "word": "平均身高169的IVE遇上straykids",
+        "onboard_time": 1756374504,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68293,
+        "num": 120474,
+        "word": "美明尼苏达枪击案按恐怖主义调查",
+        "onboard_time": 1756376123,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119520,
+        "num": 119520,
+        "word": "33岁发现自己断崖式衰老了",
+        "onboard_time": 1756374442,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115183,
+        "num": 115183,
+        "word": "易烊千玺演唱会后台的嗡鸣",
+        "onboard_time": 1756376843,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家和民族兴旺发达的根本所在#"
+    }
+  }
+}
