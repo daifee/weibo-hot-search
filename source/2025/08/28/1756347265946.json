@@ -1,0 +1,410 @@
+{
+  "runTime": 1756347265946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 920759,
+        "num": 1147321,
+        "word": "蜜雪冰城回应网友玩梗蜜鼠冰城",
+        "onboard_time": 1756342882,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660372,
+        "num": 660372,
+        "word": "上海一小学今年仅招到22人",
+        "onboard_time": 1756345581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24155,
+        "num": 481089,
+        "word": "中国蓝盔卫士亮相九三阅兵",
+        "onboard_time": 1756288462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 446285,
+        "num": 446285,
+        "word": "言承旭上恋综就像老鼠掉进米缸",
+        "onboard_time": 1756339582,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436819,
+        "num": 436819,
+        "word": "男子失踪9年后被找回牙齿已掉光",
+        "onboard_time": 1756342581,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424780,
+        "num": 424780,
+        "word": "细菌战幸存者又被731做活体实验",
+        "onboard_time": 1756342942,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327806,
+        "num": 327806,
+        "word": "中国抗战阅兵以来日本砸560亿搞公关",
+        "onboard_time": 1756310122,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327552,
+        "num": 327552,
+        "word": "抗战胜利80周年纪念币",
+        "onboard_time": 1756345461,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280891,
+        "num": 280891,
+        "word": "香港演员段伟伦去世",
+        "onboard_time": 1756340181,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144723,
+        "num": 280445,
+        "word": "阅兵筹备进展发布会",
+        "onboard_time": 1756346721,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1132057,
+        "num": 279666,
+        "word": "两男生开房住宿坐断床头柜",
+        "onboard_time": 1756337781,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 873786,
+        "num": 278213,
+        "word": "金子涵剃寸头",
+        "onboard_time": 1756336879,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603725,
+        "num": 276600,
+        "word": "南京大学33岁女教师离世",
+        "onboard_time": 1756339281,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292812,
+        "num": 275208,
+        "word": "男子找回2岁女儿狠扇自己耳光",
+        "onboard_time": 1756338200,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467823,
+        "num": 274550,
+        "word": "男子杀妻因抑郁发作被判死缓最新进展",
+        "onboard_time": 1756335737,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354919,
+        "num": 273569,
+        "word": "医生给梓渝的建议是需要手术",
+        "onboard_time": 1756339462,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272402,
+        "num": 272402,
+        "word": "日本没有资格说三道四",
+        "onboard_time": 1756344020,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257780,
+        "num": 257780,
+        "word": "ZionT新歌表白孙彩瑛",
+        "onboard_time": 1756342882,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189331,
+        "num": 211973,
+        "word": "郑佩佩儿子为妻子再次众筹医药费",
+        "onboard_time": 1756303285,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56692,
+        "num": 209938,
+        "word": "南美厄瓜多尔玫瑰被京东包了",
+        "onboard_time": 1756346901,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209654,
+        "num": 209654,
+        "word": "张馨予 为啥补货啊姐一直在",
+        "onboard_time": 1756326193,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203054,
+        "num": 203054,
+        "word": "清华大学宿舍的真实环境",
+        "onboard_time": 1756338200,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190429,
+        "num": 190429,
+        "word": "Angelababy鞠婧祎娜扎直播状态",
+        "onboard_time": 1756342162,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145823,
+        "num": 189354,
+        "word": "官方通报酒店浴缸口冒出红线虫",
+        "onboard_time": 1756341203,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 188632,
+        "num": 188632,
+        "word": "kpop闯中新模板",
+        "onboard_time": 1756346360,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186005,
+        "num": 186005,
+        "word": "小猫为了喝水被电麻了",
+        "onboard_time": 1756343902,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171819,
+        "num": 171819,
+        "word": "这些习惯是血糖刺客",
+        "onboard_time": 1756346121,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157188,
+        "num": 162844,
+        "word": "00后短剧女演员确诊胃癌",
+        "onboard_time": 1756301426,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154714,
+        "num": 161157,
+        "word": "王俊凯狄仁杰之三尸九虫杀青",
+        "onboard_time": 1756345521,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109054,
+        "num": 161000,
+        "word": "宋亚轩李庚希或将合作",
+        "onboard_time": 1756342042,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160973,
+        "num": 160973,
+        "word": "美国男子向一屋子儿童开枪",
+        "onboard_time": 1756342581,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152082,
+        "num": 152082,
+        "word": "酒店浴缸 红线虫",
+        "onboard_time": 1756297224,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 151614,
+        "num": 151614,
+        "word": "何晟铭 我叫白月光",
+        "onboard_time": 1756346601,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147829,
+        "num": 147829,
+        "word": "龚琳娜一开口就是盛世大唐",
+        "onboard_time": 1756345941,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129135,
+        "num": 129135,
+        "word": "女子暴力阻止大爷抽烟",
+        "onboard_time": 1756341264,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120647,
+        "num": 120647,
+        "word": "9个细节提前解码阅兵",
+        "onboard_time": 1756342942,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120535,
+        "num": 120535,
+        "word": "研究人员向间谍出卖大量资料",
+        "onboard_time": 1756340603,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115775,
+        "num": 115775,
+        "word": "英国女子收留黑人流浪汉后被杀",
+        "onboard_time": 1756346781,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113142,
+        "num": 113142,
+        "word": "男子三亚游泳溺水妻子崩溃大哭",
+        "onboard_time": 1756305445,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112282,
+        "num": 112282,
+        "word": "第五人格",
+        "onboard_time": 1756345401,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110424,
+        "num": 110424,
+        "word": "梓渝摇2.0版",
+        "onboard_time": 1756336999,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106430,
+        "num": 106430,
+        "word": "只有一个白人的英国公交车",
+        "onboard_time": 1756344202,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103983,
+        "num": 103983,
+        "word": "iOS26焕新应用图标",
+        "onboard_time": 1756340482,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102238,
+        "num": 102238,
+        "word": "王源说大不了一星期不说话",
+        "onboard_time": 1756306705,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101873,
+        "num": 101873,
+        "word": "朋友圈没有了生活的痕迹",
+        "onboard_time": 1756339582,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101460,
+        "num": 101460,
+        "word": "火箭军帅到让人忘记呼吸",
+        "onboard_time": 1756342942,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99077,
+        "num": 99077,
+        "word": "四川广东局地大暴雨",
+        "onboard_time": 1756347200,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96019,
+        "num": 96019,
+        "word": "美团利润大跌89%",
+        "onboard_time": 1756299262,
+        "rank": 47,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 94838,
+        "num": 94838,
+        "word": "30岁人生才刚刚开始啊",
+        "onboard_time": 1756341023,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94519,
+        "num": 94519,
+        "word": "抗战胜利80周年纪念币即将发行",
+        "onboard_time": 1756346840,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}

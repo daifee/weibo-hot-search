@@ -1,10 +1,10 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756345952192,
+  "endTime": 1756347265946,
   "band_list": [
     {
       "raw_hot": 1287812,
-      "num": 233737,
+      "num": 279666,
       "word": "两男生开房住宿坐断床头柜",
       "onboard_time": 1756337781,
       "rank": 36,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1001611,
-      "num": 231216,
+      "num": 278213,
       "word": "金子涵剃寸头",
       "onboard_time": 1756336879,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 920759,
+      "num": 1147321,
+      "word": "蜜雪冰城回应网友玩梗蜜鼠冰城",
+      "onboard_time": 1756342882,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 775905,
@@ -35,8 +43,16 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 660372,
+      "num": 660372,
+      "word": "上海一小学今年仅招到22人",
+      "onboard_time": 1756345581,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 653119,
-      "num": 228693,
+      "num": 274550,
       "word": "男子杀妻因抑郁发作被判死缓最新进展",
       "onboard_time": 1756335737,
       "rank": 32,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 633348,
-      "num": 225401,
+      "num": 276600,
       "word": "南京大学33岁女教师离世",
       "onboard_time": 1756339281,
       "rank": 13,
@@ -83,18 +99,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 577564,
-      "num": 577564,
-      "word": "蜜雪冰城回应网友玩梗蜜鼠冰城",
-      "onboard_time": 1756342882,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 449630,
       "num": 449630,
       "word": "男子三亚游泳溺水妻子崩溃大哭",
       "onboard_time": 1756305445,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436819,
+      "num": 436819,
+      "word": "男子失踪9年后被找回牙齿已掉光",
+      "onboard_time": 1756342581,
       "rank": 4,
       "category": "民生新闻"
     },
@@ -104,14 +120,6 @@
       "word": "细菌战幸存者又被731做活体实验",
       "onboard_time": 1756342942,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 379736,
-      "num": 379736,
-      "word": "男子失踪9年后被找回牙齿已掉光",
-      "onboard_time": 1756342581,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -139,6 +147,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 354919,
+      "num": 273569,
+      "word": "医生给梓渝的建议是需要手术",
+      "onboard_time": 1756339462,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351341,
       "num": 351341,
       "word": "男子找回2岁女儿狠扇自己耳光",
@@ -155,19 +171,19 @@
       "category": "健康医疗,艺人"
     },
     {
+      "raw_hot": 327552,
+      "num": 327552,
+      "word": "抗战胜利80周年纪念币",
+      "onboard_time": 1756345461,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 325928,
       "num": 178118,
       "word": "张伦硕报警",
       "onboard_time": 1756301844,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 322057,
-      "num": 224408,
-      "word": "医生给梓渝的建议是需要手术",
-      "onboard_time": 1756339462,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -217,6 +233,14 @@
       "onboard_time": 1756308564,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 257780,
+      "num": 257780,
+      "word": "ZionT新歌表白孙彩瑛",
+      "onboard_time": 1756342882,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 256470,
@@ -275,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205407,
-      "num": 185144,
-      "word": "ZionT新歌表白孙彩瑛",
-      "onboard_time": 1756342882,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 202087,
       "num": 202087,
       "word": "北京全市已转移5.8万人",
@@ -297,6 +313,30 @@
       "onboard_time": 1756300526,
       "rank": 8,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 190429,
+      "num": 190429,
+      "word": "Angelababy鞠婧祎娜扎直播状态",
+      "onboard_time": 1756342162,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188632,
+      "num": 188632,
+      "word": "kpop闯中新模板",
+      "onboard_time": 1756346360,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186005,
+      "num": 186005,
+      "word": "小猫为了喝水被电麻了",
+      "onboard_time": 1756343902,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 185130,
@@ -315,20 +355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158968,
-      "num": 158968,
-      "word": "小猫为了喝水被电麻了",
-      "onboard_time": 1756343902,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 171819,
+      "num": 171819,
+      "word": "这些习惯是血糖刺客",
+      "onboard_time": 1756346121,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 158863,
-      "num": 158863,
-      "word": "Angelababy鞠婧祎娜扎直播状态",
-      "onboard_time": 1756342162,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 160973,
+      "num": 160973,
+      "word": "美国男子向一屋子儿童开枪",
+      "onboard_time": 1756342581,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157679,
@@ -337,6 +377,14 @@
       "onboard_time": 1756329854,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154714,
+      "num": 161157,
+      "word": "王俊凯狄仁杰之三尸九虫杀青",
+      "onboard_time": 1756345521,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 154527,
@@ -355,20 +403,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151913,
-      "num": 185157,
-      "word": "抗战胜利80周年纪念币",
-      "onboard_time": 1756345461,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 151614,
+      "num": 151614,
+      "word": "何晟铭 我叫白月光",
+      "onboard_time": 1756346601,
+      "rank": 32,
+      "category": "艺人"
     },
     {
-      "raw_hot": 146192,
-      "num": 146192,
-      "word": "美国男子向一屋子儿童开枪",
-      "onboard_time": 1756342581,
-      "rank": 34,
-      "category": "海外新闻"
+      "raw_hot": 147829,
+      "num": 147829,
+      "word": "龚琳娜一开口就是盛世大唐",
+      "onboard_time": 1756345941,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 145823,
+      "num": 189354,
+      "word": "官方通报酒店浴缸口冒出红线虫",
+      "onboard_time": 1756341203,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 145111,
@@ -379,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144723,
+      "num": 280445,
+      "word": "阅兵筹备进展发布会",
+      "onboard_time": 1756346721,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143492,
       "num": 150709,
       "word": "研究人员向间谍出卖大量资料",
       "onboard_time": 1756340603,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136854,
-      "num": 154386,
-      "word": "王俊凯狄仁杰之三尸九虫杀青",
-      "onboard_time": 1756345521,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 136457,
@@ -444,7 +500,7 @@
     },
     {
       "raw_hot": 117763,
-      "num": 152540,
+      "num": 161000,
       "word": "宋亚轩李庚希或将合作",
       "onboard_time": 1756342042,
       "rank": 28,
@@ -467,6 +523,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 115775,
+      "num": 115775,
+      "word": "英国女子收留黑人流浪汉后被杀",
+      "onboard_time": 1756346781,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112282,
+      "num": 112282,
+      "word": "第五人格",
+      "onboard_time": 1756345401,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110842,
       "num": 128246,
       "word": "野狗骨头",
@@ -481,22 +553,6 @@
       "onboard_time": 1756296444,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109946,
-      "num": 149825,
-      "word": "官方通报酒店浴缸口冒出红线虫",
-      "onboard_time": 1756341203,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 108491,
-      "num": 108491,
-      "word": "第五人格",
-      "onboard_time": 1756345401,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 106304,
@@ -515,6 +571,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 103983,
+      "num": 103983,
+      "word": "iOS26焕新应用图标",
+      "onboard_time": 1756340482,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 103329,
       "num": 103329,
       "word": "30岁人生才刚刚开始啊",
@@ -531,19 +595,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101513,
-      "num": 101513,
-      "word": "iOS26焕新应用图标",
-      "onboard_time": 1756340482,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 98965,
-      "num": 185543,
-      "word": "上海一小学今年仅招到22人",
-      "onboard_time": 1756345581,
-      "rank": 18,
+      "raw_hot": 99077,
+      "num": 99077,
+      "word": "四川广东局地大暴雨",
+      "onboard_time": 1756347200,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -561,6 +617,14 @@
       "onboard_time": 1756338682,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94519,
+      "num": 94519,
+      "word": "抗战胜利80周年纪念币即将发行",
+      "onboard_time": 1756346840,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92929,
@@ -785,6 +849,14 @@
       "onboard_time": 1756336158,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56692,
+      "num": 209938,
+      "word": "南美厄瓜多尔玫瑰被京东包了",
+      "onboard_time": 1756346901,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53373,
