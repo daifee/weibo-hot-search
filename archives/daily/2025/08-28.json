@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756370814250,
+  "endTime": 1756373250498,
   "band_list": [
     {
       "raw_hot": 2777942,
@@ -43,6 +43,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1702555,
+      "num": 472097,
+      "word": "Angelababy强忍眼泪",
+      "onboard_time": 1756369462,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1298925,
       "num": 1298925,
       "word": "家长建议禁止学生带电话手表上学",
@@ -57,6 +65,14 @@
       "onboard_time": 1756337781,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1210659,
+      "num": 459148,
+      "word": "痞幼仪态",
+      "onboard_time": 1756370963,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1176523,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 961215,
-      "num": 416549,
+      "num": 426292,
       "word": "朴灿烈瘦到脱相",
       "onboard_time": 1756369102,
       "rank": 10,
@@ -171,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 792945,
+      "num": 792945,
+      "word": "马思纯因花少团决定戒药",
+      "onboard_time": 1756370184,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 791362,
       "num": 398662,
       "word": "安妮海瑟薇摔倒后优雅起身",
@@ -185,6 +209,14 @@
       "onboard_time": 1756306705,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 773912,
+      "num": 773912,
+      "word": "中方回应九三阅兵无西方主要国家",
+      "onboard_time": 1756371683,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 759235,
@@ -216,14 +248,6 @@
       "word": "虞书欣曾回应家里有矿",
       "onboard_time": 1756361843,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 734204,
-      "num": 411664,
-      "word": "Angelababy强忍眼泪",
-      "onboard_time": 1756369462,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -339,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 576660,
+      "num": 576660,
+      "word": "种地吧",
+      "onboard_time": 1756372162,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556881,
       "num": 556881,
       "word": "外嫁女 征地补偿",
@@ -353,6 +385,14 @@
       "onboard_time": 1756347683,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532733,
+      "num": 532733,
+      "word": "中石油道歉",
+      "onboard_time": 1756371442,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 498391,
@@ -459,6 +499,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 376940,
+      "num": 422395,
+      "word": "官方通报成都加油站事件",
+      "onboard_time": 1756370303,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375752,
       "num": 375752,
       "word": "月经的本质是流血不是排毒",
@@ -505,6 +553,14 @@
       "onboard_time": 1756365563,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 362951,
+      "num": 362951,
+      "word": "考官暗示女子系安全带被当骚扰",
+      "onboard_time": 1756372403,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357081,
@@ -561,6 +617,14 @@
       "onboard_time": 1756349542,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299911,
+      "num": 299911,
+      "word": "王者荣耀",
+      "onboard_time": 1756370361,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 295529,
@@ -625,6 +689,14 @@
       "onboard_time": 1756309523,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273625,
+      "num": 394415,
+      "word": "董璇张维伊都怕对方老成父母样",
+      "onboard_time": 1756370184,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 270180,
@@ -707,14 +779,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 239923,
-      "num": 239923,
-      "word": "王者荣耀",
-      "onboard_time": 1756370361,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 238365,
       "num": 238365,
       "word": "小米发布超级岛",
@@ -747,14 +811,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 235511,
-      "num": 422395,
-      "word": "官方通报成都加油站事件",
-      "onboard_time": 1756370303,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234348,
       "num": 194820,
       "word": "00后两男生开房住宿留下满床辣条油",
@@ -785,6 +841,14 @@
       "onboard_time": 1756357823,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224749,
+      "num": 224749,
+      "word": "浙江的厕所太超前了",
+      "onboard_time": 1756371382,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222677,
@@ -1035,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186423,
+      "num": 186423,
+      "word": "七夕的做梦素材有了",
+      "onboard_time": 1756373002,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186005,
       "num": 186005,
       "word": "小猫为了喝水被电麻了",
@@ -1099,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179844,
-      "num": 391082,
-      "word": "马思纯因花少团决定戒药",
-      "onboard_time": 1756370184,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179792,
       "num": 264736,
       "word": "三折叠怎么折都全面",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1756353323,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173233,
+      "num": 173233,
+      "word": "张予曦毕雯珺二搭三搭勾勾搭搭",
+      "onboard_time": 1756372943,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 172621,
@@ -1283,6 +1355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 158181,
+      "num": 158181,
+      "word": "花海cha了时团新歌",
+      "onboard_time": 1756371203,
+      "rank": 45,
+      "category": "电竞,音乐"
+    },
+    {
       "raw_hot": 157811,
       "num": 157811,
       "word": "鸟叔公开道歉",
@@ -1323,6 +1403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156629,
+      "num": 380759,
+      "word": "20万满血华为纯电SUV来了",
+      "onboard_time": 1756372823,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 156606,
       "num": 210908,
       "word": "徐如蓝刘子晗上恋综不需要助攻",
@@ -1361,6 +1449,14 @@
       "onboard_time": 1756300584,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152881,
+      "num": 152881,
+      "word": "从预约好的那一刻就开始幸福了",
+      "onboard_time": 1756372283,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 152500,
@@ -1683,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125911,
+      "num": 531548,
+      "word": "国防部回应日本砸560亿公关",
+      "onboard_time": 1756371683,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125910,
       "num": 125910,
       "word": "武汉江夏警方辟谣双胞胎学生跳楼",
@@ -1697,6 +1801,14 @@
       "onboard_time": 1756339582,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122338,
+      "num": 186706,
+      "word": "王灿兮增肥十斤",
+      "onboard_time": 1756372102,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 121966,
@@ -1963,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94017,
+      "num": 305286,
+      "word": "上海好多人偶遇张真源",
+      "onboard_time": 1756372703,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93553,
       "num": 149244,
       "word": "何晟铭独白 愿来生不见不欠不念",
@@ -2139,20 +2259,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71241,
-      "num": 387180,
-      "word": "董璇张维伊都怕对方老成父母样",
-      "onboard_time": 1756370184,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 71029,
       "num": 126204,
       "word": "小酒窝出演宋佳佟丽娅电影",
       "onboard_time": 1756363042,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 69884,
+      "num": 392982,
+      "word": "懒人洗衣机空间管理大师",
+      "onboard_time": 1756370123,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 68858,
@@ -2331,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50587,
+      "num": 158271,
+      "word": "长沙现假装上班公司一个工位20元",
+      "onboard_time": 1756371683,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49192,
       "num": 171650,
       "word": "回乡创业1年卖4000万只老鼠",
@@ -2347,20 +2475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46835,
-      "num": 381828,
-      "word": "懒人洗衣机空间管理大师",
-      "onboard_time": 1756370123,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 46721,
       "num": 425154,
       "word": "熙游记开启极境之旅",
       "onboard_time": 1756352421,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 43903,
+      "num": 300403,
+      "word": "陶喆鲁豫回首舞台之外十年",
+      "onboard_time": 1756371804,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 43283,
@@ -2408,6 +2536,14 @@
       "word": "北京最大降雨量79.6毫米",
       "onboard_time": 1756329073,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39279,
+      "num": 301409,
+      "word": "男子两度冲进火场救妻子双双被烧伤",
+      "onboard_time": 1756371743,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2468,7 +2604,7 @@
     },
     {
       "raw_hot": 37336,
-      "num": 339083,
+      "num": 385365,
       "word": "七夕对象基础礼物就不基础",
       "onboard_time": 1756369943,
       "rank": 36,
@@ -2561,6 +2697,14 @@
       "onboard_time": 1756315996,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25998,
+      "num": 186556,
+      "word": "张萌探班李昀锐张康乐",
+      "onboard_time": 1756373121,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 23679,
