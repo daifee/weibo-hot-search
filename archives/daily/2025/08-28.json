@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756363061112,
+  "endTime": 1756363845845,
   "band_list": [
     {
       "raw_hot": 2170191,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698800,
+      "num": 552163,
+      "word": "易烊千玺投资了蒋奇明张艺凡新电影",
+      "onboard_time": 1756362142,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 669967,
       "num": 669967,
       "word": "酒店浴缸 红线虫",
@@ -208,6 +216,14 @@
       "word": "曹璐宣布FIESTAR签约半年解约",
       "onboard_time": 1756349963,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 625918,
+      "num": 301241,
+      "word": "虞书欣曾回应家里有矿",
+      "onboard_time": 1756361843,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551844,
+      "num": 551844,
+      "word": "家长建议禁止学生带电话手表上学",
+      "onboard_time": 1756360703,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 497627,
       "num": 269509,
       "word": "长期运动的人一眼就能看出来",
@@ -281,14 +305,6 @@
       "onboard_time": 1756351701,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 477288,
-      "num": 301241,
-      "word": "虞书欣曾回应家里有矿",
-      "onboard_time": 1756361843,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 455407,
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364229,
-      "num": 294200,
-      "word": "易烊千玺投资了蒋奇明张艺凡新电影",
-      "onboard_time": 1756362142,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 363825,
       "num": 363825,
       "word": "深圳一小区被曝有隐藏豪华建筑",
@@ -400,14 +408,6 @@
       "word": "95后花4万元办三无婚礼",
       "onboard_time": 1756347261,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350077,
-      "num": 350077,
-      "word": "家长建议禁止学生带电话手表上学",
-      "onboard_time": 1756360703,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277528,
+      "num": 277528,
+      "word": "外嫁女 征地补偿",
+      "onboard_time": 1756361901,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270180,
       "num": 270180,
       "word": "欢乐颂四美宣传王子文新剧",
@@ -587,6 +595,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 237195,
+      "num": 232657,
+      "word": "又有内娱男爱豆被送去种地了",
+      "onboard_time": 1756360822,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236513,
       "num": 236513,
       "word": "张智霖曝儿子下个月出国留学",
@@ -609,14 +625,6 @@
       "onboard_time": 1756348701,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232657,
-      "num": 232657,
-      "word": "又有内娱男爱豆被送去种地了",
-      "onboard_time": 1756360822,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 230502,
@@ -683,12 +691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208393,
+      "num": 208393,
+      "word": "浙江厕所 玉虚宫",
+      "onboard_time": 1756361843,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206654,
       "num": 307260,
       "word": "翘楚",
       "onboard_time": 1756351222,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205710,
+      "num": 205710,
+      "word": "杨幂的穿搭无须多言",
+      "onboard_time": 1756360344,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 204485,
@@ -705,14 +729,6 @@
       "onboard_time": 1756351821,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 202157,
-      "num": 202157,
-      "word": "杨幂的穿搭无须多言",
-      "onboard_time": 1756360344,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 202135,
@@ -753,6 +769,14 @@
       "onboard_time": 1756355122,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191313,
+      "num": 232417,
+      "word": "中国人凭什么胜利",
+      "onboard_time": 1756362803,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 191089,
@@ -899,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178614,
+      "num": 192151,
+      "word": "日本妄图给中国九三阅兵按下暂停键",
+      "onboard_time": 1756362742,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178034,
       "num": 178034,
       "word": "家具长期不换会有什么危害",
@@ -968,14 +1000,6 @@
       "word": "非亲生儿子称父亲是受害者",
       "onboard_time": 1756351222,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167203,
-      "num": 167203,
-      "word": "浙江厕所 玉虚宫",
-      "onboard_time": 1756361843,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1051,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153807,
-      "num": 192151,
-      "word": "日本妄图给中国九三阅兵按下暂停键",
-      "onboard_time": 1756362742,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 153682,
       "num": 153682,
       "word": "女子幽闭恐惧症隧道内弃车行走",
@@ -1113,14 +1129,6 @@
       "onboard_time": 1756345941,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147345,
-      "num": 187487,
-      "word": "中国人凭什么胜利",
-      "onboard_time": 1756362803,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 146367,
@@ -1219,14 +1227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 138422,
-      "num": 222958,
-      "word": "外嫁女 征地补偿",
-      "onboard_time": 1756361901,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136473,
       "num": 136473,
       "word": "陈自瑶否认和王浩信参加再见爱人",
@@ -1313,6 +1313,22 @@
       "onboard_time": 1756349120,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132568,
+      "num": 132568,
+      "word": "外交部重磅视频脊梁",
+      "onboard_time": 1756363463,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 128942,
+      "num": 142954,
+      "word": "女孩因被大爷碰到胳膊情绪崩溃",
+      "onboard_time": 1756362502,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127567,
@@ -1451,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107852,
+      "num": 107852,
+      "word": "年轻人胃癌发病率30年翻一番",
+      "onboard_time": 1756363642,
+      "rank": 43,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 106968,
       "num": 179271,
       "word": "桶装水竟然也有假水",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1756358424,
       "rank": 38,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 105727,
+      "num": 105727,
+      "word": "王星越 我同意开学",
+      "onboard_time": 1756361301,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 104648,
@@ -1545,6 +1577,14 @@
       "onboard_time": 1756338682,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97386,
+      "num": 103318,
+      "word": "苹果回应iPhone防晕车功能",
+      "onboard_time": 1756363642,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 94519,
@@ -1723,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71029,
+      "num": 126204,
+      "word": "小酒窝出演宋佳佟丽娅电影",
+      "onboard_time": 1756363042,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 68858,
       "num": 68858,
       "word": "最省成本的短剧出现了",
@@ -1760,14 +1808,6 @@
       "word": "美团闪购联名花太好看了",
       "onboard_time": 1756355483,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63132,
-      "num": 142954,
-      "word": "女孩因被大爷碰到胳膊情绪崩溃",
-      "onboard_time": 1756362502,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1860,7 +1900,7 @@
     },
     {
       "raw_hot": 51893,
-      "num": 450893,
+      "num": 552318,
       "word": "千里跃进大别山",
       "onboard_time": 1756357223,
       "rank": 2,
@@ -1905,6 +1945,22 @@
       "onboard_time": 1756349542,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42075,
+      "num": 187714,
+      "word": "三只羊客服回应网传复出",
+      "onboard_time": 1756362742,
+      "rank": 29,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 41800,
+      "num": 118323,
+      "word": "董璇秒赞网友与张维伊AI合照",
+      "onboard_time": 1756363702,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 40882,
@@ -1979,14 +2035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35332,
-      "num": 187714,
-      "word": "三只羊客服回应网传复出",
-      "onboard_time": 1756362742,
-      "rank": 29,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 33347,
       "num": 210521,
       "word": "收女友10余万礼物男方家属称算赠与",
@@ -2049,14 +2097,6 @@
       "onboard_time": 1756315996,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24576,
-      "num": 126204,
-      "word": "小酒窝出演宋佳佟丽娅电影",
-      "onboard_time": 1756363042,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 23679,

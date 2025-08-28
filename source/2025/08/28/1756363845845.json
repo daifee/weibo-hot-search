@@ -1,0 +1,410 @@
+{
+  "runTime": 1756363845845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1839145,
+        "num": 1839145,
+        "word": "虞书欣风波事关国有资产应有通报",
+        "onboard_time": 1756357343,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692152,
+        "num": 692152,
+        "word": "原来体香是可以养出来的",
+        "onboard_time": 1756358243,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38027,
+        "num": 552318,
+        "word": "千里跃进大别山",
+        "onboard_time": 1756357223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698800,
+        "num": 552163,
+        "word": "易烊千玺投资了蒋奇明张艺凡新电影",
+        "onboard_time": 1756362142,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 551844,
+        "num": 551844,
+        "word": "家长建议禁止学生带电话手表上学",
+        "onboard_time": 1756360703,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277528,
+        "num": 277528,
+        "word": "外嫁女 征地补偿",
+        "onboard_time": 1756361901,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625918,
+        "num": 268648,
+        "word": "虞书欣曾回应家里有矿",
+        "onboard_time": 1756361843,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238532,
+        "num": 238532,
+        "word": "毛晓彤签约心心传媒",
+        "onboard_time": 1756354463,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232762,
+        "num": 232762,
+        "word": "普京和金正恩等出席抗战纪念活动",
+        "onboard_time": 1756347261,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191313,
+        "num": 232417,
+        "word": "中国人凭什么胜利",
+        "onboard_time": 1756362803,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 669968,
+        "num": 232072,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 637366,
+        "num": 231139,
+        "word": "女子放生一麻袋蛇",
+        "onboard_time": 1756356744,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587423,
+        "num": 230368,
+        "word": "李晟 我太同意开学了",
+        "onboard_time": 1756355243,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521317,
+        "num": 230203,
+        "word": "姜思达给吴京10个人生建议",
+        "onboard_time": 1756356444,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479988,
+        "num": 229672,
+        "word": "女子糟蹋20多个酒店免费鸡蛋",
+        "onboard_time": 1756354463,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449394,
+        "num": 228989,
+        "word": "张檬机场头盖布给儿子喂母乳",
+        "onboard_time": 1756352181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237195,
+        "num": 228216,
+        "word": "又有内娱男爱豆被送去种地了",
+        "onboard_time": 1756360822,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227969,
+        "num": 227969,
+        "word": "长期运动的人一眼就能看出来",
+        "onboard_time": 1756359021,
+        "rank": 17,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 225957,
+        "num": 225957,
+        "word": "抗战胜利80周年活动答记者问",
+        "onboard_time": 1756359862,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225469,
+        "num": 225469,
+        "word": "女子称被不知名男同事砸头毁容",
+        "onboard_time": 1756355543,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251237,
+        "num": 224361,
+        "word": "真夫妻kisskiss我shyshy",
+        "onboard_time": 1756349242,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208393,
+        "num": 208393,
+        "word": "浙江厕所 玉虚宫",
+        "onboard_time": 1756361843,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205710,
+        "num": 205710,
+        "word": "杨幂的穿搭无须多言",
+        "onboard_time": 1756360344,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178614,
+        "num": 178614,
+        "word": "日本妄图给中国九三阅兵按下暂停键",
+        "onboard_time": 1756362742,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177331,
+        "num": 177331,
+        "word": "安妮海瑟薇摔倒后优雅起身",
+        "onboard_time": 1756353981,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175849,
+        "num": 175849,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1756362382,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170800,
+        "num": 170800,
+        "word": "金子涵剃寸头",
+        "onboard_time": 1756336879,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141008,
+        "num": 141008,
+        "word": "南京大学回应33岁女教师离世",
+        "onboard_time": 1756351701,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139600,
+        "num": 139600,
+        "word": "29岁男子和两富婆姐弟恋骗走近2000万",
+        "onboard_time": 1756359982,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42075,
+        "num": 132627,
+        "word": "三只羊客服回应网传复出",
+        "onboard_time": 1756362742,
+        "rank": 29,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 1017520,
+        "num": 132602,
+        "word": "三只羊 复出",
+        "onboard_time": 1756356204,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132568,
+        "num": 132568,
+        "word": "外交部重磅视频脊梁",
+        "onboard_time": 1756363463,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128942,
+        "num": 128942,
+        "word": "女孩因被大爷碰到胳膊情绪崩溃",
+        "onboard_time": 1756362502,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115693,
+        "num": 128257,
+        "word": "刘宇宁的确很抢手",
+        "onboard_time": 1756362923,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127986,
+        "num": 127986,
+        "word": "宋雨琦章昊开团秒跟这一块",
+        "onboard_time": 1756362081,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124774,
+        "num": 124774,
+        "word": "男子接住前座摔落男孩反遭家长冷眼",
+        "onboard_time": 1756360883,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124700,
+        "num": 124700,
+        "word": "时代少年团也追星了",
+        "onboard_time": 1756357823,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122580,
+        "num": 122580,
+        "word": "许凯一个动作让田曦薇笑不停",
+        "onboard_time": 1756362200,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41800,
+        "num": 118323,
+        "word": "董璇秒赞网友与张维伊AI合照",
+        "onboard_time": 1756363702,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71029,
+        "num": 117959,
+        "word": "小酒窝出演宋佳佟丽娅电影",
+        "onboard_time": 1756363042,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117877,
+        "num": 117877,
+        "word": "黄子韬说龚俊和徐艺洋一个待遇",
+        "onboard_time": 1756360222,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114171,
+        "num": 114171,
+        "word": "两男生开房住宿坐断床头柜",
+        "onboard_time": 1756337781,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37950,
+        "num": 110707,
+        "word": "苏超球迷七夕领证从对手变队友",
+        "onboard_time": 1756359261,
+        "rank": 42,
+        "category": "体育,情感"
+      },
+      {
+        "raw_hot": 107852,
+        "num": 107852,
+        "word": "年轻人胃癌发病率30年翻一番",
+        "onboard_time": 1756363642,
+        "rank": 43,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 107537,
+        "num": 107537,
+        "word": "日本没有资格说三道四",
+        "onboard_time": 1756344020,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107017,
+        "num": 107017,
+        "word": "2025中国民营企业500强发布",
+        "onboard_time": 1756357583,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105727,
+        "num": 105727,
+        "word": "王星越 我同意开学",
+        "onboard_time": 1756361301,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104169,
+        "num": 104169,
+        "word": "孙颖莎T杂志",
+        "onboard_time": 1756350802,
+        "rank": 47,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 97386,
+        "num": 103318,
+        "word": "苹果回应iPhone防晕车功能",
+        "onboard_time": 1756363642,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87718,
+        "num": 103310,
+        "word": "孙颖莎T锦绣九月刊封面",
+        "onboard_time": 1756361960,
+        "rank": 49,
+        "category": "体育,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬结成风雨同舟的铁杆友谊#"
+    }
+  }
+}

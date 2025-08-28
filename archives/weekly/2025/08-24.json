@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756363061112,
+  "endTime": 1756363845845,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -1355,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 698800,
+      "num": 552163,
+      "word": "易烊千玺投资了蒋奇明张艺凡新电影",
+      "onboard_time": 1756362142,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 692113,
       "num": 692113,
       "word": "警方回应女子持刀被壮汉制服",
@@ -1600,6 +1608,14 @@
       "word": "曹璐宣布FIESTAR签约半年解约",
       "onboard_time": 1756349963,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 625918,
+      "num": 301241,
+      "word": "虞书欣曾回应家里有矿",
+      "onboard_time": 1756361843,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -2027,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551844,
+      "num": 551844,
+      "word": "家长建议禁止学生带电话手表上学",
+      "onboard_time": 1756360703,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551464,
       "num": 551464,
       "word": "IVE回归",
@@ -2401,14 +2425,6 @@
       "onboard_time": 1756195463,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 477288,
-      "num": 301241,
-      "word": "虞书欣曾回应家里有矿",
-      "onboard_time": 1756361843,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 473492,
@@ -3227,14 +3243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 364229,
-      "num": 294200,
-      "word": "易烊千玺投资了蒋奇明张艺凡新电影",
-      "onboard_time": 1756362142,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 363396,
       "num": 363396,
       "word": "用信用卡12年才知每年被扣2600元",
@@ -3344,14 +3352,6 @@
       "word": "95后花4万元办三无婚礼",
       "onboard_time": 1756347261,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350077,
-      "num": 350077,
-      "word": "家长建议禁止学生带电话手表上学",
-      "onboard_time": 1756360703,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -3873,6 +3873,14 @@
       "onboard_time": 1756092022,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277528,
+      "num": 277528,
+      "word": "外嫁女 征地补偿",
+      "onboard_time": 1756361901,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277054,
@@ -4435,6 +4443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 237195,
+      "num": 232657,
+      "word": "又有内娱男爱豆被送去种地了",
+      "onboard_time": 1756360822,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236634,
       "num": 194327,
       "word": "谁懂那英李沁对视这一下",
@@ -4545,14 +4561,6 @@
       "onboard_time": 1755990918,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232657,
-      "num": 232657,
-      "word": "又有内娱男爱豆被送去种地了",
-      "onboard_time": 1756360822,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 232443,
@@ -5091,6 +5099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208393,
+      "num": 208393,
+      "word": "浙江厕所 玉虚宫",
+      "onboard_time": 1756361843,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "办婚礼不领证 被判退彩礼",
@@ -5161,6 +5177,14 @@
       "onboard_time": 1756192523,
       "rank": 24,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 205710,
+      "num": 205710,
+      "word": "杨幂的穿搭无须多言",
+      "onboard_time": 1756360344,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 205558,
@@ -5305,14 +5329,6 @@
       "onboard_time": 1756351821,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 202157,
-      "num": 202157,
-      "word": "杨幂的穿搭无须多言",
-      "onboard_time": 1756360344,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 202135,
@@ -5889,6 +5905,14 @@
       "onboard_time": 1756355122,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191313,
+      "num": 232417,
+      "word": "中国人凭什么胜利",
+      "onboard_time": 1756362803,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 191269,
@@ -6699,6 +6723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178614,
+      "num": 192151,
+      "word": "日本妄图给中国九三阅兵按下暂停键",
+      "onboard_time": 1756362742,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178034,
       "num": 316401,
       "word": "警方通报女童被康复机构老师殴打",
@@ -7289,14 +7321,6 @@
       "onboard_time": 1756204102,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 167203,
-      "num": 167203,
-      "word": "浙江厕所 玉虚宫",
-      "onboard_time": 1756361843,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167202,
@@ -8203,14 +8227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153807,
-      "num": 192151,
-      "word": "日本妄图给中国九三阅兵按下暂停键",
-      "onboard_time": 1756362742,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 153600,
       "num": 153600,
       "word": "一诺背后的爸爸",
@@ -8641,14 +8657,6 @@
       "onboard_time": 1755944602,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147345,
-      "num": 187487,
-      "word": "中国人凭什么胜利",
-      "onboard_time": 1756362803,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 147238,
@@ -9419,14 +9427,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 138422,
-      "num": 222958,
-      "word": "外嫁女 征地补偿",
-      "onboard_time": 1756361901,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138179,
       "num": 138179,
       "word": "邓典果亚军魔咒",
@@ -9971,6 +9971,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 132568,
+      "num": 132568,
+      "word": "外交部重磅视频脊梁",
+      "onboard_time": 1756363463,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132547,
       "num": 132547,
       "word": "金韬拿到阴阳师2授权",
@@ -10353,6 +10361,14 @@
       "onboard_time": 1756178722,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128942,
+      "num": 142954,
+      "word": "女孩因被大爷碰到胳膊情绪崩溃",
+      "onboard_time": 1756362502,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128931,
@@ -12251,6 +12267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107852,
+      "num": 107852,
+      "word": "年轻人胃癌发病率30年翻一番",
+      "onboard_time": 1756363642,
+      "rank": 43,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 107674,
       "num": 107674,
       "word": "A股算力股再度大涨",
@@ -12481,6 +12505,14 @@
       "onboard_time": 1756117403,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 105727,
+      "num": 105727,
+      "word": "王星越 我同意开学",
+      "onboard_time": 1756361301,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 105724,
@@ -13185,6 +13217,14 @@
       "onboard_time": 1756130664,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 97386,
+      "num": 103318,
+      "word": "苹果回应iPhone防晕车功能",
+      "onboard_time": 1756363642,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 97379,
@@ -14307,6 +14347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71029,
+      "num": 126204,
+      "word": "小酒窝出演宋佳佟丽娅电影",
+      "onboard_time": 1756363042,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70679,
       "num": 129403,
       "word": "王曼昱给小朋友惊喜",
@@ -14608,14 +14656,6 @@
       "word": "美团闪购联名花太好看了",
       "onboard_time": 1756355483,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63132,
-      "num": 142954,
-      "word": "女孩因被大爷碰到胳膊情绪崩溃",
-      "onboard_time": 1756362502,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -15148,7 +15188,7 @@
     },
     {
       "raw_hot": 51893,
-      "num": 450893,
+      "num": 552318,
       "word": "千里跃进大别山",
       "onboard_time": 1756357223,
       "rank": 2,
@@ -15619,12 +15659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42075,
+      "num": 187714,
+      "word": "三只羊客服回应网传复出",
+      "onboard_time": 1756362742,
+      "rank": 29,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 41814,
       "num": 41814,
       "word": "会长是女仆大人新作漫画",
       "onboard_time": 1755991938,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 41800,
+      "num": 118323,
+      "word": "董璇秒赞网友与张维伊AI合照",
+      "onboard_time": 1756363702,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 41433,
@@ -15905,14 +15961,6 @@
       "onboard_time": 1756198882,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35332,
-      "num": 187714,
-      "word": "三只羊客服回应网传复出",
-      "onboard_time": 1756362742,
-      "rank": 29,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 35282,
@@ -16465,14 +16513,6 @@
       "onboard_time": 1756220486,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24576,
-      "num": 126204,
-      "word": "小酒窝出演宋佳佟丽娅电影",
-      "onboard_time": 1756363042,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 24493,
