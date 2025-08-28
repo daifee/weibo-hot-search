@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756381023801,
+  "endTime": 1756385506235,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1392,6 +1392,14 @@
       "word": "戚薇说打肉毒打僵了",
       "onboard_time": 1755406880,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1828579,
+      "num": 313097,
+      "word": "贾玲 上镜胖十斤受害者",
+      "onboard_time": 1756383023,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -3851,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1160301,
+      "num": 1185648,
+      "word": "法院公告虞书欣父亲借贷纠纷起诉状",
+      "onboard_time": 1756379902,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1159323,
       "num": 1173015,
       "word": "香港偶遇angelababy小海绵",
@@ -5571,14 +5587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 936794,
-      "num": 408327,
-      "word": "法院公告虞书欣父亲借贷纠纷起诉状",
-      "onboard_time": 1756379902,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 936627,
       "num": 488126,
       "word": "胡先煦坐了近五十个小时飞机",
@@ -7020,7 +7028,7 @@
     },
     {
       "raw_hot": 808491,
-      "num": 585783,
+      "num": 726326,
       "word": "张韶涵开喷台媒",
       "onboard_time": 1756377862,
       "rank": 6,
@@ -8267,6 +8275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 731130,
+      "num": 731130,
+      "word": "中方回应有国家不愿出席九三阅兵",
+      "onboard_time": 1756374082,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 730837,
       "num": 730837,
       "word": "因父母求子被砍手女生的现状",
@@ -9073,14 +9089,6 @@
       "onboard_time": 1755701188,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 686060,
-      "num": 686060,
-      "word": "中方回应有国家不愿出席九三阅兵",
-      "onboard_time": 1756374082,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 686049,
@@ -14377,6 +14385,14 @@
       "onboard_time": 1756022242,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 482478,
+      "num": 341126,
+      "word": "张晚意 孙红雷2.0",
+      "onboard_time": 1756381164,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 482335,
@@ -19963,6 +19979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 347131,
+      "num": 347131,
+      "word": "免除公办幼儿园大班保育教育费",
+      "onboard_time": 1756377081,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 347105,
       "num": 347105,
       "word": "上海暴雨",
@@ -20041,6 +20065,14 @@
       "onboard_time": 1756210463,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 344913,
+      "num": 296356,
+      "word": "李飞黄锐 当年的事彼此各有难处",
+      "onboard_time": 1756383682,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 344537,
@@ -20547,6 +20579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333127,
+      "num": 151290,
+      "word": "越睡越丑的坏习惯",
+      "onboard_time": 1756384883,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 332984,
       "num": 332984,
       "word": "体面分手的弊端",
@@ -20601,6 +20641,14 @@
       "onboard_time": 1754985801,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332158,
+      "num": 332158,
+      "word": "日本郊外发现装有大量人骨麻袋",
+      "onboard_time": 1756379421,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 332106,
@@ -21113,6 +21161,14 @@
       "onboard_time": 1755692905,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 324450,
+      "num": 324450,
+      "word": "王楚钦说队里给了一个调整的机会",
+      "onboard_time": 1756383323,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 324228,
@@ -23209,6 +23265,14 @@
       "onboard_time": 1754392823,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 287416,
+      "num": 287416,
+      "word": "金鹿奖",
+      "onboard_time": 1756383261,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 287381,
@@ -35811,6 +35875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193941,
+      "num": 175549,
+      "word": "承认吧演员多读书有用",
+      "onboard_time": 1756381283,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193901,
       "num": 187693,
       "word": "BTS直播",
@@ -35849,6 +35921,14 @@
       "onboard_time": 1755749182,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193798,
+      "num": 150840,
+      "word": "胡楚靓回应复合",
+      "onboard_time": 1756384222,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 193797,
@@ -38451,6 +38531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185993,
+      "num": 174395,
+      "word": "金鹿奖今晚揭晓",
+      "onboard_time": 1756380862,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185961,
       "num": 185961,
       "word": "杨超越绿色系九宫格",
@@ -40675,6 +40763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178315,
+      "num": 173641,
+      "word": "金钟仁在张元英和安宥真中选择了aespa",
+      "onboard_time": 1756383682,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178298,
       "num": 178298,
       "word": "JDG首次确认败者组",
@@ -41139,6 +41235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176696,
+      "num": 176696,
+      "word": "这首歌把军号谱进了曲子里",
+      "onboard_time": 1756385303,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176664,
       "num": 234230,
       "word": "一部剧统一我和我爸审美",
@@ -41185,14 +41289,6 @@
       "onboard_time": 1756267163,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176611,
-      "num": 321196,
-      "word": "免除公办幼儿园大班保育教育费",
-      "onboard_time": 1756377081,
-      "rank": 9,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 176602,
@@ -44155,6 +44251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167891,
+      "num": 167891,
+      "word": "iPhone可回复小米手机消息了",
+      "onboard_time": 1756379542,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 167881,
       "num": 275896,
       "word": "对谭瑞松提起公诉",
@@ -44217,6 +44321,14 @@
       "onboard_time": 1755328102,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167644,
+      "num": 167644,
+      "word": "徐明浩新歌合作GALI",
+      "onboard_time": 1756385063,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 167629,
@@ -44601,6 +44713,14 @@
       "onboard_time": 1754476345,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166513,
+      "num": 166513,
+      "word": "高利率网贷正在吞噬年轻人",
+      "onboard_time": 1756384163,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166498,
@@ -48971,6 +49091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155632,
+      "num": 155632,
+      "word": "霉霉 世女一的含金量",
+      "onboard_time": 1756380383,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155588,
       "num": 155588,
       "word": "父母不让远嫁的12年婚姻生活",
@@ -51323,6 +51451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150169,
+      "num": 150169,
+      "word": "刘浩存长春电影节红毯",
+      "onboard_time": 1756384762,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150112,
       "num": 150112,
       "word": "中俄合拍谍战电影来了",
@@ -52252,7 +52388,7 @@
     },
     {
       "raw_hot": 148030,
-      "num": 667941,
+      "num": 728231,
       "word": "阅兵准备基本就绪",
       "onboard_time": 1756350682,
       "rank": 43,
@@ -53459,14 +53595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145589,
-      "num": 145589,
-      "word": "iPhone可回复小米手机消息了",
-      "onboard_time": 1756379542,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 145582,
       "num": 157068,
       "word": "欧盟26国声明支持乌克兰入盟",
@@ -53561,6 +53689,14 @@
       "onboard_time": 1756211362,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145407,
+      "num": 145407,
+      "word": "一代人有一代人的才艺表演",
+      "onboard_time": 1756385243,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 145381,
@@ -53793,6 +53929,22 @@
       "onboard_time": 1754908402,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144967,
+      "num": 144967,
+      "word": "网友质疑北京拿狗当警犬",
+      "onboard_time": 1756382123,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144960,
+      "num": 144960,
+      "word": "韩国吃草料那哥们在厨综吃上国宴了",
+      "onboard_time": 1756382904,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 144954,
@@ -54681,14 +54833,6 @@
       "onboard_time": 1754823622,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143164,
-      "num": 143164,
-      "word": "霉霉 世女一的含金量",
-      "onboard_time": 1756380383,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 143154,
@@ -57801,6 +57945,14 @@
       "onboard_time": 1754545464,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137255,
+      "num": 318650,
+      "word": "铭记血与火铸就的深情",
+      "onboard_time": 1756384163,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137254,
@@ -62027,14 +62179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129673,
-      "num": 129673,
-      "word": "日本郊外发现装有大量人骨麻袋",
-      "onboard_time": 1756379421,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129643,
       "num": 129643,
       "word": "严浩翔向Vansdaddy道歉",
@@ -64307,6 +64451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126009,
+      "num": 126009,
+      "word": "A股11家游戏公司股价上涨超100%",
+      "onboard_time": 1756385183,
+      "rank": 45,
+      "category": "财经,游戏"
+    },
+    {
       "raw_hot": 125987,
       "num": 125987,
       "word": "张维伊称让大家吐槽一下也挺好",
@@ -66443,6 +66595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122017,
+      "num": 122017,
+      "word": "婚生子起诉继子要求继承全部财产",
+      "onboard_time": 1756381703,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122016,
       "num": 122016,
       "word": "至今无人能待满1小时的神奇房间",
@@ -67473,6 +67633,14 @@
       "onboard_time": 1755443783,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120234,
+      "num": 120234,
+      "word": "经常上厕所看手机的后果",
+      "onboard_time": 1756384403,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120231,
@@ -71107,14 +71275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113390,
-      "num": 113390,
-      "word": "金鹿奖今晚揭晓",
-      "onboard_time": 1756380862,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 113388,
       "num": 136546,
       "word": "茶颜悦色为什么不火了",
@@ -72785,6 +72945,14 @@
       "onboard_time": 1754798122,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110204,
+      "num": 116059,
+      "word": "聚焦抗战胜利80周年",
+      "onboard_time": 1756385303,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110199,
@@ -92307,6 +92475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39715,
+      "num": 140585,
+      "word": "我爸是张国荣站哥",
+      "onboard_time": 1756384883,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39698,
       "num": 133313,
       "word": "李昀锐喝豆汁",
@@ -96083,6 +96259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23981,
+      "num": 140381,
+      "word": "迪桑特90周年大展明星阵容",
+      "onboard_time": 1756381101,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 23973,
       "num": 43346,
       "word": "电影东极岛",
@@ -98665,6 +98849,14 @@
       "onboard_time": 1754397682,
       "rank": 39,
       "category": "体育,体育"
+    },
+    {
+      "raw_hot": 1081,
+      "num": 140459,
+      "word": "香蕉保护器",
+      "onboard_time": 1756384883,
+      "rank": 39,
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [

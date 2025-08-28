@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756381023801,
+  "endTime": 1756385506235,
   "band_list": [
     {
       "raw_hot": 2777942,
@@ -43,6 +43,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1828579,
+      "num": 313097,
+      "word": "贾玲 上镜胖十斤受害者",
+      "onboard_time": 1756383023,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1728316,
       "num": 479884,
       "word": "Angelababy强忍眼泪",
@@ -80,6 +88,14 @@
       "word": "张檬机场头盖布给儿子喂母乳",
       "onboard_time": 1756352181,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1160301,
+      "num": 1185648,
+      "word": "法院公告虞书欣父亲借贷纠纷起诉状",
+      "onboard_time": 1756379902,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 936794,
-      "num": 408327,
-      "word": "法院公告虞书欣父亲借贷纠纷起诉状",
-      "onboard_time": 1756379902,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 932344,
       "num": 932344,
       "word": "易烊千玺投资了蒋奇明张艺凡新电影",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 808491,
-      "num": 585783,
+      "num": 726326,
       "word": "张韶涵开喷台媒",
       "onboard_time": 1756377862,
       "rank": 6,
@@ -299,20 +307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 731130,
+      "num": 731130,
+      "word": "中方回应有国家不愿出席九三阅兵",
+      "onboard_time": 1756374082,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 691380,
       "num": 381255,
       "word": "王俊凯照片被学校当作出入证模版",
       "onboard_time": 1756373783,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 686060,
-      "num": 686060,
-      "word": "中方回应有国家不愿出席九三阅兵",
-      "onboard_time": 1756374082,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 669967,
@@ -491,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482478,
+      "num": 341126,
+      "word": "张晚意 孙红雷2.0",
+      "onboard_time": 1756381164,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471763,
       "num": 471763,
       "word": "3600块育儿补贴到底是给谁的",
@@ -667,6 +683,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347131,
+      "num": 347131,
+      "word": "免除公办幼儿园大班保育教育费",
+      "onboard_time": 1756377081,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 344913,
+      "num": 296356,
+      "word": "李飞黄锐 当年的事彼此各有难处",
+      "onboard_time": 1756383682,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 333127,
+      "num": 151290,
+      "word": "越睡越丑的坏习惯",
+      "onboard_time": 1756384883,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 332158,
+      "num": 332158,
+      "word": "日本郊外发现装有大量人骨麻袋",
+      "onboard_time": 1756379421,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 328240,
       "num": 328240,
       "word": "司美格鲁肽",
@@ -689,6 +737,14 @@
       "onboard_time": 1756301844,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324450,
+      "num": 324450,
+      "word": "王楚钦说队里给了一个调整的机会",
+      "onboard_time": 1756383323,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 310914,
@@ -761,6 +817,14 @@
       "onboard_time": 1756296804,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 287416,
+      "num": 287416,
+      "word": "金鹿奖",
+      "onboard_time": 1756383261,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 285794,
@@ -1107,12 +1171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193941,
+      "num": 175549,
+      "word": "承认吧演员多读书有用",
+      "onboard_time": 1756381283,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193869,
       "num": 193869,
       "word": "樊振东 安踏",
       "onboard_time": 1756349963,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193798,
+      "num": 150840,
+      "word": "胡楚靓回应复合",
+      "onboard_time": 1756384222,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 192440,
@@ -1259,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185993,
+      "num": 174395,
+      "word": "金鹿奖今晚揭晓",
+      "onboard_time": 1756380862,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185200,
       "num": 207348,
       "word": "年轻人胃癌发病率30年翻一番",
@@ -1339,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178315,
+      "num": 173641,
+      "word": "金钟仁在张元英和安宥真中选择了aespa",
+      "onboard_time": 1756383682,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178034,
       "num": 178034,
       "word": "家具长期不换会有什么危害",
@@ -1379,12 +1475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176611,
-      "num": 321196,
-      "word": "免除公办幼儿园大班保育教育费",
-      "onboard_time": 1756377081,
-      "rank": 9,
-      "category": "民生新闻,教育"
+      "raw_hot": 176696,
+      "num": 176696,
+      "word": "这首歌把军号谱进了曲子里",
+      "onboard_time": 1756385303,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172621,
@@ -1443,11 +1539,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167891,
+      "num": 167891,
+      "word": "iPhone可回复小米手机消息了",
+      "onboard_time": 1756379542,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 167644,
+      "num": 167644,
+      "word": "徐明浩新歌合作GALI",
+      "onboard_time": 1756385063,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167563,
       "num": 167563,
       "word": "非亲生儿子称父亲是受害者",
       "onboard_time": 1756351222,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166513,
+      "num": 166513,
+      "word": "高利率网贷正在吞噬年轻人",
+      "onboard_time": 1756384163,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1619,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155632,
+      "num": 155632,
+      "word": "霉霉 世女一的含金量",
+      "onboard_time": 1756380383,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155284,
       "num": 155284,
       "word": "徐明浩公司也觉得挺有道理",
@@ -1675,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151731,
+      "num": 151731,
+      "word": "王牌对王牌",
+      "onboard_time": 1756385362,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151625,
       "num": 151625,
       "word": "黄子韬说龚俊和徐艺洋一个待遇",
@@ -1689,6 +1825,14 @@
       "onboard_time": 1756363463,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 150169,
+      "num": 150169,
+      "word": "刘浩存长春电影节红毯",
+      "onboard_time": 1756384762,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 150007,
@@ -1732,7 +1876,7 @@
     },
     {
       "raw_hot": 148030,
-      "num": 667941,
+      "num": 728231,
       "word": "阅兵准备基本就绪",
       "onboard_time": 1756350682,
       "rank": 43,
@@ -1779,12 +1923,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 145589,
-      "num": 145589,
-      "word": "iPhone可回复小米手机消息了",
-      "onboard_time": 1756379542,
+      "raw_hot": 145407,
+      "num": 145407,
+      "word": "一代人有一代人的才艺表演",
+      "onboard_time": 1756385243,
       "rank": 33,
-      "category": "数码"
+      "category": "幽默"
     },
     {
       "raw_hot": 145137,
@@ -1808,6 +1952,22 @@
       "word": "龚俊晒七老童心自拍照",
       "onboard_time": 1756365623,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144967,
+      "num": 144967,
+      "word": "网友质疑北京拿狗当警犬",
+      "onboard_time": 1756382123,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144960,
+      "num": 144960,
+      "word": "韩国吃草料那哥们在厨综吃上国宴了",
+      "onboard_time": 1756382904,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1841,14 +2001,6 @@
       "onboard_time": 1756340603,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143164,
-      "num": 143164,
-      "word": "霉霉 世女一的含金量",
-      "onboard_time": 1756380383,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 143131,
@@ -1905,6 +2057,14 @@
       "onboard_time": 1756380323,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137255,
+      "num": 318650,
+      "word": "铭记血与火铸就的深情",
+      "onboard_time": 1756384163,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136473,
@@ -2035,14 +2195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 129673,
-      "num": 129673,
-      "word": "日本郊外发现装有大量人骨麻袋",
-      "onboard_time": 1756379421,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 128892,
       "num": 128892,
       "word": "展轩杂志采访",
@@ -2073,6 +2225,14 @@
       "onboard_time": 1756342942,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126009,
+      "num": 126009,
+      "word": "A股11家游戏公司股价上涨超100%",
+      "onboard_time": 1756385183,
+      "rank": 45,
+      "category": "财经,游戏"
     },
     {
       "raw_hot": 125915,
@@ -2123,12 +2283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122017,
+      "num": 122017,
+      "word": "婚生子起诉继子要求继承全部财产",
+      "onboard_time": 1756381703,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121966,
       "num": 264566,
       "word": "2025中国民营企业500强发布",
       "onboard_time": 1756357583,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120234,
+      "num": 120234,
+      "word": "经常上厕所看手机的后果",
+      "onboard_time": 1756384403,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119741,
@@ -2227,14 +2403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 113390,
-      "num": 113390,
-      "word": "金鹿奖今晚揭晓",
-      "onboard_time": 1756380862,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 113313,
       "num": 113313,
       "word": "樊振东变cp粉了",
@@ -2281,6 +2449,14 @@
       "onboard_time": 1756296444,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110204,
+      "num": 116059,
+      "word": "聚焦抗战胜利80周年",
+      "onboard_time": 1756385303,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108497,
@@ -3027,6 +3203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39715,
+      "num": 140585,
+      "word": "我爸是张国荣站哥",
+      "onboard_time": 1756384883,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39489,
       "num": 55365,
       "word": "北京最大降雨量79.6毫米",
@@ -3243,6 +3427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23981,
+      "num": 140381,
+      "word": "迪桑特90周年大展明星阵容",
+      "onboard_time": 1756381101,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 23679,
       "num": 32823,
       "word": "一通电话把一船人整沉默了",
@@ -3353,6 +3545,14 @@
       "onboard_time": 1756373303,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1081,
+      "num": 140459,
+      "word": "香蕉保护器",
+      "onboard_time": 1756384883,
+      "rank": 39,
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [

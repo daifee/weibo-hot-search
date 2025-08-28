@@ -1,0 +1,410 @@
+{
+  "runTime": 1756385506235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1160301,
+        "num": 1185648,
+        "word": "法院公告虞书欣父亲借贷纠纷起诉状",
+        "onboard_time": 1756379902,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731130,
+        "num": 731130,
+        "word": "中方回应有国家不愿出席九三阅兵",
+        "onboard_time": 1756374082,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20727,
+        "num": 728231,
+        "word": "阅兵准备基本就绪",
+        "onboard_time": 1756350682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 726326,
+        "num": 726326,
+        "word": "张韶涵开喷台媒",
+        "onboard_time": 1756377862,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 442956,
+        "num": 442956,
+        "word": "特朗普下令全国哀悼",
+        "onboard_time": 1756373902,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 347131,
+        "num": 347131,
+        "word": "免除公办幼儿园大班保育教育费",
+        "onboard_time": 1756377081,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 482478,
+        "num": 341126,
+        "word": "张晚意 孙红雷2.0",
+        "onboard_time": 1756381164,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332158,
+        "num": 332158,
+        "word": "日本郊外发现装有大量人骨麻袋",
+        "onboard_time": 1756379421,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324450,
+        "num": 324450,
+        "word": "王楚钦说队里给了一个调整的机会",
+        "onboard_time": 1756383323,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137255,
+        "num": 318650,
+        "word": "铭记血与火铸就的深情",
+        "onboard_time": 1756384163,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1828579,
+        "num": 313097,
+        "word": "贾玲 上镜胖十斤受害者",
+        "onboard_time": 1756383023,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453765,
+        "num": 305753,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344913,
+        "num": 296356,
+        "word": "李飞黄锐 当年的事彼此各有难处",
+        "onboard_time": 1756383682,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296310,
+        "num": 296310,
+        "word": "央视七夕晚会全阵容官宣",
+        "onboard_time": 1756375221,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287416,
+        "num": 287416,
+        "word": "金鹿奖",
+        "onboard_time": 1756383261,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286094,
+        "num": 286094,
+        "word": "朴灿烈瘦到脱相",
+        "onboard_time": 1756369102,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371376,
+        "num": 277426,
+        "word": "节目组放了董璇张维伊没字幕母带",
+        "onboard_time": 1756375764,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263912,
+        "num": 263912,
+        "word": "王俊凯照片被学校当作出入证模版",
+        "onboard_time": 1756373783,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240823,
+        "num": 240823,
+        "word": "中方回应九三阅兵无西方主要国家",
+        "onboard_time": 1756371683,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176696,
+        "num": 176696,
+        "word": "这首歌把军号谱进了曲子里",
+        "onboard_time": 1756385303,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210449,
+        "num": 176617,
+        "word": "iPhone真的可以很富士",
+        "onboard_time": 1756379002,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193941,
+        "num": 175549,
+        "word": "承认吧演员多读书有用",
+        "onboard_time": 1756381283,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185993,
+        "num": 174395,
+        "word": "金鹿奖今晚揭晓",
+        "onboard_time": 1756380862,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178315,
+        "num": 173641,
+        "word": "金钟仁在张元英和安宥真中选择了aespa",
+        "onboard_time": 1756383682,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173543,
+        "num": 173543,
+        "word": "女子为爱辞职远嫁北京18年后被离婚",
+        "onboard_time": 1756375943,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167891,
+        "num": 167891,
+        "word": "iPhone可回复小米手机消息了",
+        "onboard_time": 1756379542,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167644,
+        "num": 167644,
+        "word": "徐明浩新歌合作GALI",
+        "onboard_time": 1756385063,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166513,
+        "num": 166513,
+        "word": "高利率网贷正在吞噬年轻人",
+        "onboard_time": 1756384163,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155632,
+        "num": 155632,
+        "word": "霉霉 世女一的含金量",
+        "onboard_time": 1756380383,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151731,
+        "num": 151731,
+        "word": "王牌对王牌",
+        "onboard_time": 1756385362,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333127,
+        "num": 151290,
+        "word": "越睡越丑的坏习惯",
+        "onboard_time": 1756384883,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193798,
+        "num": 150840,
+        "word": "胡楚靓回应复合",
+        "onboard_time": 1756384222,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150169,
+        "num": 150169,
+        "word": "刘浩存长春电影节红毯",
+        "onboard_time": 1756384762,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145407,
+        "num": 145407,
+        "word": "一代人有一代人的才艺表演",
+        "onboard_time": 1756385243,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371235,
+        "num": 145284,
+        "word": "全国一年关停2.11万所幼儿园",
+        "onboard_time": 1756374742,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144967,
+        "num": 144967,
+        "word": "网友质疑北京拿狗当警犬",
+        "onboard_time": 1756382123,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144960,
+        "num": 144960,
+        "word": "韩国吃草料那哥们在厨综吃上国宴了",
+        "onboard_time": 1756382904,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140676,
+        "num": 140676,
+        "word": "50升油箱加67.96升汽油调查结果",
+        "onboard_time": 1756368683,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 39715,
+        "num": 140585,
+        "word": "我爸是张国荣站哥",
+        "onboard_time": 1756384883,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1081,
+        "num": 140459,
+        "word": "香蕉保护器",
+        "onboard_time": 1756384883,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 23981,
+        "num": 140381,
+        "word": "迪桑特90周年大展明星阵容",
+        "onboard_time": 1756381101,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 144510,
+        "num": 140177,
+        "word": "马思纯因花少团决定戒药",
+        "onboard_time": 1756370184,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140118,
+        "num": 140118,
+        "word": "中石油道歉",
+        "onboard_time": 1756371442,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138598,
+        "num": 138598,
+        "word": "鸠山由纪夫参加九三阅兵",
+        "onboard_time": 1756366162,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132227,
+        "num": 132227,
+        "word": "种地吧",
+        "onboard_time": 1756372162,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126009,
+        "num": 126009,
+        "word": "A股11家游戏公司股价上涨超100%",
+        "onboard_time": 1756385183,
+        "rank": 45,
+        "category": "财经,游戏"
+      },
+      {
+        "raw_hot": 122017,
+        "num": 122017,
+        "word": "婚生子起诉继子要求继承全部财产",
+        "onboard_time": 1756381703,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120234,
+        "num": 120234,
+        "word": "经常上厕所看手机的后果",
+        "onboard_time": 1756384403,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118140,
+        "num": 118140,
+        "word": "刘浩存背头黑裙",
+        "onboard_time": 1756376062,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110204,
+        "num": 116059,
+        "word": "聚焦抗战胜利80周年",
+        "onboard_time": 1756385303,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家和民族兴旺发达的根本所在#"
+    }
+  }
+}
