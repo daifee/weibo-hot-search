@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756391137289,
+  "endTime": 1756392251614,
   "band_list": [
     {
       "raw_hot": 2777942,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1927673,
-      "num": 356774,
+      "num": 377753,
       "word": "贾玲 上镜胖十斤受害者",
       "onboard_time": 1756383023,
       "rank": 10,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1091016,
-      "num": 357303,
+      "num": 383249,
       "word": "马思纯白月光回国",
       "onboard_time": 1756386323,
       "rank": 48,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 564944,
+      "num": 564944,
+      "word": "labubu",
+      "onboard_time": 1756390584,
+      "rank": 21,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 556881,
       "num": 556881,
       "word": "外嫁女 征地补偿",
@@ -516,11 +524,27 @@
     },
     {
       "raw_hot": 529153,
-      "num": 348187,
+      "num": 368623,
       "word": "李飞黄锐 当年的事彼此各有难处",
       "onboard_time": 1756383682,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 509762,
+      "num": 369594,
+      "word": "突然发现了马桶的正确坐姿",
+      "onboard_time": 1756389743,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 509127,
+      "num": 509127,
+      "word": "上海警方通报涉演唱会谣言",
+      "onboard_time": 1756387403,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 498391,
@@ -659,14 +683,6 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 379612,
-      "num": 379612,
-      "word": "上海警方通报涉演唱会谣言",
-      "onboard_time": 1756387403,
-      "rank": 44,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 376940,
       "num": 422395,
       "word": "官方通报成都加油站事件",
@@ -721,14 +737,6 @@
       "onboard_time": 1756365563,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 362943,
-      "num": 319147,
-      "word": "突然发现了马桶的正确坐姿",
-      "onboard_time": 1756389743,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 360807,
@@ -819,8 +827,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323657,
+      "num": 323657,
+      "word": "寒武纪",
+      "onboard_time": 1756367482,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 318472,
-      "num": 265736,
+      "num": 305600,
       "word": "网传泰国开始禁娱",
       "onboard_time": 1756387342,
       "rank": 30,
@@ -1107,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217873,
+      "num": 217873,
+      "word": "戴娇倩9岁女儿一年只长2厘米",
+      "onboard_time": 1756390944,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215683,
       "num": 244464,
       "word": "90后00后文艺工作者担当主力",
@@ -1203,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203718,
-      "num": 203718,
-      "word": "寒武纪",
-      "onboard_time": 1756367482,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 202312,
       "num": 202312,
       "word": "追觅官宣造车",
@@ -1259,6 +1275,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200772,
+      "num": 323949,
+      "word": "林晓杰金鹿影后",
+      "onboard_time": 1756388423,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199238,
+      "num": 199238,
+      "word": "iG战胜BLG",
+      "onboard_time": 1756391784,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197834,
       "num": 197834,
       "word": "王牌对王牌",
@@ -1275,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195807,
-      "num": 232153,
-      "word": "labubu",
-      "onboard_time": 1756390584,
-      "rank": 21,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 193941,
       "num": 180963,
       "word": "承认吧演员多读书有用",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1756349963,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193866,
+      "num": 193866,
+      "word": "女观众被4男保安在厕所猥亵系谣言",
+      "onboard_time": 1756387523,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 193798,
@@ -1603,14 +1635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 175451,
-      "num": 243788,
-      "word": "林晓杰金鹿影后",
-      "onboard_time": 1756388423,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 172621,
       "num": 356725,
       "word": "天安门广场布置年号台",
@@ -1699,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165284,
+      "num": 165284,
+      "word": "剑网3",
+      "onboard_time": 1756390885,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165039,
       "num": 165039,
       "word": "一代人有一代人的才艺表演",
@@ -1739,14 +1771,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162297,
-      "num": 162297,
-      "word": "剑网3",
-      "onboard_time": 1756390885,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 161498,
       "num": 161498,
       "word": "中国女生遭韩国60多岁房东骚扰",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1756380502,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160623,
+      "num": 160623,
+      "word": "wei太牛了",
+      "onboard_time": 1756391184,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 159524,
@@ -1849,6 +1881,14 @@
       "onboard_time": 1756362200,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157153,
+      "num": 157153,
+      "word": "早睡觉能解决80%以上的问题",
+      "onboard_time": 1756388722,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157021,
@@ -1947,20 +1987,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152465,
-      "num": 152465,
-      "word": "女观众被4男保安在厕所猥亵系谣言",
-      "onboard_time": 1756387523,
-      "rank": 29,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 151625,
       "num": 151625,
       "word": "黄子韬说龚俊和徐艺洋一个待遇",
       "onboard_time": 1756360222,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151228,
+      "num": 151228,
+      "word": "Elk状态",
+      "onboard_time": 1756390764,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 151070,
@@ -1977,14 +2017,6 @@
       "onboard_time": 1756390226,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150786,
-      "num": 150786,
-      "word": "早睡觉能解决80%以上的问题",
-      "onboard_time": 1756388722,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150169,
@@ -2211,11 +2243,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139152,
+      "num": 196847,
+      "word": "王子文新剧看的我拳头硬了",
+      "onboard_time": 1756390822,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138892,
       "num": 324896,
       "word": "徐冬冬 这不是我的黑历史",
       "onboard_time": 1756369702,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138892,
+      "num": 138892,
+      "word": "朱苏",
+      "onboard_time": 1756392144,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -2363,12 +2411,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131213,
+      "num": 131213,
+      "word": "泡泡玛特",
+      "onboard_time": 1756392086,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 131104,
       "num": 131104,
       "word": "其实减肥失败是一件好事",
       "onboard_time": 1756376422,
       "rank": 44,
       "category": "体育,运动健身"
+    },
+    {
+      "raw_hot": 130990,
+      "num": 130990,
+      "word": "王楚钦说目前状态不是很好",
+      "onboard_time": 1756391123,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 130989,
@@ -2393,6 +2457,14 @@
       "onboard_time": 1756387763,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129519,
+      "num": 149436,
+      "word": "靠网贷维持体面生活的年轻人怎么样了",
+      "onboard_time": 1756390584,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129025,
@@ -2459,6 +2531,14 @@
       "category": "财经,游戏"
     },
     {
+      "raw_hot": 125965,
+      "num": 125965,
+      "word": "警方通报男子砸伤女同事",
+      "onboard_time": 1756390226,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 125915,
       "num": 204619,
       "word": "龚俊一个猴一个栓法",
@@ -2473,14 +2553,6 @@
       "onboard_time": 1756359743,
       "rank": 45,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 124700,
-      "num": 124700,
-      "word": "王子文新剧看的我拳头硬了",
-      "onboard_time": 1756390822,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 124273,
@@ -2619,14 +2691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117669,
-      "num": 117669,
-      "word": "Elk状态",
-      "onboard_time": 1756390764,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 117556,
       "num": 117556,
       "word": "孟子义吓出巧克力叫声",
@@ -2664,14 +2728,6 @@
       "word": "一高校3校长均严重违纪违法被查",
       "onboard_time": 1756335798,
       "rank": 26,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 116014,
-      "num": 116014,
-      "word": "警方通报男子砸伤女同事",
-      "onboard_time": 1756390226,
-      "rank": 47,
       "category": "辟谣/通报"
     },
     {
@@ -2923,14 +2979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99044,
-      "num": 149436,
-      "word": "靠网贷维持体面生活的年轻人怎么样了",
-      "onboard_time": 1756390584,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98252,
       "num": 98252,
       "word": "老人银行存12万被办成保险",
@@ -3155,6 +3203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 73658,
+      "num": 134471,
+      "word": "女子酒店洗澡天花板突然打开",
+      "onboard_time": 1756391784,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72434,
       "num": 85281,
       "word": "男子花6元中1800万彩票店老板发声",
@@ -3225,6 +3281,14 @@
       "onboard_time": 1756349482,
       "rank": 39,
       "category": "体育,体育"
+    },
+    {
+      "raw_hot": 63858,
+      "num": 400598,
+      "word": "土耳其一新郎被婶婶鸣枪庆祝误杀",
+      "onboard_time": 1756391483,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63320,
@@ -3459,14 +3523,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 44922,
-      "num": 134986,
-      "word": "戴娇倩9岁女儿一年只长2厘米",
-      "onboard_time": 1756390944,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43903,
       "num": 300403,
       "word": "陶喆鲁豫回首舞台之外十年",
@@ -3643,6 +3699,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36359,
+      "num": 194691,
+      "word": "男子拿着探测器到公园挖文物",
+      "onboard_time": 1756391483,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35770,
+      "num": 323744,
+      "word": "涉嫌参与破坏北溪人员身份均已确认",
+      "onboard_time": 1756391483,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34378,
       "num": 188445,
       "word": "张萌探班李昀锐张康乐",
@@ -3656,6 +3728,14 @@
       "word": "收女友10余万礼物男方家属称算赠与",
       "onboard_time": 1756357343,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32974,
+      "num": 134869,
+      "word": "准大学生跑53天外卖带奶奶游北京",
+      "onboard_time": 1756391784,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3841,6 +3921,14 @@
       "onboard_time": 1756321155,
       "rank": 42,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 18748,
+      "num": 129520,
+      "word": "韩女子戴猫头套持刀恐吓被捕只说喵",
+      "onboard_time": 1756391483,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18583,
