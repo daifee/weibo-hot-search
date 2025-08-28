@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756398725036,
+  "endTime": 1756399572542,
   "band_list": [
     {
       "raw_hot": 1196163,
@@ -83,6 +83,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 267814,
+      "num": 267814,
+      "word": "上海警方通报涉演唱会谣言",
+      "onboard_time": 1756387403,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 251532,
       "num": 251532,
       "word": "中方回应有国家不愿出席九三阅兵",
@@ -97,14 +105,6 @@
       "onboard_time": 1756386684,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 243527,
-      "num": 243527,
-      "word": "上海警方通报涉演唱会谣言",
-      "onboard_time": 1756387403,
-      "rank": 6,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 214704,
@@ -171,6 +171,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 132471,
+      "num": 109248,
+      "word": "反诈老陈打假嘎子哥翻车后道歉",
+      "onboard_time": 1756398021,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 131846,
       "num": 131846,
       "word": "越睡越丑的坏习惯",
@@ -211,14 +219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109248,
-      "num": 109248,
-      "word": "反诈老陈打假嘎子哥翻车后道歉",
-      "onboard_time": 1756398021,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 106681,
       "num": 106681,
       "word": "高利率网贷正在吞噬年轻人",
@@ -251,12 +251,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80612,
-      "num": 80612,
+      "raw_hot": 87181,
+      "num": 213496,
+      "word": "今年第14号台风来了",
+      "onboard_time": 1756392624,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87129,
+      "num": 87129,
       "word": "女观众被4男保安在厕所猥亵系谣言",
       "onboard_time": 1756387523,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 80970,
+      "num": 80970,
+      "word": "胡楚靓回应复合",
+      "onboard_time": 1756384222,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 80068,
@@ -267,15 +283,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 77380,
-      "num": 77380,
-      "word": "胡楚靓回应复合",
-      "onboard_time": 1756384222,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 77183,
+      "raw_hot": 77298,
       "num": 109267,
       "word": "承认吧演员多读书有用",
       "onboard_time": 1756381283,
@@ -307,12 +315,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70468,
+      "num": 70468,
+      "word": "花少7聚餐合照",
+      "onboard_time": 1756397482,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67457,
       "num": 67457,
       "word": "节目组放了董璇张维伊没字幕母带",
       "onboard_time": 1756375764,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67106,
+      "num": 67106,
+      "word": "聚焦抗战胜利80周年",
+      "onboard_time": 1756385303,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64548,
@@ -323,28 +347,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 64280,
-      "num": 64280,
-      "word": "聚焦抗战胜利80周年",
-      "onboard_time": 1756385303,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64211,
       "num": 64211,
       "word": "张晚意 孙红雷2.0",
       "onboard_time": 1756381164,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63800,
-      "num": 213496,
-      "word": "今年第14号台风来了",
-      "onboard_time": 1756392624,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63543,
@@ -361,6 +369,22 @@
       "onboard_time": 1756397962,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 62726,
+      "num": 62726,
+      "word": "珍惜那个能接住你情绪的人",
+      "onboard_time": 1756397002,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 62200,
+      "num": 62200,
+      "word": "航空公司回应飞机因充电宝起火延误",
+      "onboard_time": 1756396822,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61885,
@@ -387,12 +411,28 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 59603,
-      "num": 59603,
-      "word": "航空公司回应飞机因充电宝起火延误",
+      "raw_hot": 59023,
+      "num": 59023,
+      "word": "裴秀智方辟谣结婚传闻",
+      "onboard_time": 1756399220,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58656,
+      "num": 58656,
+      "word": "陈奕迅方道歉",
+      "onboard_time": 1756399459,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 44724,
+      "num": 59487,
+      "word": "掩盖史实和推卸责任无法洗白自己",
       "onboard_time": 1756396822,
-      "rank": 49,
-      "category": "民生新闻"
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5285,
