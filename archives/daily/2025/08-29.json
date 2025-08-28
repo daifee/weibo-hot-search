@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756399572542,
+  "endTime": 1756401777079,
   "band_list": [
     {
       "raw_hot": 1196163,
@@ -16,6 +16,14 @@
       "word": "公主抱陪爬 擦边",
       "onboard_time": 1756393403,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 734295,
+      "num": 734295,
+      "word": "七夕",
+      "onboard_time": 1756400179,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1756393464,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374265,
+      "num": 374265,
+      "word": "法院公告虞书欣父亲借贷纠纷起诉状",
+      "onboard_time": 1756379902,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 313625,
@@ -139,6 +155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 197654,
+      "num": 140522,
+      "word": "反诈老陈打假嘎子哥翻车后道歉",
+      "onboard_time": 1756398021,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 190883,
       "num": 190883,
       "word": "李飞黄锐 当年的事彼此各有难处",
@@ -152,6 +176,22 @@
       "word": "张韶涵开喷台媒",
       "onboard_time": 1756377862,
       "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 158187,
+      "num": 158187,
+      "word": "欧冠联赛",
+      "onboard_time": 1756401678,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154938,
+      "num": 154938,
+      "word": "陈奕迅方道歉",
+      "onboard_time": 1756399459,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -169,14 +209,6 @@
       "onboard_time": 1756393283,
       "rank": 23,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 132471,
-      "num": 109248,
-      "word": "反诈老陈打假嘎子哥翻车后道歉",
-      "onboard_time": 1756398021,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 131846,
@@ -419,24 +451,48 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58656,
-      "num": 58656,
-      "word": "陈奕迅方道歉",
-      "onboard_time": 1756399459,
-      "rank": 46,
-      "category": "演出"
+      "raw_hot": 50538,
+      "num": 60861,
+      "word": "起底日本砸560亿公关背后",
+      "onboard_time": 1756400058,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44724,
-      "num": 59487,
+      "num": 61058,
       "word": "掩盖史实和推卸责任无法洗白自己",
       "onboard_time": 1756396822,
       "rank": 44,
       "category": "国内时政"
     },
     {
+      "raw_hot": 38671,
+      "num": 45733,
+      "word": "泡泡玛特客服回应小程序卡顿",
+      "onboard_time": 1756401018,
+      "rank": 45,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 37888,
+      "num": 45733,
+      "word": "iG战胜BLG",
+      "onboard_time": 1756391784,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 35363,
+      "num": 45732,
+      "word": "目之所及",
+      "onboard_time": 1756401437,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 5285,
-      "num": 346008,
+      "num": 350467,
       "word": "中国阅兵向国际传递什么信息",
       "onboard_time": 1756351521,
       "rank": 2,

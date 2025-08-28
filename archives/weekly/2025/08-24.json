@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756399572542,
+  "endTime": 1756401777079,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1756092203,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 734295,
+      "num": 734295,
+      "word": "七夕",
+      "onboard_time": 1756400179,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 734153,
@@ -6123,6 +6131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 197654,
+      "num": 140522,
+      "word": "反诈老陈打假嘎子哥翻车后道歉",
+      "onboard_time": 1756398021,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 197637,
       "num": 197637,
       "word": "七夕礼物",
@@ -8731,6 +8747,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 158187,
+      "num": 158187,
+      "word": "欧冠联赛",
+      "onboard_time": 1756401678,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158181,
       "num": 158181,
       "word": "花海cha了时团新歌",
@@ -9049,6 +9073,14 @@
       "onboard_time": 1756098444,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154938,
+      "num": 154938,
+      "word": "陈奕迅方道歉",
+      "onboard_time": 1756399459,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 154818,
@@ -11137,14 +11169,6 @@
       "onboard_time": 1756023983,
       "rank": 43,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 132471,
-      "num": 109248,
-      "word": "反诈老陈打假嘎子哥翻车后道歉",
-      "onboard_time": 1756398021,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 132468,
@@ -16539,14 +16563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58656,
-      "num": 58656,
-      "word": "陈奕迅方道歉",
-      "onboard_time": 1756399459,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 58369,
       "num": 58369,
       "word": "孙颖莎4比2王曼昱",
@@ -16995,6 +17011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50538,
+      "num": 60861,
+      "word": "起底日本砸560亿公关背后",
+      "onboard_time": 1756400058,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50306,
       "num": 162115,
       "word": "喜茶回应被检出含反式脂肪酸",
@@ -17316,7 +17340,7 @@
     },
     {
       "raw_hot": 44724,
-      "num": 59487,
+      "num": 61058,
       "word": "掩盖史实和推卸责任无法洗白自己",
       "onboard_time": 1756396822,
       "rank": 44,
@@ -17667,6 +17691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38671,
+      "num": 45733,
+      "word": "泡泡玛特客服回应小程序卡顿",
+      "onboard_time": 1756401018,
+      "rank": 45,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 38480,
       "num": 137839,
       "word": "婚恋军师 爱情公式",
@@ -17833,6 +17865,14 @@
       "onboard_time": 1756198882,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35363,
+      "num": 45732,
+      "word": "目之所及",
+      "onboard_time": 1756401437,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 35282,
