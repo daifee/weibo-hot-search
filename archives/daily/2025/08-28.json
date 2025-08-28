@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756373250498,
+  "endTime": 1756374054907,
   "band_list": [
     {
       "raw_hot": 2777942,
@@ -43,12 +43,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1702555,
-      "num": 472097,
+      "raw_hot": 1728316,
+      "num": 479884,
       "word": "Angelababy强忍眼泪",
       "onboard_time": 1756369462,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1309584,
+      "num": 966093,
+      "word": "痞幼仪态",
+      "onboard_time": 1756370963,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1298925,
@@ -65,14 +73,6 @@
       "onboard_time": 1756337781,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1210659,
-      "num": 459148,
-      "word": "痞幼仪态",
-      "onboard_time": 1756370963,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 1176523,
@@ -115,8 +115,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 990390,
+      "num": 990390,
+      "word": "中方回应九三阅兵无西方主要国家",
+      "onboard_time": 1756371683,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 963734,
+      "num": 963734,
+      "word": "中石油道歉",
+      "onboard_time": 1756371442,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 961215,
-      "num": 426292,
+      "num": 464395,
       "word": "朴灿烈瘦到脱相",
       "onboard_time": 1756369102,
       "rank": 10,
@@ -211,14 +227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 773912,
-      "num": 773912,
-      "word": "中方回应九三阅兵无西方主要国家",
-      "onboard_time": 1756371683,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 759235,
       "num": 759235,
       "word": "原来体香是可以养出来的",
@@ -264,6 +272,14 @@
       "word": "上海一小学今年仅招到22人",
       "onboard_time": 1756345581,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 655006,
+      "num": 436922,
+      "word": "考官暗示女子系安全带被当骚扰",
+      "onboard_time": 1756372403,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -385,14 +401,6 @@
       "onboard_time": 1756347683,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 532733,
-      "num": 532733,
-      "word": "中石油道歉",
-      "onboard_time": 1756371442,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 498391,
@@ -555,12 +563,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 362951,
-      "num": 362951,
-      "word": "考官暗示女子系安全带被当骚扰",
-      "onboard_time": 1756372403,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 357633,
+      "num": 394415,
+      "word": "董璇张维伊都怕对方老成父母样",
+      "onboard_time": 1756370184,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 357081,
@@ -689,14 +697,6 @@
       "onboard_time": 1756309523,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273625,
-      "num": 394415,
-      "word": "董璇张维伊都怕对方老成父母样",
-      "onboard_time": 1756370184,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 270180,
@@ -844,7 +844,7 @@
     },
     {
       "raw_hot": 224749,
-      "num": 224749,
+      "num": 498789,
       "word": "浙江的厕所太超前了",
       "onboard_time": 1756371382,
       "rank": 32,
@@ -947,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 203261,
+      "num": 198876,
+      "word": "特朗普下令全国哀悼",
+      "onboard_time": 1756373902,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 202312,
       "num": 202312,
       "word": "追觅官宣造车",
@@ -987,12 +995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201473,
+      "num": 201473,
+      "word": "张予曦毕雯珺二搭三搭勾勾搭搭",
+      "onboard_time": 1756372943,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193869,
       "num": 193869,
       "word": "樊振东 安踏",
       "onboard_time": 1756349963,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192440,
+      "num": 192440,
+      "word": "七夕的做梦素材有了",
+      "onboard_time": 1756373002,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 191319,
@@ -1067,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188448,
+      "num": 531548,
+      "word": "国防部回应日本砸560亿公关",
+      "onboard_time": 1756371683,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 188255,
       "num": 188255,
       "word": "贺峻霖offer卷发路透",
@@ -1083,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187637,
+      "num": 187637,
+      "word": "迷你Labubu实物被吐槽做工差",
+      "onboard_time": 1756373243,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 187612,
       "num": 187612,
       "word": "七夕还没送花的有福了",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1756352542,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186423,
-      "num": 186423,
-      "word": "七夕的做梦素材有了",
-      "onboard_time": 1756373002,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 186005,
@@ -1227,14 +1259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173233,
-      "num": 173233,
-      "word": "张予曦毕雯珺二搭三搭勾勾搭搭",
-      "onboard_time": 1756372943,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172621,
       "num": 356725,
       "word": "天安门广场布置年号台",
@@ -1259,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172069,
+      "num": 188447,
+      "word": "迪丽热巴陈飞宇慕胥辞七夕预热",
+      "onboard_time": 1756373902,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172005,
       "num": 172005,
       "word": "杨幂谈孤独症群体",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1756358722,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169146,
+      "num": 169146,
+      "word": "王俊凯照片被学校当作出入证模版",
+      "onboard_time": 1756373783,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 167563,
@@ -1355,6 +1395,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 158245,
+      "num": 158245,
+      "word": "王者狐妖征集令",
+      "onboard_time": 1756373363,
+      "rank": 47,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 158181,
       "num": 158181,
       "word": "花海cha了时团新歌",
@@ -1416,6 +1464,14 @@
       "word": "徐如蓝刘子晗上恋综不需要助攻",
       "onboard_time": 1756358123,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155284,
+      "num": 155284,
+      "word": "徐明浩公司也觉得挺有道理",
+      "onboard_time": 1756374024,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1779,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125911,
-      "num": 531548,
-      "word": "国防部回应日本砸560亿公关",
-      "onboard_time": 1756371683,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 125910,
       "num": 125910,
       "word": "武汉江夏警方辟谣双胞胎学生跳楼",
@@ -1971,6 +2019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105468,
+      "num": 305286,
+      "word": "上海好多人偶遇张真源",
+      "onboard_time": 1756372703,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105432,
       "num": 146278,
       "word": "王楚钦立马开练",
@@ -2012,7 +2068,7 @@
     },
     {
       "raw_hot": 102137,
-      "num": 886404,
+      "num": 967007,
       "word": "被中国军人的气势狠狠震撼",
       "onboard_time": 1756343123,
       "rank": 43,
@@ -2073,14 +2129,6 @@
       "onboard_time": 1756346840,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94017,
-      "num": 305286,
-      "word": "上海好多人偶遇张真源",
-      "onboard_time": 1756372703,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 93553,
@@ -2363,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60239,
+      "num": 200079,
+      "word": "为何杀妻案凶手一般不判死立执",
+      "onboard_time": 1756373542,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60182,
       "num": 85273,
       "word": "王栎鑫常德把妹王",
@@ -2475,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48433,
+      "num": 188445,
+      "word": "22岁女子药物中毒皮肤溃烂毁容",
+      "onboard_time": 1756373303,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46721,
       "num": 425154,
       "word": "熙游记开启极境之旅",
@@ -2521,6 +2585,14 @@
       "onboard_time": 1756336639,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40482,
+      "num": 163189,
+      "word": "九三阅兵首场记者会信息量满满",
+      "onboard_time": 1756373542,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40088,
@@ -2619,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34378,
+      "num": 188445,
+      "word": "张萌探班李昀锐张康乐",
+      "onboard_time": 1756373121,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33347,
       "num": 210521,
       "word": "收女友10余万礼物男方家属称算赠与",
@@ -2699,12 +2779,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25998,
-      "num": 186556,
-      "word": "张萌探班李昀锐张康乐",
-      "onboard_time": 1756373121,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 25610,
+      "num": 362543,
+      "word": "外交部回应金正恩何时抵京",
+      "onboard_time": 1756373602,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23679,
@@ -2785,6 +2865,14 @@
       "onboard_time": 1756321334,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11022,
+      "num": 188444,
+      "word": "黎深反季节战神",
+      "onboard_time": 1756373303,
+      "rank": 39,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

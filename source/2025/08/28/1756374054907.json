@@ -1,0 +1,410 @@
+{
+  "runTime": 1756374054907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1802479,
+        "num": 1802479,
+        "word": "虞书欣方称绝不姑息造谣者",
+        "onboard_time": 1756369763,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 990390,
+        "num": 990390,
+        "word": "中方回应九三阅兵无西方主要国家",
+        "onboard_time": 1756371683,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25099,
+        "num": 967007,
+        "word": "被中国军人的气势狠狠震撼",
+        "onboard_time": 1756343123,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1309584,
+        "num": 966093,
+        "word": "痞幼仪态",
+        "onboard_time": 1756370963,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 963734,
+        "num": 963734,
+        "word": "中石油道歉",
+        "onboard_time": 1756371442,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669078,
+        "num": 669078,
+        "word": "50升油箱加67.96升汽油调查结果",
+        "onboard_time": 1756368683,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 766102,
+        "num": 655208,
+        "word": "马思纯因花少团决定戒药",
+        "onboard_time": 1756370184,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630214,
+        "num": 630214,
+        "word": "鸠山由纪夫参加九三阅兵",
+        "onboard_time": 1756366162,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 521426,
+        "num": 521426,
+        "word": "虞书欣风波事关国有资产应有通报",
+        "onboard_time": 1756357343,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156665,
+        "num": 498789,
+        "word": "浙江的厕所太超前了",
+        "onboard_time": 1756371382,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1728316,
+        "num": 479884,
+        "word": "Angelababy强忍眼泪",
+        "onboard_time": 1756369462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774340,
+        "num": 464395,
+        "word": "朴灿烈瘦到脱相",
+        "onboard_time": 1756369102,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655006,
+        "num": 436922,
+        "word": "考官暗示女子系安全带被当骚扰",
+        "onboard_time": 1756372403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413648,
+        "num": 413648,
+        "word": "种地吧",
+        "onboard_time": 1756372162,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357633,
+        "num": 373282,
+        "word": "董璇张维伊都怕对方老成父母样",
+        "onboard_time": 1756370184,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366700,
+        "num": 366700,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66304,
+        "num": 366378,
+        "word": "懒人洗衣机空间管理大师",
+        "onboard_time": 1756370123,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 10184,
+        "num": 364777,
+        "word": "七夕对象基础礼物就不基础",
+        "onboard_time": 1756369943,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121101,
+        "num": 363925,
+        "word": "20万满血华为纯电SUV来了",
+        "onboard_time": 1756372823,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25610,
+        "num": 362543,
+        "word": "外交部回应金正恩何时抵京",
+        "onboard_time": 1756373602,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 497016,
+        "num": 361802,
+        "word": "三只羊 复出",
+        "onboard_time": 1756356204,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 372094,
+        "num": 360262,
+        "word": "易烊千玺投资了蒋奇明张艺凡新电影",
+        "onboard_time": 1756362142,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359858,
+        "num": 359858,
+        "word": "女子生日当天遭家暴婆婆称打得好",
+        "onboard_time": 1756367242,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326681,
+        "num": 326681,
+        "word": "官方通报成都加油站事件",
+        "onboard_time": 1756370303,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317022,
+        "num": 317022,
+        "word": "月经的本质是流血不是排毒",
+        "onboard_time": 1756368622,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270862,
+        "num": 270862,
+        "word": "女子糟蹋20多个酒店免费鸡蛋",
+        "onboard_time": 1756354463,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228397,
+        "num": 228397,
+        "word": "家长建议禁止学生带电话手表上学",
+        "onboard_time": 1756360703,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202693,
+        "num": 202693,
+        "word": "王者荣耀",
+        "onboard_time": 1756370361,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201473,
+        "num": 201473,
+        "word": "张予曦毕雯珺二搭三搭勾勾搭搭",
+        "onboard_time": 1756372943,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60239,
+        "num": 200079,
+        "word": "为何杀妻案凶手一般不判死立执",
+        "onboard_time": 1756373542,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33476,
+        "num": 198966,
+        "word": "陶喆鲁豫回首舞台之外十年",
+        "onboard_time": 1756371804,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203261,
+        "num": 198876,
+        "word": "特朗普下令全国哀悼",
+        "onboard_time": 1756373902,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198714,
+        "num": 198714,
+        "word": "小米发布超级岛",
+        "onboard_time": 1756369042,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105468,
+        "num": 195471,
+        "word": "上海好多人偶遇张真源",
+        "onboard_time": 1756372703,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192440,
+        "num": 192440,
+        "word": "七夕的做梦素材有了",
+        "onboard_time": 1756373002,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188448,
+        "num": 188448,
+        "word": "国防部回应日本砸560亿公关",
+        "onboard_time": 1756371683,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172069,
+        "num": 188447,
+        "word": "迪丽热巴陈飞宇慕胥辞七夕预热",
+        "onboard_time": 1756373902,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34378,
+        "num": 188445,
+        "word": "张萌探班李昀锐张康乐",
+        "onboard_time": 1756373121,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48433,
+        "num": 188445,
+        "word": "22岁女子药物中毒皮肤溃烂毁容",
+        "onboard_time": 1756373303,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11022,
+        "num": 188444,
+        "word": "黎深反季节战神",
+        "onboard_time": 1756373303,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188443,
+        "num": 188443,
+        "word": "日本妄图给中国九三阅兵按下暂停键",
+        "onboard_time": 1756362742,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187637,
+        "num": 187637,
+        "word": "迷你Labubu实物被吐槽做工差",
+        "onboard_time": 1756373243,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 170634,
+        "num": 170634,
+        "word": "3600块育儿补贴到底是给谁的",
+        "onboard_time": 1756365082,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169146,
+        "num": 169146,
+        "word": "王俊凯照片被学校当作出入证模版",
+        "onboard_time": 1756373783,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40482,
+        "num": 163189,
+        "word": "九三阅兵首场记者会信息量满满",
+        "onboard_time": 1756373542,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131186,
+        "num": 162145,
+        "word": "霉霉订婚后前男友Joe首现身",
+        "onboard_time": 1756364302,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161447,
+        "num": 161447,
+        "word": "小米发布会",
+        "onboard_time": 1756366703,
+        "rank": 46,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 158245,
+        "num": 158245,
+        "word": "王者狐妖征集令",
+        "onboard_time": 1756373363,
+        "rank": 47,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 155284,
+        "num": 155284,
+        "word": "徐明浩公司也觉得挺有道理",
+        "onboard_time": 1756374024,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144277,
+        "num": 144277,
+        "word": "最佳睡眠时长原来不是8小时",
+        "onboard_time": 1756368861,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬结成风雨同舟的铁杆友谊#"
+    }
+  }
+}
