@@ -1,0 +1,410 @@
+{
+  "runTime": 1756369997474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1414551,
+        "num": 1414551,
+        "word": "虞书欣风波事关国有资产应有通报",
+        "onboard_time": 1756357343,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 999007,
+        "num": 999007,
+        "word": "鸠山由纪夫参加九三阅兵",
+        "onboard_time": 1756366162,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36508,
+        "num": 752225,
+        "word": "被中国军人的气势狠狠震撼",
+        "onboard_time": 1756343123,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 618479,
+        "num": 618479,
+        "word": "50升油箱加67.96升汽油调查结果",
+        "onboard_time": 1756368683,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 579516,
+        "num": 579516,
+        "word": "浙江厕所 玉虚宫",
+        "onboard_time": 1756361843,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1351939,
+        "num": 574791,
+        "word": "虞书欣方称绝不姑息造谣者",
+        "onboard_time": 1756369763,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562504,
+        "num": 562504,
+        "word": "家长建议禁止学生带电话手表上学",
+        "onboard_time": 1756360703,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498391,
+        "num": 498391,
+        "word": "霉霉订婚后前男友Joe首现身",
+        "onboard_time": 1756364302,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471763,
+        "num": 471763,
+        "word": "3600块育儿补贴到底是给谁的",
+        "onboard_time": 1756365082,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437667,
+        "num": 437667,
+        "word": "日本妄图给中国九三阅兵按下暂停键",
+        "onboard_time": 1756362742,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 554099,
+        "num": 416549,
+        "word": "朴灿烈瘦到脱相",
+        "onboard_time": 1756369102,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453652,
+        "num": 413009,
+        "word": "女子糟蹋20多个酒店免费鸡蛋",
+        "onboard_time": 1756354463,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449970,
+        "num": 400126,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363783,
+        "num": 363783,
+        "word": "张凌赫金九封面含金量",
+        "onboard_time": 1756365563,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 362388,
+        "num": 362388,
+        "word": "张晚意又黑了八个度",
+        "onboard_time": 1756364663,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333677,
+        "num": 333677,
+        "word": "小米发布会",
+        "onboard_time": 1756366703,
+        "rank": 15,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 311009,
+        "num": 311009,
+        "word": "张檬机场头盖布给儿子喂母乳",
+        "onboard_time": 1756352181,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275252,
+        "num": 275252,
+        "word": "李晟 我太同意开学了",
+        "onboard_time": 1756355243,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230571,
+        "num": 230571,
+        "word": "小米发布超级岛",
+        "onboard_time": 1756369042,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228605,
+        "num": 228605,
+        "word": "女子放生一麻袋蛇",
+        "onboard_time": 1756356744,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839994,
+        "num": 227119,
+        "word": "易烊千玺投资了蒋奇明张艺凡新电影",
+        "onboard_time": 1756362142,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 727229,
+        "num": 221663,
+        "word": "三只羊 复出",
+        "onboard_time": 1756356204,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 507027,
+        "num": 219729,
+        "word": "女子生日当天遭家暴婆婆称打得好",
+        "onboard_time": 1756367242,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334852,
+        "num": 215771,
+        "word": "月经的本质是流血不是排毒",
+        "onboard_time": 1756368622,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212572,
+        "num": 212572,
+        "word": "戴安娜王妃时间胶囊被挖出",
+        "onboard_time": 1756368502,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203718,
+        "num": 203718,
+        "word": "寒武纪",
+        "onboard_time": 1756367482,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177255,
+        "num": 196865,
+        "word": "敖瑞鹏 内娱唯一雨刷器塑",
+        "onboard_time": 1756368322,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194774,
+        "num": 194774,
+        "word": "Angelababy强忍眼泪",
+        "onboard_time": 1756369462,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120767,
+        "num": 187027,
+        "word": "徐冬冬 这不是我的黑历史",
+        "onboard_time": 1756369702,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74371,
+        "num": 185481,
+        "word": "该怎么形容这个夏天呢",
+        "onboard_time": 1756368382,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185200,
+        "num": 185200,
+        "word": "年轻人胃癌发病率30年翻一番",
+        "onboard_time": 1756363642,
+        "rank": 30,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 165686,
+        "num": 165686,
+        "word": "邓超 你们是狗仔吗",
+        "onboard_time": 1756367482,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17199,
+        "num": 164005,
+        "word": "警方介入女子被同事砸伤缝20多针",
+        "onboard_time": 1756369883,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149165,
+        "num": 163835,
+        "word": "肖战转发目之所及",
+        "onboard_time": 1756367842,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163748,
+        "num": 163748,
+        "word": "寒武纪当了7分钟股王",
+        "onboard_time": 1756367542,
+        "rank": 34,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 160273,
+        "num": 160273,
+        "word": "外嫁女 征地补偿",
+        "onboard_time": 1756361901,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35878,
+        "num": 160272,
+        "word": "七夕对象基础礼物就不基础",
+        "onboard_time": 1756369943,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67450,
+        "num": 160062,
+        "word": "中国女生遭韩国60多岁房东骚扰",
+        "onboard_time": 1756369042,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54878,
+        "num": 160042,
+        "word": "羽毛球基础价格就不基础",
+        "onboard_time": 1756369523,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 45127,
+        "num": 159896,
+        "word": "母女俩同时被拐23年后女儿终回家",
+        "onboard_time": 1756369702,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22509,
+        "num": 159773,
+        "word": "官方回应建言禁止电话手表进校",
+        "onboard_time": 1756369943,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100870,
+        "num": 159660,
+        "word": "34岁生日遭家暴女子发声",
+        "onboard_time": 1756368082,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47792,
+        "num": 159607,
+        "word": "比亚迪李云飞更换社交媒体昵称",
+        "onboard_time": 1756364663,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159524,
+        "num": 159524,
+        "word": "13岁男孩超市制止插队遭男子猛踹",
+        "onboard_time": 1756368322,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18676,
+        "num": 156824,
+        "word": "13个外甥开学走了舅舅心里空落落",
+        "onboard_time": 1756369883,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156386,
+        "num": 156386,
+        "word": "原来体香是可以养出来的",
+        "onboard_time": 1756358243,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146423,
+        "num": 146423,
+        "word": "王影璐这边发糖那边发苦瓜",
+        "onboard_time": 1756368982,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150007,
+        "num": 146225,
+        "word": "二旬老人躺床上看八旬美女练普拉提",
+        "onboard_time": 1756368142,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37968,
+        "num": 142438,
+        "word": "姜妍如愿找到了想回的家",
+        "onboard_time": 1756368561,
+        "rank": 48,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 141918,
+        "num": 141918,
+        "word": "最佳睡眠时长原来不是8小时",
+        "onboard_time": 1756368861,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬结成风雨同舟的铁杆友谊#"
+    }
+  }
+}
