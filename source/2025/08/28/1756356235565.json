@@ -1,0 +1,410 @@
+{
+  "runTime": 1756356235565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 948391,
+        "num": 1151742,
+        "word": "普京和金正恩等出席抗战纪念活动",
+        "onboard_time": 1756347261,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 607958,
+        "num": 607958,
+        "word": "251万存款凭空消失被6名老人取走",
+        "onboard_time": 1756347322,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10978,
+        "num": 582471,
+        "word": "中国蓝盔卫士亮相九三阅兵",
+        "onboard_time": 1756288462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 748833,
+        "num": 579784,
+        "word": "毛晓彤签约心心传媒",
+        "onboard_time": 1756354463,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568863,
+        "num": 568863,
+        "word": "真夫妻kisskiss我shyshy",
+        "onboard_time": 1756349242,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483129,
+        "num": 483129,
+        "word": "南京大学回应33岁女教师离世",
+        "onboard_time": 1756351701,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387271,
+        "num": 387271,
+        "word": "日本没有资格说三道四",
+        "onboard_time": 1756344020,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317933,
+        "num": 317933,
+        "word": "将出席纪念活动的外国元首和政府首脑",
+        "onboard_time": 1756348462,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 490345,
+        "num": 316797,
+        "word": "孙颖莎T杂志",
+        "onboard_time": 1756350802,
+        "rank": 8,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 181517,
+        "num": 308681,
+        "word": "希望日方与军国主义彻底划清界限",
+        "onboard_time": 1756354642,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1834689,
+        "num": 305922,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1176523,
+        "num": 301202,
+        "word": "张檬机场头盖布给儿子喂母乳",
+        "onboard_time": 1756352181,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828136,
+        "num": 292786,
+        "word": "女子糟蹋20多个酒店免费鸡蛋",
+        "onboard_time": 1756354463,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791362,
+        "num": 290096,
+        "word": "安妮海瑟薇摔倒后优雅起身",
+        "onboard_time": 1756353981,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389865,
+        "num": 286092,
+        "word": "龚俊在张晚意的一声哥哥中迷失了",
+        "onboard_time": 1756349242,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509487,
+        "num": 276898,
+        "word": "两男生开房住宿坐断床头柜",
+        "onboard_time": 1756337781,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473813,
+        "num": 273292,
+        "word": "李晟 我太同意开学了",
+        "onboard_time": 1756355243,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270180,
+        "num": 270180,
+        "word": "欢乐颂四美宣传王子文新剧",
+        "onboard_time": 1756355603,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63320,
+        "num": 269320,
+        "word": "美团闪购联名花太好看了",
+        "onboard_time": 1756355483,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32578,
+        "num": 268782,
+        "word": "熙游记开启极境之旅",
+        "onboard_time": 1756352421,
+        "rank": 19,
+        "category": "汽车,体育"
+      },
+      {
+        "raw_hot": 429456,
+        "num": 267611,
+        "word": "金子涵剃寸头",
+        "onboard_time": 1756336879,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416004,
+        "num": 265841,
+        "word": "南京大学33岁女教师离世",
+        "onboard_time": 1756339281,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157148,
+        "num": 264736,
+        "word": "三折叠怎么折都全面",
+        "onboard_time": 1756355243,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 380854,
+        "num": 263890,
+        "word": "何晟铭 我叫白月光",
+        "onboard_time": 1756346601,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209710,
+        "num": 262041,
+        "word": "邓紫棋演唱会七站官宣",
+        "onboard_time": 1756355723,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204485,
+        "num": 261043,
+        "word": "中岛裕翔退团",
+        "onboard_time": 1756355424,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197420,
+        "num": 259757,
+        "word": "杨紫是小曲就爱",
+        "onboard_time": 1756352722,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341476,
+        "num": 258993,
+        "word": "曹璐宣布FIESTAR签约半年解约",
+        "onboard_time": 1756349963,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118725,
+        "num": 257155,
+        "word": "东亚父女关系在此刻具象化了",
+        "onboard_time": 1756354762,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38746,
+        "num": 256837,
+        "word": "网友名字谐音旺财被嘲笑求助改名",
+        "onboard_time": 1756355543,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255763,
+        "num": 255763,
+        "word": "女子咨询同事被砸缝20多针",
+        "onboard_time": 1756352301,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236513,
+        "num": 236513,
+        "word": "张智霖曝儿子下个月出国留学",
+        "onboard_time": 1756354882,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222677,
+        "num": 222677,
+        "word": "崔永熙焦泊乔加盟广东男篮",
+        "onboard_time": 1756355183,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205648,
+        "num": 205648,
+        "word": "医生给梓渝的建议是需要手术",
+        "onboard_time": 1756339462,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203849,
+        "num": 203849,
+        "word": "被灭火器喷脸幼童母亲称对方家长失联",
+        "onboard_time": 1756353682,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203732,
+        "num": 203732,
+        "word": "女子称被不知名男同事砸头毁容",
+        "onboard_time": 1756355543,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187612,
+        "num": 187612,
+        "word": "七夕还没送花的有福了",
+        "onboard_time": 1756355783,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31589,
+        "num": 187111,
+        "word": "魏建军称造车要经得住时间考验",
+        "onboard_time": 1756352421,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100407,
+        "num": 186918,
+        "word": "樊振东温柔地说出霸气的话",
+        "onboard_time": 1756355483,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37293,
+        "num": 186883,
+        "word": "博主自称拆开乐事薯片只有1片",
+        "onboard_time": 1756356023,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186868,
+        "num": 186868,
+        "word": "Angelababy陈妍希合诗雨同框",
+        "onboard_time": 1756352542,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184038,
+        "num": 184038,
+        "word": "纪念活动出席人员覆盖世界五大洲",
+        "onboard_time": 1756355664,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180149,
+        "num": 180149,
+        "word": "iPhone防晕车功能",
+        "onboard_time": 1756352360,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178872,
+        "num": 178872,
+        "word": "张晚意gogogo节目组nonono",
+        "onboard_time": 1756355122,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177175,
+        "num": 177175,
+        "word": "吵架跳车身亡男子家属谅解女友",
+        "onboard_time": 1756353323,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158213,
+        "num": 158213,
+        "word": "明日方舟",
+        "onboard_time": 1756351882,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152356,
+        "num": 152356,
+        "word": "三只羊 复出",
+        "onboard_time": 1756356204,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150836,
+        "num": 150836,
+        "word": "这才是00后想要过的七夕",
+        "onboard_time": 1756349542,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149705,
+        "num": 149705,
+        "word": "非亲生儿子称父亲是受害者",
+        "onboard_time": 1756351222,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148033,
+        "num": 148033,
+        "word": "前TVB演员张国强片场吃盒饭",
+        "onboard_time": 1756352481,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#持之以恒推动中俄关系高水平发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1756312339721,
-  "endTime": 1756355393754,
+  "endTime": 1756356235565,
   "band_list": [
     {
       "raw_hot": 2170191,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1176523,
+      "num": 400795,
+      "word": "张檬机场头盖布给儿子喂母乳",
+      "onboard_time": 1756352181,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1142348,
       "num": 977578,
       "word": "真夫妻kisskiss我shyshy",
       "onboard_time": 1756349242,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1075542,
-      "num": 400795,
-      "word": "张檬机场头盖布给儿子喂母乳",
-      "onboard_time": 1756352181,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 1060216,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 828136,
+      "num": 342749,
+      "word": "女子糟蹋20多个酒店免费鸡蛋",
+      "onboard_time": 1756354463,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 810994,
       "num": 520957,
       "word": "何晟铭 我叫白月光",
@@ -83,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791362,
+      "num": 398662,
+      "word": "安妮海瑟薇摔倒后优雅起身",
+      "onboard_time": 1756353981,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 775905,
       "num": 882495,
       "word": "王源说大不了一星期不说话",
       "onboard_time": 1756306705,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 748833,
+      "num": 579784,
+      "word": "毛晓彤签约心心传媒",
+      "onboard_time": 1756354463,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 669967,
@@ -187,19 +211,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 557304,
-      "num": 398662,
-      "word": "安妮海瑟薇摔倒后优雅起身",
-      "onboard_time": 1756353981,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 552034,
       "num": 552034,
       "word": "王鹤棣 海飞丝",
       "onboard_time": 1756347683,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 483129,
+      "num": 483129,
+      "word": "南京大学回应33岁女教师离世",
+      "onboard_time": 1756351701,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473813,
+      "num": 273292,
+      "word": "李晟 我太同意开学了",
+      "onboard_time": 1756355243,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -243,28 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415173,
-      "num": 421898,
-      "word": "南京大学回应33岁女教师离世",
-      "onboard_time": 1756351701,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 394865,
       "num": 394865,
       "word": "阅兵筹备进展发布会",
       "onboard_time": 1756346721,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 388460,
-      "num": 388460,
-      "word": "毛晓彤签约心心传媒",
-      "onboard_time": 1756354463,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 372819,
@@ -311,14 +327,6 @@
       "num": 318204,
       "word": "95后花4万元办三无婚礼",
       "onboard_time": 1756347261,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342749,
-      "num": 342749,
-      "word": "女子糟蹋20多个酒店免费鸡蛋",
-      "onboard_time": 1756354463,
       "rank": 21,
       "category": "民生新闻"
     },
@@ -411,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270180,
+      "num": 270180,
+      "word": "欢乐颂四美宣传王子文新剧",
+      "onboard_time": 1756355603,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265340,
       "num": 265340,
       "word": "毒犯整容逃亡因耳朵落网",
@@ -475,6 +491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 236513,
+      "num": 236513,
+      "word": "张智霖曝儿子下个月出国留学",
+      "onboard_time": 1756354882,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234348,
       "num": 194820,
       "word": "00后两男生开房住宿留下满床辣条油",
@@ -488,6 +512,14 @@
       "word": "樊振东关注霉霉未婚夫ins",
       "onboard_time": 1756348701,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222677,
+      "num": 222677,
+      "word": "崔永熙焦泊乔加盟广东男篮",
+      "onboard_time": 1756355183,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -505,6 +537,14 @@
       "onboard_time": 1756301125,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209710,
+      "num": 262041,
+      "word": "邓紫棋演唱会七站官宣",
+      "onboard_time": 1756355723,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 209212,
@@ -531,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204485,
+      "num": 261043,
+      "word": "中岛裕翔退团",
+      "onboard_time": 1756355424,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203732,
+      "num": 203732,
+      "word": "女子称被不知名男同事砸头毁容",
+      "onboard_time": 1756355543,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202312,
       "num": 202312,
       "word": "追觅官宣造车",
@@ -553,14 +609,6 @@
       "onboard_time": 1756282403,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198695,
-      "num": 198695,
-      "word": "崔永熙焦泊乔加盟广东男篮",
-      "onboard_time": 1756355183,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 193869,
@@ -611,6 +659,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187612,
+      "num": 187612,
+      "word": "七夕还没送花的有福了",
+      "onboard_time": 1756355783,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 186868,
+      "num": 186868,
+      "word": "Angelababy陈妍希合诗雨同框",
+      "onboard_time": 1756352542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186005,
       "num": 186005,
       "word": "小猫为了喝水被电麻了",
@@ -627,12 +691,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 184389,
-      "num": 184389,
-      "word": "张智霖曝儿子下个月出国留学",
-      "onboard_time": 1756354882,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 184038,
+      "num": 184038,
+      "word": "纪念活动出席人员覆盖世界五大洲",
+      "onboard_time": 1756355664,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 182729,
@@ -643,20 +707,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182575,
-      "num": 182575,
-      "word": "Angelababy陈妍希合诗雨同框",
-      "onboard_time": 1756352542,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181906,
       "num": 181906,
       "word": "周鸿祎约等于被144台保时捷包围",
       "onboard_time": 1756349662,
       "rank": 36,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 181517,
+      "num": 407386,
+      "word": "希望日方与军国主义彻底划清界限",
+      "onboard_time": 1756354642,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179586,
@@ -675,16 +739,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176008,
-      "num": 176008,
-      "word": "李晟 我太同意开学了",
-      "onboard_time": 1756355243,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 175816,
-      "num": 175816,
+      "raw_hot": 177175,
+      "num": 177175,
       "word": "吵架跳车身亡男子家属谅解女友",
       "onboard_time": 1756353323,
       "rank": 35,
@@ -763,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157148,
+      "num": 264736,
+      "word": "三折叠怎么折都全面",
+      "onboard_time": 1756355243,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157021,
       "num": 157021,
       "word": "水火锅",
@@ -801,6 +865,14 @@
       "onboard_time": 1756348522,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152356,
+      "num": 152356,
+      "word": "三只羊 复出",
+      "onboard_time": 1756356204,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 148405,
@@ -908,7 +980,7 @@
     },
     {
       "raw_hot": 136234,
-      "num": 188943,
+      "num": 257155,
       "word": "东亚父女关系在此刻具象化了",
       "onboard_time": 1756354762,
       "rank": 29,
@@ -945,14 +1017,6 @@
       "onboard_time": 1756349120,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131545,
-      "num": 177802,
-      "word": "三折叠怎么折都全面",
-      "onboard_time": 1756355243,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 127567,
@@ -1083,6 +1147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100407,
+      "num": 186918,
+      "word": "樊振东温柔地说出霸气的话",
+      "onboard_time": 1756355483,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99077,
       "num": 99077,
       "word": "四川广东局地大暴雨",
@@ -1105,14 +1177,6 @@
       "onboard_time": 1756338682,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 94962,
-      "num": 407386,
-      "word": "希望日方与军国主义彻底划清界限",
-      "onboard_time": 1756354642,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 94519,
@@ -1315,6 +1379,14 @@
       "category": "体育,体育"
     },
     {
+      "raw_hot": 63320,
+      "num": 269320,
+      "word": "美团闪购联名花太好看了",
+      "onboard_time": 1756355483,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62779,
       "num": 56720,
       "word": "Angelababy逆应援给粉丝点奶茶",
@@ -1348,7 +1420,7 @@
     },
     {
       "raw_hot": 61230,
-      "num": 176368,
+      "num": 187111,
       "word": "魏建军称造车要经得住时间考验",
       "onboard_time": 1756352421,
       "rank": 37,
@@ -1475,12 +1547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38746,
+      "num": 256837,
+      "word": "网友名字谐音旺财被嘲笑求助改名",
+      "onboard_time": 1756355543,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37636,
       "num": 50627,
       "word": "何小鹏晒和雷军聊天记录",
       "onboard_time": 1756322955,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37293,
+      "num": 186883,
+      "word": "博主自称拆开乐事薯片只有1片",
+      "onboard_time": 1756356023,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32483,
