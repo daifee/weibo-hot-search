@@ -1,0 +1,410 @@
+{
+  "runTime": 1756365920180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1811117,
+        "num": 1811117,
+        "word": "虞书欣风波事关国有资产应有通报",
+        "onboard_time": 1756357343,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1242688,
+        "num": 1242688,
+        "word": "家长建议禁止学生带电话手表上学",
+        "onboard_time": 1756360703,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41300,
+        "num": 1075589,
+        "word": "千里跃进大别山",
+        "onboard_time": 1756357223,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 932344,
+        "num": 932344,
+        "word": "易烊千玺投资了蒋奇明张艺凡新电影",
+        "onboard_time": 1756362142,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 447767,
+        "num": 447767,
+        "word": "浙江厕所 玉虚宫",
+        "onboard_time": 1756361843,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434972,
+        "num": 434972,
+        "word": "外嫁女 征地补偿",
+        "onboard_time": 1756361901,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743713,
+        "num": 421164,
+        "word": "虞书欣曾回应家里有矿",
+        "onboard_time": 1756361843,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383565,
+        "num": 383565,
+        "word": "原来体香是可以养出来的",
+        "onboard_time": 1756358243,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350417,
+        "num": 350417,
+        "word": "日本妄图给中国九三阅兵按下暂停键",
+        "onboard_time": 1756362742,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151070,
+        "num": 341972,
+        "word": "外交部重磅视频脊梁",
+        "onboard_time": 1756363463,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 528396,
+        "num": 332882,
+        "word": "朋友圈真的没必要仅3天可见",
+        "onboard_time": 1756351101,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 481544,
+        "num": 309707,
+        "word": "李晟 我太同意开学了",
+        "onboard_time": 1756355243,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421404,
+        "num": 298918,
+        "word": "女子放生一麻袋蛇",
+        "onboard_time": 1756356744,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407285,
+        "num": 281812,
+        "word": "张檬机场头盖布给儿子喂母乳",
+        "onboard_time": 1756352181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356196,
+        "num": 271404,
+        "word": "女子糟蹋20多个酒店免费鸡蛋",
+        "onboard_time": 1756354463,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262660,
+        "num": 262660,
+        "word": "张晚意又黑了八个度",
+        "onboard_time": 1756364663,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260818,
+        "num": 260818,
+        "word": "普京和金正恩等出席抗战纪念活动",
+        "onboard_time": 1756347261,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230956,
+        "num": 230956,
+        "word": "3600块育儿补贴到底是给谁的",
+        "onboard_time": 1756365082,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207806,
+        "num": 207806,
+        "word": "姜思达给吴京10个人生建议",
+        "onboard_time": 1756356444,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91081,
+        "num": 204619,
+        "word": "龚俊一个猴一个栓法",
+        "onboard_time": 1756364964,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 942844,
+        "num": 204562,
+        "word": "三只羊 复出",
+        "onboard_time": 1756356204,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204476,
+        "num": 204476,
+        "word": "抗战胜利80周年活动答记者问",
+        "onboard_time": 1756359862,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187761,
+        "num": 187761,
+        "word": "中国人凭什么胜利",
+        "onboard_time": 1756362803,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187165,
+        "num": 187165,
+        "word": "张凌赫金九封面含金量",
+        "onboard_time": 1756365563,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183643,
+        "num": 183643,
+        "word": "董璇秒赞网友与张维伊AI合照",
+        "onboard_time": 1756363702,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182766,
+        "num": 182766,
+        "word": "杨幂的穿搭无须多言",
+        "onboard_time": 1756360344,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182141,
+        "num": 182141,
+        "word": "又有内娱男爱豆被送去种地了",
+        "onboard_time": 1756360822,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179189,
+        "num": 179189,
+        "word": "女孩因被大爷碰到胳膊情绪崩溃",
+        "onboard_time": 1756362502,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171621,
+        "num": 171621,
+        "word": "毛晓彤签约心心传媒",
+        "onboard_time": 1756354463,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157712,
+        "num": 157712,
+        "word": "经常久坐试试4个动作",
+        "onboard_time": 1756365503,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184052,
+        "num": 157422,
+        "word": "孙颖莎要把这两个画面写进自传",
+        "onboard_time": 1756365861,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159239,
+        "num": 155946,
+        "word": "比亚迪李云飞更换社交媒体昵称",
+        "onboard_time": 1756364663,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 78050,
+        "num": 154263,
+        "word": "张小婉抢麦把李晟吵走了",
+        "onboard_time": 1756364001,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152935,
+        "num": 152935,
+        "word": "安妮海瑟薇摔倒后优雅起身",
+        "onboard_time": 1756353981,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149611,
+        "num": 149611,
+        "word": "霉霉订婚后前男友Joe首现身",
+        "onboard_time": 1756364302,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148693,
+        "num": 148693,
+        "word": "WMA微博音乐盛典",
+        "onboard_time": 1756365321,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146501,
+        "num": 146501,
+        "word": "长期运动的人一眼就能看出来",
+        "onboard_time": 1756359021,
+        "rank": 36,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 93827,
+        "num": 146278,
+        "word": "王楚钦立马开练",
+        "onboard_time": 1756365443,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14908,
+        "num": 146131,
+        "word": "甄子丹60岁还这么壮",
+        "onboard_time": 1756364902,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25732,
+        "num": 146025,
+        "word": "AI开始全面接管工厂",
+        "onboard_time": 1756364483,
+        "rank": 39,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 135015,
+        "num": 145664,
+        "word": "北京将升挂23万面国旗红旗",
+        "onboard_time": 1756365202,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145568,
+        "num": 145568,
+        "word": "陈飞宇写真完全是鬼丈夫",
+        "onboard_time": 1756365623,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135421,
+        "num": 135421,
+        "word": "龚俊晒七老童心自拍照",
+        "onboard_time": 1756365623,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129278,
+        "num": 129278,
+        "word": "年轻人胃癌发病率30年翻一番",
+        "onboard_time": 1756363642,
+        "rank": 43,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 126775,
+        "num": 126775,
+        "word": "邵子恒出道后首个综艺",
+        "onboard_time": 1756364724,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125838,
+        "num": 125838,
+        "word": "女子称被不知名男同事砸头毁容",
+        "onboard_time": 1756355543,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132161,
+        "num": 125691,
+        "word": "陈飞宇男鬼一",
+        "onboard_time": 1756365503,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125039,
+        "num": 125039,
+        "word": "宋雨琦章昊开团秒跟这一块",
+        "onboard_time": 1756362081,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124712,
+        "num": 124712,
+        "word": "真夫妻kisskiss我shyshy",
+        "onboard_time": 1756349242,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118555,
+        "num": 118555,
+        "word": "王星越 我同意开学",
+        "onboard_time": 1756361301,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中柬结成风雨同舟的铁杆友谊#"
+    }
+  }
+}
