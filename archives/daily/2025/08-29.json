@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756420811987,
+  "endTime": 1756423401318,
   "band_list": [
     {
       "raw_hot": 1196163,
@@ -11,19 +11,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1191641,
+      "num": 1191641,
+      "word": "七夕",
+      "onboard_time": 1756400179,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 779968,
       "num": 209179,
       "word": "公主抱陪爬 擦边",
       "onboard_time": 1756393403,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 734295,
-      "num": 734295,
-      "word": "七夕",
-      "onboard_time": 1756400179,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -43,12 +43,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520770,
+      "num": 520770,
+      "word": "反诈老陈打假嘎子哥翻车后道歉",
+      "onboard_time": 1756398021,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 444074,
       "num": 204153,
       "word": "虞书欣父亲委托起诉老潘财商",
       "onboard_time": 1756386984,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441073,
+      "num": 441073,
+      "word": "陈奕迅方道歉",
+      "onboard_time": 1756399459,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 388578,
@@ -73,14 +89,6 @@
       "onboard_time": 1756379902,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341393,
-      "num": 341393,
-      "word": "反诈老陈打假嘎子哥翻车后道歉",
-      "onboard_time": 1756398021,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 313625,
@@ -115,6 +123,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 258406,
+      "num": 258406,
+      "word": "气象局回应哈尔滨上空现不明飞行物",
+      "onboard_time": 1756407374,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251532,
       "num": 251532,
       "word": "中方回应有国家不愿出席九三阅兵",
@@ -123,20 +139,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 249420,
+      "num": 183253,
+      "word": "承认吧演员多读书有用",
+      "onboard_time": 1756381283,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248755,
       "num": 248755,
       "word": "刘昊然金鹿奖影帝",
       "onboard_time": 1756386684,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 242683,
-      "num": 242683,
-      "word": "陈奕迅方道歉",
-      "onboard_time": 1756399459,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 214704,
@@ -195,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155399,
-      "num": 155399,
-      "word": "气象局回应哈尔滨上空现不明飞行物",
-      "onboard_time": 1756407374,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145150,
       "num": 145150,
       "word": "iG对战BLG",
@@ -219,12 +227,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 136172,
+      "num": 89367,
+      "word": "女子为爱辞职远嫁北京18年后被离婚",
+      "onboard_time": 1756375943,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131846,
       "num": 131846,
       "word": "越睡越丑的坏习惯",
       "onboard_time": 1756384883,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 128632,
+      "num": 113909,
+      "word": "早睡觉能解决80%以上的问题",
+      "onboard_time": 1756388722,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124587,
+      "num": 124587,
+      "word": "男子持水杯砸伤女同事被刑拘",
+      "onboard_time": 1756415174,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119252,
@@ -243,14 +275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113909,
-      "num": 113909,
-      "word": "早睡觉能解决80%以上的问题",
-      "onboard_time": 1756388722,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 109363,
       "num": 109363,
       "word": "TheShy大笑",
@@ -267,12 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104687,
-      "num": 104687,
-      "word": "男子持水杯砸伤女同事被刑拘",
-      "onboard_time": 1756415174,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 95986,
+      "num": 95986,
+      "word": "刘浩存主动给刘昊然打招呼",
+      "onboard_time": 1756407855,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 89448,
@@ -283,20 +307,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89367,
-      "num": 89367,
-      "word": "女子为爱辞职远嫁北京18年后被离婚",
-      "onboard_time": 1756375943,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89243,
       "num": 89243,
       "word": "七夕还能看乒乓球",
       "onboard_time": 1756396161,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88020,
+      "num": 88020,
+      "word": "日本郊外发现装有大量人骨麻袋",
+      "onboard_time": 1756379421,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87181,
@@ -339,14 +363,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 77298,
-      "num": 109267,
-      "word": "承认吧演员多读书有用",
-      "onboard_time": 1756381283,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76278,
       "num": 76278,
       "word": "戴娇倩9岁女儿一年只长2厘米",
@@ -363,20 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71784,
-      "num": 71784,
-      "word": "刘浩存主动给刘昊然打招呼",
-      "onboard_time": 1756407855,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 71191,
       "num": 71191,
       "word": "米勒 这就是ig的比赛吗",
       "onboard_time": 1756397602,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70522,
+      "num": 70522,
+      "word": "陈奕迅方将下架影片",
+      "onboard_time": 1756418955,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 70468,
@@ -401,6 +417,22 @@
       "onboard_time": 1756385303,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 66881,
+      "num": 66881,
+      "word": "忘摘保鲜膜但得到一个塑封馒头",
+      "onboard_time": 1756420157,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 65470,
+      "num": 65470,
+      "word": "靠网贷维持体面生活的年轻人怎么样了",
+      "onboard_time": 1756390584,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64548,
@@ -451,28 +483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61885,
-      "num": 61885,
-      "word": "靠网贷维持体面生活的年轻人怎么样了",
-      "onboard_time": 1756390584,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60981,
-      "num": 60981,
-      "word": "日本郊外发现装有大量人骨麻袋",
-      "onboard_time": 1756379421,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60401,
       "num": 60401,
       "word": "警方通报男子砸伤女同事",
       "onboard_time": 1756390226,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 59724,
+      "num": 59724,
+      "word": "关晓彤霸腾女",
+      "onboard_time": 1756421657,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 59023,
@@ -483,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58788,
+      "num": 58788,
+      "word": "育儿补贴可以线上申领了",
+      "onboard_time": 1756406296,
+      "rank": 39,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 50538,
       "num": 60861,
       "word": "起底日本砸560亿公关背后",
       "onboard_time": 1756400058,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48356,
+      "num": 56758,
+      "word": "土耳其婚礼亲属鸣枪庆祝误射中新郎",
+      "onboard_time": 1756423099,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 44724,
@@ -515,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36904,
+      "num": 56751,
+      "word": "格力上半年净利润144.12亿",
+      "onboard_time": 1756422799,
+      "rank": 41,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 36834,
       "num": 56134,
       "word": "美网红卫生棉条忘体内1月险丧命",
@@ -523,20 +571,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 36751,
-      "num": 36751,
-      "word": "育儿补贴可以线上申领了",
-      "onboard_time": 1756406296,
-      "rank": 39,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 35363,
       "num": 45732,
       "word": "目之所及",
       "onboard_time": 1756401437,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34973,
+      "num": 58240,
+      "word": "九三文艺晚会细节来了",
+      "onboard_time": 1756405818,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33862,
+      "num": 56747,
+      "word": "七夕礼物",
+      "onboard_time": 1756423219,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 31853,
@@ -555,20 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27978,
-      "num": 30182,
-      "word": "陈奕迅方将下架影片",
-      "onboard_time": 1756418955,
+      "raw_hot": 30003,
+      "num": 56741,
+      "word": "黄子弘凡",
+      "onboard_time": 1756423279,
       "rank": 47,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 26790,
-      "num": 58240,
-      "word": "九三文艺晚会细节来了",
-      "onboard_time": 1756405818,
-      "rank": 9,
-      "category": "国内时政"
+      "category": "艺人"
     },
     {
       "raw_hot": 24805,
@@ -593,14 +641,6 @@
       "onboard_time": 1756397482,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20844,
-      "num": 30134,
-      "word": "忘摘保鲜膜但得到一个塑封馒头",
-      "onboard_time": 1756420157,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 20517,
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 5285,
-      "num": 350467,
+      "num": 476100,
       "word": "中国阅兵向国际传递什么信息",
       "onboard_time": 1756351521,
       "rank": 2,
