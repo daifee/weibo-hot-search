@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756419819109,
+  "endTime": 1756420811987,
   "band_list": [
     {
       "raw_hot": 1196163,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341393,
+      "num": 341393,
+      "word": "反诈老陈打假嘎子哥翻车后道歉",
+      "onboard_time": 1756398021,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 313625,
       "num": 313625,
       "word": "特朗普下令全国哀悼",
@@ -115,20 +123,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 250322,
-      "num": 250322,
-      "word": "反诈老陈打假嘎子哥翻车后道歉",
-      "onboard_time": 1756398021,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 248755,
       "num": 248755,
       "word": "刘昊然金鹿奖影帝",
       "onboard_time": 1756386684,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 242683,
+      "num": 242683,
+      "word": "陈奕迅方道歉",
+      "onboard_time": 1756399459,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 214704,
@@ -163,14 +171,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 199611,
-      "num": 199611,
-      "word": "陈奕迅方道歉",
-      "onboard_time": 1756399459,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 190883,
       "num": 190883,
       "word": "李飞黄锐 当年的事彼此各有难处",
@@ -193,6 +193,14 @@
       "onboard_time": 1756401678,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155399,
+      "num": 155399,
+      "word": "气象局回应哈尔滨上空现不明飞行物",
+      "onboard_time": 1756407374,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145150,
@@ -235,14 +243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 116230,
-      "num": 116230,
-      "word": "气象局回应哈尔滨上空现不明飞行物",
-      "onboard_time": 1756407374,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113909,
       "num": 113909,
       "word": "早睡觉能解决80%以上的问题",
@@ -264,6 +264,14 @@
       "word": "高利率网贷正在吞噬年轻人",
       "onboard_time": 1756384163,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104687,
+      "num": 104687,
+      "word": "男子持水杯砸伤女同事被刑拘",
+      "onboard_time": 1756415174,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -323,6 +331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77605,
+      "num": 70114,
+      "word": "安静公主资助过已去世的抗癌博主",
+      "onboard_time": 1756404077,
+      "rank": 30,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 77298,
       "num": 109267,
       "word": "承认吧演员多读书有用",
@@ -339,20 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74440,
-      "num": 74440,
-      "word": "男子持水杯砸伤女同事被刑拘",
-      "onboard_time": 1756415174,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73826,
       "num": 73826,
       "word": "王俊凯照片被学校当作出入证模版",
       "onboard_time": 1756373783,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71784,
+      "num": 71784,
+      "word": "刘浩存主动给刘昊然打招呼",
+      "onboard_time": 1756407855,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 71191,
@@ -369,14 +385,6 @@
       "onboard_time": 1756397482,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69494,
-      "num": 48511,
-      "word": "刘浩存主动给刘昊然打招呼",
-      "onboard_time": 1756407855,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 67457,
@@ -409,14 +417,6 @@
       "onboard_time": 1756381164,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64181,
-      "num": 51642,
-      "word": "安静公主资助过已去世的抗癌博主",
-      "onboard_time": 1756404077,
-      "rank": 30,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 63543,
@@ -523,6 +523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36751,
+      "num": 36751,
+      "word": "育儿补贴可以线上申领了",
+      "onboard_time": 1756406296,
+      "rank": 39,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 35363,
       "num": 45732,
       "word": "目之所及",
@@ -539,20 +547,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 31373,
-      "num": 31373,
-      "word": "育儿补贴可以线上申领了",
-      "onboard_time": 1756406296,
-      "rank": 39,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 30749,
       "num": 55980,
       "word": "成毅赴山海海外预热",
       "onboard_time": 1756402756,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27978,
+      "num": 30182,
+      "word": "陈奕迅方将下架影片",
+      "onboard_time": 1756418955,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26790,
+      "num": 58240,
+      "word": "九三文艺晚会细节来了",
+      "onboard_time": 1756405818,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24805,
@@ -571,7 +587,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 23662,
+      "raw_hot": 23707,
       "num": 116992,
       "word": "九三纪念活动既是铭记历史更是开创未来",
       "onboard_time": 1756397482,
@@ -579,20 +595,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22527,
-      "num": 58240,
-      "word": "九三文艺晚会细节来了",
-      "onboard_time": 1756405818,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 20844,
+      "num": 30134,
+      "word": "忘摘保鲜膜但得到一个塑封馒头",
+      "onboard_time": 1756420157,
+      "rank": 47,
+      "category": "幽默"
     },
     {
-      "raw_hot": 18136,
-      "num": 24819,
+      "raw_hot": 20517,
+      "num": 30132,
       "word": "华晨宇火星演唱会",
       "onboard_time": 1756403117,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20016,
+      "num": 30126,
+      "word": "公主抱陪爬领队回应被质疑擦边",
+      "onboard_time": 1756419316,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17758,
@@ -611,28 +635,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16659,
-      "num": 24817,
-      "word": "陈奕迅方将下架影片",
-      "onboard_time": 1756418955,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 16310,
       "num": 18240,
       "word": "开学补作业",
       "onboard_time": 1756411753,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 15382,
-      "num": 24817,
-      "word": "公主抱陪爬领队回应被质疑擦边",
-      "onboard_time": 1756419316,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14556,

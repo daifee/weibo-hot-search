@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756419819109,
+  "endTime": 1756420811987,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -3835,6 +3835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341393,
+      "num": 341393,
+      "word": "反诈老陈打假嘎子哥翻车后道歉",
+      "onboard_time": 1756398021,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 340357,
       "num": 340357,
       "word": "马嘉祺跳了刀马刀马",
@@ -4699,14 +4707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250322,
-      "num": 250322,
-      "word": "反诈老陈打假嘎子哥翻车后道歉",
-      "onboard_time": 1756398021,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 249930,
       "num": 249930,
       "word": "多人在酒店公寓卖淫嫖娼被当场抓获",
@@ -4833,6 +4833,14 @@
       "onboard_time": 1756306765,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 242683,
+      "num": 242683,
+      "word": "陈奕迅方道歉",
+      "onboard_time": 1756399459,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 241168,
@@ -6057,14 +6065,6 @@
       "onboard_time": 1756181186,
       "rank": 30,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 199611,
-      "num": 199611,
-      "word": "陈奕迅方道歉",
-      "onboard_time": 1756399459,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 199376,
@@ -9049,6 +9049,14 @@
       "onboard_time": 1756099462,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155399,
+      "num": 155399,
+      "word": "气象局回应哈尔滨上空现不明飞行物",
+      "onboard_time": 1756407374,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155284,
@@ -13035,14 +13043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116230,
-      "num": 116230,
-      "word": "气象局回应哈尔滨上空现不明飞行物",
-      "onboard_time": 1756407374,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116184,
       "num": 116184,
       "word": "伊能静天崩开局的人生",
@@ -14145,6 +14145,14 @@
       "onboard_time": 1756118606,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104687,
+      "num": 104687,
+      "word": "男子持水杯砸伤女同事被刑拘",
+      "onboard_time": 1756415174,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104648,
@@ -15715,6 +15723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77605,
+      "num": 70114,
+      "word": "安静公主资助过已去世的抗癌博主",
+      "onboard_time": 1756404077,
+      "rank": 30,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 77340,
       "num": 77340,
       "word": "莫雷加德说樊振东是很好的人",
@@ -15851,14 +15867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74440,
-      "num": 74440,
-      "word": "男子持水杯砸伤女同事被刑拘",
-      "onboard_time": 1756415174,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74307,
       "num": 156812,
       "word": "一所高校为什么能欠下35亿",
@@ -15945,6 +15953,14 @@
       "onboard_time": 1756102882,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71784,
+      "num": 71784,
+      "word": "刘浩存主动给刘昊然打招呼",
+      "onboard_time": 1756407855,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 71761,
@@ -16073,14 +16089,6 @@
       "onboard_time": 1756031482,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69494,
-      "num": 48511,
-      "word": "刘浩存主动给刘昊然打招呼",
-      "onboard_time": 1756407855,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 69432,
@@ -16305,14 +16313,6 @@
       "onboard_time": 1756288462,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 64181,
-      "num": 51642,
-      "word": "安静公主资助过已去世的抗癌博主",
-      "onboard_time": 1756404077,
-      "rank": 30,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 63914,
@@ -17859,6 +17859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36751,
+      "num": 36751,
+      "word": "育儿补贴可以线上申领了",
+      "onboard_time": 1756406296,
+      "rank": 39,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 36359,
       "num": 194691,
       "word": "男子拿着探测器到公园挖文物",
@@ -18113,14 +18121,6 @@
       "onboard_time": 1756010121,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31373,
-      "num": 31373,
-      "word": "育儿补贴可以线上申领了",
-      "onboard_time": 1756406296,
-      "rank": 39,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 31202,
@@ -18379,6 +18379,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 27978,
+      "num": 30182,
+      "word": "陈奕迅方将下架影片",
+      "onboard_time": 1756418955,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 27934,
       "num": 43362,
       "word": "刘耀文迷雾",
@@ -18433,6 +18441,14 @@
       "onboard_time": 1756375402,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 26790,
+      "num": 58240,
+      "word": "九三文艺晚会细节来了",
+      "onboard_time": 1756405818,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26699,
@@ -18667,20 +18683,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23707,
+      "num": 116992,
+      "word": "九三纪念活动既是铭记历史更是开创未来",
+      "onboard_time": 1756397482,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23679,
       "num": 32823,
       "word": "一通电话把一船人整沉默了",
       "onboard_time": 1756325054,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23662,
-      "num": 116992,
-      "word": "九三纪念活动既是铭记历史更是开创未来",
-      "onboard_time": 1756397482,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23470,
@@ -18745,14 +18761,6 @@
       "onboard_time": 1756111345,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22527,
-      "num": 58240,
-      "word": "九三文艺晚会细节来了",
-      "onboard_time": 1756405818,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22393,
@@ -18859,6 +18867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20844,
+      "num": 30134,
+      "word": "忘摘保鲜膜但得到一个塑封馒头",
+      "onboard_time": 1756420157,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20773,
       "num": 153829,
       "word": "彭昱畅怎么变这样了",
@@ -18899,6 +18915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20517,
+      "num": 30132,
+      "word": "华晨宇火星演唱会",
+      "onboard_time": 1756403117,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 20227,
       "num": 148091,
       "word": "1800年前古人就用上7格餐盘了",
@@ -18921,6 +18945,14 @@
       "onboard_time": 1756164920,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20016,
+      "num": 30126,
+      "word": "公主抱陪爬领队回应被质疑擦边",
+      "onboard_time": 1756419316,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19923,
@@ -19019,14 +19051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18136,
-      "num": 24819,
-      "word": "华晨宇火星演唱会",
-      "onboard_time": 1756403117,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 17764,
       "num": 97492,
       "word": "张淼怡终于找对风格了",
@@ -19055,14 +19079,6 @@
       "num": 24817,
       "word": "风声",
       "onboard_time": 1756403596,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 16659,
-      "num": 24817,
-      "word": "陈奕迅方将下架影片",
-      "onboard_time": 1756418955,
       "rank": 47,
       "category": "演出"
     },
@@ -19105,14 +19121,6 @@
       "onboard_time": 1756334355,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15382,
-      "num": 24817,
-      "word": "公主抱陪爬领队回应被质疑擦边",
-      "onboard_time": 1756419316,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15278,
