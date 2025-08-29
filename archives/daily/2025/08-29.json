@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756441855968,
+  "endTime": 1756442640106,
   "band_list": [
     {
       "raw_hot": 1872250,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1449098,
+      "num": 328968,
+      "word": "刘美含 15年10个字52分钟",
+      "onboard_time": 1756440862,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1435202,
       "num": 1435202,
       "word": "七夕",
@@ -35,12 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1257355,
-      "num": 1257355,
+      "raw_hot": 1352164,
+      "num": 1352164,
       "word": "两女子花3万请24位陪爬登顶泰山",
       "onboard_time": 1756437201,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1259811,
+      "num": 326628,
+      "word": "何晟铭 再见了白月光",
+      "onboard_time": 1756440203,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1196163,
@@ -51,20 +67,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1121232,
-      "num": 301977,
-      "word": "何晟铭 再见了白月光",
-      "onboard_time": 1756440203,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1099171,
-      "num": 300960,
-      "word": "刘美含 15年10个字52分钟",
-      "onboard_time": 1756440862,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 1043382,
+      "num": 325945,
+      "word": "性单恋",
+      "onboard_time": 1756439662,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 941621,
@@ -73,14 +81,6 @@
       "onboard_time": 1756434501,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 940357,
-      "num": 299150,
-      "word": "性单恋",
-      "onboard_time": 1756439662,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 788579,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 702777,
-      "num": 318444,
+      "num": 325584,
       "word": "虞书欣何与七夕海报",
       "onboard_time": 1756436121,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 638976,
+      "num": 638976,
+      "word": "金莎孙丞潇七夕聊天记录",
+      "onboard_time": 1756441044,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 634376,
@@ -163,12 +171,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 518874,
-      "num": 518874,
+      "raw_hot": 520396,
+      "num": 520396,
       "word": "中国必将统一的大势不可阻挡",
       "onboard_time": 1756437201,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 520344,
+      "num": 520344,
+      "word": "男子遭落石身亡近四个月不敢安葬",
+      "onboard_time": 1756440923,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515375,
+      "num": 515375,
+      "word": "迪丽热巴陈飞宇雨中撑伞海报",
+      "onboard_time": 1756437502,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 506814,
@@ -203,6 +227,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 456455,
+      "num": 456455,
+      "word": "王牌9家宴发布会直播",
+      "onboard_time": 1756440442,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444074,
       "num": 234786,
       "word": "虞书欣父亲委托起诉老潘财商",
@@ -211,16 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430276,
-      "num": 430276,
-      "word": "王牌9家宴发布会直播",
-      "onboard_time": 1756440442,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 411552,
-      "num": 304125,
+      "num": 324489,
       "word": "蔡明 不跟前辈打个招呼请个安吗",
       "onboard_time": 1756435341,
       "rank": 14,
@@ -275,12 +299,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 323948,
-      "num": 323948,
-      "word": "迪丽热巴陈飞宇雨中撑伞海报",
-      "onboard_time": 1756437502,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 323899,
+      "num": 323899,
+      "word": "陈都灵邓为 死去的cp复活了",
+      "onboard_time": 1756441583,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 323131,
@@ -289,14 +313,6 @@
       "onboard_time": 1756435460,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 314108,
-      "num": 290248,
-      "word": "金莎孙丞潇七夕聊天记录",
-      "onboard_time": 1756441044,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 313625,
@@ -315,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305741,
-      "num": 305741,
-      "word": "男子遭落石身亡近四个月不敢安葬",
-      "onboard_time": 1756440923,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 309935,
+      "num": 309935,
+      "word": "刘美含发生了什么",
+      "onboard_time": 1756442122,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 303131,
@@ -443,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 251418,
+      "num": 251418,
+      "word": "枭起青壤",
+      "onboard_time": 1756441583,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248911,
       "num": 248911,
       "word": "吴京出品电影上映6天票房仅26.7万",
@@ -515,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210470,
-      "num": 210470,
-      "word": "陈都灵邓为 死去的cp复活了",
-      "onboard_time": 1756441583,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 210315,
+      "num": 210315,
+      "word": "苏有朋 我卖艺不卖身",
+      "onboard_time": 1756439964,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 209527,
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 208499,
-      "num": 208499,
+      "num": 309984,
       "word": "这些新规9月起开始施行",
       "onboard_time": 1756437382,
       "rank": 34,
@@ -579,14 +603,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 203424,
-      "num": 203424,
-      "word": "苏有朋 我卖艺不卖身",
-      "onboard_time": 1756439964,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 200899,
       "num": 200899,
       "word": "土耳其一新郎被婶婶鸣枪庆祝误杀",
@@ -595,20 +611,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 200818,
+      "num": 199802,
+      "word": "山东魏桥1比0上海地产",
+      "onboard_time": 1756441464,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200397,
       "num": 200397,
       "word": "感觉豆包快要燃尽了",
       "onboard_time": 1756426162,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 199802,
-      "num": 199802,
-      "word": "山东魏桥1比0上海地产",
-      "onboard_time": 1756441464,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 197051,
@@ -635,10 +651,26 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 194292,
-      "num": 194292,
+      "raw_hot": 195384,
+      "num": 195384,
       "word": "张凌赫田曦薇拍立得",
       "onboard_time": 1756441643,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195192,
+      "num": 195192,
+      "word": "王楚钦3比0孙正",
+      "onboard_time": 1756441763,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194821,
+      "num": 194821,
+      "word": "尚公主我要七夕物料",
+      "onboard_time": 1756441943,
       "rank": 32,
       "category": "剧集"
     },
@@ -648,14 +680,6 @@
       "word": "丁禹兮邓恩熙花开锦绣七夕撒糖",
       "onboard_time": 1756441343,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193227,
-      "num": 193227,
-      "word": "枭起青壤",
-      "onboard_time": 1756441583,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -763,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168809,
-      "num": 168809,
-      "word": "王楚钦3比0孙正",
-      "onboard_time": 1756441763,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163889,
       "num": 163889,
       "word": "怎么一眼看出谁在洗钱",
@@ -835,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149060,
+      "num": 149060,
+      "word": "谁能帮秦海璐和小说打卡",
+      "onboard_time": 1756442484,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148601,
       "num": 140936,
       "word": "早睡觉能解决80%以上的问题",
@@ -867,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143822,
+      "num": 143822,
+      "word": "七夕领证就这样发朋友圈",
+      "onboard_time": 1756439662,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143560,
       "num": 143560,
       "word": "NBA顶级弹跳败给长城",
@@ -891,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142559,
+      "num": 142559,
+      "word": "宋亚轩一声妮儿给我整不会了",
+      "onboard_time": 1756442423,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138598,
       "num": 138598,
       "word": "百花杀",
@@ -913,6 +953,14 @@
       "onboard_time": 1756440142,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137579,
+      "num": 137579,
+      "word": "建议减肥不要告诉任何人",
+      "onboard_time": 1756439843,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 136877,
@@ -969,6 +1017,14 @@
       "onboard_time": 1756433660,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126211,
+      "num": 126211,
+      "word": "邓超带儿子出门偷吃零食了",
+      "onboard_time": 1756442603,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 126097,
@@ -1187,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91879,
+      "num": 169493,
+      "word": "这哪是死神来了分明是爱神来了",
+      "onboard_time": 1756441763,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89706,
       "num": 89706,
       "word": "陈奕迅方将下架影片",
@@ -1275,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78635,
+      "num": 310257,
+      "word": "国补式浪漫经济学",
+      "onboard_time": 1756440323,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76638,
       "num": 76638,
       "word": "亚朵回应女子深夜被陌生人刷卡闯入",
@@ -1305,14 +1377,6 @@
       "onboard_time": 1756373783,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73675,
-      "num": 169493,
-      "word": "这哪是死神来了分明是爱神来了",
-      "onboard_time": 1756441763,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 71503,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1756390584,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70025,
+      "num": 195486,
+      "word": "新一代智己LS6小订近5万台",
+      "onboard_time": 1756441643,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 69174,
@@ -1427,14 +1499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 62801,
-      "num": 286805,
-      "word": "国补式浪漫经济学",
-      "onboard_time": 1756440323,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62726,
       "num": 62726,
       "word": "珍惜那个能接住你情绪的人",
@@ -1473,14 +1537,6 @@
       "onboard_time": 1756390226,
       "rank": 48,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 60289,
-      "num": 195486,
-      "word": "新一代智己LS6小订近5万台",
-      "onboard_time": 1756441643,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 59797,
@@ -1579,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44036,
+      "num": 200221,
+      "word": "你心中的理想伴侣",
+      "onboard_time": 1756440323,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 42827,
       "num": 268587,
       "word": "支持老旧住房自主更新原拆原建",
@@ -1595,20 +1659,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40918,
+      "num": 159844,
+      "word": "胖东来1对1辅导面试真题卖99元",
+      "onboard_time": 1756441882,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40911,
       "num": 60938,
       "word": "高铁特等座 面壁思过",
       "onboard_time": 1756423758,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39581,
-      "num": 200221,
-      "word": "你心中的理想伴侣",
-      "onboard_time": 1756440323,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 38671,
@@ -1628,7 +1692,7 @@
     },
     {
       "raw_hot": 37911,
-      "num": 291109,
+      "num": 310881,
       "word": "极氪9X座舱满级豪华突破想象",
       "onboard_time": 1756440323,
       "rank": 16,
