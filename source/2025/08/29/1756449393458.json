@@ -1,0 +1,410 @@
+{
+  "runTime": 1756449393458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1473371,
+        "num": 1473371,
+        "word": "美团将全面取消骑手超时罚款",
+        "onboard_time": 1756443503,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 470355,
+        "num": 470355,
+        "word": "两女子花3万请24位陪爬登顶泰山",
+        "onboard_time": 1756437201,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6851,
+        "num": 432500,
+        "word": "九三纪念活动既是铭记历史更是开创未来",
+        "onboard_time": 1756397482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 397842,
+        "num": 397842,
+        "word": "金莎孙丞潇七夕聊天记录",
+        "onboard_time": 1756441044,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377173,
+        "num": 377173,
+        "word": "刘诗诗鞠婧祎迪丽热巴拍CT都好看",
+        "onboard_time": 1756445183,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301892,
+        "num": 301892,
+        "word": "反诈老陈又翻车了",
+        "onboard_time": 1756431560,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298591,
+        "num": 298591,
+        "word": "程潇 告诉杜华等于告诉全世界",
+        "onboard_time": 1756443683,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268171,
+        "num": 268171,
+        "word": "九三阅兵临近日本为何急了",
+        "onboard_time": 1756439903,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226328,
+        "num": 226328,
+        "word": "宠物喂食器 泄露隐私",
+        "onboard_time": 1756447042,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195438,
+        "num": 195438,
+        "word": "七夕",
+        "onboard_time": 1756400179,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3816701,
+        "num": 192220,
+        "word": "刘美含 张远",
+        "onboard_time": 1756446023,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431822,
+        "num": 191294,
+        "word": "张凌赫突然睡醒发七夕快乐",
+        "onboard_time": 1756435221,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406299,
+        "num": 188078,
+        "word": "虞书欣父亲委托律师声明无公章",
+        "onboard_time": 1756445543,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284708,
+        "num": 184043,
+        "word": "孕妇不发朋友圈的原因找到了",
+        "onboard_time": 1756442904,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275219,
+        "num": 180905,
+        "word": "何晟铭 再见了白月光",
+        "onboard_time": 1756440203,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2310578,
+        "num": 175952,
+        "word": "刘美含和张远互相取关",
+        "onboard_time": 1756449202,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26234,
+        "num": 174391,
+        "word": "郭涛成蔚来乐道L90第一万个用户",
+        "onboard_time": 1756445783,
+        "rank": 16,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 272862,
+        "num": 172190,
+        "word": "男子遭落石身亡近四个月不敢安葬",
+        "onboard_time": 1756440923,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169085,
+        "num": 169085,
+        "word": "赛琳娜头纱比基尼",
+        "onboard_time": 1756449202,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220365,
+        "num": 168965,
+        "word": "日本博主在网络上离间中国民众",
+        "onboard_time": 1756444763,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191227,
+        "num": 168905,
+        "word": "老潘财商被指抹黑虞书欣父亲",
+        "onboard_time": 1756443802,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168692,
+        "num": 168692,
+        "word": "皮质醇过高的表现",
+        "onboard_time": 1756443802,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166038,
+        "num": 166038,
+        "word": "鹿晗给粉丝准备了玫瑰",
+        "onboard_time": 1756447642,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165520,
+        "num": 165520,
+        "word": "早期的董璇",
+        "onboard_time": 1756444284,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160937,
+        "num": 160937,
+        "word": "杜淳记错七夕节",
+        "onboard_time": 1756444343,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154039,
+        "num": 154039,
+        "word": "徐冬冬尹子维年内完婚",
+        "onboard_time": 1756449082,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147091,
+        "num": 147091,
+        "word": "孙俪知道等等在地库吃零食吗",
+        "onboard_time": 1756445303,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125400,
+        "num": 144648,
+        "word": "医学女博士走上阅兵场",
+        "onboard_time": 1756446742,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143259,
+        "num": 143259,
+        "word": "港剧爹富富一窝",
+        "onboard_time": 1756448242,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26500,
+        "num": 142485,
+        "word": "24岁男子不顺从被传销组织折磨致死",
+        "onboard_time": 1756449082,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191692,
+        "num": 142476,
+        "word": "汕头明润3比1山东鲁能",
+        "onboard_time": 1756448303,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142402,
+        "num": 142402,
+        "word": "柯淳酒店唱歌被投诉",
+        "onboard_time": 1756448483,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10067,
+        "num": 142363,
+        "word": "阅兵官兵剪影大图",
+        "onboard_time": 1756449143,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41556,
+        "num": 142327,
+        "word": "阅兵训练场革命先辈的精神具象化了",
+        "onboard_time": 1756448663,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25327,
+        "num": 142266,
+        "word": "致英烈的山河信",
+        "onboard_time": 1756425921,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40533,
+        "num": 142209,
+        "word": "执子之手家国同心",
+        "onboard_time": 1756449322,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142195,
+        "num": 142195,
+        "word": "起猛了看到女主怀孕男主生娃",
+        "onboard_time": 1756445783,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135709,
+        "num": 135709,
+        "word": "迪丽热巴陈飞宇雨中撑伞海报",
+        "onboard_time": 1756437502,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36495,
+        "num": 128950,
+        "word": "巧克力拉布布",
+        "onboard_time": 1756448483,
+        "rank": 38,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 74840,
+        "num": 127162,
+        "word": "被樊振东的笑治愈了",
+        "onboard_time": 1756448242,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104146,
+        "num": 127034,
+        "word": "王添艺3比1陈幸同",
+        "onboard_time": 1756447042,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126973,
+        "num": 126973,
+        "word": "秀恩爱的朋友圈越来越少了",
+        "onboard_time": 1756449082,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119765,
+        "num": 119765,
+        "word": "张晚意这集在成毅身上见过",
+        "onboard_time": 1756445962,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5970,
+        "num": 111019,
+        "word": "李一桐希望大家都能善忘一点",
+        "onboard_time": 1756449322,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110281,
+        "num": 110281,
+        "word": "能比过欧豪的只有早期欧豪",
+        "onboard_time": 1756447523,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106324,
+        "num": 106324,
+        "word": "张予曦 我不同意开学也没用",
+        "onboard_time": 1756443084,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246641,
+        "num": 104769,
+        "word": "性单恋",
+        "onboard_time": 1756439662,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98544,
+        "num": 98544,
+        "word": "浙江一化工厂起火2人遇难",
+        "onboard_time": 1756448061,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98775,
+        "num": 98540,
+        "word": "王楚钦看得我哈特暖暖",
+        "onboard_time": 1756448902,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98507,
+        "num": 98507,
+        "word": "陈楚生十二乐章官宣",
+        "onboard_time": 1756447702,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#众行致远#"
+    }
+  }
+}
