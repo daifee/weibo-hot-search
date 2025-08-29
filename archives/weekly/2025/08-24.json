@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756472650404,
+  "endTime": 1756474370160,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -859,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1041879,
+      "num": 239613,
+      "word": "男子转账备注自愿赠与分手起诉返还",
+      "onboard_time": 1756470385,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1041296,
       "num": 1166607,
       "word": "王牌对王牌9按年龄排序",
@@ -1380,7 +1388,7 @@
     },
     {
       "raw_hot": 812278,
-      "num": 370729,
+      "num": 383919,
       "word": "男主疯了男二死了男三黑化",
       "onboard_time": 1756468282,
       "rank": 3,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1756050325,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 795990,
+      "num": 244627,
+      "word": "孕妇坠崖案当事人仍无法离婚",
+      "onboard_time": 1756471222,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 795223,
@@ -2089,14 +2105,6 @@
       "onboard_time": 1756349963,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 624523,
-      "num": 244627,
-      "word": "孕妇坠崖案当事人仍无法离婚",
-      "onboard_time": 1756471222,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 622220,
@@ -3259,6 +3267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454654,
+      "num": 236949,
+      "word": "薛小婉称快与任权分手",
+      "onboard_time": 1756470744,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 454511,
       "num": 644382,
       "word": "中国地下700米有了个全球第一",
@@ -3297,6 +3313,14 @@
       "onboard_time": 1756287864,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450324,
+      "num": 450324,
+      "word": "原神",
+      "onboard_time": 1756271904,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 449869,
@@ -3753,6 +3777,14 @@
       "onboard_time": 1756053621,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397931,
+      "num": 284286,
+      "word": "咸鱼飞升",
+      "onboard_time": 1756472905,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 394865,
@@ -4579,14 +4611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315399,
-      "num": 224239,
-      "word": "薛小婉称快与任权分手",
-      "onboard_time": 1756470744,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 314185,
       "num": 238700,
       "word": "于适贴脸开大马頔南山南",
@@ -4969,14 +4993,6 @@
       "onboard_time": 1756180102,
       "rank": 40,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 282428,
-      "num": 221697,
-      "word": "男子转账备注自愿赠与分手起诉返还",
-      "onboard_time": 1756470385,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282320,
@@ -6323,6 +6339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211894,
+      "num": 211894,
+      "word": "王俊凯易烊千玺 王源演唱会",
+      "onboard_time": 1756474165,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211834,
       "num": 211834,
       "word": "王楚然美貌不基础打游戏更不基础",
@@ -6931,6 +6955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200864,
+      "num": 200864,
+      "word": "被清华大学的录取通知书震惊到了",
+      "onboard_time": 1756469303,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200835,
       "num": 217940,
       "word": "卢远两张约会卡都给王乐晨",
@@ -7259,6 +7291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196521,
+      "num": 196521,
+      "word": "李菁菁瘦到认不出",
+      "onboard_time": 1756472664,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196499,
       "num": 196499,
       "word": "谁懂一部8.2分动作片的含金量",
@@ -7521,14 +7561,6 @@
       "onboard_time": 1756040365,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 192966,
-      "num": 192966,
-      "word": "原神",
-      "onboard_time": 1756271904,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 192961,
@@ -8795,14 +8827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176746,
-      "num": 176746,
-      "word": "被清华大学的录取通知书震惊到了",
-      "onboard_time": 1756469303,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 176696,
       "num": 335931,
       "word": "这首歌把军号谱进了曲子里",
@@ -9235,6 +9259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169889,
+      "num": 169889,
+      "word": "庞博现在孩子都从哪学东西",
+      "onboard_time": 1756473383,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169554,
       "num": 169554,
       "word": "Kpop上新男团",
@@ -9531,6 +9563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166507,
+      "num": 166507,
+      "word": "我家那闺女",
+      "onboard_time": 1756471462,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166418,
       "num": 166418,
       "word": "费内巴切官宣穆里尼奥下课",
@@ -9553,6 +9593,14 @@
       "onboard_time": 1756098744,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165934,
+      "num": 165934,
+      "word": "张杰七夕攒了波大的",
+      "onboard_time": 1756474044,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 165667,
@@ -9681,6 +9729,14 @@
       "onboard_time": 1756431322,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163761,
+      "num": 163761,
+      "word": "TOP登陆少年一周年演唱会灯牌",
+      "onboard_time": 1756472664,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 163748,
@@ -9848,14 +9904,6 @@
       "word": "杨幂柔韧性完美救场",
       "onboard_time": 1756276823,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161725,
-      "num": 161725,
-      "word": "我家那闺女",
-      "onboard_time": 1756471462,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -10515,6 +10563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155274,
+      "num": 155274,
+      "word": "马嘉祺写你MV好催泪",
+      "onboard_time": 1756473204,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155246,
       "num": 155246,
       "word": "九重天",
@@ -10649,6 +10705,14 @@
       "onboard_time": 1756094062,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154122,
+      "num": 154122,
+      "word": "柳智敏solo曲",
+      "onboard_time": 1756472723,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 153988,
@@ -11083,6 +11147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149222,
+      "num": 149222,
+      "word": "伊能静称赞前夫庾澄庆人品很好",
+      "onboard_time": 1756469904,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149165,
       "num": 163835,
       "word": "肖战转发目之所及",
@@ -11185,6 +11257,14 @@
       "onboard_time": 1756095325,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147937,
+      "num": 147937,
+      "word": "AG对战TTG",
+      "onboard_time": 1756467803,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 147833,
@@ -11619,6 +11699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144094,
+      "num": 144094,
+      "word": "左航舞台像婚礼现场",
+      "onboard_time": 1756473445,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144046,
       "num": 144046,
       "word": "鲁迅夹烟墙画被投诉当事人发声",
@@ -11835,6 +11923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142473,
+      "num": 142473,
+      "word": "华晨宇爱神丘比特妆造",
+      "onboard_time": 1756474044,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142402,
       "num": 142402,
       "word": "柯淳酒店唱歌被投诉",
@@ -11857,6 +11953,14 @@
       "onboard_time": 1756096884,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142258,
+      "num": 142258,
+      "word": "朱志鑫姐姐你们听到了吗",
+      "onboard_time": 1756473503,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 142237,
@@ -12507,6 +12611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136612,
+      "num": 136612,
+      "word": "章若楠相机基础脸就不基础",
+      "onboard_time": 1756474284,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136473,
       "num": 136473,
       "word": "陈自瑶否认和王浩信参加再见爱人",
@@ -12867,14 +12979,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 133589,
-      "num": 133589,
-      "word": "伊能静称赞前夫庾澄庆人品很好",
-      "onboard_time": 1756469904,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133392,
       "num": 133392,
       "word": "儿子过世母亲精神异常每天小区骂人",
@@ -13217,6 +13321,14 @@
       "onboard_time": 1756040064,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130764,
+      "num": 131035,
+      "word": "山魈砸碎动物园玻璃游客被吓半死",
+      "onboard_time": 1756472486,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130674,
@@ -13569,6 +13681,14 @@
       "onboard_time": 1755997341,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127973,
+      "num": 127973,
+      "word": "华为总资产达1.251万亿元",
+      "onboard_time": 1756472424,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 127957,
@@ -14899,14 +15019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118858,
-      "num": 118858,
-      "word": "AG对战TTG",
-      "onboard_time": 1756467803,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 118824,
       "num": 118824,
       "word": "披荆斩棘",
@@ -15633,6 +15745,14 @@
       "onboard_time": 1756024642,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113545,
+      "num": 148139,
+      "word": "深圳大学1比0成都高新若水居",
+      "onboard_time": 1756473323,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 113519,
@@ -17323,6 +17443,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 99134,
+      "num": 147960,
+      "word": "沙溢回应王牌跑男二选一",
+      "onboard_time": 1756474104,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99125,
       "num": 99125,
       "word": "陶白白 在爱中保持魅力的秘诀",
@@ -17721,6 +17849,14 @@
       "onboard_time": 1755944002,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94079,
+      "num": 123457,
+      "word": "林诗栋3比1孙闻",
+      "onboard_time": 1756474344,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93951,
@@ -18275,6 +18411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 84507,
+      "num": 148007,
+      "word": "杨幂 言之有物的微博老祖",
+      "onboard_time": 1756473864,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84367,
       "num": 84367,
       "word": "见过啃老的第一次见啃房东的",
@@ -18440,6 +18584,14 @@
       "word": "南京6头野猪10多分钟横渡长江",
       "onboard_time": 1756071315,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80584,
+      "num": 239854,
+      "word": "重点处置10类涉退役军人不当行为",
+      "onboard_time": 1756473564,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -20627,14 +20779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43491,
-      "num": 131035,
-      "word": "山魈砸碎动物园玻璃游客被吓半死",
-      "onboard_time": 1756472486,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43283,
       "num": 56156,
       "word": "白鹿看不腻live图",
@@ -20697,6 +20841,14 @@
       "onboard_time": 1756466182,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42670,
+      "num": 226071,
+      "word": "李学用说风云T11安全超百万豪车",
+      "onboard_time": 1756472664,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 42571,
@@ -21169,6 +21321,14 @@
       "onboard_time": 1756391483,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36228,
+      "num": 233148,
+      "word": "CPB檀健次七夕直播",
+      "onboard_time": 1756472664,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 36169,
