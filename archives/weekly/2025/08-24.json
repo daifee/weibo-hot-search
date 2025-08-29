@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756436861517,
+  "endTime": 1756437400925,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -299,7 +299,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1558684,
+      "raw_hot": 1571897,
       "num": 294377,
       "word": "张凌赫突然睡醒发七夕快乐",
       "onboard_time": 1756435221,
@@ -2731,6 +2731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489213,
+      "num": 315320,
+      "word": "陈乔恩在明道阮经天中选艾伦",
+      "onboard_time": 1756436062,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488967,
       "num": 788173,
       "word": "王艳两场直播销售额超3000万",
@@ -3403,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401426,
+      "num": 332071,
+      "word": "逐玉",
+      "onboard_time": 1756435520,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398763,
       "num": 398763,
       "word": "98岁老人头上长皮角自行剪除",
@@ -3971,6 +3987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334532,
+      "num": 287831,
+      "word": "蔡明 不跟前辈打个招呼请个安吗",
+      "onboard_time": 1756435341,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333490,
       "num": 333490,
       "word": "马薇薇和男友合照",
@@ -3985,14 +4009,6 @@
       "onboard_time": 1755994041,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 332071,
-      "num": 332071,
-      "word": "逐玉",
-      "onboard_time": 1756435520,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 331089,
@@ -4083,20 +4099,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323131,
+      "num": 286014,
+      "word": "宋威龙赵今麦吻戏",
+      "onboard_time": 1756435460,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321996,
       "num": 256654,
       "word": "持刀追赶男孩女子有精神分裂症",
       "onboard_time": 1756125385,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 319756,
-      "num": 287831,
-      "word": "蔡明 不跟前辈打个招呼请个安吗",
-      "onboard_time": 1756435341,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 319574,
@@ -4121,6 +4137,14 @@
       "onboard_time": 1756121662,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317312,
+      "num": 239128,
+      "word": "虞书欣何与七夕海报",
+      "onboard_time": 1756436121,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 314185,
@@ -4212,7 +4236,7 @@
     },
     {
       "raw_hot": 303131,
-      "num": 233898,
+      "num": 235365,
       "word": "单身的人建议反复观看",
       "onboard_time": 1756434260,
       "rank": 21,
@@ -4417,14 +4441,6 @@
       "onboard_time": 1756010121,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 286014,
-      "num": 286014,
-      "word": "宋威龙赵今麦吻戏",
-      "onboard_time": 1756435460,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 285794,
@@ -4779,6 +4795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256918,
+      "num": 235571,
+      "word": "迪丽热巴陈飞宇七夕花絮",
+      "onboard_time": 1756436002,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256470,
       "num": 218799,
       "word": "张馨予 为啥补货啊姐一直在",
@@ -4825,14 +4849,6 @@
       "onboard_time": 1756126884,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254425,
-      "num": 232942,
-      "word": "虞书欣何与七夕海报",
-      "onboard_time": 1756436121,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 253951,
@@ -4921,14 +4937,6 @@
       "onboard_time": 1756256062,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248472,
-      "num": 235271,
-      "word": "陈乔恩在明道阮经天中选艾伦",
-      "onboard_time": 1756436062,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 248412,
@@ -5033,6 +5041,14 @@
       "onboard_time": 1756306765,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 242739,
+      "num": 242739,
+      "word": "陶白白七夕建议天蝎座找点事做",
+      "onboard_time": 1756436661,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 241168,
@@ -5203,6 +5219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 234970,
+      "num": 234970,
+      "word": "黄景瑜芭莎金九主题刊封面",
+      "onboard_time": 1756437323,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 234492,
       "num": 234492,
       "word": "印度男子烧死妻子被抓后竟称不后悔",
@@ -5299,14 +5323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 230856,
-      "num": 230856,
-      "word": "陶白白七夕建议天蝎座找点事做",
-      "onboard_time": 1756436661,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 230794,
       "num": 230002,
       "word": "赵丽颖曾让保镖一起撑伞躲雨",
@@ -5393,14 +5409,6 @@
       "onboard_time": 1756357823,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225661,
-      "num": 225661,
-      "word": "迪丽热巴陈飞宇七夕花絮",
-      "onboard_time": 1756436002,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 225581,
@@ -5657,6 +5665,14 @@
       "onboard_time": 1756200442,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 213914,
+      "num": 213914,
+      "word": "表妹万福",
+      "onboard_time": 1756435281,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 213856,
@@ -6009,14 +6025,6 @@
       "onboard_time": 1756040305,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205303,
-      "num": 205303,
-      "word": "表妹万福",
-      "onboard_time": 1756435281,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 204608,
@@ -9339,6 +9347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 155709,
+      "num": 155709,
+      "word": "这些新规9月起开始施行",
+      "onboard_time": 1756437382,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155632,
       "num": 155632,
       "word": "霉霉 世女一的含金量",
@@ -9851,6 +9867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149809,
+      "num": 149809,
+      "word": "造谣韩磊者因电话丢失存在信息误差",
+      "onboard_time": 1756437082,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149792,
       "num": 149792,
       "word": "韩磊方已报警",
@@ -10073,6 +10097,14 @@
       "onboard_time": 1756368982,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146395,
+      "num": 146395,
+      "word": "两女子花3万请24位陪爬登顶泰山",
+      "onboard_time": 1756437201,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146382,
@@ -11795,6 +11827,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 129906,
+      "num": 129906,
+      "word": "中国必将统一的大势不可阻挡",
+      "onboard_time": 1756437201,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129894,
       "num": 128733,
       "word": "李兰迪 人形沙袋",
@@ -11985,6 +12025,14 @@
       "onboard_time": 1756390764,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128609,
+      "num": 128609,
+      "word": "梁王决胜局连丢6分",
+      "onboard_time": 1756435161,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 128549,
@@ -12267,6 +12315,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 125868,
+      "num": 125868,
+      "word": "入青云",
+      "onboard_time": 1756437382,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125861,
       "num": 125861,
       "word": "日版水浒传",
@@ -12521,6 +12577,14 @@
       "onboard_time": 1756118123,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 123626,
+      "num": 123626,
+      "word": "山河枕",
+      "onboard_time": 1756436303,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 123562,
@@ -13313,6 +13377,14 @@
       "onboard_time": 1756361722,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117476,
+      "num": 117476,
+      "word": "光夜七夕加蜜通讯来啦",
+      "onboard_time": 1756437323,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 117408,
@@ -14131,14 +14203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108557,
-      "num": 108557,
-      "word": "山河枕",
-      "onboard_time": 1756436303,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108497,
       "num": 108497,
       "word": "真的可以永远相信中式审美",
@@ -14161,14 +14225,6 @@
       "onboard_time": 1756350322,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108303,
-      "num": 108303,
-      "word": "梁王决胜局连丢6分",
-      "onboard_time": 1756435161,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 108294,
@@ -14241,6 +14297,14 @@
       "onboard_time": 1756002502,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107448,
+      "num": 112968,
+      "word": "苹果跨肩背带首曝",
+      "onboard_time": 1756437021,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 107384,
@@ -17283,6 +17347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56775,
+      "num": 137298,
+      "word": "七夕当天的你",
+      "onboard_time": 1756437021,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56753,
       "num": 56753,
       "word": "易烊千玺没见面的同桌上网课",
@@ -18179,6 +18251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 41692,
+      "num": 238518,
+      "word": "联合国的地位必须维护不能取代",
+      "onboard_time": 1756437082,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41433,
       "num": 127850,
       "word": "天安门广场放飞气球画面亮相",
@@ -18571,6 +18651,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 35083,
+      "num": 237657,
+      "word": "新中国成立以来从未主动挑起一场战争",
+      "onboard_time": 1756436541,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34973,
       "num": 58240,
       "word": "九三文艺晚会细节来了",
@@ -18664,6 +18752,14 @@
       "word": "西南大学外卖配送现状学生发声",
       "onboard_time": 1756305685,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33353,
+      "num": 238836,
+      "word": "家政阿姨结婚30年后第一张婚纱照",
+      "onboard_time": 1756436841,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -18793,6 +18889,14 @@
       "onboard_time": 1756281682,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30762,
+      "num": 188371,
+      "word": "中国每3度电就有1度是绿电",
+      "onboard_time": 1756437142,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30749,
@@ -19193,14 +19297,6 @@
       "onboard_time": 1755976516,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25044,
-      "num": 233708,
-      "word": "新中国成立以来从未主动挑起一场战争",
-      "onboard_time": 1756436541,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24805,
@@ -19761,14 +19857,6 @@
       "onboard_time": 1756334355,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15915,
-      "num": 124728,
-      "word": "家政阿姨结婚30年后第一张婚纱照",
-      "onboard_time": 1756436841,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15278,

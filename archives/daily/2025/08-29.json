@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756436861517,
+  "endTime": 1756437400925,
   "band_list": [
     {
       "raw_hot": 1872250,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1558684,
+      "raw_hot": 1571897,
       "num": 294377,
       "word": "张凌赫突然睡醒发七夕快乐",
       "onboard_time": 1756435221,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 539094,
-      "num": 234575,
+      "num": 237121,
       "word": "贾玲 上镜胖十斤受害者",
       "onboard_time": 1756383023,
       "rank": 20,
@@ -131,6 +131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 489213,
+      "num": 315320,
+      "word": "陈乔恩在明道阮经天中选艾伦",
+      "onboard_time": 1756436062,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474088,
       "num": 474088,
       "word": "minilabubu上线卖爆了",
@@ -145,6 +153,14 @@
       "onboard_time": 1756386984,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401426,
+      "num": 332071,
+      "word": "逐玉",
+      "onboard_time": 1756435520,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 388578,
@@ -179,20 +195,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332071,
-      "num": 332071,
-      "word": "逐玉",
-      "onboard_time": 1756435520,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 319756,
+      "raw_hot": 334532,
       "num": 287831,
       "word": "蔡明 不跟前辈打个招呼请个安吗",
       "onboard_time": 1756435341,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323131,
+      "num": 286014,
+      "word": "宋威龙赵今麦吻戏",
+      "onboard_time": 1756435460,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 317312,
+      "num": 239128,
+      "word": "虞书欣何与七夕海报",
+      "onboard_time": 1756436121,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 313625,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 303131,
-      "num": 233898,
+      "num": 235365,
       "word": "单身的人建议反复观看",
       "onboard_time": 1756434260,
       "rank": 21,
@@ -267,14 +291,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 286014,
-      "num": 286014,
-      "word": "宋威龙赵今麦吻戏",
-      "onboard_time": 1756435460,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283950,
       "num": 192163,
       "word": "承认吧演员多读书有用",
@@ -299,11 +315,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254425,
-      "num": 232942,
-      "word": "虞书欣何与七夕海报",
-      "onboard_time": 1756436121,
-      "rank": 24,
+      "raw_hot": 256918,
+      "num": 235571,
+      "word": "迪丽热巴陈飞宇七夕花絮",
+      "onboard_time": 1756436002,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -331,12 +347,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248472,
-      "num": 235271,
-      "word": "陈乔恩在明道阮经天中选艾伦",
-      "onboard_time": 1756436062,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 242739,
+      "num": 242739,
+      "word": "陶白白七夕建议天蝎座找点事做",
+      "onboard_time": 1756436661,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 235483,
@@ -347,28 +363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234970,
+      "num": 234970,
+      "word": "黄景瑜芭莎金九主题刊封面",
+      "onboard_time": 1756437323,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 233273,
       "num": 233273,
       "word": "王牌对王牌第100期录制repo",
       "onboard_time": 1756433482,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230856,
-      "num": 230856,
-      "word": "陶白白七夕建议天蝎座找点事做",
-      "onboard_time": 1756436661,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 225661,
-      "num": 225661,
-      "word": "迪丽热巴陈飞宇七夕花絮",
-      "onboard_time": 1756436002,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 214704,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213914,
+      "num": 213914,
+      "word": "表妹万福",
+      "onboard_time": 1756435281,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209527,
       "num": 223765,
       "word": "李一桐说戚薇油到土耳其了",
@@ -400,14 +416,6 @@
       "word": "泰版三十而已看上头了",
       "onboard_time": 1756425860,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205303,
-      "num": 205303,
-      "word": "表妹万福",
-      "onboard_time": 1756435281,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -523,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155709,
+      "num": 155709,
+      "word": "这些新规9月起开始施行",
+      "onboard_time": 1756437382,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155177,
       "num": 104619,
       "word": "女子为爱辞职远嫁北京18年后被离婚",
@@ -539,12 +555,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149809,
+      "num": 149809,
+      "word": "造谣韩磊者因电话丢失存在信息误差",
+      "onboard_time": 1756437082,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148601,
       "num": 140936,
       "word": "早睡觉能解决80%以上的问题",
       "onboard_time": 1756388722,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146395,
+      "num": 146395,
+      "word": "两女子花3万请24位陪爬登顶泰山",
+      "onboard_time": 1756437201,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145372,
@@ -603,6 +635,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 129906,
+      "num": 129906,
+      "word": "中国必将统一的大势不可阻挡",
+      "onboard_time": 1756437201,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 128609,
+      "num": 128609,
+      "word": "梁王决胜局连丢6分",
+      "onboard_time": 1756435161,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127141,
       "num": 127141,
       "word": "王楚然 星河予你",
@@ -627,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125868,
+      "num": 125868,
+      "word": "入青云",
+      "onboard_time": 1756437382,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125321,
       "num": 125321,
       "word": "星穹铁道风堇贺图",
@@ -641,6 +697,14 @@
       "onboard_time": 1756429942,
       "rank": 36,
       "category": "母婴育儿,民生新闻"
+    },
+    {
+      "raw_hot": 123626,
+      "num": 123626,
+      "word": "山河枕",
+      "onboard_time": 1756436303,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 121801,
@@ -683,6 +747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117476,
+      "num": 117476,
+      "word": "光夜七夕加蜜通讯来啦",
+      "onboard_time": 1756437323,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115376,
       "num": 106681,
       "word": "高利率网贷正在吞噬年轻人",
@@ -723,28 +795,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108557,
-      "num": 108557,
-      "word": "山河枕",
-      "onboard_time": 1756436303,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 108303,
-      "num": 108303,
-      "word": "梁王决胜局连丢6分",
-      "onboard_time": 1756435161,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107684,
       "num": 107684,
       "word": "迷你LABUBU一端炒至2500元",
       "onboard_time": 1756431201,
       "rank": 35,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 107448,
+      "num": 112968,
+      "word": "苹果跨肩背带首曝",
+      "onboard_time": 1756437021,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 106087,
@@ -1091,6 +1155,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 56775,
+      "num": 137298,
+      "word": "七夕当天的你",
+      "onboard_time": 1756437021,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55873,
       "num": 55873,
       "word": "李佳琦不允许任何人脸是油的",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1756423279,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41692,
+      "num": 238518,
+      "word": "联合国的地位必须维护不能取代",
+      "onboard_time": 1756437082,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40911,
@@ -1187,12 +1267,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35083,
+      "num": 237657,
+      "word": "新中国成立以来从未主动挑起一场战争",
+      "onboard_time": 1756436541,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34973,
       "num": 58240,
       "word": "九三文艺晚会细节来了",
       "onboard_time": 1756405818,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33353,
+      "num": 238836,
+      "word": "家政阿姨结婚30年后第一张婚纱照",
+      "onboard_time": 1756436841,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31853,
@@ -1203,20 +1299,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 30762,
+      "num": 188371,
+      "word": "中国每3度电就有1度是绿电",
+      "onboard_time": 1756437142,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30749,
       "num": 55980,
       "word": "成毅赴山海海外预热",
       "onboard_time": 1756402756,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25044,
-      "num": 233708,
-      "word": "新中国成立以来从未主动挑起一场战争",
-      "onboard_time": 1756436541,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24805,
@@ -1297,14 +1393,6 @@
       "onboard_time": 1756411753,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 15915,
-      "num": 124728,
-      "word": "家政阿姨结婚30年后第一张婚纱照",
-      "onboard_time": 1756436841,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14556,
