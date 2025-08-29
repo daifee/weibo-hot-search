@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756485953725,
+  "endTime": 1756488150710,
   "band_list": [
     {
       "raw_hot": 1234034,
@@ -131,6 +131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185563,
+      "num": 197052,
+      "word": "加拿大网友问中国有电影院吗",
+      "onboard_time": 1756483283,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182570,
       "num": 200264,
       "word": "金正恩出席九三阅兵为何意义重大",
@@ -147,20 +155,20 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 176876,
-      "num": 197052,
-      "word": "加拿大网友问中国有电影院吗",
-      "onboard_time": 1756483283,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 142830,
       "num": 197175,
       "word": "杨幂复刻爷们儿要脸",
       "onboard_time": 1756477104,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135660,
+      "num": 197067,
+      "word": "教育局回应1.4亿元配学生运动手环",
+      "onboard_time": 1756468163,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135053,
@@ -185,14 +193,6 @@
       "onboard_time": 1756469544,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 106425,
-      "num": 197067,
-      "word": "教育局回应1.4亿元配学生运动手环",
-      "onboard_time": 1756468163,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103104,
@@ -347,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68584,
+      "num": 114397,
+      "word": "苏醒补刀张远爱着爱着爱人不见了",
+      "onboard_time": 1756486342,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66444,
       "num": 196932,
       "word": "鹿晗祝大家七夕快乐",
@@ -395,12 +403,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42147,
+      "num": 112248,
+      "word": "李菁菁瘦到认不出",
+      "onboard_time": 1756472664,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40914,
+      "num": 111774,
+      "word": "原神",
+      "onboard_time": 1756468222,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40555,
       "num": 196951,
       "word": "檀健次早晚是你的",
       "onboard_time": 1756478666,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37492,
+      "num": 111643,
+      "word": "左航相依为命",
+      "onboard_time": 1756487839,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 35378,
+      "num": 111461,
+      "word": "美防长提议通话后中方已读未回",
+      "onboard_time": 1756487300,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31198,
