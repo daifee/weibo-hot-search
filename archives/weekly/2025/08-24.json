@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756456385538,
+  "endTime": 1756457162867,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -1011,6 +1011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 951490,
+      "num": 258245,
+      "word": "伊利回应虞书欣代言",
+      "onboard_time": 1756455802,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 949498,
       "num": 949498,
       "word": "宝格丽 张元英",
@@ -1075,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 934020,
+      "num": 1149443,
+      "word": "一念江南",
+      "onboard_time": 1756452923,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 933598,
       "num": 243529,
       "word": "田栩宁高定首穿",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1756386684,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 906873,
-      "num": 906873,
-      "word": "一念江南",
-      "onboard_time": 1756452923,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 889117,
@@ -1744,6 +1752,14 @@
       "word": "宗馥莉回应娃哈哈争议问题",
       "onboard_time": 1756270283,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 681422,
+      "num": 202346,
+      "word": "老潘财商发声明",
+      "onboard_time": 1756456702,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -3267,14 +3283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 442249,
-      "num": 258245,
-      "word": "伊利回应虞书欣代言",
-      "onboard_time": 1756455802,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 441039,
       "num": 441039,
       "word": "蔡依林今晚不能早睡了",
@@ -3659,6 +3667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 394076,
+      "num": 394076,
+      "word": "什么样的泡面才是最好吃的",
+      "onboard_time": 1756452623,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 392890,
       "num": 392890,
       "word": "民生银行回应落马副行长当网红",
@@ -3953,14 +3969,6 @@
       "onboard_time": 1756038863,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 365337,
-      "num": 365337,
-      "word": "什么样的泡面才是最好吃的",
-      "onboard_time": 1756452623,
-      "rank": 21,
-      "category": "美食"
     },
     {
       "raw_hot": 365241,
@@ -7043,6 +7051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194931,
+      "num": 194931,
+      "word": "终于有人吐槽内娱高奢花式title",
+      "onboard_time": 1756454422,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194821,
       "num": 194821,
       "word": "尚公主我要七夕物料",
@@ -8803,14 +8819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 170019,
-      "num": 181997,
-      "word": "终于有人吐槽内娱高奢花式title",
-      "onboard_time": 1756454422,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169892,
       "num": 169892,
       "word": "王楚钦小发雷霆",
@@ -9105,6 +9113,14 @@
       "onboard_time": 1756133368,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166418,
+      "num": 166418,
+      "word": "费内巴切官宣穆里尼奥下课",
+      "onboard_time": 1756456343,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 166198,
@@ -9433,6 +9449,14 @@
       "onboard_time": 1756350442,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161396,
+      "num": 192675,
+      "word": "苏醒回应披哥摆烂",
+      "onboard_time": 1756456222,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 161057,
@@ -10099,6 +10123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154550,
+      "num": 184903,
+      "word": "一智障女子被男子带走失联",
+      "onboard_time": 1756455742,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154527,
       "num": 154527,
       "word": "女子暴力阻止大爷抽烟",
@@ -10161,14 +10193,6 @@
       "onboard_time": 1756105223,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 153981,
-      "num": 153981,
-      "word": "苏醒回应披哥摆烂",
-      "onboard_time": 1756456222,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 153970,
@@ -11515,6 +11539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139855,
+      "num": 125525,
+      "word": "爱迟到的朋友要这么约",
+      "onboard_time": 1756457002,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139436,
       "num": 139436,
       "word": "花傲天七夕玫瑰比心",
@@ -12467,6 +12499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 131683,
+      "num": 131683,
+      "word": "罗晋私下基础戏里就不基础",
+      "onboard_time": 1756456161,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131551,
       "num": 131551,
       "word": "炫神宣布回归",
@@ -13201,6 +13241,14 @@
       "onboard_time": 1756217303,
       "rank": 43,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 125758,
+      "num": 125758,
+      "word": "原房主跳楼身亡房子1457000元拍出",
+      "onboard_time": 1756457002,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125726,
@@ -13995,6 +14043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119794,
+      "num": 119794,
+      "word": "泡泡玛特店员也吐槽迷你Labubu贵",
+      "onboard_time": 1756455142,
+      "rank": 33,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 119766,
       "num": 119766,
       "word": "锅边糊店买400粒复方甘草片做卤料",
@@ -14115,6 +14171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118937,
+      "num": 118937,
+      "word": "时团信不信妈妈可以把你变小",
+      "onboard_time": 1756456343,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118916,
       "num": 129413,
       "word": "藏在拼豆里的开学仪式感",
@@ -14225,14 +14289,6 @@
       "onboard_time": 1756016722,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118076,
-      "num": 118076,
-      "word": "费内巴切官宣穆里尼奥下课",
-      "onboard_time": 1756456343,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 118060,
@@ -14353,6 +14409,14 @@
       "onboard_time": 1756387885,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117244,
+      "num": 117244,
+      "word": "万斯称若特朗普遇不测已准备好接班",
+      "onboard_time": 1756456882,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117178,
@@ -14715,20 +14779,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114737,
-      "num": 114737,
-      "word": "时团信不信妈妈可以把你变小",
-      "onboard_time": 1756456343,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114568,
       "num": 347543,
       "word": "李昀锐京东直播",
       "onboard_time": 1756210042,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114290,
+      "num": 114290,
+      "word": "知妙七夕快乐",
+      "onboard_time": 1756456882,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 114246,
@@ -15017,14 +15081,6 @@
       "onboard_time": 1756305746,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 111099,
-      "num": 111099,
-      "word": "罗晋私下基础戏里就不基础",
-      "onboard_time": 1756456161,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 110973,
@@ -15769,6 +15825,14 @@
       "onboard_time": 1756028122,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105225,
+      "num": 105225,
+      "word": "酷狗崩了",
+      "onboard_time": 1756453522,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 105172,
@@ -16777,6 +16841,14 @@
       "onboard_time": 1756357702,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93532,
+      "num": 112004,
+      "word": "丞磊好有梗一男的",
+      "onboard_time": 1756457063,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 93348,
@@ -18860,7 +18932,7 @@
     },
     {
       "raw_hot": 54206,
-      "num": 185812,
+      "num": 186231,
       "word": "奥迪回应字母标",
       "onboard_time": 1756454843,
       "rank": 18,
@@ -19049,14 +19121,6 @@
       "onboard_time": 1756163779,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 51244,
-      "num": 184903,
-      "word": "一智障女子被男子带走失联",
-      "onboard_time": 1756455742,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51235,
@@ -19571,6 +19635,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 43028,
+      "num": 111456,
+      "word": "睡眠时间过于严格或有损大脑",
+      "onboard_time": 1756456822,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 42991,
       "num": 354583,
       "word": "提醒中国学生学者注意赴美安全风险",
@@ -19939,6 +20011,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 37955,
+      "num": 185521,
+      "word": "浙D加长林肯趴窝合肥5年",
+      "onboard_time": 1756456343,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37935,
       "num": 286026,
       "word": "德克士饮品杯身插画被指抄袭",
@@ -20288,14 +20368,6 @@
       "word": "网警守护开学季",
       "onboard_time": 1756257022,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32099,
-      "num": 120761,
-      "word": "浙D加长林肯趴窝合肥5年",
-      "onboard_time": 1756456343,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -20900,7 +20972,7 @@
     },
     {
       "raw_hot": 23707,
-      "num": 645412,
+      "num": 712118,
       "word": "九三纪念活动既是铭记历史更是开创未来",
       "onboard_time": 1756397482,
       "rank": 9,
