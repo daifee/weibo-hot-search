@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756437400925,
+  "endTime": 1756439371077,
   "band_list": [
     {
       "raw_hot": 1872250,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1571897,
-      "num": 294377,
+      "raw_hot": 1793454,
+      "num": 330304,
       "word": "张凌赫突然睡醒发七夕快乐",
       "onboard_time": 1756435221,
       "rank": 10,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 941621,
-      "num": 292641,
+      "num": 308610,
       "word": "双轨",
       "onboard_time": 1756434501,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 798284,
+      "num": 798284,
+      "word": "两女子花3万请24位陪爬登顶泰山",
+      "onboard_time": 1756437201,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 788579,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 779968,
-      "num": 289308,
+      "num": 297829,
       "word": "公主抱陪爬 擦边",
       "onboard_time": 1756393403,
       "rank": 11,
@@ -73,6 +81,14 @@
       "onboard_time": 1756390584,
       "rank": 0,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 662176,
+      "num": 318444,
+      "word": "虞书欣何与七夕海报",
+      "onboard_time": 1756436121,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 634376,
@@ -88,6 +104,14 @@
       "word": "慕胥辞",
       "onboard_time": 1756434920,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 609451,
+      "num": 609451,
+      "word": "逐玉",
+      "onboard_time": 1756435520,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 489213,
-      "num": 315320,
+      "num": 393331,
       "word": "陈乔恩在明道阮经天中选艾伦",
       "onboard_time": 1756436062,
       "rank": 18,
@@ -155,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 401426,
-      "num": 332071,
-      "word": "逐玉",
-      "onboard_time": 1756435520,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 391641,
+      "num": 391641,
+      "word": "中国必将统一的大势不可阻挡",
+      "onboard_time": 1756437201,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 388578,
@@ -179,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380952,
+      "num": 304125,
+      "word": "蔡明 不跟前辈打个招呼请个安吗",
+      "onboard_time": 1756435341,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374265,
       "num": 374265,
       "word": "法院公告虞书欣父亲借贷纠纷起诉状",
@@ -195,12 +227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334532,
-      "num": 287831,
-      "word": "蔡明 不跟前辈打个招呼请个安吗",
-      "onboard_time": 1756435341,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 342755,
+      "num": 342755,
+      "word": "淘宝闪购",
+      "onboard_time": 1756438582,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 327706,
+      "num": 284620,
+      "word": "表妹万福",
+      "onboard_time": 1756435281,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 323131,
@@ -208,14 +248,6 @@
       "word": "宋威龙赵今麦吻戏",
       "onboard_time": 1756435460,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 317312,
-      "num": 239128,
-      "word": "虞书欣何与七夕海报",
-      "onboard_time": 1756436121,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -299,6 +331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269013,
+      "num": 269013,
+      "word": "陶白白七夕建议天蝎座找点事做",
+      "onboard_time": 1756436661,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 268580,
+      "num": 268580,
+      "word": "伊能静儿子自曝母胎单身",
+      "onboard_time": 1756438041,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267814,
       "num": 267814,
       "word": "上海警方通报涉演唱会谣言",
@@ -347,12 +395,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 242739,
-      "num": 242739,
-      "word": "陶白白七夕建议天蝎座找点事做",
-      "onboard_time": 1756436661,
-      "rank": 25,
-      "category": "情感"
+      "raw_hot": 237868,
+      "num": 237868,
+      "word": "胡静谈与朱兆祥17年婚姻",
+      "onboard_time": 1756438462,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 235483,
@@ -395,11 +443,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213914,
-      "num": 213914,
-      "word": "表妹万福",
-      "onboard_time": 1756435281,
-      "rank": 30,
+      "raw_hot": 212284,
+      "num": 208390,
+      "word": "骄阳似我",
+      "onboard_time": 1756435821,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -411,6 +459,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208499,
+      "num": 208499,
+      "word": "这些新规9月起开始施行",
+      "onboard_time": 1756437382,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 208230,
+      "num": 208230,
+      "word": "宋威龙张婧仪七夕海报",
+      "onboard_time": 1756439182,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206758,
+      "num": 206758,
+      "word": "樊振东 倩碧",
+      "onboard_time": 1756438702,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205783,
       "num": 205783,
       "word": "泰版三十而已看上头了",
@@ -419,11 +491,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204608,
-      "num": 204608,
-      "word": "骄阳似我",
-      "onboard_time": 1756435821,
-      "rank": 31,
+      "raw_hot": 205455,
+      "num": 207044,
+      "word": "迪丽热巴陈飞宇雨中撑伞海报",
+      "onboard_time": 1756437502,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -433,6 +505,14 @@
       "onboard_time": 1756431621,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203668,
+      "num": 203668,
+      "word": "国漫唯一纯爱天花板来了",
+      "onboard_time": 1756439002,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 200899,
@@ -449,6 +529,22 @@
       "onboard_time": 1756426162,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 197051,
+      "num": 197051,
+      "word": "这一秒过火",
+      "onboard_time": 1756438401,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196599,
+      "num": 196599,
+      "word": "王楚钦vs孙正",
+      "onboard_time": 1756438222,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 196352,
@@ -475,6 +571,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190561,
+      "num": 198846,
+      "word": "前任变嫂子文学照进现实",
+      "onboard_time": 1756438341,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189471,
+      "num": 189471,
+      "word": "艾热说公开恋情的rapper都很痴心",
+      "onboard_time": 1756438823,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189015,
       "num": 189015,
       "word": "七夕怎么可能和谁过都一样",
@@ -499,12 +611,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184254,
+      "num": 184254,
+      "word": "和老板不和原来是体质的问题",
+      "onboard_time": 1756439062,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 179229,
+      "num": 179229,
+      "word": "目之所及 罗晋你这样唐嫣不怕吗",
+      "onboard_time": 1756437982,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174325,
       "num": 196213,
       "word": "抗战胜利80周年记者招待会",
       "onboard_time": 1756433001,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 172063,
+      "num": 172063,
+      "word": "张镇麟加盟上海男篮",
+      "onboard_time": 1756439182,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169892,
+      "num": 169892,
+      "word": "王楚钦小发雷霆",
+      "onboard_time": 1756438162,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 163889,
@@ -529,14 +673,6 @@
       "onboard_time": 1756434982,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155709,
-      "num": 155709,
-      "word": "这些新规9月起开始施行",
-      "onboard_time": 1756437382,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 155177,
@@ -571,14 +707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 146395,
-      "num": 146395,
-      "word": "两女子花3万请24位陪爬登顶泰山",
-      "onboard_time": 1756437201,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145372,
       "num": 294161,
       "word": "武汉高湖出现鳄鱼初判系人为放生",
@@ -595,12 +723,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143932,
+      "num": 143932,
+      "word": "入青云",
+      "onboard_time": 1756437382,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143560,
       "num": 143560,
       "word": "NBA顶级弹跳败给长城",
       "onboard_time": 1756430781,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143401,
+      "num": 143401,
+      "word": "邵子恒王牌录制前vs录制后",
+      "onboard_time": 1756438522,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 138598,
@@ -635,14 +779,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 129906,
-      "num": 129906,
-      "word": "中国必将统一的大势不可阻挡",
-      "onboard_time": 1756437201,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 128609,
       "num": 128609,
       "word": "梁王决胜局连丢6分",
@@ -675,12 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125868,
-      "num": 125868,
-      "word": "入青云",
-      "onboard_time": 1756437382,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 126097,
+      "num": 206826,
+      "word": "于谦蔡明 这消息是谁传出去的",
+      "onboard_time": 1756437862,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 125321,
@@ -753,6 +889,14 @@
       "onboard_time": 1756437323,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115963,
+      "num": 268623,
+      "word": "外交部提到LABUBU",
+      "onboard_time": 1756438462,
+      "rank": 18,
+      "category": "国内时政,休闲"
     },
     {
       "raw_hot": 115376,
@@ -1155,6 +1299,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 58576,
+      "num": 268763,
+      "word": "家政阿姨结婚30年后第一张婚纱照",
+      "onboard_time": 1756436841,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56775,
       "num": 137298,
       "word": "七夕当天的你",
@@ -1203,12 +1355,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44553,
+      "num": 186880,
+      "word": "名校生涌入西部县城考公上岸",
+      "onboard_time": 1756439182,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44413,
       "num": 56741,
       "word": "黄子弘凡",
       "onboard_time": 1756423279,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42827,
+      "num": 268587,
+      "word": "支持老旧住房自主更新原拆原建",
+      "onboard_time": 1756438942,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41692,
@@ -1283,20 +1451,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33353,
-      "num": 238836,
-      "word": "家政阿姨结婚30年后第一张婚纱照",
-      "onboard_time": 1756436841,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31853,
       "num": 56016,
       "word": "完美世界动画",
       "onboard_time": 1756401857,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 31274,
+      "num": 185421,
+      "word": "顾客吐槽费大厨门店二手烟",
+      "onboard_time": 1756439122,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30762,

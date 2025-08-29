@@ -1,0 +1,410 @@
+{
+  "runTime": 1756439371077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153129,
+        "num": 1184500,
+        "word": "反诈老陈又翻车了",
+        "onboard_time": 1756431560,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 798284,
+        "num": 798284,
+        "word": "两女子花3万请24位陪爬登顶泰山",
+        "onboard_time": 1756437201,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13921,
+        "num": 676871,
+        "word": "中国阅兵向国际传递什么信息",
+        "onboard_time": 1756351521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 625203,
+        "num": 625203,
+        "word": "七夕",
+        "onboard_time": 1756400179,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 609451,
+        "num": 609451,
+        "word": "逐玉",
+        "onboard_time": 1756435520,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418000,
+        "num": 418000,
+        "word": "折月亮官宣",
+        "onboard_time": 1756434141,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393331,
+        "num": 393331,
+        "word": "陈乔恩在明道阮经天中选艾伦",
+        "onboard_time": 1756436062,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391641,
+        "num": 391641,
+        "word": "中国必将统一的大势不可阻挡",
+        "onboard_time": 1756437201,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342755,
+        "num": 342755,
+        "word": "淘宝闪购",
+        "onboard_time": 1756438582,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 330989,
+        "num": 330989,
+        "word": "慕胥辞",
+        "onboard_time": 1756434920,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1793454,
+        "num": 330304,
+        "word": "张凌赫突然睡醒发七夕快乐",
+        "onboard_time": 1756435221,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662176,
+        "num": 318444,
+        "word": "虞书欣何与七夕海报",
+        "onboard_time": 1756436121,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554549,
+        "num": 308610,
+        "word": "双轨",
+        "onboard_time": 1756434501,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380952,
+        "num": 304125,
+        "word": "蔡明 不跟前辈打个招呼请个安吗",
+        "onboard_time": 1756435341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297829,
+        "num": 297829,
+        "word": "公主抱陪爬 擦边",
+        "onboard_time": 1756393403,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327706,
+        "num": 284620,
+        "word": "表妹万福",
+        "onboard_time": 1756435281,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269013,
+        "num": 269013,
+        "word": "陶白白七夕建议天蝎座找点事做",
+        "onboard_time": 1756436661,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58576,
+        "num": 268763,
+        "word": "家政阿姨结婚30年后第一张婚纱照",
+        "onboard_time": 1756436841,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115963,
+        "num": 268623,
+        "word": "外交部提到LABUBU",
+        "onboard_time": 1756438462,
+        "rank": 18,
+        "category": "国内时政,休闲"
+      },
+      {
+        "raw_hot": 42827,
+        "num": 268587,
+        "word": "支持老旧住房自主更新原拆原建",
+        "onboard_time": 1756438942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268580,
+        "num": 268580,
+        "word": "伊能静儿子自曝母胎单身",
+        "onboard_time": 1756438041,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254983,
+        "num": 254983,
+        "word": "minilabubu上线卖爆了",
+        "onboard_time": 1756425081,
+        "rank": 21,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 248139,
+        "num": 248139,
+        "word": "阅兵当天广场可容纳超5万人观礼",
+        "onboard_time": 1756426343,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237868,
+        "num": 237868,
+        "word": "胡静谈与朱兆祥17年婚姻",
+        "onboard_time": 1756438462,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234655,
+        "num": 234655,
+        "word": "宋威龙赵今麦吻戏",
+        "onboard_time": 1756435460,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208499,
+        "num": 208499,
+        "word": "这些新规9月起开始施行",
+        "onboard_time": 1756437382,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212284,
+        "num": 208390,
+        "word": "骄阳似我",
+        "onboard_time": 1756435821,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208230,
+        "num": 208230,
+        "word": "宋威龙张婧仪七夕海报",
+        "onboard_time": 1756439182,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205455,
+        "num": 207044,
+        "word": "迪丽热巴陈飞宇雨中撑伞海报",
+        "onboard_time": 1756437502,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126097,
+        "num": 206826,
+        "word": "于谦蔡明 这消息是谁传出去的",
+        "onboard_time": 1756437862,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206758,
+        "num": 206758,
+        "word": "樊振东 倩碧",
+        "onboard_time": 1756438702,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203668,
+        "num": 203668,
+        "word": "国漫唯一纯爱天花板来了",
+        "onboard_time": 1756439002,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200140,
+        "num": 200140,
+        "word": "单身的人建议反复观看",
+        "onboard_time": 1756434260,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190561,
+        "num": 198846,
+        "word": "前任变嫂子文学照进现实",
+        "onboard_time": 1756438341,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198230,
+        "num": 198230,
+        "word": "虞书欣父亲委托起诉老潘财商",
+        "onboard_time": 1756386984,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197051,
+        "num": 197051,
+        "word": "这一秒过火",
+        "onboard_time": 1756438401,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196599,
+        "num": 196599,
+        "word": "王楚钦vs孙正",
+        "onboard_time": 1756438222,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189471,
+        "num": 189471,
+        "word": "艾热说公开恋情的rapper都很痴心",
+        "onboard_time": 1756438823,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44553,
+        "num": 186880,
+        "word": "名校生涌入西部县城考公上岸",
+        "onboard_time": 1756439182,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31274,
+        "num": 185421,
+        "word": "顾客吐槽费大厨门店二手烟",
+        "onboard_time": 1756439122,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185190,
+        "num": 185190,
+        "word": "黄景瑜芭莎金九主题刊封面",
+        "onboard_time": 1756437323,
+        "rank": 40,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 184254,
+        "num": 184254,
+        "word": "和老板不和原来是体质的问题",
+        "onboard_time": 1756439062,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179229,
+        "num": 179229,
+        "word": "目之所及 罗晋你这样唐嫣不怕吗",
+        "onboard_time": 1756437982,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172063,
+        "num": 172063,
+        "word": "张镇麟加盟上海男篮",
+        "onboard_time": 1756439182,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169892,
+        "num": 169892,
+        "word": "王楚钦小发雷霆",
+        "onboard_time": 1756438162,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167160,
+        "num": 167160,
+        "word": "贾玲 上镜胖十斤受害者",
+        "onboard_time": 1756383023,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161051,
+        "num": 161051,
+        "word": "七夕红包",
+        "onboard_time": 1756431082,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145993,
+        "num": 145993,
+        "word": "白鹿丞磊莫离七夕花絮",
+        "onboard_time": 1756434141,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143932,
+        "num": 143932,
+        "word": "入青云",
+        "onboard_time": 1756437382,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143401,
+        "num": 143401,
+        "word": "邵子恒王牌录制前vs录制后",
+        "onboard_time": 1756438522,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记血与火铸就的深情#"
+    }
+  }
+}

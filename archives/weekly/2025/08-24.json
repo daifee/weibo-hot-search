@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756437400925,
+  "endTime": 1756439371077,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1793454,
+      "num": 330304,
+      "word": "张凌赫突然睡醒发七夕快乐",
+      "onboard_time": 1756435221,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1752388,
       "num": 1752388,
       "word": "孙颖莎vs王曼昱",
@@ -297,14 +305,6 @@
       "onboard_time": 1756210943,
       "rank": 10,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1571897,
-      "num": 294377,
-      "word": "张凌赫突然睡醒发七夕快乐",
-      "onboard_time": 1756435221,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1536715,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 1228863,
-      "num": 289308,
+      "num": 297829,
       "word": "公主抱陪爬 擦边",
       "onboard_time": 1756393403,
       "rank": 11,
@@ -996,7 +996,7 @@
     },
     {
       "raw_hot": 941621,
-      "num": 292641,
+      "num": 308610,
       "word": "双轨",
       "onboard_time": 1756434501,
       "rank": 11,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1756299865,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 798284,
+      "num": 798284,
+      "word": "两女子花3万请24位陪爬登顶泰山",
+      "onboard_time": 1756437201,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 796831,
@@ -1731,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662176,
+      "num": 318444,
+      "word": "虞书欣何与七夕海报",
+      "onboard_time": 1756436121,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 660372,
       "num": 660372,
       "word": "上海一小学今年仅招到22人",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1756356444,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 609451,
+      "num": 609451,
+      "word": "逐玉",
+      "onboard_time": 1756435520,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 609030,
@@ -2732,7 +2756,7 @@
     },
     {
       "raw_hot": 489213,
-      "num": 315320,
+      "num": 393331,
       "word": "陈乔恩在明道阮经天中选艾伦",
       "onboard_time": 1756436062,
       "rank": 18,
@@ -3411,14 +3435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 401426,
-      "num": 332071,
-      "word": "逐玉",
-      "onboard_time": 1756435520,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 398763,
       "num": 398763,
       "word": "98岁老人头上长皮角自行剪除",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1756116083,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391641,
+      "num": 391641,
+      "word": "中国必将统一的大势不可阻挡",
+      "onboard_time": 1756437201,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 390860,
@@ -3561,6 +3585,14 @@
       "onboard_time": 1756087402,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380952,
+      "num": 304125,
+      "word": "蔡明 不跟前辈打个招呼请个安吗",
+      "onboard_time": 1756435341,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 378874,
@@ -3947,6 +3979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342755,
+      "num": 342755,
+      "word": "淘宝闪购",
+      "onboard_time": 1756438582,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 341779,
       "num": 341779,
       "word": "刘浩存宋威龙 簪星",
@@ -3987,14 +4027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334532,
-      "num": 287831,
-      "word": "蔡明 不跟前辈打个招呼请个安吗",
-      "onboard_time": 1756435341,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333490,
       "num": 333490,
       "word": "马薇薇和男友合照",
@@ -4033,6 +4065,14 @@
       "onboard_time": 1756128504,
       "rank": 29,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 327706,
+      "num": 284620,
+      "word": "表妹万福",
+      "onboard_time": 1756435281,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 327552,
@@ -4137,14 +4177,6 @@
       "onboard_time": 1756121662,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317312,
-      "num": 239128,
-      "word": "虞书欣何与七夕海报",
-      "onboard_time": 1756436121,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 314185,
@@ -4635,12 +4667,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269013,
+      "num": 269013,
+      "word": "陶白白七夕建议天蝎座找点事做",
+      "onboard_time": 1756436661,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268586,
       "num": 195743,
       "word": "乌兰察布",
       "onboard_time": 1756137026,
       "rank": 20,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 268580,
+      "num": 268580,
+      "word": "伊能静儿子自曝母胎单身",
+      "onboard_time": 1756438041,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 267684,
@@ -5043,14 +5091,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 242739,
-      "num": 242739,
-      "word": "陶白白七夕建议天蝎座找点事做",
-      "onboard_time": 1756436661,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 241168,
       "num": 258170,
       "word": "深圳特区建立45周年",
@@ -5121,6 +5161,14 @@
       "onboard_time": 1756064775,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237868,
+      "num": 237868,
+      "word": "胡静谈与朱兆祥17年婚姻",
+      "onboard_time": 1756438462,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 237845,
@@ -5667,14 +5715,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 213914,
-      "num": 213914,
-      "word": "表妹万福",
-      "onboard_time": 1756435281,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213856,
       "num": 205300,
       "word": "太子站起来了",
@@ -5721,6 +5761,14 @@
       "onboard_time": 1756290384,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212284,
+      "num": 208390,
+      "word": "骄阳似我",
+      "onboard_time": 1756435821,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 212126,
@@ -5907,12 +5955,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208499,
+      "num": 208499,
+      "word": "这些新规9月起开始施行",
+      "onboard_time": 1756437382,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "办婚礼不领证 被判退彩礼",
       "onboard_time": 1756108762,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208230,
+      "num": 208230,
+      "word": "宋威龙张婧仪七夕海报",
+      "onboard_time": 1756439182,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 208042,
@@ -5971,6 +6035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206758,
+      "num": 206758,
+      "word": "樊振东 倩碧",
+      "onboard_time": 1756438702,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206677,
       "num": 206677,
       "word": "樊振东将出席德甲俱乐部新闻发布会",
@@ -6019,20 +6091,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205455,
+      "num": 207044,
+      "word": "迪丽热巴陈飞宇雨中撑伞海报",
+      "onboard_time": 1756437502,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205359,
       "num": 296905,
       "word": "无锡地铁一景区宣传图被指画面不雅",
       "onboard_time": 1756040305,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204608,
-      "num": 204608,
-      "word": "骄阳似我",
-      "onboard_time": 1756435821,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 204524,
@@ -6105,6 +6177,14 @@
       "onboard_time": 1756431621,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203668,
+      "num": 203668,
+      "word": "国漫唯一纯爱天花板来了",
+      "onboard_time": 1756439002,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 203439,
@@ -6483,6 +6563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197051,
+      "num": 197051,
+      "word": "这一秒过火",
+      "onboard_time": 1756438401,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196729,
       "num": 196729,
       "word": "第五人格卧谈会",
@@ -6505,6 +6593,14 @@
       "onboard_time": 1756010302,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196599,
+      "num": 196599,
+      "word": "王楚钦vs孙正",
+      "onboard_time": 1756438222,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 196576,
@@ -6931,6 +7027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190561,
+      "num": 198846,
+      "word": "前任变嫂子文学照进现实",
+      "onboard_time": 1756438341,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190429,
       "num": 190429,
       "word": "Angelababy鞠婧祎娜扎直播状态",
@@ -7001,6 +7105,14 @@
       "onboard_time": 1756186643,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189471,
+      "num": 189471,
+      "word": "艾热说公开恋情的rapper都很痴心",
+      "onboard_time": 1756438823,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 189422,
@@ -7403,6 +7515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184254,
+      "num": 184254,
+      "word": "和老板不和原来是体质的问题",
+      "onboard_time": 1756439062,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184243,
       "num": 184243,
       "word": "技术这个词让我们想到了孙颖莎",
@@ -7729,6 +7849,14 @@
       "onboard_time": 1755969801,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179229,
+      "num": 179229,
+      "word": "目之所及 罗晋你这样唐嫣不怕吗",
+      "onboard_time": 1756437982,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 179124,
@@ -8123,6 +8251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172063,
+      "num": 172063,
+      "word": "张镇麟加盟上海男篮",
+      "onboard_time": 1756439182,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172005,
       "num": 172005,
       "word": "杨幂谈孤独症群体",
@@ -8217,6 +8353,14 @@
       "onboard_time": 1756038265,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169892,
+      "num": 169892,
+      "word": "王楚钦小发雷霆",
+      "onboard_time": 1756438162,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 169554,
@@ -9347,14 +9491,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 155709,
-      "num": 155709,
-      "word": "这些新规9月起开始施行",
-      "onboard_time": 1756437382,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 155632,
       "num": 155632,
       "word": "霉霉 世女一的含金量",
@@ -10099,14 +10235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146395,
-      "num": 146395,
-      "word": "两女子花3万请24位陪爬登顶泰山",
-      "onboard_time": 1756437201,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146382,
       "num": 146382,
       "word": "奶茶 反式脂肪酸",
@@ -10451,6 +10579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143932,
+      "num": 143932,
+      "word": "入青云",
+      "onboard_time": 1756437382,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143560,
       "num": 143560,
       "word": "NBA顶级弹跳败给长城",
@@ -10481,6 +10617,14 @@
       "onboard_time": 1756340603,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143401,
+      "num": 143401,
+      "word": "邵子恒王牌录制前vs录制后",
+      "onboard_time": 1756438522,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 143378,
@@ -11827,14 +11971,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 129906,
-      "num": 129906,
-      "word": "中国必将统一的大势不可阻挡",
-      "onboard_time": 1756437201,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 129894,
       "num": 128733,
       "word": "李兰迪 人形沙袋",
@@ -12275,6 +12411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126097,
+      "num": 206826,
+      "word": "于谦蔡明 这消息是谁传出去的",
+      "onboard_time": 1756437862,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126076,
       "num": 126076,
       "word": "火箭军帅到让人忘记呼吸",
@@ -12313,14 +12457,6 @@
       "onboard_time": 1756359743,
       "rank": 45,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 125868,
-      "num": 125868,
-      "word": "入青云",
-      "onboard_time": 1756437382,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 125861,
@@ -13561,6 +13697,14 @@
       "onboard_time": 1756282343,
       "rank": 49,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 115963,
+      "num": 268623,
+      "word": "外交部提到LABUBU",
+      "onboard_time": 1756438462,
+      "rank": 18,
+      "category": "国内时政,休闲"
     },
     {
       "raw_hot": 115955,
@@ -17259,6 +17403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58576,
+      "num": 268763,
+      "word": "家政阿姨结婚30年后第一张婚纱照",
+      "onboard_time": 1756436841,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58369,
       "num": 58369,
       "word": "孙颖莎4比2王曼昱",
@@ -18067,6 +18219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44553,
+      "num": 186880,
+      "word": "名校生涌入西部县城考公上岸",
+      "onboard_time": 1756439182,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44493,
       "num": 104625,
       "word": "清华食堂回应餐具被挂二手平台",
@@ -18161,6 +18321,14 @@
       "onboard_time": 1756377504,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42827,
+      "num": 268587,
+      "word": "支持老旧住房自主更新原拆原建",
+      "onboard_time": 1756438942,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42779,
@@ -18755,14 +18923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33353,
-      "num": 238836,
-      "word": "家政阿姨结婚30年后第一张婚纱照",
-      "onboard_time": 1756436841,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33347,
       "num": 210521,
       "word": "收女友10余万礼物男方家属称算赠与",
@@ -18855,6 +19015,14 @@
       "num": 147753,
       "word": "7旬老人信访遭辱骂",
       "onboard_time": 1756010121,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31274,
+      "num": 185421,
+      "word": "顾客吐槽费大厨门店二手烟",
+      "onboard_time": 1756439122,
       "rank": 39,
       "category": "民生新闻"
     },
