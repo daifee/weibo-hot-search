@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756424230351,
+  "endTime": 1756432350196,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1870769,
+      "num": 1870769,
+      "word": "造谣韩磊出轨事件当事人道歉",
+      "onboard_time": 1756429402,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1848659,
       "num": 1848659,
       "word": "iPhone17全系价格曝光",
@@ -329,6 +337,14 @@
       "onboard_time": 1756297224,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1435202,
+      "num": 1435202,
+      "word": "七夕",
+      "onboard_time": 1756400179,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1433256,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 1196163,
-      "num": 210679,
+      "num": 270455,
       "word": "虞书欣父亲称老潘财商抹黑",
       "onboard_time": 1756396341,
       "rank": 10,
@@ -537,14 +553,6 @@
       "onboard_time": 1756164920,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1191641,
-      "num": 1191641,
-      "word": "七夕",
-      "onboard_time": 1756400179,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1186250,
@@ -1283,6 +1291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 788579,
+      "num": 788579,
+      "word": "阅兵当天广场可容纳超5万人观礼",
+      "onboard_time": 1756426343,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 787560,
       "num": 787560,
       "word": "九三盛大阅兵",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1756384883,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 736614,
+      "num": 281697,
+      "word": "反诈老陈又翻车了",
+      "onboard_time": 1756431560,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 735879,
@@ -1800,6 +1824,14 @@
       "word": "陈乔恩艾伦娱乐圈文照进现实",
       "onboard_time": 1756091421,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 634376,
+      "num": 634376,
+      "word": "杨幂快把金靖哄成胚胎了",
+      "onboard_time": 1756425682,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -2745,6 +2777,14 @@
       "onboard_time": 1756195463,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 474088,
+      "num": 474088,
+      "word": "minilabubu上线卖爆了",
+      "onboard_time": 1756425081,
+      "rank": 5,
+      "category": "休闲"
     },
     {
       "raw_hot": 473492,
@@ -4059,6 +4099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310836,
+      "num": 310836,
+      "word": "保时捷女车主停车一车占两位",
+      "onboard_time": 1756424122,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309661,
       "num": 309661,
       "word": "严浩翔橙发",
@@ -4176,6 +4224,22 @@
       "word": "石宇奇vs小波波夫",
       "onboard_time": 1756387103,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298339,
+      "num": 298339,
+      "word": "2人多次在我军事敏感区飞无人机",
+      "onboard_time": 1756424179,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 296889,
+      "num": 296889,
+      "word": "梁王",
+      "onboard_time": 1756424780,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -4745,6 +4809,14 @@
       "onboard_time": 1756187542,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248911,
+      "num": 248911,
+      "word": "吴京出品电影上映6天票房仅26.7万",
+      "onboard_time": 1756424179,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 248676,
@@ -5763,6 +5835,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 205783,
+      "num": 205783,
+      "word": "泰版三十而已看上头了",
+      "onboard_time": 1756425860,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205710,
       "num": 205710,
       "word": "杨幂的穿搭无须多言",
@@ -5849,6 +5929,14 @@
       "onboard_time": 1756266562,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203693,
+      "num": 203693,
+      "word": "刘轩丞 欧诗漫",
+      "onboard_time": 1756431621,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 203439,
@@ -6033,6 +6121,14 @@
       "onboard_time": 1756100243,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200397,
+      "num": 200397,
+      "word": "感觉豆包快要燃尽了",
+      "onboard_time": 1756426162,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 200370,
@@ -6544,6 +6640,14 @@
       "word": "原来这就是送到心坎上的感觉",
       "onboard_time": 1756278683,
       "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 191820,
+      "num": 191820,
+      "word": "七夕红包",
+      "onboard_time": 1756431082,
+      "rank": 18,
       "category": "情感"
     },
     {
@@ -8563,6 +8667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160452,
+      "num": 160452,
+      "word": "龚俊 随便选了一套",
+      "onboard_time": 1756430721,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160306,
       "num": 250762,
       "word": "火箭军参阅官兵平均1米83",
@@ -8736,6 +8848,14 @@
       "word": "许你于晟 偷穿红衣只为嫁你一次",
       "onboard_time": 1756184723,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158646,
+      "num": 158646,
+      "word": "黄子弘凡 华莱士",
+      "onboard_time": 1756430901,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -9227,6 +9347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153388,
+      "num": 153388,
+      "word": "坐12万一把的椅子什么感觉",
+      "onboard_time": 1756431861,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153115,
       "num": 153115,
       "word": "月薪5千和1万5差别",
@@ -9569,6 +9697,14 @@
       "onboard_time": 1756367842,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149060,
+      "num": 125998,
+      "word": "怎么一眼看出谁在洗钱",
+      "onboard_time": 1756431322,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148879,
@@ -10089,6 +10225,14 @@
       "onboard_time": 1756023082,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143560,
+      "num": 143560,
+      "word": "NBA顶级弹跳败给长城",
+      "onboard_time": 1756430781,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 143552,
@@ -10995,6 +11139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134577,
+      "num": 294161,
+      "word": "武汉高湖出现鳄鱼初判系人为放生",
+      "onboard_time": 1756426221,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134394,
       "num": 134394,
       "word": "陈哲远又在泰国被叫老公了",
@@ -11779,6 +11931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127141,
+      "num": 127141,
+      "word": "王楚然 星河予你",
+      "onboard_time": 1756430781,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126952,
       "num": 126952,
       "word": "蚊子也是吃上旋转自助了",
@@ -11833,6 +11993,14 @@
       "onboard_time": 1756177942,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126563,
+      "num": 126563,
+      "word": "戴军因为给钟配音丢了工作",
+      "onboard_time": 1756428440,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 126374,
@@ -12395,6 +12563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121801,
+      "num": 121801,
+      "word": "保时捷停车占两位反让旁边车主道歉",
+      "onboard_time": 1756428982,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121796,
       "num": 121796,
       "word": "伤者在地上躺着就给车盖布了",
@@ -12841,6 +13017,14 @@
       "onboard_time": 1756042707,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117955,
+      "num": 117955,
+      "word": "酒店回应女子洗澡天花板突然打开",
+      "onboard_time": 1756428201,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117927,
@@ -13771,6 +13955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107684,
+      "num": 107684,
+      "word": "迷你LABUBU一端炒至2500元",
+      "onboard_time": 1756431201,
+      "rank": 35,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 107674,
       "num": 107674,
       "word": "A股算力股再度大涨",
@@ -14033,6 +14225,14 @@
       "onboard_time": 1756183165,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105671,
+      "num": 105671,
+      "word": "育儿补贴申领全攻略",
+      "onboard_time": 1756429942,
+      "rank": 36,
+      "category": "母婴育儿,民生新闻"
     },
     {
       "raw_hot": 105610,
@@ -14651,6 +14851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98986,
+      "num": 98986,
+      "word": "无可替代",
+      "onboard_time": 1756431861,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98967,
       "num": 98967,
       "word": "张曼玉左耳 8个耳洞",
@@ -15163,6 +15371,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 91810,
+      "num": 91810,
+      "word": "上海一空调安装工人意外从3楼坠落",
+      "onboard_time": 1756431861,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91788,
       "num": 91788,
       "word": "医保帮尿毒症女骑手报销了7成费用",
@@ -15395,6 +15611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87224,
+      "num": 87224,
+      "word": "致英烈的山河信",
+      "onboard_time": 1756425921,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87202,
       "num": 87202,
       "word": "郁可唯二封内地最佳女歌手",
@@ -15561,6 +15785,14 @@
       "onboard_time": 1756009702,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81990,
+      "num": 81990,
+      "word": "TheShy赛后发文",
+      "onboard_time": 1756425982,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 81616,
@@ -15731,14 +15963,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 78241,
-      "num": 78241,
-      "word": "保时捷女车主停车一车占两位",
-      "onboard_time": 1756424122,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78066,
       "num": 78066,
       "word": "莫雷加德主场创造历史",
@@ -15801,6 +16025,14 @@
       "onboard_time": 1756270643,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76638,
+      "num": 76638,
+      "word": "亚朵回应女子深夜被陌生人刷卡闯入",
+      "onboard_time": 1756431800,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76629,
@@ -16051,6 +16283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70633,
+      "num": 70633,
+      "word": "一架F16战机在波兰坠毁",
+      "onboard_time": 1756425141,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70589,
       "num": 70589,
       "word": "北溪管道被毁细节曝光",
@@ -16123,12 +16363,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69174,
+      "num": 69174,
+      "word": "KTV这下真变健身房了",
+      "onboard_time": 1756428440,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68905,
       "num": 79522,
       "word": "蔡依林初代唱跳女王回归",
       "onboard_time": 1756056139,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68899,
+      "num": 68899,
+      "word": "女生想要的情绪价值是什么",
+      "onboard_time": 1756428201,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 68858,
@@ -17035,14 +17291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51515,
-      "num": 54489,
-      "word": "吴京出品电影上映6天票房仅26.7万",
-      "onboard_time": 1756424179,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 51441,
       "num": 207077,
       "word": "团队论文致谢中悼念33岁女教师",
@@ -17737,14 +17985,6 @@
       "onboard_time": 1756337300,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39923,
-      "num": 54485,
-      "word": "2人多次在我军事敏感区飞无人机",
-      "onboard_time": 1756424179,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39489,
@@ -19260,7 +19500,7 @@
     },
     {
       "raw_hot": 14119,
-      "num": 707680,
+      "num": 884721,
       "word": "中国阅兵向国际传递什么信息",
       "onboard_time": 1756351521,
       "rank": 2,
