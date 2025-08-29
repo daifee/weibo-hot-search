@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756464178923,
+  "endTime": 1756466477172,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -128,6 +128,14 @@
       "word": "虞书欣与其父不存在直接商业关联",
       "onboard_time": 1756289663,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2335394,
+      "num": 254024,
+      "word": "苏有朋道歉",
+      "onboard_time": 1756463422,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1815748,
+      "num": 182399,
+      "word": "刘美含张远 为什么不来娶我",
+      "onboard_time": 1756464743,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1793454,
       "num": 330304,
       "word": "张凌赫突然睡醒发七夕快乐",
@@ -305,6 +321,14 @@
       "onboard_time": 1756108103,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1691787,
+      "num": 1691787,
+      "word": "建议大家要少发朋友圈",
+      "onboard_time": 1756462162,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 1638607,
@@ -1083,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 937120,
+      "num": 180431,
+      "word": "李连杰公布病情",
+      "onboard_time": 1756464682,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936576,
       "num": 528664,
       "word": "赵志伟回复网友评论",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1756204884,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 710528,
-      "num": 710528,
-      "word": "建议大家要少发朋友圈",
-      "onboard_time": 1756462162,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 709865,
@@ -3859,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378356,
+      "num": 223680,
+      "word": "彭昱畅第一章回国",
+      "onboard_time": 1756462762,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378279,
       "num": 378279,
       "word": "北京WBG对战Wolves",
@@ -4507,6 +4539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 311075,
+      "num": 217346,
+      "word": "宋亚轩高会",
+      "onboard_time": 1756463002,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310914,
       "num": 310914,
       "word": "这才是00后想要过的七夕",
@@ -4561,6 +4601,14 @@
       "onboard_time": 1756223664,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303449,
+      "num": 172345,
+      "word": "苏新皓红海",
+      "onboard_time": 1756465043,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 303131,
@@ -4657,14 +4705,6 @@
       "onboard_time": 1756387103,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298485,
-      "num": 223680,
-      "word": "彭昱畅第一章回国",
-      "onboard_time": 1756462762,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 298339,
@@ -4833,14 +4873,6 @@
       "onboard_time": 1756180102,
       "rank": 40,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 283256,
-      "num": 217346,
-      "word": "宋亚轩高会",
-      "onboard_time": 1756463002,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 282320,
@@ -5195,6 +5227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256755,
+      "num": 256755,
+      "word": "心动的信号8直播",
+      "onboard_time": 1756465462,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256600,
+      "num": 256600,
+      "word": "华晨宇七夕准备了8万朵玫瑰花",
+      "onboard_time": 1756464985,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 256470,
       "num": 218799,
       "word": "张馨予 为啥补货啊姐一直在",
@@ -5241,14 +5289,6 @@
       "onboard_time": 1756126884,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254024,
-      "num": 254024,
-      "word": "苏有朋道歉",
-      "onboard_time": 1756463422,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 253951,
@@ -5801,6 +5841,14 @@
       "onboard_time": 1756109604,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227405,
+      "num": 227405,
+      "word": "TOP登陆少年团演唱会",
+      "onboard_time": 1756466003,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 227102,
@@ -6625,6 +6673,14 @@
       "onboard_time": 1756212442,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203429,
+      "num": 171836,
+      "word": "边伯贤探班直播",
+      "onboard_time": 1756465702,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 203225,
@@ -8219,6 +8275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182170,
+      "num": 182170,
+      "word": "北京晚霞",
+      "onboard_time": 1756465763,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182069,
       "num": 150528,
       "word": "九尾再也不挑战中辣了",
@@ -8595,6 +8659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176327,
+      "num": 176327,
+      "word": "原来瘦了真的会被区别对待",
+      "onboard_time": 1756464142,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176080,
       "num": 160682,
       "word": "外国人对中餐有多上瘾",
@@ -8899,6 +8971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171527,
+      "num": 171527,
+      "word": "原来这是躯体化",
+      "onboard_time": 1756464322,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 171463,
       "num": 171463,
       "word": "这个男团出道四个月就上TMEA",
@@ -8969,6 +9049,14 @@
       "onboard_time": 1756455381,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 170427,
+      "num": 170427,
+      "word": "工作五年没留下一枚指纹",
+      "onboard_time": 1756463422,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 170390,
@@ -10059,6 +10147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156844,
+      "num": 156844,
+      "word": "拉宏桑中国boy否认恋情",
+      "onboard_time": 1756463362,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156818,
       "num": 156818,
       "word": "6个症状说明骨头已经变脆了",
@@ -10401,6 +10497,14 @@
       "onboard_time": 1756285583,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153583,
+      "num": 160652,
+      "word": "这居然是代斯",
+      "onboard_time": 1756464801,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 153388,
@@ -11955,6 +12059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138090,
+      "num": 138090,
+      "word": "小米主动召回某型号部分充电宝产品",
+      "onboard_time": 1756464682,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 138078,
       "num": 138078,
       "word": "理发店倒闭众人合力讨回23万预付款",
@@ -12883,6 +12995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130239,
+      "num": 170883,
+      "word": "中芯国际停牌",
+      "onboard_time": 1756465582,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130189,
       "num": 130189,
       "word": "国乒5人锁定WTT总决赛单打资格",
@@ -13225,14 +13345,6 @@
       "onboard_time": 1756259901,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127814,
-      "num": 127814,
-      "word": "拉宏桑中国boy否认恋情",
-      "onboard_time": 1756463362,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 127797,
@@ -13851,6 +13963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123026,
+      "num": 123026,
+      "word": "王楚钦乒超连续出战",
+      "onboard_time": 1756466124,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122962,
       "num": 123923,
       "word": "遇到志同道合的人是什么体验",
@@ -13904,6 +14024,14 @@
       "word": "平均身高169的IVE遇上straykids",
       "onboard_time": 1756374504,
       "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 122743,
+      "num": 122743,
+      "word": "邓紫棋不基础演唱会更不基础",
+      "onboard_time": 1756465523,
+      "rank": 40,
       "category": "演出"
     },
     {
@@ -14089,6 +14217,14 @@
       "onboard_time": 1756032622,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121650,
+      "num": 121650,
+      "word": "韩烁是古装男主人设天花板之一",
+      "onboard_time": 1756466424,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 121579,
@@ -15275,6 +15411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112466,
+      "num": 158277,
+      "word": "湖南一患绝症老人多次猥亵女性",
+      "onboard_time": 1756465882,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112438,
       "num": 235826,
       "word": "王鹤棣ELLE金九封面预告",
@@ -15385,6 +15529,14 @@
       "onboard_time": 1756120103,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111439,
+      "num": 111439,
+      "word": "Labubu 猎魔女团",
+      "onboard_time": 1756465823,
+      "rank": 44,
+      "category": "动漫,休闲"
     },
     {
       "raw_hot": 111388,
@@ -15561,6 +15713,14 @@
       "onboard_time": 1756207044,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109524,
+      "num": 109524,
+      "word": "我叫小北斗",
+      "onboard_time": 1756463722,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 109453,
@@ -15801,14 +15961,6 @@
       "onboard_time": 1756437021,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 107418,
-      "num": 107418,
-      "word": "我叫小北斗",
-      "onboard_time": 1756463722,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 107415,
@@ -16107,6 +16259,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 105876,
+      "num": 105876,
+      "word": "梁洁这张脸太适合民国风了",
+      "onboard_time": 1756466304,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105864,
       "num": 105864,
       "word": "张晚意发2025年6月30日的日落",
@@ -16361,6 +16521,14 @@
       "onboard_time": 1756030041,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104262,
+      "num": 104262,
+      "word": "战至巅峰",
+      "onboard_time": 1756464562,
+      "rank": 49,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 104228,
@@ -16907,14 +17075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98768,
-      "num": 98768,
-      "word": "原来瘦了真的会被区别对待",
-      "onboard_time": 1756464142,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 98762,
       "num": 98762,
       "word": "连续30天只吃一顿饭身体的变化",
@@ -17257,6 +17417,14 @@
       "onboard_time": 1755963327,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93846,
+      "num": 174325,
+      "word": "骑手比普通打工族一年多干4个月的活",
+      "onboard_time": 1756465164,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93810,
@@ -19291,6 +19459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55468,
+      "num": 175187,
+      "word": "最好的双向奔赴是都来了",
+      "onboard_time": 1756465462,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55368,
       "num": 219944,
       "word": "老农保29年后仅退200元本金后续",
@@ -19857,6 +20033,14 @@
       "onboard_time": 1756098084,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47299,
+      "num": 122789,
+      "word": "一年情侣要过多少个节日",
+      "onboard_time": 1756465823,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 46721,
@@ -21153,6 +21337,14 @@
       "onboard_time": 1756060395,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28359,
+      "num": 170630,
+      "word": "佩通坦被解除总理职务后发声",
+      "onboard_time": 1756466182,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28234,
