@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756466477172,
+  "endTime": 1756467463414,
   "band_list": [
     {
       "raw_hot": 3816701,
@@ -147,20 +147,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 981063,
+      "num": 1156970,
+      "word": "李连杰公布病情",
+      "onboard_time": 1756464682,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 941621,
       "num": 308610,
       "word": "双轨",
       "onboard_time": 1756434501,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 937120,
-      "num": 180431,
-      "word": "李连杰公布病情",
-      "onboard_time": 1756464682,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 934020,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451280,
+      "num": 256600,
+      "word": "华晨宇七夕准备了8万朵玫瑰花",
+      "onboard_time": 1756464985,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 444074,
       "num": 234786,
       "word": "虞书欣父亲委托起诉老潘财商",
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351823,
+      "num": 172345,
+      "word": "苏新皓红海",
+      "onboard_time": 1756465043,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 349211,
       "num": 251448,
       "word": "孕妇不发朋友圈的原因找到了",
@@ -603,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 303449,
-      "num": 172345,
-      "word": "苏新皓红海",
-      "onboard_time": 1756465043,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 303131,
       "num": 235365,
       "word": "单身的人建议反复观看",
@@ -633,6 +641,14 @@
       "onboard_time": 1756407374,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300293,
+      "num": 300293,
+      "word": "心动的信号8直播",
+      "onboard_time": 1756465462,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 299461,
@@ -699,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272610,
+      "num": 188191,
+      "word": "边伯贤探班直播",
+      "onboard_time": 1756465702,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 269013,
       "num": 269013,
       "word": "陶白白七夕建议天蝎座找点事做",
@@ -747,19 +771,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256755,
-      "num": 256755,
-      "word": "心动的信号8直播",
-      "onboard_time": 1756465462,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 256600,
-      "num": 256600,
-      "word": "华晨宇七夕准备了8万朵玫瑰花",
-      "onboard_time": 1756464985,
-      "rank": 5,
+      "raw_hot": 251773,
+      "num": 227405,
+      "word": "TOP登陆少年团演唱会",
+      "onboard_time": 1756466003,
+      "rank": 6,
       "category": "演出"
     },
     {
@@ -833,14 +849,6 @@
       "onboard_time": 1756433482,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227405,
-      "num": 227405,
-      "word": "TOP登陆少年团演唱会",
-      "onboard_time": 1756466003,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 219197,
@@ -931,6 +939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 208464,
+      "num": 159280,
+      "word": "张泽禹绿海",
+      "onboard_time": 1756466964,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208230,
       "num": 208230,
       "word": "宋威龙张婧仪七夕海报",
@@ -993,14 +1009,6 @@
       "onboard_time": 1756439002,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 203429,
-      "num": 171836,
-      "word": "边伯贤探班直播",
-      "onboard_time": 1756465702,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 202021,
@@ -1236,7 +1244,7 @@
     },
     {
       "raw_hot": 182170,
-      "num": 182170,
+      "num": 186754,
       "word": "北京晚霞",
       "onboard_time": 1756465763,
       "rank": 12,
@@ -1275,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178130,
+      "num": 176327,
+      "word": "原来瘦了真的会被区别对待",
+      "onboard_time": 1756464142,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177639,
       "num": 179512,
       "word": "十个勤天 JMA华语影响力艺人",
@@ -1283,12 +1299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176327,
-      "num": 176327,
-      "word": "原来瘦了真的会被区别对待",
-      "onboard_time": 1756464142,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 176759,
+      "num": 171527,
+      "word": "原来这是躯体化",
+      "onboard_time": 1756464322,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 174325,
@@ -1331,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171527,
-      "num": 171527,
-      "word": "原来这是躯体化",
-      "onboard_time": 1756464322,
-      "rank": 27,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 171281,
       "num": 171281,
       "word": "七夕礼物贬值率",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1756438162,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168904,
+      "num": 170883,
+      "word": "中芯国际停牌",
+      "onboard_time": 1756465582,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 168622,
@@ -1449,6 +1465,14 @@
       "onboard_time": 1756434982,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157637,
+      "num": 157637,
+      "word": "韩烁是古装男主人设天花板之一",
+      "onboard_time": 1756466424,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 156844,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1756458083,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151077,
+      "num": 151077,
+      "word": "张艺凡东北甜妹大大方方的一生",
+      "onboard_time": 1756467023,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 149809,
@@ -1659,12 +1691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142203,
+      "num": 142203,
+      "word": "孙颖莎室内不用戴小头盔",
+      "onboard_time": 1756467143,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141857,
       "num": 141857,
       "word": "七夕送礼物的意义",
       "onboard_time": 1756444521,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141205,
+      "num": 141205,
+      "word": "Labubu 猎魔女团",
+      "onboard_time": 1756465823,
+      "rank": 44,
+      "category": "动漫,休闲"
     },
     {
       "raw_hot": 140993,
@@ -1676,7 +1724,7 @@
     },
     {
       "raw_hot": 140776,
-      "num": 140776,
+      "num": 176011,
       "word": "谁将接替佩通坦",
       "onboard_time": 1756463122,
       "rank": 33,
@@ -1867,14 +1915,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 130239,
-      "num": 170883,
-      "word": "中芯国际停牌",
-      "onboard_time": 1756465582,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 130189,
       "num": 130189,
       "word": "Ning复盘Wei操作",
@@ -2027,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123393,
+      "num": 123393,
+      "word": "王嘉尔少打了一个夕",
+      "onboard_time": 1756466723,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123026,
       "num": 123026,
       "word": "王楚钦乒超连续出战",
@@ -2051,6 +2099,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122536,
+      "num": 148434,
+      "word": "黄明昊 我的后台是乐华娱乐",
+      "onboard_time": 1756467203,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122358,
+      "num": 158277,
+      "word": "湖南一患绝症老人多次猥亵女性",
+      "onboard_time": 1756465882,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122271,
       "num": 122271,
       "word": "寒武纪大跌超10%",
@@ -2073,14 +2137,6 @@
       "onboard_time": 1756428982,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121650,
-      "num": 121650,
-      "word": "韩烁是古装男主人设天花板之一",
-      "onboard_time": 1756466424,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 121084,
@@ -2211,6 +2267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117337,
+      "num": 117337,
+      "word": "梁洁这张脸太适合民国风了",
+      "onboard_time": 1756466304,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116962,
       "num": 116962,
       "word": "关晓彤王牌对王牌造型",
@@ -2307,6 +2371,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 113226,
+      "num": 113226,
+      "word": "中国留学生搭讪女生被告到FBI",
+      "onboard_time": 1756464022,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113209,
+      "num": 117618,
+      "word": "轻断食从145斤瘦到95斤",
+      "onboard_time": 1756466484,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 113071,
       "num": 113071,
       "word": "刘浩存主动给刘昊然打招呼",
@@ -2323,14 +2403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112466,
-      "num": 158277,
-      "word": "湖南一患绝症老人多次猥亵女性",
-      "onboard_time": 1756465882,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112026,
       "num": 283471,
       "word": "外交部回应美在日本部署中导系统",
@@ -2345,14 +2417,6 @@
       "onboard_time": 1756461262,
       "rank": 43,
       "category": "综艺,体育"
-    },
-    {
-      "raw_hot": 111439,
-      "num": 111439,
-      "word": "Labubu 猎魔女团",
-      "onboard_time": 1756465823,
-      "rank": 44,
-      "category": "动漫,休闲"
     },
     {
       "raw_hot": 111388,
@@ -2475,6 +2539,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 107592,
+      "num": 107592,
+      "word": "赵睿加盟北京男篮",
+      "onboard_time": 1756467441,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107448,
       "num": 112968,
       "word": "苹果跨肩背带首曝",
@@ -2579,20 +2651,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105876,
-      "num": 105876,
-      "word": "梁洁这张脸太适合民国风了",
-      "onboard_time": 1756466304,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105535,
       "num": 661009,
       "word": "从中国倡议扩大为国际共识",
       "onboard_time": 1756435281,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105522,
+      "num": 165208,
+      "word": "MG4定价6.58万车展杀疯",
+      "onboard_time": 1756460904,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 105225,
@@ -2665,6 +2737,14 @@
       "onboard_time": 1756457722,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102702,
+      "num": 117383,
+      "word": "宋妍霏听到一年级都急破音了",
+      "onboard_time": 1756467084,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 101473,
@@ -2785,14 +2865,6 @@
       "onboard_time": 1756453522,
       "rank": 39,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 91139,
-      "num": 165208,
-      "word": "MG4定价6.58万车展杀疯",
-      "onboard_time": 1756460904,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 90815,
@@ -3081,6 +3153,14 @@
       "onboard_time": 1756420157,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66253,
+      "num": 113646,
+      "word": "7斤重礼炮弹盲取盲送有多丝滑",
+      "onboard_time": 1756467441,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65319,
@@ -3403,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42743,
+      "num": 170630,
+      "word": "佩通坦被解除总理职务后发声",
+      "onboard_time": 1756466182,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41692,
       "num": 238518,
       "word": "联合国的地位必须维护不能取代",
@@ -3585,14 +3673,6 @@
       "onboard_time": 1756458142,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28359,
-      "num": 170630,
-      "word": "佩通坦被解除总理职务后发声",
-      "onboard_time": 1756466182,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27125,

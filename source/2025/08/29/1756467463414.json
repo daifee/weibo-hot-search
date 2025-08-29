@@ -1,0 +1,410 @@
+{
+  "runTime": 1756467463414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 981063,
+        "num": 1156970,
+        "word": "李连杰公布病情",
+        "onboard_time": 1756464682,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321046,
+        "num": 321046,
+        "word": "美团将全面取消骑手超时罚款",
+        "onboard_time": 1756443503,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 7419,
+        "num": 306188,
+        "word": "从中国倡议扩大为国际共识",
+        "onboard_time": 1756435281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300293,
+        "num": 300293,
+        "word": "心动的信号8直播",
+        "onboard_time": 1756465462,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294115,
+        "num": 294115,
+        "word": "原房主跳楼身亡房子1457000元拍出",
+        "onboard_time": 1756457002,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202345,
+        "num": 202345,
+        "word": "泰国总理佩通坦遭解职",
+        "onboard_time": 1756458083,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 251773,
+        "num": 200081,
+        "word": "TOP登陆少年团演唱会",
+        "onboard_time": 1756466003,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190017,
+        "num": 190017,
+        "word": "40天婴儿肝硬化00后父亲割肝救女",
+        "onboard_time": 1756457242,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272610,
+        "num": 188191,
+        "word": "边伯贤探班直播",
+        "onboard_time": 1756465702,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151781,
+        "num": 186754,
+        "word": "北京晚霞",
+        "onboard_time": 1756465763,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1238936,
+        "num": 184472,
+        "word": "建议大家要少发朋友圈",
+        "onboard_time": 1756462162,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1162135,
+        "num": 181492,
+        "word": "刘美含张远 为什么不来娶我",
+        "onboard_time": 1756464743,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451280,
+        "num": 178244,
+        "word": "华晨宇七夕准备了8万朵玫瑰花",
+        "onboard_time": 1756464985,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58351,
+        "num": 176011,
+        "word": "谁将接替佩通坦",
+        "onboard_time": 1756463122,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363774,
+        "num": 172323,
+        "word": "彭昱畅第一章回国",
+        "onboard_time": 1756462762,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351823,
+        "num": 169001,
+        "word": "苏新皓红海",
+        "onboard_time": 1756465043,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168904,
+        "num": 168904,
+        "word": "中芯国际停牌",
+        "onboard_time": 1756465582,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 280991,
+        "num": 166758,
+        "word": "宋亚轩高会",
+        "onboard_time": 1756463002,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25157,
+        "num": 166374,
+        "word": "初瑞雪正式接棒辛选",
+        "onboard_time": 1756463303,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38637,
+        "num": 162211,
+        "word": "最好的双向奔赴是都来了",
+        "onboard_time": 1756465462,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2331170,
+        "num": 160657,
+        "word": "苏有朋道歉",
+        "onboard_time": 1756463422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208464,
+        "num": 159280,
+        "word": "张泽禹绿海",
+        "onboard_time": 1756466964,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157637,
+        "num": 157637,
+        "word": "韩烁是古装男主人设天花板之一",
+        "onboard_time": 1756466424,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151545,
+        "num": 151545,
+        "word": "花少火到考公圈了",
+        "onboard_time": 1756460722,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151077,
+        "num": 151077,
+        "word": "张艺凡东北甜妹大大方方的一生",
+        "onboard_time": 1756467023,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149715,
+        "num": 149715,
+        "word": "多方回应胖东来免费筷子无标签被起诉",
+        "onboard_time": 1756451843,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122358,
+        "num": 149257,
+        "word": "湖南一患绝症老人多次猥亵女性",
+        "onboard_time": 1756465882,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122536,
+        "num": 148434,
+        "word": "黄明昊 我的后台是乐华娱乐",
+        "onboard_time": 1756467203,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158019,
+        "num": 147279,
+        "word": "终于有人吐槽内娱高奢花式title",
+        "onboard_time": 1756454422,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42743,
+        "num": 146252,
+        "word": "佩通坦被解除总理职务后发声",
+        "onboard_time": 1756466182,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178130,
+        "num": 145172,
+        "word": "原来瘦了真的会被区别对待",
+        "onboard_time": 1756464142,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176759,
+        "num": 143711,
+        "word": "原来这是躯体化",
+        "onboard_time": 1756464322,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 170538,
+        "num": 143068,
+        "word": "辛巴宣布退网后直播连麦带货",
+        "onboard_time": 1756457543,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142203,
+        "num": 142203,
+        "word": "孙颖莎室内不用戴小头盔",
+        "onboard_time": 1756467143,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141205,
+        "num": 141205,
+        "word": "Labubu 猎魔女团",
+        "onboard_time": 1756465823,
+        "rank": 34,
+        "category": "动漫,休闲"
+      },
+      {
+        "raw_hot": 138746,
+        "num": 138746,
+        "word": "拉宏桑中国boy否认恋情",
+        "onboard_time": 1756463362,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123393,
+        "num": 123393,
+        "word": "王嘉尔少打了一个夕",
+        "onboard_time": 1756466723,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120434,
+        "num": 120434,
+        "word": "这居然是代斯",
+        "onboard_time": 1756464801,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113209,
+        "num": 117618,
+        "word": "轻断食从145斤瘦到95斤",
+        "onboard_time": 1756466484,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 102702,
+        "num": 117383,
+        "word": "宋妍霏听到一年级都急破音了",
+        "onboard_time": 1756467084,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117337,
+        "num": 117337,
+        "word": "梁洁这张脸太适合民国风了",
+        "onboard_time": 1756466304,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114434,
+        "num": 114434,
+        "word": "工作五年没留下一枚指纹",
+        "onboard_time": 1756463422,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66253,
+        "num": 113646,
+        "word": "7斤重礼炮弹盲取盲送有多丝滑",
+        "onboard_time": 1756467441,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113226,
+        "num": 113226,
+        "word": "中国留学生搭讪女生被告到FBI",
+        "onboard_time": 1756464022,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107950,
+        "num": 107950,
+        "word": "aespa三巡",
+        "onboard_time": 1756461323,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107592,
+        "num": 107592,
+        "word": "赵睿加盟北京男篮",
+        "onboard_time": 1756467441,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107175,
+        "num": 107175,
+        "word": "建议大家上班一定要打扮自己",
+        "onboard_time": 1756461742,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100851,
+        "num": 106112,
+        "word": "王楚钦乒超连续出战",
+        "onboard_time": 1756466124,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105522,
+        "num": 105522,
+        "word": "MG4定价6.58万车展杀疯",
+        "onboard_time": 1756466543,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104863,
+        "num": 104863,
+        "word": "用了一年九个月还清了24万负债",
+        "onboard_time": 1756459162,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把爱国爱家统一起来#"
+    }
+  }
+}
