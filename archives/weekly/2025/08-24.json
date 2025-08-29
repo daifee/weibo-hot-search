@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756433652987,
+  "endTime": 1756436861517,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -299,6 +299,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1558684,
+      "num": 294377,
+      "word": "张凌赫突然睡醒发七夕快乐",
+      "onboard_time": 1756435221,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1536715,
       "num": 1536715,
       "word": "河北一女子去世疑与丈夫家暴有关",
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 1228863,
-      "num": 278519,
+      "num": 289308,
       "word": "公主抱陪爬 擦边",
       "onboard_time": 1756393403,
       "rank": 11,
@@ -985,6 +993,14 @@
       "onboard_time": 1756355243,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 941621,
+      "num": 292641,
+      "word": "双轨",
+      "onboard_time": 1756434501,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 936576,
@@ -1915,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617294,
+      "num": 617294,
+      "word": "慕胥辞",
+      "onboard_time": 1756434920,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 615618,
       "num": 615618,
       "word": "女子询问海底捞换配菜被开黄腔辱骂",
@@ -2499,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526485,
+      "num": 526485,
+      "word": "折月亮官宣",
+      "onboard_time": 1756434141,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 522986,
       "num": 381461,
       "word": "女子买旗袍怀疑自己买到了寿衣",
@@ -2601,6 +2633,14 @@
       "onboard_time": 1756084041,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 506814,
+      "num": 290476,
+      "word": "七夕红包",
+      "onboard_time": 1756431082,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 506705,
@@ -3121,14 +3161,6 @@
       "onboard_time": 1756125923,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 431691,
-      "num": 195781,
-      "word": "七夕红包",
-      "onboard_time": 1756431082,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 431078,
@@ -3763,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355733,
+      "num": 355733,
+      "word": "龚俊 随便选了一套",
+      "onboard_time": 1756430721,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354571,
       "num": 354571,
       "word": "薛凯琪把额头露出来大大方方的",
@@ -3947,6 +3987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332071,
+      "num": 332071,
+      "word": "逐玉",
+      "onboard_time": 1756435520,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331089,
       "num": 301906,
       "word": "网传迪丽热巴团队重组招人",
@@ -4041,6 +4089,14 @@
       "onboard_time": 1756125385,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319756,
+      "num": 287831,
+      "word": "蔡明 不跟前辈打个招呼请个安吗",
+      "onboard_time": 1756435341,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 319574,
@@ -4155,12 +4211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303131,
+      "num": 233898,
+      "word": "单身的人建议反复观看",
+      "onboard_time": 1756434260,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301520,
       "num": 301520,
       "word": "王玉雯说刘宇宁演唱会票老难抢了",
       "onboard_time": 1756012642,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301370,
+      "num": 286388,
+      "word": "白鹿丞磊莫离七夕花絮",
+      "onboard_time": 1756434141,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 301076,
@@ -4345,6 +4417,14 @@
       "onboard_time": 1756010121,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 286014,
+      "num": 286014,
+      "word": "宋威龙赵今麦吻戏",
+      "onboard_time": 1756435460,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 285794,
@@ -4747,6 +4827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254425,
+      "num": 232942,
+      "word": "虞书欣何与七夕海报",
+      "onboard_time": 1756436121,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253951,
       "num": 253951,
       "word": "这些习惯是血糖刺客",
@@ -4833,6 +4921,14 @@
       "onboard_time": 1756256062,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248472,
+      "num": 235271,
+      "word": "陈乔恩在明道阮经天中选艾伦",
+      "onboard_time": 1756436062,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 248412,
@@ -5075,6 +5171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235483,
+      "num": 235483,
+      "word": "开学咋住困扰超7成学龄家庭",
+      "onboard_time": 1756434201,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235330,
       "num": 235330,
       "word": "青岛一公园修建仅一年凉亭突然垮塌",
@@ -5131,6 +5235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 233273,
+      "num": 233273,
+      "word": "王牌对王牌第100期录制repo",
+      "onboard_time": 1756433482,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233190,
       "num": 233190,
       "word": "张万森 下爸爸了",
@@ -5185,6 +5297,14 @@
       "onboard_time": 1756020322,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230856,
+      "num": 230856,
+      "word": "陶白白七夕建议天蝎座找点事做",
+      "onboard_time": 1756436661,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 230794,
@@ -5273,6 +5393,14 @@
       "onboard_time": 1756357823,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225661,
+      "num": 225661,
+      "word": "迪丽热巴陈飞宇七夕花絮",
+      "onboard_time": 1756436002,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 225581,
@@ -5691,6 +5819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209527,
+      "num": 223765,
+      "word": "李一桐说戚薇油到土耳其了",
+      "onboard_time": 1756436781,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209482,
       "num": 215555,
       "word": "与晋长安开播",
@@ -5873,6 +6009,22 @@
       "onboard_time": 1756040305,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205303,
+      "num": 205303,
+      "word": "表妹万福",
+      "onboard_time": 1756435281,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204608,
+      "num": 204608,
+      "word": "骄阳似我",
+      "onboard_time": 1756435821,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 204524,
@@ -6883,6 +7035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 189015,
+      "num": 189015,
+      "word": "七夕怎么可能和谁过都一样",
+      "onboard_time": 1756436481,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188869,
       "num": 188869,
       "word": "小孩",
@@ -7073,6 +7233,14 @@
       "onboard_time": 1756283842,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186278,
+      "num": 186278,
+      "word": "上海一空调安装工人意外从3楼坠落",
+      "onboard_time": 1756431861,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186261,
@@ -7281,14 +7449,6 @@
       "onboard_time": 1756267764,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183209,
-      "num": 183209,
-      "word": "龚俊 随便选了一套",
-      "onboard_time": 1756430721,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 182963,
@@ -7817,6 +7977,14 @@
       "onboard_time": 1756176742,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174325,
+      "num": 196213,
+      "word": "抗战胜利80周年记者招待会",
+      "onboard_time": 1756433001,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174274,
@@ -8443,6 +8611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163889,
+      "num": 163889,
+      "word": "怎么一眼看出谁在洗钱",
+      "onboard_time": 1756431322,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163748,
       "num": 163748,
       "word": "寒武纪当了7分钟股王",
@@ -8961,6 +9137,14 @@
       "onboard_time": 1756365503,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157684,
+      "num": 157684,
+      "word": "相亲角这地还是太权威了",
+      "onboard_time": 1756434982,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 157679,
@@ -9707,14 +9891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149060,
-      "num": 125998,
-      "word": "怎么一眼看出谁在洗钱",
-      "onboard_time": 1756431322,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148879,
       "num": 226830,
       "word": "暴雨高温台风预警齐发",
@@ -10243,14 +10419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143630,
-      "num": 196213,
-      "word": "抗战胜利80周年记者招待会",
-      "onboard_time": 1756433001,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 143560,
       "num": 143560,
       "word": "NBA顶级弹跳败给长城",
@@ -10715,6 +10883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138598,
+      "num": 138598,
+      "word": "百花杀",
+      "onboard_time": 1756433782,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138518,
       "num": 138518,
       "word": "iPhone做会议纪要",
@@ -10985,14 +11161,6 @@
       "onboard_time": 1756172422,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135990,
-      "num": 135990,
-      "word": "上海一空调安装工人意外从3楼坠落",
-      "onboard_time": 1756431861,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135927,
@@ -12027,6 +12195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126454,
+      "num": 126454,
+      "word": "莫离",
+      "onboard_time": 1756433660,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126374,
       "num": 138385,
       "word": "婚生子起诉继子要求继承全部财产",
@@ -12129,6 +12305,14 @@
       "onboard_time": 1756287203,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125321,
+      "num": 125321,
+      "word": "星穹铁道风堇贺图",
+      "onboard_time": 1756436661,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 125317,
@@ -12681,6 +12865,14 @@
       "onboard_time": 1756190841,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121084,
+      "num": 121084,
+      "word": "百花杀七夕抱着过",
+      "onboard_time": 1756436723,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 120912,
@@ -13491,6 +13683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114119,
+      "num": 114119,
+      "word": "美海军正筹备豪华阅兵式",
+      "onboard_time": 1756432820,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114107,
       "num": 114107,
       "word": "家里有这种插线板的请尽快扔掉",
@@ -13779,6 +13979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110108,
+      "num": 110108,
+      "word": "宁德时代涨逾8%",
+      "onboard_time": 1756436303,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110068,
       "num": 119691,
       "word": "纹身狗",
@@ -13923,6 +14131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108557,
+      "num": 108557,
+      "word": "山河枕",
+      "onboard_time": 1756436303,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108497,
       "num": 108497,
       "word": "真的可以永远相信中式审美",
@@ -13945,6 +14161,14 @@
       "onboard_time": 1756350322,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108303,
+      "num": 108303,
+      "word": "梁王决胜局连丢6分",
+      "onboard_time": 1756435161,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 108294,
@@ -14203,6 +14427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106087,
+      "num": 106087,
+      "word": "国安通报军迷违规拍阅兵军机训练",
+      "onboard_time": 1756432940,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106073,
       "num": 175268,
       "word": "男孩被死鱼扎伤险致截肢",
@@ -14265,6 +14497,14 @@
       "onboard_time": 1756366642,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105535,
+      "num": 294574,
+      "word": "从中国倡议扩大为国际共识",
+      "onboard_time": 1756435281,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105468,
@@ -14955,14 +15195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98377,
-      "num": 98377,
-      "word": "王牌对王牌第100期录制repo",
-      "onboard_time": 1756433482,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98327,
       "num": 98327,
       "word": "余景天露背装把刘彰辣到",
@@ -15129,14 +15361,6 @@
       "onboard_time": 1756126464,
       "rank": 42,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 95688,
-      "num": 95688,
-      "word": "美海军正筹备豪华阅兵式",
-      "onboard_time": 1756432820,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 95627,
@@ -18971,6 +19195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25044,
+      "num": 233708,
+      "word": "新中国成立以来从未主动挑起一场战争",
+      "onboard_time": 1756436541,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24805,
       "num": 24805,
       "word": "家人称金子涵没生病",
@@ -19111,6 +19343,14 @@
       "num": 161817,
       "word": "员工缺勤37次被解雇索赔36万元",
       "onboard_time": 1756366342,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23405,
+      "num": 207594,
+      "word": "认知障碍老人跨省买房想退遭拒",
+      "onboard_time": 1756435281,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -19323,6 +19563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20152,
+      "num": 938130,
+      "word": "中国阅兵向国际传递什么信息",
+      "onboard_time": 1756351521,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20096,
       "num": 203393,
       "word": "雷公诉人贩子索赔6元案法院判赔4元",
@@ -19515,6 +19763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15915,
+      "num": 124728,
+      "word": "家政阿姨结婚30年后第一张婚纱照",
+      "onboard_time": 1756436841,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15278,
       "num": 116462,
       "word": "宋丹丹吃没吃豆角嘴都毒",
@@ -19569,14 +19825,6 @@
       "onboard_time": 1756016842,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14119,
-      "num": 938130,
-      "word": "中国阅兵向国际传递什么信息",
-      "onboard_time": 1756351521,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14007,

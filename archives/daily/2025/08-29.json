@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756433652987,
+  "endTime": 1756436861517,
   "band_list": [
     {
       "raw_hot": 1872250,
@@ -16,6 +16,14 @@
       "word": "造谣韩磊出轨事件当事人道歉",
       "onboard_time": 1756429402,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1558684,
+      "num": 294377,
+      "word": "张凌赫突然睡醒发七夕快乐",
+      "onboard_time": 1756435221,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 941621,
+      "num": 292641,
+      "word": "双轨",
+      "onboard_time": 1756434501,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 788579,
       "num": 788579,
       "word": "阅兵当天广场可容纳超5万人观礼",
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 779968,
-      "num": 256524,
+      "num": 289308,
       "word": "公主抱陪爬 擦边",
       "onboard_time": 1756393403,
       "rank": 11,
@@ -67,8 +83,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617294,
+      "num": 617294,
+      "word": "慕胥辞",
+      "onboard_time": 1756434920,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 539094,
-      "num": 184187,
+      "num": 234575,
       "word": "贾玲 上镜胖十斤受害者",
       "onboard_time": 1756383023,
       "rank": 20,
@@ -81,6 +105,22 @@
       "onboard_time": 1756398021,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 526485,
+      "num": 526485,
+      "word": "折月亮官宣",
+      "onboard_time": 1756434141,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 506814,
+      "num": 290476,
+      "word": "七夕红包",
+      "onboard_time": 1756431082,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 498637,
@@ -100,19 +140,11 @@
     },
     {
       "raw_hot": 444074,
-      "num": 204153,
+      "num": 234786,
       "word": "虞书欣父亲委托起诉老潘财商",
       "onboard_time": 1756386984,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431691,
-      "num": 195781,
-      "word": "七夕红包",
-      "onboard_time": 1756431082,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 388578,
@@ -139,6 +171,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355733,
+      "num": 355733,
+      "word": "龚俊 随便选了一套",
+      "onboard_time": 1756430721,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 332071,
+      "num": 332071,
+      "word": "逐玉",
+      "onboard_time": 1756435520,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 319756,
+      "num": 287831,
+      "word": "蔡明 不跟前辈打个招呼请个安吗",
+      "onboard_time": 1756435341,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313625,
       "num": 313625,
       "word": "特朗普下令全国哀悼",
@@ -153,6 +209,22 @@
       "onboard_time": 1756424122,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303131,
+      "num": 233898,
+      "word": "单身的人建议反复观看",
+      "onboard_time": 1756434260,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 301370,
+      "num": 286388,
+      "word": "白鹿丞磊莫离七夕花絮",
+      "onboard_time": 1756434141,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 301076,
@@ -195,6 +267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 286014,
+      "num": 286014,
+      "word": "宋威龙赵今麦吻戏",
+      "onboard_time": 1756435460,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283950,
       "num": 192163,
       "word": "承认吧演员多读书有用",
@@ -217,6 +297,14 @@
       "onboard_time": 1756389743,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254425,
+      "num": 232942,
+      "word": "虞书欣何与七夕海报",
+      "onboard_time": 1756436121,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 251532,
@@ -243,6 +331,46 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248472,
+      "num": 235271,
+      "word": "陈乔恩在明道阮经天中选艾伦",
+      "onboard_time": 1756436062,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235483,
+      "num": 235483,
+      "word": "开学咋住困扰超7成学龄家庭",
+      "onboard_time": 1756434201,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233273,
+      "num": 233273,
+      "word": "王牌对王牌第100期录制repo",
+      "onboard_time": 1756433482,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230856,
+      "num": 230856,
+      "word": "陶白白七夕建议天蝎座找点事做",
+      "onboard_time": 1756436661,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 225661,
+      "num": 225661,
+      "word": "迪丽热巴陈飞宇七夕花絮",
+      "onboard_time": 1756436002,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214704,
       "num": 214704,
       "word": "尚雯婕说李佳琦不懂得拒绝",
@@ -259,11 +387,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209527,
+      "num": 223765,
+      "word": "李一桐说戚薇油到土耳其了",
+      "onboard_time": 1756436781,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205783,
       "num": 205783,
       "word": "泰版三十而已看上头了",
       "onboard_time": 1756425860,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205303,
+      "num": 205303,
+      "word": "表妹万福",
+      "onboard_time": 1756435281,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204608,
+      "num": 204608,
+      "word": "骄阳似我",
+      "onboard_time": 1756435821,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -315,6 +467,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189015,
+      "num": 189015,
+      "word": "七夕怎么可能和谁过都一样",
+      "onboard_time": 1756436481,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 186278,
+      "num": 186278,
+      "word": "上海一空调安装工人意外从3楼坠落",
+      "onboard_time": 1756431861,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184862,
       "num": 184862,
       "word": "欧冠联赛",
@@ -323,12 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183209,
-      "num": 183209,
-      "word": "龚俊 随便选了一套",
-      "onboard_time": 1756430721,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 174325,
+      "num": 196213,
+      "word": "抗战胜利80周年记者招待会",
+      "onboard_time": 1756433001,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 163889,
+      "num": 163889,
+      "word": "怎么一眼看出谁在洗钱",
+      "onboard_time": 1756431322,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158646,
@@ -337,6 +513,14 @@
       "onboard_time": 1756430901,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157684,
+      "num": 157684,
+      "word": "相亲角这地还是太权威了",
+      "onboard_time": 1756434982,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 155177,
@@ -353,14 +537,6 @@
       "onboard_time": 1756431861,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149060,
-      "num": 125998,
-      "word": "怎么一眼看出谁在洗钱",
-      "onboard_time": 1756431322,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148601,
@@ -387,14 +563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143630,
-      "num": 196213,
-      "word": "抗战胜利80周年记者招待会",
-      "onboard_time": 1756433001,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 143560,
       "num": 143560,
       "word": "NBA顶级弹跳败给长城",
@@ -403,20 +571,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138598,
+      "num": 138598,
+      "word": "百花杀",
+      "onboard_time": 1756433782,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136877,
       "num": 136877,
       "word": "今年七夕节本世纪最晚",
       "onboard_time": 1756393283,
       "rank": 23,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 135990,
-      "num": 135990,
-      "word": "上海一空调安装工人意外从3楼坠落",
-      "onboard_time": 1756431861,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133082,
@@ -451,6 +619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126454,
+      "num": 126454,
+      "word": "莫离",
+      "onboard_time": 1756433660,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125321,
+      "num": 125321,
+      "word": "星穹铁道风堇贺图",
+      "onboard_time": 1756436661,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124798,
       "num": 124798,
       "word": "育儿补贴申领全攻略",
@@ -465,6 +649,14 @@
       "onboard_time": 1756428982,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121084,
+      "num": 121084,
+      "word": "百花杀七夕抱着过",
+      "onboard_time": 1756436723,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 119252,
@@ -499,12 +691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114119,
+      "num": 114119,
+      "word": "美海军正筹备豪华阅兵式",
+      "onboard_time": 1756432820,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113071,
       "num": 113071,
       "word": "刘浩存主动给刘昊然打招呼",
       "onboard_time": 1756407855,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110108,
+      "num": 110108,
+      "word": "宁德时代涨逾8%",
+      "onboard_time": 1756436303,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 109363,
@@ -515,6 +723,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108557,
+      "num": 108557,
+      "word": "山河枕",
+      "onboard_time": 1756436303,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108303,
+      "num": 108303,
+      "word": "梁王决胜局连丢6分",
+      "onboard_time": 1756435161,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107684,
       "num": 107684,
       "word": "迷你LABUBU一端炒至2500元",
@@ -523,20 +747,28 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 106087,
+      "num": 106087,
+      "word": "国安通报军迷违规拍阅兵军机训练",
+      "onboard_time": 1756432940,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 105535,
+      "num": 294574,
+      "word": "从中国倡议扩大为国际共识",
+      "onboard_time": 1756435281,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98986,
       "num": 98986,
       "word": "无可替代",
       "onboard_time": 1756431861,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98377,
-      "num": 98377,
-      "word": "王牌对王牌第100期录制repo",
-      "onboard_time": 1756433482,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 98088,
@@ -553,14 +785,6 @@
       "onboard_time": 1756404077,
       "rank": 30,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 95688,
-      "num": 95688,
-      "word": "美海军正筹备豪华阅兵式",
-      "onboard_time": 1756432820,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94392,
@@ -987,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25044,
+      "num": 233708,
+      "word": "新中国成立以来从未主动挑起一场战争",
+      "onboard_time": 1756436541,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24805,
       "num": 24805,
       "word": "家人称金子涵没生病",
@@ -1011,12 +1243,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23405,
+      "num": 207594,
+      "word": "认知障碍老人跨省买房想退遭拒",
+      "onboard_time": 1756435281,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20517,
       "num": 30132,
       "word": "华晨宇火星演唱会",
       "onboard_time": 1756403117,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20152,
+      "num": 938130,
+      "word": "中国阅兵向国际传递什么信息",
+      "onboard_time": 1756351521,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20016,
@@ -1051,20 +1299,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 15915,
+      "num": 124728,
+      "word": "家政阿姨结婚30年后第一张婚纱照",
+      "onboard_time": 1756436841,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14556,
       "num": 18131,
       "word": "插线板的3个错误用法",
       "onboard_time": 1756411394,
       "rank": 47,
       "category": "数码,科学科普"
-    },
-    {
-      "raw_hot": 13497,
-      "num": 938130,
-      "word": "中国阅兵向国际传递什么信息",
-      "onboard_time": 1756351521,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11596,

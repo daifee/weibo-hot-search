@@ -1,0 +1,410 @@
+{
+  "runTime": 1756436861517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1861912,
+        "num": 1861912,
+        "word": "反诈老陈又翻车了",
+        "onboard_time": 1756431560,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820040,
+        "num": 820040,
+        "word": "七夕",
+        "onboard_time": 1756400179,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20152,
+        "num": 620125,
+        "word": "中国阅兵向国际传递什么信息",
+        "onboard_time": 1756351521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 617294,
+        "num": 617294,
+        "word": "慕胥辞",
+        "onboard_time": 1756434920,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526485,
+        "num": 526485,
+        "word": "折月亮官宣",
+        "onboard_time": 1756434141,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418901,
+        "num": 418901,
+        "word": "阅兵当天广场可容纳超5万人观礼",
+        "onboard_time": 1756426343,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355733,
+        "num": 355733,
+        "word": "龚俊 随便选了一套",
+        "onboard_time": 1756430721,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332071,
+        "num": 332071,
+        "word": "逐玉",
+        "onboard_time": 1756435520,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295976,
+        "num": 295976,
+        "word": "minilabubu上线卖爆了",
+        "onboard_time": 1756425081,
+        "rank": 8,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 105535,
+        "num": 294574,
+        "word": "从中国倡议扩大为国际共识",
+        "onboard_time": 1756435281,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1558684,
+        "num": 294377,
+        "word": "张凌赫突然睡醒发七夕快乐",
+        "onboard_time": 1756435221,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 941621,
+        "num": 292641,
+        "word": "双轨",
+        "onboard_time": 1756434501,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506814,
+        "num": 290476,
+        "word": "七夕红包",
+        "onboard_time": 1756431082,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414936,
+        "num": 289308,
+        "word": "公主抱陪爬 擦边",
+        "onboard_time": 1756393403,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319756,
+        "num": 287831,
+        "word": "蔡明 不跟前辈打个招呼请个安吗",
+        "onboard_time": 1756435341,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301370,
+        "num": 286388,
+        "word": "白鹿丞磊莫离七夕花絮",
+        "onboard_time": 1756434141,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286014,
+        "num": 286014,
+        "word": "宋威龙赵今麦吻戏",
+        "onboard_time": 1756435460,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235483,
+        "num": 235483,
+        "word": "开学咋住困扰超7成学龄家庭",
+        "onboard_time": 1756434201,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248472,
+        "num": 235271,
+        "word": "陈乔恩在明道阮经天中选艾伦",
+        "onboard_time": 1756436062,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263104,
+        "num": 234786,
+        "word": "虞书欣父亲委托起诉老潘财商",
+        "onboard_time": 1756386984,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360482,
+        "num": 234575,
+        "word": "贾玲 上镜胖十斤受害者",
+        "onboard_time": 1756383023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303131,
+        "num": 233898,
+        "word": "单身的人建议反复观看",
+        "onboard_time": 1756434260,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25044,
+        "num": 233708,
+        "word": "新中国成立以来从未主动挑起一场战争",
+        "onboard_time": 1756436541,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233273,
+        "num": 233273,
+        "word": "王牌对王牌第100期录制repo",
+        "onboard_time": 1756433482,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254425,
+        "num": 232942,
+        "word": "虞书欣何与七夕海报",
+        "onboard_time": 1756436121,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230856,
+        "num": 230856,
+        "word": "陶白白七夕建议天蝎座找点事做",
+        "onboard_time": 1756436661,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225661,
+        "num": 225661,
+        "word": "迪丽热巴陈飞宇七夕花絮",
+        "onboard_time": 1756436002,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209527,
+        "num": 223765,
+        "word": "李一桐说戚薇油到土耳其了",
+        "onboard_time": 1756436781,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222980,
+        "num": 222980,
+        "word": "保时捷女车主停车一车占两位",
+        "onboard_time": 1756424122,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23405,
+        "num": 207594,
+        "word": "认知障碍老人跨省买房想退遭拒",
+        "onboard_time": 1756435281,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205303,
+        "num": 205303,
+        "word": "表妹万福",
+        "onboard_time": 1756435281,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204608,
+        "num": 204608,
+        "word": "骄阳似我",
+        "onboard_time": 1756435821,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189015,
+        "num": 189015,
+        "word": "七夕怎么可能和谁过都一样",
+        "onboard_time": 1756436481,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186278,
+        "num": 186278,
+        "word": "上海一空调安装工人意外从3楼坠落",
+        "onboard_time": 1756431861,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174325,
+        "num": 174325,
+        "word": "抗战胜利80周年记者招待会",
+        "onboard_time": 1756433001,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163889,
+        "num": 163889,
+        "word": "怎么一眼看出谁在洗钱",
+        "onboard_time": 1756431322,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157684,
+        "num": 157684,
+        "word": "相亲角这地还是太权威了",
+        "onboard_time": 1756434982,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138598,
+        "num": 138598,
+        "word": "百花杀",
+        "onboard_time": 1756433782,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133989,
+        "num": 133989,
+        "word": "吴京出品电影上映6天票房仅26.7万",
+        "onboard_time": 1756424179,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126454,
+        "num": 126454,
+        "word": "莫离",
+        "onboard_time": 1756433660,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125321,
+        "num": 125321,
+        "word": "星穹铁道风堇贺图",
+        "onboard_time": 1756436661,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15915,
+        "num": 124728,
+        "word": "家政阿姨结婚30年后第一张婚纱照",
+        "onboard_time": 1756436841,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124598,
+        "num": 124598,
+        "word": "以山河影像为信告慰抗战英烈",
+        "onboard_time": 1756432762,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121084,
+        "num": 121084,
+        "word": "百花杀七夕抱着过",
+        "onboard_time": 1756436723,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120042,
+        "num": 120042,
+        "word": "王楚然 星河予你",
+        "onboard_time": 1756430781,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114119,
+        "num": 114119,
+        "word": "美海军正筹备豪华阅兵式",
+        "onboard_time": 1756432820,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110108,
+        "num": 110108,
+        "word": "宁德时代涨逾8%",
+        "onboard_time": 1756436303,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108557,
+        "num": 108557,
+        "word": "山河枕",
+        "onboard_time": 1756436303,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108303,
+        "num": 108303,
+        "word": "梁王决胜局连丢6分",
+        "onboard_time": 1756435161,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106087,
+        "num": 106087,
+        "word": "国安通报军迷违规拍阅兵军机训练",
+        "onboard_time": 1756432940,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记血与火铸就的深情#"
+    }
+  }
+}
