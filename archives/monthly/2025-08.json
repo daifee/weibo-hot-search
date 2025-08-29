@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756471806529,
+  "endTime": 1756472650404,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1492,7 +1492,7 @@
     },
     {
       "raw_hot": 1815748,
-      "num": 224450,
+      "num": 248676,
       "word": "刘美含张远 为什么不来娶我",
       "onboard_time": 1756464743,
       "rank": 11,
@@ -6707,6 +6707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 848013,
+      "num": 1135682,
+      "word": "华晨宇七夕准备了8万朵玫瑰花",
+      "onboard_time": 1756464985,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 847818,
       "num": 316349,
       "word": "陈铭首曝亲哥被绑架致残",
@@ -7209,6 +7217,14 @@
       "onboard_time": 1755143363,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 812278,
+      "num": 370729,
+      "word": "男主疯了男二死了男三黑化",
+      "onboard_time": 1756468282,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 811768,
@@ -8097,14 +8113,6 @@
       "onboard_time": 1756255043,
       "rank": 1,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 755584,
-      "num": 1120893,
-      "word": "华晨宇七夕准备了8万朵玫瑰花",
-      "onboard_time": 1756464985,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 755062,
@@ -9313,14 +9321,6 @@
       "onboard_time": 1755056542,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 687458,
-      "num": 370729,
-      "word": "男主疯了男二死了男三黑化",
-      "onboard_time": 1756468282,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 686833,
@@ -10761,6 +10761,14 @@
       "onboard_time": 1754633543,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 624523,
+      "num": 244627,
+      "word": "孕妇坠崖案当事人仍无法离婚",
+      "onboard_time": 1756471222,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 624335,
@@ -20363,6 +20371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353542,
+      "num": 236841,
+      "word": "原来这是躯体化",
+      "onboard_time": 1756464322,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 353275,
       "num": 353275,
       "word": "檀健次李兰迪 月都花落",
@@ -20449,6 +20465,14 @@
       "onboard_time": 1756465043,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 351551,
+      "num": 351551,
+      "word": "日本厕纸",
+      "onboard_time": 1756463303,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 351536,
@@ -20817,6 +20841,14 @@
       "onboard_time": 1754479944,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340759,
+      "num": 315684,
+      "word": "王源鸟巢上座率",
+      "onboard_time": 1756470503,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 340735,
@@ -21851,14 +21883,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 323213,
-      "num": 323213,
-      "word": "日本厕纸",
-      "onboard_time": 1756463303,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 323140,
       "num": 323140,
       "word": "以色列总理决定全面占领加沙",
@@ -22000,6 +22024,14 @@
       "word": "海来阿木变化好大",
       "onboard_time": 1754405366,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 320527,
+      "num": 285643,
+      "word": "鹿晗橘色狼尾",
+      "onboard_time": 1756469544,
+      "rank": 7,
       "category": "演出"
     },
     {
@@ -22281,6 +22313,14 @@
       "onboard_time": 1754399003,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315399,
+      "num": 224239,
+      "word": "薛小婉称快与任权分手",
+      "onboard_time": 1756470744,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 314976,
@@ -22961,6 +23001,14 @@
       "onboard_time": 1756434260,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302887,
+      "num": 302887,
+      "word": "教育局回应1.4亿元配学生运动手环",
+      "onboard_time": 1756468163,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302858,
@@ -24195,14 +24243,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 285643,
-      "num": 285643,
-      "word": "鹿晗橘色狼尾",
-      "onboard_time": 1756469544,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 285512,
       "num": 285512,
       "word": "恋与深空创造历史",
@@ -24297,14 +24337,6 @@
       "onboard_time": 1754454864,
       "rank": 17,
       "category": "游戏,民生新闻"
-    },
-    {
-      "raw_hot": 284417,
-      "num": 217312,
-      "word": "原来这是躯体化",
-      "onboard_time": 1756464322,
-      "rank": 27,
-      "category": "科学科普"
     },
     {
       "raw_hot": 284191,
@@ -24443,6 +24475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 282428,
+      "num": 221697,
+      "word": "男子转账备注自愿赠与分手起诉返还",
+      "onboard_time": 1756470385,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282405,
       "num": 282405,
       "word": "韩国小伙来中国旅行被印度人破防",
@@ -24553,14 +24593,6 @@
       "onboard_time": 1755867147,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 280965,
-      "num": 215944,
-      "word": "孕妇坠崖案当事人仍无法离婚",
-      "onboard_time": 1756471222,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 280849,
@@ -28107,14 +28139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 239603,
-      "num": 239603,
-      "word": "教育局回应1.4亿元配学生运动手环",
-      "onboard_time": 1756468163,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239583,
       "num": 239583,
       "word": "广州迎本世纪以来最冷8月",
@@ -31499,14 +31523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213371,
-      "num": 213371,
-      "word": "薛小婉称快与任权分手",
-      "onboard_time": 1756470744,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 213326,
       "num": 213326,
       "word": "eStar",
@@ -31793,6 +31809,14 @@
       "onboard_time": 1756046006,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211424,
+      "num": 211424,
+      "word": "王嘉尔少打了一个夕",
+      "onboard_time": 1756466723,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 211418,
@@ -32691,14 +32715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207926,
-      "num": 207926,
-      "word": "王源鸟巢上座率",
-      "onboard_time": 1756470503,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 207884,
       "num": 207884,
       "word": "许凯新剧恋爱基础进度就不基础",
@@ -33233,6 +33249,14 @@
       "onboard_time": 1756128023,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205400,
+      "num": 205400,
+      "word": "苏新皓八音盒",
+      "onboard_time": 1756470323,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 205393,
@@ -35355,6 +35379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 198321,
+      "num": 198321,
+      "word": "龙血",
+      "onboard_time": 1756471763,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 198314,
       "num": 198314,
       "word": "香奈儿简直是女王",
@@ -36163,14 +36195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196422,
-      "num": 196422,
-      "word": "男子转账备注自愿赠与分手起诉返还",
-      "onboard_time": 1756470385,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196413,
       "num": 247305,
       "word": "景区施工发现1449座古墓跨多朝",
@@ -36873,6 +36897,14 @@
       "onboard_time": 1755488303,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194680,
+      "num": 175966,
+      "word": "宋亚轩在王牌团舞跳爽了",
+      "onboard_time": 1756471827,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 194583,
@@ -37785,14 +37817,6 @@
       "onboard_time": 1755422062,
       "rank": 14,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 192106,
-      "num": 192106,
-      "word": "苏新皓八音盒",
-      "onboard_time": 1756470323,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 192042,
@@ -42619,6 +42643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176746,
+      "num": 176746,
+      "word": "被清华大学的录取通知书震惊到了",
+      "onboard_time": 1756469303,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 176720,
       "num": 176720,
       "word": "一级演员陈佩华逝世",
@@ -43408,6 +43440,14 @@
       "word": "鹿晗递话筒",
       "onboard_time": 1755866546,
       "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 174500,
+      "num": 174500,
+      "word": "苏新皓站姐神图有了",
+      "onboard_time": 1756472486,
+      "rank": 27,
       "category": "演出"
     },
     {
@@ -46747,14 +46787,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 165021,
-      "num": 165021,
-      "word": "王嘉尔少打了一个夕",
-      "onboard_time": 1756466723,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164964,
       "num": 164964,
       "word": "汪苏泷扔伞",
@@ -49923,6 +49955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157602,
+      "num": 157602,
+      "word": "宋威龙张婧仪手绑手打台球",
+      "onboard_time": 1756471884,
+      "rank": 31,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 157595,
       "num": 157595,
       "word": "李承铉40岁的年纪20岁的身体",
@@ -52699,6 +52739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151240,
+      "num": 151240,
+      "word": "辛巴直播怒斥初瑞雪",
+      "onboard_time": 1756471283,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 151228,
       "num": 151228,
       "word": "库里再谈中国行感受",
@@ -54985,6 +55033,14 @@
       "onboard_time": 1754995282,
       "rank": 39,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 146207,
+      "num": 146207,
+      "word": "轻断食从145斤瘦到95斤",
+      "onboard_time": 1756466484,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 146199,
@@ -59075,6 +59131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138611,
+      "num": 138611,
+      "word": "黄子弘凡欧阳娜娜七夕星河下对唱",
+      "onboard_time": 1756471523,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138609,
       "num": 127598,
       "word": "补气血清比补更重要",
@@ -60979,14 +61043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135423,
-      "num": 135423,
-      "word": "辛巴直播怒斥初瑞雪",
-      "onboard_time": 1756471283,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 135410,
       "num": 135410,
       "word": "tws",
@@ -62473,14 +62529,6 @@
       "onboard_time": 1754923044,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132885,
-      "num": 132885,
-      "word": "轻断食从145斤瘦到95斤",
-      "onboard_time": 1756466484,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 132864,
@@ -64017,6 +64065,14 @@
       "onboard_time": 1755668601,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130163,
+      "num": 130163,
+      "word": "李昀锐将时钟拨回那日相见",
+      "onboard_time": 1756472364,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 130158,
@@ -68075,14 +68131,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 123489,
-      "num": 134438,
-      "word": "黄子弘凡欧阳娜娜七夕星河下对唱",
-      "onboard_time": 1756471523,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 123488,
       "num": 123488,
       "word": "当N人和S人收到鲜花belike",
@@ -69771,14 +69819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120662,
-      "num": 120662,
-      "word": "龙血",
-      "onboard_time": 1756471763,
-      "rank": 42,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 120654,
       "num": 120654,
       "word": "丞磊承包了我的整个暑假",
@@ -70971,6 +71011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118858,
+      "num": 118858,
+      "word": "AG对战TTG",
+      "onboard_time": 1756467803,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118829,
       "num": 130341,
       "word": "苏醒聊男团站位",
@@ -71169,14 +71217,6 @@
       "onboard_time": 1754829081,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 118507,
-      "num": 118507,
-      "word": "被清华大学的录取通知书震惊到了",
-      "onboard_time": 1756469303,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 118495,
@@ -72267,6 +72307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116546,
+      "num": 116546,
+      "word": "唐舞桐常服",
+      "onboard_time": 1756468944,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 116531,
       "num": 116531,
       "word": "动物园冰柜内现大量野生动物尸体",
@@ -73129,14 +73177,6 @@
       "onboard_time": 1755130521,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115008,
-      "num": 115008,
-      "word": "唐舞桐常服",
-      "onboard_time": 1756468944,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 114986,
@@ -95177,6 +95217,14 @@
       "onboard_time": 1755190758,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 43491,
+      "num": 131035,
+      "word": "山魈砸碎动物园玻璃游客被吓半死",
+      "onboard_time": 1756472486,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43480,
