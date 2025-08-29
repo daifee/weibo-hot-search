@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756439371077,
+  "endTime": 1756441855968,
   "band_list": [
     {
       "raw_hot": 1872250,
@@ -35,11 +35,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1257355,
+      "num": 1257355,
+      "word": "两女子花3万请24位陪爬登顶泰山",
+      "onboard_time": 1756437201,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1196163,
       "num": 270455,
       "word": "虞书欣父亲称老潘财商抹黑",
       "onboard_time": 1756396341,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1121232,
+      "num": 301977,
+      "word": "何晟铭 再见了白月光",
+      "onboard_time": 1756440203,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1099171,
+      "num": 300960,
+      "word": "刘美含 15年10个字52分钟",
+      "onboard_time": 1756440862,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -51,12 +75,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 798284,
-      "num": 798284,
-      "word": "两女子花3万请24位陪爬登顶泰山",
-      "onboard_time": 1756437201,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 940357,
+      "num": 299150,
+      "word": "性单恋",
+      "onboard_time": 1756439662,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 788579,
@@ -83,7 +107,7 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 662176,
+      "raw_hot": 702777,
       "num": 318444,
       "word": "虞书欣何与七夕海报",
       "onboard_time": 1756436121,
@@ -139,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 518874,
+      "num": 518874,
+      "word": "中国必将统一的大势不可阻挡",
+      "onboard_time": 1756437201,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 506814,
       "num": 290476,
       "word": "七夕红包",
@@ -179,12 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391641,
-      "num": 391641,
-      "word": "中国必将统一的大势不可阻挡",
-      "onboard_time": 1756437201,
-      "rank": 41,
-      "category": "国内时政"
+      "raw_hot": 430276,
+      "num": 430276,
+      "word": "王牌9家宴发布会直播",
+      "onboard_time": 1756440442,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 411552,
+      "num": 304125,
+      "word": "蔡明 不跟前辈打个招呼请个安吗",
+      "onboard_time": 1756435341,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 388578,
@@ -203,20 +243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 380952,
-      "num": 304125,
-      "word": "蔡明 不跟前辈打个招呼请个安吗",
-      "onboard_time": 1756435341,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 374265,
       "num": 374265,
       "word": "法院公告虞书欣父亲借贷纠纷起诉状",
       "onboard_time": 1756379902,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361270,
+      "num": 361270,
+      "word": "表妹万福",
+      "onboard_time": 1756435281,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 355733,
@@ -235,11 +275,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 327706,
-      "num": 284620,
-      "word": "表妹万福",
-      "onboard_time": 1756435281,
-      "rank": 30,
+      "raw_hot": 323948,
+      "num": 323948,
+      "word": "迪丽热巴陈飞宇雨中撑伞海报",
+      "onboard_time": 1756437502,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -249,6 +289,14 @@
       "onboard_time": 1756435460,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314108,
+      "num": 290248,
+      "word": "金莎孙丞潇七夕聊天记录",
+      "onboard_time": 1756441044,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 313625,
@@ -264,6 +312,14 @@
       "word": "保时捷女车主停车一车占两位",
       "onboard_time": 1756424122,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305741,
+      "num": 305741,
+      "word": "男子遭落石身亡近四个月不敢安葬",
+      "onboard_time": 1756440923,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -329,6 +385,14 @@
       "onboard_time": 1756381283,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280661,
+      "num": 280661,
+      "word": "九三阅兵临近日本为何急了",
+      "onboard_time": 1756439903,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 269013,
@@ -451,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210470,
+      "num": 210470,
+      "word": "陈都灵邓为 死去的cp复活了",
+      "onboard_time": 1756441583,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209527,
       "num": 223765,
       "word": "李一桐说戚薇油到土耳其了",
@@ -491,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205455,
-      "num": 207044,
-      "word": "迪丽热巴陈飞宇雨中撑伞海报",
-      "onboard_time": 1756437502,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203693,
       "num": 203693,
       "word": "刘轩丞 欧诗漫",
@@ -515,6 +579,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 203424,
+      "num": 203424,
+      "word": "苏有朋 我卖艺不卖身",
+      "onboard_time": 1756439964,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200899,
       "num": 200899,
       "word": "土耳其一新郎被婶婶鸣枪庆祝误杀",
@@ -529,6 +601,14 @@
       "onboard_time": 1756426162,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 199802,
+      "num": 199802,
+      "word": "山东魏桥1比0上海地产",
+      "onboard_time": 1756441464,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 197051,
@@ -553,6 +633,30 @@
       "onboard_time": 1756432762,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194292,
+      "num": 194292,
+      "word": "张凌赫田曦薇拍立得",
+      "onboard_time": 1756441643,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194246,
+      "num": 194246,
+      "word": "丁禹兮邓恩熙花开锦绣七夕撒糖",
+      "onboard_time": 1756441343,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193227,
+      "num": 193227,
+      "word": "枭起青壤",
+      "onboard_time": 1756441583,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 190883,
@@ -635,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172935,
+      "num": 172935,
+      "word": "微博奇遇记阵容官宣",
+      "onboard_time": 1756441343,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172063,
       "num": 172063,
       "word": "张镇麟加盟上海男篮",
@@ -651,12 +763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168809,
+      "num": 168809,
+      "word": "王楚钦3比0孙正",
+      "onboard_time": 1756441763,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163889,
       "num": 163889,
       "word": "怎么一眼看出谁在洗钱",
       "onboard_time": 1756431322,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163356,
+      "num": 163356,
+      "word": "王栎鑫你惹李承铉干啥",
+      "onboard_time": 1756440802,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 158646,
@@ -673,6 +801,14 @@
       "onboard_time": 1756434982,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156555,
+      "num": 156555,
+      "word": "梁靖崑林昀儒3比0赵子豪赵钊彦",
+      "onboard_time": 1756440502,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 155177,
@@ -747,12 +883,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143114,
+      "num": 281541,
+      "word": "哪吒2拉布布等文化产品风靡世界",
+      "onboard_time": 1756440562,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138598,
       "num": 138598,
       "word": "百花杀",
       "onboard_time": 1756433782,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138275,
+      "num": 145460,
+      "word": "霉霉宣布订婚后首次露面",
+      "onboard_time": 1756440562,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137897,
+      "num": 150830,
+      "word": "唐德智涉嫌严重违纪违法",
+      "onboard_time": 1756440142,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136877,
@@ -1003,6 +1163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94361,
+      "num": 193659,
+      "word": "阅兵方队训练中能力一步步升级",
+      "onboard_time": 1756441822,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94265,
       "num": 94265,
       "word": "寒武纪跌近7%",
@@ -1139,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73675,
+      "num": 169493,
+      "word": "这哪是死神来了分明是爱神来了",
+      "onboard_time": 1756441763,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71503,
       "num": 71503,
       "word": "关晓彤霸腾女",
@@ -1211,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64907,
+      "num": 199896,
+      "word": "教体局局长被查前两月还在强调廉洁",
+      "onboard_time": 1756440142,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64548,
       "num": 64548,
       "word": "刘浩存东北i人的含金量",
@@ -1241,6 +1425,14 @@
       "onboard_time": 1756397962,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 62801,
+      "num": 286805,
+      "word": "国补式浪漫经济学",
+      "onboard_time": 1756440323,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62726,
@@ -1281,6 +1473,22 @@
       "onboard_time": 1756390226,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 60289,
+      "num": 195486,
+      "word": "新一代智己LS6小订近5万台",
+      "onboard_time": 1756441643,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 59797,
+      "num": 153579,
+      "word": "私厨上门做饭最高月入4万",
+      "onboard_time": 1756440142,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59023,
@@ -1395,12 +1603,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39581,
+      "num": 200221,
+      "word": "你心中的理想伴侣",
+      "onboard_time": 1756440323,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38671,
       "num": 45733,
       "word": "泡泡玛特客服回应小程序卡顿",
       "onboard_time": 1756401018,
       "rank": 45,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 37935,
+      "num": 286026,
+      "word": "德克士饮品杯身插画被指抄袭",
+      "onboard_time": 1756440142,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37911,
+      "num": 291109,
+      "word": "极氪9X座舱满级豪华突破想象",
+      "onboard_time": 1756440323,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 37888,
