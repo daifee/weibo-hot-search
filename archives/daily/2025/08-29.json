@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756463259840,
+  "endTime": 1756464178923,
   "band_list": [
     {
       "raw_hot": 3816701,
@@ -139,20 +139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 870037,
+      "num": 254323,
+      "word": "虞书欣家人相关事件应成立调查组",
+      "onboard_time": 1756460362,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 855813,
       "num": 1136930,
       "word": "原房主跳楼身亡房子1457000元拍出",
       "onboard_time": 1756457002,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 838116,
-      "num": 254323,
-      "word": "虞书欣家人相关事件应成立调查组",
-      "onboard_time": 1756460362,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 788579,
@@ -169,6 +169,14 @@
       "onboard_time": 1756393403,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 710528,
+      "num": 710528,
+      "word": "建议大家要少发朋友圈",
+      "onboard_time": 1756462162,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 706079,
@@ -539,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 316083,
-      "num": 316083,
-      "word": "建议大家要少发朋友圈",
-      "onboard_time": 1756462162,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 313625,
       "num": 313625,
       "word": "特朗普下令全国哀悼",
@@ -595,12 +595,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 298485,
+      "num": 223680,
+      "word": "彭昱畅第一章回国",
+      "onboard_time": 1756462762,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298339,
       "num": 298339,
       "word": "2人多次在我军事敏感区飞无人机",
       "onboard_time": 1756424179,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 297224,
+      "num": 297224,
+      "word": "花少火到考公圈了",
+      "onboard_time": 1756460722,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 296889,
@@ -632,6 +648,14 @@
       "word": "承认吧演员多读书有用",
       "onboard_time": 1756381283,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 283256,
+      "num": 217346,
+      "word": "宋亚轩高会",
+      "onboard_time": 1756463002,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -691,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254024,
+      "num": 254024,
+      "word": "苏有朋道歉",
+      "onboard_time": 1756463422,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251532,
       "num": 251532,
       "word": "中方回应有国家不愿出席九三阅兵",
@@ -721,14 +753,6 @@
       "onboard_time": 1756386684,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 242511,
-      "num": 242511,
-      "word": "花少火到考公圈了",
-      "onboard_time": 1756460722,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 240465,
@@ -1027,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194033,
-      "num": 194033,
-      "word": "彭昱畅第一章回国",
-      "onboard_time": 1756462762,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192031,
       "num": 169028,
       "word": "九尾七夕手持红玫瑰",
@@ -1211,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172987,
+      "num": 172987,
+      "word": "陈奕恒和妈妈牵手走机场",
+      "onboard_time": 1756461082,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172935,
       "num": 172935,
       "word": "微博奇遇记阵容官宣",
@@ -1267,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167258,
-      "num": 167258,
-      "word": "宋亚轩高会",
-      "onboard_time": 1756463002,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166418,
       "num": 166418,
       "word": "费内巴切官宣穆里尼奥下课",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1756440802,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162870,
-      "num": 162870,
-      "word": "陈奕恒和妈妈牵手走机场",
-      "onboard_time": 1756461082,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 160756,
@@ -1393,6 +1401,30 @@
       "onboard_time": 1756431861,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153054,
+      "num": 165668,
+      "word": "周翊然王影璐对视把对方看害羞了",
+      "onboard_time": 1756463242,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152784,
+      "num": 165381,
+      "word": "丞磊插哪插哪肯插哪",
+      "onboard_time": 1756463663,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152012,
+      "num": 152012,
+      "word": "心动的信号",
+      "onboard_time": 1756462042,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 151803,
@@ -1731,14 +1763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129335,
-      "num": 129335,
-      "word": "心动的信号",
-      "onboard_time": 1756462042,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128771,
       "num": 128771,
       "word": "张晚意真不愧是那英带出来的兵",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1756435161,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127814,
+      "num": 127814,
+      "word": "拉宏桑中国boy否认恋情",
+      "onboard_time": 1756463362,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 127797,
@@ -2187,6 +2219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110459,
+      "num": 110459,
+      "word": "能不能别惹王子文她有按钮",
+      "onboard_time": 1756463962,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110281,
       "num": 110281,
       "word": "能比过欧豪的只有早期欧豪",
@@ -2225,14 +2265,6 @@
       "onboard_time": 1756448061,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108928,
-      "num": 108928,
-      "word": "周翊然王影璐对视把对方看害羞了",
-      "onboard_time": 1756463242,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 108723,
@@ -2291,12 +2323,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 107418,
+      "num": 107418,
+      "word": "我叫小北斗",
+      "onboard_time": 1756463722,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 107415,
       "num": 107415,
       "word": "马龙笑称自己是008",
       "onboard_time": 1756452263,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107290,
+      "num": 107290,
+      "word": "快乐老咖我输了我又输了",
+      "onboard_time": 1756463722,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 107240,
@@ -2337,6 +2385,14 @@
       "onboard_time": 1756450942,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106466,
+      "num": 106466,
+      "word": "猫 还要我再演示一遍吗",
+      "onboard_time": 1756463242,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 106324,
@@ -2435,14 +2491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103553,
-      "num": 103553,
-      "word": "猫 还要我再演示一遍吗",
-      "onboard_time": 1756463242,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102781,
       "num": 102781,
       "word": "千万不要盯自己的自拍太久",
@@ -2467,12 +2515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99407,
+      "num": 99407,
+      "word": "石宇奇vs翁泓阳",
+      "onboard_time": 1756464083,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98986,
       "num": 98986,
       "word": "无可替代",
       "onboard_time": 1756431861,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98768,
+      "num": 98768,
+      "word": "原来瘦了真的会被区别对待",
+      "onboard_time": 1756464142,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 98507,
@@ -2556,7 +2620,7 @@
     },
     {
       "raw_hot": 91139,
-      "num": 162895,
+      "num": 165208,
       "word": "MG4定价6.58万车展杀疯",
       "onboard_time": 1756460904,
       "rank": 27,
@@ -2769,6 +2833,14 @@
       "onboard_time": 1756397602,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70992,
+      "num": 208504,
+      "word": "MG4半固态电池9.98万绝杀",
+      "onboard_time": 1756462822,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 70804,
@@ -3043,6 +3115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50723,
+      "num": 250091,
+      "word": "原屋主跳楼身亡的法拍房二拍落槌",
+      "onboard_time": 1756463483,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50683,
       "num": 158695,
       "word": "陈小春喊话芒果把宿舍的墙拆了",
@@ -3067,20 +3147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49102,
+      "num": 210105,
+      "word": "初瑞雪正式接棒辛选",
+      "onboard_time": 1756463303,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 48356,
       "num": 56758,
       "word": "土耳其婚礼亲属鸣枪庆祝误射中新郎",
       "onboard_time": 1756423099,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 45685,
-      "num": 196538,
-      "word": "MG4半固态电池9.98万绝杀",
-      "onboard_time": 1756462822,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 44724,
@@ -3095,6 +3175,14 @@
       "num": 186880,
       "word": "名校生涌入西部县城考公上岸",
       "onboard_time": 1756439182,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44427,
+      "num": 110768,
+      "word": "见手青切3刀炒16秒",
+      "onboard_time": 1756463542,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -3268,7 +3356,7 @@
     },
     {
       "raw_hot": 32442,
-      "num": 102905,
+      "num": 113045,
       "word": "贾冰新代言跟今麦郎董事长当面谈",
       "onboard_time": 1756461142,
       "rank": 49,
@@ -3323,7 +3411,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24885,
+      "raw_hot": 25787,
       "num": 118630,
       "word": "袁弘张歆艺的理想生活",
       "onboard_time": 1756462162,

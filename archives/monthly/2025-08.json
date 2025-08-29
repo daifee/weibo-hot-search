@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756463259840,
+  "endTime": 1756464178923,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -6387,6 +6387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 870037,
+      "num": 254323,
+      "word": "虞书欣家人相关事件应成立调查组",
+      "onboard_time": 1756460362,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869698,
       "num": 869698,
       "word": "歌手不标原唱",
@@ -6809,14 +6817,6 @@
       "onboard_time": 1754301383,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 838116,
-      "num": 254323,
-      "word": "虞书欣家人相关事件应成立调查组",
-      "onboard_time": 1756460362,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 837404,
@@ -8873,6 +8873,14 @@
       "onboard_time": 1755061582,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 710528,
+      "num": 710528,
+      "word": "建议大家要少发朋友圈",
+      "onboard_time": 1756462162,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 709915,
@@ -22187,14 +22195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 316083,
-      "num": 316083,
-      "word": "建议大家要少发朋友圈",
-      "onboard_time": 1756462162,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 315958,
       "num": 315958,
       "word": "时代少年团赢了jiuzhe战队",
@@ -23243,6 +23243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298485,
+      "num": 223680,
+      "word": "彭昱畅第一章回国",
+      "onboard_time": 1756462762,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298339,
       "num": 298339,
       "word": "女子参加水上闯关被木头插入腿内",
@@ -23313,6 +23321,14 @@
       "onboard_time": 1754827401,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297224,
+      "num": 297224,
+      "word": "花少火到考公圈了",
+      "onboard_time": 1756460722,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 297098,
@@ -24273,6 +24289,14 @@
       "onboard_time": 1755081682,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283256,
+      "num": 217346,
+      "word": "宋亚轩高会",
+      "onboard_time": 1756463002,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 283217,
@@ -26587,6 +26611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254024,
+      "num": 254024,
+      "word": "苏有朋道歉",
+      "onboard_time": 1756463422,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254020,
       "num": 254020,
       "word": "中美斯德哥尔摩经贸会谈联合声明",
@@ -27649,14 +27681,6 @@
       "onboard_time": 1755832286,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 242511,
-      "num": 242511,
-      "word": "花少火到考公圈了",
-      "onboard_time": 1756460722,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 242382,
@@ -36875,14 +36899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194033,
-      "num": 194033,
-      "word": "彭昱畅第一章回国",
-      "onboard_time": 1756462762,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194032,
       "num": 194032,
       "word": "PEL",
@@ -43739,6 +43755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172987,
+      "num": 172987,
+      "word": "陈奕恒和妈妈牵手走机场",
+      "onboard_time": 1756461082,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172976,
       "num": 172976,
       "word": "其实很多癌症是省出来的",
@@ -45699,14 +45723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167258,
-      "num": 167258,
-      "word": "宋亚轩高会",
-      "onboard_time": 1756463002,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167256,
       "num": 167256,
       "word": "罗小黑",
@@ -47289,14 +47305,6 @@
       "onboard_time": 1754978543,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162870,
-      "num": 162870,
-      "word": "陈奕恒和妈妈牵手走机场",
-      "onboard_time": 1756461082,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 162868,
@@ -51611,6 +51619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153054,
+      "num": 165668,
+      "word": "周翊然王影璐对视把对方看害羞了",
+      "onboard_time": 1756463242,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153047,
       "num": 153047,
       "word": "女子求职要求双休遭言语侮辱",
@@ -51737,6 +51753,14 @@
       "onboard_time": 1753985236,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152784,
+      "num": 165381,
+      "word": "丞磊插哪插哪肯插哪",
+      "onboard_time": 1756463663,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 152764,
@@ -65155,6 +65179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127814,
+      "num": 127814,
+      "word": "拉宏桑中国boy否认恋情",
+      "onboard_time": 1756463362,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127813,
       "num": 140682,
       "word": "特朗普誓言夺回首都",
@@ -75187,6 +75219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110459,
+      "num": 110459,
+      "word": "能不能别惹王子文她有按钮",
+      "onboard_time": 1756463962,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110444,
       "num": 110444,
       "word": "苏新皓张泽禹年轻的肢体就是好用",
@@ -76059,14 +76099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108928,
-      "num": 108928,
-      "word": "周翊然王影璐对视把对方看害羞了",
-      "onboard_time": 1756463242,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108905,
       "num": 108905,
       "word": "此沙黑西装是daddy级别的",
@@ -76819,6 +76851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107418,
+      "num": 107418,
+      "word": "我叫小北斗",
+      "onboard_time": 1756463722,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 107416,
       "num": 310304,
       "word": "阅兵集训点",
@@ -76889,6 +76929,14 @@
       "onboard_time": 1755215659,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107290,
+      "num": 107290,
+      "word": "快乐老咖我输了我又输了",
+      "onboard_time": 1756463722,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 107273,
@@ -77321,6 +77369,14 @@
       "onboard_time": 1754904562,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106466,
+      "num": 106466,
+      "word": "猫 还要我再演示一遍吗",
+      "onboard_time": 1756463242,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 106452,
@@ -78857,14 +78913,6 @@
       "onboard_time": 1755268284,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 103553,
-      "num": 103553,
-      "word": "猫 还要我再演示一遍吗",
-      "onboard_time": 1756463242,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 103535,
@@ -80651,6 +80699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99407,
+      "num": 99407,
+      "word": "石宇奇vs翁泓阳",
+      "onboard_time": 1756464083,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99383,
       "num": 99383,
       "word": "花少导演说这季都是情绪稳定的",
@@ -80977,6 +81033,14 @@
       "onboard_time": 1755014242,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98768,
+      "num": 98768,
+      "word": "原来瘦了真的会被区别对待",
+      "onboard_time": 1756464142,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 98762,
@@ -83948,7 +84012,7 @@
     },
     {
       "raw_hot": 91139,
-      "num": 162895,
+      "num": 165208,
       "word": "MG4定价6.58万车展杀疯",
       "onboard_time": 1756460904,
       "rank": 27,
@@ -88579,6 +88643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70992,
+      "num": 208504,
+      "word": "MG4半固态电池9.98万绝杀",
+      "onboard_time": 1756462822,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70971,
       "num": 117647,
       "word": "猪价跌入6元时代",
@@ -92971,6 +93043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50723,
+      "num": 250091,
+      "word": "原屋主跳楼身亡的法拍房二拍落槌",
+      "onboard_time": 1756463483,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50719,
       "num": 111701,
       "word": "北京网友拍到黑影御剑飞行",
@@ -93329,6 +93409,14 @@
       "onboard_time": 1755839664,
       "rank": 39,
       "category": "体育,其它"
+    },
+    {
+      "raw_hot": 49102,
+      "num": 210105,
+      "word": "初瑞雪正式接棒辛选",
+      "onboard_time": 1756463303,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 49097,
@@ -94139,14 +94227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45685,
-      "num": 196538,
-      "word": "MG4半固态电池9.98万绝杀",
-      "onboard_time": 1756462822,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 45665,
       "num": 260574,
       "word": "智搜教你暴雨这样避险",
@@ -94489,6 +94569,14 @@
       "onboard_time": 1755339562,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44427,
+      "num": 110768,
+      "word": "见手青切3刀炒16秒",
+      "onboard_time": 1756463542,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44413,
@@ -97572,7 +97660,7 @@
     },
     {
       "raw_hot": 32442,
-      "num": 102905,
+      "num": 113045,
       "word": "贾冰新代言跟今麦郎董事长当面谈",
       "onboard_time": 1756461142,
       "rank": 49,
@@ -99139,6 +99227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25787,
+      "num": 118630,
+      "word": "袁弘张歆艺的理想生活",
+      "onboard_time": 1756462162,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25753,
       "num": 132790,
       "word": "家人回应金子涵剃寸头",
@@ -99401,14 +99497,6 @@
       "onboard_time": 1755026055,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24885,
-      "num": 118630,
-      "word": "袁弘张歆艺的理想生活",
-      "onboard_time": 1756462162,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 24867,

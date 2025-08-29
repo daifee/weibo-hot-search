@@ -1,0 +1,410 @@
+{
+  "runTime": 1756464178923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 755198,
+        "num": 1120831,
+        "word": "原房主跳楼身亡房子1457000元拍出",
+        "onboard_time": 1756457002,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 710528,
+        "num": 710528,
+        "word": "建议大家要少发朋友圈",
+        "onboard_time": 1756462162,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10577,
+        "num": 580112,
+        "word": "从中国倡议扩大为国际共识",
+        "onboard_time": 1756435281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 507178,
+        "num": 507178,
+        "word": "终于有人吐槽内娱高奢花式title",
+        "onboard_time": 1756454422,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375853,
+        "num": 375853,
+        "word": "美团将全面取消骑手超时罚款",
+        "onboard_time": 1756443503,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304776,
+        "num": 304776,
+        "word": "40天婴儿肝硬化00后父亲割肝救女",
+        "onboard_time": 1756457242,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304730,
+        "num": 304730,
+        "word": "泰国总理佩通坦遭解职",
+        "onboard_time": 1756458083,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297224,
+        "num": 297224,
+        "word": "花少火到考公圈了",
+        "onboard_time": 1756460722,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254024,
+        "num": 254024,
+        "word": "苏有朋道歉",
+        "onboard_time": 1756463422,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50723,
+        "num": 250091,
+        "word": "原屋主跳楼身亡的法拍房二拍落槌",
+        "onboard_time": 1756463483,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1836144,
+        "num": 244690,
+        "word": "刘美含 张远",
+        "onboard_time": 1756446023,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471299,
+        "num": 237879,
+        "word": "辛巴宣布退网后直播连麦带货",
+        "onboard_time": 1756457543,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 332990,
+        "num": 232544,
+        "word": "用了一年九个月还清了24万负债",
+        "onboard_time": 1756459162,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298485,
+        "num": 223680,
+        "word": "彭昱畅第一章回国",
+        "onboard_time": 1756462762,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283256,
+        "num": 217346,
+        "word": "宋亚轩高会",
+        "onboard_time": 1756463002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216145,
+        "num": 216145,
+        "word": "多方回应胖东来免费筷子无标签被起诉",
+        "onboard_time": 1756451843,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177267,
+        "num": 214257,
+        "word": "田曦薇粉色玛丽猫",
+        "onboard_time": 1756458442,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870037,
+        "num": 213100,
+        "word": "虞书欣家人相关事件应成立调查组",
+        "onboard_time": 1756460362,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49102,
+        "num": 210105,
+        "word": "初瑞雪正式接棒辛选",
+        "onboard_time": 1756463303,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70992,
+        "num": 208504,
+        "word": "MG4半固态电池9.98万绝杀",
+        "onboard_time": 1756462822,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 807415,
+        "num": 206960,
+        "word": "刘美含 15年10个字52分钟",
+        "onboard_time": 1756440862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204881,
+        "num": 204881,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1756457842,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172987,
+        "num": 172987,
+        "word": "陈奕恒和妈妈牵手走机场",
+        "onboard_time": 1756461082,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169860,
+        "num": 169860,
+        "word": "小蝶退役",
+        "onboard_time": 1756452982,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166106,
+        "num": 166106,
+        "word": "王楚然美貌不基础打游戏更不基础",
+        "onboard_time": 1756458802,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155244,
+        "num": 166015,
+        "word": "一念江南",
+        "onboard_time": 1756452923,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153054,
+        "num": 165668,
+        "word": "周翊然王影璐对视把对方看害羞了",
+        "onboard_time": 1756463242,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152784,
+        "num": 165381,
+        "word": "丞磊插哪插哪肯插哪",
+        "onboard_time": 1756463663,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68322,
+        "num": 165208,
+        "word": "MG4定价6.58万车展杀疯",
+        "onboard_time": 1756460904,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119524,
+        "num": 164850,
+        "word": "法国上万未成年少女从事色情行业",
+        "onboard_time": 1756457783,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164614,
+        "num": 164614,
+        "word": "建议大家上班一定要打扮自己",
+        "onboard_time": 1756461742,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152012,
+        "num": 152012,
+        "word": "心动的信号",
+        "onboard_time": 1756462042,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145002,
+        "num": 145002,
+        "word": "七夕",
+        "onboard_time": 1756400179,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1143423,
+        "num": 140566,
+        "word": "老潘财商发声明",
+        "onboard_time": 1756456702,
+        "rank": 33,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 127814,
+        "num": 127814,
+        "word": "拉宏桑中国boy否认恋情",
+        "onboard_time": 1756463362,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122280,
+        "num": 122280,
+        "word": "宋浩然 赘婿不是人吗",
+        "onboard_time": 1756454122,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115695,
+        "num": 115695,
+        "word": "谁将接替佩通坦",
+        "onboard_time": 1756463122,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22878,
+        "num": 113045,
+        "word": "贾冰新代言跟今麦郎董事长当面谈",
+        "onboard_time": 1756461142,
+        "rank": 37,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 44427,
+        "num": 110768,
+        "word": "见手青切3刀炒16秒",
+        "onboard_time": 1756463542,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25787,
+        "num": 110752,
+        "word": "袁弘张歆艺的理想生活",
+        "onboard_time": 1756462162,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110752,
+        "num": 110751,
+        "word": "李兰迪 喀什的风教我跳了一支舞",
+        "onboard_time": 1756453882,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110459,
+        "num": 110459,
+        "word": "能不能别惹王子文她有按钮",
+        "onboard_time": 1756463962,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107859,
+        "num": 107859,
+        "word": "aespa三巡",
+        "onboard_time": 1756461323,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107418,
+        "num": 107418,
+        "word": "我叫小北斗",
+        "onboard_time": 1756463722,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 107290,
+        "num": 107290,
+        "word": "快乐老咖我输了我又输了",
+        "onboard_time": 1756463722,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534990,
+        "num": 107065,
+        "word": "伊利回应虞书欣代言",
+        "onboard_time": 1756455802,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106466,
+        "num": 106466,
+        "word": "猫 还要我再演示一遍吗",
+        "onboard_time": 1756463242,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105983,
+        "num": 105983,
+        "word": "万斯称若特朗普遇不测已准备好接班",
+        "onboard_time": 1756456882,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99407,
+        "num": 99407,
+        "word": "石宇奇vs翁泓阳",
+        "onboard_time": 1756464083,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98768,
+        "num": 98768,
+        "word": "原来瘦了真的会被区别对待",
+        "onboard_time": 1756464142,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把爱国爱家统一起来#"
+    }
+  }
+}
