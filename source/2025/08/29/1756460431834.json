@@ -1,0 +1,410 @@
+{
+  "runTime": 1756460431834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 996312,
+        "num": 1159409,
+        "word": "终于有人吐槽内娱高奢花式title",
+        "onboard_time": 1756454422,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623340,
+        "num": 623340,
+        "word": "美团将全面取消骑手超时罚款",
+        "onboard_time": 1756443503,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11373,
+        "num": 623052,
+        "word": "从中国倡议扩大为国际共识",
+        "onboard_time": 1756435281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 622971,
+        "num": 622971,
+        "word": "原房主跳楼身亡房子1457000元拍出",
+        "onboard_time": 1756457002,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581576,
+        "num": 581576,
+        "word": "泰国总理佩通坦遭解职",
+        "onboard_time": 1756458083,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 530588,
+        "num": 530588,
+        "word": "40天婴儿肝硬化00后父亲割肝救女",
+        "onboard_time": 1756457242,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496124,
+        "num": 496124,
+        "word": "一念江南",
+        "onboard_time": 1756452923,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363282,
+        "num": 363282,
+        "word": "多方回应胖东来免费筷子无标签被起诉",
+        "onboard_time": 1756451843,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288627,
+        "num": 288627,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1756457842,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101580,
+        "num": 283471,
+        "word": "外交部回应美在日本部署中导系统",
+        "onboard_time": 1756458861,
+        "rank": 9,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 2069174,
+        "num": 273193,
+        "word": "刘美含 15年10个字52分钟",
+        "onboard_time": 1756440862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1288129,
+        "num": 256115,
+        "word": "老潘财商发声明",
+        "onboard_time": 1756456702,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 840756,
+        "num": 245216,
+        "word": "伊利回应虞书欣代言",
+        "onboard_time": 1756455802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338650,
+        "num": 234486,
+        "word": "宋浩然 赘婿不是人吗",
+        "onboard_time": 1756454122,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232581,
+        "num": 232581,
+        "word": "辛巴宣布退网后直播连麦带货",
+        "onboard_time": 1756457543,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1845609,
+        "num": 228714,
+        "word": "刘美含 张远",
+        "onboard_time": 1756446023,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223110,
+        "num": 223110,
+        "word": "小蝶退役",
+        "onboard_time": 1756452982,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221138,
+        "num": 221138,
+        "word": "虞书欣家人相关事件应成立调查组",
+        "onboard_time": 1756460362,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195386,
+        "num": 216722,
+        "word": "田曦薇粉色玛丽猫",
+        "onboard_time": 1756458442,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158240,
+        "num": 216218,
+        "word": "苏醒回应披哥摆烂",
+        "onboard_time": 1756456222,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216089,
+        "num": 216089,
+        "word": "用了一年九个月还清了24万负债",
+        "onboard_time": 1756459162,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212897,
+        "num": 212897,
+        "word": "什么样的泡面才是最好吃的",
+        "onboard_time": 1756452623,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155869,
+        "num": 209845,
+        "word": "法国上万未成年少女从事色情行业",
+        "onboard_time": 1756457783,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146730,
+        "num": 192239,
+        "word": "王楚然美貌不基础打游戏更不基础",
+        "onboard_time": 1756458802,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128819,
+        "num": 183178,
+        "word": "金莎孙丞潇七夕聊天记录",
+        "onboard_time": 1756441044,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127088,
+        "num": 176342,
+        "word": "学霸小孩输在知道得太多",
+        "onboard_time": 1756458623,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165230,
+        "num": 165230,
+        "word": "万斯称若特朗普遇不测已准备好接班",
+        "onboard_time": 1756456882,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111388,
+        "num": 164337,
+        "word": "少林寺换住持满一月不再推荐高价香",
+        "onboard_time": 1756459942,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95027,
+        "num": 164289,
+        "word": "保剑锋点外卖都写司马焦",
+        "onboard_time": 1756458264,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164259,
+        "num": 164259,
+        "word": "P人过七夕",
+        "onboard_time": 1756459942,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203676,
+        "num": 163584,
+        "word": "华为上半年净利润达371亿",
+        "onboard_time": 1756459882,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160756,
+        "num": 160756,
+        "word": "华为上半年收入4270亿",
+        "onboard_time": 1756459162,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151037,
+        "num": 159841,
+        "word": "九尾七夕手持红玫瑰",
+        "onboard_time": 1756459103,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159366,
+        "num": 159366,
+        "word": "七夕",
+        "onboard_time": 1756400179,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139363,
+        "num": 139363,
+        "word": "始祖鸟4位数徒步鞋不到一周就开胶",
+        "onboard_time": 1756458083,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122031,
+        "num": 122031,
+        "word": "普通家庭对女儿最好的托举",
+        "onboard_time": 1756459404,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120566,
+        "num": 120566,
+        "word": "男艺人选秀0镜头回内娱档期爆满",
+        "onboard_time": 1756459584,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101473,
+        "num": 120406,
+        "word": "王楚钦 谁说的XXL",
+        "onboard_time": 1756459882,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72934,
+        "num": 120261,
+        "word": "外卖备注最后一餐吓得老板让民警送",
+        "onboard_time": 1756459463,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27125,
+        "num": 120247,
+        "word": "1.4亿元采购学生运动手环",
+        "onboard_time": 1756460302,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120247,
+        "num": 120246,
+        "word": "那英 国际走读生已上线",
+        "onboard_time": 1756459825,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118116,
+        "num": 118116,
+        "word": "存款到100万是什么感觉",
+        "onboard_time": 1756460123,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115460,
+        "num": 115460,
+        "word": "高群书透露小演员家里特别有钱",
+        "onboard_time": 1756459882,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109667,
+        "num": 109667,
+        "word": "宋丹丹和林永健儿子一起庆生",
+        "onboard_time": 1756449442,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105347,
+        "num": 105347,
+        "word": "关晓彤王牌对王牌造型",
+        "onboard_time": 1756457722,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105217,
+        "num": 105217,
+        "word": "爱迟到的朋友要这么约",
+        "onboard_time": 1756457002,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104884,
+        "num": 104884,
+        "word": "李兰迪 喀什的风教我跳了一支舞",
+        "onboard_time": 1756453882,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102729,
+        "num": 102729,
+        "word": "黑悟空取到印度真经了",
+        "onboard_time": 1756459342,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102197,
+        "num": 102197,
+        "word": "泡泡玛特店员也吐槽迷你Labubu贵",
+        "onboard_time": 1756455142,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 100504,
+        "num": 100504,
+        "word": "顾客起诉胖东来免费筷子无标签",
+        "onboard_time": 1756450042,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把爱国爱家统一起来#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756459635612,
+  "endTime": 1756460431834,
   "band_list": [
     {
       "raw_hot": 3816701,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1638607,
-      "num": 254620,
+      "num": 256115,
       "word": "老潘财商发声明",
       "onboard_time": 1756456702,
       "rank": 12,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581576,
+      "num": 581576,
+      "word": "泰国总理佩通坦遭解职",
+      "onboard_time": 1756458083,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 578296,
       "num": 578296,
       "word": "小蝶退役",
@@ -297,6 +305,14 @@
       "onboard_time": 1756398021,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 530588,
+      "num": 530588,
+      "word": "40天婴儿肝硬化00后父亲割肝救女",
+      "onboard_time": 1756457242,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 526485,
@@ -385,22 +401,6 @@
       "onboard_time": 1756443683,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 425221,
-      "num": 425221,
-      "word": "40天婴儿肝硬化00后父亲割肝救女",
-      "onboard_time": 1756457242,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 420964,
-      "num": 420964,
-      "word": "泰国总理佩通坦遭解职",
-      "onboard_time": 1756458083,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 411552,
@@ -731,6 +731,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232581,
+      "num": 232581,
+      "word": "辛巴宣布退网后直播连麦带货",
+      "onboard_time": 1756457543,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 221138,
+      "num": 221138,
+      "word": "虞书欣家人相关事件应成立调查组",
+      "onboard_time": 1756460362,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216089,
+      "num": 216089,
+      "word": "用了一年九个月还清了24万负债",
+      "onboard_time": 1756459162,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215780,
       "num": 215780,
       "word": "徐冬冬尹子维年内完婚",
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 206092,
-      "num": 128341,
+      "num": 209845,
       "word": "法国上万未成年少女从事色情行业",
       "onboard_time": 1756457783,
       "rank": 30,
@@ -833,14 +857,6 @@
       "onboard_time": 1756425860,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204274,
-      "num": 204274,
-      "word": "辛巴宣布退网后直播连麦带货",
-      "onboard_time": 1756457543,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 204207,
@@ -857,6 +873,14 @@
       "onboard_time": 1756431621,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203676,
+      "num": 163584,
+      "word": "华为上半年净利润达371亿",
+      "onboard_time": 1756459882,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 203668,
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 197369,
-      "num": 197369,
+      "num": 216218,
       "word": "苏醒回应披哥摆烂",
       "onboard_time": 1756456222,
       "rank": 25,
@@ -939,12 +963,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 195432,
-      "num": 127640,
-      "word": "用了一年九个月还清了24万负债",
-      "onboard_time": 1756459162,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 195386,
+      "num": 216722,
+      "word": "田曦薇粉色玛丽猫",
+      "onboard_time": 1756458442,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 195384,
@@ -1163,14 +1187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172805,
-      "num": 172805,
-      "word": "田曦薇粉色玛丽猫",
-      "onboard_time": 1756458442,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172063,
       "num": 172063,
       "word": "张镇麟加盟上海男篮",
@@ -1219,6 +1235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165230,
+      "num": 165230,
+      "word": "万斯称若特朗普遇不测已准备好接班",
+      "onboard_time": 1756456882,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 164259,
+      "num": 164259,
+      "word": "P人过七夕",
+      "onboard_time": 1756459942,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163889,
       "num": 163889,
       "word": "怎么一眼看出谁在洗钱",
@@ -1236,15 +1268,15 @@
     },
     {
       "raw_hot": 161534,
-      "num": 161534,
+      "num": 192239,
       "word": "王楚然美貌不基础打游戏更不基础",
       "onboard_time": 1756458802,
       "rank": 23,
       "category": "艺人"
     },
     {
-      "raw_hot": 159176,
-      "num": 159176,
+      "raw_hot": 160756,
+      "num": 160756,
       "word": "华为上半年收入4270亿",
       "onboard_time": 1756459162,
       "rank": 24,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1756455742,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153715,
-      "num": 153715,
-      "word": "万斯称若特朗普遇不测已准备好接班",
-      "onboard_time": 1756456882,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 153388,
@@ -1787,6 +1811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122031,
+      "num": 122031,
+      "word": "普通家庭对女儿最好的托举",
+      "onboard_time": 1756459404,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121801,
       "num": 121801,
       "word": "保时捷停车占两位反让旁边车主道歉",
@@ -1803,12 +1835,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120566,
+      "num": 120566,
+      "word": "男艺人选秀0镜头回内娱档期爆满",
+      "onboard_time": 1756459584,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120265,
       "num": 120265,
       "word": "泡泡玛特店员也吐槽迷你Labubu贵",
       "onboard_time": 1756455142,
       "rank": 33,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 120247,
+      "num": 120246,
+      "word": "那英 国际走读生已上线",
+      "onboard_time": 1756459825,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 120137,
@@ -1836,7 +1884,7 @@
     },
     {
       "raw_hot": 118950,
-      "num": 123210,
+      "num": 164289,
       "word": "保剑锋点外卖都写司马焦",
       "onboard_time": 1756458264,
       "rank": 32,
@@ -1865,6 +1913,14 @@
       "onboard_time": 1756459342,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118116,
+      "num": 118116,
+      "word": "存款到100万是什么感觉",
+      "onboard_time": 1756460123,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 117955,
@@ -1921,6 +1977,14 @@
       "onboard_time": 1756438462,
       "rank": 18,
       "category": "国内时政,休闲"
+    },
+    {
+      "raw_hot": 115460,
+      "num": 115460,
+      "word": "高群书透露小演员家里特别有钱",
+      "onboard_time": 1756459882,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 115376,
@@ -1996,19 +2060,19 @@
     },
     {
       "raw_hot": 112026,
-      "num": 112026,
+      "num": 283471,
       "word": "外交部回应美在日本部署中导系统",
       "onboard_time": 1756458861,
       "rank": 42,
       "category": "国际时政,国内时政"
     },
     {
-      "raw_hot": 110540,
-      "num": 110540,
-      "word": "普通家庭对女儿最好的托举",
-      "onboard_time": 1756459404,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 111388,
+      "num": 164337,
+      "word": "少林寺换住持满一月不再推荐高价香",
+      "onboard_time": 1756459942,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110281,
@@ -2251,20 +2315,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103071,
-      "num": 103071,
-      "word": "男艺人选秀0镜头回内娱档期爆满",
-      "onboard_time": 1756459584,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102781,
       "num": 102781,
       "word": "千万不要盯自己的自拍太久",
       "onboard_time": 1756457722,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101473,
+      "num": 120406,
+      "word": "王楚钦 谁说的XXL",
+      "onboard_time": 1756459882,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 101224,
@@ -2539,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72934,
+      "num": 120261,
+      "word": "外卖备注最后一餐吓得老板让民警送",
+      "onboard_time": 1756459463,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71503,
       "num": 71503,
       "word": "关晓彤霸腾女",
@@ -2801,14 +2873,6 @@
       "onboard_time": 1756449322,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53182,
-      "num": 116978,
-      "word": "外卖备注最后一餐吓得老板让民警送",
-      "onboard_time": 1756459463,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53074,
@@ -3080,6 +3144,14 @@
       "word": "落石砸车致死案一审未当庭宣判",
       "onboard_time": 1756458142,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27125,
+      "num": 120247,
+      "word": "1.4亿元采购学生运动手环",
+      "onboard_time": 1756460302,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
