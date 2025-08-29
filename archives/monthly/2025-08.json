@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756452300735,
+  "endTime": 1756453099453,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -10587,6 +10587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 627971,
+      "num": 627971,
+      "word": "宠物喂食器 泄露隐私",
+      "onboard_time": 1756447042,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 626769,
       "num": 626769,
       "word": "亚朵酒店被曝疑现别人用过的牙签",
@@ -10721,14 +10729,6 @@
       "onboard_time": 1754288961,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 622677,
-      "num": 622677,
-      "word": "宠物喂食器 泄露隐私",
-      "onboard_time": 1756447042,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 622576,
@@ -11329,6 +11329,14 @@
       "onboard_time": 1754803700,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 598760,
+      "num": 598760,
+      "word": "顾客起诉胖东来免费筷子无标签",
+      "onboard_time": 1756450042,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 598516,
@@ -13451,14 +13459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 524719,
-      "num": 524719,
-      "word": "顾客起诉胖东来免费筷子无标签",
-      "onboard_time": 1756450042,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 524100,
       "num": 524100,
       "word": "英国一航班因婴儿哭闹引发斗殴",
@@ -13480,6 +13480,14 @@
       "word": "赵露思穿鲨蜂服",
       "onboard_time": 1754608519,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 523707,
+      "num": 523707,
+      "word": "宋丹丹和林永健儿子一起庆生",
+      "onboard_time": 1756449442,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -14857,14 +14865,6 @@
       "onboard_time": 1754122882,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 478152,
-      "num": 478152,
-      "word": "宋丹丹和林永健儿子一起庆生",
-      "onboard_time": 1756449442,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 478106,
@@ -23355,6 +23355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295091,
+      "num": 295091,
+      "word": "宋轶御姐黑长直",
+      "onboard_time": 1756451063,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294865,
       "num": 294865,
       "word": "中央气象台连发了3个预警",
@@ -28715,6 +28723,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 231815,
+      "num": 246030,
+      "word": "多方回应胖东来免费筷子无标签被起诉",
+      "onboard_time": 1756451843,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231566,
       "num": 231566,
       "word": "因二胎儿子跟母姓父亲起诉离婚",
@@ -30433,14 +30449,6 @@
       "onboard_time": 1754829382,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217785,
-      "num": 217785,
-      "word": "宋轶御姐黑长直",
-      "onboard_time": 1756451063,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 217758,
@@ -33211,6 +33219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204207,
+      "num": 204207,
+      "word": "刘诗诗金九封面预告",
+      "onboard_time": 1756450942,
+      "rank": 20,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 204195,
       "num": 204194,
       "word": "丁程鑫D舞台",
@@ -33481,14 +33497,6 @@
       "onboard_time": 1755181285,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203191,
-      "num": 203191,
-      "word": "刘诗诗金九封面预告",
-      "onboard_time": 1756450942,
-      "rank": 20,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 203189,
@@ -36587,6 +36595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194325,
+      "num": 194325,
+      "word": "什么样的泡面才是最好吃的",
+      "onboard_time": 1756452623,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 194291,
       "num": 194291,
       "word": "吴磊好大一只",
@@ -37705,6 +37721,14 @@
       "onboard_time": 1756039163,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190817,
+      "num": 190817,
+      "word": "华晨宇 好久不见",
+      "onboard_time": 1756452202,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 190804,
@@ -41912,6 +41936,14 @@
       "word": "殷桃带妈妈和男友吃火锅",
       "onboard_time": 1755581483,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177639,
+      "num": 179512,
+      "word": "十个勤天 JMA华语影响力艺人",
+      "onboard_time": 1756451783,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -48219,14 +48251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160221,
-      "num": 179512,
-      "word": "十个勤天 JMA华语影响力艺人",
-      "onboard_time": 1756451783,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160210,
       "num": 160210,
       "word": "毕业后朋友圈都成了一片空白",
@@ -48449,14 +48473,6 @@
       "onboard_time": 1756035262,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159759,
-      "num": 246030,
-      "word": "多方回应胖东来免费筷子无标签被起诉",
-      "onboard_time": 1756451843,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159756,
@@ -52176,6 +52192,14 @@
       "word": "卢昱晓折月亮状态",
       "onboard_time": 1754279843,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151180,
+      "num": 151180,
+      "word": "一念江南",
+      "onboard_time": 1756452923,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -58291,6 +58315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138883,
+      "num": 138883,
+      "word": "张婧仪好圆一颗头",
+      "onboard_time": 1756451783,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138873,
       "num": 238351,
       "word": "梁靖崑vs拉森福斯",
@@ -59331,6 +59363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137244,
+      "num": 137244,
+      "word": "我七夕就送这个",
+      "onboard_time": 1756452202,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137242,
       "num": 137242,
       "word": "许凯田曦薇子夜归人咪情未了",
@@ -59777,6 +59817,14 @@
       "onboard_time": 1755009805,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136375,
+      "num": 136375,
+      "word": "九三阅兵训练大片根本看不够",
+      "onboard_time": 1756452501,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136367,
@@ -64643,14 +64691,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128072,
-      "num": 128072,
-      "word": "华晨宇 好久不见",
-      "onboard_time": 1756452202,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128067,
       "num": 128067,
       "word": "浓度演员 淡人肖战",
@@ -64809,6 +64849,14 @@
       "onboard_time": 1754813602,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127797,
+      "num": 127797,
+      "word": "秀恩爱的朋友圈越来越少了",
+      "onboard_time": 1756449082,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 127795,
@@ -65281,14 +65329,6 @@
       "onboard_time": 1755133461,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126973,
-      "num": 126973,
-      "word": "秀恩爱的朋友圈越来越少了",
-      "onboard_time": 1756449082,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 126970,
@@ -68099,6 +68139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122271,
+      "num": 122271,
+      "word": "寒武纪大跌超10%",
+      "onboard_time": 1756452623,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122263,
       "num": 122263,
       "word": "Faker瑞兹反应",
@@ -70779,14 +70827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117699,
-      "num": 117699,
-      "word": "张婧仪好圆一颗头",
-      "onboard_time": 1756451783,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117698,
       "num": 117698,
       "word": "意大利总理翻白眼",
@@ -71377,6 +71417,14 @@
       "onboard_time": 1754032042,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116529,
+      "num": 116529,
+      "word": "小蝶退役",
+      "onboard_time": 1756452982,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 116508,
@@ -72993,14 +73041,6 @@
       "onboard_time": 1754213543,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113481,
-      "num": 113481,
-      "word": "我七夕就送这个",
-      "onboard_time": 1756452202,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 113440,
@@ -75939,6 +75979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107984,
+      "num": 107984,
+      "word": "建议千万不要有嘴甜羞耻症",
+      "onboard_time": 1756452860,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107961,
       "num": 107961,
       "word": "特效师累了 让明星飞一会儿吧",
@@ -76299,6 +76347,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 107240,
+      "num": 107240,
+      "word": "虽然不能同时拥有一切 常华森",
+      "onboard_time": 1756452501,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107226,
       "num": 107226,
       "word": "蔡徐坤Jasmine跟健身更配",
@@ -76577,6 +76633,14 @@
       "onboard_time": 1756092323,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 106799,
+      "num": 106799,
+      "word": "张镇麟长文告别辽宁男篮",
+      "onboard_time": 1756452982,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 106774,
@@ -78009,6 +78073,14 @@
       "onboard_time": 1754719642,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104034,
+      "num": 104034,
+      "word": "崩坏因缘精灵首曝",
+      "onboard_time": 1756452743,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 103993,
@@ -92563,6 +92635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49242,
+      "num": 207456,
+      "word": "黄子弘凡的天选代言来了",
+      "onboard_time": 1756451183,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49192,
       "num": 171650,
       "word": "回乡创业1年卖4000万只老鼠",
@@ -94481,14 +94561,6 @@
       "onboard_time": 1755602486,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41359,
-      "num": 178159,
-      "word": "黄子弘凡的天选代言来了",
-      "onboard_time": 1756451183,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 41287,

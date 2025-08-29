@@ -1,0 +1,410 @@
+{
+  "runTime": 1756453099453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219893,
+        "num": 1219893,
+        "word": "美团将全面取消骑手超时罚款",
+        "onboard_time": 1756443503,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 627971,
+        "num": 627971,
+        "word": "宠物喂食器 泄露隐私",
+        "onboard_time": 1756447042,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18989,
+        "num": 608411,
+        "word": "九三纪念活动既是铭记历史更是开创未来",
+        "onboard_time": 1756397482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 598760,
+        "num": 598760,
+        "word": "顾客起诉胖东来免费筷子无标签",
+        "onboard_time": 1756450042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523707,
+        "num": 523707,
+        "word": "宋丹丹和林永健儿子一起庆生",
+        "onboard_time": 1756449442,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334792,
+        "num": 334792,
+        "word": "金莎孙丞潇七夕聊天记录",
+        "onboard_time": 1756441044,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320949,
+        "num": 320949,
+        "word": "两女子花3万请24位陪爬登顶泰山",
+        "onboard_time": 1756437201,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295091,
+        "num": 295091,
+        "word": "宋轶御姐黑长直",
+        "onboard_time": 1756451063,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243837,
+        "num": 243837,
+        "word": "反诈老陈又翻车了",
+        "onboard_time": 1756431560,
+        "rank": 8,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 231815,
+        "num": 231815,
+        "word": "多方回应胖东来免费筷子无标签被起诉",
+        "onboard_time": 1756451843,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2688148,
+        "num": 231105,
+        "word": "刘美含 张远",
+        "onboard_time": 1756446023,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386779,
+        "num": 226004,
+        "word": "张凌赫突然睡醒发七夕快乐",
+        "onboard_time": 1756435221,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358053,
+        "num": 217305,
+        "word": "虞书欣父亲委托律师声明无公章",
+        "onboard_time": 1756445543,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241708,
+        "num": 212573,
+        "word": "何晟铭 再见了白月光",
+        "onboard_time": 1756440203,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210903,
+        "num": 210903,
+        "word": "九三阅兵临近日本为何急了",
+        "onboard_time": 1756439903,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1626977,
+        "num": 210608,
+        "word": "刘美含和张远互相取关",
+        "onboard_time": 1756449202,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229366,
+        "num": 208310,
+        "word": "杜淳记错七夕节",
+        "onboard_time": 1756444343,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49242,
+        "num": 207456,
+        "word": "黄子弘凡的天选代言来了",
+        "onboard_time": 1756451183,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52660,
+        "num": 206097,
+        "word": "车企居然发布秋冬流行色",
+        "onboard_time": 1756450462,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40794,
+        "num": 205074,
+        "word": "李一桐希望大家都能善忘一点",
+        "onboard_time": 1756449322,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204207,
+        "num": 204207,
+        "word": "刘诗诗金九封面预告",
+        "onboard_time": 1756450942,
+        "rank": 20,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 194325,
+        "num": 194325,
+        "word": "什么样的泡面才是最好吃的",
+        "onboard_time": 1756452623,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190817,
+        "num": 190817,
+        "word": "华晨宇 好久不见",
+        "onboard_time": 1756452202,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177639,
+        "num": 177639,
+        "word": "十个勤天 JMA华语影响力艺人",
+        "onboard_time": 1756451783,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164029,
+        "num": 164029,
+        "word": "孕妇不发朋友圈的原因找到了",
+        "onboard_time": 1756442904,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157365,
+        "num": 157365,
+        "word": "七夕",
+        "onboard_time": 1756400179,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154103,
+        "num": 154103,
+        "word": "王源鸟巢演唱会六无敌",
+        "onboard_time": 1756451121,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153203,
+        "num": 153203,
+        "word": "宋亚轩cha了刀马刀马",
+        "onboard_time": 1756450403,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31149,
+        "num": 153083,
+        "word": "人间精品大张伟纯电精品选T1",
+        "onboard_time": 1756449982,
+        "rank": 28,
+        "category": "汽车,艺人"
+      },
+      {
+        "raw_hot": 153026,
+        "num": 153026,
+        "word": "七夕礼物贬值率",
+        "onboard_time": 1756450942,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151180,
+        "num": 151180,
+        "word": "一念江南",
+        "onboard_time": 1756452923,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144686,
+        "num": 144686,
+        "word": "日本博主在网络上离间中国民众",
+        "onboard_time": 1756444763,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138883,
+        "num": 138883,
+        "word": "张婧仪好圆一颗头",
+        "onboard_time": 1756451783,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137244,
+        "num": 137244,
+        "word": "我七夕就送这个",
+        "onboard_time": 1756452202,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136375,
+        "num": 136375,
+        "word": "九三阅兵训练大片根本看不够",
+        "onboard_time": 1756452501,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136041,
+        "num": 136041,
+        "word": "黄景瑜 父神的少年感",
+        "onboard_time": 1756451963,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130939,
+        "num": 130939,
+        "word": "老潘财商被指抹黑虞书欣父亲",
+        "onboard_time": 1756443802,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128634,
+        "num": 128634,
+        "word": "鹿晗给粉丝准备了玫瑰",
+        "onboard_time": 1756447642,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127797,
+        "num": 127797,
+        "word": "秀恩爱的朋友圈越来越少了",
+        "onboard_time": 1756449082,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122271,
+        "num": 122271,
+        "word": "寒武纪大跌超10%",
+        "onboard_time": 1756452623,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121072,
+        "num": 121072,
+        "word": "程潇 告诉杜华等于告诉全世界",
+        "onboard_time": 1756443683,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116982,
+        "num": 116982,
+        "word": "一诺七夕发博",
+        "onboard_time": 1756451423,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116529,
+        "num": 116529,
+        "word": "小蝶退役",
+        "onboard_time": 1756452982,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112097,
+        "num": 112097,
+        "word": "男子遭落石身亡近四个月不敢安葬",
+        "onboard_time": 1756440923,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110611,
+        "num": 110611,
+        "word": "皮质醇过高的表现",
+        "onboard_time": 1756443802,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109165,
+        "num": 109165,
+        "word": "1945年的七夕遇见胜利曙光",
+        "onboard_time": 1756450824,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107984,
+        "num": 107984,
+        "word": "建议千万不要有嘴甜羞耻症",
+        "onboard_time": 1756452860,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107240,
+        "num": 107240,
+        "word": "虽然不能同时拥有一切 常华森",
+        "onboard_time": 1756452501,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106799,
+        "num": 106799,
+        "word": "张镇麟长文告别辽宁男篮",
+        "onboard_time": 1756452982,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104034,
+        "num": 104034,
+        "word": "崩坏因缘精灵首曝",
+        "onboard_time": 1756452743,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#众行致远#"
+    }
+  }
+}
