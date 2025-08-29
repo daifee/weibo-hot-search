@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756495205775,
+  "endTime": 1756496225887,
   "band_list": [
     {
       "raw_hot": 1234034,
@@ -435,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43220,
+      "num": 65626,
+      "word": "轮椅被大家举起来那一刻的含金量",
+      "onboard_time": 1756491676,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 42147,
       "num": 112248,
       "word": "李菁菁瘦到认不出",
@@ -457,14 +465,6 @@
       "onboard_time": 1756478666,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35914,
-      "num": 65626,
-      "word": "轮椅被大家举起来那一刻的含金量",
-      "onboard_time": 1756491676,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 35378,
@@ -579,7 +579,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21650,
+      "raw_hot": 21804,
       "num": 47048,
       "word": "尼坤怎么肿成这样",
       "onboard_time": 1756494315,
@@ -633,6 +633,14 @@
       "onboard_time": 1756493836,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14708,
+      "num": 39280,
+      "word": "许荔莎说照片不是她拍的",
+      "onboard_time": 1756495514,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
