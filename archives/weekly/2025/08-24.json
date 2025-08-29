@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756475074583,
+  "endTime": 1756477465748,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -73,6 +73,14 @@
       "onboard_time": 1756253122,
       "rank": 5,
       "category": "国际时政,艺人"
+    },
+    {
+      "raw_hot": 2906159,
+      "num": 2906159,
+      "word": "王俊凯易烊千玺 王源演唱会",
+      "onboard_time": 1756474165,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 2777942,
@@ -1203,14 +1211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 893146,
-      "num": 1142903,
-      "word": "王俊凯易烊千玺 王源演唱会",
-      "onboard_time": 1756474165,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 889117,
       "num": 464361,
       "word": "长得像迪丽热巴可以化妆成孙俪",
@@ -1275,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 860058,
+      "num": 1135682,
+      "word": "华晨宇七夕准备了8万朵玫瑰花",
+      "onboard_time": 1756464985,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 859461,
       "num": 362686,
       "word": "张馨予 姐不是一直在内娱吗",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1756372403,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 848013,
-      "num": 1135682,
-      "word": "华晨宇七夕准备了8万朵玫瑰花",
-      "onboard_time": 1756464985,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 847060,
@@ -3033,6 +3033,14 @@
       "onboard_time": 1756364302,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497793,
+      "num": 252729,
+      "word": "沙溢回应王牌跑男二选一",
+      "onboard_time": 1756474104,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 497627,
@@ -5547,6 +5555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 246683,
+      "num": 230677,
+      "word": "田曦薇 今天有见到喜欢的人",
+      "onboard_time": 1756475423,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246635,
       "num": 246635,
       "word": "七千的苹果我只玩了两千",
@@ -5633,6 +5649,14 @@
       "onboard_time": 1756306765,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 242148,
+      "num": 265074,
+      "word": "被清华大学的录取通知书震惊到了",
+      "onboard_time": 1756469303,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 241168,
@@ -5945,6 +5969,14 @@
       "onboard_time": 1756285764,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230626,
+      "num": 230626,
+      "word": "华晨宇跪着下腰",
+      "onboard_time": 1756476445,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 230502,
@@ -6659,6 +6691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206761,
+      "num": 206761,
+      "word": "王鹤棣方要求窃听录音私生公开道歉",
+      "onboard_time": 1756476504,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206758,
       "num": 206758,
       "word": "樊振东 倩碧",
@@ -6851,6 +6891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203148,
+      "num": 203148,
+      "word": "鹿晗祝大家七夕快乐",
+      "onboard_time": 1756475725,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202919,
       "num": 202919,
       "word": "脱口秀知网诞生了",
@@ -6977,14 +7025,6 @@
       "onboard_time": 1755959067,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200864,
-      "num": 265074,
-      "word": "被清华大学的录取通知书震惊到了",
-      "onboard_time": 1756469303,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 200835,
@@ -7491,6 +7531,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 194255,
+      "num": 194255,
+      "word": "杨幂复刻爷们儿要脸",
+      "onboard_time": 1756477104,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194246,
       "num": 194246,
       "word": "丁禹兮邓恩熙花开锦绣七夕撒糖",
@@ -7537,6 +7585,14 @@
       "onboard_time": 1756040484,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193651,
+      "num": 193651,
+      "word": "被王楚然的阿狸香晕了",
+      "onboard_time": 1756476805,
+      "rank": 26,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 193466,
@@ -8081,6 +8137,14 @@
       "onboard_time": 1756355783,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187484,
+      "num": 187484,
+      "word": "左航弟弟你是妈妈唯一的老公",
+      "onboard_time": 1756476746,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 187388,
@@ -8875,6 +8939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176389,
+      "num": 176389,
+      "word": "黄圣依就差把心疼写在脸上了",
+      "onboard_time": 1756475964,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176080,
       "num": 160682,
       "word": "外国人对中餐有多上瘾",
@@ -9041,6 +9113,14 @@
       "onboard_time": 1756028842,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173431,
+      "num": 173431,
+      "word": "朱志鑫solo",
+      "onboard_time": 1756476385,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 173073,
@@ -9564,7 +9644,7 @@
     },
     {
       "raw_hot": 166864,
-      "num": 166864,
+      "num": 184493,
       "word": "蒯曼3比2张本美和",
       "onboard_time": 1756474765,
       "rank": 31,
@@ -9723,6 +9803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164238,
+      "num": 158500,
+      "word": "杨幂剧情基础笑点就不基础",
+      "onboard_time": 1756475604,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163954,
       "num": 163954,
       "word": "丞磊你好适合演变态",
@@ -9873,14 +9961,6 @@
       "onboard_time": 1756262961,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162168,
-      "num": 162168,
-      "word": "沙溢回应王牌跑男二选一",
-      "onboard_time": 1756474104,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 162080,
@@ -10184,6 +10264,14 @@
       "word": "易烊千玺 石头梦男",
       "onboard_time": 1756281262,
       "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 158739,
+      "num": 158739,
+      "word": "我是伯贤 我不同意开学",
+      "onboard_time": 1756476445,
+      "rank": 36,
       "category": "演出"
     },
     {
@@ -13707,6 +13795,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 128013,
+      "num": 128013,
+      "word": "脱口秀演员抄袭在美国会怎么样",
+      "onboard_time": 1756476385,
+      "rank": 45,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 128007,
       "num": 128007,
       "word": "林诗栋回应1比3落后惊天逆转",
@@ -14569,6 +14665,14 @@
       "onboard_time": 1756283364,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122169,
+      "num": 122169,
+      "word": "博主ShanghaiPanda去世",
+      "onboard_time": 1756475245,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122163,
@@ -15691,20 +15795,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114757,
+      "num": 165208,
+      "word": "MG4定价6.58万车展杀疯",
+      "onboard_time": 1756460904,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 114568,
       "num": 347543,
       "word": "李昀锐京东直播",
       "onboard_time": 1756210042,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114425,
-      "num": 165208,
-      "word": "MG4定价6.58万车展杀疯",
-      "onboard_time": 1756460904,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 114300,
@@ -15889,6 +15993,14 @@
       "onboard_time": 1756380982,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112734,
+      "num": 112734,
+      "word": "沈腾甜了一下把自己烫到了",
+      "onboard_time": 1756477405,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 112711,
@@ -19619,6 +19731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61420,
+      "num": 158501,
+      "word": "军训暴雨校领导无人离席看会操",
+      "onboard_time": 1756476504,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61267,
       "num": 132320,
       "word": "迪丽热巴说二次元妹妹叫迪丽冷巴",
@@ -22203,6 +22323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24207,
+      "num": 304946,
+      "word": "杨靖宇烈士的歌让人热血沸腾",
+      "onboard_time": 1756476445,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24161,
       "num": 345351,
       "word": "单霁翔谈文化遗产活化新思路",
@@ -22937,6 +23065,14 @@
       "onboard_time": 1756149495,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 5848,
+      "num": 158540,
+      "word": "用智搜预测脱友2冠军",
+      "onboard_time": 1756477346,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 5818,

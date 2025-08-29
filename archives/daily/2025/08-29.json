@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756475074583,
+  "endTime": 1756477465748,
   "band_list": [
     {
       "raw_hot": 3816701,
@@ -17,6 +17,14 @@
       "onboard_time": 1756440862,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2906159,
+      "num": 2906159,
+      "word": "王俊凯易烊千玺 王源演唱会",
+      "onboard_time": 1756474165,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 2660611,
@@ -179,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 893146,
-      "num": 1142903,
-      "word": "王俊凯易烊千玺 王源演唱会",
-      "onboard_time": 1756474165,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 871430,
       "num": 276460,
       "word": "孕妇坠崖案当事人仍无法离婚",
@@ -203,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 860058,
+      "num": 1135682,
+      "word": "华晨宇七夕准备了8万朵玫瑰花",
+      "onboard_time": 1756464985,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 855813,
       "num": 1136930,
       "word": "原房主跳楼身亡房子1457000元拍出",
       "onboard_time": 1756457002,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 848013,
-      "num": 1135682,
-      "word": "华晨宇七夕准备了8万朵玫瑰花",
-      "onboard_time": 1756464985,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 812278,
@@ -465,6 +465,14 @@
       "onboard_time": 1756399459,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 497793,
+      "num": 252729,
+      "word": "沙溢回应王牌跑男二选一",
+      "onboard_time": 1756474104,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 495485,
@@ -939,6 +947,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246683,
+      "num": 230677,
+      "word": "田曦薇 今天有见到喜欢的人",
+      "onboard_time": 1756475423,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242148,
+      "num": 265074,
+      "word": "被清华大学的录取通知书震惊到了",
+      "onboard_time": 1756469303,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 240465,
       "num": 240465,
       "word": "日本博主在网络上离间中国民众",
@@ -977,6 +1001,14 @@
       "onboard_time": 1756433482,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230626,
+      "num": 230626,
+      "word": "华晨宇跪着下腰",
+      "onboard_time": 1756476445,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 222086,
@@ -1099,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206761,
+      "num": 206761,
+      "word": "王鹤棣方要求窃听录音私生公开道歉",
+      "onboard_time": 1756476504,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206758,
       "num": 206758,
       "word": "樊振东 倩碧",
@@ -1163,6 +1203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 203148,
+      "num": 203148,
+      "word": "鹿晗祝大家七夕快乐",
+      "onboard_time": 1756475725,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202021,
       "num": 202021,
       "word": "王源鸟巢演唱会六无敌",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1756391483,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 200864,
-      "num": 265074,
-      "word": "被清华大学的录取通知书震惊到了",
-      "onboard_time": 1756469303,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 200818,
@@ -1299,12 +1339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194255,
+      "num": 194255,
+      "word": "杨幂复刻爷们儿要脸",
+      "onboard_time": 1756477104,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194246,
       "num": 194246,
       "word": "丁禹兮邓恩熙花开锦绣七夕撒糖",
       "onboard_time": 1756441343,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193651,
+      "num": 193651,
+      "word": "被王楚然的阿狸香晕了",
+      "onboard_time": 1756476805,
+      "rank": 26,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 192637,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1756445303,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187484,
+      "num": 187484,
+      "word": "左航弟弟你是妈妈唯一的老公",
+      "onboard_time": 1756476746,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 187071,
@@ -1515,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176389,
+      "num": 176389,
+      "word": "黄圣依就差把心疼写在脸上了",
+      "onboard_time": 1756475964,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174500,
       "num": 174500,
       "word": "苏新皓站姐神图有了",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1756433001,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173431,
+      "num": 173431,
+      "word": "朱志鑫solo",
+      "onboard_time": 1756476385,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 172987,
@@ -1620,7 +1700,7 @@
     },
     {
       "raw_hot": 166864,
-      "num": 166864,
+      "num": 184493,
       "word": "蒯曼3比2张本美和",
       "onboard_time": 1756474765,
       "rank": 31,
@@ -1651,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164238,
+      "num": 158500,
+      "word": "杨幂剧情基础笑点就不基础",
+      "onboard_time": 1756475604,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163889,
       "num": 163889,
       "word": "怎么一眼看出谁在洗钱",
@@ -1675,20 +1763,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162168,
-      "num": 162168,
-      "word": "沙溢回应王牌跑男二选一",
-      "onboard_time": 1756474104,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160756,
       "num": 160756,
       "word": "华为上半年收入4270亿",
       "onboard_time": 1756459162,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 158739,
+      "num": 158739,
+      "word": "我是伯贤 我不同意开学",
+      "onboard_time": 1756476445,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 158646,
@@ -2315,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128013,
+      "num": 128013,
+      "word": "脱口秀演员抄袭在美国会怎么样",
+      "onboard_time": 1756476385,
+      "rank": 45,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 127973,
       "num": 127973,
       "word": "华为总资产达1.251万亿元",
@@ -2513,6 +2609,14 @@
       "onboard_time": 1756452623,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122169,
+      "num": 122169,
+      "word": "博主ShanghaiPanda去世",
+      "onboard_time": 1756475245,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122031,
@@ -2755,7 +2859,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114425,
+      "raw_hot": 114757,
       "num": 165208,
       "word": "MG4定价6.58万车展杀疯",
       "onboard_time": 1756460904,
@@ -2825,6 +2929,14 @@
       "onboard_time": 1756407855,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112734,
+      "num": 112734,
+      "word": "沈腾甜了一下把自己烫到了",
+      "onboard_time": 1756477405,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 112587,
@@ -3683,6 +3795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61420,
+      "num": 158501,
+      "word": "军训暴雨校领导无人离席看会操",
+      "onboard_time": 1756476504,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60785,
       "num": 60785,
       "word": "七夕礼物",
@@ -4187,6 +4307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 24207,
+      "num": 304946,
+      "word": "杨靖宇烈士的歌让人热血沸腾",
+      "onboard_time": 1756476445,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23707,
       "num": 712118,
       "word": "九三纪念活动既是铭记历史更是开创未来",
@@ -4289,6 +4417,14 @@
       "onboard_time": 1756423941,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 5848,
+      "num": 158540,
+      "word": "用智搜预测脱友2冠军",
+      "onboard_time": 1756477346,
+      "rank": 37,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
