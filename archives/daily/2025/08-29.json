@@ -1,9 +1,9 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756445098920,
+  "endTime": 1756446060524,
   "band_list": [
     {
-      "raw_hot": 2859742,
+      "raw_hot": 3292889,
       "num": 328968,
       "word": "刘美含 15年10个字52分钟",
       "onboard_time": 1756440862,
@@ -41,6 +41,14 @@
       "onboard_time": 1756400179,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1358137,
+      "num": 248191,
+      "word": "刘美含 张远",
+      "onboard_time": 1756446023,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1352164,
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651887,
+      "num": 651887,
+      "word": "美团将全面取消骑手超时罚款",
+      "onboard_time": 1756443503,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 638976,
       "num": 638976,
       "word": "金莎孙丞潇七夕聊天记录",
@@ -163,8 +179,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 572904,
-      "num": 572904,
+      "raw_hot": 600440,
+      "num": 600440,
       "word": "九三阅兵临近日本为何急了",
       "onboard_time": 1756439903,
       "rank": 22,
@@ -257,6 +273,14 @@
       "onboard_time": 1756386984,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429013,
+      "num": 429013,
+      "word": "程潇 告诉杜华等于告诉全世界",
+      "onboard_time": 1756443683,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 411552,
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 275044,
-      "num": 207236,
+      "num": 221763,
       "word": "老潘财商被指抹黑虞书欣父亲",
       "onboard_time": 1756443802,
       "rank": 21,
@@ -451,20 +475,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 264150,
-      "num": 264150,
-      "word": "程潇 告诉杜华等于告诉全世界",
-      "onboard_time": 1756443683,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 261331,
       "num": 205158,
       "word": "突然发现了马桶的正确坐姿",
       "onboard_time": 1756389743,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 257109,
+      "num": 257109,
+      "word": "杜淳记错七夕节",
+      "onboard_time": 1756444343,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 256918,
@@ -481,14 +505,6 @@
       "onboard_time": 1756374082,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 251430,
-      "num": 251430,
-      "word": "美团将全面取消骑手超时罚款",
-      "onboard_time": 1756443503,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 251418,
@@ -513,6 +529,22 @@
       "onboard_time": 1756386684,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245093,
+      "num": 245093,
+      "word": "刘诗诗鞠婧祎迪丽热巴拍CT都好看",
+      "onboard_time": 1756445183,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240465,
+      "num": 240465,
+      "word": "日本博主在网络上离间中国民众",
+      "onboard_time": 1756444763,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 237868,
@@ -563,12 +595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214079,
+      "num": 214079,
+      "word": "早期的董璇",
+      "onboard_time": 1756444284,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212284,
       "num": 208390,
       "word": "骄阳似我",
       "onboard_time": 1756435821,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211373,
+      "num": 211373,
+      "word": "邓超带儿子出门偷吃零食了",
+      "onboard_time": 1756442603,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 210315,
@@ -601,22 +649,6 @@
       "onboard_time": 1756439182,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208064,
-      "num": 208064,
-      "word": "邓超带儿子出门偷吃零食了",
-      "onboard_time": 1756442603,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 207213,
-      "num": 207213,
-      "word": "杜淳记错七夕节",
-      "onboard_time": 1756444343,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 206758,
@@ -699,12 +731,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 195704,
-      "num": 195704,
-      "word": "日本博主在网络上离间中国民众",
-      "onboard_time": 1756444763,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 196171,
+      "num": 196171,
+      "word": "虞书欣父亲委托律师声明无公章",
+      "onboard_time": 1756445543,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 195384,
@@ -779,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188839,
+      "num": 188839,
+      "word": "孙俪知道等等在地库吃零食吗",
+      "onboard_time": 1756445303,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186278,
       "num": 186278,
       "word": "上海一空调安装工人意外从3楼坠落",
@@ -801,14 +841,6 @@
       "onboard_time": 1756439062,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183570,
-      "num": 183570,
-      "word": "早期的董璇",
-      "onboard_time": 1756444284,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 181925,
@@ -897,6 +929,14 @@
       "onboard_time": 1756440502,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155835,
+      "num": 155835,
+      "word": "嘻哈 有其父必有其女",
+      "onboard_time": 1756445543,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 155177,
@@ -1020,7 +1060,7 @@
     },
     {
       "raw_hot": 139205,
-      "num": 139205,
+      "num": 256606,
       "word": "壁画里的仙女跳舞具象化了",
       "onboard_time": 1756444402,
       "rank": 35,
@@ -1067,6 +1107,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 135190,
+      "num": 135190,
+      "word": "脱口秀和Ta的朋友们",
+      "onboard_time": 1756445422,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133082,
       "num": 133082,
       "word": "男子持水杯砸伤女同事被刑拘",
@@ -1083,12 +1131,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132122,
+      "num": 132122,
+      "word": "与晋长安直播",
+      "onboard_time": 1756445243,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131846,
       "num": 131846,
       "word": "越睡越丑的坏习惯",
       "onboard_time": 1756384883,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131414,
+      "num": 131414,
+      "word": "起猛了看到女主怀孕男主生娃",
+      "onboard_time": 1756445783,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130189,
+      "num": 130189,
+      "word": "Ning复盘Wei操作",
+      "onboard_time": 1756445183,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 128609,
@@ -1187,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118824,
+      "num": 118824,
+      "word": "披荆斩棘",
+      "onboard_time": 1756445183,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117955,
       "num": 117955,
       "word": "酒店回应女子洗澡天花板突然打开",
@@ -1219,6 +1299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116192,
+      "num": 116192,
+      "word": "七天",
+      "onboard_time": 1756445303,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115963,
       "num": 268623,
       "word": "外交部提到LABUBU",
@@ -1249,6 +1337,14 @@
       "onboard_time": 1756407855,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110213,
+      "num": 110213,
+      "word": "汪苏泷南京抢票",
+      "onboard_time": 1756445603,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 110108,
@@ -1292,7 +1388,7 @@
     },
     {
       "raw_hot": 106889,
-      "num": 106889,
+      "num": 131625,
       "word": "樊振东说把一辈子交给国家了",
       "onboard_time": 1756443023,
       "rank": 46,
@@ -1300,7 +1396,7 @@
     },
     {
       "raw_hot": 106219,
-      "num": 104524,
+      "num": 106727,
       "word": "工业富联总市值一度突破万亿",
       "onboard_time": 1756444882,
       "rank": 48,
@@ -1403,6 +1499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 90710,
+      "num": 107316,
+      "word": "王楚钦回应3比0孙正",
+      "onboard_time": 1756445724,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89706,
       "num": 89706,
       "word": "陈奕迅方将下架影片",
@@ -1425,6 +1529,14 @@
       "onboard_time": 1756396161,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87592,
+      "num": 262986,
+      "word": "被告回应男子被落石砸死家属索赔",
+      "onboard_time": 1756444402,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87224,
@@ -1747,14 +1859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55665,
-      "num": 262986,
-      "word": "被告回应男子被落石砸死家属索赔",
-      "onboard_time": 1756444402,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55217,
       "num": 120180,
       "word": "林晓杰说千玺什么奖都应该可以得到",
@@ -1899,6 +2003,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 35677,
+      "num": 212253,
+      "word": "郭涛成蔚来乐道L90第一万个用户",
+      "onboard_time": 1756445783,
+      "rank": 23,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 35363,
       "num": 45732,
       "word": "目之所及",
@@ -1953,6 +2065,14 @@
       "onboard_time": 1756402756,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26263,
+      "num": 131438,
+      "word": "张晚意这集在成毅身上见过",
+      "onboard_time": 1756445962,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 24805,

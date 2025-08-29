@@ -1,0 +1,410 @@
+{
+  "runTime": 1756446060524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 810062,
+        "num": 1129609,
+        "word": "两女子花3万请24位陪爬登顶泰山",
+        "onboard_time": 1756437201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651887,
+        "num": 651887,
+        "word": "美团将全面取消骑手超时罚款",
+        "onboard_time": 1756443503,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15654,
+        "num": 603600,
+        "word": "中国阅兵向国际传递什么信息",
+        "onboard_time": 1756351521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 600440,
+        "num": 600440,
+        "word": "九三阅兵临近日本为何急了",
+        "onboard_time": 1756439903,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 549887,
+        "num": 549887,
+        "word": "金莎孙丞潇七夕聊天记录",
+        "onboard_time": 1756441044,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429013,
+        "num": 429013,
+        "word": "程潇 告诉杜华等于告诉全世界",
+        "onboard_time": 1756443683,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399221,
+        "num": 399221,
+        "word": "反诈老陈又翻车了",
+        "onboard_time": 1756431560,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290929,
+        "num": 290929,
+        "word": "迪丽热巴陈飞宇雨中撑伞海报",
+        "onboard_time": 1756437502,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257109,
+        "num": 257109,
+        "word": "杜淳记错七夕节",
+        "onboard_time": 1756444343,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111040,
+        "num": 256606,
+        "word": "壁画里的仙女跳舞具象化了",
+        "onboard_time": 1756444402,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3292889,
+        "num": 254976,
+        "word": "刘美含 15年10个字52分钟",
+        "onboard_time": 1756440862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669333,
+        "num": 254270,
+        "word": "张凌赫突然睡醒发七夕快乐",
+        "onboard_time": 1756435221,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617098,
+        "num": 251937,
+        "word": "性单恋",
+        "onboard_time": 1756439662,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233728,
+        "num": 250564,
+        "word": "七夕",
+        "onboard_time": 1756400179,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 600719,
+        "num": 250290,
+        "word": "男子遭落石身亡近四个月不敢安葬",
+        "onboard_time": 1756440923,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1358137,
+        "num": 248191,
+        "word": "刘美含 张远",
+        "onboard_time": 1756446023,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580712,
+        "num": 247165,
+        "word": "何晟铭 再见了白月光",
+        "onboard_time": 1756440203,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337600,
+        "num": 246290,
+        "word": "孕妇不发朋友圈的原因找到了",
+        "onboard_time": 1756442904,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245093,
+        "num": 245093,
+        "word": "刘诗诗鞠婧祎迪丽热巴拍CT都好看",
+        "onboard_time": 1756445183,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240465,
+        "num": 240465,
+        "word": "日本博主在网络上离间中国民众",
+        "onboard_time": 1756444763,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221763,
+        "num": 221763,
+        "word": "老潘财商被指抹黑虞书欣父亲",
+        "onboard_time": 1756443802,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218213,
+        "num": 218213,
+        "word": "中国必将统一的大势不可阻挡",
+        "onboard_time": 1756437201,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214079,
+        "num": 214079,
+        "word": "早期的董璇",
+        "onboard_time": 1756444284,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35677,
+        "num": 212253,
+        "word": "郭涛成蔚来乐道L90第一万个用户",
+        "onboard_time": 1756445783,
+        "rank": 23,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 211373,
+        "num": 211373,
+        "word": "邓超带儿子出门偷吃零食了",
+        "onboard_time": 1756442603,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196171,
+        "num": 196171,
+        "word": "虞书欣父亲委托律师声明无公章",
+        "onboard_time": 1756445543,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188839,
+        "num": 188839,
+        "word": "孙俪知道等等在地库吃零食吗",
+        "onboard_time": 1756445303,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170152,
+        "num": 170152,
+        "word": "皮质醇过高的表现",
+        "onboard_time": 1756443802,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162412,
+        "num": 162412,
+        "word": "陈都灵邓为 死去的cp复活了",
+        "onboard_time": 1756441583,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106148,
+        "num": 156175,
+        "word": "以山河影像为信告慰抗战英烈",
+        "onboard_time": 1756432762,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169429,
+        "num": 156138,
+        "word": "王牌9家宴发布会直播",
+        "onboard_time": 1756440442,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34367,
+        "num": 155971,
+        "word": "新一代智己LS6小订近5万台",
+        "onboard_time": 1756441643,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155835,
+        "num": 155835,
+        "word": "嘻哈 有其父必有其女",
+        "onboard_time": 1756445543,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153487,
+        "num": 153487,
+        "word": "枭起青壤",
+        "onboard_time": 1756441583,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147585,
+        "num": 147585,
+        "word": "逐玉",
+        "onboard_time": 1756435520,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135190,
+        "num": 135190,
+        "word": "脱口秀和Ta的朋友们",
+        "onboard_time": 1756445422,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132122,
+        "num": 132122,
+        "word": "与晋长安直播",
+        "onboard_time": 1756445243,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100009,
+        "num": 131625,
+        "word": "樊振东说把一辈子交给国家了",
+        "onboard_time": 1756443023,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26263,
+        "num": 131438,
+        "word": "张晚意这集在成毅身上见过",
+        "onboard_time": 1756445962,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131414,
+        "num": 131414,
+        "word": "起猛了看到女主怀孕男主生娃",
+        "onboard_time": 1756445783,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130189,
+        "num": 130189,
+        "word": "Ning复盘Wei操作",
+        "onboard_time": 1756445183,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127256,
+        "num": 127256,
+        "word": "苏有朋 我卖艺不卖身",
+        "onboard_time": 1756439964,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120481,
+        "num": 120481,
+        "word": "表妹万福",
+        "onboard_time": 1756435281,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118824,
+        "num": 118824,
+        "word": "披荆斩棘",
+        "onboard_time": 1756445183,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87592,
+        "num": 117050,
+        "word": "被告回应男子被落石砸死家属索赔",
+        "onboard_time": 1756444402,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116192,
+        "num": 116192,
+        "word": "七天",
+        "onboard_time": 1756445303,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110213,
+        "num": 110213,
+        "word": "汪苏泷南京抢票",
+        "onboard_time": 1756445603,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107762,
+        "num": 107762,
+        "word": "喜脉和月经脉的区别",
+        "onboard_time": 1756442723,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 90710,
+        "num": 107316,
+        "word": "王楚钦回应3比0孙正",
+        "onboard_time": 1756445724,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89109,
+        "num": 106727,
+        "word": "工业富联总市值一度突破万亿",
+        "onboard_time": 1756444882,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记血与火铸就的深情#"
+    }
+  }
+}
