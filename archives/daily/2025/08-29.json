@@ -1,7 +1,15 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756432350196,
+  "endTime": 1756433652987,
   "band_list": [
+    {
+      "raw_hot": 1872250,
+      "num": 1872250,
+      "word": "反诈老陈又翻车了",
+      "onboard_time": 1756431560,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1870769,
       "num": 1870769,
@@ -40,14 +48,6 @@
       "word": "公主抱陪爬 擦边",
       "onboard_time": 1756393403,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 736614,
-      "num": 281697,
-      "word": "反诈老陈又翻车了",
-      "onboard_time": 1756431560,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1756386984,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431691,
+      "num": 195781,
+      "word": "七夕红包",
+      "onboard_time": 1756431082,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 388578,
@@ -283,12 +291,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 191820,
-      "num": 191820,
-      "word": "七夕红包",
-      "onboard_time": 1756431082,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 196352,
+      "num": 196352,
+      "word": "以山河影像为信告慰抗战英烈",
+      "onboard_time": 1756432762,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190883,
@@ -315,8 +323,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160452,
-      "num": 160452,
+      "raw_hot": 183209,
+      "num": 183209,
       "word": "龚俊 随便选了一套",
       "onboard_time": 1756430721,
       "rank": 21,
@@ -363,12 +371,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145372,
+      "num": 294161,
+      "word": "武汉高湖出现鳄鱼初判系人为放生",
+      "onboard_time": 1756426221,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145150,
       "num": 145150,
       "word": "iG对战BLG",
       "onboard_time": 1756385543,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143630,
+      "num": 196213,
+      "word": "抗战胜利80周年记者招待会",
+      "onboard_time": 1756433001,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143560,
@@ -387,11 +411,11 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 134577,
-      "num": 294161,
-      "word": "武汉高湖出现鳄鱼初判系人为放生",
-      "onboard_time": 1756426221,
-      "rank": 9,
+      "raw_hot": 135990,
+      "num": 135990,
+      "word": "上海一空调安装工人意外从3楼坠落",
+      "onboard_time": 1756431861,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -425,6 +449,14 @@
       "onboard_time": 1756428440,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124798,
+      "num": 124798,
+      "word": "育儿补贴申领全攻略",
+      "onboard_time": 1756429942,
+      "rank": 36,
+      "category": "母婴育儿,民生新闻"
     },
     {
       "raw_hot": 121801,
@@ -491,20 +523,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 105671,
-      "num": 105671,
-      "word": "育儿补贴申领全攻略",
-      "onboard_time": 1756429942,
-      "rank": 36,
-      "category": "母婴育儿,民生新闻"
-    },
-    {
       "raw_hot": 98986,
       "num": 98986,
       "word": "无可替代",
       "onboard_time": 1756431861,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98377,
+      "num": 98377,
+      "word": "王牌对王牌第100期录制repo",
+      "onboard_time": 1756433482,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 98088,
@@ -523,6 +555,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 95688,
+      "num": 95688,
+      "word": "美海军正筹备豪华阅兵式",
+      "onboard_time": 1756432820,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94392,
       "num": 94392,
       "word": "聚焦抗战胜利80周年",
@@ -531,11 +571,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 91810,
-      "num": 91810,
-      "word": "上海一空调安装工人意外从3楼坠落",
-      "onboard_time": 1756431861,
-      "rank": 40,
+      "raw_hot": 94265,
+      "num": 94265,
+      "word": "寒武纪跌近7%",
+      "onboard_time": 1756432341,
+      "rank": 38,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 92680,
+      "num": 92680,
+      "word": "七夕在古代是法定节假日",
+      "onboard_time": 1756432521,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -611,6 +659,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79896,
+      "num": 79896,
+      "word": "多家中小银行下调存款利率",
+      "onboard_time": 1756433300,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 79077,
+      "num": 79077,
+      "word": "曾无拍的孙颖莎",
+      "onboard_time": 1756430241,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76638,
       "num": 76638,
       "word": "亚朵回应女子深夜被陌生人刷卡闯入",
@@ -625,6 +689,14 @@
       "onboard_time": 1756390944,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73861,
+      "num": 73861,
+      "word": "七夕甜妹约会妆",
+      "onboard_time": 1756433121,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 73826,
@@ -987,6 +1059,14 @@
       "category": "数码,科学科普"
     },
     {
+      "raw_hot": 13497,
+      "num": 938130,
+      "word": "中国阅兵向国际传递什么信息",
+      "onboard_time": 1756351521,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11596,
       "num": 35412,
       "word": "加沙饥荒美国又沉默了",
@@ -1001,14 +1081,6 @@
       "onboard_time": 1756423941,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 8450,
-      "num": 884721,
-      "word": "中国阅兵向国际传递什么信息",
-      "onboard_time": 1756351521,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

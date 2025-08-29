@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756432350196,
+  "endTime": 1756433652987,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1754047223,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1872250,
+      "num": 1872250,
+      "word": "反诈老陈又翻车了",
+      "onboard_time": 1756431560,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1870769,
@@ -8249,14 +8257,6 @@
       "onboard_time": 1755680662,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 736614,
-      "num": 281697,
-      "word": "反诈老陈又翻车了",
-      "onboard_time": 1756431560,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 736410,
@@ -16385,6 +16385,14 @@
       "onboard_time": 1754365283,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431691,
+      "num": 195781,
+      "word": "七夕红包",
+      "onboard_time": 1756431082,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 431637,
@@ -35371,6 +35379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196352,
+      "num": 196352,
+      "word": "以山河影像为信告慰抗战英烈",
+      "onboard_time": 1756432762,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196330,
       "num": 196330,
       "word": "徐明浩音乐节",
@@ -36953,14 +36969,6 @@
       "onboard_time": 1755673701,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191820,
-      "num": 191820,
-      "word": "七夕红包",
-      "onboard_time": 1756431082,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 191819,
@@ -39737,6 +39745,14 @@
       "onboard_time": 1755646760,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183209,
+      "num": 183209,
+      "word": "龚俊 随便选了一套",
+      "onboard_time": 1756430721,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 183154,
@@ -47411,14 +47427,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 160452,
-      "num": 160452,
-      "word": "龚俊 随便选了一套",
-      "onboard_time": 1756430721,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160393,
       "num": 268910,
       "word": "半年流失14万人峨眉山怎么了",
@@ -54147,6 +54155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145372,
+      "num": 294161,
+      "word": "武汉高湖出现鳄鱼初判系人为放生",
+      "onboard_time": 1756426221,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145352,
       "num": 145352,
       "word": "李晟让小说里的清冷女主有脸了",
@@ -55001,6 +55017,14 @@
       "onboard_time": 1754538742,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 143630,
+      "num": 196213,
+      "word": "抗战胜利80周年记者招待会",
+      "onboard_time": 1756433001,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143627,
@@ -59131,6 +59155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135990,
+      "num": 135990,
+      "word": "上海一空调安装工人意外从3楼坠落",
+      "onboard_time": 1756431861,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135967,
       "num": 135967,
       "word": "中国排面每一帧都是大写的帅",
@@ -60017,14 +60049,6 @@
       "onboard_time": 1756250899,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134577,
-      "num": 294161,
-      "word": "武汉高湖出现鳄鱼初判系人为放生",
-      "onboard_time": 1756426221,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134564,
@@ -65569,6 +65593,14 @@
       "onboard_time": 1754305462,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124798,
+      "num": 124798,
+      "word": "育儿补贴申领全攻略",
+      "onboard_time": 1756429942,
+      "rank": 36,
+      "category": "母婴育儿,民生新闻"
     },
     {
       "raw_hot": 124777,
@@ -75955,14 +75987,6 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 105671,
-      "num": 105671,
-      "word": "育儿补贴申领全攻略",
-      "onboard_time": 1756429942,
-      "rank": 36,
-      "category": "母婴育儿,民生新闻"
-    },
-    {
       "raw_hot": 105662,
       "num": 105662,
       "word": "内娱最全面的狗塑型群像",
@@ -79219,6 +79243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98377,
+      "num": 98377,
+      "word": "王牌对王牌第100期录制repo",
+      "onboard_time": 1756433482,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98365,
       "num": 98365,
       "word": "最吵的地铁出现了",
@@ -80347,6 +80379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95688,
+      "num": 95688,
+      "word": "美海军正筹备豪华阅兵式",
+      "onboard_time": 1756432820,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95656,
       "num": 95656,
       "word": "Fly再吃找人弄你",
@@ -80905,6 +80945,14 @@
       "onboard_time": 1754393302,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94265,
+      "num": 94265,
+      "word": "寒武纪跌近7%",
+      "onboard_time": 1756432341,
+      "rank": 38,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 94232,
@@ -81507,6 +81555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92680,
+      "num": 92680,
+      "word": "七夕在古代是法定节假日",
+      "onboard_time": 1756432521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92644,
       "num": 151332,
       "word": "飞机邻座狂改代码的奶奶",
@@ -81769,14 +81825,6 @@
       "onboard_time": 1754570363,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 91810,
-      "num": 91810,
-      "word": "上海一空调安装工人意外从3楼坠落",
-      "onboard_time": 1756431861,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91788,
@@ -84755,6 +84803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79896,
+      "num": 79896,
+      "word": "多家中小银行下调存款利率",
+      "onboard_time": 1756433300,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 79882,
       "num": 79882,
       "word": "王曼昱11比5孙颖莎",
@@ -84897,6 +84953,14 @@
       "onboard_time": 1755512841,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79077,
+      "num": 79077,
+      "word": "曾无拍的孙颖莎",
+      "onboard_time": 1756430241,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 79012,
@@ -86001,6 +86065,14 @@
       "onboard_time": 1754583802,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73861,
+      "num": 73861,
+      "word": "七夕甜妹约会妆",
+      "onboard_time": 1756433121,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 73689,
@@ -99260,7 +99332,7 @@
     },
     {
       "raw_hot": 14119,
-      "num": 884721,
+      "num": 938130,
       "word": "中国阅兵向国际传递什么信息",
       "onboard_time": 1756351521,
       "rank": 2,

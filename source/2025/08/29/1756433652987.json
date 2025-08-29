@@ -1,0 +1,410 @@
+{
+  "runTime": 1756433652987,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1872250,
+        "num": 1872250,
+        "word": "反诈老陈又翻车了",
+        "onboard_time": 1756431560,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1479260,
+        "num": 1479260,
+        "word": "造谣韩磊出轨事件当事人道歉",
+        "onboard_time": 1756429402,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13497,
+        "num": 938130,
+        "word": "中国阅兵向国际传递什么信息",
+        "onboard_time": 1756351521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 871571,
+        "num": 871571,
+        "word": "七夕",
+        "onboard_time": 1756400179,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482812,
+        "num": 482812,
+        "word": "阅兵当天广场可容纳超5万人观礼",
+        "onboard_time": 1756426343,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 456486,
+        "num": 456486,
+        "word": "minilabubu上线卖爆了",
+        "onboard_time": 1756425081,
+        "rank": 5,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 446693,
+        "num": 446693,
+        "word": "杨幂快把金靖哄成胚胎了",
+        "onboard_time": 1756425682,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224177,
+        "num": 224177,
+        "word": "保时捷女车主停车一车占两位",
+        "onboard_time": 1756424122,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196352,
+        "num": 196352,
+        "word": "以山河影像为信告慰抗战英烈",
+        "onboard_time": 1756432762,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143630,
+        "num": 196213,
+        "word": "抗战胜利80周年记者招待会",
+        "onboard_time": 1756433001,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 626009,
+        "num": 196044,
+        "word": "虞书欣父亲称老潘财商抹黑",
+        "onboard_time": 1756396341,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456800,
+        "num": 195836,
+        "word": "公主抱陪爬 擦边",
+        "onboard_time": 1756393403,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431691,
+        "num": 195781,
+        "word": "七夕红包",
+        "onboard_time": 1756431082,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195622,
+        "num": 195622,
+        "word": "吴京出品电影上映6天票房仅26.7万",
+        "onboard_time": 1756424179,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190613,
+        "num": 190613,
+        "word": "2人多次在我军事敏感区飞无人机",
+        "onboard_time": 1756424179,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228784,
+        "num": 189861,
+        "word": "虞书欣父亲委托起诉老潘财商",
+        "onboard_time": 1756386984,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183209,
+        "num": 183209,
+        "word": "龚俊 随便选了一套",
+        "onboard_time": 1756430721,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176786,
+        "num": 176786,
+        "word": "刘轩丞 欧诗漫",
+        "onboard_time": 1756431621,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174697,
+        "num": 174697,
+        "word": "感觉豆包快要燃尽了",
+        "onboard_time": 1756426162,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144690,
+        "num": 146170,
+        "word": "泰版三十而已看上头了",
+        "onboard_time": 1756425860,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426438,
+        "num": 145774,
+        "word": "贾玲 上镜胖十斤受害者",
+        "onboard_time": 1756383023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145372,
+        "num": 145372,
+        "word": "武汉高湖出现鳄鱼初判系人为放生",
+        "onboard_time": 1756426221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142485,
+        "num": 142485,
+        "word": "梁王",
+        "onboard_time": 1756424780,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135990,
+        "num": 135990,
+        "word": "上海一空调安装工人意外从3楼坠落",
+        "onboard_time": 1756431861,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129467,
+        "num": 129467,
+        "word": "NBA顶级弹跳败给长城",
+        "onboard_time": 1756430781,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126842,
+        "num": 126842,
+        "word": "王楚然 星河予你",
+        "onboard_time": 1756430781,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124798,
+        "num": 124798,
+        "word": "育儿补贴申领全攻略",
+        "onboard_time": 1756429942,
+        "rank": 26,
+        "category": "母婴育儿,民生新闻"
+      },
+      {
+        "raw_hot": 117685,
+        "num": 117685,
+        "word": "酒店回应女子洗澡天花板突然打开",
+        "onboard_time": 1756428201,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114984,
+        "num": 114984,
+        "word": "早睡觉能解决80%以上的问题",
+        "onboard_time": 1756388722,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108713,
+        "num": 108713,
+        "word": "坐12万一把的椅子什么感觉",
+        "onboard_time": 1756431861,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147644,
+        "num": 105505,
+        "word": "怎么一眼看出谁在洗钱",
+        "onboard_time": 1756431322,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101582,
+        "num": 101582,
+        "word": "黄子弘凡 华莱士",
+        "onboard_time": 1756430901,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98377,
+        "num": 98377,
+        "word": "王牌对王牌第100期录制repo",
+        "onboard_time": 1756433482,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98023,
+        "num": 98023,
+        "word": "戴军因为给钟配音丢了工作",
+        "onboard_time": 1756428440,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94325,
+        "num": 97260,
+        "word": "反诈老陈打假嘎子哥翻车后道歉",
+        "onboard_time": 1756398021,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 90649,
+        "num": 97206,
+        "word": "陈奕迅方道歉",
+        "onboard_time": 1756399459,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97206,
+        "num": 97205,
+        "word": "厦门航空一飞机因充电宝起火延误",
+        "onboard_time": 1756393464,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95688,
+        "num": 95688,
+        "word": "美海军正筹备豪华阅兵式",
+        "onboard_time": 1756432820,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94265,
+        "num": 94265,
+        "word": "寒武纪跌近7%",
+        "onboard_time": 1756432341,
+        "rank": 38,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 92680,
+        "num": 92680,
+        "word": "七夕在古代是法定节假日",
+        "onboard_time": 1756432521,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86703,
+        "num": 86703,
+        "word": "网传泰国开始禁娱",
+        "onboard_time": 1756387342,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80889,
+        "num": 80889,
+        "word": "保时捷停车占两位反让旁边车主道歉",
+        "onboard_time": 1756428982,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79896,
+        "num": 79896,
+        "word": "多家中小银行下调存款利率",
+        "onboard_time": 1756433300,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79077,
+        "num": 79077,
+        "word": "曾无拍的孙颖莎",
+        "onboard_time": 1756430241,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78506,
+        "num": 78506,
+        "word": "致英烈的山河信",
+        "onboard_time": 1756425921,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77178,
+        "num": 77178,
+        "word": "聚焦抗战胜利80周年",
+        "onboard_time": 1756385303,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76144,
+        "num": 76144,
+        "word": "承认吧演员多读书有用",
+        "onboard_time": 1756381283,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73861,
+        "num": 73861,
+        "word": "七夕甜妹约会妆",
+        "onboard_time": 1756433121,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 72891,
+        "num": 72891,
+        "word": "迷你LABUBU一端炒至2500元",
+        "onboard_time": 1756431201,
+        "rank": 48,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 70749,
+        "num": 70749,
+        "word": "刘昊然金鹿奖影帝",
+        "onboard_time": 1756386684,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记血与火铸就的深情#"
+    }
+  }
+}
