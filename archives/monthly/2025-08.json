@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756492382235,
+  "endTime": 1756493165275,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -11667,6 +11667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 591089,
+      "num": 591089,
+      "word": "陈奕恒暂时离开TF家族",
+      "onboard_time": 1756490237,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591023,
       "num": 591023,
       "word": "丁肇忠去世",
@@ -13321,14 +13329,6 @@
       "onboard_time": 1755672982,
       "rank": 16,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 533979,
-      "num": 533979,
-      "word": "陈奕恒暂时离开TF家族",
-      "onboard_time": 1756490237,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 533643,
@@ -101003,6 +101003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24098,
+      "num": 55504,
+      "word": "张泽禹各种比心饭撒",
+      "onboard_time": 1756492456,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24019,
       "num": 104761,
       "word": "校庆捐款 千班万元",
@@ -101115,6 +101123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23631,
+      "num": 55504,
+      "word": "登陆少年一周年简历",
+      "onboard_time": 1756492635,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23625,
       "num": 27445,
       "word": "丞磊新剧再现看垃圾的眼神",
@@ -101193,6 +101209,14 @@
       "onboard_time": 1755156743,
       "rank": 29,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 23344,
+      "num": 55499,
+      "word": "余宇涵说禁止摸鱼",
+      "onboard_time": 1756492635,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 23338,
@@ -101321,6 +101345,14 @@
       "onboard_time": 1755975437,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22800,
+      "num": 65626,
+      "word": "轮椅被大家举起来那一刻的含金量",
+      "onboard_time": 1756491676,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 22747,
@@ -101881,14 +101913,6 @@
       "onboard_time": 1754289803,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20477,
-      "num": 65626,
-      "word": "轮椅被大家举起来那一刻的含金量",
-      "onboard_time": 1756491676,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 20438,

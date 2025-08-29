@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756492382235,
+  "endTime": 1756493165275,
   "band_list": [
     {
       "raw_hot": 1234034,
@@ -19,20 +19,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 591089,
+      "num": 591089,
+      "word": "陈奕恒暂时离开TF家族",
+      "onboard_time": 1756490237,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557130,
       "num": 197134,
       "word": "王楚钦 我不会主动向别人表白",
       "onboard_time": 1756480644,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 533979,
-      "num": 533979,
-      "word": "陈奕恒暂时离开TF家族",
-      "onboard_time": 1756490237,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 481686,
@@ -531,12 +531,52 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20477,
+      "raw_hot": 24098,
+      "num": 55504,
+      "word": "张泽禹各种比心饭撒",
+      "onboard_time": 1756492456,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23631,
+      "num": 55504,
+      "word": "登陆少年一周年简历",
+      "onboard_time": 1756492635,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23468,
+      "num": 55501,
+      "word": "来战",
+      "onboard_time": 1756492696,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23344,
+      "num": 55499,
+      "word": "余宇涵说禁止摸鱼",
+      "onboard_time": 1756492635,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22800,
       "num": 65626,
       "word": "轮椅被大家举起来那一刻的含金量",
       "onboard_time": 1756491676,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 19178,
+      "num": 55493,
+      "word": "抗战胜利80周年",
+      "onboard_time": 1756490957,
+      "rank": 49,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

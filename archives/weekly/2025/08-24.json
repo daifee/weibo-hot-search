@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756492382235,
+  "endTime": 1756493165275,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -2347,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 591089,
+      "num": 591089,
+      "word": "陈奕恒暂时离开TF家族",
+      "onboard_time": 1756490237,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590307,
       "num": 590307,
       "word": "小猫误入虎园被捕食",
@@ -2745,14 +2753,6 @@
       "onboard_time": 1755997462,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 533979,
-      "num": 533979,
-      "word": "陈奕恒暂时离开TF家族",
-      "onboard_time": 1756490237,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 533187,
@@ -22755,6 +22755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24098,
+      "num": 55504,
+      "word": "张泽禹各种比心饭撒",
+      "onboard_time": 1756492456,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23981,
       "num": 140381,
       "word": "迪桑特90周年大展明星阵容",
@@ -22795,6 +22803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23631,
+      "num": 55504,
+      "word": "登陆少年一周年简历",
+      "onboard_time": 1756492635,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23549,
       "num": 211111,
       "word": "用智搜预测脱友2冠军",
@@ -22809,6 +22825,14 @@
       "onboard_time": 1756239016,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23468,
+      "num": 55501,
+      "word": "来战",
+      "onboard_time": 1756492696,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 23416,
@@ -22843,6 +22867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23344,
+      "num": 55499,
+      "word": "余宇涵说禁止摸鱼",
+      "onboard_time": 1756492635,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23338,
       "num": 58029,
       "word": "落马官员儿子单次赌球投入超百万",
@@ -22865,6 +22897,14 @@
       "onboard_time": 1755975437,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22800,
+      "num": 65626,
+      "word": "轮椅被大家举起来那一刻的含金量",
+      "onboard_time": 1756491676,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 22747,
@@ -23027,14 +23067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20477,
-      "num": 65626,
-      "word": "轮椅被大家举起来那一刻的含金量",
-      "onboard_time": 1756491676,
-      "rank": 48,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 20227,
       "num": 148091,
       "word": "1800年前古人就用上7格餐盘了",
@@ -23121,6 +23153,14 @@
       "onboard_time": 1756304306,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19178,
+      "num": 55493,
+      "word": "抗战胜利80周年",
+      "onboard_time": 1756490957,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19040,
