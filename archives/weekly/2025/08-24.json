@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756488150710,
+  "endTime": 1756489193113,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -5723,6 +5723,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 244051,
+      "num": 197052,
+      "word": "加拿大网友问中国有电影院吗",
+      "onboard_time": 1756483283,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 243759,
       "num": 193881,
       "word": "艾热孜巴婚检被三连问有无血缘关系",
@@ -8417,14 +8425,6 @@
       "onboard_time": 1756103662,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185563,
-      "num": 197052,
-      "word": "加拿大网友问中国有电影院吗",
-      "onboard_time": 1756483283,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 185505,
@@ -21259,6 +21259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43914,
+      "num": 111643,
+      "word": "左航相依为命",
+      "onboard_time": 1756487839,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43907,
       "num": 51659,
       "word": "张若昀张维伊对手戏",
@@ -21273,6 +21281,14 @@
       "onboard_time": 1756371804,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43862,
+      "num": 103189,
+      "word": "苏新皓粉丝是线面吧",
+      "onboard_time": 1756488198,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 43751,
@@ -21753,14 +21769,6 @@
       "onboard_time": 1756322955,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37492,
-      "num": 111643,
-      "word": "左航相依为命",
-      "onboard_time": 1756487839,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 37456,

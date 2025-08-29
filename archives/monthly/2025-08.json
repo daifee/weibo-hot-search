@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756488150710,
+  "endTime": 1756489193113,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -27811,6 +27811,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 244051,
+      "num": 197052,
+      "word": "加拿大网友问中国有电影院吗",
+      "onboard_time": 1756483283,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 244017,
       "num": 244017,
       "word": "朋友圈点赞洁癖",
@@ -40273,14 +40281,6 @@
       "onboard_time": 1755073822,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185563,
-      "num": 197052,
-      "word": "加拿大网友问中国有电影院吗",
-      "onboard_time": 1756483283,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 185551,
@@ -95787,6 +95787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43914,
+      "num": 111643,
+      "word": "左航相依为命",
+      "onboard_time": 1756487839,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43907,
       "num": 51659,
       "word": "张若昀张维伊对手戏",
@@ -95817,6 +95825,14 @@
       "onboard_time": 1754629403,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43862,
+      "num": 103189,
+      "word": "苏新皓粉丝是线面吧",
+      "onboard_time": 1756488198,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 43794,
@@ -97521,14 +97537,6 @@
       "onboard_time": 1754375183,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37492,
-      "num": 111643,
-      "word": "左航相依为命",
-      "onboard_time": 1756487839,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 37463,
