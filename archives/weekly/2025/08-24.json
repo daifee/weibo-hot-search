@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756489193113,
+  "endTime": 1756492382235,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -2745,6 +2745,14 @@
       "onboard_time": 1755997462,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 533979,
+      "num": 533979,
+      "word": "陈奕恒暂时离开TF家族",
+      "onboard_time": 1756490237,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 533187,
@@ -18219,6 +18227,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 95256,
+      "num": 114397,
+      "word": "苏醒补刀张远爱着爱着爱人不见了",
+      "onboard_time": 1756486342,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94877,
       "num": 213496,
       "word": "今年第14号台风来了",
@@ -19691,14 +19707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68584,
-      "num": 114397,
-      "word": "苏醒补刀张远爱着爱着爱人不见了",
-      "onboard_time": 1756486342,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 68534,
       "num": 67884,
       "word": "林秋楠直播",
@@ -20409,6 +20417,14 @@
       "onboard_time": 1756112484,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55829,
+      "num": 67316,
+      "word": "全国一半的网红都到成都了",
+      "onboard_time": 1756489637,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 55628,
@@ -22467,6 +22483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27377,
+      "num": 66113,
+      "word": "朱志鑫好优越的骨相",
+      "onboard_time": 1756491256,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 27353,
       "num": 180020,
       "word": "寺庙金灰",
@@ -22585,6 +22609,22 @@
       "onboard_time": 1756373602,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25479,
+      "num": 66025,
+      "word": "周翊然演技",
+      "onboard_time": 1756490898,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25418,
+      "num": 65955,
+      "word": "2025F1荷兰大奖赛",
+      "onboard_time": 1756491618,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 25415,
@@ -22985,6 +23025,14 @@
       "onboard_time": 1756403117,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20477,
+      "num": 65626,
+      "word": "轮椅被大家举起来那一刻的含金量",
+      "onboard_time": 1756491676,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 20227,

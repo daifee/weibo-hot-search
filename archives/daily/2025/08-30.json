@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756489193113,
+  "endTime": 1756492382235,
   "band_list": [
     {
       "raw_hot": 1234034,
@@ -25,6 +25,14 @@
       "onboard_time": 1756480644,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 533979,
+      "num": 533979,
+      "word": "陈奕恒暂时离开TF家族",
+      "onboard_time": 1756490237,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 481686,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95256,
+      "num": 114397,
+      "word": "苏醒补刀张远爱着爱着爱人不见了",
+      "onboard_time": 1756486342,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93556,
       "num": 197091,
       "word": "aespa新歌RichMan初舞台",
@@ -347,14 +363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68584,
-      "num": 114397,
-      "word": "苏醒补刀张远爱着爱着爱人不见了",
-      "onboard_time": 1756486342,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 66444,
       "num": 196932,
       "word": "鹿晗祝大家七夕快乐",
@@ -401,6 +409,14 @@
       "onboard_time": 1756478546,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55829,
+      "num": 67316,
+      "word": "全国一半的网红都到成都了",
+      "onboard_time": 1756489637,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 43914,
@@ -481,6 +497,46 @@
       "onboard_time": 1756482263,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27377,
+      "num": 66113,
+      "word": "朱志鑫好优越的骨相",
+      "onboard_time": 1756491256,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 25479,
+      "num": 66025,
+      "word": "周翊然演技",
+      "onboard_time": 1756490898,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25418,
+      "num": 65955,
+      "word": "2025F1荷兰大奖赛",
+      "onboard_time": 1756491618,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 24913,
+      "num": 65743,
+      "word": "与晋长安",
+      "onboard_time": 1756491496,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20477,
+      "num": 65626,
+      "word": "轮椅被大家举起来那一刻的含金量",
+      "onboard_time": 1756491676,
+      "rank": 48,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [

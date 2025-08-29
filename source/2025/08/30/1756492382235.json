@@ -1,0 +1,410 @@
+{
+  "runTime": 1756492382235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 533979,
+        "num": 533979,
+        "word": "陈奕恒暂时离开TF家族",
+        "onboard_time": 1756490237,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133838,
+        "num": 133838,
+        "word": "不要随便去同学家过夜",
+        "onboard_time": 1756481186,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11532,
+        "num": 92807,
+        "word": "礼炮声里的中国排面",
+        "onboard_time": 1756467564,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210811,
+        "num": 92523,
+        "word": "王俊凯易烊千玺 王源演唱会",
+        "onboard_time": 1756474165,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83874,
+        "num": 83874,
+        "word": "菲方踩踏中方红线必将付出代价",
+        "onboard_time": 1756483224,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62697,
+        "num": 78908,
+        "word": "教育局回应1.4亿元配学生运动手环",
+        "onboard_time": 1756468163,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114073,
+        "num": 78788,
+        "word": "七夕",
+        "onboard_time": 1756471827,
+        "rank": 6,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 59600,
+        "num": 76886,
+        "word": "在加沙记者直播中被炸身亡",
+        "onboard_time": 1756478666,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76064,
+        "num": 76064,
+        "word": "王源鸟巢上座率",
+        "onboard_time": 1756470503,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48267,
+        "num": 75976,
+        "word": "日本厕纸",
+        "onboard_time": 1756463303,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215523,
+        "num": 75958,
+        "word": "刘美含张远 为什么不来娶我",
+        "onboard_time": 1756464743,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184746,
+        "num": 75819,
+        "word": "印尼暴乱",
+        "onboard_time": 1756482384,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116567,
+        "num": 75716,
+        "word": "加拿大网友问中国有电影院吗",
+        "onboard_time": 1756483283,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87398,
+        "num": 75599,
+        "word": "建议大家要少发朋友圈",
+        "onboard_time": 1756462162,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78552,
+        "num": 75473,
+        "word": "男子转账备注自愿赠与分手起诉返还",
+        "onboard_time": 1756470385,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95256,
+        "num": 75448,
+        "word": "苏醒补刀张远爱着爱着爱人不见了",
+        "onboard_time": 1756486342,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75351,
+        "num": 75351,
+        "word": "刘美含点赞记录",
+        "onboard_time": 1756478306,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70768,
+        "num": 70768,
+        "word": "张真源把工资卡密码交出去了",
+        "onboard_time": 1756482384,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67495,
+        "num": 67495,
+        "word": "薛小婉称快与任权分手",
+        "onboard_time": 1756470744,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51200,
+        "num": 67448,
+        "word": "田曦薇 今天有见到喜欢的人",
+        "onboard_time": 1756475423,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161394,
+        "num": 67378,
+        "word": "苏有朋道歉",
+        "onboard_time": 1756463422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55829,
+        "num": 67316,
+        "word": "全国一半的网红都到成都了",
+        "onboard_time": 1756489637,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 53091,
+        "num": 67255,
+        "word": "华晨宇七夕准备了8万朵玫瑰花",
+        "onboard_time": 1756464985,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45217,
+        "num": 67240,
+        "word": "原来这是躯体化",
+        "onboard_time": 1756464322,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 42057,
+        "num": 67121,
+        "word": "鹿晗橘色狼尾",
+        "onboard_time": 1756469544,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40726,
+        "num": 67077,
+        "word": "杨幂复刻爷们儿要脸",
+        "onboard_time": 1756477104,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37229,
+        "num": 67037,
+        "word": "男主疯了男二死了男三黑化",
+        "onboard_time": 1756468282,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34974,
+        "num": 66976,
+        "word": "万斯称已做好就任美国总统的准备",
+        "onboard_time": 1756479804,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28713,
+        "num": 66913,
+        "word": "脱口秀演员抄袭在美国会怎么样",
+        "onboard_time": 1756476385,
+        "rank": 28,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 28311,
+        "num": 66828,
+        "word": "全中国抗日时还没有民进党",
+        "onboard_time": 1756482502,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32344,
+        "num": 66775,
+        "word": "原神月之一",
+        "onboard_time": 1756474704,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32044,
+        "num": 66705,
+        "word": "张杰七夕攒了波大的",
+        "onboard_time": 1756474044,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30003,
+        "num": 66617,
+        "word": "于适相册里的澳大利亚",
+        "onboard_time": 1756478666,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28848,
+        "num": 66581,
+        "word": "aespa新歌RichMan初舞台",
+        "onboard_time": 1756477945,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28573,
+        "num": 66550,
+        "word": "爱自己的50种方式",
+        "onboard_time": 1756485082,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28531,
+        "num": 66458,
+        "word": "王鹤棣方要求窃听录音私生公开道歉",
+        "onboard_time": 1756476504,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28380,
+        "num": 66387,
+        "word": "原神",
+        "onboard_time": 1756468222,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27438,
+        "num": 66321,
+        "word": "轻断食从145斤瘦到95斤",
+        "onboard_time": 1756466484,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 27394,
+        "num": 66241,
+        "word": "咸鱼飞升",
+        "onboard_time": 1756472905,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23161,
+        "num": 66209,
+        "word": "军训暴雨校领导无人离席看会操",
+        "onboard_time": 1756476504,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27377,
+        "num": 66113,
+        "word": "朱志鑫好优越的骨相",
+        "onboard_time": 1756491256,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27325,
+        "num": 66077,
+        "word": "黄子韬手机里都不一定有这么帅的照片",
+        "onboard_time": 1756477465,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25479,
+        "num": 66025,
+        "word": "周翊然演技",
+        "onboard_time": 1756490898,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25418,
+        "num": 65955,
+        "word": "2025F1荷兰大奖赛",
+        "onboard_time": 1756491618,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25235,
+        "num": 65866,
+        "word": "沙溢回应王牌跑男二选一",
+        "onboard_time": 1756474104,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25027,
+        "num": 65831,
+        "word": "边伯贤 我命由我不由天",
+        "onboard_time": 1756482085,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24913,
+        "num": 65743,
+        "word": "与晋长安",
+        "onboard_time": 1756491496,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24199,
+        "num": 65706,
+        "word": "李菁菁瘦到认不出",
+        "onboard_time": 1756472664,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20477,
+        "num": 65626,
+        "word": "轮椅被大家举起来那一刻的含金量",
+        "onboard_time": 1756491676,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 20090,
+        "num": 65550,
+        "word": "王楚钦摸头杀",
+        "onboard_time": 1756481723,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次就作风建设作出重要指示#"
+    }
+  }
+}
