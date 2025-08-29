@@ -1,0 +1,410 @@
+{
+  "runTime": 1756481937783,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1574669,
+        "num": 1574669,
+        "word": "王俊凯易烊千玺 王源演唱会",
+        "onboard_time": 1756474165,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 476930,
+        "num": 476930,
+        "word": "脱口秀演员抄袭在美国会怎么样",
+        "onboard_time": 1756476385,
+        "rank": 1,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 44352,
+        "num": 446115,
+        "word": "礼炮声里的中国排面",
+        "onboard_time": 1756467564,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 445551,
+        "num": 445551,
+        "word": "田曦薇 今天有见到喜欢的人",
+        "onboard_time": 1756475423,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358939,
+        "num": 358939,
+        "word": "日本厕纸",
+        "onboard_time": 1756463303,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 310534,
+        "num": 310534,
+        "word": "金正恩出席九三阅兵为何意义重大",
+        "onboard_time": 1756480464,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311099,
+        "num": 309050,
+        "word": "七夕",
+        "onboard_time": 1756471827,
+        "rank": 6,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 293230,
+        "num": 293230,
+        "word": "沙溢回应王牌跑男二选一",
+        "onboard_time": 1756474104,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279362,
+        "num": 279362,
+        "word": "在加沙记者直播中被炸身亡",
+        "onboard_time": 1756478666,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56377,
+        "num": 279004,
+        "word": "老人见到21岁牺牲哥哥画像泪崩",
+        "onboard_time": 1756480165,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721602,
+        "num": 276205,
+        "word": "刘美含张远 为什么不来娶我",
+        "onboard_time": 1756464743,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346870,
+        "num": 274456,
+        "word": "建议大家要少发朋友圈",
+        "onboard_time": 1756462162,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338778,
+        "num": 272645,
+        "word": "男子转账备注自愿赠与分手起诉返还",
+        "onboard_time": 1756470385,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323660,
+        "num": 270605,
+        "word": "孕妇坠崖案当事人仍无法离婚",
+        "onboard_time": 1756471222,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269441,
+        "num": 269441,
+        "word": "王楚钦 我不会主动向别人表白",
+        "onboard_time": 1756480644,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466840,
+        "num": 253071,
+        "word": "刘美含点赞记录",
+        "onboard_time": 1756478306,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235068,
+        "num": 235068,
+        "word": "被清华大学的录取通知书震惊到了",
+        "onboard_time": 1756469303,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220253,
+        "num": 220253,
+        "word": "男主疯了男二死了男三黑化",
+        "onboard_time": 1756468282,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217491,
+        "num": 217491,
+        "word": "王源鸟巢上座率",
+        "onboard_time": 1756470503,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182156,
+        "num": 182156,
+        "word": "杨幂复刻爷们儿要脸",
+        "onboard_time": 1756477104,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 820258,
+        "num": 180821,
+        "word": "苏有朋道歉",
+        "onboard_time": 1756463422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539741,
+        "num": 180577,
+        "word": "华晨宇七夕准备了8万朵玫瑰花",
+        "onboard_time": 1756464985,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179309,
+        "num": 179309,
+        "word": "毛晓彤抢发工作室的图",
+        "onboard_time": 1756478306,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166587,
+        "num": 166587,
+        "word": "咸鱼飞升",
+        "onboard_time": 1756472905,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163595,
+        "num": 163595,
+        "word": "薛小婉称快与任权分手",
+        "onboard_time": 1756470744,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160808,
+        "num": 160808,
+        "word": "鹿晗橘色狼尾",
+        "onboard_time": 1756469544,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151898,
+        "num": 151898,
+        "word": "aespa新歌RichMan初舞台",
+        "onboard_time": 1756477945,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151063,
+        "num": 151063,
+        "word": "黄子韬手机里都不一定有这么帅的照片",
+        "onboard_time": 1756477465,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123057,
+        "num": 144514,
+        "word": "北京晚霞",
+        "onboard_time": 1756465763,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47830,
+        "num": 144142,
+        "word": "檀健次早晚是你的",
+        "onboard_time": 1756478666,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153641,
+        "num": 144059,
+        "word": "鹿晗祝大家七夕快乐",
+        "onboard_time": 1756475725,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143892,
+        "num": 143892,
+        "word": "单依纯晚霞大片",
+        "onboard_time": 1756481365,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136240,
+        "num": 136240,
+        "word": "关晓彤王牌9的初舞台",
+        "onboard_time": 1756480404,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131096,
+        "num": 131096,
+        "word": "万斯称已做好就任美国总统的准备",
+        "onboard_time": 1756479804,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125029,
+        "num": 125029,
+        "word": "我同意音综对张泽禹出手",
+        "onboard_time": 1756480824,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123135,
+        "num": 123135,
+        "word": "李乃文 强制爱",
+        "onboard_time": 1756480524,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117538,
+        "num": 117538,
+        "word": "王鹤棣方要求窃听录音私生公开道歉",
+        "onboard_time": 1756476504,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116908,
+        "num": 116908,
+        "word": "不要随便去同学家过夜",
+        "onboard_time": 1756481186,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110808,
+        "num": 110808,
+        "word": "AG对战TTG",
+        "onboard_time": 1756467803,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106383,
+        "num": 106383,
+        "word": "轻断食从145斤瘦到95斤",
+        "onboard_time": 1756466484,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 105978,
+        "num": 105978,
+        "word": "王楚钦摸头杀",
+        "onboard_time": 1756481723,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103853,
+        "num": 103853,
+        "word": "周深 烟花许愿树",
+        "onboard_time": 1756481784,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102144,
+        "num": 102144,
+        "word": "张杰七夕攒了波大的",
+        "onboard_time": 1756474044,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99809,
+        "num": 99809,
+        "word": "孙颖莎圆脸配齐刘海",
+        "onboard_time": 1756478546,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97099,
+        "num": 97099,
+        "word": "原神五星命之座免费拿",
+        "onboard_time": 1756477765,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96700,
+        "num": 96700,
+        "word": "小北斗刚下舞台版",
+        "onboard_time": 1756481005,
+        "rank": 45,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 96185,
+        "num": 96185,
+        "word": "泰国女排vs日本女排",
+        "onboard_time": 1756481784,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91969,
+        "num": 91969,
+        "word": "军训暴雨校领导无人离席看会操",
+        "onboard_time": 1756476504,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91835,
+        "num": 91835,
+        "word": "美团将全面取消骑手超时罚款",
+        "onboard_time": 1756443503,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88377,
+        "num": 88377,
+        "word": "原来这是躯体化",
+        "onboard_time": 1756464322,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次就作风建设作出重要指示#"
+    }
+  }
+}
