@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/29 23:38:57
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 00:31:14
 </p>
 </blockquote>
 <p>
@@ -3321,6 +3321,12 @@ iPhone17新颜色（热度：1110488）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E6%9A%B4%E4%B9%B1%23" target="weibo">
+印尼暴乱（热度：1100690）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E4%BA%BA%E4%B8%80%E7%AD%89%E5%BA%A7%23" target="weibo">
 低人一等座（热度：1099522）
 </a>
@@ -6005,12 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%8D%93%E5%AE%9C%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%89%A3%E8%A3%A4%E5%AD%90%23" target="weibo">
 蔡卓宜回应不扣裤子（热度：765964）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E7%9B%B4%E6%92%AD%E6%97%B6%E5%B0%B9%E5%AD%90%E7%BB%B4%E8%AF%B4%E6%BC%8F%E5%98%B4%E4%BA%86%23" target="weibo">
-徐冬冬直播时尹子维说漏嘴了（热度：765852）
 </a>
 </li>
 
