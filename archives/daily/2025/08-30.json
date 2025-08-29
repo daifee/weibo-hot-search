@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756493165275,
+  "endTime": 1756495205775,
   "band_list": [
     {
       "raw_hot": 1234034,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35914,
+      "num": 65626,
+      "word": "轮椅被大家举起来那一刻的含金量",
+      "onboard_time": 1756491676,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 35378,
       "num": 111461,
       "word": "美防长提议通话后中方已读未回",
@@ -563,12 +571,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22800,
-      "num": 65626,
-      "word": "轮椅被大家举起来那一刻的含金量",
-      "onboard_time": 1756491676,
-      "rank": 48,
-      "category": "正能量"
+      "raw_hot": 23016,
+      "num": 47092,
+      "word": "光启市特别互动",
+      "onboard_time": 1756494495,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 21650,
+      "num": 47048,
+      "word": "尼坤怎么肿成这样",
+      "onboard_time": 1756494315,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20616,
+      "num": 47043,
+      "word": "一周年基础张泽禹就不基础",
+      "onboard_time": 1756493954,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 19491,
+      "num": 47001,
+      "word": "我不想开学 我一直在哭",
+      "onboard_time": 1756489818,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 19178,
@@ -577,11 +609,38 @@
       "onboard_time": 1756490957,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17979,
+      "num": 46939,
+      "word": "何广智预测自己是脱友冠军",
+      "onboard_time": 1756494195,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 16501,
+      "num": 46891,
+      "word": "陶喆给歌迷藏唇膏被大屏投屏了",
+      "onboard_time": 1756495095,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 16299,
+      "num": 46860,
+      "word": "周柯宇骗敖子逸黄渤是大舅",
+      "onboard_time": 1756493836,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记再次就作风建设作出重要指示#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }
