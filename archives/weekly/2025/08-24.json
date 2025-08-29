@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756485074353,
+  "endTime": 1756485953725,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1234034,
+      "num": 198515,
+      "word": "印尼暴乱",
+      "onboard_time": 1756482384,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1233684,
       "num": 1185648,
       "word": "法院公告虞书欣父亲借贷纠纷起诉状",
@@ -777,14 +785,6 @@
       "onboard_time": 1756006043,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1100690,
-      "num": 198515,
-      "word": "印尼暴乱",
-      "onboard_time": 1756482384,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1097597,
@@ -3843,6 +3843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398857,
+      "num": 197927,
+      "word": "张真源把工资卡密码交出去了",
+      "onboard_time": 1756482384,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 398763,
       "num": 398763,
       "word": "98岁老人头上长皮角自行剪除",
@@ -4011,14 +4019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378421,
-      "num": 197927,
-      "word": "张真源把工资卡密码交出去了",
-      "onboard_time": 1756482384,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 378356,
       "num": 223680,
       "word": "彭昱畅第一章回国",
@@ -4137,6 +4137,14 @@
       "onboard_time": 1756164679,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 370539,
+      "num": 370539,
+      "word": "不要随便去同学家过夜",
+      "onboard_time": 1756481186,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370168,
@@ -5603,6 +5611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249826,
+      "num": 249826,
+      "word": "菲方踩踏中方红线必将付出代价",
+      "onboard_time": 1756483224,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 249213,
       "num": 212642,
       "word": "上海月薪9000做五休二的一天",
@@ -6305,14 +6321,6 @@
       "onboard_time": 1756117583,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216773,
-      "num": 216773,
-      "word": "不要随便去同学家过夜",
-      "onboard_time": 1756481186,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216747,
@@ -10817,14 +10825,6 @@
       "onboard_time": 1756285943,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155501,
-      "num": 198941,
-      "word": "菲方踩踏中方红线必将付出代价",
-      "onboard_time": 1756483224,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155500,
@@ -18171,6 +18171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95573,
+      "num": 197075,
+      "word": "边伯贤 我命由我不由天",
+      "onboard_time": 1756482085,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95530,
       "num": 95530,
       "word": "周也花絮时间",
@@ -18537,14 +18545,6 @@
       "onboard_time": 1756103543,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91149,
-      "num": 197075,
-      "word": "边伯贤 我命由我不由天",
-      "onboard_time": 1756482085,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 90815,
@@ -18915,6 +18915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82605,
+      "num": 197061,
+      "word": "全中国抗日时还没有民进党",
+      "onboard_time": 1756482502,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82357,
       "num": 82357,
       "word": "医生谈16加8减肥法正确打开方式",
@@ -19185,14 +19193,6 @@
       "onboard_time": 1756364001,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77672,
-      "num": 197061,
-      "word": "全中国抗日时还没有民进党",
-      "onboard_time": 1756482502,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 77340,
@@ -19937,6 +19937,14 @@
       "onboard_time": 1756009944,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63349,
+      "num": 170332,
+      "word": "爱自己的50种方式",
+      "onboard_time": 1756485082,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 63320,
@@ -22241,6 +22249,14 @@
       "onboard_time": 1756292482,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29464,
+      "num": 173281,
+      "word": "园方回应山魈用石头砸碎馆舍玻璃",
+      "onboard_time": 1756482263,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29385,

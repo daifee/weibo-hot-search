@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 00:31:14
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 00:45:53
 </p>
 </blockquote>
 <p>
@@ -2715,6 +2715,12 @@ W红毯 审美高级（热度：1292311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E6%9A%B4%E4%B9%B1%23" target="weibo">
+印尼暴乱（热度：1234034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E6%9C%80%E5%A4%A7%E7%9A%84%E5%9D%8F%E5%A4%84%E5%B7%B2%E7%BB%8F%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 独居最大的坏处已经出现了（热度：1233758）
 </a>
@@ -3317,12 +3323,6 @@ iPhone17新颜色（热度：1110488）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%AF%8F%E6%AC%A1%E9%83%BD%E9%80%89%E6%8B%A9%E4%BA%86%E4%BA%8B%E4%B8%9A%23" target="weibo">
 许凯每次都选择了事业（热度：1102551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E6%9A%B4%E4%B9%B1%23" target="weibo">
-印尼暴乱（热度：1100690）
 </a>
 </li>
 

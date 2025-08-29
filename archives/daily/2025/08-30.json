@@ -1,9 +1,9 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756485074353,
+  "endTime": 1756485953725,
   "band_list": [
     {
-      "raw_hot": 1100690,
+      "raw_hot": 1234034,
       "num": 198515,
       "word": "印尼暴乱",
       "onboard_time": 1756482384,
@@ -43,12 +43,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378421,
+      "raw_hot": 398857,
       "num": 197927,
       "word": "张真源把工资卡密码交出去了",
       "onboard_time": 1756482384,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 370539,
+      "num": 370539,
+      "word": "不要随便去同学家过夜",
+      "onboard_time": 1756481186,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341374,
+      "num": 341374,
+      "word": "七夕",
+      "onboard_time": 1756471827,
+      "rank": 6,
+      "category": "艺人,情感"
     },
     {
       "raw_hot": 270756,
@@ -75,20 +91,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229240,
-      "num": 199896,
-      "word": "七夕",
-      "onboard_time": 1756471827,
-      "rank": 6,
-      "category": "艺人,情感"
+      "raw_hot": 249826,
+      "num": 249826,
+      "word": "菲方踩踏中方红线必将付出代价",
+      "onboard_time": 1756483224,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 216773,
-      "num": 216773,
-      "word": "不要随便去同学家过夜",
-      "onboard_time": 1756481186,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 201355,
+      "num": 199520,
+      "word": "王源鸟巢上座率",
+      "onboard_time": 1756470503,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 200610,
@@ -105,14 +121,6 @@
       "onboard_time": 1756470385,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190334,
-      "num": 199520,
-      "word": "王源鸟巢上座率",
-      "onboard_time": 1756470503,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 186219,
@@ -147,14 +155,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 155501,
-      "num": 198941,
-      "word": "菲方踩踏中方红线必将付出代价",
-      "onboard_time": 1756483224,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 142830,
       "num": 197175,
       "word": "杨幂复刻爷们儿要脸",
@@ -187,6 +187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106425,
+      "num": 197067,
+      "word": "教育局回应1.4亿元配学生运动手环",
+      "onboard_time": 1756468163,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103104,
       "num": 197095,
       "word": "万斯称已做好就任美国总统的准备",
@@ -195,7 +203,23 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 92801,
+      "raw_hot": 98683,
+      "num": 196981,
+      "word": "薛小婉称快与任权分手",
+      "onboard_time": 1756470744,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 95573,
+      "num": 197075,
+      "word": "边伯贤 我命由我不由天",
+      "onboard_time": 1756482085,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93556,
       "num": 197091,
       "word": "aespa新歌RichMan初舞台",
       "onboard_time": 1756477945,
@@ -211,12 +235,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 91149,
-      "num": 197075,
-      "word": "边伯贤 我命由我不由天",
-      "onboard_time": 1756482085,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 91672,
+      "num": 197141,
+      "word": "王楚钦摸头杀",
+      "onboard_time": 1756481723,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 87484,
@@ -227,23 +251,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87132,
-      "num": 197141,
-      "word": "王楚钦摸头杀",
-      "onboard_time": 1756481723,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 86617,
-      "num": 197067,
-      "word": "教育局回应1.4亿元配学生运动手环",
-      "onboard_time": 1756468163,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85441,
+      "raw_hot": 86503,
       "num": 197036,
       "word": "单依纯晚霞大片",
       "onboard_time": 1756481365,
@@ -257,6 +265,14 @@
       "onboard_time": 1756466484,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 82605,
+      "num": 197061,
+      "word": "全中国抗日时还没有民进党",
+      "onboard_time": 1756482502,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81471,
@@ -291,12 +307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80023,
-      "num": 196981,
-      "word": "薛小婉称快与任权分手",
-      "onboard_time": 1756470744,
-      "rank": 38,
-      "category": "网红"
+      "raw_hot": 80037,
+      "num": 196970,
+      "word": "张杰七夕攒了波大的",
+      "onboard_time": 1756474044,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 79584,
@@ -305,22 +321,6 @@
       "onboard_time": 1756480404,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78683,
-      "num": 196970,
-      "word": "张杰七夕攒了波大的",
-      "onboard_time": 1756474044,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 77672,
-      "num": 197061,
-      "word": "全中国抗日时还没有民进党",
-      "onboard_time": 1756482502,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 74048,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70861,
+      "num": 196917,
+      "word": "原神月之一",
+      "onboard_time": 1756474704,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66444,
       "num": 196932,
       "word": "鹿晗祝大家七夕快乐",
@@ -347,20 +355,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63349,
+      "num": 170332,
+      "word": "爱自己的50种方式",
+      "onboard_time": 1756485082,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 61120,
       "num": 196923,
       "word": "阿里巴巴美股涨超10%",
       "onboard_time": 1756482562,
       "rank": 45,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 60505,
-      "num": 196917,
-      "word": "原神月之一",
-      "onboard_time": 1756474704,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 59917,
@@ -396,11 +404,19 @@
     },
     {
       "raw_hot": 31198,
-      "num": 202866,
+      "num": 346276,
       "word": "礼炮声里的中国排面",
       "onboard_time": 1756467564,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29464,
+      "num": 173281,
+      "word": "园方回应山魈用石头砸碎馆舍玻璃",
+      "onboard_time": 1756482263,
+      "rank": 21,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
