@@ -1,0 +1,410 @@
+{
+  "runTime": 1756459635612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1075657,
+        "num": 1172105,
+        "word": "终于有人吐槽内娱高奢花式title",
+        "onboard_time": 1756454422,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694572,
+        "num": 694572,
+        "word": "美团将全面取消骑手超时罚款",
+        "onboard_time": 1756443503,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10458,
+        "num": 661009,
+        "word": "从中国倡议扩大为国际共识",
+        "onboard_time": 1756435281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 634138,
+        "num": 634138,
+        "word": "原房主跳楼身亡房子1457000元拍出",
+        "onboard_time": 1756457002,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628728,
+        "num": 628728,
+        "word": "一念江南",
+        "onboard_time": 1756452923,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443021,
+        "num": 443021,
+        "word": "多方回应胖东来免费筷子无标签被起诉",
+        "onboard_time": 1756451843,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425221,
+        "num": 425221,
+        "word": "40天婴儿肝硬化00后父亲割肝救女",
+        "onboard_time": 1756457242,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420964,
+        "num": 420964,
+        "word": "泰国总理佩通坦遭解职",
+        "onboard_time": 1756458083,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363012,
+        "num": 363012,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1756457842,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275329,
+        "num": 275329,
+        "word": "什么样的泡面才是最好吃的",
+        "onboard_time": 1756452623,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2063614,
+        "num": 270918,
+        "word": "刘美含 15年10个字52分钟",
+        "onboard_time": 1756440862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1638607,
+        "num": 254620,
+        "word": "老潘财商发声明",
+        "onboard_time": 1756456702,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1069699,
+        "num": 243004,
+        "word": "伊利回应虞书欣代言",
+        "onboard_time": 1756455802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445164,
+        "num": 230509,
+        "word": "宋浩然 赘婿不是人吗",
+        "onboard_time": 1756454122,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221795,
+        "num": 221795,
+        "word": "小蝶退役",
+        "onboard_time": 1756452982,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204274,
+        "num": 204274,
+        "word": "辛巴宣布退网后直播连麦带货",
+        "onboard_time": 1756457543,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197369,
+        "num": 197369,
+        "word": "苏醒回应披哥摆烂",
+        "onboard_time": 1756456222,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185499,
+        "num": 185499,
+        "word": "学霸小孩输在知道得太多",
+        "onboard_time": 1756458623,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172805,
+        "num": 172805,
+        "word": "田曦薇粉色玛丽猫",
+        "onboard_time": 1756458442,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151803,
+        "num": 169401,
+        "word": "始祖鸟4位数徒步鞋不到一周就开胶",
+        "onboard_time": 1756458083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1952989,
+        "num": 169113,
+        "word": "刘美含 张远",
+        "onboard_time": 1756446023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192031,
+        "num": 169028,
+        "word": "九尾七夕手持红玫瑰",
+        "onboard_time": 1756459103,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168312,
+        "num": 168312,
+        "word": "金莎孙丞潇七夕聊天记录",
+        "onboard_time": 1756441044,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161534,
+        "num": 161534,
+        "word": "王楚然美貌不基础打游戏更不基础",
+        "onboard_time": 1756458802,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159176,
+        "num": 159176,
+        "word": "华为上半年收入4270亿",
+        "onboard_time": 1756459162,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153715,
+        "num": 153715,
+        "word": "万斯称若特朗普遇不测已准备好接班",
+        "onboard_time": 1756456882,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153524,
+        "num": 153524,
+        "word": "七夕",
+        "onboard_time": 1756400179,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152799,
+        "num": 152799,
+        "word": "宋丹丹和林永健儿子一起庆生",
+        "onboard_time": 1756449442,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132621,
+        "num": 132621,
+        "word": "顾客起诉胖东来免费筷子无标签",
+        "onboard_time": 1756450042,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29893,
+        "num": 130313,
+        "word": "落石砸车致死案一审未当庭宣判",
+        "onboard_time": 1756458142,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206092,
+        "num": 128341,
+        "word": "法国上万未成年少女从事色情行业",
+        "onboard_time": 1756457783,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195432,
+        "num": 127640,
+        "word": "用了一年九个月还清了24万负债",
+        "onboard_time": 1756459162,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118950,
+        "num": 123210,
+        "word": "保剑锋点外卖都写司马焦",
+        "onboard_time": 1756458264,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122842,
+        "num": 122842,
+        "word": "李兰迪 喀什的风教我跳了一支舞",
+        "onboard_time": 1756453882,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121461,
+        "num": 121461,
+        "word": "宠物喂食器 泄露隐私",
+        "onboard_time": 1756447042,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120265,
+        "num": 120265,
+        "word": "泡泡玛特店员也吐槽迷你Labubu贵",
+        "onboard_time": 1756455142,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 118441,
+        "num": 118441,
+        "word": "张凌赫突然睡醒发七夕快乐",
+        "onboard_time": 1756435221,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10353,
+        "num": 118383,
+        "word": "奥迪回应字母标",
+        "onboard_time": 1756454843,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118364,
+        "num": 118364,
+        "word": "黑悟空取到印度真经了",
+        "onboard_time": 1756459342,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53182,
+        "num": 116978,
+        "word": "外卖备注最后一餐吓得老板让民警送",
+        "onboard_time": 1756459463,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116962,
+        "num": 116962,
+        "word": "关晓彤王牌对王牌造型",
+        "onboard_time": 1756457722,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113834,
+        "num": 113834,
+        "word": "当第一批二次元成为家长后",
+        "onboard_time": 1756457783,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112026,
+        "num": 112026,
+        "word": "外交部回应美在日本部署中导系统",
+        "onboard_time": 1756458861,
+        "rank": 42,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 104668,
+        "num": 111206,
+        "word": "蓝盈莹红裙子红玫瑰",
+        "onboard_time": 1756458264,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118846,
+        "num": 110937,
+        "word": "陶喆大闹鲁豫有约2.0",
+        "onboard_time": 1756453642,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110540,
+        "num": 110540,
+        "word": "普通家庭对女儿最好的托举",
+        "onboard_time": 1756459404,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108049,
+        "num": 108049,
+        "word": "何晟铭 再见了白月光",
+        "onboard_time": 1756440203,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104820,
+        "num": 104820,
+        "word": "马龙好充实的瑞士之旅",
+        "onboard_time": 1756459042,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103071,
+        "num": 103071,
+        "word": "男艺人选秀0镜头回内娱档期爆满",
+        "onboard_time": 1756459584,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102781,
+        "num": 102781,
+        "word": "千万不要盯自己的自拍太久",
+        "onboard_time": 1756457722,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把爱国爱家统一起来#"
+    }
+  }
+}

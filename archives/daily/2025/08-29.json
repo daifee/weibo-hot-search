@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756457162867,
+  "endTime": 1756459635612,
   "band_list": [
     {
       "raw_hot": 3816701,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1638607,
+      "num": 254620,
+      "word": "老潘财商发声明",
+      "onboard_time": 1756456702,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1473371,
       "num": 1473371,
       "word": "美团将全面取消骑手超时罚款",
@@ -91,20 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1075657,
+      "num": 1172105,
+      "word": "终于有人吐槽内娱高奢花式title",
+      "onboard_time": 1756454422,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1069699,
+      "num": 258245,
+      "word": "伊利回应虞书欣代言",
+      "onboard_time": 1756455802,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1043382,
       "num": 325945,
       "word": "性单恋",
       "onboard_time": 1756439662,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 951490,
-      "num": 258245,
-      "word": "伊利回应虞书欣代言",
-      "onboard_time": 1756455802,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 941621,
@@ -163,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 681422,
-      "num": 202346,
-      "word": "老潘财商发声明",
-      "onboard_time": 1756456702,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 654769,
       "num": 258658,
       "word": "宋浩然 赘婿不是人吗",
@@ -201,6 +209,14 @@
       "onboard_time": 1756425682,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 634138,
+      "num": 634138,
+      "word": "原房主跳楼身亡房子1457000元拍出",
+      "onboard_time": 1756457002,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 627971,
@@ -371,6 +387,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425221,
+      "num": 425221,
+      "word": "40天婴儿肝硬化00后父亲割肝救女",
+      "onboard_time": 1756457242,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420964,
+      "num": 420964,
+      "word": "泰国总理佩通坦遭解职",
+      "onboard_time": 1756458083,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 411552,
       "num": 324489,
       "word": "蔡明 不跟前辈打个招呼请个安吗",
@@ -425,6 +457,14 @@
       "onboard_time": 1756379902,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363012,
+      "num": 363012,
+      "word": "中共中央政治局召开会议",
+      "onboard_time": 1756457842,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 361270,
@@ -779,12 +819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206092,
+      "num": 128341,
+      "word": "法国上万未成年少女从事色情行业",
+      "onboard_time": 1756457783,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 205783,
       "num": 205783,
       "word": "泰版三十而已看上头了",
       "onboard_time": 1756425860,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204274,
+      "num": 204274,
+      "word": "辛巴宣布退网后直播连麦带货",
+      "onboard_time": 1756457543,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 204207,
@@ -851,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197369,
+      "num": 197369,
+      "word": "苏醒回应披哥摆烂",
+      "onboard_time": 1756456222,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197051,
       "num": 197051,
       "word": "这一秒过火",
@@ -875,6 +939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 195432,
+      "num": 127640,
+      "word": "用了一年九个月还清了24万负债",
+      "onboard_time": 1756459162,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195384,
       "num": 195384,
       "word": "张凌赫田曦薇拍立得",
@@ -891,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194931,
-      "num": 194931,
-      "word": "终于有人吐槽内娱高奢花式title",
-      "onboard_time": 1756454422,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194821,
       "num": 194821,
       "word": "尚公主我要七夕物料",
@@ -913,6 +977,14 @@
       "onboard_time": 1756441343,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192031,
+      "num": 169028,
+      "word": "九尾七夕手持红玫瑰",
+      "onboard_time": 1756459103,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 191692,
@@ -1003,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185499,
+      "num": 185499,
+      "word": "学霸小孩输在知道得太多",
+      "onboard_time": 1756458623,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184862,
       "num": 184862,
       "word": "欧冠联赛",
@@ -1083,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172805,
+      "num": 172805,
+      "word": "田曦薇粉色玛丽猫",
+      "onboard_time": 1756458442,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172063,
       "num": 172063,
       "word": "张镇麟加盟上海男篮",
@@ -1147,12 +1235,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161396,
-      "num": 192675,
-      "word": "苏醒回应披哥摆烂",
-      "onboard_time": 1756456222,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 161534,
+      "num": 161534,
+      "word": "王楚然美貌不基础打游戏更不基础",
+      "onboard_time": 1756458802,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159176,
+      "num": 159176,
+      "word": "华为上半年收入4270亿",
+      "onboard_time": 1756459162,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 158646,
@@ -1211,12 +1307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153715,
+      "num": 153715,
+      "word": "万斯称若特朗普遇不测已准备好接班",
+      "onboard_time": 1756456882,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153388,
       "num": 153388,
       "word": "坐12万一把的椅子什么感觉",
       "onboard_time": 1756431861,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151803,
+      "num": 169401,
+      "word": "始祖鸟4位数徒步鞋不到一周就开胶",
+      "onboard_time": 1756458083,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149809,
@@ -1595,14 +1707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125758,
-      "num": 125758,
-      "word": "原房主跳楼身亡房子1457000元拍出",
-      "onboard_time": 1756457002,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125400,
       "num": 144648,
       "word": "医学女博士走上阅兵场",
@@ -1667,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122842,
+      "num": 122842,
+      "word": "李兰迪 喀什的风教我跳了一支舞",
+      "onboard_time": 1756453882,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122271,
       "num": 122271,
       "word": "寒武纪大跌超10%",
@@ -1691,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120265,
+      "num": 120265,
+      "word": "泡泡玛特店员也吐槽迷你Labubu贵",
+      "onboard_time": 1756455142,
+      "rank": 33,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 120137,
       "num": 131438,
       "word": "张晚意这集在成毅身上见过",
@@ -1707,20 +1827,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119794,
-      "num": 119794,
-      "word": "泡泡玛特店员也吐槽迷你Labubu贵",
-      "onboard_time": 1756455142,
-      "rank": 33,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 119252,
       "num": 119252,
       "word": "七夕就这样官宣",
       "onboard_time": 1756392924,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118950,
+      "num": 123210,
+      "word": "保剑锋点外卖都写司马焦",
+      "onboard_time": 1756458264,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 118937,
@@ -1737,6 +1857,14 @@
       "onboard_time": 1756445183,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118364,
+      "num": 118364,
+      "word": "黑悟空取到印度真经了",
+      "onboard_time": 1756459342,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 117955,
@@ -1771,12 +1899,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117244,
-      "num": 117244,
-      "word": "万斯称若特朗普遇不测已准备好接班",
-      "onboard_time": 1756456882,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 116962,
+      "num": 116962,
+      "word": "关晓彤王牌对王牌造型",
+      "onboard_time": 1756457722,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 116192,
@@ -1843,6 +1971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113834,
+      "num": 113834,
+      "word": "当第一批二次元成为家长后",
+      "onboard_time": 1756457783,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 113071,
       "num": 113071,
       "word": "刘浩存主动给刘昊然打招呼",
@@ -1857,6 +1993,22 @@
       "onboard_time": 1756453103,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112026,
+      "num": 112026,
+      "word": "外交部回应美在日本部署中导系统",
+      "onboard_time": 1756458861,
+      "rank": 42,
+      "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 110540,
+      "num": 110540,
+      "word": "普通家庭对女儿最好的托举",
+      "onboard_time": 1756459404,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 110281,
@@ -2036,7 +2188,7 @@
     },
     {
       "raw_hot": 105535,
-      "num": 294574,
+      "num": 661009,
       "word": "从中国倡议扩大为国际共识",
       "onboard_time": 1756435281,
       "rank": 9,
@@ -2049,6 +2201,22 @@
       "onboard_time": 1756453522,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 104820,
+      "num": 104820,
+      "word": "马龙好充实的瑞士之旅",
+      "onboard_time": 1756459042,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104668,
+      "num": 111206,
+      "word": "蓝盈莹红裙子红玫瑰",
+      "onboard_time": 1756458264,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 104574,
@@ -2081,6 +2249,22 @@
       "onboard_time": 1756452743,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103071,
+      "num": 103071,
+      "word": "男艺人选秀0镜头回内娱档期爆满",
+      "onboard_time": 1756459584,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102781,
+      "num": 102781,
+      "word": "千万不要盯自己的自拍太久",
+      "onboard_time": 1756457722,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 101224,
@@ -2619,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53182,
+      "num": 116978,
+      "word": "外卖备注最后一餐吓得老板让民警送",
+      "onboard_time": 1756459463,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53074,
       "num": 108310,
       "word": "梁王组合止步世锦赛16强",
@@ -2883,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29893,
+      "num": 130313,
+      "word": "落石砸车致死案一审未当庭宣判",
+      "onboard_time": 1756458142,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24805,
       "num": 24805,
       "word": "家人称金子涵没生病",
@@ -3001,6 +3201,9 @@
     },
     {
       "word": "#众行致远#"
+    },
+    {
+      "word": "#要把爱国爱家统一起来#"
     }
   ]
 }
