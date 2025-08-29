@@ -1,6 +1,6 @@
 {
   "startTime": 1756398725036,
-  "endTime": 1756467463414,
+  "endTime": 1756471806529,
   "band_list": [
     {
       "raw_hot": 3816701,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1815748,
-      "num": 182399,
+      "num": 224450,
       "word": "刘美含张远 为什么不来娶我",
       "onboard_time": 1756464743,
       "rank": 11,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 755584,
+      "num": 1120893,
+      "word": "华晨宇七夕准备了8万朵玫瑰花",
+      "onboard_time": 1756464985,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 706079,
       "num": 871323,
       "word": "labubu",
@@ -225,6 +233,14 @@
       "onboard_time": 1756440923,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 687458,
+      "num": 370729,
+      "word": "男主疯了男二死了男三黑化",
+      "onboard_time": 1756468282,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 654769,
@@ -435,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 451280,
-      "num": 256600,
-      "word": "华晨宇七夕准备了8万朵玫瑰花",
-      "onboard_time": 1756464985,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 444074,
       "num": 234786,
       "word": "虞书欣父亲委托起诉老潘财商",
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365631,
+      "num": 365631,
+      "word": "湖南一患绝症老人多次猥亵女性",
+      "onboard_time": 1756465882,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363012,
       "num": 363012,
       "word": "中共中央政治局召开会议",
@@ -587,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323213,
+      "num": 323213,
+      "word": "日本厕纸",
+      "onboard_time": 1756463303,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 323131,
       "num": 286014,
       "word": "宋威龙赵今麦吻戏",
@@ -617,6 +641,14 @@
       "onboard_time": 1756424122,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304420,
+      "num": 304420,
+      "word": "秦彻共酣",
+      "onboard_time": 1756469424,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 303131,
@@ -699,12 +731,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 285643,
+      "num": 285643,
+      "word": "鹿晗橘色狼尾",
+      "onboard_time": 1756469544,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 284417,
+      "num": 217312,
+      "word": "原来这是躯体化",
+      "onboard_time": 1756464322,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 283950,
       "num": 192163,
       "word": "承认吧演员多读书有用",
       "onboard_time": 1756381283,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280965,
+      "num": 215944,
+      "word": "孕妇坠崖案当事人仍无法离婚",
+      "onboard_time": 1756471222,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275044,
@@ -819,6 +875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239603,
+      "num": 239603,
+      "word": "教育局回应1.4亿元配学生运动手环",
+      "onboard_time": 1756468163,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237868,
       "num": 237868,
       "word": "胡静谈与朱兆祥17年婚姻",
@@ -849,6 +913,14 @@
       "onboard_time": 1756433482,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225174,
+      "num": 225174,
+      "word": "斗罗大陆",
+      "onboard_time": 1756468343,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 219197,
@@ -889,6 +961,14 @@
       "onboard_time": 1756444284,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213371,
+      "num": 213371,
+      "word": "薛小婉称快与任权分手",
+      "onboard_time": 1756470744,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 212284,
@@ -953,6 +1033,14 @@
       "onboard_time": 1756439182,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207926,
+      "num": 207926,
+      "word": "王源鸟巢上座率",
+      "onboard_time": 1756470503,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 206758,
@@ -1075,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196422,
+      "num": 196422,
+      "word": "男子转账备注自愿赠与分手起诉返还",
+      "onboard_time": 1756470385,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196352,
       "num": 196352,
       "word": "以山河影像为信告慰抗战英烈",
@@ -1113,6 +1209,22 @@
       "onboard_time": 1756441343,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192637,
+      "num": 192637,
+      "word": "登陆少年官方应援色公开",
+      "onboard_time": 1756470864,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192106,
+      "num": 192106,
+      "word": "苏新皓八音盒",
+      "onboard_time": 1756470323,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 192031,
@@ -1259,6 +1371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181761,
+      "num": 181761,
+      "word": "原来瘦了真的会被区别对待",
+      "onboard_time": 1756464142,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181472,
       "num": 181472,
       "word": "中国海警29日位中国黄岩岛领海及周边区域执法巡查",
@@ -1283,12 +1403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178130,
-      "num": 176327,
-      "word": "原来瘦了真的会被区别对待",
-      "onboard_time": 1756464142,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 177712,
+      "num": 177712,
+      "word": "周深用摩斯密码表白",
+      "onboard_time": 1756470564,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 177639,
@@ -1297,14 +1417,6 @@
       "onboard_time": 1756451783,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176759,
-      "num": 171527,
-      "word": "原来这是躯体化",
-      "onboard_time": 1756464322,
-      "rank": 27,
-      "category": "科学科普"
     },
     {
       "raw_hot": 174325,
@@ -1380,7 +1492,7 @@
     },
     {
       "raw_hot": 168904,
-      "num": 170883,
+      "num": 196689,
       "word": "中芯国际停牌",
       "onboard_time": 1756465582,
       "rank": 28,
@@ -1409,6 +1521,14 @@
       "onboard_time": 1756456882,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165021,
+      "num": 165021,
+      "word": "王嘉尔少打了一个夕",
+      "onboard_time": 1756466723,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 164259,
@@ -1587,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148850,
+      "num": 148850,
+      "word": "以闪亮之名",
+      "onboard_time": 1756470263,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148601,
       "num": 140936,
       "word": "早睡觉能解决80%以上的问题",
@@ -1692,7 +1820,7 @@
     },
     {
       "raw_hot": 142203,
-      "num": 142203,
+      "num": 162717,
       "word": "孙颖莎室内不用戴小头盔",
       "onboard_time": 1756467143,
       "rank": 33,
@@ -1827,6 +1955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137181,
+      "num": 137181,
+      "word": "宋茜李沁私下会交流花少吗",
+      "onboard_time": 1756468462,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136877,
       "num": 136877,
       "word": "今年七夕节本世纪最晚",
@@ -1841,6 +1977,14 @@
       "onboard_time": 1756452501,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135423,
+      "num": 135423,
+      "word": "辛巴直播怒斥初瑞雪",
+      "onboard_time": 1756471283,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 135190,
@@ -1859,12 +2003,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133589,
+      "num": 133589,
+      "word": "伊能静称赞前夫庾澄庆人品很好",
+      "onboard_time": 1756469904,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133082,
       "num": 133082,
       "word": "男子持水杯砸伤女同事被刑拘",
       "onboard_time": 1756415174,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132885,
+      "num": 132885,
+      "word": "轻断食从145斤瘦到95斤",
+      "onboard_time": 1756466484,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 132660,
@@ -2003,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125356,
+      "num": 161820,
+      "word": "少林寺换住持满一月数十名僧人离开",
+      "onboard_time": 1756469964,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125321,
       "num": 125321,
       "word": "星穹铁道风堇贺图",
@@ -2067,12 +2235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123393,
-      "num": 123393,
-      "word": "王嘉尔少打了一个夕",
-      "onboard_time": 1756466723,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 123489,
+      "num": 134438,
+      "word": "黄子弘凡欧阳娜娜七夕星河下对唱",
+      "onboard_time": 1756471523,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 123026,
@@ -2107,14 +2275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122358,
-      "num": 158277,
-      "word": "湖南一患绝症老人多次猥亵女性",
-      "onboard_time": 1756465882,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122271,
       "num": 122271,
       "word": "寒武纪大跌超10%",
@@ -2145,6 +2305,22 @@
       "onboard_time": 1756436723,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120673,
+      "num": 120673,
+      "word": "朱志鑫站姐出图",
+      "onboard_time": 1756470144,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 120662,
+      "num": 120662,
+      "word": "龙血",
+      "onboard_time": 1756471763,
+      "rank": 42,
+      "category": "读书作家"
     },
     {
       "raw_hot": 120566,
@@ -2187,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119833,
+      "num": 119833,
+      "word": "宁艺卓三巡SOLO曲",
+      "onboard_time": 1756469723,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119252,
       "num": 119252,
       "word": "七夕就这样官宣",
@@ -2217,6 +2401,14 @@
       "onboard_time": 1756445183,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118507,
+      "num": 118507,
+      "word": "被清华大学的录取通知书震惊到了",
+      "onboard_time": 1756469303,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 118364,
@@ -2299,6 +2491,14 @@
       "category": "国内时政,休闲"
     },
     {
+      "raw_hot": 115611,
+      "num": 115611,
+      "word": "我家那闺女",
+      "onboard_time": 1756471462,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115460,
       "num": 115460,
       "word": "高群书透露小演员家里特别有钱",
@@ -2313,6 +2513,22 @@
       "onboard_time": 1756384163,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115008,
+      "num": 115008,
+      "word": "唐舞桐常服",
+      "onboard_time": 1756468944,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 114899,
+      "num": 115689,
+      "word": "七夕晚会",
+      "onboard_time": 1756464985,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 114894,
@@ -2377,14 +2593,6 @@
       "onboard_time": 1756464022,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113209,
-      "num": 117618,
-      "word": "轻断食从145斤瘦到95斤",
-      "onboard_time": 1756466484,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 113071,
@@ -3419,6 +3627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47684,
+      "num": 132400,
+      "word": "32岁网红Coser若童因肠癌去世",
+      "onboard_time": 1756470682,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 47299,
       "num": 122789,
       "word": "一年情侣要过多少个节日",
@@ -3457,6 +3673,14 @@
       "onboard_time": 1756423279,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44238,
+      "num": 196539,
+      "word": "MG4暴增1000家售后服务点",
+      "onboard_time": 1756470144,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 44036,
