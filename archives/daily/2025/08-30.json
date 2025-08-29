@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756499193492,
+  "endTime": 1756500009308,
   "band_list": [
     {
       "raw_hot": 1234034,
@@ -195,6 +195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 117605,
+      "num": 50874,
+      "word": "许荔莎说照片不是她拍的",
+      "onboard_time": 1756495514,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106487,
       "num": 197101,
       "word": "鹿晗橘色狼尾",
@@ -209,14 +217,6 @@
       "onboard_time": 1756479804,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 99772,
-      "num": 50874,
-      "word": "许荔莎说照片不是她拍的",
-      "onboard_time": 1756495514,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 98683,
@@ -523,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27151,
+      "num": 27151,
+      "word": "王源演唱会",
+      "onboard_time": 1756499595,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25479,
       "num": 66025,
       "word": "周翊然演技",
@@ -649,6 +657,22 @@
       "onboard_time": 1756477346,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10904,
+      "num": 25825,
+      "word": "将对民进党当局个别人依法追责",
+      "onboard_time": 1756499595,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10454,
+      "num": 25828,
+      "word": "中学师生一起冒雨进行军训汇演",
+      "onboard_time": 1756499714,
+      "rank": 40,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
