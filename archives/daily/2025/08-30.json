@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756507173209,
+  "endTime": 1756509809014,
   "band_list": [
     {
       "raw_hot": 1234034,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 591089,
-      "num": 591089,
+      "num": 807864,
       "word": "陈奕恒暂时离开TF家族",
       "onboard_time": 1756490237,
       "rank": 0,
@@ -75,6 +75,22 @@
       "category": "艺人,情感"
     },
     {
+      "raw_hot": 327995,
+      "num": 476289,
+      "word": "许荔莎说照片不是她拍的",
+      "onboard_time": 1756495514,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 295686,
+      "num": 197052,
+      "word": "加拿大网友问中国有电影院吗",
+      "onboard_time": 1756483283,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 270756,
       "num": 197167,
       "word": "刘美含点赞记录",
@@ -107,20 +123,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 244051,
-      "num": 197052,
-      "word": "加拿大网友问中国有电影院吗",
-      "onboard_time": 1756483283,
+      "raw_hot": 211861,
+      "num": 74973,
+      "word": "韦雪拒绝中年男网友求爱",
+      "onboard_time": 1756502654,
       "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 233644,
-      "num": 476289,
-      "word": "许荔莎说照片不是她拍的",
-      "onboard_time": 1756495514,
-      "rank": 48,
-      "category": "艺人"
+      "category": "网红"
     },
     {
       "raw_hot": 201355,
@@ -171,20 +179,36 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 179797,
+      "num": 197067,
+      "word": "教育局回应1.4亿元配学生运动手环",
+      "onboard_time": 1756468163,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160913,
+      "num": 197095,
+      "word": "万斯称已做好就任美国总统的准备",
+      "onboard_time": 1756479804,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 143864,
+      "num": 143864,
+      "word": "军训暴雨校领导无人离席看会操",
+      "onboard_time": 1756476504,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142830,
       "num": 197175,
       "word": "杨幂复刻爷们儿要脸",
       "onboard_time": 1756477104,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135660,
-      "num": 197067,
-      "word": "教育局回应1.4亿元配学生运动手环",
-      "onboard_time": 1756468163,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135053,
@@ -195,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130657,
-      "num": 49923,
-      "word": "韦雪拒绝中年男网友求爱",
-      "onboard_time": 1756502654,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 129867,
       "num": 197143,
       "word": "日本厕纸",
@@ -211,20 +227,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 110562,
+      "num": 197026,
+      "word": "轻断食从145斤瘦到95斤",
+      "onboard_time": 1756466484,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 106487,
       "num": 197101,
       "word": "鹿晗橘色狼尾",
       "onboard_time": 1756469544,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103104,
-      "num": 197095,
-      "word": "万斯称已做好就任美国总统的准备",
-      "onboard_time": 1756479804,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 98683,
@@ -291,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85256,
-      "num": 197026,
-      "word": "轻断食从145斤瘦到95斤",
-      "onboard_time": 1756466484,
-      "rank": 33,
-      "category": "运动健身"
+      "raw_hot": 84409,
+      "num": 61400,
+      "word": "健康睡眠4个黄金标准",
+      "onboard_time": 1756505417,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 82605,
@@ -339,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80340,
+      "num": 80340,
+      "word": "李在明送给特朗普一艘龟船",
+      "onboard_time": 1756509257,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80037,
       "num": 196970,
       "word": "张杰七夕攒了波大的",
@@ -379,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66788,
+      "num": 66788,
+      "word": "高薪育儿嫂不懂奶瓶消毒",
+      "onboard_time": 1756505114,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66444,
       "num": 196932,
       "word": "鹿晗祝大家七夕快乐",
@@ -393,6 +425,14 @@
       "onboard_time": 1756485082,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62842,
+      "num": 102290,
+      "word": "黄圣依就差把心疼写在脸上了",
+      "onboard_time": 1756475964,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 61120,
@@ -435,12 +475,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 51557,
-      "num": 102144,
-      "word": "军训暴雨校领导无人离席看会操",
-      "onboard_time": 1756476504,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 46026,
+      "num": 46026,
+      "word": "秋天这样吃给身体补津液",
+      "onboard_time": 1756509078,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 43914,
@@ -491,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38726,
+      "num": 46023,
+      "word": "2个动作改善圆肩驼背",
+      "onboard_time": 1756509257,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 35378,
       "num": 111461,
       "word": "美防长提议通话后中方已读未回",
@@ -499,20 +547,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 34738,
-      "num": 102290,
-      "word": "黄圣依就差把心疼写在脸上了",
-      "onboard_time": 1756475964,
-      "rank": 46,
+      "raw_hot": 32879,
+      "num": 46939,
+      "word": "何广智预测自己是脱友冠军",
+      "onboard_time": 1756494195,
+      "rank": 43,
       "category": "综艺"
     },
     {
-      "raw_hot": 34414,
-      "num": 43226,
-      "word": "健康睡眠4个黄金标准",
-      "onboard_time": 1756505417,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 32411,
+      "num": 47048,
+      "word": "尼坤怎么肿成这样",
+      "onboard_time": 1756494315,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 31198,
@@ -521,6 +569,14 @@
       "onboard_time": 1756467564,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30747,
+      "num": 46012,
+      "word": "中学师生一起冒雨进行军训汇演",
+      "onboard_time": 1756499714,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29464,
@@ -547,12 +603,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26799,
-      "num": 47048,
-      "word": "尼坤怎么肿成这样",
-      "onboard_time": 1756494315,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 26067,
+      "num": 55493,
+      "word": "抗战胜利80周年",
+      "onboard_time": 1756490957,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25479,
@@ -619,14 +675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 22238,
-      "num": 46939,
-      "word": "何广智预测自己是脱友冠军",
-      "onboard_time": 1756494195,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20616,
       "num": 47043,
       "word": "一周年基础张泽禹就不基础",
@@ -635,36 +683,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19961,
-      "num": 41876,
-      "word": "中学师生一起冒雨进行军训汇演",
-      "onboard_time": 1756499714,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19491,
       "num": 47001,
       "word": "我不想开学 我一直在哭",
       "onboard_time": 1756489818,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19350,
-      "num": 41748,
-      "word": "高薪育儿嫂不懂奶瓶消毒",
-      "onboard_time": 1756505114,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19178,
-      "num": 55493,
-      "word": "抗战胜利80周年",
-      "onboard_time": 1756490957,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16501,
