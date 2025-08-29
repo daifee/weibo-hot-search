@@ -1,0 +1,410 @@
+{
+  "runTime": 1756478538810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3015322,
+        "num": 3015322,
+        "word": "王俊凯易烊千玺 王源演唱会",
+        "onboard_time": 1756474165,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 449610,
+        "num": 449610,
+        "word": "日本厕纸",
+        "onboard_time": 1756463303,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35812,
+        "num": 382756,
+        "word": "杨靖宇烈士的歌让人热血沸腾",
+        "onboard_time": 1756476445,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 511273,
+        "num": 366170,
+        "word": "沙溢回应王牌跑男二选一",
+        "onboard_time": 1756474104,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330623,
+        "num": 330623,
+        "word": "AG对战TTG",
+        "onboard_time": 1756467803,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269355,
+        "num": 269355,
+        "word": "被清华大学的录取通知书震惊到了",
+        "onboard_time": 1756469303,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 422759,
+        "num": 256838,
+        "word": "咸鱼飞升",
+        "onboard_time": 1756472905,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367495,
+        "num": 252434,
+        "word": "男主疯了男二死了男三黑化",
+        "onboard_time": 1756468282,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222011,
+        "num": 222011,
+        "word": "美团将全面取消骑手超时罚款",
+        "onboard_time": 1756443503,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212535,
+        "num": 212535,
+        "word": "原神月之一",
+        "onboard_time": 1756474704,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 895158,
+        "num": 212367,
+        "word": "刘美含张远 为什么不来娶我",
+        "onboard_time": 1756464743,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 727789,
+        "num": 212000,
+        "word": "男子转账备注自愿赠与分手起诉返还",
+        "onboard_time": 1756470385,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468897,
+        "num": 211850,
+        "word": "孕妇坠崖案当事人仍无法离婚",
+        "onboard_time": 1756471222,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422847,
+        "num": 211383,
+        "word": "建议大家要少发朋友圈",
+        "onboard_time": 1756462162,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23549,
+        "num": 211111,
+        "word": "用智搜预测脱友2冠军",
+        "onboard_time": 1756477346,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330680,
+        "num": 210837,
+        "word": "薛小婉称快与任权分手",
+        "onboard_time": 1756470744,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304182,
+        "num": 210511,
+        "word": "王源鸟巢上座率",
+        "onboard_time": 1756470503,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296229,
+        "num": 210437,
+        "word": "田曦薇 今天有见到喜欢的人",
+        "onboard_time": 1756475423,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193487,
+        "num": 209970,
+        "word": "脱口秀演员抄袭在美国会怎么样",
+        "onboard_time": 1756476385,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 178759,
+        "num": 209699,
+        "word": "湖南一患绝症老人多次猥亵女性",
+        "onboard_time": 1756465882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1209939,
+        "num": 209503,
+        "word": "苏有朋道歉",
+        "onboard_time": 1756463422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860392,
+        "num": 209165,
+        "word": "华晨宇七夕准备了8万朵玫瑰花",
+        "onboard_time": 1756464985,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291048,
+        "num": 208763,
+        "word": "七夕",
+        "onboard_time": 1756471827,
+        "rank": 22,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 288740,
+        "num": 208560,
+        "word": "杨幂复刻爷们儿要脸",
+        "onboard_time": 1756477104,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239542,
+        "num": 208202,
+        "word": "李菁菁瘦到认不出",
+        "onboard_time": 1756472664,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196461,
+        "num": 207920,
+        "word": "原神五星命之座免费拿",
+        "onboard_time": 1756477765,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236598,
+        "num": 207638,
+        "word": "鹿晗祝大家七夕快乐",
+        "onboard_time": 1756475725,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162426,
+        "num": 207245,
+        "word": "教育局回应1.4亿元配学生运动手环",
+        "onboard_time": 1756468163,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155446,
+        "num": 207086,
+        "word": "北京晚霞",
+        "onboard_time": 1756465763,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92094,
+        "num": 206608,
+        "word": "北京七夕限定版超级霞美绝了",
+        "onboard_time": 1756478425,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157198,
+        "num": 206447,
+        "word": "原神菲林斯",
+        "onboard_time": 1756477706,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213219,
+        "num": 206012,
+        "word": "黄子韬手机里都不一定有这么帅的照片",
+        "onboard_time": 1756477465,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205941,
+        "num": 205941,
+        "word": "原神",
+        "onboard_time": 1756468222,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197887,
+        "num": 197887,
+        "word": "田柾国直播",
+        "onboard_time": 1756477825,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98022,
+        "num": 189550,
+        "word": "CPB檀健次七夕直播",
+        "onboard_time": 1756472664,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184566,
+        "num": 184566,
+        "word": "aespa新歌RichMan初舞台",
+        "onboard_time": 1756477945,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181835,
+        "num": 181835,
+        "word": "黄圣依就差把心疼写在脸上了",
+        "onboard_time": 1756475964,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177291,
+        "num": 177291,
+        "word": "王鹤棣方要求窃听录音私生公开道歉",
+        "onboard_time": 1756476504,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157741,
+        "num": 157741,
+        "word": "张杰七夕攒了波大的",
+        "onboard_time": 1756474044,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156545,
+        "num": 156545,
+        "word": "苏新皓是风动还是我心动",
+        "onboard_time": 1756478126,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152120,
+        "num": 152120,
+        "word": "原神空月之歌呈示PV",
+        "onboard_time": 1756477885,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148955,
+        "num": 148955,
+        "word": "被王楚然的阿狸香晕了",
+        "onboard_time": 1756476805,
+        "rank": 41,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 147685,
+        "num": 147685,
+        "word": "刘美含点赞记录",
+        "onboard_time": 1756478306,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122883,
+        "num": 144667,
+        "word": "蒯曼3比2张本美和",
+        "onboard_time": 1756474765,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143845,
+        "num": 143845,
+        "word": "张极转圈饭撒都不白来",
+        "onboard_time": 1756478365,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143364,
+        "num": 143364,
+        "word": "鹿晗橘色狼尾",
+        "onboard_time": 1756469544,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142884,
+        "num": 142884,
+        "word": "朱志鑫solo",
+        "onboard_time": 1756476385,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132628,
+        "num": 132628,
+        "word": "毛晓彤抢发工作室的图",
+        "onboard_time": 1756478306,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130885,
+        "num": 130885,
+        "word": "轻断食从145斤瘦到95斤",
+        "onboard_time": 1756466484,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130593,
+        "num": 130593,
+        "word": "原来这是躯体化",
+        "onboard_time": 1756464322,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把爱国爱家统一起来#"
+    }
+  }
+}

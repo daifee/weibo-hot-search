@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756477465748,
+  "endTime": 1756478538810,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3015322,
+      "num": 3015322,
+      "word": "王俊凯易烊千玺 王源演唱会",
+      "onboard_time": 1756474165,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2988874,
       "num": 2988874,
       "word": "卫健委最新通报肖某董某莹事件",
@@ -545,14 +553,6 @@
       "onboard_time": 1754453542,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2906159,
-      "num": 2906159,
-      "word": "王俊凯易烊千玺 王源演唱会",
-      "onboard_time": 1756474165,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 2874221,
@@ -6547,7 +6547,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 860058,
+      "raw_hot": 860392,
       "num": 1135682,
       "word": "华晨宇七夕准备了8万朵玫瑰花",
       "onboard_time": 1756464985,
@@ -14051,6 +14051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 511273,
+      "num": 366170,
+      "word": "沙溢回应王牌跑男二选一",
+      "onboard_time": 1756474104,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 510884,
       "num": 239012,
       "word": "许荔莎询问许凯家暴真假",
@@ -14409,14 +14417,6 @@
       "onboard_time": 1754994143,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 497793,
-      "num": 252729,
-      "word": "沙溢回应王牌跑男二选一",
-      "onboard_time": 1756474104,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 497627,
@@ -16105,6 +16105,14 @@
       "onboard_time": 1755655462,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 449610,
+      "num": 449610,
+      "word": "日本厕纸",
+      "onboard_time": 1756463303,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 449604,
@@ -20523,14 +20531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 351551,
-      "num": 351551,
-      "word": "日本厕纸",
-      "onboard_time": 1756463303,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 351536,
       "num": 351536,
       "word": "明天立秋和夏天好好道个别",
@@ -21497,6 +21497,14 @@
       "onboard_time": 1756105704,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 330623,
+      "num": 330623,
+      "word": "AG对战TTG",
+      "onboard_time": 1756467803,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 330459,
@@ -23587,6 +23595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296229,
+      "num": 230677,
+      "word": "田曦薇 今天有见到喜欢的人",
+      "onboard_time": 1756475423,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296172,
       "num": 296172,
       "word": "叠纸称PV皆为研发录制",
@@ -24041,6 +24057,14 @@
       "onboard_time": 1755099384,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288740,
+      "num": 208560,
+      "word": "杨幂复刻爷们儿要脸",
+      "onboard_time": 1756477104,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 288707,
@@ -25433,6 +25457,14 @@
       "onboard_time": 1754359942,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269355,
+      "num": 269355,
+      "word": "被清华大学的录取通知书震惊到了",
+      "onboard_time": 1756469303,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 269341,
@@ -27411,14 +27443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246683,
-      "num": 230677,
-      "word": "田曦薇 今天有见到喜欢的人",
-      "onboard_time": 1756475423,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246635,
       "num": 246635,
       "word": "七千的苹果我只玩了两千",
@@ -27883,14 +27907,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 242148,
-      "num": 265074,
-      "word": "被清华大学的录取通知书震惊到了",
-      "onboard_time": 1756469303,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 242120,
       "num": 242120,
       "word": "安静公主说还要做第五次手术",
@@ -28203,6 +28219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239542,
+      "num": 208202,
+      "word": "李菁菁瘦到认不出",
+      "onboard_time": 1756472664,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239519,
       "num": 458356,
       "word": "美国B2轰炸机飞过普京有何深意",
@@ -28457,6 +28481,14 @@
       "onboard_time": 1756094603,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236598,
+      "num": 207638,
+      "word": "鹿晗祝大家七夕快乐",
+      "onboard_time": 1756475725,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 236513,
@@ -31611,6 +31643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213219,
+      "num": 206012,
+      "word": "黄子韬手机里都不一定有这么帅的照片",
+      "onboard_time": 1756477465,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213146,
       "num": 213146,
       "word": "刘轩丞杂志",
@@ -33939,14 +33979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203148,
-      "num": 203148,
-      "word": "鹿晗祝大家七夕快乐",
-      "onboard_time": 1756475725,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203125,
       "num": 203125,
       "word": "内娱百花齐放",
@@ -35651,6 +35683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197887,
+      "num": 197887,
+      "word": "田柾国直播",
+      "onboard_time": 1756477825,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197868,
       "num": 197868,
       "word": "游泳世锦赛",
@@ -36227,14 +36267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196521,
-      "num": 196521,
-      "word": "李菁菁瘦到认不出",
-      "onboard_time": 1756472664,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196514,
       "num": 196514,
       "word": "马思纯晒合照",
@@ -36265,6 +36297,14 @@
       "onboard_time": 1754364623,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196461,
+      "num": 207920,
+      "word": "原神五星命之座免费拿",
+      "onboard_time": 1756477765,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 196459,
@@ -37099,14 +37139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194255,
-      "num": 194255,
-      "word": "杨幂复刻爷们儿要脸",
-      "onboard_time": 1756477104,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194246,
       "num": 194246,
       "word": "东极岛首映口碑",
@@ -37417,6 +37449,14 @@
       "onboard_time": 1754662406,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193487,
+      "num": 209970,
+      "word": "脱口秀演员抄袭在美国会怎么样",
+      "onboard_time": 1756476385,
+      "rank": 45,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 193466,
@@ -40483,6 +40523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184566,
+      "num": 184566,
+      "word": "aespa新歌RichMan初舞台",
+      "onboard_time": 1756477945,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184501,
       "num": 184501,
       "word": "沈梦辰成功追星王力宏",
@@ -41289,6 +41337,14 @@
       "onboard_time": 1756349662,
       "rank": 36,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 181835,
+      "num": 181835,
+      "word": "黄圣依就差把心疼写在脸上了",
+      "onboard_time": 1756475964,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 181814,
@@ -42905,14 +42961,6 @@
       "onboard_time": 1754190743,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176389,
-      "num": 176389,
-      "word": "黄圣依就差把心疼写在脸上了",
-      "onboard_time": 1756475964,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 176379,
@@ -50531,6 +50579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156545,
+      "num": 156545,
+      "word": "苏新皓是风动还是我心动",
+      "onboard_time": 1756478126,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156533,
       "num": 156533,
       "word": "基孔肯雅热",
@@ -52507,6 +52563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152120,
+      "num": 152120,
+      "word": "原神空月之歌呈示PV",
+      "onboard_time": 1756477885,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152112,
       "num": 152112,
       "word": "爹娘趁我不在替我娶回crush",
@@ -54443,14 +54507,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 147937,
-      "num": 147937,
-      "word": "AG对战TTG",
-      "onboard_time": 1756467803,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147918,
       "num": 147918,
       "word": "RIIZE致敬EXO",
@@ -54561,6 +54617,14 @@
       "onboard_time": 1756016781,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147685,
+      "num": 147685,
+      "word": "刘美含点赞记录",
+      "onboard_time": 1756478306,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 147667,
@@ -56529,6 +56593,14 @@
       "onboard_time": 1755592523,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143845,
+      "num": 143845,
+      "word": "张极转圈饭撒都不白来",
+      "onboard_time": 1756478365,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 143822,
@@ -62827,6 +62899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132628,
+      "num": 132628,
+      "word": "毛晓彤抢发工作室的图",
+      "onboard_time": 1756478306,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132618,
       "num": 160128,
       "word": "台湾大罢免 无一通过",
@@ -65665,14 +65745,6 @@
       "onboard_time": 1754116461,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128013,
-      "num": 128013,
-      "word": "脱口秀演员抄袭在美国会怎么样",
-      "onboard_time": 1756476385,
-      "rank": 45,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 128007,
@@ -82035,6 +82107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98022,
+      "num": 273750,
+      "word": "CPB檀健次七夕直播",
+      "onboard_time": 1756472664,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98005,
       "num": 299943,
       "word": "马嘉祺应该还是i人",
@@ -84433,6 +84513,14 @@
       "onboard_time": 1755933142,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92094,
+      "num": 206608,
+      "word": "北京七夕限定版超级霞美绝了",
+      "onboard_time": 1756478425,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92053,
@@ -97523,14 +97611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36228,
-      "num": 273750,
-      "word": "CPB檀健次七夕直播",
-      "onboard_time": 1756472664,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36206,
       "num": 197692,
       "word": "全智贤还是太全面了",
@@ -97625,6 +97705,14 @@
       "onboard_time": 1756279943,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35812,
+      "num": 382756,
+      "word": "杨靖宇烈士的歌让人热血沸腾",
+      "onboard_time": 1756476445,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35786,
@@ -100547,14 +100635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24207,
-      "num": 304946,
-      "word": "杨靖宇烈士的歌让人热血沸腾",
-      "onboard_time": 1756476445,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 24163,
       "num": 201129,
       "word": "当地称砌墙占200平大堂业主有产权",
@@ -100713,6 +100793,14 @@
       "onboard_time": 1754503696,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23549,
+      "num": 211111,
+      "word": "用智搜预测脱友2冠军",
+      "onboard_time": 1756477346,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 23470,
@@ -103209,14 +103297,6 @@
       "onboard_time": 1754646502,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5848,
-      "num": 158540,
-      "word": "用智搜预测脱友2冠军",
-      "onboard_time": 1756477346,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 5818,
