@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756460431834,
+  "endTime": 1756463259840,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 3816701,
-      "num": 258799,
+      "num": 263739,
       "word": "刘美含 张远",
       "onboard_time": 1756446023,
       "rank": 15,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1638607,
-      "num": 256115,
+      "num": 260697,
       "word": "老潘财商发声明",
       "onboard_time": 1756456702,
       "rank": 12,
@@ -1235,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 855813,
+      "num": 1136930,
+      "word": "原房主跳楼身亡房子1457000元拍出",
+      "onboard_time": 1756457002,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 852297,
       "num": 316461,
       "word": "何晟铭透露离开电视圈原因",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1756006581,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 838116,
+      "num": 254323,
+      "word": "虞书欣家人相关事件应成立调查组",
+      "onboard_time": 1756460362,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 826055,
@@ -1985,14 +2001,6 @@
       "onboard_time": 1756220967,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 634138,
-      "num": 634138,
-      "word": "原房主跳楼身亡房子1457000元拍出",
-      "onboard_time": 1756457002,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 634111,
@@ -2945,6 +2953,14 @@
       "onboard_time": 1756192342,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495485,
+      "num": 495485,
+      "word": "辛巴宣布退网后直播连麦带货",
+      "onboard_time": 1756457543,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 495344,
@@ -4083,6 +4099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357132,
+      "num": 248658,
+      "word": "用了一年九个月还清了24万负债",
+      "onboard_time": 1756459162,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 357081,
       "num": 357081,
       "word": "女子称被不知名男同事砸头毁容",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1756121662,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316083,
+      "num": 316083,
+      "word": "建议大家要少发朋友圈",
+      "onboard_time": 1756462162,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 314185,
@@ -5387,6 +5419,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 242511,
+      "num": 242511,
+      "word": "花少火到考公圈了",
+      "onboard_time": 1756460722,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241168,
       "num": 258170,
       "word": "深圳特区建立45周年",
@@ -5643,14 +5683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232581,
-      "num": 232581,
-      "word": "辛巴宣布退网后直播连麦带货",
-      "onboard_time": 1756457543,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 232443,
       "num": 232443,
       "word": "吴慷仁邵雨薇约会",
@@ -5827,14 +5859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 221138,
-      "num": 221138,
-      "word": "虞书欣家人相关事件应成立调查组",
-      "onboard_time": 1756460362,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220836,
       "num": 248792,
       "word": "新拍的王楚钦",
@@ -5873,6 +5897,14 @@
       "onboard_time": 1756273822,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219197,
+      "num": 219197,
+      "word": "田曦薇粉色玛丽猫",
+      "onboard_time": 1756458442,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 218865,
@@ -5945,14 +5977,6 @@
       "onboard_time": 1756208662,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216089,
-      "num": 216089,
-      "word": "用了一年九个月还清了24万负债",
-      "onboard_time": 1756459162,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 216064,
@@ -6121,6 +6145,14 @@
       "onboard_time": 1756271424,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211834,
+      "num": 211834,
+      "word": "王楚然美貌不基础打游戏更不基础",
+      "onboard_time": 1756458802,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 211821,
@@ -7099,14 +7131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195386,
-      "num": 216722,
-      "word": "田曦薇粉色玛丽猫",
-      "onboard_time": 1756458442,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195384,
       "num": 195384,
       "word": "张凌赫田曦薇拍立得",
@@ -7201,6 +7225,14 @@
       "onboard_time": 1756052183,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194033,
+      "num": 194033,
+      "word": "彭昱畅第一章回国",
+      "onboard_time": 1756462762,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 193869,
@@ -7793,6 +7825,14 @@
       "onboard_time": 1756051165,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187071,
+      "num": 187071,
+      "word": "建议大家上班一定要打扮自己",
+      "onboard_time": 1756461742,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 186912,
@@ -9123,6 +9163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167258,
+      "num": 167258,
+      "word": "宋亚轩高会",
+      "onboard_time": 1756463002,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167224,
       "num": 167224,
       "word": "坐飞机偶遇刘宇宁刘雨昕刘宇",
@@ -9443,6 +9491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162870,
+      "num": 162870,
+      "word": "陈奕恒和妈妈牵手走机场",
+      "onboard_time": 1756461082,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162868,
       "num": 162868,
       "word": "张骏脱口秀",
@@ -9553,14 +9609,6 @@
       "onboard_time": 1756280485,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161534,
-      "num": 192239,
-      "word": "王楚然美貌不基础打游戏更不基础",
-      "onboard_time": 1756458802,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 161498,
@@ -11579,6 +11627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140776,
+      "num": 140776,
+      "word": "谁将接替佩通坦",
+      "onboard_time": 1756463122,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140586,
       "num": 140586,
       "word": "田曦薇张艺凡 奶牛猫比格犬",
@@ -12739,6 +12795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130852,
+      "num": 127956,
+      "word": "孙佳俊吴彦祖破次元同框",
+      "onboard_time": 1756462641,
+      "rank": 35,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 130847,
       "num": 130847,
       "word": "黄多多高清剧照",
@@ -13411,6 +13475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125368,
+      "num": 142156,
+      "word": "别人不知道R1SE肯定是自愿的",
+      "onboard_time": 1756462102,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125321,
       "num": 125321,
       "word": "星穹铁道风堇贺图",
@@ -13489,6 +13561,14 @@
       "onboard_time": 1756305628,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124977,
+      "num": 124977,
+      "word": "老潘财商未收到法院文书及律师函",
+      "onboard_time": 1756462162,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124798,
@@ -14979,6 +15059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114300,
+      "num": 114300,
+      "word": "aespa三巡",
+      "onboard_time": 1756461323,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114290,
       "num": 114290,
       "word": "知妙七夕快乐",
@@ -15243,6 +15331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111515,
+      "num": 111515,
+      "word": "小鞠婧祎陆映橙去了拉拉队选拔",
+      "onboard_time": 1756461262,
+      "rank": 43,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 111500,
       "num": 111500,
       "word": "95后全职家庭煮夫的真实生活",
@@ -15305,6 +15401,14 @@
       "onboard_time": 1756120343,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 110834,
+      "num": 110834,
+      "word": "严浩翔嘴里是谦卑眼神在挑衅",
+      "onboard_time": 1756460602,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 110821,
@@ -15481,6 +15585,14 @@
       "onboard_time": 1756020682,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108928,
+      "num": 108928,
+      "word": "周翊然王影璐对视把对方看害羞了",
+      "onboard_time": 1756463242,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 108905,
@@ -16281,6 +16393,14 @@
       "onboard_time": 1756099523,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103553,
+      "num": 103553,
+      "word": "猫 还要我再演示一遍吗",
+      "onboard_time": 1756463242,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 103535,
@@ -17299,6 +17419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91139,
+      "num": 162895,
+      "word": "MG4定价6.58万车展杀疯",
+      "onboard_time": 1756460904,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90815,
       "num": 310881,
       "word": "极氪9X座舱满级豪华突破想象",
@@ -18073,6 +18201,14 @@
       "onboard_time": 1756448242,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74312,
+      "num": 154422,
+      "word": "吉祥航空回应在芬兰机场遭擦碰",
+      "onboard_time": 1756461742,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74307,
@@ -19731,6 +19867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45685,
+      "num": 196538,
+      "word": "MG4半固态电池9.98万绝杀",
+      "onboard_time": 1756462822,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45652,
       "num": 148642,
       "word": "俄军飞行员在座舱里挂上了LABUBU",
@@ -20137,6 +20281,14 @@
       "onboard_time": 1756337300,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39704,
+      "num": 116503,
+      "word": "敦促日方深刻反省侵略历史",
+      "onboard_time": 1756457362,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39489,
@@ -20617,6 +20769,14 @@
       "onboard_time": 1756296083,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32442,
+      "num": 102905,
+      "word": "贾冰新代言跟今麦郎董事长当面谈",
+      "onboard_time": 1756461142,
+      "rank": 49,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 32329,
@@ -21129,6 +21289,14 @@
       "onboard_time": 1755976516,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24885,
+      "num": 118630,
+      "word": "袁弘张歆艺的理想生活",
+      "onboard_time": 1756462162,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 24805,
@@ -21889,6 +22057,14 @@
       "onboard_time": 1756289124,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10558,
+      "num": 122404,
+      "word": "如何在简历上写我换了一个灯泡",
+      "onboard_time": 1756462702,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 10512,
