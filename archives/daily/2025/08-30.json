@@ -1,10 +1,10 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756510611938,
+  "endTime": 1756518430825,
   "band_list": [
     {
       "raw_hot": 1234034,
-      "num": 198515,
+      "num": 198661,
       "word": "印尼暴乱",
       "onboard_time": 1756482384,
       "rank": 10,
@@ -19,12 +19,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 624140,
+      "raw_hot": 710415,
+      "num": 1113666,
+      "word": "iPhone17Pro全爆料汇总",
+      "onboard_time": 1756513760,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 688080,
       "num": 807864,
       "word": "陈奕恒暂时离开TF家族",
       "onboard_time": 1756490237,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 676258,
+      "num": 198736,
+      "word": "亲生和亲自生的还是有区别的",
+      "onboard_time": 1756514361,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 557130,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 481686,
-      "num": 197125,
+      "num": 197666,
       "word": "苏有朋道歉",
       "onboard_time": 1756463422,
       "rank": 21,
@@ -51,12 +67,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412895,
+      "num": 201411,
+      "word": "男子16年后偶遇初恋光速订婚",
+      "onboard_time": 1756512619,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398857,
-      "num": 197927,
+      "num": 198235,
       "word": "张真源把工资卡密码交出去了",
       "onboard_time": 1756482384,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 373408,
+      "num": 198628,
+      "word": "孟子义李昀锐尚公主剧组聚餐",
+      "onboard_time": 1756512380,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 370539,
@@ -84,11 +116,19 @@
     },
     {
       "raw_hot": 295686,
-      "num": 197052,
+      "num": 198366,
       "word": "加拿大网友问中国有电影院吗",
       "onboard_time": 1756483283,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 292673,
+      "num": 200749,
+      "word": "苹果三星要求小米停止争议营销",
+      "onboard_time": 1756511180,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 270756,
@@ -123,12 +163,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233149,
+      "num": 198459,
+      "word": "张佳宁送谭松韵粉玫瑰",
+      "onboard_time": 1756515561,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229021,
-      "num": 129894,
+      "num": 197536,
       "word": "韦雪拒绝中年男网友求爱",
       "onboard_time": 1756502654,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 219126,
+      "num": 198435,
+      "word": "李在明送给特朗普一艘龟船",
+      "onboard_time": 1756509257,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 203445,
+      "num": 203445,
+      "word": "教育局回应1.4亿元配学生运动手环",
+      "onboard_time": 1756468163,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201355,
@@ -148,11 +212,19 @@
     },
     {
       "raw_hot": 197175,
-      "num": 197175,
+      "num": 198296,
       "word": "男子转账备注自愿赠与分手起诉返还",
       "onboard_time": 1756470385,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189781,
+      "num": 199448,
+      "word": "特朗普关税措施被裁定为非法",
+      "onboard_time": 1756512260,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186219,
@@ -161,14 +233,6 @@
       "onboard_time": 1756464985,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184367,
-      "num": 197067,
-      "word": "教育局回应1.4亿元配学生运动手环",
-      "onboard_time": 1756468163,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182570,
@@ -195,16 +259,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148665,
-      "num": 148665,
-      "word": "李在明送给特朗普一艘龟船",
-      "onboard_time": 1756509257,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 146069,
-      "num": 146069,
+      "raw_hot": 148755,
+      "num": 198353,
       "word": "军训暴雨校领导无人离席看会操",
       "onboard_time": 1756476504,
       "rank": 48,
@@ -220,11 +276,19 @@
     },
     {
       "raw_hot": 135053,
-      "num": 197159,
+      "num": 197735,
       "word": "男主疯了男二死了男三黑化",
       "onboard_time": 1756468282,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129903,
+      "num": 198200,
+      "word": "女子动车上脱鞋踩座反骂提醒乘客",
+      "onboard_time": 1756513100,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129867,
@@ -232,6 +296,14 @@
       "word": "日本厕纸",
       "onboard_time": 1756463303,
       "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123003,
+      "num": 198142,
+      "word": "越南将给每位公民发10万越南盾",
+      "onboard_time": 1756515261,
+      "rank": 23,
       "category": "海外新闻"
     },
     {
@@ -243,6 +315,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 107743,
+      "num": 198094,
+      "word": "鹿晗七夕晒撕拉片",
+      "onboard_time": 1756514481,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106487,
       "num": 197101,
       "word": "鹿晗橘色狼尾",
@@ -252,11 +332,35 @@
     },
     {
       "raw_hot": 106407,
-      "num": 106407,
+      "num": 197041,
       "word": "高薪育儿嫂不懂奶瓶消毒",
       "onboard_time": 1756505114,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104633,
+      "num": 198029,
+      "word": "一学校被曝一间宿舍住百人",
+      "onboard_time": 1756515261,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104049,
+      "num": 197991,
+      "word": "全国一半的网红都到成都了",
+      "onboard_time": 1756489637,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 101323,
+      "num": 198807,
+      "word": "赖清德否认台湾光复数典忘祖",
+      "onboard_time": 1756516760,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 98683,
@@ -275,8 +379,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95573,
+      "num": 197968,
+      "word": "王楚钦说遭遇高原反应",
+      "onboard_time": 1756514961,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95256,
-      "num": 114397,
+      "num": 197174,
       "word": "苏醒补刀张远爱着爱着爱人不见了",
       "onboard_time": 1756486342,
       "rank": 24,
@@ -284,7 +396,7 @@
     },
     {
       "raw_hot": 93647,
-      "num": 93647,
+      "num": 197292,
       "word": "健康睡眠4个黄金标准",
       "onboard_time": 1756505417,
       "rank": 46,
@@ -323,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87310,
+      "num": 197804,
+      "word": "心累的时候最需要的不是休息",
+      "onboard_time": 1756517240,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86503,
       "num": 197036,
       "word": "单依纯晚霞大片",
@@ -337,6 +457,14 @@
       "onboard_time": 1756482502,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81475,
+      "num": 197772,
+      "word": "西安警方通报女子上厕所遭偷窥",
+      "onboard_time": 1756518021,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 81471,
@@ -379,12 +507,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79954,
+      "num": 197883,
+      "word": "周深是全家人的宝贝",
+      "onboard_time": 1756512619,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 79584,
       "num": 196977,
       "word": "关晓彤王牌9的初舞台",
       "onboard_time": 1756480404,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74311,
+      "num": 197619,
+      "word": "金铲铲",
+      "onboard_time": 1756515142,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 74048,
@@ -411,6 +555,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70634,
+      "num": 197854,
+      "word": "轮椅被大家举起来那一刻的含金量",
+      "onboard_time": 1756491676,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 67493,
+      "num": 197484,
+      "word": "宁艺卓新solo好仙",
+      "onboard_time": 1756517360,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 66444,
       "num": 196932,
       "word": "鹿晗祝大家七夕快乐",
@@ -419,20 +579,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65774,
+      "num": 197349,
+      "word": "小猫不想让人坐它的凳子",
+      "onboard_time": 1756512680,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 63953,
+      "num": 197443,
+      "word": "加密通信软件成境外间谍新掩护",
+      "onboard_time": 1756512800,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63349,
       "num": 170332,
       "word": "爱自己的50种方式",
       "onboard_time": 1756485082,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 63286,
-      "num": 67316,
-      "word": "全国一半的网红都到成都了",
-      "onboard_time": 1756489637,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 62842,
@@ -483,6 +651,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55184,
+      "num": 197150,
+      "word": "鹿晗哄不好芦苇了",
+      "onboard_time": 1756510518,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 53780,
+      "num": 197116,
+      "word": "登陆少年演唱会上座率",
+      "onboard_time": 1756518322,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 47760,
+      "num": 197366,
+      "word": "宋亚轩是真没招了",
+      "onboard_time": 1756517481,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46541,
+      "num": 196894,
+      "word": "陈雨菲晋级世锦赛4强",
+      "onboard_time": 1756514420,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46165,
       "num": 49019,
       "word": "秋天这样吃给身体补津液",
@@ -513,14 +713,6 @@
       "onboard_time": 1756488198,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43220,
-      "num": 65626,
-      "word": "轮椅被大家举起来那一刻的含金量",
-      "onboard_time": 1756491676,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 42147,
@@ -601,14 +793,6 @@
       "onboard_time": 1756482263,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29013,
-      "num": 48831,
-      "word": "鹿晗哄不好芦苇了",
-      "onboard_time": 1756510518,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 27377,
