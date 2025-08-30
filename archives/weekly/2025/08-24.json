@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756564718171,
+  "endTime": 1756567391825,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1755941903,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 925716,
+      "num": 925716,
+      "word": "金价",
+      "onboard_time": 1756564884,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 924232,
@@ -2771,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567156,
+      "num": 265607,
+      "word": "嫂嫂开门我是我哥被拍出来了",
+      "onboard_time": 1756560803,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 566610,
       "num": 228779,
       "word": "男子不满女儿嫁70岁老头雇凶杀婿",
@@ -3449,14 +3465,6 @@
       "onboard_time": 1756195463,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 478042,
-      "num": 215252,
-      "word": "嫂嫂开门我是我哥被拍出来了",
-      "onboard_time": 1756560803,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 476930,
@@ -4244,7 +4252,7 @@
     },
     {
       "raw_hot": 396251,
-      "num": 204199,
+      "num": 264796,
       "word": "李现跳刀马刀马",
       "onboard_time": 1756562965,
       "rank": 22,
@@ -5977,6 +5985,14 @@
       "onboard_time": 1756131685,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 266838,
+      "num": 266838,
+      "word": "王源汪苏泷合唱像晴天像雨天",
+      "onboard_time": 1756564824,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 266296,
@@ -7963,6 +7979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202162,
+      "num": 267357,
+      "word": "苏新皓刀马",
+      "onboard_time": 1756566144,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202135,
       "num": 306291,
       "word": "谁能顶得住杨幂的温柔刀",
@@ -8385,6 +8409,14 @@
       "onboard_time": 1756010302,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196628,
+      "num": 196628,
+      "word": "蓝盈莹生万物战报已更正",
+      "onboard_time": 1756567225,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 196599,
@@ -10011,6 +10043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178315,
+      "num": 178315,
+      "word": "陶喆变成道明喆了",
+      "onboard_time": 1756566444,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178034,
       "num": 316401,
       "word": "警方通报女童被康复机构老师殴打",
@@ -11347,6 +11387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161689,
+      "num": 235070,
+      "word": "多国领导人来华赴上合之约",
+      "onboard_time": 1756563204,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161679,
       "num": 140158,
       "word": "女子疑遭家暴后去世儿子刚上幼儿园",
@@ -11451,6 +11499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160496,
+      "num": 160496,
+      "word": "sexy back",
+      "onboard_time": 1756564763,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160306,
       "num": 250762,
       "word": "火箭军参阅官兵平均1米83",
@@ -11553,6 +11609,14 @@
       "onboard_time": 1756271542,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159395,
+      "num": 159395,
+      "word": "邓紫棋紧急撤回失败",
+      "onboard_time": 1756566323,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 159369,
@@ -12305,6 +12369,14 @@
       "onboard_time": 1756220726,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153698,
+      "num": 153698,
+      "word": "华晨宇 我第一次秀肌肉有点笨拙",
+      "onboard_time": 1756564763,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 153697,
@@ -13875,6 +13947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140918,
+      "num": 140918,
+      "word": "Doinb 爽",
+      "onboard_time": 1756564463,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140829,
       "num": 171847,
       "word": "展轩 玩手机的注意眼睛",
@@ -14020,7 +14100,7 @@
     },
     {
       "raw_hot": 139758,
-      "num": 139758,
+      "num": 159613,
       "word": "陈雨菲被搀扶退场",
       "onboard_time": 1756563863,
       "rank": 36,
@@ -16323,6 +16403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124393,
+      "num": 120217,
+      "word": "檀健次出场即王炸",
+      "onboard_time": 1756565845,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124319,
       "num": 124319,
       "word": "创业板指月涨超24%",
@@ -16817,14 +16905,6 @@
       "onboard_time": 1756032622,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121671,
-      "num": 121671,
-      "word": "Doinb 爽",
-      "onboard_time": 1756564463,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 121579,
@@ -18387,6 +18467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112334,
+      "num": 112334,
+      "word": "庞博嘻哈小北祝贺何广智到长安了",
+      "onboard_time": 1756565242,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112252,
       "num": 117000,
       "word": "张艺凡说自己是桐心薇泯的水印",
@@ -18417,6 +18505,14 @@
       "onboard_time": 1756553421,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112027,
+      "num": 112027,
+      "word": "张极你在sexyback里加了什么",
+      "onboard_time": 1756566684,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 112026,
@@ -19443,6 +19539,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105603,
+      "num": 105603,
+      "word": "左航相依为命上陈小春大师课了吧",
+      "onboard_time": 1756565965,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 105568,
+      "num": 175522,
+      "word": "农村女孩靠摆盘从职校生干到了副教授",
+      "onboard_time": 1756566084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105535,
       "num": 661009,
       "word": "从中国倡议扩大为国际共识",
@@ -19545,14 +19657,6 @@
       "onboard_time": 1756287624,
       "rank": 49,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 104955,
-      "num": 235070,
-      "word": "多国领导人来华赴上合之约",
-      "onboard_time": 1756563204,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104918,
@@ -19769,6 +19873,14 @@
       "onboard_time": 1756481784,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103836,
+      "num": 103836,
+      "word": "原生感的肖战",
+      "onboard_time": 1756566144,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 103709,
@@ -20539,6 +20651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96315,
+      "num": 96315,
+      "word": "日本代表最后一刻取消访美",
+      "onboard_time": 1756565063,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96252,
       "num": 96252,
       "word": "Xiaohai卫冕EWC街霸6冠军",
@@ -20691,6 +20811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94714,
+      "num": 94714,
+      "word": "杜克带一哥来中国了",
+      "onboard_time": 1756567344,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 94564,
       "num": 117065,
       "word": "王楚钦送奥沙利文亲签球拍",
@@ -20731,6 +20859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94335,
+      "num": 94335,
+      "word": "周深耍帅又失败",
+      "onboard_time": 1756565664,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94265,
       "num": 94265,
       "word": "寒武纪跌近7%",
@@ -20769,6 +20905,14 @@
       "onboard_time": 1756474344,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94007,
+      "num": 94007,
+      "word": "高瀚宇你往檀健次哪摸呢",
+      "onboard_time": 1756565664,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 93951,
@@ -22883,6 +23027,14 @@
       "category": "体育,体育"
     },
     {
+      "raw_hot": 64579,
+      "num": 112450,
+      "word": "陈飞宇王影璐情侣装",
+      "onboard_time": 1756566204,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64570,
       "num": 64570,
       "word": "林诗栋上演樊振东式逆转",
@@ -23969,6 +24121,14 @@
       "onboard_time": 1756451183,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49211,
+      "num": 131103,
+      "word": "解决全球性难题的正确答案",
+      "onboard_time": 1756567225,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49192,
@@ -25073,6 +25233,14 @@
       "onboard_time": 1756476445,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35740,
+      "num": 177034,
+      "word": "盲订纵横G700是什么心态",
+      "onboard_time": 1756566382,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 35699,
