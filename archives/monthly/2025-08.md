@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 17:36:35
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 18:23:44
 </p>
 </blockquote>
 <p>
@@ -5415,6 +5415,12 @@ iPhone千万别删的自带软件（热度：835878）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E5%85%A8%E6%98%AF%E7%A2%8E%E6%8E%89%E7%9A%84%E8%BF%94%E6%A0%A1%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
+高铁上全是碎掉的返校大学生（热度：819487）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E8%83%BD%E5%90%A6%E5%8A%A0%E6%8C%82%E5%90%B8%E7%83%9F%E8%BD%A6%E5%8E%A2%23" target="weibo">
 12306回应高铁能否加挂吸烟车厢（热度：819424）
 </a>
@@ -6005,12 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%A7%80%E4%B8%BD%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E4%B8%BA%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%91%E5%A3%B0%23" target="weibo">
 新秀丽工作人员为虞书欣发声（热度：770415）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E7%B2%89%E5%81%B7%E5%81%B7%E6%B6%A8%E4%BA%8639%E5%85%83%23" target="weibo">
-奶粉偷偷涨了39元（热度：770155）
 </a>
 </li>
 
