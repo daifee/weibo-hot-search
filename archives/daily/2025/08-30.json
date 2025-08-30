@@ -1,7 +1,15 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756519617714,
+  "endTime": 1756522900791,
   "band_list": [
+    {
+      "raw_hot": 1762845,
+      "num": 168742,
+      "word": "蓬莱二中通报教师与学生不文明聊天",
+      "onboard_time": 1756518560,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1234034,
       "num": 198661,
@@ -9,14 +17,6 @@
       "onboard_time": 1756482384,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1028039,
-      "num": 133439,
-      "word": "蓬莱二中通报教师与学生不文明聊天",
-      "onboard_time": 1756518560,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 834034,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 530447,
+      "num": 243394,
+      "word": "王源七夕送了二十多万礼物",
+      "onboard_time": 1756521620,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 481686,
       "num": 197666,
       "word": "苏有朋道歉",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 412895,
-      "num": 219732,
+      "num": 223874,
       "word": "男子16年后偶遇初恋光速订婚",
       "onboard_time": 1756512619,
       "rank": 3,
@@ -132,11 +140,19 @@
     },
     {
       "raw_hot": 292673,
-      "num": 219073,
+      "num": 236505,
       "word": "苹果三星要求小米停止争议营销",
       "onboard_time": 1756511180,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 285472,
+      "num": 167818,
+      "word": "主人回应狗狗靠捡瓶子存款过万",
+      "onboard_time": 1756519099,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270756,
@@ -171,7 +187,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 249826,
+      "raw_hot": 250888,
       "num": 841566,
       "word": "菲方踩踏中方红线必将付出代价",
       "onboard_time": 1756483224,
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188328,
+      "num": 188328,
+      "word": "不要在喝水的时候看唐国强这段",
+      "onboard_time": 1756521742,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186219,
       "num": 197112,
       "word": "华晨宇七夕准备了8万朵玫瑰花",
@@ -283,12 +307,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 167042,
-      "num": 123661,
-      "word": "主人回应狗狗靠捡瓶子存款过万",
-      "onboard_time": 1756519099,
+      "raw_hot": 178918,
+      "num": 162698,
+      "word": "尚公主不基础昀牵孟绕更不基础",
+      "onboard_time": 1756521981,
       "rank": 21,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 163130,
@@ -297,6 +321,22 @@
       "onboard_time": 1756479804,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162242,
+      "num": 162242,
+      "word": "周杰伦和昆凌七夕节前逛街被偶遇",
+      "onboard_time": 1756520421,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159092,
+      "num": 159092,
+      "word": "投诉鲁迅墙画女子称并非针对鲁迅",
+      "onboard_time": 1756522460,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148755,
@@ -313,6 +353,22 @@
       "onboard_time": 1756477104,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139444,
+      "num": 139444,
+      "word": "住户马桶冲水声太响被邻居起诉",
+      "onboard_time": 1756518801,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135297,
+      "num": 198094,
+      "word": "鹿晗七夕晒撕拉片",
+      "onboard_time": 1756514481,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 135053,
@@ -336,6 +392,14 @@
       "word": "日本厕纸",
       "onboard_time": 1756463303,
       "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125020,
+      "num": 102346,
+      "word": "印尼暴乱骑手被警车撞死",
+      "onboard_time": 1756521440,
+      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -363,12 +427,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 116040,
-      "num": 198094,
-      "word": "鹿晗七夕晒撕拉片",
-      "onboard_time": 1756514481,
-      "rank": 24,
-      "category": "演出"
+      "raw_hot": 115695,
+      "num": 164460,
+      "word": "男子车后绑60斤大鱼遛街展示",
+      "onboard_time": 1756521200,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108942,
+      "num": 108942,
+      "word": "赛里木湖凭什么火到现象级",
+      "onboard_time": 1756521920,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107132,
@@ -395,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104918,
+      "num": 104918,
+      "word": "王楚钦委屈巴巴问裁判要球",
+      "onboard_time": 1756521801,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104049,
       "num": 197991,
       "word": "全国一半的网红都到成都了",
@@ -409,6 +489,14 @@
       "onboard_time": 1756470744,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 97196,
+      "num": 97196,
+      "word": "陈哲远又又又闪耀他泰机场了",
+      "onboard_time": 1756519881,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 95573,
@@ -435,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95122,
+      "num": 197772,
+      "word": "西安警方通报女子上厕所遭偷窥",
+      "onboard_time": 1756518021,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 93647,
       "num": 197292,
       "word": "健康睡眠4个黄金标准",
@@ -449,14 +545,6 @@
       "onboard_time": 1756477945,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 92888,
-      "num": 197772,
-      "word": "西安警方通报女子上厕所遭偷窥",
-      "onboard_time": 1756518021,
-      "rank": 31,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 92735,
@@ -507,12 +595,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83815,
+      "num": 169203,
+      "word": "土耳其完全切断与以色列贸易",
+      "onboard_time": 1756520240,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82605,
       "num": 197061,
       "word": "全中国抗日时还没有民进党",
       "onboard_time": 1756482502,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82146,
+      "num": 197484,
+      "word": "宁艺卓新solo好仙",
+      "onboard_time": 1756517360,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 82028,
@@ -529,14 +633,6 @@
       "onboard_time": 1756474104,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81416,
-      "num": 197484,
-      "word": "宁艺卓新solo好仙",
-      "onboard_time": 1756517360,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 81399,
@@ -595,11 +691,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76735,
+      "num": 76735,
+      "word": "贺峻霖谢娜非静止画面",
+      "onboard_time": 1756522759,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76365,
       "num": 197116,
       "word": "登陆少年演唱会上座率",
       "onboard_time": 1756518322,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 76321,
+      "num": 78439,
+      "word": "亲密关系里有3种情绪暴力",
+      "onboard_time": 1756520362,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 74889,
+      "num": 93592,
+      "word": "苏新皓朱志鑫七夕对唱",
+      "onboard_time": 1756521381,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -651,6 +771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 68167,
+      "num": 76719,
+      "word": "天天学习的时候就该知道有这么一天",
+      "onboard_time": 1756519821,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66444,
       "num": 196932,
       "word": "鹿晗祝大家七夕快乐",
@@ -659,11 +787,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 66211,
-      "num": 81986,
-      "word": "住户马桶冲水声太响被邻居起诉",
-      "onboard_time": 1756518801,
-      "rank": 44,
+      "raw_hot": 66087,
+      "num": 81265,
+      "word": "唐朝工匠写的情书藏了1100年",
+      "onboard_time": 1756520060,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -977,6 +1105,14 @@
       "onboard_time": 1756494495,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22211,
+      "num": 80579,
+      "word": "残疾女孩卖鱼塘凑学费网红仗义相助",
+      "onboard_time": 1756522220,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20616,
