@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756535599008,
+  "endTime": 1756536343727,
   "band_list": [
     {
       "raw_hot": 2244125,
@@ -83,7 +83,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 679338,
+      "raw_hot": 687939,
       "num": 334709,
       "word": "谢娜为处理家庭矛盾大哭",
       "onboard_time": 1756532303,
@@ -227,7 +227,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353414,
+      "raw_hot": 361727,
       "num": 334380,
       "word": "蒋欣偷吃助理盒饭",
       "onboard_time": 1756533501,
@@ -275,12 +275,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 326139,
+      "num": 296258,
+      "word": "体制内在编3年后辞职了",
+      "onboard_time": 1756530682,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323647,
       "num": 323647,
       "word": "杜海涛沈梦辰什么都往外说",
       "onboard_time": 1756528041,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313141,
+      "num": 334543,
+      "word": "辽宁警方回应4名蒙面男子洗劫超市",
+      "onboard_time": 1756533743,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299269,
@@ -307,12 +323,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 292944,
-      "num": 292944,
-      "word": "体制内在编3年后辞职了",
-      "onboard_time": 1756530682,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 293419,
+      "num": 293419,
+      "word": "龚俊 老龚你说句话啊",
+      "onboard_time": 1756533382,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 292673,
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270828,
+      "num": 270828,
+      "word": "董璇给张维伊的亲戚都买了金子",
+      "onboard_time": 1756535303,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270756,
       "num": 197167,
       "word": "刘美含点赞记录",
@@ -369,14 +393,6 @@
       "onboard_time": 1756515561,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257716,
-      "num": 257716,
-      "word": "龚俊 老龚你说句话啊",
-      "onboard_time": 1756533382,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 253599,
@@ -451,6 +467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 221053,
+      "num": 221053,
+      "word": "我嗑的国漫cp进博物馆了",
+      "onboard_time": 1756535963,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 219126,
       "num": 198435,
       "word": "李在明送给特朗普一艘龟船",
@@ -473,14 +497,6 @@
       "onboard_time": 1756518501,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210245,
-      "num": 334543,
-      "word": "辽宁警方回应4名蒙面男子洗劫超市",
-      "onboard_time": 1756533743,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205829,
@@ -699,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155056,
+      "num": 155056,
+      "word": "关晓彤 把妹王",
+      "onboard_time": 1756535902,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152104,
       "num": 152104,
       "word": "以为是淤青的产生过程",
@@ -771,11 +795,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142818,
-      "num": 142818,
-      "word": "董璇给张维伊的亲戚都买了金子",
-      "onboard_time": 1756535303,
-      "rank": 27,
+      "raw_hot": 142189,
+      "num": 142189,
+      "word": "陈赫第一次上快本害怕别人搭话",
+      "onboard_time": 1756535482,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -819,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134574,
+      "num": 134574,
+      "word": "吉克隽逸瘦到肋骨清晰可见",
+      "onboard_time": 1756535061,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134154,
       "num": 134154,
       "word": "赛里木湖凭什么火到现象级",
@@ -859,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130649,
+      "num": 144434,
+      "word": "几乎绝迹床虱又出现了",
+      "onboard_time": 1756535240,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 130294,
       "num": 130294,
       "word": "王影璐一笑全世界都亮了",
@@ -883,6 +923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 128629,
+      "num": 128629,
+      "word": "警方介入5岁男童撞倒1岁半幼童",
+      "onboard_time": 1756534882,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127376,
       "num": 216021,
       "word": "蒯曼3比2申裕斌",
@@ -897,6 +945,14 @@
       "onboard_time": 1756534043,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125896,
+      "num": 125896,
+      "word": "R1SE又有人大大方方了",
+      "onboard_time": 1756536143,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 125800,
@@ -923,12 +979,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 124960,
+      "num": 124960,
+      "word": "48年前72秒外星信号被破译",
+      "onboard_time": 1756534582,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123003,
       "num": 198142,
       "word": "越南将给每位公民发10万越南盾",
       "onboard_time": 1756515261,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122407,
+      "num": 122407,
+      "word": "苏醒张极共享睡衣",
+      "onboard_time": 1756535661,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 119969,
@@ -1027,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113997,
-      "num": 113997,
-      "word": "警方介入5岁男童撞倒1岁半幼童",
-      "onboard_time": 1756534882,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112722,
       "num": 112722,
       "word": "刘强东现身宿迁",
@@ -1049,14 +1113,6 @@
       "onboard_time": 1756534344,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111140,
-      "num": 111140,
-      "word": "陈赫第一次上快本害怕别人搭话",
-      "onboard_time": 1756535482,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 111020,
@@ -1075,20 +1131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110610,
-      "num": 110610,
-      "word": "吉克隽逸瘦到肋骨清晰可见",
-      "onboard_time": 1756535061,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110395,
       "num": 110395,
       "word": "茅子俊新剧1集复活5次",
       "onboard_time": 1756528100,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110168,
+      "num": 303756,
+      "word": "广东一工厂推出酱油冰淇淋",
+      "onboard_time": 1756535722,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110129,
@@ -1171,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105835,
+      "num": 257794,
+      "word": "花少7是疯神不是封神",
+      "onboard_time": 1756534821,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104918,
       "num": 110562,
       "word": "王楚钦委屈巴巴问裁判要球",
@@ -1185,6 +1249,30 @@
       "onboard_time": 1756489637,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 103881,
+      "num": 258049,
+      "word": "上海1.4亿采购学生手环必要性何在",
+      "onboard_time": 1756534944,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103605,
+      "num": 103605,
+      "word": "甜馨身高",
+      "onboard_time": 1756536143,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100793,
+      "num": 100793,
+      "word": "丞磊能不能这样看我一眼",
+      "onboard_time": 1756536082,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 99958,
@@ -1339,12 +1427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89673,
-      "num": 114156,
-      "word": "48年前72秒外星信号被破译",
-      "onboard_time": 1756534582,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 87795,
+      "num": 87795,
+      "word": "车主充电超时94分钟充电站收438.4元",
+      "onboard_time": 1756536321,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87484,
@@ -1401,14 +1489,6 @@
       "onboard_time": 1756523901,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83798,
-      "num": 144434,
-      "word": "几乎绝迹床虱又出现了",
-      "onboard_time": 1756535240,
-      "rank": 26,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 82886,
@@ -1561,6 +1641,14 @@
       "onboard_time": 1756469303,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 73867,
+      "num": 106439,
+      "word": "臭虫大爆发",
+      "onboard_time": 1756536021,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73799,
@@ -1779,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56982,
+      "num": 114375,
+      "word": "女子试驾出事故被4S店起诉索赔",
+      "onboard_time": 1756535240,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55206,
       "num": 114011,
       "word": "保姆变后妈霸占房产子女起诉腾房",
@@ -1803,28 +1899,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 53381,
-      "num": 257794,
-      "word": "花少7是疯神不是封神",
-      "onboard_time": 1756534821,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 52486,
       "num": 81897,
       "word": "新疆男篮祝福赵睿",
       "onboard_time": 1756519099,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49739,
-      "num": 114375,
-      "word": "女子试驾出事故被4S店起诉索赔",
-      "onboard_time": 1756535240,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47760,
@@ -2153,14 +2233,6 @@
       "onboard_time": 1756477346,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13287,
-      "num": 258049,
-      "word": "上海1.4亿采购学生手环必要性何在",
-      "onboard_time": 1756534944,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5959,
