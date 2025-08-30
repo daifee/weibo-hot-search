@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756563682364,
+  "endTime": 1756564718171,
   "band_list": [
     {
       "raw_hot": 2244125,
@@ -65,6 +65,14 @@
       "onboard_time": 1756549341,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1125312,
+      "num": 1180050,
+      "word": "被字节跳动的食堂震惊到了",
+      "onboard_time": 1756560684,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 984879,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 783655,
-      "num": 425663,
+      "num": 503675,
       "word": "王源演唱会偶遇了张真源严浩翔",
       "onboard_time": 1756561043,
       "rank": 3,
@@ -177,14 +185,6 @@
       "onboard_time": 1756513760,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 701685,
-      "num": 1112269,
-      "word": "被字节跳动的食堂震惊到了",
-      "onboard_time": 1756560684,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 699192,
@@ -299,12 +299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478042,
+      "num": 215252,
+      "word": "嫂嫂开门我是我哥被拍出来了",
+      "onboard_time": 1756560803,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471742,
       "num": 438558,
       "word": "敖瑞鹏回应不刮胡子",
       "onboard_time": 1756553542,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461723,
+      "num": 461723,
+      "word": "谁给蓝盈莹浇成这样的",
+      "onboard_time": 1756561884,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 450482,
@@ -419,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 396251,
+      "num": 204199,
+      "word": "李现跳刀马刀马",
+      "onboard_time": 1756562965,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394086,
       "num": 272976,
       "word": "不要在喝水的时候看唐国强这段",
@@ -523,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356710,
+      "num": 356710,
+      "word": "陈雨菲崴脚后坚持比赛",
+      "onboard_time": 1756563683,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350964,
       "num": 429282,
       "word": "唐香玉全村第一位女户主",
@@ -536,14 +568,6 @@
       "word": "唐国强 换台吧",
       "onboard_time": 1756530143,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 345024,
-      "num": 224078,
-      "word": "谁给蓝盈莹浇成这样的",
-      "onboard_time": 1756561884,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -683,22 +707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 280231,
-      "num": 215252,
-      "word": "嫂嫂开门我是我哥被拍出来了",
-      "onboard_time": 1756560803,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 272834,
-      "num": 204199,
-      "word": "李现跳刀马刀马",
-      "onboard_time": 1756562965,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271453,
       "num": 223086,
       "word": "男子车后绑60斤大鱼遛街展示",
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 265265,
-      "num": 190040,
+      "num": 196895,
       "word": "鞠婧祎权谋顶配脸",
       "onboard_time": 1756562064,
       "rank": 30,
@@ -907,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214607,
+      "num": 214607,
+      "word": "你好星期六预告",
+      "onboard_time": 1756563084,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211718,
       "num": 374579,
       "word": "黄明昊成都巡演嘉宾是敖子逸",
@@ -977,14 +993,6 @@
       "onboard_time": 1756468163,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203030,
-      "num": 200913,
-      "word": "你好星期六预告",
-      "onboard_time": 1756563084,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 202954,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1756559362,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187902,
+      "num": 187902,
+      "word": "陈楚生一开口就是国泰民安",
+      "onboard_time": 1756563863,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 187230,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1756551621,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174965,
+      "num": 182180,
+      "word": "陈雨菲vs安洗莹",
+      "onboard_time": 1756563683,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 173938,
@@ -1395,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156223,
+      "num": 180801,
+      "word": "被宋茜李沁开场美了一下又一下",
+      "onboard_time": 1756563983,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156099,
       "num": 156099,
       "word": "你好星期六全员助力新学期flag",
@@ -1467,6 +1499,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151666,
+      "num": 151666,
+      "word": "狼队遗憾止步季后赛",
+      "onboard_time": 1756564284,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 150755,
+      "num": 150755,
+      "word": "张泽禹张极背靠背对唱过",
+      "onboard_time": 1756564463,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150529,
       "num": 150529,
       "word": "艾热在孜巴生孩子时晕倒了",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1756558642,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145698,
+      "num": 145698,
+      "word": "胡军最催泪的爸爸去哪儿",
+      "onboard_time": 1756563924,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144544,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1756528642,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139758,
+      "num": 139758,
+      "word": "陈雨菲被搀扶退场",
+      "onboard_time": 1756563863,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 139684,
@@ -1987,12 +2051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121671,
+      "num": 121671,
+      "word": "Doinb 爽",
+      "onboard_time": 1756564463,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121344,
       "num": 121344,
       "word": "朱志鑫怼脸镜头是统治区",
       "onboard_time": 1756559664,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121023,
+      "num": 121023,
+      "word": "苏超无锡2比0盐城",
+      "onboard_time": 1756564343,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 121011,
@@ -2129,6 +2209,14 @@
       "onboard_time": 1756466484,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 115444,
+      "num": 115444,
+      "word": "刘宇神级莲花座出场",
+      "onboard_time": 1756564644,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 115365,
@@ -2441,6 +2529,14 @@
       "onboard_time": 1756534821,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104955,
+      "num": 235070,
+      "word": "多国领导人来华赴上合之约",
+      "onboard_time": 1756563204,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104918,
@@ -3131,14 +3227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73043,
-      "num": 235070,
-      "word": "多国领导人来华赴上合之约",
-      "onboard_time": 1756563204,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 72836,
       "num": 72836,
       "word": "请你勇敢坐第一排",
@@ -3571,6 +3659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 38021,
+      "num": 190650,
+      "word": "日本发动侵略战争祸首究竟是谁",
+      "onboard_time": 1756564284,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 36752,
       "num": 104646,
       "word": "为什么阅兵要选这把枪",
@@ -3684,7 +3780,7 @@
     },
     {
       "raw_hot": 26097,
-      "num": 488690,
+      "num": 504503,
       "word": "始终高举上海精神旗帜",
       "onboard_time": 1756550481,
       "rank": 2,
@@ -3883,7 +3979,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 3205,
+      "raw_hot": 3501,
       "num": 235306,
       "word": "八女投江最小抗日英烈仅13岁",
       "onboard_time": 1756432762,

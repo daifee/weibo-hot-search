@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 22:21:22
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 22:38:38
 </p>
 </blockquote>
 <p>
@@ -3249,6 +3249,12 @@ tzym 封神之战（热度：1128894）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%9A%84%E9%A3%9F%E5%A0%82%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
+被字节跳动的食堂震惊到了（热度：1125312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E7%BB%99%E6%B1%AA%E8%8B%8F%E6%B3%B7%E9%80%81%E7%89%88%E6%9D%83%23" target="weibo">
 五月天演唱会现场给汪苏泷送版权（热度：1123262）
 </a>
@@ -6005,12 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E8%B7%AF%E4%B8%8A%E6%88%B4%E6%81%90%E6%80%96%E9%9D%A2%E5%85%B7%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%8F%8D%E8%BD%AC%23" target="weibo">
 高速路上戴恐怖面具不存在反转（热度：772561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9B%B4%E6%92%AD%23" target="weibo">
-白鹿直播（热度：771835）
 </a>
 </li>
 

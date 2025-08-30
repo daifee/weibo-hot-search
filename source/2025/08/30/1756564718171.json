@@ -1,0 +1,410 @@
+{
+  "runTime": 1756564718171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1125312,
+        "num": 1180050,
+        "word": "被字节跳动的食堂震惊到了",
+        "onboard_time": 1756560684,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 511655,
+        "num": 511655,
+        "word": "王楚钦蛐蛐对面穿错衣服",
+        "onboard_time": 1756559062,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25462,
+        "num": 504503,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 592098,
+        "num": 503675,
+        "word": "王源演唱会偶遇了张真源严浩翔",
+        "onboard_time": 1756561043,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 497666,
+        "num": 497666,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1756527801,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 461723,
+        "num": 461723,
+        "word": "谁给蓝盈莹浇成这样的",
+        "onboard_time": 1756561884,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356710,
+        "num": 356710,
+        "word": "陈雨菲崴脚后坚持比赛",
+        "onboard_time": 1756563683,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233418,
+        "num": 233418,
+        "word": "印度总理莫迪抵达",
+        "onboard_time": 1756553421,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214607,
+        "num": 214607,
+        "word": "你好星期六预告",
+        "onboard_time": 1756563084,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104955,
+        "num": 208751,
+        "word": "多国领导人来华赴上合之约",
+        "onboard_time": 1756563204,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1314616,
+        "num": 208353,
+        "word": "破音",
+        "onboard_time": 1756556603,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 582322,
+        "num": 207860,
+        "word": "印度500万粉丝网红拍片遭瀑布冲走",
+        "onboard_time": 1756558763,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206605,
+        "num": 206605,
+        "word": "陈雨菲晋级世锦赛决赛",
+        "onboard_time": 1756562122,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 568934,
+        "num": 206053,
+        "word": "又一个看着长大的童星火了",
+        "onboard_time": 1756558822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491150,
+        "num": 204761,
+        "word": "女子4天瘦8斤怀疑泳池水质",
+        "onboard_time": 1756556661,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478042,
+        "num": 201670,
+        "word": "嫂嫂开门我是我哥被拍出来了",
+        "onboard_time": 1756560803,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396251,
+        "num": 201198,
+        "word": "李现跳刀马刀马",
+        "onboard_time": 1756562965,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269490,
+        "num": 199362,
+        "word": "月薪5W是什么概念",
+        "onboard_time": 1756552641,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231504,
+        "num": 196895,
+        "word": "鞠婧祎权谋顶配脸",
+        "onboard_time": 1756562064,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84701,
+        "num": 195505,
+        "word": "京东苏超最强应援",
+        "onboard_time": 1756560862,
+        "rank": 19,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 1164848,
+        "num": 194661,
+        "word": "尚公主",
+        "onboard_time": 1756559123,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536841,
+        "num": 191696,
+        "word": "金子涵居然瘦成这样",
+        "onboard_time": 1756549341,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38021,
+        "num": 190650,
+        "word": "日本发动侵略战争祸首究竟是谁",
+        "onboard_time": 1756564284,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 291172,
+        "num": 189588,
+        "word": "张予曦美的不知天地为何物了",
+        "onboard_time": 1756558703,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187902,
+        "num": 187902,
+        "word": "陈楚生一开口就是国泰民安",
+        "onboard_time": 1756563863,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182533,
+        "num": 182533,
+        "word": "黄子韬跟医生告徐艺洋的状",
+        "onboard_time": 1756555582,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174965,
+        "num": 182180,
+        "word": "陈雨菲vs安洗莹",
+        "onboard_time": 1756563683,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172783,
+        "num": 181639,
+        "word": "张维伊说买礼物必须是董璇付钱",
+        "onboard_time": 1756549882,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158157,
+        "num": 180990,
+        "word": "这是齐思钧还是齐思钓",
+        "onboard_time": 1756563144,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156223,
+        "num": 180801,
+        "word": "被宋茜李沁开场美了一下又一下",
+        "onboard_time": 1756563983,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180294,
+        "num": 180294,
+        "word": "狼队对战WB",
+        "onboard_time": 1756557623,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167992,
+        "num": 167992,
+        "word": "敖瑞鹏回应不刮胡子",
+        "onboard_time": 1756553542,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161505,
+        "num": 161505,
+        "word": "常州又进球了",
+        "onboard_time": 1756558283,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151666,
+        "num": 151666,
+        "word": "狼队遗憾止步季后赛",
+        "onboard_time": 1756564284,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150755,
+        "num": 150755,
+        "word": "张泽禹张极背靠背对唱过",
+        "onboard_time": 1756564463,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145698,
+        "num": 145698,
+        "word": "胡军最催泪的爸爸去哪儿",
+        "onboard_time": 1756563924,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139758,
+        "num": 139758,
+        "word": "陈雨菲被搀扶退场",
+        "onboard_time": 1756563863,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126099,
+        "num": 126099,
+        "word": "刘亦菲迪士尼角色全球热",
+        "onboard_time": 1756554141,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125285,
+        "num": 125285,
+        "word": "龚俊大哭",
+        "onboard_time": 1756543521,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123976,
+        "num": 123976,
+        "word": "张予曦毕雯珺唱热恋情节",
+        "onboard_time": 1756563084,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141101,
+        "num": 123435,
+        "word": "王源演唱会出图",
+        "onboard_time": 1756563204,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122334,
+        "num": 122334,
+        "word": "范丞丞刀马刀马点赞破1000w",
+        "onboard_time": 1756548381,
+        "rank": 41,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 121879,
+        "num": 121879,
+        "word": "苏超",
+        "onboard_time": 1756550661,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121671,
+        "num": 121671,
+        "word": "Doinb 爽",
+        "onboard_time": 1756564463,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121023,
+        "num": 121023,
+        "word": "苏超无锡2比0盐城",
+        "onboard_time": 1756564343,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121021,
+        "num": 121021,
+        "word": "田曦薇哭得像六月的雨",
+        "onboard_time": 1756561224,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119803,
+        "num": 119803,
+        "word": "黄子韬龚俊被网红说一般",
+        "onboard_time": 1756556902,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115444,
+        "num": 115444,
+        "word": "刘宇神级莲花座出场",
+        "onboard_time": 1756564644,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115368,
+        "num": 115368,
+        "word": "关注上合组织天津峰会",
+        "onboard_time": 1756551742,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3501,
+        "num": 113716,
+        "word": "八女投江最小抗日英烈仅13岁",
+        "onboard_time": 1756432762,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见古特雷斯#"
+    }
+  }
+}
