@@ -1,10 +1,10 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756523514465,
+  "endTime": 1756525005044,
   "band_list": [
     {
       "raw_hot": 1762845,
-      "num": 168742,
+      "num": 172962,
       "word": "蓬莱二中通报教师与学生不文明聊天",
       "onboard_time": 1756518560,
       "rank": 10,
@@ -17,6 +17,14 @@
       "onboard_time": 1756482384,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 975830,
+      "num": 243394,
+      "word": "王源七夕送了二十多万礼物",
+      "onboard_time": 1756521620,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 834034,
@@ -51,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 579159,
-      "num": 243394,
-      "word": "王源七夕送了二十多万礼物",
-      "onboard_time": 1756521620,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
       "raw_hot": 557130,
       "num": 197134,
       "word": "王楚钦 我不会主动向别人表白",
@@ -81,6 +81,14 @@
       "onboard_time": 1756464743,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440062,
+      "num": 167469,
+      "word": "投诉鲁迅墙画女子称并非针对鲁迅",
+      "onboard_time": 1756522460,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 412895,
@@ -123,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364670,
+      "num": 227698,
+      "word": "不要在喝水的时候看唐国强这段",
+      "onboard_time": 1756521742,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341374,
       "num": 341374,
       "word": "七夕",
       "onboard_time": 1756471827,
       "rank": 6,
       "category": "艺人,情感"
+    },
+    {
+      "raw_hot": 296621,
+      "num": 162242,
+      "word": "周杰伦和昆凌七夕节前逛街被偶遇",
+      "onboard_time": 1756520421,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 295686,
@@ -145,14 +169,6 @@
       "onboard_time": 1756511180,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 291987,
-      "num": 196119,
-      "word": "不要在喝水的时候看唐国强这段",
-      "onboard_time": 1756521742,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 285472,
@@ -235,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214215,
+      "num": 214215,
+      "word": "男子车后绑60斤大鱼遛街展示",
+      "onboard_time": 1756521200,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203534,
       "num": 203534,
       "word": "特朗普关税措施被裁定为非法",
@@ -291,14 +315,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 184934,
-      "num": 159092,
-      "word": "投诉鲁迅墙画女子称并非针对鲁迅",
-      "onboard_time": 1756522460,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182570,
       "num": 200264,
       "word": "金正恩出席九三阅兵为何意义重大",
@@ -331,12 +347,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162242,
-      "num": 162242,
-      "word": "周杰伦和昆凌七夕节前逛街被偶遇",
-      "onboard_time": 1756520421,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 151391,
+      "num": 151391,
+      "word": "孙颖莎蒯曼vs韩菲儿申裕斌",
+      "onboard_time": 1756523842,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 148755,
@@ -345,6 +361,14 @@
       "onboard_time": 1756476504,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146003,
+      "num": 146003,
+      "word": "张予曦毕雯珺七夕营业",
+      "onboard_time": 1756524381,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144544,
@@ -387,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132280,
+      "num": 174883,
+      "word": "Fly刺痛 双胞胎相爱相杀",
+      "onboard_time": 1756524740,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129903,
       "num": 198200,
       "word": "女子动车上脱鞋踩座反骂提醒乘客",
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 125020,
-      "num": 110560,
+      "num": 113719,
       "word": "印尼暴乱骑手被警车撞死",
       "onboard_time": 1756521440,
       "rank": 30,
@@ -419,20 +451,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 121361,
-      "num": 164460,
-      "word": "男子车后绑60斤大鱼遛街展示",
-      "onboard_time": 1756521200,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119695,
       "num": 119695,
       "word": "武汉越王勾践剑盖饭火了",
       "onboard_time": 1756518801,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117123,
+      "num": 117123,
+      "word": "赛里木湖凭什么火到现象级",
+      "onboard_time": 1756521920,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117018,
@@ -443,6 +475,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 114967,
+      "num": 139010,
+      "word": "广州暂停实施汽车置换更新补贴政策",
+      "onboard_time": 1756523660,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111020,
       "num": 169203,
       "word": "土耳其完全切断与以色列贸易",
@@ -451,12 +491,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 108942,
-      "num": 110568,
-      "word": "赛里木湖凭什么火到现象级",
-      "onboard_time": 1756521920,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 107958,
+      "num": 107958,
+      "word": "贵州茅台连发公告",
+      "onboard_time": 1756524439,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 107132,
@@ -619,6 +659,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84370,
+      "num": 84370,
+      "word": "丝之歌定价",
+      "onboard_time": 1756523901,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 82886,
+      "num": 82886,
+      "word": "陈雨菲成国羽女单四强唯一选手",
+      "onboard_time": 1756523901,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82658,
+      "num": 82658,
+      "word": "史上最大规模上合组织峰会走起",
+      "onboard_time": 1756523601,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82605,
       "num": 197061,
       "word": "全中国抗日时还没有民进党",
@@ -707,6 +771,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79158,
+      "num": 83318,
+      "word": "倪妮说最重要的是勇敢",
+      "onboard_time": 1756524141,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77080,
+      "num": 82228,
+      "word": "官方回应男子车后绑60斤鱼遛街",
+      "onboard_time": 1756524500,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76365,
       "num": 197116,
       "word": "登陆少年演唱会上座率",
@@ -747,12 +827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73581,
+      "num": 143380,
+      "word": "1.4亿元采购手环学生免费使用",
+      "onboard_time": 1756524560,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73105,
       "num": 196942,
       "word": "王鹤棣方要求窃听录音私生公开道歉",
       "onboard_time": 1756476504,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72654,
+      "num": 79487,
+      "word": "女子订婚后悔婚拒还16万6彩礼",
+      "onboard_time": 1756524919,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70861,
@@ -811,6 +907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65524,
+      "num": 110402,
+      "word": "何广智酷不起来是因为老实",
+      "onboard_time": 1756523480,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63953,
       "num": 197443,
       "word": "加密通信软件成境外间谍新掩护",
@@ -835,20 +939,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62136,
+      "num": 114658,
+      "word": "男子七夕拨通亡妻视频带她旅游",
+      "onboard_time": 1756524680,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61120,
       "num": 196923,
       "word": "阿里巴巴美股涨超10%",
       "onboard_time": 1756482562,
       "rank": 45,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 60423,
-      "num": 110402,
-      "word": "何广智酷不起来是因为老实",
-      "onboard_time": 1756523480,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 59917,
@@ -915,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47073,
+      "num": 133239,
+      "word": "新华社专访普京",
+      "onboard_time": 1756524680,
+      "rank": 22,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 46773,
       "num": 110374,
       "word": "C罗第940球",
@@ -963,6 +1075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43129,
+      "num": 83454,
+      "word": "男子闪婚闪离后起诉要回100万彩礼",
+      "onboard_time": 1756524560,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42147,
       "num": 112248,
       "word": "李菁菁瘦到认不出",
@@ -1009,6 +1129,14 @@
       "onboard_time": 1756487300,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33893,
+      "num": 113918,
+      "word": "记者调查无资质正骨馆乱象",
+      "onboard_time": 1756524740,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33195,

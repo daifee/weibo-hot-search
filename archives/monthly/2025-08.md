@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 11:11:54
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 11:36:45
 </p>
 </blockquote>
 <p>
@@ -4101,6 +4101,12 @@ iG对战BLG（热度：978308）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E4%B8%83%E5%A4%95%E9%80%81%E4%BA%86%E4%BA%8C%E5%8D%81%E5%A4%9A%E4%B8%87%E7%A4%BC%E7%89%A9%23" target="weibo">
+王源七夕送了二十多万礼物（热度：975830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B07%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%81%AB%E5%8C%96%E5%89%8D%E8%88%8C%E5%A4%B4%E5%92%BD%E5%96%89%E4%B8%8D%E8%A7%81%E4%BA%86%23" target="weibo">
 台7岁女童火化前舌头咽喉不见了（热度：975484）
 </a>
@@ -6005,12 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E5%A5%B3%E5%84%BF%E9%92%9F%E4%B8%BD%E7%BC%87%E5%A5%B3%E5%84%BF%E5%90%8C%E6%A1%86%23" target="weibo">
 黄奕女儿钟丽缇女儿同框（热度：766204）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9C%8B%E6%BC%94%E5%87%BA%E6%97%B6%E9%81%AD%E7%8C%A5%E4%BA%B5%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-女子看演出时遭猥亵嫌疑人被刑拘（热度：766064）
 </a>
 </li>
 
