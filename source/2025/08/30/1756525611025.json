@@ -1,0 +1,410 @@
+{
+  "runTime": 1756525611025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 428492,
+        "num": 1068558,
+        "word": "iPhone17Pro全爆料汇总",
+        "onboard_time": 1756513760,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 238793,
+        "num": 238793,
+        "word": "菲方踩踏中方红线必将付出代价",
+        "onboard_time": 1756483224,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3875,
+        "num": 207920,
+        "word": "礼炮声里的中国排面",
+        "onboard_time": 1756467564,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394086,
+        "num": 206564,
+        "word": "不要在喝水的时候看唐国强这段",
+        "onboard_time": 1756521742,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271453,
+        "num": 204672,
+        "word": "男子车后绑60斤大鱼遛街展示",
+        "onboard_time": 1756521200,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197667,
+        "num": 197667,
+        "word": "苹果三星要求小米停止争议营销",
+        "onboard_time": 1756511180,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 897283,
+        "num": 194182,
+        "word": "王源七夕送了二十多万礼物",
+        "onboard_time": 1756521620,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189223,
+        "num": 189223,
+        "word": "Fly刺痛 双胞胎相爱相杀",
+        "onboard_time": 1756524740,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185247,
+        "num": 185247,
+        "word": "男子16年后偶遇初恋光速订婚",
+        "onboard_time": 1756512619,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63094,
+        "num": 184339,
+        "word": "新华社专访普京",
+        "onboard_time": 1756524680,
+        "rank": 9,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 1313343,
+        "num": 182922,
+        "word": "蓬莱二中通报教师与学生不文明聊天",
+        "onboard_time": 1756518560,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517090,
+        "num": 181683,
+        "word": "陈奕恒暂时离开TF家族",
+        "onboard_time": 1756490237,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432488,
+        "num": 180154,
+        "word": "投诉鲁迅墙画女子称并非针对鲁迅",
+        "onboard_time": 1756522460,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255115,
+        "num": 178123,
+        "word": "亲生和亲自生的还是有区别的",
+        "onboard_time": 1756514361,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226738,
+        "num": 176705,
+        "word": "周杰伦和昆凌七夕节前逛街被偶遇",
+        "onboard_time": 1756520421,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206679,
+        "num": 175824,
+        "word": "张予曦毕雯珺七夕营业",
+        "onboard_time": 1756524381,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125731,
+        "num": 173969,
+        "word": "许荔莎说照片不是她拍的",
+        "onboard_time": 1756495514,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173240,
+        "num": 173240,
+        "word": "特朗普关税措施被裁定为非法",
+        "onboard_time": 1756512260,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96469,
+        "num": 172428,
+        "word": "1.4亿元采购手环学生免费使用",
+        "onboard_time": 1756524560,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40276,
+        "num": 169565,
+        "word": "记者调查无资质正骨馆乱象",
+        "onboard_time": 1756524740,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 197208,
+        "num": 163615,
+        "word": "孟子义李昀锐尚公主剧组聚餐",
+        "onboard_time": 1756512380,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174624,
+        "num": 161822,
+        "word": "主人回应狗狗靠捡瓶子存款过万",
+        "onboard_time": 1756519099,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158714,
+        "num": 158714,
+        "word": "孙颖莎蒯曼vs韩菲儿申裕斌",
+        "onboard_time": 1756523842,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156099,
+        "num": 156099,
+        "word": "你好星期六全员助力新学期flag",
+        "onboard_time": 1756525282,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135726,
+        "num": 135726,
+        "word": "外源性床虱",
+        "onboard_time": 1756525160,
+        "rank": 24,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 134154,
+        "num": 134154,
+        "word": "赛里木湖凭什么火到现象级",
+        "onboard_time": 1756521920,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130069,
+        "num": 130069,
+        "word": "尚公主不基础昀牵孟绕更不基础",
+        "onboard_time": 1756521981,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125821,
+        "num": 125821,
+        "word": "男子七夕拨通亡妻视频带她旅游",
+        "onboard_time": 1756524680,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113607,
+        "num": 125191,
+        "word": "贺峻霖谢娜非静止画面",
+        "onboard_time": 1756522759,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125151,
+        "num": 125151,
+        "word": "广州暂停实施汽车置换更新补贴政策",
+        "onboard_time": 1756523660,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124000,
+        "num": 124000,
+        "word": "张真源把工资卡密码交出去了",
+        "onboard_time": 1756482384,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119790,
+        "num": 119790,
+        "word": "法国人被中国七夕浪漫到了",
+        "onboard_time": 1756525520,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109914,
+        "num": 109914,
+        "word": "女子订婚后悔婚拒还16万6彩礼",
+        "onboard_time": 1756524919,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107813,
+        "num": 107813,
+        "word": "贵州茅台连发公告",
+        "onboard_time": 1756524439,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100780,
+        "num": 100780,
+        "word": "iPhone17Pro或是变化最大的一代",
+        "onboard_time": 1756518681,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97697,
+        "num": 97697,
+        "word": "印尼暴乱骑手被警车撞死",
+        "onboard_time": 1756521440,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94516,
+        "num": 94516,
+        "word": "LV55500元龙虾手袋被吐槽造型猎奇",
+        "onboard_time": 1756525160,
+        "rank": 36,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 91313,
+        "num": 91313,
+        "word": "鹿晗七夕晒撕拉片",
+        "onboard_time": 1756514481,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66515,
+        "num": 91263,
+        "word": "男子闪婚闪离后起诉要回100万彩礼",
+        "onboard_time": 1756524560,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91229,
+        "num": 91229,
+        "word": "住户马桶冲水声太响被邻居起诉",
+        "onboard_time": 1756518801,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88477,
+        "num": 88477,
+        "word": "张佳宁送谭松韵粉玫瑰",
+        "onboard_time": 1756515561,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77177,
+        "num": 86740,
+        "word": "倪妮说最重要的是勇敢",
+        "onboard_time": 1756524141,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85734,
+        "num": 85734,
+        "word": "官方回应男子车后绑60斤鱼遛街",
+        "onboard_time": 1756524500,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79931,
+        "num": 79931,
+        "word": "印尼大量青年涌入雅加达闹事",
+        "onboard_time": 1756525520,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78964,
+        "num": 78964,
+        "word": "金铲铲",
+        "onboard_time": 1756515142,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75338,
+        "num": 75338,
+        "word": "史上最大规模上合组织峰会走起",
+        "onboard_time": 1756523601,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77656,
+        "num": 73109,
+        "word": "马丽对时代少年团印象最深",
+        "onboard_time": 1756518501,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70661,
+        "num": 70661,
+        "word": "陈哲远又又又闪耀他泰机场了",
+        "onboard_time": 1756519881,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70064,
+        "num": 70064,
+        "word": "李斯丹妮高开叉露腹装",
+        "onboard_time": 1756525399,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68853,
+        "num": 68853,
+        "word": "德约打破大满贯硬地胜场纪录",
+        "onboard_time": 1756523901,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次就作风建设作出重要指示#"
+    }
+  }
+}
