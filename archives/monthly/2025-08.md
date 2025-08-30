@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 20:59:16
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 21:27:50
 </p>
 </blockquote>
 <p>
@@ -1305,6 +1305,12 @@ Angelababy强忍眼泪（热度：1728316）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%B4%E9%9F%B3%23" target="weibo">
+破音（热度：1720201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%85%E6%9D%A5%E5%A5%B3%E5%BC%80%E5%8F%A3%E9%9B%B7%E8%92%82%E5%A8%85%23" target="weibo">
 者来女开口雷蒂娅（热度：1715921）
 </a>
@@ -1349,12 +1355,6 @@ Angelababy强忍眼泪（热度：1728316）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B2%B9%23" target="weibo">
 江油（热度：1698734）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%B4%E9%9F%B3%23" target="weibo">
-破音（热度：1697919）
 </a>
 </li>
 

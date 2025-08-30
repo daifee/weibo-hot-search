@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756558756280,
+  "endTime": 1756560470431,
   "band_list": [
     {
       "raw_hot": 2244125,
@@ -19,7 +19,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1697919,
+      "raw_hot": 1720201,
       "num": 503933,
       "word": "破音",
       "onboard_time": 1756556603,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680850,
+      "num": 358794,
+      "word": "女子4天瘦8斤怀疑泳池水质",
+      "onboard_time": 1756556661,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 640040,
       "num": 1102406,
       "word": "辽宁警方回应4名蒙面男子洗劫超市",
@@ -195,12 +203,28 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 582224,
+      "num": 1093155,
+      "word": "尚公主",
+      "onboard_time": 1756559123,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 557130,
       "num": 197134,
       "word": "王楚钦 我不会主动向别人表白",
       "onboard_time": 1756480644,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 543336,
+      "num": 482379,
+      "word": "黄子韬跟医生告徐艺洋的状",
+      "onboard_time": 1756555582,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 517740,
@@ -217,14 +241,6 @@
       "onboard_time": 1756550542,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 482379,
-      "num": 482379,
-      "word": "黄子韬跟医生告徐艺洋的状",
-      "onboard_time": 1756555582,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 481686,
@@ -273,6 +289,14 @@
       "onboard_time": 1756526241,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 441020,
+      "num": 271913,
+      "word": "又一个看着长大的童星火了",
+      "onboard_time": 1756558822,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 440750,
@@ -467,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358794,
-      "num": 358794,
-      "word": "女子4天瘦8斤怀疑泳池水质",
-      "onboard_time": 1756556661,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 350964,
       "num": 429282,
       "word": "唐香玉全村第一位女户主",
@@ -515,6 +531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 329625,
+      "num": 456731,
+      "word": "刘亦菲迪士尼角色全球热",
+      "onboard_time": 1756554141,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 326139,
       "num": 296258,
       "word": "体制内在编3年后辞职了",
@@ -529,6 +553,14 @@
       "onboard_time": 1756528041,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310672,
+      "num": 310672,
+      "word": "王楚钦蛐蛐对面穿错衣服",
+      "onboard_time": 1756559062,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 310157,
@@ -641,14 +673,6 @@
       "onboard_time": 1756515561,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255650,
-      "num": 456731,
-      "word": "刘亦菲迪士尼角色全球热",
-      "onboard_time": 1756554141,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 255356,
@@ -843,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204649,
+      "num": 204649,
+      "word": "张予曦美的不知天地为何物了",
+      "onboard_time": 1756558703,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203534,
       "num": 203534,
       "word": "特朗普关税措施被裁定为非法",
@@ -931,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192393,
+      "num": 148324,
+      "word": "山东魏桥0比1四川丰谷",
+      "onboard_time": 1756559303,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190678,
       "num": 181174,
       "word": "沈梦辰最佳上镜奖的含金量还在上升",
@@ -939,12 +979,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189560,
+      "num": 189560,
+      "word": "印度500万粉丝网红拍片遭瀑布冲走",
+      "onboard_time": 1756558763,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 189223,
       "num": 189223,
       "word": "Fly刺痛 双胞胎相爱相杀",
       "onboard_time": 1756524740,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189064,
+      "num": 189064,
+      "word": "吉娜给王源演唱会伴奏",
+      "onboard_time": 1756559362,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 186647,
@@ -1051,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178582,
+      "num": 195523,
+      "word": "常州又进球了",
+      "onboard_time": 1756558283,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175635,
       "num": 175635,
       "word": "王源今晚鸟巢嘉宾汪苏泷",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1756544422,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172816,
+      "num": 172816,
+      "word": "樊振东德甲首秀赛程预告",
+      "onboard_time": 1756559242,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 172201,
@@ -1153,6 +1225,14 @@
       "onboard_time": 1756541061,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160291,
+      "num": 160291,
+      "word": "程潇潇洒小姐舞台",
+      "onboard_time": 1756559004,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 158914,
@@ -1291,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146659,
+      "num": 146659,
+      "word": "大张伟宠物不基础主人也不基础",
+      "onboard_time": 1756558642,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144544,
       "num": 144544,
       "word": "贺峻霖谢娜非静止画面",
@@ -1345,6 +1433,14 @@
       "onboard_time": 1756518801,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140538,
+      "num": 140538,
+      "word": "朱志鑫连发尾都被光芒眷顾",
+      "onboard_time": 1756559303,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 140376,
@@ -1409,6 +1505,14 @@
       "onboard_time": 1756539082,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135134,
+      "num": 135134,
+      "word": "487第五人格重度依赖",
+      "onboard_time": 1756560141,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 135053,
@@ -1507,6 +1611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129662,
+      "num": 129662,
+      "word": "能超越脱口秀的只有这一季的脱友2",
+      "onboard_time": 1756560323,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129372,
       "num": 129372,
       "word": "当你在狗咖摔倒时",
@@ -1523,20 +1635,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128936,
-      "num": 128936,
-      "word": "常州又进球了",
-      "onboard_time": 1756558283,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128645,
       "num": 128645,
       "word": "警方介入5岁男童撞倒1岁半幼童",
       "onboard_time": 1756534882,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127748,
+      "num": 295580,
+      "word": "教育部发布2025年第3号留学预警",
+      "onboard_time": 1756555281,
+      "rank": 43,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 127376,
@@ -1667,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121344,
+      "num": 121344,
+      "word": "朱志鑫怼脸镜头是统治区",
+      "onboard_time": 1756559664,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121011,
       "num": 159412,
       "word": "王勉看广智夺冠reaction",
@@ -1763,14 +1883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118996,
-      "num": 295580,
-      "word": "教育部发布2025年第3号留学预警",
-      "onboard_time": 1756555281,
-      "rank": 43,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 117830,
       "num": 117830,
       "word": "唐国强徐明浩 有种诡异的好笑",
@@ -1795,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117216,
+      "num": 190926,
+      "word": "关注上合组织天津峰会",
+      "onboard_time": 1756551742,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117037,
       "num": 117037,
       "word": "网红组队没一对是自愿的",
@@ -1809,6 +1929,22 @@
       "onboard_time": 1756466484,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 116491,
+      "num": 116491,
+      "word": "林昀儒梁靖崑2比3严升陈俊菘",
+      "onboard_time": 1756559905,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115365,
+      "num": 115365,
+      "word": "温瑞博意外受伤",
+      "onboard_time": 1756560141,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 115263,
@@ -1873,6 +2009,14 @@
       "onboard_time": 1756535482,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112739,
+      "num": 112739,
+      "word": "金价再拉升",
+      "onboard_time": 1756560084,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 112722,
@@ -2011,14 +2155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108860,
-      "num": 108860,
-      "word": "张予曦美的不知天地为何物了",
-      "onboard_time": 1756558703,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108731,
       "num": 108731,
       "word": "7天真的把心动拍出来了",
@@ -2080,14 +2216,6 @@
       "word": "南波万有引力奇点派对",
       "onboard_time": 1756557443,
       "rank": 44,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 106444,
-      "num": 106444,
-      "word": "大张伟宠物不基础主人也不基础",
-      "onboard_time": 1756558642,
-      "rank": 47,
       "category": "演出"
     },
     {
@@ -2409,14 +2537,6 @@
       "onboard_time": 1756548982,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90719,
-      "num": 190926,
-      "word": "关注上合组织天津峰会",
-      "onboard_time": 1756551742,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 90232,
@@ -3096,6 +3216,14 @@
       "word": "女子试驾出事故被4S店起诉索赔",
       "onboard_time": 1756535240,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56868,
+      "num": 148652,
+      "word": "主人称狗狗捡瓶攒1万多全给它存着",
+      "onboard_time": 1756558944,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
