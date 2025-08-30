@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756543357307,
+  "endTime": 1756545807526,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -1027,6 +1027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 984879,
+      "num": 412746,
+      "word": "龚俊大哭",
+      "onboard_time": 1756543521,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 981063,
       "num": 1156970,
       "word": "李连杰公布病情",
@@ -1411,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 838977,
+      "num": 1134236,
+      "word": "李泽言配音",
+      "onboard_time": 1756539262,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 826055,
       "num": 1132168,
       "word": "赴山海",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1756299865,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 797886,
+      "num": 399925,
+      "word": "董璇说我又要办婚礼了",
+      "onboard_time": 1756539862,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 796831,
@@ -1793,14 +1817,6 @@
       "onboard_time": 1756176681,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 716913,
-      "num": 1114706,
-      "word": "李泽言配音",
-      "onboard_time": 1756539262,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 716717,
@@ -2497,14 +2513,6 @@
       "onboard_time": 1756285043,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 587533,
-      "num": 399925,
-      "word": "董璇说我又要办婚礼了",
-      "onboard_time": 1756539862,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 587145,
@@ -5491,6 +5499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 280070,
+      "num": 280070,
+      "word": "黄誉博被工作室取关",
+      "onboard_time": 1756544543,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279891,
       "num": 279891,
       "word": "网友称武汉天空有巨大流星坠落",
@@ -5795,6 +5811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258861,
+      "num": 258516,
+      "word": "高铁上全是碎掉的返校大学生",
+      "onboard_time": 1756544061,
+      "rank": 13,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 258114,
       "num": 209887,
       "word": "姜潮麦迪娜害怕孩子以后啃老",
@@ -5881,6 +5905,14 @@
       "onboard_time": 1756090101,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255262,
+      "num": 255262,
+      "word": "孙俪又剪发了",
+      "onboard_time": 1756544241,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 254566,
@@ -6185,6 +6217,14 @@
       "onboard_time": 1756195402,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239677,
+      "num": 181479,
+      "word": "谭松韵 淳儿竟如此端庄了",
+      "onboard_time": 1756544241,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 239542,
@@ -6609,6 +6649,14 @@
       "onboard_time": 1756538423,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223057,
+      "num": 266163,
+      "word": "投诉鲁迅夹烟墙女子微博已无法查看",
+      "onboard_time": 1756544661,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222724,
@@ -7169,6 +7217,14 @@
       "onboard_time": 1756044806,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208827,
+      "num": 372196,
+      "word": "车主充电超时94分钟充电站收438.4元",
+      "onboard_time": 1756536321,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208722,
@@ -8313,14 +8369,6 @@
       "onboard_time": 1756107022,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 192495,
-      "num": 372196,
-      "word": "车主充电超时94分钟充电站收438.4元",
-      "onboard_time": 1756536321,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192464,
@@ -9507,6 +9555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178712,
+      "num": 178712,
+      "word": "方博解说樊振东首秀",
+      "onboard_time": 1756545382,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178697,
       "num": 178697,
       "word": "以色列宣布永久占领叙利亚新区域",
@@ -9811,6 +9867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173938,
+      "num": 173938,
+      "word": "只有贺峻霖粉丝才懂的含金量",
+      "onboard_time": 1756545081,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173683,
       "num": 173683,
       "word": "宋亚轩在布景后面倒彩带",
@@ -9833,6 +9897,14 @@
       "onboard_time": 1756476385,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173078,
+      "num": 173078,
+      "word": "吴宣仪被外国人友人夸漂亮",
+      "onboard_time": 1756544422,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 173073,
@@ -13035,6 +13107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142199,
+      "num": 142199,
+      "word": "孟子义怎么同意当三炮的",
+      "onboard_time": 1756544061,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142189,
       "num": 142189,
       "word": "陈赫第一次上快本害怕别人搭话",
@@ -15089,6 +15169,14 @@
       "onboard_time": 1756200564,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126123,
+      "num": 126123,
+      "word": "吴磊回应结束李泽言配音合作",
+      "onboard_time": 1756543821,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 126121,
@@ -18139,6 +18227,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 106800,
+      "num": 126148,
+      "word": "车上掉落2万瓶水一群大侠出手了",
+      "onboard_time": 1756544241,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 106799,
       "num": 106799,
       "word": "张镇麟长文告别辽宁男篮",
@@ -19243,6 +19339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98718,
+      "num": 121427,
+      "word": "日本人为什么不愿承认侵华历史",
+      "onboard_time": 1756540882,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98555,
       "num": 98555,
       "word": "台湾附近地震",
@@ -19313,6 +19417,14 @@
       "onboard_time": 1756295604,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97776,
+      "num": 97776,
+      "word": "尚雯婕不愧是做过外企高管的",
+      "onboard_time": 1756543344,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 97679,
@@ -19403,6 +19515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96738,
+      "num": 96738,
+      "word": "孙颖莎美美Sun内",
+      "onboard_time": 1756545681,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96715,
       "num": 197236,
       "word": "缅怀抗战先烈",
@@ -19465,6 +19585,14 @@
       "onboard_time": 1756289063,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95782,
+      "num": 95782,
+      "word": "韩网票选LPL最佳阵容",
+      "onboard_time": 1756545742,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 95760,
@@ -19849,14 +19977,6 @@
       "onboard_time": 1756295184,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91989,
-      "num": 91989,
-      "word": "尚雯婕不愧是做过外企高管的",
-      "onboard_time": 1756543344,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 91919,
@@ -20291,6 +20411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85733,
+      "num": 85733,
+      "word": "苏醒一开口鸡皮疙瘩起来了",
+      "onboard_time": 1756544903,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85572,
       "num": 159686,
       "word": "祝绪丹直播",
@@ -20603,6 +20731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80182,
+      "num": 80182,
+      "word": "陈数 人怎么可能和谁过都一样",
+      "onboard_time": 1756545681,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80144,
       "num": 171575,
       "word": "黄渤被00后做局了",
@@ -20681,6 +20817,14 @@
       "onboard_time": 1756056798,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79797,
+      "num": 79797,
+      "word": "台风蓝湖将登陆越南中部沿海",
+      "onboard_time": 1756545681,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79599,
@@ -20905,6 +21049,14 @@
       "onboard_time": 1755955343,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76096,
+      "num": 79905,
+      "word": "谭sir逛展直呼现在的车全是新花样",
+      "onboard_time": 1756545442,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 75814,
@@ -21329,14 +21481,6 @@
       "onboard_time": 1756519342,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 69434,
-      "num": 121427,
-      "word": "日本人为什么不愿承认侵华历史",
-      "onboard_time": 1756540882,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 69432,
@@ -23979,6 +24123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33299,
+      "num": 95811,
+      "word": "管虎梁静机场送儿子出国上学",
+      "onboard_time": 1756545261,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33195,
       "num": 48905,
       "word": "尼坤怎么肿成这样",
@@ -24924,7 +25076,7 @@
     },
     {
       "raw_hot": 21892,
-      "num": 72640,
+      "num": 96000,
       "word": "一句话证明你看过脱友2",
       "onboard_time": 1756541121,
       "rank": 49,

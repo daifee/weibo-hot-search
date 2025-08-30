@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756543357307,
+  "endTime": 1756545807526,
   "band_list": [
     {
       "raw_hot": 2244125,
@@ -43,6 +43,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 984879,
+      "num": 412746,
+      "word": "龚俊大哭",
+      "onboard_time": 1756543521,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 975830,
       "num": 243394,
       "word": "王源七夕送了二十多万礼物",
@@ -59,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 838977,
+      "num": 1134236,
+      "word": "李泽言配音",
+      "onboard_time": 1756539262,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 834034,
       "num": 899070,
       "word": "王俊凯易烊千玺 王源演唱会",
@@ -67,12 +83,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 716913,
-      "num": 1114706,
-      "word": "李泽言配音",
-      "onboard_time": 1756539262,
-      "rank": 22,
-      "category": "游戏"
+      "raw_hot": 797886,
+      "num": 399925,
+      "word": "董璇说我又要办婚礼了",
+      "onboard_time": 1756539862,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 710415,
@@ -129,14 +145,6 @@
       "onboard_time": 1756540882,
       "rank": 5,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 587533,
-      "num": 399925,
-      "word": "董璇说我又要办婚礼了",
-      "onboard_time": 1756539862,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 557130,
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280070,
+      "num": 280070,
+      "word": "黄誉博被工作室取关",
+      "onboard_time": 1756544543,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271453,
       "num": 223086,
       "word": "男子车后绑60斤大鱼遛街展示",
@@ -459,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258861,
+      "num": 258516,
+      "word": "高铁上全是碎掉的返校大学生",
+      "onboard_time": 1756544061,
+      "rank": 13,
+      "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 255262,
+      "num": 255262,
+      "word": "孙俪又剪发了",
+      "onboard_time": 1756544241,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253599,
       "num": 197371,
       "word": "建议大家要少发朋友圈",
@@ -481,6 +513,14 @@
       "onboard_time": 1756525520,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 239677,
+      "num": 181479,
+      "word": "谭松韵 淳儿竟如此端庄了",
+      "onboard_time": 1756544241,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 237244,
@@ -531,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223057,
+      "num": 266163,
+      "word": "投诉鲁迅夹烟墙女子微博已无法查看",
+      "onboard_time": 1756544661,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222024,
       "num": 125024,
       "word": "iPhone17Pro或是变化最大的一代",
@@ -569,6 +617,14 @@
       "onboard_time": 1756518501,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208827,
+      "num": 372196,
+      "word": "车主充电超时94分钟充电站收438.4元",
+      "onboard_time": 1756536321,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205829,
@@ -639,14 +695,6 @@
       "num": 195413,
       "word": "女子订婚后悔婚拒还16万6彩礼",
       "onboard_time": 1756524919,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192495,
-      "num": 372196,
-      "word": "车主充电超时94分钟充电站收438.4元",
-      "onboard_time": 1756536321,
       "rank": 49,
       "category": "民生新闻"
     },
@@ -737,6 +785,30 @@
       "onboard_time": 1756521981,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178712,
+      "num": 178712,
+      "word": "方博解说樊振东首秀",
+      "onboard_time": 1756545382,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173938,
+      "num": 173938,
+      "word": "只有贺峻霖粉丝才懂的含金量",
+      "onboard_time": 1756545081,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 173078,
+      "num": 173078,
+      "word": "吴宣仪被外国人友人夸漂亮",
+      "onboard_time": 1756544422,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 172201,
@@ -923,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142199,
+      "num": 142199,
+      "word": "孟子义怎么同意当三炮的",
+      "onboard_time": 1756544061,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142189,
       "num": 142189,
       "word": "陈赫第一次上快本害怕别人搭话",
@@ -1073,6 +1153,14 @@
       "onboard_time": 1756531702,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126123,
+      "num": 126123,
+      "word": "吴磊回应结束李泽言配音合作",
+      "onboard_time": 1756543821,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 126121,
@@ -1315,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111347,
+      "num": 111347,
+      "word": "光与夜之恋",
+      "onboard_time": 1756543102,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111045,
       "num": 111045,
       "word": "王影璐新剧纯吃苦啊",
@@ -1427,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106800,
+      "num": 126148,
+      "word": "车上掉落2万瓶水一群大侠出手了",
+      "onboard_time": 1756544241,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 106487,
       "num": 197101,
       "word": "鹿晗橘色狼尾",
@@ -1507,14 +1611,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 100797,
-      "num": 100797,
-      "word": "光与夜之恋",
-      "onboard_time": 1756543102,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 100793,
       "num": 100793,
       "word": "丞磊能不能这样看我一眼",
@@ -1531,12 +1627,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 98718,
+      "num": 121427,
+      "word": "日本人为什么不愿承认侵华历史",
+      "onboard_time": 1756540882,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98683,
       "num": 196981,
       "word": "薛小婉称快与任权分手",
       "onboard_time": 1756470744,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 97776,
+      "num": 97776,
+      "word": "尚雯婕不愧是做过外企高管的",
+      "onboard_time": 1756543344,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 97196,
@@ -1547,12 +1659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96738,
+      "num": 96738,
+      "word": "孙颖莎美美Sun内",
+      "onboard_time": 1756545681,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96404,
       "num": 216803,
       "word": "沙溢沈腾顺产烫",
       "onboard_time": 1756531761,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95782,
+      "num": 95782,
+      "word": "韩网票选LPL最佳阵容",
+      "onboard_time": 1756545742,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 95573,
@@ -1649,14 +1777,6 @@
       "onboard_time": 1756525821,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91989,
-      "num": 91989,
-      "word": "尚雯婕不愧是做过外企高管的",
-      "onboard_time": 1756543344,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 91672,
@@ -1771,6 +1891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85733,
+      "num": 85733,
+      "word": "苏醒一开口鸡皮疙瘩起来了",
+      "onboard_time": 1756544903,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85385,
       "num": 197619,
       "word": "金铲铲",
@@ -1867,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80182,
+      "num": 80182,
+      "word": "陈数 人怎么可能和谁过都一样",
+      "onboard_time": 1756545681,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80037,
       "num": 196970,
       "word": "张杰七夕攒了波大的",
@@ -1897,6 +2033,14 @@
       "onboard_time": 1756542321,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79797,
+      "num": 79797,
+      "word": "台风蓝湖将登陆越南中部沿海",
+      "onboard_time": 1756545681,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79599,
@@ -1953,6 +2097,14 @@
       "onboard_time": 1756520362,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76096,
+      "num": 79905,
+      "word": "谭sir逛展直呼现在的车全是新花样",
+      "onboard_time": 1756545442,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 74971,
@@ -2065,14 +2217,6 @@
       "onboard_time": 1756519342,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 69434,
-      "num": 121427,
-      "word": "日本人为什么不愿承认侵华历史",
-      "onboard_time": 1756540882,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 69158,
@@ -2419,6 +2563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33299,
+      "num": 95811,
+      "word": "管虎梁静机场送儿子出国上学",
+      "onboard_time": 1756545261,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33195,
       "num": 48905,
       "word": "尼坤怎么肿成这样",
@@ -2572,7 +2724,7 @@
     },
     {
       "raw_hot": 21892,
-      "num": 72640,
+      "num": 96000,
       "word": "一句话证明你看过脱友2",
       "onboard_time": 1756541121,
       "rank": 49,
