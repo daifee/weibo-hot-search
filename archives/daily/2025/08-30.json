@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756561141159,
+  "endTime": 1756563682364,
   "band_list": [
     {
       "raw_hot": 2244125,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1363292,
+      "num": 1184311,
+      "word": "尚公主",
+      "onboard_time": 1756559123,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1234034,
       "num": 198661,
       "word": "印尼暴乱",
@@ -57,14 +65,6 @@
       "onboard_time": 1756549341,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1151946,
-      "num": 1184311,
-      "word": "尚公主",
-      "onboard_time": 1756559123,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 984879,
@@ -148,11 +148,19 @@
     },
     {
       "raw_hot": 783655,
-      "num": 392588,
+      "num": 425663,
       "word": "王源演唱会偶遇了张真源严浩翔",
       "onboard_time": 1756561043,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 770856,
+      "num": 233303,
+      "word": "印度500万粉丝网红拍片遭瀑布冲走",
+      "onboard_time": 1756558763,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 747021,
@@ -169,6 +177,14 @@
       "onboard_time": 1756513760,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 701685,
+      "num": 1112269,
+      "word": "被字节跳动的食堂震惊到了",
+      "onboard_time": 1756560684,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 699192,
@@ -193,6 +209,14 @@
       "onboard_time": 1756532303,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 653426,
+      "num": 271913,
+      "word": "又一个看着长大的童星火了",
+      "onboard_time": 1756558822,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 640040,
@@ -227,20 +251,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 552530,
+      "num": 552530,
+      "word": "王楚钦蛐蛐对面穿错衣服",
+      "onboard_time": 1756559062,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 543336,
       "num": 482379,
       "word": "黄子韬跟医生告徐艺洋的状",
       "onboard_time": 1756555582,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 535488,
-      "num": 271913,
-      "word": "又一个看着长大的童星火了",
-      "onboard_time": 1756558822,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 517740,
@@ -403,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385345,
-      "num": 385345,
-      "word": "王楚钦蛐蛐对面穿错衣服",
-      "onboard_time": 1756559062,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 382405,
       "num": 489326,
       "word": "王楚钦vs孙闻",
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345024,
+      "num": 224078,
+      "word": "谁给蓝盈莹浇成这样的",
+      "onboard_time": 1756561884,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341374,
       "num": 341374,
       "word": "七夕",
@@ -545,6 +569,14 @@
       "onboard_time": 1756529542,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 333570,
+      "num": 219606,
+      "word": "张予曦美的不知天地为何物了",
+      "onboard_time": 1756558703,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 329625,
@@ -572,19 +604,11 @@
     },
     {
       "raw_hot": 310157,
-      "num": 201456,
+      "num": 201739,
       "word": "张维伊说买礼物必须是董璇付钱",
       "onboard_time": 1756549882,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307922,
-      "num": 215383,
-      "word": "张予曦美的不知天地为何物了",
-      "onboard_time": 1756558703,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 305762,
@@ -659,6 +683,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 280231,
+      "num": 215252,
+      "word": "嫂嫂开门我是我哥被拍出来了",
+      "onboard_time": 1756560803,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272834,
+      "num": 204199,
+      "word": "李现跳刀马刀马",
+      "onboard_time": 1756562965,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271453,
       "num": 223086,
       "word": "男子车后绑60斤大鱼遛街展示",
@@ -675,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265265,
+      "num": 190040,
+      "word": "鞠婧祎权谋顶配脸",
+      "onboard_time": 1756562064,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261176,
       "num": 201803,
       "word": "田曦薇 今天有见到喜欢的人",
@@ -689,14 +737,6 @@
       "onboard_time": 1756515561,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256970,
-      "num": 208316,
-      "word": "印度500万粉丝网红拍片遭瀑布冲走",
-      "onboard_time": 1756558763,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 255356,
@@ -744,6 +784,14 @@
       "word": "常州又进球了",
       "onboard_time": 1756558283,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 240996,
+      "num": 240996,
+      "word": "陈雨菲晋级世锦赛决赛",
+      "onboard_time": 1756562122,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -867,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208864,
+      "num": 234517,
+      "word": "狼队对战WB",
+      "onboard_time": 1756557623,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208827,
       "num": 372196,
       "word": "车主充电超时94分钟充电站收438.4元",
@@ -923,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203030,
+      "num": 200913,
+      "word": "你好星期六预告",
+      "onboard_time": 1756563084,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202954,
       "num": 202954,
       "word": "吴宣仪翟潇闻对视路透",
@@ -947,12 +1011,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 199942,
-      "num": 234517,
-      "word": "狼队对战WB",
-      "onboard_time": 1756557623,
-      "rank": 22,
-      "category": "电竞"
+      "raw_hot": 199899,
+      "num": 199899,
+      "word": "张予曦毕雯珺唱热恋情节",
+      "onboard_time": 1756563084,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 199740,
@@ -1035,6 +1099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187230,
+      "num": 187230,
+      "word": "NIP战胜FPX",
+      "onboard_time": 1756562663,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186647,
       "num": 186647,
       "word": "东北有自己的正宗陕西凉皮",
@@ -1091,6 +1163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181033,
+      "num": 198514,
+      "word": "王一博抗战胜利特别企划歌曲",
+      "onboard_time": 1756562784,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 180577,
       "num": 180577,
       "word": "金莎孙丞潇有夫妻相了",
@@ -1128,6 +1208,22 @@
       "word": "方博解说樊振东首秀",
       "onboard_time": 1756545382,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176104,
+      "num": 196227,
+      "word": "王源演唱会出图",
+      "onboard_time": 1756563204,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 175717,
+      "num": 194479,
+      "word": "F1",
+      "onboard_time": 1756561163,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -1171,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170713,
+      "num": 191502,
+      "word": "这是齐思钧还是齐思钓",
+      "onboard_time": 1756563144,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167668,
       "num": 167668,
       "word": "赵文卓大女儿考上港大",
@@ -1185,14 +1289,6 @@
       "onboard_time": 1756552821,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166072,
-      "num": 166072,
-      "word": "被字节跳动的食堂震惊到了",
-      "onboard_time": 1756560684,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 164738,
@@ -1283,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156715,
+      "num": 156715,
+      "word": "张艺兴初雪一响回忆登场",
+      "onboard_time": 1756562543,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156508,
       "num": 156508,
       "word": "你好星期六",
@@ -1339,6 +1443,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 152119,
+      "num": 152119,
+      "word": "2025年羽毛球世锦赛",
+      "onboard_time": 1756560983,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152104,
       "num": 152104,
       "word": "以为是淤青的产生过程",
@@ -1371,12 +1483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150080,
-      "num": 150080,
-      "word": "2025年羽毛球世锦赛",
-      "onboard_time": 1756560983,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 150040,
+      "num": 150040,
+      "word": "左航在雨中美成这样",
+      "onboard_time": 1756562304,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 149057,
@@ -1441,6 +1553,14 @@
       "onboard_time": 1756535722,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143621,
+      "num": 143621,
+      "word": "张杰是我的眼泪在飞",
+      "onboard_time": 1756562183,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 142898,
@@ -1521,6 +1641,14 @@
       "onboard_time": 1756549762,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138060,
+      "num": 138060,
+      "word": "田曦薇哭得像六月的雨",
+      "onboard_time": 1756561224,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 136784,
@@ -1667,6 +1795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129824,
+      "num": 129824,
+      "word": "金价再拉升",
+      "onboard_time": 1756560084,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129662,
       "num": 129662,
       "word": "能超越脱口秀的只有这一季的脱友2",
@@ -1699,12 +1835,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128010,
-      "num": 128010,
-      "word": "金价再拉升",
-      "onboard_time": 1756560084,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 128085,
+      "num": 128085,
+      "word": "孙彩瑛点赞Ziont自拍照",
+      "onboard_time": 1756561884,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 127748,
@@ -1713,6 +1849,14 @@
       "onboard_time": 1756555281,
       "rank": 43,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 127701,
+      "num": 127701,
+      "word": "苏超泰州1比1常州",
+      "onboard_time": 1756562663,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 127376,
@@ -2019,16 +2163,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114834,
-      "num": 114834,
-      "word": "嫂嫂开门我是我哥被拍出来了",
-      "onboard_time": 1756560803,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114125,
-      "num": 203613,
+      "num": 211535,
       "word": "京东苏超最强应援",
       "onboard_time": 1756560862,
       "rank": 22,
@@ -2995,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73043,
+      "num": 235070,
+      "word": "多国领导人来华赴上合之约",
+      "onboard_time": 1756563204,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72836,
       "num": 72836,
       "word": "请你勇敢坐第一排",
@@ -3539,6 +3683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26097,
+      "num": 488690,
+      "word": "始终高举上海精神旗帜",
+      "onboard_time": 1756550481,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26067,
       "num": 55493,
       "word": "抗战胜利80周年",
@@ -3731,6 +3883,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 3205,
+      "num": 235306,
+      "word": "八女投江最小抗日英烈仅13岁",
+      "onboard_time": 1756432762,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1638,
       "num": 372693,
       "word": "以山河影像为信告慰抗战英烈",
@@ -3757,6 +3917,9 @@
     },
     {
       "word": "#众行致远#"
+    },
+    {
+      "word": "#习近平会见古特雷斯#"
     }
   ]
 }
