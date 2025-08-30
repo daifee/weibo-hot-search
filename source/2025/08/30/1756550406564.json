@@ -1,0 +1,410 @@
+{
+  "runTime": 1756550406564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 747021,
+        "num": 1119523,
+        "word": "作家马伯庸忍辱负重送儿子上作文班",
+        "onboard_time": 1756546281,
+        "rank": 0,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 245823,
+        "num": 914960,
+        "word": "辽宁警方回应4名蒙面男子洗劫超市",
+        "onboard_time": 1756533743,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54110,
+        "num": 731889,
+        "word": "2025上合组织天津峰会",
+        "onboard_time": 1756541301,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 713609,
+        "num": 713609,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1756527801,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 433905,
+        "num": 433905,
+        "word": "恋与和吴磊结束合作关系",
+        "onboard_time": 1756540882,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 518876,
+        "num": 428243,
+        "word": "李泽言配音",
+        "onboard_time": 1756539262,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 419394,
+        "num": 419394,
+        "word": "原来西安录制是龚俊强烈要求要来的",
+        "onboard_time": 1756546222,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255356,
+        "num": 416799,
+        "word": "孟子义怎么同意当三炮的",
+        "onboard_time": 1756544061,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246683,
+        "num": 416248,
+        "word": "几乎绝迹床虱又出现了",
+        "onboard_time": 1756535240,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 131800,
+        "num": 415874,
+        "word": "泰国内阁任命普坦为代理总理",
+        "onboard_time": 1756548743,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 415713,
+        "num": 415713,
+        "word": "投诉鲁迅夹烟墙女子微博已无法查看",
+        "onboard_time": 1756544661,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412780,
+        "num": 412780,
+        "word": "范丞丞刀马刀马点赞破1000w",
+        "onboard_time": 1756548381,
+        "rank": 11,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 398654,
+        "num": 398654,
+        "word": "孙俪又剪发了",
+        "onboard_time": 1756544241,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398077,
+        "num": 398077,
+        "word": "龚俊大哭",
+        "onboard_time": 1756543521,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20795,
+        "num": 345365,
+        "word": "微博奇遇记开票",
+        "onboard_time": 1756548081,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299633,
+        "num": 299633,
+        "word": "金子涵居然瘦成这样",
+        "onboard_time": 1756549341,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197505,
+        "num": 293510,
+        "word": "不结婚的话老年生活就这样过",
+        "onboard_time": 1756549161,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131244,
+        "num": 290638,
+        "word": "印尼多地发生大规模示威游行",
+        "onboard_time": 1756548143,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127331,
+        "num": 274894,
+        "word": "车上掉落2万瓶水一群大侠出手了",
+        "onboard_time": 1756544241,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 70015,
+        "num": 272492,
+        "word": "长沙20岁女孩被高空坠物砸亡",
+        "onboard_time": 1756549701,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698496,
+        "num": 258908,
+        "word": "高铁上全是碎掉的返校大学生",
+        "onboard_time": 1756544061,
+        "rank": 20,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 650046,
+        "num": 255107,
+        "word": "董璇说我又要办婚礼了",
+        "onboard_time": 1756539862,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249356,
+        "num": 249356,
+        "word": "蓬莱二中通报教师与学生不文明聊天",
+        "onboard_time": 1756518560,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244876,
+        "num": 244876,
+        "word": "黄誉博被工作室取关",
+        "onboard_time": 1756544543,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160513,
+        "num": 160513,
+        "word": "杨幂顶级魅魔",
+        "onboard_time": 1756541422,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141500,
+        "num": 141500,
+        "word": "刘强东夜市用塑料碗和乡亲们喝酒",
+        "onboard_time": 1756546343,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112126,
+        "num": 140911,
+        "word": "男子吃饭抽40张纸巾被老板娘发到网上",
+        "onboard_time": 1756546343,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96138,
+        "num": 140484,
+        "word": "车主充电超时94分钟充电站收438.4元",
+        "onboard_time": 1756536321,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109139,
+        "num": 140402,
+        "word": "陈数 人怎么可能和谁过都一样",
+        "onboard_time": 1756545681,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140370,
+        "num": 140370,
+        "word": "王源 疯狂自拍微博暴晒",
+        "onboard_time": 1756545801,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265735,
+        "num": 139495,
+        "word": "张维伊说买礼物必须是董璇付钱",
+        "onboard_time": 1756549882,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138474,
+        "num": 138474,
+        "word": "张远澳门偶遇",
+        "onboard_time": 1756549762,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134694,
+        "num": 134694,
+        "word": "杨幂 我会合法纳税",
+        "onboard_time": 1756528403,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131033,
+        "num": 131033,
+        "word": "谢娜为处理家庭矛盾大哭",
+        "onboard_time": 1756532303,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129769,
+        "num": 129769,
+        "word": "谭松韵 淳儿竟如此端庄了",
+        "onboard_time": 1756544241,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126101,
+        "num": 126101,
+        "word": "LV龙虾手袋 像蟑螂",
+        "onboard_time": 1756529302,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 123814,
+        "num": 123814,
+        "word": "让人变得很幸福的老派约会",
+        "onboard_time": 1756549222,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90855,
+        "num": 121507,
+        "word": "多地公布今年七夕结婚登记数据",
+        "onboard_time": 1756549581,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91613,
+        "num": 120343,
+        "word": "尚公主明天有双人海报",
+        "onboard_time": 1756549341,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120100,
+        "num": 120100,
+        "word": "一袋梨被小猫亲了半个小时",
+        "onboard_time": 1756548561,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107091,
+        "num": 107091,
+        "word": "普京访华将停留4天",
+        "onboard_time": 1756550301,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103325,
+        "num": 103325,
+        "word": "吴宣仪被外国人友人夸漂亮",
+        "onboard_time": 1756544422,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98135,
+        "num": 98135,
+        "word": "彭昱畅 减肥堪比整容",
+        "onboard_time": 1756530322,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96650,
+        "num": 96650,
+        "word": "查理苏配音",
+        "onboard_time": 1756542442,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93969,
+        "num": 93969,
+        "word": "只有贺峻霖粉丝才懂的含金量",
+        "onboard_time": 1756545081,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93709,
+        "num": 93709,
+        "word": "厄敌我想更多了解你",
+        "onboard_time": 1756549882,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 93134,
+        "num": 93134,
+        "word": "何广智冠军",
+        "onboard_time": 1756528702,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91229,
+        "num": 91229,
+        "word": "恋与制作人",
+        "onboard_time": 1756538901,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89379,
+        "num": 89379,
+        "word": "菜市场 驱赶年轻人",
+        "onboard_time": 1756547300,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46530,
+        "num": 88590,
+        "word": "又一家A股公司终止重大资产重组",
+        "onboard_time": 1756548441,
+        "rank": 49,
+        "category": "财经,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#众行致远#"
+    }
+  }
+}
