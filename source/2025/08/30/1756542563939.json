@@ -1,0 +1,410 @@
+{
+  "runTime": 1756542563939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 639819,
+        "num": 1102371,
+        "word": "李泽言配音",
+        "onboard_time": 1756539262,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 454657,
+        "num": 454657,
+        "word": "辽宁警方回应4名蒙面男子洗劫超市",
+        "onboard_time": 1756533743,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77820,
+        "num": 439982,
+        "word": "2025上合组织天津峰会",
+        "onboard_time": 1756541301,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 887813,
+        "num": 416773,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1756527801,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 508207,
+        "num": 399925,
+        "word": "董璇说我又要办婚礼了",
+        "onboard_time": 1756539862,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468604,
+        "num": 373298,
+        "word": "恋与和吴磊结束合作关系",
+        "onboard_time": 1756540882,
+        "rank": 5,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 373069,
+        "num": 373069,
+        "word": "几乎绝迹床虱又出现了",
+        "onboard_time": 1756535240,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 324395,
+        "num": 372893,
+        "word": "杨幂 我会合法纳税",
+        "onboard_time": 1756528403,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1638,
+        "num": 372693,
+        "word": "以山河影像为信告慰抗战英烈",
+        "onboard_time": 1756432762,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166549,
+        "num": 372196,
+        "word": "车主充电超时94分钟充电站收438.4元",
+        "onboard_time": 1756536321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35120,
+        "num": 372077,
+        "word": "阅兵天安门广场核心区布置基本就绪",
+        "onboard_time": 1756541781,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408509,
+        "num": 371649,
+        "word": "蓬莱二中通报教师与学生不文明聊天",
+        "onboard_time": 1756518560,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371591,
+        "num": 371591,
+        "word": "臭虫大爆发",
+        "onboard_time": 1756536021,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345019,
+        "num": 345019,
+        "word": "查理苏配音",
+        "onboard_time": 1756542442,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294124,
+        "num": 294124,
+        "word": "甜馨身高",
+        "onboard_time": 1756536143,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272324,
+        "num": 272324,
+        "word": "杨幂顶级魅魔",
+        "onboard_time": 1756541422,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247198,
+        "num": 247198,
+        "word": "谢娜为处理家庭矛盾大哭",
+        "onboard_time": 1756532303,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233618,
+        "num": 233618,
+        "word": "LV龙虾手袋 像蟑螂",
+        "onboard_time": 1756529302,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 191414,
+        "num": 191414,
+        "word": "倪萍劝千惠妈妈离开三宝家",
+        "onboard_time": 1756538423,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181442,
+        "num": 181442,
+        "word": "彭昱畅 减肥堪比整容",
+        "onboard_time": 1756530322,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721714,
+        "num": 175886,
+        "word": "董璇给张维伊的亲戚都买了金子",
+        "onboard_time": 1756535303,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163897,
+        "num": 163897,
+        "word": "恋与制作人",
+        "onboard_time": 1756538901,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160567,
+        "num": 160567,
+        "word": "张艺凡延误了但开工了",
+        "onboard_time": 1756541061,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155913,
+        "num": 155913,
+        "word": "何广智冠军",
+        "onboard_time": 1756528702,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154447,
+        "num": 154447,
+        "word": "李沁为了不超重狂穿衣服",
+        "onboard_time": 1756541720,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125675,
+        "num": 125675,
+        "word": "宝宝你普通话倒欠国家三级",
+        "onboard_time": 1756538543,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124803,
+        "num": 124803,
+        "word": "谢娜说当妈后知道小家的重要",
+        "onboard_time": 1756541301,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116505,
+        "num": 123635,
+        "word": "男子七夕拨通亡妻视频带她旅游",
+        "onboard_time": 1756524680,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122984,
+        "num": 122984,
+        "word": "其实过得舒服不需要很多钱",
+        "onboard_time": 1756531761,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57764,
+        "num": 121427,
+        "word": "日本人为什么不愿承认侵华历史",
+        "onboard_time": 1756540882,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120688,
+        "num": 120688,
+        "word": "老师又要变成家长信任的样子了",
+        "onboard_time": 1756541361,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118338,
+        "num": 118338,
+        "word": "蒋欣偷吃助理盒饭",
+        "onboard_time": 1756533501,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115224,
+        "num": 115224,
+        "word": "恋与制作人回应换李泽言配音",
+        "onboard_time": 1756542024,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110575,
+        "num": 110575,
+        "word": "吒宝黑巧玫瑰少年造型",
+        "onboard_time": 1756542024,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109074,
+        "num": 109074,
+        "word": "张远一开口就有失恋的味道了",
+        "onboard_time": 1756541781,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63224,
+        "num": 105268,
+        "word": "龚俊越着急情绪越稳定",
+        "onboard_time": 1756542442,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102892,
+        "num": 102892,
+        "word": "刘仁铖 脱口秀界的汪曾祺",
+        "onboard_time": 1756542202,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102523,
+        "num": 102523,
+        "word": "22岁女子酒后坠车男友否认恋爱",
+        "onboard_time": 1756538181,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94210,
+        "num": 94210,
+        "word": "日寇割下他的头颅将遗体扔进松花江",
+        "onboard_time": 1756531761,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89300,
+        "num": 89300,
+        "word": "尹浩宇姜妍已经三天没打我了",
+        "onboard_time": 1756541301,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107507,
+        "num": 88989,
+        "word": "龚俊 老龚你说句话啊",
+        "onboard_time": 1756533382,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87268,
+        "num": 87268,
+        "word": "陆毅鲍蕾的脸合成了贝儿的脸",
+        "onboard_time": 1756540882,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86526,
+        "num": 86526,
+        "word": "张晚意对马思纯说我是想让你多吃点",
+        "onboard_time": 1756536443,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84745,
+        "num": 84745,
+        "word": "T1对战GEN",
+        "onboard_time": 1756535482,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82599,
+        "num": 82599,
+        "word": "蒋奇明怎么什么都能演",
+        "onboard_time": 1756542321,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79910,
+        "num": 79910,
+        "word": "法修散打小金毛",
+        "onboard_time": 1756542321,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79599,
+        "num": 79599,
+        "word": "结婚再怎么谨慎都不为过",
+        "onboard_time": 1756540161,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76480,
+        "num": 76480,
+        "word": "邓萃雯拿走的行李箱是侯佩岑的",
+        "onboard_time": 1756542382,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73106,
+        "num": 75700,
+        "word": "崔永熙回应加盟广东男篮",
+        "onboard_time": 1756541841,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75337,
+        "num": 75337,
+        "word": "警方介入5岁男童撞倒1岁半幼童",
+        "onboard_time": 1756534882,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平引用的谚语名言读懂上合组织#"
+    }
+  }
+}
