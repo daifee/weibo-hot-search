@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756553827621,
+  "endTime": 1756557871439,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -755,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1164151,
+      "num": 299633,
+      "word": "金子涵居然瘦成这样",
+      "onboard_time": 1756549341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1152477,
       "num": 1184396,
       "word": "热依扎公开临床诊断结果",
@@ -776,14 +784,6 @@
       "word": "王艳富豪丈夫已被限消",
       "onboard_time": 1756029383,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1116415,
-      "num": 299633,
-      "word": "金子涵居然瘦成这样",
-      "onboard_time": 1756549341,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1443,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 829679,
+      "num": 269028,
+      "word": "月薪5W是什么概念",
+      "onboard_time": 1756552641,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 826055,
       "num": 1132168,
       "word": "赴山海",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1756276582,
       "rank": 30,
       "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 803146,
+      "num": 1128503,
+      "word": "苏新皓愿与愁",
+      "onboard_time": 1756555521,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 800348,
@@ -2225,6 +2241,14 @@
       "onboard_time": 1756348462,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 634092,
+      "num": 320398,
+      "word": "破音",
+      "onboard_time": 1756556603,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 633348,
@@ -3195,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499483,
+      "num": 447147,
+      "word": "上海药皂 苏丹红",
+      "onboard_time": 1756550542,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498637,
       "num": 498637,
       "word": "陈奕迅方道歉",
@@ -3379,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471742,
+      "num": 257817,
+      "word": "敖瑞鹏回应不刮胡子",
+      "onboard_time": 1756553542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470380,
       "num": 483978,
       "word": "掐了鲁迅的烟谁来点燃思想的火",
@@ -3441,6 +3481,14 @@
       "onboard_time": 1756107743,
       "rank": 4,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 462001,
+      "num": 462001,
+      "word": "印度总理莫迪抵达",
+      "onboard_time": 1756553421,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 460956,
@@ -3603,14 +3651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 447147,
-      "num": 447147,
-      "word": "上海药皂 苏丹红",
-      "onboard_time": 1756550542,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 446561,
       "num": 446561,
       "word": "VOGUE二十周年群模封面",
@@ -3681,6 +3721,14 @@
       "onboard_time": 1756207403,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 440750,
+      "num": 286763,
+      "word": "蔡依林檀健次双人舞合拍",
+      "onboard_time": 1756552461,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 440259,
@@ -5156,7 +5204,7 @@
     },
     {
       "raw_hot": 310157,
-      "num": 161485,
+      "num": 179460,
       "word": "张维伊说买礼物必须是董璇付钱",
       "onboard_time": 1756549882,
       "rank": 30,
@@ -5603,6 +5651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 279953,
+      "num": 279953,
+      "word": "黄子韬跟医生告徐艺洋的状",
+      "onboard_time": 1756555582,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279891,
       "num": 279891,
       "word": "网友称武汉天空有巨大流星坠落",
@@ -5987,6 +6043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255650,
+      "num": 255650,
+      "word": "刘亦菲迪士尼角色全球热",
+      "onboard_time": 1756554141,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255372,
       "num": 255372,
       "word": "王楚钦代言清扬",
@@ -6201,6 +6265,14 @@
       "onboard_time": 1756000462,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246145,
+      "num": 278902,
+      "word": "王楚钦vs孙闻",
+      "onboard_time": 1756556661,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 246132,
@@ -6569,6 +6641,14 @@
       "onboard_time": 1756303585,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232351,
+      "num": 181923,
+      "word": "顶替弟弟迎娶千金走向人生癫疯",
+      "onboard_time": 1756554981,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 232178,
@@ -7355,6 +7435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208288,
+      "num": 208288,
+      "word": "刘宇宁来看大张伟演唱会了",
+      "onboard_time": 1756555281,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "办婚礼不领证 被判退彩礼",
@@ -7473,6 +7561,14 @@
       "onboard_time": 1756457783,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 205995,
+      "num": 205995,
+      "word": "左航鼻塞",
+      "onboard_time": 1756557022,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 205829,
@@ -7769,6 +7865,14 @@
       "onboard_time": 1756182564,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201029,
+      "num": 180077,
+      "word": "女子4天瘦8斤怀疑泳池水质",
+      "onboard_time": 1756556661,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200966,
@@ -9171,6 +9275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 185310,
+      "num": 255107,
+      "word": "苏超",
+      "onboard_time": 1756550661,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185234,
       "num": 183554,
       "word": "孙颖莎的2008年",
@@ -9305,6 +9417,14 @@
       "onboard_time": 1756383682,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183790,
+      "num": 183790,
+      "word": "狼队对战WB",
+      "onboard_time": 1756557623,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 183529,
@@ -9835,6 +9955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176114,
+      "num": 176114,
+      "word": "黄子韬龚俊被网红说一般",
+      "onboard_time": 1756556902,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176080,
       "num": 160682,
       "word": "外国人对中餐有多上瘾",
@@ -9875,20 +10003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175635,
+      "num": 175635,
+      "word": "王源今晚鸟巢嘉宾汪苏泷",
+      "onboard_time": 1756551621,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175522,
       "num": 364139,
       "word": "茶颜悦色回应",
       "onboard_time": 1756023202,
       "rank": 8,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 175455,
-      "num": 175455,
-      "word": "蔡依林檀健次双人舞合拍",
-      "onboard_time": 1756552461,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 175235,
@@ -11075,6 +11203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 160643,
+      "num": 160643,
+      "word": "晚霞",
+      "onboard_time": 1756556782,
+      "rank": 30,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 160623,
       "num": 160623,
       "word": "wei太牛了",
@@ -11595,6 +11731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156508,
+      "num": 156508,
+      "word": "你好星期六",
+      "onboard_time": 1756554561,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156377,
       "num": 156377,
       "word": "狼队连拿三分到赛点",
@@ -11753,6 +11897,14 @@
       "onboard_time": 1756095022,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155091,
+      "num": 155091,
+      "word": "超级夏晚节目单",
+      "onboard_time": 1756554742,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 154974,
@@ -12033,6 +12185,14 @@
       "onboard_time": 1756214782,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152274,
+      "num": 152274,
+      "word": "刘强东现身苏超赛场",
+      "onboard_time": 1756556361,
+      "rank": 34,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 152138,
@@ -12459,6 +12619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148203,
+      "num": 148203,
+      "word": "苏超泰州vs常州",
+      "onboard_time": 1756555220,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148174,
       "num": 148174,
       "word": "华晨宇爱神丘比特妆造",
@@ -12569,14 +12737,6 @@
       "onboard_time": 1755944602,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147367,
-      "num": 147367,
-      "word": "月薪5W是什么概念",
-      "onboard_time": 1756552641,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 147238,
@@ -15915,6 +16075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123243,
+      "num": 123243,
+      "word": "公司资金困难组织员工贷款2000万",
+      "onboard_time": 1756556603,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123163,
       "num": 141227,
       "word": "樊振东身穿新球衣亮相",
@@ -15985,6 +16153,14 @@
       "onboard_time": 1756276223,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122916,
+      "num": 122916,
+      "word": "苏新皓海口演唱会红海",
+      "onboard_time": 1756556181,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 122842,
@@ -16441,6 +16617,14 @@
       "onboard_time": 1756193422,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120268,
+      "num": 120268,
+      "word": "质疑我爷理解我爷成为我爷",
+      "onboard_time": 1756556181,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 120265,
@@ -17811,6 +17995,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 111503,
+      "num": 111503,
+      "word": "不想弄脏小jiojio的小猫",
+      "onboard_time": 1756552761,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111500,
       "num": 111500,
       "word": "95后全职家庭煮夫的真实生活",
@@ -17841,6 +18033,14 @@
       "onboard_time": 1756259960,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111365,
+      "num": 111365,
+      "word": "教育部发布2025年第3号留学预警",
+      "onboard_time": 1756555281,
+      "rank": 43,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 111335,
@@ -18435,14 +18635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 107062,
-      "num": 107062,
-      "word": "王源今晚鸟巢嘉宾汪苏泷",
-      "onboard_time": 1756551621,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 107025,
       "num": 192769,
       "word": "俄乌领土交换将以非正式方式进行",
@@ -18585,6 +18777,14 @@
       "onboard_time": 1756206801,
       "rank": 16,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 106473,
+      "num": 106473,
+      "word": "南波万有引力奇点派对",
+      "onboard_time": 1756557443,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 106466,
@@ -19003,6 +19203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104313,
+      "num": 104313,
+      "word": "印度人不顾阻止跳入云龙湖",
+      "onboard_time": 1756555642,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104262,
       "num": 104262,
       "word": "战至巅峰",
@@ -19065,14 +19273,6 @@
       "onboard_time": 1756452743,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 104012,
-      "num": 104012,
-      "word": "印度总理莫迪抵达",
-      "onboard_time": 1756553421,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103983,
@@ -19971,6 +20171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95358,
+      "num": 95358,
+      "word": "曹恩齐发色开出隐藏款了",
+      "onboard_time": 1756557683,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95333,
       "num": 95333,
       "word": "蔚来跌近8%",
@@ -20571,14 +20779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89257,
-      "num": 149765,
-      "word": "苏超",
-      "onboard_time": 1756550661,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89243,
       "num": 89243,
       "word": "七夕还能看乒乓球",
@@ -20825,14 +21025,6 @@
       "onboard_time": 1756394903,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85505,
-      "num": 85505,
-      "word": "不想弄脏小jiojio的小猫",
-      "onboard_time": 1756552761,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 85385,
@@ -24067,6 +24259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39640,
+      "num": 186755,
+      "word": "律师称店主曝光食客过度用纸巾或侵权",
+      "onboard_time": 1756557142,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39489,
       "num": 55365,
       "word": "北京最大降雨量79.6毫米",
@@ -24467,20 +24667,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34880,
-      "num": 107446,
-      "word": "敖瑞鹏回应不刮胡子",
-      "onboard_time": 1756553542,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34837,
       "num": 321746,
       "word": "从河说起发现郑州之美",
       "onboard_time": 1756119382,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34589,
+      "num": 206106,
+      "word": "MG展台爆了",
+      "onboard_time": 1756553841,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 34446,
@@ -24945,6 +25145,14 @@
       "onboard_time": 1756060395,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28264,
+      "num": 130436,
+      "word": "记者兼职送外卖1晚挣了29块",
+      "onboard_time": 1756557623,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28234,

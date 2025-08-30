@@ -1,0 +1,410 @@
+{
+  "runTime": 1756557871439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 803146,
+        "num": 1128503,
+        "word": "苏新皓愿与愁",
+        "onboard_time": 1756555521,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 462001,
+        "num": 462001,
+        "word": "印度总理莫迪抵达",
+        "onboard_time": 1756553421,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53317,
+        "num": 345440,
+        "word": "2025上合组织天津峰会",
+        "onboard_time": 1756541301,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 634092,
+        "num": 320398,
+        "word": "破音",
+        "onboard_time": 1756556603,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 523503,
+        "num": 317120,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1756527801,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 288836,
+        "num": 288836,
+        "word": "多地公布今年七夕结婚登记数据",
+        "onboard_time": 1756549581,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440750,
+        "num": 286763,
+        "word": "蔡依林檀健次双人舞合拍",
+        "onboard_time": 1756552461,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279953,
+        "num": 279953,
+        "word": "黄子韬跟医生告徐艺洋的状",
+        "onboard_time": 1756555582,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246145,
+        "num": 278902,
+        "word": "王楚钦vs孙闻",
+        "onboard_time": 1756556661,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200308,
+        "num": 273877,
+        "word": "几乎绝迹床虱又出现了",
+        "onboard_time": 1756535240,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 829679,
+        "num": 269028,
+        "word": "月薪5W是什么概念",
+        "onboard_time": 1756552641,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 499483,
+        "num": 262135,
+        "word": "上海药皂 苏丹红",
+        "onboard_time": 1756550542,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471742,
+        "num": 257817,
+        "word": "敖瑞鹏回应不刮胡子",
+        "onboard_time": 1756553542,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255650,
+        "num": 255650,
+        "word": "刘亦菲迪士尼角色全球热",
+        "onboard_time": 1756554141,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185310,
+        "num": 255107,
+        "word": "苏超",
+        "onboard_time": 1756550661,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255088,
+        "num": 255088,
+        "word": "范丞丞刀马刀马点赞破1000w",
+        "onboard_time": 1756548381,
+        "rank": 15,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 208288,
+        "num": 208288,
+        "word": "刘宇宁来看大张伟演唱会了",
+        "onboard_time": 1756555281,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34589,
+        "num": 206106,
+        "word": "MG展台爆了",
+        "onboard_time": 1756553841,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205995,
+        "num": 205995,
+        "word": "左航鼻塞",
+        "onboard_time": 1756557022,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39640,
+        "num": 186755,
+        "word": "律师称店主曝光食客过度用纸巾或侵权",
+        "onboard_time": 1756557142,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1164151,
+        "num": 186176,
+        "word": "金子涵居然瘦成这样",
+        "onboard_time": 1756549341,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664605,
+        "num": 185834,
+        "word": "龚俊大哭",
+        "onboard_time": 1756543521,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183790,
+        "num": 183790,
+        "word": "狼队对战WB",
+        "onboard_time": 1756557623,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 284226,
+        "num": 183717,
+        "word": "刘强东夜市用塑料碗和乡亲们喝酒",
+        "onboard_time": 1756546343,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232351,
+        "num": 181923,
+        "word": "顶替弟弟迎娶千金走向人生癫疯",
+        "onboard_time": 1756554981,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229297,
+        "num": 180866,
+        "word": "恋与和吴磊结束合作关系",
+        "onboard_time": 1756540882,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201029,
+        "num": 180077,
+        "word": "女子4天瘦8斤怀疑泳池水质",
+        "onboard_time": 1756556661,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179460,
+        "num": 179460,
+        "word": "张维伊说买礼物必须是董璇付钱",
+        "onboard_time": 1756549882,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176114,
+        "num": 176114,
+        "word": "黄子韬龚俊被网红说一般",
+        "onboard_time": 1756556902,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175635,
+        "num": 175635,
+        "word": "王源今晚鸟巢嘉宾汪苏泷",
+        "onboard_time": 1756551621,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160643,
+        "num": 160643,
+        "word": "晚霞",
+        "onboard_time": 1756556782,
+        "rank": 30,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 156508,
+        "num": 156508,
+        "word": "你好星期六",
+        "onboard_time": 1756554561,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176263,
+        "num": 155951,
+        "word": "董璇说我又要办婚礼了",
+        "onboard_time": 1756539862,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155091,
+        "num": 155091,
+        "word": "超级夏晚节目单",
+        "onboard_time": 1756554742,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152274,
+        "num": 152274,
+        "word": "刘强东现身苏超赛场",
+        "onboard_time": 1756556361,
+        "rank": 34,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 152811,
+        "num": 150773,
+        "word": "舒淇王俊凯新电影杀青",
+        "onboard_time": 1756551321,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148203,
+        "num": 148203,
+        "word": "苏超泰州vs常州",
+        "onboard_time": 1756555220,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137799,
+        "num": 137799,
+        "word": "这周吃的饭vs下周吃的饭",
+        "onboard_time": 1756552401,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28264,
+        "num": 130436,
+        "word": "记者兼职送外卖1晚挣了29块",
+        "onboard_time": 1756557623,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123243,
+        "num": 123243,
+        "word": "公司资金困难组织员工贷款2000万",
+        "onboard_time": 1756556603,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122916,
+        "num": 122916,
+        "word": "苏新皓海口演唱会红海",
+        "onboard_time": 1756556181,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120268,
+        "num": 120268,
+        "word": "质疑我爷理解我爷成为我爷",
+        "onboard_time": 1756556181,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111503,
+        "num": 111503,
+        "word": "不想弄脏小jiojio的小猫",
+        "onboard_time": 1756552761,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111365,
+        "num": 111365,
+        "word": "教育部发布2025年第3号留学预警",
+        "onboard_time": 1756555281,
+        "rank": 43,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 106473,
+        "num": 106473,
+        "word": "南波万有引力奇点派对",
+        "onboard_time": 1756557443,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104560,
+        "num": 104560,
+        "word": "贺峻霖 这里是成都",
+        "onboard_time": 1756552702,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104313,
+        "num": 104313,
+        "word": "印度人不顾阻止跳入云龙湖",
+        "onboard_time": 1756555642,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103289,
+        "num": 103289,
+        "word": "当你在狗咖摔倒时",
+        "onboard_time": 1756552042,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101828,
+        "num": 101828,
+        "word": "不结婚的话老年生活就这样过",
+        "onboard_time": 1756549161,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95358,
+        "num": 95358,
+        "word": "曹恩齐发色开出隐藏款了",
+        "onboard_time": 1756557683,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平引用的谚语名言读懂上合组织#"
+    }
+  }
+}
