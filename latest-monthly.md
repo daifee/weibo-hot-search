@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 18:40:06
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 19:19:33
 </p>
 </blockquote>
 <p>
@@ -3807,6 +3807,12 @@ iPhone充电坏习惯（热度：1074301）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%B1%85%E7%84%B6%E7%98%A6%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
+金子涵居然瘦成这样（热度：1021223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E4%B9%90%20%E6%8A%B1%E6%AD%89%E8%AE%A9%E5%A4%A7%E5%AE%B6%E7%9C%8B%E5%88%B0%E6%9D%82%E4%B9%B1%E7%9A%84%E5%B1%8B%E5%AD%90%23" target="weibo">
 管乐 抱歉让大家看到杂乱的屋子（热度：1020268）
 </a>
@@ -6005,12 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%88%92%E5%8D%8E%E6%B1%89%E6%9C%8D%23" target="weibo">
 叶舒华汉服（热度：770560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%A7%80%E4%B8%BD%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E4%B8%BA%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%91%E5%A3%B0%23" target="weibo">
-新秀丽工作人员为虞书欣发声（热度：770415）
 </a>
 </li>
 
