@@ -1,0 +1,410 @@
+{
+  "runTime": 1756596138289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 257199,
+        "num": 742558,
+        "word": "农村女孩靠摆盘从职校生干到了副教授",
+        "onboard_time": 1756566084,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183043,
+        "num": 183043,
+        "word": "王源十二封信",
+        "onboard_time": 1756571002,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 5851,
+        "num": 155318,
+        "word": "开学季网警来送网络安全课了",
+        "onboard_time": 1756596077,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184312,
+        "num": 145572,
+        "word": "黄子韬龚俊被网红说一般",
+        "onboard_time": 1756556902,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133040,
+        "num": 133040,
+        "word": "日本代表最后一刻取消访美",
+        "onboard_time": 1756565063,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106841,
+        "num": 106841,
+        "word": "国防科大高铁站迎新生气场拉满",
+        "onboard_time": 1756594937,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 109888,
+        "num": 106343,
+        "word": "张维伊说买礼物必须是董璇付钱",
+        "onboard_time": 1756549882,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10538,
+        "num": 99347,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96755,
+        "num": 96755,
+        "word": "印度总理莫迪抵达",
+        "onboard_time": 1756553421,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69867,
+        "num": 69867,
+        "word": "紫苏叶按片卖最多日营收1万",
+        "onboard_time": 1756588394,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302544,
+        "num": 69852,
+        "word": "嫂嫂开门我是我哥被拍出来了",
+        "onboard_time": 1756560803,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145705,
+        "num": 69550,
+        "word": "当事人回应16年后偶遇初恋光速订婚",
+        "onboard_time": 1756576577,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106401,
+        "num": 69444,
+        "word": "被字节跳动的食堂震惊到了",
+        "onboard_time": 1756560684,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77962,
+        "num": 69266,
+        "word": "印度500万粉丝网红拍片遭瀑布冲走",
+        "onboard_time": 1756558763,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69181,
+        "num": 69181,
+        "word": "日本发动侵略战争祸首究竟是谁",
+        "onboard_time": 1756564284,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 73869,
+        "num": 65476,
+        "word": "女子4天瘦8斤怀疑泳池水质",
+        "onboard_time": 1756556661,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60449,
+        "num": 60449,
+        "word": "王楚钦笑了一晚上",
+        "onboard_time": 1756595596,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59847,
+        "num": 59847,
+        "word": "又一个看着长大的童星火了",
+        "onboard_time": 1756558822,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53298,
+        "num": 53298,
+        "word": "我国科学家在6G领域取得新突破",
+        "onboard_time": 1756570641,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52971,
+        "num": 52971,
+        "word": "月薪5W是什么概念",
+        "onboard_time": 1756552641,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241692,
+        "num": 52505,
+        "word": "蓝盈莹生万物战报已更正",
+        "onboard_time": 1756567225,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148416,
+        "num": 50711,
+        "word": "金价",
+        "onboard_time": 1756564884,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93230,
+        "num": 50445,
+        "word": "第一次见侏儒小猫",
+        "onboard_time": 1756595538,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48097,
+        "num": 48097,
+        "word": "sexy back",
+        "onboard_time": 1756564763,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45226,
+        "num": 45226,
+        "word": "陈飞宇王影璐情侣装",
+        "onboard_time": 1756566204,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45119,
+        "num": 45119,
+        "word": "李现跳刀马刀马",
+        "onboard_time": 1756562965,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44164,
+        "num": 44164,
+        "word": "谁给蓝盈莹浇成这样的",
+        "onboard_time": 1756561884,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43779,
+        "num": 43779,
+        "word": "董璇张维伊因请帖起争执",
+        "onboard_time": 1756570042,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43046,
+        "num": 43046,
+        "word": "陈柏阳刘毅晋级世锦赛决赛",
+        "onboard_time": 1756596019,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42762,
+        "num": 42762,
+        "word": "尚公主",
+        "onboard_time": 1756559123,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66384,
+        "num": 42715,
+        "word": "白敬亭说刀马是吧等着",
+        "onboard_time": 1756591394,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43165,
+        "num": 42654,
+        "word": "孙闻教练赛后跟裁判争论",
+        "onboard_time": 1756595716,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42363,
+        "num": 42363,
+        "word": "孙越的大褂原来这么大",
+        "onboard_time": 1756592655,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42139,
+        "num": 42139,
+        "word": "金子涵居然瘦成这样",
+        "onboard_time": 1756549341,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40902,
+        "num": 40902,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1756527801,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40428,
+        "num": 40428,
+        "word": "Jiejie回应输给NIP",
+        "onboard_time": 1756595596,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36799,
+        "num": 36799,
+        "word": "王源演唱会偶遇了张真源严浩翔",
+        "onboard_time": 1756561043,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35871,
+        "num": 35871,
+        "word": "三宝对倪萍李维嘉的态度",
+        "onboard_time": 1756595898,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35487,
+        "num": 35487,
+        "word": "张泽禹i wanna be your slave",
+        "onboard_time": 1756595657,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35295,
+        "num": 35295,
+        "word": "2025年羽毛球世锦赛",
+        "onboard_time": 1756560983,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34374,
+        "num": 34374,
+        "word": "敖瑞鹏回应不刮胡子",
+        "onboard_time": 1756553542,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33401,
+        "num": 33401,
+        "word": "杜克带一哥来中国了",
+        "onboard_time": 1756567344,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31879,
+        "num": 33399,
+        "word": "Doinb 爽",
+        "onboard_time": 1756564463,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30460,
+        "num": 33399,
+        "word": "陈雨菲被搀扶退场",
+        "onboard_time": 1756563863,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29103,
+        "num": 33398,
+        "word": "床虱不挑环境不止存在于脏乱差",
+        "onboard_time": 1756589173,
+        "rank": 44,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 29012,
+        "num": 33397,
+        "word": "朴秀荣瘦成纸片人",
+        "onboard_time": 1756572619,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28554,
+        "num": 33395,
+        "word": "华晨宇 我第一次秀肌肉有点笨拙",
+        "onboard_time": 1756564763,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27617,
+        "num": 33393,
+        "word": "庞博嘻哈小北祝贺何广智到长安了",
+        "onboard_time": 1756565242,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26597,
+        "num": 33391,
+        "word": "多国领导人来华赴上合之约",
+        "onboard_time": 1756563204,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25227,
+        "num": 33390,
+        "word": "破音",
+        "onboard_time": 1756556603,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见柬埔寨首相#"
+    }
+  }
+}
