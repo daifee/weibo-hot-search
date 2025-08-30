@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756588890028,
+  "endTime": 1756589775755,
   "band_list": [
     {
       "raw_hot": 1062110,
@@ -571,12 +571,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11792,
+      "num": 24741,
+      "word": "紫苏叶按片卖最多日营收1万",
+      "onboard_time": 1756588394,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11689,
       "num": 26261,
       "word": "卢卡申科说要像中国人一步一个脚印",
       "onboard_time": 1756583775,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11480,
+      "num": 24738,
+      "word": "床虱不挑环境不止存在于脏乱差",
+      "onboard_time": 1756589173,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 11138,
@@ -595,12 +611,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10527,
-      "num": 24718,
-      "word": "紫苏叶按片卖最多日营收1万",
-      "onboard_time": 1756588394,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 9887,
+      "num": 24767,
+      "word": "中埃要做好兄弟好伙伴好朋友",
+      "onboard_time": 1756588935,
+      "rank": 18,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
