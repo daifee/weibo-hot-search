@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756579474493,
+  "endTime": 1756581529957,
   "band_list": [
     {
       "raw_hot": 1062110,
@@ -243,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106307,
+      "num": 56099,
+      "word": "当事人回应16年后偶遇初恋光速订婚",
+      "onboard_time": 1756576577,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104844,
       "num": 229688,
       "word": "印度500万粉丝网红拍片遭瀑布冲走",
@@ -419,14 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48946,
-      "num": 53694,
-      "word": "当事人回应16年后偶遇初恋光速订婚",
-      "onboard_time": 1756576577,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45498,
       "num": 79743,
       "word": "黄明昊贾想世界演唱会",
@@ -523,12 +523,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17137,
+      "num": 54372,
+      "word": "敖瑞鹏松弛感",
+      "onboard_time": 1756576877,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15780,
-      "num": 52464,
+      "num": 54403,
       "word": "关注上合组织天津峰会",
       "onboard_time": 1756551742,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15077,
+      "num": 54347,
+      "word": "刘宇演唱会君子造型",
+      "onboard_time": 1756580114,
+      "rank": 46,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
