@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756596138289,
+  "endTime": 1756596974863,
   "band_list": [
     {
       "raw_hot": 1062110,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341515,
+      "num": 232130,
+      "word": "嫂嫂开门我是我哥被拍出来了",
+      "onboard_time": 1756560803,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337575,
       "num": 231477,
       "word": "尚公主",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 318216,
-      "num": 742558,
+      "num": 845265,
       "word": "农村女孩靠摆盘从职校生干到了副教授",
       "onboard_time": 1756566084,
       "rank": 1,
@@ -65,14 +73,6 @@
       "onboard_time": 1756549341,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302544,
-      "num": 232130,
-      "word": "嫂嫂开门我是我哥被拍出来了",
-      "onboard_time": 1756560803,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 267351,
@@ -89,6 +89,14 @@
       "onboard_time": 1756561043,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250741,
+      "num": 228567,
+      "word": "黄子韬龚俊被网红说一般",
+      "onboard_time": 1756556902,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 250505,
@@ -139,12 +147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184312,
-      "num": 228567,
-      "word": "黄子韬龚俊被网红说一般",
-      "onboard_time": 1756556902,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 168044,
+      "num": 228207,
+      "word": "日本代表最后一刻取消访美",
+      "onboard_time": 1756565063,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161694,
@@ -153,6 +161,30 @@
       "onboard_time": 1756566444,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155233,
+      "num": 155233,
+      "word": "国防科大高铁站迎新生气场拉满",
+      "onboard_time": 1756594937,
+      "rank": 5,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 154997,
+      "num": 230578,
+      "word": "张维伊说买礼物必须是董璇付钱",
+      "onboard_time": 1756549882,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153569,
+      "num": 73364,
+      "word": "当事人回应16年后偶遇初恋光速订婚",
+      "onboard_time": 1756576577,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151099,
@@ -171,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145705,
-      "num": 69550,
-      "word": "当事人回应16年后偶遇初恋光速订婚",
-      "onboard_time": 1756576577,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142954,
       "num": 231006,
       "word": "女子4天瘦8斤怀疑泳池水质",
@@ -195,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133040,
-      "num": 228207,
-      "word": "日本代表最后一刻取消访美",
-      "onboard_time": 1756565063,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 133925,
+      "num": 73175,
+      "word": "三宝对倪萍李维嘉的态度",
+      "onboard_time": 1756595898,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 131973,
@@ -211,12 +235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129314,
-      "num": 230578,
-      "word": "张维伊说买礼物必须是董璇付钱",
-      "onboard_time": 1756549882,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 129972,
+      "num": 54927,
+      "word": "第一次见侏儒小猫",
+      "onboard_time": 1756595538,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 120081,
@@ -267,20 +291,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 106841,
-      "num": 106841,
-      "word": "国防科大高铁站迎新生气场拉满",
-      "onboard_time": 1756594937,
-      "rank": 5,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 104844,
       "num": 229688,
       "word": "印度500万粉丝网红拍片遭瀑布冲走",
       "onboard_time": 1756558763,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104145,
+      "num": 71054,
+      "word": "王楚钦笑了一晚上",
+      "onboard_time": 1756595596,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 104091,
@@ -307,14 +331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93230,
-      "num": 50445,
-      "word": "第一次见侏儒小猫",
-      "onboard_time": 1756595538,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 87225,
       "num": 229363,
       "word": "华晨宇 我第一次秀肌肉有点笨拙",
@@ -339,12 +355,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69867,
-      "num": 69867,
+      "raw_hot": 75805,
+      "num": 44885,
+      "word": "白敬亭说刀马是吧等着",
+      "onboard_time": 1756591394,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74469,
+      "num": 74469,
       "word": "紫苏叶按片卖最多日营收1万",
       "onboard_time": 1756588394,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71915,
+      "num": 227012,
+      "word": "日本发动侵略战争祸首究竟是谁",
+      "onboard_time": 1756564284,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 69231,
@@ -353,14 +385,6 @@
       "onboard_time": 1756559062,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69181,
-      "num": 227012,
-      "word": "日本发动侵略战争祸首究竟是谁",
-      "onboard_time": 1756564284,
-      "rank": 47,
-      "category": "正能量"
     },
     {
       "raw_hot": 67269,
@@ -377,14 +401,6 @@
       "onboard_time": 1756566023,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66384,
-      "num": 42715,
-      "word": "白敬亭说刀马是吧等着",
-      "onboard_time": 1756591394,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 65426,
@@ -435,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60449,
-      "num": 60449,
-      "word": "王楚钦笑了一晚上",
-      "onboard_time": 1756595596,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 58777,
       "num": 226922,
       "word": "多国领导人来华赴上合之约",
@@ -467,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46839,
+      "num": 50986,
+      "word": "王源新歌",
+      "onboard_time": 1756596858,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 45498,
       "num": 79743,
       "word": "黄明昊贾想世界演唱会",
@@ -475,8 +491,24 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43165,
-      "num": 42654,
+      "raw_hot": 44321,
+      "num": 44321,
+      "word": "Jiejie回应输给NIP",
+      "onboard_time": 1756595596,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 43674,
+      "num": 43674,
+      "word": "孙越的大褂原来这么大",
+      "onboard_time": 1756592655,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43476,
+      "num": 43476,
       "word": "孙闻教练赛后跟裁判争论",
       "onboard_time": 1756595716,
       "rank": 31,
@@ -491,20 +523,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42363,
-      "num": 42363,
-      "word": "孙越的大褂原来这么大",
-      "onboard_time": 1756592655,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42283,
       "num": 79700,
       "word": "孙彩瑛点赞Ziont自拍照",
       "onboard_time": 1756561884,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42000,
+      "num": 42000,
+      "word": "想让千惠妈妈有出走的决心",
+      "onboard_time": 1756596497,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 41565,
+      "num": 41565,
+      "word": "你好星期六暑期收视13连冠",
+      "onboard_time": 1756596497,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 41308,
@@ -515,14 +555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 40428,
-      "num": 40428,
-      "word": "Jiejie回应输给NIP",
-      "onboard_time": 1756595596,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 38256,
       "num": 79568,
       "word": "丁程鑫跳了发牌摇扫腿舞",
@@ -531,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35871,
-      "num": 35871,
-      "word": "三宝对倪萍李维嘉的态度",
-      "onboard_time": 1756595898,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 37024,
+      "num": 37024,
+      "word": "2025年羽毛球世锦赛",
+      "onboard_time": 1756560983,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 35741,
@@ -547,20 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35487,
-      "num": 35487,
+      "raw_hot": 35666,
+      "num": 35666,
       "word": "张泽禹i wanna be your slave",
       "onboard_time": 1756595657,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35295,
-      "num": 35295,
-      "word": "2025年羽毛球世锦赛",
-      "onboard_time": 1756560983,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 34130,
@@ -571,12 +595,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 33470,
+      "num": 33470,
+      "word": "檀健次一趟下来打了八百辆车",
+      "onboard_time": 1756596257,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32806,
+      "num": 155318,
+      "word": "开学季网警来送网络安全课了",
+      "onboard_time": 1756596077,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32570,
       "num": 88143,
       "word": "一支视频看天津的桥桥桥桥桥",
       "onboard_time": 1756572499,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31842,
+      "num": 31842,
+      "word": "张康乐新歌",
+      "onboard_time": 1756596797,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 30417,
+      "num": 31842,
+      "word": "王楚钦脖子抻出去二里地",
+      "onboard_time": 1756596378,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 29733,
@@ -624,6 +680,14 @@
       "word": "始终高举上海精神旗帜",
       "onboard_time": 1756550481,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19879,
+      "num": 74115,
+      "word": "大国外交开启繁忙模式",
+      "onboard_time": 1756596497,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -705,14 +769,6 @@
       "onboard_time": 1756587253,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5851,
-      "num": 155318,
-      "word": "开学季网警来送网络安全课了",
-      "onboard_time": 1756596077,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

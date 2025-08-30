@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756596138289,
+  "endTime": 1756596974863,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -22868,7 +22868,7 @@
     },
     {
       "raw_hot": 318216,
-      "num": 742558,
+      "num": 845265,
       "word": "农村女孩靠摆盘从职校生干到了副教授",
       "onboard_time": 1756566084,
       "rank": 19,
@@ -27849,6 +27849,14 @@
       "onboard_time": 1754004620,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250741,
+      "num": 359594,
+      "word": "黄子韬龚俊被网红说一般",
+      "onboard_time": 1756556902,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 250616,
@@ -34672,14 +34680,6 @@
       "word": "马嘉祺拿了MVP也淡淡的",
       "onboard_time": 1756212382,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 204164,
-      "num": 359594,
-      "word": "黄子韬龚俊被网红说一般",
-      "onboard_time": 1756556902,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -47187,6 +47187,14 @@
       "category": "幽默,运动健身"
     },
     {
+      "raw_hot": 168044,
+      "num": 228207,
+      "word": "日本代表最后一刻取消访美",
+      "onboard_time": 1756565063,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 168040,
       "num": 165677,
       "word": "她的同学根本没意识到她有多强",
@@ -52611,6 +52619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 155233,
+      "num": 155233,
+      "word": "国防科大高铁站迎新生气场拉满",
+      "onboard_time": 1756594937,
+      "rank": 5,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 155212,
       "num": 155212,
       "word": "时代少年团上海站错票将禁购三年",
@@ -53393,6 +53409,14 @@
       "onboard_time": 1754979862,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153569,
+      "num": 73364,
+      "word": "当事人回应16年后偶遇初恋光速订婚",
+      "onboard_time": 1756576577,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153534,
@@ -57161,14 +57185,6 @@
       "onboard_time": 1754827401,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145705,
-      "num": 69550,
-      "word": "当事人回应16年后偶遇初恋光速订婚",
-      "onboard_time": 1756576577,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145698,
@@ -64027,6 +64043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133925,
+      "num": 73175,
+      "word": "三宝对倪萍李维嘉的态度",
+      "onboard_time": 1756595898,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133914,
       "num": 189316,
       "word": "二刷凡人修仙传走不出来了",
@@ -64569,14 +64593,6 @@
       "onboard_time": 1754553983,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133040,
-      "num": 228207,
-      "word": "日本代表最后一刻取消访美",
-      "onboard_time": 1756565063,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133016,
@@ -66385,6 +66401,14 @@
       "onboard_time": 1756294824,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129972,
+      "num": 54927,
+      "word": "第一次见侏儒小猫",
+      "onboard_time": 1756595538,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 129970,
@@ -80547,14 +80571,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 106841,
-      "num": 106841,
-      "word": "国防科大高铁站迎新生气场拉满",
-      "onboard_time": 1756594937,
-      "rank": 5,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 106839,
       "num": 106839,
       "word": "五月天上海",
@@ -82080,6 +82096,14 @@
       "word": "王添艺3比1陈幸同",
       "onboard_time": 1756447042,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104145,
+      "num": 71054,
+      "word": "王楚钦笑了一晚上",
+      "onboard_time": 1756595596,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -86979,14 +87003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93230,
-      "num": 50445,
-      "word": "第一次见侏儒小猫",
-      "onboard_time": 1756595538,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 93177,
       "num": 94304,
       "word": "QQ月活超5亿",
@@ -91787,6 +91803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 75805,
+      "num": 44885,
+      "word": "白敬亭说刀马是吧等着",
+      "onboard_time": 1756591394,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75746,
       "num": 113014,
       "word": "30岁孙子医院照顾84岁奶奶",
@@ -92081,6 +92105,14 @@
       "onboard_time": 1754700621,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74469,
+      "num": 74469,
+      "word": "紫苏叶按片卖最多日营收1万",
+      "onboard_time": 1756588394,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74419,
@@ -92553,6 +92585,14 @@
       "onboard_time": 1756102882,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71915,
+      "num": 227012,
+      "word": "日本发动侵略战争祸首究竟是谁",
+      "onboard_time": 1756564284,
+      "rank": 22,
+      "category": "正能量"
     },
     {
       "raw_hot": 71761,
@@ -93059,14 +93099,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 69867,
-      "num": 69867,
-      "word": "紫苏叶按片卖最多日营收1万",
-      "onboard_time": 1756588394,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69839,
       "num": 69839,
       "word": "安静公主回应卖惨",
@@ -93193,14 +93225,6 @@
       "onboard_time": 1754559084,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69181,
-      "num": 227012,
-      "word": "日本发动侵略战争祸首究竟是谁",
-      "onboard_time": 1756564284,
-      "rank": 22,
-      "category": "正能量"
     },
     {
       "raw_hot": 69179,
@@ -93825,14 +93849,6 @@
       "onboard_time": 1754543004,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66384,
-      "num": 42715,
-      "word": "白敬亭说刀马是吧等着",
-      "onboard_time": 1756591394,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 66334,
@@ -95137,14 +95153,6 @@
       "onboard_time": 1756423699,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 60449,
-      "num": 60449,
-      "word": "王楚钦笑了一晚上",
-      "onboard_time": 1756595596,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 60438,
@@ -98411,6 +98419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46839,
+      "num": 50986,
+      "word": "王源新歌",
+      "onboard_time": 1756596858,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 46824,
       "num": 354497,
       "word": "看屏千遍不如见龚俊一面",
@@ -99155,6 +99171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44321,
+      "num": 44321,
+      "word": "Jiejie回应输给NIP",
+      "onboard_time": 1756595596,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44238,
       "num": 196539,
       "word": "MG4暴增1000家售后服务点",
@@ -99299,6 +99323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 43674,
+      "num": 43674,
+      "word": "孙越的大褂原来这么大",
+      "onboard_time": 1756592655,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43615,
       "num": 123151,
       "word": "多名未成年主播急求MCN脱身办法",
@@ -99321,6 +99353,14 @@
       "onboard_time": 1755594084,
       "rank": 44,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 43476,
+      "num": 43476,
+      "word": "孙闻教练赛后跟裁判争论",
+      "onboard_time": 1756595716,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 43459,
@@ -99433,14 +99473,6 @@
       "onboard_time": 1756116504,
       "rank": 27,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 43165,
-      "num": 42654,
-      "word": "孙闻教练赛后跟裁判争论",
-      "onboard_time": 1756595716,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 43158,
@@ -99643,14 +99675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42363,
-      "num": 42363,
-      "word": "孙越的大褂原来这么大",
-      "onboard_time": 1756592655,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42325,
       "num": 791742,
       "word": "2025江西省网络文明大会",
@@ -99753,6 +99777,14 @@
       "onboard_time": 1756362742,
       "rank": 29,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 42000,
+      "num": 42000,
+      "word": "想让千惠妈妈有出走的决心",
+      "onboard_time": 1756596497,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 41977,
@@ -99881,6 +99913,14 @@
       "onboard_time": 1754656283,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 41565,
+      "num": 41565,
+      "word": "你好星期六暑期收视13连冠",
+      "onboard_time": 1756596497,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 41556,
@@ -100249,14 +100289,6 @@
       "onboard_time": 1755357982,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 40428,
-      "num": 40428,
-      "word": "Jiejie回应输给NIP",
-      "onboard_time": 1756595596,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 40384,
@@ -101507,14 +101539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35871,
-      "num": 35871,
-      "word": "三宝对倪萍李维嘉的态度",
-      "onboard_time": 1756595898,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 35822,
       "num": 262211,
       "word": "自闭症男童遇难机构首次正面回应",
@@ -101611,6 +101635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35666,
+      "num": 35666,
+      "word": "张泽禹i wanna be your slave",
+      "onboard_time": 1756595657,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 35653,
       "num": 150003,
       "word": "人防办回应海口半夜响起防空警报声",
@@ -101649,14 +101681,6 @@
       "onboard_time": 1755167542,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 35487,
-      "num": 35487,
-      "word": "张泽禹i wanna be your slave",
-      "onboard_time": 1756595657,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 35378,
@@ -102147,6 +102171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33470,
+      "num": 33470,
+      "word": "檀健次一趟下来打了八百辆车",
+      "onboard_time": 1756596257,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33469,
       "num": 164380,
       "word": "高铁 带娃车厢",
@@ -102337,6 +102369,14 @@
       "onboard_time": 1754764756,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32806,
+      "num": 155318,
+      "word": "开学季网警来送网络安全课了",
+      "onboard_time": 1756596077,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32802,
@@ -102577,6 +102617,14 @@
       "onboard_time": 1756401857,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 31842,
+      "num": 31842,
+      "word": "张康乐新歌",
+      "onboard_time": 1756596797,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 31829,
@@ -102873,6 +102921,14 @@
       "onboard_time": 1754512753,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30417,
+      "num": 31842,
+      "word": "王楚钦脖子抻出去二里地",
+      "onboard_time": 1756596378,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 30413,
@@ -105731,6 +105787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19879,
+      "num": 74115,
+      "word": "大国外交开启繁忙模式",
+      "onboard_time": 1756596497,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19793,
       "num": 169590,
       "word": "vivoVision移动巨幕体验秒上头",
@@ -107487,14 +107551,6 @@
       "num": 698744,
       "word": "2025世界人形机器人运动会新闻发布会",
       "onboard_time": 1754646502,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5851,
-      "num": 155318,
-      "word": "开学季网警来送网络安全课了",
-      "onboard_time": 1756596077,
       "rank": 2,
       "category": "民生新闻"
     },
