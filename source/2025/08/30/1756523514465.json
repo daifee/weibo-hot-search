@@ -1,0 +1,410 @@
+{
+  "runTime": 1756523514465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 416822,
+        "num": 1066691,
+        "word": "iPhone17Pro全爆料汇总",
+        "onboard_time": 1756513760,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207950,
+        "num": 207950,
+        "word": "菲方踩踏中方红线必将付出代价",
+        "onboard_time": 1756483224,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8724,
+        "num": 198635,
+        "word": "礼炮声里的中国排面",
+        "onboard_time": 1756467564,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579159,
+        "num": 196360,
+        "word": "王源七夕送了二十多万礼物",
+        "onboard_time": 1756521620,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291987,
+        "num": 196119,
+        "word": "不要在喝水的时候看唐国强这段",
+        "onboard_time": 1756521742,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194005,
+        "num": 194005,
+        "word": "男子16年后偶遇初恋光速订婚",
+        "onboard_time": 1756512619,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225717,
+        "num": 181151,
+        "word": "苹果三星要求小米停止争议营销",
+        "onboard_time": 1756511180,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153895,
+        "num": 153895,
+        "word": "特朗普关税措施被裁定为非法",
+        "onboard_time": 1756512260,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121361,
+        "num": 153261,
+        "word": "男子车后绑60斤大鱼遛街展示",
+        "onboard_time": 1756521200,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118656,
+        "num": 153012,
+        "word": "赖清德否认台湾光复数典忘祖",
+        "onboard_time": 1756516760,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1394032,
+        "num": 151683,
+        "word": "蓬莱二中通报教师与学生不文明聊天",
+        "onboard_time": 1756518560,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545121,
+        "num": 150920,
+        "word": "陈奕恒暂时离开TF家族",
+        "onboard_time": 1756490237,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378934,
+        "num": 150830,
+        "word": "亲生和亲自生的还是有区别的",
+        "onboard_time": 1756514361,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226160,
+        "num": 149923,
+        "word": "主人回应狗狗靠捡瓶子存款过万",
+        "onboard_time": 1756519099,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225776,
+        "num": 149218,
+        "word": "孟子义李昀锐尚公主剧组聚餐",
+        "onboard_time": 1756512380,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184934,
+        "num": 147956,
+        "word": "投诉鲁迅墙画女子称并非针对鲁迅",
+        "onboard_time": 1756522460,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147898,
+        "num": 147898,
+        "word": "张佳宁送谭松韵粉玫瑰",
+        "onboard_time": 1756515561,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147841,
+        "num": 147841,
+        "word": "周杰伦和昆凌七夕节前逛街被偶遇",
+        "onboard_time": 1756520421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145172,
+        "num": 145172,
+        "word": "马丽对时代少年团印象最深",
+        "onboard_time": 1756518501,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102416,
+        "num": 144747,
+        "word": "军训暴雨校领导无人离席看会操",
+        "onboard_time": 1756476504,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160319,
+        "num": 144687,
+        "word": "尚公主不基础昀牵孟绕更不基础",
+        "onboard_time": 1756521981,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144544,
+        "num": 144544,
+        "word": "贺峻霖谢娜非静止画面",
+        "onboard_time": 1756522759,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140569,
+        "num": 142514,
+        "word": "许荔莎说照片不是她拍的",
+        "onboard_time": 1756495514,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141273,
+        "num": 141273,
+        "word": "住户马桶冲水声太响被邻居起诉",
+        "onboard_time": 1756518801,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140905,
+        "num": 140905,
+        "word": "张真源把工资卡密码交出去了",
+        "onboard_time": 1756482384,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125024,
+        "num": 125024,
+        "word": "iPhone17Pro或是变化最大的一代",
+        "onboard_time": 1756518681,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111020,
+        "num": 111020,
+        "word": "土耳其完全切断与以色列贸易",
+        "onboard_time": 1756520240,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107640,
+        "num": 110717,
+        "word": "鹿晗七夕晒撕拉片",
+        "onboard_time": 1756514481,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82861,
+        "num": 110568,
+        "word": "赛里木湖凭什么火到现象级",
+        "onboard_time": 1756521920,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74801,
+        "num": 110562,
+        "word": "王楚钦委屈巴巴问裁判要球",
+        "onboard_time": 1756521801,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110560,
+        "num": 110560,
+        "word": "印尼暴乱骑手被警车撞死",
+        "onboard_time": 1756521440,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95297,
+        "num": 110559,
+        "word": "花海钎城第一杯敬自己",
+        "onboard_time": 1756523301,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77326,
+        "num": 110545,
+        "word": "陈哲远又又又闪耀他泰机场了",
+        "onboard_time": 1756519881,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76812,
+        "num": 110535,
+        "word": "西安警方通报女子上厕所遭偷窥",
+        "onboard_time": 1756518021,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 75911,
+        "num": 110529,
+        "word": "4青年凌晨洗劫超市全程蒙面",
+        "onboard_time": 1756518740,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74592,
+        "num": 110520,
+        "word": "心累的时候最需要的不是休息",
+        "onboard_time": 1756517240,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71175,
+        "num": 110507,
+        "word": "宁艺卓新solo好仙",
+        "onboard_time": 1756517360,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70249,
+        "num": 110495,
+        "word": "王俊凯易烊千玺 王源演唱会",
+        "onboard_time": 1756474165,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55028,
+        "num": 110484,
+        "word": "唐朝工匠写的情书藏了1100年",
+        "onboard_time": 1756520060,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29951,
+        "num": 110475,
+        "word": "孙艺珍黑天鹅",
+        "onboard_time": 1756523061,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70028,
+        "num": 110461,
+        "word": "金铲铲",
+        "onboard_time": 1756515142,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68430,
+        "num": 110452,
+        "word": "女子动车上脱鞋踩座反骂提醒乘客",
+        "onboard_time": 1756513100,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67441,
+        "num": 110444,
+        "word": "亲密关系里有3种情绪暴力",
+        "onboard_time": 1756520362,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65525,
+        "num": 110433,
+        "word": "田曦薇 今天有见到喜欢的人",
+        "onboard_time": 1756475423,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63832,
+        "num": 110421,
+        "word": "越南将给每位公民发10万越南盾",
+        "onboard_time": 1756515261,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62611,
+        "num": 110413,
+        "word": "苏新皓朱志鑫七夕对唱",
+        "onboard_time": 1756521381,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60423,
+        "num": 110402,
+        "word": "何广智酷不起来是因为老实",
+        "onboard_time": 1756523480,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 764358,
+        "num": 110389,
+        "word": "印尼暴乱",
+        "onboard_time": 1756482384,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59971,
+        "num": 110386,
+        "word": "不要随便去同学家过夜",
+        "onboard_time": 1756481186,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46773,
+        "num": 110374,
+        "word": "C罗第940球",
+        "onboard_time": 1756519701,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
