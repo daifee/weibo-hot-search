@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 09:47:10
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 10:06:57
 </p>
 </blockquote>
 <p>
@@ -3753,6 +3753,12 @@ iPhone充电坏习惯（热度：1074301）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%93%AC%E8%8E%B1%E4%BA%8C%E4%B8%AD%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%96%87%E6%98%8E%E8%81%8A%E5%A4%A9%23" target="weibo">
+蓬莱二中通报教师与学生不文明聊天（热度：1028039）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%B9%E8%8D%AA%23" target="weibo">
 竹荪（热度：1028038）
 </a>
@@ -6005,12 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9C%8B%E6%BC%94%E5%87%BA%E6%97%B6%E9%81%AD%E7%8C%A5%E4%BA%B5%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 女子看演出时遭猥亵嫌疑人被刑拘（热度：766064）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%8D%93%E5%AE%9C%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%89%A3%E8%A3%A4%E5%AD%90%23" target="weibo">
-蔡卓宜回应不扣裤子（热度：765964）
 </a>
 </li>
 

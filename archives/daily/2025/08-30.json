@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756518430825,
+  "endTime": 1756519617714,
   "band_list": [
     {
       "raw_hot": 1234034,
@@ -9,6 +9,14 @@
       "onboard_time": 1756482384,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1028039,
+      "num": 133439,
+      "word": "蓬莱二中通报教师与学生不文明聊天",
+      "onboard_time": 1756518560,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 834034,
@@ -27,20 +35,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 699192,
+      "num": 198736,
+      "word": "亲生和亲自生的还是有区别的",
+      "onboard_time": 1756514361,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 688080,
       "num": 807864,
       "word": "陈奕恒暂时离开TF家族",
       "onboard_time": 1756490237,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 676258,
-      "num": 198736,
-      "word": "亲生和亲自生的还是有区别的",
-      "onboard_time": 1756514361,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 557130,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 412895,
-      "num": 201411,
+      "num": 219732,
       "word": "男子16年后偶遇初恋光速订婚",
       "onboard_time": 1756512619,
       "rank": 3,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 292673,
-      "num": 200749,
+      "num": 219073,
       "word": "苹果三星要求小米停止争议营销",
       "onboard_time": 1756511180,
       "rank": 4,
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259688,
+      "num": 198459,
+      "word": "张佳宁送谭松韵粉玫瑰",
+      "onboard_time": 1756515561,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253599,
       "num": 197371,
       "word": "建议大家要少发朋友圈",
@@ -163,14 +179,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 233149,
-      "num": 198459,
-      "word": "张佳宁送谭松韵粉玫瑰",
-      "onboard_time": 1756515561,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229021,
       "num": 197536,
       "word": "韦雪拒绝中年男网友求爱",
@@ -179,11 +187,35 @@
       "category": "网红"
     },
     {
+      "raw_hot": 222024,
+      "num": 123946,
+      "word": "iPhone17Pro或是变化最大的一代",
+      "onboard_time": 1756518681,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 219126,
       "num": 198435,
       "word": "李在明送给特朗普一艘龟船",
       "onboard_time": 1756509257,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 216963,
+      "num": 216963,
+      "word": "马丽对时代少年团印象最深",
+      "onboard_time": 1756518501,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203534,
+      "num": 203534,
+      "word": "特朗普关税措施被裁定为非法",
+      "onboard_time": 1756512260,
+      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -219,20 +251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189781,
-      "num": 199448,
-      "word": "特朗普关税措施被裁定为非法",
-      "onboard_time": 1756512260,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 186219,
       "num": 197112,
       "word": "华晨宇七夕准备了8万朵玫瑰花",
       "onboard_time": 1756464985,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186101,
+      "num": 198807,
+      "word": "赖清德否认台湾光复数典忘祖",
+      "onboard_time": 1756516760,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 182570,
@@ -249,6 +281,14 @@
       "onboard_time": 1756476385,
       "rank": 8,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 167042,
+      "num": 123661,
+      "word": "主人回应狗狗靠捡瓶子存款过万",
+      "onboard_time": 1756519099,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163130,
@@ -307,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119695,
+      "num": 119695,
+      "word": "武汉越王勾践剑盖饭火了",
+      "onboard_time": 1756518801,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117018,
       "num": 197026,
       "word": "轻断食从145斤瘦到95斤",
@@ -315,12 +363,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 107743,
+      "raw_hot": 116040,
       "num": 198094,
       "word": "鹿晗七夕晒撕拉片",
       "onboard_time": 1756514481,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107132,
+      "num": 198029,
+      "word": "一学校被曝一间宿舍住百人",
+      "onboard_time": 1756515261,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106487,
@@ -339,28 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104633,
-      "num": 198029,
-      "word": "一学校被曝一间宿舍住百人",
-      "onboard_time": 1756515261,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104049,
       "num": 197991,
       "word": "全国一半的网红都到成都了",
       "onboard_time": 1756489637,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 101323,
-      "num": 198807,
-      "word": "赖清德否认台湾光复数典忘祖",
-      "onboard_time": 1756516760,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 98683,
@@ -411,6 +451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92888,
+      "num": 197772,
+      "word": "西安警方通报女子上厕所遭偷窥",
+      "onboard_time": 1756518021,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 92735,
       "num": 197078,
       "word": "毛晓彤抢发工作室的图",
@@ -451,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85385,
+      "num": 197619,
+      "word": "金铲铲",
+      "onboard_time": 1756515142,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82605,
       "num": 197061,
       "word": "全中国抗日时还没有民进党",
@@ -459,12 +515,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 81475,
-      "num": 197772,
-      "word": "西安警方通报女子上厕所遭偷窥",
-      "onboard_time": 1756518021,
-      "rank": 31,
-      "category": "辟谣/通报"
+      "raw_hot": 82028,
+      "num": 82028,
+      "word": "4青年凌晨洗劫超市全程蒙面",
+      "onboard_time": 1756518740,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81471,
@@ -473,6 +529,14 @@
       "onboard_time": 1756474104,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81416,
+      "num": 197484,
+      "word": "宁艺卓新solo好仙",
+      "onboard_time": 1756517360,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 81399,
@@ -523,12 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74311,
-      "num": 197619,
-      "word": "金铲铲",
-      "onboard_time": 1756515142,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 79208,
+      "num": 82022,
+      "word": "教育局回应佛山一学校一间房住百人",
+      "onboard_time": 1756519099,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76365,
+      "num": 197116,
+      "word": "登陆少年演唱会上座率",
+      "onboard_time": 1756518322,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 74048,
@@ -537,6 +609,14 @@
       "onboard_time": 1756469303,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 73799,
+      "num": 115188,
+      "word": "华北雨季已经持续了56天",
+      "onboard_time": 1756518560,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73105,
@@ -563,12 +643,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 67493,
-      "num": 197484,
-      "word": "宁艺卓新solo好仙",
-      "onboard_time": 1756517360,
-      "rank": 37,
-      "category": "音乐"
+      "raw_hot": 69596,
+      "num": 83797,
+      "word": "中国资产逆市爆发",
+      "onboard_time": 1756519342,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 66444,
@@ -577,6 +657,14 @@
       "onboard_time": 1756475725,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66211,
+      "num": 81986,
+      "word": "住户马桶冲水声太响被邻居起诉",
+      "onboard_time": 1756518801,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65774,
@@ -659,12 +747,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53780,
-      "num": 197116,
-      "word": "登陆少年演唱会上座率",
-      "onboard_time": 1756518322,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 54929,
+      "num": 81913,
+      "word": "特朗普取消美特勤局对哈里斯保护",
+      "onboard_time": 1756518801,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 52486,
+      "num": 81897,
+      "word": "新疆男篮祝福赵睿",
+      "onboard_time": 1756519099,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 47760,

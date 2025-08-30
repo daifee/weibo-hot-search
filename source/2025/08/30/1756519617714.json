@@ -1,0 +1,410 @@
+{
+  "runTime": 1756519617714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 697292,
+        "num": 1111566,
+        "word": "iPhone17Pro全爆料汇总",
+        "onboard_time": 1756513760,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 236578,
+        "num": 236578,
+        "word": "菲方踩踏中方红线必将付出代价",
+        "onboard_time": 1756483224,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15861,
+        "num": 219859,
+        "word": "礼炮声里的中国排面",
+        "onboard_time": 1756467564,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316677,
+        "num": 219732,
+        "word": "男子16年后偶遇初恋光速订婚",
+        "onboard_time": 1756512619,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243355,
+        "num": 219073,
+        "word": "苹果三星要求小米停止争议营销",
+        "onboard_time": 1756511180,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216963,
+        "num": 216963,
+        "word": "马丽对时代少年团印象最深",
+        "onboard_time": 1756518501,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203534,
+        "num": 203534,
+        "word": "特朗普关税措施被裁定为非法",
+        "onboard_time": 1756512260,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186101,
+        "num": 186101,
+        "word": "赖清德否认台湾光复数典忘祖",
+        "onboard_time": 1756516760,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 145731,
+        "num": 145731,
+        "word": "王俊凯易烊千玺 王源演唱会",
+        "onboard_time": 1756474165,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133765,
+        "num": 133765,
+        "word": "教育局回应1.4亿元配学生运动手环",
+        "onboard_time": 1756468163,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1028039,
+        "num": 133439,
+        "word": "蓬莱二中通报教师与学生不文明聊天",
+        "onboard_time": 1756518560,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699192,
+        "num": 132645,
+        "word": "亲生和亲自生的还是有区别的",
+        "onboard_time": 1756514361,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 644211,
+        "num": 131361,
+        "word": "陈奕恒暂时离开TF家族",
+        "onboard_time": 1756490237,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588717,
+        "num": 131185,
+        "word": "印尼暴乱",
+        "onboard_time": 1756482384,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 296083,
+        "num": 129939,
+        "word": "孟子义李昀锐尚公主剧组聚餐",
+        "onboard_time": 1756512380,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278879,
+        "num": 129559,
+        "word": "不要随便去同学家过夜",
+        "onboard_time": 1756481186,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259688,
+        "num": 128202,
+        "word": "张佳宁送谭松韵粉玫瑰",
+        "onboard_time": 1756515561,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233822,
+        "num": 127887,
+        "word": "许荔莎说照片不是她拍的",
+        "onboard_time": 1756495514,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211892,
+        "num": 126652,
+        "word": "李在明送给特朗普一艘龟船",
+        "onboard_time": 1756509257,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126358,
+        "num": 126358,
+        "word": "军训暴雨校领导无人离席看会操",
+        "onboard_time": 1756476504,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222024,
+        "num": 123946,
+        "word": "iPhone17Pro或是变化最大的一代",
+        "onboard_time": 1756518681,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167042,
+        "num": 123661,
+        "word": "主人回应狗狗靠捡瓶子存款过万",
+        "onboard_time": 1756519099,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160131,
+        "num": 122833,
+        "word": "张真源把工资卡密码交出去了",
+        "onboard_time": 1756482384,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119695,
+        "num": 119695,
+        "word": "武汉越王勾践剑盖饭火了",
+        "onboard_time": 1756518801,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96936,
+        "num": 119587,
+        "word": "全国一半的网红都到成都了",
+        "onboard_time": 1756489637,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95924,
+        "num": 118373,
+        "word": "田曦薇 今天有见到喜欢的人",
+        "onboard_time": 1756475423,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82062,
+        "num": 117771,
+        "word": "王楚钦说遭遇高原反应",
+        "onboard_time": 1756514961,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81416,
+        "num": 116710,
+        "word": "宁艺卓新solo好仙",
+        "onboard_time": 1756517360,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76365,
+        "num": 115829,
+        "word": "登陆少年演唱会上座率",
+        "onboard_time": 1756518322,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73799,
+        "num": 115188,
+        "word": "华北雨季已经持续了56天",
+        "onboard_time": 1756518560,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115019,
+        "num": 115019,
+        "word": "男子转账备注自愿赠与分手起诉返还",
+        "onboard_time": 1756470385,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116040,
+        "num": 114643,
+        "word": "鹿晗七夕晒撕拉片",
+        "onboard_time": 1756514481,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110952,
+        "num": 110952,
+        "word": "加拿大网友问中国有电影院吗",
+        "onboard_time": 1756483283,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107648,
+        "num": 107648,
+        "word": "越南将给每位公民发10万越南盾",
+        "onboard_time": 1756515261,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107132,
+        "num": 107132,
+        "word": "一学校被曝一间宿舍住百人",
+        "onboard_time": 1756515261,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103764,
+        "num": 103764,
+        "word": "女子动车上脱鞋踩座反骂提醒乘客",
+        "onboard_time": 1756513100,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92888,
+        "num": 92888,
+        "word": "西安警方通报女子上厕所遭偷窥",
+        "onboard_time": 1756518021,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 85385,
+        "num": 85385,
+        "word": "金铲铲",
+        "onboard_time": 1756515142,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69596,
+        "num": 83797,
+        "word": "中国资产逆市爆发",
+        "onboard_time": 1756519342,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 68671,
+        "num": 83716,
+        "word": "轮椅被大家举起来那一刻的含金量",
+        "onboard_time": 1756491676,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 83690,
+        "num": 83690,
+        "word": "心累的时候最需要的不是休息",
+        "onboard_time": 1756517240,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82028,
+        "num": 82028,
+        "word": "4青年凌晨洗劫超市全程蒙面",
+        "onboard_time": 1756518740,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79208,
+        "num": 82022,
+        "word": "教育局回应佛山一学校一间房住百人",
+        "onboard_time": 1756519099,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73117,
+        "num": 82001,
+        "word": "韦雪拒绝中年男网友求爱",
+        "onboard_time": 1756502654,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66211,
+        "num": 81986,
+        "word": "住户马桶冲水声太响被邻居起诉",
+        "onboard_time": 1756518801,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64690,
+        "num": 81966,
+        "word": "小猫不想让人坐它的凳子",
+        "onboard_time": 1756512680,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62538,
+        "num": 81959,
+        "word": "周深是全家人的宝贝",
+        "onboard_time": 1756512619,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59083,
+        "num": 81935,
+        "word": "男主疯了男二死了男三黑化",
+        "onboard_time": 1756468282,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54929,
+        "num": 81913,
+        "word": "特朗普取消美特勤局对哈里斯保护",
+        "onboard_time": 1756518801,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52486,
+        "num": 81897,
+        "word": "新疆男篮祝福赵睿",
+        "onboard_time": 1756519099,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次就作风建设作出重要指示#"
+    }
+  }
+}
