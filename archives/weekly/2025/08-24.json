@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756545807526,
+  "endTime": 1756546595206,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -1283,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 878996,
+      "num": 399925,
+      "word": "董璇说我又要办婚礼了",
+      "onboard_time": 1756539862,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 875593,
       "num": 338625,
       "word": "将门毒后",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1756203742,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 864000,
+      "num": 1138240,
+      "word": "李泽言配音",
+      "onboard_time": 1756539262,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 863918,
@@ -1419,14 +1435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 838977,
-      "num": 1134236,
-      "word": "李泽言配音",
-      "onboard_time": 1756539262,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 826055,
       "num": 1132168,
       "word": "赴山海",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1756299865,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 797886,
-      "num": 399925,
-      "word": "董璇说我又要办婚礼了",
-      "onboard_time": 1756539862,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 796831,
@@ -3715,6 +3715,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435105,
+      "num": 409076,
+      "word": "高铁上全是碎掉的返校大学生",
+      "onboard_time": 1756544061,
+      "rank": 13,
+      "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 434873,
+      "num": 408388,
+      "word": "黄誉博被工作室取关",
+      "onboard_time": 1756544543,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434626,
       "num": 434626,
       "word": "不二之臣主演敖瑞鹏沈羽洁柯淳",
@@ -3955,10 +3971,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411671,
+      "num": 411671,
+      "word": "投诉鲁迅夹烟墙女子微博已无法查看",
+      "onboard_time": 1756544661,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411552,
       "num": 324489,
       "word": "蔡明 不跟前辈打个招呼请个安吗",
       "onboard_time": 1756435341,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 410672,
+      "num": 281118,
+      "word": "孙俪又剪发了",
+      "onboard_time": 1756544241,
       "rank": 14,
       "category": "艺人"
     },
@@ -5499,14 +5531,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 280070,
-      "num": 280070,
-      "word": "黄誉博被工作室取关",
-      "onboard_time": 1756544543,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279891,
       "num": 279891,
       "word": "网友称武汉天空有巨大流星坠落",
@@ -5811,14 +5835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 258861,
-      "num": 258516,
-      "word": "高铁上全是碎掉的返校大学生",
-      "onboard_time": 1756544061,
-      "rank": 13,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 258114,
       "num": 209887,
       "word": "姜潮麦迪娜害怕孩子以后啃老",
@@ -5905,14 +5921,6 @@
       "onboard_time": 1756090101,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255262,
-      "num": 255262,
-      "word": "孙俪又剪发了",
-      "onboard_time": 1756544241,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 254566,
@@ -6220,7 +6228,7 @@
     },
     {
       "raw_hot": 239677,
-      "num": 181479,
+      "num": 184618,
       "word": "谭松韵 淳儿竟如此端庄了",
       "onboard_time": 1756544241,
       "rank": 21,
@@ -6649,14 +6657,6 @@
       "onboard_time": 1756538423,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223057,
-      "num": 266163,
-      "word": "投诉鲁迅夹烟墙女子微博已无法查看",
-      "onboard_time": 1756544661,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222724,
@@ -7873,6 +7873,14 @@
       "onboard_time": 1756471763,
       "rank": 42,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 198245,
+      "num": 198245,
+      "word": "王源 疯狂自拍微博暴晒",
+      "onboard_time": 1756545801,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 198211,
@@ -9132,7 +9140,7 @@
     },
     {
       "raw_hot": 184283,
-      "num": 184283,
+      "num": 193675,
       "word": "李沁为了不超重狂穿衣服",
       "onboard_time": 1756541720,
       "rank": 24,
@@ -9409,6 +9417,14 @@
       "onboard_time": 1756204043,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180878,
+      "num": 180878,
+      "word": "作家马伯庸忍辱负重送儿子上作文班",
+      "onboard_time": 1756546281,
+      "rank": 23,
+      "category": "读书作家"
     },
     {
       "raw_hot": 180759,
@@ -14075,6 +14091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134643,
+      "num": 134643,
+      "word": "原来西安录制是龚俊强烈要求要来的",
+      "onboard_time": 1756546222,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134612,
       "num": 134612,
       "word": "上海地铁2号线",
@@ -14185,6 +14209,14 @@
       "onboard_time": 1756270283,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133565,
+      "num": 133565,
+      "word": "刘强东夜市用塑料碗和乡亲们喝酒",
+      "onboard_time": 1756546343,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 133392,
@@ -14801,6 +14833,14 @@
       "onboard_time": 1756184482,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129077,
+      "num": 129077,
+      "word": "GEN战胜T1",
+      "onboard_time": 1756546042,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 129057,
@@ -15897,6 +15937,14 @@
       "onboard_time": 1756294943,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122279,
+      "num": 286452,
+      "word": "车上掉落2万瓶水一群大侠出手了",
+      "onboard_time": 1756544241,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 122271,
@@ -17419,6 +17467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112531,
+      "num": 121427,
+      "word": "日本人为什么不愿承认侵华历史",
+      "onboard_time": 1756540882,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112438,
       "num": 235826,
       "word": "王鹤棣ELLE金九封面预告",
@@ -18227,14 +18283,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 106800,
-      "num": 126148,
-      "word": "车上掉落2万瓶水一群大侠出手了",
-      "onboard_time": 1756544241,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 106799,
       "num": 106799,
       "word": "张镇麟长文告别辽宁男篮",
@@ -18939,6 +18987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102514,
+      "num": 102514,
+      "word": "陈数 人怎么可能和谁过都一样",
+      "onboard_time": 1756545681,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102492,
       "num": 243311,
       "word": "阅兵大场面想想就激动",
@@ -19339,12 +19395,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 98718,
-      "num": 121427,
-      "word": "日本人为什么不愿承认侵华历史",
-      "onboard_time": 1756540882,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 98658,
+      "num": 98658,
+      "word": "管虎梁静机场送儿子出国上学",
+      "onboard_time": 1756545261,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 98555,
@@ -19419,8 +19475,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97776,
-      "num": 97776,
+      "raw_hot": 97804,
+      "num": 97804,
       "word": "尚雯婕不愧是做过外企高管的",
       "onboard_time": 1756543344,
       "rank": 36,
@@ -20283,6 +20339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88444,
+      "num": 88444,
+      "word": "男子吃饭抽40张纸巾被老板娘发到网上",
+      "onboard_time": 1756546343,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88139,
       "num": 101809,
       "word": "NBA缅怀科比",
@@ -20729,14 +20793,6 @@
       "onboard_time": 1756128143,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80182,
-      "num": 80182,
-      "word": "陈数 人怎么可能和谁过都一样",
-      "onboard_time": 1756545681,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 80144,
@@ -24121,14 +24177,6 @@
       "onboard_time": 1756357343,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33299,
-      "num": 95811,
-      "word": "管虎梁静机场送儿子出国上学",
-      "onboard_time": 1756545261,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 33195,
