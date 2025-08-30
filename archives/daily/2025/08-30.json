@@ -1,10 +1,18 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756528911992,
+  "endTime": 1756531380304,
   "band_list": [
     {
+      "raw_hot": 2244125,
+      "num": 558477,
+      "word": "iPhone17Pro 丑",
+      "onboard_time": 1756527801,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1762845,
-      "num": 219996,
+      "num": 334480,
       "word": "蓬莱二中通报教师与学生不文明聊天",
       "onboard_time": 1756518560,
       "rank": 10,
@@ -19,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1455942,
+      "num": 497791,
+      "word": "杨幂 我会合法纳税",
+      "onboard_time": 1756528403,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1234034,
       "num": 198661,
       "word": "印尼暴乱",
       "onboard_time": 1756482384,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1019044,
-      "num": 274018,
-      "word": "iPhone17Pro 丑",
-      "onboard_time": 1756527801,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 975830,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 618969,
+      "num": 618969,
+      "word": "何广智冠军",
+      "onboard_time": 1756528702,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557130,
       "num": 197134,
       "word": "王楚钦 我不会主动向别人表白",
@@ -108,11 +124,19 @@
     },
     {
       "raw_hot": 445541,
-      "num": 214638,
+      "num": 234647,
       "word": "孙颖莎掐十字架",
       "onboard_time": 1756526241,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434626,
+      "num": 434626,
+      "word": "不二之臣主演敖瑞鹏沈羽洁柯淳",
+      "onboard_time": 1756528882,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 412895,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 409361,
-      "num": 287124,
+      "num": 458626,
       "word": "外源性床虱",
       "onboard_time": 1756525160,
       "rank": 24,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 350964,
-      "num": 245770,
+      "num": 429282,
       "word": "唐香玉全村第一位女户主",
       "onboard_time": 1756526960,
       "rank": 6,
@@ -185,6 +209,14 @@
       "onboard_time": 1756471827,
       "rank": 6,
       "category": "艺人,情感"
+    },
+    {
+      "raw_hot": 308230,
+      "num": 308230,
+      "word": "杜海涛沈梦辰什么都往外说",
+      "onboard_time": 1756528041,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 299269,
@@ -217,6 +249,14 @@
       "onboard_time": 1756511180,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 285740,
+      "num": 285740,
+      "word": "唐国强 换台吧",
+      "onboard_time": 1756530143,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 285472,
@@ -275,8 +315,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 240588,
-      "num": 240588,
+      "raw_hot": 247079,
+      "num": 386460,
       "word": "法国人被中国七夕浪漫到了",
       "onboard_time": 1756525520,
       "rank": 31,
@@ -299,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230325,
+      "num": 230325,
+      "word": "呼兰总决赛爆哭",
+      "onboard_time": 1756529481,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229021,
       "num": 197536,
       "word": "韦雪拒绝中年男网友求爱",
@@ -315,20 +363,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 220614,
-      "num": 220614,
-      "word": "不二之臣主演敖瑞鹏沈羽洁柯淳",
-      "onboard_time": 1756528882,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219126,
       "num": 198435,
       "word": "李在明送给特朗普一艘龟船",
       "onboard_time": 1756509257,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 218788,
+      "num": 218788,
+      "word": "存不到一千万都对不起这块肉",
+      "onboard_time": 1756529542,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 217185,
@@ -347,11 +395,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212536,
-      "num": 212536,
-      "word": "杨幂 我会合法纳税",
-      "onboard_time": 1756528403,
-      "rank": 14,
+      "raw_hot": 205167,
+      "num": 205167,
+      "word": "郭麒麟上网才知道阎鹤祥媳妇怀孕",
+      "onboard_time": 1756528882,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -395,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199618,
+      "num": 199618,
+      "word": "徐冬冬尹子维又有喜讯了",
+      "onboard_time": 1756530923,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197175,
       "num": 198296,
       "word": "男子转账备注自愿赠与分手起诉返还",
@@ -411,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190529,
-      "num": 190529,
-      "word": "杜海涛沈梦辰什么都往外说",
-      "onboard_time": 1756528041,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 193927,
+      "num": 193927,
+      "word": "彭昱畅 减肥堪比整容",
+      "onboard_time": 1756530322,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 189223,
@@ -459,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 180577,
+      "num": 180577,
+      "word": "金莎孙丞潇有夫妻相了",
+      "onboard_time": 1756530442,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180152,
       "num": 199142,
       "word": "脱口秀演员抄袭在美国会怎么样",
@@ -483,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167668,
+      "num": 167668,
+      "word": "赵文卓大女儿考上港大",
+      "onboard_time": 1756530081,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163130,
       "num": 197095,
       "word": "万斯称已做好就任美国总统的准备",
@@ -499,6 +571,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161581,
+      "num": 199656,
+      "word": "LV龙虾手袋 像蟑螂",
+      "onboard_time": 1756529302,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 158914,
+      "num": 158914,
+      "word": "终于有不是结完婚就结局的剧",
+      "onboard_time": 1756529061,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158714,
       "num": 158714,
       "word": "孙颖莎蒯曼vs韩菲儿申裕斌",
@@ -507,12 +595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157132,
+      "num": 157132,
+      "word": "热狗被摘永久皮肤痛哭",
+      "onboard_time": 1756530742,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156099,
       "num": 156099,
       "word": "你好星期六全员助力新学期flag",
       "onboard_time": 1756525282,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154897,
+      "num": 154897,
+      "word": "体制内在编3年后辞职了",
+      "onboard_time": 1756530682,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 152104,
@@ -524,7 +628,7 @@
     },
     {
       "raw_hot": 152097,
-      "num": 152097,
+      "num": 155758,
       "word": "蒯曼vs申裕斌",
       "onboard_time": 1756528523,
       "rank": 25,
@@ -595,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135695,
-      "num": 135695,
-      "word": "郭麒麟上网才知道阎鹤祥媳妇怀孕",
-      "onboard_time": 1756528882,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135297,
       "num": 198094,
       "word": "鹿晗七夕晒撕拉片",
@@ -627,12 +723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131592,
-      "num": 131592,
-      "word": "何广智冠军",
-      "onboard_time": 1756528702,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 133114,
+      "num": 133114,
+      "word": "无期迷途",
+      "onboard_time": 1756529841,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 130294,
@@ -723,12 +819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117615,
+      "num": 117615,
+      "word": "咪去绝育了 不要担心",
+      "onboard_time": 1756529361,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117018,
       "num": 197026,
       "word": "轻断食从145斤瘦到95斤",
       "onboard_time": 1756466484,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 115263,
+      "num": 115263,
+      "word": "王牌对王牌",
+      "onboard_time": 1756529601,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 114074,
@@ -745,6 +857,14 @@
       "onboard_time": 1756528041,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112722,
+      "num": 112722,
+      "word": "刘强东现身宿迁",
+      "onboard_time": 1756530923,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 111020,
@@ -817,6 +937,14 @@
       "onboard_time": 1756489637,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 99958,
+      "num": 154981,
+      "word": "鸿蒙智行成都车展五标齐发",
+      "onboard_time": 1756530501,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 98683,
@@ -931,6 +1059,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91144,
+      "num": 91144,
+      "word": "王鹤棣咸鱼飞升七夕海报",
+      "onboard_time": 1756529061,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90232,
+      "num": 115844,
+      "word": "深圳大学1比1黄石华新",
+      "onboard_time": 1756530382,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87834,
+      "num": 87834,
+      "word": "老番茄已经和自己玩了12年的游戏",
+      "onboard_time": 1756530982,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 87484,
       "num": 197037,
       "word": "黄子韬手机里都不一定有这么帅的照片",
@@ -948,7 +1100,7 @@
     },
     {
       "raw_hot": 86997,
-      "num": 131721,
+      "num": 362521,
       "word": "这里是中国",
       "onboard_time": 1756528702,
       "rank": 36,
@@ -1467,6 +1619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35314,
+      "num": 592498,
+      "word": "世界再一次迎来上合时刻",
+      "onboard_time": 1756520001,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33195,
       "num": 48905,
       "word": "尼坤怎么肿成这样",
@@ -1595,12 +1755,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 22510,
+      "num": 113587,
+      "word": "他们只用了1分钟进行生死救援",
+      "onboard_time": 1756530682,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 22211,
       "num": 80579,
       "word": "残疾女孩卖鱼塘凑学费网红仗义相助",
       "onboard_time": 1756522220,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21610,
+      "num": 115285,
+      "word": "具惠善读研",
+      "onboard_time": 1756531280,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 20616,
@@ -1676,6 +1852,9 @@
     },
     {
       "word": "#志合越山海#"
+    },
+    {
+      "word": "#山河永志吾辈自强#"
     }
   ]
 }
