@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756571328541,
+  "endTime": 1756572188643,
   "band_list": [
     {
       "raw_hot": 1062110,
@@ -51,6 +51,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 318216,
+      "num": 731539,
+      "word": "农村女孩靠摆盘从职校生干到了副教授",
+      "onboard_time": 1756566084,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302776,
       "num": 231343,
       "word": "金子涵居然瘦成这样",
@@ -59,15 +67,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290415,
-      "num": 290415,
-      "word": "农村女孩靠摆盘从职校生干到了副教授",
-      "onboard_time": 1756566084,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 267351,
+      "num": 239169,
+      "word": "谁给蓝盈莹浇成这样的",
+      "onboard_time": 1756561884,
+      "rank": 13,
+      "category": "综艺"
     },
     {
-      "raw_hot": 257267,
+      "raw_hot": 260144,
       "num": 233055,
       "word": "王源演唱会偶遇了张真源严浩翔",
       "onboard_time": 1756561043,
@@ -83,20 +91,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 239169,
-      "num": 239169,
-      "word": "谁给蓝盈莹浇成这样的",
-      "onboard_time": 1756561884,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232130,
       "num": 232130,
       "word": "嫂嫂开门我是我哥被拍出来了",
       "onboard_time": 1756560803,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210397,
+      "num": 246575,
+      "word": "王源十二封信",
+      "onboard_time": 1756571002,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 205718,
@@ -107,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202847,
-      "num": 246575,
-      "word": "王源十二封信",
+      "raw_hot": 205614,
+      "num": 245233,
+      "word": "贺峻霖的耳返",
       "onboard_time": 1756571002,
-      "rank": 7,
-      "category": "演出"
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 198939,
@@ -123,12 +131,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 167011,
-      "num": 245233,
-      "word": "贺峻霖的耳返",
-      "onboard_time": 1756571002,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 193594,
+      "num": 231157,
+      "word": "贺峻霖主持控场王",
+      "onboard_time": 1756571060,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 161694,
@@ -139,12 +147,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148674,
-      "num": 231157,
-      "word": "贺峻霖主持控场王",
-      "onboard_time": 1756571060,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 151099,
+      "num": 249045,
+      "word": "印度总理莫迪抵达",
+      "onboard_time": 1756553421,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142954,
@@ -163,12 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139036,
-      "num": 249045,
-      "word": "印度总理莫迪抵达",
-      "onboard_time": 1756553421,
-      "rank": 5,
-      "category": "国际时政"
+      "raw_hot": 131973,
+      "num": 230880,
+      "word": "肖国栋冠军",
+      "onboard_time": 1756567522,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 129314,
@@ -177,6 +185,14 @@
       "onboard_time": 1756549882,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120081,
+      "num": 114705,
+      "word": "冯建宇生日会吃得太好了",
+      "onboard_time": 1756571362,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 118657,
@@ -203,12 +219,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104445,
+      "raw_hot": 104844,
       "num": 229688,
       "word": "印度500万粉丝网红拍片遭瀑布冲走",
       "onboard_time": 1756558763,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104551,
+      "num": 229118,
+      "word": "董璇张维伊因请帖起争执",
+      "onboard_time": 1756570042,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 104091,
@@ -243,22 +267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84536,
-      "num": 230880,
-      "word": "肖国栋冠军",
-      "onboard_time": 1756567522,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 83236,
-      "num": 229118,
-      "word": "董璇张维伊因请帖起争执",
-      "onboard_time": 1756570042,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 82558,
       "num": 228940,
       "word": "邓紫棋紧急撤回失败",
@@ -267,19 +275,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80188,
+      "num": 228567,
+      "word": "黄子韬龚俊被网红说一般",
+      "onboard_time": 1756556902,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78636,
       "num": 228675,
       "word": "被宋茜李沁开场美了一下又一下",
       "onboard_time": 1756563983,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 70974,
-      "num": 228567,
-      "word": "黄子韬龚俊被网红说一般",
-      "onboard_time": 1756556902,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -299,20 +307,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67269,
+      "num": 228130,
+      "word": "苏新皓绝美36秒",
+      "onboard_time": 1756568722,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 66587,
       "num": 229155,
       "word": "曼联vs伯恩利",
       "onboard_time": 1756566023,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65838,
-      "num": 228130,
-      "word": "苏新皓绝美36秒",
-      "onboard_time": 1756568722,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 65426,
@@ -379,20 +387,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58718,
+      "num": 243424,
+      "word": "我国科学家在6G领域取得新突破",
+      "onboard_time": 1756570641,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 55892,
+      "num": 104624,
+      "word": "终于等到刘宪华雨中限定版trap",
+      "onboard_time": 1756572139,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 54636,
       "num": 226711,
       "word": "回春丹鲜花舞台的含金量还在上升",
       "onboard_time": 1756570283,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31867,
-      "num": 243424,
-      "word": "我国科学家在6G领域取得新突破",
-      "onboard_time": 1756570641,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20349,

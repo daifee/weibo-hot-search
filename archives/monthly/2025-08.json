@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756571328541,
+  "endTime": 1756572188643,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -22867,6 +22867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 318216,
+      "num": 731539,
+      "word": "农村女孩靠摆盘从职校生干到了副教授",
+      "onboard_time": 1756566084,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318158,
       "num": 362198,
       "word": "孙丞潇189视角拍的金莎",
@@ -24665,14 +24673,6 @@
       "onboard_time": 1754728283,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290415,
-      "num": 290415,
-      "word": "农村女孩靠摆盘从职校生干到了副教授",
-      "onboard_time": 1756566084,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 290265,
@@ -33035,6 +33035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210397,
+      "num": 246575,
+      "word": "王源十二封信",
+      "onboard_time": 1756571002,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210392,
       "num": 720514,
       "word": "河北兴隆北京山谷项目3人遇难",
@@ -34307,6 +34315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205614,
+      "num": 245233,
+      "word": "贺峻霖的耳返",
+      "onboard_time": 1756571002,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205581,
       "num": 205581,
       "word": "没人说95花搭95花这么配啊",
@@ -35057,14 +35073,6 @@
       "onboard_time": 1754016501,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202847,
-      "num": 246575,
-      "word": "王源十二封信",
-      "onboard_time": 1756571002,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 202833,
@@ -38447,6 +38455,14 @@
       "num": 193601,
       "word": "喻言闪光的夏天总冠军",
       "onboard_time": 1754748985,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193594,
+      "num": 231157,
+      "word": "贺峻霖主持控场王",
+      "onboard_time": 1756571060,
       "rank": 22,
       "category": "综艺"
     },
@@ -47547,14 +47563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167011,
-      "num": 245233,
-      "word": "贺峻霖的耳返",
-      "onboard_time": 1756571002,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166933,
       "num": 166933,
       "word": "小蝴蝶Cody领证",
@@ -55649,14 +55657,6 @@
       "onboard_time": 1756365321,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 148674,
-      "num": 231157,
-      "word": "贺峻霖主持控场王",
-      "onboard_time": 1756571060,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 148658,
@@ -65139,6 +65139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131973,
+      "num": 230880,
+      "word": "肖国栋冠军",
+      "onboard_time": 1756567522,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131954,
       "num": 239818,
       "word": "瘦下来之后性格真的完全变了",
@@ -72673,6 +72681,14 @@
       "onboard_time": 1754031681,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120081,
+      "num": 114705,
+      "word": "冯建宇生日会吃得太好了",
+      "onboard_time": 1756571362,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 120077,
@@ -81811,6 +81827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104551,
+      "num": 229118,
+      "word": "董璇张维伊因请帖起争执",
+      "onboard_time": 1756570042,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104537,
       "num": 104537,
       "word": "吴宣仪张小婉你们收手吧",
@@ -86923,14 +86947,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93237,
-      "num": 230880,
-      "word": "肖国栋冠军",
-      "onboard_time": 1756567522,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93177,
       "num": 94304,
       "word": "QQ月活超5亿",
@@ -89888,14 +89904,6 @@
       "word": "丁程鑫跳舞神级慢镜头",
       "onboard_time": 1756538121,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 83236,
-      "num": 229118,
-      "word": "董璇张维伊因请帖起争执",
-      "onboard_time": 1756570042,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -93579,6 +93587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67269,
+      "num": 228130,
+      "word": "苏新皓绝美36秒",
+      "onboard_time": 1756568722,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 67254,
       "num": 67254,
       "word": "大凉山里那些花儿歌声的力量",
@@ -93889,14 +93905,6 @@
       "onboard_time": 1755574462,
       "rank": 14,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 65838,
-      "num": 228130,
-      "word": "苏新皓绝美36秒",
-      "onboard_time": 1756568722,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 65808,
@@ -95491,6 +95499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58718,
+      "num": 243424,
+      "word": "我国科学家在6G领域取得新突破",
+      "onboard_time": 1756570641,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58717,
       "num": 143855,
       "word": "心动8史上最实用的一款恋综",
@@ -96193,6 +96209,14 @@
       "onboard_time": 1755597383,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55892,
+      "num": 104624,
+      "word": "终于等到刘宪华雨中限定版trap",
+      "onboard_time": 1756572139,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 55872,
@@ -102401,14 +102425,6 @@
       "onboard_time": 1756125264,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31867,
-      "num": 243424,
-      "word": "我国科学家在6G领域取得新突破",
-      "onboard_time": 1756570641,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31853,
