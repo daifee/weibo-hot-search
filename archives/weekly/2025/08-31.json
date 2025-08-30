@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756574397040,
+  "endTime": 1756575410033,
   "band_list": [
     {
       "raw_hot": 1062110,
@@ -155,6 +155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146041,
+      "num": 93736,
+      "word": "朴秀荣瘦成纸片人",
+      "onboard_time": 1756572619,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142954,
       "num": 231006,
       "word": "女子4天瘦8斤怀疑泳池水质",
@@ -179,14 +187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130659,
-      "num": 93736,
-      "word": "朴秀荣瘦成纸片人",
-      "onboard_time": 1756572619,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129314,
       "num": 230578,
       "word": "张维伊说买礼物必须是董璇付钱",
@@ -201,6 +201,14 @@
       "onboard_time": 1756571362,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119091,
+      "num": 229118,
+      "word": "董璇张维伊因请帖起争执",
+      "onboard_time": 1756570042,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 118657,
@@ -241,14 +249,6 @@
       "onboard_time": 1756558763,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 104551,
-      "num": 229118,
-      "word": "董璇张维伊因请帖起争执",
-      "onboard_time": 1756570042,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 104091,
@@ -451,6 +451,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35741,
+      "num": 79503,
+      "word": "陈雨菲冲击大满贯",
+      "onboard_time": 1756564703,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34130,
+      "num": 73686,
+      "word": "刘冲去aespa演唱会看宁艺卓",
+      "onboard_time": 1756574657,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 32570,
       "num": 88143,
       "word": "一支视频看天津的桥桥桥桥桥",
@@ -459,12 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31009,
-      "num": 79503,
-      "word": "陈雨菲冲击大满贯",
-      "onboard_time": 1756564703,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 29733,
+      "num": 73639,
+      "word": "朱志鑫游刃有余的台风",
+      "onboard_time": 1756575258,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 28598,
+      "num": 73571,
+      "word": "张泽禹舞台表现力这一块",
+      "onboard_time": 1756575378,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 20349,
