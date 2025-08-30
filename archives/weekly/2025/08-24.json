@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756538491791,
+  "endTime": 1756539376222,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -1347,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 858457,
+      "num": 334566,
+      "word": "董璇给张维伊的亲戚都买了金子",
+      "onboard_time": 1756535303,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 858367,
       "num": 1137338,
       "word": "在农村月薪2400元工作的一天",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1756368683,
       "rank": 3,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 756846,
-      "num": 334566,
-      "word": "董璇给张维伊的亲戚都买了金子",
-      "onboard_time": 1756535303,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 756193,
@@ -2123,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640040,
+      "num": 1102406,
+      "word": "辽宁警方回应4名蒙面男子洗劫超市",
+      "onboard_time": 1756533743,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 638976,
       "num": 638976,
       "word": "金莎孙丞潇七夕聊天记录",
@@ -2209,14 +2217,6 @@
       "onboard_time": 1756226182,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 620164,
-      "num": 1099226,
-      "word": "辽宁警方回应4名蒙面男子洗劫超市",
-      "onboard_time": 1756533743,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 618969,
@@ -4667,6 +4667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 343567,
+      "num": 271149,
+      "word": "几乎绝迹床虱又出现了",
+      "onboard_time": 1756535240,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 343388,
       "num": 343388,
       "word": "易烊千玺 抢票",
@@ -5553,14 +5561,6 @@
       "onboard_time": 1756280724,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271149,
-      "num": 271149,
-      "word": "几乎绝迹床虱又出现了",
-      "onboard_time": 1756535240,
-      "rank": 26,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 271112,
@@ -7721,6 +7721,14 @@
       "onboard_time": 1756455863,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198748,
+      "num": 198748,
+      "word": "恋与制作人",
+      "onboard_time": 1756538901,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 198631,
@@ -13683,6 +13691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136198,
+      "num": 136198,
+      "word": "李泽言配音",
+      "onboard_time": 1756539262,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136093,
       "num": 148611,
       "word": "丰臣秀吉雕像被斩首",
@@ -13809,6 +13825,14 @@
       "onboard_time": 1756514481,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135292,
+      "num": 135292,
+      "word": "陈星旭参加节目怕大家不喜欢他",
+      "onboard_time": 1756539082,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 135190,
@@ -13953,6 +13977,14 @@
       "onboard_time": 1756163959,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134039,
+      "num": 134039,
+      "word": "臭虫大爆发",
+      "onboard_time": 1756536021,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133945,
@@ -14545,14 +14577,6 @@
       "onboard_time": 1756387763,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 129474,
-      "num": 129474,
-      "word": "臭虫大爆发",
-      "onboard_time": 1756536021,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129339,
@@ -15265,6 +15289,14 @@
       "onboard_time": 1756534582,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 124958,
+      "num": 124958,
+      "word": "车主充电超时94分钟充电站收438.4元",
+      "onboard_time": 1756536321,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124798,
@@ -17347,12 +17379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111230,
+      "num": 111230,
+      "word": "宝宝你普通话倒欠国家三级",
+      "onboard_time": 1756538543,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111172,
       "num": 183752,
       "word": "沃尔沃全新XC70预售价29.99万起",
       "onboard_time": 1756305746,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 111045,
+      "num": 111045,
+      "word": "王影璐新剧纯吃苦啊",
+      "onboard_time": 1756538901,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 111020,
@@ -17737,14 +17785,6 @@
       "onboard_time": 1756215622,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 108034,
-      "num": 108034,
-      "word": "车主充电超时94分钟充电站收438.4元",
-      "onboard_time": 1756536321,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107984,
@@ -19827,6 +19867,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90058,
+      "num": 178806,
+      "word": "倪萍劝千惠妈妈离开三宝家",
+      "onboard_time": 1756538423,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89912,
+      "num": 89912,
+      "word": "孙颖莎说到美食就舔嘴巴",
+      "onboard_time": 1756539082,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89722,
       "num": 89722,
       "word": "王曼昱庆祝动作好燃",
@@ -20067,6 +20123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 86349,
+      "num": 86349,
+      "word": "陶喆七夕演唱会嘉宾是老婆",
+      "onboard_time": 1756536742,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 86100,
       "num": 82030,
       "word": "泰王室通报帕公主病情并加封军衔",
@@ -20171,6 +20235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83314,
+      "num": 83314,
+      "word": "丁程鑫跳舞神级慢镜头",
+      "onboard_time": 1756538121,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83061,
       "num": 85299,
       "word": "赵睿 新疆队",
@@ -20217,14 +20289,6 @@
       "onboard_time": 1756482502,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82425,
-      "num": 82425,
-      "word": "陶喆七夕演唱会嘉宾是老婆",
-      "onboard_time": 1756536742,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 82357,
@@ -20321,14 +20385,6 @@
       "onboard_time": 1756478666,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81118,
-      "num": 81118,
-      "word": "丁程鑫跳舞神级慢镜头",
-      "onboard_time": 1756538121,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 80990,
@@ -22691,14 +22747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45944,
-      "num": 97617,
-      "word": "倪萍劝千惠妈妈离开三宝家",
-      "onboard_time": 1756538423,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 45910,
       "num": 50601,
       "word": "和任何人断联都无痛的方法",
@@ -24867,6 +24915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19281,
+      "num": 244769,
+      "word": "郑州打造15分钟阅读圈",
+      "onboard_time": 1756537582,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19276,
       "num": 130004,
       "word": "女子高空安装空调外机",
@@ -25065,14 +25121,6 @@
       "onboard_time": 1755980054,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14573,
-      "num": 244769,
-      "word": "郑州打造15分钟阅读圈",
-      "onboard_time": 1756537582,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14556,

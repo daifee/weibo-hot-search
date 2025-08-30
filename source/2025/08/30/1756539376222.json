@@ -1,0 +1,410 @@
+{
+  "runTime": 1756539376222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 640040,
+        "num": 1102406,
+        "word": "辽宁警方回应4名蒙面男子洗劫超市",
+        "onboard_time": 1756533743,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274288,
+        "num": 274288,
+        "word": "男子七夕拨通亡妻视频带她旅游",
+        "onboard_time": 1756524680,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4505,
+        "num": 267026,
+        "word": "阅兵方队训练中能力一步步升级",
+        "onboard_time": 1756441822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1045484,
+        "num": 260590,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1756527801,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 472878,
+        "num": 254678,
+        "word": "杨幂 我会合法纳税",
+        "onboard_time": 1756528403,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420409,
+        "num": 240755,
+        "word": "谢娜为处理家庭矛盾大哭",
+        "onboard_time": 1756532303,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343567,
+        "num": 226569,
+        "word": "几乎绝迹床虱又出现了",
+        "onboard_time": 1756535240,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 291050,
+        "num": 220043,
+        "word": "LV龙虾手袋 像蟑螂",
+        "onboard_time": 1756529302,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 216266,
+        "num": 216266,
+        "word": "龚俊 老龚你说句话啊",
+        "onboard_time": 1756533382,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 858457,
+        "num": 215597,
+        "word": "董璇给张维伊的亲戚都买了金子",
+        "onboard_time": 1756535303,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522337,
+        "num": 212129,
+        "word": "蓬莱二中通报教师与学生不文明聊天",
+        "onboard_time": 1756518560,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359024,
+        "num": 210178,
+        "word": "甜馨身高",
+        "onboard_time": 1756536143,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286022,
+        "num": 208164,
+        "word": "蒋欣偷吃助理盒饭",
+        "onboard_time": 1756533501,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216418,
+        "num": 206774,
+        "word": "彭昱畅 减肥堪比整容",
+        "onboard_time": 1756530322,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19281,
+        "num": 204017,
+        "word": "郑州打造15分钟阅读圈",
+        "onboard_time": 1756537582,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203546,
+        "num": 203546,
+        "word": "何广智冠军",
+        "onboard_time": 1756528702,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199936,
+        "num": 199936,
+        "word": "董璇请了合作过的婚礼策划",
+        "onboard_time": 1756533743,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198748,
+        "num": 198748,
+        "word": "恋与制作人",
+        "onboard_time": 1756538901,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195368,
+        "num": 195368,
+        "word": "日寇割下他的头颅将遗体扔进松花江",
+        "onboard_time": 1756531761,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90058,
+        "num": 178806,
+        "word": "倪萍劝千惠妈妈离开三宝家",
+        "onboard_time": 1756538423,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167289,
+        "num": 167289,
+        "word": "体制内在编3年后辞职了",
+        "onboard_time": 1756530682,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154977,
+        "num": 154977,
+        "word": "存不到一千万都对不起这块肉",
+        "onboard_time": 1756529542,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136198,
+        "num": 136198,
+        "word": "李泽言配音",
+        "onboard_time": 1756539262,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135292,
+        "num": 135292,
+        "word": "陈星旭参加节目怕大家不喜欢他",
+        "onboard_time": 1756539082,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134039,
+        "num": 134039,
+        "word": "臭虫大爆发",
+        "onboard_time": 1756536021,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129688,
+        "num": 129688,
+        "word": "沈梦辰最佳上镜奖的含金量还在上升",
+        "onboard_time": 1756537761,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124958,
+        "num": 124958,
+        "word": "车主充电超时94分钟充电站收438.4元",
+        "onboard_time": 1756536321,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118690,
+        "num": 118690,
+        "word": "关晓彤 把妹王",
+        "onboard_time": 1756535902,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115082,
+        "num": 115082,
+        "word": "张晚意对马思纯说我是想让你多吃点",
+        "onboard_time": 1756536443,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114891,
+        "num": 114891,
+        "word": "陈赫第一次上快本害怕别人搭话",
+        "onboard_time": 1756535482,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114466,
+        "num": 114466,
+        "word": "警方介入5岁男童撞倒1岁半幼童",
+        "onboard_time": 1756534882,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111230,
+        "num": 111230,
+        "word": "宝宝你普通话倒欠国家三级",
+        "onboard_time": 1756538543,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111045,
+        "num": 111045,
+        "word": "王影璐新剧纯吃苦啊",
+        "onboard_time": 1756538901,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109411,
+        "num": 109411,
+        "word": "48年前72秒外星信号被破译",
+        "onboard_time": 1756534582,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108235,
+        "num": 108235,
+        "word": "刘昊然李兰迪海岛舒服日志",
+        "onboard_time": 1756533982,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101557,
+        "num": 101557,
+        "word": "T1对战GEN",
+        "onboard_time": 1756535482,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99284,
+        "num": 99284,
+        "word": "广东一工厂推出酱油冰淇淋",
+        "onboard_time": 1756535722,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91186,
+        "num": 91186,
+        "word": "其实过得舒服不需要很多钱",
+        "onboard_time": 1756531761,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46980,
+        "num": 91186,
+        "word": "没法共情当初给钱的自己",
+        "onboard_time": 1756538423,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91186,
+        "num": 91185,
+        "word": "唐国强 换台吧",
+        "onboard_time": 1756530143,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89912,
+        "num": 89912,
+        "word": "孙颖莎说到美食就舔嘴巴",
+        "onboard_time": 1756539082,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90331,
+        "num": 89879,
+        "word": "宋亚轩刘海塌了有脸顶着",
+        "onboard_time": 1756533501,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89803,
+        "num": 89803,
+        "word": "不二之臣主演敖瑞鹏沈羽洁柯淳",
+        "onboard_time": 1756528882,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89525,
+        "num": 89525,
+        "word": "我嗑的国漫cp进博物馆了",
+        "onboard_time": 1756535963,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 86637,
+        "num": 86637,
+        "word": "R1SE又有人大大方方了",
+        "onboard_time": 1756536143,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86349,
+        "num": 86349,
+        "word": "陶喆七夕演唱会嘉宾是老婆",
+        "onboard_time": 1756536742,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83314,
+        "num": 83314,
+        "word": "丁程鑫跳舞神级慢镜头",
+        "onboard_time": 1756538121,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81975,
+        "num": 81975,
+        "word": "22岁女子酒后坠车男友否认恋爱",
+        "onboard_time": 1756538181,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80685,
+        "num": 80685,
+        "word": "刘禅五杀告慰诸葛丞相",
+        "onboard_time": 1756537882,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79024,
+        "num": 79024,
+        "word": "吉克隽逸瘦到肋骨清晰可见",
+        "onboard_time": 1756535061,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#山河永志吾辈自强#"
+    }
+  }
+}
