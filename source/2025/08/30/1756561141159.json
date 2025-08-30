@@ -1,0 +1,410 @@
+{
+  "runTime": 1756561141159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1151946,
+        "num": 1184311,
+        "word": "尚公主",
+        "onboard_time": 1756559123,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419184,
+        "num": 419184,
+        "word": "印度总理莫迪抵达",
+        "onboard_time": 1756553421,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57006,
+        "num": 396803,
+        "word": "2025上合组织天津峰会",
+        "onboard_time": 1756541301,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 783655,
+        "num": 392588,
+        "word": "王源演唱会偶遇了张真源严浩翔",
+        "onboard_time": 1756561043,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 731811,
+        "num": 392307,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1756527801,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 385345,
+        "num": 385345,
+        "word": "王楚钦蛐蛐对面穿错衣服",
+        "onboard_time": 1756559062,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468920,
+        "num": 329101,
+        "word": "黄子韬跟医生告徐艺洋的状",
+        "onboard_time": 1756555582,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451837,
+        "num": 311958,
+        "word": "苏新皓愿与愁",
+        "onboard_time": 1756555521,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243917,
+        "num": 243917,
+        "word": "常州又进球了",
+        "onboard_time": 1756558283,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230996,
+        "num": 230996,
+        "word": "王楚钦vs孙闻",
+        "onboard_time": 1756556661,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1698813,
+        "num": 229453,
+        "word": "破音",
+        "onboard_time": 1756556603,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 792210,
+        "num": 227050,
+        "word": "女子4天瘦8斤怀疑泳池水质",
+        "onboard_time": 1756556661,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564805,
+        "num": 223296,
+        "word": "月薪5W是什么概念",
+        "onboard_time": 1756552641,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293491,
+        "num": 219967,
+        "word": "刘亦菲迪士尼角色全球热",
+        "onboard_time": 1756554141,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 535488,
+        "num": 219187,
+        "word": "又一个看着长大的童星火了",
+        "onboard_time": 1756558822,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307922,
+        "num": 215383,
+        "word": "张予曦美的不知天地为何物了",
+        "onboard_time": 1756558703,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294972,
+        "num": 213335,
+        "word": "敖瑞鹏回应不刮胡子",
+        "onboard_time": 1756553542,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256970,
+        "num": 208316,
+        "word": "印度500万粉丝网红拍片遭瀑布冲走",
+        "onboard_time": 1756558763,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208080,
+        "num": 208080,
+        "word": "范丞丞刀马刀马点赞破1000w",
+        "onboard_time": 1756548381,
+        "rank": 18,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 187538,
+        "num": 206953,
+        "word": "多地公布今年七夕结婚登记数据",
+        "onboard_time": 1756549581,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201698,
+        "num": 206708,
+        "word": "上海药皂 苏丹红",
+        "onboard_time": 1756550542,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 809500,
+        "num": 204194,
+        "word": "金子涵居然瘦成这样",
+        "onboard_time": 1756549341,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114125,
+        "num": 203613,
+        "word": "京东苏超最强应援",
+        "onboard_time": 1756560862,
+        "rank": 22,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 267549,
+        "num": 202507,
+        "word": "龚俊大哭",
+        "onboard_time": 1756543521,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201456,
+        "num": 201456,
+        "word": "张维伊说买礼物必须是董璇付钱",
+        "onboard_time": 1756549882,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193600,
+        "num": 193600,
+        "word": "蔡依林檀健次双人舞合拍",
+        "onboard_time": 1756552461,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191399,
+        "num": 191399,
+        "word": "淮水竹亭国内答谢宴",
+        "onboard_time": 1756560921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178025,
+        "num": 178025,
+        "word": "苏超",
+        "onboard_time": 1756550661,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204164,
+        "num": 175949,
+        "word": "黄子韬龚俊被网红说一般",
+        "onboard_time": 1756556902,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169728,
+        "num": 169728,
+        "word": "吉娜给王源演唱会伴奏",
+        "onboard_time": 1756559362,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166072,
+        "num": 166072,
+        "word": "被字节跳动的食堂震惊到了",
+        "onboard_time": 1756560684,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153697,
+        "num": 153697,
+        "word": "林昀儒梁靖崑2比3严升陈俊菘",
+        "onboard_time": 1756559905,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150080,
+        "num": 150080,
+        "word": "2025年羽毛球世锦赛",
+        "onboard_time": 1756560983,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137394,
+        "num": 137394,
+        "word": "公司资金困难组织员工贷款2000万",
+        "onboard_time": 1756556603,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136784,
+        "num": 136784,
+        "word": "487第五人格重度依赖",
+        "onboard_time": 1756560141,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154159,
+        "num": 136505,
+        "word": "成毅超级夏晚敢当舞台",
+        "onboard_time": 1756560862,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134592,
+        "num": 135822,
+        "word": "刘宇宁来看大张伟演唱会了",
+        "onboard_time": 1756555281,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135402,
+        "num": 135402,
+        "word": "狼队对战WB",
+        "onboard_time": 1756557623,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133048,
+        "num": 133048,
+        "word": "顶替弟弟迎娶千金走向人生癫疯",
+        "onboard_time": 1756554981,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132230,
+        "num": 132230,
+        "word": "关注上合组织天津峰会",
+        "onboard_time": 1756551742,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128010,
+        "num": 128010,
+        "word": "金价再拉升",
+        "onboard_time": 1756560084,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125640,
+        "num": 125640,
+        "word": "刘强东夜市用塑料碗和乡亲们喝酒",
+        "onboard_time": 1756546343,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113884,
+        "num": 122873,
+        "word": "程潇潇洒小姐舞台",
+        "onboard_time": 1756559004,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121502,
+        "num": 121502,
+        "word": "大张伟宠物不基础主人也不基础",
+        "onboard_time": 1756558642,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119937,
+        "num": 119937,
+        "word": "恋与和吴磊结束合作关系",
+        "onboard_time": 1756540882,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114834,
+        "num": 114834,
+        "word": "嫂嫂开门我是我哥被拍出来了",
+        "onboard_time": 1756560803,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114674,
+        "num": 114674,
+        "word": "温瑞博意外受伤",
+        "onboard_time": 1756560141,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113163,
+        "num": 113163,
+        "word": "黄明昊成都巡演嘉宾是敖子逸",
+        "onboard_time": 1756558162,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110471,
+        "num": 110471,
+        "word": "左航鼻塞",
+        "onboard_time": 1756557022,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107994,
+        "num": 107994,
+        "word": "山东魏桥0比1四川丰谷",
+        "onboard_time": 1756559303,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平引用的谚语名言读懂上合组织#"
+    }
+  }
+}

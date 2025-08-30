@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 21:27:50
+本榜单时间：2025/08/01 00:36:16 ~ 2025/08/30 21:39:01
 </p>
 </blockquote>
 <p>
@@ -3129,6 +3129,12 @@ Angelababy直播（热度：1181464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23" target="weibo">
+尚公主（热度：1151946）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E9%9D%A2%E9%A6%86%E5%85%B3%E9%97%A8%E9%99%84%E8%BF%91%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0%23" target="weibo">
 续面事件面馆关门附近商户发声（热度：1150413）
 </a>
@@ -4575,12 +4581,6 @@ B站崩了（热度：964843）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23" target="weibo">
-尚公主（热度：919711）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%23" target="weibo">
 凡人修仙传（热度：919708）
 </a>
@@ -5739,6 +5739,12 @@ aespa（热度：796831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%904%E5%A4%A9%E7%98%A68%E6%96%A4%E6%80%80%E7%96%91%E6%B3%B3%E6%B1%A0%E6%B0%B4%E8%B4%A8%23" target="weibo">
+女子4天瘦8斤怀疑泳池水质（热度：792210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%86%9F%E8%99%BE%E5%92%AC%E4%BC%A4%E7%9A%84%E6%A6%82%E7%8E%87%E4%B8%8D%E5%86%8D%E6%98%AF0%23" target="weibo">
 被熟虾咬伤的概率不再是0（热度：791992）
 </a>
@@ -5895,6 +5901,12 @@ aespa（热度：796831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%B6%E9%81%87%E4%BA%86%E5%BC%A0%E7%9C%9F%E6%BA%90%E4%B8%A5%E6%B5%A9%E7%BF%94%23" target="weibo">
+王源演唱会偶遇了张真源严浩翔（热度：783655）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%9C%9F%E7%9A%84%E5%BC%A0%E7%BB%B4%E4%BC%8A%23" target="weibo">
 早期的张维伊（热度：783627）
 </a>
@@ -5999,18 +6011,6 @@ iG起诉炫神（热度：773209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%9B%B4%E6%92%AD%23" target="weibo">
 白鹿直播（热度：771835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%AF%B7%E5%9B%BD%E8%B5%941911%E4%B8%8777%E5%B2%81%E8%80%81%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
-申请国赔1911万77岁老人发声（热度：771610）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%88%91%E4%B9%9F%E5%B8%8C%E6%9C%9B%E6%88%91%E6%98%AF%E7%9A%87%23" target="weibo">
-陈楚生 我也希望我是皇（热度：771395）
 </a>
 </li>
 

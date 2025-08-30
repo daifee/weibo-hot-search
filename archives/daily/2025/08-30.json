@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756560470431,
+  "endTime": 1756561141159,
   "band_list": [
     {
       "raw_hot": 2244125,
@@ -57,6 +57,14 @@
       "onboard_time": 1756549341,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1151946,
+      "num": 1184311,
+      "word": "尚公主",
+      "onboard_time": 1756559123,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 984879,
@@ -131,6 +139,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 792210,
+      "num": 358794,
+      "word": "女子4天瘦8斤怀疑泳池水质",
+      "onboard_time": 1756556661,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 783655,
+      "num": 392588,
+      "word": "王源演唱会偶遇了张真源严浩翔",
+      "onboard_time": 1756561043,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 747021,
       "num": 1119523,
       "word": "作家马伯庸忍辱负重送儿子上作文班",
@@ -171,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 680850,
-      "num": 358794,
-      "word": "女子4天瘦8斤怀疑泳池水质",
-      "onboard_time": 1756556661,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 640040,
       "num": 1102406,
       "word": "辽宁警方回应4名蒙面男子洗劫超市",
@@ -203,14 +219,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 582224,
-      "num": 1093155,
-      "word": "尚公主",
-      "onboard_time": 1756559123,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 557130,
       "num": 197134,
       "word": "王楚钦 我不会主动向别人表白",
@@ -225,6 +233,14 @@
       "onboard_time": 1756555582,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 535488,
+      "num": 271913,
+      "word": "又一个看着长大的童星火了",
+      "onboard_time": 1756558822,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 517740,
@@ -289,14 +305,6 @@
       "onboard_time": 1756526241,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 441020,
-      "num": 271913,
-      "word": "又一个看着长大的童星火了",
-      "onboard_time": 1756558822,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 440750,
@@ -393,6 +401,14 @@
       "onboard_time": 1756521742,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385345,
+      "num": 385345,
+      "word": "王楚钦蛐蛐对面穿错衣服",
+      "onboard_time": 1756559062,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 382405,
@@ -555,20 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310672,
-      "num": 310672,
-      "word": "王楚钦蛐蛐对面穿错衣服",
-      "onboard_time": 1756559062,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310157,
-      "num": 192712,
+      "num": 201456,
       "word": "张维伊说买礼物必须是董璇付钱",
       "onboard_time": 1756549882,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307922,
+      "num": 215383,
+      "word": "张予曦美的不知天地为何物了",
+      "onboard_time": 1756558703,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 305762,
@@ -675,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256970,
+      "num": 208316,
+      "word": "印度500万粉丝网红拍片遭瀑布冲走",
+      "onboard_time": 1756558763,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 255356,
       "num": 416799,
       "word": "孟子义怎么同意当三炮的",
@@ -713,6 +737,14 @@
       "onboard_time": 1756525520,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 243917,
+      "num": 243917,
+      "word": "常州又进球了",
+      "onboard_time": 1756558283,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 239677,
@@ -867,12 +899,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204649,
-      "num": 204649,
-      "word": "张予曦美的不知天地为何物了",
-      "onboard_time": 1756558703,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 204164,
+      "num": 359594,
+      "word": "黄子韬龚俊被网红说一般",
+      "onboard_time": 1756556902,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 203534,
@@ -971,20 +1003,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191399,
+      "num": 191399,
+      "word": "淮水竹亭国内答谢宴",
+      "onboard_time": 1756560921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190678,
       "num": 181174,
       "word": "沈梦辰最佳上镜奖的含金量还在上升",
       "onboard_time": 1756537761,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189560,
-      "num": 189560,
-      "word": "印度500万粉丝网红拍片遭瀑布冲走",
-      "onboard_time": 1756558763,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 189223,
@@ -1051,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182880,
-      "num": 359594,
-      "word": "黄子韬龚俊被网红说一般",
-      "onboard_time": 1756556902,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182570,
       "num": 200264,
       "word": "金正恩出席九三阅兵为何意义重大",
@@ -1104,14 +1128,6 @@
       "word": "方博解说樊振东首秀",
       "onboard_time": 1756545382,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178582,
-      "num": 195523,
-      "word": "常州又进球了",
-      "onboard_time": 1756558283,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -1169,6 +1185,14 @@
       "onboard_time": 1756552821,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166072,
+      "num": 166072,
+      "word": "被字节跳动的食堂震惊到了",
+      "onboard_time": 1756560684,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 164738,
@@ -1291,6 +1315,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154159,
+      "num": 136505,
+      "word": "成毅超级夏晚敢当舞台",
+      "onboard_time": 1756560862,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153697,
+      "num": 153697,
+      "word": "林昀儒梁靖崑2比3严升陈俊菘",
+      "onboard_time": 1756559905,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152274,
       "num": 152274,
       "word": "刘强东现身苏超赛场",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1756536443,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150080,
+      "num": 150080,
+      "word": "2025年羽毛球世锦赛",
+      "onboard_time": 1756560983,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 149057,
@@ -1475,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136784,
+      "num": 136784,
+      "word": "487第五人格重度依赖",
+      "onboard_time": 1756560141,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136425,
       "num": 206001,
       "word": "起猛了看见腋下管理奖了",
@@ -1505,14 +1561,6 @@
       "onboard_time": 1756539082,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135134,
-      "num": 135134,
-      "word": "487第五人格重度依赖",
-      "onboard_time": 1756560141,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 135053,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1756532241,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132230,
+      "num": 190926,
+      "word": "关注上合组织天津峰会",
+      "onboard_time": 1756551742,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131800,
@@ -1641,6 +1697,14 @@
       "onboard_time": 1756534882,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128010,
+      "num": 128010,
+      "word": "金价再拉升",
+      "onboard_time": 1756560084,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 127748,
@@ -1907,14 +1971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117216,
-      "num": 190926,
-      "word": "关注上合组织天津峰会",
-      "onboard_time": 1756551742,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117037,
       "num": 117037,
       "word": "网红组队没一对是自愿的",
@@ -1929,14 +1985,6 @@
       "onboard_time": 1756466484,
       "rank": 33,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 116491,
-      "num": 116491,
-      "word": "林昀儒梁靖崑2比3严升陈俊菘",
-      "onboard_time": 1756559905,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 115365,
@@ -1969,6 +2017,22 @@
       "onboard_time": 1756537222,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114834,
+      "num": 114834,
+      "word": "嫂嫂开门我是我哥被拍出来了",
+      "onboard_time": 1756560803,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114125,
+      "num": 203613,
+      "word": "京东苏超最强应援",
+      "onboard_time": 1756560862,
+      "rank": 22,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 114092,
@@ -2009,14 +2073,6 @@
       "onboard_time": 1756535482,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112739,
-      "num": 112739,
-      "word": "金价再拉升",
-      "onboard_time": 1756560084,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 112722,

@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756560470431,
+  "endTime": 1756561141159,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -777,6 +777,14 @@
       "onboard_time": 1756017322,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1151946,
+      "num": 1184311,
+      "word": "尚公主",
+      "onboard_time": 1756559123,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1142348,
@@ -1595,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 792210,
+      "num": 358794,
+      "word": "女子4天瘦8斤怀疑泳池水质",
+      "onboard_time": 1756556661,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 791362,
       "num": 398662,
       "word": "安妮海瑟薇摔倒后优雅起身",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1756036643,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 783655,
+      "num": 392588,
+      "word": "王源演唱会偶遇了张真源严浩翔",
+      "onboard_time": 1756561043,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 783627,
@@ -2016,14 +2040,6 @@
       "word": "宗馥莉回应娃哈哈争议问题",
       "onboard_time": 1756270283,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 680850,
-      "num": 358794,
-      "word": "女子4天瘦8斤怀疑泳池水质",
-      "onboard_time": 1756556661,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2619,14 +2635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582224,
-      "num": 1093155,
-      "word": "尚公主",
-      "onboard_time": 1756559123,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 582173,
       "num": 408203,
       "word": "田栩宁直播",
@@ -2936,6 +2944,14 @@
       "word": "白鹿说自己太瘦了",
       "onboard_time": 1756033822,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 535488,
+      "num": 271913,
+      "word": "又一个看着长大的童星火了",
+      "onboard_time": 1756558822,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -3739,14 +3755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 441020,
-      "num": 271913,
-      "word": "又一个看着长大的童星火了",
-      "onboard_time": 1756558822,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440824,
       "num": 440824,
       "word": "梓渝 时装男士",
@@ -4297,6 +4305,14 @@
       "onboard_time": 1756252101,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385345,
+      "num": 385345,
+      "word": "王楚钦蛐蛐对面穿错衣服",
+      "onboard_time": 1756559062,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 384645,
@@ -5243,14 +5259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 310672,
-      "num": 310672,
-      "word": "王楚钦蛐蛐对面穿错衣服",
-      "onboard_time": 1756559062,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310534,
       "num": 310534,
       "word": "金正恩出席九三阅兵为何意义重大",
@@ -5260,7 +5268,7 @@
     },
     {
       "raw_hot": 310157,
-      "num": 192712,
+      "num": 201456,
       "word": "张维伊说买礼物必须是董璇付钱",
       "onboard_time": 1756549882,
       "rank": 30,
@@ -5281,6 +5289,14 @@
       "onboard_time": 1756124483,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 307922,
+      "num": 215383,
+      "word": "张予曦美的不知天地为何物了",
+      "onboard_time": 1756558703,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 307186,
@@ -6059,6 +6075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256970,
+      "num": 208316,
+      "word": "印度500万粉丝网红拍片遭瀑布冲走",
+      "onboard_time": 1756558763,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 256918,
       "num": 235571,
       "word": "迪丽热巴陈飞宇七夕花絮",
@@ -6337,6 +6361,14 @@
       "onboard_time": 1756033644,
       "rank": 27,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 243917,
+      "num": 243917,
+      "word": "常州又进球了",
+      "onboard_time": 1756558283,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 243759,
@@ -7659,14 +7691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204649,
-      "num": 204649,
-      "word": "张予曦美的不知天地为何物了",
-      "onboard_time": 1756558703,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204524,
       "num": 204524,
       "word": "王鹤棣告黑以非判决方式结案",
@@ -7704,6 +7728,14 @@
       "word": "马嘉祺拿了MVP也淡淡的",
       "onboard_time": 1756212382,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204164,
+      "num": 359594,
+      "word": "黄子韬龚俊被网红说一般",
+      "onboard_time": 1756556902,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -8707,6 +8739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191399,
+      "num": 191399,
+      "word": "淮水竹亭国内答谢宴",
+      "onboard_time": 1756560921,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191319,
       "num": 194381,
       "word": "张晚意gogogo节目组nonono",
@@ -8913,14 +8953,6 @@
       "onboard_time": 1756186643,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189560,
-      "num": 189560,
-      "word": "印度500万粉丝网红拍片遭瀑布冲走",
-      "onboard_time": 1756558763,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 189471,
@@ -9531,14 +9563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182880,
-      "num": 359594,
-      "word": "黄子韬龚俊被网红说一般",
-      "onboard_time": 1756556902,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182798,
       "num": 182798,
       "word": "刘宇宁颜色基础表演不基础",
@@ -9889,14 +9913,6 @@
       "onboard_time": 1756449202,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178582,
-      "num": 195523,
-      "word": "常州又进球了",
-      "onboard_time": 1756558283,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 178034,
@@ -10849,6 +10865,14 @@
       "onboard_time": 1756215864,
       "rank": 33,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 166072,
+      "num": 166072,
+      "word": "被字节跳动的食堂震惊到了",
+      "onboard_time": 1756560684,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 165937,
@@ -12099,6 +12123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 154159,
+      "num": 136505,
+      "word": "成毅超级夏晚敢当舞台",
+      "onboard_time": 1756560862,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154150,
       "num": 154150,
       "word": "肖战睡衣少白",
@@ -12137,6 +12169,14 @@
       "onboard_time": 1756220726,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153697,
+      "num": 153697,
+      "word": "林昀儒梁靖崑2比3严升陈俊菘",
+      "onboard_time": 1756559905,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 153600,
@@ -12537,6 +12577,14 @@
       "onboard_time": 1756384762,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150080,
+      "num": 150080,
+      "word": "2025年羽毛球世锦赛",
+      "onboard_time": 1756560983,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 150054,
@@ -14187,6 +14235,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 136784,
+      "num": 136784,
+      "word": "487第五人格重度依赖",
+      "onboard_time": 1756560141,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136769,
       "num": 185629,
       "word": "胡军为演归队减重37斤",
@@ -14449,14 +14505,6 @@
       "onboard_time": 1756445422,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135134,
-      "num": 135134,
-      "word": "487第五人格重度依赖",
-      "onboard_time": 1756560141,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 135006,
@@ -14817,6 +14865,14 @@
       "onboard_time": 1756133186,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132230,
+      "num": 190926,
+      "word": "关注上合组织天津峰会",
+      "onboard_time": 1756551742,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132201,
@@ -15441,6 +15497,14 @@
       "onboard_time": 1756028962,
       "rank": 33,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 128010,
+      "num": 128010,
+      "word": "金价再拉升",
+      "onboard_time": 1756560084,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 128007,
@@ -17315,14 +17379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117216,
-      "num": 190926,
-      "word": "关注上合组织天津峰会",
-      "onboard_time": 1756551742,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117178,
       "num": 117178,
       "word": "高校被曝全员停发工资",
@@ -17441,14 +17497,6 @@
       "onboard_time": 1756335798,
       "rank": 26,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 116491,
-      "num": 116491,
-      "word": "林昀儒梁靖崑2比3严升陈俊菘",
-      "onboard_time": 1756559905,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 116379,
@@ -17763,6 +17811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114834,
+      "num": 114834,
+      "word": "嫂嫂开门我是我哥被拍出来了",
+      "onboard_time": 1756560803,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114833,
       "num": 114833,
       "word": "因为不通牛性躲过一劫",
@@ -17825,6 +17881,14 @@
       "onboard_time": 1756292544,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114125,
+      "num": 203613,
+      "word": "京东苏超最强应援",
+      "onboard_time": 1756560862,
+      "rank": 22,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 114119,
@@ -18009,14 +18073,6 @@
       "onboard_time": 1756380982,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 112739,
-      "num": 112739,
-      "word": "金价再拉升",
-      "onboard_time": 1756560084,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 112734,
