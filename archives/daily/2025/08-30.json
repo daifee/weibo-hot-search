@@ -1,6 +1,6 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756552773159,
+  "endTime": 1756553827621,
   "band_list": [
     {
       "raw_hot": 2244125,
@@ -43,7 +43,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1021223,
+      "raw_hot": 1116415,
       "num": 299633,
       "word": "金子涵居然瘦成这样",
       "onboard_time": 1756549341,
@@ -211,6 +211,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 447147,
+      "num": 447147,
+      "word": "上海药皂 苏丹红",
+      "onboard_time": 1756550542,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445541,
       "num": 234647,
       "word": "孙颖莎掐十字架",
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373523,
+      "num": 373523,
+      "word": "多地公布今年七夕结婚登记数据",
+      "onboard_time": 1756549581,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373408,
       "num": 198628,
       "word": "孟子义李昀锐尚公主剧组聚餐",
@@ -427,14 +443,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 327414,
-      "num": 327414,
-      "word": "多地公布今年七夕结婚登记数据",
-      "onboard_time": 1756549581,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 326139,
       "num": 296258,
       "word": "体制内在编3年后辞职了",
@@ -452,11 +460,19 @@
     },
     {
       "raw_hot": 310157,
-      "num": 139655,
+      "num": 161485,
       "word": "张维伊说买礼物必须是董璇付钱",
       "onboard_time": 1756549882,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305762,
+      "num": 305762,
+      "word": "刘强东夜市用塑料碗和乡亲们喝酒",
+      "onboard_time": 1756546343,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 299269,
@@ -571,6 +587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252506,
+      "num": 252506,
+      "word": "舒淇王俊凯新电影杀青",
+      "onboard_time": 1756551321,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250888,
       "num": 841566,
       "word": "菲方踩踏中方红线必将付出代价",
@@ -619,14 +643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231836,
-      "num": 231836,
-      "word": "上海药皂 苏丹红",
-      "onboard_time": 1756550542,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230325,
       "num": 230325,
       "word": "呼兰总决赛爆哭",
@@ -657,6 +673,14 @@
       "onboard_time": 1756518681,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 221176,
+      "num": 201921,
+      "word": "朱志鑫染发",
+      "onboard_time": 1756550601,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 221053,
@@ -697,14 +721,6 @@
       "onboard_time": 1756536321,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208211,
-      "num": 187056,
-      "word": "朱志鑫染发",
-      "onboard_time": 1756550601,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 205829,
@@ -755,6 +771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199740,
+      "num": 199740,
+      "word": "贺峻霖 这里是成都",
+      "onboard_time": 1756552702,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198748,
       "num": 198748,
       "word": "恋与制作人",
@@ -785,14 +809,6 @@
       "onboard_time": 1756524919,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192434,
-      "num": 192434,
-      "word": "刘强东夜市用塑料碗和乡亲们喝酒",
-      "onboard_time": 1756546343,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 190678,
@@ -899,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175455,
+      "num": 175455,
+      "word": "蔡依林檀健次双人舞合拍",
+      "onboard_time": 1756552461,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173938,
       "num": 173938,
       "word": "只有贺峻霖粉丝才懂的含金量",
@@ -931,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167075,
+      "num": 167075,
+      "word": "张极金发",
+      "onboard_time": 1756552821,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164738,
       "num": 164738,
       "word": "其实过得舒服不需要很多钱",
@@ -955,12 +987,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162230,
-      "num": 191950,
-      "word": "舒淇王俊凯新电影杀青",
-      "onboard_time": 1756551321,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 162480,
+      "num": 162480,
+      "word": "这周吃的饭vs下周吃的饭",
+      "onboard_time": 1756552401,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 161896,
@@ -977,14 +1009,6 @@
       "onboard_time": 1756541061,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 159112,
-      "num": 159112,
-      "word": "这周吃的饭vs下周吃的饭",
-      "onboard_time": 1756552401,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 158914,
@@ -1091,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147367,
+      "num": 147367,
+      "word": "月薪5W是什么概念",
+      "onboard_time": 1756552641,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144544,
       "num": 144544,
       "word": "贺峻霖谢娜非静止画面",
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 142898,
-      "num": 142898,
+      "num": 173768,
       "word": "王赫野南京演唱会嘉宾武艺",
       "onboard_time": 1756552461,
       "rank": 22,
@@ -1171,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136425,
+      "num": 206001,
+      "word": "起猛了看见腋下管理奖了",
+      "onboard_time": 1756552943,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135939,
       "num": 135939,
       "word": "王子文素颜不基础演技也不基础",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1756529841,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133043,
-      "num": 118919,
-      "word": "蔡依林檀健次双人舞合拍",
-      "onboard_time": 1756552461,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 132659,
@@ -1299,6 +1331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129372,
+      "num": 129372,
+      "word": "当你在狗咖摔倒时",
+      "onboard_time": 1756552042,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129077,
       "num": 129077,
       "word": "GEN战胜T1",
@@ -1313,14 +1353,6 @@
       "onboard_time": 1756534882,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127841,
-      "num": 118906,
-      "word": "当你在狗咖摔倒时",
-      "onboard_time": 1756552042,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 127376,
@@ -1435,6 +1467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121011,
+      "num": 159412,
+      "word": "王勉看广智夺冠reaction",
+      "onboard_time": 1756552881,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120817,
+      "num": 153485,
+      "word": "鲍蕾陆毅拿女儿手绘结婚证走红毯",
+      "onboard_time": 1756552702,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120688,
       "num": 120688,
       "word": "老师又要变成家长信任的样子了",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1756529361,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117506,
+      "num": 272492,
+      "word": "长沙20岁女孩被高空坠物砸亡",
+      "onboard_time": 1756549701,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117037,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1756546343,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112066,
+      "num": 112066,
+      "word": "青稚强的可怕",
+      "onboard_time": 1756553421,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 111347,
@@ -1747,6 +1811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107062,
+      "num": 107062,
+      "word": "王源今晚鸟巢嘉宾汪苏泷",
+      "onboard_time": 1756551621,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106946,
       "num": 106946,
       "word": "体温计被弄坏女子喝下含水银水",
@@ -1811,12 +1883,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 104012,
+      "num": 104012,
+      "word": "印度总理莫迪抵达",
+      "onboard_time": 1756553421,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103881,
       "num": 258049,
       "word": "上海1.4亿采购学生手环必要性何在",
       "onboard_time": 1756534944,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103239,
+      "num": 103239,
+      "word": "超级夏晚",
+      "onboard_time": 1756553661,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 102523,
@@ -1833,14 +1921,6 @@
       "onboard_time": 1756541662,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101871,
-      "num": 272492,
-      "word": "长沙20岁女孩被高空坠物砸亡",
-      "onboard_time": 1756549701,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100793,
@@ -1907,14 +1987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95868,
-      "num": 95868,
-      "word": "王源今晚鸟巢嘉宾汪苏泷",
-      "onboard_time": 1756551621,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 95782,
       "num": 95782,
       "word": "韩网票选LPL最佳阵容",
@@ -1969,6 +2041,14 @@
       "onboard_time": 1756525160,
       "rank": 36,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 94226,
+      "num": 94226,
+      "word": "真夫妻干架亲友团拱火",
+      "onboard_time": 1756553362,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 93709,
@@ -2124,7 +2204,7 @@
     },
     {
       "raw_hot": 89257,
-      "num": 89257,
+      "num": 149765,
       "word": "苏超",
       "onboard_time": 1756550661,
       "rank": 38,
@@ -2153,14 +2233,6 @@
       "onboard_time": 1756552161,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87923,
-      "num": 86990,
-      "word": "月薪5W是什么概念",
-      "onboard_time": 1756552641,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 87484,
@@ -2219,20 +2291,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 86092,
-      "num": 86092,
-      "word": "贺峻霖 这里是成都",
-      "onboard_time": 1756552702,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85733,
       "num": 85733,
       "word": "苏醒一开口鸡皮疙瘩起来了",
       "onboard_time": 1756544903,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85505,
+      "num": 85505,
+      "word": "不想弄脏小jiojio的小猫",
+      "onboard_time": 1756552761,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 85385,
@@ -2411,20 +2483,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79148,
+      "num": 90136,
+      "word": "詹姆斯中国行",
+      "onboard_time": 1756550421,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77820,
       "num": 731889,
       "word": "2025上合组织天津峰会",
       "onboard_time": 1756541301,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 77373,
-      "num": 87668,
-      "word": "鲍蕾陆毅拿女儿手绘结婚证走红毯",
-      "onboard_time": 1756552702,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 76365,
@@ -2899,6 +2971,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 36752,
+      "num": 104646,
+      "word": "为什么阅兵要选这把枪",
+      "onboard_time": 1756552641,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 36156,
       "num": 592498,
       "word": "世界再一次迎来上合时刻",
@@ -2929,6 +3009,14 @@
       "onboard_time": 1756541781,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34880,
+      "num": 107446,
+      "word": "敖瑞鹏回应不刮胡子",
+      "onboard_time": 1756553542,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 33195,
@@ -3107,20 +3195,20 @@
       "category": "演出,互联网"
     },
     {
-      "raw_hot": 21098,
-      "num": 88707,
-      "word": "为什么阅兵要选这把枪",
-      "onboard_time": 1756552641,
-      "rank": 40,
-      "category": "军事"
-    },
-    {
       "raw_hot": 20616,
       "num": 47043,
       "word": "一周年基础张泽禹就不基础",
       "onboard_time": 1756493954,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20052,
+      "num": 201394,
+      "word": "张康乐的心动来电密码是生日",
+      "onboard_time": 1756552461,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19491,
@@ -3177,14 +3265,6 @@
       "onboard_time": 1756477346,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 9842,
-      "num": 141104,
-      "word": "张康乐的心动来电密码是生日",
-      "onboard_time": 1756552461,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 5959,

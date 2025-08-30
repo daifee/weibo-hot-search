@@ -1,6 +1,6 @@
 {
   "startTime": 1755966510419,
-  "endTime": 1756552773159,
+  "endTime": 1756553827621,
   "band_list": [
     {
       "raw_hot": 16796494,
@@ -779,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1116415,
+      "num": 299633,
+      "word": "金子涵居然瘦成这样",
+      "onboard_time": 1756549341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1110488,
       "num": 1110488,
       "word": "iPhone17新颜色",
@@ -961,14 +969,6 @@
       "onboard_time": 1756086862,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1021223,
-      "num": 299633,
-      "word": "金子涵居然瘦成这样",
-      "onboard_time": 1756549341,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 1020123,
@@ -3603,6 +3603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447147,
+      "num": 447147,
+      "word": "上海药皂 苏丹红",
+      "onboard_time": 1756550542,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446561,
       "num": 446561,
       "word": "VOGUE二十周年群模封面",
@@ -4379,6 +4387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 373523,
+      "num": 373523,
+      "word": "多地公布今年七夕结婚登记数据",
+      "onboard_time": 1756549581,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373408,
       "num": 198628,
       "word": "孟子义李昀锐尚公主剧组聚餐",
@@ -4947,14 +4963,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 327414,
-      "num": 327414,
-      "word": "多地公布今年七夕结婚登记数据",
-      "onboard_time": 1756549581,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 326898,
       "num": 326898,
       "word": "意大利厕所文化",
@@ -5148,7 +5156,7 @@
     },
     {
       "raw_hot": 310157,
-      "num": 139655,
+      "num": 161485,
       "word": "张维伊说买礼物必须是董璇付钱",
       "onboard_time": 1756549882,
       "rank": 30,
@@ -5177,6 +5185,14 @@
       "onboard_time": 1756300584,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305762,
+      "num": 305762,
+      "word": "刘强东夜市用塑料碗和乡亲们喝酒",
+      "onboard_time": 1756546343,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 304420,
@@ -6019,6 +6035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252506,
+      "num": 252506,
+      "word": "舒淇王俊凯新电影杀青",
+      "onboard_time": 1756551321,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252500,
       "num": 252500,
       "word": "两个人的小森林男配为虞书欣发声",
@@ -6563,14 +6587,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 231836,
-      "num": 231836,
-      "word": "上海药皂 苏丹红",
-      "onboard_time": 1756550542,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231168,
       "num": 231168,
       "word": "TMEA",
@@ -6769,6 +6785,14 @@
       "onboard_time": 1756518681,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 221176,
+      "num": 201921,
+      "word": "朱志鑫染发",
+      "onboard_time": 1756550601,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 221053,
@@ -7347,14 +7371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208211,
-      "num": 187056,
-      "word": "朱志鑫染发",
-      "onboard_time": 1756550601,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208042,
       "num": 208042,
       "word": "孙颖莎首位WTT大满贯单打四冠王",
@@ -7872,6 +7888,14 @@
       "word": "谢娜不基础谢娜妈妈更不基础",
       "onboard_time": 1756069815,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199740,
+      "num": 199740,
+      "word": "贺峻霖 这里是成都",
+      "onboard_time": 1756552702,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -8473,14 +8497,6 @@
       "onboard_time": 1756373002,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 192434,
-      "num": 192434,
-      "word": "刘强东夜市用塑料碗和乡亲们喝酒",
-      "onboard_time": 1756546343,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 192185,
@@ -9867,6 +9883,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 175455,
+      "num": 175455,
+      "word": "蔡依林檀健次双人舞合拍",
+      "onboard_time": 1756552461,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175235,
       "num": 196567,
       "word": "广东大批台风预警发布",
@@ -10531,6 +10555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167075,
+      "num": 167075,
+      "word": "张极金发",
+      "onboard_time": 1756552821,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167058,
       "num": 167058,
       "word": "成龙提醒张子枫跟武行说谢谢",
@@ -10875,6 +10907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162480,
+      "num": 162480,
+      "word": "这周吃的饭vs下周吃的饭",
+      "onboard_time": 1756552401,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162331,
       "num": 162331,
       "word": "陈数李沁你俩根本没喝中药",
@@ -10889,14 +10929,6 @@
       "onboard_time": 1756262961,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162230,
-      "num": 191950,
-      "word": "舒淇王俊凯新电影杀青",
-      "onboard_time": 1756551321,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 162080,
@@ -11201,14 +11233,6 @@
       "onboard_time": 1756205182,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159112,
-      "num": 159112,
-      "word": "这周吃的饭vs下周吃的饭",
-      "onboard_time": 1756552401,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 158914,
@@ -12547,6 +12571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147367,
+      "num": 147367,
+      "word": "月薪5W是什么概念",
+      "onboard_time": 1756552641,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147238,
       "num": 272723,
       "word": "上海楼市限购松绑",
@@ -13124,7 +13156,7 @@
     },
     {
       "raw_hot": 142898,
-      "num": 142898,
+      "num": 173768,
       "word": "王赫野南京演唱会嘉宾武艺",
       "onboard_time": 1756552461,
       "rank": 22,
@@ -13931,6 +13963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136425,
+      "num": 206001,
+      "word": "起猛了看见腋下管理奖了",
+      "onboard_time": 1756552943,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136414,
       "num": 136414,
       "word": "建议禁止东北人进入汉化组",
@@ -14377,14 +14417,6 @@
       "onboard_time": 1756415174,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133043,
-      "num": 118919,
-      "word": "蔡依林檀健次双人舞合拍",
-      "onboard_time": 1756552461,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 133016,
@@ -14891,6 +14923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129372,
+      "num": 129372,
+      "word": "当你在狗咖摔倒时",
+      "onboard_time": 1756552042,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129339,
       "num": 216736,
       "word": "市值124亿元公司拟用138亿元炒股理财",
@@ -15153,14 +15193,6 @@
       "onboard_time": 1756014621,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 127841,
-      "num": 118906,
-      "word": "当你在狗咖摔倒时",
-      "onboard_time": 1756552042,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 127815,
@@ -16267,6 +16299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121011,
+      "num": 159412,
+      "word": "王勉看广智夺冠reaction",
+      "onboard_time": 1756552881,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120912,
       "num": 120912,
       "word": "无畏契约",
@@ -16289,6 +16329,14 @@
       "onboard_time": 1756394842,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120817,
+      "num": 153485,
+      "word": "鲍蕾陆毅拿女儿手绘结婚证走红毯",
+      "onboard_time": 1756552702,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 120717,
@@ -16897,6 +16945,14 @@
       "onboard_time": 1756361722,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117506,
+      "num": 272492,
+      "word": "长沙20岁女孩被高空坠物砸亡",
+      "onboard_time": 1756549701,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117476,
@@ -17715,6 +17771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112066,
+      "num": 112066,
+      "word": "青稚强的可怕",
+      "onboard_time": 1756553421,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112026,
       "num": 283471,
       "word": "外交部回应美在日本部署中导系统",
@@ -18371,6 +18435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107062,
+      "num": 107062,
+      "word": "王源今晚鸟巢嘉宾汪苏泷",
+      "onboard_time": 1756551621,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107025,
       "num": 192769,
       "word": "俄乌领土交换将以非正式方式进行",
@@ -18995,6 +19067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104012,
+      "num": 104012,
+      "word": "印度总理莫迪抵达",
+      "onboard_time": 1756553421,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103983,
       "num": 103983,
       "word": "熬夜 葡萄膜炎",
@@ -19089,6 +19169,14 @@
       "onboard_time": 1756204522,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103239,
+      "num": 103239,
+      "word": "超级夏晚",
+      "onboard_time": 1756553661,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 103159,
@@ -19241,14 +19329,6 @@
       "onboard_time": 1756541662,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101871,
-      "num": 272492,
-      "word": "长沙20岁女孩被高空坠物砸亡",
-      "onboard_time": 1756549701,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101778,
@@ -19819,14 +19899,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 95868,
-      "num": 95868,
-      "word": "王源今晚鸟巢嘉宾汪苏泷",
-      "onboard_time": 1756551621,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 95782,
       "num": 95782,
       "word": "韩网票选LPL最佳阵容",
@@ -19993,6 +20065,14 @@
       "onboard_time": 1756432341,
       "rank": 38,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 94226,
+      "num": 94226,
+      "word": "真夫妻干架亲友团拱火",
+      "onboard_time": 1756553362,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 94204,
@@ -20492,7 +20572,7 @@
     },
     {
       "raw_hot": 89257,
-      "num": 89257,
+      "num": 149765,
       "word": "苏超",
       "onboard_time": 1756550661,
       "rank": 38,
@@ -20619,14 +20699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87923,
-      "num": 86990,
-      "word": "月薪5W是什么概念",
-      "onboard_time": 1756552641,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 87843,
       "num": 99829,
       "word": "秦彻rua肚皮",
@@ -20739,14 +20811,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 86092,
-      "num": 86092,
-      "word": "贺峻霖 这里是成都",
-      "onboard_time": 1756552702,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85733,
       "num": 85733,
       "word": "苏醒一开口鸡皮疙瘩起来了",
@@ -20761,6 +20825,14 @@
       "onboard_time": 1756394903,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85505,
+      "num": 85505,
+      "word": "不想弄脏小jiojio的小猫",
+      "onboard_time": 1756552761,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 85385,
@@ -21265,14 +21337,6 @@
       "onboard_time": 1756541301,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 77373,
-      "num": 87668,
-      "word": "鲍蕾陆毅拿女儿手绘结婚证走红毯",
-      "onboard_time": 1756552702,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 77340,
@@ -24251,6 +24315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36752,
+      "num": 104646,
+      "word": "为什么阅兵要选这把枪",
+      "onboard_time": 1756552641,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 36495,
       "num": 128950,
       "word": "巧克力拉布布",
@@ -24393,6 +24465,14 @@
       "onboard_time": 1756405818,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34880,
+      "num": 107446,
+      "word": "敖瑞鹏回应不刮胡子",
+      "onboard_time": 1756553542,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 34837,
@@ -25523,14 +25603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21098,
-      "num": 88707,
-      "word": "为什么阅兵要选这把枪",
-      "onboard_time": 1756552641,
-      "rank": 40,
-      "category": "军事"
-    },
-    {
       "raw_hot": 21094,
       "num": 149549,
       "word": "高功能焦虑者特征",
@@ -25617,6 +25689,14 @@
       "onboard_time": 1756202482,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20052,
+      "num": 201394,
+      "word": "张康乐的心动来电密码是生日",
+      "onboard_time": 1756552461,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20039,
@@ -26081,14 +26161,6 @@
       "onboard_time": 1756182745,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 9842,
-      "num": 141104,
-      "word": "张康乐的心动来电密码是生日",
-      "onboard_time": 1756552461,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 9220,
