@@ -1,18 +1,18 @@
 {
   "startTime": 1756485074353,
-  "endTime": 1756528144688,
+  "endTime": 1756528911992,
   "band_list": [
     {
       "raw_hot": 1762845,
-      "num": 202593,
+      "num": 219996,
       "word": "蓬莱二中通报教师与学生不文明聊天",
       "onboard_time": 1756518560,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1449563,
-      "num": 1449563,
+      "raw_hot": 1575930,
+      "num": 1575930,
       "word": "男子七夕拨通亡妻视频带她旅游",
       "onboard_time": 1756524680,
       "rank": 29,
@@ -25,6 +25,14 @@
       "onboard_time": 1756482384,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1019044,
+      "num": 274018,
+      "word": "iPhone17Pro 丑",
+      "onboard_time": 1756527801,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 975830,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 445541,
-      "num": 181961,
+      "num": 214638,
       "word": "孙颖莎掐十字架",
       "onboard_time": 1756526241,
       "rank": 12,
@@ -113,6 +121,14 @@
       "onboard_time": 1756512619,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409361,
+      "num": 287124,
+      "word": "外源性床虱",
+      "onboard_time": 1756525160,
+      "rank": 24,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 398857,
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350964,
+      "num": 245770,
+      "word": "唐香玉全村第一位女户主",
+      "onboard_time": 1756526960,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341374,
       "num": 341374,
       "word": "七夕",
@@ -163,12 +187,12 @@
       "category": "艺人,情感"
     },
     {
-      "raw_hot": 328407,
-      "num": 287124,
-      "word": "外源性床虱",
-      "onboard_time": 1756525160,
-      "rank": 24,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 299269,
+      "num": 276764,
+      "word": "1.4亿元采购手环学生免费使用",
+      "onboard_time": 1756524560,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296621,
@@ -200,14 +224,6 @@
       "word": "主人回应狗狗靠捡瓶子存款过万",
       "onboard_time": 1756519099,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276764,
-      "num": 276764,
-      "word": "1.4亿元采购手环学生免费使用",
-      "onboard_time": 1756524560,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -259,8 +275,24 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 230966,
-      "num": 175824,
+      "raw_hot": 240588,
+      "num": 240588,
+      "word": "法国人被中国七夕浪漫到了",
+      "onboard_time": 1756525520,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 235640,
+      "num": 212699,
+      "word": "金大川雎晓雯带女儿出游",
+      "onboard_time": 1756526960,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232917,
+      "num": 205393,
       "word": "张予曦毕雯珺七夕营业",
       "onboard_time": 1756524381,
       "rank": 18,
@@ -275,20 +307,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 227951,
-      "num": 227951,
-      "word": "唐香玉全村第一位女户主",
-      "onboard_time": 1756526960,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222024,
       "num": 125024,
       "word": "iPhone17Pro或是变化最大的一代",
       "onboard_time": 1756518681,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 220614,
+      "num": 220614,
+      "word": "不二之臣主演敖瑞鹏沈羽洁柯淳",
+      "onboard_time": 1756528882,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 219126,
@@ -299,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 217185,
+      "num": 201979,
+      "word": "乙游女过七夕吃的别太好了",
+      "onboard_time": 1756528761,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216963,
       "num": 216963,
       "word": "马丽对时代少年团印象最深",
@@ -307,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204300,
-      "num": 204300,
-      "word": "法国人被中国七夕浪漫到了",
-      "onboard_time": 1756525520,
-      "rank": 31,
-      "category": "海外新闻"
+      "raw_hot": 212536,
+      "num": 212536,
+      "word": "杨幂 我会合法纳税",
+      "onboard_time": 1756528403,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 203534,
@@ -363,6 +403,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195413,
+      "num": 195413,
+      "word": "女子订婚后悔婚拒还16万6彩礼",
+      "onboard_time": 1756524919,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190529,
+      "num": 190529,
+      "word": "杜海涛沈梦辰什么都往外说",
+      "onboard_time": 1756528041,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189223,
       "num": 189223,
       "word": "Fly刺痛 双胞胎相爱相杀",
@@ -411,28 +467,20 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 179358,
+      "num": 179358,
+      "word": "杨幂听到100亿的第一反应",
+      "onboard_time": 1756528642,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178918,
       "num": 162698,
       "word": "尚公主不基础昀牵孟绕更不基础",
       "onboard_time": 1756521981,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165470,
-      "num": 165470,
-      "word": "iPhone17Pro 丑",
-      "onboard_time": 1756527801,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 163899,
-      "num": 163899,
-      "word": "女子订婚后悔婚拒还16万6彩礼",
-      "onboard_time": 1756524919,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163130,
@@ -459,19 +507,35 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157023,
-      "num": 157023,
-      "word": "金大川雎晓雯带女儿出游",
-      "onboard_time": 1756526960,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156099,
       "num": 156099,
       "word": "你好星期六全员助力新学期flag",
       "onboard_time": 1756525282,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152104,
+      "num": 152104,
+      "word": "以为是淤青的产生过程",
+      "onboard_time": 1756526001,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 152097,
+      "num": 152097,
+      "word": "蒯曼vs申裕斌",
+      "onboard_time": 1756528523,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150529,
+      "num": 150529,
+      "word": "艾热在孜巴生孩子时晕倒了",
+      "onboard_time": 1756527623,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -481,6 +545,14 @@
       "onboard_time": 1756476504,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148745,
+      "num": 148745,
+      "word": "原来真有父母爱面子胜过孩子",
+      "onboard_time": 1756527440,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 144544,
@@ -507,11 +579,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138982,
-      "num": 138982,
-      "word": "艾热在孜巴生孩子时晕倒了",
-      "onboard_time": 1756527623,
-      "rank": 24,
+      "raw_hot": 139821,
+      "num": 139821,
+      "word": "我不渴了还不行吗",
+      "onboard_time": 1756528642,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 135939,
+      "num": 135939,
+      "word": "王子文素颜不基础演技也不基础",
+      "onboard_time": 1756527742,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135695,
+      "num": 135695,
+      "word": "郭麒麟上网才知道阎鹤祥媳妇怀孕",
+      "onboard_time": 1756528882,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -531,20 +619,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134398,
-      "num": 134398,
-      "word": "王子文素颜不基础演技也不基础",
-      "onboard_time": 1756527742,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134154,
       "num": 134154,
       "word": "赛里木湖凭什么火到现象级",
       "onboard_time": 1756521920,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131592,
+      "num": 131592,
+      "word": "何广智冠军",
+      "onboard_time": 1756528702,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 130294,
@@ -595,20 +683,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 124136,
-      "num": 124136,
-      "word": "以为是淤青的产生过程",
-      "onboard_time": 1756526001,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123003,
       "num": 198142,
       "word": "越南将给每位公民发10万越南盾",
       "onboard_time": 1756515261,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119969,
+      "num": 186635,
+      "word": "孙颖莎乒超第三阶段开门红",
+      "onboard_time": 1756527681,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 119695,
@@ -620,27 +708,19 @@
     },
     {
       "raw_hot": 119144,
-      "num": 119144,
+      "num": 131607,
       "word": "官方回应男子车后绑60斤鱼遛街",
       "onboard_time": 1756524500,
       "rank": 44,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118496,
-      "num": 118496,
-      "word": "杜海涛沈梦辰什么都往外说",
-      "onboard_time": 1756528041,
-      "rank": 35,
+      "raw_hot": 117830,
+      "num": 117830,
+      "word": "唐国强徐明浩 有种诡异的好笑",
+      "onboard_time": 1756528642,
+      "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117659,
-      "num": 117659,
-      "word": "原来真有父母爱面子胜过孩子",
-      "onboard_time": 1756527440,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 117018,
@@ -659,12 +739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112834,
-      "num": 149459,
-      "word": "孙颖莎乒超第三阶段开门红",
-      "onboard_time": 1756527681,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 112977,
+      "num": 112977,
+      "word": "王牌9首播聚会直播",
+      "onboard_time": 1756528041,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 111020,
@@ -673,6 +753,22 @@
       "onboard_time": 1756520240,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110395,
+      "num": 110395,
+      "word": "茅子俊新剧1集复活5次",
+      "onboard_time": 1756528100,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110129,
+      "num": 110129,
+      "word": "杨紫从未放弃过持续生长",
+      "onboard_time": 1756526721,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 107958,
@@ -721,14 +817,6 @@
       "onboard_time": 1756489637,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 103863,
-      "num": 103863,
-      "word": "杨紫从未放弃过持续生长",
-      "onboard_time": 1756526721,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 98683,
@@ -819,28 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93246,
-      "num": 93246,
-      "word": "王牌9首播聚会直播",
-      "onboard_time": 1756528041,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92735,
       "num": 197078,
       "word": "毛晓彤抢发工作室的图",
       "onboard_time": 1756478306,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 92526,
-      "num": 92526,
-      "word": "茅子俊新剧1集复活5次",
-      "onboard_time": 1756528100,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 92192,
@@ -875,8 +947,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86997,
+      "num": 131721,
+      "word": "这里是中国",
+      "onboard_time": 1756528702,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86536,
-      "num": 131217,
+      "num": 140433,
       "word": "1945年电台这样播报日本无条件投降",
       "onboard_time": 1756525880,
       "rank": 26,
@@ -1073,6 +1153,14 @@
       "onboard_time": 1756476504,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70894,
+      "num": 118133,
+      "word": "印尼为什么突然暴乱",
+      "onboard_time": 1756528342,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 70861,
@@ -1561,6 +1649,22 @@
       "onboard_time": 1756477346,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5811,
+      "num": 114862,
+      "word": "89岁弟弟收到21岁烈士哥哥画像",
+      "onboard_time": 1756479625,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1000,
+      "num": 280000,
+      "word": "阅兵方队训练中能力一步步升级",
+      "onboard_time": 1756441822,
+      "rank": 2,
+      "category": "军事"
     }
   ],
   "hotgov_list": [
@@ -1569,6 +1673,9 @@
     },
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#志合越山海#"
     }
   ]
 }
