@@ -1,0 +1,410 @@
+{
+  "runTime": 1756585505203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 54495,
+        "num": 54495,
+        "word": "王源十二封信",
+        "onboard_time": 1756571002,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51237,
+        "num": 51237,
+        "word": "农村女孩靠摆盘从职校生干到了副教授",
+        "onboard_time": 1756566084,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7433,
+        "num": 46707,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45135,
+        "num": 45135,
+        "word": "黄子韬龚俊被网红说一般",
+        "onboard_time": 1756556902,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36874,
+        "num": 36874,
+        "word": "iPhone17Pro 丑",
+        "onboard_time": 1756527801,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27690,
+        "num": 27690,
+        "word": "日本发动侵略战争祸首究竟是谁",
+        "onboard_time": 1756564284,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 35921,
+        "num": 27661,
+        "word": "张维伊说买礼物必须是董璇付钱",
+        "onboard_time": 1756549882,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27490,
+        "num": 27490,
+        "word": "印度总理莫迪抵达",
+        "onboard_time": 1756553421,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22390,
+        "num": 27484,
+        "word": "华晨宇 我第一次秀肌肉有点笨拙",
+        "onboard_time": 1756564763,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20927,
+        "num": 27383,
+        "word": "我国科学家在6G领域取得新突破",
+        "onboard_time": 1756570641,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69359,
+        "num": 27258,
+        "word": "当事人回应16年后偶遇初恋光速订婚",
+        "onboard_time": 1756576577,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41510,
+        "num": 27172,
+        "word": "嫂嫂开门我是我哥被拍出来了",
+        "onboard_time": 1756560803,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34459,
+        "num": 27133,
+        "word": "月薪5W是什么概念",
+        "onboard_time": 1756552641,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31520,
+        "num": 26991,
+        "word": "破音",
+        "onboard_time": 1756556603,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28604,
+        "num": 26895,
+        "word": "被字节跳动的食堂震惊到了",
+        "onboard_time": 1756560684,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10593,
+        "num": 26844,
+        "word": "为何上海精神有超越时空的生命力",
+        "onboard_time": 1756584615,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26809,
+        "num": 26809,
+        "word": "又一个看着长大的童星火了",
+        "onboard_time": 1756558822,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26576,
+        "num": 26576,
+        "word": "女子4天瘦8斤怀疑泳池水质",
+        "onboard_time": 1756556661,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26405,
+        "num": 26405,
+        "word": "朴秀荣瘦成纸片人",
+        "onboard_time": 1756572619,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14048,
+        "num": 26399,
+        "word": "关注上合组织天津峰会",
+        "onboard_time": 1756551742,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56891,
+        "num": 26394,
+        "word": "金价",
+        "onboard_time": 1756564884,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53345,
+        "num": 26391,
+        "word": "金子涵居然瘦成这样",
+        "onboard_time": 1756549341,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46364,
+        "num": 26388,
+        "word": "蓝盈莹生万物战报已更正",
+        "onboard_time": 1756567225,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25411,
+        "num": 26381,
+        "word": "sexy back",
+        "onboard_time": 1756564763,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23681,
+        "num": 26374,
+        "word": "尚公主",
+        "onboard_time": 1756559123,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22477,
+        "num": 26373,
+        "word": "印度500万粉丝网红拍片遭瀑布冲走",
+        "onboard_time": 1756558763,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20854,
+        "num": 26367,
+        "word": "Doinb 爽",
+        "onboard_time": 1756564463,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19135,
+        "num": 26363,
+        "word": "苏新皓绝美36秒",
+        "onboard_time": 1756568722,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12039,
+        "num": 26358,
+        "word": "肖国栋冠军",
+        "onboard_time": 1756567522,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11829,
+        "num": 26351,
+        "word": "陈雨菲被搀扶退场",
+        "onboard_time": 1756563863,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20558,
+        "num": 26343,
+        "word": "敖瑞鹏回应不刮胡子",
+        "onboard_time": 1756553542,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19277,
+        "num": 26343,
+        "word": "李现跳刀马刀马",
+        "onboard_time": 1756562965,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18899,
+        "num": 26336,
+        "word": "谁给蓝盈莹浇成这样的",
+        "onboard_time": 1756561884,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17965,
+        "num": 26328,
+        "word": "日本代表最后一刻取消访美",
+        "onboard_time": 1756565063,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16739,
+        "num": 26323,
+        "word": "王源演唱会偶遇了张真源严浩翔",
+        "onboard_time": 1756561043,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16393,
+        "num": 26322,
+        "word": "被周深我在贵州等你洗脑了",
+        "onboard_time": 1756573519,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16257,
+        "num": 26313,
+        "word": "杜克带一哥来中国了",
+        "onboard_time": 1756567344,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16187,
+        "num": 26307,
+        "word": "白俄罗斯总统说加入上合是美妙礼物",
+        "onboard_time": 1756568842,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15996,
+        "num": 26305,
+        "word": "陈飞宇王影璐情侣装",
+        "onboard_time": 1756566204,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14657,
+        "num": 26300,
+        "word": "多国领导人来华赴上合之约",
+        "onboard_time": 1756563204,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11138,
+        "num": 26292,
+        "word": "推动中哈关系不断迈上新台阶",
+        "onboard_time": 1756583775,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13187,
+        "num": 26289,
+        "word": "敖瑞鹏松弛感",
+        "onboard_time": 1756576877,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12668,
+        "num": 26283,
+        "word": "董璇张维伊因请帖起争执",
+        "onboard_time": 1756570042,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11999,
+        "num": 26280,
+        "word": "鞠婧祎超级夏晚紧锦鲤抄舞台",
+        "onboard_time": 1756576817,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11854,
+        "num": 26274,
+        "word": "登陆少年演唱会直拍",
+        "onboard_time": 1756578076,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11272,
+        "num": 26270,
+        "word": "蛟龙行动特别版今日上映",
+        "onboard_time": 1756570701,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11183,
+        "num": 26261,
+        "word": "卢卡申科说要像中国人一步一个脚印",
+        "onboard_time": 1756583775,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11047,
+        "num": 26261,
+        "word": "总台专访白俄罗斯总统",
+        "onboard_time": 1756581195,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13115,
+        "num": 26256,
+        "word": "冯建宇生日会吃得太好了",
+        "onboard_time": 1756571362,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10914,
+        "num": 26249,
+        "word": "陈雨菲冲击大满贯",
+        "onboard_time": 1756564703,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见埃及总理马德布利#"
+    }
+  }
+}
