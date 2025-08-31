@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756610836784,
+  "endTime": 1756612231516,
   "band_list": [
     {
       "raw_hot": 1691794,
@@ -43,6 +43,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 711299,
+      "num": 711299,
+      "word": "普京带3位副总理10多位部长到中国",
+      "onboard_time": 1756610480,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 695018,
       "num": 606033,
       "word": "唐朝诡事录",
@@ -51,8 +59,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 558471,
-      "num": 201011,
+      "raw_hot": 559994,
+      "num": 255462,
       "word": "谈恋爱3个月定律",
       "onboard_time": 1756605801,
       "rank": 16,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 535646,
+      "num": 254842,
+      "word": "孟子义李昀锐定妆照",
+      "onboard_time": 1756607721,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 527072,
       "num": 242623,
       "word": "被字节跳动的食堂震惊到了",
@@ -76,19 +92,11 @@
     },
     {
       "raw_hot": 526721,
-      "num": 196427,
+      "num": 253261,
       "word": "孙闻被乒协处罚",
       "onboard_time": 1756607721,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 494216,
-      "num": 198209,
-      "word": "孟子义李昀锐定妆照",
-      "onboard_time": 1756607721,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 450325,
@@ -96,6 +104,14 @@
       "word": "蓝盈莹生万物战报已更正",
       "onboard_time": 1756567225,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 419907,
+      "num": 253945,
+      "word": "霍建华病娇疯批演爽了",
+      "onboard_time": 1756609820,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 354260,
-      "num": 190890,
+      "num": 248439,
       "word": "纪凌尘出演孟子义新剧",
       "onboard_time": 1756608201,
       "rank": 15,
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260454,
+      "num": 260454,
+      "word": "香港1200架无人机重现日本投降矣",
+      "onboard_time": 1756611021,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260144,
       "num": 233055,
       "word": "王源演唱会偶遇了张真源严浩翔",
@@ -227,12 +251,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 256887,
-      "num": 186834,
-      "word": "霍建华病娇疯批演爽了",
-      "onboard_time": 1756609820,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 256223,
+      "num": 279249,
+      "word": "抗战胜利80周年第3场记者招待会",
+      "onboard_time": 1756606100,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 252984,
+      "num": 252984,
+      "word": "王曼昱钱天一vs蒯曼孙颖莎",
+      "onboard_time": 1756609040,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 250741,
@@ -251,12 +283,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 241480,
-      "num": 241480,
-      "word": "王曼昱钱天一vs蒯曼孙颖莎",
-      "onboard_time": 1756609040,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 211852,
+      "num": 211852,
+      "word": "美美sunday被小沈阳唱出玻璃球",
+      "onboard_time": 1756610300,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 210397,
@@ -275,12 +307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208356,
-      "num": 279249,
-      "word": "抗战胜利80周年第3场记者招待会",
-      "onboard_time": 1756606100,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 207117,
+      "num": 190958,
+      "word": "冷冻太久的肉就不要再吃了",
+      "onboard_time": 1756608440,
+      "rank": 21,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 205718,
@@ -323,6 +355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 198619,
+      "num": 198619,
+      "word": "以为张艺兴穿的蓝色抹胸",
+      "onboard_time": 1756611021,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195081,
       "num": 195081,
       "word": "三宝对倪萍李维嘉的态度",
@@ -337,6 +377,14 @@
       "onboard_time": 1756571060,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192019,
+      "num": 192019,
+      "word": "黄誉博 老板亲的",
+      "onboard_time": 1756611321,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 183214,
@@ -355,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175210,
-      "num": 164271,
-      "word": "冷冻太久的肉就不要再吃了",
-      "onboard_time": 1756608440,
-      "rank": 21,
-      "category": "健康医疗,美食"
+      "raw_hot": 169930,
+      "num": 169930,
+      "word": "易烊千玺抢票",
+      "onboard_time": 1756611979,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 169719,
@@ -395,11 +443,35 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 162797,
+      "num": 162797,
+      "word": "外卖员妈妈暴雨中将孩子托付派出所",
+      "onboard_time": 1756609460,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161929,
+      "num": 149918,
+      "word": "女生苦练化妆1年的变化",
+      "onboard_time": 1756611680,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 161694,
       "num": 231814,
       "word": "陶喆变成道明喆了",
       "onboard_time": 1756566444,
       "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 158379,
+      "num": 158379,
+      "word": "窦靖童王菲演唱会的跨时空重合",
+      "onboard_time": 1756611080,
+      "rank": 27,
       "category": "演出"
     },
     {
@@ -441,6 +513,14 @@
       "onboard_time": 1756553421,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149492,
+      "num": 149492,
+      "word": "陈赫刘宇宁陈星旭成站哥了",
+      "onboard_time": 1756611141,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 149135,
@@ -507,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139019,
+      "num": 139019,
+      "word": "刘宪华拉断弓毛这一幕",
+      "onboard_time": 1756611381,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137974,
       "num": 137974,
       "word": "JackeyLove不确定明年退役",
@@ -516,7 +604,7 @@
     },
     {
       "raw_hot": 137689,
-      "num": 137689,
+      "num": 255708,
       "word": "这一幕幕中国浪漫看得心暖暖",
       "onboard_time": 1756606701,
       "rank": 30,
@@ -531,7 +619,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127479,
+      "raw_hot": 129750,
       "num": 165181,
       "word": "宋亚轩这是真上桌了",
       "onboard_time": 1756610421,
@@ -569,14 +657,6 @@
       "onboard_time": 1756609400,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119356,
-      "num": 119356,
-      "word": "外卖员妈妈暴雨中将孩子托付派出所",
-      "onboard_time": 1756609460,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119091,
@@ -683,14 +763,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 102827,
-      "num": 102827,
-      "word": "美美sunday被小沈阳唱出玻璃球",
-      "onboard_time": 1756610300,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100987,
       "num": 100987,
       "word": "发现蟹堡王是蟹笼",
@@ -715,12 +787,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 96784,
-      "num": 164944,
-      "word": "普京带3位副总理10多位部长到中国",
-      "onboard_time": 1756610480,
-      "rank": 20,
-      "category": "国际时政"
+      "raw_hot": 95753,
+      "num": 95753,
+      "word": "共享渣爹进入古装剧",
+      "onboard_time": 1756612043,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 94930,
@@ -729,6 +801,14 @@
       "onboard_time": 1756570701,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94904,
+      "num": 94904,
+      "word": "宋亚轩的嘴也是没放过沈腾",
+      "onboard_time": 1756610901,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 94803,
@@ -753,6 +833,14 @@
       "onboard_time": 1756596497,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93588,
+      "num": 93588,
+      "word": "宿迁队进球后刘强东高兴到跳舞",
+      "onboard_time": 1756611680,
+      "rank": 45,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 92707,
@@ -913,6 +1001,14 @@
       "onboard_time": 1756564284,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 71021,
+      "num": 102915,
+      "word": "疯狂动物城2新剧照",
+      "onboard_time": 1756611141,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 70281,
