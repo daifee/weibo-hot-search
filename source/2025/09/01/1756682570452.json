@@ -1,0 +1,410 @@
+{
+  "runTime": 1756682570452,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 537954,
+        "num": 794475,
+        "word": "9月1日新规上线",
+        "onboard_time": 1756650923,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355725,
+        "num": 355725,
+        "word": "山东一小学新生报到名字惊艳众人",
+        "onboard_time": 1756655542,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1385,
+        "num": 312766,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287915,
+        "num": 287915,
+        "word": "樊振东1比3杜达",
+        "onboard_time": 1756653144,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231259,
+        "num": 231259,
+        "word": "篡改电动自行车电池的人这下消停了",
+        "onboard_time": 1756654161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227558,
+        "num": 227558,
+        "word": "兰大连续3年打地铺让新生家长免费住",
+        "onboard_time": 1756676835,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218355,
+        "num": 218355,
+        "word": "国羽男单时隔10年再夺世锦赛冠军",
+        "onboard_time": 1756659679,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153798,
+        "num": 153798,
+        "word": "脸上长火疖子黑头闭口怎么办",
+        "onboard_time": 1756681217,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103463,
+        "num": 151908,
+        "word": "香港小姐14强佳丽均是高学历",
+        "onboard_time": 1756655121,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59109,
+        "num": 150908,
+        "word": "敬山水",
+        "onboard_time": 1756650324,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255662,
+        "num": 148754,
+        "word": "石宇奇",
+        "onboard_time": 1756656021,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199050,
+        "num": 147402,
+        "word": "美网抢帽子男子系波兰富豪",
+        "onboard_time": 1756657639,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158330,
+        "num": 144465,
+        "word": "为什么吃海底捞前要先上个坡",
+        "onboard_time": 1756644624,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144110,
+        "num": 144110,
+        "word": "旺旺总经理赴京看九三阅兵",
+        "onboard_time": 1756651763,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142206,
+        "num": 142206,
+        "word": "伪装者",
+        "onboard_time": 1756649604,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134431,
+        "num": 134431,
+        "word": "樊振东不想草率回应质疑",
+        "onboard_time": 1756655062,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114988,
+        "num": 114988,
+        "word": "开学",
+        "onboard_time": 1756651344,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105215,
+        "num": 105215,
+        "word": "消费贷的国补要来了",
+        "onboard_time": 1756647024,
+        "rank": 17,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 71381,
+        "num": 104914,
+        "word": "羽毛球世锦赛",
+        "onboard_time": 1756639580,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48543,
+        "num": 104233,
+        "word": "子夜归14天72小时5个字",
+        "onboard_time": 1756639460,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390306,
+        "num": 103735,
+        "word": "让家长打扫教室学校潜规则该打破了",
+        "onboard_time": 1756649783,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338172,
+        "num": 102918,
+        "word": "宋轶回应整容",
+        "onboard_time": 1756630101,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281247,
+        "num": 102063,
+        "word": "9月财运最旺的星座",
+        "onboard_time": 1756681518,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242273,
+        "num": 101452,
+        "word": "邓超又去买一毛钱老奶奶的凉菜了",
+        "onboard_time": 1756651703,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128311,
+        "num": 100335,
+        "word": "孟子义被烫李昀锐的反应",
+        "onboard_time": 1756661657,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126709,
+        "num": 99468,
+        "word": "陈咏诗港姐冠军",
+        "onboard_time": 1756681518,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99344,
+        "num": 99344,
+        "word": "梓渝泥潭入围亚洲流行音乐大奖",
+        "onboard_time": 1756682000,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90957,
+        "num": 90957,
+        "word": "成人安抚奶嘴夜间订单量暴增",
+        "onboard_time": 1756634840,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80253,
+        "num": 80253,
+        "word": "男生6天穷游北京仅花650元",
+        "onboard_time": 1756654821,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70046,
+        "num": 70046,
+        "word": "莫迪四次拒接特朗普电话后奔向中日",
+        "onboard_time": 1756681757,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66278,
+        "num": 66278,
+        "word": "香港小姐",
+        "onboard_time": 1756652963,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65685,
+        "num": 65685,
+        "word": "女子高铁上疯狂推前排座椅",
+        "onboard_time": 1756637060,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62478,
+        "num": 62478,
+        "word": "被AI造黄谣女运动员发声",
+        "onboard_time": 1756644141,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61909,
+        "num": 61909,
+        "word": "伊朗最高领袖中文发文谈中伊关系",
+        "onboard_time": 1756639460,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58244,
+        "num": 61909,
+        "word": "邓超给鹿晗带程奶奶凉菜",
+        "onboard_time": 1756654943,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57052,
+        "num": 61905,
+        "word": "北京暴雨",
+        "onboard_time": 1756646543,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53723,
+        "num": 61902,
+        "word": "边伯贤说何老师很有名",
+        "onboard_time": 1756657220,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50605,
+        "num": 61895,
+        "word": "孟子义刘亦菲同款妆造",
+        "onboard_time": 1756646481,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47586,
+        "num": 61891,
+        "word": "5岁半小狗捡瓶子日入50元",
+        "onboard_time": 1756672454,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46734,
+        "num": 61889,
+        "word": "赵丽颖永远别向后看",
+        "onboard_time": 1756650444,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45953,
+        "num": 61886,
+        "word": "羽毛球世锦赛男双",
+        "onboard_time": 1756682238,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13992,
+        "num": 61883,
+        "word": "天津的魅力让老外一秒融入",
+        "onboard_time": 1756682538,
+        "rank": 41,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 43262,
+        "num": 61881,
+        "word": "山东泰山6比0北京国安",
+        "onboard_time": 1756648284,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43048,
+        "num": 61877,
+        "word": "上合峰会欢迎宴会",
+        "onboard_time": 1756641861,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42996,
+        "num": 61872,
+        "word": "王一栩说淮水竹亭绝对的断层第一",
+        "onboard_time": 1756660098,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41091,
+        "num": 61868,
+        "word": "中国排面亮相越南气场拉满了",
+        "onboard_time": 1756645282,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38427,
+        "num": 61866,
+        "word": "颁奖前陈雨菲哭了",
+        "onboard_time": 1756648402,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35594,
+        "num": 61861,
+        "word": "F1",
+        "onboard_time": 1756651884,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31443,
+        "num": 61860,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1756646543,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31368,
+        "num": 61856,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1756643542,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和彭丽媛举行欢迎宴会#"
+    }
+  }
+}
