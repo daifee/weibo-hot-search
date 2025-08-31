@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756622796382,
+  "endTime": 1756624967909,
   "band_list": [
     {
       "raw_hot": 1691794,
@@ -35,12 +35,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1075820,
+      "num": 250268,
+      "word": "妈宝女看不了孙怡这段",
+      "onboard_time": 1756621461,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1062110,
       "num": 246775,
       "word": "金价",
       "onboard_time": 1756564884,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 897242,
+      "num": 1143558,
+      "word": "大学生暑假工挣16000老板当场发工资",
+      "onboard_time": 1756619782,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 873901,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 860068,
-      "num": 334061,
+      "num": 400789,
       "word": "许昕发博回家",
       "onboard_time": 1756619481,
       "rank": 3,
@@ -83,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 627610,
-      "num": 206309,
-      "word": "妈宝女看不了孙怡这段",
-      "onboard_time": 1756621461,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 607336,
       "num": 249145,
       "word": "张维伊对96岁的姥姥说长命百岁",
@@ -113,14 +121,6 @@
       "onboard_time": 1756605801,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 556364,
-      "num": 556364,
-      "word": "大学生暑假工挣16000老板当场发工资",
-      "onboard_time": 1756619782,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 543181,
@@ -179,12 +179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408981,
+      "num": 246345,
+      "word": "许昕疑似不满裁判判罚",
+      "onboard_time": 1756621522,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392147,
       "num": 392147,
       "word": "林书豪退役",
       "onboard_time": 1756599860,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 379487,
+      "num": 379487,
+      "word": "陕西历史博物馆回应将陕西拼为Shaanxi",
+      "onboard_time": 1756620083,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379246,
@@ -307,16 +323,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 277197,
-      "num": 277197,
-      "word": "陕西历史博物馆回应将陕西拼为Shaanxi",
-      "onboard_time": 1756620083,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275175,
-      "num": 232985,
+      "num": 242492,
       "word": "特朗普称想把中国留学生扩至60万",
       "onboard_time": 1756618341,
       "rank": 16,
@@ -403,20 +411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227645,
+      "num": 227645,
+      "word": "台湾信息茧房",
+      "onboard_time": 1756621102,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223679,
       "num": 165022,
       "word": "居然有演员一句台词背1小时",
       "onboard_time": 1756615341,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220858,
-      "num": 200908,
-      "word": "许昕疑似不满裁判判罚",
-      "onboard_time": 1756621522,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 212642,
@@ -579,6 +587,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185999,
+      "num": 185999,
+      "word": "王源下台偷偷抹眼泪",
+      "onboard_time": 1756623681,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 185094,
+      "num": 254242,
+      "word": "尚公主物料审美",
+      "onboard_time": 1756620142,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184625,
       "num": 184625,
       "word": "孟子义暮晚摇",
@@ -593,6 +617,14 @@
       "onboard_time": 1756600101,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 180959,
+      "num": 180959,
+      "word": "肖战一次次出现在暑假屏幕里",
+      "onboard_time": 1756623502,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 179416,
@@ -619,12 +651,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169711,
+      "num": 252352,
+      "word": "小电驴新国标9月1日实施",
+      "onboard_time": 1756623860,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168044,
       "num": 228207,
       "word": "日本代表最后一刻取消访美",
       "onboard_time": 1756565063,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166933,
+      "num": 248835,
+      "word": "大闸蟹开湖倒计时",
+      "onboard_time": 1756624401,
+      "rank": 11,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 166795,
@@ -739,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146267,
-      "num": 146267,
-      "word": "尚公主物料审美",
-      "onboard_time": 1756620142,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146047,
       "num": 146047,
       "word": "孟子义李昀锐开机同框",
@@ -771,12 +811,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145604,
+      "num": 145604,
+      "word": "降低慢性炎症的好处太多了",
+      "onboard_time": 1756621102,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145350,
       "num": 145350,
       "word": "497块的外卖最难的是找菜",
       "onboard_time": 1756608501,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143073,
+      "num": 143073,
+      "word": "奶奶的供桌上只剩下我的准考证",
+      "onboard_time": 1756622121,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 142954,
@@ -835,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136847,
+      "num": 121301,
+      "word": "当我教小猫学习爬楼梯",
+      "onboard_time": 1756624042,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136605,
       "num": 147761,
       "word": "印尼首都交通瘫痪",
@@ -843,20 +907,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 135240,
-      "num": 135240,
-      "word": "台湾信息茧房",
-      "onboard_time": 1756621102,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134848,
       "num": 134848,
       "word": "女孩跳河救人后转正所在单位发声",
       "onboard_time": 1756619002,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134323,
+      "num": 134323,
+      "word": "一到半夜就想吃东西",
+      "onboard_time": 1756623802,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 132898,
@@ -921,6 +985,14 @@
       "onboard_time": 1756617860,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123564,
+      "num": 121271,
+      "word": "日本动漫血汗工厂",
+      "onboard_time": 1756622422,
+      "rank": 38,
+      "category": "海外新闻,动漫"
     },
     {
       "raw_hot": 123278,
@@ -1019,12 +1091,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 116859,
-      "num": 116859,
-      "word": "奶奶的供桌上只剩下我的准考证",
-      "onboard_time": 1756622121,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 116914,
+      "num": 116914,
+      "word": "管乐 朋友只会看到你的疲惫",
+      "onboard_time": 1756624282,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 116563,
@@ -1107,20 +1179,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110612,
-      "num": 110612,
-      "word": "降低慢性炎症的好处太多了",
-      "onboard_time": 1756621102,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 110541,
       "num": 147651,
       "word": "这居然是白举纲",
       "onboard_time": 1756616182,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109749,
+      "num": 109749,
+      "word": "一代人有一代人的阿贝贝",
+      "onboard_time": 1756623141,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 109094,
@@ -1145,6 +1217,14 @@
       "onboard_time": 1756617921,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108510,
+      "num": 121375,
+      "word": "今晚的心动线太难猜了",
+      "onboard_time": 1756624162,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 108443,
@@ -1195,6 +1275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 101714,
+      "num": 101714,
+      "word": "舒服但伤身的5个习惯",
+      "onboard_time": 1756623681,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100987,
       "num": 100987,
       "word": "发现蟹堡王是蟹笼",
@@ -1209,14 +1297,6 @@
       "onboard_time": 1756615702,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99337,
-      "num": 99337,
-      "word": "日本动漫血汗工厂",
-      "onboard_time": 1756622422,
-      "rank": 38,
-      "category": "海外新闻,动漫"
     },
     {
       "raw_hot": 98891,
@@ -1260,7 +1340,7 @@
     },
     {
       "raw_hot": 95429,
-      "num": 197892,
+      "num": 198699,
       "word": "三星这手机玩的真花",
       "onboard_time": 1756620561,
       "rank": 19,
@@ -1491,6 +1571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81512,
+      "num": 81512,
+      "word": "TheShy盛名之下继续成长",
+      "onboard_time": 1756622782,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81014,
       "num": 81014,
       "word": "小猫才是最希望开学的",
@@ -1547,11 +1635,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75778,
+      "num": 147827,
+      "word": "王菲最新状态",
+      "onboard_time": 1756614800,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 74977,
       "num": 74977,
       "word": "李沁眼里太有活了",
       "onboard_time": 1756599320,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74905,
+      "num": 79083,
+      "word": "金靖说刘宇宁这么帅就是让人拍的",
+      "onboard_time": 1756623562,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1633,14 +1737,6 @@
       "onboard_time": 1756566023,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65456,
-      "num": 147827,
-      "word": "王菲最新状态",
-      "onboard_time": 1756614800,
-      "rank": 28,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 65426,
