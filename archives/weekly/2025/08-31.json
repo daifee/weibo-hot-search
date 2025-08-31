@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756628934186,
+  "endTime": 1756629735359,
   "band_list": [
     {
       "raw_hot": 1691794,
@@ -83,7 +83,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 713745,
+      "raw_hot": 740685,
       "num": 180296,
       "word": "刘诗诗晒答谢宴合照",
       "onboard_time": 1756626381,
@@ -283,6 +283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 323470,
+      "num": 178038,
+      "word": "恋爱羞耻症",
+      "onboard_time": 1756626740,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 321691,
       "num": 229246,
       "word": "开学焦虑更严重的另有其人",
@@ -315,14 +323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 306664,
-      "num": 178038,
-      "word": "恋爱羞耻症",
-      "onboard_time": 1756626740,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 302776,
       "num": 231343,
       "word": "金子涵居然瘦成这样",
@@ -337,6 +337,14 @@
       "onboard_time": 1756600459,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 277780,
+      "num": 277780,
+      "word": "小电驴新国标9月1日实施",
+      "onboard_time": 1756623860,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275175,
@@ -360,14 +368,6 @@
       "word": "餐馆带袋煮饺子",
       "onboard_time": 1756602740,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268491,
-      "num": 268491,
-      "word": "小电驴新国标9月1日实施",
-      "onboard_time": 1756623860,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -456,6 +456,14 @@
       "word": "王曼昱钱天一3比2蒯曼孙颖莎",
       "onboard_time": 1756613240,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216918,
+      "num": 139525,
+      "word": "许昕说运动员必须要规范自己的发球",
+      "onboard_time": 1756626320,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -699,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173113,
+      "num": 129780,
+      "word": "孟子义李昀锐与你携手",
+      "onboard_time": 1756629081,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169719,
       "num": 169719,
       "word": "奢香夫人周深只需起个头",
@@ -899,12 +915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139525,
-      "num": 139525,
-      "word": "许昕说运动员必须要规范自己的发球",
-      "onboard_time": 1756626320,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 139112,
+      "num": 139112,
+      "word": "上海暴雨",
+      "onboard_time": 1756629022,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139019,
@@ -1163,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116445,
+      "num": 116445,
+      "word": "陈数把空调插头拔了",
+      "onboard_time": 1756629382,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115789,
       "num": 147721,
       "word": "我点外卖没用上券就这样",
@@ -1267,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109852,
+      "num": 109852,
+      "word": "当狗狗发现自己的床躺满了小猫后",
+      "onboard_time": 1756626381,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109749,
       "num": 109749,
       "word": "一代人有一代人的阿贝贝",
@@ -1331,14 +1363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105268,
-      "num": 105268,
-      "word": "当狗狗发现自己的床躺满了小猫后",
-      "onboard_time": 1756626381,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105196,
       "num": 105196,
       "word": "阎鹤祥 天知道相声对我做了什么",
@@ -1363,12 +1387,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 101377,
+      "num": 101377,
+      "word": "原来芝麻采摘前长这样",
+      "onboard_time": 1756628900,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 100987,
       "num": 100987,
       "word": "发现蟹堡王是蟹笼",
       "onboard_time": 1756605199,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 100607,
+      "num": 110044,
+      "word": "陈星旭跟东北菜量一样的艺人",
+      "onboard_time": 1756628422,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 100275,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1756610602,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96852,
+      "num": 96852,
+      "word": "田曦薇高马尾学姐",
+      "onboard_time": 1756629382,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95761,
@@ -1531,28 +1579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89625,
-      "num": 89625,
-      "word": "原来芝麻采摘前长这样",
-      "onboard_time": 1756628900,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 89504,
       "num": 89504,
       "word": "著名抗日英烈英雄群体1128名",
       "onboard_time": 1756608201,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89142,
-      "num": 93070,
-      "word": "陈星旭跟东北菜量一样的艺人",
-      "onboard_time": 1756628422,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 89021,
@@ -1592,6 +1624,14 @@
       "word": "视频回顾林疯狂",
       "onboard_time": 1756605560,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87902,
+      "num": 87902,
+      "word": "王楚钦曾因扔拍被乒协处罚",
+      "onboard_time": 1756628481,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1683,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82945,
+      "num": 82945,
+      "word": "为什么人总喜欢吃脆脆的东西",
+      "onboard_time": 1756629202,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 82676,
       "num": 82676,
       "word": "胡塞武装高层多人死于以军空袭",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1756607660,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80880,
+      "num": 80880,
+      "word": "男子解手被蛇咬迅速抓蛇就医",
+      "onboard_time": 1756628840,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79936,
@@ -1747,12 +1803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78256,
+      "num": 78256,
+      "word": "广东海鲜价格大跳水",
+      "onboard_time": 1756628002,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77138,
       "num": 77138,
       "word": "南波万你们要骗我多少眼泪",
       "onboard_time": 1756610421,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76699,
+      "num": 76699,
+      "word": "夜食综合征",
+      "onboard_time": 1756629682,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 75805,
@@ -1771,12 +1843,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 75726,
-      "num": 75726,
-      "word": "广东海鲜价格大跳水",
-      "onboard_time": 1756628002,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 75367,
+      "num": 87660,
+      "word": "田曦薇控泪",
+      "onboard_time": 1756628481,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 75358,
@@ -1819,14 +1891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73361,
-      "num": 73361,
-      "word": "王楚钦曾因扔拍被乒协处罚",
-      "onboard_time": 1756628481,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71915,
       "num": 227012,
       "word": "日本发动侵略战争祸首究竟是谁",
@@ -1849,14 +1913,6 @@
       "onboard_time": 1756602380,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69824,
-      "num": 73337,
-      "word": "男子解手被蛇咬迅速抓蛇就医",
-      "onboard_time": 1756628840,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69231,
@@ -1897,6 +1953,14 @@
       "onboard_time": 1756566023,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66039,
+      "num": 83011,
+      "word": "刘宇宁说金靖不是一般地开朗",
+      "onboard_time": 1756629140,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 65499,
@@ -2201,14 +2265,6 @@
       "onboard_time": 1756575378,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27943,
-      "num": 87660,
-      "word": "田曦薇控泪",
-      "onboard_time": 1756628481,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 25544,

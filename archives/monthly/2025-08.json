@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756628934186,
+  "endTime": 1756629735359,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -8579,6 +8579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 740685,
+      "num": 180296,
+      "word": "刘诗诗晒答谢宴合照",
+      "onboard_time": 1756626381,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 740382,
       "num": 740382,
       "word": "浪浪山小妖怪",
@@ -9105,14 +9113,6 @@
       "onboard_time": 1756214662,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 713745,
-      "num": 180296,
-      "word": "刘诗诗晒答谢宴合照",
-      "onboard_time": 1756626381,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 713631,
@@ -22771,6 +22771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323470,
+      "num": 178038,
+      "word": "恋爱羞耻症",
+      "onboard_time": 1756626740,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323443,
       "num": 323443,
       "word": "昀牵孟绕 横店痛城",
@@ -23793,14 +23801,6 @@
       "onboard_time": 1754994323,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 306664,
-      "num": 178038,
-      "word": "恋爱羞耻症",
-      "onboard_time": 1756626740,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 306316,
@@ -25811,6 +25811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277780,
+      "num": 277780,
+      "word": "小电驴新国标9月1日实施",
+      "onboard_time": 1756623860,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277342,
       "num": 277342,
       "word": "封大脚人设",
@@ -26569,14 +26577,6 @@
       "onboard_time": 1754743762,
       "rank": 37,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 268491,
-      "num": 268491,
-      "word": "小电驴新国标9月1日实施",
-      "onboard_time": 1756623860,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268480,
@@ -32249,6 +32249,14 @@
       "onboard_time": 1755677482,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216918,
+      "num": 139525,
+      "word": "许昕说运动员必须要规范自己的发球",
+      "onboard_time": 1756626320,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 216835,
@@ -45873,6 +45881,14 @@
       "onboard_time": 1754630662,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173113,
+      "num": 129780,
+      "word": "孟子义李昀锐与你携手",
+      "onboard_time": 1756629081,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 173106,
@@ -61219,14 +61235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139525,
-      "num": 139525,
-      "word": "许昕说运动员必须要规范自己的发球",
-      "onboard_time": 1756626320,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139480,
       "num": 139480,
       "word": "小杨哥老婆近照",
@@ -75827,6 +75835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 116445,
+      "num": 116445,
+      "word": "陈数把空调插头拔了",
+      "onboard_time": 1756629382,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116444,
       "num": 116444,
       "word": "管乐小酒窝合影",
@@ -79843,6 +79859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109852,
+      "num": 109852,
+      "word": "当狗狗发现自己的床躺满了小猫后",
+      "onboard_time": 1756626381,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109843,
       "num": 109843,
       "word": "花少 和谐",
@@ -82475,14 +82499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 105268,
-      "num": 105268,
-      "word": "当狗狗发现自己的床躺满了小猫后",
-      "onboard_time": 1756626381,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105250,
       "num": 105250,
       "word": "给鸡拍了套写真",
@@ -84411,6 +84427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101377,
+      "num": 101377,
+      "word": "原来芝麻采摘前长这样",
+      "onboard_time": 1756628900,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 101357,
       "num": 101357,
       "word": "闲的数500张A4纸发现只有393张",
@@ -84753,6 +84777,14 @@
       "onboard_time": 1755172642,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100607,
+      "num": 110044,
+      "word": "陈星旭跟东北菜量一样的艺人",
+      "onboard_time": 1756628422,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 100601,
@@ -86497,6 +86529,14 @@
       "onboard_time": 1754034083,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96852,
+      "num": 96852,
+      "word": "田曦薇高马尾学姐",
+      "onboard_time": 1756629382,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 96846,
@@ -89379,14 +89419,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 89625,
-      "num": 89625,
-      "word": "原来芝麻采摘前长这样",
-      "onboard_time": 1756628900,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 89560,
       "num": 89560,
       "word": "俄美就总统会晤达成一致",
@@ -89569,14 +89601,6 @@
       "onboard_time": 1756251021,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 89142,
-      "num": 93070,
-      "word": "陈星旭跟东北菜量一样的艺人",
-      "onboard_time": 1756628422,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 89131,
@@ -89945,6 +89969,14 @@
       "onboard_time": 1755397580,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87902,
+      "num": 87902,
+      "word": "王楚钦曾因扔拍被乒协处罚",
+      "onboard_time": 1756628481,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 87901,
@@ -91331,6 +91363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82945,
+      "num": 82945,
+      "word": "为什么人总喜欢吃脆脆的东西",
+      "onboard_time": 1756629202,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 82920,
       "num": 208204,
       "word": "2025成都世运会场馆漫游指南",
@@ -91881,6 +91921,14 @@
       "onboard_time": 1755396441,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80880,
+      "num": 80880,
+      "word": "男子解手被蛇咬迅速抓蛇就医",
+      "onboard_time": 1756628840,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80855,
@@ -92611,6 +92659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78256,
+      "num": 78256,
+      "word": "广东海鲜价格大跳水",
+      "onboard_time": 1756628002,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78095,
       "num": 78095,
       "word": "不宁腿综合征",
@@ -92955,6 +93011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76699,
+      "num": 76699,
+      "word": "夜食综合征",
+      "onboard_time": 1756629682,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76691,
       "num": 76691,
       "word": "哈马斯已同意新加沙停火提议",
@@ -93195,14 +93259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75726,
-      "num": 75726,
-      "word": "广东海鲜价格大跳水",
-      "onboard_time": 1756628002,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75693,
       "num": 75693,
       "word": "拿奶茶店车祸玩梗别把冷漠当幽默",
@@ -93305,6 +93361,14 @@
       "onboard_time": 1756300464,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75367,
+      "num": 87660,
+      "word": "田曦薇控泪",
+      "onboard_time": 1756628481,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 75358,
@@ -93713,14 +93777,6 @@
       "onboard_time": 1756255883,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 73361,
-      "num": 73361,
-      "word": "王楚钦曾因扔拍被乒协处罚",
-      "onboard_time": 1756628481,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 73359,
@@ -94555,14 +94611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69824,
-      "num": 73337,
-      "word": "男子解手被蛇咬迅速抓蛇就医",
-      "onboard_time": 1756628840,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69723,
       "num": 120915,
       "word": "高空抛食毒死宠物狗事件警方已立案",
@@ -95369,6 +95417,14 @@
       "onboard_time": 1756520060,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66039,
+      "num": 83011,
+      "word": "刘宇宁说金靖不是一般地开朗",
+      "onboard_time": 1756629140,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 65997,
@@ -105129,14 +105185,6 @@
       "onboard_time": 1756364483,
       "rank": 39,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 27943,
-      "num": 87660,
-      "word": "田曦薇控泪",
-      "onboard_time": 1756628481,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 27942,
