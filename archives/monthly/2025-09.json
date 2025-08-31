@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756667987033,
+  "endTime": 1756669007649,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34589,
+      "num": 36366,
+      "word": "湖北全面降温来了",
+      "onboard_time": 1756667774,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33277,
       "num": 62971,
       "word": "无限暖暖家园家具",
@@ -481,14 +489,6 @@
       "onboard_time": 1756661237,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 25423,
-      "num": 36366,
-      "word": "湖北全面降温来了",
-      "onboard_time": 1756667774,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24769,
@@ -547,7 +547,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17716,
+      "raw_hot": 18920,
       "num": 34736,
       "word": "王子文早期的文字",
       "onboard_time": 1756666334,

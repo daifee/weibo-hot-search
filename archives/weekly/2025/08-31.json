@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756667987033,
+  "endTime": 1756669007649,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -3851,6 +3851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34589,
+      "num": 36366,
+      "word": "湖北全面降温来了",
+      "onboard_time": 1756667774,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34130,
       "num": 73686,
       "word": "刘冲去aespa演唱会看宁艺卓",
@@ -3955,14 +3963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25423,
-      "num": 36366,
-      "word": "湖北全面降温来了",
-      "onboard_time": 1756667774,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22401,
       "num": 52579,
       "word": "登陆少年演唱会直拍",
@@ -4043,7 +4043,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17716,
+      "raw_hot": 18920,
       "num": 34736,
       "word": "王子文早期的文字",
       "onboard_time": 1756666334,
