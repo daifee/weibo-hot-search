@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756622070534,
+  "endTime": 1756622796382,
   "band_list": [
     {
       "raw_hot": 1691794,
@@ -80,6 +80,14 @@
       "word": "那英去龚俊张晚意房间吹空调",
       "onboard_time": 1756617322,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 627610,
+      "num": 206309,
+      "word": "妈宝女看不了孙怡这段",
+      "onboard_time": 1756621461,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361912,
+      "num": 244662,
+      "word": "张艺凡又被认成101了",
+      "onboard_time": 1756618341,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 354260,
       "num": 248439,
       "word": "纪凌尘出演孟子义新剧",
@@ -241,14 +257,6 @@
       "onboard_time": 1756556603,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 328212,
-      "num": 244662,
-      "word": "张艺凡又被认成101了",
-      "onboard_time": 1756618341,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 321691,
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220858,
+      "num": 200908,
+      "word": "许昕疑似不满裁判判罚",
+      "onboard_time": 1756621522,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212642,
       "num": 212642,
       "word": "龚俊的体面只给旅游前几天",
@@ -513,14 +529,6 @@
       "onboard_time": 1756609460,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197181,
-      "num": 197181,
-      "word": "妈宝女看不了孙怡这段",
-      "onboard_time": 1756621461,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 196650,
@@ -835,6 +843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 135240,
+      "num": 135240,
+      "word": "台湾信息茧房",
+      "onboard_time": 1756621102,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134848,
       "num": 134848,
       "word": "女孩跳河救人后转正所在单位发声",
@@ -875,8 +891,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127176,
-      "num": 127176,
+      "raw_hot": 128037,
+      "num": 128037,
       "word": "欧阳娣娣遇事不决就喊妈",
       "onboard_time": 1756619661,
       "rank": 31,
@@ -931,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121873,
-      "num": 121873,
-      "word": "台湾信息茧房",
-      "onboard_time": 1756621102,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120081,
       "num": 114705,
       "word": "冯建宇生日会吃得太好了",
@@ -952,6 +960,14 @@
       "word": "恭迎昀牵孟绕回宫",
       "onboard_time": 1756609400,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119409,
+      "num": 119409,
+      "word": "十二封信",
+      "onboard_time": 1756621702,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -987,14 +1003,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 118056,
-      "num": 118056,
-      "word": "许昕疑似不满裁判判罚",
-      "onboard_time": 1756621522,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117833,
       "num": 147779,
       "word": "刘宇宁腿长得有点犯规了",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1756613541,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116859,
+      "num": 116859,
+      "word": "奶奶的供桌上只剩下我的准考证",
+      "onboard_time": 1756622121,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 116563,
@@ -1091,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110612,
+      "num": 110612,
+      "word": "降低慢性炎症的好处太多了",
+      "onboard_time": 1756621102,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110541,
       "num": 147651,
       "word": "这居然是白举纲",
@@ -1115,20 +1139,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108806,
+      "num": 147671,
+      "word": "十二封信 好看",
+      "onboard_time": 1756617921,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108443,
       "num": 108443,
       "word": "王楚钦笑了一晚上",
       "onboard_time": 1756595596,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107611,
-      "num": 147671,
-      "word": "十二封信 好看",
-      "onboard_time": 1756617921,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 107548,
@@ -1179,20 +1203,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 100746,
-      "num": 100746,
-      "word": "降低慢性炎症的好处太多了",
-      "onboard_time": 1756621102,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 100275,
       "num": 147610,
       "word": "谁教魏哲鸣冷脸跳这些的",
       "onboard_time": 1756615702,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99337,
+      "num": 99337,
+      "word": "日本动漫血汗工厂",
+      "onboard_time": 1756622422,
+      "rank": 38,
+      "category": "海外新闻,动漫"
     },
     {
       "raw_hot": 98891,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1756612043,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95429,
+      "num": 197892,
+      "word": "三星这手机玩的真花",
+      "onboard_time": 1756620561,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 94930,
@@ -1291,14 +1323,6 @@
       "category": "体育,互联网"
     },
     {
-      "raw_hot": 93002,
-      "num": 93002,
-      "word": "十二封信",
-      "onboard_time": 1756621702,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92707,
       "num": 92707,
       "word": "潘玮柏回应自费上百厨大战",
@@ -1331,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89711,
+      "num": 89711,
+      "word": "听泉上一秒嘻嘻下一秒不嘻嘻",
+      "onboard_time": 1756622181,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89504,
       "num": 89504,
       "word": "著名抗日英烈英雄群体1128名",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1756605981,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88497,
+      "num": 88497,
+      "word": "王楚钦向周启豪梁靖崑撒娇",
+      "onboard_time": 1756621881,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 88272,
@@ -1401,22 +1441,6 @@
       "onboard_time": 1756616602,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86121,
-      "num": 86121,
-      "word": "王楚钦向周启豪梁靖崑撒娇",
-      "onboard_time": 1756621881,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 85076,
-      "num": 188561,
-      "word": "三星这手机玩的真花",
-      "onboard_time": 1756620561,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 84620,
@@ -1499,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78276,
+      "num": 88430,
+      "word": "德甲乒乓球联赛",
+      "onboard_time": 1756622602,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77138,
       "num": 77138,
       "word": "南波万你们要骗我多少眼泪",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1756588394,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74296,
+      "num": 88424,
+      "word": "孟子义神女含泪悲悯感",
+      "onboard_time": 1756622722,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 71915,

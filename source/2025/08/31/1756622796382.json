@@ -1,0 +1,410 @@
+{
+  "runTime": 1756622796382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 545917,
+        "num": 1087346,
+        "word": "00后男生0.6秒飞针采血惊呆患者",
+        "onboard_time": 1756605199,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531085,
+        "num": 531085,
+        "word": "大学生暑假工挣16000老板当场发工资",
+        "onboard_time": 1756619782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2412,
+        "num": 288388,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 797077,
+        "num": 281195,
+        "word": "许昕发博回家",
+        "onboard_time": 1756619481,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271565,
+        "num": 271565,
+        "word": "陕西历史博物馆回应将陕西拼为Shaanxi",
+        "onboard_time": 1756620083,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267788,
+        "num": 267788,
+        "word": "普京带3位副总理10多位部长到中国",
+        "onboard_time": 1756610480,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266778,
+        "num": 266778,
+        "word": "香港1200架无人机重现日本投降矣",
+        "onboard_time": 1756611021,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238097,
+        "num": 238097,
+        "word": "女生苦练化妆1年的变化",
+        "onboard_time": 1756611680,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 210042,
+        "num": 210042,
+        "word": "尚公主开机",
+        "onboard_time": 1756602440,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148141,
+        "num": 208684,
+        "word": "心动的信号8",
+        "onboard_time": 1756613301,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632387,
+        "num": 207117,
+        "word": "那英去龚俊张晚意房间吹空调",
+        "onboard_time": 1756617322,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627610,
+        "num": 206309,
+        "word": "妈宝女看不了孙怡这段",
+        "onboard_time": 1756621461,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361912,
+        "num": 205058,
+        "word": "张艺凡又被认成101了",
+        "onboard_time": 1756618341,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322309,
+        "num": 203449,
+        "word": "张维伊对96岁的姥姥说长命百岁",
+        "onboard_time": 1756614441,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246779,
+        "num": 201090,
+        "word": "特朗普称想把中国留学生扩至60万",
+        "onboard_time": 1756618341,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220858,
+        "num": 200908,
+        "word": "许昕疑似不满裁判判罚",
+        "onboard_time": 1756621522,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199509,
+        "num": 199509,
+        "word": "开学焦虑更严重的另有其人",
+        "onboard_time": 1756615402,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95429,
+        "num": 197892,
+        "word": "三星这手机玩的真花",
+        "onboard_time": 1756620561,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197153,
+        "num": 197153,
+        "word": "龚俊 你这个要剪到预告里头",
+        "onboard_time": 1756620742,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188202,
+        "num": 188202,
+        "word": "孟子义李昀锐定妆照",
+        "onboard_time": 1756607721,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157529,
+        "num": 157529,
+        "word": "樊振东只身赴德",
+        "onboard_time": 1756620622,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153519,
+        "num": 153519,
+        "word": "居然有演员一句台词背1小时",
+        "onboard_time": 1756615341,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145414,
+        "num": 145414,
+        "word": "钱天一vs孙颖莎",
+        "onboard_time": 1756617442,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140250,
+        "num": 140250,
+        "word": "以为张艺兴穿的蓝色抹胸",
+        "onboard_time": 1756611021,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135240,
+        "num": 135240,
+        "word": "台湾信息茧房",
+        "onboard_time": 1756621102,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128037,
+        "num": 128037,
+        "word": "欧阳娣娣遇事不决就喊妈",
+        "onboard_time": 1756619661,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127927,
+        "num": 127927,
+        "word": "抗战胜利80周年第3场记者招待会",
+        "onboard_time": 1756606100,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121524,
+        "num": 121524,
+        "word": "尚公主物料审美",
+        "onboard_time": 1756620142,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119409,
+        "num": 119409,
+        "word": "十二封信",
+        "onboard_time": 1756621702,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108806,
+        "num": 118780,
+        "word": "十二封信 好看",
+        "onboard_time": 1756617921,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118314,
+        "num": 118314,
+        "word": "展轩新歌我",
+        "onboard_time": 1756620860,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116859,
+        "num": 116859,
+        "word": "奶奶的供桌上只剩下我的准考证",
+        "onboard_time": 1756622121,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110612,
+        "num": 110612,
+        "word": "降低慢性炎症的好处太多了",
+        "onboard_time": 1756621102,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108164,
+        "num": 108164,
+        "word": "冷冻太久的肉就不要再吃了",
+        "onboard_time": 1756608440,
+        "rank": 33,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 107697,
+        "num": 107697,
+        "word": "王乐晨卢远永远会接住对方的情绪",
+        "onboard_time": 1756621461,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105510,
+        "num": 105510,
+        "word": "女孩跳河救人后转正所在单位发声",
+        "onboard_time": 1756619002,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103257,
+        "num": 103257,
+        "word": "印尼首都交通瘫痪",
+        "onboard_time": 1756616721,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101444,
+        "num": 101444,
+        "word": "一回头我的童年就站在身后",
+        "onboard_time": 1756621702,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99337,
+        "num": 99337,
+        "word": "日本动漫血汗工厂",
+        "onboard_time": 1756622422,
+        "rank": 38,
+        "category": "海外新闻,动漫"
+      },
+      {
+        "raw_hot": 97112,
+        "num": 97112,
+        "word": "唐朝诡事录",
+        "onboard_time": 1756599320,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94072,
+        "num": 94072,
+        "word": "邓超陈赫鹿晗憋笑比登天还难",
+        "onboard_time": 1756619121,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93225,
+        "num": 93225,
+        "word": "我家那闺女",
+        "onboard_time": 1756620262,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90106,
+        "num": 90106,
+        "word": "龚俊的体面只给旅游前几天",
+        "onboard_time": 1756612881,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89711,
+        "num": 89711,
+        "word": "听泉上一秒嘻嘻下一秒不嘻嘻",
+        "onboard_time": 1756622181,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88497,
+        "num": 88497,
+        "word": "王楚钦向周启豪梁靖崑撒娇",
+        "onboard_time": 1756621881,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88432,
+        "num": 88432,
+        "word": "金价大涨两大原因",
+        "onboard_time": 1756600760,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78276,
+        "num": 88430,
+        "word": "德甲乒乓球联赛",
+        "onboard_time": 1756622602,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75933,
+        "num": 88427,
+        "word": "凡人修仙传书粉圆梦",
+        "onboard_time": 1756619601,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74296,
+        "num": 88424,
+        "word": "孟子义神女含泪悲悯感",
+        "onboard_time": 1756622722,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73424,
+        "num": 88424,
+        "word": "iPhone17散热",
+        "onboard_time": 1756616602,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中哈关系不断迈上新台阶#"
+    }
+  }
+}
