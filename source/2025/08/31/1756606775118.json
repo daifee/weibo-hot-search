@@ -1,0 +1,410 @@
+{
+  "runTime": 1756606775118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1167918,
+        "num": 1186866,
+        "word": "普京抵达天津",
+        "onboard_time": 1756603400,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1085514,
+        "num": 1085514,
+        "word": "00后男生0.6秒飞针采血惊呆患者",
+        "onboard_time": 1756605199,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23359,
+        "num": 541579,
+        "word": "开学季网警来送网络安全课了",
+        "onboard_time": 1756596077,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1691794,
+        "num": 540560,
+        "word": "尚公主全阵容官宣",
+        "onboard_time": 1756602740,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534949,
+        "num": 534949,
+        "word": "女孩跳河救人后提前转正",
+        "onboard_time": 1756598718,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1074409,
+        "num": 428686,
+        "word": "尚公主开机",
+        "onboard_time": 1756602440,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 671361,
+        "num": 384669,
+        "word": "唐朝诡事录",
+        "onboard_time": 1756599320,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322312,
+        "num": 322312,
+        "word": "金价大涨两大原因",
+        "onboard_time": 1756600760,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234649,
+        "num": 291879,
+        "word": "中方敦促美方立即纠正错误做法",
+        "onboard_time": 1756600459,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127751,
+        "num": 279249,
+        "word": "抗战胜利80周年第3场记者招待会",
+        "onboard_time": 1756606100,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412222,
+        "num": 276835,
+        "word": "孟子义李昀锐上台讲话",
+        "onboard_time": 1756605320,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270267,
+        "num": 270267,
+        "word": "林书豪退役",
+        "onboard_time": 1756599860,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269313,
+        "num": 269313,
+        "word": "怪不得校服裤子屁股锃亮",
+        "onboard_time": 1756605141,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263677,
+        "num": 263677,
+        "word": "iPhone17国行预计涨价500元",
+        "onboard_time": 1756598898,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209763,
+        "num": 209763,
+        "word": "女子街头晕倒怀孕妈妈跪地施救",
+        "onboard_time": 1756603642,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199543,
+        "num": 199543,
+        "word": "尚公主造型指导黄薇",
+        "onboard_time": 1756605860,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195959,
+        "num": 195959,
+        "word": "谈恋爱3个月定律",
+        "onboard_time": 1756605801,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190483,
+        "num": 190483,
+        "word": "三宝对倪萍李维嘉的态度",
+        "onboard_time": 1756595898,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169719,
+        "num": 169719,
+        "word": "奢香夫人周深只需起个头",
+        "onboard_time": 1756602800,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166795,
+        "num": 166795,
+        "word": "全伊伦特别主演",
+        "onboard_time": 1756606100,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295592,
+        "num": 166778,
+        "word": "尚公主",
+        "onboard_time": 1756559123,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270551,
+        "num": 163306,
+        "word": "餐馆带袋煮饺子",
+        "onboard_time": 1756602740,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238304,
+        "num": 161597,
+        "word": "金价",
+        "onboard_time": 1756564884,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187380,
+        "num": 159975,
+        "word": "建议大家尽快解决不舒服的小事",
+        "onboard_time": 1756599559,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167204,
+        "num": 158178,
+        "word": "黄子韬龚俊被网红说一般",
+        "onboard_time": 1756556902,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157839,
+        "num": 157839,
+        "word": "嫂嫂开门我是我哥被拍出来了",
+        "onboard_time": 1756560803,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149135,
+        "num": 149135,
+        "word": "第一次见侏儒小猫",
+        "onboard_time": 1756595538,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146047,
+        "num": 146047,
+        "word": "孟子义李昀锐开机同框",
+        "onboard_time": 1756605679,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145979,
+        "num": 145979,
+        "word": "院人要做一辈子的好朋友",
+        "onboard_time": 1756602980,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145009,
+        "num": 145009,
+        "word": "又被中国战机大片燃到了",
+        "onboard_time": 1756600101,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137689,
+        "num": 137689,
+        "word": "这一幕幕中国浪漫看得心暖暖",
+        "onboard_time": 1756606701,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120443,
+        "num": 120443,
+        "word": "农村女孩靠摆盘从职校生干到了副教授",
+        "onboard_time": 1756566084,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120049,
+        "num": 120049,
+        "word": "JackeyLove不确定明年退役",
+        "onboard_time": 1756598898,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108381,
+        "num": 108381,
+        "word": "花13个小时做的千元美甲",
+        "onboard_time": 1756604900,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 105374,
+        "num": 105374,
+        "word": "乌克兰抓壮丁搞笑一幕",
+        "onboard_time": 1756602560,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100987,
+        "num": 100987,
+        "word": "发现蟹堡王是蟹笼",
+        "onboard_time": 1756605199,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 94619,
+        "num": 94619,
+        "word": "当事人回应16年后偶遇初恋光速订婚",
+        "onboard_time": 1756576577,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93965,
+        "num": 93965,
+        "word": "电动自行车9月起实施新国标",
+        "onboard_time": 1756605141,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92707,
+        "num": 92707,
+        "word": "潘玮柏回应自费上百厨大战",
+        "onboard_time": 1756601119,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90115,
+        "num": 90115,
+        "word": "蓝盈莹生万物战报已更正",
+        "onboard_time": 1756567225,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87982,
+        "num": 87982,
+        "word": "视频回顾林疯狂",
+        "onboard_time": 1756605560,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86707,
+        "num": 86707,
+        "word": "那英顺便关心陈数美貌",
+        "onboard_time": 1756605981,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85943,
+        "num": 85943,
+        "word": "你好星期六暑期收视13连冠",
+        "onboard_time": 1756596497,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84620,
+        "num": 84620,
+        "word": "王源我想把这玩意染成绿的",
+        "onboard_time": 1756602860,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84198,
+        "num": 84198,
+        "word": "健康喝奶茶的4个关键",
+        "onboard_time": 1756601901,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82477,
+        "num": 82477,
+        "word": "林书豪生涯总薪资约6571万美元",
+        "onboard_time": 1756605440,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82293,
+        "num": 82293,
+        "word": "国羽时隔14年再次5单项全进决赛",
+        "onboard_time": 1756604001,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80041,
+        "num": 80041,
+        "word": "王楚钦笑了一晚上",
+        "onboard_time": 1756595596,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79936,
+        "num": 79936,
+        "word": "刘老庄连82烈士仅26人能确定姓名",
+        "onboard_time": 1756606639,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79611,
+        "num": 79611,
+        "word": "法国男篮斯洛文尼亚男篮冲突",
+        "onboard_time": 1756602860,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见古特雷斯#"
+    }
+  }
+}

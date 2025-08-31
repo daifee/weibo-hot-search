@@ -1,10 +1,10 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756605469575,
+  "endTime": 1756606775118,
   "band_list": [
     {
-      "raw_hot": 1474936,
-      "num": 446507,
+      "raw_hot": 1691794,
+      "num": 540560,
       "word": "尚公主全阵容官宣",
       "onboard_time": 1756602740,
       "rank": 3,
@@ -12,11 +12,27 @@
     },
     {
       "raw_hot": 1384886,
-      "num": 389258,
+      "num": 428686,
       "word": "尚公主开机",
       "onboard_time": 1756602440,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1167918,
+      "num": 1186866,
+      "word": "普京抵达天津",
+      "onboard_time": 1756603400,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1085514,
+      "num": 1085514,
+      "word": "00后男生0.6秒飞针采血惊呆患者",
+      "onboard_time": 1756605199,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1062110,
@@ -27,16 +43,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1010571,
-      "num": 1161691,
-      "word": "普京抵达天津",
-      "onboard_time": 1756603400,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 695018,
-      "num": 379140,
+      "num": 384669,
       "word": "唐朝诡事录",
       "onboard_time": 1756599320,
       "rank": 6,
@@ -64,6 +72,14 @@
       "word": "蓝盈莹生万物战报已更正",
       "onboard_time": 1756567225,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 412222,
+      "num": 276835,
+      "word": "孟子义李昀锐上台讲话",
+      "onboard_time": 1756605320,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -147,6 +163,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 270551,
+      "num": 163306,
+      "word": "餐馆带袋煮饺子",
+      "onboard_time": 1756602740,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269313,
+      "num": 269313,
+      "word": "怪不得校服裤子屁股锃亮",
+      "onboard_time": 1756605141,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267351,
       "num": 239169,
       "word": "谁给蓝盈莹浇成这样的",
@@ -187,6 +219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209763,
+      "num": 209763,
+      "word": "女子街头晕倒怀孕妈妈跪地施救",
+      "onboard_time": 1756603642,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205718,
       "num": 232022,
       "word": "李现跳刀马刀马",
@@ -204,19 +244,19 @@
     },
     {
       "raw_hot": 204943,
-      "num": 110073,
+      "num": 159975,
       "word": "建议大家尽快解决不舒服的小事",
       "onboard_time": 1756599559,
       "rank": 23,
       "category": "情感"
     },
     {
-      "raw_hot": 199836,
-      "num": 109514,
-      "word": "餐馆带袋煮饺子",
-      "onboard_time": 1756602740,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 199543,
+      "num": 199543,
+      "word": "尚公主造型指导黄薇",
+      "onboard_time": 1756605860,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 198939,
@@ -225,6 +265,14 @@
       "onboard_time": 1756527801,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 195959,
+      "num": 195959,
+      "word": "谈恋爱3个月定律",
+      "onboard_time": 1756605801,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 195081,
@@ -251,6 +299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169719,
+      "num": 169719,
+      "word": "奢香夫人周深只需起个头",
+      "onboard_time": 1756602800,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168044,
       "num": 228207,
       "word": "日本代表最后一刻取消访美",
@@ -259,20 +315,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 166795,
+      "num": 166795,
+      "word": "全伊伦特别主演",
+      "onboard_time": 1756606100,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161694,
       "num": 231814,
       "word": "陶喆变成道明喆了",
       "onboard_time": 1756566444,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158810,
-      "num": 158810,
-      "word": "00后男生0.6秒飞针采血惊呆患者",
-      "onboard_time": 1756605199,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155233,
@@ -299,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152633,
-      "num": 152633,
-      "word": "奢香夫人周深只需起个头",
-      "onboard_time": 1756602800,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 151099,
       "num": 249045,
       "word": "印度总理莫迪抵达",
@@ -315,12 +363,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149135,
+      "num": 149135,
+      "word": "第一次见侏儒小猫",
+      "onboard_time": 1756595538,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146047,
+      "num": 146047,
+      "word": "孟子义李昀锐开机同框",
+      "onboard_time": 1756605679,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146041,
       "num": 93736,
       "word": "朴秀荣瘦成纸片人",
       "onboard_time": 1756572619,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145979,
+      "num": 145979,
+      "word": "院人要做一辈子的好朋友",
+      "onboard_time": 1756602980,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 142954,
@@ -347,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137689,
+      "num": 137689,
+      "word": "这一幕幕中国浪漫看得心暖暖",
+      "onboard_time": 1756606701,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131973,
       "num": 230880,
       "word": "肖国栋冠军",
@@ -355,16 +435,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129972,
-      "num": 109107,
-      "word": "第一次见侏儒小猫",
-      "onboard_time": 1756595538,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 127751,
+      "num": 279249,
+      "word": "抗战胜利80周年第3场记者招待会",
+      "onboard_time": 1756606100,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122830,
-      "num": 86236,
+      "num": 93965,
       "word": "电动自行车9月起实施新国标",
       "onboard_time": 1756605141,
       "rank": 30,
@@ -377,22 +457,6 @@
       "onboard_time": 1756571362,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119938,
-      "num": 119938,
-      "word": "院人要做一辈子的好朋友",
-      "onboard_time": 1756602980,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 119093,
-      "num": 85485,
-      "word": "女子街头晕倒怀孕妈妈跪地施救",
-      "onboard_time": 1756603642,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119091,
@@ -443,8 +507,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108381,
+      "num": 108381,
+      "word": "花13个小时做的千元美甲",
+      "onboard_time": 1756604900,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 107548,
-      "num": 84393,
+      "num": 105374,
       "word": "乌克兰抓壮丁搞笑一幕",
       "onboard_time": 1756602560,
       "rank": 33,
@@ -473,6 +545,14 @@
       "onboard_time": 1756567344,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 100987,
+      "num": 100987,
+      "word": "发现蟹堡王是蟹笼",
+      "onboard_time": 1756605199,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 98891,
@@ -507,20 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92784,
-      "num": 83550,
-      "word": "发现蟹堡王是蟹笼",
-      "onboard_time": 1756605199,
-      "rank": 36,
-      "category": "动漫"
+      "raw_hot": 92707,
+      "num": 92707,
+      "word": "潘玮柏回应自费上百厨大战",
+      "onboard_time": 1756601119,
+      "rank": 38,
+      "category": "演出"
     },
     {
-      "raw_hot": 89828,
-      "num": 89828,
-      "word": "孟子义李昀锐上台讲话",
-      "onboard_time": 1756605320,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 87982,
+      "num": 87982,
+      "word": "视频回顾林疯狂",
+      "onboard_time": 1756605560,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 87225,
@@ -531,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86707,
+      "num": 86707,
+      "word": "那英顺便关心陈数美貌",
+      "onboard_time": 1756605981,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86597,
       "num": 86597,
       "word": "石宇奇晋级世锦赛决赛",
@@ -539,12 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84584,
-      "num": 82714,
-      "word": "花13个小时做的千元美甲",
-      "onboard_time": 1756604900,
-      "rank": 37,
-      "category": "美妆"
+      "raw_hot": 84620,
+      "num": 84620,
+      "word": "王源我想把这玩意染成绿的",
+      "onboard_time": 1756602860,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 84308,
@@ -555,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84198,
+      "num": 84198,
+      "word": "健康喝奶茶的4个关键",
+      "onboard_time": 1756601901,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 82558,
       "num": 228940,
       "word": "邓紫棋紧急撤回失败",
@@ -563,12 +659,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80699,
-      "num": 80699,
-      "word": "潘玮柏回应自费上百厨大战",
-      "onboard_time": 1756601119,
-      "rank": 38,
-      "category": "演出"
+      "raw_hot": 79936,
+      "num": 79936,
+      "word": "刘老庄连82烈士仅26人能确定姓名",
+      "onboard_time": 1756606639,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79907,
@@ -587,28 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78530,
-      "num": 78530,
-      "word": "健康喝奶茶的4个关键",
-      "onboard_time": 1756601901,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 75805,
       "num": 44885,
       "word": "白敬亭说刀马是吧等着",
       "onboard_time": 1756591394,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75653,
-      "num": 75653,
-      "word": "王源我想把这玩意染成绿的",
-      "onboard_time": 1756602860,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 74977,
@@ -625,14 +705,6 @@
       "onboard_time": 1756588394,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73135,
-      "num": 73135,
-      "word": "怪不得校服裤子屁股锃亮",
-      "onboard_time": 1756605141,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 71915,
@@ -884,7 +956,7 @@
     },
     {
       "raw_hot": 32806,
-      "num": 448619,
+      "num": 541579,
       "word": "开学季网警来送网络安全课了",
       "onboard_time": 1756596077,
       "rank": 2,
