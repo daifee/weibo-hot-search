@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756614550393,
+  "endTime": 1756615335237,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -6515,6 +6515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 873901,
+      "num": 706823,
+      "word": "女生苦练化妆1年的变化",
+      "onboard_time": 1756611680,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 871824,
       "num": 679223,
       "word": "心疼田曦薇",
@@ -7041,14 +7049,6 @@
       "onboard_time": 1755739342,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 835559,
-      "num": 706823,
-      "word": "女生苦练化妆1年的变化",
-      "onboard_time": 1756611680,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 834886,
@@ -12411,6 +12411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 573813,
+      "num": 573813,
+      "word": "香港1200架无人机重现日本投降矣",
+      "onboard_time": 1756611021,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573761,
       "num": 552068,
       "word": "生万物",
@@ -13041,14 +13049,6 @@
       "onboard_time": 1755752843,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 557165,
-      "num": 557165,
-      "word": "香港1200架无人机重现日本投降矣",
-      "onboard_time": 1756611021,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 557130,
@@ -23091,6 +23091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316317,
+      "num": 202765,
+      "word": "朱孝天爆冷出局",
+      "onboard_time": 1756613421,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316251,
       "num": 228810,
       "word": "再次验证了世界是一个巨大的草台班子",
@@ -23371,12 +23379,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 311353,
-      "num": 202765,
-      "word": "朱孝天爆冷出局",
-      "onboard_time": 1756613421,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 311476,
+      "num": 216763,
+      "word": "以为张艺兴穿的蓝色抹胸",
+      "onboard_time": 1756611021,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 311280,
@@ -23745,14 +23753,6 @@
       "onboard_time": 1755767543,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305541,
-      "num": 214661,
-      "word": "以为张艺兴穿的蓝色抹胸",
-      "onboard_time": 1756611021,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 305529,
@@ -30203,6 +30203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231050,
+      "num": 231050,
+      "word": "王曼昱钱天一3比2蒯曼孙颖莎",
+      "onboard_time": 1756613240,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231018,
       "num": 231018,
       "word": "by2说要勇于撇清关系",
@@ -32075,14 +32083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217063,
-      "num": 217063,
-      "word": "王曼昱钱天一3比2蒯曼孙颖莎",
-      "onboard_time": 1756613240,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216973,
       "num": 216973,
       "word": "柯淳进组炽夏",
@@ -32177,6 +32177,14 @@
       "onboard_time": 1754033001,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 216265,
+      "num": 311355,
+      "word": "心动的信号8",
+      "onboard_time": 1754303962,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 216263,
@@ -34931,14 +34939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204065,
-      "num": 311355,
-      "word": "心动的信号8",
-      "onboard_time": 1754303962,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204050,
       "num": 204050,
       "word": "小酒窝模仿白鹿大笑",
@@ -37539,6 +37539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196650,
+      "num": 170969,
+      "word": "沈腾说错了最怕人笨还不勤快",
+      "onboard_time": 1756613961,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196599,
       "num": 196599,
       "word": "王楚钦vs孙正",
@@ -39457,6 +39465,14 @@
       "onboard_time": 1754544024,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191568,
+      "num": 191568,
+      "word": "张维伊对96岁的姥姥说长命百岁",
+      "onboard_time": 1756614441,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 191539,
@@ -41905,6 +41921,14 @@
       "onboard_time": 1754656884,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184625,
+      "num": 184625,
+      "word": "孟子义暮晚摇",
+      "onboard_time": 1756614021,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 184617,
@@ -49531,14 +49555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162530,
-      "num": 162530,
-      "word": "沈腾说错了最怕人笨还不勤快",
-      "onboard_time": 1756613961,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162508,
       "num": 162508,
       "word": "谁给陶喆捅了这么大的篓子",
@@ -54233,6 +54249,14 @@
       "onboard_time": 1756214782,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152433,
+      "num": 123588,
+      "word": "温泉瓜画的好",
+      "onboard_time": 1756614800,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 152426,
@@ -71115,6 +71139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123278,
+      "num": 123278,
+      "word": "乒协关于孙闻摔拍处罚细则",
+      "onboard_time": 1756615041,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123269,
       "num": 133420,
       "word": "狗狗陪睡同岗不同酬",
@@ -75523,14 +75555,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 116277,
-      "num": 116277,
-      "word": "张维伊对96岁的姥姥说长命百岁",
-      "onboard_time": 1756614441,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116267,
       "num": 170134,
       "word": "吉利汽车上半年营收首破1500亿",
@@ -77193,6 +77217,14 @@
       "onboard_time": 1755935123,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113418,
+      "num": 113418,
+      "word": "陕西Shaanxi官方标准拼音",
+      "onboard_time": 1756614141,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113393,
@@ -79361,14 +79393,6 @@
       "onboard_time": 1755480261,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109895,
-      "num": 109895,
-      "word": "陕西Shaanxi官方标准拼音",
-      "onboard_time": 1756614141,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109883,
@@ -94811,6 +94835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 65456,
+      "num": 124879,
+      "word": "王菲最新状态",
+      "onboard_time": 1756614800,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 65413,
       "num": 67393,
       "word": "戴恐怖面具故意吓高速过往车辆",
@@ -98769,6 +98801,14 @@
       "onboard_time": 1756047686,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48487,
+      "num": 228170,
+      "word": "和平发展",
+      "onboard_time": 1756607781,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48457,
