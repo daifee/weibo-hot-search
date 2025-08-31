@@ -1,14 +1,22 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756606775118,
+  "endTime": 1756609920631,
   "band_list": [
     {
       "raw_hot": 1691794,
-      "num": 540560,
+      "num": 624249,
       "word": "尚公主全阵容官宣",
       "onboard_time": 1756602740,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1481435,
+      "num": 1481435,
+      "word": "00后男生0.6秒飞针采血惊呆患者",
+      "onboard_time": 1756605199,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1384886,
@@ -27,14 +35,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1085514,
-      "num": 1085514,
-      "word": "00后男生0.6秒飞针采血惊呆患者",
-      "onboard_time": 1756605199,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1062110,
       "num": 246775,
       "word": "金价",
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 695018,
-      "num": 384669,
+      "num": 606033,
       "word": "唐朝诡事录",
       "onboard_time": 1756599320,
       "rank": 6,
@@ -59,12 +59,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531178,
+      "num": 197338,
+      "word": "谈恋爱3个月定律",
+      "onboard_time": 1756605801,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 527072,
       "num": 242623,
       "word": "被字节跳动的食堂震惊到了",
       "onboard_time": 1756560684,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 526721,
+      "num": 196427,
+      "word": "孙闻被乒协处罚",
+      "onboard_time": 1756607721,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 492448,
+      "num": 187428,
+      "word": "孟子义李昀锐定妆照",
+      "onboard_time": 1756607721,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 450325,
@@ -123,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332667,
+      "num": 269313,
+      "word": "怪不得校服裤子屁股锃亮",
+      "onboard_time": 1756605141,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 329541,
       "num": 240394,
       "word": "破音",
@@ -171,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269313,
-      "num": 269313,
-      "word": "怪不得校服裤子屁股锃亮",
-      "onboard_time": 1756605141,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267351,
       "num": 239169,
       "word": "谁给蓝盈莹浇成这样的",
@@ -211,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233245,
+      "num": 181346,
+      "word": "纪凌尘出演孟子义新剧",
+      "onboard_time": 1756608201,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210397,
       "num": 246575,
       "word": "王源十二封信",
@@ -225,6 +257,14 @@
       "onboard_time": 1756603642,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208356,
+      "num": 279249,
+      "word": "抗战胜利80周年第3场记者招待会",
+      "onboard_time": 1756606100,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 205718,
@@ -267,12 +307,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 195959,
-      "num": 195959,
-      "word": "谈恋爱3个月定律",
-      "onboard_time": 1756605801,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 197226,
+      "num": 103938,
+      "word": "王曼昱钱天一vs蒯曼孙颖莎",
+      "onboard_time": 1756609040,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 195081,
@@ -297,6 +337,22 @@
       "onboard_time": 1756600101,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176773,
+      "num": 176773,
+      "word": "徐志胜何广智两根小草长成大树",
+      "onboard_time": 1756607360,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172777,
+      "num": 148705,
+      "word": "冷冻太久的肉就不要再吃了",
+      "onboard_time": 1756608440,
+      "rank": 21,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 169719,
@@ -395,12 +451,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145350,
+      "num": 145350,
+      "word": "497块的外卖最难的是找菜",
+      "onboard_time": 1756608501,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142954,
       "num": 231006,
       "word": "女子4天瘦8斤怀疑泳池水质",
       "onboard_time": 1756556661,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142729,
+      "num": 142729,
+      "word": "终于有讨论女性生理期的节目了",
+      "onboard_time": 1756607000,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 140781,
@@ -427,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134894,
+      "num": 203272,
+      "word": "土耳其总统埃尔多安抵达天津",
+      "onboard_time": 1756607781,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131973,
       "num": 230880,
       "word": "肖国栋冠军",
@@ -435,12 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127751,
-      "num": 279249,
-      "word": "抗战胜利80周年第3场记者招待会",
-      "onboard_time": 1756606100,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 126470,
+      "num": 126470,
+      "word": "刘宪华闷声干大事",
+      "onboard_time": 1756606820,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 122830,
@@ -491,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110883,
+      "num": 110883,
+      "word": "金价又站上历史高位",
+      "onboard_time": 1756607301,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109094,
       "num": 229911,
       "word": "月薪5W是什么概念",
@@ -529,6 +617,14 @@
       "onboard_time": 1756570641,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105196,
+      "num": 105196,
+      "word": "阎鹤祥 天知道相声对我做了什么",
+      "onboard_time": 1756608440,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 104844,
@@ -571,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94803,
+      "num": 99697,
+      "word": "7.7万余座零散烈士墓迁至烈士陵园",
+      "onboard_time": 1756607781,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94039,
       "num": 231687,
       "word": "陈雨菲崴脚后坚持比赛",
@@ -595,6 +699,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92228,
+      "num": 92228,
+      "word": "陈乔恩就是找回自己的陈欣怡吧",
+      "onboard_time": 1756607360,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89504,
+      "num": 89504,
+      "word": "著名抗日英烈英雄群体1128名",
+      "onboard_time": 1756608201,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89019,
+      "num": 89019,
+      "word": "那英顺便关心陈数美貌",
+      "onboard_time": 1756605981,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87982,
       "num": 87982,
       "word": "视频回顾林疯狂",
@@ -603,20 +731,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87518,
+      "num": 87518,
+      "word": "霍建华病娇疯批演爽了",
+      "onboard_time": 1756609820,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87225,
       "num": 229363,
       "word": "华晨宇 我第一次秀肌肉有点笨拙",
       "onboard_time": 1756564763,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 86707,
-      "num": 86707,
-      "word": "那英顺便关心陈数美貌",
-      "onboard_time": 1756605981,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 86597,
@@ -651,12 +779,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83217,
+      "num": 83217,
+      "word": "外卖员妈妈暴雨中将孩子托付派出所",
+      "onboard_time": 1756609460,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82558,
       "num": 228940,
       "word": "邓紫棋紧急撤回失败",
       "onboard_time": 1756566323,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81014,
+      "num": 81014,
+      "word": "小猫才是最希望开学的",
+      "onboard_time": 1756607660,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 79936,
@@ -827,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54852,
+      "num": 89204,
+      "word": "恭迎昀牵孟绕回宫",
+      "onboard_time": 1756609400,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54636,
       "num": 226711,
       "word": "回春丹鲜花舞台的含金量还在上升",
@@ -956,7 +1108,7 @@
     },
     {
       "raw_hot": 32806,
-      "num": 541579,
+      "num": 630160,
       "word": "开学季网警来送网络安全课了",
       "onboard_time": 1756596077,
       "rank": 2,
