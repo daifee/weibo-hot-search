@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756672765663,
+  "endTime": 1756675314378,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -555,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18106,
+      "num": 31242,
+      "word": "AI合成内容需亮明身份",
+      "onboard_time": 1756671434,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17949,
       "num": 17949,
       "word": "对华关系是越南对外政策头等优先",
@@ -563,11 +571,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15329,
-      "num": 31242,
-      "word": "AI合成内容需亮明身份",
-      "onboard_time": 1756671434,
-      "rank": 9,
+      "raw_hot": 15306,
+      "num": 15595,
+      "word": "5岁半小狗捡瓶子日入50元",
+      "onboard_time": 1756672454,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -579,12 +587,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12582,
-      "num": 15595,
-      "word": "5岁半小狗捡瓶子日入50元",
-      "onboard_time": 1756672454,
+      "raw_hot": 12981,
+      "num": 15295,
+      "word": "中土关系保持高水平发展",
+      "onboard_time": 1756669274,
       "rank": 48,
-      "category": "民生新闻"
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 9929,
+      "num": 31898,
+      "word": "欢迎来华的国际贵宾",
+      "onboard_time": 1756674495,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1474,
