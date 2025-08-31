@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756646900036,
+  "endTime": 1756647600438,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -13915,6 +13915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 529207,
+      "num": 529207,
+      "word": "听到伯贤提何炅好奇妙",
+      "onboard_time": 1756645944,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 529182,
       "num": 529182,
       "word": "赵雅芝把粉丝送的400封信签名回寄",
@@ -16817,6 +16825,14 @@
       "onboard_time": 1754817442,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 446067,
+      "num": 446067,
+      "word": "王楚钦2比3徐瑛彬",
+      "onboard_time": 1756646543,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 445953,
@@ -20651,6 +20667,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 365665,
+      "num": 343133,
+      "word": "鹿晗说给邓超上点压力",
+      "onboard_time": 1756645823,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 365631,
       "num": 365631,
       "word": "湖南一患绝症老人多次猥亵女性",
@@ -21217,14 +21241,6 @@
       "onboard_time": 1756192824,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355848,
-      "num": 355848,
-      "word": "听到伯贤提何炅好奇妙",
-      "onboard_time": 1756645944,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 355767,
@@ -23017,14 +23033,6 @@
       "onboard_time": 1754112142,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322195,
-      "num": 261342,
-      "word": "鹿晗说给邓超上点压力",
-      "onboard_time": 1756645823,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 322185,
@@ -26507,6 +26515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 271802,
+      "num": 271802,
+      "word": "王子文被低估的中女内核",
+      "onboard_time": 1756644022,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271570,
       "num": 271570,
       "word": "鹿晗编了小辫子",
@@ -28161,6 +28177,14 @@
       "onboard_time": 1754527883,
       "rank": 20,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 253465,
+      "num": 253465,
+      "word": "消费贷的国补要来了",
+      "onboard_time": 1756647024,
+      "rank": 14,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 253346,
@@ -31291,14 +31315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 226284,
-      "num": 226284,
-      "word": "王子文被低估的中女内核",
-      "onboard_time": 1756644022,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226277,
       "num": 226277,
       "word": "原来这样洗衣服越洗越臭",
@@ -33747,14 +33763,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 210277,
-      "num": 210277,
-      "word": "王楚钦2比3徐瑛彬",
-      "onboard_time": 1756646543,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210245,
       "num": 237085,
       "word": "易烊千玺成都演唱会",
@@ -34641,6 +34649,14 @@
       "onboard_time": 1756608440,
       "rank": 21,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 207112,
+      "num": 207112,
+      "word": "陈雨菲夺世锦赛亚军",
+      "onboard_time": 1756646481,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 206989,
@@ -37017,6 +37033,14 @@
       "onboard_time": 1756620142,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199364,
+      "num": 199364,
+      "word": "周深的刀马刀马好可爱",
+      "onboard_time": 1756646362,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 199314,
@@ -40107,6 +40131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191197,
+      "num": 191197,
+      "word": "山东泰山vs北京国安",
+      "onboard_time": 1756638861,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191192,
       "num": 191192,
       "word": "蔡徐坤洛杉矶生日会",
@@ -42465,6 +42497,14 @@
       "onboard_time": 1754748325,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184768,
+      "num": 184768,
+      "word": "德甲",
+      "onboard_time": 1756647082,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 184754,
@@ -50059,6 +50099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162855,
+      "num": 162855,
+      "word": "苏州1比2南通",
+      "onboard_time": 1756646603,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162824,
       "num": 162824,
       "word": "SEVENTEEN刀马大比拼",
@@ -51889,6 +51937,14 @@
       "onboard_time": 1754716883,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159062,
+      "num": 159062,
+      "word": "孟子义刘亦菲同款妆造",
+      "onboard_time": 1756646481,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159059,
@@ -54867,14 +54923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152547,
-      "num": 152547,
-      "word": "陈雨菲夺世锦赛亚军",
-      "onboard_time": 1756646481,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152526,
       "num": 152526,
       "word": "时代峰峻把声明当朋友圈发",
@@ -55387,14 +55435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151702,
-      "num": 151702,
-      "word": "山东泰山vs北京国安",
-      "onboard_time": 1756638861,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151698,
       "num": 151698,
       "word": "张晚意发2025年6月30日的日落",
@@ -55633,14 +55673,6 @@
       "onboard_time": 1754104102,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151138,
-      "num": 151138,
-      "word": "周深的刀马刀马好可爱",
-      "onboard_time": 1756646362,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 151121,
@@ -57081,6 +57113,14 @@
       "onboard_time": 1756474044,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148171,
+      "num": 148171,
+      "word": "山东魏桥1比1山东鲁能",
+      "onboard_time": 1756646543,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 148153,
@@ -61707,6 +61747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139590,
+      "num": 139590,
+      "word": "特朗普取消前往印度参加峰会",
+      "onboard_time": 1756646782,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139588,
       "num": 139588,
       "word": "郭晶晶霍启刚拉萨高反",
@@ -63009,14 +63057,6 @@
       "onboard_time": 1755098064,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137633,
-      "num": 137633,
-      "word": "苏州1比2南通",
-      "onboard_time": 1756646603,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 137617,
@@ -64609,6 +64649,14 @@
       "onboard_time": 1756265301,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134977,
+      "num": 134977,
+      "word": "华晨宇 蓝色妖姬",
+      "onboard_time": 1756647262,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 134970,
@@ -67419,6 +67467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130315,
+      "num": 130315,
+      "word": "2025F1荷兰大奖赛",
+      "onboard_time": 1756491618,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 130304,
       "num": 130304,
       "word": "突然意识到我频繁做美甲不是因为爱美",
@@ -69929,14 +69985,6 @@
       "onboard_time": 1755514941,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126597,
-      "num": 126597,
-      "word": "孟子义刘亦菲同款妆造",
-      "onboard_time": 1756646481,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 126573,
@@ -74291,6 +74339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119820,
+      "num": 119820,
+      "word": "林昀儒周启豪3比0闫安松岛辉空",
+      "onboard_time": 1756647323,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119819,
       "num": 119819,
       "word": "谁来给王赫野科普一下签售会",
@@ -78003,14 +78059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113938,
-      "num": 113938,
-      "word": "特朗普取消前往印度参加峰会",
-      "onboard_time": 1756646782,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113914,
       "num": 113914,
       "word": "王橹杰卖萌",
@@ -79369,6 +79417,14 @@
       "onboard_time": 1754462063,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111679,
+      "num": 121356,
+      "word": "管乐说能跟子涵过一辈子",
+      "onboard_time": 1756647204,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 111671,
@@ -81219,6 +81275,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 108656,
+      "num": 108656,
+      "word": "潘玮柏演唱会嘉宾是薛之谦",
+      "onboard_time": 1756647562,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108647,
       "num": 106342,
       "word": "时代少年团芒果夜唱三首歌",
@@ -82825,6 +82889,14 @@
       "onboard_time": 1755870146,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105885,
+      "num": 105885,
+      "word": "黄明昊演唱会整个人都泡在水里了",
+      "onboard_time": 1756647562,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 105873,
@@ -104996,7 +105068,7 @@
     },
     {
       "raw_hot": 32570,
-      "num": 464043,
+      "num": 486990,
       "word": "一支视频看天津的桥桥桥桥桥",
       "onboard_time": 1756572499,
       "rank": 20,
@@ -106801,14 +106873,6 @@
       "onboard_time": 1755922103,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25418,
-      "num": 65955,
-      "word": "2025F1荷兰大奖赛",
-      "onboard_time": 1756491618,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 25415,
