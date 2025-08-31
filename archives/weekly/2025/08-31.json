@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756653822857,
+  "endTime": 1756654681377,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -9,6 +9,14 @@
       "onboard_time": 1756630101,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1843593,
+      "num": 1843593,
+      "word": "樊振东1比3杜达",
+      "onboard_time": 1756653144,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1694518,
@@ -25,14 +33,6 @@
       "onboard_time": 1756602740,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1536267,
-      "num": 1536267,
-      "word": "樊振东1比3杜达",
-      "onboard_time": 1756653144,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1481435,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 927742,
+      "num": 927742,
+      "word": "9月1日新规上线",
+      "onboard_time": 1756650923,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 897242,
       "num": 1143558,
       "word": "大学生暑假工挣16000老板当场发工资",
@@ -137,14 +145,6 @@
       "onboard_time": 1756610480,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 775946,
-      "num": 775946,
-      "word": "9月1日新规上线",
-      "onboard_time": 1756650923,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 749179,
@@ -241,6 +241,14 @@
       "onboard_time": 1756598718,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 539871,
+      "num": 234931,
+      "word": "香港小姐",
+      "onboard_time": 1756652963,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 539802,
@@ -345,14 +353,6 @@
       "onboard_time": 1756642522,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 444716,
-      "num": 234931,
-      "word": "香港小姐",
-      "onboard_time": 1756652963,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 431958,
@@ -835,12 +835,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230232,
+      "num": 234252,
+      "word": "让家长打扫教室学校潜规则该打破了",
+      "onboard_time": 1756649783,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229351,
       "num": 232088,
       "word": "子夜归14天72小时5个字",
       "onboard_time": 1756639460,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228789,
+      "num": 236235,
+      "word": "咒术回战",
+      "onboard_time": 1756652904,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 228186,
@@ -939,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206913,
+      "num": 235756,
+      "word": "小孩儿姐暑假作业只有体育做完了",
+      "onboard_time": 1756651763,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206210,
       "num": 165188,
       "word": "德甲樊振东vs杜达",
@@ -969,14 +993,6 @@
       "onboard_time": 1756571002,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205390,
-      "num": 236235,
-      "word": "咒术回战",
-      "onboard_time": 1756652904,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 205344,
@@ -1251,14 +1267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182727,
-      "num": 234252,
-      "word": "让家长打扫教室学校潜规则该打破了",
-      "onboard_time": 1756649783,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182425,
       "num": 232488,
       "word": "TTG对战WB",
@@ -1379,14 +1387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166217,
-      "num": 235756,
-      "word": "小孩儿姐暑假作业只有体育做完了",
-      "onboard_time": 1756651763,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166198,
       "num": 166198,
       "word": "被AI造黄谣女运动员发声",
@@ -1401,6 +1401,14 @@
       "onboard_time": 1756607781,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164366,
+      "num": 182146,
+      "word": "鹿晗这场更是帅得人神共愤了",
+      "onboard_time": 1756653982,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 162855,
@@ -1745,6 +1753,14 @@
       "onboard_time": 1756646782,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139106,
+      "num": 181999,
+      "word": "圣坛组合夺世锦赛冠军",
+      "onboard_time": 1756653922,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 139019,
@@ -2835,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89073,
+      "num": 181814,
+      "word": "苏州只让南通赢了一球",
+      "onboard_time": 1756651464,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89021,
       "num": 89021,
       "word": "凡人修仙传书粉圆梦",
@@ -2849,6 +2873,14 @@
       "onboard_time": 1756605981,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88726,
+      "num": 181800,
+      "word": "心疼清清",
+      "onboard_time": 1756654403,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 88497,
@@ -2985,6 +3017,14 @@
       "onboard_time": 1756621341,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84381,
+      "num": 181782,
+      "word": "小弗对樊振东暖心摸头杀",
+      "onboard_time": 1756651644,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 84308,
@@ -3307,6 +3347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71014,
+      "num": 182143,
+      "word": "篡改电动自行车电池的人这下消停了",
+      "onboard_time": 1756654161,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70281,
       "num": 70281,
       "word": "全红婵抱上谢思埸的宝宝了",
@@ -3481,6 +3529,14 @@
       "onboard_time": 1756563084,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60744,
+      "num": 181903,
+      "word": "30多万人攻坚造出国产大飞机",
+      "onboard_time": 1756654642,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59038,
