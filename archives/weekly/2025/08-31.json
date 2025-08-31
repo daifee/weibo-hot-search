@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756665151378,
+  "endTime": 1756665909093,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -2363,6 +2363,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 112562,
+      "num": 63116,
+      "word": "孟子义被烫李昀锐的反应",
+      "onboard_time": 1756661657,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112160,
       "num": 141011,
       "word": "王一博句句都是致敬英雄",
@@ -2617,14 +2625,6 @@
       "onboard_time": 1756631001,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 101304,
-      "num": 63116,
-      "word": "孟子义被烫李昀锐的反应",
-      "onboard_time": 1756661657,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100987,
@@ -3963,6 +3963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22224,
+      "num": 38806,
+      "word": "初音未来",
+      "onboard_time": 1756664955,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 22190,
       "num": 103153,
       "word": "每天悬挂3分钟的神奇功效",
@@ -3995,6 +4003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20982,
+      "num": 38840,
+      "word": "开学",
+      "onboard_time": 1756651344,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 20560,
       "num": 38856,
       "word": "汪苏泷晒王源演唱会嘉宾工作证",
@@ -4011,28 +4027,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20276,
-      "num": 38840,
-      "word": "开学",
-      "onboard_time": 1756651344,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 19879,
       "num": 74115,
       "word": "大国外交开启繁忙模式",
       "onboard_time": 1756596497,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19862,
-      "num": 38806,
-      "word": "初音未来",
-      "onboard_time": 1756664955,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 17137,
