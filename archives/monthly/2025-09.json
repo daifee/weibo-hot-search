@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756665909093,
+  "endTime": 1756667987033,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -483,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25423,
+      "num": 36366,
+      "word": "湖北全面降温来了",
+      "onboard_time": 1756667774,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24769,
       "num": 38906,
       "word": "被AI造黄谣女运动员发声",
@@ -537,6 +545,14 @@
       "onboard_time": 1756648822,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17716,
+      "num": 34736,
+      "word": "王子文早期的文字",
+      "onboard_time": 1756666334,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 1474,
