@@ -1,0 +1,410 @@
+{
+  "runTime": 1756635840035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 395169,
+        "num": 1063227,
+        "word": "大学生暑假工挣16000老板当场发工资",
+        "onboard_time": 1756619782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284897,
+        "num": 284897,
+        "word": "臭名昭著731部队的孪生兄弟",
+        "onboard_time": 1756633042,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3313,
+        "num": 234628,
+        "word": "一支视频看天津的桥桥桥桥桥",
+        "onboard_time": 1756572499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199078,
+        "num": 199078,
+        "word": "许昕说运动员必须要规范自己的发球",
+        "onboard_time": 1756626320,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188449,
+        "num": 188449,
+        "word": "披荆斩棘",
+        "onboard_time": 1756635320,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264680,
+        "num": 181768,
+        "word": "李昀锐 文臣也玩刀吗",
+        "onboard_time": 1756631602,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174711,
+        "num": 174711,
+        "word": "为什么赶作业导致呼吸性碱中毒",
+        "onboard_time": 1756625060,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155931,
+        "num": 155931,
+        "word": "小电驴新国标9月1日实施",
+        "onboard_time": 1756623860,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142815,
+        "num": 142815,
+        "word": "许昕发博回家",
+        "onboard_time": 1756619481,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67839,
+        "num": 142195,
+        "word": "普通手机膜冒充为防蓝光销售",
+        "onboard_time": 1756634901,
+        "rank": 9,
+        "category": "数码,科学科普"
+      },
+      {
+        "raw_hot": 430663,
+        "num": 140845,
+        "word": "陈数把空调插头拔了",
+        "onboard_time": 1756629382,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289895,
+        "num": 140118,
+        "word": "反诈老陈称酷派拦截了自己购买的手机",
+        "onboard_time": 1756632081,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221236,
+        "num": 139016,
+        "word": "妈宝女看不了孙怡这段",
+        "onboard_time": 1756621461,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220451,
+        "num": 137502,
+        "word": "刘诗诗晒答谢宴合照",
+        "onboard_time": 1756626381,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207230,
+        "num": 136610,
+        "word": "我是王勉我同意何广智买单",
+        "onboard_time": 1756635320,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99543,
+        "num": 134231,
+        "word": "iQOO杯已经nextlevel了",
+        "onboard_time": 1756635262,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202711,
+        "num": 133840,
+        "word": "成人安抚奶嘴夜间订单量暴增",
+        "onboard_time": 1756634840,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199996,
+        "num": 132758,
+        "word": "猫 不要录了",
+        "onboard_time": 1756630400,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170383,
+        "num": 130464,
+        "word": "易烊千玺会在世界的吻里懂得一切",
+        "onboard_time": 1756635262,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130416,
+        "num": 130416,
+        "word": "捕风追影",
+        "onboard_time": 1756631241,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188592,
+        "num": 129769,
+        "word": "孟子义一半魔丸一半灵珠",
+        "onboard_time": 1756634720,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2410805,
+        "num": 129559,
+        "word": "宋轶回应整容",
+        "onboard_time": 1756630101,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220148,
+        "num": 129296,
+        "word": "快30岁才知道雷军这些话都是真的",
+        "onboard_time": 1756630340,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128598,
+        "num": 128598,
+        "word": "恋爱羞耻症",
+        "onboard_time": 1756626740,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108170,
+        "num": 108170,
+        "word": "特朗普称想把中国留学生扩至60万",
+        "onboard_time": 1756618341,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107312,
+        "num": 107312,
+        "word": "各省的餐桌上看到了蟹老板",
+        "onboard_time": 1756634661,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106532,
+        "num": 106532,
+        "word": "如何应对开学综合征",
+        "onboard_time": 1756635141,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105679,
+        "num": 105679,
+        "word": "求眼睛度数恢复出厂设置",
+        "onboard_time": 1756631481,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98324,
+        "num": 98324,
+        "word": "居然有演员一句台词背1小时",
+        "onboard_time": 1756615341,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87727,
+        "num": 97740,
+        "word": "TOP送陈小春的礼物好用心",
+        "onboard_time": 1756631061,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144669,
+        "num": 97648,
+        "word": "天天吃撑身体会有什么变化",
+        "onboard_time": 1756635440,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 123771,
+        "num": 97617,
+        "word": "许昕不敌18岁小将发文回家",
+        "onboard_time": 1756635262,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97531,
+        "num": 97531,
+        "word": "降低慢性炎症的好处太多了",
+        "onboard_time": 1756621102,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96507,
+        "num": 96507,
+        "word": "上海暴雨",
+        "onboard_time": 1756629022,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91901,
+        "num": 91901,
+        "word": "安洗莹向陈雨菲致敬",
+        "onboard_time": 1756635262,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91073,
+        "num": 91073,
+        "word": "许昕真的回家了",
+        "onboard_time": 1756634181,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89913,
+        "num": 89913,
+        "word": "明日方舟新干员若叶睦",
+        "onboard_time": 1756635201,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89497,
+        "num": 89497,
+        "word": "宋轶 没有整容",
+        "onboard_time": 1756630761,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85744,
+        "num": 85744,
+        "word": "换个角度看33Svan",
+        "onboard_time": 1756635201,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83846,
+        "num": 83846,
+        "word": "孟子义在努力增肥了",
+        "onboard_time": 1756631001,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80140,
+        "num": 80140,
+        "word": "韩庚拍成这样能当站哥了吗",
+        "onboard_time": 1756633821,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76422,
+        "num": 76422,
+        "word": "樊振东外国球迷练习中文加油",
+        "onboard_time": 1756633281,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75873,
+        "num": 75873,
+        "word": "心动8这是什么小说照进现实",
+        "onboard_time": 1756635800,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75424,
+        "num": 75424,
+        "word": "孙颖莎优雅永不过时",
+        "onboard_time": 1756635440,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70606,
+        "num": 70606,
+        "word": "蔚来老车主现场怼李斌5分钟",
+        "onboard_time": 1756631001,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 70096,
+        "num": 70096,
+        "word": "王一博新歌共铭此刻预告",
+        "onboard_time": 1756633221,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 68547,
+        "num": 68547,
+        "word": "香港1200架无人机重现日本投降矣",
+        "onboard_time": 1756611021,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68101,
+        "num": 68101,
+        "word": "孙颖莎的香蕉看起来好香",
+        "onboard_time": 1756634361,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67236,
+        "num": 67236,
+        "word": "向小狗确认OOTD",
+        "onboard_time": 1756635800,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66112,
+        "num": 66112,
+        "word": "宋佳就这个魔鱼爽",
+        "onboard_time": 1756634661,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见阿塞拜疆总统#"
+    }
+  }
+}
