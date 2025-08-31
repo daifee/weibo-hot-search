@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756624967909,
+  "endTime": 1756625769157,
   "band_list": [
     {
       "raw_hot": 1691794,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431958,
+      "num": 431958,
+      "word": "陕西历史博物馆回应将陕西拼为Shaanxi",
+      "onboard_time": 1756620083,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419907,
       "num": 253945,
       "word": "霍建华病娇疯批演爽了",
@@ -193,14 +201,6 @@
       "onboard_time": 1756599860,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 379487,
-      "num": 379487,
-      "word": "陕西历史博物馆回应将陕西拼为Shaanxi",
-      "onboard_time": 1756620083,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 379246,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268491,
+      "num": 268491,
+      "word": "小电驴新国标9月1日实施",
+      "onboard_time": 1756623860,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267351,
       "num": 239169,
       "word": "谁给蓝盈莹浇成这样的",
@@ -403,20 +411,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 244368,
+      "num": 227645,
+      "word": "台湾信息茧房",
+      "onboard_time": 1756621102,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231050,
       "num": 231050,
       "word": "王曼昱钱天一3比2蒯曼孙颖莎",
       "onboard_time": 1756613240,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227645,
-      "num": 227645,
-      "word": "台湾信息茧房",
-      "onboard_time": 1756621102,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223679,
@@ -523,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199364,
+      "num": 254242,
+      "word": "尚公主物料审美",
+      "onboard_time": 1756620142,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198939,
       "num": 249472,
       "word": "iPhone17Pro 丑",
@@ -537,6 +553,14 @@
       "onboard_time": 1756609460,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196756,
+      "num": 149936,
+      "word": "降低慢性炎症的好处太多了",
+      "onboard_time": 1756621102,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196650,
@@ -571,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192784,
+      "num": 248835,
+      "word": "大闸蟹开湖倒计时",
+      "onboard_time": 1756624401,
+      "rank": 11,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 192019,
       "num": 192019,
       "word": "黄誉博 老板亲的",
@@ -593,14 +625,6 @@
       "onboard_time": 1756623681,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 185094,
-      "num": 254242,
-      "word": "尚公主物料审美",
-      "onboard_time": 1756620142,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 184625,
@@ -651,28 +675,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169711,
-      "num": 252352,
-      "word": "小电驴新国标9月1日实施",
-      "onboard_time": 1756623860,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168044,
       "num": 228207,
       "word": "日本代表最后一刻取消访美",
       "onboard_time": 1756565063,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166933,
-      "num": 248835,
-      "word": "大闸蟹开湖倒计时",
-      "onboard_time": 1756624401,
-      "rank": 11,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 166795,
@@ -811,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145604,
-      "num": 145604,
-      "word": "降低慢性炎症的好处太多了",
-      "onboard_time": 1756621102,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145350,
       "num": 145350,
       "word": "497块的外卖最难的是找菜",
@@ -939,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130971,
+      "num": 121271,
+      "word": "日本动漫血汗工厂",
+      "onboard_time": 1756622422,
+      "rank": 38,
+      "category": "海外新闻,动漫"
+    },
+    {
       "raw_hot": 129811,
       "num": 129811,
       "word": "孙颖莎乒超午场双赛",
@@ -985,14 +993,6 @@
       "onboard_time": 1756617860,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123564,
-      "num": 121271,
-      "word": "日本动漫血汗工厂",
-      "onboard_time": 1756622422,
-      "rank": 38,
-      "category": "海外新闻,动漫"
     },
     {
       "raw_hot": 123278,
@@ -1572,7 +1572,7 @@
     },
     {
       "raw_hot": 81512,
-      "num": 81512,
+      "num": 82858,
       "word": "TheShy盛名之下继续成长",
       "onboard_time": 1756622782,
       "rank": 44,
@@ -1627,6 +1627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75901,
+      "num": 82894,
+      "word": "为什么赶作业导致呼吸性碱中毒",
+      "onboard_time": 1756625060,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 75805,
       "num": 44885,
       "word": "白敬亭说刀马是吧等着",
@@ -1641,6 +1649,14 @@
       "onboard_time": 1756614800,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 75358,
+      "num": 82878,
+      "word": "上海地产集团3比2先锋乒羽陈静",
+      "onboard_time": 1756625301,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 74977,
@@ -1739,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65499,
+      "num": 82843,
+      "word": "邪修醒脑",
+      "onboard_time": 1756625301,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65426,
       "num": 227982,
       "word": "庞博嘻哈小北祝贺何广智到长安了",
@@ -1763,12 +1787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64485,
+      "num": 92314,
+      "word": "地铁19号线里能坐航母",
+      "onboard_time": 1756625603,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64261,
       "num": 227553,
       "word": "白俄罗斯总统说加入上合是美妙礼物",
       "onboard_time": 1756568842,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63653,
+      "num": 82832,
+      "word": "20多岁的生长痛",
+      "onboard_time": 1756625603,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 63052,
@@ -1873,6 +1913,14 @@
       "onboard_time": 1756596019,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42931,
+      "num": 83274,
+      "word": "当天津遇到上合时间",
+      "onboard_time": 1756625361,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42283,
@@ -2170,6 +2218,9 @@
     },
     {
       "word": "#习近平会见马尔代夫总统穆伊兹#"
+    },
+    {
+      "word": "#大国外交开启繁忙模式#"
     }
   ]
 }

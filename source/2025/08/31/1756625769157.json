@@ -1,0 +1,410 @@
+{
+  "runTime": 1756625769157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 780213,
+        "num": 1124834,
+        "word": "大学生暑假工挣16000老板当场发工资",
+        "onboard_time": 1756619782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431958,
+        "num": 431958,
+        "word": "陕西历史博物馆回应将陕西拼为Shaanxi",
+        "onboard_time": 1756620083,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2800,
+        "num": 388945,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386731,
+        "num": 386731,
+        "word": "许昕发博回家",
+        "onboard_time": 1756619481,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381479,
+        "num": 381479,
+        "word": "00后男生0.6秒飞针采血惊呆患者",
+        "onboard_time": 1756605199,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268491,
+        "num": 268491,
+        "word": "小电驴新国标9月1日实施",
+        "onboard_time": 1756623860,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235552,
+        "num": 235552,
+        "word": "香港1200架无人机重现日本投降矣",
+        "onboard_time": 1756611021,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199364,
+        "num": 199364,
+        "word": "尚公主物料审美",
+        "onboard_time": 1756620142,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192784,
+        "num": 192784,
+        "word": "大闸蟹开湖倒计时",
+        "onboard_time": 1756624401,
+        "rank": 8,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 186380,
+        "num": 186380,
+        "word": "女生苦练化妆1年的变化",
+        "onboard_time": 1756611680,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 965697,
+        "num": 184354,
+        "word": "妈宝女看不了孙怡这段",
+        "onboard_time": 1756621461,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400159,
+        "num": 182148,
+        "word": "许昕疑似不满裁判判罚",
+        "onboard_time": 1756621522,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310047,
+        "num": 177314,
+        "word": "那英去龚俊张晚意房间吹空调",
+        "onboard_time": 1756617322,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255842,
+        "num": 176036,
+        "word": "张艺凡又被认成101了",
+        "onboard_time": 1756618341,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244368,
+        "num": 172039,
+        "word": "台湾信息茧房",
+        "onboard_time": 1756621102,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219706,
+        "num": 169754,
+        "word": "特朗普称想把中国留学生扩至60万",
+        "onboard_time": 1756618341,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167414,
+        "num": 167414,
+        "word": "王源下台偷偷抹眼泪",
+        "onboard_time": 1756623681,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167137,
+        "num": 167137,
+        "word": "张维伊对96岁的姥姥说长命百岁",
+        "onboard_time": 1756614441,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156600,
+        "num": 156600,
+        "word": "尚公主开机",
+        "onboard_time": 1756602440,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153538,
+        "num": 153538,
+        "word": "普京带3位副总理10多位部长到中国",
+        "onboard_time": 1756610480,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196756,
+        "num": 149936,
+        "word": "降低慢性炎症的好处太多了",
+        "onboard_time": 1756621102,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137763,
+        "num": 137763,
+        "word": "肖战一次次出现在暑假屏幕里",
+        "onboard_time": 1756623502,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137313,
+        "num": 137313,
+        "word": "奶奶的供桌上只剩下我的准考证",
+        "onboard_time": 1756622121,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126395,
+        "num": 126395,
+        "word": "居然有演员一句台词背1小时",
+        "onboard_time": 1756615341,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115209,
+        "num": 115209,
+        "word": "管乐 朋友只会看到你的疲惫",
+        "onboard_time": 1756624282,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114311,
+        "num": 114311,
+        "word": "孟子义李昀锐定妆照",
+        "onboard_time": 1756607721,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112847,
+        "num": 112847,
+        "word": "抗战胜利80周年第3场记者招待会",
+        "onboard_time": 1756606100,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111458,
+        "num": 111458,
+        "word": "以为张艺兴穿的蓝色抹胸",
+        "onboard_time": 1756611021,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110025,
+        "num": 110025,
+        "word": "心动的信号8",
+        "onboard_time": 1756613301,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79456,
+        "num": 96574,
+        "word": "十二封信 好看",
+        "onboard_time": 1756617921,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130971,
+        "num": 96389,
+        "word": "日本动漫血汗工厂",
+        "onboard_time": 1756622422,
+        "rank": 30,
+        "category": "海外新闻,动漫"
+      },
+      {
+        "raw_hot": 92935,
+        "num": 92935,
+        "word": "龚俊 你这个要剪到预告里头",
+        "onboard_time": 1756620742,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64485,
+        "num": 92314,
+        "word": "地铁19号线里能坐航母",
+        "onboard_time": 1756625603,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91873,
+        "num": 91873,
+        "word": "樊振东只身赴德",
+        "onboard_time": 1756620622,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91830,
+        "num": 91830,
+        "word": "当我教小猫学习爬楼梯",
+        "onboard_time": 1756624042,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89322,
+        "num": 89322,
+        "word": "舒服但伤身的5个习惯",
+        "onboard_time": 1756623681,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88432,
+        "num": 88432,
+        "word": "一代人有一代人的阿贝贝",
+        "onboard_time": 1756623141,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84240,
+        "num": 84240,
+        "word": "欧阳娣娣遇事不决就喊妈",
+        "onboard_time": 1756619661,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67896,
+        "num": 83842,
+        "word": "今晚的心动线太难猜了",
+        "onboard_time": 1756624162,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83787,
+        "num": 83787,
+        "word": "怪不得校服裤子屁股锃亮",
+        "onboard_time": 1756605141,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83712,
+        "num": 83712,
+        "word": "冷冻太久的肉就不要再吃了",
+        "onboard_time": 1756608440,
+        "rank": 40,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 42931,
+        "num": 83274,
+        "word": "当天津遇到上合时间",
+        "onboard_time": 1756625361,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82907,
+        "num": 82907,
+        "word": "钱天一vs孙颖莎",
+        "onboard_time": 1756617442,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77134,
+        "num": 82905,
+        "word": "展轩新歌我",
+        "onboard_time": 1756620860,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75901,
+        "num": 82894,
+        "word": "为什么赶作业导致呼吸性碱中毒",
+        "onboard_time": 1756625060,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75358,
+        "num": 82878,
+        "word": "上海地产集团3比2先锋乒羽陈静",
+        "onboard_time": 1756625301,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72217,
+        "num": 82870,
+        "word": "王菲最新状态",
+        "onboard_time": 1756614800,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 66907,
+        "num": 82858,
+        "word": "TheShy盛名之下继续成长",
+        "onboard_time": 1756622782,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65499,
+        "num": 82843,
+        "word": "邪修醒脑",
+        "onboard_time": 1756625301,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63653,
+        "num": 82832,
+        "word": "20多岁的生长痛",
+        "onboard_time": 1756625603,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国外交开启繁忙模式#"
+    }
+  }
+}
