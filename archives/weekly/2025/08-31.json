@@ -1,7 +1,15 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756629735359,
+  "endTime": 1756632191413,
   "band_list": [
+    {
+      "raw_hot": 2552419,
+      "num": 157821,
+      "word": "宋轶回应整容",
+      "onboard_time": 1756630101,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1691794,
       "num": 633428,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424023,
+      "num": 171948,
+      "word": "陈数把空调插头拔了",
+      "onboard_time": 1756629382,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419907,
       "num": 253945,
       "word": "霍建华病娇疯批演爽了",
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338929,
+      "num": 178038,
+      "word": "恋爱羞耻症",
+      "onboard_time": 1756626740,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 337575,
       "num": 231477,
       "word": "尚公主",
@@ -281,14 +305,6 @@
       "onboard_time": 1756556603,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 323470,
-      "num": 178038,
-      "word": "恋爱羞耻症",
-      "onboard_time": 1756626740,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 321691,
@@ -331,6 +347,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295678,
+      "num": 295678,
+      "word": "许昕说运动员必须要规范自己的发球",
+      "onboard_time": 1756626320,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 293804,
+      "num": 153359,
+      "word": "孟子义在努力增肥了",
+      "onboard_time": 1756631001,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292706,
       "num": 292706,
       "word": "中方敦促美方立即纠正错误做法",
@@ -345,6 +377,14 @@
       "onboard_time": 1756623860,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276482,
+      "num": 276482,
+      "word": "为什么赶作业导致呼吸性碱中毒",
+      "onboard_time": 1756625060,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 275175,
@@ -443,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233835,
-      "num": 233835,
-      "word": "为什么赶作业导致呼吸性碱中毒",
-      "onboard_time": 1756625060,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 231050,
       "num": 231050,
       "word": "王曼昱钱天一3比2蒯曼孙颖莎",
@@ -459,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216918,
-      "num": 139525,
-      "word": "许昕说运动员必须要规范自己的发球",
-      "onboard_time": 1756626320,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 221898,
+      "num": 171318,
+      "word": "孟子义李昀锐与你携手",
+      "onboard_time": 1756629081,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 212642,
@@ -699,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177329,
+      "num": 151391,
+      "word": "快30岁才知道雷军这些话都是真的",
+      "onboard_time": 1756630340,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176773,
       "num": 176773,
       "word": "徐志胜何广智两根小草长成大树",
@@ -707,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173113,
-      "num": 129780,
-      "word": "孟子义李昀锐与你携手",
-      "onboard_time": 1756629081,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 172665,
+      "num": 172665,
+      "word": "上海暴雨",
+      "onboard_time": 1756629022,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169719,
@@ -745,6 +785,14 @@
       "onboard_time": 1756607781,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 162010,
+      "num": 145896,
+      "word": "宋轶 没有整容",
+      "onboard_time": 1756630761,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 161694,
@@ -843,6 +891,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148234,
+      "num": 148234,
+      "word": "王楚钦说自己水平和孙闻差不多",
+      "onboard_time": 1756628002,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147367,
+      "num": 147367,
+      "word": "又到江苏孩子拿盆吃螃蟹的时候",
+      "onboard_time": 1756631300,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 146661,
+      "num": 172553,
+      "word": "捕风追影",
+      "onboard_time": 1756631241,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146047,
       "num": 146047,
       "word": "孟子义李昀锐开机同框",
@@ -915,20 +987,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139112,
-      "num": 139112,
-      "word": "上海暴雨",
-      "onboard_time": 1756629022,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139019,
       "num": 139019,
       "word": "刘宪华拉断弓毛这一幕",
       "onboard_time": 1756611381,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138042,
+      "num": 169271,
+      "word": "TOP送陈小春的礼物好用心",
+      "onboard_time": 1756631061,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 137974,
@@ -1027,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127023,
+      "num": 163231,
+      "word": "李昀锐 文臣也玩刀吗",
+      "onboard_time": 1756631602,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126470,
       "num": 126470,
       "word": "刘宪华闷声干大事",
@@ -1067,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122438,
+      "num": 122438,
+      "word": "猫 不要录了",
+      "onboard_time": 1756630400,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122068,
       "num": 122068,
       "word": "邓超陈赫鹿晗憋笑比登天还难",
       "onboard_time": 1756619121,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121430,
+      "num": 121430,
+      "word": "蔚来老车主现场怼李斌5分钟",
+      "onboard_time": 1756631001,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 120081,
@@ -1179,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116445,
-      "num": 116445,
-      "word": "陈数把空调插头拔了",
-      "onboard_time": 1756629382,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115789,
       "num": 147721,
       "word": "我点外卖没用上券就这样",
@@ -1259,12 +1347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113243,
-      "num": 113243,
-      "word": "王楚钦说自己水平和孙闻差不多",
-      "onboard_time": 1756628002,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 113253,
+      "num": 113253,
+      "word": "原来芝麻采摘前长这样",
+      "onboard_time": 1756628900,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 110541,
@@ -1355,6 +1443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107347,
+      "num": 160769,
+      "word": "谁还不知道密逃明天就播",
+      "onboard_time": 1756630641,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107201,
       "num": 243424,
       "word": "我国科学家在6G领域取得新突破",
@@ -1387,12 +1483,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 101377,
-      "num": 101377,
-      "word": "原来芝麻采摘前长这样",
-      "onboard_time": 1756628900,
-      "rank": 38,
-      "category": "科学科普"
+      "raw_hot": 103746,
+      "num": 103746,
+      "word": "王楚钦曾因扔拍被乒协处罚",
+      "onboard_time": 1756628481,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101967,
+      "num": 172336,
+      "word": "这位总统说最宝贵优势就是与中国为邻",
+      "onboard_time": 1756631001,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100987,
@@ -1449,6 +1553,14 @@
       "onboard_time": 1756629382,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96672,
+      "num": 96672,
+      "word": "为什么人总喜欢吃脆脆的东西",
+      "onboard_time": 1756629202,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 95761,
@@ -1563,6 +1675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 90169,
+      "num": 97007,
+      "word": "刘宇宁嘴硬但手很诚实",
+      "onboard_time": 1756630882,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89792,
       "num": 93494,
       "word": "唯一接受的绝交方式出现了",
@@ -1627,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87902,
-      "num": 87902,
-      "word": "王楚钦曾因扔拍被乒协处罚",
-      "onboard_time": 1756628481,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87605,
       "num": 87605,
       "word": "罗晋演出了欺骗式婚姻的恐怖",
@@ -1683,6 +1795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85546,
+      "num": 85546,
+      "word": "会有人一直保留聊天记录吗",
+      "onboard_time": 1756630882,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84620,
       "num": 84620,
       "word": "王源我想把这玩意染成绿的",
@@ -1723,12 +1843,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82945,
-      "num": 82945,
-      "word": "为什么人总喜欢吃脆脆的东西",
-      "onboard_time": 1756629202,
-      "rank": 40,
-      "category": "科学科普"
+      "raw_hot": 82731,
+      "num": 90182,
+      "word": "孙红雷拿钱就跑梦回极挑",
+      "onboard_time": 1756630281,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 82726,
+      "num": 82726,
+      "word": "男子解手被蛇咬迅速抓蛇就医",
+      "onboard_time": 1756628840,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82676,
@@ -1761,14 +1889,6 @@
       "onboard_time": 1756607660,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80880,
-      "num": 80880,
-      "word": "男子解手被蛇咬迅速抓蛇就医",
-      "onboard_time": 1756628840,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79936,
@@ -1809,6 +1929,14 @@
       "onboard_time": 1756628002,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77939,
+      "num": 77939,
+      "word": "求眼睛度数恢复出厂设置",
+      "onboard_time": 1756631481,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 77138,
@@ -1891,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73541,
+      "num": 73541,
+      "word": "刘诗诗晒labubu",
+      "onboard_time": 1756631181,
+      "rank": 47,
+      "category": "剧集,休闲"
+    },
+    {
       "raw_hot": 71915,
       "num": 227012,
       "word": "日本发动侵略战争祸首究竟是谁",
@@ -1937,6 +2073,14 @@
       "onboard_time": 1756603520,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67756,
+      "num": 67756,
+      "word": "反诈老陈称酷派拦截了自己购买的手机",
+      "onboard_time": 1756632081,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67269,
@@ -2372,7 +2516,7 @@
     },
     {
       "raw_hot": 12636,
-      "num": 32834,
+      "num": 285033,
       "word": "为何上海精神有超越时空的生命力",
       "onboard_time": 1756584615,
       "rank": 15,
