@@ -1,0 +1,410 @@
+{
+  "runTime": 1756633000715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 476041,
+        "num": 1076166,
+        "word": "大学生暑假工挣16000老板当场发工资",
+        "onboard_time": 1756619782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268343,
+        "num": 268343,
+        "word": "许昕说运动员必须要规范自己的发球",
+        "onboard_time": 1756626320,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1985,
+        "num": 207712,
+        "word": "一支视频看天津的桥桥桥桥桥",
+        "onboard_time": 1756572499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204469,
+        "num": 204469,
+        "word": "李昀锐 文臣也玩刀吗",
+        "onboard_time": 1756631602,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195090,
+        "num": 195090,
+        "word": "为什么赶作业导致呼吸性碱中毒",
+        "onboard_time": 1756625060,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187993,
+        "num": 187993,
+        "word": "许昕发博回家",
+        "onboard_time": 1756619481,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181076,
+        "num": 181076,
+        "word": "小电驴新国标9月1日实施",
+        "onboard_time": 1756623860,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2044,
+        "num": 179972,
+        "word": "有一种精神叫不屈",
+        "onboard_time": 1756566623,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179955,
+        "num": 179955,
+        "word": "丁禹兮真的不考虑开个情商班吗",
+        "onboard_time": 1756627641,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131808,
+        "num": 176895,
+        "word": "上海暴雨",
+        "onboard_time": 1756629022,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498507,
+        "num": 175135,
+        "word": "陈数把空调插头拔了",
+        "onboard_time": 1756629382,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447698,
+        "num": 171479,
+        "word": "刘诗诗晒答谢宴合照",
+        "onboard_time": 1756626381,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342926,
+        "num": 166374,
+        "word": "妈宝女看不了孙怡这段",
+        "onboard_time": 1756621461,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3074,
+        "num": 165340,
+        "word": "为何上海精神有超越时空的生命力",
+        "onboard_time": 1756584615,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244855,
+        "num": 160320,
+        "word": "恋爱羞耻症",
+        "onboard_time": 1756626740,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159006,
+        "num": 159006,
+        "word": "特朗普称想把中国留学生扩至60万",
+        "onboard_time": 1756618341,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155051,
+        "num": 155051,
+        "word": "孟子义李昀锐与你携手",
+        "onboard_time": 1756629081,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151233,
+        "num": 151233,
+        "word": "反诈老陈称酷派拦截了自己购买的手机",
+        "onboard_time": 1756632081,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101481,
+        "num": 150687,
+        "word": "捕风追影",
+        "onboard_time": 1756631241,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93608,
+        "num": 148296,
+        "word": "TOP送陈小春的礼物好用心",
+        "onboard_time": 1756631061,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2458994,
+        "num": 144733,
+        "word": "宋轶回应整容",
+        "onboard_time": 1756630101,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258761,
+        "num": 144010,
+        "word": "孟子义在努力增肥了",
+        "onboard_time": 1756631001,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228186,
+        "num": 142281,
+        "word": "快30岁才知道雷军这些话都是真的",
+        "onboard_time": 1756630340,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140391,
+        "num": 140391,
+        "word": "猫 不要录了",
+        "onboard_time": 1756630400,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130908,
+        "num": 130908,
+        "word": "居然有演员一句台词背1小时",
+        "onboard_time": 1756615341,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137023,
+        "num": 130515,
+        "word": "宋轶 没有整容",
+        "onboard_time": 1756630761,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129654,
+        "num": 129654,
+        "word": "王楚钦说自己水平和孙闻差不多",
+        "onboard_time": 1756628002,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109293,
+        "num": 109293,
+        "word": "又到江苏孩子拿盆吃螃蟹的时候",
+        "onboard_time": 1756631300,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87943,
+        "num": 108551,
+        "word": "谁还不知道密逃明天就播",
+        "onboard_time": 1756630641,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84500,
+        "num": 108154,
+        "word": "献鱼",
+        "onboard_time": 1756632681,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108114,
+        "num": 108114,
+        "word": "降低慢性炎症的好处太多了",
+        "onboard_time": 1756621102,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104618,
+        "num": 104618,
+        "word": "香港1200架无人机重现日本投降矣",
+        "onboard_time": 1756611021,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98673,
+        "num": 98673,
+        "word": "蔚来老车主现场怼李斌5分钟",
+        "onboard_time": 1756631001,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92992,
+        "num": 92992,
+        "word": "原来芝麻采摘前长这样",
+        "onboard_time": 1756628900,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82964,
+        "num": 82964,
+        "word": "为什么人总喜欢吃脆脆的东西",
+        "onboard_time": 1756629202,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 81714,
+        "num": 81714,
+        "word": "陕西历史博物馆回应将陕西拼为Shaanxi",
+        "onboard_time": 1756620083,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80042,
+        "num": 80042,
+        "word": "张艺凡又被认成101了",
+        "onboard_time": 1756618341,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79387,
+        "num": 79387,
+        "word": "王楚钦曾因扔拍被乒协处罚",
+        "onboard_time": 1756628481,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79041,
+        "num": 79041,
+        "word": "这位总统说最宝贵优势就是与中国为邻",
+        "onboard_time": 1756631001,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78067,
+        "num": 78067,
+        "word": "求眼睛度数恢复出厂设置",
+        "onboard_time": 1756631481,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77223,
+        "num": 77223,
+        "word": "开窗通风又不落灰的方法",
+        "onboard_time": 1756632381,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 75012,
+        "num": 75012,
+        "word": "台湾信息茧房",
+        "onboard_time": 1756621102,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70972,
+        "num": 70972,
+        "word": "田曦薇高马尾学姐",
+        "onboard_time": 1756629382,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69240,
+        "num": 69240,
+        "word": "当狗狗发现自己的床躺满了小猫后",
+        "onboard_time": 1756626381,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69067,
+        "num": 69067,
+        "word": "刘诗诗晒labubu",
+        "onboard_time": 1756631181,
+        "rank": 44,
+        "category": "剧集,休闲"
+      },
+      {
+        "raw_hot": 68221,
+        "num": 68221,
+        "word": "许昕疑似不满裁判判罚",
+        "onboard_time": 1756621522,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68034,
+        "num": 68034,
+        "word": "会有人一直保留聊天记录吗",
+        "onboard_time": 1756630882,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64644,
+        "num": 64644,
+        "word": "00后男生0.6秒飞针采血惊呆患者",
+        "onboard_time": 1756605199,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63654,
+        "num": 63654,
+        "word": "大学一开学家里就空了",
+        "onboard_time": 1756632922,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62171,
+        "num": 62171,
+        "word": "孙红雷拿钱就跑梦回极挑",
+        "onboard_time": 1756630281,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见亚美尼亚总理#"
+    }
+  }
+}
