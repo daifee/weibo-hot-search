@@ -1,0 +1,410 @@
+{
+  "runTime": 1756614550393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1054877,
+        "num": 1168780,
+        "word": "00后男生0.6秒飞针采血惊呆患者",
+        "onboard_time": 1756605199,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815615,
+        "num": 815615,
+        "word": "普京带3位副总理10多位部长到中国",
+        "onboard_time": 1756610480,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5459,
+        "num": 717461,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 835559,
+        "num": 706823,
+        "word": "女生苦练化妆1年的变化",
+        "onboard_time": 1756611680,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 633428,
+        "num": 633428,
+        "word": "尚公主全阵容官宣",
+        "onboard_time": 1756602740,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 557165,
+        "num": 557165,
+        "word": "香港1200架无人机重现日本投降矣",
+        "onboard_time": 1756611021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370719,
+        "num": 370719,
+        "word": "唐朝诡事录",
+        "onboard_time": 1756599320,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267204,
+        "num": 267204,
+        "word": "普京抵达天津",
+        "onboard_time": 1756603400,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217063,
+        "num": 217063,
+        "word": "王曼昱钱天一3比2蒯曼孙颖莎",
+        "onboard_time": 1756613240,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31995,
+        "num": 216494,
+        "word": "九三阅兵徒步方队铿锵步伐",
+        "onboard_time": 1756597757,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 463286,
+        "num": 216267,
+        "word": "孟子义李昀锐定妆照",
+        "onboard_time": 1756607721,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403152,
+        "num": 215209,
+        "word": "霍建华病娇疯批演爽了",
+        "onboard_time": 1756609820,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305541,
+        "num": 214661,
+        "word": "以为张艺兴穿的蓝色抹胸",
+        "onboard_time": 1756611021,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292555,
+        "num": 213898,
+        "word": "谈恋爱3个月定律",
+        "onboard_time": 1756605801,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213587,
+        "num": 213587,
+        "word": "抗战胜利80周年第3场记者招待会",
+        "onboard_time": 1756606100,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267571,
+        "num": 212756,
+        "word": "纪凌尘出演孟子义新剧",
+        "onboard_time": 1756608201,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211772,
+        "num": 211772,
+        "word": "王曼昱钱天一vs蒯曼孙颖莎",
+        "onboard_time": 1756609040,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203582,
+        "num": 203582,
+        "word": "尚公主开机",
+        "onboard_time": 1756602440,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181119,
+        "num": 202890,
+        "word": "心动的信号8",
+        "onboard_time": 1756613301,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209028,
+        "num": 202802,
+        "word": "孙闻被乒协处罚",
+        "onboard_time": 1756607721,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311353,
+        "num": 202765,
+        "word": "朱孝天爆冷出局",
+        "onboard_time": 1756613421,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202694,
+        "num": 202694,
+        "word": "易烊千玺抢票",
+        "onboard_time": 1756611979,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201430,
+        "num": 201430,
+        "word": "冷冻太久的肉就不要再吃了",
+        "onboard_time": 1756608440,
+        "rank": 22,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 197754,
+        "num": 197754,
+        "word": "外卖员妈妈暴雨中将孩子托付派出所",
+        "onboard_time": 1756609460,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177273,
+        "num": 177273,
+        "word": "龚俊的体面只给旅游前几天",
+        "onboard_time": 1756612881,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162530,
+        "num": 162530,
+        "word": "沈腾说错了最怕人笨还不勤快",
+        "onboard_time": 1756613961,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154428,
+        "num": 154428,
+        "word": "让张柏芝林家谦粤语合唱的是天才",
+        "onboard_time": 1756613541,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150026,
+        "num": 150026,
+        "word": "金价大涨两大原因",
+        "onboard_time": 1756600760,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135335,
+        "num": 135335,
+        "word": "iPhone17国行预计涨价500元",
+        "onboard_time": 1756598898,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116465,
+        "num": 131945,
+        "word": "脱口秀和Ta的朋友们",
+        "onboard_time": 1756612881,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130234,
+        "num": 130234,
+        "word": "林书豪退役",
+        "onboard_time": 1756599860,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129811,
+        "num": 129811,
+        "word": "孙颖莎乒超午场双赛",
+        "onboard_time": 1756613360,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120621,
+        "num": 120621,
+        "word": "黄誉博 老板亲的",
+        "onboard_time": 1756611321,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117518,
+        "num": 117518,
+        "word": "土耳其总统埃尔多安抵达天津",
+        "onboard_time": 1756607781,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117374,
+        "num": 117374,
+        "word": "周深疑似失去了所有力气和手段",
+        "onboard_time": 1756613541,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116277,
+        "num": 116277,
+        "word": "张维伊对96岁的姥姥说长命百岁",
+        "onboard_time": 1756614441,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115423,
+        "num": 115423,
+        "word": "小猫咪舔毛把自己累睡着",
+        "onboard_time": 1756612822,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113276,
+        "num": 113276,
+        "word": "怪不得校服裤子屁股锃亮",
+        "onboard_time": 1756605141,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112359,
+        "num": 112359,
+        "word": "497块的外卖最难的是找菜",
+        "onboard_time": 1756608501,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59038,
+        "num": 110341,
+        "word": "严重缺觉的6个表现",
+        "onboard_time": 1756614441,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109895,
+        "num": 109895,
+        "word": "陕西Shaanxi官方标准拼音",
+        "onboard_time": 1756614141,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104255,
+        "num": 104255,
+        "word": "美美sunday被小沈阳唱出玻璃球",
+        "onboard_time": 1756610300,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99027,
+        "num": 99027,
+        "word": "窦靖童王菲演唱会的跨时空重合",
+        "onboard_time": 1756611080,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98640,
+        "num": 98640,
+        "word": "鹭卓巡演三城官宣",
+        "onboard_time": 1756612341,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94563,
+        "num": 94563,
+        "word": "陈赫刘宇宁陈星旭成站哥了",
+        "onboard_time": 1756611141,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93326,
+        "num": 93326,
+        "word": "宋亚轩这是真上桌了",
+        "onboard_time": 1756610421,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93107,
+        "num": 93107,
+        "word": "这一幕幕中国浪漫看得心暖暖",
+        "onboard_time": 1756606701,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90659,
+        "num": 90659,
+        "word": "女孩跳河救人后提前转正",
+        "onboard_time": 1756598718,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87462,
+        "num": 87462,
+        "word": "火锅局吃成了谈判局",
+        "onboard_time": 1756612581,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82676,
+        "num": 82676,
+        "word": "胡塞武装高层多人死于以军空袭",
+        "onboard_time": 1756612881,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中哈关系不断迈上新台阶#"
+    }
+  }
+}
