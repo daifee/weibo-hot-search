@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756639169023,
+  "endTime": 1756640237550,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 962522,
-      "num": 160654,
+      "num": 213086,
       "word": "成人安抚奶嘴夜间订单量暴增",
       "onboard_time": 1756634840,
       "rank": 16,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 529999,
+      "num": 212389,
+      "word": "那英怒了",
+      "onboard_time": 1756637060,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527072,
       "num": 242623,
       "word": "被字节跳动的食堂震惊到了",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 498507,
-      "num": 175135,
+      "num": 210091,
       "word": "陈数把空调插头拔了",
       "onboard_time": 1756629382,
       "rank": 22,
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366116,
+      "num": 210866,
+      "word": "女子高铁上疯狂推前排座椅",
+      "onboard_time": 1756637060,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 361912,
       "num": 244662,
       "word": "张艺凡又被认成101了",
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 353287,
-      "num": 156796,
+      "num": 192865,
       "word": "我是王勉我同意何广智买单",
       "onboard_time": 1756635320,
       "rank": 14,
@@ -419,22 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 287325,
-      "num": 159146,
-      "word": "那英怒了",
-      "onboard_time": 1756637060,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 281964,
-      "num": 157504,
-      "word": "女子高铁上疯狂推前排座椅",
-      "onboard_time": 1756637060,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277780,
       "num": 277780,
       "word": "小电驴新国标9月1日实施",
@@ -449,6 +449,14 @@
       "onboard_time": 1756625060,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 275697,
+      "num": 275697,
+      "word": "新疆沙漠首次发现盐水丰年虾",
+      "onboard_time": 1756637301,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275175,
@@ -587,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215896,
+      "num": 215896,
+      "word": "子夜归14天72小时5个字",
+      "onboard_time": 1756639460,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215040,
       "num": 215040,
       "word": "披荆斩棘",
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 211857,
-      "num": 154094,
+      "num": 157571,
       "word": "许昕不敌18岁小将发文回家",
       "onboard_time": 1756635262,
       "rank": 31,
@@ -715,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198944,
+      "num": 198944,
+      "word": "王源回应汪苏泷",
+      "onboard_time": 1756639040,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198939,
       "num": 249472,
       "word": "iPhone17Pro 丑",
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 194758,
-      "num": 120562,
+      "num": 126936,
       "word": "王楚钦vs闫安",
       "onboard_time": 1756639040,
       "rank": 30,
@@ -859,6 +883,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179182,
+      "num": 215334,
+      "word": "仙逆",
+      "onboard_time": 1756636820,
+      "rank": 12,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 177083,
+      "num": 177083,
+      "word": "7岁女童在动物园被小老虎咬伤",
+      "onboard_time": 1756638141,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176899,
+      "num": 176899,
+      "word": "天天吃撑身体会有什么变化",
+      "onboard_time": 1756635440,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 176773,
       "num": 176773,
       "word": "徐志胜何广智两根小草长成大树",
@@ -881,14 +929,6 @@
       "onboard_time": 1756635262,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169965,
-      "num": 158363,
-      "word": "仙逆",
-      "onboard_time": 1756636820,
-      "rank": 12,
-      "category": "动漫"
     },
     {
       "raw_hot": 169719,
@@ -923,6 +963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163567,
+      "num": 114658,
+      "word": "伊朗最高领袖中文发文谈中伊关系",
+      "onboard_time": 1756639460,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162010,
       "num": 145896,
       "word": "宋轶 没有整容",
@@ -939,12 +987,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160805,
-      "num": 160805,
-      "word": "新疆沙漠首次发现盐水丰年虾",
-      "onboard_time": 1756637301,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 159962,
+      "num": 214254,
+      "word": "杨幂接受中国日报文字专访",
+      "onboard_time": 1756637781,
+      "rank": 8,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 158379,
@@ -953,6 +1001,14 @@
       "onboard_time": 1756611080,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157348,
+      "num": 157348,
+      "word": "羽毛球世锦赛",
+      "onboard_time": 1756639580,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 155233,
@@ -1017,14 +1073,6 @@
       "onboard_time": 1756553421,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 150402,
-      "num": 150402,
-      "word": "天天吃撑身体会有什么变化",
-      "onboard_time": 1756635440,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 149492,
@@ -1107,12 +1155,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143818,
-      "num": 143818,
-      "word": "7岁女童在动物园被小老虎咬伤",
-      "onboard_time": 1756638141,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 144665,
+      "num": 144665,
+      "word": "王赫野咋把蚊帐穿身上了",
+      "onboard_time": 1756639702,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 143073,
@@ -1139,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141296,
+      "num": 157921,
+      "word": "中国女排0比2法国女排",
+      "onboard_time": 1756639100,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140781,
       "num": 230726,
       "word": "又一个看着长大的童星火了",
@@ -1153,14 +1209,6 @@
       "onboard_time": 1756621461,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139952,
-      "num": 162922,
-      "word": "杨幂接受中国日报文字专访",
-      "onboard_time": 1756637781,
-      "rank": 8,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 139019,
@@ -1691,6 +1739,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 103787,
+      "num": 103787,
+      "word": "终于有樊振东德甲首秀的实感了",
+      "onboard_time": 1756639640,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103746,
       "num": 103746,
       "word": "王楚钦曾因扔拍被乒协处罚",
@@ -1723,20 +1779,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100550,
-      "num": 100550,
-      "word": "中国女排0比2法国女排",
-      "onboard_time": 1756639100,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100275,
       "num": 147610,
       "word": "谁教魏哲鸣冷脸跳这些的",
       "onboard_time": 1756615702,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99947,
+      "num": 116852,
+      "word": "曹璐再次自费发歌回归",
+      "onboard_time": 1756639761,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 99543,
@@ -1811,6 +1867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95033,
+      "num": 114675,
+      "word": "华晨宇又出神图",
+      "onboard_time": 1756639640,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94930,
       "num": 230205,
       "word": "蛟龙行动特别版今日上映",
@@ -1841,6 +1905,14 @@
       "onboard_time": 1756607781,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 94103,
+      "num": 94103,
+      "word": "张雅琪说马思纯头围超立体",
+      "onboard_time": 1756638321,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 94039,
@@ -2027,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86976,
+      "num": 86976,
+      "word": "吒宝赛前大宠粉",
+      "onboard_time": 1756639401,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86597,
       "num": 86597,
       "word": "石宇奇晋级世锦赛决赛",
@@ -2043,6 +2123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85774,
+      "num": 85774,
+      "word": "意大利游泳名将涉嫌偷窃被抓",
+      "onboard_time": 1756637060,
+      "rank": 48,
+      "category": "体育,海外新闻"
+    },
+    {
       "raw_hot": 85744,
       "num": 85744,
       "word": "换个角度看33Svan",
@@ -2057,14 +2145,6 @@
       "onboard_time": 1756630882,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 85538,
-      "num": 85538,
-      "word": "王源回应汪苏泷",
-      "onboard_time": 1756639040,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 85016,
@@ -2179,6 +2259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80271,
+      "num": 80271,
+      "word": "陶喆 不要在那儿装",
+      "onboard_time": 1756640120,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80140,
       "num": 80140,
       "word": "韩庚拍成这样能当站哥了吗",
@@ -2209,14 +2297,6 @@
       "onboard_time": 1756639100,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79716,
-      "num": 79716,
-      "word": "张雅琪说马思纯头围超立体",
-      "onboard_time": 1756638321,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 79317,
@@ -2265,6 +2345,14 @@
       "onboard_time": 1756610421,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76888,
+      "num": 76888,
+      "word": "宿迁队要得苏超冠军分几步",
+      "onboard_time": 1756640001,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 76776,
@@ -2433,14 +2521,6 @@
       "onboard_time": 1756597277,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 68515,
-      "num": 79216,
-      "word": "意大利游泳名将涉嫌偷窃被抓",
-      "onboard_time": 1756637060,
-      "rank": 48,
-      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 68101,
@@ -2676,7 +2756,7 @@
     },
     {
       "raw_hot": 43258,
-      "num": 85110,
+      "num": 89170,
       "word": "螃蟹当饭吃是什么体验",
       "onboard_time": 1756639100,
       "rank": 38,
@@ -2969,6 +3049,14 @@
       "onboard_time": 1756587253,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9030,
+      "num": 88097,
+      "word": "周五下午比周末更让人快乐",
+      "onboard_time": 1756639340,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 8312,
