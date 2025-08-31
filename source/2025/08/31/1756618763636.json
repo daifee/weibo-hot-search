@@ -1,0 +1,410 @@
+{
+  "runTime": 1756618763636,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 808812,
+        "num": 1129409,
+        "word": "00后男生0.6秒飞针采血惊呆患者",
+        "onboard_time": 1756605199,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447046,
+        "num": 447046,
+        "word": "普京带3位副总理10多位部长到中国",
+        "onboard_time": 1756610480,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3222,
+        "num": 399458,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 686333,
+        "num": 395054,
+        "word": "女生苦练化妆1年的变化",
+        "onboard_time": 1756611680,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 379246,
+        "num": 379246,
+        "word": "钱天一vs孙颖莎",
+        "onboard_time": 1756617442,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362340,
+        "num": 362340,
+        "word": "香港1200架无人机重现日本投降矣",
+        "onboard_time": 1756611021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263758,
+        "num": 263758,
+        "word": "心动的信号8",
+        "onboard_time": 1756613301,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242516,
+        "num": 242516,
+        "word": "尚公主开机",
+        "onboard_time": 1756602440,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228973,
+        "num": 228973,
+        "word": "唐朝诡事录",
+        "onboard_time": 1756599320,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224186,
+        "num": 224186,
+        "word": "尚公主全阵容官宣",
+        "onboard_time": 1756602740,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 598260,
+        "num": 220041,
+        "word": "张维伊对96岁的姥姥说长命百岁",
+        "onboard_time": 1756614441,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365973,
+        "num": 217175,
+        "word": "孟子义李昀锐定妆照",
+        "onboard_time": 1756607721,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321691,
+        "num": 216424,
+        "word": "开学焦虑更严重的另有其人",
+        "onboard_time": 1756615402,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212419,
+        "num": 212419,
+        "word": "抗战胜利80周年第3场记者招待会",
+        "onboard_time": 1756606100,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194187,
+        "num": 194187,
+        "word": "以为张艺兴穿的蓝色抹胸",
+        "onboard_time": 1756611021,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181646,
+        "num": 181646,
+        "word": "龚俊的体面只给旅游前几天",
+        "onboard_time": 1756612881,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179861,
+        "num": 179861,
+        "word": "特朗普称想把中国留学生扩至60万",
+        "onboard_time": 1756618341,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157473,
+        "num": 157473,
+        "word": "那英去龚俊张晚意房间吹空调",
+        "onboard_time": 1756617322,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155426,
+        "num": 155426,
+        "word": "金价大涨两大原因",
+        "onboard_time": 1756600760,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154646,
+        "num": 154646,
+        "word": "王曼昱钱天一3比2蒯曼孙颖莎",
+        "onboard_time": 1756613240,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206118,
+        "num": 152809,
+        "word": "居然有演员一句台词背1小时",
+        "onboard_time": 1756615341,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132898,
+        "num": 149429,
+        "word": "张紫宁转行当拉拉队经理人了",
+        "onboard_time": 1756615462,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147834,
+        "num": 147834,
+        "word": "朱孝天爆冷出局",
+        "onboard_time": 1756613421,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49269,
+        "num": 147827,
+        "word": "王菲最新状态",
+        "onboard_time": 1756614800,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 132662,
+        "num": 147816,
+        "word": "沈腾说错了最怕人笨还不勤快",
+        "onboard_time": 1756613961,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131583,
+        "num": 147803,
+        "word": "冷冻太久的肉就不要再吃了",
+        "onboard_time": 1756608440,
+        "rank": 25,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 127617,
+        "num": 147798,
+        "word": "霍建华病娇疯批演爽了",
+        "onboard_time": 1756609820,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119654,
+        "num": 147792,
+        "word": "深圳大学1比1山东鲁能",
+        "onboard_time": 1756617322,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117833,
+        "num": 147779,
+        "word": "刘宇宁腿长得有点犯规了",
+        "onboard_time": 1756618583,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57582,
+        "num": 147773,
+        "word": "张艺凡又被认成101了",
+        "onboard_time": 1756618341,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136605,
+        "num": 147761,
+        "word": "印尼首都交通瘫痪",
+        "onboard_time": 1756616721,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123964,
+        "num": 147744,
+        "word": "许昕2比3费浚航",
+        "onboard_time": 1756617860,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117116,
+        "num": 147741,
+        "word": "普京抵达天津",
+        "onboard_time": 1756603400,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114474,
+        "num": 147727,
+        "word": "王乐晨卢远约会机车版头文字D",
+        "onboard_time": 1756617022,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111159,
+        "num": 147721,
+        "word": "我点外卖没用上券就这样",
+        "onboard_time": 1756616301,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108908,
+        "num": 147710,
+        "word": "孙颖莎3比1钱天一",
+        "onboard_time": 1756618281,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104210,
+        "num": 147701,
+        "word": "孟子义暮晚摇",
+        "onboard_time": 1756614021,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8312,
+        "num": 147683,
+        "word": "52岁乡村医生与儿子考入同校同专业",
+        "onboard_time": 1756618641,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97949,
+        "num": 147674,
+        "word": "怪不得校服裤子屁股锃亮",
+        "onboard_time": 1756605141,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58078,
+        "num": 147671,
+        "word": "十二封信 好看",
+        "onboard_time": 1756617921,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97287,
+        "num": 147651,
+        "word": "这居然是白举纲",
+        "onboard_time": 1756616182,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94824,
+        "num": 147650,
+        "word": "停狗位停满了小狗",
+        "onboard_time": 1756615760,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94698,
+        "num": 147630,
+        "word": "iPhone17散热",
+        "onboard_time": 1756616602,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92861,
+        "num": 147620,
+        "word": "那英小发雷霆",
+        "onboard_time": 1756616482,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91485,
+        "num": 147610,
+        "word": "谁教魏哲鸣冷脸跳这些的",
+        "onboard_time": 1756615702,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89134,
+        "num": 147602,
+        "word": "昀牵孟绕",
+        "onboard_time": 1756609340,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88272,
+        "num": 147590,
+        "word": "95后00后恋爱有代沟",
+        "onboard_time": 1756615341,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87334,
+        "num": 147582,
+        "word": "孙颖莎小时候真来过新疆",
+        "onboard_time": 1756616482,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86350,
+        "num": 147575,
+        "word": "孙闻被乒协处罚",
+        "onboard_time": 1756607721,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86274,
+        "num": 147567,
+        "word": "俄军称掌握战略主动权",
+        "onboard_time": 1756616602,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中哈关系不断迈上新台阶#"
+    }
+  }
+}
