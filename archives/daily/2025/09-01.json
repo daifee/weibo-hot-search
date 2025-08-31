@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756676217081,
+  "endTime": 1756678992634,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -459,7 +459,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35241,
+      "raw_hot": 39083,
       "num": 71865,
       "word": "女子高铁上疯狂推前排座椅",
       "onboard_time": 1756637060,
@@ -483,6 +483,38 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29295,
+      "num": 40352,
+      "word": "兰大连续3年打地铺让新生家长免费住",
+      "onboard_time": 1756676835,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29171,
+      "num": 40321,
+      "word": "被AI造黄谣女运动员发声",
+      "onboard_time": 1756644141,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28283,
+      "num": 40344,
+      "word": "华晨宇萌的不知天地为何物了",
+      "onboard_time": 1756678695,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26657,
+      "num": 40317,
+      "word": "5岁半小狗捡瓶子日入50元",
+      "onboard_time": 1756672454,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26551,
       "num": 62887,
       "word": "陶喆演唱会",
@@ -491,11 +523,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24769,
-      "num": 38906,
-      "word": "被AI造黄谣女运动员发声",
-      "onboard_time": 1756644141,
-      "rank": 38,
+      "raw_hot": 23983,
+      "num": 40311,
+      "word": "开学",
+      "onboard_time": 1756651344,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 23802,
+      "num": 40308,
+      "word": "山东泰山6比0北京国安",
+      "onboard_time": 1756648284,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -513,22 +553,6 @@
       "onboard_time": 1756660398,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21648,
-      "num": 38884,
-      "word": "山东泰山6比0北京国安",
-      "onboard_time": 1756648284,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 20982,
-      "num": 38840,
-      "word": "开学",
-      "onboard_time": 1756651344,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 20560,
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 18449,
-      "num": 31242,
+      "num": 40289,
       "word": "AI合成内容需亮明身份",
       "onboard_time": 1756671434,
       "rank": 9,
@@ -564,19 +588,11 @@
     },
     {
       "raw_hot": 17949,
-      "num": 17949,
+      "num": 40281,
       "word": "对华关系是越南对外政策头等优先",
       "onboard_time": 1756669214,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16097,
-      "num": 16910,
-      "word": "5岁半小狗捡瓶子日入50元",
-      "onboard_time": 1756672454,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14425,

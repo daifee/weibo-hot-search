@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/01 05:36:57
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/01 06:23:12
 </p>
 </blockquote>
 <p>
@@ -358,7 +358,7 @@ F1（热度：158344）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E7%96%AF%E7%8B%82%E6%8E%A8%E5%89%8D%E6%8E%92%E5%BA%A7%E6%A4%85%23" target="weibo">
-女子高铁上疯狂推前排座椅（热度：35241）
+女子高铁上疯狂推前排座椅（热度：39083）
 </a>
 </li>
 
@@ -375,14 +375,44 @@ F1（热度：158344）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%A4%A7%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E6%89%93%E5%9C%B0%E9%93%BA%E8%AE%A9%E6%96%B0%E7%94%9F%E5%AE%B6%E9%95%BF%E5%85%8D%E8%B4%B9%E4%BD%8F%23" target="weibo">
+兰大连续3年打地铺让新生家长免费住（热度：29295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%ABAI%E9%80%A0%E9%BB%84%E8%B0%A3%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%91%E5%A3%B0%23" target="weibo">
+被AI造黄谣女运动员发声（热度：29171）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%90%8C%E7%9A%84%E4%B8%8D%E7%9F%A5%E5%A4%A9%E5%9C%B0%E4%B8%BA%E4%BD%95%E7%89%A9%E4%BA%86%23" target="weibo">
+华晨宇萌的不知天地为何物了（热度：28283）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%8D%8A%E5%B0%8F%E7%8B%97%E6%8D%A1%E7%93%B6%E5%AD%90%E6%97%A5%E5%85%A550%E5%85%83%23" target="weibo">
+5岁半小狗捡瓶子日入50元（热度：26657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E5%96%86%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 陶喆演唱会（热度：26551）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%ABAI%E9%80%A0%E9%BB%84%E8%B0%A3%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E5%8F%91%E5%A3%B0%23" target="weibo">
-被AI造黄谣女运动员发声（热度：24769）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%23" target="weibo">
+开学（热度：23983）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B16%E6%AF%940%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%23" target="weibo">
+山东泰山6比0北京国安（热度：23802）
 </a>
 </li>
 
@@ -395,18 +425,6 @@ F1（热度：158344）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B%E4%B8%8A%E6%96%B09%E6%9C%88%E9%AB%98%E6%B8%85%E5%A3%81%E7%BA%B8%23" target="weibo">
 人民海军上新9月高清壁纸（热度：22185）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B16%E6%AF%940%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%23" target="weibo">
-山东泰山6比0北京国安（热度：21648）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%23" target="weibo">
-开学（热度：20982）
 </a>
 </li>
 
@@ -437,12 +455,6 @@ AI合成内容需亮明身份（热度：18449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%B3%BB%E6%98%AF%E8%B6%8A%E5%8D%97%E5%AF%B9%E5%A4%96%E6%94%BF%E7%AD%96%E5%A4%B4%E7%AD%89%E4%BC%98%E5%85%88%23" target="weibo">
 对华关系是越南对外政策头等优先（热度：17949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%8D%8A%E5%B0%8F%E7%8B%97%E6%8D%A1%E7%93%B6%E5%AD%90%E6%97%A5%E5%85%A550%E5%85%83%23" target="weibo">
-5岁半小狗捡瓶子日入50元（热度：16097）
 </a>
 </li>
 

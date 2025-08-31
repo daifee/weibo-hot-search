@@ -1,0 +1,410 @@
+{
+  "runTime": 1756678992634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 213374,
+        "num": 384209,
+        "word": "9月1日新规上线",
+        "onboard_time": 1756650923,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176841,
+        "num": 176841,
+        "word": "山东一小学新生报到名字惊艳众人",
+        "onboard_time": 1756655542,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 978,
+        "num": 126999,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114174,
+        "num": 114174,
+        "word": "樊振东1比3杜达",
+        "onboard_time": 1756653144,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113296,
+        "num": 113296,
+        "word": "篡改电动自行车电池的人这下消停了",
+        "onboard_time": 1756654161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112627,
+        "num": 112627,
+        "word": "国羽男单时隔10年再夺世锦赛冠军",
+        "onboard_time": 1756659679,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82458,
+        "num": 82458,
+        "word": "樊振东不想草率回应质疑",
+        "onboard_time": 1756655062,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50958,
+        "num": 50958,
+        "word": "消费贷的国补要来了",
+        "onboard_time": 1756647024,
+        "rank": 7,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 47074,
+        "num": 47074,
+        "word": "香港小姐14强佳丽均是高学历",
+        "onboard_time": 1756655121,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31203,
+        "num": 46534,
+        "word": "敬山水",
+        "onboard_time": 1756650324,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144619,
+        "num": 44942,
+        "word": "伪装者",
+        "onboard_time": 1756649604,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111420,
+        "num": 43902,
+        "word": "石宇奇",
+        "onboard_time": 1756656021,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109704,
+        "num": 43366,
+        "word": "美网抢帽子男子系波兰富豪",
+        "onboard_time": 1756657639,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62052,
+        "num": 42206,
+        "word": "为什么吃海底捞前要先上个坡",
+        "onboard_time": 1756644624,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54076,
+        "num": 40755,
+        "word": "旺旺总经理赴京看九三阅兵",
+        "onboard_time": 1756651763,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40359,
+        "num": 40359,
+        "word": "羽毛球世锦赛",
+        "onboard_time": 1756639580,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36257,
+        "num": 40357,
+        "word": "上合峰会欢迎宴会",
+        "onboard_time": 1756641861,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33462,
+        "num": 40356,
+        "word": "伊朗最高领袖中文发文谈中伊关系",
+        "onboard_time": 1756639460,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29295,
+        "num": 40352,
+        "word": "兰大连续3年打地铺让新生家长免费住",
+        "onboard_time": 1756676835,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27797,
+        "num": 40352,
+        "word": "子夜归14天72小时5个字",
+        "onboard_time": 1756639460,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147118,
+        "num": 40348,
+        "word": "宋轶回应整容",
+        "onboard_time": 1756630101,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110478,
+        "num": 40346,
+        "word": "邓超又去买一毛钱老奶奶的凉菜了",
+        "onboard_time": 1756651703,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28283,
+        "num": 40344,
+        "word": "华晨宇萌的不知天地为何物了",
+        "onboard_time": 1756678695,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105477,
+        "num": 40342,
+        "word": "让家长打扫教室学校潜规则该打破了",
+        "onboard_time": 1756649783,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66284,
+        "num": 40338,
+        "word": "孟子义被烫李昀锐的反应",
+        "onboard_time": 1756661657,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47379,
+        "num": 40337,
+        "word": "成人安抚奶嘴夜间订单量暴增",
+        "onboard_time": 1756634840,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47070,
+        "num": 40336,
+        "word": "男生6天穷游北京仅花650元",
+        "onboard_time": 1756654821,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43073,
+        "num": 40332,
+        "word": "北京暴雨",
+        "onboard_time": 1756646543,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27104,
+        "num": 40329,
+        "word": "石宇奇夺世锦赛冠军",
+        "onboard_time": 1756659857,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39083,
+        "num": 40328,
+        "word": "女子高铁上疯狂推前排座椅",
+        "onboard_time": 1756637060,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34198,
+        "num": 40325,
+        "word": "邓超给鹿晗带程奶奶凉菜",
+        "onboard_time": 1756654943,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31450,
+        "num": 40322,
+        "word": "香港小姐",
+        "onboard_time": 1756652963,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29171,
+        "num": 40321,
+        "word": "被AI造黄谣女运动员发声",
+        "onboard_time": 1756644141,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28432,
+        "num": 40319,
+        "word": "边伯贤说何老师很有名",
+        "onboard_time": 1756657220,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26657,
+        "num": 40317,
+        "word": "5岁半小狗捡瓶子日入50元",
+        "onboard_time": 1756672454,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26307,
+        "num": 40314,
+        "word": "颁奖前陈雨菲哭了",
+        "onboard_time": 1756648402,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23983,
+        "num": 40311,
+        "word": "开学",
+        "onboard_time": 1756651344,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23802,
+        "num": 40308,
+        "word": "山东泰山6比0北京国安",
+        "onboard_time": 1756648284,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23339,
+        "num": 40306,
+        "word": "中国排面亮相越南气场拉满了",
+        "onboard_time": 1756645282,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22351,
+        "num": 40304,
+        "word": "F1",
+        "onboard_time": 1756651884,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21614,
+        "num": 40301,
+        "word": "孟子义刘亦菲同款妆造",
+        "onboard_time": 1756646481,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21354,
+        "num": 40299,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1756646543,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20612,
+        "num": 40297,
+        "word": "王一栩说淮水竹亭绝对的断层第一",
+        "onboard_time": 1756660098,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20392,
+        "num": 40296,
+        "word": "赵丽颖永远别向后看",
+        "onboard_time": 1756650444,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19829,
+        "num": 40291,
+        "word": "陈雨菲受伤瞬间感觉天塌了",
+        "onboard_time": 1756659438,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18245,
+        "num": 40289,
+        "word": "AI合成内容需亮明身份",
+        "onboard_time": 1756671434,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17812,
+        "num": 40289,
+        "word": "5个细微但很有用的习惯",
+        "onboard_time": 1756659318,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17267,
+        "num": 40285,
+        "word": "无限暖暖家园家具",
+        "onboard_time": 1756661418,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17266,
+        "num": 40284,
+        "word": "布莱顿绝杀曼城",
+        "onboard_time": 1756659318,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16696,
+        "num": 40281,
+        "word": "对华关系是越南对外政策头等优先",
+        "onboard_time": 1756669214,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025上合组织天津峰会#"
+    }
+  }
+}
