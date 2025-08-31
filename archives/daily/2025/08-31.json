@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756645196810,
+  "endTime": 1756646900036,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -9,6 +9,14 @@
       "onboard_time": 1756630101,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1694518,
+      "num": 1694518,
+      "word": "樊振东德甲首战不敌鲁伊斯",
+      "onboard_time": 1756645161,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1691794,
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 575959,
+      "num": 341885,
+      "word": "为什么吃海底捞前要先上个坡",
+      "onboard_time": 1756644624,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573813,
       "num": 573813,
       "word": "香港1200架无人机重现日本投降矣",
@@ -211,12 +227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469943,
+      "num": 469943,
+      "word": "王源高音有种直冲天灵盖的爽感",
+      "onboard_time": 1756641803,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 463837,
       "num": 1074214,
       "word": "臭名昭著731部队的孪生兄弟",
       "onboard_time": 1756633042,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463691,
+      "num": 463691,
+      "word": "陈雨菲vs山口茜",
+      "onboard_time": 1756642762,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 450325,
@@ -251,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413890,
-      "num": 413890,
-      "word": "陈雨菲vs山口茜",
-      "onboard_time": 1756642762,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 412222,
       "num": 276835,
       "word": "孟子义李昀锐上台讲话",
@@ -291,10 +315,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368896,
+      "num": 368896,
+      "word": "王曼昱逗笑孙颖莎",
+      "onboard_time": 1756644382,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368335,
       "num": 240754,
       "word": "陈飞宇王影璐情侣装",
       "onboard_time": 1756566204,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 367976,
+      "num": 318012,
+      "word": "迪丽热巴说尝试比完美更重要",
+      "onboard_time": 1756645282,
       "rank": 11,
       "category": "艺人"
     },
@@ -347,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355848,
+      "num": 355848,
+      "word": "听到伯贤提何炅好奇妙",
+      "onboard_time": 1756645944,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 354260,
       "num": 248439,
       "word": "纪凌尘出演孟子义新剧",
@@ -363,12 +411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349315,
+      "num": 349315,
+      "word": "王楚钦乒超第三阶段首负",
+      "onboard_time": 1756646603,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 344926,
       "num": 344926,
       "word": "金价大涨两大原因",
       "onboard_time": 1756600760,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 343751,
+      "num": 343751,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1756643542,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 341515,
@@ -416,6 +480,14 @@
       "word": "破音",
       "onboard_time": 1756556603,
       "rank": 12,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 322195,
+      "num": 261342,
+      "word": "鹿晗说给邓超上点压力",
+      "onboard_time": 1756645823,
+      "rank": 14,
       "category": "演出"
     },
     {
@@ -475,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 292726,
-      "num": 292726,
-      "word": "樊振东德甲首战不敌鲁伊斯",
-      "onboard_time": 1756645161,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 292706,
       "num": 292706,
       "word": "中方敦促美方立即纠正错误做法",
@@ -497,22 +561,6 @@
       "onboard_time": 1756632081,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283697,
-      "num": 283697,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1756643542,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 283077,
-      "num": 283077,
-      "word": "王源高音有种直冲天灵盖的爽感",
-      "onboard_time": 1756641803,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 282538,
@@ -585,14 +633,6 @@
       "onboard_time": 1756613301,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262753,
-      "num": 262753,
-      "word": "王曼昱逗笑孙颖莎",
-      "onboard_time": 1756644382,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 260144,
@@ -675,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226284,
+      "num": 226284,
+      "word": "王子文被低估的中女内核",
+      "onboard_time": 1756644022,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221898,
       "num": 171318,
       "word": "孟子义李昀锐与你携手",
@@ -715,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211889,
+      "num": 211889,
+      "word": "中国排面亮相越南气场拉满了",
+      "onboard_time": 1756645282,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 211852,
       "num": 211852,
       "word": "美美sunday被小沈阳唱出玻璃球",
@@ -729,6 +785,14 @@
       "onboard_time": 1756571002,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210277,
+      "num": 210277,
+      "word": "王楚钦2比3徐瑛彬",
+      "onboard_time": 1756646543,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 209763,
@@ -748,7 +812,7 @@
     },
     {
       "raw_hot": 206210,
-      "num": 144680,
+      "num": 165188,
       "word": "德甲樊振东vs杜达",
       "onboard_time": 1756643722,
       "rank": 31,
@@ -963,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186463,
-      "num": 166369,
-      "word": "为什么吃海底捞前要先上个坡",
-      "onboard_time": 1756644624,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186451,
       "num": 186451,
       "word": "樊振东只身赴德",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1756600101,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 183018,
+      "num": 183018,
+      "word": "EDG战胜WE",
+      "onboard_time": 1756646543,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 180959,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1756635262,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169840,
+      "num": 169840,
+      "word": "北京暴雨",
+      "onboard_time": 1756646543,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169719,
@@ -1187,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154642,
+      "num": 154642,
+      "word": "山东泰山半场4比0北京国安",
+      "onboard_time": 1756646603,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154636,
       "num": 229044,
       "word": "电动自行车时速不得超过25公里",
@@ -1219,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152547,
+      "num": 152547,
+      "word": "陈雨菲夺世锦赛亚军",
+      "onboard_time": 1756646481,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152433,
       "num": 123588,
       "word": "温泉瓜画的好",
@@ -1233,6 +1321,22 @@
       "onboard_time": 1756610121,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151702,
+      "num": 151702,
+      "word": "山东泰山vs北京国安",
+      "onboard_time": 1756638861,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151138,
+      "num": 151138,
+      "word": "周深的刀马刀马好可爱",
+      "onboard_time": 1756646362,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 151099,
@@ -1281,14 +1385,6 @@
       "onboard_time": 1756631300,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 147119,
-      "num": 147119,
-      "word": "王子文被低估的中女内核",
-      "onboard_time": 1756644022,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 147095,
@@ -1427,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137633,
+      "num": 137633,
+      "word": "苏州1比2南通",
+      "onboard_time": 1756646603,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136847,
       "num": 121301,
       "word": "当我教小猫学习爬楼梯",
@@ -1467,8 +1571,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132140,
-      "num": 132140,
+      "raw_hot": 132746,
+      "num": 132746,
       "word": "偶遇毕雯珺颜人中吃火锅",
       "onboard_time": 1756640661,
       "rank": 34,
@@ -1523,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126597,
+      "num": 126597,
+      "word": "孟子义刘亦菲同款妆造",
+      "onboard_time": 1756646481,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126470,
       "num": 126470,
       "word": "刘宪华闷声干大事",
@@ -1537,14 +1649,6 @@
       "onboard_time": 1756620981,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125238,
-      "num": 125238,
-      "word": "山东泰山vs北京国安",
-      "onboard_time": 1756638861,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 123964,
@@ -1617,6 +1721,14 @@
       "onboard_time": 1756570042,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119067,
+      "num": 137709,
+      "word": "刘宇的扇子好像认主了",
+      "onboard_time": 1756646002,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 118688,
@@ -1809,6 +1921,14 @@
       "onboard_time": 1756639040,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113938,
+      "num": 113938,
+      "word": "特朗普取消前往印度参加峰会",
+      "onboard_time": 1756646782,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113418,
@@ -2987,6 +3107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50315,
+      "num": 138307,
+      "word": "子涵梓萱扎堆的时代过去了",
+      "onboard_time": 1756646002,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48487,
       "num": 228170,
       "word": "和平发展",
@@ -3083,6 +3211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40843,
+      "num": 166448,
+      "word": "村民翻山越岭寻找无名烈士遗骸",
+      "onboard_time": 1756646661,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38256,
       "num": 79568,
       "word": "丁程鑫跳了发牌摇扫腿舞",
@@ -3140,7 +3276,7 @@
     },
     {
       "raw_hot": 32570,
-      "num": 431898,
+      "num": 464043,
       "word": "一支视频看天津的桥桥桥桥桥",
       "onboard_time": 1756572499,
       "rank": 20,
