@@ -1,0 +1,410 @@
+{
+  "runTime": 1756645196810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 749179,
+        "num": 1119868,
+        "word": "樊振东vs鲁伊斯",
+        "onboard_time": 1756642582,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513201,
+        "num": 513201,
+        "word": "上合峰会欢迎宴会",
+        "onboard_time": 1756641861,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4491,
+        "num": 431898,
+        "word": "一支视频看天津的桥桥桥桥桥",
+        "onboard_time": 1756572499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413890,
+        "num": 413890,
+        "word": "陈雨菲vs山口茜",
+        "onboard_time": 1756642762,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359747,
+        "num": 359747,
+        "word": "樊振东德甲首秀",
+        "onboard_time": 1756637781,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345466,
+        "num": 345466,
+        "word": "许昕不敌18岁小将发文回家",
+        "onboard_time": 1756635262,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335829,
+        "num": 335829,
+        "word": "中国女排无缘世锦赛八强",
+        "onboard_time": 1756642522,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292726,
+        "num": 292726,
+        "word": "樊振东德甲首战不敌鲁伊斯",
+        "onboard_time": 1756645161,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283697,
+        "num": 283697,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1756643542,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283077,
+        "num": 283077,
+        "word": "王源高音有种直冲天灵盖的爽感",
+        "onboard_time": 1756641803,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 613962,
+        "num": 281778,
+        "word": "成人安抚奶嘴夜间订单量暴增",
+        "onboard_time": 1756634840,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443205,
+        "num": 281604,
+        "word": "那英怒了",
+        "onboard_time": 1756637060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280425,
+        "num": 280425,
+        "word": "新疆沙漠首次发现盐水丰年虾",
+        "onboard_time": 1756637301,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262753,
+        "num": 262753,
+        "word": "王曼昱逗笑孙颖莎",
+        "onboard_time": 1756644382,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248431,
+        "num": 248431,
+        "word": "女子高铁上疯狂推前排座椅",
+        "onboard_time": 1756637060,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244995,
+        "num": 244995,
+        "word": "伊朗最高领袖中文发文谈中伊关系",
+        "onboard_time": 1756639460,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194589,
+        "num": 194589,
+        "word": "王源回应汪苏泷",
+        "onboard_time": 1756639040,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187333,
+        "num": 187333,
+        "word": "张康乐生日直播解放天性了",
+        "onboard_time": 1756644503,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175912,
+        "num": 175912,
+        "word": "子夜归14天72小时5个字",
+        "onboard_time": 1756639460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166605,
+        "num": 166605,
+        "word": "早春晴朗开拍",
+        "onboard_time": 1756636760,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1393168,
+        "num": 166601,
+        "word": "宋轶回应整容",
+        "onboard_time": 1756630101,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182757,
+        "num": 166437,
+        "word": "中国女排vs法国女排",
+        "onboard_time": 1756636760,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186463,
+        "num": 166369,
+        "word": "为什么吃海底捞前要先上个坡",
+        "onboard_time": 1756644624,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175986,
+        "num": 166264,
+        "word": "樊振东德甲首战",
+        "onboard_time": 1756643722,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166236,
+        "num": 166236,
+        "word": "台北年轻人来大陆旅行颠覆三观",
+        "onboard_time": 1756641803,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166198,
+        "num": 166198,
+        "word": "被AI造黄谣女运动员发声",
+        "onboard_time": 1756644141,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154636,
+        "num": 154636,
+        "word": "电动自行车时速不得超过25公里",
+        "onboard_time": 1756641320,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153572,
+        "num": 153572,
+        "word": "7岁女童在动物园被小老虎咬伤",
+        "onboard_time": 1756638141,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152621,
+        "num": 152621,
+        "word": "王楚钦vs徐瑛彬",
+        "onboard_time": 1756640781,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147119,
+        "num": 147119,
+        "word": "王子文被低估的中女内核",
+        "onboard_time": 1756644022,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150875,
+        "num": 143932,
+        "word": "不要用三十年前的钥匙开现在的门",
+        "onboard_time": 1756644441,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206210,
+        "num": 141647,
+        "word": "德甲樊振东vs杜达",
+        "onboard_time": 1756643722,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199902,
+        "num": 141319,
+        "word": "中国女排1比3不敌法国队",
+        "onboard_time": 1756644261,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134128,
+        "num": 134128,
+        "word": "小电驴新国标9月1日实施",
+        "onboard_time": 1756623860,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124630,
+        "num": 124630,
+        "word": "羽毛球世锦赛",
+        "onboard_time": 1756639580,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121881,
+        "num": 121881,
+        "word": "檀健次 帮专家想个文案",
+        "onboard_time": 1756643663,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121482,
+        "num": 121482,
+        "word": "仙逆",
+        "onboard_time": 1756636820,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120586,
+        "num": 120586,
+        "word": "苏超",
+        "onboard_time": 1756641922,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114206,
+        "num": 114206,
+        "word": "快30岁才知道雷军这些话都是真的",
+        "onboard_time": 1756630340,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113255,
+        "num": 113255,
+        "word": "偶遇毕雯珺颜人中吃火锅",
+        "onboard_time": 1756640661,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109972,
+        "num": 109972,
+        "word": "WE对战EDG",
+        "onboard_time": 1756636100,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107935,
+        "num": 107935,
+        "word": "山东泰山vs北京国安",
+        "onboard_time": 1756638861,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105437,
+        "num": 105437,
+        "word": "刘诗诗晒答谢宴合照",
+        "onboard_time": 1756626381,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104445,
+        "num": 104445,
+        "word": "王一博长空之王被写入期刊论文",
+        "onboard_time": 1756643841,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100865,
+        "num": 100865,
+        "word": "臭名昭著731部队的孪生兄弟",
+        "onboard_time": 1756633042,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100782,
+        "num": 100782,
+        "word": "苏超南京vs镇江",
+        "onboard_time": 1756642642,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100425,
+        "num": 100425,
+        "word": "足迹",
+        "onboard_time": 1756644503,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99668,
+        "num": 99668,
+        "word": "解放军亮相越南阅兵彩排全场尖叫",
+        "onboard_time": 1756643962,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94953,
+        "num": 94953,
+        "word": "吃宵夜和饿着睡哪个危害大",
+        "onboard_time": 1756643481,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96015,
+        "num": 94901,
+        "word": "天天吃撑身体会有什么变化",
+        "onboard_time": 1756635440,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见亚美尼亚总理#"
+    }
+  }
+}

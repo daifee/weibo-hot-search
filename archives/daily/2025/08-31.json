@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756644319523,
+  "endTime": 1756645196810,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 962522,
-      "num": 244612,
+      "num": 281778,
       "word": "成人安抚奶嘴夜间订单量暴增",
       "onboard_time": 1756634840,
       "rank": 16,
@@ -97,6 +97,14 @@
       "onboard_time": 1756610480,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 749179,
+      "num": 1119868,
+      "word": "樊振东vs鲁伊斯",
+      "onboard_time": 1756642582,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 740685,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 539802,
-      "num": 242001,
+      "num": 281604,
       "word": "那英怒了",
       "onboard_time": 1756637060,
       "rank": 11,
@@ -185,6 +193,14 @@
       "onboard_time": 1756607721,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 513201,
+      "num": 513201,
+      "word": "上合峰会欢迎宴会",
+      "onboard_time": 1756641861,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 498507,
@@ -235,12 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 415315,
-      "num": 415315,
-      "word": "上合峰会欢迎宴会",
-      "onboard_time": 1756641861,
-      "rank": 1,
-      "category": "国内时政"
+      "raw_hot": 413890,
+      "num": 413890,
+      "word": "陈雨菲vs山口茜",
+      "onboard_time": 1756642762,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 412222,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 366116,
-      "num": 227052,
+      "num": 248431,
       "word": "女子高铁上疯狂推前排座椅",
       "onboard_time": 1756637060,
       "rank": 13,
@@ -323,10 +339,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 358695,
-      "num": 358695,
-      "word": "樊振东vs鲁伊斯",
-      "onboard_time": 1756642582,
+      "raw_hot": 359747,
+      "num": 359747,
+      "word": "樊振东德甲首秀",
+      "onboard_time": 1756637781,
       "rank": 5,
       "category": "体育"
     },
@@ -403,22 +419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 328902,
-      "num": 328902,
-      "word": "陈雨菲vs山口茜",
-      "onboard_time": 1756642762,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 322859,
-      "num": 322859,
-      "word": "樊振东德甲首秀",
-      "onboard_time": 1756637781,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 321691,
       "num": 229246,
       "word": "开学焦虑更严重的另有其人",
@@ -475,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292726,
+      "num": 292726,
+      "word": "樊振东德甲首战不敌鲁伊斯",
+      "onboard_time": 1756645161,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292706,
       "num": 292706,
       "word": "中方敦促美方立即纠正错误做法",
@@ -491,8 +499,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283697,
+      "num": 283697,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1756643542,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 283077,
+      "num": 283077,
+      "word": "王源高音有种直冲天灵盖的爽感",
+      "onboard_time": 1756641803,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 282538,
-      "num": 226233,
+      "num": 244995,
       "word": "伊朗最高领袖中文发文谈中伊关系",
       "onboard_time": 1756639460,
       "rank": 30,
@@ -563,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262753,
+      "num": 262753,
+      "word": "王曼昱逗笑孙颖莎",
+      "onboard_time": 1756644382,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260144,
       "num": 233055,
       "word": "王源演唱会偶遇了张真源严浩翔",
@@ -609,14 +641,6 @@
       "onboard_time": 1756621102,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242108,
-      "num": 228368,
-      "word": "王源高音有种直冲天灵盖的爽感",
-      "onboard_time": 1756641803,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 233860,
@@ -723,6 +747,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 206210,
+      "num": 144680,
+      "word": "德甲樊振东vs杜达",
+      "onboard_time": 1756643722,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206180,
       "num": 206180,
       "word": "深圳大学1比1山东鲁能",
@@ -795,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199902,
+      "num": 144799,
+      "word": "中国女排1比3不敌法国队",
+      "onboard_time": 1756644261,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199543,
       "num": 199543,
       "word": "尚公主造型指导黄薇",
@@ -819,14 +859,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 198697,
-      "num": 223901,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1756643542,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 197754,
       "num": 197754,
       "word": "外卖员妈妈暴雨中将孩子托付派出所",
@@ -849,14 +881,6 @@
       "onboard_time": 1756613961,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195748,
-      "num": 144799,
-      "word": "中国女排1比3不敌法国队",
-      "onboard_time": 1756644261,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 195626,
@@ -923,12 +947,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187333,
+      "num": 187333,
+      "word": "张康乐生日直播解放天性了",
+      "onboard_time": 1756644503,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186653,
       "num": 186653,
       "word": "丁禹兮真的不考虑开个情商班吗",
       "onboard_time": 1756627641,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186463,
+      "num": 166369,
+      "word": "为什么吃海底捞前要先上个坡",
+      "onboard_time": 1756644624,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186451,
@@ -1003,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175986,
+      "num": 166264,
+      "word": "樊振东德甲首战",
+      "onboard_time": 1756643722,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175221,
       "num": 175221,
       "word": "台北年轻人来大陆旅行颠覆三观",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1756606100,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166198,
+      "num": 166198,
+      "word": "被AI造黄谣女运动员发声",
+      "onboard_time": 1756644141,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 165468,
@@ -1131,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154636,
+      "num": 229044,
+      "word": "电动自行车时速不得超过25公里",
+      "onboard_time": 1756641320,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154428,
       "num": 154428,
       "word": "让张柏芝林家谦粤语合唱的是天才",
@@ -1163,14 +1227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152102,
-      "num": 144680,
-      "word": "德甲樊振东vs杜达",
-      "onboard_time": 1756643722,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151954,
       "num": 151954,
       "word": "我承认多读书真的太酷了",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1756553421,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150875,
+      "num": 143932,
+      "word": "不要用三十年前的钥匙开现在的门",
+      "onboard_time": 1756644441,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 149492,
@@ -1217,6 +1281,14 @@
       "onboard_time": 1756631300,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 147119,
+      "num": 147119,
+      "word": "王子文被低估的中女内核",
+      "onboard_time": 1756644022,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 147095,
@@ -1739,14 +1811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113732,
-      "num": 229044,
-      "word": "电动自行车时速不得超过25公里",
-      "onboard_time": 1756641320,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113418,
       "num": 113418,
       "word": "陕西Shaanxi官方标准拼音",
@@ -1793,6 +1857,14 @@
       "onboard_time": 1756626681,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109972,
+      "num": 109972,
+      "word": "WE对战EDG",
+      "onboard_time": 1756636100,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 109962,
@@ -1859,14 +1931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108016,
-      "num": 108016,
-      "word": "王子文被低估的中女内核",
-      "onboard_time": 1756644022,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107988,
       "num": 107988,
       "word": "蒋振邦魏雅欣0比2陈堂杰杜颐沩",
@@ -1905,14 +1969,6 @@
       "onboard_time": 1756570641,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 105832,
-      "num": 105832,
-      "word": "被AI造黄谣女运动员发声",
-      "onboard_time": 1756644141,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 105679,
@@ -1987,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100425,
+      "num": 100425,
+      "word": "足迹",
+      "onboard_time": 1756644503,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100275,
       "num": 147610,
       "word": "谁教魏哲鸣冷脸跳这些的",
@@ -2001,6 +2065,14 @@
       "onboard_time": 1756639761,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99668,
+      "num": 99668,
+      "word": "解放军亮相越南阅兵彩排全场尖叫",
+      "onboard_time": 1756643962,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99543,
@@ -2361,14 +2433,6 @@
       "onboard_time": 1756630882,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 85016,
-      "num": 85016,
-      "word": "WE对战EDG",
-      "onboard_time": 1756636100,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 84620,
@@ -3076,7 +3140,7 @@
     },
     {
       "raw_hot": 32570,
-      "num": 373196,
+      "num": 431898,
       "word": "一支视频看天津的桥桥桥桥桥",
       "onboard_time": 1756572499,
       "rank": 20,
