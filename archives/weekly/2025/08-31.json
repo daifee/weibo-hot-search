@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756669007649,
+  "endTime": 1756671969836,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -4051,6 +4051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17423,
+      "num": 17423,
+      "word": "对华关系是越南对外政策头等优先",
+      "onboard_time": 1756669214,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17137,
       "num": 54372,
       "word": "敖瑞鹏松弛感",
@@ -4105,6 +4113,14 @@
       "onboard_time": 1756584615,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12469,
+      "num": 18727,
+      "word": "9月多项惠民新政影响你的生活",
+      "onboard_time": 1756670715,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12352,
