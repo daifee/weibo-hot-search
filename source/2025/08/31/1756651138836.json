@@ -1,0 +1,410 @@
+{
+  "runTime": 1756651138836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 816621,
+        "num": 1130659,
+        "word": "消费贷的国补要来了",
+        "onboard_time": 1756647024,
+        "rank": 0,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 603325,
+        "num": 603325,
+        "word": "樊振东德甲首战不敌鲁伊斯",
+        "onboard_time": 1756645161,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1603,
+        "num": 502442,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 460937,
+        "num": 460937,
+        "word": "颁奖前陈雨菲哭了",
+        "onboard_time": 1756648402,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430365,
+        "num": 430365,
+        "word": "王楚钦2比3徐瑛彬",
+        "onboard_time": 1756646543,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354668,
+        "num": 354668,
+        "word": "中国排面亮相越南气场拉满了",
+        "onboard_time": 1756645282,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283469,
+        "num": 283469,
+        "word": "鹿晗邓超一起gogogo出发咯",
+        "onboard_time": 1756650204,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250141,
+        "num": 250141,
+        "word": "王子文被低估的中女内核",
+        "onboard_time": 1756644022,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244655,
+        "num": 244655,
+        "word": "上合峰会欢迎宴会",
+        "onboard_time": 1756641861,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71337,
+        "num": 244200,
+        "word": "上合峰会外方领导人全部抵达天津",
+        "onboard_time": 1756648582,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 501155,
+        "num": 234370,
+        "word": "伪装者",
+        "onboard_time": 1756649604,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393644,
+        "num": 222945,
+        "word": "为什么吃海底捞前要先上个坡",
+        "onboard_time": 1756644624,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324492,
+        "num": 213094,
+        "word": "孟子义刘亦菲同款妆造",
+        "onboard_time": 1756646481,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211279,
+        "num": 211279,
+        "word": "敬山水",
+        "onboard_time": 1756650324,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205344,
+        "num": 205344,
+        "word": "潘玮柏演唱会嘉宾是薛之谦",
+        "onboard_time": 1756647562,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199311,
+        "num": 199311,
+        "word": "迪丽热巴说尝试比完美更重要",
+        "onboard_time": 1756645282,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197439,
+        "num": 197439,
+        "word": "樊振东第4盘加油",
+        "onboard_time": 1756647803,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197426,
+        "num": 197426,
+        "word": "王曼昱逗笑孙颖莎",
+        "onboard_time": 1756644382,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182425,
+        "num": 182425,
+        "word": "TTG对战WB",
+        "onboard_time": 1756642222,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152417,
+        "num": 152417,
+        "word": "山东泰山6比0北京国安",
+        "onboard_time": 1756648284,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1347848,
+        "num": 152024,
+        "word": "宋轶回应整容",
+        "onboard_time": 1756630101,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575304,
+        "num": 150021,
+        "word": "成人安抚奶嘴夜间订单量暴增",
+        "onboard_time": 1756634840,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489009,
+        "num": 146789,
+        "word": "北京暴雨",
+        "onboard_time": 1756646543,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313941,
+        "num": 143598,
+        "word": "那英怒了",
+        "onboard_time": 1756637060,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204198,
+        "num": 141616,
+        "word": "赵丽颖永远别向后看",
+        "onboard_time": 1756650444,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140831,
+        "num": 140831,
+        "word": "樊振东2比3鲁伊斯",
+        "onboard_time": 1756647742,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131848,
+        "num": 131848,
+        "word": "女子高铁上疯狂推前排座椅",
+        "onboard_time": 1756637060,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418574,
+        "num": 131373,
+        "word": "鹿晗说给邓超上点压力",
+        "onboard_time": 1756645823,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130644,
+        "num": 130644,
+        "word": "周深的刀马刀马好可爱",
+        "onboard_time": 1756646362,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87709,
+        "num": 130600,
+        "word": "胡彦斌的斌是嘉宾的宾",
+        "onboard_time": 1756648522,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 811405,
+        "num": 129316,
+        "word": "听到伯贤提何炅好奇妙",
+        "onboard_time": 1756645944,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156407,
+        "num": 127864,
+        "word": "安东内利撞上勒克莱尔",
+        "onboard_time": 1756650923,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149010,
+        "num": 127393,
+        "word": "法拉利双车退赛",
+        "onboard_time": 1756650923,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126609,
+        "num": 126609,
+        "word": "9月1日新规上线",
+        "onboard_time": 1756650923,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116513,
+        "num": 126605,
+        "word": "许昕不敌18岁小将发文回家",
+        "onboard_time": 1756635262,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114728,
+        "num": 126599,
+        "word": "全红婵要开学了",
+        "onboard_time": 1756647681,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114572,
+        "num": 126590,
+        "word": "樊振东牵着球童蹦蹦跳跳进场",
+        "onboard_time": 1756649723,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110880,
+        "num": 126582,
+        "word": "新疆沙漠首次发现盐水丰年虾",
+        "onboard_time": 1756637301,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107139,
+        "num": 126569,
+        "word": "失利后的王楚钦一脸严肃",
+        "onboard_time": 1756650383,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93275,
+        "num": 126564,
+        "word": "TTG风龙团韧性翻盘",
+        "onboard_time": 1756650324,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77141,
+        "num": 126558,
+        "word": "华晨宇神级舞台有闪电划过",
+        "onboard_time": 1756648822,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104979,
+        "num": 126550,
+        "word": "羽毛球世锦赛",
+        "onboard_time": 1756639580,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104621,
+        "num": 126539,
+        "word": "伊朗最高领袖中文发文谈中伊关系",
+        "onboard_time": 1756639460,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104414,
+        "num": 126528,
+        "word": "7岁女童在动物园被小老虎咬伤",
+        "onboard_time": 1756638141,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102790,
+        "num": 126525,
+        "word": "不要用三十年前的钥匙开现在的门",
+        "onboard_time": 1756644441,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101627,
+        "num": 126515,
+        "word": "让家长打扫教室学校潜规则该打破了",
+        "onboard_time": 1756649783,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101120,
+        "num": 126503,
+        "word": "樊振东vs鲁伊斯",
+        "onboard_time": 1756642582,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98331,
+        "num": 126500,
+        "word": "樊振东德甲首秀",
+        "onboard_time": 1756637781,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90654,
+        "num": 126487,
+        "word": "特朗普取消前往印度参加峰会",
+        "onboard_time": 1756646782,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90587,
+        "num": 126478,
+        "word": "德甲樊振东vs杜达",
+        "onboard_time": 1756643722,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见莫迪#"
+    }
+  }
+}
