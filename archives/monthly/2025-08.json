@@ -1,6 +1,6 @@
 {
   "startTime": 1753979776949,
-  "endTime": 1756615335237,
+  "endTime": 1756617799973,
   "band_list": [
     {
       "raw_hot": 19030207,
@@ -11521,6 +11521,14 @@
       "onboard_time": 1754734464,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 607336,
+      "num": 219033,
+      "word": "张维伊对96岁的姥姥说长命百岁",
+      "onboard_time": 1756614441,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 607052,
@@ -23380,7 +23388,7 @@
     },
     {
       "raw_hot": 311476,
-      "num": 216763,
+      "num": 218667,
       "word": "以为张艺兴穿的蓝色抹胸",
       "onboard_time": 1756611021,
       "rank": 18,
@@ -27715,6 +27723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254763,
+      "num": 311355,
+      "word": "心动的信号8",
+      "onboard_time": 1754303962,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254566,
       "num": 254566,
       "word": "金泰亨开球",
@@ -31179,6 +31195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223679,
+      "num": 151952,
+      "word": "居然有演员一句台词背1小时",
+      "onboard_time": 1756615341,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223674,
       "num": 223674,
       "word": "中国游客接连在马尔代夫溺亡",
@@ -32179,14 +32203,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 216265,
-      "num": 311355,
-      "word": "心动的信号8",
-      "onboard_time": 1754303962,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216263,
       "num": 272073,
       "word": "全新小鹏P7内饰首曝",
@@ -32369,6 +32385,14 @@
       "onboard_time": 1756283364,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215196,
+      "num": 215196,
+      "word": "钱天一vs孙颖莎",
+      "onboard_time": 1756617442,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 215182,
@@ -32873,6 +32897,14 @@
       "onboard_time": 1755827844,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 212642,
+      "num": 212642,
+      "word": "龚俊的体面只给旅游前几天",
+      "onboard_time": 1756612881,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 212595,
@@ -34409,6 +34441,14 @@
       "onboard_time": 1754743823,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206180,
+      "num": 206180,
+      "word": "深圳大学1比1山东鲁能",
+      "onboard_time": 1756617322,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 206160,
@@ -39467,14 +39507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 191568,
-      "num": 191568,
-      "word": "张维伊对96岁的姥姥说长命百岁",
-      "onboard_time": 1756614441,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191539,
       "num": 191539,
       "word": "特朗普盯上驻韩美军基地土地所有权",
@@ -43547,6 +43579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179416,
+      "num": 179416,
+      "word": "王乐晨卢远约会机车版头文字D",
+      "onboard_time": 1756617022,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179411,
       "num": 179411,
       "word": "IG对战WBG",
@@ -44128,14 +44168,6 @@
       "word": "小北 我失心疯了",
       "onboard_time": 1755239722,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177273,
-      "num": 177273,
-      "word": "龚俊的体面只给旅游前几天",
-      "onboard_time": 1756612881,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -45129,6 +45161,14 @@
       "onboard_time": 1755515902,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174612,
+      "num": 174612,
+      "word": "开学焦虑更严重的另有其人",
+      "onboard_time": 1756615402,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 174581,
@@ -73923,6 +73963,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119056,
+      "num": 118665,
+      "word": "印尼首都交通瘫痪",
+      "onboard_time": 1756616721,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 119055,
       "num": 119055,
       "word": "DeepSeek9月6日起取消夜间优惠",
@@ -74155,6 +74203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118688,
+      "num": 118688,
+      "word": "那英小发雷霆",
+      "onboard_time": 1756616482,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118667,
       "num": 118667,
       "word": "普通人要不要买折叠屏",
@@ -74217,6 +74273,14 @@
       "onboard_time": 1756362923,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118596,
+      "num": 118596,
+      "word": "iPhone17散热",
+      "onboard_time": 1756616602,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 118564,
@@ -75867,6 +75931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115789,
+      "num": 115789,
+      "word": "我点外卖没用上券就这样",
+      "onboard_time": 1756616301,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115775,
       "num": 115775,
       "word": "英国女子收留黑人流浪汉后被杀",
@@ -76329,6 +76401,14 @@
       "onboard_time": 1754478145,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 114965,
+      "num": 114965,
+      "word": "孙颖莎小时候真来过新疆",
+      "onboard_time": 1756616482,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 114932,
@@ -78977,6 +79057,14 @@
       "onboard_time": 1754316086,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110541,
+      "num": 110541,
+      "word": "这居然是白举纲",
+      "onboard_time": 1756616182,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 110476,
@@ -84427,6 +84515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100275,
+      "num": 100275,
+      "word": "谁教魏哲鸣冷脸跳这些的",
+      "onboard_time": 1756615702,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100197,
       "num": 100197,
       "word": "孙颖莎餐厅吃饭路透",
@@ -86147,6 +86243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96587,
+      "num": 96587,
+      "word": "张紫宁转行当拉拉队经理人了",
+      "onboard_time": 1756615462,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96562,
       "num": 96562,
       "word": "A股又大涨",
@@ -87539,6 +87643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93498,
+      "num": 93498,
+      "word": "停狗位停满了小狗",
+      "onboard_time": 1756615760,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93486,
       "num": 93486,
       "word": "试验二十八号B星02星发射成功",
@@ -88795,6 +88907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89792,
+      "num": 93494,
+      "word": "唯一接受的绝交方式出现了",
+      "onboard_time": 1756617681,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89777,
       "num": 89777,
       "word": "孙颖莎配合的项目信任是第一位",
@@ -89769,6 +89889,14 @@
       "onboard_time": 1756525880,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86505,
+      "num": 93490,
+      "word": "95后00后恋爱有代沟",
+      "onboard_time": 1756615341,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 86485,
@@ -94836,7 +94964,7 @@
     },
     {
       "raw_hot": 65456,
-      "num": 124879,
+      "num": 134862,
       "word": "王菲最新状态",
       "onboard_time": 1756614800,
       "rank": 28,
@@ -96769,6 +96897,14 @@
       "onboard_time": 1756535240,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56954,
+      "num": 172133,
+      "word": "俄军称掌握战略主动权",
+      "onboard_time": 1756616602,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56922,
@@ -100896,6 +101032,14 @@
       "word": "新说唱总决赛",
       "onboard_time": 1753958244,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 41012,
+      "num": 105201,
+      "word": "那英去龚俊张晚意房间吹空调",
+      "onboard_time": 1756617322,
+      "rank": 39,
       "category": "综艺"
     },
     {
