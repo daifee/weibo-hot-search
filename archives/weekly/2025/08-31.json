@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756682570452,
+  "endTime": 1756683417061,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2421498,
-      "num": 156026,
+      "num": 188485,
       "word": "石宇奇",
       "onboard_time": 1756656021,
       "rank": 10,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376393,
+      "num": 376393,
+      "word": "山东一小学新生报到名字惊艳众人",
+      "onboard_time": 1756655542,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368896,
       "num": 368896,
       "word": "王曼昱逗笑孙颖莎",
@@ -505,14 +513,6 @@
       "onboard_time": 1756637781,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355725,
-      "num": 355725,
-      "word": "山东一小学新生报到名字惊艳众人",
-      "onboard_time": 1756655542,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 354668,
@@ -601,6 +601,14 @@
       "onboard_time": 1756559123,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332724,
+      "num": 102063,
+      "word": "9月财运最旺的星座",
+      "onboard_time": 1756681518,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 332667,
@@ -731,14 +739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 281247,
-      "num": 102063,
-      "word": "9月财运最旺的星座",
-      "onboard_time": 1756681518,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 279733,
       "num": 236560,
       "word": "旺旺总经理赴京看九三阅兵",
@@ -867,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243901,
+      "num": 243901,
+      "word": "脸上长火疖子黑头闭口怎么办",
+      "onboard_time": 1756681217,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 236401,
       "num": 236401,
       "word": "小孩儿姐暑假作业只有体育做完了",
@@ -915,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228040,
+      "num": 228040,
+      "word": "国羽男单时隔10年再夺世锦赛冠军",
+      "onboard_time": 1756659679,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227558,
       "num": 227558,
       "word": "兰大连续3年打地铺让新生家长免费住",
@@ -944,14 +960,6 @@
       "word": "王楚钦vs徐瑛彬",
       "onboard_time": 1756640781,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 218355,
-      "num": 218355,
-      "word": "国羽男单时隔10年再夺世锦赛冠军",
-      "onboard_time": 1756659679,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -1041,6 +1049,14 @@
       "onboard_time": 1756562965,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205652,
+      "num": 205652,
+      "word": "开学",
+      "onboard_time": 1756651344,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 205614,
@@ -1148,7 +1164,7 @@
     },
     {
       "raw_hot": 199050,
-      "num": 147402,
+      "num": 187125,
       "word": "美网抢帽子男子系波兰富豪",
       "onboard_time": 1756657639,
       "rank": 46,
@@ -1275,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187244,
+      "num": 89859,
+      "word": "九月",
+      "onboard_time": 1756683318,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186653,
       "num": 186653,
       "word": "丁禹兮真的不考虑开个情商班吗",
@@ -1340,7 +1364,7 @@
     },
     {
       "raw_hot": 181700,
-      "num": 151908,
+      "num": 193732,
       "word": "香港小姐14强佳丽均是高学历",
       "onboard_time": 1756655121,
       "rank": 15,
@@ -1491,6 +1515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164166,
+      "num": 99468,
+      "word": "陈咏诗港姐冠军",
+      "onboard_time": 1756681518,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162855,
       "num": 162855,
       "word": "苏州1比2南通",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1756613541,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153798,
-      "num": 153798,
-      "word": "脸上长火疖子黑头闭口怎么办",
-      "onboard_time": 1756681217,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 153569,
@@ -1843,6 +1867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139126,
+      "num": 99344,
+      "word": "梓渝泥潭入围亚洲流行音乐大奖",
+      "onboard_time": 1756682000,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139106,
       "num": 181999,
       "word": "圣坛组合夺世锦赛冠军",
@@ -2035,12 +2067,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126709,
-      "num": 99468,
-      "word": "陈咏诗港姐冠军",
-      "onboard_time": 1756681518,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 126894,
+      "num": 89546,
+      "word": "莫迪四次拒接特朗普电话后奔向中日",
+      "onboard_time": 1756681757,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126470,
@@ -2313,14 +2345,6 @@
       "onboard_time": 1756635800,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114988,
-      "num": 114988,
-      "word": "开学",
-      "onboard_time": 1756651344,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 114978,
@@ -2731,14 +2755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99344,
-      "num": 99344,
-      "word": "梓渝泥潭入围亚洲流行音乐大奖",
-      "onboard_time": 1756682000,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 98891,
       "num": 84010,
       "word": "一次性解决所有铁锅粘锅问题",
@@ -2936,6 +2952,14 @@
       "word": "许昕真的回家了",
       "onboard_time": 1756634181,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90595,
+      "num": 90595,
+      "word": "队友回应樊振东德甲首秀失利",
+      "onboard_time": 1756682958,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -3355,6 +3379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76673,
+      "num": 76673,
+      "word": "小猫守着晕车的猫爸爸",
+      "onboard_time": 1756683018,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76422,
       "num": 76422,
       "word": "樊振东外国球迷练习中文加油",
@@ -3515,14 +3547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 70046,
-      "num": 70046,
-      "word": "莫迪四次拒接特朗普电话后奔向中日",
-      "onboard_time": 1756681757,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69231,
       "num": 230122,
       "word": "王楚钦蛐蛐对面穿错衣服",
@@ -3609,6 +3633,14 @@
       "onboard_time": 1756625301,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65469,
+      "num": 65469,
+      "word": "石宇奇世锦赛后发文",
+      "onboard_time": 1756683380,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 65426,
@@ -3715,6 +3747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58569,
+      "num": 58569,
+      "word": "无限暖暖",
+      "onboard_time": 1756682659,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55892,
       "num": 104624,
       "word": "终于等到刘宪华雨中限定版trap",
@@ -3729,6 +3769,14 @@
       "onboard_time": 1756570283,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53572,
+      "num": 61886,
+      "word": "羽毛球世锦赛男双",
+      "onboard_time": 1756682238,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 52535,
@@ -3763,7 +3811,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 47586,
+      "raw_hot": 48427,
       "num": 61891,
       "word": "5岁半小狗捡瓶子日入50元",
       "onboard_time": 1756672454,
@@ -3785,14 +3833,6 @@
       "onboard_time": 1756659318,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 45953,
-      "num": 61886,
-      "word": "羽毛球世锦赛男双",
-      "onboard_time": 1756682238,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 45498,
@@ -3897,6 +3937,14 @@
       "onboard_time": 1756573758,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37190,
+      "num": 61883,
+      "word": "天津的魅力让老外一秒融入",
+      "onboard_time": 1756682538,
+      "rank": 41,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 37024,
@@ -4201,14 +4249,6 @@
       "onboard_time": 1756588935,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 13992,
-      "num": 61883,
-      "word": "天津的魅力让老外一秒融入",
-      "onboard_time": 1756682538,
-      "rank": 41,
-      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 12981,
