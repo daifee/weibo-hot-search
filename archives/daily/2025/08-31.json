@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756625769157,
+  "endTime": 1756628934186,
   "band_list": [
     {
       "raw_hot": 1691794,
@@ -81,6 +81,14 @@
       "onboard_time": 1756610480,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 713745,
+      "num": 180296,
+      "word": "刘诗诗晒答谢宴合照",
+      "onboard_time": 1756626381,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 695018,
@@ -307,6 +315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306664,
+      "num": 178038,
+      "word": "恋爱羞耻症",
+      "onboard_time": 1756626740,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 302776,
       "num": 231343,
       "word": "金子涵居然瘦成这样",
@@ -419,20 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233860,
+      "num": 171944,
+      "word": "居然有演员一句台词背1小时",
+      "onboard_time": 1756615341,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233835,
+      "num": 233835,
+      "word": "为什么赶作业导致呼吸性碱中毒",
+      "onboard_time": 1756625060,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231050,
       "num": 231050,
       "word": "王曼昱钱天一3比2蒯曼孙颖莎",
       "onboard_time": 1756613240,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223679,
-      "num": 165022,
-      "word": "居然有演员一句台词背1小时",
-      "onboard_time": 1756615341,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 212642,
@@ -609,6 +633,14 @@
       "onboard_time": 1756611321,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186653,
+      "num": 186653,
+      "word": "丁禹兮真的不考虑开个情商班吗",
+      "onboard_time": 1756627641,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 186451,
@@ -867,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139525,
+      "num": 139525,
+      "word": "许昕说运动员必须要规范自己的发球",
+      "onboard_time": 1756626320,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139019,
       "num": 139019,
       "word": "刘宪华拉断弓毛这一幕",
@@ -1075,6 +1115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 118396,
+      "num": 118396,
+      "word": "王影璐演技",
+      "onboard_time": 1756626681,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117833,
       "num": 147779,
       "word": "刘宇宁腿长得有点犯规了",
@@ -1171,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114056,
+      "num": 114056,
+      "word": "舒服但伤身的5个习惯",
+      "onboard_time": 1756623681,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113418,
       "num": 113418,
       "word": "陕西Shaanxi官方标准拼音",
@@ -1179,11 +1235,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113243,
+      "num": 113243,
+      "word": "王楚钦说自己水平和孙闻差不多",
+      "onboard_time": 1756628002,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110541,
       "num": 147651,
       "word": "这居然是白举纲",
       "onboard_time": 1756616182,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110012,
+      "num": 110012,
+      "word": "陈赫穿的真是裤子",
+      "onboard_time": 1756626681,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109962,
+      "num": 109962,
+      "word": "综艺界一下来了三个倒霉蛋",
+      "onboard_time": 1756626801,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1251,6 +1331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105268,
+      "num": 105268,
+      "word": "当狗狗发现自己的床躺满了小猫后",
+      "onboard_time": 1756626381,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105196,
       "num": 105196,
       "word": "阎鹤祥 天知道相声对我做了什么",
@@ -1273,14 +1361,6 @@
       "onboard_time": 1756567344,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 101714,
-      "num": 101714,
-      "word": "舒服但伤身的5个习惯",
-      "onboard_time": 1756623681,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 100987,
@@ -1427,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91292,
+      "num": 91292,
+      "word": "特朗普回应白宫地面出现23米长裂缝",
+      "onboard_time": 1756625961,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89792,
       "num": 93494,
       "word": "唯一接受的绝交方式出现了",
@@ -1443,12 +1531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89625,
+      "num": 89625,
+      "word": "原来芝麻采摘前长这样",
+      "onboard_time": 1756628900,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 89504,
       "num": 89504,
       "word": "著名抗日英烈英雄群体1128名",
       "onboard_time": 1756608201,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89142,
+      "num": 93070,
+      "word": "陈星旭跟东北菜量一样的艺人",
+      "onboard_time": 1756628422,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 89021,
@@ -1491,12 +1595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87605,
+      "num": 87605,
+      "word": "罗晋演出了欺骗式婚姻的恐怖",
+      "onboard_time": 1756627401,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87462,
       "num": 87462,
       "word": "火锅局吃成了谈判局",
       "onboard_time": 1756612581,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87347,
+      "num": 92314,
+      "word": "地铁19号线里能坐航母",
+      "onboard_time": 1756625603,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87225,
@@ -1553,6 +1673,14 @@
       "onboard_time": 1756601901,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83443,
+      "num": 83443,
+      "word": "靠吃东西也能提升专注力",
+      "onboard_time": 1756627940,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 82676,
@@ -1627,14 +1755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 75901,
-      "num": 82894,
-      "word": "为什么赶作业导致呼吸性碱中毒",
-      "onboard_time": 1756625060,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 75805,
       "num": 44885,
       "word": "白敬亭说刀马是吧等着",
@@ -1649,6 +1769,14 @@
       "onboard_time": 1756614800,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 75726,
+      "num": 75726,
+      "word": "广东海鲜价格大跳水",
+      "onboard_time": 1756628002,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75358,
@@ -1691,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73361,
+      "num": 73361,
+      "word": "王楚钦曾因扔拍被乒协处罚",
+      "onboard_time": 1756628481,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71915,
       "num": 227012,
       "word": "日本发动侵略战争祸首究竟是谁",
@@ -1713,6 +1849,14 @@
       "onboard_time": 1756602380,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69824,
+      "num": 73337,
+      "word": "男子解手被蛇咬迅速抓蛇就医",
+      "onboard_time": 1756628840,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69231,
@@ -1787,14 +1931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64485,
-      "num": 92314,
-      "word": "地铁19号线里能坐航母",
-      "onboard_time": 1756625603,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64261,
       "num": 227553,
       "word": "白俄罗斯总统说加入上合是美妙礼物",
@@ -1857,6 +1993,14 @@
       "onboard_time": 1756570283,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52535,
+      "num": 182832,
+      "word": "龙象共舞应是中印双方的正确选择",
+      "onboard_time": 1756628002,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48487,
@@ -2057,6 +2201,14 @@
       "onboard_time": 1756575378,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27943,
+      "num": 87660,
+      "word": "田曦薇控泪",
+      "onboard_time": 1756628481,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 25544,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1756628934186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 604943,
+        "num": 1096790,
+        "word": "大学生暑假工挣16000老板当场发工资",
+        "onboard_time": 1756619782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259563,
+        "num": 259563,
+        "word": "小电驴新国标9月1日实施",
+        "onboard_time": 1756623860,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2287,
+        "num": 252569,
+        "word": "始终高举上海精神旗帜",
+        "onboard_time": 1756550481,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247789,
+        "num": 247789,
+        "word": "许昕发博回家",
+        "onboard_time": 1756619481,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233835,
+        "num": 233835,
+        "word": "为什么赶作业导致呼吸性碱中毒",
+        "onboard_time": 1756625060,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231305,
+        "num": 231305,
+        "word": "香港1200架无人机重现日本投降矣",
+        "onboard_time": 1756611021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227896,
+        "num": 227896,
+        "word": "陕西历史博物馆回应将陕西拼为Shaanxi",
+        "onboard_time": 1756620083,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186653,
+        "num": 186653,
+        "word": "丁禹兮真的不考虑开个情商班吗",
+        "onboard_time": 1756627641,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130325,
+        "num": 185126,
+        "word": "尚公主物料审美",
+        "onboard_time": 1756620142,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52535,
+        "num": 182832,
+        "word": "龙象共舞应是中印双方的正确选择",
+        "onboard_time": 1756628002,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 713745,
+        "num": 180296,
+        "word": "刘诗诗晒答谢宴合照",
+        "onboard_time": 1756626381,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590258,
+        "num": 179577,
+        "word": "妈宝女看不了孙怡这段",
+        "onboard_time": 1756621461,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306664,
+        "num": 178038,
+        "word": "恋爱羞耻症",
+        "onboard_time": 1756626740,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261066,
+        "num": 175401,
+        "word": "许昕疑似不满裁判判罚",
+        "onboard_time": 1756621522,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233860,
+        "num": 171944,
+        "word": "居然有演员一句台词背1小时",
+        "onboard_time": 1756615341,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187676,
+        "num": 171177,
+        "word": "特朗普称想把中国留学生扩至60万",
+        "onboard_time": 1756618341,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169553,
+        "num": 169553,
+        "word": "那英去龚俊张晚意房间吹空调",
+        "onboard_time": 1756617322,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163480,
+        "num": 163480,
+        "word": "00后男生0.6秒飞针采血惊呆患者",
+        "onboard_time": 1756605199,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147477,
+        "num": 147477,
+        "word": "台湾信息茧房",
+        "onboard_time": 1756621102,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139525,
+        "num": 139525,
+        "word": "许昕说运动员必须要规范自己的发球",
+        "onboard_time": 1756626320,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139281,
+        "num": 139281,
+        "word": "张艺凡又被认成101了",
+        "onboard_time": 1756618341,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138903,
+        "num": 138903,
+        "word": "女生苦练化妆1年的变化",
+        "onboard_time": 1756611680,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132952,
+        "num": 132952,
+        "word": "降低慢性炎症的好处太多了",
+        "onboard_time": 1756621102,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126808,
+        "num": 126808,
+        "word": "王源下台偷偷抹眼泪",
+        "onboard_time": 1756623681,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118396,
+        "num": 118396,
+        "word": "王影璐演技",
+        "onboard_time": 1756626681,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114056,
+        "num": 114056,
+        "word": "舒服但伤身的5个习惯",
+        "onboard_time": 1756623681,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113243,
+        "num": 113243,
+        "word": "王楚钦说自己水平和孙闻差不多",
+        "onboard_time": 1756628002,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110012,
+        "num": 110012,
+        "word": "陈赫穿的真是裤子",
+        "onboard_time": 1756626681,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109962,
+        "num": 109962,
+        "word": "综艺界一下来了三个倒霉蛋",
+        "onboard_time": 1756626801,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105268,
+        "num": 105268,
+        "word": "当狗狗发现自己的床躺满了小猫后",
+        "onboard_time": 1756626381,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95259,
+        "num": 95259,
+        "word": "日本动漫血汗工厂",
+        "onboard_time": 1756622422,
+        "rank": 30,
+        "category": "海外新闻,动漫"
+      },
+      {
+        "raw_hot": 95087,
+        "num": 95087,
+        "word": "张维伊对96岁的姥姥说长命百岁",
+        "onboard_time": 1756614441,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94741,
+        "num": 94741,
+        "word": "大闸蟹开湖倒计时",
+        "onboard_time": 1756624401,
+        "rank": 32,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 93967,
+        "num": 93967,
+        "word": "奶奶的供桌上只剩下我的准考证",
+        "onboard_time": 1756622121,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89142,
+        "num": 93070,
+        "word": "陈星旭跟东北菜量一样的艺人",
+        "onboard_time": 1756628422,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92951,
+        "num": 92951,
+        "word": "普京带3位副总理10多位部长到中国",
+        "onboard_time": 1756610480,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91292,
+        "num": 91292,
+        "word": "特朗普回应白宫地面出现23米长裂缝",
+        "onboard_time": 1756625961,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90469,
+        "num": 90469,
+        "word": "肖战一次次出现在暑假屏幕里",
+        "onboard_time": 1756623502,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89625,
+        "num": 89625,
+        "word": "原来芝麻采摘前长这样",
+        "onboard_time": 1756628900,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 27943,
+        "num": 87660,
+        "word": "田曦薇控泪",
+        "onboard_time": 1756628481,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87605,
+        "num": 87605,
+        "word": "罗晋演出了欺骗式婚姻的恐怖",
+        "onboard_time": 1756627401,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87347,
+        "num": 87347,
+        "word": "地铁19号线里能坐航母",
+        "onboard_time": 1756625603,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87013,
+        "num": 87013,
+        "word": "尚公主开机",
+        "onboard_time": 1756602440,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83443,
+        "num": 83443,
+        "word": "靠吃东西也能提升专注力",
+        "onboard_time": 1756627940,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75726,
+        "num": 75726,
+        "word": "广东海鲜价格大跳水",
+        "onboard_time": 1756628002,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75085,
+        "num": 75085,
+        "word": "孟子义李昀锐定妆照",
+        "onboard_time": 1756607721,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73361,
+        "num": 73361,
+        "word": "王楚钦曾因扔拍被乒协处罚",
+        "onboard_time": 1756628481,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70308,
+        "num": 73359,
+        "word": "冷冻太久的肉就不要再吃了",
+        "onboard_time": 1756608440,
+        "rank": 47,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 69824,
+        "num": 73337,
+        "word": "男子解手被蛇咬迅速抓蛇就医",
+        "onboard_time": 1756628840,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62653,
+        "num": 73334,
+        "word": "心动的信号8",
+        "onboard_time": 1756613301,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见马尔代夫总统穆伊兹#"
+    }
+  }
+}
