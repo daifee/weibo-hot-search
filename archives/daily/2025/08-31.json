@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756647600438,
+  "endTime": 1756650101469,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -67,6 +67,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1037074,
+      "num": 529207,
+      "word": "听到伯贤提何炅好奇妙",
+      "onboard_time": 1756645944,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 962522,
       "num": 281778,
       "word": "成人安抚奶嘴夜间订单量暴增",
@@ -107,6 +115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 765521,
+      "num": 765521,
+      "word": "消费贷的国补要来了",
+      "onboard_time": 1756647024,
+      "rank": 14,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 749179,
       "num": 1119868,
       "word": "樊振东vs鲁伊斯",
@@ -131,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 650707,
+      "num": 200911,
+      "word": "北京暴雨",
+      "onboard_time": 1756646543,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 637007,
       "num": 253072,
       "word": "那英去龚俊张晚意房间吹空调",
@@ -145,6 +169,14 @@
       "onboard_time": 1756614441,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 587987,
+      "num": 587987,
+      "word": "颁奖前陈雨菲哭了",
+      "onboard_time": 1756648402,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 575959,
@@ -171,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 554347,
+      "num": 343133,
+      "word": "鹿晗说给邓超上点压力",
+      "onboard_time": 1756645823,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 543181,
       "num": 543181,
       "word": "女孩跳河救人后提前转正",
@@ -193,14 +233,6 @@
       "onboard_time": 1756607721,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 529207,
-      "num": 529207,
-      "word": "听到伯贤提何炅好奇妙",
-      "onboard_time": 1756645944,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 527072,
@@ -233,6 +265,14 @@
       "onboard_time": 1756629382,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492758,
+      "num": 492758,
+      "word": "王楚钦2比3徐瑛彬",
+      "onboard_time": 1756646543,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 469943,
@@ -272,14 +312,6 @@
       "word": "中国女排无缘世锦赛八强",
       "onboard_time": 1756642522,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 446067,
-      "num": 446067,
-      "word": "王楚钦2比3徐瑛彬",
-      "onboard_time": 1756646543,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -331,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376753,
+      "num": 376753,
+      "word": "王子文被低估的中女内核",
+      "onboard_time": 1756644022,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368896,
       "num": 368896,
       "word": "王曼昱逗笑孙颖莎",
@@ -361,14 +401,6 @@
       "onboard_time": 1756637060,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 365665,
-      "num": 343133,
-      "word": "鹿晗说给邓超上点压力",
-      "onboard_time": 1756645823,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 362788,
@@ -451,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 341900,
+      "num": 255306,
+      "word": "孟子义刘亦菲同款妆造",
+      "onboard_time": 1756646481,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 341515,
       "num": 232130,
       "word": "嫂嫂开门我是我哥被拍出来了",
@@ -499,14 +539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 327968,
-      "num": 200911,
-      "word": "北京暴雨",
-      "onboard_time": 1756646543,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 321691,
       "num": 229246,
       "word": "开学焦虑更严重的另有其人",
@@ -537,6 +569,14 @@
       "onboard_time": 1756611021,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 305136,
+      "num": 305136,
+      "word": "中国排面亮相越南气场拉满了",
+      "onboard_time": 1756645282,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 302776,
@@ -619,14 +659,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 271802,
-      "num": 271802,
-      "word": "王子文被低估的中女内核",
-      "onboard_time": 1756644022,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270551,
       "num": 163306,
       "word": "餐馆带袋煮饺子",
@@ -673,14 +705,6 @@
       "onboard_time": 1756606100,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 253465,
-      "num": 253465,
-      "word": "消费贷的国补要来了",
-      "onboard_time": 1756647024,
-      "rank": 14,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 252984,
@@ -771,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216300,
+      "num": 216300,
+      "word": "樊振东第4盘加油",
+      "onboard_time": 1756647803,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215040,
       "num": 215040,
       "word": "披荆斩棘",
@@ -785,14 +817,6 @@
       "onboard_time": 1756612881,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211889,
-      "num": 211889,
-      "word": "中国排面亮相越南气场拉满了",
-      "onboard_time": 1756645282,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 211852,
@@ -1059,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187299,
+      "num": 187299,
+      "word": "山东泰山6比0北京国安",
+      "onboard_time": 1756648284,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186653,
       "num": 186653,
       "word": "丁禹兮真的不考虑开个情商班吗",
@@ -1179,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172182,
+      "num": 275291,
+      "word": "潘玮柏演唱会嘉宾是薛之谦",
+      "onboard_time": 1756647562,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170383,
       "num": 133049,
       "word": "易烊千玺会在世界的吻里懂得一切",
@@ -1223,6 +1263,14 @@
       "num": 166795,
       "word": "全伊伦特别主演",
       "onboard_time": 1756606100,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166223,
+      "num": 166223,
+      "word": "伪装者",
+      "onboard_time": 1756649604,
       "rank": 19,
       "category": "剧集"
     },
@@ -1273,14 +1321,6 @@
       "onboard_time": 1756637781,
       "rank": 8,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 159062,
-      "num": 159062,
-      "word": "孟子义刘亦菲同款妆造",
-      "onboard_time": 1756646481,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 158379,
@@ -1483,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144554,
+      "num": 144554,
+      "word": "胡彦斌的斌是嘉宾的宾",
+      "onboard_time": 1756648522,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143073,
       "num": 143073,
       "word": "奶奶的供桌上只剩下我的准考证",
@@ -1571,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137098,
+      "num": 137098,
+      "word": "全红婵要开学了",
+      "onboard_time": 1756647681,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136847,
       "num": 121301,
       "word": "当我教小猫学习爬楼梯",
@@ -1627,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132176,
+      "num": 132176,
+      "word": "樊振东2比3鲁伊斯",
+      "onboard_time": 1756647742,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131973,
       "num": 230880,
       "word": "肖国栋冠军",
@@ -1657,6 +1721,14 @@
       "onboard_time": 1756646903,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129954,
+      "num": 142744,
+      "word": "华晨宇神级舞台有闪电划过",
+      "onboard_time": 1756648822,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 129811,
@@ -1859,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116769,
+      "num": 141029,
+      "word": "伪装者十周年",
+      "onboard_time": 1756649124,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116760,
       "num": 116760,
       "word": "苏超南京vs镇江",
@@ -1995,6 +2075,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 112160,
+      "num": 141011,
+      "word": "王一博句句都是致敬英雄",
+      "onboard_time": 1756648943,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 111679,
       "num": 121356,
       "word": "管乐说能跟子涵过一辈子",
@@ -2089,14 +2177,6 @@
       "onboard_time": 1756617921,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108656,
-      "num": 108656,
-      "word": "潘玮柏演唱会嘉宾是薛之谦",
-      "onboard_time": 1756647562,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 108510,
@@ -2411,6 +2491,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 93126,
+      "num": 107298,
+      "word": "让家长打扫教室学校潜规则该打破了",
+      "onboard_time": 1756649783,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92707,
       "num": 92707,
       "word": "潘玮柏回应自费上百厨大战",
@@ -2553,6 +2641,14 @@
       "onboard_time": 1756627401,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87489,
+      "num": 107282,
+      "word": "苏超镇江1比2南京",
+      "onboard_time": 1756648522,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 87462,
@@ -2937,6 +3033,14 @@
       "onboard_time": 1756631181,
       "rank": 47,
       "category": "剧集,休闲"
+    },
+    {
+      "raw_hot": 73445,
+      "num": 112196,
+      "word": "樊振东牵着球童蹦蹦跳跳进场",
+      "onboard_time": 1756649723,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 72304,
@@ -3582,6 +3686,9 @@
     },
     {
       "word": "#大道不孤众行致远#"
+    },
+    {
+      "word": "#习近平和彭丽媛举行欢迎宴会#"
     }
   ]
 }
