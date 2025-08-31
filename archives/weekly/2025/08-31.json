@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756654681377,
+  "endTime": 1756657731402,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -128,6 +128,14 @@
       "word": "许昕发博回家",
       "onboard_time": 1756619481,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 829612,
+      "num": 156026,
+      "word": "石宇奇",
+      "onboard_time": 1756656021,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -595,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 326939,
+      "num": 326939,
+      "word": "篡改电动自行车电池的人这下消停了",
+      "onboard_time": 1756654161,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321691,
       "num": 229246,
       "word": "开学焦虑更严重的另有其人",
@@ -673,6 +689,14 @@
       "onboard_time": 1756632081,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289217,
+      "num": 153679,
+      "word": "樊振东不想草率回应质疑",
+      "onboard_time": 1756655062,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 283469,
@@ -819,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236401,
+      "num": 236401,
+      "word": "小孩儿姐暑假作业只有体育做完了",
+      "onboard_time": 1756651763,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233860,
       "num": 171944,
       "word": "居然有演员一句台词背1小时",
@@ -953,14 +985,6 @@
       "onboard_time": 1756646481,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206913,
-      "num": 235756,
-      "word": "小孩儿姐暑假作业只有体育做完了",
-      "onboard_time": 1756651763,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206210,
@@ -1187,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190045,
+      "num": 190045,
+      "word": "山东一小学新生报到名字惊艳众人",
+      "onboard_time": 1756655542,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188592,
       "num": 129769,
       "word": "孟子义一半魔丸一半灵珠",
@@ -1352,6 +1384,14 @@
       "word": "奢香夫人周深只需起个头",
       "onboard_time": 1756602800,
       "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 168942,
+      "num": 123199,
+      "word": "邓超给鹿晗带程奶奶凉菜",
+      "onboard_time": 1756654943,
+      "rank": 23,
       "category": "演出"
     },
     {
@@ -1569,6 +1609,14 @@
       "onboard_time": 1756553421,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150898,
+      "num": 150898,
+      "word": "香港小姐14强佳丽均是高学历",
+      "onboard_time": 1756655121,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 150875,
@@ -2627,6 +2675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98239,
+      "num": 121972,
+      "word": "男生6天穷游北京仅花650元",
+      "onboard_time": 1756654821,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97887,
       "num": 97887,
       "word": "抗战主题展览年均500余个",
@@ -2969,6 +3025,14 @@
       "onboard_time": 1756616602,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85996,
+      "num": 121496,
+      "word": "边伯贤说何老师很有名",
+      "onboard_time": 1756657220,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 85774,
@@ -3347,14 +3411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 71014,
-      "num": 182143,
-      "word": "篡改电动自行车电池的人这下消停了",
-      "onboard_time": 1756654161,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70281,
       "num": 70281,
       "word": "全红婵抱上谢思埸的宝宝了",
@@ -3403,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67786,
+      "num": 181903,
+      "word": "30多万人攻坚造出国产大飞机",
+      "onboard_time": 1756654642,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67269,
       "num": 228130,
       "word": "苏新皓绝美36秒",
@@ -3417,6 +3481,14 @@
       "onboard_time": 1756635800,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66741,
+      "num": 120837,
+      "word": "邓紫棋把琥珀流光穿身上",
+      "onboard_time": 1756655542,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 66587,
@@ -3529,14 +3601,6 @@
       "onboard_time": 1756563084,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60744,
-      "num": 181903,
-      "word": "30多万人攻坚造出国产大飞机",
-      "onboard_time": 1756654642,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59038,
