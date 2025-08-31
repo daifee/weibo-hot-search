@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756609920631,
+  "endTime": 1756610836784,
   "band_list": [
     {
       "raw_hot": 1691794,
@@ -51,20 +51,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558471,
+      "num": 201011,
+      "word": "谈恋爱3个月定律",
+      "onboard_time": 1756605801,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 543181,
       "num": 543181,
       "word": "女孩跳河救人后提前转正",
       "onboard_time": 1756598718,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531178,
-      "num": 197338,
-      "word": "谈恋爱3个月定律",
-      "onboard_time": 1756605801,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 527072,
@@ -83,8 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492448,
-      "num": 187428,
+      "raw_hot": 494216,
+      "num": 198209,
       "word": "孟子义李昀锐定妆照",
       "onboard_time": 1756607721,
       "rank": 13,
@@ -121,6 +121,14 @@
       "onboard_time": 1756566204,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354260,
+      "num": 190890,
+      "word": "纪凌尘出演孟子义新剧",
+      "onboard_time": 1756608201,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 344926,
@@ -219,6 +227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256887,
+      "num": 186834,
+      "word": "霍建华病娇疯批演爽了",
+      "onboard_time": 1756609820,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250741,
       "num": 228567,
       "word": "黄子韬龚俊被网红说一般",
@@ -235,12 +251,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 233245,
-      "num": 181346,
-      "word": "纪凌尘出演孟子义新剧",
-      "onboard_time": 1756608201,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 241480,
+      "num": 241480,
+      "word": "王曼昱钱天一vs蒯曼孙颖莎",
+      "onboard_time": 1756609040,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 210397,
@@ -307,14 +323,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 197226,
-      "num": 103938,
-      "word": "王曼昱钱天一vs蒯曼孙颖莎",
-      "onboard_time": 1756609040,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195081,
       "num": 195081,
       "word": "三宝对倪萍李维嘉的态度",
@@ -347,8 +355,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172777,
-      "num": 148705,
+      "raw_hot": 175210,
+      "num": 164271,
       "word": "冷冻太久的肉就不要再吃了",
       "onboard_time": 1756608440,
       "rank": 21,
@@ -377,6 +385,14 @@
       "onboard_time": 1756606100,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165468,
+      "num": 203272,
+      "word": "土耳其总统埃尔多安抵达天津",
+      "onboard_time": 1756607781,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 161694,
@@ -409,6 +425,14 @@
       "onboard_time": 1756576577,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151954,
+      "num": 151954,
+      "word": "我承认多读书真的太酷了",
+      "onboard_time": 1756610121,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 151099,
@@ -499,20 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134894,
-      "num": 203272,
-      "word": "土耳其总统埃尔多安抵达天津",
-      "onboard_time": 1756607781,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 131973,
       "num": 230880,
       "word": "肖国栋冠军",
       "onboard_time": 1756567522,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127479,
+      "num": 165181,
+      "word": "宋亚轩这是真上桌了",
+      "onboard_time": 1756610421,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 126470,
@@ -539,6 +563,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119497,
+      "num": 119497,
+      "word": "恭迎昀牵孟绕回宫",
+      "onboard_time": 1756609400,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119356,
+      "num": 119356,
+      "word": "外卖员妈妈暴雨中将孩子托付派出所",
+      "onboard_time": 1756609460,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119091,
       "num": 229118,
       "word": "董璇张维伊因请帖起争执",
@@ -555,6 +595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116563,
+      "num": 116563,
+      "word": "花13个小时做的千元美甲",
+      "onboard_time": 1756604900,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 114978,
       "num": 85350,
       "word": "林书豪生涯总薪资约6571万美元",
@@ -563,20 +611,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114422,
+      "num": 114422,
+      "word": "金价又站上历史高位",
+      "onboard_time": 1756607301,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114128,
       "num": 230348,
       "word": "敖瑞鹏回应不刮胡子",
       "onboard_time": 1756553542,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110883,
-      "num": 110883,
-      "word": "金价又站上历史高位",
-      "onboard_time": 1756607301,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 109094,
@@ -593,14 +641,6 @@
       "onboard_time": 1756595596,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108381,
-      "num": 108381,
-      "word": "花13个小时做的千元美甲",
-      "onboard_time": 1756604900,
-      "rank": 37,
-      "category": "美妆"
     },
     {
       "raw_hot": 107548,
@@ -643,6 +683,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 102827,
+      "num": 102827,
+      "word": "美美sunday被小沈阳唱出玻璃球",
+      "onboard_time": 1756610300,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100987,
       "num": 100987,
       "word": "发现蟹堡王是蟹笼",
@@ -657,6 +705,22 @@
       "onboard_time": 1756604420,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97887,
+      "num": 97887,
+      "word": "抗战主题展览年均500余个",
+      "onboard_time": 1756610602,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 96784,
+      "num": 164944,
+      "word": "普京带3位副总理10多位部长到中国",
+      "onboard_time": 1756610480,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94930,
@@ -731,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87518,
-      "num": 87518,
-      "word": "霍建华病娇疯批演爽了",
-      "onboard_time": 1756609820,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87225,
       "num": 229363,
       "word": "华晨宇 我第一次秀肌肉有点笨拙",
@@ -779,14 +835,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 83217,
-      "num": 83217,
-      "word": "外卖员妈妈暴雨中将孩子托付派出所",
-      "onboard_time": 1756609460,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82558,
       "num": 228940,
       "word": "邓紫棋紧急撤回失败",
@@ -825,6 +873,14 @@
       "onboard_time": 1756563983,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77138,
+      "num": 77138,
+      "word": "南波万你们要骗我多少眼泪",
+      "onboard_time": 1756610421,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 75805,
@@ -969,14 +1025,6 @@
       "onboard_time": 1756572139,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 54852,
-      "num": 89204,
-      "word": "恭迎昀牵孟绕回宫",
-      "onboard_time": 1756609400,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 54636,
@@ -1163,12 +1211,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25544,
+      "num": 102869,
+      "word": "这个对视纯正昀牵孟绕味",
+      "onboard_time": 1756610602,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22401,
       "num": 52579,
       "word": "登陆少年演唱会直拍",
       "onboard_time": 1756578076,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22190,
+      "num": 103153,
+      "word": "每天悬挂3分钟的神奇功效",
+      "onboard_time": 1756609940,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 21300,
