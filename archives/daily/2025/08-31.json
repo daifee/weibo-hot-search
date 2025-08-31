@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756636805636,
+  "endTime": 1756639169023,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -57,6 +57,14 @@
       "onboard_time": 1756564884,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 962522,
+      "num": 160654,
+      "word": "成人安抚奶嘴夜间订单量暴增",
+      "onboard_time": 1756634840,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 897242,
@@ -179,11 +187,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 479823,
-      "num": 134436,
-      "word": "成人安抚奶嘴夜间订单量暴增",
-      "onboard_time": 1756634840,
-      "rank": 16,
+      "raw_hot": 463837,
+      "num": 1074214,
+      "word": "臭名昭著731部队的孪生兄弟",
+      "onboard_time": 1756633042,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 361784,
+      "num": 361784,
+      "word": "早春晴朗开拍",
+      "onboard_time": 1756636760,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354260,
       "num": 248439,
       "word": "纪凌尘出演孟子义新剧",
@@ -268,19 +284,11 @@
     },
     {
       "raw_hot": 353287,
-      "num": 136610,
+      "num": 156796,
       "word": "我是王勉我同意何广智买单",
       "onboard_time": 1756635320,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345041,
-      "num": 345041,
-      "word": "臭名昭著731部队的孪生兄弟",
-      "onboard_time": 1756633042,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 344926,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313712,
+      "num": 313712,
+      "word": "中国女排vs法国女排",
+      "onboard_time": 1756636760,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311476,
       "num": 218667,
       "word": "以为张艺兴穿的蓝色抹胸",
@@ -400,6 +416,22 @@
       "word": "反诈老陈称酷派拦截了自己购买的手机",
       "onboard_time": 1756632081,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287325,
+      "num": 159146,
+      "word": "那英怒了",
+      "onboard_time": 1756637060,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 281964,
+      "num": 157504,
+      "word": "女子高铁上疯狂推前排座椅",
+      "onboard_time": 1756637060,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -515,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239520,
+      "num": 239520,
+      "word": "樊振东德甲首秀",
+      "onboard_time": 1756637781,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233860,
       "num": 171944,
       "word": "居然有演员一句台词背1小时",
@@ -563,20 +603,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211857,
+      "num": 154094,
+      "word": "许昕不敌18岁小将发文回家",
+      "onboard_time": 1756635262,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211852,
       "num": 211852,
       "word": "美美sunday被小沈阳唱出玻璃球",
       "onboard_time": 1756610300,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 211691,
-      "num": 115680,
-      "word": "许昕不敌18岁小将发文回家",
-      "onboard_time": 1756635262,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 210397,
@@ -723,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194758,
+      "num": 120562,
+      "word": "王楚钦vs闫安",
+      "onboard_time": 1756639040,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193594,
       "num": 231157,
       "word": "贺峻霖主持控场王",
@@ -803,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179544,
-      "num": 179544,
-      "word": "早春晴朗开拍",
-      "onboard_time": 1756636760,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179416,
       "num": 179416,
       "word": "王乐晨卢远约会机车版头文字D",
@@ -841,6 +881,14 @@
       "onboard_time": 1756635262,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169965,
+      "num": 158363,
+      "word": "仙逆",
+      "onboard_time": 1756636820,
+      "rank": 12,
+      "category": "动漫"
     },
     {
       "raw_hot": 169719,
@@ -889,6 +937,14 @@
       "onboard_time": 1756566444,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160805,
+      "num": 160805,
+      "word": "新疆沙漠首次发现盐水丰年虾",
+      "onboard_time": 1756637301,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158379,
@@ -963,6 +1019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150402,
+      "num": 150402,
+      "word": "天天吃撑身体会有什么变化",
+      "onboard_time": 1756635440,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 149492,
       "num": 149492,
       "word": "陈赫刘宇宁陈星旭成站哥了",
@@ -979,14 +1043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148586,
-      "num": 148586,
-      "word": "中国女排vs法国女排",
-      "onboard_time": 1756636760,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148234,
       "num": 148234,
       "word": "王楚钦说自己水平和孙闻差不多",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1756631300,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 147095,
+      "num": 147095,
+      "word": "龚俊李沁张雅琪一根安全带上的蚂蚱",
+      "onboard_time": 1756637541,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 146661,
@@ -1043,12 +1107,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144669,
-      "num": 109965,
-      "word": "天天吃撑身体会有什么变化",
-      "onboard_time": 1756635440,
-      "rank": 30,
-      "category": "科学科普"
+      "raw_hot": 143818,
+      "num": 143818,
+      "word": "7岁女童在动物园被小老虎咬伤",
+      "onboard_time": 1756638141,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143073,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1756621461,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139952,
+      "num": 162922,
+      "word": "杨幂接受中国日报文字专访",
+      "onboard_time": 1756637781,
+      "rank": 8,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 139019,
@@ -1331,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117572,
+      "num": 154447,
+      "word": "时代少年团侬晓得TNT伐",
+      "onboard_time": 1756637900,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117374,
       "num": 117374,
       "word": "周深疑似失去了所有力气和手段",
@@ -1441,6 +1521,14 @@
       "onboard_time": 1756623681,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113960,
+      "num": 113960,
+      "word": "林昀儒周启豪vs闫安松岛辉空",
+      "onboard_time": 1756639040,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 113418,
@@ -1635,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100550,
+      "num": 100550,
+      "word": "中国女排0比2法国女排",
+      "onboard_time": 1756639100,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100275,
       "num": 147610,
       "word": "谁教魏哲鸣冷脸跳这些的",
@@ -1644,7 +1740,7 @@
     },
     {
       "raw_hot": 99543,
-      "num": 134231,
+      "num": 155955,
       "word": "iQOO杯已经nextlevel了",
       "onboard_time": 1756635262,
       "rank": 15,
@@ -1963,6 +2059,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85538,
+      "num": 85538,
+      "word": "王源回应汪苏泷",
+      "onboard_time": 1756639040,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 85016,
+      "num": 85016,
+      "word": "WE对战EDG",
+      "onboard_time": 1756636100,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84620,
       "num": 84620,
       "word": "王源我想把这玩意染成绿的",
@@ -2009,6 +2121,14 @@
       "onboard_time": 1756627940,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83025,
+      "num": 120831,
+      "word": "与晋长安",
+      "onboard_time": 1756637600,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 82731,
@@ -2081,6 +2201,22 @@
       "onboard_time": 1756602860,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79762,
+      "num": 79762,
+      "word": "中国女排0比1法国女排",
+      "onboard_time": 1756639100,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79716,
+      "num": 79716,
+      "word": "张雅琪说马思纯头围超立体",
+      "onboard_time": 1756638321,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 79317,
@@ -2243,6 +2379,14 @@
       "category": "剧集,休闲"
     },
     {
+      "raw_hot": 72304,
+      "num": 79417,
+      "word": "侵华日军第100部队曾播撒细菌毒液",
+      "onboard_time": 1756637420,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71915,
       "num": 227012,
       "word": "日本发动侵略战争祸首究竟是谁",
@@ -2289,6 +2433,14 @@
       "onboard_time": 1756597277,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68515,
+      "num": 79216,
+      "word": "意大利游泳名将涉嫌偷窃被抓",
+      "onboard_time": 1756637060,
+      "rank": 48,
+      "category": "体育,海外新闻"
     },
     {
       "raw_hot": 68101,
@@ -2435,14 +2587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60832,
-      "num": 70992,
-      "word": "WE对战EDG",
-      "onboard_time": 1756636100,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 59038,
       "num": 110341,
       "word": "严重缺觉的6个表现",
@@ -2529,6 +2673,14 @@
       "onboard_time": 1756595716,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43258,
+      "num": 85110,
+      "word": "螃蟹当饭吃是什么体验",
+      "onboard_time": 1756639100,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 43046,
@@ -2628,7 +2780,7 @@
     },
     {
       "raw_hot": 32570,
-      "num": 234628,
+      "num": 337668,
       "word": "一支视频看天津的桥桥桥桥桥",
       "onboard_time": 1756572499,
       "rank": 20,
