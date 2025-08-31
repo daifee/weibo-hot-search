@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756661893249,
+  "endTime": 1756665151378,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -2587,6 +2587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 103932,
+      "num": 121496,
+      "word": "边伯贤说何老师很有名",
+      "onboard_time": 1756657220,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103787,
       "num": 103787,
       "word": "终于有樊振东德甲首秀的实感了",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1756631001,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101304,
+      "num": 63116,
+      "word": "孟子义被烫李昀锐的反应",
+      "onboard_time": 1756661657,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100987,
@@ -3041,14 +3057,6 @@
       "onboard_time": 1756616602,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 85996,
-      "num": 121496,
-      "word": "边伯贤说何老师很有名",
-      "onboard_time": 1756657220,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 85774,
@@ -3819,14 +3827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38034,
-      "num": 63116,
-      "word": "孟子义被烫李昀锐的反应",
-      "onboard_time": 1756661657,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 37024,
       "num": 37024,
       "word": "2025年羽毛球世锦赛",
@@ -3995,6 +3995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20560,
+      "num": 38856,
+      "word": "汪苏泷晒王源演唱会嘉宾工作证",
+      "onboard_time": 1756662496,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 20349,
       "num": 717461,
       "word": "始终高举上海精神旗帜",
@@ -4003,12 +4011,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20276,
+      "num": 38840,
+      "word": "开学",
+      "onboard_time": 1756651344,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 19879,
       "num": 74115,
       "word": "大国外交开启繁忙模式",
       "onboard_time": 1756596497,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19862,
+      "num": 38806,
+      "word": "初音未来",
+      "onboard_time": 1756664955,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 17137,
