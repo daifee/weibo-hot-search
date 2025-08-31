@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756678992634,
+  "endTime": 1756679995091,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -803,6 +803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 255414,
+      "num": 255414,
+      "word": "山东一小学新生报到名字惊艳众人",
+      "onboard_time": 1756655542,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252984,
       "num": 252984,
       "word": "王曼昱钱天一vs蒯曼孙颖莎",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1756599559,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204302,
-      "num": 204302,
-      "word": "山东一小学新生报到名字惊艳众人",
-      "onboard_time": 1756655542,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204198,
@@ -1731,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144968,
+      "num": 98265,
+      "word": "美网抢帽子男子系波兰富豪",
+      "onboard_time": 1756657639,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 144665,
       "num": 144665,
       "word": "王赫野咋把蚊帐穿身上了",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1756619661,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127790,
-      "num": 98265,
-      "word": "美网抢帽子男子系波兰富豪",
-      "onboard_time": 1756657639,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 126470,
@@ -3635,6 +3635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62104,
+      "num": 62104,
+      "word": "兰大连续3年打地铺让新生家长免费住",
+      "onboard_time": 1756676835,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59614,
       "num": 72068,
       "word": "陈雨菲受伤瞬间感觉天塌了",
@@ -3899,6 +3907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32487,
+      "num": 48202,
+      "word": "5岁半小狗捡瓶子日入50元",
+      "onboard_time": 1756672454,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31995,
       "num": 216494,
       "word": "九三阅兵徒步方队铿锵步伐",
@@ -3915,6 +3931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30939,
+      "num": 48134,
+      "word": "开学",
+      "onboard_time": 1756651344,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 30417,
       "num": 31842,
       "word": "王楚钦脖子抻出去二里地",
@@ -3929,14 +3953,6 @@
       "onboard_time": 1756575258,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29295,
-      "num": 40352,
-      "word": "兰大连续3年打地铺让新生家长免费住",
-      "onboard_time": 1756676835,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29103,
@@ -3956,19 +3972,19 @@
     },
     {
       "raw_hot": 28283,
-      "num": 40344,
+      "num": 47696,
       "word": "华晨宇萌的不知天地为何物了",
       "onboard_time": 1756678695,
       "rank": 22,
       "category": "演出"
     },
     {
-      "raw_hot": 26657,
-      "num": 40317,
-      "word": "5岁半小狗捡瓶子日入50元",
-      "onboard_time": 1756672454,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 27510,
+      "num": 47918,
+      "word": "华晨宇像小孩子一样活泼",
+      "onboard_time": 1756679296,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 26551,
@@ -3985,14 +4001,6 @@
       "onboard_time": 1756610602,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23983,
-      "num": 40311,
-      "word": "开学",
-      "onboard_time": 1756651344,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 22401,
@@ -4051,6 +4059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20457,
+      "num": 47597,
+      "word": "王子文早期的文字",
+      "onboard_time": 1756666334,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20349,
       "num": 717461,
       "word": "始终高举上海精神旗帜",
@@ -4067,28 +4083,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18920,
-      "num": 34736,
-      "word": "王子文早期的文字",
-      "onboard_time": 1756666334,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18449,
-      "num": 40289,
-      "word": "AI合成内容需亮明身份",
-      "onboard_time": 1756671434,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17949,
-      "num": 40281,
+      "raw_hot": 19375,
+      "num": 47523,
       "word": "对华关系是越南对外政策头等优先",
       "onboard_time": 1756669214,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18945,
+      "num": 47466,
+      "word": "AI合成内容需亮明身份",
+      "onboard_time": 1756671434,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17137,
