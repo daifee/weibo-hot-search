@@ -1,0 +1,410 @@
+{
+  "runTime": 1756605469575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010571,
+        "num": 1161691,
+        "word": "普京抵达天津",
+        "onboard_time": 1756603400,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 543181,
+        "num": 543181,
+        "word": "女孩跳河救人后提前转正",
+        "onboard_time": 1756598718,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22629,
+        "num": 448619,
+        "word": "开学季网警来送网络安全课了",
+        "onboard_time": 1756596077,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1474936,
+        "num": 446507,
+        "word": "尚公主全阵容官宣",
+        "onboard_time": 1756602740,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392147,
+        "num": 392147,
+        "word": "林书豪退役",
+        "onboard_time": 1756599860,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1384886,
+        "num": 389258,
+        "word": "尚公主开机",
+        "onboard_time": 1756602440,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 695018,
+        "num": 379140,
+        "word": "唐朝诡事录",
+        "onboard_time": 1756599320,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344926,
+        "num": 344926,
+        "word": "金价大涨两大原因",
+        "onboard_time": 1756600760,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292706,
+        "num": 292706,
+        "word": "中方敦促美方立即纠正错误做法",
+        "onboard_time": 1756600459,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274618,
+        "num": 274618,
+        "word": "iPhone17国行预计涨价500元",
+        "onboard_time": 1756598898,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195081,
+        "num": 195081,
+        "word": "三宝对倪萍李维嘉的态度",
+        "onboard_time": 1756595898,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183214,
+        "num": 183214,
+        "word": "又被中国战机大片燃到了",
+        "onboard_time": 1756600101,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178014,
+        "num": 178014,
+        "word": "嫂嫂开门我是我哥被拍出来了",
+        "onboard_time": 1756560803,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158810,
+        "num": 158810,
+        "word": "00后男生0.6秒飞针采血惊呆患者",
+        "onboard_time": 1756605199,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152633,
+        "num": 152633,
+        "word": "奢香夫人周深只需起个头",
+        "onboard_time": 1756602800,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144662,
+        "num": 144662,
+        "word": "农村女孩靠摆盘从职校生干到了副教授",
+        "onboard_time": 1756566084,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137974,
+        "num": 137974,
+        "word": "JackeyLove不确定明年退役",
+        "onboard_time": 1756598898,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119938,
+        "num": 119938,
+        "word": "院人要做一辈子的好朋友",
+        "onboard_time": 1756602980,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114011,
+        "num": 114011,
+        "word": "当事人回应16年后偶遇初恋光速订婚",
+        "onboard_time": 1756576577,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93602,
+        "num": 113748,
+        "word": "你好星期六暑期收视13连冠",
+        "onboard_time": 1756596497,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275380,
+        "num": 112978,
+        "word": "金价",
+        "onboard_time": 1756564884,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 232339,
+        "num": 112225,
+        "word": "尚公主",
+        "onboard_time": 1756559123,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218415,
+        "num": 111140,
+        "word": "黄子韬龚俊被网红说一般",
+        "onboard_time": 1756556902,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204943,
+        "num": 110073,
+        "word": "建议大家尽快解决不舒服的小事",
+        "onboard_time": 1756599559,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199836,
+        "num": 109514,
+        "word": "餐馆带袋煮饺子",
+        "onboard_time": 1756602740,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125117,
+        "num": 109107,
+        "word": "第一次见侏儒小猫",
+        "onboard_time": 1756595538,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108443,
+        "num": 108443,
+        "word": "王楚钦笑了一晚上",
+        "onboard_time": 1756595596,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99317,
+        "num": 99317,
+        "word": "蓝盈莹生万物战报已更正",
+        "onboard_time": 1756567225,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89828,
+        "num": 89828,
+        "word": "孟子义李昀锐上台讲话",
+        "onboard_time": 1756605320,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86597,
+        "num": 86597,
+        "word": "石宇奇晋级世锦赛决赛",
+        "onboard_time": 1756598959,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122830,
+        "num": 86236,
+        "word": "电动自行车9月起实施新国标",
+        "onboard_time": 1756605141,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119093,
+        "num": 85485,
+        "word": "女子街头晕倒怀孕妈妈跪地施救",
+        "onboard_time": 1756603642,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114978,
+        "num": 85350,
+        "word": "林书豪生涯总薪资约6571万美元",
+        "onboard_time": 1756605440,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107548,
+        "num": 84393,
+        "word": "乌克兰抓壮丁搞笑一幕",
+        "onboard_time": 1756602560,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84308,
+        "num": 84308,
+        "word": "国羽时隔14年再次5单项全进决赛",
+        "onboard_time": 1756604001,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98891,
+        "num": 84010,
+        "word": "一次性解决所有铁锅粘锅问题",
+        "onboard_time": 1756604420,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92784,
+        "num": 83550,
+        "word": "发现蟹堡王是蟹笼",
+        "onboard_time": 1756605199,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 84584,
+        "num": 82714,
+        "word": "花13个小时做的千元美甲",
+        "onboard_time": 1756604900,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 80699,
+        "num": 80699,
+        "word": "潘玮柏回应自费上百厨大战",
+        "onboard_time": 1756601119,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79907,
+        "num": 79907,
+        "word": "法国男篮斯洛文尼亚男篮冲突",
+        "onboard_time": 1756602860,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78530,
+        "num": 78530,
+        "word": "健康喝奶茶的4个关键",
+        "onboard_time": 1756601901,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75653,
+        "num": 75653,
+        "word": "王源我想把这玩意染成绿的",
+        "onboard_time": 1756602860,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74977,
+        "num": 74977,
+        "word": "李沁眼里太有活了",
+        "onboard_time": 1756599320,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74358,
+        "num": 74358,
+        "word": "陈飞宇王影璐情侣装",
+        "onboard_time": 1756566204,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73430,
+        "num": 73430,
+        "word": "国防科大高铁站迎新生气场拉满",
+        "onboard_time": 1756594937,
+        "rank": 44,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 73135,
+        "num": 73135,
+        "word": "怪不得校服裤子屁股锃亮",
+        "onboard_time": 1756605141,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70281,
+        "num": 70281,
+        "word": "全红婵抱上谢思埸的宝宝了",
+        "onboard_time": 1756602380,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69011,
+        "num": 69011,
+        "word": "上合峰会",
+        "onboard_time": 1756597277,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67891,
+        "num": 67891,
+        "word": "郑钦文通过重返赛场健康评估",
+        "onboard_time": 1756603520,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65720,
+        "num": 65720,
+        "word": "谁给蓝盈莹浇成这样的",
+        "onboard_time": 1756561884,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见埃及总理马德布利#"
+    }
+  }
+}
