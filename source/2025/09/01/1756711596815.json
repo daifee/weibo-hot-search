@@ -1,0 +1,410 @@
+{
+  "runTime": 1756711596815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 382697,
+        "num": 1061231,
+        "word": "一等功臣爷爷送孙子国防科大报到",
+        "onboard_time": 1756701263,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351269,
+        "num": 351269,
+        "word": "莫迪搭普京专车",
+        "onboard_time": 1756709721,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3341,
+        "num": 342943,
+        "word": "对华关系是越南对外政策头等优先",
+        "onboard_time": 1756669214,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 452145,
+        "num": 342735,
+        "word": "孙颖莎进入国家队十年发文",
+        "onboard_time": 1756708879,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342517,
+        "num": 342517,
+        "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
+        "onboard_time": 1756698742,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240086,
+        "num": 240086,
+        "word": "12306回应停发纸质车票",
+        "onboard_time": 1756695680,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160509,
+        "num": 240076,
+        "word": "上合成员国元首理事会天津宣言",
+        "onboard_time": 1756709781,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158037,
+        "num": 239962,
+        "word": "自律减肥400天的变化",
+        "onboard_time": 1756705100,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144753,
+        "num": 239868,
+        "word": "上合成员国元首理事会会议",
+        "onboard_time": 1756694180,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87042,
+        "num": 239847,
+        "word": "2025暑期档电影票房119.66亿元",
+        "onboard_time": 1756697061,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428629,
+        "num": 239753,
+        "word": "波兰百万富豪回应抢走小男孩帽子",
+        "onboard_time": 1756708819,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251267,
+        "num": 239711,
+        "word": "过的太爽了不敢告诉别人",
+        "onboard_time": 1756700963,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123919,
+        "num": 239620,
+        "word": "冼星海在炮声中用音乐救国",
+        "onboard_time": 1756705880,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163451,
+        "num": 239547,
+        "word": "令人心动的offer主持人季官宣",
+        "onboard_time": 1756704142,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147775,
+        "num": 239488,
+        "word": "献鱼大结局",
+        "onboard_time": 1756703121,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147141,
+        "num": 239383,
+        "word": "全款买房住5年后真房主找来了",
+        "onboard_time": 1756698440,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126371,
+        "num": 239305,
+        "word": "九三前日本做了哪些小动作",
+        "onboard_time": 1756700542,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47610,
+        "num": 239231,
+        "word": "8月每不到1分钟就有辆零跑被开走",
+        "onboard_time": 1756708341,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117440,
+        "num": 239132,
+        "word": "献鱼 番外",
+        "onboard_time": 1756709900,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116238,
+        "num": 239105,
+        "word": "孙颖莎的荣誉簿好长好长",
+        "onboard_time": 1756710141,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460995,
+        "num": 238990,
+        "word": "金价",
+        "onboard_time": 1756694961,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 244424,
+        "num": 238944,
+        "word": "全红婵大学的院长是苏炳添",
+        "onboard_time": 1756701142,
+        "rank": 21,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 159713,
+        "num": 238835,
+        "word": "第一次发现谢娜是妈妈辈的",
+        "onboard_time": 1756706001,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159073,
+        "num": 238767,
+        "word": "张予曦妈妈太了解毕雯珺了",
+        "onboard_time": 1756708341,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140888,
+        "num": 238736,
+        "word": "董璇一直在为张维伊兜底",
+        "onboard_time": 1756710980,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135611,
+        "num": 238607,
+        "word": "花少7时长统计",
+        "onboard_time": 1756703542,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120538,
+        "num": 238552,
+        "word": "毛不易 这拖鞋一穿都走不出去二里地",
+        "onboard_time": 1756710741,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31658,
+        "num": 238498,
+        "word": "约会基础喝茉莉茶的约会不基础",
+        "onboard_time": 1756710441,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106511,
+        "num": 238371,
+        "word": "你们誓死守护的中国如今繁华锦绣",
+        "onboard_time": 1756710381,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45471,
+        "num": 238310,
+        "word": "上合峰会莫迪拉着普京的手进大厅",
+        "onboard_time": 1756710980,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115155,
+        "num": 238254,
+        "word": "张晚意 龚俊亦未寝",
+        "onboard_time": 1756707502,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114934,
+        "num": 238196,
+        "word": "美国留学现状",
+        "onboard_time": 1756698381,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112282,
+        "num": 238093,
+        "word": "iPhone17Pro透明保护壳曝光",
+        "onboard_time": 1756701801,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111223,
+        "num": 238007,
+        "word": "河南一幼儿园20元餐标吃上龙虾鲍鱼",
+        "onboard_time": 1756697001,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110837,
+        "num": 237992,
+        "word": "台湾教授苑举正受邀参加九三阅兵",
+        "onboard_time": 1756697721,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107001,
+        "num": 237863,
+        "word": "老人把饺子喂给进站的入伍军人",
+        "onboard_time": 1756709421,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102127,
+        "num": 237811,
+        "word": "李乃文又拉长人中了",
+        "onboard_time": 1756706900,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87811,
+        "num": 237763,
+        "word": "上合已成世界最大区域组织",
+        "onboard_time": 1756696341,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85119,
+        "num": 237665,
+        "word": "9月1日起全民交社保纯属误读",
+        "onboard_time": 1756696699,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39695,
+        "num": 237606,
+        "word": "羽毛球世锦赛男单冠军有多难",
+        "onboard_time": 1756710801,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85012,
+        "num": 237539,
+        "word": "密室大逃脱",
+        "onboard_time": 1756704022,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82746,
+        "num": 237445,
+        "word": "罗马的马是马尔泰若曦的马",
+        "onboard_time": 1756710921,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78233,
+        "num": 237359,
+        "word": "吴敬平说樊振东首秀失利不是坏事",
+        "onboard_time": 1756702582,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78109,
+        "num": 237301,
+        "word": "赴山海",
+        "onboard_time": 1756700722,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76685,
+        "num": 237201,
+        "word": "杨幂小时代这梗过不去了",
+        "onboard_time": 1756711581,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74800,
+        "num": 237150,
+        "word": "暑假作业被狗撕碎男孩崩溃边哭边揍",
+        "onboard_time": 1756700603,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72790,
+        "num": 237080,
+        "word": "苹果新增三款过时产品",
+        "onboard_time": 1756698921,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72447,
+        "num": 236980,
+        "word": "大连有自己的jelly cat",
+        "onboard_time": 1756709959,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68855,
+        "num": 236884,
+        "word": "当周一撞上每月一号",
+        "onboard_time": 1756708941,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68071,
+        "num": 236861,
+        "word": "最适合吃饺子的盘子出现了",
+        "onboard_time": 1756698862,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同家园#"
+    }
+  }
+}
