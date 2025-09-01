@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756712390558,
+  "endTime": 1756715750994,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -57,6 +57,14 @@
       "onboard_time": 1756602440,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1293871,
+      "num": 200151,
+      "word": "九三阅兵具体安排来了",
+      "onboard_time": 1756713863,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1182334,
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485473,
+      "num": 372791,
+      "word": "莫迪搭普京专车",
+      "onboard_time": 1756709721,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 477460,
       "num": 477460,
       "word": "石宇奇夺冠教练快被打成重伤",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 462106,
-      "num": 462106,
+      "num": 479933,
       "word": "12306回应停发纸质车票",
       "onboard_time": 1756695680,
       "rank": 1,
@@ -577,14 +593,6 @@
       "onboard_time": 1756655542,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 372791,
-      "num": 372791,
-      "word": "莫迪搭普京专车",
-      "onboard_time": 1756709721,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 368896,
@@ -817,6 +825,14 @@
       "onboard_time": 1756654161,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323524,
+      "num": 238736,
+      "word": "董璇一直在为张维伊兜底",
+      "onboard_time": 1756710980,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 323188,
@@ -1067,14 +1083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 262429,
-      "num": 238736,
-      "word": "董璇一直在为张维伊兜底",
-      "onboard_time": 1756710980,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260144,
       "num": 233055,
       "word": "王源演唱会偶遇了张真源严浩翔",
@@ -1139,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247003,
+      "num": 247003,
+      "word": "普京发言人称赞中国菜肴",
+      "onboard_time": 1756712601,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 244368,
       "num": 227645,
       "word": "台湾信息茧房",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1756613240,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230621,
+      "num": 203688,
+      "word": "周翊然果郡王",
+      "onboard_time": 1756711881,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 229351,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1756638141,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221775,
+      "num": 221775,
+      "word": "这是今天上午的天安门广场",
+      "onboard_time": 1756713082,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 221454,
@@ -1995,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164032,
+      "num": 239132,
+      "word": "献鱼 番外",
+      "onboard_time": 1756709900,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162855,
       "num": 162855,
       "word": "苏州1比2南通",
@@ -2235,12 +2275,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 149589,
-      "num": 239132,
-      "word": "献鱼 番外",
-      "onboard_time": 1756709900,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 149765,
+      "num": 199834,
+      "word": "苏醒对登陆少年说不用起的含金量",
+      "onboard_time": 1756714881,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 149492,
@@ -2313,6 +2353,14 @@
       "onboard_time": 1756631241,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146389,
+      "num": 199936,
+      "word": "心动8这才是心动的信号",
+      "onboard_time": 1756714642,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 146047,
@@ -2747,6 +2795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126648,
+      "num": 199781,
+      "word": "离职前先把签证办下来",
+      "onboard_time": 1756714942,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126470,
       "num": 126470,
       "word": "刘宪华闷声干大事",
@@ -2817,6 +2873,14 @@
       "onboard_time": 1756605141,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122507,
+      "num": 200220,
+      "word": "AI让英烈看到今日中国",
+      "onboard_time": 1756714462,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122068,
@@ -3347,6 +3411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107411,
+      "num": 199831,
+      "word": "金饰克价涨到1027元",
+      "onboard_time": 1756714102,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107347,
       "num": 160769,
       "word": "谁还不知道密逃明天就播",
@@ -3393,6 +3465,14 @@
       "onboard_time": 1756709421,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106929,
+      "num": 199774,
+      "word": "德国曝光涉北溪爆炸案女潜水员照片",
+      "onboard_time": 1756713321,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106511,
@@ -3539,6 +3619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100484,
+      "num": 203779,
+      "word": "鹿晗把逛街买贵的莲子带上演唱会",
+      "onboard_time": 1756712001,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100425,
       "num": 100425,
       "word": "足迹",
@@ -3635,6 +3723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97533,
+      "num": 199892,
+      "word": "12306回应停发纸质票不便老年人",
+      "onboard_time": 1756715242,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97095,
       "num": 177530,
       "word": "明日方舟新干员三角初华",
@@ -3665,6 +3761,14 @@
       "onboard_time": 1756694180,
       "rank": 43,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 95892,
+      "num": 199887,
+      "word": "好有实力的开学痛车阵",
+      "onboard_time": 1756714401,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95761,
@@ -3947,6 +4051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88783,
+      "num": 199765,
+      "word": "黄雅琼世锦赛观后感",
+      "onboard_time": 1756714701,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88726,
       "num": 181800,
       "word": "心疼清清",
@@ -4019,6 +4131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87338,
+      "num": 199794,
+      "word": "Monki回应输给EDG",
+      "onboard_time": 1756713682,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87307,
       "num": 87307,
       "word": "门尼刘端端没有了竟然是首藏头诗",
@@ -4075,12 +4195,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86058,
+      "num": 199745,
+      "word": "助眠届新增邪修大法",
+      "onboard_time": 1756714701,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86051,
       "num": 86051,
       "word": "一诺同意开学",
       "onboard_time": 1756697121,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86008,
+      "num": 199729,
+      "word": "外貌变化带来的落差感",
+      "onboard_time": 1756713200,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 85774,
@@ -4113,6 +4249,14 @@
       "onboard_time": 1756698624,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85421,
+      "num": 199717,
+      "word": "普京在中国有宾至如归的感觉",
+      "onboard_time": 1756713142,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85348,
@@ -4307,12 +4451,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 80070,
-      "num": 203688,
-      "word": "周翊然果郡王",
-      "onboard_time": 1756711881,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 79952,
+      "num": 238310,
+      "word": "上合峰会莫迪拉着普京的手进大厅",
+      "onboard_time": 1756710980,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79936,
@@ -4483,6 +4627,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 75718,
+      "num": 199677,
+      "word": "安东尼加盟贝蒂斯",
+      "onboard_time": 1756715062,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75669,
       "num": 75669,
       "word": "最好的中辅双子星",
@@ -4585,14 +4737,6 @@
       "onboard_time": 1756709360,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 72055,
-      "num": 238310,
-      "word": "上合峰会莫迪拉着普京的手进大厅",
-      "onboard_time": 1756710980,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 71915,
@@ -4827,6 +4971,14 @@
       "category": "体育,其它"
     },
     {
+      "raw_hot": 63937,
+      "num": 199603,
+      "word": "陈小春 一句不唱但有7页歌词",
+      "onboard_time": 1756715721,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63654,
       "num": 63654,
       "word": "大学一开学家里就空了",
@@ -4947,14 +5099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51654,
-      "num": 203779,
-      "word": "鹿晗把逛街买贵的莲子带上演唱会",
-      "onboard_time": 1756712001,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 50315,
       "num": 138307,
       "word": "子涵梓萱扎堆的时代过去了",
@@ -4985,6 +5129,14 @@
       "onboard_time": 1756596858,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 46723,
+      "num": 199706,
+      "word": "成毅回应待播角色",
+      "onboard_time": 1756714942,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 45994,
@@ -5281,6 +5433,14 @@
       "onboard_time": 1756678695,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28138,
+      "num": 199695,
+      "word": "三个女人一辆车车内更香了",
+      "onboard_time": 1756715541,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 27510,
