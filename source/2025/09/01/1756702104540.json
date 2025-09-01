@@ -1,0 +1,410 @@
+{
+  "runTime": 1756702104540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 696881,
+        "num": 1111501,
+        "word": "河南一幼儿园20元餐标吃上龙虾鲍鱼",
+        "onboard_time": 1756697001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482694,
+        "num": 482694,
+        "word": "纸质火车票将正式退出历史舞台",
+        "onboard_time": 1756692919,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27505,
+        "num": 425911,
+        "word": "对华关系是越南对外政策头等优先",
+        "onboard_time": 1756669214,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 418722,
+        "num": 418722,
+        "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
+        "onboard_time": 1756698742,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376593,
+        "num": 376593,
+        "word": "12306回应停发纸质车票",
+        "onboard_time": 1756695680,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334325,
+        "num": 334325,
+        "word": "开学",
+        "onboard_time": 1756651344,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271944,
+        "num": 271944,
+        "word": "一等功臣爷爷送孙子国防科大报到",
+        "onboard_time": 1756701263,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252443,
+        "num": 252443,
+        "word": "台湾教授苑举正受邀参加九三阅兵",
+        "onboard_time": 1756697721,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190000,
+        "num": 247046,
+        "word": "上合成员国元首理事会会议",
+        "onboard_time": 1756694180,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168659,
+        "num": 237594,
+        "word": "2025暑期档电影票房119.66亿元",
+        "onboard_time": 1756697061,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 581945,
+        "num": 227225,
+        "word": "过的太爽了不敢告诉别人",
+        "onboard_time": 1756700963,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401524,
+        "num": 225875,
+        "word": "全红婵大学的院长是苏炳添",
+        "onboard_time": 1756701142,
+        "rank": 11,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 343403,
+        "num": 215671,
+        "word": "全款买房住5年后真房主找来了",
+        "onboard_time": 1756698440,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289100,
+        "num": 202653,
+        "word": "9月1日起全民交社保纯属误读",
+        "onboard_time": 1756696699,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200987,
+        "num": 200987,
+        "word": "赴山海",
+        "onboard_time": 1756700722,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199630,
+        "num": 199630,
+        "word": "心动的信号",
+        "onboard_time": 1756701322,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187367,
+        "num": 187367,
+        "word": "普京访华4天两地十多场会晤",
+        "onboard_time": 1756699400,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179495,
+        "num": 179495,
+        "word": "一年移动办公300天是什么体验",
+        "onboard_time": 1756700963,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179476,
+        "num": 179476,
+        "word": "上合已成世界最大区域组织",
+        "onboard_time": 1756696341,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154904,
+        "num": 179425,
+        "word": "吃火锅定律",
+        "onboard_time": 1756692740,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 725628,
+        "num": 179354,
+        "word": "金价",
+        "onboard_time": 1756694961,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 494146,
+        "num": 179252,
+        "word": "美国留学现状",
+        "onboard_time": 1756698381,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 362855,
+        "num": 179165,
+        "word": "爱奇艺9月待播剧综",
+        "onboard_time": 1756700303,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151188,
+        "num": 179034,
+        "word": "Model3长续航后驱版降价",
+        "onboard_time": 1756698624,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 352597,
+        "num": 179003,
+        "word": "敬山水 李庚希宋亚轩",
+        "onboard_time": 1756695920,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274743,
+        "num": 178912,
+        "word": "张晚意美美桑内一个劲的叭叭",
+        "onboard_time": 1756696580,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205095,
+        "num": 178803,
+        "word": "苹果新增三款过时产品",
+        "onboard_time": 1756698921,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187768,
+        "num": 178663,
+        "word": "00生周翊然都演爸爸了",
+        "onboard_time": 1756696220,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178651,
+        "num": 178651,
+        "word": "最适合吃饺子的盘子出现了",
+        "onboard_time": 1756698862,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176648,
+        "num": 176648,
+        "word": "梓渝泥潭入围亚洲流行音乐大奖",
+        "onboard_time": 1756682000,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172004,
+        "num": 172004,
+        "word": "iPhone17Pro透明保护壳曝光",
+        "onboard_time": 1756701801,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135310,
+        "num": 135310,
+        "word": "秦皇岛动物园遇猛虎惊魂实录",
+        "onboard_time": 1756700121,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133022,
+        "num": 133022,
+        "word": "樊振东已经在琢磨如何改进了",
+        "onboard_time": 1756690819,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129423,
+        "num": 129423,
+        "word": "买电动车注意三个月过渡期",
+        "onboard_time": 1756694660,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125313,
+        "num": 125313,
+        "word": "原来真的有人在享受高三",
+        "onboard_time": 1756697360,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125083,
+        "num": 125083,
+        "word": "九三前日本做了哪些小动作",
+        "onboard_time": 1756700542,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121184,
+        "num": 121184,
+        "word": "给小狗报了个旅狗团",
+        "onboard_time": 1756695021,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111036,
+        "num": 111036,
+        "word": "尽快建成上海合作组织开发银行",
+        "onboard_time": 1756698021,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63483,
+        "num": 109972,
+        "word": "石宇奇轻舟已过万重山",
+        "onboard_time": 1756701322,
+        "rank": 38,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 109716,
+        "num": 109716,
+        "word": "我在家猫瘾犯了就这样",
+        "onboard_time": 1756701021,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105908,
+        "num": 105908,
+        "word": "王一博从不缺席正能量大场面",
+        "onboard_time": 1756696039,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103843,
+        "num": 103843,
+        "word": "石宇奇夺冠教练快被打成重伤",
+        "onboard_time": 1756689500,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103195,
+        "num": 103195,
+        "word": "在雪国列车遇到了异国crush",
+        "onboard_time": 1756701202,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103142,
+        "num": 103142,
+        "word": "暑假作业被狗撕碎男孩崩溃边哭边揍",
+        "onboard_time": 1756700603,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99641,
+        "num": 99641,
+        "word": "中餐厅做客我们的宿舍",
+        "onboard_time": 1756701562,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90110,
+        "num": 90110,
+        "word": "9月1日第一的含量满格",
+        "onboard_time": 1756686562,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87888,
+        "num": 87888,
+        "word": "叶童秒接李艺彤罗予彤求助电话",
+        "onboard_time": 1756700902,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85831,
+        "num": 85831,
+        "word": "邓超又去买一毛钱老奶奶的凉菜了",
+        "onboard_time": 1756651703,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85266,
+        "num": 85266,
+        "word": "再见坏蛋官宣撤档",
+        "onboard_time": 1756689860,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84127,
+        "num": 84127,
+        "word": "每天早睡1小时身体发生的变化",
+        "onboard_time": 1756684820,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同家园#"
+    }
+  }
+}

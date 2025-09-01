@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756701315793,
+  "endTime": 1756702104540,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 880562,
-      "num": 166192,
+      "num": 179354,
       "word": "金价",
       "onboard_time": 1756694961,
       "rank": 21,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494146,
+      "num": 179252,
+      "word": "美国留学现状",
+      "onboard_time": 1756698381,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 477460,
       "num": 477460,
       "word": "石宇奇夺冠教练快被打成重伤",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 455284,
-      "num": 165266,
+      "num": 179003,
       "word": "敬山水 李庚希宋亚轩",
       "onboard_time": 1756695920,
       "rank": 22,
@@ -132,11 +140,19 @@
     },
     {
       "raw_hot": 452361,
-      "num": 155565,
+      "num": 178663,
       "word": "00生周翊然都演爸爸了",
       "onboard_time": 1756696220,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 418722,
+      "num": 418722,
+      "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
+      "onboard_time": 1756698742,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403724,
@@ -147,20 +163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401524,
+      "num": 225875,
+      "word": "全红婵大学的院长是苏炳添",
+      "onboard_time": 1756701142,
+      "rank": 18,
+      "category": "体育,其它"
+    },
+    {
       "raw_hot": 390306,
       "num": 121995,
       "word": "让家长打扫教室学校潜规则该打破了",
       "onboard_time": 1756649783,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380856,
-      "num": 161210,
-      "word": "美国留学现状",
-      "onboard_time": 1756698381,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 376393,
@@ -171,12 +187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368352,
-      "num": 368352,
-      "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
-      "onboard_time": 1756698742,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 362855,
+      "num": 179165,
+      "word": "爱奇艺9月待播剧综",
+      "onboard_time": 1756700303,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350731,
@@ -187,12 +203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333383,
-      "num": 160918,
-      "word": "爱奇艺9月待播剧综",
-      "onboard_time": 1756700303,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 343403,
+      "num": 226692,
+      "word": "全款买房住5年后真房主找来了",
+      "onboard_time": 1756698440,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332724,
@@ -201,14 +217,6 @@
       "onboard_time": 1756681518,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 328701,
-      "num": 226692,
-      "word": "全款买房住5年后真房主找来了",
-      "onboard_time": 1756698440,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 326939,
@@ -244,11 +252,19 @@
     },
     {
       "raw_hot": 296386,
-      "num": 156391,
+      "num": 178912,
       "word": "张晚意美美桑内一个劲的叭叭",
       "onboard_time": 1756696580,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289100,
+      "num": 208326,
+      "word": "9月1日起全民交社保纯属误读",
+      "onboard_time": 1756696699,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273560,
@@ -256,6 +272,14 @@
       "word": "买电动车注意三个月过渡期",
       "onboard_time": 1756694660,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271944,
+      "num": 271944,
+      "word": "一等功臣爷爷送孙子国防科大报到",
+      "onboard_time": 1756701263,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -275,14 +299,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 266963,
-      "num": 208326,
-      "word": "9月1日起全民交社保纯属误读",
-      "onboard_time": 1756696699,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263733,
       "num": 263733,
       "word": "普京访华4天两地十多场会晤",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 251310,
-      "num": 149052,
+      "num": 176648,
       "word": "梓渝泥潭入围亚洲流行音乐大奖",
       "onboard_time": 1756682000,
       "rank": 26,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 207384,
-      "num": 153261,
+      "num": 178803,
       "word": "苹果新增三款过时产品",
       "onboard_time": 1756698921,
       "rank": 46,
@@ -371,6 +387,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200987,
+      "num": 200987,
+      "word": "赴山海",
+      "onboard_time": 1756700722,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199630,
+      "num": 199630,
+      "word": "心动的信号",
+      "onboard_time": 1756701322,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199050,
       "num": 187125,
       "word": "美网抢帽子男子系波兰富豪",
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 195197,
-      "num": 151466,
+      "num": 178651,
       "word": "最适合吃饺子的盘子出现了",
       "onboard_time": 1756698862,
       "rank": 49,
@@ -443,20 +475,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172004,
+      "num": 172004,
+      "word": "iPhone17Pro透明保护壳曝光",
+      "onboard_time": 1756701801,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 170077,
-      "num": 170077,
+      "num": 179034,
       "word": "Model3长续航后驱版降价",
       "onboard_time": 1756698624,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 169491,
-      "num": 169491,
-      "word": "全红婵大学的院长是苏炳添",
-      "onboard_time": 1756701142,
-      "rank": 18,
-      "category": "体育,其它"
     },
     {
       "raw_hot": 169241,
@@ -465,6 +497,14 @@
       "onboard_time": 1756654943,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168659,
+      "num": 258095,
+      "word": "2025暑期档电影票房119.66亿元",
+      "onboard_time": 1756697061,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 166542,
@@ -635,12 +675,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134427,
-      "num": 258095,
-      "word": "2025暑期档电影票房119.66亿元",
-      "onboard_time": 1756697061,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 135310,
+      "num": 135310,
+      "word": "秦皇岛动物园遇猛虎惊魂实录",
+      "onboard_time": 1756700121,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130899,
@@ -657,14 +697,6 @@
       "onboard_time": 1756696039,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 130210,
-      "num": 130210,
-      "word": "赴山海",
-      "onboard_time": 1756700722,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 128936,
@@ -723,19 +755,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125083,
+      "num": 168810,
+      "word": "九三前日本做了哪些小动作",
+      "onboard_time": 1756700542,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123201,
       "num": 123201,
       "word": "2025还剩三分之一",
       "onboard_time": 1756686680,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120072,
-      "num": 120072,
-      "word": "秦皇岛动物园遇猛虎惊魂实录",
-      "onboard_time": 1756700121,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -835,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99641,
+      "num": 99641,
+      "word": "中餐厅做客我们的宿舍",
+      "onboard_time": 1756701562,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96266,
       "num": 96266,
       "word": "我家的抗战记忆",
@@ -907,6 +947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 87888,
+      "num": 87888,
+      "word": "叶童秒接李艺彤罗予彤求助电话",
+      "onboard_time": 1756700902,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87307,
       "num": 87307,
       "word": "门尼刘端端没有了竟然是首藏头诗",
@@ -961,14 +1009,6 @@
       "onboard_time": 1756684820,
       "rank": 41,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 82021,
-      "num": 118432,
-      "word": "一等功臣爷爷送孙子国防科大报到",
-      "onboard_time": 1756701263,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80707,
@@ -1099,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63483,
+      "num": 109972,
+      "word": "石宇奇轻舟已过万重山",
+      "onboard_time": 1756701322,
+      "rank": 38,
+      "category": "体育,其它"
+    },
+    {
       "raw_hot": 63350,
       "num": 120720,
       "word": "691分学霸选的专业超冷门",
@@ -1113,14 +1161,6 @@
       "onboard_time": 1756639460,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 60655,
-      "num": 168810,
-      "word": "九三前日本做了哪些小动作",
-      "onboard_time": 1756700542,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59614,
