@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756722562661,
+  "endTime": 1756723540019,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -113,6 +113,14 @@
       "onboard_time": 1756700963,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 612202,
+      "num": 612202,
+      "word": "莫迪发文感谢中方",
+      "onboard_time": 1756721601,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 608402,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 386240,
-      "num": 168884,
+      "num": 172958,
       "word": "种地吧",
       "onboard_time": 1756721180,
       "rank": 11,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308015,
+      "num": 173156,
+      "word": "牙线的邪修用法",
+      "onboard_time": 1756717401,
+      "rank": 17,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 297185,
       "num": 392548,
       "word": "上合成员国元首理事会会议",
@@ -369,14 +385,6 @@
       "onboard_time": 1756696580,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292298,
-      "num": 168698,
-      "word": "牙线的邪修用法",
-      "onboard_time": 1756717401,
-      "rank": 17,
-      "category": "休闲"
     },
     {
       "raw_hot": 289100,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273210,
+      "num": 273210,
+      "word": "樊振东效力俱乐部回应首战失利",
+      "onboard_time": 1756718661,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271858,
       "num": 271858,
       "word": "樊振东已经在琢磨如何改进了",
@@ -433,14 +449,6 @@
       "onboard_time": 1756697721,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 270029,
-      "num": 270029,
-      "word": "樊振东效力俱乐部回应首战失利",
-      "onboard_time": 1756718661,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 265934,
@@ -603,6 +611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 204986,
+      "num": 168903,
+      "word": "瘦下82斤身体各部位的变化",
+      "onboard_time": 1756721121,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 201001,
       "num": 173792,
       "word": "为什么吃海底捞前要先上个坡",
@@ -675,6 +691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190452,
+      "num": 190452,
+      "word": "勒沃库森解雇滕哈赫",
+      "onboard_time": 1756722682,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188931,
       "num": 401541,
       "word": "密室大逃脱",
@@ -699,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186929,
+      "num": 132978,
+      "word": "全家送女儿上大学返程三人集体泪崩",
+      "onboard_time": 1756721421,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186622,
       "num": 186622,
       "word": "美方欲将加沙200万人迁走",
@@ -721,14 +753,6 @@
       "onboard_time": 1756702881,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183083,
-      "num": 163993,
-      "word": "瘦下82斤身体各部位的变化",
-      "onboard_time": 1756721121,
-      "rank": 15,
-      "category": "运动健身"
     },
     {
       "raw_hot": 181700,
@@ -808,6 +832,14 @@
       "word": "一等功臣带着孙子到国防科大报到",
       "onboard_time": 1756704502,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166702,
+      "num": 142579,
+      "word": "胖东来燕麦脆被指无生产日期",
+      "onboard_time": 1756719141,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -995,14 +1027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 142579,
-      "num": 142579,
-      "word": "胖东来燕麦脆被指无生产日期",
-      "onboard_time": 1756719141,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139419,
       "num": 139419,
       "word": "孟子义刘亦菲同款妆造",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1756690398,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137606,
+      "num": 131126,
+      "word": "陈情令暑期爆款剧王",
+      "onboard_time": 1756720462,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 137531,
@@ -1075,28 +1107,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134975,
-      "num": 169288,
-      "word": "莫迪发文感谢中方",
-      "onboard_time": 1756721601,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 134042,
       "num": 237201,
       "word": "杨幂小时代这梗过不去了",
       "onboard_time": 1756711581,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132978,
-      "num": 132978,
-      "word": "全家送女儿上大学返程三人集体泪崩",
-      "onboard_time": 1756721421,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132603,
@@ -1113,14 +1129,6 @@
       "onboard_time": 1756716021,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131126,
-      "num": 131126,
-      "word": "陈情令暑期爆款剧王",
-      "onboard_time": 1756720462,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 130899,
@@ -1251,12 +1259,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119497,
+      "raw_hot": 119841,
+      "num": 150220,
+      "word": "出席九三阅兵的非洲兄弟到了",
+      "onboard_time": 1756722200,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 119540,
       "num": 119497,
       "word": "霍建华回应演短剧",
       "onboard_time": 1756720882,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119096,
+      "num": 119096,
+      "word": "韩德君退役",
+      "onboard_time": 1756723160,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 118591,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1756646543,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115349,
+      "num": 115349,
+      "word": "奶茶名为什么越来越难看懂了",
+      "onboard_time": 1756717282,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115121,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1756722081,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109774,
+      "num": 109774,
+      "word": "王一博录音棚花絮图送达",
+      "onboard_time": 1756722802,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 109475,
@@ -1523,6 +1563,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97831,
+      "num": 97831,
+      "word": "上集灵魂互换这集直接失忆",
+      "onboard_time": 1756722441,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97244,
+      "num": 97244,
+      "word": "也是为夜经济的发展添砖加瓦了",
+      "onboard_time": 1756723399,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97095,
       "num": 177530,
       "word": "明日方舟新干员三角初华",
@@ -1544,14 +1600,6 @@
       "word": "好有实力的开学痛车阵",
       "onboard_time": 1756714401,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95600,
-      "num": 97204,
-      "word": "奶茶名为什么越来越难看懂了",
-      "onboard_time": 1756717282,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1747,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85216,
+      "num": 94552,
+      "word": "咒术回战熹妃回宫",
+      "onboard_time": 1756722861,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 84632,
       "num": 121443,
       "word": "华晨宇顶腮",
@@ -1772,7 +1828,7 @@
     },
     {
       "raw_hot": 84029,
-      "num": 84029,
+      "num": 94478,
       "word": "怀孕流浪狗到店乞食生下小狗托付老板",
       "onboard_time": 1756720882,
       "rank": 37,
@@ -1785,6 +1841,14 @@
       "onboard_time": 1756708941,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81889,
+      "num": 94518,
+      "word": "装备方队有最新装备和国之重器",
+      "onboard_time": 1756723282,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81208,
@@ -1844,7 +1908,7 @@
     },
     {
       "raw_hot": 79064,
-      "num": 84018,
+      "num": 94465,
       "word": "国乒报名2025亚乒赛团体赛",
       "onboard_time": 1756721421,
       "rank": 40,
@@ -1868,7 +1932,7 @@
     },
     {
       "raw_hot": 77401,
-      "num": 84014,
+      "num": 94532,
       "word": "奉行主权平等",
       "onboard_time": 1756721362,
       "rank": 41,
@@ -1971,6 +2035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71660,
+      "num": 94491,
+      "word": "永辉超市胖东来燕麦脆已下架",
+      "onboard_time": 1756723520,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70892,
       "num": 399930,
       "word": "8月每不到1分钟就有辆零跑被开走",
@@ -2067,14 +2139,6 @@
       "category": "体育,其它"
     },
     {
-      "raw_hot": 63852,
-      "num": 83992,
-      "word": "上集灵魂互换这集直接失忆",
-      "onboard_time": 1756722441,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63526,
       "num": 63526,
       "word": "被AI造黄谣女运动员发声",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1756639460,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60798,
+      "num": 94454,
+      "word": "扁平脸邪修立体骨相",
+      "onboard_time": 1756723461,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 59614,
@@ -2225,14 +2297,6 @@
       "onboard_time": 1756653263,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 48825,
-      "num": 150220,
-      "word": "出席九三阅兵的非洲兄弟到了",
-      "onboard_time": 1756722200,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 48427,
