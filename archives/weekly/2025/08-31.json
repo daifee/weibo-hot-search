@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756736684249,
+  "endTime": 1756737738980,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -83,20 +83,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1178673,
+      "num": 218891,
+      "word": "别把聊天截图发给你朋友好吗",
+      "onboard_time": 1756729762,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1167918,
       "num": 1186866,
       "word": "普京抵达天津",
       "onboard_time": 1756603400,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1152450,
-      "num": 218891,
-      "word": "别把聊天截图发给你朋友好吗",
-      "onboard_time": 1756729762,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 1113721,
@@ -427,19 +427,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536861,
+      "num": 206816,
+      "word": "田曦薇人生镜头",
+      "onboard_time": 1756730843,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535646,
       "num": 254842,
       "word": "孟子义李昀锐定妆照",
       "onboard_time": 1756607721,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 531931,
-      "num": 206816,
-      "word": "田曦薇人生镜头",
-      "onboard_time": 1756730843,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -611,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444342,
+      "num": 207148,
+      "word": "深圳教育局回应将全面封杀教辅资料",
+      "onboard_time": 1756734623,
+      "rank": 13,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 431958,
       "num": 431958,
       "word": "陕西历史博物馆回应将陕西拼为Shaanxi",
@@ -707,7 +715,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383048,
+      "raw_hot": 384358,
       "num": 206725,
       "word": "好多明星去了万妮达演唱会",
       "onboard_time": 1756733303,
@@ -833,14 +841,6 @@
       "onboard_time": 1756637781,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 358128,
-      "num": 207148,
-      "word": "深圳教育局回应将全面封杀教辅资料",
-      "onboard_time": 1756734623,
-      "rank": 13,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 354668,
@@ -4139,6 +4139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103748,
+      "num": 185271,
+      "word": "全连牺牲只有1人留下照片",
+      "onboard_time": 1756737322,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103746,
       "num": 103746,
       "word": "王楚钦曾因扔拍被乒协处罚",
@@ -4409,6 +4417,14 @@
       "onboard_time": 1756694180,
       "rank": 43,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 96234,
+      "num": 158158,
+      "word": "王楚钦率队头名晋级乒超总决赛",
+      "onboard_time": 1756737322,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 95892,
@@ -5491,6 +5507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74904,
+      "num": 158092,
+      "word": "中小学生午休课桌椅国标出台",
+      "onboard_time": 1756737382,
+      "rank": 36,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 74469,
       "num": 74469,
       "word": "紫苏叶按片卖最多日营收1万",
@@ -5811,6 +5835,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 65886,
+      "num": 207336,
+      "word": "浓厚氛围迎抗战胜利80周年",
+      "onboard_time": 1756735703,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65679,
       "num": 173457,
       "word": "河南开学第一天家长乐开花",
@@ -6051,14 +6083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56409,
-      "num": 207336,
-      "word": "浓厚氛围迎抗战胜利80周年",
-      "onboard_time": 1756735703,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55892,
       "num": 104624,
       "word": "终于等到刘宪华雨中限定版trap",
@@ -6105,6 +6129,14 @@
       "onboard_time": 1756660098,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51631,
+      "num": 157972,
+      "word": "咒术回战该来的还是来了",
+      "onboard_time": 1756735822,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 50315,
