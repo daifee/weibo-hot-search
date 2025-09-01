@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756704407277,
+  "endTime": 1756705364068,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 824625,
+      "num": 1106762,
+      "word": "全红婵大学的院长是苏炳添",
+      "onboard_time": 1756701142,
+      "rank": 18,
+      "category": "体育,其它"
+    },
+    {
       "raw_hot": 816621,
       "num": 1130659,
       "word": "消费贷的国补要来了",
@@ -227,14 +235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 667268,
-      "num": 1106762,
-      "word": "全红婵大学的院长是苏炳添",
-      "onboard_time": 1756701142,
-      "rank": 18,
-      "category": "体育,其它"
-    },
-    {
       "raw_hot": 650707,
       "num": 234663,
       "word": "北京暴雨",
@@ -265,6 +265,14 @@
       "onboard_time": 1756648402,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 586846,
+      "num": 1093895,
+      "word": "一等功臣爷爷送孙子国防科大报到",
+      "onboard_time": 1756701263,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 575959,
@@ -377,14 +385,6 @@
       "onboard_time": 1756629382,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 496911,
-      "num": 496911,
-      "word": "一等功臣爷爷送孙子国防科大报到",
-      "onboard_time": 1756701263,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 494146,
@@ -731,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341139,
+      "num": 212128,
+      "word": "令人心动的offer主持人季官宣",
+      "onboard_time": 1756704142,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338929,
       "num": 178038,
       "word": "恋爱羞耻症",
@@ -899,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284557,
+      "num": 220075,
+      "word": "献鱼大结局",
+      "onboard_time": 1756703121,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283469,
       "num": 283469,
       "word": "鹿晗邓超一起gogogo出发咯",
@@ -995,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265934,
+      "num": 265934,
+      "word": "秦皇岛动物园遇猛虎惊魂实录",
+      "onboard_time": 1756700121,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264680,
       "num": 204469,
       "word": "李昀锐 文臣也玩刀吗",
@@ -1052,7 +1076,7 @@
     },
     {
       "raw_hot": 251310,
-      "num": 176648,
+      "num": 177330,
       "word": "梓渝泥潭入围亚洲流行音乐大奖",
       "onboard_time": 1756682000,
       "rank": 26,
@@ -1091,20 +1115,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243992,
+      "num": 243992,
+      "word": "九三前日本做了哪些小动作",
+      "onboard_time": 1756700542,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 243901,
       "num": 243901,
       "word": "脸上长火疖子黑头闭口怎么办",
       "onboard_time": 1756681217,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 242612,
-      "num": 220530,
-      "word": "秦皇岛动物园遇猛虎惊魂实录",
-      "onboard_time": 1756700121,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236401,
@@ -1203,14 +1227,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 220075,
-      "num": 220075,
-      "word": "献鱼大结局",
-      "onboard_time": 1756703121,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218884,
       "num": 218884,
       "word": "王楚钦vs徐瑛彬",
@@ -1251,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212128,
-      "num": 212128,
-      "word": "令人心动的offer主持人季官宣",
-      "onboard_time": 1756704142,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211852,
       "num": 211852,
       "word": "美美sunday被小沈阳唱出玻璃球",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1756603642,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209530,
+      "num": 181429,
+      "word": "iPhone17Pro透明保护壳曝光",
+      "onboard_time": 1756701801,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 209224,
@@ -1499,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195944,
+      "num": 195944,
+      "word": "孙颖莎进入国家队10周年",
+      "onboard_time": 1756704201,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195626,
       "num": 195626,
       "word": "展轩新歌我",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1756698862,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 195116,
-      "num": 221429,
-      "word": "九三前日本做了哪些小动作",
-      "onboard_time": 1756700542,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 195081,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1756634720,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188280,
+      "num": 188280,
+      "word": "密室大逃脱",
+      "onboard_time": 1756704022,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 187333,
@@ -1713,14 +1737,6 @@
       "onboard_time": 1756655121,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181429,
-      "num": 181429,
-      "word": "iPhone17Pro透明保护壳曝光",
-      "onboard_time": 1756701801,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 180959,
@@ -2084,7 +2100,7 @@
     },
     {
       "raw_hot": 151606,
-      "num": 151633,
+      "num": 177588,
       "word": "9月1日第一的含量满格",
       "onboard_time": 1756686562,
       "rank": 11,
@@ -2113,14 +2129,6 @@
       "onboard_time": 1756644441,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150309,
-      "num": 150309,
-      "word": "孙颖莎进入国家队10周年",
-      "onboard_time": 1756704201,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 149966,
@@ -2723,6 +2731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119313,
+      "num": 177785,
+      "word": "自律减肥400天的变化",
+      "onboard_time": 1756705100,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 119091,
       "num": 229118,
       "word": "董璇张维伊因请帖起争执",
@@ -2875,14 +2891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115329,
-      "num": 150104,
-      "word": "密室大逃脱",
-      "onboard_time": 1756704022,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115122,
       "num": 135428,
       "word": "如何应对开学综合征",
@@ -2892,7 +2900,7 @@
     },
     {
       "raw_hot": 115121,
-      "num": 149888,
+      "num": 177429,
       "word": "陋室铭风宿舍出现了",
       "onboard_time": 1756703002,
       "rank": 37,
@@ -3131,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108811,
+      "num": 177765,
+      "word": "一部没有感情全是尺度的电影",
+      "onboard_time": 1756705163,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108806,
       "num": 147671,
       "word": "十二封信 好看",
@@ -3161,6 +3177,14 @@
       "onboard_time": 1756643121,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107673,
+      "num": 177709,
+      "word": "柯爱林王乐晨水下比心",
+      "onboard_time": 1756704321,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 107548,
@@ -3291,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102313,
+      "num": 177617,
+      "word": "一等功臣带着孙子到国防科大报到",
+      "onboard_time": 1756704502,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101967,
       "num": 172336,
       "word": "这位总统说最宝贵优势就是与中国为邻",
@@ -3324,7 +3356,7 @@
     },
     {
       "raw_hot": 100500,
-      "num": 100500,
+      "num": 196794,
       "word": "2.3万亿美元目标提前实现",
       "onboard_time": 1756699161,
       "rank": 45,
@@ -3417,6 +3449,14 @@
       "onboard_time": 1756610602,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97095,
+      "num": 177530,
+      "word": "明日方舟新干员三角初华",
+      "onboard_time": 1756704022,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 96852,
@@ -3729,14 +3769,6 @@
       "onboard_time": 1756621881,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88389,
-      "num": 147899,
-      "word": "明日方舟新干员三角初华",
-      "onboard_time": 1756704022,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 88272,
@@ -4115,6 +4147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77411,
+      "num": 177351,
+      "word": "覃予萱3比0陈熠",
+      "onboard_time": 1756705341,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77223,
       "num": 77223,
       "word": "开窗通风又不落灰的方法",
@@ -4137,6 +4177,14 @@
       "onboard_time": 1756640001,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76779,
+      "num": 177306,
+      "word": "徐如蓝方益炯势均力敌的约会",
+      "onboard_time": 1756705281,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 76776,
@@ -4787,6 +4835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34050,
+      "num": 177935,
+      "word": "MK出行包王",
+      "onboard_time": 1756703661,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 33470,
       "num": 33470,
       "word": "檀健次一趟下来打了八百辆车",
@@ -4833,14 +4889,6 @@
       "onboard_time": 1756572499,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32491,
-      "num": 171267,
-      "word": "MK出行包王",
-      "onboard_time": 1756703661,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 31995,

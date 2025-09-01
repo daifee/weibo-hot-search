@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756704407277,
+  "endTime": 1756705364068,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -51,6 +51,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 824625,
+      "num": 1106762,
+      "word": "全红婵大学的院长是苏炳添",
+      "onboard_time": 1756701142,
+      "rank": 18,
+      "category": "体育,其它"
+    },
+    {
       "raw_hot": 803585,
       "num": 1128573,
       "word": "河南一幼儿园20元餐标吃上龙虾鲍鱼",
@@ -75,14 +83,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 667268,
-      "num": 1106762,
-      "word": "全红婵大学的院长是苏炳添",
-      "onboard_time": 1756701142,
-      "rank": 18,
-      "category": "体育,其它"
-    },
-    {
       "raw_hot": 608402,
       "num": 907344,
       "word": "9月1日新规上线",
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586846,
+      "num": 1093895,
+      "word": "一等功臣爷爷送孙子国防科大报到",
+      "onboard_time": 1756701263,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 575950,
       "num": 223415,
       "word": "吃火锅定律",
@@ -113,14 +121,6 @@
       "onboard_time": 1756649604,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 496911,
-      "num": 496911,
-      "word": "一等功臣爷爷送孙子国防科大报到",
-      "onboard_time": 1756701263,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 494146,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341139,
+      "num": 212128,
+      "word": "令人心动的offer主持人季官宣",
+      "onboard_time": 1756704142,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332724,
       "num": 126669,
       "word": "9月财运最旺的星座",
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284557,
+      "num": 220075,
+      "word": "献鱼大结局",
+      "onboard_time": 1756703121,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273560,
       "num": 273560,
       "word": "买电动车注意三个月过渡期",
@@ -307,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 265934,
+      "num": 265934,
+      "word": "秦皇岛动物园遇猛虎惊魂实录",
+      "onboard_time": 1756700121,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263733,
       "num": 263733,
       "word": "普京访华4天两地十多场会晤",
@@ -324,11 +348,19 @@
     },
     {
       "raw_hot": 251310,
-      "num": 176648,
+      "num": 177330,
       "word": "梓渝泥潭入围亚洲流行音乐大奖",
       "onboard_time": 1756682000,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 243992,
+      "num": 243992,
+      "word": "九三前日本做了哪些小动作",
+      "onboard_time": 1756700542,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 243901,
@@ -337,14 +369,6 @@
       "onboard_time": 1756681217,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 242612,
-      "num": 220530,
-      "word": "秦皇岛动物园遇猛虎惊魂实录",
-      "onboard_time": 1756700121,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236401,
@@ -387,14 +411,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 220075,
-      "num": 220075,
-      "word": "献鱼大结局",
-      "onboard_time": 1756703121,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215011,
       "num": 215011,
       "word": "吴敬平说樊振东首秀失利不是坏事",
@@ -403,20 +419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212128,
-      "num": 212128,
-      "word": "令人心动的offer主持人季官宣",
-      "onboard_time": 1756704142,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210443,
       "num": 210443,
       "word": "消费贷的国补要来了",
       "onboard_time": 1756647024,
       "rank": 5,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 209530,
+      "num": 181429,
+      "word": "iPhone17Pro透明保护壳曝光",
+      "onboard_time": 1756701801,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 209224,
@@ -467,20 +483,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 195944,
+      "num": 195944,
+      "word": "孙颖莎进入国家队10周年",
+      "onboard_time": 1756704201,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195197,
       "num": 178651,
       "word": "最适合吃饺子的盘子出现了",
       "onboard_time": 1756698862,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 195116,
-      "num": 221429,
-      "word": "九三前日本做了哪些小动作",
-      "onboard_time": 1756700542,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 193118,
@@ -497,6 +513,14 @@
       "onboard_time": 1756697300,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 188280,
+      "num": 188280,
+      "word": "密室大逃脱",
+      "onboard_time": 1756704022,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 187244,
@@ -529,14 +553,6 @@
       "onboard_time": 1756655121,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181429,
-      "num": 181429,
-      "word": "iPhone17Pro透明保护壳曝光",
-      "onboard_time": 1756701801,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 180101,
@@ -652,19 +668,11 @@
     },
     {
       "raw_hot": 151606,
-      "num": 151633,
+      "num": 177588,
       "word": "9月1日第一的含量满格",
       "onboard_time": 1756686562,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150309,
-      "num": 150309,
-      "word": "孙颖莎进入国家队10周年",
-      "onboard_time": 1756704201,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 149966,
@@ -835,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119313,
+      "num": 177785,
+      "word": "自律减肥400天的变化",
+      "onboard_time": 1756705100,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 115786,
       "num": 158200,
       "word": "王楚钦2比3徐瑛彬",
@@ -843,16 +859,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115329,
-      "num": 150104,
-      "word": "密室大逃脱",
-      "onboard_time": 1756704022,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115121,
-      "num": 149888,
+      "num": 177429,
       "word": "陋室铭风宿舍出现了",
       "onboard_time": 1756703002,
       "rank": 37,
@@ -899,6 +907,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108811,
+      "num": 177765,
+      "word": "一部没有感情全是尺度的电影",
+      "onboard_time": 1756705163,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 107673,
+      "num": 177709,
+      "word": "柯爱林王乐晨水下比心",
+      "onboard_time": 1756704321,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107314,
       "num": 107314,
       "word": "蒯曼平野美宇vs何卓佳刘炜珊",
@@ -939,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102313,
+      "num": 177617,
+      "word": "一等功臣带着孙子到国防科大报到",
+      "onboard_time": 1756704502,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100978,
       "num": 561392,
       "word": "告别信息裸奔国家网络身份认证来啦",
@@ -948,7 +980,7 @@
     },
     {
       "raw_hot": 100500,
-      "num": 100500,
+      "num": 196794,
       "word": "2.3万亿美元目标提前实现",
       "onboard_time": 1756699161,
       "rank": 45,
@@ -961,6 +993,14 @@
       "onboard_time": 1756701562,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97095,
+      "num": 177530,
+      "word": "明日方舟新干员三角初华",
+      "onboard_time": 1756704022,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 96266,
@@ -1033,14 +1073,6 @@
       "onboard_time": 1756650444,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 88389,
-      "num": 147899,
-      "word": "明日方舟新干员三角初华",
-      "onboard_time": 1756704022,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 87888,
@@ -1153,6 +1185,22 @@
       "onboard_time": 1756691780,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77411,
+      "num": 177351,
+      "word": "覃予萱3比0陈熠",
+      "onboard_time": 1756705341,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76779,
+      "num": 177306,
+      "word": "徐如蓝方益炯势均力敌的约会",
+      "onboard_time": 1756705281,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 76673,
@@ -1419,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34050,
+      "num": 177935,
+      "word": "MK出行包王",
+      "onboard_time": 1756703661,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 33277,
       "num": 62971,
       "word": "无限暖暖家园家具",
@@ -1441,14 +1497,6 @@
       "onboard_time": 1756669214,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 32491,
-      "num": 171267,
-      "word": "MK出行包王",
-      "onboard_time": 1756703661,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 31368,
