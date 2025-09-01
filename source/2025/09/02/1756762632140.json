@@ -1,0 +1,410 @@
+{
+  "runTime": 1756762632140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 87322,
+        "num": 173971,
+        "word": "我的爸爸妈妈在死难者名单墙上",
+        "onboard_time": 1756740801,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72283,
+        "num": 72283,
+        "word": "多国领导人乘高铁抵达北京",
+        "onboard_time": 1756738341,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7080,
+        "num": 41269,
+        "word": "中方愿同各方一道勇担大义",
+        "onboard_time": 1756718181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35851,
+        "num": 35851,
+        "word": "九三阅兵具体安排来了",
+        "onboard_time": 1756713863,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30919,
+        "num": 30919,
+        "word": "南京80岁奶奶在遇难同胞姓名前流泪",
+        "onboard_time": 1756739481,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30873,
+        "num": 30873,
+        "word": "9月3日安排",
+        "onboard_time": 1756729822,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7085,
+        "num": 28502,
+        "word": "80年前世界大战让国际社会痛定思痛",
+        "onboard_time": 1756719260,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26690,
+        "num": 26690,
+        "word": "午休课桌椅标准尺寸来了",
+        "onboard_time": 1756740621,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23587,
+        "num": 23587,
+        "word": "香港上空这一幕令人震撼",
+        "onboard_time": 1756730001,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20969,
+        "num": 23572,
+        "word": "明天一起看阅兵",
+        "onboard_time": 1756727421,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121290,
+        "num": 23535,
+        "word": "别把聊天截图发给你朋友好吗",
+        "onboard_time": 1756729762,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47729,
+        "num": 23474,
+        "word": "咖啡因 布洛芬",
+        "onboard_time": 1756728082,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39359,
+        "num": 23434,
+        "word": "永辉超市胖东来燕麦脆已下架",
+        "onboard_time": 1756723520,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35539,
+        "num": 23365,
+        "word": "校方回应86%网民严选的军训服被嫌丑",
+        "onboard_time": 1756730241,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26027,
+        "num": 23342,
+        "word": "深圳教育局回应将全面封杀教辅资料",
+        "onboard_time": 1756734623,
+        "rank": 14,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 23313,
+        "num": 23313,
+        "word": "272万网民选的军训服要来了",
+        "onboard_time": 1756724481,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19357,
+        "num": 23313,
+        "word": "莫迪对华表态积极",
+        "onboard_time": 1756736241,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19214,
+        "num": 23306,
+        "word": "莫迪发文感谢中方",
+        "onboard_time": 1756721601,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18929,
+        "num": 23300,
+        "word": "李家超率360人代表团出席九三阅兵",
+        "onboard_time": 1756731262,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16588,
+        "num": 23294,
+        "word": "纪念抗战胜利80周年文艺晚会",
+        "onboard_time": 1756729822,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49520,
+        "num": 23289,
+        "word": "NHK播报勿忘南京大屠杀主播发声",
+        "onboard_time": 1756741760,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37704,
+        "num": 23288,
+        "word": "前NHK中国主播被判赔1100万日元",
+        "onboard_time": 1756738041,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27577,
+        "num": 23282,
+        "word": "理肤泉回应上百元喷雾成分只有水",
+        "onboard_time": 1756726581,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27488,
+        "num": 23275,
+        "word": "巨发胖的七种食物",
+        "onboard_time": 1756723820,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18647,
+        "num": 23272,
+        "word": "全家送女儿上大学返程三人集体泪崩",
+        "onboard_time": 1756721421,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18069,
+        "num": 23270,
+        "word": "好多明星去了万妮达演唱会",
+        "onboard_time": 1756733303,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16792,
+        "num": 23263,
+        "word": "黄晓明说丁禹兮不来他下季不参加了",
+        "onboard_time": 1756740382,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16582,
+        "num": 23260,
+        "word": "iPhone17Pro与17Air对比",
+        "onboard_time": 1756728381,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 16424,
+        "num": 23254,
+        "word": "巴黎世家 8200元塑料袋",
+        "onboard_time": 1756723882,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 16403,
+        "num": 23250,
+        "word": "归队",
+        "onboard_time": 1756746616,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16350,
+        "num": 23243,
+        "word": "田曦薇人生镜头",
+        "onboard_time": 1756730843,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15897,
+        "num": 23236,
+        "word": "蜜雪冰城上半年净赚27亿",
+        "onboard_time": 1756738704,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15487,
+        "num": 23232,
+        "word": "战士腹部受伤仍咬破敌人喉咙",
+        "onboard_time": 1756742360,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14958,
+        "num": 23228,
+        "word": "开学第一课",
+        "onboard_time": 1756724000,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14364,
+        "num": 23222,
+        "word": "80个抗战细节",
+        "onboard_time": 1756744938,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14318,
+        "num": 23217,
+        "word": "八路军刺刀拼弯了就用枪托砸",
+        "onboard_time": 1756744757,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14301,
+        "num": 23212,
+        "word": "尼总理拒绝日本游说来华出席阅兵",
+        "onboard_time": 1756717101,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14079,
+        "num": 23210,
+        "word": "杨靖宇吃棉絮与树皮战斗至最后一息",
+        "onboard_time": 1756742301,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14046,
+        "num": 23207,
+        "word": "浪姐训练营的含金量还在上升",
+        "onboard_time": 1756738464,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13785,
+        "num": 23200,
+        "word": "浓厚氛围迎抗战胜利80周年",
+        "onboard_time": 1756735703,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13724,
+        "num": 23194,
+        "word": "乒超总决赛名单出炉",
+        "onboard_time": 1756738582,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12715,
+        "num": 23188,
+        "word": "央视九三阅兵预告",
+        "onboard_time": 1756737743,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12646,
+        "num": 23185,
+        "word": "中国抗战为什么赢",
+        "onboard_time": 1756755854,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12460,
+        "num": 23181,
+        "word": "人去世了微信朋友圈会消失吗",
+        "onboard_time": 1756716624,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12314,
+        "num": 23177,
+        "word": "中小学生午休课桌椅国标出台",
+        "onboard_time": 1756737382,
+        "rank": 44,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 12015,
+        "num": 23170,
+        "word": "反人类罪行将永远不会被忘记",
+        "onboard_time": 1756736002,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11486,
+        "num": 23166,
+        "word": "担当起推动世界多极化的中流砥柱",
+        "onboard_time": 1756759454,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11360,
+        "num": 23163,
+        "word": "坚定维护二战胜利成果",
+        "onboard_time": 1756753453,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10630,
+        "num": 23158,
+        "word": "蒯曼平野美宇3比0何卓佳刘炜珊",
+        "onboard_time": 1756757953,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10451,
+        "num": 23153,
+        "word": "孙颖莎已成为国乒不可或缺的角色",
+        "onboard_time": 1756729822,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席提出全球治理倡议#"
+    }
+  }
+}
