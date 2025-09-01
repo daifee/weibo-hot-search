@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756683417061,
+  "endTime": 1756692516245,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 950836,
+      "num": 1152133,
+      "word": "任何不缴社保的约定均为无效",
+      "onboard_time": 1756686620,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 927742,
       "num": 927742,
       "word": "9月1日新规上线",
@@ -129,6 +137,14 @@
       "onboard_time": 1756611680,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 864287,
+      "num": 864287,
+      "word": "开学",
+      "onboard_time": 1756651344,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 860068,
@@ -169,6 +185,14 @@
       "onboard_time": 1756626381,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 700685,
+      "num": 127141,
+      "word": "再见坏蛋官宣撤档",
+      "onboard_time": 1756689860,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 695018,
@@ -320,6 +344,14 @@
       "word": "王楚钦2比3徐瑛彬",
       "onboard_time": 1756646543,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 477460,
+      "num": 477460,
+      "word": "石宇奇夺冠教练快被打成重伤",
+      "onboard_time": 1756689500,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 332724,
-      "num": 102063,
+      "num": 126669,
       "word": "9月财运最旺的星座",
       "onboard_time": 1756681518,
       "rank": 22,
@@ -955,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220080,
+      "num": 126254,
+      "word": "每天早睡1小时身体发生的变化",
+      "onboard_time": 1756684820,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 218884,
       "num": 218884,
       "word": "王楚钦vs徐瑛彬",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1756562965,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205652,
-      "num": 205652,
-      "word": "开学",
-      "onboard_time": 1756651344,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 205614,
@@ -1227,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193776,
+      "num": 152810,
+      "word": "樊振东已经在琢磨如何改进了",
+      "onboard_time": 1756690819,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193594,
       "num": 231157,
       "word": "贺峻霖主持控场王",
@@ -1292,7 +1332,7 @@
     },
     {
       "raw_hot": 187244,
-      "num": 89859,
+      "num": 105896,
       "word": "九月",
       "onboard_time": 1756683318,
       "rank": 24,
@@ -1507,6 +1547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165087,
+      "num": 165087,
+      "word": "30岁生日当天抗日女记者跳崖牺牲",
+      "onboard_time": 1756690398,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164366,
       "num": 182146,
       "word": "鹿晗这场更是帅得人神共愤了",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1756611080,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157600,
+      "num": 157600,
+      "word": "以色列防长称打死卡桑旅发言人",
+      "onboard_time": 1756685060,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156954,
@@ -1665,6 +1721,14 @@
       "onboard_time": 1756610121,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151606,
+      "num": 151606,
+      "word": "9月1日第一的含量满格",
+      "onboard_time": 1756686562,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151322,
@@ -1803,6 +1867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144174,
+      "num": 125974,
+      "word": "梓渝泥潭入围亚洲流行音乐大奖",
+      "onboard_time": 1756682000,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143073,
       "num": 143073,
       "word": "奶奶的供桌上只剩下我的准考证",
@@ -1825,6 +1897,14 @@
       "onboard_time": 1756607000,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142555,
+      "num": 142555,
+      "word": "美方计划控制加沙至少10年",
+      "onboard_time": 1756687701,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141296,
@@ -1865,14 +1945,6 @@
       "onboard_time": 1756646782,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 139126,
-      "num": 99344,
-      "word": "梓渝泥潭入围亚洲流行音乐大奖",
-      "onboard_time": 1756682000,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 139106,
@@ -1923,6 +1995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137793,
+      "num": 137793,
+      "word": "北京国安致歉",
+      "onboard_time": 1756690398,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137689,
       "num": 255708,
       "word": "这一幕幕中国浪漫看得心暖暖",
@@ -1953,6 +2033,14 @@
       "onboard_time": 1756616721,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 135589,
+      "num": 125957,
+      "word": "边伯贤说何老师很有名",
+      "onboard_time": 1756657220,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 134977,
@@ -2052,11 +2140,19 @@
     },
     {
       "raw_hot": 128311,
-      "num": 100335,
+      "num": 122728,
       "word": "孟子义被烫李昀锐的反应",
       "onboard_time": 1756661657,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128241,
+      "num": 128241,
+      "word": "80件抗战文物80载民族记忆",
+      "onboard_time": 1756690098,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128037,
@@ -2068,7 +2164,7 @@
     },
     {
       "raw_hot": 126894,
-      "num": 89546,
+      "num": 105398,
       "word": "莫迪四次拒接特朗普电话后奔向中日",
       "onboard_time": 1756681757,
       "rank": 29,
@@ -2081,6 +2177,14 @@
       "onboard_time": 1756606820,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125920,
+      "num": 125920,
+      "word": "子夜归和离",
+      "onboard_time": 1756688242,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 125391,
@@ -2099,6 +2203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124049,
+      "num": 124049,
+      "word": "全红婵将开启大学生涯",
+      "onboard_time": 1756691300,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123964,
       "num": 147744,
       "word": "许昕2比3费浚航",
@@ -2113,6 +2225,14 @@
       "onboard_time": 1756615041,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123201,
+      "num": 123201,
+      "word": "2025还剩三分之一",
+      "onboard_time": 1756686680,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122830,
@@ -2195,6 +2315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118723,
+      "num": 118723,
+      "word": "赵丽颖工作室聊明兰",
+      "onboard_time": 1756691300,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118688,
       "num": 147620,
       "word": "那英小发雷霆",
@@ -2255,6 +2383,14 @@
       "num": 117374,
       "word": "周深疑似失去了所有力气和手段",
       "onboard_time": 1756613541,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 117345,
+      "num": 117345,
+      "word": "邓超妈妈来看了鹿晗南昌演唱会",
+      "onboard_time": 1756688421,
       "rank": 34,
       "category": "演出"
     },
@@ -2611,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106486,
+      "num": 106486,
+      "word": "11名联合国人员被胡塞武装逮捕",
+      "onboard_time": 1756685180,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105885,
       "num": 105885,
       "word": "黄明昊演唱会整个人都泡在水里了",
@@ -2657,14 +2801,6 @@
       "onboard_time": 1756567344,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 103932,
-      "num": 121496,
-      "word": "边伯贤说何老师很有名",
-      "onboard_time": 1756657220,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 103787,
@@ -2867,6 +3003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94180,
+      "num": 122797,
+      "word": "美方欲将加沙200万人迁走",
+      "onboard_time": 1756690819,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94103,
       "num": 94103,
       "word": "张雅琪说马思纯头围超立体",
@@ -2907,12 +3051,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92803,
+      "num": 105851,
+      "word": "无畏契约巴黎全球冠军赛",
+      "onboard_time": 1756690580,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92707,
       "num": 92707,
       "word": "潘玮柏回应自费上百厨大战",
       "onboard_time": 1756601119,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92649,
+      "num": 105793,
+      "word": "智搜分析樊振东失利原因",
+      "onboard_time": 1756690940,
+      "rank": 39,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 92228,
@@ -2947,6 +3107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 91141,
+      "num": 561392,
+      "word": "告别信息裸奔国家网络身份认证来啦",
+      "onboard_time": 1756686860,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91073,
       "num": 91073,
       "word": "许昕真的回家了",
@@ -2956,7 +3124,7 @@
     },
     {
       "raw_hot": 90595,
-      "num": 90595,
+      "num": 105209,
       "word": "队友回应樊振东德甲首秀失利",
       "onboard_time": 1756682958,
       "rank": 18,
@@ -3001,6 +3169,14 @@
       "onboard_time": 1756642642,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89527,
+      "num": 105770,
+      "word": "沈月干回婚庆摄影老本行",
+      "onboard_time": 1756688302,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 89504,
@@ -3203,6 +3379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84109,
+      "num": 105698,
+      "word": "让你头发更好看的技巧",
+      "onboard_time": 1756684820,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 83443,
       "num": 83443,
       "word": "靠吃东西也能提升专注力",
@@ -3323,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78531,
+      "num": 105584,
+      "word": "开学文案",
+      "onboard_time": 1756691780,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78276,
       "num": 88430,
       "word": "德甲乒乓球联赛",
@@ -3337,6 +3529,14 @@
       "onboard_time": 1756628002,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77659,
+      "num": 105535,
+      "word": "A股",
+      "onboard_time": 1756692440,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 77223,
@@ -3483,12 +3683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73926,
+      "num": 105362,
+      "word": "无限暖暖就家具定价致歉",
+      "onboard_time": 1756692320,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73541,
       "num": 73541,
       "word": "刘诗诗晒labubu",
       "onboard_time": 1756631181,
       "rank": 47,
       "category": "剧集,休闲"
+    },
+    {
+      "raw_hot": 72493,
+      "num": 105283,
+      "word": "李斌称低估了ES8的市场热情",
+      "onboard_time": 1756690161,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 72431,

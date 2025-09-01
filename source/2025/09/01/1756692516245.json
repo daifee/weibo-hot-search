@@ -1,0 +1,410 @@
+{
+  "runTime": 1756692516245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 950836,
+        "num": 1152133,
+        "word": "任何不缴社保的约定均为无效",
+        "onboard_time": 1756686620,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 864287,
+        "num": 864287,
+        "word": "开学",
+        "onboard_time": 1756651344,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91141,
+        "num": 561392,
+        "word": "告别信息裸奔国家网络身份认证来啦",
+        "onboard_time": 1756686860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477460,
+        "num": 477460,
+        "word": "石宇奇夺冠教练快被打成重伤",
+        "onboard_time": 1756689500,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235389,
+        "num": 235389,
+        "word": "篡改电动自行车电池的人这下消停了",
+        "onboard_time": 1756654161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213621,
+        "num": 213621,
+        "word": "山东一小学新生报到名字惊艳众人",
+        "onboard_time": 1756655542,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165087,
+        "num": 165087,
+        "word": "30岁生日当天抗日女记者跳崖牺牲",
+        "onboard_time": 1756690398,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158163,
+        "num": 158163,
+        "word": "脸上长火疖子黑头闭口怎么办",
+        "onboard_time": 1756681217,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157600,
+        "num": 157600,
+        "word": "以色列防长称打死卡桑旅发言人",
+        "onboard_time": 1756685060,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79274,
+        "num": 153771,
+        "word": "敬山水",
+        "onboard_time": 1756650324,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193776,
+        "num": 152810,
+        "word": "樊振东已经在琢磨如何改进了",
+        "onboard_time": 1756690819,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151606,
+        "num": 151606,
+        "word": "9月1日第一的含量满格",
+        "onboard_time": 1756686562,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165145,
+        "num": 150400,
+        "word": "旺旺总经理赴京看九三阅兵",
+        "onboard_time": 1756651763,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158446,
+        "num": 147609,
+        "word": "为什么吃海底捞前要先上个坡",
+        "onboard_time": 1756644624,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154484,
+        "num": 146859,
+        "word": "伪装者",
+        "onboard_time": 1756649604,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230173,
+        "num": 144335,
+        "word": "樊振东1比3杜达",
+        "onboard_time": 1756653144,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142555,
+        "num": 142555,
+        "word": "美方计划控制加沙至少10年",
+        "onboard_time": 1756687701,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137793,
+        "num": 137793,
+        "word": "北京国安致歉",
+        "onboard_time": 1756690398,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128241,
+        "num": 128241,
+        "word": "80件抗战文物80载民族记忆",
+        "onboard_time": 1756690098,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127419,
+        "num": 127419,
+        "word": "迪丽热巴说尝试比完美更重要",
+        "onboard_time": 1756645282,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700685,
+        "num": 127141,
+        "word": "再见坏蛋官宣撤档",
+        "onboard_time": 1756689860,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386012,
+        "num": 126897,
+        "word": "邓超又去买一毛钱老奶奶的凉菜了",
+        "onboard_time": 1756651703,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257093,
+        "num": 126669,
+        "word": "9月财运最旺的星座",
+        "onboard_time": 1756681518,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220080,
+        "num": 126254,
+        "word": "每天早睡1小时身体发生的变化",
+        "onboard_time": 1756684820,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126007,
+        "num": 126007,
+        "word": "消费贷的国补要来了",
+        "onboard_time": 1756647024,
+        "rank": 24,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 202707,
+        "num": 126005,
+        "word": "宋轶回应整容",
+        "onboard_time": 1756630101,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144174,
+        "num": 125974,
+        "word": "梓渝泥潭入围亚洲流行音乐大奖",
+        "onboard_time": 1756682000,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135589,
+        "num": 125957,
+        "word": "边伯贤说何老师很有名",
+        "onboard_time": 1756657220,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125920,
+        "num": 125920,
+        "word": "子夜归和离",
+        "onboard_time": 1756688242,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124049,
+        "num": 124049,
+        "word": "全红婵将开启大学生涯",
+        "onboard_time": 1756691300,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123201,
+        "num": 123201,
+        "word": "2025还剩三分之一",
+        "onboard_time": 1756686680,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94180,
+        "num": 122797,
+        "word": "美方欲将加沙200万人迁走",
+        "onboard_time": 1756690819,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122728,
+        "num": 122728,
+        "word": "孟子义被烫李昀锐的反应",
+        "onboard_time": 1756661657,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118723,
+        "num": 118723,
+        "word": "赵丽颖工作室聊明兰",
+        "onboard_time": 1756691300,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117345,
+        "num": 117345,
+        "word": "邓超妈妈来看了鹿晗南昌演唱会",
+        "onboard_time": 1756688421,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113541,
+        "num": 113541,
+        "word": "让家长打扫教室学校潜规则该打破了",
+        "onboard_time": 1756649783,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106486,
+        "num": 106486,
+        "word": "11名联合国人员被胡塞武装逮捕",
+        "onboard_time": 1756685180,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105896,
+        "num": 105896,
+        "word": "九月",
+        "onboard_time": 1756683318,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92803,
+        "num": 105851,
+        "word": "无畏契约巴黎全球冠军赛",
+        "onboard_time": 1756690580,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92649,
+        "num": 105793,
+        "word": "智搜分析樊振东失利原因",
+        "onboard_time": 1756690940,
+        "rank": 39,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 89527,
+        "num": 105770,
+        "word": "沈月干回婚庆摄影老本行",
+        "onboard_time": 1756688302,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84109,
+        "num": 105698,
+        "word": "让你头发更好看的技巧",
+        "onboard_time": 1756684820,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 83566,
+        "num": 105631,
+        "word": "香港小姐14强佳丽均是高学历",
+        "onboard_time": 1756655121,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78531,
+        "num": 105584,
+        "word": "开学文案",
+        "onboard_time": 1756691780,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77659,
+        "num": 105535,
+        "word": "A股",
+        "onboard_time": 1756692440,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76675,
+        "num": 105453,
+        "word": "美网抢帽子男子系波兰富豪",
+        "onboard_time": 1756657639,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74439,
+        "num": 105398,
+        "word": "莫迪四次拒接特朗普电话后奔向中日",
+        "onboard_time": 1756681757,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73926,
+        "num": 105362,
+        "word": "无限暖暖就家具定价致歉",
+        "onboard_time": 1756692320,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72493,
+        "num": 105283,
+        "word": "李斌称低估了ES8的市场热情",
+        "onboard_time": 1756690161,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 68512,
+        "num": 105209,
+        "word": "队友回应樊振东德甲首秀失利",
+        "onboard_time": 1756682958,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见莫迪#"
+    }
+  }
+}
