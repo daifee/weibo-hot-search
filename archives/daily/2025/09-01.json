@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756719825267,
+  "endTime": 1756722562661,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -99,19 +99,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 692679,
+      "num": 143239,
+      "word": "人去世了微信朋友圈会消失吗",
+      "onboard_time": 1756716624,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 688472,
       "num": 403379,
       "word": "过的太爽了不敢告诉别人",
       "onboard_time": 1756700963,
       "rank": 10,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 617276,
-      "num": 121267,
-      "word": "人去世了微信朋友圈会消失吗",
-      "onboard_time": 1756716624,
-      "rank": 21,
       "category": "情感"
     },
     {
@@ -243,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400075,
+      "num": 400075,
+      "word": "中方将为上合国家开展1万例癌症筛查",
+      "onboard_time": 1756720882,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 390306,
       "num": 121995,
       "word": "让家长打扫教室学校潜规则该打破了",
       "onboard_time": 1756649783,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386240,
+      "num": 168884,
+      "word": "种地吧",
+      "onboard_time": 1756721180,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 376393,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292298,
+      "num": 168698,
+      "word": "牙线的邪修用法",
+      "onboard_time": 1756717401,
+      "rank": 17,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 289100,
       "num": 400414,
       "word": "9月1日起全民交社保纯属误读",
@@ -409,6 +433,14 @@
       "onboard_time": 1756697721,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 270029,
+      "num": 270029,
+      "word": "樊振东效力俱乐部回应首战失利",
+      "onboard_time": 1756718661,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 265934,
@@ -675,12 +707,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185877,
+      "num": 185877,
+      "word": "巴基斯坦总理在华表态",
+      "onboard_time": 1756719621,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184410,
       "num": 399106,
       "word": "开心麻花上春晚沈腾压力最大",
       "onboard_time": 1756702881,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183083,
+      "num": 163993,
+      "word": "瘦下82斤身体各部位的变化",
+      "onboard_time": 1756721121,
+      "rank": 15,
+      "category": "运动健身"
     },
     {
       "raw_hot": 181700,
@@ -947,6 +995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142579,
+      "num": 142579,
+      "word": "胖东来燕麦脆被指无生产日期",
+      "onboard_time": 1756719141,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139419,
       "num": 139419,
       "word": "孟子义刘亦菲同款妆造",
@@ -961,6 +1017,14 @@
       "onboard_time": 1756652904,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 138326,
+      "num": 138326,
+      "word": "开学新人设是霉霉",
+      "onboard_time": 1756721421,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 137793,
@@ -1011,12 +1075,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134975,
+      "num": 169288,
+      "word": "莫迪发文感谢中方",
+      "onboard_time": 1756721601,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134042,
       "num": 237201,
       "word": "杨幂小时代这梗过不去了",
       "onboard_time": 1756711581,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132978,
+      "num": 132978,
+      "word": "全家送女儿上大学返程三人集体泪崩",
+      "onboard_time": 1756721421,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132603,
@@ -1033,6 +1113,14 @@
       "onboard_time": 1756716021,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131126,
+      "num": 131126,
+      "word": "陈情令暑期爆款剧王",
+      "onboard_time": 1756720462,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 130899,
@@ -1155,14 +1243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121507,
-      "num": 121507,
-      "word": "牙线的邪修用法",
-      "onboard_time": 1756717401,
-      "rank": 17,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 120538,
       "num": 238552,
       "word": "毛不易 这拖鞋一穿都走不出去二里地",
@@ -1171,11 +1251,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119255,
-      "num": 106802,
-      "word": "胖东来燕麦脆被指无生产日期",
-      "onboard_time": 1756719141,
-      "rank": 25,
+      "raw_hot": 119497,
+      "num": 119497,
+      "word": "霍建华回应演短剧",
+      "onboard_time": 1756720882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118591,
+      "num": 115277,
+      "word": "理肤泉上百元喷雾被指成分只有水",
+      "onboard_time": 1756717342,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1193,14 +1281,6 @@
       "onboard_time": 1756646543,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115277,
-      "num": 115277,
-      "word": "理肤泉上百元喷雾被指成分只有水",
-      "onboard_time": 1756717342,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115121,
@@ -1257,6 +1337,14 @@
       "onboard_time": 1756701202,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111866,
+      "num": 111866,
+      "word": "美国两架飞机降落时空中相撞",
+      "onboard_time": 1756722081,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 109475,
@@ -1380,7 +1468,7 @@
     },
     {
       "raw_hot": 100500,
-      "num": 196794,
+      "num": 435789,
       "word": "2.3万亿美元目标提前实现",
       "onboard_time": 1756699161,
       "rank": 45,
@@ -1456,6 +1544,14 @@
       "word": "好有实力的开学痛车阵",
       "onboard_time": 1756714401,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95600,
+      "num": 97204,
+      "word": "奶茶名为什么越来越难看懂了",
+      "onboard_time": 1756717282,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1635,14 +1731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86004,
-      "num": 121385,
-      "word": "樊振东效力俱乐部回应首战失利",
-      "onboard_time": 1756718661,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85528,
       "num": 85528,
       "word": "学生火车票优惠升级了",
@@ -1683,20 +1771,20 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 84029,
+      "num": 84029,
+      "word": "怀孕流浪狗到店乞食生下小狗托付老板",
+      "onboard_time": 1756720882,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83135,
       "num": 236884,
       "word": "当周一撞上每月一号",
       "onboard_time": 1756708941,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 82736,
-      "num": 97204,
-      "word": "奶茶名为什么越来越难看懂了",
-      "onboard_time": 1756717282,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81208,
@@ -1755,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79064,
+      "num": 84018,
+      "word": "国乒报名2025亚乒赛团体赛",
+      "onboard_time": 1756721421,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78660,
       "num": 392129,
       "word": "早安评快乐老咖写歌不如自己",
@@ -1769,6 +1865,14 @@
       "onboard_time": 1756691780,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77401,
+      "num": 84014,
+      "word": "奉行主权平等",
+      "onboard_time": 1756721362,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76988,
@@ -1915,6 +2019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69937,
+      "num": 97229,
+      "word": "美国2架飞机空中相撞1死3伤",
+      "onboard_time": 1756719260,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68978,
       "num": 97152,
       "word": "九三阅兵编设45个方梯队有何区别",
@@ -1955,6 +2067,14 @@
       "category": "体育,其它"
     },
     {
+      "raw_hot": 63852,
+      "num": 83992,
+      "word": "上集灵魂互换这集直接失忆",
+      "onboard_time": 1756722441,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63526,
       "num": 63526,
       "word": "被AI造黄谣女运动员发声",
@@ -1977,6 +2097,14 @@
       "onboard_time": 1756651644,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62388,
+      "num": 83984,
+      "word": "放假第一天vs开学第一天",
+      "onboard_time": 1756721841,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 62143,
@@ -2099,6 +2227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48825,
+      "num": 150220,
+      "word": "出席九三阅兵的非洲兄弟到了",
+      "onboard_time": 1756722200,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48427,
       "num": 61891,
       "word": "5岁半小狗捡瓶子日入50元",
@@ -2155,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38923,
+      "num": 149118,
+      "word": "华为新款三折叠品牌大使",
+      "onboard_time": 1756719201,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37681,
       "num": 393011,
       "word": "吃饭时能不能喝水",
@@ -2169,14 +2313,6 @@
       "onboard_time": 1756682538,
       "rank": 41,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 37108,
-      "num": 109941,
-      "word": "华为新款三折叠品牌大使",
-      "onboard_time": 1756719201,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 34589,
@@ -2235,14 +2371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28777,
-      "num": 97229,
-      "word": "美国2架飞机空中相撞1死3伤",
-      "onboard_time": 1756719260,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 28283,
       "num": 47696,
       "word": "华晨宇萌的不知天地为何物了",
@@ -2257,14 +2385,6 @@
       "onboard_time": 1756679296,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27085,
-      "num": 106377,
-      "word": "巴基斯坦总理在华表态",
-      "onboard_time": 1756719621,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26551,
