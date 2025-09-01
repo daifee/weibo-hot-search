@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756698106682,
+  "endTime": 1756698949449,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 622991,
+      "num": 148857,
+      "word": "金价",
+      "onboard_time": 1756694961,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 608402,
       "num": 907344,
       "word": "9月1日新规上线",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 575950,
-      "num": 220203,
+      "num": 223415,
       "word": "吃火锅定律",
       "onboard_time": 1756692740,
       "rank": 11,
@@ -83,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491766,
+      "num": 491766,
+      "word": "河南一幼儿园20元餐标吃上龙虾鲍鱼",
+      "onboard_time": 1756697001,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477460,
       "num": 477460,
       "word": "石宇奇夺冠教练快被打成重伤",
@@ -91,7 +107,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 431499,
+      "raw_hot": 455284,
+      "num": 148331,
+      "word": "敬山水 李庚希宋亚轩",
+      "onboard_time": 1756695920,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 452361,
       "num": 149393,
       "word": "00生周翊然都演爸爸了",
       "onboard_time": 1756696220,
@@ -99,8 +123,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 427389,
-      "num": 427389,
+      "raw_hot": 440887,
+      "num": 440887,
       "word": "12306回应停发纸质车票",
       "onboard_time": 1756695680,
       "rank": 1,
@@ -113,22 +137,6 @@
       "onboard_time": 1756651703,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393074,
-      "num": 148857,
-      "word": "金价",
-      "onboard_time": 1756694961,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 390424,
-      "num": 148331,
-      "word": "敬山水 李庚希宋亚轩",
-      "onboard_time": 1756695920,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 390306,
@@ -187,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297655,
-      "num": 297655,
-      "word": "河南一幼儿园20元餐标吃上龙虾鲍鱼",
-      "onboard_time": 1756697001,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 297185,
+      "num": 297185,
+      "word": "上合成员国元首理事会会议",
+      "onboard_time": 1756694180,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 273560,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262043,
+      "num": 146541,
+      "word": "张晚意美美桑内一个劲的叭叭",
+      "onboard_time": 1756696580,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251310,
       "num": 147462,
       "word": "梓渝泥潭入围亚洲流行音乐大奖",
@@ -225,6 +241,14 @@
       "onboard_time": 1756681217,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 240715,
+      "num": 240715,
+      "word": "台湾教授苑举正受邀参加九三阅兵",
+      "onboard_time": 1756697721,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 236401,
@@ -249,6 +273,14 @@
       "onboard_time": 1756676835,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221454,
+      "num": 474735,
+      "word": "上合已成世界最大区域组织",
+      "onboard_time": 1756696341,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 220080,
@@ -281,14 +313,6 @@
       "onboard_time": 1756657639,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 194860,
-      "num": 194860,
-      "word": "上合成员国元首理事会会议",
-      "onboard_time": 1756694180,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 193118,
@@ -329,14 +353,6 @@
       "onboard_time": 1756690819,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 182133,
-      "num": 423794,
-      "word": "上合已成世界最大区域组织",
-      "onboard_time": 1756696341,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 181700,
@@ -387,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163309,
-      "num": 146541,
-      "word": "张晚意美美桑内一个劲的叭叭",
-      "onboard_time": 1756696580,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 160690,
+      "num": 223019,
+      "word": "上合组织旗帜鲜明反对外部干涉",
+      "onboard_time": 1756697061,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158344,
@@ -424,6 +440,14 @@
       "word": "成人安抚奶嘴夜间订单量暴增",
       "onboard_time": 1756634840,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153599,
+      "num": 153599,
+      "word": "全款买房住5年后真房主找来了",
+      "onboard_time": 1756698440,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -459,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143898,
+      "num": 143898,
+      "word": "尽快建成上海合作组织开发银行",
+      "onboard_time": 1756698021,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139419,
       "num": 139419,
       "word": "孟子义刘亦菲同款妆造",
@@ -481,6 +513,14 @@
       "onboard_time": 1756690398,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137764,
+      "num": 137764,
+      "word": "美国留学现状",
+      "onboard_time": 1756698381,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137531,
@@ -507,6 +547,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130484,
+      "num": 130484,
+      "word": "王一博从不缺席正能量大场面",
+      "onboard_time": 1756696039,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 129310,
+      "num": 143895,
+      "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
+      "onboard_time": 1756698742,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128936,
       "num": 128936,
       "word": "沈腾串台了",
@@ -524,11 +580,19 @@
     },
     {
       "raw_hot": 128241,
-      "num": 220239,
+      "num": 225275,
       "word": "80件抗战文物80载民族记忆",
       "onboard_time": 1756690098,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128080,
+      "num": 128080,
+      "word": "华晨宇鼓励留学歌迷毕业后回国",
+      "onboard_time": 1756696039,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 127419,
@@ -555,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125248,
-      "num": 125248,
-      "word": "王一博从不缺席正能量大场面",
-      "onboard_time": 1756696039,
-      "rank": 31,
-      "category": "音乐"
+      "raw_hot": 123299,
+      "num": 142583,
+      "word": "原来真的有人在享受高三",
+      "onboard_time": 1756697360,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 123201,
@@ -571,12 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122490,
-      "num": 150906,
-      "word": "台湾教授苑举正受邀参加九三阅兵",
-      "onboard_time": 1756697721,
-      "rank": 17,
-      "category": "国内时政"
+      "raw_hot": 117014,
+      "num": 117014,
+      "word": "Model3长续航后驱版降价",
+      "onboard_time": 1756698624,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 115786,
@@ -627,28 +691,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102981,
+      "num": 102981,
+      "word": "王佳怡长相和演技都不基础",
+      "onboard_time": 1756698801,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100978,
       "num": 561392,
       "word": "告别信息裸奔国家网络身份认证来啦",
       "onboard_time": 1756686860,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100077,
-      "num": 100077,
-      "word": "华晨宇鼓励留学歌迷毕业后回国",
-      "onboard_time": 1756696039,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 99770,
-      "num": 99770,
-      "word": "原来真的有人在享受高三",
-      "onboard_time": 1756697360,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 96266,
@@ -665,14 +721,6 @@
       "onboard_time": 1756648402,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92973,
-      "num": 92973,
-      "word": "尽快建成上海合作组织开发银行",
-      "onboard_time": 1756698021,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92803,
@@ -697,6 +745,14 @@
       "onboard_time": 1756682958,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90259,
+      "num": 90259,
+      "word": "苹果新增三款过时产品",
+      "onboard_time": 1756698921,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 90196,
@@ -755,6 +811,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85528,
+      "num": 85528,
+      "word": "学生火车票优惠升级了",
+      "onboard_time": 1756698624,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85468,
+      "num": 85468,
+      "word": "最适合吃饺子的盘子出现了",
+      "onboard_time": 1756698862,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84632,
       "num": 121443,
       "word": "华晨宇顶腮",
@@ -771,6 +843,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 81535,
+      "num": 145166,
+      "word": "2025暑期档电影票房119.66亿元",
+      "onboard_time": 1756697061,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80707,
       "num": 86780,
       "word": "小猫你怎么走的这么慢啊",
@@ -785,6 +865,14 @@
       "onboard_time": 1756692320,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80104,
+      "num": 110968,
+      "word": "台湾教授受邀参加九三阅兵",
+      "onboard_time": 1756698080,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79724,
@@ -867,22 +955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 69190,
-      "num": 223019,
-      "word": "上合组织旗帜鲜明反对外部干涉",
-      "onboard_time": 1756697061,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 67939,
-      "num": 145166,
-      "word": "2025暑期档电影票房119.66亿元",
-      "onboard_time": 1756697061,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 67786,
       "num": 120944,
       "word": "30多万人攻坚造出国产大飞机",
@@ -897,14 +969,6 @@
       "onboard_time": 1756683380,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64874,
-      "num": 100115,
-      "word": "台湾教授受邀参加九三阅兵",
-      "onboard_time": 1756698080,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 63526,
@@ -1107,6 +1171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29988,
+      "num": 478019,
+      "word": "对华关系是越南对外政策头等优先",
+      "onboard_time": 1756669214,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28283,
       "num": 47696,
       "word": "华晨宇萌的不知天地为何物了",
@@ -1171,14 +1243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19375,
-      "num": 423994,
-      "word": "对华关系是越南对外政策头等优先",
-      "onboard_time": 1756669214,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 18945,
       "num": 47466,
       "word": "AI合成内容需亮明身份",
@@ -1236,6 +1300,9 @@
     },
     {
       "word": "#习近平会见莫迪#"
+    },
+    {
+      "word": "#众行致远#"
     }
   ]
 }
