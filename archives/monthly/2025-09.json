@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756726654004,
+  "endTime": 1756731192062,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -25,6 +25,14 @@
       "onboard_time": 1756686620,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1002169,
+      "num": 195325,
+      "word": "咖啡因 布洛芬",
+      "onboard_time": 1756728082,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 953468,
@@ -65,6 +73,14 @@
       "onboard_time": 1756717101,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 824734,
+      "num": 191026,
+      "word": "巴黎世家 8200元塑料袋",
+      "onboard_time": 1756723882,
+      "rank": 12,
+      "category": "时尚"
     },
     {
       "raw_hot": 824625,
@@ -123,14 +139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 658331,
-      "num": 191026,
-      "word": "巴黎世家 8200元塑料袋",
-      "onboard_time": 1756723882,
-      "rank": 12,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 612202,
       "num": 612202,
       "word": "莫迪发文感谢中方",
@@ -177,6 +185,14 @@
       "onboard_time": 1756649604,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 522142,
+      "num": 522142,
+      "word": "9月3日安排",
+      "onboard_time": 1756729822,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 520112,
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384241,
+      "num": 173619,
+      "word": "巨发胖的七种食物",
+      "onboard_time": 1756723820,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 376393,
       "num": 376393,
       "word": "山东一小学新生报到名字惊艳众人",
@@ -339,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345637,
-      "num": 173619,
-      "word": "巨发胖的七种食物",
-      "onboard_time": 1756723820,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 343403,
       "num": 402375,
       "word": "全款买房住5年后真房主找来了",
@@ -361,6 +377,14 @@
       "onboard_time": 1756704142,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336628,
+      "num": 132962,
+      "word": "江山为聘剧组向陈哲远吴谨言致歉",
+      "onboard_time": 1756728801,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 332724,
@@ -409,6 +433,14 @@
       "onboard_time": 1756717401,
       "rank": 17,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 302949,
+      "num": 181021,
+      "word": "272万网民选的军训服要来了",
+      "onboard_time": 1756724481,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297185,
@@ -539,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245399,
+      "num": 245399,
+      "word": "理肤泉回应上百元喷雾成分只有水",
+      "onboard_time": 1756726581,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243992,
       "num": 404848,
       "word": "九三前日本做了哪些小动作",
@@ -561,6 +601,14 @@
       "onboard_time": 1756651763,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231787,
+      "num": 231787,
+      "word": "后天一起看阅兵",
+      "onboard_time": 1756727421,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 230621,
@@ -609,6 +657,14 @@
       "onboard_time": 1756684820,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216178,
+      "num": 216178,
+      "word": "纪念抗战胜利80周年文艺晚会",
+      "onboard_time": 1756729822,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215011,
@@ -819,14 +875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 173652,
-      "num": 181021,
-      "word": "272万网民选的军训服要来了",
-      "onboard_time": 1756724481,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171929,
       "num": 107234,
       "word": "张晚意综艺魔童降世",
@@ -875,6 +923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168429,
+      "num": 168429,
+      "word": "子夜归",
+      "onboard_time": 1756727421,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167689,
       "num": 405380,
       "word": "冼星海在炮声中用音乐救国",
@@ -912,6 +968,14 @@
       "word": "30岁生日当天抗日女记者跳崖牺牲",
       "onboard_time": 1756690398,
       "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 165074,
+      "num": 165074,
+      "word": "抗战中特殊的战士",
+      "onboard_time": 1756728681,
+      "rank": 16,
       "category": "国内时政"
     },
     {
@@ -1041,6 +1105,14 @@
       "onboard_time": 1756716802,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150342,
+      "num": 214060,
+      "word": "开学第一课",
+      "onboard_time": 1756724000,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 149966,
@@ -1203,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130613,
+      "num": 130613,
+      "word": "又跟着王源上电视了",
+      "onboard_time": 1756730361,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130484,
       "num": 130484,
       "word": "王一博从不缺席正能量大场面",
@@ -1323,6 +1403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120597,
+      "num": 204935,
+      "word": "香港上空这一幕令人震撼",
+      "onboard_time": 1756730001,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120538,
       "num": 238552,
       "word": "毛不易 这拖鞋一穿都走不出去二里地",
@@ -1363,6 +1451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116136,
+      "num": 116136,
+      "word": "校方回应86%网民严选的军训服被嫌丑",
+      "onboard_time": 1756730241,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115786,
       "num": 158200,
       "word": "王楚钦2比3徐瑛彬",
@@ -1384,6 +1480,14 @@
       "word": "陋室铭风宿舍出现了",
       "onboard_time": 1756703002,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 114970,
+      "num": 114970,
+      "word": "猫 我往那儿一站就是兵",
+      "onboard_time": 1756730181,
+      "rank": 28,
       "category": "幽默"
     },
     {
@@ -1433,6 +1537,14 @@
       "onboard_time": 1756701202,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111996,
+      "num": 111996,
+      "word": "深圳将免费提供一科一辅",
+      "onboard_time": 1756730241,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 111866,
@@ -1523,6 +1635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106220,
+      "num": 106220,
+      "word": "iPhone17Pro与17Air对比",
+      "onboard_time": 1756728381,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 105521,
       "num": 204064,
       "word": "上合组织何以圈粉世界",
@@ -1585,6 +1705,14 @@
       "onboard_time": 1756686860,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100607,
+      "num": 100607,
+      "word": "这身挂件摔地上能开个两元店",
+      "onboard_time": 1756727661,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 100500,
@@ -1715,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93710,
+      "num": 100586,
+      "word": "雷暴 鼻炎",
+      "onboard_time": 1756728442,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92803,
       "num": 105851,
       "word": "无畏契约巴黎全球冠军赛",
@@ -1787,6 +1923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88273,
+      "num": 100433,
+      "word": "孙颖莎已成为国乒不可或缺的角色",
+      "onboard_time": 1756729822,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87888,
       "num": 87888,
       "word": "叶童秒接李艺彤罗予彤求助电话",
@@ -1825,6 +1969,14 @@
       "onboard_time": 1756712301,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86644,
+      "num": 100160,
+      "word": "田曦薇人生镜头",
+      "onboard_time": 1756730843,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 86630,
@@ -1907,6 +2059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 84952,
+      "num": 99901,
+      "word": "别把聊天截图发给你朋友好吗",
+      "onboard_time": 1756729762,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84632,
       "num": 121443,
       "word": "华晨宇顶腮",
@@ -1937,6 +2097,22 @@
       "onboard_time": 1756720882,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83870,
+      "num": 99644,
+      "word": "王楚钦北大研究生要开学了",
+      "onboard_time": 1756730540,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83716,
+      "num": 99778,
+      "word": "陈垣宇林高远3比0宁贤坤陶育畅",
+      "onboard_time": 1756730241,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 83135,
@@ -2107,6 +2283,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75411,
+      "num": 99334,
+      "word": "永远喜欢看樊振东的比赛",
+      "onboard_time": 1756730241,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75138,
+      "num": 99186,
+      "word": "雪王秒了",
+      "onboard_time": 1756730361,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74189,
       "num": 169027,
       "word": "王曼昱说熬过这一段好好修养下",
@@ -2251,6 +2443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66787,
+      "num": 98390,
+      "word": "李晋晔求问退出键在哪",
+      "onboard_time": 1756729402,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 66786,
+      "num": 98195,
+      "word": "蜂蜜是花生酱",
+      "onboard_time": 1756728442,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66622,
       "num": 389857,
       "word": "狗 这个家没我得散",
@@ -2281,6 +2489,14 @@
       "onboard_time": 1756726462,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 65548,
+      "num": 98070,
+      "word": "薛飞3比0黄友政",
+      "onboard_time": 1756730001,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 65469,
@@ -2379,28 +2595,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 58494,
-      "num": 198615,
-      "word": "开学第一课",
-      "onboard_time": 1756724000,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57905,
       "num": 97161,
       "word": "睡觉把脚露在外面可以改善失眠",
       "onboard_time": 1756718542,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 57154,
-      "num": 173399,
-      "word": "理肤泉回应上百元喷雾成分只有水",
-      "onboard_time": 1756726581,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57066,
