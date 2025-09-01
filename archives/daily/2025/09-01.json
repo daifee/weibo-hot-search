@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756698949449,
+  "endTime": 1756701315793,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -35,12 +35,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 880562,
+      "num": 166192,
+      "word": "金价",
+      "onboard_time": 1756694961,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 864287,
       "num": 864287,
       "word": "开学",
       "onboard_time": 1756651344,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 803585,
+      "num": 1128573,
+      "word": "河南一幼儿园20元餐标吃上龙虾鲍鱼",
+      "onboard_time": 1756697001,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 700685,
@@ -51,12 +67,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 622991,
-      "num": 148857,
-      "word": "金价",
-      "onboard_time": 1756694961,
-      "rank": 21,
-      "category": "财经"
+      "raw_hot": 688472,
+      "num": 235572,
+      "word": "过的太爽了不敢告诉别人",
+      "onboard_time": 1756700963,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 608402,
@@ -91,14 +107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 491766,
-      "num": 491766,
-      "word": "河南一幼儿园20元餐标吃上龙虾鲍鱼",
-      "onboard_time": 1756697001,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 477460,
       "num": 477460,
       "word": "石宇奇夺冠教练快被打成重伤",
@@ -107,8 +115,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 462106,
+      "num": 462106,
+      "word": "12306回应停发纸质车票",
+      "onboard_time": 1756695680,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455284,
-      "num": 148331,
+      "num": 165266,
       "word": "敬山水 李庚希宋亚轩",
       "onboard_time": 1756695920,
       "rank": 22,
@@ -116,19 +132,11 @@
     },
     {
       "raw_hot": 452361,
-      "num": 149393,
+      "num": 155565,
       "word": "00生周翊然都演爸爸了",
       "onboard_time": 1756696220,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 440887,
-      "num": 440887,
-      "word": "12306回应停发纸质车票",
-      "onboard_time": 1756695680,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 403724,
@@ -147,11 +155,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380856,
+      "num": 161210,
+      "word": "美国留学现状",
+      "onboard_time": 1756698381,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 376393,
       "num": 376393,
       "word": "山东一小学新生报到名字惊艳众人",
       "onboard_time": 1756655542,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368352,
+      "num": 368352,
+      "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
+      "onboard_time": 1756698742,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -163,12 +187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333383,
+      "num": 160918,
+      "word": "爱奇艺9月待播剧综",
+      "onboard_time": 1756700303,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332724,
       "num": 126669,
       "word": "9月财运最旺的星座",
       "onboard_time": 1756681518,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328701,
+      "num": 226692,
+      "word": "全款买房住5年后真房主找来了",
+      "onboard_time": 1756698440,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326939,
@@ -203,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 296386,
+      "num": 156391,
+      "word": "张晚意美美桑内一个劲的叭叭",
+      "onboard_time": 1756696580,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273560,
       "num": 273560,
       "word": "买电动车注意三个月过渡期",
@@ -219,16 +267,32 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262043,
-      "num": 146541,
-      "word": "张晚意美美桑内一个劲的叭叭",
-      "onboard_time": 1756696580,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 270532,
+      "num": 270532,
+      "word": "台湾教授苑举正受邀参加九三阅兵",
+      "onboard_time": 1756697721,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 266963,
+      "num": 208326,
+      "word": "9月1日起全民交社保纯属误读",
+      "onboard_time": 1756696699,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263733,
+      "num": 263733,
+      "word": "普京访华4天两地十多场会晤",
+      "onboard_time": 1756699400,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 251310,
-      "num": 147462,
+      "num": 149052,
       "word": "梓渝泥潭入围亚洲流行音乐大奖",
       "onboard_time": 1756682000,
       "rank": 26,
@@ -241,14 +305,6 @@
       "onboard_time": 1756681217,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 240715,
-      "num": 240715,
-      "word": "台湾教授苑举正受邀参加九三阅兵",
-      "onboard_time": 1756697721,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 236401,
@@ -299,6 +355,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 207384,
+      "num": 153261,
+      "word": "苹果新增三款过时产品",
+      "onboard_time": 1756698921,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 201001,
       "num": 173792,
       "word": "为什么吃海底捞前要先上个坡",
@@ -313,6 +377,14 @@
       "onboard_time": 1756657639,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 195197,
+      "num": 151466,
+      "word": "最适合吃饺子的盘子出现了",
+      "onboard_time": 1756698862,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 193118,
@@ -339,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186657,
-      "num": 186657,
-      "word": "9月1日起全民交社保纯属误读",
-      "onboard_time": 1756696699,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186622,
       "num": 186622,
       "word": "美方欲将加沙200万人迁走",
@@ -363,12 +427,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180101,
+      "num": 180101,
+      "word": "一年移动办公300天是什么体验",
+      "onboard_time": 1756700963,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174934,
       "num": 164800,
       "word": "旺旺总经理赴京看九三阅兵",
       "onboard_time": 1756651763,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 170077,
+      "num": 170077,
+      "word": "Model3长续航后驱版降价",
+      "onboard_time": 1756698624,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 169491,
+      "num": 169491,
+      "word": "全红婵大学的院长是苏炳添",
+      "onboard_time": 1756701142,
+      "rank": 18,
+      "category": "体育,其它"
     },
     {
       "raw_hot": 169241,
@@ -443,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153599,
-      "num": 153599,
-      "word": "全款买房住5年后真房主找来了",
-      "onboard_time": 1756698440,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151780,
       "num": 151780,
       "word": "给小狗报了个旅狗团",
@@ -483,8 +563,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143898,
-      "num": 143898,
+      "raw_hot": 144318,
+      "num": 144318,
       "word": "尽快建成上海合作组织开发银行",
       "onboard_time": 1756698021,
       "rank": 44,
@@ -515,20 +595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137764,
-      "num": 137764,
-      "word": "美国留学现状",
-      "onboard_time": 1756698381,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 137531,
       "num": 137531,
       "word": "羽毛球世锦赛",
       "onboard_time": 1756639580,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136992,
+      "num": 142583,
+      "word": "原来真的有人在享受高三",
+      "onboard_time": 1756697360,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 136705,
@@ -539,12 +619,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136474,
+      "num": 136474,
+      "word": "我在家猫瘾犯了就这样",
+      "onboard_time": 1756701021,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135589,
       "num": 125957,
       "word": "边伯贤说何老师很有名",
       "onboard_time": 1756657220,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134427,
+      "num": 258095,
+      "word": "2025暑期档电影票房119.66亿元",
+      "onboard_time": 1756697061,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 130899,
+      "num": 130899,
+      "word": "暑假作业被狗撕碎男孩崩溃边哭边揍",
+      "onboard_time": 1756700603,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130484,
@@ -555,12 +659,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129310,
-      "num": 143895,
-      "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
-      "onboard_time": 1756698742,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 130210,
+      "num": 130210,
+      "word": "赴山海",
+      "onboard_time": 1756700722,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 128936,
@@ -619,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123299,
-      "num": 142583,
-      "word": "原来真的有人在享受高三",
-      "onboard_time": 1756697360,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 123201,
       "num": 123201,
       "word": "2025还剩三分之一",
@@ -635,12 +731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117014,
-      "num": 117014,
-      "word": "Model3长续航后驱版降价",
-      "onboard_time": 1756698624,
-      "rank": 34,
-      "category": "汽车"
+      "raw_hot": 120072,
+      "num": 120072,
+      "word": "秦皇岛动物园遇猛虎惊魂实录",
+      "onboard_time": 1756700121,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115786,
@@ -649,6 +745,14 @@
       "onboard_time": 1756646543,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114718,
+      "num": 114718,
+      "word": "A股9月迎开门红",
+      "onboard_time": 1756700242,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 114464,
@@ -665,6 +769,22 @@
       "onboard_time": 1756697661,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112091,
+      "num": 112091,
+      "word": "在雪国列车遇到了异国crush",
+      "onboard_time": 1756701202,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 107314,
+      "num": 107314,
+      "word": "蒯曼平野美宇vs何卓佳刘炜珊",
+      "onboard_time": 1756700181,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 106486,
@@ -707,12 +827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100500,
+      "num": 100500,
+      "word": "2.3万亿美元目标提前实现",
+      "onboard_time": 1756699161,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96266,
       "num": 96266,
       "word": "我家的抗战记忆",
       "onboard_time": 1756694180,
       "rank": 43,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 95204,
+      "num": 95204,
+      "word": "大一开学宿舍是这样的",
+      "onboard_time": 1756699822,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 93761,
@@ -745,14 +881,6 @@
       "onboard_time": 1756682958,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90259,
-      "num": 90259,
-      "word": "苹果新增三款过时产品",
-      "onboard_time": 1756698921,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 90196,
@@ -819,14 +947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85468,
-      "num": 85468,
-      "word": "最适合吃饺子的盘子出现了",
-      "onboard_time": 1756698862,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 84632,
       "num": 121443,
       "word": "华晨宇顶腮",
@@ -843,12 +963,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 81535,
-      "num": 145166,
-      "word": "2025暑期档电影票房119.66亿元",
-      "onboard_time": 1756697061,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 82021,
+      "num": 118432,
+      "word": "一等功臣爷爷送孙子国防科大报到",
+      "onboard_time": 1756701263,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80707,
@@ -993,6 +1113,14 @@
       "onboard_time": 1756639460,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60655,
+      "num": 168810,
+      "word": "九三前日本做了哪些小动作",
+      "onboard_time": 1756700542,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59614,
@@ -1163,20 +1291,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32692,
+      "num": 478019,
+      "word": "对华关系是越南对外政策头等优先",
+      "onboard_time": 1756669214,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31368,
       "num": 61856,
       "word": "鹿晗演唱会",
       "onboard_time": 1756643542,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29988,
-      "num": 478019,
-      "word": "对华关系是越南对外政策头等优先",
-      "onboard_time": 1756669214,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28283,
@@ -1303,6 +1431,9 @@
     },
     {
       "word": "#众行致远#"
+    },
+    {
+      "word": "#共同家园#"
     }
   ]
 }
