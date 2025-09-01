@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756711596815,
+  "endTime": 1756712390558,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -219,20 +219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372791,
+      "num": 372791,
+      "word": "莫迪搭普京专车",
+      "onboard_time": 1756709721,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 362855,
       "num": 395598,
       "word": "爱奇艺9月待播剧综",
       "onboard_time": 1756700303,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 351269,
-      "num": 351269,
-      "word": "莫迪搭普京专车",
-      "onboard_time": 1756709721,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 350731,
@@ -361,6 +361,14 @@
       "onboard_time": 1756699400,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 262429,
+      "num": 238736,
+      "word": "董璇一直在为张维伊兜底",
+      "onboard_time": 1756710980,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 260093,
@@ -699,20 +707,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 158859,
+      "num": 400724,
+      "word": "自律减肥400天的变化",
+      "onboard_time": 1756705100,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 158344,
       "num": 158344,
       "word": "F1",
       "onboard_time": 1756651884,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158037,
-      "num": 400724,
-      "word": "自律减肥400天的变化",
-      "onboard_time": 1756705100,
-      "rank": 33,
-      "category": "运动健身"
     },
     {
       "raw_hot": 157600,
@@ -771,6 +779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149589,
+      "num": 239132,
+      "word": "献鱼 番外",
+      "onboard_time": 1756709900,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147751,
       "num": 396762,
       "word": "李乃文又拉长人中了",
@@ -793,14 +809,6 @@
       "onboard_time": 1756698021,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140888,
-      "num": 238736,
-      "word": "董璇一直在为张维伊兜底",
-      "onboard_time": 1756710980,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 139419,
@@ -865,6 +873,22 @@
       "onboard_time": 1756657220,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134042,
+      "num": 237201,
+      "word": "杨幂小时代这梗过不去了",
+      "onboard_time": 1756711581,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132603,
+      "num": 239105,
+      "word": "孙颖莎的荣誉簿好长好长",
+      "onboard_time": 1756710141,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 130899,
@@ -947,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124290,
+      "num": 211572,
+      "word": "A股成交额2.75万亿缩量483亿",
+      "onboard_time": 1756712301,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123201,
       "num": 123201,
       "word": "2025还剩三分之一",
@@ -961,22 +993,6 @@
       "onboard_time": 1756710741,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117440,
-      "num": 239132,
-      "word": "献鱼 番外",
-      "onboard_time": 1756709900,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 116238,
-      "num": 239105,
-      "word": "孙颖莎的荣誉簿好长好长",
-      "onboard_time": 1756710141,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 115786,
@@ -1091,6 +1107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105521,
+      "num": 204064,
+      "word": "上合组织何以圈粉世界",
+      "onboard_time": 1756712061,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105162,
       "num": 127585,
       "word": "樊振东无缘德甲开门红",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1756654821,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102989,
+      "num": 203988,
+      "word": "华晨宇苏州连开三天的上座率",
+      "onboard_time": 1756711701,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 102981,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1756701562,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98741,
+      "num": 237445,
+      "word": "罗马的马是马尔泰若曦的马",
+      "onboard_time": 1756710921,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 97095,
@@ -1243,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86998,
+      "num": 203333,
+      "word": "牢记初心使命开创美好未来",
+      "onboard_time": 1756712301,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86630,
       "num": 86630,
       "word": "问界M8累计交付量破8万台",
@@ -1275,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85348,
+      "num": 236980,
+      "word": "大连有自己的jelly cat",
+      "onboard_time": 1756709959,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84632,
       "num": 121443,
       "word": "华晨宇顶腮",
@@ -1304,14 +1360,6 @@
       "word": "当周一撞上每月一号",
       "onboard_time": 1756708941,
       "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 82746,
-      "num": 237445,
-      "word": "罗马的马是马尔泰若曦的马",
-      "onboard_time": 1756710921,
-      "rank": 41,
       "category": "幽默"
     },
     {
@@ -1347,12 +1395,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80070,
+      "num": 203688,
+      "word": "周翊然果郡王",
+      "onboard_time": 1756711881,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79724,
       "num": 121372,
       "word": "北京暴雨",
       "onboard_time": 1756646543,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79233,
+      "num": 203065,
+      "word": "丞磊林允新剧上演事业脑情侣",
+      "onboard_time": 1756712241,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 78660,
@@ -1376,14 +1440,6 @@
       "word": "徐如蓝方益炯势均力敌的约会",
       "onboard_time": 1756705281,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 76685,
-      "num": 237201,
-      "word": "杨幂小时代这梗过不去了",
-      "onboard_time": 1756711581,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1419,14 +1475,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 72447,
-      "num": 236980,
-      "word": "大连有自己的jelly cat",
-      "onboard_time": 1756709959,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 72431,
       "num": 120837,
       "word": "邓紫棋把琥珀流光穿身上",
@@ -1441,6 +1489,14 @@
       "onboard_time": 1756709360,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 72055,
+      "num": 238310,
+      "word": "上合峰会莫迪拉着普京的手进大厅",
+      "onboard_time": 1756710980,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72038,
@@ -1659,6 +1715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51654,
+      "num": 203779,
+      "word": "鹿晗把逛街买贵的莲子带上演唱会",
+      "onboard_time": 1756712001,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 48427,
       "num": 61891,
       "word": "5岁半小狗捡瓶子日入50元",
@@ -1681,14 +1745,6 @@
       "onboard_time": 1756659318,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 45471,
-      "num": 238310,
-      "word": "上合峰会莫迪拉着普京的手进大厅",
-      "onboard_time": 1756710980,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42289,
@@ -1914,6 +1970,9 @@
     },
     {
       "word": "#共同家园#"
+    },
+    {
+      "word": "#习近平在上合峰会欢迎宴会上的祝酒辞#"
     }
   ]
 }

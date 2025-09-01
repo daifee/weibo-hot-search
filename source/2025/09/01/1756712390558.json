@@ -1,0 +1,410 @@
+{
+  "runTime": 1756712390558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 427810,
+        "num": 1068449,
+        "word": "一等功臣爷爷送孙子国防科大报到",
+        "onboard_time": 1756701263,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372791,
+        "num": 372791,
+        "word": "莫迪搭普京专车",
+        "onboard_time": 1756709721,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3521,
+        "num": 331990,
+        "word": "对华关系是越南对外政策头等优先",
+        "onboard_time": 1756669214,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 382281,
+        "num": 329637,
+        "word": "孙颖莎进入国家队十年发文",
+        "onboard_time": 1756708879,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326692,
+        "num": 326692,
+        "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
+        "onboard_time": 1756698742,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225071,
+        "num": 225071,
+        "word": "12306回应停发纸质车票",
+        "onboard_time": 1756695680,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158859,
+        "num": 223945,
+        "word": "自律减肥400天的变化",
+        "onboard_time": 1756705100,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 154194,
+        "num": 222981,
+        "word": "上合成员国元首理事会会议",
+        "onboard_time": 1756694180,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74843,
+        "num": 221835,
+        "word": "2025暑期档电影票房119.66亿元",
+        "onboard_time": 1756697061,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149848,
+        "num": 221019,
+        "word": "上合成员国元首理事会天津宣言",
+        "onboard_time": 1756709781,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420578,
+        "num": 219931,
+        "word": "波兰百万富豪回应抢走小男孩帽子",
+        "onboard_time": 1756708819,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 244906,
+        "num": 217556,
+        "word": "过的太爽了不敢告诉别人",
+        "onboard_time": 1756700963,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151809,
+        "num": 216986,
+        "word": "冼星海在炮声中用音乐救国",
+        "onboard_time": 1756705880,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149589,
+        "num": 215980,
+        "word": "献鱼 番外",
+        "onboard_time": 1756709900,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141513,
+        "num": 214893,
+        "word": "令人心动的offer主持人季官宣",
+        "onboard_time": 1756704142,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132603,
+        "num": 213142,
+        "word": "孙颖莎的荣誉簿好长好长",
+        "onboard_time": 1756710141,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124290,
+        "num": 211572,
+        "word": "A股成交额2.75万亿缩量483亿",
+        "onboard_time": 1756712301,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70148,
+        "num": 210200,
+        "word": "8月每不到1分钟就有辆零跑被开走",
+        "onboard_time": 1756708341,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122581,
+        "num": 209345,
+        "word": "献鱼大结局",
+        "onboard_time": 1756703121,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120420,
+        "num": 207338,
+        "word": "全款买房住5年后真房主找来了",
+        "onboard_time": 1756698440,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465139,
+        "num": 206653,
+        "word": "金价",
+        "onboard_time": 1756694961,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262429,
+        "num": 204838,
+        "word": "董璇一直在为张维伊兜底",
+        "onboard_time": 1756710980,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204754,
+        "num": 204754,
+        "word": "全红婵大学的院长是苏炳添",
+        "onboard_time": 1756701142,
+        "rank": 22,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 143311,
+        "num": 204694,
+        "word": "张予曦妈妈太了解毕雯珺了",
+        "onboard_time": 1756708341,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137466,
+        "num": 204630,
+        "word": "张晚意 龚俊亦未寝",
+        "onboard_time": 1756707502,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134042,
+        "num": 204614,
+        "word": "杨幂小时代这梗过不去了",
+        "onboard_time": 1756711581,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128942,
+        "num": 204552,
+        "word": "第一次发现谢娜是妈妈辈的",
+        "onboard_time": 1756706001,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125853,
+        "num": 204454,
+        "word": "花少7时长统计",
+        "onboard_time": 1756703542,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30942,
+        "num": 204371,
+        "word": "约会基础喝茉莉茶的约会不基础",
+        "onboard_time": 1756710441,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72055,
+        "num": 204355,
+        "word": "上合峰会莫迪拉着普京的手进大厅",
+        "onboard_time": 1756710980,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104086,
+        "num": 204256,
+        "word": "你们誓死守护的中国如今繁华锦绣",
+        "onboard_time": 1756710381,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118958,
+        "num": 204198,
+        "word": "iPhone17Pro透明保护壳曝光",
+        "onboard_time": 1756701801,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 111142,
+        "num": 204143,
+        "word": "上合已成世界最大区域组织",
+        "onboard_time": 1756696341,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105521,
+        "num": 204064,
+        "word": "上合组织何以圈粉世界",
+        "onboard_time": 1756712061,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102989,
+        "num": 203988,
+        "word": "华晨宇苏州连开三天的上座率",
+        "onboard_time": 1756711701,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102929,
+        "num": 203967,
+        "word": "九三前日本做了哪些小动作",
+        "onboard_time": 1756700542,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98741,
+        "num": 203908,
+        "word": "罗马的马是马尔泰若曦的马",
+        "onboard_time": 1756710921,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98424,
+        "num": 203787,
+        "word": "美国留学现状",
+        "onboard_time": 1756698381,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51654,
+        "num": 203779,
+        "word": "鹿晗把逛街买贵的莲子带上演唱会",
+        "onboard_time": 1756712001,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80070,
+        "num": 203688,
+        "word": "周翊然果郡王",
+        "onboard_time": 1756711881,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97728,
+        "num": 203622,
+        "word": "河南一幼儿园20元餐标吃上龙虾鲍鱼",
+        "onboard_time": 1756697001,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94790,
+        "num": 203558,
+        "word": "李乃文又拉长人中了",
+        "onboard_time": 1756706900,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92195,
+        "num": 203490,
+        "word": "最适合吃饺子的盘子出现了",
+        "onboard_time": 1756698862,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88311,
+        "num": 203449,
+        "word": "台湾教授苑举正受邀参加九三阅兵",
+        "onboard_time": 1756697721,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86998,
+        "num": 203333,
+        "word": "牢记初心使命开创美好未来",
+        "onboard_time": 1756712301,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85348,
+        "num": 203307,
+        "word": "大连有自己的jelly cat",
+        "onboard_time": 1756709959,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84911,
+        "num": 203246,
+        "word": "苹果新增三款过时产品",
+        "onboard_time": 1756698921,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82482,
+        "num": 203181,
+        "word": "毛不易 这拖鞋一穿都走不出去二里地",
+        "onboard_time": 1756710741,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79233,
+        "num": 203065,
+        "word": "丞磊林允新剧上演事业脑情侣",
+        "onboard_time": 1756712241,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76992,
+        "num": 203032,
+        "word": "老人把饺子喂给进站的入伍军人",
+        "onboard_time": 1756709421,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上合峰会欢迎宴会上的祝酒辞#"
+    }
+  }
+}
