@@ -1,0 +1,410 @@
+{
+  "runTime": 1756734359428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2085045,
+        "num": 2085045,
+        "word": "9月3日安排",
+        "onboard_time": 1756729822,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 720702,
+        "num": 720702,
+        "word": "理肤泉回应上百元喷雾成分只有水",
+        "onboard_time": 1756726581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121610,
+        "num": 617382,
+        "word": "开学第一课",
+        "onboard_time": 1756724000,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 526896,
+        "num": 526896,
+        "word": "九三阅兵具体安排来了",
+        "onboard_time": 1756713863,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296472,
+        "num": 296472,
+        "word": "香港上空这一幕令人震撼",
+        "onboard_time": 1756730001,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272622,
+        "num": 272622,
+        "word": "金正恩已启程来华",
+        "onboard_time": 1756724242,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25303,
+        "num": 253894,
+        "word": "你们誓死守护的中国如今繁华锦绣",
+        "onboard_time": 1756710381,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253205,
+        "num": 253205,
+        "word": "后天一起看阅兵",
+        "onboard_time": 1756727421,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231241,
+        "num": 231241,
+        "word": "纪念抗战胜利80周年文艺晚会",
+        "onboard_time": 1756729822,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112814,
+        "num": 231054,
+        "word": "李家超率360人代表团出席九三阅兵",
+        "onboard_time": 1756731262,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 734060,
+        "num": 226079,
+        "word": "咖啡因 布洛芬",
+        "onboard_time": 1756728082,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331216,
+        "num": 218891,
+        "word": "别把聊天截图发给你朋友好吗",
+        "onboard_time": 1756729762,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315214,
+        "num": 213833,
+        "word": "雷暴 鼻炎",
+        "onboard_time": 1756728442,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283418,
+        "num": 206460,
+        "word": "永辉超市胖东来燕麦脆已下架",
+        "onboard_time": 1756723520,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205620,
+        "num": 205620,
+        "word": "272万网民选的军训服要来了",
+        "onboard_time": 1756724481,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188166,
+        "num": 188166,
+        "word": "汕头明润晋级乒超总决赛",
+        "onboard_time": 1756733243,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175168,
+        "num": 175168,
+        "word": "莫迪发文感谢中方",
+        "onboard_time": 1756721601,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166799,
+        "num": 166799,
+        "word": "瘦下82斤身体各部位的变化",
+        "onboard_time": 1756721121,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 165996,
+        "num": 165996,
+        "word": "樊振东效力俱乐部回应首战失利",
+        "onboard_time": 1756718661,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163005,
+        "num": 165980,
+        "word": "校方回应86%网民严选的军训服被嫌丑",
+        "onboard_time": 1756730241,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441569,
+        "num": 165954,
+        "word": "田曦薇人生镜头",
+        "onboard_time": 1756730843,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393869,
+        "num": 165916,
+        "word": "巨发胖的七种食物",
+        "onboard_time": 1756723820,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287078,
+        "num": 165889,
+        "word": "巴黎世家 8200元塑料袋",
+        "onboard_time": 1756723882,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 260928,
+        "num": 165882,
+        "word": "江山为聘剧组向陈哲远吴谨言致歉",
+        "onboard_time": 1756728801,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201387,
+        "num": 165851,
+        "word": "人去世了微信朋友圈会消失吗",
+        "onboard_time": 1756716624,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129332,
+        "num": 165815,
+        "word": "深圳将免费提供一科一辅",
+        "onboard_time": 1756730241,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128714,
+        "num": 165802,
+        "word": "iPhone17Pro与17Air对比",
+        "onboard_time": 1756728381,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126297,
+        "num": 165750,
+        "word": "尼总理拒绝日本游说来华出席阅兵",
+        "onboard_time": 1756717101,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114030,
+        "num": 165734,
+        "word": "展轩新歌录音纪录",
+        "onboard_time": 1756733182,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110023,
+        "num": 165708,
+        "word": "抗战中特殊的战士",
+        "onboard_time": 1756728681,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108437,
+        "num": 165684,
+        "word": "张晚意的N合一龚俊也用上了",
+        "onboard_time": 1756733243,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105992,
+        "num": 165647,
+        "word": "王影璐回看献鱼恍如隔世",
+        "onboard_time": 1756733182,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102251,
+        "num": 165629,
+        "word": "孙颖莎已成为国乒不可或缺的角色",
+        "onboard_time": 1756729822,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94091,
+        "num": 165601,
+        "word": "全家送女儿上大学返程三人集体泪崩",
+        "onboard_time": 1756721421,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92194,
+        "num": 165559,
+        "word": "女生独居冷知识",
+        "onboard_time": 1756731683,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89099,
+        "num": 165524,
+        "word": "谁家男女主第八集再也没见过",
+        "onboard_time": 1756729341,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89076,
+        "num": 165521,
+        "word": "12306回应停发纸质票不便老年人",
+        "onboard_time": 1756715242,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80497,
+        "num": 165488,
+        "word": "我们这个时代爱的成本太高了",
+        "onboard_time": 1756732941,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74661,
+        "num": 165452,
+        "word": "离职前先把签证办下来",
+        "onboard_time": 1756714942,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70791,
+        "num": 165425,
+        "word": "韩德君退役",
+        "onboard_time": 1756723160,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66833,
+        "num": 165411,
+        "word": "好多明星去了万妮达演唱会",
+        "onboard_time": 1756733303,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66754,
+        "num": 165370,
+        "word": "拼多多80元的减负书包成开学神器",
+        "onboard_time": 1756724481,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63313,
+        "num": 165345,
+        "word": "子夜归",
+        "onboard_time": 1756727421,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62102,
+        "num": 165309,
+        "word": "以防你没见过这个海绵宝宝",
+        "onboard_time": 1756733962,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 62040,
+        "num": 165294,
+        "word": "王楚钦北大研究生要开学了",
+        "onboard_time": 1756730540,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61682,
+        "num": 165251,
+        "word": "种地吧",
+        "onboard_time": 1756721180,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59225,
+        "num": 165239,
+        "word": "山东魏桥2比1山东鲁能",
+        "onboard_time": 1756731801,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57983,
+        "num": 165207,
+        "word": "林允儿新剧收视创新高",
+        "onboard_time": 1756716141,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56291,
+        "num": 165176,
+        "word": "雪王秒了",
+        "onboard_time": 1756730361,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55990,
+        "num": 165144,
+        "word": "又跟着王源上电视了",
+        "onboard_time": 1756730361,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席提出全球治理倡议#"
+    }
+  }
+}

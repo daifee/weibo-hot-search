@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756733684314,
+  "endTime": 1756734359428,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1737892,
-      "num": 1737892,
+      "raw_hot": 2085045,
+      "num": 2085045,
       "word": "9月3日安排",
       "onboard_time": 1756729822,
       "rank": 1,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441569,
+      "num": 172427,
+      "word": "田曦薇人生镜头",
+      "onboard_time": 1756730843,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428629,
       "num": 240108,
       "word": "波兰百万富豪回应抢走小男孩帽子",
@@ -315,12 +323,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 394265,
-      "num": 172427,
-      "word": "田曦薇人生镜头",
-      "onboard_time": 1756730843,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 393869,
+      "num": 173619,
+      "word": "巨发胖的七种食物",
+      "onboard_time": 1756723820,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 390306,
@@ -337,14 +345,6 @@
       "onboard_time": 1756721180,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 384241,
-      "num": 173619,
-      "word": "巨发胖的七种食物",
-      "onboard_time": 1756723820,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 376393,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331216,
+      "num": 218891,
+      "word": "别把聊天截图发给你朋友好吗",
+      "onboard_time": 1756729762,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326939,
       "num": 326939,
       "word": "篡改电动自行车电池的人这下消停了",
@@ -435,6 +443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 315214,
+      "num": 213833,
+      "word": "雷暴 鼻炎",
+      "onboard_time": 1756728442,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 311729,
       "num": 124390,
       "word": "香港小姐",
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 302949,
-      "num": 202113,
+      "num": 205620,
       "word": "272万网民选的军训服要来了",
       "onboard_time": 1756724481,
       "rank": 17,
@@ -555,14 +571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 268745,
-      "num": 202489,
-      "word": "别把聊天截图发给你朋友好吗",
-      "onboard_time": 1756729762,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 265934,
       "num": 265934,
       "word": "秦皇岛动物园遇猛虎惊魂实录",
@@ -595,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253205,
+      "num": 253205,
+      "word": "后天一起看阅兵",
+      "onboard_time": 1756727421,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 251310,
       "num": 177330,
       "word": "梓渝泥潭入围亚洲流行音乐大奖",
@@ -625,14 +641,6 @@
       "onboard_time": 1756681217,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 243077,
-      "num": 243077,
-      "word": "后天一起看阅兵",
-      "onboard_time": 1756727421,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 236401,
@@ -843,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188166,
+      "num": 188166,
+      "word": "汕头明润晋级乒超总决赛",
+      "onboard_time": 1756733243,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187244,
       "num": 105896,
       "word": "九月",
@@ -899,28 +915,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179091,
-      "num": 179091,
-      "word": "雷暴 鼻炎",
-      "onboard_time": 1756728442,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 174934,
       "num": 164800,
       "word": "旺旺总经理赴京看九三阅兵",
       "onboard_time": 1756651763,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 172660,
-      "num": 172660,
-      "word": "汕头明润晋级乒超总决赛",
-      "onboard_time": 1756733243,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 171929,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1756709900,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163005,
+      "num": 172253,
+      "word": "校方回应86%网民严选的军训服被嫌丑",
+      "onboard_time": 1756730241,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160690,
@@ -1347,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129332,
+      "num": 172185,
+      "word": "深圳将免费提供一科一辅",
+      "onboard_time": 1756730241,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128936,
       "num": 128936,
       "word": "沈腾串台了",
@@ -1459,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120167,
-      "num": 172253,
-      "word": "校方回应86%网民严选的军训服被嫌丑",
-      "onboard_time": 1756730241,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119841,
       "num": 150220,
       "word": "出席九三阅兵的非洲兄弟到了",
@@ -1476,7 +1484,7 @@
     },
     {
       "raw_hot": 119666,
-      "num": 172366,
+      "num": 231054,
       "word": "李家超率360人代表团出席九三阅兵",
       "onboard_time": 1756731262,
       "rank": 33,
@@ -1555,6 +1563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114030,
+      "num": 172011,
+      "word": "展轩新歌录音纪录",
+      "onboard_time": 1756733182,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 113867,
       "num": 149058,
       "word": "卡厄斯兰那和他养的小孩",
@@ -1595,14 +1611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111996,
-      "num": 172185,
-      "word": "深圳将免费提供一科一辅",
-      "onboard_time": 1756730241,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 111866,
       "num": 173472,
       "word": "美国两架飞机降落时空中相撞",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1756705163,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108437,
+      "num": 172088,
+      "word": "张晚意的N合一龚俊也用上了",
+      "onboard_time": 1756733243,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 107673,
@@ -1697,6 +1713,14 @@
       "onboard_time": 1756731801,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105992,
+      "num": 171918,
+      "word": "王影璐回看献鱼恍如隔世",
+      "onboard_time": 1756733182,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 105521,
@@ -1875,14 +1899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 97001,
-      "num": 172088,
-      "word": "张晚意的N合一龚俊也用上了",
-      "onboard_time": 1756733243,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96266,
       "num": 185716,
       "word": "我家的抗战记忆",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1756688302,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89099,
+      "num": 171970,
+      "word": "谁家男女主第八集再也没见过",
+      "onboard_time": 1756729341,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 88783,
@@ -2195,14 +2219,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80961,
-      "num": 172011,
-      "word": "展轩新歌录音纪录",
-      "onboard_time": 1756733182,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 80707,
       "num": 86780,
       "word": "小猫你怎么走的这么慢啊",
@@ -2217,14 +2233,6 @@
       "onboard_time": 1756724662,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 80359,
-      "num": 171970,
-      "word": "谁家男女主第八集再也没见过",
-      "onboard_time": 1756729341,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 80193,
@@ -2281,14 +2289,6 @@
       "onboard_time": 1756691780,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78274,
-      "num": 171918,
-      "word": "王影璐回看献鱼恍如隔世",
-      "onboard_time": 1756733182,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 77726,
@@ -2523,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66833,
+      "num": 165411,
+      "word": "好多明星去了万妮达演唱会",
+      "onboard_time": 1756733303,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 66787,
       "num": 98390,
       "word": "李晋晔求问退出键在哪",
@@ -2649,6 +2657,14 @@
       "onboard_time": 1756715541,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62102,
+      "num": 165309,
+      "word": "以防你没见过这个海绵宝宝",
+      "onboard_time": 1756733962,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 61909,
