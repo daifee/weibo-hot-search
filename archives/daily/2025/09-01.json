@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756702104540,
+  "endTime": 1756704407277,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 880562,
-      "num": 179354,
+      "num": 184325,
       "word": "金价",
       "onboard_time": 1756694961,
       "rank": 21,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 667268,
+      "num": 1106762,
+      "word": "全红婵大学的院长是苏炳添",
+      "onboard_time": 1756701142,
+      "rank": 18,
+      "category": "体育,其它"
+    },
+    {
       "raw_hot": 608402,
       "num": 907344,
       "word": "9月1日新规上线",
@@ -107,8 +115,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496911,
+      "num": 496911,
+      "word": "一等功臣爷爷送孙子国防科大报到",
+      "onboard_time": 1756701263,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 494146,
-      "num": 179252,
+      "num": 183803,
       "word": "美国留学现状",
       "onboard_time": 1756698381,
       "rank": 30,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 455284,
-      "num": 179003,
+      "num": 182618,
       "word": "敬山水 李庚希宋亚轩",
       "onboard_time": 1756695920,
       "rank": 22,
@@ -145,6 +161,14 @@
       "onboard_time": 1756696220,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 424195,
+      "num": 183545,
+      "word": "花少7时长统计",
+      "onboard_time": 1756703542,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 418722,
@@ -161,14 +185,6 @@
       "onboard_time": 1756651703,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 401524,
-      "num": 225875,
-      "word": "全红婵大学的院长是苏炳添",
-      "onboard_time": 1756701142,
-      "rank": 18,
-      "category": "体育,其它"
     },
     {
       "raw_hot": 390306,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 362855,
-      "num": 179165,
+      "num": 182912,
       "word": "爱奇艺9月待播剧综",
       "onboard_time": 1756700303,
       "rank": 24,
@@ -275,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271944,
-      "num": 271944,
-      "word": "一等功臣爷爷送孙子国防科大报到",
-      "onboard_time": 1756701263,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271858,
       "num": 271858,
       "word": "樊振东已经在琢磨如何改进了",
@@ -307,6 +315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 260093,
+      "num": 222033,
+      "word": "赴山海",
+      "onboard_time": 1756700722,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251310,
       "num": 176648,
       "word": "梓渝泥潭入围亚洲流行音乐大奖",
@@ -321,6 +337,14 @@
       "onboard_time": 1756681217,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 242612,
+      "num": 220530,
+      "word": "秦皇岛动物园遇猛虎惊魂实录",
+      "onboard_time": 1756700121,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236401,
@@ -363,12 +387,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220075,
+      "num": 220075,
+      "word": "献鱼大结局",
+      "onboard_time": 1756703121,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215011,
+      "num": 215011,
+      "word": "吴敬平说樊振东首秀失利不是坏事",
+      "onboard_time": 1756702582,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212128,
+      "num": 212128,
+      "word": "令人心动的offer主持人季官宣",
+      "onboard_time": 1756704142,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210443,
       "num": 210443,
       "word": "消费贷的国补要来了",
       "onboard_time": 1756647024,
       "rank": 5,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 209224,
+      "num": 182257,
+      "word": "陈妍希对时代少年团的游戏水平PTSD",
+      "onboard_time": 1756703362,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 207384,
@@ -387,19 +443,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200987,
-      "num": 200987,
-      "word": "赴山海",
-      "onboard_time": 1756700722,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199630,
       "num": 199630,
       "word": "心动的信号",
       "onboard_time": 1756701322,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199295,
+      "num": 181568,
+      "word": "刘宇宁被汤打了",
+      "onboard_time": 1756703601,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -417,6 +473,14 @@
       "onboard_time": 1756698862,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 195116,
+      "num": 221429,
+      "word": "九三前日本做了哪些小动作",
+      "onboard_time": 1756700542,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193118,
@@ -451,12 +515,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184410,
+      "num": 184410,
+      "word": "开心麻花上春晚沈腾压力最大",
+      "onboard_time": 1756702881,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181700,
       "num": 193732,
       "word": "香港小姐14强佳丽均是高学历",
       "onboard_time": 1756655121,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181429,
+      "num": 181429,
+      "word": "iPhone17Pro透明保护壳曝光",
+      "onboard_time": 1756701801,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 180101,
@@ -473,14 +553,6 @@
       "onboard_time": 1756651763,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 172004,
-      "num": 172004,
-      "word": "iPhone17Pro透明保护壳曝光",
-      "onboard_time": 1756701801,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 170077,
@@ -587,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150309,
+      "num": 150309,
+      "word": "孙颖莎进入国家队10周年",
+      "onboard_time": 1756704201,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149966,
       "num": 149966,
       "word": "美方计划控制加沙至少10年",
@@ -604,7 +684,7 @@
     },
     {
       "raw_hot": 144318,
-      "num": 144318,
+      "num": 223789,
       "word": "尽快建成上海合作组织开发银行",
       "onboard_time": 1756698021,
       "rank": 44,
@@ -644,7 +724,7 @@
     },
     {
       "raw_hot": 136992,
-      "num": 142583,
+      "num": 148165,
       "word": "原来真的有人在享受高三",
       "onboard_time": 1756697360,
       "rank": 41,
@@ -673,14 +753,6 @@
       "onboard_time": 1756657220,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135310,
-      "num": 135310,
-      "word": "秦皇岛动物园遇猛虎惊魂实录",
-      "onboard_time": 1756700121,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130899,
@@ -755,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125083,
-      "num": 168810,
-      "word": "九三前日本做了哪些小动作",
-      "onboard_time": 1756700542,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 123201,
       "num": 123201,
       "word": "2025还剩三分之一",
@@ -779,6 +843,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115329,
+      "num": 150104,
+      "word": "密室大逃脱",
+      "onboard_time": 1756704022,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115121,
+      "num": 149888,
+      "word": "陋室铭风宿舍出现了",
+      "onboard_time": 1756703002,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114718,
       "num": 114718,
       "word": "A股9月迎开门红",
@@ -793,6 +873,14 @@
       "onboard_time": 1756653982,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113867,
+      "num": 149058,
+      "word": "卡厄斯兰那和他养的小孩",
+      "onboard_time": 1756703300,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 112835,
@@ -947,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88389,
+      "num": 147899,
+      "word": "明日方舟新干员三角初华",
+      "onboard_time": 1756704022,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 87888,
       "num": 87888,
       "word": "叶童秒接李艺彤罗予彤求助电话",
@@ -1009,6 +1105,14 @@
       "onboard_time": 1756684820,
       "rank": 41,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 81208,
+      "num": 147157,
+      "word": "星穹铁道凯撒的千年展望",
+      "onboard_time": 1756702702,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 80707,
@@ -1337,6 +1441,14 @@
       "onboard_time": 1756669214,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32491,
+      "num": 171267,
+      "word": "MK出行包王",
+      "onboard_time": 1756703661,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 31368,
