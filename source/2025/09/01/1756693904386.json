@@ -1,0 +1,410 @@
+{
+  "runTime": 1756693904386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1182334,
+        "num": 1189173,
+        "word": "任何不缴社保的约定均为无效",
+        "onboard_time": 1756686620,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503921,
+        "num": 503921,
+        "word": "开学",
+        "onboard_time": 1756651344,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100978,
+        "num": 436856,
+        "word": "告别信息裸奔国家网络身份认证来啦",
+        "onboard_time": 1756686860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429058,
+        "num": 429058,
+        "word": "石宇奇夺冠教练快被打成重伤",
+        "onboard_time": 1756689500,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323188,
+        "num": 323188,
+        "word": "A股",
+        "onboard_time": 1756692440,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 271858,
+        "num": 271858,
+        "word": "樊振东已经在琢磨如何改进了",
+        "onboard_time": 1756690819,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255651,
+        "num": 255651,
+        "word": "篡改电动自行车电池的人这下消停了",
+        "onboard_time": 1756654161,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186622,
+        "num": 186622,
+        "word": "美方欲将加沙200万人迁走",
+        "onboard_time": 1756690819,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167997,
+        "num": 167997,
+        "word": "山东一小学新生报到名字惊艳众人",
+        "onboard_time": 1756655542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69787,
+        "num": 167217,
+        "word": "敬山水",
+        "onboard_time": 1756650324,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295024,
+        "num": 167141,
+        "word": "纸质火车票将正式退出历史舞台",
+        "onboard_time": 1756692919,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182440,
+        "num": 167125,
+        "word": "吃火锅定律",
+        "onboard_time": 1756692740,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167004,
+        "num": 167004,
+        "word": "脸上长火疖子黑头闭口怎么办",
+        "onboard_time": 1756681217,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149966,
+        "num": 149966,
+        "word": "美方计划控制加沙至少10年",
+        "onboard_time": 1756687701,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141680,
+        "num": 141680,
+        "word": "9月1日第一的含量满格",
+        "onboard_time": 1756686562,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122274,
+        "num": 122274,
+        "word": "30岁生日当天抗日女记者跳崖牺牲",
+        "onboard_time": 1756690398,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120632,
+        "num": 120632,
+        "word": "旺旺总经理赴京看九三阅兵",
+        "onboard_time": 1756651763,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118799,
+        "num": 118799,
+        "word": "2025还剩三分之一",
+        "onboard_time": 1756686680,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116189,
+        "num": 116189,
+        "word": "伪装者",
+        "onboard_time": 1756649604,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109267,
+        "num": 109267,
+        "word": "子夜归和离",
+        "onboard_time": 1756688242,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670320,
+        "num": 109106,
+        "word": "再见坏蛋官宣撤档",
+        "onboard_time": 1756689860,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291700,
+        "num": 108897,
+        "word": "邓超又去买一毛钱老奶奶的凉菜了",
+        "onboard_time": 1756651703,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251310,
+        "num": 108710,
+        "word": "梓渝泥潭入围亚洲流行音乐大奖",
+        "onboard_time": 1756682000,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213597,
+        "num": 108456,
+        "word": "9月财运最旺的星座",
+        "onboard_time": 1756681518,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193118,
+        "num": 108221,
+        "word": "邓超妈妈来看了鹿晗南昌演唱会",
+        "onboard_time": 1756688421,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192661,
+        "num": 108052,
+        "word": "每天早睡1小时身体发生的变化",
+        "onboard_time": 1756684820,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179555,
+        "num": 107880,
+        "word": "宋轶回应整容",
+        "onboard_time": 1756630101,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155175,
+        "num": 107613,
+        "word": "赵丽颖工作室聊明兰",
+        "onboard_time": 1756691300,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137310,
+        "num": 107381,
+        "word": "樊振东1比3杜达",
+        "onboard_time": 1756653144,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32978,
+        "num": 107259,
+        "word": "抗战胜利80周年纪念章是什么样",
+        "onboard_time": 1756693279,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136705,
+        "num": 107074,
+        "word": "全红婵将开启大学生涯",
+        "onboard_time": 1756691300,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83493,
+        "num": 106686,
+        "word": "80件抗战文物80载民族记忆",
+        "onboard_time": 1756690098,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124438,
+        "num": 106586,
+        "word": "孟子义被烫李昀锐的反应",
+        "onboard_time": 1756661657,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106434,
+        "num": 106434,
+        "word": "边伯贤说何老师很有名",
+        "onboard_time": 1756657220,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104461,
+        "num": 104461,
+        "word": "为什么吃海底捞前要先上个坡",
+        "onboard_time": 1756644624,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96674,
+        "num": 96674,
+        "word": "消费贷的国补要来了",
+        "onboard_time": 1756647024,
+        "rank": 35,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 96226,
+        "num": 96226,
+        "word": "北京国安致歉",
+        "onboard_time": 1756690398,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96226,
+        "num": 96226,
+        "word": "迪丽热巴说尝试比完美更重要",
+        "onboard_time": 1756645282,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90128,
+        "num": 90128,
+        "word": "让家长打扫教室学校潜规则该打破了",
+        "onboard_time": 1756649783,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86787,
+        "num": 86787,
+        "word": "沈腾串台了",
+        "onboard_time": 1756693580,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86389,
+        "num": 86786,
+        "word": "以色列防长称打死卡桑旅发言人",
+        "onboard_time": 1756685060,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82501,
+        "num": 86785,
+        "word": "九月",
+        "onboard_time": 1756683318,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80707,
+        "num": 86780,
+        "word": "小猫你怎么走的这么慢啊",
+        "onboard_time": 1756692919,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80193,
+        "num": 86780,
+        "word": "无限暖暖就家具定价致歉",
+        "onboard_time": 1756692320,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77080,
+        "num": 86776,
+        "word": "智搜分析樊振东失利原因",
+        "onboard_time": 1756690940,
+        "rank": 44,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 73396,
+        "num": 86775,
+        "word": "沈月干回婚庆摄影老本行",
+        "onboard_time": 1756688302,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72764,
+        "num": 86773,
+        "word": "11名联合国人员被胡塞武装逮捕",
+        "onboard_time": 1756685180,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70476,
+        "num": 86770,
+        "word": "全红婵明媚四宫格",
+        "onboard_time": 1756693580,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68352,
+        "num": 86769,
+        "word": "让你头发更好看的技巧",
+        "onboard_time": 1756684820,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 67333,
+        "num": 86765,
+        "word": "无畏契约巴黎全球冠军赛",
+        "onboard_time": 1756690580,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和彭丽媛举行欢迎宴会#"
+    }
+  }
+}

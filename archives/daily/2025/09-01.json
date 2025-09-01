@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756692516245,
+  "endTime": 1756693904386,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 950836,
-      "num": 1152133,
+      "raw_hot": 1182334,
+      "num": 1189173,
       "word": "任何不缴社保的约定均为无效",
       "onboard_time": 1756686620,
       "rank": 0,
@@ -123,12 +123,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323188,
+      "num": 323188,
+      "word": "A股",
+      "onboard_time": 1756692440,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 311729,
       "num": 124390,
       "word": "香港小姐",
       "onboard_time": 1756652963,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295024,
+      "num": 167141,
+      "word": "纸质火车票将正式退出历史舞台",
+      "onboard_time": 1756692919,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271858,
+      "num": 271858,
+      "word": "樊振东已经在琢磨如何改进了",
+      "onboard_time": 1756690819,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251310,
+      "num": 125974,
+      "word": "梓渝泥潭入围亚洲流行音乐大奖",
+      "onboard_time": 1756682000,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 243901,
@@ -195,12 +227,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 193776,
-      "num": 152810,
-      "word": "樊振东已经在琢磨如何改进了",
-      "onboard_time": 1756690819,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 193118,
+      "num": 117345,
+      "word": "邓超妈妈来看了鹿晗南昌演唱会",
+      "onboard_time": 1756688421,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 187244,
@@ -209,6 +241,22 @@
       "onboard_time": 1756683318,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186622,
+      "num": 186622,
+      "word": "美方欲将加沙200万人迁走",
+      "onboard_time": 1756690819,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 182440,
+      "num": 167125,
+      "word": "吃火锅定律",
+      "onboard_time": 1756692740,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 181700,
@@ -275,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155175,
+      "num": 118723,
+      "word": "赵丽颖工作室聊明兰",
+      "onboard_time": 1756691300,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155154,
       "num": 122533,
       "word": "成人安抚奶嘴夜间订单量暴增",
@@ -291,16 +347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144174,
-      "num": 125974,
-      "word": "梓渝泥潭入围亚洲流行音乐大奖",
-      "onboard_time": 1756682000,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 142555,
-      "num": 142555,
+      "raw_hot": 149966,
+      "num": 149966,
       "word": "美方计划控制加沙至少10年",
       "onboard_time": 1756687701,
       "rank": 16,
@@ -336,6 +384,14 @@
       "word": "羽毛球世锦赛",
       "onboard_time": 1756639580,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136705,
+      "num": 124049,
+      "word": "全红婵将开启大学生涯",
+      "onboard_time": 1756691300,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -387,36 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124049,
-      "num": 124049,
-      "word": "全红婵将开启大学生涯",
-      "onboard_time": 1756691300,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123201,
       "num": 123201,
       "word": "2025还剩三分之一",
       "onboard_time": 1756686680,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118723,
-      "num": 118723,
-      "word": "赵丽颖工作室聊明兰",
-      "onboard_time": 1756691300,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 117345,
-      "num": 117345,
-      "word": "邓超妈妈来看了鹿晗南昌演唱会",
-      "onboard_time": 1756688421,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 115786,
@@ -459,12 +491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94180,
-      "num": 122797,
-      "word": "美方欲将加沙200万人迁走",
-      "onboard_time": 1756690819,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 100978,
+      "num": 561392,
+      "word": "告别信息裸奔国家网络身份认证来啦",
+      "onboard_time": 1756686860,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93761,
@@ -491,14 +523,6 @@
       "category": "体育,互联网"
     },
     {
-      "raw_hot": 91141,
-      "num": 561392,
-      "word": "告别信息裸奔国家网络身份认证来啦",
-      "onboard_time": 1756686860,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90595,
       "num": 105209,
       "word": "队友回应樊振东德甲首秀失利",
@@ -521,6 +545,14 @@
       "onboard_time": 1756650444,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86787,
+      "num": 86787,
+      "word": "沈腾串台了",
+      "onboard_time": 1756693580,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 86126,
@@ -547,6 +579,22 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 80707,
+      "num": 86780,
+      "word": "小猫你怎么走的这么慢啊",
+      "onboard_time": 1756692919,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 80193,
+      "num": 105362,
+      "word": "无限暖暖就家具定价致歉",
+      "onboard_time": 1756692320,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79724,
       "num": 121372,
       "word": "北京暴雨",
@@ -563,14 +611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77659,
-      "num": 105535,
-      "word": "A股",
-      "onboard_time": 1756692440,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 76673,
       "num": 76673,
       "word": "小猫守着晕车的猫爸爸",
@@ -585,14 +625,6 @@
       "onboard_time": 1756659857,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73926,
-      "num": 105362,
-      "word": "无限暖暖就家具定价致歉",
-      "onboard_time": 1756692320,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 73004,
@@ -625,6 +657,14 @@
       "onboard_time": 1756641861,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70476,
+      "num": 86770,
+      "word": "全红婵明媚四宫格",
+      "onboard_time": 1756693580,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 70463,
@@ -833,6 +873,14 @@
       "onboard_time": 1756661418,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 32978,
+      "num": 107259,
+      "word": "抗战胜利80周年纪念章是什么样",
+      "onboard_time": 1756693279,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31368,
