@@ -1,7 +1,15 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756716507787,
+  "endTime": 1756719030629,
   "band_list": [
+    {
+      "raw_hot": 2477047,
+      "num": 2477047,
+      "word": "九三阅兵具体安排来了",
+      "onboard_time": 1756713863,
+      "rank": 10,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2421498,
       "num": 188485,
@@ -9,14 +17,6 @@
       "onboard_time": 1756656021,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1999353,
-      "num": 1999353,
-      "word": "九三阅兵具体安排来了",
-      "onboard_time": 1756713863,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1182334,
@@ -57,6 +57,14 @@
       "onboard_time": 1756651344,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 834306,
+      "num": 834306,
+      "word": "尼总理拒绝日本游说来华出席阅兵",
+      "onboard_time": 1756717101,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 824625,
@@ -129,6 +137,14 @@
       "onboard_time": 1756649604,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 533987,
+      "num": 199781,
+      "word": "离职前先把签证办下来",
+      "onboard_time": 1756714942,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 494146,
@@ -243,6 +259,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 362266,
+      "num": 362266,
+      "word": "12306回应停发纸质票不便老年人",
+      "onboard_time": 1756715242,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357841,
+      "num": 121267,
+      "word": "人去世了微信朋友圈会消失吗",
+      "onboard_time": 1756716624,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350731,
       "num": 350731,
       "word": "樊振东不想草率回应质疑",
@@ -339,8 +371,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278798,
-      "num": 278798,
+      "raw_hot": 283432,
+      "num": 283432,
       "word": "这是今天上午的天安门广场",
       "onboard_time": 1756713082,
       "rank": 6,
@@ -443,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230031,
-      "num": 199781,
-      "word": "离职前先把签证办下来",
-      "onboard_time": 1756714942,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 228040,
       "num": 228040,
       "word": "国羽男单时隔10年再夺世锦赛冠军",
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 221454,
-      "num": 474735,
+      "num": 552837,
       "word": "上合已成世界最大区域组织",
       "onboard_time": 1756696341,
       "rank": 3,
@@ -587,6 +611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193817,
+      "num": 120405,
+      "word": "TREASURE回归主打曲MV",
+      "onboard_time": 1756717881,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193118,
       "num": 117345,
       "word": "邓超妈妈来看了鹿晗南昌演唱会",
@@ -601,6 +633,14 @@
       "onboard_time": 1756697300,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191016,
+      "num": 191016,
+      "word": "九三阅兵活动时长约70分钟",
+      "onboard_time": 1756717823,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188931,
@@ -625,14 +665,6 @@
       "onboard_time": 1756683318,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186706,
-      "num": 199892,
-      "word": "12306回应停发纸质票不便老年人",
-      "onboard_time": 1756715242,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186622,
@@ -811,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155786,
+      "num": 180821,
+      "word": "全球治理走到新的十字路口",
+      "onboard_time": 1756717881,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155175,
       "num": 125051,
       "word": "赵丽颖工作室聊明兰",
@@ -849,6 +889,14 @@
       "onboard_time": 1756686562,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151520,
+      "num": 151520,
+      "word": "樊振东说需要适应德甲",
+      "onboard_time": 1756716802,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 149966,
@@ -995,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130048,
+      "num": 120151,
+      "word": "沈腾陈赫一看就知道是谁的兵",
+      "onboard_time": 1756716501,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128936,
       "num": 128936,
       "word": "沈腾串台了",
@@ -1083,6 +1139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121507,
+      "num": 121507,
+      "word": "牙线的邪修用法",
+      "onboard_time": 1756717401,
+      "rank": 17,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 120538,
       "num": 238552,
       "word": "毛不易 这拖鞋一穿都走不出去二里地",
@@ -1091,12 +1155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117909,
+      "num": 199831,
+      "word": "金饰克价涨到1027元",
+      "onboard_time": 1756714102,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115786,
       "num": 158200,
       "word": "王楚钦2比3徐瑛彬",
       "onboard_time": 1756646543,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115277,
+      "num": 115277,
+      "word": "理肤泉上百元喷雾被指成分只有水",
+      "onboard_time": 1756717342,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115121,
@@ -1155,12 +1235,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109305,
-      "num": 199831,
-      "word": "金饰克价涨到1027元",
-      "onboard_time": 1756714102,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 109475,
+      "num": 184719,
+      "word": "林允儿新剧收视创新高",
+      "onboard_time": 1756716141,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 108811,
@@ -1225,6 +1305,14 @@
       "onboard_time": 1756712061,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105236,
+      "num": 105236,
+      "word": "刘萌萌再演诺澜微醺",
+      "onboard_time": 1756717282,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 105162,
@@ -1315,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97863,
+      "num": 97863,
+      "word": "张晚意综艺魔童降世",
+      "onboard_time": 1756718602,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97095,
       "num": 177530,
       "word": "明日方舟新干员三角初华",
@@ -1324,7 +1420,7 @@
     },
     {
       "raw_hot": 96266,
-      "num": 96266,
+      "num": 174805,
       "word": "我家的抗战记忆",
       "onboard_time": 1756694180,
       "rank": 43,
@@ -1385,6 +1481,14 @@
       "onboard_time": 1756706481,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92568,
+      "num": 184622,
+      "word": "省长现场致敬退休副省长",
+      "onboard_time": 1756716382,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90595,
@@ -1451,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87104,
+      "num": 121479,
+      "word": "拼多多80元的减负书包成开学神器",
+      "onboard_time": 1756717881,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86998,
       "num": 203333,
       "word": "牢记初心使命开创美好未来",
@@ -1465,6 +1577,14 @@
       "onboard_time": 1756697421,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 86237,
+      "num": 199603,
+      "word": "陈小春 一句不唱但有7页歌词",
+      "onboard_time": 1756715721,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 86126,
@@ -1539,12 +1659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 81460,
-      "num": 199603,
-      "word": "陈小春 一句不唱但有7页歌词",
-      "onboard_time": 1756715721,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 82736,
+      "num": 82736,
+      "word": "奶茶名为什么越来越难看懂了",
+      "onboard_time": 1756717282,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81208,
@@ -1633,6 +1753,14 @@
       "onboard_time": 1756683018,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76576,
+      "num": 82083,
+      "word": "中方愿同各方一道勇担大义",
+      "onboard_time": 1756718181,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76213,
@@ -1867,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56437,
+      "num": 90900,
+      "word": "20个省生育津贴直接发放至个人",
+      "onboard_time": 1756717941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56013,
       "num": 120296,
       "word": "中国排面亮相越南气场拉满了",
@@ -1939,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46231,
+      "num": 121385,
+      "word": "樊振东效力俱乐部回应首战失利",
+      "onboard_time": 1756718661,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45994,
       "num": 71971,
       "word": "5个细微但很有用的习惯",
@@ -1985,14 +2129,6 @@
       "onboard_time": 1756682538,
       "rank": 41,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 36926,
-      "num": 184622,
-      "word": "省长现场致敬退休副省长",
-      "onboard_time": 1756716382,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34589,
@@ -2075,14 +2211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23641,
-      "num": 184719,
-      "word": "林允儿新剧收视创新高",
-      "onboard_time": 1756716141,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22224,
       "num": 38806,
       "word": "初音未来",
@@ -2129,6 +2257,14 @@
       "onboard_time": 1756671434,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18013,
+      "num": 91193,
+      "word": "睡觉把脚露在外面可以改善失眠",
+      "onboard_time": 1756718542,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14425,
@@ -2189,6 +2325,9 @@
     },
     {
       "word": "#习近平在上合峰会欢迎宴会上的祝酒辞#"
+    },
+    {
+      "word": "#习近平主持上合成员国元首理事会会议#"
     }
   ]
 }

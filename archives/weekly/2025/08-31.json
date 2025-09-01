@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756716507787,
+  "endTime": 1756719030629,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2477047,
+      "num": 2477047,
+      "word": "九三阅兵具体安排来了",
+      "onboard_time": 1756713863,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2421498,
       "num": 188485,
       "word": "石宇奇",
       "onboard_time": 1756656021,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1999353,
-      "num": 1999353,
-      "word": "九三阅兵具体安排来了",
-      "onboard_time": 1756713863,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1843593,
@@ -169,6 +169,14 @@
       "onboard_time": 1756619481,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 834306,
+      "num": 834306,
+      "word": "尼总理拒绝日本游说来华出席阅兵",
+      "onboard_time": 1756717101,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 824625,
@@ -353,6 +361,14 @@
       "onboard_time": 1756607721,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 533987,
+      "num": 199781,
+      "word": "离职前先把签证办下来",
+      "onboard_time": 1756714942,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 527072,
@@ -651,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362266,
+      "num": 362266,
+      "word": "12306回应停发纸质票不便老年人",
+      "onboard_time": 1756715242,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 361912,
       "num": 244662,
       "word": "张艺凡又被认成101了",
@@ -681,6 +705,14 @@
       "onboard_time": 1756637781,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357841,
+      "num": 121267,
+      "word": "人去世了微信朋友圈会消失吗",
+      "onboard_time": 1756716624,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 354668,
@@ -963,6 +995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 283432,
+      "num": 283432,
+      "word": "这是今天上午的天安门广场",
+      "onboard_time": 1756713082,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 282538,
       "num": 244995,
       "word": "伊朗最高领袖中文发文谈中伊关系",
@@ -976,14 +1016,6 @@
       "word": "旺旺总经理赴京看九三阅兵",
       "onboard_time": 1756651763,
       "rank": 12,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 278798,
-      "num": 278798,
-      "word": "这是今天上午的天安门广场",
-      "onboard_time": 1756713082,
-      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -1219,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230031,
-      "num": 199781,
-      "word": "离职前先把签证办下来",
-      "onboard_time": 1756714942,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 229351,
       "num": 232088,
       "word": "子夜归14天72小时5个字",
@@ -1292,7 +1316,7 @@
     },
     {
       "raw_hot": 221454,
-      "num": 474735,
+      "num": 552837,
       "word": "上合已成世界最大区域组织",
       "onboard_time": 1756696341,
       "rank": 3,
@@ -1643,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193817,
+      "num": 120405,
+      "word": "TREASURE回归主打曲MV",
+      "onboard_time": 1756717881,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193594,
       "num": 231157,
       "word": "贺峻霖主持控场王",
@@ -1689,6 +1721,14 @@
       "onboard_time": 1756638861,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191016,
+      "num": 191016,
+      "word": "九三阅兵活动时长约70分钟",
+      "onboard_time": 1756717823,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190367,
@@ -1745,14 +1785,6 @@
       "onboard_time": 1756683318,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186706,
-      "num": 199892,
-      "word": "12306回应停发纸质票不便老年人",
-      "onboard_time": 1756715242,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186653,
@@ -2171,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155786,
+      "num": 180821,
+      "word": "全球治理走到新的十字路口",
+      "onboard_time": 1756717881,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155233,
       "num": 155233,
       "word": "国防科大高铁站迎新生气场拉满",
@@ -2281,6 +2321,14 @@
       "onboard_time": 1756686562,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151520,
+      "num": 151520,
+      "word": "樊振东说需要适应德甲",
+      "onboard_time": 1756716802,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 151322,
@@ -2755,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130048,
+      "num": 120151,
+      "word": "沈腾陈赫一看就知道是谁的兵",
+      "onboard_time": 1756716501,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129954,
       "num": 228391,
       "word": "华晨宇神级舞台有闪电划过",
@@ -2923,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121507,
+      "num": 121507,
+      "word": "牙线的邪修用法",
+      "onboard_time": 1756717401,
+      "rank": 17,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 121430,
       "num": 121430,
       "word": "蔚来老车主现场怼李斌5分钟",
@@ -3035,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117909,
+      "num": 199831,
+      "word": "金饰克价涨到1027元",
+      "onboard_time": 1756714102,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117833,
       "num": 147779,
       "word": "刘宇宁腿长得有点犯规了",
@@ -3129,6 +3201,14 @@
       "onboard_time": 1756612822,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115277,
+      "num": 115277,
+      "word": "理肤泉上百元喷雾被指成分只有水",
+      "onboard_time": 1756717342,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115122,
@@ -3371,12 +3451,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 109305,
-      "num": 199831,
-      "word": "金饰克价涨到1027元",
-      "onboard_time": 1756714102,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 109475,
+      "num": 184719,
+      "word": "林允儿新剧收视创新高",
+      "onboard_time": 1756716141,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 109094,
@@ -3545,6 +3625,14 @@
       "onboard_time": 1756712061,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105236,
+      "num": 105236,
+      "word": "刘萌萌再演诺澜微醺",
+      "onboard_time": 1756717282,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 105196,
@@ -3771,6 +3859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97863,
+      "num": 97863,
+      "word": "张晚意综艺魔童降世",
+      "onboard_time": 1756718602,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97095,
       "num": 177530,
       "word": "明日方舟新干员三角初华",
@@ -3796,7 +3892,7 @@
     },
     {
       "raw_hot": 96266,
-      "num": 96266,
+      "num": 174805,
       "word": "我家的抗战记忆",
       "onboard_time": 1756694180,
       "rank": 43,
@@ -3961,6 +4057,14 @@
       "onboard_time": 1756706481,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92568,
+      "num": 184622,
+      "word": "省长现场致敬退休副省长",
+      "onboard_time": 1756716382,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92228,
@@ -4203,6 +4307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87104,
+      "num": 121479,
+      "word": "拼多多80元的减负书包成开学神器",
+      "onboard_time": 1756717881,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86998,
       "num": 203333,
       "word": "牢记初心使命开创美好未来",
@@ -4241,6 +4353,14 @@
       "onboard_time": 1756616602,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86237,
+      "num": 199603,
+      "word": "陈小春 一句不唱但有7页歌词",
+      "onboard_time": 1756715721,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 86058,
@@ -4387,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82736,
+      "num": 82736,
+      "word": "奶茶名为什么越来越难看懂了",
+      "onboard_time": 1756717282,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82731,
       "num": 90182,
       "word": "孙红雷拿钱就跑梦回极挑",
@@ -4425,14 +4553,6 @@
       "onboard_time": 1756622782,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81460,
-      "num": 199603,
-      "word": "陈小春 一句不唱但有7页歌词",
-      "onboard_time": 1756715721,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 81208,
@@ -4633,6 +4753,14 @@
       "onboard_time": 1756683018,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76576,
+      "num": 82083,
+      "word": "中方愿同各方一道勇担大义",
+      "onboard_time": 1756718181,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76422,
@@ -5107,6 +5235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56437,
+      "num": 90900,
+      "word": "20个省生育津贴直接发放至个人",
+      "onboard_time": 1756717941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55892,
       "num": 104624,
       "word": "终于等到刘宪华雨中限定版trap",
@@ -5185,6 +5321,14 @@
       "onboard_time": 1756714942,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46231,
+      "num": 121385,
+      "word": "樊振东效力俱乐部回应首战失利",
+      "onboard_time": 1756718661,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 45994,
@@ -5329,14 +5473,6 @@
       "onboard_time": 1756560983,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36926,
-      "num": 184622,
-      "word": "省长现场致敬退休副省长",
-      "onboard_time": 1756716382,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35741,
@@ -5515,14 +5651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23641,
-      "num": 184719,
-      "word": "林允儿新剧收视创新高",
-      "onboard_time": 1756716141,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22401,
       "num": 52579,
       "word": "登陆少年演唱会直拍",
@@ -5609,6 +5737,14 @@
       "onboard_time": 1756671434,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18013,
+      "num": 91193,
+      "word": "睡觉把脚露在外面可以改善失眠",
+      "onboard_time": 1756718542,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17137,
@@ -5776,6 +5912,9 @@
     },
     {
       "word": "#习近平在上合峰会欢迎宴会上的祝酒辞#"
+    },
+    {
+      "word": "#习近平主持上合成员国元首理事会会议#"
     }
   ]
 }

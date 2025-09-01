@@ -1,0 +1,410 @@
+{
+  "runTime": 1756719030629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2477047,
+        "num": 2477047,
+        "word": "九三阅兵具体安排来了",
+        "onboard_time": 1756713863,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 834306,
+        "num": 834306,
+        "word": "尼总理拒绝日本游说来华出席阅兵",
+        "onboard_time": 1756717101,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24327,
+        "num": 552837,
+        "word": "上合已成世界最大区域组织",
+        "onboard_time": 1756696341,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362266,
+        "num": 362266,
+        "word": "12306回应停发纸质票不便老年人",
+        "onboard_time": 1756715242,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283432,
+        "num": 283432,
+        "word": "这是今天上午的天安门广场",
+        "onboard_time": 1756713082,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201016,
+        "num": 201016,
+        "word": "孙颖莎进入国家队十年发文",
+        "onboard_time": 1756708879,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191016,
+        "num": 191016,
+        "word": "九三阅兵活动时长约70分钟",
+        "onboard_time": 1756717823,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186684,
+        "num": 186684,
+        "word": "普京发言人称赞中国菜肴",
+        "onboard_time": 1756712601,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155786,
+        "num": 180821,
+        "word": "全球治理走到新的十字路口",
+        "onboard_time": 1756717881,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25078,
+        "num": 174805,
+        "word": "我家的抗战记忆",
+        "onboard_time": 1756694180,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533987,
+        "num": 171501,
+        "word": "离职前先把签证办下来",
+        "onboard_time": 1756714942,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220400,
+        "num": 162024,
+        "word": "莫迪搭普京专车",
+        "onboard_time": 1756709721,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160750,
+        "num": 160750,
+        "word": "心动8这才是心动的信号",
+        "onboard_time": 1756714642,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157629,
+        "num": 157629,
+        "word": "过的太爽了不敢告诉别人",
+        "onboard_time": 1756700963,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155815,
+        "num": 155815,
+        "word": "12306回应停发纸质车票",
+        "onboard_time": 1756695680,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151520,
+        "num": 151520,
+        "word": "樊振东说需要适应德甲",
+        "onboard_time": 1756716802,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132292,
+        "num": 132292,
+        "word": "孙颖莎蛋糕上写着加油少女",
+        "onboard_time": 1756715903,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121507,
+        "num": 121507,
+        "word": "牙线的邪修用法",
+        "onboard_time": 1756717401,
+        "rank": 17,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 87104,
+        "num": 121479,
+        "word": "拼多多80元的减负书包成开学神器",
+        "onboard_time": 1756717881,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46231,
+        "num": 121385,
+        "word": "樊振东效力俱乐部回应首战失利",
+        "onboard_time": 1756718661,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3513,
+        "num": 121319,
+        "word": "对华关系是越南对外政策头等优先",
+        "onboard_time": 1756669214,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 357841,
+        "num": 121267,
+        "word": "人去世了微信朋友圈会消失吗",
+        "onboard_time": 1756716624,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296067,
+        "num": 121183,
+        "word": "金价",
+        "onboard_time": 1756694961,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215331,
+        "num": 121111,
+        "word": "董璇一直在为张维伊兜底",
+        "onboard_time": 1756710980,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121067,
+        "num": 121067,
+        "word": "全球治理倡议",
+        "onboard_time": 1756715903,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193817,
+        "num": 120405,
+        "word": "TREASURE回归主打曲MV",
+        "onboard_time": 1756717881,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130048,
+        "num": 120151,
+        "word": "沈腾陈赫一看就知道是谁的兵",
+        "onboard_time": 1756716501,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118724,
+        "num": 118724,
+        "word": "一等功臣爷爷送孙子国防科大报到",
+        "onboard_time": 1756701263,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117909,
+        "num": 117909,
+        "word": "金饰克价涨到1027元",
+        "onboard_time": 1756714102,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115277,
+        "num": 115277,
+        "word": "理肤泉上百元喷雾被指成分只有水",
+        "onboard_time": 1756717342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113656,
+        "num": 113656,
+        "word": "上合成员国元首理事会会议",
+        "onboard_time": 1756694180,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111803,
+        "num": 111803,
+        "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
+        "onboard_time": 1756698742,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109475,
+        "num": 109475,
+        "word": "林允儿新剧收视创新高",
+        "onboard_time": 1756716141,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105236,
+        "num": 105236,
+        "word": "刘萌萌再演诺澜微醺",
+        "onboard_time": 1756717282,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97863,
+        "num": 97863,
+        "word": "张晚意综艺魔童降世",
+        "onboard_time": 1756718602,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97539,
+        "num": 97539,
+        "word": "冼星海在炮声中用音乐救国",
+        "onboard_time": 1756705880,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94532,
+        "num": 94532,
+        "word": "德国曝光涉北溪爆炸案女潜水员照片",
+        "onboard_time": 1756713321,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92568,
+        "num": 92568,
+        "word": "省长现场致敬退休副省长",
+        "onboard_time": 1756716382,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18013,
+        "num": 91193,
+        "word": "睡觉把脚露在外面可以改善失眠",
+        "onboard_time": 1756718542,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56437,
+        "num": 90900,
+        "word": "20个省生育津贴直接发放至个人",
+        "onboard_time": 1756717941,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51425,
+        "num": 90728,
+        "word": "2025暑期档电影票房119.66亿元",
+        "onboard_time": 1756697061,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90642,
+        "num": 90642,
+        "word": "AI让英烈看到今日中国",
+        "onboard_time": 1756714462,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88752,
+        "num": 88752,
+        "word": "周翊然果郡王",
+        "onboard_time": 1756711881,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86237,
+        "num": 86237,
+        "word": "陈小春 一句不唱但有7页歌词",
+        "onboard_time": 1756715721,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82736,
+        "num": 82736,
+        "word": "奶茶名为什么越来越难看懂了",
+        "onboard_time": 1756717282,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82084,
+        "num": 82084,
+        "word": "献鱼 番外",
+        "onboard_time": 1756709900,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78363,
+        "num": 82084,
+        "word": "全红婵大学的院长是苏炳添",
+        "onboard_time": 1756701142,
+        "rank": 46,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 76576,
+        "num": 82083,
+        "word": "中方愿同各方一道勇担大义",
+        "onboard_time": 1756718181,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73494,
+        "num": 82082,
+        "word": "牢记初心使命开创美好未来",
+        "onboard_time": 1756712301,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73475,
+        "num": 82081,
+        "word": "外貌变化带来的落差感",
+        "onboard_time": 1756713200,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持上合成员国元首理事会会议#"
+    }
+  }
+}
