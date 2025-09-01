@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756768989555,
+  "endTime": 1756769855765,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 527730,
+      "num": 527730,
+      "word": "我的爸爸妈妈在死难者名单墙上",
+      "onboard_time": 1756740801,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 520112,
       "num": 463080,
       "word": "金正恩已启程来华",
@@ -257,14 +265,6 @@
       "onboard_time": 1756689500,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 473053,
-      "num": 494616,
-      "word": "我的爸爸妈妈在死难者名单墙上",
-      "onboard_time": 1756740801,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 464260,
@@ -515,6 +515,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 303112,
+      "num": 120892,
+      "word": "鼻炎 记忆力下降",
+      "onboard_time": 1756763835,
+      "rank": 15,
+      "category": "综艺,健康医疗"
+    },
+    {
       "raw_hot": 302949,
       "num": 338878,
       "word": "272万网民选的军训服要来了",
@@ -553,14 +561,6 @@
       "onboard_time": 1756696699,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287777,
-      "num": 89195,
-      "word": "鼻炎 记忆力下降",
-      "onboard_time": 1756763835,
-      "rank": 15,
-      "category": "综艺,健康医疗"
     },
     {
       "raw_hot": 285977,
@@ -1011,6 +1011,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 172146,
+      "num": 172146,
+      "word": "明天一起看阅兵",
+      "onboard_time": 1756727421,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171929,
       "num": 107234,
       "word": "张晚意综艺魔童降世",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1756650324,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 166463,
-      "num": 166463,
-      "word": "明天一起看阅兵",
-      "onboard_time": 1756727421,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 166444,
@@ -1371,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137096,
+      "num": 328548,
+      "word": "南京80岁奶奶在遇难同胞姓名前流泪",
+      "onboard_time": 1756739481,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136992,
       "num": 148165,
       "word": "原来真的有人在享受高三",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1756724541,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134530,
-      "num": 328548,
-      "word": "南京80岁奶奶在遇难同胞姓名前流泪",
-      "onboard_time": 1756739481,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134042,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1756720882,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119224,
+      "num": 119224,
+      "word": "日本签署投降书画面",
+      "onboard_time": 1756769779,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118591,
@@ -2787,6 +2795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 65906,
+      "num": 65906,
+      "word": "小猫生气得要离家出走",
+      "onboard_time": 1756769539,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65679,
       "num": 173457,
       "word": "河南开学第一天家长乐开花",
@@ -2891,12 +2907,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 62059,
+      "num": 62059,
+      "word": "让膝盖多用20年",
+      "onboard_time": 1756769597,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 61909,
       "num": 120709,
       "word": "伊朗最高领袖中文发文谈中伊关系",
       "onboard_time": 1756639460,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60714,
+      "num": 60714,
+      "word": "iPhone17系列预售调查",
+      "onboard_time": 1756769779,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 60369,
@@ -3011,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56150,
+      "num": 60714,
+      "word": "苹果强制供应商转型自动化",
+      "onboard_time": 1756769779,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56013,
       "num": 120296,
       "word": "中国排面亮相越南气场拉满了",
@@ -3099,6 +3139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46944,
+      "num": 122342,
+      "word": "19450902日本签署投降书",
+      "onboard_time": 1756769118,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 46854,
+      "num": 383484,
+      "word": "公安机关依法打击涉无人机黑客违法犯罪",
+      "onboard_time": 1756768999,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46723,
       "num": 199706,
       "word": "成毅回应待播角色",
@@ -3136,6 +3192,14 @@
       "word": "早春晴朗开拍",
       "onboard_time": 1756636760,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40644,
+      "num": 60687,
+      "word": "周翊然演技",
+      "onboard_time": 1756769839,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -3185,6 +3249,14 @@
       "onboard_time": 1756724841,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34966,
+      "num": 60674,
+      "word": "格伊加盟利物浦",
+      "onboard_time": 1756769359,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 34589,
@@ -3259,6 +3331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30803,
+      "num": 72793,
+      "word": "孙颖莎出发回北京",
+      "onboard_time": 1756767617,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28283,
       "num": 47696,
       "word": "华晨宇萌的不知天地为何物了",
@@ -3273,14 +3353,6 @@
       "onboard_time": 1756679296,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27215,
-      "num": 72793,
-      "word": "孙颖莎出发回北京",
-      "onboard_time": 1756767617,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 26551,
@@ -3369,6 +3441,14 @@
       "onboard_time": 1756671434,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17052,
+      "num": 91213,
+      "word": "刚果布总统萨苏抵达北京",
+      "onboard_time": 1756769178,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15406,
