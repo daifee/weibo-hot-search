@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756741164561,
+  "endTime": 1756744237306,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -691,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235896,
+      "num": 352643,
+      "word": "我的爸爸妈妈在死难者名单墙上",
+      "onboard_time": 1756740801,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230621,
       "num": 203688,
       "word": "周翊然果郡王",
@@ -731,20 +739,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221115,
+      "num": 330980,
+      "word": "前NHK中国主播被判赔1100万日元",
+      "onboard_time": 1756738041,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220080,
       "num": 126254,
       "word": "每天早睡1小时身体发生的变化",
       "onboard_time": 1756684820,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 219136,
-      "num": 330980,
-      "word": "前NHK中国主播被判赔1100万日元",
-      "onboard_time": 1756738041,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215011,
@@ -1531,6 +1539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 124041,
+      "num": 328548,
+      "word": "南京80岁奶奶在遇难同胞姓名前流泪",
+      "onboard_time": 1756739481,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123282,
       "num": 177733,
       "word": "异地恋100年的男女主诞生了",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1756700181,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107314,
+      "num": 115566,
+      "word": "NHK播报勿忘南京大屠杀主播发声",
+      "onboard_time": 1756741760,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107001,
@@ -2131,14 +2155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 87944,
-      "num": 352643,
-      "word": "我的爸爸妈妈在死难者名单墙上",
-      "onboard_time": 1756740801,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87888,
       "num": 87888,
       "word": "叶童秒接李艺彤罗予彤求助电话",
@@ -2363,20 +2379,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81060,
+      "num": 207336,
+      "word": "浓厚氛围迎抗战胜利80周年",
+      "onboard_time": 1756735703,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80707,
       "num": 86780,
       "word": "小猫你怎么走的这么慢啊",
       "onboard_time": 1756692919,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80647,
-      "num": 328548,
-      "word": "南京80岁奶奶在遇难同胞姓名前流泪",
-      "onboard_time": 1756739481,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80547,
@@ -2739,14 +2755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 65886,
-      "num": 207336,
-      "word": "浓厚氛围迎抗战胜利80周年",
-      "onboard_time": 1756735703,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 65679,
       "num": 173457,
       "word": "河南开学第一天家长乐开花",
@@ -3043,6 +3051,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 49448,
+      "num": 115424,
+      "word": "明天一起看阅兵",
+      "onboard_time": 1756727421,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48427,
       "num": 61891,
       "word": "5岁半小狗捡瓶子日入50元",
@@ -3073,6 +3089,14 @@
       "onboard_time": 1756659318,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 45867,
+      "num": 115352,
+      "word": "战士腹部受伤仍咬破敌人喉咙",
+      "onboard_time": 1756742360,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42289,
@@ -3145,6 +3169,14 @@
       "onboard_time": 1756703661,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 33964,
+      "num": 115080,
+      "word": "月卡被平台悄咪咪扣费多月",
+      "onboard_time": 1756742240,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33277,
