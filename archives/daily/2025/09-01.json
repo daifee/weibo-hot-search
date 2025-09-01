@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756715750994,
+  "endTime": 1756716507787,
   "band_list": [
     {
       "raw_hot": 2421498,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1293871,
-      "num": 200151,
+      "raw_hot": 1999353,
+      "num": 1999353,
       "word": "九三阅兵具体安排来了",
       "onboard_time": 1756713863,
       "rank": 10,
@@ -339,6 +339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278798,
+      "num": 278798,
+      "word": "这是今天上午的天安门广场",
+      "onboard_time": 1756713082,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 274048,
+      "num": 247969,
+      "word": "普京发言人称赞中国菜肴",
+      "onboard_time": 1756712601,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 273560,
       "num": 273560,
       "word": "买电动车注意三个月过渡期",
@@ -395,14 +411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 247003,
-      "num": 247003,
-      "word": "普京发言人称赞中国菜肴",
-      "onboard_time": 1756712601,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 243992,
       "num": 404848,
       "word": "九三前日本做了哪些小动作",
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230031,
+      "num": 199781,
+      "word": "离职前先把签证办下来",
+      "onboard_time": 1756714942,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228040,
       "num": 228040,
       "word": "国羽男单时隔10年再夺世锦赛冠军",
@@ -457,14 +473,6 @@
       "onboard_time": 1756708341,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221775,
-      "num": 221775,
-      "word": "这是今天上午的天安门广场",
-      "onboard_time": 1756713082,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 221454,
@@ -619,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186706,
+      "num": 199892,
+      "word": "12306回应停发纸质票不便老年人",
+      "onboard_time": 1756715242,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186622,
       "num": 186622,
       "word": "美方欲将加沙200万人迁走",
@@ -657,6 +673,14 @@
       "onboard_time": 1756651763,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 170197,
+      "num": 199936,
+      "word": "心动8这才是心动的信号",
+      "onboard_time": 1756714642,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 170077,
@@ -747,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159736,
+      "num": 221944,
+      "word": "全球治理倡议",
+      "onboard_time": 1756715903,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158859,
       "num": 400724,
       "word": "自律减肥400天的变化",
@@ -769,6 +801,14 @@
       "onboard_time": 1756685060,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156069,
+      "num": 185411,
+      "word": "孙颖莎蛋糕上写着加油少女",
+      "onboard_time": 1756715903,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 155175,
@@ -832,14 +872,6 @@
       "word": "李乃文又拉长人中了",
       "onboard_time": 1756706900,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 146389,
-      "num": 199936,
-      "word": "心动8这才是心动的信号",
-      "onboard_time": 1756714642,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -939,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132448,
+      "num": 185035,
+      "word": "孙颖莎的14岁到24岁",
+      "onboard_time": 1756716021,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130899,
       "num": 401190,
       "word": "暑假作业被狗撕碎男孩崩溃边哭边揍",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1756681757,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126648,
-      "num": 199781,
-      "word": "离职前先把签证办下来",
-      "onboard_time": 1756714942,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 125920,
@@ -1123,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109305,
+      "num": 199831,
+      "word": "金饰克价涨到1027元",
+      "onboard_time": 1756714102,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108811,
       "num": 394848,
       "word": "一部没有感情全是尺度的电影",
@@ -1137,14 +1177,6 @@
       "onboard_time": 1756704321,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107411,
-      "num": 199831,
-      "word": "金饰克价涨到1027元",
-      "onboard_time": 1756714102,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 107314,
@@ -1259,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99595,
+      "num": 199729,
+      "word": "外貌变化带来的落差感",
+      "onboard_time": 1756713200,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98741,
       "num": 237445,
       "word": "罗马的马是马尔泰若曦的马",
@@ -1267,12 +1307,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97533,
-      "num": 199892,
-      "word": "12306回应停发纸质票不便老年人",
-      "onboard_time": 1756715242,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 98554,
+      "num": 185197,
+      "word": "王一博暑期档心动男角色TOP1",
+      "onboard_time": 1756715960,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 97095,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1756699822,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94071,
+      "num": 199717,
+      "word": "普京在中国有宾至如归的感觉",
+      "onboard_time": 1756713142,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93761,
@@ -1443,28 +1491,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86008,
-      "num": 199729,
-      "word": "外貌变化带来的落差感",
-      "onboard_time": 1756713200,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85528,
       "num": 85528,
       "word": "学生火车票优惠升级了",
       "onboard_time": 1756698624,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85421,
-      "num": 199717,
-      "word": "普京在中国有宾至如归的感觉",
-      "onboard_time": 1756713142,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85348,
@@ -1507,12 +1539,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81460,
+      "num": 199603,
+      "word": "陈小春 一句不唱但有7页歌词",
+      "onboard_time": 1756715721,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81208,
       "num": 147157,
       "word": "星穹铁道凯撒的千年展望",
       "onboard_time": 1756702702,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81111,
+      "num": 238310,
+      "word": "上合峰会莫迪拉着普京的手进大厅",
+      "onboard_time": 1756710980,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80707,
@@ -1537,14 +1585,6 @@
       "onboard_time": 1756698080,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 79952,
-      "num": 238310,
-      "word": "上合峰会莫迪拉着普京的手进大厅",
-      "onboard_time": 1756710980,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79724,
@@ -1617,6 +1657,14 @@
       "onboard_time": 1756637060,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72604,
+      "num": 184296,
+      "word": "租房租到这种床要怎么改造",
+      "onboard_time": 1756713442,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 72493,
@@ -1731,14 +1779,6 @@
       "category": "体育,其它"
     },
     {
-      "raw_hot": 63937,
-      "num": 199603,
-      "word": "陈小春 一句不唱但有7页歌词",
-      "onboard_time": 1756715721,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 63526,
       "num": 63526,
       "word": "被AI造黄谣女运动员发声",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1756651644,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62143,
+      "num": 199695,
+      "word": "三个女人一辆车车内更香了",
+      "onboard_time": 1756715541,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 61909,
@@ -1939,6 +1987,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 36926,
+      "num": 184622,
+      "word": "省长现场致敬退休副省长",
+      "onboard_time": 1756716382,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34589,
       "num": 36366,
       "word": "湖北全面降温来了",
@@ -2003,14 +2059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28138,
-      "num": 199695,
-      "word": "三个女人一辆车车内更香了",
-      "onboard_time": 1756715541,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 27510,
       "num": 47918,
       "word": "华晨宇像小孩子一样活泼",
@@ -2025,6 +2073,14 @@
       "onboard_time": 1756661237,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23641,
+      "num": 184719,
+      "word": "林允儿新剧收视创新高",
+      "onboard_time": 1756716141,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 22224,

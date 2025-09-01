@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756715750994,
+  "endTime": 1756716507787,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -17,6 +17,14 @@
       "onboard_time": 1756656021,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1999353,
+      "num": 1999353,
+      "word": "九三阅兵具体安排来了",
+      "onboard_time": 1756713863,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1843593,
@@ -57,14 +65,6 @@
       "onboard_time": 1756602440,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1293871,
-      "num": 200151,
-      "word": "九三阅兵具体安排来了",
-      "onboard_time": 1756713863,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1182334,
@@ -979,6 +979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 278798,
+      "num": 278798,
+      "word": "这是今天上午的天安门广场",
+      "onboard_time": 1756713082,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 277780,
       "num": 277780,
       "word": "小电驴新国标9月1日实施",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1756598898,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 274048,
+      "num": 247969,
+      "word": "普京发言人称赞中国菜肴",
+      "onboard_time": 1756712601,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 273560,
@@ -1147,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247003,
-      "num": 247003,
-      "word": "普京发言人称赞中国菜肴",
-      "onboard_time": 1756712601,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 244368,
       "num": 227645,
       "word": "台湾信息茧房",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1756711881,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230031,
+      "num": 199781,
+      "word": "离职前先把签证办下来",
+      "onboard_time": 1756714942,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 229351,
@@ -1273,14 +1289,6 @@
       "onboard_time": 1756638141,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221775,
-      "num": 221775,
-      "word": "这是今天上午的天安门广场",
-      "onboard_time": 1756713082,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 221454,
@@ -1739,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186706,
+      "num": 199892,
+      "word": "12306回应停发纸质票不便老年人",
+      "onboard_time": 1756715242,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186653,
       "num": 186653,
       "word": "丁禹兮真的不考虑开个情商班吗",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1756635262,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170197,
+      "num": 199936,
+      "word": "心动8这才是心动的信号",
+      "onboard_time": 1756714642,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 170077,
@@ -2091,6 +2115,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 159736,
+      "num": 221944,
+      "word": "全球治理倡议",
+      "onboard_time": 1756715903,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158859,
       "num": 400724,
       "word": "自律减肥400天的变化",
@@ -2128,6 +2160,14 @@
       "word": "安东内利撞上勒克莱尔",
       "onboard_time": 1756650923,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156069,
+      "num": 185411,
+      "word": "孙颖莎蛋糕上写着加油少女",
+      "onboard_time": 1756715903,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -2353,14 +2393,6 @@
       "onboard_time": 1756631241,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146389,
-      "num": 199936,
-      "word": "心动8这才是心动的信号",
-      "onboard_time": 1756714642,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 146047,
@@ -2667,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132448,
+      "num": 185035,
+      "word": "孙颖莎的14岁到24岁",
+      "onboard_time": 1756716021,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131973,
       "num": 230880,
       "word": "肖国栋冠军",
@@ -2793,14 +2833,6 @@
       "onboard_time": 1756681757,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126648,
-      "num": 199781,
-      "word": "离职前先把签证办下来",
-      "onboard_time": 1756714942,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 126470,
@@ -3339,6 +3371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109305,
+      "num": 199831,
+      "word": "金饰克价涨到1027元",
+      "onboard_time": 1756714102,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109094,
       "num": 229911,
       "word": "月薪5W是什么概念",
@@ -3409,14 +3449,6 @@
       "onboard_time": 1756602560,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 107411,
-      "num": 199831,
-      "word": "金饰克价涨到1027元",
-      "onboard_time": 1756714102,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 107347,
@@ -3675,6 +3707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99595,
+      "num": 199729,
+      "word": "外貌变化带来的落差感",
+      "onboard_time": 1756713200,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99543,
       "num": 155955,
       "word": "iQOO杯已经nextlevel了",
@@ -3707,6 +3747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98554,
+      "num": 185197,
+      "word": "王一博暑期档心动男角色TOP1",
+      "onboard_time": 1756715960,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98524,
       "num": 228823,
       "word": "这三种皮肤问题怎么处理",
@@ -3721,14 +3769,6 @@
       "onboard_time": 1756610602,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 97533,
-      "num": 199892,
-      "word": "12306回应停发纸质票不便老年人",
-      "onboard_time": 1756715242,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97095,
@@ -3849,6 +3889,14 @@
       "onboard_time": 1756638321,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94071,
+      "num": 199717,
+      "word": "普京在中国有宾至如归的感觉",
+      "onboard_time": 1756713142,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 94039,
@@ -4211,14 +4259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86008,
-      "num": 199729,
-      "word": "外貌变化带来的落差感",
-      "onboard_time": 1756713200,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85774,
       "num": 85774,
       "word": "意大利游泳名将涉嫌偷窃被抓",
@@ -4249,14 +4289,6 @@
       "onboard_time": 1756698624,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85421,
-      "num": 199717,
-      "word": "普京在中国有宾至如归的感觉",
-      "onboard_time": 1756713142,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85348,
@@ -4395,12 +4427,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81460,
+      "num": 199603,
+      "word": "陈小春 一句不唱但有7页歌词",
+      "onboard_time": 1756715721,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81208,
       "num": 147157,
       "word": "星穹铁道凯撒的千年展望",
       "onboard_time": 1756702702,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81111,
+      "num": 238310,
+      "word": "上合峰会莫迪拉着普京的手进大厅",
+      "onboard_time": 1756710980,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81014,
@@ -4449,14 +4497,6 @@
       "onboard_time": 1756698080,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 79952,
-      "num": 238310,
-      "word": "上合峰会莫迪拉着普京的手进大厅",
-      "onboard_time": 1756710980,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79936,
@@ -4705,6 +4745,14 @@
       "onboard_time": 1756631181,
       "rank": 47,
       "category": "剧集,休闲"
+    },
+    {
+      "raw_hot": 72604,
+      "num": 184296,
+      "word": "租房租到这种床要怎么改造",
+      "onboard_time": 1756713442,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 72493,
@@ -4971,14 +5019,6 @@
       "category": "体育,其它"
     },
     {
-      "raw_hot": 63937,
-      "num": 199603,
-      "word": "陈小春 一句不唱但有7页歌词",
-      "onboard_time": 1756715721,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 63654,
       "num": 63654,
       "word": "大学一开学家里就空了",
@@ -5025,6 +5065,14 @@
       "onboard_time": 1756563084,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62143,
+      "num": 199695,
+      "word": "三个女人一辆车车内更香了",
+      "onboard_time": 1756715541,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 59614,
@@ -5283,6 +5331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36926,
+      "num": 184622,
+      "word": "省长现场致敬退休副省长",
+      "onboard_time": 1756716382,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35741,
       "num": 79503,
       "word": "陈雨菲冲击大满贯",
@@ -5435,14 +5491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28138,
-      "num": 199695,
-      "word": "三个女人一辆车车内更香了",
-      "onboard_time": 1756715541,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 27510,
       "num": 47918,
       "word": "华晨宇像小孩子一样活泼",
@@ -5464,6 +5512,14 @@
       "word": "这个对视纯正昀牵孟绕味",
       "onboard_time": 1756610602,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23641,
+      "num": 184719,
+      "word": "林允儿新剧收视创新高",
+      "onboard_time": 1756716141,
+      "rank": 37,
       "category": "剧集"
     },
     {

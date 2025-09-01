@@ -1,0 +1,410 @@
+{
+  "runTime": 1756716507787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1999353,
+        "num": 1999353,
+        "word": "九三阅兵具体安排来了",
+        "onboard_time": 1756713863,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278798,
+        "num": 278798,
+        "word": "这是今天上午的天安门广场",
+        "onboard_time": 1756713082,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2978,
+        "num": 260177,
+        "word": "对华关系是越南对外政策头等优先",
+        "onboard_time": 1756669214,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257397,
+        "num": 257397,
+        "word": "孙颖莎进入国家队十年发文",
+        "onboard_time": 1756708879,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248006,
+        "num": 248006,
+        "word": "一等功臣爷爷送孙子国防科大报到",
+        "onboard_time": 1756701263,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274048,
+        "num": 247969,
+        "word": "普京发言人称赞中国菜肴",
+        "onboard_time": 1756712601,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373005,
+        "num": 246616,
+        "word": "莫迪搭普京专车",
+        "onboard_time": 1756709721,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238930,
+        "num": 238930,
+        "word": "12306回应停发纸质车票",
+        "onboard_time": 1756695680,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54989,
+        "num": 222173,
+        "word": "2025暑期档电影票房119.66亿元",
+        "onboard_time": 1756697061,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159736,
+        "num": 221944,
+        "word": "全球治理倡议",
+        "onboard_time": 1756715903,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221715,
+        "num": 221715,
+        "word": "过的太爽了不敢告诉别人",
+        "onboard_time": 1756700963,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191000,
+        "num": 191000,
+        "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
+        "onboard_time": 1756698742,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186706,
+        "num": 186706,
+        "word": "12306回应停发纸质票不便老年人",
+        "onboard_time": 1756715242,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170197,
+        "num": 186666,
+        "word": "心动8这才是心动的信号",
+        "onboard_time": 1756714642,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149918,
+        "num": 186548,
+        "word": "波兰百万富豪回应抢走小男孩帽子",
+        "onboard_time": 1756708819,
+        "rank": 14,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 133621,
+        "num": 186415,
+        "word": "献鱼 番外",
+        "onboard_time": 1756709900,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124605,
+        "num": 186266,
+        "word": "上合成员国元首理事会会议",
+        "onboard_time": 1756694180,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112334,
+        "num": 186034,
+        "word": "AI让英烈看到今日中国",
+        "onboard_time": 1756714462,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103497,
+        "num": 185962,
+        "word": "冼星海在炮声中用音乐救国",
+        "onboard_time": 1756705880,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78394,
+        "num": 185806,
+        "word": "好有实力的开学痛车阵",
+        "onboard_time": 1756714401,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344130,
+        "num": 185565,
+        "word": "金价",
+        "onboard_time": 1756694961,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 309557,
+        "num": 185538,
+        "word": "董璇一直在为张维伊兜底",
+        "onboard_time": 1756710980,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185423,
+        "num": 185423,
+        "word": "周翊然果郡王",
+        "onboard_time": 1756711881,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156069,
+        "num": 185411,
+        "word": "孙颖莎蛋糕上写着加油少女",
+        "onboard_time": 1756715903,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109305,
+        "num": 185352,
+        "word": "金饰克价涨到1027元",
+        "onboard_time": 1756714102,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99595,
+        "num": 185324,
+        "word": "外貌变化带来的落差感",
+        "onboard_time": 1756713200,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98655,
+        "num": 185237,
+        "word": "全款买房住5年后真房主找来了",
+        "onboard_time": 1756698440,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98554,
+        "num": 185197,
+        "word": "王一博暑期档心动男角色TOP1",
+        "onboard_time": 1756715960,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96274,
+        "num": 185164,
+        "word": "全红婵大学的院长是苏炳添",
+        "onboard_time": 1756701142,
+        "rank": 28,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 94071,
+        "num": 185113,
+        "word": "普京在中国有宾至如归的感觉",
+        "onboard_time": 1756713142,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230031,
+        "num": 185063,
+        "word": "离职前先把签证办下来",
+        "onboard_time": 1756714942,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132448,
+        "num": 185035,
+        "word": "孙颖莎的14岁到24岁",
+        "onboard_time": 1756716021,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106616,
+        "num": 184965,
+        "word": "德国曝光涉北溪爆炸案女潜水员照片",
+        "onboard_time": 1756713321,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88943,
+        "num": 184902,
+        "word": "杨幂小时代这梗过不去了",
+        "onboard_time": 1756711581,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83679,
+        "num": 184890,
+        "word": "你们誓死守护的中国如今繁华锦绣",
+        "onboard_time": 1756710381,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83105,
+        "num": 184853,
+        "word": "助眠届新增邪修大法",
+        "onboard_time": 1756714701,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82618,
+        "num": 184800,
+        "word": "鹿晗把逛街买贵的莲子带上演唱会",
+        "onboard_time": 1756712001,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23641,
+        "num": 184719,
+        "word": "林允儿新剧收视创新高",
+        "onboard_time": 1756716141,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62143,
+        "num": 184692,
+        "word": "三个女人一辆车车内更香了",
+        "onboard_time": 1756715541,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36926,
+        "num": 184622,
+        "word": "省长现场致敬退休副省长",
+        "onboard_time": 1756716382,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79756,
+        "num": 184580,
+        "word": "苏醒对登陆少年说不用起的含金量",
+        "onboard_time": 1756714881,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81460,
+        "num": 184563,
+        "word": "陈小春 一句不唱但有7页歌词",
+        "onboard_time": 1756715721,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81181,
+        "num": 184488,
+        "word": "iPhone17Pro透明保护壳曝光",
+        "onboard_time": 1756701801,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81111,
+        "num": 184436,
+        "word": "上合峰会莫迪拉着普京的手进大厅",
+        "onboard_time": 1756710980,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76892,
+        "num": 184425,
+        "word": "第一次发现谢娜是妈妈辈的",
+        "onboard_time": 1756706001,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73722,
+        "num": 184339,
+        "word": "黄雅琼世锦赛观后感",
+        "onboard_time": 1756714701,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72604,
+        "num": 184296,
+        "word": "租房租到这种床要怎么改造",
+        "onboard_time": 1756713442,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72448,
+        "num": 184258,
+        "word": "张晚意 龚俊亦未寝",
+        "onboard_time": 1756707502,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72422,
+        "num": 184221,
+        "word": "安东尼加盟贝蒂斯",
+        "onboard_time": 1756715062,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71566,
+        "num": 184189,
+        "word": "孙颖莎的荣誉簿好长好长",
+        "onboard_time": 1756710141,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同家园#"
+    }
+  }
+}
