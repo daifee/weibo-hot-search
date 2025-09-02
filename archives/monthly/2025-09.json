@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756769855765,
+  "endTime": 1756778081788,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 649685,
+      "num": 111028,
+      "word": "沈佳润史上最无语原唱",
+      "onboard_time": 1756776322,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 612202,
       "num": 612202,
       "word": "莫迪发文感谢中方",
@@ -243,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 509269,
+      "num": 108416,
+      "word": "发明同车换乘的人真是个天才",
+      "onboard_time": 1756771460,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 494146,
       "num": 396004,
       "word": "美国留学现状",
@@ -289,6 +305,14 @@
       "onboard_time": 1756695920,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 454847,
+      "num": 1072775,
+      "word": "天安门广场年号台整体亮相",
+      "onboard_time": 1756773261,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 452361,
@@ -377,6 +401,14 @@
       "onboard_time": 1756733303,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 390973,
+      "num": 214659,
+      "word": "网友称收到生育补贴",
+      "onboard_time": 1756773441,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390306,
@@ -507,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308532,
+      "num": 308532,
+      "word": "中英日三语种主题片胜利",
+      "onboard_time": 1756774942,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 308015,
       "num": 182996,
       "word": "牙线的邪修用法",
@@ -516,7 +556,7 @@
     },
     {
       "raw_hot": 303112,
-      "num": 120892,
+      "num": 203967,
       "word": "鼻炎 记忆力下降",
       "onboard_time": 1756763835,
       "rank": 15,
@@ -563,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287156,
+      "num": 287156,
+      "word": "日本签署投降书画面",
+      "onboard_time": 1756769779,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 285977,
       "num": 115566,
       "word": "NHK播报勿忘南京大屠杀主播发声",
@@ -584,6 +632,22 @@
       "word": "这是今天上午的天安门广场",
       "onboard_time": 1756713082,
       "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 279634,
+      "num": 279634,
+      "word": "检阅部队",
+      "onboard_time": 1756771100,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 275923,
+      "num": 275923,
+      "word": "李幼斌和李云龙跨时空对话",
+      "onboard_time": 1756773682,
+      "rank": 7,
       "category": "国内时政"
     },
     {
@@ -683,6 +747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 250935,
+      "num": 250935,
+      "word": "日本投降签字仪式结束时间9时18分",
+      "onboard_time": 1756770079,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 248996,
       "num": 248996,
       "word": "韩德君退役",
@@ -747,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223358,
+      "num": 105579,
+      "word": "3岁半宝宝110厘米58斤入学超显眼",
+      "onboard_time": 1756771222,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221454,
       "num": 552837,
       "word": "上合已成世界最大区域组织",
@@ -777,6 +857,14 @@
       "onboard_time": 1756702582,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212622,
+      "num": 212622,
+      "word": "揭开731少年班罪恶真相",
+      "onboard_time": 1756774462,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 211975,
@@ -817,6 +905,14 @@
       "onboard_time": 1756698921,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 204908,
+      "num": 204908,
+      "word": "19450902日本签署投降书",
+      "onboard_time": 1756769118,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201001,
@@ -915,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190010,
+      "num": 218602,
+      "word": "北京市民游客冒雨打卡抗战主题花坛",
+      "onboard_time": 1756776381,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188931,
       "num": 401541,
       "word": "密室大逃脱",
@@ -971,6 +1075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184493,
+      "num": 101109,
+      "word": "甚至怀疑过绿是字的颜色",
+      "onboard_time": 1756771040,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184410,
       "num": 399106,
       "word": "开心麻花上春晚沈腾压力最大",
@@ -985,6 +1097,14 @@
       "onboard_time": 1756655121,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180217,
+      "num": 180217,
+      "word": "喀什古城官宣杀青",
+      "onboard_time": 1756778060,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 180101,
@@ -1283,12 +1403,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149209,
+      "num": 99996,
+      "word": "幼儿园开学第一天上演两极反转",
+      "onboard_time": 1756776200,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147751,
       "num": 396762,
       "word": "李乃文又拉长人中了",
       "onboard_time": 1756706900,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146353,
+      "num": 99064,
+      "word": "aespa导播还是太会切屏了",
+      "onboard_time": 1756774160,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 145145,
@@ -1345,6 +1481,14 @@
       "onboard_time": 1756721421,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137965,
+      "num": 137965,
+      "word": "孙颖莎王楚钦樊振东出战乒超总决赛",
+      "onboard_time": 1756776141,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 137793,
@@ -1625,14 +1769,6 @@
       "onboard_time": 1756720882,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119224,
-      "num": 119224,
-      "word": "日本签署投降书画面",
-      "onboard_time": 1756769779,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118591,
@@ -1987,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100093,
+      "num": 100093,
+      "word": "波兰重提二战赔偿",
+      "onboard_time": 1756770019,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99641,
       "num": 99641,
       "word": "中餐厅做客我们的宿舍",
@@ -2049,6 +2193,14 @@
       "onboard_time": 1756704022,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96912,
+      "num": 96912,
+      "word": "中国第一支农村电影流动放映队",
+      "onboard_time": 1756773621,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96694,
@@ -2195,6 +2347,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88274,
+      "num": 88274,
+      "word": "献鱼",
+      "onboard_time": 1756770320,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88125,
+      "num": 88125,
+      "word": "AirPodsPro3耳机前瞻",
+      "onboard_time": 1756775841,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87888,
       "num": 87888,
       "word": "叶童秒接李艺彤罗予彤求助电话",
@@ -2209,6 +2377,14 @@
       "onboard_time": 1756719561,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87374,
+      "num": 87374,
+      "word": "果然猫在上厕所的时候最脆弱",
+      "onboard_time": 1756771941,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 87338,
@@ -2387,11 +2563,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83268,
+      "num": 83268,
+      "word": "周翊然演技",
+      "onboard_time": 1756769839,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83135,
       "num": 236884,
       "word": "当周一撞上每月一号",
       "onboard_time": 1756708941,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 82833,
+      "num": 82833,
+      "word": "当你报考到很偏僻的学校",
+      "onboard_time": 1756778002,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -2555,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76191,
+      "num": 76191,
+      "word": "为什么9月3日是抗战胜利纪念日",
+      "onboard_time": 1756775722,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75718,
       "num": 199677,
       "word": "安东尼加盟贝蒂斯",
@@ -2577,6 +2777,14 @@
       "onboard_time": 1756730361,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74747,
+      "num": 74747,
+      "word": "俱乐部主帅谈樊振东德甲首秀失利",
+      "onboard_time": 1756774880,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 74189,
@@ -2699,6 +2907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 69483,
+      "num": 69483,
+      "word": "打工的前7个月就存到了3万",
+      "onboard_time": 1756772060,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69135,
       "num": 173491,
       "word": "麸质过敏 情绪反应",
@@ -2739,6 +2955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66940,
+      "num": 66940,
+      "word": "美国军舰生锈",
+      "onboard_time": 1756773380,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66787,
       "num": 98390,
       "word": "李晋晔求问退出键在哪",
@@ -2769,6 +2993,14 @@
       "onboard_time": 1756724960,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66469,
+      "num": 66469,
+      "word": "iPhone17系列预售调查",
+      "onboard_time": 1756769779,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 66324,
@@ -2825,6 +3057,14 @@
       "onboard_time": 1756683380,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64464,
+      "num": 66469,
+      "word": "用人民币感受挪威物价",
+      "onboard_time": 1756775841,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 64017,
@@ -2923,12 +3163,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 60714,
-      "num": 60714,
-      "word": "iPhone17系列预售调查",
-      "onboard_time": 1756769779,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 61548,
+      "num": 66467,
+      "word": "王源00后鸟巢第一人",
+      "onboard_time": 1756777879,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 60369,
@@ -2945,6 +3185,14 @@
       "onboard_time": 1756738761,
       "rank": 41,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 59649,
+      "num": 66465,
+      "word": "辛纳硬地大满贯25连胜",
+      "onboard_time": 1756777099,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 59614,
@@ -3139,14 +3387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46944,
-      "num": 122342,
-      "word": "19450902日本签署投降书",
-      "onboard_time": 1756769118,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 46854,
       "num": 383484,
       "word": "公安机关依法打击涉无人机黑客违法犯罪",
@@ -3192,14 +3432,6 @@
       "word": "早春晴朗开拍",
       "onboard_time": 1756636760,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 40644,
-      "num": 60687,
-      "word": "周翊然演技",
-      "onboard_time": 1756769839,
-      "rank": 41,
       "category": "剧集"
     },
     {
