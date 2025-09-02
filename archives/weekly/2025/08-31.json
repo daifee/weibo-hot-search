@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756791759516,
+  "endTime": 1756795088805,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -779,6 +779,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418284,
+      "num": 418284,
+      "word": "预约阅兵直播",
+      "onboard_time": 1756788561,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 414976,
+      "num": 142215,
+      "word": "买5元树脂自行补牙致口腔变年糕",
+      "onboard_time": 1756791802,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412222,
       "num": 276835,
       "word": "孟子义李昀锐上台讲话",
@@ -1299,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299870,
+      "num": 174440,
+      "word": "现在喝奶茶也要配货了",
+      "onboard_time": 1756790121,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 297933,
       "num": 386216,
       "word": "香港上空这一幕令人震撼",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1756623860,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277759,
+      "num": 277759,
+      "word": "九三上午纪念大会晚上文艺晚会",
+      "onboard_time": 1756791442,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 276482,
@@ -1603,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257070,
+      "num": 174468,
+      "word": "安卓换iPhone后的尴尬瞬间",
+      "onboard_time": 1756790002,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 256624,
       "num": 252790,
       "word": "中国的安全感让外国记者震惊了",
@@ -1616,6 +1656,14 @@
       "word": "抗战胜利80周年第3场记者招待会",
       "onboard_time": 1756606100,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 253325,
+      "num": 138762,
+      "word": "日媒爆中国驱逐舰绕了日本一圈",
+      "onboard_time": 1756794320,
+      "rank": 23,
       "category": "国内时政"
     },
     {
@@ -1641,14 +1689,6 @@
       "onboard_time": 1756682000,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 250773,
-      "num": 174468,
-      "word": "安卓换iPhone后的尴尬瞬间",
-      "onboard_time": 1756790002,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 250741,
@@ -1723,14 +1763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240368,
-      "num": 332058,
-      "word": "预约阅兵直播",
-      "onboard_time": 1756788561,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 238731,
       "num": 174467,
       "word": "男孩赶14小时作业双手痉挛成鸡爪状",
@@ -1745,14 +1777,6 @@
       "onboard_time": 1756651763,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235302,
-      "num": 235302,
-      "word": "九三上午纪念大会晚上文艺晚会",
-      "onboard_time": 1756791442,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 233860,
@@ -1953,14 +1977,6 @@
       "onboard_time": 1756610300,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 210691,
-      "num": 174440,
-      "word": "现在喝奶茶也要配货了",
-      "onboard_time": 1756790121,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 210397,
@@ -3147,6 +3163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154241,
+      "num": 137123,
+      "word": "孩子们别怕 老师也刚学",
+      "onboard_time": 1756791981,
+      "rank": 25,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 154201,
       "num": 149610,
       "word": "人生最大的意义就是让自己快乐",
@@ -3801,6 +3825,14 @@
       "onboard_time": 1756738704,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133290,
+      "num": 133290,
+      "word": "女子回应随手写彩票中奖798万",
+      "onboard_time": 1756794682,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132898,
@@ -5755,6 +5787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87812,
+      "num": 87812,
+      "word": "戚薇脑是脑嘴是嘴",
+      "onboard_time": 1756794741,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87605,
       "num": 87605,
       "word": "罗晋演出了欺骗式婚姻的恐怖",
@@ -5865,6 +5905,14 @@
       "onboard_time": 1756725442,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86326,
+      "num": 86326,
+      "word": "一个民族的反省远比另一个民族的宽容更重要",
+      "onboard_time": 1756792400,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86274,
@@ -6115,6 +6163,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82557,
+      "num": 197362,
+      "word": "伊朗总统出席抗战胜利纪念活动",
+      "onboard_time": 1756793721,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 82365,
+      "num": 84989,
+      "word": "倩女幽魂翻拍",
+      "onboard_time": 1756792161,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81889,
       "num": 94518,
       "word": "装备方队有最新装备和国之重器",
@@ -6315,12 +6379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77466,
+      "num": 84954,
+      "word": "戚薇夏家三千金爱情水印时候",
+      "onboard_time": 1756795041,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77401,
       "num": 169485,
       "word": "奉行主权平等",
       "onboard_time": 1756721362,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77328,
+      "num": 84942,
+      "word": "恋与深空",
+      "onboard_time": 1756795041,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 77223,
@@ -6867,6 +6947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66069,
+      "num": 86737,
+      "word": "马斯克投的飞行汽车在机场试运营",
+      "onboard_time": 1756794981,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66039,
       "num": 83011,
       "word": "刘宇宁说金靖不是一般地开朗",
@@ -7147,6 +7235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58652,
+      "num": 84926,
+      "word": "王曼昱亚运会女单夺冠7周年",
+      "onboard_time": 1756793060,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58569,
       "num": 58569,
       "word": "无限暖暖",
@@ -7289,6 +7385,14 @@
       "onboard_time": 1756646002,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49423,
+      "num": 86457,
+      "word": "檀健次自曝在国外被偷经历",
+      "onboard_time": 1756794801,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 48487,

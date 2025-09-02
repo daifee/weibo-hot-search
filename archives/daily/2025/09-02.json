@@ -1,6 +1,6 @@
 {
   "startTime": 1756744237306,
-  "endTime": 1756791759516,
+  "endTime": 1756795088805,
   "band_list": [
     {
       "raw_hot": 1127699,
@@ -131,6 +131,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 418284,
+      "num": 418284,
+      "word": "预约阅兵直播",
+      "onboard_time": 1756788561,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 414976,
+      "num": 142215,
+      "word": "买5元树脂自行补牙致口腔变年糕",
+      "onboard_time": 1756791802,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 394762,
       "num": 309801,
       "word": "美8艘军舰4200名士兵逼近委内瑞拉",
@@ -227,6 +243,14 @@
       "category": "综艺,健康医疗"
     },
     {
+      "raw_hot": 299870,
+      "num": 174440,
+      "word": "现在喝奶茶也要配货了",
+      "onboard_time": 1756790121,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 285977,
       "num": 117507,
       "word": "NHK播报勿忘南京大屠杀主播发声",
@@ -248,6 +272,14 @@
       "word": "普京在天津的一天",
       "onboard_time": 1756781540,
       "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 277759,
+      "num": 277759,
+      "word": "九三上午纪念大会晚上文艺晚会",
+      "onboard_time": 1756791442,
+      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -291,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 257070,
+      "num": 174468,
+      "word": "安卓换iPhone后的尴尬瞬间",
+      "onboard_time": 1756790002,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 256624,
       "num": 252790,
       "word": "中国的安全感让外国记者震惊了",
@@ -299,12 +339,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 250773,
-      "num": 174468,
-      "word": "安卓换iPhone后的尴尬瞬间",
-      "onboard_time": 1756790002,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 253325,
+      "num": 138762,
+      "word": "日媒爆中国驱逐舰绕了日本一圈",
+      "onboard_time": 1756794320,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 249242,
@@ -331,28 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240368,
-      "num": 332058,
-      "word": "预约阅兵直播",
-      "onboard_time": 1756788561,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 238731,
       "num": 174467,
       "word": "男孩赶14小时作业双手痉挛成鸡爪状",
       "onboard_time": 1756788201,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235302,
-      "num": 235302,
-      "word": "九三上午纪念大会晚上文艺晚会",
-      "onboard_time": 1756791442,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 229922,
@@ -393,14 +417,6 @@
       "onboard_time": 1756787241,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210691,
-      "num": 174440,
-      "word": "现在喝奶茶也要配货了",
-      "onboard_time": 1756790121,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 210282,
@@ -659,6 +675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154241,
+      "num": 137123,
+      "word": "孩子们别怕 老师也刚学",
+      "onboard_time": 1756791981,
+      "rank": 25,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 154201,
       "num": 149610,
       "word": "人生最大的意义就是让自己快乐",
@@ -817,6 +841,14 @@
       "onboard_time": 1756786702,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133290,
+      "num": 133290,
+      "word": "女子回应随手写彩票中奖798万",
+      "onboard_time": 1756794682,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132287,
@@ -1051,12 +1083,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87812,
+      "num": 87812,
+      "word": "戚薇脑是脑嘴是嘴",
+      "onboard_time": 1756794741,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87374,
       "num": 117479,
       "word": "果然猫在上厕所的时候最脆弱",
       "onboard_time": 1756771941,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86326,
+      "num": 86326,
+      "word": "一个民族的反省远比另一个民族的宽容更重要",
+      "onboard_time": 1756792400,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84270,
@@ -1099,6 +1147,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82557,
+      "num": 197362,
+      "word": "伊朗总统出席抗战胜利纪念活动",
+      "onboard_time": 1756793721,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 82365,
+      "num": 84989,
+      "word": "倩女幽魂翻拍",
+      "onboard_time": 1756792161,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81060,
       "num": 119790,
       "word": "浓厚氛围迎抗战胜利80周年",
@@ -1121,6 +1185,22 @@
       "onboard_time": 1756744938,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77466,
+      "num": 84954,
+      "word": "戚薇夏家三千金爱情水印时候",
+      "onboard_time": 1756795041,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77328,
+      "num": 84942,
+      "word": "恋与深空",
+      "onboard_time": 1756795041,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 76369,
@@ -1211,6 +1291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 66069,
+      "num": 86737,
+      "word": "马斯克投的飞行汽车在机场试运营",
+      "onboard_time": 1756794981,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65906,
       "num": 65906,
       "word": "小猫生气得要离家出走",
@@ -1267,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58652,
+      "num": 84926,
+      "word": "王曼昱亚运会女单夺冠7周年",
+      "onboard_time": 1756793060,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56150,
       "num": 60714,
       "word": "苹果强制供应商转型自动化",
@@ -1289,6 +1385,14 @@
       "onboard_time": 1756790722,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49423,
+      "num": 86457,
+      "word": "檀健次自曝在国外被偷经历",
+      "onboard_time": 1756794801,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 47787,
