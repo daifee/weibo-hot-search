@@ -1,6 +1,6 @@
 {
   "startTime": 1756744237306,
-  "endTime": 1756813070555,
+  "endTime": 1756817530029,
   "band_list": [
     {
       "raw_hot": 1913036,
@@ -115,6 +115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 739454,
+      "num": 739454,
+      "word": "她是新中国第一位女将军",
+      "onboard_time": 1756811302,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 706272,
       "num": 197042,
       "word": "信用卡要被年轻人抛弃了吗",
@@ -169,6 +177,14 @@
       "onboard_time": 1756797261,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 531892,
+      "num": 209976,
+      "word": "幼儿园即将迎来一颗魔丸",
+      "onboard_time": 1756811001,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 529750,
@@ -227,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 461362,
-      "num": 461362,
-      "word": "她是新中国第一位女将军",
-      "onboard_time": 1756811302,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 438806,
       "num": 267249,
       "word": "桑启 曹植",
@@ -280,6 +288,14 @@
       "word": "预约阅兵直播",
       "onboard_time": 1756788561,
       "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 400179,
+      "num": 193470,
+      "word": "国民党主席称不禁止个人去九三阅兵",
+      "onboard_time": 1756814422,
+      "rank": 12,
       "category": "国内时政"
     },
     {
@@ -483,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276267,
+      "num": 276267,
+      "word": "新闻联播",
+      "onboard_time": 1756816462,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275923,
       "num": 275923,
       "word": "李幼斌和李云龙跨时空对话",
@@ -553,6 +577,14 @@
       "onboard_time": 1756785622,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 245961,
+      "num": 193356,
+      "word": "iG选择EDG",
+      "onboard_time": 1756816341,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 243513,
@@ -659,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205426,
+      "num": 192592,
+      "word": "睡眠不足和睡眠充足有什么区别",
+      "onboard_time": 1756815802,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204908,
       "num": 204908,
       "word": "19450902日本签署投降书",
@@ -707,6 +747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194258,
+      "num": 208942,
+      "word": "九三盛大阅兵明天见",
+      "onboard_time": 1756807102,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192840,
       "num": 192840,
       "word": "孟子义李昀锐尚公主开机宴路透",
@@ -721,6 +769,14 @@
       "onboard_time": 1756786941,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 191896,
+      "num": 191896,
+      "word": "BLG选择JDG",
+      "onboard_time": 1756816583,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 191135,
@@ -761,14 +817,6 @@
       "onboard_time": 1756723820,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 184913,
-      "num": 209976,
-      "word": "幼儿园即将迎来一颗魔丸",
-      "onboard_time": 1756811001,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 184493,
@@ -888,6 +936,14 @@
       "word": "一家十口送儿子上大学哭成泪人",
       "onboard_time": 1756784961,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166346,
+      "num": 209883,
+      "word": "他花我的社保我没意见",
+      "onboard_time": 1756812322,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1051,6 +1107,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150452,
+      "num": 192341,
+      "word": "父亲工资6000女儿要3000生活费",
+      "onboard_time": 1756815021,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150246,
+      "num": 193101,
+      "word": "LPL季后赛对阵",
+      "onboard_time": 1756816281,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150065,
       "num": 265881,
       "word": "捕风追影有赵雅芝老公儿子",
@@ -1171,12 +1243,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140253,
-      "num": 209883,
-      "word": "他花我的社保我没意见",
-      "onboard_time": 1756812322,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 138475,
+      "num": 192845,
+      "word": "梅逐雨成了猫公",
+      "onboard_time": 1756816761,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 138014,
@@ -1427,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118381,
+      "num": 191892,
+      "word": "武祯怀孕了",
+      "onboard_time": 1756817122,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117347,
       "num": 210077,
       "word": "以为是仙侠剧其实是穿越剧",
@@ -1619,6 +1699,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93702,
+      "num": 191867,
+      "word": "TES选择NIP",
+      "onboard_time": 1756816401,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 93356,
+      "num": 191839,
+      "word": "三得利董事长闪辞",
+      "onboard_time": 1756813702,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93172,
       "num": 115393,
       "word": "全家送女儿上大学返程三人集体泪崩",
@@ -1651,12 +1747,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89567,
+      "num": 191818,
+      "word": "长安街花坛",
+      "onboard_time": 1756814060,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89496,
       "num": 141424,
       "word": "生万物庆功宴大合照",
       "onboard_time": 1756800800,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88840,
+      "num": 191815,
+      "word": "明天你们在哪看阅兵",
+      "onboard_time": 1756814481,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88582,
@@ -1747,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84537,
+      "num": 209339,
+      "word": "螃蟹低至10元一斤",
+      "onboard_time": 1756813041,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84270,
       "num": 123965,
       "word": "乒超总决赛名单出炉",
@@ -1787,12 +1907,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82666,
+      "num": 191836,
+      "word": "微博上线九三纪念专属点赞特效",
+      "onboard_time": 1756816702,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82557,
       "num": 197362,
       "word": "伊朗总统出席抗战胜利纪念活动",
       "onboard_time": 1756793721,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82428,
+      "num": 191787,
+      "word": "詹姆斯启程上海",
+      "onboard_time": 1756815441,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 82365,
@@ -1907,14 +2043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75536,
-      "num": 208942,
-      "word": "九三盛大阅兵明天见",
-      "onboard_time": 1756807102,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 75084,
       "num": 117417,
       "word": "高芙无缘美网八强",
@@ -1969,6 +2097,14 @@
       "onboard_time": 1756780999,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71336,
+      "num": 192925,
+      "word": "斯洛伐克总理说来华是为了表达敬意",
+      "onboard_time": 1756816761,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70506,
@@ -2035,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66748,
+      "num": 191739,
+      "word": "平均年龄98岁的抗战老兵讲述历史",
+      "onboard_time": 1756814722,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66469,
       "num": 117337,
       "word": "iPhone17系列预售调查",
@@ -2051,6 +2195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65601,
+      "num": 191725,
+      "word": "陈星旭还是演戏吧品美食我自有人选",
+      "onboard_time": 1756813461,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64936,
       "num": 208754,
       "word": "陈雨菲伤情诊断公布",
@@ -2065,6 +2217,14 @@
       "onboard_time": 1756716624,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62843,
+      "num": 191712,
+      "word": "文具行业巨头开始卖谷子了",
+      "onboard_time": 1756815261,
+      "rank": 46,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 62747,
@@ -2243,6 +2403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38928,
+      "num": 191680,
+      "word": "京多安加盟加拉塔萨雷",
+      "onboard_time": 1756817001,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37873,
       "num": 109713,
       "word": "奶茶店小票印霸总小说",
@@ -2367,14 +2535,6 @@
       "num": 94862,
       "word": "上海禁塑令违者最高罚10万",
       "onboard_time": 1756781840,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32007,
-      "num": 209339,
-      "word": "螃蟹低至10元一斤",
-      "onboard_time": 1756813041,
       "rank": 39,
       "category": "民生新闻"
     },

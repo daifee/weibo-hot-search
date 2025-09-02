@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756813070555,
+  "endTime": 1756817530029,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -379,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 739454,
+      "num": 739454,
+      "word": "她是新中国第一位女将军",
+      "onboard_time": 1756811302,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 715979,
       "num": 341009,
       "word": "永辉超市胖东来燕麦脆已下架",
@@ -603,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 531892,
+      "num": 209976,
+      "word": "幼儿园即将迎来一颗魔丸",
+      "onboard_time": 1756811001,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 529750,
       "num": 529750,
       "word": "阅兵剧透来了",
@@ -779,14 +795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 461362,
-      "num": 461362,
-      "word": "她是新中国第一位女将军",
-      "onboard_time": 1756811302,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 455284,
       "num": 391120,
       "word": "敬山水 李庚希宋亚轩",
@@ -953,6 +961,14 @@
       "onboard_time": 1756721121,
       "rank": 15,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 400179,
+      "num": 193470,
+      "word": "国民党主席称不禁止个人去九三阅兵",
+      "onboard_time": 1756814422,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 400075,
@@ -1667,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276267,
+      "num": 276267,
+      "word": "新闻联播",
+      "onboard_time": 1756816462,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275923,
       "num": 275923,
       "word": "李幼斌和李云龙跨时空对话",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1756723160,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245961,
+      "num": 193356,
+      "word": "iG选择EDG",
+      "onboard_time": 1756816341,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 244368,
@@ -2307,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205426,
+      "num": 192592,
+      "word": "睡眠不足和睡眠充足有什么区别",
+      "onboard_time": 1756815802,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205344,
       "num": 275291,
       "word": "潘玮柏演唱会嘉宾是薛之谦",
@@ -2547,6 +2587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194258,
+      "num": 208942,
+      "word": "九三盛大阅兵明天见",
+      "onboard_time": 1756807102,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193817,
       "num": 120405,
       "word": "TREASURE回归主打曲MV",
@@ -2625,6 +2673,14 @@
       "onboard_time": 1756611321,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191896,
+      "num": 191896,
+      "word": "BLG选择JDG",
+      "onboard_time": 1756816583,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 191197,
@@ -2777,14 +2833,6 @@
       "onboard_time": 1756719621,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 184913,
-      "num": 209976,
-      "word": "幼儿园即将迎来一颗魔丸",
-      "onboard_time": 1756811001,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 184768,
@@ -3160,6 +3208,14 @@
       "word": "全连牺牲只有1人留下照片",
       "onboard_time": 1756737322,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166346,
+      "num": 209883,
+      "word": "他花我的社保我没意见",
+      "onboard_time": 1756812322,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3627,12 +3683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150452,
+      "num": 192341,
+      "word": "父亲工资6000女儿要3000生活费",
+      "onboard_time": 1756815021,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150342,
       "num": 751932,
       "word": "开学第一课",
       "onboard_time": 1756724000,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150246,
+      "num": 193101,
+      "word": "LPL季后赛对阵",
+      "onboard_time": 1756816281,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 150065,
@@ -3963,14 +4035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140253,
-      "num": 209883,
-      "word": "他花我的社保我没意见",
-      "onboard_time": 1756812322,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140199,
       "num": 140199,
       "word": "王乐晨卢远永远会接住对方的情绪",
@@ -4001,6 +4065,14 @@
       "onboard_time": 1756611381,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138475,
+      "num": 192845,
+      "word": "梅逐雨成了猫公",
+      "onboard_time": 1756816761,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 138326,
@@ -4808,6 +4880,14 @@
       "word": "王影璐演技",
       "onboard_time": 1756626681,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118381,
+      "num": 191892,
+      "word": "武祯怀孕了",
+      "onboard_time": 1756817122,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -6059,6 +6139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93702,
+      "num": 191867,
+      "word": "TES选择NIP",
+      "onboard_time": 1756816401,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93602,
       "num": 113748,
       "word": "你好星期六暑期收视13连冠",
@@ -6073,6 +6161,14 @@
       "onboard_time": 1756611680,
       "rank": 45,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 93356,
+      "num": 191839,
+      "word": "三得利董事长闪辞",
+      "onboard_time": 1756813702,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93275,
@@ -6243,6 +6339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89567,
+      "num": 191818,
+      "word": "长安街花坛",
+      "onboard_time": 1756814060,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89527,
       "num": 105770,
       "word": "沈月干回婚庆摄影老本行",
@@ -6305,6 +6409,14 @@
       "onboard_time": 1756605981,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88840,
+      "num": 191815,
+      "word": "明天你们在哪看阅兵",
+      "onboard_time": 1756814481,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88783,
@@ -6659,6 +6771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84537,
+      "num": 209339,
+      "word": "螃蟹低至10元一斤",
+      "onboard_time": 1756813041,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84434,
       "num": 84434,
       "word": "天津蜡笔小新公交站",
@@ -6795,6 +6915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82666,
+      "num": 191836,
+      "word": "微博上线九三纪念专属点赞特效",
+      "onboard_time": 1756816702,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82558,
       "num": 228940,
       "word": "邓紫棋紧急撤回失败",
@@ -6809,6 +6937,14 @@
       "onboard_time": 1756793721,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82428,
+      "num": 191787,
+      "word": "詹姆斯启程上海",
+      "onboard_time": 1756815441,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 82365,
@@ -7219,14 +7355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75536,
-      "num": 208942,
-      "word": "九三盛大阅兵明天见",
-      "onboard_time": 1756807102,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 75424,
       "num": 75424,
       "word": "孙颖莎优雅永不过时",
@@ -7424,6 +7552,14 @@
       "word": "上合峰会外方领导人全部抵达天津",
       "onboard_time": 1756648582,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 71336,
+      "num": 192925,
+      "word": "斯洛伐克总理说来华是为了表达敬意",
+      "onboard_time": 1756816761,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -7659,6 +7795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66748,
+      "num": 191739,
+      "word": "平均年龄98岁的抗战老兵讲述历史",
+      "onboard_time": 1756814722,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66622,
       "num": 389857,
       "word": "狗 这个家没我得散",
@@ -7737,6 +7881,14 @@
       "onboard_time": 1756726462,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 65601,
+      "num": 191725,
+      "word": "陈星旭还是演戏吧品美食我自有人选",
+      "onboard_time": 1756813461,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 65548,
@@ -7865,6 +8017,14 @@
       "onboard_time": 1756566144,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 62843,
+      "num": 191712,
+      "word": "文具行业巨头开始卖谷子了",
+      "onboard_time": 1756815261,
+      "rank": 46,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 62747,
@@ -8347,6 +8507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38928,
+      "num": 191680,
+      "word": "京多安加盟加拉塔萨雷",
+      "onboard_time": 1756817001,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38923,
       "num": 149118,
       "word": "华为新款三折叠品牌大使",
@@ -8535,14 +8703,6 @@
       "num": 94862,
       "word": "上海禁塑令违者最高罚10万",
       "onboard_time": 1756781840,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32007,
-      "num": 209339,
-      "word": "螃蟹低至10元一斤",
-      "onboard_time": 1756813041,
       "rank": 39,
       "category": "民生新闻"
     },
