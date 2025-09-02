@@ -1,6 +1,6 @@
 {
   "startTime": 1756744237306,
-  "endTime": 1756824292873,
+  "endTime": 1756826930267,
   "band_list": [
     {
       "raw_hot": 2916325,
@@ -155,6 +155,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 693975,
+      "num": 693975,
+      "word": "为什么选择在9月3日举行阅兵",
+      "onboard_time": 1756824864,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 691092,
       "num": 1104644,
       "word": "731把活人解剖浸在福尔马林做标本",
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524986,
+      "num": 153304,
+      "word": "吴磊李宛妲 剑来",
+      "onboard_time": 1756821861,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 516413,
       "num": 1082626,
       "word": "天安门广场年号台整体亮相",
@@ -267,11 +283,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 482057,
+      "num": 482057,
+      "word": "受阅部队将在全新BGM中霸气登场",
+      "onboard_time": 1756824143,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 475759,
       "num": 267059,
       "word": "俄媒称普京专车中国车牌有深意",
       "onboard_time": 1756797861,
       "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 465499,
+      "num": 465499,
+      "word": "不敢想象这70分钟有多燃",
+      "onboard_time": 1756822583,
+      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -283,12 +315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 447595,
-      "num": 148392,
-      "word": "吴磊李宛妲 剑来",
-      "onboard_time": 1756821861,
+      "raw_hot": 450588,
+      "num": 151051,
+      "word": "全红婵哥哥参加厨综遗憾落选",
+      "onboard_time": 1756824322,
       "rank": 22,
-      "category": "剧集"
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 438806,
@@ -491,11 +523,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 316157,
+      "num": 150246,
+      "word": "我国已划转万亿国资充实社保基金",
+      "onboard_time": 1756824742,
+      "rank": 23,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 314020,
       "num": 314020,
       "word": "九三上午纪念大会晚上文艺晚会",
       "onboard_time": 1756791442,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 309296,
+      "num": 309296,
+      "word": "天安门广场最新画面",
+      "onboard_time": 1756825643,
+      "rank": 7,
       "category": "国内时政"
     },
     {
@@ -523,6 +571,14 @@
       "category": "综艺,健康医疗"
     },
     {
+      "raw_hot": 301766,
+      "num": 264080,
+      "word": "国际乒联主席胜诉",
+      "onboard_time": 1756823783,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295125,
       "num": 211087,
       "word": "蔚来财报",
@@ -537,6 +593,14 @@
       "onboard_time": 1756741760,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 285852,
+      "num": 285852,
+      "word": "九三阅兵怎么看",
+      "onboard_time": 1756824923,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 284477,
@@ -664,14 +728,6 @@
       "word": "九三大阅兵倒计时1天",
       "onboard_time": 1756785622,
       "rank": 32,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 248444,
-      "num": 272147,
-      "word": "不敢想象这70分钟有多燃",
-      "onboard_time": 1756822583,
-      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -851,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194598,
+      "num": 194598,
+      "word": "巴基斯坦总理参观安贞医院",
+      "onboard_time": 1756825523,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 194408,
       "num": 265784,
       "word": "有厌食症的留子回国",
@@ -956,7 +1020,7 @@
     },
     {
       "raw_hot": 183515,
-      "num": 210316,
+      "num": 772213,
       "word": "抗战老兵提起战争经历时的眼神",
       "onboard_time": 1756796001,
       "rank": 13,
@@ -979,12 +1043,12 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 179323,
-      "num": 179323,
-      "word": "国际乒联主席胜诉",
-      "onboard_time": 1756823783,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 178934,
+      "num": 145269,
+      "word": "杭州西湖管理方太严谨了",
+      "onboard_time": 1756825103,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177106,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1756784961,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166222,
+      "num": 144841,
+      "word": "暑期档长剧有效播放TOP10",
+      "onboard_time": 1756825942,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 165630,
@@ -1203,6 +1275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154331,
+      "num": 154331,
+      "word": "洪秀柱说回台被批判无所谓",
+      "onboard_time": 1756825762,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154201,
       "num": 149610,
       "word": "人生最大的意义就是让自己快乐",
@@ -1329,6 +1409,14 @@
       "onboard_time": 1756777879,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144908,
+      "num": 144052,
+      "word": "这是阅兵进场最早撤场最晚的队伍",
+      "onboard_time": 1756825523,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144720,
@@ -1483,6 +1571,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 129787,
+      "num": 138320,
+      "word": "日本历史教科书竟这样教侵华战争",
+      "onboard_time": 1756825283,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129509,
       "num": 141104,
       "word": "贾一凡求石宇奇别再哭了",
@@ -1627,6 +1723,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 121413,
+      "num": 138146,
+      "word": "北京夜景",
+      "onboard_time": 1756826182,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121400,
       "num": 115782,
       "word": "好多明星去了万妮达演唱会",
@@ -1729,6 +1833,22 @@
       "onboard_time": 1756806922,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115077,
+      "num": 152185,
+      "word": "阅兵新装备集中亮相",
+      "onboard_time": 1756826603,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 115060,
+      "num": 138086,
+      "word": "五月天上海演唱会",
+      "onboard_time": 1756824501,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 112731,
@@ -1881,14 +2001,6 @@
       "onboard_time": 1756818622,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96356,
-      "num": 140797,
-      "word": "受阅部队将在全新BGM中霸气登场",
-      "onboard_time": 1756824143,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 96163,
@@ -2179,11 +2291,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81588,
+      "num": 137510,
+      "word": "胜利日大阅兵",
+      "onboard_time": 1756825643,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81428,
       "num": 156985,
       "word": "阅兵空中梯队怎么看",
       "onboard_time": 1756808600,
       "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 81067,
+      "num": 137444,
+      "word": "70秒视频教你认中国战机",
+      "onboard_time": 1756825164,
+      "rank": 47,
       "category": "国内时政"
     },
     {
@@ -2401,6 +2529,14 @@
       "onboard_time": 1756728381,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 67262,
+      "num": 137918,
+      "word": "黑河小学开学迎来大批俄罗斯学生",
+      "onboard_time": 1756826002,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66940,
@@ -2795,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30318,
+      "num": 153556,
+      "word": "为国牺牲烈士每10人只1人留下姓名",
+      "onboard_time": 1756825883,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30118,
       "num": 196880,
       "word": "郑合惠子演出了那种明媚的忧伤",
@@ -2825,6 +2969,14 @@
       "onboard_time": 1756746197,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21793,
+      "num": 137345,
+      "word": "拉门斯加盟曼联",
+      "onboard_time": 1756825043,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 21754,
