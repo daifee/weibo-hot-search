@@ -1,6 +1,6 @@
 {
   "startTime": 1756744237306,
-  "endTime": 1756808895992,
+  "endTime": 1756809826552,
   "band_list": [
     {
       "raw_hot": 1913036,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438889,
+      "num": 438889,
+      "word": "日本破防称抗战阅兵是仇恨教育",
+      "onboard_time": 1756806081,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 438806,
       "num": 267249,
       "word": "桑启 曹植",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 376684,
-      "num": 383943,
+      "num": 401321,
       "word": "四万万中国人共同的名字",
       "onboard_time": 1756780941,
       "rank": 5,
@@ -299,12 +307,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 375073,
-      "num": 375073,
-      "word": "日本破防称抗战阅兵是仇恨教育",
-      "onboard_time": 1756806081,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 369402,
+      "num": 369402,
+      "word": "阅兵剧透来了",
+      "onboard_time": 1756804822,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 359294,
@@ -387,6 +395,14 @@
       "category": "综艺,健康医疗"
     },
     {
+      "raw_hot": 293190,
+      "num": 200282,
+      "word": "雅漾喷雾成分是水",
+      "onboard_time": 1756807701,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 285977,
       "num": 117507,
       "word": "NHK播报勿忘南京大屠杀主播发声",
@@ -467,14 +483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 268194,
-      "num": 173681,
-      "word": "雅漾喷雾成分是水",
-      "onboard_time": 1756807701,
-      "rank": 11,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 265894,
       "num": 265894,
       "word": "金正恩时隔6年再访华",
@@ -489,6 +497,14 @@
       "onboard_time": 1756788083,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 252974,
+      "num": 252974,
+      "word": "普京离开人民大会堂",
+      "onboard_time": 1756808361,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 249242,
@@ -523,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237968,
+      "num": 199852,
+      "word": "子夜归大结局",
+      "onboard_time": 1756808841,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229922,
       "num": 229922,
       "word": "揭开731少年班罪恶真相",
@@ -536,14 +560,6 @@
       "word": "纪念抗战胜利80周年主题演讲",
       "onboard_time": 1756798160,
       "rank": 7,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 229543,
-      "num": 267019,
-      "word": "阅兵剧透来了",
-      "onboard_time": 1756804822,
-      "rank": 29,
       "category": "国内时政"
     },
     {
@@ -699,6 +715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 184519,
+      "num": 184519,
+      "word": "北京全市喷泉开启",
+      "onboard_time": 1756808182,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184493,
       "num": 127650,
       "word": "甚至怀疑过绿是字的颜色",
@@ -825,6 +849,14 @@
       "onboard_time": 1756787182,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164492,
+      "num": 113326,
+      "word": "蔚来二季度营收190.1亿元",
+      "onboard_time": 1756809501,
+      "rank": 30,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 164357,
@@ -1067,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138765,
+      "num": 156893,
+      "word": "斯洛伐克总理不理解欧盟各国不赴华",
+      "onboard_time": 1756808361,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138014,
       "num": 138014,
       "word": "香港上空这一幕令人震撼",
@@ -1299,6 +1339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117934,
+      "num": 117934,
+      "word": "九三阅兵超全观看指南",
+      "onboard_time": 1756809202,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 117195,
+      "num": 157335,
+      "word": "韩国现在流行的部队锅煮法",
+      "onboard_time": 1756807881,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 116924,
       "num": 132770,
       "word": "跑步机跑步和室外跑步的区别",
@@ -1337,14 +1393,6 @@
       "onboard_time": 1756806922,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 114817,
-      "num": 157335,
-      "word": "韩国现在流行的部队锅煮法",
-      "onboard_time": 1756807881,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 112731,
@@ -1411,6 +1459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99574,
+      "num": 113298,
+      "word": "潘玮柏吃法餐也嫌弃分量少",
+      "onboard_time": 1756809141,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98864,
       "num": 117485,
       "word": "当你报考到很偏僻的学校",
@@ -1451,14 +1507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95420,
-      "num": 157398,
-      "word": "普京离开人民大会堂",
-      "onboard_time": 1756808361,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 95359,
       "num": 157268,
       "word": "柯洁回应为何读清华",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1756778601,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89945,
+      "num": 113269,
+      "word": "蔚来财报",
+      "onboard_time": 1756809620,
+      "rank": 33,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 89496,
@@ -1529,6 +1585,14 @@
       "onboard_time": 1756794741,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87429,
+      "num": 156930,
+      "word": "iPhone17透明壳价格",
+      "onboard_time": 1756806741,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 87409,
@@ -1635,14 +1699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 81107,
-      "num": 156930,
-      "word": "iPhone17透明壳价格",
-      "onboard_time": 1756806741,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 81060,
       "num": 119790,
       "word": "浓厚氛围迎抗战胜利80周年",
@@ -1681,22 +1737,6 @@
       "onboard_time": 1756805002,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 77866,
-      "num": 163300,
-      "word": "北京全市喷泉开启",
-      "onboard_time": 1756808182,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77713,
-      "num": 156805,
-      "word": "子夜归大结局",
-      "onboard_time": 1756808841,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 77328,
@@ -1827,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66718,
+      "num": 113039,
+      "word": "不运动变瘦的7个习惯",
+      "onboard_time": 1756809741,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 66469,
       "num": 117337,
       "word": "iPhone17系列预售调查",
@@ -1843,12 +1891,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64936,
+      "num": 156394,
+      "word": "陈雨菲伤情诊断公布",
+      "onboard_time": 1756808061,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63811,
       "num": 115511,
       "word": "人去世了微信朋友圈会消失吗",
       "onboard_time": 1756716624,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63007,
+      "num": 113002,
+      "word": "逃避历史的日本会教出怎样下一代",
+      "onboard_time": 1756809021,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62747,
@@ -1891,6 +1955,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57528,
+      "num": 113153,
+      "word": "解放军越南阅兵外国方队打头阵",
+      "onboard_time": 1756809620,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56713,
+      "num": 112967,
+      "word": "国际乒联启动章程改革",
+      "onboard_time": 1756809260,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56150,
       "num": 60714,
       "word": "苹果强制供应商转型自动化",
@@ -1913,14 +1993,6 @@
       "onboard_time": 1756737382,
       "rank": 20,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 55083,
-      "num": 156394,
-      "word": "陈雨菲伤情诊断公布",
-      "onboard_time": 1756808061,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 52089,
@@ -1977,14 +2049,6 @@
       "onboard_time": 1756742360,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45777,
-      "num": 156893,
-      "word": "斯洛伐克总理不理解欧盟各国不赴华",
-      "onboard_time": 1756808361,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 44439,

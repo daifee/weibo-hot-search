@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756808895992,
+  "endTime": 1756809826552,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -803,6 +803,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 438889,
+      "num": 438889,
+      "word": "日本破防称抗战阅兵是仇恨教育",
+      "onboard_time": 1756806081,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 438806,
       "num": 267249,
       "word": "桑启 曹植",
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 376684,
-      "num": 383943,
+      "num": 401321,
       "word": "四万万中国人共同的名字",
       "onboard_time": 1756780941,
       "rank": 5,
@@ -1043,12 +1051,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 375073,
-      "num": 375073,
-      "word": "日本破防称抗战阅兵是仇恨教育",
-      "onboard_time": 1756806081,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 369402,
+      "num": 369402,
+      "word": "阅兵剧透来了",
+      "onboard_time": 1756804822,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 368896,
@@ -1499,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293190,
+      "num": 200282,
+      "word": "雅漾喷雾成分是水",
+      "onboard_time": 1756807701,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 292706,
       "num": 292706,
       "word": "中方敦促美方立即纠正错误做法",
@@ -1715,14 +1731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 268194,
-      "num": 173681,
-      "word": "雅漾喷雾成分是水",
-      "onboard_time": 1756807701,
-      "rank": 11,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 267351,
       "num": 239169,
       "word": "谁给蓝盈莹浇成这样的",
@@ -1827,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252974,
+      "num": 252974,
+      "word": "普京离开人民大会堂",
+      "onboard_time": 1756808361,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 251310,
       "num": 177330,
       "word": "梓渝泥潭入围亚洲流行音乐大奖",
@@ -1915,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237968,
+      "num": 199852,
+      "word": "子夜归大结局",
+      "onboard_time": 1756808841,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236401,
       "num": 236401,
       "word": "小孩儿姐暑假作业只有体育做完了",
@@ -1960,14 +1984,6 @@
       "word": "纪念抗战胜利80周年主题演讲",
       "onboard_time": 1756798160,
       "rank": 7,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 229543,
-      "num": 267019,
-      "word": "阅兵剧透来了",
-      "onboard_time": 1756804822,
-      "rank": 29,
       "category": "国内时政"
     },
     {
@@ -2731,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184519,
+      "num": 184519,
+      "word": "北京全市喷泉开启",
+      "onboard_time": 1756808182,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184493,
       "num": 127650,
       "word": "甚至怀疑过绿是字的颜色",
@@ -3121,6 +3145,14 @@
       "onboard_time": 1756690398,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164492,
+      "num": 113326,
+      "word": "蔚来二季度营收190.1亿元",
+      "onboard_time": 1756809501,
+      "rank": 30,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 164366,
@@ -3889,6 +3921,14 @@
       "onboard_time": 1756611381,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138765,
+      "num": 156893,
+      "word": "斯洛伐克总理不理解欧盟各国不赴华",
+      "onboard_time": 1756808361,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138326,
@@ -4691,6 +4731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117934,
+      "num": 117934,
+      "word": "九三阅兵超全观看指南",
+      "onboard_time": 1756809202,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117909,
       "num": 199831,
       "word": "金饰克价涨到1027元",
@@ -4721,6 +4769,14 @@
       "onboard_time": 1756613541,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117195,
+      "num": 157335,
+      "word": "韩国现在流行的部队锅煮法",
+      "onboard_time": 1756807881,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 116924,
@@ -4881,14 +4937,6 @@
       "onboard_time": 1756616482,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114817,
-      "num": 157335,
-      "word": "韩国现在流行的部队锅煮法",
-      "onboard_time": 1756807881,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 114718,
@@ -5627,6 +5675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99574,
+      "num": 113298,
+      "word": "潘玮柏吃法餐也嫌弃分量少",
+      "onboard_time": 1756809141,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99543,
       "num": 155955,
       "word": "iQOO杯已经nextlevel了",
@@ -5817,14 +5873,6 @@
       "onboard_time": 1756620561,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 95420,
-      "num": 157398,
-      "word": "普京离开人民大会堂",
-      "onboard_time": 1756808361,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 95359,
@@ -6051,6 +6099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89945,
+      "num": 113269,
+      "word": "蔚来财报",
+      "onboard_time": 1756809620,
+      "rank": 33,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 89913,
       "num": 89913,
       "word": "明日方舟新干员若叶睦",
@@ -6257,6 +6313,14 @@
       "onboard_time": 1756612581,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87429,
+      "num": 156930,
+      "word": "iPhone17透明壳价格",
+      "onboard_time": 1756806741,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 87409,
@@ -6683,14 +6747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 81107,
-      "num": 156930,
-      "word": "iPhone17透明壳价格",
-      "onboard_time": 1756806741,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 81060,
       "num": 207336,
       "word": "浓厚氛围迎抗战胜利80周年",
@@ -6867,28 +6923,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77866,
-      "num": 163300,
-      "word": "北京全市喷泉开启",
-      "onboard_time": 1756808182,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77726,
       "num": 173426,
       "word": "小孩姐一句话保住姥姥全部养老钱",
       "onboard_time": 1756723581,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77713,
-      "num": 156805,
-      "word": "子夜归大结局",
-      "onboard_time": 1756808841,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 77401,
@@ -7451,6 +7491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66718,
+      "num": 113039,
+      "word": "不运动变瘦的7个习惯",
+      "onboard_time": 1756809741,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 66622,
       "num": 389857,
       "word": "狗 这个家没我得散",
@@ -7571,6 +7619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 64936,
+      "num": 156394,
+      "word": "陈雨菲伤情诊断公布",
+      "onboard_time": 1756808061,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64935,
       "num": 227752,
       "word": "有一种精神叫不屈",
@@ -7649,6 +7705,14 @@
       "onboard_time": 1756566144,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63007,
+      "num": 113002,
+      "word": "逃避历史的日本会教出怎样下一代",
+      "onboard_time": 1756809021,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62747,
@@ -7803,10 +7867,26 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57528,
+      "num": 113153,
+      "word": "解放军越南阅兵外国方队打头阵",
+      "onboard_time": 1756809620,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57405,
       "num": 205479,
       "word": "曼联将签下拉门斯",
       "onboard_time": 1756735882,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56713,
+      "num": 112967,
+      "word": "国际乒联启动章程改革",
+      "onboard_time": 1756809260,
       "rank": 49,
       "category": "体育"
     },
@@ -7857,14 +7937,6 @@
       "onboard_time": 1756726581,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55083,
-      "num": 156394,
-      "word": "陈雨菲伤情诊断公布",
-      "onboard_time": 1756808061,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 54636,
@@ -8001,14 +8073,6 @@
       "onboard_time": 1756742360,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45777,
-      "num": 156893,
-      "word": "斯洛伐克总理不理解欧盟各国不赴华",
-      "onboard_time": 1756808361,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45498,
