@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756798798193,
+  "endTime": 1756802072892,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -33,6 +33,14 @@
       "onboard_time": 1756729822,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1913036,
+      "num": 141511,
+      "word": "金正恩抵达北京",
+      "onboard_time": 1756799241,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1843593,
@@ -241,6 +249,14 @@
       "onboard_time": 1756619481,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 855727,
+      "num": 1136916,
+      "word": "中国对俄罗斯试行免签",
+      "onboard_time": 1756798640,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 834306,
@@ -795,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423327,
+      "num": 199663,
+      "word": "骆驼疯子",
+      "onboard_time": 1756795640,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 420711,
       "num": 200748,
       "word": "现在喝奶茶也要配货了",
@@ -963,6 +987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 369978,
+      "num": 197152,
+      "word": "俄媒称普京专车中国车牌有深意",
+      "onboard_time": 1756797861,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 368896,
       "num": 368896,
       "word": "王曼昱逗笑孙颖莎",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1756785202,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357762,
+      "num": 181193,
+      "word": "桑启 曹植",
+      "onboard_time": 1756799421,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 354668,
@@ -1273,14 +1313,6 @@
       "onboard_time": 1756615402,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 321046,
-      "num": 197152,
-      "word": "俄媒称普京专车中国车牌有深意",
-      "onboard_time": 1756797861,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 318216,
@@ -1755,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245755,
-      "num": 199663,
-      "word": "骆驼疯子",
-      "onboard_time": 1756795640,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 244368,
       "num": 227645,
       "word": "台湾信息茧房",
@@ -1795,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240971,
+      "num": 153673,
+      "word": "宋亚轩 敬山水",
+      "onboard_time": 1756799482,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238731,
       "num": 197110,
       "word": "男孩赶14小时作业双手痉挛成鸡爪状",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1756613240,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230896,
+      "num": 196921,
+      "word": "女子不慎被反锁冷库被外卖员救出",
+      "onboard_time": 1756797380,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230621,
@@ -1993,6 +2033,14 @@
       "onboard_time": 1756612881,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212611,
+      "num": 212611,
+      "word": "纪念抗战胜利80周年主题演讲",
+      "onboard_time": 1756798160,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 211975,
@@ -2499,14 +2547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187800,
-      "num": 187800,
-      "word": "纪念抗战胜利80周年主题演讲",
-      "onboard_time": 1756798160,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 187333,
       "num": 187333,
       "word": "张康乐生日直播解放天性了",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1756784421,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177098,
+      "num": 153391,
+      "word": "爷爷看王源演唱会发朋友圈",
+      "onboard_time": 1756799061,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 176899,
@@ -3267,6 +3315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153368,
+      "num": 153368,
+      "word": "李一桐唯一会的歌被田曦薇抢了",
+      "onboard_time": 1756800680,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152876,
       "num": 152876,
       "word": "我家那闺女",
@@ -3289,6 +3345,14 @@
       "onboard_time": 1756614800,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152072,
+      "num": 152072,
+      "word": "有厌食症的留子回国",
+      "onboard_time": 1756797981,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 151954,
@@ -3369,6 +3433,14 @@
       "onboard_time": 1756724000,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150065,
+      "num": 150065,
+      "word": "捕风追影有赵雅芝老公儿子",
+      "onboard_time": 1756800622,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 149966,
@@ -4411,6 +4483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118740,
+      "num": 141638,
+      "word": "谢娜为一家人操碎了心",
+      "onboard_time": 1756801522,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118688,
       "num": 147620,
       "word": "那英小发雷霆",
@@ -4947,6 +5027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108255,
+      "num": 141602,
+      "word": "桑启青衿临川皮肤",
+      "onboard_time": 1756801222,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107988,
       "num": 107988,
       "word": "蒋振邦魏雅欣0比2陈堂杰杜颐沩",
@@ -5187,14 +5275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102218,
-      "num": 102218,
-      "word": "有厌食症的留子回国",
-      "onboard_time": 1756797981,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 101967,
       "num": 172336,
       "word": "这位总统说最宝贵优势就是与中国为邻",
@@ -5313,14 +5393,6 @@
       "onboard_time": 1756639761,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 99836,
-      "num": 196921,
-      "word": "女子不慎被反锁冷库被外卖员救出",
-      "onboard_time": 1756797380,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99668,
@@ -5537,6 +5609,14 @@
       "onboard_time": 1756612043,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95582,
+      "num": 141553,
+      "word": "AI岗月薪下限均值已达4.7万元",
+      "onboard_time": 1756801222,
+      "rank": 36,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 95429,
@@ -5811,6 +5891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89496,
+      "num": 141424,
+      "word": "生万物庆功宴大合照",
+      "onboard_time": 1756800800,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89099,
       "num": 171970,
       "word": "谁家男女主第八集再也没见过",
@@ -5963,6 +6051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87409,
+      "num": 141398,
+      "word": "爽肤水的使用误区有哪些",
+      "onboard_time": 1756801522,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 87374,
       "num": 117479,
       "word": "果然猫在上厕所的时候最脆弱",
@@ -6001,6 +6097,14 @@
       "onboard_time": 1756564763,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87080,
+      "num": 141384,
+      "word": "微信内测版撤回聊天发live图",
+      "onboard_time": 1756798581,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 86998,
@@ -6217,14 +6321,6 @@
       "onboard_time": 1756730540,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83739,
-      "num": 122605,
-      "word": "中国对俄罗斯试行免签",
-      "onboard_time": 1756798640,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83728,
@@ -6915,6 +7011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 69551,
+      "num": 172832,
+      "word": "5098个日夜14年浴血奋战",
+      "onboard_time": 1756798881,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69483,
       "num": 117345,
       "word": "打工的前7个月就存到了3万",
@@ -6968,6 +7072,14 @@
       "word": "九三阅兵编设45个方梯队有何区别",
       "onboard_time": 1756719621,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 68892,
+      "num": 141580,
+      "word": "112位老兵获抗战胜利80周年纪念章",
+      "onboard_time": 1756802061,
+      "rank": 34,
       "category": "国内时政"
     },
     {
@@ -7329,6 +7441,14 @@
       "onboard_time": 1756769597,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61576,
+      "num": 141494,
+      "word": "美国男童按门铃玩遭枪杀",
+      "onboard_time": 1756801701,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60369,
