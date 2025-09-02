@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756823171360,
+  "endTime": 1756824292873,
   "band_list": [
     {
       "raw_hot": 2916325,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485981,
+      "num": 485981,
+      "word": "中国最帅天团亮相越南国庆阅兵",
+      "onboard_time": 1756821142,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 485473,
       "num": 372791,
       "word": "莫迪搭普京专车",
@@ -553,6 +561,14 @@
       "onboard_time": 1756708879,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 447595,
+      "num": 148392,
+      "word": "吴磊李宛妲 剑来",
+      "onboard_time": 1756821861,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 447503,
@@ -777,14 +793,6 @@
       "onboard_time": 1756787722,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 375028,
-      "num": 375028,
-      "word": "中国最帅天团亮相越南国庆阅兵",
-      "onboard_time": 1756821142,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 370390,
@@ -1107,14 +1115,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 274074,
-      "num": 148392,
-      "word": "吴磊李宛妲 剑来",
-      "onboard_time": 1756821861,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274048,
       "num": 247969,
       "word": "普京发言人称赞中国菜肴",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1756723160,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248444,
+      "num": 272147,
+      "word": "不敢想象这70分钟有多燃",
+      "onboard_time": 1756822583,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 246946,
@@ -1563,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199738,
+      "num": 146158,
+      "word": "iPhone17ProMax量产机疑曝光",
+      "onboard_time": 1756821262,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199630,
       "num": 199630,
       "word": "心动的信号",
@@ -1779,14 +1795,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 186503,
-      "num": 146158,
-      "word": "iPhone17ProMax量产机疑曝光",
-      "onboard_time": 1756821262,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 185877,
       "num": 185877,
       "word": "巴基斯坦总理在华表态",
@@ -1857,6 +1865,14 @@
       "onboard_time": 1756700963,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179323,
+      "num": 179323,
+      "word": "国际乒联主席胜诉",
+      "onboard_time": 1756823783,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 177106,
@@ -2515,6 +2531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141349,
+      "num": 141349,
+      "word": "中国军人360度无死角的帅",
+      "onboard_time": 1756823843,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141096,
       "num": 330668,
       "word": "黄晓明说丁禹兮不来他下季不参加了",
@@ -2764,7 +2788,7 @@
     },
     {
       "raw_hot": 130214,
-      "num": 134552,
+      "num": 140505,
       "word": "中国科学家首次发现冰弯曲可发电",
       "onboard_time": 1756819763,
       "rank": 29,
@@ -2777,6 +2801,14 @@
       "onboard_time": 1756716501,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129509,
+      "num": 141104,
+      "word": "贾一凡求石宇奇别再哭了",
+      "onboard_time": 1756823125,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 129332,
@@ -2953,14 +2985,6 @@
       "onboard_time": 1756803982,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 124084,
-      "num": 272147,
-      "word": "不敢想象这70分钟有多燃",
-      "onboard_time": 1756822583,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 123282,
@@ -3267,6 +3291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111994,
+      "num": 140955,
+      "word": "河南小伙将在天安门广场升起国旗",
+      "onboard_time": 1756822642,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111866,
       "num": 173472,
       "word": "美国两架飞机降落时空中相撞",
@@ -3507,16 +3539,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101689,
-      "num": 127955,
-      "word": "河南小伙将在天安门广场升起国旗",
-      "onboard_time": 1756822642,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 101523,
-      "num": 127869,
+      "num": 140464,
       "word": "阅兵现场可容纳超5万人观礼",
       "onboard_time": 1756821082,
       "rank": 38,
@@ -3529,6 +3553,14 @@
       "onboard_time": 1756731683,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101064,
+      "num": 140899,
+      "word": "装备方队空中梯队有新创进行曲了",
+      "onboard_time": 1756823905,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100978,
@@ -3699,6 +3731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96356,
+      "num": 140797,
+      "word": "受阅部队将在全新BGM中霸气登场",
+      "onboard_time": 1756824143,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96266,
       "num": 185716,
       "word": "我家的抗战记忆",
@@ -3817,6 +3857,14 @@
       "onboard_time": 1756690580,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92793,
+      "num": 141144,
+      "word": "170个直播机位震撼看阅兵",
+      "onboard_time": 1756824143,
+      "rank": 28,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 92649,
@@ -4057,6 +4105,14 @@
       "onboard_time": 1756807160,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86736,
+      "num": 140662,
+      "word": "4AM战队9淘汰吃鸡",
+      "onboard_time": 1756824264,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 86630,
@@ -4689,14 +4745,6 @@
       "onboard_time": 1756651763,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 70314,
-      "num": 126936,
-      "word": "贾一凡求石宇奇别再哭了",
-      "onboard_time": 1756823125,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 70202,
@@ -5812,6 +5860,9 @@
     },
     {
       "word": "#中英日三语种主题片胜利#"
+    },
+    {
+      "word": "#习近平讲述的伟大抗战精神#"
     }
   ]
 }
