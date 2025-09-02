@@ -1,0 +1,410 @@
+{
+  "runTime": 1756818378180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 868398,
+        "num": 1138943,
+        "word": "九三阅兵超全观看指南",
+        "onboard_time": 1756809202,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 716320,
+        "num": 716320,
+        "word": "新闻联播",
+        "onboard_time": 1756816462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54497,
+        "num": 615164,
+        "word": "四万万中国人共同的名字",
+        "onboard_time": 1756780941,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 565557,
+        "num": 565557,
+        "word": "她是新中国第一位女将军",
+        "onboard_time": 1756811302,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209760,
+        "num": 209760,
+        "word": "九三盛大阅兵明天见",
+        "onboard_time": 1756807102,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204282,
+        "num": 204282,
+        "word": "中国对俄罗斯试行免签",
+        "onboard_time": 1756798640,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170313,
+        "num": 203747,
+        "word": "阅兵剧透来了",
+        "onboard_time": 1756804822,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136616,
+        "num": 200100,
+        "word": "微博上线九三纪念专属昵称icon",
+        "onboard_time": 1756807822,
+        "rank": 7,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 116459,
+        "num": 199611,
+        "word": "日籍八路军之子参加抗战纪念活动",
+        "onboard_time": 1756802239,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112644,
+        "num": 196633,
+        "word": "斯洛伐克总理说来华是为了表达敬意",
+        "onboard_time": 1756816761,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 479147,
+        "num": 194474,
+        "word": "幼儿园即将迎来一颗魔丸",
+        "onboard_time": 1756811001,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335702,
+        "num": 191682,
+        "word": "子夜归大结局",
+        "onboard_time": 1756808841,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264297,
+        "num": 190528,
+        "word": "iG选择EDG",
+        "onboard_time": 1756816341,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 254470,
+        "num": 187557,
+        "word": "日本破防称抗战阅兵是仇恨教育",
+        "onboard_time": 1756806081,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240953,
+        "num": 185740,
+        "word": "国民党主席称不禁止个人去九三阅兵",
+        "onboard_time": 1756814422,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185169,
+        "num": 185169,
+        "word": "梅逐雨成了猫公",
+        "onboard_time": 1756816761,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156579,
+        "num": 184872,
+        "word": "雅漾喷雾成分是水",
+        "onboard_time": 1756807701,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 127544,
+        "num": 184361,
+        "word": "子夜归番外",
+        "onboard_time": 1756817543,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100586,
+        "num": 183888,
+        "word": "普京离开人民大会堂",
+        "onboard_time": 1756808361,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126504,
+        "num": 183531,
+        "word": "解放军越南阅兵外国方队打头阵",
+        "onboard_time": 1756809620,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261402,
+        "num": 182648,
+        "word": "请假看阅兵",
+        "onboard_time": 1756803082,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214337,
+        "num": 182064,
+        "word": "岳云鹏因灶台脏淘汰588元扬州炒饭",
+        "onboard_time": 1756802601,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192216,
+        "num": 181853,
+        "word": "武祯怀孕了",
+        "onboard_time": 1756817122,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78271,
+        "num": 181522,
+        "word": "微博上线九三纪念专属点赞特效",
+        "onboard_time": 1756816702,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181023,
+        "num": 181023,
+        "word": "睡眠不足和睡眠充足有什么区别",
+        "onboard_time": 1756815802,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172537,
+        "num": 172537,
+        "word": "柯洁珍惜自己的棱角",
+        "onboard_time": 1756817842,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170546,
+        "num": 170546,
+        "word": "他花我的社保我没意见",
+        "onboard_time": 1756812322,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127286,
+        "num": 170536,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1756799482,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125557,
+        "num": 170524,
+        "word": "不运动变瘦的7个习惯",
+        "onboard_time": 1756809741,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 116052,
+        "num": 170514,
+        "word": "明天你们在哪看阅兵",
+        "onboard_time": 1756814481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112345,
+        "num": 170504,
+        "word": "跑马女护士签约MCN创始人发声",
+        "onboard_time": 1756818143,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108984,
+        "num": 170497,
+        "word": "金正恩时隔6年再访华",
+        "onboard_time": 1756799241,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105402,
+        "num": 170484,
+        "word": "BLG选择JDG",
+        "onboard_time": 1756816583,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98717,
+        "num": 170467,
+        "word": "蔚来财报",
+        "onboard_time": 1756809620,
+        "rank": 33,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 92655,
+        "num": 170456,
+        "word": "螃蟹低至10元一斤",
+        "onboard_time": 1756813041,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89096,
+        "num": 170441,
+        "word": "随餐喝水和不喝水的区别",
+        "onboard_time": 1756802902,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81964,
+        "num": 170433,
+        "word": "LPL季后赛对阵",
+        "onboard_time": 1756816281,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81045,
+        "num": 170418,
+        "word": "长安街花坛",
+        "onboard_time": 1756814060,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80196,
+        "num": 170410,
+        "word": "斯洛伐克总理不理解欧盟各国不赴华",
+        "onboard_time": 1756808361,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78740,
+        "num": 170400,
+        "word": "詹姆斯启程上海",
+        "onboard_time": 1756815441,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77493,
+        "num": 170394,
+        "word": "三得利董事长闪辞",
+        "onboard_time": 1756813702,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76863,
+        "num": 170373,
+        "word": "北京全市喷泉开启",
+        "onboard_time": 1756808182,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74758,
+        "num": 170365,
+        "word": "战至巅峰",
+        "onboard_time": 1756811421,
+        "rank": 42,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 74690,
+        "num": 170353,
+        "word": "张晚意不富裕但慷慨",
+        "onboard_time": 1756802961,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73840,
+        "num": 170344,
+        "word": "平均年龄98岁的抗战老兵讲述历史",
+        "onboard_time": 1756814722,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66863,
+        "num": 170332,
+        "word": "TES选择NIP",
+        "onboard_time": 1756816401,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61394,
+        "num": 170315,
+        "word": "文具行业巨头开始卖谷子了",
+        "onboard_time": 1756815261,
+        "rank": 46,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 60701,
+        "num": 170305,
+        "word": "大爆剧生万物",
+        "onboard_time": 1756812201,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29974,
+        "num": 170300,
+        "word": "陈雨菲伤情诊断公布",
+        "onboard_time": 1756808061,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29477,
+        "num": 170289,
+        "word": "宇树科技宣布将在四季度提交IPO申请",
+        "onboard_time": 1756805721,
+        "rank": 49,
+        "category": "财经,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行会谈#"
+    }
+  }
+}

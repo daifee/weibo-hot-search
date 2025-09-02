@@ -1,6 +1,6 @@
 {
   "startTime": 1756744237306,
-  "endTime": 1756817530029,
+  "endTime": 1756818378180,
   "band_list": [
     {
       "raw_hot": 1913036,
@@ -121,6 +121,14 @@
       "onboard_time": 1756811302,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 716320,
+      "num": 716320,
+      "word": "新闻联播",
+      "onboard_time": 1756816462,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 706272,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 376684,
-      "num": 547766,
+      "num": 615164,
       "word": "四万万中国人共同的名字",
       "onboard_time": 1756780941,
       "rank": 5,
@@ -499,14 +507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 276267,
-      "num": 276267,
-      "word": "新闻联播",
-      "onboard_time": 1756816462,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275923,
       "num": 275923,
       "word": "李幼斌和李云龙跨时空对话",
@@ -563,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 264297,
+      "num": 193356,
+      "word": "iG选择EDG",
+      "onboard_time": 1756816341,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 256624,
       "num": 265739,
       "word": "中国的安全感让外国记者震惊了",
@@ -577,14 +585,6 @@
       "onboard_time": 1756785622,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 245961,
-      "num": 193356,
-      "word": "iG选择EDG",
-      "onboard_time": 1756816341,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 243513,
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209760,
+      "num": 209760,
+      "word": "九三盛大阅兵明天见",
+      "onboard_time": 1756807102,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 205426,
       "num": 192592,
       "word": "睡眠不足和睡眠充足有什么区别",
@@ -747,14 +755,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 194258,
-      "num": 208942,
-      "word": "九三盛大阅兵明天见",
-      "onboard_time": 1756807102,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 192840,
       "num": 192840,
       "word": "孟子义李昀锐尚公主开机宴路透",
@@ -769,6 +769,14 @@
       "onboard_time": 1756786941,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 192216,
+      "num": 191892,
+      "word": "武祯怀孕了",
+      "onboard_time": 1756817122,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 191896,
@@ -817,6 +825,14 @@
       "onboard_time": 1756723820,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 185169,
+      "num": 192845,
+      "word": "梅逐雨成了猫公",
+      "onboard_time": 1756816761,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 184493,
@@ -907,6 +923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 172537,
+      "num": 172537,
+      "word": "柯洁珍惜自己的棱角",
+      "onboard_time": 1756817842,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172478,
       "num": 172478,
       "word": "尹锡悦拒捕监控曝光",
@@ -923,6 +947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170546,
+      "num": 209883,
+      "word": "他花我的社保我没意见",
+      "onboard_time": 1756812322,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170163,
       "num": 266140,
       "word": "宇树科技宣布将在四季度提交IPO申请",
@@ -936,14 +968,6 @@
       "word": "一家十口送儿子上大学哭成泪人",
       "onboard_time": 1756784961,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166346,
-      "num": 209883,
-      "word": "他花我的社保我没意见",
-      "onboard_time": 1756812322,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1243,14 +1267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138475,
-      "num": 192845,
-      "word": "梅逐雨成了猫公",
-      "onboard_time": 1756816761,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138014,
       "num": 138014,
       "word": "香港上空这一幕令人震撼",
@@ -1379,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127544,
+      "num": 184361,
+      "word": "子夜归番外",
+      "onboard_time": 1756817543,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126438,
       "num": 196836,
       "word": "坐高铁因为好奇选了静音车厢",
@@ -1499,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118381,
-      "num": 191892,
-      "word": "武祯怀孕了",
-      "onboard_time": 1756817122,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117347,
       "num": 210077,
       "word": "以为是仙侠剧其实是穿越剧",
@@ -1555,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116052,
+      "num": 191815,
+      "word": "明天你们在哪看阅兵",
+      "onboard_time": 1756814481,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115576,
       "num": 117361,
       "word": "蜜雪冰城上半年净赚27亿",
@@ -1577,6 +1601,22 @@
       "onboard_time": 1756797801,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112644,
+      "num": 196633,
+      "word": "斯洛伐克总理说来华是为了表达敬意",
+      "onboard_time": 1756816761,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 112345,
+      "num": 170504,
+      "word": "跑马女护士签约MCN创始人发声",
+      "onboard_time": 1756818143,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111198,
@@ -1723,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92655,
+      "num": 209339,
+      "word": "螃蟹低至10元一斤",
+      "onboard_time": 1756813041,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92419,
       "num": 92419,
       "word": "这个故事中国人信了几千年",
@@ -1761,14 +1809,6 @@
       "onboard_time": 1756800800,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88840,
-      "num": 191815,
-      "word": "明天你们在哪看阅兵",
-      "onboard_time": 1756814481,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88582,
@@ -1857,14 +1897,6 @@
       "onboard_time": 1756802301,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84537,
-      "num": 209339,
-      "word": "螃蟹低至10元一斤",
-      "onboard_time": 1756813041,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84270,
@@ -2075,6 +2107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73840,
+      "num": 191739,
+      "word": "平均年龄98岁的抗战老兵讲述历史",
+      "onboard_time": 1756814722,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 73619,
       "num": 208903,
       "word": "8月A股新开户数265万户",
@@ -2097,14 +2137,6 @@
       "onboard_time": 1756780999,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 71336,
-      "num": 192925,
-      "word": "斯洛伐克总理说来华是为了表达敬意",
-      "onboard_time": 1756816761,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 70506,
@@ -2169,14 +2201,6 @@
       "onboard_time": 1756793060,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66748,
-      "num": 191739,
-      "word": "平均年龄98岁的抗战老兵讲述历史",
-      "onboard_time": 1756814722,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 66469,
