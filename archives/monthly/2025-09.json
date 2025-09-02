@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756797947347,
+  "endTime": 1756798798193,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597362,
+      "num": 597362,
+      "word": "8万只气球有6个颜色",
+      "onboard_time": 1756795521,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 586846,
       "num": 1093895,
       "word": "一等功臣爷爷送孙子国防科大报到",
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 542645,
+      "num": 211743,
+      "word": "生万物庆功宴",
+      "onboard_time": 1756797261,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536861,
       "num": 332737,
       "word": "田曦薇人生镜头",
@@ -305,14 +321,6 @@
       "onboard_time": 1756740801,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 520480,
-      "num": 520480,
-      "word": "8万只气球有6个颜色",
-      "onboard_time": 1756795521,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 520112,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 484005,
-      "num": 336616,
+      "num": 354375,
       "word": "普京抵达人民大会堂画面",
       "onboard_time": 1756789882,
       "rank": 3,
@@ -713,6 +721,14 @@
       "onboard_time": 1756692440,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 321046,
+      "num": 197152,
+      "word": "俄媒称普京专车中国车牌有深意",
+      "onboard_time": 1756797861,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 315214,
@@ -1139,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211743,
-      "num": 211743,
-      "word": "生万物庆功宴",
-      "onboard_time": 1756797261,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210443,
       "num": 210443,
       "word": "消费贷的国补要来了",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1756782319,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 202653,
+      "num": 231115,
+      "word": "天安门广场放飞气球可完全降解",
+      "onboard_time": 1756787722,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201292,
@@ -1379,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187800,
+      "num": 187800,
+      "word": "纪念抗战胜利80周年主题演讲",
+      "onboard_time": 1756798160,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187244,
       "num": 105896,
       "word": "九月",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1756790661,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183515,
+      "num": 210316,
+      "word": "抗战老兵提起战争经历时的眼神",
+      "onboard_time": 1756796001,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181700,
@@ -1569,14 +1601,6 @@
       "onboard_time": 1756654943,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 168919,
-      "num": 210316,
-      "word": "抗战老兵提起战争经历时的眼神",
-      "onboard_time": 1756796001,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 168659,
@@ -1825,14 +1849,6 @@
       "onboard_time": 1756783222,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154669,
-      "num": 231115,
-      "word": "天安门广场放飞气球可完全降解",
-      "onboard_time": 1756787722,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154201,
@@ -2275,14 +2291,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 129210,
-      "num": 197152,
-      "word": "俄媒称普京专车中国车牌有深意",
-      "onboard_time": 1756797861,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 128936,
       "num": 128936,
       "word": "沈腾串台了",
@@ -2313,6 +2321,14 @@
       "onboard_time": 1756783760,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128479,
+      "num": 196852,
+      "word": "当我把朋友圈定位换成座位号",
+      "onboard_time": 1756796421,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 128367,
@@ -2435,11 +2451,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123029,
+      "num": 196989,
+      "word": "马斯克投的飞行汽车在机场试运营",
+      "onboard_time": 1756794981,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122507,
       "num": 200220,
       "word": "AI让英烈看到今日中国",
       "onboard_time": 1756714462,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 122261,
+      "num": 122261,
+      "word": "8万羽和平鸽来自北京10个区鸽友",
+      "onboard_time": 1756798221,
+      "rank": 33,
       "category": "国内时政"
     },
     {
@@ -2643,14 +2675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 109495,
-      "num": 196989,
-      "word": "马斯克投的飞行汽车在机场试运营",
-      "onboard_time": 1756794981,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 109475,
       "num": 184719,
       "word": "林允儿新剧收视创新高",
@@ -2803,14 +2827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103628,
-      "num": 196852,
-      "word": "当我把朋友圈定位换成座位号",
-      "onboard_time": 1756796421,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 102989,
       "num": 203988,
       "word": "华晨宇苏州连开三天的上座率",
@@ -2825,6 +2841,14 @@
       "onboard_time": 1756698801,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102218,
+      "num": 102218,
+      "word": "有厌食症的留子回国",
+      "onboard_time": 1756797981,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 101785,
@@ -2897,6 +2921,14 @@
       "onboard_time": 1756770019,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99836,
+      "num": 196921,
+      "word": "女子不慎被反锁冷库被外卖员救出",
+      "onboard_time": 1756797380,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99641,
@@ -3369,6 +3401,14 @@
       "onboard_time": 1756730540,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83739,
+      "num": 122605,
+      "word": "中国对俄罗斯试行免签",
+      "onboard_time": 1756798640,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83728,
@@ -4187,14 +4227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 55842,
-      "num": 196921,
-      "word": "女子不慎被反锁冷库被外卖员救出",
-      "onboard_time": 1756797380,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55801,
       "num": 173381,
       "word": "文韬讲解能力教科书级别的",
@@ -4371,6 +4403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 37873,
+      "num": 109713,
+      "word": "奶茶店小票印霸总小说",
+      "onboard_time": 1756798401,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37681,
       "num": 393011,
       "word": "吃饭时能不能喝水",
@@ -4499,6 +4539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30118,
+      "num": 196880,
+      "word": "郑合惠子演出了那种明媚的忧伤",
+      "onboard_time": 1756797861,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28283,
       "num": 47696,
       "word": "华晨宇萌的不知天地为何物了",
@@ -4577,14 +4625,6 @@
       "onboard_time": 1756757953,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21095,
-      "num": 196880,
-      "word": "郑合惠子演出了那种明媚的忧伤",
-      "onboard_time": 1756797861,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 20560,
