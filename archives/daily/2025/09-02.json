@@ -1,22 +1,22 @@
 {
   "startTime": 1756744237306,
-  "endTime": 1756779380835,
+  "endTime": 1756782696931,
   "band_list": [
     {
-      "raw_hot": 1020288,
-      "num": 219141,
-      "word": "别把聊天截图发给你朋友好吗",
-      "onboard_time": 1756729762,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1019603,
-      "num": 133322,
+      "raw_hot": 1063633,
+      "num": 150153,
       "word": "沈佳润史上最无语原唱",
       "onboard_time": 1756776322,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1020288,
+      "num": 252360,
+      "word": "别把聊天截图发给你朋友好吗",
+      "onboard_time": 1756729762,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 823854,
@@ -24,6 +24,30 @@
       "word": "多国领导人乘高铁抵达北京",
       "onboard_time": 1756738341,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 791541,
+      "num": 371987,
+      "word": "黄金",
+      "onboard_time": 1756780700,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 706272,
+      "num": 150012,
+      "word": "信用卡要被年轻人抛弃了吗",
+      "onboard_time": 1756781240,
+      "rank": 21,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 622694,
+      "num": 1099631,
+      "word": "731把活人解剖浸在福尔马林做标本",
+      "onboard_time": 1756778719,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 509269,
-      "num": 133067,
+      "num": 149992,
       "word": "发明同车换乘的人真是个天才",
       "onboard_time": 1756771460,
       "rank": 21,
@@ -83,8 +107,16 @@
       "category": "综艺,健康医疗"
     },
     {
-      "raw_hot": 287156,
-      "num": 287156,
+      "raw_hot": 292844,
+      "num": 292844,
+      "word": "四万万中国人共同的名字",
+      "onboard_time": 1756780941,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 289694,
+      "num": 289694,
       "word": "日本签署投降书画面",
       "onboard_time": 1756769779,
       "rank": 16,
@@ -123,19 +155,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 274045,
+      "num": 274045,
+      "word": "日本投降签字仪式结束时间9时18分",
+      "onboard_time": 1756770079,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 273259,
       "num": 273259,
       "word": "九三阅兵具体安排来了",
       "onboard_time": 1756713863,
       "rank": 3,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 259060,
-      "num": 259060,
-      "word": "日本投降签字仪式结束时间9时18分",
-      "onboard_time": 1756770079,
-      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -163,8 +195,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225692,
+      "num": 225692,
+      "word": "731为保细菌跳蚤存活制陶瓷炸弹",
+      "onboard_time": 1756780700,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 223358,
-      "num": 133067,
+      "num": 149292,
       "word": "3岁半宝宝110厘米58斤入学超显眼",
       "onboard_time": 1756771222,
       "rank": 22,
@@ -177,6 +217,14 @@
       "onboard_time": 1756738041,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209631,
+      "num": 209631,
+      "word": "普京在天津的一天",
+      "onboard_time": 1756781540,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 204908,
@@ -219,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182476,
+      "num": 149875,
+      "word": "微信客服回应人去世朋友圈消失",
+      "onboard_time": 1756782319,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 180648,
       "num": 130838,
       "word": "幼儿园开学第一天上演两极反转",
@@ -251,6 +307,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163879,
+      "num": 163879,
+      "word": "金饰克价涨到1041元",
+      "onboard_time": 1756779440,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 154201,
+      "num": 149610,
+      "word": "人生最大的意义就是让自己快乐",
+      "onboard_time": 1756778719,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152455,
       "num": 122701,
       "word": "咖啡因 布洛芬",
@@ -259,11 +331,35 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148776,
+      "num": 148776,
+      "word": "A股全市场近6成公司营收正增长",
+      "onboard_time": 1756782500,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146353,
       "num": 129826,
       "word": "aespa导播还是太会切屏了",
       "onboard_time": 1756774160,
       "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 145853,
+      "num": 145853,
+      "word": "外国记者感叹中国治安",
+      "onboard_time": 1756780700,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 145035,
+      "num": 145035,
+      "word": "王源00后鸟巢第一人",
+      "onboard_time": 1756777879,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -315,11 +411,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 134008,
-      "num": 134008,
-      "word": "731把活人解剖浸在福尔马林做标本",
-      "onboard_time": 1756778719,
-      "rank": 19,
+      "raw_hot": 131749,
+      "num": 131749,
+      "word": "KAI演唱会随舞视频出现了张艺兴吴世勋",
+      "onboard_time": 1756781360,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 130818,
+      "num": 145054,
+      "word": "武契奇抵京",
+      "onboard_time": 1756782261,
+      "rank": 29,
       "category": "国内时政"
     },
     {
@@ -347,20 +451,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 118902,
-      "num": 118902,
-      "word": "人生最大的意义就是让自己快乐",
-      "onboard_time": 1756778719,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 117542,
-      "num": 117542,
-      "word": "王源00后鸟巢第一人",
-      "onboard_time": 1756777879,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 121356,
+      "num": 121356,
+      "word": "樊振东白到发亮",
+      "onboard_time": 1756779501,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 115576,
@@ -379,12 +475,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106858,
+      "num": 106858,
+      "word": "大阅兵中国军人准备好了",
+      "onboard_time": 1756782682,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100093,
       "num": 117301,
       "word": "波兰重提二战赔偿",
       "onboard_time": 1756770019,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98864,
+      "num": 117485,
+      "word": "当你报考到很偏僻的学校",
+      "onboard_time": 1756778002,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 97841,
@@ -417,6 +529,30 @@
       "onboard_time": 1756721421,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92419,
+      "num": 92419,
+      "word": "这个故事中国人信了几千年",
+      "onboard_time": 1756780520,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 90648,
+      "num": 117432,
+      "word": "观礼服务包有3个颜色",
+      "onboard_time": 1756778601,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 88582,
+      "num": 88582,
+      "word": "密室大逃脱大神版",
+      "onboard_time": 1756781659,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 88274,
@@ -475,14 +611,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82833,
-      "num": 117485,
-      "word": "当你报考到很偏僻的学校",
-      "onboard_time": 1756778002,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 81060,
       "num": 119790,
       "word": "浓厚氛围迎抗战胜利80周年",
@@ -496,14 +624,6 @@
       "word": "莫迪发文感谢中方",
       "onboard_time": 1756721601,
       "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 76604,
-      "num": 117432,
-      "word": "观礼服务包有3个颜色",
-      "onboard_time": 1756778601,
-      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -545,6 +665,14 @@
       "onboard_time": 1756731262,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71496,
+      "num": 88527,
+      "word": "众泰汽车今年已无法复工复产",
+      "onboard_time": 1756780999,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 69483,
@@ -600,6 +728,14 @@
       "word": "人去世了微信朋友圈会消失吗",
       "onboard_time": 1756716624,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 62460,
+      "num": 88292,
+      "word": "养狗人不语只是一味的共鸣",
+      "onboard_time": 1756780099,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -803,6 +939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32168,
+      "num": 94862,
+      "word": "上海禁塑令违者最高罚10万",
+      "onboard_time": 1756781840,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30803,
       "num": 72793,
       "word": "孙颖莎出发回北京",
@@ -876,7 +1020,7 @@
     },
     {
       "raw_hot": 13166,
-      "num": 277342,
+      "num": 291355,
       "word": "80年前世界大战让国际社会痛定思痛",
       "onboard_time": 1756719260,
       "rank": 6,
