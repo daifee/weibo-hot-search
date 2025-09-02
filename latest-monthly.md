@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/03 03:19:56
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/03 03:36:55
 </p>
 </blockquote>
 <p>
@@ -4593,6 +4593,12 @@ AI合成内容需亮明身份（热度：18945）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%A3%B0%E9%9F%B3%E9%93%AD%E8%AE%B0%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%23" target="weibo">
+用声音铭记抗战历史（热度：16405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%9D%96%E5%AE%87%E5%90%83%E6%A3%89%E7%B5%AE%E4%B8%8E%E6%A0%91%E7%9A%AE%E6%88%98%E6%96%97%E8%87%B3%E6%9C%80%E5%90%8E%E4%B8%80%E6%81%AF%23" target="weibo">
 杨靖宇吃棉絮与树皮战斗至最后一息（热度：15406）
 </a>
@@ -4618,7 +4624,7 @@ AI合成内容需亮明身份（热度：18945）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%BF%B5%E5%A4%A7%E4%BC%9A85%E7%A7%8D%E8%AF%AD%E8%A8%80%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%BC%A0%E6%92%AD%23" target="weibo">
-纪念大会85种语言多平台传播（热度：12237）
+纪念大会85种语言多平台传播（热度：12731）
 </a>
 </li>
 
@@ -4643,6 +4649,12 @@ AI合成内容需亮明身份（热度：18945）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%AE%9A%E7%BB%B4%E6%8A%A4%E4%BA%8C%E6%88%98%E8%83%9C%E5%88%A9%E6%88%90%E6%9E%9C%23" target="weibo">
 坚定维护二战胜利成果（热度：11360）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%9B%9B%E5%85%B8%E6%B5%81%E7%A8%8B%E4%BA%AE%E7%82%B9%E8%AF%A6%E8%A7%A3%E6%9D%A5%E4%BA%86%23" target="weibo">
+阅兵盛典流程亮点详解来了（热度：11115）
 </a>
 </li>
 
