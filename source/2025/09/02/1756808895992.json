@@ -1,0 +1,410 @@
+{
+  "runTime": 1756808895992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1390300,
+        "num": 1390300,
+        "word": "金正恩专列抵达北京",
+        "onboard_time": 1756806681,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 396264,
+        "num": 396264,
+        "word": "日籍八路军之子参加抗战纪念活动",
+        "onboard_time": 1756802239,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65472,
+        "num": 383943,
+        "word": "四万万中国人共同的名字",
+        "onboard_time": 1756780941,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375073,
+        "num": 375073,
+        "word": "日本破防称抗战阅兵是仇恨教育",
+        "onboard_time": 1756806081,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 332026,
+        "num": 332026,
+        "word": "中国对俄罗斯试行免签",
+        "onboard_time": 1756798640,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276789,
+        "num": 276789,
+        "word": "8万只气球有6个颜色",
+        "onboard_time": 1756795521,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229543,
+        "num": 229543,
+        "word": "阅兵剧透来了",
+        "onboard_time": 1756804822,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224733,
+        "num": 224733,
+        "word": "九三上午纪念大会晚上文艺晚会",
+        "onboard_time": 1756791442,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210986,
+        "num": 210986,
+        "word": "微博上线九三纪念专属昵称icon",
+        "onboard_time": 1756807822,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 177465,
+        "num": 177465,
+        "word": "天安门广场放飞气球可完全降解",
+        "onboard_time": 1756787722,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306851,
+        "num": 174293,
+        "word": "随餐喝水和不喝水的区别",
+        "onboard_time": 1756802902,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268194,
+        "num": 173681,
+        "word": "雅漾喷雾成分是水",
+        "onboard_time": 1756807701,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 196583,
+        "num": 172198,
+        "word": "桑启 曹植",
+        "onboard_time": 1756799421,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167423,
+        "num": 167423,
+        "word": "普京抵达人民大会堂画面",
+        "onboard_time": 1756789882,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151875,
+        "num": 167174,
+        "word": "俄媒称普京专车中国车牌有深意",
+        "onboard_time": 1756797861,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125447,
+        "num": 166359,
+        "word": "预约阅兵直播",
+        "onboard_time": 1756788561,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124799,
+        "num": 165700,
+        "word": "九三大阅兵倒计时1天",
+        "onboard_time": 1756785622,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115469,
+        "num": 164814,
+        "word": "洪秀柱将出席九三阅兵",
+        "onboard_time": 1756787122,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115141,
+        "num": 164544,
+        "word": "九三阅兵军迷变军盲",
+        "onboard_time": 1756806922,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77866,
+        "num": 163300,
+        "word": "北京全市喷泉开启",
+        "onboard_time": 1756808182,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 986480,
+        "num": 163028,
+        "word": "请假看阅兵",
+        "onboard_time": 1756803082,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620079,
+        "num": 162254,
+        "word": "岳云鹏因灶台脏淘汰588元扬州炒饭",
+        "onboard_time": 1756802601,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161815,
+        "num": 161815,
+        "word": "九三阅兵一整个期待住了",
+        "onboard_time": 1756808361,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157638,
+        "num": 157638,
+        "word": "张晚意不富裕但慷慨",
+        "onboard_time": 1756802961,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132508,
+        "num": 157628,
+        "word": "日媒爆中国驱逐舰绕了日本一圈",
+        "onboard_time": 1756794320,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131245,
+        "num": 157551,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1756799482,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124223,
+        "num": 157497,
+        "word": "一天冻完了一年要吃的蔬菜",
+        "onboard_time": 1756803982,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35562,
+        "num": 157447,
+        "word": "天安门广场年号台整体亮相",
+        "onboard_time": 1756773261,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95829,
+        "num": 157424,
+        "word": "杨幂邢菲赵达合照",
+        "onboard_time": 1756802239,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95420,
+        "num": 157398,
+        "word": "普京离开人民大会堂",
+        "onboard_time": 1756808361,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114817,
+        "num": 157335,
+        "word": "韩国现在流行的部队锅煮法",
+        "onboard_time": 1756807881,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95359,
+        "num": 157268,
+        "word": "柯洁回应为何读清华",
+        "onboard_time": 1756808301,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94977,
+        "num": 157230,
+        "word": "纪念抗战胜利80周年主题演讲",
+        "onboard_time": 1756798160,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92143,
+        "num": 157195,
+        "word": "俄记者惊呼在中国忘拿手机没人拿",
+        "onboard_time": 1756803024,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90878,
+        "num": 157144,
+        "word": "现在喝奶茶也要配货了",
+        "onboard_time": 1756790121,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88914,
+        "num": 157066,
+        "word": "女子不慎被反锁冷库被外卖员救出",
+        "onboard_time": 1756797380,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86860,
+        "num": 157023,
+        "word": "白俄罗斯总统对中国阅兵充满期待",
+        "onboard_time": 1756807160,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81428,
+        "num": 156985,
+        "word": "阅兵空中梯队怎么看",
+        "onboard_time": 1756808600,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81107,
+        "num": 156930,
+        "word": "iPhone17透明壳价格",
+        "onboard_time": 1756806741,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45777,
+        "num": 156893,
+        "word": "斯洛伐克总理不理解欧盟各国不赴华",
+        "onboard_time": 1756808361,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80343,
+        "num": 156853,
+        "word": "生万物庆功宴",
+        "onboard_time": 1756797261,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77713,
+        "num": 156805,
+        "word": "子夜归大结局",
+        "onboard_time": 1756808841,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75195,
+        "num": 156746,
+        "word": "微信聊天能发live图了",
+        "onboard_time": 1756783341,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70506,
+        "num": 156720,
+        "word": "A股成交2.87万亿放量1250亿",
+        "onboard_time": 1756806562,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70359,
+        "num": 156635,
+        "word": "捕风追影有赵雅芝老公儿子",
+        "onboard_time": 1756800622,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65744,
+        "num": 156602,
+        "word": "安卓换iPhone后的尴尬瞬间",
+        "onboard_time": 1756790002,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65111,
+        "num": 156543,
+        "word": "宇树科技宣布将在四季度提交IPO申请",
+        "onboard_time": 1756805721,
+        "rank": 46,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 64885,
+        "num": 156535,
+        "word": "九三阅兵媒体包都有啥",
+        "onboard_time": 1756802481,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56048,
+        "num": 156450,
+        "word": "明日方舟丰川祥子皮肤",
+        "onboard_time": 1756806801,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55083,
+        "num": 156394,
+        "word": "陈雨菲伤情诊断公布",
+        "onboard_time": 1756808061,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行会谈#"
+    }
+  }
+}

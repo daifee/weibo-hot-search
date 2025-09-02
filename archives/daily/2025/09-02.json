@@ -1,6 +1,6 @@
 {
   "startTime": 1756744237306,
-  "endTime": 1756806108555,
+  "endTime": 1756808895992,
   "band_list": [
     {
       "raw_hot": 1913036,
@@ -8,6 +8,14 @@
       "word": "金正恩抵达北京",
       "onboard_time": 1756799241,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1390300,
+      "num": 1390300,
+      "word": "金正恩专列抵达北京",
+      "onboard_time": 1756806681,
+      "rank": 0,
       "category": "国际时政"
     },
     {
@@ -35,20 +43,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 986480,
+      "num": 266708,
+      "word": "请假看阅兵",
+      "onboard_time": 1756803082,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 976984,
       "num": 312099,
       "word": "微信聊天能发live图了",
       "onboard_time": 1756783341,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 950496,
-      "num": 266708,
-      "word": "请假看阅兵",
-      "onboard_time": 1756803082,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 949043,
@@ -235,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 396264,
+      "num": 396264,
+      "word": "日籍八路军之子参加抗战纪念活动",
+      "onboard_time": 1756802239,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 394762,
       "num": 309801,
       "word": "美8艘军舰4200名士兵逼近委内瑞拉",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 376684,
-      "num": 376684,
+      "num": 383943,
       "word": "四万万中国人共同的名字",
       "onboard_time": 1756780941,
       "rank": 5,
@@ -281,6 +297,14 @@
       "onboard_time": 1756787722,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 375073,
+      "num": 375073,
+      "word": "日本破防称抗战阅兵是仇恨教育",
+      "onboard_time": 1756806081,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 359294,
@@ -347,15 +371,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 303112,
-      "num": 203967,
-      "word": "鼻炎 记忆力下降",
-      "onboard_time": 1756763835,
-      "rank": 15,
-      "category": "综艺,健康医疗"
-    },
-    {
-      "raw_hot": 296589,
+      "raw_hot": 306851,
       "num": 267295,
       "word": "随餐喝水和不喝水的区别",
       "onboard_time": 1756802902,
@@ -363,12 +379,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 295290,
-      "num": 295290,
-      "word": "日籍八路军之子参加抗战纪念活动",
-      "onboard_time": 1756802239,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 303112,
+      "num": 203967,
+      "word": "鼻炎 记忆力下降",
+      "onboard_time": 1756763835,
+      "rank": 15,
+      "category": "综艺,健康医疗"
     },
     {
       "raw_hot": 285977,
@@ -451,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 268194,
+      "num": 173681,
+      "word": "雅漾喷雾成分是水",
+      "onboard_time": 1756807701,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 265894,
       "num": 265894,
       "word": "金正恩时隔6年再访华",
@@ -515,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 229543,
+      "num": 267019,
+      "word": "阅兵剧透来了",
+      "onboard_time": 1756804822,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 223358,
       "num": 152329,
       "word": "3岁半宝宝110厘米58斤入学超显眼",
@@ -545,6 +577,14 @@
       "onboard_time": 1756787241,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210986,
+      "num": 210986,
+      "word": "微博上线九三纪念专属昵称icon",
+      "onboard_time": 1756807822,
+      "rank": 8,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 210282,
@@ -819,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161815,
+      "num": 161815,
+      "word": "九三阅兵一整个期待住了",
+      "onboard_time": 1756808361,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160344,
       "num": 160344,
       "word": "大阅兵中国军人准备好了",
@@ -1011,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141048,
-      "num": 267019,
-      "word": "阅兵剧透来了",
-      "onboard_time": 1756804822,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 140457,
       "num": 140457,
       "word": "猫 你不管管吗",
@@ -1171,6 +1211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124223,
+      "num": 265832,
+      "word": "一天冻完了一年要吃的蔬菜",
+      "onboard_time": 1756803982,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123234,
       "num": 266192,
       "word": "112位老兵获抗战胜利80周年纪念章",
@@ -1283,6 +1331,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115141,
+      "num": 164544,
+      "word": "九三阅兵军迷变军盲",
+      "onboard_time": 1756806922,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 114817,
+      "num": 157335,
+      "word": "韩国现在流行的部队锅煮法",
+      "onboard_time": 1756807881,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112731,
       "num": 265801,
       "word": "谁吃麻辣香锅不被上一课呢",
@@ -1387,6 +1451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95420,
+      "num": 157398,
+      "word": "普京离开人民大会堂",
+      "onboard_time": 1756808361,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 95359,
+      "num": 157268,
+      "word": "柯洁回应为何读清华",
+      "onboard_time": 1756808301,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93172,
       "num": 115393,
       "word": "全家送女儿上大学返程三人集体泪崩",
@@ -1417,14 +1497,6 @@
       "onboard_time": 1756800800,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88728,
-      "num": 265832,
-      "word": "一天冻完了一年要吃的蔬菜",
-      "onboard_time": 1756803982,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 88582,
@@ -1481,6 +1553,14 @@
       "onboard_time": 1756798581,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 86860,
+      "num": 157023,
+      "word": "白俄罗斯总统对中国阅兵充满期待",
+      "onboard_time": 1756807160,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85000,
@@ -1547,6 +1627,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81428,
+      "num": 156985,
+      "word": "阅兵空中梯队怎么看",
+      "onboard_time": 1756808600,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 81107,
+      "num": 156930,
+      "word": "iPhone17透明壳价格",
+      "onboard_time": 1756806741,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 81060,
       "num": 119790,
       "word": "浓厚氛围迎抗战胜利80周年",
@@ -1585,6 +1681,22 @@
       "onboard_time": 1756805002,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77866,
+      "num": 163300,
+      "word": "北京全市喷泉开启",
+      "onboard_time": 1756808182,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77713,
+      "num": 156805,
+      "word": "子夜归大结局",
+      "onboard_time": 1756808841,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 77328,
@@ -1649,6 +1761,14 @@
       "onboard_time": 1756780999,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 70506,
+      "num": 156720,
+      "word": "A股成交2.87万亿放量1250亿",
+      "onboard_time": 1756806562,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 69551,
@@ -1779,12 +1899,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 56048,
+      "num": 156450,
+      "word": "明日方舟丰川祥子皮肤",
+      "onboard_time": 1756806801,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55306,
       "num": 72806,
       "word": "中小学生午休课桌椅国标出台",
       "onboard_time": 1756737382,
       "rank": 20,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 55083,
+      "num": 156394,
+      "word": "陈雨菲伤情诊断公布",
+      "onboard_time": 1756808061,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 52089,
@@ -1835,20 +1971,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 46598,
-      "num": 265754,
-      "word": "日本破防称抗战阅兵是仇恨教育",
-      "onboard_time": 1756806081,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45867,
       "num": 115352,
       "word": "战士腹部受伤仍咬破敌人喉咙",
       "onboard_time": 1756742360,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45777,
+      "num": 156893,
+      "word": "斯洛伐克总理不理解欧盟各国不赴华",
+      "onboard_time": 1756808361,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44439,
@@ -2169,6 +2305,9 @@
     },
     {
       "word": "#习近平首提全球治理倡议#"
+    },
+    {
+      "word": "#习近平同普京举行会谈#"
     }
   ]
 }
