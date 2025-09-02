@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756818378180,
+  "endTime": 1756820162456,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1228560,
+      "num": 1228560,
+      "word": "金正恩出席抗战胜利纪念活动",
+      "onboard_time": 1756819103,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1182334,
       "num": 1189173,
       "word": "任何不缴社保的约定均为无效",
@@ -57,6 +65,14 @@
       "onboard_time": 1756729762,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1144445,
+      "num": 1160061,
+      "word": "九三阅兵超全观看指南",
+      "onboard_time": 1756809202,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1127699,
@@ -81,14 +97,6 @@
       "onboard_time": 1756728082,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1000383,
-      "num": 1160061,
-      "word": "九三阅兵超全观看指南",
-      "onboard_time": 1756809202,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 986480,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 622866,
-      "num": 211288,
+      "num": 235109,
       "word": "子夜归大结局",
       "onboard_time": 1756808841,
       "rank": 41,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 531892,
-      "num": 209976,
+      "num": 241321,
       "word": "幼儿园即将迎来一颗魔丸",
       "onboard_time": 1756811001,
       "rank": 30,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 400179,
-      "num": 193470,
+      "num": 222945,
       "word": "国民党主席称不禁止个人去九三阅兵",
       "onboard_time": 1756814422,
       "rank": 12,
@@ -723,8 +731,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 379219,
+      "num": 236496,
+      "word": "跑马女护士签约MCN创始人发声",
+      "onboard_time": 1756818143,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376684,
-      "num": 615164,
+      "num": 762344,
       "word": "四万万中国人共同的名字",
       "onboard_time": 1756780941,
       "rank": 5,
@@ -1027,6 +1043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 278465,
+      "num": 192592,
+      "word": "睡眠不足和睡眠充足有什么区别",
+      "onboard_time": 1756815802,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276351,
       "num": 266497,
       "word": "宋亚轩 敬山水",
@@ -1148,7 +1172,7 @@
     },
     {
       "raw_hot": 264297,
-      "num": 193356,
+      "num": 231098,
       "word": "iG选择EDG",
       "onboard_time": 1756816341,
       "rank": 14,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1756700722,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259153,
+      "num": 259153,
+      "word": "九三盛大阅兵明天见",
+      "onboard_time": 1756807102,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 256624,
@@ -1211,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247973,
+      "num": 247973,
+      "word": "斯洛伐克总理说来华是为了表达敬意",
+      "onboard_time": 1756816761,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 243992,
       "num": 404848,
       "word": "九三前日本做了哪些小动作",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1756651763,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233911,
+      "num": 233911,
+      "word": "梅逐雨成了猫公",
+      "onboard_time": 1756816761,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 233047,
@@ -1323,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222008,
+      "num": 191892,
+      "word": "武祯怀孕了",
+      "onboard_time": 1756817122,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221454,
       "num": 552837,
       "word": "上合已成世界最大区域组织",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1756684820,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 220035,
+      "num": 166561,
+      "word": "3岁女童身高1米1体重58斤",
+      "onboard_time": 1756818742,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216456,
@@ -1380,7 +1444,7 @@
     },
     {
       "raw_hot": 211483,
-      "num": 211483,
+      "num": 245955,
       "word": "微博上线九三纪念专属昵称icon",
       "onboard_time": 1756807822,
       "rank": 8,
@@ -1401,14 +1465,6 @@
       "onboard_time": 1756789823,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209760,
-      "num": 209760,
-      "word": "九三盛大阅兵明天见",
-      "onboard_time": 1756807102,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 209530,
@@ -1433,14 +1489,6 @@
       "onboard_time": 1756698921,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 205426,
-      "num": 192592,
-      "word": "睡眠不足和睡眠充足有什么区别",
-      "onboard_time": 1756815802,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 204908,
@@ -1547,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193251,
+      "num": 193251,
+      "word": "杨紫聊拍摄生命树高反",
+      "onboard_time": 1756818922,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193118,
       "num": 117345,
       "word": "邓超妈妈来看了鹿晗南昌演唱会",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1756786941,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 192216,
-      "num": 191892,
-      "word": "武祯怀孕了",
-      "onboard_time": 1756817122,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 192036,
@@ -1697,14 +1745,6 @@
       "onboard_time": 1756719621,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 185169,
-      "num": 192845,
-      "word": "梅逐雨成了猫公",
-      "onboard_time": 1756816761,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 184493,
@@ -2587,6 +2627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134560,
+      "num": 191836,
+      "word": "微博上线九三纪念专属点赞特效",
+      "onboard_time": 1756816702,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134273,
       "num": 196600,
       "word": "开学季同学们共同唱响不屈",
@@ -2857,6 +2905,14 @@
       "onboard_time": 1756803982,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123825,
+      "num": 134552,
+      "word": "中国科学家首次发现冰弯曲可发电",
+      "onboard_time": 1756819763,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 123282,
@@ -3139,28 +3195,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112644,
-      "num": 196633,
-      "word": "斯洛伐克总理说来华是为了表达敬意",
-      "onboard_time": 1756816761,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112487,
       "num": 330131,
       "word": "丞磊新剧眼神缠住林允",
       "onboard_time": 1756738582,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112345,
-      "num": 170504,
-      "word": "跑马女护士签约MCN创始人发声",
-      "onboard_time": 1756818143,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112115,
@@ -3193,6 +3233,14 @@
       "onboard_time": 1756788502,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110211,
+      "num": 134516,
+      "word": "藏海传霸屏暑期档",
+      "onboard_time": 1756819343,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 109774,
@@ -3491,6 +3539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99187,
+      "num": 134499,
+      "word": "易烊千玺礐嶨北京站vlog",
+      "onboard_time": 1756819103,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 98864,
       "num": 117485,
       "word": "当你报考到很偏僻的学校",
@@ -3627,12 +3683,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94525,
+      "num": 134492,
+      "word": "让人变快乐的8个微习惯",
+      "onboard_time": 1756818441,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 94071,
       "num": 199717,
       "word": "普京在中国有宾至如归的感觉",
       "onboard_time": 1756713142,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93833,
+      "num": 209339,
+      "word": "螃蟹低至10元一斤",
+      "onboard_time": 1756813041,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93761,
@@ -3665,14 +3737,6 @@
       "onboard_time": 1756690580,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92655,
-      "num": 209339,
-      "word": "螃蟹低至10元一斤",
-      "onboard_time": 1756813041,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92649,
@@ -4027,6 +4091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84446,
+      "num": 239343,
+      "word": "一起向天空许个和平愿吧",
+      "onboard_time": 1756818622,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84343,
       "num": 115822,
       "word": "百度地图再被曝打车强制看广告",
@@ -4091,14 +4163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 82666,
-      "num": 191836,
-      "word": "微博上线九三纪念专属点赞特效",
-      "onboard_time": 1756816702,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82557,
       "num": 197362,
       "word": "伊朗总统出席抗战胜利纪念活动",
@@ -4121,6 +4185,14 @@
       "onboard_time": 1756792161,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82137,
+      "num": 134466,
+      "word": "蔚来二季度亏损50亿元",
+      "onboard_time": 1756818381,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 81889,
@@ -4689,6 +4761,14 @@
       "onboard_time": 1756724960,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66614,
+      "num": 134427,
+      "word": "从伟大胜利走向伟大复兴",
+      "onboard_time": 1756819222,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66469,
