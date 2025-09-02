@@ -1,0 +1,410 @@
+{
+  "runTime": 1756851722623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1165260,
+        "num": 1165260,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 769274,
+        "num": 769274,
+        "word": "阅兵",
+        "onboard_time": 1756829900,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7653,
+        "num": 349687,
+        "word": "抗战老兵提起战争经历时的眼神",
+        "onboard_time": 1756796001,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137473,
+        "num": 137473,
+        "word": "天安门广场最新画面",
+        "onboard_time": 1756825643,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88604,
+        "num": 88604,
+        "word": "阅兵直播",
+        "onboard_time": 1756851015,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72029,
+        "num": 72029,
+        "word": "1945年9月3日中国人永不能忘",
+        "onboard_time": 1756849814,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65876,
+        "num": 65876,
+        "word": "我们不忘永远不忘",
+        "onboard_time": 1756814961,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59242,
+        "num": 59242,
+        "word": "从伟大胜利走向伟大复兴",
+        "onboard_time": 1756819222,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56870,
+        "num": 56870,
+        "word": "为什么选择在9月3日举行阅兵",
+        "onboard_time": 1756824864,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18702,
+        "num": 53388,
+        "word": "阅兵演练合集看一次震撼一次",
+        "onboard_time": 1756849814,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212145,
+        "num": 53381,
+        "word": "这是阅兵进场最早撤场最晚的队伍",
+        "onboard_time": 1756825523,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52918,
+        "num": 52918,
+        "word": "这就是又美又飒的中国仪仗女兵",
+        "onboard_time": 1756851074,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65419,
+        "num": 52426,
+        "word": "金正恩出席抗战胜利纪念活动",
+        "onboard_time": 1756819103,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48221,
+        "num": 48221,
+        "word": "阅兵首次亮相新型装备占比很大",
+        "onboard_time": 1756828461,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46942,
+        "num": 46942,
+        "word": "三兵是哪三兵",
+        "onboard_time": 1756843515,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44461,
+        "num": 44461,
+        "word": "洪秀柱说回台被批判无所谓",
+        "onboard_time": 1756825762,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43263,
+        "num": 43263,
+        "word": "河南小伙将在天安门广场升起国旗",
+        "onboard_time": 1756822642,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41656,
+        "num": 41656,
+        "word": "九三阅兵超全观看指南",
+        "onboard_time": 1756809202,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39460,
+        "num": 39460,
+        "word": "九三阅兵怎么看",
+        "onboard_time": 1756824923,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39343,
+        "num": 39343,
+        "word": "巴基斯坦总理参观安贞医院",
+        "onboard_time": 1756825523,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122507,
+        "num": 39280,
+        "word": "奶奶租房陪读退租屋子一尘不染",
+        "onboard_time": 1756833497,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77238,
+        "num": 39234,
+        "word": "iPhone17Pro涨价",
+        "onboard_time": 1756828461,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 57837,
+        "num": 39110,
+        "word": "王星越周也 行止晚",
+        "onboard_time": 1756830020,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54192,
+        "num": 38995,
+        "word": "全红婵哥哥参加厨综遗憾落选",
+        "onboard_time": 1756824322,
+        "rank": 23,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 47942,
+        "num": 38944,
+        "word": "幼儿园即将迎来一颗魔丸",
+        "onboard_time": 1756811001,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44989,
+        "num": 38866,
+        "word": "我国已划转万亿国资充实社保基金",
+        "onboard_time": 1756824742,
+        "rank": 25,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 41094,
+        "num": 38711,
+        "word": "詹姆斯上海",
+        "onboard_time": 1756828640,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40632,
+        "num": 38655,
+        "word": "杭州西湖管理方太严谨了",
+        "onboard_time": 1756825103,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37770,
+        "num": 38575,
+        "word": "国民党主席称不禁止个人去九三阅兵",
+        "onboard_time": 1756814422,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38514,
+        "num": 38514,
+        "word": "这条视频值得中国人今晚一起看看",
+        "onboard_time": 1756828400,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64565,
+        "num": 38508,
+        "word": "上班的内容是集体观看阅兵",
+        "onboard_time": 1756851074,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39794,
+        "num": 38148,
+        "word": "国际乒联就主席选举结果发表声明",
+        "onboard_time": 1756828761,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37589,
+        "num": 37589,
+        "word": "吴磊李宛妲 剑来",
+        "onboard_time": 1756821861,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35080,
+        "num": 35080,
+        "word": "她是新中国第一位女将军",
+        "onboard_time": 1756811302,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33057,
+        "num": 33057,
+        "word": "国际乒联主席胜诉",
+        "onboard_time": 1756823783,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31987,
+        "num": 31987,
+        "word": "微博上线九三纪念专属昵称icon",
+        "onboard_time": 1756807822,
+        "rank": 35,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 31463,
+        "num": 31463,
+        "word": "黑河小学开学迎来大批俄罗斯学生",
+        "onboard_time": 1756826002,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31169,
+        "num": 31169,
+        "word": "他花我的社保我没意见",
+        "onboard_time": 1756812322,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30955,
+        "num": 30955,
+        "word": "北京夜景",
+        "onboard_time": 1756826182,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29695,
+        "num": 29695,
+        "word": "中国博主在国外帮游客找到坠崖儿子",
+        "onboard_time": 1756831459,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27583,
+        "num": 29690,
+        "word": "阅兵新装备集中亮相",
+        "onboard_time": 1756826603,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27193,
+        "num": 29684,
+        "word": "今天是胜利的日子",
+        "onboard_time": 1756831698,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26876,
+        "num": 29674,
+        "word": "生万物",
+        "onboard_time": 1756829301,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26550,
+        "num": 29667,
+        "word": "子夜归大结局",
+        "onboard_time": 1756808841,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25711,
+        "num": 29655,
+        "word": "一图速览九三阅兵精彩看点",
+        "onboard_time": 1756831158,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25567,
+        "num": 29654,
+        "word": "一图速览阅兵安排",
+        "onboard_time": 1756835055,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24909,
+        "num": 29642,
+        "word": "苹果折叠屏优势曝光",
+        "onboard_time": 1756828461,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 24692,
+        "num": 29635,
+        "word": "微博上线九三纪念专属点赞特效",
+        "onboard_time": 1756816702,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23590,
+        "num": 29624,
+        "word": "受阅部队将在全新BGM中霸气登场",
+        "onboard_time": 1756824143,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8077,
+        "num": 29619,
+        "word": "理想汽车第二季度净利润11亿元",
+        "onboard_time": 1756836496,
+        "rank": 49,
+        "category": "财经,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述的伟大抗战精神#"
+    }
+  }
+}
