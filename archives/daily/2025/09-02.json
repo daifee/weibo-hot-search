@@ -1,14 +1,22 @@
 {
   "startTime": 1756744237306,
-  "endTime": 1756778081788,
+  "endTime": 1756779380835,
   "band_list": [
     {
       "raw_hot": 1020288,
-      "num": 215655,
+      "num": 219141,
       "word": "别把聊天截图发给你朋友好吗",
       "onboard_time": 1756729762,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1019603,
+      "num": 133322,
+      "word": "沈佳润史上最无语原唱",
+      "onboard_time": 1756776322,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 823854,
@@ -19,14 +27,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 649685,
-      "num": 111028,
-      "word": "沈佳润史上最无语原唱",
-      "onboard_time": 1756776322,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 527730,
       "num": 527730,
       "word": "我的爸爸妈妈在死难者名单墙上",
@@ -35,20 +35,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 509269,
-      "num": 108416,
-      "word": "发明同车换乘的人真是个天才",
-      "onboard_time": 1756771460,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 454847,
-      "num": 1072775,
+      "raw_hot": 516413,
+      "num": 1082626,
       "word": "天安门广场年号台整体亮相",
       "onboard_time": 1756773261,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 509269,
+      "num": 133067,
+      "word": "发明同车换乘的人真是个天才",
+      "onboard_time": 1756771460,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 390973,
@@ -59,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375831,
+      "num": 375831,
+      "word": "中英日三语种主题片胜利",
+      "onboard_time": 1756774942,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 349056,
       "num": 122160,
       "word": "永辉超市胖东来燕麦脆已下架",
       "onboard_time": 1756723520,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308532,
-      "num": 308532,
-      "word": "中英日三语种主题片胜利",
-      "onboard_time": 1756774942,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 303112,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 285977,
-      "num": 115566,
+      "num": 117507,
       "word": "NHK播报勿忘南京大屠杀主播发声",
       "onboard_time": 1756741760,
       "rank": 26,
@@ -131,8 +131,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 250935,
-      "num": 250935,
+      "raw_hot": 259060,
+      "num": 259060,
       "word": "日本投降签字仪式结束时间9时18分",
       "onboard_time": 1756770079,
       "rank": 8,
@@ -147,8 +147,24 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 242449,
+      "num": 202183,
+      "word": "喀什古城官宣杀青",
+      "onboard_time": 1756778060,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229922,
+      "num": 229922,
+      "word": "揭开731少年班罪恶真相",
+      "onboard_time": 1756774462,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 223358,
-      "num": 105579,
+      "num": 133067,
       "word": "3岁半宝宝110厘米58斤入学超显眼",
       "onboard_time": 1756771222,
       "rank": 22,
@@ -161,14 +177,6 @@
       "onboard_time": 1756738041,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212622,
-      "num": 212622,
-      "word": "揭开731少年班罪恶真相",
-      "onboard_time": 1756774462,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 204908,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 185870,
-      "num": 117050,
+      "num": 117405,
       "word": "巨发胖的七种食物",
       "onboard_time": 1756723820,
       "rank": 22,
@@ -204,19 +212,19 @@
     },
     {
       "raw_hot": 184493,
-      "num": 101109,
+      "num": 127650,
       "word": "甚至怀疑过绿是字的颜色",
       "onboard_time": 1756771040,
       "rank": 23,
       "category": "幽默"
     },
     {
-      "raw_hot": 180217,
-      "num": 180217,
-      "word": "喀什古城官宣杀青",
-      "onboard_time": 1756778060,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 180648,
+      "num": 130838,
+      "word": "幼儿园开学第一天上演两极反转",
+      "onboard_time": 1756776200,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180101,
@@ -251,16 +259,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 149209,
-      "num": 99996,
-      "word": "幼儿园开学第一天上演两极反转",
-      "onboard_time": 1756776200,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146353,
-      "num": 99064,
+      "num": 129826,
       "word": "aespa导播还是太会切屏了",
       "onboard_time": 1756774160,
       "rank": 26,
@@ -307,6 +307,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135022,
+      "num": 135022,
+      "word": "人民日报任仲平文章",
+      "onboard_time": 1756778661,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 134008,
+      "num": 134008,
+      "word": "731把活人解剖浸在福尔马林做标本",
+      "onboard_time": 1756778719,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 125135,
+      "num": 125135,
+      "word": "蒯曼有了新称号",
+      "onboard_time": 1756778539,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121811,
       "num": 121811,
       "word": "雷暴 鼻炎",
@@ -323,27 +347,51 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118902,
+      "num": 118902,
+      "word": "人生最大的意义就是让自己快乐",
+      "onboard_time": 1756778719,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117542,
+      "num": 117542,
+      "word": "王源00后鸟巢第一人",
+      "onboard_time": 1756777879,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115576,
-      "num": 115576,
+      "num": 117361,
       "word": "蜜雪冰城上半年净赚27亿",
       "onboard_time": 1756738704,
       "rank": 25,
       "category": "财经"
     },
     {
+      "raw_hot": 107400,
+      "num": 194323,
+      "word": "中国第一支农村电影流动放映队",
+      "onboard_time": 1756773621,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100093,
-      "num": 100093,
+      "num": 117301,
       "word": "波兰重提二战赔偿",
       "onboard_time": 1756770019,
       "rank": 24,
       "category": "国际时政"
     },
     {
-      "raw_hot": 96912,
-      "num": 96912,
-      "word": "中国第一支农村电影流动放映队",
-      "onboard_time": 1756773621,
-      "rank": 27,
+      "raw_hot": 97841,
+      "num": 117530,
+      "word": "为什么9月3日是抗战胜利纪念日",
+      "onboard_time": 1756775722,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -355,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96163,
+      "num": 117526,
+      "word": "AirPodsPro3耳机前瞻",
+      "onboard_time": 1756775841,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93172,
       "num": 115393,
       "word": "全家送女儿上大学返程三人集体泪崩",
@@ -364,23 +420,15 @@
     },
     {
       "raw_hot": 88274,
-      "num": 88274,
+      "num": 117468,
       "word": "献鱼",
       "onboard_time": 1756770320,
       "rank": 31,
       "category": "剧集"
     },
     {
-      "raw_hot": 88125,
-      "num": 88125,
-      "word": "AirPodsPro3耳机前瞻",
-      "onboard_time": 1756775841,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 87374,
-      "num": 87374,
+      "num": 117479,
       "word": "果然猫在上厕所的时候最脆弱",
       "onboard_time": 1756771941,
       "rank": 33,
@@ -412,7 +460,7 @@
     },
     {
       "raw_hot": 83268,
-      "num": 83268,
+      "num": 117313,
       "word": "周翊然演技",
       "onboard_time": 1756769839,
       "rank": 41,
@@ -428,7 +476,7 @@
     },
     {
       "raw_hot": 82833,
-      "num": 82833,
+      "num": 117485,
       "word": "当你报考到很偏僻的学校",
       "onboard_time": 1756778002,
       "rank": 36,
@@ -451,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76604,
+      "num": 117432,
+      "word": "观礼服务包有3个颜色",
+      "onboard_time": 1756778601,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76369,
       "num": 115445,
       "word": "巴黎世家 8200元塑料袋",
@@ -459,20 +515,28 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 76191,
-      "num": 76191,
-      "word": "为什么9月3日是抗战胜利纪念日",
-      "onboard_time": 1756775722,
-      "rank": 37,
-      "category": "国内时政"
+      "raw_hot": 75084,
+      "num": 117417,
+      "word": "高芙无缘美网八强",
+      "onboard_time": 1756779141,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 74747,
-      "num": 74747,
+      "num": 117296,
       "word": "俱乐部主帅谈樊振东德甲首秀失利",
       "onboard_time": 1756774880,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73965,
+      "num": 117390,
+      "word": "用人民币感受挪威物价",
+      "onboard_time": 1756775841,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 72826,
@@ -484,7 +548,7 @@
     },
     {
       "raw_hot": 69483,
-      "num": 69483,
+      "num": 117345,
       "word": "打工的前7个月就存到了3万",
       "onboard_time": 1756772060,
       "rank": 41,
@@ -508,7 +572,7 @@
     },
     {
       "raw_hot": 66469,
-      "num": 66469,
+      "num": 117337,
       "word": "iPhone17系列预售调查",
       "onboard_time": 1756769779,
       "rank": 35,
@@ -531,14 +595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 64464,
-      "num": 66469,
-      "word": "用人民币感受挪威物价",
-      "onboard_time": 1756775841,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 63811,
       "num": 115511,
       "word": "人去世了微信朋友圈会消失吗",
@@ -553,14 +609,6 @@
       "onboard_time": 1756769597,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 61548,
-      "num": 66467,
-      "word": "王源00后鸟巢第一人",
-      "onboard_time": 1756777879,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 61403,

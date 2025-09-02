@@ -1,0 +1,410 @@
+{
+  "runTime": 1756779380835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 516413,
+        "num": 1082626,
+        "word": "天安门广场年号台整体亮相",
+        "onboard_time": 1756773261,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 382299,
+        "num": 382299,
+        "word": "多国领导人乘高铁抵达北京",
+        "onboard_time": 1756738341,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30663,
+        "num": 378601,
+        "word": "公安机关依法打击涉无人机黑客违法犯罪",
+        "onboard_time": 1756768999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375831,
+        "num": 375831,
+        "word": "中英日三语种主题片胜利",
+        "onboard_time": 1756774942,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265421,
+        "num": 265421,
+        "word": "日本签署投降书画面",
+        "onboard_time": 1756769779,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 259060,
+        "num": 259060,
+        "word": "日本投降签字仪式结束时间9时18分",
+        "onboard_time": 1756770079,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3671,
+        "num": 242055,
+        "word": "80年前世界大战让国际社会痛定思痛",
+        "onboard_time": 1756719260,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239120,
+        "num": 239120,
+        "word": "李幼斌和李云龙跨时空对话",
+        "onboard_time": 1756773682,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229922,
+        "num": 229922,
+        "word": "揭开731少年班罪恶真相",
+        "onboard_time": 1756774462,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219982,
+        "num": 219982,
+        "word": "检阅部队",
+        "onboard_time": 1756771100,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 744425,
+        "num": 219141,
+        "word": "别把聊天截图发给你朋友好吗",
+        "onboard_time": 1756729762,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355881,
+        "num": 207782,
+        "word": "网友称收到生育补贴",
+        "onboard_time": 1756773441,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242449,
+        "num": 202183,
+        "word": "喀什古城官宣杀青",
+        "onboard_time": 1756778060,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107400,
+        "num": 194323,
+        "word": "中国第一支农村电影流动放映队",
+        "onboard_time": 1756773621,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186890,
+        "num": 186890,
+        "word": "19450902日本签署投降书",
+        "onboard_time": 1756769118,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167059,
+        "num": 167059,
+        "word": "鼻炎 记忆力下降",
+        "onboard_time": 1756763835,
+        "rank": 15,
+        "category": "综艺,健康医疗"
+      },
+      {
+        "raw_hot": 164450,
+        "num": 164450,
+        "word": "北京市民游客冒雨打卡抗战主题花坛",
+        "onboard_time": 1756776381,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155469,
+        "num": 155469,
+        "word": "我的爸爸妈妈在死难者名单墙上",
+        "onboard_time": 1756740801,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135022,
+        "num": 135022,
+        "word": "人民日报任仲平文章",
+        "onboard_time": 1756778661,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134008,
+        "num": 134008,
+        "word": "731把活人解剖浸在福尔马林做标本",
+        "onboard_time": 1756778719,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1019603,
+        "num": 133322,
+        "word": "沈佳润史上最无语原唱",
+        "onboard_time": 1756776322,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 505908,
+        "num": 133067,
+        "word": "发明同车换乘的人真是个天才",
+        "onboard_time": 1756771460,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204591,
+        "num": 133067,
+        "word": "3岁半宝宝110厘米58斤入学超显眼",
+        "onboard_time": 1756771222,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132185,
+        "num": 132185,
+        "word": "九三阅兵具体安排来了",
+        "onboard_time": 1756713863,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180648,
+        "num": 130838,
+        "word": "幼儿园开学第一天上演两极反转",
+        "onboard_time": 1756776200,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136808,
+        "num": 129826,
+        "word": "aespa导播还是太会切屏了",
+        "onboard_time": 1756774160,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134527,
+        "num": 127650,
+        "word": "甚至怀疑过绿是字的颜色",
+        "onboard_time": 1756771040,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125135,
+        "num": 125135,
+        "word": "蒯曼有了新称号",
+        "onboard_time": 1756778539,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122977,
+        "num": 122977,
+        "word": "孙颖莎王楚钦樊振东出战乒超总决赛",
+        "onboard_time": 1756776141,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119855,
+        "num": 119855,
+        "word": "9月3日安排",
+        "onboard_time": 1756729822,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118902,
+        "num": 118902,
+        "word": "人生最大的意义就是让自己快乐",
+        "onboard_time": 1756778719,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117542,
+        "num": 117542,
+        "word": "王源00后鸟巢第一人",
+        "onboard_time": 1756777879,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97841,
+        "num": 117530,
+        "word": "为什么9月3日是抗战胜利纪念日",
+        "onboard_time": 1756775722,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96163,
+        "num": 117526,
+        "word": "AirPodsPro3耳机前瞻",
+        "onboard_time": 1756775841,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94113,
+        "num": 117507,
+        "word": "NHK播报勿忘南京大屠杀主播发声",
+        "onboard_time": 1756741760,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80218,
+        "num": 117485,
+        "word": "当你报考到很偏僻的学校",
+        "onboard_time": 1756778002,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79437,
+        "num": 117479,
+        "word": "果然猫在上厕所的时候最脆弱",
+        "onboard_time": 1756771941,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78455,
+        "num": 117468,
+        "word": "献鱼",
+        "onboard_time": 1756770320,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76828,
+        "num": 117451,
+        "word": "南京80岁奶奶在遇难同胞姓名前流泪",
+        "onboard_time": 1756739481,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76604,
+        "num": 117432,
+        "word": "观礼服务包有3个颜色",
+        "onboard_time": 1756778601,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75084,
+        "num": 117417,
+        "word": "高芙无缘美网八强",
+        "onboard_time": 1756779141,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74361,
+        "num": 117405,
+        "word": "巨发胖的七种食物",
+        "onboard_time": 1756723820,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73965,
+        "num": 117390,
+        "word": "用人民币感受挪威物价",
+        "onboard_time": 1756775841,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73476,
+        "num": 117379,
+        "word": "田曦薇人生镜头",
+        "onboard_time": 1756730843,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68935,
+        "num": 117361,
+        "word": "蜜雪冰城上半年净赚27亿",
+        "onboard_time": 1756738704,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65092,
+        "num": 117345,
+        "word": "打工的前7个月就存到了3万",
+        "onboard_time": 1756772060,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64812,
+        "num": 117337,
+        "word": "iPhone17系列预售调查",
+        "onboard_time": 1756769779,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62936,
+        "num": 117313,
+        "word": "周翊然演技",
+        "onboard_time": 1756769839,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60412,
+        "num": 117301,
+        "word": "波兰重提二战赔偿",
+        "onboard_time": 1756770019,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43264,
+        "num": 117296,
+        "word": "俱乐部主帅谈樊振东德甲首秀失利",
+        "onboard_time": 1756774880,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席提出全球治理倡议#"
+    }
+  }
+}
