@@ -1,6 +1,6 @@
 {
   "startTime": 1756744237306,
-  "endTime": 1756809826552,
+  "endTime": 1756812116663,
   "band_list": [
     {
       "raw_hot": 1913036,
@@ -139,12 +139,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 583586,
+      "num": 1093373,
+      "word": "九三阅兵超全观看指南",
+      "onboard_time": 1756809202,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 578973,
+      "num": 578973,
+      "word": "日本破防称抗战阅兵是仇恨教育",
+      "onboard_time": 1756806081,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 552939,
+      "num": 200114,
+      "word": "子夜归大结局",
+      "onboard_time": 1756808841,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 542645,
       "num": 266890,
       "word": "生万物庆功宴",
       "onboard_time": 1756797261,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 529750,
+      "num": 529750,
+      "word": "阅兵剧透来了",
+      "onboard_time": 1756804822,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 527730,
@@ -193,14 +225,6 @@
       "onboard_time": 1756791802,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 438889,
-      "num": 438889,
-      "word": "日本破防称抗战阅兵是仇恨教育",
-      "onboard_time": 1756806081,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 438806,
@@ -275,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380683,
+      "num": 200282,
+      "word": "雅漾喷雾成分是水",
+      "onboard_time": 1756807701,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 379238,
       "num": 379238,
       "word": "731为保细菌跳蚤存活制陶瓷炸弹",
@@ -284,7 +316,7 @@
     },
     {
       "raw_hot": 376684,
-      "num": 401321,
+      "num": 547766,
       "word": "四万万中国人共同的名字",
       "onboard_time": 1756780941,
       "rank": 5,
@@ -304,14 +336,6 @@
       "word": "天安门广场放飞气球可完全降解",
       "onboard_time": 1756787722,
       "rank": 32,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 369402,
-      "num": 369402,
-      "word": "阅兵剧透来了",
-      "onboard_time": 1756804822,
-      "rank": 29,
       "category": "国内时政"
     },
     {
@@ -395,12 +419,12 @@
       "category": "综艺,健康医疗"
     },
     {
-      "raw_hot": 293190,
-      "num": 200282,
-      "word": "雅漾喷雾成分是水",
-      "onboard_time": 1756807701,
-      "rank": 11,
-      "category": "美妆"
+      "raw_hot": 295125,
+      "num": 194058,
+      "word": "蔚来财报",
+      "onboard_time": 1756809620,
+      "rank": 33,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 285977,
@@ -433,6 +457,14 @@
       "onboard_time": 1756790002,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 283212,
+      "num": 190921,
+      "word": "斯洛伐克总理不理解欧盟各国不赴华",
+      "onboard_time": 1756808361,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 276351,
@@ -483,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 266912,
+      "num": 266912,
+      "word": "普京离开人民大会堂",
+      "onboard_time": 1756808361,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 265894,
       "num": 265894,
       "word": "金正恩时隔6年再访华",
@@ -499,12 +539,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 252974,
-      "num": 252974,
-      "word": "普京离开人民大会堂",
-      "onboard_time": 1756808361,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 252737,
+      "num": 252737,
+      "word": "她是新中国第一位女将军",
+      "onboard_time": 1756811302,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 249242,
@@ -537,14 +577,6 @@
       "onboard_time": 1756788201,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237968,
-      "num": 199852,
-      "word": "子夜归大结局",
-      "onboard_time": 1756808841,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 229922,
@@ -584,6 +616,14 @@
       "word": "前NHK中国主播被判赔1100万日元",
       "onboard_time": 1756738041,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217963,
+      "num": 217963,
+      "word": "北京全市喷泉开启",
+      "onboard_time": 1756808182,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -683,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190613,
+      "num": 190613,
+      "word": "战至巅峰",
+      "onboard_time": 1756811421,
+      "rank": 15,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 190010,
       "num": 218602,
       "word": "北京市民游客冒雨打卡抗战主题花坛",
@@ -713,14 +761,6 @@
       "onboard_time": 1756723820,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 184519,
-      "num": 184519,
-      "word": "北京全市喷泉开启",
-      "onboard_time": 1756808182,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184493,
@@ -995,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150623,
+      "num": 160245,
+      "word": "幼儿园即将迎来一颗魔丸",
+      "onboard_time": 1756811001,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150065,
       "num": 265881,
       "word": "捕风追影有赵雅芝老公儿子",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1756794682,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145903,
+      "num": 160277,
+      "word": "不运动变瘦的7个习惯",
+      "onboard_time": 1756809741,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 145451,
@@ -1099,10 +1155,10 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 138765,
-      "num": 156893,
-      "word": "斯洛伐克总理不理解欧盟各国不赴华",
-      "onboard_time": 1756808361,
+      "raw_hot": 139125,
+      "num": 160272,
+      "word": "解放军越南阅兵外国方队打头阵",
+      "onboard_time": 1756809620,
       "rank": 39,
       "category": "国际时政"
     },
@@ -1145,6 +1201,14 @@
       "onboard_time": 1756785023,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135094,
+      "num": 160264,
+      "word": "潘玮柏吃法餐也嫌弃分量少",
+      "onboard_time": 1756809141,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 135022,
@@ -1193,6 +1257,14 @@
       "onboard_time": 1756797441,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128662,
+      "num": 160263,
+      "word": "小猫从天而降砸出主人的肾结石",
+      "onboard_time": 1756810402,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 128652,
@@ -1339,16 +1411,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117934,
-      "num": 117934,
-      "word": "九三阅兵超全观看指南",
-      "onboard_time": 1756809202,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117195,
-      "num": 157335,
+      "num": 160217,
       "word": "韩国现在流行的部队锅煮法",
       "onboard_time": 1756807881,
       "rank": 30,
@@ -1411,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108840,
+      "num": 160240,
+      "word": "以为是仙侠剧其实是穿越剧",
+      "onboard_time": 1756811662,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108489,
       "num": 265708,
       "word": "AI岗月薪下限均值已达4.7万元",
@@ -1435,6 +1507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106042,
+      "num": 160231,
+      "word": "逃避历史的日本会教出怎样下一代",
+      "onboard_time": 1756809021,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101785,
       "num": 101785,
       "word": "王影璐寒鱼妆",
@@ -1457,14 +1537,6 @@
       "onboard_time": 1756770019,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 99574,
-      "num": 113298,
-      "word": "潘玮柏吃法餐也嫌弃分量少",
-      "onboard_time": 1756809141,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 98864,
@@ -1531,20 +1603,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 91900,
+      "num": 160223,
+      "word": "韩庚说历史是最好的清醒剂",
+      "onboard_time": 1756809980,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90648,
       "num": 128336,
       "word": "观礼服务包有3个颜色",
       "onboard_time": 1756778601,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 89945,
-      "num": 113269,
-      "word": "蔚来财报",
-      "onboard_time": 1756809620,
-      "rank": 33,
-      "category": "汽车,财经"
     },
     {
       "raw_hot": 89496,
@@ -1587,8 +1659,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87772,
+      "num": 160212,
+      "word": "97岁抗战老兵的心愿看哭了",
+      "onboard_time": 1756811061,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87429,
-      "num": 156930,
+      "num": 160206,
       "word": "iPhone17透明壳价格",
       "onboard_time": 1756806741,
       "rank": 38,
@@ -1707,6 +1787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80728,
+      "num": 160239,
+      "word": "这位抗战老兵的一生有多传奇",
+      "onboard_time": 1756811961,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79988,
       "num": 119171,
       "word": "莫迪发文感谢中方",
@@ -1739,12 +1827,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78518,
+      "num": 160197,
+      "word": "蔚来美股盘前跌近9%",
+      "onboard_time": 1756811361,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 78391,
+      "num": 160192,
+      "word": "看似健康却容易发胖的食物",
+      "onboard_time": 1756811302,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 77328,
       "num": 84942,
       "word": "恋与深空",
       "onboard_time": 1756795041,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77280,
+      "num": 160186,
+      "word": "维达 孙颖莎",
+      "onboard_time": 1756812082,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 77064,
@@ -1867,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66718,
-      "num": 113039,
-      "word": "不运动变瘦的7个习惯",
-      "onboard_time": 1756809741,
-      "rank": 45,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 66469,
       "num": 117337,
       "word": "iPhone17系列预售调查",
@@ -1892,7 +1996,7 @@
     },
     {
       "raw_hot": 64936,
-      "num": 156394,
+      "num": 160170,
       "word": "陈雨菲伤情诊断公布",
       "onboard_time": 1756808061,
       "rank": 49,
@@ -1905,14 +2009,6 @@
       "onboard_time": 1756716624,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 63007,
-      "num": 113002,
-      "word": "逃避历史的日本会教出怎样下一代",
-      "onboard_time": 1756809021,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 62747,
@@ -1955,14 +2051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57528,
-      "num": 113153,
-      "word": "解放军越南阅兵外国方队打头阵",
-      "onboard_time": 1756809620,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56713,
       "num": 112967,
       "word": "国际乒联启动章程改革",
@@ -2001,6 +2089,14 @@
       "onboard_time": 1756790722,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50225,
+      "num": 160161,
+      "word": "国羽很多教练带速效救心丸上场",
+      "onboard_time": 1756811480,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 47787,
@@ -2372,6 +2468,9 @@
     },
     {
       "word": "#习近平同普京举行会谈#"
+    },
+    {
+      "word": "#中英日三语种主题片胜利#"
     }
   ]
 }
