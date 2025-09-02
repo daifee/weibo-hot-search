@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756790763094,
+  "endTime": 1756791759516,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -339,6 +339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 484005,
+      "num": 336616,
+      "word": "普京抵达人民大会堂画面",
+      "onboard_time": 1756789882,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 477460,
       "num": 477460,
       "word": "石宇奇夺冠教练快被打成重伤",
@@ -619,6 +627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 331554,
+      "num": 331554,
+      "word": "天安门广场核心区最新航拍",
+      "onboard_time": 1756786941,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 326939,
       "num": 326939,
       "word": "篡改电动自行车电池的人这下消停了",
@@ -681,14 +697,6 @@
       "onboard_time": 1756717401,
       "rank": 17,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 307200,
-      "num": 307200,
-      "word": "普京抵达人民大会堂画面",
-      "onboard_time": 1756789882,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 303112,
@@ -776,14 +784,6 @@
       "word": "李幼斌和李云龙跨时空对话",
       "onboard_time": 1756773682,
       "rank": 7,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 275226,
-      "num": 284901,
-      "word": "天安门广场核心区最新航拍",
-      "onboard_time": 1756786941,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -891,19 +891,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256624,
+      "num": 252790,
+      "word": "中国的安全感让外国记者震惊了",
+      "onboard_time": 1756788083,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 253205,
       "num": 361748,
       "word": "后天一起看阅兵",
       "onboard_time": 1756727421,
       "rank": 6,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 252790,
-      "num": 252790,
-      "word": "中国的安全感让外国记者震惊了",
-      "onboard_time": 1756788083,
-      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -913,6 +913,14 @@
       "onboard_time": 1756682000,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 250773,
+      "num": 174468,
+      "word": "安卓换iPhone后的尴尬瞬间",
+      "onboard_time": 1756790002,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 249242,
@@ -955,8 +963,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240368,
+      "num": 332058,
+      "word": "预约阅兵直播",
+      "onboard_time": 1756788561,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 238731,
-      "num": 171591,
+      "num": 174467,
       "word": "男孩赶14小时作业双手痉挛成鸡爪状",
       "onboard_time": 1756788201,
       "rank": 24,
@@ -969,6 +985,14 @@
       "onboard_time": 1756651763,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235302,
+      "num": 235302,
+      "word": "九三上午纪念大会晚上文艺晚会",
+      "onboard_time": 1756791442,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 230621,
@@ -1027,14 +1051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221797,
-      "num": 140082,
-      "word": "安卓换iPhone后的尴尬瞬间",
-      "onboard_time": 1756790002,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 221454,
       "num": 552837,
       "word": "上合已成世界最大区域组织",
@@ -1083,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210691,
+      "num": 174440,
+      "word": "现在喝奶茶也要配货了",
+      "onboard_time": 1756790121,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210443,
       "num": 210443,
       "word": "消费贷的国补要来了",
       "onboard_time": 1756647024,
       "rank": 5,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 210282,
+      "num": 210282,
+      "word": "李沁花少防撞条",
+      "onboard_time": 1756789823,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 209530,
@@ -1244,7 +1276,7 @@
     },
     {
       "raw_hot": 191135,
-      "num": 160289,
+      "num": 174415,
       "word": "连续一个月11点睡觉不玩手机后",
       "onboard_time": 1756788923,
       "rank": 25,
@@ -1347,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184354,
+      "num": 184354,
+      "word": "十二封信",
+      "onboard_time": 1756790661,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181700,
       "num": 193732,
       "word": "香港小姐14强佳丽均是高学历",
@@ -1403,14 +1443,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 173804,
-      "num": 173804,
-      "word": "李沁花少防撞条",
-      "onboard_time": 1756789823,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172761,
       "num": 172761,
       "word": "每天久坐超6小时的后果",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1756727421,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 172092,
-      "num": 140026,
-      "word": "现在喝奶茶也要配货了",
-      "onboard_time": 1756790121,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 171929,
@@ -1587,14 +1611,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 161615,
-      "num": 306868,
-      "word": "预约阅兵直播",
-      "onboard_time": 1756788561,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 160690,
       "num": 223019,
       "word": "上合组织旗帜鲜明反对外部干涉",
@@ -1649,6 +1665,14 @@
       "onboard_time": 1756705100,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 158820,
+      "num": 158820,
+      "word": "雀巢CEO因与下属恋爱被炒",
+      "onboard_time": 1756790002,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 158344,
@@ -1771,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150631,
+      "num": 150631,
+      "word": "张远唱了八百遍嘉宾",
+      "onboard_time": 1756790963,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150342,
       "num": 751932,
       "word": "开学第一课",
@@ -1819,6 +1851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147768,
+      "num": 147768,
+      "word": "李兰迪新剧被雨淋又被羊追",
+      "onboard_time": 1756790963,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147751,
       "num": 396762,
       "word": "李乃文又拉长人中了",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1756774160,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145451,
+      "num": 145451,
+      "word": "2025PEL夏决售票",
+      "onboard_time": 1756791561,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 145145,
@@ -2027,14 +2075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134707,
-      "num": 134707,
-      "word": "雀巢CEO因与下属恋爱被炒",
-      "onboard_time": 1756790002,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 134042,
       "num": 237201,
       "word": "杨幂小时代这梗过不去了",
@@ -2211,6 +2251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126438,
+      "num": 126438,
+      "word": "坐高铁因为好奇选了静音车厢",
+      "onboard_time": 1756789281,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125920,
       "num": 125920,
       "word": "子夜归和离",
@@ -2291,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120058,
+      "num": 120058,
+      "word": "诊所回应男子网购5元材料自行补牙",
+      "onboard_time": 1756791742,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119841,
       "num": 150220,
       "word": "出席九三阅兵的非洲兄弟到了",
@@ -2313,14 +2369,6 @@
       "onboard_time": 1756717342,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118101,
-      "num": 118101,
-      "word": "坐高铁因为好奇选了静音车厢",
-      "onboard_time": 1756789281,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 117909,
@@ -2459,6 +2507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 111198,
+      "num": 111198,
+      "word": "王一博演技不基础台词更不基础",
+      "onboard_time": 1756788502,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109774,
       "num": 109774,
       "word": "王一博录音棚花絮图送达",
@@ -2473,14 +2529,6 @@
       "onboard_time": 1756716141,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109462,
-      "num": 109462,
-      "word": "王一博演技不基础台词更不基础",
-      "onboard_time": 1756788502,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 108811,
@@ -2563,14 +2611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 106450,
-      "num": 106450,
-      "word": "十二封信",
-      "onboard_time": 1756790661,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 106440,
       "num": 171940,
       "word": "山东魏桥2比1山东鲁能",
@@ -2648,6 +2688,14 @@
       "word": "王佳怡长相和演技都不基础",
       "onboard_time": 1756698801,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101785,
+      "num": 101785,
+      "word": "王影璐寒鱼妆",
+      "onboard_time": 1756791261,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -2908,7 +2956,7 @@
     },
     {
       "raw_hot": 90648,
-      "num": 119424,
+      "num": 128336,
       "word": "观礼服务包有3个颜色",
       "onboard_time": 1756778601,
       "rank": 39,
@@ -3987,6 +4035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52089,
+      "num": 122416,
+      "word": "大猪蹄子博物馆",
+      "onboard_time": 1756790722,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52055,
       "num": 72037,
       "word": "王一栩说淮水竹亭绝对的断层第一",
@@ -4009,14 +4065,6 @@
       "onboard_time": 1756735822,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 49039,
-      "num": 122416,
-      "word": "大猪蹄子博物馆",
-      "onboard_time": 1756790722,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48427,
