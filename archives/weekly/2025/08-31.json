@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756785151473,
+  "endTime": 1756787458098,
   "band_list": [
     {
       "raw_hot": 2552419,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1063633,
-      "num": 182335,
+      "num": 192773,
       "word": "沈佳润史上最无语原唱",
       "onboard_time": 1756776322,
       "rank": 20,
@@ -145,6 +145,14 @@
       "onboard_time": 1756728082,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 976984,
+      "num": 312099,
+      "word": "微信聊天能发live图了",
+      "onboard_time": 1756783341,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 962522,
@@ -193,14 +201,6 @@
       "onboard_time": 1756619782,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 895559,
-      "num": 312099,
-      "word": "微信聊天能发live图了",
-      "onboard_time": 1756783341,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 890880,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 706272,
-      "num": 178729,
+      "num": 192560,
       "word": "信用卡要被年轻人抛弃了吗",
       "onboard_time": 1756781240,
       "rank": 21,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 654029,
+      "num": 1104644,
+      "word": "731把活人解剖浸在福尔马林做标本",
+      "onboard_time": 1756778719,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 650707,
       "num": 234663,
       "word": "北京暴雨",
@@ -377,14 +385,6 @@
       "onboard_time": 1756617322,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 629578,
-      "num": 1100732,
-      "word": "731把活人解剖浸在福尔马林做标本",
-      "onboard_time": 1756778719,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 612202,
@@ -763,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405991,
+      "num": 405991,
+      "word": "洪秀柱将出席九三阅兵",
+      "onboard_time": 1756787122,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 402847,
       "num": 328837,
       "word": "瘦下82斤身体各部位的变化",
@@ -785,6 +793,14 @@
       "onboard_time": 1756733303,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 394762,
+      "num": 309801,
+      "word": "美8艘军舰4200名士兵逼近委内瑞拉",
+      "onboard_time": 1756784123,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 392147,
@@ -849,6 +865,14 @@
       "onboard_time": 1756644022,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376684,
+      "num": 376684,
+      "word": "四万万中国人共同的名字",
+      "onboard_time": 1756780941,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 376393,
@@ -1011,6 +1035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 343977,
+      "num": 192526,
+      "word": "金靖一开口迪丽热巴就控制不住了",
+      "onboard_time": 1756785202,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343751,
       "num": 343751,
       "word": "鹿晗演唱会",
@@ -1123,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325793,
+      "num": 325793,
+      "word": "日本签署投降书画面",
+      "onboard_time": 1756769779,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 323524,
       "num": 238736,
       "word": "董璇一直在为张维伊兜底",
@@ -1139,28 +1179,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 322871,
-      "num": 322871,
-      "word": "四万万中国人共同的名字",
-      "onboard_time": 1756780941,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 321691,
       "num": 229246,
       "word": "开学焦虑更严重的另有其人",
       "onboard_time": 1756615402,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 320339,
-      "num": 320339,
-      "word": "日本签署投降书画面",
-      "onboard_time": 1756769779,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 318216,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1756611021,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 309801,
-      "num": 309801,
-      "word": "美8艘军舰4200名士兵逼近委内瑞拉",
-      "onboard_time": 1756784123,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 308015,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1756626320,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295325,
+      "num": 265924,
+      "word": "儿童指纹水杯",
+      "onboard_time": 1756786401,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293804,
@@ -1415,6 +1439,14 @@
       "num": 274045,
       "word": "日本投降签字仪式结束时间9时18分",
       "onboard_time": 1756770079,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 273734,
+      "num": 273734,
+      "word": "卢卡申科又带儿子来中国了",
+      "onboard_time": 1756786222,
       "rank": 8,
       "category": "国内时政"
     },
@@ -1732,7 +1764,7 @@
     },
     {
       "raw_hot": 223293,
-      "num": 132865,
+      "num": 192361,
       "word": "这是面试官听过最舒服的离职原因",
       "onboard_time": 1756784961,
       "rank": 30,
@@ -1785,6 +1817,14 @@
       "onboard_time": 1756640781,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216456,
+      "num": 216456,
+      "word": "光遇",
+      "onboard_time": 1756787241,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 216300,
@@ -2171,6 +2211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192851,
+      "num": 192851,
+      "word": "天安门广场观礼服务包里有什么",
+      "onboard_time": 1756782980,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 192840,
+      "num": 192840,
+      "word": "孟子义李昀锐尚公主开机宴路透",
+      "onboard_time": 1756784362,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192784,
       "num": 248835,
       "word": "大闸蟹开湖倒计时",
@@ -2184,6 +2240,14 @@
       "word": "抗战中特殊的战士",
       "onboard_time": 1756728681,
       "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 192342,
+      "num": 192342,
+      "word": "缅怀先烈铭记历史",
+      "onboard_time": 1756786941,
+      "rank": 25,
       "category": "国内时政"
     },
     {
@@ -2233,6 +2297,14 @@
       "onboard_time": 1756776381,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189231,
+      "num": 333285,
+      "word": "中俄元首会谈",
+      "onboard_time": 1756784481,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188931,
@@ -2467,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176038,
+      "num": 176038,
+      "word": "smart官宣两座回归",
+      "onboard_time": 1756785861,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 175986,
       "num": 166264,
       "word": "樊振东德甲首战",
@@ -2491,12 +2571,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 172761,
+      "num": 172761,
+      "word": "每天久坐超6小时的后果",
+      "onboard_time": 1756782921,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 172665,
       "num": 176895,
       "word": "上海暴雨",
       "onboard_time": 1756629022,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172478,
+      "num": 172478,
+      "word": "尹锡悦拒捕监控曝光",
+      "onboard_time": 1756784782,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172146,
@@ -2545,6 +2641,14 @@
       "onboard_time": 1756698624,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 170075,
+      "num": 170075,
+      "word": "一家十口送儿子上大学哭成泪人",
+      "onboard_time": 1756784961,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169719,
@@ -2651,6 +2755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165630,
+      "num": 165630,
+      "word": "光遇复刻",
+      "onboard_time": 1756787182,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165468,
       "num": 203272,
       "word": "土耳其总统埃尔多安抵达天津",
@@ -2731,12 +2843,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161331,
-      "num": 161331,
-      "word": "每天久坐超6小时的后果",
-      "onboard_time": 1756782921,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 161341,
+      "num": 161341,
+      "word": "九三大阅兵倒计时1天",
+      "onboard_time": 1756785622,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160690,
@@ -2769,6 +2881,14 @@
       "onboard_time": 1756637781,
       "rank": 8,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 159945,
+      "num": 159945,
+      "word": "陈赫遇上金靖不OK也得OK",
+      "onboard_time": 1756787241,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 159736,
@@ -2809,6 +2929,14 @@
       "onboard_time": 1756685060,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157206,
+      "num": 157206,
+      "word": "未定事件簿",
+      "onboard_time": 1756787303,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 156954,
@@ -3003,14 +3131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150501,
-      "num": 150501,
-      "word": "一家十口送儿子上大学哭成泪人",
-      "onboard_time": 1756784961,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150342,
       "num": 751932,
       "word": "开学第一课",
@@ -3049,14 +3169,6 @@
       "onboard_time": 1756611141,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149407,
-      "num": 185059,
-      "word": "孟子义李昀锐尚公主开机宴路透",
-      "onboard_time": 1756784362,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 149135,
@@ -3315,14 +3427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 138490,
-      "num": 138490,
-      "word": "天安门广场观礼服务包里有什么",
-      "onboard_time": 1756782980,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 138326,
       "num": 138326,
       "word": "开学新人设是霉霉",
@@ -3395,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137542,
+      "num": 137542,
+      "word": "淀粉肠薯片",
+      "onboard_time": 1756786281,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 137098,
       "num": 137098,
       "word": "全红婵要开学了",
@@ -3425,6 +3537,14 @@
       "onboard_time": 1756624042,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136764,
+      "num": 136764,
+      "word": "请同事喝个奶茶都有SOP了",
+      "onboard_time": 1756785023,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 136705,
@@ -3481,6 +3601,14 @@
       "onboard_time": 1756647262,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134876,
+      "num": 134876,
+      "word": "少年歌行豆瓣评分上涨至8.4",
+      "onboard_time": 1756786702,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 134848,
@@ -3545,14 +3673,6 @@
       "onboard_time": 1756716021,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132311,
-      "num": 132311,
-      "word": "尹锡悦拒捕监控曝光",
-      "onboard_time": 1756784782,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131973,
@@ -3771,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124752,
+      "num": 124752,
+      "word": "武契奇称中国是塞尔维亚最宝贵朋友",
+      "onboard_time": 1756787182,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124536,
       "num": 231884,
       "word": "久哲大跌眼镜",
@@ -3793,6 +3921,14 @@
       "onboard_time": 1756617860,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123796,
+      "num": 123796,
+      "word": "猫 你不管管吗",
+      "onboard_time": 1756786522,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 123282,
@@ -4027,6 +4163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116810,
+      "num": 116810,
+      "word": "明日方舟丰川祥子PV",
+      "onboard_time": 1756787303,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116769,
       "num": 141029,
       "word": "伪装者十周年",
@@ -4169,14 +4313,6 @@
       "onboard_time": 1756607301,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 114371,
-      "num": 333285,
-      "word": "中俄元首会谈",
-      "onboard_time": 1756784481,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 114254,
@@ -5771,20 +5907,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82145,
+      "num": 132770,
+      "word": "跑步机跑步和室外跑步的区别",
+      "onboard_time": 1756787122,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 81889,
       "num": 94518,
       "word": "装备方队有最新装备和国之重器",
       "onboard_time": 1756723282,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 81806,
-      "num": 112327,
-      "word": "请同事喝个奶茶都有SOP了",
-      "onboard_time": 1756785023,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 81512,
@@ -6395,6 +6531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68979,
+      "num": 418949,
+      "word": "中国抗战为什么赢",
+      "onboard_time": 1756755854,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68978,
       "num": 97152,
       "word": "九三阅兵编设45个方梯队有何区别",
@@ -6899,6 +7043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53868,
+      "num": 273039,
+      "word": "天安门广场核心区最新航拍",
+      "onboard_time": 1756786941,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53572,
       "num": 61886,
       "word": "羽毛球世锦赛男双",
@@ -7051,6 +7203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42861,
+      "num": 108358,
+      "word": "潘展乐全锦赛报名蝶泳",
+      "onboard_time": 1756787303,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42289,
       "num": 71945,
       "word": "布莱顿绝杀曼城",
@@ -7097,14 +7257,6 @@
       "onboard_time": 1756710801,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39392,
-      "num": 381589,
-      "word": "中国抗战为什么赢",
-      "onboard_time": 1756755854,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38923,
@@ -7377,6 +7529,14 @@
       "onboard_time": 1756610602,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25460,
+      "num": 108294,
+      "word": "汪顺全锦赛报项",
+      "onboard_time": 1756775299,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 24423,

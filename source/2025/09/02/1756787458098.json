@@ -1,0 +1,410 @@
+{
+  "runTime": 1756787458098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 654029,
+        "num": 1104644,
+        "word": "731把活人解剖浸在福尔马林做标本",
+        "onboard_time": 1756778719,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 435621,
+        "num": 435621,
+        "word": "武契奇抵京",
+        "onboard_time": 1756782261,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68979,
+        "num": 418949,
+        "word": "中国抗战为什么赢",
+        "onboard_time": 1756755854,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 405991,
+        "num": 405991,
+        "word": "洪秀柱将出席九三阅兵",
+        "onboard_time": 1756787122,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376684,
+        "num": 376684,
+        "word": "四万万中国人共同的名字",
+        "onboard_time": 1756780941,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360280,
+        "num": 360280,
+        "word": "天安门广场年号台整体亮相",
+        "onboard_time": 1756773261,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325884,
+        "num": 325884,
+        "word": "731为保细菌跳蚤存活制陶瓷炸弹",
+        "onboard_time": 1756780700,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325793,
+        "num": 325793,
+        "word": "日本签署投降书画面",
+        "onboard_time": 1756769779,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273734,
+        "num": 273734,
+        "word": "卢卡申科又带儿子来中国了",
+        "onboard_time": 1756786222,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53868,
+        "num": 273039,
+        "word": "天安门广场核心区最新航拍",
+        "onboard_time": 1756786941,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189231,
+        "num": 271950,
+        "word": "中俄元首会谈",
+        "onboard_time": 1756784481,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 976984,
+        "num": 270068,
+        "word": "微信聊天能发live图了",
+        "onboard_time": 1756783341,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 539392,
+        "num": 268147,
+        "word": "别把聊天截图发给你朋友好吗",
+        "onboard_time": 1756729762,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394762,
+        "num": 266106,
+        "word": "美8艘军舰4200名士兵逼近委内瑞拉",
+        "onboard_time": 1756784123,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295325,
+        "num": 265924,
+        "word": "儿童指纹水杯",
+        "onboard_time": 1756786401,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264535,
+        "num": 264535,
+        "word": "普京在天津的一天",
+        "onboard_time": 1756781540,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229043,
+        "num": 229043,
+        "word": "检阅部队",
+        "onboard_time": 1756771100,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216456,
+        "num": 216456,
+        "word": "光遇",
+        "onboard_time": 1756787241,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192851,
+        "num": 192851,
+        "word": "天安门广场观礼服务包里有什么",
+        "onboard_time": 1756782980,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192840,
+        "num": 192840,
+        "word": "孟子义李昀锐尚公主开机宴路透",
+        "onboard_time": 1756784362,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 759075,
+        "num": 192773,
+        "word": "沈佳润史上最无语原唱",
+        "onboard_time": 1756776322,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 554503,
+        "num": 192669,
+        "word": "黄金",
+        "onboard_time": 1756780700,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 446616,
+        "num": 192560,
+        "word": "信用卡要被年轻人抛弃了吗",
+        "onboard_time": 1756781240,
+        "rank": 22,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 343977,
+        "num": 192526,
+        "word": "金靖一开口迪丽热巴就控制不住了",
+        "onboard_time": 1756785202,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196700,
+        "num": 192361,
+        "word": "这是面试官听过最舒服的离职原因",
+        "onboard_time": 1756784961,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192342,
+        "num": 192342,
+        "word": "缅怀先烈铭记历史",
+        "onboard_time": 1756786941,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176038,
+        "num": 176038,
+        "word": "smart官宣两座回归",
+        "onboard_time": 1756785861,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175938,
+        "num": 175938,
+        "word": "新一代制式步枪亮相九三阅兵",
+        "onboard_time": 1756783161,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172761,
+        "num": 172761,
+        "word": "每天久坐超6小时的后果",
+        "onboard_time": 1756782921,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172478,
+        "num": 172478,
+        "word": "尹锡悦拒捕监控曝光",
+        "onboard_time": 1756784782,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170075,
+        "num": 170075,
+        "word": "一家十口送儿子上大学哭成泪人",
+        "onboard_time": 1756784961,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165630,
+        "num": 165630,
+        "word": "光遇复刻",
+        "onboard_time": 1756787182,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161341,
+        "num": 161341,
+        "word": "九三大阅兵倒计时1天",
+        "onboard_time": 1756785622,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159945,
+        "num": 159945,
+        "word": "陈赫遇上金靖不OK也得OK",
+        "onboard_time": 1756787241,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157206,
+        "num": 157206,
+        "word": "未定事件簿",
+        "onboard_time": 1756787303,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137542,
+        "num": 137542,
+        "word": "淀粉肠薯片",
+        "onboard_time": 1756786281,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136764,
+        "num": 136764,
+        "word": "请同事喝个奶茶都有SOP了",
+        "onboard_time": 1756785023,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134876,
+        "num": 134876,
+        "word": "少年歌行豆瓣评分上涨至8.4",
+        "onboard_time": 1756786702,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132926,
+        "num": 132926,
+        "word": "微信客服回应人去世朋友圈消失",
+        "onboard_time": 1756782319,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82145,
+        "num": 132770,
+        "word": "跑步机跑步和室外跑步的区别",
+        "onboard_time": 1756787122,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 132679,
+        "num": 132679,
+        "word": "日本投降签字仪式结束时间9时18分",
+        "onboard_time": 1756770079,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132641,
+        "num": 132641,
+        "word": "多国领导人乘高铁抵达北京",
+        "onboard_time": 1756738341,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130072,
+        "num": 130072,
+        "word": "3岁半宝宝110厘米58斤入学超显眼",
+        "onboard_time": 1756771222,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124752,
+        "num": 124752,
+        "word": "武契奇称中国是塞尔维亚最宝贵朋友",
+        "onboard_time": 1756787182,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123796,
+        "num": 123796,
+        "word": "猫 你不管管吗",
+        "onboard_time": 1756786522,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121738,
+        "num": 121738,
+        "word": "点外卖的最爽时刻",
+        "onboard_time": 1756784421,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116810,
+        "num": 116810,
+        "word": "明日方舟丰川祥子PV",
+        "onboard_time": 1756787303,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61901,
+        "num": 108641,
+        "word": "孙颖莎王楚钦樊振东出战乒超总决赛",
+        "onboard_time": 1756776141,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42861,
+        "num": 108358,
+        "word": "潘展乐全锦赛报名蝶泳",
+        "onboard_time": 1756787303,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25460,
+        "num": 108294,
+        "word": "汪顺全锦赛报项",
+        "onboard_time": 1756775299,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平首提全球治理倡议#"
+    }
+  }
+}
