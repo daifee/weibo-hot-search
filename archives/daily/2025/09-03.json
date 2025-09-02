@@ -1,6 +1,6 @@
 {
   "startTime": 1756830747288,
-  "endTime": 1756851722623,
+  "endTime": 1756852693012,
   "band_list": [
     {
       "raw_hot": 2507374,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272466,
+      "num": 111908,
+      "word": "这是阅兵进场最早撤场最晚的队伍",
+      "onboard_time": 1756825523,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 247271,
       "num": 109171,
       "word": "iPhone17Pro涨价",
@@ -99,20 +107,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 212145,
-      "num": 111908,
-      "word": "这是阅兵进场最早撤场最晚的队伍",
-      "onboard_time": 1756825523,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 211520,
       "num": 106724,
       "word": "吴磊李宛妲 剑来",
       "onboard_time": 1756821861,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206970,
+      "num": 206970,
+      "word": "阅兵直播",
+      "onboard_time": 1756851015,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 196663,
@@ -155,6 +163,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143488,
+      "num": 74949,
+      "word": "奶奶租房陪读退租屋子一尘不染",
+      "onboard_time": 1756833497,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139158,
+      "num": 79423,
+      "word": "上班的内容是集体观看阅兵",
+      "onboard_time": 1756851074,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137504,
       "num": 137504,
       "word": "巴基斯坦总理参观安贞医院",
@@ -171,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129058,
+      "num": 129058,
+      "word": "受阅部队已在长安街列阵",
+      "onboard_time": 1756852036,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124046,
       "num": 124046,
       "word": "洪秀柱说回台被批判无所谓",
@@ -179,20 +211,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 122507,
-      "num": 74949,
-      "word": "奶奶租房陪读退租屋子一尘不染",
-      "onboard_time": 1756833497,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120144,
       "num": 106715,
       "word": "生万物",
       "onboard_time": 1756829301,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115926,
+      "num": 115926,
+      "word": "1945年9月3日中国人永不能忘",
+      "onboard_time": 1756849814,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114233,
@@ -251,20 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88604,
-      "num": 88604,
-      "word": "阅兵直播",
-      "onboard_time": 1756851015,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 88393,
       "num": 106657,
       "word": "中国最帅天团亮相越南国庆阅兵",
       "onboard_time": 1756821142,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87767,
+      "num": 87767,
+      "word": "这就是又美又飒的中国仪仗女兵",
+      "onboard_time": 1756851074,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85545,
@@ -339,20 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72029,
-      "num": 72029,
-      "word": "1945年9月3日中国人永不能忘",
-      "onboard_time": 1756849814,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 71138,
       "num": 106645,
       "word": "五月天上海演唱会",
       "onboard_time": 1756824501,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68435,
+      "num": 42658,
+      "word": "印尼总统来华",
+      "onboard_time": 1756852457,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67391,
@@ -371,12 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64565,
-      "num": 38508,
-      "word": "上班的内容是集体观看阅兵",
-      "onboard_time": 1756851074,
-      "rank": 30,
+      "raw_hot": 65233,
+      "num": 65233,
+      "word": "国之重器亮相阅兵场",
+      "onboard_time": 1756851976,
+      "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64379,
+      "num": 49967,
+      "word": "黑河小学开学迎来大批俄罗斯学生",
+      "onboard_time": 1756826002,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62984,
@@ -443,20 +483,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 52918,
-      "num": 52918,
-      "word": "这就是又美又飒的中国仪仗女兵",
-      "onboard_time": 1756851074,
-      "rank": 11,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51373,
       "num": 106618,
       "word": "iPhone17ProMax量产机疑曝光",
       "onboard_time": 1756821262,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 50155,
+      "num": 69166,
+      "word": "河南小伙将在天安门广场升起国旗",
+      "onboard_time": 1756822642,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46942,
@@ -467,12 +507,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43263,
-      "num": 69166,
-      "word": "河南小伙将在天安门广场升起国旗",
-      "onboard_time": 1756822642,
-      "rank": 42,
-      "category": "国内时政"
+      "raw_hot": 44966,
+      "num": 106603,
+      "word": "国际乒联就主席选举结果发表声明",
+      "onboard_time": 1756828761,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 42953,
@@ -483,20 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39794,
-      "num": 106603,
-      "word": "国际乒联就主席选举结果发表声明",
-      "onboard_time": 1756828761,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 31463,
-      "num": 31463,
-      "word": "黑河小学开学迎来大批俄罗斯学生",
-      "onboard_time": 1756826002,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 29980,
+      "num": 36579,
+      "word": "抗日战争胜利八十周年",
+      "onboard_time": 1756852396,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29694,
@@ -513,6 +545,14 @@
       "onboard_time": 1756816341,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28542,
+      "num": 36576,
+      "word": "天安门放飞的和平鸽大多是赛级精英",
+      "onboard_time": 1756852036,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26205,
@@ -635,7 +675,7 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 8096,
+      "raw_hot": 8146,
       "num": 51181,
       "word": "理想汽车第二季度净利润11亿元",
       "onboard_time": 1756836496,
