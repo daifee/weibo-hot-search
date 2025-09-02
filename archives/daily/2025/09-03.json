@@ -1,6 +1,6 @@
 {
   "startTime": 1756830747288,
-  "endTime": 1756841815304,
+  "endTime": 1756844730807,
   "band_list": [
     {
       "raw_hot": 2507374,
@@ -512,6 +512,14 @@
       "word": "用声音铭记抗战历史",
       "onboard_time": 1756835895,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16367,
+      "num": 23028,
+      "word": "三兵是哪三兵",
+      "onboard_time": 1756843515,
+      "rank": 9,
       "category": "国内时政"
     },
     {
