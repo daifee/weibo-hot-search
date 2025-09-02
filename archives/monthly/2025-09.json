@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756795088805,
+  "endTime": 1756795903756,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -363,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 464174,
+      "num": 144836,
+      "word": "买5元树脂自行补牙致口腔变年糕",
+      "onboard_time": 1756791802,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 462106,
       "num": 479933,
       "word": "12306回应停发纸质车票",
@@ -419,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 429688,
+      "num": 163340,
+      "word": "日媒爆中国驱逐舰绕了日本一圈",
+      "onboard_time": 1756794320,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 429418,
       "num": 254473,
       "word": "盛世天下定档",
@@ -443,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420711,
+      "num": 174440,
+      "word": "现在喝奶茶也要配货了",
+      "onboard_time": 1756790121,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 418722,
       "num": 418722,
       "word": "幼儿园回应孩子1天20元吃龙虾鲍鱼",
@@ -457,14 +481,6 @@
       "onboard_time": 1756788561,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 414976,
-      "num": 142215,
-      "word": "买5元树脂自行补牙致口腔变年糕",
-      "onboard_time": 1756791802,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 403724,
@@ -699,6 +715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 314020,
+      "num": 314020,
+      "word": "九三上午纪念大会晚上文艺晚会",
+      "onboard_time": 1756791442,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 311729,
       "num": 124390,
       "word": "香港小姐",
@@ -729,14 +753,6 @@
       "onboard_time": 1756724481,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299870,
-      "num": 174440,
-      "word": "现在喝奶茶也要配货了",
-      "onboard_time": 1756790121,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 297933,
@@ -795,19 +811,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 283523,
+      "num": 174468,
+      "word": "安卓换iPhone后的尴尬瞬间",
+      "onboard_time": 1756790002,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 283432,
       "num": 283432,
       "word": "这是今天上午的天安门广场",
       "onboard_time": 1756713082,
       "rank": 6,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 277759,
-      "num": 277759,
-      "word": "九三上午纪念大会晚上文艺晚会",
-      "onboard_time": 1756791442,
-      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -923,27 +939,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257070,
-      "num": 174468,
-      "word": "安卓换iPhone后的尴尬瞬间",
-      "onboard_time": 1756790002,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 256624,
       "num": 252790,
       "word": "中国的安全感让外国记者震惊了",
       "onboard_time": 1756788083,
       "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 253325,
-      "num": 138762,
-      "word": "日媒爆中国驱逐舰绕了日本一圈",
-      "onboard_time": 1756794320,
-      "rank": 23,
       "category": "国内时政"
     },
     {
@@ -1177,6 +1177,14 @@
       "onboard_time": 1756782319,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 202535,
+      "num": 132935,
+      "word": "骆驼疯子",
+      "onboard_time": 1756795640,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 201292,
@@ -1441,6 +1449,14 @@
       "onboard_time": 1756785861,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 175217,
+      "num": 157129,
+      "word": "孩子们别怕 老师也刚学",
+      "onboard_time": 1756791981,
+      "rank": 25,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 174934,
@@ -1771,20 +1787,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 154241,
-      "num": 137123,
-      "word": "孩子们别怕 老师也刚学",
-      "onboard_time": 1756791981,
-      "rank": 25,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 154201,
       "num": 149610,
       "word": "人生最大的意义就是让自己快乐",
       "onboard_time": 1756778719,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152706,
+      "num": 152706,
+      "word": "众泰汽车年销量14辆",
+      "onboard_time": 1756795461,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 151780,
@@ -1897,6 +1913,14 @@
       "onboard_time": 1756774160,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146040,
+      "num": 146040,
+      "word": "女子回应随手写彩票中奖798万",
+      "onboard_time": 1756794682,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145451,
@@ -2099,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134273,
+      "num": 184776,
+      "word": "开学季同学们共同唱响不屈",
+      "onboard_time": 1756795521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134042,
       "num": 237201,
       "word": "杨幂小时代这梗过不去了",
@@ -2115,20 +2147,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 133290,
-      "num": 133290,
-      "word": "女子回应随手写彩票中奖798万",
-      "onboard_time": 1756794682,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132603,
       "num": 239105,
       "word": "孙颖莎的荣誉簿好长好长",
       "onboard_time": 1756710141,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132500,
+      "num": 132500,
+      "word": "8万只气球有6个颜色",
+      "onboard_time": 1756795521,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132448,
@@ -2345,6 +2377,14 @@
       "onboard_time": 1756686680,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123197,
+      "num": 123197,
+      "word": "戚薇夏家三千金爱情水印时候",
+      "onboard_time": 1756795041,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 122507,
@@ -3011,6 +3051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89700,
+      "num": 111807,
+      "word": "马斯克投的飞行汽车在机场试运营",
+      "onboard_time": 1756794981,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89527,
       "num": 105770,
       "word": "沈月干回婚庆摄影老本行",
@@ -3073,6 +3121,14 @@
       "onboard_time": 1756700902,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87883,
+      "num": 87883,
+      "word": "一个民族的反省远比另一个民族的宽容更重要",
+      "onboard_time": 1756792400,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87877,
@@ -3145,14 +3201,6 @@
       "onboard_time": 1756725442,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86326,
-      "num": 86326,
-      "word": "一个民族的反省远比另一个民族的宽容更重要",
-      "onboard_time": 1756792400,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 86237,
@@ -3435,14 +3483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77466,
-      "num": 84954,
-      "word": "戚薇夏家三千金爱情水印时候",
-      "onboard_time": 1756795041,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 77401,
       "num": 169485,
       "word": "奉行主权平等",
@@ -3691,6 +3731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 69037,
+      "num": 111805,
+      "word": "檀健次自曝在国外被偷经历",
+      "onboard_time": 1756794801,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68979,
       "num": 435404,
       "word": "中国抗战为什么赢",
@@ -3739,6 +3787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 66898,
+      "num": 84926,
+      "word": "王曼昱亚运会女单夺冠7周年",
+      "onboard_time": 1756793060,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66787,
       "num": 98390,
       "word": "李晋晔求问退出键在哪",
@@ -3777,14 +3833,6 @@
       "onboard_time": 1756769779,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 66069,
-      "num": 86737,
-      "word": "马斯克投的飞行汽车在机场试运营",
-      "onboard_time": 1756794981,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 66036,
@@ -3987,14 +4035,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 58652,
-      "num": 84926,
-      "word": "王曼昱亚运会女单夺冠7周年",
-      "onboard_time": 1756793060,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 58569,
       "num": 58569,
       "word": "无限暖暖",
@@ -4163,14 +4203,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 49423,
-      "num": 86457,
-      "word": "檀健次自曝在国外被偷经历",
-      "onboard_time": 1756794801,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 48427,
       "num": 61891,
       "word": "5岁半小狗捡瓶子日入50元",
@@ -4193,6 +4225,14 @@
       "onboard_time": 1756787962,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47647,
+      "num": 111843,
+      "word": "8万羽鸽子和8万只气球同时腾空",
+      "onboard_time": 1756795220,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46854,
