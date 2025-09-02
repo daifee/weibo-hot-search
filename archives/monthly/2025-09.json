@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756788289524,
+  "endTime": 1756790763094,
   "band_list": [
     {
       "raw_hot": 2477047,
@@ -227,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 688135,
+      "num": 265924,
+      "word": "儿童指纹水杯",
+      "onboard_time": 1756786401,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 612202,
       "num": 612202,
       "word": "莫迪发文感谢中方",
@@ -249,14 +257,6 @@
       "onboard_time": 1756630101,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 600713,
-      "num": 265924,
-      "word": "儿童指纹水杯",
-      "onboard_time": 1756786401,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 586846,
@@ -409,6 +409,14 @@
       "onboard_time": 1756782261,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 429418,
+      "num": 254473,
+      "word": "盛世天下定档",
+      "onboard_time": 1756787902,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 428629,
@@ -675,6 +683,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 307200,
+      "num": 307200,
+      "word": "普京抵达人民大会堂画面",
+      "onboard_time": 1756789882,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 303112,
       "num": 203967,
       "word": "鼻炎 记忆力下降",
@@ -760,6 +776,14 @@
       "word": "李幼斌和李云龙跨时空对话",
       "onboard_time": 1756773682,
       "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 275226,
+      "num": 284901,
+      "word": "天安门广场核心区最新航拍",
+      "onboard_time": 1756786941,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -875,12 +899,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 252790,
+      "num": 252790,
+      "word": "中国的安全感让外国记者震惊了",
+      "onboard_time": 1756788083,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 251310,
       "num": 177330,
       "word": "梓渝泥潭入围亚洲流行音乐大奖",
       "onboard_time": 1756682000,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 249242,
+      "num": 249242,
+      "word": "九三大阅兵倒计时1天",
+      "onboard_time": 1756785622,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 248996,
@@ -985,6 +1025,14 @@
       "onboard_time": 1756784961,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221797,
+      "num": 140082,
+      "word": "安卓换iPhone后的尴尬瞬间",
+      "onboard_time": 1756790002,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 221454,
@@ -1195,6 +1243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 191135,
+      "num": 160289,
+      "word": "连续一个月11点睡觉不玩手机后",
+      "onboard_time": 1756788923,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190452,
       "num": 190452,
       "word": "勒沃库森解雇滕哈赫",
@@ -1347,6 +1403,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 173804,
+      "num": 173804,
+      "word": "李沁花少防撞条",
+      "onboard_time": 1756789823,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172761,
       "num": 172761,
       "word": "每天久坐超6小时的后果",
@@ -1371,28 +1435,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172092,
+      "num": 140026,
+      "word": "现在喝奶茶也要配货了",
+      "onboard_time": 1756790121,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171929,
       "num": 107234,
       "word": "张晚意综艺魔童降世",
       "onboard_time": 1756718602,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171723,
-      "num": 171723,
-      "word": "中国的安全感让外国记者震惊了",
-      "onboard_time": 1756788083,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 171513,
-      "num": 171513,
-      "word": "盛世天下定档",
-      "onboard_time": 1756787902,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 171210,
@@ -1531,11 +1587,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 161341,
-      "num": 161341,
-      "word": "九三大阅兵倒计时1天",
-      "onboard_time": 1756785622,
-      "rank": 32,
+      "raw_hot": 161615,
+      "num": 306868,
+      "word": "预约阅兵直播",
+      "onboard_time": 1756788561,
+      "rank": 4,
       "category": "国内时政"
     },
     {
@@ -1601,6 +1657,14 @@
       "onboard_time": 1756651884,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157956,
+      "num": 157956,
+      "word": "偶尔运动和每天运动差别有多大",
+      "onboard_time": 1756789823,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157600,
@@ -1705,14 +1769,6 @@
       "onboard_time": 1756716802,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151446,
-      "num": 284901,
-      "word": "天安门广场核心区最新航拍",
-      "onboard_time": 1756786941,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 150342,
@@ -1971,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134707,
+      "num": 134707,
+      "word": "雀巢CEO因与下属恋爱被炒",
+      "onboard_time": 1756790002,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 134042,
       "num": 237201,
       "word": "杨幂小时代这梗过不去了",
@@ -2001,6 +2065,14 @@
       "onboard_time": 1756716021,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132287,
+      "num": 132287,
+      "word": "小狗对自己的身材一无所知",
+      "onboard_time": 1756787602,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 131749,
@@ -2115,6 +2187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127788,
+      "num": 162257,
+      "word": "孟子义李昀锐拿的是勾践剑吗",
+      "onboard_time": 1756787483,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127419,
       "num": 127419,
       "word": "迪丽热巴说尝试比完美更重要",
@@ -2145,6 +2225,14 @@
       "onboard_time": 1756778539,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125010,
+      "num": 125010,
+      "word": "今年最后一个长假将连休8天",
+      "onboard_time": 1756789223,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124752,
@@ -2227,12 +2315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118555,
-      "num": 162257,
-      "word": "孟子义李昀锐拿的是勾践剑吗",
-      "onboard_time": 1756787483,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 118101,
+      "num": 118101,
+      "word": "坐高铁因为好奇选了静音车厢",
+      "onboard_time": 1756789281,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 117909,
@@ -2387,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109462,
+      "num": 109462,
+      "word": "王一博演技不基础台词更不基础",
+      "onboard_time": 1756788502,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108811,
       "num": 394848,
       "word": "一部没有感情全是尺度的电影",
@@ -2465,6 +2561,14 @@
       "onboard_time": 1756685180,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106450,
+      "num": 106450,
+      "word": "十二封信",
+      "onboard_time": 1756790661,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 106440,
@@ -2804,7 +2908,7 @@
     },
     {
       "raw_hot": 90648,
-      "num": 117432,
+      "num": 119424,
       "word": "观礼服务包有3个颜色",
       "onboard_time": 1756778601,
       "rank": 39,
@@ -3907,6 +4011,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 49039,
+      "num": 122416,
+      "word": "大猪蹄子博物馆",
+      "onboard_time": 1756790722,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48427,
       "num": 61891,
       "word": "5岁半小狗捡瓶子日入50元",
@@ -4233,6 +4345,14 @@
       "onboard_time": 1756648822,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19809,
+      "num": 105267,
+      "word": "桑乔租借加盟维拉",
+      "onboard_time": 1756789042,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 19629,
