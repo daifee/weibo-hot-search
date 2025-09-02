@@ -1,0 +1,410 @@
+{
+  "runTime": 1756785151473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 622722,
+        "num": 1099635,
+        "word": "731把活人解剖浸在福尔马林做标本",
+        "onboard_time": 1756778719,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 437877,
+        "num": 437877,
+        "word": "武契奇抵京",
+        "onboard_time": 1756782261,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39392,
+        "num": 381589,
+        "word": "中国抗战为什么赢",
+        "onboard_time": 1756755854,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 346838,
+        "num": 346838,
+        "word": "天安门广场年号台整体亮相",
+        "onboard_time": 1756773261,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114371,
+        "num": 333285,
+        "word": "中俄元首会谈",
+        "onboard_time": 1756784481,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322871,
+        "num": 322871,
+        "word": "四万万中国人共同的名字",
+        "onboard_time": 1756780941,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320339,
+        "num": 320339,
+        "word": "日本签署投降书画面",
+        "onboard_time": 1756769779,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317651,
+        "num": 317651,
+        "word": "731为保细菌跳蚤存活制陶瓷炸弹",
+        "onboard_time": 1756780700,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118895,
+        "num": 316901,
+        "word": "他们的青春早已融进祖国的山河",
+        "onboard_time": 1756783400,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28999,
+        "num": 314878,
+        "word": "八路军刺刀拼弯了就用枪托砸",
+        "onboard_time": 1756744757,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 949043,
+        "num": 313363,
+        "word": "普京专车换上中国车牌还有2个8",
+        "onboard_time": 1756783641,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 895559,
+        "num": 312099,
+        "word": "微信聊天能发live图了",
+        "onboard_time": 1756783341,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 662580,
+        "num": 311068,
+        "word": "别把聊天截图发给你朋友好吗",
+        "onboard_time": 1756729762,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309801,
+        "num": 309801,
+        "word": "美8艘军舰4200名士兵逼近委内瑞拉",
+        "onboard_time": 1756784123,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290347,
+        "num": 290347,
+        "word": "检阅部队",
+        "onboard_time": 1756771100,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 274253,
+        "num": 274253,
+        "word": "普京在天津的一天",
+        "onboard_time": 1756781540,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268670,
+        "num": 268670,
+        "word": "新一代制式步枪亮相九三阅兵",
+        "onboard_time": 1756783161,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205087,
+        "num": 205087,
+        "word": "多国领导人乘高铁抵达北京",
+        "onboard_time": 1756738341,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185210,
+        "num": 185210,
+        "word": "日本投降签字仪式结束时间9时18分",
+        "onboard_time": 1756770079,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149407,
+        "num": 185059,
+        "word": "孟子义李昀锐尚公主开机宴路透",
+        "onboard_time": 1756784362,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 862460,
+        "num": 182335,
+        "word": "沈佳润史上最无语原唱",
+        "onboard_time": 1756776322,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 764747,
+        "num": 180010,
+        "word": "黄金",
+        "onboard_time": 1756780700,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 687666,
+        "num": 178729,
+        "word": "信用卡要被年轻人抛弃了吗",
+        "onboard_time": 1756781240,
+        "rank": 22,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 177106,
+        "num": 177106,
+        "word": "点外卖的最爽时刻",
+        "onboard_time": 1756784421,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173978,
+        "num": 173978,
+        "word": "微信客服回应人去世朋友圈消失",
+        "onboard_time": 1756782319,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161331,
+        "num": 161331,
+        "word": "每天久坐超6小时的后果",
+        "onboard_time": 1756782921,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152329,
+        "num": 152329,
+        "word": "3岁半宝宝110厘米58斤入学超显眼",
+        "onboard_time": 1756771222,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150501,
+        "num": 150501,
+        "word": "一家十口送儿子上大学哭成泪人",
+        "onboard_time": 1756784961,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138490,
+        "num": 138490,
+        "word": "天安门广场观礼服务包里有什么",
+        "onboard_time": 1756782980,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62747,
+        "num": 133152,
+        "word": "苏醒回应歌好听但难唱",
+        "onboard_time": 1756785023,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223293,
+        "num": 132865,
+        "word": "这是面试官听过最舒服的离职原因",
+        "onboard_time": 1756784961,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201292,
+        "num": 132732,
+        "word": "九尾吃上冰淇淋了",
+        "onboard_time": 1756784362,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132311,
+        "num": 132311,
+        "word": "尹锡悦拒捕监控曝光",
+        "onboard_time": 1756784782,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132174,
+        "num": 132174,
+        "word": "外国记者感叹中国治安",
+        "onboard_time": 1756780700,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131186,
+        "num": 131186,
+        "word": "发明同车换乘的人真是个天才",
+        "onboard_time": 1756771460,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128652,
+        "num": 128652,
+        "word": "印使馆发布莫迪在天津受热烈欢迎视频",
+        "onboard_time": 1756783760,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127118,
+        "num": 127118,
+        "word": "喀什古城官宣杀青",
+        "onboard_time": 1756778060,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112655,
+        "num": 112655,
+        "word": "鼻炎 记忆力下降",
+        "onboard_time": 1756763835,
+        "rank": 37,
+        "category": "综艺,健康医疗"
+      },
+      {
+        "raw_hot": 81806,
+        "num": 112327,
+        "word": "请同事喝个奶茶都有SOP了",
+        "onboard_time": 1756785023,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112172,
+        "num": 112172,
+        "word": "金饰克价涨到1041元",
+        "onboard_time": 1756779440,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112134,
+        "num": 112134,
+        "word": "王源00后鸟巢第一人",
+        "onboard_time": 1756777879,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110667,
+        "num": 110667,
+        "word": "网友称收到生育补贴",
+        "onboard_time": 1756773441,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109387,
+        "num": 109387,
+        "word": "中英日三语种主题片胜利",
+        "onboard_time": 1756774942,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105802,
+        "num": 105802,
+        "word": "19450902日本签署投降书",
+        "onboard_time": 1756769118,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104242,
+        "num": 104242,
+        "word": "大阅兵中国军人准备好了",
+        "onboard_time": 1756782682,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96143,
+        "num": 104200,
+        "word": "养到了像素风小狗",
+        "onboard_time": 1756784721,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93604,
+        "num": 104156,
+        "word": "人生最大的意义就是让自己快乐",
+        "onboard_time": 1756778719,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72338,
+        "num": 104093,
+        "word": "孙颖莎王楚钦樊振东出战乒超总决赛",
+        "onboard_time": 1756776141,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26815,
+        "num": 104086,
+        "word": "俱乐部主帅谈樊振东德甲首秀失利",
+        "onboard_time": 1756774880,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24423,
+        "num": 104011,
+        "word": "美网",
+        "onboard_time": 1756770740,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平首提全球治理倡议#"
+    }
+  }
+}
