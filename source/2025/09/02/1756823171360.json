@@ -1,0 +1,410 @@
+{
+  "runTime": 1756823171360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2916325,
+        "num": 2916325,
+        "word": "金正恩抵京",
+        "onboard_time": 1756820841,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1147455,
+        "num": 1147455,
+        "word": "九三阅兵超全观看指南",
+        "onboard_time": 1756809202,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53168,
+        "num": 1146720,
+        "word": "四万万中国人共同的名字",
+        "onboard_time": 1756780941,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1146534,
+        "num": 1146534,
+        "word": "金正恩出席抗战胜利纪念活动",
+        "onboard_time": 1756819103,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375598,
+        "num": 375598,
+        "word": "她是新中国第一位女将军",
+        "onboard_time": 1756811302,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375028,
+        "num": 375028,
+        "word": "中国最帅天团亮相越南国庆阅兵",
+        "onboard_time": 1756821142,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331326,
+        "num": 331326,
+        "word": "九三盛大阅兵明天见",
+        "onboard_time": 1756807102,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277965,
+        "num": 277965,
+        "word": "中国排面亮相越南国庆阅兵",
+        "onboard_time": 1756812861,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124084,
+        "num": 272147,
+        "word": "不敢想象这70分钟有多燃",
+        "onboard_time": 1756822583,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17805,
+        "num": 269012,
+        "word": "纪念抗战胜利80周年主题演讲",
+        "onboard_time": 1756798160,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 306901,
+        "num": 268976,
+        "word": "幼儿园即将迎来一颗魔丸",
+        "onboard_time": 1756811001,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268611,
+        "num": 268611,
+        "word": "新闻联播",
+        "onboard_time": 1756816462,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259425,
+        "num": 259425,
+        "word": "斯洛伐克总理说来华是为了表达敬意",
+        "onboard_time": 1756816761,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246946,
+        "num": 246946,
+        "word": "微博上线九三纪念专属昵称icon",
+        "onboard_time": 1756807822,
+        "rank": 13,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 222240,
+        "num": 222240,
+        "word": "日本破防称抗战阅兵是仇恨教育",
+        "onboard_time": 1756806081,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219347,
+        "num": 219347,
+        "word": "解放军越南阅兵外国方队打头阵",
+        "onboard_time": 1756809620,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186978,
+        "num": 186978,
+        "word": "梅逐雨成了猫公",
+        "onboard_time": 1756816761,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164496,
+        "num": 164496,
+        "word": "微博上线九三纪念专属点赞特效",
+        "onboard_time": 1756816702,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157008,
+        "num": 157008,
+        "word": "子夜归大结局",
+        "onboard_time": 1756808841,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151078,
+        "num": 151078,
+        "word": "雅漾喷雾成分是水",
+        "onboard_time": 1756807701,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 346543,
+        "num": 149729,
+        "word": "3岁女童身高1米1体重58斤",
+        "onboard_time": 1756818742,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337290,
+        "num": 148597,
+        "word": "请假看阅兵",
+        "onboard_time": 1756803082,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274074,
+        "num": 148392,
+        "word": "吴磊李宛妲 剑来",
+        "onboard_time": 1756821861,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147333,
+        "num": 147333,
+        "word": "iG选择EDG",
+        "onboard_time": 1756816341,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242447,
+        "num": 146888,
+        "word": "睡眠不足和睡眠充足有什么区别",
+        "onboard_time": 1756815802,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186503,
+        "num": 146158,
+        "word": "iPhone17ProMax量产机疑曝光",
+        "onboard_time": 1756821262,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159409,
+        "num": 146137,
+        "word": "他花我的社保我没意见",
+        "onboard_time": 1756812322,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144720,
+        "num": 144720,
+        "word": "敬山水",
+        "onboard_time": 1756821324,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138308,
+        "num": 138308,
+        "word": "不运动变瘦的7个习惯",
+        "onboard_time": 1756809741,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137886,
+        "num": 137886,
+        "word": "国民党主席称不禁止个人去九三阅兵",
+        "onboard_time": 1756814422,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132659,
+        "num": 132659,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1756799482,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129518,
+        "num": 129518,
+        "word": "岳云鹏因灶台脏淘汰588元扬州炒饭",
+        "onboard_time": 1756802601,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128506,
+        "num": 128506,
+        "word": "武祯怀孕了",
+        "onboard_time": 1756817122,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111236,
+        "num": 128472,
+        "word": "李斌称蔚来成本优化效果显著",
+        "onboard_time": 1756822583,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109233,
+        "num": 128365,
+        "word": "中国科学家首次发现冰弯曲可发电",
+        "onboard_time": 1756819763,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 108696,
+        "num": 128191,
+        "word": "阅兵剧透来了",
+        "onboard_time": 1756804822,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108516,
+        "num": 128084,
+        "word": "中国对俄罗斯试行免签",
+        "onboard_time": 1756798640,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101689,
+        "num": 127955,
+        "word": "河南小伙将在天安门广场升起国旗",
+        "onboard_time": 1756822642,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101523,
+        "num": 127869,
+        "word": "阅兵现场可容纳超5万人观礼",
+        "onboard_time": 1756821082,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93455,
+        "num": 127777,
+        "word": "螃蟹低至10元一斤",
+        "onboard_time": 1756813041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86156,
+        "num": 127691,
+        "word": "普京离开人民大会堂",
+        "onboard_time": 1756808361,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82462,
+        "num": 127501,
+        "word": "蔚来二季度亏损50亿元",
+        "onboard_time": 1756818381,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 81115,
+        "num": 127463,
+        "word": "子夜归番外",
+        "onboard_time": 1756817543,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80648,
+        "num": 127339,
+        "word": "随餐喝水和不喝水的区别",
+        "onboard_time": 1756802902,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79767,
+        "num": 127221,
+        "word": "让人变快乐的8个微习惯",
+        "onboard_time": 1756818441,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77373,
+        "num": 127110,
+        "word": "张远披哥四公又唱跳了",
+        "onboard_time": 1756820482,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70314,
+        "num": 126936,
+        "word": "贾一凡求石宇奇别再哭了",
+        "onboard_time": 1756823125,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37711,
+        "num": 126848,
+        "word": "宇树科技宣布将在四季度提交IPO申请",
+        "onboard_time": 1756805721,
+        "rank": 47,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 29209,
+        "num": 126747,
+        "word": "陈雨菲伤情诊断公布",
+        "onboard_time": 1756808061,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21549,
+        "num": 126612,
+        "word": "明日方舟丰川祥子皮肤",
+        "onboard_time": 1756806801,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行会谈#"
+    }
+  }
+}

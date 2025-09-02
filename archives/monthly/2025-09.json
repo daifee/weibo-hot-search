@@ -1,7 +1,15 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756820840736,
+  "endTime": 1756823171360,
   "band_list": [
+    {
+      "raw_hot": 2916325,
+      "num": 2916325,
+      "word": "金正恩抵京",
+      "onboard_time": 1756820841,
+      "rank": 0,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 2477047,
       "num": 2477047,
@@ -67,7 +75,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1144445,
+      "raw_hot": 1147455,
       "num": 1160061,
       "word": "九三阅兵超全观看指南",
       "onboard_time": 1756809202,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 531892,
-      "num": 241321,
+      "num": 268976,
       "word": "幼儿园即将迎来一颗魔丸",
       "onboard_time": 1756811001,
       "rank": 30,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 376684,
-      "num": 762344,
+      "num": 1146720,
       "word": "四万万中国人共同的名字",
       "onboard_time": 1756780941,
       "rank": 5,
@@ -769,6 +777,14 @@
       "onboard_time": 1756787722,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 375028,
+      "num": 375028,
+      "word": "中国最帅天团亮相越南国庆阅兵",
+      "onboard_time": 1756821142,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 370390,
@@ -819,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346543,
+      "num": 166561,
+      "word": "3岁女童身高1米1体重58斤",
+      "onboard_time": 1756818742,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343403,
       "num": 402375,
       "word": "全款买房住5年后真房主找来了",
@@ -864,6 +888,14 @@
       "word": "天安门广场核心区最新航拍",
       "onboard_time": 1756786941,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 331326,
+      "num": 331326,
+      "word": "九三盛大阅兵明天见",
+      "onboard_time": 1756807102,
+      "rank": 44,
       "category": "国内时政"
     },
     {
@@ -1051,12 +1083,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 278700,
-      "num": 278700,
-      "word": "九三盛大阅兵明天见",
-      "onboard_time": 1756807102,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 277965,
+      "num": 277965,
+      "word": "中国排面亮相越南国庆阅兵",
+      "onboard_time": 1756812861,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 276351,
@@ -1067,20 +1099,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 276245,
-      "num": 166561,
-      "word": "3岁女童身高1米1体重58斤",
-      "onboard_time": 1756818742,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 275923,
       "num": 275923,
       "word": "李幼斌和李云龙跨时空对话",
       "onboard_time": 1756773682,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 274074,
+      "num": 148392,
+      "word": "吴磊李宛妲 剑来",
+      "onboard_time": 1756821861,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 274048,
@@ -1211,8 +1243,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258642,
-      "num": 258642,
+      "raw_hot": 259425,
+      "num": 259425,
       "word": "斯洛伐克总理说来华是为了表达敬意",
       "onboard_time": 1756816761,
       "rank": 18,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1756723160,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246946,
+      "num": 246946,
+      "word": "微博上线九三纪念专属昵称icon",
+      "onboard_time": 1756807822,
+      "rank": 8,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 243992,
@@ -1332,7 +1372,7 @@
     },
     {
       "raw_hot": 229915,
-      "num": 266936,
+      "num": 269012,
       "word": "纪念抗战胜利80周年主题演讲",
       "onboard_time": 1756798160,
       "rank": 7,
@@ -1411,6 +1451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 219347,
+      "num": 219347,
+      "word": "解放军越南阅兵外国方队打头阵",
+      "onboard_time": 1756809620,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216456,
       "num": 216456,
       "word": "光遇",
@@ -1441,14 +1489,6 @@
       "onboard_time": 1756706001,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211483,
-      "num": 245955,
-      "word": "微博上线九三纪念专属昵称icon",
-      "onboard_time": 1756807822,
-      "rank": 8,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 210443,
@@ -1739,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186503,
+      "num": 146158,
+      "word": "iPhone17ProMax量产机疑曝光",
+      "onboard_time": 1756821262,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185877,
       "num": 185877,
       "word": "巴基斯坦总理在华表态",
@@ -2017,6 +2065,14 @@
       "onboard_time": 1756690398,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164496,
+      "num": 191836,
+      "word": "微博上线九三纪念专属点赞特效",
+      "onboard_time": 1756816702,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164492,
@@ -2355,14 +2411,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 148611,
-      "num": 210325,
-      "word": "解放军越南阅兵外国方队打头阵",
-      "onboard_time": 1756809620,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148358,
       "num": 316901,
       "word": "他们的青春早已融进祖国的山河",
@@ -2625,14 +2673,6 @@
       "onboard_time": 1756786702,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134560,
-      "num": 191836,
-      "word": "微博上线九三纪念专属点赞特效",
-      "onboard_time": 1756816702,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134273,
@@ -2913,6 +2953,14 @@
       "onboard_time": 1756803982,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 124084,
+      "num": 272147,
+      "word": "不敢想象这70分钟有多燃",
+      "onboard_time": 1756822583,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123282,
@@ -3227,6 +3275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 111236,
+      "num": 128472,
+      "word": "李斌称蔚来成本优化效果显著",
+      "onboard_time": 1756822583,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 111198,
       "num": 111198,
       "word": "王一博演技不基础台词更不基础",
@@ -3451,6 +3507,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101689,
+      "num": 127955,
+      "word": "河南小伙将在天安门广场升起国旗",
+      "onboard_time": 1756822642,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 101523,
+      "num": 127869,
+      "word": "阅兵现场可容纳超5万人观礼",
+      "onboard_time": 1756821082,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101472,
       "num": 325652,
       "word": "女生独居冷知识",
@@ -3585,14 +3657,6 @@
       "onboard_time": 1756722441,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97829,
-      "num": 210455,
-      "word": "中国排面亮相越南国庆阅兵",
-      "onboard_time": 1756812861,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97539,
@@ -4179,6 +4243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82462,
+      "num": 134466,
+      "word": "蔚来二季度亏损50亿元",
+      "onboard_time": 1756818381,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 82428,
       "num": 191787,
       "word": "詹姆斯启程上海",
@@ -4193,14 +4265,6 @@
       "onboard_time": 1756792161,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82137,
-      "num": 134466,
-      "word": "蔚来二季度亏损50亿元",
-      "onboard_time": 1756818381,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 81889,
@@ -4379,6 +4443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77373,
+      "num": 133318,
+      "word": "张远披哥四公又唱跳了",
+      "onboard_time": 1756820482,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77328,
       "num": 84942,
       "word": "恋与深空",
@@ -4441,14 +4513,6 @@
       "onboard_time": 1756659857,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76070,
-      "num": 133318,
-      "word": "张远披哥四公又唱跳了",
-      "onboard_time": 1756820482,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 75718,
@@ -4625,6 +4689,14 @@
       "onboard_time": 1756651763,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70314,
+      "num": 126936,
+      "word": "贾一凡求石宇奇别再哭了",
+      "onboard_time": 1756823125,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 70202,
