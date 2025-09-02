@@ -1,0 +1,410 @@
+{
+  "runTime": 1756827731731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 742631,
+        "num": 1118821,
+        "word": "九三阅兵超全观看指南",
+        "onboard_time": 1756809202,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 614289,
+        "num": 614289,
+        "word": "为什么选择在9月3日举行阅兵",
+        "onboard_time": 1756824864,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46415,
+        "num": 529710,
+        "word": "胜利日大阅兵",
+        "onboard_time": 1756825643,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 474649,
+        "num": 474649,
+        "word": "不敢想象这70分钟有多燃",
+        "onboard_time": 1756822583,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449997,
+        "num": 449997,
+        "word": "天安门广场最新画面",
+        "onboard_time": 1756825643,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 382013,
+        "num": 382013,
+        "word": "九三阅兵怎么看",
+        "onboard_time": 1756824923,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 377880,
+        "num": 377880,
+        "word": "受阅部队将在全新BGM中霸气登场",
+        "onboard_time": 1756824143,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273103,
+        "num": 273103,
+        "word": "中国最帅天团亮相越南国庆阅兵",
+        "onboard_time": 1756821142,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217028,
+        "num": 217028,
+        "word": "中国排面亮相越南国庆阅兵",
+        "onboard_time": 1756812861,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134521,
+        "num": 209190,
+        "word": "阅兵新装备集中亮相",
+        "onboard_time": 1756826603,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232000,
+        "num": 207392,
+        "word": "国际乒联主席胜诉",
+        "onboard_time": 1756823783,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201495,
+        "num": 201495,
+        "word": "微博上线九三纪念专属昵称icon",
+        "onboard_time": 1756807822,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 190987,
+        "num": 190987,
+        "word": "巴基斯坦总理参观安贞医院",
+        "onboard_time": 1756825523,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184701,
+        "num": 184701,
+        "word": "乌合麒麟新画败犬降服之时",
+        "onboard_time": 1756826962,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 181671,
+        "num": 181671,
+        "word": "洪秀柱说回台被批判无所谓",
+        "onboard_time": 1756825762,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178871,
+        "num": 178871,
+        "word": "她是新中国第一位女将军",
+        "onboard_time": 1756811302,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177031,
+        "num": 177031,
+        "word": "幼儿园即将迎来一颗魔丸",
+        "onboard_time": 1756811001,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175071,
+        "num": 175071,
+        "word": "北京夜景",
+        "onboard_time": 1756826182,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154047,
+        "num": 175048,
+        "word": "金正恩出席抗战胜利纪念活动",
+        "onboard_time": 1756819103,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132498,
+        "num": 175005,
+        "word": "九三盛大阅兵明天见",
+        "onboard_time": 1756807102,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22069,
+        "num": 174936,
+        "word": "抗战老兵提起战争经历时的眼神",
+        "onboard_time": 1756796001,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 460402,
+        "num": 174895,
+        "word": "吴磊李宛妲 剑来",
+        "onboard_time": 1756821861,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419015,
+        "num": 174878,
+        "word": "全红婵哥哥参加厨综遗憾落选",
+        "onboard_time": 1756824322,
+        "rank": 22,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 34907,
+        "num": 174816,
+        "word": "为国牺牲烈士每10人只1人留下姓名",
+        "onboard_time": 1756825883,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316152,
+        "num": 174780,
+        "word": "我国已划转万亿国资充实社保基金",
+        "onboard_time": 1756824742,
+        "rank": 24,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 160442,
+        "num": 174731,
+        "word": "请假看阅兵",
+        "onboard_time": 1756803082,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132388,
+        "num": 174697,
+        "word": "杭州西湖管理方太严谨了",
+        "onboard_time": 1756825103,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129289,
+        "num": 174648,
+        "word": "日本破防称抗战阅兵是仇恨教育",
+        "onboard_time": 1756806081,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123666,
+        "num": 174576,
+        "word": "微博上线九三纪念专属点赞特效",
+        "onboard_time": 1756816702,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25451,
+        "num": 174543,
+        "word": "30组数据重温新中国16次阅兵",
+        "onboard_time": 1756827082,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119604,
+        "num": 174475,
+        "word": "子夜归大结局",
+        "onboard_time": 1756808841,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113218,
+        "num": 174470,
+        "word": "iPhone17ProMax量产机疑曝光",
+        "onboard_time": 1756821262,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112620,
+        "num": 174381,
+        "word": "这是阅兵进场最早撤场最晚的队伍",
+        "onboard_time": 1756825523,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109869,
+        "num": 174351,
+        "word": "阅兵观礼服务包里装了12件物品",
+        "onboard_time": 1756827322,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108510,
+        "num": 174297,
+        "word": "日本历史教科书竟这样教侵华战争",
+        "onboard_time": 1756825283,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101833,
+        "num": 174270,
+        "word": "五月天上海演唱会",
+        "onboard_time": 1756824501,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92131,
+        "num": 174228,
+        "word": "敬山水",
+        "onboard_time": 1756821324,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87413,
+        "num": 174149,
+        "word": "他花我的社保我没意见",
+        "onboard_time": 1756812322,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1452373,
+        "num": 174137,
+        "word": "金正恩抵京",
+        "onboard_time": 1756820841,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85913,
+        "num": 174086,
+        "word": "国民党主席称不禁止个人去九三阅兵",
+        "onboard_time": 1756814422,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85795,
+        "num": 174027,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1756799482,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82825,
+        "num": 173987,
+        "word": "梅逐雨成了猫公",
+        "onboard_time": 1756816761,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82400,
+        "num": 173926,
+        "word": "黑河小学开学迎来大批俄罗斯学生",
+        "onboard_time": 1756826002,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81966,
+        "num": 173875,
+        "word": "iPhone17系列或迈入无卡时代",
+        "onboard_time": 1756826962,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 78035,
+        "num": 173849,
+        "word": "暑期档长剧有效播放TOP10",
+        "onboard_time": 1756825942,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76656,
+        "num": 173810,
+        "word": "不运动变瘦的7个习惯",
+        "onboard_time": 1756809741,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 72778,
+        "num": 173774,
+        "word": "蛋仔派对",
+        "onboard_time": 1756827262,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167255,
+        "num": 173709,
+        "word": "睡眠不足和睡眠充足有什么区别",
+        "onboard_time": 1756815802,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71718,
+        "num": 173658,
+        "word": "解放军越南阅兵外国方队打头阵",
+        "onboard_time": 1756809620,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21957,
+        "num": 173628,
+        "word": "宇树科技宣布将在四季度提交IPO申请",
+        "onboard_time": 1756805721,
+        "rank": 49,
+        "category": "财经,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述的伟大抗战精神#"
+    }
+  }
+}
