@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/03 07:36:32
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/03 09:46:45
 </p>
 </blockquote>
 <p>
@@ -191,6 +191,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%B5%9B%E7%BA%B6%E5%8E%BB%E4%B8%96%23" target="weibo">
 金赛纶去世（热度：17381826）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E7%9B%9B%E5%A4%A7%E9%98%85%E5%85%B5%23" target="weibo">
+九三盛大阅兵（热度：17274745）
 </a>
 </li>
 
@@ -789,12 +795,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E7%9B%9B%E5%A4%A7%E9%98%85%E5%85%B5%23" target="weibo">
-九三盛大阅兵（热度：10192100）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%23" target="weibo">
 台湾地震（热度：10158319）
 </a>
@@ -1259,6 +1259,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E7%88%B8%E7%88%B8%E5%8F%91%E6%96%87%23" target="weibo">
 黄杨钿甜爸爸发文（热度：7112313）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%9B%B4%E6%92%AD%23" target="weibo">
+阅兵直播（热度：7090885）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%9B%A2%E7%A5%A8%E6%95%B0%E4%B9%9F%E5%A4%AA%E4%BD%8E%E4%BA%86%23" target="weibo">
 李晟团票数也太低了（热度：4161483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%AE%98%E5%8D%9A%E5%88%A0%E9%99%A4%E8%B5%B4%E5%B1%B1%E6%B5%B7%23" target="weibo">
-人民日报官博删除赴山海（热度：4160078）
 </a>
 </li>
 

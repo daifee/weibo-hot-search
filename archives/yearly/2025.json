@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756856192776,
+  "endTime": 1756864005537,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -241,6 +241,14 @@
       "onboard_time": 1739707158,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17274745,
+      "num": 17274745,
+      "word": "九三盛大阅兵",
+      "onboard_time": 1750730722,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16802991,
@@ -1035,14 +1043,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10192100,
-      "num": 11107284,
-      "word": "九三盛大阅兵",
-      "onboard_time": 1750730722,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 10158319,
       "num": 10158319,
       "word": "台湾地震",
@@ -1665,6 +1665,14 @@
       "onboard_time": 1747395141,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7090885,
+      "num": 7090885,
+      "word": "阅兵直播",
+      "onboard_time": 1756851015,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7073696,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1749301944,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4160078,
-      "num": 853721,
-      "word": "人民日报官博删除赴山海",
-      "onboard_time": 1746846931,
-      "rank": 3,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
