@@ -1,0 +1,410 @@
+{
+  "runTime": 1756873779051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12263683,
+        "num": 12263683,
+        "word": "东风61",
+        "onboard_time": 1756863022,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12136388,
+        "num": 11760549,
+        "word": "新华社出图",
+        "onboard_time": 1756869992,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316116,
+        "num": 4848114,
+        "word": "党和人民完全可以信赖解放军",
+        "onboard_time": 1756872692,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6226177,
+        "num": 6226177,
+        "word": "东风5C打击范围覆盖全球",
+        "onboard_time": 1756866035,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3814685,
+        "num": 3814685,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8443240,
+        "num": 8443240,
+        "word": "法新社出图",
+        "onboard_time": 1756868440,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3462343,
+        "num": 3462343,
+        "word": "好帅的女机长",
+        "onboard_time": 1756870171,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2387447,
+        "num": 2387447,
+        "word": "阅兵直播",
+        "onboard_time": 1756851015,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2319523,
+        "num": 2319523,
+        "word": "放飞和平鸽",
+        "onboard_time": 1756866576,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572762,
+        "num": 2203248,
+        "word": "军事航天部队方队首次亮相",
+        "onboard_time": 1756872813,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2100810,
+        "num": 2100810,
+        "word": "新华社秒了",
+        "onboard_time": 1756870831,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1724050,
+        "num": 1724050,
+        "word": "99B坦克率先亮相",
+        "onboard_time": 1756865614,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1521038,
+        "num": 1521038,
+        "word": "雷军晒观礼请柬",
+        "onboard_time": 1756871011,
+        "rank": 12,
+        "category": "互联网,国内时政"
+      },
+      {
+        "raw_hot": 1441747,
+        "num": 1441747,
+        "word": "长剑1000导弹",
+        "onboard_time": 1756872272,
+        "rank": 13,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 1182226,
+        "num": 1182226,
+        "word": "阅兵车牌号是1945和2025",
+        "onboard_time": 1756865254,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1173274,
+        "num": 1173274,
+        "word": "军迷变军盲",
+        "onboard_time": 1756864345,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1144476,
+        "num": 1144476,
+        "word": "女兵方阵 飒",
+        "onboard_time": 1756863269,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1047229,
+        "num": 1047229,
+        "word": "看战机眼睛不够用了",
+        "onboard_time": 1756867199,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1032866,
+        "num": 1032866,
+        "word": "咱家飞机再也不用飞两遍",
+        "onboard_time": 1756867492,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1029194,
+        "num": 1029194,
+        "word": "受阅女民兵着装",
+        "onboard_time": 1756862966,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1369208,
+        "num": 1028526,
+        "word": "郭帆 改剧本",
+        "onboard_time": 1756869273,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 976246,
+        "num": 976246,
+        "word": "耿爽发言含金量",
+        "onboard_time": 1756873292,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 952961,
+        "num": 952961,
+        "word": "阅兵飞机",
+        "onboard_time": 1756864584,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 843071,
+        "num": 843071,
+        "word": "这句覆盖全球给我听燃了",
+        "onboard_time": 1756870831,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 718435,
+        "num": 718435,
+        "word": "机器狼",
+        "onboard_time": 1756866781,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 630038,
+        "num": 630038,
+        "word": "无人机 科幻",
+        "onboard_time": 1756865915,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 617746,
+        "num": 617746,
+        "word": "老战士起身敬礼场面看哭了",
+        "onboard_time": 1756872092,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 611999,
+        "num": 611999,
+        "word": "女民兵受阅前互相整理戎装",
+        "onboard_time": 1756872632,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 592587,
+        "num": 592587,
+        "word": "这是您浴血守卫的山河",
+        "onboard_time": 1756870352,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 560202,
+        "num": 560202,
+        "word": "运20 胖妞",
+        "onboard_time": 1756873592,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 733739,
+        "num": 558797,
+        "word": "杜江现场观礼",
+        "onboard_time": 1756863022,
+        "rank": 30,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 557356,
+        "num": 557356,
+        "word": "鸠山由纪夫来了",
+        "onboard_time": 1756860987,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 544588,
+        "num": 544588,
+        "word": "今天14亿中国人都是护旗手",
+        "onboard_time": 1756864404,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 541827,
+        "num": 541827,
+        "word": "激光武器",
+        "onboard_time": 1756865975,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 537826,
+        "num": 537826,
+        "word": "郑钦文张雨霏坐一起观礼",
+        "onboard_time": 1756870411,
+        "rank": 34,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 498445,
+        "num": 498445,
+        "word": "100坦克",
+        "onboard_time": 1756868144,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 445205,
+        "num": 445205,
+        "word": "歼20S震撼亮相",
+        "onboard_time": 1756869453,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444095,
+        "num": 444095,
+        "word": "劈枪太帅了",
+        "onboard_time": 1756865975,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 425497,
+        "num": 425497,
+        "word": "郭帆边看边记笔记",
+        "onboard_time": 1756872452,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 421596,
+        "num": 421596,
+        "word": "看到老兵 瞬间泪目",
+        "onboard_time": 1756860627,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 417955,
+        "num": 417955,
+        "word": "歼35",
+        "onboard_time": 1756867025,
+        "rank": 40,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 408534,
+        "num": 408534,
+        "word": "杨靖宇狼牙山五壮士刘老庄连",
+        "onboard_time": 1756870532,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400980,
+        "num": 400980,
+        "word": "赴山海",
+        "onboard_time": 1756872211,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384941,
+        "num": 384941,
+        "word": "放飞气球",
+        "onboard_time": 1756870171,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376737,
+        "num": 376737,
+        "word": "军事航天部队",
+        "onboard_time": 1756869932,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355753,
+        "num": 355753,
+        "word": "阅兵回放",
+        "onboard_time": 1756871733,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294325,
+        "num": 294325,
+        "word": "杜江说期待世界上最棒的分列式",
+        "onboard_time": 1756864345,
+        "rank": 46,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 142911,
+        "num": 293084,
+        "word": "武大靖观看阅兵后发文",
+        "onboard_time": 1756871191,
+        "rank": 47,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 111558,
+        "num": 292910,
+        "word": "吴艳妮观看阅兵后发文",
+        "onboard_time": 1756872813,
+        "rank": 48,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 82506,
+        "num": 292892,
+        "word": "许昕说有你们在我们真幸福",
+        "onboard_time": 1756871431,
+        "rank": 49,
+        "category": "体育,国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#速览习近平总书记九三重要讲话#"
+    }
+  }
+}

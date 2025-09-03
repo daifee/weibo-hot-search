@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756871109460,
+  "endTime": 1756873779051,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -32,6 +32,14 @@
       "word": "法新社出图",
       "onboard_time": 1756868440,
       "rank": 11,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12136388,
+      "num": 11760549,
+      "word": "新华社出图",
+      "onboard_time": 1756869992,
+      "rank": 10,
       "category": "国内时政"
     },
     {
@@ -67,14 +75,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 4618650,
-      "num": 4618650,
-      "word": "新华社出图",
-      "onboard_time": 1756869992,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 4117565,
       "num": 2584122,
       "word": "金正恩抵达",
@@ -96,6 +96,14 @@
       "word": "受阅女民兵着装",
       "onboard_time": 1756862966,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 3462343,
+      "num": 3462343,
+      "word": "好帅的女机长",
+      "onboard_time": 1756870171,
+      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -227,6 +235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2100810,
+      "num": 2100810,
+      "word": "新华社秒了",
+      "onboard_time": 1756870831,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2090369,
       "num": 1705115,
       "word": "鸠山由纪夫来了",
@@ -315,12 +331,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1536164,
-      "num": 1536164,
-      "word": "好帅的女机长",
-      "onboard_time": 1756870171,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 1521038,
+      "num": 1521038,
+      "word": "雷军晒观礼请柬",
+      "onboard_time": 1756871011,
+      "rank": 33,
+      "category": "互联网,国内时政"
     },
     {
       "raw_hot": 1503450,
@@ -329,6 +345,14 @@
       "onboard_time": 1756868203,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1441747,
+      "num": 1441747,
+      "word": "长剑1000导弹",
+      "onboard_time": 1756872272,
+      "rank": 13,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 1431648,
@@ -345,6 +369,14 @@
       "onboard_time": 1756806681,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1369208,
+      "num": 1076898,
+      "word": "郭帆 改剧本",
+      "onboard_time": 1756869273,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 1310808,
@@ -419,14 +451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1076898,
-      "num": 1076898,
-      "word": "郭帆 改剧本",
-      "onboard_time": 1756869273,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1063633,
       "num": 192773,
       "word": "沈佳润史上最无语原唱",
@@ -475,11 +499,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 954887,
-      "num": 610181,
-      "word": "新华社秒了",
-      "onboard_time": 1756870831,
-      "rank": 31,
+      "raw_hot": 976246,
+      "num": 976246,
+      "word": "耿爽发言含金量",
+      "onboard_time": 1756873292,
+      "rank": 21,
       "category": "国内时政"
     },
     {
@@ -624,6 +648,14 @@
       "word": "惊雷1",
       "onboard_time": 1756868737,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 843071,
+      "num": 843071,
+      "word": "这句覆盖全球给我听燃了",
+      "onboard_time": 1756870831,
+      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -859,11 +891,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 617746,
+      "num": 617746,
+      "word": "老战士起身敬礼场面看哭了",
+      "onboard_time": 1756872092,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 612202,
       "num": 612202,
       "word": "莫迪发文感谢中方",
       "onboard_time": 1756721601,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 611999,
+      "num": 611999,
+      "word": "女民兵受阅前互相整理戎装",
+      "onboard_time": 1756872632,
+      "rank": 27,
       "category": "国内时政"
     },
     {
@@ -931,12 +979,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 567262,
-      "num": 567262,
-      "word": "雷军晒观礼请柬",
-      "onboard_time": 1756871011,
-      "rank": 33,
-      "category": "互联网,国内时政"
+      "raw_hot": 572762,
+      "num": 2203248,
+      "word": "军事航天部队方队首次亮相",
+      "onboard_time": 1756872813,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 566709,
@@ -955,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 560202,
+      "num": 560202,
+      "word": "运20 胖妞",
+      "onboard_time": 1756873592,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 550610,
       "num": 550610,
       "word": "郑钦文张雨霏坐一起观礼",
@@ -968,6 +1024,14 @@
       "word": "军事航天部队",
       "onboard_time": 1756869932,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 544588,
+      "num": 3204076,
+      "word": "今天14亿中国人都是护旗手",
+      "onboard_time": 1756864404,
+      "rank": 36,
       "category": "国内时政"
     },
     {
@@ -1065,14 +1129,6 @@
       "onboard_time": 1756771460,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 502333,
-      "num": 502333,
-      "word": "这句覆盖全球给我听燃了",
-      "onboard_time": 1756870831,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 494146,
@@ -1299,6 +1355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 425497,
+      "num": 425497,
+      "word": "郭帆边看边记笔记",
+      "onboard_time": 1756872452,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 424195,
       "num": 398554,
       "word": "花少7时长统计",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1756721121,
       "rank": 15,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 400980,
+      "num": 400980,
+      "word": "赴山海",
+      "onboard_time": 1756700722,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 400179,
@@ -1563,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355753,
+      "num": 355753,
+      "word": "阅兵回放",
+      "onboard_time": 1756871733,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 351409,
       "num": 267118,
       "word": "女子不慎被反锁冷库被外卖员救出",
@@ -1699,6 +1779,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 316116,
+      "num": 4848114,
+      "word": "党和人民完全可以信赖解放军",
+      "onboard_time": 1756872692,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 315214,
       "num": 339839,
       "word": "雷暴 鼻炎",
@@ -1817,14 +1905,6 @@
       "onboard_time": 1756826962,
       "rank": 13,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 293368,
-      "num": 3204076,
-      "word": "今天14亿中国人都是护旗手",
-      "onboard_time": 1756864404,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 289100,
@@ -2033,14 +2113,6 @@
       "onboard_time": 1756699400,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 260093,
-      "num": 397256,
-      "word": "赴山海",
-      "onboard_time": 1756700722,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 259425,
@@ -3539,6 +3611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142911,
+      "num": 293084,
+      "word": "武大靖观看阅兵后发文",
+      "onboard_time": 1756871191,
+      "rank": 47,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 141349,
       "num": 141349,
       "word": "中国军人360度无死角的帅",
@@ -4377,6 +4457,14 @@
       "onboard_time": 1756722081,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111558,
+      "num": 292910,
+      "word": "吴艳妮观看阅兵后发文",
+      "onboard_time": 1756872813,
+      "rank": 48,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 111236,
@@ -5393,6 +5481,14 @@
       "onboard_time": 1756793721,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82506,
+      "num": 292892,
+      "word": "许昕说有你们在我们真幸福",
+      "onboard_time": 1756871431,
+      "rank": 49,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 82462,
