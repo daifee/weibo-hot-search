@@ -1,6 +1,6 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756935384779,
+  "endTime": 1756938152366,
   "band_list": [
     {
       "raw_hot": 1760022,
@@ -147,6 +147,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 186610,
+      "num": 186610,
+      "word": "钟南山不到2岁时房子被日本飞机炸塌",
+      "onboard_time": 1756931114,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180485,
       "num": 278063,
       "word": "咱家战机多到一眼望不到头",
@@ -192,14 +200,6 @@
       "word": "抗战胜利80周年文艺晚会",
       "onboard_time": 1756900464,
       "rank": 24,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 144585,
-      "num": 179385,
-      "word": "钟南山不到2岁时房子被日本飞机炸塌",
-      "onboard_time": 1756931114,
-      "rank": 26,
       "category": "国内时政"
     },
     {
@@ -323,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94431,
+      "num": 101255,
+      "word": "小伙为参加九三阅兵式推迟婚礼",
+      "onboard_time": 1756901844,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90409,
       "num": 101278,
       "word": "普京盛赞九三阅兵",
@@ -339,12 +347,12 @@
       "category": "国内时政,体育"
     },
     {
-      "raw_hot": 85238,
-      "num": 101255,
-      "word": "小伙为参加九三阅兵式推迟婚礼",
-      "onboard_time": 1756901844,
-      "rank": 42,
-      "category": "国内时政"
+      "raw_hot": 85007,
+      "num": 85007,
+      "word": "阅兵网友神评论",
+      "onboard_time": 1756934534,
+      "rank": 9,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 84117,
@@ -443,6 +451,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46068,
+      "num": 35429,
+      "word": "美军看好的装备被我军率先实现",
+      "onboard_time": 1756935315,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 42218,
+      "num": 42218,
+      "word": "核导弹方队震撼登场",
+      "onboard_time": 1756935254,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 39167,
+      "num": 39167,
+      "word": "惊雷1空基远程导弹",
+      "onboard_time": 1756932914,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38429,
       "num": 38429,
       "word": "军旗",
@@ -491,11 +523,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25914,
-      "num": 35545,
-      "word": "惊雷1空基远程导弹",
-      "onboard_time": 1756932914,
-      "rank": 9,
+      "raw_hot": 25809,
+      "num": 31568,
+      "word": "在深圳感受阅兵的亿点点震撼",
+      "onboard_time": 1756930453,
+      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -507,11 +539,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21029,
-      "num": 21029,
-      "word": "美军看好的装备被我军率先实现",
-      "onboard_time": 1756935315,
-      "rank": 33,
+      "raw_hot": 21576,
+      "num": 31554,
+      "word": "轰炸机",
+      "onboard_time": 1756927574,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -521,30 +553,6 @@
       "onboard_time": 1756930154,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20296,
-      "num": 20296,
-      "word": "轰炸机",
-      "onboard_time": 1756927574,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 20205,
-      "num": 20205,
-      "word": "在深圳感受阅兵的亿点点震撼",
-      "onboard_time": 1756930453,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 20182,
-      "num": 32848,
-      "word": "阅兵网友神评论",
-      "onboard_time": 1756934534,
-      "rank": 9,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 16579,
@@ -563,12 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15623,
-      "num": 15886,
-      "word": "核导弹方队震撼登场",
-      "onboard_time": 1756935254,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 9879,
+      "num": 31544,
+      "word": "体育天团分享阅兵观后感",
+      "onboard_time": 1756938016,
+      "rank": 49,
+      "category": "体育,国内时政"
     }
   ],
   "hotgov_list": [
