@@ -1,6 +1,6 @@
 {
   "startTime": 1756830747288,
-  "endTime": 1756903780303,
+  "endTime": 1756904614517,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -43,8 +43,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10009294,
-      "num": 10009294,
+      "raw_hot": 11966491,
+      "num": 11966491,
       "word": "文艺晚会",
       "onboard_time": 1756900703,
       "rank": 0,
@@ -259,11 +259,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2245950,
+      "num": 976030,
+      "word": "这是胡先煦吗",
+      "onboard_time": 1756902925,
+      "rank": 10,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 2100810,
       "num": 2100810,
       "word": "新华社秒了",
       "onboard_time": 1756870831,
       "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 2094352,
+      "num": 2094352,
+      "word": "文艺晚会 好哭",
+      "onboard_time": 1756902684,
+      "rank": 3,
       "category": "国内时政"
     },
     {
@@ -427,14 +443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1427019,
-      "num": 1427019,
-      "word": "文艺晚会 好哭",
-      "onboard_time": 1756902684,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1415309,
       "num": 1076898,
       "word": "郭帆 改剧本",
@@ -523,12 +531,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1134758,
-      "num": 976030,
-      "word": "这是胡先煦吗",
-      "onboard_time": 1756902925,
-      "rank": 10,
-      "category": "国内时政,艺人"
+      "raw_hot": 1107992,
+      "num": 1107992,
+      "word": "文艺晚会真的好震撼",
+      "onboard_time": 1756903645,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1082472,
@@ -555,20 +563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1021109,
+      "num": 1021109,
+      "word": "抗战胜利80周年文艺晚会",
+      "onboard_time": 1756900464,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 989015,
       "num": 989015,
       "word": "杜江说期待世界上最棒的分列式",
       "onboard_time": 1756864345,
       "rank": 37,
       "category": "艺人,国内时政"
-    },
-    {
-      "raw_hot": 975974,
-      "num": 975974,
-      "word": "抗战胜利80周年文艺晚会",
-      "onboard_time": 1756900464,
-      "rank": 11,
-      "category": "国内时政"
     },
     {
       "raw_hot": 948956,
@@ -835,6 +843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 610038,
+      "num": 610038,
+      "word": "吴越吴樾",
+      "onboard_time": 1756904005,
+      "rank": 13,
+      "category": "艺人,国内时政"
+    },
+    {
       "raw_hot": 605563,
       "num": 2469313,
       "word": "巨浪3",
@@ -864,6 +880,14 @@
       "word": "东风快递 使命必达",
       "onboard_time": 1756869812,
       "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 561008,
+      "num": 561008,
+      "word": "文艺晚会节目",
+      "onboard_time": 1756902505,
+      "rank": 15,
       "category": "国内时政"
     },
     {
@@ -939,14 +963,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 534886,
-      "num": 534886,
-      "word": "文艺晚会节目",
-      "onboard_time": 1756902505,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 531692,
       "num": 531692,
       "word": "百岁抗战老兵",
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 486593,
-      "num": 2087387,
+      "num": 2536326,
       "word": "空着的1945检阅车",
       "onboard_time": 1756879706,
       "rank": 26,
@@ -1075,12 +1091,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 429602,
+      "num": 429602,
+      "word": "刘昊然台词",
+      "onboard_time": 1756903105,
+      "rank": 33,
+      "category": "艺人,国内时政"
+    },
+    {
       "raw_hot": 428256,
       "num": 428256,
       "word": "郑钦文苏炳添亮相天安门广场",
       "onboard_time": 1756860266,
       "rank": 24,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 422156,
+      "num": 422156,
+      "word": "雷佳音和小栋哲",
+      "onboard_time": 1756903705,
+      "rank": 49,
+      "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 421171,
+      "num": 421171,
+      "word": "刘敏涛给我演哭了",
+      "onboard_time": 1756904546,
+      "rank": 25,
+      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 416442,
@@ -1180,7 +1220,7 @@
     },
     {
       "raw_hot": 359434,
-      "num": 285217,
+      "num": 350361,
       "word": "文艺晚会看到郭京飞了",
       "onboard_time": 1756902505,
       "rank": 30,
@@ -1435,14 +1475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 262345,
-      "num": 262345,
-      "word": "刘昊然台词",
-      "onboard_time": 1756903105,
-      "rank": 33,
-      "category": "艺人,国内时政"
-    },
-    {
       "raw_hot": 260813,
       "num": 260813,
       "word": "阅兵版钢铁洪流进行曲MV",
@@ -1459,6 +1491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 255744,
+      "num": 976082,
+      "word": "文艺晚会开场短片看泪目了",
+      "onboard_time": 1756902864,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 254477,
       "num": 254477,
       "word": "马龙现场观礼晒照",
@@ -1472,6 +1512,14 @@
       "word": "青春力量满满的大合唱",
       "onboard_time": 1756862542,
       "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 248968,
+      "num": 248968,
+      "word": "坦克下班",
+      "onboard_time": 1756903945,
+      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -1555,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 238209,
+      "num": 238209,
+      "word": "台胞看完阅兵希望祖国尽快统一",
+      "onboard_time": 1756904067,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 237278,
       "num": 237278,
       "word": "各国嘉宾登上天安门城楼",
@@ -1600,6 +1656,14 @@
       "word": "保卫黄河 血脉觉醒",
       "onboard_time": 1756861164,
       "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 229616,
+      "num": 229616,
+      "word": "抗战老兵时隔76年再次见证荣光",
+      "onboard_time": 1756903765,
+      "rank": 41,
       "category": "国内时政"
     },
     {
@@ -1795,27 +1859,11 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 179777,
-      "num": 976082,
-      "word": "文艺晚会开场短片看泪目了",
-      "onboard_time": 1756902864,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 175911,
       "num": 4026215,
       "word": "今天是胜利的日子",
       "onboard_time": 1756831698,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 175224,
-      "num": 175224,
-      "word": "文艺晚会真的好震撼",
-      "onboard_time": 1756903645,
-      "rank": 44,
       "category": "国内时政"
     },
     {
@@ -1963,12 +2011,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138471,
-      "num": 138471,
-      "word": "雷佳音和小栋哲",
-      "onboard_time": 1756903705,
+      "raw_hot": 138316,
+      "num": 181346,
+      "word": "U22国足vs东帝汶U22",
+      "onboard_time": 1756903466,
       "rank": 49,
-      "category": "艺人,国内时政"
+      "category": "体育"
     },
     {
       "raw_hot": 137504,
@@ -2080,6 +2128,14 @@
       "word": "不让历史悲剧重演",
       "onboard_time": 1756877368,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 110523,
+      "num": 496455,
+      "word": "中华儿女誓死不当亡国奴",
+      "onboard_time": 1756904187,
+      "rank": 17,
       "category": "国内时政"
     },
     {
@@ -2441,6 +2497,14 @@
       "onboard_time": 1756821262,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 50157,
+      "num": 448047,
+      "word": "文艺晚会看到南京大屠杀眼泪止不住",
+      "onboard_time": 1756904247,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46942,

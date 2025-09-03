@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/03 00:32:27 ~ 2025/09/03 20:49:40
+本榜单时间：2025/09/03 00:32:27 ~ 2025/09/03 21:03:34
 </p>
 </blockquote>
 <p>
@@ -46,7 +46,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%23" target="weibo">
-文艺晚会（热度：10009294）
+文艺晚会（热度：11966491）
 </a>
 </li>
 
@@ -207,8 +207,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E8%83%A1%E5%85%88%E7%85%A6%E5%90%97%23" target="weibo">
+这是胡先煦吗（热度：2245950）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%A7%92%E4%BA%86%23" target="weibo">
 新华社秒了（热度：2100810）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%20%E5%A5%BD%E5%93%AD%23" target="weibo">
+文艺晚会 好哭（热度：2094352）
 </a>
 </li>
 
@@ -333,12 +345,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%20%E5%A5%BD%E5%93%AD%23" target="weibo">
-文艺晚会 好哭（热度：1427019）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%B8%86%20%E6%94%B9%E5%89%A7%E6%9C%AC%23" target="weibo">
 郭帆 改剧本（热度：1415309）
 </a>
@@ -405,8 +411,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E8%83%A1%E5%85%88%E7%85%A6%E5%90%97%23" target="weibo">
-这是胡先煦吗（热度：1134758）
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9C%87%E6%92%BC%23" target="weibo">
+文艺晚会真的好震撼（热度：1107992）
 </a>
 </li>
 
@@ -429,14 +435,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E8%AF%B4%E6%9C%9F%E5%BE%85%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%A3%92%E7%9A%84%E5%88%86%E5%88%97%E5%BC%8F%23" target="weibo">
-杜江说期待世界上最棒的分列式（热度：989015）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%23" target="weibo">
+抗战胜利80周年文艺晚会（热度：1021109）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%23" target="weibo">
-抗战胜利80周年文艺晚会（热度：975974）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E8%AF%B4%E6%9C%9F%E5%BE%85%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%A3%92%E7%9A%84%E5%88%86%E5%88%97%E5%BC%8F%23" target="weibo">
+杜江说期待世界上最棒的分列式（热度：989015）
 </a>
 </li>
 
@@ -639,6 +645,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B6%8A%E5%90%B4%E6%A8%BE%23" target="weibo">
+吴越吴樾（热度：610038）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E6%B5%AA3%23" target="weibo">
 巨浪3（热度：605563）
 </a>
@@ -659,6 +671,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%20%E4%BD%BF%E5%91%BD%E5%BF%85%E8%BE%BE%23" target="weibo">
 东风快递 使命必达（热度：566709）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%23" target="weibo">
+文艺晚会节目（热度：561008）
 </a>
 </li>
 
@@ -713,12 +731,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E4%B8%9C%E9%A3%8E61%E6%94%B9%E5%8F%98%E4%BA%86%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99%23" target="weibo">
 专家说东风61改变了命名规则（热度：543915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%23" target="weibo">
-文艺晚会节目（热度：534886）
 </a>
 </li>
 
@@ -819,8 +831,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%8F%B0%E8%AF%8D%23" target="weibo">
+刘昊然台词（热度：429602）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%BA%AE%E7%9B%B8%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%23" target="weibo">
 郑钦文苏炳添亮相天安门广场（热度：428256）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%92%8C%E5%B0%8F%E6%A0%8B%E5%93%B2%23" target="weibo">
+雷佳音和小栋哲（热度：422156）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%95%8F%E6%B6%9B%E7%BB%99%E6%88%91%E6%BC%94%E5%93%AD%E4%BA%86%23" target="weibo">
+刘敏涛给我演哭了（热度：421171）
 </a>
 </li>
 
@@ -1089,12 +1119,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%8F%B0%E8%AF%8D%23" target="weibo">
-刘昊然台词（热度：262345）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%89%88%E9%92%A2%E9%93%81%E6%B4%AA%E6%B5%81%E8%BF%9B%E8%A1%8C%E6%9B%B2MV%23" target="weibo">
 阅兵版钢铁洪流进行曲MV（热度：260813）
 </a>
@@ -1107,6 +1131,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E5%BC%80%E5%9C%BA%E7%9F%AD%E7%89%87%E7%9C%8B%E6%B3%AA%E7%9B%AE%E4%BA%86%23" target="weibo">
+文艺晚会开场短片看泪目了（热度：255744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%8E%B0%E5%9C%BA%E8%A7%82%E7%A4%BC%E6%99%92%E7%85%A7%23" target="weibo">
 马龙现场观礼晒照（热度：254477）
 </a>
@@ -1115,6 +1145,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%8A%9B%E9%87%8F%E6%BB%A1%E6%BB%A1%E7%9A%84%E5%A4%A7%E5%90%88%E5%94%B1%23" target="weibo">
 青春力量满满的大合唱（热度：253521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%A6%E5%85%8B%E4%B8%8B%E7%8F%AD%23" target="weibo">
+坦克下班（热度：248968）
 </a>
 </li>
 
@@ -1179,6 +1215,12 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%83%9E%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E5%B8%8C%E6%9C%9B%E7%A5%96%E5%9B%BD%E5%B0%BD%E5%BF%AB%E7%BB%9F%E4%B8%80%23" target="weibo">
+台胞看完阅兵希望祖国尽快统一（热度：238209）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E5%9B%BD%E5%98%89%E5%AE%BE%E7%99%BB%E4%B8%8A%E5%A4%A9%E5%AE%89%E9%97%A8%E5%9F%8E%E6%A5%BC%23" target="weibo">
 各国嘉宾登上天安门城楼（热度：237278）
 </a>
@@ -1211,6 +1253,12 @@ iPhone17Pro涨价（热度：247271）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%8D%AB%E9%BB%84%E6%B2%B3%20%E8%A1%80%E8%84%89%E8%A7%89%E9%86%92%23" target="weibo">
 保卫黄河 血脉觉醒（热度：232573）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E6%97%B6%E9%9A%9476%E5%B9%B4%E5%86%8D%E6%AC%A1%E8%A7%81%E8%AF%81%E8%8D%A3%E5%85%89%23" target="weibo">
+抗战老兵时隔76年再次见证荣光（热度：229616）
 </a>
 </li>
 
@@ -1359,20 +1407,8 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E5%BC%80%E5%9C%BA%E7%9F%AD%E7%89%87%E7%9C%8B%E6%B3%AA%E7%9B%AE%E4%BA%86%23" target="weibo">
-文艺晚会开场短片看泪目了（热度：179777）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E8%83%9C%E5%88%A9%E7%9A%84%E6%97%A5%E5%AD%90%23" target="weibo">
 今天是胜利的日子（热度：175911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E7%9C%9F%E7%9A%84%E5%A5%BD%E9%9C%87%E6%92%BC%23" target="weibo">
-文艺晚会真的好震撼（热度：175224）
 </a>
 </li>
 
@@ -1485,8 +1521,8 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E5%92%8C%E5%B0%8F%E6%A0%8B%E5%93%B2%23" target="weibo">
-雷佳音和小栋哲（热度：138471）
+<a href="https://s.weibo.com/weibo?q=%23U22%E5%9B%BD%E8%B6%B3vs%E4%B8%9C%E5%B8%9D%E6%B1%B6U22%23" target="weibo">
+U22国足vs东帝汶U22（热度：138316）
 </a>
 </li>
 
@@ -1571,6 +1607,12 @@ iPhone17Pro涨价（热度：247271）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%AE%A9%E5%8E%86%E5%8F%B2%E6%82%B2%E5%89%A7%E9%87%8D%E6%BC%94%23" target="weibo">
 不让历史悲剧重演（热度：111279）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E5%84%BF%E5%A5%B3%E8%AA%93%E6%AD%BB%E4%B8%8D%E5%BD%93%E4%BA%A1%E5%9B%BD%E5%A5%B4%23" target="weibo">
+中华儿女誓死不当亡国奴（热度：110523）
 </a>
 </li>
 
@@ -1841,6 +1883,12 @@ iPhone17系列或迈入无卡时代（热度：62984）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17ProMax%E9%87%8F%E4%BA%A7%E6%9C%BA%E7%96%91%E6%9B%9D%E5%85%89%23" target="weibo">
 iPhone17ProMax量产机疑曝光（热度：51373）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E7%9C%8B%E5%88%B0%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E7%9C%BC%E6%B3%AA%E6%AD%A2%E4%B8%8D%E4%BD%8F%23" target="weibo">
+文艺晚会看到南京大屠杀眼泪止不住（热度：50157）
 </a>
 </li>
 

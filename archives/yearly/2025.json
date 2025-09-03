@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756903780303,
+  "endTime": 1756904614517,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -763,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11966491,
+      "num": 11966491,
+      "word": "文艺晚会",
+      "onboard_time": 1756900703,
+      "rank": 0,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 11951764,
       "num": 11951764,
       "word": "赵露思 我不干了",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1735784479,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10009294,
-      "num": 10009294,
-      "word": "文艺晚会",
-      "onboard_time": 1756900703,
-      "rank": 0,
-      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 9992140,
