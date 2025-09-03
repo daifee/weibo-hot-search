@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 00:31:54
+本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 00:45:41
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E4%BA%BF%E7%82%B9%E9%9C%87%E6%92%BC%23" target="weibo">
+中国排面给全世界亿点震撼（热度：427531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E8%83%A1%E5%85%88%E7%85%A6%E5%90%97%23" target="weibo">
 这是胡先煦吗（热度：362851）
 </a>
@@ -77,12 +83,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E4%B8%BA%E7%9C%8B%E9%98%85%E5%85%B5%E6%B2%A1%E7%9D%A1%E8%A7%89%23" target="weibo">
 台湾同胞为看阅兵没睡觉（热度：302138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E4%BA%BF%E7%82%B9%E9%9C%87%E6%92%BC%23" target="weibo">
-中国排面给全世界亿点震撼（热度：299948）
 </a>
 </li>
 
@@ -123,6 +123,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%B1%E5%AE%B6%E6%88%98%E6%9C%BA%E5%A4%9A%E5%88%B0%E4%B8%80%E7%9C%BC%E6%9C%9B%E4%B8%8D%E5%88%B0%E5%A4%B4%23" target="weibo">
+咱家战机多到一眼望不到头（热度：180485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
 阅兵收视率（热度：169756）
 </a>
@@ -137,12 +143,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%AC%BA%E6%88%91%E4%B8%AD%E5%8D%8E%E6%97%A0%E8%82%9D%E8%83%86%E6%AF%8D%E4%BA%B2%E8%86%9D%E4%B8%8B%E7%99%BE%E4%B8%87%E5%85%B5%23" target="weibo">
 莫欺我中华无肝胆母亲膝下百万兵（热度：161473）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%B1%E5%AE%B6%E6%88%98%E6%9C%BA%E5%A4%9A%E5%88%B0%E4%B8%80%E7%9C%BC%E6%9C%9B%E4%B8%8D%E5%88%B0%E5%A4%B4%23" target="weibo">
-咱家战机多到一眼望不到头（热度：151520）
 </a>
 </li>
 
@@ -225,14 +225,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9D%A6%E5%85%8B%E4%B8%8B%E7%8F%AD%23" target="weibo">
-坦克下班（热度：102798）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%83%9E%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E5%B8%8C%E6%9C%9B%E7%A5%96%E5%9B%BD%E5%B0%BD%E5%BF%AB%E7%BB%9F%E4%B8%80%23" target="weibo">
+台胞看完阅兵希望祖国尽快统一（热度：103084）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%83%9E%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E5%B8%8C%E6%9C%9B%E7%A5%96%E5%9B%BD%E5%B0%BD%E5%BF%AB%E7%BB%9F%E4%B8%80%23" target="weibo">
-台胞看完阅兵希望祖国尽快统一（热度：102715）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%A6%E5%85%8B%E4%B8%8B%E7%8F%AD%23" target="weibo">
+坦克下班（热度：102798）
 </a>
 </li>
 
@@ -309,6 +309,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E5%85%A5%E4%BA%BA%E5%BF%83%23" target="weibo">
+声入人心（热度：54717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%AD%89%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E4%BA%A4%E4%BD%9C%E4%B8%9A%E4%BA%86%23" target="weibo">
 马龙王楚钦等看完阅兵交作业了（热度：53667）
 </a>
@@ -323,6 +329,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D%E9%87%91%E5%8F%A5%E6%9D%A5%E4%BA%86%23%23" target="weibo">
 #总书记重要讲话金句来了#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%8F%91%E8%A1%A8%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D%23%23" target="weibo">
+#习近平主席发表重要讲话#
 </a>
 </li>
 
