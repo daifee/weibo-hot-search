@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 02:34:33
+本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 02:44:39
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%23" target="weibo">
+无人机（热度：37934）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%98%E6%97%97%E6%96%B9%E9%98%9F%23" target="weibo">
 战旗方队（热度：33258）
 </a>
@@ -352,7 +358,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%B06N%E6%88%98%E7%95%A5%E8%BD%B0%E7%82%B8%E6%9C%BA%23" target="weibo">
-轰6N战略轰炸机（热度：27116）
+轰6N战略轰炸机（热度：28442）
 </a>
 </li>
 
@@ -365,6 +371,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%90%8C%E8%83%9E%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E8%AF%B4%E5%A4%AA%E4%BA%86%E4%B8%8D%E8%B5%B7%E4%BA%86%23" target="weibo">
 香港同胞看完阅兵说太了不起了（热度：26777）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E9%9A%86%E9%87%8D%E9%9B%86%E4%BC%9A%E5%85%B1%E5%90%8C%E9%93%AD%E8%AE%B0%E5%8E%86%E5%8F%B2%23" target="weibo">
+今天隆重集会共同铭记历史（热度：24197）
 </a>
 </li>
 
