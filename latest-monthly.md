@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/04 04:27:05
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/04 04:39:56
 </p>
 </blockquote>
 <p>
@@ -5835,6 +5835,12 @@ iPhone17系列预售调查（热度：66469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8D%E5%88%B02%E5%B2%81%E6%97%B6%E6%88%BF%E5%AD%90%E8%A2%AB%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E7%82%B8%E5%A1%8C%23" target="weibo">
+钟南山不到2岁时房子被日本飞机炸塌（热度：59103）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%92%8C%E5%B9%B3%E6%9D%A5%E4%B9%8B%E4%B8%8D%E6%98%93%23" target="weibo">
 今天的和平来之不易（热度：58632）
 </a>
@@ -6005,12 +6011,6 @@ AG玩游戏一点都不基础（热度：58467）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E5%BE%88%E5%A4%9A%E6%95%99%E7%BB%83%E5%B8%A6%E9%80%9F%E6%95%88%E6%95%91%E5%BF%83%E4%B8%B8%E4%B8%8A%E5%9C%BA%23" target="weibo">
 国羽很多教练带速效救心丸上场（热度：50225）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E7%9C%8B%E5%88%B0%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E7%9C%BC%E6%B3%AA%E6%AD%A2%E4%B8%8D%E4%BD%8F%23" target="weibo">
-文艺晚会看到南京大屠杀眼泪止不住（热度：50157）
 </a>
 </li>
 
