@@ -1,0 +1,410 @@
+{
+  "runTime": 1756864954308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14515610,
+        "num": 14515610,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7012917,
+        "num": 7012917,
+        "word": "东风61",
+        "onboard_time": 1756863022,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140599,
+        "num": 4026215,
+        "word": "今天是胜利的日子",
+        "onboard_time": 1756831698,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6860507,
+        "num": 6860507,
+        "word": "阅兵直播",
+        "onboard_time": 1756851015,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2850905,
+        "num": 2850905,
+        "word": "女兵方阵 飒",
+        "onboard_time": 1756863269,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2314129,
+        "num": 2314129,
+        "word": "正义必胜 和平必胜 人民必胜",
+        "onboard_time": 1756863507,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1654480,
+        "num": 1654480,
+        "word": "军盲时刻",
+        "onboard_time": 1756863865,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1298999,
+        "num": 1298999,
+        "word": "听党指挥 能打胜仗",
+        "onboard_time": 1756863567,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210241,
+        "num": 1291869,
+        "word": "1945到2025",
+        "onboard_time": 1756864044,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 684448,
+        "num": 1247484,
+        "word": "检阅部队",
+        "onboard_time": 1756862661,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3105055,
+        "num": 1186612,
+        "word": "受阅女民兵着装",
+        "onboard_time": 1756862966,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2134783,
+        "num": 1148770,
+        "word": "金正恩抵达",
+        "onboard_time": 1756859242,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1906512,
+        "num": 1126955,
+        "word": "第一批复制粘贴照来了",
+        "onboard_time": 1756857923,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1095761,
+        "num": 1095761,
+        "word": "看到老兵 瞬间泪目",
+        "onboard_time": 1756860627,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1036879,
+        "num": 1036879,
+        "word": "阅兵总指挥",
+        "onboard_time": 1756863087,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 908560,
+        "num": 908560,
+        "word": "阅兵解说 刚强宝晓峰",
+        "onboard_time": 1756863927,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 870706,
+        "num": 870706,
+        "word": "阅兵武器",
+        "onboard_time": 1756864105,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 720577,
+        "num": 720577,
+        "word": "军迷变军盲",
+        "onboard_time": 1756864345,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 670593,
+        "num": 670593,
+        "word": "外交天团现身天安门广场",
+        "onboard_time": 1756856420,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 628242,
+        "num": 628242,
+        "word": "阅兵流程",
+        "onboard_time": 1756860385,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1927171,
+        "num": 610949,
+        "word": "女民兵方队亮相",
+        "onboard_time": 1756863022,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1324322,
+        "num": 590228,
+        "word": "鸠山由纪夫来了",
+        "onboard_time": 1756860987,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 566422,
+        "num": 566422,
+        "word": "我的家在东北松花江上",
+        "onboard_time": 1756860987,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 465074,
+        "num": 465074,
+        "word": "手机截图键今天太忙了",
+        "onboard_time": 1756864584,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439644,
+        "num": 439644,
+        "word": "华春莹和记者说我跟你一样兴奋",
+        "onboard_time": 1756862132,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432415,
+        "num": 432415,
+        "word": "阅兵 强迫症狂喜",
+        "onboard_time": 1756863209,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 397927,
+        "num": 397927,
+        "word": "这就是今晨的北京",
+        "onboard_time": 1756853056,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394154,
+        "num": 394154,
+        "word": "全场高唱国歌超震撼",
+        "onboard_time": 1756863984,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 352311,
+        "num": 352311,
+        "word": "中国排面怎么截图都是一个帅",
+        "onboard_time": 1756863865,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 352263,
+        "num": 352263,
+        "word": "上班的内容是集体观看阅兵",
+        "onboard_time": 1756851074,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1687581,
+        "num": 349867,
+        "word": "杜江现场观礼",
+        "onboard_time": 1756863022,
+        "rank": 30,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 341608,
+        "num": 341608,
+        "word": "百岁抗战老兵",
+        "onboard_time": 1756860627,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317733,
+        "num": 317733,
+        "word": "多国政要与抗战老战士握手",
+        "onboard_time": 1756861642,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317240,
+        "num": 317240,
+        "word": "阅兵飞机",
+        "onboard_time": 1756864584,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314209,
+        "num": 314209,
+        "word": "56门礼炮80响鸣放",
+        "onboard_time": 1756858763,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304363,
+        "num": 304363,
+        "word": "郑钦文苏炳添亮相天安门广场",
+        "onboard_time": 1756860266,
+        "rank": 35,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 293368,
+        "num": 293368,
+        "word": "今天14亿中国人都是护旗手",
+        "onboard_time": 1756864404,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280996,
+        "num": 280996,
+        "word": "杜江说期待世界上最棒的分列式",
+        "onboard_time": 1756864345,
+        "rank": 37,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 278078,
+        "num": 278078,
+        "word": "阅兵礼炮弹0污染",
+        "onboard_time": 1756854018,
+        "rank": 38,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 226786,
+        "num": 226786,
+        "word": "轰炸机列队完成",
+        "onboard_time": 1756856362,
+        "rank": 39,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 210243,
+        "num": 210243,
+        "word": "中方欢迎印尼总统出席93纪念活动",
+        "onboard_time": 1756861044,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208636,
+        "num": 208636,
+        "word": "九三阅兵解读",
+        "onboard_time": 1756864644,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206141,
+        "num": 206141,
+        "word": "阅兵时间",
+        "onboard_time": 1756859903,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202404,
+        "num": 202404,
+        "word": "陈梦受邀观礼九三阅兵",
+        "onboard_time": 1756859124,
+        "rank": 43,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 200949,
+        "num": 200949,
+        "word": "是谁看阅兵在不停截图",
+        "onboard_time": 1756864404,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198357,
+        "num": 198357,
+        "word": "九三阅兵怎么看",
+        "onboard_time": 1756824923,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183957,
+        "num": 183957,
+        "word": "这是阅兵进场最早撤场最晚的队伍",
+        "onboard_time": 1756825523,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34631,
+        "num": 181680,
+        "word": "国际乒联主席胜诉",
+        "onboard_time": 1756823783,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22840,
+        "num": 179839,
+        "word": "国际乒联就主席选举结果发表声明",
+        "onboard_time": 1756828761,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19275,
+        "num": 177991,
+        "word": "理想汽车第二季度净利润11亿元",
+        "onboard_time": 1756836496,
+        "rank": 49,
+        "category": "财经,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#速览习近平总书记九三重要讲话#"
+    }
+  }
+}

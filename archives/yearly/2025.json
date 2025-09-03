@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756864005537,
+  "endTime": 1756864954308,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1707,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7012917,
+      "num": 7012917,
+      "word": "东风61",
+      "onboard_time": 1756863022,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7007661,
       "num": 7007661,
       "word": "叶珂官宣生了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1747101920,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 4161483,
-      "num": 4161483,
-      "word": "李晟团票数也太低了",
-      "onboard_time": 1749301944,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
