@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756864954308,
+  "endTime": 1756868416199,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -25,6 +25,14 @@
       "onboard_time": 1738550873,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32785593,
+      "num": 32785593,
+      "word": "东风61",
+      "onboard_time": 1756863022,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31189573,
@@ -129,6 +137,14 @@
       "onboard_time": 1747797022,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19498848,
+      "num": 20748848,
+      "word": "东风5C打击范围覆盖全球",
+      "onboard_time": 1756866035,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19195506,
@@ -1299,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 9107094,
+      "num": 9107094,
+      "word": "军迷变军盲",
+      "onboard_time": 1756864345,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9076991,
       "num": 9076991,
       "word": "山西临汾地震",
@@ -1427,12 +1451,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8337386,
+      "num": 8337386,
+      "word": "放飞和平鸽",
+      "onboard_time": 1756866576,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 8300117,
+      "num": 8300117,
+      "word": "阅兵直播",
+      "onboard_time": 1756851015,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8298321,
       "num": 8298321,
       "word": "陈楚生 高音没声",
       "onboard_time": 1748003605,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8281307,
+      "num": 8281307,
+      "word": "女兵方阵 飒",
+      "onboard_time": 1756863269,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8226159,
@@ -1667,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 7090885,
-      "num": 7090885,
-      "word": "阅兵直播",
-      "onboard_time": 1756851015,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 7073696,
       "num": 7073696,
       "word": "俞灏明王晓晨结婚",
@@ -1705,14 +1745,6 @@
       "onboard_time": 1738076070,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7012917,
-      "num": 7012917,
-      "word": "东风61",
-      "onboard_time": 1756863022,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7007661,
@@ -2369,38 +2401,6 @@
       "onboard_time": 1747278321,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4199194,
-      "num": 4199194,
-      "word": "饺子偷偷改了哪吒3计划上映时间",
-      "onboard_time": 1739261481,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 4177937,
-      "num": 4177937,
-      "word": "啄木鸟维修",
-      "onboard_time": 1742042790,
-      "rank": 7,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 4175923,
-      "num": 4175923,
-      "word": "特朗普关税松口一天就反悔",
-      "onboard_time": 1744363104,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 4167577,
-      "num": 4167577,
-      "word": "折腰今日开播",
-      "onboard_time": 1747101920,
-      "rank": 0,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
