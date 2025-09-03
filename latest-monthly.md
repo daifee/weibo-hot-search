@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/03 23:40:34
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/04 00:31:54
 </p>
 </blockquote>
 <p>
@@ -951,6 +951,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%B2%81%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E4%BD%A9%E6%88%B4%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8B%8B%E7%AB%A0%E8%A7%82%E7%A4%BC%23" target="weibo">
+90岁钟南山院士佩戴共和国勋章观礼（热度：626579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A914%E4%BA%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%98%AF%E6%8A%A4%E6%97%97%E6%89%8B%23" target="weibo">
 今天14亿中国人都是护旗手（热度：624890）
 </a>
@@ -1097,12 +1103,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E4%B8%87%E7%89%A9%E5%BA%86%E5%8A%9F%E5%AE%B4%23" target="weibo">
 生万物庆功宴（热度：542645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2390%E5%B2%81%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E4%BD%A9%E6%88%B4%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8B%8B%E7%AB%A0%E8%A7%82%E7%A4%BC%23" target="weibo">
-90岁钟南山院士佩戴共和国勋章观礼（热度：538774）
 </a>
 </li>
 
@@ -1713,6 +1713,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E5%B1%8F%E9%A3%9E%E9%A3%9E%E9%A3%9E%E9%A3%9E%E6%9C%BA%E9%9C%80%E8%A6%81%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E5%9B%BE%23" target="weibo">
+满屏飞飞飞飞机需要长长长长图（热度：338321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%235%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%A4%BC%E7%A6%BB%E5%9C%BA%E5%90%8E%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80%23" target="weibo">
 5万余人观礼离场后干干净净（热度：336633）
 </a>
@@ -1887,6 +1893,12 @@ A股（热度：323188）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E4%B8%BA%E7%9C%8B%E9%98%85%E5%85%B5%E6%B2%A1%E7%9D%A1%E8%A7%89%23" target="weibo">
+台湾同胞为看阅兵没睡觉（热度：302138）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E4%B8%BB%E5%B8%AD%E8%83%9C%E8%AF%89%23" target="weibo">
 国际乒联主席胜诉（热度：301766）
 </a>
@@ -1895,6 +1907,12 @@ A股（热度：323188）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E5%85%A5%E4%BA%BA%E5%BF%83%23" target="weibo">
 声入人心（热度：301693）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E4%BA%BF%E7%82%B9%E9%9C%87%E6%92%BC%23" target="weibo">
+中国排面给全世界亿点震撼（热度：299948）
 </a>
 </li>
 
@@ -2409,12 +2427,6 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E4%B8%BA%E7%9C%8B%E9%98%85%E5%85%B5%E6%B2%A1%E7%9D%A1%E8%A7%89%23" target="weibo">
-台湾同胞为看阅兵没睡觉（热度：229077）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E7%94%B7%E5%8D%95%E6%97%B6%E9%9A%9410%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%B8%96%E9%94%A6%E8%B5%9B%E5%86%A0%E5%86%9B%23" target="weibo">
 国羽男单时隔10年再夺世锦赛冠军（热度：228040）
 </a>
@@ -2759,12 +2771,6 @@ TREASURE回归主打曲MV（热度：193817）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E9%80%89%E6%8B%A9JDG%23" target="weibo">
 BLG选择JDG（热度：191896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E5%B1%8F%E9%A3%9E%E9%A3%9E%E9%A3%9E%E9%A3%9E%E6%9C%BA%E9%9C%80%E8%A6%81%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E5%9B%BE%23" target="weibo">
-满屏飞飞飞飞机需要长长长长图（热度：191783）
 </a>
 </li>
 
@@ -3201,6 +3207,12 @@ U23亚洲杯（热度：164844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%AC%BA%E6%88%91%E4%B8%AD%E5%8D%8E%E6%97%A0%E8%82%9D%E8%83%86%E6%AF%8D%E4%BA%B2%E8%86%9D%E4%B8%8B%E7%99%BE%E4%B8%87%E5%85%B5%23" target="weibo">
+莫欺我中华无肝胆母亲膝下百万兵（热度：161473）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E5%8F%8D%E5%AF%B9%E5%A4%96%E9%83%A8%E5%B9%B2%E6%B6%89%23" target="weibo">
 上合组织旗帜鲜明反对外部干涉（热度：160690）
 </a>
@@ -3395,6 +3407,12 @@ F1（热度：158344）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E9%9C%80%E8%A6%81%E9%80%82%E5%BA%94%E5%BE%B7%E7%94%B2%23" target="weibo">
 樊振东说需要适应德甲（热度：151520）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%B1%E5%AE%B6%E6%88%98%E6%9C%BA%E5%A4%9A%E5%88%B0%E4%B8%80%E7%9C%BC%E6%9C%9B%E4%B8%8D%E5%88%B0%E5%A4%B4%23" target="weibo">
+咱家战机多到一眼望不到头（热度：151520）
 </a>
 </li>
 
@@ -4065,6 +4083,12 @@ AI让英烈看到今日中国（热度：122507）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%23" target="weibo">
+抗战胜利80周年（热度：119337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%B8%BA%E4%B8%80%E5%AE%B6%E4%BA%BA%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83%23" target="weibo">
 谢娜为一家人操碎了心（热度：118740）
 </a>
@@ -4133,6 +4157,12 @@ AI让英烈看到今日中国（热度：122507）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%943%E5%BE%90%E7%91%9B%E5%BD%AC%23" target="weibo">
 王楚钦2比3徐瑛彬（热度：115786）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%9A%84%E7%9C%BC%E7%9D%9B%E6%9B%BF%E4%BB%96%E7%9A%84%E6%88%98%E5%8F%8B%E7%9C%8B%E5%88%B0%E4%BA%86%23" target="weibo">
+爷爷的眼睛替他的战友看到了（热度：115549）
 </a>
 </li>
 
@@ -4271,6 +4301,12 @@ A股9月迎开门红（热度：114718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E5%84%BF%E5%A5%B3%E8%AA%93%E6%AD%BB%E4%B8%8D%E5%BD%93%E4%BA%A1%E5%9B%BD%E5%A5%B4%23" target="weibo">
 中华儿女誓死不当亡国奴（热度：110523）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%95%AA%E5%8F%B7%23" target="weibo">
+永远的番号（热度：110430）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ AG玩游戏一点都不基础（热度：58467）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B16%E6%AF%940%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%23" target="weibo">
 山东泰山6比0北京国安（热度：48172）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B9%92%E8%B6%85%E5%86%B3%E8%B5%9B%E8%A7%81%23" target="weibo">
-王楚钦乒超决赛见（热度：47787）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E7%BE%BD%E9%B8%BD%E5%AD%90%E5%92%8C8%E4%B8%87%E5%8F%AA%E6%B0%94%E7%90%83%E5%90%8C%E6%97%B6%E8%85%BE%E7%A9%BA%23" target="weibo">
-8万羽鸽子和8万只气球同时腾空（热度：47647）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%85%B5%E6%98%AF%E5%93%AA%E4%B8%89%E5%85%B5%23" target="weibo">
-三兵是哪三兵（热度：46942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E4%BE%9D%E6%B3%95%E6%89%93%E5%87%BB%E6%B6%89%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%BB%91%E5%AE%A2%E8%BF%9D%E6%B3%95%E7%8A%AF%E7%BD%AA%23" target="weibo">
-公安机关依法打击涉无人机黑客违法犯罪（热度：46854）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%9B%9E%E5%BA%94%E5%BE%85%E6%92%AD%E8%A7%92%E8%89%B2%23" target="weibo">
-成毅回应待播角色（热度：46723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%235%E4%B8%AA%E7%BB%86%E5%BE%AE%E4%BD%86%E5%BE%88%E6%9C%89%E7%94%A8%E7%9A%84%E4%B9%A0%E6%83%AF%23" target="weibo">
-5个细微但很有用的习惯（热度：45994）
 </a>
 </li>
 
