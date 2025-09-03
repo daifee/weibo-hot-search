@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/03 11:34:11
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/03 11:45:09
 </p>
 </blockquote>
 <p>
@@ -1659,6 +1659,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%87%BA%E5%9B%BE%23" target="weibo">
+新华社出图（热度：4618650）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8F%E5%92%8C%E5%8C%BB%E5%AD%A6%E9%99%A2%E8%91%A3%E6%9F%90%E8%8E%B9%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
 协和医学院董某莹事件最新进展（热度：4613398）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E6%9B%BE%E6%8F%90%E5%88%86%E6%89%8B%E5%A5%B3%E5%8F%8B%E7%9E%AC%E9%97%B4%E7%A7%92%E6%87%82%23" target="weibo">
 王星失联前曾提分手女友瞬间秒懂（热度：4253645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23GAI%E7%AC%AC%E4%B8%80%23" target="weibo">
-GAI第一（热度：4228592）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756870451788,
+  "endTime": 1756871109460,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 14582987,
-      "num": 5553090,
+      "num": 11952536,
       "word": "法新社出图",
       "onboard_time": 1756868440,
       "rank": 11,
@@ -2195,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4618650,
+      "num": 4618650,
+      "word": "新华社出图",
+      "onboard_time": 1756869992,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 4613398,
       "num": 4609302,
       "word": "协和医学院董某莹事件最新进展",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740186560,
       "rank": 0,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 4228592,
-      "num": 4228592,
-      "word": "GAI第一",
-      "onboard_time": 1749824609,
-      "rank": 9,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

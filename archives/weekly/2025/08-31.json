@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756870451788,
+  "endTime": 1756871109460,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 14582987,
-      "num": 5553090,
+      "num": 11952536,
       "word": "法新社出图",
       "onboard_time": 1756868440,
       "rank": 11,
@@ -64,6 +64,14 @@
       "word": "女兵方阵 飒",
       "onboard_time": 1756863269,
       "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 4618650,
+      "num": 4618650,
+      "word": "新华社出图",
+      "onboard_time": 1756869992,
+      "rank": 10,
       "category": "国内时政"
     },
     {
@@ -145,14 +153,6 @@
       "onboard_time": 1756867025,
       "rank": 17,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 2517950,
-      "num": 2517950,
-      "word": "新华社出图",
-      "onboard_time": 1756869992,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 2495879,
@@ -347,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1536164,
+      "num": 1536164,
+      "word": "好帅的女机长",
+      "onboard_time": 1756870171,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1503450,
       "num": 1503450,
       "word": "咱们有飞飞飞飞飞不完的飞机了",
@@ -475,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1076898,
+      "num": 1076898,
+      "word": "郭帆 改剧本",
+      "onboard_time": 1756869273,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1075820,
       "num": 250268,
       "word": "妈宝女看不了孙怡这段",
@@ -505,14 +521,6 @@
       "onboard_time": 1756852457,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1043817,
-      "num": 1043817,
-      "word": "郭帆 改剧本",
-      "onboard_time": 1756869273,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 1037074,
@@ -555,20 +563,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 966474,
-      "num": 726483,
-      "word": "好帅的女机长",
-      "onboard_time": 1756870171,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 962522,
       "num": 281778,
       "word": "成人安抚奶嘴夜间订单量暴增",
       "onboard_time": 1756634840,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 954887,
+      "num": 610181,
+      "word": "新华社秒了",
+      "onboard_time": 1756870831,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 953468,
@@ -1107,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567262,
+      "num": 567262,
+      "word": "雷军晒观礼请柬",
+      "onboard_time": 1756871011,
+      "rank": 33,
+      "category": "互联网,国内时政"
+    },
+    {
       "raw_hot": 566709,
       "num": 566709,
       "word": "东风快递 使命必达",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1756645823,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 550610,
+      "num": 550610,
+      "word": "郑钦文张雨霏坐一起观礼",
+      "onboard_time": 1756870411,
+      "rank": 44,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 549271,
@@ -1203,14 +1227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 531244,
-      "num": 531244,
-      "word": "郑钦文张雨霏坐一起观礼",
-      "onboard_time": 1756870411,
-      "rank": 44,
-      "category": "体育,国内时政"
-    },
-    {
       "raw_hot": 529750,
       "num": 529750,
       "word": "阅兵剧透来了",
@@ -1259,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523545,
+      "num": 523545,
+      "word": "8万羽和平鸽8万只气球",
+      "onboard_time": 1756870591,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 520112,
       "num": 463080,
       "word": "金正恩已启程来华",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1756771460,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 502333,
+      "num": 502333,
+      "word": "这句覆盖全球给我听燃了",
+      "onboard_time": 1756870831,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 498507,
@@ -1579,6 +1611,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 427023,
+      "num": 427023,
+      "word": "杨靖宇狼牙山五壮士刘老庄连",
+      "onboard_time": 1756870532,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 424195,
       "num": 398554,
       "word": "花少7时长统计",
@@ -1721,6 +1761,14 @@
       "onboard_time": 1756773441,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390831,
+      "num": 390831,
+      "word": "即墨城第一连",
+      "onboard_time": 1756870892,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 390306,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1756635262,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362478,
+      "num": 4996192,
+      "word": "中华民族伟大复兴势不可挡",
+      "onboard_time": 1756869812,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 362266,
@@ -2364,7 +2420,7 @@
     },
     {
       "raw_hot": 293368,
-      "num": 642919,
+      "num": 3204076,
       "word": "今天14亿中国人都是护旗手",
       "onboard_time": 1756864404,
       "rank": 36,
@@ -2937,14 +2993,6 @@
       "onboard_time": 1756613240,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230864,
-      "num": 4991900,
-      "word": "中华民族伟大复兴势不可挡",
-      "onboard_time": 1756869812,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 230621,
