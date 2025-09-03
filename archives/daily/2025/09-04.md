@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 00:45:41
+本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 01:21:41
 </p>
 </blockquote>
 <p>
@@ -303,6 +303,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%92%8C%E5%B9%B3%E4%B8%8E%E5%8F%91%E5%B1%95%E7%9A%84%E5%B4%87%E9%AB%98%E4%BA%8B%E4%B8%9A%E5%BF%85%E5%B0%86%E8%83%9C%E5%88%A9%23" target="weibo">
+人类和平与发展的崇高事业必将胜利（热度：68387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%20%E7%BA%AA%E5%BD%95%E7%89%87%23" target="weibo">
 流浪地球 纪录片（热度：66015）
 </a>
@@ -317,6 +323,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%AD%89%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E4%BA%A4%E4%BD%9C%E4%B8%9A%E4%BA%86%23" target="weibo">
 马龙王楚钦等看完阅兵交作业了（热度：53667）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%20%E5%A5%BD%E5%93%AD%23" target="weibo">
+文艺晚会 好哭（热度：46988）
 </a>
 </li>
 

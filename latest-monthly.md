@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/04 00:45:41
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/04 01:21:41
 </p>
 </blockquote>
 <p>
@@ -5571,6 +5571,12 @@ aespa演唱会变星光大赏（热度：70027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%92%8C%E5%B9%B3%E4%B8%8E%E5%8F%91%E5%B1%95%E7%9A%84%E5%B4%87%E9%AB%98%E4%BA%8B%E4%B8%9A%E5%BF%85%E5%B0%86%E8%83%9C%E5%88%A9%23" target="weibo">
+人类和平与发展的崇高事业必将胜利（热度：68387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E7%9C%8B%E5%B0%8F%E8%AF%B4%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E6%BD%9C%E5%8A%9B%E8%82%A1%23" target="weibo">
 爱看小说的人都是潜力股（热度：67982）
 </a>
@@ -6005,12 +6011,6 @@ AG玩游戏一点都不基础（热度：58467）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%8D%8A%E5%B0%8F%E7%8B%97%E6%8D%A1%E7%93%B6%E5%AD%90%E6%97%A5%E5%85%A550%E5%85%83%23" target="weibo">
 5岁半小狗捡瓶子日入50元（热度：48427）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B16%E6%AF%940%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%23" target="weibo">
-山东泰山6比0北京国安（热度：48172）
 </a>
 </li>
 
