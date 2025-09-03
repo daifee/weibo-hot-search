@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756868934910,
+  "endTime": 1756870451788,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -441,6 +441,14 @@
       "onboard_time": 1743504622,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 14582987,
+      "num": 5553090,
+      "word": "法新社出图",
+      "onboard_time": 1756868440,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14578485,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1749824609,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4209075,
-      "num": 4209075,
-      "word": "刘晓庆被举报偷税",
-      "onboard_time": 1747278321,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

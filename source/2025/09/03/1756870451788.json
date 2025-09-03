@@ -1,0 +1,410 @@
+{
+  "runTime": 1756870451788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 18451832,
+        "num": 18451832,
+        "word": "东风61",
+        "onboard_time": 1756863022,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10193306,
+        "num": 10586519,
+        "word": "东风5C打击范围覆盖全球",
+        "onboard_time": 1756866035,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230864,
+        "num": 4991900,
+        "word": "中华民族伟大复兴势不可挡",
+        "onboard_time": 1756869812,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6723583,
+        "num": 6723583,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5627569,
+        "num": 5627569,
+        "word": "军迷变军盲",
+        "onboard_time": 1756864345,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14582987,
+        "num": 5553090,
+        "word": "法新社出图",
+        "onboard_time": 1756868440,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5103329,
+        "num": 5103329,
+        "word": "放飞和平鸽",
+        "onboard_time": 1756866576,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4807828,
+        "num": 4807828,
+        "word": "女兵方阵 飒",
+        "onboard_time": 1756863269,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4804785,
+        "num": 4804785,
+        "word": "阅兵直播",
+        "onboard_time": 1756851015,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3057470,
+        "num": 3057470,
+        "word": "看战机眼睛不够用了",
+        "onboard_time": 1756867199,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2517950,
+        "num": 2517950,
+        "word": "新华社出图",
+        "onboard_time": 1756869992,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2246672,
+        "num": 2246672,
+        "word": "受阅女民兵着装",
+        "onboard_time": 1756862966,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1946716,
+        "num": 1946716,
+        "word": "激光武器",
+        "onboard_time": 1756865975,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1938113,
+        "num": 1938113,
+        "word": "阅兵飞机",
+        "onboard_time": 1756864584,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1597056,
+        "num": 1597056,
+        "word": "咱家飞机再也不用飞两遍",
+        "onboard_time": 1756867492,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1514589,
+        "num": 1514589,
+        "word": "歼35",
+        "onboard_time": 1756867025,
+        "rank": 15,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 161463,
+        "num": 1377233,
+        "word": "红旗见证时代荣光",
+        "onboard_time": 1756867316,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1355064,
+        "num": 1355064,
+        "word": "机器狼",
+        "onboard_time": 1756866781,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1341853,
+        "num": 1341853,
+        "word": "99B坦克率先亮相",
+        "onboard_time": 1756865614,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 537342,
+        "num": 1299306,
+        "word": "巨浪3",
+        "onboard_time": 1756868083,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2638061,
+        "num": 1298101,
+        "word": "金正恩抵达",
+        "onboard_time": 1756859242,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1296063,
+        "num": 1296063,
+        "word": "阅兵车牌号是1945和2025",
+        "onboard_time": 1756865254,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1128269,
+        "num": 1128269,
+        "word": "看到老兵 瞬间泪目",
+        "onboard_time": 1756860627,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1045832,
+        "num": 1045832,
+        "word": "鸠山由纪夫来了",
+        "onboard_time": 1756860987,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1043817,
+        "num": 1043817,
+        "word": "郭帆 改剧本",
+        "onboard_time": 1756869273,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 963355,
+        "num": 963355,
+        "word": "劈枪太帅了",
+        "onboard_time": 1756865975,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 908044,
+        "num": 908044,
+        "word": "无人机 科幻",
+        "onboard_time": 1756865915,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 847418,
+        "num": 847418,
+        "word": "惊雷1",
+        "onboard_time": 1756868737,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 768647,
+        "num": 768647,
+        "word": "这是您浴血守卫的山河",
+        "onboard_time": 1756870352,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 767289,
+        "num": 767289,
+        "word": "女民兵方队亮相",
+        "onboard_time": 1756863022,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1167990,
+        "num": 734877,
+        "word": "杜江现场观礼",
+        "onboard_time": 1756863022,
+        "rank": 30,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 966474,
+        "num": 726483,
+        "word": "好帅的女机长",
+        "onboard_time": 1756870171,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 687655,
+        "num": 687655,
+        "word": "军盲时刻",
+        "onboard_time": 1756863865,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 681042,
+        "num": 681042,
+        "word": "歼20S",
+        "onboard_time": 1756865497,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 678858,
+        "num": 678858,
+        "word": "东风5C",
+        "onboard_time": 1756865915,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 671324,
+        "num": 671324,
+        "word": "歼20S震撼亮相",
+        "onboard_time": 1756869453,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 661184,
+        "num": 661184,
+        "word": "彩烟和天坛绝美同框",
+        "onboard_time": 1756869154,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169929,
+        "num": 642919,
+        "word": "今天14亿中国人都是护旗手",
+        "onboard_time": 1756864404,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 640033,
+        "num": 640033,
+        "word": "东风41",
+        "onboard_time": 1756867316,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 585437,
+        "num": 585437,
+        "word": "放飞气球",
+        "onboard_time": 1756870171,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571964,
+        "num": 571964,
+        "word": "网络空间部队",
+        "onboard_time": 1756866216,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 566709,
+        "num": 566709,
+        "word": "东风快递 使命必达",
+        "onboard_time": 1756869812,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 549271,
+        "num": 549271,
+        "word": "军事航天部队",
+        "onboard_time": 1756869932,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 542558,
+        "num": 542558,
+        "word": "真理",
+        "onboard_time": 1756865975,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 531244,
+        "num": 531244,
+        "word": "郑钦文张雨霏坐一起观礼",
+        "onboard_time": 1756870411,
+        "rank": 44,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 526046,
+        "num": 526046,
+        "word": "运20",
+        "onboard_time": 1756869632,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 499630,
+        "num": 499630,
+        "word": "红旗29",
+        "onboard_time": 1756867025,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48172,
+        "num": 497213,
+        "word": "国际乒联主席胜诉",
+        "onboard_time": 1756823783,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35513,
+        "num": 493764,
+        "word": "国际乒联就主席选举结果发表声明",
+        "onboard_time": 1756828761,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12025,
+        "num": 488619,
+        "word": "2025成都国际车展",
+        "onboard_time": 1756831398,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席发表重要讲话#"
+    }
+  }
+}

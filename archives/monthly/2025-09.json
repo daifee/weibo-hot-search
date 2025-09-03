@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756868934910,
+  "endTime": 1756870451788,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -24,6 +24,14 @@
       "word": "九三盛大阅兵",
       "onboard_time": 1756828941,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14582987,
+      "num": 5553090,
+      "word": "法新社出图",
+      "onboard_time": 1756868440,
+      "rank": 11,
       "category": "国内时政"
     },
     {
@@ -64,14 +72,6 @@
       "word": "金正恩抵达",
       "onboard_time": 1756859242,
       "rank": 12,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 3940573,
-      "num": 3940573,
-      "word": "法新社出图",
-      "onboard_time": 1756868440,
-      "rank": 11,
       "category": "国内时政"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1756867025,
       "rank": 17,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 2517950,
+      "num": 2517950,
+      "word": "新华社出图",
+      "onboard_time": 1756869992,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2495879,
@@ -419,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1043817,
+      "num": 1043817,
+      "word": "郭帆 改剧本",
+      "onboard_time": 1756869273,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1002169,
       "num": 344182,
       "word": "咖啡因 布洛芬",
@@ -449,6 +465,14 @@
       "onboard_time": 1756783341,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 966474,
+      "num": 726483,
+      "word": "好帅的女机长",
+      "onboard_time": 1756870171,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 953468,
@@ -587,6 +611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 847418,
+      "num": 847418,
+      "word": "惊雷1",
+      "onboard_time": 1756868737,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 834306,
       "num": 834306,
       "word": "尼总理拒绝日本游说来华出席阅兵",
@@ -659,11 +691,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 745528,
-      "num": 745528,
-      "word": "惊雷1",
-      "onboard_time": 1756868737,
-      "rank": 42,
+      "raw_hot": 768647,
+      "num": 768647,
+      "word": "这是您浴血守卫的山河",
+      "onboard_time": 1756870352,
+      "rank": 28,
       "category": "国内时政"
     },
     {
@@ -771,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 671324,
+      "num": 671324,
+      "word": "歼20S震撼亮相",
+      "onboard_time": 1756869453,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 664750,
       "num": 476491,
       "word": "上班的内容是集体观看阅兵",
@@ -792,6 +832,14 @@
       "word": "100坦克",
       "onboard_time": 1756868144,
       "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 661184,
+      "num": 661184,
+      "word": "彩烟和天坛绝美同框",
+      "onboard_time": 1756869154,
+      "rank": 36,
       "category": "国内时政"
     },
     {
@@ -851,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585437,
+      "num": 585437,
+      "word": "放飞气球",
+      "onboard_time": 1756870171,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 578973,
       "num": 578973,
       "word": "日本破防称抗战阅兵是仇恨教育",
@@ -867,12 +923,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 566709,
+      "num": 566709,
+      "word": "东风快递 使命必达",
+      "onboard_time": 1756869812,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 563946,
       "num": 155497,
       "word": "伪装者",
       "onboard_time": 1756649604,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 549271,
+      "num": 549271,
+      "word": "军事航天部队",
+      "onboard_time": 1756869932,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 542645,
@@ -907,6 +979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 531244,
+      "num": 531244,
+      "word": "郑钦文张雨霏坐一起观礼",
+      "onboard_time": 1756870411,
+      "rank": 44,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 529750,
       "num": 529750,
       "word": "阅兵剧透来了",
@@ -921,6 +1001,14 @@
       "onboard_time": 1756740801,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526046,
+      "num": 526046,
+      "word": "运20",
+      "onboard_time": 1756869632,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 524986,
@@ -1676,7 +1764,7 @@
     },
     {
       "raw_hot": 293368,
-      "num": 293368,
+      "num": 642919,
       "word": "今天14亿中国人都是护旗手",
       "onboard_time": 1756864404,
       "rank": 36,
@@ -2072,6 +2160,14 @@
       "word": "保卫黄河 血脉觉醒",
       "onboard_time": 1756861164,
       "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 230864,
+      "num": 4991900,
+      "word": "中华民族伟大复兴势不可挡",
+      "onboard_time": 1756869812,
+      "rank": 2,
       "category": "国内时政"
     },
     {
