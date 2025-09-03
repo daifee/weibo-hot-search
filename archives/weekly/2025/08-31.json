@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756921152855,
+  "endTime": 1756924473566,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -11435,6 +11435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 38429,
+      "num": 38429,
+      "word": "军旗",
+      "onboard_time": 1756923195,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38256,
       "num": 79568,
       "word": "丁程鑫跳了发牌摇扫腿舞",
@@ -11595,6 +11603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33258,
+      "num": 33258,
+      "word": "战旗方队",
+      "onboard_time": 1756922116,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32978,
       "num": 107259,
       "word": "抗战胜利80周年纪念章是什么样",
@@ -11675,6 +11691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30298,
+      "num": 30298,
+      "word": "新闻出图宏大的又有温度的",
+      "onboard_time": 1756923556,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30118,
       "num": 196880,
       "word": "郑合惠子演出了那种明媚的忧伤",
@@ -11737,6 +11761,30 @@
       "onboard_time": 1756679296,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27116,
+      "num": 57330,
+      "word": "轰6N战略轰炸机",
+      "onboard_time": 1756922595,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 27011,
+      "num": 27011,
+      "word": "延安延安",
+      "onboard_time": 1756923435,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 26777,
+      "num": 26777,
+      "word": "香港同胞看完阅兵说太了不起了",
+      "onboard_time": 1756923195,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26551,
