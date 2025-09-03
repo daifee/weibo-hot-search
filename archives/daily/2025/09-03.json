@@ -1,6 +1,6 @@
 {
   "startTime": 1756830747288,
-  "endTime": 1756899423156,
+  "endTime": 1756903780303,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -41,6 +41,14 @@
       "onboard_time": 1756868440,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10009294,
+      "num": 10009294,
+      "word": "文艺晚会",
+      "onboard_time": 1756900703,
+      "rank": 0,
+      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 9107094,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 2988867,
-      "num": 765718,
+      "num": 920494,
       "word": "特朗普祝中国人民度过美好庆祝日",
       "onboard_time": 1756891104,
       "rank": 10,
@@ -419,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1427019,
+      "num": 1427019,
+      "word": "文艺晚会 好哭",
+      "onboard_time": 1756902684,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1415309,
       "num": 1076898,
       "word": "郭帆 改剧本",
@@ -475,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1184375,
+      "num": 1184375,
+      "word": "和平鸽与国徽同框壁纸",
+      "onboard_time": 1756896804,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1152471,
       "num": 693617,
       "word": "普京盛赞九三阅兵",
@@ -497,6 +521,14 @@
       "onboard_time": 1756867433,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1134758,
+      "num": 976030,
+      "word": "这是胡先煦吗",
+      "onboard_time": 1756902925,
+      "rank": 10,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 1082472,
@@ -529,6 +561,14 @@
       "onboard_time": 1756864345,
       "rank": 37,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 975974,
+      "num": 975974,
+      "word": "抗战胜利80周年文艺晚会",
+      "onboard_time": 1756900464,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 948956,
@@ -640,14 +680,6 @@
       "word": "惊雷1",
       "onboard_time": 1756868737,
       "rank": 42,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 831558,
-      "num": 831558,
-      "word": "和平鸽与国徽同框壁纸",
-      "onboard_time": 1756896804,
-      "rank": 13,
       "category": "国内时政"
     },
     {
@@ -779,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 628933,
+      "num": 628933,
+      "word": "张柏芝在外网发为祖国点赞",
+      "onboard_time": 1756902144,
+      "rank": 13,
+      "category": "艺人,国内时政"
+    },
+    {
       "raw_hot": 624890,
       "num": 3204076,
       "word": "今天14亿中国人都是护旗手",
@@ -899,6 +939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 534886,
+      "num": 534886,
+      "word": "文艺晚会节目",
+      "onboard_time": 1756902505,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 531692,
       "num": 531692,
       "word": "百岁抗战老兵",
@@ -956,7 +1004,7 @@
     },
     {
       "raw_hot": 486593,
-      "num": 486593,
+      "num": 2087387,
       "word": "空着的1945检阅车",
       "onboard_time": 1756879706,
       "rank": 26,
@@ -1115,12 +1163,28 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 363720,
+      "num": 363720,
+      "word": "老兵哽咽哪个敢欺负咱们",
+      "onboard_time": 1756898243,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 362478,
       "num": 4996192,
       "word": "中华民族伟大复兴势不可挡",
       "onboard_time": 1756869812,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 359434,
+      "num": 285217,
+      "word": "文艺晚会看到郭京飞了",
+      "onboard_time": 1756902505,
+      "rank": 30,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 357391,
@@ -1152,6 +1216,14 @@
       "word": "56门礼炮80响鸣放",
       "onboard_time": 1756858763,
       "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 336633,
+      "num": 336633,
+      "word": "5万余人观礼离场后干干净净",
+      "onboard_time": 1756899263,
+      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -1203,6 +1275,14 @@
       "category": "艺人,国内时政"
     },
     {
+      "raw_hot": 318480,
+      "num": 318480,
+      "word": "小伙为参加九三阅兵式推迟婚礼",
+      "onboard_time": 1756901844,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 316609,
       "num": 316609,
       "word": "这盛世如您所愿",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1756856362,
       "rank": 32,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 296566,
+      "num": 510911,
+      "word": "郭帆今天内心写照",
+      "onboard_time": 1756899023,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 296533,
@@ -1331,12 +1419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267898,
+      "num": 267898,
+      "word": "郑钦文晒东风5C帅照",
+      "onboard_time": 1756900824,
+      "rank": 32,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 267162,
-      "num": 798482,
+      "num": 986995,
       "word": "流浪地球 纪录片",
       "onboard_time": 1756894404,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262345,
+      "num": 262345,
+      "word": "刘昊然台词",
+      "onboard_time": 1756903105,
+      "rank": 33,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 260813,
@@ -1344,14 +1448,6 @@
       "word": "阅兵版钢铁洪流进行曲MV",
       "onboard_time": 1756887682,
       "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 256534,
-      "num": 256534,
-      "word": "5万余人观礼离场后干干净净",
-      "onboard_time": 1756899263,
-      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -1523,12 +1619,12 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 223448,
-      "num": 223448,
-      "word": "老兵哽咽哪个敢欺负咱们",
-      "onboard_time": 1756898243,
-      "rank": 35,
-      "category": "国内时政"
+      "raw_hot": 211896,
+      "num": 211896,
+      "word": "霍启刚身着中山装观看阅兵",
+      "onboard_time": 1756899984,
+      "rank": 37,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 211520,
@@ -1587,6 +1683,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 195930,
+      "num": 195930,
+      "word": "阅兵壁纸",
+      "onboard_time": 1756893803,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194814,
       "num": 547048,
       "word": "直升机组成80字样",
@@ -1627,10 +1731,10 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 191538,
-      "num": 191538,
-      "word": "阅兵壁纸",
-      "onboard_time": 1756893803,
+      "raw_hot": 190729,
+      "num": 190729,
+      "word": "文艺晚会 音乐剧",
+      "onboard_time": 1756903525,
       "rank": 40,
       "category": "国内时政"
     },
@@ -1683,11 +1787,35 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181165,
+      "num": 181165,
+      "word": "王曼昱说深感和平来之不易",
+      "onboard_time": 1756902445,
+      "rank": 43,
+      "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 179777,
+      "num": 976082,
+      "word": "文艺晚会开场短片看泪目了",
+      "onboard_time": 1756902864,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 175911,
       "num": 4026215,
       "word": "今天是胜利的日子",
       "onboard_time": 1756831698,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 175224,
+      "num": 175224,
+      "word": "文艺晚会真的好震撼",
+      "onboard_time": 1756903645,
+      "rank": 44,
       "category": "国内时政"
     },
     {
@@ -1713,14 +1841,6 @@
       "onboard_time": 1756830020,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163334,
-      "num": 510911,
-      "word": "郭帆今天内心写照",
-      "onboard_time": 1756899023,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 162208,
@@ -1841,6 +1961,14 @@
       "onboard_time": 1756814961,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138471,
+      "num": 138471,
+      "word": "雷佳音和小栋哲",
+      "onboard_time": 1756903705,
+      "rank": 49,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 137504,

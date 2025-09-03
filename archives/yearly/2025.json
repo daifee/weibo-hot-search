@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756899423156,
+  "endTime": 1756903780303,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1735784479,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10009294,
+      "num": 10009294,
+      "word": "文艺晚会",
+      "onboard_time": 1756900703,
+      "rank": 0,
+      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 9992140,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1748010513,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4253645,
-      "num": 4253645,
-      "word": "王星失联前曾提分手女友瞬间秒懂",
-      "onboard_time": 1740186560,
-      "rank": 0,
-      "category": "民生新闻,艺人"
     }
   ],
   "hotgov_list": [

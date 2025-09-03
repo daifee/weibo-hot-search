@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/03 19:37:03
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/03 20:49:40
 </p>
 </blockquote>
 <p>
@@ -857,6 +857,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E9%97%AE%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%88%91%E6%80%8E%E4%B9%88%E7%9D%80%E4%BD%A0%E4%BA%86%23" target="weibo">
 于正问赵露思我怎么着你了（热度：10019281）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%23" target="weibo">
+文艺晚会（热度：10009294）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%82%AB%E6%B7%98%E6%B1%B0%23" target="weibo">
 林志炫淘汰（热度：4255396）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E6%9B%BE%E6%8F%90%E5%88%86%E6%89%8B%E5%A5%B3%E5%8F%8B%E7%9E%AC%E9%97%B4%E7%A7%92%E6%87%82%23" target="weibo">
-王星失联前曾提分手女友瞬间秒懂（热度：4253645）
 </a>
 </li>
 
