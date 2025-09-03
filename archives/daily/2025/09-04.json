@@ -1,6 +1,6 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756939120100,
+  "endTime": 1756941723829,
   "band_list": [
     {
       "raw_hot": 1760022,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 857795,
+      "num": 857795,
+      "word": "来华多国领导人接连发声",
+      "onboard_time": 1756940477,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 842234,
       "num": 842234,
       "word": "新华社好贴心",
@@ -51,11 +59,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 427531,
-      "num": 483516,
+      "raw_hot": 537809,
+      "num": 537809,
       "word": "中国排面给全世界亿点震撼",
       "onboard_time": 1756915222,
       "rank": 11,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 507282,
+      "num": 507282,
+      "word": "钟南山不到2岁时房子被日本飞机炸塌",
+      "onboard_time": 1756931114,
+      "rank": 26,
       "category": "国内时政"
     },
     {
@@ -115,20 +131,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 265323,
-      "num": 265323,
-      "word": "钟南山不到2岁时房子被日本飞机炸塌",
-      "onboard_time": 1756931114,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 258583,
       "num": 166841,
       "word": "吴越吴樾",
       "onboard_time": 1756904005,
       "rank": 21,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 242586,
+      "num": 242586,
+      "word": "小伙为参加九三阅兵式推迟婚礼",
+      "onboard_time": 1756901844,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 213337,
+      "num": 213337,
+      "word": "专家说东风61改变了命名规则",
+      "onboard_time": 1756891403,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 203199,
@@ -144,6 +168,14 @@
       "word": "东风5C打击范围覆盖全球",
       "onboard_time": 1756866035,
       "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 193746,
+      "num": 193746,
+      "word": "5万余人观礼离场后干干净净",
+      "onboard_time": 1756899263,
+      "rank": 33,
       "category": "国内时政"
     },
     {
@@ -187,12 +219,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155241,
+      "num": 155241,
+      "word": "美军看好的装备被我军率先实现",
+      "onboard_time": 1756935315,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151126,
       "num": 107933,
       "word": "阿云嘎郁可唯文艺晚会演唱歌曲",
       "onboard_time": 1756907425,
       "rank": 31,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 149365,
+      "num": 149365,
+      "word": "阅兵网友神评论",
+      "onboard_time": 1756934534,
+      "rank": 9,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 147326,
@@ -211,12 +259,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 135126,
-      "num": 135126,
-      "word": "阅兵网友神评论",
-      "onboard_time": 1756934534,
+      "raw_hot": 139297,
+      "num": 179260,
+      "word": "杭州男孩的骄傲爸爸两次受阅",
+      "onboard_time": 1756940477,
       "rank": 9,
-      "category": "国内时政,民生新闻"
+      "category": "国内时政"
     },
     {
       "raw_hot": 134492,
@@ -224,14 +272,6 @@
       "word": "这几个无人机出来军事博主都沉默了",
       "onboard_time": 1756877727,
       "rank": 25,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 134218,
-      "num": 134218,
-      "word": "小伙为参加九三阅兵式推迟婚礼",
-      "onboard_time": 1756901844,
-      "rank": 42,
       "category": "国内时政"
     },
     {
@@ -243,19 +283,19 @@
       "category": "艺人,国内时政"
     },
     {
-      "raw_hot": 119882,
-      "num": 119882,
-      "word": "专家说东风61改变了命名规则",
-      "onboard_time": 1756891403,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 119337,
       "num": 197369,
       "word": "抗战胜利80周年",
       "onboard_time": 1756915881,
       "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 116413,
+      "num": 123641,
+      "word": "台胞看完阅兵希望祖国尽快统一",
+      "onboard_time": 1756904067,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -283,14 +323,6 @@
       "category": "国内时政,综艺"
     },
     {
-      "raw_hot": 105533,
-      "num": 105533,
-      "word": "5万余人观礼离场后干干净净",
-      "onboard_time": 1756899263,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 104913,
       "num": 104913,
       "word": "孙颖莎看阅兵感想",
@@ -305,14 +337,6 @@
       "onboard_time": 1756886244,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103084,
-      "num": 123641,
-      "word": "台胞看完阅兵希望祖国尽快统一",
-      "onboard_time": 1756904067,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 102798,
@@ -339,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94739,
+      "num": 69945,
+      "word": "拉肚子到后面是化学损伤",
+      "onboard_time": 1756940538,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 90409,
       "num": 101278,
       "word": "普京盛赞九三阅兵",
@@ -363,12 +395,36 @@
       "category": "国内时政,综艺"
     },
     {
-      "raw_hot": 80994,
+      "raw_hot": 83605,
       "num": 101216,
       "word": "张柏芝在外网发为祖国点赞",
       "onboard_time": 1756902144,
       "rank": 44,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 83047,
+      "num": 83047,
+      "word": "王楚钦上课同学们咔咔一顿拍",
+      "onboard_time": 1756941079,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80158,
+      "num": 69515,
+      "word": "台湾民众观看阅兵直播",
+      "onboard_time": 1756941079,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 78407,
+      "num": 78407,
+      "word": "九三阅兵重磅武器汇总来了",
+      "onboard_time": 1756938197,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78219,
@@ -419,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66394,
+      "num": 66394,
+      "word": "刘老庄连82名先烈很少找到名字",
+      "onboard_time": 1756941439,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66015,
       "num": 311909,
       "word": "流浪地球 纪录片",
@@ -427,11 +491,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 65275,
-      "num": 43386,
-      "word": "美军看好的装备被我军率先实现",
-      "onboard_time": 1756935315,
-      "rank": 33,
+      "raw_hot": 57042,
+      "num": 59085,
+      "word": "轰炸机",
+      "onboard_time": 1756927574,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -451,6 +515,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 53011,
+      "num": 59043,
+      "word": "惊雷1空基远程导弹",
+      "onboard_time": 1756932914,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50474,
       "num": 50474,
       "word": "核导弹方队震撼登场",
@@ -467,12 +539,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39167,
-      "num": 39167,
-      "word": "惊雷1空基远程导弹",
-      "onboard_time": 1756932914,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 43756,
+      "num": 59027,
+      "word": "美网",
+      "onboard_time": 1756941439,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 38429,
@@ -515,14 +587,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27153,
-      "num": 37246,
-      "word": "轰炸机",
-      "onboard_time": 1756927574,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27011,
       "num": 27011,
       "word": "延安延安",
@@ -536,14 +600,6 @@
       "word": "香港同胞看完阅兵说太了不起了",
       "onboard_time": 1756923195,
       "rank": 37,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 25625,
-      "num": 57722,
-      "word": "九三阅兵重磅武器汇总来了",
-      "onboard_time": 1756938197,
-      "rank": 19,
       "category": "国内时政"
     },
     {
