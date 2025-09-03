@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/03 00:32:27 ~ 2025/09/03 12:29:39
+本榜单时间：2025/09/03 00:32:27 ~ 2025/09/03 12:42:50
 </p>
 </blockquote>
 <p>
@@ -27,6 +27,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%87%BA%E5%9B%BE%23" target="weibo">
+新华社出图（热度：18035765）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E7%9B%9B%E5%A4%A7%E9%98%85%E5%85%B5%23" target="weibo">
 九三盛大阅兵（热度：17274745）
 </a>
@@ -35,12 +41,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%96%B0%E7%A4%BE%E5%87%BA%E5%9B%BE%23" target="weibo">
 法新社出图（热度：14582987）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%87%BA%E5%9B%BE%23" target="weibo">
-新华社出图（热度：12136388）
 </a>
 </li>
 
@@ -88,7 +88,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%B8%85%E7%9A%84%E5%A5%B3%E6%9C%BA%E9%95%BF%23" target="weibo">
-好帅的女机长（热度：3462343）
+好帅的女机长（热度：3474867）
 </a>
 </li>
 
@@ -189,6 +189,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%89%911000%E5%AF%BC%E5%BC%B9%23" target="weibo">
+长剑1000导弹（热度：2038335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E8%BD%A6%E7%89%8C%E5%8F%B7%E6%98%AF1945%E5%92%8C2025%23" target="weibo">
 阅兵车牌号是1945和2025（热度：1943771）
 </a>
@@ -209,6 +215,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%20%E7%A7%91%E5%B9%BB%23" target="weibo">
 无人机 科幻（热度：1676681）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%BF%E7%88%BD%E5%8F%91%E8%A8%80%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
+耿爽发言含金量（热度：1673170）
 </a>
 </li>
 
@@ -237,12 +249,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%89%911000%E5%AF%BC%E5%BC%B9%23" target="weibo">
-长剑1000导弹（热度：1441747）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%90%86%23" target="weibo">
 真理（热度：1431648）
 </a>
@@ -250,7 +256,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%B8%86%20%E6%94%B9%E5%89%A7%E6%9C%AC%23" target="weibo">
-郭帆 改剧本（热度：1369208）
+郭帆 改剧本（热度：1415309）
 </a>
 </li>
 
@@ -279,6 +285,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E4%BA%8B%E8%88%AA%E5%A4%A9%E9%83%A8%E9%98%9F%E6%96%B9%E9%98%9F%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%23" target="weibo">
+军事航天部队方队首次亮相（热度：1159644）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E51%23" target="weibo">
 东风51（热度：1136841）
 </a>
@@ -297,12 +309,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%BF%E7%88%BD%E5%8F%91%E8%A8%80%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
-耿爽发言含金量（热度：976246）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E5%A4%A9%E5%9B%A2%E7%8E%B0%E8%BA%AB%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%23" target="weibo">
 外交天团现身天安门广场（热度：948956）
 </a>
@@ -317,6 +323,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E8%A7%A3%E8%AF%B4%20%E5%88%9A%E5%BC%BA%E5%AE%9D%E6%99%93%E5%B3%B0%23" target="weibo">
 阅兵解说 刚强宝晓峰（热度：920545）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8F%A5%E8%A6%86%E7%9B%96%E5%85%A8%E7%90%83%E7%BB%99%E6%88%91%E5%90%AC%E7%87%83%E4%BA%86%23" target="weibo">
+这句覆盖全球给我听燃了（热度：909852）
 </a>
 </li>
 
@@ -357,14 +369,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8F%A5%E8%A6%86%E7%9B%96%E5%85%A8%E7%90%83%E7%BB%99%E6%88%91%E5%90%AC%E7%87%83%E4%BA%86%23" target="weibo">
-这句覆盖全球给我听燃了（热度：843071）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B9%E9%98%9F%23" target="weibo">
+反无人机方队（热度：786800）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B9%E9%98%9F%23" target="weibo">
-反无人机方队（热度：786800）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B0%91%E5%85%B5%E5%8F%97%E9%98%85%E5%89%8D%E4%BA%92%E7%9B%B8%E6%95%B4%E7%90%86%E6%88%8E%E8%A3%85%23" target="weibo">
+女民兵受阅前互相整理戎装（热度：769307）
 </a>
 </li>
 
@@ -377,6 +389,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%82%A8%E6%B5%B4%E8%A1%80%E5%AE%88%E5%8D%AB%E7%9A%84%E5%B1%B1%E6%B2%B3%23" target="weibo">
 这是您浴血守卫的山河（热度：768647）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9020%20%E8%83%96%E5%A6%9E%23" target="weibo">
+运20 胖妞（热度：754801）
 </a>
 </li>
 
@@ -429,14 +447,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%88%98%E5%A3%AB%E8%B5%B7%E8%BA%AB%E6%95%AC%E7%A4%BC%E5%9C%BA%E9%9D%A2%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
-老战士起身敬礼场面看哭了（热度：617746）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A914%E4%BA%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%98%AF%E6%8A%A4%E6%97%97%E6%89%8B%23" target="weibo">
+今天14亿中国人都是护旗手（热度：624890）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B0%91%E5%85%B5%E5%8F%97%E9%98%85%E5%89%8D%E4%BA%92%E7%9B%B8%E6%95%B4%E7%90%86%E6%88%8E%E8%A3%85%23" target="weibo">
-女民兵受阅前互相整理戎装（热度：611999）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%88%98%E5%A3%AB%E8%B5%B7%E8%BA%AB%E6%95%AC%E7%A4%BC%E5%9C%BA%E9%9D%A2%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
+老战士起身敬礼场面看哭了（热度：619837）
 </a>
 </li>
 
@@ -453,20 +471,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E4%BA%8B%E8%88%AA%E5%A4%A9%E9%83%A8%E9%98%9F%E6%96%B9%E9%98%9F%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%23" target="weibo">
-军事航天部队方队首次亮相（热度：572762）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E%E5%BF%AB%E9%80%92%20%E4%BD%BF%E5%91%BD%E5%BF%85%E8%BE%BE%23" target="weibo">
 东风快递 使命必达（热度：566709）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9020%20%E8%83%96%E5%A6%9E%23" target="weibo">
-运20 胖妞（热度：560202）
 </a>
 </li>
 
@@ -489,8 +495,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A914%E4%BA%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%98%AF%E6%8A%A4%E6%97%97%E6%89%8B%23" target="weibo">
-今天14亿中国人都是护旗手（热度：544588）
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%82%E5%8A%A0%E9%98%85%E5%85%B5%E7%9A%84%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%B7%B2%E5%88%B0%E5%AE%B6%23" target="weibo">
+第一批参加阅兵的和平鸽已到家（热度：546284）
 </a>
 </li>
 
@@ -513,6 +519,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%B8%86%E8%BE%B9%E7%9C%8B%E8%BE%B9%E8%AE%B0%E7%AC%94%E8%AE%B0%23" target="weibo">
+郭帆边看边记笔记（热度：521354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%9D%96%E5%AE%87%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E5%88%98%E8%80%81%E5%BA%84%E8%BF%9E%23" target="weibo">
+杨靖宇狼牙山五壮士刘老庄连（热度：490474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%20%E5%BC%BA%E8%BF%AB%E7%97%87%E7%8B%82%E5%96%9C%23" target="weibo">
 阅兵 强迫症狂喜（热度：483135）
 </a>
@@ -521,6 +539,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%88%AA%E5%9B%BE%E9%94%AE%E4%BB%8A%E5%A4%A9%E5%A4%AA%E5%BF%99%E4%BA%86%23" target="weibo">
 手机截图键今天太忙了（热度：465074）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E5%92%8C%E4%BA%BA%E6%B0%91%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E4%BF%A1%E8%B5%96%E8%A7%A3%E6%94%BE%E5%86%9B%23" target="weibo">
+党和人民完全可以信赖解放军（热度：444459）
 </a>
 </li>
 
@@ -537,20 +561,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%9D%96%E5%AE%87%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E5%88%98%E8%80%81%E5%BA%84%E8%BF%9E%23" target="weibo">
-杨靖宇狼牙山五壮士刘老庄连（热度：427023）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%B8%86%E8%BE%B9%E7%9C%8B%E8%BE%B9%E8%AE%B0%E7%AC%94%E8%AE%B0%23" target="weibo">
-郭帆边看边记笔记（热度：425497）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%23" target="weibo">
-赴山海（热度：400980）
+赴山海（热度：416442）
 </a>
 </li>
 
@@ -605,12 +617,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E9%98%85%E5%85%B5%E8%BF%9B%E5%9C%BA%E6%9C%80%E6%97%A9%E6%92%A4%E5%9C%BA%E6%9C%80%E6%99%9A%E7%9A%84%E9%98%9F%E4%BC%8D%23" target="weibo">
 这是阅兵进场最早撤场最晚的队伍（热度：320959）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E5%92%8C%E4%BA%BA%E6%B0%91%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E4%BF%A1%E8%B5%96%E8%A7%A3%E6%94%BE%E5%86%9B%23" target="weibo">
-党和人民完全可以信赖解放军（热度：316116）
 </a>
 </li>
 
@@ -813,6 +819,12 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%A7%82%E7%9C%8B%E9%98%85%E5%85%B5%E5%90%8E%E5%8F%91%E6%96%87%23" target="weibo">
+武大靖观看阅兵后发文（热度：154040）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BB%AA%E4%BB%97%E5%A5%B3%E5%85%B5%23" target="weibo">
 这就是又美又飒的中国仪仗女兵（热度：152773）
 </a>
@@ -825,6 +837,12 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%A7%82%E7%9C%8B%E9%98%85%E5%85%B5%E5%90%8E%E5%8F%91%E6%96%87%23" target="weibo">
+吴艳妮观看阅兵后发文（热度：148387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E8%A7%86%E9%A2%91%E5%80%BC%E5%BE%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BB%8A%E6%99%9A%E4%B8%80%E8%B5%B7%E7%9C%8B%E7%9C%8B%23" target="weibo">
 这条视频值得中国人今晚一起看看（热度：147713）
 </a>
@@ -833,12 +851,6 @@ iPhone17Pro涨价（热度：247271）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9%E8%B5%B0%E5%90%91%E4%BC%9F%E5%A4%A7%E5%A4%8D%E5%85%B4%23" target="weibo">
 从伟大胜利走向伟大复兴（热度：147302）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%A7%82%E7%9C%8B%E9%98%85%E5%85%B5%E5%90%8E%E5%8F%91%E6%96%87%23" target="weibo">
-武大靖观看阅兵后发文（热度：142911）
 </a>
 </li>
 
@@ -887,12 +899,6 @@ iPhone17Pro涨价（热度：247271）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B8%8A%E7%BA%BF%E4%B9%9D%E4%B8%89%E7%BA%AA%E5%BF%B5%E4%B8%93%E5%B1%9E%E7%82%B9%E8%B5%9E%E7%89%B9%E6%95%88%23" target="weibo">
 微博上线九三纪念专属点赞特效（热度：114233）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%A7%82%E7%9C%8B%E9%98%85%E5%85%B5%E5%90%8E%E5%8F%91%E6%96%87%23" target="weibo">
-吴艳妮观看阅兵后发文（热度：111558）
 </a>
 </li>
 
@@ -1007,6 +1013,12 @@ iPhone17Pro涨价（热度：247271）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E7%B2%BE%E5%BD%A9%E7%9C%8B%E7%82%B9%23" target="weibo">
 一图速览九三阅兵精彩看点（热度：74823）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AF%B4%E4%BA%B2%E7%9C%BC%E8%A7%82%E7%9C%8B%E9%98%85%E5%85%B5%E6%BF%80%E5%8A%A8%E8%87%AA%E8%B1%AA%23" target="weibo">
+武大靖说亲眼观看阅兵激动自豪（热度：73810）
 </a>
 </li>
 
