@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756896121825,
+  "endTime": 1756898469521,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -371,6 +371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1735770,
+      "num": 482678,
+      "word": "吴京",
+      "onboard_time": 1756895064,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1692401,
       "num": 835420,
       "word": "去现场观礼的明星",
@@ -448,6 +456,14 @@
       "word": "真理",
       "onboard_time": 1756865975,
       "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1427916,
+      "num": 1427916,
+      "word": "嘉奖参加阅兵全体人员",
+      "onboard_time": 1756896623,
+      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -681,14 +697,6 @@
       "onboard_time": 1756870831,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 899421,
-      "num": 440526,
-      "word": "吴京",
-      "onboard_time": 1756895064,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 897836,
@@ -1147,6 +1155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 598712,
+      "num": 598712,
+      "word": "和平鸽与国徽同框壁纸",
+      "onboard_time": 1756896804,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 597362,
       "num": 597362,
       "word": "8万只气球有6个颜色",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1756649604,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 553073,
+      "num": 553073,
+      "word": "原来和平鸽是这么被选上的",
+      "onboard_time": 1756894885,
+      "rank": 30,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 552004,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1756730843,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 533054,
+      "num": 533054,
+      "word": "和平鸽也有工资",
+      "onboard_time": 1756894763,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 531892,
@@ -1467,6 +1499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 469553,
+      "num": 469553,
+      "word": "救下迷路和平鸽",
+      "onboard_time": 1756893624,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 465308,
       "num": 536334,
       "word": "水下兵器亮相阅兵",
@@ -1555,14 +1595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 447838,
-      "num": 447838,
-      "word": "原来和平鸽是这么被选上的",
-      "onboard_time": 1756894885,
-      "rank": 30,
-      "category": "国内时政,科学科普"
-    },
-    {
       "raw_hot": 447503,
       "num": 342548,
       "word": "校方回应86%网民严选的军训服被嫌丑",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1756734623,
       "rank": 13,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 442454,
-      "num": 442454,
-      "word": "救下迷路和平鸽",
-      "onboard_time": 1756893624,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 438806,
@@ -2064,6 +2088,14 @@
       "word": "九三盛大阅兵明天见",
       "onboard_time": 1756807102,
       "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 327815,
+      "num": 255357,
+      "word": "谁给我们胖妞剪成这样了",
+      "onboard_time": 1756896685,
+      "rank": 30,
       "category": "国内时政"
     },
     {
@@ -2611,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247355,
+      "num": 724029,
+      "word": "流浪地球 纪录片",
+      "onboard_time": 1756894404,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 247271,
       "num": 112059,
       "word": "iPhone17Pro涨价",
@@ -2632,6 +2672,14 @@
       "word": "13个徒步方队完整视频",
       "onboard_time": 1756888044,
       "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 245710,
+      "num": 245710,
+      "word": "阅兵现场为何要准备热姜茶",
+      "onboard_time": 1756895424,
+      "rank": 27,
       "category": "国内时政"
     },
     {
@@ -2691,14 +2739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240657,
-      "num": 240657,
-      "word": "阅兵现场为何要准备热姜茶",
-      "onboard_time": 1756895424,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 240124,
       "num": 2531803,
       "word": "红旗见证时代荣光",
@@ -2721,6 +2761,14 @@
       "onboard_time": 1756788201,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238386,
+      "num": 238386,
+      "word": "妈妈一眼锁定阅兵方阵中儿子",
+      "onboard_time": 1756897584,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 237278,
@@ -2843,12 +2891,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224404,
-      "num": 724029,
-      "word": "流浪地球 纪录片",
-      "onboard_time": 1756894404,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 223448,
+      "num": 223448,
+      "word": "老兵哽咽哪个敢欺负咱们",
+      "onboard_time": 1756898243,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 223358,
@@ -2907,14 +2955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 217873,
-      "num": 204775,
-      "word": "和平鸽也有工资",
-      "onboard_time": 1756894763,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 216456,
       "num": 216456,
       "word": "光遇",
@@ -2945,6 +2985,14 @@
       "onboard_time": 1756706001,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210712,
+      "num": 708837,
+      "word": "郭帆回应改剧本",
+      "onboard_time": 1756897523,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 210443,
@@ -3491,6 +3539,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 174950,
+      "num": 174950,
+      "word": "阅兵壁纸",
+      "onboard_time": 1756893803,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174934,
       "num": 164800,
       "word": "旺旺总经理赴京看九三阅兵",
@@ -3569,14 +3625,6 @@
       "onboard_time": 1756812322,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170295,
-      "num": 170295,
-      "word": "阅兵壁纸",
-      "onboard_time": 1756893803,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 170197,
@@ -5379,6 +5427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104195,
+      "num": 137183,
+      "word": "三大运营商回应是否支持eSIM版iPhone",
+      "onboard_time": 1756897883,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 103537,
       "num": 205903,
       "word": "无人作战群",
@@ -5497,6 +5553,14 @@
       "onboard_time": 1756717881,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100108,
+      "num": 136107,
+      "word": "刘国梁说爱我中华",
+      "onboard_time": 1756897584,
+      "rank": 48,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 100093,
@@ -6971,6 +7035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64468,
+      "num": 589627,
+      "word": "加快建设世界一流军队",
+      "onboard_time": 1756894524,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64017,
       "num": 389440,
       "word": "莎指导又双叒叕上线了",
@@ -7729,6 +7801,14 @@
       "onboard_time": 1756827082,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24984,
+      "num": 175088,
+      "word": "大国重器经过家门口",
+      "onboard_time": 1756898123,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24423,
