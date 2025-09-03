@@ -1,0 +1,410 @@
+{
+  "runTime": 1756914034354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5291754,
+        "num": 5291754,
+        "word": "文艺晚会",
+        "onboard_time": 1756900703,
+        "rank": 0,
+        "category": "国内时政,综艺"
+      },
+      {
+        "raw_hot": 1680182,
+        "num": 1680182,
+        "word": "新华社好贴心",
+        "onboard_time": 1756911024,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204061,
+        "num": 1092785,
+        "word": "阅兵回放",
+        "onboard_time": 1756896144,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2263408,
+        "num": 1082172,
+        "word": "金正恩对韩国会议长只说了一个字",
+        "onboard_time": 1756911805,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1055069,
+        "num": 1055069,
+        "word": "新华社出图",
+        "onboard_time": 1756869992,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 621613,
+        "num": 621613,
+        "word": "坦克有没有后视镜",
+        "onboard_time": 1756893204,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510525,
+        "num": 510525,
+        "word": "一家人举国旗看阅兵飞机",
+        "onboard_time": 1756907547,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 504627,
+        "num": 504627,
+        "word": "和平鸽与国徽同框壁纸",
+        "onboard_time": 1756896804,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 488859,
+        "num": 488859,
+        "word": "90岁钟南山院士佩戴共和国勋章观礼",
+        "onboard_time": 1756910784,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99719,
+        "num": 473197,
+        "word": "流浪地球 纪录片",
+        "onboard_time": 1756894404,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 566859,
+        "num": 470431,
+        "word": "普京与金正恩在京会谈",
+        "onboard_time": 1756908205,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 462401,
+        "num": 462401,
+        "word": "法新社出图",
+        "onboard_time": 1756868440,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191783,
+        "num": 338057,
+        "word": "满屏飞飞飞飞机需要长长长长图",
+        "onboard_time": 1756910965,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335983,
+        "num": 335983,
+        "word": "原来和平鸽是这么被选上的",
+        "onboard_time": 1756894885,
+        "rank": 13,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 333013,
+        "num": 333013,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285547,
+        "num": 285547,
+        "word": "东风5C打击范围覆盖全球",
+        "onboard_time": 1756866035,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267902,
+        "num": 267902,
+        "word": "阅兵收视率",
+        "onboard_time": 1756885223,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250391,
+        "num": 250391,
+        "word": "这几个无人机出来军事博主都沉默了",
+        "onboard_time": 1756877727,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241948,
+        "num": 241948,
+        "word": "文艺晚会能不能全国巡演",
+        "onboard_time": 1756906765,
+        "rank": 18,
+        "category": "国内时政,综艺"
+      },
+      {
+        "raw_hot": 686707,
+        "num": 237760,
+        "word": "特朗普祝中国人民度过美好庆祝日",
+        "onboard_time": 1756891104,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 407960,
+        "num": 236490,
+        "word": "吴越吴樾",
+        "onboard_time": 1756904005,
+        "rank": 20,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 229077,
+        "num": 229077,
+        "word": "台湾同胞为看阅兵没睡觉",
+        "onboard_time": 1756912524,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227881,
+        "num": 227881,
+        "word": "商家笑了俩小时才退款",
+        "onboard_time": 1756886244,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217106,
+        "num": 217106,
+        "word": "专家说东风61改变了命名规则",
+        "onboard_time": 1756891403,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180537,
+        "num": 180537,
+        "word": "孙颖莎看阅兵感想",
+        "onboard_time": 1756910424,
+        "rank": 24,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 178773,
+        "num": 178773,
+        "word": "坦克下班",
+        "onboard_time": 1756903945,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178376,
+        "num": 178376,
+        "word": "抗战胜利80周年文艺晚会",
+        "onboard_time": 1756900464,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167089,
+        "num": 167089,
+        "word": "阅兵壁纸",
+        "onboard_time": 1756893803,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163412,
+        "num": 163412,
+        "word": "永远守护这一抹中国红",
+        "onboard_time": 1756907964,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156551,
+        "num": 156551,
+        "word": "和平鸽也有工资",
+        "onboard_time": 1756894763,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580486,
+        "num": 156087,
+        "word": "这是胡先煦吗",
+        "onboard_time": 1756902925,
+        "rank": 30,
+        "category": "作品衍生,国内时政"
+      },
+      {
+        "raw_hot": 450272,
+        "num": 155842,
+        "word": "阿云嘎郁可唯文艺晚会演唱歌曲",
+        "onboard_time": 1756907425,
+        "rank": 31,
+        "category": "国内时政,综艺"
+      },
+      {
+        "raw_hot": 218014,
+        "num": 155741,
+        "word": "刘敏涛给我演哭了",
+        "onboard_time": 1756904546,
+        "rank": 32,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 155013,
+        "num": 155013,
+        "word": "台胞看完阅兵希望祖国尽快统一",
+        "onboard_time": 1756904067,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153828,
+        "num": 153828,
+        "word": "5万余人观礼离场后干干净净",
+        "onboard_time": 1756899263,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153632,
+        "num": 153632,
+        "word": "嘉奖参加阅兵全体人员",
+        "onboard_time": 1756896623,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145171,
+        "num": 145171,
+        "word": "普京盛赞九三阅兵",
+        "onboard_time": 1756890684,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143595,
+        "num": 143595,
+        "word": "韩国会议长与金正恩握手",
+        "onboard_time": 1756912283,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137101,
+        "num": 137101,
+        "word": "舞蹈 殇",
+        "onboard_time": 1756910784,
+        "rank": 38,
+        "category": "国内时政,综艺"
+      },
+      {
+        "raw_hot": 128430,
+        "num": 128430,
+        "word": "文艺晚会节目单",
+        "onboard_time": 1756904845,
+        "rank": 39,
+        "category": "国内时政,综艺"
+      },
+      {
+        "raw_hot": 128008,
+        "num": 128008,
+        "word": "声入人心",
+        "onboard_time": 1756908444,
+        "rank": 40,
+        "category": "国内时政,综艺"
+      },
+      {
+        "raw_hot": 117199,
+        "num": 117199,
+        "word": "阿云嘎郁可唯合唱",
+        "onboard_time": 1756909523,
+        "rank": 41,
+        "category": "国内时政,综艺"
+      },
+      {
+        "raw_hot": 115070,
+        "num": 115070,
+        "word": "中国人自己说了算",
+        "onboard_time": 1756907306,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112554,
+        "num": 112554,
+        "word": "霍启刚身着中山装观看阅兵",
+        "onboard_time": 1756899984,
+        "rank": 43,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 103297,
+        "num": 112485,
+        "word": "郑钦文晒东风5C帅照",
+        "onboard_time": 1756900824,
+        "rank": 44,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 90362,
+        "num": 112375,
+        "word": "文艺晚会导演",
+        "onboard_time": 1756907606,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90323,
+        "num": 112241,
+        "word": "马龙王楚钦等看完阅兵交作业了",
+        "onboard_time": 1756907484,
+        "rank": 46,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 81375,
+        "num": 112195,
+        "word": "笨笨 你是军犬",
+        "onboard_time": 1756886784,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80945,
+        "num": 112011,
+        "word": "孙颖莎阅兵观后感",
+        "onboard_time": 1756892303,
+        "rank": 48,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 80301,
+        "num": 111957,
+        "word": "小伙为参加九三阅兵式推迟婚礼",
+        "onboard_time": 1756901844,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记重要讲话金句来了#"
+    }
+  }
+}
