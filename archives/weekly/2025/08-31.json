@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756907084870,
+  "endTime": 1756909477541,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -361,6 +361,14 @@
       "onboard_time": 1756874851,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2016955,
+      "num": 564013,
+      "word": "张翰舞蹈",
+      "onboard_time": 1756906765,
+      "rank": 30,
+      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 1967139,
@@ -731,6 +739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1062745,
+      "num": 1062745,
+      "word": "文艺晚会能不能全国巡演",
+      "onboard_time": 1756906765,
+      "rank": 18,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 1062110,
       "num": 399369,
       "word": "金价",
@@ -1019,6 +1035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 843405,
+      "num": 548763,
+      "word": "阿云嘎郁可唯文艺晚会演唱歌曲",
+      "onboard_time": 1756907425,
+      "rank": 16,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 834306,
       "num": 834306,
       "word": "尼总理拒绝日本游说来华出席阅兵",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1756866515,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 774113,
-      "num": 318314,
-      "word": "张翰舞蹈",
-      "onboard_time": 1756906765,
-      "rank": 30,
-      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 769307,
@@ -1355,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 630663,
+      "num": 581638,
+      "word": "坦克下班",
+      "onboard_time": 1756903945,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 628933,
       "num": 628933,
       "word": "张柏芝在外网发为祖国点赞",
@@ -1384,6 +1408,14 @@
       "word": "老战士起身敬礼场面看哭了",
       "onboard_time": 1756872092,
       "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 613246,
+      "num": 613246,
+      "word": "一家人举国旗看阅兵飞机",
+      "onboard_time": 1756907547,
+      "rank": 7,
       "category": "国内时政"
     },
     {
@@ -1427,6 +1459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 590400,
+      "num": 544398,
+      "word": "普京与金正恩在京会谈",
+      "onboard_time": 1756908205,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 587987,
       "num": 587987,
       "word": "颁奖前陈雨菲哭了",
@@ -1447,14 +1487,6 @@
       "num": 585437,
       "word": "放飞气球",
       "onboard_time": 1756870171,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 581638,
-      "num": 581638,
-      "word": "坦克下班",
-      "onboard_time": 1756903945,
       "rank": 39,
       "category": "国内时政"
     },
@@ -1705,14 +1737,6 @@
       "onboard_time": 1756821861,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 524507,
-      "num": 524507,
-      "word": "文艺晚会能不能全国巡演",
-      "onboard_time": 1756906765,
-      "rank": 18,
-      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 524347,
@@ -3035,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301693,
+      "num": 301693,
+      "word": "声入人心",
+      "onboard_time": 1756908444,
+      "rank": 26,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 297933,
       "num": 386216,
       "word": "香港上空这一幕令人震撼",
@@ -3361,6 +3393,14 @@
       "onboard_time": 1756690819,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270830,
+      "num": 566167,
+      "word": "永远守护这一抹中国红",
+      "onboard_time": 1756907964,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 270551,
@@ -3779,6 +3819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236150,
+      "num": 236150,
+      "word": "王雷太会演了",
+      "onboard_time": 1756909104,
+      "rank": 33,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 235736,
       "num": 235736,
       "word": "升国旗 唱国歌",
@@ -4057,6 +4105,14 @@
       "onboard_time": 1756612881,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212338,
+      "num": 212338,
+      "word": "中国人自己说了算",
+      "onboard_time": 1756907306,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 211975,
@@ -4979,6 +5035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178928,
+      "num": 178928,
+      "word": "文艺晚会导演",
+      "onboard_time": 1756907606,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177106,
       "num": 177106,
       "word": "点外卖的最爽时刻",
@@ -5281,6 +5345,14 @@
       "onboard_time": 1756644141,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166082,
+      "num": 166082,
+      "word": "马龙王楚钦等看完阅兵交作业了",
+      "onboard_time": 1756907484,
+      "rank": 46,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 165630,
@@ -6192,6 +6264,14 @@
       "word": "中国女排0比2法国女排",
       "onboard_time": 1756639100,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141103,
+      "num": 156413,
+      "word": "U22国足险胜东帝汶队",
+      "onboard_time": 1756908205,
+      "rank": 49,
       "category": "体育"
     },
     {
