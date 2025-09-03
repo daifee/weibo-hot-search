@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/03 00:32:27 ~ 2025/09/03 16:32:34
+本榜单时间：2025/09/03 00:32:27 ~ 2025/09/03 16:45:36
 </p>
 </blockquote>
 <p>
@@ -153,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
+阅兵收视率（热度：2323040）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E4%B9%89%E5%BF%85%E8%83%9C%20%E5%92%8C%E5%B9%B3%E5%BF%85%E8%83%9C%20%E4%BA%BA%E6%B0%91%E5%BF%85%E8%83%9C%23" target="weibo">
 正义必胜 和平必胜 人民必胜（热度：2314129）
 </a>
@@ -179,12 +185,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%B1%E5%AE%B6%E9%A3%9E%E6%9C%BA%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A8%E9%A3%9E%E4%B8%A4%E9%81%8D%23" target="weibo">
 咱家飞机再也不用飞两遍（热度：2250916）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
-阅兵收视率（热度：2110651）
 </a>
 </li>
 
@@ -327,6 +327,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%AC%91%E4%BA%86%E4%BF%A9%E5%B0%8F%E6%97%B6%E6%89%8D%E9%80%80%E6%AC%BE%23" target="weibo">
+商家笑了俩小时才退款（热度：1235040）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E8%A7%A3%E8%AF%BB%23" target="weibo">
 九三阅兵解读（热度：1202393）
 </a>
@@ -365,12 +371,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E8%AF%B4%E6%9C%9F%E5%BE%85%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%A3%92%E7%9A%84%E5%88%86%E5%88%97%E5%BC%8F%23" target="weibo">
 杜江说期待世界上最棒的分列式（热度：989015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E7%AC%91%E4%BA%86%E4%BF%A9%E5%B0%8F%E6%97%B6%E6%89%8D%E9%80%80%E6%AC%BE%23" target="weibo">
-商家笑了俩小时才退款（热度：968683）
 </a>
 </li>
 
@@ -454,7 +454,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%97%E5%A4%9A%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E8%A7%82%E7%9C%8B%E4%BA%86%E9%98%85%E5%85%B5%E7%9B%B4%E6%92%AD%23" target="weibo">
-众多台湾网友观看了阅兵直播（热度：793074）
+众多台湾网友观看了阅兵直播（热度：808415）
 </a>
 </li>
 
@@ -509,6 +509,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%98%A5%E8%8E%B9%E5%92%8C%E8%AE%B0%E8%80%85%E8%AF%B4%E6%88%91%E8%B7%9F%E4%BD%A0%E4%B8%80%E6%A0%B7%E5%85%B4%E5%A5%8B%23" target="weibo">
 华春莹和记者说我跟你一样兴奋（热度：697110）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%A8%E7%AC%A8%20%E4%BD%A0%E6%98%AF%E5%86%9B%E7%8A%AC%23" target="weibo">
+笨笨 你是军犬（热度：678007）
 </a>
 </li>
 
@@ -711,6 +717,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%A9%BF%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%A0%A1%E6%9C%8D%23" target="weibo">
+王楚钦穿北京大学校服（热度：397175）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E9%AB%98%E5%94%B1%E5%9B%BD%E6%AD%8C%E8%B6%85%E9%9C%87%E6%92%BC%23" target="weibo">
 全场高唱国歌超震撼（热度：394154）
 </a>
@@ -789,12 +801,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%A9%BF%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%A0%A1%E6%9C%8D%23" target="weibo">
-王楚钦穿北京大学校服（热度：325584）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E4%BA%AE%E7%9B%B8%E9%98%85%E5%85%B5%E9%82%A3%E4%B8%80%E5%88%BB%E7%88%B6%E4%BA%B2%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%23" target="weibo">
 儿子亮相阅兵那一刻父亲热泪盈眶（热度：321008）
 </a>
@@ -831,6 +837,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%97%E9%98%85%E9%83%A8%E9%98%9F%E8%B7%91%E6%AD%A5%E7%99%BB%E8%BD%A6%E7%94%BB%E9%9D%A2%E8%A2%AB%E6%80%92%E5%A4%B8%23" target="weibo">
+受阅部队跑步登车画面被怒夸（热度：307180）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E6%80%8E%E4%B9%88%E7%9C%8B%23" target="weibo">
 九三阅兵怎么看（热度：295463）
 </a>
@@ -839,6 +851,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E6%96%B0%E7%94%BB%E8%B4%A5%E7%8A%AC%E9%99%8D%E6%9C%8D%E4%B9%8B%E6%97%B6%23" target="weibo">
 乌合麒麟新画败犬降服之时（热度：294485）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%8F%82%E5%8A%A0%E9%98%85%E5%85%B5%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
+和平鸽参加阅兵全过程（热度：293983）
 </a>
 </li>
 
@@ -873,14 +891,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%9C%E6%99%AF%23" target="weibo">
-北京夜景（热度：273531）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%85%A8%E8%BD%A6%E5%8E%A2%E9%83%BD%E5%9C%A8%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
+高铁全车厢都在看阅兵（热度：274671）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%A8%E7%AC%A8%20%E4%BD%A0%E6%98%AF%E5%86%9B%E7%8A%AC%23" target="weibo">
-笨笨 你是军犬（热度：264418）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%9C%E6%99%AF%23" target="weibo">
+北京夜景（热度：273531）
 </a>
 </li>
 
@@ -911,6 +929,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17Pro%E6%B6%A8%E4%BB%B7%23" target="weibo">
 iPhone17Pro涨价（热度：247271）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2313%E4%B8%AA%E5%BE%92%E6%AD%A5%E6%96%B9%E9%98%9F%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91%23" target="weibo">
+13个徒步方队完整视频（热度：246893）
 </a>
 </li>
 
@@ -975,8 +999,8 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%8F%82%E5%8A%A0%E9%98%85%E5%85%B5%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
-和平鸽参加阅兵全过程（热度：219307）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E7%A7%80%E8%A1%8C%23" target="weibo">
+云秀行（热度：212156）
 </a>
 </li>
 
@@ -1025,6 +1049,12 @@ iPhone17Pro涨价（热度：247271）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87%E4%BA%AE%E7%9B%B8%E9%95%BF%E5%AE%89%E8%A1%97%23" target="weibo">
 阅兵武器装备亮相长安街（热度：194307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E4%B8%8B%E5%85%B5%E5%99%A8%E4%BA%AE%E7%9B%B8%E9%98%85%E5%85%B5%23" target="weibo">
+水下兵器亮相阅兵（热度：193530）
 </a>
 </li>
 
@@ -1155,6 +1185,12 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E8%AF%B4%E7%9C%8B%E5%88%B0%E6%96%B9%E9%98%9F%E7%9E%AC%E9%97%B4%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%23" target="weibo">
+陈梦说看到方队瞬间起鸡皮疙瘩（热度：134342）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E7%A7%80%E6%9F%B1%E8%AF%B4%E5%9B%9E%E5%8F%B0%E8%A2%AB%E6%89%B9%E5%88%A4%E6%97%A0%E6%89%80%E8%B0%93%23" target="weibo">
 洪秀柱说回台被批判无所谓（热度：124046）
 </a>
@@ -1227,12 +1263,6 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E8%AF%B4%E7%9C%8B%E5%88%B0%E6%96%B9%E9%98%9F%E7%9E%AC%E9%97%B4%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%23" target="weibo">
-陈梦说看到方队瞬间起鸡皮疙瘩（热度：107227）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%A4%9C%E5%BD%92%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 子夜归大结局（热度：104507）
 </a>
@@ -1247,12 +1277,6 @@ iPhone17Pro涨价（热度：247271）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E4%B8%8A%E7%A9%BA%E7%9C%8B%E7%8E%B0%E5%9C%BA%23" target="weibo">
 天安门广场上空看现场（热度：102421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2313%E4%B8%AA%E5%BE%92%E6%AD%A5%E6%96%B9%E9%98%9F%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91%23" target="weibo">
-13个徒步方队完整视频（热度：102166）
 </a>
 </li>
 
@@ -1361,6 +1385,12 @@ iPhone17Pro涨价（热度：247271）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 五月天上海演唱会（热度：71138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E9%98%85%E5%85%B5%E9%9C%87%E6%92%BC%E8%A5%BF%E6%96%B9%23" target="weibo">
+胡锡进谈阅兵震撼西方（热度：69969）
 </a>
 </li>
 
