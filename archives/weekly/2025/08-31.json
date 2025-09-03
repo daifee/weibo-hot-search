@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756885084095,
+  "endTime": 1756888354966,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -256,6 +256,14 @@
       "word": "咱家飞机再也不用飞两遍",
       "onboard_time": 1756867492,
       "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 2110651,
+      "num": 2110651,
+      "word": "阅兵收视率",
+      "onboard_time": 1756885223,
+      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -675,6 +683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 968683,
+      "num": 435830,
+      "word": "商家笑了俩小时才退款",
+      "onboard_time": 1756886244,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 962522,
       "num": 281778,
       "word": "成人安抚奶嘴夜间订单量暴增",
@@ -936,6 +952,14 @@
       "word": "日媒爆中国驱逐舰绕了日本一圈",
       "onboard_time": 1756794320,
       "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 793074,
+      "num": 793074,
+      "word": "众多台湾网友观看了阅兵直播",
+      "onboard_time": 1756883904,
+      "rank": 22,
       "category": "国内时政"
     },
     {
@@ -1315,20 +1339,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 557043,
-      "num": 557043,
-      "word": "众多台湾网友观看了阅兵直播",
-      "onboard_time": 1756883904,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 554347,
       "num": 343133,
       "word": "鹿晗说给邓超上点压力",
       "onboard_time": 1756645823,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 552004,
+      "num": 552004,
+      "word": "人民日报东风5C现场图",
+      "onboard_time": 1756883844,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 550610,
@@ -1811,6 +1835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 438151,
+      "num": 438151,
+      "word": "王楚钦开学",
+      "onboard_time": 1756885044,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 437877,
       "num": 437877,
       "word": "武契奇抵京",
@@ -1996,7 +2028,7 @@
     },
     {
       "raw_hot": 393769,
-      "num": 1775495,
+      "num": 1836753,
       "word": "中国军队装备已经NextLevel",
       "onboard_time": 1756879825,
       "rank": 2,
@@ -2128,14 +2160,6 @@
       "word": "天安门广场放飞气球可完全降解",
       "onboard_time": 1756787722,
       "rank": 32,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 374215,
-      "num": 374215,
-      "word": "人民日报东风5C现场图",
-      "onboard_time": 1756883844,
-      "rank": 38,
       "category": "国内时政"
     },
     {
@@ -2505,6 +2529,14 @@
       "onboard_time": 1756769779,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 325584,
+      "num": 325584,
+      "word": "王楚钦穿北京大学校服",
+      "onboard_time": 1756887864,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 323920,
@@ -3043,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264418,
+      "num": 264418,
+      "word": "笨笨 你是军犬",
+      "onboard_time": 1756886784,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 264297,
       "num": 231098,
       "word": "iG选择EDG",
@@ -3064,6 +3104,14 @@
       "word": "普京访华4天两地十多场会晤",
       "onboard_time": 1756699400,
       "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 260813,
+      "num": 260813,
+      "word": "阅兵版钢铁洪流进行曲MV",
+      "onboard_time": 1756887682,
+      "rank": 34,
       "category": "国内时政"
     },
     {
@@ -3339,14 +3387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 231876,
-      "num": 231876,
-      "word": "王楚钦开学",
-      "onboard_time": 1756885044,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231050,
       "num": 231050,
       "word": "王曼昱钱天一3比2蒯曼孙颖莎",
@@ -3507,6 +3547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 219307,
+      "num": 219307,
+      "word": "和平鸽参加阅兵全过程",
+      "onboard_time": 1756887623,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 218884,
       "num": 218884,
       "word": "王楚钦vs徐瑛彬",
@@ -3617,6 +3665,14 @@
       "onboard_time": 1756703362,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209018,
+      "num": 209018,
+      "word": "吴千语和施伯雄现场观礼",
+      "onboard_time": 1756885885,
+      "rank": 44,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 207384,
@@ -7227,6 +7283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107227,
+      "num": 188525,
+      "word": "陈梦说看到方队瞬间起鸡皮疙瘩",
+      "onboard_time": 1756885525,
+      "rank": 49,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 107201,
       "num": 243424,
       "word": "我国科学家在6G领域取得新突破",
@@ -7415,6 +7479,14 @@
       "num": 102421,
       "word": "天安门广场上空看现场",
       "onboard_time": 1756855100,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 102166,
+      "num": 304919,
+      "word": "13个徒步方队完整视频",
+      "onboard_time": 1756888044,
       "rank": 28,
       "category": "国内时政"
     },

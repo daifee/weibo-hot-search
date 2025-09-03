@@ -1,6 +1,6 @@
 {
   "startTime": 1756830747288,
-  "endTime": 1756885084095,
+  "endTime": 1756888354966,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -224,6 +224,14 @@
       "word": "咱家飞机再也不用飞两遍",
       "onboard_time": 1756867492,
       "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 2110651,
+      "num": 2110651,
+      "word": "阅兵收视率",
+      "onboard_time": 1756885223,
+      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -467,6 +475,14 @@
       "category": "艺人,国内时政"
     },
     {
+      "raw_hot": 968683,
+      "num": 435830,
+      "word": "商家笑了俩小时才退款",
+      "onboard_time": 1756886244,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 948956,
       "num": 948956,
       "word": "外交天团现身天安门广场",
@@ -568,6 +584,14 @@
       "word": "惊雷1",
       "onboard_time": 1756868737,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 793074,
+      "num": 793074,
+      "word": "众多台湾网友观看了阅兵直播",
+      "onboard_time": 1756883904,
+      "rank": 22,
       "category": "国内时政"
     },
     {
@@ -739,11 +763,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 557043,
-      "num": 557043,
-      "word": "众多台湾网友观看了阅兵直播",
-      "onboard_time": 1756883904,
-      "rank": 22,
+      "raw_hot": 552004,
+      "num": 552004,
+      "word": "人民日报东风5C现场图",
+      "onboard_time": 1756883844,
+      "rank": 38,
       "category": "国内时政"
     },
     {
@@ -875,6 +899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 438151,
+      "num": 438151,
+      "word": "王楚钦开学",
+      "onboard_time": 1756885044,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 430686,
       "num": 916579,
       "word": "多国政要与抗战老战士握手",
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 393769,
-      "num": 1775495,
+      "num": 1836753,
       "word": "中国军队装备已经NextLevel",
       "onboard_time": 1756879825,
       "rank": 2,
@@ -936,14 +968,6 @@
       "word": "东风5C导弹威力有多大",
       "onboard_time": 1756884204,
       "rank": 46,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 374215,
-      "num": 374215,
-      "word": "人民日报东风5C现场图",
-      "onboard_time": 1756883844,
-      "rank": 38,
       "category": "国内时政"
     },
     {
@@ -1009,6 +1033,14 @@
       "onboard_time": 1756882045,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 325584,
+      "num": 325584,
+      "word": "王楚钦穿北京大学校服",
+      "onboard_time": 1756887864,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 321008,
@@ -1123,6 +1155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264418,
+      "num": 264418,
+      "word": "笨笨 你是军犬",
+      "onboard_time": 1756886784,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 260813,
+      "num": 260813,
+      "word": "阅兵版钢铁洪流进行曲MV",
+      "onboard_time": 1756887682,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 256123,
       "num": 256123,
       "word": "因为东风51放假",
@@ -1219,14 +1267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 231876,
-      "num": 231876,
-      "word": "王楚钦开学",
-      "onboard_time": 1756885044,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229165,
       "num": 230602,
       "word": "陈梦感慨生在这个和平年代",
@@ -1243,12 +1283,28 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 219307,
+      "num": 219307,
+      "word": "和平鸽参加阅兵全过程",
+      "onboard_time": 1756887623,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 211520,
       "num": 106724,
       "word": "吴磊李宛妲 剑来",
       "onboard_time": 1756821861,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209018,
+      "num": 209018,
+      "word": "吴千语和施伯雄现场观礼",
+      "onboard_time": 1756885885,
+      "rank": 44,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 207158,
@@ -1563,6 +1619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107227,
+      "num": 188525,
+      "word": "陈梦说看到方队瞬间起鸡皮疙瘩",
+      "onboard_time": 1756885525,
+      "rank": 49,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 104507,
       "num": 113347,
       "word": "子夜归大结局",
@@ -1583,6 +1647,14 @@
       "num": 102421,
       "word": "天安门广场上空看现场",
       "onboard_time": 1756855100,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 102166,
+      "num": 304919,
+      "word": "13个徒步方队完整视频",
+      "onboard_time": 1756888044,
       "rank": 28,
       "category": "国内时政"
     },
