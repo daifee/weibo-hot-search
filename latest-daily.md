@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 03:20:37
+本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 03:36:27
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E9%9A%86%E9%87%8D%E9%9B%86%E4%BC%9A%E5%85%B1%E5%90%8C%E9%93%AD%E8%AE%B0%E5%8E%86%E5%8F%B2%23" target="weibo">
 今天隆重集会共同铭记历史（热度：24197）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E6%9C%BA%23" target="weibo">
+轰炸机（热度：20296）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%BF%B5%E5%A4%A7%E4%BC%9A%E7%BB%93%E6%9D%9F%23" target="weibo">
+纪念大会结束（热度：15361）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756927237350,
+  "endTime": 1756928187141,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -8499,6 +8499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20296,
+      "num": 20296,
+      "word": "轰炸机",
+      "onboard_time": 1756927574,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19926,
       "num": 38776,
       "word": "华晨宇神级舞台有闪电划过",
@@ -8593,6 +8601,14 @@
       "onboard_time": 1756742301,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15361,
+      "num": 28800,
+      "word": "纪念大会结束",
+      "onboard_time": 1756927334,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14425,
