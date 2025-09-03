@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 04:39:56
+本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 05:22:04
 </p>
 </blockquote>
 <p>
@@ -155,6 +155,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%23" target="weibo">
 抗战胜利80周年文艺晚会（热度：147326）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8D%E5%88%B02%E5%B2%81%E6%97%B6%E6%88%BF%E5%AD%90%E8%A2%AB%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E7%82%B8%E5%A1%8C%23" target="weibo">
+钟南山不到2岁时房子被日本飞机炸塌（热度：144585）
 </a>
 </li>
 
@@ -321,12 +327,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E4%B8%8D%E5%88%B02%E5%B2%81%E6%97%B6%E6%88%BF%E5%AD%90%E8%A2%AB%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E7%82%B8%E5%A1%8C%23" target="weibo">
-钟南山不到2岁时房子被日本飞机炸塌（热度：59103）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E5%85%A5%E4%BA%BA%E5%BF%83%23" target="weibo">
 声入人心（热度：54717）
 </a>
@@ -383,6 +383,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E9%9A%86%E9%87%8D%E9%9B%86%E4%BC%9A%E5%85%B1%E5%90%8C%E9%93%AD%E8%AE%B0%E5%8E%86%E5%8F%B2%23" target="weibo">
 今天隆重集会共同铭记历史（热度：24197）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E9%9B%B71%E7%A9%BA%E5%9F%BA%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23" target="weibo">
+惊雷1空基远程导弹（热度：21365）
 </a>
 </li>
 
