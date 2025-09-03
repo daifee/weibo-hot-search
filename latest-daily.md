@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 05:22:04
+本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 05:36:24
 </p>
 </blockquote>
 <p>
@@ -381,14 +381,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E9%9B%B71%E7%A9%BA%E5%9F%BA%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23" target="weibo">
+惊雷1空基远程导弹（热度：25914）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E9%9A%86%E9%87%8D%E9%9B%86%E4%BC%9A%E5%85%B1%E5%90%8C%E9%93%AD%E8%AE%B0%E5%8E%86%E5%8F%B2%23" target="weibo">
 今天隆重集会共同铭记历史（热度：24197）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E9%9B%B71%E7%A9%BA%E5%9F%BA%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23" target="weibo">
-惊雷1空基远程导弹（热度：21365）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E7%9C%8B%E5%A5%BD%E7%9A%84%E8%A3%85%E5%A4%87%E8%A2%AB%E6%88%91%E5%86%9B%E7%8E%87%E5%85%88%E5%AE%9E%E7%8E%B0%23" target="weibo">
+美军看好的装备被我军率先实现（热度：21029）
 </a>
 </li>
 
@@ -411,6 +417,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%BD%91%E5%8F%8B%E7%A5%9E%E8%AF%84%E8%AE%BA%23" target="weibo">
+阅兵网友神评论（热度：20182）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%BF%B5%E5%A4%A7%E4%BC%9A%E7%BB%93%E6%9D%9F%23" target="weibo">
 纪念大会结束（热度：16579）
 </a>
@@ -419,6 +431,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A5%E9%93%AE%E9%93%AE%E9%93%81%E9%AA%A8%E6%88%98%E5%BC%BA%E6%95%8C%23" target="weibo">
 中国人民以铮铮铁骨战强敌（热度：15987）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%B8%E5%AF%BC%E5%BC%B9%E6%96%B9%E9%98%9F%E9%9C%87%E6%92%BC%E7%99%BB%E5%9C%BA%23" target="weibo">
+核导弹方队震撼登场（热度：15623）
 </a>
 </li>
 
