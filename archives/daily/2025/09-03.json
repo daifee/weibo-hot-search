@@ -1,6 +1,6 @@
 {
   "startTime": 1756830747288,
-  "endTime": 1756906392785,
+  "endTime": 1756907084870,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -43,8 +43,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11966491,
-      "num": 11966491,
+      "raw_hot": 12954886,
+      "num": 12954886,
       "word": "文艺晚会",
       "onboard_time": 1756900703,
       "rank": 0,
@@ -163,7 +163,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2585860,
+      "raw_hot": 2731476,
       "num": 754818,
       "word": "刘敏涛给我演哭了",
       "onboard_time": 1756904546,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1835141,
-      "num": 510847,
+      "num": 524015,
       "word": "吴京",
       "onboard_time": 1756895064,
       "rank": 44,
@@ -427,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1553193,
+      "num": 726005,
+      "word": "吴越吴樾",
+      "onboard_time": 1756904005,
+      "rank": 13,
+      "category": "艺人,国内时政"
+    },
+    {
       "raw_hot": 1537646,
       "num": 1537646,
       "word": "文艺晚会真的好震撼",
@@ -449,14 +457,6 @@
       "onboard_time": 1756868203,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1457239,
-      "num": 706072,
-      "word": "吴越吴樾",
-      "onboard_time": 1756904005,
-      "rank": 13,
-      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 1431648,
@@ -667,6 +667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 866039,
+      "num": 693346,
+      "word": "罗晋台词",
+      "onboard_time": 1756905566,
+      "rank": 14,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 863421,
       "num": 863421,
       "word": "阅兵流程",
@@ -707,14 +715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 821724,
-      "num": 674801,
-      "word": "罗晋台词",
-      "onboard_time": 1756905566,
-      "rank": 14,
-      "category": "国内时政,综艺"
-    },
-    {
       "raw_hot": 808415,
       "num": 808415,
       "word": "众多台湾网友观看了阅兵直播",
@@ -729,6 +729,14 @@
       "onboard_time": 1756866515,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 774113,
+      "num": 318314,
+      "word": "张翰舞蹈",
+      "onboard_time": 1756906765,
+      "rank": 30,
+      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 769307,
@@ -803,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 674511,
+      "num": 674511,
+      "word": "雷佳音和小栋哲",
+      "onboard_time": 1756903705,
+      "rank": 49,
+      "category": "艺人,国内时政"
+    },
+    {
       "raw_hot": 671324,
       "num": 671324,
       "word": "歼20S震撼亮相",
@@ -841,14 +857,6 @@
       "onboard_time": 1756869154,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 636256,
-      "num": 636256,
-      "word": "雷佳音和小栋哲",
-      "onboard_time": 1756903705,
-      "rank": 49,
-      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 628933,
@@ -895,6 +903,14 @@
       "num": 585437,
       "word": "放飞气球",
       "onboard_time": 1756870171,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 581638,
+      "num": 581638,
+      "word": "坦克下班",
+      "onboard_time": 1756903945,
       "rank": 39,
       "category": "国内时政"
     },
@@ -1011,6 +1027,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 524507,
+      "num": 524507,
+      "word": "文艺晚会能不能全国巡演",
+      "onboard_time": 1756906765,
+      "rank": 18,
+      "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 524347,
+      "num": 524347,
+      "word": "文艺晚会节目单",
+      "onboard_time": 1756904845,
+      "rank": 21,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 523545,
       "num": 523545,
       "word": "8万羽和平鸽8万只气球",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1756872452,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 505873,
+      "num": 782176,
+      "word": "九三晚会这束光",
+      "onboard_time": 1756905325,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 496738,
@@ -1083,14 +1123,6 @@
       "category": "艺人,国内时政"
     },
     {
-      "raw_hot": 447245,
-      "num": 447245,
-      "word": "文艺晚会节目单",
-      "onboard_time": 1756904845,
-      "rank": 21,
-      "category": "国内时政,综艺"
-    },
-    {
       "raw_hot": 445924,
       "num": 445924,
       "word": "阅兵细节值得二刷三刷",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1756860266,
       "rank": 24,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 422070,
-      "num": 782176,
-      "word": "九三晚会这束光",
-      "onboard_time": 1756905325,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 416442,
@@ -1283,19 +1307,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 342753,
+      "num": 342753,
+      "word": "王曼昱晒阅兵九宫格",
+      "onboard_time": 1756904725,
+      "rank": 28,
+      "category": "国内时政,体育"
+    },
+    {
       "raw_hot": 336633,
       "num": 336633,
       "word": "5万余人观礼离场后干干净净",
       "onboard_time": 1756899263,
       "rank": 35,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 333009,
-      "num": 305282,
-      "word": "坦克下班",
-      "onboard_time": 1756903945,
-      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -1305,14 +1329,6 @@
       "onboard_time": 1756897523,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 329925,
-      "num": 329925,
-      "word": "王曼昱晒阅兵九宫格",
-      "onboard_time": 1756904725,
-      "rank": 28,
-      "category": "国内时政,体育"
     },
     {
       "raw_hot": 327815,
@@ -1771,6 +1787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 201874,
+      "num": 770526,
+      "word": "祭黄帝陵文发出国人不屈呐喊",
+      "onboard_time": 1756906525,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200949,
       "num": 200949,
       "word": "是谁看阅兵在不停截图",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1756826002,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164844,
+      "num": 199273,
+      "word": "U23亚洲杯",
+      "onboard_time": 1756906227,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 163386,
@@ -2075,14 +2107,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 128875,
-      "num": 171447,
-      "word": "U23亚洲杯",
-      "onboard_time": 1756906227,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124261,
       "num": 149569,
       "word": "马龙观看阅兵震撼又幸福",
@@ -2201,6 +2225,14 @@
       "onboard_time": 1756824143,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104828,
+      "num": 479828,
+      "word": "文艺晚会舞蹈殇源自紫金草女孩",
+      "onboard_time": 1756905746,
+      "rank": 19,
+      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 104507,
@@ -2467,6 +2499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60447,
+      "num": 248361,
+      "word": "台湾教授苑举正阅兵现场热泪盈眶",
+      "onboard_time": 1756906347,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59494,
       "num": 106618,
       "word": "宋亚轩 敬山水",
@@ -2539,14 +2579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 51429,
-      "num": 479828,
-      "word": "文艺晚会舞蹈殇源自紫金草女孩",
-      "onboard_time": 1756905746,
-      "rank": 19,
-      "category": "国内时政,综艺"
-    },
-    {
       "raw_hot": 51373,
       "num": 106618,
       "word": "iPhone17ProMax量产机疑曝光",
@@ -2568,14 +2600,6 @@
       "word": "三兵是哪三兵",
       "onboard_time": 1756843515,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 42051,
-      "num": 220476,
-      "word": "台湾教授苑举正阅兵现场热泪盈眶",
-      "onboard_time": 1756906347,
-      "rank": 41,
       "category": "国内时政"
     },
     {

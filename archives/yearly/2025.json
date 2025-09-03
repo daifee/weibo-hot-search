@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756906392785,
+  "endTime": 1756907084870,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -643,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12954886,
+      "num": 12954886,
+      "word": "文艺晚会",
+      "onboard_time": 1756900703,
+      "rank": 0,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 12901932,
       "num": 12901932,
       "word": "白玉兰获奖名单",
@@ -761,14 +769,6 @@
       "onboard_time": 1745080294,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11966491,
-      "num": 11966491,
-      "word": "文艺晚会",
-      "onboard_time": 1756900703,
-      "rank": 0,
-      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 11951764,
