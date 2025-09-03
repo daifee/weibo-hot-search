@@ -1,6 +1,6 @@
 {
   "startTime": 1756830747288,
-  "endTime": 1756898469521,
+  "endTime": 1756899423156,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 2988867,
-      "num": 723162,
+      "num": 765718,
       "word": "特朗普祝中国人民度过美好庆祝日",
       "onboard_time": 1756891104,
       "rank": 10,
@@ -315,6 +315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1835141,
+      "num": 510847,
+      "word": "吴京",
+      "onboard_time": 1756895064,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1811150,
       "num": 1811150,
       "word": "耿爽发言含金量",
@@ -331,12 +339,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1735770,
-      "num": 482678,
-      "word": "吴京",
-      "onboard_time": 1756895064,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 1737770,
+      "num": 1737770,
+      "word": "嘉奖参加阅兵全体人员",
+      "onboard_time": 1756896623,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1692401,
@@ -408,14 +416,6 @@
       "word": "真理",
       "onboard_time": 1756865975,
       "rank": 31,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1427916,
-      "num": 1427916,
-      "word": "嘉奖参加阅兵全体人员",
-      "onboard_time": 1756896623,
-      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -555,6 +555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 918878,
+      "num": 740051,
+      "word": "和平鸽也有工资",
+      "onboard_time": 1756894763,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 909852,
       "num": 909852,
       "word": "这句覆盖全球给我听燃了",
@@ -632,6 +640,14 @@
       "word": "惊雷1",
       "onboard_time": 1756868737,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 831558,
+      "num": 831558,
+      "word": "和平鸽与国徽同框壁纸",
+      "onboard_time": 1756896804,
+      "rank": 13,
       "category": "国内时政"
     },
     {
@@ -795,14 +811,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 598712,
-      "num": 598712,
-      "word": "和平鸽与国徽同框壁纸",
-      "onboard_time": 1756896804,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 585437,
       "num": 585437,
       "word": "放飞气球",
@@ -891,14 +899,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 533054,
-      "num": 533054,
-      "word": "和平鸽也有工资",
-      "onboard_time": 1756894763,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 531692,
       "num": 531692,
       "word": "百岁抗战老兵",
@@ -939,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 496738,
+      "num": 496738,
+      "word": "救下迷路和平鸽",
+      "onboard_time": 1756893624,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 490474,
       "num": 490474,
       "word": "杨靖宇狼牙山五壮士刘老庄连",
@@ -960,14 +968,6 @@
       "word": "阅兵 强迫症狂喜",
       "onboard_time": 1756863209,
       "rank": 22,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 469553,
-      "num": 469553,
-      "word": "救下迷路和平鸽",
-      "onboard_time": 1756893624,
-      "rank": 17,
       "category": "国内时政"
     },
     {
@@ -1132,7 +1132,7 @@
     },
     {
       "raw_hot": 355753,
-      "num": 355753,
+      "num": 784613,
       "word": "阅兵回放",
       "onboard_time": 1756871733,
       "rank": 45,
@@ -1155,8 +1155,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 332988,
+      "num": 828276,
+      "word": "郭帆回应改剧本",
+      "onboard_time": 1756897523,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327815,
-      "num": 255357,
+      "num": 307117,
       "word": "谁给我们胖妞剪成这样了",
       "onboard_time": 1756896685,
       "rank": 30,
@@ -1323,11 +1331,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267162,
+      "num": 798482,
+      "word": "流浪地球 纪录片",
+      "onboard_time": 1756894404,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260813,
       "num": 260813,
       "word": "阅兵版钢铁洪流进行曲MV",
       "onboard_time": 1756887682,
       "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 256534,
+      "num": 256534,
+      "word": "5万余人观礼离场后干干净净",
+      "onboard_time": 1756899263,
+      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -1353,14 +1377,6 @@
       "onboard_time": 1756862542,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 247355,
-      "num": 724029,
-      "word": "流浪地球 纪录片",
-      "onboard_time": 1756894404,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 247271,
@@ -1435,8 +1451,8 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 238386,
-      "num": 238386,
+      "raw_hot": 238522,
+      "num": 238522,
       "word": "妈妈一眼锁定阅兵方阵中儿子",
       "onboard_time": 1756897584,
       "rank": 33,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1756861701,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 234873,
+      "num": 234873,
+      "word": "中国和印尼要合力反对霸凌",
+      "onboard_time": 1756899204,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 232744,
@@ -1513,14 +1537,6 @@
       "onboard_time": 1756821861,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210712,
-      "num": 708837,
-      "word": "郭帆回应改剧本",
-      "onboard_time": 1756897523,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 209018,
@@ -1611,6 +1627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191538,
+      "num": 191538,
+      "word": "阅兵壁纸",
+      "onboard_time": 1756893803,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188638,
       "num": 188638,
       "word": "阅兵安排",
@@ -1667,14 +1691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 174950,
-      "num": 174950,
-      "word": "阅兵壁纸",
-      "onboard_time": 1756893803,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 170933,
       "num": 230316,
       "word": "陈梦观看阅兵后发文",
@@ -1699,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163334,
+      "num": 510911,
+      "word": "郭帆今天内心写照",
+      "onboard_time": 1756899023,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162208,
       "num": 162208,
       "word": "女机长谭红梅",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1756851976,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 155745,
+      "num": 175982,
+      "word": "刘诗雯晒阅兵照",
+      "onboard_time": 1756898902,
+      "rank": 47,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 155302,
@@ -1947,8 +1979,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104303,
+      "num": 589627,
+      "word": "加快建设世界一流军队",
+      "onboard_time": 1756894524,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104195,
-      "num": 137183,
+      "num": 175839,
       "word": "三大运营商回应是否支持eSIM版iPhone",
       "onboard_time": 1756897883,
       "rank": 47,
@@ -2155,14 +2195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64468,
-      "num": 589627,
-      "word": "加快建设世界一流军队",
-      "onboard_time": 1756894524,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 62984,
       "num": 106642,
       "word": "iPhone17系列或迈入无卡时代",
@@ -2241,6 +2273,14 @@
       "onboard_time": 1756809741,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 55326,
+      "num": 230031,
+      "word": "香港代表团成员谈阅兵",
+      "onboard_time": 1756898484,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55045,
@@ -2340,7 +2380,7 @@
     },
     {
       "raw_hot": 20296,
-      "num": 51187,
+      "num": 747471,
       "word": "胜利日大阅兵",
       "onboard_time": 1756825643,
       "rank": 42,
@@ -2449,6 +2489,14 @@
       "onboard_time": 1756805721,
       "rank": 49,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 4816,
+      "num": 1251125,
+      "word": "中国军人声声必胜太燃了",
+      "onboard_time": 1756865374,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
