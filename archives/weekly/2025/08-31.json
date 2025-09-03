@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756909477541,
+  "endTime": 1756910568885,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -347,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2050303,
+      "num": 643247,
+      "word": "张翰舞蹈",
+      "onboard_time": 1756906765,
+      "rank": 30,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 2038335,
       "num": 2038335,
       "word": "长剑1000导弹",
@@ -361,14 +369,6 @@
       "onboard_time": 1756874851,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2016955,
-      "num": 564013,
-      "word": "张翰舞蹈",
-      "onboard_time": 1756906765,
-      "rank": 30,
-      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 1967139,
@@ -715,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1085535,
+      "num": 642220,
+      "word": "普京与金正恩在京会谈",
+      "onboard_time": 1756908205,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1082472,
       "num": 1082472,
       "word": "外籍记者看阅兵后忍不住哭泣",
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 843405,
-      "num": 548763,
+      "num": 640703,
       "word": "阿云嘎郁可唯文艺晚会演唱歌曲",
       "onboard_time": 1756907425,
       "rank": 16,
@@ -1372,7 +1380,7 @@
     },
     {
       "raw_hot": 630663,
-      "num": 581638,
+      "num": 588363,
       "word": "坦克下班",
       "onboard_time": 1756903945,
       "rank": 39,
@@ -1457,14 +1465,6 @@
       "onboard_time": 1756795521,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 590400,
-      "num": 544398,
-      "word": "普京与金正恩在京会谈",
-      "onboard_time": 1756908205,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 587987,
@@ -3027,6 +3027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 305933,
+      "num": 566167,
+      "word": "永远守护这一抹中国红",
+      "onboard_time": 1756907964,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 303112,
       "num": 203967,
       "word": "鼻炎 记忆力下降",
@@ -3291,6 +3299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276144,
+      "num": 643766,
+      "word": "中国人自己说了算",
+      "onboard_time": 1756907306,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 275923,
       "num": 275923,
       "word": "李幼斌和李云龙跨时空对话",
@@ -3393,14 +3409,6 @@
       "onboard_time": 1756690819,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270830,
-      "num": 566167,
-      "word": "永远守护这一抹中国红",
-      "onboard_time": 1756907964,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 270551,
@@ -3795,6 +3803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 237519,
+      "num": 237519,
+      "word": "王雷太会演了",
+      "onboard_time": 1756909104,
+      "rank": 33,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 237278,
       "num": 237278,
       "word": "各国嘉宾登上天安门城楼",
@@ -3819,20 +3835,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236150,
-      "num": 236150,
-      "word": "王雷太会演了",
-      "onboard_time": 1756909104,
-      "rank": 33,
-      "category": "国内时政,综艺"
-    },
-    {
       "raw_hot": 235736,
       "num": 235736,
       "word": "升国旗 唱国歌",
       "onboard_time": 1756861701,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 235284,
+      "num": 235284,
+      "word": "阿云嘎郁可唯合唱",
+      "onboard_time": 1756909523,
+      "rank": 35,
+      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 234873,
@@ -4107,14 +4123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212338,
-      "num": 212338,
-      "word": "中国人自己说了算",
-      "onboard_time": 1756907306,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 211975,
       "num": 398213,
       "word": "第一次发现谢娜是妈妈辈的",
@@ -4137,6 +4145,14 @@
       "onboard_time": 1756610300,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 211502,
+      "num": 211502,
+      "word": "文艺晚会导演",
+      "onboard_time": 1756907606,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 210397,
@@ -4185,6 +4201,14 @@
       "onboard_time": 1756885885,
       "rank": 44,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 208641,
+      "num": 208641,
+      "word": "王晰弹唱",
+      "onboard_time": 1756909825,
+      "rank": 40,
+      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 207384,
@@ -5033,14 +5057,6 @@
       "onboard_time": 1756825103,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178928,
-      "num": 178928,
-      "word": "文艺晚会导演",
-      "onboard_time": 1756907606,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 177106,
@@ -6249,6 +6265,14 @@
       "onboard_time": 1756607000,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141633,
+      "num": 153523,
+      "word": "孙颖莎看阅兵感想",
+      "onboard_time": 1756910424,
+      "rank": 49,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 141349,
