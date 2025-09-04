@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/31 00:28:48 ~ 2025/09/04 21:32:36
+本榜单时间：2025/08/31 00:28:48 ~ 2025/09/04 21:43:58
 </p>
 </blockquote>
 <p>
@@ -2157,6 +2157,12 @@ A股（热度：494883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E6%9E%B6%E5%A4%87%E4%BB%BD%E6%9C%BA%E4%B8%B4%E8%BF%91%E5%A4%A9%E5%AE%89%E9%97%A8%E5%89%8D%E9%BB%98%E9%BB%98%E8%BF%94%E8%88%AA%23" target="weibo">
+3架备份机临近天安门前默默返航（热度：383778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E5C%E5%AF%BC%E5%BC%B9%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
 东风5C导弹威力有多大（热度：383228）
 </a>
@@ -2273,6 +2279,12 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%97%A0%E7%BC%98%E5%BE%B7%E7%94%B2%E5%BC%80%E9%97%A8%E7%BA%A2%23" target="weibo">
 樊振东无缘德甲开门红（热度：364495）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E4%B8%BA%E6%8B%A5%E6%9C%89%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93%E6%88%98%E7%95%A5%E6%A0%B8%E5%8A%9B%E9%87%8F%E5%9B%BD%E5%AE%B6%23" target="weibo">
+我国成为拥有三位一体战略核力量国家（热度：364175）
 </a>
 </li>
 
@@ -2411,12 +2423,6 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8D%E6%83%B3%E8%8D%89%E7%8E%87%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
 樊振东不想草率回应质疑（热度：350731）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E6%9E%B6%E5%A4%87%E4%BB%BD%E6%9C%BA%E4%B8%B4%E8%BF%91%E5%A4%A9%E5%AE%89%E9%97%A8%E5%89%8D%E9%BB%98%E9%BB%98%E8%BF%94%E8%88%AA%23" target="weibo">
-3架备份机临近天安门前默默返航（热度：350565）
 </a>
 </li>
 
@@ -2715,6 +2721,12 @@ A股（热度：494883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%AF%B4%E5%BF%85%E9%A1%BB%E6%AD%A3%E8%A7%86%E5%8E%86%E5%8F%B2%23" target="weibo">
+日本前首相说必须正视历史（热度：312439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E5%BC%A0%E8%89%BA%E5%85%B4%E7%A9%BF%E7%9A%84%E8%93%9D%E8%89%B2%E6%8A%B9%E8%83%B8%23" target="weibo">
 以为张艺兴穿的蓝色抹胸（热度：311476）
 </a>
@@ -2879,12 +2891,6 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E7%A7%B0%E9%85%B7%E6%B4%BE%E6%8B%A6%E6%88%AA%E4%BA%86%E8%87%AA%E5%B7%B1%E8%B4%AD%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%23" target="weibo">
 反诈老陈称酷派拦截了自己购买的手机（热度：289895）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%AF%B4%E5%BF%85%E9%A1%BB%E6%AD%A3%E8%A7%86%E5%8E%86%E5%8F%B2%23" target="weibo">
-日本前首相说必须正视历史（热度：289580）
 </a>
 </li>
 
@@ -3323,12 +3329,6 @@ sexy back（热度：250505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BE%B7%E5%90%9B%E9%80%80%E5%BD%B9%23" target="weibo">
 韩德君退役（热度：248996）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E4%B8%BA%E6%8B%A5%E6%9C%89%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93%E6%88%98%E7%95%A5%E6%A0%B8%E5%8A%9B%E9%87%8F%E5%9B%BD%E5%AE%B6%23" target="weibo">
-我国成为拥有三位一体战略核力量国家（热度：248652）
 </a>
 </li>
 
@@ -4671,6 +4671,12 @@ smart官宣两座回归（热度：176038）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E8%9C%9C%E7%B2%8930%E5%85%8B%E5%92%8C6%E5%85%8B%E5%90%8C%E4%BB%B7%23" target="weibo">
+香奈儿蜜粉30克和6克同价（热度：174100）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%BA5%E4%B8%87%E4%BD%99%E4%BA%BA%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E6%B2%A1%E7%95%99%E4%B8%80%E7%89%87%E7%BA%B8%E5%B1%91%23" target="weibo">
 现场5万余人看完阅兵没留一片纸屑（热度：173964）
 </a>
@@ -4997,12 +5003,6 @@ U23亚洲杯（热度：164844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23F1%23" target="weibo">
 F1（热度：162850）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E8%9C%9C%E7%B2%8930%E5%85%8B%E5%92%8C6%E5%85%8B%E5%90%8C%E4%BB%B7%23" target="weibo">
-香奈儿蜜粉30克和6克同价（热度：162758）
 </a>
 </li>
 
@@ -5639,6 +5639,12 @@ aespa导播还是太会切屏了（热度：146353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025PEL%E5%A4%8F%E5%86%B3%E5%94%AE%E7%A5%A8%23" target="weibo">
 2025PEL夏决售票（热度：145451）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%88%E6%9C%89%E6%96%B0%E6%9C%BA%E4%BD%8D%E8%A7%A3%E9%94%81%23" target="weibo">
+九三阅兵又有新机位解锁（热度：145400）
 </a>
 </li>
 
@@ -6371,12 +6377,6 @@ A股成交额连续15日破2万亿（热度：128693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E5%9B%A0%E4%B8%BA%E5%A5%BD%E5%A5%87%E9%80%89%E4%BA%86%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%23" target="weibo">
 坐高铁因为好奇选了静音车厢（热度：126438）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%88%E6%9C%89%E6%96%B0%E6%9C%BA%E4%BD%8D%E8%A7%A3%E9%94%81%23" target="weibo">
-九三阅兵又有新机位解锁（热度：126095）
 </a>
 </li>
 
@@ -7983,6 +7983,12 @@ AirPodsPro3耳机前瞻（热度：96163）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%8B%E6%AF%81%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E8%A2%AB%E6%8B%98%23" target="weibo">
+男子诋毁九三阅兵被拘（热度：95013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%BE%8E%E5%9B%BD%E9%82%BB%E5%B1%85%E7%9C%8B%E5%88%B0%E8%8F%9C%E5%9B%AD%E6%97%B6%23" target="weibo">
 当美国邻居看到菜园时（热度：95000）
 </a>
@@ -8561,6 +8567,12 @@ Monki回应输给EDG（热度：87338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%20%E4%B8%80%E5%8F%A5%E4%B8%8D%E5%94%B1%E4%BD%86%E6%9C%897%E9%A1%B5%E6%AD%8C%E8%AF%8D%23" target="weibo">
 陈小春 一句不唱但有7页歌词（热度：86237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%88%86%E5%88%97%E5%BC%8F9%E5%A4%A7%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23" target="weibo">
+九三阅兵分列式9大精彩瞬间（热度：86236）
 </a>
 </li>
 
@@ -9671,12 +9683,6 @@ iPhone17系列预售调查（热度：66469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%9F%E6%97%AD%E8%BF%98%E6%98%AF%E6%BC%94%E6%88%8F%E5%90%A7%E5%93%81%E7%BE%8E%E9%A3%9F%E6%88%91%E8%87%AA%E6%9C%89%E4%BA%BA%E9%80%89%23" target="weibo">
 陈星旭还是演戏吧品美食我自有人选（热度：65601）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%88%86%E5%88%97%E5%BC%8F9%E5%A4%A7%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23" target="weibo">
-九三阅兵分列式9大精彩瞬间（热度：65596）
 </a>
 </li>
 

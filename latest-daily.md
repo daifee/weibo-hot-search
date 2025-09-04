@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 21:32:36
+本榜单时间：2025/09/04 00:31:54 ~ 2025/09/04 21:43:58
 </p>
 </blockquote>
 <p>
@@ -399,6 +399,12 @@ A股（热度：494883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E6%9E%B6%E5%A4%87%E4%BB%BD%E6%9C%BA%E4%B8%B4%E8%BF%91%E5%A4%A9%E5%AE%89%E9%97%A8%E5%89%8D%E9%BB%98%E9%BB%98%E8%BF%94%E8%88%AA%23" target="weibo">
+3架备份机临近天安门前默默返航（热度：383778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E8%BF%90%E5%8A%A81%E5%B0%8F%E6%97%B62%E5%B9%B4%E5%90%8E%E7%9A%84%E6%94%B9%E5%8F%98%23" target="weibo">
 每天运动1小时2年后的改变（热度：381340）
 </a>
@@ -413,6 +419,12 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E4%BA%BA%E7%9C%8B%E9%98%85%E5%85%B5%E5%90%8E%E8%90%BD%E6%B3%AA%23" target="weibo">
 加沙人看阅兵后落泪（热度：378346）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E4%B8%BA%E6%8B%A5%E6%9C%89%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93%E6%88%98%E7%95%A5%E6%A0%B8%E5%8A%9B%E9%87%8F%E5%9B%BD%E5%AE%B6%23" target="weibo">
+我国成为拥有三位一体战略核力量国家（热度：364175）
 </a>
 </li>
 
@@ -455,12 +467,6 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E5%94%90%E5%9B%BD%E5%BC%BA%E5%92%8C61%E5%B2%81%E5%88%98%E5%8A%B2%E8%A7%82%E7%A4%BC%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%23" target="weibo">
 73岁唐国强和61岁刘劲观礼九三阅兵（热度：353985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E6%9E%B6%E5%A4%87%E4%BB%BD%E6%9C%BA%E4%B8%B4%E8%BF%91%E5%A4%A9%E5%AE%89%E9%97%A8%E5%89%8D%E9%BB%98%E9%BB%98%E8%BF%94%E8%88%AA%23" target="weibo">
-3架备份机临近天安门前默默返航（热度：350565）
 </a>
 </li>
 
@@ -531,6 +537,12 @@ A股（热度：494883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%AF%B4%E5%BF%85%E9%A1%BB%E6%AD%A3%E8%A7%86%E5%8E%86%E5%8F%B2%23" target="weibo">
+日本前首相说必须正视历史（热度：312439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC35%E5%A4%A7%E7%89%87%E6%9D%A5%E4%BA%86%23" target="weibo">
 歼35大片来了（热度：305349）
 </a>
@@ -557,12 +569,6 @@ A股（热度：494883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E9%98%85%E5%85%B5%E5%90%8E%E6%9C%80%E6%9A%96%E7%9A%84%E4%BA%92%E5%8A%A8%23" target="weibo">
 最硬核的阅兵后最暖的互动（热度：292889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%AF%B4%E5%BF%85%E9%A1%BB%E6%AD%A3%E8%A7%86%E5%8E%86%E5%8F%B2%23" target="weibo">
-日本前首相说必须正视历史（热度：289580）
 </a>
 </li>
 
@@ -653,12 +659,6 @@ iPhone异地隔空投送（热度：283231）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23731%23" target="weibo">
 731（热度：249208）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E4%B8%BA%E6%8B%A5%E6%9C%89%E4%B8%89%E4%BD%8D%E4%B8%80%E4%BD%93%E6%88%98%E7%95%A5%E6%A0%B8%E5%8A%9B%E9%87%8F%E5%9B%BD%E5%AE%B6%23" target="weibo">
-我国成为拥有三位一体战略核力量国家（热度：248652）
 </a>
 </li>
 
@@ -927,6 +927,12 @@ iPhone异地隔空投送（热度：283231）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E8%9C%9C%E7%B2%8930%E5%85%8B%E5%92%8C6%E5%85%8B%E5%90%8C%E4%BB%B7%23" target="weibo">
+香奈儿蜜粉30克和6克同价（热度：174100）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%BA5%E4%B8%87%E4%BD%99%E4%BA%BA%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E6%B2%A1%E7%95%99%E4%B8%80%E7%89%87%E7%BA%B8%E5%B1%91%23" target="weibo">
 现场5万余人看完阅兵没留一片纸屑（热度：173964）
 </a>
@@ -989,12 +995,6 @@ iPhone异地隔空投送（热度：283231）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%85%E6%80%9D%E5%A5%B3%E8%80%81%E5%B8%8830%E5%B2%81%E8%A3%B8%E8%BE%9E%E6%88%90%E7%B1%B3%E5%85%B6%E6%9E%97%E5%A4%A7%E5%8E%A8%23" target="weibo">
 雅思女老师30岁裸辞成米其林大厨（热度：163629）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E8%9C%9C%E7%B2%8930%E5%85%8B%E5%92%8C6%E5%85%8B%E5%90%8C%E4%BB%B7%23" target="weibo">
-香奈儿蜜粉30克和6克同价（热度：162758）
 </a>
 </li>
 
@@ -1133,6 +1133,12 @@ iPhone异地隔空投送（热度：283231）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%A4%90%E5%B6%A8%E5%8F%AA%E5%BE%85%E7%9F%A5%E9%9F%B3%E5%85%A5%E5%BA%A7%E6%9D%A5%23" target="weibo">
 易烊千玺礐嶨只待知音入座来（热度：146278）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%88%E6%9C%89%E6%96%B0%E6%9C%BA%E4%BD%8D%E8%A7%A3%E9%94%81%23" target="weibo">
+九三阅兵又有新机位解锁（热度：145400）
 </a>
 </li>
 
@@ -1325,12 +1331,6 @@ WTT中国大满贯单场最高价1888元（热度：129242）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%AE%B6%E9%87%8C%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%9C%89%E4%BA%86%E5%BE%AE%E4%BF%A1%23" target="weibo">
 当家里的小朋友有了微信（热度：127249）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%88%E6%9C%89%E6%96%B0%E6%9C%BA%E4%BD%8D%E8%A7%A3%E9%94%81%23" target="weibo">
-九三阅兵又有新机位解锁（热度：126095）
 </a>
 </li>
 
@@ -1677,6 +1677,12 @@ LPL最佳阵容投票（热度：98808）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%8B%E6%AF%81%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E8%A2%AB%E6%8B%98%23" target="weibo">
+男子诋毁九三阅兵被拘（热度：95013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A5%9511%E6%AF%940%23" target="weibo">
 徐奕11比0（热度：94633）
 </a>
@@ -1799,6 +1805,12 @@ LPL最佳阵容投票（热度：98808）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E5%AB%82%E7%9B%AF%E7%9D%80%E5%BE%92%E6%AD%A5%E6%96%B9%E9%98%9F%E6%89%BE%E4%B8%88%E5%A4%AB%E8%BF%B7%E7%B3%8A%E4%BA%86%23" target="weibo">
 军嫂盯着徒步方队找丈夫迷糊了（热度：86273）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%88%86%E5%88%97%E5%BC%8F9%E5%A4%A7%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23" target="weibo">
+九三阅兵分列式9大精彩瞬间（热度：86236）
 </a>
 </li>
 
@@ -1961,12 +1973,6 @@ iPhone17系列终极爆料（热度：85684）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%20%E7%BA%AA%E5%BD%95%E7%89%87%23" target="weibo">
 流浪地球 纪录片（热度：66015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%88%86%E5%88%97%E5%BC%8F9%E5%A4%A7%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23" target="weibo">
-九三阅兵分列式9大精彩瞬间（热度：65596）
 </a>
 </li>
 

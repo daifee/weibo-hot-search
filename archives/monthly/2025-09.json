@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756992756170,
+  "endTime": 1756993438069,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2515,6 +2515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 383778,
+      "num": 253694,
+      "word": "3架备份机临近天安门前默默返航",
+      "onboard_time": 1756990883,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 383228,
       "num": 849689,
       "word": "东风5C导弹威力有多大",
@@ -2617,6 +2625,14 @@
       "onboard_time": 1756854018,
       "rank": 6,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 364175,
+      "num": 364175,
+      "word": "我国成为拥有三位一体战略核力量国家",
+      "onboard_time": 1756987342,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 363720,
@@ -2737,14 +2753,6 @@
       "onboard_time": 1756655062,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 350565,
-      "num": 247815,
-      "word": "3架备份机临近天安门前默默返航",
-      "onboard_time": 1756990883,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 348546,
@@ -3027,6 +3035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 312439,
+      "num": 312439,
+      "word": "日本前首相说必须正视历史",
+      "onboard_time": 1756989323,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 311729,
       "num": 124390,
       "word": "香港小姐",
@@ -3209,14 +3225,6 @@
       "onboard_time": 1756947264,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 289580,
-      "num": 289580,
-      "word": "日本前首相说必须正视历史",
-      "onboard_time": 1756989323,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 289100,
@@ -3665,14 +3673,6 @@
       "onboard_time": 1756723160,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248652,
-      "num": 248652,
-      "word": "我国成为拥有三位一体战略核力量国家",
-      "onboard_time": 1756987342,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 247271,
@@ -4987,6 +4987,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 174100,
+      "num": 225398,
+      "word": "香奈儿蜜粉30克和6克同价",
+      "onboard_time": 1756988542,
+      "rank": 23,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 173964,
       "num": 173964,
       "word": "现场5万余人看完阅兵没留一片纸屑",
@@ -5337,14 +5345,6 @@
       "onboard_time": 1756802239,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162758,
-      "num": 225398,
-      "word": "香奈儿蜜粉30克和6克同价",
-      "onboard_time": 1756988542,
-      "rank": 23,
-      "category": "民生新闻,美妆"
     },
     {
       "raw_hot": 162565,
@@ -5969,6 +5969,14 @@
       "onboard_time": 1756791561,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145400,
+      "num": 223913,
+      "word": "九三阅兵又有新机位解锁",
+      "onboard_time": 1756992144,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145345,
@@ -6689,14 +6697,6 @@
       "onboard_time": 1756789281,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126095,
-      "num": 223913,
-      "word": "九三阅兵又有新机位解锁",
-      "onboard_time": 1756992144,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 125920,
@@ -8131,6 +8131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95013,
+      "num": 192842,
+      "word": "男子诋毁九三阅兵被拘",
+      "onboard_time": 1756993284,
+      "rank": 31,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 95000,
       "num": 209602,
       "word": "当美国邻居看到菜园时",
@@ -8633,6 +8641,14 @@
       "onboard_time": 1756715721,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86236,
+      "num": 253778,
+      "word": "九三阅兵分列式9大精彩瞬间",
+      "onboard_time": 1756992564,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86126,
@@ -9705,14 +9721,6 @@
       "onboard_time": 1756813461,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65596,
-      "num": 223260,
-      "word": "九三阅兵分列式9大精彩瞬间",
-      "onboard_time": 1756992564,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 65548,
