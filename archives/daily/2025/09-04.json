@@ -1,6 +1,6 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756985809423,
+  "endTime": 1756990085031,
   "band_list": [
     {
       "raw_hot": 15819267,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 922730,
+      "num": 234078,
+      "word": "张亮麻辣烫没张亮了",
+      "onboard_time": 1756984162,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 876559,
       "num": 656550,
       "word": "北京杜莎夫人蜡像馆将永久关停",
@@ -200,6 +208,14 @@
       "word": "期待下次阅兵了",
       "onboard_time": 1756946303,
       "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 667345,
+      "num": 1106775,
+      "word": "父亲儿子都牺牲了他带照片看阅兵",
+      "onboard_time": 1756984162,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -499,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 367882,
+      "num": 152845,
+      "word": "易烊千玺成都站收官",
+      "onboard_time": 1756986923,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 362851,
       "num": 110174,
       "word": "这是胡先煦吗",
@@ -513,6 +537,14 @@
       "onboard_time": 1756954402,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 360455,
+      "num": 151812,
+      "word": "男子去世给绝症前女友留全部存款",
+      "onboard_time": 1756985903,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360230,
@@ -587,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 327521,
+      "num": 180978,
+      "word": "兵马俑一号坑惊现大洞",
+      "onboard_time": 1756985601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326942,
       "num": 326942,
       "word": "王毅送匈牙利外长中国跑鞋",
@@ -609,6 +649,14 @@
       "onboard_time": 1756973061,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320386,
+      "num": 320386,
+      "word": "受阅部队投入日常战备值勤",
+      "onboard_time": 1756985542,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 314915,
@@ -811,12 +859,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 234078,
-      "num": 234078,
-      "word": "张亮麻辣烫没张亮了",
-      "onboard_time": 1756984162,
-      "rank": 16,
-      "category": "财经"
+      "raw_hot": 227851,
+      "num": 167865,
+      "word": "普京称若谈判无果将以武力解决",
+      "onboard_time": 1756986022,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 218844,
@@ -1187,14 +1235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 166349,
-      "num": 239486,
-      "word": "父亲儿子都牺牲了他带照片看阅兵",
-      "onboard_time": 1756984162,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 166339,
       "num": 166339,
       "word": "让世界看到咸鱼cos的秀秀",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1756958363,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162758,
+      "num": 148975,
+      "word": "香奈儿蜜粉30克和6克同价",
+      "onboard_time": 1756988542,
+      "rank": 23,
+      "category": "民生新闻,美妆"
     },
     {
       "raw_hot": 162565,
@@ -1289,6 +1337,14 @@
       "onboard_time": 1756950201,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156886,
+      "num": 156886,
+      "word": "刘敏涛戏里戏外泪崩",
+      "onboard_time": 1756987822,
+      "rank": 17,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 156185,
@@ -1419,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144554,
+      "num": 144554,
+      "word": "我国成为拥有三位一体战略核力量国家",
+      "onboard_time": 1756987342,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144088,
       "num": 144088,
       "word": "台胞看完阅兵希望祖国尽快统一",
@@ -1483,19 +1547,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139229,
+      "num": 139229,
+      "word": "现在的电视都发展成这样了吗",
+      "onboard_time": 1756989802,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137714,
       "num": 137714,
       "word": "慢镜头版阅兵震撼现场",
       "onboard_time": 1756948343,
       "rank": 33,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 137238,
-      "num": 231070,
-      "word": "受阅部队投入日常战备值勤",
-      "onboard_time": 1756985542,
-      "rank": 17,
       "category": "国内时政"
     },
     {
@@ -1585,6 +1649,14 @@
       "onboard_time": 1756964063,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129002,
+      "num": 129002,
+      "word": "腹式呼吸具象化了",
+      "onboard_time": 1756986201,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 128251,
@@ -1707,6 +1779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118254,
+      "num": 125003,
+      "word": "央行明日操作1万亿元买断式逆回购",
+      "onboard_time": 1756988602,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118247,
       "num": 230102,
       "word": "华为小平板超强超Mini",
@@ -1795,6 +1875,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111205,
+      "num": 124998,
+      "word": "VOGUE金九群封没有95花",
+      "onboard_time": 1756986862,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 110975,
       "num": 181606,
       "word": "打击范围覆盖全球潜台词",
@@ -1835,6 +1923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106985,
+      "num": 124971,
+      "word": "小狗不知道自己睡在废品站",
+      "onboard_time": 1756988664,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106719,
       "num": 145858,
       "word": "守陵大爷借电视机想让烈士们看阅兵",
@@ -1857,6 +1953,22 @@
       "onboard_time": 1756967662,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105733,
+      "num": 124950,
+      "word": "BFX战胜DK",
+      "onboard_time": 1756989442,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 105699,
+      "num": 124936,
+      "word": "谢霆锋吃芋头酥嘴角根本压不住",
+      "onboard_time": 1756988361,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 105634,
@@ -1928,6 +2040,14 @@
       "word": "坦克下班",
       "onboard_time": 1756903945,
       "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 102768,
+      "num": 124921,
+      "word": "日本前首相说必须正视历史",
+      "onboard_time": 1756989323,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -2011,6 +2131,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 96652,
+      "num": 124918,
+      "word": "胡一天给田曦薇戴围巾路透",
+      "onboard_time": 1756987702,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96019,
       "num": 120448,
       "word": "关晓彤拒绝熬夜连轴转",
@@ -2025,6 +2153,14 @@
       "onboard_time": 1756962623,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 94633,
+      "num": 124897,
+      "word": "徐奕11比0",
+      "onboard_time": 1756989864,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 94588,
@@ -2275,6 +2411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80854,
+      "num": 124830,
+      "word": "丞磊新剧又争又抢民国律师哥",
+      "onboard_time": 1756989923,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79899,
       "num": 245399,
       "word": "把预防HPV加入大学开学清单",
@@ -2296,6 +2440,14 @@
       "word": "九三阅兵重磅武器汇总来了",
       "onboard_time": 1756938197,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 78220,
+      "num": 199374,
+      "word": "天安门广场90秒放飞8万羽和平鸽",
+      "onboard_time": 1756989142,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -2321,6 +2473,14 @@
       "onboard_time": 1756979122,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 74969,
+      "num": 124796,
+      "word": "这5个字比咖啡都提神醒脑",
+      "onboard_time": 1756989802,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 72992,
@@ -2563,14 +2723,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43473,
-      "num": 116570,
-      "word": "兵马俑一号坑惊现大洞",
-      "onboard_time": 1756985601,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41085,
       "num": 116580,
       "word": "高志凯称美日印度都在研究中方阅兵",
@@ -2609,6 +2761,14 @@
       "onboard_time": 1756963823,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32095,
+      "num": 124758,
+      "word": "2025女排世锦赛",
+      "onboard_time": 1756988063,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 30629,
@@ -2721,6 +2881,14 @@
       "onboard_time": 1756970841,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13266,
+      "num": 124847,
+      "word": "成龙说养子团是动作片的未来",
+      "onboard_time": 1756990044,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 9879,
