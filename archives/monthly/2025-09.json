@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757006498748,
+  "endTime": 1757007563842,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -10659,6 +10659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44204,
+      "num": 44204,
+      "word": "歌唱祖国",
+      "onboard_time": 1757007016,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42861,
       "num": 109734,
       "word": "潘展乐全锦赛报名蝶泳",
@@ -10963,20 +10971,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29709,
+      "num": 59912,
+      "word": "阿玛尼遗憾与朋友家人相处时间不够",
+      "onboard_time": 1757004798,
+      "rank": 45,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 29694,
       "num": 33048,
       "word": "天安门广场放音乐",
       "onboard_time": 1756832297,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29009,
-      "num": 59912,
-      "word": "阿玛尼遗憾与朋友家人相处时间不够",
-      "onboard_time": 1757004798,
-      "rank": 45,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 28442,
@@ -11065,6 +11073,14 @@
       "onboard_time": 1756898123,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24815,
+      "num": 44030,
+      "word": "罗小黑战记2正在温映",
+      "onboard_time": 1757007497,
+      "rank": 46,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 24197,
@@ -11411,7 +11427,7 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 7582,
+      "raw_hot": 9793,
       "num": 59907,
       "word": "汪顺穿东京奥运领奖服看阅兵",
       "onboard_time": 1757005757,
