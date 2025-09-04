@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/31 00:28:48 ~ 2025/09/05 03:37:03
+本榜单时间：2025/08/31 00:28:48 ~ 2025/09/05 04:27:18
 </p>
 </blockquote>
 <p>
@@ -10881,6 +10881,12 @@ MK出行包王（热度：34050）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E5%90%95%E6%BD%87%E7%84%B6%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%23" target="weibo">
+我和我的祖国吕潇然照进现实（热度：25029）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E7%BB%8F%E8%BF%87%E5%AE%B6%E9%97%A8%E5%8F%A3%23" target="weibo">
 大国重器经过家门口（热度：24984）
 </a>
@@ -10901,12 +10907,6 @@ MK出行包王（热度：34050）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E4%BA%8C%E4%B8%93%E4%B9%9F%E5%8F%AB%E7%99%BD%23" target="weibo">
 张远二专也叫白（热度：23714）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E5%90%95%E6%BD%87%E7%84%B6%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%23" target="weibo">
-我和我的祖国吕潇然照进现实（热度：22614）
 </a>
 </li>
 
@@ -11043,14 +11043,14 @@ AI合成内容需亮明身份（热度：18945）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E7%83%AD%E6%90%9C%E8%A2%AB%E9%98%85%E5%85%B5%E6%89%BF%E5%8C%85%E4%BA%86%23" target="weibo">
-今天的热搜被阅兵承包了（热度：17929）
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E7%9C%8B%E6%B1%9F%E5%8D%97%E5%8D%81%E4%BA%8C%E5%9C%BA%E6%AC%A2%E8%81%9A%23" target="weibo">
+肖战来看江南十二场欢聚（热度：18484）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E7%9C%8B%E6%B1%9F%E5%8D%97%E5%8D%81%E4%BA%8C%E5%9C%BA%E6%AC%A2%E8%81%9A%23" target="weibo">
-肖战来看江南十二场欢聚（热度：17605）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E7%83%AD%E6%90%9C%E8%A2%AB%E9%98%85%E5%85%B5%E6%89%BF%E5%8C%85%E4%BA%86%23" target="weibo">
+今天的热搜被阅兵承包了（热度：17929）
 </a>
 </li>
 
@@ -11151,6 +11151,12 @@ AI合成内容需亮明身份（热度：18945）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E8%AF%B4%E4%BB%98%E5%87%BA%E5%80%BC%E5%BE%97%23" target="weibo">
+抗战老兵看完阅兵说付出值得（热度：14298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9F%83%E8%A6%81%E5%81%9A%E5%A5%BD%E5%85%84%E5%BC%9F%E5%A5%BD%E4%BC%99%E4%BC%B4%E5%A5%BD%E6%9C%8B%E5%8F%8B%23" target="weibo">
 中埃要做好兄弟好伙伴好朋友（热度：14033）
 </a>
@@ -11165,6 +11171,12 @@ AI合成内容需亮明身份（热度：18945）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2382%E4%BA%BA%E6%89%93%E9%80%801000%E4%B8%AA%E6%97%A5%E4%BC%AA%E5%86%9B5%E6%AC%A1%23" target="weibo">
 82人打退1000个日伪军5次（热度：13641）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%AF%85%E7%9C%BC%E7%A5%9E%E5%A4%AA%E9%9C%87%E6%92%BC%E4%BA%86%23" target="weibo">
+坚毅眼神太震撼了（热度：13299）
 </a>
 </li>
 
@@ -11231,12 +11243,6 @@ AI合成内容需亮明身份（热度：18945）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%AE%9A%E7%BB%B4%E6%8A%A4%E4%BA%8C%E6%88%98%E8%83%9C%E5%88%A9%E6%88%90%E6%9E%9C%23" target="weibo">
 坚定维护二战胜利成果（热度：11360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E8%AF%B4%E4%BB%98%E5%87%BA%E5%80%BC%E5%BE%97%23" target="weibo">
-抗战老兵看完阅兵说付出值得（热度：11234）
 </a>
 </li>
 

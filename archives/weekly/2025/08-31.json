@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1757014623756,
+  "endTime": 1757017638194,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -14491,6 +14491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25029,
+      "num": 32237,
+      "word": "我和我的祖国吕潇然照进现实",
+      "onboard_time": 1757010915,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24984,
       "num": 175088,
       "word": "大国重器经过家门口",
@@ -14521,14 +14529,6 @@
       "onboard_time": 1756746197,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 22614,
-      "num": 32237,
-      "word": "我和我的祖国吕潇然照进现实",
-      "onboard_time": 1757010915,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22401,
@@ -14707,20 +14707,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18484,
+      "num": 27579,
+      "word": "肖战来看江南十二场欢聚",
+      "onboard_time": 1757010016,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17929,
       "num": 27584,
       "word": "今天的热搜被阅兵承包了",
       "onboard_time": 1757009656,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17605,
-      "num": 27579,
-      "word": "肖战来看江南十二场欢聚",
-      "onboard_time": 1757010016,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 17137,
@@ -14851,6 +14851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14298,
+      "num": 25646,
+      "word": "抗战老兵看完阅兵说付出值得",
+      "onboard_time": 1757013734,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14033,
       "num": 36937,
       "word": "中埃要做好兄弟好伙伴好朋友",
@@ -14873,6 +14881,14 @@
       "onboard_time": 1756750995,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13299,
+      "num": 24941,
+      "word": "坚毅眼神太震撼了",
+      "onboard_time": 1757016013,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13245,
@@ -14960,14 +14976,6 @@
       "word": "坚定维护二战胜利成果",
       "onboard_time": 1756753453,
       "rank": 14,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11234,
-      "num": 25646,
-      "word": "抗战老兵看完阅兵说付出值得",
-      "onboard_time": 1757013734,
-      "rank": 9,
       "category": "国内时政"
     },
     {

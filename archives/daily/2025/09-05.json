@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757014623756,
+  "endTime": 1757017638194,
   "band_list": [
     {
       "raw_hot": 1237213,
@@ -403,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 25029,
+      "num": 32237,
+      "word": "我和我的祖国吕潇然照进现实",
+      "onboard_time": 1757010915,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24815,
       "num": 44030,
       "word": "罗小黑战记2正在温映",
@@ -411,12 +419,12 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 22614,
-      "num": 32237,
-      "word": "我和我的祖国吕潇然照进现实",
-      "onboard_time": 1757010915,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 18484,
+      "num": 27579,
+      "word": "肖战来看江南十二场欢聚",
+      "onboard_time": 1757010016,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 17929,
@@ -443,14 +451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17605,
-      "num": 27579,
-      "word": "肖战来看江南十二场欢聚",
-      "onboard_time": 1757010016,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 15916,
       "num": 23452,
       "word": "阅兵神图对称感绝了",
@@ -467,6 +467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14298,
+      "num": 25646,
+      "word": "抗战老兵看完阅兵说付出值得",
+      "onboard_time": 1757013734,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13299,
+      "num": 24941,
+      "word": "坚毅眼神太震撼了",
+      "onboard_time": 1757016013,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12747,
       "num": 549270,
       "word": "胜利日阅兵盛况定格留念",
@@ -481,14 +497,6 @@
       "onboard_time": 1757002821,
       "rank": 49,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 11234,
-      "num": 25646,
-      "word": "抗战老兵看完阅兵说付出值得",
-      "onboard_time": 1757013734,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10664,
