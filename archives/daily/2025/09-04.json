@@ -1,6 +1,6 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756995847230,
+  "endTime": 1756996977776,
   "band_list": [
     {
       "raw_hot": 15819267,
@@ -11,20 +11,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2516566,
+      "num": 2516566,
+      "word": "男子诋毁九三阅兵被拘",
+      "onboard_time": 1756993284,
+      "rank": 31,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 2438314,
       "num": 2438314,
       "word": "新华社 必出神图的决心",
       "onboard_time": 1756955724,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2147730,
-      "num": 2147730,
-      "word": "男子诋毁九三阅兵被拘",
-      "onboard_time": 1756993284,
-      "rank": 31,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 1900095,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1653057,
-      "num": 222093,
+      "num": 277779,
       "word": "阿玛尼先生去世",
       "onboard_time": 1756994066,
       "rank": 10,
@@ -515,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 391164,
+      "num": 262432,
+      "word": "阿玛尼发讣告",
+      "onboard_time": 1756996645,
+      "rank": 13,
+      "category": "时尚,海外新闻"
+    },
+    {
       "raw_hot": 390386,
       "num": 390386,
       "word": "阅兵升旗手爸爸紧张到握拳",
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 385687,
-      "num": 220593,
+      "num": 261520,
       "word": "丝之歌",
       "onboard_time": 1756993284,
       "rank": 13,
@@ -568,6 +576,14 @@
       "word": "加沙人看阅兵后落泪",
       "onboard_time": 1756943301,
       "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 366225,
+      "num": 366225,
+      "word": "中朝一家亲",
+      "onboard_time": 1756995445,
+      "rank": 16,
       "category": "国内时政"
     },
     {
@@ -659,6 +675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 335831,
+      "num": 257123,
+      "word": "丝之歌发售",
+      "onboard_time": 1756996165,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 335764,
       "num": 335764,
       "word": "受阅部队投入日常战备值勤",
@@ -731,6 +755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 307419,
+      "num": 243025,
+      "word": "唐宫奇案",
+      "onboard_time": 1756994606,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305349,
       "num": 271594,
       "word": "歼35大片来了",
@@ -771,6 +803,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 288641,
+      "num": 288641,
+      "word": "复制粘贴换个角度还是复制粘贴",
+      "onboard_time": 1756994004,
+      "rank": 9,
+      "category": "国内时政,情感"
+    },
+    {
       "raw_hot": 283231,
       "num": 246037,
       "word": "iPhone异地隔空投送",
@@ -785,14 +825,6 @@
       "onboard_time": 1756908205,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 282856,
-      "num": 193442,
-      "word": "唐宫奇案",
-      "onboard_time": 1756994606,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 282130,
@@ -883,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249760,
+      "num": 249760,
+      "word": "丝之歌Steam国区76元",
+      "onboard_time": 1756995804,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249547,
       "num": 249547,
       "word": "为什么早餐更适合吃高热量食物",
@@ -915,6 +955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 242901,
+      "num": 242901,
+      "word": "易烊千玺演唱会哭了",
+      "onboard_time": 1756996284,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238231,
       "num": 238231,
       "word": "5万余人观礼离场后干干净净",
@@ -937,14 +985,6 @@
       "onboard_time": 1756986201,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 222171,
-      "num": 222171,
-      "word": "复制粘贴换个角度还是复制粘贴",
-      "onboard_time": 1756994004,
-      "rank": 9,
-      "category": "国内时政,情感"
     },
     {
       "raw_hot": 218844,
@@ -993,6 +1033,14 @@
       "onboard_time": 1756956682,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209238,
+      "num": 209238,
+      "word": "梓渝音乐节不基础造型更不基础",
+      "onboard_time": 1756996406,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 209197,
@@ -1099,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194421,
+      "num": 194421,
+      "word": "特朗普称中俄朝密谋对抗美国",
+      "onboard_time": 1756995864,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193627,
       "num": 193627,
       "word": "吴越罗晋吴樾刘昊然合照",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1756957824,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190915,
+      "num": 223481,
+      "word": "中国向阿富汗提供5000万元援助",
+      "onboard_time": 1756992564,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 190266,
@@ -1251,6 +1315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179969,
+      "num": 179969,
+      "word": "金正恩说中国的庆典也是我们的喜事",
+      "onboard_time": 1756996344,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178695,
       "num": 225548,
       "word": "央行明日操作1万亿元买断式逆回购",
@@ -1339,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165725,
+      "num": 165725,
+      "word": "王影璐献鱼有效播剧",
+      "onboard_time": 1756995745,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164076,
       "num": 220939,
       "word": "中国军工立flag",
@@ -1385,14 +1465,6 @@
       "onboard_time": 1756958844,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160502,
-      "num": 223481,
-      "word": "中国向阿富汗提供5000万元援助",
-      "onboard_time": 1756992564,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 159754,
@@ -1699,14 +1771,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 136336,
-      "num": 211830,
-      "word": "中朝一家亲",
-      "onboard_time": 1756995445,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 135425,
       "num": 243009,
       "word": "美国防部关注九三阅兵",
@@ -1817,14 +1881,6 @@
       "onboard_time": 1756952961,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126210,
-      "num": 160177,
-      "word": "丝之歌Steam国区76元",
-      "onboard_time": 1756995804,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 124876,
@@ -2035,6 +2091,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 109809,
+      "num": 109809,
+      "word": "毛利兰连续三年封面女神",
+      "onboard_time": 1756995924,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 109516,
       "num": 159988,
       "word": "盛世天下阵容太强大了",
@@ -2201,6 +2265,14 @@
       "onboard_time": 1756976183,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101916,
+      "num": 101916,
+      "word": "45秒延时浓缩阅兵分列式的精华",
+      "onboard_time": 1756996463,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101301,
@@ -2619,14 +2691,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 77801,
-      "num": 159344,
-      "word": "王影璐献鱼有效播剧",
-      "onboard_time": 1756995745,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75881,
       "num": 112677,
       "word": "美网女单四强出炉",
@@ -2713,6 +2777,14 @@
       "onboard_time": 1756949900,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 63887,
+      "num": 183349,
+      "word": "高空视角看核导弹东风5C",
+      "onboard_time": 1756996704,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60405,
@@ -2841,6 +2913,14 @@
       "onboard_time": 1756958544,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47873,
+      "num": 243129,
+      "word": "阅兵前返航的备份机我们都看到了",
+      "onboard_time": 1756995864,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47649,
