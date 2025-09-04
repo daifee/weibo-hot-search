@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/09/04 12:29:11
+本榜单时间：2025/01/01 00:26:38 ~ 2025/09/04 12:42:32
 </p>
 </blockquote>
 <p>
@@ -279,6 +279,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E8%A7%82%E7%9C%8B%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%23" target="weibo">
+特朗普承认观看中国阅兵（热度：15819267）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%B7%A8%E9%9C%87%23" target="weibo">
 全球股市巨震（热度：15762339）
 </a>
@@ -371,12 +377,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%81%8B%E6%83%85%E6%97%B6%E9%97%B4%E7%BA%BF%23" target="weibo">
 许凯恋情时间线（热度：14494545）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E8%A7%82%E7%9C%8B%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%23" target="weibo">
-特朗普承认观看中国阅兵（热度：14451661）
 </a>
 </li>
 
