@@ -1,0 +1,410 @@
+{
+  "runTime": 1756990908384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 612239,
+        "num": 1097958,
+        "word": "父亲儿子都牺牲了他带照片看阅兵",
+        "onboard_time": 1756984162,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 457961,
+        "num": 457961,
+        "word": "和平鸽工资15元",
+        "onboard_time": 1756978400,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11720,
+        "num": 429005,
+        "word": "中国排面360度无死角整齐",
+        "onboard_time": 1756944864,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 818907,
+        "num": 420792,
+        "word": "102岁老兵看完阅兵当晚安详离世",
+        "onboard_time": 1756967364,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407829,
+        "num": 407829,
+        "word": "新华社认证的帅兵哥已婚",
+        "onboard_time": 1756964604,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335764,
+        "num": 335764,
+        "word": "受阅部队投入日常战备值勤",
+        "onboard_time": 1756985542,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 309641,
+        "num": 309641,
+        "word": "官方回应102岁老兵看完阅兵后去世",
+        "onboard_time": 1756977621,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273880,
+        "num": 273880,
+        "word": "中朝元首会谈",
+        "onboard_time": 1756981942,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186437,
+        "num": 272175,
+        "word": "武契奇说塞尔维亚永远不忘中国支持",
+        "onboard_time": 1756981882,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131954,
+        "num": 269944,
+        "word": "日本前首相说必须正视历史",
+        "onboard_time": 1756989323,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 874323,
+        "num": 267259,
+        "word": "张亮麻辣烫没张亮了",
+        "onboard_time": 1756984162,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 769154,
+        "num": 263237,
+        "word": "特朗普承认观看中国阅兵",
+        "onboard_time": 1756952840,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422179,
+        "num": 258983,
+        "word": "兵马俑一号坑惊现大洞",
+        "onboard_time": 1756985601,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311230,
+        "num": 257382,
+        "word": "普京称若谈判无果将以武力解决",
+        "onboard_time": 1756986022,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255759,
+        "num": 255759,
+        "word": "全韩国都在报道中国阅兵",
+        "onboard_time": 1756978222,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187757,
+        "num": 187757,
+        "word": "北京杜莎夫人蜡像馆将永久关停",
+        "onboard_time": 1756972222,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174180,
+        "num": 174180,
+        "word": "小米集团7000名应届生已全部报到",
+        "onboard_time": 1756982302,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172686,
+        "num": 172686,
+        "word": "腹式呼吸具象化了",
+        "onboard_time": 1756986201,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171997,
+        "num": 171997,
+        "word": "我国成为拥有三位一体战略核力量国家",
+        "onboard_time": 1756987342,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160235,
+        "num": 160235,
+        "word": "王晨策接送王楚钦上下学",
+        "onboard_time": 1756983682,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412775,
+        "num": 160114,
+        "word": "男子去世给绝症前女友留全部存款",
+        "onboard_time": 1756985903,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380402,
+        "num": 160070,
+        "word": "易烊千玺成都站收官",
+        "onboard_time": 1756986923,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251880,
+        "num": 160034,
+        "word": "长期焦虑过度的表现",
+        "onboard_time": 1756978760,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159763,
+        "num": 159763,
+        "word": "香奈儿蜜粉30克和6克同价",
+        "onboard_time": 1756988542,
+        "rank": 23,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 148865,
+        "num": 148865,
+        "word": "央行明日操作1万亿元买断式逆回购",
+        "onboard_time": 1756988602,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147147,
+        "num": 147147,
+        "word": "九三阅兵的覆盖全球实锤了",
+        "onboard_time": 1756964362,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146334,
+        "num": 146334,
+        "word": "梓渝 太湖湾音乐节",
+        "onboard_time": 1756982121,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142753,
+        "num": 142753,
+        "word": "3架备份机临近天安门前默默返航",
+        "onboard_time": 1756990883,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139976,
+        "num": 139976,
+        "word": "丞磊新剧又争又抢民国律师哥",
+        "onboard_time": 1756989923,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138458,
+        "num": 138458,
+        "word": "胡一天给田曦薇戴围巾路透",
+        "onboard_time": 1756987702,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133804,
+        "num": 133804,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128536,
+        "num": 133802,
+        "word": "阿富汗地震2205死3640伤",
+        "onboard_time": 1756990883,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126193,
+        "num": 133794,
+        "word": "刘敏涛戏里戏外泪崩",
+        "onboard_time": 1756987822,
+        "rank": 32,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 116853,
+        "num": 133784,
+        "word": "一年不吃晚饭身体的变化",
+        "onboard_time": 1756981281,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115886,
+        "num": 133773,
+        "word": "美联社直播中国阅兵评论区亮了",
+        "onboard_time": 1756978342,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108855,
+        "num": 133763,
+        "word": "母女三人机场偷土特产",
+        "onboard_time": 1756979483,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106410,
+        "num": 133754,
+        "word": "老师下学期你还教我吗",
+        "onboard_time": 1756980142,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104827,
+        "num": 133744,
+        "word": "VOGUE金九群封没有95花",
+        "onboard_time": 1756986862,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 104533,
+        "num": 133734,
+        "word": "谢霆锋吃芋头酥嘴角根本压不住",
+        "onboard_time": 1756988361,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18490,
+        "num": 133730,
+        "word": "成龙说养子团是动作片的未来",
+        "onboard_time": 1756990044,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103788,
+        "num": 133722,
+        "word": "现在的电视都发展成这样了吗",
+        "onboard_time": 1756989802,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99225,
+        "num": 133705,
+        "word": "鹿晗北京站嘉宾",
+        "onboard_time": 1756974743,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97756,
+        "num": 133695,
+        "word": "天安门广场90秒放飞8万羽和平鸽",
+        "onboard_time": 1756989142,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93116,
+        "num": 133693,
+        "word": "小狗不知道自己睡在废品站",
+        "onboard_time": 1756988664,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92047,
+        "num": 133685,
+        "word": "徐奕11比0",
+        "onboard_time": 1756989864,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86646,
+        "num": 133676,
+        "word": "中国军工立flag",
+        "onboard_time": 1756982843,
+        "rank": 45,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 81350,
+        "num": 133659,
+        "word": "BFX战胜DK",
+        "onboard_time": 1756989442,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62787,
+        "num": 133657,
+        "word": "华为首次官宣非凡大师品牌LOGO",
+        "onboard_time": 1756973420,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43298,
+        "num": 133645,
+        "word": "冷咖啡和热咖啡不是靠温度区分",
+        "onboard_time": 1756972821,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 31693,
+        "num": 133639,
+        "word": "2025女排世锦赛",
+        "onboard_time": 1756988063,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见越南国家主席#"
+    }
+  }
+}
