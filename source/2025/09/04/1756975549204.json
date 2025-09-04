@@ -1,0 +1,410 @@
+{
+  "runTime": 1756975549204,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 963223,
+        "num": 1154115,
+        "word": "新华社认证的帅兵哥已婚",
+        "onboard_time": 1756964604,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762873,
+        "num": 762873,
+        "word": "新华社 必出神图的决心",
+        "onboard_time": 1756955724,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23653,
+        "num": 682732,
+        "word": "阅兵太出片了",
+        "onboard_time": 1756948462,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1388864,
+        "num": 673964,
+        "word": "102岁老兵看完阅兵当晚安详离世",
+        "onboard_time": 1756967364,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655797,
+        "num": 655797,
+        "word": "北京杜莎夫人蜡像馆将永久关停",
+        "onboard_time": 1756972222,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477234,
+        "num": 477234,
+        "word": "阅兵现场妻子把王伟照片举向天空",
+        "onboard_time": 1756969762,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433364,
+        "num": 433364,
+        "word": "浙工大回应2新生为校长撑伞全淋湿",
+        "onboard_time": 1756971202,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355344,
+        "num": 355344,
+        "word": "九三阅兵的覆盖全球实锤了",
+        "onboard_time": 1756964362,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281301,
+        "num": 281301,
+        "word": "台媒称台军难以望到解放军尾灯",
+        "onboard_time": 1756968383,
+        "rank": 8,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 195515,
+        "num": 279667,
+        "word": "成毅云包场赴山海",
+        "onboard_time": 1756972340,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14452,
+        "num": 275595,
+        "word": "九三阅兵上的多个首次",
+        "onboard_time": 1756938317,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2816190,
+        "num": 275403,
+        "word": "特朗普承认观看中国阅兵",
+        "onboard_time": 1756952840,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 349652,
+        "num": 270569,
+        "word": "麒麟9020",
+        "onboard_time": 1756971982,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 325542,
+        "num": 269617,
+        "word": "美防长谈九三阅兵",
+        "onboard_time": 1756971443,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 288606,
+        "num": 265178,
+        "word": "华为发布会",
+        "onboard_time": 1756971682,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264166,
+        "num": 264166,
+        "word": "外交部回应特朗普涉华指责",
+        "onboard_time": 1756974142,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205469,
+        "num": 205469,
+        "word": "iPhone异地隔空投送",
+        "onboard_time": 1756969282,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 64320,
+        "num": 200087,
+        "word": "华为首次官宣非凡大师品牌LOGO",
+        "onboard_time": 1756973420,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195917,
+        "num": 195917,
+        "word": "鸠山由纪夫说怀着反省谢罪心情赴华",
+        "onboard_time": 1756971622,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84369,
+        "num": 195089,
+        "word": "华为新三折叠像用电脑一样用手机",
+        "onboard_time": 1756975223,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 290509,
+        "num": 195025,
+        "word": "芒果音乐节阵容",
+        "onboard_time": 1756975402,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115870,
+        "num": 194902,
+        "word": "一抬头发现中国留学生都在看阅兵",
+        "onboard_time": 1756973841,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194843,
+        "num": 194843,
+        "word": "73岁唐国强和61岁刘劲观礼九三阅兵",
+        "onboard_time": 1756969642,
+        "rank": 22,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 239428,
+        "num": 192183,
+        "word": "周翊然郑合惠子演父女",
+        "onboard_time": 1756973061,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188146,
+        "num": 188146,
+        "word": "鹿晗北京站嘉宾",
+        "onboard_time": 1756974743,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181728,
+        "num": 181728,
+        "word": "张艺凡一胳膊能搂四个姐姐",
+        "onboard_time": 1756974621,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180701,
+        "num": 180701,
+        "word": "桐心薇泯翻拍夏家三千金",
+        "onboard_time": 1756974323,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166650,
+        "num": 166650,
+        "word": "东风41车贴刚到半天就成老款了",
+        "onboard_time": 1756972162,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72992,
+        "num": 166317,
+        "word": "华为新三折叠搭载红枫原色影像",
+        "onboard_time": 1756975282,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179102,
+        "num": 166316,
+        "word": "特朗普下令重振美国军队",
+        "onboard_time": 1756954220,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166311,
+        "num": 166311,
+        "word": "期待下次阅兵了",
+        "onboard_time": 1756946303,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152404,
+        "num": 152404,
+        "word": "张晚意 王权富贵到王富贵",
+        "onboard_time": 1756970961,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149358,
+        "num": 149358,
+        "word": "韩国人被中国阅兵直播震惊",
+        "onboard_time": 1756943722,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134489,
+        "num": 134489,
+        "word": "每天运动1小时2年后的改变",
+        "onboard_time": 1756957883,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 132473,
+        "num": 132473,
+        "word": "浙工大校长淋湿后被调侃双一流校长",
+        "onboard_time": 1756972162,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130220,
+        "num": 130220,
+        "word": "阅兵升旗手爸爸紧张到握拳",
+        "onboard_time": 1756964783,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122247,
+        "num": 122247,
+        "word": "刘德华来华为发布会了",
+        "onboard_time": 1756974563,
+        "rank": 36,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 122176,
+        "num": 122176,
+        "word": "真胖和虚胖的5个区别",
+        "onboard_time": 1756969341,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120513,
+        "num": 120513,
+        "word": "华为新款三折叠价格",
+        "onboard_time": 1756974201,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118610,
+        "num": 118610,
+        "word": "亲人去世后不要偷看他们手机",
+        "onboard_time": 1756955122,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109745,
+        "num": 109745,
+        "word": "冷咖啡和热咖啡不是靠温度区分",
+        "onboard_time": 1756972821,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 106374,
+        "num": 106374,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100089,
+        "num": 100089,
+        "word": "宝宝出生恰逢九三阅兵家人取名安阅",
+        "onboard_time": 1756962504,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100005,
+        "num": 100005,
+        "word": "新华社出图",
+        "onboard_time": 1756869992,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99740,
+        "num": 99740,
+        "word": "升旗手儿子今天真帅",
+        "onboard_time": 1756970061,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91559,
+        "num": 99733,
+        "word": "张真源一开口我真没招了",
+        "onboard_time": 1756975103,
+        "rank": 45,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 88279,
+        "num": 99728,
+        "word": "这个广告真是记一辈子啊",
+        "onboard_time": 1756975342,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88197,
+        "num": 99723,
+        "word": "麒麟芯片时隔四年重现华为发布会",
+        "onboard_time": 1756971802,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85684,
+        "num": 99711,
+        "word": "iPhone17系列终极爆料",
+        "onboard_time": 1756972100,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84793,
+        "num": 99704,
+        "word": "汶川被救男孩以少尉身份参加阅兵",
+        "onboard_time": 1756974983,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记伟大历史胜利凝聚正义和平力量#"
+    }
+  }
+}

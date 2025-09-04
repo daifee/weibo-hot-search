@@ -1,6 +1,6 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756974739539,
+  "endTime": 1756975549204,
   "band_list": [
     {
       "raw_hot": 15819267,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477234,
+      "num": 477234,
+      "word": "阅兵现场妻子把王伟照片举向天空",
+      "onboard_time": 1756969762,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 464250,
       "num": 269276,
       "word": "这综艺一下降世了五个魔童",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 400047,
-      "num": 408376,
+      "num": 682732,
       "word": "阅兵太出片了",
       "onboard_time": 1756948462,
       "rank": 19,
@@ -483,20 +491,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 325542,
+      "num": 269617,
+      "word": "美防长谈九三阅兵",
+      "onboard_time": 1756971443,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324977,
       "num": 324977,
       "word": "台媒称台军难以望到解放军尾灯",
       "onboard_time": 1756968383,
       "rank": 44,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 323642,
-      "num": 323642,
-      "word": "阅兵现场妻子把王伟照片举向天空",
-      "onboard_time": 1756969762,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 312481,
@@ -547,6 +555,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 290509,
+      "num": 195025,
+      "word": "芒果音乐节阵容",
+      "onboard_time": 1756975402,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 283231,
       "num": 246037,
       "word": "iPhone异地隔空投送",
@@ -593,6 +609,14 @@
       "onboard_time": 1756952482,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 264166,
+      "num": 324465,
+      "word": "外交部回应特朗普涉华指责",
+      "onboard_time": 1756974142,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 258583,
@@ -651,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239428,
+      "num": 200769,
+      "word": "周翊然郑合惠子演父女",
+      "onboard_time": 1756973061,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238231,
       "num": 238231,
       "word": "5万余人观礼离场后干干净净",
@@ -667,36 +699,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 235508,
-      "num": 200769,
-      "word": "周翊然郑合惠子演父女",
-      "onboard_time": 1756973061,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 234985,
-      "num": 234985,
-      "word": "美防长谈九三阅兵",
-      "onboard_time": 1756971443,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 222678,
       "num": 222678,
       "word": "鸠山由纪夫说怀着反省谢罪心情赴华",
       "onboard_time": 1756971622,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 219825,
-      "num": 324465,
-      "word": "外交部回应特朗普涉华指责",
-      "onboard_time": 1756974142,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 218844,
@@ -795,6 +803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 195515,
+      "num": 324889,
+      "word": "成毅云包场赴山海",
+      "onboard_time": 1756972340,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193627,
       "num": 193627,
       "word": "吴越罗晋吴樾刘昊然合照",
@@ -851,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188146,
+      "num": 188146,
+      "word": "鹿晗北京站嘉宾",
+      "onboard_time": 1756974743,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187970,
       "num": 267729,
       "word": "美军PPT里的东西我们已经服役了",
@@ -905,6 +929,22 @@
       "onboard_time": 1756963943,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181728,
+      "num": 181728,
+      "word": "张艺凡一胳膊能搂四个姐姐",
+      "onboard_time": 1756974621,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180701,
+      "num": 180701,
+      "word": "桐心薇泯翻拍夏家三千金",
+      "onboard_time": 1756974323,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 180674,
@@ -977,6 +1017,14 @@
       "onboard_time": 1756972162,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166650,
+      "num": 166650,
+      "word": "东风41车贴刚到半天就成老款了",
+      "onboard_time": 1756972162,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163629,
@@ -1155,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141501,
-      "num": 141501,
-      "word": "东风41车贴刚到半天就成老款了",
-      "onboard_time": 1756972162,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 141456,
       "num": 666330,
       "word": "阅兵回放",
@@ -1252,7 +1292,7 @@
     },
     {
       "raw_hot": 130835,
-      "num": 130835,
+      "num": 194902,
       "word": "一抬头发现中国留学生都在看阅兵",
       "onboard_time": 1756973841,
       "rank": 32,
@@ -1315,12 +1355,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124655,
-      "num": 124655,
-      "word": "桐心薇泯翻拍夏家三千金",
-      "onboard_time": 1756974323,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 122247,
+      "num": 122247,
+      "word": "刘德华来华为发布会了",
+      "onboard_time": 1756974563,
+      "rank": 45,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 121347,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1756973242,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120513,
+      "num": 121324,
+      "word": "华为新款三折叠价格",
+      "onboard_time": 1756974201,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 120355,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1756944142,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 118175,
-      "num": 324889,
-      "word": "成毅云包场赴山海",
-      "onboard_time": 1756972340,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 118100,
@@ -1555,28 +1595,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 100591,
-      "num": 121324,
-      "word": "华为新款三折叠价格",
-      "onboard_time": 1756974201,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 98808,
       "num": 105732,
       "word": "LPL最佳阵容投票",
       "onboard_time": 1756967544,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 97294,
-      "num": 121308,
-      "word": "张艺凡一胳膊能搂四个姐姐",
-      "onboard_time": 1756974621,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 97059,
@@ -1619,20 +1643,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91559,
+      "num": 99733,
+      "word": "张真源一开口我真没招了",
+      "onboard_time": 1756975103,
+      "rank": 45,
+      "category": "综艺,电竞"
+    },
+    {
       "raw_hot": 91459,
       "num": 91459,
       "word": "找到小猫的神秘开关了",
       "onboard_time": 1756950920,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90774,
-      "num": 121282,
-      "word": "刘德华来华为发布会了",
-      "onboard_time": 1756974563,
-      "rank": 45,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 90409,
@@ -1649,6 +1673,22 @@
       "onboard_time": 1756965382,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88279,
+      "num": 99728,
+      "word": "这个广告真是记一辈子啊",
+      "onboard_time": 1756975342,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 88197,
+      "num": 121249,
+      "word": "麒麟芯片时隔四年重现华为发布会",
+      "onboard_time": 1756971802,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 88025,
@@ -1683,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86603,
-      "num": 121249,
-      "word": "麒麟芯片时隔四年重现华为发布会",
-      "onboard_time": 1756971802,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 86273,
       "num": 137343,
       "word": "军嫂盯着徒步方队找丈夫迷糊了",
@@ -1707,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85684,
+      "num": 99711,
+      "word": "iPhone17系列终极爆料",
+      "onboard_time": 1756972100,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85375,
       "num": 155771,
       "word": "白切鸡到底是吃老鸡还是吃嫩鸡",
@@ -1721,6 +1761,22 @@
       "onboard_time": 1756948223,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84793,
+      "num": 99704,
+      "word": "汶川被救男孩以少尉身份参加阅兵",
+      "onboard_time": 1756974983,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 84369,
+      "num": 195089,
+      "word": "华为新三折叠像用电脑一样用手机",
+      "onboard_time": 1756975223,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 84117,
@@ -1793,6 +1849,14 @@
       "onboard_time": 1756954823,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72992,
+      "num": 166317,
+      "word": "华为新三折叠搭载红枫原色影像",
+      "onboard_time": 1756975282,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 71651,
