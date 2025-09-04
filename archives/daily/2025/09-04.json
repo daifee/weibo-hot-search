@@ -1,6 +1,6 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756968515266,
+  "endTime": 1756970645467,
   "band_list": [
     {
       "raw_hot": 15819267,
@@ -73,6 +73,14 @@
       "onboard_time": 1756955122,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1122333,
+      "num": 1122333,
+      "word": "102岁老兵看完阅兵当晚安详离世",
+      "onboard_time": 1756967364,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1081478,
@@ -315,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 461657,
-      "num": 238386,
-      "word": "102岁老兵看完阅兵当晚安详离世",
-      "onboard_time": 1756967364,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 450865,
       "num": 323830,
       "word": "德媒称中国阅兵武器遥遥领先",
@@ -419,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 353985,
+      "num": 249785,
+      "word": "73岁唐国强和61岁刘劲观礼九三阅兵",
+      "onboard_time": 1756969642,
+      "rank": 11,
+      "category": "艺人,国内时政"
+    },
+    {
       "raw_hot": 338321,
       "num": 338321,
       "word": "满屏飞飞飞飞机需要长长长长图",
@@ -489,6 +497,14 @@
       "onboard_time": 1756947264,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 283231,
+      "num": 243271,
+      "word": "iPhone异地隔空投送",
+      "onboard_time": 1756969282,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 283136,
@@ -675,6 +691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197913,
+      "num": 197913,
+      "word": "詹姆斯现身上海交通大学",
+      "onboard_time": 1756968983,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196640,
       "num": 196640,
       "word": "小孩的文具都进化成这样了",
@@ -721,6 +745,14 @@
       "onboard_time": 1756894885,
       "rank": 17,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 189748,
+      "num": 189748,
+      "word": "真胖和虚胖的5个区别",
+      "onboard_time": 1756969341,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189263,
@@ -779,6 +811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 183466,
+      "num": 183466,
+      "word": "东风61大约10个花坛长度",
+      "onboard_time": 1756963943,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180674,
       "num": 180674,
       "word": "绝区零",
@@ -819,12 +859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170928,
-      "num": 170928,
-      "word": "东风61大约10个花坛长度",
-      "onboard_time": 1756963943,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 171587,
+      "num": 171587,
+      "word": "台媒称台军难以望到解放军尾灯",
+      "onboard_time": 1756968383,
+      "rank": 44,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 170509,
@@ -956,7 +996,7 @@
     },
     {
       "raw_hot": 148124,
-      "num": 133335,
+      "num": 137821,
       "word": "普京透露特朗普同乘一辆车细节",
       "onboard_time": 1756965082,
       "rank": 33,
@@ -1019,6 +1059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141173,
+      "num": 141173,
+      "word": "田曦薇把故宫伴手礼背到了土耳其",
+      "onboard_time": 1756968261,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140822,
       "num": 140822,
       "word": "你以为的坏习惯其实利于抑郁恢复",
@@ -1051,11 +1099,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135425,
+      "num": 135425,
+      "word": "美国防部关注九三阅兵",
+      "onboard_time": 1756968684,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134492,
       "num": 134492,
       "word": "这几个无人机出来军事博主都沉默了",
       "onboard_time": 1756877727,
       "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 132540,
+      "num": 132540,
+      "word": "升旗手儿子今天真帅",
+      "onboard_time": 1756970061,
+      "rank": 33,
       "category": "国内时政"
     },
     {
@@ -1089,6 +1153,14 @@
       "onboard_time": 1756964063,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128251,
+      "num": 128251,
+      "word": "光与夜之恋幻觉派对",
+      "onboard_time": 1756969642,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 127563,
@@ -1163,20 +1235,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116182,
+      "num": 116182,
+      "word": "胡先煦感慨荣幸骄傲",
+      "onboard_time": 1756968442,
+      "rank": 32,
+      "category": "国内时政,演出"
+    },
+    {
       "raw_hot": 116075,
       "num": 123122,
       "word": "樊振东从不找外界原因",
       "onboard_time": 1756963642,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115640,
-      "num": 115640,
-      "word": "胡先煦感慨荣幸骄傲",
-      "onboard_time": 1756968442,
-      "rank": 32,
-      "category": "国内时政,演出"
     },
     {
       "raw_hot": 115549,
@@ -1227,6 +1299,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 108057,
+      "num": 120480,
+      "word": "阅兵现场妻子把王伟照片举向天空",
+      "onboard_time": 1756969762,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107401,
       "num": 123135,
       "word": "罗小黑",
@@ -1235,12 +1315,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107192,
+      "num": 262567,
+      "word": "97岁老战士穿上军服神采奕奕",
+      "onboard_time": 1756969701,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 107151,
       "num": 107151,
       "word": "镜头也为杨靖宇支队停留",
       "onboard_time": 1756947323,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106438,
+      "num": 106438,
+      "word": "看完阅兵再看这个有点不适应",
+      "onboard_time": 1756968142,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 105634,
@@ -1307,12 +1403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97622,
-      "num": 97622,
-      "word": "看完阅兵再看这个有点不适应",
-      "onboard_time": 1756968142,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 98808,
+      "num": 105732,
+      "word": "LPL最佳阵容投票",
+      "onboard_time": 1756967544,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 98473,
+      "num": 239246,
+      "word": "国外餐厅重播九三阅兵",
+      "onboard_time": 1756967662,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97059,
@@ -1347,14 +1451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91016,
-      "num": 91016,
-      "word": "田曦薇把故宫伴手礼背到了土耳其",
-      "onboard_time": 1756968261,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90409,
       "num": 101278,
       "word": "普京盛赞九三阅兵",
@@ -1363,11 +1459,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89042,
-      "num": 239246,
-      "word": "国外餐厅重播九三阅兵",
-      "onboard_time": 1756967662,
-      "rank": 38,
+      "raw_hot": 89796,
+      "num": 120182,
+      "word": "新华社吊臂让恐高的人腿软了",
+      "onboard_time": 1756970302,
+      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -1385,6 +1481,14 @@
       "onboard_time": 1756899984,
       "rank": 41,
       "category": "国内时政,体育"
+    },
+    {
+      "raw_hot": 87167,
+      "num": 105727,
+      "word": "全球覆盖的含金量谁懂啊",
+      "onboard_time": 1756968983,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87020,
@@ -1427,14 +1531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 84806,
-      "num": 88874,
-      "word": "LPL最佳阵容投票",
-      "onboard_time": 1756967544,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 84117,
       "num": 101238,
       "word": "舞蹈 殇",
@@ -1465,6 +1561,14 @@
       "onboard_time": 1756941439,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 79899,
+      "num": 182144,
+      "word": "把预防HPV加入大学开学清单",
+      "onboard_time": 1756969401,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 78407,
@@ -1676,7 +1780,7 @@
     },
     {
       "raw_hot": 46980,
-      "num": 765684,
+      "num": 1140330,
       "word": "九三阅兵上的多个首次",
       "onboard_time": 1756938317,
       "rank": 34,
@@ -1761,14 +1865,6 @@
       "onboard_time": 1756923195,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26765,
-      "num": 91455,
-      "word": "台媒称台军难以望到解放军尾灯",
-      "onboard_time": 1756968383,
-      "rank": 44,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 24197,
