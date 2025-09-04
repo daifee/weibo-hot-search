@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 02:34:39
+本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 02:46:53
 </p>
 </blockquote>
 <p>
@@ -334,13 +334,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%93%E6%B8%9D%20%E5%A4%AA%E6%B9%96%E6%B9%BE%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
-梓渝 太湖湾音乐节（热度：17210）
+梓渝 太湖湾音乐节（热度：17800）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E7%9C%8B%E6%B1%9F%E5%8D%97%E5%8D%81%E4%BA%8C%E5%9C%BA%E6%AC%A2%E8%81%9A%23" target="weibo">
 肖战来看江南十二场欢聚（热度：16114）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E5%90%95%E6%BD%87%E7%84%B6%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%23" target="weibo">
+我和我的祖国吕潇然照进现实（热度：12919）
 </a>
 </li>
 

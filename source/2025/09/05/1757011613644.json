@@ -1,0 +1,410 @@
+{
+  "runTime": 1757011613644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 235967,
+        "num": 235967,
+        "word": "男子诋毁九三阅兵被拘",
+        "onboard_time": 1756993284,
+        "rank": 0,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 117209,
+        "num": 117209,
+        "word": "他在阅兵现场留下不能露面的照片",
+        "onboard_time": 1756999283,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5552,
+        "num": 93129,
+        "word": "胜利日阅兵盛况定格留念",
+        "onboard_time": 1756967002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92730,
+        "num": 92730,
+        "word": "为什么不把东风5C组装受阅",
+        "onboard_time": 1757000184,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48906,
+        "num": 48906,
+        "word": "102岁老兵看完阅兵当晚安详离世",
+        "onboard_time": 1756967364,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38230,
+        "num": 38230,
+        "word": "3架备份机临近天安门前默默返航",
+        "onboard_time": 1756990883,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38093,
+        "num": 38093,
+        "word": "和平鸽工资15元",
+        "onboard_time": 1756978400,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33381,
+        "num": 33381,
+        "word": "日本前首相说必须正视历史",
+        "onboard_time": 1756989323,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32242,
+        "num": 32242,
+        "word": "中朝一家亲",
+        "onboard_time": 1756995445,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12919,
+        "num": 32237,
+        "word": "我和我的祖国吕潇然照进现实",
+        "onboard_time": 1757010915,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170961,
+        "num": 32219,
+        "word": "阿玛尼发讣告",
+        "onboard_time": 1756996645,
+        "rank": 10,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 72089,
+        "num": 32212,
+        "word": "张亮麻辣烫没张亮了",
+        "onboard_time": 1756984162,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51190,
+        "num": 32191,
+        "word": "特朗普称中俄朝密谋对抗美国",
+        "onboard_time": 1756995864,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41536,
+        "num": 32182,
+        "word": "普京称若谈判无果将以武力解决",
+        "onboard_time": 1756986022,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34288,
+        "num": 32164,
+        "word": "中国向阿富汗提供5000万元援助",
+        "onboard_time": 1756992564,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34255,
+        "num": 32141,
+        "word": "全韩国都在报道中国阅兵",
+        "onboard_time": 1756978222,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33563,
+        "num": 32129,
+        "word": "特朗普承认观看中国阅兵",
+        "onboard_time": 1756952840,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32127,
+        "num": 32127,
+        "word": "丝之歌",
+        "onboard_time": 1756993284,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31726,
+        "num": 31726,
+        "word": "新华社认证的帅兵哥已婚",
+        "onboard_time": 1756964604,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30396,
+        "num": 30396,
+        "word": "北京杜莎夫人蜡像馆将永久关停",
+        "onboard_time": 1756972222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126808,
+        "num": 30363,
+        "word": "金正恩说中国的庆典也是我们的喜事",
+        "onboard_time": 1756996344,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53357,
+        "num": 29996,
+        "word": "被外国网友评论阅兵整笑了",
+        "onboard_time": 1756998863,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37210,
+        "num": 29744,
+        "word": "易烊千玺演唱会哭了",
+        "onboard_time": 1756996284,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31464,
+        "num": 29398,
+        "word": "阿富汗地震2205死3640伤",
+        "onboard_time": 1756990883,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29337,
+        "num": 29337,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27585,
+        "num": 27585,
+        "word": "兵马俑一号坑惊现大洞",
+        "onboard_time": 1756985601,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27111,
+        "num": 27111,
+        "word": "丝之歌发售",
+        "onboard_time": 1756996165,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26416,
+        "num": 26416,
+        "word": "复制粘贴换个角度还是复制粘贴",
+        "onboard_time": 1756994004,
+        "rank": 27,
+        "category": "国内时政,情感"
+      },
+      {
+        "raw_hot": 25189,
+        "num": 26416,
+        "word": "男子去世给绝症前女友留全部存款",
+        "onboard_time": 1756985903,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23070,
+        "num": 26414,
+        "word": "官方回应102岁老兵看完阅兵后去世",
+        "onboard_time": 1756977621,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23649,
+        "num": 26413,
+        "word": "香奈儿蜜粉30克和6克同价",
+        "onboard_time": 1756988542,
+        "rank": 30,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 22719,
+        "num": 26413,
+        "word": "阿玛尼先生去世",
+        "onboard_time": 1756994066,
+        "rank": 31,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 22635,
+        "num": 26412,
+        "word": "易烊千玺成都站收官",
+        "onboard_time": 1756986923,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22548,
+        "num": 26411,
+        "word": "男宝星球2",
+        "onboard_time": 1756998085,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22211,
+        "num": 26410,
+        "word": "九三阅兵又有新机位解锁",
+        "onboard_time": 1756992144,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22065,
+        "num": 26408,
+        "word": "阿玛尼遗憾与朋友家人相处时间不够",
+        "onboard_time": 1757004798,
+        "rank": 35,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 21989,
+        "num": 26408,
+        "word": "腹式呼吸具象化了",
+        "onboard_time": 1756986201,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21107,
+        "num": 26407,
+        "word": "梓渝音乐节不基础造型更不基础",
+        "onboard_time": 1756996406,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19457,
+        "num": 26405,
+        "word": "阿玛尼高定",
+        "onboard_time": 1756999463,
+        "rank": 38,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 17575,
+        "num": 26404,
+        "word": "长期焦虑过度的表现",
+        "onboard_time": 1756978760,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17311,
+        "num": 26402,
+        "word": "丞磊新剧人设",
+        "onboard_time": 1756999703,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17285,
+        "num": 26402,
+        "word": "对手说樊振东引发全球乒坛焦点",
+        "onboard_time": 1757000664,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17800,
+        "num": 26401,
+        "word": "梓渝 太湖湾音乐节",
+        "onboard_time": 1756982121,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16895,
+        "num": 26399,
+        "word": "罗小黑战记2正在温映",
+        "onboard_time": 1757007497,
+        "rank": 43,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 16767,
+        "num": 26399,
+        "word": "五月天陈粒同台",
+        "onboard_time": 1756998803,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16426,
+        "num": 26398,
+        "word": "唐宫奇案",
+        "onboard_time": 1756994606,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15985,
+        "num": 26397,
+        "word": "古巴国家主席中文发帖",
+        "onboard_time": 1756999403,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10442,
+        "num": 26395,
+        "word": "2025女排世锦赛",
+        "onboard_time": 1756988063,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9875,
+        "num": 26395,
+        "word": "吴艳妮说会更加珍惜为国征战的机会",
+        "onboard_time": 1757002821,
+        "rank": 48,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 9717,
+        "num": 26393,
+        "word": "汪顺穿东京奥运领奖服看阅兵",
+        "onboard_time": 1757005757,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从伟大胜利走向伟大复兴#"
+    }
+  }
+}
