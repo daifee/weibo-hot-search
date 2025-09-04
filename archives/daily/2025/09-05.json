@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757020967215,
+  "endTime": 1757021818730,
   "band_list": [
     {
       "raw_hot": 1237213,
@@ -419,7 +419,15 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 19858,
+      "raw_hot": 24577,
+      "num": 24577,
+      "word": "8万羽和平鸽来自3千多个养鸽人",
+      "onboard_time": 1757019854,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22189,
       "num": 27579,
       "word": "肖战来看江南十二场欢聚",
       "onboard_time": 1757010016,
@@ -459,20 +467,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15835,
+      "num": 17537,
+      "word": "九三阅兵升旗手父母全程观看骄傲不已",
+      "onboard_time": 1757017933,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15219,
       "num": 23446,
       "word": "巴黎合伙人国风快闪日",
       "onboard_time": 1757013315,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14608,
-      "num": 17537,
-      "word": "九三阅兵升旗手父母全程观看骄傲不已",
-      "onboard_time": 1757017933,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14298,
@@ -499,20 +507,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12269,
-      "num": 23612,
-      "word": "8万羽和平鸽来自3千多个养鸽人",
-      "onboard_time": 1757019854,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 11779,
       "num": 97285,
       "word": "吴艳妮说会更加珍惜为国征战的机会",
       "onboard_time": 1757002821,
       "rank": 49,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 11232,
+      "num": 28083,
+      "word": "中津全天候命运共同体",
+      "onboard_time": 1757021054,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10664,
