@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756982523553,
+  "endTime": 1756984899974,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1154761,
-      "num": 226405,
+      "num": 229408,
       "word": "芒果音乐节阵容",
       "onboard_time": 1756975402,
       "rank": 20,
@@ -1379,6 +1379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 664698,
+      "num": 273996,
+      "word": "母女三人机场偷土特产",
+      "onboard_time": 1756979483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662107,
       "num": 712173,
       "word": "红旗29",
@@ -1755,6 +1763,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 530393,
+      "num": 230463,
+      "word": "长期焦虑过度的表现",
+      "onboard_time": 1756978760,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 529750,
       "num": 529750,
       "word": "阅兵剧透来了",
@@ -2043,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462832,
+      "num": 230062,
+      "word": "梓渝 太湖湾音乐节",
+      "onboard_time": 1756982121,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 462106,
       "num": 479933,
       "word": "12306回应停发纸质车票",
@@ -2113,6 +2137,14 @@
       "onboard_time": 1756825643,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 449558,
+      "num": 449558,
+      "word": "中朝元首会谈",
+      "onboard_time": 1756981942,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 449348,
@@ -2523,14 +2555,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 373874,
-      "num": 223180,
-      "word": "长期焦虑过度的表现",
-      "onboard_time": 1756978760,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 370390,
       "num": 211132,
       "word": "斯洛伐克总理不理解欧盟各国不赴华",
@@ -2939,14 +2963,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 312585,
-      "num": 222663,
-      "word": "梓渝 太湖湾音乐节",
-      "onboard_time": 1756982121,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 311729,
       "num": 124390,
       "word": "香港小姐",
@@ -3291,14 +3307,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 273996,
-      "num": 273996,
-      "word": "母女三人机场偷土特产",
-      "onboard_time": 1756979483,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 273734,
       "num": 273734,
       "word": "卢卡申科又带儿子来中国了",
@@ -3521,6 +3529,14 @@
       "onboard_time": 1756727421,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 252641,
+      "num": 252641,
+      "word": "王晨策接送王楚钦上下学",
+      "onboard_time": 1756983682,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 252203,
@@ -4107,6 +4123,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204326,
+      "num": 204326,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1756982902,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 203914,
+      "num": 232269,
+      "word": "张亮麻辣烫没张亮了",
+      "onboard_time": 1756984162,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 203357,
       "num": 173978,
       "word": "微信客服回应人去世朋友圈消失",
@@ -4241,6 +4273,14 @@
       "onboard_time": 1756968983,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197532,
+      "num": 197532,
+      "word": "梓渝又有工作了",
+      "onboard_time": 1756983802,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 197383,
@@ -4699,6 +4739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183156,
+      "num": 183156,
+      "word": "一年不吃晚饭身体的变化",
+      "onboard_time": 1756981281,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181728,
       "num": 181728,
       "word": "张艺凡一胳膊能搂四个姐姐",
@@ -4825,6 +4873,14 @@
       "onboard_time": 1756734503,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 174348,
+      "num": 256938,
+      "word": "武契奇说塞尔维亚永远不忘中国支持",
+      "onboard_time": 1756981882,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173964,
@@ -5043,6 +5099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166339,
+      "num": 166339,
+      "word": "让世界看到咸鱼cos的秀秀",
+      "onboard_time": 1756984642,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166222,
       "num": 173849,
       "word": "暑期档长剧有效播放TOP10",
@@ -5121,6 +5185,14 @@
       "onboard_time": 1756797320,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164076,
+      "num": 164076,
+      "word": "中国军工立flag",
+      "onboard_time": 1756982843,
+      "rank": 31,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 164032,
@@ -5233,6 +5305,14 @@
       "onboard_time": 1756782682,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 160203,
+      "num": 231980,
+      "word": "小米集团7000名应届生已全部报到",
+      "onboard_time": 1756982302,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 159945,
@@ -5555,14 +5635,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 150868,
-      "num": 150868,
-      "word": "一年不吃晚饭身体的变化",
-      "onboard_time": 1756981281,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 150631,
       "num": 150631,
       "word": "张远唱了八百遍嘉宾",
@@ -5617,6 +5689,14 @@
       "onboard_time": 1756687701,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149957,
+      "num": 231240,
+      "word": "机器狗 机器狼",
+      "onboard_time": 1756983202,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149765,
@@ -5857,6 +5937,14 @@
       "onboard_time": 1756802481,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142779,
+      "num": 168708,
+      "word": "余承东祝大家炒股赚大钱",
+      "onboard_time": 1756984642,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 142161,
@@ -6700,7 +6788,7 @@
     },
     {
       "raw_hot": 119840,
-      "num": 119840,
+      "num": 120284,
       "word": "陈祥榕妈妈和王伟遗孀合影",
       "onboard_time": 1756982242,
       "rank": 33,
@@ -7491,14 +7579,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 102417,
-      "num": 102417,
-      "word": "小米集团7000名应届生已全部报到",
-      "onboard_time": 1756982302,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 101785,
       "num": 101785,
       "word": "王影璐寒鱼妆",
@@ -7652,10 +7732,18 @@
     },
     {
       "raw_hot": 98864,
-      "num": 98864,
+      "num": 207248,
       "word": "阅兵式上的歼16D是新型电子战飞机",
       "onboard_time": 1756978642,
       "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 98850,
+      "num": 120491,
+      "word": "东风61飞得比迪迦快",
+      "onboard_time": 1756981701,
+      "rank": 44,
       "category": "国内时政"
     },
     {
@@ -7788,7 +7876,7 @@
     },
     {
       "raw_hot": 96019,
-      "num": 96019,
+      "num": 120448,
       "word": "关晓彤拒绝熬夜连轴转",
       "onboard_time": 1756982181,
       "rank": 41,
@@ -7897,14 +7985,6 @@
       "onboard_time": 1756813702,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93019,
-      "num": 93019,
-      "word": "东风61飞得比迪迦快",
-      "onboard_time": 1756981701,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92803,
@@ -8177,6 +8257,14 @@
       "onboard_time": 1756811061,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 87696,
+      "num": 120379,
+      "word": "2025LPL",
+      "onboard_time": 1756984582,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 87429,
@@ -8491,6 +8579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83728,
+      "num": 120348,
+      "word": "短剧的风还是吹到了喵界",
+      "onboard_time": 1756984884,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83716,
       "num": 99778,
       "word": "陈垣宇林高远3比0宁贤坤陶育畅",
@@ -8569,14 +8665,6 @@
       "onboard_time": 1756792161,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82355,
-      "num": 297529,
-      "word": "中朝元首会谈",
-      "onboard_time": 1756981942,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81966,
@@ -8721,6 +8809,14 @@
       "onboard_time": 1756712241,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79216,
+      "num": 120562,
+      "word": "父亲儿子都牺牲了他带照片看阅兵",
+      "onboard_time": 1756984162,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79143,
@@ -10027,20 +10123,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 45988,
-      "num": 228243,
-      "word": "武契奇说塞尔维亚永远不忘中国支持",
-      "onboard_time": 1756981882,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45867,
       "num": 115352,
       "word": "战士腹部受伤仍咬破敌人喉咙",
       "onboard_time": 1756742360,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44607,
+      "num": 229547,
+      "word": "湖南抗战老兵观礼归来偶遇退役士兵",
+      "onboard_time": 1756984762,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42861,
@@ -10281,6 +10377,14 @@
       "onboard_time": 1756767617,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30629,
+      "num": 120544,
+      "word": "8架美军战机飞越白宫",
+      "onboard_time": 1756984702,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30338,
