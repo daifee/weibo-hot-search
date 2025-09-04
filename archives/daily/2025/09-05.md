@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 06:23:54
+本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 06:39:10
 </p>
 </blockquote>
 <p>
@@ -147,6 +147,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E7%BE%BD%E5%92%8C%E5%B9%B3%E9%B8%BD%E6%9D%A5%E8%87%AA3%E5%8D%83%E5%A4%9A%E4%B8%AA%E5%85%BB%E9%B8%BD%E4%BA%BA%23" target="weibo">
+8万羽和平鸽来自3千多个养鸽人（热度：99728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E4%B9%8B%E6%AD%8C%23" target="weibo">
 丝之歌（热度：97848）
 </a>
@@ -279,12 +285,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E7%BE%BD%E5%92%8C%E5%B9%B3%E9%B8%BD%E6%9D%A5%E8%87%AA3%E5%8D%83%E5%A4%9A%E4%B8%AA%E5%85%BB%E9%B8%BD%E4%BA%BA%23" target="weibo">
-8万羽和平鸽来自3千多个养鸽人（热度：48738）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23" target="weibo">
 歌唱祖国（热度：44204）
 </a>
@@ -292,7 +292,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%84%BF%E5%AD%90%E9%83%BD%E7%89%BA%E7%89%B2%E4%BA%86%E4%BB%96%E5%B8%A6%E7%85%A7%E7%89%87%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
-父亲儿子都牺牲了他带照片看阅兵（热度：40760）
+父亲儿子都牺牲了他带照片看阅兵（热度：41354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%85%B9%E5%BC%8F%E5%91%BC%E5%90%B8%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
+腹式呼吸具象化了（热度：39683）
 </a>
 </li>
 
@@ -304,13 +310,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%88%E6%9C%89%E6%96%B0%E6%9C%BA%E4%BD%8D%E8%A7%A3%E9%94%81%23" target="weibo">
-九三阅兵又有新机位解锁（热度：32899）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%85%B9%E5%BC%8F%E5%91%BC%E5%90%B8%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
-腹式呼吸具象化了（热度：32054）
+九三阅兵又有新机位解锁（热度：34958）
 </a>
 </li>
 
@@ -322,7 +322,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E7%9C%8B%E6%B1%9F%E5%8D%97%E5%8D%81%E4%BA%8C%E5%9C%BA%E6%AC%A2%E8%81%9A%23" target="weibo">
-肖战来看江南十二场欢聚（热度：26328）
+肖战来看江南十二场欢聚（热度：27297）
 </a>
 </li>
 
@@ -340,7 +340,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8D%87%E6%97%97%E6%89%8B%E7%88%B6%E6%AF%8D%E5%85%A8%E7%A8%8B%E8%A7%82%E7%9C%8B%E9%AA%84%E5%82%B2%E4%B8%8D%E5%B7%B2%23" target="weibo">
-九三阅兵升旗手父母全程观看骄傲不已（热度：21208）
+九三阅兵升旗手父母全程观看骄傲不已（热度：21570）
 </a>
 </li>
 
@@ -381,6 +381,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%A9%BF%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E9%A2%86%E5%A5%96%E6%9C%8D%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
+汪顺穿东京奥运领奖服看阅兵（热度：13346）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%AF%85%E7%9C%BC%E7%A5%9E%E5%A4%AA%E9%9C%87%E6%92%BC%E4%BA%86%23" target="weibo">
 坚毅眼神太震撼了（热度：13299）
 </a>
@@ -395,12 +401,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E4%BC%9A%E6%9B%B4%E5%8A%A0%E7%8F%8D%E6%83%9C%E4%B8%BA%E5%9B%BD%E5%BE%81%E6%88%98%E7%9A%84%E6%9C%BA%E4%BC%9A%23" target="weibo">
 吴艳妮说会更加珍惜为国征战的机会（热度：11779）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%A9%BF%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E9%A2%86%E5%A5%96%E6%9C%8D%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
-汪顺穿东京奥运领奖服看阅兵（热度：11396）
 </a>
 </li>
 

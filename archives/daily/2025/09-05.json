@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757024634045,
+  "endTime": 1757025550766,
   "band_list": [
     {
       "raw_hot": 1237213,
@@ -179,6 +179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 99728,
+      "num": 99728,
+      "word": "8万羽和平鸽来自3千多个养鸽人",
+      "onboard_time": 1757019854,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97848,
       "num": 108408,
       "word": "丝之歌",
@@ -355,14 +363,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 48738,
-      "num": 48738,
-      "word": "8万羽和平鸽来自3千多个养鸽人",
-      "onboard_time": 1757019854,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 44204,
       "num": 44204,
       "word": "歌唱祖国",
@@ -371,12 +371,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40760,
+      "raw_hot": 41354,
       "num": 97301,
       "word": "父亲儿子都牺牲了他带照片看阅兵",
       "onboard_time": 1756984162,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39683,
+      "num": 59912,
+      "word": "腹式呼吸具象化了",
+      "onboard_time": 1756986201,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 38519,
@@ -387,20 +395,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32899,
+      "raw_hot": 34958,
       "num": 59920,
       "word": "九三阅兵又有新机位解锁",
       "onboard_time": 1756992144,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32054,
-      "num": 59912,
-      "word": "腹式呼吸具象化了",
-      "onboard_time": 1756986201,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 29709,
@@ -411,8 +411,8 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 26328,
-      "num": 29785,
+      "raw_hot": 27297,
+      "num": 32619,
       "word": "肖战来看江南十二场欢聚",
       "onboard_time": 1757010016,
       "rank": 46,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 25029,
-      "num": 32237,
+      "num": 32615,
       "word": "我和我的祖国吕潇然照进现实",
       "onboard_time": 1757010915,
       "rank": 9,
@@ -435,8 +435,8 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 21208,
-      "num": 29739,
+      "raw_hot": 21570,
+      "num": 32616,
       "word": "九三阅兵升旗手父母全程观看骄傲不已",
       "onboard_time": 1757017933,
       "rank": 35,
@@ -491,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13346,
+      "num": 59907,
+      "word": "汪顺穿东京奥运领奖服看阅兵",
+      "onboard_time": 1757005757,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13299,
       "num": 24941,
       "word": "坚毅眼神太震撼了",
@@ -513,14 +521,6 @@
       "onboard_time": 1757002821,
       "rank": 49,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 11396,
-      "num": 59907,
-      "word": "汪顺穿东京奥运领奖服看阅兵",
-      "onboard_time": 1757005757,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 11232,
