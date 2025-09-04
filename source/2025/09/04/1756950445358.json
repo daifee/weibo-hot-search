@@ -1,0 +1,410 @@
+{
+  "runTime": 1756950445358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1396890,
+        "num": 1396890,
+        "word": "韩国人被中国阅兵直播震惊",
+        "onboard_time": 1756943722,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1081478,
+        "num": 1081478,
+        "word": "阅兵礼仪队身高",
+        "onboard_time": 1756945164,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42613,
+        "num": 875061,
+        "word": "中国网警烽火烬处赓续前行",
+        "onboard_time": 1756942821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 849998,
+        "num": 849998,
+        "word": "为阅兵推迟婚礼小伙父亲发声",
+        "onboard_time": 1756944082,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695555,
+        "num": 695555,
+        "word": "期待下次阅兵了",
+        "onboard_time": 1756946303,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 670222,
+        "num": 670222,
+        "word": "南部战区深夜再发声",
+        "onboard_time": 1756946602,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 629559,
+        "num": 629559,
+        "word": "受阅军人离开获夹道欢呼",
+        "onboard_time": 1756944202,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 570695,
+        "num": 570695,
+        "word": "天安门城楼毛主席画像完成年度换新",
+        "onboard_time": 1756943782,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 567793,
+        "num": 567793,
+        "word": "新华社出图",
+        "onboard_time": 1756869992,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 283136,
+        "num": 504752,
+        "word": "普京与金正恩在京会谈",
+        "onboard_time": 1756908205,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1294614,
+        "num": 502143,
+        "word": "金正恩对韩国会议长只说了一个字",
+        "onboard_time": 1756911805,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 493412,
+        "num": 493412,
+        "word": "新华社 夜鹭",
+        "onboard_time": 1756945224,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448044,
+        "num": 448044,
+        "word": "男子私存文件绝密59份机密848份",
+        "onboard_time": 1756946303,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446729,
+        "num": 446729,
+        "word": "新华社好贴心",
+        "onboard_time": 1756911024,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444761,
+        "num": 444761,
+        "word": "中国排面给全世界亿点震撼",
+        "onboard_time": 1756915222,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 390179,
+        "num": 390179,
+        "word": "一个人的命怎么能好成这样啊",
+        "onboard_time": 1756941858,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387668,
+        "num": 387668,
+        "word": "鸽友40只鸽子参与阅兵全飞回",
+        "onboard_time": 1756946364,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378346,
+        "num": 378346,
+        "word": "加沙人看阅兵后落泪",
+        "onboard_time": 1756943301,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292889,
+        "num": 292889,
+        "word": "最硬核的阅兵后最暖的互动",
+        "onboard_time": 1756947264,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 285997,
+        "num": 285997,
+        "word": "阅兵太出片了",
+        "onboard_time": 1756948462,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312481,
+        "num": 280575,
+        "word": "金价",
+        "onboard_time": 1756948822,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 272710,
+        "num": 272710,
+        "word": "来华多国领导人接连发声",
+        "onboard_time": 1756940477,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255455,
+        "num": 255455,
+        "word": "九三阅兵的这句解说词太催泪",
+        "onboard_time": 1756944743,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255100,
+        "num": 255100,
+        "word": "赴台生被假学姐引诱泄露近百情报",
+        "onboard_time": 1756949840,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249547,
+        "num": 249547,
+        "word": "为什么早餐更适合吃高热量食物",
+        "onboard_time": 1756947503,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196688,
+        "num": 196688,
+        "word": "90岁钟南山院士佩戴共和国勋章观礼",
+        "onboard_time": 1756910784,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189263,
+        "num": 189263,
+        "word": "交换生落入学姐的温柔陷阱",
+        "onboard_time": 1756946964,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173964,
+        "num": 173964,
+        "word": "现场5万余人看完阅兵没留一片纸屑",
+        "onboard_time": 1756950023,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169903,
+        "num": 169903,
+        "word": "钟南山不到2岁时房子被日本飞机炸塌",
+        "onboard_time": 1756931114,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162565,
+        "num": 162565,
+        "word": "野战炊事车",
+        "onboard_time": 1756945823,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 157054,
+        "num": 157054,
+        "word": "任何搅局南海企图都不可能得逞",
+        "onboard_time": 1756950201,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153557,
+        "num": 153557,
+        "word": "满屏飞飞飞飞机需要长长长长图",
+        "onboard_time": 1756910965,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148399,
+        "num": 148399,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137714,
+        "num": 137714,
+        "word": "慢镜头版阅兵震撼现场",
+        "onboard_time": 1756948343,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137419,
+        "num": 137419,
+        "word": "拉肚子到后面是化学损伤",
+        "onboard_time": 1756940538,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 135427,
+        "num": 135427,
+        "word": "特朗普祝中国人民度过美好庆祝日",
+        "onboard_time": 1756891104,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125078,
+        "num": 125078,
+        "word": "坦克有没有后视镜",
+        "onboard_time": 1756893204,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118711,
+        "num": 118711,
+        "word": "大爷借电视给烈士们看阅兵",
+        "onboard_time": 1756944142,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118100,
+        "num": 118100,
+        "word": "我们可以自豪地告慰先烈",
+        "onboard_time": 1756949121,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116951,
+        "num": 116951,
+        "word": "吴越吴樾",
+        "onboard_time": 1756904005,
+        "rank": 39,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 113451,
+        "num": 113451,
+        "word": "5万余人观礼离场后干干净净",
+        "onboard_time": 1756899263,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110174,
+        "num": 110174,
+        "word": "这是胡先煦吗",
+        "onboard_time": 1756902925,
+        "rank": 41,
+        "category": "作品衍生,国内时政"
+      },
+      {
+        "raw_hot": 107151,
+        "num": 107151,
+        "word": "镜头也为杨靖宇支队停留",
+        "onboard_time": 1756947323,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106988,
+        "num": 106988,
+        "word": "原来和平鸽是这么被选上的",
+        "onboard_time": 1756894885,
+        "rank": 43,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 94556,
+        "num": 94556,
+        "word": "文艺晚会",
+        "onboard_time": 1756900703,
+        "rank": 44,
+        "category": "国内时政,综艺"
+      },
+      {
+        "raw_hot": 94061,
+        "num": 94061,
+        "word": "台湾民众观看阅兵直播",
+        "onboard_time": 1756941079,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90892,
+        "num": 90892,
+        "word": "台湾同胞为看阅兵没睡觉",
+        "onboard_time": 1756912524,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85110,
+        "num": 85110,
+        "word": "南部战区权威发布",
+        "onboard_time": 1756948223,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63981,
+        "num": 82760,
+        "word": "明日方舟",
+        "onboard_time": 1756949900,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57405,
+        "num": 82443,
+        "word": "孙颖莎看阅兵感想",
+        "onboard_time": 1756910424,
+        "rank": 49,
+        "category": "体育,国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记重要讲话金句来了#"
+    }
+  }
+}
