@@ -1,0 +1,410 @@
+{
+  "runTime": 1756971416590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1272387,
+        "num": 1272387,
+        "word": "新华社认证的帅兵哥已婚",
+        "onboard_time": 1756964604,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1180993,
+        "num": 1180993,
+        "word": "102岁老兵看完阅兵当晚安详离世",
+        "onboard_time": 1756967364,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28217,
+        "num": 1040719,
+        "word": "九三阅兵上的多个首次",
+        "onboard_time": 1756938317,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 963459,
+        "num": 963459,
+        "word": "新华社 必出神图的决心",
+        "onboard_time": 1756955724,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329872,
+        "num": 329872,
+        "word": "九三阅兵的覆盖全球实锤了",
+        "onboard_time": 1756964362,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323958,
+        "num": 323958,
+        "word": "韩国人被中国阅兵直播震惊",
+        "onboard_time": 1756943722,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319674,
+        "num": 319674,
+        "word": "宝宝出生恰逢九三阅兵家人取名安阅",
+        "onboard_time": 1756962504,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293482,
+        "num": 293482,
+        "word": "阅兵升旗手爸爸紧张到握拳",
+        "onboard_time": 1756964783,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246303,
+        "num": 246303,
+        "word": "期待下次阅兵了",
+        "onboard_time": 1756946303,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198376,
+        "num": 246234,
+        "word": "每天运动1小时2年后的改变",
+        "onboard_time": 1756957883,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 5609172,
+        "num": 5609172,
+        "word": "特朗普承认观看中国阅兵",
+        "onboard_time": 1756952840,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298183,
+        "num": 246079,
+        "word": "73岁唐国强和61岁刘劲观礼九三阅兵",
+        "onboard_time": 1756969642,
+        "rank": 11,
+        "category": "艺人,国内时政"
+      },
+      {
+        "raw_hot": 273638,
+        "num": 246037,
+        "word": "iPhone异地隔空投送",
+        "onboard_time": 1756969282,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182335,
+        "num": 245902,
+        "word": "詹姆斯现身上海交通大学",
+        "onboard_time": 1756968983,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180830,
+        "num": 245845,
+        "word": "真胖和虚胖的5个区别",
+        "onboard_time": 1756969341,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171594,
+        "num": 245773,
+        "word": "8万只气球100%可降解",
+        "onboard_time": 1756958663,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166736,
+        "num": 245684,
+        "word": "阅兵圆满成功台湾艺人纷纷表态",
+        "onboard_time": 1756963583,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160201,
+        "num": 245595,
+        "word": "浙工大回应2新生为校长撑伞全淋湿",
+        "onboard_time": 1756971202,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157711,
+        "num": 245478,
+        "word": "台媒称台军难以望到解放军尾灯",
+        "onboard_time": 1756968383,
+        "rank": 18,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 61623,
+        "num": 245399,
+        "word": "把预防HPV加入大学开学清单",
+        "onboard_time": 1756969401,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287776,
+        "num": 245369,
+        "word": "特朗普下令重振美国军队",
+        "onboard_time": 1756954220,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206318,
+        "num": 245261,
+        "word": "亲人去世后不要偷看他们手机",
+        "onboard_time": 1756955122,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179887,
+        "num": 245126,
+        "word": "731",
+        "onboard_time": 1756962802,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172099,
+        "num": 245101,
+        "word": "张晚意 王权富贵到王富贵",
+        "onboard_time": 1756970961,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156185,
+        "num": 244991,
+        "word": "升旗手儿子今天真帅",
+        "onboard_time": 1756970061,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151110,
+        "num": 244950,
+        "word": "童瑶新剧演林允的侄女",
+        "onboard_time": 1756957281,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148616,
+        "num": 244783,
+        "word": "阅兵现场妻子把王伟照片举向天空",
+        "onboard_time": 1756969762,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136989,
+        "num": 244758,
+        "word": "田曦薇把故宫伴手礼背到了土耳其",
+        "onboard_time": 1756968261,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133906,
+        "num": 244643,
+        "word": "新华社出图",
+        "onboard_time": 1756869992,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133423,
+        "num": 244537,
+        "word": "97岁老战士穿上军服神采奕奕",
+        "onboard_time": 1756969701,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 129900,
+        "num": 244523,
+        "word": "金正恩对韩国会议长只说了一个字",
+        "onboard_time": 1756911805,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122026,
+        "num": 244431,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120714,
+        "num": 244306,
+        "word": "普京记者会满满中国风",
+        "onboard_time": 1756957402,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119649,
+        "num": 244226,
+        "word": "丝瓜汤是什么梗",
+        "onboard_time": 1756960944,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118859,
+        "num": 244108,
+        "word": "东风61大约10个花坛长度",
+        "onboard_time": 1756963943,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114870,
+        "num": 244105,
+        "word": "王毅送匈牙利外长中国跑鞋",
+        "onboard_time": 1756962325,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113100,
+        "num": 244012,
+        "word": "新华社吊臂让恐高的人腿软了",
+        "onboard_time": 1756970302,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79172,
+        "num": 243937,
+        "word": "全球覆盖的含金量谁懂啊",
+        "onboard_time": 1756968983,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111946,
+        "num": 243776,
+        "word": "乙骨忧太禅院真希结婚",
+        "onboard_time": 1756964362,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13875,
+        "num": 243737,
+        "word": "裴李岗解锁文明密码",
+        "onboard_time": 1756970841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106138,
+        "num": 243681,
+        "word": "国外餐厅重播九三阅兵",
+        "onboard_time": 1756967662,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103161,
+        "num": 243526,
+        "word": "普京透露特朗普同乘一辆车细节",
+        "onboard_time": 1756965082,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101747,
+        "num": 243455,
+        "word": "狗 干净自己埋汰别人",
+        "onboard_time": 1756963223,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97193,
+        "num": 243427,
+        "word": "刘老庒连战旗多一点的原因泪目了",
+        "onboard_time": 1756956562,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97013,
+        "num": 243304,
+        "word": "胡先煦感慨荣幸骄傲",
+        "onboard_time": 1756968442,
+        "rank": 44,
+        "category": "国内时政,演出"
+      },
+      {
+        "raw_hot": 96059,
+        "num": 243261,
+        "word": "看完阅兵再看这个有点不适应",
+        "onboard_time": 1756968142,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88903,
+        "num": 243133,
+        "word": "光与夜之恋幻觉派对",
+        "onboard_time": 1756969642,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88635,
+        "num": 243009,
+        "word": "美国防部关注九三阅兵",
+        "onboard_time": 1756968684,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88218,
+        "num": 242969,
+        "word": "唐卡为什么是最毒的画作",
+        "onboard_time": 1756964063,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 86667,
+        "num": 242881,
+        "word": "果然帅的都交给国家了",
+        "onboard_time": 1756963103,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记伟大历史胜利凝聚正义和平力量#"
+    }
+  }
+}
