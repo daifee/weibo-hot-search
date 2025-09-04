@@ -1,6 +1,6 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756963427093,
+  "endTime": 1756964406718,
   "band_list": [
     {
       "raw_hot": 15819267,
@@ -227,6 +227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 559885,
+      "num": 197419,
+      "word": "丝瓜汤是什么梗",
+      "onboard_time": 1756960944,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 550417,
       "num": 237937,
       "word": "赴山海",
@@ -249,6 +257,14 @@
       "onboard_time": 1756956562,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 499747,
+      "num": 499747,
+      "word": "8万只气球100%可降解",
+      "onboard_time": 1756958663,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 494883,
@@ -275,20 +291,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 475876,
-      "num": 475876,
-      "word": "8万只气球100%可降解",
-      "onboard_time": 1756958663,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 464250,
       "num": 269276,
       "word": "这综艺一下降世了五个魔童",
       "onboard_time": 1756956082,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457554,
+      "num": 457554,
+      "word": "宝宝出生恰逢九三阅兵家人取名安阅",
+      "onboard_time": 1756962504,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 450865,
@@ -305,14 +321,6 @@
       "onboard_time": 1756946303,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 426171,
-      "num": 189350,
-      "word": "丝瓜汤是什么梗",
-      "onboard_time": 1756960944,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 400047,
@@ -395,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326942,
+      "num": 326942,
+      "word": "王毅送匈牙利外长中国跑鞋",
+      "onboard_time": 1756962325,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 312481,
       "num": 280575,
       "word": "金价",
@@ -475,14 +491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 262076,
-      "num": 262076,
-      "word": "王毅送匈牙利外长中国跑鞋",
-      "onboard_time": 1756962325,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 258583,
       "num": 166841,
       "word": "吴越吴樾",
@@ -539,6 +547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 237362,
+      "num": 312203,
+      "word": "果然帅的都交给国家了",
+      "onboard_time": 1756963103,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 218844,
       "num": 197502,
       "word": "心动offer真的给我打电话了",
@@ -571,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215914,
+      "num": 193180,
+      "word": "731",
+      "onboard_time": 1756962802,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214649,
       "num": 214649,
       "word": "2025WTT中国大满贯票价",
@@ -579,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203535,
-      "num": 203535,
-      "word": "宝宝出生恰逢九三阅兵家人取名安阅",
-      "onboard_time": 1756962504,
+      "raw_hot": 204576,
+      "num": 204576,
+      "word": "阅兵圆满成功台湾艺人纷纷表态",
+      "onboard_time": 1756963583,
       "rank": 17,
-      "category": "民生新闻"
+      "category": "国内时政"
     },
     {
       "raw_hot": 203199,
@@ -635,12 +659,12 @@
       "category": "国内时政,综艺"
     },
     {
-      "raw_hot": 192818,
-      "num": 185967,
-      "word": "731",
-      "onboard_time": 1756962802,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 191450,
+      "num": 191450,
+      "word": "乙骨忧太禅院真希结婚",
+      "onboard_time": 1756964362,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 191198,
@@ -683,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187828,
+      "num": 187828,
+      "word": "唐卡为什么是最毒的画作",
+      "onboard_time": 1756964063,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 187077,
       "num": 187077,
       "word": "杭州男孩的骄傲爸爸两次受阅",
@@ -699,12 +731,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 185551,
-      "num": 185551,
-      "word": "果然帅的都交给国家了",
-      "onboard_time": 1756963103,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 186802,
+      "num": 186802,
+      "word": "咒术回战",
+      "onboard_time": 1756964063,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 180674,
@@ -721,6 +753,14 @@
       "onboard_time": 1756916601,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 178867,
+      "num": 178867,
+      "word": "狗 干净自己埋汰别人",
+      "onboard_time": 1756963223,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 173964,
@@ -745,6 +785,14 @@
       "onboard_time": 1756957163,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170928,
+      "num": 170928,
+      "word": "东风61大约10个花坛长度",
+      "onboard_time": 1756963943,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170509,
@@ -851,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153357,
+      "num": 153357,
+      "word": "九三阅兵的覆盖全球实锤了",
+      "onboard_time": 1756964362,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151126,
       "num": 107933,
       "word": "阿云嘎郁可唯文艺晚会演唱歌曲",
@@ -905,14 +961,6 @@
       "onboard_time": 1756955001,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141547,
-      "num": 141547,
-      "word": "狗 干净自己埋汰别人",
-      "onboard_time": 1756963223,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 141456,
@@ -971,12 +1019,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130392,
+      "num": 130392,
+      "word": "柯洁鲁豫探寻破局人生",
+      "onboard_time": 1756963522,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130075,
       "num": 130075,
       "word": "王楚然新歌炸出一堆老熟人",
       "onboard_time": 1756960405,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129242,
+      "num": 129242,
+      "word": "WTT中国大满贯单场最高价1888元",
+      "onboard_time": 1756964063,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 127563,
@@ -1019,6 +1083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119079,
+      "num": 119079,
+      "word": "王乐晨卢远同款保护色",
+      "onboard_time": 1756963402,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118711,
       "num": 118711,
       "word": "大爷借电视给烈士们看阅兵",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1756949121,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116075,
+      "num": 116075,
+      "word": "樊振东从不找外界原因",
+      "onboard_time": 1756963642,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115549,
@@ -1059,20 +1139,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 110975,
+      "num": 181606,
+      "word": "打击范围覆盖全球潜台词",
+      "onboard_time": 1756963883,
+      "rank": 29,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 110430,
       "num": 110430,
       "word": "永远的番号",
       "onboard_time": 1756916121,
       "rank": 29,
       "category": "国内时政,综艺"
-    },
-    {
-      "raw_hot": 110175,
-      "num": 110175,
-      "word": "王乐晨卢远同款保护色",
-      "onboard_time": 1756963402,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 107151,
@@ -1193,6 +1273,14 @@
       "onboard_time": 1756962623,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86033,
+      "num": 109223,
+      "word": "wtt中国大满贯门票明日10点开售",
+      "onboard_time": 1756964362,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85375,
@@ -1435,19 +1523,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46980,
+      "num": 640332,
+      "word": "九三阅兵上的多个首次",
+      "onboard_time": 1756938317,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46351,
       "num": 875061,
       "word": "中国网警烽火烬处赓续前行",
       "onboard_time": 1756942821,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 39647,
-      "num": 580130,
-      "word": "九三阅兵上的多个首次",
-      "onboard_time": 1756938317,
-      "rank": 34,
       "category": "国内时政"
     },
     {
@@ -1464,6 +1552,14 @@
       "word": "战旗方队",
       "onboard_time": 1756922116,
       "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 32100,
+      "num": 130774,
+      "word": "受阅飞机这张图拍得太好了",
+      "onboard_time": 1756963823,
+      "rank": 39,
       "category": "国内时政"
     },
     {
