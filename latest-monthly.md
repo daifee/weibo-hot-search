@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/05 07:22:28
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/05 07:37:04
 </p>
 </blockquote>
 <p>
@@ -5721,6 +5721,12 @@ VOGUE金九群封没有95花（热度：111205）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23731%E9%A6%96%E6%97%A5%E6%8E%92%E7%89%87%E5%8D%A0%E6%AF%94%E8%B6%8599.7%25%23" target="weibo">
+731首日排片占比超99.7%（热度：108879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%83%A8%E6%B2%A1%E6%9C%89%E6%84%9F%E6%83%85%E5%85%A8%E6%98%AF%E5%B0%BA%E5%BA%A6%E7%9A%84%E7%94%B5%E5%BD%B1%23" target="weibo">
 一部没有感情全是尺度的电影（热度：108811）
 </a>
@@ -6005,12 +6011,6 @@ BFX战胜DK（热度：105733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E5%8F%AF%E5%AE%B9%E7%BA%B3%E8%B6%855%E4%B8%87%E4%BA%BA%E8%A7%82%E7%A4%BC%23" target="weibo">
 阅兵现场可容纳超5万人观礼（热度：101523）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%8B%AC%E5%B1%85%E5%86%B7%E7%9F%A5%E8%AF%86%23" target="weibo">
-女生独居冷知识（热度：101472）
 </a>
 </li>
 

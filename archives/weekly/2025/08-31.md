@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/31 00:28:48 ~ 2025/09/05 07:22:28
+本榜单时间：2025/08/31 00:28:48 ~ 2025/09/05 07:37:04
 </p>
 </blockquote>
 <p>
@@ -7389,6 +7389,12 @@ WE对战EDG（热度：109972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23731%E9%A6%96%E6%97%A5%E6%8E%92%E7%89%87%E5%8D%A0%E6%AF%94%E8%B6%8599.7%25%23" target="weibo">
+731首日排片占比超99.7%（热度：108879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%83%A8%E6%B2%A1%E6%9C%89%E6%84%9F%E6%83%85%E5%85%A8%E6%98%AF%E5%B0%BA%E5%BA%A6%E7%9A%84%E7%94%B5%E5%BD%B1%23" target="weibo">
 一部没有感情全是尺度的电影（热度：108811）
 </a>
@@ -8591,6 +8597,12 @@ TTG风龙团韧性翻盘（热度：93275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E8%84%91%E6%98%AF%E8%84%91%E5%98%B4%E6%98%AF%E5%98%B4%23" target="weibo">
 戚薇脑是脑嘴是嘴（热度：87812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9E%E6%96%B0%E6%AD%8C%23" target="weibo">
+刘轩丞新歌（热度：87781）
 </a>
 </li>
 
@@ -10077,12 +10089,6 @@ iPhone17系列预售调查（热度：66469）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9E%E6%96%B0%E6%AD%8C%23" target="weibo">
-刘轩丞新歌（热度：60046）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%86%8D%E7%A0%B4800%E5%85%83%23" target="weibo">
 深圳水贝金饰克价再破800元（热度：59746）
 </a>
@@ -10341,6 +10347,12 @@ WTT中国大满贯最高票价3776元（热度：57631）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%8A%A8%E4%BD%9C%E8%AE%A9%E8%84%B8%E5%8F%98%E5%A5%BD%E7%9C%8B%23" target="weibo">
+4个动作让脸变好看（热度：48830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E5%8F%91%E5%B1%95%23" target="weibo">
 和平发展（热度：48487）
 </a>
@@ -10467,12 +10479,6 @@ Jiejie回应输给NIP（热度：44321）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%8A%A8%E4%BD%9C%E8%AE%A9%E8%84%B8%E5%8F%98%E5%A5%BD%E7%9C%8B%23" target="weibo">
-4个动作让脸变好看（热度：43960）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%B6%8A%E7%9A%84%E5%A4%A7%E8%A4%82%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E5%A4%A7%23" target="weibo">
 孙越的大褂原来这么大（热度：43674）
 </a>
@@ -10551,12 +10557,6 @@ Jiejie回应输给NIP（热度：44321）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23731%E9%A6%96%E6%97%A5%E6%8E%92%E7%89%87%E5%8D%A0%E6%AF%94%E8%B6%8599.7%25%23" target="weibo">
-731首日排片占比超99.7%（热度：40251）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%E6%9C%89%E5%A4%9A%E9%9A%BE%23" target="weibo">
 羽毛球世锦赛男单冠军有多难（热度：39695）
 </a>
@@ -10577,6 +10577,12 @@ Jiejie回应输给NIP（热度：44321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%AC%BE%E4%B8%89%E6%8A%98%E5%8F%A0%E5%93%81%E7%89%8C%E5%A4%A7%E4%BD%BF%23" target="weibo">
 华为新款三折叠品牌大使（热度：38923）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%93%A5%E4%BF%A910%E5%B9%B43%E6%AC%A1%E5%B1%8B%E9%A1%B6%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
+小哥俩10年3次屋顶看阅兵（热度：38900）
 </a>
 </li>
 

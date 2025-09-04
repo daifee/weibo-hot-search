@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757028148796,
+  "endTime": 1757029024015,
   "band_list": [
     {
       "raw_hot": 1237213,
@@ -51,20 +51,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 350924,
+      "num": 125145,
+      "word": "张亮麻辣烫没张亮了",
+      "onboard_time": 1756984162,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 343553,
       "num": 127069,
       "word": "阿玛尼先生去世",
       "onboard_time": 1756994066,
       "rank": 12,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 329753,
-      "num": 125145,
-      "word": "张亮麻辣烫没张亮了",
-      "onboard_time": 1756984162,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 268004,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 240725,
-      "num": 112723,
+      "num": 119175,
       "word": "被外国网友评论阅兵整笑了",
       "onboard_time": 1756998863,
       "rank": 21,
@@ -123,27 +123,27 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 150241,
-      "num": 150241,
-      "word": "中朝一家亲",
-      "onboard_time": 1756995445,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 146302,
-      "num": 116338,
+      "raw_hot": 158833,
+      "num": 119715,
       "word": "普京称若谈判无果将以武力解决",
       "onboard_time": 1756986022,
       "rank": 30,
       "category": "国际时政"
     },
     {
-      "raw_hot": 138210,
-      "num": 138210,
+      "raw_hot": 153446,
+      "num": 153446,
       "word": "和平鸽工资15元",
       "onboard_time": 1756978400,
       "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 150241,
+      "num": 150241,
+      "word": "中朝一家亲",
+      "onboard_time": 1756995445,
+      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 121815,
-      "num": 121815,
+      "num": 122218,
       "word": "8万羽和平鸽来自3千多个养鸽人",
       "onboard_time": 1757019854,
       "rank": 9,
@@ -187,12 +187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110883,
-      "num": 110883,
+      "raw_hot": 111353,
+      "num": 111353,
       "word": "兵马俑一号坑惊现大洞",
       "onboard_time": 1756985601,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108879,
+      "num": 122943,
+      "word": "731首日排片占比超99.7%",
+      "onboard_time": 1757027360,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 106917,
@@ -251,6 +259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87781,
+      "num": 87781,
+      "word": "刘轩丞新歌",
+      "onboard_time": 1757027659,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 80037,
       "num": 97387,
       "word": "气球都飘出了和平鸽的样子",
@@ -267,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70790,
+      "num": 97335,
+      "word": "香奈儿蜜粉30克和6克同价",
+      "onboard_time": 1756988542,
+      "rank": 40,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 67280,
       "num": 97370,
       "word": "对手说樊振东引发全球乒坛焦点",
       "onboard_time": 1757000664,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66785,
+      "num": 97301,
+      "word": "父亲儿子都牺牲了他带照片看阅兵",
+      "onboard_time": 1756984162,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66430,
@@ -307,27 +339,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 65521,
-      "num": 97335,
-      "word": "香奈儿蜜粉30克和6克同价",
-      "onboard_time": 1756988542,
-      "rank": 40,
-      "category": "民生新闻,美妆"
-    },
-    {
       "raw_hot": 64793,
       "num": 97345,
       "word": "古巴国家主席中文发帖",
       "onboard_time": 1756999403,
       "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 63611,
-      "num": 97301,
-      "word": "父亲儿子都牺牲了他带照片看阅兵",
-      "onboard_time": 1756984162,
-      "rank": 46,
       "category": "国内时政"
     },
     {
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 60957,
-      "num": 60957,
+      "num": 76702,
       "word": "腹式呼吸具象化了",
       "onboard_time": 1756986201,
       "rank": 46,
@@ -355,16 +371,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60046,
-      "num": 60046,
-      "word": "刘轩丞新歌",
-      "onboard_time": 1757027659,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 57543,
-      "num": 59920,
+      "raw_hot": 59035,
+      "num": 76725,
       "word": "九三阅兵又有新机位解锁",
       "onboard_time": 1756992144,
       "rank": 40,
@@ -395,8 +403,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48830,
+      "num": 76598,
+      "word": "4个动作让脸变好看",
+      "onboard_time": 1757027659,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 44737,
-      "num": 47894,
+      "num": 76519,
       "word": "肖战来看江南十二场欢聚",
       "onboard_time": 1757010016,
       "rank": 46,
@@ -411,14 +427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43960,
-      "num": 47879,
-      "word": "4个动作让脸变好看",
-      "onboard_time": 1757027659,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 40898,
       "num": 59912,
       "word": "阿玛尼遗憾与朋友家人相处时间不够",
@@ -427,12 +435,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 40251,
-      "num": 118332,
-      "word": "731首日排片占比超99.7%",
-      "onboard_time": 1757027360,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 38900,
+      "num": 76463,
+      "word": "小哥俩10年3次屋顶看阅兵",
+      "onboard_time": 1757028318,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 38519,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 19467,
-      "num": 59907,
+      "num": 76371,
       "word": "汪顺穿东京奥运领奖服看阅兵",
       "onboard_time": 1757005757,
       "rank": 49,
