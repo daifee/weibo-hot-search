@@ -1,6 +1,6 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756981566896,
+  "endTime": 1756982523553,
   "band_list": [
     {
       "raw_hot": 15819267,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1154761,
-      "num": 197622,
+      "num": 226405,
       "word": "芒果音乐节阵容",
       "onboard_time": 1756975402,
       "rank": 20,
@@ -160,6 +160,14 @@
       "word": "新华社好贴心",
       "onboard_time": 1756911024,
       "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 817580,
+      "num": 332403,
+      "word": "全韩国都在报道中国阅兵",
+      "onboard_time": 1756978222,
+      "rank": 28,
       "category": "国内时政"
     },
     {
@@ -243,7 +251,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 590293,
+      "raw_hot": 616257,
       "num": 590293,
       "word": "官方回应102岁老兵看完阅兵后去世",
       "onboard_time": 1756977621,
@@ -265,14 +273,6 @@
       "onboard_time": 1756941858,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 584226,
-      "num": 332403,
-      "word": "全韩国都在报道中国阅兵",
-      "onboard_time": 1756978222,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 570695,
@@ -467,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 373874,
+      "num": 223180,
+      "word": "长期焦虑过度的表现",
+      "onboard_time": 1756978760,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362851,
       "num": 110174,
       "word": "这是胡先煦吗",
@@ -579,6 +587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314915,
+      "num": 274955,
+      "word": "美联社直播中国阅兵评论区亮了",
+      "onboard_time": 1756978342,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 312585,
+      "num": 222663,
+      "word": "梓渝 太湖湾音乐节",
+      "onboard_time": 1756982121,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 312481,
       "num": 280575,
       "word": "金价",
@@ -609,14 +633,6 @@
       "onboard_time": 1756912524,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 300679,
-      "num": 170776,
-      "word": "长期焦虑过度的表现",
-      "onboard_time": 1756978760,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 299473,
@@ -675,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 273996,
+      "num": 273996,
+      "word": "母女三人机场偷土特产",
+      "onboard_time": 1756979483,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267673,
       "num": 267673,
       "word": "第五人格",
@@ -696,14 +720,6 @@
       "word": "九三阅兵的这句解说词太催泪",
       "onboard_time": 1756944743,
       "rank": 22,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 255309,
-      "num": 255309,
-      "word": "美联社直播中国阅兵评论区亮了",
-      "onboard_time": 1756978342,
-      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -817,14 +833,6 @@
       "onboard_time": 1756963223,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208220,
-      "num": 208220,
-      "word": "母女三人机场偷土特产",
-      "onboard_time": 1756979483,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205870,
@@ -1220,7 +1228,7 @@
     },
     {
       "raw_hot": 153760,
-      "num": 126128,
+      "num": 143721,
       "word": "老师下学期你还教我吗",
       "onboard_time": 1756980142,
       "rank": 30,
@@ -1243,6 +1251,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 150868,
+      "num": 150868,
+      "word": "一年不吃晚饭身体的变化",
+      "onboard_time": 1756981281,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149365,
       "num": 149365,
       "word": "阅兵网友神评论",
@@ -1252,7 +1268,7 @@
     },
     {
       "raw_hot": 148741,
-      "num": 148741,
+      "num": 149870,
       "word": "华为发布首款8.8英寸OLED平板",
       "onboard_time": 1756978461,
       "rank": 26,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1756954762,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146278,
+      "num": 146278,
+      "word": "易烊千玺礐嶨只待知音入座来",
+      "onboard_time": 1756982424,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 145345,
@@ -1427,6 +1451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131557,
+      "num": 146821,
+      "word": "一代人有一代人的电子萌宠",
+      "onboard_time": 1756980322,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130392,
       "num": 130392,
       "word": "柯洁鲁豫探寻破局人生",
@@ -1483,12 +1515,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124957,
-      "num": 124957,
-      "word": "一年不吃晚饭身体的变化",
-      "onboard_time": 1756981281,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 124876,
+      "num": 337349,
+      "word": "台湾青年说祖国强盛是最大的底气",
+      "onboard_time": 1756980682,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122247,
@@ -1531,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119840,
+      "num": 119840,
+      "word": "陈祥榕妈妈和王伟遗孀合影",
+      "onboard_time": 1756982242,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119337,
       "num": 197369,
       "word": "抗战胜利80周年",
@@ -1563,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118247,
+      "num": 230102,
+      "word": "华为小平板超强超Mini",
+      "onboard_time": 1756978400,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118100,
       "num": 118100,
       "word": "我们可以自豪地告慰先烈",
@@ -1571,12 +1619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 118052,
-      "num": 126398,
-      "word": "一代人有一代人的电子萌宠",
-      "onboard_time": 1756980322,
-      "rank": 29,
-      "category": "数码"
+      "raw_hot": 117366,
+      "num": 117366,
+      "word": "宋仲基新剧发布会状态",
+      "onboard_time": 1756979543,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 116182,
@@ -1739,6 +1787,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 104630,
+      "num": 104630,
+      "word": "当小狗发现主人在监控里偷看它",
+      "onboard_time": 1756979001,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103768,
       "num": 94061,
       "word": "台湾民众观看阅兵直播",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1756959685,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 102417,
+      "num": 102417,
+      "word": "小米集团7000名应届生已全部报到",
+      "onboard_time": 1756982302,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 102402,
@@ -1819,22 +1883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97521,
-      "num": 223061,
-      "word": "华为小平板超强超Mini",
-      "onboard_time": 1756978400,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 97517,
-      "num": 97517,
-      "word": "宋仲基新剧发布会状态",
-      "onboard_time": 1756979543,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97059,
       "num": 101298,
       "word": "和平鸽也有工资",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1756976483,
       "rank": 47,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 96019,
+      "num": 96019,
+      "word": "关晓彤拒绝熬夜连轴转",
+      "onboard_time": 1756982181,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 95718,
@@ -1875,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93019,
+      "num": 93019,
+      "word": "东风61飞得比迪迦快",
+      "onboard_time": 1756981701,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92588,
       "num": 121297,
       "word": "猫 人一直响怎么办",
@@ -1891,12 +1955,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91761,
-      "num": 337349,
-      "word": "台湾青年说祖国强盛是最大的底气",
-      "onboard_time": 1756980682,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 91654,
+      "num": 91654,
+      "word": "美国男孩狂按邻居门铃被枪杀",
+      "onboard_time": 1756981043,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91559,
@@ -1915,16 +1979,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90721,
-      "num": 90721,
-      "word": "当小狗发现主人在监控里偷看它",
-      "onboard_time": 1756979001,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 90644,
-      "num": 129142,
+      "num": 148575,
       "word": "电动化时代还需要内燃机吗",
       "onboard_time": 1756980322,
       "rank": 28,
@@ -2051,6 +2107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 84317,
+      "num": 91653,
+      "word": "十年前买的衣服",
+      "onboard_time": 1756982424,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84117,
       "num": 101238,
       "word": "舞蹈 殇",
@@ -2083,12 +2147,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 80263,
-      "num": 90720,
-      "word": "美国男孩狂按邻居门铃被枪杀",
-      "onboard_time": 1756981043,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 82355,
+      "num": 297529,
+      "word": "中朝元首会谈",
+      "onboard_time": 1756981942,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79899,
@@ -2377,6 +2441,14 @@
       "onboard_time": 1756942821,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 45988,
+      "num": 228243,
+      "word": "武契奇说塞尔维亚永远不忘中国支持",
+      "onboard_time": 1756981882,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38429,
