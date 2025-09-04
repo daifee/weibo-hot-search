@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 02:46:53
+本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 03:20:41
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E5%90%95%E6%BD%87%E7%84%B6%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%23" target="weibo">
+我和我的祖国吕潇然照进现实（热度：22614）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E7%83%AD%E6%90%9C%E8%A2%AB%E9%98%85%E5%85%B5%E6%89%BF%E5%8C%85%E4%BA%86%23" target="weibo">
 今天的热搜被阅兵承包了（热度：17929）
 </a>
@@ -340,13 +346,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E7%9C%8B%E6%B1%9F%E5%8D%97%E5%8D%81%E4%BA%8C%E5%9C%BA%E6%AC%A2%E8%81%9A%23" target="weibo">
-肖战来看江南十二场欢聚（热度：16114）
+肖战来看江南十二场欢聚（热度：17605）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E5%90%95%E6%BD%87%E7%84%B6%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E%23" target="weibo">
-我和我的祖国吕潇然照进现实（热度：12919）
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%A5%9E%E5%9B%BE%E5%AF%B9%E7%A7%B0%E6%84%9F%E7%BB%9D%E4%BA%86%23" target="weibo">
+阅兵神图对称感绝了（热度：15916）
 </a>
 </li>
 
