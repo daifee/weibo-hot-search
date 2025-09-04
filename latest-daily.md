@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 03:20:41
+本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 03:37:03
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%90%88%E4%BC%99%E4%BA%BA%E5%9B%BD%E9%A3%8E%E5%BF%AB%E9%97%AA%E6%97%A5%23" target="weibo">
+巴黎合伙人国风快闪日（热度：15219）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%9C%E5%88%A9%E6%97%A5%E9%98%85%E5%85%B5%E7%9B%9B%E5%86%B5%E5%AE%9A%E6%A0%BC%E7%95%99%E5%BF%B5%23" target="weibo">
 胜利日阅兵盛况定格留念（热度：12747）
 </a>
@@ -365,6 +371,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E4%BC%9A%E6%9B%B4%E5%8A%A0%E7%8F%8D%E6%83%9C%E4%B8%BA%E5%9B%BD%E5%BE%81%E6%88%98%E7%9A%84%E6%9C%BA%E4%BC%9A%23" target="weibo">
 吴艳妮说会更加珍惜为国征战的机会（热度：11779）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E8%AF%B4%E4%BB%98%E5%87%BA%E5%80%BC%E5%BE%97%23" target="weibo">
+抗战老兵看完阅兵说付出值得（热度：11234）
 </a>
 </li>
 
