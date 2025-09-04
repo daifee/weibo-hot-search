@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756951487103,
+  "endTime": 1756954843562,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -185,6 +185,14 @@
       "onboard_time": 1756893204,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2564876,
+      "num": 362679,
+      "word": "特朗普承认观看中国阅兵",
+      "onboard_time": 1756952840,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2552419,
@@ -835,6 +843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1017677,
+      "num": 1017677,
+      "word": "北京感谢全市人民和首都各界",
+      "onboard_time": 1756951401,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1002169,
       "num": 344182,
       "word": "咖啡因 布洛芬",
@@ -857,6 +873,14 @@
       "onboard_time": 1756803082,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 985065,
+      "num": 348301,
+      "word": "普京秀了一把幽默感",
+      "onboard_time": 1756953200,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 976984,
@@ -1443,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 640192,
+      "num": 196637,
+      "word": "朝鲜摄影师拍的阅兵照片",
+      "onboard_time": 1756953802,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 637007,
       "num": 253072,
       "word": "那英去龚俊张晚意房间吹空调",
@@ -1675,6 +1707,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 552033,
+      "num": 238456,
+      "word": "特朗普下令重振美国军队",
+      "onboard_time": 1756954220,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 552004,
       "num": 552004,
       "word": "人民日报东风5C现场图",
@@ -1689,6 +1729,14 @@
       "onboard_time": 1756870411,
       "rank": 44,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 550417,
+      "num": 416442,
+      "word": "赴山海",
+      "onboard_time": 1756700722,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 549271,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1756893624,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 494883,
+      "num": 323188,
+      "word": "A股",
+      "onboard_time": 1756692440,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 494146,
@@ -2347,14 +2403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 416442,
-      "num": 416442,
-      "word": "赴山海",
-      "onboard_time": 1756700722,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 412222,
       "num": 276835,
       "word": "孟子义李昀锐上台讲话",
@@ -2400,6 +2448,14 @@
       "word": "中方将为上合国家开展1万例癌症筛查",
       "onboard_time": 1756720882,
       "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 400047,
+      "num": 408376,
+      "word": "阅兵太出片了",
+      "onboard_time": 1756948462,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -2713,6 +2769,14 @@
       "onboard_time": 1756636760,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 361640,
+      "num": 196215,
+      "word": "普京抵达俄远东城市",
+      "onboard_time": 1756954402,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 360511,
@@ -3035,14 +3099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323188,
-      "num": 323188,
-      "word": "A股",
-      "onboard_time": 1756692440,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 321691,
       "num": 229246,
       "word": "开学焦虑更严重的另有其人",
@@ -3139,20 +3195,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 312555,
-      "num": 408376,
-      "word": "阅兵太出片了",
-      "onboard_time": 1756948462,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 311476,
       "num": 218667,
       "word": "以为张艺兴穿的蓝色抹胸",
       "onboard_time": 1756611021,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 308670,
+      "num": 236878,
+      "word": "令人心动的offer",
+      "onboard_time": 1756954522,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308360,
+      "num": 308360,
+      "word": "九三文艺晚会总导演是舞坛双子星",
+      "onboard_time": 1756951641,
+      "rank": 14,
+      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 308043,
@@ -3547,6 +3611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 273595,
+      "num": 369121,
+      "word": "天津和平鸽归巢主人激动吹哨迎接",
+      "onboard_time": 1756951221,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 273560,
       "num": 273560,
       "word": "买电动车注意三个月过渡期",
@@ -3617,6 +3689,14 @@
       "onboard_time": 1756900824,
       "rank": 32,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 267673,
+      "num": 267673,
+      "word": "第五人格",
+      "onboard_time": 1756952482,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 267351,
@@ -4379,6 +4459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210083,
+      "num": 210083,
+      "word": "詹姆斯打卡东方明珠",
+      "onboard_time": 1756954402,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209763,
       "num": 209763,
       "word": "女子街头晕倒怀孕妈妈跪地施救",
@@ -4723,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196640,
+      "num": 196640,
+      "word": "小孩的文具都进化成这样了",
+      "onboard_time": 1756953381,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195944,
       "num": 404281,
       "word": "孙颖莎进入国家队10周年",
@@ -4809,6 +4905,14 @@
       "onboard_time": 1756717881,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193627,
+      "num": 193627,
+      "word": "吴越罗晋吴樾刘昊然合照",
+      "onboard_time": 1756952840,
+      "rank": 32,
+      "category": "国内时政,综艺"
     },
     {
       "raw_hot": 193594,
@@ -5185,14 +5289,6 @@
       "onboard_time": 1756802961,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183861,
-      "num": 183861,
-      "word": "北京感谢全市人民和首都各界",
-      "onboard_time": 1756951401,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 183515,
@@ -5577,14 +5673,6 @@
       "onboard_time": 1756641922,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167878,
-      "num": 167878,
-      "word": "天津和平鸽归巢主人激动吹哨迎接",
-      "onboard_time": 1756951221,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 167689,
@@ -6451,6 +6539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146462,
+      "num": 146462,
+      "word": "玖月奇迹王小玮含金量又升了",
+      "onboard_time": 1756954762,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146353,
       "num": 129826,
       "word": "aespa导播还是太会切屏了",
@@ -6851,6 +6947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135607,
+      "num": 135607,
+      "word": "金饰克价涨到1062元",
+      "onboard_time": 1756953624,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 135589,
       "num": 125957,
       "word": "边伯贤说何老师很有名",
@@ -7009,6 +7113,14 @@
       "onboard_time": 1756781360,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131662,
+      "num": 131662,
+      "word": "台湾记者现场观礼后发声",
+      "onboard_time": 1756952421,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131371,
@@ -7233,6 +7345,14 @@
       "onboard_time": 1756817543,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127249,
+      "num": 127249,
+      "word": "当家里的小朋友有了微信",
+      "onboard_time": 1756952961,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 126894,
@@ -7489,6 +7609,14 @@
       "onboard_time": 1756710741,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120355,
+      "num": 145716,
+      "word": "王楚钦在北大也成打卡景点",
+      "onboard_time": 1756954642,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 120144,
@@ -10427,6 +10555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75881,
+      "num": 112677,
+      "word": "美网女单四强出炉",
+      "onboard_time": 1756954823,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75805,
       "num": 44885,
       "word": "白敬亭说刀马是吧等着",
@@ -11659,6 +11795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46351,
+      "num": 875061,
+      "word": "中国网警烽火烬处赓续前行",
+      "onboard_time": 1756942821,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45994,
       "num": 71971,
       "word": "5个细微但很有用的习惯",
@@ -11737,14 +11881,6 @@
       "onboard_time": 1756787303,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42613,
-      "num": 875061,
-      "word": "中国网警烽火烬处赓续前行",
-      "onboard_time": 1756942821,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42289,
@@ -11873,6 +12009,14 @@
       "onboard_time": 1756560983,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36892,
+      "num": 238882,
+      "word": "九三阅兵台湾线上播放超500万",
+      "onboard_time": 1756954342,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35741,
