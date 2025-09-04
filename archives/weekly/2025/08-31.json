@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756964406718,
+  "endTime": 1756967755467,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -425,6 +425,14 @@
       "onboard_time": 1756857923,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1900095,
+      "num": 1900095,
+      "word": "新华社认证的帅兵哥已婚",
+      "onboard_time": 1756964604,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1843593,
@@ -1963,6 +1971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 524855,
+      "num": 524855,
+      "word": "宝宝出生恰逢九三阅兵家人取名安阅",
+      "onboard_time": 1756962504,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 524347,
       "num": 524347,
       "word": "文艺晚会节目单",
@@ -2267,14 +2283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 457554,
-      "num": 457554,
-      "word": "宝宝出生恰逢九三阅兵家人取名安阅",
-      "onboard_time": 1756962504,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 455611,
       "num": 455611,
       "word": "玖月奇迹王小玮现场观礼",
@@ -2515,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410572,
+      "num": 410572,
+      "word": "九三阅兵的覆盖全球实锤了",
+      "onboard_time": 1756964362,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 408981,
       "num": 246345,
       "word": "许昕疑似不满裁判判罚",
@@ -2641,6 +2657,14 @@
       "onboard_time": 1756870892,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 390386,
+      "num": 390386,
+      "word": "阅兵升旗手爸爸紧张到握拳",
+      "onboard_time": 1756964783,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 390306,
@@ -3635,6 +3659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 282130,
+      "num": 234487,
+      "word": "阅兵圆满成功台湾艺人纷纷表态",
+      "onboard_time": 1756963583,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 279733,
       "num": 236560,
       "word": "旺旺总经理赴京看九三阅兵",
@@ -4097,6 +4129,14 @@
       "onboard_time": 1756723160,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247759,
+      "num": 193180,
+      "word": "731",
+      "onboard_time": 1756962802,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 247271,
@@ -4571,14 +4611,6 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 215914,
-      "num": 193180,
-      "word": "731",
-      "onboard_time": 1756962802,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 215040,
       "num": 215040,
       "word": "披荆斩棘",
@@ -4681,6 +4713,14 @@
       "onboard_time": 1756703362,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209197,
+      "num": 178867,
+      "word": "狗 干净自己埋汰别人",
+      "onboard_time": 1756963223,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 209018,
@@ -4792,14 +4832,6 @@
       "word": "19450902日本签署投降书",
       "onboard_time": 1756769118,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 204576,
-      "num": 204576,
-      "word": "阅兵圆满成功台湾艺人纷纷表态",
-      "onboard_time": 1756963583,
-      "rank": 17,
       "category": "国内时政"
     },
     {
@@ -5161,6 +5193,14 @@
       "onboard_time": 1756877489,
       "rank": 48,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 193017,
+      "num": 154902,
+      "word": "102岁老兵看完阅兵当晚安详离世",
+      "onboard_time": 1756967364,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192917,
@@ -5673,14 +5713,6 @@
       "onboard_time": 1756825103,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178867,
-      "num": 178867,
-      "word": "狗 干净自己埋汰别人",
-      "onboard_time": 1756963223,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 177106,
@@ -6299,6 +6331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158914,
+      "num": 158914,
+      "word": "贺峻霖知识过脑同时还做了一套听力",
+      "onboard_time": 1756966943,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158902,
       "num": 158902,
       "word": "外国记者感叹中国治安",
@@ -6545,14 +6585,6 @@
       "onboard_time": 1756800680,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153357,
-      "num": 153357,
-      "word": "九三阅兵的覆盖全球实锤了",
-      "onboard_time": 1756964362,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 152876,
@@ -6953,6 +6985,14 @@
       "onboard_time": 1756608501,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145345,
+      "num": 145345,
+      "word": "易烊千玺舞台才是猎场",
+      "onboard_time": 1756966462,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 145145,
@@ -7443,6 +7483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133335,
+      "num": 133335,
+      "word": "普京透露特朗普同乘一辆车细节",
+      "onboard_time": 1756965082,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132898,
       "num": 149429,
       "word": "张紫宁转行当拉拉队经理人了",
@@ -7753,6 +7801,14 @@
       "onboard_time": 1756817543,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127468,
+      "num": 127468,
+      "word": "詹姆斯开启第15次中国行",
+      "onboard_time": 1756966402,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 127249,
@@ -8340,7 +8396,7 @@
     },
     {
       "raw_hot": 116075,
-      "num": 116075,
+      "num": 123122,
       "word": "樊振东从不找外界原因",
       "onboard_time": 1756963642,
       "rank": 46,
@@ -8593,6 +8649,14 @@
       "onboard_time": 1756738582,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112234,
+      "num": 123136,
+      "word": "法新社 五彩斑斓的黑",
+      "onboard_time": 1756965262,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112200,
@@ -8921,6 +8985,14 @@
       "onboard_time": 1756724541,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107401,
+      "num": 123135,
+      "word": "罗小黑",
+      "onboard_time": 1756964482,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 107400,
@@ -9689,6 +9761,14 @@
       "onboard_time": 1756607781,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 94588,
+      "num": 123116,
+      "word": "电视剧足迹今日开播",
+      "onboard_time": 1756966343,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 94525,
@@ -10923,6 +11003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77473,
+      "num": 123296,
+      "word": "国外餐厅重播九三阅兵",
+      "onboard_time": 1756967662,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77401,
       "num": 169485,
       "word": "奉行主权平等",
@@ -12155,6 +12243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54777,
+      "num": 159492,
+      "word": "胜利日阅兵盛况定格留念",
+      "onboard_time": 1756967002,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54636,
       "num": 226711,
       "word": "回春丹鲜花舞台的含金量还在上升",
@@ -12307,8 +12403,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47046,
+      "num": 123103,
+      "word": "河南女排城市联赛开打朱婷任大使",
+      "onboard_time": 1756966823,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46980,
-      "num": 640332,
+      "num": 765684,
       "word": "九三阅兵上的多个首次",
       "onboard_time": 1756938317,
       "rank": 34,
@@ -12857,6 +12961,14 @@
       "onboard_time": 1756679296,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27093,
+      "num": 123210,
+      "word": "伞兵家漏水把狗吓得坐脚上",
+      "onboard_time": 1756966883,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 27011,

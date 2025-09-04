@@ -1,6 +1,6 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756964406718,
+  "endTime": 1756967755467,
   "band_list": [
     {
       "raw_hot": 15819267,
@@ -17,6 +17,14 @@
       "onboard_time": 1756955724,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1900095,
+      "num": 1900095,
+      "word": "新华社认证的帅兵哥已婚",
+      "onboard_time": 1756964604,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1847979,
@@ -251,6 +259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 524855,
+      "num": 524855,
+      "word": "宝宝出生恰逢九三阅兵家人取名安阅",
+      "onboard_time": 1756962504,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 502865,
       "num": 502865,
       "word": "刘老庒连战旗多一点的原因泪目了",
@@ -299,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 457554,
-      "num": 457554,
-      "word": "宝宝出生恰逢九三阅兵家人取名安阅",
-      "onboard_time": 1756962504,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 450865,
       "num": 323830,
       "word": "德媒称中国阅兵武器遥遥领先",
@@ -323,11 +331,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410572,
+      "num": 410572,
+      "word": "九三阅兵的覆盖全球实锤了",
+      "onboard_time": 1756964362,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 400047,
       "num": 408376,
       "word": "阅兵太出片了",
       "onboard_time": 1756948462,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 390386,
+      "num": 390386,
+      "word": "阅兵升旗手爸爸紧张到握拳",
+      "onboard_time": 1756964783,
+      "rank": 6,
       "category": "国内时政"
     },
     {
@@ -467,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 282130,
+      "num": 234487,
+      "word": "阅兵圆满成功台湾艺人纷纷表态",
+      "onboard_time": 1756963583,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 278497,
       "num": 278497,
       "word": "光与夜之恋",
@@ -539,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 247759,
+      "num": 193180,
+      "word": "731",
+      "onboard_time": 1756962802,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238231,
       "num": 238231,
       "word": "5万余人观礼离场后干干净净",
@@ -587,14 +627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215914,
-      "num": 193180,
-      "word": "731",
-      "onboard_time": 1756962802,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 214649,
       "num": 214649,
       "word": "2025WTT中国大满贯票价",
@@ -603,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204576,
-      "num": 204576,
-      "word": "阅兵圆满成功台湾艺人纷纷表态",
-      "onboard_time": 1756963583,
-      "rank": 17,
-      "category": "国内时政"
+      "raw_hot": 209197,
+      "num": 178867,
+      "word": "狗 干净自己埋汰别人",
+      "onboard_time": 1756963223,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 203199,
@@ -657,6 +689,14 @@
       "onboard_time": 1756952840,
       "rank": 32,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 193017,
+      "num": 154902,
+      "word": "102岁老兵看完阅兵当晚安详离世",
+      "onboard_time": 1756967364,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191450,
@@ -753,14 +793,6 @@
       "onboard_time": 1756916601,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 178867,
-      "num": 178867,
-      "word": "狗 干净自己埋汰别人",
-      "onboard_time": 1756963223,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 173964,
@@ -875,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158914,
+      "num": 158914,
+      "word": "贺峻霖知识过脑同时还做了一套听力",
+      "onboard_time": 1756966943,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157054,
       "num": 157054,
       "word": "任何搅局南海企图都不可能得逞",
@@ -897,14 +937,6 @@
       "onboard_time": 1756959864,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153357,
-      "num": 153357,
-      "word": "九三阅兵的覆盖全球实锤了",
-      "onboard_time": 1756964362,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 151126,
@@ -937,6 +969,14 @@
       "onboard_time": 1756954762,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145345,
+      "num": 145345,
+      "word": "易烊千玺舞台才是猎场",
+      "onboard_time": 1756966462,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 144088,
@@ -1011,6 +1051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133335,
+      "num": 133335,
+      "word": "普京透露特朗普同乘一辆车细节",
+      "onboard_time": 1756965082,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131662,
       "num": 131662,
       "word": "台湾记者现场观礼后发声",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1756904546,
       "rank": 32,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 127468,
+      "num": 127468,
+      "word": "詹姆斯开启第15次中国行",
+      "onboard_time": 1756966402,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 127249,
@@ -1108,7 +1164,7 @@
     },
     {
       "raw_hot": 116075,
-      "num": 116075,
+      "num": 123122,
       "word": "樊振东从不找外界原因",
       "onboard_time": 1756963642,
       "rank": 46,
@@ -1128,6 +1184,14 @@
       "word": "阅兵壁纸",
       "onboard_time": 1756893803,
       "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 112234,
+      "num": 123136,
+      "word": "法新社 五彩斑斓的黑",
+      "onboard_time": 1756965262,
+      "rank": 42,
       "category": "国内时政"
     },
     {
@@ -1153,6 +1217,14 @@
       "onboard_time": 1756916121,
       "rank": 29,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 107401,
+      "num": 123135,
+      "word": "罗小黑",
+      "onboard_time": 1756964482,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 107151,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1756962623,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 94588,
+      "num": 123116,
+      "word": "电视剧足迹今日开播",
+      "onboard_time": 1756966343,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 91459,
@@ -1347,6 +1427,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 77473,
+      "num": 123296,
+      "word": "国外餐厅重播九三阅兵",
+      "onboard_time": 1756967662,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75881,
       "num": 112677,
       "word": "美网女单四强出炉",
@@ -1459,6 +1547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54777,
+      "num": 159492,
+      "word": "胜利日阅兵盛况定格留念",
+      "onboard_time": 1756967002,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54717,
       "num": 70669,
       "word": "声入人心",
@@ -1515,6 +1611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47046,
+      "num": 123103,
+      "word": "河南女排城市联赛开打朱婷任大使",
+      "onboard_time": 1756966823,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46988,
       "num": 46988,
       "word": "文艺晚会 好哭",
@@ -1524,7 +1628,7 @@
     },
     {
       "raw_hot": 46980,
-      "num": 640332,
+      "num": 765684,
       "word": "九三阅兵上的多个首次",
       "onboard_time": 1756938317,
       "rank": 34,
@@ -1585,6 +1689,14 @@
       "onboard_time": 1756922595,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27093,
+      "num": 123210,
+      "word": "伞兵家漏水把狗吓得坐脚上",
+      "onboard_time": 1756966883,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 27011,
