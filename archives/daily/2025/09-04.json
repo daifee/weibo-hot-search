@@ -1,14 +1,22 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756957598880,
+  "endTime": 1756960151964,
   "band_list": [
     {
-      "raw_hot": 4226480,
-      "num": 362679,
+      "raw_hot": 14451661,
+      "num": 14451661,
       "word": "特朗普承认观看中国阅兵",
       "onboard_time": 1756952840,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2438314,
+      "num": 2438314,
+      "word": "新华社 必出神图的决心",
+      "onboard_time": 1756955724,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1847979,
@@ -27,14 +35,6 @@
       "category": "国内时政,综艺"
     },
     {
-      "raw_hot": 1677354,
-      "num": 337946,
-      "word": "新华社 必出神图的决心",
-      "onboard_time": 1756955724,
-      "rank": 11,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1396890,
       "num": 1396890,
       "word": "韩国人被中国阅兵直播震惊",
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1394354,
-      "num": 238456,
+      "num": 264764,
       "word": "特朗普下令重振美国军队",
       "onboard_time": 1756954220,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1188502,
-      "num": 213926,
+      "num": 264007,
       "word": "亲人去世后不要偷看他们手机",
       "onboard_time": 1756955122,
       "rank": 21,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 681632,
+      "num": 262312,
+      "word": "童瑶新剧演林允的侄女",
+      "onboard_time": 1756957281,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 629559,
       "num": 629559,
       "word": "受阅军人离开获夹道欢呼",
@@ -177,6 +185,14 @@
       "onboard_time": 1756946364,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 606005,
+      "num": 606005,
+      "word": "普京记者会满满中国风",
+      "onboard_time": 1756957402,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 587778,
@@ -244,11 +260,35 @@
     },
     {
       "raw_hot": 486359,
-      "num": 236878,
+      "num": 252192,
       "word": "令人心动的offer",
       "onboard_time": 1756954522,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472540,
+      "num": 472540,
+      "word": "刘老庒连战旗多一点的原因泪目了",
+      "onboard_time": 1756956562,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 464250,
+      "num": 260464,
+      "word": "这综艺一下降世了五个魔童",
+      "onboard_time": 1756956082,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 450865,
+      "num": 323830,
+      "word": "德媒称中国阅兵武器遥遥领先",
+      "onboard_time": 1756955183,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 448044,
@@ -265,14 +305,6 @@
       "onboard_time": 1756948462,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 386156,
-      "num": 205376,
-      "word": "这综艺一下降世了五个魔童",
-      "onboard_time": 1756956082,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 378346,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 362263,
-      "num": 196215,
+      "num": 238401,
       "word": "普京抵达俄远东城市",
       "onboard_time": 1756954402,
       "rank": 31,
@@ -323,20 +355,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 323830,
-      "num": 323830,
-      "word": "德媒称中国阅兵武器遥遥领先",
-      "onboard_time": 1756955183,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 312481,
       "num": 280575,
       "word": "金价",
       "onboard_time": 1756948822,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 305349,
+      "num": 271594,
+      "word": "歼35大片来了",
+      "onboard_time": 1756956322,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 304012,
@@ -353,6 +385,22 @@
       "onboard_time": 1756912524,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 300113,
+      "num": 268903,
+      "word": "你说双一流原来是这么个双一流",
+      "onboard_time": 1756955841,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 300039,
+      "num": 300039,
+      "word": "每天运动1小时2年后的改变",
+      "onboard_time": 1756957883,
+      "rank": 8,
+      "category": "运动健身"
     },
     {
       "raw_hot": 292889,
@@ -379,11 +427,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 270547,
-      "num": 270547,
-      "word": "歼35大片来了",
-      "onboard_time": 1756956322,
-      "rank": 19,
+      "raw_hot": 273774,
+      "num": 273774,
+      "word": "英媒记者激动称赞中国阅兵",
+      "onboard_time": 1756959144,
+      "rank": 15,
       "category": "国内时政"
     },
     {
@@ -403,14 +451,6 @@
       "category": "艺人,国内时政"
     },
     {
-      "raw_hot": 257964,
-      "num": 339810,
-      "word": "刘老庒连战旗多一点的原因泪目了",
-      "onboard_time": 1756956562,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 255455,
       "num": 255455,
       "word": "九三阅兵的这句解说词太催泪",
@@ -425,14 +465,6 @@
       "onboard_time": 1756949840,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 254434,
-      "num": 254434,
-      "word": "你说双一流原来是这么个双一流",
-      "onboard_time": 1756955841,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 252207,
@@ -467,12 +499,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 221499,
-      "num": 197050,
-      "word": "童瑶新剧演林允的侄女",
-      "onboard_time": 1756957281,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 230840,
+      "num": 230840,
+      "word": "8万只气球100%可降解",
+      "onboard_time": 1756958663,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218844,
@@ -547,6 +579,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 190784,
+      "num": 190784,
+      "word": "光与夜之恋",
+      "onboard_time": 1756959625,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190266,
       "num": 190266,
       "word": "原来和平鸽是这么被选上的",
@@ -563,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189163,
+      "num": 274033,
+      "word": "新华社有图必应",
+      "onboard_time": 1756957824,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188436,
       "num": 188436,
       "word": "外婆一大把年纪还吃上了空投",
       "onboard_time": 1756950441,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187970,
+      "num": 267729,
+      "word": "美军PPT里的东西我们已经服役了",
+      "onboard_time": 1756958544,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 187077,
@@ -603,20 +659,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 172902,
-      "num": 172902,
-      "word": "普京记者会满满中国风",
-      "onboard_time": 1756957402,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 172688,
       "num": 172688,
       "word": "美军看好的装备被我军率先实现",
       "onboard_time": 1756935315,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 172378,
+      "num": 172378,
+      "word": "花少7有自己的西游记",
+      "onboard_time": 1756957163,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 170509,
@@ -667,12 +723,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160882,
+      "num": 160882,
+      "word": "丁禹兮花开锦绣雪中相拥路透",
+      "onboard_time": 1756958844,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159287,
+      "num": 159287,
+      "word": "特朗普感叹九三阅兵",
+      "onboard_time": 1756958481,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157054,
       "num": 157054,
       "word": "任何搅局南海企图都不可能得逞",
       "onboard_time": 1756950201,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156061,
+      "num": 156061,
+      "word": "雅思女老师30岁裸辞成米其林大厨",
+      "onboard_time": 1756958363,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 151126,
@@ -705,6 +785,22 @@
       "onboard_time": 1756954762,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146516,
+      "num": 146516,
+      "word": "60克金镯晚买3天贵了近3千",
+      "onboard_time": 1756959384,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144706,
+      "num": 144706,
+      "word": "无畏契约",
+      "onboard_time": 1756960044,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 144088,
@@ -747,20 +843,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139233,
+      "num": 139233,
+      "word": "金饰克价涨到1062元",
+      "onboard_time": 1756953624,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137714,
       "num": 137714,
       "word": "慢镜头版阅兵震撼现场",
       "onboard_time": 1756948343,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 135607,
-      "num": 135607,
-      "word": "金饰克价涨到1062元",
-      "onboard_time": 1756953624,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 134492,
@@ -795,12 +891,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123962,
-      "num": 156227,
-      "word": "花少7有自己的西游记",
-      "onboard_time": 1756957163,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 124149,
+      "num": 124149,
+      "word": "你妈不给你买但我妈给我买了",
+      "onboard_time": 1756959864,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 120355,
@@ -913,6 +1009,14 @@
       "onboard_time": 1756903945,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 102636,
+      "num": 120508,
+      "word": "加拿大北极虾百香果凉米线",
+      "onboard_time": 1756959685,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 101301,
@@ -1161,6 +1265,14 @@
       "onboard_time": 1756935254,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47902,
+      "num": 233195,
+      "word": "多国领导人赞叹非凡盛会",
+      "onboard_time": 1756958544,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46988,

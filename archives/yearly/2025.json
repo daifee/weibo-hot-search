@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1756957598880,
+  "endTime": 1756960151964,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -481,6 +481,14 @@
       "onboard_time": 1755846025,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14451661,
+      "num": 14451661,
+      "word": "特朗普承认观看中国阅兵",
+      "onboard_time": 1756952840,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14433553,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736121019,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4255396,
-      "num": 821600,
-      "word": "林志炫淘汰",
-      "onboard_time": 1748010513,
-      "rank": 11,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
