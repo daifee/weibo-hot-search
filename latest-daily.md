@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 04:39:26
+本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 05:22:47
 </p>
 </blockquote>
 <p>
@@ -328,7 +328,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E7%9C%8B%E6%B1%9F%E5%8D%97%E5%8D%81%E4%BA%8C%E5%9C%BA%E6%AC%A2%E8%81%9A%23" target="weibo">
-肖战来看江南十二场欢聚（热度：18484）
+肖战来看江南十二场欢聚（热度：19858）
 </a>
 </li>
 
@@ -363,6 +363,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8D%87%E6%97%97%E6%89%8B%E7%88%B6%E6%AF%8D%E5%85%A8%E7%A8%8B%E8%A7%82%E7%9C%8B%E9%AA%84%E5%82%B2%E4%B8%8D%E5%B7%B2%23" target="weibo">
+九三阅兵升旗手父母全程观看骄傲不已（热度：14608）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E8%AF%B4%E4%BB%98%E5%87%BA%E5%80%BC%E5%BE%97%23" target="weibo">
 抗战老兵看完阅兵说付出值得（热度：14298）
 </a>
@@ -381,6 +387,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E7%BE%BD%E5%92%8C%E5%B9%B3%E9%B8%BD%E6%9D%A5%E8%87%AA3%E5%8D%83%E5%A4%9A%E4%B8%AA%E5%85%BB%E9%B8%BD%E4%BA%BA%23" target="weibo">
+8万羽和平鸽来自3千多个养鸽人（热度：12269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E4%BC%9A%E6%9B%B4%E5%8A%A0%E7%8F%8D%E6%83%9C%E4%B8%BA%E5%9B%BD%E5%BE%81%E6%88%98%E7%9A%84%E6%9C%BA%E4%BC%9A%23" target="weibo">
 吴艳妮说会更加珍惜为国征战的机会（热度：11779）
 </a>
@@ -389,12 +401,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%A9%BF%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E9%A2%86%E5%A5%96%E6%9C%8D%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
 汪顺穿东京奥运领奖服看阅兵（热度：10664）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8D%87%E6%97%97%E6%89%8B%E7%88%B6%E6%AF%8D%E5%85%A8%E7%A8%8B%E8%A7%82%E7%9C%8B%E9%AA%84%E5%82%B2%E4%B8%8D%E5%B7%B2%23" target="weibo">
-九三阅兵升旗手父母全程观看骄傲不已（热度：10625）
 </a>
 </li>
 
