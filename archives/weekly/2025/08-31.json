@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1756955384514,
+  "endTime": 1756956915871,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -83,6 +83,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 4226480,
+      "num": 362679,
+      "word": "特朗普承认观看中国阅兵",
+      "onboard_time": 1756952840,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 4117565,
       "num": 2584122,
       "word": "金正恩抵达",
@@ -129,14 +137,6 @@
       "onboard_time": 1756875630,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3196441,
-      "num": 362679,
-      "word": "特朗普承认观看中国阅兵",
-      "onboard_time": 1756952840,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 3032086,
@@ -603,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1394354,
+      "num": 238456,
+      "word": "特朗普下令重振美国军队",
+      "onboard_time": 1756954220,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1390300,
       "num": 1390300,
       "word": "金正恩专列抵达北京",
@@ -705,6 +713,14 @@
       "onboard_time": 1756603400,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1156432,
+      "num": 263813,
+      "word": "新华社 必出神图的决心",
+      "onboard_time": 1756955724,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1152471,
@@ -961,14 +977,6 @@
       "onboard_time": 1756870831,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 903189,
-      "num": 238456,
-      "word": "特朗普下令重振美国军队",
-      "onboard_time": 1756954220,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 897836,
@@ -1299,6 +1307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 729442,
+      "num": 240947,
+      "word": "朝鲜摄影师拍的阅兵照片",
+      "onboard_time": 1756953802,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 723635,
       "num": 1291869,
       "word": "1945到2025",
@@ -1329,14 +1345,6 @@
       "onboard_time": 1756723520,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 707208,
-      "num": 196637,
-      "word": "朝鲜摄影师拍的阅兵照片",
-      "onboard_time": 1756953802,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 706272,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1756786401,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 675109,
+      "num": 199975,
+      "word": "亲人去世后不要偷看他们手机",
+      "onboard_time": 1756955122,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 674511,
@@ -1707,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 553736,
+      "num": 553736,
+      "word": "九三文艺晚会总导演是舞坛双子星",
+      "onboard_time": 1756951641,
+      "rank": 14,
+      "category": "国内时政,综艺"
+    },
+    {
       "raw_hot": 553073,
       "num": 553073,
       "word": "原来和平鸽是这么被选上的",
@@ -1939,6 +1963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 520051,
+      "num": 520051,
+      "word": "天津和平鸽归巢主人激动吹哨迎接",
+      "onboard_time": 1756951221,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 516413,
       "num": 1082626,
       "word": "天安门广场年号台整体亮相",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1756879706,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 486359,
+      "num": 236878,
+      "word": "令人心动的offer",
+      "onboard_time": 1756954522,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 485981,
@@ -2585,14 +2625,6 @@
       "onboard_time": 1756824923,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 379468,
-      "num": 236878,
-      "word": "令人心动的offer",
-      "onboard_time": 1756954522,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 379246,
@@ -3211,14 +3243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 308360,
-      "num": 308360,
-      "word": "九三文艺晚会总导演是舞坛双子星",
-      "onboard_time": 1756951641,
-      "rank": 14,
-      "category": "国内时政,综艺"
-    },
-    {
       "raw_hot": 308043,
       "num": 192592,
       "word": "睡眠不足和睡眠充足有什么区别",
@@ -3283,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302180,
+      "num": 195734,
+      "word": "德媒称中国阅兵武器遥遥领先",
+      "onboard_time": 1756955183,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 302138,
       "num": 302138,
       "word": "台湾同胞为看阅兵没睡觉",
@@ -3305,14 +3337,6 @@
       "onboard_time": 1756908444,
       "rank": 26,
       "category": "国内时政,综艺"
-    },
-    {
-      "raw_hot": 300726,
-      "num": 369121,
-      "word": "天津和平鸽归巢主人激动吹哨迎接",
-      "onboard_time": 1756951221,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 297933,
@@ -3417,6 +3441,14 @@
       "onboard_time": 1756632081,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289860,
+      "num": 213804,
+      "word": "玖月奇迹王小玮含金量又升了",
+      "onboard_time": 1756954762,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 289100,
@@ -3865,6 +3897,14 @@
       "onboard_time": 1756879886,
       "rank": 44,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 254051,
+      "num": 197809,
+      "word": "这综艺一下降世了五个魔童",
+      "onboard_time": 1756956082,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 253521,
@@ -4371,6 +4411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218844,
+      "num": 197502,
+      "word": "心动offer真的给我打电话了",
+      "onboard_time": 1756956322,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217967,
       "num": 217967,
       "word": "詹姆斯打卡东方明珠",
@@ -4419,14 +4467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213804,
-      "num": 213804,
-      "word": "玖月奇迹王小玮含金量又升了",
-      "onboard_time": 1756954762,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212642,
       "num": 212642,
       "word": "龚俊的体面只给旅游前几天",
@@ -4441,14 +4481,6 @@
       "onboard_time": 1756706001,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211968,
-      "num": 162558,
-      "word": "德媒称中国阅兵武器遥遥领先",
-      "onboard_time": 1756955183,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 211896,
@@ -4673,6 +4705,14 @@
       "onboard_time": 1756639040,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202103,
+      "num": 202103,
+      "word": "开学基础第一杯奶茶就不基础",
+      "onboard_time": 1756956503,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 201874,
@@ -5387,6 +5427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180674,
+      "num": 180674,
+      "word": "绝区零",
+      "onboard_time": 1756955241,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180648,
       "num": 130838,
       "word": "幼儿园开学第一天上演两极反转",
@@ -5409,6 +5457,14 @@
       "onboard_time": 1756700963,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179903,
+      "num": 179903,
+      "word": "你说双一流原来是这么个双一流",
+      "onboard_time": 1756955841,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 179416,
@@ -5569,6 +5625,14 @@
       "onboard_time": 1756718602,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171411,
+      "num": 171411,
+      "word": "2025WTT中国大满贯票价",
+      "onboard_time": 1756956682,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 171210,
@@ -5937,14 +6001,6 @@
       "onboard_time": 1756566444,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 161656,
-      "num": 161656,
-      "word": "绝区零",
-      "onboard_time": 1756955241,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 161473,
@@ -6723,6 +6779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142161,
+      "num": 142161,
+      "word": "在厨综看到了60岁的鹿小葵",
+      "onboard_time": 1756955001,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141349,
       "num": 141349,
       "word": "中国军人360度无死角的帅",
@@ -6761,6 +6825,14 @@
       "onboard_time": 1756647742,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140822,
+      "num": 140822,
+      "word": "你以为的坏习惯其实利于抑郁恢复",
+      "onboard_time": 1756955724,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140781,
@@ -6817,14 +6889,6 @@
       "onboard_time": 1756611381,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 138831,
-      "num": 138831,
-      "word": "在厨综看到了60岁的鹿小葵",
-      "onboard_time": 1756955001,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 138326,
@@ -7905,6 +7969,14 @@
       "onboard_time": 1756787303,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116783,
+      "num": 116783,
+      "word": "朱志鑫你好星期六录制",
+      "onboard_time": 1756956862,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 116769,
@@ -9137,6 +9209,14 @@
       "onboard_time": 1756818622,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96482,
+      "num": 202304,
+      "word": "刘老庒连战旗多一点的原因泪目了",
+      "onboard_time": 1756956562,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96266,
@@ -10728,6 +10808,14 @@
       "word": "一图速览九三阅兵精彩看点",
       "onboard_time": 1756831158,
       "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 74758,
+      "num": 200138,
+      "word": "歼35大片来了",
+      "onboard_time": 1756956322,
+      "rank": 19,
       "category": "国内时政"
     },
     {
