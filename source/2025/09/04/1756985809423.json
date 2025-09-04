@@ -1,0 +1,410 @@
+{
+  "runTime": 1756985809423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 768171,
+        "num": 1122907,
+        "word": "和平鸽工资15元",
+        "onboard_time": 1756978400,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 523686,
+        "num": 523686,
+        "word": "新华社认证的帅兵哥已婚",
+        "onboard_time": 1756964604,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9242,
+        "num": 450081,
+        "word": "中国排面360度无死角整齐",
+        "onboard_time": 1756944864,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 766729,
+        "num": 445788,
+        "word": "102岁老兵看完阅兵当晚安详离世",
+        "onboard_time": 1756967364,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440022,
+        "num": 440022,
+        "word": "中朝元首会谈",
+        "onboard_time": 1756981942,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 387455,
+        "num": 387455,
+        "word": "官方回应102岁老兵看完阅兵后去世",
+        "onboard_time": 1756977621,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291970,
+        "num": 291970,
+        "word": "九三阅兵的覆盖全球实锤了",
+        "onboard_time": 1756964362,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278000,
+        "num": 278000,
+        "word": "武契奇说塞尔维亚永远不忘中国支持",
+        "onboard_time": 1756981882,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239526,
+        "num": 239526,
+        "word": "新华社 必出神图的决心",
+        "onboard_time": 1756955724,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166349,
+        "num": 239486,
+        "word": "父亲儿子都牺牲了他带照片看阅兵",
+        "onboard_time": 1756984162,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1044622,
+        "num": 238638,
+        "word": "特朗普承认观看中国阅兵",
+        "onboard_time": 1756952840,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 449441,
+        "num": 237532,
+        "word": "全韩国都在报道中国阅兵",
+        "onboard_time": 1756978222,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257073,
+        "num": 237161,
+        "word": "王晨策接送王楚钦上下学",
+        "onboard_time": 1756983682,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250569,
+        "num": 235910,
+        "word": "北京杜莎夫人蜡像馆将永久关停",
+        "onboard_time": 1756972222,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161466,
+        "num": 235004,
+        "word": "浙工大回应2新生为校长撑伞全淋湿",
+        "onboard_time": 1756971202,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246493,
+        "num": 234634,
+        "word": "小米集团7000名应届生已全部报到",
+        "onboard_time": 1756982302,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 234078,
+        "num": 234078,
+        "word": "张亮麻辣烫没张亮了",
+        "onboard_time": 1756984162,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137238,
+        "num": 231070,
+        "word": "受阅部队投入日常战备值勤",
+        "onboard_time": 1756985542,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97645,
+        "num": 224351,
+        "word": "湖南抗战老兵观礼归来偶遇退役士兵",
+        "onboard_time": 1756984762,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37295,
+        "num": 215454,
+        "word": "台湾大学教授泪洒阅兵现场",
+        "onboard_time": 1756985243,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 564424,
+        "num": 209908,
+        "word": "母女三人机场偷土特产",
+        "onboard_time": 1756979483,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490690,
+        "num": 202316,
+        "word": "长期焦虑过度的表现",
+        "onboard_time": 1756978760,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197930,
+        "num": 197930,
+        "word": "美联社直播中国阅兵评论区亮了",
+        "onboard_time": 1756978342,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398990,
+        "num": 196015,
+        "word": "梓渝 太湖湾音乐节",
+        "onboard_time": 1756982121,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181329,
+        "num": 181329,
+        "word": "一年不吃晚饭身体的变化",
+        "onboard_time": 1756981281,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170302,
+        "num": 170302,
+        "word": "芒果音乐节阵容",
+        "onboard_time": 1756975402,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151620,
+        "num": 151620,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1756982902,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130484,
+        "num": 130484,
+        "word": "机器狗 机器狼",
+        "onboard_time": 1756983202,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127750,
+        "num": 127750,
+        "word": "余承东祝大家炒股赚大钱",
+        "onboard_time": 1756984642,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123071,
+        "num": 123071,
+        "word": "老师下学期你还教我吗",
+        "onboard_time": 1756980142,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146683,
+        "num": 123051,
+        "word": "让世界看到咸鱼cos的秀秀",
+        "onboard_time": 1756984642,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127009,
+        "num": 123043,
+        "word": "中国军工立flag",
+        "onboard_time": 1756982843,
+        "rank": 31,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 122122,
+        "num": 122122,
+        "word": "阅兵现场妻子把王伟照片举向天空",
+        "onboard_time": 1756969762,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122020,
+        "num": 122020,
+        "word": "梓渝又有工作了",
+        "onboard_time": 1756983802,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117484,
+        "num": 117484,
+        "word": "麒麟9020",
+        "onboard_time": 1756971982,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116634,
+        "num": 116634,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100433,
+        "num": 116615,
+        "word": "东风61飞得比迪迦快",
+        "onboard_time": 1756981701,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30531,
+        "num": 116604,
+        "word": "8架美军战机飞越白宫",
+        "onboard_time": 1756984702,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41085,
+        "num": 116580,
+        "word": "高志凯称美日印度都在研究中方阅兵",
+        "onboard_time": 1756985063,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43473,
+        "num": 116570,
+        "word": "兵马俑一号坑惊现大洞",
+        "onboard_time": 1756985601,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98702,
+        "num": 116539,
+        "word": "鸠山由纪夫说怀着反省谢罪心情赴华",
+        "onboard_time": 1756971622,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93068,
+        "num": 116519,
+        "word": "陈祥榕妈妈和王伟遗孀合影",
+        "onboard_time": 1756982242,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91486,
+        "num": 116508,
+        "word": "十年前买的衣服",
+        "onboard_time": 1756982424,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91399,
+        "num": 116480,
+        "word": "2025LPL",
+        "onboard_time": 1756984582,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89344,
+        "num": 116463,
+        "word": "台媒称台军难以望到解放军尾灯",
+        "onboard_time": 1756968383,
+        "rank": 44,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 84212,
+        "num": 116446,
+        "word": "外交部回应特朗普涉华指责",
+        "onboard_time": 1756974142,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84011,
+        "num": 116422,
+        "word": "韩红北京站感受什么叫国家严选",
+        "onboard_time": 1756985721,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63184,
+        "num": 116416,
+        "word": "华为首次官宣非凡大师品牌LOGO",
+        "onboard_time": 1756973420,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 51379,
+        "num": 116381,
+        "word": "冷咖啡和热咖啡不是靠温度区分",
+        "onboard_time": 1756972821,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 42913,
+        "num": 116359,
+        "word": "每天运动1小时2年后的改变",
+        "onboard_time": 1756957883,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平九三讲话一个关键词贯穿始终#"
+    }
+  }
+}

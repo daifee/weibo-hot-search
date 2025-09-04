@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1756984899974,
+  "endTime": 1756985809423,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -3243,6 +3243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278000,
+      "num": 278000,
+      "word": "武契奇说塞尔维亚永远不忘中国支持",
+      "onboard_time": 1756981882,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 277965,
       "num": 277965,
       "word": "中国排面亮相越南国庆阅兵",
@@ -3459,6 +3467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 257073,
+      "num": 252641,
+      "word": "王晨策接送王楚钦上下学",
+      "onboard_time": 1756983682,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256624,
       "num": 265739,
       "word": "中国的安全感让外国记者震惊了",
@@ -3531,14 +3547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 252641,
-      "num": 252641,
-      "word": "王晨策接送王楚钦上下学",
-      "onboard_time": 1756983682,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252203,
       "num": 213872,
       "word": "赴山海江湖召集令",
@@ -3609,6 +3617,14 @@
       "onboard_time": 1756888044,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 246493,
+      "num": 234634,
+      "word": "小米集团7000名应届生已全部报到",
+      "onboard_time": 1756982302,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 245710,
@@ -3777,6 +3793,14 @@
       "onboard_time": 1756899204,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 234078,
+      "num": 234078,
+      "word": "张亮麻辣烫没张亮了",
+      "onboard_time": 1756984162,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 233911,
@@ -4129,14 +4153,6 @@
       "onboard_time": 1756982902,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203914,
-      "num": 232269,
-      "word": "张亮麻辣烫没张亮了",
-      "onboard_time": 1756984162,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 203357,
@@ -4875,14 +4891,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 174348,
-      "num": 256938,
-      "word": "武契奇说塞尔维亚永远不忘中国支持",
-      "onboard_time": 1756981882,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 173964,
       "num": 173964,
       "word": "现场5万余人看完阅兵没留一片纸屑",
@@ -5099,6 +5107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166349,
+      "num": 239486,
+      "word": "父亲儿子都牺牲了他带照片看阅兵",
+      "onboard_time": 1756984162,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166339,
       "num": 166339,
       "word": "让世界看到咸鱼cos的秀秀",
@@ -5305,14 +5321,6 @@
       "onboard_time": 1756782682,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 160203,
-      "num": 231980,
-      "word": "小米集团7000名应届生已全部报到",
-      "onboard_time": 1756982302,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 159945,
@@ -6089,6 +6097,14 @@
       "onboard_time": 1756639580,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137238,
+      "num": 231070,
+      "word": "受阅部队投入日常战备值勤",
+      "onboard_time": 1756985542,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137096,
@@ -7659,6 +7675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100433,
+      "num": 120491,
+      "word": "东风61飞得比迪迦快",
+      "onboard_time": 1756981701,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100390,
       "num": 187875,
       "word": "拼多多80元的减负书包成开学神器",
@@ -7739,14 +7763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 98850,
-      "num": 120491,
-      "word": "东风61飞得比迪迦快",
-      "onboard_time": 1756981701,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 98808,
       "num": 105732,
       "word": "LPL最佳阵容投票",
@@ -7785,6 +7801,14 @@
       "onboard_time": 1756722441,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97645,
+      "num": 229547,
+      "word": "湖南抗战老兵观礼归来偶遇退役士兵",
+      "onboard_time": 1756984762,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97539,
@@ -8075,12 +8099,28 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 91486,
+      "num": 116508,
+      "word": "十年前买的衣服",
+      "onboard_time": 1756982424,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91459,
       "num": 91459,
       "word": "找到小猫的神秘开关了",
       "onboard_time": 1756950920,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91399,
+      "num": 120379,
+      "word": "2025LPL",
+      "onboard_time": 1756984582,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 90648,
@@ -8257,14 +8297,6 @@
       "onboard_time": 1756811061,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 87696,
-      "num": 120379,
-      "word": "2025LPL",
-      "onboard_time": 1756984582,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 87429,
@@ -8531,14 +8563,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 84317,
-      "num": 91653,
-      "word": "十年前买的衣服",
-      "onboard_time": 1756982424,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 84109,
       "num": 105698,
       "word": "让你头发更好看的技巧",
@@ -8553,6 +8577,14 @@
       "onboard_time": 1756720882,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84011,
+      "num": 116422,
+      "word": "韩红北京站感受什么叫国家严选",
+      "onboard_time": 1756985721,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 83870,
@@ -8809,14 +8841,6 @@
       "onboard_time": 1756712241,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79216,
-      "num": 120562,
-      "word": "父亲儿子都牺牲了他带照片看阅兵",
-      "onboard_time": 1756984162,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 79143,
@@ -10131,12 +10155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44607,
-      "num": 229547,
-      "word": "湖南抗战老兵观礼归来偶遇退役士兵",
-      "onboard_time": 1756984762,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 43473,
+      "num": 116570,
+      "word": "兵马俑一号坑惊现大洞",
+      "onboard_time": 1756985601,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42861,
@@ -10161,6 +10185,14 @@
       "onboard_time": 1756636760,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41085,
+      "num": 116580,
+      "word": "高志凯称美日印度都在研究中方阅兵",
+      "onboard_time": 1756985063,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39695,
@@ -10217,6 +10249,14 @@
       "onboard_time": 1756708521,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 37295,
+      "num": 215454,
+      "word": "台湾大学教授泪洒阅兵现场",
+      "onboard_time": 1756985243,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37231,
