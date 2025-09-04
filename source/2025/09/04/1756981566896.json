@@ -1,0 +1,410 @@
+{
+  "runTime": 1756981566896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1508996,
+        "num": 1508996,
+        "word": "和平鸽工资15元",
+        "onboard_time": 1756978400,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 656256,
+        "num": 656256,
+        "word": "新华社认证的帅兵哥已婚",
+        "onboard_time": 1756964604,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20749,
+        "num": 616569,
+        "word": "中国排面360度无死角整齐",
+        "onboard_time": 1756944864,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1068367,
+        "num": 606740,
+        "word": "102岁老兵看完阅兵当晚安详离世",
+        "onboard_time": 1756967364,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590293,
+        "num": 590293,
+        "word": "官方回应102岁老兵看完阅兵后去世",
+        "onboard_time": 1756977621,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 556865,
+        "num": 556865,
+        "word": "阅兵现场妻子把王伟照片举向天空",
+        "onboard_time": 1756969762,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453012,
+        "num": 453012,
+        "word": "中朝两党两国领导人将会谈",
+        "onboard_time": 1756979782,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383104,
+        "num": 383104,
+        "word": "九三阅兵的覆盖全球实锤了",
+        "onboard_time": 1756964362,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337684,
+        "num": 337684,
+        "word": "外交部回应特朗普涉华指责",
+        "onboard_time": 1756974142,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91761,
+        "num": 337349,
+        "word": "台湾青年说祖国强盛是最大的底气",
+        "onboard_time": 1756980682,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 958906,
+        "num": 334535,
+        "word": "特朗普承认观看中国阅兵",
+        "onboard_time": 1756952840,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 584226,
+        "num": 332403,
+        "word": "全韩国都在报道中国阅兵",
+        "onboard_time": 1756978222,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 481360,
+        "num": 331207,
+        "word": "北京杜莎夫人蜡像馆将永久关停",
+        "onboard_time": 1756972222,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329923,
+        "num": 329923,
+        "word": "新华社 必出神图的决心",
+        "onboard_time": 1756955724,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 274085,
+        "num": 274085,
+        "word": "鸠山由纪夫说怀着反省谢罪心情赴华",
+        "onboard_time": 1756971622,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255309,
+        "num": 255309,
+        "word": "美联社直播中国阅兵评论区亮了",
+        "onboard_time": 1756978342,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230809,
+        "num": 230809,
+        "word": "麒麟9020",
+        "onboard_time": 1756971982,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71444,
+        "num": 223061,
+        "word": "华为小平板超强超Mini",
+        "onboard_time": 1756978400,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221320,
+        "num": 221320,
+        "word": "浙工大回应2新生为校长撑伞全淋湿",
+        "onboard_time": 1756971202,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208220,
+        "num": 208220,
+        "word": "母女三人机场偷土特产",
+        "onboard_time": 1756979483,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674272,
+        "num": 184493,
+        "word": "芒果音乐节阵容",
+        "onboard_time": 1756975402,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300679,
+        "num": 170776,
+        "word": "长期焦虑过度的表现",
+        "onboard_time": 1756978760,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246883,
+        "num": 163456,
+        "word": "梓渝加盟芒果音乐节",
+        "onboard_time": 1756976002,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151982,
+        "num": 151982,
+        "word": "台媒称台军难以望到解放军尾灯",
+        "onboard_time": 1756968383,
+        "rank": 23,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 148741,
+        "num": 148741,
+        "word": "华为发布首款8.8英寸OLED平板",
+        "onboard_time": 1756978461,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106719,
+        "num": 145858,
+        "word": "守陵大爷借电视机想让烈士们看阅兵",
+        "onboard_time": 1756980322,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144936,
+        "num": 144936,
+        "word": "金铲铲官宣9月25日正式登陆鸿蒙5",
+        "onboard_time": 1756980561,
+        "rank": 26,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 137388,
+        "num": 137388,
+        "word": "不能让英雄们找不到自己的部队",
+        "onboard_time": 1756977562,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90644,
+        "num": 129142,
+        "word": "电动化时代还需要内燃机吗",
+        "onboard_time": 1756980322,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118052,
+        "num": 126398,
+        "word": "一代人有一代人的电子萌宠",
+        "onboard_time": 1756980322,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153760,
+        "num": 126128,
+        "word": "老师下学期你还教我吗",
+        "onboard_time": 1756980142,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124957,
+        "num": 124957,
+        "word": "一年不吃晚饭身体的变化",
+        "onboard_time": 1756981281,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119652,
+        "num": 119652,
+        "word": "美防长谈九三阅兵",
+        "onboard_time": 1756971443,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114457,
+        "num": 114457,
+        "word": "周翊然郑合惠子演父女",
+        "onboard_time": 1756973061,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110185,
+        "num": 110185,
+        "word": "鹿晗北京站嘉宾",
+        "onboard_time": 1756974743,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108318,
+        "num": 108318,
+        "word": "谁家七十多岁了做几十个人的饭啊",
+        "onboard_time": 1756976841,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106321,
+        "num": 106321,
+        "word": "一抬头发现中国留学生都在看阅兵",
+        "onboard_time": 1756973841,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97517,
+        "num": 97517,
+        "word": "宋仲基新剧发布会状态",
+        "onboard_time": 1756979543,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93661,
+        "num": 93661,
+        "word": "李艺彤把自己的牙套抵押了",
+        "onboard_time": 1756979662,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14331,
+        "num": 93188,
+        "word": "电瓶车通勤 自动驾驶",
+        "onboard_time": 1756980800,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92791,
+        "num": 92791,
+        "word": "祝绪丹 换了个别的男朋友",
+        "onboard_time": 1756978342,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92645,
+        "num": 92645,
+        "word": "华为发布会",
+        "onboard_time": 1756971682,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90721,
+        "num": 90721,
+        "word": "当小狗发现主人在监控里偷看它",
+        "onboard_time": 1756979001,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80263,
+        "num": 90720,
+        "word": "美国男孩狂按邻居门铃被枪杀",
+        "onboard_time": 1756981043,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80070,
+        "num": 90719,
+        "word": "九三盛大阅兵",
+        "onboard_time": 1756828941,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78629,
+        "num": 90717,
+        "word": "2025KPL夏决节目单",
+        "onboard_time": 1756979122,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75968,
+        "num": 90717,
+        "word": "已单方面退出军迷圈",
+        "onboard_time": 1756975882,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 75829,
+        "num": 90716,
+        "word": "装备方队配上解说词看燃了",
+        "onboard_time": 1756979122,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75365,
+        "num": 90714,
+        "word": "期待下次阅兵了",
+        "onboard_time": 1756946303,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70528,
+        "num": 90714,
+        "word": "华为首次官宣非凡大师品牌LOGO",
+        "onboard_time": 1756973420,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见越南国家主席#"
+    }
+  }
+}
