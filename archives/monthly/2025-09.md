@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/05 06:39:10
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/05 07:22:28
 </p>
 </blockquote>
 <p>
@@ -5277,6 +5277,12 @@ AI让英烈看到今日中国（热度：122507）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E7%BE%BD%E5%92%8C%E5%B9%B3%E9%B8%BD%E6%9D%A5%E8%87%AA3%E5%8D%83%E5%A4%9A%E4%B8%AA%E5%85%BB%E9%B8%BD%E4%BA%BA%23" target="weibo">
+8万羽和平鸽来自3千多个养鸽人（热度：121815）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%8F%97%E9%82%80%E7%8E%B0%E5%9C%BA%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
 周鸿祎第二次受邀现场看阅兵（热度：121625）
 </a>
@@ -6005,12 +6011,6 @@ BFX战胜DK（热度：105733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%8B%AC%E5%B1%85%E5%86%B7%E7%9F%A5%E8%AF%86%23" target="weibo">
 女生独居冷知识（热度：101472）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A3%85%E5%A4%87%E6%96%B9%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%A2%AF%E9%98%9F%E6%9C%89%E6%96%B0%E5%88%9B%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BA%86%23" target="weibo">
-装备方队空中梯队有新创进行曲了（热度：101064）
 </a>
 </li>
 

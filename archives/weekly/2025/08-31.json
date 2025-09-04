@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1757025550766,
+  "endTime": 1757028148796,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -8859,6 +8859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121815,
+      "num": 121815,
+      "word": "8万羽和平鸽来自3千多个养鸽人",
+      "onboard_time": 1757019854,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121625,
       "num": 265870,
       "word": "周鸿祎第二次受邀现场看阅兵",
@@ -10481,14 +10489,6 @@
       "onboard_time": 1756639761,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 99728,
-      "num": 99728,
-      "word": "8万羽和平鸽来自3千多个养鸽人",
-      "onboard_time": 1757019854,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 99668,
@@ -13419,6 +13419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 60046,
+      "num": 60046,
+      "word": "刘轩丞新歌",
+      "onboard_time": 1757027659,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 59746,
       "num": 325312,
       "word": "深圳水贝金饰克价再破800元",
@@ -13907,6 +13915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44737,
+      "num": 47894,
+      "word": "肖战来看江南十二场欢聚",
+      "onboard_time": 1757010016,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44321,
       "num": 44321,
       "word": "Jiejie回应输给NIP",
@@ -13921,6 +13937,14 @@
       "onboard_time": 1757007016,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43960,
+      "num": 47879,
+      "word": "4个动作让脸变好看",
+      "onboard_time": 1757027659,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 43674,
@@ -14011,12 +14035,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40898,
+      "num": 59912,
+      "word": "阿玛尼遗憾与朋友家人相处时间不够",
+      "onboard_time": 1757004798,
+      "rank": 45,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 40843,
       "num": 166448,
       "word": "村民翻山越岭寻找无名烈士遗骸",
       "onboard_time": 1756646661,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40251,
+      "num": 118332,
+      "word": "731首日排片占比超99.7%",
+      "onboard_time": 1757027360,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 39695,
@@ -14379,14 +14419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29709,
-      "num": 59912,
-      "word": "阿玛尼遗憾与朋友家人相处时间不够",
-      "onboard_time": 1757004798,
-      "rank": 45,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 29694,
       "num": 33048,
       "word": "天安门广场放音乐",
@@ -14433,14 +14465,6 @@
       "onboard_time": 1756679296,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27297,
-      "num": 32619,
-      "word": "肖战来看江南十二场欢聚",
-      "onboard_time": 1757010016,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 27093,
@@ -14699,6 +14723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19467,
+      "num": 59907,
+      "word": "汪顺穿东京奥运领奖服看阅兵",
+      "onboard_time": 1757005757,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19275,
       "num": 178522,
       "word": "理想汽车第二季度净利润11亿元",
@@ -14897,14 +14929,6 @@
       "onboard_time": 1756750995,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13346,
-      "num": 59907,
-      "word": "汪顺穿东京奥运领奖服看阅兵",
-      "onboard_time": 1757005757,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 13299,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 06:39:10
+本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 07:22:28
 </p>
 </blockquote>
 <p>
@@ -57,14 +57,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23102%E5%B2%81%E8%80%81%E5%85%B5%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E5%BD%93%E6%99%9A%E5%AE%89%E8%AF%A6%E7%A6%BB%E4%B8%96%23" target="weibo">
-102岁老兵看完阅兵当晚安详离世（热度：268004）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%B2%A1%E5%BC%A0%E4%BA%AE%E4%BA%86%23" target="weibo">
+张亮麻辣烫没张亮了（热度：329753）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%B2%A1%E5%BC%A0%E4%BA%AE%E4%BA%86%23" target="weibo">
-张亮麻辣烫没张亮了（热度：265916）
+<a href="https://s.weibo.com/weibo?q=%23102%E5%B2%81%E8%80%81%E5%85%B5%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E5%BD%93%E6%99%9A%E5%AE%89%E8%AF%A6%E7%A6%BB%E4%B8%96%23" target="weibo">
+102岁老兵看完阅兵当晚安详离世（热度：268004）
 </a>
 </li>
 
@@ -99,8 +99,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E6%9E%B6%E5%A4%87%E4%BB%BD%E6%9C%BA%E4%B8%B4%E8%BF%91%E5%A4%A9%E5%AE%89%E9%97%A8%E5%89%8D%E9%BB%98%E9%BB%98%E8%BF%94%E8%88%AA%23" target="weibo">
+3架备份机临近天安门前默默返航（热度：161346）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%9C%9D%E4%B8%80%E5%AE%B6%E4%BA%B2%23" target="weibo">
 中朝一家亲（热度：150241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E8%8B%A5%E8%B0%88%E5%88%A4%E6%97%A0%E6%9E%9C%E5%B0%86%E4%BB%A5%E6%AD%A6%E5%8A%9B%E8%A7%A3%E5%86%B3%23" target="weibo">
+普京称若谈判无果将以武力解决（热度：146302）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%B7%A5%E8%B5%8415%E5%85%83%23" target="weibo">
+和平鸽工资15元（热度：138210）
 </a>
 </li>
 
@@ -111,26 +129,32 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E6%9E%B6%E5%A4%87%E4%BB%BD%E6%9C%BA%E4%B8%B4%E8%BF%91%E5%A4%A9%E5%AE%89%E9%97%A8%E5%89%8D%E9%BB%98%E9%BB%98%E8%BF%94%E8%88%AA%23" target="weibo">
-3架备份机临近天安门前默默返航（热度：132097）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E6%8D%A2%E4%B8%AA%E8%A7%92%E5%BA%A6%E8%BF%98%E6%98%AF%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%23" target="weibo">
 复制粘贴换个角度还是复制粘贴（热度：130658）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E9%B8%BD%E5%B7%A5%E8%B5%8415%E5%85%83%23" target="weibo">
-和平鸽工资15元（热度：120707）
+<a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E7%BE%BD%E5%92%8C%E5%B9%B3%E9%B8%BD%E6%9D%A5%E8%87%AA3%E5%8D%83%E5%A4%9A%E4%B8%AA%E5%85%BB%E9%B8%BD%E4%BA%BA%23" target="weibo">
+8万羽和平鸽来自3千多个养鸽人（热度：121815）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9D%9C%E8%8E%8E%E5%A4%AB%E4%BA%BA%E8%9C%A1%E5%83%8F%E9%A6%86%E5%B0%86%E6%B0%B8%E4%B9%85%E5%85%B3%E5%81%9C%23" target="weibo">
+北京杜莎夫人蜡像馆将永久关停（热度：115803）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%E7%BB%99%E7%BB%9D%E7%97%87%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%95%99%E5%85%A8%E9%83%A8%E5%AD%98%E6%AC%BE%23" target="weibo">
+男子去世给绝症前女友留全部存款（热度：112876）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B5%E9%A9%AC%E4%BF%91%E4%B8%80%E5%8F%B7%E5%9D%91%E6%83%8A%E7%8E%B0%E5%A4%A7%E6%B4%9E%23" target="weibo">
-兵马俑一号坑惊现大洞（热度：108776）
+兵马俑一号坑惊现大洞（热度：110883）
 </a>
 </li>
 
@@ -147,12 +171,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E7%BE%BD%E5%92%8C%E5%B9%B3%E9%B8%BD%E6%9D%A5%E8%87%AA3%E5%8D%83%E5%A4%9A%E4%B8%AA%E5%85%BB%E9%B8%BD%E4%BA%BA%23" target="weibo">
-8万羽和平鸽来自3千多个养鸽人（热度：99728）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E4%B9%8B%E6%AD%8C%23" target="weibo">
 丝之歌（热度：97848）
 </a>
@@ -161,6 +179,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%93%E6%B8%9D%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%8D%E5%9F%BA%E7%A1%80%E9%80%A0%E5%9E%8B%E6%9B%B4%E4%B8%8D%E5%9F%BA%E7%A1%80%23" target="weibo">
 梓渝音乐节不基础造型更不基础（热度：97415）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%AF%B4%E5%BF%85%E9%A1%BB%E6%AD%A3%E8%A7%86%E5%8E%86%E5%8F%B2%23" target="weibo">
+日本前首相说必须正视历史（热度：95935）
 </a>
 </li>
 
@@ -177,32 +201,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A6%96%E7%9B%B8%E8%AF%B4%E5%BF%85%E9%A1%BB%E6%AD%A3%E8%A7%86%E5%8E%86%E5%8F%B2%23" target="weibo">
-日本前首相说必须正视历史（热度：86609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9D%9C%E8%8E%8E%E5%A4%AB%E4%BA%BA%E8%9C%A1%E5%83%8F%E9%A6%86%E5%B0%86%E6%B0%B8%E4%B9%85%E5%85%B3%E5%81%9C%23" target="weibo">
-北京杜莎夫人蜡像馆将永久关停（热度：82329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E8%8B%A5%E8%B0%88%E5%88%A4%E6%97%A0%E6%9E%9C%E5%B0%86%E4%BB%A5%E6%AD%A6%E5%8A%9B%E8%A7%A3%E5%86%B3%23" target="weibo">
-普京称若谈判无果将以武力解决（热度：81260）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E7%90%83%E9%83%BD%E9%A3%98%E5%87%BA%E4%BA%86%E5%92%8C%E5%B9%B3%E9%B8%BD%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
 气球都飘出了和平鸽的样子（热度：80037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%E7%BB%99%E7%BB%9D%E7%97%87%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%95%99%E5%85%A8%E9%83%A8%E5%AD%98%E6%AC%BE%23" target="weibo">
-男子去世给绝症前女友留全部存款（热度：78559）
 </a>
 </li>
 
@@ -243,8 +243,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E8%9C%9C%E7%B2%8930%E5%85%8B%E5%92%8C6%E5%85%8B%E5%90%8C%E4%BB%B7%23" target="weibo">
+香奈儿蜜粉30克和6克同价（热度：65521）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%B4%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E4%B8%AD%E6%96%87%E5%8F%91%E5%B8%96%23" target="weibo">
 古巴国家主席中文发帖（热度：64793）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%84%BF%E5%AD%90%E9%83%BD%E7%89%BA%E7%89%B2%E4%BA%86%E4%BB%96%E5%B8%A6%E7%85%A7%E7%89%87%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
+父亲儿子都牺牲了他带照片看阅兵（热度：63611）
 </a>
 </li>
 
@@ -255,14 +267,26 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E8%9C%9C%E7%B2%8930%E5%85%8B%E5%92%8C6%E5%85%8B%E5%90%8C%E4%BB%B7%23" target="weibo">
-香奈儿蜜粉30克和6克同价（热度：61922）
+<a href="https://s.weibo.com/weibo?q=%23%E8%85%B9%E5%BC%8F%E5%91%BC%E5%90%B8%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
+腹式呼吸具象化了（热度：60957）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E9%99%88%E7%B2%92%E5%90%8C%E5%8F%B0%23" target="weibo">
 五月天陈粒同台（热度：60840）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9E%E6%96%B0%E6%AD%8C%23" target="weibo">
+刘轩丞新歌（热度：60046）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%88%E6%9C%89%E6%96%B0%E6%9C%BA%E4%BD%8D%E8%A7%A3%E9%94%81%23" target="weibo">
+九三阅兵又有新机位解锁（热度：57543）
 </a>
 </li>
 
@@ -285,44 +309,38 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E7%9C%8B%E6%B1%9F%E5%8D%97%E5%8D%81%E4%BA%8C%E5%9C%BA%E6%AC%A2%E8%81%9A%23" target="weibo">
+肖战来看江南十二场欢聚（热度：44737）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23" target="weibo">
 歌唱祖国（热度：44204）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%84%BF%E5%AD%90%E9%83%BD%E7%89%BA%E7%89%B2%E4%BA%86%E4%BB%96%E5%B8%A6%E7%85%A7%E7%89%87%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
-父亲儿子都牺牲了他带照片看阅兵（热度：41354）
+<a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%8A%A8%E4%BD%9C%E8%AE%A9%E8%84%B8%E5%8F%98%E5%A5%BD%E7%9C%8B%23" target="weibo">
+4个动作让脸变好看（热度：43960）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%85%B9%E5%BC%8F%E5%91%BC%E5%90%B8%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
-腹式呼吸具象化了（热度：39683）
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%8E%9B%E5%B0%BC%E9%81%97%E6%86%BE%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%AE%B6%E4%BA%BA%E7%9B%B8%E5%A4%84%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9F%23" target="weibo">
+阿玛尼遗憾与朋友家人相处时间不够（热度：40898）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23731%E9%A6%96%E6%97%A5%E6%8E%92%E7%89%87%E5%8D%A0%E6%AF%94%E8%B6%8599.7%25%23" target="weibo">
+731首日排片占比超99.7%（热度：40251）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4%E8%AF%B4%E7%A5%96%E5%9B%BD%E5%BC%BA%E7%9B%9B%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%23" target="weibo">
 台湾青年说祖国强盛是最大的底气（热度：38519）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%88%E6%9C%89%E6%96%B0%E6%9C%BA%E4%BD%8D%E8%A7%A3%E9%94%81%23" target="weibo">
-九三阅兵又有新机位解锁（热度：34958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%8E%9B%E5%B0%BC%E9%81%97%E6%86%BE%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%AE%B6%E4%BA%BA%E7%9B%B8%E5%A4%84%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9F%23" target="weibo">
-阿玛尼遗憾与朋友家人相处时间不够（热度：29709）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E7%9C%8B%E6%B1%9F%E5%8D%97%E5%8D%81%E4%BA%8C%E5%9C%BA%E6%AC%A2%E8%81%9A%23" target="weibo">
-肖战来看江南十二场欢聚（热度：27297）
 </a>
 </li>
 
@@ -341,6 +359,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8D%87%E6%97%97%E6%89%8B%E7%88%B6%E6%AF%8D%E5%85%A8%E7%A8%8B%E8%A7%82%E7%9C%8B%E9%AA%84%E5%82%B2%E4%B8%8D%E5%B7%B2%23" target="weibo">
 九三阅兵升旗手父母全程观看骄傲不已（热度：21570）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%A9%BF%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E9%A2%86%E5%A5%96%E6%9C%8D%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
+汪顺穿东京奥运领奖服看阅兵（热度：19467）
 </a>
 </li>
 
@@ -377,12 +401,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%80%81%E5%85%B5%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E8%AF%B4%E4%BB%98%E5%87%BA%E5%80%BC%E5%BE%97%23" target="weibo">
 抗战老兵看完阅兵说付出值得（热度：14298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%A9%BF%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E9%A2%86%E5%A5%96%E6%9C%8D%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
-汪顺穿东京奥运领奖服看阅兵（热度：13346）
 </a>
 </li>
 

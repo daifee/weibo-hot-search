@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757025550766,
+  "endTime": 1757028148796,
   "band_list": [
     {
       "raw_hot": 1237213,
@@ -59,6 +59,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 329753,
+      "num": 125145,
+      "word": "张亮麻辣烫没张亮了",
+      "onboard_time": 1756984162,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 268004,
       "num": 268004,
       "word": "102岁老兵看完阅兵当晚安详离世",
@@ -67,16 +75,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265916,
-      "num": 125145,
-      "word": "张亮麻辣烫没张亮了",
-      "onboard_time": 1756984162,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 240725,
-      "num": 107683,
+      "num": 112723,
       "word": "被外国网友评论阅兵整笑了",
       "onboard_time": 1756998863,
       "rank": 21,
@@ -115,11 +115,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161346,
+      "num": 161346,
+      "word": "3架备份机临近天安门前默默返航",
+      "onboard_time": 1756990883,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150241,
       "num": 150241,
       "word": "中朝一家亲",
       "onboard_time": 1756995445,
       "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 146302,
+      "num": 116338,
+      "word": "普京称若谈判无果将以武力解决",
+      "onboard_time": 1756986022,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 138210,
+      "num": 138210,
+      "word": "和平鸽工资15元",
+      "onboard_time": 1756978400,
+      "rank": 17,
       "category": "国内时政"
     },
     {
@@ -131,14 +155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 132097,
-      "num": 132097,
-      "word": "3架备份机临近天安门前默默返航",
-      "onboard_time": 1756990883,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 130658,
       "num": 130658,
       "word": "复制粘贴换个角度还是复制粘贴",
@@ -147,16 +163,32 @@
       "category": "国内时政,情感"
     },
     {
-      "raw_hot": 120707,
-      "num": 120707,
-      "word": "和平鸽工资15元",
-      "onboard_time": 1756978400,
-      "rank": 17,
+      "raw_hot": 121815,
+      "num": 121815,
+      "word": "8万羽和平鸽来自3千多个养鸽人",
+      "onboard_time": 1757019854,
+      "rank": 9,
       "category": "国内时政"
     },
     {
-      "raw_hot": 108776,
-      "num": 108776,
+      "raw_hot": 115803,
+      "num": 115803,
+      "word": "北京杜莎夫人蜡像馆将永久关停",
+      "onboard_time": 1756972222,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112876,
+      "num": 97382,
+      "word": "男子去世给绝症前女友留全部存款",
+      "onboard_time": 1756985903,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110883,
+      "num": 110883,
       "word": "兵马俑一号坑惊现大洞",
       "onboard_time": 1756985601,
       "rank": 18,
@@ -179,14 +211,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 99728,
-      "num": 99728,
-      "word": "8万羽和平鸽来自3千多个养鸽人",
-      "onboard_time": 1757019854,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 97848,
       "num": 108408,
       "word": "丝之歌",
@@ -201,6 +225,14 @@
       "onboard_time": 1756996406,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95935,
+      "num": 97404,
+      "word": "日本前首相说必须正视历史",
+      "onboard_time": 1756989323,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92864,
@@ -219,44 +251,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 86609,
-      "num": 97404,
-      "word": "日本前首相说必须正视历史",
-      "onboard_time": 1756989323,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 82329,
-      "num": 97396,
-      "word": "北京杜莎夫人蜡像馆将永久关停",
-      "onboard_time": 1756972222,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81260,
-      "num": 97387,
-      "word": "普京称若谈判无果将以武力解决",
-      "onboard_time": 1756986022,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 80037,
       "num": 97387,
       "word": "气球都飘出了和平鸽的样子",
       "onboard_time": 1756998144,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 78559,
-      "num": 97382,
-      "word": "男子去世给绝症前女友留全部存款",
-      "onboard_time": 1756985903,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73941,
@@ -307,11 +307,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 65521,
+      "num": 97335,
+      "word": "香奈儿蜜粉30克和6克同价",
+      "onboard_time": 1756988542,
+      "rank": 40,
+      "category": "民生新闻,美妆"
+    },
+    {
       "raw_hot": 64793,
       "num": 97345,
       "word": "古巴国家主席中文发帖",
       "onboard_time": 1756999403,
       "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 63611,
+      "num": 97301,
+      "word": "父亲儿子都牺牲了他带照片看阅兵",
+      "onboard_time": 1756984162,
+      "rank": 46,
       "category": "国内时政"
     },
     {
@@ -323,12 +339,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 61922,
-      "num": 97335,
-      "word": "香奈儿蜜粉30克和6克同价",
-      "onboard_time": 1756988542,
-      "rank": 40,
-      "category": "民生新闻,美妆"
+      "raw_hot": 60957,
+      "num": 60957,
+      "word": "腹式呼吸具象化了",
+      "onboard_time": 1756986201,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 60840,
@@ -337,6 +353,22 @@
       "onboard_time": 1756998803,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 60046,
+      "num": 60046,
+      "word": "刘轩丞新歌",
+      "onboard_time": 1757027659,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 57543,
+      "num": 59920,
+      "word": "九三阅兵又有新机位解锁",
+      "onboard_time": 1756992144,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54339,
@@ -363,6 +395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 44737,
+      "num": 47894,
+      "word": "肖战来看江南十二场欢聚",
+      "onboard_time": 1757010016,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44204,
       "num": 44204,
       "word": "歌唱祖国",
@@ -371,20 +411,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41354,
-      "num": 97301,
-      "word": "父亲儿子都牺牲了他带照片看阅兵",
-      "onboard_time": 1756984162,
-      "rank": 46,
-      "category": "国内时政"
+      "raw_hot": 43960,
+      "num": 47879,
+      "word": "4个动作让脸变好看",
+      "onboard_time": 1757027659,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 39683,
+      "raw_hot": 40898,
       "num": 59912,
-      "word": "腹式呼吸具象化了",
-      "onboard_time": 1756986201,
-      "rank": 46,
-      "category": "幽默"
+      "word": "阿玛尼遗憾与朋友家人相处时间不够",
+      "onboard_time": 1757004798,
+      "rank": 45,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 40251,
+      "num": 118332,
+      "word": "731首日排片占比超99.7%",
+      "onboard_time": 1757027360,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 38519,
@@ -393,30 +441,6 @@
       "onboard_time": 1756980682,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34958,
-      "num": 59920,
-      "word": "九三阅兵又有新机位解锁",
-      "onboard_time": 1756992144,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 29709,
-      "num": 59912,
-      "word": "阿玛尼遗憾与朋友家人相处时间不够",
-      "onboard_time": 1757004798,
-      "rank": 45,
-      "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 27297,
-      "num": 32619,
-      "word": "肖战来看江南十二场欢聚",
-      "onboard_time": 1757010016,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 25029,
@@ -441,6 +465,14 @@
       "onboard_time": 1757017933,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19467,
+      "num": 59907,
+      "word": "汪顺穿东京奥运领奖服看阅兵",
+      "onboard_time": 1757005757,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 17929,
@@ -489,14 +521,6 @@
       "onboard_time": 1757013734,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13346,
-      "num": 59907,
-      "word": "汪顺穿东京奥运领奖服看阅兵",
-      "onboard_time": 1757005757,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 13299,

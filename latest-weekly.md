@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/31 00:28:48 ~ 2025/09/05 06:39:10
+本榜单时间：2025/08/31 00:28:48 ~ 2025/09/05 07:22:28
 </p>
 </blockquote>
 <p>
@@ -6657,6 +6657,12 @@ AI让英烈看到今日中国（热度：122507）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E7%BE%BD%E5%92%8C%E5%B9%B3%E9%B8%BD%E6%9D%A5%E8%87%AA3%E5%8D%83%E5%A4%9A%E4%B8%AA%E5%85%BB%E9%B8%BD%E4%BA%BA%23" target="weibo">
+8万羽和平鸽来自3千多个养鸽人（热度：121815）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%8F%97%E9%82%80%E7%8E%B0%E5%9C%BA%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
 周鸿祎第二次受邀现场看阅兵（热度：121625）
 </a>
@@ -7871,12 +7877,6 @@ BFX战胜DK（热度：105733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E7%92%90%E5%86%8D%E6%AC%A1%E8%87%AA%E8%B4%B9%E5%8F%91%E6%AD%8C%E5%9B%9E%E5%BD%92%23" target="weibo">
 曹璐再次自费发歌回归（热度：99947）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%238%E4%B8%87%E7%BE%BD%E5%92%8C%E5%B9%B3%E9%B8%BD%E6%9D%A5%E8%87%AA3%E5%8D%83%E5%A4%9A%E4%B8%AA%E5%85%BB%E9%B8%BD%E4%BA%BA%23" target="weibo">
-8万羽和平鸽来自3千多个养鸽人（热度：99728）
 </a>
 </li>
 
@@ -10077,6 +10077,12 @@ iPhone17系列预售调查（热度：66469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9E%E6%96%B0%E6%AD%8C%23" target="weibo">
+刘轩丞新歌（热度：60046）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E5%86%8D%E7%A0%B4800%E5%85%83%23" target="weibo">
 深圳水贝金饰克价再破800元（热度：59746）
 </a>
@@ -10443,6 +10449,12 @@ WTT中国大满贯最高票价3776元（热度：57631）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E7%9C%8B%E6%B1%9F%E5%8D%97%E5%8D%81%E4%BA%8C%E5%9C%BA%E6%AC%A2%E8%81%9A%23" target="weibo">
+肖战来看江南十二场欢聚（热度：44737）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jiejie%E5%9B%9E%E5%BA%94%E8%BE%93%E7%BB%99NIP%23" target="weibo">
 Jiejie回应输给NIP（热度：44321）
 </a>
@@ -10451,6 +10463,12 @@ Jiejie回应输给NIP（热度：44321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23" target="weibo">
 歌唱祖国（热度：44204）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%8A%A8%E4%BD%9C%E8%AE%A9%E8%84%B8%E5%8F%98%E5%A5%BD%E7%9C%8B%23" target="weibo">
+4个动作让脸变好看（热度：43960）
 </a>
 </li>
 
@@ -10521,8 +10539,20 @@ Jiejie回应输给NIP（热度：44321）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%8E%9B%E5%B0%BC%E9%81%97%E6%86%BE%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%AE%B6%E4%BA%BA%E7%9B%B8%E5%A4%84%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9F%23" target="weibo">
+阿玛尼遗憾与朋友家人相处时间不够（热度：40898）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E7%BF%BB%E5%B1%B1%E8%B6%8A%E5%B2%AD%E5%AF%BB%E6%89%BE%E6%97%A0%E5%90%8D%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%23" target="weibo">
 村民翻山越岭寻找无名烈士遗骸（热度：40843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23731%E9%A6%96%E6%97%A5%E6%8E%92%E7%89%87%E5%8D%A0%E6%AF%94%E8%B6%8599.7%25%23" target="weibo">
+731首日排片占比超99.7%（热度：40251）
 </a>
 </li>
 
@@ -10797,12 +10827,6 @@ MK出行包王（热度：34050）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%8E%9B%E5%B0%BC%E9%81%97%E6%86%BE%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%AE%B6%E4%BA%BA%E7%9B%B8%E5%A4%84%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9F%23" target="weibo">
-阿玛尼遗憾与朋友家人相处时间不够（热度：29709）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E6%94%BE%E9%9F%B3%E4%B9%90%23" target="weibo">
 天安门广场放音乐（热度：29694）
 </a>
@@ -10835,12 +10859,6 @@ MK出行包王（热度：34050）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%83%8F%E5%B0%8F%E5%AD%A9%E5%AD%90%E4%B8%80%E6%A0%B7%E6%B4%BB%E6%B3%BC%23" target="weibo">
 华晨宇像小孩子一样活泼（热度：27510）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%A5%E7%9C%8B%E6%B1%9F%E5%8D%97%E5%8D%81%E4%BA%8C%E5%9C%BA%E6%AC%A2%E8%81%9A%23" target="weibo">
-肖战来看江南十二场欢聚（热度：27297）
 </a>
 </li>
 
@@ -11037,6 +11055,12 @@ iPhone16相机键还能这样用（热度：19800）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%A9%BF%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E9%A2%86%E5%A5%96%E6%9C%8D%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
+汪顺穿东京奥运领奖服看阅兵（热度：19467）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A611%E4%BA%BF%E5%85%83%23" target="weibo">
 理想汽车第二季度净利润11亿元（热度：19275）
 </a>
@@ -11183,12 +11207,6 @@ AI合成内容需亮明身份（热度：18945）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2382%E4%BA%BA%E6%89%93%E9%80%801000%E4%B8%AA%E6%97%A5%E4%BC%AA%E5%86%9B5%E6%AC%A1%23" target="weibo">
 82人打退1000个日伪军5次（热度：13641）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%A9%BF%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E9%A2%86%E5%A5%96%E6%9C%8D%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
-汪顺穿东京奥运领奖服看阅兵（热度：13346）
 </a>
 </li>
 
