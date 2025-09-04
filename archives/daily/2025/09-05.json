@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757021818730,
+  "endTime": 1757024634045,
   "band_list": [
     {
       "raw_hot": 1237213,
@@ -355,6 +355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48738,
+      "num": 48738,
+      "word": "8万羽和平鸽来自3千多个养鸽人",
+      "onboard_time": 1757019854,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44204,
       "num": 44204,
       "word": "歌唱祖国",
@@ -387,6 +395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32054,
+      "num": 59912,
+      "word": "腹式呼吸具象化了",
+      "onboard_time": 1756986201,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 29709,
       "num": 59912,
       "word": "阿玛尼遗憾与朋友家人相处时间不够",
@@ -395,12 +411,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 29668,
-      "num": 59912,
-      "word": "腹式呼吸具象化了",
-      "onboard_time": 1756986201,
+      "raw_hot": 26328,
+      "num": 29785,
+      "word": "肖战来看江南十二场欢聚",
+      "onboard_time": 1757010016,
       "rank": 46,
-      "category": "幽默"
+      "category": "综艺"
     },
     {
       "raw_hot": 25029,
@@ -419,20 +435,12 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 24577,
-      "num": 24577,
-      "word": "8万羽和平鸽来自3千多个养鸽人",
-      "onboard_time": 1757019854,
-      "rank": 9,
+      "raw_hot": 21208,
+      "num": 29739,
+      "word": "九三阅兵升旗手父母全程观看骄傲不已",
+      "onboard_time": 1757017933,
+      "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22189,
-      "num": 27579,
-      "word": "肖战来看江南十二场欢聚",
-      "onboard_time": 1757010016,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 17929,
@@ -460,18 +468,10 @@
     },
     {
       "raw_hot": 15916,
-      "num": 23452,
+      "num": 29700,
       "word": "阅兵神图对称感绝了",
       "onboard_time": 1757012114,
       "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 15835,
-      "num": 17537,
-      "word": "九三阅兵升旗手父母全程观看骄傲不已",
-      "onboard_time": 1757017933,
-      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -515,20 +515,20 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 11396,
+      "num": 59907,
+      "word": "汪顺穿东京奥运领奖服看阅兵",
+      "onboard_time": 1757005757,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11232,
       "num": 28083,
       "word": "中津全天候命运共同体",
       "onboard_time": 1757021054,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10664,
-      "num": 59907,
-      "word": "汪顺穿东京奥运领奖服看阅兵",
-      "onboard_time": 1757005757,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 9242,
