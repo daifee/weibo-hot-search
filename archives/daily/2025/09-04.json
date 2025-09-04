@@ -1,6 +1,6 @@
 {
   "startTime": 1756917114080,
-  "endTime": 1756977984038,
+  "endTime": 1756978780527,
   "band_list": [
     {
       "raw_hot": 15819267,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1154761,
-      "num": 195025,
+      "num": 197622,
       "word": "芒果音乐节阵容",
       "onboard_time": 1756975402,
       "rank": 20,
@@ -123,6 +123,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 926122,
+      "num": 1148179,
+      "word": "阅兵现场妻子把王伟照片举向天空",
+      "onboard_time": 1756969762,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 876559,
+      "num": 656550,
+      "word": "北京杜莎夫人蜡像馆将永久关停",
+      "onboard_time": 1756972222,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 849998,
       "num": 849998,
       "word": "为阅兵推迟婚礼小伙父亲发声",
@@ -136,22 +152,6 @@
       "word": "新华社好贴心",
       "onboard_time": 1756911024,
       "rank": 1,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 830724,
-      "num": 656550,
-      "word": "北京杜莎夫人蜡像馆将永久关停",
-      "onboard_time": 1756972222,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 825143,
-      "num": 825143,
-      "word": "阅兵现场妻子把王伟照片举向天空",
-      "onboard_time": 1756969762,
-      "rank": 38,
       "category": "国内时政"
     },
     {
@@ -323,6 +323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 493767,
+      "num": 493767,
+      "word": "官方回应102岁老兵看完阅兵后去世",
+      "onboard_time": 1756977621,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 493412,
       "num": 493412,
       "word": "新华社 夜鹭",
@@ -331,20 +339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492830,
+      "num": 492830,
+      "word": "外交部回应特朗普涉华指责",
+      "onboard_time": 1756974142,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 486359,
       "num": 252192,
       "word": "令人心动的offer",
       "onboard_time": 1756954522,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 473041,
-      "num": 473041,
-      "word": "外交部回应特朗普涉华指责",
-      "onboard_time": 1756974142,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 464250,
@@ -379,8 +387,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 413359,
-      "num": 413359,
+      "raw_hot": 441850,
+      "num": 441850,
       "word": "鸠山由纪夫说怀着反省谢罪心情赴华",
       "onboard_time": 1756971622,
       "rank": 16,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 341425,
-      "num": 159158,
+      "num": 190537,
       "word": "梓渝加盟芒果音乐节",
       "onboard_time": 1756976002,
       "rank": 21,
@@ -537,6 +545,14 @@
       "onboard_time": 1756968383,
       "rank": 44,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 323153,
+      "num": 200769,
+      "word": "周翊然郑合惠子演父女",
+      "onboard_time": 1756973061,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 312481,
@@ -633,14 +649,6 @@
       "onboard_time": 1756952482,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 264015,
-      "num": 200769,
-      "word": "周翊然郑合惠子演父女",
-      "onboard_time": 1756973061,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 258583,
@@ -747,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215032,
+      "num": 215032,
+      "word": "一抬头发现中国留学生都在看阅兵",
+      "onboard_time": 1756973841,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214649,
       "num": 214649,
       "word": "2025WTT中国大满贯票价",
@@ -793,6 +809,22 @@
       "onboard_time": 1756960044,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200304,
+      "num": 200304,
+      "word": "华为MateTV起售价8999元",
+      "onboard_time": 1756977562,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 199276,
+      "num": 344455,
+      "word": "不能让英雄们找不到自己的部队",
+      "onboard_time": 1756977562,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 197913,
@@ -931,14 +963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 186725,
-      "num": 186725,
-      "word": "华为MateTV起售价8999元",
-      "onboard_time": 1756977562,
-      "rank": 14,
-      "category": "数码"
-    },
-    {
       "raw_hot": 183466,
       "num": 244108,
       "word": "东风61大约10个花坛长度",
@@ -976,14 +1000,6 @@
       "word": "咱家战机多到一眼望不到头",
       "onboard_time": 1756916601,
       "rank": 23,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 180129,
-      "num": 180129,
-      "word": "官方回应102岁老兵看完阅兵后去世",
-      "onboard_time": 1756977621,
-      "rank": 16,
       "category": "国内时政"
     },
     {
@@ -1067,14 +1083,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 162522,
-      "num": 194902,
-      "word": "一抬头发现中国留学生都在看阅兵",
-      "onboard_time": 1756973841,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 162314,
       "num": 137419,
       "word": "拉肚子到后面是化学损伤",
@@ -1123,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158743,
+      "num": 158743,
+      "word": "谁家七十多岁了做几十个人的饭啊",
+      "onboard_time": 1756976841,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157054,
       "num": 157054,
       "word": "任何搅局南海企图都不可能得逞",
@@ -1153,6 +1169,22 @@
       "onboard_time": 1756959864,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154027,
+      "num": 134790,
+      "word": "全韩国都在报道中国阅兵",
+      "onboard_time": 1756978222,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 151266,
+      "num": 132903,
+      "word": "已单方面退出军迷圈",
+      "onboard_time": 1756975882,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 151126,
@@ -1227,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142676,
-      "num": 119831,
-      "word": "已单方面退出军迷圈",
-      "onboard_time": 1756975882,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
       "raw_hot": 142161,
       "num": 142161,
       "word": "在厨综看到了60岁的鹿小葵",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1756953624,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138606,
+      "num": 138606,
+      "word": "华为发布首款8.8英寸OLED平板",
+      "onboard_time": 1756978461,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 137714,
@@ -1323,6 +1355,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 131911,
+      "num": 131911,
+      "word": "美联社直播中国阅兵评论区亮了",
+      "onboard_time": 1756978342,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 131685,
+      "num": 131685,
+      "word": "祝绪丹 换了个别的男朋友",
+      "onboard_time": 1756978342,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131662,
       "num": 131662,
       "word": "台湾记者现场观礼后发声",
@@ -1355,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129209,
-      "num": 129209,
-      "word": "谁家七十多岁了做几十个人的饭啊",
-      "onboard_time": 1756976841,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128251,
       "num": 243133,
       "word": "光与夜之恋幻觉派对",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1756952961,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122939,
+      "num": 198041,
+      "word": "和平鸽工资15元",
+      "onboard_time": 1756978400,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122247,
@@ -1449,6 +1497,14 @@
       "onboard_time": 1756963402,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119006,
+      "num": 119006,
+      "word": "在韩游客看到阅兵自豪感拉满",
+      "onboard_time": 1756977501,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118711,
@@ -1515,6 +1571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111726,
+      "num": 111726,
+      "word": "中国发展外交关系不针对第三方",
+      "onboard_time": 1756978702,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111541,
       "num": 111541,
       "word": "海贼王",
@@ -1537,14 +1601,6 @@
       "onboard_time": 1756916121,
       "rank": 29,
       "category": "国内时政,综艺"
-    },
-    {
-      "raw_hot": 110032,
-      "num": 103433,
-      "word": "在韩游客看到阅兵自豪感拉满",
-      "onboard_time": 1756977501,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107401,
@@ -1601,6 +1657,14 @@
       "onboard_time": 1756957224,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104925,
+      "num": 104925,
+      "word": "洪秀柱出席九三阅兵天经地义",
+      "onboard_time": 1756975583,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 104913,
@@ -1675,10 +1739,18 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 98950,
-      "num": 98950,
-      "word": "洪秀柱出席九三阅兵天经地义",
-      "onboard_time": 1756975583,
+      "raw_hot": 99900,
+      "num": 99900,
+      "word": "长期焦虑过度的表现",
+      "onboard_time": 1756978760,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 98864,
+      "num": 98864,
+      "word": "阅兵式上的歼16D是新型电子战飞机",
+      "onboard_time": 1756978642,
       "rank": 48,
       "category": "国内时政"
     },
@@ -1689,6 +1761,14 @@
       "onboard_time": 1756967544,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97521,
+      "num": 222788,
+      "word": "华为小平板超强超Mini",
+      "onboard_time": 1756978400,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 97059,
@@ -1868,7 +1948,7 @@
     },
     {
       "raw_hot": 84369,
-      "num": 195089,
+      "num": 198068,
       "word": "华为新三折叠像用电脑一样用手机",
       "onboard_time": 1756975223,
       "rank": 19,
@@ -2036,7 +2116,7 @@
     },
     {
       "raw_hot": 57631,
-      "num": 108601,
+      "num": 112668,
       "word": "WTT中国大满贯最高票价3776元",
       "onboard_time": 1756977682,
       "rank": 37,
@@ -2097,6 +2177,14 @@
       "onboard_time": 1756960345,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50993,
+      "num": 115117,
+      "word": "普京总结在中国为期4天访问",
+      "onboard_time": 1756977743,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50474,
@@ -2169,14 +2257,6 @@
       "onboard_time": 1756942821,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 46096,
-      "num": 105139,
-      "word": "普京总结在中国为期4天访问",
-      "onboard_time": 1756977743,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38429,
@@ -2267,6 +2347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19310,
+      "num": 668839,
+      "word": "中国排面360度无死角整齐",
+      "onboard_time": 1756944864,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16579,
       "num": 28800,
       "word": "纪念大会结束",
@@ -2289,14 +2377,6 @@
       "onboard_time": 1756970841,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12513,
-      "num": 657834,
-      "word": "中国排面360度无死角整齐",
-      "onboard_time": 1756944864,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9879,
