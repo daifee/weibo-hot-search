@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/06 01:22:30
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/06 01:38:59
 </p>
 </blockquote>
 <p>
@@ -3681,6 +3681,12 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
+教体局回应一中学新初一共94个班（热度：235746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%87%E5%9B%BD%E6%97%97%20%E5%94%B1%E5%9B%BD%E6%AD%8C%23" target="weibo">
 升国旗 唱国歌（热度：235736）
 </a>
@@ -6005,12 +6011,6 @@ aespa导播还是太会切屏了（热度：146353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BD%E5%BF%AB%E5%BB%BA%E6%88%90%E4%B8%8A%E6%B5%B7%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%BC%80%E5%8F%91%E9%93%B6%E8%A1%8C%23" target="weibo">
 尽快建成上海合作组织开发银行（热度：144318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%9A%E5%85%A5%E5%9B%AD%E5%AE%9D%E8%B4%9D%E8%A2%AB%E5%A4%A7%E7%8F%AD%E5%93%A5%E5%93%A5%E6%8A%B1%E5%9C%A8%E6%80%80%E9%87%8C%E5%93%84%23" target="weibo">
-刚入园宝贝被大班哥哥抱在怀里哄（热度：144183）
 </a>
 </li>
 

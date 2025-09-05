@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757092950858,
+  "endTime": 1757093939621,
   "band_list": [
     {
       "raw_hot": 1394387,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235746,
+      "num": 235746,
+      "word": "教体局回应一中学新初一共94个班",
+      "onboard_time": 1757091258,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225454,
       "num": 111829,
       "word": "淘宝崩了",
@@ -193,14 +201,6 @@
       "onboard_time": 1757087001,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136216,
-      "num": 136216,
-      "word": "教体局回应一中学新初一共94个班",
-      "onboard_time": 1757091258,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133655,
@@ -395,20 +395,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48866,
+      "num": 51474,
+      "word": "这届网友保密意识很强",
+      "onboard_time": 1757092217,
+      "rank": 40,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 48577,
       "num": 69228,
       "word": "王楚钦冬去秋来又是一程",
       "onboard_time": 1757078481,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40632,
-      "num": 51474,
-      "word": "这届网友保密意识很强",
-      "onboard_time": 1757092217,
-      "rank": 40,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 31054,

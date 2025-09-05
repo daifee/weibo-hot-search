@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/08/31 00:28:48 ~ 2025/09/06 01:22:30
+本榜单时间：2025/08/31 00:28:48 ~ 2025/09/06 01:38:59
 </p>
 </blockquote>
 <p>
@@ -4251,6 +4251,12 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
+教体局回应一中学新初一共94个班（热度：235746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%87%E5%9B%BD%E6%97%97%20%E5%94%B1%E5%9B%BD%E6%AD%8C%23" target="weibo">
 升国旗 唱国歌（热度：235736）
 </a>
@@ -7583,12 +7589,6 @@ JackeyLove不确定明年退役（热度：137974）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E5%AE%B6%E7%8C%AB%E7%98%BE%E7%8A%AF%E4%BA%86%E5%B0%B1%E8%BF%99%E6%A0%B7%23" target="weibo">
 我在家猫瘾犯了就这样（热度：136474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
-教体局回应一中学新初一共94个班（热度：136216）
 </a>
 </li>
 
@@ -12807,6 +12807,12 @@ WTT中国大满贯最高票价3776元（热度：57631）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E7%BD%91%E5%8F%8B%E4%BF%9D%E5%AF%86%E6%84%8F%E8%AF%86%E5%BE%88%E5%BC%BA%23" target="weibo">
+这届网友保密意识很强（热度：48866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%8A%A8%E4%BD%9C%E8%AE%A9%E8%84%B8%E5%8F%98%E5%A5%BD%E7%9C%8B%23" target="weibo">
 4个动作让脸变好看（热度：48830）
 </a>
@@ -13037,12 +13043,6 @@ Jiejie回应输给NIP（热度：44321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E7%BF%BB%E5%B1%B1%E8%B6%8A%E5%B2%AD%E5%AF%BB%E6%89%BE%E6%97%A0%E5%90%8D%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%23" target="weibo">
 村民翻山越岭寻找无名烈士遗骸（热度：40843）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E7%BD%91%E5%8F%8B%E4%BF%9D%E5%AF%86%E6%84%8F%E8%AF%86%E5%BE%88%E5%BC%BA%23" target="weibo">
-这届网友保密意识很强（热度：40632）
 </a>
 </li>
 

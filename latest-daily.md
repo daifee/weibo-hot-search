@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/06 00:28:43 ~ 2025/09/06 01:22:30
+本榜单时间：2025/09/06 00:28:43 ~ 2025/09/06 01:38:59
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
+教体局回应一中学新初一共94个班（热度：235746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86%23" target="weibo">
 淘宝崩了（热度：225454）
 </a>
@@ -155,12 +161,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%87%AA%E6%8B%8D%23" target="weibo">
 蔡徐坤自拍（热度：140197）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
-教体局回应一中学新初一共94个班（热度：136216）
 </a>
 </li>
 
@@ -309,14 +309,14 @@ VOGUE（热度：103224）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%AC%E5%8E%BB%E7%A7%8B%E6%9D%A5%E5%8F%88%E6%98%AF%E4%B8%80%E7%A8%8B%23" target="weibo">
-王楚钦冬去秋来又是一程（热度：48577）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E7%BD%91%E5%8F%8B%E4%BF%9D%E5%AF%86%E6%84%8F%E8%AF%86%E5%BE%88%E5%BC%BA%23" target="weibo">
+这届网友保密意识很强（热度：48866）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E7%BD%91%E5%8F%8B%E4%BF%9D%E5%AF%86%E6%84%8F%E8%AF%86%E5%BE%88%E5%BC%BA%23" target="weibo">
-这届网友保密意识很强（热度：40632）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%AC%E5%8E%BB%E7%A7%8B%E6%9D%A5%E5%8F%88%E6%98%AF%E4%B8%80%E7%A8%8B%23" target="weibo">
+王楚钦冬去秋来又是一程（热度：48577）
 </a>
 </li>
 
