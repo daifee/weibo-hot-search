@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757046600603,
+  "endTime": 1757047376517,
   "band_list": [
     {
       "raw_hot": 1625947,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1526787,
+      "num": 427337,
+      "word": "桃李面包广告 没饱尝过生活的毒打",
+      "onboard_time": 1757043323,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1456231,
       "num": 1456231,
       "word": "金正恩乘专列离京返程",
       "onboard_time": 1757031800,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1432253,
-      "num": 370489,
-      "word": "桃李面包广告 没饱尝过生活的毒打",
-      "onboard_time": 1757043323,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1374478,
@@ -91,7 +91,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 882993,
+      "raw_hot": 897236,
       "num": 629172,
       "word": "花5万请千万网红带货只卖出58双鞋",
       "onboard_time": 1757042361,
@@ -115,20 +115,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 744743,
+      "num": 326003,
+      "word": "学生午休居然进化成这样了",
+      "onboard_time": 1757042119,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 736031,
       "num": 736031,
       "word": "身份证上有左权将军的名字",
       "onboard_time": 1757032161,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 717303,
-      "num": 326003,
-      "word": "学生午休居然进化成这样了",
-      "onboard_time": 1757042119,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 716928,
@@ -139,20 +139,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 694004,
-      "num": 257024,
-      "word": "张维伊背的是董璇的包吗",
-      "onboard_time": 1757044462,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 652830,
-      "num": 1104452,
+      "raw_hot": 708657,
+      "num": 1113385,
       "word": "儿童火车票有新规定了",
       "onboard_time": 1757041640,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 694004,
+      "num": 302942,
+      "word": "张维伊背的是董璇的包吗",
+      "onboard_time": 1757044462,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 641528,
@@ -161,6 +161,14 @@
       "onboard_time": 1756996344,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 639486,
+      "num": 639486,
+      "word": "VOGUE金九单人封面",
+      "onboard_time": 1757046144,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 625091,
@@ -176,6 +184,14 @@
       "word": "钟楚曦自己化妆一年能省下来一套房",
       "onboard_time": 1757032161,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 622041,
+      "num": 296359,
+      "word": "曝明星化妆师平均八万一次",
+      "onboard_time": 1757045122,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 545949,
-      "num": 255320,
+      "num": 291146,
       "word": "马頔李纯牵手散步",
       "onboard_time": 1757043681,
       "rank": 39,
@@ -259,14 +275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 368531,
-      "num": 254066,
-      "word": "曝明星化妆师平均八万一次",
-      "onboard_time": 1757045122,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 354153,
       "num": 605069,
       "word": "普京感谢中国对俄试行免签",
@@ -299,20 +307,20 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 342499,
+      "num": 342499,
+      "word": "全球第二大网红无语哥中国行官宣",
+      "onboard_time": 1757044762,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 327966,
       "num": 327966,
       "word": "被外国网友评论阅兵整笑了",
       "onboard_time": 1756998863,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 323363,
-      "num": 323363,
-      "word": "全球第二大网红无语哥中国行官宣",
-      "onboard_time": 1757044762,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 312131,
@@ -331,6 +339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 281107,
+      "num": 281107,
+      "word": "肖战阿云嘎领导对节目卫生可还满意",
+      "onboard_time": 1757043081,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270766,
       "num": 270766,
       "word": "金晨蝴蝶翅膀是手绘的",
@@ -347,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261116,
-      "num": 261116,
-      "word": "VOGUE金九单人封面",
-      "onboard_time": 1757046144,
-      "rank": 9,
-      "category": "作品衍生"
+      "raw_hot": 261210,
+      "num": 253818,
+      "word": "特朗普拟将五角大楼更名为战争部",
+      "onboard_time": 1757043260,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 256150,
@@ -361,22 +377,6 @@
       "onboard_time": 1757037380,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255684,
-      "num": 255684,
-      "word": "肖战阿云嘎领导对节目卫生可还满意",
-      "onboard_time": 1757043081,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 253818,
-      "num": 253818,
-      "word": "特朗普拟将五角大楼更名为战争部",
-      "onboard_time": 1757043260,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 249665,
@@ -419,6 +419,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 229014,
+      "num": 229014,
+      "word": "特朗普发布与普京的合影",
+      "onboard_time": 1757046144,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 228434,
+      "num": 228434,
+      "word": "易烊千玺刮痧后洗了热水澡",
+      "onboard_time": 1757046144,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224733,
       "num": 107373,
       "word": "易烊千玺演唱会哭了",
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214852,
+      "num": 214852,
+      "word": "同事上午入职中午离职",
+      "onboard_time": 1757042781,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214049,
       "num": 214049,
       "word": "火锅店广告 胸大打折",
@@ -449,14 +473,6 @@
       "onboard_time": 1757042781,
       "rank": 15,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 208757,
-      "num": 208757,
-      "word": "同事上午入职中午离职",
-      "onboard_time": 1757042781,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 208309,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 185729,
-      "num": 185729,
+      "num": 223566,
       "word": "受阅战车里为什么有一双崭新皮鞋",
       "onboard_time": 1757044402,
       "rank": 35,
@@ -555,20 +571,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 184767,
+      "num": 184767,
+      "word": "主播称做两个多月团播挣不到四千",
+      "onboard_time": 1757046742,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184365,
       "num": 160264,
       "word": "章子怡发文悼念阿玛尼先生",
       "onboard_time": 1757031141,
       "rank": 25,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 173532,
-      "num": 173531,
-      "word": "特朗普发布与普京的合影",
-      "onboard_time": 1757046144,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 173014,
@@ -595,20 +611,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 171506,
+      "num": 222086,
+      "word": "给贺峻霖想出贺俊脸的人是天才",
+      "onboard_time": 1757046023,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169831,
       "num": 169831,
       "word": "毕雯珺张予曦 惹了哄哄完惹",
       "onboard_time": 1757045843,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167923,
-      "num": 190074,
-      "word": "易烊千玺刮痧后洗了热水澡",
-      "onboard_time": 1757046144,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 167905,
@@ -667,6 +683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157004,
+      "num": 157004,
+      "word": "星穹铁道瑞幸周边",
+      "onboard_time": 1757047283,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155292,
       "num": 200793,
       "word": "纯爱了30集开始虐了",
@@ -691,6 +715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151283,
+      "num": 174467,
+      "word": "詹姆斯冒雨打高尔夫球",
+      "onboard_time": 1757046202,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150241,
       "num": 150241,
       "word": "中朝一家亲",
@@ -699,20 +731,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 143835,
-      "num": 143835,
+      "raw_hot": 147737,
+      "num": 147737,
       "word": "阅兵当天给30桌客人免单老板发声",
       "onboard_time": 1757045244,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141866,
-      "num": 174632,
-      "word": "给贺峻霖想出贺俊脸的人是天才",
-      "onboard_time": 1757046023,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 147357,
+      "num": 147357,
+      "word": "马嘉祺P图界来了位梵高",
+      "onboard_time": 1757047163,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139731,
+      "num": 147386,
+      "word": "成都暴雨",
+      "onboard_time": 1757046924,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139568,
@@ -731,12 +771,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 138998,
-      "num": 138998,
-      "word": "詹姆斯冒雨打高尔夫球",
-      "onboard_time": 1757046202,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 138396,
+      "num": 173535,
+      "word": "吴磊空降金九",
+      "onboard_time": 1757046083,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136342,
@@ -745,6 +785,14 @@
       "onboard_time": 1756992564,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135727,
+      "num": 218340,
+      "word": "万千惠 比董璇还晕的人来了",
+      "onboard_time": 1757047045,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 130658,
@@ -867,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115672,
+      "num": 208459,
+      "word": "马杜罗称中国已是世界顶尖强国",
+      "onboard_time": 1757045723,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114830,
       "num": 114830,
       "word": "歼35颜值有多高",
@@ -931,22 +987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107841,
-      "num": 208459,
-      "word": "马杜罗称中国已是世界顶尖强国",
-      "onboard_time": 1757045723,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 107384,
-      "num": 173535,
-      "word": "吴磊空降金九",
-      "onboard_time": 1757046083,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 106917,
       "num": 106917,
       "word": "男宝星球2",
@@ -985,6 +1025,22 @@
       "onboard_time": 1757040560,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98699,
+      "num": 216223,
+      "word": "井柏然孙千新剧连呼吸都在going",
+      "onboard_time": 1757046443,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98216,
+      "num": 174129,
+      "word": "杨紫或登VOGUE银十",
+      "onboard_time": 1757047283,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 97848,
@@ -1155,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76203,
+      "num": 227798,
+      "word": "韩一男子一个月2次袭击中国游客",
+      "onboard_time": 1757046324,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 75145,
       "num": 87101,
       "word": "胡歌追忆最后一次见阿玛尼先生",
@@ -1267,14 +1331,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 63085,
-      "num": 208929,
-      "word": "井柏然孙千新剧连呼吸都在going",
-      "onboard_time": 1757046443,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 60957,
       "num": 76702,
       "word": "腹式呼吸具象化了",
@@ -1371,20 +1427,20 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 39254,
-      "num": 214228,
-      "word": "韩一男子一个月2次袭击中国游客",
-      "onboard_time": 1757046324,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 38519,
       "num": 137713,
       "word": "台湾青年说祖国强盛是最大的底气",
       "onboard_time": 1756980682,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33065,
+      "num": 219457,
+      "word": "刘德华谈开合间见非凡",
+      "onboard_time": 1757045903,
+      "rank": 25,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 31271,
@@ -1411,14 +1467,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 22597,
-      "num": 214911,
-      "word": "刘德华谈开合间见非凡",
-      "onboard_time": 1757045903,
-      "rank": 25,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 21570,
       "num": 32616,
       "word": "九三阅兵升旗手父母全程观看骄傲不已",
@@ -1441,6 +1489,14 @@
       "onboard_time": 1757005757,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18261,
+      "num": 498638,
+      "word": "九三阅兵分列式9大精彩瞬间",
+      "onboard_time": 1756992564,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17929,
