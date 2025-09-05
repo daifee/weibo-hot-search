@@ -1,0 +1,410 @@
+{
+  "runTime": 1757082212617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1256888,
+        "num": 1256888,
+        "word": "张亮退出张亮麻辣烫股东行列",
+        "onboard_time": 1757078241,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600209,
+        "num": 600209,
+        "word": "阅兵和平鸽下班50多小时刚到家",
+        "onboard_time": 1757075180,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67675,
+        "num": 582557,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 582243,
+        "num": 582243,
+        "word": "杨幂热巴说马思纯瘦了",
+        "onboard_time": 1757075361,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 363121,
+        "num": 363121,
+        "word": "成都机场3秒迟疑后的拥抱看哭全网",
+        "onboard_time": 1757075422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353394,
+        "num": 353394,
+        "word": "外媒酸中国装备没实战翻车",
+        "onboard_time": 1757060962,
+        "rank": 5,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 426137,
+        "num": 346715,
+        "word": "鹿晗火力全开了",
+        "onboard_time": 1757079201,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321110,
+        "num": 321110,
+        "word": "王楚钦的北大开学plog",
+        "onboard_time": 1757079141,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452166,
+        "num": 320610,
+        "word": "刘亦菲迪丽热巴热聊",
+        "onboard_time": 1757078962,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144969,
+        "num": 310377,
+        "word": "时空对话版不屈看哭了",
+        "onboard_time": 1757080943,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 341909,
+        "num": 308194,
+        "word": "刘冲杨幂张小斐聚会",
+        "onboard_time": 1757076501,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3002075,
+        "num": 299505,
+        "word": "关晓彤听分手歌100多遍鹿晗知道吗",
+        "onboard_time": 1757080644,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297943,
+        "num": 297943,
+        "word": "阅兵结束拆座椅",
+        "onboard_time": 1757063542,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300295,
+        "num": 297882,
+        "word": "杭州一酒馆女舞者表演被指擦边",
+        "onboard_time": 1757077221,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296848,
+        "num": 296848,
+        "word": "易烊千玺二巡",
+        "onboard_time": 1757080583,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269133,
+        "num": 269133,
+        "word": "医院回应最快女护士被解聘或调岗",
+        "onboard_time": 1757067322,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266001,
+        "num": 266001,
+        "word": "为什么我们不害怕中元节了",
+        "onboard_time": 1757075901,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228662,
+        "num": 228662,
+        "word": "字节实习生一天领13份餐被通报",
+        "onboard_time": 1757069900,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 220847,
+        "num": 220847,
+        "word": "炎亚纶纯恨",
+        "onboard_time": 1757066121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34231,
+        "num": 208956,
+        "word": "海蓝之谜活动颜值超高",
+        "onboard_time": 1757078122,
+        "rank": 19,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 400806,
+        "num": 207717,
+        "word": "马思纯的字",
+        "onboard_time": 1757068161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206429,
+        "num": 206429,
+        "word": "田栩宁 费加罗",
+        "onboard_time": 1757073020,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183995,
+        "num": 183995,
+        "word": "肯德基冰豆浆比热豆浆贵1元",
+        "onboard_time": 1757071820,
+        "rank": 22,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 168340,
+        "num": 168340,
+        "word": "唐嫣这组图含氧量好高",
+        "onboard_time": 1757075302,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163581,
+        "num": 163581,
+        "word": "杨幂张小斐 从校服到礼服",
+        "onboard_time": 1757075901,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162175,
+        "num": 162175,
+        "word": "胡先煦现在就出发的约定实现了",
+        "onboard_time": 1757080401,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156768,
+        "num": 156768,
+        "word": "罕见红月亮将持续83分钟",
+        "onboard_time": 1757069181,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151593,
+        "num": 151593,
+        "word": "3问千万网红只卖了58双鞋",
+        "onboard_time": 1757079262,
+        "rank": 27,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 151583,
+        "num": 151583,
+        "word": "金正恩中国行再次证明一件事",
+        "onboard_time": 1757080883,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147039,
+        "num": 150731,
+        "word": "易烊千玺收官站",
+        "onboard_time": 1757079923,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 485250,
+        "num": 150685,
+        "word": "淘宝崩了",
+        "onboard_time": 1757080282,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150489,
+        "num": 150489,
+        "word": "VOGUE",
+        "onboard_time": 1757068942,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149034,
+        "num": 149034,
+        "word": "武契奇称阻止中国发展的企图都难奏效",
+        "onboard_time": 1757077521,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141669,
+        "num": 141669,
+        "word": "刘轩丞直播",
+        "onboard_time": 1757073861,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134955,
+        "num": 134955,
+        "word": "多方回应酒馆女舞者表演被指擦边",
+        "onboard_time": 1757074461,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129038,
+        "num": 129038,
+        "word": "马克龙威胁俄罗斯",
+        "onboard_time": 1757075480,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120875,
+        "num": 120875,
+        "word": "王俊凯去了轻于鸿毛首映礼",
+        "onboard_time": 1757073622,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141906,
+        "num": 120556,
+        "word": "打歌2025",
+        "onboard_time": 1757080763,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119053,
+        "num": 119053,
+        "word": "孙颖莎还有明天",
+        "onboard_time": 1757080342,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118394,
+        "num": 118394,
+        "word": "女子遭前夫殴打致肠破裂住进ICU",
+        "onboard_time": 1757065223,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27177,
+        "num": 116388,
+        "word": "泰国把在家吸烟列入家暴范畴",
+        "onboard_time": 1757082022,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116187,
+        "num": 116187,
+        "word": "王楚钦冬去秋来又是一程",
+        "onboard_time": 1757078481,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115160,
+        "num": 115160,
+        "word": "九三阅兵版玉盘还是太权威了",
+        "onboard_time": 1757078541,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108107,
+        "num": 108107,
+        "word": "时空对话版阅兵MV不屈",
+        "onboard_time": 1757080822,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103961,
+        "num": 103961,
+        "word": "陶喆 没人信我是用嘴吹的",
+        "onboard_time": 1757081845,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101182,
+        "num": 101182,
+        "word": "孟子义 姐姐还不够努力",
+        "onboard_time": 1757076860,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93245,
+        "num": 93245,
+        "word": "美国8月失业率创近4年来新高",
+        "onboard_time": 1757077461,
+        "rank": 46,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 92581,
+        "num": 92581,
+        "word": "VOGUE销量隐藏",
+        "onboard_time": 1757081964,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91055,
+        "num": 91055,
+        "word": "刘亦菲蓝宝石165克拉",
+        "onboard_time": 1757070020,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87229,
+        "num": 87229,
+        "word": "宋佳说小酒窝天生吃演艺圈这碗饭",
+        "onboard_time": 1757071281,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#党旗所指正是军旗所向#"
+    }
+  }
+}
