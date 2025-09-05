@@ -1,0 +1,410 @@
+{
+  "runTime": 1757068023099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 838725,
+        "num": 1134196,
+        "word": "外媒酸中国装备没实战翻车",
+        "onboard_time": 1757060962,
+        "rank": 0,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 802561,
+        "num": 802561,
+        "word": "阅兵结束拆座椅",
+        "onboard_time": 1757063542,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52093,
+        "num": 531353,
+        "word": "纯享版九三阅兵解说词",
+        "onboard_time": 1757061742,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 387045,
+        "num": 387045,
+        "word": "手术室为什么要用花生米",
+        "onboard_time": 1757052922,
+        "rank": 3,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 375064,
+        "num": 375064,
+        "word": "中方回应特朗普将国防部改战争部",
+        "onboard_time": 1757065223,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190678,
+        "num": 190678,
+        "word": "A股反弹原因",
+        "onboard_time": 1757060362,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189714,
+        "num": 189714,
+        "word": "阿努廷当选泰国总理",
+        "onboard_time": 1757062821,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176665,
+        "num": 176665,
+        "word": "普京说俄将对等实施对华免签",
+        "onboard_time": 1757054061,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163001,
+        "num": 163001,
+        "word": "小米澎湃OS3",
+        "onboard_time": 1757065581,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155347,
+        "num": 155347,
+        "word": "复旦食堂 鹅肝汉堡爆火",
+        "onboard_time": 1757065522,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739868,
+        "num": 154871,
+        "word": "炎亚纶纯恨",
+        "onboard_time": 1757066121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560071,
+        "num": 154519,
+        "word": "不如郭敬明",
+        "onboard_time": 1757062401,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 380207,
+        "num": 153443,
+        "word": "亿万富翁破产后每月需还款6位数",
+        "onboard_time": 1757061682,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355117,
+        "num": 153180,
+        "word": "谁给王楚然选的衣服",
+        "onboard_time": 1757065701,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318703,
+        "num": 152648,
+        "word": "王栎鑫心脏不适退出xmen舞台",
+        "onboard_time": 1757055262,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314994,
+        "num": 151797,
+        "word": "李兰迪裤子 女装也是完了",
+        "onboard_time": 1757043021,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258874,
+        "num": 151045,
+        "word": "杨幂还没学会画眼线",
+        "onboard_time": 1757063062,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190291,
+        "num": 150557,
+        "word": "桃李面包称领导正接受现实毒打",
+        "onboard_time": 1757055562,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172327,
+        "num": 149579,
+        "word": "张小斐迪丽热巴双人画报",
+        "onboard_time": 1757053821,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158566,
+        "num": 149335,
+        "word": "刘冲 审美",
+        "onboard_time": 1757048721,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205579,
+        "num": 148511,
+        "word": "女子遭前夫殴打致肠破裂住进ICU",
+        "onboard_time": 1757065223,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148205,
+        "num": 148205,
+        "word": "VOGUE11位女演员的亲笔回答",
+        "onboard_time": 1757064860,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147384,
+        "num": 147384,
+        "word": "鼻炎患者的共性",
+        "onboard_time": 1757064982,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145456,
+        "num": 145456,
+        "word": "刘亦菲 宝格丽",
+        "onboard_time": 1757055080,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 142310,
+        "num": 142310,
+        "word": "天天用但可能很脏的东西",
+        "onboard_time": 1757067981,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140375,
+        "num": 140375,
+        "word": "试验二十九号卫星发射成功",
+        "onboard_time": 1757062941,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133659,
+        "num": 133659,
+        "word": "小酒窝C位领舞天生主角",
+        "onboard_time": 1757064501,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130212,
+        "num": 130212,
+        "word": "田栩宁雨夜阴湿男鬼味",
+        "onboard_time": 1757066181,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70216,
+        "num": 121611,
+        "word": "外交部回应阿努廷当选泰国总理",
+        "onboard_time": 1757067800,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110971,
+        "num": 121026,
+        "word": "手机向智能化高端化迈进",
+        "onboard_time": 1757062761,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120995,
+        "num": 120995,
+        "word": "三件中国稀世珍宝在法国被盗",
+        "onboard_time": 1757056403,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118687,
+        "num": 118687,
+        "word": "医院回应最快女护士被解聘或调岗",
+        "onboard_time": 1757067322,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118146,
+        "num": 118146,
+        "word": "业内辟谣杨紫VOGUE银十",
+        "onboard_time": 1757064681,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110945,
+        "num": 110945,
+        "word": "美媒称美印关系已进入一级战备",
+        "onboard_time": 1757066721,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110813,
+        "num": 110813,
+        "word": "乘机人姓名误填拼音致机票作废",
+        "onboard_time": 1757065041,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109694,
+        "num": 109694,
+        "word": "今天又是阅兵戒断失败的一天",
+        "onboard_time": 1757054721,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109128,
+        "num": 109128,
+        "word": "VOGUE金九单人封面",
+        "onboard_time": 1757046144,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51081,
+        "num": 107873,
+        "word": "孟子义尚公主首套造型路透",
+        "onboard_time": 1757048962,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37278,
+        "num": 106967,
+        "word": "宋亚轩彭昱畅合拍手势舞",
+        "onboard_time": 1757067920,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75397,
+        "num": 106876,
+        "word": "杨幂被小时代腌入味儿了",
+        "onboard_time": 1757067200,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106802,
+        "num": 106802,
+        "word": "白宫鸿门宴",
+        "onboard_time": 1757067622,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106232,
+        "num": 106232,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105078,
+        "num": 105078,
+        "word": "王星越休假干了我一年的事",
+        "onboard_time": 1757061501,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101052,
+        "num": 101052,
+        "word": "詹姆斯成都",
+        "onboard_time": 1757064560,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100824,
+        "num": 100824,
+        "word": "三甲医生回应易烊千玺刮痧高烧",
+        "onboard_time": 1757057361,
+        "rank": 44,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 99501,
+        "num": 99501,
+        "word": "不满13条狗半夜叫扰毒死9只获刑",
+        "onboard_time": 1757064262,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99087,
+        "num": 99087,
+        "word": "比脱单更难的竟然是聊天",
+        "onboard_time": 1757067800,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98039,
+        "num": 98039,
+        "word": "普京看到中国观众秒切中文",
+        "onboard_time": 1757050402,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96925,
+        "num": 96925,
+        "word": "此沙演技",
+        "onboard_time": 1757067862,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96326,
+        "num": 96326,
+        "word": "桃李面包为月饼广告致歉",
+        "onboard_time": 1757056161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#党旗所指正是军旗所向#"
+    }
+  }
+}

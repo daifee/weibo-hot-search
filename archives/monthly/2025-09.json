@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757065210898,
+  "endTime": 1757068023099,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1323,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 802561,
+      "num": 802561,
+      "word": "阅兵结束拆座椅",
+      "onboard_time": 1757063542,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 799804,
       "num": 266571,
       "word": "日媒爆中国驱逐舰绕了日本一圈",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1757042119,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 739868,
+      "num": 154871,
+      "word": "炎亚纶纯恨",
+      "onboard_time": 1757066121,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 739454,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1756902505,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 560071,
+      "num": 217279,
+      "word": "不如郭敬明",
+      "onboard_time": 1757062401,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 559885,
@@ -2923,14 +2947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 393284,
-      "num": 393284,
-      "word": "阅兵结束拆座椅",
-      "onboard_time": 1757063542,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 390983,
       "num": 277112,
       "word": "杨紫或登VOGUE银十",
@@ -3099,6 +3115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 375064,
+      "num": 375064,
+      "word": "中方回应特朗普将国防部改战争部",
+      "onboard_time": 1757065223,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 373155,
       "num": 221860,
       "word": "杨幂还没学会画眼线",
@@ -3217,6 +3241,14 @@
       "onboard_time": 1756871733,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 355117,
+      "num": 153180,
+      "word": "谁给王楚然选的衣服",
+      "onboard_time": 1757065701,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 354304,
@@ -4819,14 +4851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217279,
-      "num": 217279,
-      "word": "不如郭敬明",
-      "onboard_time": 1757062401,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 216504,
       "num": 187040,
       "word": "把不敢带的耳钉带在了书包上",
@@ -5081,6 +5105,14 @@
       "onboard_time": 1756974743,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205579,
+      "num": 148511,
+      "word": "女子遭前夫殴打致肠破裂住进ICU",
+      "onboard_time": 1757065223,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204908,
@@ -6523,6 +6555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163001,
+      "num": 163001,
+      "word": "小米澎湃OS3",
+      "onboard_time": 1757065581,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 162565,
       "num": 162565,
       "word": "野战炊事车",
@@ -6817,6 +6857,14 @@
       "onboard_time": 1756898902,
       "rank": 47,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 155347,
+      "num": 155347,
+      "word": "复旦食堂 鹅肝汉堡爆火",
+      "onboard_time": 1757065522,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155311,
@@ -7187,6 +7235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148205,
+      "num": 148205,
+      "word": "VOGUE11位女演员的亲笔回答",
+      "onboard_time": 1757064860,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 148124,
       "num": 243526,
       "word": "普京透露特朗普同乘一辆车细节",
@@ -7225,6 +7281,14 @@
       "onboard_time": 1756828400,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147384,
+      "num": 147384,
+      "word": "鼻炎患者的共性",
+      "onboard_time": 1757064982,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147357,
@@ -7419,6 +7483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142310,
+      "num": 142310,
+      "word": "天天用但可能很脏的东西",
+      "onboard_time": 1757067981,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142161,
       "num": 142161,
       "word": "在厨综看到了60岁的鹿小葵",
@@ -7513,14 +7585,6 @@
       "onboard_time": 1757032463,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139440,
-      "num": 143221,
-      "word": "VOGUE11位女演员的亲笔回答",
-      "onboard_time": 1757064860,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139419,
@@ -7953,6 +8017,14 @@
       "onboard_time": 1756819763,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 130212,
+      "num": 130212,
+      "word": "田栩宁雨夜阴湿男鬼味",
+      "onboard_time": 1757066181,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130075,
@@ -8659,6 +8731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118687,
+      "num": 118687,
+      "word": "医院回应最快女护士被解聘或调岗",
+      "onboard_time": 1757067322,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118591,
       "num": 173453,
       "word": "理肤泉上百元喷雾被指成分只有水",
@@ -8964,7 +9044,7 @@
     },
     {
       "raw_hot": 113135,
-      "num": 113135,
+      "num": 121026,
       "word": "手机向智能化高端化迈进",
       "onboard_time": 1757062761,
       "rank": 38,
@@ -9129,6 +9209,22 @@
       "onboard_time": 1756963883,
       "rank": 29,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 110945,
+      "num": 110945,
+      "word": "美媒称美印关系已进入一级战备",
+      "onboard_time": 1757066721,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 110813,
+      "num": 110813,
+      "word": "乘机人姓名误填拼音致机票作废",
+      "onboard_time": 1757065041,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110523,
@@ -9395,6 +9491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106802,
+      "num": 106802,
+      "word": "白宫鸿门宴",
+      "onboard_time": 1757067622,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106719,
       "num": 145858,
       "word": "守陵大爷借电视机想让烈士们看阅兵",
@@ -9609,14 +9713,6 @@
       "onboard_time": 1757032401,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 104209,
-      "num": 104209,
-      "word": "鼻炎患者的共性",
-      "onboard_time": 1757064982,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 104195,
@@ -9883,12 +9979,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99501,
+      "num": 99501,
+      "word": "不满13条狗半夜叫扰毒死9只获刑",
+      "onboard_time": 1757064262,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99187,
       "num": 134499,
       "word": "易烊千玺礐嶨北京站vlog",
       "onboard_time": 1756819103,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99087,
+      "num": 99087,
+      "word": "比脱单更难的竟然是聊天",
+      "onboard_time": 1757067800,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 98864,
@@ -10017,6 +10129,14 @@
       "onboard_time": 1756999403,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96925,
+      "num": 96925,
+      "word": "此沙演技",
+      "onboard_time": 1757067862,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 96889,
@@ -11467,6 +11587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75397,
+      "num": 106876,
+      "word": "杨幂被小时代腌入味儿了",
+      "onboard_time": 1757067200,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 75145,
       "num": 87101,
       "word": "胡歌追忆最后一次见阿玛尼先生",
@@ -11705,6 +11833,14 @@
       "onboard_time": 1757037141,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70216,
+      "num": 121611,
+      "word": "外交部回应阿努廷当选泰国总理",
+      "onboard_time": 1757067800,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70202,
@@ -12396,7 +12532,7 @@
     },
     {
       "raw_hot": 55366,
-      "num": 453804,
+      "num": 531353,
       "word": "纯享版九三阅兵解说词",
       "onboard_time": 1757061742,
       "rank": 2,
@@ -12817,6 +12953,14 @@
       "onboard_time": 1756985243,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37278,
+      "num": 106967,
+      "word": "宋亚轩彭昱畅合拍手势舞",
+      "onboard_time": 1757067920,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 37231,
