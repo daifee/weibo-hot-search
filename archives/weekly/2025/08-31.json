@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1757029024015,
+  "endTime": 1757037005125,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -627,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1456231,
+      "num": 1456231,
+      "word": "金正恩乘专列离京返程",
+      "onboard_time": 1757031800,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1431648,
       "num": 1431648,
       "word": "真理",
@@ -713,6 +721,14 @@
       "onboard_time": 1756996344,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1269017,
+      "num": 172612,
+      "word": "杨幂 拿奖了给何晟铭跪下",
+      "onboard_time": 1757031321,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1237213,
@@ -1243,6 +1259,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 835829,
+      "num": 835829,
+      "word": "普京称将回应中国对俄试行免签",
+      "onboard_time": 1757032942,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 834306,
       "num": 834306,
       "word": "尼总理拒绝日本游说来华出席阅兵",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1756794320,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 792540,
+      "num": 792540,
+      "word": "女子在医院做微创手术脑死亡离世",
+      "onboard_time": 1757032285,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 791541,
@@ -1411,6 +1443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 736031,
+      "num": 736031,
+      "word": "身份证上有左权将军的名字",
+      "onboard_time": 1757032161,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 734258,
       "num": 734258,
       "word": "一家人举国旗看阅兵飞机",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1756892303,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 716928,
+      "num": 716928,
+      "word": "特朗普签令正式实施美日贸易协议",
+      "onboard_time": 1757033242,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 716320,
@@ -1691,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 622474,
+      "num": 171694,
+      "word": "钟楚曦自己化妆一年能省下来一套房",
+      "onboard_time": 1757032161,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621377,
       "num": 621377,
       "word": "九三文艺晚会总导演是舞坛双子星",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1756868083,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 604381,
+      "num": 604381,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1757032521,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 603600,
@@ -2347,6 +2411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 481244,
+      "num": 169091,
+      "word": "易烊千玺身体状况不理想",
+      "onboard_time": 1757031682,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 477460,
       "num": 477460,
       "word": "石宇奇夺冠教练快被打成重伤",
@@ -2729,6 +2801,14 @@
       "onboard_time": 1756788561,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 414499,
+      "num": 414499,
+      "word": "刘轩丞",
+      "onboard_time": 1757032582,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 412775,
@@ -3307,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 348777,
+      "num": 348777,
+      "word": "金建希教师资格证被注销",
+      "onboard_time": 1757030480,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 348546,
       "num": 348546,
       "word": "56门礼炮80响鸣放",
@@ -3531,6 +3619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 327966,
+      "num": 327966,
+      "word": "被外国网友评论阅兵整笑了",
+      "onboard_time": 1756998863,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 327815,
       "num": 307117,
       "word": "谁给我们胖妞剪成这样了",
@@ -3705,6 +3801,14 @@
       "onboard_time": 1756791442,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 312131,
+      "num": 618815,
+      "word": "众星发文悼念阿玛尼先生",
+      "onboard_time": 1757029521,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 311476,
@@ -4307,6 +4411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 265259,
+      "num": 265259,
+      "word": "路透社评阅兵新武器被外网网友怒怼",
+      "onboard_time": 1757034142,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 264680,
       "num": 204469,
       "word": "李昀锐 文臣也玩刀吗",
@@ -4651,14 +4763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240725,
-      "num": 219258,
-      "word": "被外国网友评论阅兵整笑了",
-      "onboard_time": 1756998863,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 240124,
       "num": 2531803,
       "word": "红旗见证时代荣光",
@@ -4785,6 +4889,14 @@
       "onboard_time": 1756808182,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232813,
+      "num": 165454,
+      "word": "张颂文戴耳钉",
+      "onboard_time": 1757034922,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 232744,
@@ -5803,6 +5915,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 191421,
+      "num": 606757,
+      "word": "肖战对细节抠到这种程度",
+      "onboard_time": 1757033781,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191198,
       "num": 274033,
       "word": "新华社有图必应",
@@ -6067,6 +6187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185108,
+      "num": 162995,
+      "word": "坚持运动30天就像换了一个人",
+      "onboard_time": 1757029279,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 184768,
       "num": 184768,
       "word": "德甲",
@@ -6097,6 +6225,14 @@
       "onboard_time": 1756702881,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184365,
+      "num": 160264,
+      "word": "章子怡发文悼念阿玛尼先生",
+      "onboard_time": 1757031141,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 184354,
@@ -6201,6 +6337,14 @@
       "onboard_time": 1756902445,
       "rank": 43,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 181117,
+      "num": 181117,
+      "word": "5人策划低俗求婚剧本被拘",
+      "onboard_time": 1757036421,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180959,
@@ -6377,6 +6521,14 @@
       "onboard_time": 1756950023,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173949,
+      "num": 605069,
+      "word": "普京感谢中国对俄试行免签",
+      "onboard_time": 1757035101,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172761,
@@ -6937,6 +7089,14 @@
       "onboard_time": 1756715903,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159459,
+      "num": 159459,
+      "word": "能治得了何晟铭的只有早期杨幂",
+      "onboard_time": 1757031563,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 159287,
@@ -7931,6 +8091,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139568,
+      "num": 139568,
+      "word": "梅西破门",
+      "onboard_time": 1757032463,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139364,
+      "num": 139364,
+      "word": "台湾前舰长观礼阅兵被威胁扣退休金",
+      "onboard_time": 1757035461,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139233,
       "num": 139233,
       "word": "金饰克价涨到1062元",
@@ -8001,6 +8177,14 @@
       "onboard_time": 1756631061,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138016,
+      "num": 138016,
+      "word": "iPhone17系列内存配置曝光",
+      "onboard_time": 1757034501,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 138000,
@@ -8627,6 +8811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127161,
+      "num": 127161,
+      "word": "谷爱凌粉色长裙超美",
+      "onboard_time": 1757032521,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126894,
       "num": 105398,
       "word": "莫迪四次拒接特朗普电话后奔向中日",
@@ -8665,6 +8857,14 @@
       "onboard_time": 1756620981,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125316,
+      "num": 125316,
+      "word": "展轩卡点祝刘轩丞生日快乐",
+      "onboard_time": 1757033542,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 125135,
@@ -8745,6 +8945,14 @@
       "onboard_time": 1756998803,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123745,
+      "num": 123745,
+      "word": "小哥俩10年3次屋顶看阅兵",
+      "onboard_time": 1757028318,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123282,
@@ -9059,6 +9267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118804,
+      "num": 155334,
+      "word": "浪姐从房琪的全世界路过",
+      "onboard_time": 1757034380,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118740,
       "num": 162745,
       "word": "谢娜为一家人操碎了心",
@@ -9321,6 +9537,14 @@
       "onboard_time": 1756914983,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115471,
+      "num": 115471,
+      "word": "居然真的有人有猫兵啊",
+      "onboard_time": 1757033423,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 115447,
@@ -9836,7 +10060,7 @@
     },
     {
       "raw_hot": 108879,
-      "num": 122943,
+      "num": 175113,
       "word": "731首日排片占比超99.7%",
       "onboard_time": 1757027360,
       "rank": 9,
@@ -9857,6 +10081,14 @@
       "onboard_time": 1756617921,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108696,
+      "num": 108696,
+      "word": "有问必答是人际交往的大忌",
+      "onboard_time": 1757032582,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 108510,
@@ -10235,6 +10467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104246,
+      "num": 104246,
+      "word": "中国银联终止花旗银行成员资格",
+      "onboard_time": 1757032401,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104195,
       "num": 175839,
       "word": "三大运营商回应是否支持eSIM版iPhone",
@@ -10305,6 +10545,14 @@
       "onboard_time": 1756698801,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102668,
+      "num": 102668,
+      "word": "成都双子塔致敬詹姆斯",
+      "onboard_time": 1757036421,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 102636,
@@ -10851,6 +11099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94988,
+      "num": 94988,
+      "word": "为什么是这80面战旗",
+      "onboard_time": 1757036780,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94930,
       "num": 230205,
       "word": "蛟龙行动特别版今日上映",
@@ -11001,6 +11257,14 @@
       "onboard_time": 1756998144,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93180,
+      "num": 93180,
+      "word": "字节二季度100名员工触犯红线被辞",
+      "onboard_time": 1757032161,
+      "rank": 43,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 92803,
@@ -11179,6 +11443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 91158,
+      "num": 91158,
+      "word": "字节8人涉嫌刑事犯罪被移交司法",
+      "onboard_time": 1757034082,
+      "rank": 44,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 91073,
       "num": 91073,
       "word": "许昕真的回家了",
@@ -11331,6 +11603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88921,
+      "num": 151815,
+      "word": "周安信第二",
+      "onboard_time": 1757036121,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88900,
       "num": 88900,
       "word": "肖战期待你们的江南之旅",
@@ -11393,6 +11673,14 @@
       "onboard_time": 1756615341,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88204,
+      "num": 88204,
+      "word": "Somebody被曝联手表哥操纵比赛牟利",
+      "onboard_time": 1757036541,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 88197,
@@ -11473,6 +11761,14 @@
       "onboard_time": 1756627401,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87528,
+      "num": 87528,
+      "word": "猫 刚刚哈那一下是卡嗓子了",
+      "onboard_time": 1757033302,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 87489,
@@ -11689,6 +11985,14 @@
       "onboard_time": 1756964362,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85951,
+      "num": 85951,
+      "word": "陈妍希颖儿曾想帮景甜找对象",
+      "onboard_time": 1757032463,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 85774,
@@ -11953,6 +12257,14 @@
       "onboard_time": 1756708941,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83111,
+      "num": 83111,
+      "word": "中国九三阅兵举世瞩目",
+      "onboard_time": 1757033302,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83025,
@@ -12371,6 +12683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78004,
+      "num": 151467,
+      "word": "苏新皓演唱会前拍的照片",
+      "onboard_time": 1757034980,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77726,
       "num": 173426,
       "word": "小孩姐一句话保住姥姥全部养老钱",
@@ -12769,6 +13089,14 @@
       "onboard_time": 1756655542,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72417,
+      "num": 77149,
+      "word": "宋茜出道十六周年",
+      "onboard_time": 1757033001,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 72304,
@@ -13652,7 +13980,7 @@
     },
     {
       "raw_hot": 54777,
-      "num": 549270,
+      "num": 807597,
       "word": "胜利日阅兵盛况定格留念",
       "onboard_time": 1756967002,
       "rank": 20,
@@ -14089,14 +14417,6 @@
       "onboard_time": 1756719201,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 38900,
-      "num": 76463,
-      "word": "小哥俩10年3次屋顶看阅兵",
-      "onboard_time": 1757028318,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38429,
