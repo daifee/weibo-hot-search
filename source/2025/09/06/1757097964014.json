@@ -1,0 +1,410 @@
+{
+  "runTime": 1757097964014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 234013,
+        "num": 234013,
+        "word": "教体局回应一中学新初一共94个班",
+        "onboard_time": 1757091258,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100302,
+        "num": 100302,
+        "word": "张亮退出张亮麻辣烫股东行列",
+        "onboard_time": 1757078241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6934,
+        "num": 70662,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62112,
+        "num": 62112,
+        "word": "侵华日军疯狂屠杀三天制造厂窖惨案",
+        "onboard_time": 1757088921,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60988,
+        "num": 60988,
+        "word": "王玉雯说父母比同龄人父母年长很多",
+        "onboard_time": 1757088262,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56607,
+        "num": 56607,
+        "word": "金正恩中国行再次证明一件事",
+        "onboard_time": 1757080883,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49024,
+        "num": 49024,
+        "word": "揭秘新华社神图是怎么拍的",
+        "onboard_time": 1757088021,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48821,
+        "num": 48821,
+        "word": "VOGUE销量隐藏",
+        "onboard_time": 1757081964,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48195,
+        "num": 48195,
+        "word": "刘亦菲迪丽热巴热聊",
+        "onboard_time": 1757078962,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28550,
+        "num": 48060,
+        "word": "武契奇说中国阅兵让人很有安全感",
+        "onboard_time": 1757087721,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282075,
+        "num": 47767,
+        "word": "关晓彤听分手歌100多遍鹿晗知道吗",
+        "onboard_time": 1757080644,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216290,
+        "num": 47682,
+        "word": "赵樱子自曝男友是一线男明星",
+        "onboard_time": 1757084903,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91169,
+        "num": 47423,
+        "word": "这届网友保密意识很强",
+        "onboard_time": 1757092217,
+        "rank": 12,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 80849,
+        "num": 47026,
+        "word": "辛芷蕾胸前好大一朵玫瑰",
+        "onboard_time": 1757083463,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73384,
+        "num": 46925,
+        "word": "杭州一酒馆女舞者表演被指擦边",
+        "onboard_time": 1757077221,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60851,
+        "num": 46655,
+        "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
+        "onboard_time": 1757086822,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46417,
+        "num": 46417,
+        "word": "3问千万网红只卖了58双鞋",
+        "onboard_time": 1757079262,
+        "rank": 16,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 45757,
+        "num": 45757,
+        "word": "为什么我们不害怕中元节了",
+        "onboard_time": 1757075901,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41722,
+        "num": 41722,
+        "word": "华人女孩在悉尼遭多名少女殴打",
+        "onboard_time": 1757083762,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40164,
+        "num": 40164,
+        "word": "VOGUE",
+        "onboard_time": 1757068942,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 55278,
+        "num": 39316,
+        "word": "马思纯的字",
+        "onboard_time": 1757068161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37525,
+        "num": 37525,
+        "word": "蔡徐坤自拍",
+        "onboard_time": 1757087001,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36153,
+        "num": 36153,
+        "word": "刘冲杨幂张小斐聚会",
+        "onboard_time": 1757076501,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31995,
+        "num": 36151,
+        "word": "医院回应最快女护士被解聘或调岗",
+        "onboard_time": 1757067322,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27838,
+        "num": 36148,
+        "word": "山东一中学初一新生94个班",
+        "onboard_time": 1757085682,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26247,
+        "num": 36143,
+        "word": "王俊凯去了轻于鸿毛首映礼",
+        "onboard_time": 1757073622,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25905,
+        "num": 36138,
+        "word": "杨幂张小斐 从校服到礼服",
+        "onboard_time": 1757075901,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25574,
+        "num": 36134,
+        "word": "桃李面包后续宣发将由年轻人接管",
+        "onboard_time": 1757083463,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25346,
+        "num": 36130,
+        "word": "鹿晗火力全开了",
+        "onboard_time": 1757079201,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23767,
+        "num": 36127,
+        "word": "易烊千玺二巡",
+        "onboard_time": 1757080583,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26431,
+        "num": 36119,
+        "word": "淘宝崩了",
+        "onboard_time": 1757080282,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25291,
+        "num": 36117,
+        "word": "美国拘捕300名韩国人",
+        "onboard_time": 1757085563,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24652,
+        "num": 36111,
+        "word": "喻言好美",
+        "onboard_time": 1757085622,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24580,
+        "num": 36107,
+        "word": "炎亚纶纯恨",
+        "onboard_time": 1757066121,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24422,
+        "num": 36104,
+        "word": "字节实习生一天领13份餐被通报",
+        "onboard_time": 1757069900,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23434,
+        "num": 36101,
+        "word": "阅兵和平鸽下班50多小时刚到家",
+        "onboard_time": 1757075180,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22744,
+        "num": 36098,
+        "word": "阎鹤祥花46块7买了一个岛",
+        "onboard_time": 1757084361,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22693,
+        "num": 36092,
+        "word": "杨幂热巴说马思纯瘦了",
+        "onboard_time": 1757075361,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 22125,
+        "num": 36088,
+        "word": "杭州通报酒馆营销活动涉嫌擦边",
+        "onboard_time": 1757087602,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 21790,
+        "num": 36084,
+        "word": "外媒酸中国装备没实战翻车",
+        "onboard_time": 1757060962,
+        "rank": 39,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 21262,
+        "num": 36078,
+        "word": "香港夫妇被东北菜量震惊",
+        "onboard_time": 1757087122,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20788,
+        "num": 36077,
+        "word": "王晶谈赵丽颖能红原因",
+        "onboard_time": 1757086102,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19803,
+        "num": 36068,
+        "word": "辛芷蕾扛住了外媒镜头",
+        "onboard_time": 1757083523,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19553,
+        "num": 36064,
+        "word": "老人讲述日军屠杀细节字字泣血",
+        "onboard_time": 1757095636,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19198,
+        "num": 36063,
+        "word": "黄金",
+        "onboard_time": 1757083163,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18819,
+        "num": 36059,
+        "word": "阅兵结束军民同框",
+        "onboard_time": 1757084844,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18393,
+        "num": 36053,
+        "word": "田栩宁 费加罗",
+        "onboard_time": 1757073020,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18237,
+        "num": 36051,
+        "word": "阅兵结束拆座椅",
+        "onboard_time": 1757063542,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14490,
+        "num": 36045,
+        "word": "王楚钦的北大开学plog",
+        "onboard_time": 1757079141,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12700,
+        "num": 36041,
+        "word": "林孝埈亮相国家队选拔赛",
+        "onboard_time": 1757080342,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#党旗所指正是军旗所向#"
+    }
+  }
+}
