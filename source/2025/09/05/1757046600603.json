@@ -1,0 +1,410 @@
+{
+  "runTime": 1757046600603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 652830,
+        "num": 1104452,
+        "word": "儿童火车票有新规定了",
+        "onboard_time": 1757041640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412374,
+        "num": 412374,
+        "word": "金正恩乘专列离京返程",
+        "onboard_time": 1757031800,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9590,
+        "num": 404415,
+        "word": "九三阅兵又有新机位解锁",
+        "onboard_time": 1756992144,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 882993,
+        "num": 395945,
+        "word": "花5万请千万网红带货只卖出58双鞋",
+        "onboard_time": 1757042361,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442068,
+        "num": 387143,
+        "word": "田栩宁执伞破风大片",
+        "onboard_time": 1757041101,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1432253,
+        "num": 370489,
+        "word": "桃李面包广告 没饱尝过生活的毒打",
+        "onboard_time": 1757043323,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720008,
+        "num": 369818,
+        "word": "马克龙宣布26国将向乌克兰部署军队",
+        "onboard_time": 1757040320,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 359510,
+        "num": 359510,
+        "word": "男子诋毁九三阅兵被拘",
+        "onboard_time": 1756993284,
+        "rank": 7,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 323363,
+        "num": 323363,
+        "word": "全球第二大网红无语哥中国行官宣",
+        "onboard_time": 1757044762,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261116,
+        "num": 261116,
+        "word": "VOGUE金九单人封面",
+        "onboard_time": 1757046144,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1374478,
+        "num": 260308,
+        "word": "李兰迪裤子 女装也是完了",
+        "onboard_time": 1757043021,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1352415,
+        "num": 259477,
+        "word": "黄子韬第一次加徐艺洋就觉得是未来老婆",
+        "onboard_time": 1757041881,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717303,
+        "num": 257467,
+        "word": "学生午休居然进化成这样了",
+        "onboard_time": 1757042119,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 694004,
+        "num": 257024,
+        "word": "张维伊背的是董璇的包吗",
+        "onboard_time": 1757044462,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255684,
+        "num": 255684,
+        "word": "肖战阿云嘎领导对节目卫生可还满意",
+        "onboard_time": 1757043081,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11976,
+        "num": 255640,
+        "word": "高空视角看核导弹东风5C",
+        "onboard_time": 1756996704,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 545949,
+        "num": 255320,
+        "word": "马頔李纯牵手散步",
+        "onboard_time": 1757043681,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444766,
+        "num": 255087,
+        "word": "5人策划低俗求婚剧本被拘",
+        "onboard_time": 1757036421,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172922,
+        "num": 255052,
+        "word": "张予曦红毯神图",
+        "onboard_time": 1757042541,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74351,
+        "num": 254762,
+        "word": "北京鸽友给自家鸽子开阅兵总结会",
+        "onboard_time": 1757045422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506436,
+        "num": 254501,
+        "word": "杨幂 拿奖了给何晟铭跪下",
+        "onboard_time": 1757031321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433545,
+        "num": 254348,
+        "word": "你以为很卫生其实巨脏的行为",
+        "onboard_time": 1757041041,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 368531,
+        "num": 254066,
+        "word": "曝明星化妆师平均八万一次",
+        "onboard_time": 1757045122,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341808,
+        "num": 253868,
+        "word": "被诬陷地铁偷拍男子二审仍求道歉",
+        "onboard_time": 1757038221,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253818,
+        "num": 253818,
+        "word": "特朗普拟将五角大楼更名为战争部",
+        "onboard_time": 1757043260,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22597,
+        "num": 214911,
+        "word": "刘德华谈开合间见非凡",
+        "onboard_time": 1757045903,
+        "rank": 25,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 39254,
+        "num": 214228,
+        "word": "韩一男子一个月2次袭击中国游客",
+        "onboard_time": 1757046324,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214049,
+        "num": 214049,
+        "word": "火锅店广告 胸大打折",
+        "onboard_time": 1757044762,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197347,
+        "num": 209441,
+        "word": "记者调查千万网红带货成交量之谜",
+        "onboard_time": 1757041941,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63085,
+        "num": 208929,
+        "word": "井柏然孙千新剧连呼吸都在going",
+        "onboard_time": 1757046443,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208757,
+        "num": 208757,
+        "word": "同事上午入职中午离职",
+        "onboard_time": 1757042781,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107841,
+        "num": 208459,
+        "word": "马杜罗称中国已是世界顶尖强国",
+        "onboard_time": 1757045723,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208309,
+        "num": 208309,
+        "word": "网易云 教师节",
+        "onboard_time": 1757045843,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194752,
+        "num": 194752,
+        "word": "建议还是给孩子办走读吧",
+        "onboard_time": 1757045302,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167923,
+        "num": 190074,
+        "word": "易烊千玺刮痧后洗了热水澡",
+        "onboard_time": 1757046144,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185729,
+        "num": 185729,
+        "word": "受阅战车里为什么有一双崭新皮鞋",
+        "onboard_time": 1757044402,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179151,
+        "num": 179151,
+        "word": "普京称将回应中国对俄试行免签",
+        "onboard_time": 1757032942,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178278,
+        "num": 178278,
+        "word": "女子在医院做微创手术脑死亡离世",
+        "onboard_time": 1757032285,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141866,
+        "num": 174632,
+        "word": "给贺峻霖想出贺俊脸的人是天才",
+        "onboard_time": 1757046023,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107384,
+        "num": 173535,
+        "word": "吴磊空降金九",
+        "onboard_time": 1757046083,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149586,
+        "num": 173532,
+        "word": "早春晴朗",
+        "onboard_time": 1757038941,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173532,
+        "num": 173531,
+        "word": "特朗普发布与普京的合影",
+        "onboard_time": 1757046144,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173014,
+        "num": 173014,
+        "word": "梅西说不会参加2030年世界杯",
+        "onboard_time": 1757044642,
+        "rank": 42,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 169831,
+        "num": 169831,
+        "word": "毕雯珺张予曦 惹了哄哄完惹",
+        "onboard_time": 1757045843,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165327,
+        "num": 165327,
+        "word": "易烊千玺身体状况不理想",
+        "onboard_time": 1757031682,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164607,
+        "num": 164607,
+        "word": "田栩宁Metal杂志25个国家发行",
+        "onboard_time": 1757045183,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151745,
+        "num": 151745,
+        "word": "WMA微博音乐盛典",
+        "onboard_time": 1757041461,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149408,
+        "num": 149408,
+        "word": "香港明星团观阅兵泪目",
+        "onboard_time": 1757043982,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143835,
+        "num": 143835,
+        "word": "阅兵当天给30桌客人免单老板发声",
+        "onboard_time": 1757045244,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138998,
+        "num": 138998,
+        "word": "詹姆斯冒雨打高尔夫球",
+        "onboard_time": 1757046202,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#双手相握里有家国民族之重#"
+    }
+  }
+}
