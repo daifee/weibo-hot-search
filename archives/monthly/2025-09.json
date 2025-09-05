@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757114544680,
+  "endTime": 1757115402204,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1724,7 +1724,7 @@
     },
     {
       "raw_hot": 659433,
-      "num": 806915,
+      "num": 914165,
       "word": "教体局回应一中学新初一共94个班",
       "onboard_time": 1757091258,
       "rank": 7,
@@ -2891,6 +2891,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 431922,
+      "num": 431922,
+      "word": "美国拘捕300名韩国人",
+      "onboard_time": 1757085563,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 430686,
       "num": 916579,
       "word": "多国政要与抗战老战士握手",
@@ -2937,14 +2945,6 @@
       "onboard_time": 1756703542,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 424149,
-      "num": 424149,
-      "word": "美国拘捕300名韩国人",
-      "onboard_time": 1757085563,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 423521,
@@ -3307,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376286,
+      "num": 376286,
+      "word": "杭州22岁女兵受阅特警爸嘴角压不住",
+      "onboard_time": 1757112496,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 375831,
       "num": 383203,
       "word": "中英日三语种主题片胜利",
@@ -3344,14 +3352,6 @@
       "word": "中国排面怎么截图都是一个帅",
       "onboard_time": 1756863865,
       "rank": 26,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 367785,
-      "num": 367785,
-      "word": "杭州22岁女兵受阅特警爸嘴角压不住",
-      "onboard_time": 1757112496,
-      "rank": 3,
       "category": "国内时政"
     },
     {
@@ -3683,6 +3683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331818,
+      "num": 129988,
+      "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
+      "onboard_time": 1757086822,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331622,
       "num": 331622,
       "word": "美防长谈九三阅兵",
@@ -3737,6 +3745,14 @@
       "onboard_time": 1756896685,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 327746,
+      "num": 115474,
+      "word": "俄方要求日本完全承认二战结果",
+      "onboard_time": 1757113096,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 327681,
@@ -4155,6 +4171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 284848,
+      "num": 189783,
+      "word": "杨幂张小斐 从校服到礼服",
+      "onboard_time": 1757075901,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 284557,
       "num": 402964,
       "word": "献鱼大结局",
@@ -4169,14 +4193,6 @@
       "onboard_time": 1757075302,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283974,
-      "num": 129988,
-      "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
-      "onboard_time": 1757086822,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283827,
@@ -4803,6 +4819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241641,
+      "num": 193954,
+      "word": "3问千万网红只卖了58双鞋",
+      "onboard_time": 1757079262,
+      "rank": 48,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 241301,
       "num": 241301,
       "word": "歼10 祈年殿",
@@ -4969,6 +4993,14 @@
       "onboard_time": 1756816761,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233713,
+      "num": 108763,
+      "word": "人到中年体味变大的真相",
+      "onboard_time": 1757114659,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 233047,
@@ -5163,14 +5195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 218857,
-      "num": 189783,
-      "word": "杨幂张小斐 从校服到礼服",
-      "onboard_time": 1757075901,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 218844,
       "num": 197502,
       "word": "心动offer真的给我打电话了",
@@ -5249,14 +5273,6 @@
       "onboard_time": 1756956682,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214134,
-      "num": 193954,
-      "word": "3问千万网红只卖了58双鞋",
-      "onboard_time": 1757079262,
-      "rank": 48,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 214049,
@@ -6025,14 +6041,6 @@
       "onboard_time": 1756704022,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188905,
-      "num": 62281,
-      "word": "俄方要求日本完全承认二战结果",
-      "onboard_time": 1757113096,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 188775,
@@ -9123,6 +9131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 124658,
+      "num": 118388,
+      "word": "阎鹤祥花46块7买了一个岛",
+      "onboard_time": 1757084361,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124290,
       "num": 211572,
       "word": "A股成交额2.75万亿缩量483亿",
@@ -9897,6 +9913,14 @@
       "onboard_time": 1757076081,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112837,
+      "num": 112837,
+      "word": "顾茜茜复播",
+      "onboard_time": 1757114478,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 112835,
@@ -10755,20 +10779,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 102627,
+      "num": 102627,
+      "word": "7个月幼崽看爸爸玩手机两眼放光",
+      "onboard_time": 1757115019,
+      "rank": 23,
+      "category": "母婴育儿,民生新闻"
+    },
+    {
       "raw_hot": 102421,
       "num": 102421,
       "word": "天安门广场上空看现场",
       "onboard_time": 1756855100,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 102121,
-      "num": 102121,
-      "word": "阎鹤祥花46块7买了一个岛",
-      "onboard_time": 1757084361,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 102044,
@@ -12747,6 +12771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74938,
+      "num": 74938,
+      "word": "武契奇称将很快对中国进行国事访问",
+      "onboard_time": 1757109194,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74847,
       "num": 106698,
       "word": "中国博主在国外帮游客找到坠崖儿子",
@@ -13105,6 +13137,14 @@
       "onboard_time": 1756654642,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67723,
+      "num": 104011,
+      "word": "美网",
+      "onboard_time": 1756770740,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67629,
@@ -13523,14 +13563,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 59231,
-      "num": 104011,
-      "word": "美网",
-      "onboard_time": 1756770740,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 59027,
       "num": 87466,
       "word": "意大利女排34连胜",
@@ -13585,14 +13617,6 @@
       "onboard_time": 1756977682,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57630,
-      "num": 57630,
-      "word": "武契奇称将很快对中国进行国事访问",
-      "onboard_time": 1757109194,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57405,
@@ -13755,6 +13779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54774,
+      "num": 102593,
+      "word": "中餐厅",
+      "onboard_time": 1757115137,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54404,
       "num": 120226,
       "word": "国羽女双世锦赛四连冠",
@@ -13787,12 +13819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53964,
+      "num": 53964,
+      "word": "家长别送孩子赶高铁了",
+      "onboard_time": 1757112556,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53572,
       "num": 61886,
       "word": "羽毛球世锦赛男双",
       "onboard_time": 1756682238,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52813,
+      "num": 66165,
+      "word": "美国战争部",
+      "onboard_time": 1757115258,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52454,
@@ -13841,14 +13889,6 @@
       "onboard_time": 1756735822,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 51579,
-      "num": 51579,
-      "word": "顾茜茜复播",
-      "onboard_time": 1757114478,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 50993,
@@ -14059,12 +14099,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44225,
-      "num": 44225,
-      "word": "家长别送孩子赶高铁了",
-      "onboard_time": 1757112556,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 44606,
+      "num": 117682,
+      "word": "特朗普称很快将与普京通话",
+      "onboard_time": 1757114298,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44204,
@@ -14497,14 +14537,6 @@
       "onboard_time": 1757068582,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29388,
-      "num": 63318,
-      "word": "特朗普称很快将与普京通话",
-      "onboard_time": 1757114298,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28442,

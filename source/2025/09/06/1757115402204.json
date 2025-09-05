@@ -1,0 +1,410 @@
+{
+  "runTime": 1757115402204,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 651035,
+        "num": 914165,
+        "word": "教体局回应一中学新初一共94个班",
+        "onboard_time": 1757091258,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431922,
+        "num": 431922,
+        "word": "美国拘捕300名韩国人",
+        "onboard_time": 1757085563,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11890,
+        "num": 388678,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376286,
+        "num": 376286,
+        "word": "杭州22岁女兵受阅特警爸嘴角压不住",
+        "onboard_time": 1757112496,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297254,
+        "num": 297254,
+        "word": "呼吁开除最快女护士言论越界了",
+        "onboard_time": 1757101274,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186184,
+        "num": 186184,
+        "word": "王玉雯说父母比同龄人父母年长很多",
+        "onboard_time": 1757088262,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170032,
+        "num": 170032,
+        "word": "金正恩中国行再次证明一件事",
+        "onboard_time": 1757080883,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118713,
+        "num": 118713,
+        "word": "侵华日军疯狂屠杀三天制造厂窖惨案",
+        "onboard_time": 1757088921,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124658,
+        "num": 118388,
+        "word": "阎鹤祥花46块7买了一个岛",
+        "onboard_time": 1757084361,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44606,
+        "num": 117682,
+        "word": "特朗普称很快将与普京通话",
+        "onboard_time": 1757114298,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 741963,
+        "num": 117195,
+        "word": "关晓彤听分手歌100多遍鹿晗知道吗",
+        "onboard_time": 1757080644,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543073,
+        "num": 116544,
+        "word": "赵樱子自曝男友是一线男明星",
+        "onboard_time": 1757084903,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331818,
+        "num": 115926,
+        "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
+        "onboard_time": 1757086822,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327746,
+        "num": 115474,
+        "word": "俄方要求日本完全承认二战结果",
+        "onboard_time": 1757113096,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284848,
+        "num": 114749,
+        "word": "杨幂张小斐 从校服到礼服",
+        "onboard_time": 1757075901,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259840,
+        "num": 114495,
+        "word": "杭州一酒馆女舞者表演被指擦边",
+        "onboard_time": 1757077221,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241641,
+        "num": 113926,
+        "word": "3问千万网红只卖了58双鞋",
+        "onboard_time": 1757079262,
+        "rank": 16,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 149291,
+        "num": 113363,
+        "word": "辛芷蕾胸前好大一朵玫瑰",
+        "onboard_time": 1757083463,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112837,
+        "num": 112837,
+        "word": "顾茜茜复播",
+        "onboard_time": 1757114478,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 88414,
+        "num": 109722,
+        "word": "刘亦菲迪丽热巴热聊",
+        "onboard_time": 1757078962,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233713,
+        "num": 108763,
+        "word": "人到中年体味变大的真相",
+        "onboard_time": 1757114659,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 142763,
+        "num": 108534,
+        "word": "华人女孩在悉尼遭多名少女殴打",
+        "onboard_time": 1757083762,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107699,
+        "num": 107699,
+        "word": "为什么我们不害怕中元节了",
+        "onboard_time": 1757075901,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102627,
+        "num": 102627,
+        "word": "7个月幼崽看爸爸玩手机两眼放光",
+        "onboard_time": 1757115019,
+        "rank": 23,
+        "category": "母婴育儿,民生新闻"
+      },
+      {
+        "raw_hot": 54774,
+        "num": 102593,
+        "word": "中餐厅",
+        "onboard_time": 1757115137,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102576,
+        "num": 102576,
+        "word": "阅兵和平鸽下班50多小时刚到家",
+        "onboard_time": 1757075180,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91457,
+        "num": 91457,
+        "word": "张亮退出张亮麻辣烫股东行列",
+        "onboard_time": 1757078241,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74938,
+        "num": 74938,
+        "word": "武契奇称将很快对中国进行国事访问",
+        "onboard_time": 1757109194,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44765,
+        "num": 69917,
+        "word": "VOGUE销量隐藏",
+        "onboard_time": 1757081964,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43252,
+        "num": 69705,
+        "word": "井迪官宣我家那闺女",
+        "onboard_time": 1757084183,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69572,
+        "num": 69572,
+        "word": "王晶谈赵丽颖能红原因",
+        "onboard_time": 1757086102,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68131,
+        "num": 68131,
+        "word": "桃李面包后续宣发将由年轻人接管",
+        "onboard_time": 1757083463,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67723,
+        "num": 67723,
+        "word": "美网",
+        "onboard_time": 1757114538,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52813,
+        "num": 66165,
+        "word": "美国战争部",
+        "onboard_time": 1757115258,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65581,
+        "num": 65581,
+        "word": "山东一中学初一新生94个班",
+        "onboard_time": 1757085682,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61064,
+        "num": 61064,
+        "word": "医院回应最快女护士被解聘或调岗",
+        "onboard_time": 1757067322,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57561,
+        "num": 57561,
+        "word": "香港夫妇被东北菜量震惊",
+        "onboard_time": 1757087122,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57414,
+        "num": 57414,
+        "word": "阅兵结束拆座椅",
+        "onboard_time": 1757063542,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53964,
+        "num": 53964,
+        "word": "家长别送孩子赶高铁了",
+        "onboard_time": 1757112556,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42181,
+        "num": 49996,
+        "word": "易烊千玺二巡",
+        "onboard_time": 1757080583,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48201,
+        "num": 48201,
+        "word": "阿尔卡拉斯晋级美网决赛",
+        "onboard_time": 1757113517,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46212,
+        "num": 46212,
+        "word": "外媒酸中国装备没实战翻车",
+        "onboard_time": 1757060962,
+        "rank": 41,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 43740,
+        "num": 43740,
+        "word": "刘冲杨幂张小斐聚会",
+        "onboard_time": 1757076501,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43441,
+        "num": 43441,
+        "word": "揭秘新华社神图是怎么拍的",
+        "onboard_time": 1757088021,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43371,
+        "num": 43371,
+        "word": "字节实习生一天领13份餐被通报",
+        "onboard_time": 1757069900,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39170,
+        "num": 43371,
+        "word": "鹿晗火力全开了",
+        "onboard_time": 1757079201,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36695,
+        "num": 43360,
+        "word": "这届网友保密意识很强",
+        "onboard_time": 1757092217,
+        "rank": 46,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 40872,
+        "num": 43355,
+        "word": "杨幂热巴说马思纯瘦了",
+        "onboard_time": 1757075361,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36396,
+        "num": 43350,
+        "word": "武契奇说中国阅兵让人很有安全感",
+        "onboard_time": 1757087721,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35291,
+        "num": 43349,
+        "word": "淘宝崩了",
+        "onboard_time": 1757080282,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#党旗所指正是军旗所向#"
+    }
+  }
+}

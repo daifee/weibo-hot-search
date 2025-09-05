@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757114544680,
+  "endTime": 1757115402204,
   "band_list": [
     {
       "raw_hot": 1394387,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 659433,
-      "num": 806915,
+      "num": 914165,
       "word": "教体局回应一中学新初一共94个班",
       "onboard_time": 1757091258,
       "rank": 7,
@@ -43,8 +43,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 424149,
-      "num": 424149,
+      "raw_hot": 431922,
+      "num": 431922,
       "word": "美国拘捕300名韩国人",
       "onboard_time": 1757085563,
       "rank": 38,
@@ -59,8 +59,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 367785,
-      "num": 367785,
+      "raw_hot": 376286,
+      "num": 376286,
       "word": "杭州22岁女兵受阅特警爸嘴角压不住",
       "onboard_time": 1757112496,
       "rank": 3,
@@ -81,6 +81,22 @@
       "onboard_time": 1757083463,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 331818,
+      "num": 129988,
+      "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
+      "onboard_time": 1757086822,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327746,
+      "num": 115474,
+      "word": "俄方要求日本完全承认二战结果",
+      "onboard_time": 1757113096,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 327681,
@@ -115,12 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283974,
-      "num": 129988,
-      "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
-      "onboard_time": 1757086822,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 284848,
+      "num": 114749,
+      "word": "杨幂张小斐 从校服到礼服",
+      "onboard_time": 1757075901,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 266096,
@@ -139,28 +155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241641,
+      "num": 127786,
+      "word": "3问千万网红只卖了58双鞋",
+      "onboard_time": 1757079262,
+      "rank": 25,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 233713,
+      "num": 108763,
+      "word": "人到中年体味变大的真相",
+      "onboard_time": 1757114659,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 225454,
       "num": 111829,
       "word": "淘宝崩了",
       "onboard_time": 1757080282,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 214352,
-      "num": 101952,
-      "word": "杨幂张小斐 从校服到礼服",
-      "onboard_time": 1757075901,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 214134,
-      "num": 127786,
-      "word": "3问千万网红只卖了58双鞋",
-      "onboard_time": 1757079262,
-      "rank": 25,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 209981,
@@ -177,14 +193,6 @@
       "onboard_time": 1757088262,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188905,
-      "num": 62281,
-      "word": "俄方要求日本完全承认二战结果",
-      "onboard_time": 1757113096,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 180016,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124658,
+      "num": 118388,
+      "word": "阎鹤祥花46块7买了一个岛",
+      "onboard_time": 1757084361,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121493,
       "num": 121493,
       "word": "王楚钦的北大开学plog",
@@ -307,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 112837,
+      "num": 112837,
+      "word": "顾茜茜复播",
+      "onboard_time": 1757114478,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 111772,
       "num": 111772,
       "word": "杭州通报酒馆营销活动涉嫌擦边",
@@ -323,12 +347,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 102121,
-      "num": 102121,
-      "word": "阎鹤祥花46块7买了一个岛",
-      "onboard_time": 1757084361,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 102627,
+      "num": 102627,
+      "word": "7个月幼崽看爸爸玩手机两眼放光",
+      "onboard_time": 1757115019,
+      "rank": 23,
+      "category": "母婴育儿,民生新闻"
     },
     {
       "raw_hot": 97522,
@@ -387,6 +411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 74938,
+      "num": 74938,
+      "word": "武契奇称将很快对中国进行国事访问",
+      "onboard_time": 1757109194,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 73327,
       "num": 73327,
       "word": "阅兵结束拆座椅",
@@ -427,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67723,
+      "num": 67723,
+      "word": "美网",
+      "onboard_time": 1757114538,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67110,
       "num": 69235,
       "word": "田栩宁 费加罗",
@@ -435,12 +475,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 57630,
-      "num": 57630,
-      "word": "武契奇称将很快对中国进行国事访问",
-      "onboard_time": 1757109194,
-      "rank": 21,
-      "category": "国内时政"
+      "raw_hot": 54774,
+      "num": 102593,
+      "word": "中餐厅",
+      "onboard_time": 1757115137,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 54189,
@@ -451,12 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51579,
-      "num": 51579,
-      "word": "顾茜茜复播",
-      "onboard_time": 1757114478,
-      "rank": 38,
-      "category": "网红"
+      "raw_hot": 53964,
+      "num": 53964,
+      "word": "家长别送孩子赶高铁了",
+      "onboard_time": 1757112556,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52813,
+      "num": 66165,
+      "word": "美国战争部",
+      "onboard_time": 1757115258,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48577,
@@ -467,12 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44225,
-      "num": 44225,
-      "word": "家长别送孩子赶高铁了",
-      "onboard_time": 1757112556,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 44606,
+      "num": 117682,
+      "word": "特朗普称很快将与普京通话",
+      "onboard_time": 1757114298,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36161,
@@ -489,14 +537,6 @@
       "onboard_time": 1757056701,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29388,
-      "num": 63318,
-      "word": "特朗普称很快将与普京通话",
-      "onboard_time": 1757114298,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25499,
