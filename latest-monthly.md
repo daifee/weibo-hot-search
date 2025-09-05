@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/06 00:28:43
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/06 00:43:35
 </p>
 </blockquote>
 <p>
@@ -5589,6 +5589,12 @@ deepseek也有被问烦的一天（热度：156395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E6%80%9538%E5%B2%81%E5%BC%9F%E5%BC%9F%E5%95%83%E8%80%81%E6%94%B6%E8%B5%B0%E7%88%B6%E4%BA%B2%E9%92%B1%E5%92%8C%E5%8D%A1%23" target="weibo">
+哥哥怕38岁弟弟啃老收走父亲钱和卡（热度：153562）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E6%97%97%E8%A2%8D%23" target="weibo">
 林允旗袍（热度：153537）
 </a>
@@ -6005,12 +6011,6 @@ aespa导播还是太会切屏了（热度：146353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%89%BE%E9%AB%98%E6%94%80%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
 建议大家找高攀不起的工作（热度：143544）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%AA%92%E4%BD%93%E5%8C%85%E9%83%BD%E6%9C%89%E5%95%A5%23" target="weibo">
-九三阅兵媒体包都有啥（热度：143432）
 </a>
 </li>
 
