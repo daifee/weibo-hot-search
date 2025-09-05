@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757083286489,
+  "endTime": 1757085948113,
   "band_list": [
     {
       "raw_hot": 3107032,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 649347,
+      "num": 233071,
+      "word": "赵樱子自曝男友是一线男明星",
+      "onboard_time": 1757084903,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646725,
       "num": 285516,
       "word": "医院回应最快女护士被解聘或调岗",
@@ -371,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 562489,
+      "num": 297882,
+      "word": "杭州一酒馆女舞者表演被指擦边",
+      "onboard_time": 1757077221,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 560071,
       "num": 217279,
       "word": "不如郭敬明",
@@ -427,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 533472,
-      "num": 297882,
-      "word": "杭州一酒馆女舞者表演被指擦边",
-      "onboard_time": 1757077221,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 538386,
+      "num": 538386,
+      "word": "刘亦菲迪丽热巴热聊",
+      "onboard_time": 1757078962,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 533157,
@@ -449,14 +465,6 @@
       "onboard_time": 1757056403,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 523604,
-      "num": 523604,
-      "word": "刘亦菲迪丽热巴热聊",
-      "onboard_time": 1757078962,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 512967,
@@ -667,12 +675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363070,
+      "num": 363070,
+      "word": "金正恩中国行再次证明一件事",
+      "onboard_time": 1757080883,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 354153,
       "num": 605069,
       "word": "普京感谢中国对俄试行免签",
       "onboard_time": 1757035101,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 351731,
+      "num": 351731,
+      "word": "辛芷蕾扛住了外媒镜头",
+      "onboard_time": 1757083523,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 351016,
@@ -803,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275922,
+      "num": 275922,
+      "word": "桃李面包后续宣发将由年轻人接管",
+      "onboard_time": 1757083463,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274769,
       "num": 412600,
       "word": "阅兵后劲真的太大了",
@@ -891,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239241,
-      "num": 239241,
-      "word": "金正恩中国行再次证明一件事",
-      "onboard_time": 1757080883,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 239032,
       "num": 239032,
       "word": "今天又是阅兵戒断失败的一天",
@@ -979,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 223660,
+      "num": 223660,
+      "word": "井迪官宣我家那闺女",
+      "onboard_time": 1757084183,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218857,
       "num": 189783,
       "word": "杨幂张小斐 从校服到礼服",
@@ -993,6 +1025,14 @@
       "onboard_time": 1757042901,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216965,
+      "num": 216965,
+      "word": "辛芷蕾胸前好大一朵玫瑰",
+      "onboard_time": 1757083463,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 214852,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1757076621,
       "rank": 6,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 189887,
+      "num": 189887,
+      "word": "华人女孩在悉尼遭多名少女殴打",
+      "onboard_time": 1757083762,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 187976,
@@ -1603,6 +1651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157107,
+      "num": 157107,
+      "word": "VOGUE销量隐藏",
+      "onboard_time": 1757081964,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 157004,
       "num": 157004,
       "word": "星穹铁道瑞幸周边",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1757060783,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142455,
+      "num": 142455,
+      "word": "外国曹操看阅兵",
+      "onboard_time": 1757084662,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142310,
@@ -2171,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125592,
+      "num": 125592,
+      "word": "川超真来了",
+      "onboard_time": 1757085203,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125316,
       "num": 125316,
       "word": "展轩卡点祝刘轩丞生日快乐",
@@ -2241,14 +2313,6 @@
       "onboard_time": 1757053521,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123714,
-      "num": 123714,
-      "word": "VOGUE销量隐藏",
-      "onboard_time": 1757081964,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 123181,
@@ -2337,6 +2401,14 @@
       "onboard_time": 1757037019,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119140,
+      "num": 119140,
+      "word": "喻言好美",
+      "onboard_time": 1757085622,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 119053,
@@ -2515,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112820,
+      "num": 112820,
+      "word": "易烊千玺网课下课了",
+      "onboard_time": 1757085502,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112812,
       "num": 112812,
       "word": "阅兵复制粘贴名场面已刷N遍",
@@ -2577,6 +2657,14 @@
       "onboard_time": 1757065041,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110743,
+      "num": 110743,
+      "word": "王力宏唱火是因为真的火",
+      "onboard_time": 1757085383,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 110492,
@@ -2723,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105062,
+      "num": 105062,
+      "word": "关晓彤听了大雨落下100多遍",
+      "onboard_time": 1757085383,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104754,
       "num": 149821,
       "word": "阅兵徒步方队治愈强迫症瞬间",
@@ -2827,6 +2923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101101,
+      "num": 101101,
+      "word": "阎鹤祥花46块7买了一个岛",
+      "onboard_time": 1757084361,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100740,
       "num": 207701,
       "word": "外交部回应阿努廷当选泰国总理",
@@ -2899,6 +3003,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 97034,
+      "num": 97034,
+      "word": "张艺兴花艺师体验卡",
+      "onboard_time": 1757085743,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96978,
       "num": 96978,
       "word": "柯文哲以7000万元新台币交保回家",
@@ -2944,6 +3056,14 @@
       "word": "看完阅兵戒断不了一点",
       "onboard_time": 1757056881,
       "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 95992,
+      "num": 95992,
+      "word": "阅兵结束军民同框",
+      "onboard_time": 1757084844,
+      "rank": 45,
       "category": "国内时政"
     },
     {
@@ -3003,6 +3123,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 90223,
+      "num": 90223,
+      "word": "贵州中元节烧纸现场",
+      "onboard_time": 1757084724,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90102,
+      "num": 90102,
+      "word": "没想到还有三花配色的边牧",
+      "onboard_time": 1757085803,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89473,
       "num": 89473,
       "word": "情绪稳定的方法",
@@ -3033,6 +3169,14 @@
       "onboard_time": 1757036541,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88111,
+      "num": 88111,
+      "word": "男子实名举报盲人办到长期驾照",
+      "onboard_time": 1757085143,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87781,
@@ -3315,6 +3459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64744,
+      "num": 110644,
+      "word": "致敬阅兵仪式背后的每个人",
+      "onboard_time": 1757085863,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63488,
       "num": 97341,
       "word": "九三盛大阅兵",
@@ -3371,6 +3523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60791,
+      "num": 175333,
+      "word": "致敬每一位默默坚守的身影",
+      "onboard_time": 1757085263,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 59035,
       "num": 404415,
       "word": "九三阅兵又有新机位解锁",
@@ -3411,12 +3571,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53438,
+      "num": 105185,
+      "word": "美国拘捕300名韩国人",
+      "onboard_time": 1757085563,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50386,
       "num": 97307,
       "word": "央行明日操作1万亿元买断式逆回购",
       "onboard_time": 1756988602,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 50260,
+      "num": 105323,
+      "word": "山东一中学初一新生94个班",
+      "onboard_time": 1757085682,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48899,
