@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757100026476,
+  "endTime": 1757101007783,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -14875,11 +14875,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14306,
+      "num": 22442,
+      "word": "穿破洞裤出门前一定要照镜子",
+      "onboard_time": 1757100974,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14298,
       "num": 25646,
       "word": "抗战老兵看完阅兵说付出值得",
       "onboard_time": 1757013734,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14020,
+      "num": 35540,
+      "word": "这组壁纸安全感满满",
+      "onboard_time": 1757099654,
+      "rank": 15,
       "category": "国内时政"
     },
     {
@@ -14968,14 +14984,6 @@
       "word": "上合要坚持拆墙不筑墙",
       "onboard_time": 1756756633,
       "rank": 13,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11535,
-      "num": 35540,
-      "word": "这组壁纸安全感满满",
-      "onboard_time": 1757099654,
-      "rank": 15,
       "category": "国内时政"
     },
     {
