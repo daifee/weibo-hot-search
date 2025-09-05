@@ -1,0 +1,410 @@
+{
+  "runTime": 1757077393218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 692934,
+        "num": 1110869,
+        "word": "外媒酸中国装备没实战翻车",
+        "onboard_time": 1757060962,
+        "rank": 0,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 501273,
+        "num": 501273,
+        "word": "肯德基冰豆浆比热豆浆贵1元",
+        "onboard_time": 1757071820,
+        "rank": 1,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 51276,
+        "num": 358092,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 349136,
+        "num": 349136,
+        "word": "阅兵结束拆座椅",
+        "onboard_time": 1757063542,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303305,
+        "num": 303305,
+        "word": "罕见红月亮将持续83分钟",
+        "onboard_time": 1757069181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266656,
+        "num": 266656,
+        "word": "中方回应特朗普将国防部改战争部",
+        "onboard_time": 1757065223,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189906,
+        "num": 189906,
+        "word": "非农数据",
+        "onboard_time": 1757076621,
+        "rank": 6,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 171419,
+        "num": 189859,
+        "word": "Demon1 DRG",
+        "onboard_time": 1757072241,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140328,
+        "num": 189528,
+        "word": "复旦食堂 鹅肝汉堡爆火",
+        "onboard_time": 1757065522,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72825,
+        "num": 189125,
+        "word": "看阅兵的最高机位",
+        "onboard_time": 1757076381,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 637094,
+        "num": 188941,
+        "word": "杨幂热巴说马思纯瘦了",
+        "onboard_time": 1757075361,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 484461,
+        "num": 188608,
+        "word": "刘轩丞直播",
+        "onboard_time": 1757073861,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385228,
+        "num": 188456,
+        "word": "田栩宁 费加罗",
+        "onboard_time": 1757073020,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383763,
+        "num": 188004,
+        "word": "字节实习生一天领13份餐被通报",
+        "onboard_time": 1757069900,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 358619,
+        "num": 187861,
+        "word": "宋佳说小酒窝天生吃演艺圈这碗饭",
+        "onboard_time": 1757071281,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325746,
+        "num": 187442,
+        "word": "炎亚纶纯恨",
+        "onboard_time": 1757066121,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320547,
+        "num": 187131,
+        "word": "王俊凯去了轻于鸿毛首映礼",
+        "onboard_time": 1757073622,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286223,
+        "num": 187092,
+        "word": "医院回应最快女护士被解聘或调岗",
+        "onboard_time": 1757067322,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237279,
+        "num": 186738,
+        "word": "刘冲杨幂张小斐聚会",
+        "onboard_time": 1757076501,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218857,
+        "num": 186288,
+        "word": "杨幂张小斐 从校服到礼服",
+        "onboard_time": 1757075901,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 875843,
+        "num": 186062,
+        "word": "马思纯的字",
+        "onboard_time": 1757068161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214362,
+        "num": 185859,
+        "word": "唐嫣这组图含氧量好高",
+        "onboard_time": 1757075302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202147,
+        "num": 185521,
+        "word": "谁给王楚然选的衣服",
+        "onboard_time": 1757065701,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195841,
+        "num": 185385,
+        "word": "VOGUE",
+        "onboard_time": 1757068942,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185154,
+        "num": 185154,
+        "word": "为什么我们不害怕中元节了",
+        "onboard_time": 1757075901,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180261,
+        "num": 180261,
+        "word": "孟子义 姐姐还不够努力",
+        "onboard_time": 1757076860,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171210,
+        "num": 171210,
+        "word": "多方回应酒馆女舞者表演被指擦边",
+        "onboard_time": 1757074461,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128366,
+        "num": 157810,
+        "word": "阅兵后劲真的太大了",
+        "onboard_time": 1757069660,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152091,
+        "num": 152091,
+        "word": "马克龙威胁俄罗斯",
+        "onboard_time": 1757075480,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84307,
+        "num": 147454,
+        "word": "刘冲回应审美质疑",
+        "onboard_time": 1757076921,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147121,
+        "num": 147121,
+        "word": "女子遭前夫殴打致肠破裂住进ICU",
+        "onboard_time": 1757065223,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144303,
+        "num": 144303,
+        "word": "成都机场3秒迟疑后的拥抱看哭全网",
+        "onboard_time": 1757075422,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109682,
+        "num": 135791,
+        "word": "阅兵和平鸽下班50多小时刚到家",
+        "onboard_time": 1757075180,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131346,
+        "num": 131346,
+        "word": "建议大家找高攀不起的工作",
+        "onboard_time": 1757072360,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70269,
+        "num": 128983,
+        "word": "钟点工顺走雇主65万彩钻2万卖掉",
+        "onboard_time": 1757077281,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127773,
+        "num": 127773,
+        "word": "杭州一酒馆女舞者表演被指擦边",
+        "onboard_time": 1757077221,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125930,
+        "num": 125930,
+        "word": "高能量的人是什么样的",
+        "onboard_time": 1757076321,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121290,
+        "num": 121290,
+        "word": "刘冲发文感谢大家",
+        "onboard_time": 1757075060,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115717,
+        "num": 115717,
+        "word": "沈月说姜妍对尹浩宇太双标了",
+        "onboard_time": 1757076202,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114166,
+        "num": 114166,
+        "word": "李兰迪敖瑞鹏两人掰不过闫桉",
+        "onboard_time": 1757073500,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113201,
+        "num": 113201,
+        "word": "华晨宇抢票",
+        "onboard_time": 1757077221,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111400,
+        "num": 111400,
+        "word": "风箫环球之旅plog",
+        "onboard_time": 1757076682,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49696,
+        "num": 110926,
+        "word": "新世代宝马驾趣",
+        "onboard_time": 1757072061,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110730,
+        "num": 110730,
+        "word": "刘亦菲蓝宝石165克拉",
+        "onboard_time": 1757070020,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108255,
+        "num": 108255,
+        "word": "武契奇称阅兵是中国给世界的安全感",
+        "onboard_time": 1757074160,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107863,
+        "num": 107863,
+        "word": "周冬雨闷声做大事",
+        "onboard_time": 1757074281,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107180,
+        "num": 107180,
+        "word": "冯建宇又来汇报了",
+        "onboard_time": 1757076501,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106208,
+        "num": 106208,
+        "word": "刘轩丞饭撒萌的没边了",
+        "onboard_time": 1757076562,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103991,
+        "num": 103991,
+        "word": "小米16提档",
+        "onboard_time": 1757074520,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94213,
+        "num": 102090,
+        "word": "奥迪概念车亮相",
+        "onboard_time": 1757077221,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#党旗所指正是军旗所向#"
+    }
+  }
+}
