@@ -1,0 +1,410 @@
+{
+  "runTime": 1757064425604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1005783,
+        "num": 1160925,
+        "word": "外媒酸中国装备没实战翻车",
+        "onboard_time": 1757060962,
+        "rank": 0,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 440228,
+        "num": 440228,
+        "word": "手术室为什么要用花生米",
+        "onboard_time": 1757052922,
+        "rank": 1,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 54437,
+        "num": 351909,
+        "word": "纯享版九三阅兵解说词",
+        "onboard_time": 1757061742,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 351174,
+        "num": 351174,
+        "word": "脱掉军装女民兵都是大美女",
+        "onboard_time": 1757059402,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266798,
+        "num": 266798,
+        "word": "A股反弹原因",
+        "onboard_time": 1757060362,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229286,
+        "num": 229286,
+        "word": "普京说俄将对等实施对华免签",
+        "onboard_time": 1757054061,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208363,
+        "num": 208363,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199991,
+        "num": 199991,
+        "word": "试验二十九号卫星发射成功",
+        "onboard_time": 1757062941,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82983,
+        "num": 199862,
+        "word": "全球第二大网红无语哥中国行官宣",
+        "onboard_time": 1757044762,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169523,
+        "num": 198377,
+        "word": "阿努廷当选泰国总理",
+        "onboard_time": 1757062821,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1450714,
+        "num": 197774,
+        "word": "金正恩离京时长时间挥手作别",
+        "onboard_time": 1757059281,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 447815,
+        "num": 196821,
+        "word": "桃李面包称领导正接受现实毒打",
+        "onboard_time": 1757055562,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424985,
+        "num": 195887,
+        "word": "李兰迪裤子 女装也是完了",
+        "onboard_time": 1757043021,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185559,
+        "num": 195302,
+        "word": "金正恩乘专列离京独家视频",
+        "onboard_time": 1757052441,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 420658,
+        "num": 194176,
+        "word": "亿万富翁破产后每月需还款6位数",
+        "onboard_time": 1757061682,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295030,
+        "num": 193410,
+        "word": "王栎鑫心脏不适退出xmen舞台",
+        "onboard_time": 1757055262,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279118,
+        "num": 192644,
+        "word": "杨幂还没学会画眼线",
+        "onboard_time": 1757063062,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 244663,
+        "num": 191294,
+        "word": "刘冲 审美",
+        "onboard_time": 1757048721,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213837,
+        "num": 190685,
+        "word": "刘亦菲 宝格丽",
+        "onboard_time": 1757055080,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 93222,
+        "num": 189465,
+        "word": "阅兵结束拆座椅",
+        "onboard_time": 1757063542,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204810,
+        "num": 189240,
+        "word": "三件中国稀世珍宝在法国被盗",
+        "onboard_time": 1757056403,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200136,
+        "num": 188053,
+        "word": "张小斐迪丽热巴双人画报",
+        "onboard_time": 1757053821,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187639,
+        "num": 187639,
+        "word": "三甲医生回应易烊千玺刮痧高烧",
+        "onboard_time": 1757057361,
+        "rank": 22,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 186310,
+        "num": 186310,
+        "word": "不如郭敬明",
+        "onboard_time": 1757062401,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181380,
+        "num": 181380,
+        "word": "张踩铃说罗永浩点评没用",
+        "onboard_time": 1757063422,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166603,
+        "num": 166603,
+        "word": "闫妮说忘了关晓彤姓啥",
+        "onboard_time": 1757049022,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160082,
+        "num": 160082,
+        "word": "王星越休假干了我一年的事",
+        "onboard_time": 1757061501,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149933,
+        "num": 149933,
+        "word": "今天又是阅兵戒断失败的一天",
+        "onboard_time": 1757054721,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145212,
+        "num": 145212,
+        "word": "景甜旗袍",
+        "onboard_time": 1757059582,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72136,
+        "num": 139371,
+        "word": "孙坚曾被何晟铭强吻",
+        "onboard_time": 1757063723,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137287,
+        "num": 137287,
+        "word": "张博恒电竞版颜值暴击",
+        "onboard_time": 1757064021,
+        "rank": 30,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 135319,
+        "num": 135319,
+        "word": "迪丽热巴 西方油画里的女人",
+        "onboard_time": 1757059522,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131112,
+        "num": 131112,
+        "word": "桃李面包为月饼广告致歉",
+        "onboard_time": 1757056161,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129504,
+        "num": 129504,
+        "word": "宋亚轩在沈腾旁边都显得稳重了",
+        "onboard_time": 1757063243,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125339,
+        "num": 125339,
+        "word": "普京看到中国观众秒切中文",
+        "onboard_time": 1757050402,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124682,
+        "num": 124682,
+        "word": "网友给VOGUE群封配文",
+        "onboard_time": 1757061200,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119957,
+        "num": 119957,
+        "word": "VOGUE金九单人封面",
+        "onboard_time": 1757046144,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119574,
+        "num": 119574,
+        "word": "韩庚 我那绝望的老爱豆",
+        "onboard_time": 1757058802,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113135,
+        "num": 113135,
+        "word": "手机向智能化高端化迈进",
+        "onboard_time": 1757062761,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13466,
+        "num": 112868,
+        "word": "什么沙发3个人拥挤4个人刚好",
+        "onboard_time": 1757064262,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115689,
+        "num": 112862,
+        "word": "宝宝入园育儿嫂盯了监控一整天",
+        "onboard_time": 1757062880,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112812,
+        "num": 112812,
+        "word": "阅兵复制粘贴名场面已刷N遍",
+        "onboard_time": 1757061981,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110001,
+        "num": 110001,
+        "word": "第16号台风要来了",
+        "onboard_time": 1757062701,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109822,
+        "num": 109822,
+        "word": "发现颜值焦虑在两广消失了",
+        "onboard_time": 1757059522,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104754,
+        "num": 104754,
+        "word": "阅兵徒步方队治愈强迫症瞬间",
+        "onboard_time": 1757064382,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103300,
+        "num": 103300,
+        "word": "苹果春晚前瞻",
+        "onboard_time": 1757063482,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102748,
+        "num": 102748,
+        "word": "成都给詹姆斯的仪式感",
+        "onboard_time": 1757063122,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102647,
+        "num": 102647,
+        "word": "金正恩乘专列离京返程",
+        "onboard_time": 1757031800,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101847,
+        "num": 101847,
+        "word": "白宫证实美国战争部回来了",
+        "onboard_time": 1757060180,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100218,
+        "num": 100218,
+        "word": "富商立遗嘱10亿美金给内马尔",
+        "onboard_time": 1757058980,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#党旗所指正是军旗所向#"
+    }
+  }
+}
