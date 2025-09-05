@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/05 23:38:25
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/06 00:28:43
 </p>
 </blockquote>
 <p>
@@ -1947,6 +1947,12 @@ A股（热度：494883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E6%9D%8E%E9%9D%A2%E5%8C%85%E5%90%8E%E7%BB%AD%E5%AE%A3%E5%8F%91%E5%B0%86%E7%94%B1%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A5%E7%AE%A1%23" target="weibo">
+桃李面包后续宣发将由年轻人接管（热度：466772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%BF%83%E8%84%8F%E4%B8%8D%E9%80%82%E9%80%80%E5%87%BAxmen%E8%88%9E%E5%8F%B0%23" target="weibo">
 王栎鑫心脏不适退出xmen舞台（热度：465328）
 </a>
@@ -2505,12 +2511,6 @@ A股（热度：494883）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E6%9D%8E%E9%9D%A2%E5%8C%85%E5%90%8E%E7%BB%AD%E5%AE%A3%E5%8F%91%E5%B0%86%E7%94%B1%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A5%E7%AE%A1%23" target="weibo">
-桃李面包后续宣发将由年轻人接管（热度：367477）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%A4%BC%E7%82%AE%E5%BC%B90%E6%B1%A1%E6%9F%93%23" target="weibo">
 阅兵礼炮弹0污染（热度：366514）
 </a>
@@ -2703,6 +2703,12 @@ VOGUE（热度：350760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%82%89%E5%B0%BC%E9%81%AD%E5%A4%9A%E5%90%8D%E5%B0%91%E5%A5%B3%E6%AE%B4%E6%89%93%23" target="weibo">
+华人女孩在悉尼遭多名少女殴打（热度：337360）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%235%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%A4%BC%E7%A6%BB%E5%9C%BA%E5%90%8E%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80%23" target="weibo">
 5万余人观礼离场后干干净净（热度：336633）
 </a>
@@ -2717,6 +2723,12 @@ VOGUE（热度：350760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E4%B9%8B%E6%AD%8C%E5%8F%91%E5%94%AE%23" target="weibo">
 丝之歌发售（热度：335831）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%83%B8%E5%89%8D%E5%A5%BD%E5%A4%A7%E4%B8%80%E6%9C%B5%E7%8E%AB%E7%91%B0%23" target="weibo">
+辛芷蕾胸前好大一朵玫瑰（热度：335776）
 </a>
 </li>
 
@@ -2909,12 +2921,6 @@ VOGUE（热度：350760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%23" target="weibo">
 香港小姐（热度：311729）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%83%B8%E5%89%8D%E5%A5%BD%E5%A4%A7%E4%B8%80%E6%9C%B5%E7%8E%AB%E7%91%B0%23" target="weibo">
-辛芷蕾胸前好大一朵玫瑰（热度：308443）
 </a>
 </li>
 
@@ -3501,6 +3507,12 @@ iPhone17Pro涨价（热度：247271）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%88%9D%E4%B8%80%E6%96%B0%E7%94%9F94%E4%B8%AA%E7%8F%AD%23" target="weibo">
+山东一中学初一新生94个班（热度：246201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E4%B8%BA%E4%BD%95%E8%A6%81%E5%87%86%E5%A4%87%E7%83%AD%E5%A7%9C%E8%8C%B6%23" target="weibo">
 阅兵现场为何要准备热姜茶（热度：245710）
 </a>
@@ -3965,12 +3977,6 @@ VOGUE群像（热度：213053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E8%8A%B1%E5%B0%91%E9%98%B2%E6%92%9E%E6%9D%A1%23" target="weibo">
 李沁花少防撞条（热度：210282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%82%89%E5%B0%BC%E9%81%AD%E5%A4%9A%E5%90%8D%E5%B0%91%E5%A5%B3%E6%AE%B4%E6%89%93%23" target="weibo">
-华人女孩在悉尼遭多名少女殴打（热度：209869）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ aespa导播还是太会切屏了（热度：146353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%AA%92%E4%BD%93%E5%8C%85%E9%83%BD%E6%9C%89%E5%95%A5%23" target="weibo">
 九三阅兵媒体包都有啥（热度：143432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9DC%E4%BD%8D%E9%A2%86%E8%88%9E%E5%A4%A9%E7%94%9F%E4%B8%BB%E8%A7%92%23" target="weibo">
-小酒窝C位领舞天生主角（热度：143017）
 </a>
 </li>
 
