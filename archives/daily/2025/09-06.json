@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757090615424,
+  "endTime": 1757092950858,
   "band_list": [
     {
       "raw_hot": 1394387,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300234,
+      "num": 486943,
+      "word": "侵华日军疯狂屠杀三天制造厂窖惨案",
+      "onboard_time": 1757088921,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 289514,
       "num": 142360,
       "word": "杭州一酒馆女舞者表演被指擦边",
@@ -107,6 +115,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 202145,
+      "num": 129988,
+      "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
+      "onboard_time": 1757086822,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201188,
+      "num": 201188,
+      "word": "王玉雯说父母比同龄人父母年长很多",
+      "onboard_time": 1757088262,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180016,
       "num": 142118,
       "word": "王晶谈赵丽颖能红原因",
@@ -123,20 +147,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 153562,
-      "num": 129988,
-      "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
-      "onboard_time": 1757086822,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149453,
       "num": 141920,
       "word": "为什么我们不害怕中元节了",
       "onboard_time": 1757075901,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146068,
+      "num": 146068,
+      "word": "揭秘新华社神图是怎么拍的",
+      "onboard_time": 1757088021,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143275,
@@ -171,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136216,
+      "num": 136216,
+      "word": "教体局回应一中学新初一共94个班",
+      "onboard_time": 1757091258,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133655,
       "num": 133655,
       "word": "外国曹操看阅兵",
@@ -203,36 +235,12 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 125027,
-      "num": 143242,
-      "word": "侵华日军疯狂屠杀三天制造厂窖惨案",
-      "onboard_time": 1757088921,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 121795,
-      "num": 121795,
-      "word": "揭秘新华社神图是怎么拍的",
-      "onboard_time": 1757088021,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 121493,
       "num": 121493,
       "word": "王楚钦的北大开学plog",
       "onboard_time": 1757079141,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119115,
-      "num": 119115,
-      "word": "王玉雯说父母比同龄人父母年长很多",
-      "onboard_time": 1757088262,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 116942,
@@ -395,11 +403,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40632,
+      "num": 51474,
+      "word": "这届网友保密意识很强",
+      "onboard_time": 1757092217,
+      "rank": 40,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 31054,
       "num": 413405,
       "word": "受阅官兵晒出专属阅兵脸",
       "onboard_time": 1757056701,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 25499,
+      "num": 51413,
+      "word": "林孝埈亮相国家队选拔赛",
+      "onboard_time": 1757080342,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24204,
+      "num": 101252,
+      "word": "缅怀抗战先烈",
+      "onboard_time": 1757092517,
+      "rank": 16,
       "category": "国内时政"
     }
   ],
