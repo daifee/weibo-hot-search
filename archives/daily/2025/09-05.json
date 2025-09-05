@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757085948113,
+  "endTime": 1757086705943,
   "band_list": [
     {
       "raw_hot": 3107032,
@@ -120,6 +120,14 @@
       "word": "马思纯的字",
       "onboard_time": 1757068161,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1169832,
+      "num": 248257,
+      "word": "赵樱子自曝男友是一线男明星",
+      "onboard_time": 1757084903,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -273,14 +281,6 @@
       "onboard_time": 1757055562,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 649347,
-      "num": 233071,
-      "word": "赵樱子自曝男友是一线男明星",
-      "onboard_time": 1757084903,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 646725,
@@ -619,6 +619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 397928,
+      "num": 397928,
+      "word": "辛芷蕾扛住了外媒镜头",
+      "onboard_time": 1757083523,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 397413,
       "num": 582557,
       "word": "受阅官兵晒出专属阅兵脸",
@@ -667,6 +675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 367477,
+      "num": 367477,
+      "word": "桃李面包后续宣发将由年轻人接管",
+      "onboard_time": 1757083463,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364998,
       "num": 364998,
       "word": "成都机场3秒迟疑后的拥抱看哭全网",
@@ -689,14 +705,6 @@
       "onboard_time": 1757035101,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 351731,
-      "num": 351731,
-      "word": "辛芷蕾扛住了外媒镜头",
-      "onboard_time": 1757083523,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 351016,
@@ -787,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308443,
+      "num": 244266,
+      "word": "辛芷蕾胸前好大一朵玫瑰",
+      "onboard_time": 1757083463,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298714,
       "num": 298714,
       "word": "路透社评阅兵新武器被外网网友怒怼",
@@ -825,14 +841,6 @@
       "onboard_time": 1757043081,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275922,
-      "num": 275922,
-      "word": "桃李面包后续宣发将由年轻人接管",
-      "onboard_time": 1757083463,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 274769,
@@ -923,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242188,
+      "num": 242188,
+      "word": "井迪官宣我家那闺女",
+      "onboard_time": 1757084183,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239032,
       "num": 239032,
       "word": "今天又是阅兵戒断失败的一天",
@@ -1003,14 +1019,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 223660,
-      "num": 223660,
-      "word": "井迪官宣我家那闺女",
-      "onboard_time": 1757084183,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218857,
       "num": 189783,
       "word": "杨幂张小斐 从校服到礼服",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1757042901,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216965,
-      "num": 216965,
-      "word": "辛芷蕾胸前好大一朵玫瑰",
-      "onboard_time": 1757083463,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 214852,
@@ -1091,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209869,
+      "num": 209869,
+      "word": "华人女孩在悉尼遭多名少女殴打",
+      "onboard_time": 1757083762,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 208309,
       "num": 208309,
       "word": "网易云 教师节",
@@ -1147,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200535,
+      "num": 200535,
+      "word": "王晶谈赵丽颖能红原因",
+      "onboard_time": 1757086102,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200504,
       "num": 214422,
       "word": "WMA微博音乐盛典",
@@ -1195,20 +1211,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193954,
+      "num": 193954,
+      "word": "3问千万网红只卖了58双鞋",
+      "onboard_time": 1757079262,
+      "rank": 48,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 193908,
       "num": 194999,
       "word": "卢伟冰回应小米16提档",
       "onboard_time": 1757068761,
       "rank": 21,
       "category": "数码"
-    },
-    {
-      "raw_hot": 193511,
-      "num": 193511,
-      "word": "3问千万网红只卖了58双鞋",
-      "onboard_time": 1757079262,
-      "rank": 48,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 193470,
@@ -1257,14 +1273,6 @@
       "onboard_time": 1757076621,
       "rank": 6,
       "category": "财经,国际时政"
-    },
-    {
-      "raw_hot": 189887,
-      "num": 189887,
-      "word": "华人女孩在悉尼遭多名少女殴打",
-      "onboard_time": 1757083762,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 187976,
@@ -1337,6 +1345,14 @@
       "onboard_time": 1757046742,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184471,
+      "num": 184471,
+      "word": "喻言好美",
+      "onboard_time": 1757085622,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 184365,
@@ -1651,8 +1667,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157107,
-      "num": 157107,
+      "raw_hot": 157909,
+      "num": 157909,
       "word": "VOGUE销量隐藏",
       "onboard_time": 1757081964,
       "rank": 47,
@@ -2403,14 +2419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119140,
-      "num": 119140,
-      "word": "喻言好美",
-      "onboard_time": 1757085622,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119053,
       "num": 119053,
       "word": "孙颖莎还有明天",
@@ -2787,6 +2795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106408,
+      "num": 106408,
+      "word": "关晓彤听了大雨落下100多遍",
+      "onboard_time": 1757085383,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106208,
       "num": 106208,
       "word": "刘轩丞饭撒萌的没边了",
@@ -2808,14 +2824,6 @@
       "word": "李承铉对张晋愧疚道歉",
       "onboard_time": 1757053821,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 105062,
-      "num": 105062,
-      "word": "关晓彤听了大雨落下100多遍",
-      "onboard_time": 1757085383,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -3091,6 +3099,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 94494,
+      "num": 94494,
+      "word": "男子实名举报盲人办到长期驾照",
+      "onboard_time": 1757085143,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94197,
+      "num": 105185,
+      "word": "美国拘捕300名韩国人",
+      "onboard_time": 1757085563,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93180,
       "num": 93180,
       "word": "字节二季度100名员工触犯红线被辞",
@@ -3171,14 +3195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 88111,
-      "num": 88111,
-      "word": "男子实名举报盲人办到长期驾照",
-      "onboard_time": 1757085143,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87781,
       "num": 87781,
       "word": "刘轩丞新歌",
@@ -3219,6 +3235,14 @@
       "category": "国内时政,演出"
     },
     {
+      "raw_hot": 86874,
+      "num": 86874,
+      "word": "邓紫棋唱有心人太有感觉了",
+      "onboard_time": 1757086223,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 86120,
       "num": 86120,
       "word": "李沁这个飞吻",
@@ -3251,11 +3275,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 84033,
+      "num": 105323,
+      "word": "山东一中学初一新生94个班",
+      "onboard_time": 1757085682,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83343,
       "num": 83343,
       "word": "东契奇欧锦赛37分",
       "onboard_time": 1757037799,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83311,
+      "num": 83311,
+      "word": "2025F1意大利大奖赛",
+      "onboard_time": 1757086461,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -3361,6 +3401,14 @@
       "onboard_time": 1757033001,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71147,
+      "num": 249336,
+      "word": "致敬每一位默默坚守的身影",
+      "onboard_time": 1757085263,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 70790,
@@ -3523,14 +3571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60791,
-      "num": 175333,
-      "word": "致敬每一位默默坚守的身影",
-      "onboard_time": 1757085263,
-      "rank": 20,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 59035,
       "num": 404415,
       "word": "九三阅兵又有新机位解锁",
@@ -3571,28 +3611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 53438,
-      "num": 105185,
-      "word": "美国拘捕300名韩国人",
-      "onboard_time": 1757085563,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 50386,
       "num": 97307,
       "word": "央行明日操作1万亿元买断式逆回购",
       "onboard_time": 1756988602,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 50260,
-      "num": 105323,
-      "word": "山东一中学初一新生94个班",
-      "onboard_time": 1757085682,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48899,

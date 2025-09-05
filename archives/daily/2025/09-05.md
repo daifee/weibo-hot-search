@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 23:25:48
+本榜单时间：2025/09/05 00:31:17 ~ 2025/09/05 23:38:25
 </p>
 </blockquote>
 <p>
@@ -101,6 +101,12 @@ VOGUE金九单人封面（热度：1230035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%9A%84%E5%AD%97%23" target="weibo">
 马思纯的字（热度：1205809）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E8%87%AA%E6%9B%9D%E7%94%B7%E5%8F%8B%E6%98%AF%E4%B8%80%E7%BA%BF%E7%94%B7%E6%98%8E%E6%98%9F%23" target="weibo">
+赵樱子自曝男友是一线男明星（热度：1169832）
 </a>
 </li>
 
@@ -215,12 +221,6 @@ VOGUE金九单人封面（热度：1230035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E6%9D%8E%E9%9D%A2%E5%8C%85%E7%A7%B0%E9%A2%86%E5%AF%BC%E6%AD%A3%E6%8E%A5%E5%8F%97%E7%8E%B0%E5%AE%9E%E6%AF%92%E6%89%93%23" target="weibo">
 桃李面包称领导正接受现实毒打（热度：687434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E8%87%AA%E6%9B%9D%E7%94%B7%E5%8F%8B%E6%98%AF%E4%B8%80%E7%BA%BF%E7%94%B7%E6%98%8E%E6%98%9F%23" target="weibo">
-赵樱子自曝男友是一线男明星（热度：649347）
 </a>
 </li>
 
@@ -477,6 +477,12 @@ VOGUE金九单人封面（热度：1230035）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%89%9B%E4%BD%8F%E4%BA%86%E5%A4%96%E5%AA%92%E9%95%9C%E5%A4%B4%23" target="weibo">
+辛芷蕾扛住了外媒镜头（热度：397928）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%97%E9%98%85%E5%AE%98%E5%85%B5%E6%99%92%E5%87%BA%E4%B8%93%E5%B1%9E%E9%98%85%E5%85%B5%E8%84%B8%23" target="weibo">
 受阅官兵晒出专属阅兵脸（热度：397413）
 </a>
@@ -513,6 +519,12 @@ VOGUE金九单人封面（热度：1230035）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E6%9D%8E%E9%9D%A2%E5%8C%85%E5%90%8E%E7%BB%AD%E5%AE%A3%E5%8F%91%E5%B0%86%E7%94%B1%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A5%E7%AE%A1%23" target="weibo">
+桃李面包后续宣发将由年轻人接管（热度：367477）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%9C%BA%E5%9C%BA3%E7%A7%92%E8%BF%9F%E7%96%91%E5%90%8E%E7%9A%84%E6%8B%A5%E6%8A%B1%E7%9C%8B%E5%93%AD%E5%85%A8%E7%BD%91%23" target="weibo">
 成都机场3秒迟疑后的拥抱看哭全网（热度：364998）
 </a>
@@ -527,12 +539,6 @@ VOGUE金九单人封面（热度：1230035）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%BF%84%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%23" target="weibo">
 普京感谢中国对俄试行免签（热度：354153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%89%9B%E4%BD%8F%E4%BA%86%E5%A4%96%E5%AA%92%E9%95%9C%E5%A4%B4%23" target="weibo">
-辛芷蕾扛住了外媒镜头（热度：351731）
 </a>
 </li>
 
@@ -603,6 +609,12 @@ VOGUE（热度：350760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%83%B8%E5%89%8D%E5%A5%BD%E5%A4%A7%E4%B8%80%E6%9C%B5%E7%8E%AB%E7%91%B0%23" target="weibo">
+辛芷蕾胸前好大一朵玫瑰（热度：308443）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E9%80%8F%E7%A4%BE%E8%AF%84%E9%98%85%E5%85%B5%E6%96%B0%E6%AD%A6%E5%99%A8%E8%A2%AB%E5%A4%96%E7%BD%91%E7%BD%91%E5%8F%8B%E6%80%92%E6%80%BC%23" target="weibo">
 路透社评阅兵新武器被外网网友怒怼（热度：298714）
 </a>
@@ -629,12 +641,6 @@ A股反弹原因（热度：281540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%98%BF%E4%BA%91%E5%98%8E%E9%A2%86%E5%AF%BC%E5%AF%B9%E8%8A%82%E7%9B%AE%E5%8D%AB%E7%94%9F%E5%8F%AF%E8%BF%98%E6%BB%A1%E6%84%8F%23" target="weibo">
 肖战阿云嘎领导对节目卫生可还满意（热度：281107）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E6%9D%8E%E9%9D%A2%E5%8C%85%E5%90%8E%E7%BB%AD%E5%AE%A3%E5%8F%91%E5%B0%86%E7%94%B1%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A5%E7%AE%A1%23" target="weibo">
-桃李面包后续宣发将由年轻人接管（热度：275922）
 </a>
 </li>
 
@@ -705,6 +711,12 @@ A股反弹原因（热度：281540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%BF%AA%E5%AE%98%E5%AE%A3%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23" target="weibo">
+井迪官宣我家那闺女（热度：242188）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%8F%88%E6%98%AF%E9%98%85%E5%85%B5%E6%88%92%E6%96%AD%E5%A4%B1%E8%B4%A5%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
 今天又是阅兵戒断失败的一天（热度：239032）
 </a>
@@ -765,12 +777,6 @@ A股反弹原因（热度：281540）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%BF%AA%E5%AE%98%E5%AE%A3%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23" target="weibo">
-井迪官宣我家那闺女（热度：223660）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%A0%E5%B0%8F%E6%96%90%20%E4%BB%8E%E6%A0%A1%E6%9C%8D%E5%88%B0%E7%A4%BC%E6%9C%8D%23" target="weibo">
 杨幂张小斐 从校服到礼服（热度：218857）
 </a>
@@ -779,12 +785,6 @@ A股反弹原因（热度：281540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%AE%98%E5%AE%A3%23" target="weibo">
 早春晴朗官宣（热度：217408）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%83%B8%E5%89%8D%E5%A5%BD%E5%A4%A7%E4%B8%80%E6%9C%B5%E7%8E%AB%E7%91%B0%23" target="weibo">
-辛芷蕾胸前好大一朵玫瑰（热度：216965）
 </a>
 </li>
 
@@ -831,6 +831,12 @@ VOGUE群像（热度：213053）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%82%89%E5%B0%BC%E9%81%AD%E5%A4%9A%E5%90%8D%E5%B0%91%E5%A5%B3%E6%AE%B4%E6%89%93%23" target="weibo">
+华人女孩在悉尼遭多名少女殴打（热度：209869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%20%E6%95%99%E5%B8%88%E8%8A%82%23" target="weibo">
 网易云 教师节（热度：208309）
 </a>
@@ -873,6 +879,12 @@ VOGUE群像（热度：213053）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%B0%88%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%83%BD%E7%BA%A2%E5%8E%9F%E5%9B%A0%23" target="weibo">
+王晶谈赵丽颖能红原因（热度：200535）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23WMA%E5%BE%AE%E5%8D%9A%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%23" target="weibo">
 WMA微博音乐盛典（热度：200504）
 </a>
@@ -909,14 +921,14 @@ WMA微博音乐盛典（热度：200504）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B316%E6%8F%90%E6%A1%A3%23" target="weibo">
-卢伟冰回应小米16提档（热度：193908）
+<a href="https://s.weibo.com/weibo?q=%233%E9%97%AE%E5%8D%83%E4%B8%87%E7%BD%91%E7%BA%A2%E5%8F%AA%E5%8D%96%E4%BA%8658%E5%8F%8C%E9%9E%8B%23" target="weibo">
+3问千万网红只卖了58双鞋（热度：193954）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%233%E9%97%AE%E5%8D%83%E4%B8%87%E7%BD%91%E7%BA%A2%E5%8F%AA%E5%8D%96%E4%BA%8658%E5%8F%8C%E9%9E%8B%23" target="weibo">
-3问千万网红只卖了58双鞋（热度：193511）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B316%E6%8F%90%E6%A1%A3%23" target="weibo">
+卢伟冰回应小米16提档（热度：193908）
 </a>
 </li>
 
@@ -953,12 +965,6 @@ VOGUE金九单封官宣顺序（热度：193470）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E5%86%9C%E6%95%B0%E6%8D%AE%23" target="weibo">
 非农数据（热度：189906）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BA%BA%E5%A5%B3%E5%AD%A9%E5%9C%A8%E6%82%89%E5%B0%BC%E9%81%AD%E5%A4%9A%E5%90%8D%E5%B0%91%E5%A5%B3%E6%AE%B4%E6%89%93%23" target="weibo">
-华人女孩在悉尼遭多名少女殴打（热度：189887）
 </a>
 </li>
 
@@ -1013,6 +1019,12 @@ Demon1 DRG（热度：187649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E5%81%9A%E4%B8%A4%E4%B8%AA%E5%A4%9A%E6%9C%88%E5%9B%A2%E6%92%AD%E6%8C%A3%E4%B8%8D%E5%88%B0%E5%9B%9B%E5%8D%83%23" target="weibo">
 主播称做两个多月团播挣不到四千（热度：184767）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E8%A8%80%E5%A5%BD%E7%BE%8E%23" target="weibo">
+喻言好美（热度：184471）
 </a>
 </li>
 
@@ -1252,7 +1264,7 @@ F1（热度：163455）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E9%94%80%E9%87%8F%E9%9A%90%E8%97%8F%23" target="weibo">
-VOGUE销量隐藏（热度：157107）
+VOGUE销量隐藏（热度：157909）
 </a>
 </li>
 
@@ -1815,12 +1827,6 @@ papi酱热烈欢迎 新时代的康熙来了（热度：125838）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E8%A8%80%E5%A5%BD%E7%BE%8E%23" target="weibo">
-喻言好美（热度：119140）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BF%98%E6%9C%89%E6%98%8E%E5%A4%A9%23" target="weibo">
 孙颖莎还有明天（热度：119053）
 </a>
@@ -2103,6 +2109,12 @@ VOGUE女演员的字（热度：114316）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%AC%E4%BA%86%E5%A4%A7%E9%9B%A8%E8%90%BD%E4%B8%8B100%E5%A4%9A%E9%81%8D%23" target="weibo">
+关晓彤听了大雨落下100多遍（热度：106408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9E%E9%A5%AD%E6%92%92%E8%90%8C%E7%9A%84%E6%B2%A1%E8%BE%B9%E4%BA%86%23" target="weibo">
 刘轩丞饭撒萌的没边了（热度：106208）
 </a>
@@ -2117,12 +2129,6 @@ VOGUE女演员的字（热度：114316）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E5%AF%B9%E5%BC%A0%E6%99%8B%E6%84%A7%E7%96%9A%E9%81%93%E6%AD%89%23" target="weibo">
 李承铉对张晋愧疚道歉（热度：105393）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%AC%E4%BA%86%E5%A4%A7%E9%9B%A8%E8%90%BD%E4%B8%8B100%E5%A4%9A%E9%81%8D%23" target="weibo">
-关晓彤听了大雨落下100多遍（热度：105062）
 </a>
 </li>
 
@@ -2331,6 +2337,18 @@ Lululemon跌超19%（热度：102044）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E7%9B%B2%E4%BA%BA%E5%8A%9E%E5%88%B0%E9%95%BF%E6%9C%9F%E9%A9%BE%E7%85%A7%23" target="weibo">
+男子实名举报盲人办到长期驾照（热度：94494）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA%23" target="weibo">
+美国拘捕300名韩国人（热度：94197）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E4%BA%8C%E5%AD%A3%E5%BA%A6100%E5%90%8D%E5%91%98%E5%B7%A5%E8%A7%A6%E7%8A%AF%E7%BA%A2%E7%BA%BF%E8%A2%AB%E8%BE%9E%23" target="weibo">
 字节二季度100名员工触犯红线被辞（热度：93180）
 </a>
@@ -2391,12 +2409,6 @@ Somebody被曝联手表哥操纵比赛牟利（热度：88204）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E7%9B%B2%E4%BA%BA%E5%8A%9E%E5%88%B0%E9%95%BF%E6%9C%9F%E9%A9%BE%E7%85%A7%23" target="weibo">
-男子实名举报盲人办到长期驾照（热度：88111）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9E%E6%96%B0%E6%AD%8C%23" target="weibo">
 刘轩丞新歌（热度：87781）
 </a>
@@ -2427,6 +2439,12 @@ TOP小考包揽前五（热度：87408）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%94%B1%E6%9C%89%E5%BF%83%E4%BA%BA%E5%A4%AA%E6%9C%89%E6%84%9F%E8%A7%89%E4%BA%86%23" target="weibo">
+邓紫棋唱有心人太有感觉了（热度：86874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E8%BF%99%E4%B8%AA%E9%A3%9E%E5%90%BB%23" target="weibo">
 李沁这个飞吻（热度：86120）
 </a>
@@ -2451,8 +2469,20 @@ TOP小考包揽前五（热度：87408）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%88%9D%E4%B8%80%E6%96%B0%E7%94%9F94%E4%B8%AA%E7%8F%AD%23" target="weibo">
+山东一中学初一新生94个班（热度：84033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%A5%91%E5%A5%87%E6%AC%A7%E9%94%A6%E8%B5%9B37%E5%88%86%23" target="weibo">
 东契奇欧锦赛37分（热度：83343）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025F1%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B%23" target="weibo">
+2025F1意大利大奖赛（热度：83311）
 </a>
 </li>
 
@@ -2531,6 +2561,12 @@ TOP小考包揽前五（热度：87408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%87%BA%E9%81%93%E5%8D%81%E5%85%AD%E5%91%A8%E5%B9%B4%23" target="weibo">
 宋茜出道十六周年（热度：72417）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E6%AF%8F%E4%B8%80%E4%BD%8D%E9%BB%98%E9%BB%98%E5%9D%9A%E5%AE%88%E7%9A%84%E8%BA%AB%E5%BD%B1%23" target="weibo">
+致敬每一位默默坚守的身影（热度：71147）
 </a>
 </li>
 
@@ -2655,12 +2691,6 @@ TOP小考包揽前五（热度：87408）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E6%AF%8F%E4%B8%80%E4%BD%8D%E9%BB%98%E9%BB%98%E5%9D%9A%E5%AE%88%E7%9A%84%E8%BA%AB%E5%BD%B1%23" target="weibo">
-致敬每一位默默坚守的身影（热度：60791）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%88%E6%9C%89%E6%96%B0%E6%9C%BA%E4%BD%8D%E8%A7%A3%E9%94%81%23" target="weibo">
 九三阅兵又有新机位解锁（热度：59035）
 </a>
@@ -2691,20 +2721,8 @@ TOP小考包揽前五（热度：87408）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA%23" target="weibo">
-美国拘捕300名韩国人（热度：53438）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E6%98%8E%E6%97%A5%E6%93%8D%E4%BD%9C1%E4%B8%87%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD%23" target="weibo">
 央行明日操作1万亿元买断式逆回购（热度：50386）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%88%9D%E4%B8%80%E6%96%B0%E7%94%9F94%E4%B8%AA%E7%8F%AD%23" target="weibo">
-山东一中学初一新生94个班（热度：50260）
 </a>
 </li>
 
