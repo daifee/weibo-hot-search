@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757068023099,
+  "endTime": 1757068957018,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1123,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 884482,
+      "num": 206259,
+      "word": "炎亚纶纯恨",
+      "onboard_time": 1757066121,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880562,
       "num": 399369,
       "word": "金价",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1757042119,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 739868,
-      "num": 154871,
-      "word": "炎亚纶纯恨",
-      "onboard_time": 1757066121,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 739454,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1756996284,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 533157,
+      "num": 204738,
+      "word": "谁给王楚然选的衣服",
+      "onboard_time": 1757065701,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 531892,
@@ -2915,6 +2923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 394771,
+      "num": 394771,
+      "word": "中方回应特朗普将国防部改战争部",
+      "onboard_time": 1757065223,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 394762,
       "num": 309801,
       "word": "美8艘军舰4200名士兵逼近委内瑞拉",
@@ -3115,14 +3131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 375064,
-      "num": 375064,
-      "word": "中方回应特朗普将国防部改战争部",
-      "onboard_time": 1757065223,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 373155,
       "num": 221860,
       "word": "杨幂还没学会画眼线",
@@ -3241,14 +3249,6 @@
       "onboard_time": 1756871733,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 355117,
-      "num": 153180,
-      "word": "谁给王楚然选的衣服",
-      "onboard_time": 1757065701,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 354304,
@@ -3835,6 +3835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 293461,
+      "num": 202208,
+      "word": "马思纯的字",
+      "onboard_time": 1757068161,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292889,
       "num": 292889,
       "word": "最硬核的阅兵后最暖的互动",
@@ -4209,6 +4217,14 @@
       "onboard_time": 1756887682,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260377,
+      "num": 260377,
+      "word": "复旦食堂 鹅肝汉堡爆火",
+      "onboard_time": 1757065522,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259425,
@@ -4755,6 +4771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227253,
+      "num": 198144,
+      "word": "医院回应最快女护士被解聘或调岗",
+      "onboard_time": 1757067322,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225756,
+      "num": 194739,
+      "word": "女子遭前夫殴打致肠破裂住进ICU",
+      "onboard_time": 1757065223,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223358,
       "num": 152329,
       "word": "3岁半宝宝110厘米58斤入学超显眼",
@@ -5107,14 +5139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 205579,
-      "num": 148511,
-      "word": "女子遭前夫殴打致肠破裂住进ICU",
-      "onboard_time": 1757065223,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204908,
       "num": 204908,
       "word": "19450902日本签署投降书",
@@ -5417,6 +5441,14 @@
       "onboard_time": 1756853537,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193908,
+      "num": 193908,
+      "word": "卢伟冰回应小米16提档",
+      "onboard_time": 1757068761,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 193817,
@@ -6857,14 +6889,6 @@
       "onboard_time": 1756898902,
       "rank": 47,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 155347,
-      "num": 155347,
-      "word": "复旦食堂 鹅肝汉堡爆火",
-      "onboard_time": 1757065522,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155311,
@@ -8731,14 +8755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 118687,
-      "num": 118687,
-      "word": "医院回应最快女护士被解聘或调岗",
-      "onboard_time": 1757067322,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118591,
       "num": 173453,
       "word": "理肤泉上百元喷雾被指成分只有水",
@@ -9091,6 +9107,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112455,
+      "num": 112455,
+      "word": "续面事件面馆歇业关闭",
+      "onboard_time": 1757068642,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112286,
+      "num": 112286,
+      "word": "迪丽热巴callback弹钢琴",
+      "onboard_time": 1757068042,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 112234,
       "num": 123136,
       "word": "法新社 五彩斑斓的黑",
@@ -9385,6 +9417,14 @@
       "onboard_time": 1756733243,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108140,
+      "num": 113177,
+      "word": "阅兵一刷高燃再刷爆哭",
+      "onboard_time": 1757067681,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 108117,
@@ -10067,6 +10107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97797,
+      "num": 97797,
+      "word": "丈夫杀害欲离婚妻子被判死缓",
+      "onboard_time": 1757068042,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97756,
       "num": 199374,
       "word": "天安门广场90秒放飞8万羽和平鸽",
@@ -10121,6 +10169,14 @@
       "onboard_time": 1756704022,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96978,
+      "num": 96978,
+      "word": "柯文哲以7000万元新台币交保回家",
+      "onboard_time": 1757067441,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96974,
@@ -10923,6 +10979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85939,
+      "num": 207701,
+      "word": "外交部回应阿努廷当选泰国总理",
+      "onboard_time": 1757067800,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85684,
       "num": 99711,
       "word": "iPhone17系列终极爆料",
@@ -11377,6 +11441,14 @@
       "onboard_time": 1756995623,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79007,
+      "num": 197259,
+      "word": "新世代宝马终于来了",
+      "onboard_time": 1757068521,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 78920,
@@ -11835,14 +11907,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 70216,
-      "num": 121611,
-      "word": "外交部回应阿努廷当选泰国总理",
-      "onboard_time": 1757067800,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70202,
       "num": 390369,
       "word": "杨幂大张伟周笔畅吵架零帧起手",
@@ -12265,6 +12329,14 @@
       "onboard_time": 1756639460,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61182,
+      "num": 110696,
+      "word": "宋亚轩彭昱畅合拍手势舞",
+      "onboard_time": 1757067920,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 60877,
@@ -12955,14 +13027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37278,
-      "num": 106967,
-      "word": "宋亚轩彭昱畅合拍手势舞",
-      "onboard_time": 1757067920,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37231,
       "num": 72796,
       "word": "归队",
@@ -12977,6 +13041,14 @@
       "onboard_time": 1756682538,
       "rank": 41,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 35662,
+      "num": 131279,
+      "word": "续面事件面馆深夜拆除招牌",
+      "onboard_time": 1757068282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35219,
@@ -13219,6 +13291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29466,
+      "num": 109493,
+      "word": "夜晚开车路中间惊现直立男子",
+      "onboard_time": 1757068582,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28442,
       "num": 57330,
       "word": "轰6N战略轰炸机",
@@ -13273,6 +13353,14 @@
       "onboard_time": 1756923195,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26763,
+      "num": 109623,
+      "word": "黎深幸福降临",
+      "onboard_time": 1757068400,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 26551,

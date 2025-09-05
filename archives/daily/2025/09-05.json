@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757068023099,
+  "endTime": 1757068957018,
   "band_list": [
     {
       "raw_hot": 1872687,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 884482,
+      "num": 206259,
+      "word": "炎亚纶纯恨",
+      "onboard_time": 1757066121,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 877434,
       "num": 877434,
       "word": "他在阅兵现场留下不能露面的照片",
@@ -193,14 +201,6 @@
       "onboard_time": 1757042119,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 739868,
-      "num": 154871,
-      "word": "炎亚纶纯恨",
-      "onboard_time": 1757066121,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 736031,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533157,
+      "num": 204738,
+      "word": "谁给王楚然选的衣服",
+      "onboard_time": 1757065701,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 530920,
       "num": 243689,
       "word": "三件中国稀世珍宝在法国被盗",
@@ -475,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 394771,
+      "num": 394771,
+      "word": "中方回应特朗普将国防部改战争部",
+      "onboard_time": 1757065223,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 390983,
       "num": 277112,
       "word": "杨紫或登VOGUE银十",
@@ -483,28 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 375064,
-      "num": 375064,
-      "word": "中方回应特朗普将国防部改战争部",
-      "onboard_time": 1757065223,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 373155,
       "num": 221860,
       "word": "杨幂还没学会画眼线",
       "onboard_time": 1757063062,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 355117,
-      "num": 153180,
-      "word": "谁给王楚然选的衣服",
-      "onboard_time": 1757065701,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 354153,
@@ -587,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 293461,
+      "num": 202208,
+      "word": "马思纯的字",
+      "onboard_time": 1757068161,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290595,
       "num": 251939,
       "word": "孟子义尚公主首套造型路透",
@@ -641,6 +649,14 @@
       "onboard_time": 1757043260,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 260377,
+      "num": 260377,
+      "word": "复旦食堂 鹅肝汉堡爆火",
+      "onboard_time": 1757065522,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256150,
@@ -737,6 +753,22 @@
       "onboard_time": 1757046144,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 227253,
+      "num": 198144,
+      "word": "医院回应最快女护士被解聘或调岗",
+      "onboard_time": 1757067322,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225756,
+      "num": 194739,
+      "word": "女子遭前夫殴打致肠破裂住进ICU",
+      "onboard_time": 1757065223,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224733,
@@ -843,14 +875,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 205579,
-      "num": 148511,
-      "word": "女子遭前夫殴打致肠破裂住进ICU",
-      "onboard_time": 1757065223,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203805,
       "num": 203805,
       "word": "张杰巡演三城官宣",
@@ -913,6 +937,14 @@
       "onboard_time": 1757045302,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193908,
+      "num": 193908,
+      "word": "卢伟冰回应小米16提档",
+      "onboard_time": 1757068761,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 193470,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1757054481,
       "rank": 42,
       "category": "幽默,互联网"
-    },
-    {
-      "raw_hot": 155347,
-      "num": 155347,
-      "word": "复旦食堂 鹅肝汉堡爆火",
-      "onboard_time": 1757065522,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155311,
@@ -1723,14 +1747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118687,
-      "num": 118687,
-      "word": "医院回应最快女护士被解聘或调岗",
-      "onboard_time": 1757067322,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117875,
       "num": 117875,
       "word": "以为正常其实严重缺觉的行为",
@@ -1843,6 +1859,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112455,
+      "num": 112455,
+      "word": "续面事件面馆歇业关闭",
+      "onboard_time": 1757068642,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112286,
+      "num": 112286,
+      "word": "迪丽热巴callback弹钢琴",
+      "onboard_time": 1757068042,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 111911,
       "num": 127673,
       "word": "北京街边一群人刷夜等阅兵",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1757056701,
       "rank": 47,
       "category": "财经,游戏"
+    },
+    {
+      "raw_hot": 108140,
+      "num": 113177,
+      "word": "阅兵一刷高燃再刷爆哭",
+      "onboard_time": 1757067681,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 107277,
@@ -2099,6 +2139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97797,
+      "num": 97797,
+      "word": "丈夫杀害欲离婚妻子被判死缓",
+      "onboard_time": 1757068042,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97415,
       "num": 97415,
       "word": "梓渝音乐节不基础造型更不基础",
@@ -2113,6 +2161,14 @@
       "onboard_time": 1757034082,
       "rank": 44,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 96978,
+      "num": 96978,
+      "word": "柯文哲以7000万元新台币交保回家",
+      "onboard_time": 1757067441,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96925,
@@ -2259,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85939,
+      "num": 207701,
+      "word": "外交部回应阿努廷当选泰国总理",
+      "onboard_time": 1757067800,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83343,
       "num": 83343,
       "word": "东契奇欧锦赛37分",
@@ -2289,6 +2353,14 @@
       "onboard_time": 1756998144,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 79007,
+      "num": 197259,
+      "word": "新世代宝马终于来了",
+      "onboard_time": 1757068521,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 78004,
@@ -2361,14 +2433,6 @@
       "onboard_time": 1757037141,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 70216,
-      "num": 121611,
-      "word": "外交部回应阿努廷当选泰国总理",
-      "onboard_time": 1757067800,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67574,
@@ -2457,6 +2521,14 @@
       "onboard_time": 1757064681,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 61182,
+      "num": 110696,
+      "word": "宋亚轩彭昱畅合拍手势舞",
+      "onboard_time": 1757067920,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 60957,
@@ -2587,12 +2659,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37278,
-      "num": 106967,
-      "word": "宋亚轩彭昱畅合拍手势舞",
-      "onboard_time": 1757067920,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 35662,
+      "num": 131279,
+      "word": "续面事件面馆深夜拆除招牌",
+      "onboard_time": 1757068282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35062,
@@ -2643,12 +2715,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29466,
+      "num": 109493,
+      "word": "夜晚开车路中间惊现直立男子",
+      "onboard_time": 1757068582,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26839,
       "num": 143637,
       "word": "男子拖拽海豹上岸被警告教育",
       "onboard_time": 1757054361,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26763,
+      "num": 109623,
+      "word": "黎深幸福降临",
+      "onboard_time": 1757068400,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 25548,
