@@ -1,7 +1,15 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757049834305,
+  "endTime": 1757050802278,
   "band_list": [
+    {
+      "raw_hot": 1872687,
+      "num": 293689,
+      "word": "刘冲 审美",
+      "onboard_time": 1757048721,
+      "rank": 12,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 1625947,
       "num": 1189429,
@@ -99,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 906599,
+      "num": 715183,
+      "word": "特朗普发布与普京的合影",
+      "onboard_time": 1757046144,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 897236,
       "num": 638201,
       "word": "花5万请千万网红带货只卖出58双鞋",
@@ -139,27 +155,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 724515,
-      "num": 293689,
-      "word": "刘冲 审美",
-      "onboard_time": 1757048721,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 716928,
       "num": 716928,
       "word": "特朗普签令正式实施美日贸易协议",
       "onboard_time": 1757033242,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 715183,
-      "num": 715183,
-      "word": "特朗普发布与普京的合影",
-      "onboard_time": 1757046144,
-      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -233,6 +233,14 @@
       "onboard_time": 1757038221,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 551032,
+      "num": 1088165,
+      "word": "闫妮说忘了关晓彤姓啥",
+      "onboard_time": 1757049022,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 549211,
@@ -371,16 +379,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 298665,
-      "num": 298665,
-      "word": "闫妮说忘了关晓彤姓啥",
-      "onboard_time": 1757049022,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 290595,
-      "num": 212574,
+      "num": 251939,
       "word": "孟子义尚公主首套造型路透",
       "onboard_time": 1757048962,
       "rank": 28,
@@ -433,6 +433,14 @@
       "onboard_time": 1757041101,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248747,
+      "num": 202659,
+      "word": "卢靖姗挺孕肚健身",
+      "onboard_time": 1757049861,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 244849,
@@ -515,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214311,
+      "num": 214311,
+      "word": "刘亦菲杨幂倪妮迪丽热巴金九封面",
+      "onboard_time": 1757050342,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214049,
       "num": 214049,
       "word": "火锅店广告 胸大打折",
@@ -563,12 +579,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207357,
+      "num": 207357,
+      "word": "宋佳VOGUE顺序",
+      "onboard_time": 1757050402,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 207341,
       "num": 122724,
       "word": "阿玛尼高定",
       "onboard_time": 1756999463,
       "rank": 15,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 204836,
+      "num": 285605,
+      "word": "毛宁发中国阅兵对比图",
+      "onboard_time": 1757048424,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 203805,
+      "num": 203805,
+      "word": "张杰巡演三城官宣",
+      "onboard_time": 1757050281,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 201931,
@@ -619,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191073,
+      "num": 191073,
+      "word": "张小斐VOGUE金九封面",
+      "onboard_time": 1757050703,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 190186,
       "num": 190186,
       "word": "黑白局开播",
@@ -667,6 +715,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 182207,
+      "num": 182207,
+      "word": "喜欢蹲着真的不是因为懒",
+      "onboard_time": 1757050281,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 174994,
+      "num": 283557,
+      "word": "美网友调侃美阅兵像迪士尼游行",
+      "onboard_time": 1757049503,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173014,
       "num": 173014,
       "word": "梅西说不会参加2030年世界杯",
@@ -699,20 +763,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 171518,
+      "num": 203551,
+      "word": "杭州东站禁烟",
+      "onboard_time": 1757049444,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171506,
       "num": 222086,
       "word": "给贺峻霖想出贺俊脸的人是天才",
       "onboard_time": 1757046023,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170634,
-      "num": 285605,
-      "word": "毛宁发中国阅兵对比图",
-      "onboard_time": 1757048424,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 169831,
@@ -723,12 +787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168333,
+      "num": 203264,
+      "word": "老外为吃火锅周末飞中国",
+      "onboard_time": 1757050522,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167905,
       "num": 167905,
       "word": "梅西梅开二度",
       "onboard_time": 1757037799,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166585,
+      "num": 278634,
+      "word": "外媒被东风61惊艳",
+      "onboard_time": 1757049561,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165005,
@@ -819,6 +899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154035,
+      "num": 154035,
+      "word": "00花VOGUE金九封面",
+      "onboard_time": 1757049683,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 153446,
       "num": 153446,
       "word": "和平鸽工资15元",
@@ -843,14 +931,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 149211,
-      "num": 149211,
-      "word": "00花VOGUE金九封面",
-      "onboard_time": 1757049683,
-      "rank": 42,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 147737,
       "num": 147737,
       "word": "阅兵当天给30桌客人免单老板发声",
@@ -865,6 +945,22 @@
       "onboard_time": 1757047163,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146497,
+      "num": 258563,
+      "word": "普京看到中国观众秒切中文",
+      "onboard_time": 1757050402,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 139758,
+      "num": 139758,
+      "word": "听潮阁费加罗PARK九月刊大片",
+      "onboard_time": 1757050522,
+      "rank": 48,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 139731,
@@ -897,6 +993,14 @@
       "onboard_time": 1757046083,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 137285,
+      "num": 183325,
+      "word": "黑灯忘词两次",
+      "onboard_time": 1757050342,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 136342,
@@ -1059,6 +1163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115653,
+      "num": 136482,
+      "word": "王曼昱说世乒赛输球并没有颓",
+      "onboard_time": 1757049922,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114830,
       "num": 114830,
       "word": "歼35颜值有多高",
@@ -1073,6 +1185,14 @@
       "onboard_time": 1757043143,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114706,
+      "num": 212488,
+      "word": "董思成被孟子义坑过之后看谁都菜",
+      "onboard_time": 1757049444,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 112876,
@@ -1121,14 +1241,6 @@
       "onboard_time": 1757032582,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108686,
-      "num": 278634,
-      "word": "外媒被东风61惊艳",
-      "onboard_time": 1757049561,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 106917,
@@ -1201,14 +1313,6 @@
       "onboard_time": 1757034082,
       "rank": 44,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 96103,
-      "num": 212488,
-      "word": "董思成被孟子义坑过之后看谁都菜",
-      "onboard_time": 1757049444,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 95935,
@@ -1289,6 +1393,14 @@
       "onboard_time": 1757027659,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 87692,
+      "num": 185730,
+      "word": "VOGUE群封 浪姐成团夜",
+      "onboard_time": 1757050762,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 87528,
@@ -1577,14 +1689,6 @@
       "onboard_time": 1757004798,
       "rank": 45,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 39408,
-      "num": 283557,
-      "word": "美网友调侃美阅兵像迪士尼游行",
-      "onboard_time": 1757049503,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38519,
