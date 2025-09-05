@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757037005125,
+  "endTime": 1757038259330,
   "band_list": [
     {
       "raw_hot": 1456231,
@@ -27,6 +27,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 1140414,
+      "num": 1140414,
+      "word": "5人策划低俗求婚剧本被拘",
+      "onboard_time": 1757036421,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1043224,
       "num": 1043224,
       "word": "男子诋毁九三阅兵被拘",
@@ -35,20 +43,20 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 954681,
+      "num": 954681,
+      "word": "普京称将回应中国对俄试行免签",
+      "onboard_time": 1757032942,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 877434,
       "num": 877434,
       "word": "他在阅兵现场留下不能露面的照片",
       "onboard_time": 1756999283,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 835829,
-      "num": 835829,
-      "word": "普京称将回应中国对俄试行免签",
-      "onboard_time": 1757032942,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 792540,
@@ -76,11 +84,19 @@
     },
     {
       "raw_hot": 641528,
-      "num": 151433,
+      "num": 172107,
       "word": "金正恩说中国的庆典也是我们的喜事",
       "onboard_time": 1756996344,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 625091,
+      "num": 625091,
+      "word": "我的身份证上有你的名字",
+      "onboard_time": 1757032521,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 622474,
@@ -89,14 +105,6 @@
       "onboard_time": 1757032161,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 604381,
-      "num": 604381,
-      "word": "我的身份证上有你的名字",
-      "onboard_time": 1757032521,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 512967,
@@ -116,15 +124,15 @@
     },
     {
       "raw_hot": 481244,
-      "num": 169091,
+      "num": 169209,
       "word": "易烊千玺身体状况不理想",
       "onboard_time": 1757031682,
       "rank": 22,
       "category": "演出"
     },
     {
-      "raw_hot": 414499,
-      "num": 414499,
+      "raw_hot": 467192,
+      "num": 467192,
       "word": "刘轩丞",
       "onboard_time": 1757032582,
       "rank": 12,
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298714,
+      "num": 298714,
+      "word": "路透社评阅兵新武器被外网网友怒怼",
+      "onboard_time": 1757034142,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 268004,
       "num": 268004,
       "word": "102岁老兵看完阅兵当晚安详离世",
@@ -179,12 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265259,
-      "num": 265259,
-      "word": "路透社评阅兵新武器被外网网友怒怼",
-      "onboard_time": 1757034142,
-      "rank": 16,
-      "category": "国内时政"
+      "raw_hot": 244849,
+      "num": 168123,
+      "word": "张颂文戴耳钉",
+      "onboard_time": 1757034922,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 237079,
@@ -195,20 +211,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 232813,
-      "num": 165454,
-      "word": "张颂文戴耳钉",
-      "onboard_time": 1757034922,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224733,
       "num": 107373,
       "word": "易烊千玺演唱会哭了",
       "onboard_time": 1756996284,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 223580,
+      "num": 605069,
+      "word": "普京感谢中国对俄试行免签",
+      "onboard_time": 1757035101,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207341,
@@ -243,20 +259,28 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 181117,
-      "num": 181117,
-      "word": "5人策划低俗求婚剧本被拘",
-      "onboard_time": 1757036421,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 172843,
+      "num": 172843,
+      "word": "iPhone17系列内存配置曝光",
+      "onboard_time": 1757034501,
+      "rank": 33,
+      "category": "数码"
     },
     {
-      "raw_hot": 173949,
-      "num": 605069,
-      "word": "普京感谢中国对俄试行免签",
-      "onboard_time": 1757035101,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 172634,
+      "num": 82511,
+      "word": "护鼻纸还是太全面了",
+      "onboard_time": 1757037380,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167905,
+      "num": 167905,
+      "word": "梅西梅开二度",
+      "onboard_time": 1757037799,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 165005,
@@ -299,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152096,
+      "num": 152096,
+      "word": "德国7名候选人不到两周接连离世",
+      "onboard_time": 1757038041,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150241,
       "num": 150241,
       "word": "中朝一家亲",
@@ -316,19 +348,11 @@
     },
     {
       "raw_hot": 139364,
-      "num": 139364,
+      "num": 170711,
       "word": "台湾前舰长观礼阅兵被威胁扣退休金",
       "onboard_time": 1757035461,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 138016,
-      "num": 138016,
-      "word": "iPhone17系列内存配置曝光",
-      "onboard_time": 1757034501,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 136342,
@@ -337,6 +361,14 @@
       "onboard_time": 1756992564,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135925,
+      "num": 135925,
+      "word": "云南牟定一对兄妹被蜂群蜇伤致死",
+      "onboard_time": 1757037380,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130658,
@@ -379,6 +411,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121077,
+      "num": 121077,
+      "word": "居然真的有人有猫兵啊",
+      "onboard_time": 1757033423,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 119166,
+      "num": 119166,
+      "word": "梅西赛前落泪",
+      "onboard_time": 1757037019,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118804,
       "num": 155334,
       "word": "浪姐从房琪的全世界路过",
@@ -393,14 +441,6 @@
       "onboard_time": 1756972222,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115471,
-      "num": 115471,
-      "word": "居然真的有人有猫兵啊",
-      "onboard_time": 1757033423,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 112876,
@@ -483,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97204,
+      "num": 97204,
+      "word": "字节8人涉嫌刑事犯罪被移交司法",
+      "onboard_time": 1757034082,
+      "rank": 44,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 95935,
       "num": 97404,
       "word": "日本前首相说必须正视历史",
@@ -497,6 +545,14 @@
       "onboard_time": 1757036780,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93782,
+      "num": 93782,
+      "word": "被诬陷地铁偷拍男子二审仍求道歉",
+      "onboard_time": 1757038221,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93180,
@@ -521,14 +577,6 @@
       "onboard_time": 1756978222,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 91158,
-      "num": 91158,
-      "word": "字节8人涉嫌刑事犯罪被移交司法",
-      "onboard_time": 1757034082,
-      "rank": 44,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 88921,
@@ -563,12 +611,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86943,
+      "num": 86943,
+      "word": "罗晋感慨荣誉骄傲",
+      "onboard_time": 1757037500,
+      "rank": 44,
+      "category": "国内时政,演出"
+    },
+    {
       "raw_hot": 85951,
       "num": 85951,
       "word": "陈妍希颖儿曾想帮景甜找对象",
       "onboard_time": 1757032463,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83343,
+      "num": 83343,
+      "word": "东契奇欧锦赛37分",
+      "onboard_time": 1757037799,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 83111,
@@ -604,7 +668,7 @@
     },
     {
       "raw_hot": 72417,
-      "num": 77149,
+      "num": 81785,
       "word": "宋茜出道十六周年",
       "onboard_time": 1757033001,
       "rank": 49,
@@ -617,6 +681,14 @@
       "onboard_time": 1756988542,
       "rank": 40,
       "category": "民生新闻,美妆"
+    },
+    {
+      "raw_hot": 70337,
+      "num": 95862,
+      "word": "九三阅兵CNN剪辑版",
+      "onboard_time": 1757037141,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67280,
@@ -828,7 +900,7 @@
     },
     {
       "raw_hot": 16047,
-      "num": 807597,
+      "num": 1034528,
       "word": "胜利日阅兵盛况定格留念",
       "onboard_time": 1756967002,
       "rank": 2,

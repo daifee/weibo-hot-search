@@ -1,0 +1,410 @@
+{
+  "runTime": 1757038259330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1227157,
+        "num": 1227157,
+        "word": "金正恩乘专列离京返程",
+        "onboard_time": 1757031800,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1140414,
+        "num": 1140414,
+        "word": "5人策划低俗求婚剧本被拘",
+        "onboard_time": 1757036421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15750,
+        "num": 1034528,
+        "word": "胜利日阅兵盛况定格留念",
+        "onboard_time": 1756967002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 954681,
+        "num": 954681,
+        "word": "普京称将回应中国对俄试行免签",
+        "onboard_time": 1757032942,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 749875,
+        "num": 749875,
+        "word": "女子在医院做微创手术脑死亡离世",
+        "onboard_time": 1757032285,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625091,
+        "num": 625091,
+        "word": "我的身份证上有你的名字",
+        "onboard_time": 1757032521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579396,
+        "num": 579396,
+        "word": "身份证上有左权将军的名字",
+        "onboard_time": 1757032161,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569086,
+        "num": 569086,
+        "word": "特朗普签令正式实施美日贸易协议",
+        "onboard_time": 1757033242,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 281403,
+        "num": 512466,
+        "word": "众星发文悼念阿玛尼先生",
+        "onboard_time": 1757029521,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188097,
+        "num": 510359,
+        "word": "肖战对细节抠到这种程度",
+        "onboard_time": 1757033781,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508529,
+        "num": 508529,
+        "word": "男子诋毁九三阅兵被拘",
+        "onboard_time": 1756993284,
+        "rank": 10,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 467192,
+        "num": 467192,
+        "word": "刘轩丞",
+        "onboard_time": 1757032582,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384452,
+        "num": 384452,
+        "word": "他在阅兵现场留下不能露面的照片",
+        "onboard_time": 1756999283,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306388,
+        "num": 306388,
+        "word": "被外国网友评论阅兵整笑了",
+        "onboard_time": 1756998863,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298714,
+        "num": 298714,
+        "word": "路透社评阅兵新武器被外网网友怒怼",
+        "onboard_time": 1757034142,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275744,
+        "num": 275744,
+        "word": "金建希教师资格证被注销",
+        "onboard_time": 1757030480,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238451,
+        "num": 238451,
+        "word": "为什么不把东风5C组装受阅",
+        "onboard_time": 1757000184,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223580,
+        "num": 223580,
+        "word": "普京感谢中国对俄试行免签",
+        "onboard_time": 1757035101,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172843,
+        "num": 172843,
+        "word": "iPhone17系列内存配置曝光",
+        "onboard_time": 1757034501,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79620,
+        "num": 172434,
+        "word": "731首日排片占比超99.7%",
+        "onboard_time": 1757027360,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120623,
+        "num": 172107,
+        "word": "金正恩说中国的庆典也是我们的喜事",
+        "onboard_time": 1756996344,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1155796,
+        "num": 171197,
+        "word": "杨幂 拿奖了给何晟铭跪下",
+        "onboard_time": 1757031321,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132758,
+        "num": 170711,
+        "word": "台湾前舰长观礼阅兵被威胁扣退休金",
+        "onboard_time": 1757035461,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 496847,
+        "num": 169932,
+        "word": "钟楚曦自己化妆一年能省下来一套房",
+        "onboard_time": 1757032161,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441706,
+        "num": 169209,
+        "word": "易烊千玺身体状况不理想",
+        "onboard_time": 1757031682,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244849,
+        "num": 168123,
+        "word": "张颂文戴耳钉",
+        "onboard_time": 1757034922,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167905,
+        "num": 167905,
+        "word": "梅西梅开二度",
+        "onboard_time": 1757037799,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162438,
+        "num": 162438,
+        "word": "坚持运动30天就像换了一个人",
+        "onboard_time": 1757029279,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 152556,
+        "num": 152556,
+        "word": "阿玛尼发讣告",
+        "onboard_time": 1756996645,
+        "rank": 28,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 110674,
+        "num": 152158,
+        "word": "浪姐从房琪的全世界路过",
+        "onboard_time": 1757034380,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152096,
+        "num": 152096,
+        "word": "德国7名候选人不到两周接连离世",
+        "onboard_time": 1757038041,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135925,
+        "num": 135925,
+        "word": "云南牟定一对兄妹被蜂群蜇伤致死",
+        "onboard_time": 1757037380,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128117,
+        "num": 128117,
+        "word": "梅西破门",
+        "onboard_time": 1757032463,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122376,
+        "num": 122376,
+        "word": "能治得了何晟铭的只有早期杨幂",
+        "onboard_time": 1757031563,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121077,
+        "num": 121077,
+        "word": "居然真的有人有猫兵啊",
+        "onboard_time": 1757033423,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119166,
+        "num": 119166,
+        "word": "梅西赛前落泪",
+        "onboard_time": 1757037019,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118375,
+        "num": 118375,
+        "word": "章子怡发文悼念阿玛尼先生",
+        "onboard_time": 1757031141,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 117739,
+        "num": 117739,
+        "word": "展轩卡点祝刘轩丞生日快乐",
+        "onboard_time": 1757033542,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117015,
+        "num": 117015,
+        "word": "谷爱凌粉色长裙超美",
+        "onboard_time": 1757032521,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97204,
+        "num": 97204,
+        "word": "字节8人涉嫌刑事犯罪被移交司法",
+        "onboard_time": 1757034082,
+        "rank": 39,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 70337,
+        "num": 95862,
+        "word": "九三阅兵CNN剪辑版",
+        "onboard_time": 1757037141,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95201,
+        "num": 95201,
+        "word": "小哥俩10年3次屋顶看阅兵",
+        "onboard_time": 1757028318,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93782,
+        "num": 93782,
+        "word": "被诬陷地铁偷拍男子二审仍求道歉",
+        "onboard_time": 1757038221,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90546,
+        "num": 90546,
+        "word": "有问必答是人际交往的大忌",
+        "onboard_time": 1757032582,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86943,
+        "num": 86943,
+        "word": "罗晋感慨荣誉骄傲",
+        "onboard_time": 1757037500,
+        "rank": 44,
+        "category": "国内时政,演出"
+      },
+      {
+        "raw_hot": 86206,
+        "num": 86206,
+        "word": "和平鸽工资15元",
+        "onboard_time": 1756978400,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83343,
+        "num": 83343,
+        "word": "东契奇欧锦赛37分",
+        "onboard_time": 1757037799,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172634,
+        "num": 82511,
+        "word": "护鼻纸还是太全面了",
+        "onboard_time": 1757037380,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61812,
+        "num": 81785,
+        "word": "宋茜出道十六周年",
+        "onboard_time": 1757033001,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48212,
+        "num": 81652,
+        "word": "苏新皓演唱会前拍的照片",
+        "onboard_time": 1757034980,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#从伟大胜利走向伟大复兴#"
+    }
+  }
+}
