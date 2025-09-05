@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1757057849941,
+  "endTime": 1757061130172,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -907,6 +907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1126644,
+      "num": 1180263,
+      "word": "金正恩离京时长时间挥手作别",
+      "onboard_time": 1757059281,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1113721,
       "num": 236926,
       "word": "伪装者",
@@ -1731,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 687434,
+      "num": 246316,
+      "word": "桃李面包称领导正接受现实毒打",
+      "onboard_time": 1757055562,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 674511,
       "num": 674511,
       "word": "雷佳音和小栋哲",
@@ -2315,6 +2331,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 530920,
+      "num": 243689,
+      "word": "三件中国稀世珍宝在法国被盗",
+      "onboard_time": 1757056403,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 530393,
       "num": 241753,
       "word": "长期焦虑过度的表现",
@@ -2675,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465328,
+      "num": 240565,
+      "word": "王栎鑫心脏不适退出xmen舞台",
+      "onboard_time": 1757055262,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465308,
       "num": 536334,
       "word": "水下兵器亮相阅兵",
@@ -2756,7 +2788,7 @@
     },
     {
       "raw_hot": 458095,
-      "num": 223338,
+      "num": 238093,
       "word": "刘亦菲 宝格丽",
       "onboard_time": 1757055080,
       "rank": 14,
@@ -3075,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411967,
+      "num": 411967,
+      "word": "手术室为什么要用花生米",
+      "onboard_time": 1757052922,
+      "rank": 25,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 410572,
       "num": 410572,
       "word": "九三阅兵的覆盖全球实锤了",
@@ -3137,6 +3177,14 @@
       "onboard_time": 1756733303,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 397413,
+      "num": 397413,
+      "word": "受阅官兵晒出专属阅兵脸",
+      "onboard_time": 1757056701,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 397175,
@@ -3635,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351016,
+      "num": 351016,
+      "word": "特朗普大宴美国科技巨头",
+      "onboard_time": 1757057061,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 350731,
       "num": 350731,
       "word": "樊振东不想草率回应质疑",
@@ -3875,14 +3931,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 330143,
-      "num": 214365,
-      "word": "王栎鑫心脏不适退出xmen舞台",
-      "onboard_time": 1757055262,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329541,
       "num": 240394,
       "word": "破音",
@@ -4089,14 +4137,6 @@
       "onboard_time": 1756791442,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 313560,
-      "num": 205193,
-      "word": "三件中国稀世珍宝在法国被盗",
-      "onboard_time": 1757056403,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 312131,
@@ -5331,6 +5371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230259,
+      "num": 230259,
+      "word": "景甜旗袍",
+      "onboard_time": 1757059582,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229922,
       "num": 229922,
       "word": "揭开731少年班罪恶真相",
@@ -5465,14 +5513,6 @@
       "onboard_time": 1756638141,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221489,
-      "num": 232329,
-      "word": "手术室为什么要用花生米",
-      "onboard_time": 1757052922,
-      "rank": 25,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 221454,
@@ -5689,14 +5729,6 @@
       "onboard_time": 1756610300,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 211575,
-      "num": 197791,
-      "word": "桃李面包称领导正接受现实毒打",
-      "onboard_time": 1757055562,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211502,
@@ -6643,6 +6675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187976,
+      "num": 187976,
+      "word": "韩国议长视见到金正恩并握手为成果",
+      "onboard_time": 1757059402,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 187970,
       "num": 267729,
       "word": "美军PPT里的东西我们已经服役了",
@@ -6795,6 +6835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185862,
+      "num": 234706,
+      "word": "脱掉军装女民兵都是大美女",
+      "onboard_time": 1757059402,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185729,
       "num": 223566,
       "word": "受阅战车里为什么有一双崭新皮鞋",
@@ -6873,6 +6921,14 @@
       "onboard_time": 1756802961,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183844,
+      "num": 181033,
+      "word": "属于杨幂的黄金时代",
+      "onboard_time": 1757059281,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183515,
@@ -7019,14 +7075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179958,
-      "num": 179958,
-      "word": "受阅官兵晒出专属阅兵脸",
-      "onboard_time": 1757056701,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 179416,
       "num": 179416,
       "word": "王乐晨卢远约会机车版头文字D",
@@ -7057,6 +7105,14 @@
       "onboard_time": 1756988602,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 177458,
+      "num": 177458,
+      "word": "韩庚 我那绝望的老爱豆",
+      "onboard_time": 1757058802,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 177106,
@@ -7161,6 +7217,14 @@
       "onboard_time": 1756988542,
       "rank": 23,
       "category": "民生新闻,美妆"
+    },
+    {
+      "raw_hot": 174081,
+      "num": 174081,
+      "word": "A股反弹原因",
+      "onboard_time": 1757060362,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 173964,
@@ -7793,6 +7857,14 @@
       "onboard_time": 1756782682,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 160208,
+      "num": 160208,
+      "word": "迪丽热巴 西方油画里的女人",
+      "onboard_time": 1757059522,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 159962,
@@ -8651,6 +8723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145700,
+      "num": 145700,
+      "word": "富商立遗嘱10亿美金给内马尔",
+      "onboard_time": 1757058980,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145451,
       "num": 145451,
       "word": "2025PEL夏决售票",
@@ -9203,6 +9283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135583,
+      "num": 135583,
+      "word": "VOGUE李庚希文案只有半句",
+      "onboard_time": 1757060242,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 135425,
       "num": 243009,
       "word": "美国防部关注九三阅兵",
@@ -9217,6 +9305,14 @@
       "onboard_time": 1756724541,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135224,
+      "num": 135224,
+      "word": "发现颜值焦虑在两广消失了",
+      "onboard_time": 1757059522,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 135094,
@@ -9313,6 +9409,14 @@
       "onboard_time": 1756969701,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 133325,
+      "num": 133325,
+      "word": "外媒酸中国装备没实战翻车",
+      "onboard_time": 1757060962,
+      "rank": 36,
+      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 132898,
@@ -9697,6 +9801,14 @@
       "onboard_time": 1756619661,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127833,
+      "num": 127833,
+      "word": "明日方舟mujica联动周边",
+      "onboard_time": 1757060482,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 127788,
@@ -10275,6 +10387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118788,
+      "num": 118788,
+      "word": "无畏杂志预告",
+      "onboard_time": 1757060842,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118740,
       "num": 162745,
       "word": "谢娜为一家人操碎了心",
@@ -10425,6 +10545,14 @@
       "onboard_time": 1756807881,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116989,
+      "num": 116989,
+      "word": "杨蒙恩学街舞时王一博在上小学",
+      "onboard_time": 1757060783,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 116924,
@@ -11729,6 +11857,14 @@
       "onboard_time": 1756996463,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101820,
+      "num": 128655,
+      "word": "梓渝两个月拿下顶级男刊",
+      "onboard_time": 1757060242,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 101785,
@@ -13947,6 +14083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 77293,
+      "num": 247975,
+      "word": "民兵方队女兵回家邻居拉横幅迎接",
+      "onboard_time": 1757060602,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 77223,
       "num": 77223,
       "word": "开窗通风又不落灰的方法",
@@ -15019,6 +15163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60406,
+      "num": 233147,
+      "word": "第一台带quattro的智能电动车",
+      "onboard_time": 1757059522,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60405,
       "num": 238882,
       "word": "九三阅兵台湾线上播放超500万",
@@ -15193,6 +15345,14 @@
       "onboard_time": 1756740681,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56353,
+      "num": 231075,
+      "word": "白宫证实美国战争部回来了",
+      "onboard_time": 1757060180,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56159,
@@ -16235,6 +16395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 23261,
+      "num": 129934,
+      "word": "成为刘亦菲梦女易如反掌",
+      "onboard_time": 1757060002,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22401,
       "num": 52579,
       "word": "登陆少年演唱会直拍",
@@ -16505,6 +16673,14 @@
       "onboard_time": 1756835895,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16082,
+      "num": 128935,
+      "word": "杭州东站乘务员用扩音器劝阻吸烟",
+      "onboard_time": 1757061082,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16043,

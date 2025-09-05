@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757057849941,
+  "endTime": 1757061130172,
   "band_list": [
     {
       "raw_hot": 1872687,
@@ -81,6 +81,14 @@
       "onboard_time": 1757036421,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1126644,
+      "num": 1180263,
+      "word": "金正恩离京时长时间挥手作别",
+      "onboard_time": 1757059281,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1043224,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 687434,
+      "num": 246316,
+      "word": "桃李面包称领导正接受现实毒打",
+      "onboard_time": 1757055562,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 641528,
       "num": 172107,
       "word": "金正恩说中国的庆典也是我们的喜事",
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530920,
+      "num": 243689,
+      "word": "三件中国稀世珍宝在法国被盗",
+      "onboard_time": 1757056403,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 512967,
       "num": 127860,
       "word": "特朗普承认观看中国阅兵",
@@ -347,8 +371,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465328,
+      "num": 240565,
+      "word": "王栎鑫心脏不适退出xmen舞台",
+      "onboard_time": 1757055262,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458095,
-      "num": 223338,
+      "num": 238093,
       "word": "刘亦菲 宝格丽",
       "onboard_time": 1757055080,
       "rank": 14,
@@ -379,6 +411,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 411967,
+      "num": 411967,
+      "word": "手术室为什么要用花生米",
+      "onboard_time": 1757052922,
+      "rank": 25,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 397413,
+      "num": 397413,
+      "word": "受阅官兵晒出专属阅兵脸",
+      "onboard_time": 1757056701,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 390983,
       "num": 277112,
       "word": "杨紫或登VOGUE银十",
@@ -392,6 +440,14 @@
       "word": "普京感谢中国对俄试行免签",
       "onboard_time": 1757035101,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 351016,
+      "num": 351016,
+      "word": "特朗普大宴美国科技巨头",
+      "onboard_time": 1757057061,
+      "rank": 6,
       "category": "国际时政"
     },
     {
@@ -427,14 +483,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 330143,
-      "num": 214365,
-      "word": "王栎鑫心脏不适退出xmen舞台",
-      "onboard_time": 1757055262,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327966,
       "num": 327966,
       "word": "被外国网友评论阅兵整笑了",
@@ -449,14 +497,6 @@
       "onboard_time": 1757049444,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313560,
-      "num": 205193,
-      "word": "三件中国稀世珍宝在法国被盗",
-      "onboard_time": 1757056403,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 312131,
@@ -595,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230259,
+      "num": 230259,
+      "word": "景甜旗袍",
+      "onboard_time": 1757059582,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228434,
       "num": 228434,
       "word": "易烊千玺刮痧后洗了热水澡",
@@ -609,14 +657,6 @@
       "onboard_time": 1756996284,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 221489,
-      "num": 232329,
-      "word": "手术室为什么要用花生米",
-      "onboard_time": 1757052922,
-      "rank": 25,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 217408,
@@ -673,14 +713,6 @@
       "onboard_time": 1757053340,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211575,
-      "num": 197791,
-      "word": "桃李面包称领导正接受现实毒打",
-      "onboard_time": 1757055562,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208309,
@@ -811,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187976,
+      "num": 187976,
+      "word": "韩国议长视见到金正恩并握手为成果",
+      "onboard_time": 1757059402,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 187617,
       "num": 187617,
       "word": "桃李面包为月饼广告致歉",
@@ -833,6 +873,14 @@
       "onboard_time": 1757056522,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185862,
+      "num": 234706,
+      "word": "脱掉军装女民兵都是大美女",
+      "onboard_time": 1757059402,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185729,
@@ -867,6 +915,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 183844,
+      "num": 181033,
+      "word": "属于杨幂的黄金时代",
+      "onboard_time": 1757059281,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182207,
       "num": 182207,
       "word": "喜欢蹲着真的不是因为懒",
@@ -875,12 +931,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179958,
-      "num": 179958,
-      "word": "受阅官兵晒出专属阅兵脸",
-      "onboard_time": 1757056701,
-      "rank": 28,
-      "category": "国内时政"
+      "raw_hot": 177458,
+      "num": 177458,
+      "word": "韩庚 我那绝望的老爱豆",
+      "onboard_time": 1757058802,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 174994,
@@ -897,6 +953,14 @@
       "onboard_time": 1757049561,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 174081,
+      "num": 174081,
+      "word": "A股反弹原因",
+      "onboard_time": 1757060362,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 173014,
@@ -1009,6 +1073,14 @@
       "onboard_time": 1757043922,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160208,
+      "num": 160208,
+      "word": "迪丽热巴 西方油画里的女人",
+      "onboard_time": 1757059522,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 159459,
@@ -1139,6 +1211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145700,
+      "num": 145700,
+      "word": "富商立遗嘱10亿美金给内马尔",
+      "onboard_time": 1757058980,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139758,
       "num": 139758,
       "word": "听潮阁费加罗PARK九月刊大片",
@@ -1203,6 +1283,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135583,
+      "num": 135583,
+      "word": "VOGUE李庚希文案只有半句",
+      "onboard_time": 1757060242,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 135224,
+      "num": 135224,
+      "word": "发现颜值焦虑在两广消失了",
+      "onboard_time": 1757059522,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133325,
+      "num": 133325,
+      "word": "外媒酸中国装备没实战翻车",
+      "onboard_time": 1757060962,
+      "rank": 36,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 132191,
       "num": 132191,
       "word": "花旗银行声明",
@@ -1265,6 +1369,14 @@
       "onboard_time": 1757040860,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127833,
+      "num": 127833,
+      "word": "明日方舟mujica联动周边",
+      "onboard_time": 1757060482,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 127161,
@@ -1387,12 +1499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118788,
+      "num": 118788,
+      "word": "无畏杂志预告",
+      "onboard_time": 1757060842,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117875,
       "num": 117875,
       "word": "以为正常其实严重缺觉的行为",
       "onboard_time": 1757057001,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 116989,
+      "num": 116989,
+      "word": "杨蒙恩学街舞时王一博在上小学",
+      "onboard_time": 1757060783,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 115803,
@@ -1611,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101820,
+      "num": 128655,
+      "word": "梓渝两个月拿下顶级男刊",
+      "onboard_time": 1757060242,
+      "rank": 39,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 99886,
       "num": 99886,
       "word": "我需要那种半死不活的朋友",
@@ -1819,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77293,
+      "num": 247975,
+      "word": "民兵方队女兵回家邻居拉横幅迎接",
+      "onboard_time": 1757060602,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 76203,
       "num": 227798,
       "word": "韩一男子一个月2次袭击中国游客",
@@ -1971,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60406,
+      "num": 233147,
+      "word": "第一台带quattro的智能电动车",
+      "onboard_time": 1757059522,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 59035,
       "num": 404415,
       "word": "九三阅兵又有新机位解锁",
@@ -1985,6 +2137,14 @@
       "onboard_time": 1757041281,
       "rank": 27,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 56353,
+      "num": 231075,
+      "word": "白宫证实美国战争部回来了",
+      "onboard_time": 1757060180,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54339,
@@ -2131,6 +2291,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 23261,
+      "num": 129934,
+      "word": "成为刘亦菲梦女易如反掌",
+      "onboard_time": 1757060002,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21570,
       "num": 32616,
       "word": "九三阅兵升旗手父母全程观看骄傲不已",
@@ -2185,6 +2353,14 @@
       "onboard_time": 1757040320,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16082,
+      "num": 128935,
+      "word": "杭州东站乘务员用扩音器劝阻吸烟",
+      "onboard_time": 1757061082,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16047,
