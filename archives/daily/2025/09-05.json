@@ -1,9 +1,9 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757082212617,
+  "endTime": 1757083286489,
   "band_list": [
     {
-      "raw_hot": 3002075,
+      "raw_hot": 3107032,
       "num": 299505,
       "word": "关晓彤听分手歌100多遍鹿晗知道吗",
       "onboard_time": 1757080644,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1256888,
-      "num": 1256888,
+      "raw_hot": 1260399,
+      "num": 1260399,
       "word": "张亮退出张亮麻辣烫股东行列",
       "onboard_time": 1757078241,
       "rank": 17,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 646725,
-      "num": 269133,
+      "num": 285516,
       "word": "医院回应最快女护士被解聘或调岗",
       "onboard_time": 1757067322,
       "rank": 31,
@@ -337,6 +337,14 @@
       "onboard_time": 1757075180,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 598578,
+      "num": 150685,
+      "word": "淘宝崩了",
+      "onboard_time": 1757080282,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 570592,
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533472,
+      "num": 297882,
+      "word": "杭州一酒馆女舞者表演被指擦边",
+      "onboard_time": 1757077221,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 533157,
       "num": 204738,
       "word": "谁给王楚然选的衣服",
@@ -433,6 +449,14 @@
       "onboard_time": 1757056403,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 523604,
+      "num": 523604,
+      "word": "刘亦菲迪丽热巴热聊",
+      "onboard_time": 1757078962,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 512967,
@@ -481,14 +505,6 @@
       "onboard_time": 1757052441,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 485250,
-      "num": 150685,
-      "word": "淘宝崩了",
-      "onboard_time": 1757080282,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 481244,
@@ -547,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 452166,
-      "num": 320610,
-      "word": "刘亦菲迪丽热巴热聊",
-      "onboard_time": 1757078962,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 448713,
       "num": 448713,
       "word": "毛宁发中国阅兵对比图",
@@ -587,7 +595,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 426137,
+      "raw_hot": 430324,
       "num": 346715,
       "word": "鹿晗火力全开了",
       "onboard_time": 1757079201,
@@ -609,6 +617,14 @@
       "onboard_time": 1757056701,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 396017,
+      "num": 396017,
+      "word": "王楚钦的北大开学plog",
+      "onboard_time": 1757079141,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 394771,
@@ -707,20 +723,20 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 330594,
+      "num": 296848,
+      "word": "易烊千玺二巡",
+      "onboard_time": 1757080583,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327966,
       "num": 327966,
       "word": "被外国网友评论阅兵整笑了",
       "onboard_time": 1756998863,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 321110,
-      "num": 321110,
-      "word": "王楚钦的北大开学plog",
-      "onboard_time": 1757079141,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 320547,
@@ -747,28 +763,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300295,
-      "num": 297882,
-      "word": "杭州一酒馆女舞者表演被指擦边",
-      "onboard_time": 1757077221,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298714,
       "num": 298714,
       "word": "路透社评阅兵新武器被外网网友怒怼",
       "onboard_time": 1757034142,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 296848,
-      "num": 296848,
-      "word": "易烊千玺二巡",
-      "onboard_time": 1757080583,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 290595,
@@ -811,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 272289,
+      "num": 272289,
+      "word": "为什么我们不害怕中元节了",
+      "onboard_time": 1757075901,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270766,
       "num": 270766,
       "word": "金晨蝴蝶翅膀是手绘的",
@@ -825,14 +833,6 @@
       "onboard_time": 1756967364,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266001,
-      "num": 266001,
-      "word": "为什么我们不害怕中元节了",
-      "onboard_time": 1757075901,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 263696,
@@ -889,6 +889,14 @@
       "onboard_time": 1757042541,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239241,
+      "num": 239241,
+      "word": "金正恩中国行再次证明一件事",
+      "onboard_time": 1757080883,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 239032,
@@ -1075,6 +1083,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 206106,
+      "num": 206106,
+      "word": "易烊千玺myboo唱跳",
+      "onboard_time": 1757082444,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203805,
       "num": 203805,
       "word": "张杰巡演三城官宣",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1757068761,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 193511,
+      "num": 193511,
+      "word": "3问千万网红只卖了58双鞋",
+      "onboard_time": 1757079262,
+      "rank": 48,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 193470,
@@ -1643,6 +1667,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 153537,
+      "num": 153537,
+      "word": "林允旗袍",
+      "onboard_time": 1757082382,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153446,
       "num": 153446,
       "word": "和平鸽工资15元",
@@ -1675,22 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151593,
-      "num": 151593,
-      "word": "3问千万网红只卖了58双鞋",
-      "onboard_time": 1757079262,
-      "rank": 48,
-      "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 151583,
-      "num": 151583,
-      "word": "金正恩中国行再次证明一件事",
-      "onboard_time": 1757080883,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151283,
       "num": 174467,
       "word": "詹姆斯冒雨打高尔夫球",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1757073500,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149651,
+      "num": 310377,
+      "word": "时空对话版不屈看哭了",
+      "onboard_time": 1757080943,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149091,
@@ -1787,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146897,
+      "num": 146897,
+      "word": "无畏整点朦胧的",
+      "onboard_time": 1757082264,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146474,
       "num": 149727,
       "word": "日本专家称中国阅兵令人震撼",
@@ -1819,12 +1851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144969,
-      "num": 310377,
-      "word": "时空对话版不屈看哭了",
-      "onboard_time": 1757080943,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 144053,
+      "num": 144053,
+      "word": "黄金",
+      "onboard_time": 1757083163,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 143544,
@@ -2083,6 +2115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128045,
+      "num": 128045,
+      "word": "陶喆 没人信我是用嘴吹的",
+      "onboard_time": 1757081845,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127833,
       "num": 127833,
       "word": "明日方舟mujica联动周边",
@@ -2201,6 +2241,22 @@
       "onboard_time": 1757053521,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123714,
+      "num": 123714,
+      "word": "VOGUE销量隐藏",
+      "onboard_time": 1757081964,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 123181,
+      "num": 123181,
+      "word": "贺峻霖把关晓彤胡编乱造那套学走了",
+      "onboard_time": 1757082683,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 123068,
@@ -2361,6 +2417,14 @@
       "onboard_time": 1757049922,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115447,
+      "num": 289876,
+      "word": "时空对话版阅兵MV不屈",
+      "onboard_time": 1757080822,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114830,
@@ -2595,14 +2659,6 @@
       "category": "财经,游戏"
     },
     {
-      "raw_hot": 108107,
-      "num": 108107,
-      "word": "时空对话版阅兵MV不屈",
-      "onboard_time": 1757080822,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 107277,
       "num": 107277,
       "word": "张柏芝美的不知天地为何物了",
@@ -2691,14 +2747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 103961,
-      "num": 103961,
-      "word": "陶喆 没人信我是用嘴吹的",
-      "onboard_time": 1757081845,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 103920,
       "num": 103920,
       "word": "丈夫杀害欲离婚妻子被判死缓",
@@ -2731,6 +2779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103144,
+      "num": 103144,
+      "word": "校草奶茶摇哄我开学",
+      "onboard_time": 1757082264,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102748,
       "num": 102748,
       "word": "成都给詹姆斯的仪式感",
@@ -2753,6 +2809,14 @@
       "onboard_time": 1757055682,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102044,
+      "num": 102044,
+      "word": "Lululemon跌超19%",
+      "onboard_time": 1757083222,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 101221,
@@ -2921,14 +2985,6 @@
       "onboard_time": 1756999703,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92581,
-      "num": 92581,
-      "word": "VOGUE销量隐藏",
-      "onboard_time": 1757081964,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 91695,
@@ -3491,6 +3547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31549,
+      "num": 116388,
+      "word": "泰国把在家吸烟列入家暴范畴",
+      "onboard_time": 1757082022,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 31271,
       "num": 125447,
       "word": "栾留伟的妻子现场观礼九三阅兵",
@@ -3521,14 +3585,6 @@
       "onboard_time": 1757068582,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27177,
-      "num": 116388,
-      "word": "泰国把在家吸烟列入家暴范畴",
-      "onboard_time": 1757082022,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 26839,
