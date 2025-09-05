@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757041966950,
+  "endTime": 1757044060412,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -763,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1176212,
+      "num": 1188193,
+      "word": "黄子韬第一次加徐艺洋就觉得是未来老婆",
+      "onboard_time": 1757041881,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1154761,
       "num": 229408,
       "word": "芒果音乐节阵容",
@@ -921,6 +929,14 @@
       "onboard_time": 1756783341,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 966933,
+      "num": 1131910,
+      "word": "马克龙宣布26国将向乌克兰部署军队",
+      "onboard_time": 1757040320,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 954681,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1756701142,
       "rank": 18,
       "category": "体育,其它"
-    },
-    {
-      "raw_hot": 824441,
-      "num": 1131910,
-      "word": "马克龙宣布26国将向乌克兰部署军队",
-      "onboard_time": 1757040320,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 817580,
@@ -1539,6 +1547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 641149,
+      "num": 641149,
+      "word": "儿童火车票有新规定了",
+      "onboard_time": 1757041640,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630663,
       "num": 588363,
       "word": "坦克下班",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1756944202,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 629172,
+      "num": 629172,
+      "word": "花5万请千万网红带货只卖出58双鞋",
+      "onboard_time": 1757042361,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 628933,
@@ -1787,12 +1811,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 559784,
+      "num": 559784,
+      "word": "田栩宁执伞破风大片",
+      "onboard_time": 1757041101,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559696,
       "num": 559696,
       "word": "被诬陷地铁偷拍男子二审仍求道歉",
       "onboard_time": 1757038221,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558412,
+      "num": 346216,
+      "word": "李兰迪裤子 女装也是完了",
+      "onboard_time": 1757043021,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 553073,
@@ -2081,14 +2121,6 @@
       "onboard_time": 1756698381,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 493591,
-      "num": 493591,
-      "word": "田栩宁执伞破风大片",
-      "onboard_time": 1757041101,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 493425,
@@ -2819,6 +2851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 374280,
+      "num": 223765,
+      "word": "你以为很卫生其实巨脏的行为",
+      "onboard_time": 1757041041,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 370390,
       "num": 211132,
       "word": "斯洛伐克总理不理解欧盟各国不赴华",
@@ -3177,6 +3217,14 @@
       "onboard_time": 1756882045,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 326003,
+      "num": 326003,
+      "word": "学生午休居然进化成这样了",
+      "onboard_time": 1757042119,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 325793,
@@ -3723,6 +3771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270766,
+      "num": 270766,
+      "word": "金晨蝴蝶翅膀是手绘的",
+      "onboard_time": 1757040621,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270532,
       "num": 404544,
       "word": "台湾教授苑举正受邀参加九三阅兵",
@@ -4035,14 +4091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244611,
-      "num": 244611,
-      "word": "儿童火车票有新规定了",
-      "onboard_time": 1757041640,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243992,
       "num": 404848,
       "word": "九三前日本做了哪些小动作",
@@ -4067,20 +4115,20 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 243040,
+      "num": 368420,
+      "word": "张予曦红毯神图",
+      "onboard_time": 1757042541,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242808,
       "num": 242808,
       "word": "汪顺观看阅兵后发文",
       "onboard_time": 1756877308,
       "rank": 47,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 242654,
-      "num": 242654,
-      "word": "金晨蝴蝶翅膀是手绘的",
-      "onboard_time": 1757040621,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 242449,
@@ -4169,6 +4217,14 @@
       "onboard_time": 1756860326,
       "rank": 38,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 237213,
+      "num": 237213,
+      "word": "记者调查千万网红带货成交量之谜",
+      "onboard_time": 1757041941,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236401,
@@ -4403,6 +4459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217408,
+      "num": 217408,
+      "word": "早春晴朗官宣",
+      "onboard_time": 1757042901,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216507,
+      "num": 271141,
+      "word": "桃李面包广告 没饱尝过生活的毒打",
+      "onboard_time": 1757043323,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216504,
       "num": 187040,
       "word": "把不敢带的耳钉带在了书包上",
@@ -4449,6 +4521,14 @@
       "onboard_time": 1756956682,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213767,
+      "num": 273199,
+      "word": "西安通报5人策划低俗求婚剧本被拘",
+      "onboard_time": 1757042781,
+      "rank": 15,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 211975,
@@ -4537,6 +4617,14 @@
       "onboard_time": 1756909825,
       "rank": 40,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 207966,
+      "num": 207966,
+      "word": "飞机上偶遇刘耀文丁程鑫",
+      "onboard_time": 1757038881,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 207384,
@@ -4753,6 +4841,14 @@
       "onboard_time": 1756968983,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197829,
+      "num": 238236,
+      "word": "肖战阿云嘎领导对节目卫生可还满意",
+      "onboard_time": 1757043081,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 197532,
@@ -4995,6 +5091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190186,
+      "num": 190186,
+      "word": "黑白局开播",
+      "onboard_time": 1757043021,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190010,
       "num": 218602,
       "word": "北京市民游客冒雨打卡抗战主题花坛",
@@ -5081,14 +5185,6 @@
       "onboard_time": 1756958544,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 187867,
-      "num": 187867,
-      "word": "飞机上偶遇刘耀文丁程鑫",
-      "onboard_time": 1757038881,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 187828,
@@ -5731,6 +5827,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 164417,
+      "num": 164417,
+      "word": "同事上午入职中午离职",
+      "onboard_time": 1757042781,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164357,
       "num": 197382,
       "word": "戚薇夏家三千金爱情水印时候",
@@ -5857,6 +5961,14 @@
       "onboard_time": 1756697061,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160552,
+      "num": 187468,
+      "word": "中餐厅9收官合伙人泪崩",
+      "onboard_time": 1757043922,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 160509,
@@ -6059,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155292,
+      "num": 200793,
+      "word": "纯爱了30集开始虐了",
+      "onboard_time": 1757041821,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155175,
       "num": 125051,
       "word": "赵丽颖工作室聊明兰",
@@ -6105,6 +6225,14 @@
       "onboard_time": 1756880784,
       "rank": 49,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 154768,
+      "num": 154768,
+      "word": "香港明星团观阅兵泪目",
+      "onboard_time": 1757043982,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 154201,
@@ -6211,6 +6339,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 151217,
+      "num": 151217,
+      "word": "特朗普拟将五角大楼更名为战争部",
+      "onboard_time": 1757043260,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150631,
       "num": 150631,
       "word": "张远唱了八百遍嘉宾",
@@ -6289,14 +6425,6 @@
       "onboard_time": 1756731262,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 149676,
-      "num": 149676,
-      "word": "记者调查千万网红带货成交量之谜",
-      "onboard_time": 1757041941,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149365,
@@ -6401,14 +6529,6 @@
       "onboard_time": 1756819222,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 147157,
-      "num": 200793,
-      "word": "纯爱了30集开始虐了",
-      "onboard_time": 1757041821,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 146644,
@@ -6665,6 +6785,14 @@
       "onboard_time": 1756989802,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139093,
+      "num": 151353,
+      "word": "马頔李纯牵手散步",
+      "onboard_time": 1757043681,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 138458,
@@ -7107,6 +7235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128444,
+      "num": 151729,
+      "word": "三星原型机撞脸iPhone17Pro",
+      "onboard_time": 1757043323,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128367,
       "num": 373716,
       "word": "80年前世界大战让国际社会痛定思痛",
@@ -7217,6 +7353,14 @@
       "onboard_time": 1756789281,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125921,
+      "num": 125921,
+      "word": "WTT北京大满贯",
+      "onboard_time": 1757041281,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 125920,
@@ -7427,14 +7571,6 @@
       "category": "国内时政,互联网"
     },
     {
-      "raw_hot": 121602,
-      "num": 121602,
-      "word": "黄子韬第一次加徐艺洋就觉得是未来老婆",
-      "onboard_time": 1757041881,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121356,
       "num": 121356,
       "word": "樊振东白到发亮",
@@ -7465,14 +7601,6 @@
       "onboard_time": 1756855279,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120760,
-      "num": 120760,
-      "word": "WTT北京大满贯",
-      "onboard_time": 1757041281,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 120538,
@@ -7795,6 +7923,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 114735,
+      "num": 114735,
+      "word": "美军目标是保护本土安全",
+      "onboard_time": 1757043143,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114718,
       "num": 114718,
       "word": "A股9月迎开门红",
@@ -8003,6 +8139,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 110339,
+      "num": 128718,
+      "word": "中国阅兵让英媒直呼大开眼界",
+      "onboard_time": 1757041220,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110211,
       "num": 134516,
       "word": "藏海传霸屏暑期档",
@@ -8052,7 +8196,7 @@
     },
     {
       "raw_hot": 109350,
-      "num": 244329,
+      "num": 271592,
       "word": "买增程先看智己",
       "onboard_time": 1757041461,
       "rank": 17,
@@ -8921,14 +9065,6 @@
       "onboard_time": 1756979662,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93630,
-      "num": 93630,
-      "word": "你以为很卫生其实巨脏的行为",
-      "onboard_time": 1757041041,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 93356,
@@ -11307,6 +11443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46160,
+      "num": 129307,
+      "word": "动车优惠车票9月6日起发售",
+      "onboard_time": 1757043143,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45994,
       "num": 71971,
       "word": "5个细微但很有用的习惯",
@@ -11353,14 +11497,6 @@
       "onboard_time": 1756659318,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42156,
-      "num": 128718,
-      "word": "中国阅兵让英媒直呼大开眼界",
-      "onboard_time": 1757041220,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42004,
