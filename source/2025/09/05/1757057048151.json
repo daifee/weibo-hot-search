@@ -1,0 +1,410 @@
+{
+  "runTime": 1757057048151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 618565,
+        "num": 1098970,
+        "word": "普京看到中国观众秒切中文",
+        "onboard_time": 1757050402,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 519194,
+        "num": 519194,
+        "word": "普京说俄将对等实施对华免签",
+        "onboard_time": 1757054061,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18516,
+        "num": 496143,
+        "word": "九三阅兵分列式9大精彩瞬间",
+        "onboard_time": 1756992564,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 492528,
+        "num": 492528,
+        "word": "金正恩乘专列离京独家视频",
+        "onboard_time": 1757052441,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331770,
+        "num": 331770,
+        "word": "花5万请千万网红带货只卖出58双鞋",
+        "onboard_time": 1757042361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267844,
+        "num": 267844,
+        "word": "儿童火车票有新规定了",
+        "onboard_time": 1757041640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234743,
+        "num": 234743,
+        "word": "毛宁发中国阅兵对比图",
+        "onboard_time": 1757048424,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199250,
+        "num": 233462,
+        "word": "今天又是阅兵戒断失败的一天",
+        "onboard_time": 1757054721,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165233,
+        "num": 232329,
+        "word": "手术室为什么要用花生米",
+        "onboard_time": 1757052922,
+        "rank": 8,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 143785,
+        "num": 230960,
+        "word": "全球第二大网红无语哥中国行官宣",
+        "onboard_time": 1757044762,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 668051,
+        "num": 228962,
+        "word": "刘冲 审美",
+        "onboard_time": 1757048721,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496852,
+        "num": 227896,
+        "word": "闫妮说忘了关晓彤姓啥",
+        "onboard_time": 1757049022,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487950,
+        "num": 225727,
+        "word": "毕雯珺 你闺女睡着了",
+        "onboard_time": 1757051482,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473429,
+        "num": 224235,
+        "word": "张小斐迪丽热巴双人画报",
+        "onboard_time": 1757053821,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 458095,
+        "num": 223338,
+        "word": "刘亦菲 宝格丽",
+        "onboard_time": 1757055080,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 396288,
+        "num": 221306,
+        "word": "李兰迪裤子 女装也是完了",
+        "onboard_time": 1757043021,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310283,
+        "num": 219878,
+        "word": "学生午休居然进化成这样了",
+        "onboard_time": 1757042119,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290713,
+        "num": 217999,
+        "word": "桃李面包广告 没饱尝过生活的毒打",
+        "onboard_time": 1757043323,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348316,
+        "num": 216013,
+        "word": "刘亦菲杨幂倪妮迪丽热巴金九封面",
+        "onboard_time": 1757050342,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260198,
+        "num": 214365,
+        "word": "王栎鑫心脏不适退出xmen舞台",
+        "onboard_time": 1757055262,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235618,
+        "num": 212495,
+        "word": "你以为很卫生其实巨脏的行为",
+        "onboard_time": 1757041041,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 212458,
+        "num": 212458,
+        "word": "特朗普发布与普京的合影",
+        "onboard_time": 1757046144,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211961,
+        "num": 211961,
+        "word": "狗 我回安全屋发泄",
+        "onboard_time": 1757053340,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197791,
+        "num": 197791,
+        "word": "桃李面包称领导正接受现实毒打",
+        "onboard_time": 1757055562,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115751,
+        "num": 193895,
+        "word": "景区NPC仅用两年成了300万粉丝网红",
+        "onboard_time": 1757055321,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192484,
+        "num": 192484,
+        "word": "小时代秒了",
+        "onboard_time": 1757053941,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72829,
+        "num": 183445,
+        "word": "看完阅兵戒断不了一点",
+        "onboard_time": 1757056881,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179373,
+        "num": 179373,
+        "word": "桃李面包为月饼广告致歉",
+        "onboard_time": 1757056161,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143062,
+        "num": 173364,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172238,
+        "num": 172238,
+        "word": "卢靖姗挺孕肚健身",
+        "onboard_time": 1757049861,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187283,
+        "num": 171935,
+        "word": "国足主教练公开选聘",
+        "onboard_time": 1757056522,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162041,
+        "num": 162041,
+        "word": "万千惠 比董璇还晕的人来了",
+        "onboard_time": 1757047045,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170648,
+        "num": 156722,
+        "word": "三件中国稀世珍宝在法国被盗",
+        "onboard_time": 1757056403,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129834,
+        "num": 149727,
+        "word": "日本专家称中国阅兵令人震撼",
+        "onboard_time": 1757052982,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148348,
+        "num": 148348,
+        "word": "deepseek也有被问烦的一天",
+        "onboard_time": 1757054481,
+        "rank": 34,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 135523,
+        "num": 147817,
+        "word": "杭州东站禁烟",
+        "onboard_time": 1757049444,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147771,
+        "num": 147771,
+        "word": "梓渝新歌",
+        "onboard_time": 1757051540,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147315,
+        "num": 147315,
+        "word": "VOGUE金九单人封面",
+        "onboard_time": 1757046144,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62498,
+        "num": 142525,
+        "word": "内娱有自己的金城武",
+        "onboard_time": 1757056821,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58816,
+        "num": 139935,
+        "word": "papi酱热烈欢迎 新时代的康熙来了",
+        "onboard_time": 1757056222,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139465,
+        "num": 139465,
+        "word": "张檬给4个月儿子断夜奶",
+        "onboard_time": 1757055202,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138170,
+        "num": 138170,
+        "word": "曝霉霉着急要孩子",
+        "onboard_time": 1757052501,
+        "rank": 41,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 133202,
+        "num": 133202,
+        "word": "回避型追星",
+        "onboard_time": 1757051122,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123068,
+        "num": 123068,
+        "word": "适合大学生的BGM出现了",
+        "onboard_time": 1757056761,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121822,
+        "num": 121822,
+        "word": "金正恩乘专列离京返程",
+        "onboard_time": 1757031800,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102655,
+        "num": 110772,
+        "word": "陈小春裸考圣体",
+        "onboard_time": 1757055682,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110525,
+        "num": 110525,
+        "word": "易烊千玺刮痧后洗了热水澡",
+        "onboard_time": 1757046144,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108494,
+        "num": 108494,
+        "word": "巨人网络涨超7%",
+        "onboard_time": 1757056701,
+        "rank": 47,
+        "category": "财经,游戏"
+      },
+      {
+        "raw_hot": 106815,
+        "num": 106815,
+        "word": "王楚钦说北京我太熟了",
+        "onboard_time": 1757055262,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103500,
+        "num": 103500,
+        "word": "以为正常其实严重缺觉的行为",
+        "onboard_time": 1757057001,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#双手相握里有家国民族之重#"
+    }
+  }
+}

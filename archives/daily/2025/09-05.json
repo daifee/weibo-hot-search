@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757054918255,
+  "endTime": 1757057048151,
   "band_list": [
     {
       "raw_hot": 1872687,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519194,
+      "num": 519194,
+      "word": "普京说俄将对等实施对华免签",
+      "onboard_time": 1757054061,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 512967,
       "num": 127860,
       "word": "特朗普承认观看中国阅兵",
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492528,
+      "num": 492528,
+      "word": "金正恩乘专列离京独家视频",
+      "onboard_time": 1757052441,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 481244,
       "num": 229335,
       "word": "易烊千玺身体状况不理想",
@@ -329,6 +345,14 @@
       "onboard_time": 1757032582,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458095,
+      "num": 223338,
+      "word": "刘亦菲 宝格丽",
+      "onboard_time": 1757055080,
+      "rank": 14,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 448713,
@@ -361,14 +385,6 @@
       "onboard_time": 1757047283,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 368328,
-      "num": 368328,
-      "word": "金正恩乘专列离京独家视频",
-      "onboard_time": 1757052441,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 354153,
@@ -483,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 260198,
+      "num": 214365,
+      "word": "王栎鑫心脏不适退出xmen舞台",
+      "onboard_time": 1757055262,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256150,
       "num": 256150,
       "word": "云南牟定一对兄妹被蜂群蜇伤致死",
@@ -579,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217194,
-      "num": 309444,
-      "word": "普京说俄将对等实施对华免签",
-      "onboard_time": 1757054061,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 214852,
       "num": 214852,
       "word": "同事上午入职中午离职",
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 212825,
-      "num": 212825,
+      "num": 232329,
       "word": "手术室为什么要用花生米",
       "onboard_time": 1757052922,
       "rank": 25,
@@ -633,6 +649,14 @@
       "onboard_time": 1757049142,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211961,
+      "num": 211961,
+      "word": "狗 我回安全屋发泄",
+      "onboard_time": 1757053340,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 208309,
@@ -699,6 +723,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 199250,
+      "num": 233462,
+      "word": "今天又是阅兵戒断失败的一天",
+      "onboard_time": 1757054721,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 197791,
+      "num": 197791,
+      "word": "桃李面包称领导正接受现实毒打",
+      "onboard_time": 1757055562,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196314,
       "num": 196314,
       "word": "苏醒宁愿叫妈妈也不愿跳MAMA",
@@ -731,6 +771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192484,
+      "num": 192484,
+      "word": "小时代秒了",
+      "onboard_time": 1757053941,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191421,
       "num": 606757,
       "word": "肖战对细节抠到这种程度",
@@ -755,20 +803,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188342,
-      "num": 188342,
-      "word": "狗 我回安全屋发泄",
-      "onboard_time": 1757053340,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187432,
       "num": 187432,
       "word": "2025追番最爽的国漫",
       "onboard_time": 1757041640,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 187283,
+      "num": 171935,
+      "word": "国足主教练公开选聘",
+      "onboard_time": 1757056522,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 185729,
@@ -811,12 +859,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180227,
-      "num": 180227,
-      "word": "小时代秒了",
-      "onboard_time": 1757053941,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 179373,
+      "num": 179373,
+      "word": "桃李面包为月饼广告致歉",
+      "onboard_time": 1757056161,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174994,
@@ -881,6 +929,14 @@
       "onboard_time": 1757046023,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170648,
+      "num": 156722,
+      "word": "三件中国稀世珍宝在法国被盗",
+      "onboard_time": 1757056403,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 169831,
@@ -1035,6 +1091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148348,
+      "num": 148348,
+      "word": "deepseek也有被问烦的一天",
+      "onboard_time": 1757054481,
+      "rank": 42,
+      "category": "幽默,互联网"
+    },
+    {
       "raw_hot": 147737,
       "num": 147737,
       "word": "阅兵当天给30桌客人免单老板发声",
@@ -1052,10 +1116,18 @@
     },
     {
       "raw_hot": 146474,
-      "num": 146474,
+      "num": 149727,
       "word": "日本专家称中国阅兵令人震撼",
       "onboard_time": 1757052982,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 143062,
+      "num": 173364,
+      "word": "受阅官兵晒出专属阅兵脸",
+      "onboard_time": 1757056701,
+      "rank": 28,
       "category": "国内时政"
     },
     {
@@ -1081,6 +1153,14 @@
       "onboard_time": 1757032463,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139465,
+      "num": 139465,
+      "word": "张檬给4个月儿子断夜奶",
+      "onboard_time": 1757055202,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 139364,
@@ -1113,22 +1193,6 @@
       "onboard_time": 1756992564,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 135720,
-      "num": 135720,
-      "word": "今天又是阅兵戒断失败的一天",
-      "onboard_time": 1757054721,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 135044,
-      "num": 135044,
-      "word": "deepseek也有被问烦的一天",
-      "onboard_time": 1757054481,
-      "rank": 42,
-      "category": "幽默,互联网"
     },
     {
       "raw_hot": 132191,
@@ -1267,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123068,
+      "num": 123068,
+      "word": "适合大学生的BGM出现了",
+      "onboard_time": 1757056761,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121815,
       "num": 122218,
       "word": "8万羽和平鸽来自3千多个养鸽人",
@@ -1305,6 +1377,14 @@
       "onboard_time": 1756972222,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115751,
+      "num": 193895,
+      "word": "景区NPC仅用两年成了300万粉丝网红",
+      "onboard_time": 1757055321,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 115672,
@@ -1403,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108494,
+      "num": 108494,
+      "word": "巨人网络涨超7%",
+      "onboard_time": 1757056701,
+      "rank": 47,
+      "category": "财经,游戏"
+    },
+    {
       "raw_hot": 107277,
       "num": 107277,
       "word": "张柏芝美的不知天地为何物了",
@@ -1417,6 +1505,14 @@
       "onboard_time": 1756998085,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106815,
+      "num": 106815,
+      "word": "王楚钦说北京我太熟了",
+      "onboard_time": 1757055262,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 105393,
@@ -1451,12 +1547,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103500,
+      "num": 103500,
+      "word": "以为正常其实严重缺觉的行为",
+      "onboard_time": 1757057001,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 102668,
       "num": 102668,
       "word": "成都双子塔致敬詹姆斯",
       "onboard_time": 1757036421,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102655,
+      "num": 110772,
+      "word": "陈小春裸考圣体",
+      "onboard_time": 1757055682,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 99886,
@@ -1683,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72829,
+      "num": 183445,
+      "word": "看完阅兵戒断不了一点",
+      "onboard_time": 1757056881,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72417,
       "num": 81785,
       "word": "宋茜出道十六周年",
@@ -1771,6 +1891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62498,
+      "num": 142525,
+      "word": "内娱有自己的金城武",
+      "onboard_time": 1757056821,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60957,
       "num": 76702,
       "word": "腹式呼吸具象化了",
@@ -1801,6 +1929,14 @@
       "onboard_time": 1756992144,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58816,
+      "num": 139935,
+      "word": "papi酱热烈欢迎 新时代的康熙来了",
+      "onboard_time": 1757056222,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 56569,
