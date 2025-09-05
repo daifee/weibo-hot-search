@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757104010457,
+  "endTime": 1757104809982,
   "band_list": [
     {
       "raw_hot": 1394387,
@@ -427,20 +427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24814,
+      "num": 19916,
+      "word": "呼吁开除最快女护士言论越界了",
+      "onboard_time": 1757101274,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24204,
       "num": 101252,
       "word": "缅怀抗战先烈",
       "onboard_time": 1757092517,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22632,
-      "num": 18345,
-      "word": "呼吁开除最快女护士言论越界了",
-      "onboard_time": 1757101274,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19553,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 13454,
-      "num": 18320,
+      "num": 19900,
       "word": "WMA年度五大推荐入围名单",
       "onboard_time": 1757094077,
       "rank": 43,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/06 00:28:43 ~ 2025/09/06 04:26:50
+本榜单时间：2025/09/06 00:28:43 ~ 2025/09/06 04:40:09
 </p>
 </blockquote>
 <p>
@@ -333,14 +333,14 @@ VOGUE（热度：103224）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E6%80%80%E6%8A%97%E6%88%98%E5%85%88%E7%83%88%23" target="weibo">
-缅怀抗战先烈（热度：24204）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%81%E5%BC%80%E9%99%A4%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%A8%80%E8%AE%BA%E8%B6%8A%E7%95%8C%E4%BA%86%23" target="weibo">
+呼吁开除最快女护士言论越界了（热度：24814）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%81%E5%BC%80%E9%99%A4%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%A8%80%E8%AE%BA%E8%B6%8A%E7%95%8C%E4%BA%86%23" target="weibo">
-呼吁开除最快女护士言论越界了（热度：22632）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E6%80%80%E6%8A%97%E6%88%98%E5%85%88%E7%83%88%23" target="weibo">
+缅怀抗战先烈（热度：24204）
 </a>
 </li>
 
