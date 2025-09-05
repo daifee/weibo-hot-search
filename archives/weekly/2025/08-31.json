@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1757050802278,
+  "endTime": 1757054178829,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1419,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 802587,
+      "num": 1088165,
+      "word": "闫妮说忘了关晓彤姓啥",
+      "onboard_time": 1757049022,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 799804,
       "num": 266571,
       "word": "日媒爆中国驱逐舰绕了日本一圈",
@@ -1795,6 +1803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 630588,
+      "num": 1100894,
+      "word": "普京看到中国观众秒切中文",
+      "onboard_time": 1757050402,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 629559,
       "num": 629559,
       "word": "受阅军人离开获夹道欢呼",
@@ -1923,6 +1939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 604278,
+      "num": 214311,
+      "word": "刘亦菲杨幂倪妮迪丽热巴金九封面",
+      "onboard_time": 1757050342,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 603600,
       "num": 603600,
       "word": "阅兵结束一只和平鸽停在人群中间",
@@ -1985,6 +2009,14 @@
       "onboard_time": 1756806081,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 576995,
+      "num": 206377,
+      "word": "张小斐迪丽热巴双人画报",
+      "onboard_time": 1757053821,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 575959,
@@ -2105,14 +2137,6 @@
       "onboard_time": 1756883844,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 551032,
-      "num": 1088165,
-      "word": "闫妮说忘了关晓彤姓啥",
-      "onboard_time": 1757049022,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 550610,
@@ -2241,6 +2265,14 @@
       "onboard_time": 1756996284,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 536613,
+      "num": 206712,
+      "word": "毕雯珺 你闺女睡着了",
+      "onboard_time": 1757051482,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 535646,
@@ -2904,6 +2936,14 @@
       "word": "多国政要与抗战老战士握手",
       "onboard_time": 1756861642,
       "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 430306,
+      "num": 430306,
+      "word": "毛宁发中国阅兵对比图",
+      "onboard_time": 1757048424,
+      "rank": 17,
       "category": "国内时政"
     },
     {
@@ -3611,6 +3651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345005,
+      "num": 206177,
+      "word": "卢靖姗挺孕肚健身",
+      "onboard_time": 1757049861,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344926,
       "num": 344926,
       "word": "金价大涨两大原因",
@@ -3897,6 +3945,14 @@
       "onboard_time": 1756973061,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322841,
+      "num": 322841,
+      "word": "金正恩乘专列离京独家视频",
+      "onboard_time": 1757052441,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 321691,
@@ -4899,14 +4955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248747,
-      "num": 202659,
-      "word": "卢靖姗挺孕肚健身",
-      "onboard_time": 1757049861,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247271,
       "num": 112059,
       "word": "iPhone17Pro涨价",
@@ -5105,6 +5153,14 @@
       "onboard_time": 1756860326,
       "rank": 38,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 237228,
+      "num": 205976,
+      "word": "梓渝新歌",
+      "onboard_time": 1757051540,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 237213,
@@ -5419,6 +5475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218047,
+      "num": 218047,
+      "word": "杭州东站禁烟",
+      "onboard_time": 1757049444,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217967,
       "num": 217967,
       "word": "詹姆斯打卡东方明珠",
@@ -5505,14 +5569,6 @@
       "onboard_time": 1756956682,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214311,
-      "num": 214311,
-      "word": "刘亦菲杨幂倪妮迪丽热巴金九封面",
-      "onboard_time": 1757050342,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 214049,
@@ -5755,6 +5811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205764,
+      "num": 205764,
+      "word": "手术室为什么要用花生米",
+      "onboard_time": 1757052922,
+      "rank": 25,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 205718,
       "num": 232022,
       "word": "李现跳刀马刀马",
@@ -5792,14 +5856,6 @@
       "word": "19450902日本签署投降书",
       "onboard_time": 1756769118,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 204836,
-      "num": 285605,
-      "word": "毛宁发中国阅兵对比图",
-      "onboard_time": 1757048424,
-      "rank": 17,
       "category": "国内时政"
     },
     {
@@ -6107,6 +6163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196314,
+      "num": 196314,
+      "word": "苏醒宁愿叫妈妈也不愿跳MAMA",
+      "onboard_time": 1757053821,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195944,
       "num": 404281,
       "word": "孙颖莎进入国家队10周年",
@@ -6153,6 +6217,14 @@
       "onboard_time": 1756595898,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195010,
+      "num": 174910,
+      "word": "回避型追星",
+      "onboard_time": 1757051122,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 194814,
@@ -7099,14 +7171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171518,
-      "num": 203551,
-      "word": "杭州东站禁烟",
-      "onboard_time": 1757049444,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171506,
       "num": 222086,
       "word": "给贺峻霖想出贺俊脸的人是天才",
@@ -7481,6 +7545,14 @@
       "onboard_time": 1756709900,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163915,
+      "num": 163915,
+      "word": "狗 我回安全屋发泄",
+      "onboard_time": 1757053340,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 163879,
@@ -8411,14 +8483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146497,
-      "num": 258563,
-      "word": "普京看到中国观众秒切中文",
-      "onboard_time": 1757050402,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 146353,
       "num": 129826,
       "word": "aespa导播还是太会切屏了",
@@ -8761,6 +8825,14 @@
       "onboard_time": 1757032463,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139545,
+      "num": 139545,
+      "word": "曝霉霉着急要孩子",
+      "onboard_time": 1757052501,
+      "rank": 36,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 139364,
@@ -9683,6 +9755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123821,
+      "num": 139097,
+      "word": "余依婷200混预赛头名",
+      "onboard_time": 1757053941,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123801,
       "num": 216814,
       "word": "五月天陈粒同台",
@@ -9695,6 +9775,22 @@
       "num": 123745,
       "word": "小哥俩10年3次屋顶看阅兵",
       "onboard_time": 1757028318,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 123734,
+      "num": 123734,
+      "word": "深圳已有超200所中小学实现午休躺睡",
+      "onboard_time": 1757053521,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123545,
+      "num": 123545,
+      "word": "日本专家称中国阅兵令人震撼",
+      "onboard_time": 1757052982,
       "rank": 42,
       "category": "国内时政"
     },
@@ -9857,6 +9953,14 @@
       "onboard_time": 1757033423,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120963,
+      "num": 120963,
+      "word": "花旗银行声明",
+      "onboard_time": 1757051661,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 120806,
@@ -10459,6 +10563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114193,
+      "num": 189592,
+      "word": "鹿晗拒绝staff帮忙系鞋带",
+      "onboard_time": 1757054001,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114128,
       "num": 230348,
       "word": "敖瑞鹏回应不刮胡子",
@@ -10624,6 +10736,14 @@
       "word": "河南小伙将在天安门广场升起国旗",
       "onboard_time": 1756822642,
       "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 111911,
+      "num": 111911,
+      "word": "北京街边一群人刷夜等阅兵",
+      "onboard_time": 1757053761,
+      "rank": 45,
       "category": "国内时政"
     },
     {
@@ -11019,6 +11139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107277,
+      "num": 107277,
+      "word": "张柏芝美的不知天地为何物了",
+      "onboard_time": 1757050102,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107211,
       "num": 219511,
       "word": "华为首次官宣非凡大师品牌LOGO",
@@ -11065,6 +11193,14 @@
       "onboard_time": 1756713321,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106737,
+      "num": 106737,
+      "word": "小时代秒了",
+      "onboard_time": 1757053941,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 106719,
@@ -11297,6 +11433,14 @@
       "onboard_time": 1756567344,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 103891,
+      "num": 106047,
+      "word": "刘亦菲VOGUE单人封",
+      "onboard_time": 1757051602,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 103787,
@@ -12459,6 +12603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88832,
+      "num": 139097,
+      "word": "李承铉对张晋愧疚道歉",
+      "onboard_time": 1757053821,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88783,
       "num": 199765,
       "word": "黄雅琼世锦赛观后感",
@@ -13345,6 +13497,14 @@
       "onboard_time": 1756724662,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 80312,
+      "num": 158134,
+      "word": "俄方回应邀请泽连斯基来莫斯科",
+      "onboard_time": 1757052803,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80271,
@@ -14643,6 +14803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60835,
+      "num": 121066,
+      "word": "毕雯珺黑化这段给我爽麻了",
+      "onboard_time": 1757052803,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60447,
       "num": 248361,
       "word": "台湾教授苑举正阅兵现场热泪盈眶",
@@ -15577,6 +15745,14 @@
       "onboard_time": 1756781840,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32115,
+      "num": 187005,
+      "word": "普京说俄将对等实施对华免签",
+      "onboard_time": 1757054061,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32100,

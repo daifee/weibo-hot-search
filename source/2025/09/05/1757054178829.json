@@ -1,0 +1,410 @@
+{
+  "runTime": 1757054178829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 630588,
+        "num": 1100894,
+        "word": "普京看到中国观众秒切中文",
+        "onboard_time": 1757050402,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 430306,
+        "num": 430306,
+        "word": "毛宁发中国阅兵对比图",
+        "onboard_time": 1757048424,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18693,
+        "num": 400880,
+        "word": "九三阅兵分列式9大精彩瞬间",
+        "onboard_time": 1756992564,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 372402,
+        "num": 372402,
+        "word": "儿童火车票有新规定了",
+        "onboard_time": 1757041640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329400,
+        "num": 329400,
+        "word": "花5万请千万网红带货只卖出58双鞋",
+        "onboard_time": 1757042361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437818,
+        "num": 328351,
+        "word": "特朗普发布与普京的合影",
+        "onboard_time": 1757046144,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 322841,
+        "num": 322841,
+        "word": "金正恩乘专列离京独家视频",
+        "onboard_time": 1757052441,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229880,
+        "num": 229880,
+        "word": "男子诋毁九三阅兵被拘",
+        "onboard_time": 1756993284,
+        "rank": 7,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 218047,
+        "num": 218047,
+        "word": "杭州东站禁烟",
+        "onboard_time": 1757049444,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206966,
+        "num": 206966,
+        "word": "全球第二大网红无语哥中国行官宣",
+        "onboard_time": 1757044762,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1108905,
+        "num": 206905,
+        "word": "刘冲 审美",
+        "onboard_time": 1757048721,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 802587,
+        "num": 206855,
+        "word": "闫妮说忘了关晓彤姓啥",
+        "onboard_time": 1757049022,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604278,
+        "num": 206785,
+        "word": "刘亦菲杨幂倪妮迪丽热巴金九封面",
+        "onboard_time": 1757050342,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 536613,
+        "num": 206712,
+        "word": "毕雯珺 你闺女睡着了",
+        "onboard_time": 1757051482,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478975,
+        "num": 206621,
+        "word": "李兰迪裤子 女装也是完了",
+        "onboard_time": 1757043021,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435266,
+        "num": 206526,
+        "word": "桃李面包广告 没饱尝过生活的毒打",
+        "onboard_time": 1757043323,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415928,
+        "num": 206460,
+        "word": "万千惠 比董璇还晕的人来了",
+        "onboard_time": 1757047045,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 576995,
+        "num": 206377,
+        "word": "张小斐迪丽热巴双人画报",
+        "onboard_time": 1757053821,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402412,
+        "num": 206258,
+        "word": "学生午休居然进化成这样了",
+        "onboard_time": 1757042119,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345005,
+        "num": 206177,
+        "word": "卢靖姗挺孕肚健身",
+        "onboard_time": 1757049861,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308398,
+        "num": 206134,
+        "word": "VOGUE金九单人封面",
+        "onboard_time": 1757046144,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251549,
+        "num": 206069,
+        "word": "你以为很卫生其实巨脏的行为",
+        "onboard_time": 1757041041,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 237228,
+        "num": 205976,
+        "word": "梓渝新歌",
+        "onboard_time": 1757051540,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236915,
+        "num": 205845,
+        "word": "杨紫或登VOGUE银十",
+        "onboard_time": 1757047283,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131560,
+        "num": 205802,
+        "word": "虞书欣何与双轨团综杀青",
+        "onboard_time": 1757048962,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205764,
+        "num": 205764,
+        "word": "手术室为什么要用花生米",
+        "onboard_time": 1757052922,
+        "rank": 25,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 196314,
+        "num": 196314,
+        "word": "苏醒宁愿叫妈妈也不愿跳MAMA",
+        "onboard_time": 1757053821,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161232,
+        "num": 194259,
+        "word": "外媒被东风61惊艳",
+        "onboard_time": 1757049561,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130434,
+        "num": 191692,
+        "word": "孟子义尚公主首套造型路透",
+        "onboard_time": 1757048962,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114193,
+        "num": 189592,
+        "word": "鹿晗拒绝staff帮忙系鞋带",
+        "onboard_time": 1757054001,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32115,
+        "num": 187005,
+        "word": "普京说俄将对等实施对华免签",
+        "onboard_time": 1757054061,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185428,
+        "num": 185428,
+        "word": "张维伊背的是董璇的包吗",
+        "onboard_time": 1757044462,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195010,
+        "num": 174910,
+        "word": "回避型追星",
+        "onboard_time": 1757051122,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163915,
+        "num": 163915,
+        "word": "狗 我回安全屋发泄",
+        "onboard_time": 1757053340,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80312,
+        "num": 158134,
+        "word": "俄方回应邀请泽连斯基来莫斯科",
+        "onboard_time": 1757052803,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155394,
+        "num": 155394,
+        "word": "26岁确诊癌症早期后的忠告",
+        "onboard_time": 1757048962,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139545,
+        "num": 139545,
+        "word": "曝霉霉着急要孩子",
+        "onboard_time": 1757052501,
+        "rank": 36,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 123821,
+        "num": 139097,
+        "word": "余依婷200混预赛头名",
+        "onboard_time": 1757053941,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88832,
+        "num": 139097,
+        "word": "李承铉对张晋愧疚道歉",
+        "onboard_time": 1757053821,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139097,
+        "num": 139096,
+        "word": "曝明星化妆师平均八万一次",
+        "onboard_time": 1757045122,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127334,
+        "num": 127334,
+        "word": "被诬陷地铁偷拍男子二审仍求道歉",
+        "onboard_time": 1757038221,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123734,
+        "num": 123734,
+        "word": "深圳已有超200所中小学实现午休躺睡",
+        "onboard_time": 1757053521,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123545,
+        "num": 123545,
+        "word": "日本专家称中国阅兵令人震撼",
+        "onboard_time": 1757052982,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60835,
+        "num": 121066,
+        "word": "毕雯珺黑化这段给我爽麻了",
+        "onboard_time": 1757052803,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120963,
+        "num": 120963,
+        "word": "花旗银行声明",
+        "onboard_time": 1757051661,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111911,
+        "num": 111911,
+        "word": "北京街边一群人刷夜等阅兵",
+        "onboard_time": 1757053761,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107277,
+        "num": 107277,
+        "word": "张柏芝美的不知天地为何物了",
+        "onboard_time": 1757050102,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106737,
+        "num": 106737,
+        "word": "小时代秒了",
+        "onboard_time": 1757053941,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103891,
+        "num": 106047,
+        "word": "刘亦菲VOGUE单人封",
+        "onboard_time": 1757051602,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103670,
+        "num": 105580,
+        "word": "张小斐VOGUE金九封面",
+        "onboard_time": 1757050703,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#双手相握里有家国民族之重#"
+    }
+  }
+}
