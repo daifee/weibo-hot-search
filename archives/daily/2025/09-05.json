@@ -1,7 +1,15 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757041427439,
+  "endTime": 1757041966950,
   "band_list": [
+    {
+      "raw_hot": 1625947,
+      "num": 1189429,
+      "word": "金钟国婚礼",
+      "onboard_time": 1757038701,
+      "rank": 1,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1456231,
       "num": 1456231,
@@ -11,16 +19,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1278810,
-      "num": 1189429,
-      "word": "金钟国婚礼",
-      "onboard_time": 1757038701,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1269017,
-      "num": 199961,
+      "num": 243239,
       "word": "杨幂 拿奖了给何晟铭跪下",
       "onboard_time": 1757031321,
       "rank": 20,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 824441,
+      "num": 1131910,
+      "word": "马克龙宣布26国将向乌克兰部署军队",
+      "onboard_time": 1757040320,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 792540,
       "num": 792540,
       "word": "女子在医院做微创手术脑死亡离世",
@@ -108,27 +116,27 @@
     },
     {
       "raw_hot": 622474,
-      "num": 198957,
+      "num": 242741,
       "word": "钟楚曦自己化妆一年能省下来一套房",
       "onboard_time": 1757032161,
       "rank": 21,
       "category": "艺人"
     },
     {
-      "raw_hot": 535597,
-      "num": 535597,
+      "raw_hot": 559696,
+      "num": 559696,
+      "word": "被诬陷地铁偷拍男子二审仍求道歉",
+      "onboard_time": 1757038221,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 549211,
+      "num": 549211,
       "word": "早春晴朗",
       "onboard_time": 1757038941,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 533894,
-      "num": 291641,
-      "word": "马克龙宣布26国将向乌克兰部署军队",
-      "onboard_time": 1757040320,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 512967,
@@ -147,16 +155,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 497739,
-      "num": 497739,
-      "word": "被诬陷地铁偷拍男子二审仍求道歉",
-      "onboard_time": 1757038221,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 493591,
+      "num": 493591,
+      "word": "田栩宁执伞破风大片",
+      "onboard_time": 1757041101,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 481244,
-      "num": 196853,
+      "num": 229335,
       "word": "易烊千玺身体状况不理想",
       "onboard_time": 1757031682,
       "rank": 22,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 423521,
-      "num": 282818,
+      "num": 328019,
       "word": "德国7名候选人不到两周接连离世",
       "onboard_time": 1757038041,
       "rank": 30,
@@ -243,12 +251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247804,
-      "num": 247804,
-      "word": "田栩宁执伞破风大片",
+      "raw_hot": 256150,
+      "num": 256150,
+      "word": "云南牟定一对兄妹被蜂群蜇伤致死",
+      "onboard_time": 1757037380,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249665,
+      "num": 249665,
+      "word": "中国首部太空电影上映",
       "onboard_time": 1757041101,
-      "rank": 14,
-      "category": "艺人"
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 244849,
@@ -256,6 +272,22 @@
       "word": "张颂文戴耳钉",
       "onboard_time": 1757034922,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 244611,
+      "num": 244611,
+      "word": "儿童火车票有新规定了",
+      "onboard_time": 1757041640,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242654,
+      "num": 242654,
+      "word": "金晨蝴蝶翅膀是手绘的",
+      "onboard_time": 1757040621,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -283,12 +315,28 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 204086,
-      "num": 204086,
-      "word": "金晨蝴蝶翅膀是手绘的",
-      "onboard_time": 1757040621,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 201931,
+      "num": 212947,
+      "word": "刘耀文小恶魔上身",
+      "onboard_time": 1757041581,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200504,
+      "num": 214422,
+      "word": "WMA微博音乐盛典",
+      "onboard_time": 1757041461,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 200073,
+      "num": 200073,
+      "word": "终于知道结婚后为啥容易变胖了",
+      "onboard_time": 1757040320,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 191421,
@@ -307,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187432,
+      "num": 187432,
+      "word": "2025追番最爽的国漫",
+      "onboard_time": 1757041640,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 185108,
       "num": 162995,
       "word": "坚持运动30天就像换了一个人",
@@ -321,14 +377,6 @@
       "onboard_time": 1757031141,
       "rank": 25,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 179757,
-      "num": 179757,
-      "word": "云南牟定一对兄妹被蜂群蜇伤致死",
-      "onboard_time": 1757037380,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172843,
@@ -403,20 +451,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 149012,
-      "num": 149012,
-      "word": "终于知道结婚后为啥容易变胖了",
-      "onboard_time": 1757040320,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 149676,
+      "num": 149676,
+      "word": "记者调查千万网红带货成交量之谜",
+      "onboard_time": 1757041941,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 142883,
-      "num": 202022,
-      "word": "中国首部太空电影上映",
-      "onboard_time": 1757041101,
-      "rank": 19,
-      "category": "电影"
+      "raw_hot": 147157,
+      "num": 200793,
+      "word": "纯爱了30集开始虐了",
+      "onboard_time": 1757041821,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 139568,
@@ -451,6 +499,22 @@
       "category": "国内时政,情感"
     },
     {
+      "raw_hot": 130558,
+      "num": 150314,
+      "word": "赵昭仪太能张罗了",
+      "onboard_time": 1757038941,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128068,
+      "num": 191411,
+      "word": "檀健次首次为动画电影配音",
+      "onboard_time": 1757040860,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127161,
       "num": 127161,
       "word": "谷爱凌粉色长裙超美",
@@ -465,6 +529,22 @@
       "onboard_time": 1757033542,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125127,
+      "num": 125127,
+      "word": "胡锡进称阅兵后西方出现惊慌感",
+      "onboard_time": 1757041821,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 125121,
+      "num": 125121,
+      "word": "当你不停运动七个月后",
+      "onboard_time": 1757040500,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 123745,
@@ -483,12 +563,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121602,
+      "num": 121602,
+      "word": "黄子韬第一次加徐艺洋就觉得是未来老婆",
+      "onboard_time": 1757041881,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121077,
       "num": 121077,
       "word": "居然真的有人有猫兵啊",
       "onboard_time": 1757033423,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120760,
+      "num": 120760,
+      "word": "WTT北京大满贯",
+      "onboard_time": 1757041281,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 119166,
@@ -539,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109350,
+      "num": 244329,
+      "word": "买增程先看智己",
+      "onboard_time": 1757041461,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 108879,
       "num": 175113,
       "word": "731首日排片占比超99.7%",
@@ -555,28 +659,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107655,
-      "num": 107655,
-      "word": "当你不停运动七个月后",
-      "onboard_time": 1757040500,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 106917,
       "num": 106917,
       "word": "男宝星球2",
       "onboard_time": 1756998085,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105233,
-      "num": 191411,
-      "word": "檀健次首次为动画电影配音",
-      "onboard_time": 1757040860,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 104246,
@@ -601,14 +689,6 @@
       "onboard_time": 1757036421,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101632,
-      "num": 150314,
-      "word": "赵昭仪太能张罗了",
-      "onboard_time": 1757038941,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 99886,
@@ -681,14 +761,6 @@
       "onboard_time": 1756999703,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91937,
-      "num": 91937,
-      "word": "WTT北京大满贯",
-      "onboard_time": 1757041281,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 91695,
@@ -932,7 +1004,7 @@
     },
     {
       "raw_hot": 56569,
-      "num": 166632,
+      "num": 328113,
       "word": "警方通报男子诋毁九三阅兵被拘留",
       "onboard_time": 1757041281,
       "rank": 27,
@@ -988,7 +1060,7 @@
     },
     {
       "raw_hot": 42156,
-      "num": 105241,
+      "num": 128718,
       "word": "中国阅兵让英媒直呼大开眼界",
       "onboard_time": 1757041220,
       "rank": 39,
@@ -1011,8 +1083,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30612,
-      "num": 92714,
+      "raw_hot": 31271,
+      "num": 125447,
       "word": "栾留伟的妻子现场观礼九三阅兵",
       "onboard_time": 1757041341,
       "rank": 44,
@@ -1041,6 +1113,14 @@
       "onboard_time": 1757017933,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21398,
+      "num": 128822,
+      "word": "绝症女孩读前男友遗言泣不成声",
+      "onboard_time": 1757041760,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19467,
