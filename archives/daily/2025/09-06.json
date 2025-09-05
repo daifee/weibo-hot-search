@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757107331762,
+  "endTime": 1757108201770,
   "band_list": [
     {
       "raw_hot": 1394387,
@@ -235,8 +235,8 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 122761,
-      "num": 133548,
+      "raw_hot": 126911,
+      "num": 180305,
       "word": "美国拘捕300名韩国人",
       "onboard_time": 1757085563,
       "rank": 38,
@@ -371,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70949,
+      "num": 27279,
+      "word": "呼吁开除最快女护士言论越界了",
+      "onboard_time": 1757101274,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70371,
       "num": 70371,
       "word": "香港夫妇被东北菜量震惊",
@@ -401,14 +409,6 @@
       "onboard_time": 1757073020,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 55374,
-      "num": 27279,
-      "word": "呼吁开除最快女护士言论越界了",
-      "onboard_time": 1757101274,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48577,
@@ -443,20 +443,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20973,
+      "num": 20973,
+      "word": "怪不得说东北人干啥都大大方方的",
+      "onboard_time": 1757105954,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19553,
       "num": 36064,
       "word": "老人讲述日军屠杀细节字字泣血",
       "onboard_time": 1757095636,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16675,
-      "num": 16675,
-      "word": "怪不得说东北人干啥都大大方方的",
-      "onboard_time": 1757105954,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 14802,
@@ -497,6 +497,14 @@
       "onboard_time": 1757068521,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 8500,
+      "num": 16505,
+      "word": "体育健儿看阅兵感想来了",
+      "onboard_time": 1757102895,
+      "rank": 49,
+      "category": "体育,国内时政"
     }
   ],
   "hotgov_list": [
