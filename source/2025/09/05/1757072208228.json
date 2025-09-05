@@ -1,0 +1,410 @@
+{
+  "runTime": 1757072208228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 519360,
+        "num": 1083097,
+        "word": "阅兵结束拆座椅",
+        "onboard_time": 1757063542,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470707,
+        "num": 470707,
+        "word": "外媒酸中国装备没实战翻车",
+        "onboard_time": 1757060962,
+        "rank": 1,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 46187,
+        "num": 373005,
+        "word": "纯享版九三阅兵解说词",
+        "onboard_time": 1757061742,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314748,
+        "num": 314748,
+        "word": "复旦食堂 鹅肝汉堡爆火",
+        "onboard_time": 1757065522,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267836,
+        "num": 267836,
+        "word": "中方回应特朗普将国防部改战争部",
+        "onboard_time": 1757065223,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238791,
+        "num": 238791,
+        "word": "阅兵后劲真的太大了",
+        "onboard_time": 1757069660,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174957,
+        "num": 174957,
+        "word": "手术室为什么要用花生米",
+        "onboard_time": 1757052922,
+        "rank": 6,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 148138,
+        "num": 174932,
+        "word": "卢伟冰回应小米16提档",
+        "onboard_time": 1757068761,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143446,
+        "num": 174830,
+        "word": "普京说俄将对等实施对华免签",
+        "onboard_time": 1757054061,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48647,
+        "num": 174734,
+        "word": "这是美国内部事务中方不评论",
+        "onboard_time": 1757071521,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 747548,
+        "num": 174594,
+        "word": "炎亚纶纯恨",
+        "onboard_time": 1757066121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1147985,
+        "num": 174468,
+        "word": "马思纯的字",
+        "onboard_time": 1757068161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586684,
+        "num": 174348,
+        "word": "医院回应最快女护士被解聘或调岗",
+        "onboard_time": 1757067322,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551880,
+        "num": 174239,
+        "word": "字节实习生一天领13份餐被通报",
+        "onboard_time": 1757069900,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 420804,
+        "num": 174136,
+        "word": "谁给王楚然选的衣服",
+        "onboard_time": 1757065701,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350760,
+        "num": 174019,
+        "word": "VOGUE",
+        "onboard_time": 1757068942,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 64444,
+        "num": 173972,
+        "word": "新世代宝马终于来了",
+        "onboard_time": 1757068521,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213204,
+        "num": 173795,
+        "word": "李兰迪裤子 女装也是完了",
+        "onboard_time": 1757043021,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207449,
+        "num": 173726,
+        "word": "宋佳说小酒窝天生吃演艺圈这碗饭",
+        "onboard_time": 1757071281,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173687,
+        "num": 173687,
+        "word": "鹿晗北京演唱会",
+        "onboard_time": 1757071701,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186187,
+        "num": 172458,
+        "word": "女子遭前夫殴打致肠破裂住进ICU",
+        "onboard_time": 1757065223,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170813,
+        "num": 170813,
+        "word": "王栎鑫心脏不适退出xmen舞台",
+        "onboard_time": 1757055262,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164575,
+        "num": 164575,
+        "word": "李一桐 昆虫公主",
+        "onboard_time": 1757070801,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154114,
+        "num": 154114,
+        "word": "刘亦菲蓝宝石165克拉",
+        "onboard_time": 1757070020,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144089,
+        "num": 144089,
+        "word": "秦海璐评价杨幂",
+        "onboard_time": 1757068942,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141709,
+        "num": 141709,
+        "word": "王楚然下次别进烟火组了",
+        "onboard_time": 1757070020,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133474,
+        "num": 133474,
+        "word": "不如郭敬明",
+        "onboard_time": 1757062401,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133209,
+        "num": 133209,
+        "word": "肯德基冰豆浆比热豆浆贵1元",
+        "onboard_time": 1757071820,
+        "rank": 27,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 178888,
+        "num": 133121,
+        "word": "武汉大学椅子标签",
+        "onboard_time": 1757071521,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132221,
+        "num": 132221,
+        "word": "续面事件面馆歇业关闭",
+        "onboard_time": 1757068642,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132186,
+        "num": 132186,
+        "word": "刘强东时隔18年再办网友见面会",
+        "onboard_time": 1757071220,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131274,
+        "num": 131274,
+        "word": "阅兵一刷高燃再刷爆哭",
+        "onboard_time": 1757067681,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 122790,
+        "num": 122790,
+        "word": "粤语是檀健次的绝对领域",
+        "onboard_time": 1757071641,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114255,
+        "num": 114255,
+        "word": "亿万富翁破产后每月需还款6位数",
+        "onboard_time": 1757061682,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113143,
+        "num": 113143,
+        "word": "刘亦菲 宝格丽",
+        "onboard_time": 1757055080,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 94693,
+        "num": 104072,
+        "word": "新世代宝马驾趣",
+        "onboard_time": 1757072061,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104014,
+        "num": 104014,
+        "word": "罕见红月亮将持续83分钟",
+        "onboard_time": 1757069181,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103920,
+        "num": 103920,
+        "word": "丈夫杀害欲离婚妻子被判死缓",
+        "onboard_time": 1757068042,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103470,
+        "num": 103470,
+        "word": "马龙南京",
+        "onboard_time": 1757071461,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99250,
+        "num": 99250,
+        "word": "杨幂还没学会画眼线",
+        "onboard_time": 1757063062,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97887,
+        "num": 97887,
+        "word": "早上运动vs晚上运动",
+        "onboard_time": 1757070981,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 97133,
+        "num": 97133,
+        "word": "泡泡玛特",
+        "onboard_time": 1757071942,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 88570,
+        "num": 88570,
+        "word": "鬼灭之刃无限城篇",
+        "onboard_time": 1757071101,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88234,
+        "num": 88234,
+        "word": "终于集齐了易烊千玺礐嶨的所有票根",
+        "onboard_time": 1757070680,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86973,
+        "num": 86973,
+        "word": "刘冲 审美",
+        "onboard_time": 1757048721,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85705,
+        "num": 85705,
+        "word": "杨博文cha了幻梦都破碎",
+        "onboard_time": 1757070320,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85285,
+        "num": 85285,
+        "word": "桃李面包称领导正接受现实毒打",
+        "onboard_time": 1757055562,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84801,
+        "num": 84801,
+        "word": "迪丽热巴画的好可爱",
+        "onboard_time": 1757071220,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84297,
+        "num": 84297,
+        "word": "A股反弹原因",
+        "onboard_time": 1757060362,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83548,
+        "num": 84284,
+        "word": "VOGUE女演员的字",
+        "onboard_time": 1757070020,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2025世界智能产业博览会致贺信#"
+    }
+  }
+}

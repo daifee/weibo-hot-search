@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757071228951,
+  "endTime": 1757072208228,
   "band_list": [
     {
       "raw_hot": 1872687,
@@ -99,20 +99,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1147985,
+      "num": 202208,
+      "word": "马思纯的字",
+      "onboard_time": 1757068161,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1043224,
       "num": 1043224,
       "word": "男子诋毁九三阅兵被拘",
       "onboard_time": 1756993284,
       "rank": 0,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 1040382,
-      "num": 202208,
-      "word": "马思纯的字",
-      "onboard_time": 1757068161,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 966933,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551880,
+      "num": 181992,
+      "word": "字节实习生一天领13份餐被通报",
+      "onboard_time": 1757069900,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 551670,
       "num": 289884,
       "word": "毕雯珺 你闺女睡着了",
@@ -555,6 +563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 350760,
+      "num": 182845,
+      "word": "VOGUE",
+      "onboard_time": 1757068942,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 348777,
       "num": 348777,
       "word": "金建希教师资格证被注销",
@@ -595,28 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 312479,
-      "num": 182845,
-      "word": "VOGUE",
-      "onboard_time": 1757068942,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 312131,
       "num": 618815,
       "word": "众星发文悼念阿玛尼先生",
       "onboard_time": 1757029521,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310978,
-      "num": 181992,
-      "word": "字节实习生一天领13份餐被通报",
-      "onboard_time": 1757069900,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 298714,
@@ -883,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207449,
+      "num": 173726,
+      "word": "宋佳说小酒窝天生吃演艺圈这碗饭",
+      "onboard_time": 1757071281,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207357,
       "num": 207357,
       "word": "宋佳VOGUE顺序",
@@ -1107,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178888,
+      "num": 133121,
+      "word": "武汉大学椅子标签",
+      "onboard_time": 1757071521,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177458,
       "num": 177458,
       "word": "韩庚 我那绝望的老爱豆",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1757049561,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173687,
+      "num": 173687,
+      "word": "鹿晗北京演唱会",
+      "onboard_time": 1757071701,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 173014,
@@ -1216,6 +1240,14 @@
       "word": "田栩宁Metal杂志25个国家发行",
       "onboard_time": 1757045183,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 164575,
+      "num": 164575,
+      "word": "李一桐 昆虫公主",
+      "onboard_time": 1757070801,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1355,6 +1387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154114,
+      "num": 154114,
+      "word": "刘亦菲蓝宝石165克拉",
+      "onboard_time": 1757070020,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154035,
       "num": 154035,
       "word": "00花VOGUE金九封面",
@@ -1491,12 +1531,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 140405,
-      "num": 140405,
-      "word": "刘亦菲蓝宝石165克拉",
+      "raw_hot": 141709,
+      "num": 141709,
+      "word": "王楚然下次别进烟火组了",
       "onboard_time": 1757070020,
-      "rank": 27,
-      "category": "艺人"
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 139758,
@@ -1539,14 +1579,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 137533,
-      "num": 137533,
-      "word": "王楚然下次别进烟火组了",
-      "onboard_time": 1757070020,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137287,
       "num": 137287,
       "word": "张博恒电竞版颜值暴击",
@@ -1587,12 +1619,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133209,
+      "num": 133209,
+      "word": "肯德基冰豆浆比热豆浆贵1元",
+      "onboard_time": 1757071820,
+      "rank": 27,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 132191,
       "num": 132191,
       "word": "花旗银行声明",
       "onboard_time": 1757051661,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132186,
+      "num": 132186,
+      "word": "刘强东时隔18年再办网友见面会",
+      "onboard_time": 1757071220,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 131274,
+      "num": 191461,
+      "word": "阅兵一刷高燃再刷爆哭",
+      "onboard_time": 1757067681,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 130847,
@@ -1779,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122790,
+      "num": 122790,
+      "word": "粤语是檀健次的绝对领域",
+      "onboard_time": 1757071641,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122107,
       "num": 122107,
       "word": "刘亦菲回望五年前首登封面",
@@ -1963,14 +2027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111709,
-      "num": 111709,
-      "word": "李一桐 昆虫公主",
-      "onboard_time": 1757070801,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111353,
       "num": 111353,
       "word": "兵马俑一号坑惊现大洞",
@@ -2067,14 +2123,6 @@
       "category": "财经,游戏"
     },
     {
-      "raw_hot": 108140,
-      "num": 191461,
-      "word": "阅兵一刷高燃再刷爆哭",
-      "onboard_time": 1757067681,
-      "rank": 33,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 107277,
       "num": 107277,
       "word": "张柏芝美的不知天地为何物了",
@@ -2147,6 +2195,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104014,
+      "num": 104014,
+      "word": "罕见红月亮将持续83分钟",
+      "onboard_time": 1757069181,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103920,
+      "num": 103920,
+      "word": "丈夫杀害欲离婚妻子被判死缓",
+      "onboard_time": 1757068042,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103891,
       "num": 106047,
       "word": "刘亦菲VOGUE单人封",
@@ -2155,12 +2219,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 103890,
-      "num": 103890,
-      "word": "罕见红月亮将持续83分钟",
-      "onboard_time": 1757069181,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 103470,
+      "num": 103470,
+      "word": "马龙南京",
+      "onboard_time": 1757071461,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 103300,
@@ -2235,12 +2299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98442,
-      "num": 98442,
-      "word": "丈夫杀害欲离婚妻子被判死缓",
-      "onboard_time": 1757068042,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 97887,
+      "num": 97887,
+      "word": "早上运动vs晚上运动",
+      "onboard_time": 1757070981,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 97848,
@@ -2265,6 +2329,14 @@
       "onboard_time": 1757034082,
       "rank": 44,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 97133,
+      "num": 97133,
+      "word": "泡泡玛特",
+      "onboard_time": 1757071942,
+      "rank": 41,
+      "category": "休闲"
     },
     {
       "raw_hot": 96978,
@@ -2323,6 +2395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94693,
+      "num": 104072,
+      "word": "新世代宝马驾趣",
+      "onboard_time": 1757072061,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 93180,
       "num": 93180,
       "word": "字节二季度100名员工触犯红线被辞",
@@ -2347,14 +2427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 91623,
-      "num": 91623,
-      "word": "早上运动vs晚上运动",
-      "onboard_time": 1757070981,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 91459,
       "num": 91459,
       "word": "确诊为仙逆王林走路粉",
@@ -2377,6 +2449,14 @@
       "onboard_time": 1757036121,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88570,
+      "num": 88570,
+      "word": "鬼灭之刃无限城篇",
+      "onboard_time": 1757071101,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 88204,
@@ -2427,14 +2507,6 @@
       "category": "国内时政,演出"
     },
     {
-      "raw_hot": 86717,
-      "num": 86717,
-      "word": "鬼灭之刃无限城篇",
-      "onboard_time": 1757071101,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 86120,
       "num": 86120,
       "word": "李沁这个飞吻",
@@ -2447,6 +2519,14 @@
       "num": 85951,
       "word": "陈妍希颖儿曾想帮景甜找对象",
       "onboard_time": 1757032463,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84801,
+      "num": 84801,
+      "word": "迪丽热巴画的好可爱",
+      "onboard_time": 1757071220,
       "rank": 47,
       "category": "艺人"
     },
@@ -2753,6 +2833,14 @@
       "onboard_time": 1757027659,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 48647,
+      "num": 174734,
+      "word": "这是美国内部事务中方不评论",
+      "onboard_time": 1757071521,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46160,
