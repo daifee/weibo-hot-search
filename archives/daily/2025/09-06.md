@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/06 00:28:43 ~ 2025/09/06 01:38:59
+本榜单时间：2025/09/06 00:28:43 ~ 2025/09/06 02:33:34
 </p>
 </blockquote>
 <p>
@@ -63,6 +63,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
+教体局回应一中学新初一共94个班（热度：306795）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E7%96%AF%E7%8B%82%E5%B1%A0%E6%9D%80%E4%B8%89%E5%A4%A9%E5%88%B6%E9%80%A0%E5%8E%82%E7%AA%96%E6%83%A8%E6%A1%88%23" target="weibo">
 侵华日军疯狂屠杀三天制造厂窖惨案（热度：300234）
 </a>
@@ -83,12 +89,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%88%9D%E4%B8%80%E6%96%B0%E7%94%9F94%E4%B8%AA%E7%8F%AD%23" target="weibo">
 山东一中学初一新生94个班（热度：246201）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
-教体局回应一中学新初一共94个班（热度：235746）
 </a>
 </li>
 
@@ -261,6 +261,12 @@ VOGUE（热度：103224）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E7%BD%91%E5%8F%8B%E4%BF%9D%E5%AF%86%E6%84%8F%E8%AF%86%E5%BE%88%E5%BC%BA%23" target="weibo">
+这届网友保密意识很强（热度：84517）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BA%8C%E5%B7%A1%23" target="weibo">
 易烊千玺二巡（热度：84342）
 </a>
@@ -309,12 +315,6 @@ VOGUE（热度：103224）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E7%BD%91%E5%8F%8B%E4%BF%9D%E5%AF%86%E6%84%8F%E8%AF%86%E5%BE%88%E5%BC%BA%23" target="weibo">
-这届网友保密意识很强（热度：48866）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%AC%E5%8E%BB%E7%A7%8B%E6%9D%A5%E5%8F%88%E6%98%AF%E4%B8%80%E7%A8%8B%23" target="weibo">
 王楚钦冬去秋来又是一程（热度：48577）
 </a>
@@ -335,6 +335,18 @@ VOGUE（热度：103224）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E6%80%80%E6%8A%97%E6%88%98%E5%85%88%E7%83%88%23" target="weibo">
 缅怀抗战先烈（热度：24204）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%AE%B2%E8%BF%B0%E6%97%A5%E5%86%9B%E5%B1%A0%E6%9D%80%E7%BB%86%E8%8A%82%E5%AD%97%E5%AD%97%E6%B3%A3%E8%A1%80%23" target="weibo">
+老人讲述日军屠杀细节字字泣血（热度：18421）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025F1%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B%23" target="weibo">
+2025F1意大利大奖赛（热度：14316）
 </a>
 </li>
 

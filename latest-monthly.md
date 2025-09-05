@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/06 01:38:59
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/06 02:33:34
 </p>
 </blockquote>
 <p>
@@ -2955,6 +2955,12 @@ VOGUE（热度：350760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
+教体局回应一中学新初一共94个班（热度：306795）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E5%AE%88%E6%8A%A4%E8%BF%99%E4%B8%80%E6%8A%B9%E4%B8%AD%E5%9B%BD%E7%BA%A2%23" target="weibo">
 永远守护这一抹中国红（热度：305933）
 </a>
@@ -3677,12 +3683,6 @@ iPhone17Pro涨价（热度：247271）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E7%A7%80%E8%A1%8C%23" target="weibo">
 云秀行（热度：236356）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
-教体局回应一中学新初一共94个班（热度：235746）
 </a>
 </li>
 
