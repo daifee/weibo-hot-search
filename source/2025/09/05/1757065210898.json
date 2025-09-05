@@ -1,0 +1,410 @@
+{
+  "runTime": 1757065210898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1214511,
+        "num": 1214511,
+        "word": "外媒酸中国装备没实战翻车",
+        "onboard_time": 1757060962,
+        "rank": 0,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 454852,
+        "num": 454852,
+        "word": "手术室为什么要用花生米",
+        "onboard_time": 1757052922,
+        "rank": 1,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 55366,
+        "num": 453804,
+        "word": "纯享版九三阅兵解说词",
+        "onboard_time": 1757061742,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453078,
+        "num": 453078,
+        "word": "脱掉军装女民兵都是大美女",
+        "onboard_time": 1757059402,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393284,
+        "num": 393284,
+        "word": "阅兵结束拆座椅",
+        "onboard_time": 1757063542,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281540,
+        "num": 281540,
+        "word": "A股反弹原因",
+        "onboard_time": 1757060362,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263696,
+        "num": 263696,
+        "word": "阿努廷当选泰国总理",
+        "onboard_time": 1757062821,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229890,
+        "num": 229890,
+        "word": "普京说俄将对等实施对华免签",
+        "onboard_time": 1757054061,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78461,
+        "num": 228591,
+        "word": "全球第二大网红无语哥中国行官宣",
+        "onboard_time": 1757044762,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 191192,
+        "num": 227012,
+        "word": "试验二十九号卫星发射成功",
+        "onboard_time": 1757062941,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 565209,
+        "num": 225374,
+        "word": "亿万富翁破产后每月需还款6位数",
+        "onboard_time": 1757061682,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422448,
+        "num": 223753,
+        "word": "李兰迪裤子 女装也是完了",
+        "onboard_time": 1757043021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375330,
+        "num": 222619,
+        "word": "桃李面包称领导正接受现实毒打",
+        "onboard_time": 1757055562,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373155,
+        "num": 221860,
+        "word": "杨幂还没学会画眼线",
+        "onboard_time": 1757063062,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 287877,
+        "num": 219356,
+        "word": "王栎鑫心脏不适退出xmen舞台",
+        "onboard_time": 1757055262,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233152,
+        "num": 217826,
+        "word": "刘冲 审美",
+        "onboard_time": 1757048721,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217279,
+        "num": 217279,
+        "word": "不如郭敬明",
+        "onboard_time": 1757062401,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198860,
+        "num": 198860,
+        "word": "张小斐迪丽热巴双人画报",
+        "onboard_time": 1757053821,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189424,
+        "num": 189424,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185548,
+        "num": 185548,
+        "word": "刘亦菲 宝格丽",
+        "onboard_time": 1757055080,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 179419,
+        "num": 179419,
+        "word": "三件中国稀世珍宝在法国被盗",
+        "onboard_time": 1757056403,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159561,
+        "num": 159561,
+        "word": "闫妮说忘了关晓彤姓啥",
+        "onboard_time": 1757049022,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153692,
+        "num": 153692,
+        "word": "王星越休假干了我一年的事",
+        "onboard_time": 1757061501,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153014,
+        "num": 153014,
+        "word": "业内辟谣杨紫VOGUE银十",
+        "onboard_time": 1757064681,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146766,
+        "num": 146766,
+        "word": "今天又是阅兵戒断失败的一天",
+        "onboard_time": 1757054721,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143491,
+        "num": 143491,
+        "word": "金正恩乘专列离京独家视频",
+        "onboard_time": 1757052441,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139440,
+        "num": 143221,
+        "word": "VOGUE11位女演员的亲笔回答",
+        "onboard_time": 1757064860,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143017,
+        "num": 143017,
+        "word": "小酒窝C位领舞天生主角",
+        "onboard_time": 1757064501,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139884,
+        "num": 139884,
+        "word": "景甜旗袍",
+        "onboard_time": 1757059582,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139421,
+        "num": 139421,
+        "word": "桃李面包为月饼广告致歉",
+        "onboard_time": 1757056161,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135956,
+        "num": 135956,
+        "word": "三甲医生回应易烊千玺刮痧高烧",
+        "onboard_time": 1757057361,
+        "rank": 30,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 134666,
+        "num": 134666,
+        "word": "VOGUE金九单人封面",
+        "onboard_time": 1757046144,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132959,
+        "num": 132959,
+        "word": "迪丽热巴 西方油画里的女人",
+        "onboard_time": 1757059522,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122107,
+        "num": 122107,
+        "word": "刘亦菲回望五年前首登封面",
+        "onboard_time": 1757064802,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121314,
+        "num": 121314,
+        "word": "詹姆斯成都",
+        "onboard_time": 1757064560,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1416008,
+        "num": 120935,
+        "word": "金正恩离京时长时间挥手作别",
+        "onboard_time": 1757059281,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32136,
+        "num": 120408,
+        "word": "第一台带quattro的智能电动车",
+        "onboard_time": 1757059522,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 21605,
+        "num": 119977,
+        "word": "什么沙发3个人拥挤4个人刚好",
+        "onboard_time": 1757064262,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61912,
+        "num": 119618,
+        "word": "包装里放一元纸币的真相",
+        "onboard_time": 1757064681,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25548,
+        "num": 119079,
+        "word": "九三阅兵让谁破防了",
+        "onboard_time": 1757064802,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64822,
+        "num": 118811,
+        "word": "孟子义尚公主首套造型路透",
+        "onboard_time": 1757048962,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118522,
+        "num": 118522,
+        "word": "网友给VOGUE群封配文",
+        "onboard_time": 1757061200,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114718,
+        "num": 114718,
+        "word": "发现颜值焦虑在两广消失了",
+        "onboard_time": 1757059522,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112661,
+        "num": 112661,
+        "word": "普京看到中国观众秒切中文",
+        "onboard_time": 1757050402,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110492,
+        "num": 110492,
+        "word": "孙坚曾被何晟铭强吻",
+        "onboard_time": 1757063723,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106031,
+        "num": 106031,
+        "word": "丞磊角色查重率为0",
+        "onboard_time": 1757064621,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104209,
+        "num": 104209,
+        "word": "鼻炎患者的共性",
+        "onboard_time": 1757064982,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103645,
+        "num": 103645,
+        "word": "韩庚 我那绝望的老爱豆",
+        "onboard_time": 1757058802,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99262,
+        "num": 99262,
+        "word": "张博恒电竞版颜值暴击",
+        "onboard_time": 1757064021,
+        "rank": 48,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 97670,
+        "num": 97670,
+        "word": "张踩铃说罗永浩点评没用",
+        "onboard_time": 1757063422,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2025世界智能产业博览会致贺信#"
+    }
+  }
+}

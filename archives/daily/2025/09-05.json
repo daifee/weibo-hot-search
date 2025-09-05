@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757064425604,
+  "endTime": 1757065210898,
   "band_list": [
     {
       "raw_hot": 1872687,
@@ -83,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1214511,
+      "num": 1214511,
+      "word": "外媒酸中国装备没实战翻车",
+      "onboard_time": 1757060962,
+      "rank": 36,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 1206464,
       "num": 1206464,
       "word": "5人策划低俗求婚剧本被拘",
@@ -97,14 +105,6 @@
       "onboard_time": 1756993284,
       "rank": 0,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 1005783,
-      "num": 1160925,
-      "word": "外媒酸中国装备没实战翻车",
-      "onboard_time": 1757060962,
-      "rank": 36,
-      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 966933,
@@ -283,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 565209,
+      "num": 225374,
+      "word": "亿万富翁破产后每月需还款6位数",
+      "onboard_time": 1757061682,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 559784,
       "num": 559784,
       "word": "田栩宁执伞破风大片",
@@ -395,20 +403,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 454852,
+      "num": 454852,
+      "word": "手术室为什么要用花生米",
+      "onboard_time": 1757052922,
+      "rank": 25,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 453078,
+      "num": 453078,
+      "word": "脱掉军装女民兵都是大美女",
+      "onboard_time": 1757059402,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448713,
       "num": 448713,
       "word": "毛宁发中国阅兵对比图",
       "onboard_time": 1757048424,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 440228,
-      "num": 440228,
-      "word": "手术室为什么要用花生米",
-      "onboard_time": 1757052922,
-      "rank": 25,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 433545,
@@ -427,19 +443,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 420658,
-      "num": 194176,
-      "word": "亿万富翁破产后每月需还款6位数",
-      "onboard_time": 1757061682,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 397413,
       "num": 397413,
       "word": "受阅官兵晒出专属阅兵脸",
       "onboard_time": 1757056701,
       "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 393284,
+      "num": 393284,
+      "word": "阅兵结束拆座椅",
+      "onboard_time": 1757063542,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -451,20 +467,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 373155,
+      "num": 221860,
+      "word": "杨幂还没学会画眼线",
+      "onboard_time": 1757063062,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 354153,
       "num": 605069,
       "word": "普京感谢中国对俄试行免签",
       "onboard_time": 1757035101,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 351174,
-      "num": 351174,
-      "word": "脱掉军装女民兵都是大美女",
-      "onboard_time": 1757059402,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 351016,
@@ -547,20 +563,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281540,
+      "num": 281540,
+      "word": "A股反弹原因",
+      "onboard_time": 1757060362,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 281107,
       "num": 281107,
       "word": "肖战阿云嘎领导对节目卫生可还满意",
       "onboard_time": 1757043081,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279118,
-      "num": 192644,
-      "word": "杨幂还没学会画眼线",
-      "onboard_time": 1757063062,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 270766,
@@ -579,12 +595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266798,
-      "num": 266798,
-      "word": "A股反弹原因",
-      "onboard_time": 1757060362,
-      "rank": 27,
-      "category": "财经"
+      "raw_hot": 263696,
+      "num": 263696,
+      "word": "阿努廷当选泰国总理",
+      "onboard_time": 1757062821,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 261210,
@@ -705,6 +721,14 @@
       "onboard_time": 1757042901,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217279,
+      "num": 217279,
+      "word": "不如郭敬明",
+      "onboard_time": 1757062401,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 214852,
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 199991,
-      "num": 199991,
+      "num": 227012,
       "word": "试验二十九号卫星发射成功",
       "onboard_time": 1757062941,
       "rank": 7,
@@ -937,14 +961,6 @@
       "onboard_time": 1757056522,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186310,
-      "num": 186310,
-      "word": "不如郭敬明",
-      "onboard_time": 1757062401,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185729,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1757045843,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169523,
-      "num": 198377,
-      "word": "阿努廷当选泰国总理",
-      "onboard_time": 1757062821,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 168333,
@@ -1243,6 +1251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 153014,
+      "num": 153014,
+      "word": "业内辟谣杨紫VOGUE银十",
+      "onboard_time": 1757064681,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152866,
       "num": 152866,
       "word": "张檬给4个月儿子断夜奶",
@@ -1299,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143017,
+      "num": 143017,
+      "word": "小酒窝C位领舞天生主角",
+      "onboard_time": 1757064501,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142710,
       "num": 142710,
       "word": "杨蒙恩学街舞时王一博在上小学",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1757032463,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139440,
+      "num": 143221,
+      "word": "VOGUE11位女演员的亲笔回答",
+      "onboard_time": 1757064860,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139364,
@@ -1571,12 +1603,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122107,
+      "num": 122107,
+      "word": "刘亦菲回望五年前首登封面",
+      "onboard_time": 1757064802,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 121815,
       "num": 122218,
       "word": "8万羽和平鸽来自3千多个养鸽人",
       "onboard_time": 1757019854,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121314,
+      "num": 121314,
+      "word": "詹姆斯成都",
+      "onboard_time": 1757064560,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 121077,
@@ -1731,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110492,
+      "num": 139371,
+      "word": "孙坚曾被何晟铭强吻",
+      "onboard_time": 1757063723,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110339,
       "num": 128718,
       "word": "中国阅兵让英媒直呼大开眼界",
@@ -1819,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106031,
+      "num": 106031,
+      "word": "丞磊角色查重率为0",
+      "onboard_time": 1757064621,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105393,
       "num": 146414,
       "word": "李承铉对张晋愧疚道歉",
@@ -1841,6 +1905,14 @@
       "onboard_time": 1757032401,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104209,
+      "num": 104209,
+      "word": "鼻炎患者的共性",
+      "onboard_time": 1757064982,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104199,
@@ -1960,14 +2032,6 @@
       "word": "为什么是这80面战旗",
       "onboard_time": 1757036780,
       "rank": 42,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 93222,
-      "num": 189465,
-      "word": "阅兵结束拆座椅",
-      "onboard_time": 1757063542,
-      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -2155,14 +2219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72136,
-      "num": 139371,
-      "word": "孙坚曾被何晟铭强吻",
-      "onboard_time": 1757063723,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70790,
       "num": 97335,
       "word": "香奈儿蜜粉30克和6克同价",
@@ -2259,6 +2315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61912,
+      "num": 119618,
+      "word": "包装里放一元纸币的真相",
+      "onboard_time": 1757064681,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 60957,
       "num": 76702,
       "word": "腹式呼吸具象化了",
@@ -2299,8 +2363,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 54437,
-      "num": 375698,
+      "raw_hot": 55366,
+      "num": 453804,
       "word": "纯享版九三阅兵解说词",
       "onboard_time": 1757061742,
       "rank": 2,
@@ -2443,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25548,
+      "num": 119079,
+      "word": "九三阅兵让谁破防了",
+      "onboard_time": 1757064802,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25029,
       "num": 32615,
       "word": "我和我的祖国吕潇然照进现实",
@@ -2465,6 +2537,14 @@
       "onboard_time": 1757060002,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21605,
+      "num": 119977,
+      "word": "什么沙发3个人拥挤4个人刚好",
+      "onboard_time": 1757064262,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 21570,
@@ -2553,14 +2633,6 @@
       "onboard_time": 1757013734,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13466,
-      "num": 112868,
-      "word": "什么沙发3个人拥挤4个人刚好",
-      "onboard_time": 1757064262,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 13299,
