@@ -1,6 +1,6 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757047376517,
+  "endTime": 1757049834305,
   "band_list": [
     {
       "raw_hot": 1625947,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1269017,
-      "num": 254501,
+      "num": 275488,
       "word": "杨幂 拿奖了给何晟铭跪下",
       "onboard_time": 1757031321,
       "rank": 20,
@@ -57,6 +57,14 @@
       "onboard_time": 1756996645,
       "rank": 10,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 1230035,
+      "num": 1230035,
+      "word": "VOGUE金九单人封面",
+      "onboard_time": 1757046144,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1206464,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 897236,
-      "num": 629172,
+      "num": 638201,
       "word": "花5万请千万网红带货只卖出58双鞋",
       "onboard_time": 1757042361,
       "rank": 4,
@@ -131,11 +139,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 724515,
+      "num": 293689,
+      "word": "刘冲 审美",
+      "onboard_time": 1757048721,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 716928,
       "num": 716928,
       "word": "特朗普签令正式实施美日贸易协议",
       "onboard_time": 1757033242,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 715183,
+      "num": 715183,
+      "word": "特朗普发布与普京的合影",
+      "onboard_time": 1757046144,
+      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -163,14 +187,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 639486,
-      "num": 639486,
-      "word": "VOGUE金九单人封面",
-      "onboard_time": 1757046144,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 625091,
       "num": 625091,
       "word": "我的身份证上有你的名字",
@@ -193,6 +209,14 @@
       "onboard_time": 1757045122,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 570592,
+      "num": 570592,
+      "word": "全球第二大网红无语哥中国行官宣",
+      "onboard_time": 1757044762,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 559784,
@@ -243,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 503243,
+      "num": 503243,
+      "word": "万千惠 比董璇还晕的人来了",
+      "onboard_time": 1757047045,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481244,
       "num": 229335,
       "word": "易烊千玺身体状况不理想",
@@ -273,6 +305,14 @@
       "onboard_time": 1757038041,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 390983,
+      "num": 277112,
+      "word": "杨紫或登VOGUE银十",
+      "onboard_time": 1757047283,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354153,
@@ -307,14 +347,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 342499,
-      "num": 342499,
-      "word": "全球第二大网红无语哥中国行官宣",
-      "onboard_time": 1757044762,
-      "rank": 8,
-      "category": "网红"
-    },
-    {
       "raw_hot": 327966,
       "num": 327966,
       "word": "被外国网友评论阅兵整笑了",
@@ -337,6 +369,22 @@
       "onboard_time": 1757034142,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 298665,
+      "num": 298665,
+      "word": "闫妮说忘了关晓彤姓啥",
+      "onboard_time": 1757049022,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 290595,
+      "num": 212574,
+      "word": "孟子义尚公主首套造型路透",
+      "onboard_time": 1757048962,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281107,
@@ -395,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243573,
+      "num": 205155,
+      "word": "26岁确诊癌症早期后的忠告",
+      "onboard_time": 1757048962,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 243040,
       "num": 368420,
       "word": "张予曦红毯神图",
@@ -419,12 +475,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 229014,
-      "num": 229014,
-      "word": "特朗普发布与普京的合影",
-      "onboard_time": 1757046144,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 236609,
+      "num": 236609,
+      "word": "虞书欣何与双轨团综杀青",
+      "onboard_time": 1757048962,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 228434,
@@ -473,6 +529,22 @@
       "onboard_time": 1757042781,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 213053,
+      "num": 213053,
+      "word": "VOGUE群像",
+      "onboard_time": 1757049142,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 212061,
+      "num": 212061,
+      "word": "李晟 为什么不能叉开腿坐",
+      "onboard_time": 1757049142,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 208309,
@@ -529,6 +601,14 @@
       "onboard_time": 1757045302,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193470,
+      "num": 193470,
+      "word": "VOGUE金九单封官宣顺序",
+      "onboard_time": 1757048843,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191421,
@@ -595,6 +675,14 @@
       "category": "体育,其它"
     },
     {
+      "raw_hot": 172923,
+      "num": 172923,
+      "word": "舒淇哭了",
+      "onboard_time": 1757047283,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172843,
       "num": 172843,
       "word": "iPhone17系列内存配置曝光",
@@ -617,6 +705,14 @@
       "onboard_time": 1757046023,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170634,
+      "num": 285605,
+      "word": "毛宁发中国阅兵对比图",
+      "onboard_time": 1757048424,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 169831,
@@ -649,6 +745,14 @@
       "onboard_time": 1757045183,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161557,
+      "num": 161557,
+      "word": "不刷牙睡觉vs不刷牙吃早餐",
+      "onboard_time": 1757049622,
+      "rank": 40,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 161346,
@@ -691,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155311,
+      "num": 203599,
+      "word": "那不是夜鹭是一只胖鸽子",
+      "onboard_time": 1757047644,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155292,
       "num": 200793,
       "word": "纯爱了30集开始虐了",
@@ -729,6 +841,14 @@
       "onboard_time": 1756995445,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149211,
+      "num": 149211,
+      "word": "00花VOGUE金九封面",
+      "onboard_time": 1757049683,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 147737,
@@ -787,14 +907,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135727,
-      "num": 218340,
-      "word": "万千惠 比董璇还晕的人来了",
-      "onboard_time": 1757047045,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130658,
       "num": 130658,
       "word": "复制粘贴换个角度还是复制粘贴",
@@ -809,6 +921,22 @@
       "onboard_time": 1757038941,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129504,
+      "num": 129504,
+      "word": "周翊然去余佳运酒吧唱歌了",
+      "onboard_time": 1757048543,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128847,
+      "num": 128847,
+      "word": "孙颖莎王楚钦等北京出战",
+      "onboard_time": 1757048902,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 128444,
@@ -833,6 +961,14 @@
       "onboard_time": 1757032521,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126437,
+      "num": 126437,
+      "word": "田栩宁Metal怼脸预告照",
+      "onboard_time": 1757048303,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125921,
@@ -987,6 +1123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108686,
+      "num": 278634,
+      "word": "外媒被东风61惊艳",
+      "onboard_time": 1757049561,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106917,
       "num": 106917,
       "word": "男宝星球2",
@@ -1035,14 +1179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98216,
-      "num": 174129,
-      "word": "杨紫或登VOGUE银十",
-      "onboard_time": 1757047283,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 97848,
       "num": 108408,
       "word": "丝之歌",
@@ -1065,6 +1201,14 @@
       "onboard_time": 1757034082,
       "rank": 44,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 96103,
+      "num": 212488,
+      "word": "董思成被孟子义坑过之后看谁都菜",
+      "onboard_time": 1757049444,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 95935,
@@ -1387,6 +1531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48899,
+      "num": 180388,
+      "word": "九三阅兵民兵方队领队是一名女乡长",
+      "onboard_time": 1757049503,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48830,
       "num": 76598,
       "word": "4个动作让脸变好看",
@@ -1427,6 +1579,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 39408,
+      "num": 283557,
+      "word": "美网友调侃美阅兵像迪士尼游行",
+      "onboard_time": 1757049503,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38519,
       "num": 137713,
       "word": "台湾青年说祖国强盛是最大的底气",
@@ -1443,12 +1603,28 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 32272,
+      "num": 672017,
+      "word": "九三阅兵分列式9大精彩瞬间",
+      "onboard_time": 1756992564,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31271,
       "num": 125447,
       "word": "栾留伟的妻子现场观礼九三阅兵",
       "onboard_time": 1757041341,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30294,
+      "num": 281246,
+      "word": "邢菲的宝子真的把她养的很好",
+      "onboard_time": 1757048662,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 25029,
@@ -1489,14 +1665,6 @@
       "onboard_time": 1757005757,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18261,
-      "num": 498638,
-      "word": "九三阅兵分列式9大精彩瞬间",
-      "onboard_time": 1756992564,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17929,

@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1757047376517,
+  "endTime": 1757049834305,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 1269017,
-      "num": 254501,
+      "num": 275488,
       "word": "杨幂 拿奖了给何晟铭跪下",
       "onboard_time": 1757031321,
       "rank": 20,
@@ -777,6 +777,14 @@
       "onboard_time": 1756886244,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1230035,
+      "num": 1230035,
+      "word": "VOGUE金九单人封面",
+      "onboard_time": 1757046144,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1210269,
@@ -1156,7 +1164,7 @@
     },
     {
       "raw_hot": 897236,
-      "num": 629172,
+      "num": 638201,
       "word": "花5万请千万网红带货只卖出58双鞋",
       "onboard_time": 1757042361,
       "rank": 4,
@@ -1539,6 +1547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 724515,
+      "num": 293689,
+      "word": "刘冲 审美",
+      "onboard_time": 1757048721,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 723635,
       "num": 1291869,
       "word": "1945到2025",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1756723520,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 715183,
+      "num": 715183,
+      "word": "特朗普发布与普京的合影",
+      "onboard_time": 1757046144,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 708657,
@@ -1753,14 +1777,6 @@
       "onboard_time": 1756646543,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 639486,
-      "num": 639486,
-      "word": "VOGUE金九单人封面",
-      "onboard_time": 1757046144,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 637007,
@@ -2001,6 +2017,14 @@
       "onboard_time": 1756943782,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 570592,
+      "num": 570592,
+      "word": "全球第二大网红无语哥中国行官宣",
+      "onboard_time": 1757044762,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 566709,
@@ -2385,6 +2409,14 @@
       "onboard_time": 1757000184,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 503243,
+      "num": 503243,
+      "word": "万千惠 比董璇还晕的人来了",
+      "onboard_time": 1757047045,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 502865,
@@ -3091,6 +3123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390983,
+      "num": 277112,
+      "word": "杨紫或登VOGUE银十",
+      "onboard_time": 1757047283,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 390973,
       "num": 214659,
       "word": "网友称收到生育补贴",
@@ -3593,14 +3633,6 @@
       "onboard_time": 1756904725,
       "rank": 28,
       "category": "国内时政,体育"
-    },
-    {
-      "raw_hot": 342499,
-      "num": 342499,
-      "word": "全球第二大网红无语哥中国行官宣",
-      "onboard_time": 1757044762,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 341900,
@@ -4107,6 +4139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 298665,
+      "num": 298665,
+      "word": "闫妮说忘了关晓彤姓啥",
+      "onboard_time": 1757049022,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297933,
       "num": 386216,
       "word": "香港上空这一幕令人震撼",
@@ -4201,6 +4241,14 @@
       "onboard_time": 1756600459,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 290595,
+      "num": 212574,
+      "word": "孟子义尚公主首套造型路透",
+      "onboard_time": 1757048962,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289895,
@@ -4931,6 +4979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243573,
+      "num": 205155,
+      "word": "26岁确诊癌症早期后的忠告",
+      "onboard_time": 1757048962,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 243560,
       "num": 243560,
       "word": "在观摩阅兵的人群中发现了马龙",
@@ -5049,6 +5105,14 @@
       "onboard_time": 1757041941,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236609,
+      "num": 236609,
+      "word": "虞书欣何与双轨团综杀青",
+      "onboard_time": 1757048962,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 236401,
@@ -5193,14 +5257,6 @@
       "onboard_time": 1756884085,
       "rank": 47,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 229014,
-      "num": 229014,
-      "word": "特朗普发布与普京的合影",
-      "onboard_time": 1757046144,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 228789,
@@ -5459,11 +5515,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 213053,
+      "num": 213053,
+      "word": "VOGUE群像",
+      "onboard_time": 1757049142,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 212642,
       "num": 212642,
       "word": "龚俊的体面只给旅游前几天",
       "onboard_time": 1756612881,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212061,
+      "num": 212061,
+      "word": "李晟 为什么不能叉开腿坐",
+      "onboard_time": 1757049142,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -6113,6 +6185,14 @@
       "onboard_time": 1756571060,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193470,
+      "num": 193470,
+      "word": "VOGUE金九单封官宣顺序",
+      "onboard_time": 1757048843,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193251,
@@ -6867,6 +6947,14 @@
       "category": "体育,其它"
     },
     {
+      "raw_hot": 172923,
+      "num": 172923,
+      "word": "舒淇哭了",
+      "onboard_time": 1757047283,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172843,
       "num": 172843,
       "word": "iPhone17系列内存配置曝光",
@@ -6969,6 +7057,14 @@
       "onboard_time": 1756884444,
       "rank": 48,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 170634,
+      "num": 285605,
+      "word": "毛宁发中国阅兵对比图",
+      "onboard_time": 1757048424,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170546,
@@ -7403,6 +7499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161557,
+      "num": 161557,
+      "word": "不刷牙睡觉vs不刷牙吃早餐",
+      "onboard_time": 1757049622,
+      "rank": 40,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 161473,
       "num": 161473,
       "word": "莫欺我中华无肝胆母亲膝下百万兵",
@@ -7657,6 +7761,14 @@
       "onboard_time": 1756898902,
       "rank": 47,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 155311,
+      "num": 203599,
+      "word": "那不是夜鹭是一只胖鸽子",
+      "onboard_time": 1757047644,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155302,
@@ -8033,6 +8145,14 @@
       "onboard_time": 1756934534,
       "rank": 9,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 149211,
+      "num": 149211,
+      "word": "00花VOGUE金九封面",
+      "onboard_time": 1757049683,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 149135,
@@ -8779,14 +8899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135727,
-      "num": 218340,
-      "word": "万千惠 比董璇还晕的人来了",
-      "onboard_time": 1757047045,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135589,
       "num": 125957,
       "word": "边伯贤说何老师很有名",
@@ -9131,6 +9243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129504,
+      "num": 129504,
+      "word": "周翊然去余佳运酒吧唱歌了",
+      "onboard_time": 1757048543,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129332,
       "num": 206375,
       "word": "深圳将免费提供一科一辅",
@@ -9153,6 +9273,14 @@
       "onboard_time": 1756693580,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128847,
+      "num": 128847,
+      "word": "孙颖莎王楚钦等北京出战",
+      "onboard_time": 1757048902,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 128693,
@@ -9321,6 +9449,14 @@
       "onboard_time": 1756789281,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126437,
+      "num": 126437,
+      "word": "田栩宁Metal怼脸预告照",
+      "onboard_time": 1757048303,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125921,
@@ -10643,6 +10779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108686,
+      "num": 278634,
+      "word": "外媒被东风61惊艳",
+      "onboard_time": 1757049561,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108510,
       "num": 121375,
       "word": "今晚的心动线太难猜了",
@@ -11435,14 +11579,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 98216,
-      "num": 174129,
-      "word": "杨紫或登VOGUE银十",
-      "onboard_time": 1757047283,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 97887,
       "num": 97887,
       "word": "抗战主题展览年均500余个",
@@ -11601,6 +11737,14 @@
       "onboard_time": 1756784721,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96103,
+      "num": 212488,
+      "word": "董思成被孟子义坑过之后看谁都菜",
+      "onboard_time": 1757049444,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 96019,
@@ -12556,7 +12700,7 @@
     },
     {
       "raw_hot": 86236,
-      "num": 498638,
+      "num": 672017,
       "word": "九三阅兵分列式9大精彩瞬间",
       "onboard_time": 1756992564,
       "rank": 33,
@@ -14763,6 +14907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48899,
+      "num": 180388,
+      "word": "九三阅兵民兵方队领队是一名女乡长",
+      "onboard_time": 1757049503,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48830,
       "num": 76598,
       "word": "4个动作让脸变好看",
@@ -15057,6 +15209,14 @@
       "onboard_time": 1756710801,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39408,
+      "num": 283557,
+      "word": "美网友调侃美阅兵像迪士尼游行",
+      "onboard_time": 1757049503,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39276,
@@ -15401,6 +15561,14 @@
       "onboard_time": 1756923556,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30294,
+      "num": 281246,
+      "word": "邢菲的宝子真的把她养的很好",
+      "onboard_time": 1757048662,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 30118,
