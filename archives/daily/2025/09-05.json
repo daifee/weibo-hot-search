@@ -1,10 +1,10 @@
 {
   "startTime": 1757003477731,
-  "endTime": 1757054178829,
+  "endTime": 1757054918255,
   "band_list": [
     {
       "raw_hot": 1872687,
-      "num": 293689,
+      "num": 303342,
       "word": "刘冲 审美",
       "onboard_time": 1757048721,
       "rank": 12,
@@ -107,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 942416,
+      "num": 302450,
+      "word": "张小斐迪丽热巴双人画报",
+      "onboard_time": 1757053821,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 906599,
       "num": 715183,
       "word": "特朗普发布与普京的合影",
@@ -145,6 +153,14 @@
       "onboard_time": 1757032285,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 759303,
+      "num": 1121488,
+      "word": "普京看到中国观众秒切中文",
+      "onboard_time": 1757050402,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 744743,
@@ -195,14 +211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 630588,
-      "num": 1100894,
-      "word": "普京看到中国观众秒切中文",
-      "onboard_time": 1757050402,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 625091,
       "num": 625091,
       "word": "我的身份证上有你的名字",
@@ -228,19 +236,11 @@
     },
     {
       "raw_hot": 604278,
-      "num": 214311,
+      "num": 279396,
       "word": "刘亦菲杨幂倪妮迪丽热巴金九封面",
       "onboard_time": 1757050342,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 576995,
-      "num": 206377,
-      "word": "张小斐迪丽热巴双人画报",
-      "onboard_time": 1757053821,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 570592,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551670,
+      "num": 289884,
+      "word": "毕雯珺 你闺女睡着了",
+      "onboard_time": 1757051482,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549211,
       "num": 549211,
       "word": "早春晴朗",
@@ -281,14 +289,6 @@
       "onboard_time": 1757043681,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 536613,
-      "num": 206712,
-      "word": "毕雯珺 你闺女睡着了",
-      "onboard_time": 1757051482,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 512967,
@@ -331,20 +331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 433545,
-      "num": 254348,
-      "word": "你以为很卫生其实巨脏的行为",
-      "onboard_time": 1757041041,
-      "rank": 43,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 430306,
-      "num": 430306,
+      "raw_hot": 448713,
+      "num": 448713,
       "word": "毛宁发中国阅兵对比图",
       "onboard_time": 1757048424,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 433545,
+      "num": 261935,
+      "word": "你以为很卫生其实巨脏的行为",
+      "onboard_time": 1757041041,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 423521,
@@ -361,6 +361,14 @@
       "onboard_time": 1757047283,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368328,
+      "num": 368328,
+      "word": "金正恩乘专列离京独家视频",
+      "onboard_time": 1757052441,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 354153,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 345005,
-      "num": 206177,
+      "num": 264091,
       "word": "卢靖姗挺孕肚健身",
       "onboard_time": 1757049861,
       "rank": 31,
@@ -411,12 +419,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 322841,
-      "num": 322841,
-      "word": "金正恩乘专列离京独家视频",
-      "onboard_time": 1757052441,
-      "rank": 6,
-      "category": "国际时政"
+      "raw_hot": 316152,
+      "num": 316152,
+      "word": "杭州东站禁烟",
+      "onboard_time": 1757049444,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312131,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 237228,
-      "num": 205976,
+      "num": 218009,
       "word": "梓渝新歌",
       "onboard_time": 1757051540,
       "rank": 22,
@@ -563,20 +571,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 218047,
-      "num": 218047,
-      "word": "杭州东站禁烟",
-      "onboard_time": 1757049444,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217408,
       "num": 217408,
       "word": "早春晴朗官宣",
       "onboard_time": 1757042901,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217194,
+      "num": 309444,
+      "word": "普京说俄将对等实施对华免签",
+      "onboard_time": 1757054061,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214852,
@@ -609,6 +617,14 @@
       "onboard_time": 1757049142,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 212825,
+      "num": 212825,
+      "word": "手术室为什么要用花生米",
+      "onboard_time": 1757052922,
+      "rank": 25,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 212061,
@@ -649,14 +665,6 @@
       "onboard_time": 1756999463,
       "rank": 15,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 205764,
-      "num": 205764,
-      "word": "手术室为什么要用花生米",
-      "onboard_time": 1757052922,
-      "rank": 25,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 203805,
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 195010,
-      "num": 174910,
+      "num": 186002,
       "word": "回避型追星",
       "onboard_time": 1757051122,
       "rank": 32,
@@ -745,6 +753,14 @@
       "onboard_time": 1757043021,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188342,
+      "num": 188342,
+      "word": "狗 我回安全屋发泄",
+      "onboard_time": 1757053340,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 187432,
@@ -795,12 +811,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180227,
+      "num": 180227,
+      "word": "小时代秒了",
+      "onboard_time": 1757053941,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174994,
       "num": 283557,
       "word": "美网友调侃美阅兵像迪士尼游行",
       "onboard_time": 1757049503,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174765,
+      "num": 278634,
+      "word": "外媒被东风61惊艳",
+      "onboard_time": 1757049561,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173014,
@@ -835,6 +867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 171578,
+      "num": 189592,
+      "word": "鹿晗拒绝staff帮忙系鞋带",
+      "onboard_time": 1757054001,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171506,
       "num": 222086,
       "word": "给贺峻霖想出贺俊脸的人是天才",
@@ -867,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166585,
-      "num": 278634,
-      "word": "外媒被东风61惊艳",
-      "onboard_time": 1757049561,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 165005,
       "num": 165005,
       "word": "新华社认证的帅兵哥已婚",
@@ -889,14 +921,6 @@
       "onboard_time": 1757045183,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163915,
-      "num": 163915,
-      "word": "狗 我回安全屋发泄",
-      "onboard_time": 1757053340,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 161557,
@@ -963,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154885,
+      "num": 154885,
+      "word": "曝霉霉着急要孩子",
+      "onboard_time": 1757052501,
+      "rank": 36,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 154768,
       "num": 154768,
       "word": "香港明星团观阅兵泪目",
@@ -1019,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146474,
+      "num": 146474,
+      "word": "日本专家称中国阅兵令人震撼",
+      "onboard_time": 1757052982,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139758,
       "num": 139758,
       "word": "听潮阁费加罗PARK九月刊大片",
@@ -1041,14 +1081,6 @@
       "onboard_time": 1757032463,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139545,
-      "num": 139545,
-      "word": "曝霉霉着急要孩子",
-      "onboard_time": 1757052501,
-      "rank": 36,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 139364,
@@ -1080,6 +1112,38 @@
       "word": "中国向阿富汗提供5000万元援助",
       "onboard_time": 1756992564,
       "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 135720,
+      "num": 135720,
+      "word": "今天又是阅兵戒断失败的一天",
+      "onboard_time": 1757054721,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 135044,
+      "num": 135044,
+      "word": "deepseek也有被问烦的一天",
+      "onboard_time": 1757054481,
+      "rank": 42,
+      "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 132191,
+      "num": 132191,
+      "word": "花旗银行声明",
+      "onboard_time": 1757051661,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 130847,
+      "num": 158134,
+      "word": "俄方回应邀请泽连斯基来莫斯科",
+      "onboard_time": 1757052803,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -1203,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123545,
-      "num": 123545,
-      "word": "日本专家称中国阅兵令人震撼",
-      "onboard_time": 1757052982,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 121815,
       "num": 122218,
       "word": "8万羽和平鸽来自3千多个养鸽人",
@@ -1225,14 +1281,6 @@
       "onboard_time": 1757033423,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120963,
-      "num": 120963,
-      "word": "花旗银行声明",
-      "onboard_time": 1757051661,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 119166,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1757049444,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114193,
-      "num": 189592,
-      "word": "鹿晗拒绝staff帮忙系鞋带",
-      "onboard_time": 1757054001,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 112876,
@@ -1379,12 +1419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106737,
-      "num": 106737,
-      "word": "小时代秒了",
-      "onboard_time": 1757053941,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 105393,
+      "num": 146414,
+      "word": "李承铉对张晋愧疚道歉",
+      "onboard_time": 1757053821,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 104246,
@@ -1523,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88832,
-      "num": 139097,
-      "word": "李承铉对张晋愧疚道歉",
-      "onboard_time": 1757053821,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88204,
       "num": 88204,
       "word": "Somebody被曝联手表哥操纵比赛牟利",
@@ -1601,14 +1633,6 @@
       "onboard_time": 1757033302,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 80312,
-      "num": 158134,
-      "word": "俄方回应邀请泽连斯基来莫斯科",
-      "onboard_time": 1757052803,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 80037,
@@ -1883,14 +1907,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32115,
-      "num": 187005,
-      "word": "普京说俄将对等实施对华免签",
-      "onboard_time": 1757054061,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 31271,
       "num": 125447,
       "word": "栾留伟的妻子现场观礼九三阅兵",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1757048662,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26839,
+      "num": 143637,
+      "word": "男子拖拽海豹上岸被警告教育",
+      "onboard_time": 1757054361,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25029,
