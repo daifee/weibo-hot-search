@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1757104809982,
+  "endTime": 1757107331762,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -11067,6 +11067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122761,
+      "num": 133548,
+      "word": "美国拘捕300名韩国人",
+      "onboard_time": 1757085563,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122507,
       "num": 200220,
       "word": "AI让英烈看到今日中国",
@@ -13833,14 +13841,6 @@
       "onboard_time": 1756999703,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94197,
-      "num": 105185,
-      "word": "美国拘捕300名韩国人",
-      "onboard_time": 1757085563,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 94103,
@@ -16907,6 +16907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55374,
+      "num": 27279,
+      "word": "呼吁开除最快女护士言论越界了",
+      "onboard_time": 1757101274,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55366,
       "num": 531353,
       "word": "纯享版九三阅兵解说词",
@@ -17987,14 +17995,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 24814,
-      "num": 19916,
-      "word": "呼吁开除最快女护士言论越界了",
-      "onboard_time": 1757101274,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24204,
       "num": 101252,
       "word": "缅怀抗战先烈",
@@ -18283,6 +18283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16675,
+      "num": 16675,
+      "word": "怪不得说东北人干啥都大大方方的",
+      "onboard_time": 1757105954,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16579,
       "num": 28800,
       "word": "纪念大会结束",
@@ -18371,6 +18379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14802,
+      "num": 22442,
+      "word": "穿破洞裤出门前一定要照镜子",
+      "onboard_time": 1757100974,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14425,
       "num": 18727,
       "word": "9月多项惠民新政影响你的生活",
@@ -18387,20 +18403,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14306,
-      "num": 22442,
-      "word": "穿破洞裤出门前一定要照镜子",
-      "onboard_time": 1757100974,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 14298,
       "num": 25646,
       "word": "抗战老兵看完阅兵说付出值得",
       "onboard_time": 1757013734,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14089,
+      "num": 19900,
+      "word": "WMA年度五大推荐入围名单",
+      "onboard_time": 1757094077,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 14033,
@@ -18433,14 +18449,6 @@
       "onboard_time": 1756750995,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13454,
-      "num": 19900,
-      "word": "WMA年度五大推荐入围名单",
-      "onboard_time": 1757094077,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 13299,

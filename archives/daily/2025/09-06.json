@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757104809982,
+  "endTime": 1757107331762,
   "band_list": [
     {
       "raw_hot": 1394387,
@@ -235,6 +235,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 122761,
+      "num": 133548,
+      "word": "美国拘捕300名韩国人",
+      "onboard_time": 1757085563,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 121493,
       "num": 121493,
       "word": "王楚钦的北大开学plog",
@@ -305,14 +313,6 @@
       "onboard_time": 1757084361,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93411,
-      "num": 93411,
-      "word": "美国拘捕300名韩国人",
-      "onboard_time": 1757085563,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 91169,
@@ -403,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 55374,
+      "num": 27279,
+      "word": "呼吁开除最快女护士言论越界了",
+      "onboard_time": 1757101274,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48577,
       "num": 69228,
       "word": "王楚钦冬去秋来又是一程",
@@ -427,14 +435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24814,
-      "num": 19916,
-      "word": "呼吁开除最快女护士言论越界了",
-      "onboard_time": 1757101274,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24204,
       "num": 101252,
       "word": "缅怀抗战先烈",
@@ -451,6 +451,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16675,
+      "num": 16675,
+      "word": "怪不得说东北人干啥都大大方方的",
+      "onboard_time": 1757105954,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 14802,
+      "num": 22442,
+      "word": "穿破洞裤出门前一定要照镜子",
+      "onboard_time": 1757100974,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14316,
       "num": 26104,
       "word": "2025F1意大利大奖赛",
@@ -459,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14306,
-      "num": 22442,
-      "word": "穿破洞裤出门前一定要照镜子",
-      "onboard_time": 1757100974,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 14089,
+      "num": 19900,
+      "word": "WMA年度五大推荐入围名单",
+      "onboard_time": 1757094077,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 14020,
@@ -473,14 +489,6 @@
       "onboard_time": 1757099654,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13454,
-      "num": 19900,
-      "word": "WMA年度五大推荐入围名单",
-      "onboard_time": 1757094077,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 10390,
