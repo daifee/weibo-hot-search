@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/06 06:23:16
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/06 06:39:39
 </p>
 </blockquote>
 <p>
@@ -2499,6 +2499,12 @@ A股（热度：494883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
+教体局回应一中学新初一共94个班（热度：371952）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E6%80%BB%E7%90%86%E4%B8%8D%E7%90%86%E8%A7%A3%E6%AC%A7%E7%9B%9F%E5%90%84%E5%9B%BD%E4%B8%8D%E8%B5%B4%E5%8D%8E%23" target="weibo">
 斯洛伐克总理不理解欧盟各国不赴华（热度：370390）
 </a>
@@ -2757,6 +2763,12 @@ VOGUE（热度：350760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA%23" target="weibo">
+美国拘捕300名韩国人（热度：332497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E8%B0%88%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%23" target="weibo">
 美防长谈九三阅兵（热度：331622）
 </a>
@@ -2951,12 +2963,6 @@ VOGUE（热度：350760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%8F%E9%A4%90%E5%96%9D%E6%B0%B4%E5%92%8C%E4%B8%8D%E5%96%9D%E6%B0%B4%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
 随餐喝水和不喝水的区别（热度：306851）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E5%88%9D%E4%B8%80%E5%85%B194%E4%B8%AA%E7%8F%AD%23" target="weibo">
-教体局回应一中学新初一共94个班（热度：306795）
 </a>
 </li>
 
@@ -3323,12 +3329,6 @@ A股反弹原因（热度：281540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A6%BB%E5%BC%80%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23" target="weibo">
 普京离开人民大会堂（热度：266912）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8B%98%E6%8D%95300%E5%90%8D%E9%9F%A9%E5%9B%BD%E4%BA%BA%23" target="weibo">
-美国拘捕300名韩国人（热度：266803）
 </a>
 </li>
 
@@ -4029,6 +4029,12 @@ iPhone17Pro透明保护壳曝光（热度：209530）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E6%80%9538%E5%B2%81%E5%BC%9F%E5%BC%9F%E5%95%83%E8%80%81%E6%94%B6%E8%B5%B0%E7%88%B6%E4%BA%B2%E9%92%B1%E5%92%8C%E5%8D%A1%23" target="weibo">
+哥哥怕38岁弟弟啃老收走父亲钱和卡（热度：208710）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B0%E5%BC%B9%E5%94%B1%23" target="weibo">
 王晰弹唱（热度：208641）
 </a>
@@ -4121,12 +4127,6 @@ iPhone17Pro透明保护壳曝光（热度：209530）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E9%98%85%E5%85%B5%23" target="weibo">
 看阅兵（热度：203287）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E6%80%9538%E5%B2%81%E5%BC%9F%E5%BC%9F%E5%95%83%E8%80%81%E6%94%B6%E8%B5%B0%E7%88%B6%E4%BA%B2%E9%92%B1%E5%92%8C%E5%8D%A1%23" target="weibo">
-哥哥怕38岁弟弟啃老收走父亲钱和卡（热度：202145）
 </a>
 </li>
 
@@ -4859,6 +4859,12 @@ smart官宣两座回归（热度：176038）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E8%83%9C%E5%88%A9%E7%9A%84%E6%97%A5%E5%AD%90%23" target="weibo">
 今天是胜利的日子（热度：175911）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%81%E5%BC%80%E9%99%A4%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%A8%80%E8%AE%BA%E8%B6%8A%E7%95%8C%E4%BA%86%23" target="weibo">
+呼吁开除最快女护士言论越界了（热度：175280）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ aespa导播还是太会切屏了（热度：146353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B2%E9%93%B2%E5%AE%98%E5%AE%A39%E6%9C%8825%E6%97%A5%E6%AD%A3%E5%BC%8F%E7%99%BB%E9%99%86%E9%B8%BF%E8%92%995%23" target="weibo">
 金铲铲官宣9月25日正式登陆鸿蒙5（热度：144936）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E5%AD%90%E6%96%99%E7%90%86%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86%23" target="weibo">
-分子料理为什么火了（热度：144696）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757110996837,
+  "endTime": 1757111979888,
   "band_list": [
     {
       "raw_hot": 1394387,
@@ -43,6 +43,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 371952,
+      "num": 498418,
+      "word": "教体局回应一中学新初一共94个班",
+      "onboard_time": 1757091258,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337360,
       "num": 142862,
       "word": "华人女孩在悉尼遭多名少女殴打",
@@ -59,20 +67,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332497,
+      "num": 392757,
+      "word": "美国拘捕300名韩国人",
+      "onboard_time": 1757085563,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 313284,
       "num": 138061,
       "word": "马思纯的字",
       "onboard_time": 1757068161,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306795,
-      "num": 306795,
-      "word": "教体局回应一中学新初一共94个班",
-      "onboard_time": 1757091258,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300234,
@@ -89,14 +97,6 @@
       "onboard_time": 1757077221,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266803,
-      "num": 392757,
-      "word": "美国拘捕300名韩国人",
-      "onboard_time": 1757085563,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 266096,
@@ -131,7 +131,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 202145,
+      "raw_hot": 208710,
       "num": 129988,
       "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
       "onboard_time": 1757086822,
@@ -161,6 +161,14 @@
       "onboard_time": 1757079201,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175280,
+      "num": 53945,
+      "word": "呼吁开除最快女护士言论越界了",
+      "onboard_time": 1757101274,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149453,
@@ -211,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134557,
-      "num": 39576,
-      "word": "呼吁开除最快女护士言论越界了",
-      "onboard_time": 1757101274,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 135611,
+      "num": 127786,
+      "word": "3问千万网红只卖了58双鞋",
+      "onboard_time": 1757079262,
+      "rank": 25,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 133655,
@@ -241,14 +249,6 @@
       "onboard_time": 1757076501,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127786,
-      "num": 127786,
-      "word": "3问千万网红只卖了58双鞋",
-      "onboard_time": 1757079262,
-      "rank": 25,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 121493,
@@ -411,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48970,
+      "num": 48970,
+      "word": "武契奇称将很快对中国进行国事访问",
+      "onboard_time": 1757109194,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48577,
       "num": 69228,
       "word": "王楚钦冬去秋来又是一程",
@@ -419,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36646,
-      "num": 36646,
-      "word": "武契奇称将很快对中国进行国事访问",
-      "onboard_time": 1757109194,
-      "rank": 21,
-      "category": "国内时政"
+      "raw_hot": 33531,
+      "num": 33531,
+      "word": "怪不得说东北人干啥都大大方方的",
+      "onboard_time": 1757105954,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 31054,
@@ -433,14 +441,6 @@
       "onboard_time": 1757056701,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27963,
-      "num": 27963,
-      "word": "怪不得说东北人干啥都大大方方的",
-      "onboard_time": 1757105954,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 25499,
@@ -459,20 +459,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19891,
+      "num": 25059,
+      "word": "穿破洞裤出门前一定要照镜子",
+      "onboard_time": 1757100974,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19553,
       "num": 36064,
       "word": "老人讲述日军屠杀细节字字泣血",
       "onboard_time": 1757095636,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14802,
-      "num": 22442,
-      "word": "穿破洞裤出门前一定要照镜子",
-      "onboard_time": 1757100974,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 14316,
