@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1757038259330,
+  "endTime": 1757041427439,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -715,6 +715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1278810,
+      "num": 1189429,
+      "word": "金钟国婚礼",
+      "onboard_time": 1757038701,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1271469,
       "num": 219471,
       "word": "金正恩说中国的庆典也是我们的喜事",
@@ -724,7 +732,7 @@
     },
     {
       "raw_hot": 1269017,
-      "num": 172612,
+      "num": 199961,
       "word": "杨幂 拿奖了给何晟铭跪下",
       "onboard_time": 1757031321,
       "rank": 20,
@@ -753,6 +761,14 @@
       "onboard_time": 1756940477,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1206464,
+      "num": 1206464,
+      "word": "5人策划低俗求婚剧本被拘",
+      "onboard_time": 1757036421,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1202393,
@@ -833,14 +849,6 @@
       "onboard_time": 1756809202,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1140414,
-      "num": 1140414,
-      "word": "5人策划低俗求婚剧本被拘",
-      "onboard_time": 1757036421,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1136841,
@@ -1756,7 +1764,7 @@
     },
     {
       "raw_hot": 622474,
-      "num": 171694,
+      "num": 198957,
       "word": "钟楚曦自己化妆一年能省下来一套房",
       "onboard_time": 1757032161,
       "rank": 21,
@@ -2099,6 +2107,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 535597,
+      "num": 535597,
+      "word": "早春晴朗",
+      "onboard_time": 1757038941,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 533894,
+      "num": 291641,
+      "word": "马克龙宣布26国将向乌克兰部署军队",
+      "onboard_time": 1757040320,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 531892,
       "num": 268976,
       "word": "幼儿园即将迎来一颗魔丸",
@@ -2291,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 497739,
+      "num": 497739,
+      "word": "被诬陷地铁偷拍男子二审仍求道歉",
+      "onboard_time": 1757038221,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496738,
       "num": 496738,
       "word": "救下迷路和平鸽",
@@ -2420,7 +2452,7 @@
     },
     {
       "raw_hot": 481244,
-      "num": 169209,
+      "num": 196853,
       "word": "易烊千玺身体状况不理想",
       "onboard_time": 1757031682,
       "rank": 22,
@@ -2769,6 +2801,14 @@
       "onboard_time": 1756703542,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423521,
+      "num": 282818,
+      "word": "德国7名候选人不到两周接连离世",
+      "onboard_time": 1757038041,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 423327,
@@ -3345,6 +3385,14 @@
       "onboard_time": 1756608201,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354153,
+      "num": 605069,
+      "word": "普京感谢中国对俄试行免签",
+      "onboard_time": 1757035101,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 353985,
@@ -4659,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247804,
+      "num": 247804,
+      "word": "田栩宁执伞破风大片",
+      "onboard_time": 1757041101,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247271,
       "num": 112059,
       "word": "iPhone17Pro涨价",
@@ -5025,14 +5081,6 @@
       "onboard_time": 1756708341,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223580,
-      "num": 605069,
-      "word": "普京感谢中国对俄试行免签",
-      "onboard_time": 1757035101,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 223358,
@@ -5449,6 +5497,14 @@
       "onboard_time": 1756650444,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204086,
+      "num": 204086,
+      "word": "金晨蝴蝶翅膀是手绘的",
+      "onboard_time": 1757040621,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 203357,
@@ -6083,6 +6139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187867,
+      "num": 187867,
+      "word": "飞机上偶遇刘耀文丁程鑫",
+      "onboard_time": 1757038881,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187828,
       "num": 242969,
       "word": "唐卡为什么是最毒的画作",
@@ -6401,6 +6465,14 @@
       "onboard_time": 1756700963,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179757,
+      "num": 179757,
+      "word": "云南牟定一对兄妹被蜂群蜇伤致死",
+      "onboard_time": 1757037380,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179416,
@@ -7459,14 +7531,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 152096,
-      "num": 152096,
-      "word": "德国7名候选人不到两周接连离世",
-      "onboard_time": 1757038041,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 151954,
       "num": 151954,
       "word": "我承认多读书真的太酷了",
@@ -7657,6 +7721,14 @@
       "onboard_time": 1756910784,
       "rank": 39,
       "category": "国内时政,综艺"
+    },
+    {
+      "raw_hot": 149012,
+      "num": 149012,
+      "word": "终于知道结婚后为啥容易变胖了",
+      "onboard_time": 1757040320,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 149010,
@@ -7985,6 +8057,14 @@
       "onboard_time": 1756556661,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142883,
+      "num": 202022,
+      "word": "中国首部太空电影上映",
+      "onboard_time": 1757041101,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 142779,
@@ -8353,14 +8433,6 @@
       "onboard_time": 1756701021,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135925,
-      "num": 135925,
-      "word": "云南牟定一对兄妹被蜂群蜇伤致死",
-      "onboard_time": 1757037380,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135589,
@@ -9675,6 +9747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114830,
+      "num": 114830,
+      "word": "歼35颜值有多高",
+      "onboard_time": 1757040320,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 114718,
       "num": 114718,
       "word": "A股9月迎开门红",
@@ -10195,6 +10275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107655,
+      "num": 107655,
+      "word": "当你不停运动七个月后",
+      "onboard_time": 1757040500,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 107548,
       "num": 105374,
       "word": "乌克兰抓壮丁搞笑一幕",
@@ -10435,6 +10523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105233,
+      "num": 191411,
+      "word": "檀健次首次为动画电影配音",
+      "onboard_time": 1757040860,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105196,
       "num": 105196,
       "word": "阎鹤祥 天知道相声对我做了什么",
@@ -10635,6 +10731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101632,
+      "num": 150314,
+      "word": "赵昭仪太能张罗了",
+      "onboard_time": 1757038941,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101523,
       "num": 140464,
       "word": "阅兵现场可容纳超5万人观礼",
@@ -10785,6 +10889,14 @@
       "onboard_time": 1756639761,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99886,
+      "num": 99886,
+      "word": "我需要那种半死不活的朋友",
+      "onboard_time": 1757040560,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 99668,
@@ -11251,14 +11363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93782,
-      "num": 93782,
-      "word": "被诬陷地铁偷拍男子二审仍求道歉",
-      "onboard_time": 1757038221,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93702,
       "num": 191867,
       "word": "TES选择NIP",
@@ -11273,6 +11377,14 @@
       "onboard_time": 1756979662,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93630,
+      "num": 93630,
+      "word": "你以为很卫生其实巨脏的行为",
+      "onboard_time": 1757041041,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 93602,
@@ -11419,6 +11531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91937,
+      "num": 91937,
+      "word": "WTT北京大满贯",
+      "onboard_time": 1757041281,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91901,
       "num": 91901,
       "word": "安洗莹向陈雨菲致敬",
@@ -11473,6 +11593,14 @@
       "onboard_time": 1756950920,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91459,
+      "num": 91459,
+      "word": "确诊为仙逆王林走路粉",
+      "onboard_time": 1757041400,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 91433,
@@ -11609,6 +11737,14 @@
       "onboard_time": 1756800800,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89473,
+      "num": 89473,
+      "word": "情绪稳定的方法",
+      "onboard_time": 1757041400,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 89099,
@@ -12017,6 +12153,14 @@
       "onboard_time": 1756992564,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86120,
+      "num": 86120,
+      "word": "李沁这个飞吻",
+      "onboard_time": 1757038881,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 86058,
@@ -12977,6 +13121,14 @@
       "onboard_time": 1756625301,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75145,
+      "num": 87101,
+      "word": "胡歌追忆最后一次见阿玛尼先生",
+      "onboard_time": 1757041220,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 75138,
@@ -13979,6 +14131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56569,
+      "num": 166632,
+      "word": "警方通报男子诋毁九三阅兵被拘留",
+      "onboard_time": 1757041281,
+      "rank": 27,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 56553,
       "num": 326020,
       "word": "武警战士遇水搭桥速度也太快了",
@@ -14419,6 +14579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42156,
+      "num": 105241,
+      "word": "中国阅兵让英媒直呼大开眼界",
+      "onboard_time": 1757041220,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42000,
       "num": 42000,
       "word": "想让千惠妈妈有出走的决心",
@@ -14769,6 +14937,14 @@
       "onboard_time": 1756984702,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30612,
+      "num": 92714,
+      "word": "栾留伟的妻子现场观礼九三阅兵",
+      "onboard_time": 1757041341,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30417,
@@ -15168,6 +15344,14 @@
       "word": "今天的热搜被阅兵承包了",
       "onboard_time": 1757009656,
       "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 17436,
+      "num": 105749,
+      "word": "军迷不语只一味生产表情包",
+      "onboard_time": 1757040320,
+      "rank": 38,
       "category": "国内时政"
     },
     {
