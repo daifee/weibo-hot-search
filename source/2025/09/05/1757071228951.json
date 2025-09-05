@@ -1,0 +1,410 @@
+{
+  "runTime": 1757071228951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 592918,
+        "num": 1094866,
+        "word": "阅兵结束拆座椅",
+        "onboard_time": 1757063542,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 506612,
+        "num": 506612,
+        "word": "外媒酸中国装备没实战翻车",
+        "onboard_time": 1757060962,
+        "rank": 1,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 47206,
+        "num": 465327,
+        "word": "纯享版九三阅兵解说词",
+        "onboard_time": 1757061742,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448176,
+        "num": 448176,
+        "word": "复旦食堂 鹅肝汉堡爆火",
+        "onboard_time": 1757065522,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361058,
+        "num": 361058,
+        "word": "中方回应特朗普将国防部改战争部",
+        "onboard_time": 1757065223,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 274769,
+        "num": 274769,
+        "word": "阅兵后劲真的太大了",
+        "onboard_time": 1757069660,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195244,
+        "num": 195244,
+        "word": "手术室为什么要用花生米",
+        "onboard_time": 1757052922,
+        "rank": 6,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 158525,
+        "num": 194999,
+        "word": "卢伟冰回应小米16提档",
+        "onboard_time": 1757068761,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153804,
+        "num": 192553,
+        "word": "普京说俄将对等实施对华免签",
+        "onboard_time": 1757054061,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107975,
+        "num": 191461,
+        "word": "阅兵一刷高燃再刷爆哭",
+        "onboard_time": 1757067681,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1040382,
+        "num": 190008,
+        "word": "马思纯的字",
+        "onboard_time": 1757068161,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801281,
+        "num": 188451,
+        "word": "炎亚纶纯恨",
+        "onboard_time": 1757066121,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646725,
+        "num": 187656,
+        "word": "医院回应最快女护士被解聘或调岗",
+        "onboard_time": 1757067322,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467221,
+        "num": 186604,
+        "word": "谁给王楚然选的衣服",
+        "onboard_time": 1757065701,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65025,
+        "num": 184118,
+        "word": "新世代宝马终于来了",
+        "onboard_time": 1757068521,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 312479,
+        "num": 182845,
+        "word": "VOGUE",
+        "onboard_time": 1757068942,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310978,
+        "num": 181992,
+        "word": "字节实习生一天领13份餐被通报",
+        "onboard_time": 1757069900,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225254,
+        "num": 180659,
+        "word": "李兰迪裤子 女装也是完了",
+        "onboard_time": 1757043021,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213364,
+        "num": 179040,
+        "word": "王栎鑫心脏不适退出xmen舞台",
+        "onboard_time": 1757055262,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37635,
+        "num": 177319,
+        "word": "新华社神图拍摄技巧",
+        "onboard_time": 1757070080,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199929,
+        "num": 175380,
+        "word": "女子遭前夫殴打致肠破裂住进ICU",
+        "onboard_time": 1757065223,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196654,
+        "num": 173987,
+        "word": "不如郭敬明",
+        "onboard_time": 1757062401,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173820,
+        "num": 173820,
+        "word": "亿万富翁破产后每月需还款6位数",
+        "onboard_time": 1757061682,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161417,
+        "num": 161417,
+        "word": "秦海璐评价杨幂",
+        "onboard_time": 1757068942,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161067,
+        "num": 161067,
+        "word": "续面事件面馆歇业关闭",
+        "onboard_time": 1757068642,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160969,
+        "num": 160969,
+        "word": "杨博文cha了幻梦都破碎",
+        "onboard_time": 1757070320,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149074,
+        "num": 149074,
+        "word": "终于集齐了易烊千玺礐嶨的所有票根",
+        "onboard_time": 1757070680,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140405,
+        "num": 140405,
+        "word": "刘亦菲蓝宝石165克拉",
+        "onboard_time": 1757070020,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137533,
+        "num": 137533,
+        "word": "王楚然下次别进烟火组了",
+        "onboard_time": 1757070020,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119481,
+        "num": 119481,
+        "word": "刘亦菲 宝格丽",
+        "onboard_time": 1757055080,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 148284,
+        "num": 119366,
+        "word": "央视新闻抽奖东风61徽章",
+        "onboard_time": 1757070500,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114969,
+        "num": 114969,
+        "word": "杨幂还没学会画眼线",
+        "onboard_time": 1757063062,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114316,
+        "num": 114316,
+        "word": "VOGUE女演员的字",
+        "onboard_time": 1757070020,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111709,
+        "num": 111709,
+        "word": "李一桐 昆虫公主",
+        "onboard_time": 1757070801,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103890,
+        "num": 103890,
+        "word": "罕见红月亮将持续83分钟",
+        "onboard_time": 1757069181,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100740,
+        "num": 100740,
+        "word": "外交部回应阿努廷当选泰国总理",
+        "onboard_time": 1757067800,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98442,
+        "num": 98442,
+        "word": "丈夫杀害欲离婚妻子被判死缓",
+        "onboard_time": 1757068042,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98034,
+        "num": 98034,
+        "word": "桃李面包称领导正接受现实毒打",
+        "onboard_time": 1757055562,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34592,
+        "num": 97001,
+        "word": "台退将称东风61让五角大楼睡不着觉",
+        "onboard_time": 1757070080,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67556,
+        "num": 96491,
+        "word": "中国公民在巴安全保障将是总理级",
+        "onboard_time": 1757070080,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96212,
+        "num": 96212,
+        "word": "复旦食堂回应鹅肝汉堡爆火",
+        "onboard_time": 1757070500,
+        "rank": 40,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 94923,
+        "num": 94923,
+        "word": "阿努廷当选泰国总理",
+        "onboard_time": 1757062821,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92635,
+        "num": 92635,
+        "word": "A股反弹原因",
+        "onboard_time": 1757060362,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92438,
+        "num": 92438,
+        "word": "小酒窝C位领舞天生主角",
+        "onboard_time": 1757064501,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91623,
+        "num": 91623,
+        "word": "早上运动vs晚上运动",
+        "onboard_time": 1757070981,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 91616,
+        "num": 91616,
+        "word": "张小斐迪丽热巴双人画报",
+        "onboard_time": 1757053821,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 87408,
+        "num": 87408,
+        "word": "TOP小考包揽前五",
+        "onboard_time": 1757071161,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86717,
+        "num": 86717,
+        "word": "鬼灭之刃无限城篇",
+        "onboard_time": 1757071101,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 86562,
+        "num": 86562,
+        "word": "试验二十九号卫星发射成功",
+        "onboard_time": 1757062941,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85919,
+        "num": 85919,
+        "word": "柯文哲以7000万元新台币交保回家",
+        "onboard_time": 1757067441,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2025世界智能产业博览会致贺信#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757068957018,
+  "endTime": 1757071228951,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -915,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1040382,
+      "num": 202208,
+      "word": "马思纯的字",
+      "onboard_time": 1757068161,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1028515,
       "num": 1028515,
       "word": "国外网友被中国阅兵震惊",
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 802561,
-      "num": 802561,
+      "num": 1094866,
       "word": "阅兵结束拆座椅",
       "onboard_time": 1757063542,
       "rank": 19,
@@ -1681,6 +1689,14 @@
       "onboard_time": 1756869154,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 646725,
+      "num": 198144,
+      "word": "医院回应最快女护士被解聘或调岗",
+      "onboard_time": 1757067322,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 630663,
@@ -2649,6 +2665,14 @@
       "onboard_time": 1757048424,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 448176,
+      "num": 448176,
+      "word": "复旦食堂 鹅肝汉堡爆火",
+      "onboard_time": 1757065522,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448044,
@@ -3635,6 +3659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 312479,
+      "num": 182845,
+      "word": "VOGUE",
+      "onboard_time": 1757068942,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 312131,
       "num": 618815,
       "word": "众星发文悼念阿玛尼先生",
@@ -3649,6 +3681,14 @@
       "onboard_time": 1756652963,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310978,
+      "num": 181992,
+      "word": "字节实习生一天领13份餐被通报",
+      "onboard_time": 1757069900,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 308043,
@@ -3835,14 +3875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 293461,
-      "num": 202208,
-      "word": "马思纯的字",
-      "onboard_time": 1757068161,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292889,
       "num": 292889,
       "word": "最硬核的阅兵后最暖的互动",
@@ -4024,6 +4056,14 @@
       "word": "100坦克内能看360度影像",
       "onboard_time": 1756895064,
       "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 274769,
+      "num": 274769,
+      "word": "阅兵后劲真的太大了",
+      "onboard_time": 1757069660,
+      "rank": 5,
       "category": "国内时政"
     },
     {
@@ -4217,14 +4257,6 @@
       "onboard_time": 1756887682,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 260377,
-      "num": 260377,
-      "word": "复旦食堂 鹅肝汉堡爆火",
-      "onboard_time": 1757065522,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259425,
@@ -4769,14 +4801,6 @@
       "onboard_time": 1756708341,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227253,
-      "num": 198144,
-      "word": "医院回应最快女护士被解聘或调岗",
-      "onboard_time": 1757067322,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225756,
@@ -5444,7 +5468,7 @@
     },
     {
       "raw_hot": 193908,
-      "num": 193908,
+      "num": 194999,
       "word": "卢伟冰回应小米16提档",
       "onboard_time": 1757068761,
       "rank": 21,
@@ -6643,6 +6667,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161417,
+      "num": 161417,
+      "word": "秦海璐评价杨幂",
+      "onboard_time": 1757068942,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 161067,
+      "num": 161067,
+      "word": "续面事件面馆歇业关闭",
+      "onboard_time": 1757068642,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160969,
+      "num": 160969,
+      "word": "杨博文cha了幻梦都破碎",
+      "onboard_time": 1757070320,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160882,
       "num": 160882,
       "word": "丁禹兮花开锦绣雪中相拥路透",
@@ -7211,6 +7259,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 149074,
+      "num": 149074,
+      "word": "终于集齐了易烊千玺礐嶨的所有票根",
+      "onboard_time": 1757070680,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148795,
       "num": 148795,
       "word": "盛李豪去现场看阅兵了",
@@ -7257,6 +7313,14 @@
       "onboard_time": 1756812082,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148284,
+      "num": 119366,
+      "word": "央视新闻抽奖东风61徽章",
+      "onboard_time": 1757070500,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148205,
@@ -7571,6 +7635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140405,
+      "num": 140405,
+      "word": "刘亦菲蓝宝石165克拉",
+      "onboard_time": 1757070020,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139976,
       "num": 139976,
       "word": "丞磊新剧又争又抢民国律师哥",
@@ -7713,6 +7785,14 @@
       "onboard_time": 1756786281,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137533,
+      "num": 137533,
+      "word": "王楚然下次别进烟火组了",
+      "onboard_time": 1757070020,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 137531,
@@ -9019,6 +9099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114316,
+      "num": 114316,
+      "word": "VOGUE女演员的字",
+      "onboard_time": 1757070020,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 114122,
       "num": 759180,
       "word": "战旗方队浩荡而来",
@@ -9107,14 +9195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112455,
-      "num": 112455,
-      "word": "续面事件面馆歇业关闭",
-      "onboard_time": 1757068642,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112286,
       "num": 112286,
       "word": "迪丽热巴callback弹钢琴",
@@ -9193,6 +9273,14 @@
       "onboard_time": 1756978702,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111709,
+      "num": 111709,
+      "word": "李一桐 昆虫公主",
+      "onboard_time": 1757070801,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 111541,
@@ -9420,7 +9508,7 @@
     },
     {
       "raw_hot": 108140,
-      "num": 113177,
+      "num": 191461,
       "word": "阅兵一刷高燃再刷爆哭",
       "onboard_time": 1757067681,
       "rank": 33,
@@ -9771,6 +9859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103890,
+      "num": 103890,
+      "word": "罕见红月亮将持续83分钟",
+      "onboard_time": 1757069181,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103768,
       "num": 94061,
       "word": "台湾民众观看阅兵直播",
@@ -9913,6 +10009,14 @@
       "onboard_time": 1756802481,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100740,
+      "num": 207701,
+      "word": "外交部回应阿努廷当选泰国总理",
+      "onboard_time": 1757067800,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100662,
@@ -10091,6 +10195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98442,
+      "num": 98442,
+      "word": "丈夫杀害欲离婚妻子被判死缓",
+      "onboard_time": 1757068042,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97841,
       "num": 117530,
       "word": "为什么9月3日是抗战胜利纪念日",
@@ -10105,14 +10217,6 @@
       "onboard_time": 1756722441,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97797,
-      "num": 97797,
-      "word": "丈夫杀害欲离婚妻子被判死缓",
-      "onboard_time": 1757068042,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97756,
@@ -10241,6 +10345,14 @@
       "onboard_time": 1756737322,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96212,
+      "num": 96212,
+      "word": "复旦食堂回应鹅肝汉堡爆火",
+      "onboard_time": 1757070500,
+      "rank": 40,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 96163,
@@ -10513,6 +10625,14 @@
       "onboard_time": 1756981043,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91623,
+      "num": 91623,
+      "word": "早上运动vs晚上运动",
+      "onboard_time": 1757070981,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 91559,
@@ -10803,6 +10923,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 87408,
+      "num": 87408,
+      "word": "TOP小考包揽前五",
+      "onboard_time": 1757071161,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87374,
       "num": 117479,
       "word": "果然猫在上厕所的时候最脆弱",
@@ -10881,6 +11009,14 @@
       "onboard_time": 1756824264,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86717,
+      "num": 86717,
+      "word": "鬼灭之刃无限城篇",
+      "onboard_time": 1757071101,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 86630,
@@ -10977,14 +11113,6 @@
       "onboard_time": 1757032463,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85939,
-      "num": 207701,
-      "word": "外交部回应阿努廷当选泰国总理",
-      "onboard_time": 1757067800,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85684,
@@ -12027,6 +12155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 67556,
+      "num": 96491,
+      "word": "中国公民在巴安全保障将是总理级",
+      "onboard_time": 1757070080,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67424,
       "num": 205743,
       "word": "蒿草过敏",
@@ -13019,6 +13155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 37635,
+      "num": 177319,
+      "word": "新华社神图拍摄技巧",
+      "onboard_time": 1757070080,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37295,
       "num": 215454,
       "word": "台湾大学教授泪洒阅兵现场",
@@ -13080,6 +13224,14 @@
       "word": "为国牺牲烈士每10人只1人留下姓名",
       "onboard_time": 1756825883,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 34592,
+      "num": 97001,
+      "word": "台退将称东风61让五角大楼睡不着觉",
+      "onboard_time": 1757070080,
+      "rank": 38,
       "category": "国内时政"
     },
     {
