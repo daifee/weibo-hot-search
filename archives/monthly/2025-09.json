@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757168441810,
+  "endTime": 1757169448330,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -936,6 +936,14 @@
       "word": "赵樱子自曝男友是一线男明星",
       "onboard_time": 1757084903,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1164885,
+      "num": 316657,
+      "word": "关晓彤ins更新",
+      "onboard_time": 1757167644,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1897,6 +1905,14 @@
       "onboard_time": 1757055562,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 687137,
+      "num": 687137,
+      "word": "樊振东收获德甲首胜",
+      "onboard_time": 1757168185,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 678528,
@@ -2971,6 +2987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 473854,
+      "num": 473854,
+      "word": "刘宇宁直播辟谣与经纪人恋情",
+      "onboard_time": 1757168244,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472153,
       "num": 297207,
       "word": "易烊千玺被广播催促登机",
@@ -3081,14 +3105,6 @@
       "onboard_time": 1756995445,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 461651,
-      "num": 316657,
-      "word": "关晓彤ins更新",
-      "onboard_time": 1757167644,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 459505,
@@ -3689,14 +3705,6 @@
       "onboard_time": 1756964783,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 390356,
-      "num": 390356,
-      "word": "刘宇宁直播辟谣与经纪人恋情",
-      "onboard_time": 1757168244,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 390306,
@@ -4707,6 +4715,14 @@
       "category": "国内时政,综艺"
     },
     {
+      "raw_hot": 301246,
+      "num": 301246,
+      "word": "魏大勋抱赵今麦投篮",
+      "onboard_time": 1757168543,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300826,
       "num": 384110,
       "word": "美韩关系紧张或加剧",
@@ -4897,6 +4913,14 @@
       "onboard_time": 1757158344,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285154,
+      "num": 285154,
+      "word": "宝妈花2万住月子中心遭虫爬身",
+      "onboard_time": 1757168065,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284848,
@@ -6715,6 +6739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196994,
+      "num": 196994,
+      "word": "艺人皮肤白的原因",
+      "onboard_time": 1757159302,
+      "rank": 34,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 196777,
       "num": 200979,
       "word": "这还是我认识的那个沈梦辰吗",
@@ -6785,14 +6817,6 @@
       "onboard_time": 1757051122,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195010,
-      "num": 195010,
-      "word": "樊振东收获德甲首胜",
-      "onboard_time": 1757168185,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 194814,
@@ -7443,14 +7467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 181972,
-      "num": 181972,
-      "word": "艺人皮肤白的原因",
-      "onboard_time": 1757159302,
-      "rank": 34,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 181728,
       "num": 181728,
       "word": "张艺凡一胳膊能搂四个姐姐",
@@ -7619,6 +7635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177307,
+      "num": 177307,
+      "word": "生病急需钱家人发现32万做了生意",
+      "onboard_time": 1757169023,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177106,
       "num": 177106,
       "word": "点外卖的最爽时刻",
@@ -7721,14 +7745,6 @@
       "onboard_time": 1757133741,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174172,
-      "num": 174172,
-      "word": "宝妈花2万住月子中心遭虫爬身",
-      "onboard_time": 1757168065,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174100,
@@ -8001,6 +8017,14 @@
       "onboard_time": 1756697061,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168645,
+      "num": 249216,
+      "word": "尚雯婕吃饭全靠黄晓明背",
+      "onboard_time": 1757168424,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 168531,
@@ -8553,6 +8577,14 @@
       "onboard_time": 1756780700,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158895,
+      "num": 179572,
+      "word": "樊振东3比1泽利科",
+      "onboard_time": 1757168244,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 158859,
@@ -10835,14 +10867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126421,
-      "num": 179572,
-      "word": "樊振东3比1泽利科",
-      "onboard_time": 1757168244,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125930,
       "num": 125930,
       "word": "高能量的人是什么样的",
@@ -11371,6 +11395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120042,
+      "num": 177447,
+      "word": "周也海浪电影周",
+      "onboard_time": 1757168364,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119924,
       "num": 140232,
       "word": "林高远说有种难以名状的震撼与感动",
@@ -11617,6 +11649,14 @@
       "onboard_time": 1756787122,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 116883,
+      "num": 116883,
+      "word": "南通提前锁定苏超常规赛冠军",
+      "onboard_time": 1757169383,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 116810,
@@ -12043,6 +12083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112813,
+      "num": 112813,
+      "word": "听说这叫妥协的直男",
+      "onboard_time": 1757169383,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 112812,
       "num": 112812,
       "word": "阅兵复制粘贴名场面已刷N遍",
@@ -12057,14 +12105,6 @@
       "onboard_time": 1756797801,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112601,
-      "num": 142280,
-      "word": "周也海浪电影周",
-      "onboard_time": 1757168364,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 112487,
@@ -12281,14 +12321,6 @@
       "onboard_time": 1756916121,
       "rank": 29,
       "category": "国内时政,综艺"
-    },
-    {
-      "raw_hot": 110380,
-      "num": 110380,
-      "word": "尚雯婕吃饭全靠黄晓明背",
-      "onboard_time": 1757168424,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 110339,
@@ -15467,6 +15499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73170,
+      "num": 126684,
+      "word": "20岁女生35天穷游7国仅花万元",
+      "onboard_time": 1757169324,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73096,
       "num": 101263,
       "word": "普京感谢中方",
@@ -15588,7 +15628,7 @@
     },
     {
       "raw_hot": 71147,
-      "num": 923107,
+      "num": 942213,
       "word": "致敬每一位默默坚守的身影",
       "onboard_time": 1757085263,
       "rank": 20,
@@ -15889,6 +15929,14 @@
       "onboard_time": 1756769779,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 66081,
+      "num": 249195,
+      "word": "盲人企业家帮县政府垫资千万收不回",
+      "onboard_time": 1757169085,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66036,
@@ -17384,6 +17432,14 @@
       "word": "天安门广场放音乐",
       "onboard_time": 1756832297,
       "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 29531,
+      "num": 249191,
+      "word": "洪秀柱现身国家大剧院看京剧",
+      "onboard_time": 1757169144,
+      "rank": 19,
       "category": "国内时政"
     },
     {
