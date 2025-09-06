@@ -1,0 +1,410 @@
+{
+  "runTime": 1757128154833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1465008,
+        "num": 1465008,
+        "word": "中元节",
+        "onboard_time": 1757116518,
+        "rank": 0,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 1217991,
+        "num": 1217991,
+        "word": "中方同意加入纽约宣言",
+        "onboard_time": 1757120300,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10090,
+        "num": 821288,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633722,
+        "num": 633722,
+        "word": "一觉醒来郭帆白改了",
+        "onboard_time": 1757122580,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608110,
+        "num": 608110,
+        "word": "耿爽说美国不受欢迎",
+        "onboard_time": 1757125220,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 562679,
+        "num": 562679,
+        "word": "我国规划撞击一颗小行星",
+        "onboard_time": 1757118079,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312482,
+        "num": 312482,
+        "word": "关晓彤竟然还有庄筱婷林栋哲售后",
+        "onboard_time": 1757125880,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311434,
+        "num": 311434,
+        "word": "东风五号首任总师说让别人不敢碰我们",
+        "onboard_time": 1757123781,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296315,
+        "num": 296315,
+        "word": "歼20模型销量暴涨175%",
+        "onboard_time": 1757125041,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220085,
+        "num": 293585,
+        "word": "唐国强 上次这么敢说还是康熙",
+        "onboard_time": 1757124920,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1008315,
+        "num": 289734,
+        "word": "小酒窝有官配cp了",
+        "onboard_time": 1757123119,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 923836,
+        "num": 282842,
+        "word": "江祖平自曝遭绿媒副总儿子下药性侵",
+        "onboard_time": 1757117539,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689599,
+        "num": 278533,
+        "word": "关晓彤听分手歌100多遍鹿晗知道吗",
+        "onboard_time": 1757080644,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425294,
+        "num": 271289,
+        "word": "李昀锐尚公主蓝衣路透",
+        "onboard_time": 1757125641,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270546,
+        "num": 270546,
+        "word": "爱到这种程度再结婚",
+        "onboard_time": 1757120840,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267871,
+        "num": 267871,
+        "word": "美韩关系紧张或加剧",
+        "onboard_time": 1757124501,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163822,
+        "num": 267257,
+        "word": "严浩翔手动帮贺峻霖静音",
+        "onboard_time": 1757123240,
+        "rank": 16,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 81464,
+        "num": 265352,
+        "word": "中元节河灯为谁点亮",
+        "onboard_time": 1757126661,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91461,
+        "num": 264459,
+        "word": "外国人也享受到懒人洗的待遇了",
+        "onboard_time": 1757126599,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21759,
+        "num": 262931,
+        "word": "中元节为何又称孝亲节",
+        "onboard_time": 1757127741,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261673,
+        "num": 261673,
+        "word": "中级会计",
+        "onboard_time": 1757123000,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239643,
+        "num": 239643,
+        "word": "16岁男孩做物理增高长高后又缩水",
+        "onboard_time": 1757118319,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103460,
+        "num": 233513,
+        "word": "唐国强对时代少年团明目张胆的偏爱",
+        "onboard_time": 1757127560,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229822,
+        "num": 229822,
+        "word": "美国战争部",
+        "onboard_time": 1757115258,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227554,
+        "num": 227554,
+        "word": "警方回应白嫖网约车两女子已被行拘",
+        "onboard_time": 1757117719,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226329,
+        "num": 226329,
+        "word": "25岁痛经十几年后决定停经",
+        "onboard_time": 1757126360,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208942,
+        "num": 208942,
+        "word": "小酒窝叫佟丽娅丫丫妈妈",
+        "onboard_time": 1757127441,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196682,
+        "num": 196682,
+        "word": "猫和老鼠画师首次为国漫作画",
+        "onboard_time": 1757127501,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 99105,
+        "num": 187315,
+        "word": "你好星期六",
+        "onboard_time": 1757127800,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94559,
+        "num": 186449,
+        "word": "辛芷蕾香奈儿高定",
+        "onboard_time": 1757121261,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185671,
+        "num": 185671,
+        "word": "单身太久突然谈了个恋爱时",
+        "onboard_time": 1757116157,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161693,
+        "num": 161693,
+        "word": "iPhone为什么只有P是大写",
+        "onboard_time": 1757115738,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153939,
+        "num": 153939,
+        "word": "男子将死老鼠放饮料机上被刑拘",
+        "onboard_time": 1757119761,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148414,
+        "num": 148414,
+        "word": "战旗方队第1排的铁锤子有多牛",
+        "onboard_time": 1757123841,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130845,
+        "num": 130845,
+        "word": "iPhone17Pro灵动岛或缩短25%",
+        "onboard_time": 1757121020,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122139,
+        "num": 122139,
+        "word": "人到中年体味变大的真相",
+        "onboard_time": 1757114659,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120837,
+        "num": 120837,
+        "word": "俄方要求日本完全承认二战结果",
+        "onboard_time": 1757113096,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116268,
+        "num": 116268,
+        "word": "中级会计实务",
+        "onboard_time": 1757127982,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110169,
+        "num": 110169,
+        "word": "董璇晒佟丽娅小酒窝合照",
+        "onboard_time": 1757120901,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108553,
+        "num": 108553,
+        "word": "秋天开启五彩斑斓模式",
+        "onboard_time": 1757127501,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108455,
+        "num": 108455,
+        "word": "最佳运动时间不是上午也不是下午",
+        "onboard_time": 1757126720,
+        "rank": 40,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 108011,
+        "num": 108011,
+        "word": "一个人最好有三种爱好",
+        "onboard_time": 1757127019,
+        "rank": 41,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 106377,
+        "num": 106377,
+        "word": "方家翊瘦了70斤撞脸米卡",
+        "onboard_time": 1757128039,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100860,
+        "num": 100860,
+        "word": "40人两天为老人清理出30吨垃圾",
+        "onboard_time": 1757125761,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70105,
+        "num": 99211,
+        "word": "内娱对中女的发掘不足百分之1",
+        "onboard_time": 1757126661,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99042,
+        "num": 99042,
+        "word": "7岁女童疑被小区泳池排水口吸入身亡",
+        "onboard_time": 1757117841,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95975,
+        "num": 95975,
+        "word": "教体局回应一中学新初一共94个班",
+        "onboard_time": 1757091258,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85460,
+        "num": 95841,
+        "word": "张雅琪喜欢迪丽热巴的反差感",
+        "onboard_time": 1757120901,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79521,
+        "num": 95745,
+        "word": "王玉雯说父母比同龄人父母年长很多",
+        "onboard_time": 1757088262,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95741,
+        "num": 95741,
+        "word": "狗狗总能精准找到怕它的人",
+        "onboard_time": 1757128100,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#党旗所指正是军旗所向#"
+    }
+  }
+}
