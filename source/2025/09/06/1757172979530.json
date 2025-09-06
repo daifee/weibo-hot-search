@@ -1,0 +1,410 @@
+{
+  "runTime": 1757172979530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1068495,
+        "num": 1170959,
+        "word": "中元节禁忌是对传统节日的曲解",
+        "onboard_time": 1757159242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 737695,
+        "num": 737695,
+        "word": "毛主席嫡孙一家参加九三阅兵",
+        "onboard_time": 1757164103,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5802,
+        "num": 702873,
+        "word": "致敬每一位默默坚守的身影",
+        "onboard_time": 1757085263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 694328,
+        "num": 694328,
+        "word": "刘宇宁直播辟谣与经纪人恋情",
+        "onboard_time": 1757168244,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580462,
+        "num": 580462,
+        "word": "月全食",
+        "onboard_time": 1757155101,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460711,
+        "num": 460711,
+        "word": "骑手称配送死鳄鱼结果半路活了",
+        "onboard_time": 1757171004,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442057,
+        "num": 442057,
+        "word": "生病急需钱家人发现32万做了生意",
+        "onboard_time": 1757169023,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423544,
+        "num": 423544,
+        "word": "樊振东收获德甲首胜",
+        "onboard_time": 1757168185,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299734,
+        "num": 414422,
+        "word": "辛芷蕾 威尼斯电影节",
+        "onboard_time": 1757162602,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83554,
+        "num": 405801,
+        "word": "易会满被查证监会发声",
+        "onboard_time": 1757172084,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1609486,
+        "num": 386181,
+        "word": "女子在泰被沉尸胸部假体印中文",
+        "onboard_time": 1757170584,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 812770,
+        "num": 374658,
+        "word": "关晓彤ins更新",
+        "onboard_time": 1757167644,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662885,
+        "num": 363824,
+        "word": "王俊凯怎么瘦成这样了",
+        "onboard_time": 1757160022,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354824,
+        "num": 354824,
+        "word": "宝妈花2万住月子中心遭虫爬身",
+        "onboard_time": 1757168065,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317247,
+        "num": 317247,
+        "word": "魏大勋抱赵今麦投篮",
+        "onboard_time": 1757168543,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285389,
+        "num": 285389,
+        "word": "劝老外取消订单劝不住",
+        "onboard_time": 1757164283,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230395,
+        "num": 230395,
+        "word": "洪秀柱现身国家大剧院看京剧",
+        "onboard_time": 1757169144,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189621,
+        "num": 189621,
+        "word": "亚裔女子在泰被沉尸",
+        "onboard_time": 1757170824,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172619,
+        "num": 172619,
+        "word": "刘宇宁回应被造谣是女的",
+        "onboard_time": 1757167223,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45822,
+        "num": 168523,
+        "word": "周也欧莱雅纪录片首映礼",
+        "onboard_time": 1757169683,
+        "rank": 19,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 165421,
+        "num": 165421,
+        "word": "艺人皮肤白的原因",
+        "onboard_time": 1757159302,
+        "rank": 20,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 163125,
+        "num": 163125,
+        "word": "杜淳妻子自曝亲戚被保姆虐待",
+        "onboard_time": 1757172262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157518,
+        "num": 157518,
+        "word": "白色座椅贴红色标签引发误读",
+        "onboard_time": 1757160202,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 156876,
+        "num": 156876,
+        "word": "谁懂孟子义喊李雪琴宝贝这段",
+        "onboard_time": 1757172203,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156711,
+        "num": 156711,
+        "word": "东部战区回应加澳军舰过航台湾海峡",
+        "onboard_time": 1757163021,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151972,
+        "num": 151972,
+        "word": "TFing画的穆祉丞",
+        "onboard_time": 1757171662,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150566,
+        "num": 150566,
+        "word": "曝男明星把甲方样机卖了",
+        "onboard_time": 1757150781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147622,
+        "num": 147622,
+        "word": "解说谈樊振东孤身征战德甲",
+        "onboard_time": 1757171783,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142675,
+        "num": 142675,
+        "word": "世界看到了中国阅兵",
+        "onboard_time": 1757166563,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138179,
+        "num": 138179,
+        "word": "湿气一旦排出减肥是很快的",
+        "onboard_time": 1757157501,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136399,
+        "num": 136399,
+        "word": "8万只气球去哪儿了",
+        "onboard_time": 1757171783,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134932,
+        "num": 134932,
+        "word": "易烊千玺被广播催促登机",
+        "onboard_time": 1757155881,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134914,
+        "num": 134914,
+        "word": "萧敬腾裤子裂了",
+        "onboard_time": 1757171544,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133456,
+        "num": 133456,
+        "word": "顶流官宣恋爱28年没be",
+        "onboard_time": 1757144000,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128023,
+        "num": 128023,
+        "word": "特朗普误将美国国旗当毯子",
+        "onboard_time": 1757156242,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124515,
+        "num": 124515,
+        "word": "遭老板性侵女子称113万不能弥补损失",
+        "onboard_time": 1757152103,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120105,
+        "num": 120105,
+        "word": "上海地铁9号线试点拆座椅增加空间",
+        "onboard_time": 1757172623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117488,
+        "num": 117488,
+        "word": "租客弃猫失联致5只猫坠楼死亡",
+        "onboard_time": 1757171963,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116735,
+        "num": 116735,
+        "word": "于文文薛凯琪黑的白的全说成黄的",
+        "onboard_time": 1757170824,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112920,
+        "num": 112920,
+        "word": "丝瓜汤",
+        "onboard_time": 1757139081,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108014,
+        "num": 108014,
+        "word": "阅兵当天才知道自己做的包去哪儿了",
+        "onboard_time": 1757153902,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106143,
+        "num": 106143,
+        "word": "一两元包邮的时代或不复存在",
+        "onboard_time": 1757170883,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105918,
+        "num": 105918,
+        "word": "老人猥亵女性因高龄患绝症未被拘留",
+        "onboard_time": 1757171903,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102979,
+        "num": 102979,
+        "word": "加比好牛",
+        "onboard_time": 1757171963,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33210,
+        "num": 99341,
+        "word": "网红海豹遭人拖拽健康堪忧",
+        "onboard_time": 1757172142,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98945,
+        "num": 98945,
+        "word": "藏海过中元节",
+        "onboard_time": 1757170705,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97847,
+        "num": 97847,
+        "word": "何卓佳无缘女单决赛",
+        "onboard_time": 1757172862,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97674,
+        "num": 97674,
+        "word": "鹿晗的车开回来那一刻",
+        "onboard_time": 1757158881,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88137,
+        "num": 95509,
+        "word": "陈小春杨千嬅手拉手唱野孩子",
+        "onboard_time": 1757171364,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94625,
+        "num": 94625,
+        "word": "丁禹兮 Champion",
+        "onboard_time": 1757172924,
+        "rank": 49,
+        "category": "艺人,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界正气充盈乾坤朗朗#"
+    }
+  }
+}
