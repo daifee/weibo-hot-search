@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757172979530,
+  "endTime": 1757176020111,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1756908205,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1083260,
+      "num": 460711,
+      "word": "骑手称配送死鳄鱼结果半路活了",
+      "onboard_time": 1757171004,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1082472,
@@ -2819,6 +2827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 495299,
+      "num": 495299,
+      "word": "江苏卫视你是有多等不及啊",
+      "onboard_time": 1757173103,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494883,
       "num": 323188,
       "word": "A股",
@@ -3121,14 +3137,6 @@
       "onboard_time": 1756995445,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 460711,
-      "num": 460711,
-      "word": "骑手称配送死鳄鱼结果半路活了",
-      "onboard_time": 1757171004,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 459505,
@@ -3539,6 +3547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 415623,
+      "num": 415623,
+      "word": "辛芷蕾 威尼斯电影节",
+      "onboard_time": 1757162602,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 412775,
       "num": 245092,
       "word": "男子去世给绝症前女友留全部存款",
@@ -3553,14 +3569,6 @@
       "onboard_time": 1756964362,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 410357,
-      "num": 414422,
-      "word": "辛芷蕾 威尼斯电影节",
-      "onboard_time": 1757162602,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 408875,
@@ -4713,6 +4721,14 @@
       "onboard_time": 1756954762,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303724,
+      "num": 303724,
+      "word": "上海地铁9号线试点拆座椅增加空间",
+      "onboard_time": 1757172623,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303112,
@@ -6243,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214443,
+      "num": 214443,
+      "word": "亚裔女子在泰被沉尸",
+      "onboard_time": 1757170824,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214049,
       "num": 214049,
       "word": "火锅店广告 胸大打折",
@@ -7147,14 +7171,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 189621,
-      "num": 189621,
-      "word": "亚裔女子在泰被沉尸",
-      "onboard_time": 1757170824,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 189263,
       "num": 189263,
       "word": "交换生落入学姐的温柔陷阱",
@@ -7953,6 +7969,14 @@
       "onboard_time": 1756884444,
       "rank": 48,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 170691,
+      "num": 170691,
+      "word": "老人猥亵女性因高龄患绝症未被拘留",
+      "onboard_time": 1757171903,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170546,
@@ -9057,6 +9081,14 @@
       "onboard_time": 1757078301,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152310,
+      "num": 152310,
+      "word": "丁禹兮 Champion",
+      "onboard_time": 1757172924,
+      "rank": 49,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 152280,
@@ -10635,6 +10667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130175,
+      "num": 154455,
+      "word": "赵涛评委",
+      "onboard_time": 1757174363,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130075,
       "num": 130075,
       "word": "王楚然新歌炸出一堆老熟人",
@@ -11115,6 +11155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124700,
+      "num": 124700,
+      "word": "租客弃猫失联致5只猫坠楼死亡",
+      "onboard_time": 1757171963,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124682,
       "num": 129514,
       "word": "网友给VOGUE群封配文",
@@ -11499,14 +11547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120105,
-      "num": 120105,
-      "word": "上海地铁9号线试点拆座椅增加空间",
-      "onboard_time": 1757172623,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120058,
       "num": 196660,
       "word": "诊所回应男子网购5元材料自行补牙",
@@ -11731,14 +11771,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 117488,
-      "num": 117488,
-      "word": "租客弃猫失联致5只猫坠楼死亡",
-      "onboard_time": 1757171963,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117421,
       "num": 117421,
       "word": "最佳运动时间不是上午也不是下午",
@@ -11865,6 +11897,14 @@
       "onboard_time": 1756814481,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115963,
+      "num": 115963,
+      "word": "官方通报高校75万采购事件全过程",
+      "onboard_time": 1757174723,
+      "rank": 26,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 115786,
@@ -12339,6 +12379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111580,
+      "num": 111580,
+      "word": "刘宇宁说造谣恶心至极",
+      "onboard_time": 1757175322,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111541,
       "num": 111541,
       "word": "海贼王",
@@ -12563,6 +12611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 109192,
+      "num": 109192,
+      "word": "樊振东第一时间和队长复盘",
+      "onboard_time": 1757174723,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108879,
       "num": 175113,
       "word": "731首日排片占比超99.7%",
@@ -12649,14 +12705,6 @@
       "onboard_time": 1756913063,
       "rank": 49,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 107925,
-      "num": 107925,
-      "word": "老人猥亵女性因高龄患绝症未被拘留",
-      "onboard_time": 1757171903,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107681,
@@ -13073,6 +13121,14 @@
       "onboard_time": 1757051602,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103811,
+      "num": 113503,
+      "word": "张杰 一般一般世界第三",
+      "onboard_time": 1757174543,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 103768,
@@ -13961,14 +14017,6 @@
       "onboard_time": 1756989864,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94625,
-      "num": 94625,
-      "word": "丁禹兮 Champion",
-      "onboard_time": 1757172924,
-      "rank": 49,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 94588,
@@ -15441,6 +15489,14 @@
       "onboard_time": 1757152942,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76876,
+      "num": 76876,
+      "word": "韩国偶遇任嘉伦",
+      "onboard_time": 1757175203,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 76779,
