@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757194582609,
+  "endTime": 1757197296646,
   "band_list": [
     {
       "raw_hot": 1275516,
@@ -371,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72921,
+      "num": 72921,
+      "word": "樊振东收获德甲两连胜",
+      "onboard_time": 1757183955,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69892,
       "num": 69892,
       "word": "丝瓜汤",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 63788,
-      "num": 46656,
+      "num": 50551,
       "word": "辛芷蕾不好意思去搓澡",
       "onboard_time": 1757187616,
       "rank": 6,
@@ -411,15 +419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58335,
-      "num": 58335,
-      "word": "樊振东收获德甲两连胜",
-      "onboard_time": 1757183955,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 50768,
+      "raw_hot": 50803,
       "num": 49698,
       "word": "冯绍峰威尼斯眼镜造型",
       "onboard_time": 1757180238,
@@ -531,20 +531,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20104,
+      "num": 24408,
+      "word": "想减肥就去干团播",
+      "onboard_time": 1757190374,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19295,
       "num": 37852,
       "word": "重庆三峡学院中标公司被罚9000元",
       "onboard_time": 1757184015,
       "rank": 31,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 16410,
-      "num": 19591,
-      "word": "想减肥就去干团播",
-      "onboard_time": 1757190374,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 13614,
