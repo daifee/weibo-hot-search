@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757176888182,
+  "endTime": 1757179164028,
   "band_list": [
     {
       "raw_hot": 1217927,
@@ -99,20 +99,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267024,
+      "num": 267024,
+      "word": "赵涛评委",
+      "onboard_time": 1757174363,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264492,
       "num": 264492,
       "word": "生病急需钱家人发现32万做了生意",
       "onboard_time": 1757169023,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223373,
-      "num": 223373,
-      "word": "赵涛评委",
-      "onboard_time": 1757174363,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 214443,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163533,
+      "num": 163533,
+      "word": "官方通报高校75万采购事件全过程",
+      "onboard_time": 1757174723,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 158047,
       "num": 158047,
       "word": "宝妈花2万住月子中心遭虫爬身",
@@ -161,6 +169,14 @@
       "onboard_time": 1757172924,
       "rank": 20,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 150295,
+      "num": 150295,
+      "word": "张杰 一般一般世界第三",
+      "onboard_time": 1757174543,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 141682,
@@ -217,22 +233,6 @@
       "onboard_time": 1757174723,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115963,
-      "num": 115963,
-      "word": "官方通报高校75万采购事件全过程",
-      "onboard_time": 1757174723,
-      "rank": 26,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 114415,
-      "num": 114415,
-      "word": "张杰 一般一般世界第三",
-      "onboard_time": 1757174543,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 113099,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 73620,
-      "num": 73620,
+      "num": 74623,
       "word": "白色座椅贴红色标签引发误读",
       "onboard_time": 1757160202,
       "rank": 46,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 73035,
-      "num": 73035,
+      "num": 74636,
       "word": "鹿晗的车开回来那一刻",
       "onboard_time": 1757158881,
       "rank": 44,
@@ -395,12 +395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49892,
+      "num": 74634,
+      "word": "中元节血月",
+      "onboard_time": 1757134402,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49190,
-      "num": 67899,
+      "num": 74608,
       "word": "一路繁花2",
       "onboard_time": 1757156000,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48517,
+      "num": 74625,
+      "word": "黄子弘凡行走的鱼破碎美学",
+      "onboard_time": 1757178379,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 45613,
@@ -409,6 +425,14 @@
       "onboard_time": 1757174004,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41112,
+      "num": 74608,
+      "word": "秋天的朋友圈文案",
+      "onboard_time": 1757177180,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 2757,

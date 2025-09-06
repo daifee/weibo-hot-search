@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757176888182,
+  "endTime": 1757179164028,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -5275,6 +5275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267024,
+      "num": 267024,
+      "word": "赵涛评委",
+      "onboard_time": 1757174363,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 266912,
       "num": 266912,
       "word": "普京离开人民大会堂",
@@ -6081,14 +6089,6 @@
       "onboard_time": 1757088262,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223373,
-      "num": 223373,
-      "word": "赵涛评委",
-      "onboard_time": 1757174363,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 223358,
@@ -8395,6 +8395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163533,
+      "num": 163533,
+      "word": "官方通报高校75万采购事件全过程",
+      "onboard_time": 1757174723,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 163455,
       "num": 163455,
       "word": "F1",
@@ -9233,6 +9241,14 @@
       "onboard_time": 1756855100,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 150295,
+      "num": 150295,
+      "word": "张杰 一般一般世界第三",
+      "onboard_time": 1757174543,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 150246,
@@ -11915,14 +11931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115963,
-      "num": 115963,
-      "word": "官方通报高校75万采购事件全过程",
-      "onboard_time": 1757174723,
-      "rank": 26,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 115786,
       "num": 158200,
       "word": "王楚钦2比3徐瑛彬",
@@ -12113,14 +12121,6 @@
       "onboard_time": 1756653982,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114415,
-      "num": 114415,
-      "word": "张杰 一般一般世界第三",
-      "onboard_time": 1757174543,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 114389,
@@ -17003,6 +17003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48517,
+      "num": 74625,
+      "word": "黄子弘凡行走的鱼破碎美学",
+      "onboard_time": 1757178379,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 48427,
       "num": 61891,
       "word": "5岁半小狗捡瓶子日入50元",
@@ -17233,6 +17241,14 @@
       "onboard_time": 1756636760,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41112,
+      "num": 74608,
+      "word": "秋天的朋友圈文案",
+      "onboard_time": 1757177180,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 41085,
