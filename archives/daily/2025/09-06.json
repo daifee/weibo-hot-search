@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757158608950,
+  "endTime": 1757162579590,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -43,6 +43,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1295913,
+      "num": 1295913,
+      "word": "月全食",
+      "onboard_time": 1757155101,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1295842,
+      "num": 259807,
+      "word": "王俊凯怎么瘦成这样了",
+      "onboard_time": 1757160022,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1251483,
       "num": 430274,
       "word": "江祖平自曝遭绿媒副总儿子下药性侵",
@@ -67,11 +83,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1237778,
-      "num": 1237778,
-      "word": "月全食",
-      "onboard_time": 1757155101,
-      "rank": 36,
+      "raw_hot": 1217554,
+      "num": 1217554,
+      "word": "中元节禁忌是对传统节日的曲解",
+      "onboard_time": 1757159242,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -171,6 +187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 765155,
+      "num": 312283,
+      "word": "王鹤棣你的委屈我后知后觉",
+      "onboard_time": 1757156182,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 761487,
+      "num": 761487,
+      "word": "特朗普误将美国国旗当毯子",
+      "onboard_time": 1757156242,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 741647,
       "num": 741647,
       "word": "淘宝闪购",
@@ -195,27 +227,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 680058,
-      "num": 680058,
-      "word": "特朗普误将美国国旗当毯子",
-      "onboard_time": 1757156242,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 678528,
       "num": 448563,
       "word": "方家翊瘦了70斤撞脸米卡",
       "onboard_time": 1757128039,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 674364,
-      "num": 312283,
-      "word": "王鹤棣你的委屈我后知后觉",
-      "onboard_time": 1757156182,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -459,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418272,
+      "num": 418272,
+      "word": "中级财管",
+      "onboard_time": 1757160443,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 396573,
       "num": 333924,
       "word": "陈数的丑衣服都没白带",
@@ -691,6 +715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 296989,
+      "num": 296989,
+      "word": "白色座椅贴红色标签引发误读",
+      "onboard_time": 1757160202,
+      "rank": 5,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 294699,
       "num": 294699,
       "word": "小酒窝叫佟丽娅丫丫妈妈",
@@ -737,6 +769,14 @@
       "onboard_time": 1757127982,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 285700,
+      "num": 249656,
+      "word": "陈飞宇素颜帅成啥样了",
+      "onboard_time": 1757158344,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 284848,
@@ -809,6 +849,14 @@
       "onboard_time": 1757126360,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 247782,
+      "num": 247782,
+      "word": "鹿晗的车开回来那一刻",
+      "onboard_time": 1757158881,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 246201,
@@ -907,6 +955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 227454,
+      "num": 263581,
+      "word": "宋轶直播变宋E了",
+      "onboard_time": 1757161463,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227263,
       "num": 277438,
       "word": "校方回应19岁男生被室友用锐器捅死",
@@ -953,6 +1009,14 @@
       "onboard_time": 1757152401,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217531,
+      "num": 217531,
+      "word": "泰国水库现行李箱藏30斤哑铃沉尸",
+      "onboard_time": 1757160022,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 212262,
@@ -1035,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196321,
+      "num": 196321,
+      "word": "方媛挺孕肚踩高跟鞋逛街",
+      "onboard_time": 1757161222,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193245,
       "num": 193245,
       "word": "中国小孩语出惊人火爆外网",
@@ -1051,12 +1123,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188617,
+      "num": 188617,
+      "word": "刘宇宁直播",
+      "onboard_time": 1757161042,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184696,
       "num": 184696,
       "word": "LPL",
       "onboard_time": 1757142261,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183605,
+      "num": 170795,
+      "word": "王楚钦可爱童年照",
+      "onboard_time": 1757161703,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 182300,
@@ -1132,7 +1220,7 @@
     },
     {
       "raw_hot": 173527,
-      "num": 803648,
+      "num": 861951,
       "word": "战旗方队第1排的铁锤子有多牛",
       "onboard_time": 1757123841,
       "rank": 28,
@@ -1145,6 +1233,22 @@
       "onboard_time": 1757155161,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170423,
+      "num": 170423,
+      "word": "中级财务管理",
+      "onboard_time": 1757161883,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 170280,
+      "num": 170280,
+      "word": "U23亚洲杯",
+      "onboard_time": 1757161642,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 169565,
@@ -1179,6 +1283,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 167670,
+      "num": 167670,
+      "word": "湿气一旦排出减肥是很快的",
+      "onboard_time": 1757157501,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 167571,
       "num": 167571,
       "word": "迪丽热巴白裙现身",
@@ -1193,6 +1305,14 @@
       "onboard_time": 1757138541,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 165857,
+      "num": 165857,
+      "word": "艺人皮肤白的原因",
+      "onboard_time": 1757159302,
+      "rank": 34,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 164523,
@@ -1219,6 +1339,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159984,
+      "num": 173394,
+      "word": "刘宇宁发了扫腿舞",
+      "onboard_time": 1757162183,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159767,
+      "num": 159767,
+      "word": "同名同姓同高中同桌同专业同寝室",
+      "onboard_time": 1757158942,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159668,
       "num": 159668,
       "word": "孙燕姿老公获奖发文感谢老婆孩子",
@@ -1241,6 +1377,14 @@
       "onboard_time": 1757131703,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157303,
+      "num": 160563,
+      "word": "u22国足vs北马里亚纳群岛u22",
+      "onboard_time": 1757161042,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 156301,
@@ -1347,6 +1491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146812,
+      "num": 146812,
+      "word": "日本前首相出席阅兵被批评",
+      "onboard_time": 1757157802,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146806,
       "num": 182754,
       "word": "宋佳现场收房本收到手软",
@@ -1377,14 +1529,6 @@
       "onboard_time": 1757139801,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145464,
-      "num": 145464,
-      "word": "陈飞宇素颜帅成啥样了",
-      "onboard_time": 1757158344,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 145449,
@@ -1441,6 +1585,14 @@
       "onboard_time": 1757146700,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142330,
+      "num": 142330,
+      "word": "台湾一殡仪馆错烧遗体",
+      "onboard_time": 1757160323,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141973,
@@ -1531,14 +1683,6 @@
       "category": "议题讨论,电影"
     },
     {
-      "raw_hot": 137235,
-      "num": 137235,
-      "word": "湿气一旦排出减肥是很快的",
-      "onboard_time": 1757157501,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136937,
       "num": 136937,
       "word": "iPhone17Pro灵动岛或缩短25%",
@@ -1577,6 +1721,14 @@
       "onboard_time": 1757129420,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134936,
+      "num": 134936,
+      "word": "乘客误开应急舱门被判赔7万多",
+      "onboard_time": 1757162003,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134638,
@@ -1777,6 +1929,14 @@
       "onboard_time": 1757084361,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123931,
+      "num": 123931,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1757159602,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 123902,
@@ -1987,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113811,
+      "num": 113811,
+      "word": "TizzyT直播",
+      "onboard_time": 1757162303,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113624,
       "num": 113624,
       "word": "VOGUE销量隐藏",
@@ -2051,14 +2219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108610,
-      "num": 135960,
-      "word": "日本前首相出席阅兵被批评",
-      "onboard_time": 1757157802,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 108543,
       "num": 108543,
       "word": "一个人最好有三种爱好",
@@ -2089,6 +2249,14 @@
       "onboard_time": 1757147061,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105957,
+      "num": 105957,
+      "word": "少吃多餐不适合中国人",
+      "onboard_time": 1757162483,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104447,
@@ -2587,6 +2755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72856,
+      "num": 262788,
+      "word": "中国驻日大使馆介绍东风5C导弹",
+      "onboard_time": 1757161943,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71134,
       "num": 71134,
       "word": "王俊凯去了轻于鸿毛首映礼",
@@ -2873,6 +3049,14 @@
       "onboard_time": 1757135661,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35406,
+      "num": 145278,
+      "word": "热依扎气场",
+      "onboard_time": 1757161581,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 31077,

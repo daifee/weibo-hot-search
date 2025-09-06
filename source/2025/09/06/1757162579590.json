@@ -1,0 +1,410 @@
+{
+  "runTime": 1757162579590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1295913,
+        "num": 1295913,
+        "word": "月全食",
+        "onboard_time": 1757155101,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1217554,
+        "num": 1217554,
+        "word": "中元节禁忌是对传统节日的曲解",
+        "onboard_time": 1757159242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11483,
+        "num": 861951,
+        "word": "战旗方队第1排的铁锤子有多牛",
+        "onboard_time": 1757123841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 761487,
+        "num": 761487,
+        "word": "特朗普误将美国国旗当毯子",
+        "onboard_time": 1757156242,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 418272,
+        "num": 418272,
+        "word": "中级财管",
+        "onboard_time": 1757160443,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 296989,
+        "num": 296989,
+        "word": "白色座椅贴红色标签引发误读",
+        "onboard_time": 1757160202,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 282605,
+        "num": 282605,
+        "word": "中元节",
+        "onboard_time": 1757116518,
+        "rank": 6,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 264863,
+        "num": 264863,
+        "word": "成毅赴山海首日30w云包场",
+        "onboard_time": 1757155760,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227454,
+        "num": 263581,
+        "word": "宋轶直播变宋E了",
+        "onboard_time": 1757161463,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72856,
+        "num": 262788,
+        "word": "中国驻日大使馆介绍东风5C导弹",
+        "onboard_time": 1757161943,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1295842,
+        "num": 259807,
+        "word": "王俊凯怎么瘦成这样了",
+        "onboard_time": 1757160022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765155,
+        "num": 257444,
+        "word": "王鹤棣你的委屈我后知后觉",
+        "onboard_time": 1757156182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504677,
+        "num": 255601,
+        "word": "曝男明星把甲方样机卖了",
+        "onboard_time": 1757150781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437335,
+        "num": 254859,
+        "word": "易烊千玺被广播催促登机",
+        "onboard_time": 1757155881,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336379,
+        "num": 252963,
+        "word": "遭老板性侵女子称113万不能弥补损失",
+        "onboard_time": 1757152103,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298508,
+        "num": 251086,
+        "word": "顶流官宣恋爱28年没be",
+        "onboard_time": 1757144000,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285700,
+        "num": 249656,
+        "word": "陈飞宇素颜帅成啥样了",
+        "onboard_time": 1757158344,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247782,
+        "num": 247782,
+        "word": "鹿晗的车开回来那一刻",
+        "onboard_time": 1757158881,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231431,
+        "num": 231431,
+        "word": "中元节血月",
+        "onboard_time": 1757134402,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217531,
+        "num": 217531,
+        "word": "泰国水库现行李箱藏30斤哑铃沉尸",
+        "onboard_time": 1757160022,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 361576,
+        "num": 216229,
+        "word": "丝瓜汤",
+        "onboard_time": 1757139081,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 260319,
+        "num": 214611,
+        "word": "陈数的丑衣服都没白带",
+        "onboard_time": 1757154621,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200430,
+        "num": 200430,
+        "word": "巴西亿万富豪将全部遗产赠予内马尔",
+        "onboard_time": 1757148022,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196321,
+        "num": 196321,
+        "word": "方媛挺孕肚踩高跟鞋逛街",
+        "onboard_time": 1757161222,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192991,
+        "num": 192991,
+        "word": "一路繁花2",
+        "onboard_time": 1757156000,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188617,
+        "num": 188617,
+        "word": "刘宇宁直播",
+        "onboard_time": 1757161042,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180396,
+        "num": 180396,
+        "word": "花少第四期封神",
+        "onboard_time": 1757147661,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178976,
+        "num": 178976,
+        "word": "张维伊婚礼给去世父母留了座位",
+        "onboard_time": 1757134881,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159984,
+        "num": 173394,
+        "word": "刘宇宁发了扫腿舞",
+        "onboard_time": 1757162183,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141762,
+        "num": 170884,
+        "word": "赴山海爆炸式宣发",
+        "onboard_time": 1757156541,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183605,
+        "num": 170795,
+        "word": "王楚钦可爱童年照",
+        "onboard_time": 1757161703,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170423,
+        "num": 170423,
+        "word": "中级财务管理",
+        "onboard_time": 1757161883,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170280,
+        "num": 170280,
+        "word": "U23亚洲杯",
+        "onboard_time": 1757161642,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167670,
+        "num": 167670,
+        "word": "湿气一旦排出减肥是很快的",
+        "onboard_time": 1757157501,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165857,
+        "num": 165857,
+        "word": "艺人皮肤白的原因",
+        "onboard_time": 1757159302,
+        "rank": 34,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 157303,
+        "num": 160563,
+        "word": "u22国足vs北马里亚纳群岛u22",
+        "onboard_time": 1757161042,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159767,
+        "num": 159767,
+        "word": "同名同姓同高中同桌同专业同寝室",
+        "onboard_time": 1757158942,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147265,
+        "num": 147265,
+        "word": "九三阅兵纪念短片",
+        "onboard_time": 1757154561,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146812,
+        "num": 146812,
+        "word": "日本前首相出席阅兵被批评",
+        "onboard_time": 1757157802,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35406,
+        "num": 145278,
+        "word": "热依扎气场",
+        "onboard_time": 1757161581,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144546,
+        "num": 144546,
+        "word": "阅兵当天才知道自己做的包去哪儿了",
+        "onboard_time": 1757153902,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142330,
+        "num": 142330,
+        "word": "台湾一殡仪馆错烧遗体",
+        "onboard_time": 1757160323,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134936,
+        "num": 134936,
+        "word": "乘客误开应急舱门被判赔7万多",
+        "onboard_time": 1757162003,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134093,
+        "num": 134093,
+        "word": "鹿晗把送粉丝的拍立得弄丢了",
+        "onboard_time": 1757158161,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123931,
+        "num": 123931,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1757159602,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120893,
+        "num": 120893,
+        "word": "幼儿误吞电池10小时致终身残疾",
+        "onboard_time": 1757138902,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116457,
+        "num": 116457,
+        "word": "王楚钦蛐蛐林诗栋发型",
+        "onboard_time": 1757157742,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113811,
+        "num": 113811,
+        "word": "TizzyT直播",
+        "onboard_time": 1757162303,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111047,
+        "num": 111047,
+        "word": "苏超",
+        "onboard_time": 1757154800,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105957,
+        "num": 105957,
+        "word": "少吃多餐不适合中国人",
+        "onboard_time": 1757162483,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记胜利日讲话金句的启示#"
+    }
+  }
+}
