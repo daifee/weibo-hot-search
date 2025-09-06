@@ -1,0 +1,410 @@
+{
+  "runTime": 1757136153722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1120670,
+        "num": 1179307,
+        "word": "中元节",
+        "onboard_time": 1757116518,
+        "rank": 0,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 786737,
+        "num": 786737,
+        "word": "易会满涉嫌严重违纪违法",
+        "onboard_time": 1757128521,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11423,
+        "num": 784729,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 783217,
+        "num": 783217,
+        "word": "张维伊婚礼给去世父母留了座位",
+        "onboard_time": 1757134881,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741647,
+        "num": 741647,
+        "word": "淘宝闪购",
+        "onboard_time": 1757130501,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 640721,
+        "num": 640721,
+        "word": "我国规划撞击一颗小行星",
+        "onboard_time": 1757118079,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634296,
+        "num": 634296,
+        "word": "这竟然是秦昊",
+        "onboard_time": 1757128881,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518984,
+        "num": 518984,
+        "word": "中方同意加入纽约宣言",
+        "onboard_time": 1757120300,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 511801,
+        "num": 511801,
+        "word": "泰版三十而已林有有",
+        "onboard_time": 1757129722,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86296,
+        "num": 487322,
+        "word": "易会满任期平均1天发行1只新股",
+        "onboard_time": 1757135122,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 938309,
+        "num": 487053,
+        "word": "塞尔维亚局势",
+        "onboard_time": 1757132362,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 484876,
+        "num": 484876,
+        "word": "关晓彤听分手歌100多遍鹿晗知道吗",
+        "onboard_time": 1757080644,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456739,
+        "num": 456739,
+        "word": "歼20模型销量暴涨175%",
+        "onboard_time": 1757125041,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450576,
+        "num": 450576,
+        "word": "听泉鉴宝客串了雀骨",
+        "onboard_time": 1757133741,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399532,
+        "num": 399532,
+        "word": "小酒窝有官配cp了",
+        "onboard_time": 1757123119,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383463,
+        "num": 383463,
+        "word": "董璇说不会把钱都给张维伊",
+        "onboard_time": 1757134522,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369481,
+        "num": 369481,
+        "word": "虞书欣何与双轨12月预排",
+        "onboard_time": 1757129182,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338836,
+        "num": 338836,
+        "word": "中元节血月",
+        "onboard_time": 1757134402,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30357,
+        "num": 326154,
+        "word": "邢菲因嘴馋当上零食买手",
+        "onboard_time": 1757133261,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37073,
+        "num": 323248,
+        "word": "为什么年轻人爱上给古人扫墓",
+        "onboard_time": 1757134881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320608,
+        "num": 320608,
+        "word": "刘亦菲好美",
+        "onboard_time": 1757129722,
+        "rank": 20,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 303814,
+        "num": 303814,
+        "word": "Metal杂志",
+        "onboard_time": 1757130622,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 255511,
+        "num": 255511,
+        "word": "锤娜丽莎半年瘦20斤",
+        "onboard_time": 1757135421,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241990,
+        "num": 241990,
+        "word": "爱奇艺9月至12月排播",
+        "onboard_time": 1757135601,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227074,
+        "num": 227074,
+        "word": "代号鸢",
+        "onboard_time": 1757134102,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222371,
+        "num": 222371,
+        "word": "李飞说的一年后到来了",
+        "onboard_time": 1757131042,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216879,
+        "num": 216879,
+        "word": "方家翊瘦了70斤撞脸米卡",
+        "onboard_time": 1757128039,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206049,
+        "num": 206049,
+        "word": "张学良长孙回应观礼九三阅兵",
+        "onboard_time": 1757129001,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193288,
+        "num": 193288,
+        "word": "法国将军谈九三阅兵",
+        "onboard_time": 1757130860,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40127,
+        "num": 178963,
+        "word": "被留遗产重病女孩将照顾前男友父母",
+        "onboard_time": 1757134942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174623,
+        "num": 174623,
+        "word": "张柏芝柯淳出发录制一路繁花2",
+        "onboard_time": 1757133741,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168302,
+        "num": 168302,
+        "word": "向杂交水稻科研工作者致敬",
+        "onboard_time": 1757134102,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167579,
+        "num": 167579,
+        "word": "耿爽说美国不受欢迎",
+        "onboard_time": 1757125220,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160207,
+        "num": 160207,
+        "word": "刘亦菲完全不挑食但最爱吃肉",
+        "onboard_time": 1757135541,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154309,
+        "num": 154309,
+        "word": "迪丽热巴在剧组会亲自下厨",
+        "onboard_time": 1757133622,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140712,
+        "num": 140712,
+        "word": "一觉醒来郭帆白改了",
+        "onboard_time": 1757122580,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137484,
+        "num": 137484,
+        "word": "中元节冷知识",
+        "onboard_time": 1757131461,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136748,
+        "num": 136748,
+        "word": "孟子义尚公主不基础妆造更不基础",
+        "onboard_time": 1757133261,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36143,
+        "num": 132430,
+        "word": "丞磊8月微博演员涨粉TOP1",
+        "onboard_time": 1757135661,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132061,
+        "num": 132061,
+        "word": "林孝埈刘少昂碰撞摔倒",
+        "onboard_time": 1757129001,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131290,
+        "num": 131290,
+        "word": "36岁靠200万利息提前退休",
+        "onboard_time": 1757133442,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127042,
+        "num": 127042,
+        "word": "中级会计",
+        "onboard_time": 1757123000,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123433,
+        "num": 123433,
+        "word": "双休8千单休1万选哪个",
+        "onboard_time": 1757128521,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115914,
+        "num": 122249,
+        "word": "听泉鉴宝和侯明昊演对手戏",
+        "onboard_time": 1757134762,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122248,
+        "num": 122248,
+        "word": "以闪亮之名",
+        "onboard_time": 1757134221,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121466,
+        "num": 121466,
+        "word": "被王楚钦梁靖崑的互动笑死",
+        "onboard_time": 1757135481,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121349,
+        "num": 121349,
+        "word": "田一名官宣恋情",
+        "onboard_time": 1757136141,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119154,
+        "num": 119154,
+        "word": "孟子义李昀锐造型",
+        "onboard_time": 1757133741,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113054,
+        "num": 113054,
+        "word": "证监系统多名官员被查",
+        "onboard_time": 1757132480,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112724,
+        "num": 112724,
+        "word": "辛芷蕾威尼斯影后赔率第一",
+        "onboard_time": 1757130922,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#党旗所指正是军旗所向#"
+    }
+  }
+}
