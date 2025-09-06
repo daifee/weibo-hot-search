@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757128154833,
+  "endTime": 1757129568125,
   "band_list": [
     {
       "raw_hot": 1910228,
@@ -9,6 +9,14 @@
       "onboard_time": 1757120300,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1510380,
+      "num": 1510380,
+      "word": "易会满涉嫌严重违纪违法",
+      "onboard_time": 1757128521,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1465008,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1394387,
-      "num": 360820,
+      "num": 401290,
       "word": "关晓彤听分手歌100多遍鹿晗知道吗",
       "onboard_time": 1757080644,
       "rank": 13,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1251483,
-      "num": 373569,
+      "num": 430274,
       "word": "江祖平自曝遭绿媒副总儿子下药性侵",
       "onboard_time": 1757117539,
       "rank": 10,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1008315,
-      "num": 362556,
+      "num": 424470,
       "word": "小酒窝有官配cp了",
       "onboard_time": 1757123119,
       "rank": 36,
@@ -89,6 +97,14 @@
       "onboard_time": 1757078241,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 544010,
+      "num": 415219,
+      "word": "方家翊瘦了70斤撞脸米卡",
+      "onboard_time": 1757128039,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 540815,
@@ -139,12 +155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 437128,
+      "num": 437128,
+      "word": "中级会计",
+      "onboard_time": 1757123000,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 431922,
       "num": 431922,
       "word": "美国拘捕300名韩国人",
       "onboard_time": 1757085563,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 399426,
+      "num": 399426,
+      "word": "张学良长孙回应观礼九三阅兵",
+      "onboard_time": 1757129001,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 396084,
@@ -171,12 +203,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 389273,
+      "num": 437182,
+      "word": "灼灼韶华",
+      "onboard_time": 1757128159,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376286,
       "num": 376286,
       "word": "杭州22岁女兵受阅特警爸嘴角压不住",
       "onboard_time": 1757112496,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 365542,
+      "num": 437144,
+      "word": "关晓彤竟然还有庄筱婷林栋哲售后",
+      "onboard_time": 1757125880,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 349283,
@@ -235,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312482,
-      "num": 387200,
-      "word": "关晓彤竟然还有庄筱婷林栋哲售后",
-      "onboard_time": 1757125880,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300826,
       "num": 384110,
       "word": "美韩关系紧张或加剧",
@@ -283,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 275248,
+      "num": 275248,
+      "word": "虞书欣何与双轨12月预排",
+      "onboard_time": 1757129182,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267429,
       "num": 185671,
       "word": "单身太久突然谈了个恋爱时",
@@ -307,12 +355,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 261673,
-      "num": 261673,
-      "word": "中级会计",
-      "onboard_time": 1757123000,
-      "rank": 47,
-      "category": "教育"
+      "raw_hot": 261678,
+      "num": 261678,
+      "word": "恋与深空",
+      "onboard_time": 1757128881,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 255897,
@@ -331,6 +379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248225,
+      "num": 248225,
+      "word": "25岁痛经十几年后决定停经",
+      "onboard_time": 1757126360,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 246309,
+      "num": 246309,
+      "word": "中级会计实务",
+      "onboard_time": 1757127982,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 246201,
       "num": 246201,
       "word": "山东一中学初一新生94个班",
@@ -347,6 +411,22 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 237616,
+      "num": 264595,
+      "word": "这竟然是秦昊",
+      "onboard_time": 1757128881,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 235910,
+      "num": 235910,
+      "word": "小酒窝叫佟丽娅丫丫妈妈",
+      "onboard_time": 1757127441,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233713,
       "num": 171612,
       "word": "人到中年体味变大的真相",
@@ -355,12 +435,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 226329,
-      "num": 226329,
-      "word": "25岁痛经十几年后决定停经",
-      "onboard_time": 1757126360,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 233345,
+      "num": 246483,
+      "word": "唐香玉上恋综的段子成真了",
+      "onboard_time": 1757128760,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 225454,
@@ -369,6 +449,14 @@
       "onboard_time": 1757080282,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 224919,
+      "num": 224919,
+      "word": "林孝埈刘少昂碰撞摔倒",
+      "onboard_time": 1757129001,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 223656,
@@ -387,20 +475,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 208942,
-      "num": 208942,
-      "word": "小酒窝叫佟丽娅丫丫妈妈",
-      "onboard_time": 1757127441,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198839,
       "num": 198839,
       "word": "猫和老鼠画师首次为国漫作画",
       "onboard_time": 1757127501,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 196777,
+      "num": 200979,
+      "word": "这还是我认识的那个沈梦辰吗",
+      "onboard_time": 1757128641,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 180016,
@@ -441,6 +529,14 @@
       "onboard_time": 1757075901,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147969,
+      "num": 147969,
+      "word": "日军被爆曾计划在中国东北进行屠杀",
+      "onboard_time": 1757129059,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146068,
@@ -531,6 +627,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135374,
+      "num": 135374,
+      "word": "辛纳本赛季四大满贯全进决赛",
+      "onboard_time": 1757129420,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134566,
+      "num": 134566,
+      "word": "买回来的面包别再放冷藏了",
+      "onboard_time": 1757129059,
+      "rank": 41,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 133655,
       "num": 133655,
       "word": "外国曹操看阅兵",
@@ -595,6 +707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117675,
+      "num": 117675,
+      "word": "iOS26全面提升iPhone续航",
+      "onboard_time": 1757129059,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117421,
       "num": 117421,
       "word": "最佳运动时间不是上午也不是下午",
@@ -611,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116268,
-      "num": 116268,
-      "word": "中级会计实务",
-      "onboard_time": 1757127982,
-      "rank": 37,
-      "category": "教育"
+      "raw_hot": 115900,
+      "num": 115900,
+      "word": "华为小米发布会前后夹击iPhone",
+      "onboard_time": 1757129541,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 114604,
@@ -625,6 +745,14 @@
       "onboard_time": 1757117539,
       "rank": 34,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 113870,
+      "num": 113870,
+      "word": "秋天开启五彩斑斓模式",
+      "onboard_time": 1757127501,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113624,
@@ -659,28 +787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108553,
-      "num": 108553,
-      "word": "秋天开启五彩斑斓模式",
-      "onboard_time": 1757127501,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108543,
       "num": 108543,
       "word": "一个人最好有三种爱好",
       "onboard_time": 1757127019,
       "rank": 42,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 106377,
-      "num": 106377,
-      "word": "方家翊瘦了70斤撞脸米卡",
-      "onboard_time": 1757128039,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 103460,
@@ -979,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49930,
+      "num": 262931,
+      "word": "中元节为何又称孝亲节",
+      "onboard_time": 1757127741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48577,
       "num": 69228,
       "word": "王楚钦冬去秋来又是一程",
@@ -1011,6 +1131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30598,
+      "num": 144274,
+      "word": "加拿大讨论用中国电动车换油菜籽",
+      "onboard_time": 1757129182,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25499,
       "num": 51413,
       "word": "林孝埈亮相国家队选拔赛",
@@ -1032,14 +1160,6 @@
       "word": "贵州中元节上演现实版寻梦环游记",
       "onboard_time": 1757126780,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21759,
-      "num": 262931,
-      "word": "中元节为何又称孝亲节",
-      "onboard_time": 1757127741,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
