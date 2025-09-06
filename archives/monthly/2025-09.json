@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757163416200,
+  "endTime": 1757165113476,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2407755,
+      "num": 2407755,
+      "word": "中元节禁忌是对传统节日的曲解",
+      "onboard_time": 1757159242,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2323040,
       "num": 2323040,
       "word": "阅兵收视率",
@@ -401,14 +409,6 @@
       "onboard_time": 1756872272,
       "rank": 13,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 2035576,
-      "num": 2035576,
-      "word": "中元节禁忌是对传统节日的曲解",
-      "onboard_time": 1757159242,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2031888,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 1469281,
-      "num": 259807,
+      "num": 398192,
       "word": "王俊凯怎么瘦成这样了",
       "onboard_time": 1757160022,
       "rank": 10,
@@ -688,6 +688,14 @@
       "word": "真理",
       "onboard_time": 1756865975,
       "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1428924,
+      "num": 1428924,
+      "word": "毛主席嫡孙一家参加九三阅兵",
+      "onboard_time": 1757164103,
+      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -1028,7 +1036,7 @@
     },
     {
       "raw_hot": 1056001,
-      "num": 326011,
+      "num": 384063,
       "word": "曝男明星把甲方样机卖了",
       "onboard_time": 1757150781,
       "rank": 24,
@@ -2723,6 +2731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 501516,
+      "num": 501516,
+      "word": "泰国水库现行李箱藏30斤哑铃沉尸",
+      "onboard_time": 1757160022,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 501273,
       "num": 501273,
       "word": "肯德基冰豆浆比热豆浆贵1元",
@@ -3299,12 +3315,28 @@
       "category": "艺人,国内时政"
     },
     {
+      "raw_hot": 437675,
+      "num": 437675,
+      "word": "白色座椅贴红色标签引发误读",
+      "onboard_time": 1757160202,
+      "rank": 5,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 433545,
       "num": 261935,
       "word": "你以为很卫生其实巨脏的行为",
       "onboard_time": 1757041041,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 433272,
+      "num": 433272,
+      "word": "东部战区回应加澳军舰过航台湾海峡",
+      "onboard_time": 1757163021,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 431922,
@@ -3388,7 +3420,7 @@
     },
     {
       "raw_hot": 420822,
-      "num": 300321,
+      "num": 398635,
       "word": "成毅赴山海首日30w云包场",
       "onboard_time": 1757155760,
       "rank": 14,
@@ -3401,6 +3433,14 @@
       "onboard_time": 1756790121,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 419950,
+      "num": 419950,
+      "word": "中级财管",
+      "onboard_time": 1757160443,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 418722,
@@ -3417,14 +3457,6 @@
       "onboard_time": 1756788561,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 418272,
-      "num": 418272,
-      "word": "中级财管",
-      "onboard_time": 1757160443,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 412775,
@@ -3449,6 +3481,14 @@
       "onboard_time": 1756888524,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 406443,
+      "num": 406443,
+      "word": "辛芷蕾 威尼斯电影节",
+      "onboard_time": 1757162602,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 403724,
@@ -4099,6 +4139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343046,
+      "num": 343046,
+      "word": "鹿晗的车开回来那一刻",
+      "onboard_time": 1757158881,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 342753,
       "num": 342753,
       "word": "王曼昱晒阅兵九宫格",
@@ -4483,14 +4531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 312213,
-      "num": 312213,
-      "word": "白色座椅贴红色标签引发误读",
-      "onboard_time": 1757160202,
-      "rank": 5,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 312131,
       "num": 618815,
       "word": "众星发文悼念阿玛尼先生",
@@ -4755,14 +4795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 291087,
-      "num": 247782,
-      "word": "鹿晗的车开回来那一刻",
-      "onboard_time": 1757158881,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 290595,
       "num": 251939,
       "word": "孟子义尚公主首套造型路透",
@@ -4825,6 +4857,14 @@
       "onboard_time": 1757158344,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284922,
+      "num": 284922,
+      "word": "劝老外取消订单劝不住",
+      "onboard_time": 1757164283,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284848,
@@ -4937,14 +4977,6 @@
       "onboard_time": 1756959625,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 278361,
-      "num": 278361,
-      "word": "泰国水库现行李箱藏30斤哑铃沉尸",
-      "onboard_time": 1757160022,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 278000,
@@ -6195,14 +6227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 211387,
-      "num": 211387,
-      "word": "辛芷蕾 威尼斯电影节",
-      "onboard_time": 1757162602,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210443,
       "num": 210443,
       "word": "消费贷的国补要来了",
@@ -6515,6 +6539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 199813,
+      "num": 262788,
+      "word": "中国驻日大使馆介绍东风5C导弹",
+      "onboard_time": 1757161943,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 199738,
       "num": 174470,
       "word": "iPhone17ProMax量产机疑曝光",
@@ -6561,6 +6593,14 @@
       "onboard_time": 1756657639,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 199040,
+      "num": 236441,
+      "word": "刘宇宁直播",
+      "onboard_time": 1757161042,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 198877,
@@ -6723,20 +6763,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 193820,
+      "num": 193820,
+      "word": "鞠婧祎头像山黛王",
+      "onboard_time": 1757164224,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193817,
       "num": 120405,
       "word": "TREASURE回归主打曲MV",
       "onboard_time": 1756717881,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193699,
-      "num": 262788,
-      "word": "中国驻日大使馆介绍东风5C导弹",
-      "onboard_time": 1757161943,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 193627,
@@ -7001,14 +7041,6 @@
       "onboard_time": 1756862012,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 188617,
-      "num": 188617,
-      "word": "刘宇宁直播",
-      "onboard_time": 1757161042,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 188436,
@@ -7331,6 +7363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181972,
+      "num": 181972,
+      "word": "艺人皮肤白的原因",
+      "onboard_time": 1757159302,
+      "rank": 34,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 181728,
       "num": 181728,
       "word": "张艺凡一胳膊能搂四个姐姐",
@@ -7441,6 +7481,14 @@
       "onboard_time": 1757071521,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178812,
+      "num": 315542,
+      "word": "加澳军舰过航台湾海峡并滋扰挑衅",
+      "onboard_time": 1757164163,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 178695,
@@ -7604,7 +7652,7 @@
     },
     {
       "raw_hot": 173527,
-      "num": 861951,
+      "num": 935808,
       "word": "战旗方队第1排的铁锤子有多牛",
       "onboard_time": 1757123841,
       "rank": 28,
@@ -7907,14 +7955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167716,
-      "num": 167716,
-      "word": "艺人皮肤白的原因",
-      "onboard_time": 1757159302,
-      "rank": 34,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 167689,
       "num": 405380,
       "word": "冼星海在炮声中用音乐救国",
@@ -7985,6 +8025,14 @@
       "onboard_time": 1756984642,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166292,
+      "num": 166292,
+      "word": "威尼斯电影节",
+      "onboard_time": 1757164042,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 166222,
@@ -8363,6 +8411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159424,
+      "num": 159424,
+      "word": "何炅让尚雯婕李雪琴不要一起出现",
+      "onboard_time": 1757163322,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159287,
       "num": 159287,
       "word": "特朗普感叹九三阅兵",
@@ -8544,6 +8600,14 @@
       "word": "孙颖莎蛋糕上写着加油少女",
       "onboard_time": 1756715903,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156064,
+      "num": 156064,
+      "word": "苏超南通vs扬州",
+      "onboard_time": 1757164103,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -8987,6 +9051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149452,
+      "num": 149452,
+      "word": "樊振东演我上班",
+      "onboard_time": 1757163382,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149365,
       "num": 149365,
       "word": "阅兵网友神评论",
@@ -9419,14 +9491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143458,
-      "num": 201717,
-      "word": "东部战区回应加澳军舰过航台湾海峡",
-      "onboard_time": 1757163021,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 143432,
       "num": 266812,
       "word": "九三阅兵媒体包都有啥",
@@ -9547,20 +9611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141472,
+      "num": 141472,
+      "word": "369Karsa世纪大和解",
+      "onboard_time": 1757162602,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141349,
       "num": 141349,
       "word": "中国军人360度无死角的帅",
       "onboard_time": 1756823843,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141192,
-      "num": 141192,
-      "word": "369Karsa世纪大和解",
-      "onboard_time": 1757162602,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 141173,
@@ -11187,6 +11251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119598,
+      "num": 119598,
+      "word": "苹果CEO库克八次说谢谢",
+      "onboard_time": 1757164163,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119596,
       "num": 119596,
       "word": "沈月说姜妍对尹浩宇太双标了",
@@ -11387,6 +11459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117217,
+      "num": 117217,
+      "word": "苏超",
+      "onboard_time": 1757154800,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117195,
       "num": 209270,
       "word": "韩国现在流行的部队锅煮法",
@@ -11467,28 +11547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116067,
-      "num": 116067,
-      "word": "何炅让尚雯婕李雪琴不要一起出现",
-      "onboard_time": 1757163322,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116052,
       "num": 191815,
       "word": "明天你们在哪看阅兵",
       "onboard_time": 1756814481,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115800,
-      "num": 115800,
-      "word": "苏超",
-      "onboard_time": 1757154800,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 115786,
@@ -11875,6 +11939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112204,
+      "num": 112204,
+      "word": "七彩祥云",
+      "onboard_time": 1757165065,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112200,
       "num": 145931,
       "word": "孙杨观看阅兵后发文",
@@ -12161,6 +12233,14 @@
       "onboard_time": 1757041461,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 109012,
+      "num": 109012,
+      "word": "丞磊谙南王回朝",
+      "onboard_time": 1757164942,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 108879,
@@ -12505,14 +12585,6 @@
       "onboard_time": 1756712061,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 105460,
-      "num": 111902,
-      "word": "樊振东演我上班",
-      "onboard_time": 1757163382,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 105434,
@@ -15083,6 +15155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75404,
+      "num": 120145,
+      "word": "G社真的不是舒淇的站姐吗",
+      "onboard_time": 1757164163,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 75397,
       "num": 106876,
       "word": "杨幂被小时代腌入味儿了",
@@ -16963,6 +17043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32403,
+      "num": 120852,
+      "word": "东风5C抱枕遭抢购",
+      "onboard_time": 1757165004,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32168,
       "num": 94862,
       "word": "上海禁塑令违者最高罚10万",
@@ -16985,6 +17073,14 @@
       "onboard_time": 1756988063,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32054,
+      "num": 120248,
+      "word": "不要相信你舍友的第一面",
+      "onboard_time": 1757164822,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 31658,
