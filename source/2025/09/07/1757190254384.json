@@ -1,0 +1,410 @@
+{
+  "runTime": 1757190254384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 382667,
+        "num": 382667,
+        "word": "辛芷蕾 威尼斯电影节",
+        "onboard_time": 1757162602,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88838,
+        "num": 88838,
+        "word": "毛主席嫡孙一家参加九三阅兵",
+        "onboard_time": 1757164103,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 983,
+        "num": 59311,
+        "word": "致敬每一位默默坚守的身影",
+        "onboard_time": 1757085263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166938,
+        "num": 57802,
+        "word": "赵涛评委",
+        "onboard_time": 1757174363,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46390,
+        "num": 46390,
+        "word": "中元节禁忌是对传统节日的曲解",
+        "onboard_time": 1757159242,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44974,
+        "num": 44974,
+        "word": "官方通报高校75万采购事件全过程",
+        "onboard_time": 1757174723,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 63788,
+        "num": 44807,
+        "word": "辛芷蕾不好意思去搓澡",
+        "onboard_time": 1757187616,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 42589,
+        "num": 42589,
+        "word": "梓渝toodeep唱跳",
+        "onboard_time": 1757180657,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42237,
+        "num": 42237,
+        "word": "月全食",
+        "onboard_time": 1757155101,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40757,
+        "num": 40757,
+        "word": "江苏卫视你是有多等不及啊",
+        "onboard_time": 1757173103,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154445,
+        "num": 38148,
+        "word": "女子在泰被沉尸胸部假体印中文",
+        "onboard_time": 1757170584,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56006,
+        "num": 37285,
+        "word": "骑手称配送死鳄鱼结果半路活了",
+        "onboard_time": 1757171004,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51269,
+        "num": 36343,
+        "word": "王俊凯怎么瘦成这样了",
+        "onboard_time": 1757160022,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35017,
+        "num": 35017,
+        "word": "四川2名消防员训练遇险失联",
+        "onboard_time": 1757183955,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34938,
+        "num": 34938,
+        "word": "8万只气球去哪儿了",
+        "onboard_time": 1757171783,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33924,
+        "num": 33924,
+        "word": "樊振东收获德甲两连胜",
+        "onboard_time": 1757183955,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33902,
+        "num": 33902,
+        "word": "劝老外取消订单劝不住",
+        "onboard_time": 1757164283,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32111,
+        "num": 32111,
+        "word": "关晓彤ins更新",
+        "onboard_time": 1757167644,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31902,
+        "num": 31902,
+        "word": "生病急需钱家人发现32万做了生意",
+        "onboard_time": 1757169023,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31217,
+        "num": 31217,
+        "word": "刘宇宁直播辟谣与经纪人恋情",
+        "onboard_time": 1757168244,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37353,
+        "num": 30494,
+        "word": "冯绍峰威尼斯眼镜造型",
+        "onboard_time": 1757180238,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29325,
+        "num": 29325,
+        "word": "亚裔女子在泰被沉尸",
+        "onboard_time": 1757170824,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28825,
+        "num": 28825,
+        "word": "特朗普误将美国国旗当毯子",
+        "onboard_time": 1757156242,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27315,
+        "num": 27315,
+        "word": "有些体味是疾病信号",
+        "onboard_time": 1757186654,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26938,
+        "num": 26938,
+        "word": "宝妈花2万住月子中心遭虫爬身",
+        "onboard_time": 1757168065,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23241,
+        "num": 23241,
+        "word": "老人猥亵女性因高龄患绝症未被拘留",
+        "onboard_time": 1757171903,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22614,
+        "num": 22614,
+        "word": "上海地铁9号线试点拆座椅增加空间",
+        "onboard_time": 1757172623,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21654,
+        "num": 21654,
+        "word": "租客弃猫失联致5只猫坠楼死亡",
+        "onboard_time": 1757171963,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11468,
+        "num": 20923,
+        "word": "抱抱抗日老战士",
+        "onboard_time": 1757188817,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18203,
+        "num": 20919,
+        "word": "张杰 一般一般世界第三",
+        "onboard_time": 1757174543,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20919,
+        "num": 20918,
+        "word": "白色座椅贴红色标签引发误读",
+        "onboard_time": 1757160202,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 20070,
+        "num": 20070,
+        "word": "东部战区回应加澳军舰过航台湾海峡",
+        "onboard_time": 1757163021,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19402,
+        "num": 19402,
+        "word": "东风5C打击范围覆盖全球",
+        "onboard_time": 1757173462,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19176,
+        "num": 19176,
+        "word": "樊振东收获德甲首胜",
+        "onboard_time": 1757168185,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19172,
+        "num": 19172,
+        "word": "遭老板性侵女子称113万不能弥补损失",
+        "onboard_time": 1757152103,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19007,
+        "num": 19007,
+        "word": "世界看到了中国阅兵",
+        "onboard_time": 1757166563,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18892,
+        "num": 18892,
+        "word": "韩国外卖员月入1万5",
+        "onboard_time": 1757184916,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18860,
+        "num": 18860,
+        "word": "杜淳妻子自曝亲戚被保姆虐待",
+        "onboard_time": 1757172262,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18753,
+        "num": 18753,
+        "word": "阅兵当天才知道自己做的包去哪儿了",
+        "onboard_time": 1757153902,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18347,
+        "num": 18753,
+        "word": "重庆三峡学院中标公司被罚9000元",
+        "onboard_time": 1757184015,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 16207,
+        "num": 18752,
+        "word": "樊振东第一时间和队长复盘",
+        "onboard_time": 1757174723,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15785,
+        "num": 18752,
+        "word": "艺人皮肤白的原因",
+        "onboard_time": 1757159302,
+        "rank": 41,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 15614,
+        "num": 18752,
+        "word": "魏大勋抱赵今麦投篮",
+        "onboard_time": 1757168543,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15024,
+        "num": 18751,
+        "word": "曝男明星把甲方样机卖了",
+        "onboard_time": 1757150781,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14815,
+        "num": 18751,
+        "word": "6名消防人员训练时落水2人失踪",
+        "onboard_time": 1757174004,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14763,
+        "num": 18751,
+        "word": "丁禹兮 Champion",
+        "onboard_time": 1757172924,
+        "rank": 45,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 14504,
+        "num": 18750,
+        "word": "鹿晗的车开回来那一刻",
+        "onboard_time": 1757158881,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13972,
+        "num": 18749,
+        "word": "中级财管",
+        "onboard_time": 1757160443,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13614,
+        "num": 18749,
+        "word": "周笔畅火鸟降临",
+        "onboard_time": 1757189114,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13533,
+        "num": 18749,
+        "word": "狐妖小红娘王权篇祝李一桐生辰快乐",
+        "onboard_time": 1757182936,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界正气充盈乾坤朗朗#"
+    }
+  }
+}
