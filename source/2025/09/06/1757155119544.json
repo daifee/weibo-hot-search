@@ -1,0 +1,410 @@
+{
+  "runTime": 1757155119544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1008011,
+        "num": 1161281,
+        "word": "丝瓜汤",
+        "onboard_time": 1757139081,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 630811,
+        "num": 630811,
+        "word": "中元节",
+        "onboard_time": 1757116518,
+        "rank": 1,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 41137,
+        "num": 601594,
+        "word": "战旗方队第1排的铁锤子有多牛",
+        "onboard_time": 1757123841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 584705,
+        "num": 584705,
+        "word": "单休违法吗",
+        "onboard_time": 1757148622,
+        "rank": 3,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 442977,
+        "num": 442977,
+        "word": "花少第四期封神",
+        "onboard_time": 1757147661,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384932,
+        "num": 384932,
+        "word": "巴西亿万富豪将全部遗产赠予内马尔",
+        "onboard_time": 1757148022,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 332396,
+        "num": 332396,
+        "word": "郭帆回应白改了",
+        "onboard_time": 1757151262,
+        "rank": 6,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 322979,
+        "num": 322979,
+        "word": "成都震感",
+        "onboard_time": 1757149941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246378,
+        "num": 246378,
+        "word": "张维伊婚礼给去世父母留了座位",
+        "onboard_time": 1757134881,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235339,
+        "num": 235339,
+        "word": "厦门健身房教练被两名女子当众掌掴",
+        "onboard_time": 1757147962,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1431978,
+        "num": 234619,
+        "word": "武汉大学椅子事件通报",
+        "onboard_time": 1757150901,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1056001,
+        "num": 233492,
+        "word": "曝男明星把甲方样机卖了",
+        "onboard_time": 1757150781,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573332,
+        "num": 232722,
+        "word": "遭老板性侵女子称113万不能弥补损失",
+        "onboard_time": 1757152103,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503620,
+        "num": 230562,
+        "word": "顶流官宣恋爱28年没be",
+        "onboard_time": 1757144000,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447526,
+        "num": 229733,
+        "word": "李维嘉回应张杰谢娜谁追的谁",
+        "onboard_time": 1757149641,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228948,
+        "num": 228948,
+        "word": "中元节血月",
+        "onboard_time": 1757134402,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225702,
+        "num": 225702,
+        "word": "幼儿误吞电池10小时致终身残疾",
+        "onboard_time": 1757138902,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170211,
+        "num": 170211,
+        "word": "姜潮麦迪娜孩子颜值",
+        "onboard_time": 1757140102,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220395,
+        "num": 163661,
+        "word": "李维嘉回复谢娜喊话",
+        "onboard_time": 1757152401,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40943,
+        "num": 157871,
+        "word": "茅台配板面套餐售价46元",
+        "onboard_time": 1757154321,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278181,
+        "num": 157460,
+        "word": "沐言和男同学吵架动手",
+        "onboard_time": 1757141541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156752,
+        "num": 156752,
+        "word": "田栩宁Metal",
+        "onboard_time": 1757152461,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 149170,
+        "num": 149170,
+        "word": "江祖平自曝遭下药性侵男方发声",
+        "onboard_time": 1757150781,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147842,
+        "num": 147842,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1757139560,
+        "rank": 23,
+        "category": "情感,科学科普"
+      },
+      {
+        "raw_hot": 136410,
+        "num": 136410,
+        "word": "晚上10点睡和11点睡的区别",
+        "onboard_time": 1757150302,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131297,
+        "num": 131297,
+        "word": "龚俊让张雅琪自产自销",
+        "onboard_time": 1757153660,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124963,
+        "num": 124963,
+        "word": "胡锡进评武大椅子事件",
+        "onboard_time": 1757150961,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123902,
+        "num": 123902,
+        "word": "时代少年团宣誓再也不熬夜了",
+        "onboard_time": 1757154140,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119146,
+        "num": 121351,
+        "word": "五位影后凑一起拍综艺了",
+        "onboard_time": 1757145142,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107764,
+        "num": 120517,
+        "word": "刘亦菲杨幂VOGUE百指",
+        "onboard_time": 1757148141,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159740,
+        "num": 120301,
+        "word": "陈数的丑衣服都没白带",
+        "onboard_time": 1757154621,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119955,
+        "num": 119955,
+        "word": "老人乱按电梯被年轻医生教育",
+        "onboard_time": 1757153181,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119180,
+        "num": 119180,
+        "word": "四川青川4.0级地震",
+        "onboard_time": 1757148741,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116862,
+        "num": 116862,
+        "word": "菲防长再次抹黑中国",
+        "onboard_time": 1757147781,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115800,
+        "num": 115800,
+        "word": "苏超",
+        "onboard_time": 1757154800,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104924,
+        "num": 104924,
+        "word": "昀牵孟绕",
+        "onboard_time": 1757140521,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95878,
+        "num": 95878,
+        "word": "月全食",
+        "onboard_time": 1757155101,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52833,
+        "num": 95098,
+        "word": "美国政客因中国集体焦虑",
+        "onboard_time": 1757155041,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53042,
+        "num": 94955,
+        "word": "游客在涠洲岛沙滩上捡到采血管",
+        "onboard_time": 1757154442,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63563,
+        "num": 94869,
+        "word": "刘亦菲比了个ok手势便走进影棚",
+        "onboard_time": 1757154140,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 94842,
+        "num": 94842,
+        "word": "iPhone17系列规格曝光",
+        "onboard_time": 1757151861,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93399,
+        "num": 93399,
+        "word": "迪丽热巴白裙现身",
+        "onboard_time": 1757149161,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89974,
+        "num": 90836,
+        "word": "阅兵当天才知道自己做的包去哪儿了",
+        "onboard_time": 1757153902,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90528,
+        "num": 90528,
+        "word": "阅兵重播",
+        "onboard_time": 1757139861,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90086,
+        "num": 90086,
+        "word": "深圳有家长要求恢复高三单休",
+        "onboard_time": 1757154382,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90029,
+        "num": 90029,
+        "word": "特朗普破防称好像把俄印输给了中国",
+        "onboard_time": 1757147181,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89599,
+        "num": 89599,
+        "word": "腿部缩短术",
+        "onboard_time": 1757149461,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85968,
+        "num": 85968,
+        "word": "宁静邵子恒 我认识你爸爸",
+        "onboard_time": 1757147781,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85852,
+        "num": 85852,
+        "word": "易会满涉嫌严重违纪违法",
+        "onboard_time": 1757128521,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84917,
+        "num": 84917,
+        "word": "涠洲岛卫生院回应游客沙滩捡到采血管",
+        "onboard_time": 1757155041,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记胜利日讲话金句的启示#"
+    }
+  }
+}

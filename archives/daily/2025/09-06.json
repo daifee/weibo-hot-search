@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757154161980,
+  "endTime": 1757155119544,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -75,6 +75,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1056001,
+      "num": 253481,
+      "word": "曝男明星把甲方样机卖了",
+      "onboard_time": 1757150781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1008315,
       "num": 448814,
       "word": "小酒窝有官配cp了",
@@ -88,14 +96,6 @@
       "word": "赵樱子自曝男友是一线男明星",
       "onboard_time": 1757084903,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 943049,
-      "num": 253481,
-      "word": "曝男明星把甲方样机卖了",
-      "onboard_time": 1757150781,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 808931,
-      "num": 572473,
+      "num": 584705,
       "word": "单休违法吗",
       "onboard_time": 1757148622,
       "rank": 13,
@@ -233,6 +233,14 @@
       "onboard_time": 1757139081,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 573332,
+      "num": 251978,
+      "word": "遭老板性侵女子称113万不能弥补损失",
+      "onboard_time": 1757152103,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 570087,
@@ -435,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 378070,
-      "num": 251978,
-      "word": "遭老板性侵女子称113万不能弥补损失",
-      "onboard_time": 1757152103,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 376286,
       "num": 376286,
       "word": "杭州22岁女兵受阅特警爸嘴角压不住",
@@ -547,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332396,
+      "num": 332396,
+      "word": "郭帆回应白改了",
+      "onboard_time": 1757151262,
+      "rank": 39,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 331818,
       "num": 231653,
       "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
@@ -568,6 +576,14 @@
       "word": "呼吁开除最快女护士言论越界了",
       "onboard_time": 1757101274,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322979,
+      "num": 322979,
+      "word": "成都震感",
+      "onboard_time": 1757149941,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -593,14 +609,6 @@
       "onboard_time": 1757147781,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310390,
-      "num": 310390,
-      "word": "郭帆回应白改了",
-      "onboard_time": 1757151262,
-      "rank": 39,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 304285,
@@ -875,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 220395,
+      "num": 209141,
+      "word": "李维嘉回复谢娜喊话",
+      "onboard_time": 1757152401,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210415,
       "num": 210415,
       "word": "双休8千单休1万选哪个",
@@ -889,14 +905,6 @@
       "onboard_time": 1757080883,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 209141,
-      "num": 209141,
-      "word": "李维嘉回复谢娜喊话",
-      "onboard_time": 1757152401,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 199313,
@@ -953,14 +961,6 @@
       "onboard_time": 1757142261,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 184406,
-      "num": 254463,
-      "word": "成都震感",
-      "onboard_time": 1757149941,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182300,
@@ -1107,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159740,
+      "num": 120301,
+      "word": "陈数的丑衣服都没白带",
+      "onboard_time": 1757154621,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159668,
       "num": 159668,
       "word": "孙燕姿老公获奖发文感谢老婆孩子",
@@ -1180,7 +1188,7 @@
     },
     {
       "raw_hot": 151174,
-      "num": 140710,
+      "num": 149170,
       "word": "江祖平自曝遭下药性侵男方发声",
       "onboard_time": 1757150781,
       "rank": 28,
@@ -1587,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123902,
+      "num": 123902,
+      "word": "时代少年团宣誓再也不熬夜了",
+      "onboard_time": 1757154140,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122531,
       "num": 430850,
       "word": "希望菲律宾防长能睁眼看世界",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1757138061,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115800,
+      "num": 115800,
+      "word": "苏超",
+      "onboard_time": 1757154800,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 115507,
@@ -1971,14 +1995,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 99699,
-      "num": 99699,
-      "word": "时代少年团宣誓再也不熬夜了",
-      "onboard_time": 1757154140,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99636,
       "num": 99636,
       "word": "九紫璃光妆开运了",
@@ -2083,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95878,
+      "num": 95878,
+      "word": "月全食",
+      "onboard_time": 1757155101,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95741,
       "num": 95741,
       "word": "狗狗总能精准找到怕它的人",
@@ -2097,6 +2121,14 @@
       "onboard_time": 1757150121,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94842,
+      "num": 94842,
+      "word": "iPhone17系列规格曝光",
+      "onboard_time": 1757151861,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 94642,
@@ -2155,12 +2187,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90086,
+      "num": 90086,
+      "word": "深圳有家长要求恢复高三单休",
+      "onboard_time": 1757154382,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89699,
       "num": 89699,
       "word": "桃黑黑回应嗦面",
       "onboard_time": 1757143702,
       "rank": 49,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 89599,
+      "num": 89599,
+      "word": "腿部缩短术",
+      "onboard_time": 1757149461,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88266,
@@ -2209,6 +2257,14 @@
       "onboard_time": 1757060962,
       "rank": 39,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 84917,
+      "num": 84917,
+      "word": "涠洲岛卫生院回应游客沙滩捡到采血管",
+      "onboard_time": 1757155041,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84637,
@@ -2403,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63563,
+      "num": 110417,
+      "word": "刘亦菲比了个ok手势便走进影棚",
+      "onboard_time": 1757154140,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 61720,
       "num": 100638,
       "word": "700公里托运下司犬死在后备箱",
@@ -2475,6 +2539,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53042,
+      "num": 94955,
+      "word": "游客在涠洲岛沙滩上捡到采血管",
+      "onboard_time": 1757154442,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52833,
+      "num": 95098,
+      "word": "美国政客因中国集体焦虑",
+      "onboard_time": 1757155041,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52796,
       "num": 155086,
       "word": "厦航一架飞往杭州航班跑道中断起飞",
@@ -2489,14 +2569,6 @@
       "onboard_time": 1757149342,
       "rank": 18,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 50813,
-      "num": 110417,
-      "word": "刘亦菲比了个ok手势便走进影棚",
-      "onboard_time": 1757154140,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 49930,
@@ -2537,6 +2609,14 @@
       "onboard_time": 1757114298,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40943,
+      "num": 157871,
+      "word": "茅台配板面套餐售价46元",
+      "onboard_time": 1757154321,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40160,
