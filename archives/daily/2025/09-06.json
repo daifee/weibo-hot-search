@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757123208910,
+  "endTime": 1757124146304,
   "band_list": [
     {
       "raw_hot": 1910228,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 475717,
+      "num": 475717,
+      "word": "男子将死老鼠放饮料机上被刑拘",
+      "onboard_time": 1757119761,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468511,
       "num": 468511,
       "word": "16岁男孩做物理增高长高后又缩水",
@@ -123,20 +131,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 377469,
-      "num": 377469,
-      "word": "男子将死老鼠放饮料机上被刑拘",
-      "onboard_time": 1757119761,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 376286,
       "num": 376286,
       "word": "杭州22岁女兵受阅特警爸嘴角压不住",
       "onboard_time": 1757112496,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 366797,
+      "num": 297693,
+      "word": "小酒窝有官配cp了",
+      "onboard_time": 1757123119,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 337360,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301409,
+      "num": 301409,
+      "word": "一觉醒来郭帆白改了",
+      "onboard_time": 1757122580,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300234,
       "num": 486943,
       "word": "侵华日军疯狂屠杀三天制造厂窖惨案",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 267429,
-      "num": 179922,
+      "num": 184706,
       "word": "单身太久突然谈了个恋爱时",
       "onboard_time": 1757116157,
       "rank": 20,
@@ -291,6 +307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181986,
+      "num": 181986,
+      "word": "爱到这种程度再结婚",
+      "onboard_time": 1757120840,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180016,
       "num": 142118,
       "word": "王晶谈赵丽颖能红原因",
@@ -299,20 +323,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179418,
-      "num": 179418,
-      "word": "爱到这种程度再结婚",
-      "onboard_time": 1757120840,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176332,
       "num": 176332,
       "word": "鹿晗火力全开了",
       "onboard_time": 1757079201,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168974,
+      "num": 168974,
+      "word": "东风五号首任总师说让别人不敢碰我们",
+      "onboard_time": 1757123781,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149453,
@@ -329,6 +353,14 @@
       "onboard_time": 1757088021,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143592,
+      "num": 192148,
+      "word": "辛芷蕾香奈儿高定",
+      "onboard_time": 1757121261,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143275,
@@ -411,14 +443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 129910,
-      "num": 192148,
-      "word": "辛芷蕾香奈儿高定",
-      "onboard_time": 1757121261,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 129551,
       "num": 129551,
       "word": "医院回应最快女护士被解聘或调岗",
@@ -441,14 +465,6 @@
       "onboard_time": 1757076501,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125401,
-      "num": 125401,
-      "word": "一觉醒来郭帆白改了",
-      "onboard_time": 1757122580,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124658,
@@ -491,14 +507,6 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 113634,
-      "num": 113634,
-      "word": "小酒窝有官配cp了",
-      "onboard_time": 1757123119,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113624,
       "num": 113624,
       "word": "VOGUE销量隐藏",
@@ -513,6 +521,14 @@
       "onboard_time": 1757114478,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 112257,
+      "num": 185599,
+      "word": "严浩翔手动帮贺峻霖静音",
+      "onboard_time": 1757123240,
+      "rank": 19,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 111772,
@@ -603,6 +619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95140,
+      "num": 126116,
+      "word": "战旗方队第1排的铁锤子有多牛",
+      "onboard_time": 1757123841,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91169,
       "num": 54032,
       "word": "这届网友保密意识很强",
@@ -625,6 +649,22 @@
       "onboard_time": 1757119821,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87306,
+      "num": 87306,
+      "word": "解放军导弹体系全球仅此一家",
+      "onboard_time": 1757123720,
+      "rank": 45,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 87114,
+      "num": 87114,
+      "word": "阿利亚西姆1比1辛纳",
+      "onboard_time": 1757123961,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 87004,
