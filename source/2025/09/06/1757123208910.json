@@ -1,0 +1,410 @@
+{
+  "runTime": 1757123208910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1910228,
+        "num": 1910228,
+        "word": "中方同意加入纽约宣言",
+        "onboard_time": 1757120300,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1452763,
+        "num": 1452763,
+        "word": "中元节",
+        "onboard_time": 1757116518,
+        "rank": 1,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 11390,
+        "num": 1262888,
+        "word": "受阅官兵晒出专属阅兵脸",
+        "onboard_time": 1757056701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1249931,
+        "num": 1249931,
+        "word": "我国规划撞击一颗小行星",
+        "onboard_time": 1757118079,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540815,
+        "num": 540815,
+        "word": "警方回应白嫖网约车两女子已被行拘",
+        "onboard_time": 1757117719,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468511,
+        "num": 468511,
+        "word": "16岁男孩做物理增高长高后又缩水",
+        "onboard_time": 1757118319,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389380,
+        "num": 389380,
+        "word": "iPhone为什么只有P是大写",
+        "onboard_time": 1757115738,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223656,
+        "num": 381124,
+        "word": "王玉雯说父母比同龄人父母年长很多",
+        "onboard_time": 1757088262,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118288,
+        "num": 377993,
+        "word": "刘亦菲迪丽热巴热聊",
+        "onboard_time": 1757078962,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 377469,
+        "num": 377469,
+        "word": "男子将死老鼠放饮料机上被刑拘",
+        "onboard_time": 1757119761,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1251483,
+        "num": 373569,
+        "word": "江祖平自曝遭绿媒副总儿子下药性侵",
+        "onboard_time": 1757117539,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 883127,
+        "num": 360820,
+        "word": "关晓彤听分手歌100多遍鹿晗知道吗",
+        "onboard_time": 1757080644,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455853,
+        "num": 341337,
+        "word": "董璇晒佟丽娅小酒窝合照",
+        "onboard_time": 1757120901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291168,
+        "num": 291168,
+        "word": "俄方要求日本完全承认二战结果",
+        "onboard_time": 1757113096,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266167,
+        "num": 266167,
+        "word": "美国战争部",
+        "onboard_time": 1757115258,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255897,
+        "num": 255897,
+        "word": "Angelababy早期美版VOGUE封面",
+        "onboard_time": 1757115439,
+        "rank": 15,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 231653,
+        "num": 231653,
+        "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
+        "onboard_time": 1757086822,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215656,
+        "num": 215656,
+        "word": "教体局回应一中学新初一共94个班",
+        "onboard_time": 1757091258,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129910,
+        "num": 192148,
+        "word": "辛芷蕾香奈儿高定",
+        "onboard_time": 1757121261,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135669,
+        "num": 180209,
+        "word": "我们为什么搞导弹",
+        "onboard_time": 1757121681,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267429,
+        "num": 179922,
+        "word": "单身太久突然谈了个恋爱时",
+        "onboard_time": 1757116157,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179418,
+        "num": 179418,
+        "word": "爱到这种程度再结婚",
+        "onboard_time": 1757120840,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171612,
+        "num": 171612,
+        "word": "人到中年体味变大的真相",
+        "onboard_time": 1757114659,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 144801,
+        "num": 144801,
+        "word": "张亮退出张亮麻辣烫股东行列",
+        "onboard_time": 1757078241,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141973,
+        "num": 141973,
+        "word": "张雅琪喜欢迪丽热巴的反差感",
+        "onboard_time": 1757120901,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141483,
+        "num": 141483,
+        "word": "7岁女童疑被小区泳池排水口吸入身亡",
+        "onboard_time": 1757117841,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140963,
+        "num": 140963,
+        "word": "辛芷蕾胸前好大一朵玫瑰",
+        "onboard_time": 1757083463,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140133,
+        "num": 140133,
+        "word": "孕妇产检单据一米多长",
+        "onboard_time": 1757118499,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136937,
+        "num": 136937,
+        "word": "iPhone17Pro灵动岛或缩短25%",
+        "onboard_time": 1757121020,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81322,
+        "num": 132466,
+        "word": "刘轩丞回应自己暗爽",
+        "onboard_time": 1757120542,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129369,
+        "num": 129369,
+        "word": "普京回应26国将向乌克兰部署军队",
+        "onboard_time": 1757115738,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125401,
+        "num": 125401,
+        "word": "一觉醒来郭帆白改了",
+        "onboard_time": 1757122580,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122331,
+        "num": 122331,
+        "word": "阎鹤祥花46块7买了一个岛",
+        "onboard_time": 1757084361,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118066,
+        "num": 118066,
+        "word": "美国拘捕300名韩国人",
+        "onboard_time": 1757085563,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114604,
+        "num": 114604,
+        "word": "女生用八角加水去除米虫",
+        "onboard_time": 1757117539,
+        "rank": 34,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 114398,
+        "num": 114398,
+        "word": "杭州22岁女兵受阅特警爸嘴角压不住",
+        "onboard_time": 1757112496,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113634,
+        "num": 113634,
+        "word": "小酒窝有官配cp了",
+        "onboard_time": 1757123119,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108799,
+        "num": 108799,
+        "word": "杭州一酒馆女舞者表演被指擦边",
+        "onboard_time": 1757077221,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102288,
+        "num": 102288,
+        "word": "俄外长敲打日本",
+        "onboard_time": 1757119521,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99919,
+        "num": 99919,
+        "word": "萌妹孙颖莎",
+        "onboard_time": 1757122401,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99022,
+        "num": 99022,
+        "word": "彼岸花",
+        "onboard_time": 1757122941,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99016,
+        "num": 99016,
+        "word": "乌克兰0比2法国",
+        "onboard_time": 1757122941,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97987,
+        "num": 97987,
+        "word": "普京称北约敢派兵就打",
+        "onboard_time": 1757116279,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97839,
+        "num": 97839,
+        "word": "韩国外交部对300人被拘捕表态",
+        "onboard_time": 1757118079,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92087,
+        "num": 92087,
+        "word": "杨幂张小斐 从校服到礼服",
+        "onboard_time": 1757075901,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167276,
+        "num": 91606,
+        "word": "呼吁开除最快女护士言论越界了",
+        "onboard_time": 1757101274,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90271,
+        "num": 90271,
+        "word": "3问千万网红只卖了58双鞋",
+        "onboard_time": 1757079262,
+        "rank": 46,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 89446,
+        "num": 89446,
+        "word": "中级会计",
+        "onboard_time": 1757123000,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88266,
+        "num": 88266,
+        "word": "上海月租1500的房子",
+        "onboard_time": 1757119821,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 551427,
+        "num": 87558,
+        "word": "赵樱子自曝男友是一线男明星",
+        "onboard_time": 1757084903,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#党旗所指正是军旗所向#"
+    }
+  }
+}
