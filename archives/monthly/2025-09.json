@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757169448330,
+  "endTime": 1757172099512,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -769,6 +769,14 @@
       "onboard_time": 1756863567,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1298510,
+      "num": 278635,
+      "word": "女子在泰被沉尸胸部假体印中文",
+      "onboard_time": 1757170584,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1295913,
@@ -1947,6 +1955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 666232,
+      "num": 666232,
+      "word": "刘宇宁直播辟谣与经纪人恋情",
+      "onboard_time": 1757168244,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 664750,
       "num": 476491,
       "word": "上班的内容是集体观看阅兵",
@@ -2987,20 +3003,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 473854,
-      "num": 473854,
-      "word": "刘宇宁直播辟谣与经纪人恋情",
-      "onboard_time": 1757168244,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 472153,
       "num": 297207,
       "word": "易烊千玺被广播催促登机",
       "onboard_time": 1757155881,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468625,
+      "num": 468625,
+      "word": "宝妈花2万住月子中心遭虫爬身",
+      "onboard_time": 1757168065,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 468511,
@@ -3321,6 +3337,14 @@
       "onboard_time": 1756971622,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 440384,
+      "num": 440384,
+      "word": "生病急需钱家人发现32万做了生意",
+      "onboard_time": 1757169023,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439145,
@@ -3817,6 +3841,14 @@
       "onboard_time": 1756780700,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 378513,
+      "num": 301246,
+      "word": "魏大勋抱赵今麦投篮",
+      "onboard_time": 1757168543,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 378346,
@@ -4715,14 +4747,6 @@
       "category": "国内时政,综艺"
     },
     {
-      "raw_hot": 301246,
-      "num": 301246,
-      "word": "魏大勋抱赵今麦投篮",
-      "onboard_time": 1757168543,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 300826,
       "num": 384110,
       "word": "美韩关系紧张或加剧",
@@ -4913,14 +4937,6 @@
       "onboard_time": 1757158344,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285154,
-      "num": 285154,
-      "word": "宝妈花2万住月子中心遭虫爬身",
-      "onboard_time": 1757168065,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284848,
@@ -6091,6 +6107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220908,
+      "num": 220908,
+      "word": "骑手称配送死鳄鱼结果半路活了",
+      "onboard_time": 1757171004,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220395,
       "num": 209141,
       "word": "李维嘉回复谢娜喊话",
@@ -6217,6 +6241,14 @@
       "onboard_time": 1757044762,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213956,
+      "num": 249191,
+      "word": "洪秀柱现身国家大剧院看京剧",
+      "onboard_time": 1757169144,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 213767,
@@ -6513,6 +6545,14 @@
       "onboard_time": 1756863269,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 202909,
+      "num": 217045,
+      "word": "于文文薛凯琪黑的白的全说成黄的",
+      "onboard_time": 1757170824,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 202103,
@@ -7635,14 +7675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177307,
-      "num": 177307,
-      "word": "生病急需钱家人发现32万做了生意",
-      "onboard_time": 1757169023,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177106,
       "num": 177106,
       "word": "点外卖的最爽时刻",
@@ -8009,6 +8041,14 @@
       "onboard_time": 1756654943,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 168733,
+      "num": 168733,
+      "word": "藏海过中元节",
+      "onboard_time": 1757170705,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 168659,
@@ -8681,6 +8721,14 @@
       "onboard_time": 1756787303,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157095,
+      "num": 157095,
+      "word": "亚裔女子在泰被沉尸",
+      "onboard_time": 1757170824,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157054,
@@ -9483,6 +9531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145810,
+      "num": 145810,
+      "word": "TFing画的穆祉丞",
+      "onboard_time": 1757171662,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145798,
       "num": 145798,
       "word": "泡泡玛特",
@@ -9657,6 +9713,14 @@
       "onboard_time": 1757146700,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143129,
+      "num": 143129,
+      "word": "解说谈樊振东孤身征战德甲",
+      "onboard_time": 1757171783,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 143017,
@@ -10145,6 +10209,14 @@
       "onboard_time": 1756701021,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136227,
+      "num": 163411,
+      "word": "陈小春杨千嬅手拉手唱野孩子",
+      "onboard_time": 1757171364,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 136020,
@@ -10803,6 +10875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127502,
+      "num": 127502,
+      "word": "8万只气球去哪儿了",
+      "onboard_time": 1757171783,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127468,
       "num": 127468,
       "word": "詹姆斯开启第15次中国行",
@@ -11193,6 +11273,14 @@
       "onboard_time": 1757071641,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122619,
+      "num": 122619,
+      "word": "张靓颖演唱会",
+      "onboard_time": 1757171061,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 122531,
@@ -11859,6 +11947,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 114808,
+      "num": 114808,
+      "word": "萧敬腾裤子裂了",
+      "onboard_time": 1757171544,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114747,
       "num": 114747,
       "word": "易会满被免至今A股上涨近1000点",
@@ -12523,6 +12619,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 107925,
+      "num": 107925,
+      "word": "老人猥亵女性因高龄患绝症未被拘留",
+      "onboard_time": 1757171903,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107681,
       "num": 265615,
       "word": "一个公式计算你的遗传身高",
@@ -12929,6 +13033,14 @@
       "onboard_time": 1757051602,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103841,
+      "num": 103841,
+      "word": "租客弃猫失联致5只猫坠楼死亡",
+      "onboard_time": 1757171963,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103768,
@@ -13347,6 +13459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99284,
+      "num": 193679,
+      "word": "一两元包邮的时代或不复存在",
+      "onboard_time": 1757170883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99260,
       "num": 99260,
       "word": "四川便宜且难吃的特产",
@@ -13457,6 +13577,14 @@
       "onboard_time": 1756715960,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98301,
+      "num": 98301,
+      "word": "加比好牛",
+      "onboard_time": 1757171963,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97987,
@@ -16723,6 +16851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49787,
+      "num": 163306,
+      "word": "3人自导自演当街踹保时捷被行拘",
+      "onboard_time": 1757170883,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48976,
       "num": 143603,
       "word": "药房同款药线上22元线下59.9元",
@@ -16881,6 +17017,14 @@
       "onboard_time": 1756942821,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46303,
+      "num": 197621,
+      "word": "重磅天象月全食明晚上线",
+      "onboard_time": 1757171544,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46160,
@@ -17105,6 +17249,14 @@
       "onboard_time": 1757134881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36624,
+      "num": 193794,
+      "word": "周也欧莱雅纪录片首映礼",
+      "onboard_time": 1757169683,
+      "rank": 18,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 36502,
@@ -17432,14 +17584,6 @@
       "word": "天安门广场放音乐",
       "onboard_time": 1756832297,
       "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 29531,
-      "num": 249191,
-      "word": "洪秀柱现身国家大剧院看京剧",
-      "onboard_time": 1757169144,
-      "rank": 19,
       "category": "国内时政"
     },
     {
