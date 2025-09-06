@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757132913232,
+  "endTime": 1757133662222,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459505,
+      "num": 370707,
+      "word": "虞书欣何与双轨12月预排",
+      "onboard_time": 1757129182,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455853,
       "num": 341337,
       "word": "董璇晒佟丽娅小酒窝合照",
@@ -177,6 +185,14 @@
       "onboard_time": 1757125641,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451033,
+      "num": 451033,
+      "word": "淘宝闪购",
+      "onboard_time": 1757130501,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 431922,
@@ -219,11 +235,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 381393,
-      "num": 370707,
-      "word": "虞书欣何与双轨12月预排",
-      "onboard_time": 1757129182,
-      "rank": 16,
+      "raw_hot": 380387,
+      "num": 380387,
+      "word": "泰版三十而已林有有",
+      "onboard_time": 1757129722,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -257,14 +273,6 @@
       "onboard_time": 1757129722,
       "rank": 18,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 354306,
-      "num": 354306,
-      "word": "淘宝闪购",
-      "onboard_time": 1757130501,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 349283,
@@ -395,12 +403,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 282880,
-      "num": 282880,
-      "word": "泰版三十而已林有有",
-      "onboard_time": 1757129722,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 277547,
+      "num": 163205,
+      "word": "塞尔维亚局势",
+      "onboard_time": 1757132362,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 267429,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 231398,
-      "num": 182732,
+      "num": 196603,
       "word": "法国将军谈九三阅兵",
       "onboard_time": 1757130860,
       "rank": 30,
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150123,
+      "num": 150123,
+      "word": "如鸢",
+      "onboard_time": 1757133142,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149453,
       "num": 141920,
       "word": "为什么我们不害怕中元节了",
@@ -673,14 +689,6 @@
       "onboard_time": 1757121261,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 143479,
-      "num": 143479,
-      "word": "塞尔维亚局势",
-      "onboard_time": 1757132362,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 143275,
@@ -739,12 +747,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139103,
+      "num": 166423,
+      "word": "沈腾当裁判被观众大喊黑幕",
+      "onboard_time": 1757132841,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136937,
       "num": 136937,
       "word": "iPhone17Pro灵动岛或缩短25%",
       "onboard_time": 1757121020,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136020,
+      "num": 136020,
+      "word": "这才是真正的普通人穿搭",
+      "onboard_time": 1757132901,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 135669,
@@ -835,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124280,
+      "num": 124280,
+      "word": "36岁靠200万利息提前退休",
+      "onboard_time": 1757133442,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121493,
       "num": 121493,
       "word": "王楚钦的北大开学plog",
@@ -851,12 +883,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119652,
+      "num": 119652,
+      "word": "迪丽热巴在剧组会亲自下厨",
+      "onboard_time": 1757133622,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 118663,
       "num": 118663,
       "word": "阅兵和平鸽下班50多小时刚到家",
       "onboard_time": 1757075180,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118277,
+      "num": 118277,
+      "word": "R1SE美美出游一个劲的晕船",
+      "onboard_time": 1757133442,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 117675,
@@ -881,6 +929,14 @@
       "onboard_time": 1757085622,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114747,
+      "num": 114747,
+      "word": "易会满被免至今A股上涨近1000点",
+      "onboard_time": 1757131942,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114604,
@@ -923,28 +979,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 111821,
-      "num": 111821,
-      "word": "沈腾当裁判被观众大喊黑幕",
-      "onboard_time": 1757132841,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111772,
       "num": 111772,
       "word": "杭州通报酒馆营销活动涉嫌擦边",
       "onboard_time": 1757087602,
       "rank": 32,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 110248,
-      "num": 110248,
-      "word": "这才是真正的普通人穿搭",
-      "onboard_time": 1757132901,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 109548,
@@ -1243,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69201,
+      "num": 182742,
+      "word": "证监系统多名官员被查",
+      "onboard_time": 1757132480,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67723,
       "num": 67723,
       "word": "美网",
@@ -1257,14 +1305,6 @@
       "onboard_time": 1757073020,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 56549,
-      "num": 182742,
-      "word": "证监系统多名官员被查",
-      "onboard_time": 1757132480,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56531,
@@ -1289,6 +1329,14 @@
       "onboard_time": 1757113517,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54116,
+      "num": 128541,
+      "word": "雅丝考试",
+      "onboard_time": 1757133142,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 53964,
@@ -1337,6 +1385,22 @@
       "onboard_time": 1757056701,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31013,
+      "num": 127864,
+      "word": "孟子义尚公主不基础妆造更不基础",
+      "onboard_time": 1757133261,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28142,
+      "num": 233158,
+      "word": "邢菲因嘴馋当上零食买手",
+      "onboard_time": 1757133261,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 25499,
