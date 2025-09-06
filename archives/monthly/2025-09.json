@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757144207461,
+  "endTime": 1757147284442,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1427,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 808582,
+      "num": 1129373,
+      "word": "丝瓜汤",
+      "onboard_time": 1757139081,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 808415,
       "num": 808415,
       "word": "众多台湾网友观看了阅兵直播",
@@ -1523,14 +1531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 768580,
-      "num": 1122972,
-      "word": "丝瓜汤",
-      "onboard_time": 1757139081,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 765720,
       "num": 582243,
       "word": "杨幂热巴说马思纯瘦了",
@@ -1569,6 +1569,14 @@
       "onboard_time": 1756957281,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 745960,
+      "num": 249396,
+      "word": "顶流官宣恋爱28年没be",
+      "onboard_time": 1757144000,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 744743,
@@ -2819,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 465814,
+      "num": 199013,
+      "word": "沐言和男同学吵架动手",
+      "onboard_time": 1757141541,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465328,
       "num": 240565,
       "word": "王栎鑫心脏不适退出xmen舞台",
@@ -2868,7 +2884,7 @@
     },
     {
       "raw_hot": 463218,
-      "num": 242975,
+      "num": 243359,
       "word": "昀牵孟绕",
       "onboard_time": 1757140521,
       "rank": 23,
@@ -3612,7 +3628,7 @@
     },
     {
       "raw_hot": 375378,
-      "num": 238793,
+      "num": 244798,
       "word": "向太最好的闺蜜是菲佣",
       "onboard_time": 1757141121,
       "rank": 19,
@@ -4011,14 +4027,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 335667,
-      "num": 199013,
-      "word": "沐言和男同学吵架动手",
-      "onboard_time": 1757141541,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333603,
       "num": 309004,
       "word": "你说双一流原来是这么个双一流",
@@ -4163,6 +4171,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 324011,
+      "num": 304028,
+      "word": "王琳首次公开第一段失败婚姻",
+      "onboard_time": 1757146282,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323920,
       "num": 323920,
       "word": "天安门广场观礼服务包里有什么",
@@ -4281,6 +4297,14 @@
       "onboard_time": 1756791442,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 313310,
+      "num": 137616,
+      "word": "旺旺集团副董事长怒批赖清德",
+      "onboard_time": 1757144421,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312131,
@@ -4449,6 +4473,14 @@
       "onboard_time": 1756730001,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 297483,
+      "num": 297483,
+      "word": "五位影后凑一起拍综艺了",
+      "onboard_time": 1757145142,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 297185,
@@ -5075,6 +5107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251949,
+      "num": 251949,
+      "word": "全国肥胖率分布地图出炉",
+      "onboard_time": 1757142440,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251310,
       "num": 177330,
       "word": "梓渝泥潭入围亚洲流行音乐大奖",
@@ -5505,6 +5545,14 @@
       "onboard_time": 1756808182,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232798,
+      "num": 232798,
+      "word": "中级经济法",
+      "onboard_time": 1757143460,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 232744,
@@ -6017,14 +6065,6 @@
       "onboard_time": 1756974743,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205305,
-      "num": 205305,
-      "word": "中级经济法",
-      "onboard_time": 1757143460,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 204908,
@@ -7048,14 +7088,6 @@
       "word": "杭州西湖管理方太严谨了",
       "onboard_time": 1756825103,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178899,
-      "num": 178899,
-      "word": "全国肥胖率分布地图出炉",
-      "onboard_time": 1757142440,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -8963,6 +8995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142086,
+      "num": 156239,
+      "word": "易烊千玺礐嶨收官庆功宴",
+      "onboard_time": 1757146641,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141973,
       "num": 173529,
       "word": "张雅琪喜欢迪丽热巴的反差感",
@@ -9017,14 +9057,6 @@
       "onboard_time": 1756968261,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141163,
-      "num": 141163,
-      "word": "顶流官宣恋爱28年没be",
-      "onboard_time": 1757144000,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 141103,
@@ -10827,6 +10859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115168,
+      "num": 115168,
+      "word": "阅兵这些画面首次公开",
+      "onboard_time": 1757146700,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115141,
       "num": 164544,
       "word": "九三阅兵军迷变军盲",
@@ -10985,6 +11025,14 @@
       "onboard_time": 1756703300,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113643,
+      "num": 151401,
+      "word": "泰版王漫妮眼里全是野心",
+      "onboard_time": 1757144842,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 113379,
@@ -11603,6 +11651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106473,
+      "num": 106473,
+      "word": "乖乖合影的孙颖莎",
+      "onboard_time": 1757147061,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106440,
       "num": 171940,
       "word": "山东魏桥2比1山东鲁能",
@@ -11881,6 +11937,14 @@
       "onboard_time": 1757063482,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103183,
+      "num": 103183,
+      "word": "降薪和拿赔偿走人二选一",
+      "onboard_time": 1757143642,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 103144,
@@ -12177,6 +12241,14 @@
       "onboard_time": 1756701562,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99636,
+      "num": 99636,
+      "word": "九紫璃光妆开运了",
+      "onboard_time": 1757146041,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 99595,
@@ -12939,12 +13011,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90067,
-      "num": 90067,
-      "word": "降薪和拿赔偿走人二选一",
-      "onboard_time": 1757143642,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 90096,
+      "num": 104587,
+      "word": "苏醒MAMA练习室",
+      "onboard_time": 1757146342,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 89699,
@@ -13065,6 +13137,14 @@
       "onboard_time": 1756770320,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88268,
+      "num": 137717,
+      "word": "谢娜谁帮我把我大哥从棚里拉出来",
+      "onboard_time": 1757147001,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 88266,
@@ -15043,6 +15123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57344,
+      "num": 251546,
+      "word": "装配4台国产发动机运20B丝滑亮相",
+      "onboard_time": 1757145800,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57160,
       "num": 77035,
       "word": "中国驻美使馆胜利日海报",
@@ -15555,6 +15643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45497,
+      "num": 106548,
+      "word": "暑假天天吃外卖一家人胖了50斤",
+      "onboard_time": 1757147242,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44737,
       "num": 76519,
       "word": "肖战来看江南十二场欢聚",
@@ -15635,6 +15731,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 40160,
+      "num": 240267,
+      "word": "王一博得宝品位时空之旅",
+      "onboard_time": 1757142261,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40127,
       "num": 178963,
       "word": "被留遗产重病女孩将照顾前男友父母",
@@ -15675,20 +15779,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 38800,
-      "num": 240267,
-      "word": "王一博得宝品位时空之旅",
-      "onboard_time": 1757142261,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38429,
       "num": 38429,
       "word": "军旗",
       "onboard_time": 1756923195,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38074,
+      "num": 107494,
+      "word": "特朗普破防称好像把俄印输给了中国",
+      "onboard_time": 1757147181,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37873,
@@ -16331,6 +16435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20748,
+      "num": 108003,
+      "word": "在一张脸上看到人山人海",
+      "onboard_time": 1757147181,
+      "rank": 38,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 20560,
       "num": 38856,
       "word": "汪苏泷晒王源演唱会嘉宾工作证",
@@ -16449,6 +16561,22 @@
       "onboard_time": 1757040320,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17395,
+      "num": 176151,
+      "word": "中方未向俄乌冲突任何一方提供武器",
+      "onboard_time": 1757146460,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17340,
+      "num": 103731,
+      "word": "无人潜艇如何通信",
+      "onboard_time": 1757147001,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 17052,

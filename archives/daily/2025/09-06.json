@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757144207461,
+  "endTime": 1757147284442,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808582,
+      "num": 1129373,
+      "word": "丝瓜汤",
+      "onboard_time": 1757139081,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 783754,
       "num": 360634,
       "word": "幼儿误吞电池10小时致终身残疾",
@@ -115,12 +123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 768580,
-      "num": 1122972,
-      "word": "丝瓜汤",
-      "onboard_time": 1757139081,
-      "rank": 17,
-      "category": "美食"
+      "raw_hot": 745960,
+      "num": 249396,
+      "word": "顶流官宣恋爱28年没be",
+      "onboard_time": 1757144000,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 741647,
@@ -267,8 +275,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 465814,
+      "num": 199013,
+      "word": "沐言和男同学吵架动手",
+      "onboard_time": 1757141541,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463218,
-      "num": 242975,
+      "num": 243359,
       "word": "昀牵孟绕",
       "onboard_time": 1757140521,
       "rank": 23,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 375378,
-      "num": 238793,
+      "num": 244798,
       "word": "向太最好的闺蜜是菲佣",
       "onboard_time": 1757141121,
       "rank": 19,
@@ -435,14 +451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 335667,
-      "num": 199013,
-      "word": "沐言和男同学吵架动手",
-      "onboard_time": 1757141541,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331818,
       "num": 231653,
       "word": "哥哥怕38岁弟弟啃老收走父亲钱和卡",
@@ -467,12 +475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324011,
+      "num": 304028,
+      "word": "王琳首次公开第一段失败婚姻",
+      "onboard_time": 1757146282,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317898,
       "num": 317898,
       "word": "唐香玉上恋综的段子成真了",
       "onboard_time": 1757128760,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313310,
+      "num": 137616,
+      "word": "旺旺集团副董事长怒批赖清德",
+      "onboard_time": 1757144421,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313284,
@@ -505,6 +529,14 @@
       "onboard_time": 1757088921,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 297483,
+      "num": 297483,
+      "word": "五位影后凑一起拍综艺了",
+      "onboard_time": 1757145142,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 294699,
@@ -595,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251949,
+      "num": 251949,
+      "word": "全国肥胖率分布地图出炉",
+      "onboard_time": 1757142440,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250070,
       "num": 293585,
       "word": "唐国强 上次这么敢说还是康熙",
@@ -675,6 +715,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 232798,
+      "num": 232798,
+      "word": "中级经济法",
+      "onboard_time": 1757143460,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 231398,
       "num": 196603,
       "word": "法国将军谈九三阅兵",
@@ -729,14 +777,6 @@
       "onboard_time": 1757080883,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 205305,
-      "num": 205305,
-      "word": "中级经济法",
-      "onboard_time": 1757143460,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 199313,
@@ -817,14 +857,6 @@
       "onboard_time": 1757129059,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 178899,
-      "num": 178899,
-      "word": "全国肥胖率分布地图出炉",
-      "onboard_time": 1757142440,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177582,
@@ -1067,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142086,
+      "num": 156239,
+      "word": "易烊千玺礐嶨收官庆功宴",
+      "onboard_time": 1757146641,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141973,
       "num": 173529,
       "word": "张雅琪喜欢迪丽热巴的反差感",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1757117841,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141163,
-      "num": 141163,
-      "word": "顶流官宣恋爱28年没be",
-      "onboard_time": 1757144000,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 140937,
@@ -1403,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115168,
+      "num": 115168,
+      "word": "阅兵这些画面首次公开",
+      "onboard_time": 1757146700,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114747,
       "num": 114747,
       "word": "易会满被免至今A股上涨近1000点",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1757127501,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113643,
+      "num": 151401,
+      "word": "泰版王漫妮眼里全是野心",
+      "onboard_time": 1757144842,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 113624,
@@ -1499,6 +1547,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 106473,
+      "num": 106473,
+      "word": "乖乖合影的孙颖莎",
+      "onboard_time": 1757147061,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104447,
       "num": 104447,
       "word": "义乌速度堪比东风",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1757068942,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 103183,
+      "num": 103183,
+      "word": "降薪和拿赔偿走人二选一",
+      "onboard_time": 1757143642,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 102627,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1757122401,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99636,
+      "num": 99636,
+      "word": "九紫璃光妆开运了",
+      "onboard_time": 1757146041,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 99122,
@@ -1691,12 +1763,12 @@
       "category": "军事,民生新闻"
     },
     {
-      "raw_hot": 90067,
-      "num": 90067,
-      "word": "降薪和拿赔偿走人二选一",
-      "onboard_time": 1757143642,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 90096,
+      "num": 104587,
+      "word": "苏醒MAMA练习室",
+      "onboard_time": 1757146342,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 89699,
@@ -1705,6 +1777,14 @@
       "onboard_time": 1757143702,
       "rank": 49,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 88268,
+      "num": 137717,
+      "word": "谢娜谁帮我把我大哥从棚里拉出来",
+      "onboard_time": 1757147001,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 88266,
@@ -1907,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57344,
+      "num": 251546,
+      "word": "装配4台国产发动机运20B丝滑亮相",
+      "onboard_time": 1757145800,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56531,
       "num": 144274,
       "word": "加拿大讨论用中国电动车换油菜籽",
@@ -1995,12 +2083,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45497,
+      "num": 106548,
+      "word": "暑假天天吃外卖一家人胖了50斤",
+      "onboard_time": 1757147242,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44606,
       "num": 117682,
       "word": "特朗普称很快将与普京通话",
       "onboard_time": 1757114298,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40160,
+      "num": 240267,
+      "word": "王一博得宝品位时空之旅",
+      "onboard_time": 1757142261,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 40127,
@@ -2011,12 +2115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38800,
-      "num": 240267,
-      "word": "王一博得宝品位时空之旅",
-      "onboard_time": 1757142261,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 38074,
+      "num": 107494,
+      "word": "特朗普破防称好像把俄印输给了中国",
+      "onboard_time": 1757147181,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37073,
@@ -2123,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20748,
+      "num": 108003,
+      "word": "在一张脸上看到人山人海",
+      "onboard_time": 1757147181,
+      "rank": 38,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 19891,
       "num": 25059,
       "word": "穿破洞裤出门前一定要照镜子",
@@ -2137,6 +2249,22 @@
       "onboard_time": 1757095636,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17395,
+      "num": 176151,
+      "word": "中方未向俄乌冲突任何一方提供武器",
+      "onboard_time": 1757146460,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17340,
+      "num": 103731,
+      "word": "无人潜艇如何通信",
+      "onboard_time": 1757147001,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 17005,
