@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757141084862,
+  "endTime": 1757143292450,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1483,6 +1483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 783754,
+      "num": 360634,
+      "word": "幼儿误吞电池10小时致终身残疾",
+      "onboard_time": 1757138902,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 769307,
       "num": 769307,
       "word": "女民兵受阅前互相整理戎装",
@@ -1531,12 +1539,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 758465,
-      "num": 360634,
-      "word": "幼儿误吞电池10小时致终身残疾",
-      "onboard_time": 1757138902,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 757791,
+      "num": 265217,
+      "word": "姜潮麦迪娜孩子颜值",
+      "onboard_time": 1757140102,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 754801,
@@ -1971,6 +1979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 612271,
+      "num": 612271,
+      "word": "丝瓜汤",
+      "onboard_time": 1757139081,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 612202,
       "num": 612202,
       "word": "莫迪发文感谢中方",
@@ -2065,6 +2081,14 @@
       "onboard_time": 1756701263,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 586459,
+      "num": 273472,
+      "word": "难怪别人怀疑熹贵妃的肚子",
+      "onboard_time": 1757139081,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 585886,
@@ -2627,14 +2651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 492927,
-      "num": 273472,
-      "word": "难怪别人怀疑熹贵妃的肚子",
-      "onboard_time": 1757139081,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 492830,
       "num": 492830,
       "word": "外交部回应特朗普涉华指责",
@@ -2841,6 +2857,14 @@
       "onboard_time": 1756791802,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463218,
+      "num": 242975,
+      "word": "昀牵孟绕",
+      "onboard_time": 1757140521,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 462832,
@@ -4291,20 +4315,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 305670,
-      "num": 265217,
-      "word": "姜潮麦迪娜孩子颜值",
-      "onboard_time": 1757140102,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305349,
       "num": 271594,
       "word": "歼35大片来了",
       "onboard_time": 1756956322,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 304285,
+      "num": 235607,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1757139560,
+      "rank": 33,
+      "category": "情感,科学科普"
     },
     {
       "raw_hot": 304012,
@@ -4384,6 +4408,14 @@
       "word": "路透社评阅兵新武器被外网网友怒怼",
       "onboard_time": 1757034142,
       "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 298598,
+      "num": 298598,
+      "word": "阅兵重播",
+      "onboard_time": 1757139861,
+      "rank": 43,
       "category": "国内时政"
     },
     {
@@ -4891,14 +4923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 263197,
-      "num": 263197,
-      "word": "丝瓜汤",
-      "onboard_time": 1757139081,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 261210,
       "num": 253818,
       "word": "特朗普拟将五角大楼更名为战争部",
@@ -5235,6 +5259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242189,
+      "num": 242189,
+      "word": "他们一定看到了",
+      "onboard_time": 1757141181,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 242188,
       "num": 242188,
       "word": "井迪官宣我家那闺女",
@@ -5297,6 +5329,14 @@
       "onboard_time": 1757054721,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 238793,
+      "num": 238793,
+      "word": "向太最好的闺蜜是菲佣",
+      "onboard_time": 1757141121,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 238731,
@@ -5811,14 +5851,6 @@
       "category": "国内时政,体育"
     },
     {
-      "raw_hot": 211520,
-      "num": 211520,
-      "word": "建议女生洗完头不要包头发",
-      "onboard_time": 1757139560,
-      "rank": 33,
-      "category": "情感,科学科普"
-    },
-    {
       "raw_hot": 211502,
       "num": 211502,
       "word": "文艺晚会导演",
@@ -6187,14 +6219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197670,
-      "num": 197670,
-      "word": "昀牵孟绕",
-      "onboard_time": 1757140521,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197532,
       "num": 197532,
       "word": "梓渝又有工作了",
@@ -6353,6 +6377,14 @@
       "onboard_time": 1756818922,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193245,
+      "num": 193245,
+      "word": "中国小孩语出惊人火爆外网",
+      "onboard_time": 1757141541,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193118,
@@ -6779,6 +6811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184696,
+      "num": 184696,
+      "word": "LPL",
+      "onboard_time": 1757142261,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184493,
       "num": 127650,
       "word": "甚至怀疑过绿是字的颜色",
@@ -6993,6 +7033,14 @@
       "onboard_time": 1757071521,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178755,
+      "num": 178755,
+      "word": "沐言和男同学吵架动手",
+      "onboard_time": 1757141541,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 178695,
@@ -7699,6 +7747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161673,
+      "num": 161673,
+      "word": "王俊凯还在穿6年前的衣服",
+      "onboard_time": 1757141420,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161557,
       "num": 161557,
       "word": "不刷牙睡觉vs不刷牙吃早餐",
@@ -8105,14 +8161,6 @@
       "onboard_time": 1757052501,
       "rank": 36,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 154857,
-      "num": 186336,
-      "word": "阅兵重播",
-      "onboard_time": 1757139861,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154781,
@@ -8961,6 +9009,14 @@
       "onboard_time": 1756955724,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140509,
+      "num": 140509,
+      "word": "全国肥胖率分布地图出炉",
+      "onboard_time": 1757142440,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140457,
@@ -10971,6 +11027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112758,
+      "num": 112758,
+      "word": "阅兵鸽飞到了河南",
+      "onboard_time": 1757142802,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112731,
       "num": 265801,
       "word": "谁吃麻辣香锅不被上一课呢",
@@ -12083,6 +12147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99122,
+      "num": 99122,
+      "word": "马思纯 古早白月光",
+      "onboard_time": 1757141841,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99105,
       "num": 187315,
       "word": "你好星期六",
@@ -12385,6 +12457,14 @@
       "onboard_time": 1757073381,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96056,
+      "num": 96056,
+      "word": "苏新皓考核大魔王名不虚传",
+      "onboard_time": 1757142741,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 96019,
@@ -13227,6 +13307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85933,
+      "num": 85933,
+      "word": "汪顺演我看阅兵",
+      "onboard_time": 1757143221,
+      "rank": 48,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 85684,
       "num": 99711,
       "word": "iPhone17系列终极爆料",
@@ -13313,6 +13401,14 @@
       "onboard_time": 1756974983,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84637,
+      "num": 84637,
+      "word": "张晚意对那英说来吧孩儿",
+      "onboard_time": 1757141360,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 84632,
@@ -14531,6 +14627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65545,
+      "num": 99224,
+      "word": "随爷爷砍竹子失踪5岁男童仍未找到",
+      "onboard_time": 1757142081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65469,
       "num": 65469,
       "word": "石宇奇世锦赛后发文",
@@ -15475,6 +15579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 38800,
+      "num": 240267,
+      "word": "王一博得宝品位时空之旅",
+      "onboard_time": 1757142261,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38429,
       "num": 38429,
       "word": "军旗",
@@ -15985,6 +16097,14 @@
       "onboard_time": 1757007497,
       "rank": 46,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 24544,
+      "num": 99493,
+      "word": "当老师的瘾怎么能这么大",
+      "onboard_time": 1757142920,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 24204,

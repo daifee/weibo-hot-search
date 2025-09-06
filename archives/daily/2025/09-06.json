@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757141084862,
+  "endTime": 1757143292450,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -99,12 +99,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 758465,
+      "raw_hot": 783754,
       "num": 360634,
       "word": "幼儿误吞电池10小时致终身残疾",
       "onboard_time": 1757138902,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 757791,
+      "num": 265217,
+      "word": "姜潮麦迪娜孩子颜值",
+      "onboard_time": 1757140102,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 741647,
@@ -139,12 +147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 612271,
+      "num": 612271,
+      "word": "丝瓜汤",
+      "onboard_time": 1757139081,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 608110,
       "num": 608110,
       "word": "耿爽说美国不受欢迎",
       "onboard_time": 1757125220,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 586459,
+      "num": 273472,
+      "word": "难怪别人怀疑熹贵妃的肚子",
+      "onboard_time": 1757139081,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 570087,
@@ -203,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 492927,
-      "num": 273472,
-      "word": "难怪别人怀疑熹贵妃的肚子",
-      "onboard_time": 1757139081,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 478826,
       "num": 478826,
       "word": "中级会计",
@@ -241,6 +257,14 @@
       "onboard_time": 1757083463,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463218,
+      "num": 242975,
+      "word": "昀牵孟绕",
+      "onboard_time": 1757140521,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 459505,
@@ -427,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305670,
-      "num": 265217,
-      "word": "姜潮麦迪娜孩子颜值",
-      "onboard_time": 1757140102,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 304285,
+      "num": 235607,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1757139560,
+      "rank": 33,
+      "category": "情感,科学科普"
     },
     {
       "raw_hot": 300826,
@@ -448,6 +472,14 @@
       "word": "侵华日军疯狂屠杀三天制造厂窖惨案",
       "onboard_time": 1757088921,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 298598,
+      "num": 298598,
+      "word": "阅兵重播",
+      "onboard_time": 1757139861,
+      "rank": 43,
       "category": "国内时政"
     },
     {
@@ -523,14 +555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 263197,
-      "num": 263197,
-      "word": "丝瓜汤",
-      "onboard_time": 1757139081,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 255897,
       "num": 255897,
       "word": "Angelababy早期美版VOGUE封面",
@@ -587,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242189,
+      "num": 242189,
+      "word": "他们一定看到了",
+      "onboard_time": 1757141181,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 241990,
       "num": 241990,
       "word": "爱奇艺9月至12月排播",
@@ -601,6 +633,14 @@
       "onboard_time": 1757079262,
       "rank": 25,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 238793,
+      "num": 238793,
+      "word": "向太最好的闺蜜是菲佣",
+      "onboard_time": 1757141121,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 237174,
@@ -659,14 +699,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211520,
-      "num": 211520,
-      "word": "建议女生洗完头不要包头发",
-      "onboard_time": 1757139560,
-      "rank": 33,
-      "category": "情感,科学科普"
-    },
-    {
       "raw_hot": 210415,
       "num": 210415,
       "word": "双休8千单休1万选哪个",
@@ -699,20 +731,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 197670,
-      "num": 197670,
-      "word": "昀牵孟绕",
-      "onboard_time": 1757140521,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196777,
       "num": 200979,
       "word": "这还是我认识的那个沈梦辰吗",
       "onboard_time": 1757128641,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193245,
+      "num": 193245,
+      "word": "中国小孩语出惊人火爆外网",
+      "onboard_time": 1757141541,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191347,
@@ -729,6 +761,14 @@
       "onboard_time": 1757137162,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184696,
+      "num": 184696,
+      "word": "LPL",
+      "onboard_time": 1757142261,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 182300,
@@ -753,6 +793,14 @@
       "onboard_time": 1757129059,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 178755,
+      "num": 178755,
+      "word": "沐言和男同学吵架动手",
+      "onboard_time": 1757141541,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 177582,
@@ -843,6 +891,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 161673,
+      "num": 161673,
+      "word": "王俊凯还在穿6年前的衣服",
+      "onboard_time": 1757141420,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159668,
       "num": 159668,
       "word": "孙燕姿老公获奖发文感谢老婆孩子",
@@ -873,14 +929,6 @@
       "onboard_time": 1757130922,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154857,
-      "num": 186336,
-      "word": "阅兵重播",
-      "onboard_time": 1757139861,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154309,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1757075361,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 140509,
+      "num": 140509,
+      "word": "全国肥胖率分布地图出炉",
+      "onboard_time": 1757142440,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140197,
@@ -1363,6 +1419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 112758,
+      "num": 112758,
+      "word": "阅兵鸽飞到了河南",
+      "onboard_time": 1757142802,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111772,
       "num": 111772,
       "word": "杭州通报酒馆营销活动涉嫌擦边",
@@ -1451,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99122,
+      "num": 99122,
+      "word": "马思纯 古早白月光",
+      "onboard_time": 1757141841,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99105,
       "num": 187315,
       "word": "你好星期六",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1757083163,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96056,
+      "num": 96056,
+      "word": "苏新皓考核大魔王名不虚传",
+      "onboard_time": 1757142741,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 95741,
@@ -1579,12 +1659,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85933,
+      "num": 85933,
+      "word": "汪顺演我看阅兵",
+      "onboard_time": 1757143221,
+      "rank": 48,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 85219,
       "num": 85219,
       "word": "外媒酸中国装备没实战翻车",
       "onboard_time": 1757060962,
       "rank": 39,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 84637,
+      "num": 84637,
+      "word": "张晚意对那英说来吧孩儿",
+      "onboard_time": 1757141360,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 84342,
@@ -1723,6 +1819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 65545,
+      "num": 99224,
+      "word": "随爷爷砍竹子失踪5岁男童仍未找到",
+      "onboard_time": 1757142081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56531,
       "num": 144274,
       "word": "加拿大讨论用中国电动车换油菜籽",
@@ -1811,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38800,
+      "num": 240267,
+      "word": "王一博得宝品位时空之旅",
+      "onboard_time": 1757142261,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37073,
       "num": 323248,
       "word": "为什么年轻人爱上给古人扫墓",
@@ -1881,6 +1993,14 @@
       "onboard_time": 1757080342,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24544,
+      "num": 99493,
+      "word": "当老师的瘾怎么能这么大",
+      "onboard_time": 1757142920,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 24204,
