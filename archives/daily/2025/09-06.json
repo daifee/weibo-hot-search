@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757150542430,
+  "endTime": 1757151393716,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1039150,
-      "num": 1166264,
+      "raw_hot": 1132888,
+      "num": 1181262,
       "word": "丝瓜汤",
       "onboard_time": 1757139081,
       "rank": 17,
@@ -91,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 893970,
+      "num": 893970,
+      "word": "王琳首次公开第一段失败婚姻",
+      "onboard_time": 1757146282,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 887771,
       "num": 362852,
       "word": "田一名官宣恋情",
@@ -115,15 +123,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 832466,
-      "num": 832466,
-      "word": "王琳首次公开第一段失败婚姻",
-      "onboard_time": 1757146282,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 788641,
+      "raw_hot": 793926,
       "num": 428789,
       "word": "顶流官宣恋爱28年没be",
       "onboard_time": 1757144000,
@@ -145,6 +145,14 @@
       "onboard_time": 1757130501,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 731245,
+      "num": 731245,
+      "word": "花少第四期封神",
+      "onboard_time": 1757147661,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 707803,
@@ -179,20 +187,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 650152,
+      "num": 650152,
+      "word": "巴西亿万富豪将全部遗产赠予内马尔",
+      "onboard_time": 1757148022,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 608110,
       "num": 608110,
       "word": "耿爽说美国不受欢迎",
       "onboard_time": 1757125220,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 598180,
-      "num": 598180,
-      "word": "巴西亿万富豪将全部遗产赠予内马尔",
-      "onboard_time": 1757148022,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 586459,
@@ -203,12 +211,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 576613,
-      "num": 576613,
-      "word": "花少第四期封神",
-      "onboard_time": 1757147661,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 572473,
+      "num": 572473,
+      "word": "单休违法吗",
+      "onboard_time": 1757148622,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 570087,
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516866,
+      "num": 516866,
+      "word": "厦门健身房教练被两名女子当众掌掴",
+      "onboard_time": 1757147962,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511801,
       "num": 511801,
       "word": "泰版三十而已林有有",
@@ -281,14 +297,6 @@
       "onboard_time": 1757141541,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 481664,
-      "num": 481664,
-      "word": "厦门健身房教练被两名女子当众掌掴",
-      "onboard_time": 1757147962,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 478826,
@@ -369,6 +377,14 @@
       "onboard_time": 1757133741,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 439346,
+      "num": 439346,
+      "word": "李维嘉回应张杰谢娜谁追的谁",
+      "onboard_time": 1757149641,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 431922,
@@ -531,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327188,
-      "num": 327188,
-      "word": "单休违法吗",
-      "onboard_time": 1757148622,
-      "rank": 13,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 317898,
       "num": 317898,
       "word": "唐香玉上恋综的段子成真了",
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293489,
+      "num": 293489,
+      "word": "菲防长再次抹黑中国",
+      "onboard_time": 1757147781,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 292246,
       "num": 292246,
       "word": "恋与深空",
@@ -641,22 +657,6 @@
       "onboard_time": 1757142440,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277675,
-      "num": 277675,
-      "word": "李维嘉回应张杰谢娜谁追的谁",
-      "onboard_time": 1757149641,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 277263,
-      "num": 277263,
-      "word": "菲防长再次抹黑中国",
-      "onboard_time": 1757147781,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 267429,
@@ -801,6 +801,14 @@
       "onboard_time": 1757148141,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 227263,
+      "num": 277438,
+      "word": "校方回应19岁男生被室友用锐器捅死",
+      "onboard_time": 1757149941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227074,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 173527,
-      "num": 173527,
+      "num": 803648,
       "word": "战旗方队第1排的铁锤子有多牛",
       "onboard_time": 1757123841,
       "rank": 28,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1757136622,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167571,
+      "num": 167571,
+      "word": "迪丽热巴白裙现身",
+      "onboard_time": 1757149161,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 167119,
@@ -1035,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158201,
+      "num": 158201,
+      "word": "曝男明星把甲方样机卖了",
+      "onboard_time": 1757150781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157685,
       "num": 168211,
       "word": "朱珠 剧本好的话演女八号都行",
@@ -1059,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155152,
-      "num": 155152,
-      "word": "迪丽热巴白裙现身",
-      "onboard_time": 1757149161,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154309,
       "num": 154309,
       "word": "迪丽热巴在剧组会亲自下厨",
@@ -1083,12 +1099,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152979,
+      "num": 139124,
+      "word": "校方通报两名学生冲突致一人身亡",
+      "onboard_time": 1757151142,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152972,
       "num": 152972,
       "word": "36岁靠200万利息提前退休",
       "onboard_time": 1757133442,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151440,
+      "num": 151440,
+      "word": "刘宇宁一个人打六份工",
+      "onboard_time": 1757150421,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 150993,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1757133142,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149757,
+      "num": 230090,
+      "word": "武汉大学椅子事件通报",
+      "onboard_time": 1757150901,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149453,
@@ -1235,6 +1275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 140710,
+      "num": 140710,
+      "word": "江祖平自曝遭下药性侵男方发声",
+      "onboard_time": 1757150781,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140197,
       "num": 140197,
       "word": "蔡徐坤自拍",
@@ -1267,6 +1315,14 @@
       "category": "议题讨论,电影"
     },
     {
+      "raw_hot": 137042,
+      "num": 137042,
+      "word": "成都震感",
+      "onboard_time": 1757149941,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136937,
       "num": 136937,
       "word": "iPhone17Pro灵动岛或缩短25%",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1757121681,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135414,
+      "num": 135414,
+      "word": "晚上10点睡和11点睡的区别",
+      "onboard_time": 1757150302,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135374,
@@ -1345,6 +1409,14 @@
       "onboard_time": 1757137581,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130428,
+      "num": 130428,
+      "word": "特朗普破防称好像把俄印输给了中国",
+      "onboard_time": 1757147181,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129800,
@@ -1403,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128030,
-      "num": 128030,
-      "word": "成都震感",
-      "onboard_time": 1757149941,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127687,
       "num": 127687,
       "word": "离了易烊千玺谁还把我当小孩",
@@ -1467,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122531,
+      "num": 430850,
+      "word": "希望菲律宾防长能睁眼看世界",
+      "onboard_time": 1757147422,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122248,
       "num": 122248,
       "word": "以闪亮之名",
@@ -1499,12 +1571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120352,
-      "num": 120352,
-      "word": "特朗普破防称好像把俄印输给了中国",
-      "onboard_time": 1757147181,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 119194,
+      "num": 119194,
+      "word": "胡锡进评武大椅子事件",
+      "onboard_time": 1757150961,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119154,
@@ -1577,6 +1649,22 @@
       "onboard_time": 1757138061,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115768,
+      "num": 115768,
+      "word": "郭帆回应白改了",
+      "onboard_time": 1757151262,
+      "rank": 39,
+      "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 115363,
+      "num": 115363,
+      "word": "很难做到王石的极简生活",
+      "onboard_time": 1757151020,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 114747,
@@ -1811,12 +1899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99781,
+      "num": 99781,
+      "word": "法国街头的印度人",
+      "onboard_time": 1757151321,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99636,
       "num": 99636,
       "word": "九紫璃光妆开运了",
       "onboard_time": 1757146041,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 99362,
+      "num": 99362,
+      "word": "土耳其女排vs日本女排",
+      "onboard_time": 1757150781,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 99122,
@@ -1849,14 +1953,6 @@
       "onboard_time": 1757122941,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98947,
-      "num": 98947,
-      "word": "刘宇宁一个人打六份工",
-      "onboard_time": 1757150421,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 98570,
@@ -2075,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78705,
+      "num": 138353,
+      "word": "九三纪念短片我们的胜利日",
+      "onboard_time": 1757150302,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76754,
       "num": 99493,
       "word": "当老师的瘾怎么能这么大",
@@ -2161,14 +2265,6 @@
       "onboard_time": 1757085143,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67978,
-      "num": 430850,
-      "word": "希望菲律宾防长能睁眼看世界",
-      "onboard_time": 1757147422,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67723,
@@ -2355,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36502,
+      "num": 115505,
+      "word": "德牧主人不栓绳反口出狂言",
+      "onboard_time": 1757151321,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36161,
       "num": 38166,
       "word": "怪不得说东北人干啥都大大方方的",
@@ -2409,14 +2513,6 @@
       "onboard_time": 1757144122,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 28709,
-      "num": 277438,
-      "word": "校方回应19岁男生被室友用锐器捅死",
-      "onboard_time": 1757149941,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27489,
@@ -2524,7 +2620,7 @@
     },
     {
       "raw_hot": 14020,
-      "num": 35540,
+      "num": 138220,
       "word": "这组壁纸安全感满满",
       "onboard_time": 1757099654,
       "rank": 15,
