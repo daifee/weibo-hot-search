@@ -1,0 +1,410 @@
+{
+  "runTime": 1757144207461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 768580,
+        "num": 1122972,
+        "word": "丝瓜汤",
+        "onboard_time": 1757139081,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 707803,
+        "num": 707803,
+        "word": "田一名否认恋情",
+        "onboard_time": 1757136141,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21353,
+        "num": 690595,
+        "word": "致敬阅兵仪式背后的每个人",
+        "onboard_time": 1757085863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 683428,
+        "num": 683428,
+        "word": "张维伊婚礼给去世父母留了座位",
+        "onboard_time": 1757134881,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595879,
+        "num": 595879,
+        "word": "中元节",
+        "onboard_time": 1757116518,
+        "rank": 4,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 359674,
+        "num": 359674,
+        "word": "阅兵重播",
+        "onboard_time": 1757139861,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 338146,
+        "num": 338146,
+        "word": "易会满涉嫌严重违纪违法",
+        "onboard_time": 1757128521,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303498,
+        "num": 303498,
+        "word": "中元节血月",
+        "onboard_time": 1757134402,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220526,
+        "num": 220526,
+        "word": "中方同意加入纽约宣言",
+        "onboard_time": 1757120300,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212075,
+        "num": 212075,
+        "word": "张杰说谢娜妈妈像赵雅芝",
+        "onboard_time": 1757136322,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 846379,
+        "num": 211411,
+        "word": "姜潮麦迪娜孩子颜值",
+        "onboard_time": 1757140102,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714473,
+        "num": 210107,
+        "word": "幼儿误吞电池10小时致终身残疾",
+        "onboard_time": 1757138902,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423175,
+        "num": 209122,
+        "word": "昀牵孟绕",
+        "onboard_time": 1757140521,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393857,
+        "num": 208017,
+        "word": "难怪别人怀疑熹贵妃的肚子",
+        "onboard_time": 1757139081,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375378,
+        "num": 207337,
+        "word": "向太最好的闺蜜是菲佣",
+        "onboard_time": 1757141121,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293541,
+        "num": 205579,
+        "word": "锤娜丽莎半年瘦20斤",
+        "onboard_time": 1757135421,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205305,
+        "num": 205305,
+        "word": "中级经济法",
+        "onboard_time": 1757143460,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167614,
+        "num": 203082,
+        "word": "董璇说不会把钱都给张维伊",
+        "onboard_time": 1757134522,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203040,
+        "num": 203040,
+        "word": "他们一定看到了",
+        "onboard_time": 1757141181,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26323,
+        "num": 199057,
+        "word": "王一博得宝品位时空之旅",
+        "onboard_time": 1757142261,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335667,
+        "num": 199013,
+        "word": "沐言和男同学吵架动手",
+        "onboard_time": 1757141541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271417,
+        "num": 198973,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1757139560,
+        "rank": 21,
+        "category": "情感,科学科普"
+      },
+      {
+        "raw_hot": 198877,
+        "num": 198877,
+        "word": "厦门航空一航班起飞滑行时急刹中断",
+        "onboard_time": 1757137162,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187733,
+        "num": 187733,
+        "word": "韩国议员观看阅兵后责备尹锡悦",
+        "onboard_time": 1757136742,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178899,
+        "num": 178899,
+        "word": "全国肥胖率分布地图出炉",
+        "onboard_time": 1757142440,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174039,
+        "num": 174039,
+        "word": "歼20模型销量暴涨175%",
+        "onboard_time": 1757125041,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160515,
+        "num": 160515,
+        "word": "LPL",
+        "onboard_time": 1757142261,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159397,
+        "num": 159397,
+        "word": "赴山海",
+        "onboard_time": 1757139322,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144228,
+        "num": 156209,
+        "word": "金靖戴着龚俊来西班牙了",
+        "onboard_time": 1757143400,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54296,
+        "num": 155186,
+        "word": "特朗普为硅谷大佬们办了一场鸿门宴",
+        "onboard_time": 1757144000,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52796,
+        "num": 155086,
+        "word": "厦航一架飞往杭州航班跑道中断起飞",
+        "onboard_time": 1757144000,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155075,
+        "num": 155075,
+        "word": "中国小孩语出惊人火爆外网",
+        "onboard_time": 1757141541,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151034,
+        "num": 151034,
+        "word": "王俊凯还在穿6年前的衣服",
+        "onboard_time": 1757141420,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141788,
+        "num": 141788,
+        "word": "我国规划撞击一颗小行星",
+        "onboard_time": 1757118079,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141163,
+        "num": 141163,
+        "word": "顶流官宣恋爱28年没be",
+        "onboard_time": 1757144000,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138856,
+        "num": 138856,
+        "word": "淘宝闪购",
+        "onboard_time": 1757130501,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134368,
+        "num": 134368,
+        "word": "近期大家手机屏幕太统一",
+        "onboard_time": 1757138541,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127687,
+        "num": 127687,
+        "word": "离了易烊千玺谁还把我当小孩",
+        "onboard_time": 1757143520,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118571,
+        "num": 118571,
+        "word": "王琳王子文是相亲节目认识的",
+        "onboard_time": 1757143281,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29201,
+        "num": 114806,
+        "word": "Vogue化妆间的刘亦菲",
+        "onboard_time": 1757144122,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122288,
+        "num": 114711,
+        "word": "只有刘亦菲在回望五年前",
+        "onboard_time": 1757140342,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114131,
+        "num": 114131,
+        "word": "阅兵鸽飞到了河南",
+        "onboard_time": 1757142802,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113891,
+        "num": 113891,
+        "word": "iPhone17PM对比16PM",
+        "onboard_time": 1757138541,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113570,
+        "num": 113570,
+        "word": "刚入职就吃上了前同事留下的瓜",
+        "onboard_time": 1757138002,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100304,
+        "num": 100304,
+        "word": "井迪早餐太丰富",
+        "onboard_time": 1757143400,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97879,
+        "num": 97879,
+        "word": "Metal杂志",
+        "onboard_time": 1757130622,
+        "rank": 45,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 92642,
+        "num": 92642,
+        "word": "孟子义尚公主不基础妆造更不基础",
+        "onboard_time": 1757133261,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90067,
+        "num": 90067,
+        "word": "降薪和拿赔偿走人二选一",
+        "onboard_time": 1757143642,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76754,
+        "num": 89841,
+        "word": "当老师的瘾怎么能这么大",
+        "onboard_time": 1757142920,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89699,
+        "num": 89699,
+        "word": "桃黑黑回应嗦面",
+        "onboard_time": 1757143702,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#双手相握里有家国民族之重#"
+    }
+  }
+}

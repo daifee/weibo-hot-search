@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757143292450,
+  "endTime": 1757144207461,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 846379,
+      "num": 265217,
+      "word": "姜潮麦迪娜孩子颜值",
+      "onboard_time": 1757140102,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 783754,
       "num": 360634,
       "word": "幼儿误吞电池10小时致终身残疾",
@@ -107,12 +115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 757791,
-      "num": 265217,
-      "word": "姜潮麦迪娜孩子颜值",
-      "onboard_time": 1757140102,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 768580,
+      "num": 1122972,
+      "word": "丝瓜汤",
+      "onboard_time": 1757139081,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 741647,
@@ -121,6 +129,14 @@
       "onboard_time": 1757130501,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 707803,
+      "num": 707803,
+      "word": "田一名否认恋情",
+      "onboard_time": 1757136141,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 678528,
@@ -145,14 +161,6 @@
       "onboard_time": 1757122580,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 612271,
-      "num": 612271,
-      "word": "丝瓜汤",
-      "onboard_time": 1757139081,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 608110,
@@ -347,6 +355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 375378,
+      "num": 238793,
+      "word": "向太最好的闺蜜是菲佣",
+      "onboard_time": 1757141121,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372509,
       "num": 448958,
       "word": "关晓彤竟然还有庄筱婷林栋哲售后",
@@ -379,6 +395,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 359674,
+      "num": 359674,
+      "word": "阅兵重播",
+      "onboard_time": 1757139861,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 349283,
       "num": 349283,
       "word": "东风五号首任总师说让别人不敢碰我们",
@@ -409,6 +433,14 @@
       "onboard_time": 1757083463,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 335667,
+      "num": 199013,
+      "word": "沐言和男同学吵架动手",
+      "onboard_time": 1757141541,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 331818,
@@ -472,14 +504,6 @@
       "word": "侵华日军疯狂屠杀三天制造厂窖惨案",
       "onboard_time": 1757088921,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 298598,
-      "num": 298598,
-      "word": "阅兵重播",
-      "onboard_time": 1757139861,
-      "rank": 43,
       "category": "国内时政"
     },
     {
@@ -635,14 +659,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 238793,
-      "num": 238793,
-      "word": "向太最好的闺蜜是菲佣",
-      "onboard_time": 1757141121,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237174,
       "num": 237174,
       "word": "林孝埈刘少昂碰撞摔倒",
@@ -715,12 +731,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205305,
+      "num": 205305,
+      "word": "中级经济法",
+      "onboard_time": 1757143460,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 199313,
       "num": 275993,
       "word": "杨紫家业预排播12月",
       "onboard_time": 1757132422,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198877,
+      "num": 275610,
+      "word": "厦门航空一航班起飞滑行时急刹中断",
+      "onboard_time": 1757137162,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198839,
@@ -755,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190456,
-      "num": 275610,
-      "word": "厦门航空一航班起飞滑行时急刹中断",
-      "onboard_time": 1757137162,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184696,
       "num": 184696,
       "word": "LPL",
@@ -795,12 +819,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 178755,
-      "num": 178755,
-      "word": "沐言和男同学吵架动手",
-      "onboard_time": 1757141541,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 178899,
+      "num": 178899,
+      "word": "全国肥胖率分布地图出炉",
+      "onboard_time": 1757142440,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177582,
@@ -1019,6 +1043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 144228,
+      "num": 156209,
+      "word": "金靖戴着龚俊来西班牙了",
+      "onboard_time": 1757143400,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143592,
       "num": 240900,
       "word": "辛芷蕾香奈儿高定",
@@ -1059,20 +1091,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141163,
+      "num": 141163,
+      "word": "顶流官宣恋爱28年没be",
+      "onboard_time": 1757144000,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140937,
       "num": 142677,
       "word": "杨幂热巴说马思纯瘦了",
       "onboard_time": 1757075361,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 140509,
-      "num": 140509,
-      "word": "全国肥胖率分布地图出炉",
-      "onboard_time": 1757142440,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140197,
@@ -1235,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127687,
+      "num": 127687,
+      "word": "离了易烊千玺谁还把我当小孩",
+      "onboard_time": 1757143520,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126656,
       "num": 126656,
       "word": "闫妮被知否名台词整没招了",
@@ -1315,6 +1355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118571,
+      "num": 118571,
+      "word": "王琳王子文是相亲节目认识的",
+      "onboard_time": 1757143281,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118277,
       "num": 118277,
       "word": "R1SE美美出游一个劲的晕船",
@@ -1379,6 +1427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114131,
+      "num": 114131,
+      "word": "阅兵鸽飞到了河南",
+      "onboard_time": 1757142802,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113870,
       "num": 182774,
       "word": "秋天开启五彩斑斓模式",
@@ -1417,14 +1473,6 @@
       "onboard_time": 1757114478,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 112758,
-      "num": 112758,
-      "word": "阅兵鸽飞到了河南",
-      "onboard_time": 1757142802,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111772,
@@ -1504,6 +1552,14 @@
       "word": "闫妮宋亚轩 微醺姐和淡定哥",
       "onboard_time": 1757130202,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100304,
+      "num": 100304,
+      "word": "井迪早餐太丰富",
+      "onboard_time": 1757143400,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1635,6 +1691,22 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 90067,
+      "num": 90067,
+      "word": "降薪和拿赔偿走人二选一",
+      "onboard_time": 1757143642,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 89699,
+      "num": 89699,
+      "word": "桃黑黑回应嗦面",
+      "onboard_time": 1757143702,
+      "rank": 49,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 88266,
       "num": 88266,
       "word": "上海月租1500的房子",
@@ -1721,6 +1793,14 @@
       "onboard_time": 1757120542,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76754,
+      "num": 99493,
+      "word": "当老师的瘾怎么能这么大",
+      "onboard_time": 1757142920,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 74938,
@@ -1843,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54296,
+      "num": 155186,
+      "word": "特朗普为硅谷大佬们办了一场鸿门宴",
+      "onboard_time": 1757144000,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 54189,
       "num": 54189,
       "word": "阿尔卡拉斯重返美网决赛",
@@ -1873,6 +1961,14 @@
       "onboard_time": 1757136860,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52796,
+      "num": 155086,
+      "word": "厦航一架飞往杭州航班跑道中断起飞",
+      "onboard_time": 1757144000,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49930,
@@ -1979,8 +2075,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29201,
+      "num": 114806,
+      "word": "Vogue化妆间的刘亦菲",
+      "onboard_time": 1757144122,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 27489,
-      "num": 595976,
+      "num": 690595,
       "word": "致敬阅兵仪式背后的每个人",
       "onboard_time": 1757085863,
       "rank": 2,
@@ -1993,14 +2097,6 @@
       "onboard_time": 1757080342,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24544,
-      "num": 99493,
-      "word": "当老师的瘾怎么能这么大",
-      "onboard_time": 1757142920,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 24204,
