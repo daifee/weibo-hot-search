@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757157536016,
+  "endTime": 1757158608950,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -65,6 +65,14 @@
       "onboard_time": 1757134881,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1237778,
+      "num": 1237778,
+      "word": "月全食",
+      "onboard_time": 1757155101,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1132888,
@@ -179,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 709196,
-      "num": 1113471,
-      "word": "月全食",
-      "onboard_time": 1757155101,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 707803,
       "num": 707803,
       "word": "田一名否认恋情",
@@ -195,11 +195,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 680058,
+      "num": 680058,
+      "word": "特朗普误将美国国旗当毯子",
+      "onboard_time": 1757156242,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 678528,
       "num": 448563,
       "word": "方家翊瘦了70斤撞脸米卡",
       "onboard_time": 1757128039,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 674364,
+      "num": 312283,
+      "word": "王鹤棣你的委屈我后知后觉",
+      "onboard_time": 1757156182,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -355,11 +371,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 473299,
-      "num": 312283,
-      "word": "王鹤棣你的委屈我后知后觉",
-      "onboard_time": 1757156182,
-      "rank": 12,
+      "raw_hot": 472153,
+      "num": 297207,
+      "word": "易烊千玺被广播催促登机",
+      "onboard_time": 1757155881,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -441,6 +457,14 @@
       "onboard_time": 1757155760,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 396573,
+      "num": 333924,
+      "word": "陈数的丑衣服都没白带",
+      "onboard_time": 1757154621,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 391769,
@@ -539,12 +563,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 344593,
-      "num": 344593,
-      "word": "特朗普误将美国国旗当毯子",
-      "onboard_time": 1757156242,
-      "rank": 7,
-      "category": "国际时政"
+      "raw_hot": 343762,
+      "num": 343762,
+      "word": "赴山海爆炸式宣发",
+      "onboard_time": 1757156541,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 341824,
@@ -571,28 +595,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 336560,
-      "num": 297207,
-      "word": "易烊千玺被广播催促登机",
-      "onboard_time": 1757155881,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335776,
       "num": 142423,
       "word": "辛芷蕾胸前好大一朵玫瑰",
       "onboard_time": 1757083463,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 333924,
-      "num": 333924,
-      "word": "陈数的丑衣服都没白带",
-      "onboard_time": 1757154621,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 332396,
@@ -947,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212262,
+      "num": 183225,
+      "word": "阅兵当天才知道自己做的包去哪儿了",
+      "onboard_time": 1757153902,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 210415,
       "num": 210415,
       "word": "双休8千单休1万选哪个",
@@ -963,7 +979,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205052,
+      "raw_hot": 208596,
       "num": 205052,
       "word": "无锡连云港八强争夺战",
       "onboard_time": 1757157321,
@@ -971,12 +987,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203392,
-      "num": 286507,
-      "word": "赴山海爆炸式宣发",
-      "onboard_time": 1757156541,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 201821,
+      "num": 284344,
+      "word": "一路繁花2",
+      "onboard_time": 1757156000,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201429,
+      "num": 201429,
+      "word": "九三阅兵纪念短片",
+      "onboard_time": 1757154561,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199313,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1757142261,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183225,
-      "num": 183225,
-      "word": "阅兵当天才知道自己做的包去哪儿了",
-      "onboard_time": 1757153902,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 182300,
@@ -1120,14 +1136,6 @@
       "word": "战旗方队第1排的铁锤子有多牛",
       "onboard_time": 1757123841,
       "rank": 28,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 172734,
-      "num": 172734,
-      "word": "九三阅兵纪念短片",
-      "onboard_time": 1757154561,
-      "rank": 31,
       "category": "国内时政"
     },
     {
@@ -1243,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155721,
+      "num": 169540,
+      "word": "宋轶直播",
+      "onboard_time": 1757157321,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154309,
       "num": 154309,
       "word": "迪丽热巴在剧组会亲自下厨",
@@ -1315,14 +1331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148801,
-      "num": 284344,
-      "word": "一路繁花2",
-      "onboard_time": 1757156000,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148068,
       "num": 148068,
       "word": "王力宏都天王了应该很沉稳吧",
@@ -1355,12 +1363,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145834,
+      "num": 145834,
+      "word": "章昊扣子爆开了",
+      "onboard_time": 1757158462,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145688,
       "num": 193760,
       "word": "董璇你来看看什么叫真感情",
       "onboard_time": 1757139801,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145464,
+      "num": 145464,
+      "word": "陈飞宇素颜帅成啥样了",
+      "onboard_time": 1757158344,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 145449,
@@ -1475,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139697,
+      "num": 139697,
+      "word": "王楚钦蛐蛐林诗栋发型",
+      "onboard_time": 1757157742,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139304,
       "num": 139304,
       "word": "月亮",
@@ -1497,6 +1529,14 @@
       "onboard_time": 1757136801,
       "rank": 42,
       "category": "议题讨论,电影"
+    },
+    {
+      "raw_hot": 137235,
+      "num": 137235,
+      "word": "湿气一旦排出减肥是很快的",
+      "onboard_time": 1757157501,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136937,
@@ -1555,6 +1595,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 134565,
+      "num": 169639,
+      "word": "鹿晗把送粉丝的拍立得弄丢了",
+      "onboard_time": 1757158161,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134430,
       "num": 185440,
       "word": "朱志鑫 银发道明寺",
@@ -1579,12 +1627,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 132848,
+      "num": 132848,
+      "word": "美国政客因中国集体焦虑",
+      "onboard_time": 1757155041,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132733,
       "num": 132733,
       "word": "坚持走和平发展道路",
       "onboard_time": 1757137581,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130749,
+      "num": 130749,
+      "word": "诚C联赛2600淘汰",
+      "onboard_time": 1757158462,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 130428,
@@ -1673,14 +1737,6 @@
       "onboard_time": 1757131641,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126559,
-      "num": 126559,
-      "word": "美国政客因中国集体焦虑",
-      "onboard_time": 1757155041,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125499,
@@ -1987,6 +2043,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108836,
+      "num": 108836,
+      "word": "苏超南京vs徐州",
+      "onboard_time": 1757158222,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108610,
+      "num": 135960,
+      "word": "日本前首相出席阅兵被批评",
+      "onboard_time": 1757157802,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108543,
       "num": 108543,
       "word": "一个人最好有三种爱好",
@@ -2041,6 +2113,14 @@
       "onboard_time": 1757127560,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103297,
+      "num": 103297,
+      "word": "五角大楼拆掉国防部的名字",
+      "onboard_time": 1757154800,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103224,
@@ -2105,14 +2185,6 @@
       "onboard_time": 1757130202,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100859,
-      "num": 100859,
-      "word": "宋轶直播",
-      "onboard_time": 1757157321,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 100504,
@@ -2201,14 +2273,6 @@
       "onboard_time": 1757122941,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98682,
-      "num": 98682,
-      "word": "湿气一旦排出减肥是很快的",
-      "onboard_time": 1757157501,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 98570,
@@ -2681,6 +2745,14 @@
       "onboard_time": 1757136860,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53413,
+      "num": 135542,
+      "word": "闪婚妻子隐瞒10年精神病史",
+      "onboard_time": 1757158102,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53042,

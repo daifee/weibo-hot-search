@@ -1,0 +1,410 @@
+{
+  "runTime": 1757158608950,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1237778,
+        "num": 1237778,
+        "word": "月全食",
+        "onboard_time": 1757155101,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680058,
+        "num": 680058,
+        "word": "特朗普误将美国国旗当毯子",
+        "onboard_time": 1757156242,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31841,
+        "num": 623101,
+        "word": "战旗方队第1排的铁锤子有多牛",
+        "onboard_time": 1757123841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 601531,
+        "num": 601531,
+        "word": "中元节",
+        "onboard_time": 1757116518,
+        "rank": 3,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 389056,
+        "num": 389056,
+        "word": "巴西亿万富豪将全部遗产赠予内马尔",
+        "onboard_time": 1757148022,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 367815,
+        "num": 367815,
+        "word": "中元节血月",
+        "onboard_time": 1757134402,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343762,
+        "num": 343762,
+        "word": "赴山海爆炸式宣发",
+        "onboard_time": 1757156541,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247295,
+        "num": 247295,
+        "word": "单休违法吗",
+        "onboard_time": 1757148622,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 201821,
+        "num": 201821,
+        "word": "一路繁花2",
+        "onboard_time": 1757156000,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208596,
+        "num": 201780,
+        "word": "无锡连云港八强争夺战",
+        "onboard_time": 1757157321,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 795376,
+        "num": 201771,
+        "word": "曝男明星把甲方样机卖了",
+        "onboard_time": 1757150781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674364,
+        "num": 201732,
+        "word": "王鹤棣你的委屈我后知后觉",
+        "onboard_time": 1757156182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522741,
+        "num": 201670,
+        "word": "遭老板性侵女子称113万不能弥补损失",
+        "onboard_time": 1757152103,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472153,
+        "num": 201635,
+        "word": "易烊千玺被广播催促登机",
+        "onboard_time": 1757155881,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415523,
+        "num": 201589,
+        "word": "顶流官宣恋爱28年没be",
+        "onboard_time": 1757144000,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396573,
+        "num": 201528,
+        "word": "陈数的丑衣服都没白带",
+        "onboard_time": 1757154621,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355379,
+        "num": 201476,
+        "word": "成毅赴山海首日30w云包场",
+        "onboard_time": 1757155760,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259030,
+        "num": 201432,
+        "word": "李维嘉回应张杰谢娜谁追的谁",
+        "onboard_time": 1757149641,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201429,
+        "num": 201429,
+        "word": "九三阅兵纪念短片",
+        "onboard_time": 1757154561,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181268,
+        "num": 181268,
+        "word": "姜潮麦迪娜孩子颜值",
+        "onboard_time": 1757140102,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 889932,
+        "num": 180738,
+        "word": "丝瓜汤",
+        "onboard_time": 1757139081,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 463246,
+        "num": 178202,
+        "word": "张维伊婚礼给去世父母留了座位",
+        "onboard_time": 1757134881,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335306,
+        "num": 176633,
+        "word": "花少第四期封神",
+        "onboard_time": 1757147661,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213055,
+        "num": 174484,
+        "word": "郭帆回应白改了",
+        "onboard_time": 1757151262,
+        "rank": 23,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 212262,
+        "num": 172933,
+        "word": "阅兵当天才知道自己做的包去哪儿了",
+        "onboard_time": 1757153902,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195263,
+        "num": 170756,
+        "word": "张雅琪 我好想帮李沁说了",
+        "onboard_time": 1757156302,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170622,
+        "num": 170622,
+        "word": "幼儿误吞电池10小时致终身残疾",
+        "onboard_time": 1757138902,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134565,
+        "num": 169639,
+        "word": "鹿晗把送粉丝的拍立得弄丢了",
+        "onboard_time": 1757158161,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155721,
+        "num": 169540,
+        "word": "宋轶直播",
+        "onboard_time": 1757157321,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169460,
+        "num": 169460,
+        "word": "美政客担心中国登月会拔掉美国国旗",
+        "onboard_time": 1757155161,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166276,
+        "num": 166276,
+        "word": "成都震感",
+        "onboard_time": 1757149941,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145834,
+        "num": 145834,
+        "word": "章昊扣子爆开了",
+        "onboard_time": 1757158462,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145464,
+        "num": 145464,
+        "word": "陈飞宇素颜帅成啥样了",
+        "onboard_time": 1757158344,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144653,
+        "num": 144653,
+        "word": "专家称新款抗失眠药没有宿醉效应",
+        "onboard_time": 1757156361,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139697,
+        "num": 139697,
+        "word": "王楚钦蛐蛐林诗栋发型",
+        "onboard_time": 1757157742,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137590,
+        "num": 137590,
+        "word": "老人乱按电梯被年轻医生教育",
+        "onboard_time": 1757153181,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137235,
+        "num": 137235,
+        "word": "湿气一旦排出减肥是很快的",
+        "onboard_time": 1757157501,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108610,
+        "num": 135960,
+        "word": "日本前首相出席阅兵被批评",
+        "onboard_time": 1757157802,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53413,
+        "num": 135542,
+        "word": "闪婚妻子隐瞒10年精神病史",
+        "onboard_time": 1757158102,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135263,
+        "num": 135263,
+        "word": "厦门健身房教练被两名女子当众掌掴",
+        "onboard_time": 1757147962,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132848,
+        "num": 132848,
+        "word": "美国政客因中国集体焦虑",
+        "onboard_time": 1757155041,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116745,
+        "num": 130756,
+        "word": "月亮",
+        "onboard_time": 1757157261,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130749,
+        "num": 130749,
+        "word": "诚C联赛2600淘汰",
+        "onboard_time": 1757158462,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128390,
+        "num": 128390,
+        "word": "沐言和男同学吵架动手",
+        "onboard_time": 1757141541,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123486,
+        "num": 123486,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1757139560,
+        "rank": 44,
+        "category": "情感,科学科普"
+      },
+      {
+        "raw_hot": 121819,
+        "num": 121819,
+        "word": "涠洲岛卫生院回应游客沙滩捡到采血管",
+        "onboard_time": 1757155041,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118759,
+        "num": 118759,
+        "word": "鞠婧祎拍到了七彩祥云",
+        "onboard_time": 1757155461,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112381,
+        "num": 112381,
+        "word": "田栩宁Metal",
+        "onboard_time": 1757152461,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 108836,
+        "num": 108836,
+        "word": "苏超南京vs徐州",
+        "onboard_time": 1757158222,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103297,
+        "num": 103297,
+        "word": "五角大楼拆掉国防部的名字",
+        "onboard_time": 1757154800,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记胜利日讲话金句的启示#"
+    }
+  }
+}
