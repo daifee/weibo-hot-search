@@ -1,7 +1,15 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757184191082,
+  "endTime": 1757186284872,
   "band_list": [
+    {
+      "raw_hot": 1275516,
+      "num": 1275516,
+      "word": "辛芷蕾 威尼斯电影节",
+      "onboard_time": 1757162602,
+      "rank": 6,
+      "category": "电影"
+    },
     {
       "raw_hot": 1217927,
       "num": 255526,
@@ -9,14 +17,6 @@
       "onboard_time": 1757170584,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1154879,
-      "num": 1154879,
-      "word": "辛芷蕾 威尼斯电影节",
-      "onboard_time": 1757162602,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 1083260,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 432740,
+      "num": 267024,
+      "word": "赵涛评委",
+      "onboard_time": 1757174363,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 370629,
       "num": 370629,
       "word": "上海地铁9号线试点拆座椅增加空间",
@@ -97,14 +105,6 @@
       "onboard_time": 1757168185,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267024,
-      "num": 267024,
-      "word": "赵涛评委",
-      "onboard_time": 1757174363,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 264492,
@@ -411,20 +411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50768,
+      "num": 49698,
+      "word": "冯绍峰威尼斯眼镜造型",
+      "onboard_time": 1757180238,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49892,
       "num": 82118,
       "word": "中元节血月",
       "onboard_time": 1757134402,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49698,
-      "num": 49698,
-      "word": "冯绍峰威尼斯眼镜造型",
-      "onboard_time": 1757180238,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 49190,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39687,
+      "num": 39687,
+      "word": "四川2名消防员训练遇险失联",
+      "onboard_time": 1757183955,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36595,
       "num": 36595,
       "word": "狐妖小红娘王权篇祝李一桐生辰快乐",
@@ -483,12 +491,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26255,
-      "num": 26255,
-      "word": "四川2名消防员训练遇险失联",
-      "onboard_time": 1757183955,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 25718,
+      "num": 25718,
+      "word": "韩国外卖员月入1万5",
+      "onboard_time": 1757184916,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25678,
@@ -505,6 +513,14 @@
       "onboard_time": 1757173284,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17021,
+      "num": 27528,
+      "word": "重庆三峡学院中标公司被罚9000元",
+      "onboard_time": 1757184015,
+      "rank": 31,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 2757,

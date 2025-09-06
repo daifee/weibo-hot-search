@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757184191082,
+  "endTime": 1757186284872,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -795,6 +795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1275516,
+      "num": 1275516,
+      "word": "辛芷蕾 威尼斯电影节",
+      "onboard_time": 1757162602,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1271469,
       "num": 219471,
       "word": "金正恩说中国的庆典也是我们的喜事",
@@ -953,14 +961,6 @@
       "onboard_time": 1757167644,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1154879,
-      "num": 1154879,
-      "word": "辛芷蕾 威尼斯电影节",
-      "onboard_time": 1757162602,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 1154761,
@@ -3435,6 +3435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 432740,
+      "num": 267024,
+      "word": "赵涛评委",
+      "onboard_time": 1757174363,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 431922,
       "num": 431922,
       "word": "美国拘捕300名韩国人",
@@ -5272,14 +5280,6 @@
       "word": "流浪地球 纪录片",
       "onboard_time": 1756894404,
       "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 267024,
-      "num": 267024,
-      "word": "赵涛评委",
-      "onboard_time": 1757174363,
-      "rank": 19,
       "category": "电影"
     },
     {
@@ -16939,6 +16939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50768,
+      "num": 49698,
+      "word": "冯绍峰威尼斯眼镜造型",
+      "onboard_time": 1757180238,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50474,
       "num": 50474,
       "word": "核导弹方队震撼登场",
@@ -16977,14 +16985,6 @@
       "onboard_time": 1757170883,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49698,
-      "num": 49698,
-      "word": "冯绍峰威尼斯眼镜造型",
-      "onboard_time": 1757180238,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 48976,
@@ -17321,6 +17321,14 @@
       "onboard_time": 1756710801,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39687,
+      "num": 39687,
+      "word": "四川2名消防员训练遇险失联",
+      "onboard_time": 1757183955,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39276,
@@ -17851,20 +17859,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26255,
-      "num": 26255,
-      "word": "四川2名消防员训练遇险失联",
-      "onboard_time": 1757183955,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26205,
       "num": 51197,
       "word": "一图速览阅兵安排",
       "onboard_time": 1756835055,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25718,
+      "num": 25718,
+      "word": "韩国外卖员月入1万5",
+      "onboard_time": 1757184916,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25548,
@@ -18209,6 +18217,14 @@
       "onboard_time": 1756769178,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17021,
+      "num": 27528,
+      "word": "重庆三峡学院中标公司被罚9000元",
+      "onboard_time": 1757184015,
+      "rank": 31,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 17005,
