@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757176020111,
+  "endTime": 1757176888182,
   "band_list": [
     {
       "raw_hot": 1217927,
@@ -19,7 +19,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 705508,
+      "raw_hot": 715376,
       "num": 228647,
       "word": "王俊凯怎么瘦成这样了",
       "onboard_time": 1757160022,
@@ -35,15 +35,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 592969,
-      "num": 592969,
+      "raw_hot": 617971,
+      "num": 793319,
       "word": "毛主席嫡孙一家参加九三阅兵",
       "onboard_time": 1757164103,
       "rank": 1,
       "category": "国内时政"
     },
     {
-      "raw_hot": 552386,
+      "raw_hot": 555915,
       "num": 225847,
       "word": "关晓彤ins更新",
       "onboard_time": 1757167644,
@@ -59,32 +59,32 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495299,
-      "num": 495299,
+      "raw_hot": 541515,
+      "num": 541515,
       "word": "江苏卫视你是有多等不及啊",
       "onboard_time": 1757173103,
       "rank": 4,
       "category": "体育"
     },
     {
-      "raw_hot": 445511,
-      "num": 445511,
+      "raw_hot": 473738,
+      "num": 473738,
       "word": "月全食",
       "onboard_time": 1757155101,
       "rank": 5,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 415623,
-      "num": 415623,
+      "raw_hot": 451944,
+      "num": 451944,
       "word": "辛芷蕾 威尼斯电影节",
       "onboard_time": 1757162602,
       "rank": 6,
       "category": "电影"
     },
     {
-      "raw_hot": 303724,
-      "num": 303724,
+      "raw_hot": 370629,
+      "num": 370629,
       "word": "上海地铁9号线试点拆座椅增加空间",
       "onboard_time": 1757172623,
       "rank": 7,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223373,
+      "num": 223373,
+      "word": "赵涛评委",
+      "onboard_time": 1757174363,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214443,
       "num": 214443,
       "word": "亚裔女子在泰被沉尸",
@@ -115,20 +123,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 192323,
+      "num": 233487,
+      "word": "老人猥亵女性因高龄患绝症未被拘留",
+      "onboard_time": 1757171903,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187246,
       "num": 187246,
       "word": "魏大勋抱赵今麦投篮",
       "onboard_time": 1757168543,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170691,
-      "num": 170691,
-      "word": "老人猥亵女性因高龄患绝症未被拘留",
-      "onboard_time": 1757171903,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168644,
@@ -155,20 +163,12 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 132037,
-      "num": 132037,
+      "raw_hot": 141682,
+      "num": 141682,
       "word": "8万只气球去哪儿了",
       "onboard_time": 1757171783,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 130175,
-      "num": 154455,
-      "word": "赵涛评委",
-      "onboard_time": 1757174363,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 129161,
@@ -203,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121643,
+      "num": 121643,
+      "word": "刘宇宁说造谣恶心至极",
+      "onboard_time": 1757175322,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116425,
+      "num": 116425,
+      "word": "樊振东第一时间和队长复盘",
+      "onboard_time": 1757174723,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115963,
       "num": 115963,
       "word": "官方通报高校75万采购事件全过程",
@@ -211,27 +227,19 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 114415,
+      "num": 114415,
+      "word": "张杰 一般一般世界第三",
+      "onboard_time": 1757174543,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113099,
       "num": 113099,
       "word": "解说谈樊振东孤身征战德甲",
       "onboard_time": 1757171783,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 111580,
-      "num": 111580,
-      "word": "刘宇宁说造谣恶心至极",
-      "onboard_time": 1757175322,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 109192,
-      "num": 109192,
-      "word": "樊振东第一时间和队长复盘",
-      "onboard_time": 1757174723,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -251,20 +259,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103811,
-      "num": 113503,
-      "word": "张杰 一般一般世界第三",
-      "onboard_time": 1757174543,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 91568,
       "num": 91568,
       "word": "东风5C打击范围覆盖全球",
       "onboard_time": 1757173462,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89617,
+      "num": 89617,
+      "word": "韩国偶遇任嘉伦",
+      "onboard_time": 1757175203,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 87676,
@@ -275,12 +283,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83068,
-      "num": 83068,
+      "raw_hot": 84839,
+      "num": 84839,
       "word": "萧敬腾裤子裂了",
       "onboard_time": 1757171544,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78422,
+      "num": 78422,
+      "word": "阅兵当天才知道自己做的包去哪儿了",
+      "onboard_time": 1757153902,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77707,
@@ -291,19 +307,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77060,
-      "num": 77060,
-      "word": "阅兵当天才知道自己做的包去哪儿了",
-      "onboard_time": 1757153902,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 76876,
-      "num": 76876,
-      "word": "韩国偶遇任嘉伦",
-      "onboard_time": 1757175203,
-      "rank": 39,
+      "raw_hot": 76631,
+      "num": 76631,
+      "word": "易烊千玺被广播催促登机",
+      "onboard_time": 1757155881,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -313,6 +321,14 @@
       "onboard_time": 1757172203,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76291,
+      "num": 76291,
+      "word": "东部战区回应加澳军舰过航台湾海峡",
+      "onboard_time": 1757163021,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75968,
@@ -331,24 +347,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 74136,
-      "num": 74136,
-      "word": "东部战区回应加澳军舰过航台湾海峡",
-      "onboard_time": 1757163021,
-      "rank": 42,
-      "category": "国内时政"
+      "raw_hot": 73620,
+      "num": 73620,
+      "word": "白色座椅贴红色标签引发误读",
+      "onboard_time": 1757160202,
+      "rank": 46,
+      "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 73189,
-      "num": 73189,
-      "word": "易烊千玺被广播催促登机",
-      "onboard_time": 1757155881,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 70316,
-      "num": 70316,
+      "raw_hot": 73035,
+      "num": 73035,
       "word": "鹿晗的车开回来那一刻",
       "onboard_time": 1757158881,
       "rank": 44,
@@ -361,14 +369,6 @@
       "onboard_time": 1757139081,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 69750,
-      "num": 69750,
-      "word": "白色座椅贴红色标签引发误读",
-      "onboard_time": 1757160202,
-      "rank": 46,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 60132,
@@ -392,6 +392,22 @@
       "word": "一两元包邮的时代或不复存在",
       "onboard_time": 1757170883,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49190,
+      "num": 67899,
+      "word": "一路繁花2",
+      "onboard_time": 1757156000,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45613,
+      "num": 104477,
+      "word": "6名消防人员训练时落水2人失踪",
+      "onboard_time": 1757174004,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

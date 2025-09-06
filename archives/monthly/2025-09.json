@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757176020111,
+  "endTime": 1757176888182,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -2563,6 +2563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 541515,
+      "num": 541515,
+      "word": "江苏卫视你是有多等不及啊",
+      "onboard_time": 1757173103,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 540815,
       "num": 540815,
       "word": "警方回应白嫖网约车两女子已被行拘",
@@ -2825,14 +2833,6 @@
       "onboard_time": 1756893624,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 495299,
-      "num": 495299,
-      "word": "江苏卫视你是有多等不及啊",
-      "onboard_time": 1757173103,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 494883,
@@ -3243,6 +3243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 451944,
+      "num": 451944,
+      "word": "辛芷蕾 威尼斯电影节",
+      "onboard_time": 1757162602,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 450865,
       "num": 323830,
       "word": "德媒称中国阅兵武器遥遥领先",
@@ -3545,14 +3553,6 @@
       "onboard_time": 1756788561,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 415623,
-      "num": 415623,
-      "word": "辛芷蕾 威尼斯电影节",
-      "onboard_time": 1757162602,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 412775,
@@ -3945,6 +3945,14 @@
       "onboard_time": 1757125880,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370629,
+      "num": 370629,
+      "word": "上海地铁9号线试点拆座椅增加空间",
+      "onboard_time": 1757172623,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370390,
@@ -4721,14 +4729,6 @@
       "onboard_time": 1756954762,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303724,
-      "num": 303724,
-      "word": "上海地铁9号线试点拆座椅增加空间",
-      "onboard_time": 1757172623,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303112,
@@ -6083,6 +6083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223373,
+      "num": 223373,
+      "word": "赵涛评委",
+      "onboard_time": 1757174363,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223358,
       "num": 152329,
       "word": "3岁半宝宝110厘米58斤入学超显眼",
@@ -7043,6 +7051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 192323,
+      "num": 233487,
+      "word": "老人猥亵女性因高龄患绝症未被拘留",
+      "onboard_time": 1757171903,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192036,
       "num": 147065,
       "word": "王鹤棣ELLE9月刊封面",
@@ -7969,14 +7985,6 @@
       "onboard_time": 1756884444,
       "rank": 48,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 170691,
-      "num": 170691,
-      "word": "老人猥亵女性因高龄患绝症未被拘留",
-      "onboard_time": 1757171903,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170546,
@@ -9875,6 +9883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141682,
+      "num": 141682,
+      "word": "8万只气球去哪儿了",
+      "onboard_time": 1757171783,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 141483,
       "num": 141483,
       "word": "7岁女童疑被小区泳池排水口吸入身亡",
@@ -10257,14 +10273,6 @@
       "onboard_time": 1756701021,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136399,
-      "num": 136399,
-      "word": "8万只气球去哪儿了",
-      "onboard_time": 1757171783,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 136227,
@@ -10665,14 +10673,6 @@
       "onboard_time": 1757066181,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130175,
-      "num": 154455,
-      "word": "赵涛评委",
-      "onboard_time": 1757174363,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 130075,
@@ -11419,6 +11419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121643,
+      "num": 121643,
+      "word": "刘宇宁说造谣恶心至极",
+      "onboard_time": 1757175322,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121625,
       "num": 265870,
       "word": "周鸿祎第二次受邀现场看阅兵",
@@ -11835,6 +11843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116425,
+      "num": 116425,
+      "word": "樊振东第一时间和队长复盘",
+      "onboard_time": 1757174723,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116224,
       "num": 266255,
       "word": "俄记者惊呼在中国忘拿手机没人拿",
@@ -12097,6 +12113,14 @@
       "onboard_time": 1756653982,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114415,
+      "num": 114415,
+      "word": "张杰 一般一般世界第三",
+      "onboard_time": 1757174543,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 114389,
@@ -12379,14 +12403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111580,
-      "num": 111580,
-      "word": "刘宇宁说造谣恶心至极",
-      "onboard_time": 1757175322,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111541,
       "num": 111541,
       "word": "海贼王",
@@ -12609,14 +12625,6 @@
       "onboard_time": 1757041461,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 109192,
-      "num": 109192,
-      "word": "樊振东第一时间和队长复盘",
-      "onboard_time": 1757174723,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 108879,
@@ -13121,14 +13129,6 @@
       "onboard_time": 1757051602,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103811,
-      "num": 113503,
-      "word": "张杰 一般一般世界第三",
-      "onboard_time": 1757174543,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 103768,
@@ -14379,6 +14379,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 89617,
+      "num": 89617,
+      "word": "韩国偶遇任嘉伦",
+      "onboard_time": 1757175203,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89599,
       "num": 89599,
       "word": "腿部缩短术",
@@ -15489,14 +15497,6 @@
       "onboard_time": 1757152942,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76876,
-      "num": 76876,
-      "word": "韩国偶遇任嘉伦",
-      "onboard_time": 1757175203,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 76779,
@@ -17161,6 +17161,14 @@
       "onboard_time": 1757169683,
       "rank": 18,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 45613,
+      "num": 104477,
+      "word": "6名消防人员训练时落水2人失踪",
+      "onboard_time": 1757174004,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44737,
