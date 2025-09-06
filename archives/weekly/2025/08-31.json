@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1757148054266,
+  "endTime": 1757150542430,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -1075,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1039150,
+      "num": 1166264,
+      "word": "丝瓜汤",
+      "onboard_time": 1757139081,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1037074,
       "num": 529207,
       "word": "听到伯贤提何炅好奇妙",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1756728082,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 998371,
-      "num": 1159739,
-      "word": "丝瓜汤",
-      "onboard_time": 1757139081,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 989015,
@@ -1492,7 +1492,7 @@
     },
     {
       "raw_hot": 846379,
-      "num": 265217,
+      "num": 415166,
       "word": "姜潮麦迪娜孩子颜值",
       "onboard_time": 1757140102,
       "rank": 34,
@@ -1513,6 +1513,14 @@
       "onboard_time": 1756717101,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 832466,
+      "num": 832466,
+      "word": "王琳首次公开第一段失败婚姻",
+      "onboard_time": 1757146282,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 824734,
@@ -1620,7 +1628,7 @@
     },
     {
       "raw_hot": 788641,
-      "num": 249396,
+      "num": 428789,
       "word": "顶流官宣恋爱28年没be",
       "onboard_time": 1757144000,
       "rank": 34,
@@ -2235,6 +2243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 598180,
+      "num": 598180,
+      "word": "巴西亿万富豪将全部遗产赠予内马尔",
+      "onboard_time": 1757148022,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 597362,
       "num": 597362,
       "word": "8万只气球有6个颜色",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1756806081,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 576613,
+      "num": 576613,
+      "word": "花少第四期封神",
+      "onboard_time": 1757147661,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 575959,
@@ -2457,6 +2481,14 @@
       "onboard_time": 1756894885,
       "rank": 30,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 552535,
+      "num": 552535,
+      "word": "四川青川4.0级地震",
+      "onboard_time": 1757148741,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 552004,
@@ -2996,7 +3028,7 @@
     },
     {
       "raw_hot": 485675,
-      "num": 199013,
+      "num": 277298,
       "word": "沐言和男同学吵架动手",
       "onboard_time": 1757141541,
       "rank": 26,
@@ -3033,6 +3065,14 @@
       "onboard_time": 1756824143,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 481664,
+      "num": 481664,
+      "word": "厦门健身房教练被两名女子当众掌掴",
+      "onboard_time": 1757147962,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481244,
@@ -3609,14 +3649,6 @@
       "onboard_time": 1756788561,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 412992,
-      "num": 412992,
-      "word": "王琳首次公开第一段失败婚姻",
-      "onboard_time": 1757146282,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 412775,
@@ -4699,6 +4731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327188,
+      "num": 327188,
+      "word": "单休违法吗",
+      "onboard_time": 1757148622,
+      "rank": 13,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 326942,
       "num": 326942,
       "word": "王毅送匈牙利外长中国跑鞋",
@@ -4905,6 +4945,14 @@
       "onboard_time": 1756611021,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 310479,
+      "num": 310479,
+      "word": "宁静邵子恒 我认识你爸爸",
+      "onboard_time": 1757147781,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 308043,
@@ -5393,6 +5441,22 @@
       "onboard_time": 1756623860,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277675,
+      "num": 277675,
+      "word": "李维嘉回应张杰谢娜谁追的谁",
+      "onboard_time": 1757149641,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 277263,
+      "num": 277263,
+      "word": "菲防长再次抹黑中国",
+      "onboard_time": 1757147781,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 276482,
@@ -6451,6 +6515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227742,
+      "num": 277616,
+      "word": "刘亦菲杨幂VOGUE百指",
+      "onboard_time": 1757148141,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 227558,
       "num": 227558,
       "word": "兰大连续3年打地铺让新生家长免费住",
@@ -7145,14 +7217,6 @@
       "onboard_time": 1757041461,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200453,
-      "num": 200453,
-      "word": "宁静邵子恒 我认识你爸爸",
-      "onboard_time": 1757147781,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 200304,
@@ -8587,14 +8651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171580,
-      "num": 171580,
-      "word": "花少第四期封神",
-      "onboard_time": 1757147661,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171578,
       "num": 189592,
       "word": "鹿晗拒绝staff帮忙系鞋带",
@@ -9553,6 +9609,14 @@
       "onboard_time": 1756691300,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155152,
+      "num": 155152,
+      "word": "迪丽热巴白裙现身",
+      "onboard_time": 1757149161,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 155121,
@@ -11451,14 +11515,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 130716,
-      "num": 130716,
-      "word": "厦门健身房教练被两名女子当众掌掴",
-      "onboard_time": 1757147962,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130613,
       "num": 171791,
       "word": "又跟着王源上电视了",
@@ -11545,6 +11601,14 @@
       "onboard_time": 1756613360,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129800,
+      "num": 129800,
+      "word": "马思纯钱都花了来都来了",
+      "onboard_time": 1757150001,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 129787,
@@ -11771,6 +11835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128030,
+      "num": 128030,
+      "word": "成都震感",
+      "onboard_time": 1757149941,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127833,
       "num": 127833,
       "word": "明日方舟mujica联动周边",
@@ -11913,6 +11985,14 @@
       "onboard_time": 1757125761,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125423,
+      "num": 125423,
+      "word": "王玉雯时尚的完成度靠脸",
+      "onboard_time": 1757149342,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 125391,
@@ -12377,6 +12457,14 @@
       "onboard_time": 1756954642,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120352,
+      "num": 120352,
+      "word": "特朗普破防称好像把俄印输给了中国",
+      "onboard_time": 1757147181,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120201,
@@ -13459,6 +13547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111240,
+      "num": 111240,
+      "word": "毕雯珺直播",
+      "onboard_time": 1757149701,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111236,
       "num": 128472,
       "word": "李斌称蔚来成本优化效果显著",
@@ -13865,14 +13961,6 @@
       "onboard_time": 1756724541,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 107430,
-      "num": 107430,
-      "word": "巴西亿万富豪将全部遗产赠予内马尔",
-      "onboard_time": 1757148022,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 107401,
@@ -14435,6 +14523,14 @@
       "category": "母婴育儿,民生新闻"
     },
     {
+      "raw_hot": 102526,
+      "num": 102526,
+      "word": "谁能想到张维伊付钱还有callback",
+      "onboard_time": 1757148381,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102421,
       "num": 102421,
       "word": "天安门广场上空看现场",
@@ -14809,6 +14905,14 @@
       "onboard_time": 1757122941,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98947,
+      "num": 98947,
+      "word": "刘宇宁一个人打六份工",
+      "onboard_time": 1757150421,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 98891,
@@ -15193,6 +15297,14 @@
       "onboard_time": 1756962623,
       "rank": 39,
       "category": "军事"
+    },
+    {
+      "raw_hot": 95495,
+      "num": 95495,
+      "word": "猫 吃点饭被吓了三跳",
+      "onboard_time": 1757150121,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 95429,
@@ -16595,6 +16707,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 83144,
+      "num": 90420,
+      "word": "王石的运动量vs我的运动量",
+      "onboard_time": 1757150482,
+      "rank": 49,
+      "category": "财经,运动健身"
+    },
+    {
       "raw_hot": 83135,
       "num": 236884,
       "word": "当周一撞上每月一号",
@@ -16697,14 +16817,6 @@
       "onboard_time": 1756818381,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 82449,
-      "num": 108354,
-      "word": "菲防长再次抹黑中国",
-      "onboard_time": 1757147781,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82428,
@@ -16889,14 +17001,6 @@
       "onboard_time": 1756698080,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 80094,
-      "num": 113175,
-      "word": "特朗普破防称好像把俄印输给了中国",
-      "onboard_time": 1757147181,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79936,
@@ -17835,6 +17939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 67978,
+      "num": 430850,
+      "word": "希望菲律宾防长能睁眼看世界",
+      "onboard_time": 1757147422,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67891,
       "num": 67891,
       "word": "郑钦文通过重返赛场健康评估",
@@ -17921,6 +18033,14 @@
       "onboard_time": 1756635800,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66964,
+      "num": 100394,
+      "word": "外卖安心贴一撕就开不安心",
+      "onboard_time": 1757149582,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66940,
@@ -18116,7 +18236,7 @@
     },
     {
       "raw_hot": 64744,
-      "num": 690595,
+      "num": 763970,
       "word": "致敬阅兵仪式背后的每个人",
       "onboard_time": 1757085863,
       "rank": 35,
@@ -18305,6 +18425,14 @@
       "onboard_time": 1757064681,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 61720,
+      "num": 100638,
+      "word": "700公里托运下司犬死在后备箱",
+      "onboard_time": 1757149582,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61182,
@@ -18721,6 +18849,14 @@
       "onboard_time": 1756660098,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51719,
+      "num": 277540,
+      "word": "河南14岁女孩拓展营遭体罚后离世",
+      "onboard_time": 1757149342,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 51631,
@@ -19657,6 +19793,14 @@
       "onboard_time": 1756589173,
       "rank": 41,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 28709,
+      "num": 277438,
+      "word": "校方回应19岁男生被室友用锐器捅死",
+      "onboard_time": 1757149941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28598,

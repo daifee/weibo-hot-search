@@ -1,0 +1,410 @@
+{
+  "runTime": 1757150542430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1039150,
+        "num": 1166264,
+        "word": "丝瓜汤",
+        "onboard_time": 1757139081,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 832466,
+        "num": 832466,
+        "word": "王琳首次公开第一段失败婚姻",
+        "onboard_time": 1757146282,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21782,
+        "num": 763970,
+        "word": "致敬阅兵仪式背后的每个人",
+        "onboard_time": 1757085863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 727390,
+        "num": 727390,
+        "word": "中元节",
+        "onboard_time": 1757116518,
+        "rank": 3,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 598180,
+        "num": 598180,
+        "word": "巴西亿万富豪将全部遗产赠予内马尔",
+        "onboard_time": 1757148022,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 576613,
+        "num": 576613,
+        "word": "花少第四期封神",
+        "onboard_time": 1757147661,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552535,
+        "num": 552535,
+        "word": "四川青川4.0级地震",
+        "onboard_time": 1757148741,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481664,
+        "num": 481664,
+        "word": "厦门健身房教练被两名女子当众掌掴",
+        "onboard_time": 1757147962,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335650,
+        "num": 447009,
+        "word": "张维伊婚礼给去世父母留了座位",
+        "onboard_time": 1757134881,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67978,
+        "num": 430850,
+        "word": "希望菲律宾防长能睁眼看世界",
+        "onboard_time": 1757147422,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 681942,
+        "num": 428789,
+        "word": "顶流官宣恋爱28年没be",
+        "onboard_time": 1757144000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415166,
+        "num": 415166,
+        "word": "姜潮麦迪娜孩子颜值",
+        "onboard_time": 1757140102,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343000,
+        "num": 343000,
+        "word": "幼儿误吞电池10小时致终身残疾",
+        "onboard_time": 1757138902,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327188,
+        "num": 327188,
+        "word": "单休违法吗",
+        "onboard_time": 1757148622,
+        "rank": 13,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 310479,
+        "num": 310479,
+        "word": "宁静邵子恒 我认识你爸爸",
+        "onboard_time": 1757147781,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292774,
+        "num": 292774,
+        "word": "五位影后凑一起拍综艺了",
+        "onboard_time": 1757145142,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277675,
+        "num": 277675,
+        "word": "李维嘉回应张杰谢娜谁追的谁",
+        "onboard_time": 1757149641,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227742,
+        "num": 277616,
+        "word": "刘亦菲杨幂VOGUE百指",
+        "onboard_time": 1757148141,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 51719,
+        "num": 277540,
+        "word": "河南14岁女孩拓展营遭体罚后离世",
+        "onboard_time": 1757149342,
+        "rank": 18,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 28709,
+        "num": 277438,
+        "word": "校方回应19岁男生被室友用锐器捅死",
+        "onboard_time": 1757149941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304970,
+        "num": 277423,
+        "word": "中元节血月",
+        "onboard_time": 1757134402,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403381,
+        "num": 277298,
+        "word": "沐言和男同学吵架动手",
+        "onboard_time": 1757141541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277263,
+        "num": 277263,
+        "word": "菲防长再次抹黑中国",
+        "onboard_time": 1757147781,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189949,
+        "num": 189949,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1757139560,
+        "rank": 23,
+        "category": "情感,科学科普"
+      },
+      {
+        "raw_hot": 162412,
+        "num": 162412,
+        "word": "全国肥胖率分布地图出炉",
+        "onboard_time": 1757142440,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158681,
+        "num": 158681,
+        "word": "易会满涉嫌严重违纪违法",
+        "onboard_time": 1757128521,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155152,
+        "num": 155152,
+        "word": "迪丽热巴白裙现身",
+        "onboard_time": 1757149161,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147527,
+        "num": 147527,
+        "word": "昀牵孟绕",
+        "onboard_time": 1757140521,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147476,
+        "num": 147476,
+        "word": "锤娜丽莎半年瘦20斤",
+        "onboard_time": 1757135421,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136609,
+        "num": 136609,
+        "word": "阅兵重播",
+        "onboard_time": 1757139861,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134266,
+        "num": 134266,
+        "word": "难怪别人怀疑熹贵妃的肚子",
+        "onboard_time": 1757139081,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129800,
+        "num": 129800,
+        "word": "马思纯钱都花了来都来了",
+        "onboard_time": 1757150001,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128030,
+        "num": 128030,
+        "word": "成都震感",
+        "onboard_time": 1757149941,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125423,
+        "num": 125423,
+        "word": "王玉雯时尚的完成度靠脸",
+        "onboard_time": 1757149342,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120352,
+        "num": 120352,
+        "word": "特朗普破防称好像把俄印输给了中国",
+        "onboard_time": 1757147181,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114024,
+        "num": 114024,
+        "word": "Metal杂志",
+        "onboard_time": 1757130622,
+        "rank": 35,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 111240,
+        "num": 111240,
+        "word": "毕雯珺直播",
+        "onboard_time": 1757149701,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102526,
+        "num": 102526,
+        "word": "谁能想到张维伊付钱还有callback",
+        "onboard_time": 1757148381,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61720,
+        "num": 100638,
+        "word": "700公里托运下司犬死在后备箱",
+        "onboard_time": 1757149582,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66964,
+        "num": 100394,
+        "word": "外卖安心贴一撕就开不安心",
+        "onboard_time": 1757149582,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100215,
+        "num": 100215,
+        "word": "王力宏都天王了应该很沉稳吧",
+        "onboard_time": 1757147781,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99327,
+        "num": 99327,
+        "word": "向太最好的闺蜜是菲佣",
+        "onboard_time": 1757141121,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98947,
+        "num": 98947,
+        "word": "刘宇宁一个人打六份工",
+        "onboard_time": 1757150421,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98040,
+        "num": 98040,
+        "word": "王俊凯还在穿6年前的衣服",
+        "onboard_time": 1757141420,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97683,
+        "num": 97683,
+        "word": "歼20模型销量暴涨175%",
+        "onboard_time": 1757125041,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95495,
+        "num": 95495,
+        "word": "猫 吃点饭被吓了三跳",
+        "onboard_time": 1757150121,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93047,
+        "num": 93047,
+        "word": "张柏芝气血充足的美",
+        "onboard_time": 1757148022,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92441,
+        "num": 92441,
+        "word": "泰版王漫妮眼里全是野心",
+        "onboard_time": 1757144842,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89475,
+        "num": 90742,
+        "word": "iPhone17PM对比16PM",
+        "onboard_time": 1757138541,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83144,
+        "num": 90420,
+        "word": "王石的运动量vs我的运动量",
+        "onboard_time": 1757150482,
+        "rank": 49,
+        "category": "财经,运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#双手相握里有家国民族之重#"
+    }
+  }
+}

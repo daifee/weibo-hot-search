@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757148054266,
+  "endTime": 1757150542430,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -59,20 +59,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1039150,
+      "num": 1166264,
+      "word": "丝瓜汤",
+      "onboard_time": 1757139081,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1008315,
       "num": 448814,
       "word": "小酒窝有官配cp了",
       "onboard_time": 1757123119,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 998371,
-      "num": 1159739,
-      "word": "丝瓜汤",
-      "onboard_time": 1757139081,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 959247,
@@ -108,15 +108,23 @@
     },
     {
       "raw_hot": 846379,
-      "num": 265217,
+      "num": 415166,
       "word": "姜潮麦迪娜孩子颜值",
       "onboard_time": 1757140102,
       "rank": 34,
       "category": "艺人"
     },
     {
+      "raw_hot": 832466,
+      "num": 832466,
+      "word": "王琳首次公开第一段失败婚姻",
+      "onboard_time": 1757146282,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 788641,
-      "num": 249396,
+      "num": 428789,
       "word": "顶流官宣恋爱28年没be",
       "onboard_time": 1757144000,
       "rank": 34,
@@ -179,12 +187,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 598180,
+      "num": 598180,
+      "word": "巴西亿万富豪将全部遗产赠予内马尔",
+      "onboard_time": 1757148022,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 586459,
       "num": 273472,
       "word": "难怪别人怀疑熹贵妃的肚子",
       "onboard_time": 1757139081,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 576613,
+      "num": 576613,
+      "word": "花少第四期封神",
+      "onboard_time": 1757147661,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 570087,
@@ -209,6 +233,14 @@
       "onboard_time": 1757134522,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 552535,
+      "num": 552535,
+      "word": "四川青川4.0级地震",
+      "onboard_time": 1757148741,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 545185,
@@ -244,11 +276,19 @@
     },
     {
       "raw_hot": 485675,
-      "num": 199013,
+      "num": 277298,
       "word": "沐言和男同学吵架动手",
       "onboard_time": 1757141541,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481664,
+      "num": 481664,
+      "word": "厦门健身房教练被两名女子当众掌掴",
+      "onboard_time": 1757147962,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 478826,
@@ -337,14 +377,6 @@
       "onboard_time": 1757085563,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 412992,
-      "num": 412992,
-      "word": "王琳首次公开第一段失败婚姻",
-      "onboard_time": 1757146282,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 391769,
@@ -499,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327188,
+      "num": 327188,
+      "word": "单休违法吗",
+      "onboard_time": 1757148622,
+      "rank": 13,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 317898,
       "num": 317898,
       "word": "唐香玉上恋综的段子成真了",
@@ -513,6 +553,14 @@
       "onboard_time": 1757068161,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310479,
+      "num": 310479,
+      "word": "宁静邵子恒 我认识你爸爸",
+      "onboard_time": 1757147781,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 304285,
@@ -593,6 +641,22 @@
       "onboard_time": 1757142440,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277675,
+      "num": 277675,
+      "word": "李维嘉回应张杰谢娜谁追的谁",
+      "onboard_time": 1757149641,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 277263,
+      "num": 277263,
+      "word": "菲防长再次抹黑中国",
+      "onboard_time": 1757147781,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 267429,
@@ -731,6 +795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 227742,
+      "num": 277616,
+      "word": "刘亦菲杨幂VOGUE百指",
+      "onboard_time": 1757148141,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 227074,
       "num": 227074,
       "word": "代号鸢",
@@ -777,14 +849,6 @@
       "onboard_time": 1757080883,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 200453,
-      "num": 200453,
-      "word": "宁静邵子恒 我认识你爸爸",
-      "onboard_time": 1757147781,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 199313,
@@ -915,14 +979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 171580,
-      "num": 171580,
-      "word": "花少第四期封神",
-      "onboard_time": 1757147661,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169565,
       "num": 169565,
       "word": "LPL第三赛段常规赛最佳阵容",
@@ -1000,6 +1056,14 @@
       "word": "辛芷蕾威尼斯影后赔率第一",
       "onboard_time": 1757130922,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155152,
+      "num": 155152,
+      "word": "迪丽热巴白裙现身",
+      "onboard_time": 1757149161,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1283,12 +1347,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 130716,
-      "num": 130716,
-      "word": "厦门健身房教练被两名女子当众掌掴",
-      "onboard_time": 1757147962,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 129800,
+      "num": 129800,
+      "word": "马思纯钱都花了来都来了",
+      "onboard_time": 1757150001,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 129781,
@@ -1339,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128030,
+      "num": 128030,
+      "word": "成都震感",
+      "onboard_time": 1757149941,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127687,
       "num": 127687,
       "word": "离了易烊千玺谁还把我当小孩",
@@ -1361,6 +1433,14 @@
       "onboard_time": 1757125761,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125423,
+      "num": 125423,
+      "word": "王玉雯时尚的完成度靠脸",
+      "onboard_time": 1757149342,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 125181,
@@ -1417,6 +1497,14 @@
       "onboard_time": 1757132302,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120352,
+      "num": 120352,
+      "word": "特朗普破防称好像把俄印输给了中国",
+      "onboard_time": 1757147181,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119154,
@@ -1579,6 +1667,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 111240,
+      "num": 111240,
+      "word": "毕雯珺直播",
+      "onboard_time": 1757149701,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109548,
       "num": 109548,
       "word": "詹姆斯成都双子塔前戴皇冠",
@@ -1609,14 +1705,6 @@
       "onboard_time": 1757145381,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 107430,
-      "num": 107430,
-      "word": "巴西亿万富豪将全部遗产赠予内马尔",
-      "onboard_time": 1757148022,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 106473,
@@ -1665,6 +1753,14 @@
       "onboard_time": 1757115019,
       "rank": 23,
       "category": "母婴育儿,民生新闻"
+    },
+    {
+      "raw_hot": 102526,
+      "num": 102526,
+      "word": "谁能想到张维伊付钱还有callback",
+      "onboard_time": 1757148381,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 102288,
@@ -1755,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98947,
+      "num": 98947,
+      "word": "刘宇宁一个人打六份工",
+      "onboard_time": 1757150421,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98570,
       "num": 487322,
       "word": "易会满任期平均1天发行1只新股",
@@ -1808,6 +1912,14 @@
       "word": "狗狗总能精准找到怕它的人",
       "onboard_time": 1757128100,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95495,
+      "num": 95495,
+      "word": "猫 吃点饭被吓了三跳",
+      "onboard_time": 1757150121,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -1923,20 +2035,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83144,
+      "num": 90420,
+      "word": "王石的运动量vs我的运动量",
+      "onboard_time": 1757150482,
+      "rank": 49,
+      "category": "财经,运动健身"
+    },
+    {
       "raw_hot": 82970,
       "num": 82970,
       "word": "宋威龙野狗骨头杀青路透",
       "onboard_time": 1757124800,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82449,
-      "num": 108354,
-      "word": "菲防长再次抹黑中国",
-      "onboard_time": 1757147781,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82370,
@@ -1961,14 +2073,6 @@
       "onboard_time": 1757120542,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80094,
-      "num": 113175,
-      "word": "特朗普破防称好像把俄印输给了中国",
-      "onboard_time": 1757147181,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76754,
@@ -2059,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67978,
+      "num": 430850,
+      "word": "希望菲律宾防长能睁眼看世界",
+      "onboard_time": 1757147422,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67723,
       "num": 67723,
       "word": "美网",
@@ -2075,11 +2187,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66964,
+      "num": 100394,
+      "word": "外卖安心贴一撕就开不安心",
+      "onboard_time": 1757149582,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65545,
       "num": 99224,
       "word": "随爷爷砍竹子失踪5岁男童仍未找到",
       "onboard_time": 1757142081,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61720,
+      "num": 100638,
+      "word": "700公里托运下司犬死在后备箱",
+      "onboard_time": 1757149582,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2153,6 +2281,14 @@
       "onboard_time": 1757144000,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51719,
+      "num": 277540,
+      "word": "河南14岁女孩拓展营遭体罚后离世",
+      "onboard_time": 1757149342,
+      "rank": 18,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 49930,
@@ -2275,8 +2411,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 28709,
+      "num": 277438,
+      "word": "校方回应19岁男生被室友用锐器捅死",
+      "onboard_time": 1757149941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27489,
-      "num": 690595,
+      "num": 763970,
       "word": "致敬阅兵仪式背后的每个人",
       "onboard_time": 1757085863,
       "rank": 2,
