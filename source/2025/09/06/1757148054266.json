@@ -1,0 +1,410 @@
+{
+  "runTime": 1757148054266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 998371,
+        "num": 1159739,
+        "word": "丝瓜汤",
+        "onboard_time": 1757139081,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 748172,
+        "num": 748172,
+        "word": "中元节",
+        "onboard_time": 1757116518,
+        "rank": 1,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 20144,
+        "num": 565711,
+        "word": "致敬阅兵仪式背后的每个人",
+        "onboard_time": 1757085863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412992,
+        "num": 412992,
+        "word": "王琳首次公开第一段失败婚姻",
+        "onboard_time": 1757146282,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298981,
+        "num": 374787,
+        "word": "中元节血月",
+        "onboard_time": 1757134402,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352770,
+        "num": 352770,
+        "word": "张维伊婚礼给去世父母留了座位",
+        "onboard_time": 1757134881,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337650,
+        "num": 337650,
+        "word": "五位影后凑一起拍综艺了",
+        "onboard_time": 1757145142,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284225,
+        "num": 284225,
+        "word": "全国肥胖率分布地图出炉",
+        "onboard_time": 1757142440,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240034,
+        "num": 240034,
+        "word": "易会满涉嫌严重违纪违法",
+        "onboard_time": 1757128521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218728,
+        "num": 218728,
+        "word": "阅兵重播",
+        "onboard_time": 1757139861,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 788641,
+        "num": 216093,
+        "word": "顶流官宣恋爱28年没be",
+        "onboard_time": 1757144000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628194,
+        "num": 215306,
+        "word": "姜潮麦迪娜孩子颜值",
+        "onboard_time": 1757140102,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473136,
+        "num": 211868,
+        "word": "幼儿误吞电池10小时致终身残疾",
+        "onboard_time": 1757138902,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287752,
+        "num": 207362,
+        "word": "难怪别人怀疑熹贵妃的肚子",
+        "onboard_time": 1757139081,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255450,
+        "num": 203819,
+        "word": "昀牵孟绕",
+        "onboard_time": 1757140521,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223295,
+        "num": 201341,
+        "word": "向太最好的闺蜜是菲佣",
+        "onboard_time": 1757141121,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200453,
+        "num": 200453,
+        "word": "宁静邵子恒 我认识你爸爸",
+        "onboard_time": 1757147781,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191876,
+        "num": 191876,
+        "word": "中级经济法",
+        "onboard_time": 1757143460,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180147,
+        "num": 180147,
+        "word": "锤娜丽莎半年瘦20斤",
+        "onboard_time": 1757135421,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171580,
+        "num": 171580,
+        "word": "花少第四期封神",
+        "onboard_time": 1757147661,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485675,
+        "num": 169919,
+        "word": "沐言和男同学吵架动手",
+        "onboard_time": 1757141541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211771,
+        "num": 169559,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1757139560,
+        "rank": 21,
+        "category": "情感,科学科普"
+      },
+      {
+        "raw_hot": 166978,
+        "num": 166978,
+        "word": "歼20模型销量暴涨175%",
+        "onboard_time": 1757125041,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153279,
+        "num": 153279,
+        "word": "Metal杂志",
+        "onboard_time": 1757130622,
+        "rank": 23,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 148068,
+        "num": 148068,
+        "word": "王力宏都天王了应该很沉稳吧",
+        "onboard_time": 1757147781,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144787,
+        "num": 144787,
+        "word": "易烊千玺礐嶨收官庆功宴",
+        "onboard_time": 1757146641,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144616,
+        "num": 144616,
+        "word": "LPL",
+        "onboard_time": 1757142261,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124777,
+        "num": 144559,
+        "word": "泰版王漫妮眼里全是野心",
+        "onboard_time": 1757144842,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118430,
+        "num": 143944,
+        "word": "成毅赴山海预排播9月11号",
+        "onboard_time": 1757147841,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48976,
+        "num": 143603,
+        "word": "药房同款药线上22元线下59.9元",
+        "onboard_time": 1757147541,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341824,
+        "num": 143274,
+        "word": "旺旺集团副董事长怒批赖清德",
+        "onboard_time": 1757144421,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143170,
+        "num": 143170,
+        "word": "阅兵这些画面首次公开",
+        "onboard_time": 1757146700,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142068,
+        "num": 142068,
+        "word": "他们一定看到了",
+        "onboard_time": 1757141181,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130716,
+        "num": 130716,
+        "word": "厦门健身房教练被两名女子当众掌掴",
+        "onboard_time": 1757147962,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126769,
+        "num": 126769,
+        "word": "王俊凯还在穿6年前的衣服",
+        "onboard_time": 1757141420,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114649,
+        "num": 114649,
+        "word": "社保多交一年会相差这么多钱",
+        "onboard_time": 1757146700,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17726,
+        "num": 114081,
+        "word": "在一张脸上看到人山人海",
+        "onboard_time": 1757147181,
+        "rank": 36,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 80094,
+        "num": 113175,
+        "word": "特朗普破防称好像把俄印输给了中国",
+        "onboard_time": 1757147181,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86286,
+        "num": 112403,
+        "word": "装配4台国产发动机运20B丝滑亮相",
+        "onboard_time": 1757145800,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54449,
+        "num": 111587,
+        "word": "暑假天天吃外卖一家人胖了50斤",
+        "onboard_time": 1757147242,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107538,
+        "num": 110466,
+        "word": "小酒窝的作业是佟丽娅盯着写的",
+        "onboard_time": 1757145381,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107778,
+        "num": 109143,
+        "word": "近期大家手机屏幕太统一",
+        "onboard_time": 1757138541,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108845,
+        "num": 108845,
+        "word": "刚入职就吃上了前同事留下的瓜",
+        "onboard_time": 1757138002,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82449,
+        "num": 108354,
+        "word": "菲防长再次抹黑中国",
+        "onboard_time": 1757147781,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108242,
+        "num": 108242,
+        "word": "谢娜谁帮我把我大哥从棚里拉出来",
+        "onboard_time": 1757147001,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107523,
+        "num": 107523,
+        "word": "iPhone17PM对比16PM",
+        "onboard_time": 1757138541,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107430,
+        "num": 107430,
+        "word": "巴西亿万富豪将全部遗产赠予内马尔",
+        "onboard_time": 1757148022,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100504,
+        "num": 100504,
+        "word": "张柏芝气血充足的美",
+        "onboard_time": 1757148022,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99798,
+        "num": 99798,
+        "word": "乖乖合影的孙颖莎",
+        "onboard_time": 1757147061,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97259,
+        "num": 97259,
+        "word": "赴山海",
+        "onboard_time": 1757139322,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#双手相握里有家国民族之重#"
+    }
+  }
+}

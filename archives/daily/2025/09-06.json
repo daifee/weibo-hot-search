@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757147284442,
+  "endTime": 1757148054266,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 998371,
+      "num": 1159739,
+      "word": "丝瓜汤",
+      "onboard_time": 1757139081,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 959247,
       "num": 142992,
       "word": "赵樱子自曝男友是一线男明星",
@@ -107,12 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 808582,
-      "num": 1129373,
-      "word": "丝瓜汤",
-      "onboard_time": 1757139081,
-      "rank": 17,
-      "category": "美食"
+      "raw_hot": 788641,
+      "num": 249396,
+      "word": "顶流官宣恋爱28年没be",
+      "onboard_time": 1757144000,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 783754,
@@ -121,14 +129,6 @@
       "onboard_time": 1757138902,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 745960,
-      "num": 249396,
-      "word": "顶流官宣恋爱28年没be",
-      "onboard_time": 1757144000,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 741647,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485675,
+      "num": 199013,
+      "word": "沐言和男同学吵架动手",
+      "onboard_time": 1757141541,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478826,
       "num": 478826,
       "word": "中级会计",
@@ -273,14 +281,6 @@
       "onboard_time": 1757083463,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 465814,
-      "num": 199013,
-      "word": "沐言和男同学吵架动手",
-      "onboard_time": 1757141541,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 463218,
@@ -337,6 +337,14 @@
       "onboard_time": 1757085563,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 412992,
+      "num": 412992,
+      "word": "王琳首次公开第一段失败婚姻",
+      "onboard_time": 1757146282,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 391769,
@@ -435,6 +443,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 341824,
+      "num": 143274,
+      "word": "旺旺集团副董事长怒批赖清德",
+      "onboard_time": 1757144421,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337650,
+      "num": 337650,
+      "word": "五位影后凑一起拍综艺了",
+      "onboard_time": 1757145142,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337360,
       "num": 142862,
       "word": "华人女孩在悉尼遭多名少女殴打",
@@ -475,28 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 324011,
-      "num": 304028,
-      "word": "王琳首次公开第一段失败婚姻",
-      "onboard_time": 1757146282,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317898,
       "num": 317898,
       "word": "唐香玉上恋综的段子成真了",
       "onboard_time": 1757128760,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 313310,
-      "num": 137616,
-      "word": "旺旺集团副董事长怒批赖清德",
-      "onboard_time": 1757144421,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 313284,
@@ -529,14 +537,6 @@
       "onboard_time": 1757088921,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 297483,
-      "num": 297483,
-      "word": "五位影后凑一起拍综艺了",
-      "onboard_time": 1757145142,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 294699,
@@ -587,6 +587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 284225,
+      "num": 284225,
+      "word": "全国肥胖率分布地图出炉",
+      "onboard_time": 1757142440,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267429,
       "num": 185671,
       "word": "单身太久突然谈了个恋爱时",
@@ -625,14 +633,6 @@
       "onboard_time": 1757139322,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251949,
-      "num": 251949,
-      "word": "全国肥胖率分布地图出炉",
-      "onboard_time": 1757142440,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250070,
@@ -779,6 +779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200453,
+      "num": 200453,
+      "word": "宁静邵子恒 我认识你爸爸",
+      "onboard_time": 1757147781,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199313,
       "num": 275993,
       "word": "杨紫家业预排播12月",
@@ -905,6 +913,14 @@
       "onboard_time": 1757123841,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 171580,
+      "num": 171580,
+      "word": "花少第四期封神",
+      "onboard_time": 1757147661,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 169565,
@@ -1035,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148068,
+      "num": 148068,
+      "word": "王力宏都天王了应该很沉稳吧",
+      "onboard_time": 1757147781,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146806,
       "num": 182754,
       "word": "宋佳现场收房本收到手软",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1757137041,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144787,
+      "num": 156239,
+      "word": "易烊千玺礐嶨收官庆功宴",
+      "onboard_time": 1757146641,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 144266,
@@ -1099,12 +1131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142086,
-      "num": 156239,
-      "word": "易烊千玺礐嶨收官庆功宴",
-      "onboard_time": 1757146641,
-      "rank": 24,
-      "category": "演出"
+      "raw_hot": 143170,
+      "num": 143170,
+      "word": "阅兵这些画面首次公开",
+      "onboard_time": 1757146700,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141973,
@@ -1251,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130716,
+      "num": 130716,
+      "word": "厦门健身房教练被两名女子当众掌掴",
+      "onboard_time": 1757147962,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129781,
       "num": 129781,
       "word": "许凯回应是田曦薇E人的玩具",
@@ -1331,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124777,
+      "num": 151401,
+      "word": "泰版王漫妮眼里全是野心",
+      "onboard_time": 1757144842,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124658,
       "num": 122331,
       "word": "阎鹤祥花46块7买了一个岛",
@@ -1395,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118430,
+      "num": 143944,
+      "word": "成毅赴山海预排播9月11号",
+      "onboard_time": 1757147841,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118277,
       "num": 118277,
       "word": "R1SE美美出游一个劲的晕船",
@@ -1435,19 +1491,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115168,
-      "num": 115168,
-      "word": "阅兵这些画面首次公开",
-      "onboard_time": 1757146700,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 114747,
       "num": 114747,
       "word": "易会满被免至今A股上涨近1000点",
       "onboard_time": 1757131942,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114649,
+      "num": 114649,
+      "word": "社保多交一年会相差这么多钱",
+      "onboard_time": 1757146700,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1481,14 +1537,6 @@
       "onboard_time": 1757127501,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113643,
-      "num": 151401,
-      "word": "泰版王漫妮眼里全是野心",
-      "onboard_time": 1757144842,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 113624,
@@ -1545,6 +1593,30 @@
       "onboard_time": 1757127019,
       "rank": 42,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 108242,
+      "num": 137717,
+      "word": "谢娜谁帮我把我大哥从棚里拉出来",
+      "onboard_time": 1757147001,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107538,
+      "num": 110466,
+      "word": "小酒窝的作业是佟丽娅盯着写的",
+      "onboard_time": 1757145381,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 107430,
+      "num": 107430,
+      "word": "巴西亿万富豪将全部遗产赠予内马尔",
+      "onboard_time": 1757148022,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106473,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1757130202,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100504,
+      "num": 100504,
+      "word": "张柏芝气血充足的美",
+      "onboard_time": 1757148022,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 100304,
@@ -1779,14 +1859,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 88268,
-      "num": 137717,
-      "word": "谢娜谁帮我把我大哥从棚里拉出来",
-      "onboard_time": 1757147001,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88266,
       "num": 88266,
       "word": "上海月租1500的房子",
@@ -1808,6 +1880,14 @@
       "word": "阅兵结束军民同框",
       "onboard_time": 1757084844,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 86286,
+      "num": 251546,
+      "word": "装配4台国产发动机运20B丝滑亮相",
+      "onboard_time": 1757145800,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -1851,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82449,
+      "num": 108354,
+      "word": "菲防长再次抹黑中国",
+      "onboard_time": 1757147781,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82370,
       "num": 82370,
       "word": "字节实习生一天领13份餐被通报",
@@ -1873,6 +1961,14 @@
       "onboard_time": 1757120542,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80094,
+      "num": 113175,
+      "word": "特朗普破防称好像把俄印输给了中国",
+      "onboard_time": 1757147181,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76754,
@@ -1987,14 +2083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57344,
-      "num": 251546,
-      "word": "装配4台国产发动机运20B丝滑亮相",
-      "onboard_time": 1757145800,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 56531,
       "num": 144274,
       "word": "加拿大讨论用中国电动车换油菜籽",
@@ -2009,6 +2097,14 @@
       "onboard_time": 1757115137,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54449,
+      "num": 111587,
+      "word": "暑假天天吃外卖一家人胖了50斤",
+      "onboard_time": 1757147242,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54296,
@@ -2067,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48976,
+      "num": 143603,
+      "word": "药房同款药线上22元线下59.9元",
+      "onboard_time": 1757147541,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48577,
       "num": 69228,
       "word": "王楚钦冬去秋来又是一程",
@@ -2080,14 +2184,6 @@
       "word": "小学生被球击中远视力仅剩0.04",
       "onboard_time": 1757138481,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45497,
-      "num": 106548,
-      "word": "暑假天天吃外卖一家人胖了50斤",
-      "onboard_time": 1757147242,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2113,14 +2209,6 @@
       "onboard_time": 1757134942,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38074,
-      "num": 107494,
-      "word": "特朗普破防称好像把俄印输给了中国",
-      "onboard_time": 1757147181,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37073,
@@ -2228,7 +2316,7 @@
     },
     {
       "raw_hot": 20748,
-      "num": 108003,
+      "num": 114081,
       "word": "在一张脸上看到人山人海",
       "onboard_time": 1757147181,
       "rank": 38,
