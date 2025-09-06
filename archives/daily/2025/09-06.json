@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757151393716,
+  "endTime": 1757154161980,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -17,6 +17,14 @@
       "onboard_time": 1757120300,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1675195,
+      "num": 253906,
+      "word": "武汉大学椅子事件通报",
+      "onboard_time": 1757150901,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1465008,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 943049,
+      "num": 253481,
+      "word": "曝男明星把甲方样机卖了",
+      "onboard_time": 1757150781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 938309,
       "num": 487053,
       "word": "塞尔维亚局势",
@@ -121,6 +137,14 @@
       "onboard_time": 1757140102,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 808931,
+      "num": 572473,
+      "word": "单休违法吗",
+      "onboard_time": 1757148622,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 793926,
@@ -211,14 +235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 572473,
-      "num": 572473,
-      "word": "单休违法吗",
-      "onboard_time": 1757148622,
-      "rank": 13,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 570087,
       "num": 570087,
       "word": "中元节血月",
@@ -307,6 +323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 478459,
+      "num": 439346,
+      "word": "李维嘉回应张杰谢娜谁追的谁",
+      "onboard_time": 1757149641,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475717,
       "num": 475717,
       "word": "男子将死老鼠放饮料机上被刑拘",
@@ -379,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 439346,
-      "num": 439346,
-      "word": "李维嘉回应张杰谢娜谁追的谁",
-      "onboard_time": 1757149641,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 431922,
       "num": 431922,
       "word": "美国拘捕300名韩国人",
@@ -417,6 +433,14 @@
       "onboard_time": 1757128159,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 378070,
+      "num": 251978,
+      "word": "遭老板性侵女子称113万不能弥补损失",
+      "onboard_time": 1757152103,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376286,
@@ -569,6 +593,14 @@
       "onboard_time": 1757147781,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310390,
+      "num": 310390,
+      "word": "郭帆回应白改了",
+      "onboard_time": 1757151262,
+      "rank": 39,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 304285,
@@ -859,6 +891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209141,
+      "num": 209141,
+      "word": "李维嘉回复谢娜喊话",
+      "onboard_time": 1757152401,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199313,
       "num": 275993,
       "word": "杨紫家业预排播12月",
@@ -913,6 +953,14 @@
       "onboard_time": 1757142261,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184406,
+      "num": 254463,
+      "word": "成都震感",
+      "onboard_time": 1757149941,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182300,
@@ -1011,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167896,
+      "num": 167896,
+      "word": "田栩宁Metal",
+      "onboard_time": 1757152461,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 167571,
       "num": 167571,
       "word": "迪丽热巴白裙现身",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1757138541,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 164523,
+      "num": 164523,
+      "word": "晚上10点睡和11点睡的区别",
+      "onboard_time": 1757150302,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163898,
@@ -1048,14 +1112,6 @@
       "word": "孙燕姿老公获奖发文感谢老婆孩子",
       "onboard_time": 1757136502,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 158201,
-      "num": 158201,
-      "word": "曝男明星把甲方样机卖了",
-      "onboard_time": 1757150781,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1123,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151174,
+      "num": 140710,
+      "word": "江祖平自曝遭下药性侵男方发声",
+      "onboard_time": 1757150781,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150993,
       "num": 190288,
       "word": "谢娜大哥说张杰唱歌一般",
@@ -1137,14 +1201,6 @@
       "onboard_time": 1757133142,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149757,
-      "num": 230090,
-      "word": "武汉大学椅子事件通报",
-      "onboard_time": 1757150901,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149453,
@@ -1275,14 +1331,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 140710,
-      "num": 140710,
-      "word": "江祖平自曝遭下药性侵男方发声",
-      "onboard_time": 1757150781,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140197,
       "num": 140197,
       "word": "蔡徐坤自拍",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1757136801,
       "rank": 42,
       "category": "议题讨论,电影"
-    },
-    {
-      "raw_hot": 137042,
-      "num": 137042,
-      "word": "成都震感",
-      "onboard_time": 1757149941,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136937,
@@ -1355,20 +1395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135414,
-      "num": 135414,
-      "word": "晚上10点睡和11点睡的区别",
-      "onboard_time": 1757150302,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 135374,
       "num": 135374,
       "word": "辛纳本赛季四大满贯全进决赛",
       "onboard_time": 1757129420,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134638,
+      "num": 134638,
+      "word": "龚俊让张雅琪自产自销",
+      "onboard_time": 1757153660,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 134566,
@@ -1451,6 +1491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129279,
+      "num": 129279,
+      "word": "老人乱按电梯被年轻医生教育",
+      "onboard_time": 1757153181,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129008,
       "num": 129008,
       "word": "花儿与少年7",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1757131222,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128269,
+      "num": 128269,
+      "word": "胡锡进评武大椅子事件",
+      "onboard_time": 1757150961,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128151,
@@ -1571,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119194,
-      "num": 119194,
-      "word": "胡锡进评武大椅子事件",
-      "onboard_time": 1757150961,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119154,
       "num": 119154,
       "word": "孟子义李昀锐造型",
@@ -1651,12 +1699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115768,
-      "num": 115768,
-      "word": "郭帆回应白改了",
-      "onboard_time": 1757151262,
-      "rank": 39,
-      "category": "国内时政,艺人"
+      "raw_hot": 115507,
+      "num": 115507,
+      "word": "江西都昌走失5岁男童遗体被找到",
+      "onboard_time": 1757151562,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115363,
@@ -1811,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103578,
+      "num": 103578,
+      "word": "阅兵当天才知道自己做的包去哪儿了",
+      "onboard_time": 1757153902,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103460,
       "num": 233513,
       "word": "唐国强对时代少年团明目张胆的偏爱",
@@ -1849,6 +1905,14 @@
       "onboard_time": 1757148381,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102408,
+      "num": 102408,
+      "word": "七彩祥云的治愈感",
+      "onboard_time": 1757153001,
+      "rank": 44,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 102288,
@@ -1907,6 +1971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 99699,
+      "num": 99699,
+      "word": "时代少年团宣誓再也不熬夜了",
+      "onboard_time": 1757154140,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99636,
       "num": 99636,
       "word": "九紫璃光妆开运了",
@@ -1921,6 +1993,14 @@
       "onboard_time": 1757150781,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99260,
+      "num": 99260,
+      "word": "四川便宜且难吃的特产",
+      "onboard_time": 1757152701,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 99122,
@@ -2019,12 +2099,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94642,
+      "num": 191137,
+      "word": "货船与渔船相撞造成人员失联",
+      "onboard_time": 1757152882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93296,
       "num": 275982,
       "word": "易会满曾表示证监会主席像火山口",
       "onboard_time": 1757132541,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92952,
+      "num": 92952,
+      "word": "苏醒当队长该出手时就出手",
+      "onboard_time": 1757153601,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 91461,
@@ -2177,6 +2273,14 @@
       "onboard_time": 1757150302,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76933,
+      "num": 102845,
+      "word": "宋亚轩沈腾一个拿不到一个打不开",
+      "onboard_time": 1757152942,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 76754,
@@ -2385,6 +2489,14 @@
       "onboard_time": 1757149342,
       "rank": 18,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 50813,
+      "num": 110417,
+      "word": "刘亦菲比了个ok手势便走进影棚",
+      "onboard_time": 1757154140,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 49930,
@@ -2649,6 +2761,9 @@
     },
     {
       "word": "#双手相握里有家国民族之重#"
+    },
+    {
+      "word": "#读懂总书记胜利日讲话金句的启示#"
     }
   ]
 }
