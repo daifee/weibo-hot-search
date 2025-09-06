@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757137134172,
+  "endTime": 1757140363178,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 887771,
+      "num": 362852,
+      "word": "田一名官宣恋情",
+      "onboard_time": 1757136141,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 881564,
       "num": 881564,
       "word": "这竟然是秦昊",
@@ -97,6 +105,14 @@
       "onboard_time": 1757130501,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 694749,
+      "num": 360634,
+      "word": "幼儿误吞电池10小时致终身残疾",
+      "onboard_time": 1757138902,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 678528,
@@ -131,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 570087,
+      "num": 570087,
+      "word": "中元节血月",
+      "onboard_time": 1757134402,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561353,
       "num": 870094,
       "word": "张亮退出张亮麻辣烫股东行列",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 556778,
-      "num": 492300,
+      "num": 510538,
       "word": "董璇说不会把钱都给张维伊",
       "onboard_time": 1757134522,
       "rank": 15,
@@ -161,6 +185,14 @@
       "onboard_time": 1757117719,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537057,
+      "num": 356413,
+      "word": "锤娜丽莎半年瘦20斤",
+      "onboard_time": 1757135421,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 511801,
@@ -283,19 +315,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 374711,
-      "num": 374711,
-      "word": "中元节血月",
-      "onboard_time": 1757134402,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 372509,
       "num": 448958,
       "word": "关晓彤竟然还有庄筱婷林栋哲售后",
       "onboard_time": 1757125880,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 369911,
+      "num": 369911,
+      "word": "张杰说谢娜妈妈像赵雅芝",
+      "onboard_time": 1757136322,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -323,6 +355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 348733,
+      "num": 348733,
+      "word": "韩国议员观看阅兵后责备尹锡悦",
+      "onboard_time": 1757136742,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 337360,
       "num": 142862,
       "word": "华人女孩在悉尼遭多名少女殴打",
@@ -347,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331157,
+      "num": 142111,
+      "word": "难怪别人怀疑熹贵妃的肚子",
+      "onboard_time": 1757139081,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327746,
       "num": 291168,
       "word": "俄方要求日本完全承认二战结果",
@@ -361,22 +409,6 @@
       "onboard_time": 1757101274,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324310,
-      "num": 321104,
-      "word": "锤娜丽莎半年瘦20斤",
-      "onboard_time": 1757135421,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 318352,
-      "num": 293751,
-      "word": "田一名官宣恋情",
-      "onboard_time": 1757136141,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 317898,
@@ -491,14 +523,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 252489,
-      "num": 252489,
-      "word": "张杰说谢娜妈妈像赵雅芝",
-      "onboard_time": 1757136322,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250070,
       "num": 293585,
       "word": "唐国强 上次这么敢说还是康熙",
@@ -521,6 +545,14 @@
       "onboard_time": 1757085682,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244542,
+      "num": 367806,
+      "word": "近期大家手机屏幕太统一",
+      "onboard_time": 1757138541,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 244090,
@@ -553,6 +585,14 @@
       "onboard_time": 1757129001,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236297,
+      "num": 236297,
+      "word": "丝瓜汤",
+      "onboard_time": 1757139081,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 233713,
@@ -619,6 +659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205017,
+      "num": 205017,
+      "word": "赴山海",
+      "onboard_time": 1757139322,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199313,
       "num": 275993,
       "word": "杨紫家业预排播12月",
@@ -641,6 +689,22 @@
       "onboard_time": 1757128641,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191347,
+      "num": 191347,
+      "word": "刚入职就吃上了前同事留下的瓜",
+      "onboard_time": 1757138002,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 190456,
+      "num": 190456,
+      "word": "厦门航空一航班起飞滑行时急刹中断",
+      "onboard_time": 1757137162,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182300,
@@ -731,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167119,
+      "num": 167119,
+      "word": "iPhone17PM对比16PM",
+      "onboard_time": 1757138541,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 163898,
       "num": 267257,
       "word": "严浩翔手动帮贺峻霖静音",
@@ -779,12 +851,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153355,
+      "num": 153355,
+      "word": "国产剧又来个不好惹的女主",
+      "onboard_time": 1757139140,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152972,
       "num": 152972,
       "word": "36岁靠200万利息提前退休",
       "onboard_time": 1757133442,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151249,
+      "num": 140671,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1757139560,
+      "rank": 33,
+      "category": "情感,科学科普"
+    },
+    {
+      "raw_hot": 150993,
+      "num": 150993,
+      "word": "谢娜大哥说张杰唱歌一般",
+      "onboard_time": 1757137702,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 150123,
@@ -891,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139677,
+      "num": 139677,
+      "word": "姜潮麦迪娜孩子颜值",
+      "onboard_time": 1757140102,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139103,
       "num": 166423,
       "word": "沈腾当裁判被观众大喊黑幕",
@@ -955,11 +1059,27 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 134003,
+      "num": 134003,
+      "word": "听泉鉴宝和侯明昊演对手戏",
+      "onboard_time": 1757134762,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133655,
       "num": 133655,
       "word": "外国曹操看阅兵",
       "onboard_time": 1757084662,
       "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 132733,
+      "num": 132733,
+      "word": "坚持走和平发展道路",
+      "onboard_time": 1757137581,
+      "rank": 40,
       "category": "国内时政"
     },
     {
@@ -1027,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125181,
+      "num": 125181,
+      "word": "陈乔恩给所有失恋女生的一段话",
+      "onboard_time": 1757139921,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124658,
       "num": 122331,
       "word": "阎鹤祥花46块7买了一个岛",
       "onboard_time": 1757084361,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122884,
+      "num": 122884,
+      "word": "只有刘亦菲在回望五年前",
+      "onboard_time": 1757140342,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 122248,
@@ -1057,6 +1193,14 @@
       "onboard_time": 1757135481,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121101,
+      "num": 145433,
+      "word": "董璇你来看看什么叫真感情",
+      "onboard_time": 1757139801,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 120658,
@@ -1107,6 +1251,14 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 117053,
+      "num": 117053,
+      "word": "阅兵重播",
+      "onboard_time": 1757139861,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116942,
       "num": 111829,
       "word": "喻言好美",
@@ -1115,12 +1267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115914,
-      "num": 122249,
-      "word": "听泉鉴宝和侯明昊演对手戏",
-      "onboard_time": 1757134762,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 116119,
+      "num": 116119,
+      "word": "KTV自拍被张惠妹吓晕",
+      "onboard_time": 1757138061,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 114747,
@@ -1171,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112978,
+      "num": 324122,
+      "word": "辛巴方否认被带走调查",
+      "onboard_time": 1757136801,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112837,
       "num": 112837,
       "word": "顾茜茜复播",
@@ -1201,6 +1361,14 @@
       "onboard_time": 1757127019,
       "rank": 42,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 104447,
+      "num": 104447,
+      "word": "义乌速度堪比东风",
+      "onboard_time": 1757138902,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103460,
@@ -1443,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73742,
+      "num": 133037,
+      "word": "看到纯元和四爷逛环球影城了",
+      "onboard_time": 1757139262,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73396,
       "num": 137152,
       "word": "泳池排水口  吸人黑洞",
@@ -1515,12 +1691,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 66611,
-      "num": 335246,
-      "word": "韩国议员观看阅兵后责备尹锡悦",
-      "onboard_time": 1757136742,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 58512,
+      "num": 132874,
+      "word": "那英说张晚意李沁成爸妈了",
+      "onboard_time": 1757140220,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 56531,
@@ -1563,6 +1739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 53612,
+      "num": 168618,
+      "word": "胡兵的衣服我穿上就是拖地裙",
+      "onboard_time": 1757136860,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49930,
       "num": 262931,
       "word": "中元节为何又称孝亲节",
@@ -1577,6 +1761,14 @@
       "onboard_time": 1757078481,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46785,
+      "num": 143228,
+      "word": "小学生被球击中远视力仅剩0.04",
+      "onboard_time": 1757138481,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44606,
@@ -1643,12 +1835,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29693,
-      "num": 324122,
-      "word": "辛巴方否认被带走调查",
-      "onboard_time": 1757136801,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 27489,
+      "num": 595976,
+      "word": "致敬阅兵仪式背后的每个人",
+      "onboard_time": 1757085863,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25499,
@@ -1697,14 +1889,6 @@
       "onboard_time": 1757095636,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 19319,
-      "num": 168618,
-      "word": "胡兵的衣服我穿上就是拖地裙",
-      "onboard_time": 1757136860,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 17005,
