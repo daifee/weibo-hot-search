@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757136153722,
+  "endTime": 1757137134172,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1239732,
+      "num": 1239732,
+      "word": "张维伊婚礼给去世父母留了座位",
+      "onboard_time": 1757134881,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1008315,
       "num": 448814,
       "word": "小酒窝有官配cp了",
@@ -81,14 +89,6 @@
       "onboard_time": 1757128881,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 783217,
-      "num": 783217,
-      "word": "张维伊婚礼给去世父母留了座位",
-      "onboard_time": 1757134881,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 741647,
@@ -137,6 +137,14 @@
       "onboard_time": 1757078241,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 556778,
+      "num": 492300,
+      "word": "董璇说不会把钱都给张维伊",
+      "onboard_time": 1757134522,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 543469,
@@ -267,20 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 383463,
-      "num": 383463,
-      "word": "董璇说不会把钱都给张维伊",
-      "onboard_time": 1757134522,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376286,
       "num": 376286,
       "word": "杭州22岁女兵受阅特警爸嘴角压不住",
       "onboard_time": 1757112496,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 374711,
+      "num": 374711,
+      "word": "中元节血月",
+      "onboard_time": 1757134402,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372509,
@@ -313,14 +321,6 @@
       "onboard_time": 1757123781,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 338836,
-      "num": 338836,
-      "word": "中元节血月",
-      "onboard_time": 1757134402,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 337360,
@@ -361,6 +361,22 @@
       "onboard_time": 1757101274,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324310,
+      "num": 321104,
+      "word": "锤娜丽莎半年瘦20斤",
+      "onboard_time": 1757135421,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318352,
+      "num": 293751,
+      "word": "田一名官宣恋情",
+      "onboard_time": 1757136141,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 317898,
@@ -475,12 +491,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 255511,
-      "num": 255511,
-      "word": "锤娜丽莎半年瘦20斤",
-      "onboard_time": 1757135421,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 252489,
+      "num": 252489,
+      "word": "张杰说谢娜妈妈像赵雅芝",
+      "onboard_time": 1757136322,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 250070,
@@ -675,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174696,
+      "num": 174696,
+      "word": "刘亦菲完全不挑食但最爱吃肉",
+      "onboard_time": 1757135541,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 174623,
       "num": 174623,
       "word": "张柏芝柯淳出发录制一路繁花2",
@@ -699,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167929,
+      "num": 167929,
+      "word": "狗比小北先拿到上海户口",
+      "onboard_time": 1757136622,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163898,
       "num": 267257,
       "word": "严浩翔手动帮贺峻霖静音",
@@ -707,12 +739,20 @@
       "category": "综艺,电竞"
     },
     {
-      "raw_hot": 160207,
-      "num": 160207,
-      "word": "刘亦菲完全不挑食但最爱吃肉",
-      "onboard_time": 1757135541,
-      "rank": 33,
-      "category": "作品衍生,时尚"
+      "raw_hot": 159668,
+      "num": 159668,
+      "word": "孙燕姿老公获奖发文感谢老婆孩子",
+      "onboard_time": 1757136502,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157685,
+      "num": 168211,
+      "word": "朱珠 剧本好的话演女八号都行",
+      "onboard_time": 1757136622,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 157516,
@@ -737,6 +777,14 @@
       "onboard_time": 1757133622,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 152972,
+      "num": 152972,
+      "word": "36岁靠200万利息提前退休",
+      "onboard_time": 1757133442,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 150123,
@@ -769,6 +817,14 @@
       "onboard_time": 1757088021,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145449,
+      "num": 145449,
+      "word": "梓渝新歌晨昏线",
+      "onboard_time": 1757137041,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 143592,
@@ -843,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138161,
+      "num": 138161,
+      "word": "现在的鬼片为什么不吓人了",
+      "onboard_time": 1757136801,
+      "rank": 42,
+      "category": "议题讨论,电影"
+    },
+    {
       "raw_hot": 136937,
       "num": 136937,
       "word": "iPhone17Pro灵动岛或缩短25%",
@@ -899,12 +963,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 131290,
-      "num": 131290,
-      "word": "36岁靠200万利息提前退休",
-      "onboard_time": 1757133442,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 129781,
+      "num": 129781,
+      "word": "许凯回应是田曦薇E人的玩具",
+      "onboard_time": 1757136441,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 129551,
@@ -921,6 +985,14 @@
       "onboard_time": 1757115738,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129008,
+      "num": 129008,
+      "word": "花儿与少年7",
+      "onboard_time": 1757137041,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 128322,
@@ -985,14 +1057,6 @@
       "onboard_time": 1757135481,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121349,
-      "num": 121349,
-      "word": "田一名官宣恋情",
-      "onboard_time": 1757136141,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 120658,
@@ -1171,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102125,
+      "num": 145464,
+      "word": "黄泽锋58岁妻子产女",
+      "onboard_time": 1757136860,
+      "rank": 38,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 100933,
       "num": 100933,
       "word": "闫妮宋亚轩 微醺姐和淡定哥",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1757122941,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98570,
+      "num": 487322,
+      "word": "易会满任期平均1天发行1只新股",
+      "onboard_time": 1757135122,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 97987,
@@ -1305,14 +1385,6 @@
       "onboard_time": 1757084844,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 86296,
-      "num": 487322,
-      "word": "易会满任期平均1天发行1只新股",
-      "onboard_time": 1757135122,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 85219,
@@ -1443,6 +1515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66611,
+      "num": 335246,
+      "word": "韩国议员观看阅兵后责备尹锡悦",
+      "onboard_time": 1757136742,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56531,
       "num": 144274,
       "word": "加拿大讨论用中国电动车换油菜籽",
@@ -1539,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31077,
+      "num": 337791,
+      "word": "中国最好的武器是不把钱花在战争上",
+      "onboard_time": 1757136860,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31054,
       "num": 1262888,
       "word": "受阅官兵晒出专属阅兵脸",
@@ -1548,11 +1636,19 @@
     },
     {
       "raw_hot": 30357,
-      "num": 326154,
+      "num": 343945,
       "word": "邢菲因嘴馋当上零食买手",
       "onboard_time": 1757133261,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29693,
+      "num": 324122,
+      "word": "辛巴方否认被带走调查",
+      "onboard_time": 1757136801,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25499,
@@ -1579,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22351,
+      "num": 184485,
+      "word": "易会满曾称工作如履薄冰",
+      "onboard_time": 1757136742,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19891,
       "num": 25059,
       "word": "穿破洞裤出门前一定要照镜子",
@@ -1592,6 +1696,22 @@
       "word": "老人讲述日军屠杀细节字字泣血",
       "onboard_time": 1757095636,
       "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19319,
+      "num": 168618,
+      "word": "胡兵的衣服我穿上就是拖地裙",
+      "onboard_time": 1757136860,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17005,
+      "num": 563985,
+      "word": "九三阅兵镜头外的感动瞬间",
+      "onboard_time": 1757119702,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -1638,6 +1758,9 @@
   "hotgov_list": [
     {
       "word": "#党旗所指正是军旗所向#"
+    },
+    {
+      "word": "#双手相握里有家国民族之重#"
     }
   ]
 }
