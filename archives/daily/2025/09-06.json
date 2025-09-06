@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757165113476,
+  "endTime": 1757165809307,
   "band_list": [
     {
       "raw_hot": 2407755,
@@ -27,6 +27,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1875997,
+      "num": 1875997,
+      "word": "毛主席嫡孙一家参加九三阅兵",
+      "onboard_time": 1757164103,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1675195,
       "num": 253906,
       "word": "武汉大学椅子事件通报",
@@ -49,14 +57,6 @@
       "onboard_time": 1757116518,
       "rank": 1,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 1428924,
-      "num": 1428924,
-      "word": "毛主席嫡孙一家参加九三阅兵",
-      "onboard_time": 1757164103,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1394387,
@@ -248,6 +248,14 @@
       "word": "教体局回应一中学新初一共94个班",
       "onboard_time": 1757091258,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 657262,
+      "num": 657262,
+      "word": "劝老外取消订单劝不住",
+      "onboard_time": 1757164283,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -515,8 +523,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 406443,
-      "num": 406443,
+      "raw_hot": 410357,
+      "num": 410357,
       "word": "辛芷蕾 威尼斯电影节",
       "onboard_time": 1757162602,
       "rank": 13,
@@ -819,14 +827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284922,
-      "num": 284922,
-      "word": "劝老外取消订单劝不住",
-      "onboard_time": 1757164283,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 284848,
       "num": 114749,
       "word": "杨幂张小斐 从校服到礼服",
@@ -1091,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207264,
+      "num": 391875,
+      "word": "加澳军舰过航台湾海峡并滋扰挑衅",
+      "onboard_time": 1757164163,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 201821,
       "num": 284344,
       "word": "一路繁花2",
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 199040,
-      "num": 236441,
+      "num": 264651,
       "word": "刘宇宁直播",
       "onboard_time": 1757161042,
       "rank": 25,
@@ -1153,6 +1161,14 @@
       "onboard_time": 1757128641,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196356,
+      "num": 196356,
+      "word": "王楚钦提升北大体育声誉",
+      "onboard_time": 1757165122,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 193820,
@@ -1227,6 +1243,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 180627,
+      "num": 180627,
+      "word": "苏超南通vs扬州",
+      "onboard_time": 1757164103,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180016,
       "num": 142118,
       "word": "王晶谈赵丽颖能红原因",
@@ -1243,12 +1267,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 178812,
-      "num": 315542,
-      "word": "加澳军舰过航台湾海峡并滋扰挑衅",
-      "onboard_time": 1757164163,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 179004,
+      "num": 179004,
+      "word": "苏超",
+      "onboard_time": 1757154800,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 177582,
@@ -1467,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156064,
-      "num": 156064,
-      "word": "苏超南通vs扬州",
-      "onboard_time": 1757164103,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155721,
       "num": 169540,
       "word": "宋轶直播",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1757133442,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152178,
+      "num": 152178,
+      "word": "樊振东演我上班",
+      "onboard_time": 1757163382,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 151440,
@@ -1555,12 +1579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149452,
-      "num": 149452,
-      "word": "樊振东演我上班",
-      "onboard_time": 1757163382,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 148766,
+      "num": 148766,
+      "word": "369Karsa世纪大和解",
+      "onboard_time": 1757162602,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 148068,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1757130801,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146213,
+      "num": 159294,
+      "word": "蒋欣任彬再见爱人",
+      "onboard_time": 1757165484,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 146068,
@@ -1707,14 +1739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141472,
-      "num": 141472,
-      "word": "369Karsa世纪大和解",
-      "onboard_time": 1757162602,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 140937,
       "num": 142677,
       "word": "杨幂热巴说马思纯瘦了",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1757132841,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138721,
+      "num": 138721,
+      "word": "七彩祥云",
+      "onboard_time": 1757165065,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138161,
@@ -2091,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121340,
+      "num": 121340,
+      "word": "原来老虎也会揣手手",
+      "onboard_time": 1757165242,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120825,
       "num": 177034,
       "word": "这动作也就唐国强敢做了",
@@ -2177,14 +2217,6 @@
       "onboard_time": 1757126720,
       "rank": 37,
       "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 117217,
-      "num": 117217,
-      "word": "苏超",
-      "onboard_time": 1757154800,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 116942,
@@ -2307,14 +2339,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 112204,
-      "num": 112204,
-      "word": "七彩祥云",
-      "onboard_time": 1757165065,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111772,
       "num": 111772,
       "word": "杭州通报酒馆营销活动涉嫌擦边",
@@ -2331,20 +2355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109656,
+      "num": 109656,
+      "word": "丞磊谙南王回朝",
+      "onboard_time": 1757164942,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109548,
       "num": 109548,
       "word": "詹姆斯成都双子塔前戴皇冠",
       "onboard_time": 1757125100,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109012,
-      "num": 109012,
-      "word": "丞磊谙南王回朝",
-      "onboard_time": 1757164942,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 108836,
@@ -2393,6 +2417,14 @@
       "onboard_time": 1757162483,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 105780,
+      "num": 105780,
+      "word": "王力宏头发乖乖领口开开",
+      "onboard_time": 1757165004,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 104447,
@@ -2987,6 +3019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 63319,
+      "num": 249930,
+      "word": "东风5C抱枕遭抢购",
+      "onboard_time": 1757165004,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61720,
       "num": 100638,
       "word": "700公里托运下司犬死在后备箱",
@@ -3203,16 +3243,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32403,
-      "num": 120852,
-      "word": "东风5C抱枕遭抢购",
-      "onboard_time": 1757165004,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32054,
-      "num": 120248,
+      "num": 121109,
       "word": "不要相信你舍友的第一面",
       "onboard_time": 1757164822,
       "rank": 38,

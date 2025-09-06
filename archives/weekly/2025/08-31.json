@@ -1,6 +1,6 @@
 {
   "startTime": 1756571328541,
-  "endTime": 1757165113476,
+  "endTime": 1757165809307,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1875997,
+      "num": 1875997,
+      "word": "毛主席嫡孙一家参加九三阅兵",
+      "onboard_time": 1757164103,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1872687,
       "num": 303342,
       "word": "刘冲 审美",
@@ -728,14 +736,6 @@
       "word": "真理",
       "onboard_time": 1756865975,
       "rank": 31,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1428924,
-      "num": 1428924,
-      "word": "毛主席嫡孙一家参加九三阅兵",
-      "onboard_time": 1757164103,
-      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -2104,6 +2104,14 @@
       "word": "教体局回应一中学新初一共94个班",
       "onboard_time": 1757091258,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 657262,
+      "num": 657262,
+      "word": "劝老外取消订单劝不住",
+      "onboard_time": 1757164283,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -3811,6 +3819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 410357,
+      "num": 410357,
+      "word": "辛芷蕾 威尼斯电影节",
+      "onboard_time": 1757162602,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 408981,
       "num": 246345,
       "word": "许昕疑似不满裁判判罚",
@@ -3825,14 +3841,6 @@
       "onboard_time": 1756888524,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 406443,
-      "num": 406443,
-      "word": "辛芷蕾 威尼斯电影节",
-      "onboard_time": 1757162602,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 402847,
@@ -5473,14 +5481,6 @@
       "onboard_time": 1757158344,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284922,
-      "num": 284922,
-      "word": "劝老外取消订单劝不住",
-      "onboard_time": 1757164283,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284848,
@@ -7211,6 +7211,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 207264,
+      "num": 391875,
+      "word": "加澳军舰过航台湾海峡并滋扰挑衅",
+      "onboard_time": 1757164163,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207158,
       "num": 207158,
       "word": "阅兵时间",
@@ -7596,7 +7604,7 @@
     },
     {
       "raw_hot": 199040,
-      "num": 236441,
+      "num": 264651,
       "word": "刘宇宁直播",
       "onboard_time": 1757161042,
       "rank": 25,
@@ -7697,6 +7705,14 @@
       "onboard_time": 1756953381,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196356,
+      "num": 196356,
+      "word": "王楚钦提升北大体育声誉",
+      "onboard_time": 1757165122,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 196314,
@@ -8619,6 +8635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180627,
+      "num": 180627,
+      "word": "苏超南通vs扬州",
+      "onboard_time": 1757164103,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180485,
       "num": 278063,
       "word": "咱家战机多到一眼望不到头",
@@ -8667,6 +8691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 179004,
+      "num": 179004,
+      "word": "苏超",
+      "onboard_time": 1756641922,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178934,
       "num": 174697,
       "word": "杭州西湖管理方太严谨了",
@@ -8681,14 +8713,6 @@
       "onboard_time": 1757071521,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178812,
-      "num": 315542,
-      "word": "加澳军舰过航台湾海峡并滋扰挑衅",
-      "onboard_time": 1757164163,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 178695,
@@ -9185,14 +9209,6 @@
       "onboard_time": 1756565063,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 168036,
-      "num": 168036,
-      "word": "苏超",
-      "onboard_time": 1756641922,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 167929,
@@ -9955,14 +9971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156064,
-      "num": 156064,
-      "word": "苏超南通vs扬州",
-      "onboard_time": 1757164103,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155786,
       "num": 180821,
       "word": "全球治理走到新的十字路口",
@@ -10275,6 +10283,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 152178,
+      "num": 152178,
+      "word": "樊振东演我上班",
+      "onboard_time": 1757163382,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151954,
       "num": 151954,
       "word": "我承认多读书真的太酷了",
@@ -10507,14 +10523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149452,
-      "num": 149452,
-      "word": "樊振东演我上班",
-      "onboard_time": 1757163382,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149365,
       "num": 149365,
       "word": "阅兵网友神评论",
@@ -10577,6 +10585,14 @@
       "onboard_time": 1756782500,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148766,
+      "num": 148766,
+      "word": "369Karsa世纪大和解",
+      "onboard_time": 1757162602,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 148741,
@@ -10809,6 +10825,14 @@
       "onboard_time": 1756982424,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146213,
+      "num": 159294,
+      "word": "蒋欣任彬再见爱人",
+      "onboard_time": 1757165484,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 146068,
@@ -11195,14 +11219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141472,
-      "num": 141472,
-      "word": "369Karsa世纪大和解",
-      "onboard_time": 1757162602,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 141349,
       "num": 141349,
       "word": "中国军人360度无死角的帅",
@@ -11417,6 +11433,14 @@
       "onboard_time": 1756611381,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138721,
+      "num": 138721,
+      "word": "七彩祥云",
+      "onboard_time": 1757165065,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138458,
@@ -12979,6 +13003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 121340,
+      "num": 121340,
+      "word": "原来老虎也会揣手手",
+      "onboard_time": 1757165242,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121314,
       "num": 121314,
       "word": "詹姆斯成都",
@@ -14051,14 +14083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 112204,
-      "num": 112204,
-      "word": "七彩祥云",
-      "onboard_time": 1757165065,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112200,
       "num": 145931,
       "word": "孙杨观看阅兵后发文",
@@ -14395,6 +14419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109656,
+      "num": 109656,
+      "word": "丞磊谙南王回朝",
+      "onboard_time": 1757164942,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109548,
       "num": 109548,
       "word": "詹姆斯成都双子塔前戴皇冠",
@@ -14441,14 +14473,6 @@
       "onboard_time": 1756552641,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109012,
-      "num": 109012,
-      "word": "丞磊谙南王回朝",
-      "onboard_time": 1757164942,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 108908,
@@ -14848,6 +14872,14 @@
       "word": "黄明昊演唱会整个人都泡在水里了",
       "onboard_time": 1756647562,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 105780,
+      "num": 105780,
+      "word": "王力宏头发乖乖领口开开",
+      "onboard_time": 1757165004,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -19075,6 +19107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63319,
+      "num": 249930,
+      "word": "东风5C抱枕遭抢购",
+      "onboard_time": 1757165004,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63052,
       "num": 227400,
       "word": "苏新皓刀马",
@@ -20403,14 +20443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32403,
-      "num": 120852,
-      "word": "东风5C抱枕遭抢购",
-      "onboard_time": 1757165004,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32168,
       "num": 94862,
       "word": "上海禁塑令违者最高罚10万",
@@ -20436,7 +20468,7 @@
     },
     {
       "raw_hot": 32054,
-      "num": 120248,
+      "num": 121109,
       "word": "不要相信你舍友的第一面",
       "onboard_time": 1757164822,
       "rank": 38,

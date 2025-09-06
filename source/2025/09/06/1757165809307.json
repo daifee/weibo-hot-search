@@ -1,0 +1,410 @@
+{
+  "runTime": 1757165809307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2045491,
+        "num": 2045491,
+        "word": "中元节禁忌是对传统节日的曲解",
+        "onboard_time": 1757159242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1875997,
+        "num": 1875997,
+        "word": "毛主席嫡孙一家参加九三阅兵",
+        "onboard_time": 1757164103,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20501,
+        "num": 755494,
+        "word": "战旗方队第1排的铁锤子有多牛",
+        "onboard_time": 1757123841,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 695419,
+        "num": 695419,
+        "word": "月全食",
+        "onboard_time": 1757155101,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657262,
+        "num": 657262,
+        "word": "劝老外取消订单劝不住",
+        "onboard_time": 1757164283,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500217,
+        "num": 500217,
+        "word": "泰国水库现行李箱藏30斤哑铃沉尸",
+        "onboard_time": 1757160022,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 413599,
+        "num": 413599,
+        "word": "东部战区回应加澳军舰过航台湾海峡",
+        "onboard_time": 1757163021,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410357,
+        "num": 410357,
+        "word": "辛芷蕾 威尼斯电影节",
+        "onboard_time": 1757162602,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240534,
+        "num": 394571,
+        "word": "成毅赴山海首日30w云包场",
+        "onboard_time": 1757155760,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207264,
+        "num": 391875,
+        "word": "加澳军舰过航台湾海峡并滋扰挑衅",
+        "onboard_time": 1757164163,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1145475,
+        "num": 391569,
+        "word": "王俊凯怎么瘦成这样了",
+        "onboard_time": 1757160022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391132,
+        "num": 391132,
+        "word": "白色座椅贴红色标签引发误读",
+        "onboard_time": 1757160202,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 372304,
+        "num": 372304,
+        "word": "中级财管",
+        "onboard_time": 1757160443,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345298,
+        "num": 345298,
+        "word": "曝男明星把甲方样机卖了",
+        "onboard_time": 1757150781,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304753,
+        "num": 304753,
+        "word": "特朗普误将美国国旗当毯子",
+        "onboard_time": 1757156242,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297711,
+        "num": 297711,
+        "word": "顶流官宣恋爱28年没be",
+        "onboard_time": 1757144000,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292074,
+        "num": 292074,
+        "word": "鹿晗的车开回来那一刻",
+        "onboard_time": 1757158881,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283268,
+        "num": 283268,
+        "word": "遭老板性侵女子称113万不能弥补损失",
+        "onboard_time": 1757152103,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186405,
+        "num": 264651,
+        "word": "刘宇宁直播",
+        "onboard_time": 1757161042,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63319,
+        "num": 249930,
+        "word": "东风5C抱枕遭抢购",
+        "onboard_time": 1757165004,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249922,
+        "num": 249922,
+        "word": "易烊千玺被广播催促登机",
+        "onboard_time": 1757155881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196356,
+        "num": 196356,
+        "word": "王楚钦提升北大体育声誉",
+        "onboard_time": 1757165122,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183980,
+        "num": 183980,
+        "word": "陈飞宇素颜帅成啥样了",
+        "onboard_time": 1757158344,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181133,
+        "num": 181133,
+        "word": "艺人皮肤白的原因",
+        "onboard_time": 1757159302,
+        "rank": 23,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 180627,
+        "num": 180627,
+        "word": "苏超南通vs扬州",
+        "onboard_time": 1757164103,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179004,
+        "num": 179004,
+        "word": "苏超",
+        "onboard_time": 1757154800,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159948,
+        "num": 159948,
+        "word": "中国驻日大使馆介绍东风5C导弹",
+        "onboard_time": 1757161943,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146213,
+        "num": 159294,
+        "word": "蒋欣任彬再见爱人",
+        "onboard_time": 1757165484,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128501,
+        "num": 158789,
+        "word": "刘宇宁发了扫腿舞",
+        "onboard_time": 1757162183,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127103,
+        "num": 158729,
+        "word": "何炅让尚雯婕李雪琴不要一起出现",
+        "onboard_time": 1757163322,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158703,
+        "num": 158703,
+        "word": "花少第四期封神",
+        "onboard_time": 1757147661,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157411,
+        "num": 157411,
+        "word": "方媛挺孕肚踩高跟鞋逛街",
+        "onboard_time": 1757161222,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152178,
+        "num": 152178,
+        "word": "樊振东演我上班",
+        "onboard_time": 1757163382,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148766,
+        "num": 148766,
+        "word": "369Karsa世纪大和解",
+        "onboard_time": 1757162602,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148153,
+        "num": 148153,
+        "word": "丝瓜汤",
+        "onboard_time": 1757139081,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142819,
+        "num": 142819,
+        "word": "阅兵当天才知道自己做的包去哪儿了",
+        "onboard_time": 1757153902,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138721,
+        "num": 138721,
+        "word": "七彩祥云",
+        "onboard_time": 1757165065,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125089,
+        "num": 125089,
+        "word": "湿气一旦排出减肥是很快的",
+        "onboard_time": 1757157501,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121340,
+        "num": 121340,
+        "word": "原来老虎也会揣手手",
+        "onboard_time": 1757165242,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29860,
+        "num": 121109,
+        "word": "不要相信你舍友的第一面",
+        "onboard_time": 1757164822,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121092,
+        "num": 121092,
+        "word": "鞠婧祎头像山黛王",
+        "onboard_time": 1757164224,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116334,
+        "num": 116334,
+        "word": "中元节血月",
+        "onboard_time": 1757134402,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113690,
+        "num": 113690,
+        "word": "田栩宁Metal",
+        "onboard_time": 1757152461,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 113236,
+        "num": 113236,
+        "word": "宋轶直播变宋E了",
+        "onboard_time": 1757161463,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111323,
+        "num": 111323,
+        "word": "苹果CEO库克八次说谢谢",
+        "onboard_time": 1757164163,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109656,
+        "num": 109656,
+        "word": "丞磊谙南王回朝",
+        "onboard_time": 1757164942,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109068,
+        "num": 109068,
+        "word": "严浩翔蟹钳手把件",
+        "onboard_time": 1757162962,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105780,
+        "num": 105780,
+        "word": "王力宏头发乖乖领口开开",
+        "onboard_time": 1757165004,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103416,
+        "num": 103416,
+        "word": "u22国足vs北马里亚纳群岛u22",
+        "onboard_time": 1757161042,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101625,
+        "num": 101625,
+        "word": "陈数的丑衣服都没白带",
+        "onboard_time": 1757154621,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记胜利日讲话金句的启示#"
+    }
+  }
+}
