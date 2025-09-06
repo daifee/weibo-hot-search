@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757162579590,
+  "endTime": 1757163416200,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -8,6 +8,14 @@
       "word": "易会满涉嫌严重违纪违法",
       "onboard_time": 1757128521,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2035576,
+      "num": 2035576,
+      "word": "中元节禁忌是对传统节日的曲解",
+      "onboard_time": 1757159242,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -25,6 +33,14 @@
       "onboard_time": 1757150901,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1469281,
+      "num": 259807,
+      "word": "王俊凯怎么瘦成这样了",
+      "onboard_time": 1757160022,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1465008,
@@ -51,14 +67,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1295842,
-      "num": 259807,
-      "word": "王俊凯怎么瘦成这样了",
-      "onboard_time": 1757160022,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1251483,
       "num": 430274,
       "word": "江祖平自曝遭绿媒副总儿子下药性侵",
@@ -81,14 +89,6 @@
       "onboard_time": 1757134881,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1217554,
-      "num": 1217554,
-      "word": "中元节禁忌是对传统节日的曲解",
-      "onboard_time": 1757159242,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1132888,
@@ -683,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312213,
+      "num": 312213,
+      "word": "白色座椅贴红色标签引发误读",
+      "onboard_time": 1757160202,
+      "rank": 5,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 310479,
       "num": 310479,
       "word": "宁静邵子恒 我认识你爸爸",
@@ -715,14 +723,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 296989,
-      "num": 296989,
-      "word": "白色座椅贴红色标签引发误读",
-      "onboard_time": 1757160202,
-      "rank": 5,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 294699,
       "num": 294699,
       "word": "小酒窝叫佟丽娅丫丫妈妈",
@@ -745,6 +745,14 @@
       "onboard_time": 1757128881,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291087,
+      "num": 247782,
+      "word": "鹿晗的车开回来那一刻",
+      "onboard_time": 1757158881,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 289514,
@@ -793,6 +801,14 @@
       "onboard_time": 1757142440,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278361,
+      "num": 278361,
+      "word": "泰国水库现行李箱藏30斤哑铃沉尸",
+      "onboard_time": 1757160022,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 267429,
@@ -849,14 +865,6 @@
       "onboard_time": 1757126360,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 247782,
-      "num": 247782,
-      "word": "鹿晗的车开回来那一刻",
-      "onboard_time": 1757158881,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 246201,
@@ -939,6 +947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 232558,
+      "num": 263581,
+      "word": "宋轶直播变宋E了",
+      "onboard_time": 1757161463,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231398,
       "num": 196603,
       "word": "法国将军谈九三阅兵",
@@ -953,14 +969,6 @@
       "onboard_time": 1757148141,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 227454,
-      "num": 263581,
-      "word": "宋轶直播变宋E了",
-      "onboard_time": 1757161463,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 227263,
@@ -1011,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217531,
-      "num": 217531,
-      "word": "泰国水库现行李箱藏30斤哑铃沉尸",
-      "onboard_time": 1757160022,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 217590,
+      "num": 204142,
+      "word": "方媛挺孕肚踩高跟鞋逛街",
+      "onboard_time": 1757161222,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 212262,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1757153902,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 211387,
+      "num": 211387,
+      "word": "辛芷蕾 威尼斯电影节",
+      "onboard_time": 1757162602,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 210415,
@@ -1099,12 +1115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196321,
-      "num": 196321,
-      "word": "方媛挺孕肚踩高跟鞋逛街",
-      "onboard_time": 1757161222,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 193699,
+      "num": 262788,
+      "word": "中国驻日大使馆介绍东风5C导弹",
+      "onboard_time": 1757161943,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193245,
@@ -1123,12 +1139,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190565,
+      "num": 190565,
+      "word": "湿气一旦排出减肥是很快的",
+      "onboard_time": 1757157501,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 188617,
       "num": 188617,
       "word": "刘宇宁直播",
       "onboard_time": 1757161042,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186655,
+      "num": 186655,
+      "word": "刘宇宁发了扫腿舞",
+      "onboard_time": 1757162183,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 184696,
@@ -1283,12 +1315,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 167670,
-      "num": 167670,
-      "word": "湿气一旦排出减肥是很快的",
-      "onboard_time": 1757157501,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 167716,
+      "num": 167716,
+      "word": "艺人皮肤白的原因",
+      "onboard_time": 1757159302,
+      "rank": 34,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 167571,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1757138541,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 165857,
-      "num": 165857,
-      "word": "艺人皮肤白的原因",
-      "onboard_time": 1757159302,
-      "rank": 34,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 164523,
@@ -1337,14 +1361,6 @@
       "onboard_time": 1757141420,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159984,
-      "num": 173394,
-      "word": "刘宇宁发了扫腿舞",
-      "onboard_time": 1757162183,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 159767,
@@ -1571,6 +1587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143458,
+      "num": 201717,
+      "word": "东部战区回应加澳军舰过航台湾海峡",
+      "onboard_time": 1757163021,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143275,
       "num": 143275,
       "word": "井迪官宣我家那闺女",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1757117841,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141192,
+      "num": 141192,
+      "word": "369Karsa世纪大和解",
+      "onboard_time": 1757162602,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 140937,
@@ -1683,6 +1715,14 @@
       "category": "议题讨论,电影"
     },
     {
+      "raw_hot": 137029,
+      "num": 137029,
+      "word": "乘客误开应急舱门被判赔7万多",
+      "onboard_time": 1757162003,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136937,
       "num": 136937,
       "word": "iPhone17Pro灵动岛或缩短25%",
@@ -1721,14 +1761,6 @@
       "onboard_time": 1757129420,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134936,
-      "num": 134936,
-      "word": "乘客误开应急舱门被判赔7万多",
-      "onboard_time": 1757162003,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134638,
@@ -1777,6 +1809,14 @@
       "onboard_time": 1757084662,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133433,
+      "num": 133433,
+      "word": "严浩翔蟹钳手把件",
+      "onboard_time": 1757162962,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 132848,
@@ -2043,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117988,
+      "num": 117988,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1757162843,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117675,
       "num": 117675,
       "word": "iOS26全面提升iPhone续航",
@@ -2073,6 +2121,14 @@
       "onboard_time": 1757138061,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116067,
+      "num": 116067,
+      "word": "何炅让尚雯婕李雪琴不要一起出现",
+      "onboard_time": 1757163322,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115800,
@@ -2257,6 +2313,14 @@
       "onboard_time": 1757162483,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 105460,
+      "num": 111902,
+      "word": "樊振东演我上班",
+      "onboard_time": 1757163382,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104447,
@@ -2755,14 +2819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 72856,
-      "num": 262788,
-      "word": "中国驻日大使馆介绍东风5C导弹",
-      "onboard_time": 1757161943,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 71134,
       "num": 71134,
       "word": "王俊凯去了轻于鸿毛首映礼",
@@ -2857,6 +2913,14 @@
       "onboard_time": 1757149582,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60548,
+      "num": 118191,
+      "word": "工作不开心给妈妈发的微信",
+      "onboard_time": 1757163382,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 56531,
