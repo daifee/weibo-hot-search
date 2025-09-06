@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757130248110,
+  "endTime": 1757132913232,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 881564,
+      "num": 881564,
+      "word": "这竟然是秦昊",
+      "onboard_time": 1757128881,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 678528,
       "num": 448563,
       "word": "方家翊瘦了70斤撞脸米卡",
@@ -105,14 +113,6 @@
       "onboard_time": 1757078241,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 558920,
-      "num": 558920,
-      "word": "这竟然是秦昊",
-      "onboard_time": 1757128881,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 543469,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381393,
+      "num": 370707,
+      "word": "虞书欣何与双轨12月预排",
+      "onboard_time": 1757129182,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376286,
       "num": 376286,
       "word": "杭州22岁女兵受阅特警爸嘴角压不住",
@@ -235,12 +243,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370707,
-      "num": 370707,
-      "word": "虞书欣何与双轨12月预排",
-      "onboard_time": 1757129182,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 366669,
+      "num": 293042,
+      "word": "Metal杂志",
+      "onboard_time": 1757130622,
+      "rank": 14,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 364055,
+      "num": 364055,
+      "word": "刘亦菲好美",
+      "onboard_time": 1757129722,
+      "rank": 18,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 354306,
+      "num": 354306,
+      "word": "淘宝闪购",
+      "onboard_time": 1757130501,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 349283,
@@ -371,6 +395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 282880,
+      "num": 282880,
+      "word": "泰版三十而已林有有",
+      "onboard_time": 1757129722,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267429,
       "num": 185671,
       "word": "单身太久突然谈了个恋爱时",
@@ -427,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244090,
+      "num": 244090,
+      "word": "易会满履历",
+      "onboard_time": 1757130141,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241641,
       "num": 127786,
       "word": "3问千万网红只卖了58双鞋",
@@ -451,6 +491,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 231398,
+      "num": 182732,
+      "word": "法国将军谈九三阅兵",
+      "onboard_time": 1757130860,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 225454,
       "num": 111829,
       "word": "淘宝崩了",
@@ -467,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210415,
+      "num": 210415,
+      "word": "双休8千单休1万选哪个",
+      "onboard_time": 1757128521,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209981,
       "num": 209981,
       "word": "金正恩中国行再次证明一件事",
@@ -475,11 +531,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 202954,
-      "num": 202954,
-      "word": "泰版三十而已林有有",
-      "onboard_time": 1757129722,
-      "rank": 25,
+      "raw_hot": 199313,
+      "num": 275993,
+      "word": "杨紫家业预排播12月",
+      "onboard_time": 1757132422,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -497,6 +553,22 @@
       "onboard_time": 1757128641,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194148,
+      "num": 194148,
+      "word": "李飞说的一年后到来了",
+      "onboard_time": 1757131042,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 182300,
+      "num": 182300,
+      "word": "中元节冷知识",
+      "onboard_time": 1757131461,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180016,
@@ -523,6 +595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 176611,
+      "num": 176611,
+      "word": "易会满任期内3000点20次失守",
+      "onboard_time": 1757130381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176332,
       "num": 176332,
       "word": "鹿晗火力全开了",
@@ -539,14 +619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 164866,
-      "num": 292466,
-      "word": "刘亦菲好美",
-      "onboard_time": 1757129722,
-      "rank": 18,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 163898,
       "num": 267257,
       "word": "严浩翔手动帮贺峻霖静音",
@@ -555,12 +627,36 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 157516,
+      "num": 182785,
+      "word": "初一女生HPV疫苗",
+      "onboard_time": 1757131703,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156301,
+      "num": 182769,
+      "word": "辛芷蕾威尼斯影后赔率第一",
+      "onboard_time": 1757130922,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149453,
       "num": 141920,
       "word": "为什么我们不害怕中元节了",
       "onboard_time": 1757075901,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146806,
+      "num": 182754,
+      "word": "宋佳现场收房本收到手软",
+      "onboard_time": 1757130801,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 146068,
@@ -577,6 +673,14 @@
       "onboard_time": 1757121261,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143479,
+      "num": 143479,
+      "word": "塞尔维亚局势",
+      "onboard_time": 1757132362,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143275,
@@ -675,14 +779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 130736,
-      "num": 130736,
-      "word": "双休8千单休1万选哪个",
-      "onboard_time": 1757128521,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129551,
       "num": 129551,
       "word": "医院回应最快女护士被解聘或调岗",
@@ -699,12 +795,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128322,
+      "num": 128322,
+      "word": "狐妖小红娘王权篇10月预排",
+      "onboard_time": 1757131222,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128151,
       "num": 128151,
       "word": "刘冲杨幂张小斐聚会",
       "onboard_time": 1757076501,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126656,
+      "num": 126656,
+      "word": "闫妮被知否名台词整没招了",
+      "onboard_time": 1757131641,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 125499,
@@ -729,6 +841,14 @@
       "onboard_time": 1757079141,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120658,
+      "num": 120658,
+      "word": "第一次看到这么蓬勃的女性群像",
+      "onboard_time": 1757132302,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 118663,
@@ -771,8 +891,16 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 114389,
+      "num": 114389,
+      "word": "幸好三胞胎都是此沙演的",
+      "onboard_time": 1757130801,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113870,
-      "num": 113870,
+      "num": 182774,
       "word": "秋天开启五彩斑斓模式",
       "onboard_time": 1757127501,
       "rank": 47,
@@ -795,12 +923,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 111821,
+      "num": 111821,
+      "word": "沈腾当裁判被观众大喊黑幕",
+      "onboard_time": 1757132841,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111772,
       "num": 111772,
       "word": "杭州通报酒馆营销活动涉嫌擦边",
       "onboard_time": 1757087602,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 110248,
+      "num": 110248,
+      "word": "这才是真正的普通人穿搭",
+      "onboard_time": 1757132901,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 109548,
@@ -929,6 +1073,14 @@
       "onboard_time": 1757128100,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93296,
+      "num": 275982,
+      "word": "易会满曾表示证监会主席像火山口",
+      "onboard_time": 1757132541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91461,
@@ -1107,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 56549,
+      "num": 182742,
+      "word": "证监系统多名官员被查",
+      "onboard_time": 1757132480,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56531,
       "num": 144274,
       "word": "加拿大讨论用中国电动车换油菜籽",
@@ -1137,14 +1297,6 @@
       "onboard_time": 1757112556,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 50235,
-      "num": 190521,
-      "word": "易会满履历",
-      "onboard_time": 1757130141,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49930,
