@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757124146304,
+  "endTime": 1757127538489,
   "band_list": [
     {
       "raw_hot": 1910228,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1007307,
+      "num": 362556,
+      "word": "小酒窝有官配cp了",
+      "onboard_time": 1757123119,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959247,
       "num": 142992,
       "word": "赵樱子自曝男友是一线男明星",
@@ -56,6 +64,14 @@
       "word": "教体局回应一中学新初一共94个班",
       "onboard_time": 1757091258,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 652520,
+      "num": 652520,
+      "word": "一觉醒来郭帆白改了",
+      "onboard_time": 1757122580,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -107,12 +123,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453947,
+      "num": 412475,
+      "word": "李昀锐尚公主蓝衣路透",
+      "onboard_time": 1757125641,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431922,
       "num": 431922,
       "word": "美国拘捕300名韩国人",
       "onboard_time": 1757085563,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 428395,
+      "num": 428395,
+      "word": "耿爽说美国不受欢迎",
+      "onboard_time": 1757125220,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 396084,
+      "num": 396084,
+      "word": "歼20模型销量暴涨175%",
+      "onboard_time": 1757125041,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 391769,
@@ -139,12 +179,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 366797,
-      "num": 297693,
-      "word": "小酒窝有官配cp了",
-      "onboard_time": 1757123119,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 349283,
+      "num": 349283,
+      "word": "东风五号首任总师说让别人不敢碰我们",
+      "onboard_time": 1757123781,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 337360,
@@ -195,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301409,
-      "num": 301409,
-      "word": "一觉醒来郭帆白改了",
-      "onboard_time": 1757122580,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 300826,
+      "num": 384110,
+      "word": "美韩关系紧张或加剧",
+      "onboard_time": 1757124501,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 300234,
@@ -219,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289264,
+      "num": 289264,
+      "word": "爱到这种程度再结婚",
+      "onboard_time": 1757120840,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284848,
       "num": 114749,
       "word": "杨幂张小斐 从校服到礼服",
       "onboard_time": 1757075901,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 277328,
+      "num": 387200,
+      "word": "关晓彤竟然还有庄筱婷林栋哲售后",
+      "onboard_time": 1757125880,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 267429,
@@ -259,6 +315,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 250070,
+      "num": 250070,
+      "word": "唐国强 上次这么敢说还是康熙",
+      "onboard_time": 1757124920,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246201,
       "num": 246201,
       "word": "山东一中学初一新生94个班",
@@ -281,6 +345,14 @@
       "onboard_time": 1757114659,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 231215,
+      "num": 231215,
+      "word": "中级会计",
+      "onboard_time": 1757123000,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 225454,
@@ -307,12 +379,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 181986,
-      "num": 181986,
-      "word": "爱到这种程度再结婚",
-      "onboard_time": 1757120840,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 206399,
+      "num": 206399,
+      "word": "25岁痛经十几年后决定停经",
+      "onboard_time": 1757126360,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198839,
+      "num": 198839,
+      "word": "猫和老鼠画师首次为国漫作画",
+      "onboard_time": 1757127501,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 180016,
@@ -331,12 +411,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168974,
-      "num": 168974,
-      "word": "东风五号首任总师说让别人不敢碰我们",
-      "onboard_time": 1757123781,
-      "rank": 23,
+      "raw_hot": 173527,
+      "num": 173527,
+      "word": "战旗方队第1排的铁锤子有多牛",
+      "onboard_time": 1757123841,
+      "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 172589,
+      "num": 172589,
+      "word": "小酒窝叫佟丽娅丫丫妈妈",
+      "onboard_time": 1757127441,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163898,
+      "num": 241601,
+      "word": "严浩翔手动帮贺峻霖静音",
+      "onboard_time": 1757123240,
+      "rank": 19,
+      "category": "综艺,电竞"
     },
     {
       "raw_hot": 149453,
@@ -356,7 +452,7 @@
     },
     {
       "raw_hot": 143592,
-      "num": 192148,
+      "num": 240900,
       "word": "辛芷蕾香奈儿高定",
       "onboard_time": 1757121261,
       "rank": 18,
@@ -372,7 +468,7 @@
     },
     {
       "raw_hot": 141973,
-      "num": 141973,
+      "num": 173529,
       "word": "张雅琪喜欢迪丽热巴的反差感",
       "onboard_time": 1757120901,
       "rank": 24,
@@ -467,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125499,
+      "num": 125499,
+      "word": "40人两天为老人清理出30吨垃圾",
+      "onboard_time": 1757125761,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124658,
       "num": 122331,
       "word": "阎鹤祥花46块7买了一个岛",
@@ -489,6 +593,14 @@
       "onboard_time": 1757075180,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117421,
+      "num": 117421,
+      "word": "最佳运动时间不是上午也不是下午",
+      "onboard_time": 1757126720,
+      "rank": 37,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 116942,
@@ -523,20 +635,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 112257,
-      "num": 185599,
-      "word": "严浩翔手动帮贺峻霖静音",
-      "onboard_time": 1757123240,
-      "rank": 19,
-      "category": "综艺,电竞"
-    },
-    {
       "raw_hot": 111772,
       "num": 111772,
       "word": "杭州通报酒馆营销活动涉嫌擦边",
       "onboard_time": 1757087602,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 109548,
+      "num": 109548,
+      "word": "詹姆斯成都双子塔前戴皇冠",
+      "onboard_time": 1757125100,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108543,
+      "num": 108543,
+      "word": "一个人最好有三种爱好",
+      "onboard_time": 1757127019,
+      "rank": 42,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 103224,
@@ -619,12 +739,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 95140,
-      "num": 126116,
-      "word": "战旗方队第1排的铁锤子有多牛",
-      "onboard_time": 1757123841,
-      "rank": 28,
-      "category": "国内时政"
+      "raw_hot": 91383,
+      "num": 91383,
+      "word": "解放军导弹体系全球仅此一家",
+      "onboard_time": 1757123720,
+      "rank": 45,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 91169,
@@ -635,28 +755,12 @@
       "category": "军事,民生新闻"
     },
     {
-      "raw_hot": 89446,
-      "num": 89446,
-      "word": "中级会计",
-      "onboard_time": 1757123000,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 88266,
       "num": 88266,
       "word": "上海月租1500的房子",
       "onboard_time": 1757119821,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87306,
-      "num": 87306,
-      "word": "解放军导弹体系全球仅此一家",
-      "onboard_time": 1757123720,
-      "rank": 45,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 87114,
@@ -675,6 +779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85528,
+      "num": 85528,
+      "word": "秋天开启五彩斑斓模式",
+      "onboard_time": 1757127501,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85219,
       "num": 85219,
       "word": "外媒酸中国装备没实战翻车",
@@ -689,6 +801,14 @@
       "onboard_time": 1757080583,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82970,
+      "num": 82970,
+      "word": "宋威龙野狗骨头杀青路透",
+      "onboard_time": 1757124800,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 82370,
@@ -721,6 +841,14 @@
       "onboard_time": 1757063542,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 73217,
+      "num": 240540,
+      "word": "外国人也享受到懒人洗的待遇了",
+      "onboard_time": 1757126599,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 71134,
@@ -843,6 +971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22712,
+      "num": 111763,
+      "word": "贵州中元节上演现实版寻梦环游记",
+      "onboard_time": 1757126780,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19891,
       "num": 25059,
       "word": "穿破洞裤出门前一定要照镜子",
@@ -881,6 +1017,14 @@
       "onboard_time": 1757099654,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13338,
+      "num": 111325,
+      "word": "内娱对中女的发掘不足百分之1",
+      "onboard_time": 1757126661,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 10390,
