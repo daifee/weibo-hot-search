@@ -1,6 +1,6 @@
 {
   "startTime": 1757089723867,
-  "endTime": 1757140363178,
+  "endTime": 1757141084862,
   "band_list": [
     {
       "raw_hot": 2041643,
@@ -99,20 +99,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 758465,
+      "num": 360634,
+      "word": "幼儿误吞电池10小时致终身残疾",
+      "onboard_time": 1757138902,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 741647,
       "num": 741647,
       "word": "淘宝闪购",
       "onboard_time": 1757130501,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 694749,
-      "num": 360634,
-      "word": "幼儿误吞电池10小时致终身残疾",
-      "onboard_time": 1757138902,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 678528,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545185,
+      "num": 356413,
+      "word": "锤娜丽莎半年瘦20斤",
+      "onboard_time": 1757135421,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543469,
       "num": 543469,
       "word": "张学良长孙回应观礼九三阅兵",
@@ -187,20 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 537057,
-      "num": 356413,
-      "word": "锤娜丽莎半年瘦20斤",
-      "onboard_time": 1757135421,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 511801,
       "num": 511801,
       "word": "泰版三十而已林有有",
       "onboard_time": 1757129722,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 492927,
+      "num": 273472,
+      "word": "难怪别人怀疑熹贵妃的肚子",
+      "onboard_time": 1757139081,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 478826,
@@ -387,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 331157,
-      "num": 142111,
-      "word": "难怪别人怀疑熹贵妃的肚子",
-      "onboard_time": 1757139081,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 327746,
       "num": 291168,
       "word": "俄方要求日本完全承认二战结果",
@@ -424,6 +424,14 @@
       "word": "马思纯的字",
       "onboard_time": 1757068161,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 305670,
+      "num": 265217,
+      "word": "姜潮麦迪娜孩子颜值",
+      "onboard_time": 1757140102,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -515,12 +523,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263197,
+      "num": 263197,
+      "word": "丝瓜汤",
+      "onboard_time": 1757139081,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 255897,
       "num": 255897,
       "word": "Angelababy早期美版VOGUE封面",
       "onboard_time": 1757115439,
       "rank": 15,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 253549,
+      "num": 253549,
+      "word": "赴山海",
+      "onboard_time": 1757139322,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 250070,
@@ -587,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236297,
-      "num": 236297,
-      "word": "丝瓜汤",
-      "onboard_time": 1757139081,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 233713,
       "num": 171612,
       "word": "人到中年体味变大的真相",
@@ -643,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211520,
+      "num": 211520,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1757139560,
+      "rank": 33,
+      "category": "情感,科学科普"
+    },
+    {
       "raw_hot": 210415,
       "num": 210415,
       "word": "双休8千单休1万选哪个",
@@ -659,14 +683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205017,
-      "num": 205017,
-      "word": "赴山海",
-      "onboard_time": 1757139322,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199313,
       "num": 275993,
       "word": "杨紫家业预排播12月",
@@ -681,6 +697,14 @@
       "onboard_time": 1757127501,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 197670,
+      "num": 197670,
+      "word": "昀牵孟绕",
+      "onboard_time": 1757140521,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 196777,
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 190456,
-      "num": 190456,
+      "num": 275610,
       "word": "厦门航空一航班起飞滑行时急刹中断",
       "onboard_time": 1757137162,
       "rank": 22,
@@ -779,6 +803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169565,
+      "num": 169565,
+      "word": "LPL第三赛段常规赛最佳阵容",
+      "onboard_time": 1757140640,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168302,
       "num": 168302,
       "word": "向杂交水稻科研工作者致敬",
@@ -843,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154857,
+      "num": 186336,
+      "word": "阅兵重播",
+      "onboard_time": 1757139861,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154309,
       "num": 154309,
       "word": "迪丽热巴在剧组会亲自下厨",
@@ -867,16 +907,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151249,
-      "num": 140671,
-      "word": "建议女生洗完头不要包头发",
-      "onboard_time": 1757139560,
-      "rank": 33,
-      "category": "情感,科学科普"
-    },
-    {
       "raw_hot": 150993,
-      "num": 150993,
+      "num": 190288,
       "word": "谢娜大哥说张杰唱歌一般",
       "onboard_time": 1757137702,
       "rank": 26,
@@ -915,12 +947,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145688,
+      "num": 193760,
+      "word": "董璇你来看看什么叫真感情",
+      "onboard_time": 1757139801,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145449,
       "num": 145449,
       "word": "梓渝新歌晨昏线",
       "onboard_time": 1757137041,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144266,
+      "num": 192515,
+      "word": "只有刘亦菲在回望五年前",
+      "onboard_time": 1757140342,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143592,
@@ -987,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139677,
-      "num": 139677,
-      "word": "姜潮麦迪娜孩子颜值",
-      "onboard_time": 1757140102,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139103,
       "num": 166423,
       "word": "沈腾当裁判被观众大喊黑幕",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1757129059,
       "rank": 41,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 134430,
+      "num": 185440,
+      "word": "朱志鑫 银发道明寺",
+      "onboard_time": 1757140940,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 134003,
@@ -1163,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122884,
-      "num": 122884,
-      "word": "只有刘亦菲在回望五年前",
-      "onboard_time": 1757140342,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 122248,
       "num": 122248,
       "word": "以闪亮之名",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1757135481,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121101,
-      "num": 145433,
-      "word": "董璇你来看看什么叫真感情",
-      "onboard_time": 1757139801,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 120658,
@@ -1249,14 +1281,6 @@
       "onboard_time": 1757126720,
       "rank": 37,
       "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 117053,
-      "num": 117053,
-      "word": "阅兵重播",
-      "onboard_time": 1757139861,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 116942,
@@ -1659,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70057,
+      "num": 132874,
+      "word": "那英说张晚意李沁成爸妈了",
+      "onboard_time": 1757140220,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70055,
       "num": 70055,
       "word": "炎亚纶纯恨",
@@ -1689,14 +1721,6 @@
       "onboard_time": 1757073020,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 58512,
-      "num": 132874,
-      "word": "那英说张晚意李沁成爸妈了",
-      "onboard_time": 1757140220,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 56531,
@@ -1832,6 +1856,14 @@
       "word": "邢菲因嘴馋当上零食买手",
       "onboard_time": 1757133261,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30212,
+      "num": 113341,
+      "word": "宋威龙帅得流鼻血了",
+      "onboard_time": 1757140461,
+      "rank": 39,
       "category": "艺人"
     },
     {
