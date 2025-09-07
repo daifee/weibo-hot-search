@@ -1,0 +1,410 @@
+{
+  "runTime": 1757245007610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1497840,
+        "num": 1497840,
+        "word": "血月",
+        "onboard_time": 1757243421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1396679,
+        "num": 1396679,
+        "word": "月全食",
+        "onboard_time": 1757241440,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34674,
+        "num": 829169,
+        "word": "又是被中国排面硬控的一天",
+        "onboard_time": 1757210361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 766048,
+        "num": 766048,
+        "word": "朝鲜播出金正恩出席九三阅兵纪录片",
+        "onboard_time": 1757234901,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 475101,
+        "num": 475101,
+        "word": "月全食时间表",
+        "onboard_time": 1757242821,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360571,
+        "num": 360571,
+        "word": "BLG让二追三JDG",
+        "onboard_time": 1757242161,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 321711,
+        "num": 321711,
+        "word": "长期吃米vs长期吃面",
+        "onboard_time": 1757232141,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288247,
+        "num": 288247,
+        "word": "血月对人体有什么影响",
+        "onboard_time": 1757224342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284867,
+        "num": 284867,
+        "word": "石破茂决意辞职",
+        "onboard_time": 1757226680,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210991,
+        "num": 281332,
+        "word": "易烊千玺妈妈送我伴手礼",
+        "onboard_time": 1757240420,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 934911,
+        "num": 273564,
+        "word": "许嵩 冯禧",
+        "onboard_time": 1757221283,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604390,
+        "num": 268908,
+        "word": "辛芷蕾听完英文提问的反应",
+        "onboard_time": 1757233401,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 382752,
+        "num": 264025,
+        "word": "孙心娅回应是冯绍峰女友里最好看的",
+        "onboard_time": 1757233941,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338304,
+        "num": 258405,
+        "word": "张艺兴飞奔赶高铁",
+        "onboard_time": 1757238441,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253978,
+        "num": 253978,
+        "word": "一高校宿舍床直接钉在墙上",
+        "onboard_time": 1757236581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206243,
+        "num": 206243,
+        "word": "AG对战WB",
+        "onboard_time": 1757239581,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263911,
+        "num": 192561,
+        "word": "辛芷蕾获奖时张颂文的表情",
+        "onboard_time": 1757217261,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164133,
+        "num": 164133,
+        "word": "scout",
+        "onboard_time": 1757237601,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154613,
+        "num": 154613,
+        "word": "大帅首局MVP",
+        "onboard_time": 1757244800,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97531,
+        "num": 151668,
+        "word": "柯淳说了什么宁静笑得好魔性",
+        "onboard_time": 1757240301,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 961299,
+        "num": 151342,
+        "word": "12306回应大量私生高铁站围堵男星",
+        "onboard_time": 1757234721,
+        "rank": 20,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 178726,
+        "num": 151092,
+        "word": "张晚意李沁嫂子开门我是我哥",
+        "onboard_time": 1757232441,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150712,
+        "num": 150712,
+        "word": "覃予萱0比4桥本帆乃香",
+        "onboard_time": 1757244800,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149030,
+        "num": 149030,
+        "word": "减脂馒头爆单老板一天怒干15小时",
+        "onboard_time": 1757240002,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140735,
+        "num": 140735,
+        "word": "女子吐槽羊排肥肉多被起诉赔6000",
+        "onboard_time": 1757244921,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134416,
+        "num": 134416,
+        "word": "上海百年老洋房降价5334万再流拍",
+        "onboard_time": 1757244140,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133230,
+        "num": 133230,
+        "word": "刘耀文光速把衣服换回来了",
+        "onboard_time": 1757243121,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130950,
+        "num": 130950,
+        "word": "石破茂宣布辞去自民党总裁职务",
+        "onboard_time": 1757236101,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103350,
+        "num": 130801,
+        "word": "欧阳娣娣不选对的只选帅的",
+        "onboard_time": 1757242401,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28324,
+        "num": 130666,
+        "word": "800吨鸭肉冒充牛羊肉骗贷调查",
+        "onboard_time": 1757244681,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130656,
+        "num": 130656,
+        "word": "河南欢迎短信",
+        "onboard_time": 1757240962,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129520,
+        "num": 129520,
+        "word": "多个视频平台偷时间",
+        "onboard_time": 1757242041,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129058,
+        "num": 129058,
+        "word": "血月可能有一个绿松石带",
+        "onboard_time": 1757244140,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120709,
+        "num": 120709,
+        "word": "大帅好强",
+        "onboard_time": 1757244800,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89767,
+        "num": 114211,
+        "word": "花少7最没偶像包袱的一季",
+        "onboard_time": 1757240061,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114166,
+        "num": 114166,
+        "word": "医生支招气血不足怎么补",
+        "onboard_time": 1757239760,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103091,
+        "num": 103091,
+        "word": "丁程鑫刘耀文旅行回来了",
+        "onboard_time": 1757235140,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102850,
+        "num": 102850,
+        "word": "受资助上清华的女孩去支教了",
+        "onboard_time": 1757242041,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101820,
+        "num": 101820,
+        "word": "今晚邀你一起看红月",
+        "onboard_time": 1757226023,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79436,
+        "num": 100109,
+        "word": "黄子韬首谈决定求婚的原因",
+        "onboard_time": 1757244442,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98799,
+        "num": 98799,
+        "word": "王源直播",
+        "onboard_time": 1757244861,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96903,
+        "num": 96903,
+        "word": "彭昱畅 急诊",
+        "onboard_time": 1757222362,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94879,
+        "num": 94879,
+        "word": "鹿哈老婆看鹿晗演唱会了",
+        "onboard_time": 1757239941,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94195,
+        "num": 94195,
+        "word": "男子地铁被诬偷拍3次脱鞋证清白",
+        "onboard_time": 1757243179,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91064,
+        "num": 91064,
+        "word": "皮肤6种变化可能是癌症信号",
+        "onboard_time": 1757243121,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85037,
+        "num": 85037,
+        "word": "工作后才知道苹果是最好的水果",
+        "onboard_time": 1757225662,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83865,
+        "num": 83865,
+        "word": "仙逆",
+        "onboard_time": 1757243001,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 81079,
+        "num": 81079,
+        "word": "新华社研究院发布重磅报告",
+        "onboard_time": 1757231662,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80681,
+        "num": 80681,
+        "word": "小猫把主人当成了阿贝贝",
+        "onboard_time": 1757242700,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80671,
+        "num": 80671,
+        "word": "沈梦辰怎么敢这样叫撒贝宁",
+        "onboard_time": 1757242520,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#这一握情深意重#"
+    }
+  }
+}
