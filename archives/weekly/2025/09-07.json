@@ -1,6 +1,6 @@
 {
   "startTime": 1757176020111,
-  "endTime": 1757269858371,
+  "endTime": 1757270603638,
   "band_list": [
     {
       "raw_hot": 3121097,
@@ -3651,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35514,
+      "num": 45033,
+      "word": "辛芷蕾首位80后三大影后",
+      "onboard_time": 1757269815,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 33046,
       "num": 81961,
       "word": "中级财管",
@@ -3659,20 +3667,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 31678,
+      "num": 31678,
+      "word": "鹿晗season4亚洲巡演",
+      "onboard_time": 1757270294,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 31292,
       "num": 96570,
       "word": "狗狗绝食7天守护离世主人遗体",
       "onboard_time": 1757240061,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30950,
-      "num": 30950,
-      "word": "辛芷蕾首位80后三大影后",
-      "onboard_time": 1757269815,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 30167,
@@ -3715,6 +3723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27631,
+      "num": 28899,
+      "word": "本次月全食全程肉眼可见",
+      "onboard_time": 1757269575,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27374,
       "num": 162438,
       "word": "当湘琴给孩子看婚礼录像带",
@@ -3747,12 +3763,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22740,
-      "num": 28899,
-      "word": "本次月全食全程肉眼可见",
-      "onboard_time": 1757269575,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 23344,
+      "num": 24621,
+      "word": "无畏契约",
+      "onboard_time": 1757270055,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 21507,

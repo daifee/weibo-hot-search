@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757269858371,
+  "endTime": 1757270603638,
   "band_list": [
     {
       "raw_hot": 3121097,
@@ -179,8 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172083,
-      "num": 172083,
+      "raw_hot": 183675,
+      "num": 183675,
       "word": "血月可能有一个绿松石带",
       "onboard_time": 1757244140,
       "rank": 36,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35514,
+      "num": 45033,
+      "word": "辛芷蕾首位80后三大影后",
+      "onboard_time": 1757269815,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32858,
       "num": 774642,
       "word": "阅兵的转头杀怎么这么帅",
@@ -491,12 +499,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 30950,
-      "num": 30950,
-      "word": "辛芷蕾首位80后三大影后",
-      "onboard_time": 1757269815,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 31678,
+      "num": 31678,
+      "word": "鹿晗season4亚洲巡演",
+      "onboard_time": 1757270294,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 29367,
@@ -515,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27631,
+      "num": 28899,
+      "word": "本次月全食全程肉眼可见",
+      "onboard_time": 1757269575,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24243,
       "num": 28900,
       "word": "马丽是真没看见陈可辛",
@@ -523,10 +539,18 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22740,
-      "num": 28899,
-      "word": "本次月全食全程肉眼可见",
-      "onboard_time": 1757269575,
+      "raw_hot": 23344,
+      "num": 24621,
+      "word": "无畏契约",
+      "onboard_time": 1757270055,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 21372,
+      "num": 24617,
+      "word": "深圳天气",
+      "onboard_time": 1757247981,
       "rank": 47,
       "category": "民生新闻"
     },
