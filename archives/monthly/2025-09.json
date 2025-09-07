@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757284702184,
+  "endTime": 1757287311368,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -731,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1470745,
+      "num": 183598,
+      "word": "向太曝张国荣不是因抑郁症自杀",
+      "onboard_time": 1757286739,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1469281,
       "num": 398192,
       "word": "王俊凯怎么瘦成这样了",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1757084903,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1166160,
+      "num": 1166160,
+      "word": "男子忘关火27天后回家才发现",
+      "onboard_time": 1757284936,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1165755,
@@ -4051,6 +4067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 406248,
+      "num": 406248,
+      "word": "血月可能有一个绿松石带",
+      "onboard_time": 1757244140,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404877,
       "num": 404877,
       "word": "广东珠海全市学校停课",
@@ -5515,6 +5539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 297927,
+      "num": 297927,
+      "word": "大学生呕吐系自备井蓄水池受污染",
+      "onboard_time": 1757262499,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297811,
       "num": 297811,
       "word": "沈佳润今天是美美sunday",
@@ -5691,20 +5723,20 @@
       "category": "国内时政,情感"
     },
     {
+      "raw_hot": 287447,
+      "num": 180166,
+      "word": "变形计张迪自曝女友是一线女明星",
+      "onboard_time": 1757286979,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287418,
       "num": 287418,
       "word": "肖思远烈士弟弟肖荣基参加阅兵活动",
       "onboard_time": 1756890805,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 286435,
-      "num": 286435,
-      "word": "血月可能有一个绿松石带",
-      "onboard_time": 1757244140,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285977,
@@ -6025,14 +6057,6 @@
       "onboard_time": 1756697721,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 269951,
-      "num": 269951,
-      "word": "大学生呕吐系自备井蓄水池受污染",
-      "onboard_time": 1757262499,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268670,
@@ -6513,6 +6537,14 @@
       "onboard_time": 1757079262,
       "rank": 48,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 241544,
+      "num": 241544,
+      "word": "影院女厕隔间门贴男明星照片引质疑",
+      "onboard_time": 1757260640,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241498,
@@ -7971,6 +8003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193342,
+      "num": 172519,
+      "word": "在中国这个东西是用来占座的",
+      "onboard_time": 1757251882,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193251,
       "num": 193251,
       "word": "杨紫聊拍摄生命树高反",
@@ -9139,6 +9179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171812,
+      "num": 171812,
+      "word": "泰沉尸案嫌疑人买哑铃前曾中文通话",
+      "onboard_time": 1757260881,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 171595,
       "num": 171595,
       "word": "经济法",
@@ -9313,14 +9361,6 @@
       "onboard_time": 1756654943,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169099,
-      "num": 169099,
-      "word": "影院女厕隔间门贴男明星照片引质疑",
-      "onboard_time": 1757260640,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169087,
@@ -9705,14 +9745,6 @@
       "onboard_time": 1756802239,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163336,
-      "num": 163336,
-      "word": "泰沉尸案嫌疑人买哑铃前曾中文通话",
-      "onboard_time": 1757260881,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 163125,
@@ -10249,14 +10281,6 @@
       "onboard_time": 1756715903,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156025,
-      "num": 156025,
-      "word": "在中国这个东西是用来占座的",
-      "onboard_time": 1757251882,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 155864,
@@ -12443,6 +12467,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 131172,
+      "num": 131172,
+      "word": "月经6种表现说明子宫健康",
+      "onboard_time": 1757287040,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 131059,
       "num": 131059,
       "word": "台风塔巴生成",
@@ -13707,6 +13739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119530,
+      "num": 119530,
+      "word": "宝宝撞见爸妈偷偷吃宵夜",
+      "onboard_time": 1757285537,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119337,
       "num": 197369,
       "word": "抗战胜利80周年",
@@ -14355,6 +14395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114189,
+      "num": 114189,
+      "word": "蟑螂会把定制的手办吃干净",
+      "onboard_time": 1757286979,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114131,
       "num": 114131,
       "word": "阅兵鸽飞到了河南",
@@ -14689,6 +14737,14 @@
       "onboard_time": 1756978702,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111649,
+      "num": 111649,
+      "word": "美网",
+      "onboard_time": 1756770740,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111541,
@@ -15105,6 +15161,14 @@
       "onboard_time": 1756913063,
       "rank": 49,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 108057,
+      "num": 108057,
+      "word": "阿尔卡拉斯美网男单冠军",
+      "onboard_time": 1757284096,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 107777,
@@ -16675,6 +16739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94995,
+      "num": 94995,
+      "word": "江祖平晒黑图求助怕遭龚氏父子报复",
+      "onboard_time": 1757282775,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94988,
       "num": 94988,
       "word": "为什么是这80面战旗",
@@ -16985,6 +17057,14 @@
       "onboard_time": 1757227701,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92099,
+      "num": 92099,
+      "word": "金晨回应没人通知金晨这是红毯吗",
+      "onboard_time": 1757286859,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 92088,
@@ -19027,14 +19107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67723,
-      "num": 104011,
-      "word": "美网",
-      "onboard_time": 1756770740,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67629,
       "num": 67629,
       "word": "无人机",
@@ -19499,12 +19571,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60379,
+      "num": 60379,
+      "word": "吃了15天白人饭的张拿铁回家泪崩",
+      "onboard_time": 1757277554,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 60369,
       "num": 205585,
       "word": "柯南又戴着小兰的红围巾",
       "onboard_time": 1756736184,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 60333,
+      "num": 60333,
+      "word": "阿尔卡拉斯冠军感言",
+      "onboard_time": 1757286799,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 59746,
@@ -19593,6 +19681,14 @@
       "onboard_time": 1756718542,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 57683,
+      "num": 57683,
+      "word": "小咪是一个擅长原谅人类的小猫",
+      "onboard_time": 1757287101,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 57631,
@@ -19843,14 +19939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54393,
-      "num": 54393,
-      "word": "吃了15天白人饭的张拿铁回家泪崩",
-      "onboard_time": 1757277554,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 54378,
       "num": 120195,
       "word": "偶遇毕雯珺颜人中吃火锅",
@@ -19929,6 +20017,14 @@
       "onboard_time": 1757158102,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53175,
+      "num": 53175,
+      "word": "阿尔卡拉斯3比1辛纳",
+      "onboard_time": 1757286319,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 53042,
@@ -20113,14 +20209,6 @@
       "onboard_time": 1757178379,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 48514,
-      "num": 48514,
-      "word": "阿尔卡拉斯美网男单冠军",
-      "onboard_time": 1757284096,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 48427,
@@ -20697,14 +20785,6 @@
       "onboard_time": 1756895663,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33415,
-      "num": 31504,
-      "word": "江祖平晒黑图求助怕遭龚氏父子报复",
-      "onboard_time": 1757282775,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 33410,
