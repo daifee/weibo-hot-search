@@ -1,6 +1,6 @@
 {
   "startTime": 1757262432347,
-  "endTime": 1757287311368,
+  "endTime": 1757288199340,
   "band_list": [
     {
       "raw_hot": 3121097,
@@ -11,20 +11,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2355884,
+      "num": 470083,
+      "word": "向太曝张国荣不是因抑郁症自杀",
+      "onboard_time": 1757286739,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1643155,
       "num": 1643155,
       "word": "月全食",
       "onboard_time": 1757241440,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1470745,
-      "num": 183598,
-      "word": "向太曝张国荣不是因抑郁症自杀",
-      "onboard_time": 1757286739,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1166160,
@@ -57,6 +57,14 @@
       "onboard_time": 1757248042,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 528461,
+      "num": 184008,
+      "word": "变形计张迪自曝女友是一线女明星",
+      "onboard_time": 1757286979,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 527274,
@@ -147,14 +155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 287447,
-      "num": 180166,
-      "word": "变形计张迪自曝女友是一线女明星",
-      "onboard_time": 1757286979,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264340,
       "num": 264340,
       "word": "深圳停课",
@@ -235,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 160043,
+      "num": 160043,
+      "word": "深圳天气",
+      "onboard_time": 1757247981,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156844,
       "num": 156844,
       "word": "12306回应大量私生高铁站围堵男星",
@@ -251,12 +259,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145395,
+      "num": 139666,
+      "word": "月经6种表现说明子宫健康",
+      "onboard_time": 1757287040,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143789,
       "num": 201567,
       "word": "九门官宣节奏",
       "onboard_time": 1757256444,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141278,
+      "num": 141278,
+      "word": "蟑螂会把定制的手办吃干净",
+      "onboard_time": 1757286979,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140368,
+      "num": 140368,
+      "word": "宝宝撞见爸妈偷偷吃宵夜",
+      "onboard_time": 1757285537,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 139352,
@@ -267,27 +299,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135491,
-      "num": 135491,
-      "word": "深圳天气",
-      "onboard_time": 1757247981,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131172,
-      "num": 131172,
-      "word": "月经6种表现说明子宫健康",
-      "onboard_time": 1757287040,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 128813,
       "num": 194889,
       "word": "祝绪丹赫本风",
       "onboard_time": 1757253504,
       "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 128225,
+      "num": 140393,
+      "word": "金晨回应没人通知金晨这是红毯吗",
+      "onboard_time": 1757286859,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -299,28 +323,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119530,
-      "num": 119530,
-      "word": "宝宝撞见爸妈偷偷吃宵夜",
-      "onboard_time": 1757285537,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115222,
       "num": 115222,
       "word": "乘客恐飞服用安眠药被赶下飞机",
       "onboard_time": 1757253682,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114189,
-      "num": 114189,
-      "word": "蟑螂会把定制的手办吃干净",
-      "onboard_time": 1757286979,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 111649,
@@ -411,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92099,
-      "num": 92099,
-      "word": "金晨回应没人通知金晨这是红毯吗",
-      "onboard_time": 1757286859,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 89848,
+      "num": 112382,
+      "word": "广东多地已发布停课通知",
+      "onboard_time": 1757253923,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86627,
@@ -435,12 +443,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 83156,
-      "num": 83156,
-      "word": "广东多地已发布停课通知",
-      "onboard_time": 1757253923,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 82961,
+      "num": 82961,
+      "word": "同花顺董事长减持自称让渡市场机会",
+      "onboard_time": 1757288061,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 78338,
@@ -459,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 74883,
+      "num": 74883,
+      "word": "胡萝卜色血月",
+      "onboard_time": 1757253383,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74381,
       "num": 74381,
       "word": "感觉看了一期五哈",
@@ -475,12 +491,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 72820,
-      "num": 72820,
-      "word": "胡萝卜色血月",
-      "onboard_time": 1757253383,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 72825,
+      "num": 109930,
+      "word": "林允你偷偷报班了吧",
+      "onboard_time": 1757286859,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 72771,
@@ -547,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59578,
+      "num": 59578,
+      "word": "iG将再战BLG",
+      "onboard_time": 1757287820,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 57683,
       "num": 57683,
       "word": "小咪是一个擅长原谅人类的小猫",
@@ -563,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53473,
+      "num": 53473,
+      "word": "Meiko高高兴兴去跟刘神打招呼",
+      "onboard_time": 1757287882,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53175,
       "num": 53175,
       "word": "阿尔卡拉斯3比1辛纳",
@@ -577,6 +609,14 @@
       "onboard_time": 1757269815,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44668,
+      "num": 480644,
+      "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
+      "onboard_time": 1757287579,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43596,
@@ -720,6 +760,14 @@
       "word": "华盛顿抗议美政府部署国民警卫队",
       "onboard_time": 1757276954,
       "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18425,
+      "num": 110853,
+      "word": "美国或需退还半数已征关税",
+      "onboard_time": 1757288000,
+      "rank": 28,
       "category": "国际时政"
     },
     {

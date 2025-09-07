@@ -1,6 +1,6 @@
 {
   "startTime": 1756657731402,
-  "endTime": 1757287311368,
+  "endTime": 1757288199340,
   "band_list": [
     {
       "raw_hot": 32785593,
@@ -321,6 +321,14 @@
       "onboard_time": 1757201419,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2355884,
+      "num": 470083,
+      "word": "向太曝张国荣不是因抑郁症自杀",
+      "onboard_time": 1757286739,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2323040,
@@ -729,14 +737,6 @@
       "onboard_time": 1756967364,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1470745,
-      "num": 183598,
-      "word": "向太曝张国荣不是因抑郁症自杀",
-      "onboard_time": 1757286739,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1469281,
@@ -2993,6 +2993,14 @@
       "onboard_time": 1756804822,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 528461,
+      "num": 184008,
+      "word": "变形计张迪自曝女友是一线女明星",
+      "onboard_time": 1757286979,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 527730,
@@ -5721,14 +5729,6 @@
       "onboard_time": 1756994004,
       "rank": 9,
       "category": "国内时政,情感"
-    },
-    {
-      "raw_hot": 287447,
-      "num": 180166,
-      "word": "变形计张迪自曝女友是一线女明星",
-      "onboard_time": 1757286979,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 287418,
@@ -11259,6 +11259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145395,
+      "num": 139666,
+      "word": "月经6种表现说明子宫健康",
+      "onboard_time": 1757287040,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145345,
       "num": 145345,
       "word": "易烊千玺舞台才是猎场",
@@ -11571,6 +11579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141278,
+      "num": 141278,
+      "word": "蟑螂会把定制的手办吃干净",
+      "onboard_time": 1757286979,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141173,
       "num": 244758,
       "word": "田曦薇把故宫伴手礼背到了土耳其",
@@ -11640,6 +11656,14 @@
       "word": "猫 你不管管吗",
       "onboard_time": 1756786522,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140368,
+      "num": 140368,
+      "word": "宝宝撞见爸妈偷偷吃宵夜",
+      "onboard_time": 1757285537,
+      "rank": 25,
       "category": "幽默"
     },
     {
@@ -12467,14 +12491,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 131172,
-      "num": 131172,
-      "word": "月经6种表现说明子宫健康",
-      "onboard_time": 1757287040,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 131059,
       "num": 131059,
       "word": "台风塔巴生成",
@@ -12825,6 +12841,14 @@
       "onboard_time": 1756690098,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128225,
+      "num": 140393,
+      "word": "金晨回应没人通知金晨这是红毯吗",
+      "onboard_time": 1757286859,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 128080,
@@ -13739,14 +13763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119530,
-      "num": 119530,
-      "word": "宝宝撞见爸妈偷偷吃宵夜",
-      "onboard_time": 1757285537,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119337,
       "num": 197369,
       "word": "抗战胜利80周年",
@@ -14393,14 +14409,6 @@
       "onboard_time": 1757258002,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114189,
-      "num": 114189,
-      "word": "蟑螂会把定制的手办吃干净",
-      "onboard_time": 1757286979,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 114131,
@@ -17059,14 +17067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92099,
-      "num": 92099,
-      "word": "金晨回应没人通知金晨这是红毯吗",
-      "onboard_time": 1757286859,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 92088,
       "num": 153630,
       "word": "当弟弟让我坐上了教室的雅座",
@@ -18059,6 +18059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82961,
+      "num": 82961,
+      "word": "同花顺董事长减持自称让渡市场机会",
+      "onboard_time": 1757288061,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82959,
       "num": 197194,
       "word": "刘老庄连82名先烈很少找到名字",
@@ -18833,6 +18841,14 @@
       "onboard_time": 1757076381,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72825,
+      "num": 109930,
+      "word": "林允你偷偷报班了吧",
+      "onboard_time": 1757286859,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 72778,
@@ -19619,6 +19635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59578,
+      "num": 59578,
+      "word": "iG将再战BLG",
+      "onboard_time": 1757287820,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59500,
       "num": 120627,
       "word": "这三种皮肤问题怎么处理",
@@ -20009,6 +20033,14 @@
       "onboard_time": 1756682238,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53473,
+      "num": 53473,
+      "word": "Meiko高高兴兴去跟刘神打招呼",
+      "onboard_time": 1757287882,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 53413,
@@ -20417,6 +20449,14 @@
       "onboard_time": 1757201359,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 44668,
+      "num": 480644,
+      "word": "网警查处摆拍造谣女子嫁到外国贫民窟求助回国者",
+      "onboard_time": 1757287579,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44606,
@@ -21529,6 +21569,14 @@
       "onboard_time": 1756990044,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18425,
+      "num": 110853,
+      "word": "美国或需退还半数已征关税",
+      "onboard_time": 1757288000,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17929,
